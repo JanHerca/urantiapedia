@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Ulises Pedrique, Floride, États-Unis_
 
-_Note de l’éditeur : Ulises est un enseignant/animateur de la branche espagnole de L’École Internet du_ Livre d’Urantia _(UBIS) et rejoignit le conseil d’administration mondial d’UBIS en juillet 2020._
+_Note de l’éditeur : Ulises est un enseignant/animateur de la branche espagnole de L’École Internet du_ Livre d’Urantia _(UBIS) et rejoignit le conseil d’administration mondial d’UBIS en juillet 2020._
 
 Originellement, je suis de Caracas au Vénézuéla. Ma résidence est maintenant un paradis magnifique en Amérique du Nord, appelé Venice, en Floride, aux États-Unis. C’est là où mes premiers contacts et mes rencontres avec la Fondation Urantia débutèrent, spécialement avec UBIS. En ce moment, je réside en Corée du Sud, d’où je m‘adresse à vous maintenant. (C’est temporaire, bien que cela dure plus longtemps que prévu. Mais ce n’est pas le sujet de ce récit).
 

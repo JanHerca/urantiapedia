@@ -56,7 +56,7 @@ La Fondation Urantia a imprimé 22 421 livres en 2011.
 
 - 1800 livres en couverture cartonnée, édition espagnole 1993
 - 3813 couvertures souples en portugais
-- 1890 couvertures cartonnées en polonais ( 2<sup>ième</sup>  édition )
+- 1890 couvertures cartonnées en polonais ( 2<sup>ième</sup>  édition )
 - 3240 couvertures souples, édition espagnole 1993 pour l’Argentine
 - 1178 couvertures souples, édition espagnole 1993 pour l’Amérique du Sud
 - 6300 couvertures souples en anglais
@@ -84,7 +84,7 @@ La Fondation Urantia et la Fellowship ont aussi convenu de produire en coopérat
 
 Le site des traducteurs fut mis en service en 2011. Les équipes de traduction française, espagnole et portugaise l’utilisent. Merci en particulier pour cette réalisation à Rogerio da Silva, Rob Reno, Georges Michelson-Dupont, Jay Peregrine et Larry Watkins.
 
-Des progrès furent faits  sur la traduction chinoise ainsi que sur beaucoup d’autres traductions.
+Des progrès furent faits  sur la traduction chinoise ainsi que sur beaucoup d’autres traductions.
 
 ## Les révisions des traductions espagnole et française
 
@@ -100,11 +100,11 @@ Les versions internet HTLM de toutes les traductions du _Livre d’Urantia_ ont 
 
 Le site d’UBIS a été traduit en espagnol pour allouer des classes de langue espagnole. Les classes d’UBIS augmentent. Des dispositions ont été prises pour offrir des classes en portugais.
 
-Une réunion du conseil d’administration d’UBIS fut tenue à Chicago pour discuter des plans à court et à long terme. Nous devons un “ grand merci ” à  Dorothy Elder, Georges Michelson-Dupont, Polly Friedman, Olga López, Ralph et Betty Zehr, Tom Brachna, Judy Cosky, Susan Flacks et Pam Maunakea pour leur contribution considérable à UBIS.
+Une réunion du conseil d’administration d’UBIS fut tenue à Chicago pour discuter des plans à court et à long terme. Nous devons un “ grand merci ” à  Dorothy Elder, Georges Michelson-Dupont, Polly Friedman, Olga López, Ralph et Betty Zehr, Tom Brachna, Judy Cosky, Susan Flacks et Pam Maunakea pour leur contribution considérable à UBIS.
 
 ## Restauration de la Fondation Urantia à 533, Diversey Parkway
 
-La phase 1 du projet de rénovation de 533, Diversey Parkway ( 2<sup>ième</sup> étage : trois nouvelles salles de bain, une nouvelle cuisine et des améliorations faites pour le couchage dans la véranda, dans le couloir et dans le coin du petit déjeuner ), fut presque terminée en 2011. Nous espérons finir le deuxième étage en juillet. Nous avons commencé la phase 2, comprenant la rénovation du 1<sup>er</sup> étage et la réparation de la tuyauterie du sous-sol.  En 2011, nous y  avons ajouté une nouvelle salle de réunion, refait la pièce pour les visiteurs, nous avons commencé la rénovation de deux salles de bain, de la pièce des imprimantes, de la salle de pause et du couloir. Beaucoup des vieux tuyaux  et toute la tuyauterie à risque du sous-sol ont été réparés ou remplacés.
+La phase 1 du projet de rénovation de 533, Diversey Parkway ( 2<sup>ième</sup> étage : trois nouvelles salles de bain, une nouvelle cuisine et des améliorations faites pour le couchage dans la véranda, dans le couloir et dans le coin du petit déjeuner ), fut presque terminée en 2011. Nous espérons finir le deuxième étage en juillet. Nous avons commencé la phase 2, comprenant la rénovation du 1<sup>er</sup> étage et la réparation de la tuyauterie du sous-sol.  En 2011, nous y  avons ajouté une nouvelle salle de réunion, refait la pièce pour les visiteurs, nous avons commencé la rénovation de deux salles de bain, de la pièce des imprimantes, de la salle de pause et du couloir. Beaucoup des vieux tuyaux  et toute la tuyauterie à risque du sous-sol ont été réparés ou remplacés.
 
 Environ 215 000$ des 400 000$ nécessaires à la rénovation totale du bâtiment ont été collectés. Ce bâtiment historique est un héritage pour les générations futures et un capital vital pour la communauté, aujourd’hui. Vos dons déductibles des impôts, assignés au projet de rénovation du 533, sont vraiment nécessaires. Pour finir le premier étage, nous avons besoin de 50 000 $ de plus, avant la fin 2012.
 
@@ -125,7 +125,7 @@ En décembre, Joanne Strobel a rejoint l’équipe de 533, comme assistante exé
 
 ## Le site de la Fondation Urantia
 
-Les visites totales à  www.urantia.org furent de 772 939 en 2011, en augmentation de 44 % par rapport à 2010. Les pages visitées avaient augmentées de 24 %. Les téléchargements du _Livre d’Urantia_ ont augmenté de 24 %. L’expansion des réseaux sociaux continua en 2011. Sur Facebook «les j’aime » dépassèrent notre objectif d’un tiers à la fin de l’année avec 3000 « j’aime ».
+Les visites totales à  www.urantia.org furent de 772 939 en 2011, en augmentation de 44 % par rapport à 2010. Les pages visitées avaient augmentées de 24 %. Les téléchargements du _Livre d’Urantia_ ont augmenté de 24 %. L’expansion des réseaux sociaux continua en 2011. Sur Facebook «les j’aime » dépassèrent notre objectif d’un tiers à la fin de l’année avec 3000 « j’aime ».
 
 Durant la réunion de planification, une conversation étendue se centra sur le rôle croissant de l’internet, de la technologie numérique et des médias de société pour servir les objectifs du _Livre d’Uranti_a.
 

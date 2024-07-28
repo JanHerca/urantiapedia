@@ -35,11 +35,11 @@ dateCreated: 2023-8-29T10:55:6Z
 
 Du jeudi soir 13 septembre au dimanche 16 septembre 2018
 
-Faites vos bagages. « Quelle aventure, quelle romance ! » <a id="a37_58"></a>[LU 112:7.18](/fr/The_Urantia_Book/112#p7_18)
+Faites vos bagages. « Quelle aventure, quelle romance ! » <a id="a37_58"></a>[LU 112:7.18](/fr/The_Urantia_Book/112#p7_18)
 
 Annonce de notre prochaine retraite de la série de retraites de femmes de la Fondation Urantia, l’équipe animatrice des Filles de Dieu (Katharina Becker, Doreen Heyne, Carolyn Prentice et Line St Pierre) vous invite à un week-end intime, expérimental et amusant.
 
-Durant notre prochaine retraite, « Dansez avec Dieu _—_ Vivre Courageusement Son Amour », nous co- créerons un environnement de confiance dans un cercle spirituel. Ensemble, nous explorerons et partagerons nos découvertes et expériences de vivre courageusement l’amour de Dieu.
+Durant notre prochaine retraite, « Dansez avec Dieu _—_ Vivre Courageusement Son Amour », nous co- créerons un environnement de confiance dans un cercle spirituel. Ensemble, nous explorerons et partagerons nos découvertes et expériences de vivre courageusement l’amour de Dieu.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2018_03/052.jpg">
@@ -49,7 +49,7 @@ Nous examinerons comment les obstacles et l’adversité nous mettent au défi, 
 
 Ensemble, nous découvrirons comment, tandis que la carte de nos vies se déroule, une force spirituelle nous guide d’une magnifique découverte à l’autre, ici et au-delà.
 
-Le coût des trois jours de $ 250.00 comprend tous les repas et le logement sur la base du premier arrivé, premier servi. La retraite débutera avec un dîner le jeudi soir et finira avec un déjeuner le dimanche.
+Le coût des trois jours de $ 250.00 comprend tous les repas et le logement sur la base du premier arrivé, premier servi. La retraite débutera avec un dîner le jeudi soir et finira avec un déjeuner le dimanche.
 
 Si vous voulez participer à cet événement à la Fondation Urantia, 533 W. Diversey Parkway à Chicago, contactez Joanne Strobel à [joanne@urantia.org](mailto:joanne@urantia.org)
 

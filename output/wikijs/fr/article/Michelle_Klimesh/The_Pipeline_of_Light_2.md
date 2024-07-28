@@ -63,7 +63,7 @@ Les efforts actuels amène le Pipeline à un total de 8309 exemplaires du _Livre
 
 Nous apprécions profondément les contributions de nos volontaires et de nos donateurs. Si vous désirez contribuer à ce travail, contactez, s’il vous plaît, Paula Thompson à [fellowship@urantiabook.org](mailto:fellowship@urantiabook.org)
 
-Merci !
+Merci !
 
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2018_03/036.jpg">

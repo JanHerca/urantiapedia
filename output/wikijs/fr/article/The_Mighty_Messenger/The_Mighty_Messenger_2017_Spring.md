@@ -56,7 +56,7 @@ Notre équipe est la colonne vertébrale du programme, mais pour vraiment « dé
 <img src="/image/article/The_Mighty_Messenger/2017_Spring/005909.jpg">
 </figure>
 
-Merci et amour éternel !! L'inscription à Truthseeker comprend : de grands événements de prise de parole + du rafting, de la randonnée et un déjeuner quotidien. 
+Merci et amour éternel !! L'inscription à Truthseeker comprend : de grands événements de prise de parole + du rafting, de la randonnée et un déjeuner quotidien. 
 
 Le coût de l’inscription en tant que Truthseeker couvre exactement le coût qu’IC’17 paie à l’Université de Denver. Le rafting et d'autres activités sont généreusement couverts par la bourse. Le coût est de seulement 280,00 $. 
 - Jour 1 - Mercredi 19 juillet (enregistrement) les chercheurs de vérité se rassembleront et les présentations seront faites. 
@@ -76,18 +76,18 @@ Magasin Nous aurons à nouveau un magasin lors de la Conférence internationale 
 <img src="/image/article/The_Mighty_Messenger/2017_Spring/005910.jpg">
 </figure>
 
-Notre magasin de conférence est une merveilleuse façon de vendre et de montrer vos produits ou votre art à la communauté Urantia.  Souhaitez-vous proposer un produit ou une œuvre d’art dans la boutique de la conférence ? Si tel est le cas, vous devez savoir ce qui suit : 
+Notre magasin de conférence est une merveilleuse façon de vendre et de montrer vos produits ou votre art à la communauté Urantia.  Souhaitez-vous proposer un produit ou une œuvre d’art dans la boutique de la conférence ? Si tel est le cas, vous devez savoir ce qui suit : 
 1. Veuillez nous informer de votre intention de vendre des produits ou des œuvres d'art en magasin avant le 31 mai 2017. Veuillez inclure les descriptions des produits ou des œuvres d'art que vous souhaitez offrir ainsi que les prix et les quantités. 
 2. Envoyez votre candidature à : _The Urantia Book_ Fellowship, PO Box 6631, Broomfield, CO 80021. Ou par courrier électronique à support@urantiabook.org. Veuillez inclure un e-mail actuel, une adresse postale et un numéro de téléphone de jour sur votre demande de magasin et signez-la pour indiquer que vous acceptez les conditions. 
   Remarque : Seuls les produits non actuellement proposés dans le catalogue Uversa Press sont éligibles. Si vos produits figurent dans le catalogue, nous apporterons et proposerons vos produits au magasin IC’14. 
-3. En tant que vendeur, vous recevrez un code fournisseur. Chaque article que vous mettez en vente doit avoir un autocollant amovible, qui comprend le prix de l’article et le code du fournisseur. Chaque produit différent que vous proposez nécessitera un prix différent (même léger) si vous souhaitez suivre les ventes de votre inventaire. C'est le même système que nous avons utilisé dans les 8 derniers magasins IC et il a très bien fonctionné pour tout le monde. Par exemple : si le code fournisseur qui vous est attribué est 123 et que vous souhaitez proposer des t-shirts, des livres et des affiches, vous pouvez les fixer à $9.95, $10,00 et 9,99 $. Cela nous permet de traiter facilement les ventes sans description tout en permettant aux vendeurs de savoir exactement ce qui a été vendu, car le prix sert également de code produit. 
+3. En tant que vendeur, vous recevrez un code fournisseur. Chaque article que vous mettez en vente doit avoir un autocollant amovible, qui comprend le prix de l’article et le code du fournisseur. Chaque produit différent que vous proposez nécessitera un prix différent (même léger) si vous souhaitez suivre les ventes de votre inventaire. C'est le même système que nous avons utilisé dans les 8 derniers magasins IC et il a très bien fonctionné pour tout le monde. Par exemple : si le code fournisseur qui vous est attribué est 123 et que vous souhaitez proposer des t-shirts, des livres et des affiches, vous pouvez les fixer à $9.95, $10,00 et 9,99 $. Cela nous permet de traiter facilement les ventes sans description tout en permettant aux vendeurs de savoir exactement ce qui a été vendu, car le prix sert également de code produit. 
 4. Chaque fournisseur est responsable de son propre inventaire, y compris son expédition ou son transport sur le site de la conférence, son prix, son installation avant l’ouverture et l’emballage des restes une fois la conférence terminée. Chaque vendeur disposera d'un espace adéquat et égal pour exposer ses produits. Tous les efforts seront faits pour garantir qu’il n’y ait pas de rétrécissement, cependant, la Communauté ne peut être responsable du vol. 
-  Remarque : Toute comptabilité des ventes aura lieu dans les 30 jours suivant la conférence et les paiements seront distribués à ce moment-là. Aucun vendeur ne sera payé sur le site de la conférence. Une commission de 25% sur toutes les ventes sera versée à la Fellowship du Livre d'Urantia. 
+  Remarque : Toute comptabilité des ventes aura lieu dans les 30 jours suivant la conférence et les paiements seront distribués à ce moment-là. Aucun vendeur ne sera payé sur le site de la conférence. Une commission de 25% sur toutes les ventes sera versée à la Fellowship du Livre d'Urantia. 
 5. Les heures d'ouverture du magasin IC'14 seront de 11h00 à 19h00 tous les jours de la conférence. Toute personne proposant des produits à la vente dans le magasin de la conférence doit travailler au moins une journée de trois heures. Nous établirons un horaire après la date limite du 31 mai pour vous aviser de votre quart de travail. Si vous avez d'autres engagements liés à la conférence qui vous empêchent de travailler dans le magasin, ou à certains moments, veuillez le noter sur votre candidature en magasin. Nous ferons de notre mieux pour accueillir tout le monde. Il y aura à tout moment un gérant de magasin qualifié dans le magasin. 
 6. La galerie d'art sera reliée au magasin pour permettre aux participants d'acheter facilement des œuvres d'art à vendre. Les ventes d'œuvres d'art seront traitées de la même manière que les ventes de produits, sauf que les artistes devront utiliser des cartes plutôt que des autocollants pour indiquer les numéros et les prix des fournisseurs. N'oubliez pas de nous aviser si vous avez l’intention de vendre de l’art afin que nous puissions vous attribuer un numéro de vendeur. Les objets d’art à exposer uniquement n’ont pas besoin de numéro de fournisseur. 
 
 Si vous avez des questions, veuillez nous appeler au 303-476-5878. Nous avons hâte de travailler avec vous! 
-Lien MAGASIN IC17 : http://www.urantiabook.org/urantia-book-store. 
+Lien MAGASIN IC17 : http://www.urantiabook.org/urantia-book-store. 
 
 ## Symposium Scientifique IV : Science et Spiritualité, 18 août - 21 août 
 
@@ -120,7 +120,7 @@ Par _John Hay_
 <img src="/image/article/The_Mighty_Messenger/2017_Spring/005912.jpg">
 </figure>
 
-Après 30 ans d'attente vigilante, l’École de Boulder ouvre à nouveau ses portes cet automne aux étudiants du _Livre d'Urantia_. Si vous vous sentez appelé à une étude plus approfondie du livre et de ses enseignements, ou si vous êtes simplement curieux de savoir ce qui attend les lecteurs engagés, cliquez ici pour en savoir plus : www.TheBoulderSchool.com 
+Après 30 ans d'attente vigilante, l’École de Boulder ouvre à nouveau ses portes cet automne aux étudiants du _Livre d'Urantia_. Si vous vous sentez appelé à une étude plus approfondie du livre et de ses enseignements, ou si vous êtes simplement curieux de savoir ce qui attend les lecteurs engagés, cliquez ici pour en savoir plus : www.TheBoulderSchool.com 
 - Si vous vous sentez vivant avec les enseignements de cette nouvelle révélation, 
 - Si vous envisagez sérieusement de consacrer votre vie au défi de devenir une personne née d'un esprit capable de révéler le Maître à ceux qui vous entourent, comme l’a fait Jésus, 
 - Si vous vous sentez appelé à aller dans le monde pour diffuser ces enseignements comme en témoigne la parabole du semeur, 
@@ -129,20 +129,20 @@ Après 30 ans d'attente vigilante, l’École de Boulder ouvre à nouveau ses po
 Nous recherchons quelques bonnes âmes qui termineront ce qu’elles ont commencé, qui consacreront leur vie religieuse et philosophique à moudre les grains de vérité et à nourrir les brebis de Jésus. 
 www.TheBoulderSchool.com – S'il vous plaît, transmettez-le !! 
 
-## Souvenirs de l’IC'17 : 
+## Souvenirs de l’IC'17 : 
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2017_Spring/005913.jpg">
 </figure>
 
-Nous sollicitons votre aide ! Si vous aviez un parent, un ami ou un être cher qui a « obtenu son diplôme » entre notre dernière conférence internationale (juin 2014) et aujourd'hui, veuillez soumettre les 5 éléments d'information à son sujet. Cette information sera présentée dans un diaporama « Remembrance » au cours de l’IC'17 à Denver en juillet prochain. 
+Nous sollicitons votre aide ! Si vous aviez un parent, un ami ou un être cher qui a « obtenu son diplôme » entre notre dernière conférence internationale (juin 2014) et aujourd'hui, veuillez soumettre les 5 éléments d'information à son sujet. Cette information sera présentée dans un diaporama « Remembrance » au cours de l’IC'17 à Denver en juillet prochain. 
 1. Une photo, 
 2. Leur nom, 
 3. Date de naissance (mois uniquement), 
 4. Date d'obtention du diplôme (mois seulement), 
 5. Quelques mots à leur sujet (25 à 30 caractères ou moins). 
 
-Veuillez soumettre à : weimer1@hotmail.com 
+Veuillez soumettre à : weimer1@hotmail.com 
 
 Merci pour votre aide, Buck Weimer 
 Pueblo, Colorado 
@@ -191,7 +191,7 @@ Pour être éligible à siéger au Conseil général, il faut être membre de l�
 
 Les conseillers généraux sont généralement élus par l’Assemblée triennale des délégués (TDA). Tous les trois ans, les représentants des sociétés régionales d'Urantia se réunissent pour élire ou réélire 12 conseillers à mandat complet. 
 
-Le Conseil Général est un organe délibérant qui guide la direction générale de la Fellowship du Livre d'Urantia. Il élit les 5 dirigeants du Fellowship ainsi que les présidents/femmes qui dirigent nos 9 comités permanents. Ces 14 personnes sont appelées le Comité Exécutif. Le GC a également le pouvoir de créer des règlements et de modifier la constitution de la Fellowship. Vous pouvez en savoir plus sur le Conseil général dans notre constitution ici : http://www.urantia-book.org/Constitution/Constitution2013-02-09.pdf 
+Le Conseil Général est un organe délibérant qui guide la direction générale de la Fellowship du Livre d'Urantia. Il élit les 5 dirigeants du Fellowship ainsi que les présidents/femmes qui dirigent nos 9 comités permanents. Ces 14 personnes sont appelées le Comité Exécutif. Le GC a également le pouvoir de créer des règlements et de modifier la constitution de la Fellowship. Vous pouvez en savoir plus sur le Conseil général dans notre constitution ici : http://www.urantia-book.org/Constitution/Constitution2013-02-09.pdf 
 
 L'adhésion au GC implique d'assister à seulement deux réunions par an. Les réunions ont lieu pendant un week-end et dans divers endroits en Amérique du Nord et ont généralement lieu en février (dans un climat chaud) et à nouveau à la clôture et en conjonction avec la conférence d'été de la Fellowship. Il est important de noter que les conseillers doivent être en mesure de couvrir leurs propres frais pour assister aux réunions. Cela comprend le déplacement jusqu’à la réunion, la chambre d'hôtel et les repas. Une aide financière occasionnelle peut être offerte aux conseillers si les circonstances les empêchent de faire face à ces dépenses. 
 
@@ -223,9 +223,9 @@ Nous demandons au Père de continuer à nous guider dans cette belle œuvre d’
 
 Au premier trimestre 2017, nos bénévoles du Pipeline de Lumière ont placé deux cent soixante-sept exemplaires du _Le Livre d'Urantia_ dans neuf pays. Vos dons au Pipeline nous ont aidés à livrer des livres à des lecteurs et à des groupes d'étude au Chili, au Malawi, au Venezuela, au Canada, en Indonésie, aux États-Unis, à Cuba, en Grande-Bretagne et en Colombie. Nous avons également envoyé des livres sur l’Île de Pâques, qui techniquement n’est pas un pays nouveau car il appartient au Chili, mais c’est toujours amusant à raconter. 
 
-Les efforts actuels portent le total historique de notre Pipeline à sept mille cent dix exemplaires du _Le Livre d'Urantia_ placés dans quatre-vingt-cinq pays à travers le monde. Un grand merci aux merveilleux bénévoles qui font circuler ce flux de livres dans le monde pour nous ! 
+Les efforts actuels portent le total historique de notre Pipeline à sept mille cent dix exemplaires du _Le Livre d'Urantia_ placés dans quatre-vingt-cinq pays à travers le monde. Un grand merci aux merveilleux bénévoles qui font circuler ce flux de livres dans le monde pour nous ! 
 
-Nous apprécions profondément les contributions de nos bénévoles et de nos donateurs. Si vous souhaitez contribuer à ce travail, les dons peuvent être effectués en ligne à l’adresse suivante : 
+Nous apprécions profondément les contributions de nos bénévoles et de nos donateurs. Si vous souhaitez contribuer à ce travail, les dons peuvent être effectués en ligne à l’adresse suivante : 
 
 http://urantiabook.org/urantia-book-store/contributions 
 
@@ -259,47 +259,47 @@ Envoyez un chèque ou un mandat à _The Urantia Book_ Fellowship, PO Box 6631, B
 <img src="/image/article/The_Mighty_Messenger/2017_Spring/005920.jpg">
 </figure>
 
-**Dennis Marshall (appelez-moi Marshall) écrit depuis Fort Wayne, Indiana :** 
+**Dennis Marshall (appelez-moi Marshall) écrit depuis Fort Wayne, Indiana :** 
 
 Je suis actuellement présidente du groupe d’étude de Meredith Sprunger. De nombreux anciens ont depuis obtenu leur diplôme et la plupart des membres de notre groupe (généralement 12) lisent depuis environ un an. 
 
-Nous aimons faire un don au Pipeline of Light et nous avons un membre qui exerce un ministère en prison. Moi-même, je suis occupé à écrire. Quelques exemples : Supériorité de la Race et LU (questions sérieuses sur le moment où les médias se concentrent sur l’LU), Amélioration de la Race et LU (également pour le moment où l’LU est découvert par les médias), Les Labyrinthes comme Structures Contemplatives (au lieu des églises d'Urantia), Le Suaire de Turin. et l’LU (fantastique, pas profond). 
+Nous aimons faire un don au Pipeline of Light et nous avons un membre qui exerce un ministère en prison. Moi-même, je suis occupé à écrire. Quelques exemples : Supériorité de la Race et LU (questions sérieuses sur le moment où les médias se concentrent sur l’LU), Amélioration de la Race et LU (également pour le moment où l’LU est découvert par les médias), Les Labyrinthes comme Structures Contemplatives (au lieu des églises d'Urantia), Le Suaire de Turin. et l’LU (fantastique, pas profond). 
 
 Nous avons également un petit livret, The Universe is Friendly, qui est une présentation du christianisme urantien sans mentionner l’LU ou les Fandors. Puisque notre région du nord-est de l’Indiana est conservatrice, nous pensons que le livret (droit d'auteur inconnu) encouragera les chrétiens traditionnels à ajuster leurs croyances dans l’espoir qu’un jour ils seront prêts pour le Grand Livre Bleu. 
 
-**Levon Eudaley et Charlene Morrow écrivent depuis l’Oklahoma :** 
+**Levon Eudaley et Charlene Morrow écrivent depuis l’Oklahoma :** 
 
 Le dimanche 5 mars, Charlene, qui représente notre société au sein de l’Alliance interconfessionnelle, a été invitée à donner une conférence au Morning Star Center à Norman. Son titre est « Quoi, quand et pourquoi l’Apocalypse ? »  
 
 Chaque année, nous tenons un stand au Festival de la Paix et continuerons de le faire. La dernière à laquelle nous avons assisté remonte au 12 novembre 2016. 
 
-Chaque mois, nous organisons cinq types de réunions différents : le cours familial du dimanche en groupe, la lecture thématique du dimanche des Allen, la lecture séquentielle du mardi des Morrows, la lecture séquentielle fractionnée du mercredi des Eudaley et le cours du samedi « Leadership Through Readership ». 
+Chaque mois, nous organisons cinq types de réunions différents : le cours familial du dimanche en groupe, la lecture thématique du dimanche des Allen, la lecture séquentielle du mardi des Morrows, la lecture séquentielle fractionnée du mercredi des Eudaley et le cours du samedi « Leadership Through Readership ». 
 
 Pour notre célébration de l’anniversaire de Jésus, Charles Olivea a prononcé un excellent discours et a eu un excellent service tout autour. 
 
-**Christilyn Biek Larson écrit depuis les Rocheuses :** 
+**Christilyn Biek Larson écrit depuis les Rocheuses :** 
 
 Lors de notre dernière réunion de société, nous, à la société RMSF, avons décidé de faire comme au « ciel » et d'organiser un « Conclave » trimestriel, une rencontre sociale, avec un repas, dont le seul but sera de garder le contact, de rattraper notre retard. vies, socialiser et, lorsque nous le pouvons, discuter des affaires familiales (des personnes de notre société qui peuvent avoir des besoins spéciaux pouvant nécessiter des projets de service ou une collecte de fonds). Un souper du souvenir sera inclus lors de ces événements. En faisant de cet événement un événement social accueillant, sans en faire toute une histoire, nous pouvons inviter d'autres personnes à participer avec notre groupe. Si nous le souhaitons, nous pouvons inclure des jeux ou d'autres activités récréatives. Les familles sont incluses comme d'habitude et les enfants de tous âges sont les bienvenus. 
 
 Socialiser autour d’un repas est toujours un excellent moyen de se tenir au courant de la vie de chacun et de rester connecté. La « réversion » est toujours un bon moyen de contrebalancer la lourdeur des études intellectuelles de l’LU. 
 
-**Avi Dogim rapporte de la grande région de New York :** L'USGNY se réunit tous les trimestres autour d'un repas, suivi d'un programme d'étude, au domicile de divers membres. Une fois le programme terminé, s'ensuit généralement une réunion d'affaires de la société au cours de laquelle des rapports sont présentés par les dirigeants de la société et les présidents du programme ; de temps en temps, des questions concernant la Fraternité (par exemple l’unité, l’impression LU, etc.) sont également discutées. Pour la première fois cette année, fin avril, la direction de la société envisage d'expérimenter une réunion d'affaires annuelle sur Zoom. Il convient particulièrement de noter que l’USGNY a récemment achevé sa traduction turque de l’LU. 
+**Avi Dogim rapporte de la grande région de New York :** L'USGNY se réunit tous les trimestres autour d'un repas, suivi d'un programme d'étude, au domicile de divers membres. Une fois le programme terminé, s'ensuit généralement une réunion d'affaires de la société au cours de laquelle des rapports sont présentés par les dirigeants de la société et les présidents du programme ; de temps en temps, des questions concernant la Fraternité (par exemple l’unité, l’impression LU, etc.) sont également discutées. Pour la première fois cette année, fin avril, la direction de la société envisage d'expérimenter une réunion d'affaires annuelle sur Zoom. Il convient particulièrement de noter que l’USGNY a récemment achevé sa traduction turque de l’LU. 
 
 Les groupes d'étude de la grande région de New York continuent de se réunir dans la ville de New York, dans le nord du New Jersey, dans le comté de Westchester et dans le Connecticut.  
 
-## « Partager les enseignements », un événement éducatif conjoint 
+## « Partager les enseignements », un événement éducatif conjoint 
 
 Par _David Kulieke_ 
 
 Quiconque cherche une coopération entre des groupes de lecteurs du _Livre d'Urantia_ n’a pas besoin de chercher plus loin que plusieurs efforts conjoints de diverses combinaisons parmi les comités d'éducation des organisations. Cela comprend un séminaire suivi d’un atelier conjoint du CI à l’été 2014 et de la conférence/séance d’étude d’été de San Antonio de l’année dernière. 
 
-La dernière initiative en date était un séminaire conjoint présenté par le Comité d'Éducation de la Fellowship du Livre d'Urantia avec celui de la Fondation Urantia. Le sujet était « Donner la vérité du ciel : utiliser nos talents ». Le séminaire s’est concentré sur les différentes façons dont les étudiants du _Livre d’Urantia_ pourraient partager les enseignements du livre sans nécessairement faire référence au livre lui-même. 
+La dernière initiative en date était un séminaire conjoint présenté par le Comité d'Éducation de la Fellowship du Livre d'Urantia avec celui de la Fondation Urantia. Le sujet était « Donner la vérité du ciel : utiliser nos talents ». Le séminaire s’est concentré sur les différentes façons dont les étudiants du _Livre d’Urantia_ pourraient partager les enseignements du livre sans nécessairement faire référence au livre lui-même. 
 
 Pendant le long week-end du 23 au 26 mars, la Fondation Urantia a organisé ce séminaire éducatif au 533, avec douze présentateurs qui représentaient les responsabilités de toutes les organisations et activités d'Urantia. 
 
 Les présentateurs ont rédigé des articles et fait des présentations sur les idées et les expériences de chacun partageant les enseignements de cette manière. Parmi les présentateurs figuraient Gard Jameson, président du comité d'éducation de la Fondation, et David Kulieke, président du comité d'éducation de la Fellowship, qui étaient également co-organisateurs de l’événement. Parmi les autres présentateurs figuraient Chris Wood, Elisabeth Callahan, Guy Perron, Marilynn Kulieke, Dave Elders, Barbara Newsom, Daniel Glazer, Andre Radatus et Bruce Johnson, qui ont tous présenté depuis la salle, et James Perry, qui a présenté sur Zoom. Certains observateurs étaient également présents à la réunion 533, et bien d'autres ont regardé et contribué avec des questions et des commentaires via Zoom. 
 
-Ces présentateurs ont fourni un forum animé pour discuter d'une multitude de sujets, notamment : la nature de notre public, notre philosophie de l’éducation, la possibilité de développer un programme d'enseignement plus intentionnel et les avantages de l’institutionnalisation de nos efforts éducatifs. Des expériences pratiques en classe, des sermons donnés aux invités, une réflexion sur l’utilisation des mots et même une animation sur tableau blanc ont été inclus dans l’examen des différentes manières de partager le _Livre d'Urantia_. Les textes de ces essais figureront prochainement sur la page Web Éducation, sous « Étude » sur le site Web de la Fellowship. 
+Ces présentateurs ont fourni un forum animé pour discuter d'une multitude de sujets, notamment : la nature de notre public, notre philosophie de l’éducation, la possibilité de développer un programme d'enseignement plus intentionnel et les avantages de l’institutionnalisation de nos efforts éducatifs. Des expériences pratiques en classe, des sermons donnés aux invités, une réflexion sur l’utilisation des mots et même une animation sur tableau blanc ont été inclus dans l’examen des différentes manières de partager le _Livre d'Urantia_. Les textes de ces essais figureront prochainement sur la page Web Éducation, sous « Étude » sur le site Web de la Fellowship. 
 
 La réunion s'est terminée dimanche matin par une discussion sur les principes et concepts essentiels issus des discussions. Les types de contextes dans lesquels on peut partager la Révélation incluent à la fois des situations formelles, comme une salle de classe ou un cours à l’église ou le service à un patient, ainsi que des moments spontanés : « Pendant que nous passons par là ». Parmi les thèmes qui ont émergé, certains se concentrent sur les individus avec lesquels on interagit, comme « Écoutez avec empathie : soyez intéressé par la personne à qui vous parlez ». D'autres observations reflètent ce que l’individu partageant les enseignements peut apporter au moment présent, notamment : « Soyez prêt à répondre » et « Utilisez VOS talents et votre expertise ; Apprenez ce que vous faites. Les gens ont également souligné l’importance d’agir. Un rapport complet des conclusions tirées du séminaire sera partagé sur le site Web avec les articles individuels. 
 
@@ -322,7 +322,7 @@ Ce séminaire était l’un des nombreux efforts éducatifs collaboratifs au cou
 ## Personnel du « The Mighty Messenger » 
 
 Publié par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship. 
-Membres : Linda Buselli : présidente, Andrea Barnes, Larry Bowman, Avi Dogim, Cece Forrester, Sage Waitts
+Membres : Linda Buselli : présidente, Andrea Barnes, Larry Bowman, Avi Dogim, Cece Forrester, Sage Waitts
 877.288.3772
 bourse@urantiabook.org
 www.urantiabook.org

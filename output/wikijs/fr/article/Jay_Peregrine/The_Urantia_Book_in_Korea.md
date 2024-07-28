@@ -44,7 +44,7 @@ En juin, je suis allé à Séoul, en Corée du Sud pour participer à la Foire d
 
 L’organisation du stand était faite par Sy Chang, qui a tenu un stand à la foire depuis 13 ans. Les magnifiques affiches et les prospectus ont été conçus par Jisoo Han. Buck Weimer et Barry Clark étaient les représentants de la Fellowship du Livre d’Urantia à la foire et ils passaient leurs journées à parler aux passants du _Livre d’Urantia._
 
-La participation à la foire fut d’environ 110 000 personnes, en baisse de 10 % par rapport à l’année dernière. La foire était bondée le soir et le week-end. Beaucoup de jeunes y vinrent juste parce qu’ils pouvaient acheter des livres à prix réduit.
+La participation à la foire fut d’environ 110 000 personnes, en baisse de 10 % par rapport à l’année dernière. La foire était bondée le soir et le week-end. Beaucoup de jeunes y vinrent juste parce qu’ils pouvaient acheter des livres à prix réduit.
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">
@@ -53,7 +53,7 @@ La participation à la foire fut d’environ 110 000 personnes, en baisse de 10
 la Foire du livre internationale 2013 à Séoul</em></figcaption>
 </figure>
 
-Les ventes de livres en Corée ont chuté de 25 % en 2012. Donc, l’industrie du livre coréenne est remise en question de façon similaire à l’industrie du livre aux États-Unis, qui a dû faire face à des défis, ces dernières années.
+Les ventes de livres en Corée ont chuté de 25 % en 2012. Donc, l’industrie du livre coréenne est remise en question de façon similaire à l’industrie du livre aux États-Unis, qui a dû faire face à des défis, ces dernières années.
 
 Je suis allé à la ville d’Anyang, au sud-est de Séoul, pour visiter les presses de l’un des plus importants imprimeurs de Corée. Après avoir visité les usines d’impression aux États-Unis, au Canada et en Europe au cours des années, l’approche coréenne qui combine un faible coût avec une grande qualité m’impressionna beaucoup.
 

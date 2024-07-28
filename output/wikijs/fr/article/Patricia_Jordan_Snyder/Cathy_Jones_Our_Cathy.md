@@ -43,25 +43,25 @@ _Par Patricia Jordan Snyder, Californie, États-Unis_
 
 _Note de l’éditeur: Cet article célèbre la vie de Cathy Jones, 9 avril 1925 au 17 septembre 2016 et ses contributions à la communauté des lecteurs du_ Livre d’Urantia_._
 
-La grâce avait l’air d’être naturelle chez « Notre Cathy ». Elle circulait avec un calme qu’elle garda réellement, même dans le noir, pendant les heures noires d’épreuves physiques qui auraient dû faire sortir le pire chez la plupart des gens. Elle garda sa force de caractère, son humour, sa foi et son amour.
+La grâce avait l’air d’être naturelle chez « Notre Cathy ». Elle circulait avec un calme qu’elle garda réellement, même dans le noir, pendant les heures noires d’épreuves physiques qui auraient dû faire sortir le pire chez la plupart des gens. Elle garda sa force de caractère, son humour, sa foi et son amour.
 
-À une merveilleuse conférence à Seattle, Washington, qui était ma première, je rencontrai « Notre Cathy ». J’eus l’impression immédiatement qu’elle et moi avions été amies toute notre vie. Je rentrais dans un bâtiment quand elle vint vers moi et dit, « Allons nous asseoir dehors et parlons ». Avec le sourire chaleureux et la belle attitude de « Notre Cathy », c’était comme s’asseoir dans un jardin de roses, ensoleillé. Je me rappelle avoir pensé « Quelle personne d’essence spirituelle ». Quelle chance avons-nous d’avoir une lectrice du _Livre d’Urantia_ comme elle.
+À une merveilleuse conférence à Seattle, Washington, qui était ma première, je rencontrai « Notre Cathy ». J’eus l’impression immédiatement qu’elle et moi avions été amies toute notre vie. Je rentrais dans un bâtiment quand elle vint vers moi et dit, « Allons nous asseoir dehors et parlons ». Avec le sourire chaleureux et la belle attitude de « Notre Cathy », c’était comme s’asseoir dans un jardin de roses, ensoleillé. Je me rappelle avoir pensé « Quelle personne d’essence spirituelle ». Quelle chance avons-nous d’avoir une lectrice du _Livre d’Urantia_ comme elle.
 
-Je ne connaissais pas les réalisations de ma nouvelle amie et elle n’en a jamais parlé avec moi. Nous avons parlé du présent et du futur, de la charmante conférence et de la valeur d’avoir plus de groupes d’étude. Elle riait gentiment au poème de Bert Cobb « Jésus était un travailleur » et nous étions en admiration du succès de la conférence. Nous avons parlé des ateliers offerts et des incroyables participantes comme Judy Van Cleave et sa très chère amie Jan Bernard. Nous avons parlé du jumeau de Benet Rutenberg ; de Merindi Swalding du « pays des kangourous » ; de l’atelier de Will et Margo Sherwood ; des groupes d’étude de Chris Halvorson ; du travail incessant d’Ellen Gaynor ; de l’atelier artistique de Patrick Yesh et du fait que j’habitais à Los Angeles, où la meilleure amie de « Notre Cathy », Dorothy Elder, fondatrice de l’École Internet du Livre d’Urantia, habite. Mais « Notre Cathy » ne mentionna jamais le rôle immense qu’elle avait joué pour garder l’Association Urantia Internationale dans la bonne direction.
+Je ne connaissais pas les réalisations de ma nouvelle amie et elle n’en a jamais parlé avec moi. Nous avons parlé du présent et du futur, de la charmante conférence et de la valeur d’avoir plus de groupes d’étude. Elle riait gentiment au poème de Bert Cobb « Jésus était un travailleur » et nous étions en admiration du succès de la conférence. Nous avons parlé des ateliers offerts et des incroyables participantes comme Judy Van Cleave et sa très chère amie Jan Bernard. Nous avons parlé du jumeau de Benet Rutenberg ; de Merindi Swalding du « pays des kangourous » ; de l’atelier de Will et Margo Sherwood ; des groupes d’étude de Chris Halvorson ; du travail incessant d’Ellen Gaynor ; de l’atelier artistique de Patrick Yesh et du fait que j’habitais à Los Angeles, où la meilleure amie de « Notre Cathy », Dorothy Elder, fondatrice de l’École Internet du Livre d’Urantia, habite. Mais « Notre Cathy » ne mentionna jamais le rôle immense qu’elle avait joué pour garder l’Association Urantia Internationale dans la bonne direction.
 
-Ce ne fut que bien plus tard que je découvris par ses amis aimants Jane et John Ploetz combien de temps et d’énergie « Notre Cathy » avait dépensé pour voir l’AUI, non seulement survivre mais aussi prospérer. Et c’est ce qui se passa.
+Ce ne fut que bien plus tard que je découvris par ses amis aimants Jane et John Ploetz combien de temps et d’énergie « Notre Cathy » avait dépensé pour voir l’AUI, non seulement survivre mais aussi prospérer. Et c’est ce qui se passa.
 
 Les nombreux efforts de notre Cathy pour raviver l’unité furent toujours guidés par la lumière de vérité inspirée du _Livre d’Urantia._
 
-« Notre Cathy » dédia généreusement énormément de temps et d’énergie à la création de groupes d’étude dans le monde entier. Par sa dissémination du _Livre d’Urantia_, et de ses enseignements, de nombreuses personnes, villes et pays furent en contact avec la Révélation Urantia.
+« Notre Cathy » dédia généreusement énormément de temps et d’énergie à la création de groupes d’étude dans le monde entier. Par sa dissémination du _Livre d’Urantia_, et de ses enseignements, de nombreuses personnes, villes et pays furent en contact avec la Révélation Urantia.
 
-À une conférence Urantia, à Chicago, Gaétan Charland, ancien président de l’AUI, présenta « Notre Cathy » comme « La Première Dame » de l’AUI. Et c’est ce qu’elle était.
+À une conférence Urantia, à Chicago, Gaétan Charland, ancien président de l’AUI, présenta « Notre Cathy » comme « La Première Dame » de l’AUI. Et c’est ce qu’elle était.
 
 <br style="clear:both;"/>
 
-La vie inspirante de service aimant de « Notre Cathy » stimule notre réponse à la fraternité, à l’amour et à la camaraderie. Puissions-nous continuer son héritage dans la famille humaine et dans la paternité de Dieu.
+La vie inspirante de service aimant de « Notre Cathy » stimule notre réponse à la fraternité, à l’amour et à la camaraderie. Puissions-nous continuer son héritage dans la famille humaine et dans la paternité de Dieu.
 
-> **Bon Voyage, « Notre Cathy »** 
+> **Bon Voyage, « Notre Cathy »** 
 > 
 > (Un poème anonyme dédié à Cathy Jones)
 > 
@@ -73,9 +73,9 @@ La vie inspirante de service aimant de « Notre Cathy » stimule notre répons
 > Et je m’assieds et la regarde, jusqu'à ce qu’elle apparaisse  
 > Comme une tache à l’horizon.
 > 
-> Quelqu’un près de moi dit, « Là, elle est partie ».
+> Quelqu’un près de moi dit, « Là, elle est partie ».
 > 
-> Mais, partie où ?
+> Mais, partie où ?
 > 
 > Elle est juste aussi grande en mât, en coque et en espar,  
 > Qu’elle était lorsqu’elle quitta ce quai.
@@ -86,13 +86,13 @@ La vie inspirante de service aimant de « Notre Cathy » stimule notre répons
 > 
 > Sa taille réduite est en nous, non en elle.
 > 
-> « Là, elle est partie, » disons-nous
+> « Là, elle est partie, » disons-nous
 > 
 > Mais il y a d’autres yeux,  
 > Qui surveillent le lointain horizon pour ses voiles.  
 > Et il y a d’autres voix prêtes maintenant  
-> À crier joyeusement : « Elle est là ».  
-> Elle arrive. La voilà, « Notre Cathy ».
+> À crier joyeusement : « Elle est là ».  
+> Elle arrive. La voilà, « Notre Cathy ».
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2016_12/034.jpg">

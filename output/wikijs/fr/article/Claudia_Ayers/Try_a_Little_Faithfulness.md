@@ -67,13 +67,13 @@ _Où tout est encore à l’essentiel_
 _Dans cette présence, laisse-moi être_
 _Toujours frapper à la porte du paradis_
 
-Remarque : Mon ami John Shinn a amélioré la chanson populaire de Bob Dylan. Utilisé avec autorisation.
+Remarque : Mon ami John Shinn a amélioré la chanson populaire de Bob Dylan. Utilisé avec autorisation.
 
 De plus en plus de gens du monde sur notre planète sont disposés à explorer la spiritualité. Ensuite, si l’impulsion d’enquêter s’enracine, ils découvrent qu’il existe une myriade de chemins _pour mieux expérimenter ou mieux comprendre_ la foi. Parce que les Cahiers d'Urantia [qui composent la majeure partie du _Livre d'Urantia_] offrent des morceaux de sagesse sans dogme, rationnels, philosophiques, inspirants et bien écrits, ils seront de plus en plus attrayants pour les personnes en quête de vérité résidant dans ce monde fatigué par la guerre et souvent effrayant. À mesure que nous sommes de plus en plus nombreux à avoir le confort d’avoir un pied fermement ancré dans l’éternité, nous trouverons d’autant plus vite notre sphère domestique plus stable, notre vie plus confortable et nous serons plus nombreux à frapper à la porte du paradis. Pourquoi? Parce que, sans peur, nous pouvons mieux défendre la vérité et défendre nos idéaux. Remplacer la peur par l’amour et la foi est incroyablement puissant.
 
 Le cœur de cet article sont quelques citations du _Livre d'Urantia_. Ce livre m'a aidé à passer d'un étudiant athée de premier cycle à une personne profondément reconnaissante pour la sécurité et la satisfaction d'une foi personnelle en évolution. _Le Livre d'Urantia_ a un avant-propos et 197 articles (sous forme de chapitres) qui sont, dans leur ensemble, divisés en quatre parties. La quatrième partie, commençant par le « Fascicule 120 », comprend une biographie intrigante de Jésus. Ci-dessous, les citations que j'utilise du _Livre d'Urantia_ sont citées telles qu’elles le sont dans le reste de cette publication.
 
-La plupart des gens ont le sentiment que nous vivons actuellement une période particulièrement difficile, marquée par la confusion, les confinements, le masquage et les mandats restrictifs d’une part, et par la montée des tensions internationales de l’autre. Tout cela réduit considérablement la vie plus optimiste que nous vivions si récemment. Certes, cette planète a toujours été un endroit difficile à vivre : quoi de plus difficile que de vivre dans des grottes, de vivre comme serfs ou d'être dans l’une des milliards de situations déchirées par la guerre ou pionnières au cours du dernier million d'années de l’évolution humaine. ? La foi, la croyance en une puissance supérieure, aide-t-elle à affronter des chemins de vie difficiles ? Oui, c’est sûrement le cas ; confirmez-le en relisant et en contemplant les paroles ci-dessus. Ensuite, lisez la suite. 
+La plupart des gens ont le sentiment que nous vivons actuellement une période particulièrement difficile, marquée par la confusion, les confinements, le masquage et les mandats restrictifs d’une part, et par la montée des tensions internationales de l’autre. Tout cela réduit considérablement la vie plus optimiste que nous vivions si récemment. Certes, cette planète a toujours été un endroit difficile à vivre : quoi de plus difficile que de vivre dans des grottes, de vivre comme serfs ou d'être dans l’une des milliards de situations déchirées par la guerre ou pionnières au cours du dernier million d'années de l’évolution humaine. ? La foi, la croyance en une puissance supérieure, aide-t-elle à affronter des chemins de vie difficiles ? Oui, c’est sûrement le cas ; confirmez-le en relisant et en contemplant les paroles ci-dessus. Ensuite, lisez la suite. 
 
 > Tel est donc le cours primaire ou élémentaire que rencontrent les pèlerins de l’espace, grands voyageurs à la foi éprouvée. Mais, longtemps avant d’arriver à Havona, ces enfants ascendants du temps ont appris à se délecter d’incertitudes, à se nourrir de désappointements, à s’enthousiasmer sur des défaites apparentes, à se fortifier en présence de difficultés, à faire preuve d’un courage indomptable en face de l’immensité et à exercer une foi invincible quand ils font face au défi de l’inexplicable. Il y a longtemps que le cri de guerre de ces pèlerins est devenu : « En liaison avec Dieu, rien — absolument rien — n’est impossible. » (<a id="a77_644"></a>[LU 26:5.3](/fr/The_Urantia_Book/26#p5_3))
 
@@ -100,7 +100,7 @@ Sans espoir d’un avenir meilleur, en particulier pour nos enfants, nous ne res
 
 > L’expérience religieuse personnelle, spirituelle, résout efficacement la plupart des difficultés des mortels ; elle sélectionne, évalue et ajuste efficacement tous les problèmes humains. La religion n’écarte ni ne supprime les ennuis humains, mais elle les dissout, les absorbe, les illumine et les transcende. La véritable religion unifie la personnalité pour qu’elle s’ajuste efficacement à toutes les nécessités des mortels. (<a id="a100_431"></a>[LU 196:3.1](/fr/The_Urantia_Book/196#p3_1))
 
-Cela m’a énormément aidé de savoir cela et aussi ceci :
+Cela m’a énormément aidé de savoir cela et aussi ceci :
 
 > Il y a un grand et glorieux dessein dans la marche des univers à travers l’espace. Toutes vos luttes de mortels n’ont pas lieu en vain. Nous faisons tous partie d’un plan colossal, d’une entreprise gigantesque, et c’est l’immensité de l’entreprise qui rend impossible d’en voir une grande partie à un moment donné ou durant une vie donnée. ... Tout le merveilleux mécanisme universel se meut majestueusement dans l’espace, à la mesure musicale de la pensée infinie et du dessein éternel de la Grande Source-Centre Première. (<a id="a104_527"></a>[LU 32:5.1](/fr/The_Urantia_Book/32#p5_1))
 
@@ -108,7 +108,7 @@ Cette information précieuse renforce ma capacité à faire _ma part_ dans la co
 
 > La curiosité — l’esprit d’investigation, le besoin de découvrir, l’impulsion de l’exploration — fait partie des dons innés et divins des créatures évolutionnaires de l’espace. Ces impulsions naturelles ne vous ont pas été données simplement pour être frustrées et refoulées. Il est vrai qu’il faut fréquemment restreindre ces impulsions ambitieuses durant votre courte vie terrestre et subir de nombreuses déceptions, mais elles sont destinées à être pleinement réalisées et glorieusement satisfaites au cours des longs âges à venir. (<a id="a108_537"></a>[LU 14:5.11](/fr/The_Urantia_Book/14#p5_11))
 
-Dans ma carrière principale d’éducateur, j’ai été énormément guidé par une seule phrase de ce livre étonnant :
+Dans ma carrière principale d’éducateur, j’ai été énormément guidé par une seule phrase de ce livre étonnant :
 
 > Le but de toute éducation devrait consister à entretenir et à poursuivre le dessein suprême de la vie, le développement d’une personnalité pleine de majesté et bien équilibrée. (<a id="a112_180"></a>[LU 195:10.17](/fr/The_Urantia_Book/195#p10_17))
 
@@ -118,7 +118,7 @@ Et qu’en est-il de Jésus ? Il joue un rôle central dans le cheminement de fo
 
 > Tout simplement, les hommes et les femmes égoïstes ne veulent pas payer ce prix, même en échange du plus grand trésor spirituel qui ait jamais été offert à l’homme mortel. (<a id="a118_175"></a>[LU 195:9.7](/fr/The_Urantia_Book/195#p9_7))
 
-Quelqu’un a-t-il besoin d'un petit quelque chose pour démarrer ou redémarrer votre voyage spirituel ? J'offre ces mots tirés du _Livre d'Urantia_ : 
+Quelqu’un a-t-il besoin d'un petit quelque chose pour démarrer ou redémarrer votre voyage spirituel ? J'offre ces mots tirés du _Livre d'Urantia_ : 
 
 > De ce Dieu qui est la plus inéluctable de toutes les présences, le plus réel de tous les faits, la plus vivante de toutes les vérités, le plus aimant de tous les amis, la plus divine de toutes les valeurs, nous avons le droit d’être certains comme de la plus certaine de toutes les expériences de l’univers. (<a id="a122_311"></a>[LU 102:7.10](/fr/The_Urantia_Book/102#p7_10))
 

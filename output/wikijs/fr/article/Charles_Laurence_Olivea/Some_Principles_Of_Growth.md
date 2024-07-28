@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-Chers amis, je voudrais partager avec vous mes réflexions sur la croissance future de la Fraternité URANTIA. Ces idées reflètent mon interprétation de certaines idées expérientielles et révélatrices, je les appelle « principes de croissance » pour les organisations spirituelles :
+Chers amis, je voudrais partager avec vous mes réflexions sur la croissance future de la Fraternité URANTIA. Ces idées reflètent mon interprétation de certaines idées expérientielles et révélatrices, je les appelle « principes de croissance » pour les organisations spirituelles :
 
 1. **Nous devons nous saturer de patience**. Il semble y avoir une tendance naturelle chez beaucoup d’entre nous à être trop excités par la perspective continue de diffuser le Livre d’URANTIA et ses enseignements. Je pense que le modeste têtard nous donne l’exemple le plus sage : le moyen le plus rapide et le plus efficace pour un têtard d’atteindre le statut expérientiel de grenouille est de vivre de manière compétente et loyale comme un têtard. L'évolution a son propre calendrier. Plus le rythme est lent, moins le risque d’erreur est grand.
 2. **Collectivement/individuellement, notre ministère privé doit précéder notre ministère public**. Nous devons devenir intérieurement mûrs avant de pouvoir devenir extérieurement efficaces. Pouvons-nous enseigner la vérité, discerner la beauté et démontrer la bonté à moins que nos vies ne soient d’abord véridiques, belles et bonnes ? Jésus a enseigné et vécu selon la proposition spirituelle selon laquelle la véritable mesure de notre justice est le degré auquel les gens sont attirés vers nous sans que nous publiions notre message.

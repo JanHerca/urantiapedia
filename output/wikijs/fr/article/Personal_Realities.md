@@ -44,7 +44,7 @@ Les fascicules nous informent également de l’importance d’« être » avant
 
 Voir l’article « Ce qui survit réellement » pour obtenir des éclaircissements sur les objectifs spirituels.
 
-> Le test spirituel de grandeur est le suivant :
+> Le test spirituel de grandeur est le suivant :
 > 
 > la qualité de générosité révélée dans le travail désintéressé pour le bienêtre des compagnons terrestres
 > voir (<a id="a49_8"></a>[LU 28:6.20](/fr/The_Urantia_Book/28#p6_20))

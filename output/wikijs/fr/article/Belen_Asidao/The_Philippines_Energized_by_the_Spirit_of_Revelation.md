@@ -39,7 +39,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Belen Asidao, Illinois, États-Unis_
 
-_Note de l'éditeur : Eugene et Belen Asidao ont commencé leur programme personnel de sensibilisation dans leur pays natal, les Philippines, en 2014. La Fondation Urantia a soutenu leurs efforts en faisant dons de centaines de Livres d'Urantia. Grâce au service généreux et désintéressé d'Eugene et Belen, le lectorat local a augmenté régulièrement et l'équipe philippine de traduction continue de faire des progrès constants._
+_Note de l'éditeur : Eugene et Belen Asidao ont commencé leur programme personnel de sensibilisation dans leur pays natal, les Philippines, en 2014. La Fondation Urantia a soutenu leurs efforts en faisant dons de centaines de Livres d'Urantia. Grâce au service généreux et désintéressé d'Eugene et Belen, le lectorat local a augmenté régulièrement et l'équipe philippine de traduction continue de faire des progrès constants._
 
 C'est avec plaisir que je vous fais part de plusieurs activités passionnantes qui ont eu lieu cette année.
 
@@ -57,7 +57,7 @@ Nous avons le plaisir de vous annoncer que nous avons demarré cinq groupes d'é
 <figcaption><em>Bacolod City, Philippines</em></figcaption>
 </figure>
 
-Cinq groupes de lecteurs du _Livre d'Urantia_ se sont réunis le 21 août pour célébrer l'anniversaire de Jésus de Nazareth, il y a plus de deux mille ans. Des exposés ont été donnés sur la façon dont la tradition de Noël, le 25 décembre, est apparue et sur la manière dont,la cinquième révélation d'époque nous montre de façon exquise comment les êtres célestes se sont préparés à l'arrivée du Christ Micaël sur Urantia. Les célébrations comprenaient des prières avant le repas commun, ainsi que des chants et des danses d'enfants. La combinaison du décor traditionnel de Noël avec celui du « nouveau Noël » apporta un doux changement du niveau de conscience.
+Cinq groupes de lecteurs du _Livre d'Urantia_ se sont réunis le 21 août pour célébrer l'anniversaire de Jésus de Nazareth, il y a plus de deux mille ans. Des exposés ont été donnés sur la façon dont la tradition de Noël, le 25 décembre, est apparue et sur la manière dont,la cinquième révélation d'époque nous montre de façon exquise comment les êtres célestes se sont préparés à l'arrivée du Christ Micaël sur Urantia. Les célébrations comprenaient des prières avant le repas commun, ainsi que des chants et des danses d'enfants. La combinaison du décor traditionnel de Noël avec celui du « nouveau Noël » apporta un doux changement du niveau de conscience.
 
 Nos différents groupes d'étude du _Livre d'Urantia_ aimeraient partager quelques images recueillies à Bicol (une région des Philippines englobant la partie sud de l'île de Luzon et les provinces insulaires voisines), à Palawan (une province archipélagique située dans la région de Mimaropa, et la plus grande en termes de superficie totale), à Digos (la capitale de la province de Davao del Sur), et à Bacolod (la capitale de la province de Negros Occidental).
 

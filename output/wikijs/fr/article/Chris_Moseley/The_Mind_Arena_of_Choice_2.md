@@ -11,7 +11,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Chris Moseley<br>© 1999 Association Urantia Internationale (IUA)</p>
 
 
-> _Note Urantiapedia_ : Cet article a également été publié dans [ANZURA The Arena – Été 2020](/fr/article/Chris_Moseley/The_Mind_Arena_of_Choice)
+> _Note Urantiapedia_ : Cet article a également été publié dans [ANZURA The Arena – Été 2020](/fr/article/Chris_Moseley/The_Mind_Arena_of_Choice)
 {.is-info}
 
 Chris Moseley, Oxfordshire, Royaume-Uni

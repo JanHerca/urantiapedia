@@ -15,7 +15,7 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/fr/article/The_Mighty_Messenger/The_Mighty_Messenger_2022_Special_Cover">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sources de perspicacité révélatrice : une méditation sur les sources humaines — Couverture</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sources de perspicacité révélatrice : une méditation sur les sources humaines — Couverture</span>
         </a>
         </td>
         <td>
@@ -76,7 +76,7 @@ J'ai hâte de te revoir en haut, frère Steve, dans l’aventure éternelle !
       <tr>
         <td>
         <a href="/fr/article/The_Mighty_Messenger/The_Mighty_Messenger_2022_Special_Cover">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sources de perspicacité révélatrice : une méditation sur les sources humaines — Couverture</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sources de perspicacité révélatrice : une méditation sur les sources humaines — Couverture</span>
         </a>
         </td>
         <td>

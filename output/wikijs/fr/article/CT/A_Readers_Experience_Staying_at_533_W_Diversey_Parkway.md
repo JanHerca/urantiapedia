@@ -36,11 +36,11 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par "CT", Dresden, Allemagne_
 
-Comment imagineriez-vous une visite à un endroit d’ “ histoire vivante ?” Avez-vous déjà pensé à quelque chose comme… “ si les murs pouvaient parler ?” Il serait trop facile de dire que le bâtiment de 533, Diversey Parkway, est un tel endroit. Et bien que la Révélation Urantia vive dans les cœurs des hommes et des femmes et qu’un lieu matériel ne puisse pas être un foyer intérieur comme l’endroit où l’esprit rencontre notre mental personnel, il y a pourtant quelque chose à propos de ce bâtiment.
+Comment imagineriez-vous une visite à un endroit d’ “ histoire vivante ?” Avez-vous déjà pensé à quelque chose comme… “ si les murs pouvaient parler ?” Il serait trop facile de dire que le bâtiment de 533, Diversey Parkway, est un tel endroit. Et bien que la Révélation Urantia vive dans les cœurs des hommes et des femmes et qu’un lieu matériel ne puisse pas être un foyer intérieur comme l’endroit où l’esprit rencontre notre mental personnel, il y a pourtant quelque chose à propos de ce bâtiment.
 
-Quel endroit sur terre, pourrait avoir une signification semblable pour nous, à celle que l’Ile du Paradis a pour toute l’énergie du maître univers? Bien que les révélateurs espéraient que nous serions “ dans ” le livre, pour partager notre vie intérieure avec Dieu, cependant, d’une certaine manière, cette ancienne maison de la famille Sadler a donné naissance à une façon de vivre.
+Quel endroit sur terre, pourrait avoir une signification semblable pour nous, à celle que l’Ile du Paradis a pour toute l’énergie du maître univers? Bien que les révélateurs espéraient que nous serions “ dans ” le livre, pour partager notre vie intérieure avec Dieu, cependant, d’une certaine manière, cette ancienne maison de la famille Sadler a donné naissance à une façon de vivre.
 
-Je lis _Le Livre d’Urantia_ depuis à peu près dix ans, et n’ai jamais vraiment pensé à la Fondation existant quelque part d’autre que dans mon mental. Cependant, un soir, pendant la conférence de l’AUI cet été dernier, je pris le bus depuis cet endroit pour aller au magnifique bâtiment d’art nouveau de 533, Diversey Parkway à Chicago. Imaginez la situation dans laquelle je me trouvais ; rencontrer des urantiens de 24 pays, en apprendre sur leur façon personnelle de voir la vie et sur leurs uniques manières de se dévouer à ce qu’ils voient et pensent. L’air plein d’inspiration, les nuits d’échanges au lieu de dormir, les journées d’apprentissage de l’esprit au lieu de la routine normale ; ce fut un réel “ Youpi ”pour moi.
+Je lis _Le Livre d’Urantia_ depuis à peu près dix ans, et n’ai jamais vraiment pensé à la Fondation existant quelque part d’autre que dans mon mental. Cependant, un soir, pendant la conférence de l’AUI cet été dernier, je pris le bus depuis cet endroit pour aller au magnifique bâtiment d’art nouveau de 533, Diversey Parkway à Chicago. Imaginez la situation dans laquelle je me trouvais ; rencontrer des urantiens de 24 pays, en apprendre sur leur façon personnelle de voir la vie et sur leurs uniques manières de se dévouer à ce qu’ils voient et pensent. L’air plein d’inspiration, les nuits d’échanges au lieu de dormir, les journées d’apprentissage de l’esprit au lieu de la routine normale ; ce fut un réel “ Youpi ”pour moi.
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2011_09/028.jpg">
@@ -69,7 +69,7 @@ Les invités logeaient au deuxième étage de la Fondation, qui semble être con
 
 Il nous a fait visiter la ville, nous montra la silhouette nocturne de Chicago, et nous fit entrer comme invités au Piano Bar à Maggianos. Jacob Dix, qui passait aussi la semaine à la Fondation Urantia, me fit un cadeau en me faisant comprendre que le travail de recevoir cette révélation, était dur. Si nous plongeons dans les vies de ceux qui vécurent avant nous et qui produisirent les contreparties de notre révélation céleste, nous pouvons apprécier ce que nous avons.
 
-Il y avait aussi les leçons apprises. La fille de Tamara m'a appris que les grenouilles américaines font du "Ribbit". J’étais perplexe parce que les grenouilles allemandes font “ Quoak ”. Il y a de la vie à 533, Diversey Parkway, et c’est merveilleux.
+Il y avait aussi les leçons apprises. La fille de Tamara m'a appris que les grenouilles américaines font du "Ribbit". J’étais perplexe parce que les grenouilles allemandes font “ Quoak ”. Il y a de la vie à 533, Diversey Parkway, et c’est merveilleux.
 <br style="clear:both;"/>
 
 <figure id="Figure_3" class="image urantiapedia">

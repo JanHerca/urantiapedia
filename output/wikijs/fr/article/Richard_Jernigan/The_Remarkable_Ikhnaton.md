@@ -71,7 +71,7 @@ Freud, Sigmond. _Moïse et le monothéisme_. Livres anciens, 1967.
 
 Grant, Michael. _L'histoire de l'Israël antique_. Les fils de Charles Scribner, 1984.
 
-Lambdin, T. O. « Dites à el-Amarna », _Dictionnaire de l'interprète de la Bible_. Presse Abingdon, 1962 .
+Lambdin, T. O. « Dites à el-Amarna », _Dictionnaire de l'interprète de la Bible_. Presse Abingdon, 1962 .
 
 Wilson, J. A. « Akh-en-Aton » et « Egypt », _Interpreter's Dictionary of the Bible_. Presse Abingdon, 1962.
 

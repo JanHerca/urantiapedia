@@ -46,9 +46,9 @@ Comme la Fondation construit pour le futur, nous sommes extrêmement reconnaissa
 
 Merci aux donateurs qui paient pour l’impression du livre, la distribution du livre, les traductions, les actualisations du site web , les rénovations du bâtiment et beaucoup d’autres activités de la Fondation Urantia . Nous ne pourrions pas faire notre travail sans votre générosité.
 
-A nos amis lecteurs dont le dévouement à la Révélation d’Urantia reste constante, merci pour votre loyauté . Vous sachant à nos côtés , cela nous revigore et nous donne le courage de continuer . A tous ceux qui conduisent des groupes d’étude ou lisent seul, merci d’être concernés . A ceux de vous qui nous envoient des prières, merci ; nous en avons besoin et nous les apprécions . A ceux de vous qui font partie des groupes sociaux et qui vivent et partagent vaillamment ces enseignements, nous vous saluons ainsi que vos nobles efforts.
+A nos amis lecteurs dont le dévouement à la Révélation d’Urantia reste constante, merci pour votre loyauté . Vous sachant à nos côtés , cela nous revigore et nous donne le courage de continuer . A tous ceux qui conduisent des groupes d’étude ou lisent seul, merci d’être concernés . A ceux de vous qui nous envoient des prières, merci ; nous en avons besoin et nous les apprécions . A ceux de vous qui font partie des groupes sociaux et qui vivent et partagent vaillamment ces enseignements, nous vous saluons ainsi que vos nobles efforts.
 
-Puisse notre prière, pendant ces fêtes de fin d’année servir cette révélation comme nos amis invisibles voudraient qu’elle soit servie . Que ce service puisse avoir pour résultat, plus de personnes de toutes races, religions et nations faisant l’expérience de la satisfaction suprême de connaître et d’aimer notre Père céleste . Meilleurs vœux à tous !
+Puisse notre prière, pendant ces fêtes de fin d’année servir cette révélation comme nos amis invisibles voudraient qu’elle soit servie . Que ce service puisse avoir pour résultat, plus de personnes de toutes races, religions et nations faisant l’expérience de la satisfaction suprême de connaître et d’aimer notre Père céleste . Meilleurs vœux à tous !
 
 
 ## Références

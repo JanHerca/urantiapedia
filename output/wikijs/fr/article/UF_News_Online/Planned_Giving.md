@@ -44,7 +44,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2020_10/052.jpg">
 </figure>
 
-Beaucoup de gens sont surpris d’apprendre qu’ils peuvent aider à semer le message du _Le Livre d’Urantia_ avec un don bien plus important que ce qu’ils auraient jamais cru être à leur portée. Le message transformateur du _Le Livre d’Urantia_ fait son chemin jusqu’aux coins les plus reculés du globe. Cela se produit grâce au soutien généreux de personnes comme vous !
+Beaucoup de gens sont surpris d’apprendre qu’ils peuvent aider à semer le message du _Le Livre d’Urantia_ avec un don bien plus important que ce qu’ils auraient jamais cru être à leur portée. Le message transformateur du _Le Livre d’Urantia_ fait son chemin jusqu’aux coins les plus reculés du globe. Cela se produit grâce au soutien généreux de personnes comme vous !
 <br style="clear:both;"/>
 
 ## Les dons planifiés rendent cela possible.

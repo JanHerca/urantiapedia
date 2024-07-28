@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Bill Beasley, Brandon, Floride, États-Unis_
 
-_Note de l’éditeur: Le répertoire des groupes d’étude du Livre d’Urantia est un projet conjoint de l’Association Urantia Internationale, de la Fellowship du Livre d’Urantia, et de la Fondation Urantia_. _Les membres du comité qui régissent le répertoire sont : Bill Beasley, Scott Brooks, Barry Clark ( président ), Jackie Koury et Tamara Strumfeld._
+_Note de l’éditeur: Le répertoire des groupes d’étude du Livre d’Urantia est un projet conjoint de l’Association Urantia Internationale, de la Fellowship du Livre d’Urantia, et de la Fondation Urantia_. _Les membres du comité qui régissent le répertoire sont : Bill Beasley, Scott Brooks, Barry Clark ( président ), Jackie Koury et Tamara Strumfeld._
 
 Il y a quelques années, j’ai calculé le pourcentage de personnes qui suivaient les vrais enseignements de Jésus sur la base de la population du monde civilisé de son temps. Ensuite, j’ai calculé le pourcentage du nombre d’étudiants du Livre d’Urantia sur la base de la population du monde d’aujourd’hui et comparé les deux. Bien sûr, les chiffres ne peuvent pas être exacts parce que personne ne les connaît vraiment. Mais devinez quoi. Sur la base de mes calculs, il y avait peu de différence dans les pourcentages. Il semble que depuis 2000 ans, le groupe de base des croyants, en pourcentage de la population totale, est resté inchangé.
 
@@ -56,9 +56,9 @@ La prochaine étape importante est de nettoyer les données pour s’assurer que
 <img src="/image/article/UF_News_Online/2013_12/022.jpg">
 </figure>
 
-Notre objectif est de rendre le répertoire le site « où aller » pour toute personne désirant une feuille de route pour trouver un groupe d’étude. Beaucoup d’étudiants sont géographiquement isolés, sans un groupe d’étude à proximité. Donc, un autre point de haute priorité est de rendre le répertoire capable d’accueillir des groupes d’études virtuels. Il y a plusieurs de ces groupes fonctionnant ainsi maintenant.
+Notre objectif est de rendre le répertoire le site « où aller » pour toute personne désirant une feuille de route pour trouver un groupe d’étude. Beaucoup d’étudiants sont géographiquement isolés, sans un groupe d’étude à proximité. Donc, un autre point de haute priorité est de rendre le répertoire capable d’accueillir des groupes d’études virtuels. Il y a plusieurs de ces groupes fonctionnant ainsi maintenant.
 
-Partager, s’il vous plaît, notre enthousiasme pour la promotion des groupes d’étude partout sur Urantia ! Si vous hébergez un groupe d’étude qui se concentre sur _Le Livre d’Urantia_ et que vous voulez attirer des lecteurs, visitez, s’il vous plaît, [urantiastudygroup.org](https://www.urantiastudygroup.org/) et inscrivez votre groupe. Si vous avez un site et que vous souhaitez afficher un lien vers le répertoire des groupes d’études du Livre d’Urantia, écrivez-moi, s’il vous plaît, à [bill.beasley@gmail.com](mailto:bill.beasley@gmail.com).
+Partager, s’il vous plaît, notre enthousiasme pour la promotion des groupes d’étude partout sur Urantia ! Si vous hébergez un groupe d’étude qui se concentre sur _Le Livre d’Urantia_ et que vous voulez attirer des lecteurs, visitez, s’il vous plaît, [urantiastudygroup.org](https://www.urantiastudygroup.org/) et inscrivez votre groupe. Si vous avez un site et que vous souhaitez afficher un lien vers le répertoire des groupes d’études du Livre d’Urantia, écrivez-moi, s’il vous plaît, à [bill.beasley@gmail.com](mailto:bill.beasley@gmail.com).
 
 
 ## Références

@@ -37,13 +37,13 @@ dateCreated: 2023-6-21T8:13:38Z
 
 ## Enquête sur les publications
 
-Préféreriez-vous recevoir nos magazines, le Mighty Messenger et le Fellowship Herald, sous forme électronique ou imprimée ? Veuillez nous le faire savoir ici : Enquête sur les publications
+Préféreriez-vous recevoir nos magazines, le Mighty Messenger et le Fellowship Herald, sous forme électronique ou imprimée ? Veuillez nous le faire savoir ici : Enquête sur les publications
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/029.jpg">
 </figure>
 
-Pointez votre téléphone sur ce code QR pour répondre à l’enquête sur les publications :
+Pointez votre téléphone sur ce code QR pour répondre à l’enquête sur les publications :
 
 Merci, Cristina Seaborn, présidente des publications
 
@@ -53,7 +53,7 @@ Vous pouvez aider la Fellowship à garder GRATUITEMENT nos excellentes publicati
 
 <br>
 
-Veuillez envisager de faire un don de 35,00 $ par an ! Faites un don aujourd’hui !!! Pointez votre téléphone sur ce code pour faire un don à la Urantia Book Fellowship :
+Veuillez envisager de faire un don de 35,00 $ par an ! Faites un don aujourd’hui !!! Pointez votre téléphone sur ce code pour faire un don à la Urantia Book Fellowship :
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/030.jpg">
@@ -66,12 +66,12 @@ Bourse du Livre d’Urantia
 Westminster CO 80031
 (303) 467-7858
 
-Les dates limites de publication de la Fellowship du Livre d’Urantia sont :
+Les dates limites de publication de la Fellowship du Livre d’Urantia sont :
 - Mighty Messenger le 15 septembre et le 15 mars
 - Fellowship Herald, 15 avril
 - Mini Messenger le 15^ de chaque mois.
 
-Soumettre les articles à : Cristina Seaborn, Chaire des publications publications@urantiabook.org 
+Soumettre les articles à : Cristina Seaborn, Chaire des publications publications@urantiabook.org 
 
 ## Liens externes
 

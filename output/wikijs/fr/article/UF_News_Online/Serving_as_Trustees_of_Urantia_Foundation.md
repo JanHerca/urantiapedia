@@ -34,7 +34,7 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
-Note de l’éditeur : Quatre nouvelles personnes ont rejoint récemment le Conseil d’Administration des Trustees de la Fondation Urantia. Nous avons demandé à chacun d’eux de nous dire pourquoi ils avaient accepté cette responsabilité et de partager une de leur citation favorite du livre.
+Note de l’éditeur : Quatre nouvelles personnes ont rejoint récemment le Conseil d’Administration des Trustees de la Fondation Urantia. Nous avons demandé à chacun d’eux de nous dire pourquoi ils avaient accepté cette responsabilité et de partager une de leur citation favorite du livre.
 
 ## Olga López Molina
 
@@ -44,7 +44,7 @@ Note de l’éditeur : Quatre nouvelles personnes ont rejoint récemment le Con
 
 Servir dans le conseil d’administration de la Fondation Urantia en tant que trustee, était quelque chose que je n’aurais vraiment jamais pu imaginer. Même si je me suis de plus en plus impliquée dans des activités et des responsabilités reliées à la communauté Urantia, je n’aurais jamais imaginé occuper un tel poste, jusqu’à ce que je reçoive cette chance incroyable. Après avoir prié et demandé de l’aide à notre Père Céleste, je compris très clairement que je ne pouvais pas refuser.
 
-Pour moi, c’est un immense honneur, une grande responsabilité et une immense occasion de service par lequel j’espère donner le meilleur de moi-même pour réaliser la mission de la Fondation Urantia, en gardant toujours à l’esprit que :
+Pour moi, c’est un immense honneur, une grande responsabilité et une immense occasion de service par lequel j’espère donner le meilleur de moi-même pour réaliser la mission de la Fondation Urantia, en gardant toujours à l’esprit que :
 <br style="clear:both;"/>
 
 > Les faibles se complaisent à des résolutions, mais les forts agissent. La vie n’est que le travail d’un jour—exécutez le bien. L’acte est à nous, ses conséquences appartiennent à Dieu. <a id="a49_187"></a>[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13)
@@ -57,13 +57,13 @@ Pour moi, c’est un immense honneur, une grande responsabilité et une immense 
 
 Peu de choses sont aussi merveilleusement enrichissantes que de servir auprès de personnes exceptionnelles impliquées dans la cinquième révélation d’époque. Servir comme trustee de la Fondation Urantia est une occasion accrue et unique de travailler pour l’unité et le progrès parmi les peuples et cultures du monde et de tous les groupes d’étudiants de la révélation. C’est l’occasion d’une collaboration continue pour donner vie à la vision et la mission de l’organisation.
 
-Devenir un trustee représente un niveau accru de responsabilité et un engagement d’aspirer sans réserve et d’une manière aimante à suivre l’exemple de Jésus, qui consacra et dédia « sa propre volonté au majestueux service de faire la volonté divine. » <a id="a59_252"></a>[LU 196:0.10](/fr/The_Urantia_Book/196#p0_10)
+Devenir un trustee représente un niveau accru de responsabilité et un engagement d’aspirer sans réserve et d’une manière aimante à suivre l’exemple de Jésus, qui consacra et dédia « sa propre volonté au majestueux service de faire la volonté divine. » <a id="a59_252"></a>[LU 196:0.10](/fr/The_Urantia_Book/196#p0_10)
 
-Disséminer les enseignements des Fascicules d’Urantia, aider à porter le flambeau que d’autres ont porté avant nous fidèlement, et que d’autres porteront après nous, est un honneur et un défi, car nous savons que : « l’évolution humaine est encore en cours de progrès, et la révélation de Dieu au monde, en Jésus et par Jésus, ne fera pas défaut. » <a id="a61_349"></a>[LU 196:3.33](/fr/The_Urantia_Book/196#p3_33)
+Disséminer les enseignements des Fascicules d’Urantia, aider à porter le flambeau que d’autres ont porté avant nous fidèlement, et que d’autres porteront après nous, est un honneur et un défi, car nous savons que : « l’évolution humaine est encore en cours de progrès, et la révélation de Dieu au monde, en Jésus et par Jésus, ne fera pas défaut. » <a id="a61_349"></a>[LU 196:3.33](/fr/The_Urantia_Book/196#p3_33)
 
 Je remercie humblement le Père des Lumières pour cette chance. Jésus vécut une religion de service et Il est mon inspiration.
 
-L’une de mes citations favorites me vient à l’esprit :
+L’une de mes citations favorites me vient à l’esprit :
 <br style="clear:both;"/>
 
 > Le service—le service intentionnel, non l’esclavage—produit la plus haute satisfaction et exprime la dignité la plus divine. Service—plus de service, service accru, service difficile, service aventureux, et enfin service divin et parfait—tel est le but du temps et la destination de l’espace. <a id="a68_295"></a>[LU 28:6.17](/fr/The_Urantia_Book/28#p6_17)
@@ -74,7 +74,7 @@ L’une de mes citations favorites me vient à l’esprit :
 <img src="/image/article/UF_News_Online/2022_10/027.jpg">
 </figure>
 
-C’est toujours un privilège de servir le Père de la manière dont il m’appelle à servir. Et je respecte et fais honneur à l’engagement de la Fondation d’augmenter la représentation mondiale dans notre communauté Urantia pour que finalement tous les peuples du monde puissent arriver à une plus grande compréhension de leur héritage spirituel comme fils et filles du Père Céleste et fassent l’expérience d’une meilleure appréciation de leur destinée éternelle, comme décrite magnifiquement dans _Le Livre d’Urantia_ :
+C’est toujours un privilège de servir le Père de la manière dont il m’appelle à servir. Et je respecte et fais honneur à l’engagement de la Fondation d’augmenter la représentation mondiale dans notre communauté Urantia pour que finalement tous les peuples du monde puissent arriver à une plus grande compréhension de leur héritage spirituel comme fils et filles du Père Céleste et fassent l’expérience d’une meilleure appréciation de leur destinée éternelle, comme décrite magnifiquement dans _Le Livre d’Urantia_ :
 <br style="clear:both;"/>
 
 > Les créatures qui connaissent Dieu n’ont qu’une ambition suprême, un seul désir brûlant, c’est d’être semblable dans leur propre sphère à ce qu’il est dans sa perfection paradisiaque de personnalité et dans sa sphère universelle de juste suprématie. <a id="a79_252"></a>[LU 1:0.3](/fr/The_Urantia_Book/1#p0_3)

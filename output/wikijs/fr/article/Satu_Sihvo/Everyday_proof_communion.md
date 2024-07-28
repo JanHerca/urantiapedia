@@ -25,7 +25,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </td>
         <td>
         <a href="/fr/article/Mary_Daly/Asking_for_the_spirit_and_other_good_stuff">
-          <span class="pr-2">Demander l'Esprit et d'autres bonnes choses !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Demander l'Esprit et d'autres bonnes choses !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -37,7 +37,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Bonjour, frères et sœurs :
 
-Avez-vous aimé avoir une petite conversation avec notre Père céleste ce matin ? Avez-vous été rafraîchi, inspiré et renouvelé ? Etes-vous conscient de sa présence en ce moment ?
+Avez-vous aimé avoir une petite conversation avec notre Père céleste ce matin ? Avez-vous été rafraîchi, inspiré et renouvelé ? Etes-vous conscient de sa présence en ce moment ?
 
 Pendant qu'il vivait sur Urantia, Jésus avait une communion ininterrompue avec notre Père. Le secret de cette intense communion était la prière et l'adoration. Toute la vie manifeste et visible de Jésus était basée sur une méditation reposante ; cela était enraciné dans sa relation forte avec Dieu.
 
@@ -68,7 +68,7 @@ _Espoo, Finlande_
         </td>
         <td>
         <a href="/fr/article/Mary_Daly/Asking_for_the_spirit_and_other_good_stuff">
-          <span class="pr-2">Demander l'Esprit et d'autres bonnes choses !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Demander l'Esprit et d'autres bonnes choses !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

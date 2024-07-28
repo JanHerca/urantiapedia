@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Jennifer Siegel, Colorado, États-Unis_
 
-_Note de l’éditeur : Jennifer Siegel est une lectrice de long terme qui est inspirée au service par Le Livre d’Urantia. Ses projets en cours comportent l’animation d’un groupe d’étude pour les jeunes, la préparation de repas pour les réunions et les événements à la Fondation Urantia et la direction des rénovations du bâtiment. Dans ce récit, elle partage l’une de ses expériences dans une aventure récente de service. Elle et son mari, Mo Siegel, voyagèrent en Éthiopie pour aider au Projet de la Cataracte d’Himalaya ([www.cureblindness.org](https://www.cureblindness.org/)) pour soigner la cécité inutile._
+_Note de l’éditeur : Jennifer Siegel est une lectrice de long terme qui est inspirée au service par Le Livre d’Urantia. Ses projets en cours comportent l’animation d’un groupe d’étude pour les jeunes, la préparation de repas pour les réunions et les événements à la Fondation Urantia et la direction des rénovations du bâtiment. Dans ce récit, elle partage l’une de ses expériences dans une aventure récente de service. Elle et son mari, Mo Siegel, voyagèrent en Éthiopie pour aider au Projet de la Cataracte d’Himalaya ([www.cureblindness.org](https://www.cureblindness.org/)) pour soigner la cécité inutile._
 
 Troisième jour de volontariat à la clinique oculaire à l’Hôpital Général Arba Minch en Éthiopie, le Projet Himalaya commença comme tous les autres. La bonne nouvelle de retirer les pansements de plus de 175 patients et les bruits de leur joie suprême furent incroyablement émotionnelles. Quelques uns tombèrent à genoux incrédules au fait de voir pour la première fois, d’autres levèrent les bras en l’air et produisirent un joyeux gazouillis que je croyais n’avoir entendu que dans des documentaires sur des endroits très lointains. Beaucoup étaient plus subtiles et timides, embarrassés de regarder pour la première fois, depuis si longtemps.
 
@@ -53,11 +53,11 @@ Durant la journée, un nouveau groupe de patients furent examinés et marqués a
 
 Je savais que nous n’avions que six cornées dans un frigo. Elles étaient gardées dans le frigo de la salle de pause, près de l’eau. Un précieux cargo qui attendait les plus heureux. Elle en avait besoin de deux, elle n’en eut qu’une, elle avait de la chance. Les patients pour une transplantation de cornée sont spéciaux, l’opération est difficile et complexe et les cornées si rares. Nous avons observé Dr Geoff en faire une, le soir de notre arrivée. Chaque point de suture fait ressembler l’œil à une horloge avec les minutes, lorsque c’est terminé. À la fois horrible et beau.
 
-Après son opération, ma fille au chemisier rose, fut mise dans une petite pièce avec d’autres « chanceuses » et sur moniteur contre les infections. Et elle me regardait depuis une fente de la porte, jour et nuit, pendant quatre jours. Attendant que je passe, elle me faisait un signe, hochait de la tête ou levait le pouce. Sa nouvelle vie devint ma récompense pour une heure supplémentaire passée à essayer de faire de mon mieux.
+Après son opération, ma fille au chemisier rose, fut mise dans une petite pièce avec d’autres « chanceuses » et sur moniteur contre les infections. Et elle me regardait depuis une fente de la porte, jour et nuit, pendant quatre jours. Attendant que je passe, elle me faisait un signe, hochait de la tête ou levait le pouce. Sa nouvelle vie devint ma récompense pour une heure supplémentaire passée à essayer de faire de mon mieux.
 
 Elle pouvait me voir d’un œil, et je pouvais la ressentir avec tout mon cœur. Nous ne virent jamais de la famille lui rendre visite, ce qui rendit dramatique de lui dire au revoir. J’ai dû laisser ma fille avec le chemisier rose en Éthiopie, mais elle ne me quittera jamais. Elle a changé mon cœur et donc changea ma vie. C’est bon de se rappeler que l’on a un cœur.
 
-Photo : Jennifer Siegel à l’Hôpital Général d’ Arba Minch
+Photo : Jennifer Siegel à l’Hôpital Général d’ Arba Minch
 
 C’est bon de se rappeler que l’on a un cœur.
 <br style="clear:both;"/>

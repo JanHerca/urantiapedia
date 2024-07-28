@@ -75,7 +75,7 @@ Depuis des années, la communauté des lecteurs européens a demandé de plus gr
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2008_06/018.jpg">
-<figcaption><em>Membres du Conseil d'administration européen à Paris<br>Rang arrière : Christian Ruch (Suisse), Jay Peregrine (Directeur exécutif, Fondation Urantia, États-Unis), Henk Mylanus (France), Olga López, (Administrateur associé, Fondation Urantia, Espagne), Seppo Kanerva (Administrateur, Fondation Urantia, Finlande), Werner Sutter (Allemagne)<br>Première rangée : Irmeli Ivalo-Sjölie (Administrateur associé, Fondation Urantia, Finlande), George MichelsonDupont (Administrateur, Fondation Urantia, France), Claire Mylanus (Administrateur associé , Fondation Urantia, France), Seppo Niskanen (Finlande)</em></figcaption>
+<figcaption><em>Membres du Conseil d'administration européen à Paris<br>Rang arrière : Christian Ruch (Suisse), Jay Peregrine (Directeur exécutif, Fondation Urantia, États-Unis), Henk Mylanus (France), Olga López, (Administrateur associé, Fondation Urantia, Espagne), Seppo Kanerva (Administrateur, Fondation Urantia, Finlande), Werner Sutter (Allemagne)<br>Première rangée : Irmeli Ivalo-Sjölie (Administrateur associé, Fondation Urantia, Finlande), George MichelsonDupont (Administrateur, Fondation Urantia, France), Claire Mylanus (Administrateur associé , Fondation Urantia, France), Seppo Niskanen (Finlande)</em></figcaption>
 </figure>
 
 

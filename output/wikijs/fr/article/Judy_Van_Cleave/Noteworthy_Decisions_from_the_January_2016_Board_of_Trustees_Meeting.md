@@ -45,7 +45,7 @@ _Par Judy Van Cleave, Trustee, Idaho, États-Unis_
 
 ## Conférence sponsorisée
 
-Le comité d’administration a donné son accord pour sponsoriser les trois conférences suivantes :
+Le comité d’administration a donné son accord pour sponsoriser les trois conférences suivantes :
 
 1. La conférence conjointe de 2016, de l’Association Urantia Internationale (AUI), et de la Fellowship du Livre d’Urantia à San Antonio, Texas.
 2. La conférence AUI de 2016 à Budapest
@@ -65,13 +65,13 @@ L’Équipe de la traduction chinoise participera à quelques parties de la réu
 
 ## Trustees associés
 
-Le Comité d’Administration a réélu Ralph Zehr en tant que trustee associé émérite, pour continuer à servir activement au comité d’administration durant 2016. Richard Jernigan a été réélu pour la troisième année en tant que trustee associé. 
+Le Comité d’Administration a réélu Ralph Zehr en tant que trustee associé émérite, pour continuer à servir activement au comité d’administration durant 2016. Richard Jernigan a été réélu pour la troisième année en tant que trustee associé. 
 
 ## Sauvegarder et Préserver Le Livre d’Urantia
 
-La déclaration de Fiducie qui établit la Fondation Urantia dit que ce qui suit : « Le premier devoir des Trustees est de préserver perpétuellement inviolé le texte du _Livre d’Urantia_. »
+La déclaration de Fiducie qui établit la Fondation Urantia dit que ce qui suit : « Le premier devoir des Trustees est de préserver perpétuellement inviolé le texte du _Livre d’Urantia_. »
 
-La déclaration de Fiducie stipule aussi la sauvegarde du texte original inviolé, de ses médias pour l’impression, de toutes les impressions futures et de toutes les traductions. Trois exemplaires de chaque livre imprimé et des traductions sont donc stockés dans une mine de sel. Aujourd’hui, les traductions et les livres formatés (media d’impression) sont stockés numériquement. À cause du changement de media, nous développons un nouveau système pour protéger les livres physiques et les documents numériques . Ce système devrait être en place dans les trois prochains mois.
+La déclaration de Fiducie stipule aussi la sauvegarde du texte original inviolé, de ses médias pour l’impression, de toutes les impressions futures et de toutes les traductions. Trois exemplaires de chaque livre imprimé et des traductions sont donc stockés dans une mine de sel. Aujourd’hui, les traductions et les livres formatés (media d’impression) sont stockés numériquement. À cause du changement de media, nous développons un nouveau système pour protéger les livres physiques et les documents numériques . Ce système devrait être en place dans les trois prochains mois.
 
 ## Aide demandée
 

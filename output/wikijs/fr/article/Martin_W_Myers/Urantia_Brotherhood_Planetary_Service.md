@@ -53,15 +53,15 @@ Nous sommes au début d’une nouvelle ère. Alors que nous examinons le large p
 
 ## Rôle organisationnel
 
-En essayant d'évaluer quel genre d'organisation est la Fraternité URANTIA, ou quel genre d'organisation nous aimerions voir la Fraternité URANTIA devenir, considérons ce que _Le Livre URANTIA_ observe dans LU 118 :1.5 :
+En essayant d'évaluer quel genre d'organisation est la Fraternité URANTIA, ou quel genre d'organisation nous aimerions voir la Fraternité URANTIA devenir, considérons ce que _Le Livre URANTIA_ observe dans LU 118 :1.5 :
 
 > « _À mesure que le moi murit, il recourt pour son expérience à un passé de plus en plus lointain, tandis que ses prévisions de sagesse cherchent à pénétrer de plus en plus profondément dans l’avenir inconnu. Et, à mesure que le moi qui conçoit étend davantage sa portée dans le passé et le futur, son jugement dépend de moins en moins du présent momentané. La décision-action commence ainsi à échapper aux liens du présent en mouvement, tandis qu’elle revêt progressivement les aspects de la signification passé-futur._ » (<a id="a57_525"></a>[LU 118:1.5](/fr/The_Urantia_Book/118#p1_5))
 
-Examinons maintenant le passé immédiat de ces événements et de la philosophie qui a suggéré et guidé la formation de la Fraternité URANTIA. Alors regardons dans le passé plus profond en préparation pour faire une « prévision de sagesse » quant à l'avenir de la Fraternité URANTIA, échappant ainsi « _... aux entraves du présent en mouvement… _ » afin de mieux acquérir une vision plus large. , perspective plus sûre «_...sur les aspects de signification passé-futur._» (LU 118 : 1.5)
+Examinons maintenant le passé immédiat de ces événements et de la philosophie qui a suggéré et guidé la formation de la Fraternité URANTIA. Alors regardons dans le passé plus profond en préparation pour faire une « prévision de sagesse » quant à l'avenir de la Fraternité URANTIA, échappant ainsi « _... aux entraves du présent en mouvement… _ » afin de mieux acquérir une vision plus large. , perspective plus sûre «_...sur les aspects de signification passé-futur._» (LU 118 : 1.5)
 
 En considérant l'opportunité – et même la nécessité – d'une organisation telle que la Fraternité URANTIA, les dirigeants originaux ont vu que si l'institutionnalisation, si elle était poussée à l'extrême, pouvait cristalliser une religion en de simples formes mortes – un squelette de son moi autrefois dynamique, ils ont également vu que sans une organisation à laquelle aucune religion ne pourrait survivre.
 
-Comme le dit _Le Livre d'URANTIA_ :
+Comme le dit _Le Livre d'URANTIA_ :
 
 > « _Il est difficile à une religion de survivre en tant que pratique personnelle d’individus isolés. Les chefs religieux ont toujours commis l’erreur suivante : apercevant les maux de la religion institutionnelle, ils cherchent à détruire la technique de fonctionnement collectif._ » (<a id="a65_286"></a>[LU 97:10.7](/fr/The_Urantia_Book/97#p10_7))
 
@@ -73,7 +73,7 @@ L'organisation minimale prévue dans la Constitution de la Fraternité URANTIA f
 
 Les grands principes directeurs qui gouvernent de manière informelle notre structure matérielle évolutive sont exposés dans un discours prononcé dans les premiers jours de notre mouvement URANTIA. Dans ce discours, William S, Sadler, Jr., premier président de la Fraternité URANTIA, dans son premier rapport triennal du président au Conseil général de la Fraternité URANTIA, a exposé ce qui est maintenant devenu l'exposé classique de la vaste mission de la Fraternité URANTIA.
 
-1. « Dieu est la seule vraie fin ; toutes les autres choses sont secondaires et subordonnées à la réalisation de la filiation ou de la filiation avec Dieu. »
+1. « Dieu est la seule vraie fin ; toutes les autres choses sont secondaires et subordonnées à la réalisation de la filiation ou de la filiation avec Dieu. »
 
 2. « _Le Livre d'URANTIA_ lui-même n'est pas une fin bien qu'il soit un moyen très important pour atteindre une fin. Nous pouvons servir nos frères spirituellement affamés avec ou sans l'aide du _Livre d'URANTIA_. Mais si jamais le Livre devient obligatoire dans notre ministère, alors nous deviendrons véritablement sectaires. Notre objectif premier est le service de Dieu, et le Livre est un moyen important pour atteindre ce grand but. »
 

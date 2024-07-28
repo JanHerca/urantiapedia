@@ -58,7 +58,7 @@ Il n’est pas donné à la plupart d’entre nous d’être grands parmi les ho
 
 ## Service – Une vision personnelle
 
-Service? Apparemment un mot courant ; mais qu'est-ce que cela signifie réellement ? Faites une pause et réfléchissez un instant à ce que le service signifie pour vous, puis poursuivez votre lecture pendant que j'essaie de partager quelques réflexions avec vous.
+Service? Apparemment un mot courant ; mais qu'est-ce que cela signifie réellement ? Faites une pause et réfléchissez un instant à ce que le service signifie pour vous, puis poursuivez votre lecture pendant que j'essaie de partager quelques réflexions avec vous.
 
 Tandis que j'essayais de déterminer ce que le service signifiait pour moi, une image antérieure de moi-même apparut sur mon écran de visualisation mentale. Le décor de la scène était une rencontre avec des connaissances avec lesquelles j'avais tenté de parler au sujet du _Livre d'URANTIA_. J'étais entré dans cette rencontre avec enthousiasme et désir de partager les vérités que j'avais découvertes, mais j'ai rencontré des soupçons et des doutes. Je suis reparti avec un sentiment de déception et d'incompréhension, en me demandant : « Pourquoi ne m'ont-ils pas cru ?
 
@@ -82,11 +82,11 @@ Nous tous pour qui l’étude en groupe est devenue une partie régulière de la
 
 —_Bernard Burton_
 
-*Note de l'éditeur* : Le groupe d'étude est l'un des cocons fragiles dans lesquels la conscience divine émergente des fils et des filles nouvellement conscients et transformateurs est vivifiée par le contact social. Nous espérons que notre inclusion dans ce journal et dans les futurs journaux d'expériences de groupes d'étude encouragera la réflexion, la discussion et le partage.
+*Note de l'éditeur* : Le groupe d'étude est l'un des cocons fragiles dans lesquels la conscience divine émergente des fils et des filles nouvellement conscients et transformateurs est vivifiée par le contact social. Nous espérons que notre inclusion dans ce journal et dans les futurs journaux d'expériences de groupes d'étude encouragera la réflexion, la discussion et le partage.
 
 ## Groupes d'étude - Un échantillonnage
 
-Il existe autant de manières différentes pour les groupes d’étude de conduire leurs réunions qu’il y a de groupes. Une enquête dans certaines régions de l’Est a abouti à ces brefs profils :
+Il existe autant de manières différentes pour les groupes d’étude de conduire leurs réunions qu’il y a de groupes. Une enquête dans certaines régions de l’Est a abouti à ces brefs profils :
 
 **Le groupe 1** commence par un moment de calme, en se tenant la main. Les réunions hebdomadaires ont lieu le mardi soir, toujours dans la même maison ; environ 7 personnes y participent, parmi lesquelles plusieurs lycéens. Ils lisent depuis le début, un ou deux journaux par semaine ; chaque personne lit une section. Les membres peuvent intervenir pour discuter, et surtout pour explorer les implications sociales et politiques.
 

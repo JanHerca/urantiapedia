@@ -47,7 +47,7 @@ La révélation, la prière et l’adoration d'Urantia nous fournissent notre in
 
 **Groupes de discussion - Penser à l’intérieur des cercles**
 
-Les participants aux groupes de discussion commenceront leurs discussions en se concentrant sur les douze points décrits dans _Le Livre d'Urantia_ sous « Civilisation Progressive » <a id="a49_181"></a>[[LU 71:4](/fr/The_Urantia_Book/71#p4)]. L’objectif des séances de groupe de discussion est d’être unis dans leur objectif et de parvenir, grâce au travail d’équipe, à une plus grande compréhension et actualisation de Dieu le Suprême. Les groupes de discussion cherchent à établir une base de valeurs plus élevées sur lesquelles construire des visions pour un environnement social progressiste.
+Les participants aux groupes de discussion commenceront leurs discussions en se concentrant sur les douze points décrits dans _Le Livre d'Urantia_ sous « Civilisation Progressive » <a id="a49_181"></a>[[LU 71:4](/fr/The_Urantia_Book/71#p4)]. L’objectif des séances de groupe de discussion est d’être unis dans leur objectif et de parvenir, grâce au travail d’équipe, à une plus grande compréhension et actualisation de Dieu le Suprême. Les groupes de discussion cherchent à établir une base de valeurs plus élevées sur lesquelles construire des visions pour un environnement social progressiste.
 
 **Équipes de vision - Construire en dehors des cercles**
 

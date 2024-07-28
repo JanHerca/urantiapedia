@@ -46,7 +46,7 @@ Si nous vivons vraiment à la hauteur des idéaux du Livre d'URANTIA, un jour no
 
 Dans ce contexte, comment développer notre stratégie de sensibilisation ?
 
-En cherchant à organiser nos pensées, je pense que nous pourrions mieux diviser cette question en trois parties :
+En cherchant à organiser nos pensées, je pense que nous pourrions mieux diviser cette question en trois parties :
 
 - Notre propre ministère personnel.
 - Le cadre porteur de notre mouvement.
@@ -55,7 +55,7 @@ En cherchant à organiser nos pensées, je pense que nous pourrions mieux divise
 
 1\. _Notre propre ministère personnel_
 
-Notre propre ministère _personnel_ est et doit être hautement individuel. Chacun de nous doit utiliser des méthodes qui lui conviennent et qui sont adaptées aux besoins de l'autre. La déclaration de septembre dernier de la Fondation URANTIA et de la Fraternité URANTIA l'exprime ainsi :
+Notre propre ministère _personnel_ est et doit être hautement individuel. Chacun de nous doit utiliser des méthodes qui lui conviennent et qui sont adaptées aux besoins de l'autre. La déclaration de septembre dernier de la Fondation URANTIA et de la Fraternité URANTIA l'exprime ainsi :
 
 > Aucune méthode d'introduction n'est efficace pour tout le monde, d'où l'importance de connaître le livre, et de comprendre les besoins de votre ami... Devenez spirituellement parfumé pour mieux attirer les gens vers vous et vers ces enseignements divins. Lorsque vous avez épuisé votre « réserve » d’amis à qui vous avez déjà présenté le livre ou les enseignements, élargissez votre cercle d’amis et ne vous découragez jamais.
 
@@ -75,7 +75,7 @@ Quel est le cadre qui soutient la croissance de notre mouvement ? La réponse é
 
 Mais cette réponse est beaucoup trop matérielle.
 
-Le cadre primordial de la croissance de notre mouvement est la nourriture spirituelle de Dieu :
+Le cadre primordial de la croissance de notre mouvement est la nourriture spirituelle de Dieu :
 
 - Le ministère des Ajusteurs de Pensée.
 - La surveillance des séraphins gardiens.
@@ -83,7 +83,7 @@ Le cadre primordial de la croissance de notre mouvement est la nourriture spirit
 
 Nous ne devons pas non plus négliger les plans et les politiques de nombreux gouvernements spirituels d’en haut, à commencer par le gouvernement planétaire séraphique d’ici – mais s’étendant aux administrations spirituelles de Jérusem, Edentia, Salvington et au-delà.
 
-La subsistance spirituelle provient de sources spirituelles ; les manifestations matérielles n’en sont que les reflets éphémères.
+La subsistance spirituelle provient de sources spirituelles ; les manifestations matérielles n’en sont que les reflets éphémères.
 
 Et si nous suivons ce courant de pensée là où il nous mène véritablement, nous serons alors amenés à nous demander : pourquoi souffrons-nous d’une telle fixation sur nos groupements humains, comme si leur forme ou leur contenu étaient le moteur de la croissance ?
 
@@ -127,7 +127,7 @@ Pourtant, appliquer ce type de réflexion à nous-mêmes peut parfois s’avére
 
 > « _Jésus comprenait parfaitement combien il est difficile aux hommes de rompre avec leur passé. Il savait combien les êtres humains se laissent emporter par l’éloquence des prédicateurs et que leur conscience répond à l’appel émotionnel comme le mental répond à la logique et à la raison, mais il savait aussi combien il est beaucoup plus difficile de persuader les hommes de *désavouer le passé.*_ » (<a id="a127_404"></a>[LU 154:6.8](/fr/The_Urantia_Book/154#p6_8))
 
-Mais _le renier, nous devons_ ? Car si nous voulons dépasser le christianisme, nous devons nous élever au-dessus de ses pratiques et de ses perspectives traditionnelles.
+Mais _le renier, nous devons_ ? Car si nous voulons dépasser le christianisme, nous devons nous élever au-dessus de ses pratiques et de ses perspectives traditionnelles.
 
 ---
 
@@ -157,7 +157,7 @@ Notant que « _...un culte religieux ne peut pas être fabriqué ; il doit grand
 
 > « _Les anciens cultes étaient trop égocentriques. Le nouveau culte doit résulter de la mise en œuvre de l’amour. Comme les anciens, il doit encourager les sentiments, satisfaire les émotions et promouvoir la fidélité, mais il doit faire davantage. Il faut qu’il facilite les progrès spirituels ; qu’il rehausse les significations cosmiques, augmente les valeurs morales, encourage le développement social et stimule un type élevé de vie religieuse personnelle._ » (<a id="a157_467"></a>[LU 87:7.7](/fr/The_Urantia_Book/87#p7_7))
 
-Soulignant l'importance de fonder le culte «_. . . sur la signification biologique, sociologique et religieuse du foyer_ », la Brilliant Evening Star appelle le culte à « _... reconnaître les vraies significations, exalter les belles relations et glorifier les bonnes valeurs de la vraie noblesse._ » ([LU 87:7.8](/fr/The_Urantia_Book/87#p7_8)) « Mais », dit-il,
+Soulignant l'importance de fonder le culte «_. . . sur la signification biologique, sociologique et religieuse du foyer_ », la Brilliant Evening Star appelle le culte à « _... reconnaître les vraies significations, exalter les belles relations et glorifier les bonnes valeurs de la vraie noblesse._ » ([LU 87:7.8](/fr/The_Urantia_Book/87#p7_8)) « Mais », dit-il,
 
 > « _un culte — un symbolisme de rites, de slogans ou de buts — ne fonctionnera pas s’il est trop complexe. Et il doit comporter l’exigence de la dévotion, la réponse de la loyauté._ » (<a id="a161_186"></a>[LU 87:7.10](/fr/The_Urantia_Book/87#p7_10))
 
@@ -191,7 +191,7 @@ Même en Arabie, bien plus proche de la Palestine du point de vue géographique 
 
 > « _Si les disciples de Jésus avaient pris plus au sérieux son injonction « d’aller dans le monde entier pour y prêcher l’évangile » et s’ils avaient été plus affables en le prêchant, moins stricts dans les exigences sociales collatérales inventées par eux-mêmes, alors bien des pays, y compris l’Arabie, auraient reçu avec joie le simple évangile du fils du charpentier._ » (<a id="a191_377"></a>[LU 95:7.3](/fr/The_Urantia_Book/95#p7_3))
 
-Quand je lis ce passage, sept mots me sautent aux yeux : _exigences sociales collatérales de leur propre conception_. Ces sept mots contiennent une leçon puissante, car dans un autre contexte, les médians nous avertissent que nous devrions « _... ne commettez jamais l’erreur d’identifier les enseignements de Jésus à une théorie politique ou économique, ni à un système social ou industriel quelconque._ » ( <a id="a193_409"></a>[LU 140:8.10](/fr/The_Urantia_Book/140#p8_10))
+Quand je lis ce passage, sept mots me sautent aux yeux : _exigences sociales collatérales de leur propre conception_. Ces sept mots contiennent une leçon puissante, car dans un autre contexte, les médians nous avertissent que nous devrions « _... ne commettez jamais l’erreur d’identifier les enseignements de Jésus à une théorie politique ou économique, ni à un système social ou industriel quelconque._ » ( <a id="a193_409"></a>[LU 140:8.10](/fr/The_Urantia_Book/140#p8_10))
 
 De tout cela, je tirerais trois conclusions :
 
@@ -213,7 +213,7 @@ Jésus a préconisé la patience et la générosité d'esprit. Lors de son arrê
 
 > « _Amenez les hommes à Dieu, et ce, *en tant que* fils de Dieu, avant de discourir sur les doctrines de la paternité de Dieu et de la filiation des hommes. Ne luttez pas avec les hommes — soyez toujours patients. Il ne s’agit pas de votre royaume, vous n’en êtes que des ambassadeurs. Contentez-vous d’aller proclamer : Voici le royaume des cieux — Dieu est votre Père et vous êtes ses fils, et, si vous croyez de tout cœur à cette bonne nouvelle, elle *est* votre salut éternel. »_ » (<a id="a213_488"></a>[LU 141:6.4](/fr/The_Urantia_Book/141#p6_4))
 
-Ainsi, comme nous le disent les médians, « _... dans cette fraternité de Jésus, il n’y a place ni pour des rivalités sectaires, ni pour l’acrimonie de groupe, ni pour des affirmations de supériorité morale et d’infaillibilité spirituelle._ » (<a id="a215_243"></a>[LU 195:10.14](/fr/The_Urantia_Book/195#p10_14)) Au lieu de travailler nos croyances et en créant des tests de foi religieuse, nous devons vivre notre religion, en nous consacrant à « _... le service sans réserve de la fraternité des hommes._ » (<a id="a215_489"></a>[LU 99:5.9](/fr/The_Urantia_Book/99#p5_9)) Dans ces efforts, nous devrions nous associer à d'autres, et coopèrent réellement « _... sur la base de l’unité des idéaux et des buts, plutôt que de tenter d’y parvenir en se basant sur des opinions psychologiques et des croyances théologiques._ » (<a id="a215_782"></a>[LU 99:5.7](/fr/The_Urantia_Book/99#p5_7))
+Ainsi, comme nous le disent les médians, « _... dans cette fraternité de Jésus, il n’y a place ni pour des rivalités sectaires, ni pour l’acrimonie de groupe, ni pour des affirmations de supériorité morale et d’infaillibilité spirituelle._ » (<a id="a215_243"></a>[LU 195:10.14](/fr/The_Urantia_Book/195#p10_14)) Au lieu de travailler nos croyances et en créant des tests de foi religieuse, nous devons vivre notre religion, en nous consacrant à « _... le service sans réserve de la fraternité des hommes._ » (<a id="a215_489"></a>[LU 99:5.9](/fr/The_Urantia_Book/99#p5_9)) Dans ces efforts, nous devrions nous associer à d'autres, et coopèrent réellement « _... sur la base de l’unité des idéaux et des buts, plutôt que de tenter d’y parvenir en se basant sur des opinions psychologiques et des croyances théologiques._ » (<a id="a215_782"></a>[LU 99:5.7](/fr/The_Urantia_Book/99#p5_7))
 
 Nous devons adopter l'une des idées que les médians ont extraites des enseignements de fin de soirée de Jésus aux apôtres et aux évangélistes : « _Le tact est le point d'appui de l'influence sociale, et la tolérance est la marque d'une grande âme._ » (<a id="a217_252"></a>[LU 156:5.18](/fr/The_Urantia_Book/156#p5_18))
 

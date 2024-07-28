@@ -58,7 +58,7 @@ L’évangile est si simple et pourtant si puissant qu’il touche le cœur des 
 
 Aujourd’hui, la majorité des Indonésiens sont musulmans, dont environ la moitié, sont modérés. Et ces modérés sont ouverts à de nouveaux enseignements qui montrent de meilleures façons de vivre. Lentement mais sûrement, _Le Livre d’Urantia,_ sera accepté.
 
-Nous, traducteurs de la traduction indonésienne, avons des difficultés avec le nom à utiliser pour Jésus. Dans l’islam, Jésus est un prophète pour la tribu d’Israël et est appelé « Isa » ( « Eashoa » \[prononcée EE-shoh\], « Jésus » en araméen), et les musulmans croient que Mahomet est le successeur d’Isa pour toutes les nations. Si nous utilisons le nom Isa, les musulmans ne peuvent pas l’accepter comme le Fils de Dieu Créateur. Mais si nous utilisons « Jésus », ils pensent que _Le Livre d’Urantia_ est un livre chrétien et ne l’accepteront pas.
+Nous, traducteurs de la traduction indonésienne, avons des difficultés avec le nom à utiliser pour Jésus. Dans l’islam, Jésus est un prophète pour la tribu d’Israël et est appelé « Isa » ( « Eashoa » \[prononcée EE-shoh\], « Jésus » en araméen), et les musulmans croient que Mahomet est le successeur d’Isa pour toutes les nations. Si nous utilisons le nom Isa, les musulmans ne peuvent pas l’accepter comme le Fils de Dieu Créateur. Mais si nous utilisons « Jésus », ils pensent que _Le Livre d’Urantia_ est un livre chrétien et ne l’accepteront pas.
 
 L’introduction plus large et la propagation des enseignements _du Livre d’Urantia_ doivent attendre la fin de la traduction indonésienne.
 

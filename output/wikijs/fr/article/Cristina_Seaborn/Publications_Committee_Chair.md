@@ -43,15 +43,15 @@ Quelques mois avant l’élection du président des publications, j’ai rêvé 
 
 Depuis mes débuts en tant que présidente des publications en juillet 2018, j’ai aimé apprendre de nombreux nouveaux aspects des publications, notamment en travaillant avec les fabuleux rédacteurs de mon comité et les incroyables auteurs talentueux de notre mouvement. Linda Buselli, notre ancienne présidente des publications depuis 22 ans, m'a encadré, tout comme Paula Thompson, notre directrice générale. Linda a récemment obtenu son diplôme. Nous honorons sa contribution de 22 ans aux publications avec beaucoup de gratitude.
 
-Les membres de notre comité des publications sont : Cristina Seaborn (présidente), Jill Strunk, Eric Rice, Avi Dogim, Stephen Sawyer, Barbara Newsom, Cece Forrester et son adjoint Jack Holloway.
+Les membres de notre comité des publications sont : Cristina Seaborn (présidente), Jill Strunk, Eric Rice, Avi Dogim, Stephen Sawyer, Barbara Newsom, Cece Forrester et son adjoint Jack Holloway.
 
-Plusieurs personnes m'ont donné des idées de publications, que j'apprécie. Veuillez me faire savoir comment nous pouvons améliorer nos communications sur cette enquête : https://www.surveymonkey.com/r/FNPK28S
+Plusieurs personnes m'ont donné des idées de publications, que j'apprécie. Veuillez me faire savoir comment nous pouvons améliorer nos communications sur cette enquête : https://www.surveymonkey.com/r/FNPK28S
 
-Voici les publications que nous avons présentées l’année dernière :
+Voici les publications que nous avons présentées l’année dernière :
 1. Fall Mighty Messenger 2018 : focus sur le Parlement des Religions du Monde 
 2. Spring Mighty Messenger 2019 : des articles variés de notre communauté créative avec de nombreux auteurs talentueux !
-3. Le Mighty Messenger de l’automne 2019 : présentant ce que fait la Fellowship grâce au travail bénévole de notre comité.
-4. Thème du Fellowship Herald 2019 : notre Esprit Mère de l’Univers Local
+3. Le Mighty Messenger de l’automne 2019 : présentant ce que fait la Fellowship grâce au travail bénévole de notre comité.
+4. Thème du Fellowship Herald 2019 : notre Esprit Mère de l’Univers Local
 5. Newsletter électronique mensuelle : Mini Messenger
 
 **Budget global des publications**
@@ -60,7 +60,7 @@ Nous envoyons gratuitement nos publications papier à 1 800 personnes. Le coût 
 
 **Prochaines dates limites de publication**
 
-La date limite pour Spring Mighty Messenger est le 15 mars 2020.
+La date limite pour Spring Mighty Messenger est le 15 mars 2020.
 
 La date limite du Summer Fellowship Herald est le 15 avril 2020.
 
@@ -68,11 +68,11 @@ Thème : Dieu le Suprême et comment nous servons le Suprême
 
 Les articles Mini Messenger sont à rendre avant le 10 de chaque mois.
 
-Voici notre sollicitation de publications et notre enquête avec 68 réponses à ce jour demandant : Préféreriez-vous recevoir nos magazines, le Mighty Messenger et le Fellowship Herald, sous forme électronique ou imprimée, ou les deux ? Cette enquête prendra une minute. Veuillez nous le faire savoir ici : https://www.surveymonkey.com/r/T5LFL86
+Voici notre sollicitation de publications et notre enquête avec 68 réponses à ce jour demandant : Préféreriez-vous recevoir nos magazines, le Mighty Messenger et le Fellowship Herald, sous forme électronique ou imprimée, ou les deux ? Cette enquête prendra une minute. Veuillez nous le faire savoir ici : https://www.surveymonkey.com/r/T5LFL86
 
 Merci, Cristina Seaborn, présidente des publications
 
-Vous pouvez aider la Fellowship à conserver nos publications sous forme imprimée. Seulement $\$ 3,00$ par mois aident à garder un Herald Magazine et les deux bulletins d'information Mighty Messenger disponibles pour notre famille Urantia. Cela représente seulement $\$ 36,00 $ par an !
+Vous pouvez aider la Fellowship à conserver nos publications sous forme imprimée. Seulement $\$ 3,00$ par mois aident à garder un Herald Magazine et les deux bulletins d'information Mighty Messenger disponibles pour notre famille Urantia. Cela représente seulement $\$ 36,00 $ par an !
 
 Veuillez faire un don aujourd'hui à https://urantiabook.worldsecuresystems.com/donation
 
@@ -84,13 +84,13 @@ Broomfield CO 80021
 
 **IDEES DE PLULICATIONS**
 
-**De Emilio Coppola :**
+**De Emilio Coppola :**
 
 1. Créez une publication dédiée aux nouveaux lecteurs du Livre d'Urantia.
 2. Créez-en un autre axé sur les dirigeants des groupes d'étude et leur fournissant une communauté et des ressources.
 3. Créer une publication pour les sociétés.
 
-**De Patrick Yesh :**
+**De Patrick Yesh :**
 
 1. Une publication centrée sur les arts
 2. Dans chaque publication, demandez à Urantia et aux artistes sacrés de soumettre leur travail, ou des articles décrivant leur travail, à l’éditeur qui sera choisi pour les publications futures.
@@ -101,7 +101,7 @@ Broomfield CO 80021
 7. J'adore publier un article avec une invitation au lectorat mondial sur la tenue d'une conférence consacrée aux arts sacrés et aux beaux-arts. Aucune lecture ou discussion intellectuelle n'est autorisée, juste des créations artistiques pures dans tous les arts, musique, danse, théâtre, poésie, littérature, romans, scénarios, sculptures, peintures, dessins, films, YouTubers (œuvre de Teuvo Orjala), arts numériques, etc.
 8. Réalisez un bulletin d'information ou une publication artistique trimestrielle avec des références et des liens vers leurs sites Web de travail. Attirez les mêmes arts sacrés à l’intérieur et à l’extérieur du mouvement du Livre d’Urantia. Publiez des sites Web où des œuvres d’art, de la musique et des écrits peuvent être achetés et aidez à soutenir les artistes.
 
-**De Cristina Seaborn :**
+**De Cristina Seaborn :**
 
 1. Créez une page Web de remise des diplômes et de souvenirs Urantia sur notre nouveau site Web pour commémorer ceux qui ont fait leur transition, y compris un service funéraire Urantia, des ressources pour les soignants, des prières, des chants, des informations sur l’au-delà, des photos et d'autres besoins. 
 2. Un coin de société

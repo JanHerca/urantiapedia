@@ -84,7 +84,7 @@ Marta Elders a dirigé une session de planning pendant laquelle les membres du C
 
 ## E. Budgets et donations
 
-- Rester dans le budget  approuvé pour 2011 qui est moins important que celui de 2010.
+- Rester dans le budget  approuvé pour 2011 qui est moins important que celui de 2010.
 - Accroitre les donations et le nombre de donateurs de 10 %.
 - Continuer à construire une forte trésorerie qui pourra résister aux tempêtes sociales et économiques tout en sécurisant la capacité de la Fondation Urantia à servir à court et à long terme.
 
@@ -113,8 +113,8 @@ Marta Elders a dirigé une session de planning pendant laquelle les membres du C
 
 - Les ventes totales de livres ont augmenté de 22 % en unité et 23 % en dollars.
 - Les contributions totales ont dépassé le budget. Le total des donateurs de 2010 a augmenté de 15 % par rapport à 2009.
-- Le total des livres imprimés était de 24 266, en sept langues, y compris quatre nouvelles  traductions.
-- Des contrats de distribution furent signés en Pologne, Suède, Estonie et en Belgique / Grand Duché du Luxembourg. Un contrat révisé fut signé en Allemagne. Watkins Books a réouvert et continue d’être la librairie  principale pour _Le Livre d’Urantia_ au Royaume-Uni.
+- Le total des livres imprimés était de 24 266, en sept langues, y compris quatre nouvelles  traductions.
+- Des contrats de distribution furent signés en Pologne, Suède, Estonie et en Belgique / Grand Duché du Luxembourg. Un contrat révisé fut signé en Allemagne. Watkins Books a réouvert et continue d’être la librairie  principale pour _Le Livre d’Urantia_ au Royaume-Uni.
 - Le système européen de stockage, de comptabilité et de distribution a été établi à Rotterdam.
 - Neuf fichiers HTML de traduction propres et standardisés ont été créés et chargés sur le site.
 - Le site web des traducteurs est presque terminé. Il en est à son essai final et mis sur le serveur.
@@ -135,7 +135,7 @@ Marta Elders a dirigé une session de planning pendant laquelle les membres du C
 
 ## 5. Le Comité de Conseil Européen remplacé par un systême de ventes pour l’Union Européenne
 
-La Fondation a maintenant une infrastructure européenne de stockage, transport et de distribution qui couvre presque toute l’Union Européenne. C’est pourquoi, le Conseil d’Administration avec la recommandation du Comité de Gouvernance et du  Comité de Conseil Européen dissolva le Comité de Conseil Européen puisqu’il n’est plus nécessaire. Nous remercions Henk et Claire Mylanus pour les efforts remarquables pour la création de ce nouveau et bien meilleur systême.
+La Fondation a maintenant une infrastructure européenne de stockage, transport et de distribution qui couvre presque toute l’Union Européenne. C’est pourquoi, le Conseil d’Administration avec la recommandation du Comité de Gouvernance et du  Comité de Conseil Européen dissolva le Comité de Conseil Européen puisqu’il n’est plus nécessaire. Nous remercions Henk et Claire Mylanus pour les efforts remarquables pour la création de ce nouveau et bien meilleur systême.
 
 ## 6. Centre de téléchargement centralisé
 
@@ -145,7 +145,7 @@ Le Conseil d’Administration fut d’accord pour développer et faire fonctionn
 
 - 15 – 16 avril 2011 ( Chicago – Illinois )
 - 15 – 16 juillet 2011 ( Chicago – Illinois )
-- 14 – 15 octobre 2011  (Chicago –Illinois )
+- 14 – 15 octobre 2011  (Chicago –Illinois )
 - 27 -28 janvier 2012 ( Chicago – Illinois )
 - 27 – 28 avril 2012 ( Paris – France )
 - juillet 2012 ( pas encore décidé ) ( Chicago – Illinois )

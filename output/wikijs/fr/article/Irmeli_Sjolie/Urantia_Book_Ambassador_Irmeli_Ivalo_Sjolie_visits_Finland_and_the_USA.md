@@ -34,13 +34,13 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
-Note de l’éditeur : Irmeli continue de garder notre communauté mondiale informée des activités urantiennes à mesure qu’elle voyage à travers le monde et rencontre des lecteurs. Merci Irmeli !
+Note de l’éditeur : Irmeli continue de garder notre communauté mondiale informée des activités urantiennes à mesure qu’elle voyage à travers le monde et rencontre des lecteurs. Merci Irmeli !
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2013_09/039.jpg">
 </figure>
 
-Irmeli fait équipe avec Rod Hollande de Dallas, au Texas, en plaçant des Livres d’Urantia dans le magasin « Half Price Books » – une chaîne de librairies vendant au rabais. Chaque fois qu’elle se rend Dallas, elle et Rod vérifient les ventes de livres. Pour plus d’informations, visitez: 
+Irmeli fait équipe avec Rod Hollande de Dallas, au Texas, en plaçant des Livres d’Urantia dans le magasin « Half Price Books » – une chaîne de librairies vendant au rabais. Chaque fois qu’elle se rend Dallas, elle et Rod vérifient les ventes de livres. Pour plus d’informations, visitez: 
 
 [https://www.urantia.org/fr/news/2013-03/half-price-books-une-opportunite-pour-la-dissemination-du-livre-durantia](https://www.urantia.org/fr/news/2013-03/half-price-books-une-opportunite-pour-la-dissemination-du-livre-durantia)
 

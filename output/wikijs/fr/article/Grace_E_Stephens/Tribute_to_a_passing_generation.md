@@ -37,7 +37,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 La jeunesse cherche à être reconnue. La maturité tend à changer la perspective de l'individu en lui faisant prendre conscience de l'importance de soi.
 
-_Le Livre d'URANTIA_ honore ceux qui servent tranquillement dans les coulisses. On nous dit qu'un réserviste est choisi en raison de sa « ... volonté de servir sans reconnaissance ni récompense humaine._ » (<a id="a39_207"></a>[LU 114:7.5](/fr/The_Urantia_Book/114#p7_5))
+_Le Livre d'URANTIA_ honore ceux qui servent tranquillement dans les coulisses. On nous dit qu'un réserviste est choisi en raison de sa « ... volonté de servir sans reconnaissance ni récompense humaine._ » (<a id="a39_207"></a>[LU 114:7.5](/fr/The_Urantia_Book/114#p7_5))
 
 La Fraternité URANTIA semble entrer dans une période de transition où l'ancien cède la place au nouveau. Permettez-moi d'exhorter ceux à qui nous confions la garde de notre révélation à ne pas rejeter le leadership historique des nombreux hommes et femmes dévoués du passé qui ont tant fait en contribuant à l'organisation de la Fraternité et ont donné leur vie à la Fraternité. diffusion de ces enseignements.
 
@@ -47,8 +47,8 @@ Nous exhortons les jeunes dirigeants qui prennent peu à peu nos places à sauve
 
 Je me souviens de la belle élégie écrite par le poète anglais Thomas Gray, surtout lorsqu'il dit :
 
-> « Plein de nombreux joyaux du rayon le plus pur et serein
-> Les grottes sombres et insondées de l'ours océanique ;
+> « Plein de nombreux joyaux du rayon le plus pur et serein
+> Les grottes sombres et insondées de l'ours océanique ;
 > De nombreuses fleurs naissent pour rougir sans être vues,
 > Et gaspille sa douceur dans l’air du désert.
 
@@ -57,7 +57,7 @@ Les noms des plus grands d’entre nous ne sont pas gravés dans les lumières. 
 — _Grace E. Stephens_
 _Downer's Grove, Illinois_
 
-_Note de l'éditeur : Grace Stephens a obtenu son diplôme pour les Mondes des Manoirs en janvier de cette année._
+_Note de l'éditeur : Grace Stephens a obtenu son diplôme pour les Mondes des Manoirs en janvier de cette année._
 
 
 

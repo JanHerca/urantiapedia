@@ -28,13 +28,13 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-## IC '08 est presque là !
+## IC '08 est presque là !
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2008_Spring/005673.jpg">
 </figure>
 
-Rejoignez-nous sous le soleil de Los Angeles pour la conférence Fellowship International 2008, du 2 au 6 juillet, sur le campus de l’UCLA. Les inscriptions commencent le mardi 1er juillet et les participants seront accueillis par une réception ce soir-là. La plénière d'ouverture du mercredi 2 juillet marquera le début d'une semaine passionnante d'adoration, de vérité, d'amitié et d'esprit, sur le thème « Le frisson du service aimant ».
+Rejoignez-nous sous le soleil de Los Angeles pour la conférence Fellowship International 2008, du 2 au 6 juillet, sur le campus de l’UCLA. Les inscriptions commencent le mardi 1er juillet et les participants seront accueillis par une réception ce soir-là. La plénière d'ouverture du mercredi 2 juillet marquera le début d'une semaine passionnante d'adoration, de vérité, d'amitié et d'esprit, sur le thème « Le frisson du service aimant ».
 
 Le magnifique campus de l’UCLA se trouve à une courte distance en voiture de l’aéroport de LAX et les activités seront concentrées dans une petite zone. Tous les ateliers et séances plénières se tiendront dans le même bâtiment et seront situés au même étage que l’Expo, la librairie, la galerie d'art et le centre d'information/d'inscription. Les dortoirs se trouvent à seulement quelques minutes à pied du bâtiment principal et des espaces communs. Le campus est accessible aux personnes handicapées et est très facile à naviguer.
 
@@ -52,7 +52,7 @@ Le vendredi 4 juillet sera une journée « légère ». Vous pouvez être seul �
 
 ## Activités IC '08
 
-Une retraite spirituelle pré-conférence aura lieu à la maison de retraite St. Joseph à Pacific Palisades du dimanche 29 juin au mardi 1er juillet. Francyl Gawryn, Gard Jameson et Bobbie Dreier dirigeront cette retraite pour ceux qui souhaitent approfondir un peu dans le château intérieur de leur âme. L'espace est limité à 30 participants et l’installation est proche de LAX et du campus de l’UCLA. Le coût de la retraite est de 150 $ (tout compris). Veuillez contacter Gard Jameson à gardj@attglobal.net pour plus d'informations.
+Une retraite spirituelle pré-conférence aura lieu à la maison de retraite St. Joseph à Pacific Palisades du dimanche 29 juin au mardi 1er juillet. Francyl Gawryn, Gard Jameson et Bobbie Dreier dirigeront cette retraite pour ceux qui souhaitent approfondir un peu dans le château intérieur de leur âme. L'espace est limité à 30 participants et l’installation est proche de LAX et du campus de l’UCLA. Le coût de la retraite est de 150 $ (tout compris). Veuillez contacter Gard Jameson à gardj@attglobal.net pour plus d'informations.
 
 Une cérémonie de bienvenue pour les Ajusteurs de Pensée pour les enfants âgés de 5 à 7 ans aura lieu sur le marché de Jérusalem le jeudi soir 3 juillet, après le dîner. C’est une belle période de la vie d’un enfant et nous voulons l’honorer avec un événement mémorable. Si vous souhaitez que votre enfant participe, veuillez envoyer un e-mail à planificateurs@ic08.org.
 
@@ -64,7 +64,7 @@ Chercheurs de vérité sur Catalina - Vous pouvez en savoir plus sur ce voyage s
 
 Une célébration du service affectueux aura lieu le vendredi soir 4 juillet et sera un événement participatif basé sur une forme révolutionnaire de culte interreligieux, multiculturel et intergénérationnel. Nous aurons besoin d'artistes, de musiciens, de chanteurs, de danseurs ou de leaders de mouvements, de poètes, de conteurs et de techniciens en informatique/électronique. Si vous vous sentez appelé à collaborer à cette célébration, veuillez contacter Steve Rohrbach au (303) 579-7646 ou steverohrbach@earthlink.net ou Edina Preucel au (303) 666-9415.
 
-### Des contributions/dons sont nécessaires dans plusieurs domaines :
+### Des contributions/dons sont nécessaires dans plusieurs domaines :
 
 - Le Fonds de bourses d'études aidera les personnes et les familles qui ont besoin d'un peu d'aide pour assister à la conférence. S'il vous plaît, faites un don pour aider les jeunes familles à participer à IC '08. Contactez-nous à planificateurs@IC08.org si vous avez besoin d'un peu d'aide supplémentaire pour vous rendre à la conférence.
 - Le Fonds des programmes pour l’enfance et la jeunesse aidera à couvrir les coûts des programmes spéciaux destinés aux jeunes.
@@ -72,7 +72,7 @@ Une célébration du service affectueux aura lieu le vendredi soir 4 juillet et 
 
 ### Le paiement pour IC08 rendu plus facile.
 
-Nous utilisons désormais un service d'inscription qui vous permet de vous inscrire en ligne et d'effectuer des paiements à un moment qui vous convient. Après le dépôt initial de 125 $, vous pouvez payer mensuellement ou à tout moment en vous connectant au lien envoyé après votre inscription. Inscrivez-vous tôt et recevez un magnifique sac fourre-tout de conférence et économisez également de l’argent ! Inscrivez-vous en ligne dès maintenant ou envoyez le formulaire d'inscription aux pages 9-10.
+Nous utilisons désormais un service d'inscription qui vous permet de vous inscrire en ligne et d'effectuer des paiements à un moment qui vous convient. Après le dépôt initial de 125 $, vous pouvez payer mensuellement ou à tout moment en vous connectant au lien envoyé après votre inscription. Inscrivez-vous tôt et recevez un magnifique sac fourre-tout de conférence et économisez également de l’argent ! Inscrivez-vous en ligne dès maintenant ou envoyez le formulaire d'inscription aux pages 9-10.
 
 ## Diplômés Duane Faw
 
@@ -110,7 +110,7 @@ Par _Paula Thompson_
 
 Après des mois de planification, une équipe d'évangélistes du Livre d'Urantia expérimentés et dévoués a exposé _Le Livre d'Urantia_ à la Foire mondiale du livre de Delhi, en Inde. Je faisais partie de cette équipe dirigée par Buck Weimer et comprenant Arlene Weimer, Charlene Morrow, Agustin Arellano et Mario Trevino. Quand je suis parti pour rentrer chez moi, un lecteur indien, M. Garfield Jansen, est arrivé à plusieurs centaines de kilomètres en train pour occuper ma place à la foire. C'était une équipe fantastique ; et la joie, la camaraderie et l’amour sur notre stand ont attiré d'autres exposants et participants. Beaucoup sont revenus nous rendre visite quotidiennement pendant les dix jours que nous avons passés là-bas. Nous nous sommes fait de nombreux amis parmi les musulmans, les hindous et les chrétiens qui étaient là. 
 
-Après un long voyage, nous étions épuisés mais reconnaissants d'être en Inde en un seul morceau avec toutes nos différentes pièces intactes. Arlene a négocié pour nous un guide qui s'est avéré inestimable. Il a fallu une bonne partie de la journée pour installer le stand, mais nous l’avons fait et étions prêts à rouler le lendemain matin. Buck était notre chef intrépide et nous sommes rapidement devenus Buck et les Buckaroos. Eh bien, Arlene a en fait pris le surnom indien affectueux de « Mme ». Mâle." Le samedi 2 février était la première journée complète de la foire. Charlene et moi avons décidé qu’il nous fallait moins d'une journée pour tomber totalement amoureux du peuple indien. En un mot, ils nous ont fait fondre le cœur.
+Après un long voyage, nous étions épuisés mais reconnaissants d'être en Inde en un seul morceau avec toutes nos différentes pièces intactes. Arlene a négocié pour nous un guide qui s'est avéré inestimable. Il a fallu une bonne partie de la journée pour installer le stand, mais nous l’avons fait et étions prêts à rouler le lendemain matin. Buck était notre chef intrépide et nous sommes rapidement devenus Buck et les Buckaroos. Eh bien, Arlene a en fait pris le surnom indien affectueux de « Mme ». Mâle." Le samedi 2 février était la première journée complète de la foire. Charlene et moi avons décidé qu’il nous fallait moins d'une journée pour tomber totalement amoureux du peuple indien. En un mot, ils nous ont fait fondre le cœur.
 
 Au cours des dix jours suivants à Delhi, nous nous sommes fait des amis pour la vie. Il y en a tellement, mais quelques-uns me frappent. Yuyutsu Sharma, poète et libraire népalais, avait un stand juste en face de nous. Il est venu le premier jour et nous a accueillis avec chaleur et amitié. En une semaine, nous avons appris à bien le connaître. Nous avons entendu parler de sa famille au Népal et que sa fille de 12 ans est fortement attirée par Jésus. Yuyutsu l’encourage à suivre son cœur et à apprendre tout ce qu’elle peut sur Jésus, mais il explique avec une lueur dans les yeux que sa femme pense qu’il est fou de lui dire ça. Bien sûr, nous avons troqué notre magnifique histoire de Jésus contre un de ses recueils de poèmes et il l’a envoyé à son enfant le lendemain, par courrier express. Imaginez avoir douze ans, inexplicablement attiré par Jésus, et être capable de lire la quatrième partie du _Livre d'Urantia_ ! Yuyutsu est un poète à succès et il vient bientôt à Boulder pour lire sa poésie et promouvoir son livre.
 
@@ -148,7 +148,7 @@ Je voudrais particulièrement remercier la Société d'Oklahoma et George Thornb
 
 Ma mission principale en venant ici est de réparer la maison Teusaquillo occupée par Exito Verde et utilisée comme centre de sensibilisation communautaire. De plus, mon voyage vise à mettre l’accent sur les relations avec tous les lecteurs du Livre d'Urantia en Colombie. À cette fin, ma femme Bibi et moi avons renoué des amitiés avec Carlos Zapata (premier lecteur colombien à être mon ami) et Juan B. et Marta Garcia, lecteurs qui nous ont rendu visite l’été dernier en Oklahoma. Juan a gracieusement mis à disposition son expérience en génie civil pour aider aux réparations de la maison Teusaquillo. Ces deux-là ont été répertoriés dans le répertoire du Groupe d'étude international du Livre d'Urantia (que je porte toujours) et ont été essentiels aux réalisations réalisées.
 
-Carlos nous a parlé d'une présentation d'Urantia samedi 14 mars, par Juan Fernando Petro, un lecteur de 18 ans, intitulée « La Ciencia al Encuentro de Dios ». Le sujet, traduit par « Une rencontre scientifique avec Dieu », était une présentation puissante sur la preuve scientifique de l’existence de Dieu, soutenant en particulier la coexistence de l’évolution et de la création. M. Petro dirige un groupe appelé « Grupo Estudio Avanzado de Urantia-GEA » (Groupe d'études avancées d'Urantia-GEA). Plus de soixante-quinze personnes ont assisté à cette présentation. Bibi et moi avons eu la chance de rencontrer beaucoup de ces lecteurs et les avons invités à une journée portes ouvertes à la maison Teusaquillo le lendemain. M. Petro a fait don de deux DVD, un sur son groupe et l’autre sur sa présentation. Ceux-ci pourront être utilisés lors de l’IC ’08 à Los Angeles et placés sur des sites Web aux États-Unis et dans les pays hispanophones.
+Carlos nous a parlé d'une présentation d'Urantia samedi 14 mars, par Juan Fernando Petro, un lecteur de 18 ans, intitulée « La Ciencia al Encuentro de Dios ». Le sujet, traduit par « Une rencontre scientifique avec Dieu », était une présentation puissante sur la preuve scientifique de l’existence de Dieu, soutenant en particulier la coexistence de l’évolution et de la création. M. Petro dirige un groupe appelé « Grupo Estudio Avanzado de Urantia-GEA » (Groupe d'études avancées d'Urantia-GEA). Plus de soixante-quinze personnes ont assisté à cette présentation. Bibi et moi avons eu la chance de rencontrer beaucoup de ces lecteurs et les avons invités à une journée portes ouvertes à la maison Teusaquillo le lendemain. M. Petro a fait don de deux DVD, un sur son groupe et l’autre sur sa présentation. Ceux-ci pourront être utilisés lors de l’IC ’08 à Los Angeles et placés sur des sites Web aux États-Unis et dans les pays hispanophones.
 
 Le dimanche 15 mars, nous attendions une vingtaine de participants à la journée portes ouvertes à Teusaquillo. Nous avions appelé et invité toutes nos connaissances ainsi que les nouvelles connaissances de samedi. À notre grande surprise, quarante-quatre personnes étaient présentes et tout le monde a apprécié le déjeuner et un après-midi de socialisation. Étaient présents Juan Fernando Petro et Alvaro Gomez, qui ont ouvert la présentation et dirigent les groupes Urantia à Bogota. Je leur ai parlé de mon rêve de faire de la publicité dans El Tiempo, le plus grand journal de Bogota, suggérant que les lecteurs d'Urantia se réunissent régulièrement (peut-être le samedi à 10 heures du matin ?) dans un endroit où tous les lecteurs et nouveaux lecteurs pourraient se rencontrer. J'aimerais que la Fondation, la Fellowship et d'autres lecteurs intéressés parrainent conjointement cette publicité mensuelle. Mon idée a été accueillie positivement et j'ai proposé d'utiliser les salles de réunion de la maison Teusaquillo pour leurs réunions.
 
@@ -192,7 +192,7 @@ Nancy a élevé cinq enfants qui lui ont donné treize petits-enfants et trois a
 > Notre bon navire « Urantia » a quitté le port ! La prochaine Foire mondiale du livre se tiendra en Argentine au début du printemps. Ce sera un effort de coopération entre la Fellowship, la Fondation et l’AUI.
 {.is-info}
 
-## Seriez-vous prêt à travailler une (1) heure par mois pour la révélation ?
+## Seriez-vous prêt à travailler une (1) heure par mois pour la révélation ?
 
 Bien que tout le monde ne soit pas en mesure de consacrer du temps réel à l’effort de Révélation, en s'inscrivant au programme de prélèvement automatique et en promettant l’équivalent d'une heure de salaire par mois, nous sommes en vérité
 
@@ -237,14 +237,14 @@ Seize membres, dont deux nouveaux membres, ont participé à la réunion annuell
 
 - IC '08, du 2 au 6 juillet 2008, « The Thrill of Loving Service » - Voir le formulaire d'inscription dans ce numéro.
 - 25-27 juillet 2008, Conférence sur la vie spirituelle de Belton, Belton, Texas. Pour plus d’informations, contactez Bill Cooper à cooper3630@sbcglobal.net.
-- 25-27 juillet 2008, Conférence UAUS, « Histoire, Origine et Destin », qui se tiendra à l’Université de St. Mary's, Leavenworth, KS. Pour plus d'informations, contactez l’UAUS à : http://www.urantiausa.org/URANTIA2008-KS.html.
+- 25-27 juillet 2008, Conférence UAUS, « Histoire, Origine et Destin », qui se tiendra à l’Université de St. Mary's, Leavenworth, KS. Pour plus d'informations, contactez l’UAUS à : http://www.urantiausa.org/URANTIA2008-KS.html.
 - Nouveau système de base de données. La Fellowship travaille actuellement à la normalisation de toutes les fonctions des bases de données de la société afin que les dirigeants de la société aient toujours accès à une base de données simple et précise. Nous comptons sur chaque société pour nous aider à la maintenir à jour. Plus tôt vous pourrez nous fournir des noms, des adresses, des numéros de téléphone et des adresses e-mail, plus tôt nous pourrons effectuer des ajouts et/ou des corrections. Les données peuvent nous être envoyées sous n’importe quel format.
 - Mise à jour de la communauté en ligne. Pour recevoir le bulletin électronique mensuel de la Fellowship, allez sur www.urantiabook.org et cliquez sur Abonnements au bas de la page d'accueil. Si vous êtes déjà inscrit à ce service, n’oubliez pas de nous tenir informés de tout changement d'adresse e-mail.
 
 ## Personnel du « The Mighty Messenger »
 
 Publié par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship.
-Membres : Linda Buselli, présidente Lynda D'Arcangelo, Laura Hay, Nancy Johnson, Joe Liszka, Sage Waitts
+Membres : Linda Buselli, présidente Lynda D'Arcangelo, Laura Hay, Nancy Johnson, Joe Liszka, Sage Waitts
 877.288.3772
 bourse@urantiabook.org
 www.urantiabook.org

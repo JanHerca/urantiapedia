@@ -576,6 +576,6 @@ Et enfin, mais non des moindres, **[la technique consistant à recevoir les fasc
 
 ## Références
 
-Étude obtenue auprès de :
+Étude obtenue auprès de :
 - [Site Web de la Fondation Urantia](https://www.urantia.org/study/consideration-some-criticisms-urantia-book)
 - [Site Web de la Fellowship](https://archive.urantiabook.org/archive/history/sadcrit.htm)

@@ -43,11 +43,11 @@ Je suis ravi d'avoir l'occasion de présider cette occasion propice. Les délég
 
 Il est de notre devoir d’amener la vie sur cette planète à un nouveau niveau, ce que nous pouvons faire et que nous ferons lorsque nous serons sincèrement imprégnés de l’idée que nous sommes les ambassadeurs d’un royaume céleste tout aussi sûrement que l’étaient les douze apôtres qui ont suivi Jésus. Ces douze hommes ont été tellement inspirés par la vie et les enseignements de Jésus qu’ils sont allés bouleverser le monde entier. Je prie pour que nous fassions de même.
 
-Au cours de mon court mandat en tant que président de la Fraternité URANTIA, j'ai exposé deux thèses : premièrement, que nous devenons des prophètes vivants de la paternité de Dieu et de la fraternité de l'homme, et deuxièmement, que nous nous souvenons de subordonner le _Livre d'URANTIA_ au service de Dieu. .
+Au cours de mon court mandat en tant que président de la Fraternité URANTIA, j'ai exposé deux thèses : premièrement, que nous devenons des prophètes vivants de la paternité de Dieu et de la fraternité de l'homme, et deuxièmement, que nous nous souvenons de subordonner le _Livre d'URANTIA_ au service de Dieu. .
 
 Peut-être devrions-nous prendre un moment maintenant pour écouter une fois de plus l'exhortation de Jésus à ses apôtres lors d'une de ses profondes discussions sur la religion : « _Je vous recommande de perdre l’habitude de toujours citer les prophètes de jadis… et à aspirer à la place pour devenir des prophètes vivants… et des héros spirituels du royaume à venir._” (<a id="a47_370"></a>[LU 155:6.7](/fr/The_Urantia_Book/155#p6_7))
 
-Qu'est-ce qu'un prophète ? Webster dit qu'un prophète est :
+Qu'est-ce qu'un prophète ? Webster dit qu'un prophète est :
 
 1. Le proclamateur d'une révélation
 2. Celui qui parle pour un autre, surtout pour Dieu

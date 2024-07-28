@@ -19,9 +19,9 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Les lecteurs du _Livre d’Urantia_ sont ravis d’apprendre que le salut est fondé sur la foi seule, qu’un fragment divin dans le mental fusionnera avec chacun d’entre nous pour toute l”éternité et qu’il y a un plan de service pour une vie éternelle de service, d’adoration et de découverte.
 
-En ce qui concerne l’adversité, quels conseils nous offre le Livre d’Urantia ? Comment les enseignements nous aident-ils à réagir quand nous sommes secoués par une tragédie dévastatrice et inattendue ou bien que nos propres efforts malencontreux sont causes de souffrance et de désespoir dans notre vie quotidienne ?
+En ce qui concerne l’adversité, quels conseils nous offre le Livre d’Urantia ? Comment les enseignements nous aident-ils à réagir quand nous sommes secoués par une tragédie dévastatrice et inattendue ou bien que nos propres efforts malencontreux sont causes de souffrance et de désespoir dans notre vie quotidienne ?
 
-Heureusement, les Révélateurs fournissent un ample matériel pour nous instruire et nous inspirer.  J’ai sélectionné certains enseignements s’y rapportant et les ai groupés suivant les cinq domaines suivants :
+Heureusement, les Révélateurs fournissent un ample matériel pour nous instruire et nous inspirer.  J’ai sélectionné certains enseignements s’y rapportant et les ai groupés suivant les cinq domaines suivants :
 
 1. Échec – un outil pour acquérir de la sagesse et un accomplissement spirituel.
 2. Perspective – des perspectives qui pavent le chemin au progrès spirituel.
@@ -29,7 +29,7 @@ Heureusement, les Révélateurs fournissent un ample matériel pour nous instrui
 4. Capacités d’adaptation – comment se maintenir à la suite d’un désastre.
 5. Mettre tout en œuvre … dans l’éternité.
 
-Il est important de se rendre compte que, comme le dit Jésus, **« _Vous pouvez entrer dans le royaume de Dieu comme un enfant, mais le Père exige que vous grandissiez, par la grâce, jusqu’à la pleine stature d’un adulte spirituel. »_** <a id="a58_190"></a>[[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2)] Cela inclut non seulement de porter les fruits de l’esprit mais aussi de faire montre d’équilibre, de courage et de foi quand votre monde qui s’effondre.
+Il est important de se rendre compte que, comme le dit Jésus, **« _Vous pouvez entrer dans le royaume de Dieu comme un enfant, mais le Père exige que vous grandissiez, par la grâce, jusqu’à la pleine stature d’un adulte spirituel. »_** <a id="a58_190"></a>[[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2)] Cela inclut non seulement de porter les fruits de l’esprit mais aussi de faire montre d’équilibre, de courage et de foi quand votre monde qui s’effondre.
 
 ## Échec
 

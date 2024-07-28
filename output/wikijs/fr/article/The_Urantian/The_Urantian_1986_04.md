@@ -22,7 +22,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </td>
         <td>
         <a href="/fr/article/Marvin_Gawryn/The_inner_conversation_unbroken_communion_with_God">
-          <span class="pr-2">La conversation intérieure : une communion ininterrompue avec Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">La conversation intérieure : une communion ininterrompue avec Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-## La conversation intérieure : une communion ininterrompue avec Dieu
+## La conversation intérieure : une communion ininterrompue avec Dieu
 
 _Le Livre d'URANTIA_ affirme que le cœur de la religion est une relation vivante avec Dieu. Une telle communion ne doit pas se limiter aux services religieux ou aux expériences de pointe. Cela devrait être habituel, un processus continu de partage intérieur, d’instant en instant. L’une des déclarations les plus surprenantes de la révélation est qu’une telle communion père-enfant peut être constante. Une communion continue est possible. Il s’agit en effet d’une clé méthodologique sans égal, d’un « secret » d’un grand levier spirituel.
 
@@ -76,7 +76,7 @@ _Eagle River, Wisconsin_
         </td>
         <td>
         <a href="/fr/article/Marvin_Gawryn/The_inner_conversation_unbroken_communion_with_God">
-          <span class="pr-2">La conversation intérieure : une communion ininterrompue avec Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">La conversation intérieure : une communion ininterrompue avec Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

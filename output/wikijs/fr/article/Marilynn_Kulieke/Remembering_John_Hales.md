@@ -52,18 +52,18 @@ Je pense que l'une des qualités les plus remarquables de John était son plaisi
 
 John était un homme aux multiples talents. Sa cuisine était légendaire. Son ragoût de gruau au fromage était toujours très apprécié lors des événements de la First Society. Et je crois savoir qu'il manquait beaucoup aux événements de l'église s'il n'était pas là pour partager l'un de ses plats préférés. J'utilise toujours sa recette de purée de pommes de terre et de sauce à préparer à l'avance pour Thanksgiving. Je suis sûre qu'un livre de cuisine est en préparation avec certaines des recettes les plus précieuses de John.
 
-Il y a presque cinquante ans, Emma "Christy" Christensen, l'une des commissaires à la personne étant le contact humain, a prononcé un discours à l'Assemblée triennale des délégués de la Fraternité d'Urantia sur la vision de Dieu et l'appel au service. Chaque fois que je lis ses mots, je pense à Jean et aux autres, humains et divins, qui ont engagé leur vie au service de la Révélation d'Urantia. Elle écrivit :
+Il y a presque cinquante ans, Emma "Christy" Christensen, l'une des commissaires à la personne étant le contact humain, a prononcé un discours à l'Assemblée triennale des délégués de la Fraternité d'Urantia sur la vision de Dieu et l'appel au service. Chaque fois que je lis ses mots, je pense à Jean et aux autres, humains et divins, qui ont engagé leur vie au service de la Révélation d'Urantia. Elle écrivit :
 <br style="clear:both;"/>
 
-> « Nous avons été appelés à la grande tâche d’effectuer le premier pas pour offrir à l'homme mortel une nouvelle lumière, une nouvelle révélation de l'amour de Dieu. Suivre le mode de vie de Jésus demande un acte d'engagement complet, une intention dévouée, un dessein résolu et un vibrant appel à une vie qui ne fera pas de compromis.
+> « Nous avons été appelés à la grande tâche d’effectuer le premier pas pour offrir à l'homme mortel une nouvelle lumière, une nouvelle révélation de l'amour de Dieu. Suivre le mode de vie de Jésus demande un acte d'engagement complet, une intention dévouée, un dessein résolu et un vibrant appel à une vie qui ne fera pas de compromis.
 > 
-> » Dieu a fourni la vision et l'appel. La réponse doit être la nôtre.
+> » Dieu a fourni la vision et l'appel. La réponse doit être la nôtre.
 > 
-> » Nous devons cultiver le pouvoir d'envisager notre rôle dans l'amélioration du monde.
+> » Nous devons cultiver le pouvoir d'envisager notre rôle dans l'amélioration du monde.
 > 
-> » Nous devons croire que Dieu peut nous parler, qu'il peut nous utiliser, nous et nos talents, et qu'il nous appelle à notre place de service.
+> » Nous devons croire que Dieu peut nous parler, qu'il peut nous utiliser, nous et nos talents, et qu'il nous appelle à notre place de service.
 > 
-> » Et nous devons être prêts à être utilisés pour la réalisation de sa vision. »
+> » Et nous devons être prêts à être utilisés pour la réalisation de sa vision. »
 
 Mon cher ami John, tu as été appelé, tu es venu, tu as fait ta part pour améliorer le monde, tu as utilisé tes talents, et oui, tu étais prêt à accomplir la vision de Dieu.
 

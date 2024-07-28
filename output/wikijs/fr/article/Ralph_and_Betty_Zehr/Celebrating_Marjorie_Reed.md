@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Ralph et Betty Zehr, New York, États-Unis_
 
-_Note de l’éditeur : Marjorie Reed, une lectrice de longue date du_ Livre d’Urantia, _et amie de la Fondation Urantia, est passée aux mondes morontiels. De la part du conseil d’administration élargi : elle manquera à tous, nous chérissons les moments passés en sa compagnie, et sommes tellement reconnaissants de son service et de ses contributions à la Fondation Urantia._
+_Note de l’éditeur : Marjorie Reed, une lectrice de longue date du_ Livre d’Urantia, _et amie de la Fondation Urantia, est passée aux mondes morontiels. De la part du conseil d’administration élargi : elle manquera à tous, nous chérissons les moments passés en sa compagnie, et sommes tellement reconnaissants de son service et de ses contributions à la Fondation Urantia._
 
 Marjorie Reed toucha de nombreuses vies par son long et profond engagement à la communauté Urantia. Elle fut vraiment une femme remarquable. Et pour ceux qui eurent l’honneur de la connaître, elle était une très chère amie, un modèle, un mentor et une compagne de travail délicieuse sur les projets et les comités du Livre d’Urantia. Elle était dédiée à propager les enseignements du _Livre d’Urantia_ et à trouver les fonds nécessaires pour le semer à travers le monde.
 

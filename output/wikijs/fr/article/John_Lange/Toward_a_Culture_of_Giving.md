@@ -53,7 +53,7 @@ Il existe de nombreuses options sur notre page de dons https://urantiabook.org/d
 
 https://urantiabook.plannedgiving.org/
 
-Pour encourager un engagement et une fidélisation accrus de nos membres contributeurs, nous proposons un plan de collecte de fonds centré sur les donateurs. Cela sera encouragé par un cycle de participation, qui comprend :
+Pour encourager un engagement et une fidélisation accrus de nos membres contributeurs, nous proposons un plan de collecte de fonds centré sur les donateurs. Cela sera encouragé par un cycle de participation, qui comprend :
 
 - _Enquête_—Nous enquêtons auprès des membres pour les projets souhaités.
 - _Planning_—Nous faisons correspondre l'enquête avec des projets en cours ou nouveaux.
@@ -64,11 +64,11 @@ Pour encourager un engagement et une fidélisation accrus de nos membres contrib
 <img src="/image/article/John_Lange/35.jpg">
 </figure>
 
-Les futurs rapports annuels présenteront : le programme de correspondance des détenus de la Fellowship, avec des livres placés dans des établissements à travers les États-Unis ; le Pipeline de Lumière, avec des livres placés dans la plupart des pays du monde ; et le programme de subventions Second Miler, avec plus de trente subventions déjà approuvées.
+Les futurs rapports annuels présenteront : le programme de correspondance des détenus de la Fellowship, avec des livres placés dans des établissements à travers les États-Unis ; le Pipeline de Lumière, avec des livres placés dans la plupart des pays du monde ; et le programme de subventions Second Miler, avec plus de trente subventions déjà approuvées.
 
 https://urantiabook.org/Second-Miler-Fund
 
-Poursuivre tous ces efforts implique de développer une _culture du don_ :
+Poursuivre tous ces efforts implique de développer une _culture du don_ :
 
 - Rendu _facile_ avec le développement de plans de dons.
 - Rendu _personnel_ par la valeur de l'appréciation des donateurs.
@@ -84,7 +84,7 @@ Durant son séjour sur Urantia, Michael a discuté de trente-cinq paraboles et u
 
 Si vous êtes intéressé à explorer ces concepts de dons, veuillez contacter john.lange@urantiabook.org ou larry.geis@urantiabook.org ou tout membre du comité des finances que vous connaissez bien.
 
-Comité des finances : John Lange, président; Larry Geis, secrétaire; Dale Sztejnberg ; Barry Clark ; Karen Allen ; et Richard Daunt.
+Comité des finances : John Lange, président; Larry Geis, secrétaire; Dale Sztejnberg ; Barry Clark ; Karen Allen ; et Richard Daunt.
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/John_Lange/37.jpg">

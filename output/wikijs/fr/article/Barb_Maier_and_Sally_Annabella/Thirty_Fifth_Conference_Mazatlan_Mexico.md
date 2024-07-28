@@ -25,7 +25,7 @@ dateCreated: 2023-6-21T8:13:38Z
         </td>
         <td>
         <a href="/fr/article/Aprilhelen/Spirit_Led_Teamwork">
-          <span class="pr-2">Travail d'équipe dirigé par l’Esprit : la perle des univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Travail d'équipe dirigé par l’Esprit : la perle des univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -69,7 +69,7 @@ Le Sous-comité Amérique latine (LASC) de l’IFC (sous la grande direction de 
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/040.jpg">
 </figure>
 
-La conférence comprenait des présentations de dirigeants mexicains sur des sujets tels que la foi, la santé et la science ; un merveilleux atelier de thérapie par le rire (qui, espérons-le, sera présenté lors de la [Conférence internationale 2023](https://urantiabook.org/ic23) [IC231] de la Fellowship) ; et l’art de Patrick Yesh, alors qu’il enseignait le lien entre la personnalité, l’âme et l’Ajusteur de Pensée. De nombreuses présentations ont été traduites et accessibles via Zoom en Amérique latine. Les soirées étaient des événements sociaux, notamment la symphonie de Mazatlán au théâtre local, un dîner de banquet, une visite de l’aquarium local, une excursion en bateau autour d'une île et un moment de calme au bord de la piscine. Un ouragan était attendu, mais nous dansions et apprenions la [salsa](https://en.wikipedia.org/wiki/Salsa_(dance)) et nous n'avons remarqué ni pluie ni vent. 
+La conférence comprenait des présentations de dirigeants mexicains sur des sujets tels que la foi, la santé et la science ; un merveilleux atelier de thérapie par le rire (qui, espérons-le, sera présenté lors de la [Conférence internationale 2023](https://urantiabook.org/ic23) [IC231] de la Fellowship) ; et l’art de Patrick Yesh, alors qu’il enseignait le lien entre la personnalité, l’âme et l’Ajusteur de Pensée. De nombreuses présentations ont été traduites et accessibles via Zoom en Amérique latine. Les soirées étaient des événements sociaux, notamment la symphonie de Mazatlán au théâtre local, un dîner de banquet, une visite de l’aquarium local, une excursion en bateau autour d'une île et un moment de calme au bord de la piscine. Un ouragan était attendu, mais nous dansions et apprenions la [salsa](https://en.wikipedia.org/wiki/Salsa_(dance)) et nous n'avons remarqué ni pluie ni vent. 
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/005.jpg">
@@ -111,7 +111,7 @@ Vaya con Dios (Aller avec Dieu).
         </td>
         <td>
         <a href="/fr/article/Aprilhelen/Spirit_Led_Teamwork">
-          <span class="pr-2">Travail d'équipe dirigé par l’Esprit : la perle des univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Travail d'équipe dirigé par l’Esprit : la perle des univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

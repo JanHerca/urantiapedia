@@ -51,7 +51,7 @@ En tant qu’organisation dédiée à la socialisation des enseignements du Livr
 
 La Communauté apprend activement davantage sur les différences dans la façon dont les gens s'engagent avec le Livre d'Urantia et (peut-être) avec la communauté des lecteurs du Livre d'Urantia. Nous appliquons une approche de segmentation pour identifier et comprendre différents publics, à la fois présents et potentiels. Les bandes colorées de ce tableau nous ont aidés à commencer à identifier qui pourraient être ces publics, puis à formuler des hypothèses sur leurs besoins, leurs questions et si et comment ils pourraient vouloir s'engager dans la Communauté. 
 
-## Une nouvelle faim : préparer la croissance organique des jeunes adultes
+## Une nouvelle faim : préparer la croissance organique des jeunes adultes
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/046.jpg">
@@ -64,7 +64,7 @@ Les besoins spirituels des jeunes adultes d’aujourd’hui semblent devenir de 
 
 ## Il est temps de faire une mise au point
 
-Alors que nous nous préparons à aller de l’avant, nous utilisons les précieuses informations issues des entretiens approfondis pour proposer des recommandations visant à affiner le fonctionnement de la Fellowship. D’une manière générale, ces recommandations se répartissent en trois catégories :
+Alors que nous nous préparons à aller de l’avant, nous utilisons les précieuses informations issues des entretiens approfondis pour proposer des recommandations visant à affiner le fonctionnement de la Fellowship. D’une manière générale, ces recommandations se répartissent en trois catégories :
 
 1. Concentrez-vous sur notre objectif principal
 
@@ -74,7 +74,7 @@ Alors que nous nous préparons à aller de l’avant, nous utilisons les précie
 
 2. Amplifier l’utilisation de la technologie
 
-	- **Cibler la présence en ligne** - Les jeunes adultes d'aujourd'hui sont des « natifs du numérique » ; ils vivent sur et dans leurs smartphones et nous devons pouvoir interagir avec eux dans leur monde. L'équipe technologique de la Fellowship travaille à l’optimisation des moteurs de recherche afin que nos ressources apparaissent en ligne là où les gens effectuent leurs recherches, ainsi qu’à la création de contenu pour les nouveaux lecteurs. Nous recommanderons des projets spécifiques pour accroître nos connexions numériques et ouvrir de nouvelles portes de partage, de questions et de dialogue.
+	- **Cibler la présence en ligne** - Les jeunes adultes d'aujourd'hui sont des « natifs du numérique » ; ils vivent sur et dans leurs smartphones et nous devons pouvoir interagir avec eux dans leur monde. L'équipe technologique de la Fellowship travaille à l’optimisation des moteurs de recherche afin que nos ressources apparaissent en ligne là où les gens effectuent leurs recherches, ainsi qu’à la création de contenu pour les nouveaux lecteurs. Nous recommanderons des projets spécifiques pour accroître nos connexions numériques et ouvrir de nouvelles portes de partage, de questions et de dialogue.
 	Il y a tellement d'opportunités ici, et nous sommes reconnaissants d'avoir Jena Lassiter et Albert Einstein Lassiter dans notre comité, qui apportent tous deux tant de connaissances sur la technologie. Avec Richard Daunt, Barry Clark, Gary Tonge et d'innombrables autres personnes qui créent une présence numérique plus sophistiquée pour la Fellowship, nous faisons des progrès.
 	- **Devenez une organisation plus réactive** - À mesure que la technologie évolue et que de nouveaux moyens de connexion deviennent possibles, la Fellowship sera en mesure de s'adapter et de réagir plus rapidement.
 
@@ -85,7 +85,7 @@ Alors que nous nous préparons à aller de l’avant, nous utilisons les précie
 	La présence de Dan Amyx dans notre comité a été particulièrement précieuse : son long mandat au sein du Fellowship et ses archives mentales de « j'ai été là, j'ai fait ça » nous ont aidés à avancer sans réinventer la roue.
 	 - **Maximiser notre utilisation de l’Enquête auprès des jeunes adultes** - Pour guider le développement de stratégies, de ressources, d'approches et de messages afin de nous connecter et de partager avec la prochaine vague de lecteurs, nous déploierons les enseignements d'une nouvelle étude de recherche ( voir ci-dessous) actuellement mené par la Fellowship.
 
-## Enquête auprès des jeunes adultes
+## Enquête auprès des jeunes adultes
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/047.jpg">
@@ -96,17 +96,17 @@ Nous travaillons à maximiser la manière dont la Fraternité favorise l’engag
 
 Le Dr David Schlundt, vice-président de la Fellowship et gourou de la recherche résident de notre comité, a joué un rôle clé en menant une vaste enquête auprès de jeunes adultes sur leurs attitudes et leurs croyances concernant la spiritualité, la religion, le culte, Dieu, la foi et les valeurs dans le monde. 21e siècle.
 
-Les données de l’enquête ont été recueillies fin juin 2020 via Amazon Mechanical Turk (MTurk), une plateforme qui nous a permis de recueillir économiquement les réponses de 3 023 jeunes adultes qui pouvaient participer à l’enquête et recevoir une petite incitation financière. Le profil des répondants avait tendance à suivre le profil du panel Amazon MTurk, qui s'oriente vers des adultes plus jeunes et plus instruits ayant un emploi à temps plein.
+Les données de l’enquête ont été recueillies fin juin 2020 via Amazon Mechanical Turk (MTurk), une plateforme qui nous a permis de recueillir économiquement les réponses de 3 023 jeunes adultes qui pouvaient participer à l’enquête et recevoir une petite incitation financière. Le profil des répondants avait tendance à suivre le profil du panel Amazon MTurk, qui s'oriente vers des adultes plus jeunes et plus instruits ayant un emploi à temps plein.
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/047_1.jpg">
-<figcaption><em>Âge des participants : 9 % des participants ont laissé ce champ vide ; 73 % sont des Millennials ou de la génération Z (moins de 40 ans) ; 44 % ont entre 25 et 35 ans ; 13 % avaient 50 ans ou plus ; Très réussi à obtenir un échantillon dans lequel les jeunes sont bien représentés</em></figcaption>
+<figcaption><em>Âge des participants : 9 % des participants ont laissé ce champ vide ; 73 % sont des Millennials ou de la génération Z (moins de 40 ans) ; 44 % ont entre 25 et 35 ans ; 13 % avaient 50 ans ou plus ; Très réussi à obtenir un échantillon dans lequel les jeunes sont bien représentés</em></figcaption>
 </figure>
 
-Notre échantillon de 3 023 jeunes adultes présente également ces caractéristiques supplémentaires :
+Notre échantillon de 3 023 jeunes adultes présente également ces caractéristiques supplémentaires :
 - Répartition Homme/Femme environ 60/40
-- 81 % de diplômés collégiaux (54 % de baccalauréat, 27 % de post-gradués et plus)
-- Mélange d'ethnies (60 % de race blanche, 16 % de noirs, 16 % d'asiatiques, 4 % d'hispaniques, 4 % autres)
+- 81 % de diplômés collégiaux (54 % de baccalauréat, 27 % de post-gradués et plus)
+- Mélange d'ethnies (60 % de race blanche, 16 % de noirs, 16 % d'asiatiques, 4 % d'hispaniques, 4 % autres)
 - Deux tiers des répondants viennent des États-Unis (67 %), le tiers restant provenant de 53 autres pays.
 - 88% salariés (67% travaillent pour quelqu’un d'autre, 21% sont indépendants)
 

@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Paula Thompson, Colorado, États-Unis_
 
-_Note de l’éditeur : Paula Thompson a pris récemment sa retraite en tant que directrice exécutive de la Fellowship du_ Livre d’Urantia_. Elle servit 13 ans en tant que directrice exécutive de la Fondation Jesusonian. Elle était aussi un membre fondateur de Truthbook.com, où elle fut responsable de presque tout son contenu, des Citations du Jour aux études thématiques. Paula passa sa carrière dévouée au service et à la propagation de la cinquième révélation d’époque. Bien qu’elle mérite sa retraite, nous sommes certains que Paula continuera de toucher les vies de chaque personne qu’elle rencontrera, en passant._
+_Note de l’éditeur : Paula Thompson a pris récemment sa retraite en tant que directrice exécutive de la Fellowship du_ Livre d’Urantia_. Elle servit 13 ans en tant que directrice exécutive de la Fondation Jesusonian. Elle était aussi un membre fondateur de Truthbook.com, où elle fut responsable de presque tout son contenu, des Citations du Jour aux études thématiques. Paula passa sa carrière dévouée au service et à la propagation de la cinquième révélation d’époque. Bien qu’elle mérite sa retraite, nous sommes certains que Paula continuera de toucher les vies de chaque personne qu’elle rencontrera, en passant._
 
 L’idée de lever des fonds pour procurer des livres aux pays appauvris vint dès le début de la Conférence Internationale de la Fellowship en 1990 à Snowmass, Colorado.
 

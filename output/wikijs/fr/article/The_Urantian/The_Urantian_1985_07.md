@@ -51,7 +51,7 @@ _Wilmette, Illinois_
 
 ## De la part des éditeurs
 
-Alors que ce numéro termine son processus de production final, nous commençons à recevoir les premières réponses aux questions que nous avons posées dans les deux derniers numéros. Nous commencerons à inclure quelques réponses dans notre prochain numéro, mais juste pour vous faire réfléchir, voici une autre question basée sur cette citation du Fascicule 3 du _Le Livre d'URANTIA_ :
+Alors que ce numéro termine son processus de production final, nous commençons à recevoir les premières réponses aux questions que nous avons posées dans les deux derniers numéros. Nous commencerons à inclure quelques réponses dans notre prochain numéro, mais juste pour vous faire réfléchir, voici une autre question basée sur cette citation du Fascicule 3 du _Le Livre d'URANTIA_ :
 
 > « _C’est une grande bévue que d’humaniser Dieu, sauf dans le concept des Ajusteurs de Pensée intérieurs, mais même cela n’est pas aussi stupide que de *mécaniser* complètement l’idée de la Grande Source-Centre Première._ » (<a id="a55_226"></a>[LU 3:6.5](/fr/The_Urantia_Book/3#p6_5))
 

@@ -1,5 +1,5 @@
 ---
-title: "Personnalité et volonté : accroître la maîtrise des mondes intérieur et extérieur"
+title: "Personnalité et volonté : accroître la maîtrise des mondes intérieur et extérieur"
 description:
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -39,13 +39,13 @@ Oklahoma City, Oklahoma, 19 mai 1991
 
 À un niveau de réalité inimaginable, Dieu est seul dans l’univers. Il n'y en a pas d'autre à côté de lui. Mais le potentiel de manifestation de formes différentielles de son existence est inhérent à Dieu. Par le simple choix de sa volonté libre et absolument libre, Dieu donne vie à une infinité d’expressions unifiées, mais diverses, de son être : potentielles et actuelles, personnelles et non personnelles, finies et infinies, matérielles, mentales et spirituelles. Il ne s’agit pas d’un phénomène linéaire. Ce processus fait partie intégrante de Dieu et l’est tout simplement… toujours.
 
-Une conséquence de ce processus éternel d'existence de Dieu est la qualification d'un segment de l'infini de Dieu en une expression délimitée par le temps et l'espace, limitée à l'expérience de ses réalités matérielles, mentales et spirituelles, et unifiée par la personnalité... une expression quadridimensionnelle de Dieu dans le fini, c’est-à-dire « dans le fini ». Appelé par certains « Suprême », tout se déroule dans un espace appelé le Grand Univers.
+Une conséquence de ce processus éternel d'existence de Dieu est la qualification d'un segment de l'infini de Dieu en une expression délimitée par le temps et l'espace, limitée à l'expérience de ses réalités matérielles, mentales et spirituelles, et unifiée par la personnalité... une expression quadridimensionnelle de Dieu dans le fini, c’est-à-dire « dans le fini ». Appelé par certains « Suprême », tout se déroule dans un espace appelé le Grand Univers.
 
 Quel est cet endroit appelé le Grand Univers ? Quel est son but? Qui sait qu'ils vivent ici ? En qui réside sa valeur ? Quelles pensées sont pensées ici ? Qu’est-ce qui compte ici ? Telles sont quelques-unes des questions des quatre dimensions.
 
 Dieu regarde à une distance infinie dans un miroir du Grand Univers encadré par le temps et l'espace. Il y voit un reflet de lui-même, un reflet qui n'est ni infini ni absolu, mais qui reflète néanmoins l'essence de son existence. En se rapprochant du miroir, il y connaît la plénitude des aspects de son être qui peuvent être exprimés dans un tel miroir. Plus près encore, il choisit d'expérimenter les aspects de son être qui ont été sélectionnés pour interagir pendant un temps dans un tel espace. Plus près encore du miroir, Dieu se voit comme plusieurs fils, personnes... un reflet de lui-même à travers chacun desquels il s'exprime de manière unique et de la perspective unique de laquelle il est connu comme Dieu. A la fin des temps et tout au long de cet espace, chaque fils reconnaît son Père et encore une fois, comme toujours, Dieu est seul... et pourtant... accompagné d'une infinité de fils qui font partie de sa présence personnelle et qui partager sa volonté, celle-là même qui donne la vie à ces fils.
 
-_Dieu est personnalité_. (<a id="a47_26"></a>[LU 1:5.7](/fr/The_Urantia_Book/1#p5_7)) « La personnalité est le don exclusif de [PAS DU] Père universel. » (<a id="a47_136"></a>[LU 6:5.3](/fr/The_Urantia_Book/6#p5_3)) Se pourrait-il que même si chacun de nous n'est pas Dieu, Dieu soit – LITTÉRAILEMENT – chacun de nous ? JE SUIS DAVE ; JE SUIS STEVE; JE SUIS BERKELEY ; JE SUIS MÉLISSA ; JE SUIS MARTA.
+_Dieu est personnalité_. (<a id="a47_26"></a>[LU 1:5.7](/fr/The_Urantia_Book/1#p5_7)) « La personnalité est le don exclusif de [PAS DU] Père universel. » (<a id="a47_136"></a>[LU 6:5.3](/fr/The_Urantia_Book/6#p5_3)) Se pourrait-il que même si chacun de nous n'est pas Dieu, Dieu soit – LITTÉRAILEMENT – chacun de nous ? JE SUIS DAVE ; JE SUIS STEVE; JE SUIS BERKELEY ; JE SUIS MÉLISSA ; JE SUIS MARTA.
 
 « C’est plus que figurativement que l’homme mortel est créé à l’image de Dieu. Du point de vue physique, cette affirmation n’est guère vraie, mais, en se référant à certains potentiels universels, elle est un fait réel. Dans la race humaine, se déroule un drame d’accomplissement évolutionnaire quelque peu homologue à celui qui a lieu, sur une échelle infiniment plus vaste, dans l’univers des univers. L’homme, personnalité volitive, devient créatif en liaison avec un Ajusteur, entité impersonnelle, en présence des potentialités finies du Suprême, et il en résulte l’épanouissement d’une âme immortelle. Dans les univers, les personnalités Créatrices du temps et de l’espace fonctionnent en liaison avec l’esprit impersonnel de la Trinité du Paradis, et deviennent ainsi créatrices d’un nouveau potentiel de pouvoir de réalité de Déité. » (<a id="a49_844"></a>[LU 117:3.5](/fr/The_Urantia_Book/117#p3_5)) Le choix délibéré que nous faisons de faire la volonté de Dieu est-il une partie littérale de cette même volonté qui a séparé le fini évolutif de l'infini de Dieu et provoquera l'actualisation finale de ses potentiels ?
 
@@ -65,7 +65,7 @@ Et la diversité existentielle unifiée de l’existence éternelle de Dieu est,
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Urantian/Turnings_and_Tunings.jpg">
-<figcaption><em>Artiste : Carolyn Kendall</em></figcaption>
+<figcaption><em>Artiste : Carolyn Kendall</em></figcaption>
 </figure>
 
 <figure class="table chapter-navigator">

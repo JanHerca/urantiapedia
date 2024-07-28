@@ -43,7 +43,7 @@ _Par Judy Van Cleave, secrétaire de la Fondation Urantia, Idaho, États-Unis_
 
 ## Récapitulatif des opérations
 
-Points importants des opérations du premier trimestre : 1) terminer et publier le Livre Électronique Anglais Amélioré ; 2) travailler sur le plan de la révision espagnole qui sera lancée électroniquement cet été ; 3) augmenter la présence de la Fondation sur Facebook, Instagram et Twitter ; 4) coordonner la finalisation des révisions des textes russe et espagnol pour la publication ; 5) codifier et tester l’Application Androïde avec le nouveau développeur ; 6) préparer le [Rapport Annuel 2020](https://www.urantia.org/fr/news/2021-05/rapport-annuel-2020).
+Points importants des opérations du premier trimestre : 1) terminer et publier le Livre Électronique Anglais Amélioré ; 2) travailler sur le plan de la révision espagnole qui sera lancée électroniquement cet été ; 3) augmenter la présence de la Fondation sur Facebook, Instagram et Twitter ; 4) coordonner la finalisation des révisions des textes russe et espagnol pour la publication ; 5) codifier et tester l’Application Androïde avec le nouveau développeur ; 6) préparer le [Rapport Annuel 2020](https://www.urantia.org/fr/news/2021-05/rapport-annuel-2020).
 
 ## Livres
 
@@ -53,7 +53,7 @@ Points importants des opérations du premier trimestre : 1) terminer et publier
 
 Les ventes du _Livre d’Urantia_, au premier trimestre, furent fortes en anglais, espagnol, portugais et français. En ajoutant les livres physiques, électroniques et les téléchargements, 29 966 Livres d’Urantia furent disséminés. Actuellement, nous planifions les impressions ultérieures des livres en anglais, espagnol, portugais, français et russe.
 
-Voici comment la directrice exécutive décrit son travail de dissémination de la révélation : « La mission de semer _Le Livre d’Urantia_ et ses enseignements nous maintient concentrés sur la maximisation de la distribution du livre. Avec une distribution judicieuse et viable, le livre sera disponible pour tous ceux qui le cherchent. Dans le cadre de ma méditation journalière, je m’imagine toutes les personnes qui ont trouvé le livre ce trimestre et je prie pour que les enseignements aient le même effet sur eux qu’ils ont eu sur moi. »
+Voici comment la directrice exécutive décrit son travail de dissémination de la révélation : « La mission de semer _Le Livre d’Urantia_ et ses enseignements nous maintient concentrés sur la maximisation de la distribution du livre. Avec une distribution judicieuse et viable, le livre sera disponible pour tous ceux qui le cherchent. Dans le cadre de ma méditation journalière, je m’imagine toutes les personnes qui ont trouvé le livre ce trimestre et je prie pour que les enseignements aient le même effet sur eux qu’ils ont eu sur moi. »
 <br style="clear:both;"/>
 
 ## Dons planifiés
@@ -64,15 +64,15 @@ Vos dons non imposables donne un filet de sécurité au travail de la Fondation.
 
 ## Urantia.org
 
-Le taux d’utilisation du site web a augmenté considérablement ce premier trimestre. Voici quelques statistiques de janvier à mars 2021 vs 2020 : utilisateurs jusqu’à 83%, nouveaux utilisateurs jusqu’à 80%, sessions jusqu’à 51%, nouvelles pages vues 26%. Les nouveaux visiteurs représentaient 80% du trafic total, les utilisateurs de mobiles représentaient 181% et 72% du trafic total et les utilisatrices représentaient 53% du trafic total.
+Le taux d’utilisation du site web a augmenté considérablement ce premier trimestre. Voici quelques statistiques de janvier à mars 2021 vs 2020 : utilisateurs jusqu’à 83%, nouveaux utilisateurs jusqu’à 80%, sessions jusqu’à 51%, nouvelles pages vues 26%. Les nouveaux visiteurs représentaient 80% du trafic total, les utilisateurs de mobiles représentaient 181% et 72% du trafic total et les utilisatrices représentaient 53% du trafic total.
 
-Les cinq premiers pays par session étaient : les États-Unis, l’Inde, le Brésil, les Philippines et le Mexique. Les langues les plus lues étaient l’anglais, l’espagnol et le portugais. Ce trimestre a vu une variation importante où les personnes visitant le site venaient de : l’Inde 597%, du Brésil 85%, des Philippines 2453%, du Niger 1569% et du Népal 33 320%.
+Les cinq premiers pays par session étaient : les États-Unis, l’Inde, le Brésil, les Philippines et le Mexique. Les langues les plus lues étaient l’anglais, l’espagnol et le portugais. Ce trimestre a vu une variation importante où les personnes visitant le site venaient de : l’Inde 597%, du Brésil 85%, des Philippines 2453%, du Niger 1569% et du Népal 33 320%.
 
 Durant le reste de l’année, nous continuerons à ajouter de nouveaux contenus, à apporter des améliorations supplémentaires et à publier de nouvelles traductions et révisions. Mais notre focalisation principale se portera sur le projet de la re-conception du site web.
 
 ## Le Conseil Consultatif Culturel
 
-La Fondation Urantia se prépare à la création du Conseil Consultatif Culturel pour : 1) faciliter la mission de semer _Le Livre d’Urantia_ et ses enseignements mondialement ; 2) améliorer la conscience culturelle, la compassion et la sagesse dans les efforts de dissémination de la Fondation ; 3) offrir aux membres du conseil de se familiariser avec la Fondation — sa mission, sa vision et ses valeurs ; 4) favoriser le partenariat entre les membres du conseil et la Fondation pour le soutien des lecteurs dans leurs cultures ; 5) faciliter les relations et la compréhension mutuelle parmi les membres du conseil. À cette fin, le conseil d’administration a revu et discuté des documents préparés pour le conseil qui définissent ses objectifs, son rôle, ses responsabilités et ses procédures. Il y en aura plus sur le Conseil Consultatif Culturel dans les prochaines lettres du Président.
+La Fondation Urantia se prépare à la création du Conseil Consultatif Culturel pour : 1) faciliter la mission de semer _Le Livre d’Urantia_ et ses enseignements mondialement ; 2) améliorer la conscience culturelle, la compassion et la sagesse dans les efforts de dissémination de la Fondation ; 3) offrir aux membres du conseil de se familiariser avec la Fondation — sa mission, sa vision et ses valeurs ; 4) favoriser le partenariat entre les membres du conseil et la Fondation pour le soutien des lecteurs dans leurs cultures ; 5) faciliter les relations et la compréhension mutuelle parmi les membres du conseil. À cette fin, le conseil d’administration a revu et discuté des documents préparés pour le conseil qui définissent ses objectifs, son rôle, ses responsabilités et ses procédures. Il y en aura plus sur le Conseil Consultatif Culturel dans les prochaines lettres du Président.
 
 ## Éducation
 

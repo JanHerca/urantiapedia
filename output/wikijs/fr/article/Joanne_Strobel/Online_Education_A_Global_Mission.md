@@ -40,11 +40,11 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Joanne Strobel, directrice exécutive de l’Ecole Internet du Livre d’Urantia, Géorgie, États-Unis_
 
-L’École Internet du Livre d’Urantia (UBIS) entre dans sa troisième décennie. Ce programme de la Fondation est maintenant assuré de croître de quatre langues à dix dans les prochains neuf ans. C’est un hommage rendu au Trustee visionnaire Georges Michelson-Dupont qui nous a permit d’identifier et de piloter la prédominance de la « Toile mondiale ». Bien qu’omniprésent dans la plupart des endroits des États-Unis, un accès fiable à internet n’est pas encore une ressource mondiale. Heureusement, l’usage des portables a permis aux lecteurs des pays en voie de développement, d’y participer ainsi qu’à d’autres programmes éducatifs basés sur le Livre d’Urantia, et de participer à des dizaines de groupes d’étude virtuels.
+L’École Internet du Livre d’Urantia (UBIS) entre dans sa troisième décennie. Ce programme de la Fondation est maintenant assuré de croître de quatre langues à dix dans les prochains neuf ans. C’est un hommage rendu au Trustee visionnaire Georges Michelson-Dupont qui nous a permit d’identifier et de piloter la prédominance de la « Toile mondiale ». Bien qu’omniprésent dans la plupart des endroits des États-Unis, un accès fiable à internet n’est pas encore une ressource mondiale. Heureusement, l’usage des portables a permis aux lecteurs des pays en voie de développement, d’y participer ainsi qu’à d’autres programmes éducatifs basés sur le Livre d’Urantia, et de participer à des dizaines de groupes d’étude virtuels.
 
 UBIS fournit l’atmosphère interactive et confortable d’un groupe d’étude, avec un format de six à dix semaines. La plateforme asynchrone permet aux lecteurs de n’importe quel fuseau horaire d’y participer, à leur convenance. À l’encontre des autres écoles, UBIS utilise une approche de pair à pair. Les cours sont développés et présentés par les lecteurs comme vous et moi. Nos éducateurs/animateurs (TFs) ont tous lu le livre du début à la fin, de nombreuses fois, ont pris au moins trois cours, ont démontré qu’ils étaient des communicateurs efficaces et ont été formés en animation et en développement de questions. Cette structure fut construite sur les fondations de principes, dérivés de l’étude de la cinquième révélation d’époque et peut être décrite comme une approche non interprétative d’auto découverte des vérités révélées dans le _Livre d’Urantia._
 
-Qu’est-ce que cela veut dire exactement ? Cela veut dire que les TFs ne sont pas des instructeurs dans le sens traditionnel du terme. Bien que des questions incisives soient posées pour stimuler les étudiants et engendrer des réponses, il y a pas de réponses correctes au-delà des informations factuelles. Chaque étudiant apporte un point de vue unique à chaque discussion et chaque opinion individuelle de la vérité spirituelle révélée peut être très différente à chacun. Cette philosophie d’enseignement donne à chaque personne un environnement sûr dans lequel elle peut explorer et réfléchir aux significations et aux valeurs découvertes, dans les lectures assignées. Les étudiants font l’expérience d’un sentiment de communauté spirituelle, lors des exercices du partage de groupe et des relations durables sont souvent forgées.
+Qu’est-ce que cela veut dire exactement ? Cela veut dire que les TFs ne sont pas des instructeurs dans le sens traditionnel du terme. Bien que des questions incisives soient posées pour stimuler les étudiants et engendrer des réponses, il y a pas de réponses correctes au-delà des informations factuelles. Chaque étudiant apporte un point de vue unique à chaque discussion et chaque opinion individuelle de la vérité spirituelle révélée peut être très différente à chacun. Cette philosophie d’enseignement donne à chaque personne un environnement sûr dans lequel elle peut explorer et réfléchir aux significations et aux valeurs découvertes, dans les lectures assignées. Les étudiants font l’expérience d’un sentiment de communauté spirituelle, lors des exercices du partage de groupe et des relations durables sont souvent forgées.
 
 L’objectif de chaque cursus, dans chaque langue, est de promouvoir l’expansion de la conscience cosmique et l’augmentation de la perception spirituelle.
 
@@ -89,7 +89,7 @@ L’année dernière, 20 TFs développèrent et présentèrent 20 cursus suivis 
 6. Claude Barbaux, France
 7. Moustapha N’Diaye, Sénégal
 
-L’équipe soudée des TFs français a grandi et a acquis de l’expérience aussi bien individuellement que collectivement. Ils sont restés en contact par téléphone, sms, et mails et se réunissent même à travers un groupe d’étude hebdomadaire sur Zoom, nous dit Guy Perron, le directeur de la branche française. « Nous nous sentons privilégiés d’étudier ensemble et cela permet de rester humbles et d’éternels étudiants, en évitant le syndrome de « maître du jeu ». Nous préférons être utile comme « guides d’accompagnement » ».
+L’équipe soudée des TFs français a grandi et a acquis de l’expérience aussi bien individuellement que collectivement. Ils sont restés en contact par téléphone, sms, et mails et se réunissent même à travers un groupe d’étude hebdomadaire sur Zoom, nous dit Guy Perron, le directeur de la branche française. « Nous nous sentons privilégiés d’étudier ensemble et cela permet de rester humbles et d’éternels étudiants, en évitant le syndrome de « maître du jeu ». Nous préférons être utile comme « guides d’accompagnement » ».
 
 Puisque Jésus envoyait toujours ses apôtres deux par deux, Guy adopte une approche d’enseignement d’équipe. Chaque trimestre, deux des trois classes sont animées par une femme et un homme. Il essaie aussi d’offrir un mélange de cours à chaque session, avec deux personnes plus expérimentales et une qui soit plus concrète.
 
@@ -108,17 +108,17 @@ Puisque Jésus envoyait toujours ses apôtres deux par deux, Guy adopte une appr
 9. Wanda vélos, République Dominicaine
 10. Carlos García, Puerto Rico
 
-En septembre, Olga López, directrice des branches espagnole et portugaise a atteint l’objectif de quatre cursus proposés en un trimestre. Parce que la plupart des TFs préfèrent avoir un seul cours par an, Olga doit continuellement identifier, recruter et former de nouveaux TFs. Elle en a reçu récemment quatre de plus, qui présenteront leur premiers cours en 2020 : Orfelina Castro des États-Unis, Amanda García de Colombie, Ulises Pedrique des États-Unis et Fanny Yuliana du Pérou.
+En septembre, Olga López, directrice des branches espagnole et portugaise a atteint l’objectif de quatre cursus proposés en un trimestre. Parce que la plupart des TFs préfèrent avoir un seul cours par an, Olga doit continuellement identifier, recruter et former de nouveaux TFs. Elle en a reçu récemment quatre de plus, qui présenteront leur premiers cours en 2020 : Orfelina Castro des États-Unis, Amanda García de Colombie, Ulises Pedrique des États-Unis et Fanny Yuliana du Pérou.
 
 ## La branche portugaise
 
 Olga était heureuse d’offrir des cours en portugais après deux ans de hiatus.Geraldo de Queiroz entra en scène lorsqu’il pris un congé sabbatique à Chicago et il est engagé au travail de la Fondation Urantia, depuis lors. Geraldo parle couramment le portugais, l’anglais et l’allemand et est engagé à répandre les enseignements de _O Livro de Urãntia_ dans son pays natal, le Brésil.
 
-Les lecteurs de langue portugaise sont parmi les plus enthousiastes et son cours « Conhecendo o Jesus humano e o Jesus divino » se remplit rapidement jusqu’à 25 étudiants de trois pays. Geraldo continuera de présenter des cours en portugais durant 2020.
+Les lecteurs de langue portugaise sont parmi les plus enthousiastes et son cours « Conhecendo o Jesus humano e o Jesus divino » se remplit rapidement jusqu’à 25 étudiants de trois pays. Geraldo continuera de présenter des cours en portugais durant 2020.
 
 Nous sommes profondément endettés envers nos TFs- volontaires dévoués, donnant de leur temps et du service à la Révélation Urantia.
 
-Si vous n’avez pas encore suivi un cours de l’un d’eux, nous espérons que vous le ferez bientôt !
+Si vous n’avez pas encore suivi un cours de l’un d’eux, nous espérons que vous le ferez bientôt !
 
 [Cliquez ici pour voir la liste des cours](https://new.ubis.urantia.org/moodle/?lang=fr).
 

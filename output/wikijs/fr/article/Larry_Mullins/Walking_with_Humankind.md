@@ -15,7 +15,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td>
         <a href="/fr/article/Arlene_and_Buck_Weimer/Everything_You_Always_Wanted_to_Know">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tout ce que vous avez toujours voulu savoir sur la paix familiale ! (Ha, Ha)</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tout ce que vous avez toujours voulu savoir sur la paix familiale ! (Ha, Ha)</span>
         </a>
         </td>
         <td>
@@ -38,7 +38,7 @@ On oublie souvent de mentionner que j'ai été enrôlé dans le corps de réserv
 
 Pas des Missiles-Missives !
 
-J'espère de tout cœur que les observateurs célestes ont le sens de l'humour. Tant de gens seront les premiers dans le royaume. Tant de réservistes font exploser leur couverture. J'ai vu aujourd'hui un T-shirt qui disait « Réserviste activé ». Un autre a déclaré : « Approche à vos risques et périls – Je suis proche de la fusion ».
+J'espère de tout cœur que les observateurs célestes ont le sens de l'humour. Tant de gens seront les premiers dans le royaume. Tant de réservistes font exploser leur couverture. J'ai vu aujourd'hui un T-shirt qui disait « Réserviste activé ». Un autre a déclaré : « Approche à vos risques et périls – Je suis proche de la fusion ».
 
 Les enfants adoptent également cette attitude. Une petite fille dessinait dans la crèche et je lui ai demandé quelle était sa photo. Elle a dit : « Je dessine une image de Dieu. » Je lui ai gentiment dit que personne ne savait vraiment à quoi ressemblait Dieu. Elle a répondu : « Maintenant, ils le feront. »
 
@@ -54,7 +54,7 @@ Pourquoi devrions-nous chercher à marcher avec Dieu ?
 
 Parce que nous n’avons pas été conçus pour fonctionner comme des systèmes fermés, nous ne pouvons pas bien fonctionner sans l’aide de Dieu. Les systèmes fermés sont susceptibles de souffrir de dégradations internes. Nous avons vu la preuve de ce principe dans les événements récents.
 
-Lorsque je suis devenu membre du conseil pour la première fois, j’étais impressionné. Mais tout comme Harry Truman disait qu'il était impressionné par le Sénat et se demandait comment il avait pu y arriver, après un certain temps, il se demanda comment tous les autres y étaient arrivés. J'ai suggéré en ces jours naïfs que le conseil permette à un représentant de chaque société et même aux grands groupes d'étude de participer au moins à nos réunions. Cela a alarmé tout le monde. (Ils découvriront ce que nous faisons !)
+Lorsque je suis devenu membre du conseil pour la première fois, j’étais impressionné. Mais tout comme Harry Truman disait qu'il était impressionné par le Sénat et se demandait comment il avait pu y arriver, après un certain temps, il se demanda comment tous les autres y étaient arrivés. J'ai suggéré en ces jours naïfs que le conseil permette à un représentant de chaque société et même aux grands groupes d'étude de participer au moins à nos réunions. Cela a alarmé tout le monde. (Ils découvriront ce que nous faisons !)
 
 J'ai parlé à Washington, D.C. il y a plusieurs années et je me souviens d'une grande discussion sur la question de savoir si 533 devait être appelé les « Soldats des Cercles » ou les « Serviteurs des Cercles ». Peux-tu le croire? J'ai suggéré qu'ils devraient être les Serviteurs des Serviteurs. Mais personne ne l'a compris.
 
@@ -68,7 +68,7 @@ Je crois avoir tiré quelques leçons de ma vie.
 
 Quelqu’un m’a demandé pourquoi j’avais intitulé mon discours « Marcher avec l’humanité ». J'ai ainsi nommé mon discours parce que je n'ai pas encore appris comment le faire. Et je pense que nous devons apprendre à marcher les uns avec les autres avant de prétendre marcher avec le Créateur.
 
-Bien sûr, je ne suis pas connu pour mes titres appropriés. Lorsque j’ai été invité à prendre la parole lors du symposium sur « Découvrir vos potentiels intérieurs » au Tennessee, le titre de mon exposé était : « Celui qui cherche à trouver ses potentiels intérieurs les perdra ». Je ne plaisantais pas. Après des années d’étude des théories de réalisation de soi, je suis convaincu que la véritable croissance a lieu lorsque l’on est occupé à faire autre chose.
+Bien sûr, je ne suis pas connu pour mes titres appropriés. Lorsque j’ai été invité à prendre la parole lors du symposium sur « Découvrir vos potentiels intérieurs » au Tennessee, le titre de mon exposé était : « Celui qui cherche à trouver ses potentiels intérieurs les perdra ». Je ne plaisantais pas. Après des années d’étude des théories de réalisation de soi, je suis convaincu que la véritable croissance a lieu lorsque l’on est occupé à faire autre chose.
 
 La plupart d’entre nous ont besoin de quitter le siège de leur identité. Il y a environ vingt ans, je n'y croyais pas. En fait, il y a plus de vingt ans, un homme nommé Clyde Bedell m'a tendu un grand livre bleu. J'étais destiné à travailler avec Clyde et Barry pendant quelques années. C'est au cours de ce processus que j'ai pris conscience du Livre d'Uruntia."
 
@@ -117,7 +117,7 @@ Mais Kathi croyait en la puissance de Dieu. Lorsque les médecins ont déclaré 
 
 Ces six mois nous ont permis, à Kathi et à moi-même, de faire amende honorable auprès de sa mère et de prendre soin d'elle. Et Kathi croyait que Dieu avait donné à sa mère deux dernières semaines de rationalité totale vers la fin afin qu'elle puisse retrouver sa vraie mère pendant un petit moment. Et Kathi croyait que le dernier jour de la vie de sa mère, lorsque l'infirmière ne trouvait aucun signe vital ni aucun pouls, Dieu avait donné à sa mère la force de revenir un instant, de répondre à l'appel téléphonique de Kathi et de lui dire qu'elle l'aimait. . Et à l’instant où sa mère a raccroché, elle était morte.
 
-Kathi croyait que Dieu pouvait tout faire. Kathi a donc décidé d'aller à l'université. Et elle a décidé d’étudier l’ingénierie. Aujourd'hui, le taux d'abandon des ingénieurs est d'environ 95 %.
+Kathi croyait que Dieu pouvait tout faire. Kathi a donc décidé d'aller à l'université. Et elle a décidé d’étudier l’ingénierie. Aujourd'hui, le taux d'abandon des ingénieurs est d'environ 95 %.
 
 Cela a pris du temps à Kathi, elle a arrêté pendant quelques années pour continuer sur la route avec un programme religieux fondamentaliste en tant que danseuse dans une dramatisation de la doctrine de l'expiation. Puis elle est retournée à l’école et a eu du mal avec le programme d’ingénierie incroyablement difficile. Kathi a calmement écouté Dieu et lui a fait confiance. Elle n'a pas abandonné.
 
@@ -192,7 +192,7 @@ Nous sommes ici à un point de départ. Nous avons l’opportunité de servir l�
 
 Oui, je sais que ce sont des jours merveilleux ici à Snowmass, des jours que nous n'oublierons pas. Revenons en arrière et racontons aux gens ce qui s'est passé ici.
 
-Dans la pièce musicale Camelot, il y a une scène qui était l'une des préférées de John F. Kennedy. La dernière fois que j’en ai parlé, c’était lors de la conférence mondiale sur la paix organisée à Oklahoma City à Lake Murray il y a quelques années. Dans cette pièce, le roi Arthur voit la destruction de son bien-aimé Camelot. Il est obligé de faire la guerre à ceux qu'il aime. Juste avant la bataille, un jeune garçon apparaît et dit à Arthur qu'il veut devenir chevalier, qu'il veut se battre. « Et que sais-tu de la chevalerie ? » « Oh, tout. Je connais les histoires que les gens racontent. « D’après les histoires que les gens racontent, tu veux devenir chevalier ?
+Dans la pièce musicale Camelot, il y a une scène qui était l'une des préférées de John F. Kennedy. La dernière fois que j’en ai parlé, c’était lors de la conférence mondiale sur la paix organisée à Oklahoma City à Lake Murray il y a quelques années. Dans cette pièce, le roi Arthur voit la destruction de son bien-aimé Camelot. Il est obligé de faire la guerre à ceux qu'il aime. Juste avant la bataille, un jeune garçon apparaît et dit à Arthur qu'il veut devenir chevalier, qu'il veut se battre. « Et que sais-tu de la chevalerie ? » « Oh, tout. Je connais les histoires que les gens racontent. « D’après les histoires que les gens racontent, tu veux devenir chevalier ?
 
 Arthur ordonne au garçon : « Tu ne combattras pas dans la bataille. Tu te cacheras derrière les lignes et quand ce sera fini, tu rentreras vivant en Angleterre - pour grandir et vieillir. Et tu feras ce que Moi, le Roi, te commande. » :
 
@@ -207,7 +207,7 @@ Repensez à toutes les histoires dont vous vous souvenez, sur Camelot.
 Et dites-le clairement et clairement s'il ne l'a pas fait,
 
 Il était une fois un brin de gloire éphémère, appelé Camelot.
-"Maintenant, dis-le avec amour et joie :
+"Maintenant, dis-le avec amour et joie :
 
 « Camelot ! Camelot ! »
 
@@ -223,7 +223,7 @@ Qu'une fois qu'il y avait une place,
 
 Pour un bref moment brillant,
 
-C'était connu sous le nom de Camelot ! »
+C'était connu sous le nom de Camelot ! »
 
 Souvenons-nous de ces jours brillants et brillants. Ils préfigurent la lumière et la vie. Ils sont un prélude à ce qui devrait être, à ce qui sera un jour.
 
@@ -241,7 +241,7 @@ Il ne s’agit pas d’un Livre, mais d’une tâche qui n’est pas encore ache
 
 La question n’est pas de savoir à qui appartiennent les Cercles. La question n’est pas de savoir qui nourrira le troupeau, mais plutôt qui le servira. Peut-être que Jésus dirait à cette génération aujourd’hui : « Servez mon troupeau. »
 
-Un dernier conseil, non pas de Goethe ou de Dante, mais d'un livre contemporain intitulé Tout ce que j'avais besoin de savoir, j'ai lamé à la maternelle :
+Un dernier conseil, non pas de Goethe ou de Dante, mais d'un livre contemporain intitulé Tout ce que j'avais besoin de savoir, j'ai lamé à la maternelle :
 
 Lorsque vous sortez dans le monde, faites attention à la circulation, tenez-vous la main et restez ensemble.
 
@@ -249,7 +249,7 @@ Soyez conscient de l’émerveillement.
 
 Maintenant, nous devons quitter Snowmass. Tenons-nous la main et restons ensemble.
 
-A la fin de Camelot, le roi Arthur fait chevalier le petit garçon et un général s'approche de lui. « Qu'est-ce que tu fais Arthur ? Vous avez une bataille à mener ! » Arthur répond : « J'ai gagné ma bataille ! Et voici ma victoire ! Ce que nous avons fait restera dans les mémoires. » Et le petit garçon s'enfuit.
+A la fin de Camelot, le roi Arthur fait chevalier le petit garçon et un général s'approche de lui. « Qu'est-ce que tu fais Arthur ? Vous avez une bataille à mener ! » Arthur répond : « J'ai gagné ma bataille ! Et voici ma victoire ! Ce que nous avons fait restera dans les mémoires. » Et le petit garçon s'enfuit.
 
 Le général demanda à Arthur : « Qui était-ce ? » Et
 Arthur dit : « Un de ce que nous sommes tous. Moins qu’une goutte dans le grand mouvement bleu de la mer ensoleillée. Mais il semblerait que certaines gouttes brillent ! Certains d’entre eux brillent !
@@ -270,7 +270,7 @@ Via con Dios-marcher avec Dieu.
       <tr>
         <td>
         <a href="/fr/article/Arlene_and_Buck_Weimer/Everything_You_Always_Wanted_to_Know">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tout ce que vous avez toujours voulu savoir sur la paix familiale ! (Ha, Ha)</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tout ce que vous avez toujours voulu savoir sur la paix familiale ! (Ha, Ha)</span>
         </a>
         </td>
         <td>

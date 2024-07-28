@@ -62,7 +62,7 @@ Pour moi, produire quelque chose comme ça, permet un certain nombre de points d
 - Si vous placez une balle de golf dans le centre des États-Unis, c’est une autre façon de voir la taille du Grand Univers (les sept superunivers, plus l'univers central) par rapport au niveau de l'espace extérieur le plus éloigné.
 - Deux tasses de sel moins deux cuillères à soupe donnent 3.8 millions de grains de sel. Verser cela sur une table, pour avoir une idée de combien de planètes existe dans notre univers local.
 - 3.840.101 points tapées en simple interligne sur votre traitement de texte, dans une police de 12 points, donneront 592 pages de points. Un de ces points est Urantia.
-- Cet immense sentiment de petitesse rend mes problèmes personnels très, très insignifiants. Combien c’est libérateur !
+- Cet immense sentiment de petitesse rend mes problèmes personnels très, très insignifiants. Combien c’est libérateur !
 
 https://www.youtube.com/watch?v=loEnwEdRT_g
 

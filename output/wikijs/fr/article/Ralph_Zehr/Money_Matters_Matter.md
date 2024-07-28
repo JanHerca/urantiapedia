@@ -66,17 +66,17 @@ Il apprit rapidement à prendre les décisions difficiles nécessaires pour rég
 <figcaption><em>Le jeune homme riche par Harold Copping</em></figcaption>
 </figure>
 
-> Petit à petit, Jésus et sa famille revinrent à une vie simple des premiers temps. Leurs vêtements et même leur nourriture devinrent plus ordinaires. Ils avaient beaucoup de lait, de beurre et de fromage. À chaque saison, ils appréciaient le produit de leur jardin mais chaque mois passant demandait la pratique d’une plus grande frugalité. Leur déjeuner étaient très simples ; leur meilleure nourriture était réservée pour le repas du soir. <a id="a68_443"></a>[LU 126:5.1](/fr/The_Urantia_Book/126#p5_1)
+> Petit à petit, Jésus et sa famille revinrent à une vie simple des premiers temps. Leurs vêtements et même leur nourriture devinrent plus ordinaires. Ils avaient beaucoup de lait, de beurre et de fromage. À chaque saison, ils appréciaient le produit de leur jardin mais chaque mois passant demandait la pratique d’une plus grande frugalité. Leur déjeuner étaient très simples ; leur meilleure nourriture était réservée pour le repas du soir. <a id="a68_443"></a>[LU 126:5.1](/fr/The_Urantia_Book/126#p5_1)
 
 ## Créer une base financière solide pour le ministère public
 
 L’un des soucis, principal de Jésus, dans sa préparation du lancement de son ministère public, était de s’assurer que la base financière de son organisation apostolique était solide.
 
-> Jésus leur demanda alors combien ils avaient d’argent à eux tous. Il s’enquit aussi des dispositions qu’ils avaient prises pour leurs familles. Lorsqu’il fut clair qu’ils avaient à peine assez de fonds pour s’entretenir pendant deux semaines, Jésus dit : « Ce n’est pas la volonté de mon Père que nous commencions à travailler dans ces conditions. Nous allons rester ici quinze jours près de la mer et pêcher ou faire les travaux manuels que nous trouverons. Entre temps, sous la direction d’André, premier apôtre choisi, vous vous organiserez de manière à vous procurer tout ce dont vous aurez besoin dans votre futur ministère, aussi bien dans votre présent travail personnel que dans la période ultérieure, où je vous confèrerai l’ordination pour prêcher l’évangile et instruire les croyants. » <a id="a74_800"></a>[LU 138:7.4](/fr/The_Urantia_Book/138#p7_4)
+> Jésus leur demanda alors combien ils avaient d’argent à eux tous. Il s’enquit aussi des dispositions qu’ils avaient prises pour leurs familles. Lorsqu’il fut clair qu’ils avaient à peine assez de fonds pour s’entretenir pendant deux semaines, Jésus dit : « Ce n’est pas la volonté de mon Père que nous commencions à travailler dans ces conditions. Nous allons rester ici quinze jours près de la mer et pêcher ou faire les travaux manuels que nous trouverons. Entre temps, sous la direction d’André, premier apôtre choisi, vous vous organiserez de manière à vous procurer tout ce dont vous aurez besoin dans votre futur ministère, aussi bien dans votre présent travail personnel que dans la période ultérieure, où je vous confèrerai l’ordination pour prêcher l’évangile et instruire les croyants. » <a id="a74_800"></a>[LU 138:7.4](/fr/The_Urantia_Book/138#p7_4)
 
 Matthieu était responsable de stabiliser le budget et pour réapprovisionner la trésorerie. Quand les fonds étaient insuffisants, il était autorisé à renvoyer les apôtres à leurs filets jusqu’à ce que la trésorerie soit réapprovisionnée.
 
-Jésus donnait aussi une attention particulière à toutes les dépenses. Il ordonna qu’aucune aumône ne soit prélevée sauf à sa requête ou à la demande conjointe de deux apôtres. « Il fit bien comprendre qu’une prévenance sans discernement pouvait être considérée comme responsable de nombreux maux de la société. » <a id="a78_313"></a>[LU 140:8.13](/fr/The_Urantia_Book/140#p8_13)
+Jésus donnait aussi une attention particulière à toutes les dépenses. Il ordonna qu’aucune aumône ne soit prélevée sauf à sa requête ou à la demande conjointe de deux apôtres. « Il fit bien comprendre qu’une prévenance sans discernement pouvait être considérée comme responsable de nombreux maux de la société. » <a id="a78_313"></a>[LU 140:8.13](/fr/The_Urantia_Book/140#p8_13)
 
 La conséquence du délai, ordonné par Jésus, du commencement de leur ministère jusqu’à ce qu’ils se soient bien organisés pour suffire à leurs besoins financiers, était qu’il ne fut jamais nécessaire à Matthieu d’interrompre leur ministère à cause du manque de fonds.
 
@@ -86,15 +86,15 @@ Le discours le plus compréhensible de Jésus, sur l’attitude appropriée enve
 
 Matadormus était un jeune riche pharisien, un membre du Sanhédrin, qui était devenu croyant dans l’évangile du royaume. Il vint vers Jésus désirant recevoir l’ordination pour le corps des soixante-dix évangélistes.
 
-Jésus répondit en disant : « Si tu veux être mon messager, va vendre tout ce que tu possèdes ; lorsque tu en auras donné le montant aux pauvres ou à tes frères, reviens et suis-moi et tu auras un trésor dans le royaume des cieux. » <a id="a88_232"></a>[LU 163:2.5](/fr/The_Urantia_Book/163#p2_5)
+Jésus répondit en disant : « Si tu veux être mon messager, va vendre tout ce que tu possèdes ; lorsque tu en auras donné le montant aux pauvres ou à tes frères, reviens et suis-moi et tu auras un trésor dans le royaume des cieux. » <a id="a88_232"></a>[LU 163:2.5](/fr/The_Urantia_Book/163#p2_5)
 
 Mais Matadormus était trop attaché émotionnellement à sa fortune, à ce moment-là. Ce n’était pas le fait de posséder de la fortune, mais c’était son amour, pour ce que la fortune pouvait faire pour lui, qui l’empêchait de devenir un disciple à part entière du Maitre. Il croyait que sa fortune était le signe de la faveur et de la bénédiction de Dieu.
 
-Il décida, cependant, de suivre le conseil de Jésus, plusieurs années plus tard, mais il s’était lui-même privé de la grande occasion de sa vie, « cette association intime et personnelle avec le Maitre » et souverain de l’univers. <a id="a92_231"></a>[LU 163:2.9](/fr/The_Urantia_Book/163#p2_9)
+Il décida, cependant, de suivre le conseil de Jésus, plusieurs années plus tard, mais il s’était lui-même privé de la grande occasion de sa vie, « cette association intime et personnelle avec le Maitre » et souverain de l’univers. <a id="a92_231"></a>[LU 163:2.9](/fr/The_Urantia_Book/163#p2_9)
 
 ## Diriger une Révélation d’Époque
 
-Quels parallèles pouvons-nous tirer entre la vie de Jésus et les enseignements à propos de sa direction des affaires financières et les problèmes auxquels nous faisons face en aidant et en dirigeant la publication, les traductions et la dissémination de la cinquième révélation d’époque ?
+Quels parallèles pouvons-nous tirer entre la vie de Jésus et les enseignements à propos de sa direction des affaires financières et les problèmes auxquels nous faisons face en aidant et en dirigeant la publication, les traductions et la dissémination de la cinquième révélation d’époque ?
 
 Tous deux sont grandement dépendants de volontaires dédiés et loyaux. Dans les deux cas, l’on dépend de la générosité de ceux qui ont embrassé les enseignements. Tous deux doivent suivre les standards éthiques les plus élevés et exercer une direction sage des ressources financières limitées. Dans les deux cas, la plus importante motivation pour une aide financière est le privilège d’être associé, et d’être capable de contribuer au plus important projet de la planète. Dans chaque cas, cela est motivé par la force la plus puissante dans l’univers, l’amour. C’était l’amour des apôtres pour le Maitre qui leur permit de le suivre à travers la crucifixion, la résurrection, et par la suite, de donner leurs vies pour l’évangile. Pour nous, c’est notre amour pour le Maitre comme décrite dans ces enseignements merveilleux.
 
@@ -105,13 +105,13 @@ L’expérience de Jésus à propos des affaires financières était très grand
 <figcaption><em>L'appel de Matthieu de William Hole</em></figcaption>
 </figure>
 
-Quel plus grand privilège pourrions-nous imaginer que celui de faire partie de l’avant-garde des receveurs d’une révélation d’époque, destinée à éclairer l’humanité pour les prochains mille ans ? Y-a-t-il d’autres opportunités de s’investir qui produiront des retours pour un millenium ? Où peut-on participer à un projet initié et dirigé par des êtres suprahumains profondément testés, loyaux, déterminés et sages qui se réorganisaient il y a deux mille ans et qui adoptèrent la devise : « Ce que les Médians Unis entreprennent, les médians Unis l’accomplissent. » <a id="a107_566"></a>[LU 77:9.3](/fr/The_Urantia_Book/77#p9_3)
+Quel plus grand privilège pourrions-nous imaginer que celui de faire partie de l’avant-garde des receveurs d’une révélation d’époque, destinée à éclairer l’humanité pour les prochains mille ans ? Y-a-t-il d’autres opportunités de s’investir qui produiront des retours pour un millenium ? Où peut-on participer à un projet initié et dirigé par des êtres suprahumains profondément testés, loyaux, déterminés et sages qui se réorganisaient il y a deux mille ans et qui adoptèrent la devise : « Ce que les Médians Unis entreprennent, les médians Unis l’accomplissent. » <a id="a107_566"></a>[LU 77:9.3](/fr/The_Urantia_Book/77#p9_3)
 
-Je suis tout à fait convaincu que la participation dévouée et l’aide à la cinquième révélation d’époque est l’opportunité la plus importante de ma vie. Comme dans le cas de Matadormus, les opportunités sont sensibles au moment. « Dans la vie humaine, des lignes de conduite optionnelles s’ouvrent et se ferment continuellement. Durant les périodes où le choix est possible, la personnalité humaine décide constamment entre de nombreuses lignes d’action. » <a id="a109_456"></a>[LU 118:6.6](/fr/The_Urantia_Book/118#p6_6)
+Je suis tout à fait convaincu que la participation dévouée et l’aide à la cinquième révélation d’époque est l’opportunité la plus importante de ma vie. Comme dans le cas de Matadormus, les opportunités sont sensibles au moment. « Dans la vie humaine, des lignes de conduite optionnelles s’ouvrent et se ferment continuellement. Durant les périodes où le choix est possible, la personnalité humaine décide constamment entre de nombreuses lignes d’action. » <a id="a109_456"></a>[LU 118:6.6](/fr/The_Urantia_Book/118#p6_6)
 
 Si le Maître vous appelle, rappelez-vous de Matadormus et comment pour lui, les affaires d’argent étaient vraiment importantes.
 
-> « Quel plus grand privilège pourrions-nous imaginer que celui de faire partie de l’avant-garde des receveurs d’une révélation d’époque, destinée à éclairer l’humanité pour les prochains mille ans ? »
+> « Quel plus grand privilège pourrions-nous imaginer que celui de faire partie de l’avant-garde des receveurs d’une révélation d’époque, destinée à éclairer l’humanité pour les prochains mille ans ? »
 
 
 ## Références

@@ -53,13 +53,13 @@ dateCreated: 2021-11-28T14:02:03.086Z
 > 529, avenue Wrightwood
 > Chicago, Illinois 60614
 > 
-> Prix du numéro spécial ; 5,00 $ par copie (frais de port inclus)
+> Prix du numéro spécial ; 5,00 $ par copie (frais de port inclus)
 > 
 > \* Toutes les citations dans ce Journal, sauf indication contraire, proviennent du _Le Livre d'Urantia_, &copy; 1955 par la Fondation URANTIIA, tous droits réservés.
 > 
 > Dans la mesure où il n'y a pas d'interprétation officielle des enseignements du _Livre d'Urantia_, les opinions exprimées ici sont entièrement basées sur la compréhension et l'expérience religieuse personnelle de chaque auteur.
 > 
-> Droits d'auteur et copie ; 1990 par Fifth Epochal Fellowship Corporation. Tous droits réservés. Imprimé aux États-Unis
+> Droits d'auteur et copie ; 1990 par Fifth Epochal Fellowship Corporation. Tous droits réservés. Imprimé aux États-Unis
 {.is-info}
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
@@ -86,7 +86,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	- «Un oeil sur le trou de la serrure de l'éternité», Robert J. Schuer
 	- «Méditation réflexive sur les significations cosmiques», David Glass
 	- «Découvrir les significations cosmiques à travers une histoire personnelle et une chanson», Francyl Streano Gawryn
-- **Thème : « Résolution de problèmes vénérable »**
+- **Thème : « Résolution de problèmes vénérable »**
 	- « Une offre trop belle pour être refusée », Beth Bartley
 	- «Résolution de problèmes par la prière», Meredith Sprunger
 	- «Résolution de problèmes vénérable», Carolyn Kendall
@@ -153,7 +153,7 @@ Lorsque le mot « cosmique » est appliqué à des significations, c’est pour 
 
 par David Glass
 
-Je veux que ce soit une méditation sur les significations du cosmos. Et cette enquête débutera par la question : « Quel est le premier mot qui nous vient à l’esprit lorsque l’on pense au cosmos ? Je crois que ce mot est « GRAND » !
+Je veux que ce soit une méditation sur les significations du cosmos. Et cette enquête débutera par la question : « Quel est le premier mot qui nous vient à l’esprit lorsque l’on pense au cosmos ? Je crois que ce mot est « GRAND » !
 
 Il faut huit minutes pour que la lumière du soleil atteigne nos yeux. Le soleil est à 93 millions de kilomètres. La lumière de l'étoile la plus proche a quitté ce soleil en 1986. Orvonton a un diamètre de 500 000 années-lumière. La première zone spatiale a une largeur de 25 000 000 d’années-lumière. La lumière des étoiles de cette première zone spatiale a quitté ces étoiles quand Urantia était à l’ère des éléphants et des chevaux. Au moment où la dérive des continents vers l'ouest de l'Amérique du Nord s'est arrêtée, provoquant la poussée accidentée du substrat rocheux sous les plaines occidentales d'alors dans les imposantes montagnes Rocheuses, la lumière des étoiles de la deuxième zone spatiale a atteint Urantia.
 
@@ -165,7 +165,7 @@ William Sadler, Jr., a décrit ainsi la taille du maître univers : Si la taille
 
 par Francyl Streano Gawryn
 
-_Le discours commence par cette lecture de « Marie-Madeleine » :_
+_Le discours commence par cette lecture de « Marie-Madeleine » :_
 
 C'est au mois de juin que je l'ai vu pour la première fois. Il marchait dans le champ de blé quand je suis passé avec mes servantes, et il était seul.
 
@@ -179,7 +179,7 @@ Les hommes ne parcourent pas la terre de cette manière. Et même maintenant, je
 
 par Beth Bartley
 
-Depuis la retraite spirituelle, j’ai continuellement entendu des choses dans différentes conférences qui ont abouti à ce que j’avais à dire sur la résolution de problèmes. Par exemple, lors de la retraite Adventures in Spiritual Living, nous parlions de la prière dans l’instant, du besoin immédiat et parfois urgent d’aide de Dieu. Dans son discours d'ouverture, Steve Dreier a parlé de la marche intérieure et extérieure et de leurs relations. Carol Hay a évoqué le besoin de compétences pour promouvoir notre intérêt à agir ; vous acquérez des compétences grâce à des actions répétitives, à la formation d'habitudes. Bobbie Dreier a parlé de sa recherche pour trouver Dieu, des problèmes qu'elle a rencontrés et de son besoin de compter sur Dieu pour la guider. Les chansons de Phil Geiger ce matin portaient sur l'adoration et l'effet qu'elle a sur votre attitude ; l’attitude affecte votre point de vue sur le problème. Enfin, il y a eu le discours d'Allison Gardner ce matin et le troisième bout de papier ; celui que nous devions garder. Le mien a dit : « Aimez de tout votre cœur, demandez-moi de l’aide et ressentez la paix. » Toutes ces réflexions sont liées d’une manière ou d’une autre à ma perspective de résolution de problèmes. Mon message : Lorsque vous avez des problèmes, demandez de l'aide à Dieu.
+Depuis la retraite spirituelle, j’ai continuellement entendu des choses dans différentes conférences qui ont abouti à ce que j’avais à dire sur la résolution de problèmes. Par exemple, lors de la retraite Adventures in Spiritual Living, nous parlions de la prière dans l’instant, du besoin immédiat et parfois urgent d’aide de Dieu. Dans son discours d'ouverture, Steve Dreier a parlé de la marche intérieure et extérieure et de leurs relations. Carol Hay a évoqué le besoin de compétences pour promouvoir notre intérêt à agir ; vous acquérez des compétences grâce à des actions répétitives, à la formation d'habitudes. Bobbie Dreier a parlé de sa recherche pour trouver Dieu, des problèmes qu'elle a rencontrés et de son besoin de compter sur Dieu pour la guider. Les chansons de Phil Geiger ce matin portaient sur l'adoration et l'effet qu'elle a sur votre attitude ; l’attitude affecte votre point de vue sur le problème. Enfin, il y a eu le discours d'Allison Gardner ce matin et le troisième bout de papier ; celui que nous devions garder. Le mien a dit : « Aimez de tout votre cœur, demandez-moi de l’aide et ressentez la paix. » Toutes ces réflexions sont liées d’une manière ou d’une autre à ma perspective de résolution de problèmes. Mon message : Lorsque vous avez des problèmes, demandez de l'aide à Dieu.
 
 Il y a plusieurs mois, dans la prière, j'évaluais le changement d'orientation de ma carrière et mon intérêt pour l'éthique des affaires. Puisqu’il n’existe pas de références établies pour ce type de travail, cela a créé un défi quant à la manière de procéder. Dans cette conversation particulière avec Dieu, j’ai mentionné que je pourrais mettre à jour mon expérience en parlant à de grands groupes de personnes. J'ai terminé la conversation avec la question : « Comment accéder au circuit des langues urantiennes ? Évidemment, Dieu a entendu ma question, et peu de temps après, Marta Elders m'a appelé et m'a offert cette opportunité. L’autre jour, Monica Kemp a déclaré : « Dieu m’a bluffé ».
 
@@ -201,7 +201,7 @@ par Carolyn Kendall
 
 Le sujet de cette présentation est « la résolution cultuelle des problèmes ». Il est inclus à la page 1095 parmi les habitudes qui favorisent la croissance religieuse. Avant d'entamer une discussion sur la résolution des problèmes par la prière et l'adoration, déterminons d'abord si nous avons réellement des problèmes dans cette vie. Les problèmes sont-ils réels ? Exagérons-nous les situations, en les magnifiant toutes de manière disproportionnée par rapport à leur importance ? Quelle est la condition humaine dans notre monde ? Est-il possible de nier la souffrance et d’atteindre un niveau d’oubli bienheureux ?
 
-Dans le bouddhisme, la Deuxième Noble Vérité implique l'idée de son _attachement_ aux choses ou à d'autres personnes qui influence la façon dont on réagit ; c'est-à-dire que la mort d'autrui ne nous afflige pas si nous ne sommes pas attachés à lui ; la perte des biens n'a pas d'importance si nous n'y sommes pas attachés ; notre propre mort n'est pas importante si nous ne sommes pas _attachés_ à la vie, et ainsi de suite. Le Troisième Noble. La vérité enseigne que si nous surmontons le désir et l’attachement en nous élevant au-dessus des illusions, nous cesserons de souffrir. Le bouddhisme ne nie pas l’existence de la souffrance, ou « dukka » ; il enseigne une _attitude_ envers la souffrance où l'on peut devenir immunisé contre la souffrance.
+Dans le bouddhisme, la Deuxième Noble Vérité implique l'idée de son _attachement_ aux choses ou à d'autres personnes qui influence la façon dont on réagit ; c'est-à-dire que la mort d'autrui ne nous afflige pas si nous ne sommes pas attachés à lui ; la perte des biens n'a pas d'importance si nous n'y sommes pas attachés ; notre propre mort n'est pas importante si nous ne sommes pas _attachés_ à la vie, et ainsi de suite. Le Troisième Noble. La vérité enseigne que si nous surmontons le désir et l’attachement en nous élevant au-dessus des illusions, nous cesserons de souffrir. Le bouddhisme ne nie pas l’existence de la souffrance, ou « dukka » ; il enseigne une _attitude_ envers la souffrance où l'on peut devenir immunisé contre la souffrance.
 
 Dans l’Ancien Testament, l’auteur du livre de Job ne présume jamais que la souffrance est juste, ni que nous devons endurcir notre cœur face à la misère des autres. Sa question : Pourquoi, qui ou qu'est-ce qui en est la cause ? Est-on soi-même responsable ? Pour les athées, la souffrance est la preuve qu’il n’existe ni Dieu d’amour, ni esprit contrôlant. Nous vivons, nous souffrons, nous mourons, tout cela pour rien.
 
@@ -223,22 +223,22 @@ Commençons par une étude de la nature du culte. Nous sommes informés :
 
 par Eileen Laurence
 
-Comme la plupart d’entre nous ici présents, je mène une vie professionnelle variée et bien remplie. J'interagis avec beaucoup de gens, dont la plupart ne sont pas des lecteurs du Livre d'Urantia, mais dont beaucoup participent activement à la vie religieuse, tant professionnellement que privéement. Alors que je m'acquitte de mes tâches quotidiennes en essayant de vivre les concepts du livre, j'ai commencé à me poser quelques questions fondamentales :
+Comme la plupart d’entre nous ici présents, je mène une vie professionnelle variée et bien remplie. J'interagis avec beaucoup de gens, dont la plupart ne sont pas des lecteurs du Livre d'Urantia, mais dont beaucoup participent activement à la vie religieuse, tant professionnellement que privéement. Alors que je m'acquitte de mes tâches quotidiennes en essayant de vivre les concepts du livre, j'ai commencé à me poser quelques questions fondamentales :
 
 1. Y a-t-il une différence entre la moralité et l’éthique ? Ils sont souvent utilisés dans la même phrase telle que « _les mœurs (religieuses, morales et éthiques) ainsi que la propriété, la fierté et la chevalerie, stabilisent l'institution du mariage et de la famille._ » (<a id="a227_275"></a>[LU 84:7.3](/fr/The_Urantia_Book/84#p7_3))
 2. S’il y a une différence entre moral et éthique, quelle est-elle ?
-3. Comment notre conception de la moralité et de l'éthique a-t-elle changé depuis l'apparition de cette cinquième révélation d'époque, _Le Livre d'Urantia_ ?
-4. Que fait-on dans notre société américaine actuelle pour répondre aux questions morales et éthiques concernant l'évolution de nos organisations commerciales, le lien entre le gouvernement et les médias, l'éthique et les maladies chroniques, l'éthique et les soins néonatals ? Quelqu’un prend-il le temps de partager ses réflexions sur l’éthique au sein de la communauté mondiale ?
+3. Comment notre conception de la moralité et de l'éthique a-t-elle changé depuis l'apparition de cette cinquième révélation d'époque, _Le Livre d'Urantia_ ?
+4. Que fait-on dans notre société américaine actuelle pour répondre aux questions morales et éthiques concernant l'évolution de nos organisations commerciales, le lien entre le gouvernement et les médias, l'éthique et les maladies chroniques, l'éthique et les soins néonatals ? Quelqu’un prend-il le temps de partager ses réflexions sur l’éthique au sein de la communauté mondiale ?
 
 [Lire la suite](/fr/article/Eileen_Laurence/Everyday_Ethics)
 
-## L'évitement de l'égoïsme : vivre comme en présence de Dieu
+## L'évitement de l'égoïsme : vivre comme en présence de Dieu
 
 par Patrick Yesh
 
 **Introduction**
 
-En tant qu'éducateur, l'objectif principal derrière tout ce que j'enseigne, qu'il s'agisse de l'art, du programme scolaire ou des enseignements d'Urantia, doit refléter le but suprême de l'éducation tel qu'énoncé dans _Le Livre d'Urantia_ :
+En tant qu'éducateur, l'objectif principal derrière tout ce que j'enseigne, qu'il s'agisse de l'art, du programme scolaire ou des enseignements d'Urantia, doit refléter le but suprême de l'éducation tel qu'énoncé dans _Le Livre d'Urantia_ :
 
 « ....[P]our favoriser et promouvoir le but suprême de la vie, le développement d'une personnalité majestueuse et bien équilibrée. » (2086)
 
@@ -254,7 +254,7 @@ par James G. Johnston
 
 L'essai suivant a été présenté sous la forme d'un atelier lors de la conférence de 1990. Il s’agit d’un résumé du sujet abordé lors de l’atelier.
 
-« Avertissez tous les croyants de la limite du conflit qui doit être traversée par tous ceux qui passent de la vie telle qu'elle est vécue dans la chair à la vie supérieure telle qu'elle est vécue dans l'esprit. Pour ceux qui vivent entièrement dans l’un ou l’autre domaine, il y a peu de conflits ou de confusion, mais tous sont condamnés à éprouver plus ou moins d’incertitude pendant les périodes de transition entre les deux niveaux de vie.
+« Avertissez tous les croyants de la limite du conflit qui doit être traversée par tous ceux qui passent de la vie telle qu'elle est vécue dans la chair à la vie supérieure telle qu'elle est vécue dans l'esprit. Pour ceux qui vivent entièrement dans l’un ou l’autre domaine, il y a peu de conflits ou de confusion, mais tous sont condamnés à éprouver plus ou moins d’incertitude pendant les périodes de transition entre les deux niveaux de vie.
 
 Il y a la vie dans la chair et il y a la vie dans l'esprit. Le premier représente un égoïsme total, le second un altruisme total. La plupart des gens vivent quelque part entre les deux, dans l’arène controversée du conflit intellectuel, de la confusion et du dilemme moral. Il y a une stabilité intellectuelle complète dans l’un ou l’autre des deux, mais pas dans les deux ensemble. Les personnes purement égoïstes n’ont aucune difficulté à faire des choix moraux : elles choisissent toujours ce qui semble être dans leur meilleur intérêt. Les personnes totalement altruistes n’ont aucun conflit. Ils choisissent toujours ce qui semble être dans le meilleur intérêt des personnes qu’ils aiment, et ils aiment la plupart des gens, et ils aiment la plupart des gens.
 
@@ -270,7 +270,7 @@ Note de l'auteur : Cette présentation était une exploration du conflit entre l
 
 Le choix moral s’accompagne généralement de conflits plus ou moins moraux. Et ce tout premier conflit dans l’esprit de l’enfant se situe entre les pulsions de l’égoïsme et les pulsions de l’altruisme. L'Ajusteur de Pensée ne néglige pas les valeurs de personnalité du motif égoïste, mais opère en accordant une légère préférence à l'impulsion altruiste comme menant au but du bonheur humain et aux joies du royaume des cieux. (1131)
 
-Quelles sont les composantes du soi ? ber :
+Quelles sont les composantes du soi ? ber :
 
 [Lire la suite](/fr/article/Marilynn_Kulieke/Working_to_Resolve_the_Dynamic_Tension)
 
@@ -284,7 +284,7 @@ Je souhaite me concentrer sur quelques attitudes pratiques de la vie quotidienne
 
 [Lire la suite](/fr/article/Brent_St_Denis/CHANGES_Practice_Makes_Perfect)
 
-## Vivre comme en présence de Dieu : faire l'effort
+## Vivre comme en présence de Dieu : faire l'effort
 
 par William Wentworth
 
@@ -294,7 +294,7 @@ Je dois vous parler de « vivre comme en présence de Dieu », et je ferais mieu
 
 [Lire la suite](/fr/article/William_Wentworth/Living_as_in_the_Presence_of_God)
 
-## Tout ce que vous avez toujours voulu savoir sur la paix familiale ! (Ha, Ha)
+## Tout ce que vous avez toujours voulu savoir sur la paix familiale ! (Ha, Ha)
 
 par Arlene \& Buck Weimer
 
@@ -314,7 +314,7 @@ On oublie souvent de mentionner que j'ai été enrôlé dans le corps de réserv
 
 Pas des Missiles-Missives !
 
-J'espère de tout cœur que les observateurs célestes ont le sens de l'humour. Tant de gens seront les premiers dans le royaume. Tant de réservistes font exploser leur couverture. J'ai vu aujourd'hui un T-shirt qui disait « Réserviste activé ». Un autre a déclaré : « Approche à vos risques et périls – Je suis proche de la fusion ».
+J'espère de tout cœur que les observateurs célestes ont le sens de l'humour. Tant de gens seront les premiers dans le royaume. Tant de réservistes font exploser leur couverture. J'ai vu aujourd'hui un T-shirt qui disait « Réserviste activé ». Un autre a déclaré : « Approche à vos risques et périls – Je suis proche de la fusion ».
 
 Les enfants adoptent également cette attitude. Une petite fille dessinait dans la crèche et je lui ai demandé quelle était sa photo. Elle a dit : « Je dessine une image de Dieu. » Je lui ai gentiment dit que personne ne savait vraiment à quoi ressemblait Dieu. Elle a répondu : « Maintenant, ils le feront. »
 

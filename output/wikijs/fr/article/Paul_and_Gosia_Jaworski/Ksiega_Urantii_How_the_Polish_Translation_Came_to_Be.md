@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Gosia et Paul Jaworski, Adélaïde, Australie_
 
-Nous sommes nés en Pologne, où nous avons terminé nos études secondaires et supérieures, puis nous y avons travaillé pendant plusieurs années. Nous sommes mariés depuis 46 ans et avons deux fils, deux belles-filles et six petits-enfants. En 1985, nous avons émigré de Pologne en Australie ; depuis nous vivons à Adélaïde. Toute notre vie, nous lisions des livres et cherchions des réponses à nos questions notamment sur les thèmes de la religion, de l’archéologie, de la physique et de l’astronomie.
+Nous sommes nés en Pologne, où nous avons terminé nos études secondaires et supérieures, puis nous y avons travaillé pendant plusieurs années. Nous sommes mariés depuis 46 ans et avons deux fils, deux belles-filles et six petits-enfants. En 1985, nous avons émigré de Pologne en Australie ; depuis nous vivons à Adélaïde. Toute notre vie, nous lisions des livres et cherchions des réponses à nos questions notamment sur les thèmes de la religion, de l’archéologie, de la physique et de l’astronomie.
 
 En 1995, une encyclopédie de connaissance spirituelle nous amena au _Livre d’Urantia._ Nous avons trouvé le livre dans une bibliothèque privée, emprunté un exemplaire et depuis ce jour-là, notre vie a changé. Nous nous remémorons encore comment nous essayions de vérifier si _Le Livre d’Urantia_ était une vraie révélation. Un soir très tard, Gosia trouva Paul entouré de livres sur l’astronomie et la physique, vérifiant les informations du _Livre d’Urantia._ Tout en consultant les chapitres du livre, nous essayions de détecter quelque supercherie qui le discréditerait. Au lieu de ça, nous avons constaté que la science était cohérente et en terminologie moderne. Le livre décrivait même des faits inconnus de la science au moment de sa publication.
 
@@ -48,7 +48,7 @@ Cela apporta des réponses à beaucoup de nos questions et clarifia de nombreuse
 
 Nous voulions partager notre découverte et notre joie avec nos amis polonais, mais pour certains, la langue originale de cette œuvre était trop difficile à comprendre. En 1996, nous commençâmes à traduire des passages du livre. Le premier fut traduit pour un ami dont le fils décéda, et qui était affecté et spirituellement confus.
 
-Nous avons contacté la Fondation Urantia en 1998 et commencé la traduction polonaise avec une équipe de trois personnes. Un membre partit après avoir traduit trois fascicules, donc nous avons continué en équipe tous les deux. Rapidement, nous avons compris combien ces mots étaient justes : « Intellectuellement, socialement et spirituellement, lorsque deux créatures morales emploient la technique de l’association, elles font plus que de doubler leur potentiel personnel d’aboutissement universel ; c’est plutôt au quadruple qu’elles portent leur réussite et leurs possibilités d’accomplissement. » <a id="a50_601"></a>[LU 43:8.11](/fr/The_Urantia_Book/43#p8_11)
+Nous avons contacté la Fondation Urantia en 1998 et commencé la traduction polonaise avec une équipe de trois personnes. Un membre partit après avoir traduit trois fascicules, donc nous avons continué en équipe tous les deux. Rapidement, nous avons compris combien ces mots étaient justes : « Intellectuellement, socialement et spirituellement, lorsque deux créatures morales emploient la technique de l’association, elles font plus que de doubler leur potentiel personnel d’aboutissement universel ; c’est plutôt au quadruple qu’elles portent leur réussite et leurs possibilités d’accomplissement. » <a id="a50_601"></a>[LU 43:8.11](/fr/The_Urantia_Book/43#p8_11)
 
 Lorsque nous nous sommes rendus en Pologne en 1999 et en 2000, nous avons placé 10 exemplaires du _Livre d’Urantia_ dans des universités et des bibliothèques. En tout ,78 exemplaires du _Livre d’Urantia_ furent placés dans 67 bibliothèques polonaises, ainsi que des traductions françaises et russes. Nous avons aussi commencé à placer _Le Livre d’Urantia_ dans des bibliothèques d’Adélaïde.
 
@@ -59,11 +59,11 @@ Lorsque nous nous sommes rendus en Pologne en 1999 et en 2000, nous avons placé
 
 Notre travail de traduction continue. Paul a traduit les Parties I, II et III et Gosia a traduit la Partie IV. Nous avons corrigé l’un l’autre notre travail et la traduction entière de nombreuses fois. Quelquefois, nos discussions, pour savoir quel mot polonais exprimait le mieux une signification anglaise particulière, pouvaient devenir très enflammées et bruyantes.
 
-Avant que le premier jet soit terminé, nous avons compris que des informations sur le livre seraient utiles pour les futurs lecteurs. Mais comment les transmettre aux lecteurs de Pologne, si loin de l’Australie ? En 2000, nous avons lancé un site web en polonais au sujet de _Księga Urantii._
+Avant que le premier jet soit terminé, nous avons compris que des informations sur le livre seraient utiles pour les futurs lecteurs. Mais comment les transmettre aux lecteurs de Pologne, si loin de l’Australie ? En 2000, nous avons lancé un site web en polonais au sujet de _Księga Urantii._
 
 En 2005, nous avons lancé un deuxième site web pour le texte de la traduction. Chaque mois, nous avons publié un fascicule et s’il y avait du retard, les lecteurs nous demandaient ce qui se passait. En 2006, le texte entier de _Księga Urantii_ était sur le site. Aujourd’hui, il y a eu plus d’un demi million de visiteurs uniques sur les deux sites web.
 
-En 2010, la Fondation Urantia a publié et imprimé _Księga Urantii ;_ la quatrième impression fut en 2019. Nous travaillons en ce moment sur une révision et sommes convaincus que les révisions du texte ne finiront jamais.
+En 2010, la Fondation Urantia a publié et imprimé _Księga Urantii ;_ la quatrième impression fut en 2019. Nous travaillons en ce moment sur une révision et sommes convaincus que les révisions du texte ne finiront jamais.
 
 En 2014, un lecteur lança un groupe Facebook pour les lecteurs de _Księga Urantii._ Avant de partir pour les mondes des maisons, il nous le transmit et plus tard, nous l’avons transmis à la plus jeune génération. Davantage de groupes de lecteurs commencent à apparaître sur Facebook. Nous dirigeons l’un de ces groupes nous-mêmes.
 

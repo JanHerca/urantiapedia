@@ -52,11 +52,11 @@ Veuillez envoyer vos soumissions à publications@urantiabook.org
 
 ## Enquête sur les publications
 
-Voici notre enquête sur les publications avec 70 réponses à ce jour demandant :
+Voici notre enquête sur les publications avec 70 réponses à ce jour demandant :
 
-Préféreriez-vous recevoir nos magazines, le Mighty Messenger et le Fellowship Herald, sous forme électronique ou imprimée, ou les deux ?
+Préféreriez-vous recevoir nos magazines, le Mighty Messenger et le Fellowship Herald, sous forme électronique ou imprimée, ou les deux ?
 
-Cette enquête prendra une minute. Veuillez nous le faire savoir ici : https://www.surveymonkey.com/r/T5LFL86
+Cette enquête prendra une minute. Veuillez nous le faire savoir ici : https://www.surveymonkey.com/r/T5LFL86
 
 Merci!
 

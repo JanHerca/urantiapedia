@@ -44,12 +44,12 @@ Votre Livre d’Urantia bien-aimé a-t-il l’air écorné ?
 
 Utilisez-vous vos lunettes de lecture parce que la police de votre Livre d'Urantia est trop petite ?
 
-Si vous avez répondu oui à l’une de ces questions, alors vous allez adorer notre nouvel e-book !
+Si vous avez répondu oui à l’une de ces questions, alors vous allez adorer notre nouvel e-book !
 
 _Le Livre d'Urantia_ Enhanced Edition est disponible pour l'appareil de votre choix : smartphone, tablette, iPad ou liseuse telle que [Kindle](https://www.amazon.com/Urantia-Book-Enhanced-Foundation-ebook/dp/B08SHWBX6N/ref=sr_1_1_sspa?crid=2KI6O3TS0N508&dchild=1&keywords=the+urantia+book+enhanced+edition&qid=1618859055&sprefix=the+urantia+book+enhanced%2Caps%2C168&sr=8-1-spons&psc=1&spLa=ZW5jcnlw) ou [Kobo](https://www.kobo.com/us/en/ebook/the-urantia-book-enhanced-edition).
 <br style="clear:both;"/>
 
-Lire et étudier le _Le Livre d’Urantia_ n’a jamais été aussi pratique. Pour la première fois, vous pouvez profiter d’une bibliothèque d’aides à l’étude à portée de main pour le prix modique de 5,99 $.
+Lire et étudier le _Le Livre d’Urantia_ n’a jamais été aussi pratique. Pour la première fois, vous pouvez profiter d’une bibliothèque d’aides à l’étude à portée de main pour le prix modique de 5,99 $.
 
 - Un index exhaustif
 - Définition des termes

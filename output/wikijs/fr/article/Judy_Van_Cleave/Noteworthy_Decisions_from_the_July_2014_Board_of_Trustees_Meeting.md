@@ -64,7 +64,7 @@ En Ukraine, Anton Miroshnichenko a demandé une licence d’importation et 270 l
 
 ## Livres pour la prochaine génération
 
-Si quelqu’un cherche un projet de service « fun », vous pouvez envisager de placer des livres d’Urantia dans les bibliothèques universitaires, les auberges de jeunesse, les cafés littéraires et d’autres lieux fréquentés par les jeunes gens. La Fondation Urantia vous fournira des livres au prix le plus bas possible si vous les placez dans ces endroits. Voici notre politique: [https://www.urantia.org/fr/la-fondation-urantia/principe-de-placement-en-bibliotheques](https://www.urantia.org/fr/la-fondation-urantia/principe-de-placement-en-bibliotheques)
+Si quelqu’un cherche un projet de service « fun », vous pouvez envisager de placer des livres d’Urantia dans les bibliothèques universitaires, les auberges de jeunesse, les cafés littéraires et d’autres lieux fréquentés par les jeunes gens. La Fondation Urantia vous fournira des livres au prix le plus bas possible si vous les placez dans ces endroits. Voici notre politique: [https://www.urantia.org/fr/la-fondation-urantia/principe-de-placement-en-bibliotheques](https://www.urantia.org/fr/la-fondation-urantia/principe-de-placement-en-bibliotheques)
 
 Pour plus de détails concernant les prix, contactez-nous à [urantia@urantia.org](mailto:urantia@urantia.org) .
 

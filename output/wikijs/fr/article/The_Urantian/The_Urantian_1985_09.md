@@ -22,7 +22,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </td>
         <td>
         <a href="/fr/article/Jeff_Wattles/What_is_the_new_philosophy_of_living_project">
-          <span class="pr-2">Quel est le nouveau projet de philosophie de vie ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Quel est le nouveau projet de philosophie de vie ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-## Quel est le nouveau projet de philosophie de vie ?
+## Quel est le nouveau projet de philosophie de vie ?
 
 « _Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme._ » (<a id="a36_341"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10)) Quelles implications ce passage comporte-t-il ? Quelles questions cela soulève-t-il ?
 
@@ -93,7 +93,7 @@ La nature du mal et la préoccupation quant à sa réalité constituent aujourd�
         </td>
         <td>
         <a href="/fr/article/Jeff_Wattles/What_is_the_new_philosophy_of_living_project">
-          <span class="pr-2">Quel est le nouveau projet de philosophie de vie ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Quel est le nouveau projet de philosophie de vie ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -42,7 +42,7 @@ Dieu : La Vision Globale du Livre d'Urantia"
 <ins>6 novembre Gard Jameson 15h15 - 16h00 Salle 711</ins> "Au-delà des préjugés, des préjugés et des
 Bigoterie, vers la règle d'or, Camp Anytown"
 
-<ins>6 novembre Sheila Keene-Lund 18h00-19h00 Salle 603</ins> « Comment pouvons-nous passer de la fragmentation à l’intégration » sous la rubrique Pluralisme religieux vivant (3 ateliers en 1)
+<ins>6 novembre Sheila Keene-Lund 18h00-19h00 Salle 603</ins> « Comment pouvons-nous passer de la fragmentation à l’intégration » sous la rubrique Pluralisme religieux vivant (3 ateliers en 1)
 
 ## Pato Banton
 
@@ -65,7 +65,7 @@ https://www.youtube.com/watch?v=NurBEzUap5o
 
 > « Consacre ta vie à prouver que l’amour est la plus grande chose du monde. » (<a id="a65_80"></a>[LU 192:2.1](/fr/The_Urantia_Book/192#p2_1))
 
-Pour en savoir plus, rendez-vous sur : www.patobanton.com et www.facebook.com/groups/patobantonsspiritualfamily
+Pour en savoir plus, rendez-vous sur : www.patobanton.com et www.facebook.com/groups/patobantonsspiritualfamily
 
 ## Marvin Gawryn
 
@@ -77,13 +77,13 @@ Salut les amis,
 
 Bonnes nouvelles! J'ai reçu un message des organisateurs du Parlement des religions du monde indiquant que la proposition d'atelier que j'avais soumise avait été acceptée ! Il sera programmé le 4ème, 5ème ou 6ème jour du Parlement, il y aura donc du temps pour faire circuler des dépliants pendant les premiers jours de l’événement. N'hésitez pas à partager cela autour de vous, si vous le jugez approprié. Voici (ci-dessous) les détails des propositions d'atelier, dont certains seront imprimés dans le calendrier que tous les participants recevront.
 
-Je vous contacterai dès que j'aurai plus de détails... Amour à vous tous ! Marvin
+Je vous contacterai dès que j'aurai plus de détails... Amour à vous tous ! Marvin
 
 « Un mode de vie dans la famille de Dieu : la vision globale du Livre d'Urantia » 
 
 _Le Livre d'Urantia_ prétend être une révélation majeure pour notre monde, rédigée par des êtres célestes supérieurs. Il décrit notre relation avec Dieu, le but de notre vie, l’histoire et le destin de notre monde, les milliards de mondes habités, une description complète de l’au-delà, ainsi que la vie complète et les enseignements de Jésus.
 
-Nous explorerons la vision du livre d'une civilisation mondiale émergente, basée sur sept vérités spirituelles essentielles qui composent « Un mode de vie dans la famille de Dieu » :
+Nous explorerons la vision du livre d'une civilisation mondiale émergente, basée sur sept vérités spirituelles essentielles qui composent « Un mode de vie dans la famille de Dieu » :
 - La relation spirituelle parent-enfant
 - La relation spirituelle entre sœur et frère
 - L'esprit intérieur 
@@ -92,11 +92,11 @@ Nous explorerons la vision du livre d'une civilisation mondiale émergente, bas�
 - Vie éternelle 
 - Foi
 
-Quel est le lien entre votre session et le thème du Parlement de 2018, « La promesse de l’inclusion et le pouvoir de l’amour : poursuivre la compréhension, la réconciliation et le changement à l’échelle mondiale » ? :
+Quel est le lien entre votre session et le thème du Parlement de 2018, « La promesse de l’inclusion et le pouvoir de l’amour : poursuivre la compréhension, la réconciliation et le changement à l’échelle mondiale » ? :
 
 _Le Livre d'Urantia_ envisage un monde où l’Amour du Créateur, se déployant au sein de la Famille universelle de Dieu (qui transcende toute institution humaine), guérit notre sentiment de soi blessé, transforme profondément la façon dont nous nous traitons les uns les autres et ré-imagine nos différences de race. la religion, le sexe, l’origine ethnique et la nationalité comme un grand don spirituel, l’épanouissement glorieux de la famille mondiale diversifiée que Dieu a voulu que nous soyons. Malgré les nombreuses tendances opposées dans la nature humaine et dans la société, ce puissant idéal finira par inspirer l’émergence de notre prochaine étape, plus élevée, de civilisation. Afin d’y travailler avec toute notre passion, nous devons visualiser très clairement l’idéal, puis le poursuivre. 
 
-**Brèves informations biographiques du présentateur principal :** Marvin Gawryn, un ministre multiconfessionnel, travaille en tant que directeur exécutif du Conseil interconfessionnel du sud du Nevada (un cercle de coopération de l’URI) et a étudié toute sa vie le Livre d'Urantia. 
+**Brèves informations biographiques du présentateur principal :** Marvin Gawryn, un ministre multiconfessionnel, travaille en tant que directeur exécutif du Conseil interconfessionnel du sud du Nevada (un cercle de coopération de l’URI) et a étudié toute sa vie le Livre d'Urantia. 
 
 Marvin Gawryn a travaillé pendant trente ans en tant que thérapeute familial et est actuellement directeur exécutif du Conseil interconfessionnel du sud du Nevada (un URI CC). Il participe au mouvement interconfessionnel depuis plus de trente ans, étudie l’histoire et la sociologie des religions au GTU et explore le judaïsme, l’hindouisme, le bouddhisme et les pratiques contemplatives chrétiennes. Sa théologie est fondée sur le Livre d'Urantia, un texte révélé de 2 100 pages, qu’il étudie depuis plus de 45 ans. Lorsqu’on lui demande comment elles ont été élevées, ses deux filles adultes, dont l’une s’est convertie à l’islam, répondent : « Nous avons grandi dans une famille interconfessionnelle ».
 
@@ -116,7 +116,7 @@ Cette présentation aidera le public à apprécier le pouvoir du Camp Anytown, e
 <img src="/image/article/The_Mighty_Messenger/2018_Fall/Sheila_Keene_Lund.jpg">
 </figure>
 
-« Comment pouvons-nous passer de la fragmentation à l’intégration ? » sous la rubrique Pluralisme religieux vivant (3 ateliers en 1) 
+« Comment pouvons-nous passer de la fragmentation à l’intégration ? » sous la rubrique Pluralisme religieux vivant (3 ateliers en 1) 
 
 Les croyants constituent la plus grande partie de la population mondiale. Ce sont donc les croyants qui ont la plus grande responsabilité et la plus grande opportunité de mettre fin à l’intolérance. Dans cette courte présentation, nous explorerons le concept et le rôle de la « vision du monde » dans le mouvement de la fragmentation vers l’intégration. Nous explorerons également ce qu’il faudra pour construire une vision du monde qui favorise un sentiment d’identité commune qui transcende les divisions et les rivalités actuelles. 
 

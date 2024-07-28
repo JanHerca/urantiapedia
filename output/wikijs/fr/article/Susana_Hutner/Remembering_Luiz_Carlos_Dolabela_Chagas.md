@@ -55,7 +55,7 @@ Luiz anima et participa aux groupes d’étude à São Paulo et à Belo Horizont
 <img src="/image/article/UF_News_Online/2015_09/017.jpg">
 </figure>
 
-Honneur à son nom !
+Honneur à son nom !
 
 ## Références
 

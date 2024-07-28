@@ -77,7 +77,7 @@ Une autre chose que j'ai réalisé lors de notre représentation, c'est que la p
 
 https://www.youtube.com/watch?v=6VguZ0vBuso
 
-En fin de compte, notre expérience au Parlement a été marquée par l’enthousiasme, le plaisir, l’amitié, le travail d’équipe, la paix, l’amour, l’unité et le véganisme ! Cela nous laisse espérer un avenir plus aimant, plus tolérant, plus compréhensif et plus compatissant.
+En fin de compte, notre expérience au Parlement a été marquée par l’enthousiasme, le plaisir, l’amitié, le travail d’équipe, la paix, l’amour, l’unité et le véganisme ! Cela nous laisse espérer un avenir plus aimant, plus tolérant, plus compréhensif et plus compatissant.
 
 https://www.youtube.com/watch?v=LHibw9slas0
 

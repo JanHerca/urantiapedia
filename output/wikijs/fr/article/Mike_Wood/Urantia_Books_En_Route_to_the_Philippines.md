@@ -52,14 +52,14 @@ Puis, au début de novembre, Eugène me dit que lui-même et Nestor iraient aux 
 
 J’ai immédiatement contacté à la fois la Fondation Urantia et l’Association Urantia Internationale au nom d’Eugene et de Nestor, en espérant que l’une ou les deux accepteraient rapidement de fournir les fonds nécessaires pour des livres. En quelques jours, les deux organisations ont convenu de soutenir conjointement le projet, et le jeudi 21 novembre 2013, quatre grandes boites, contenant chacune 40 nouveaux exemplaires à couverture cartonnée du _Livre d’Urantia_ et pesant 53 kg, furent chargées dans une camionnette pour la première étape d’un voyage de six à huit semaines vers les Philippines.
 
-Dès la mi-janvier, Eugene et Nestor allaient passer six semaines plaçant 160 exemplaires du _Livre d’Urantia_ dans la région autour de Manille, une région métropolitaine de douze millions de personnes, et dans quelques-unes des régions éloignées. Je dis _quelques-unes_ des régions éloignées parce que les Philippines sont une nation d’îles étalées sur plus de 7000 îles, et de nombreuses régions du pays ne sont pas facilement accessibles. Mais même en couvrant Manille et ses environs, Manille Grand ( comprend 12 à 14 millions d’habitants supplémentaires ) ça sera une tâche ardue.
+Dès la mi-janvier, Eugene et Nestor allaient passer six semaines plaçant 160 exemplaires du _Livre d’Urantia_ dans la région autour de Manille, une région métropolitaine de douze millions de personnes, et dans quelques-unes des régions éloignées. Je dis _quelques-unes_ des régions éloignées parce que les Philippines sont une nation d’îles étalées sur plus de 7000 îles, et de nombreuses régions du pays ne sont pas facilement accessibles. Mais même en couvrant Manille et ses environs, Manille Grand ( comprend 12 à 14 millions d’habitants supplémentaires ) ça sera une tâche ardue.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2013_12/028.jpg">
 <figcaption><em>Nestor Nano et Eugene Asidao</em></figcaption>
 </figure>
 
-Je suis impatient de partager des emails occasionnels avec Eugene et Nestor au cours de leur voyage, ainsi que de recevoir un rapport plus détaillé de leurs aventures à leur retour. Ce fut passionnant et inspirant d’empaqueter ces livres et de les préparer pour l’expédition. Bonne chance, Eugene et Nestor !
+Je suis impatient de partager des emails occasionnels avec Eugene et Nestor au cours de leur voyage, ainsi que de recevoir un rapport plus détaillé de leurs aventures à leur retour. Ce fut passionnant et inspirant d’empaqueter ces livres et de les préparer pour l’expédition. Bonne chance, Eugene et Nestor !
 
 
 ## Références

@@ -55,7 +55,7 @@ Au sein de SL, j'ai créé une patrie, ma base où une version virtuelle du Livr
 
 « La haute mission de tout art est, par ses illusions, de préfigurer une réalité universelle supérieure, de cristalliser les émotions du temps dans la pensée de l’éternité. »
 
-« S'il vous plaît, tournez-vous vers un univers de lumière, de vie et d'amour... et partageons notre joie dans une conquête éternellement immortelle de la vérité, de la bonté et de la beauté. Parce que véritablement « La vie est le don ultime de l’amour »… alors gardez confiance dans la créativité des Dieux. Ils vous ont créé ainsi que tout le reste dans l’univers des univers. Et le spectacle commence : animations acrobatiques ; le feu dansant avec du pois, des bâtons ; les fans tous sur des podiums, dans des trapèzes rotatifs, sur des éléphants qui marchent ou sur des boules de terre qui font rouler ; et à la fin mon DJ dira ceci, le tout écrit par moi dans un programme transmis :
+« S'il vous plaît, tournez-vous vers un univers de lumière, de vie et d'amour... et partageons notre joie dans une conquête éternellement immortelle de la vérité, de la bonté et de la beauté. Parce que véritablement « La vie est le don ultime de l’amour »… alors gardez confiance dans la créativité des Dieux. Ils vous ont créé ainsi que tout le reste dans l’univers des univers. Et le spectacle commence : animations acrobatiques ; le feu dansant avec du pois, des bâtons ; les fans tous sur des podiums, dans des trapèzes rotatifs, sur des éléphants qui marchent ou sur des boules de terre qui font rouler ; et à la fin mon DJ dira ceci, le tout écrit par moi dans un programme transmis :
 
 « Nous vous remercions tous d'être venus et aimons vous donner à tous nos bénédictions de Lumière, de Vie et d'Amour, non seulement avec de l’espoir mais avec la promesse de l’immortalité divine pour vous tous, ainsi votre voyage à travers le labyrinthe de votre existence mortelle vers l’immortalité. puisse être béni et rempli de Lumière, de Vie et d'Amour... parce que l’univers est très amical, alors soyez-le aussi. Nous partageons avec vous ce don cosmique divin, car c’est ce que la vie et l’amour éternels et immortels peuvent faire et EST.
 
@@ -75,9 +75,9 @@ L'émission était animée par « L'Esprit de Vérité » - pour soutenir l’am
 
 « À bientôt dans le futur, et que la paix prévale entre vous tous. »
 
-Pour plus d'informations, contactez-moi à Yourantiaman@mail.dk. Regarder une émission ou s'y inscrire ne coûte rien, donc si vous souhaitez commencer le processus d'accès à Second Life, voici le lien : https://join.secondlife.com/
+Pour plus d'informations, contactez-moi à Yourantiaman@mail.dk. Regarder une émission ou s'y inscrire ne coûte rien, donc si vous souhaitez commencer le processus d'accès à Second Life, voici le lien : https://join.secondlife.com/
 
-Et voici un lien vers notre spectacle lors du 16ème anniversaire de Second Life le 29 juin 2019 :
+Et voici un lien vers notre spectacle lors du 16ème anniversaire de Second Life le 29 juin 2019 :
 
 https://www.youtube.com/watch?v=HlyH58FtknU
 

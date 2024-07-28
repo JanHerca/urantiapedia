@@ -99,7 +99,7 @@ J’ai découvert que nous pouvons nous établir dans un sens de la présence de
 
 Et plus tard dans ses efforts : 
 
-> « Habituellement, vous ne ressentirez aucune émotion profonde, mais vous ressentirez toujours une « paix qui dépasse toute compréhension ». Vous vous souvenez de cette déclaration du _Le Livre d'Urantia_ ? « _La véritable extase spirituelle est généralement associée à un grand calme extérieur et à un contrôle émotionnel presque parfait._ » » (<a id="a101_347"></a>[LU 91:7.3](/fr/The_Urantia_Book/91#p7_3))
+> « Habituellement, vous ne ressentirez aucune émotion profonde, mais vous ressentirez toujours une « paix qui dépasse toute compréhension ». Vous vous souvenez de cette déclaration du _Le Livre d'Urantia_ ? « _La véritable extase spirituelle est généralement associée à un grand calme extérieur et à un contrôle émotionnel presque parfait._ » » (<a id="a101_347"></a>[LU 91:7.3](/fr/The_Urantia_Book/91#p7_3))
 
 Après presque deux ans d'efforts constants, Frank Laubach a écrit ceci dans son journal : 
 

@@ -15,7 +15,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td>
         <a href="/fr/article/Jeff_Wattles/What_is_the_new_philosophy_of_living_project">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quel est le nouveau projet de philosophie de vie ?</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quel est le nouveau projet de philosophie de vie ?</span>
         </a>
         </td>
         <td>
@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-Je voudrais attirer votre attention sur un mot. Le mot est « partenariat » - partenariat que l'on trouve à plusieurs endroits dans _Le Livre d'URANTIA_ :
+Je voudrais attirer votre attention sur un mot. Le mot est « partenariat » - partenariat que l'on trouve à plusieurs endroits dans _Le Livre d'URANTIA_ :
 
 > « _Au commencement, le Père fait tout ; mais, à mesure que le panorama de l’éternité se déroule en réponse à la volonté et aux commandements de l’Infini, il ressort de plus en plus que les créatures, même les hommes, doivent devenir des partenaires de Dieu pour réaliser la finalité de la destinée. Et ceci est vrai même dans la vie dans la chair ; quand l’homme et Dieu entrent en association, on ne peut assigner aucune limite aux possibilités futures de cette association._ » (<a id="a36_482"></a>[LU 118:5.2](/fr/The_Urantia_Book/118#p5_2))
 
@@ -48,7 +48,7 @@ Pourquoi « partenariat » ? Parce qu’il me semble que ce concept explique en 
 
 Après tout, comment expliquer pourquoi nous avons cette nouvelle révélation ? On pourrait penser – et certainement les chrétiens, par exemple, pensent – que l’incarnation et la révélation il y a deux mille ans du Fils Créateur lui-même sous le nom de Jésus de Nazareth seraient pour toujours ; qu'il ne pouvait pas être amélioré — pour ainsi dire ! Pourtant, nous avons ici _Le Livre d'URANTIA_ décrit dans le [Fascicule 92](/fr/The_Urantia_Book/92) comme la cinquième révélation de signification d'époque.
 
-Maintenant, je pense qu'une des raisons de cette révélation est de promouvoir cette idée de _partenariat avec Dieu_ qui repose sur le fait de la présence intérieure du Père Universel, l'Ajusteur de Pensée. Je pense que c'est l'un des objectifs de ces articles parce que, à mon avis, la différence la plus nette entre le _Livre d'URANTIA_ et le Nouveau Testament est un concept clair de l'esprit intérieur du Père. Or, s'il est vrai que ce concept se trouve dans le Nouveau Testament (par exemple, [1 Corinthiens 3 :16](/fr/Bible/1_Corinthians/3#v16) : « Ne savez-vous pas que vous êtes le temple de Dieu et que l'Esprit de Dieu habite en vous ? ?"), elle a été tellement atténuée au fil des années et confondue avec le Saint-Esprit, l'Esprit Mère Créatrice, la Troisième Personne de la Trinité et l'Esprit de Vérité, que sa puissance en tant que concept libérateur et expérience personnelle pour chacun d’entre nous, individuellement, est pratiquement perdu.
+Maintenant, je pense qu'une des raisons de cette révélation est de promouvoir cette idée de _partenariat avec Dieu_ qui repose sur le fait de la présence intérieure du Père Universel, l'Ajusteur de Pensée. Je pense que c'est l'un des objectifs de ces articles parce que, à mon avis, la différence la plus nette entre le _Livre d'URANTIA_ et le Nouveau Testament est un concept clair de l'esprit intérieur du Père. Or, s'il est vrai que ce concept se trouve dans le Nouveau Testament (par exemple, [1 Corinthiens 3 :16](/fr/Bible/1_Corinthians/3#v16) : « Ne savez-vous pas que vous êtes le temple de Dieu et que l'Esprit de Dieu habite en vous ? ?"), elle a été tellement atténuée au fil des années et confondue avec le Saint-Esprit, l'Esprit Mère Créatrice, la Troisième Personne de la Trinité et l'Esprit de Vérité, que sa puissance en tant que concept libérateur et expérience personnelle pour chacun d’entre nous, individuellement, est pratiquement perdu.
 
 Je suis arrivé à la conclusion qu'une réintroduction, une re-révélation de la vérité selon laquelle nous sommes des fils et des filles planétaires de Dieu _en partenariat_ avec lui à travers la présence de son Ajusteur est le but (ou au moins l'un des objectifs) de cette révélation. Il est déclaré dans le fascicule 102 (où la religion évolutionniste est comparée à la révélation) que « _... la révélation glorifie l'homme et révèle sa capacité de partenariat avec Dieu._ » (<a id="a52_476"></a>[LU 102:3.7](/fr/The_Urantia_Book/102#p3_7)) Et plus loin, cette révélation de la filiation. et le partenariat est cohérent avec d'autres déclarations faites dans les Cahiers d'URANTIA qui expliquent que l'un des objectifs principaux de toute révélation d'époque est de révéler, d'élargir, d'élargir nos idées, nos concepts et notre compréhension du Père du Paradis. Un conseiller divin dit : « _L'idée de la personnalité du Père Universel est un concept élargi et plus vrai de Dieu qui est venu à l'humanité principalement par révélation._ » (<a id="a52_1020"></a>[LU 1:5.10](/fr/The_Urantia_Book/1#p5_10))
 
@@ -80,7 +80,7 @@ _Tolède, Ohio_
       <tr>
         <td>
         <a href="/fr/article/Jeff_Wattles/What_is_the_new_philosophy_of_living_project">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quel est le nouveau projet de philosophie de vie ?</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quel est le nouveau projet de philosophie de vie ?</span>
         </a>
         </td>
         <td>

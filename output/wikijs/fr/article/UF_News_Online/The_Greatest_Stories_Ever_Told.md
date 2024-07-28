@@ -15,7 +15,7 @@ dateCreated: 2023-8-29T10:55:6Z
       <tr>
         <td>
         <a href="/fr/article/Bobbie_Dreier/Circles_of_Trust_An_Experience_in_Soul_Sharing_2">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cercles de confiance : une expérience de partage d'âme</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cercles de confiance : une expérience de partage d'âme</span>
         </a>
         </td>
         <td>
@@ -58,7 +58,7 @@ _Note de l'éditeur : Les Paraboles de Jésus Enseignements Complets du Livre d'
       <tr>
         <td>
         <a href="/fr/article/Bobbie_Dreier/Circles_of_Trust_An_Experience_in_Soul_Sharing_2">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cercles de confiance : une expérience de partage d'âme</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cercles de confiance : une expérience de partage d'âme</span>
         </a>
         </td>
         <td>

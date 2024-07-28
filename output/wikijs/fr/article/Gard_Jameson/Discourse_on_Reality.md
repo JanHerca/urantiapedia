@@ -15,7 +15,7 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/fr/article/Gard_Jameson/Sources_of_Revelatory_Insight_A_Meditation_on_Human_Sources">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sources de perspicacité révélatrice : une méditation sur les « sources humaines »</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sources de perspicacité révélatrice : une méditation sur les « sources humaines »</span>
         </a>
         </td>
         <td>
@@ -63,7 +63,7 @@ Il y a trois segments qui suivent : Le Livre d'Urantia **(TLU)**, la Source Huma
 <figcaption><em>Platon</em> © iStock </figcaption>
 </figure>
 
-Les deux premiers paragraphes du « Discours sur la réalité » ont un corollaire direct dans le texte populaire de [Ralph Tyler Flewelling](https://en.wikipedia.org/wiki/Ralph_Tyler_Flewelling), [*Creative Personality*](https://www.amazon.com/Creative-Personality-Study-Philosophical-Reconciliation/dp/125845114X), la source humaine de l’ensemble de les discours trouvés dans le tour méditerranéen. Flewelling propose de nombreuses réflexions sur les sujets abordés : la ***causalité***, la ***conscience de soi***, la **progression de l’individualité** et l’**âme** [CP 209], bien que pas toujours de la manière articulée par *Le Livre d'Urantia*. Paraphrasant les discours de Jésus, les médians – les sponsors de cette section – fournissent une appréciation et une réflexion sur quatre des sept Absolus de la réalité – quatre axiomes fondamentaux et absolus de toute enquête sur la nature de la réalité : 
+Les deux premiers paragraphes du « Discours sur la réalité » ont un corollaire direct dans le texte populaire de [Ralph Tyler Flewelling](https://en.wikipedia.org/wiki/Ralph_Tyler_Flewelling), [*Creative Personality*](https://www.amazon.com/Creative-Personality-Study-Philosophical-Reconciliation/dp/125845114X), la source humaine de l’ensemble de les discours trouvés dans le tour méditerranéen. Flewelling propose de nombreuses réflexions sur les sujets abordés : la ***causalité***, la ***conscience de soi***, la **progression de l’individualité** et l’**âme** [CP 209], bien que pas toujours de la manière articulée par *Le Livre d'Urantia*. Paraphrasant les discours de Jésus, les médians – les sponsors de cette section – fournissent une appréciation et une réflexion sur quatre des sept Absolus de la réalité – quatre axiomes fondamentaux et absolus de toute enquête sur la nature de la réalité : 
 1. *Personnalité* originale (le Père Universel), 
 2. *Esprit* (le Fils Éternel), 
 3. *Esprit* Universel (l’Esprit Infini), 
@@ -90,9 +90,9 @@ Au début de ce discours remarquable, Jésus fait allusion au *Plan de réalisat
 <figcaption><em>Index ouvert</em> </figcaption>
 </figure>
 
-Le paragraphe suivant dans « <a id="a92_29"></a>[Discourse on Reality”](/fr/The_Urantia_Book/130#p4) » contient une phrase qui est également en corrélation avec ce qui se trouve dans *Creative Personality* de Flewelling. Il utilise la métaphore de la *vue* pour illustrer une pensée, aidant ainsi à transmettre cette idée. Les révélateurs ont utilisé des sources humaines pour aider à la compréhension des idées révélatrices, des *idées* qui ont été reconnues et réalisées par ces auteurs humains ![](Aspose.Words.67d7acac-4bbd-49ae-b7a7-7b8ad288f9ab.012.jpeg). L'image d'une « personne borgne* » est particulièrement graphique et aide à exprimer une erreur fondamentale commise par de nombreux humains : *présumer que la réalité est soit matérielle, soit spirituelle, et non les deux*. Le matérialiste athée et l’idéaliste spirituel sont capables de voir au mieux la *moitié* de la réalité et manquent de *profondeur de reconnaissance*, ou de *perspective*. Si la philosophie pouvait se résumer en quelques mots, ce serait : *l’amélioration de notre relation avec une perspective sur la réalité*. 
+Le paragraphe suivant dans « <a id="a92_29"></a>[Discourse on Reality”](/fr/The_Urantia_Book/130#p4) » contient une phrase qui est également en corrélation avec ce qui se trouve dans *Creative Personality* de Flewelling. Il utilise la métaphore de la *vue* pour illustrer une pensée, aidant ainsi à transmettre cette idée. Les révélateurs ont utilisé des sources humaines pour aider à la compréhension des idées révélatrices, des *idées* qui ont été reconnues et réalisées par ces auteurs humains ![](Aspose.Words.67d7acac-4bbd-49ae-b7a7-7b8ad288f9ab.012.jpeg). L'image d'une « personne borgne* » est particulièrement graphique et aide à exprimer une erreur fondamentale commise par de nombreux humains : *présumer que la réalité est soit matérielle, soit spirituelle, et non les deux*. Le matérialiste athée et l’idéaliste spirituel sont capables de voir au mieux la *moitié* de la réalité et manquent de *profondeur de reconnaissance*, ou de *perspective*. Si la philosophie pouvait se résumer en quelques mots, ce serait : *l’amélioration de notre relation avec une perspective sur la réalité*. 
 
-Après avoir jeté les bases dans le deuxième paragraphe sur la nature de la réalité, les révélateurs donnent maintenant une idée de l’importance de nos hypothèses philosophiques et de la façon dont nos préjugés peuvent nous laisser myopes ou myopes dans notre propre recherche et découverte de la réalité. En Inde, le mot désignant un philosophe authentique est le mot sanskrit *Rishi*, un « voyant », celui qui voit ! 
+Après avoir jeté les bases dans le deuxième paragraphe sur la nature de la réalité, les révélateurs donnent maintenant une idée de l’importance de nos hypothèses philosophiques et de la façon dont nos préjugés peuvent nous laisser myopes ou myopes dans notre propre recherche et découverte de la réalité. En Inde, le mot désignant un philosophe authentique est le mot sanskrit *Rishi*, un « voyant », celui qui voit ! 
 
 Très puissamment, les révélateurs révèlent que les *vraies valeurs* ne sont pas accessibles sans une *profondeur de reconnaissance* expérientielle. Une telle profondeur n'est possible qu’à la personne qui a véritablement confirmé et affirmé dans son expérience personnelle les dimensions primaires de la réalité : l’esprit, le mental et la matière, coordonnés par la personnalité. Une lecture de Flewelling améliore l’appréciation des paroles du révélateur : « il n'y a pas de véritable excuse… pourquoi nous ne devrions pas maintenant nous efforcer de regarder notre monde carrément (honnêtement) et d'admettre les réalités qui nous sont les plus précieuses, sans essayer constamment de plisser les yeux. la moitié de notre monde hors de l’angle de vision. [CP59] 
 
@@ -208,13 +208,13 @@ Pourquoi la conscience de soi est-elle si importante ? La réponse réside en pa
 
 > **(HS)** « **La connaissance se limite à la démonstration scientifique** et ne couvre donc qu’une partie des besoins pratiques. La vérité est un terme plus complet et ne devrait pas se limiter à la connaissance. » [CP118] 
 
-> « Nous devrions peut-être, par une sorte de consensus commun, utiliser le terme **connaissance pour désigner la démonstration de la science**, tandis que la vérité pourrait être considérée comme le terme le plus large et le plus complet, non limité à la seule démonstration scientifique mais applicable. ainsi qu’aux valeurs humaines. [CP119] 
+> « Nous devrions peut-être, par une sorte de consensus commun, utiliser le terme **connaissance pour désigner la démonstration de la science**, tandis que la vérité pourrait être considérée comme le terme le plus large et le plus complet, non limité à la seule démonstration scientifique mais applicable. ainsi qu’aux valeurs humaines. [CP119] 
 
 > « L'existence de Dieu, bien que rationnellement justifiée, n'est pas scientifiquement démontrable. **Dieu n'est connu qu’à travers un acte d'expérience**, un acte de foi, un acte de religion. [CP84] 
 
-> « **La connaissance devient alors une possession pratique** dont la valeur se mesure en grande partie par son caractère pratique ou par la compréhension qu’elle donne de **la nature de l’ordre général**. » [CP122] 
+> « **La connaissance devient alors une possession pratique** dont la valeur se mesure en grande partie par son caractère pratique ou par la compréhension qu’elle donne de **la nature de l’ordre général**. » [CP122] 
 
-> « **La vérité a deux yeux pour discerner le monde, l’œil de la science et l’œil de la philosophie.** Dans la recherche du sens, celui qui s'efforcera de s'entendre avec l’un d'eux sera comme un oiseau de basse-cour avec un seul œil qui, dans sa tentative de voir, se balance simplement en cercle. Que savons-nous? Au mieux, seulement la séquence des phénomènes. Lorsque nous allons plus loin, cela doit être du *monde de la connaissance* au *monde plus vaste des valeurs* ; du monde de la science au monde de la vérité. [CP123] 
+> « **La vérité a deux yeux pour discerner le monde, l’œil de la science et l’œil de la philosophie.** Dans la recherche du sens, celui qui s'efforcera de s'entendre avec l’un d'eux sera comme un oiseau de basse-cour avec un seul œil qui, dans sa tentative de voir, se balance simplement en cercle. Que savons-nous? Au mieux, seulement la séquence des phénomènes. Lorsque nous allons plus loin, cela doit être du *monde de la connaissance* au *monde plus vaste des valeurs* ; du monde de la science au monde de la vérité. [CP123] 
 
 \*\*\* 
 
@@ -262,7 +262,7 @@ La méthodologie de la raison donne naissance au domaine croissant de la connais
 
 > **(HS)** « Ce **poids mort des concepts statiques** est la charge retardatrice qui nous empêche d'atteindre des perspectives plus larges de vérité dans tous les domaines. Il allume les flammes des martyrs dans les avancées durement combattues de la compréhension politique, sociale et religieuse. [CP 166-167] 
 
-> « **Ce concept de relativité**, aussi fascinant soit-il, n'a pas le pouvoir de constituer une hypothèse unique et non étayée. L’univers étant un système complexe de relations en constante évolution, il doit y avoir une coordination complète. **Une coordination complète dans un tel système est inexplicable et même impensable sauf dans la supposition d'une Intelligence Cosmique directive**. [CP167] 
+> « **Ce concept de relativité**, aussi fascinant soit-il, n'a pas le pouvoir de constituer une hypothèse unique et non étayée. L’univers étant un système complexe de relations en constante évolution, il doit y avoir une coordination complète. **Une coordination complète dans un tel système est inexplicable et même impensable sauf dans la supposition d'une Intelligence Cosmique directive**. [CP167] 
 
 \*\*\* 
 
@@ -271,13 +271,13 @@ La méthodologie de la raison donne naissance au domaine croissant de la connais
 <figcaption><em>Shutterstock 896440 </em> </figcaption>
 </figure>
 
-**(C)** Ainsi, nous arrivons à la fin du « Discours sur la réalité » de Jésus, paraphrasé, suggérant que toutes choses, toutes significations et toutes valeurs renvoient à une Intelligence Cosmique qui donne naissance au sublime. manière dont les faits, les significations et les valeurs sont coordonnés et interdépendants. Flewelling comprend à juste titre l’univers comme un système complexe de relations et de relations, au sein duquel il existe une partialité de perspective [cf. « *maintenant nous voyons à travers un verre d'une manière sombre* » (1 Cor. 13 : 12)], exigeant l’intégrité dans les relations qui sont soutenues par les valeurs universelles, et pas seulement une opinion subjective. Notre époque de scepticisme, de relativisme et de cynisme est une époque de conséquences tragiques dues au manque de volonté ou à l’ignorance de beaucoup concernant le souci intime du Créateur Infini et Éternel pour la Création et le désir ardent du Créateur de communion personnelle avec ses créatures. 
+**(C)** Ainsi, nous arrivons à la fin du « Discours sur la réalité » de Jésus, paraphrasé, suggérant que toutes choses, toutes significations et toutes valeurs renvoient à une Intelligence Cosmique qui donne naissance au sublime. manière dont les faits, les significations et les valeurs sont coordonnés et interdépendants. Flewelling comprend à juste titre l’univers comme un système complexe de relations et de relations, au sein duquel il existe une partialité de perspective [cf. « *maintenant nous voyons à travers un verre d'une manière sombre* » (1 Cor. 13 : 12)], exigeant l’intégrité dans les relations qui sont soutenues par les valeurs universelles, et pas seulement une opinion subjective. Notre époque de scepticisme, de relativisme et de cynisme est une époque de conséquences tragiques dues au manque de volonté ou à l’ignorance de beaucoup concernant le souci intime du Créateur Infini et Éternel pour la Création et le désir ardent du Créateur de communion personnelle avec ses créatures. 
 
 Dans cette communion réside une prise de conscience nouvelle et croissante de la relation entre le fait et la valeur, entre la raison et la foi, entre la causalité et le culte. Chacun de nous a reçu l’équipement cognitif nécessaire pour discerner la nature de la réalité et se mettre en relation. L’hypothèse selon laquelle nous vivons dans un univers dénué de sens est le résultat d’une réflexion unilatérale et myope. La prise de conscience que nous vivons dans un univers convivial permet de reconnaître humblement les limites de notre propre point de vue, que nous avons besoin du point de vue de chacun et d’une gratitude croissante pour la croissance du sens et de la valeur de notre expérience personnelle. 
 
 Le grand mystère de l’existence est de savoir comment Dieu, en qui nous bougeons, vivons et avons notre être, s’étend à travers l’éternité et l’infini vers chaque personne avec la promesse et l’expérience de l’amour inconditionnel. Bien plus qu’une simple pensée, un objet ou un être, Dieu est vécu à travers notre aspiration sincère comme la profondeur de notre expérience spirituelle personnelle subjective et la hauteur de notre conscience objective de la réalité ! 
 
-> *« Toute philosophie doit être testée par sa définition de la réalité. »* 
+> *« Toute philosophie doit être testée par sa définition de la réalité. »* 
 > - Ralph Tyler Flewelling 
 
 <figure id="Figure_7" class="image urantiapedia">
@@ -302,7 +302,7 @@ Le grand mystère de l’existence est de savoir comment Dieu, en qui nous bouge
       <tr>
         <td>
         <a href="/fr/article/Gard_Jameson/Sources_of_Revelatory_Insight_A_Meditation_on_Human_Sources">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sources de perspicacité révélatrice : une méditation sur les « sources humaines »</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sources de perspicacité révélatrice : une méditation sur les « sources humaines »</span>
         </a>
         </td>
         <td>

@@ -37,7 +37,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2023_10/022.jpg">
 </figure>
 
-_Par Carolyn_ « _Carrie_ » _Prentice, Colorado, États-Unis_
+_Par Carolyn_ « _Carrie_ » _Prentice, Colorado, États-Unis_
 
 _Note de la rédaction : Le premier Parlement des religions du monde s'est tenu pendant l'Exposition universelle de 1893 à Chicago. Il a été accueilli par les swedenborgiens, dont la théologie et la vision étaient suffisamment inclusives pour rassembler les religions du monde — de l'Est à l'Ouest — afin qu'elles dialoguent entre elles pour la première fois dans l'histoire._
 
@@ -59,7 +59,7 @@ Comme les années précédentes, la responsabilité du stand double était parta
 
 Le thème général du PRM — Un Appel à la Conscience : Défendre la Liberté et les Droits de l’Homme — a abordé de nombreuses questions cruciales auxquelles le monde est confronté aujourd'hui, notamment le changement climatique et l'environnement, la reconnaissance des cultures indigènes, l'émancipation des femmes, le Divin Féminin, la diversité et la répartition inégale des richesses et des ressources. Fondée sur la reconnaissance de l'ensemble de la famille humaine, la PRM s'est concentrée sur l'inclusion et la contemplation du Divin.
 
-Comme Jerry l’exprima après son retour, « Le Parlement des Religions du Monde fait ce que _le Livre d'Urantia_ nous dit que nous devrions faire, » c'est-à-dire communiquer que les vérités fondamentales de toutes les religions sont précisément la vérité, la beauté et la bonté que les révélateurs nous exhortent à apprécier.
+Comme Jerry l’exprima après son retour, « Le Parlement des Religions du Monde fait ce que _le Livre d'Urantia_ nous dit que nous devrions faire, » c'est-à-dire communiquer que les vérités fondamentales de toutes les religions sont précisément la vérité, la beauté et la bonté que les révélateurs nous exhortent à apprécier.
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">

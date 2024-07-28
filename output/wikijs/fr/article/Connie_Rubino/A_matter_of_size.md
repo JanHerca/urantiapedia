@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Un enfant possède une qualité semblable à celle d’une feuille de papier vierge sur laquelle chaque passant écrit quelque chose. Parfois, en tant qu’adultes, nous ne réalisons pas à quel point nous pouvons avoir et avons eu une grande influence.
 
-Jésus, en s'adressant à Jean-Marc, a expliqué que « _Toute la vie ultérieure d’un être humain est immensément influencée par tout ce qui se passe pendant les premières années de l’existence._ » (<a id="a36_195"></a>[LU 177:2.5](/fr/The_Urantia_Book/177#p2_5)) Quels effets dévastateurs peuvent et sont survenus au cours de ces premières années. , s'ils sont marqués par des impressions négatives, qui sont principalement causées par des enfants adultes et maltraités.
+Jésus, en s'adressant à Jean-Marc, a expliqué que « _Toute la vie ultérieure d’un être humain est immensément influencée par tout ce qui se passe pendant les premières années de l’existence._ » (<a id="a36_195"></a>[LU 177:2.5](/fr/The_Urantia_Book/177#p2_5)) Quels effets dévastateurs peuvent et sont survenus au cours de ces premières années. , s'ils sont marqués par des impressions négatives, qui sont principalement causées par des enfants adultes et maltraités.
 
 Au cours de ce que la plupart des parents considèrent comme une routine quotidienne à la maison ou à l'extérieur, l'inconscience se produit à maintes reprises. La situation est celle dans laquelle un enfant pose une question sincère à un parent, un grand-parent ou une connaissance adulte et reçoit une réponse qui amène à se demander si cet adulte a déjà considéré le fait qu'un enfant est aussi un être humain, avec un esprit curieux. et un cœur ouvert et confiant.
 

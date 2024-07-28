@@ -35,7 +35,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 Nous sommes heureux d’annoncer que la traduction tchèque du _Livre d’Urantia_ est disponible maintenant en ligne à [https://www.urantia.org/cs](https://www.urantia.org/cs)
 
-Nous aimerions entendre votre ressenti sur ce travail. Aidez, s’il vous plaît, à en parler aux lecteurs que vous connaissez, encouragez les à visiter le site et à envoyer tout commentaire à Tamara Strumfeld à [tamara@urantia.org](mailto:tamara@urantia.org). Merci !
+Nous aimerions entendre votre ressenti sur ce travail. Aidez, s’il vous plaît, à en parler aux lecteurs que vous connaissez, encouragez les à visiter le site et à envoyer tout commentaire à Tamara Strumfeld à [tamara@urantia.org](mailto:tamara@urantia.org). Merci !
 
 ## Les lecteurs d’Amérique Latine ont demandé de l’aide et vous avez répondu !
 
@@ -43,11 +43,11 @@ Nous aimerions entendre votre ressenti sur ce travail. Aidez, s’il vous plaît
 <img src="/image/article/UF_News_Online/2019_12/003.jpg">
 </figure>
 
-Au mois d’août dernier, nous avons demandé aux lecteurs d’aider la communauté des lecteurs d’Amérique Latine, en parrainant des stands aux salons du livre. La réponse fut réconfortante et généreuse ! Nous sommes heureux d’annoncer que l’objectif de $12,000 a été atteint le 30 septembre.
+Au mois d’août dernier, nous avons demandé aux lecteurs d’aider la communauté des lecteurs d’Amérique Latine, en parrainant des stands aux salons du livre. La réponse fut réconfortante et généreuse ! Nous sommes heureux d’annoncer que l’objectif de $12,000 a été atteint le 30 septembre.
 
 Les trustees de la Fondation Urantia vous remercient de votre soutien aux communautés locales d’Amérique Latine des lecteurs du Livre d’Urantia, qui répandent la Révélation Urantia.
 
-« Allez, dans le monde entier, proclamer cet évangile à toutes les nations, à chaque homme, à chaque femme et à chaque enfant. » Jésus, _Le Livre d’Urantia_, <a id="a49_158"></a>[LU 165:6.3](/fr/The_Urantia_Book/165#p6_3)
+« Allez, dans le monde entier, proclamer cet évangile à toutes les nations, à chaque homme, à chaque femme et à chaque enfant. » Jésus, _Le Livre d’Urantia_, <a id="a49_158"></a>[LU 165:6.3](/fr/The_Urantia_Book/165#p6_3)
 
 <br style="clear:both;"/>
 

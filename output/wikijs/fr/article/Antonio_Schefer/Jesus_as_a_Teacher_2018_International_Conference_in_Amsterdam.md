@@ -42,7 +42,7 @@ _Par Antonio Schefer, président des conférences internationales de l’Associa
 
 L’Association Urantia Internationale (AUI) a tenu sa première conférence internationale à Nashville, Tennessee, en 1997. Depuis, il y en a eu neuf de plus. Nous avons voyagé en Amérique du Nord, en Europe, en Australie et en Amérique Latine pour en apprendre plus sur _Le Livre d’Urantia_ et pour fraterniser avec des amis et des compagnons étudiants du monde entier.
 
-Du 12 au 15 avril 2018, l’Association Urantia Néerlandaise (UAISUN) de l’AUI reçut la Conférence Internationale 2018, sur le thème : « Jésus comme enseignant. » Elle se tint au Centre de Conférence NH-Leeuwenhorst à Noordwijkerhout, une petite ville non loin d’Amsterdam, la capitale des Pays-Bas.
+Du 12 au 15 avril 2018, l’Association Urantia Néerlandaise (UAISUN) de l’AUI reçut la Conférence Internationale 2018, sur le thème : « Jésus comme enseignant. » Elle se tint au Centre de Conférence NH-Leeuwenhorst à Noordwijkerhout, une petite ville non loin d’Amsterdam, la capitale des Pays-Bas.
 
 Lorsque nous avons demandé à Jaap Terra (le président de UAISUN), et son équipe en 2015 de prendre la grande responsabilité d’organiser l’événement de 2018, cela ne leur prit pas longtemps pour faire une proposition formelle afin d’organiser la conférence. Organiser des événements importants comme cela, peut être complexe pour une association, mais Jaap et son équipe n’hésitèrent pas une seconde.
 
@@ -50,7 +50,7 @@ Le jeudi soir, Jaap inaugura officiellement la conférence après la séance d�
 
 Durant les jours suivants, il y eut un mélange intéressant de séances plénières, de séances en groupes, d’ateliers, de séances de méditation, d’excellentes prestations musicales et de nombreuses occasions de cultiver des amitiés avec des étudiants du Livre d’Urantia. Tout ceci prit place dans un très beau cadre près des incroyables champs de fleurs pour lesquels la région est connue dans le monde entier.
 
-La plupart des séances plénières duraient quinze minutes et servaient d’introduction naturelle aux petites séances de groupe comprenant les mêmes personnes durant toute la conférence. Les séances furent bien acceptées et beaucoup parlèrent des avantages d’avoir des réunions répétées avec le même groupe restreint. Cela vaudra la peine de le refaire pour les futures conférences. Le comité du programme travailla dur pour créer ces petits groupes et pour mélanger les étudiants ensemble. Ce n’était pas facile ; il y avait de nombreux critères à prendre en compte pour réaliser des groupes idéalement équilibré.
+La plupart des séances plénières duraient quinze minutes et servaient d’introduction naturelle aux petites séances de groupe comprenant les mêmes personnes durant toute la conférence. Les séances furent bien acceptées et beaucoup parlèrent des avantages d’avoir des réunions répétées avec le même groupe restreint. Cela vaudra la peine de le refaire pour les futures conférences. Le comité du programme travailla dur pour créer ces petits groupes et pour mélanger les étudiants ensemble. Ce n’était pas facile ; il y avait de nombreux critères à prendre en compte pour réaliser des groupes idéalement équilibré.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2018_07/052.jpg">
@@ -62,11 +62,11 @@ La plupart des séances plénières duraient quinze minutes et servaient d’int
 <figcaption><em>Pato Banton, Antoinette Rootsdawtah</em></figcaption>
 </figure>
 
-Le concert du vendredi soir fut unique. Iris Kroes donna un récital de harpe, accompagnée par une amie au piano. Nous avons vraiment aimé ! Écouter la musique de l’instrument du Maître, nous donna une meilleure compréhension de pourquoi il en jouait lorsqu’il était sur Urantia.
+Le concert du vendredi soir fut unique. Iris Kroes donna un récital de harpe, accompagnée par une amie au piano. Nous avons vraiment aimé ! Écouter la musique de l’instrument du Maître, nous donna une meilleure compréhension de pourquoi il en jouait lorsqu’il était sur Urantia.
 
 Les animateurs ont fait un travail incroyable, partageant de la musique originale pendant leur concert, le samedi soir et le public s’amusa vraiment en dansant. Pendant toute la conférence, James Woodward, notre DJ, fournit la musique d’ambiance, la plupart du temps provenant des artistes urantiens (certains célèbres).
 
-Il y avait 177 personnes de vingt-trois pays et à la fin de la conférence, le dimanche après-midi, il était difficile de se quitter. Heureusement, il y eut aussi des activités d’après-conférence : un tour de la capitale, incluant un tour en bateau sur les canaux d’Amsterdam pour voir et connaître l’histoire de la capitale des Pays-Bas, tout ceci organisé par les Jeunes Adultes Urantia International (UYAI).
+Il y avait 177 personnes de vingt-trois pays et à la fin de la conférence, le dimanche après-midi, il était difficile de se quitter. Heureusement, il y eut aussi des activités d’après-conférence : un tour de la capitale, incluant un tour en bateau sur les canaux d’Amsterdam pour voir et connaître l’histoire de la capitale des Pays-Bas, tout ceci organisé par les Jeunes Adultes Urantia International (UYAI).
 
 Le lendemain, le lundi, fut le début des trois jours officiels de l’après-conférence, avec un tour en bus des différentes villes historiques, comme Volendam, Henkhuizen, Édam et l’île de Texel. Tout le monde apprécia l’aspect social et touristique de ce supplément de programme.
 
@@ -76,7 +76,7 @@ Nous n’avions pas vu une si grande participation en Europe depuis 2002 à la C
 
 J’ai le même espoir pour notre prochaine Conférence Internationale qui se tiendra à Urubamba, près de Cusco au Pérou. Ce sera la deuxième fois que nous irons en Amérique Latine. Pour avoir une autre conférence réussie, nous avons besoin de votre soutien financier, l’Amérique Latine est florissante vous pouvez donner à la révélation un coup de pouce en soutenant notre prochaine conférence, là-bas. Nous voulons une participation des six continents et spécialement de l’Amérique Latine. Et pour cela votre aide financière est nécessaire. Nous avons aussi besoin de parrainage pour les coûts de la conférence, comme ceux de traduction, de transport et le paiement du site en lui-même. Pensez, s’il vous plaît, à faire un don. Pour toute information, envoyez un mail au bureau central administratif, à Margaret Slater Thomas, à [centraloffice@urantia-association.org](mailto:centraloffice@urantia-association.org).
 
-Je voudrais remercier les sponsors qui ont permis de réaliser la Conférence Internationale 2018. Un grand merci à la Fondation Urantia et à Truthbook. Je voudrais aussi remercier tous ceux qui firent un don à l’Association Urantia Néerlandaise. Votre soutien était nécessaire et apprécié ! Pour terminer, je remercie tous ceux qui vinrent aux Pays-Bas. Nous avons vraiment apprécié votre venue et espérons vous revoir au Pérou, en 2021 !
+Je voudrais remercier les sponsors qui ont permis de réaliser la Conférence Internationale 2018. Un grand merci à la Fondation Urantia et à Truthbook. Je voudrais aussi remercier tous ceux qui firent un don à l’Association Urantia Néerlandaise. Votre soutien était nécessaire et apprécié ! Pour terminer, je remercie tous ceux qui vinrent aux Pays-Bas. Nous avons vraiment apprécié votre venue et espérons vous revoir au Pérou, en 2021 !
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2018_07/058.jpg">

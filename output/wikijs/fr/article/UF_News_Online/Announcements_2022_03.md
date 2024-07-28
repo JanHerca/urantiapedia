@@ -32,7 +32,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 ## La Fondation Urantia présente le Symposium de la Science III
 
-### « La Science : L’Interface de l’Évolution et de la Révélation »
+### « La Science : L’Interface de l’Évolution et de la Révélation »
 
 **Du jeudi 16 juin au samedi 18 juin inclus**
 
@@ -57,7 +57,7 @@ Une annonce détaillée avec des liens et un programme vous sera envoyé par mai
 
 Présente
 
-**Machiventa Melchizedek : Préserver la Vérité et Éclairer la Voie pour les Révélations Futures**
+**Machiventa Melchizedek : Préserver la Vérité et Éclairer la Voie pour les Révélations Futures**
 
 **Du jeudi 21 au dimanche 24 juillet**
 
@@ -65,11 +65,11 @@ Oak Brook Hills Resort et Centre de Conférence
 
 3500 Midwest Rd, Oak Brook, Illinois
 
-Rejoignez-nous à cette réunion pour en apprendre sur  « l’un des plus extraordinaires personnages qui aient jamais été liés à l’histoire d’Urantia ». 93:10.11 (1026.1)
+Rejoignez-nous à cette réunion pour en apprendre sur  « l’un des plus extraordinaires personnages qui aient jamais été liés à l’histoire d’Urantia ». 93:10.11 (1026.1)
 
-Il y a 4000 ans lorsque Machiventa Melchizedek « se personnalisa » héroïquement sur terre dans une période critique, quand la vérité révélée était sur le point de s’éteindre.
+Il y a 4000 ans lorsque Machiventa Melchizedek « se personnalisa » héroïquement sur terre dans une période critique, quand la vérité révélée était sur le point de s’éteindre.
 
-Venez étudier, adorer, et fraterniser avec nous pour nous pencher sur les nombreuses caractéristiques de la troisième révélation d’époque et célébrer le 4000 anniversaire de l’effusion de Machiventa Melchizedek sur notre planète !
+Venez étudier, adorer, et fraterniser avec nous pour nous pencher sur les nombreuses caractéristiques de la troisième révélation d’époque et célébrer le 4000 anniversaire de l’effusion de Machiventa Melchizedek sur notre planète !
 
 Pour plus d’informations, visitez [urantiabook.org](https://urantiabook.org/) ou envoyez un mail à [fellowship@urantiabook.org](mailto:fellowship@urantiabook.org).
 

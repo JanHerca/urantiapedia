@@ -52,7 +52,7 @@ dimanche 27 septembre 2020
 
 Les participants intéressés à suivre le cours en ligne de 12 semaines doivent assister à la séance d'orientation (ou en regarder un enregistrement) avant d'être admis au cours.
 
-Apprenez-en davantage et inscrivez-vous à la séance d’orientation du projet Progress :
+Apprenez-en davantage et inscrivez-vous à la séance d’orientation du projet Progress :
 
 https://urantiauniversity.org/page-1804225 
 
@@ -65,7 +65,7 @@ Le but du **Cours Progress Project** est d'approfondir nos relations personnelle
 Les jeudis 24 septembre - 3 décembre 2020
 Dix cours Zoom en ligne hebdomadaires
 
-Apprenez-en davantage et inscrivez-vous au **_Cours pour nouveaux lecteurs du Livre d'Urantia_** :
+Apprenez-en davantage et inscrivez-vous au **_Cours pour nouveaux lecteurs du Livre d'Urantia_** :
 
 https://urantiauniversity.org/page-1804203
 
@@ -81,7 +81,7 @@ L'Institut de l’Université Urantia (UUI) a développé un **Cours pour nouvea
 
 Hebdomadairement les dimanches, du 27 septembre au 29 novembre 2020
 
-Apprenez-en davantage et inscrivez-vous sur **Un mode de vie dans la famille de Dieu** :
+Apprenez-en davantage et inscrivez-vous sur **Un mode de vie dans la famille de Dieu** :
 
 https://urantiauniversity.org/page-1804213
 
@@ -101,7 +101,7 @@ La Formation Spirituelle est un processus par lequel nous clarifions, organisons
 
 Nous vous invitons au Café UUI en ligne - ouvert six jours par semaine à des heures différentes - où nos frères et sœurs spirituels peuvent se retrouver et avoir des conversations enrichissantes basées sur la sagesse des enseignements d'Urantia et les grandes traditions spirituelles du monde.
 
-Apprenez-en davantage au **UUI Café** :
+Apprenez-en davantage au **UUI Café** :
 
 https://urantiauniversity.org/page-1804221
 

@@ -75,7 +75,7 @@ Et en Galilée, dans son apparition morontielle, Jésus, en s'adressant aux deux
 
 Les jumeaux Alphée « ont vécu et sont morts conscients d’avoir été honorés et bénis de quatre années d’association étroite et personnelle avec un Fils de Dieu, le souverain créateur d’un univers ». (<a id="a75_199"></a>[LU 139:10.11](/fr/The_Urantia_Book/139#p10_11))
 
-> Le test spirituel de grandeur est le suivant :
+> Le test spirituel de grandeur est le suivant :
 > 
 >  la mesure réelle de la grandeur planétaire, c’est la qualité de générosité révélée dans le travail désintéressé pour le bienêtre des compagnons terrestres
 > (<a id="a80_3"></a>[LU 28:6.20](/fr/The_Urantia_Book/28#p6_20))

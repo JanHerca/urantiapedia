@@ -42,7 +42,7 @@ _Par Olga López, Trustee associé, Barcelone, Espagne_
 
 Les lecteurs espagnols du _Livre d’Urantia_se sont réunis dans la magnifique ville de Séville, le weekend du 11 mai. Il faisait exceptionnellement beau, en Espagne, pour cette période de l’année, mais cela ne nous empêcha pas d’apprécier la fraternité et la bonne humeur.
 
-Notre réunion débuta le vendredi après-midi avec trois discours donnés par Eduardo Altuzarra, Mariano Pérez et moi. Notre but était de partager ce que nous avions appris au Symposium de leadership de l’AUI, qui se tint en juillet dernier, à Techny Towers, Chicago, États-Unis, et de combiner notre expérience en tant que membres du conseil d’administration de l’association espagnole de l’Association Urantia Internationale ( AUI ).
+Notre réunion débuta le vendredi après-midi avec trois discours donnés par Eduardo Altuzarra, Mariano Pérez et moi. Notre but était de partager ce que nous avions appris au Symposium de leadership de l’AUI, qui se tint en juillet dernier, à Techny Towers, Chicago, États-Unis, et de combiner notre expérience en tant que membres du conseil d’administration de l’association espagnole de l’Association Urantia Internationale ( AUI ).
 
 Cette réunion était spéciale pour plusieurs raisons. Premièrement, elle se tenait à Séville, l’endroit où naquit le mouvement Urantia en Espagne. Deuxièmement, nous avons eu le plaisir de recevoir plusieurs visiteurs internationaux comme Georges Michelson-Dupont, vice- président de la Fondation Urantia, Irmeli Ivalo-Sjölie, ancien Trustee associé, Rogério Reis da Silva et sa femme Cleci Lourdes Moraes Mattos du Portugal, Jean Duveau de France et Werner Sutter de Vancouver, Canada. Et troisièmement, nous avons été témoin de la formation d’un nouveau conseil d’administration national de l’AUI.
 
@@ -50,7 +50,7 @@ Cette réunion me donna l’occasion de réfléchir sur ce qui s’était passé
 
 Nous avons commencé par créer un site web pour notre association de façon à pouvoir toucher plus de lecteurs espagnols. Doucement mais sûrement et grâce à l’internet, notre base de données des lecteurs s’est accrue, nous avons trouvé des dirigeants potentiels et nous avons commencé à joindre d’autres lecteurs à travers le monde. Par ces contacts, nous avons appris de lecteurs plus expérimentés comment construire une association forte et durable.
 
-Petit à petit, nous avons atteint presque tous nos objectifs. Nous avons légalisé notre association en accord avec les lois espagnoles ; nous avons terminé le site web avec beaucoup d’ouvrages secondaires et d’aides à l’étude en espagnol ; nous avons doublé le nombre de nos membres ; nous avons eu des réunions chaque année ; nous avons donné des présentations sur _Le Livre d’Urantia_ dans de nombreuses grandes villes et nous avons encouragé la formation de plus de groupes d’étude. En ce moment, il y a dix groupes d’étude en Espagne.
+Petit à petit, nous avons atteint presque tous nos objectifs. Nous avons légalisé notre association en accord avec les lois espagnoles ; nous avons terminé le site web avec beaucoup d’ouvrages secondaires et d’aides à l’étude en espagnol ; nous avons doublé le nombre de nos membres ; nous avons eu des réunions chaque année ; nous avons donné des présentations sur _Le Livre d’Urantia_ dans de nombreuses grandes villes et nous avons encouragé la formation de plus de groupes d’étude. En ce moment, il y a dix groupes d’étude en Espagne.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2012_06/012.jpg">
@@ -64,13 +64,13 @@ Petit à petit, nous avons atteint presque tous nos objectifs. Nous avons légal
 
 Ce qui me fait le plus plaisir, est que nous soyons très connus dans le mouvement Urantia, grâce en grande partie à la conférence internationale qui se tint en Espagne en 2009.
 
-Il y a une vieille chanson espagnole qui dit « dos españoles, tres opiniones » ( deux espagnols, trois opinions ), signifiant qu’il est très difficile pour deux espagnols d’être d’accord sur quelque chose. Mais les lecteurs espagnols bénéficient d’une unité d’objectif et tous les dirigeants en Espagne sont très conscients des défis futurs et veulent les affronter d’une manière efficace et aimante.
+Il y a une vieille chanson espagnole qui dit « dos españoles, tres opiniones » ( deux espagnols, trois opinions ), signifiant qu’il est très difficile pour deux espagnols d’être d’accord sur quelque chose. Mais les lecteurs espagnols bénéficient d’une unité d’objectif et tous les dirigeants en Espagne sont très conscients des défis futurs et veulent les affronter d’une manière efficace et aimante.
 
 En ces temps incertains dus à la crise financière en Espagne, je pense que c’est une grande occasion pour faire connaitre les enseignements du _Livre d’Urantia_à nos compagnons espagnols désenchantés et sécularisés. Il se vend plus de Livres d’Urantia en Espagne que partout ailleurs en Europe. Je crois que ce n’est pas une coïncidence et que le temps est mûr, pour faire avancer la dissémination des enseignements, ici.
 
 Cette génération de jeunes adultes en Espagne est la plus instruite et ils souffrent des effets de la crise financière. Donc, je crois que nous devrions nous concentrer sur eux et leur donner de l’espoir pour le futur. Je suis entièrement confiante que le nouveau conseil d’administration national venant d’être élu amènera l’association de l’AUI à un nouveau niveau de travail de dissémination du _Livre__d’Urantia_et de ses enseignements.
 
-Siempre adelante !
+Siempre adelante !
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2012_06/013.jpg">

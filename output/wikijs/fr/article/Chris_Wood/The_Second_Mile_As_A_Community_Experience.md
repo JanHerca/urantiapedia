@@ -68,7 +68,7 @@ Inscrivez-vous en ligne sur : https://www.regonline.com/63367_694721J
 
 Pour plus d'informations, visitez : http://www.myspace.com/urantiaconferencekc
 
-Des questions? Contactez Chris Wood :
+Des questions? Contactez Chris Wood :
 
 cwesquire@hotmail.com
 
@@ -77,7 +77,7 @@ cwesquire@hotmail.com
 <figcaption><em>Mike MacIsaac et Shane C à Boulder, Colorado.</em></figcaption>
 </figure>
 
-> Trois personnes peuvent-elles planifier, organiser et organiser une conférence ?
+> Trois personnes peuvent-elles planifier, organiser et organiser une conférence ?
 
 
 ## Références

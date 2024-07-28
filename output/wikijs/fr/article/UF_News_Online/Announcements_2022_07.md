@@ -35,7 +35,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 La Fondation Urantia à maintenant une page Facebook en hongrois.
 
-Visitez, s’il vous plaît, et « Aimez » la page.
+Visitez, s’il vous plaît, et « Aimez » la page.
 
 Si vous aimez ce que vous voyez, partagez les messages avec vos amis.
 
@@ -53,7 +53,7 @@ Nous sommes ravis d’annoncer que la traduction en arabe est maintenant disponi
 
 Notre équipe arabe aimerait avoir votre ressenti sur ce travail.
 
-Aidez, s’il vous plaît, à passer l’information à tous les lecteurs que vous connaissez, encouragez-les à visiter le site, et à envoyer leur ressenti à [tamara@urantia.org](mailto:tamara@urantia.org). Merci !
+Aidez, s’il vous plaît, à passer l’information à tous les lecteurs que vous connaissez, encouragez-les à visiter le site, et à envoyer leur ressenti à [tamara@urantia.org](mailto:tamara@urantia.org). Merci !
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2022_07/065.jpg">

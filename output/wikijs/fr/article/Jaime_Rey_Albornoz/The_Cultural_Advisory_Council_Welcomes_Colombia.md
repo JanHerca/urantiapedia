@@ -50,7 +50,7 @@ Le pays est divisé en cinq régions naturelles. La région andine, comme vous p
 
 La région de l’Amazone est un tel trésor naturel et culturel qu’elle est considérée comme les poumons de la planète. Bien que ce soit la région la moins peuplée du pays, le tourisme écologique est une attraction majeure, ici. La région des Caraïbes s’étend des régions désertiques jusqu’aux jungles humides dans le Golf d’Uraba. De belles plages et des vallées fluviales créent des paysages spectaculaires.
 
-La région du Pacifique possède des climats variés qui apportent ensemble un univers de flore exotique et d’espèces de faune. Visiter la Colombie du Pacifique est une aventure indescriptible ! La région Orinoquia possède de vastes plaines. Son climat est chaud et l’élevage du bétail est l’activité économique la plus privilégiée. C’est aussi un véritable Éden d’espèces d’oiseaux, d’insectes et de reptiles.
+La région du Pacifique possède des climats variés qui apportent ensemble un univers de flore exotique et d’espèces de faune. Visiter la Colombie du Pacifique est une aventure indescriptible ! La région Orinoquia possède de vastes plaines. Son climat est chaud et l’élevage du bétail est l’activité économique la plus privilégiée. C’est aussi un véritable Éden d’espèces d’oiseaux, d’insectes et de reptiles.
 
 La Colombie est un pays multiculturel avec une histoire riche et bruyante. Le pays grouille de foires, de festivals et de carnavals. Chaque célébration est unique à la région et conjugue des danses, une gastronomie exquise et une hospitalité sincère qui vous supplie de rester.
 

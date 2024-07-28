@@ -43,7 +43,7 @@ Ce n'est pas le contenu qui est difficile mais la forme, car ce n'est pas un dis
 
 La première déclaration, et peut-être la plus instructive, sur la structure subatomique dans l'article est que l'énergie (la matière) est _... façonnée d’après la similitude des trois Dieux fondus en un, tels qu’ils opèrent au siège de l’univers des univers._ [LU 42:1.6](/fr/The_Urantia_Book/42#p1_6). En d’autres termes, chaque particule subatomique, qu’elle soit proton, neutron ou électron, est structurée selon l’ordre des trois cercles concentriques.
 
-La deuxième affirmation plutôt étonnante de l’article est que l’ultimaton est la centième partie de l’électron. Si l’électron est composé de 100 ultimatons, organisés sur l’ordre des trois cercles concentriques, de quelle manière sont-ils répartis ? Combien y a-t-il d’anneaux et combien d’ultimatons y a-t-il dans chaque anneau ?
+La deuxième affirmation plutôt étonnante de l’article est que l’ultimaton est la centième partie de l’électron. Si l’électron est composé de 100 ultimatons, organisés sur l’ordre des trois cercles concentriques, de quelle manière sont-ils répartis ? Combien y a-t-il d’anneaux et combien d’ultimatons y a-t-il dans chaque anneau ?
 
 La logique, le bon sens et la révélation déclarent tous qu'il y a neuf anneaux sur onze, avec un ultimaton au centre, quatre anneaux dans le cercle concentrique extérieur, trois anneaux dans le cercle suivant, deux anneaux dans le cercle intérieur et, bien sûr, le cercle concentrique extérieur. un, que nous sommes censés fournir. (Voir la figure 1.)
 

@@ -35,7 +35,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2021_09/050.jpg">
 </figure>
 
-**« La Science : l’Interface de l’Évolution et de la Révélation »**
+**« La Science : l’Interface de l’Évolution et de la Révélation »**
 
 **Du jeudi 16 au dimanche 19 juin 2022**
 

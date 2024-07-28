@@ -72,7 +72,7 @@ _Samedi: L’Organisation de l’équipe_
 
 Víctor réalisa un excellent travail en sélectionnant les personnes de cette équipe. Il fera un rapport sur les progrès de la révision à notre prochaine réunion du conseil d’administration. Il est dévoué à la réussite de ce projet et fut enthousiaste, constructif et digne de confiance.
 
-L’équipe de la révision espagnole de la Fondation est formée d’individus dévoués, voulant travailler ensemble dans un esprit de fraternité et de coopération. Il est clair pour moi que les qualités humaines et techniques que chaque membre apporte, auront pour résultat, l’accomplissement de ce travail. Leur dévouement, leur engagement et leur désir de servir les communautés espagnoles des deux côtés de l’Atlantique, ont vraiment bien démarré le projet de la révision !
+L’équipe de la révision espagnole de la Fondation est formée d’individus dévoués, voulant travailler ensemble dans un esprit de fraternité et de coopération. Il est clair pour moi que les qualités humaines et techniques que chaque membre apporte, auront pour résultat, l’accomplissement de ce travail. Leur dévouement, leur engagement et leur désir de servir les communautés espagnoles des deux côtés de l’Atlantique, ont vraiment bien démarré le projet de la révision !
 <br style="clear:both;"/>
 
 

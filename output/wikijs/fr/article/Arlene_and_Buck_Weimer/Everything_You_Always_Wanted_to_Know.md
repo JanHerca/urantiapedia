@@ -1,5 +1,5 @@
 ---
-title: "Tout ce que vous avez toujours voulu savoir sur la paix familiale ! (Ha, Ha)"
+title: "Tout ce que vous avez toujours voulu savoir sur la paix familiale ! (Ha, Ha)"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -53,19 +53,19 @@ Pourquoi alors, alors que nous avons toutes ces connaissances sur la façon de v
 
 Développer en soi la volonté de pardonner est peut-être l’aspect le plus important de cette béatitude. Cette volonté de pardonner repose sur la croyance en un univers juste et miséricordieux ; que chacun subit les conséquences de son comportement. Vous n'êtes pas obligé d'être juge, jury ou bourreau.
 
-Cependant, les étapes menant au pardon peuvent être enseignées. Pour votre considération, voici un exemple du processus de pardon :
+Cependant, les étapes menant au pardon peuvent être enseignées. Pour votre considération, voici un exemple du processus de pardon :
 
-Étape \#1 : Déterminez le besoin. Si une expérience passée ou présente suscite en vous un sentiment négatif de quelque nature que ce soit, c’est une bonne indication que ce besoin existe.
+Étape \#1 : Déterminez le besoin. Si une expérience passée ou présente suscite en vous un sentiment négatif de quelque nature que ce soit, c’est une bonne indication que ce besoin existe.
 
-Étape \#2 : Consultez l'historique de cet événement particulier. Jetez un œil aux événements qui ont conduit à ce qui s’est passé et comment cela s’est produit. Soyez le plus objectif possible.
+Étape \#2 : Consultez l'historique de cet événement particulier. Jetez un œil aux événements qui ont conduit à ce qui s’est passé et comment cela s’est produit. Soyez le plus objectif possible.
 
-Étape \#3 : Comprenez le motif. Du mieux que vous pouvez, comprenez pourquoi cette personne a fait ce qu’elle a fait. Beaucoup de gens restent bloqués à cette étape parce qu’ils ne se permettent pas de comprendre. Certains motifs possibles sont : (a) une erreur, le mal ; (b) essayer délibérément de vous faire du mal, pécher ; et (c) provocateur ou insineux, inique.
+Étape \#3 : Comprenez le motif. Du mieux que vous pouvez, comprenez pourquoi cette personne a fait ce qu’elle a fait. Beaucoup de gens restent bloqués à cette étape parce qu’ils ne se permettent pas de comprendre. Certains motifs possibles sont : (a) une erreur, le mal ; (b) essayer délibérément de vous faire du mal, pécher ; et (c) provocateur ou insineux, inique.
 
-Étape \#4 : Voyez-les sous un « nouveau jour ». Ici, nous devons voir cette personne d’une manière différente qu’avant de commencer ce processus. Les étapes 3 et 4 représentent un changement nécessaire pour que cela fonctionne.
+Étape \#4 : Voyez-les sous un « nouveau jour ». Ici, nous devons voir cette personne d’une manière différente qu’avant de commencer ce processus. Les étapes 3 et 4 représentent un changement nécessaire pour que cela fonctionne.
 
-Étape \#5 : Dites quelque chose de positif à propos de cette personne. Tout le monde a de bonnes qualités. Dites une prière ou félicitez leur Ajusteur de Pensée.
+Étape \#5 : Dites quelque chose de positif à propos de cette personne. Tout le monde a de bonnes qualités. Dites une prière ou félicitez leur Ajusteur de Pensée.
 
-Étape \#6 : Divisez l’énergie du pardon vers cette personne. La haine et la colère sont des poisons ; le pardon est une guérison – une auto-guérison.
+Étape \#6 : Divisez l’énergie du pardon vers cette personne. La haine et la colère sont des poisons ; le pardon est une guérison – une auto-guérison.
 
 Vous saurez si vos efforts ont été sincères en vérifiant vos sentiments lorsque vous verrez cette personne.
 ou rappeler l'incident.

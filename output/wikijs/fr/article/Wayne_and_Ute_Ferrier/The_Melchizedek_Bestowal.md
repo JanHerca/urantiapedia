@@ -117,13 +117,13 @@ Jésus s'est appuyé sur l’héritage des enseignements de Melchisédek lorsqu'
 
 ## Bibliographie
 
-- Baez-Camargo, Gonzalo : _Commentaire archéologique sur la Bible_. New York : Doubleday & Co. Inc., 1984 ; p. 15.
+- Baez-Camargo, Gonzalo : _Commentaire archéologique sur la Bible_. New York : Doubleday & Co. Inc., 1984 ; p. 15.
 - _Dictionnaire de l'interprète de la Bible_. Vol. 3. New York : Abingdon Press, 1962.
-- Peake, Harold et Herbert John Fleure : _La loi et les prophètes_. New Haven : Yale University Press, 1936 ; p. 60.
-- Sandmel, Samuel : _La jouissance de l'Écriture : La Loi, Les Prophètes_. New York : Presses universitaires d'Oxford, 1972 ; p. 53.
+- Peake, Harold et Herbert John Fleure : _La loi et les prophètes_. New Haven : Yale University Press, 1936 ; p. 60.
+- Sandmel, Samuel : _La jouissance de l'Écriture : La Loi, Les Prophètes_. New York : Presses universitaires d'Oxford, 1972 ; p. 53.
 - _Le Livre d'Urantia_. Chicago : Fondation Urantia, 1955 ; Article 93. (Pour en savoir plus, consulter les articles 94 à 98.)
 - Vriezen, Th. C. : _La religion de l'ancien Israël_. Philadelphie : Westminster Press, 1967 ; p. 24, 109, 181.
-- Bible : [Gén. 14:18-20](/fr/Bible/Genesis/14#v18) ; [Héb. 5:5-10](/fr/Bible/Hebrews/5#v5); [Héb. 6:20](/fr/Bible/Hébreux/6#v20) ; [Héb. 7 :1-3, 17, 21](/fr/Bible/Hebrews/7#v1) ; [Psaumes 110:4](/fr/Bible/Psaumes/110#v4) ; [Psaumes 76:2](/fr/Bible/Psalms/76#v2).
+- Bible : [Gén. 14:18-20](/fr/Bible/Genesis/14#v18) ; [Héb. 5:5-10](/fr/Bible/Hebrews/5#v5); [Héb. 6:20](/fr/Bible/Hébreux/6#v20) ; [Héb. 7 :1-3, 17, 21](/fr/Bible/Hebrews/7#v1) ; [Psaumes 110:4](/fr/Bible/Psaumes/110#v4) ; [Psaumes 76:2](/fr/Bible/Psalms/76#v2).
 
 
 

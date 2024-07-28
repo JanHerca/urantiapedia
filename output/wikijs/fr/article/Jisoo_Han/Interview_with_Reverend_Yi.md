@@ -45,7 +45,7 @@ Le révérend Yoon Seok Yi est ministre de l’église Way Jesusonian de Séoul,
 
 _Pourriez-vous me parler un peu de l’église ?_
 
-**Tour. Yi :** L'église s'appelle « The Way Jesusonian Family ». Je me réfère au _Livre d'Urantia_ comme « l’Évangile Jésussonien ». Dans le papier 195 du livre, ils parlent de l’avenir du christianisme. Jésus a parlé de la véritable église et il a utilisé un mot spécifique : « Jésus
+**Tour. Yi :** L'église s'appelle « The Way Jesusonian Family ». Je me réfère au _Livre d'Urantia_ comme « l’Évangile Jésussonien ». Dans le papier 195 du livre, ils parlent de l’avenir du christianisme. Jésus a parlé de la véritable église et il a utilisé un mot spécifique : « Jésus
 
 Fraternité ou Jésussonienne." J'interprète ces mots comme la famille de Jésus, ce qui signifie le rassemblement de personnes qui vivent l’Évangile Jésussonien avec foi. Toutes les religions de l’histoire de l’humanité, y compris le christianisme, sont des religions évolutionnaires. La famille Jésusonienne est la communauté. de personnes qui s'efforcent de poursuivre une religion révélatrice. C'est la direction que prend la Famille Jésusonienne. Puisque nous sommes liés par le contexte culturel, en ce moment, l’Église préserve la forme du christianisme, mais nous pouvons changer de forme en cours de route. .
 

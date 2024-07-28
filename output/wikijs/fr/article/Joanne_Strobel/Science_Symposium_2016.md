@@ -48,19 +48,19 @@ Le premier weekend de juin, dix personnes ayant un intérêt de longue date pour
 
 D’après Ralph Zehr, l’impulsion pour ce symposium provient directement du Fascicule 195.
 
-> « Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. » <a id="a50_368"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)
+> « Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. » <a id="a50_368"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)
 
-Ralph en vint à dire, « Il ne peut avoir aucun démenti que notre monde ‘ frémisse maintenant au bord même ’de la plus énorme explosion de données allant à un niveau de découvertes sans pareil. Le redoublement de la vitesse du total de la connaissance mondiale, est estimé maintenant, à moins d’un an ! Et nulle part ailleurs ‘ le courant mondial de naturalisme mécaniste’ n’est plus apparent que dans le monde universitaire.
+Ralph en vint à dire, « Il ne peut avoir aucun démenti que notre monde ‘ frémisse maintenant au bord même ’de la plus énorme explosion de données allant à un niveau de découvertes sans pareil. Le redoublement de la vitesse du total de la connaissance mondiale, est estimé maintenant, à moins d’un an ! Et nulle part ailleurs ‘ le courant mondial de naturalisme mécaniste’ n’est plus apparent que dans le monde universitaire.
 
-> « Nos amis médians superviseurs nous offrent une approche exaltante pour contrebalancer la philosophie matérialiste-mécaniste imprégnant la pensée scientifique des temps modernes. Ils disent qu’ils ont rassemblés plus de cinquante mille faits dans le domaine de la chimie et de la physique et plus de cent mille faits observables en dehors de ces disciplines qui ne laissent aucun doute sur le fait qu’il y ait un plan intelligent et un dessin dirigeant le processus évolutionnaire sur notre planète. Pourrait-il y avoir une raison de nous dire cela, autre que celle de nous exalter à développer la liste nous-mêmes ?
+> « Nos amis médians superviseurs nous offrent une approche exaltante pour contrebalancer la philosophie matérialiste-mécaniste imprégnant la pensée scientifique des temps modernes. Ils disent qu’ils ont rassemblés plus de cinquante mille faits dans le domaine de la chimie et de la physique et plus de cent mille faits observables en dehors de ces disciplines qui ne laissent aucun doute sur le fait qu’il y ait un plan intelligent et un dessin dirigeant le processus évolutionnaire sur notre planète. Pourrait-il y avoir une raison de nous dire cela, autre que celle de nous exalter à développer la liste nous-mêmes ?
 > 
-> « Cette approche transporte la bataille du scientifique mécaniste dans son propre territoire. Cela contourne complètement, les limitations associées à la soit disant ‘ approche du Dieu des Lacunes ‘. Au contraire, l’approche des médians est pro- active et entièrement basée sur des données positives.
+> « Cette approche transporte la bataille du scientifique mécaniste dans son propre territoire. Cela contourne complètement, les limitations associées à la soit disant ‘ approche du Dieu des Lacunes ‘. Au contraire, l’approche des médians est pro- active et entièrement basée sur des données positives.
 > 
-> « Le Symposium présente l’occasion de discuter sur certains doutes concernant le contenu scientifique du _Livre d’Urantia,_ jugé trop souvent sans importance, désuet ou incorrect. Ce contenu présente, à mon avis, le seul grand obstacle à une plus large acceptation du message de sauveur d’âme par ce « nouvel âge de mental scientifique » ~ _George Park_
+> « Le Symposium présente l’occasion de discuter sur certains doutes concernant le contenu scientifique du _Livre d’Urantia,_ jugé trop souvent sans importance, désuet ou incorrect. Ce contenu présente, à mon avis, le seul grand obstacle à une plus large acceptation du message de sauveur d’âme par ce « nouvel âge de mental scientifique » ~ _George Park_
 
 Acceptant ce challenge, dix personnes ont accepter de présenter des exposés basés sur des sujets de leurs compétences.
 
-> **Aimez-vous la science ? Voudriez-vous regarder le Symposium ?**
+> **Aimez-vous la science ? Voudriez-vous regarder le Symposium ?**
 > 
 > Gaétan Charland a offert généreusement d’enregistrer le symposium en entier. Tous les exposés et les discussions seront disponibles au public en live par USTREAM vidéo sur votre ordinateur, votre tablette ou votre matériel mobile. Les diffusions seront aussi enregistrées pour des visions futures. Le lien est [https://youtu.be/bcIeWUp\_lbI?list=PLHAWeALNK3fCwPl86eMMVWv-JHQFg9FYg](https://youtu.be/bcIeWUp_lbI?list=PLHAWeALNK3fCwPl86eMMVWv-JHQFg9FYg).
 
@@ -71,7 +71,7 @@ Acceptant ce challenge, dix personnes ont accepter de présenter des exposés ba
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2016_03/013.jpg">
-<figcaption><em><b>Gard Jameson</b> Le principe cosmogénétique : comment l'unité, la diversité et l'autopoèse forment l'univers (“The Cosmogenetic Principle: How Unity, Diversity, and Autopoesis Form the Universe”)</em></figcaption>
+<figcaption><em><b>Gard Jameson</b> Le principe cosmogénétique : comment l'unité, la diversité et l'autopoèse forment l'univers (“The Cosmogenetic Principle: How Unity, Diversity, and Autopoesis Form the Universe”)</em></figcaption>
 </figure>
 <br style="clear:both;"/>
 
@@ -82,7 +82,7 @@ Acceptant ce challenge, dix personnes ont accepter de présenter des exposés ba
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2016_03/016.jpg">
-<figcaption><em><b>Bruce Johnson</b> Les sept esprits-mentaux adjoints : une révélation pour une explication scientifique de l'esprit (“The Seven Adjutant Mind-Spirits—a Revelation for a Scientific Explanation of Mind”)</em></figcaption>
+<figcaption><em><b>Bruce Johnson</b> Les sept esprits-mentaux adjoints : une révélation pour une explication scientifique de l'esprit (“The Seven Adjutant Mind-Spirits—a Revelation for a Scientific Explanation of Mind”)</em></figcaption>
 </figure>
 <br style="clear:both;"/>
 
@@ -93,7 +93,7 @@ Acceptant ce challenge, dix personnes ont accepter de présenter des exposés ba
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2016_03/031.jpg">
-<figcaption><em><b>George Park</b> Prouver que la Providence divine est responsable de l'évolution de l'univers : preuve empirique du plan révélé de la création (“Proving Divine Providence Is Responsible for Universe Evolution: Empirical Proof of the Revealed Plane of Creation”)</em></figcaption>
+<figcaption><em><b>George Park</b> Prouver que la Providence divine est responsable de l'évolution de l'univers : preuve empirique du plan révélé de la création (“Proving Divine Providence Is Responsible for Universe Evolution: Empirical Proof of the Revealed Plane of Creation”)</em></figcaption>
 </figure>
 <br style="clear:both;"/>
 
@@ -104,13 +104,13 @@ Acceptant ce challenge, dix personnes ont accepter de présenter des exposés ba
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2016_03/030.jpg">
-<figcaption><em><b>Ralph Zehr</b> Biologie cellulaire moléculaire : comment fonctionnent réellement les nanorobots intracellulaires (“Molecular Cell Biology—How the Intracellular Nano-Robots Actually Work”)</em></figcaption>
+<figcaption><em><b>Ralph Zehr</b> Biologie cellulaire moléculaire : comment fonctionnent réellement les nanorobots intracellulaires (“Molecular Cell Biology—How the Intracellular Nano-Robots Actually Work”)</em></figcaption>
 </figure>
 <br style="clear:both;"/>
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2016_03/023.jpg">
-<figcaption><em><b>Neal Kendall</b> Existe-t-il une planification et une conception intelligentes dans l’univers ? Le matérialisme est-il vrai ? (“Is There Intelligent Planning and Design in the Universe? Is Materialism True?”)</em></figcaption>
+<figcaption><em><b>Neal Kendall</b> Existe-t-il une planification et une conception intelligentes dans l’univers ? Le matérialisme est-il vrai ? (“Is There Intelligent Planning and Design in the Universe? Is Materialism True?”)</em></figcaption>
 </figure>
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">

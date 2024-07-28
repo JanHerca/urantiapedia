@@ -41,9 +41,9 @@ Les livres envoyés pendant cette période comprennent 1191
 
 Livres en anglais, 122 traductions en espagnol, une en français, vingt en allemand, quatre en russe et dix en portugais.
 
-L'effort actuel porte le total historique de notre Pipeline à 11 040 exemplaires du _Livre d'Urantia_ répartis dans quatre-vingt-onze pays à travers le monde. Un grand merci aux merveilleux bénévoles qui font circuler ce flux de livres dans le monde pour nous !
+L'effort actuel porte le total historique de notre Pipeline à 11 040 exemplaires du _Livre d'Urantia_ répartis dans quatre-vingt-onze pays à travers le monde. Un grand merci aux merveilleux bénévoles qui font circuler ce flux de livres dans le monde pour nous !
 
-Nous apprécions profondément les contributions de nos bénévoles et de nos donateurs. Si vous souhaitez contribuer à ce travail, les dons peuvent être effectués en ligne à l’adresse suivante :
+Nous apprécions profondément les contributions de nos bénévoles et de nos donateurs. Si vous souhaitez contribuer à ce travail, les dons peuvent être effectués en ligne à l’adresse suivante :
 
 https://urantiabook.org/donate
 

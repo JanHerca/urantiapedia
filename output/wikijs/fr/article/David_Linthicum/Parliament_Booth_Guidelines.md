@@ -48,19 +48,19 @@ Lorsque vous envisagez de vous porter volontaire pour tenir un stand lors d'un �
 
 Les organisateurs du Parlement ont demandé à tous les exposants de prendre connaissance de leur protocole :  
 
-« Lorsqu’ils interagissent avec des personnes appartenant à des communautés ethniques et/ou religieuses qu’ils ne connaissent pas, les exposants doivent respecter le protocole suivant pour éviter d'offenser qui que ce soit par inadvertance : ne tendez pas la main pour serrer la main d'une personne du sexe opposé - permettez-lui de offrir ou non la main comme bon lui semble ; ne touchez pas les gens; maintenir un espace raisonnable entre vous et la personne ; S'ils détournent les yeux lorsqu’ils vous parlent, ne considérez pas cela comme un signe que quelque chose ne va pas ; si vous représentez un groupe spirituel ou religieux, ne faites pas de prosélytisme et surtout ne dénigrez pas les autres religions - votre rôle est de représenter positivement votre groupe à travers votre comportement, votre présentation et les supports que vous vendez ou distribuez, et de fournir des informations et répondez aux questions de ceux qui sont intéressés.
+« Lorsqu’ils interagissent avec des personnes appartenant à des communautés ethniques et/ou religieuses qu’ils ne connaissent pas, les exposants doivent respecter le protocole suivant pour éviter d'offenser qui que ce soit par inadvertance : ne tendez pas la main pour serrer la main d'une personne du sexe opposé - permettez-lui de offrir ou non la main comme bon lui semble ; ne touchez pas les gens; maintenir un espace raisonnable entre vous et la personne ; S'ils détournent les yeux lorsqu’ils vous parlent, ne considérez pas cela comme un signe que quelque chose ne va pas ; si vous représentez un groupe spirituel ou religieux, ne faites pas de prosélytisme et surtout ne dénigrez pas les autres religions - votre rôle est de représenter positivement votre groupe à travers votre comportement, votre présentation et les supports que vous vendez ou distribuez, et de fournir des informations et répondez aux questions de ceux qui sont intéressés.
 
 ## Les principes directeurs du Parlement 2018
 
 1. Dialogue respectueux : nous parlons avec respect.
-2. Non-prosélytisme : nous n'essayons pas de convertir les autres ni de parler de manière désobligeante d'une quelconque tradition.
+2. Non-prosélytisme : nous n'essayons pas de convertir les autres ni de parler de manière désobligeante d'une quelconque tradition.
 3. Volonté d'explorer une grande variété de sujets : nous incarnons la compassion lorsque nous nous engageons dans des conversations difficiles.
 
 ## Protocole des Organisations Urantia
 
 Nous sommes tous des étudiants du Livre d'Urantia. La Fondation Urantia, l’Association Urantia Internationale, la Urantia Book Fellowship et Truthbook ont convenu que la seule chose dont nous faisons la promotion est le Livre d’Urantia. Nous ne sommes pas ici pour promouvoir nos propres organisations. Notre objectif est de présenter le Livre d'Urantia au public avec un front uni et de nous concentrer simplement sur nos objectifs communs pour la cause supérieure.
 
-**Livres - Prix d'offre et de vente :**
+**Livres - Prix d'offre et de vente :**
 Relié - $15; Paperback - $10
 
 Lorsque vous décidez d'offrir un livre, gardez à l’esprit que l’offre de livres cadeaux est limitée. Si vous sentez que quelqu’un est vraiment intéressé mais n’a pas les moyens d’acheter un livre, alors offrez-lui un livre. Chaque situation sera différente, alors faites preuve de discrétion. En général, il est plus approprié de vendre un livre, les gens ont tendance à accorder plus de valeur aux choses s'ils les paient, mais les livres donnés sont également précieux à des fins d'amorçage. Chaque bénévole doit faire preuve de jugement dans ces situations. Si vous avez envie d'offrir un livre à quelqu’un et que les livres cadeaux sont épuisés, vous payez le prix du livre.
@@ -74,11 +74,11 @@ Les bénévoles sont priés de garder le stand attrayant et soigné pendant leur
 - Les gens apprécient qu’on s'adresse à eux et qu’on leur parle, surtout lorsqu’ils sentent que vous êtes véritablement intéressé par le bien-être de leur âme. La plupart interagiront intelligemment avec vous une fois que vous aurez lancé la conversation.
 - La partie la plus cruciale du fait de se tenir derrière la table est d'être attentif à chaque personne qui passe. Nous DEVONS être plus intéressés par leur bien-être spirituel que par le rattrapage de la vie de nos collègues bénévoles.
 - Nous devons être prêts à interrompre nos conversations personnelles, à nous avancer et à engager la conversation avec les passants.
-- Gardez à l’esprit qu’un environnement d'exposition est un peu écrasant et trop stimulant. Les gens ont les yeux vitreux après avoir passé cinquante stands. Une bonne introduction consiste à dire quelque chose comme « Connaissez-vous le Livre d'Urantia ? »
+- Gardez à l’esprit qu’un environnement d'exposition est un peu écrasant et trop stimulant. Les gens ont les yeux vitreux après avoir passé cinquante stands. Une bonne introduction consiste à dire quelque chose comme « Connaissez-vous le Livre d'Urantia ? »
 - Qu'ils disent oui ou non, renseignez-vous sur leur cheminement spirituel et ce qu’ils recherchent. Leur réponse guide notre réponse.
 - N'oublions pas de ne pas nous prendre trop au sérieux. Faites le nécessaire pour vous préparer, puis allez profiter de votre temps en interaction avec vos frères et sœurs en chair et en os.
 - Portez des vêtements appropriés pour être des ambassadeurs représentatifs du Royaume. Habillez-vous de manière décontractée, propre et soignée. Soyez modéré, modeste, pas criard ; évitez les vêtements qui détourneraient l’attention du message vers votre personne.
-- Démontrez du respect pour la qualité supérieure de la bonne nouvelle que vous partagez. Transmettre l’intentionnalité et la détermination ; évitez les vêtements tels que les shorts ou les pantalons de survêtement qui donnent l’impression que votre participation à l’événement est une réflexion après coup.
+- Démontrez du respect pour la qualité supérieure de la bonne nouvelle que vous partagez. Transmettre l’intentionnalité et la détermination ; évitez les vêtements tels que les shorts ou les pantalons de survêtement qui donnent l’impression que votre participation à l’événement est une réflexion après coup.
 - Choisissez des chaussures confortables.
 - Soyez prêt à rester un peu au-delà de votre quart de travail pour permettre une continuité pendant la transition d'un quart de travail à l’autre.
 - N'oubliez pas d'apporter de l’eau et une collation ou un sac repas pour vous rafraîchir. 
@@ -103,7 +103,7 @@ Pour tous ceux qui souhaitent participer en tant qu’animateurs conjoints du st
 
 https://zoom.us/j/7644783460
 
-Horaire prévu (veuillez noter que toutes les heures sont indiquées dans le fuseau horaire central des États-Unis) :
+Horaire prévu (veuillez noter que toutes les heures sont indiquées dans le fuseau horaire central des États-Unis) :
 - Vendredi 5 octobre à 18h00 (Toutes les heures correspondent au fuseau horaire central)
 - Samedi 6 octobre à midi
 - Samedi 6 octobre à 18h00
@@ -114,15 +114,15 @@ Horaire prévu (veuillez noter que toutes les heures sont indiquées dans le fus
 - Samedi 27 octobre à midi
 - Samedi 27 octobre à 18h00
 
-Ou iPhone en un seul clic :
-États-Unis : +16465588656, 7644783460# ou
+Ou iPhone en un seul clic :
+États-Unis : +16465588656, 7644783460# ou
 +16699006833,,7644783460# 
 
 Ou Téléphone :
-Composer (pour une meilleure qualité, composez un numéro en fonction de votre emplacement actuel) :
-États-Unis : +1 646 558 8656 ou +1 669 900 6833
-Numéro de réunion : 764 478 3460
-Numéros internationaux disponibles : https://zoom.us/u/bffljM0Ak 
+Composer (pour une meilleure qualité, composez un numéro en fonction de votre emplacement actuel) :
+États-Unis : +1 646 558 8656 ou +1 669 900 6833
+Numéro de réunion : 764 478 3460
+Numéros internationaux disponibles : https://zoom.us/u/bffljM0Ak 
 
 ## Liens externes
 

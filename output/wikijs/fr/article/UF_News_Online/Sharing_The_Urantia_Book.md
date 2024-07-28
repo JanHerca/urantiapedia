@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par l’Équipe de Réponses aux Demandes des Prisonniers (PIRT), un programme de l’Association Urantia Internationale_
 
-Note de l’éditeur : Durant les dernières années, les Nouvelles en Ligne ont proposé une série d’articles sur des personnes écrivant sur leur manière de partager _Le Livre d’Urantia_ et ses enseignements avec d’autres. Nous réorientons maintenant nos efforts pour atteindre les groupes, qui partagent collectivement le livre et ses enseignements. Nous espérons que leurs récits vous inspireront !
+Note de l’éditeur : Durant les dernières années, les Nouvelles en Ligne ont proposé une série d’articles sur des personnes écrivant sur leur manière de partager _Le Livre d’Urantia_ et ses enseignements avec d’autres. Nous réorientons maintenant nos efforts pour atteindre les groupes, qui partagent collectivement le livre et ses enseignements. Nous espérons que leurs récits vous inspireront !
 
 L’Equipe de Réponses aux Demandes des Prisonniers (PIRT) est le projet de dissémination le plus ancien de l’histoire de l’Association Urantia Internationale. Son origine est encore plus ancienne. Avant que le PIRT existe, un nombre remarquable de lettres provenant de détenus commencèrent à arriver à la Fondation Urantia après l’ensemencement de 300 exemplaires du _Livre d’Urantia_ dans les bibliothèques des prisons par Liz Cratty en 2000. Les lettres et les demandes de livres étaient gérées par le Département du Service des Lecteurs. Quand le nombre de lettres augmenta, l’aide de l’Association fut requise. Une équipe de service dédiée à procurer des Livres d’Urantia aux lecteurs incarcérés et aux chercheurs se développa et PIRT devint un programme officiel de l’Association.
 
@@ -52,29 +52,29 @@ Tous ceux qui ont participé et contribué à ce service à travers cette histoi
 
 ## D’un détenu aux États-Unis
 
-« Merci de m’avoir tendu la main. Ça fait du bien de savoir que je reçois des réponses à mon appel intérieur de connaître la vérité sur mon existence et ce qu’est ma destinée. J’ai reçu un exemplaire du _Livre d’Urantia_ et trouve la paix du mental, sachant combien d’aide céleste est placée devant moi, spécialement en ce qui concerne le fait de savoir que je possède un fragment de Dieu vivant dans mon mental. Nous sommes vraiment bénis. Je regarde ma vie maintenant à travers des yeux spirituels. Je vois maintenant que je suis sur les rives d’une grande opportunité de faire l’expérience de trouver Dieu. Je comprend ma part de ce plan universel et je désire faire la volonté de Dieu. Ça commence en dirigeant les autres vers la vérité et en montrant l’exemple. Je ne suis pas seulement un chercheur de vérité mais je souhaite que les autres trouvent Dieu en eux. Je veux vous remercier — et tous ceux qui aident dans cette mission de se soucier des prisonniers — pour m’avoir guidé et ouvert les portes de ma destinée. »
+« Merci de m’avoir tendu la main. Ça fait du bien de savoir que je reçois des réponses à mon appel intérieur de connaître la vérité sur mon existence et ce qu’est ma destinée. J’ai reçu un exemplaire du _Livre d’Urantia_ et trouve la paix du mental, sachant combien d’aide céleste est placée devant moi, spécialement en ce qui concerne le fait de savoir que je possède un fragment de Dieu vivant dans mon mental. Nous sommes vraiment bénis. Je regarde ma vie maintenant à travers des yeux spirituels. Je vois maintenant que je suis sur les rives d’une grande opportunité de faire l’expérience de trouver Dieu. Je comprend ma part de ce plan universel et je désire faire la volonté de Dieu. Ça commence en dirigeant les autres vers la vérité et en montrant l’exemple. Je ne suis pas seulement un chercheur de vérité mais je souhaite que les autres trouvent Dieu en eux. Je veux vous remercier — et tous ceux qui aident dans cette mission de se soucier des prisonniers — pour m’avoir guidé et ouvert les portes de ma destinée. »
 
-## D’un bénévole PIRT : Suivre les enseignements de Jésus
+## D’un bénévole PIRT : Suivre les enseignements de Jésus
 
-« Un ami m’aida à devenir plus conscient des enseignements de Jésus affirmant que tous les gens sont des enfants de Dieu, incluant des personnes incarcérées. Aider les prisonniers est la réalisation de leur inclusion, et les aider à choisir des valeurs spirituelles est un rôle que je peux facilement accepter. _Le Livre d’Urantia_ les aide à voir qu’ils sont vraiment connus en Haut et qu’ils sont aimés, valorisés. Les aider à choisir les enseignements du Livre d’Urantia est une part de la commande de Jésus de ‘Allez, dans le monde entier, proclamer cet évangile à toutes les nations, à chaque homme, à chaque femme et à chaque enfant.’ » 165:6.3 (1824.6)
+« Un ami m’aida à devenir plus conscient des enseignements de Jésus affirmant que tous les gens sont des enfants de Dieu, incluant des personnes incarcérées. Aider les prisonniers est la réalisation de leur inclusion, et les aider à choisir des valeurs spirituelles est un rôle que je peux facilement accepter. _Le Livre d’Urantia_ les aide à voir qu’ils sont vraiment connus en Haut et qu’ils sont aimés, valorisés. Les aider à choisir les enseignements du Livre d’Urantia est une part de la commande de Jésus de ‘Allez, dans le monde entier, proclamer cet évangile à toutes les nations, à chaque homme, à chaque femme et à chaque enfant.’ » 165:6.3 (1824.6)
 
-## D’un bénévole PIRT : Lettres de lecteurs espagnols
+## D’un bénévole PIRT : Lettres de lecteurs espagnols
 
-« Je répond au courrier écrit en espagnol, demandant _El Libro de Urantia_. La plupart des lettres que je reçois proviennent des détenus qui ont entendu parler du livre par le bouche à oreille d’un autre ami en prison. Quelquefois, il y a une personne bilingue qui possède un exemplaire du livre en anglais et qui le traduit pour les détenus hispanophones, jusqu’à ce que quelqu’un nous écrive pour demander le livre en espagnol. C’est vraiment un plaisir de répondre à ces lettres et j’aime envoyer, en même temps, quelques pages imprimées de _El Libro_ lorsque je leur écris. Peut-être que cela leur procurera un peu d’exaltation pour lire le livre avant son arrivée. Cela leur donnera aussi quelque chose qu’il peuvent facilement partager avec des amis. »
+« Je répond au courrier écrit en espagnol, demandant _El Libro de Urantia_. La plupart des lettres que je reçois proviennent des détenus qui ont entendu parler du livre par le bouche à oreille d’un autre ami en prison. Quelquefois, il y a une personne bilingue qui possède un exemplaire du livre en anglais et qui le traduit pour les détenus hispanophones, jusqu’à ce que quelqu’un nous écrive pour demander le livre en espagnol. C’est vraiment un plaisir de répondre à ces lettres et j’aime envoyer, en même temps, quelques pages imprimées de _El Libro_ lorsque je leur écris. Peut-être que cela leur procurera un peu d’exaltation pour lire le livre avant son arrivée. Cela leur donnera aussi quelque chose qu’il peuvent facilement partager avec des amis. »
 
-## D’un bénévole PIRT : La mota morontielle
+## D’un bénévole PIRT : La mota morontielle
 
-« Je n’aurais jamais pensé, quand je rejoignis le PIRT au début de sa création , il y a 17 ans, que notre groupe ferait partie d’un groupe mettant en œuvre un enseignement de la mota morontielle . Mais c’est ici :
+« Je n’aurais jamais pensé, quand je rejoignis le PIRT au début de sa création , il y a 17 ans, que notre groupe ferait partie d’un groupe mettant en œuvre un enseignement de la mota morontielle . Mais c’est ici :
 
-On ne possède la connaissance qu’en la partageant ; elle est sauvegardée par la sagesse et rendue sociale par l’amour. <a id="a68_119"></a>[LU 48:7.28](/fr/The_Urantia_Book/48#p7_28)
+On ne possède la connaissance qu’en la partageant ; elle est sauvegardée par la sagesse et rendue sociale par l’amour. <a id="a68_119"></a>[LU 48:7.28](/fr/The_Urantia_Book/48#p7_28)
 
-« Je vous dirais ceci : les détenus peuvent poser des questions difficiles ! Celle-ci par exemple : Après avoir lu “ Gouvernement sur une Planète Voisine ” parlant de crimes, il est dit que ceux que l’on croit être potentiellement des criminels sont condamnés à vie dans des colonies de détention, cela est considéré comme entrer dans une ère positive de la loi. Qu’est-ce que ça signifie ?  »
+« Je vous dirais ceci : les détenus peuvent poser des questions difficiles ! Celle-ci par exemple : Après avoir lu “ Gouvernement sur une Planète Voisine ” parlant de crimes, il est dit que ceux que l’on croit être potentiellement des criminels sont condamnés à vie dans des colonies de détention, cela est considéré comme entrer dans une ère positive de la loi. Qu’est-ce que ça signifie ?  »
 
-« C’est là que la connaissance ‘sauvegardée par la sagesse’ de cette citation de mota intervient. »
+« C’est là que la connaissance ‘sauvegardée par la sagesse’ de cette citation de mota intervient. »
 
-« La sagesse de répondre pour l’entière satisfaction de l’étudiant et d’une manière qui assurera qu’il continuera l’étude de la révélation. »
+« La sagesse de répondre pour l’entière satisfaction de l’étudiant et d’une manière qui assurera qu’il continuera l’étude de la révélation. »
 
-« Notre travail avec les détenus est devenu un ministère bilatéral. Nous communiquons une prise de conscience l’un envers l’autre : l’enseignant devient l’étudiant et l’étudiant devient l’enseignant. Chaque aspect de cette citation de mota morontielle est incorporé dans notre travail avec les détenus. C’est un vrai travail d’amour. »
+« Notre travail avec les détenus est devenu un ministère bilatéral. Nous communiquons une prise de conscience l’un envers l’autre : l’enseignant devient l’étudiant et l’étudiant devient l’enseignant. Chaque aspect de cette citation de mota morontielle est incorporé dans notre travail avec les détenus. C’est un vrai travail d’amour. »
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2022_12/046.jpg">
@@ -85,7 +85,7 @@ On ne possède la connaissance qu’en la partageant ; elle est sauvegardée pa
 
 Nous encourageons les amis lecteurs à se renseigner comment participer. Peut-être, en un ministère en personne à la prison, en répondant aux lettres, ou en commençant une équipe locale PIRT. Durant toutes ces années, nous avons appris beaucoup collectivement, sur les groupes d’étude de lecteurs dirigés en prison et du service international, y compris d’un groupe en Finlande qui rencontra des problèmes dans le projet de placement de livres dans leur bibliothèque de prison, et par notre premier PIRT directeur international, Chris Gravel au Canada.
 
-Contact : Myra High-tech, présidente du PIRT, [my@mtn-rose.com](mailto:my@mtn-rose.com)
+Contact : Myra High-tech, présidente du PIRT, [my@mtn-rose.com](mailto:my@mtn-rose.com)
 
 
 ## Références

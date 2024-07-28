@@ -86,7 +86,7 @@ Pour cette enquête, un traducteur professionnel est défini par une personne qu
 | :--- | :--- | :--- |
 | Traducteurs professionnels ou professeurs d'anglais | 10 | 36\% |
 | Traducteurs occasionnels | 13 | 46\% |
-| Aucune expérience préalable à la traduction du _Livre d'Urantia_ | 5 | 18\% |
+| Aucune expérience préalable à la traduction du _Livre d'Urantia_ | 5 | 18\% |
 
 82 % des T-Rs ont une vaste expérience professionnelle de la traduction de l’anglais dans leur langue maternelle.
 
@@ -105,7 +105,7 @@ Quatre-vingt-sept pour cent des T-Rs ont une formation supérieure ou un degré 
 
 TOEFL signifie Test d’Anglais comme Langue Étrangère. TOEFL est un test standardisé de la maîtrise de la langue anglaise pour les locuteurs de langue anglaise non-autochtones qui souhaitent s’inscrire dans les universités américaines. Un doctorat en anglais signifie également un haut niveau de compétence en anglais. Le nombre et le pourcentage de T-Rs pour chaque diplôme sont les suivants :
 
-> Près de 80 % des Traducteurs-Réviseurs étaient des chercheurs de vérité intéressés par la spiritualité avant d’être exposés au _Le Livre d’Urantia_.
+> Près de 80 % des Traducteurs-Réviseurs étaient des chercheurs de vérité intéressés par la spiritualité avant d’être exposés au _Le Livre d’Urantia_.
 
 | &nbsp; | &nbsp; | &nbsp; |
 | :--- | :--- | :--- |
@@ -165,7 +165,7 @@ Par cette question, on demanda aux T-Rs la liste des qualités personnelles qu�
 | :--- | :--- |
 | L'amour du livre et de ses enseignements | 16 |
 | Détermination et engagement | 16 |
-| Compréhension du _Livre d'Urantia_ | 12 |
+| Compréhension du _Livre d'Urantia_ | 12 |
 | Maitrise de la langue cible | 11 |
 | Esprit d’équipe | 10 |
 | Temps disponible | 9 |

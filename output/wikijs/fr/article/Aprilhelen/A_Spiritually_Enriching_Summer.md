@@ -15,7 +15,7 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/fr/article/Aprilhelen/Spirit_Led_Teamwork">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Travail d'équipe dirigé par l’Esprit : la perle des univers</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Travail d'équipe dirigé par l’Esprit : la perle des univers</span>
         </a>
         </td>
         <td>
@@ -43,7 +43,7 @@ Par _Aprilhelen_
 
 Conférence internationale 2023 (IC23) : « Vivre les enseignements : cœur, esprit et âme » (voir [urantiabook.org/ic23](https://urantiabook.org/ic23)) est conçue pour être adaptée aux familles. L'équipe du programme pour enfants et adolescents, en collaboration avec Urantia Family Life (UFL) et le comité des jeunes et des jeunes adultes (Ya YA) sont heureux d'annoncer des plans pour un programme significatif, créatif et amusant pour tous les âges.
 
-Ce programme coordonné offrira une variété d'expériences enrichissantes aux jeunes qui permettront également aux parents d'assister à des séances plénières et à des ateliers. Les tranches d'âge créées sont les suivantes :
+Ce programme coordonné offrira une variété d'expériences enrichissantes aux jeunes qui permettront également aux parents d'assister à des séances plénières et à des ateliers. Les tranches d'âge créées sont les suivantes :
 - Nourrissons et tout-petits (0 à 2 ans)
 - Enfants d'âge préscolaire (3-5 ans)
 - Préadolescents (6-12 ans)
@@ -67,9 +67,9 @@ Urantia Family Life organise une série d'ateliers destinés aux parents et à t
 
 Le Comité des jeunes et des jeunes adultes (Ya YA) annonce un appel spécial à l’action pour les jeunes adultes âgés de 19 à 25 ans, afin qu’ils servent de mentors. Les Ya Y As profitent de l’occasion offerte par l’IC23 pour rechercher de nouveaux membres pour le comité disposés à collaborer à la vision et à la mise en œuvre de nouvelles initiatives. Ils sont ravis d’accueillir davantage de perspectives uniques et d’enthousiasme à partager avec les jeunes de la communauté du Livre d’Urantia pendant IC23 et au-delà. 
 
-## Rejoignez-nous en musique ! 
+## Rejoignez-nous en musique ! 
 
-Avec l’intention de participer au culte communautaire, les enfants de tous âges ont la possibilité de participer au programme musical. N'hésitez pas à nous faire savoir si votre enfant ou adolescent souhaite participer à cette activité avec sa voix, un instrument ou les deux ! Les répétitions commenceront bientôt en ligne. Contactez aprilhelen@urantiabook.org pour plus d'informations.
+Avec l’intention de participer au culte communautaire, les enfants de tous âges ont la possibilité de participer au programme musical. N'hésitez pas à nous faire savoir si votre enfant ou adolescent souhaite participer à cette activité avec sa voix, un instrument ou les deux ! Les répétitions commenceront bientôt en ligne. Contactez aprilhelen@urantiabook.org pour plus d'informations.
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/074.jpg">
@@ -81,7 +81,7 @@ Si vous avez à cœur de servir l’importante prochaine génération d'âmes di
 
 Si vous avez des questions ou avez besoin d'aide pour l’inscription ou la bourse, veuillez contacter Fellowship@urantiabook.org. 
 
-La famille de Dieu est au centre du _Le Livre d'Urantia_. Le programme Enfants + Ados est heureux de contribuer à faire de la vie familiale un thème central de l’IC23, car nous _vivons les enseignements_. Prévoyez d'amener toute votre famille pour des vacances d'été spirituellement enrichissantes ! 
+La famille de Dieu est au centre du _Le Livre d'Urantia_. Le programme Enfants + Ados est heureux de contribuer à faire de la vie familiale un thème central de l’IC23, car nous _vivons les enseignements_. Prévoyez d'amener toute votre famille pour des vacances d'été spirituellement enrichissantes ! 
 
 Vos prières enthousiastes sont très appréciées. Si vous souhaitez aider les familles à assister à cet événement et à d'autres, veuillez envisager de faire un don à notre fonds de bourses d'études sur la page d'inscription. 
 
@@ -108,7 +108,7 @@ Avec l’amour et l’anticipation de votre équipe de direction de la famille I
       <tr>
         <td>
         <a href="/fr/article/Aprilhelen/Spirit_Led_Teamwork">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Travail d'équipe dirigé par l’Esprit : la perle des univers</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Travail d'équipe dirigé par l’Esprit : la perle des univers</span>
         </a>
         </td>
         <td>

@@ -72,7 +72,7 @@ L’équipe de révision espagnole composée de Víctor García-Bory, Carmelo Ma
 
 ## Rénovation du troisième étage, du grenier, et de la remise**
 
-Une nouvelle plomberie et de nouveaux câblages électriques ont été installés au troisième étage. De nouveaux planchers de chêne ont été posés, des plaques de plâtre plaquées, les salles de bains reconstruites ou ajoutées et la cuisine entièrement rénovée. La rénovation du troisième étage sera terminée d’ici la fin de décembre afin de le louer en janvier ou en février. La rénovation de la remise ( autrement connue comme le garage et l’appartement garage ) a commencé et devrait être terminée d’ici la fin février.
+Une nouvelle plomberie et de nouveaux câblages électriques ont été installés au troisième étage. De nouveaux planchers de chêne ont été posés, des plaques de plâtre plaquées, les salles de bains reconstruites ou ajoutées et la cuisine entièrement rénovée. La rénovation du troisième étage sera terminée d’ici la fin de décembre afin de le louer en janvier ou en février. La rénovation de la remise ( autrement connue comme le garage et l’appartement garage ) a commencé et devrait être terminée d’ici la fin février.
 
 ## Administrateurs associés élus pour un autre mandat
 

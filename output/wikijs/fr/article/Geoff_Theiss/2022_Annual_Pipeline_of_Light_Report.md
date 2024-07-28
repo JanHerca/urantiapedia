@@ -43,9 +43,9 @@ par _Geoff Theiss_
 
 Chers amis de la Communauté du Livre d'Urantia, Au cours des douze derniers mois, nos bénévoles du Pipeline de Lumière ont placé cinq cent cinquante et un (551) exemplaires du Livre d'Urantia dans vingt-quatre pays. Vos dons au Pipeline nous ont aidés à livrer des livres en réponse aux nouvelles demandes de lecteurs et de groupes d'étude en Colombie, au Mexique, au Zimbabwe, au Brésil, au Canada, aux États-Unis, aux Philippines, au Venezuela, en Ouganda, au Nigeria, au Costa Rica, au Chili, en Espagne, Pakistan, Géorgie et Israël. 
 
-Les efforts actuels portent le total historique de notre Pipeline à treize mille neuf cent quatre-vingt-trois (13 983) exemplaires du _Le Livre d'Urantia_ dans quatre-vingt-sept pays et deux cent vingt et un établissements correctionnels à travers le monde. Un grand merci aux merveilleux bénévoles qui maintiennent ce flux de livres dans le monde ! 
+Les efforts actuels portent le total historique de notre Pipeline à treize mille neuf cent quatre-vingt-trois (13 983) exemplaires du _Le Livre d'Urantia_ dans quatre-vingt-sept pays et deux cent vingt et un établissements correctionnels à travers le monde. Un grand merci aux merveilleux bénévoles qui maintiennent ce flux de livres dans le monde ! 
 
-Voici quelques faits saillants supplémentaires de cette année : 
+Voici quelques faits saillants supplémentaires de cette année : 
 
 - Ajout du pays Géorgie, portant le nombre total de pays bénéficiaires à quatre-vingt-sept
 - Le lancement d'une unité de langue espagnole dédiée au programme
@@ -54,7 +54,7 @@ Voici quelques faits saillants supplémentaires de cette année :
 - Un stage dans une bibliothèque d'aumônier en Floride a inspiré l’aumônier à parrainer un cours de 16 semaines sur Le Livre d'Urantia dans cet établissement correctionnel.
 - Continuer à économiser sur les frais d'expédition
 
-Nous apprécions profondément les contributions de nos bénévoles et de nos donateurs. Si vous souhaitez contribuer à ce travail, les dons peuvent être effectués en ligne à l’adresse suivante :
+Nous apprécions profondément les contributions de nos bénévoles et de nos donateurs. Si vous souhaitez contribuer à ce travail, les dons peuvent être effectués en ligne à l’adresse suivante :
 
 https://urantiabook.org/donate
 

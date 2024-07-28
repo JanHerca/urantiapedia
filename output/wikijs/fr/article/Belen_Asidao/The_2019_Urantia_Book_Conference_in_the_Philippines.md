@@ -42,7 +42,7 @@ _Par Belen Asidao, Illinois, États-Unis_
 
 Après sept ans, depuis 2013, de propagation du _Livre d’Urantia,_ et d’éducation de personnes, nous avons remarqué une avancée qualitative dans le mouvement Urantia philippin. Parlant d’une avancée qualitative, je veux dire l’aboutissement d’un travail qualitatif (qu’Eugene et moi et ensuite les lecteurs aux Philippines) ont réalisé jusqu’à présent, incluant la distribution du _Livre d’Urantia_ à travers presque toutes les Philippines, trouvant et visitant des lecteurs dans les endroits variés où ils résidaient, les encourageant à développer des groupes d’étude, à développer des programmes pour les lecteurs débutants, ainsi que des études intensives pour les leaders et les enseignants, étendant la mobilisation à la famille et aux amis pour les événements sociaux (l’anniversaire de Jésus a été célébré pendant trois années consécutives), et développant un plan directeur.
 
-Les nouvelles opportunités qui ont surgi à cause de ce travail, comprennent un groupe de 10 jeunes qui fut organisé six mois avant la conférence ; un groupe de femmes, aussi formé récemment, appelé Babae (le mot en Tagalog pour femme), avec au moins de sept à dix participantes régulières qui étudient deux fois par semaine sur la plateforme Facebook Messenger ; l’opportunité de conférences régionales en dehors de Manille ; des plans pour connecter les lecteurs philippins à l’étranger (au Moyen-Orient, les États-Unis et en Australie) par conférence Zoom ; et l’initiation de la traduction en philippin.
+Les nouvelles opportunités qui ont surgi à cause de ce travail, comprennent un groupe de 10 jeunes qui fut organisé six mois avant la conférence ; un groupe de femmes, aussi formé récemment, appelé Babae (le mot en Tagalog pour femme), avec au moins de sept à dix participantes régulières qui étudient deux fois par semaine sur la plateforme Facebook Messenger ; l’opportunité de conférences régionales en dehors de Manille ; des plans pour connecter les lecteurs philippins à l’étranger (au Moyen-Orient, les États-Unis et en Australie) par conférence Zoom ; et l’initiation de la traduction en philippin.
 
 Donc, après sept ans de progrès qualitatifs amenant à cette avancée qualitative, nous avons finalement décidé qu’une conférence nationale était faisable. La Fondation Urantia et l’Association Urantia Internationale aidèrent en faisant don de nombreux livres qui furent disséminés en 2014, 2015 et 2017. En 2018, la Fondation a sponsorisé une étude intensive du _Livre d’Urantia_ par le groupe d’étude de la Métropole de Manille. Cette préparation se traduisit pour les lecteurs philippins du Livre d’Urantia par le fait qu’ils étaient prêts pour leur première conférence. Nous remercions la Fellowship du Livre d’Urantia de nous avoir encouragé et d’avoir sponsorisé cet événement.
 
@@ -54,12 +54,12 @@ Le premier jour de la conférence, le 22 novembre, commença avec l’enregistre
 <img src="/image/article/UF_News_Online/2020_04/026.jpg">
 </figure>
 
-Le deuxième jour le 23 novembre, fut un jour complet de 8h du matin à 21h. Les sujets et les orateurs furent les suivants :
+Le deuxième jour le 23 novembre, fut un jour complet de 8h du matin à 21h. Les sujets et les orateurs furent les suivants :
 
-1. « Le plan de Dieu » sur comment vivre en accord avec le plan de Dieu, l’orateur était Allan Bancairen. Il souligna la paternité de Dieu et la fraternité de l’homme et leurs applications dans le service qui incluent notre temps, notre compétence, notre budget et l’enseignement « soyez parfait comme je suis parfait ».
-2. « La Vie après la Mort Physique : Les Mondes des Maisons et notre voyage vers le Paradis » avec comme orateur Eugene Asidao. Il souligna les phases universelles vers la vie éternelle jusqu’à ce que nous soyons accueillis par le Père Infini au Paradis.
-3. « Preuves scientifiques dans le _Livre d’Urantia »_ avec deux orateurs, Edwin Ammonio et Calvin Penaco. Ils parlèrent du _Livre d’Urantia_ comprenant beaucoup de science qui fut prouvée plus tard par les scientifiques.
-4. « Qui était Jésus et Quels étaient ses Enseignements ? » avec comme orateur Nestor Seda. Il accrédita la vie de Jésus comme le meilleur modèle pour l’humanité.
+1. « Le plan de Dieu » sur comment vivre en accord avec le plan de Dieu, l’orateur était Allan Bancairen. Il souligna la paternité de Dieu et la fraternité de l’homme et leurs applications dans le service qui incluent notre temps, notre compétence, notre budget et l’enseignement « soyez parfait comme je suis parfait ».
+2. « La Vie après la Mort Physique : Les Mondes des Maisons et notre voyage vers le Paradis » avec comme orateur Eugene Asidao. Il souligna les phases universelles vers la vie éternelle jusqu’à ce que nous soyons accueillis par le Père Infini au Paradis.
+3. « Preuves scientifiques dans le _Livre d’Urantia »_ avec deux orateurs, Edwin Ammonio et Calvin Penaco. Ils parlèrent du _Livre d’Urantia_ comprenant beaucoup de science qui fut prouvée plus tard par les scientifiques.
+4. « Qui était Jésus et Quels étaient ses Enseignements ? » avec comme orateur Nestor Seda. Il accrédita la vie de Jésus comme le meilleur modèle pour l’humanité.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2020_04/027.jpg">
@@ -75,7 +75,7 @@ Pour 4 à 6 ans, l’objectif est de travailler sur la traduction en philippin e
 
 Pour 10 ans et plus, les objectifs sont de créer des institutions éducatives, en commençant au niveau élémentaire jusqu’à éventuellement une Université Urantia aux Philippines. Des centres physiques dans de nombreux endroits à travers les Philippines sont aussi envisagés.
 
-Quel plan ambitieux ! Mais l’imagination, les rêves et le libre arbitre nous sont donnés par Dieu gratuitement. Et, « Quand l’homme s’associe avec Dieu, de grands événements peuvent se produire et se produisent effectivement. » <a id="a77_228"></a>[LU 132:7.9](/fr/The_Urantia_Book/132#p7_9)
+Quel plan ambitieux ! Mais l’imagination, les rêves et le libre arbitre nous sont donnés par Dieu gratuitement. Et, « Quand l’homme s’associe avec Dieu, de grands événements peuvent se produire et se produisent effectivement. » <a id="a77_228"></a>[LU 132:7.9](/fr/The_Urantia_Book/132#p7_9)
 
 Avant la fin de la conférence, le groupe des femmes lurent l’extrait du Souper du Souvenir, après lequel nous avons chanté des morceaux choisis du Psaume 118. Puis ce fut le départ.
 

@@ -25,7 +25,7 @@ dateCreated: 2023-6-21T8:13:38Z
         </td>
         <td>
         <a href="/fr/article/Chuck_Thurston/This_is_Sacred_Grounds_sculpture">
-          <span class="pr-2">Sculpture « Voici les Terres sacrées »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Sculpture « Voici les Terres sacrées »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -63,7 +63,7 @@ dateCreated: 2023-6-21T8:13:38Z
         </td>
         <td>
         <a href="/fr/article/Chuck_Thurston/This_is_Sacred_Grounds_sculpture">
-          <span class="pr-2">Sculpture « Voici les Terres sacrées »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Sculpture « Voici les Terres sacrées »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

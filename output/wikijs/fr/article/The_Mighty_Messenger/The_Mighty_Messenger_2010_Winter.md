@@ -28,7 +28,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-## La révélation en action : agissez à l’échelle mondiale, grandissez de manière cosmique
+## La révélation en action : agissez à l’échelle mondiale, grandissez de manière cosmique
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2010_Winter/005733.jpg">
@@ -57,12 +57,12 @@ L'espace hôtelier est incroyablement limité et est basé sur le principe du pr
 Conseils destinés aux animateurs d'ateliers, aux présentateurs et aux modérateurs de forums
 
 Chaque atelier, présentation et forum est unique et reflète les techniques et les méthodes de l’animateur. Le comité de programmation encourage tous à structurer de manière créative leur atelier, présentation ou forum, car ils sont spirituellement amenés à le faire.
-- **Ateliers** : Nous souhaitons exprimer certains des idéaux que nous trouvons dans la conduite d'ateliers. Nous demandons aux animateurs de développer de manière créative des ateliers qui s'efforcent d'incarner certains de ces idéaux. Voici quelques suggestions qui nous semblent vraies concernant les ateliers de service :
+- **Ateliers** : Nous souhaitons exprimer certains des idéaux que nous trouvons dans la conduite d'ateliers. Nous demandons aux animateurs de développer de manière créative des ateliers qui s'efforcent d'incarner certains de ces idéaux. Voici quelques suggestions qui nous semblent vraies concernant les ateliers de service :
   - Les ateliers doivent répondre aux besoins des personnes présentes. Les animateurs sont encouragés à utiliser des techniques et des dispositifs qui permettent aux participants d'exprimer ce qu’ils désirent savoir sur le service et le service aux autres, puis à les aider à trouver certaines des réponses à ces besoins.
   - Les ateliers devraient explorer les enseignements du _Livre d'Urantia_ en ce qui concerne l’action et/ou la croissance cosmique.
-  - Les ateliers devraient inclure l’aspect spirituel de la croissance et de l’action : pouvez-vous explorer les façons dont nous servons en partenariat avec Dieu, Michael et notre Mère ?
+  - Les ateliers devraient inclure l’aspect spirituel de la croissance et de l’action : pouvez-vous explorer les façons dont nous servons en partenariat avec Dieu, Michael et notre Mère ?
   - Les ateliers devraient enseigner ! Aidez vos frères et sœurs à trouver des moyens par lesquels ils agissent et grandissent déjà – faites-en leur affaire.
-  - Les ateliers idéaux sont participatifs : ils encouragent les participants à participer à l’étude du sujet.
+  - Les ateliers idéaux sont participatifs : ils encouragent les participants à participer à l’étude du sujet.
   - Le but des ateliers est de profiter de la sagesse du groupe. Les participants offrent une excellente ressource : un aperçu collectif.
   - Les ateliers devraient s'appuyer sur les leçons de croissance et d'action trouvées dans _Le Livre d'Urantia_.
   - Les ateliers devraient être exploratoires – ils devraient être consacrés à l’étude de certains aspects du service.
@@ -73,7 +73,7 @@ Chaque atelier, présentation et forum est unique et reflète les techniques et 
   - Les ateliers peuvent être divisés en petits groupes en fonction de la taille de l’atelier.
   - Tous les types d'aides audiovisuelles sont disponibles pour améliorer la présentation, mais vous DEVEZ disposer de votre propre ordinateur portable.
   - Nous encourageons les animateurs d'ateliers à développer des mécanismes pour capter l’élan et l’enthousiasme – trouver des moyens de transformer les expériences des ateliers en opportunités de service pratique.
-- **Présentations** Les présentations diffèrent des ateliers car elles ne sont pas participatives. Ils impliquent un dialogue parlé qui ne devrait pas durer plus de 45 à 50 minutes. Voici quelques recommandations pour les présentations :
+- **Présentations** Les présentations diffèrent des ateliers car elles ne sont pas participatives. Ils impliquent un dialogue parlé qui ne devrait pas durer plus de 45 à 50 minutes. Voici quelques recommandations pour les présentations :
   - Les présentations doivent s'appuyer sur une expérience personnelle pour éclairer le sujet abordé.
   - Les présentations doivent avoir des objectifs et des buts clairs.
   - Les présentations doivent couvrir les aspects spirituels de la croissance et de l’action en partageant avec vos frères et sœurs une compréhension de la manière dont l’action et la croissance se font en partenariat avec Dieu.
@@ -86,13 +86,13 @@ Chaque atelier, présentation et forum est unique et reflète les techniques et 
   - Les modérateurs doivent essayer de discerner les besoins et les questions du groupe et trouver des moyens d'y répondre.
   - Le modérateur doit avoir une bonne compréhension du sujet et être capable d'examiner tous les aspects du problème.
   - Les modérateurs doivent avoir la capacité de coordonner et de rassembler la discussion afin que la discussion reste ciblée et réponde aux différents aspects de la question.
-  - Voici quelques exemples de discussions sur le forum :
-    * Qu'est-ce que cela signifie pour la Fellowship d'être une organisation orientée vers l’action ?
+  - Voici quelques exemples de discussions sur le forum :
+    * Qu'est-ce que cela signifie pour la Fellowship d'être une organisation orientée vers l’action ?
     * Que pouvons-nous faire de plus ?
     * Comment la Révélation en Action est-elle définie ou reconnue ?
     * Comment se produit la croissance dans le cosmos ?
 
-## Appel à tous les artistes !
+## Appel à tous les artistes !
 
 **Galerie d'art IC '11 et célébration des artistes d'Urantia**
 
@@ -100,7 +100,7 @@ Le Comité de la Galerie d’Art IC’11 prépare une célébration spéciale de
 
 IC11 comprendra une ouverture de galerie de gala et une soirée salon. Nous présenterons les beaux-arts spirituels du théâtre, de la musique, de la comédie, de la danse, de la lecture de poésie et des arts de la scène. Pendant la conférence, de nombreux ateliers et séminaires seront donnés par des artistes souhaitant enseigner les arts spirituels et de l’âme.
 
-Les cours de **Adoration à travers les arts** peuvent être : mandalas, chants, danse soufie, méditation guidée, art de l’âme, poésie et paroles.
+Les cours de **Adoration à travers les arts** peuvent être : mandalas, chants, danse soufie, méditation guidée, art de l’âme, poésie et paroles.
 
 ## Sainte Fumée! Soirée pyjama impromptue aux Techny Towers
 
@@ -114,9 +114,9 @@ Les lecteurs du Livre d’Urantia sont-ils devenus complaisants à l’égard de
 
 Les autres participants sont sortis en tenue de nuit, où ils ont fait du porte-à-porte, répandant la Bonne Nouvelle de Dieu et distribuant les Livres d'Urantia – je plaisante ! (Bien que les Livres d'Urantia aient été donnés plus tard à deux des pompiers qui ont exprimé leur intérêt pour eux.) La principale activité de ces survivants endormis était de jouer au frisbee, bien que quelques-uns aient fait du prosélytisme auprès des pompiers qui sont venus sur les lieux, où ils ont conclu qu’il n’y avait pas d'incendie. .
 
-La session d'étude d'été, qui s'est déroulée du 22 au 25 juillet, avait pour thème « Conscience divine et moralité cosmique : vivre les enseignements ». Certains ont assisté à une retraite spirituelle pré-conférence dirigée par Gard Jameson et Bobbie Dreier, axée sur les quatre attitudes de foi : être pauvre en esprit, avoir faim de justice, endurer la douceur et avoir le cœur pur. La conférence elle-même (Voir http://www.urantia-education.org/2010-Conference.php) comprenait des séances plénières quotidiennes et de nombreux ateliers liés au thème de la conférence, ainsi qu’un certain nombre d'occasions de culte et de soirées de socialisation et de création musicale. Les superbes présentations plénières ont été faites par Andre Radatus, Seth Wood , et la présidente de la Fellowship Michelle Klimesh. Voici les titres et les présentateurs des ateliers :
+La session d'étude d'été, qui s'est déroulée du 22 au 25 juillet, avait pour thème « Conscience divine et moralité cosmique : vivre les enseignements ». Certains ont assisté à une retraite spirituelle pré-conférence dirigée par Gard Jameson et Bobbie Dreier, axée sur les quatre attitudes de foi : être pauvre en esprit, avoir faim de justice, endurer la douceur et avoir le cœur pur. La conférence elle-même (Voir http://www.urantia-education.org/2010-Conference.php) comprenait des séances plénières quotidiennes et de nombreux ateliers liés au thème de la conférence, ainsi qu’un certain nombre d'occasions de culte et de soirées de socialisation et de création musicale. Les superbes présentations plénières ont été faites par Andre Radatus, Seth Wood , et la présidente de la Fellowship Michelle Klimesh. Voici les titres et les présentateurs des ateliers :
 
-_Citoyenneté cosmique : Le rôle de l’éducation dans le développement de la conscience divine et de la moralité cosmique (Université Urantia)_- Steve Dreier ; _Favoriser la croissance progressive de la société humaine et de la civilisation : la campagne incessante du maître Séraphin_ - Neal Waldrop ; _Laisser une empreinte spirituelle_ - Bill et Share Beasley ; _L'âme : le lieu de naissance de la moralité et le lieu où grandit l’Évangile_ - Tony Finstad ; _Atteindre des objectifs surnaturels_ - Angela Thurston ; _L'émulation de la bonté divine par l’ascendeur_ - David Glass ; _Premier parmi ses pairs : défis et responsabilités auxquels sont confrontés les lecteurs américains du _Le Livre d'Urantia__ - Neal Waldrop ; _Comment la loi de l’attraction peut contribuer à l’évolution du Suprême_ - John Lambo ; _Anges gardiens_ - Katharina Becker et Charles Olivea ; _Moralité cosmique et esprit cosmique_ ; Barbara Newsom ; _Maîtrise de soi : l’approche non conventionnelle de Jésus_ ; Vicki Arkens; _Une enquête sur le vrai culte : relier la conscience de Dieu à la moralité cosmique_ ; Bob Debold ; _Moralité cosmique – Pourquoi s'embêter ?_ - Avi Dogim ; _Moralité cosmique et affaires_ - Dan Amyx
+_Citoyenneté cosmique : Le rôle de l’éducation dans le développement de la conscience divine et de la moralité cosmique (Université Urantia)_- Steve Dreier ; _Favoriser la croissance progressive de la société humaine et de la civilisation : la campagne incessante du maître Séraphin_ - Neal Waldrop ; _Laisser une empreinte spirituelle_ - Bill et Share Beasley ; _L'âme : le lieu de naissance de la moralité et le lieu où grandit l’Évangile_ - Tony Finstad ; _Atteindre des objectifs surnaturels_ - Angela Thurston ; _L'émulation de la bonté divine par l’ascendeur_ - David Glass ; _Premier parmi ses pairs : défis et responsabilités auxquels sont confrontés les lecteurs américains du _Le Livre d'Urantia__ - Neal Waldrop ; _Comment la loi de l’attraction peut contribuer à l’évolution du Suprême_ - John Lambo ; _Anges gardiens_ - Katharina Becker et Charles Olivea ; _Moralité cosmique et esprit cosmique_ ; Barbara Newsom ; _Maîtrise de soi : l’approche non conventionnelle de Jésus_ ; Vicki Arkens; _Une enquête sur le vrai culte : relier la conscience de Dieu à la moralité cosmique_ ; Bob Debold ; _Moralité cosmique – Pourquoi s'embêter ?_ - Avi Dogim ; _Moralité cosmique et affaires_ - Dan Amyx
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2010_Winter/005738.jpg">
@@ -232,9 +232,9 @@ Le mercredi, premier jour de la conférence, est consacré aux présentations de
 
 Mercredi en fin d'après-midi, nous quittons le campus et nous dirigeons vers un endroit où nous défierons la physique. C’est l’un des deux endroits au monde où l’on peut littéralement flotter dans l’eau en position assise. C’est la meilleure chose après marcher sur l’eau. Après une douche rapide, nous remontons dans le bus et nous dirigeons vers la station de ski des Montagnes Rocheuses et de Snowbird. 
 
-Jeudi, vendredi et samedi, nous jouons en montagne. Je parle de parcours d'accrobranche, de tyrolienne, de saut à l’élastique, d'escalade, de tramway, de luge, d'exploration des montagnes et de bien d'autres activités profondes et mystérieuses. Et cela va sans dire ; « la » JUDY nous fournira toute la nourriture délicieuse que nous pouvons manger. 
+Jeudi, vendredi et samedi, nous jouons en montagne. Je parle de parcours d'accrobranche, de tyrolienne, de saut à l’élastique, d'escalade, de tramway, de luge, d'exploration des montagnes et de bien d'autres activités profondes et mystérieuses. Et cela va sans dire ; « la » JUDY nous fournira toute la nourriture délicieuse que nous pouvons manger. 
 
-Plus important encore, nous travaillerons au cœur de ce qu’est Truthseekers : créer un lien vivant au sein de notre communauté, découvrir nos valeurs, nouvelles et anciennes, et s'encourager les uns les autres à devenir plus fidèles à leurs propres valeurs. Nous apprendrons ensemble à grandir dans la découverte des influences permanentes de l’amour, du rétablissement de la paix et du service mutuel. Nous nous engagerons à nouveau individuellement à une transformation personnelle de nous-mêmes en tant qu’individus et à la croissance de notre communauté dans son ensemble. Depuis ces humbles débuts, nous nous engageons sur un chemin pour aider à élever l’humanité sur cette planète même sur laquelle nous vivons ! À quel point cela est cool? Vous devez venir jouer avec nous pour en découvrir davantage. Samedi soir, nous retournons à l’Université de l’Utah pour répéter notre participation aux cérémonies de clôture dimanche matin. Nous avons beaucoup de choses à partager avec vous et sommes impatients d'accueillir de nouveaux amis et de nous rapprocher des anciens. 
+Plus important encore, nous travaillerons au cœur de ce qu’est Truthseekers : créer un lien vivant au sein de notre communauté, découvrir nos valeurs, nouvelles et anciennes, et s'encourager les uns les autres à devenir plus fidèles à leurs propres valeurs. Nous apprendrons ensemble à grandir dans la découverte des influences permanentes de l’amour, du rétablissement de la paix et du service mutuel. Nous nous engagerons à nouveau individuellement à une transformation personnelle de nous-mêmes en tant qu’individus et à la croissance de notre communauté dans son ensemble. Depuis ces humbles débuts, nous nous engageons sur un chemin pour aider à élever l’humanité sur cette planète même sur laquelle nous vivons ! À quel point cela est cool? Vous devez venir jouer avec nous pour en découvrir davantage. Samedi soir, nous retournons à l’Université de l’Utah pour répéter notre participation aux cérémonies de clôture dimanche matin. Nous avons beaucoup de choses à partager avec vous et sommes impatients d'accueillir de nouveaux amis et de nous rapprocher des anciens. 
 
 Le coût du programme Truthseekers, du mardi après-midi au dimanche après-midi, est de 495,00 $. Le prix comprend la pension, l’hébergement, le transport et toutes les activités. Notre tranche d'âge est de 15 à 19 ans à quelques exceptions près. Comme pour tous nos programmes, les anciens chercheurs de vérité sont toujours les bienvenus, quel que soit leur âge. Veuillez vous inscrire en ligne sur le site Web de la bourse. Si vous avez des questions, n’hésitez pas à m'appeler moi-même, Tom Choquette au 425-218-2216 ou Fred Harris au 850-528-3393. Nous n’avons jamais refusé une personne intéressée par manque de fonds. Des bourses et des bourses partielles sont disponibles. Prends soin de toi. Fais attention. À bientôt. Amour, Tom
 
@@ -277,13 +277,13 @@ Si vous souhaitez créer un héritage vivant pour soutenir les efforts à long t
 
 Nous aimerions annoncer la formation d'un nouveau comité du Fellowship. Nous nous appelons le Comité des Jeunes et des Jeunes Adultes ou YaYA en abrégé. Il s’agit actuellement d’un comité adjoint du comité de sensibilisation de la Fellowship. Je suis le « lecteur chevronné » qui essaie de suivre ce noyau talentueux de travailleurs qui sont tous des lecteurs de deuxième génération et sont actuellement âgés de 12 à 28 ans.
 
-Voici notre déclaration de vision : Le Comité des Jeunes et des Jeunes Adultes (YaYA) s'efforce d'impliquer les jeunes et les jeunes adultes Urantiens à travers l’étude, la socialisation, le soutien, le service et la sensibilisation aux niveaux local, national et international. Notre objectif est d’augmenter la réalisation et la manifestation des enseignements du _Livre d’Urantia_ à travers chaque génération successive.
+Voici notre déclaration de vision : Le Comité des Jeunes et des Jeunes Adultes (YaYA) s'efforce d'impliquer les jeunes et les jeunes adultes Urantiens à travers l’étude, la socialisation, le soutien, le service et la sensibilisation aux niveaux local, national et international. Notre objectif est d’augmenter la réalisation et la manifestation des enseignements du _Livre d’Urantia_ à travers chaque génération successive.
 
 Nous nous engageons déjà sur plusieurs fronts. Voici quelques idées préliminaires.
-- **Étude** : Nous nous concentrons sur la création de nouveaux groupes d'étude Urantia pour les jeunes et sur l’engagement des jeunes dans les groupes d'étude existants. Actuellement, il n’existe que quelques groupes d’étude destinés aux jeunes et aux jeunes adultes, mais nous pensons que cela peut changer. Nous sommes une équipe de soutien pour tout nouveau groupe qui souhaite se lancer. Nous aiderons les familles et bâtirons des communautés de jeunes lecteurs.
-- **Socialisation** : Nous prévoyons un rassemblement de jeunes et de jeunes adultes à Boulder, Colorado, cet hiver pour donner à nos jeunes leaders une chance de se réunir et d'élaborer des stratégies pour nos prochaines étapes tout en apprenant à se connaître de manière amusante et belle. paramètre. Si vous connaissez quelqu’un qui souhaiterait participer, n’hésitez pas à nous le faire savoir !
-- **Soutien** : Nous sommes reconnaissants envers tous les parents et enseignants dévoués qui nous ont précédés. C’est notre désir de rassembler autant d’expérience et d’histoire que possible. Qu’est-ce qui a fonctionné pour vous en tant que parents ? Que peut faire notre comité pour vous aider dans vos efforts pour partager cette révélation avec vos enfants ? Envoyez-nous vos histoires ; nous voulons communiquer et travailler ensemble. Envoyez-nous un e-mail à urantia@gci.net ou appelez le (907) 830-8816.
-- **Service** : Nous aimerions connaître votre avis sur des projets de service qui seraient particulièrement importants et convaincants pour nos jeunes et jeunes adultes.
+- **Étude** : Nous nous concentrons sur la création de nouveaux groupes d'étude Urantia pour les jeunes et sur l’engagement des jeunes dans les groupes d'étude existants. Actuellement, il n’existe que quelques groupes d’étude destinés aux jeunes et aux jeunes adultes, mais nous pensons que cela peut changer. Nous sommes une équipe de soutien pour tout nouveau groupe qui souhaite se lancer. Nous aiderons les familles et bâtirons des communautés de jeunes lecteurs.
+- **Socialisation** : Nous prévoyons un rassemblement de jeunes et de jeunes adultes à Boulder, Colorado, cet hiver pour donner à nos jeunes leaders une chance de se réunir et d'élaborer des stratégies pour nos prochaines étapes tout en apprenant à se connaître de manière amusante et belle. paramètre. Si vous connaissez quelqu’un qui souhaiterait participer, n’hésitez pas à nous le faire savoir !
+- **Soutien** : Nous sommes reconnaissants envers tous les parents et enseignants dévoués qui nous ont précédés. C’est notre désir de rassembler autant d’expérience et d’histoire que possible. Qu’est-ce qui a fonctionné pour vous en tant que parents ? Que peut faire notre comité pour vous aider dans vos efforts pour partager cette révélation avec vos enfants ? Envoyez-nous vos histoires ; nous voulons communiquer et travailler ensemble. Envoyez-nous un e-mail à urantia@gci.net ou appelez le (907) 830-8816.
+- **Service** : Nous aimerions connaître votre avis sur des projets de service qui seraient particulièrement importants et convaincants pour nos jeunes et jeunes adultes.
 - **Sensibilisation** : Qui de mieux que les nôtres pour promouvoir les enseignements du Livre d'Urantia auprès des jeunes adultes en quête de vérité ? Les idées incluent un site Web, l’utilisation des réseaux de médias sociaux, la création de stands de lecture, de programmes sur le campus et de documents attrayants pour la jeune génération, et même l’organisation de Cosmic Road Shows destinés aux jeunes adultes. Nous avons des lecteurs dans notre Fraternité qui souhaitent exercer ce type de ministère. Juste un peu de conseils, d’encouragement et un peu de financement peuvent être très utiles.
 
 Nous avons une énorme population de moins de quarante ans qui est prête pour cette révélation maintenant ! Comment pouvons-nous les atteindre et les inviter à faire partie de la communauté du Livre d'Urantia ? De plus, comment pouvons-nous atteindre tous les enfants de la « deuxième génération » qui ont maintenant leurs propres enfants pour les réinviter dans notre fraternité ?
@@ -413,13 +413,13 @@ Alternativement, les personnes qui ne se trouvent pas à proximité d'un ordinat
 
 Tous les programmes passés sont archivés pour être lus à tout moment et peuvent être téléchargés gratuitement sous forme de podcasts. La liste des programmes récents se trouve sur le côté gauche de l’écran, le plus récent en haut. Les programmes antérieurs remontant à juillet 2008 sont disponibles, regroupés par mois, dans l’espace à la demande. Une liste des biographies des invités ainsi que les archives des émissions passées peuvent être trouvées sur le site Web de la Fellowship à urantiabook.org/blogs/CosmicCitizen/GuestBios.htm
 
-Paula rapporte que l’audience moyenne du programme audio (y compris la lecture ultérieure) est désormais d'environ 400 auditeurs, et la participation active au salon de discussion représente environ 5 % des auditeurs. 
+Paula rapporte que l’audience moyenne du programme audio (y compris la lecture ultérieure) est désormais d'environ 400 auditeurs, et la participation active au salon de discussion représente environ 5 % des auditeurs. 
 
 Bien que la plupart des auditeurs soient basés aux États-Unis, Cosmic Citizen exerce à sa manière une influence mondiale. Paula dit : « Parce que le programme est diffusé depuis Internet, il offre une communauté aux lecteurs du Livre d'Urantia à l’étranger qui n’ont pas d'autres lecteurs avec lesquels interagir. Lorsque les lecteurs se trouvent dans des endroits reculés du monde, cela peut vraiment les aider à savoir qu’ils ne sont pas seuls. J'ai récemment reçu un message d'un lecteur américain qui vit à Séoul. Il a dit qu’il adorait écouter parce que cela nous rapprochait un peu de la maison.
 
-Programmes de radio Internet hebdomadaires animés par les lecteurs du Livre d'Urantia :
+Programmes de radio Internet hebdomadaires animés par les lecteurs du Livre d'Urantia :
 
-> _Cosmic Citizen_ : animé par Paula Thompson et Christilyn Biek-Larson
+> _Cosmic Citizen_ : animé par Paula Thompson et Christilyn Biek-Larson
 > Diffusion en direct le samedi pendant deux heures ; lecture à la demande
 > www.blogtalkradio.com/cosmiccitizen
 > 10h00 à midi, heure de l’Est
@@ -453,7 +453,7 @@ Programmes de radio Internet hebdomadaires animés par les lecteurs du Livre d'U
 
 N’oubliez pas de nous informer de vos changements d’adresse postale et d’adresse e-mail. Nous apporterons les changements le plus rapidement possible afin que vous puissiez continuer à recevoir nos publications.
 
-S'il vous plaît envoyez-nous des nouvelles de votre groupe d'étude et/ou des activités de votre société. Nous aimerions également recevoir des articles que vous avez peut-être écrits ou que vous avez en tête et que nous pourrions considérer pour le Mighty Messenger ou le Fellowship Herald. Ce sont vos contributions en tant que lecteurs du _Livre d’Urantia_ qui remplissent les pages de nos bulletins et magazines. Si vous souhaitez rédiger un article, veuillez contacter la présidente du comité des publications, Linda Buselli, à : LJBuselli@sbcglobal.net. 
+S'il vous plaît envoyez-nous des nouvelles de votre groupe d'étude et/ou des activités de votre société. Nous aimerions également recevoir des articles que vous avez peut-être écrits ou que vous avez en tête et que nous pourrions considérer pour le Mighty Messenger ou le Fellowship Herald. Ce sont vos contributions en tant que lecteurs du _Livre d’Urantia_ qui remplissent les pages de nos bulletins et magazines. Si vous souhaitez rédiger un article, veuillez contacter la présidente du comité des publications, Linda Buselli, à : LJBuselli@sbcglobal.net. 
 
 
 ## Liens externes

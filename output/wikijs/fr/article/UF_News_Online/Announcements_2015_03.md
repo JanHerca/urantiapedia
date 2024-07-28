@@ -41,13 +41,13 @@ _Par Bobbie Dreier, New Jersey, États-Unis_
 
 Lieu: Techny Towers, Northbook, Illinois, du 9 au12 juillet.
 
-Inscrivez-vous avec d’autres lecteurs du _Livre d’Urantia_, cet été, pour explorer « Notre relation avec Dieu le Père ». En mettant l’accent sur les fascicules 1 à 5, le Comité d’éducation initie un voyage à travers les grands thèmes du _Livre d’Urantia._
+Inscrivez-vous avec d’autres lecteurs du _Livre d’Urantia_, cet été, pour explorer « Notre relation avec Dieu le Père ». En mettant l’accent sur les fascicules 1 à 5, le Comité d’éducation initie un voyage à travers les grands thèmes du _Livre d’Urantia._
 
 Le Comité de la conférence prévoit une variété d’expériences, y compris des ateliers pour les nouveaux lecteurs, des études en profondeur, des ateliers expérientiels et des études avancées. En plus du programme d’études, il y aura la possibilité de participer à la méditation d’adoration et l’occasion de renouveler de vieilles amitiés et d’en créer de nouvelles.
 
-Bien que les lecteurs viennent à la Session d’étude d’été de la Fellowship pour des raisons diverses, l’incitation majeure d’y assister est la grande qualité des ateliers. L’équipe de la conférence demande des propositions appropriées d’ateliers pour les nouveaux lecteurs ainsi que des études en profondeur pour « les expérimentés ». Il y aura une ligne pour les ateliers qui sont d’abord expérientiels, mais tous les dirigeants d’atelier devraient prévoir de faire discuter activement les participants. Si vous avez une idée pour un atelier sur le thème de cet été, demander un Formulaire de Proposition d’Atelier à David Kulieke [david.kulieke@gmail.com](mailto:david.kulieke@gmail.com).
+Bien que les lecteurs viennent à la Session d’étude d’été de la Fellowship pour des raisons diverses, l’incitation majeure d’y assister est la grande qualité des ateliers. L’équipe de la conférence demande des propositions appropriées d’ateliers pour les nouveaux lecteurs ainsi que des études en profondeur pour « les expérimentés ». Il y aura une ligne pour les ateliers qui sont d’abord expérientiels, mais tous les dirigeants d’atelier devraient prévoir de faire discuter activement les participants. Si vous avez une idée pour un atelier sur le thème de cet été, demander un Formulaire de Proposition d’Atelier à David Kulieke [david.kulieke@gmail.com](mailto:david.kulieke@gmail.com).
 
-Une retraite de pré-conférence, « Créer des cercles de confiance », se tiendra du 7 au 9 juillet.
+Une retraite de pré-conférence, « Créer des cercles de confiance », se tiendra du 7 au 9 juillet.
 
 Inscription en ligne à [www.urantiabook.org/committees/education/summer-study-session](http://www.urantiabook.org/committees/education/summer-study-session)
 <br style="clear:both;"/>

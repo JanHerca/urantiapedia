@@ -1,5 +1,5 @@
 ---
-title: "Ministère individuel : Service communautaire"
+title: "Ministère individuel : Service communautaire"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -54,7 +54,7 @@ Tout au long du _Livre d'Urantia_, la religion est décrite comme cette double e
 <figcaption>Figure 1. — Aimer Dieu, Croissance religieuse, Servir l'homme</figcapton>
 </figure>
 
-Cette discussion se concentrera sur la dimension service et sera divisée en deux parties. La première partie, intitulée « Ministère individuel », entreprendra six études de personnages historiques et examinera leur service envers l'humanité en tant que conséquence de leur vie religieuse. La deuxième partie, intitulée « Service communautaire », explorera quatre communautés, deux historiques et deux contemporaines, dont le lien commun leur a donné l'unité spirituelle et a renforcé leur mission dans le monde. À la fin, des applications à nos vies spirituelles individuelles et collectives seront examinées.
+Cette discussion se concentrera sur la dimension service et sera divisée en deux parties. La première partie, intitulée « Ministère individuel », entreprendra six études de personnages historiques et examinera leur service envers l'humanité en tant que conséquence de leur vie religieuse. La deuxième partie, intitulée « Service communautaire », explorera quatre communautés, deux historiques et deux contemporaines, dont le lien commun leur a donné l'unité spirituelle et a renforcé leur mission dans le monde. À la fin, des applications à nos vies spirituelles individuelles et collectives seront examinées.
 
 ## Partie I — Ministère individuel
 

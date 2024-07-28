@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Georges Michelson-Dupont, vice-président international, Fondation Urantia, Recloses, France_
 
-C'est un privilège pour moi, en tant que cofondateur de l'École Internationale du Livre d'Urantia (UBIS), d'écrire ce témoignage alors que nous célébrons le 25e anniversaire de la création d'UBIS. Nous avons parcouru un long chemin depuis que l'idée d'une école en ligne fut envisagée pour la première fois en 1998 - il y a un quart de siècle !
+C'est un privilège pour moi, en tant que cofondateur de l'École Internationale du Livre d'Urantia (UBIS), d'écrire ce témoignage alors que nous célébrons le 25e anniversaire de la création d'UBIS. Nous avons parcouru un long chemin depuis que l'idée d'une école en ligne fut envisagée pour la première fois en 1998 - il y a un quart de siècle !
 
 En effet, cela fait 25 ans que l'école offrit ses premiers cours en 1999. Sous la direction de Dorothy Elder, UBIS a commencé sa mission d'aider les lecteurs à se familiariser avec les enseignements exceptionnels et parfois très complexes, révélés dans _le Livre d'Urantia_.
 

@@ -62,7 +62,7 @@ Pour en apprendre plus sur le processus de traduction de la Fondation Urantia, r
 
 [https://www.urantia.org/fr/news/2019-06/creer-des-traductions-par-amour-le-processus-de-qualite-de-la-fondation-urantia](https://www.urantia.org/fr/news/2019-06/creer-des-traductions-par-amour-le-processus-de-qualite-de-la-fondation-urantia)
 
-Pour faire un don pour l’effort de traduction en philippin, visitez, s’il vous plaît :
+Pour faire un don pour l’effort de traduction en philippin, visitez, s’il vous plaît :
 
 [https://www.urantia.org/fr/faire-un-don/urantia-foundation](https://www.urantia.org/fr/faire-un-don/urantia-foundation)
 

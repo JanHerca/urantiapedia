@@ -42,11 +42,11 @@ _Par les Trustees et le personnel de la Fondation Urantia_
 
 Quand nous achetons un appareil, une voiture, ou un téléphone portable avec une garantie, nous nous sentons rassurés. Les polices d’assurance du foyer procurent une certaine sécurité en sachant que les réparations seront dédommagées. Les assurances maladie nous apportent la tranquillité. Malheureusement, même les meilleures garanties ont des clauses en petites lettres définissant une échappatoire pour l’assureur. Elles tombent aussi en déchéance et ont une date d’expiration.
 
-Comment recevoir les promesses éternelles avec des garanties inébranlables ? Est-ce que ça semble trop beau pour être vrai ? Non ! _Le Livre d’Urantia_ est rempli de telles promesses. Ces engagements proviennent du cœur de la Source Centre Première et sont appliqués par notre Fils Créateur et l’Esprit de la Mère Créative.
+Comment recevoir les promesses éternelles avec des garanties inébranlables ? Est-ce que ça semble trop beau pour être vrai ? Non ! _Le Livre d’Urantia_ est rempli de telles promesses. Ces engagements proviennent du cœur de la Source Centre Première et sont appliqués par notre Fils Créateur et l’Esprit de la Mère Créative.
 
-Machiventa Melchizedek nous assure que « le grand accord urantien entre la divinité et l’humanité, selon lequel Dieu accepte de _tout_ faire, l’homme acceptant seulement de _croire_ à la promesse de Dieu et de suivre ses instructions. » <a id="a46_237"></a>[LU 93:6.4](/fr/The_Urantia_Book/93#p6_4)
+Machiventa Melchizedek nous assure que « le grand accord urantien entre la divinité et l’humanité, selon lequel Dieu accepte de _tout_ faire, l’homme acceptant seulement de _croire_ à la promesse de Dieu et de suivre ses instructions. » <a id="a46_237"></a>[LU 93:6.4](/fr/The_Urantia_Book/93#p6_4)
 
-Dans notre monde incertain d’aujourd’hui, les lecteurs du _Livre d’Urantia_ sont assurés de la présence, de la bienveillance, de la compassion, et de la miséricorde du Père. Nous sommes réconfortés et guidés par Jésus à travers l’Esprit de Vérité. Nous sommes ravis de la promesse que «  le but de l’éternité est en avant ! L’aventure d’aboutissement à la divinité se présente devant vous ! » <a id="a48_393"></a>[LU 32:5.8](/fr/The_Urantia_Book/32#p5_8)
+Dans notre monde incertain d’aujourd’hui, les lecteurs du _Livre d’Urantia_ sont assurés de la présence, de la bienveillance, de la compassion, et de la miséricorde du Père. Nous sommes réconfortés et guidés par Jésus à travers l’Esprit de Vérité. Nous sommes ravis de la promesse que «  le but de l’éternité est en avant ! L’aventure d’aboutissement à la divinité se présente devant vous ! » <a id="a48_393"></a>[LU 32:5.8](/fr/The_Urantia_Book/32#p5_8)
 
 Cinq généreux donateurs ont convenu de faire une contribution de $215,000 qui sera égalisée dollar pour dollar, si nous levons le même montant avant le **samedi 31 décembre.** Votre don à la Fondation Urantia aidera à transformer des vies, et le monde à terme, parce que c’est notre mission — notre promesse envers vous — de semer _Le Livre d’Urantia_ et ses enseignements mondialement.
 <br style="clear:both;"/>
@@ -56,7 +56,7 @@ Cinq généreux donateurs ont convenu de faire une contribution de $215,000 qui 
 <img src="/image/article/UF_News_Online/2022_12/002.jpg">
 </figure>
 
-Si vous avez déjà fait un don, merci ! Si non, aidez-nous, s’il vous plaît, à atteindre notre but en faisant une contribution pour la campagne d’égalisation de l’hiver 2022.
+Si vous avez déjà fait un don, merci ! Si non, aidez-nous, s’il vous plaît, à atteindre notre but en faisant une contribution pour la campagne d’égalisation de l’hiver 2022.
 
 [**Cliquez ici pour faire un don.**](https://www.urantia.org/fr/faire-un-don/urantia-foundation)
 

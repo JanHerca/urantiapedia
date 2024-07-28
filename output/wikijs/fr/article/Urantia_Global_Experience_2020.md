@@ -120,7 +120,7 @@ Le but de ces explorations visionnaires est d’avoir une participation et une d
 
 ### Ajustement et fonction
 
-Toutes les explorations doivent s’inscrire dans le thème général de l’UGE 2020, Soutenir ensemble – Servir Dieu le Suprême. Les sujets potentiels d'exploration visionnaire comprennent : l’éducation, la musique et les arts médiatiques au service de la révélation, l’unité spirituelle, les dirigeants et les enseignants, l’apport de la révélation au monde, l’étude, le service, etc. La sélection finale des salles de réunion disponibles sera effectuée par le conseil consultatif de l’UGE 2020.
+Toutes les explorations doivent s’inscrire dans le thème général de l’UGE 2020, Soutenir ensemble – Servir Dieu le Suprême. Les sujets potentiels d'exploration visionnaire comprennent : l’éducation, la musique et les arts médiatiques au service de la révélation, l’unité spirituelle, les dirigeants et les enseignants, l’apport de la révélation au monde, l’étude, le service, etc. La sélection finale des salles de réunion disponibles sera effectuée par le conseil consultatif de l’UGE 2020.
 
 ### Paire ou équipe
 
@@ -138,7 +138,7 @@ Se sentir perdu? Accédez à notre plan du site.
 	- a. Cet événement a été organisé et planifié conjointement par la Fellowship et l’AUI Canada.
 	- b. Nous espérons que les participants seront prêts à « résoudre les problèmes du monde » et à partager leurs visions sur la manière de faire avancer la planète vers la lumière et la vie.
 	- c. L'accent sera mis sur la résolution de problèmes par l’adoration.
-	- d. Nous espérons que tout le monde pense moins au « moi » et davantage au « nous ».
+	- d. Nous espérons que tout le monde pense moins au « moi » et davantage au « nous ».
 
 ## Expérience Globale Urantia
 

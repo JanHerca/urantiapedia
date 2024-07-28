@@ -45,7 +45,7 @@ _Par Geri Johnson, trustee associé, Hawaï, États-Unis et Guy Perron, trustee 
 <img src="/image/article/UF_News_Online/2021_04/033.jpg">
 </figure>
 
-Le Comité de Sensibilisation de la Fondation Urantia a été mis en service avec les membres suivants : Minoo Treichler, Gary Deinstadt, Geri Johnson, Guy Perron, Mo Siegel et Tamara Strumfeld. Depuis notre première réunion en octobre 2020, nous avons fixé nos objectifs, avons défini un programme pour travailler en coopération avec les organisations Urantia et avons commencé à explorer les façons de soutenir les nouveaux lecteurs, tout en attirant aussi de nouvelles personnes vers les enseignements du _Livre d’Urantia._
+Le Comité de Sensibilisation de la Fondation Urantia a été mis en service avec les membres suivants : Minoo Treichler, Gary Deinstadt, Geri Johnson, Guy Perron, Mo Siegel et Tamara Strumfeld. Depuis notre première réunion en octobre 2020, nous avons fixé nos objectifs, avons défini un programme pour travailler en coopération avec les organisations Urantia et avons commencé à explorer les façons de soutenir les nouveaux lecteurs, tout en attirant aussi de nouvelles personnes vers les enseignements du _Livre d’Urantia._
 
 Comme nous l’avons fait dans le passé, le conseil d’administration et le personnel de la Fondation Urantia continueront à soutenir la communauté du lectorat urantien par des conférences, des salons du livre, des efforts de distribution gratuite du livre et en créant du matériel promotionnel qui pourra être utilisé sur les sites web et sur les réseaux sociaux.
 

@@ -45,7 +45,7 @@ _Par Judy Van Cleave, Trustee, secrétaire de la Fondation Urantia, Idaho, État
 
 La Fondation Urantia a ouvert son quartier général aux leaders de l’Association Urantia Internationale et à la Fellowship du Livre d’Urantia pour parler des problèmes d’unité des organisations. Alors que la Fondation Urantia a une politique de non interférence dans les affaires internes des groupes sociaux, nous sommes tous pour l’harmonie sociale et les relations aimantes entre ceux qui travaillent pour faire avancer les buts de la Révélation Urantia.
 
-Un communiqué conjoint de presse annonçait : « Du 3 au 5 octobre 2016, les représentants des Associations et la Fellowship se sont rencontrés à Chicago pour considérer l’unité des organisations. Une atmosphère de bonne volonté prévalut tout au long de nos moments ensemble. Nous nous sommes tous accordés sur le désir d’unité. Une proposition d’unité a été écrite et sera bientôt soumise aux deux organisations. Des informations complémentaires seront partagées dès que possible. Nous remercions la Fondation Urantia pour avoir reçu notre réunion d’unité. Comme d’habitude, nous nous sommes sentis tellement bienvenus, bien nourris et pris en charge aussi bien mentalement, physiquement et spirituellement. Finalement, notre sincère appréciation va à tous, pour vos prières et votre soutien ».
+Un communiqué conjoint de presse annonçait : « Du 3 au 5 octobre 2016, les représentants des Associations et la Fellowship se sont rencontrés à Chicago pour considérer l’unité des organisations. Une atmosphère de bonne volonté prévalut tout au long de nos moments ensemble. Nous nous sommes tous accordés sur le désir d’unité. Une proposition d’unité a été écrite et sera bientôt soumise aux deux organisations. Des informations complémentaires seront partagées dès que possible. Nous remercions la Fondation Urantia pour avoir reçu notre réunion d’unité. Comme d’habitude, nous nous sommes sentis tellement bienvenus, bien nourris et pris en charge aussi bien mentalement, physiquement et spirituellement. Finalement, notre sincère appréciation va à tous, pour vos prières et votre soutien ».
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2016_12/006.jpg">
@@ -60,7 +60,7 @@ La première publication du label d’impression, Urantia Press, de la Fondation
 
 Pour écrire un commentaire sur le livre des paraboles, visitez, s’il vous plaît, [http://amzn.to/2e9qvaa](http://amzn.to/2e9qvaa).
 
-Pour écrire un commentaire sur _LeLivre d’Urantia,_ visitez : [http://amzn.to/2ewj8US](http://amzn.to/2ewj8US).
+Pour écrire un commentaire sur _LeLivre d’Urantia,_ visitez : [http://amzn.to/2ewj8US](http://amzn.to/2ewj8US).
 
 ## 3. Finances
 
@@ -70,15 +70,15 @@ Pour écrire un commentaire sur _LeLivre d’Urantia,_ visitez : [http://amzn.t
 
 L’année fiscale 2016, continue d’être une année difficile de collecte de fonds. L’année dernière, il y eut des dons extraordinaires de $204.000. Si l’on déduit ces dons du total reçu l’année dernière, il faudra $58.000 pour faire le compte. Nous avons gardé nos dépenses le plus bas possible, mais les donations sont actuellement moindres.
 
-Une poignée de généreux donateurs donneront $250.000, si nous pouvons lever le même montant au 31 décembre 2016. C’est une « obligation » car cette année est un défi financier.
+Une poignée de généreux donateurs donneront $250.000, si nous pouvons lever le même montant au 31 décembre 2016. C’est une « obligation » car cette année est un défi financier.
 
 Nous avons besoin de cette collecte de fonds à égalisation, forte, afin d’avancer pour servir encore plus en 2017. C’est l’occasion de doubler votre don, dollar par dollar, et d’aider l’un des plus grands projets sur terre.
 
 Bien que nous ayons atteint des jalons importants ces dernières années, il y a beaucoup à faire. Le texte du _Livre d’Urantia_ a été préservé inviolé et ses enseignements se sont diffusés à travers différentes cultures et pays. Il y a quatorze traductions imprimées, seize sur [www.urantia.org](http://www.urantia.org/) et d’autres en cours. Vous pouvez trouver des Livres d’Urantia et des groupes d’étude à travers le monde. Mais les ressources actuelles sont insuffisantes pour les besoins du lectorat international en expansion.
 
-Agissez maintenant, s’il vous plaît. Aidez à semer la Révélation Urantia est l’un des plus grands dons que vous puissiez faire pour élever notre monde. Cliquez ici pour faire un don : [http://www.urantia.org/fr/donate/donations-en-ligne](http://www.urantia.org/fr/donate/donations-en-ligne).
+Agissez maintenant, s’il vous plaît. Aidez à semer la Révélation Urantia est l’un des plus grands dons que vous puissiez faire pour élever notre monde. Cliquez ici pour faire un don : [http://www.urantia.org/fr/donate/donations-en-ligne](http://www.urantia.org/fr/donate/donations-en-ligne).
 
-Merci !
+Merci !
 <br style="clear:both;"/>
 
 ## 4. Sherry Layton se joint à nous comme nouveau trustee associé
@@ -100,7 +100,7 @@ Le conseil d’administration a voté un budget opératif de dépenses pour 2017
 
 ## 7. Amélioration de urantia.org en 2017
 
-Durant les dernières années, les archétypes de trafic sur l’internet et vers le site de la Fondation Urantia ont changé. Il y a eu, surtout parmi les jeunes, un changement radical de visite de sites sur l’ordinateur vers les appareils mobiles. Les visites par mobiles sont passées à presque 50% du trafic vers urantia.org. Bien que le site de la Fondation soit quelque peu adapté aux mobiles, il est loin d’être facilement utilisable pour les mobiles. Les défis pour transformer le site afin de recevoir le trafic mobile grandissant sont doubles : d’abord, le site de la Fondation est traduit en 16 langues et deuxièmement, la combinaison du coût et de l’expertise vidéo électronique dépasse les capacités de la Fondation. Néanmoins, il faut le faire. Urantia.org est le site Urantia le plus visité au monde et à besoin de rester actuel. L’argent a été compris dans le budget 2017 pour améliorer le site.
+Durant les dernières années, les archétypes de trafic sur l’internet et vers le site de la Fondation Urantia ont changé. Il y a eu, surtout parmi les jeunes, un changement radical de visite de sites sur l’ordinateur vers les appareils mobiles. Les visites par mobiles sont passées à presque 50% du trafic vers urantia.org. Bien que le site de la Fondation soit quelque peu adapté aux mobiles, il est loin d’être facilement utilisable pour les mobiles. Les défis pour transformer le site afin de recevoir le trafic mobile grandissant sont doubles : d’abord, le site de la Fondation est traduit en 16 langues et deuxièmement, la combinaison du coût et de l’expertise vidéo électronique dépasse les capacités de la Fondation. Néanmoins, il faut le faire. Urantia.org est le site Urantia le plus visité au monde et à besoin de rester actuel. L’argent a été compris dans le budget 2017 pour améliorer le site.
 
 Le conseil d’administration a adopté une résolution de former un comité ad hoc pour redessiner le site web qui comprendra Richard Jernigan, Victor García-Bory, Tamara Strumfeld, Lu Schanfarber et Angie Thurston.
 

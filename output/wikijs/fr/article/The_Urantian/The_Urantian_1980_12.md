@@ -36,7 +36,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 La jeunesse cherche à être reconnue. La maturité tend à changer la perspective de l'individu en lui faisant prendre conscience de l'importance de soi.
 
-_Le Livre d'URANTIA_ honore ceux qui servent tranquillement dans les coulisses. On nous dit qu'un réserviste est choisi en raison de sa « ... volonté de servir sans reconnaissance ni récompense humaine._ » (<a id="a38_207"></a>[LU 114:7.5](/fr/The_Urantia_Book/114#p7_5))
+_Le Livre d'URANTIA_ honore ceux qui servent tranquillement dans les coulisses. On nous dit qu'un réserviste est choisi en raison de sa « ... volonté de servir sans reconnaissance ni récompense humaine._ » (<a id="a38_207"></a>[LU 114:7.5](/fr/The_Urantia_Book/114#p7_5))
 
 La Fraternité URANTIA semble entrer dans une période de transition où l'ancien cède la place au nouveau. Permettez-moi d'exhorter ceux à qui nous confions la garde de notre révélation à ne pas rejeter le leadership historique des nombreux hommes et femmes dévoués du passé qui ont tant fait en contribuant à l'organisation de la Fraternité et ont donné leur vie à la Fraternité. diffusion de ces enseignements.
 
@@ -45,7 +45,7 @@ La Fraternité URANTIA semble entrer dans une période de transition où l'ancie
 — _Grace E. Stephens_
 _Downer's Grove, Illinois_
 
-_Note de l'éditeur : Grace Stephens a obtenu son diplôme pour les Mondes des Manoirs en janvier de cette année._
+_Note de l'éditeur : Grace Stephens a obtenu son diplôme pour les Mondes des Manoirs en janvier de cette année._
 
 _L'article suivant paraîtra également dans The CIRCLES._
 
@@ -67,7 +67,7 @@ Cet essai a un double objectif : suggérer une explication pour laquelle la Divi
 
 **Partie 1**
 
-En essayant de comprendre le concept de race dans _Le Livre d'URANTIA_, j'ai trouvé nécessaire d'adopter le point de vue selon lequel « _Les origines finies sont utiles, mais seules les causes divines révèlent les effets finals. Les fins éternelles ne se montrent pas dans les commencements temporels._” (<a id="a69_305"></a>[LU 19:1.11](/fr/The_Urantia_Book/19#p1_11)) Il est utile d'avoir une liste d'un porteur de vie de certaines des raisons des différences raciales : variété pour la sélection naturelle ; le métissage de facteurs héréditaires divers mais supérieurs ; développement interracial compétitif; la variation du statut racial offre la possibilité de développer la tolérance ; et encourager les races individuelles à croître d’abord en nombre et à parvenir à maturité avant un mélange racial homogène à l’échelle mondiale. (<a id="a69_819"></a>[LU 64:6.31-35](/fr/The_Urantia_Book/64#p6_31)) Bien que ces raisons décrivent quelque chose d'important sur le processus d'évolution raciale dans la condition humaine, elles n'expliquent pas comment le plan de plusieurs races évolutives de couleur est lié à Dieu et à sa conception cosmique de l'univers.
+En essayant de comprendre le concept de race dans _Le Livre d'URANTIA_, j'ai trouvé nécessaire d'adopter le point de vue selon lequel « _Les origines finies sont utiles, mais seules les causes divines révèlent les effets finals. Les fins éternelles ne se montrent pas dans les commencements temporels._” (<a id="a69_305"></a>[LU 19:1.11](/fr/The_Urantia_Book/19#p1_11)) Il est utile d'avoir une liste d'un porteur de vie de certaines des raisons des différences raciales : variété pour la sélection naturelle ; le métissage de facteurs héréditaires divers mais supérieurs ; développement interracial compétitif; la variation du statut racial offre la possibilité de développer la tolérance ; et encourager les races individuelles à croître d’abord en nombre et à parvenir à maturité avant un mélange racial homogène à l’échelle mondiale. (<a id="a69_819"></a>[LU 64:6.31-35](/fr/The_Urantia_Book/64#p6_31)) Bien que ces raisons décrivent quelque chose d'important sur le processus d'évolution raciale dans la condition humaine, elles n'expliquent pas comment le plan de plusieurs races évolutives de couleur est lié à Dieu et à sa conception cosmique de l'univers.
 
 [Lire la suite](/fr/article/Charles_Laurence_Olivea/The_concept_of_race_in_The_Urantia_Book)
 

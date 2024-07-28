@@ -51,7 +51,7 @@ Bon nombre de ces articles contiennent des suggestions sur la manière de parven
 
 Nous espérons qu'au sein de ce magazine, vous obtiendrez un nouvel aperçu du thème de « l'unité et non l'uniformité » et que vous augmenterez votre appréciation des différentes personnalités et de leur créativité unique.
 
-Mes objectifs pour la publication _The Fellowship Herald_ sont les suivants :
+Mes objectifs pour la publication _The Fellowship Herald_ sont les suivants :
 
 - Créer des liens significatifs entre auteurs et lecteurs
 - Offrir de nouvelles perspectives et clarifier la signification d'un sujet
@@ -71,7 +71,7 @@ Chaire des publications
 
 <br style="clear:both;"/>
 
-> Dans le prochain numéro de _The Fellowship Herald_, le thème est :
+> Dans le prochain numéro de _The Fellowship Herald_, le thème est :
 > 
 > **La rébellion de Lucifer – Le problème du mal.**
 > 

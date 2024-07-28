@@ -42,7 +42,7 @@ _Par David Kulieke, Illinois, États-Unis_
 
 Une autre entreprise conjointe de lecteurs du _Livre d’Urantia_ des différentes organisations Urantia, fut le point fort des activités de la région de Chicago au mois de juin. Après avoir, pendant des années, tenu des stands et présenter _Le Livre d’Urantia_ aux rassemblements, comme le salon « Mind, Body, Spirit », les lecteurs de la région de Chicago ont tenté un nouvel endroit, le renommé Salon du livre Printers Row, qui était appelé cette année la Fête Lit.
 
-Ce grand événement extérieur de deux jours, s’étendait sur plusieurs blocks au sud du centre de Chicago ( Le Loop ). Le 6 juin était ensoleillé et printanier. Le 7 juin était orageux, puis clair. Des librairies, des éditeurs et des organisations petites et grandes, qui publiaient un titre principal, qui représentaient un intérêt spécial ou un groupe religieux, occupaient des centaines de tables.
+Ce grand événement extérieur de deux jours, s’étendait sur plusieurs blocks au sud du centre de Chicago ( Le Loop ). Le 6 juin était ensoleillé et printanier. Le 7 juin était orageux, puis clair. Des librairies, des éditeurs et des organisations petites et grandes, qui publiaient un titre principal, qui représentaient un intérêt spécial ou un groupe religieux, occupaient des centaines de tables.
 
 La Fondation Urantia et la Fellowship du Livre d’Urantia, représenté par la Première société de Chicago pour les lecteurs du _Livre d’Urantia_, partagèrent un stand dans une partie de tente. L’un des objectifs de cet endroit était d’essayer de créer un intérêt plus soutenu pour le livre. Aux salons, les livres sont vendus rapidement, et les bénévoles aiment discuter des enseignements et d’autres idées spirituelles avec de nombreux visiteurs. Cependant, récemment ces interactions ont généré peu d’intérêt pour la participation aux activités locales du Livre d’Urantia, malgré les importants efforts suivis de la part de la Première société.
 
@@ -53,9 +53,9 @@ Les lecteurs qui travaillaient au stand avaient des opinions mitigées sur les r
 <figcaption><em>John Hales et Daniel Glazer</em></figcaption>
 </figure>
 
-Les bénévoles au stand de la Fondation – Fellowship comprenaient les personnes suivantes : Paul Anderson, Emily Deam, Daniel Glazer, John Hales, Ken Keyser, David Kulieike, George Philosophos, Mo Siegel et Joanne Strobel.
+Les bénévoles au stand de la Fondation – Fellowship comprenaient les personnes suivantes : Paul Anderson, Emily Deam, Daniel Glazer, John Hales, Ken Keyser, David Kulieike, George Philosophos, Mo Siegel et Joanne Strobel.
 
-Bien que les ventes et l’intérêt aient été modestes, les bénévoles apprécièrent la positive interaction avec les visiteurs. Mo dit : « Pour moi, ce fut assez réussi pour un premier jour, le temps était incertain et généralement, il faut de nombreuses expositions avant que quelqu’un achète un _Livre d’Urantia_. » Emily ajouta : « Je suis heureuse d’avoir fait partie d’une nouvelle tentative de toucher les autres avec cette bonne parole. »
+Bien que les ventes et l’intérêt aient été modestes, les bénévoles apprécièrent la positive interaction avec les visiteurs. Mo dit : « Pour moi, ce fut assez réussi pour un premier jour, le temps était incertain et généralement, il faut de nombreuses expositions avant que quelqu’un achète un _Livre d’Urantia_. » Emily ajouta : « Je suis heureuse d’avoir fait partie d’une nouvelle tentative de toucher les autres avec cette bonne parole. »
 
 Un point culminant furent les amitiés que nous avons eues avec les employés d’un exposant adjacent, un groupe bouddhiste américain axé sur le service.
 

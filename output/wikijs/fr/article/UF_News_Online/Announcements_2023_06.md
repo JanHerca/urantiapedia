@@ -64,7 +64,7 @@ Pour plus de détails, y compris un lien pour s'inscrire, visitez [https://urant
 
 **Le Symposium sur le Mariage et la Famille**
 
-**Événements en direct sur Zoom !**
+**Événements en direct sur Zoom !**
 
 **Vendredi 14 juin et samedi 15 juin 2024**
 
@@ -91,7 +91,7 @@ Si vous êtes intéressé(e) par une présentation, veuillez contacter [joanne@u
 <img src="/image/article/UF_News_Online/2023_06/020.jpg">
 </figure>
 
-Marquez vos calendriers dès maintenant pour la prochaine Conférence Internationale de l'Association Urantia en 2024 ! Ce sera la 12e conférence internationale de l'Association et elle est organisée par l'Urantia Association des États-Unis. Elle aura lieu l'après-midi du 28 mars jusqu’à midi le 31 mars 2024 (du jeudi au dimanche).
+Marquez vos calendriers dès maintenant pour la prochaine Conférence Internationale de l'Association Urantia en 2024 ! Ce sera la 12e conférence internationale de l'Association et elle est organisée par l'Urantia Association des États-Unis. Elle aura lieu l'après-midi du 28 mars jusqu’à midi le 31 mars 2024 (du jeudi au dimanche).
 
 La conférence se tiendra au Maritime Conference Center (MCC) à Baltimore, Maryland. Le MCC est une installation fabuleuse et abordable, avec une cuisine gastronomique, et la proximité des aéroports internationaux et de nombreuses attractions dans la région de la capitale nationale. Cet événement coïncidera avec l'apogée de la célèbre saison des cerisiers en fleurs et aura lieu le week-end de Pâques. Rejoignez-nous pour célébrer la résurrection de notre Maître et explorer "La Nature et la Nourriture de l’Âme".
 

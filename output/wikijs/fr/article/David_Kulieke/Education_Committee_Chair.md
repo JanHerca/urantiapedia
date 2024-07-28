@@ -51,17 +51,17 @@ Ces dernières années, le comité a fourni du matériel éducatif téléchargea
 
 Si un groupe ou une conférence souhaite que des membres du comité lui rendent visite, contactez-les à urantiaeducation@gmail.com. 
 
-Certains des documents disponibles sur le site Web du Comité d'éducation de la Fellowship du Livre d'Urantia :
+Certains des documents disponibles sur le site Web du Comité d'éducation de la Fellowship du Livre d'Urantia :
 
-Sous Ressources :
+Sous Ressources :
 
 - « Références principales sur l’éducation du _Le Livre d'Urantia_. » Il s'agit de 21 pages organisées par sujet des meilleures citations sur l’éducation, l’enseignement et l’apprentissage, condensées à partir de 130 pages.
-- Références pédagogiques : plusieurs articles sur des sujets tels que :
+- Références pédagogiques : plusieurs articles sur des sujets tels que :
 - [Comment Jésus a enseigné](http://www.urantiabook.org/committees/education/EducationalReferenceMaterials#how)
 - [Matériaux du groupe d'étude](http://www.urantiabook.org/committees/education/EducationalReferenceMaterials#study)
 - [Étude approfondie](http://www.urantiabook.org/committees/education/EducationalReferenceMaterials#study2)
 - Matériel d'atelier adapté à l’enseignement : Le comité considère qu’il s'agit d'une de ses initiatives les plus importantes. Il comprend des documents, des plans de cours et des plans pour les participants qui peuvent être utilisés ou adaptés. Ces ateliers sont soigneusement choisis et ils se multiplient.
-- Documents pour les groupes d'étude : cela comprend « Communauté : Commencer et organiser des groupes d'étude efficaces », une publication colorée du Comité d'éducation, riche en photos et en idées.
+- Documents pour les groupes d'étude : cela comprend « Communauté : Commencer et organiser des groupes d'étude efficaces », une publication colorée du Comité d'éducation, riche en photos et en idées.
 - Séminaires : Parmi ses réalisations les plus notables, le Comité d'Éducation a présenté trois séminaires de la série Wrightwood des années 1990 : « [Construire le Temple Vivant de la Fraternité Spirituelle](https://urantiabook.worldsecuresystems.com/committees/education/pdfs/Building.pdf) », « [Le Genre et _Le Livre d'Urantia_](https://urantiabook.worldsecuresystems.com/committees/education/pdfs/Gender.pdf) » et « [Perspectives sur la race dans _Le Livre d'Urantia_](https://urantiabook.worldsecuresystems.com/committees/education/pdfs/Perspectives.pdf). » De plus, le comité a organisé un séminaire conjoint avec le comité d'éducation de la Fondation Urantia intitulé « Donner la vérité du Ciel : Utiliser notre Talents », qui se concentrait sur la diffusion des enseignements du _Livre d'Urantia_. Les articles de ces quatre séminaires se trouvent sur ce site.
 - Parmi plusieurs autres ressources dans Événements, Liens et À propos de nous, figurent des documents historiques provenant de 64 années d'activités du Comité d'éducation.
 

@@ -49,7 +49,7 @@ Le mercredi 1er septembre, nous avons eu la première réunion pour commencer à
 
 Le lien vers toutes les photos que j'ai reçues est ICI. Il y a un lien sur chaque page d'image pour télécharger et après avoir cliqué sur la vignette pour charger une image plus grande, cliquez à nouveau sur l’image pour voir la photo principale en taille réelle. Faites simplement un clic droit pour enregistrer la photo en taille réelle ou cliquez sur le menu de téléchargement sur la page dans laquelle chaque image est chargée. Merci pour le soutien de Soren Vestergaard, Paula Thompson, André Radatus, Brent St. Denis, Derek Samaras et Michelle Klimesh avec le Pipeline de Lumière.
 
-Pour faire un don au Pipeline of Light, allez à : https://tinyurl.com/PipelineOfLight
+Pour faire un don au Pipeline of Light, allez à : https://tinyurl.com/PipelineOfLight
 
 ## Liens externes
 

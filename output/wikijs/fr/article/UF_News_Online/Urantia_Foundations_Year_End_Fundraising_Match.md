@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 La distribution _du Livre d'Urantia_ en Colombie, Amérique du Sud, est une tâche très difficile. Nous vendons des livres aux distributeurs pour moins de $10 par livre, mais lorsque quelqu'un peut réellement en acheter un, il coûte entre $40 et $80. Il est navrant de savoir qu'une personne avec un cinquième du revenu moyen d'un citoyen américain, paie soit trois à six fois plus cher par livre, ou ne peut pas du tout en acheter un.
 
-Au départ, Wilson León et l'Association Colombienne de l’Urantia Association Internationale en coopération avec la Fondation Urantia, prirent les choses en mains. Ils collectèrent des fonds, firent des pieds et des mains avec le gouvernement afin d’obtenir une licence d'importation, commandèrent plusieurs centaines de « Libro de Urantia, » assistèrent à une foire du livre et distribuèrent le livre à des prix beaucoup plus bas. Une histoire presque identique se joue en Ukraine, grâce à Anton Miroshnichenko et à l'Association d’Ukraine. Les gens à travers le monde sont tellement inspirés par ce livre qui change la vie, qu'ils utilisent leur temps et leurs ressources limités pour propager ses enseignements. **La Fondation Urantia est là pour les aider.**
+Au départ, Wilson León et l'Association Colombienne de l’Urantia Association Internationale en coopération avec la Fondation Urantia, prirent les choses en mains. Ils collectèrent des fonds, firent des pieds et des mains avec le gouvernement afin d’obtenir une licence d'importation, commandèrent plusieurs centaines de « Libro de Urantia, » assistèrent à une foire du livre et distribuèrent le livre à des prix beaucoup plus bas. Une histoire presque identique se joue en Ukraine, grâce à Anton Miroshnichenko et à l'Association d’Ukraine. Les gens à travers le monde sont tellement inspirés par ce livre qui change la vie, qu'ils utilisent leur temps et leurs ressources limités pour propager ses enseignements. **La Fondation Urantia est là pour les aider.**
 
 Nous nous adressons à vous, parce que nous savons que vous aussi, êtes inspiré par les enseignements du _Livre d'Urantia._ Nous savons que vous comprenez le potentiel de cette révélation pour transformer la culture spirituelle de notre planète. Avec 16 traductions nécessitant la distribution, dans plus de 37 pays, nous avons une excellente occasion de catalyser cette transformation spirituelle, en rendant disponible ces enseignements aux générations futures. **Aidez la Fondation Urantia à être là pour les aider.**
 
@@ -48,7 +48,7 @@ Si la Fondation peut collecter $ 160 000 d'ici le 31 décembre 2014, un groupe d
 
 Nous sommes, _plus que jamais_, conscients de vos contributions et de votre soutien à la Fondation Urantia. Sans vous, les efforts de la Fondation ne seraient pas possible. Que ce soit, par des livres plus abordables en Amérique du Sud, par l'augmentation de la distribution en Russie, par l’élargissement de la disponibilité du livre en Afrique ou simplement en passant des commandes avec Amazon, la Fondation Urantia a besoin de votre aide.
 
-Nous vous remercions d'avance, pour votre engagement continuel envers le projet du Livre d'Urantia et de votre soutien financier à la Fondation Urantia !
+Nous vous remercions d'avance, pour votre engagement continuel envers le projet du Livre d'Urantia et de votre soutien financier à la Fondation Urantia !
 
 Vers le haut et vers l'intérieur,
 

@@ -48,7 +48,7 @@ _Les rédacteurs_
 - _Révolution spirituelle_, Carolyn Kendall
 - _La mission du ministère — La façon dont Jésus nous a appris à avoir des relations avec le Père_, Meredith Sprunger
 - _Faire la volonté du père et la motivation humaine_, Henry Begemann
-- _Évolution d'un personnel. Expérience religieuse : croyance, foi, vérité_, Jim McNelly
+- _Évolution d'un personnel. Expérience religieuse : croyance, foi, vérité_, Jim McNelly
 
 
 Les prochains numéros du Journal URANTIEN contiendront davantage de présentations faites à la Conférence Générale de Snowmass.
@@ -90,7 +90,7 @@ _Nouveau Lexington, Ohio_
 
 ## Réceptivité de l'esprit spirituel
 
-Je souhaite partager avec vous quelques observations concernant les aspects spirituels de l’esprit et les états d’esprit les plus propices à la réception spirituelle. Alors que j'aborde ce sujet et cette entreprise, j'invite chacun d'entre vous à participer à une expérience conçue pour utiliser votre esprit, et notre esprit collectif, comme un laboratoire dans lequel doivent être testées certaines des idées qui seront présentées. Dans ce rassemblement d’esprits actifs et polyvalents, il devrait être possible d’explorer simultanément plusieurs niveaux de ce sujet ; c'est-à-dire, dans un certain sens, manifester et expérimenter ce qui est dit avec des mots. Une façon d’y parvenir consiste à modifier le modèle habituel de locuteurs actifs et d’auditeurs passifs. Maintenant, je n'ai pas l'intention de vous demander de parler ; je veux plutôt faire quelques suggestions sur la façon dont vous écoutez.
+Je souhaite partager avec vous quelques observations concernant les aspects spirituels de l’esprit et les états d’esprit les plus propices à la réception spirituelle. Alors que j'aborde ce sujet et cette entreprise, j'invite chacun d'entre vous à participer à une expérience conçue pour utiliser votre esprit, et notre esprit collectif, comme un laboratoire dans lequel doivent être testées certaines des idées qui seront présentées. Dans ce rassemblement d’esprits actifs et polyvalents, il devrait être possible d’explorer simultanément plusieurs niveaux de ce sujet ; c'est-à-dire, dans un certain sens, manifester et expérimenter ce qui est dit avec des mots. Une façon d’y parvenir consiste à modifier le modèle habituel de locuteurs actifs et d’auditeurs passifs. Maintenant, je n'ai pas l'intention de vous demander de parler ; je veux plutôt faire quelques suggestions sur la façon dont vous écoutez.
 
 En particulier, je vous demande de relâcher votre _processus de pensée_ pendant que vous écoutez et d'accorder une attention primordiale à votre conscience intérieure, que j'appellerai votre _intelligence_. Ainsi, pour cet exposé, je souhaite faire une distinction entre la _pensée_ et l'_intelligence_. Je considérerai la pensée comme le processus mécanique de notre cerveau-esprit qui enregistre, organise, évalue, rappelle, etc. Dans un sens, cette fonction ou activité inclut tout ce dans quoi notre cerveau est impliqué dans le domaine matériel. Ainsi, la pensée, dans ce contexte, implique à un moment donné uniquement des informations du passé, stockées en mémoire. Cela laisse, dans la catégorie de l'intelligence, ces idées spéciales qui sont véritablement originales et non simplement le produit de schémas de pensée. L’intelligence est donc une compréhension personnelle provenant d’une source intérieure spirituelle. Il faut être très attentif pour mettre l'esprit en harmonie avec l'intelligence ; en fait, cela doit être équivalent à une coopération avec l'Ajusteur de Pensée intérieur. Et même si nous sommes informés qu'une telle coopération n'est pas un processus particulièrement conscient, on nous dit en outre qu'il existe des moyens réels et efficaces d'augmenter l'harmonie des Ajusteurs. La pensée est une merveilleuse aide mécanique : mais elle ne doit pas interférer avec le contact délicat qui peut être vécu comme intelligence. Chaque personne utilise sa volonté pour diriger son esprit ; et seuls cette volonté et cet esprit savent comment toucher au mieux la source intérieure et couler avec elle.
 
@@ -101,7 +101,7 @@ _Arcata. Californie_
 
 ## La réponse humaine
 
-**L'amour du père : la relation modèle**
+**L'amour du père : la relation modèle**
 
 Le titre de cette conférence est « La réponse humaine » et à travers celui-ci, j'aimerais explorer certaines des façons dont nous, en tant qu'individus, répondons à Dieu. Je dis « certaines des manières » car il ne s'agit en aucun cas d'une étude complète du sujet, et si, à la fin de cette session, je vous laisse soit interpellé, perplexe, soit inspiré pour réfléchir davantage au sujet. , alors j'aurai atteint mon objectif de la journée.
 
@@ -166,18 +166,18 @@ _Ft. Wayne, Indiana_
 
 Il peut y avoir une grande différence entre agir selon de bonnes motivations humaines et faire la volonté du Père. La moralité, et ses motivations corrélées, est avant tout un phénomène évolutif. Il s’agit alors d’un « super-animal, mais sous-spirituel ». La moralité dérivée de ce niveau n’est pas une activité spirituelle, mais une activité dérivée du sens du devoir. La moralité telle que Jésus l'a enseignée est plus qu'évolutive, elle est révélatrice, car son origine se trouve dans la relation père-enfant. Cette relation vécue a pour conséquence une moralité renforcée qui transcende le devoir. « _La caractéristique majeure de l’enseignement de Jésus était que la moralité de sa philosophie dérivait des relations personnelles entre l’individu et Dieu — précisément cette relation d’enfant à père._ » (<a id="a166_810"></a>[LU 140:10.5](/fr/The_Urantia_Book/140#p10_5))
 
-Nous pouvons intellectuellement l’accepter, le croire, mais cela n’est pas suffisant, ce n’est pas la réalité. _Le Livre d'URANTIA_ met continuellement et systématiquement l'accent sur le fait qu'une telle relation devrait être une réalité pour nous. La première phase du royaume est décrite comme : «_L’expérience personnelle et intérieure de la vie spirituelle du croyant communiant individuellement avec Dieu le Père._» (<a id="a168_424"></a>[LU 170:4.2](/fr/The_Urantia_Book/170#p4_2)) Ensuite, la deuxième phase du royaume résulte comme «_La croissance de la fraternité des croyants à l’évangile, les aspects sociaux de la morale supérieure et de l’éthique vivifiée résultant du règne de l’esprit de Dieu dans le cœur des croyants individuels._» (<a id="a168_731"></a>[LU 170:4.3](/fr/The_Urantia_Book/170#p4_3))
+Nous pouvons intellectuellement l’accepter, le croire, mais cela n’est pas suffisant, ce n’est pas la réalité. _Le Livre d'URANTIA_ met continuellement et systématiquement l'accent sur le fait qu'une telle relation devrait être une réalité pour nous. La première phase du royaume est décrite comme : «_L’expérience personnelle et intérieure de la vie spirituelle du croyant communiant individuellement avec Dieu le Père._» (<a id="a168_424"></a>[LU 170:4.2](/fr/The_Urantia_Book/170#p4_2)) Ensuite, la deuxième phase du royaume résulte comme «_La croissance de la fraternité des croyants à l’évangile, les aspects sociaux de la morale supérieure et de l’éthique vivifiée résultant du règne de l’esprit de Dieu dans le cœur des croyants individuels._» (<a id="a168_731"></a>[LU 170:4.3](/fr/The_Urantia_Book/170#p4_3))
 
 [Lire la suite](/fr/article/Henry_Begemann/Doing_The_Fathers_Will_and_human_motivation)
 
 — _Henry Begemann_
 _Wassenaar, Pays-Bas_
 
-## Faire évoluer une expérience religieuse personnelle : de la croyance à la foi en vérité
+## Faire évoluer une expérience religieuse personnelle : de la croyance à la foi en vérité
 
 Merci à tous d'être ici. J'ai intitulé cette conférence : « Faire évoluer une expérience religieuse personnelle ; de la croyance à la foi à la vérité. J'ai choisi ce thème parce que je pense que le message le plus important du _Livre d'URANTIA_, notre cinquième révélation d'époque, est « comment connaître Dieu », par opposition à « comment connaître le _Livre d'URANTIA_ ».
 
-Lorsque j’ai commencé à lire ce livre en 1970, j’étais au milieu d’une profonde quête de vérité, presque une question de vie ou de mort. Avec le tumulte social et la crise de la fin des années 1960, j'avais choisi de faire des choses qui seraient utiles à l'humanité, de rechercher la fin des guerres et des idéaux qui amélioreraient la condition planétaire. Déterminé à ne pas me reposer jusqu'à ce que j'aie trouvé des réponses à mes questions, j'ai reconnu _Le Livre d'URANTIA_ pour ce qu'il était et je l'ai littéralement dévoré en trois mois. À la page 17391, j'ai trouvé une citation qui a changé ma vie :
+Lorsque j’ai commencé à lire ce livre en 1970, j’étais au milieu d’une profonde quête de vérité, presque une question de vie ou de mort. Avec le tumulte social et la crise de la fin des années 1960, j'avais choisi de faire des choses qui seraient utiles à l'humanité, de rechercher la fin des guerres et des idéaux qui amélioreraient la condition planétaire. Déterminé à ne pas me reposer jusqu'à ce que j'aie trouvé des réponses à mes questions, j'ai reconnu _Le Livre d'URANTIA_ pour ce qu'il était et je l'ai littéralement dévoré en trois mois. À la page 17391, j'ai trouvé une citation qui a changé ma vie :
 
 [Lire la suite](/fr/article/Jim_McNelly/Evolving_a_personal_religious_experience)
 

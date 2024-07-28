@@ -45,7 +45,7 @@ Note de l'auteur : Cette présentation était une exploration du conflit entre l
 
 Quelles sont les composantes du soi ?
 
-Il serait utile dans l’étude de l’individualité de se rappeler :
+Il serait utile dans l’étude de l’individualité de se rappeler :
 
 1. Que les systèmes physiques sont subordonnés.
 2. Que les systèmes intellectuels sont coordonnés.
@@ -92,7 +92,7 @@ Il serait utile dans l’étude de l’individualité de se rappeler :
 
 > Le choix moral le plus élevé est celui de la plus haute valeur possible, et toujours — dans chaque sphère et dans toutes les sphères — c’est le choix de faire la volonté de Dieu. (<a id="a92_182"></a>[LU 39:4.14](/fr/The_Urantia_Book/39#p4_14))
 
-## Qu'est-ce qu'un conflit moral ?
+## Qu'est-ce qu'un conflit moral ?
 
 > Maintes difficultés temporelles des mortels proviennent de leur double relation avec le cosmos. L’homme est une partie de la nature — il existe dans la nature — et, cependant, il est capable de transcender la nature. L’homme est fini, mais il est habité par une étincelle d’infinité. Cette situation double ne fournit pas seulement un potentiel pour le mal, mais elle engendre aussi de nombreuses situations sociales et morales empreintes de beaucoup d’incertitudes et de bon nombre de soucis. (<a id="a96_497"></a>[LU 111:6.1](/fr/The_Urantia_Book/111#p6_1))
 
@@ -112,7 +112,7 @@ Il serait utile dans l’étude de l’individualité de se rappeler :
 
 > L’idée-idéal de faire du bien aux autres — l’impulsion à refuser quelque chose à l’égo au profit de son prochain — est d’abord très circonscrite. Les hommes primitifs ne considèrent comme leurs prochains que les hommes très proches d’eux, ceux qui font bon voisinage avec eux. À mesure que la civilisation religieuse progresse, le concept de la notion du prochain s’amplifie pour englober le clan, la tribu, la nation. Puis Jésus élargit la notion du prochain jusqu’à embrasser l’ensemble de l’humanité, allant jusqu’à dire que nous devrions aimer nos ennemis. Et il y a quelque chose à l’intérieur de tout être humain normal qui lui dit que cet enseignement est moral — juste. Même ceux qui mettent le moins cet idéal en pratique admettent qu’il est juste en théorie. (<a id="a112_772"></a>[LU 103:5.2](/fr/The_Urantia_Book/103#p5_2))
 
-## Qu'est-ce que l'ego et l'altruisme ?
+## Qu'est-ce que l'ego et l'altruisme ?
 
 > Tous les hommes reconnaissent la moralité de cette impulsion humaine universelle à être désintéressé et altruiste. Les humanistes attribuent l’origine de cette impulsion à l’action naturelle du mental matériel. Les religionistes reconnaissent plus correctement que l’élan vraiment désintéressé du mental humain est une réponse à la gouverne spirituelle intérieure de l’Ajusteur de Pensée. (<a id="a116_392"></a>[LU 103:5.3](/fr/The_Urantia_Book/103#p5_3))
 
@@ -130,7 +130,7 @@ Il serait utile dans l’étude de l’individualité de se rappeler :
 
 > L’impulsion du Moniteur d’esprit est ressentie dans la conscience humaine comme la tendance à être altruiste, à penser fraternellement ; (<a id="a130_140"></a>[LU 103:2.10](/fr/The_Urantia_Book/103#p2_10))
 
-## Quels outils pouvez-vous utiliser pour gérer les conflits moraux ?
+## Quels outils pouvez-vous utiliser pour gérer les conflits moraux ?
 
 > L’atmosphère de la communion procure une période reposante et réconfortante de trêve dans le conflit de l’égocentrisme avec la pression altruiste du Moniteur d’esprit intérieur. Et ceci est le prélude de la véritable adoration — la pratique de la présence de Dieu qui se manifeste par l’émergence de la fraternité des hommes. (<a id="a134_329"></a>[LU 103:4.1](/fr/The_Urantia_Book/103#p4_1))
 
@@ -159,7 +159,7 @@ Il serait utile dans l’étude de l’individualité de se rappeler :
 - Qu'est-ce qu'un choix moral ? <a id="a158_32"></a>[LU 111:4.12](/fr/The_Urantia_Book/111#p4_12)-<a id="a158_78"></a>[LU 111:6.2](/fr/The_Urantia_Book/111#p6_2), <a id="a158_123"></a>[LU 100:5.10](/fr/The_Urantia_Book/100#p5_10), <a id="a158_170"></a>[LU 111:1.6](/fr/The_Urantia_Book/111#p1_6), <a id="a158_215"></a>[LU 103:2.2](/fr/The_Urantia_Book/103#p2_2), <a id="a158_260"></a>[LU 16:7.2](/fr/The_Urantia_Book/16#p7_2), <a id="a158_303"></a>[LU 108:2.2](/fr/The_Urantia_Book/108#p2_2), <a id="a158_348"></a>[LU 39:4.8](/fr/The_Urantia_Book/39#p4_8)
 - Qu'est-ce qu'un conflit moral ? <a id="a159_34"></a>[LU 111:4.12](/fr/The_Urantia_Book/111#p4_12)-<a id="a159_80"></a>[LU 111:6.2](/fr/The_Urantia_Book/111#p6_2), <a id="a159_125"></a>[LU 111:1.6](/fr/The_Urantia_Book/111#p1_6), <a id="a159_170"></a>[LU 103:2.2](/fr/The_Urantia_Book/103#p2_2)-<a id="a159_214"></a>[LU 103:5.3](/fr/The_Urantia_Book/103#p5_3)
 - Qu'est-ce que l'égoïsme et l'altruisme ? <a id="a160_43"></a>[LU 54:0.1](/fr/The_Urantia_Book/54#p0_1), <a id="a160_86"></a>[LU 54:1.6](/fr/The_Urantia_Book/54#p1_6), <a id="a160_129"></a>[LU 103:3.1](/fr/The_Urantia_Book/103#p3_1)
-- Quels outils pouvons-nous utiliser pour gérer les conflits ou les tensions morales ? <a id="a161_87"></a>[LU 103:4.1](/fr/The_Urantia_Book/103#p4_1), <a id="a161_132"></a>[LU 146:2.6](/fr/The_Urantia_Book/146#p2_6), <a id="a161_177"></a>[LU 160:1.9](/fr/The_Urantia_Book/160#p1_9), <a id="a161_222"></a>[LU 136:6.8](/fr/The_Urantia_Book/136#p6_8), <a id="a161_267"></a>[LU 100:2.4](/fr/The_Urantia_Book/100#p2_4), [LU 5:4.3](/es/The_Urantia_Book/5#p4_3)
+- Quels outils pouvons-nous utiliser pour gérer les conflits ou les tensions morales ? <a id="a161_87"></a>[LU 103:4.1](/fr/The_Urantia_Book/103#p4_1), <a id="a161_132"></a>[LU 146:2.6](/fr/The_Urantia_Book/146#p2_6), <a id="a161_177"></a>[LU 160:1.9](/fr/The_Urantia_Book/160#p1_9), <a id="a161_222"></a>[LU 136:6.8](/fr/The_Urantia_Book/136#p6_8), <a id="a161_267"></a>[LU 100:2.4](/fr/The_Urantia_Book/100#p2_4), [LU 5:4.3](/es/The_Urantia_Book/5#p4_3)
 
 
 ## Des questions
@@ -168,11 +168,11 @@ Générez une liste de valeurs qui pourraient influencer une décision d’agir 
 
 Dans l’histoire de Jésus nettoyant le temple (Fascicule 173, Section 1), quels étaient les conflits ou tensions moraux pour Jésus dans cette représentation ?
 
-Que devez-vous personnellement faire pour atteindre un équilibre entre l’ego et l’altruisme dans chacune de vos vies ?
+Que devez-vous personnellement faire pour atteindre un équilibre entre l’ego et l’altruisme dans chacune de vos vies ?
 
 ## Appendice B
 
-ESPRIT ÉVOLUTIONNAIRE : Système physique
+ESPRIT ÉVOLUTIONNAIRE : Système physique
 
 - Peur émotionnelle
 - Obligation sociale
@@ -192,7 +192,7 @@ Clan – Tribu – Nation
 
 FAIRE LE BIEN AUX AUTRES
 
-## Exhortations altruistes <Br> autres que la propre volonté :
+## Exhortations altruistes <Br> autres que la propre volonté :
 
 - Ajusteur de Pensée
 - Esprit de Vérité

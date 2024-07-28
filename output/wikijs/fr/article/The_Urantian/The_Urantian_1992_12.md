@@ -51,7 +51,7 @@ Tout le monde est invité à soumettre des travaux qui seront pris en considéra
 
 Avec l'aide de la créativité des lecteurs du _Le Livre d'Urantia_, le Journal cherchera à publier l'excellence en art et en pensée en ce qui concerne le _Le Livre d'Urantia_ dans ses prochains numéros.
 
-Nous acceptons les lettres ! Veuillez envoyer vos commentaires sur cette publication à l'adresse indiquée à gauche. Si vous souhaitez correspondre avec un auteur ou un artiste dont l'œuvre apparaît dans ce numéro, envoyez-nous votre lettre et nous la transmettrons.
+Nous acceptons les lettres ! Veuillez envoyer vos commentaires sur cette publication à l'adresse indiquée à gauche. Si vous souhaitez correspondre avec un auteur ou un artiste dont l'œuvre apparaît dans ce numéro, envoyez-nous votre lettre et nous la transmettrons.
 
 La pochette, intitulée « Le Christ faisant le don de la planète pour notre gestion », est de Patrick Yesh.
 
@@ -65,22 +65,22 @@ Publié semestriellement par le comité des publications de THE FELLOWSHIP
 
 529, avenue Wrightwood
 Chicago, Illinois 60614
-Prix d'abonnement : 8,00 $ par an
+Prix d'abonnement : 8,00 $ par an
 
 (Les abonnés internationaux ajoutent 1,00 $ pour les frais de port)
 
 - Rédacteur en chef : David Kulieke
 - Comité de planification : Scott Forsythe, Lynne Kulieke
-- Editeur d'essais : Bob Buselli
+- Editeur d'essais : Bob Buselli
 - Editeur de poésie : Byron Belitsos
-- Éditeur artistique et conception de la plaque signalétique : Glen Thorsander
-- Graphiques et composition : Nancy Johnson
+- Éditeur artistique et conception de la plaque signalétique : Glen Thorsander
+- Graphiques et composition : Nancy Johnson
 
 *Toutes les citations contenues dans ce Journal, sauf indication contraire, proviennent du _Le Livre d'Urantia_, &copy; 1955 par la Fondation URANTIA, tous droits réservés.
 
 Dans la mesure où il n'y a pas d'interprétation officielle des enseignements du _Livre d'Urantia_, les opinions exprimées ici sont entièrement basées sur la compréhension et l'expérience religieuse personnelle de chaque auteur.
 
-Droit d'auteur et copie ; 1992 par La Bourse. Tous droits réservés. Imprimé aux États-Unis
+Droit d'auteur et copie ; 1992 par La Bourse. Tous droits réservés. Imprimé aux États-Unis
 
 
 

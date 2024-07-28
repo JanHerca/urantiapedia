@@ -48,7 +48,7 @@ Ensuite, nous remercions la Fondation Urantia à Chicago, qui fit dons de 100 Li
 
 Enfin, nous sommes reconnaissants aux organisateurs, aux bénévoles qui nous ont soutenu dans le stand pendant quinze jours.
 
-Les résultats de nos efforts furent les suivants :
+Les résultats de nos efforts furent les suivants :
 
 - Plus de 8 500 prospectus furent distribués.
 - Des informations à propos du _Livre d’Urantia_ furent diffusées directement à plus de 2000 personnes.
@@ -56,16 +56,16 @@ Les résultats de nos efforts furent les suivants :
 - Plus de 140 exemplaires de _El libro de Urantia_ furent vendus.
 - Trois présentations sur _Le Livre d’Urantia_ furent données à plus de 100 personnes.
 
-La partie la plus gratifiante de notre présence au salon du livre fut le contact personnel que nous avons eu avec les visiteurs à notre stand ; Beaucoup voyaient le livre pour la première fois, mais certains l’avaient déjà vu. L’enthousiasme de nombreux jeunes ravit nos cœurs.
+La partie la plus gratifiante de notre présence au salon du livre fut le contact personnel que nous avons eu avec les visiteurs à notre stand ; Beaucoup voyaient le livre pour la première fois, mais certains l’avaient déjà vu. L’enthousiasme de nombreux jeunes ravit nos cœurs.
 
-En préparation du salon de l’année prochaine, nous ferons ce qui suit :
+En préparation du salon de l’année prochaine, nous ferons ce qui suit :
 
 - Avoir une machine pour les cartes de crédit.
 - Demander un meilleur emplacement avec un plus grand stand.
 - Participer aux conférences.
 - Participer à plus d’ateliers.
 - Faire plus de promotions.
-- Donner de mini conférences au stand ;
+- Donner de mini conférences au stand ;
 - Avoir un coin enfant avec des puzzles.
 - Servir du café et de l’eau.
 - Améliorer nos techniques sur la façon d’aborder les visiteurs.

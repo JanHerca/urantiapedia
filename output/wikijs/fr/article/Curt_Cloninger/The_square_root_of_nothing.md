@@ -25,7 +25,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </td>
         <td>
         <a href="/fr/article/Stephen_Zendt/Transformation_and_here_is_mistery">
-          <span class="pr-2">Transformation : et voici le mystère</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Transformation : et voici le mystère</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -39,10 +39,10 @@ _Par Curt Cloninger, 17 avril 1986_
 
 Mon Dieu est un danseur de slam sur un sol avec des spectres, 
 lumières psychédéliques;
-et les gens; et des bruits ; et les odeurs ; et des bosses
+et les gens; et des bruits ; et les odeurs ; et des bosses
 et tout ce qu'Il connaît, c'est la musique.
 (Il garde les yeux fermés)
-Mon Dieu bouge comme personne ne peut le faire ;
+Mon Dieu bouge comme personne ne peut le faire ;
 et se brise et se retourne, et se jette comme un magnifique fluide bleu
 en apesanteur.
 Si la musique avait une vie et un corps, elle refléterait les mouvements de mon Dieu, et c'est le cas.
@@ -97,7 +97,7 @@ Que le ciel bouge à jamais.
         </td>
         <td>
         <a href="/fr/article/Stephen_Zendt/Transformation_and_here_is_mistery">
-          <span class="pr-2">Transformation : et voici le mystère</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Transformation : et voici le mystère</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

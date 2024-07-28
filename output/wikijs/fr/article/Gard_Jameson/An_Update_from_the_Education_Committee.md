@@ -42,7 +42,7 @@ _Par Gard Jameson, trustee de la Fondation Urantia, Nevada, États-Unis_
 
 Le Comité d’Éducation s’est concentré sur deux stratégies de sensibilisation. La première, est l'École Internet du Livre d'Urantia (UBIS) et la seconde sont les séminaires éducatifs qui se tiendront à la Fondation Urantia à Chicago.
 
-UBIS, fondé par Dorothy Elder et dirigé par Georges Michelson-Dupont, a eu plus de 420 étudiants participants en 2014. Aujourd'hui, les cours sont offerts en anglais, en espagnol et en français. Nous vous encourageons à visiter l'école à [ubis.urantia.org](https://new.ubis.urantia.org/) et à envisager de prendre un cours. Le prochain trimestre débutera en janvier. Qui sait ? Vous pourriez être si inspiré, après avoir pris un cours, que de vouloir peut-être devenir un enseignant.
+UBIS, fondé par Dorothy Elder et dirigé par Georges Michelson-Dupont, a eu plus de 420 étudiants participants en 2014. Aujourd'hui, les cours sont offerts en anglais, en espagnol et en français. Nous vous encourageons à visiter l'école à [ubis.urantia.org](https://new.ubis.urantia.org/) et à envisager de prendre un cours. Le prochain trimestre débutera en janvier. Qui sait ? Vous pourriez être si inspiré, après avoir pris un cours, que de vouloir peut-être devenir un enseignant.
 
 Depuis la rénovation du bâtiment, du siège de la Fondation, situé à 533 W. Diversey Parkway à Chicago, les séminaires de formation sont de plus en plus populaires. Au dernier trimestre 2014, il y eut beaucoup de monde à deux séminaires: une Retraite pour les Femmes fut animée par Line St-Pierre du Québec, Canada, et un Atelier sur l'Âme par Marta Elders, Connecticut, États-Unis.
 

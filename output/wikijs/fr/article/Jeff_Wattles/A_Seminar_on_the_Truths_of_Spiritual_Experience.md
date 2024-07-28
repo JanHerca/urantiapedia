@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Jeffrey Wattles, Stow, Ohio, États-Unis_
 
-Un séminaire sur les vérités de l’expérience spirituelle sera animé par Jeffrey Wattles et tenue au siège de la Fondation Urantia à Chicago, à partir du jeudi soir, le 30 mai, et se terminera à midi le dimanche 2 juin 2013. Les participants seront confrontés à une approche d’éducation basée sur deux déclarations du _Livre d’Urantia_ :
+Un séminaire sur les vérités de l’expérience spirituelle sera animé par Jeffrey Wattles et tenue au siège de la Fondation Urantia à Chicago, à partir du jeudi soir, le 30 mai, et se terminera à midi le dimanche 2 juin 2013. Les participants seront confrontés à une approche d’éducation basée sur deux déclarations du _Livre d’Urantia_ :
 <br style="clear:both;"/>
 
 > « Sur le monde des maisons… les écoles sont organisées en trois groupes généraux …les écoles de pensée, les écoles de sentiment, les écoles d’action. » <a id="a45_154"></a>[LU 48:5.6](/fr/The_Urantia_Book/48#p5_6)

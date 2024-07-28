@@ -75,17 +75,17 @@ La Fondation Urantia loue l’ancienne remise et l’appartement du dernier éta
 
 ## Objectifs pour cinq ans
 
-Le conseil d’administration passa le vendredi après-midi et le samedi matin à présenter, à revoir et à discuter « qui fait quoi, quand et pour combien » pour accomplir les objectifs et les stratégies du plan 2020-2025. Ce plan est détaillé et sera terminé en juillet.
+Le conseil d’administration passa le vendredi après-midi et le samedi matin à présenter, à revoir et à discuter « qui fait quoi, quand et pour combien » pour accomplir les objectifs et les stratégies du plan 2020-2025. Ce plan est détaillé et sera terminé en juillet.
 
 Voici un aperçu de haut niveau des objectifs prioritaires sur cinq ans.
 
-- **Livres** : Augmenter les ventes mondiales de livres et leur distribution de 7%, chaque année.
-- **Collecte de fonds** : Augmenter le Pont de la Révélation, les fonds Hales et le Fonds Perpétuel d’Impression jusqu’à $12,000,000.
-- **Initiative Mondiale** : Favoriser une Fondation Urantia plus variée et plus sensible culturellement qui influencera notre façon de disséminer le livre et ses enseignements mondialement.
-- **Traductions** : Initier et/ou achever de nouvelles traductions et révisions de qualité. Utiliser et peaufiner notre processus de traduction.
-- **Éducation** : Se concentrer sur l’éducation intérieure− prière, adoration et travail de l’âme. Se concentrer sur l’éducation extérieure− créer des opportunités pour favoriser la connaissance, augmenter la reconnaissance et promouvoir la compréhension mondiale du _Livre d’Urantia_.
-- **Succession** : Mettre en œuvre un plan de succession sur cinq ans pour le Conseil d’Administration. Augmenter le nombre de Trustees d’ici 2025 et faire la transition vers une organisation plus mondiale.
-- **Sensibilisation numérique** : Tripler la présence numérique de la Fondation Urantia dans le monde.
+- **Livres** : Augmenter les ventes mondiales de livres et leur distribution de 7%, chaque année.
+- **Collecte de fonds** : Augmenter le Pont de la Révélation, les fonds Hales et le Fonds Perpétuel d’Impression jusqu’à $12,000,000.
+- **Initiative Mondiale** : Favoriser une Fondation Urantia plus variée et plus sensible culturellement qui influencera notre façon de disséminer le livre et ses enseignements mondialement.
+- **Traductions** : Initier et/ou achever de nouvelles traductions et révisions de qualité. Utiliser et peaufiner notre processus de traduction.
+- **Éducation** : Se concentrer sur l’éducation intérieure− prière, adoration et travail de l’âme. Se concentrer sur l’éducation extérieure− créer des opportunités pour favoriser la connaissance, augmenter la reconnaissance et promouvoir la compréhension mondiale du _Livre d’Urantia_.
+- **Succession** : Mettre en œuvre un plan de succession sur cinq ans pour le Conseil d’Administration. Augmenter le nombre de Trustees d’ici 2025 et faire la transition vers une organisation plus mondiale.
+- **Sensibilisation numérique** : Tripler la présence numérique de la Fondation Urantia dans le monde.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2020_06/016.jpg">

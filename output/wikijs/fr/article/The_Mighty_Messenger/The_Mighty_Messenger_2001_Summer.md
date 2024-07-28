@@ -42,7 +42,7 @@ La conférence proposera des programmes adaptés à l’âge de tous nos enfants
 
 Comme toujours, la conférence offrira de nombreuses occasions de camaraderie informelle, de loisirs, de divertissement et de célébration. 
 
-Les documents d'inscription et autres informations sur la conférence apparaîtront bientôt sur le site Web de la Fellowship www.ubfellowship.org, et dans diverses publications liées à la Fellowship et au _Livre d'Urantia_. Si vous avez un e-mail, faites-nous savoir que vous envisagez de venir à IC02 en contactant la Fellowship à Fellowship@urantiabook.org. Vous serez placé sur la liste de diffusion IC02 pour recevoir les dernières informations sur la conférence. Viens. Rejoignez « Révélation en action » !
+Les documents d'inscription et autres informations sur la conférence apparaîtront bientôt sur le site Web de la Fellowship www.ubfellowship.org, et dans diverses publications liées à la Fellowship et au _Livre d'Urantia_. Si vous avez un e-mail, faites-nous savoir que vous envisagez de venir à IC02 en contactant la Fellowship à Fellowship@urantiabook.org. Vous serez placé sur la liste de diffusion IC02 pour recevoir les dernières informations sur la conférence. Viens. Rejoignez « Révélation en action » !
 
 
 
@@ -140,7 +140,7 @@ Nous avons ainsi pu faire l’expérience du _Livre d'Urantia_ en Colombie tel q
 
 Aimez-vous Quiz sur le Livre d'Urantia ?
 
-Les questions suivantes sont conçues pour vous divertir et vous mettre au défi concernant votre connaissance du _Le Livre d'Urantia_. Les réponses sont données par numéro de papier, section et paragraphe. Apprécier! Et pas de coup d’oeil à l’avance !
+Les questions suivantes sont conçues pour vous divertir et vous mettre au défi concernant votre connaissance du _Le Livre d'Urantia_. Les réponses sont données par numéro de papier, section et paragraphe. Apprécier! Et pas de coup d’oeil à l’avance !
 1. Quand le circuit des archanges a-t-il fonctionné pour la première fois depuis Urantia ? (<a id="a143_92"></a>[LU 189:3.2](/fr/The_Urantia_Book/189#p3_2))
 2. Complétez les espaces « La paix d'Urantia sera beaucoup plus favorisée par <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> <u>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>que par tous les sophismes sentimentaux d'une paix visionnaire planification." (<a id="a144_344"></a>[LU 70:3.4](/fr/The_Urantia_Book/70#p3_4))
 3. Combien d’apparitions morontielles Jésus a-t-il faites ? (<a id="a145_61"></a>[LU 193:3.1](/fr/The_Urantia_Book/193#p3_1))
@@ -151,11 +151,11 @@ Les questions suivantes sont conçues pour vous divertir et vous mettre au défi
 8. « <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> est l’antidote divin à l’exaltation de l’ego. » (<a id="a150_116"></a>[LU 48:4.15](/fr/The_Urantia_Book/48#p4_15))
 9. Qui les apôtres appelaient-ils le « chef » ? (<a id="a151_49"></a>[LU 139:1.2](/fr/The_Urantia_Book/139#p1_2))
 10. Nommez autant que possible des dix femmes sélectionnées et mandatées par Jésus comme premières membres du corps évangélique des femmes. (<a id="a152_141"></a>[LU 150:1.1](/fr/The_Urantia_Book/150#p1_1))
-11. « Seulement un <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp ;</u> peut rétablir les lignes de communication interplanétaires sur un monde aussi spirituellement isolé. (<a id="a153_246"></a>[LU 35:9.9](/fr/The_Urantia_Book/35#p9_9))
+11. « Seulement un <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp ;</u> peut rétablir les lignes de communication interplanétaires sur un monde aussi spirituellement isolé. (<a id="a153_246"></a>[LU 35:9.9](/fr/The_Urantia_Book/35#p9_9))
 12. Définissez un « agondonter ». (<a id="a154_35"></a>[LU 50:7.2](/fr/The_Urantia_Book/50#p7_2))
 
 
-## SSS Santa Cruz « Doux et spécial »
+## SSS Santa Cruz « Doux et spécial »
 
 Environ 250 lecteurs ont assisté à la session d'étude d'été à Santa Cruz, en Californie, du 9 au 12 août, profitant des nombreux discours, des ateliers, du cadre magnifique et, surtout, des contacts sociaux et des expériences offertes par le renouvellement d'anciennes amitiés et l’établissement de nouvelles. L'hospitalité des lecteurs californiens qui ont consacré tant de temps et d'efforts pour rendre cette conférence spéciale est très appréciée, en particulier la planification minutieuse du programme et des activités par le comité d'éducation. 
 
@@ -171,12 +171,12 @@ Les soirées ont été remplies d'activités sociales parrainées par différent
 - **Octobre. 26-28, 2001 - Conférence Lone Star Roundup, Camp Buckner, Texas** : « Ramener l’esprit infini sur Terre » 
   Un examen des différentes fonctions de l’Esprit Infini, y compris le ministère angélique, l’esprit, le pouvoir de l’univers et l’aspect féminin ou « yin » de « l’Esprit Mère Infini » et comment nous pouvons ressentir cette présence dans nos vies. Rejoignez-nous « dans l’Esprit ». Pour plus d'informations, contactez Adrienne Jarnagin au (512) 756-1637 ou envoyez-lui un courriel à-aj@tstar.net.
 - **Nov. 2-4, 2001 – Retraite d'automne du Golden Gate Circle** : « Le Père Universel » Le Père Universel est une réalité spirituelle infinie ; il est « le Dieu souverain, éternel, immortel, invisible et seul vrai ». _Le Livre d'Urantia_, <a id="a172_239"></a>[LU 1:3.1](/fr/The_Urantia_Book/1#p3_1). 
-  _Lieu_ : St. Dorothy's Rest, Camp Meeker, Californie (comté de Sonoma) 
+  _Lieu_ : St. Dorothy's Rest, Camp Meeker, Californie (comté de Sonoma) 
   _Coût_. 85 $ plus le coût d'un repas par équipe de cuisine 
-  _Contact_ : Dolores L. Nice, (650)369-6803 ou dlnice@worldnet.att.net
-- **Programmes spéciaux de la First Society** organisés à Harris Hall, Northwestern Univ., Evanston, Illinois, le dimanche, de 13h à 16h : 
-  _7 octobre_ « Que fait une gentille fille juive comme moi dans un endroit comme celui-ci ? » présenté par Barbara Dreier
-  _18 novembre_, « Qu'est-ce qui est spécial à propos de notre planète Urantia ? » présenté par John Roper
+  _Contact_ : Dolores L. Nice, (650)369-6803 ou dlnice@worldnet.att.net
+- **Programmes spéciaux de la First Society** organisés à Harris Hall, Northwestern Univ., Evanston, Illinois, le dimanche, de 13h à 16h : 
+  _7 octobre_ « Que fait une gentille fille juive comme moi dans un endroit comme celui-ci ? » présenté par Barbara Dreier
+  _18 novembre_, « Qu'est-ce qui est spécial à propos de notre planète Urantia ? » présenté par John Roper
 - **La fête annuelle des Fêtes**, organisée conjointement par la First Society, l’IUA et la Fondation Urantia.
   L'événement aura lieu à la Fondation, 533 Diversey Parkway, Chicago, IL, le dimanche 9 décembre ; Programme 16h, portes ouvertes 17h-21h. Contactez Carolyn Kendall, présidente de First Socity, pour plus d'informations au 847/537-1078.
 
@@ -186,22 +186,22 @@ les activités de votre société ou de votre groupe d’étude. Partager des ex
 
 Les articles destinés au Mighty Messenger ne doivent pas dépasser environ 400 mots. Les prochaines dates limites pour cette publication trimestrielle sont le 30 novembre 2001 et le 28 février 2002.
 
-Veuillez envoyer toutes les informations au bureau de la Fellowship, 529 Wrightwood Ave., Chicago, IL 60614-1794 ou par e-mail à : Fellowship@urantiabook.org
+Veuillez envoyer toutes les informations au bureau de la Fellowship, 529 Wrightwood Ave., Chicago, IL 60614-1794 ou par e-mail à : Fellowship@urantiabook.org
 
 ## Puissant messager
 
 Publié trimestriellement par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship
-Membres : Linda Buselli, présidente Nancy Johnson, Sage Waitts, Gary Deinstadt, Al Aldo
-Téléphone : 773-327-0424. Télécopieur : 773-327-6159
+Membres : Linda Buselli, présidente Nancy Johnson, Sage Waitts, Gary Deinstadt, Al Aldo
+Téléphone : 773-327-0424. Télécopieur : 773-327-6159
 email : Fellowship@urantiabook.org
-site Web : http://www.ubfellowship.org
+site Web : http://www.ubfellowship.org
 
 > 25. La grandeur ne consiste pas tant à posséder de la force qu’à l’employer sagement et divinement. (<a id="a198_103"></a>[LU 48:7.27](/fr/The_Urantia_Book/48#p7_27))
 
 
 ## Liens externes
 
-* Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
+* Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
 
 
 

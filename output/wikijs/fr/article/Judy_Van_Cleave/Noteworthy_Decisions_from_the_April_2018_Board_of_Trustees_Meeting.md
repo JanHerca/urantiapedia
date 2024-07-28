@@ -45,7 +45,7 @@ _Par Judy Van Cleave, secrétaire de la Fondation Urantia, Idaho, États-Unis_
 
 Accueillons ensemble deux nouveaux trustees associés, Gaétan Charland et Gary Deinstadt qui ont rejoint le conseil d’administration de la Fondation Urantia. Ces deux hommes sont des serviteurs très expérimentés de la Révélation Urantia et aboutis dans leurs activités choisies. Gaétan est l’ancien président de l’Association Urantia Internationale et Gary a passé 13 ans à servir le Conseil Général de la Fellowship du Livre d’Urantia.
 
-Nous les accueillons à bras ouverts et sommes confiants qu’ils apporteront de la sagesse, une vision élargie et beaucoup de service pour notre travail. Félicitations, Gaétan et Gary ! Merci de continuer à accepter l’appel de consacrer vos vies au projet spirituel le plus important, ayant lieu dans notre monde.
+Nous les accueillons à bras ouverts et sommes confiants qu’ils apporteront de la sagesse, une vision élargie et beaucoup de service pour notre travail. Félicitations, Gaétan et Gary ! Merci de continuer à accepter l’appel de consacrer vos vies au projet spirituel le plus important, ayant lieu dans notre monde.
 
 ## Traductions inachevées
 
@@ -56,20 +56,20 @@ Ce fut la politique de la Fondation Urantia de ne publier que des traductions te
 <figcaption><em>Gaétan Charland</em></figcaption>
 </figure>
 
-Par cette politique, chaque fois qu’une traduction inachevée est approuvée pour apparaître sur notre site web ou sur les autres, elle sera accompagnée de ce qui suit :
+Par cette politique, chaque fois qu’une traduction inachevée est approuvée pour apparaître sur notre site web ou sur les autres, elle sera accompagnée de ce qui suit :
 
 - Un identifiant qui montre que les fichiers sont une publication de la Fondation Urantia
 - La notification du copyright de la Fondation sur la page de l’éditeur.
-- Une note, sur la page de l’éditeur et sur un autre endroit important bien en vue, expliquant que la version HTLM de la traduction est un « brouillon en cours. »
+- Une note, sur la page de l’éditeur et sur un autre endroit important bien en vue, expliquant que la version HTLM de la traduction est un « brouillon en cours. »
 - Le Numéro d’Identification du Texte (TIN) sur la page de l’éditeur
-- Le filigrane ou note « brouillon » en haut de chaque fascicule pour les PDF, Word Docs et tout autre fichier téléchargeable de la traduction
+- Le filigrane ou note « brouillon » en haut de chaque fascicule pour les PDF, Word Docs et tout autre fichier téléchargeable de la traduction
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2018_07/015.jpg">
 <figcaption><em>Gary Deinstadt</em></figcaption>
 </figure>
 
-De plus, l’utilisation de ces identifiants sera étendue à toutes les traductions de la Fondation Urantia apparaissant sur un site Web. Cela inclut :
+De plus, l’utilisation de ces identifiants sera étendue à toutes les traductions de la Fondation Urantia apparaissant sur un site Web. Cela inclut :
 
 - Un identifiant de marque qui montre que les fichiers sont une publication de la Fondation Urantia
 - La notification du copyright de la Fondation Urantia sur la page de l’éditeur
@@ -83,9 +83,9 @@ De plus, l’utilisation de ces identifiants sera étendue à toutes les traduct
 <figcaption><em>Lainey Doremus</em></figcaption>
 </figure>
 
-Joanne et John Strobel ont décidé de rester à Chicago et de rester travailler à la Fondation Urantia. Étant donné tout ce qu’ils font, c’est un grand avantage et nous sommes reconnaissants qu’ils aient décidé de rester !
+Joanne et John Strobel ont décidé de rester à Chicago et de rester travailler à la Fondation Urantia. Étant donné tout ce qu’ils font, c’est un grand avantage et nous sommes reconnaissants qu’ils aient décidé de rester !
 
-Après avoir revu les postes internes et les responsabilités, nous avons engagé Lainey Doremus à temps partiel. Lainey apporte ses talents, ainsi qu’un passé dans l’édition. Elle passe du temps à aider le personnel avec les tâches journalières et autres projets. Bienvenue Lainey !
+Après avoir revu les postes internes et les responsabilités, nous avons engagé Lainey Doremus à temps partiel. Lainey apporte ses talents, ainsi qu’un passé dans l’édition. Elle passe du temps à aider le personnel avec les tâches journalières et autres projets. Bienvenue Lainey !
 <br style="clear:both;"/>
 
 <figure id="Figure_5" class="image urantiapedia">
@@ -103,9 +103,9 @@ Cette politique ne se rapporte pas à l’utilisation personnelle des trois cerc
 
 ## Sensibilisation
 
-**Les Philippines :** Le conseil d’administration supporte les activités reliées au Livre d’Urantia, d’Eugene et de Belen Asidao, durant leur récent voyage aux Philippines. C’était leur troisième voyage pour continuer à constituer des groupes de lecture et pour placer des Livres d’Urantia dans les bibliothèques et les universités. Les Philippines ont prouvé être un terrain fertile pour la révélation car 92% de ses 100 millions d’habitants sont chrétiens. Un grand merci à Eugene et Belen pour leur service désintéressé au peuple des Philippines.
+**Les Philippines :** Le conseil d’administration supporte les activités reliées au Livre d’Urantia, d’Eugene et de Belen Asidao, durant leur récent voyage aux Philippines. C’était leur troisième voyage pour continuer à constituer des groupes de lecture et pour placer des Livres d’Urantia dans les bibliothèques et les universités. Les Philippines ont prouvé être un terrain fertile pour la révélation car 92% de ses 100 millions d’habitants sont chrétiens. Un grand merci à Eugene et Belen pour leur service désintéressé au peuple des Philippines.
 
-**Colombie :** Wilson León et Andrés Ramírez parlèrent au conseil d’administration par le moyen de téléconférence vidéo. Après avoir entendu leur histoires inspirantes, le conseil d’administration décida de les aider dans leurs efforts de sensibilisation. Wilson et Andrés se rendent aux foires de livres en Amérique Latine et placent des livres dans des endroits comme les écoles, les universités, les groupes d’étude et les bibliothèques. Un grand merci à l’Association Urantia de Colombie pour leurs incroyables efforts en Amérique Latine.
+**Colombie :** Wilson León et Andrés Ramírez parlèrent au conseil d’administration par le moyen de téléconférence vidéo. Après avoir entendu leur histoires inspirantes, le conseil d’administration décida de les aider dans leurs efforts de sensibilisation. Wilson et Andrés se rendent aux foires de livres en Amérique Latine et placent des livres dans des endroits comme les écoles, les universités, les groupes d’étude et les bibliothèques. Un grand merci à l’Association Urantia de Colombie pour leurs incroyables efforts en Amérique Latine.
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2018_07/026.jpg">
@@ -123,11 +123,11 @@ Cette politique ne se rapporte pas à l’utilisation personnelle des trois cerc
 <figcaption><em>Back: Eugene Asidao<br>Front: Belen Asidao, Allan Bancairen, Arnel Lacson, Georcynth Peattie</em></figcaption>
 </figure>
 
-Si cela vous inspire à faire un don pour ces efforts de dissémination, envoyez, s’il vous plaît, vos contributions restreintes à la Fondation Urantia en spécifiant la dissémination pour les Philippines ou l’Amérique Latine. Vous pouvez faire la différence en apportant la Révélation Urantia au monde !
+Si cela vous inspire à faire un don pour ces efforts de dissémination, envoyez, s’il vous plaît, vos contributions restreintes à la Fondation Urantia en spécifiant la dissémination pour les Philippines ou l’Amérique Latine. Vous pouvez faire la différence en apportant la Révélation Urantia au monde !
 
-**Parlement des Religions du Monde 2818 et le Festival de l’Oie Sauvage :** La Fondation Urantia est heureuse de rapporter que les efforts coopératifs entre la Fondation Urantia, l’AUI, la Fellowship et truthbook.com, pour concevoir, créer et faire fonctionner un stand du prochain Parlement. Grâce aux efforts des quatre organisations, le stand de cette année au Parlement sera beau et géré par des personnes bien formées. Le parlement se tiendra à Toronto, au Canada, du 1<sup>er</sup> au 6 novembre. La Fondation Urantia travaille aussi avec la Fellowship pour tenir un stand au Nouveau Festival Chrétien de l’Oie Sauvage, en juillet.
+**Parlement des Religions du Monde 2818 et le Festival de l’Oie Sauvage :** La Fondation Urantia est heureuse de rapporter que les efforts coopératifs entre la Fondation Urantia, l’AUI, la Fellowship et truthbook.com, pour concevoir, créer et faire fonctionner un stand du prochain Parlement. Grâce aux efforts des quatre organisations, le stand de cette année au Parlement sera beau et géré par des personnes bien formées. Le parlement se tiendra à Toronto, au Canada, du 1<sup>er</sup> au 6 novembre. La Fondation Urantia travaille aussi avec la Fellowship pour tenir un stand au Nouveau Festival Chrétien de l’Oie Sauvage, en juillet.
 
-**Projets conjoints de dissémination :** Dans les années à venir, la Fondation Urantia augmentera sa participation pour coordonner et supporter de nombreux programmes de dissémination. Bien que le budget ne permette pas de supporter tous les efforts de dissémination, la Fondation est ravie de participer et de sponsoriser autant de programmes que possible.
+**Projets conjoints de dissémination :** Dans les années à venir, la Fondation Urantia augmentera sa participation pour coordonner et supporter de nombreux programmes de dissémination. Bien que le budget ne permette pas de supporter tous les efforts de dissémination, la Fondation est ravie de participer et de sponsoriser autant de programmes que possible.
 
 ## Ventes de livres
 
@@ -135,9 +135,9 @@ Les ventes de livres du trimestre étaient en hausse dans presque toutes les lan
 
 ## Finances et donations
 
-À ce jour, il n’y a pas eu de surprise au sujet de la situation financière de la Fondation. Les dépenses furent de 3% au-dessus de celles de 2017, mais légèrement en-dessous du budget. Les donations furent bonnes ; même si, il faudra du temps pour atteindre les $750,000 nécessaires pour 2018. Nous sommes reconnaissants de votre soutien !
+À ce jour, il n’y a pas eu de surprise au sujet de la situation financière de la Fondation. Les dépenses furent de 3% au-dessus de celles de 2017, mais légèrement en-dessous du budget. Les donations furent bonnes ; même si, il faudra du temps pour atteindre les $750,000 nécessaires pour 2018. Nous sommes reconnaissants de votre soutien !
 
-Les donations furent bonnes ; même si, il faudra du temps pour atteindre les $750,000 nécessaires pour 2018. Nous sommes reconnaissants de votre soutien !
+Les donations furent bonnes ; même si, il faudra du temps pour atteindre les $750,000 nécessaires pour 2018. Nous sommes reconnaissants de votre soutien !
 
 > Donations were on track; even so, there is still a long way to go to hit the
 required 8750,000 for 2018. we appreciate your support!

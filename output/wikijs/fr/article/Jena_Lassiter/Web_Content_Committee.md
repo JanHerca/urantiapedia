@@ -66,7 +66,7 @@ L'équipe avec laquelle je travaille est efficace et synergique.
 - Jack Holloway et Pablo Segovia travaillent sans relâche pour faire du site Web espagnol une connexion principale pour les lecteurs du Livre d'Urantia en Amérique Centrale et du Sud.
 - Ces brèves descriptions des capacités et des réalisations sont si petites en comparaison des incroyables contributions de chacun. - Mon expérience en développement de logiciels concerne également la conception d'interfaces utilisateur ainsi que la conception Web et le référencement.
 
-Après la version initiale :
+Après la version initiale :
 
 ## Métriques
 
@@ -78,7 +78,7 @@ Après la version initiale :
 
 ## Google AdWords
 
-- La bourse bénéficie d'une subvention de Google pour utiliser $\$ 40 000 $ d'AdWords par mois. Nous avons mis en place des plans pour déterminer comment utiliser ces publicités de manière optimale afin d'amener les gens à la révélation.
+- La bourse bénéficie d'une subvention de Google pour utiliser $\$ 40 000 $ d'AdWords par mois. Nous avons mis en place des plans pour déterminer comment utiliser ces publicités de manière optimale afin d'amener les gens à la révélation.
 
 ## Liens externes
 

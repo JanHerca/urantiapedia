@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-Service? Apparemment un mot courant ; mais qu'est-ce que cela signifie réellement ? Faites une pause et réfléchissez un instant à ce que le service signifie pour vous, puis poursuivez votre lecture pendant que j'essaie de partager quelques réflexions avec vous.
+Service? Apparemment un mot courant ; mais qu'est-ce que cela signifie réellement ? Faites une pause et réfléchissez un instant à ce que le service signifie pour vous, puis poursuivez votre lecture pendant que j'essaie de partager quelques réflexions avec vous.
 
 Tandis que j'essayais de déterminer ce que le service signifiait pour moi, une image antérieure de moi-même apparut sur mon écran de visualisation mentale. Le décor de la scène était une rencontre avec des connaissances avec lesquelles j'avais tenté de parler au sujet du _Livre d'URANTIA_. J'étais entré dans cette rencontre avec enthousiasme et désir de partager les vérités que j'avais découvertes, mais j'ai rencontré des soupçons et des doutes. Je suis reparti avec un sentiment de déception et d'incompréhension, en me demandant : « Pourquoi ne m'ont-ils pas cru ?
 

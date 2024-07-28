@@ -41,7 +41,7 @@ Tout cela paraissait assez simple à l’époque. J'avais déjà mémorisé les 
 Il ne me semblait pas juste de commencer par parler de ce que nous, en tant qu'Urantiens, pouvions partager. Cela sonnait avec arrogance. La question me revenait sans cesse à l’esprit : qui sommes-nous de toute façon ? Ainsi, en commençant par la question : « Qui sommes-nous de toute façon ? » et en supposant ensuite que le partage est une voie à double sens – que nous pouvons apprendre des autres religions en même temps que nous partageons – le débat a commencé à prendre forme autour de trois idées de base. qui semblent être fortement liés:
 
 - Ce que nous sommes, au sens collectif, en tant que membres du mouvement URANTIA ;
-- Ce que nous pouvons apprendre de la religion avec un « R » majuscule ; et
+- Ce que nous pouvons apprendre de la religion avec un « R » majuscule ; et
 - Ce que nous pouvons partager — en tant que _Religionists_.
 
 En fin de compte, mes deux mots originaux n’ont pas été perdus. Ils ont été enterrés quelque part au milieu de cette discussion. Et quand je vous dirai de quoi il s'agit un peu plus tard, certains d'entre vous vont penser : Il allait faire tout ce chemin juste pour dire ça ?
@@ -58,7 +58,7 @@ Et puis cela commence à se produire : l’amour de Dieu s’éveille en nous. C
 
 _Le Livre d'URANTIA_ n'exige pas un tel choix. Il est 100% conforme aux enseignements d'URANTIA de rester un membre actif et loyal d'une religion organisée. Il est également tout à fait cohérent de développer une toute nouvelle identité religieuse qui n’est pas nécessairement liée à une religion organisée. _Le Livre d'URANTIA_ nous fournit une base solide pour aller dans un sens ou dans l'autre. Mais la question intrigante est : Comment se fait-il que les enseignements d'URANTIA nous permettent de développer une identité religieuse qui soit cohérente avec tout cadre de vie religieux ?
 
-Pour aborder cette question, je pense que nous devons d’abord comprendre ce que nous sommes, dans un sens collectif, lorsque nous devenons croyants dans les enseignements d’URANTIA. Et une façon d’aborder cette question est de la retourner et de l’aborder de l’autre côté, en se demandant qu’est-ce que nous ne sommes pas ?
+Pour aborder cette question, je pense que nous devons d’abord comprendre ce que nous sommes, dans un sens collectif, lorsque nous devenons croyants dans les enseignements d’URANTIA. Et une façon d’aborder cette question est de la retourner et de l’aborder de l’autre côté, en se demandant qu’est-ce que nous ne sommes pas ?
 
 Ce que le mouvement URANTIA n’est pas – ce que nous ne sommes pas – c’est une religion distincte. Et si nous restons fidèles aux enseignements du _Livre d'URANTIA_, _nous ne tenterons jamais de former une religion ou une église séparée_. Et il y a trois raisons très puissantes à cela :
 
@@ -86,7 +86,7 @@ Le dilemme semble être que si le Livre d'URANTIA nous encourage à être sociau
 
 ## Avoir une religion, ne pas en être une
 
-Je pense que le _Livre d'URANTIA_ fait une distinction critique ; et cette distinction cruciale ne réside pas dans le fait que nous sommes une religion, mais plutôt dans le fait que nous avons une religion. Nous sommes des religieux. On pourrait même dire que nous sommes une religion de religieux.
+Je pense que le _Livre d'URANTIA_ fait une distinction critique ; et cette distinction cruciale ne réside pas dans le fait que nous sommes une religion, mais plutôt dans le fait que nous avons une religion. Nous sommes des religieux. On pourrait même dire que nous sommes une religion de religieux.
 
 Une fois que nous comprenons que nous sommes des religieux, nous avons désormais établi une identité URANTIENNE définitive. Et je pense que nous devons commencer par cette découverte de notre identité religieuse essentielle, afin de ne pas devenir plus tard confus et déchirés par des conflits intérieurs.
 
@@ -128,7 +128,7 @@ L’hindouisme ne sépare pas la vie de la religion dans les moindres détails. 
 
 Le catholicisme est un mélange astucieux de mysticisme et de logique. Au centre de la religion se trouvent « trois phases de révélation de Dieu à l'homme (qui) forment (les) principes centraux de la croyance catholique :
 
-- (Premièrement) la révélation naturelle de Dieu par la raison ;
+- (Premièrement) la révélation naturelle de Dieu par la raison ;
 - (Deuxièmement est) la révélation surnaturelle de Dieu en Christ, et,
 - (Troisièmement) la révélation dans l'Église", qui est considérée comme le corps mystique du Christ (de la série sur les religions du monde).
 
@@ -154,11 +154,11 @@ Le groupe religieux le plus unique dans le cadre général de la foi protestante
 
 Bien que d'une région à l'autre il puisse y avoir des différences significatives dans la manière dont les Quakers pratiquent leur foi, il existe trois croyances fondamentales dans lesquelles tous les Quakers sont unis :
 
-- Premièrement, il y a la croyance qu'il existe une lumière qui éclaire tout homme qui vient au monde. Les Quakers appellent cela la Lumière Intérieure. Nous l’appelons l’Ajusteur de Pensée. Ils croient, et nous croyons, que la Lumière Intérieure est la volonté de Dieu à l’étranger dans l’univers. Les réunions Quaker qui se déroulent dans des ateliers silencieux sont une réponse à l'injonction biblique : « Tais-toi et sache que je suis Dieu. » Dans leur pratique de prière et d'adoration silencieuses, les Quakers tentent de devenir sensibles aux directives de l'Esprit qui les habite.
+- Premièrement, il y a la croyance qu'il existe une lumière qui éclaire tout homme qui vient au monde. Les Quakers appellent cela la Lumière Intérieure. Nous l’appelons l’Ajusteur de Pensée. Ils croient, et nous croyons, que la Lumière Intérieure est la volonté de Dieu à l’étranger dans l’univers. Les réunions Quaker qui se déroulent dans des ateliers silencieux sont une réponse à l'injonction biblique : « Tais-toi et sache que je suis Dieu. » Dans leur pratique de prière et d'adoration silencieuses, les Quakers tentent de devenir sensibles aux directives de l'Esprit qui les habite.
 - Deuxièmement, les Quakers croient que la plus haute responsabilité de la vie, et la source de toute véritable croissance et satisfaction, est de rechercher la volonté de Dieu et de faire la volonté de Dieu, pas seulement le dimanche, mais sept jours par semaine.
 - Et troisièmement, tous les Quakers sont unis dans la croyance que le résultat sûr et inévitable de chercher sincèrement à se laisser diriger par Dieu mènera à une vie de plus en plus consacrée au service aimant envers son prochain. (« Foi et pratique » de la réunion annuelle de Philadelphie de la Société religieuse des amis, 1961).
 
-Je pense que nous pouvons construire des ponts vers chaque religion car il y a des points d’ancrage forts dans chacune d’entre elles. La liste des choses que nous pouvons apprendre de la religion « R » majuscule pourrait remplir des journées de discussion. Mais avant de quitter ce point, je voudrais évoquer brièvement plusieurs autres religions qui m’ont marqué.
+Je pense que nous pouvons construire des ponts vers chaque religion car il y a des points d’ancrage forts dans chacune d’entre elles. La liste des choses que nous pouvons apprendre de la religion « R » majuscule pourrait remplir des journées de discussion. Mais avant de quitter ce point, je voudrais évoquer brièvement plusieurs autres religions qui m’ont marqué.
 
 Nous pouvons apprendre des mormons, de l’importance qu’ils accordent à la vie de famille et de leur capacité à planifier à l’avance. Les mormons croient en l'autonomie et au service des autres. Ils accordent une grande importance à la formation et à la préparation de leurs jeunes à des responsabilités de plus en plus grandes. Il y a une qualité disciplinée et pragmatique dans la façon dont ils pratiquent leur religion.
 

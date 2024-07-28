@@ -44,21 +44,21 @@ Les cours proposés par l’École Internet du Livre d’Urantia (UBIS) offre un
 
 Participer à un groupe d’étude a toujours été important pour moi. J’ai participé à un groupe pendant plus de quarante ans, quand je vivais à Anchorage, en Alaska, et cela me manqua lorsque je déménageai au centre de l’Oregon. Donc je cherchais à étudier à distance.
 
-En janvier, la description d’un cours, La Quête des Agondonteurs _—_ l’Ascension de L’individualité vers l’Unité, m’intrigua. Cette « quête » UBIS, nous emmènerait sur le chemin d’un Agondonteur, en commençant avec le Fascicule 53, « La Rébellion de Lucifer », et finirait avec le Fascicule 56, « La Réalité Universelle ».
+En janvier, la description d’un cours, La Quête des Agondonteurs _—_ l’Ascension de L’individualité vers l’Unité, m’intrigua. Cette « quête » UBIS, nous emmènerait sur le chemin d’un Agondonteur, en commençant avec le Fascicule 53, « La Rébellion de Lucifer », et finirait avec le Fascicule 56, « La Réalité Universelle ».
 
 Le cours UBIS a eu une signification ajoutée pour moi car il fut enseigné par Mark Khoury, qui a le même nom de famille que moi, famille que je ne vois presque jamais. Mark vit au Liban. Mon grand-père immigra du Liban au Canada il y a longtemps. Le pouvoir d’UBIS à rapprocher le monde pour étudier la révélation est une étonnante circonstance fortuite. À travers UBIS, j’ai trouvé un ami lecteur du Livre d’Urantia, d’un pays ayant une signification spéciale pour moi, qui apporte beaucoup à notre communauté par l’étude approfondie et une camaraderie inspirante.
 
 Ce qui m’avait manqué par le groupe d’étude, fut comblé par le cours UBIS. Depuis le début, le cours faisait penser à un immense groupe d’étude avec vingt et un participants de plusieurs endroits de la planète. Le partage honnête m’aida à comprendre que cette forme d’étude peut être coopérative et aimante, même à distance. Beaucoup de participants du cours avaient déjà pris des cours UBIS ensemble et avaient tissé des liens.
 
-En tant qu’étudiante, j’étais très intéressée, mise au défi, poussée plus loin et ravie en même temps. Mark Khoury est un excellent enseignant/animateur. Il partage des citations adéquates avec des ressentis stimulants, suivis de questions pour garder le cours extrêmement satisfaisant. On pouvait sentir sa sincérité et son respect pour chaque étudiant lorsqu’il enseignait la classe avec sa touche personnelle. Voici un passage de ce qu’il écrivit au début du cours :
+En tant qu’étudiante, j’étais très intéressée, mise au défi, poussée plus loin et ravie en même temps. Mark Khoury est un excellent enseignant/animateur. Il partage des citations adéquates avec des ressentis stimulants, suivis de questions pour garder le cours extrêmement satisfaisant. On pouvait sentir sa sincérité et son respect pour chaque étudiant lorsqu’il enseignait la classe avec sa touche personnelle. Voici un passage de ce qu’il écrivit au début du cours :
 
 > Mais, ce qui me tient vraiment à cœur est de partager la manière dont ces mots de la révélation touchent et influencent chacun de vous. En baignant dans toutes vos expériences, nous pouvons donner forme à une vision d’ensemble plus claire, de la vérité contenue. Il y a pas de garantie qu’une occasion comme celle-ci se représente, donc je vous encourage tous à saisir cette opportunité.
 > 
-> _Carpe idem !_
+> _Carpe idem !_
 
 Ma pensée fut rehaussée après dix semaines d’étude. Répondre à des questions perspicaces personnalisa le sujet. J’ai acquis de nouvelles perceptions par la lecture, l’écriture, l’étude et en tenant compte des réponses de mes camarades de classe. Nous avons tous appris beaucoup par notre partage personnel et notre temps passé ensemble dans l’espace d’UBIS.
 
-« On ne possède la connaissance qu’en la partageant ; elle est sauvegardée par la sagesse et rendue sociale par l’amour. » <a id="a60_123"></a>[LU 48:7.28](/fr/The_Urantia_Book/48#p7_28)
+« On ne possède la connaissance qu’en la partageant ; elle est sauvegardée par la sagesse et rendue sociale par l’amour. » <a id="a60_123"></a>[LU 48:7.28](/fr/The_Urantia_Book/48#p7_28)
 
 
 ## Références

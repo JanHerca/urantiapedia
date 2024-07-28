@@ -51,7 +51,7 @@ _Par Judy Van Cleave, secrétaire de la Fondation Urantia, Idaho, États-Unis_
 - La nouvelle application gratuite Android contenant _Le Livre d’Urantia_ en vingt langues sera bientôt lancée.
 - Le Projet d’Activation Audio a commencé. Nous pensons lancer des livres audios en 20 langues début 2023.
 
-Avançant dans le deuxième trimestre, nous mettrons l’accent sur :
+Avançant dans le deuxième trimestre, nous mettrons l’accent sur :
 
 - Résoudre les problèmes restants de l’application Android et promouvoir son lancement sur la Boutique de Jeu Google.
 - Simplifier nos campagnes de pub sur internet.
@@ -83,7 +83,7 @@ Au premier trimestre les dons de succession étaient de $26,122.
 <img src="/image/article/UF_News_Online/2022_07/024.jpg">
 </figure>
 
-- Des progrès constants furent rapportés sur les traductions et révisions suivantes : en chinois, farsi, grec et portugais.
+- Des progrès constants furent rapportés sur les traductions et révisions suivantes : en chinois, farsi, grec et portugais.
 - La traduction en arabe a été publiée sur [urantia.org/ar](https://www.urantia.org/ar).
 <br style="clear:both;"/>
 

@@ -47,7 +47,7 @@ Si nous admettons le caractère inévitable du mal fini et potentiel, pourquoi l
 
 Une réponse est le libre arbitre dont les créatures doivent être dotées pour leur permettre de choisir entre le mal et le bien. Si les mortels sont imparfaits, il est alors presque certain qu’ils commettent des erreurs, consciemment ou inconsciemment. Si nous incluons les catastrophes naturelles parmi les maux, alors la nature imparfaite du fini recèle également un mal potentiel qui est susceptible de devenir réel.
 
-Compte tenu du caractère inévitable de ce qui précède, nos esprits reviennent toujours à la question de savoir pourquoi les innocents souffrent. Si Dieu n’est pas à blâmer, alors qui l’est ? Le <a id="a49_194"></a>[LU 147:3.3](/fr/The_Urantia_Book/147#p3_3), Jésus a donné trois raisons d'affliction :
+Compte tenu du caractère inévitable de ce qui précède, nos esprits reviennent toujours à la question de savoir pourquoi les innocents souffrent. Si Dieu n’est pas à blâmer, alors qui l’est ? Le <a id="a49_194"></a>[LU 147:3.3](/fr/The_Urantia_Book/147#p3_3), Jésus a donné trois raisons d'affliction :
 
 1. Certains sont affligés à cause d’années de mauvaise vie. 
 2. Certaines afflictions sont dues à des accidents du temps.

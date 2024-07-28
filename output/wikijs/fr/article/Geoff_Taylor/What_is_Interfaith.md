@@ -44,7 +44,7 @@ En tant que lecteur, j'aime élever n'importe quelle conversation pour inclure l
 
 J'apprécie particulièrement les personnes qui financent ces activités et obligent ceux qui font des dons à rendre ces choses possibles. 
 
-J'ai le sentiment que _Le Livre d'Urantia_ sort enfin du placard. Il y a des gens dans le monde scolaire qui osent désormais citer le livre comme une source faisant autorité ou du moins comme une perspective intéressante. Nous ne sommes plus piégés par la question « Qui l’a écrit ? » question. Nous sommes fiers du contenu, fiers de soutenir ceux qui font progresser les concepts. Nous sommes tous heureux de partager ses leçons et la meilleure façon de partager ces leçons avec d’autres croyants est de les servir plus que ce à quoi ils s’attendent. Si nous vivons les enseignements, nous aimons évidemment le livre. Si nous aimons le livre et qu’ils aiment le service, peut-être qu’ils nous demanderont ce qui inspire notre service. Le plus important est la fructification. Le reste est de la sauce, ou du moins de la compote de pommes.
+J'ai le sentiment que _Le Livre d'Urantia_ sort enfin du placard. Il y a des gens dans le monde scolaire qui osent désormais citer le livre comme une source faisant autorité ou du moins comme une perspective intéressante. Nous ne sommes plus piégés par la question « Qui l’a écrit ? » question. Nous sommes fiers du contenu, fiers de soutenir ceux qui font progresser les concepts. Nous sommes tous heureux de partager ses leçons et la meilleure façon de partager ces leçons avec d’autres croyants est de les servir plus que ce à quoi ils s’attendent. Si nous vivons les enseignements, nous aimons évidemment le livre. Si nous aimons le livre et qu’ils aiment le service, peut-être qu’ils nous demanderont ce qui inspire notre service. Le plus important est la fructification. Le reste est de la sauce, ou du moins de la compote de pommes.
 
 J'avais l’habitude de penser que notre défi avec les autres confessions était de rechercher et d'amplifier un terrain d'entente. J’avais vraiment le sentiment que si nous parvenions à convaincre toutes les religions qu’il n’y avait qu’un seul créateur, nous serions sur la voie de la paix mondiale. Un créateur, une famille, ou comme j'aime le dire : un créateur, un cosmos, un clan. J'ai même écrit une lettre au pape François à cet effet et même si cela est peut-être toujours vrai, je pense maintenant que la diversité de la pensée religieuse est acceptable, à condition que nous donnions tous la souveraineté globale à ce créateur unique. Aucune religion n’a raison. Tous les religieux doivent servir et ce service nous unira tous dans l’amour, et Dieu est amour. Un autre dénominateur commun est le culte. Si d’autres religieux voient notre désir de servir et d’adorer notre Dieu d’amour commun, alors que nous servons sa création, ils ressentiront peut-être une parenté plus forte et s’uniront.
 
@@ -52,7 +52,7 @@ Une langue (la langue de l’amour), une religion (le service). Au service de la
 
 ## Don à Interconfessionnel
 
-Veuillez faire un don à la Urantia Book Fellowship pour soutenir les programmes du Comité interconfessionnel et d'autres travaux de sensibilisation à : https://urantiabook.worldsecuresystems.com/donation
+Veuillez faire un don à la Urantia Book Fellowship pour soutenir les programmes du Comité interconfessionnel et d'autres travaux de sensibilisation à : https://urantiabook.worldsecuresystems.com/donation
 
 _La bourse du Livre d'Urantia_
 Boîte postale 6631

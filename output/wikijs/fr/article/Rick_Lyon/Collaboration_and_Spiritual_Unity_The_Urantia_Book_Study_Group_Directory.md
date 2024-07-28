@@ -42,7 +42,7 @@ _Par Rick Lyon, Indiana, États-Unis_
 
 À chaque fois que je parle du Répertoire des Groupes d’Étude du _Livre d’Urantia_, j’aime souligner que le soleil ne se couche jamais sur la communauté Urantia. Avec 63 pays de groupes actifs confirmés, c’est un témoignage au monde que des gens partageant les mêmes idées, venant souvent de nombreuses religions et cultures différentes peuvent partager l’amour et l’amitié d’une communauté internationale de croyants religieux. En fait, en 2021 il y eut un ajout de 49 nouvelles listes, le troisième plus grand nombre de nouveaux groupes depuis que la création du répertoire en 2011.
 
-Au sein de ce répertoire en ligne se trouve la preuve que nous nous retrouvons pour étudier et discuter de sujets profonds, intimes et quelquefois difficiles d’une manière courtoise, comme frères et sœurs de notre Père du Paradis. Quelle inspiration et quelle démonstration du pouvoir changeant de l’amour de Jésus dans le monde, quand sincèrement partagé, parmi ce qui est certainement le groupe de gens le plus varié de la planète !
+Au sein de ce répertoire en ligne se trouve la preuve que nous nous retrouvons pour étudier et discuter de sujets profonds, intimes et quelquefois difficiles d’une manière courtoise, comme frères et sœurs de notre Père du Paradis. Quelle inspiration et quelle démonstration du pouvoir changeant de l’amour de Jésus dans le monde, quand sincèrement partagé, parmi ce qui est certainement le groupe de gens le plus varié de la planète !
 
 Le Directoire des Groupes d’Étude du _Livre d’Urantia_ est un projet commun de l’Association Urantia Internationale, de la Fellowship du _Livre d’Urantia_ et de la Fondation Urantia. C’est un exemple de trois organisations travaillant ensemble avec un vrai esprit d’unité organisationnel et spirituel. Bill Beasley sert en tant que président de l’équipe du répertoire. Jackie Khoury sert en tant que la représentante de la Fellowship, Tamara Strumfeld représente la Fondation et je suis le représentant de l’Association.
 
@@ -56,14 +56,14 @@ Vous pouvez être confiant que le répertoire est actuel, avec les dernières li
 
 L’année dernière, nous avons ajouté trois nouveaux pays (Le Honduras, La Hongrie et le Japon) et deux nouvelles langues (l’indonésien et le hongrois). Cela nous amène à 63 pays au total. Les états de Delaware et Vermont étaient nouveaux dans la liste américaine.
 
-Les statistiques sont assez impressionnantes. À la fin de 2021, nous avions les chiffres suivants de listes dans le monde. Comme vous pouvez le voir, nous avons finalement battu le record des 500 avec de la marge !
+Les statistiques sont assez impressionnantes. À la fin de 2021, nous avions les chiffres suivants de listes dans le monde. Comme vous pouvez le voir, nous avons finalement battu le record des 500 avec de la marge !
 
 - 513 groupes au total
 - 243 groupes en ligne
 - 358 groupes en personne
 - 88 qui sont et en ligne et en personne
 
-Les 10 premiers pays par nombre de groupes enregistrés :
+Les 10 premiers pays par nombre de groupes enregistrés :
 
 - États-Unis
 - Brésil
@@ -78,11 +78,11 @@ Les 10 premiers pays par nombre de groupes enregistrés :
 
 Les premières cinq langues sont l’anglais, l’espagnol, le portugais, le français et le coréen.
 
-Nous ne voyons pas seulement une croissance dans le nombre des groupes d’étude, mais nous voyons aussi une croissance dans l’utilisation du répertoire quand les gens, probablement nouveaux au _Livre d’Urantia,_ cherchent à étudier avec des personnes de mêmes idées. Si vous n’avez pas encore listé votre groupe d’étude, nous vous encourageons à le faire dès aujourd’hui. Aidez-nous à faire de 2022 la meilleure année de tous les temps !
+Nous ne voyons pas seulement une croissance dans le nombre des groupes d’étude, mais nous voyons aussi une croissance dans l’utilisation du répertoire quand les gens, probablement nouveaux au _Livre d’Urantia,_ cherchent à étudier avec des personnes de mêmes idées. Si vous n’avez pas encore listé votre groupe d’étude, nous vous encourageons à le faire dès aujourd’hui. Aidez-nous à faire de 2022 la meilleure année de tous les temps !
 
 Vous pouvez trouver le répertoire à [https://www.urantiastudygroup.org/](https://www.urantiastudygroup.org/)
 
-Si vous désirez en savoir plus, contactez, s’il vous plaît : [team@urantiastudygroup.org](mailto:team@urantiastudygroup.org)
+Si vous désirez en savoir plus, contactez, s’il vous plaît : [team@urantiastudygroup.org](mailto:team@urantiastudygroup.org)
 
 
 ## Références

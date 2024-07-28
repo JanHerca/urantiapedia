@@ -1,5 +1,5 @@
 ---
-title: "Introduction : Tremplins vers la croissance spirituelle"
+title: "Introduction : Tremplins vers la croissance spirituelle"
 description: "Le Mighty Messenger — Numéro été 2022 : Nouvelles et opinions pour les lecteurs du Livre d'Urantia"
 published: true
 date: 2023-6-21T8:13:38Z

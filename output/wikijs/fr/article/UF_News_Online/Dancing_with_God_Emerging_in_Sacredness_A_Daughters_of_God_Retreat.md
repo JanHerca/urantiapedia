@@ -25,7 +25,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </td>
         <td>
         <a href="/fr/article/Bobbie_Dreier/Circles_of_Trust_An_Experience_in_Soul_Sharing_2">
-          <span class="pr-2">Cercles de confiance : une expérience de partage d'âme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Cercles de confiance : une expérience de partage d'âme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -42,15 +42,15 @@ Du jeudi soir 21 septembre jusqu’au dimanche 25 septembre 2017
 
 Annonce la prochaine retraite des femmes de notre série en continu, les Filles de Dieu, l’équipe d’animatrices (Katharina Becker, Doreen Heyne, Carolyn Prentice et Line st Pierre), vous invitent à un week-end intime, expérimental et amusant.
 
-Lors de notre prochaine retraite, « Danser avec Dieu : Naître en caractère sacré », quatre filles de Dieu ont dessiné un programme où nous co-créons un environnement de confiance à l’intérieur d’un cercle spirituel, de façon à explorer ensemble des questions comme :
+Lors de notre prochaine retraite, « Danser avec Dieu : Naître en caractère sacré », quatre filles de Dieu ont dessiné un programme où nous co-créons un environnement de confiance à l’intérieur d’un cercle spirituel, de façon à explorer ensemble des questions comme :
 
-- Que veut dire pour vous que « Jésus ne manquait jamais d’exalter le caractère sacré de l’individu » ? <a id="a46_104"></a>[LU 170:3.10](/fr/The_Urantia_Book/170#p3_10)
-- « Les anges ne forcent pas le sanctuaire du mental humain. » Comment comprenez-vous cela ? <a id="a47_93"></a>[LU 113:5.1](/fr/The_Urantia_Book/113#p5_1) 
-- Comment devenez-vous conscient du sacré dans la pénibilité de la vie de tous les jours ?
+- Que veut dire pour vous que « Jésus ne manquait jamais d’exalter le caractère sacré de l’individu » ? <a id="a46_104"></a>[LU 170:3.10](/fr/The_Urantia_Book/170#p3_10)
+- « Les anges ne forcent pas le sanctuaire du mental humain. » Comment comprenez-vous cela ? <a id="a47_93"></a>[LU 113:5.1](/fr/The_Urantia_Book/113#p5_1) 
+- Comment devenez-vous conscient du sacré dans la pénibilité de la vie de tous les jours ?
 
-La Mission Des Filles de Dieu : Mettre en valeur le statut d’être une femme dédiée à la croissance spirituelle, à l’avancement intellectuel et au progrès moral.
+La Mission Des Filles de Dieu : Mettre en valeur le statut d’être une femme dédiée à la croissance spirituelle, à l’avancement intellectuel et au progrès moral.
 
-La Vision Des Filles de Dieu : Toucher le cœur des femmes en explorant la dignité d’être des filles de Dieu en honorant leur valeur et leur importance et en coopérant avec l’esprit divin pour produire la magnifique moisson des fruits de l’esprit.
+La Vision Des Filles de Dieu : Toucher le cœur des femmes en explorant la dignité d’être des filles de Dieu en honorant leur valeur et leur importance et en coopérant avec l’esprit divin pour produire la magnifique moisson des fruits de l’esprit.
 
 Le coût des trois jours est de 240,00$ et comprend le logis et tous les repas.
 
@@ -79,7 +79,7 @@ Si vous voulez faire partie de cet événement à la Fondation Urantia, 533 W. D
         </td>
         <td>
         <a href="/fr/article/Bobbie_Dreier/Circles_of_Trust_An_Experience_in_Soul_Sharing_2">
-          <span class="pr-2">Cercles de confiance : une expérience de partage d'âme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Cercles de confiance : une expérience de partage d'âme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

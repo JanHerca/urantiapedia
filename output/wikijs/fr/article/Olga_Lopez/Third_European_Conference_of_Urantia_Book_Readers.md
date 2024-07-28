@@ -50,7 +50,7 @@ Le vendredi matin, nous avons visité les Dolmens de Antesuera, un site classé 
 
 C’était ma première conférence en tant que trustee de la Fondation Urantia, et j’ai aimé rencontrer de nouveaux lecteurs et cultiver d’anciennes amitiés. J’ai passé du temps, à écouter attentivement et à essayer de regarder au-delà du programme des activités, pour jauger la santé de la communauté Urantia en Europe, et je dois dire que le développement de la communauté des lecteurs sur ce continent se poursuit à un rythme soutenu.
 
-Il y a des leaders capables qui travaillent infatigablement pour garder la communauté cohérente. J’ai aussi remarqué que les présentations et les ateliers ont évolué : leur forme s’est diversifiée ; leur contenu s’est approfondi ; la participation des lecteurs est plus prisée. Et par-dessus tout, on se concentre davantage sur l’application des enseignements dans la vie quotidienne.
+Il y a des leaders capables qui travaillent infatigablement pour garder la communauté cohérente. J’ai aussi remarqué que les présentations et les ateliers ont évolué : leur forme s’est diversifiée ; leur contenu s’est approfondi ; la participation des lecteurs est plus prisée. Et par-dessus tout, on se concentre davantage sur l’application des enseignements dans la vie quotidienne.
 
 Pour toutes ces raisons citées ci-dessus, je suis certaine qu’une étape a été atteinte dans le développement de la communauté lectrice européenne. Bien qu’étant dispersée dans de nombreux pays, et de la différence de langues, les lecteurs européens ont créé un espace commun dans lequel l’on peut construire et aider à surmonter le matérialisme et à éclairer l’Europe.
 

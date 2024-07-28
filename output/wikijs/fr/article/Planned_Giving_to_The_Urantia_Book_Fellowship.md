@@ -45,7 +45,7 @@ L’œuvre de cette révélation est bien plus que ce qu’une seule personne pe
 
 Lorsque vous faites un don en héritage à la Fellowship, vous garantissez que le travail que nous accomplissons non seulement se poursuivra, mais s'améliorera progressivement, sera plus efficace et plus efficient. En laissant un don en héritage, vous contribuez à garantir que les futurs étudiants, même ceux qui ne sont pas encore nés, auront non seulement accès à la révélation originale, mais également au soutien, à la camaraderie et à l’amitié des autres lecteurs. Avec tant de projets et tant de travail que nous voulons et devons faire, nous devons continuer à aller de l’avant, et nous comptons sur vous pour nous aider à laisser cet héritage spirituel à nos enfants et petits-enfants, même à tous les enfants de Dieu sur Urantia.
 
-Nous avons fourni des informations utiles sur les dons planifiés sur notre site Web :
+Nous avons fourni des informations utiles sur les dons planifiés sur notre site Web :
 
 [WWW.URANTIABOOK.PLANNEDGIVING.ORG](https://urantiabook.plannedgiving.org/)
 

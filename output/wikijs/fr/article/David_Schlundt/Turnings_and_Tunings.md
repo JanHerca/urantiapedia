@@ -15,7 +15,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td>
         <a href="/fr/article/David_Elders/Personality_and_Will">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personnalité et volonté : accroître la maîtrise des mondes intérieur et extérieur</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personnalité et volonté : accroître la maîtrise des mondes intérieur et extérieur</span>
         </a>
         </td>
         <td>
@@ -51,7 +51,7 @@ _à travers la sentinelle tremble_
 _ponctuation des lignes d'horizon rocheuses d'un bleu profond._
 
 _Un tel essai que Dieu a rédigé à mon avis _
-_ce jour-là, la fin du monde !_
+_ce jour-là, la fin du monde !_
 
 _Ou était-ce le jour où le monde a commencé ?_
 
@@ -80,7 +80,7 @@ David Schlundt est décédé en septembre 1991.
       <tr>
         <td>
         <a href="/fr/article/David_Elders/Personality_and_Will">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personnalité et volonté : accroître la maîtrise des mondes intérieur et extérieur</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personnalité et volonté : accroître la maîtrise des mondes intérieur et extérieur</span>
         </a>
         </td>
         <td>

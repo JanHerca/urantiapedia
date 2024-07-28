@@ -51,7 +51,7 @@ Le problème ne se limite pas aux techniques de traduction ; ce qui est plus ess
 
 Selon les paroles de l'apôtre Jean, il y avait quatre femmes près de la croix : la mère de Jésus et sa sœur, ainsi que Marie, épouse de Clopas, et Marie-Madeleine. Les noms des deux premières femmes ne sont pas précisés. Cependant, d'autres péricopes révèlent que le nom de la mère de Jésus est Marie. Mais qui était la sœur de la mère de Jésus, et sous quel nom était-elle connue ?
 
-Une réponse à cette question a été cherchée en comparant les informations fournies par Marc et Matthieu, deux synoptiques, dans leurs récits du même événement ([Matthieu 27:56](/fr/Bible/Matthew/27#v56) ; [Marc 15:40](/fr/Bible/Mark/15#v40)). Les deux évangélistes mentionnent trois des femmes qui étaient présentes à la croix, et deux de ces femmes enregistrées sont identiques dans les deux évangiles synoptiques, à savoir. Marie de Magdala et Marie, la mère de Jacques et de Joseph. Matthieu affirme que la troisième femme était la mère des fils de Zébédée. Selon les mots de Mark, elle était Salomé. Si l'on combine ces informations, on peut conclure que Salomé, l'épouse de Zébédée, était la sœur de Marie, la mère de Jésus. En conséquence, si le « disciple bien-aimé » était Jean, l'un des fils de Zébédée, il s'ensuit que Jean devait être le cousin de Jésus.
+Une réponse à cette question a été cherchée en comparant les informations fournies par Marc et Matthieu, deux synoptiques, dans leurs récits du même événement ([Matthieu 27:56](/fr/Bible/Matthew/27#v56) ; [Marc 15:40](/fr/Bible/Mark/15#v40)). Les deux évangélistes mentionnent trois des femmes qui étaient présentes à la croix, et deux de ces femmes enregistrées sont identiques dans les deux évangiles synoptiques, à savoir. Marie de Magdala et Marie, la mère de Jacques et de Joseph. Matthieu affirme que la troisième femme était la mère des fils de Zébédée. Selon les mots de Mark, elle était Salomé. Si l'on combine ces informations, on peut conclure que Salomé, l'épouse de Zébédée, était la sœur de Marie, la mère de Jésus. En conséquence, si le « disciple bien-aimé » était Jean, l'un des fils de Zébédée, il s'ensuit que Jean devait être le cousin de Jésus.
 
 Ce genre de conclusion semble très logique et naturel ; et il n’y a pas eu beaucoup de polémiques pour réfuter une telle interprétation. Les informations évangéliques sur de nombreux épisodes sont rares et chaque élément de connaissance doit être utilisé au maximum.
 
@@ -67,7 +67,7 @@ Les écrivains de l’Antiquité n’utilisaient pratiquement pas de ponctuation
 
 Les textes du Nouveau Testament ont été conservés pour les générations ultérieures dans des livres sur parchemin, des codex, le plus ancien de ceux qui existent ayant été copié vers 300 après J.-C. Les chercheurs ont eu la tâche difficile de détecter et, dans la mesure du possible, de corriger les nombreuses erreurs commises lors de la copie incessante de ces textes.
 
-Le Quatrième Évangile, avec le verset discuté, ne fait aucune exception à tout cela. Le texte grec du verset même de [Jean 19 :25](/fr/Bible/John/19#v25) se lit comme ceci dans une traduction mot à mot :
+Le Quatrième Évangile, avec le verset discuté, ne fait aucune exception à tout cela. Le texte grec du verset même de [Jean 19 :25](/fr/Bible/John/19#v25) se lit comme ceci dans une traduction mot à mot :
 
 > _Et [là] se tenaient près de la croix la mère de Jésus et la sœur de sa mère Marie de Clopas et Marie-Madeleine._
 
@@ -83,7 +83,7 @@ De nombreuses justifications intrigantes ont été présentées pour défendre c
 
 Il y a aussi un certain intérêt dans la supposition présentée par Eusèbe mais originaire d'Hégésippe, selon laquelle Clopas aurait pu être le frère de Joseph [le père de Jésus], et que le fils de Clopas et de Marie, Siméon, qui fut le successeur de Jacques le Juste à la tête de l'Église de Jérusalem avait donc été la cousine du Seigneur. Les liens familiaux de Siméon avec la « Sainte Famille » étant ainsi établis à travers Clopas, il n'était plus nécessaire de présumer que son épouse Marie était une sœur de la mère de Jésus.
 
-Notre conclusion à ce stade est que lorsqu'il s'agit du verset [Jean 19 :25] (/fr/Bible/John/19#v25), le point crucial n'est pas dans sa traduction mais plutôt dans son interprétation. Ce verset avait besoin d’être interprété dès le deuxième siècle. L'interprétation qui implique quatre femmes est actuellement si solidement établie que seule la littérature la plus sophistiquée fait référence aux problèmes d'interprétation du verset. Même cette littérature ne parvient pas à réfléchir au népotisme apparent. La parenté supposée de Jésus et des fils de Zébédée est toujours présentée dans les meilleurs termes possibles.
+Notre conclusion à ce stade est que lorsqu'il s'agit du verset [Jean 19 :25] (/fr/Bible/John/19#v25), le point crucial n'est pas dans sa traduction mais plutôt dans son interprétation. Ce verset avait besoin d’être interprété dès le deuxième siècle. L'interprétation qui implique quatre femmes est actuellement si solidement établie que seule la littérature la plus sophistiquée fait référence aux problèmes d'interprétation du verset. Même cette littérature ne parvient pas à réfléchir au népotisme apparent. La parenté supposée de Jésus et des fils de Zébédée est toujours présentée dans les meilleurs termes possibles.
 
 ## Dernières connaissances
 
@@ -93,7 +93,7 @@ Les lecteurs trouveront peut-être très peu pertinente une discussion sur le no
 
 Ce dossier révèle plus de noms que le rapport de John. La plupart de ces noms sont connus dans d’autres contextes. La première à être mentionnée nommément est Marie, la mère de Jésus. Ruth est la plus jeune sœur de Jésus et Jude est l'un de ses jeunes frères. Jean est sans aucun doute l'un des fils de Zébédée, et la mère de Jean, Salomé, doit donc être l'épouse de Zébédée. Nous connaissons bien Marie-Madeleine dans des contextes antérieurs, et qui pourrait oublier Rébecca, la fille aînée d'Ezra, qui, à la fin de son adolescence, voulait devenir l'une des disciples de Jésus. Mais le _Livre d'URANTIA_ est silencieux au sujet de Marie, l'épouse de Clopas, à l'exception de la brève mention ci-dessus. Qu’est-ce qui fait d’elle un personnage si important pour qu’elle trouve sa place dans ce contexte précis ?
 
-Notre énigme approche de sa solution. Dans le passage cité, Marie a deux attributs : « l'épouse de Clopas » et « la sœur de la mère de Jésus ». Une seule conclusion peut être tirée : **La sœur de Mary était Mary**. Ceci explique pourquoi la femme de Clopas est mentionnée nommément parmi les personnes qui se tenaient près de la croix de Jésus.
+Notre énigme approche de sa solution. Dans le passage cité, Marie a deux attributs : « l'épouse de Clopas » et « la sœur de la mère de Jésus ». Une seule conclusion peut être tirée : **La sœur de Mary était Mary**. Ceci explique pourquoi la femme de Clopas est mentionnée nommément parmi les personnes qui se tenaient près de la croix de Jésus.
 
 ## Les sœurs de Marie
 
@@ -101,7 +101,7 @@ Dans l'Israël de l'époque de Jésus, Marie (en hébreu, « Mariam » ou « Mir
 
 _Le Livre d'URANTIA_ est quelque peu énigmatique lorsqu'il s'agit des noms des sœurs de la mère de Jésus. Dans le passage relatant la visite de Marie à ses parents pendant qu'elle attendait son premier enfant, ses deux frères sont mentionnés, ainsi que ses _deux_ sœurs. L'une des sœurs était Salomé, et c'est à elle que Marie confia son secret. ([LU 122:3.3](/fr/The_Urantia_Book/122#p3_3))
 
-Le nom de l’autre sœur est divulgué dans le procès-verbal de l’enterrement de Jésus :
+Le nom de l’autre sœur est divulgué dans le procès-verbal de l’enterrement de Jésus :
 
 > _Voici les noms des femmes qui s’attardèrent ainsi près du tombeau ce vendredi soir : Marie-Madeleine, Marie la femme de Clopas, Marthe (une autre sœur de la mère de Jésus) et Rébecca de Sepphoris._ ([LU 188:1.7](/fr/The_Urantia_Book/188#p1_7))
 

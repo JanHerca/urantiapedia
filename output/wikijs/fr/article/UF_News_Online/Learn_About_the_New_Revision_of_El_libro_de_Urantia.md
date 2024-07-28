@@ -35,7 +35,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2021_04/052.jpg">
 </figure>
 
-L'édition 2021 de _El Libro de Urantia_ sera disponible cet été. C'est le fruit d'un effort d'équipe sans précédent, motivé par l'amour et fondé sur une méthodologie de traduction professionnelle utilisant sept éléments :
+L'édition 2021 de _El Libro de Urantia_ sera disponible cet été. C'est le fruit d'un effort d'équipe sans précédent, motivé par l'amour et fondé sur une méthodologie de traduction professionnelle utilisant sept éléments :
 
 - Une équipe de révision internationale
 - Un groupe d'étude consultatif
@@ -49,7 +49,7 @@ Chacun des traducteurs avait un rôle distinctif. Apprenez-en davantage sur les 
 
 Vous devez vous préinscrire pour pouvoir participer.
 
-Inscrivez-vous à la conférence en ligne gratuite ici : https://register.urantia.org.pe/en.php.
+Inscrivez-vous à la conférence en ligne gratuite ici : https://register.urantia.org.pe/en.php.
 
 Sélectionnez le 14 heures. Dimanche à CDT (GMT -5), atelier intitulé « Nouvelle révision espagnole » (« La Nueva Revisión »).
 

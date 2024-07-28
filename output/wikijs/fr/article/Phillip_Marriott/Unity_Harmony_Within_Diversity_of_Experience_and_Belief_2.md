@@ -54,7 +54,7 @@ Il est très facile d’avoir de la diversité, des divergences d’opinions et 
 
 > L’une des conférences du soir les plus mouvementées d’Amathus fut la session où l’on discuta de l’unité spirituelle. Jacques Zébédée avait demandé : « Maitre, comment apprendrons-nous à avoir le même point de vue et à jouir ainsi d’une plus grande harmonie entre nous ? » ... Jésus ... répliqua : « Ce que je vous demande, mes apôtres, c’est l’*unité spirituelle —* dont vous pouvez faire l’expérience dans la joie de l’union de votre consécration à faire, de tout cœur, la volonté de mon Père qui est aux cieux. Vous n’avez pas besoin d’avoir le même point de vue, les mêmes sentiments, ni même des pensées semblables, pour *être* spirituellement *semblables.* (<a id="a54_665"></a>[LU 141:5.1](/fr/The_Urantia_Book/141#p5_1))
 
-L'unité spirituelle est quelque chose qui doit être recherché et travaillé ; cela ne viendra pas automatiquement. Cela doit être réfléchi et trié consciemment.
+L'unité spirituelle est quelque chose qui doit être recherché et travaillé ; cela ne viendra pas automatiquement. Cela doit être réfléchi et trié consciemment.
 
 J'ai récemment eu une rencontre lors d'une promotion de livre que je fais régulièrement. J'avais installé le stand du Livre d'Urantia et à côté de moi se trouvait un autre groupe religieux proposant des séances de prière, des bénédictions, de la crème solaire, de l'eau en bouteille et des images à colorier pour les enfants. Je pense que leur curiosité a été piquée lorsqu’ils ont réalisé que je parlais aussi de Jésus, de Dieu et de choses spirituelles. J'ai été approché par un jeune homme et invité à engager une conversation ; il m'a posé des questions sur le livre et de quoi il s'agissait, alors j'ai fait mon discours habituel.
 
@@ -72,7 +72,7 @@ Alors, en rentrant chez moi après la foire, cela m'a fait réfléchir : comment
 
 Mais bien sûr, je ne pourrai jamais espérer être aussi intelligent ou sagace que Jésus, et s’il n’y a pas de désir d’unité, alors ce sera toujours une affaire à sens unique. C'était donc mon point de vue, si nous avions pu tous les deux convenir d'avoir une camaraderie – d'entretenir des relations amicales et que toute opinion ou pensée divergente soit mise de côté et permettre à l'idée commune de passer au premier plan – cela pourrait être une base pour ensuite bâtir sur. Mais cela ne fonctionnera que dans un environnement de coopération et avec une volonté de paix et d’harmonie.
 
-Le papier 103 explique :
+Le papier 103 explique :
 
 > L’unité de l’expérience religieuse parmi les membres d’un groupe social ou racial dérive de l’identité de nature des fragments de Dieu qui habitent les individus. ... Les membres d’un groupe de mortels peuvent ressentir une unité spirituelle, mais ne peuvent jamais atteindre l’uniformité philosophique. (<a id="a76_307"></a>[LU 103:1.1](/fr/The_Urantia_Book/103#p1_1))
 
@@ -101,7 +101,7 @@ Je crois que pour exister, il doit d’abord exister à l’intérieur – au se
 
 Nous pouvons alors permettre aux différentes opinions et croyances d’exister, dans une atmosphère de coopération, d’amour et d’harmonie. Nous pouvons applaudir la diversité et en profiter, mais cela demande des efforts et du travail. Nous devons être le changement que nous voulons voir dans le monde.
 
-Le livre le résume le mieux avec ces articles finaux :
+Le livre le résume le mieux avec ces articles finaux :
 
 > La Pentecôte fut l’appel à l’unité spirituelle parmi les croyants à l’évangile. Quand l’esprit descendit sur les disciples à Jérusalem, la même chose se produisit à Philadelphie, à Alexandrie et en tous les autres lieux où demeuraient des croyants sincères. Il fut littéralement vrai « qu’il n’y avait qu’un seul cœur et une seule âme parmi la multitude des croyants ». La religion de Jésus est la plus puissante influence unificatrice que le monde ait jamais connue. (<a id="a105_471"></a>[LU 194:3.17](/fr/The_Urantia_Book/194#p3_17))
 

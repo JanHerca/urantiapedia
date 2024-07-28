@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 À mesure que les plans finalisés et les préparatifs avancent, l’enthousiasme s'intensifie parmi les coordinateurs de la conférence internationale du Fellowsbip _Le Livre d'Urantia_ qui se tiendra à l’Université Villanova près de Philadelphie, du 30 juillet au 4 août 2005. L'année prochaine marque le 50e anniversaire de la publication du _Livre d'Urantia_. , et le thème de la conférence, « Donner de l’importance à l’esprit – les 50 prochaines années », a inspiré un certain nombre d'activités spéciales pour le rassemblement.
 
-En regardant l’avenir du mouvement Urantia, les trois volets du programme comprendront des présentations qui intègrent les connaissances et l’expérience du passé avec des innovations et des idées pour l’avenir. Les ateliers de religion et de philosophie étudieront la relation entre les concepts du _Livre d'Urantia_ et les développements actuels dans les domaines de la pensée religieuse et philosophique. L’expérience spirituelle personnelle fera l’objet d’un grand nombre de partages encourageants d’expériences individuelles passées et d’inspiration de nouvelles. Même les services de culte seront uniques et se concentreront sur une expérience nouvelle et inspirante du divin. L'astronomie sera présentée dans le cadre du parcours scientifique ; et en plus de présentations audiovisuelles spectaculaires, les participants pourront observer les étoiles à l’extérieur à travers un télescope le soir (si le temps le permet). 
+En regardant l’avenir du mouvement Urantia, les trois volets du programme comprendront des présentations qui intègrent les connaissances et l’expérience du passé avec des innovations et des idées pour l’avenir. Les ateliers de religion et de philosophie étudieront la relation entre les concepts du _Livre d'Urantia_ et les développements actuels dans les domaines de la pensée religieuse et philosophique. L’expérience spirituelle personnelle fera l’objet d’un grand nombre de partages encourageants d’expériences individuelles passées et d’inspiration de nouvelles. Même les services de culte seront uniques et se concentreront sur une expérience nouvelle et inspirante du divin. L'astronomie sera présentée dans le cadre du parcours scientifique ; et en plus de présentations audiovisuelles spectaculaires, les participants pourront observer les étoiles à l’extérieur à travers un télescope le soir (si le temps le permet). 
 
 De nombreuses occasions de convivialité seront offertes, notamment un dîner-dansant le dernier soir de la conférence. De la musique et des divertissements seront proposés chaque soir, et le magnifique campus de Villanova offre de nombreuses possibilités pour diverses activités de plein air. Une galerie d'art et une librairie combinées offriront aux artistes et aux écrivains la possibilité d'exposer leurs créations, bien que ceux qui le souhaitent devront remplir un formulaire car l’espace est limité. De nombreux lecteurs étrangers sont attendus et partageront leurs expériences dans leur propre pays. Lors de la journée libre, la ville de Philadelphie et ses environs constituent une leçon d'histoire en soi, et de superbes transports ferroviaires sont disponibles vers le centre-ville et d'autres zones locales pour ceux qui choisissent de ne pas participer aux visites prévues. 
 
@@ -52,7 +52,7 @@ Par _Avi Dogim_
 
 Cette année, la Fraternité a franchi une étape géante dans son processus de décentralisation et a vendu le bâtiment qui lui servait de « siège social » depuis 1989. En plus d'être une mesure importante d'économies de coûts, elle est attendue, avec d'autres ajustements opérationnels et une plus grande fiabilité. sur les technologies basées sur le Web, pour accroître l’efficacité de l’organisation et améliorer la qualité de ses services.
 
-L'unité entre les lecteurs et à travers toutes les lignes organisationnelles continue d'être un objectif important pour de nombreux membres de la Fraternité ainsi que pour d'autres « Urantiens ». Le désir d’unité est presque palpable lorsque l’on se promène au milieu d’un rassemblement tel que la conférence parrainée par la Heart of America Society à Kansas City en septembre. La frustration face au fossé persistant qui existe encore entre la Fellowship et la Fondation/IUA est profonde. Mais le désir ardent et la frustration ne suffiront pas à combler ce fossé. Nous devons agir. L'année dernière, les membres de la Fellowship ont déployé des efforts croissants pour participer à des événements et à des activités parrainés par ou impliquant d'autres groupes. Pour n'en nommer que quelques-uns : un certain nombre de membres du Fellowship ont assisté à une conférence de l’IUA à Québec l’été dernier ; un autre groupe a assisté à la récente conférence de l’UAUS à Chicago ; Les membres de la bourse ont apprécié de travailler aux côtés de la Fondation, de l’IUA et de personnes non affiliées sur des activités de diffusion au Parlement mondial des religions à Barcelone cet été. Il n’y avait ni « nous » ni « eux » dans cette image. Les organisateurs de la Conférence internationale de la Fraternité, IC 05, impliquent les membres de l’IUA ainsi que des lecteurs « non affiliés » dans la planification et l’exécution de ce qui, j'en suis sûr, sera une conférence très excitante et édifiante célébrant le 50e anniversaire de la publication de _The Urantia. Livre_. Tant que nous continuerons à créer des opportunités de coopération et de camaraderie entre tous les lecteurs aux niveaux local, régional, national et international, avec le temps, les vieux démons idéologiques et les animosités persistantes retomberont dans l’ombre et finiront par disparaître complètement.
+L'unité entre les lecteurs et à travers toutes les lignes organisationnelles continue d'être un objectif important pour de nombreux membres de la Fraternité ainsi que pour d'autres « Urantiens ». Le désir d’unité est presque palpable lorsque l’on se promène au milieu d’un rassemblement tel que la conférence parrainée par la Heart of America Society à Kansas City en septembre. La frustration face au fossé persistant qui existe encore entre la Fellowship et la Fondation/IUA est profonde. Mais le désir ardent et la frustration ne suffiront pas à combler ce fossé. Nous devons agir. L'année dernière, les membres de la Fellowship ont déployé des efforts croissants pour participer à des événements et à des activités parrainés par ou impliquant d'autres groupes. Pour n'en nommer que quelques-uns : un certain nombre de membres du Fellowship ont assisté à une conférence de l’IUA à Québec l’été dernier ; un autre groupe a assisté à la récente conférence de l’UAUS à Chicago ; Les membres de la bourse ont apprécié de travailler aux côtés de la Fondation, de l’IUA et de personnes non affiliées sur des activités de diffusion au Parlement mondial des religions à Barcelone cet été. Il n’y avait ni « nous » ni « eux » dans cette image. Les organisateurs de la Conférence internationale de la Fraternité, IC 05, impliquent les membres de l’IUA ainsi que des lecteurs « non affiliés » dans la planification et l’exécution de ce qui, j'en suis sûr, sera une conférence très excitante et édifiante célébrant le 50e anniversaire de la publication de _The Urantia. Livre_. Tant que nous continuerons à créer des opportunités de coopération et de camaraderie entre tous les lecteurs aux niveaux local, régional, national et international, avec le temps, les vieux démons idéologiques et les animosités persistantes retomberont dans l’ombre et finiront par disparaître complètement.
 
 La réunion du Conseil général de cet été a réservé quelques surprises. Harry McMullan a annoncé sa décision de démissionner immédiatement de son poste de trésorier de la Fellowship. Harry, qui a siégé au comité exécutif au cours des 25 dernières années, a déclaré qu’il souhaitait quitter le poste afin qu’une autre personne qualifiée mais ayant accumulé moins d'années de service ait l’opportunité de servir en tant que trésorier. Convaincu que la décision d'Harry était définitive, j'ai accepté sa démission, Harry a été remercié pour ses nombreuses années de service au sein du Comité Exécutif et pour ses nombreuses contributions à la communauté des lecteurs, y compris sa paternité d'un index du _Le Livre d'Urantia_, qui fait maintenant partie de l’édition Uversa Press du livre. Harry restera membre du Conseil général et s'est engagé à continuer à travailler pour la Communauté de toutes les manières qui pourraient lui être utiles. John Hay a été élu au poste de trésorier. 
 
@@ -86,7 +86,7 @@ J'ai lu _Le Livre d'Urantia_ depuis plus de deux décennies. Ce cadeau a radical
 
 Après avoir déménagé à Kansas City en 2001, mon objectif a changé. Je voulais être utile dans un domaine plus large. En tant que Conseiller Général, je peux être utile dans le domaine de l’Interconfessionnel. 
 
-J'ai grandi en participant à des pow-wow amérindiens, dans le but de me régaler, de danser et de partager des idées en communauté. Je considère les différentes religions comme des tribus différentes ayant le même objectif ; la compréhension mutuelle et l’intégration des communautés religieuses pour diffuser la connaissance d'un être supérieur, l’amour les uns des autres et la guérison de nos frères et sœurs. Mon objectif est de développer des relations interconfessionnelles, de m'impliquer dans la communauté, d'apprendre ce qu’elle fait et de prendre des décisions sur la manière dont nous pouvons intervenir et ajouter de la valeur. Ce sera un voyage intéressant ! 
+J'ai grandi en participant à des pow-wow amérindiens, dans le but de me régaler, de danser et de partager des idées en communauté. Je considère les différentes religions comme des tribus différentes ayant le même objectif ; la compréhension mutuelle et l’intégration des communautés religieuses pour diffuser la connaissance d'un être supérieur, l’amour les uns des autres et la guérison de nos frères et sœurs. Mon objectif est de développer des relations interconfessionnelles, de m'impliquer dans la communauté, d'apprendre ce qu’elle fait et de prendre des décisions sur la manière dont nous pouvons intervenir et ajouter de la valeur. Ce sera un voyage intéressant ! 
 
 **Tom Allen, conseiller général** 
 
@@ -128,12 +128,12 @@ Les membres du Comité de sensibilisation de la Fellowship vous invitent à part
 
 Afin d'acquérir les compétences de prise de parole en public nécessaires à cette entreprise, nous avons décidé de faire appel à Toastmasters International. Toastmasters offre un environnement chaleureux et convivial dans lequel vous pouvez prendre confiance en vous pour parler en public. Existant depuis 80 ans, ils offrent une méthode éprouvée, vraie et efficace de formation des orateurs. De plus, Toastmasters compte des milliers de clubs dans le monde. Il existe souvent de nombreux lieux et horaires parmi lesquels choisir dans une zone donnée. 
 
-Pour plus d’informations sur la façon de devenir membre du Bureau des conférenciers, veuillez contacter les membres du Comité : 
+Pour plus d’informations sur la façon de devenir membre du Bureau des conférenciers, veuillez contacter les membres du Comité : 
 
 Maria Downing au 303-444-3789 ou maridown@aol.com ou M
 Mary Jo Garascia au 303-698-2752 ou pèlerin_mj@yahoo.com
 
-## De l’art, de l’art et encore de l’art !
+## De l’art, de l’art et encore de l’art !
 
 De belles et passionnantes peintures à l’huile, aquarelles, dessins graphiques, céramiques, sculptures sur différents supports, mobiles et bien plus encore seront exposés à la galerie d'art de la conférence internationale _Le Livre d'Urantia_ Fellowship qui se tiendra à Villanova près de Philadelphie du 30 juillet au 4 août 2005.
 
@@ -143,14 +143,14 @@ Les thèmes liés au _Livre d'Urantia_ sont particulièrement encouragés, mais 
 
 Faites bon usage de ces reliques urantiennes. Le produit des enchères sera utilisé pour les dépenses de la conférence. Contactez Lenny Cowles : 303.258.0504 ou par e-mail à Lighting@indra.com :
 
-Reliques de vente aux enchères nécessaires :
+Reliques de vente aux enchères nécessaires :
 
-- Livres : 1ère et 2ème édition des Livres d'Urantia
+- Livres : 1ère et 2ème édition des Livres d'Urantia
 - Livres du Dr Sadler
 - Livres de lecteurs faisant référence à Urantia
 - Art Urantia
 - Céramiques, vitraux Bijoux, vêtements
-- Vacatton Adventures : de vrais billets d'avion, des privilèges d'invité dans la maison d'un véritable Urantien vivant.
+- Vacatton Adventures : de vrais billets d'avion, des privilèges d'invité dans la maison d'un véritable Urantien vivant.
 
 ## Le Parlement des religions du monde de 2004
 
@@ -170,7 +170,7 @@ Il est difficile de décrire à quel point l’expérience parlementaire est pui
 
 Les membres et les invités de la First Society (Chicago) et de la Greater Lake Michigan Urantia Associatíon (GLMUA) se réunissent pour une photo de groupe lors de la célébration de l’anniversaire de Jésus au Indiana Dunes National Lakeshore, sur le lac Michigan. L'événement parrainé conjointement est devenu une tradition annuelle pour les lecteurs de la région.
 
-Les participants à la huitième conférence annuelle Lone Star Roundup au Briarwood Retreat Center, dans le nord du Texas, visitent pendant une pause dans le programme. Le programme comprenait une superbe exploration approfondie de « La religion de l’Esprit », y compris de belles lectures de la poésie exceptionnelle de la poétesse primée K. Brendi Poppel de Santa Barbara, en Californie.
+Les participants à la huitième conférence annuelle Lone Star Roundup au Briarwood Retreat Center, dans le nord du Texas, visitent pendant une pause dans le programme. Le programme comprenait une superbe exploration approfondie de « La religion de l’Esprit », y compris de belles lectures de la poésie exceptionnelle de la poétesse primée K. Brendi Poppel de Santa Barbara, en Californie.
 
 Les participants à la conférence de la Heart of America Society en septembre ont profité d'un moment de conversation tranquille après un service dans la roseraie de Unity Village, MO. Les présentateurs de la conférence ont exploré la nature de l’Esprit maternel créatif, et le week-end comprenait également une réunion du Conseil général de l’Association,
 
@@ -214,18 +214,18 @@ La liste continue. Plus important encore, ces services rendus à notre planète 
 
 ## Tu es invité! 
 
-Inscrivez vos idées de design pour le concours « Créer une vision pour les 50 prochaines années ». 
+Inscrivez vos idées de design pour le concours « Créer une vision pour les 50 prochaines années ». 
 
 Les candidatures gagnantes seront présentées lors de la conférence IC05 à Villanova du 30 juillet au 4 août.
 
-Les participants peuvent utiliser des mots et des œuvres artistiques pour améliorer leur vision de ce à quoi ressemblera notre planète alors que nous apporterons la révélation à tous les peuples d'Uranria. Sur quelles mesures reviendrons-nous qui ont fait une grande différence ? Où ont été nos tournants ? Quelles méthodes nouvelles et inhabituelles avons-nous mises en œuvre pour provoquer ces changements transformateurs ? 
+Les participants peuvent utiliser des mots et des œuvres artistiques pour améliorer leur vision de ce à quoi ressemblera notre planète alors que nous apporterons la révélation à tous les peuples d'Uranria. Sur quelles mesures reviendrons-nous qui ont fait une grande différence ? Où ont été nos tournants ? Quelles méthodes nouvelles et inhabituelles avons-nous mises en œuvre pour provoquer ces changements transformateurs ? 
 
-Les juges rechercheront : 
-- Originalité : un regard créatif vers un avenir invisible ; 
+Les juges rechercheront : 
+- Originalité : un regard créatif vers un avenir invisible ; 
 - Visionnaire – la capacité de nous inspirer maintenant, 
-- Faisabilité : il contient des idées et des informations que nous pouvons utiliser. 
+- Faisabilité : il contient des idées et des informations que nous pouvons utiliser. 
 
-Bien que cela soit fait pour le plaisir et la perspicacité, nous envisageons d'offrir des prix pour compléter l’état déjà exalté de gagnant ! Peut-être que quelqu’un se présentera avec un prix digne d'intérêt, comme de l’argent sonnant et trébuchant. D'ici là, notre premier prix sera un _Livre d'Urantia_ entièrement souligné avec la fonctionnalité supplémentaire de surlignage coloré dans votre choix de couleurs. Vraiment un incontournable. 
+Bien que cela soit fait pour le plaisir et la perspicacité, nous envisageons d'offrir des prix pour compléter l’état déjà exalté de gagnant ! Peut-être que quelqu’un se présentera avec un prix digne d'intérêt, comme de l’argent sonnant et trébuchant. D'ici là, notre premier prix sera un _Livre d'Urantia_ entièrement souligné avec la fonctionnalité supplémentaire de surlignage coloré dans votre choix de couleurs. Vraiment un incontournable. 
 
 La date limite est le 15 juin 2005. Les inscriptions tardives seront acceptées, mais mécontentées. 
 
@@ -245,7 +245,7 @@ Envoyez vos inscriptions à : Thomas Orjala, 782 South Ruby Rd, Coeur d'Alerte, 
 
 ## Liens externes
 
-* Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
+* Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
 
 
 

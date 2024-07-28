@@ -41,7 +41,7 @@ dateCreated: 2023-8-29T10:55:6Z
 _Par Jay Peregrine, directeur exécutif de la Fondation Urantia,_  
 _Chicago, Illinois, États-Unis_
 
-_Note de l’éditrice : Jay et Mo Siegel, le président de la Fondation Urantia, participèrent à la conférence internationale de l’ Association Urantia Internationale du 28 avril au 2 mai 2012 à Medellin, Colombie._
+_Note de l’éditrice : Jay et Mo Siegel, le président de la Fondation Urantia, participèrent à la conférence internationale de l’ Association Urantia Internationale du 28 avril au 2 mai 2012 à Medellin, Colombie._
 
 La Colombie et le Brésil sont les deux pays les plus religieux d’Amérique du Sud. Et la Colombie est l’un des plus grands, par habitant, de lecteurs du Livre d’Urantia du monde. Après tous ses problèmes avec les cartels de drogue dans les années 80, Medellin en est sortie comme une ville vibrante avec un merveilleux climat. Elle a un nouveau système de transport admirable, qui comprend des gondoles qui desservent les quartiers des coteaux et elle possède des musées d’art et une industrie florissante.
 
@@ -52,7 +52,7 @@ Tamila Ragimova, présidente de l’association colombienne de l’Association U
 <img src="/image/article/UF_News_Online/2012_06/025.jpg">
 </figure>
 
-Le soir, il y avait de la musique traditionnelle et de la danse à l’hôtel. Un soir, nous avons fait un tour de la ville en chivas ( un chiva est une petit bus ouvert, peint de couleur vive ). Le dernier jour de la conférence, nous sommes allés à la campagne, pour visiter un village traditionnel et déjeuner dans une vieille hacienda.
+Le soir, il y avait de la musique traditionnelle et de la danse à l’hôtel. Un soir, nous avons fait un tour de la ville en chivas ( un chiva est une petit bus ouvert, peint de couleur vive ). Le dernier jour de la conférence, nous sommes allés à la campagne, pour visiter un village traditionnel et déjeuner dans une vieille hacienda.
 
 Pour moi, la conférence fut un temps pour renouer d’anciennes amitiés et pour rencontrer de nouveaux amis dans le contexte d’étude en profondeur et de discussion des enseignements du _Livre d’Urantia_ . Ce fut aussi une occasion de faire l’expérience d’un beau et passionnant pays, la Colombie.
 <br style="clear:both;"/>

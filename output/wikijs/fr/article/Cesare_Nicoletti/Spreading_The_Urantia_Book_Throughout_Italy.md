@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Cesare Nicolette, Viterbo, Italie_
 
-Ma découverte du _Livre d’Urantia_ fut une renaissance pour moi, la renaissance spirituelle que j’avais attendue toute ma vie. Je découvris Dieu et Jésus enfant par mon implication dans une communauté religieuse catholique. Mais les croyances religieuses, qui m’apportèrent tant dans cette période de ma vie, cessèrent. Mon point de rupture vint en conjonction avec la mort de mon père. Je fit l’expérience de ce que les grands mystiques appellent l’extatique « mort de l’âme » en union avec Dieu. Ce processus qui généralement amène le croyant dans un état presque de rêve et d’extase, résultèrent pour moi en l’éveil de mon âme et la redécouverte du vrai Dieu.
+Ma découverte du _Livre d’Urantia_ fut une renaissance pour moi, la renaissance spirituelle que j’avais attendue toute ma vie. Je découvris Dieu et Jésus enfant par mon implication dans une communauté religieuse catholique. Mais les croyances religieuses, qui m’apportèrent tant dans cette période de ma vie, cessèrent. Mon point de rupture vint en conjonction avec la mort de mon père. Je fit l’expérience de ce que les grands mystiques appellent l’extatique « mort de l’âme » en union avec Dieu. Ce processus qui généralement amène le croyant dans un état presque de rêve et d’extase, résultèrent pour moi en l’éveil de mon âme et la redécouverte du vrai Dieu.
 
 J’étais prêt, manifestement, pour le _Livre d’Urantia,_ que je trouvai sur Internet, apparemment par chance. Un an après, je commençai ma première lecture complète, utilisant la version électronique sur le site de la Fondation Urantia. Plus tard, j’achetai le livre en édition reliée et continuai à lire, en approfondissant ma compréhension de ces enseignements.
 
@@ -52,7 +52,7 @@ Ensuite pour amener la diffusion du livre au-delà de l’Internet et placer des
 
 Après avoir contacté beaucoup de bibliothèques et ne recevant pas de réponse d’aucunes d’entre elles, j’agrandis ma liste à tout le territoire italien, me concentrant sur les grandes villes et les bibliothèques de prestige. Le résultat fut très large. À ce jour, j’ai cinq placements en bibliothèques près de chez moi et dix dans celles à travers l’Italie (Lucca, Palerme, Mentana, Foligno, Crotone, Narni, Gênes, Marciano, Caligliari et Biella).
 
-Un important résultat fut ma correspondance avec la bibliothèque franciscaine de Palerme. Dans leur réponse, ils dirent, « Nous avons lu avec grand plaisir et gratitude ce que vous avez écrit. Nous désirons confirmer notre intérêt pour le livre auquel vous référez. » Je n’aurais jamais imaginé une bibliothèque franciscaine réagir d’une si belle manière.
+Un important résultat fut ma correspondance avec la bibliothèque franciscaine de Palerme. Dans leur réponse, ils dirent, « Nous avons lu avec grand plaisir et gratitude ce que vous avez écrit. Nous désirons confirmer notre intérêt pour le livre auquel vous référez. » Je n’aurais jamais imaginé une bibliothèque franciscaine réagir d’une si belle manière.
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">

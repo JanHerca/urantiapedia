@@ -64,7 +64,7 @@ Décembre (dates à venir) | Quito, Équateur | Gabriel Pino | galepino@yahoo.co
 
 ## Remarques
 
-[^1] : Le Comité International de la Fraternité relève de (et fait donc partie de) la Fraternité _Le Livre d'Urantia_.
+[^1] : Le Comité International de la Fraternité relève de (et fait donc partie de) la Fraternité _Le Livre d'Urantia_.
 
 <figure class="table chapter-navigator">
   <table>

@@ -42,17 +42,17 @@ _Le Livre d'URANTIA_ dit que « _De nouvelles clairvoyances religieuses surgisse
 
 Mais la science et la technologie ont également créé des opportunités claires, abondantes et accessibles pour renforcer la vie spirituelle – des opportunités qui n’avaient jamais existé auparavant dans notre monde.
 
-Bien qu'il existe un grand nombre de défis et d'opportunités de ce type, je voudrais en examiner seulement trois types généraux : ceux créés par 1.) le rythme accéléré du changement ; 2.) des recherches scientifiques accrues ; 3,) conditions économiques changeantes.
+Bien qu'il existe un grand nombre de défis et d'opportunités de ce type, je voudrais en examiner seulement trois types généraux : ceux créés par 1.) le rythme accéléré du changement ; 2.) des recherches scientifiques accrues ; 3,) conditions économiques changeantes.
 
 ## Le rythme accéléré du changement
 
-L’un des sous-produits expérientiels les plus pénétrants du progrès technologique est le changement accéléré. Kenneth Boulding, un économiste, a décrit succinctement le changement accéléré des trois derniers quarts de siècle :
+L’un des sous-produits expérientiels les plus pénétrants du progrès technologique est le changement accéléré. Kenneth Boulding, un économiste, a décrit succinctement le changement accéléré des trois derniers quarts de siècle :
 
-> « ... la date qui divise l'histoire de l'humanité en deux parties égales est bien connue. Le monde d’aujourd’hui est aussi différent de celui dans lequel je suis né que ce monde l’était de celui de Jules César. Je suis né au milieu de l'histoire humaine. Il s’est passé presque autant de choses depuis ma naissance qu’avant.
+> « ... la date qui divise l'histoire de l'humanité en deux parties égales est bien connue. Le monde d’aujourd’hui est aussi différent de celui dans lequel je suis né que ce monde l’était de celui de Jules César. Je suis né au milieu de l'histoire humaine. Il s’est passé presque autant de choses depuis ma naissance qu’avant.
 
-Le psychologue social Warren Bennis le décrit ainsi :
+Le psychologue social Warren Bennis le décrit ainsi :
 
-> « aucune exagération, aucune hyperbole, aucun outrage ne peut décrire de manière réaliste l'ampleur et le rythme du changement... en fait, seule l'exagération semble être vraie »
+> « aucune exagération, aucune hyperbole, aucun outrage ne peut décrire de manière réaliste l'ampleur et le rythme du changement... en fait, seule l'exagération semble être vraie »
 
 Il est clair que nos modes de vie sont radicalement modifiés, et ce à un rythme exponentiel. La science alimente continuellement le changement grâce à de nouvelles recherches et 90 % de tous les scientifiques qui ont jamais vécu sont en vie aujourd'hui. L'expansion de la technologie s'auto-alimente. Une nouvelle invention peut engendrer 20 nouvelles applications, chacune pouvant à son tour en engendrer 20 autres. Le taux d’assimilation de nouveaux produits et de nouveaux modes de vie augmente également de façon spectaculaire. Nous vivons dans un monde de Rip Van Winkle, chaque matin où nous nous réveillons, le monde a encore changé. Qui peut suivre ? « Le monde politique moderne qui s’efforce de suivre le rythme du monde moderne de la technologie, dit Sidney Harris, me rappelle un orang-outan aux commandes d’un avion supersonique. »
 
@@ -84,7 +84,7 @@ Dans son livre _The Aquarian Conspiracy_, Marilyn Fergusen discute des réseaux,
 
 Parmi les exemples de réseaux figurent : les unités de regroupement de Ghandi pour l'action politique ; le Hunger Project – des individus organisés partout dans le monde et engagés à éliminer la famine ; et la Fraternité Urantia est également un bon exemple.
 
-Voici ce que Fergusen dit à propos des réseaux :
+Voici ce que Fergusen dit à propos des réseaux :
 
 > « Amplifié par les communications électroniques, libéré des vieilles contraintes familiales et culturelles, le réseau est l'antidote à l'aliénation. Cela génère suffisamment d’énergie pour refaire la société. Il offre à l’individu un soutien émotionnel, intellectuel, spirituel et économique, c’est un foyer invisible, un puissant moyen de modifier le cours des institutions, en particulier du gouvernement.
 > 
@@ -100,7 +100,7 @@ L’une des conséquences de la recherche scientifique a été la laïcité, l�
 
 > « _Le matérialisme renie Dieu ; le laïcisme se borne à l’ignorer ; tout au moins ce fut son attitude primitive. Plus récemment, le laïcisme a pris une attitude plus militante, prétendant prendre la place de la religion de servitude totalitaire à laquelle il avait jadis résisté. Le laïcisme du vingtième siècle tend à affirmer que l’homme n’a pas besoin de Dieu. Mais attention ! Cette philosophie athée de la société humaine ne conduira qu’à des troubles, à l’animosité, au malheur, à la guerre et à des désastres à l’échelle mondiale._ » (<a id="a100_543"></a>[LU 195:8.5](/fr/The_Urantia_Book/195#p8_5))
 
-Le résumé des médians des conférences d'Urmia inclut ces déclarations ;
+Le résumé des médians des conférences d'Urmia inclut ces déclarations ;
 
 > « _Avec le progrès scientifique, les guerres vont devenir de plus en plus dévastatrices jusqu’à équivaloir presque à un suicide racial._ » (<a id="a104_142"></a>[LU 134:5.17](/fr/The_Urantia_Book/134#p5_17))
 
@@ -112,7 +112,7 @@ Pouvons-nous nous tourner vers les gouvernements des nations souveraines pour d�
 
 Malgré les conséquences désastreuses de la laïcité, son défi offre une formidable opportunité à l’âme de l’humanité de croissance spirituelle.
 
-Et _Le Livre d'URANTIA_ n'est pas entièrement pessimiste quant aux résultats de la laïcité nationaliste :
+Et _Le Livre d'URANTIA_ n'est pas entièrement pessimiste quant aux résultats de la laïcité nationaliste :
 
 > « _...le christianisme ...faisant face à une lutte pour la vie encore plus inquiétante que les mémorables crises caractéristiques de ses anciennes batailles pour la domination._ »
 > 
@@ -126,11 +126,11 @@ Plus la science en apprend sur l’univers physique, plus elle semble ressembler
 
 Le physicien Gary Zukav, dans son livre The Dancing Wu Li Masters, a déclaré : « Cela ne fait aucun doute. Il se passe quelque chose de très excitant. Les physiciens ont prouvé de manière rationnelle que nos idées rationnelles sur le monde dans lequel nous vivons sont profondément déficientes.
 
-La science n’est pas dépourvue de son propre dogmatisme. Par exemple, l’académie française a annoncé à un moment donné qu’elle n’accepterait plus aucun signalement de météorites, car il était ridicule de penser que des roches pouvaient tomber du ciel. Peu de temps après, une pluie de météorites faillit briser les vitres de l'Académie. Mais la science semble désormais plus généreusement réceptive aux idées inhabituelles. Nihls Bohr, l'éminent physicien, a un jour fait remarquer à propos d'une idée avancée par un collègue : « Ce n'est pas assez fou pour être vrai. » La science génère continuellement de nouveaux paradigmes pour comprendre l'univers. L'un d'entre eux est proposé par un scientifique de Le nom de Pribram est plutôt une projection holographique – une image projetée en trois dimensions. Cela ressemble beaucoup à la description des médians :
+La science n’est pas dépourvue de son propre dogmatisme. Par exemple, l’académie française a annoncé à un moment donné qu’elle n’accepterait plus aucun signalement de météorites, car il était ridicule de penser que des roches pouvaient tomber du ciel. Peu de temps après, une pluie de météorites faillit briser les vitres de l'Académie. Mais la science semble désormais plus généreusement réceptive aux idées inhabituelles. Nihls Bohr, l'éminent physicien, a un jour fait remarquer à propos d'une idée avancée par un collègue : « Ce n'est pas assez fou pour être vrai. » La science génère continuellement de nouveaux paradigmes pour comprendre l'univers. L'un d'entre eux est proposé par un scientifique de Le nom de Pribram est plutôt une projection holographique – une image projetée en trois dimensions. Cela ressemble beaucoup à la description des médians :
 
 > « _L’humanité est lente à percevoir que, dans tout ce qui est personnel, la matière est seulement le squelette de la morontia, et que les deux sont l’ombre réfléchie de la réalité spirituelle durable. Combien de temps faudra-t-il pour que vous considériez le temps comme l’image mouvante de l’éternité, et l’espace comme l’ombre fugitive des réalités du Paradis ?_ » (<a id="a130_370"></a>[LU 189:1.3](/fr/The_Urantia_Book/189#p1_3))
 
-De plus en plus, l’investigation scientifique semble révéler la réalité selon laquelle « _L’univers ne ressemble pas aux lois, mécanismes et constantes que les savants découvrent et qu’ils finissent par considérer comme la science. Il ressemble plutôt au savant curieux, pensant, choisissant, créant, combinant et discriminant. ...._" (<a id="a132_336"></a>[LU 195:7.22](/fr/The_Urantia_Book/195#p7_22))
+De plus en plus, l’investigation scientifique semble révéler la réalité selon laquelle « _L’univers ne ressemble pas aux lois, mécanismes et constantes que les savants découvrent et qu’ils finissent par considérer comme la science. Il ressemble plutôt au savant curieux, pensant, choisissant, créant, combinant et discriminant. ...._" (<a id="a132_336"></a>[LU 195:7.22](/fr/The_Urantia_Book/195#p7_22))
 
 Il n’y a pas de véritable conflit entre science et religion et la science semble désormais construire une infrastructure solide pour soutenir la réalité de l’expérience religieuse.
 
@@ -142,7 +142,7 @@ Les méthodes de gestion d’entreprise sont remises en question partout dans le
 
 Les grandes entreprises, les grands gouvernements, les grandes guerres et les grandes maladies économiques nous laissent le sentiment d’être petits et insignifiants. Nous sommes mis au défi de réaliser que la véritable expérience du pouvoir ne réside pas dans les grands bâtiments, les grandes entreprises ou les grands gouvernements, mais en nous-mêmes et dans la manière dont nous donnons du pouvoir aux autres.
 
-Lorsque Jésus souriait à quelqu’un, cette personne ressentait une capacité accrue à résoudre ses problèmes. Maintenant, c'est ça le pouvoir !
+Lorsque Jésus souriait à quelqu’un, cette personne ressentait une capacité accrue à résoudre ses problèmes. Maintenant, c'est ça le pouvoir !
 
 L’augmentation de la richesse économique et du temps libre offre à davantage de personnes des possibilités de ce que Maslow appelle la réalisation de soi. Si le temps libre est bien utilisé, il peut constituer une ressource abondante pour la croissance spirituelle.
 
@@ -164,7 +164,7 @@ La déclaration prophétique la plus poignante que j'ai jamais lue sur le défi 
 > 
 > « Mais dans votre disparition, vous brillerez d'un éclat éclatant, enflammé par la force du Dieu qui vous a amené dans ce pays et, dans un but particulier, vous a donné la domination sur ce pays et sur l'homme rouge. »
 > 
-> « Ce destin est un mystère pour nous, car nous ne comprenons pas quand les buffles sont tous abattus, les chevaux sauvages sont apprivoisés, les coins secrets de la forêt chargés de l'odeur de nombreux hommes et la vue des collines mûres gâchée par les conversations. fils."
+> « Ce destin est un mystère pour nous, car nous ne comprenons pas quand les buffles sont tous abattus, les chevaux sauvages sont apprivoisés, les coins secrets de la forêt chargés de l'odeur de nombreux hommes et la vue des collines mûres gâchée par les conversations. fils."
 > 
 > « Où est le fourré ? Disparu. Où est l'aigle, parti.
 > 
@@ -181,7 +181,7 @@ De diverses sources, nous avons des lueurs sur la transformation qui s’opère.
 « Plus vaste que la réforme, plus profonde que la révolution, cette conspiration bénigne en faveur d’un programme humain a déclenché l’alignement culturel le plus rapide de l’histoire. »
 
 Lewis Murnford parle de l’ère de « la nouvelle personne », l’âge qui, selon lui, fera ressembler la renaissance à une mort-né.
-Le Livre d'URANTIA nous dit que nous sommes à l'aube de la plus grande renaissance spirituelle que le monde ait jamais connue. Notre vaisseau social vient de quitter les baies abritées de la tradition établie et a commencé son voyage vers un nouvel âge sur les hautes mers du destin planétaire, et dit _Le Livre d'URANTIA_ :
+Le Livre d'URANTIA nous dit que nous sommes à l'aube de la plus grande renaissance spirituelle que le monde ait jamais connue. Notre vaisseau social vient de quitter les baies abritées de la tradition établie et a commencé son voyage vers un nouvel âge sur les hautes mers du destin planétaire, et dit _Le Livre d'URANTIA_ :
 
 > « _...l’âme de l’homme a besoin de scruter soigneusement ses cartes de moralité et d’observer minutieusement la boussole de la gouverne religieuse._ » (<a id="a185_154"></a>[LU 99:1.3](/fr/The_Urantia_Book/99#p1_3))
 

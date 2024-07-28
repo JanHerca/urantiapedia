@@ -57,7 +57,7 @@ L’année 2017 fut une bonne année. Des progrès furent faits dans beaucoup de
   - France 4,513
   - Hongrie 3,620
   - Russie 2,909
-- Le nouveau Fonds du Pont de la Révélation fut lancé avec environ $ 1.3 million. Le Fonds est réservé pour le futur afin d’assurer qu’une fondation financière, solide comme un roc, soit léguée aux générations à venir et que la Fondation Urantia continue de faire du bien spirituel pour des siècles.
+- Le nouveau Fonds du Pont de la Révélation fut lancé avec environ $ 1.3 million. Le Fonds est réservé pour le futur afin d’assurer qu’une fondation financière, solide comme un roc, soit léguée aux générations à venir et que la Fondation Urantia continue de faire du bien spirituel pour des siècles.
 - Quarante et un cours en anglais, français, espagnol et portugais furent donnés par l’École Internet du Livre d’Urantia.
 - Un index, débuté dans les années 60 par les employés de la Fondation Urantia, a été achevé et publié à urantia.org. L’index sera disponible en 2018.
 - Le nouveau livre Cambridge en Cuir Souple a été créé.
@@ -68,8 +68,8 @@ L’année 2017 fut une bonne année. Des progrès furent faits dans beaucoup de
 ## Buts de la Fondation Urantia pour 2018
 
 - Semer _Le Livre d’Urantia_ et ses enseignements à travers le monde. 1) augmenter les ventes de livres et les téléchargements d’au moins 7 pour cent de plus qu’en 2017 et 2) publier de nouveaux produits comme un livre électronique, un index et des travaux secondaires.
-- Collecter $ 700,000 de dons non réservés, $ 25,000 de dons réservés pour le Fonds de Dotation du Pont de la Révélation.
-- Rester à, ou être en dessous de $ 750,000 pour notre budget de dépenses de fonctionnement et $ 45,000 de budget d’impression (sauf si les ventes de livres augmentent au dessus de nos espoirs).
+- Collecter $ 700,000 de dons non réservés, $ 25,000 de dons réservés pour le Fonds de Dotation du Pont de la Révélation.
+- Rester à, ou être en dessous de $ 750,000 pour notre budget de dépenses de fonctionnement et $ 45,000 de budget d’impression (sauf si les ventes de livres augmentent au dessus de nos espoirs).
 - Réorganiser et gérer nos responsabilités de travail interne en accord avec nos besoins d’organisation.
 - Mettre à jour notre site web en dix-sept langues et notre plateforme de réseaux sociaux.
 - Être partenaire avec des personnes et des organisations croyantes dans des efforts de sensibilisation comme le Parlement des Religions du Monde, les conférences, les salons du livre, les programmes de placement de livres et la création de travaux secondaires.

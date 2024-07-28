@@ -28,9 +28,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-## L'inscription à l’IC'14 est arrivée !
+## L'inscription à l’IC'14 est arrivée !
 
-Il est temps de GRANDIR VERS DIEU ! Planifiez à l’avance la Conférence internationale de la Fraternité du Livre d’Urantia en juillet 2014. IC’14 nous amène en Nouvelle-Angleterre où certains des grands esprits d’Urantia ont envisagé le voyage d’une nouvelle nation. Dans ce cadre historique, niché au milieu de collines et de fermes coloniales, nous nous réunirons pour imaginer nos voyages personnels et partagés vers Dieu. Oh, et passez un SUPRÊMEMENT bon moment ensemble !
+Il est temps de GRANDIR VERS DIEU ! Planifiez à l’avance la Conférence internationale de la Fraternité du Livre d’Urantia en juillet 2014. IC’14 nous amène en Nouvelle-Angleterre où certains des grands esprits d’Urantia ont envisagé le voyage d’une nouvelle nation. Dans ce cadre historique, niché au milieu de collines et de fermes coloniales, nous nous réunirons pour imaginer nos voyages personnels et partagés vers Dieu. Oh, et passez un SUPRÊMEMENT bon moment ensemble !
 
 Rejoignez-nous à l’Université du Massachusetts – Amherst du mercredi 23 juillet au dimanche 27 juillet 2014.
 
@@ -38,9 +38,9 @@ Que vous soyez un enfant d'âge préscolaire à la recherche de votre premier di
 
 IC’14 s’annonce comme l’un des rassemblements les plus créatifs à ce jour. L'événement comprendra la première d'une nouvelle comédie musicale sur Jésus et Ruth, le tout premier festival de films YouTube LU, des performances live de musiciens de tout le pays, des plats primés pour tous les régimes et quelques autres surprises encore à annoncer. Pour vous tenir au courant de toutes les dernières nouvelles de la conférence, visitez le site Web à l’adresse www.ic14.org et/ou aimez la page Facebook de l’IC'14.
 
-La conférence arrivera plus vite que vous ne pourrez dire « Votre volonté est faite », alors inscrivez-vous maintenant ! Nous offrons 50 $ de réduction à tous ceux qui s'inscrivent avant le 1er février ! Nous proposons également des forfaits familiaux, des tarifs réduits pour les enfants et d'excellentes options de camping à proximité. Cette année, nous introduisons un code de réduction spécial pour les jeunes adultes âgés de 16 à 35 ans, alors contactez chair@ic14.org si c'est vous !
+La conférence arrivera plus vite que vous ne pourrez dire « Votre volonté est faite », alors inscrivez-vous maintenant ! Nous offrons 50 $ de réduction à tous ceux qui s'inscrivent avant le 1er février ! Nous proposons également des forfaits familiaux, des tarifs réduits pour les enfants et d'excellentes options de camping à proximité. Cette année, nous introduisons un code de réduction spécial pour les jeunes adultes âgés de 16 à 35 ans, alors contactez chair@ic14.org si c'est vous !
 
-Nous sommes impatients de grandir vers Dieu avec vous en 2014 ! Illuminez la vie avec amour, 
+Nous sommes impatients de grandir vers Dieu avec vous en 2014 ! Illuminez la vie avec amour, 
 
 L’équipe IC’14
 
@@ -54,11 +54,11 @@ L’équipe IC’14
 - Appelez la _The Urantia Book_ Fellowship au 1-877-288-3772 et un formulaire d'inscription papier vous sera envoyé.
 
 
-## Grow Godward - Proposez un atelier !
+## Grow Godward - Proposez un atelier !
 
 Votre créativité est au cœur du programme IC’14. Avez-vous une vision pour un atelier ou une activité? C'est le moment! Soumettez une proposition sur www.ic14.org avant le 1er janvier 2014.
 
-Afin de célébrer nos différentes approches de la croissance spirituelle, le programme est regroupé en six pistes à partir desquelles les participants peuvent mélanger et assortir. Dans votre proposition, identifiez simplement la piste à laquelle appartient le mieux votre atelier :
+Afin de célébrer nos différentes approches de la croissance spirituelle, le programme est regroupé en six pistes à partir desquelles les participants peuvent mélanger et assortir. Dans votre proposition, identifiez simplement la piste à laquelle appartient le mieux votre atelier :
 
 **Étudiez le livre**
 
@@ -179,11 +179,11 @@ Ils se réunissent le mercredi à 19 heures, heure de l’Est. Consultez son sit
 
 https://www.symmetryofsoul.org/
 
-Excellente diffusion tous les mardis soir à 18h montagne. Les émissions passées sont toutes archivées ; vous pouvez accéder à tout moment.
+Excellente diffusion tous les mardis soir à 18h montagne. Les émissions passées sont toutes archivées ; vous pouvez accéder à tout moment.
 
 **Vendredi soir**
 
-Veuillez nous rejoindre pour le groupe d'étude diffusé en direct sur Skype avec Chris Halvorson, les vendredis soirs de 19h30 à 21h30 en montagne… Appelez le 720-457-3606 ou recherchez le nom Skype « perfectinghorizons ». Veuillez appeler 5 à 10 minutes à l’avance afin que vous soyez tous installés avant le début du cours… nous ne pouvons connecter personne après le début du cours. Il ne s'agit pas d'un appel interactif, alors VEUILLEZ COUPER votre téléphone ou votre ordinateur… écoutez et profitez-en.
+Veuillez nous rejoindre pour le groupe d'étude diffusé en direct sur Skype avec Chris Halvorson, les vendredis soirs de 19h30 à 21h30 en montagne… Appelez le 720-457-3606 ou recherchez le nom Skype « perfectinghorizons ». Veuillez appeler 5 à 10 minutes à l’avance afin que vous soyez tous installés avant le début du cours… nous ne pouvons connecter personne après le début du cours. Il ne s'agit pas d'un appel interactif, alors VEUILLEZ COUPER votre téléphone ou votre ordinateur… écoutez et profitez-en.
 
 Les cours audio/vidéo précédents et les supports d'étude peuvent être consultés sur www.perfectinghorizons.org.
 
@@ -196,7 +196,7 @@ Tous les samedis matins à 9 heures, heure des Rocheuses, The Cosmic Citizen est
 
 ---
 
-Si vous souhaitez organiser des groupes d'étude virtuels/téléphoniques, ou soutenir un groupe physique existant, voici l’outil gratuit parfait : www.freeconferencing.com/. Les personnes qui ne bénéficient pas d'un forfait d'appels illimités peuvent accéder gratuitement avec Skype. Cet outil permet au chef/animateur du groupe de donner à chacun une chance égale de parler et d’entendre ce qui se passe. Il uniformise les règles du jeu et encourage l’interaction.
+Si vous souhaitez organiser des groupes d'étude virtuels/téléphoniques, ou soutenir un groupe physique existant, voici l’outil gratuit parfait : www.freeconferencing.com/. Les personnes qui ne bénéficient pas d'un forfait d'appels illimités peuvent accéder gratuitement avec Skype. Cet outil permet au chef/animateur du groupe de donner à chacun une chance égale de parler et d’entendre ce qui se passe. Il uniformise les règles du jeu et encourage l’interaction.
 - Accès téléphonique
 - Accès Skype
 - Jusqu’à 1 000 appelants
@@ -229,7 +229,7 @@ Récemment, plusieurs d'entre nous discutaient de l’idée de groupes d'étude 
 
 À mon avis, c’est l’une des raisons pour lesquelles notre groupe d’étude a joué un rôle essentiel dans la vie de tant de personnes pendant plus d’une décennie. Nous nous étions également entraidés pour d’autres choses. Lorsque Jim Brummett et moi avons emménagé dans une maison vieille de 80 ans avec notre bébé de 3 mois, nos amis du groupe d'étude ont fait en sorte que cela se produise avec grâce et un cœur léger.
 
-Lors d'une réunion d'un groupe d'étude dans cette nouvelle maison, Archie Anderson a demandé si nous pourrions aider à construire une promenade à travers la nature sauvage des montagnes afin que les personnes handicapées puissent profiter d'un sentier de montagne. Nos membres ont dit « Oui ! » Nous avons campé avec nos familles et travaillé le week-end. Le week-end dernier, je suis passé par Wilderness on Wheels et je me suis souvenu de ce projet avec tendresse.
+Lors d'une réunion d'un groupe d'étude dans cette nouvelle maison, Archie Anderson a demandé si nous pourrions aider à construire une promenade à travers la nature sauvage des montagnes afin que les personnes handicapées puissent profiter d'un sentier de montagne. Nos membres ont dit « Oui ! » Nous avons campé avec nos familles et travaillé le week-end. Le week-end dernier, je suis passé par Wilderness on Wheels et je me suis souvenu de ce projet avec tendresse.
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2013_Winter/005833.jpg">
@@ -281,7 +281,7 @@ C'est vraiment incroyable ce qu’on peut faire en servant tranquillement.
 
 ## Deux sièges ouverts au Conseil général de la Fellowship
 
-Avez-vous des idées sur la manière dont la Fellowship devrait se développer ? Des projets qu’elle devrait entreprendre ? Si tel est le cas, vous voudrez peut-être envisager de briguer un siège au Conseil général.
+Avez-vous des idées sur la manière dont la Fellowship devrait se développer ? Des projets qu’elle devrait entreprendre ? Si tel est le cas, vous voudrez peut-être envisager de briguer un siège au Conseil général.
 
 Il appartiendra aux futurs conseillers généraux d’aider à concevoir et à mettre en œuvre des services élargis de sensibilisation et de soutien aux lecteurs dans un environnement en évolution rapide. Votre aide est nécessaire. Êtes-vous prêt à vous impliquer directement ? Il existe une demande de service organisationnel sur le site Web à l’adresse www.ubfellowship.org/service app.htm.
 
@@ -292,7 +292,7 @@ Pour en savoir plus sur certaines des personnes qui siègent actuellement au Con
 ## Personnel du « The Mighty Messenger »
 
 Publié par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship.
-Membres : Linda Buselli, présidente Cece Forrester, David Glass, Merritt Horn, Nancy Johnson, Sage Waitts
+Membres : Linda Buselli, présidente Cece Forrester, David Glass, Merritt Horn, Nancy Johnson, Sage Waitts
 877.288.3772
 bourse@urantiabook.org
 www.urantiabook.org

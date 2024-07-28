@@ -51,17 +51,17 @@ Veuillez envoyer vos soumissions à Cristina Seaborn cristina.seaborn7@gmail.com
 
 ## Enquête sur les publications
 
-Voici notre sollicitation de publications et notre enquête avec 70 réponses à ce jour demandant :
+Voici notre sollicitation de publications et notre enquête avec 70 réponses à ce jour demandant :
 
-Préféreriez-vous recevoir nos magazines, le Mighty Messenger et le Fellowship Herald, sous forme électronique ou imprimée, ou les deux ?
+Préféreriez-vous recevoir nos magazines, le Mighty Messenger et le Fellowship Herald, sous forme électronique ou imprimée, ou les deux ?
 
-Cette enquête prendra une minute. Veuillez nous le faire savoir ici : https://www.surveymonkey.com/r/T5LFL86
+Cette enquête prendra une minute. Veuillez nous le faire savoir ici : https://www.surveymonkey.com/r/T5LFL86
 
 Vous pouvez aider la Fellowship à conserver nos publications sous forme imprimée. Un don mensuel de 6,06 $ aide à garder un Fellowship Herald et deux magazines Mighty Messenger disponibles pour notre communauté Urantia.
 
 Veuillez faire un don aujourd'hui à https://urantiabook.worldsecuresystems.com/donation
 
-Ou envoyez votre chèque, avec « Publications » sur la ligne mémo à :
+Ou envoyez votre chèque, avec « Publications » sur la ligne mémo à :
 
 _La bourse du Livre d'Urantia_
 

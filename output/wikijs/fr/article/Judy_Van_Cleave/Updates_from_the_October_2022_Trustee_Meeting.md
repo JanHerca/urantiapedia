@@ -67,7 +67,7 @@ Des mises à jour furent fournies sur les traductions et les révisions en cours
 
 - Félicitations à l’équipe philippine de traduction qui a terminé le Fascicule 31, ce qui veut dire que la Partie 1 est complètement terminée.
 - La traduction en farsi est terminée à 90% et disponible sur notre site web. Notre traducteur envoie à la Fondation, un fascicule par mois et pense terminer en août 2024.
-- Les réviseurs Grecs sont heureux d’annoncer qu’ils ont terminé le Fascicule 154 de Βιβλίο της Ουράντια.
+- Les réviseurs Grecs sont heureux d’annoncer qu’ils ont terminé le Fascicule 154 de Βιβλίο της Ουράντια.
 - La révision hongroise est terminée et a été imprimée. Les livres seront disponibles pour la vente mi-décembre en Hongrie. [https://www.urantia.org/hu/az-urantia-konyv/megveszem](https://www.urantia.org/hu/az-urantia-konyv/megveszem)
 - Un grand merci à Paul et Gosia Jaworski pour avoir terminé leur troisième révision de _Ksiegi Urantii_. Le texte sera imprimé quand le stock actuel aura été vendu.
 - L’équipe portugaise continue de faire des progrès significatifs sur leur révision de _O Livro de Urãntia_.
@@ -81,7 +81,7 @@ Mme Krystyna Piasecka fit une présentation PowerPoint touchante sur l’évolut
 <figcaption><em>Hanno van der Plas</em></figcaption>
 </figure>
 
-Certains points culminants du troisième trimestre comprenaient :
+Certains points culminants du troisième trimestre comprenaient :
 
 - Quatre nouveaux trustees au conseil d’administration.
 - Coordonner l’impression de 10 000 livres en hongrois, italien, portugais et de l’édition européenne espagnole.

@@ -44,9 +44,9 @@ _Note de la rédactrice: Claire Mylanus a écrit cet article pour présenter son
 
 Henk Mylanus est d’origine néerlandaise et il découvrit le Livre d’Urantia en 1972 . En 1981 il commença à participer au groupe d’étude chez Henri et Bauke Begemann à Wassenaar, Pays-Bas . En 1990, il déménagea à Malte, fit connaître le Livre d’Urantia à beaucoup des personnes, organisa un groupe d’étude pendant douze ans et continua de participer au groupe d’étude des Begemann quand il était aux Pays-Bas . Il organise toujours des groupes d’études en France où il réside maintenant.
 
-Henk étudia à l’Université Technique de Delft aux Pays-Bas . Après avoir été diplômé à Delft ,il travailla dans l’industrie pétrochimique en Asie, en Europe et en Amérique du Nord et du Sud . Il fut un « Sloan Fellow » du programme pour les cadres de 1971 à 1972 à l’Université de Stanford, Ecole des Diplômes de Gestion.
+Henk étudia à l’Université Technique de Delft aux Pays-Bas . Après avoir été diplômé à Delft ,il travailla dans l’industrie pétrochimique en Asie, en Europe et en Amérique du Nord et du Sud . Il fut un « Sloan Fellow » du programme pour les cadres de 1971 à 1972 à l’Université de Stanford, Ecole des Diplômes de Gestion.
 
-En 1981, il devint PDG de la filiale néerlandaise d’une grande compagnie allemande de pétrochimie . Henk parle quatre langues : néerlandais, anglais, allemand et français.
+En 1981, il devint PDG de la filiale néerlandaise d’une grande compagnie allemande de pétrochimie . Henk parle quatre langues : néerlandais, anglais, allemand et français.
 
 A court terme, le travail de Henk pour la Fondation Urantia se concentrera à résoudre les problèmes existants des ventes et de la distribution dans certains pays de l’Union Européenne (EU).
 

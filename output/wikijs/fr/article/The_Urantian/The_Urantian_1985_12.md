@@ -86,7 +86,7 @@ _Arabie Saoudite_
 
 ## Une autre question
 
-Vos réponses aux questions posées dans les numéros précédents ont été merveilleuses – réfléchies, perspicaces – et nous espérons qu'elles ont été utiles aux lecteurs du Journal. Même si nous continuerons à publier des écrits générés à partir de questions passées, en voici un autre pour garder vos énergies mentales stimulées. Un conseiller divin, écrivant dans le fascicule 5 sur la relation de Dieu avec l'individu, dit :
+Vos réponses aux questions posées dans les numéros précédents ont été merveilleuses – réfléchies, perspicaces – et nous espérons qu'elles ont été utiles aux lecteurs du Journal. Même si nous continuerons à publier des écrits générés à partir de questions passées, en voici un autre pour garder vos énergies mentales stimulées. Un conseiller divin, écrivant dans le fascicule 5 sur la relation de Dieu avec l'individu, dit :
 
 > « _Le moi matériel possède une personnalité et une identité, une identité temporelle. L’Ajusteur, esprit prépersonnel, a aussi une identité, une identité éternelle. Cette personnalité matérielle et cette prépersonnalité spirituelle sont capables d’unir leurs attributs créateurs de manière à faire naitre l’identité survivante de l’âme immortelle._ » (<a id="a90_354"></a>[LU 5:6.7](/fr/The_Urantia_Book/5#p6_7))
 

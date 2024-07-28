@@ -40,13 +40,13 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Lainey Doremus, Fondation Urantia, Illinois, États-Unis_
 
-La Fondation Urantia est enthousiaste de participer au Parlement des Religions du Monde de 2018, du 1 au 7 novembre à Toronto, Canada. Le thème de cette année est : « La promesse de l’ inclusion, le Pouvoir de l’amour : Poursuivre la Compréhension Mondiale, la Réconciliation et le Changement. »
+La Fondation Urantia est enthousiaste de participer au Parlement des Religions du Monde de 2018, du 1 au 7 novembre à Toronto, Canada. Le thème de cette année est : « La promesse de l’ inclusion, le Pouvoir de l’amour : Poursuivre la Compréhension Mondiale, la Réconciliation et le Changement. »
 
 En partenariat avec Truthbook.com, l’Association Urantia Internationale et la Fellowship du Livre d’Urantia nous tiendrons un stand et offrirons des documents attrayants de sensibilisation qui aideront à semer les vérités des enseignements du livre, aux participants intéressés. Il y aura certainement assez de volontaires pour tenir le stand, près de 100 lecteurs du Livre d’Urantia se sont inscrits.
 
-Considéré comme l’événement inter religieux, le plus ancien, le plus diversifié et le plus global, le thème de cette année provient des mouvements de bonne volonté et de respect transculturel qui sont incarnés dans l’esprit du mouvement inter religieux. La mission du Parlement des Religions du Monde est de « cultiver l’harmonie entre les religions du monde et les communautés religieuses ainsi que de favoriser leur engagement avec le monde et ses institutions dirigeantes pour réaliser un monde juste, pacifique et durable. » Quel moyen parfait pour chercher à comprendre et pour être compris, par d’autres personnes religieuses dévoués qui sont engagées à rendre notre monde meilleur.
+Considéré comme l’événement inter religieux, le plus ancien, le plus diversifié et le plus global, le thème de cette année provient des mouvements de bonne volonté et de respect transculturel qui sont incarnés dans l’esprit du mouvement inter religieux. La mission du Parlement des Religions du Monde est de « cultiver l’harmonie entre les religions du monde et les communautés religieuses ainsi que de favoriser leur engagement avec le monde et ses institutions dirigeantes pour réaliser un monde juste, pacifique et durable. » Quel moyen parfait pour chercher à comprendre et pour être compris, par d’autres personnes religieuses dévoués qui sont engagées à rendre notre monde meilleur.
 
-Les lecteurs du _Livre d’Urantia_ présenteront les ateliers suivants :
+Les lecteurs du _Livre d’Urantia_ présenteront les ateliers suivants :
 
 Samedi 3 novembre de 15h15 à 16h15
 
@@ -55,7 +55,7 @@ Samedi 3 novembre de 15h15 à 16h15
 Concert de Pato Banton, scène de la grande salle
 Samedi 3novembre de 15 h à 19h
 
-**Une Façon de Vivre dans la Famille de Dieu : La Vision Mondiale du _Livre d’Urantia_**
+**Une Façon de Vivre dans la Famille de Dieu : La Vision Mondiale du _Livre d’Urantia_**
 
 Marvin Gawryn, salle 710
 Mardi 6 novembre de 15h15 à 16h

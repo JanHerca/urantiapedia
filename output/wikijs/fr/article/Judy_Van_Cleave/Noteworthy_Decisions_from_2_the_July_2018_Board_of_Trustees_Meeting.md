@@ -54,17 +54,17 @@ Félicitations à Dana Bredemeyer qui est devenu le nouveau président de la Fel
 
 Pendant de nombreuses années, quelques donateurs ont généreusement entrepris la rénovation, bien nécessaire, du bâtiment de 533 W. Diversey Parkway à Chicago. Elle est terminée maintenant et nous en sommes tous très reconnaissants car en plus de la restauration de ce monument historique pour les générations futures, nous pouvons maintenant louer le dernier étage et la maison de la remise, qui permettent à la Fondation Urantia de vivre dans le bâtiment, pour presque rien.
 
-Nous nous rendons compte que de nombreux lecteurs du monde entier n’ont pas la possibilité de visiter la Fondation, donc nous avons créé un tour virtuel. Regardez, s’il vous plaît, cette vidéo : [www.urantia.org/Urantia-book-video](https://www.urantia.org/Urantia-book-video).
+Nous nous rendons compte que de nombreux lecteurs du monde entier n’ont pas la possibilité de visiter la Fondation, donc nous avons créé un tour virtuel. Regardez, s’il vous plaît, cette vidéo : [www.urantia.org/Urantia-book-video](https://www.urantia.org/Urantia-book-video).
 
 ## Ventes de livres
 
 Les nouvelles de ventes de livres sont mitigées, cette année. Les ventes sont fixes en unités et en baisse en dollars. La première réponse pour ces chiffres moroses est que, plus de livres bon marché se vendent en Amérique Latine et que moins de livres chers se vendent en Europe. La bonne nouvelle est que les ventes de livres en anglais ont augmenté de 14%, celles en espagnol de 28% et en portugais de 19%. L’année dernière, nous avons eu de solides ventes en Allemagne, mais cette année les ventes ont été coniques ce qui explique les chiffres totaux en baisse.
 
-Vendre un livre en 2018, qui fut édité pour la première fois en 1955, n’est pas facile ! Les gens ne se pressent pas à notre porte pour acheter le livre le plus important de l’histoire du monde. Mais nous allons de l’avant en propageant la révélation à travers le monde.
+Vendre un livre en 2018, qui fut édité pour la première fois en 1955, n’est pas facile ! Les gens ne se pressent pas à notre porte pour acheter le livre le plus important de l’histoire du monde. Mais nous allons de l’avant en propageant la révélation à travers le monde.
 
 ## Traductions et révisions
 
-Notre processus de traduction et de révision continue à assurer que nous ayons des traductions de la plus haute qualité possible. Conséquemment à notre nouvelle politique, nous plaçons les nouvelles traductions, qui sont au début de notre processus de qualité, sur notre site. Nous cherchons des lecteurs dans ces langues, qui seraient intéressés à nous aider à les améliorer. Des équipes travaillent dur sur les révisions espagnoles et portugaises ; et le travail sur la traduction chinoise continue.
+Notre processus de traduction et de révision continue à assurer que nous ayons des traductions de la plus haute qualité possible. Conséquemment à notre nouvelle politique, nous plaçons les nouvelles traductions, qui sont au début de notre processus de qualité, sur notre site. Nous cherchons des lecteurs dans ces langues, qui seraient intéressés à nous aider à les améliorer. Des équipes travaillent dur sur les révisions espagnoles et portugaises ; et le travail sur la traduction chinoise continue.
 
 ## Dons
 

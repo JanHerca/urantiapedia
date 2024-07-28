@@ -44,15 +44,15 @@ _McMullan:_ Non. Si mon but avait été d'amener la Fondation Urantia devant le 
 
 _MM:_ N'êtes-vous pas un peu inquiet de cibler fondamentalement la communauté chrétienne à l’exclusion de tout le monde ?
 
-_McMullan :_ _Jesus—A New Revelation_ est pour quiconque le veut, pas seulement pour les chrétiens. Hier encore, par exemple, j'ai entendu l’histoire d'un musulman en emportant un exemplaire chez lui pour le lire. Cependant, même si le livre était destiné uniquement aux chrétiens, son existence n’exclut en aucun cas d’autres traitements conçus pour plaire particulièrement aux groupes non chrétiens.
+_McMullan :_ _Jesus—A New Revelation_ est pour quiconque le veut, pas seulement pour les chrétiens. Hier encore, par exemple, j'ai entendu l’histoire d'un musulman en emportant un exemplaire chez lui pour le lire. Cependant, même si le livre était destiné uniquement aux chrétiens, son existence n’exclut en aucun cas d’autres traitements conçus pour plaire particulièrement aux groupes non chrétiens.
 
-_MM:_ Qu'en est-il de la légalité de cette affaire ? Ne craignez-vous pas d'enfreindre la loi ?
+_MM:_ Qu'en est-il de la légalité de cette affaire ? Ne craignez-vous pas d'enfreindre la loi ?
 
-_McMullan :_ La publication de _JANR_ sera jugée parfaitement légale si elle est jamais testée devant un tribunal. L'opinion selon laquelle le droit d'auteur de la Fondation Urantia a été rétabli soutenait que la révélation elle-même n'est pas soumise au droit d'auteur, mais que l’implication du forum en posant des questions aux révélateurs fournissait une paternité humaine suffisante pour permettre au _Livre d'Urantia_ d'être protégé par le droit d'auteur. La théorie qui sous-tend cette décision permettrait à quiconque ayant échangé quelques idées avec un auteur de revendiquer le droit d'auteur sur son œuvre – une situation totalement irréalisable qui renverserait tout le concept de paternité en matière de droit d'auteur. Elle sera annulée si elle est sérieusement contestée. De plus, même si la décision était maintenue, elle ne s'appliquerait pas à la partie IV, puisque la preuve montre que la partie IV a été livrée comme une unité complète sans aucune intervention du forum nécessaire pour pouvoir prétendre à un droit d'auteur.
+_McMullan :_ La publication de _JANR_ sera jugée parfaitement légale si elle est jamais testée devant un tribunal. L'opinion selon laquelle le droit d'auteur de la Fondation Urantia a été rétabli soutenait que la révélation elle-même n'est pas soumise au droit d'auteur, mais que l’implication du forum en posant des questions aux révélateurs fournissait une paternité humaine suffisante pour permettre au _Livre d'Urantia_ d'être protégé par le droit d'auteur. La théorie qui sous-tend cette décision permettrait à quiconque ayant échangé quelques idées avec un auteur de revendiquer le droit d'auteur sur son œuvre – une situation totalement irréalisable qui renverserait tout le concept de paternité en matière de droit d'auteur. Elle sera annulée si elle est sérieusement contestée. De plus, même si la décision était maintenue, elle ne s'appliquerait pas à la partie IV, puisque la preuve montre que la partie IV a été livrée comme une unité complète sans aucune intervention du forum nécessaire pour pouvoir prétendre à un droit d'auteur.
 
 _MM:_ Je suis sûr que vous avez entendu l’argument selon lequel, parce que vous siègez au comité exécutif de la Fellowship, votre publication de la partie IV est ipso facto un projet de la Fellowship. Comment répondez-vous à cela ?
 
-_McMullan :_ La Fellowship n'a eu aucune contribution d'aucune sorte à ce projet. Ceux qui siègent aux conseils d’administration de la Fellowship ne perdent pas pour autant leur identité distincte et leurs prérogatives d’action indépendante.
+_McMullan :_ La Fellowship n'a eu aucune contribution d'aucune sorte à ce projet. Ceux qui siègent aux conseils d’administration de la Fellowship ne perdent pas pour autant leur identité distincte et leurs prérogatives d’action indépendante.
 
 _MM:_ Comment comptez-vous distribuer ce livre ?
 
@@ -60,33 +60,33 @@ _McMullan:_ Jusqu’à présent, la distribution a été très efficace grâce a
 
 _MM:_ Pourquoi cette couverture particulière représentant une crucifixion ?
 
-_McMullan :_ Si l’on accepte qu’il est approprié qu’un livre sur Jésus ait Jésus sur la couverture, la question devient : lequel ? La plupart des images de Jésus sont tout simplement terribles. J'aime le tableau de Dali car il montre un Jésus musclé, pas l’homme malade habituellement représenté. J'aime le fait que son visage ne soit pas visible, ce qui en fait le visage de « tout le monde ». J'aime le fait qu’il n'est pas réellement attaché à la croix – c'est comme s'il regardait avec miséricorde et compassion les gens d'en bas. J'aime la perspective. Cependant, ce n'est pas la couverture qui compte, mais ce qu’il y a à l’intérieur. Si une meilleure idée de couverture se présente, je ne suis pas du tout opposé à l’utiliser pour la prochaine impression.
+_McMullan :_ Si l’on accepte qu’il est approprié qu’un livre sur Jésus ait Jésus sur la couverture, la question devient : lequel ? La plupart des images de Jésus sont tout simplement terribles. J'aime le tableau de Dali car il montre un Jésus musclé, pas l’homme malade habituellement représenté. J'aime le fait que son visage ne soit pas visible, ce qui en fait le visage de « tout le monde ». J'aime le fait qu’il n'est pas réellement attaché à la croix – c'est comme s'il regardait avec miséricorde et compassion les gens d'en bas. J'aime la perspective. Cependant, ce n'est pas la couverture qui compte, mais ce qu’il y a à l’intérieur. Si une meilleure idée de couverture se présente, je ne suis pas du tout opposé à l’utiliser pour la prochaine impression.
 
-_MM:_ Maintenant, nous avons parlé de votre publication de la partie IV, mais ce n'est pas totalement exact. Vous avez oublié le papier 120. Pourquoi ?
+_MM:_ Maintenant, nous avons parlé de votre publication de la partie IV, mais ce n'est pas totalement exact. Vous avez oublié le papier 120. Pourquoi ?
 
-_McMullan :_ J'ai senti que sans le contexte fourni dans le reste du livre, il serait déroutant pour les non-lecteurs de commencer avec la commission d'effusion d'Emmanuel. Le reste de la partie IV se suffit à lui-même. En fait, il n'y a qu’une vingtaine de mots dans _Jésus – Une nouvelle révélation_ qui nécessitent une compréhension des trois premières parties pour être intelligibles. L'index accompagnant le livre traite de ceux-ci par une brève explication et une référence à l’exposé de tout le _Livre d'Urantia_ dans lequel le mot ou le concept est décrit.
+_McMullan :_ J'ai senti que sans le contexte fourni dans le reste du livre, il serait déroutant pour les non-lecteurs de commencer avec la commission d'effusion d'Emmanuel. Le reste de la partie IV se suffit à lui-même. En fait, il n'y a qu’une vingtaine de mots dans _Jésus – Une nouvelle révélation_ qui nécessitent une compréhension des trois premières parties pour être intelligibles. L'index accompagnant le livre traite de ceux-ci par une brève explication et une référence à l’exposé de tout le _Livre d'Urantia_ dans lequel le mot ou le concept est décrit.
 
 ### Entretien avec Travis Binion
 
 _MM:_ Comme vous le savez, Harry McMullan a publié la Partie IV du _Livre d'Urantia_, ou, plus précisément, les Cahiers d'Urantia 121-196, dans un volume intitulé _Jésus—Une nouvelle révélation._ Pensez-vous que ce soit une étape positive dans le la promotion de la révélation sur la planète ?
 
-_Binion :_ L'avenir n'est rationnel qu’avec le recul. Si l’on regarde en arrière, on peut parfois comprendre pourquoi une conséquence s’est produite. Si l’on regarde vers l’avenir, on ne sait tout simplement pas. Ainsi, j’ai tendance à adopter une approche conservatrice en raison de ma longue expérience des conséquences imprévues lorsqu’il s’agit d’interactions humaines. J'avais dit à Harry il y a quelque temps déjà que je soutiendrais une biographie fictive de Jésus basée sur la partie IV. Dans mon esprit, cela présentait peu de risques de conséquences néfastes et le potentiel de figurer sur la liste des best-sellers du New York Times. Harry répondit qu’il n'était pas assez compétent pour faire cela et qu’il n'était pas disposé à soutenir un bon écrivain pour faire ce travail.
+_Binion :_ L'avenir n'est rationnel qu’avec le recul. Si l’on regarde en arrière, on peut parfois comprendre pourquoi une conséquence s’est produite. Si l’on regarde vers l’avenir, on ne sait tout simplement pas. Ainsi, j’ai tendance à adopter une approche conservatrice en raison de ma longue expérience des conséquences imprévues lorsqu’il s’agit d’interactions humaines. J'avais dit à Harry il y a quelque temps déjà que je soutiendrais une biographie fictive de Jésus basée sur la partie IV. Dans mon esprit, cela présentait peu de risques de conséquences néfastes et le potentiel de figurer sur la liste des best-sellers du New York Times. Harry répondit qu’il n'était pas assez compétent pour faire cela et qu’il n'était pas disposé à soutenir un bon écrivain pour faire ce travail.
 
 _MM:_ La Fondation Urantia a qualifié cette publication d'« illégale ». Pensez-vous que c'est illégal ?
 
-_Binion :_ Oui, je crois que c'est un acte illégal.
+_Binion :_ Oui, je crois que c'est un acte illégal.
 
 _MM:_ Nous avons entendu dire que le fait qu’Harry McMullan soit un officier de la Fellowship fait de cette publication un projet de la Fellowship. Pensez-vous que c'est le cas ?
 
-_Binion :_ J'accepte l’affirmation de Janet Farrington Graham selon laquelle il ne s'agit pas d'un projet de bourse.
+_Binion :_ J'accepte l’affirmation de Janet Farrington Graham selon laquelle il ne s'agit pas d'un projet de bourse.
 
 _MM:_ Quel effet, le cas échéant, pensez-vous que cette publication aura sur les efforts « d'unité » dans le « mouvement » ?
 
-_Binion :_ Je crois que la publication d'Harry a déjà eu un effet négatif sur l’effort d'unité. J'observe de nombreux lecteurs avec des opinions très divergentes qui ne peuvent pas séparer le rôle de Harry au sein de la Communauté de cette question. Dans leur esprit, la Communauté est entachée à cause de sa relation et du silence de la Communauté, ce qui affecte l’effort d'unité.
+_Binion :_ Je crois que la publication d'Harry a déjà eu un effet négatif sur l’effort d'unité. J'observe de nombreux lecteurs avec des opinions très divergentes qui ne peuvent pas séparer le rôle de Harry au sein de la Communauté de cette question. Dans leur esprit, la Communauté est entachée à cause de sa relation et du silence de la Communauté, ce qui affecte l’effort d'unité.
 
-_MM:_ Oui, nous avons vu un certain nombre de commentaires en ce sens. Selon vous, que doit faire la Communauté à ce sujet ?
+_MM:_ Oui, nous avons vu un certain nombre de commentaires en ce sens. Selon vous, que doit faire la Communauté à ce sujet ?
 
-_Binion :_ Faites une déclaration, prenez position. Cette position pourrait être aussi anodine que l’adoption de la résolution présentée par Paul Snider lors du récent conclave de la Société à Vancouver, reconnaissant le fait que la Fondation est propriétaire des droits d'auteur et des marques. Le problème que rencontrent de nombreux membres de l’IUA avec la Fellowship est que le silence de la Fellowship sur les questions controversées qui affectent l’ensemble de la communauté est considéré comme une approbation des sentiments de nombreux membres de la Fellowship qui sont hostiles à la Fondation. Ce que la Fraternité ne semble pas comprendre, c'est que les membres de l’IUA soutiennent la Fondation et ne sont pas contrôlés par celle-ci.
+_Binion :_ Faites une déclaration, prenez position. Cette position pourrait être aussi anodine que l’adoption de la résolution présentée par Paul Snider lors du récent conclave de la Société à Vancouver, reconnaissant le fait que la Fondation est propriétaire des droits d'auteur et des marques. Le problème que rencontrent de nombreux membres de l’IUA avec la Fellowship est que le silence de la Fellowship sur les questions controversées qui affectent l’ensemble de la communauté est considéré comme une approbation des sentiments de nombreux membres de la Fellowship qui sont hostiles à la Fondation. Ce que la Fraternité ne semble pas comprendre, c'est que les membres de l’IUA soutiennent la Fondation et ne sont pas contrôlés par celle-ci.
 
 ## Rapport du président sur la réunion du Conseil général
 
@@ -94,7 +94,7 @@ _Binion :_ Faites une déclaration, prenez position. Cette position pourrait ê
 
 Par _Janet Farrington Graham_
 
-La Communauté s'est transformée. Nous nous engageons pleinement à embrasser l’ensemble du lectorat à travers une philosophie de service globale ; nous cherchons activement à répondre aux besoins de chaque individu et groupe, quel que soit leur intérêt ou leur affiliation à toute autre organisation. À cette fin, le Conseil général, lors de sa réunion annuelle qui a suivi la conférence merveilleusement revigorante SpiritQuest 2000 à Vancouver, a adopté deux résolutions qui représentent notre vision de la communauté.
+La Communauté s'est transformée. Nous nous engageons pleinement à embrasser l’ensemble du lectorat à travers une philosophie de service globale ; nous cherchons activement à répondre aux besoins de chaque individu et groupe, quel que soit leur intérêt ou leur affiliation à toute autre organisation. À cette fin, le Conseil général, lors de sa réunion annuelle qui a suivi la conférence merveilleusement revigorante SpiritQuest 2000 à Vancouver, a adopté deux résolutions qui représentent notre vision de la communauté.
 
 La première résolution déclare : « Le Conseil Général de la Fraternité soutient la recommandation du Comité de l’Initiative du Millénaire (MI) de former une alliance de travail formelle avec l’Association Urantia Internationale (UIA). »
 
@@ -106,7 +106,7 @@ Le conseil m'a également demandé de passer brièvement en revue notre historiq
 
 Lors de la réunion du Conseil Général du 9 août 1996 – à l’époque où le Livre d'Urantia était dans le domaine public et après que nous ayons terminé la publication de l’édition Uversa Press – une proposition pour la publication de la Partie IV sous la forme d'un volume séparé a été débattue.  Au cours de cette réunion de 1996, une proposition fut faite par un conseiller concernant la publication de la Partie IV du _Le Livre d'Urantia_ comme un volume séparé. L'argent destiné au projet aurait été fourni de manière privée et ne serait pas sorti du budget de la bourse. Un autre conseiller s'est montré fortement intéressé par le projet.
 
-On a ensuite rappelé au conseil que lorsque le _Livre d'Urantia_ est entré pour la première fois dans le domaine public, le conseil a voté à l’unanimité pour protéger et préserver le texte inviolé ; ce projet de publier la partie IV dans un volume séparé a été jugé incompatible avec cette résolution. Après discussion, les deux conseillers ont retiré leur demande, affirmant qu’ils avaient besoin de temps pour repenser le projet et réfléchir aux différentes opinions qui leur ont été exprimées.
+On a ensuite rappelé au conseil que lorsque le _Livre d'Urantia_ est entré pour la première fois dans le domaine public, le conseil a voté à l’unanimité pour protéger et préserver le texte inviolé ; ce projet de publier la partie IV dans un volume séparé a été jugé incompatible avec cette résolution. Après discussion, les deux conseillers ont retiré leur demande, affirmant qu’ils avaient besoin de temps pour repenser le projet et réfléchir aux différentes opinions qui leur ont été exprimées.
 
 Le Conseil général estime qu’il est très important que les membres et le lectorat en général comprennent que le Mouvement, en tant qu’organisation, ne porte pas de jugement sur les efforts de diffusion des particuliers. Nous considérons la publication de _Jésus – Une nouvelle révélation_ par la Fondation Michael comme une affaire privée entre la Fondation Michael et les administrateurs de la Fondation Urantia.
 
@@ -128,7 +128,7 @@ L'unité d'esprit semblait presque palpable à beaucoup de ceux qui ont assisté
 <img src="/image/article/The_Mighty_Messenger/1999_Fall/005963.jpg">
 </figure>
 
-## La bourse annonce : le programme du réseau de groupes d'intérêt spécial (S.I.G.N.)
+## La bourse annonce : le programme du réseau de groupes d'intérêt spécial (S.I.G.N.)
 
 Par _Lee Smith_
 

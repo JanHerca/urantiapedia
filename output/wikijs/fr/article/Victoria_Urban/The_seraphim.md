@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Je me suis élu et j'ai reçu une part de participation à notre Plan Universel ; spirituellement, je sais que mon ange gardien me fait signe d'une manière qui l'est. délicieux, mais convaincant.
 
-Un corps de 144 séraphins sert sur une sphère évolutive d'habitation de créatures : « _Ces anges président toutes les assemblées séraphiques relatives à l'exercice du devoir ou à l'appel à l'adoration._ » (<a id="a36_206"></a>[LU 39:1.16](/fr/The_Urantia_Book/39#p1_16))
+Un corps de 144 séraphins sert sur une sphère évolutive d'habitation de créatures : « _Ces anges président toutes les assemblées séraphiques relatives à l'exercice du devoir ou à l'appel à l'adoration._ » (<a id="a36_206"></a>[LU 39:1.16](/fr/The_Urantia_Book/39#p1_16))
 
 L'esprit de fraternité survit sur Urantia grâce au travail des séraphins visant à réaliser l'harmonie raciale et la coopération sociale entre nos diverses races. «_Sans le travail de ces séraphins, les efforts des Fils Matériels pour harmoniser et faire progresser les races d’un monde en évolution seraient grandement retardés. Et, si votre Adam s’en était tenu au plan originel pour l’avancement d’Urantia, les esprits de fraternité auraient déjà produit des transformations incroyables dans la race humaine. Compte tenu de la défaillance d’Adam, il reste remarquable que ces ordres séraphiques aient réussi à entretenir et à réaliser même le degré relatif de fraternité existant présentement sur Urantia_. (<a id="a38_710"></a>[LU 39:5.4](/fr/The_Urantia_Book/39#p5_4))
 

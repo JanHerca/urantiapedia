@@ -25,7 +25,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
         </td>
         <td>
         <a href="/fr/article/Aprilhelen/Art_of_Universal_Language_Spiritual_Growth_Conversations">
-          <span class="pr-2">L'art du langage universel : conversations sur la croissance spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">L'art du langage universel : conversations sur la croissance spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -46,15 +46,15 @@ Ces dates semblent-elles familières aux lecteurs du Livre d’Urantia ?
 
 Selon Le Livre d'Urantia, le 21 août 7 avant notre ère était la date de naissance de Jésus (<a id="a46_92"></a>[LU 122:8.1](/fr/The_Urantia_Book/122#p8_1)) et le 8 avril 30 avant notre ère, est le seul jour entier où le corps mortel de Jésus reposait dans le tombeau après sa mort le la croix (<a id="a46_275"></a>[LU 188:0.1](/fr/The_Urantia_Book/188#p0_1)). _La communauté du Livre d'Urantia_ connaît communément cette date comme le seul jour complet du « temps du tombeau » (<a id="a46_439"></a>[LU 188:0.1](/fr/The_Urantia_Book/188#p0_1)).
 
-Il serait très intéressant qu’une éclipse solaire totale se produise n’importe où sur la planète à l’une ou l’autre de ces deux dates importantes. Cependant, que ces _deux_ éclipses se produisent au-dessus des États-Unis à des _dates et _heures_ importantes_ à proximité d'un _lieu important_ est bien plus qu'intéressant. Certains diraient que ce n’est qu’une coïncidence, et c’est peut-être vrai, mais pourrait-il y avoir plus ? Cela ne pourrait-il pas également servir de signal d'alarme pour les adeptes du _Livre d'Urantia_ ?
+Il serait très intéressant qu’une éclipse solaire totale se produise n’importe où sur la planète à l’une ou l’autre de ces deux dates importantes. Cependant, que ces _deux_ éclipses se produisent au-dessus des États-Unis à des _dates et _heures_ importantes_ à proximité d'un _lieu important_ est bien plus qu'intéressant. Certains diraient que ce n’est qu’une coïncidence, et c’est peut-être vrai, mais pourrait-il y avoir plus ? Cela ne pourrait-il pas également servir de signal d'alarme pour les adeptes du _Livre d'Urantia_ ?
 
-Dire que quelque chose est un « coïncident » pourrait également indiquer que cela est délibéré ou intentionnel. Peut-être sommes-nous trop prompts à écarter des événements comme celui-ci. Cela ne veut pas dire que quiconque devrait souscrire aux « signes et prodiges » (<a id="a50_270"></a>[LU 145:5.6](/fr/The_Urantia_Book/145#p5_6)) mais peut-être pouvons-nous reconnaître que ces événements d'éclipse inhabituels ont retenu l'attention de _millions_ de personnes à travers le monde. Quand quelque chose attire l'attention de millions de personnes, et qu'il se trouve qu'il coïncide avec des dates importantes du temps de Jésus ici, comme révélé dans _Le Livre d'Urantia_, n'est-ce pas digne de notre attention ? À tout le moins, cela représente une opportunité de sensibilisation pour faire connaître au public la signification de ces dates en tant qu'introduction au _Le Livre d'Urantia_.
+Dire que quelque chose est un « coïncident » pourrait également indiquer que cela est délibéré ou intentionnel. Peut-être sommes-nous trop prompts à écarter des événements comme celui-ci. Cela ne veut pas dire que quiconque devrait souscrire aux « signes et prodiges » (<a id="a50_270"></a>[LU 145:5.6](/fr/The_Urantia_Book/145#p5_6)) mais peut-être pouvons-nous reconnaître que ces événements d'éclipse inhabituels ont retenu l'attention de _millions_ de personnes à travers le monde. Quand quelque chose attire l'attention de millions de personnes, et qu'il se trouve qu'il coïncide avec des dates importantes du temps de Jésus ici, comme révélé dans _Le Livre d'Urantia_, n'est-ce pas digne de notre attention ? À tout le moins, cela représente une opportunité de sensibilisation pour faire connaître au public la signification de ces dates en tant qu'introduction au _Le Livre d'Urantia_.
 
 Voici quelques autres faits importants sur ces deux éclipses :
 
 ## Les deux éclipses se produisent à sept ans d'intervalle
 
-Selon Wikipédia concernant le « Symbolisme du nombre 7 », « En tant que premier nombre premier de la série des nombres entiers positifs, le nombre sept a des associations très symboliques dans la religion, la mythologie, la superstition et la philosophie. » Consultez le lien suivant pour voir à quel point le chiffre sept est si important dans de nombreuses religions de la terre : [Symbolisme du chiffre 7](https://en.wikipedia.org/wiki/Symbolism_of_the_number_7)
+Selon Wikipédia concernant le « Symbolisme du nombre 7 », « En tant que premier nombre premier de la série des nombres entiers positifs, le nombre sept a des associations très symboliques dans la religion, la mythologie, la superstition et la philosophie. » Consultez le lien suivant pour voir à quel point le chiffre sept est si important dans de nombreuses religions de la terre : [Symbolisme du chiffre 7](https://en.wikipedia.org/wiki/Symbolism_of_the_number_7)
 
 Dans les Cahiers d'Urantia, le nombre sept est mentionné presque mille fois, depuis les Sept Maîtres Esprits, jusqu'aux Sept Superunivers, en passant par les Sept Sphères Sacrées du Paradis, jusqu'aux sept effusions de créatures de Michel, et bien d'autres exemples encore. C'est un chiffre clé.
 
@@ -148,7 +148,7 @@ Les réponses se trouvent dans la Révélation Urantia. Nous les avons. Sommes-n
         </td>
         <td>
         <a href="/fr/article/Aprilhelen/Art_of_Universal_Language_Spiritual_Growth_Conversations">
-          <span class="pr-2">L'art du langage universel : conversations sur la croissance spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">L'art du langage universel : conversations sur la croissance spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -36,7 +36,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Line St-Pierre, trustee associé émérite, Québec, Canada_
 
-Aujourd’hui, de nombreuses femmes ressentent l’appel de faire la différence de façons créatives. La Retraite Danser avec Dieu, en septembre dernier, — intitulée cette fois-ci « Notre Appel Suprême » — était un week-end éducatif et transformateur pour un groupe de 13 femmes entre 51 et 82 ans, qui se réunirent à la Fondation Urantia, à Chicago, pour nourrir le corps et l’âme. Les trois jours du cercle de la retraite spirituelle avec les Filles de Dieu, leur permirent de s’ouvrir à de nouvelles opportunités.
+Aujourd’hui, de nombreuses femmes ressentent l’appel de faire la différence de façons créatives. La Retraite Danser avec Dieu, en septembre dernier, — intitulée cette fois-ci « Notre Appel Suprême » — était un week-end éducatif et transformateur pour un groupe de 13 femmes entre 51 et 82 ans, qui se réunirent à la Fondation Urantia, à Chicago, pour nourrir le corps et l’âme. Les trois jours du cercle de la retraite spirituelle avec les Filles de Dieu, leur permirent de s’ouvrir à de nouvelles opportunités.
 
 À la fin de la retraite, les participantes dirent leur joie d’être sorties de leur tête et d’être entrer dans leur cœur, pour faire l’expérience du soutien des autres femmes, afin de réclamer leur propre espace et de s’exprimer. Elles apprécièrent d’avoir partagé leur vie intérieure avec Dieu et les autres dans cet environnement intime et d’avoir célébré leur unique expérience spirituelle féminine.
 

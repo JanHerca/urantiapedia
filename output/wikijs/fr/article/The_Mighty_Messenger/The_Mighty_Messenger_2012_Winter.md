@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Le service dans et envers le Suprême mettra en valeur le séminaire d'études d'été 2013, qui se tiendra au Techny Towers Retreat Center à Northbrook, Illinois, du 10 au 13 juillet 2013. Une retraite pré-conférence aura lieu le mercredi 10 juillet et le le programme régulier de la conférence débutera le jeudi soir 11 juillet.
 
-Le Comité d'Éducation a formulé un engagement envers une étude approfondie du _Le Livre d'Urantia_ ; et cette priorité sera abordée en partie par une séance plénière jeudi soir, avant l’habituelle soirée d'ouverture, ainsi qu’en ajoutant du temps aux ateliers. Bien que cette approche globale soit une marque de l’engagement du comité en faveur de l’éducation, l’accent sera toujours mis sur le culte et les opportunités offertes aux membres de la famille des lecteurs non lecteurs et aux autres nouveaux lecteurs d’obtenir une introduction au livre.
+Le Comité d'Éducation a formulé un engagement envers une étude approfondie du _Le Livre d'Urantia_ ; et cette priorité sera abordée en partie par une séance plénière jeudi soir, avant l’habituelle soirée d'ouverture, ainsi qu’en ajoutant du temps aux ateliers. Bien que cette approche globale soit une marque de l’engagement du comité en faveur de l’éducation, l’accent sera toujours mis sur le culte et les opportunités offertes aux membres de la famille des lecteurs non lecteurs et aux autres nouveaux lecteurs d’obtenir une introduction au livre.
 
 Le président du programme, Nick Stefero, recherche des bénévoles qui souhaiteraient soumettre des plans pour d'éventuels ateliers. Dieu le Suprême est un sujet complexe, mais en tant que thème central du séminaire d'études d'été, le Suprême offre de nombreuses possibilités d'examen approfondi. Si vous avez une idée d'atelier que vous aimeriez que Nick envisage d'inclure dans le programme, contactez-le à nstefero@cox.net.
 
@@ -161,7 +161,7 @@ Le Canadien **Paul Klaver** a découvert _Le Livre d'Urantia_ à l’âge de 21 
 </figure>
 
 
-## Célébration du jour de l’effusion !
+## Célébration du jour de l’effusion !
 
 <figure id="Figure_12" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/005799.jpg">
@@ -174,7 +174,7 @@ Le Canadien **Paul Klaver** a découvert _Le Livre d'Urantia_ à l’âge de 21 
 
 ## Croissance de Séoul 2012
 
-**« Favoriser l’expérience de la foi »**
+**« Favoriser l’expérience de la foi »**
 
 Par _Buck Weimer_
 
@@ -186,7 +186,7 @@ Notre présence persistante à la Foire internationale du livre de Séoul en Cor
 
 Le salon de cette année s'est tenu du 20 au 24 juin au centre des congrès COEX. Encore une fois, Sy Chang était la personne-ressource qui coordonnait l’événement ; et les représentants de la Fellowship étaient Tim Hobbs, Arlene Weimer et moi-même. Un mois avant la foire, nous avons envoyé à Sy un cas (18) de Jésus, une nouvelle révélation en anglais, car la plupart des Coréens veulent apprendre l’anglais. Il avait les trois copies de traduction coréenne clairement affichées et de nombreuses bases du Livre d'Urantia de Mary Ebben à portée de main. Nos doigts se sont rapidement adaptés au roulement des vitamines spirituelles. 
 
-Le deuxième jour, Ji Soo Han est arrivé et a dit dans un anglais parfait : « Il n’y a pas de citations du _Livre d'Urantia_ exposées. Après un remue-méninges, nous avons eu deux idées géniales : « De toutes les connaissances humaines, celle qui a la plus grande valeur… » et la mota morontielle « La plus grande affliction du cosmos… » Ji Soo s'est rapidement enfui et est revenu au bout d'une heure avec deux des affiches magnifiquement imprimées (noir sur blanc) en coréen et en anglais contenant les deux citations. Et les passants ont commencé à remarquer les citations ; beaucoup se sont arrêtés pour en parler. 
+Le deuxième jour, Ji Soo Han est arrivé et a dit dans un anglais parfait : « Il n’y a pas de citations du _Livre d'Urantia_ exposées. Après un remue-méninges, nous avons eu deux idées géniales : « De toutes les connaissances humaines, celle qui a la plus grande valeur… » et la mota morontielle « La plus grande affliction du cosmos… » Ji Soo s'est rapidement enfui et est revenu au bout d'une heure avec deux des affiches magnifiquement imprimées (noir sur blanc) en coréen et en anglais contenant les deux citations. Et les passants ont commencé à remarquer les citations ; beaucoup se sont arrêtés pour en parler. 
 
 En raison de problèmes logistiques et financiers, nous avons décidé d'organiser une conférence d'une journée le samedi 23 juin, un jour avant la clôture de la foire. Sy a fait en sorte que plusieurs personnes travaillent au stand en notre absence. La conférence s'est tenue au Christian Center, le plus ancien centre d'apprentissage chrétien en Corée du Sud. 
 
@@ -212,7 +212,7 @@ Le week-end dernier, j'ai assisté à la Skokie Body, Mind et Spirit Expo. Les r
 
 Dimanche, David Kulieke et moi avons donné une conférence qui a été bien accueillie et qui a réuni une quinzaine de personnes. Il semblait que presque tout le monde était venu à notre stand plus tard et avait acheté un livre. Une dame s’est levée d’un bond au milieu de la conversation et s’est rendue au stand pour acheter un livre.
 
-Un jeune homme que j'ai reconnu est venu à table ; il m'avait acheté un livre l’année dernière. Il était rayonnant et nous a partagé avec enthousiasme qu’il avait lu le livre trois fois. Sa petite amie a souri d'un air approbateur et a dit qu’elle avait commencé à lire parce que son petit ami en avait tellement profité. Bien sûr, ça fait du bien de voir les résultats de nos efforts ! 
+Un jeune homme que j'ai reconnu est venu à table ; il m'avait acheté un livre l’année dernière. Il était rayonnant et nous a partagé avec enthousiasme qu’il avait lu le livre trois fois. Sa petite amie a souri d'un air approbateur et a dit qu’elle avait commencé à lire parce que son petit ami en avait tellement profité. Bien sûr, ça fait du bien de voir les résultats de nos efforts ! 
 
 <figure id="Figure_18" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/005807.jpg">
@@ -234,7 +234,7 @@ Merci aux merveilleux lecteurs de la région de Chicago, trop nombreux pour êtr
 
 ## Foire du livre nigérian
 
-**« Favoriser l’expérience de la foi »**
+**« Favoriser l’expérience de la foi »**
 
 Par _Buck Weimer_
 
@@ -250,7 +250,7 @@ Nous pensions avoir emporté suffisamment de livres avec nous – 180 JANR (Jés
 
 L’interaction avec les Nigérians a été intense, stimulante et mémorable. Il y a rarement eu une époque où autant de croyants parlaient à autant d’âmes curieuses de la Révélation et de l’Évangile de Jésus. Ed, Marilyn et Barbara ont été particulièrement efficaces. Les Nigérians voulaient en savoir plus sur la paternité, la doctrine de l’expiation et leur carrière éternelle. Mais beaucoup voulaient simplement nous rencontrer et discuter ou se faire prendre en photo avec nous. Mais c’est notre expérience de foi qui nous a unis. 
 
-Pendant notre séjour au Nigeria, nous avons également assisté à un mariage et tenu une brève conférence sur le leadership. La seule idée que nous avons convenu de concrétiser est celle de vouloir que d’autres acquièrent le même niveau précieux d’expérience de sensibilisation à l’échelle internationale. Barbara et Marilyn ont créé une vidéo YouTube de nos expériences au Nigeria. Voici l’adresse à mettre dans l’URL de votre navigateur : http://youtu.be/XQa4SLYCwM. 
+Pendant notre séjour au Nigeria, nous avons également assisté à un mariage et tenu une brève conférence sur le leadership. La seule idée que nous avons convenu de concrétiser est celle de vouloir que d’autres acquièrent le même niveau précieux d’expérience de sensibilisation à l’échelle internationale. Barbara et Marilyn ont créé une vidéo YouTube de nos expériences au Nigeria. Voici l’adresse à mettre dans l’URL de votre navigateur : http://youtu.be/XQa4SLYCwM. 
 
 <figure id="Figure_21" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/005810.jpg">
@@ -264,7 +264,7 @@ Le rythme de nos activités a augmenté comme suit :
 - Le Comité de sensibilisation a considérablement élargi ses activités pour inclure la participation de ses membres avec les lecteurs de la communauté locale à des foires du livre, des présentations et des événements sociaux au cours desquels une introduction au _Le Livre d'Urantia_ et ses enseignements peuvent être présentés. Les dépenses comprennent des subventions pour les efforts locaux de sensibilisation et de diffusion.
 - Nous avons ajouté un comité permanent au Comité exécutif, Jeunesse et Jeunes Adultes (YaYA), et nous recherchons et encourageons activement les jeunes lecteurs à participer aux nombreuses activités programmées du comité.
 - Les membres du Comité International de la Fraternité continuent d'étendre la communication avec les lecteurs à l’étranger en facilitant l’expédition de livres, en assistant à des conférences et des foires du livre dans d'autres pays et en maintenant le contact avec les dirigeants étrangers dans les activités d'Urantia.
-- Nous continuons d'améliorer notre site Web, www.urantiabook.org, qui aura bientôt une nouvelle apparence et de nombreuses fonctionnalités mises à jour. Il reçoit chaque année des millions de visiteurs uniques. Vous pouvez télécharger le livre dans plusieurs langues différentes à partir de ce site ; et vous pouvez télécharger et écouter n’importe quel article ou le livre entier en audio à partir du site Web.
+- Nous continuons d'améliorer notre site Web, www.urantiabook.org, qui aura bientôt une nouvelle apparence et de nombreuses fonctionnalités mises à jour. Il reçoit chaque année des millions de visiteurs uniques. Vous pouvez télécharger le livre dans plusieurs langues différentes à partir de ce site ; et vous pouvez télécharger et écouter n’importe quel article ou le livre entier en audio à partir du site Web.
 - Nous avons un comité interconfessionnel dédié qui a présenté le livre aux ministres et l’a placé dans des centaines de bibliothèques religieuses à travers le monde. et l’a présenté à chacun des quatre derniers parlements des religions du monde.
 - Notre Comité des Publications fournit régulièrement le bulletin d'information Mighty Messenger et notre magazine, The Fellowship Herald, aux lecteurs du pays et de 89 pays comme moyen de rester en contact avec les lecteurs du Livre d'Urantia du monde entier.
 - Nous continuons d'organiser une Conférence internationale triennale des lecteurs, qui a lieu régulièrement depuis 1967 et qui a accueilli des centaines de lecteurs à chaque occasion. Les préparatifs pour IC14 sont en cours.
@@ -293,7 +293,7 @@ Un siège vacant est devenu disponible au Conseil général de la Fellowship. Le
 ## Personnel du « The Mighty Messenger »
 
 Publié par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship.
-Membres : Linda Buselli, présidente Cece Forrester, David Glass, Nancy Johnson, Merritt Horn, Sage Waitts
+Membres : Linda Buselli, présidente Cece Forrester, David Glass, Nancy Johnson, Merritt Horn, Sage Waitts
 877.288.3772
 bourse@urantiabook.org
 www.urantiabook.org

@@ -52,7 +52,7 @@ Dans tous les cas, Shou Hsing ou Shou Lao apparaît doux et souriant, sa tête v
 
 L'empereur Ch'in Shih Huang Ti (246 av. J.-C.), après avoir unifié la Chine, fut incité par les taoïstes à construire un temple en son honneur et la dynastie Tang introduisit des sacrifices au dieu étoile à l'équinoxe d'automne.
 
-J'ai plusieurs statues du Dieu de la Longévité chez moi depuis longtemps. Un jour, je me suis précipité vers mon _Livre URANTIA_ pour trouver cette phrase :
+J'ai plusieurs statues du Dieu de la Longévité chez moi depuis longtemps. Un jour, je me suis précipité vers mon _Livre URANTIA_ pour trouver cette phrase :
 
 > _Pendant le règne du Prince, l’arbre [l'arbre de vie] planté en terre croissait dans la cour circulaire centrale du temple du Père. Quand la rébellion éclata, Van et ses associés firent croitre, de nouveau, l’arbre, à partir du cœur, dans leur campement temporaire. Cet arbuste d’Édentia fut ensuite emporté dans leur retraite des hautes terres où il servit à Van et Amadon pendant plus de cent-cinquante-mille ans._ ([LU 73:6.5](/fr/The_Urantia_Book/73#p6_5))
 
@@ -80,7 +80,7 @@ La fonction de Van sur Terre pendant plusieurs milliers d'années était le prot
 
 > _...Van, qui abandonnait ainsi l’autorité nominale qu’il avait détenue pendant plus de cent-cinquante-mille ans en vertu d’une décision des administrateurs provisoires Melchizédeks._ ([LU 74:2.6](/fr/The_Urantia_Book/74#p2_6))
 
-Alors, comment prononcer « Van » ? Je voudrais suggérer la prononciation qui peut avoir une base linguistique et historique. Maintenant, je dis Van comme Wang.
+Alors, comment prononcer « Van » ? Je voudrais suggérer la prononciation qui peut avoir une base linguistique et historique. Maintenant, je dis Van comme Wang.
 
 <figure id="Figure_2" class="image urantiapedia" alt="chinese gods">
 <img src="/image/article/IUA_Journal/chinese_gods.jpg">

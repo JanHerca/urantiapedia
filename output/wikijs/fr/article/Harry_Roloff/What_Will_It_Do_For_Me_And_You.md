@@ -117,7 +117,7 @@ Au lieu de stagner mort.
 
 Des siècles de recul
 Maintenant, exigez une potion de super pouvoir
-Et avec un « saut quantique » géant
+Et avec un « saut quantique » géant
 Cette génération a un rythme à suivre.
 
 Alors prenez conscience !
@@ -132,8 +132,8 @@ Que les jeunes puissent vivre
 Nous n'avancerons pas
 À moins que nous ne confessions cette vérité.
 
-Ne connaissez-vous pas le dicton révélateur :
-« Je fais tout NOUVEAU ! » ?
+Ne connaissez-vous pas le dicton révélateur :
+« Je fais tout NOUVEAU ! » ?
 Et pour cela, nous devons continuer à prier !
 
 —Harry Roloff, 4-1-92

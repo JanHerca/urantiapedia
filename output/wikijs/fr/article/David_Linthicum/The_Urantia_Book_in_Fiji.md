@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par David Linthicum, Président du Comité de la Dissémination de l’AUI, Oklahoma, États-Unis_
 
-_Note de l’éditeur : Voici un autre exemple de collaboration inter organisationnelle, David, le président du comité de la Dissémination de l’Association Urantia Internationale (AUI), nous raconte comment la Fondation Urantia et l’AUI ont parrainé l’apport de livres aux îles Fidji._
+_Note de l’éditeur : Voici un autre exemple de collaboration inter organisationnelle, David, le président du comité de la Dissémination de l’Association Urantia Internationale (AUI), nous raconte comment la Fondation Urantia et l’AUI ont parrainé l’apport de livres aux îles Fidji._
 
 En début d’année dernière, je reçus une recommandation d’un monsieur des îles Fidji, qui me demandait des informations pour devenir distributeur du _Livre d’Urantia_ pour les îles Fidji et les îles pacifiques environnantes. Au cours de l’année, Luke Ratuvuki et moi-même développèrent une bonne relation de travail qui eut pour conséquence un envoi de livres vers les îles. Les livres furent envoyés par bateau le 21 février 2017 et arrivèrent le 6 avril.
 
@@ -50,13 +50,13 @@ Les transports maritimes internationaux comprennent de nombreux défis et sont a
 
 Luke Ratuvuki est maintenant à la retraite, il a servi quarante ans au gouvernement des îles Fidji. Il était l’ancien PDG de l’Agriculture, de la Pêche et des Eaux et Forêts et le premier ambassadeur des îles Fidji à Pékin, en Chine. Luke a soixante-huit ans et est marié avec trois enfants adultes et deux belles petites filles. Il vit à Momie Bay dans Nadi Town.
 
-Selon Wikipedia, la République de Fidji est un pays d’îles en Mélanésie dans l’océan du Sud Pacifique, à peu près à 1100 miles marins au nord est de l’île de la Nouvelle Zélande. Fidji est un archipel de plus de 330 îles, dont 110 sont habitées en permanence, et plus de 500 îlots, d’un total de terres de 18,300 kilomètres. Les deux plus grandes îles, Viti Levu et Vanua Levu, comprennent 87 pour cent de la population totale, près de neuf cent mille habitants. Fidji est l’une des économies les plus développée du Pacifique à cause de l’abondance des forêts, des minéraux et des ressources de poissons ; l’exportation la plus importante est celle du sucre. Fidji est 70 pour cent chrétienne.
+Selon Wikipedia, la République de Fidji est un pays d’îles en Mélanésie dans l’océan du Sud Pacifique, à peu près à 1100 miles marins au nord est de l’île de la Nouvelle Zélande. Fidji est un archipel de plus de 330 îles, dont 110 sont habitées en permanence, et plus de 500 îlots, d’un total de terres de 18,300 kilomètres. Les deux plus grandes îles, Viti Levu et Vanua Levu, comprennent 87 pour cent de la population totale, près de neuf cent mille habitants. Fidji est l’une des économies les plus développée du Pacifique à cause de l’abondance des forêts, des minéraux et des ressources de poissons ; l’exportation la plus importante est celle du sucre. Fidji est 70 pour cent chrétienne.
 
 À cause du succès de notre premier envoi de livres, il fut décidé d’envoyer encore cinquante livres à Fidji, en utilisant un autre transporteur, cette fois. Heureusement, l’envoi fut un succès cette fois, tous les livres arrivèrent en bon état.
 
 Il y avait quelques petits défis de papiers administratifs pour passer les douanes de Fidji, mais heureusement Luke put travailler avec le personnel douanier pour assouplir les choses. Cela eut pour résultat que deux employés douaniers avec qui Luke travailla décidèrent qu’ils voulaient un exemplaire du livre chacun et ils furent finalement les premiers à recevoir un livre du second envoi. Les livres arrivèrent juste avant Noël, le 20 décembre 2017.
 
-C’est vraiment très gratifiant de voir l’enthousiasme des personnes autour de la planète qui désirent avoir un exemplaire personnel du _Livre d’Urantia._ C’est encore plus réconfortant de trouver des gens « dans des pays » qui veulent faire le travail de terrain nécessaire pour apporter des livres aux âmes affamées, de leurs pays. Nous nous attendons à une longue et durable relation avec nos nouveaux amis à Fidji.
+C’est vraiment très gratifiant de voir l’enthousiasme des personnes autour de la planète qui désirent avoir un exemplaire personnel du _Livre d’Urantia._ C’est encore plus réconfortant de trouver des gens « dans des pays » qui veulent faire le travail de terrain nécessaire pour apporter des livres aux âmes affamées, de leurs pays. Nous nous attendons à une longue et durable relation avec nos nouveaux amis à Fidji.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2018_03/015.jpg">

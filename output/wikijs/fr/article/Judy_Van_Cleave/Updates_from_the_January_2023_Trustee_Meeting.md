@@ -56,7 +56,7 @@ _Par Judy Van Cleave, secrétaire de la Fondation Urantia, Idaho, États-Unis_
 
 ## Éducation
 
-- _L’École Internationale du Livre d’Urantia (UBIS)_, lancera bientôt les nouvelles Séries Coup de Projecteur. Cela comprendra des petits sujets, des orateurs invités et des groupes de discussion ; chaque branche en planifie une dans leur langue. Le conseil consultatif est de plus en plus mondial-la croissance internationale étant un grand événement marquant.
+- _L’École Internationale du Livre d’Urantia (UBIS)_, lancera bientôt les nouvelles Séries Coup de Projecteur. Cela comprendra des petits sujets, des orateurs invités et des groupes de discussion ; chaque branche en planifie une dans leur langue. Le conseil consultatif est de plus en plus mondial-la croissance internationale étant un grand événement marquant.
 - Des plans sont en cours pour des séminaires sur les races et la famille.
 - Lors de leur réunion du quatrième trimestre, l’équipe du Répertoire des Groupes d’Étude discutèrent de leur successeurs et de comment laisser au mieux les mécanismes de cette opération à ceux qui suivront. Le travail le plus difficile et qui prend du temps, est celui d’assurer que les informations sont à jour. Pour le faciliter, ils ont approuvé la création d’un système automatisé qui sera prêt début 2023.
 
@@ -69,7 +69,7 @@ _Par Judy Van Cleave, secrétaire de la Fondation Urantia, Idaho, États-Unis_
 ## Traductions et Révisions
 
 - L’équipe de traduction en philippin a terminé la Partie I au quatrième trimestre et travaille maintenant sur le Fascicule 38. L’équipe nous informa de leur productivité qui avait augmenté jusqu’au point de traduire et de corriger entre 20 à 30 pages par mois. Cela est dû à plusieurs facteurs, comme à leur connaissance des mots courants de l’anglais en philippin, acquise durant les deux dernières années et au nombre croissant d’heures de travail dédiées à la traduction. Certaines modifications minimales dans l’organisation de l’équipe ont aussi permis une plus grande efficacité.
-- L’équipe de la traduction en farsi est arrivée à leurs derniers 20 fascicules ! Leur but est de traduire 12 fascicules en 2023, et les 8 fascicules restants en 2024. Vous pouvez voir la traduction en farsi sur notre site web : [https://www.urantia.org/fa](https://www.urantia.org/fa)
+- L’équipe de la traduction en farsi est arrivée à leurs derniers 20 fascicules ! Leur but est de traduire 12 fascicules en 2023, et les 8 fascicules restants en 2024. Vous pouvez voir la traduction en farsi sur notre site web : [https://www.urantia.org/fa](https://www.urantia.org/fa)
 - Le Comité de Traductions planifie de prendre du temps lors de la réunion d’avril, pour parler de la révision espagnole et du processus de la traduction chinoise.
 
 

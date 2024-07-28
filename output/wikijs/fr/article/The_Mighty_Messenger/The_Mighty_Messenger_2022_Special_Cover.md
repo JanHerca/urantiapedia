@@ -1,5 +1,5 @@
 ---
-title: "Sources de perspicacité révélatrice : une méditation sur les sources humaines — Couverture"
+title: "Sources de perspicacité révélatrice : une méditation sur les sources humaines — Couverture"
 description: "Le Mighty Messenger — Numéro spécial 2022 : Nouvelles et opinions pour les lecteurs du Livre d'Urantia"
 published: true
 date: 2023-6-21T8:13:38Z

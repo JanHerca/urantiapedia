@@ -42,7 +42,7 @@ _par Dick Bain_
 
 Une fois, j'ai parlé à un voisin du _Livre d'Urantia_ et de la façon dont j'y avais trouvé les réponses à plusieurs de mes questions. Par la suite, lorsque nous discutions de quelque chose de grave, il demandait : « Que dit votre livre de réponses à ce sujet ? J'étais un peu amusé, mais il y avait pour moi un son de vérité dans son nouveau titre pour _Le Livre d'Urantia_.
 
-Eh bien, oui, _Le Livre d'Urantia_ a fourni des réponses à de nombreuses questions que nous pouvons tous nous poser. Quel est le but de la vie ? Y a-t-il un Dieu ? Comment est ce Dieu ? Dieu est-il responsable des catastrophes que nous subissons ? Si non, pourquoi souffrons-nous ? Y a-t-il une prochaine vie ? Si oui, comment pouvons-nous y aller ? Dois-je croire en Jésus pour y arriver ? Est-ce qu'il y a de la vie sur les autres planètes? Je suis sûr que la liste pourrait s'allonger encore et encore.
+Eh bien, oui, _Le Livre d'Urantia_ a fourni des réponses à de nombreuses questions que nous pouvons tous nous poser. Quel est le but de la vie ? Y a-t-il un Dieu ? Comment est ce Dieu ? Dieu est-il responsable des catastrophes que nous subissons ? Si non, pourquoi souffrons-nous ? Y a-t-il une prochaine vie ? Si oui, comment pouvons-nous y aller ? Dois-je croire en Jésus pour y arriver ? Est-ce qu'il y a de la vie sur les autres planètes? Je suis sûr que la liste pourrait s'allonger encore et encore.
 
 De nombreuses religions tentent de répondre à tout ou partie de nos questions, mais leurs réponses peuvent ne pas convenir, ou nous pouvons trouver les réponses insatisfaisantes. Les réponses données par _Le Livre d'Urantia_ sont-elles plus proches de la vérité que celles provenant d'autres sources ?
 

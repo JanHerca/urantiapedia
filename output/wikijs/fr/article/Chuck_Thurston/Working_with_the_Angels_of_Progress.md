@@ -65,7 +65,7 @@ La description des anges du progrès dans le livre nous dit qu’ils « se voien
 
 Ces deux responsabilités impliquent la création de possibilités nouvelles et supérieures. Sur le plan humain, cela implique la culture d’idées nouvelles (originales) et notre volonté de prendre des initiatives pour tenter de les manifester. En l’absence de ces déterminations humaines, il ne peut y avoir de progrès humain.
 
-Le déroulement de ce processus, de la vie intérieure à la manifestation extérieure, est clairement suggéré par ces deux vérités fondamentales :
+Le déroulement de ce processus, de la vie intérieure à la manifestation extérieure, est clairement suggéré par ces deux vérités fondamentales :
 
 1. L’accomplissement de la volonté de Dieu n’est rien de plus ou de moins qu’une manifestation de la volonté de la créature de partager sa vie intérieure avec Dieu. <a id="a69_165"></a>[LU 111:5.1](/fr/The_Urantia_Book/111#p5_1)
 2. Les avancées de la véritable civilisation naissent toutes dans le monde intérieur de l’humanité. Seule la vie intérieure est véritablement créatrice.<a id="a70_152"></a>[LU 111:4.3](/fr/The_Urantia_Book/111#p4_3)

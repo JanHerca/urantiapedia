@@ -40,16 +40,16 @@ dateCreated: 2023-8-29T10:55:6Z
 
 Par Bobbie Dreier, New Jersey, États-Unis
 
-_Note de l’éditeur : Cette retraite fut dirigée par Gard Jameson, Bobbie Dreier, Marta Elders et Carol Schindler durant plusieurs années. Son but est de rehausser la croissance spirituelle des lecteurs et d’approfondir leur appréciation du service aimant._
+_Note de l’éditeur : Cette retraite fut dirigée par Gard Jameson, Bobbie Dreier, Marta Elders et Carol Schindler durant plusieurs années. Son but est de rehausser la croissance spirituelle des lecteurs et d’approfondir leur appréciation du service aimant._
 <br style="clear:both;"/>
 
-> « Le bonheur et la joie prennent origine dans la vie intérieure ». <a id="a45_69"></a>[LU 111:4.7](/fr/The_Urantia_Book/111#p4_7)
+> « Le bonheur et la joie prennent origine dans la vie intérieure ». <a id="a45_69"></a>[LU 111:4.7](/fr/The_Urantia_Book/111#p4_7)
 
-La retraite de pré conférence de la Fellowship du Livre d’Urantia, de la « Conférence Internationale Urantia 2017, procurera un endroit où l’âme timide se sentira en sécurité, une expérience qui favorisera la croissance religieuse si « elles la partagent avec d’autres ». <a id="a47_272"></a>[LU 100:1.8](/fr/The_Urantia_Book/100#p1_8) En écoutant les histoires et les poésies spirituellement évocatrices et par une écoute profondément respectueuse, nous nous aiderons les uns les autres dans notre trajet personnel. Les participants profiteront de longs moments de communion et d’un temps d’adoration conduisant au service aimant.
+La retraite de pré conférence de la Fellowship du Livre d’Urantia, de la « Conférence Internationale Urantia 2017, procurera un endroit où l’âme timide se sentira en sécurité, une expérience qui favorisera la croissance religieuse si « elles la partagent avec d’autres ». <a id="a47_272"></a>[LU 100:1.8](/fr/The_Urantia_Book/100#p1_8) En écoutant les histoires et les poésies spirituellement évocatrices et par une écoute profondément respectueuse, nous nous aiderons les uns les autres dans notre trajet personnel. Les participants profiteront de longs moments de communion et d’un temps d’adoration conduisant au service aimant.
 
-Les Cercles de Confiance sont basés sur des principes décrits dans « Une Unicité Cachée » de Parker Palmer et on demande aux participants de lire le livre en préparation de la retraite.
+Les Cercles de Confiance sont basés sur des principes décrits dans « Une Unicité Cachée » de Parker Palmer et on demande aux participants de lire le livre en préparation de la retraite.
 
-Si vous vous sentez touché, pour apprendre comment « aimer en écoutant, » par une expérience créée pour accroître votre conscience d’âme, nous vous invitons à vous joindre à nous pour ces Cercles de Confiance d’été.
+Si vous vous sentez touché, pour apprendre comment « aimer en écoutant, » par une expérience créée pour accroître votre conscience d’âme, nous vous invitons à vous joindre à nous pour ces Cercles de Confiance d’été.
 
 La retraite commence le lundi 17 juillet, après le dîner, toute la journée et dans la soirée du mardi et le mercredi jusqu'au déjeuner. La participation sera limitée à trente personnes.
 

@@ -45,7 +45,7 @@ Je vais maintenant présenter mon interprétation personnelle concernant la tail
 
 ## La Voie Lactée : deux connotations
 
-Dans son sens originel, la Voie Lactée est un phénomène visible dans le ciel nocturne, la **ceinture lumineuse** s'étendant d'un extrême à l'autre du firmament. Les Grecs de l’Antiquité l’appelaient _galaktos_, dérivé du mot grec signifiant lait, _gala_. L’appellation « galaktos » n’a donc rien à voir avec une « galaxie » au sens moderne du terme. Non seulement en anglais, mais aussi dans d'autres langues, la Voie lactée a un nom « laiteux » : _Vía láctea_, en espagnol ; _Voie lactée_, en français; _Milchstrasse_, en allemand ; pourtant, _Vintergatan_ (Wintry Way) en suédois et _Linnunrata_ (Bird's Trajectory), en finnois.
+Dans son sens originel, la Voie Lactée est un phénomène visible dans le ciel nocturne, la **ceinture lumineuse** s'étendant d'un extrême à l'autre du firmament. Les Grecs de l’Antiquité l’appelaient _galaktos_, dérivé du mot grec signifiant lait, _gala_. L’appellation « galaktos » n’a donc rien à voir avec une « galaxie » au sens moderne du terme. Non seulement en anglais, mais aussi dans d'autres langues, la Voie lactée a un nom « laiteux » : _Vía láctea_, en espagnol ; _Voie lactée_, en français; _Milchstrasse_, en allemand ; pourtant, _Vintergatan_ (Wintry Way) en suédois et _Linnunrata_ (Bird's Trajectory), en finnois.
 
 La signification actuelle de la « Voie lactée » est un **système en forme de disque**, composé d'étoiles, de nuages de gaz interstellaire et de poussière, et commandant un diamètre d'environ 100 000 années-lumière. Le Soleil est situé approximativement au milieu de ce disque. J'utiliserai ci-après le mot **Galaxy** en référence à ce système. J'emploierai l'expression « Voie Lactée » dans son sens original, tel qu'elle est utilisée dans _Le Livre d'URANTIA_.
 
@@ -59,7 +59,7 @@ Selon les mots du _Livre d'URANTIA_, la Voie Lactée est composée de systèmes 
 
 > _Depuis Jérusem, capitale de Satania, il faut plus de deux-cent-mille années-lumière pour arriver au centre physique du superunivers d’Orvonton, loin, très loin dans le diamètre dense de la Voie Lactée._ ([LU 32:2.11](/fr/The_Urantia_Book/32#p2_11))
 
-En 42 : 5,5, certaines sources de rayonnement sont discutées, et dans cet article, le plan le plus dense du superunivers est appelé sans équivoque la Voie Lactée :
+En 42 : 5,5, certaines sources de rayonnement sont discutées, et dans cet article, le plan le plus dense du superunivers est appelé sans équivoque la Voie Lactée :
 
 > _La plus grande quantité d’entre eux émane du plan le plus dense du superunivers, celui de la Voie Lactée, qui est aussi le plan de plus grande densité des univers extérieurs._ ([LU 42:5.5](/fr/The_Urantia_Book/42#p5_5))
 
@@ -79,7 +79,7 @@ La parabole des oranges à [LU 41:3.2](/fr/The_Urantia_Book/41#p3_2) se prête �
 
 La métaphore des oranges nous enseigne que les étoiles ont autant de marge de manœuvre dans l’espace qu’une douzaine d’oranges en auraient dans un espace du volume de la Terre. À 458:2, le diamètre moyen des soleils est de 1 600 000 kilomètres. [^8] Ce chiffre signifie que le volume moyen d'un soleil est de 2,144660585 &sdot; 10^27^m^3^. Le volume de la Terre est de 1,076411815 &sdot; 10^21^ m^3^. La densité des étoiles dépend désormais de la taille des oranges à utiliser dans le calcul. Mais supposons qu'une orange moyenne ait un rayon ( r~o~ ) de 0,04 mètres, et par conséquent un volume ( V~o~ ) de 0,00026808 mètres cubes. Il ne reste plus qu'à formuler une équation mathématique et déterminer le volume (V~12~) que doit commander une sphère pour qu'elle puisse accueillir les douze soleils de taille moyenne de la métaphore orange. Un calcul révèle [^9] que chaque parsec cubique contiendrait 0,041 étoiles. Le résultat est étonnamment proche du chiffre de 0,047 que nous avons obtenu ci-dessus. En utilisant un calcul similaire, nous découvririons que si nous avions postulé un rayon de 0,042 mètres pour une orange (au lieu du 0,04 ci-dessus), la densité des étoiles serait exactement de 0,047 étoiles par parsec cube. Ainsi, s'il y avait un espace d'une taille égale à celle du volume de notre planète, et s'il y avait douze oranges d'un diamètre de 8,4 centimètres, circulant librement dans cet espace, elles auraient comparativement la même marge de manœuvre que dix milliards. [^10] des étoiles de taille moyenne se trouveraient dans un espace ellipsoïde d'un diamètre d'environ 500 000 années-lumière et calqué sur le modèle de l'île centrale du Paradis.
 
-## Des étoiles uniformément dispersées ou des agrégats étoilés ?
+## Des étoiles uniformément dispersées ou des agrégats étoilés ?
 
 En règle générale, les étoiles s'accumulent en agrégats de formes et de tailles diverses, avec un énorme vide entre les deux ; pourtant, il peut y avoir des nuages d’hydrogène dans ce vide. L'allégorie des oranges, citée dans _Le Livre d'URANTIA_, dénote-t-elle la densité moyenne des étoiles au sein de telles agrégations, ou suggère-t-elle que les étoiles sont plus ou moins uniformément dispersées dans l'espace, avec des distances interstellaires plus ou moins égales ? Cette question est ouverte aux études basées sur des observations astronomiques.
 
@@ -105,29 +105,29 @@ Bien entendu, de simples calculs comme ceux-ci n’ont rien à voir avec l’ast
 
 ## Remarques
 
-[^1] : _Kosmos, maailman muuttuva kuva_, p. 248, Publications d'Ursa, 1990
+[^1] : _Kosmos, maailman muuttuva kuva_, p. 248, Publications d'Ursa, 1990
 
-[^2] : Un kiloparsec, kpc, équivaut à 3,262 années-lumière
+[^2] : Un kiloparsec, kpc, équivaut à 3,262 années-lumière
 
 [^3] : Astronomie fondamentale, p. 407, Publications d'Ursa, 1984
 
-[^4] : V~su~ = (4 &pi; / 3) Rr~w~r~h~ = 2.103171124 &sdot; 10^14^ pièces^3^.
+[^4] : V~su~ = (4 &pi; / 3) Rr~w~r~h~ = 2.103171124 &sdot; 10^14^ pièces^3^.
 
-[^5] : _Trillion_ américain
+[^5] : _Trillion_ américain
 
-[^6] : _Dix milliards_ britanniques
+[^6] : _Dix milliards_ britanniques
 
-[^7] : Un parsec est la longueur de l'hypoténuse dans un triangle rectangle dont le coin pointu est une seconde d'arc et le côté opposé le plus court est la distance entre la Terre et le Soleil. Cette distance est également une « unité astronomique », l’UA. Une UA équivaut à 1,4959787 &sdot; 10^11^ mètres, ce qui signifie qu'un parsec AU / sin(1 / 3600) = 3,0856777567 &sdot; 10^16^ mètres. Ce chiffre à la troisième puissance donne la valeur métrique d'un parsec cubique, 1 pc^3^ = 2,937998905 &sdot; 10^49^ mètres cubes. Une année-lumière (ly) est la distance parcourue par la lumière en un an ; en d'autres termes, il s'agit d'une année (donnée comme 31 557 600 secondes) multipliée par la vitesse de la lumière (mètres/seconde) : 3,15576 &sdot; 10^{7} &sdot; 2,997925 &sdot; 10^8^ = 9,460731798 &sdot; 10^7+8^ = 9 460731798 &sdot; 10^15^ mètres.
+[^7] : Un parsec est la longueur de l'hypoténuse dans un triangle rectangle dont le coin pointu est une seconde d'arc et le côté opposé le plus court est la distance entre la Terre et le Soleil. Cette distance est également une « unité astronomique », l’UA. Une UA équivaut à 1,4959787 &sdot; 10^11^ mètres, ce qui signifie qu'un parsec AU / sin(1 / 3600) = 3,0856777567 &sdot; 10^16^ mètres. Ce chiffre à la troisième puissance donne la valeur métrique d'un parsec cubique, 1 pc^3^ = 2,937998905 &sdot; 10^49^ mètres cubes. Une année-lumière (ly) est la distance parcourue par la lumière en un an ; en d'autres termes, il s'agit d'une année (donnée comme 31 557 600 secondes) multipliée par la vitesse de la lumière (mètres/seconde) : 3,15576 &sdot; 10^{7} &sdot; 2,997925 &sdot; 10^8^ = 9,460731798 &sdot; 10^7+8^ = 9 460731798 &sdot; 10^15^ mètres.
 
 [^8] : Par conséquent, le rayon ( r~s~ ) de notre Soleil est de 8 &sdot; 10^8^ mètres, et son volume ( V~s~ ) est de 2,144660585 &sdot; 10^27^ mètres cubes. Le rayon de la Terre ( r~u~ ) est de 6,35765 &sdot; 10^6^ mètres, et par conséquent, son volume (V~u~) = 1,076411815 &sdot; 10^21^ mètres cubes.
 
-[^9] : V~o~/V~u~ = V~s~/V~12~ &hArr; V~12~ = V~u~V~s~/V~o~; V~12~ = 8,611216555 &sdot; 10^5^ mètres cubes/douze étoiles ; ce qui en parsecs cubes équivaut à 293,098 pc ^ 3 ^ / 12 étoiles. Ainsi, l'espace accordé à une étoile est de 24,245 pc^3^, soit 0,041 étoile par parsec cube.
+[^9] : V~o~/V~u~ = V~s~/V~12~ &hArr; V~12~ = V~u~V~s~/V~o~; V~12~ = 8,611216555 &sdot; 10^5^ mètres cubes/douze étoiles ; ce qui en parsecs cubes équivaut à 293,098 pc ^ 3 ^ / 12 étoiles. Ainsi, l'espace accordé à une étoile est de 24,245 pc^3^, soit 0,041 étoile par parsec cube.
 
-[^10] : Dix mille milliards_ américains.
+[^10] : Dix mille milliards_ américains.
 
-[^11] : _200 milliards_ américains.
+[^11] : _200 milliards_ américains.
 
-[^12] : La masse du Soleil est de 1,989 &sdot; 10^30^kg
+[^12] : La masse du Soleil est de 1,989 &sdot; 10^30^kg
 
 <figure class="table chapter-navigator">
   <table>

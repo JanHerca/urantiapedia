@@ -45,19 +45,19 @@ J'ai récemment passé du temps à réfléchir sur un détail curieux du Livre d
 
 Je me souviens d'un certain nombre d'autres lecteurs de révélations discutant de ce chiffre apparemment problématique, dont beaucoup que je considère comme des étudiants robustes : André Radatus, Chris Halvorson et d'autres lecteurs chevronnés et sincères que je connais ont abordé ce chiffre ou ont trouvé des conflits avec ce chiffre. Je me souviens qu’il y a quelques années, Chris avait parlé de ce chiffre dans une étude du Perfecting Horizons Institute et avait postulé « qu’il représentait une petite promotion de Jérusem ». Cela m'a rappelé le sentiment que l’évaluation de Chris ne me convenait pas. J'ai toujours pensé que nous devions passer assez de temps sur Jérusem en tant que citoyens (relativement parlant). Encore une fois, plus récemment, André discutait de la durée probablement prolongée que nous passons en tant que citoyens de Jérusem dans un café de l’Institut universitaire d'Urantia auquel je fréquentais. Alors, quelle est la signification de ce chiffre ?
 
-J'ai eu une prise de conscience, qui ressemblait à un « éclair de vérité venant de moi » :
+J'ai eu une prise de conscience, qui ressemblait à un « éclair de vérité venant de moi » :
 
-> « _Ce nombre concerne exclusivement_ ceux qui n'ont pas encore fusionné avec leurs ajusteurs - 187 432 811 nobles _mortels fidèles de Jérusem_.
+> « _Ce nombre concerne exclusivement_ ceux qui n'ont pas encore fusionné avec leurs ajusteurs - 187 432 811 nobles _mortels fidèles de Jérusem_.
 
 Restez avec moi pendant que nous examinons quelques déclarations révélatrices corrélées à cela.
 
-Tout d’abord, je dois souligner qu’il n’existe pas de statistiques spécifiques pour expliquer le pourcentage de personnes qui parviennent à Jérusem sans fusion. Cependant, nous savons que les ascendants peuvent effectivement monter jusqu’à Salvington sans fusionner (et donc fusionnés avec un fragment de Fils). Voici un paragraphe notable qui parle de ces détails :
+Tout d’abord, je dois souligner qu’il n’existe pas de statistiques spécifiques pour expliquer le pourcentage de personnes qui parviennent à Jérusem sans fusion. Cependant, nous savons que les ascendants peuvent effectivement monter jusqu’à Salvington sans fusionner (et donc fusionnés avec un fragment de Fils). Voici un paragraphe notable qui parle de ces détails :
 
 > « Alors que pratiquement tous les mortels survivants sont fusionnés avec leur Ajusteur sur l’un des mondes des maisons, ou bien dès leur arrivée sur les sphères morontielles supérieures, il y a certains cas où la fusion est retardée, et les intéressés n’éprouvent pas la sécurité finale de survivre avant d’avoir atteint les derniers mondes éducatifs du quartier général de l’univers ; et quelques-uns de ces mortels, candidats à la vie sans fin, ne réussissent absolument pas à atteindre la fusion d’identité avec leur fidèle Ajusteur. » (<a id="a55_542"></a>[LU 40:8.1](/fr/The_Urantia_Book/40#p8_1))
 
-Donc, dans une grande simplicité, imaginons que le ratio pour ceux qui n'ont pas fusionné avant Jérusem soit assez faible (1 : 1000 ascendants – ou peut-être 1 : 2000). Il semble bien entendu logique que ce ratio puisse être considérablement plus élevé que cela. Pour commencer, utilisons 1: 1000 comme rapport : 187 432 811 x 1 000 / 607 (607 étant le nombre de mondes habités à Satania à l’époque) donnerait 308 785 520 (environ 308 millions) d'habitants totaux sur Jérusem pour chacun des mondes. à Satania au moment de la rébellion de Lucifer.
+Donc, dans une grande simplicité, imaginons que le ratio pour ceux qui n'ont pas fusionné avant Jérusem soit assez faible (1 : 1000 ascendants – ou peut-être 1 : 2000). Il semble bien entendu logique que ce ratio puisse être considérablement plus élevé que cela. Pour commencer, utilisons 1: 1000 comme rapport : 187 432 811 x 1 000 / 607 (607 étant le nombre de mondes habités à Satania à l’époque) donnerait 308 785 520 (environ 308 millions) d'habitants totaux sur Jérusem pour chacun des mondes. à Satania au moment de la rébellion de Lucifer.
 
-Ensuite, utilisons un rapport de 1 : 2000 :
+Ensuite, utilisons un rapport de 1 : 2000 :
 
 187 432 811 x 2 000/607 équivaut à 617 571 041 (environ 617 millions) d'habitants sur Jérusem - par sphère mortelle dans notre système local de Satania à l’époque.
 
@@ -66,13 +66,13 @@ Ensuite, utilisons un rapport de 1 : 2000 :
 <figcaption><em>A survécu à l’épreuve enflammée</em>, par <a href="https://visionafar.com/">Gary Tonge</a><figcaption>
 </figure>
 
-Après avoir pris conscience de cela, j'ai fait des recherches sur la révélation pour identifier toute citation corroborant cette possibilité ; mais il m'a semblé logique et véridique que les ascendeurs post-fusion soient à l’épreuve de la rébellion ; ils ne peuvent sûrement pas tomber !
+Après avoir pris conscience de cela, j'ai fait des recherches sur la révélation pour identifier toute citation corroborant cette possibilité ; mais il m'a semblé logique et véridique que les ascendeurs post-fusion soient à l’épreuve de la rébellion ; ils ne peuvent sûrement pas tomber !
 
-Prendre une note momentanée ; Je pense qu’il vaut la peine de préciser que je doute fort que la vie ait été facile pour les mortels fusionnés sur les sphères des maisons au moment de la rébellion.
+Prendre une note momentanée ; Je pense qu’il vaut la peine de préciser que je doute fort que la vie ait été facile pour les mortels fusionnés sur les sphères des maisons au moment de la rébellion.
 
 Malgré «l’immunité» personnelle d'un ascendant fusionné, imaginez un instant l’horreur et l’impuissance dont il aurait pu être témoin si ses contemporains (fils, filles, parents, amis) qui n'avaient pas encore fusionné tombaient dans la rébellion alors qu’ils avaient leur éternelle «immunité». garde-corps »d'être fusionné. Cela a dû être une période très pénible pour tous.
 
-Voici quelques-unes des citations les plus pertinentes que j’ai recherchées et qui aident à corréler ma nouvelle compréhension de ce nombre curieux :
+Voici quelques-unes des citations les plus pertinentes que j’ai recherchées et qui aident à corréler ma nouvelle compréhension de ce nombre curieux :
 
 1. Ce paragraphe explique comment les sphères des maisons inférieures comptaient plus de non-fuseurs - donc davantage d'entre eux tombèrent dans la rébellion.
 
@@ -96,13 +96,13 @@ Voici quelques-unes des citations les plus pertinentes que j’ai recherchées e
 
 En regardant logiquement ces citations supplémentaires, cela semble clair : les mortels ascendants qui fusionnent ont – grâce aux conditions préalables de la fusion des ajusteurs – fait leurs preuves dans leur voyage personnel de mortel à immortel. Par conséquent, au moment de la rébellion, ces ascenseurs fusionnés étaient « au-dessus » de cette épreuve intense de chute potentielle. Ils ont été fusionnés avec un fragment du Père Parfait et sont donc au-delà de « l’épreuve ardente ».
 
-Cependant, ces 187 432 811 ascendants méritoires (avec sans aucun doute les nombreux milliards d’ascendeurs non fusionnés naviguant dans les mondes des maisons) ont été testés de manière significative, et pourtant ils ne sont pas tombés. Lorsqu’on le considère dans le contexte de la rébellion – et des actions pécheresses à l’œuvre autour de ceux qui sont pris dans ces événements déconcertants – le paragraphe suivant est une déclaration profonde :
+Cependant, ces 187 432 811 ascendants méritoires (avec sans aucun doute les nombreux milliards d’ascendeurs non fusionnés naviguant dans les mondes des maisons) ont été testés de manière significative, et pourtant ils ne sont pas tombés. Lorsqu’on le considère dans le contexte de la rébellion – et des actions pécheresses à l’œuvre autour de ceux qui sont pris dans ces événements déconcertants – le paragraphe suivant est une déclaration profonde :
 
 > « Aucun citoyen de Jérusem n’a été perdu. Tous les mortels ascendants ont survécu aux ardentes tribulations et sont sortis triomphants et entièrement victorieux de l’épreuve décisive. » (<a id="a100_189"></a>[LU 53:7.12](/fr/The_Urantia_Book/53#p7_12))
 
-J’y réfléchis encore une fois. Ce que les auteurs sous-entendent ici me semble être :
+J’y réfléchis encore une fois. Ce que les auteurs sous-entendent ici me semble être :
 
-Les mortels ascendants qui avaient atteint Jérusem – mais qui n’avaient pas encore fusionné – furent capables de surmonter sans équivoque le risque de tomber dans la rébellion. Autrement dit : sur ces 187 432 811 ascendants résidant à Jérusem, aucun d’eux n’est tombé.
+Les mortels ascendants qui avaient atteint Jérusem – mais qui n’avaient pas encore fusionné – furent capables de surmonter sans équivoque le risque de tomber dans la rébellion. Autrement dit : sur ces 187 432 811 ascendants résidant à Jérusem, aucun d’eux n’est tombé.
 
 Statistiquement, cela indique clairement que la croissance personnelle et la qualification pour la citoyenneté de Jérusem, indépendamment de la fusion, étaient suffisantes pour protéger de tout ce qui assaillit ces nobles ascendants mortels lors de la rébellion qui a obscurci notre système il y a 200 000 ans.
 

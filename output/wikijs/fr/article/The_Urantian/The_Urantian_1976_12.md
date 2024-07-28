@@ -36,7 +36,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Un rayonnement intérieur
 
-«_Que votre lumière brille devant les hommes de telle sorte qu’ils puissent voir vos bonnes œuvres et être amenés à glorifier votre Père qui est aux cieux._» (<a id="a38_159"></a>[LU 140:3.13](/fr/The_Urantia_Book/140#p3_13)) Ainsi parla Jésus aux apôtres dans le sermon d'ordination ; et depuis plus de 1900 ans, les hommes ont exécuté cette injonction selon leur propre illumination et capacité conceptuelle.
+«_Que votre lumière brille devant les hommes de telle sorte qu’ils puissent voir vos bonnes œuvres et être amenés à glorifier votre Père qui est aux cieux._» (<a id="a38_159"></a>[LU 140:3.13](/fr/The_Urantia_Book/140#p3_13)) Ainsi parla Jésus aux apôtres dans le sermon d'ordination ; et depuis plus de 1900 ans, les hommes ont exécuté cette injonction selon leur propre illumination et capacité conceptuelle.
 
 Nous, en tant qu'Urantiens, sommes individuellement confrontés au défi de savoir comment laisser notre « lumière briller tellement » que d'autres, en la voyant, puissent être tentés de emboîter le pas, chacun selon sa propre compréhension.
 
@@ -64,7 +64,7 @@ Combien d’hommes et de femmes rencontrons-nous qui croient en Dieu et pourtant
 
 Si Dieu existe et qu’il est Dieu, alors il est omnipotent, omniscient et omniprésent. Il peut être loin, mais il ne peut pas être seulement loin : il doit « être plus proche que les mains, les pieds ou le souffle ». Son existence doit avoir des conséquences sur la vie de chaque individu.
 
-Dieu a un plan pour l'Univers des Univers. « Il connaît la fin depuis le début. » Il y a une direction dans laquelle l’ensemble évolue. Dieu n’a pas créé et soutenu éternellement l’univers juste pour voir ce qui allait arriver. La prise de conscience qu'il existe un plan de progression universelle, tant pour l'individu que pour l'univers, peut être une première étape vers la prise de conscience que l'existence de Dieu doit signifier quelque chose pour chacun de nous lorsque nous prenons des décisions dans notre vie quotidienne. Il n'est pas possible de vivre sa vie en dehors de Dieu. Car « En Lui, nous vivons, bougeons et avons tous notre être ».
+Dieu a un plan pour l'Univers des Univers. « Il connaît la fin depuis le début. » Il y a une direction dans laquelle l’ensemble évolue. Dieu n’a pas créé et soutenu éternellement l’univers juste pour voir ce qui allait arriver. La prise de conscience qu'il existe un plan de progression universelle, tant pour l'individu que pour l'univers, peut être une première étape vers la prise de conscience que l'existence de Dieu doit signifier quelque chose pour chacun de nous lorsque nous prenons des décisions dans notre vie quotidienne. Il n'est pas possible de vivre sa vie en dehors de Dieu. Car « En Lui, nous vivons, bougeons et avons tous notre être ».
 
 [Lire la suite](/fr/article/Matthew_Rapaport/Living_In_Reality)
 

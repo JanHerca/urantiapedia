@@ -83,11 +83,11 @@ Cette technique rend possible la religion de l'esprit que nous enseigne Jésus, 
 > **Autres notes**
 > 
 > 
-> - Libre arbitre : rien ne nous empêche d’adorer et de réaliser les idéaux divins d’une manière ou d’une autre
+> - Libre arbitre : rien ne nous empêche d’adorer et de réaliser les idéaux divins d’une manière ou d’une autre
 > - Point de départ avant le culte : détente + tout autre contact avec l'esprit <a id="a86_80"></a>[LU 103:4.1](/fr/The_Urantia_Book/103#p4_1); <a id="a86_125"></a>[LU 160:3.1](/fr/The_Urantia_Book/160#p3_1)
 > - L'iniquité coupe cette forme de contact ainsi que d'autres formes de contact avec l'esprit. <a id="a87_96"></a>[LU 146:2.2](/fr/The_Urantia_Book/146#p2_2)
 > - Plus nous le connaissons, meilleure est la qualité de l’adoration. <a id="a88_71"></a>[LU 27:7.1](/fr/The_Urantia_Book/27#p7_1); <a id="a88_114"></a>[LU 144:3.23](/fr/The_Urantia_Book/144#p3_23)
-> - Vue large : Nous adorons Dieu lorsque nous faisons sa volonté <a id="a89_66"></a>[LU 131:5.3](/fr/The_Urantia_Book/131#p5_3); <a id="a89_111"></a>[LU 131:10.5](/fr/The_Urantia_Book/131#p10_5)
+> - Vue large : Nous adorons Dieu lorsque nous faisons sa volonté <a id="a89_66"></a>[LU 131:5.3](/fr/The_Urantia_Book/131#p5_3); <a id="a89_111"></a>[LU 131:10.5](/fr/The_Urantia_Book/131#p10_5)
 {.is-info}
 
 Il existe d’autres formes de contact avec l’esprit dans l’esprit liées à l’adoration. Tout d’abord, la prière d’action de grâce est présentée comme la prière idéale ou autre forme de culte, en l’assimilant à elle. Et enfin, nous avons la méditation réflexive et vénérable.

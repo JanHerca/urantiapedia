@@ -40,19 +40,19 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Anna Acevedo, Salvador, Brésil_
 
-C’est un grand plaisir de partager avec vous, certaines de mes expériences avec L’École Internet du Livre d’Urantia (UBIS). Je fus introduite au _Livre d’Urantia_ par un ami, et ce fut le cadeau de ma vie !
+C’est un grand plaisir de partager avec vous, certaines de mes expériences avec L’École Internet du Livre d’Urantia (UBIS). Je fus introduite au _Livre d’Urantia_ par un ami, et ce fut le cadeau de ma vie !
 
 Comme certains lecteurs, je trouvais ce livre trop dense et difficile à comprendre. Heureusement, mon ami organisa un groupe d’étude et, encore une fois, le destin me sourit parce que ce groupe d’étude était dirigé par l’un de mes professeurs, Geraldo Queiroz. À partir de ce moment-là, mes yeux s’ouvrirent à un monde que je ne connaissais pas et vers un voyage ascendant que je ne pouvais m’imaginer exister.
 
-Lorsque Geraldo prit une année sabbatique à Chicago, en Illinois, le groupe se dispersa et je n’étudiai plus le livre pendant longtemps. On aurait dit une éternité ! Mais Geraldo revint et nous parla d’UBIS. Il nous dit que la Fondation Urantia était intéressée à proposer un cours en portugais et qu’il serait l’animateur du groupe !
+Lorsque Geraldo prit une année sabbatique à Chicago, en Illinois, le groupe se dispersa et je n’étudiai plus le livre pendant longtemps. On aurait dit une éternité ! Mais Geraldo revint et nous parla d’UBIS. Il nous dit que la Fondation Urantia était intéressée à proposer un cours en portugais et qu’il serait l’animateur du groupe !
 
-J’étais ravie par cette nouvelle et je participai à tous les cours en portugais qu’UBIS proposa. Le premier cours était « Connaître le Jésus humain et le divin Jésus. » Cette étude changea entièrement le concept que j’avais de la vie de Michaël de Nebadon, ici sur Urantia !
+J’étais ravie par cette nouvelle et je participai à tous les cours en portugais qu’UBIS proposa. Le premier cours était « Connaître le Jésus humain et le divin Jésus. » Cette étude changea entièrement le concept que j’avais de la vie de Michaël de Nebadon, ici sur Urantia !
 
 Par mes études d’UBIS, je devins une lectrice plus assidue et active dans le mouvement urantien, ici au Brésil. Je suis présentement un membre du groupe de futurs enseignants animateurs, de la branche portugaise, un projet magnifique et avant-gardiste, qui je pense attirera plus de lecteurs et de chercheurs de vérité brésiliens.
 
 Grâce aux cours d’UBIS, j’ai construit des liens d’amitié pour la vie entière et ma gratitude pour mon enseignant/animateur Geraldo Queiroz sera éternelle.
 
-J’aime aussi écrire de la poésie d’adoration et suis heureuse de partager avec vous l’un de mes poèmes :
+J’aime aussi écrire de la poésie d’adoration et suis heureuse de partager avec vous l’un de mes poèmes :
 
 <p style="text-align:center;">
 Urantia<br>
@@ -72,7 +72,7 @@ Seigneur,Seigneur<br>
 Puis-je trébucher sur des pierres mais jamais sur mes mots<br>
 Seigneur,Seigneur<br>
 Je suis Votre création et laissez-moi à la fin de ce voyage<br>
-Retourner vers Vous !<br>
+Retourner vers Vous !<br>
 </p>
 
 

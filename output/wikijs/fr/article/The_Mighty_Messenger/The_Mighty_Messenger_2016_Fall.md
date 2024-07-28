@@ -38,7 +38,7 @@ Et enfin, notre sincère gratitude va à tous pour vos prières et votre soutien
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2016_Fall/005896.jpg">
-<figcaption><em>De gauche à droite : rangée arrière - Chris Wood, Michael Challis, Sharon Beasley, Steve Dreier ; Première rangée - Merindi Belarski, Geoff Theiss, John Hales, Susan Owen, Paula Thompson</em></figcaption>
+<figcaption><em>De gauche à droite : rangée arrière - Chris Wood, Michael Challis, Sharon Beasley, Steve Dreier ; Première rangée - Merindi Belarski, Geoff Theiss, John Hales, Susan Owen, Paula Thompson</em></figcaption>
 </figure>
 
 
@@ -50,15 +50,15 @@ Et enfin, notre sincère gratitude va à tous pour vos prières et votre soutien
 > 19 – 23 juillet 2017 (Pré-conférence, 17 juillet – 19 juillet)
 {.is-info}
 
-**Réservez les dates !** Nous aimerions vous aider à planifier la prochaine conférence internationale, que ce soit en tant que participant, hôte d'atelier ou exposant. La conférence est prévue avec une liste complète de toutes les choses habituelles que nous apprécions et attendons : des conférenciers pléniers avec une expérience et une vision profonde de la Révélation, des présentateurs d'ateliers sur une variété de sujets d'intérêt, de musique et d'art du Livre d'Urantia. Nous voulons que vous en soyez assurés. Certaines des âmes parfumées désormais programmées incluent des noms familiers : Angie Thurston, Judy Langston, Gard Jameson, Pato Banton, Nadi Burton, Cristina Seaborn, Ben Bowler, Betina Gray, Derek Samaras et Patrick Yesh. Il y a beaucoup plus à venir dans le programme sous la direction de Peter Laurence, Tim Hobbs et Miranda Clendening, coprésidents du programme.
+**Réservez les dates !** Nous aimerions vous aider à planifier la prochaine conférence internationale, que ce soit en tant que participant, hôte d'atelier ou exposant. La conférence est prévue avec une liste complète de toutes les choses habituelles que nous apprécions et attendons : des conférenciers pléniers avec une expérience et une vision profonde de la Révélation, des présentateurs d'ateliers sur une variété de sujets d'intérêt, de musique et d'art du Livre d'Urantia. Nous voulons que vous en soyez assurés. Certaines des âmes parfumées désormais programmées incluent des noms familiers : Angie Thurston, Judy Langston, Gard Jameson, Pato Banton, Nadi Burton, Cristina Seaborn, Ben Bowler, Betina Gray, Derek Samaras et Patrick Yesh. Il y a beaucoup plus à venir dans le programme sous la direction de Peter Laurence, Tim Hobbs et Miranda Clendening, coprésidents du programme.
 
-Ceux qui souhaitent soumettre une proposition pour prendre la parole ou présenter un atelier peuvent le faire avant le 31 décembre 2016, ici : www.ic17.org/workshop-proposals/
+Ceux qui souhaitent soumettre une proposition pour prendre la parole ou présenter un atelier peuvent le faire avant le 31 décembre 2016, ici : www.ic17.org/workshop-proposals/
 
 Au fur et à mesure que les conférenciers et les animateurs d'atelier feront des propositions au cours des trois prochains mois et seront sélectionnés, vous serez informés au fur et à mesure, à la fois dans le mini Messenger mensuel et sur le site Web www.ic17.org. De plus, si vous souhaitez voir un aperçu actuel du programme de la conférence, vous pouvez consulter : www.ic17.org/save-the-date/ 
 
 Quelques événements supplémentaires auront lieu dans diverses zones du campus de l’Université de Denver et sont facultatifs pour les lecteurs du Livre d'Urantia. Celles-ci sont organisées comme le point culminant des idées provenant en grande partie du Comité des jeunes et des jeunes adultes, du Comité international, du Comité interconfessionnel, du Comité de sensibilisation et des coprésidents Miranda Clendening et Tim Hobbs qui ont fait beaucoup de travail pour diffuser les enseignements du Livre d'Urantia dans les entreprises. , le monde interconfessionnel et les systèmes d’éducation et de valeurs. Ce sont des concepts créatifs sur la façon dont nous pouvons inciter les gens à découvrir le livre de manières nouvelles et différentes.
 
-Les trois domaines destinés tant aux lecteurs chevronnés qu’aux personnes les plus mûres pour la découverte des enseignements sont abordés tout au long de la conférence sous les titres de Vérité, Beauté et Bonté comme suit :
+Les trois domaines destinés tant aux lecteurs chevronnés qu’aux personnes les plus mûres pour la découverte des enseignements sont abordés tout au long de la conférence sous les titres de Vérité, Beauté et Bonté comme suit :
 - Journée de la spiritualité émergente (découverte de la vérité) le 20 juillet
 - Journée internationale des bonnes œuvres (Goodness Discovery) le 21 juillet
 - Journée Inter-Spiritualité (Découverte de la Vérité/Unité Spirituelle) le 22 juillet
@@ -70,7 +70,7 @@ Soirée de présentation multimédia YaYA – jeudi 20 juillet
 
 De jeunes sommités urantiennes telles qu’Angie Thurston, Mae Thompson, Geoff Theiss, Teuvo Orjala et Liz Craig, qui ont créé le groupe original de jeunes et de jeunes adultes urantiens, ainsi que d'autres jeunes dirigeants urantiens du monde entier, présenteront leur travail et leurs visions pour l’avenir du mouvement Urantia. Cela comprendra une présentation multimédia sur les nombreuses façons dont les enseignements d'Urantia sont diffusés autour de la planète par et vers les jeunes. (Les annonces et biographies spécifiques des conférenciers seront annoncées.)
 
-Quelques points forts à rechercher :
+Quelques points forts à rechercher :
 - Festival Interconfessionnel (Découverte de la Vérité/Unité Spirituelle)
 - Un grand événement de conférence nocturne visant à attirer les millennials et les jeunes, centré sur les bonnes œuvres internationales (Goodness Discovery)
 - Galerie des Arts Visionnaires (Beauty Discovery) qui comprend principalement des œuvres d'artistes d'Urantia, et certains artistes exposeront également leurs œuvres inspirées par les concepts cosmiques du _Livre d'Urantia_ 
@@ -116,7 +116,7 @@ La planification était sous la responsabilité de l’UAUS, Katrina Glavan-Heis
 
 Le comité d'éducation des bourses s'est vu confier la responsabilité du programme, et le comité du programme était composé à la fois de membres du secteur de l’éducation et d'autres. Il a été présidé avec brio par Sherry Layton, membre adjointe du Comité de l’éducation. Sherry a déclaré : « Nous avons eu la chance de disposer du temps et des talents de nos présentateurs d'ateliers, de nos conférenciers en plénière, de nos organisateurs de conférences et de nos jeunes bénévoles. Ces talents ont été mis à profit pour le plus grand bien.
 
-Il y avait quatre principaux intervenants en plénière : Mo Siegel, Carolyn Prentice, Jeffrey Wattles et David Kulieke. Leurs présentations peuvent être vues à : 
+Il y avait quatre principaux intervenants en plénière : Mo Siegel, Carolyn Prentice, Jeffrey Wattles et David Kulieke. Leurs présentations peuvent être vues à : 
 
 https://www.youtube.com/playlist?list=PLQYC6XW8Ev1dVcV1kTXosnJ4CpMU0dbWI.
 
@@ -165,21 +165,21 @@ Voici quelques-uns des groupes qui ont célébré :
 - Portland, Oregon
 - Deerfield Beach, Floride
 
-## Le pipeline de lumière décolle à nouveau !
+## Le pipeline de lumière décolle à nouveau !
 
 Au troisième trimestre 2016, nos bénévoles du Pipeline de Lumière ont placé trois cent quatre-vingt-dix-sept exemplaires du _Le Livre d'Urantia_ dans dix pays. Vos dons au Pipeline ont permis de livrer des livres à des lecteurs et à des groupes d'étude au Pérou, au Brésil, au Nigéria, au Chili, au Mexique, en Australie, au Salvador, en France, aux États-Unis et au Guatemala.
 
-Les efforts actuels portent le total historique de notre Pipeline à six mille sept cent cinquante-deux exemplaires du _Livre d'Urantia_ placés dans quatre-vingt-cinq pays à travers le monde. Un grand merci aux merveilleux bénévoles qui font circuler ce flux de livres dans le monde pour nous !
+Les efforts actuels portent le total historique de notre Pipeline à six mille sept cent cinquante-deux exemplaires du _Livre d'Urantia_ placés dans quatre-vingt-cinq pays à travers le monde. Un grand merci aux merveilleux bénévoles qui font circuler ce flux de livres dans le monde pour nous !
 
 Nous apprécions profondément les contributions de nos bénévoles et de nos donateurs.
 
-Si vous souhaitez contribuer à ce travail, les dons peuvent être effectués en ligne à : http://urantiabook.org/urantia-book-store/contributions
+Si vous souhaitez contribuer à ce travail, les dons peuvent être effectués en ligne à : http://urantiabook.org/urantia-book-store/contributions
 
 ou par courrier à : _The Urantia Book_ Fellowship, PO Box 6631, Broomfield, CO 80021
 
 Merci beaucoup pour ton aide. Michelle Klimesh, journaliste aux pipelines
 
-## « Ministre de l’Évangile »
+## « Ministre de l’Évangile »
 
 10 – 12 mars 2017
 
@@ -190,13 +190,13 @@ Kansas City, Missouri
 La Société Urantia Heart of America de Kansas City, MO, vous invite à nous rejoindre dans ce rassemblement.
 Nous avons reçu un don rare et une responsabilité remarquable. Nous le croyons fermement. En raison de cette croyance, notre rassemblement est une opportunité de travail pour explorer les manières individuelles et personnelles de vivre l’Évangile – ainsi qu’en groupe. Nous nous réunissons pour approfondir notre ministère ou en commencer un.
 
-Préparez-vous à avoir des relations intimes avec environ 10 personnes pendant tout le week-end. Nous travaillerons et explorerons les questions : Qu’est-ce que l’Évangile ? De quoi avons-nous besoin pour développer notre propre ministère ou comment pouvons-nous partager le nôtre avec les autres. Comment pouvons-nous personnellement diffuser l’Évangile ? Si cela vous intéresse, veuillez vous inscrire pour être avec nous.
+Préparez-vous à avoir des relations intimes avec environ 10 personnes pendant tout le week-end. Nous travaillerons et explorerons les questions : Qu’est-ce que l’Évangile ? De quoi avons-nous besoin pour développer notre propre ministère ou comment pouvons-nous partager le nôtre avec les autres. Comment pouvons-nous personnellement diffuser l’Évangile ? Si cela vous intéresse, veuillez vous inscrire pour être avec nous.
 
-Pour vous inscrire, contactez : Susan Cook 816-716-0330 ou solonia@juno.com
+Pour vous inscrire, contactez : Susan Cook 816-716-0330 ou solonia@juno.com
 
 Frais de conférence : 175 $ en occupation double
 
-Il y a une limite de 50 personnes pour ce rassemblement. Veuillez vous inscrire tôt !
+Il y a une limite de 50 personnes pour ce rassemblement. Veuillez vous inscrire tôt !
 
 ## Rencontrez le Comité Exécutif
 
@@ -250,7 +250,7 @@ Dana vit dans le sud de l’Indiana avec sa femme Ruth et leur fils et leur fill
 
 _Secrétaire général_
 
-Geoff est un lecteur auto-découvert de deuxième génération. Il est né, a grandi, a fait ses études et est confortablement installé dans la région de la baie de San Francisco où il travaille comme ingénieur chimiste (il fabrique de la mousse à mémoire de forme !). Si vous le voyez un matin de semaine, vous risquez de le confondre avec un savant fou. Quant à son caractère général, il est à la fois accro à l’enthousiasme, à deux fois touche-à-tout et à moitié aventurier mondial. Mélangée à tout cela et inculquée par les enseignements du _Livre d'Urantia_, il y a une relation personnelle réelle, vibrante et ennoblissante avec Dieu qu’il a continuellement cherché à mieux comprendre et à renforcer. Ayant trouvé cette communauté dynamique du Livre d’Urantia, il est tombé amoureux d’elle et d’un sens enhardi de son propre but (et cosmique). Il est éternellement reconnaissant d'être en vie. Et une partie du fait d'être dans cette nouvelle communauté et une partie du fait de montrer cette gratitude consiste à aider d'autres personnes à trouver la même chose. (geoff.theiss@gmail.com)
+Geoff est un lecteur auto-découvert de deuxième génération. Il est né, a grandi, a fait ses études et est confortablement installé dans la région de la baie de San Francisco où il travaille comme ingénieur chimiste (il fabrique de la mousse à mémoire de forme !). Si vous le voyez un matin de semaine, vous risquez de le confondre avec un savant fou. Quant à son caractère général, il est à la fois accro à l’enthousiasme, à deux fois touche-à-tout et à moitié aventurier mondial. Mélangée à tout cela et inculquée par les enseignements du _Livre d'Urantia_, il y a une relation personnelle réelle, vibrante et ennoblissante avec Dieu qu’il a continuellement cherché à mieux comprendre et à renforcer. Ayant trouvé cette communauté dynamique du Livre d’Urantia, il est tombé amoureux d’elle et d’un sens enhardi de son propre but (et cosmique). Il est éternellement reconnaissant d'être en vie. Et une partie du fait d'être dans cette nouvelle communauté et une partie du fait de montrer cette gratitude consiste à aider d'autres personnes à trouver la même chose. (geoff.theiss@gmail.com)
 
 **Janet Graham**
 
@@ -332,7 +332,7 @@ Les membres du Comité d'éducation de la Fellowship du Livre d'Urantia se consa
 
 De plus, le comité a cherché des moyens de déployer ses efforts sur le terrain. Cette année, le comité a prévu sa réunion annuelle le week-end à Fort Wayne, dans l’Indiana. Samedi après-midi et soir, les membres du comité ont présenté un atelier et un dîner aux lecteurs locaux, notamment aux membres de la Fort Wayne Society. L'atelier « Les 12 Apôtres » a été l’occasion de prendre connaissance du matériel que le comité développe et de mettre en pratique ses principes.
 
-Cet atelier, ainsi que de nombreux autres matériels pédagogiques, peuvent être achetés sur la page Web du Comité d’Éducation, qui se trouve sous l’onglet « Étude » sur le site Web de la Fellowship _Le Livre d’Urantia_. Parmi les documents gratuits figurent les « 12 Apôtres » et d'autres documents d'étude et d'atelier qui peuvent être téléchargés et utilisés par tout groupe ou individu. On peut trouver ces ateliers sous « Ressources ». D'autres ressources précieuses sont une page de plusieurs pages « Références principales sur l’éducation du _Livre d'Urantia_ par catégorie » et une « Communauté : Commencer et organiser des groupes d'étude efficaces ». Le comité travaille dur pour améliorer son site Web, ajouter aux ressources que les lecteurs peuvent utiliser et développer davantage de services utiles à la communauté Urantia.
+Cet atelier, ainsi que de nombreux autres matériels pédagogiques, peuvent être achetés sur la page Web du Comité d’Éducation, qui se trouve sous l’onglet « Étude » sur le site Web de la Fellowship _Le Livre d’Urantia_. Parmi les documents gratuits figurent les « 12 Apôtres » et d'autres documents d'étude et d'atelier qui peuvent être téléchargés et utilisés par tout groupe ou individu. On peut trouver ces ateliers sous « Ressources ». D'autres ressources précieuses sont une page de plusieurs pages « Références principales sur l’éducation du _Livre d'Urantia_ par catégorie » et une « Communauté : Commencer et organiser des groupes d'étude efficaces ». Le comité travaille dur pour améliorer son site Web, ajouter aux ressources que les lecteurs peuvent utiliser et développer davantage de services utiles à la communauté Urantia.
 
 ## Vous recherchez un groupe d'étude ?
 
@@ -341,9 +341,9 @@ Cet atelier, ainsi que de nombreux autres matériels pédagogiques, peuvent êtr
 </figure>
 
 - Pour trouver un groupe d'étude, vous pouvez aller sur le site Web de la Fellowship (www.urantiabook.org) et cliquer sur le lien « Trouver un groupe d'étude » pour localiser un groupe d'étude près de chez vous.
-- Vous pouvez également localiser le lien vers « Groupes d'étude et émissions de radio en ligne sur Urantia ». De nombreux groupes de lecture fonctionnent en ligne via Skype ou Zoom, dans le cadre de leurs réunions de groupes d'étude.
-- Pour un régal spécial le samedi, connectez-vous à la webdiffusion « Cosmic Citizen » avec appel à 10h00, heure des Rocheuses. Numéro d'appel pour la webdiffusion : www.blogtalkradio.com/CosmicCitizen. Appelez le numéro : 646-716-8158 (Amérique du Nord) pendant la diffusion de l’émission. Des émissions archivées sont disponibles.
-- Pour un régal spécial du mardi, connectez-vous à Symmetry of Soul sur Blogtalk Radio : www.blogtalkradio.com/symmetryofsoul à 18 h, MT. Des émissions archivées sont disponibles.
+- Vous pouvez également localiser le lien vers « Groupes d'étude et émissions de radio en ligne sur Urantia ». De nombreux groupes de lecture fonctionnent en ligne via Skype ou Zoom, dans le cadre de leurs réunions de groupes d'étude.
+- Pour un régal spécial le samedi, connectez-vous à la webdiffusion « Cosmic Citizen » avec appel à 10h00, heure des Rocheuses. Numéro d'appel pour la webdiffusion : www.blogtalkradio.com/CosmicCitizen. Appelez le numéro : 646-716-8158 (Amérique du Nord) pendant la diffusion de l’émission. Des émissions archivées sont disponibles.
+- Pour un régal spécial du mardi, connectez-vous à Symmetry of Soul sur Blogtalk Radio : www.blogtalkradio.com/symmetryofsoul à 18 h, MT. Des émissions archivées sont disponibles.
 
 ## Le comité d'éducation à Fort. Wayne, IN
 
@@ -376,10 +376,10 @@ Nous voulons que vous soyez engagés, éclairés, touchés spirituellement et qu
 Il s'agit d'un centre de retraite avec dortoirs. Il y a 5 chambres pouvant accueillir des couples et le reste sont des lits superposés avec plusieurs chambres dans une chambre.
 
 Le lien d’inscription sera envoyé via de nombreuses méthodes, mais si vous ne le voyez pas, veuillez envoyer un e-mail à l’un de nous et nous vous l’enverrons.
-Présidente de la conférence : Susan Cook, solonia@juno.com
+Présidente de la conférence : Susan Cook, solonia@juno.com
 Co-président de la conférence : Antonio Schefer conferences@urantia-association.org
-Président du programme : Tom Allen tommykaren1@att.net
-Présidente des inscriptions : Karen Allen tommykaren1@att.net
+Président du programme : Tom Allen tommykaren1@att.net
+Présidente des inscriptions : Karen Allen tommykaren1@att.net
 
 ## Conférence Urantia en Russie
 
@@ -427,7 +427,7 @@ Le 23 juin 2016, Paula Thompson et Joann Wiedman ont accédé au Pipeline de Lum
 
 Puis, le 24 septembre, nous recevons ce mail d'Emeka : « C'est avec grand plaisir que j'annonce que nous avons reçu les livres. Veuillez trouver ci-joint les photos que nous avons prises à l’entrepôt de l’entreprise de logistique qui a expédié les livres. 
 
-Quel plaisir de recevoir ce message ; comme ce fut le cas pour les responsables du bureau des bourses, le Pipeline of Light, la Northern Light Society et les membres passés et présents du Comité international des bourses.
+Quel plaisir de recevoir ce message ; comme ce fut le cas pour les responsables du bureau des bourses, le Pipeline of Light, la Northern Light Society et les membres passés et présents du Comité international des bourses.
 
 Ces livres ont été envoyés gratuitement aux dirigeants du Nigeria. Notre accord avec eux est que, lorsqu’ils seront prêts pour une deuxième expédition de Livres d'Urantia, le coût pour eux sera de moitié. 
 
@@ -436,16 +436,16 @@ Nous espérons fervent que cette méthode consistant à mettre de grandes quanti
 ## Évènements à venir…
 
 L'année prochaine sera remplie d'un certain nombre d'activités pour les lecteurs du Livre d'Urantia. En voici quelques-uns déjà au programme : 
-- **10 – 12 mars 2017 « Ministering the Gospel »** Heartland Retreat Center, Kansas City, MO. Pour vous inscrire, contactez : solonia@juno.com. 
+- **10 – 12 mars 2017 « Ministering the Gospel »** Heartland Retreat Center, Kansas City, MO. Pour vous inscrire, contactez : solonia@juno.com. 
 - **29 – 23 juillet 2017 Conférence internationale « Spreading Our Wings »**, Denver, CO. Pour plus d'informations : www.ic17.org. 
 - **18 – 21 août 2017 Symposium scientifique**, Vivre l’éclipse solaire le jour de l’anniversaire de Jésus, Wilderness Camping & Retreat Center, Lawson, MO. Pour plus d’informations : tommykaren1@att.net. 
 
-N’oubliez pas que la Communauté a besoin de votre aide pour continuer à servir la révélation dans le monde entier. Pour plus d'informations sur les différentes options de don, rendez-vous sur le site Web de la Fellowship : www.urantiabook.org. et appuyez sur le lien « Faire un don ». Ou envoyez un chèque à _The Urantia Book_ Fellowship, PO Box 6631, Broomfield, CO, 89921, USA
+N’oubliez pas que la Communauté a besoin de votre aide pour continuer à servir la révélation dans le monde entier. Pour plus d'informations sur les différentes options de don, rendez-vous sur le site Web de la Fellowship : www.urantiabook.org. et appuyez sur le lien « Faire un don ». Ou envoyez un chèque à _The Urantia Book_ Fellowship, PO Box 6631, Broomfield, CO, 89921, USA
 
 ## Personnel du « The Mighty Messenger »
 
 Publié par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship.
-Membres : Linda Buselli, président Larry Bowman, Cece Forrester, Sage Waitts
+Membres : Linda Buselli, président Larry Bowman, Cece Forrester, Sage Waitts
 877.288.3772
 bourse@urantiabook.org
 www.urantiabook.org

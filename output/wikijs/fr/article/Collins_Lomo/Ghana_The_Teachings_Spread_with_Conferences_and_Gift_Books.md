@@ -45,7 +45,7 @@ _Par Collins Lomo, Accra, Ghana_
 <figcaption><em>Adinkra Artwork</em></figcaption>
 </figure>
 
-_Note de l’éditeur : la Fondation Urantia envoya 50 livres d’Urantia en anglais à Ghana pour soutenir les efforts des lecteurs sur place afin de semer le livre et ses enseignements à travers l’Afrique._
+_Note de l’éditeur : la Fondation Urantia envoya 50 livres d’Urantia en anglais à Ghana pour soutenir les efforts des lecteurs sur place afin de semer le livre et ses enseignements à travers l’Afrique._
 
 La Conférence Urantia Internationale de Ghana, qui se tint du 20 au 22 avril à l’hôtel African Régent à Accra, fut un événement réussi et inspirant. Il fut organisé par Pato Banton, Antoinette Rootsdawtah, l’Association Urantia Internationale et le lectorat de Ghana et d’à travers l’Afrique.
 
@@ -53,7 +53,7 @@ Le but principal de cette conférence était d’introduire _Le Livre d’Uranti
 
 Durant cette conférence récente, nous nous sommes rendu compte qu’un grand nombre de personnes qui participaient le premier jour à la séance d’accueil ou à l’événement principal du deuxième jour, étaient des personnes curieuses qui avaient entendu parler de la conférence par Eventbrite, l’outil en ligne que nous utilisons pour l’enregistrement.
 
-Nous ne pouvons pas sous-estimé les graines semées à cet égard. Bien que les jeunes et curieux esprits n’avaient entendu parler du livre que pour la première fois, ils pourraient décider plus tard d’en apprendre plus et de le lire un jour ou l’autre. Quelquefois, je mesure ma réussite avec le livre, par son nom dans les esprits et sur les lèvres de ma famille et de mes amis. Beaucoup de mes amis d’école et collègues de travail m’appellent quelquefois « l’homme Urantia » ou « Mr Livre d’Urantia. » Certains ne le prononcent même pas correctement ! Mais pour moi, c’est quand même un bon signe.
+Nous ne pouvons pas sous-estimé les graines semées à cet égard. Bien que les jeunes et curieux esprits n’avaient entendu parler du livre que pour la première fois, ils pourraient décider plus tard d’en apprendre plus et de le lire un jour ou l’autre. Quelquefois, je mesure ma réussite avec le livre, par son nom dans les esprits et sur les lèvres de ma famille et de mes amis. Beaucoup de mes amis d’école et collègues de travail m’appellent quelquefois « l’homme Urantia » ou « Mr Livre d’Urantia. » Certains ne le prononcent même pas correctement ! Mais pour moi, c’est quand même un bon signe.
 <br style="clear:both;"/>
 
 
@@ -65,18 +65,18 @@ Nous ne pouvons pas sous-estimé les graines semées à cet égard. Bien que les
 <img src="/image/article/UF_News_Online/2018_07/068.jpg">
 </figure>
 
-Je dois admettre que j’étais un peu sceptique quand Pato et Antoinette proposèrent le thème de la conférence de Ghana, « Esprit Mère—Maman Afrique. » Ils suggérèrent même de donner tout le programme aux femmes lectrices. Mais après y avoir réfléchi, Kwadjo, le lectorat de Ghana et moi-même l’acceptèrent. Il s’avéra que ce fut le thème parfait et les merveilleuses femmes lectrices d’Afrique présentèrent leurs idées sur le _Livre d’Urantia._ Il était grand temps que nous soyons témoins de ce que les femmes pensent et c’était un cadeau de faire l’expérience de leur énergie et une source d’inspiration ! Les présentations inclurent
+Je dois admettre que j’étais un peu sceptique quand Pato et Antoinette proposèrent le thème de la conférence de Ghana, « Esprit Mère—Maman Afrique. » Ils suggérèrent même de donner tout le programme aux femmes lectrices. Mais après y avoir réfléchi, Kwadjo, le lectorat de Ghana et moi-même l’acceptèrent. Il s’avéra que ce fut le thème parfait et les merveilleuses femmes lectrices d’Afrique présentèrent leurs idées sur le _Livre d’Urantia._ Il était grand temps que nous soyons témoins de ce que les femmes pensent et c’était un cadeau de faire l’expérience de leur énergie et une source d’inspiration ! Les présentations inclurent
 
-- « L’auto-découverte dans la relation d’amour » par Adi Namaran (Cameroun)
-- « L’ascension féminine » par Delae Sowu (Ghana)
-- « L’Esprit-Mère dans notre culture » par Bible Brew (Ghana)
-- « L’expérience de méditation » par Samrawit Muluneh (Éthiopie)
-- « _Le Livre d’Urantia_—Mon expérience » par Charity Charles (Nigeria)
-- « Disséminer la Cinquième Révélation d’Époque, le rôle de la femme africaine » par Sunhine Anazodo et Odochi Nzeako (Nigeria)
+- « L’auto-découverte dans la relation d’amour » par Adi Namaran (Cameroun)
+- « L’ascension féminine » par Delae Sowu (Ghana)
+- « L’Esprit-Mère dans notre culture » par Bible Brew (Ghana)
+- « L’expérience de méditation » par Samrawit Muluneh (Éthiopie)
+- « _Le Livre d’Urantia_—Mon expérience » par Charity Charles (Nigeria)
+- « Disséminer la Cinquième Révélation d’Époque, le rôle de la femme africaine » par Sunhine Anazodo et Odochi Nzeako (Nigeria)
 
 En écrivant ceci, tout ce qu’ils dirent résonne encore dans mes oreilles.
 
-La conférence fournit aussi une plateforme pour les lecteurs actifs et les leaders des groupes africains de se rencontrer, de se familiariser un peu plus et de discuter de la croissance du lectorat dans nos différents pays. Les participants étaient originaires du Nigeria, de la Côte d’Ivoire, du Benin, du Sénégal et d’Éthiopie. Je fus impressionné par le fait que les lecteurs du Sénégal, dans un pays musulman, avaient trouvé une méthode de partager les enseignements du livre en permettant aux chercheurs de vérité de trouver leur propre compréhension de Dieu et de la spiritualité. Cette approche nous rappelle ce que le Maître nous exhorta à faire : « Dans ta vie et dans ton affectueux ministère, sers la nourriture spirituelle sous forme attrayante et adaptée à la capacité de réception de chacun de ceux qui t’interrogent. » <a id="a78_834"></a>[LU 133:4.2](/fr/The_Urantia_Book/133#p4_2)
+La conférence fournit aussi une plateforme pour les lecteurs actifs et les leaders des groupes africains de se rencontrer, de se familiariser un peu plus et de discuter de la croissance du lectorat dans nos différents pays. Les participants étaient originaires du Nigeria, de la Côte d’Ivoire, du Benin, du Sénégal et d’Éthiopie. Je fus impressionné par le fait que les lecteurs du Sénégal, dans un pays musulman, avaient trouvé une méthode de partager les enseignements du livre en permettant aux chercheurs de vérité de trouver leur propre compréhension de Dieu et de la spiritualité. Cette approche nous rappelle ce que le Maître nous exhorta à faire : « Dans ta vie et dans ton affectueux ministère, sers la nourriture spirituelle sous forme attrayante et adaptée à la capacité de réception de chacun de ceux qui t’interrogent. » <a id="a78_834"></a>[LU 133:4.2](/fr/The_Urantia_Book/133#p4_2)
 
 Les 50 livres envoyés par la Fondation Urantia, furent vraiment nécessaires. Le premier jour, nous donnâmes 20 livres, surtout aux nouveaux lecteurs. Pour certains, c’était la première fois qu’ils entendaient parler d’un tel livre et ils voulaient tout de suite en savoir plus.
 
@@ -92,9 +92,9 @@ Depuis quatre ans que je connais Pato et Antoinette, ils nous ont motivé et ont
 
 De la part des lecteurs de Ghana, nous remercions grandement l’Association Urantia Internationale et la Fondation Urantia pour les livres et leur aide pour cette conférence.
 
-Et à Pato et Antoinette : Votre dévouement, votre service et votre inspiration de toutes ces années ont grandement contribué à la croissance du groupe de Ghana et au reste de l’Afrique. Vous connaître est un cadeau.
+Et à Pato et Antoinette : Votre dévouement, votre service et votre inspiration de toutes ces années ont grandement contribué à la croissance du groupe de Ghana et au reste de l’Afrique. Vous connaître est un cadeau.
 
-Puissions-nous tous faire rayonner la lumière des enseignements célestes du _Livre d’Urantia !_
+Puissions-nous tous faire rayonner la lumière des enseignements célestes du _Livre d’Urantia !_
 <br style="clear:both;"/>
 
 

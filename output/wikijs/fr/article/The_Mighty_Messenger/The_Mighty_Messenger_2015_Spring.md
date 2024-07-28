@@ -41,7 +41,7 @@ La tradition de rassemblement pour l’étude, la camaraderie et la prière se p
 <img src="/image/article/The_Mighty_Messenger/2015_Spring/005852.jpg">
 </figure>
 
-Les participants peuvent s'attendre à une variété d'ateliers de haute qualité pour les lecteurs avancés et nouveaux. Un échantillon comprend un atelier de David Glass, « Communion avec Dieu, notre Père », dans lequel les participants rechercheront et discuteront de la manière dont la prière intelligente et l’adoration sincère peuvent améliorer et augmenter la capacité de rester toujours conscient de l’amour, de la direction et de l’éternité. perfection de Dieu, et peut nous aider à vivre notre vie de manière à nous rapprocher de l’atteinte de la perfection divine en réponse au mandat suprême de Dieu. L'atelier de David Kulieke et Paula Thompson, « Le connaître comme notre Père de l’Univers et Connaître le Suprême comme la Mère de notre Univers », créera une comparaison des attributs et des caractéristiques de Dieu le Père et d'autres descriptions de la paternité, comme celle du Fils Créateur. et des pères humains, et de Dieu la Mère Suprême, ainsi que d'autres descriptions de la maternité, y compris l’Esprit Mère Créatrice et la maternité humaine. L'atelier de Sioux Oliva, « Soyez parfait, comme je suis parfait », explorera notre compréhension de la personnalité du Père comme modèle pour la nôtre et nous aidera à construire des pratiques spirituelles qui favorisent notre connexion à l’amour du Père dans un effort pour apportez-nous plus d'intimité avec Dieu à travers la méditation, l’intention aimante et les lectures quotidiennes du _Le Livre d'Urantia_. 
+Les participants peuvent s'attendre à une variété d'ateliers de haute qualité pour les lecteurs avancés et nouveaux. Un échantillon comprend un atelier de David Glass, « Communion avec Dieu, notre Père », dans lequel les participants rechercheront et discuteront de la manière dont la prière intelligente et l’adoration sincère peuvent améliorer et augmenter la capacité de rester toujours conscient de l’amour, de la direction et de l’éternité. perfection de Dieu, et peut nous aider à vivre notre vie de manière à nous rapprocher de l’atteinte de la perfection divine en réponse au mandat suprême de Dieu. L'atelier de David Kulieke et Paula Thompson, « Le connaître comme notre Père de l’Univers et Connaître le Suprême comme la Mère de notre Univers », créera une comparaison des attributs et des caractéristiques de Dieu le Père et d'autres descriptions de la paternité, comme celle du Fils Créateur. et des pères humains, et de Dieu la Mère Suprême, ainsi que d'autres descriptions de la maternité, y compris l’Esprit Mère Créatrice et la maternité humaine. L'atelier de Sioux Oliva, « Soyez parfait, comme je suis parfait », explorera notre compréhension de la personnalité du Père comme modèle pour la nôtre et nous aidera à construire des pratiques spirituelles qui favorisent notre connexion à l’amour du Père dans un effort pour apportez-nous plus d'intimité avec Dieu à travers la méditation, l’intention aimante et les lectures quotidiennes du _Le Livre d'Urantia_. 
 
 ### Nouveau parcours d'étude approfondie
 
@@ -49,7 +49,7 @@ De plus, un nouveau parcours d’études approfondies a été prévu pour cet é
 
 ### Une ambiance de communion
 
-Le Comité du Culte a prévu plusieurs événements afin de créer un moment « imprégné d’une atmosphère de communion ». Vous pouvez assister chaque jour à une méditation contemplative tranquille dans la chapelle africaine avant le petit-déjeuner et le dîner ; rassemblez-vous pour contempler ensemble notre Père céleste avant les séances plénières ; et dimanche, nous partagerons un petit-déjeuner commémoratif basé sur la treizième apparition morontielle de Jésus. [[LU 192](/fr/The_Urantia_Book/192#)]
+Le Comité du Culte a prévu plusieurs événements afin de créer un moment « imprégné d’une atmosphère de communion ». Vous pouvez assister chaque jour à une méditation contemplative tranquille dans la chapelle africaine avant le petit-déjeuner et le dîner ; rassemblez-vous pour contempler ensemble notre Père céleste avant les séances plénières ; et dimanche, nous partagerons un petit-déjeuner commémoratif basé sur la treizième apparition morontielle de Jésus. [[LU 192](/fr/The_Urantia_Book/192#)]
 
 ### Jeunesse
 
@@ -69,7 +69,7 @@ Des bénévoles sur place seront nécessaires pour aider à l’inscription, à 
 
 ### Réseaux sociaux
 
-Les sessions d'études d'été sont toujours l’occasion de renouer d'anciennes amitiés et d'en nouer de nouvelles. Des soirées sociales sont prévues chaque soir, culminant par une célébration du 60e anniversaire. Apportez vos souvenirs et prévoyez d'en créer de nouveaux cet été alors que nous réfléchissons au passé et regardons avec impatience l’avenir !
+Les sessions d'études d'été sont toujours l’occasion de renouer d'anciennes amitiés et d'en nouer de nouvelles. Des soirées sociales sont prévues chaque soir, culminant par une célébration du 60e anniversaire. Apportez vos souvenirs et prévoyez d'en créer de nouveaux cet été alors que nous réfléchissons au passé et regardons avec impatience l’avenir !
 
 ### Inscription
 
@@ -116,7 +116,7 @@ Charlene Morrow et Dolores Nice sont arrivées les premières ; et j'ai suivi pl
 <img src="/image/article/The_Mighty_Messenger/2015_Spring/005854.jpg">
 </figure>
 
-Bill et Aysun avaient déjà commencé l’installation préliminaire du stand lorsque nous sommes arrivés. Nous avions 36 Livres d'Urantia en anglais et 5 dans les traductions allemandes ; Bill avait imprimé 1 000 exemplaires d'une introduction au _Livre d'Urantia_ (dont il était l’auteur) et traduit en langue turque ; et nous avions notre pléthore habituelle de vitamines spirituelles bilingues. De plus, nous avons gravé 50 CD contenant les 104 premiers articles traduits par un jeune universitaire turc ; et Lila Dogim ont envoyé par courrier 36 CD contenant les traductions russes et coréennes de l’LU (ce qui s'est avéré utile, car il y avait un stand de livres coréens très proche du nôtre).
+Bill et Aysun avaient déjà commencé l’installation préliminaire du stand lorsque nous sommes arrivés. Nous avions 36 Livres d'Urantia en anglais et 5 dans les traductions allemandes ; Bill avait imprimé 1 000 exemplaires d'une introduction au _Livre d'Urantia_ (dont il était l’auteur) et traduit en langue turque ; et nous avions notre pléthore habituelle de vitamines spirituelles bilingues. De plus, nous avons gravé 50 CD contenant les 104 premiers articles traduits par un jeune universitaire turc ; et Lila Dogim ont envoyé par courrier 36 CD contenant les traductions russes et coréennes de l’LU (ce qui s'est avéré utile, car il y avait un stand de livres coréens très proche du nôtre).
 
 Parce que nous étions évidemment des Occidentaux, de nombreux jeunes étaient attirés par notre stand et souhaitaient pratiquer leur anglais et venir nous voir. La plupart possédaient un iPhone et espéraient avoir une photo avec nous sur Facebook. Une amie d'Aysun, Yasemin Vergin, une étudiante, nous a aidés à faire une partie de l’apparence du stand (une superbe nappe), à chercher du café et de l’eau, et a consacré la majeure partie de son temps au salon du livre à l’Apocalypse. Elle a aidé avec les jeunes étudiants. attiré par le stand. 
 
@@ -144,7 +144,7 @@ Le Comité international des bourses a participé à la Foire du livre de Jérus
 <img src="/image/article/The_Mighty_Messenger/2015_Spring/005856.jpg">
 </figure>
 
-Nous avions une équipe très passionnée et capable de partager les activités et la charge de travail. Tim Hobbs et moi (l’auteur) représentions la SFI ; la très compétente Claire Thurston a donné à l’équipe la perspective féminine toujours nécessaire ; et Avi Dogim, bien connu dans toute la communauté d'Urantia, ont fourni l’humour et les compétences indispensables en traduction en hébreu.
+Nous avions une équipe très passionnée et capable de partager les activités et la charge de travail. Tim Hobbs et moi (l’auteur) représentions la SFI ; la très compétente Claire Thurston a donné à l’équipe la perspective féminine toujours nécessaire ; et Avi Dogim, bien connu dans toute la communauté d'Urantia, ont fourni l’humour et les compétences indispensables en traduction en hébreu.
 
 Gabriel Rymberg était notre principale personne de contact vivant en Israël qui a fourni des informations sur la Foire du livre, a traduit et facilité la publication d'un livret de huit pages basé sur les concepts du _Livre d'Urantia_ et a réservé une maison d'hôtes (St. Peters at Gallicantu pour nous). Gabriel pouvait facilement parler espagnol, hébreu et anglais – et plus encore. Il est également en train de traduire le _Livre d'Urantia_ en langue hébraïque pour la Fondation et le travail est terminé à environ cinquante pour cent.
 
@@ -160,7 +160,7 @@ Les parents de Gabriel (Mauricio et Rita), venus d’Argentine, ont passé plusi
 
 Nous avons vendu un livre à un jeune homme dès la première heure du premier jour et nous nous sommes dit : « Ça va être bien ! a ensuite découvert qu’il était un chrétien jordanien travaillant dans le domaine logistique de la foire. Au total, quatre livres ont été vendus pendant toute la durée du salon du livre ; et l’un d'eux, Tim, l’a vendu pour quatre shekels (l’équivalent d'environ un dollar américain). Un autre livre fut offert au propriétaire d'une librairie à Jérusalem, un juif américain, qui connaissait quelque peu le _Livre d'Urantia_. Le document le plus populaire était probablement la carte de visite de Gabriel, après qu’il ait été reconnu qu’il traduisait le livre en hébreu. 
 
-La Foire du livre de Jérusalem a probablement été notre exposition la moins productive du _Livre d'Urantia_ au public ; nous montrant douloureusement à tous à quel point nous sommes loin de l’acceptation mondiale de la Cinquième Révélation d’Époque.
+La Foire du livre de Jérusalem a probablement été notre exposition la moins productive du _Livre d'Urantia_ au public ; nous montrant douloureusement à tous à quel point nous sommes loin de l’acceptation mondiale de la Cinquième Révélation d’Époque.
 
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2015_Spring/005858.jpg">
@@ -168,7 +168,7 @@ La Foire du livre de Jérusalem a probablement été notre exposition la moins p
 
 Encore une fois, nous tenons à remercier les membres du Fellowship, le Comité exécutif et le Conseil général pour leur soutien indéfectible.
 
-In Love and Service, The IFC : Buck Weimer, ancien président, Tim Hobbs, actuel
+In Love and Service, The IFC : Buck Weimer, ancien président, Tim Hobbs, actuel
 Président, Gabriel Rymberg, Claire Thurston, Avi Dogim
 
 ## Rapport de l’exposition Corps, Âme et Esprit
@@ -198,9 +198,9 @@ Comité de sensibilisation
 <img src="/image/article/The_Mighty_Messenger/2015_Spring/Bill_Sadler.jpg">
 </figure>
 
-Saviez-vous qu’un ensemble complet d'enregistrements des conférences de Bill Sadler peut être écouté sur notre site ? Bill était le fils du docteur Lena et de William Sadler. Il était un professeur remarquable et apprécié des concepts du Livre d'Urantia auprès des premiers étudiants du Livre. Il est peut-être l’un des meilleurs enseignants du Livre d’Urantia de tous les temps. Il avait une façon de donner vie aux concepts du livre. Ces trésors ont été enregistrés en live, dans les années 1960, par feu Bud Kagan. Si vous écoutez attentivement, vous pouvez même entendre Bill cliquer sur son briquet Zippo alors qu’il allume une cigarette. Pour accéder à nos archives complètes des conférences de Bill Sadler, cliquez ici : www.urantia-book.org/audio/sadler/index_sadler_1.html
+Saviez-vous qu’un ensemble complet d'enregistrements des conférences de Bill Sadler peut être écouté sur notre site ? Bill était le fils du docteur Lena et de William Sadler. Il était un professeur remarquable et apprécié des concepts du Livre d'Urantia auprès des premiers étudiants du Livre. Il est peut-être l’un des meilleurs enseignants du Livre d’Urantia de tous les temps. Il avait une façon de donner vie aux concepts du livre. Ces trésors ont été enregistrés en live, dans les années 1960, par feu Bud Kagan. Si vous écoutez attentivement, vous pouvez même entendre Bill cliquer sur son briquet Zippo alors qu’il allume une cigarette. Pour accéder à nos archives complètes des conférences de Bill Sadler, cliquez ici : www.urantia-book.org/audio/sadler/index_sadler_1.html
 
-Nous avons plusieurs excellents blogueurs actifs qui publient régulièrement des messages inspirants ici : https://www.urantiabook.org/urantian-blogs
+Nous avons plusieurs excellents blogueurs actifs qui publient régulièrement des messages inspirants ici : https://www.urantiabook.org/urantian-blogs
 
 Nous ajoutons régulièrement de nouveaux produits à notre boutique en ligne. L’excellente vidéo de David Kantor est maintenant disponible, Re-Imagining Jesus : Un voyage visuel dans l’histoire du _Livre d’Urantia_ de Jésus.
 
@@ -216,7 +216,7 @@ Le site présente 60 ans d’études et d’études. C’est un trésor virtuel 
 
 Vous avez peut-être remarqué quelques changements de conception dans certaines pages du site. Nous rendons actuellement notre site adaptatif afin qu’il soit accessible depuis tout type d'appareil. Veuillez surveiller la sortie officielle bientôt. Nous nous engageons à toujours nous efforcer de rendre notre site nouveau, intéressant, fiable et utile.
 
-Remplacez les deux dernières lignes de l’article par ceci : Au fait, si vous appréciez cet effort et trouvez qu’il s'agit d'une ressource utile et utile, aidez-nous s'il vous plaît à le maintenir en allant sur www.urantiabook.org et en cliquant sur FAIRE UN DON. bouton en haut de la page d'accueil. Ou, vous pouvez envoyer un chèque à : _The Urantia Book_ Fellowship, PO Box 6631, Broomfield, CO 80021. Et merci !
+Remplacez les deux dernières lignes de l’article par ceci : Au fait, si vous appréciez cet effort et trouvez qu’il s'agit d'une ressource utile et utile, aidez-nous s'il vous plaît à le maintenir en allant sur www.urantiabook.org et en cliquant sur FAIRE UN DON. bouton en haut de la page d'accueil. Ou, vous pouvez envoyer un chèque à : _The Urantia Book_ Fellowship, PO Box 6631, Broomfield, CO 80021. Et merci !
 
 <figure id="Figure_10" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2015_Spring/005861.jpg">
@@ -228,14 +228,14 @@ Si vous préférez recevoir nos publications, le Mighty Messenger et le Fellowsh
 
 ## Évènements à venir…
 
-- Pour une nouvelle aventure spirituelle, rejoignez SymmetryOfSoul.org, les mardis à 18h00 PT (21h00 HE). Pour revoir les émissions passées, allez sur le même lien et cliquez sur « Archiver ».
+- Pour une nouvelle aventure spirituelle, rejoignez SymmetryOfSoul.org, les mardis à 18h00 PT (21h00 HE). Pour revoir les émissions passées, allez sur le même lien et cliquez sur « Archiver ».
 - La session d'études d'été de la bourse 2015, du 9 au 12 juillet, à Techny Towers, Northbrook, Illinois. Une retraite pré-conférence, « Créer des cercles de confiance », le 9 juillet, précédera la session d'étude.
-- Pour un régal régulier le samedi, connectez-vous à la webdiffusion « Cosmic Citizen » avec appel. 10h00 Montagne. Numéro d'appel pour la webdiffusion. http://www.blogtalkradio.com/CosmicCitizen. Numéro d'appel : 646-716-8158 (Amérique du Nord) pendant la diffusion de l’émission. Des émissions archivées sont disponibles.
+- Pour un régal régulier le samedi, connectez-vous à la webdiffusion « Cosmic Citizen » avec appel. 10h00 Montagne. Numéro d'appel pour la webdiffusion. http://www.blogtalkradio.com/CosmicCitizen. Numéro d'appel : 646-716-8158 (Amérique du Nord) pendant la diffusion de l’émission. Des émissions archivées sont disponibles.
 
 ## Personnel du « The Mighty Messenger »
 
 Publié par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship.
-Membres : Linda Buselli, présidente Cece Forrester, David Glass, Nancy Johnson, Sage Waitts
+Membres : Linda Buselli, présidente Cece Forrester, David Glass, Nancy Johnson, Sage Waitts
 877.288.3772
 bourse@urantiabook.org
 www.urantiabook.org

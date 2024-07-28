@@ -46,7 +46,7 @@ Il fut attiré par le livre en grande partie parce qu’il voulait en savoir plu
 
 En 2009, Larry utilisa ses talents scrupuleux de codification IBM pour le travail de la Fondation Urantia. C’était son travail de standardiser le format du _Livre d’Urantia_ et de ses seize traductions pour que le code sous-jacent soit identique pour toutes les éditions. Sans cet effort, ces versions du site web ne seraient pas si propres aujourd’hui ; et les versions e-book n’existeraient pas.
 
-Lorsque Larry rejoignit l’équipe de la Fondation Urantia, il lui fallut convertir les fichiers de l’ancien Quark, inDesign, Word et de WordPerfect en HTLM. Puis, il eut à ajouter le système de références _—_ Fascicules:section.paragraphe (Numéro de page.paragraphe) _—_ à chaque paragraphe dans le _Livre d’Urantia._ Il y a seize mille paragraphes dans Le Livre d’Urantia !
+Lorsque Larry rejoignit l’équipe de la Fondation Urantia, il lui fallut convertir les fichiers de l’ancien Quark, inDesign, Word et de WordPerfect en HTLM. Puis, il eut à ajouter le système de références _—_ Fascicules:section.paragraphe (Numéro de page.paragraphe) _—_ à chaque paragraphe dans le _Livre d’Urantia._ Il y a seize mille paragraphes dans Le Livre d’Urantia !
 
 Et comme si ce n’était pas assez de travail, il dut codifier en accord avec les standards rigoureux nécessaires pour créer les livres numériques pour les plateformes Amazon et Apple. Il fit tout cela après avoir eu trois crises cardiaques.
 
@@ -65,7 +65,7 @@ Son sens de l’humour pince-sans-rire, mais aimant, était l’un de ses plus g
 
 Nous avons tous été énormément désolés de perdre notre ami et collègue le 25 février 2018 ; en même temps, nous sommes enchantés pour lui, d’être parti vers la plus Grande Aventure de toutes les aventures. À la fin, Harry était calme, heureux, satisfait et sans peur. Il fut une inspiration pour le personnel de l’hôpital qui assistèrent ses derniers jours et il garda cette aimante présence d’esprit, avec son sens de l’humour, jusqu’à ce que les derniers adieux furent faits.
 
-On dira certainement de toi : « Bien fait, bon et fidèle serviteur. » Tu vas nous manquer, ami. Bonne chance, Larry !
+On dira certainement de toi : « Bien fait, bon et fidèle serviteur. » Tu vas nous manquer, ami. Bonne chance, Larry !
 <br style="clear:both;"/>
 
 > Pendant les premières trois décennies chez IBM, il travailla dans les applications de pointe d’IBM d’affaires et devint un programmateur accompli.

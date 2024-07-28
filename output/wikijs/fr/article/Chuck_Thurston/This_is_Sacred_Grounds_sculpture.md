@@ -1,5 +1,5 @@
 ---
-title: "Sculpture « Voici les Terres sacrées »"
+title: "Sculpture « Voici les Terres sacrées »"
 description: "Le Mighty Messenger — Numéro été 2022 : Nouvelles et opinions pour les lecteurs du Livre d'Urantia"
 published: true
 date: 2023-6-21T8:13:38Z

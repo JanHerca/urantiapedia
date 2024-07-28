@@ -40,22 +40,22 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Jim English, Californie, États-Unis_
 
-_Note de l’éditeur : Cet œuvre est la seconde publication d’Urantia Press, le label d’impression de la Fondation Urantia. Nous sommes heureux d’annoncer qu’elle sera disponible bientôt._
+_Note de l’éditeur : Cet œuvre est la seconde publication d’Urantia Press, le label d’impression de la Fondation Urantia. Nous sommes heureux d’annoncer qu’elle sera disponible bientôt._
 <br style="clear:both;"/>
 
-> Quel service transcendant, si par cette révélation, le Fils de l’Homme était récupéré de la tombe de la théologie traditionnelle et soit présenté comme le Jésus vivant, à l’Église qui porte son nom, et à toutes les autres personnes religieuses ! <a id="a45_248"></a>[LU 196:1.2](/fr/The_Urantia_Book/196#p1_2)
+> Quel service transcendant, si par cette révélation, le Fils de l’Homme était récupéré de la tombe de la théologie traditionnelle et soit présenté comme le Jésus vivant, à l’Église qui porte son nom, et à toutes les autres personnes religieuses ! <a id="a45_248"></a>[LU 196:1.2](/fr/The_Urantia_Book/196#p1_2)
 
 Jean Zébédée conçut les derniers quatre évangiles près de 70 ans après avoir vu son Seigneur et Maître en chair et en os. Bien que beaucoup de choses avaient été omises des documents antécédents, il parraina ce qui devait être la première histoire méconnue de Jésus. Son œuvre conserva des événements importants et presque majeurs ainsi que des enseignements qui autrement auraient été perdus.
 
 Peut-être qu’à la fin, Jean s’aperçut que ses écrits étaient voués à n’être que l’ombre de la substance.En conséquence, son livre se termine avec une parabole de type parlant à une majorité même plus grande que le monde:
 
-> Mais il y a beaucoup d’autres choses que Jésus fit ; si elles avaient toutes été écrites, je pense que le monde lui-même n’aurait pas pu contenir tous les livres écrits. [Jean 21:25 rsv](/fr/Bible/John/21#v25)
+> Mais il y a beaucoup d’autres choses que Jésus fit ; si elles avaient toutes été écrites, je pense que le monde lui-même n’aurait pas pu contenir tous les livres écrits. [Jean 21:25 rsv](/fr/Bible/John/21#v25)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2019_04/014.jpg">
 </figure>
 
-Dans cet esprit, nous avons ressenti que les derniers mots de Jean devaient être les premiers mots de cet ouvrage secondaire des fascicules de Jésus : _[L’Histoire Méconnue de Jésus : Une Biographie Moderne issue du Livre d’Urantia](https://www.amazon.com/Untold-Story-Jesus-Biography-Urantia/dp/0997404914/ref=sr_1_fkmrnull_3)._
+Dans cet esprit, nous avons ressenti que les derniers mots de Jean devaient être les premiers mots de cet ouvrage secondaire des fascicules de Jésus : _[L’Histoire Méconnue de Jésus : Une Biographie Moderne issue du Livre d’Urantia](https://www.amazon.com/Untold-Story-Jesus-Biography-Urantia/dp/0997404914/ref=sr_1_fkmrnull_3)._
 
 ## Croissance et développement
 
@@ -67,9 +67,9 @@ Ce récit débuta il y a 11 ans, lorsque Mo et Jennifer Siegel commencèrent à 
 
 Durant neuf ans, les achats continuèrent jusqu’à ce que la collection atteigne plus de 40 tableaux. Le travail commença aussi sur un livre pour mettre en valeur les œuvres, accompagnées des histoires correspondantes des fascicules. Le but était de rendre accessible cette biographie moderne de Jésus, aux âmes en quête de Dieu, du monde entier.
 
-Un difficile travail d’édition produisit un manuscrit de près d’un quart de la partie IV, intitulé  « Les Extraordinaires Histoires de Jésus. » Pour le peaufiner, nous formèrent une équipe d’éditeurs représentative de trois siècles d’étude combinée des fascicules : MaryJo Garascia, Jim English, David Kantor, Stuart Kerr, Lucretia Schanfarber. Est-ce que cela parlera à un important réservoir d’érudits ou bien seulement à de vieux éditeurs, les lecteurs nous le diront.
+Un difficile travail d’édition produisit un manuscrit de près d’un quart de la partie IV, intitulé  « Les Extraordinaires Histoires de Jésus. » Pour le peaufiner, nous formèrent une équipe d’éditeurs représentative de trois siècles d’étude combinée des fascicules : MaryJo Garascia, Jim English, David Kantor, Stuart Kerr, Lucretia Schanfarber. Est-ce que cela parlera à un important réservoir d’érudits ou bien seulement à de vieux éditeurs, les lecteurs nous le diront.
 
-L’équipe travailla durant les deux dernières années et produisit ce qui suit :
+L’équipe travailla durant les deux dernières années et produisit ce qui suit :
 
 - un document maître pour conserver une archive complète du processus d’édition.
 - un manuscrit organisé en 12 chapitres basés sur un arc des phases majeures de la vie du Maître.
@@ -77,7 +77,7 @@ L’équipe travailla durant les deux dernières années et produisit ce qui sui
 - des pages d’introduction et des pages d’index.
 - de l’art classique et des tableaux accrédités sur les histoires familières et les enseignements.
 
-Environ 10 autres tableaux furent commandés à cette période, non seulement pour les histoires méconnues mais pour représenter avec précision des scènes qui avaient été historiquement mal représentées. Dans ce contexte, il convient de noter que toute image de Jésus comporte un handicap inhérent, parce qu’elle ne correspondra peut-être pas à la notion préconçue, de ce à quoi il ressemblait, du spectateur. Nous avons donné aux artistes des informations pertinentes provenant des fascicules sur sa lignée et ses antécédents, mais à la fin, ils peignirent leur propre interprétation avec leur sensibilité. Nous avons respecté leur liberté créative, car l’on sait que, « la haute mission d’un art …est de préfigurer par ses illusions une réalité supérieure de l’univers, de cristalliser les émotions du temps en une pensée d’éternité. » <a id="a79_835"></a>[LU 48:7.23](/fr/The_Urantia_Book/48#p7_23)
+Environ 10 autres tableaux furent commandés à cette période, non seulement pour les histoires méconnues mais pour représenter avec précision des scènes qui avaient été historiquement mal représentées. Dans ce contexte, il convient de noter que toute image de Jésus comporte un handicap inhérent, parce qu’elle ne correspondra peut-être pas à la notion préconçue, de ce à quoi il ressemblait, du spectateur. Nous avons donné aux artistes des informations pertinentes provenant des fascicules sur sa lignée et ses antécédents, mais à la fin, ils peignirent leur propre interprétation avec leur sensibilité. Nous avons respecté leur liberté créative, car l’on sait que, « la haute mission d’un art …est de préfigurer par ses illusions une réalité supérieure de l’univers, de cristalliser les émotions du temps en une pensée d’éternité. » <a id="a79_835"></a>[LU 48:7.23](/fr/The_Urantia_Book/48#p7_23)
 <br style="clear:both;"/>
 
 ## Production

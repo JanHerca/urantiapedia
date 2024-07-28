@@ -33,11 +33,11 @@ dateCreated: 2023-8-29T10:55:6Z
 
 ## Les Pensées à Méditer en Français
 
-_Les Pensées à Méditer Journalières_ sont maintenant disponibles en français. Vous pouvez vous inscrire ici : [https://www.urantia.org/fr/inset/sinscrire-dans-le-fichier](https://www.urantia.org/fr/inset/sinscrire-dans-le-fichier)
+_Les Pensées à Méditer Journalières_ sont maintenant disponibles en français. Vous pouvez vous inscrire ici : [https://www.urantia.org/fr/inset/sinscrire-dans-le-fichier](https://www.urantia.org/fr/inset/sinscrire-dans-le-fichier)
 
 ## Moteur de Recherche en Indonésien
 
-Le nouveau moteur de recherche pour _Le Livre d'Urantia_ est disponible maintenant en indonésien. Vous pouvez personnaliser vos résultats de recherche basés sur l’ordre d’apparition dans le livre, ou par pertinence. Vous pouvez aussi sélectionner « n’importe quel mot » ou « correspondance exacte »- plus besoin d’instructions booléennes. Pour plus d’indications, cliquez sur l’icône à droite de votre fenêtre de recherche. Nous espérons que ce nouveau moteur vous aidera dans l’étude du livre !
+Le nouveau moteur de recherche pour _Le Livre d'Urantia_ est disponible maintenant en indonésien. Vous pouvez personnaliser vos résultats de recherche basés sur l’ordre d’apparition dans le livre, ou par pertinence. Vous pouvez aussi sélectionner « n’importe quel mot » ou « correspondance exacte »- plus besoin d’instructions booléennes. Pour plus d’indications, cliquez sur l’icône à droite de votre fenêtre de recherche. Nous espérons que ce nouveau moteur vous aidera dans l’étude du livre !
 
 Prenez le temps, s’il vous plaît, d’utiliser le moteur de recherche et dites-nous ce que vous en pensez. Si vous trouvez des erreurs, faites-nous le savoir pour que nous puissions les corriger. Vous pouvez envoyer un mail à Ashley à [ashleyt@urantia.org](mailto:ashleyt@urantia.org).
 

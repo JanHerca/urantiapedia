@@ -47,33 +47,33 @@ Comme toujours, le conseil d’administration écoute et revoie les informations
 
 ## 2. Livres
 
-Distribution : _Le Livre d’Urantia_ et ses traductions (incluant les livres physiques, électroniques et les livres téléchargés) totalisent 132 210 livres distribués. C’est une augmentation de 12% par rapport à l’année dernière. Quelle bonne nouvelle, que tant de gens découvrent la révélation durant une année si difficile !
+Distribution : _Le Livre d’Urantia_ et ses traductions (incluant les livres physiques, électroniques et les livres téléchargés) totalisent 132 210 livres distribués. C’est une augmentation de 12% par rapport à l’année dernière. Quelle bonne nouvelle, que tant de gens découvrent la révélation durant une année si difficile !
 
-Sensibilisation : Les demandes de livres furent minimales en 2020, mais la Fondation envoya 165 livres en donation à des personnes incapables de les acheter. Le Pipe-line de Lumière de la Fellowship du Livre d’Urantia reçut 110 livres espagnols.
+Sensibilisation : Les demandes de livres furent minimales en 2020, mais la Fondation envoya 165 livres en donation à des personnes incapables de les acheter. Le Pipe-line de Lumière de la Fellowship du Livre d’Urantia reçut 110 livres espagnols.
 
-Impression de livres : 10 000 livres en anglais furent imprimés. Les prochains sur la liste sont les livres en russe, français et portugais.
+Impression de livres : 10 000 livres en anglais furent imprimés. Les prochains sur la liste sont les livres en russe, français et portugais.
 
-Le Livre d’Urantia multilingue : Ce nouvel outil d’étude a été publié sur le site de la Fondation en 20 langues. Maintenant, les étudiants du livre, peuvent lire et comparer le texte, côte à côte, en 2 langues de leur choix. Les traductions restantes seront ajoutées dès qu’elles seront codifiées par Fascicule : section, paragraphe. Vous pouvez le trouver ici : [https://www.urantia.org/fr/MultiLanguageBook](https://www.urantia.org/fr/MultiLanguageBook).
+Le Livre d’Urantia multilingue : Ce nouvel outil d’étude a été publié sur le site de la Fondation en 20 langues. Maintenant, les étudiants du livre, peuvent lire et comparer le texte, côte à côte, en 2 langues de leur choix. Les traductions restantes seront ajoutées dès qu’elles seront codifiées par Fascicule : section, paragraphe. Vous pouvez le trouver ici : [https://www.urantia.org/fr/MultiLanguageBook](https://www.urantia.org/fr/MultiLanguageBook).
 
-Urantia Press : La première édition de _L’Histoire Méconnue de Jésus — Une Biographie Moderne_ du _Livre d’Urantia_ est presque épuisée. Cinq mille nouveaux exemplaires ont été imprimés et cette édition comprend de nouvelles illustrations , des cartes améliorées et des couleurs enrichies. Les livres seront bientôt disponibles à l’achat.
+Urantia Press : La première édition de _L’Histoire Méconnue de Jésus — Une Biographie Moderne_ du _Livre d’Urantia_ est presque épuisée. Cinq mille nouveaux exemplaires ont été imprimés et cette édition comprend de nouvelles illustrations , des cartes améliorées et des couleurs enrichies. Les livres seront bientôt disponibles à l’achat.
 
 ## 3. Traductions
 
-La révision de _El Libro de Urantia :_ Après une décennie de travail de l’équipe de la révision espagnole — Victor García-Bory, Olga López, feu Carmelo Martínez, Anibal Pacheco et Raúl Pujol- la révision est presque terminée. Le texte électronique sera publié en ligne cet été, et le livre imprimé sera disponible plus tard dans l’année.
+La révision de _El Libro de Urantia :_ Après une décennie de travail de l’équipe de la révision espagnole — Victor García-Bory, Olga López, feu Carmelo Martínez, Anibal Pacheco et Raúl Pujol- la révision est presque terminée. Le texte électronique sera publié en ligne cet été, et le livre imprimé sera disponible plus tard dans l’année.
 
-Hébraïque  : La révision de la traduction hébraïque est terminée. Gabriel Rymberg, le traducteur en chef, en est au processus de vérification finale. La traduction est publiée sur : [urantia.org/he](https://www.urantia.org/he)
+Hébraïque  : La révision de la traduction hébraïque est terminée. Gabriel Rymberg, le traducteur en chef, en est au processus de vérification finale. La traduction est publiée sur : [urantia.org/he](https://www.urantia.org/he)
 
-Indonésienne : Après de nombreuses révisions, Nugroho Widi a terminé la traduction indonésienne, et elle fut publiée en ligne sur [urantia.org/id](https://www.urantia.org/id). le texte a aussi été entré dans le moteur de recherche en ligne.
+Indonésienne : Après de nombreuses révisions, Nugroho Widi a terminé la traduction indonésienne, et elle fut publiée en ligne sur [urantia.org/id](https://www.urantia.org/id). le texte a aussi été entré dans le moteur de recherche en ligne.
 
-Chinoise : Vicki Yang, nouveau trustee associé et membre de la traduction chinoise, a tenu avec son équipe la première conférence du _Livre d’Urantia_ pour les sinophones par Zoom. Les membres de la Fondation donnèrent des présentations pour 102 personnes de Taïwan et 26 personnes de Chine. Quel réussite !
+Chinoise : Vicki Yang, nouveau trustee associé et membre de la traduction chinoise, a tenu avec son équipe la première conférence du _Livre d’Urantia_ pour les sinophones par Zoom. Les membres de la Fondation donnèrent des présentations pour 102 personnes de Taïwan et 26 personnes de Chine. Quel réussite !
 
-Les traductions et les révisions en cours : Les traducteurs avancent sur celles en arabe, en Farsi et en philippin. Les réviseurs avancent sur la grecque, la portugaise et la roumaine. Nous sommes tellement reconnaissants du dévouement et du service de tous ceux qui travaillent pour apporter la révélation aux peuples dans leur langue natale.
+Les traductions et les révisions en cours : Les traducteurs avancent sur celles en arabe, en Farsi et en philippin. Les réviseurs avancent sur la grecque, la portugaise et la roumaine. Nous sommes tellement reconnaissants du dévouement et du service de tous ceux qui travaillent pour apporter la révélation aux peuples dans leur langue natale.
 
 ## 4. Dissémination
 
-Urantia.org : Le site internet a connu une forte croissance en 2020. Les utilisateurs, les nouveaux utilisateurs, les sessions, les pages regardées, et la recherche directe étaient en hausse de manière significative. Le trafic des réseaux sociaux augmente aussi, ce qui indique que notre portée sur les réseaux sociaux attire les gens vers notre site, à travers le monde. Les cinq pays en tête générant le plus de visites sont les États-Unis, le Brésil, l’Inde, le Mexique et la Colombie.
+Urantia.org : Le site internet a connu une forte croissance en 2020. Les utilisateurs, les nouveaux utilisateurs, les sessions, les pages regardées, et la recherche directe étaient en hausse de manière significative. Le trafic des réseaux sociaux augmente aussi, ce qui indique que notre portée sur les réseaux sociaux attire les gens vers notre site, à travers le monde. Les cinq pays en tête générant le plus de visites sont les États-Unis, le Brésil, l’Inde, le Mexique et la Colombie.
 
-Les médias sociaux : Quatre pages additionnelles Facebook furent créées. Elles sont maintenant en [anglais](https://www.facebook.com/UrantiaFoundation), [français](https://www.facebook.com/FondationUrantia), [allemand](https://www.facebook.com/DieUrantiaStiftung), [indonésien](https://www.facebook.com/Urantia-Foundation-Indonesia-100892101830378/), [portugais](https://www.facebook.com/pg/Funda%C3%A7%C3%A3o-Ur%C3%A2ntia-511241532679451/), [russe](https://www.facebook.com/UrantiaFoundationRussian/) et [espagnol](https://www.facebook.com/FundacionUrantia/). Les « followers » croissent aussi sur [Instagram](https://www.instagram.com/urantiafoundation/), [Linkedln](https://www.linkedin.com/company/urantia-foundation/) et [Twitter](https://twitter.com/Urantia533). Notre objectif est de disséminer les enseignements par tous les débouchés possibles.
+Les médias sociaux : Quatre pages additionnelles Facebook furent créées. Elles sont maintenant en [anglais](https://www.facebook.com/UrantiaFoundation), [français](https://www.facebook.com/FondationUrantia), [allemand](https://www.facebook.com/DieUrantiaStiftung), [indonésien](https://www.facebook.com/Urantia-Foundation-Indonesia-100892101830378/), [portugais](https://www.facebook.com/pg/Funda%C3%A7%C3%A3o-Ur%C3%A2ntia-511241532679451/), [russe](https://www.facebook.com/UrantiaFoundationRussian/) et [espagnol](https://www.facebook.com/FundacionUrantia/). Les « followers » croissent aussi sur [Instagram](https://www.instagram.com/urantiafoundation/), [Linkedln](https://www.linkedin.com/company/urantia-foundation/) et [Twitter](https://twitter.com/Urantia533). Notre objectif est de disséminer les enseignements par tous les débouchés possibles.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2021_04/014.jpg">
@@ -83,7 +83,7 @@ Les médias sociaux : Quatre pages additionnelles Facebook furent créées. Ell
 
 Le comité d’Éducation de la Fondation Urantia a co-organisée une retraite spirituelle en ligne avec l’Association Internationale, la Fellowship du Livre d’Urantia et l’Institut de l’Université Urantia, en juillet. La retraite a ouvert la voie à des événements futurs en ligne dans lesquels l’importance de l’expérience personnelle , la source à la fois de la guérison et de la transformation, est affirmée.
 
-L’École Internet du Livre d’Urantia (UBIS) a fini l’année 2020 avec un total de 47 cours, proposés en quatre langues : anglais (21), français (9), portugais (5) et espagnol (12). Durant l’année, plus de 730 étudiants se sont inscrits.
+L’École Internet du Livre d’Urantia (UBIS) a fini l’année 2020 avec un total de 47 cours, proposés en quatre langues : anglais (21), français (9), portugais (5) et espagnol (12). Durant l’année, plus de 730 étudiants se sont inscrits.
 
 Le trimestre de janvier 2021, a commencé avec un record de 18 cours, inscrivant 259 étudiants en anglais, français, portugais et espagnol. La Fondation Urantia est reconnaissante aux nombreux volontaires qui aident à préparer, à éditer et à présenter ces cours aux lecteurs, à travers le monde.
 
@@ -108,15 +108,15 @@ Le [Répertoire des Groupes d’Étude](https://www.urantiastudygroup.org/) est 
 
 ## 9. Finances et Collecte de fonds
 
-Donations : La Fondation a reçu des dons non restreints et restreints qui ont dépassés les objectifs pour l’année. Les dons de succession ont aussi dépassé les attentes. C’est motivant de voir combien le lectorat est généreux avec ses dons financiers qui garantissent que les projets, axés sur la mission de la Fondation, continuent.
+Donations : La Fondation a reçu des dons non restreints et restreints qui ont dépassés les objectifs pour l’année. Les dons de succession ont aussi dépassé les attentes. C’est motivant de voir combien le lectorat est généreux avec ses dons financiers qui garantissent que les projets, axés sur la mission de la Fondation, continuent.
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2021_04/013.jpg">
 </figure>
 
-Les Dons Planifiés : Une section nouvelle et améliorée sur les Dons Planifiés de notre site a été lancée. Si vous êtes intéressé à inclure la Fondation Urantia dans votre testament, visitez, s’il vous plaît, urantia.plannedgiving.org ou appelez le bureau à 773-525-3319.
+Les Dons Planifiés : Une section nouvelle et améliorée sur les Dons Planifiés de notre site a été lancée. Si vous êtes intéressé à inclure la Fondation Urantia dans votre testament, visitez, s’il vous plaît, urantia.plannedgiving.org ou appelez le bureau à 773-525-3319.
 
-Le Pont de la Révélation : Le conseil d’administration a déplacé des donations de succession récentes dans ce fonds, pour les générations futures. Le fonds a été doté de $4,486,768.
+Le Pont de la Révélation : Le conseil d’administration a déplacé des donations de succession récentes dans ce fonds, pour les générations futures. Le fonds a été doté de $4,486,768.
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2021_04/022.jpg">

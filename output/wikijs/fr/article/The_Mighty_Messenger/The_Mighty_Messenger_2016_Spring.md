@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 La conférence/session d’études d’été 2016 prend de l’ampleur ! La première plénière de In This Issue débutera jeudi soir, le 9 juin, et la conférence se terminera à midi le dimanche 12 juin. Les entités organisatrices sont l’Association Lone Star Urantia et le Comité d'Éducation de la Fraternité. www.Urantia-LSUA.org est également l’adresse à laquelle les gens doivent s’inscrire, s’ils ne l’ont pas déjà fait. Il reste encore beaucoup de temps pour participer à ce qui promet d’être un rassemblement chaleureux et spirituel de retrouvailles et d’éducation.
 
-Katrina Glavan-Heise de la LSUA est responsable générale des détails, de l’inscription et de la logistique de la conférence. Elle veut que les gens sachent qu’il existe des bourses d’études pour lesquelles les individus peuvent postuler. « Sur notre site Web où il est décrit la conférence, il y a un bouton pour postuler à une bourse : www.Urantia-LSUA.org. » Katrina a ajouté que les participants à la conférence UAUS/Fellowship 2016 souhaitant louer doivent utiliser le numéro spécifique de réduction client Budget (BCD) U001963 lorsqu’ils appellent Budget au 1-800-842-5628 pour faire une réservation. Le BCD est en vigueur 7 jours avant l’événement jusqu’à 7 jours après la conférence. Le numéro BCD sera automatiquement placé dans les détails de la réservation lorsqu’il est utilisé avec cet hyperlien : [Réservation](https://www.budgetcarrental.com/budget/meetings/go.html?BCD=U001963&NAME=Lone+Star+Urantia+Assocaition+&FDATE=06072016&TDATE=06142016&LOCATION2=&LOCATION1=San+Antonio%2cTX&EVENT=0&IN=&AA=0). (Vous pouvez également utiliser le lien actif dans le mini-Messenger de mars.)
+Katrina Glavan-Heise de la LSUA est responsable générale des détails, de l’inscription et de la logistique de la conférence. Elle veut que les gens sachent qu’il existe des bourses d’études pour lesquelles les individus peuvent postuler. « Sur notre site Web où il est décrit la conférence, il y a un bouton pour postuler à une bourse : www.Urantia-LSUA.org. » Katrina a ajouté que les participants à la conférence UAUS/Fellowship 2016 souhaitant louer doivent utiliser le numéro spécifique de réduction client Budget (BCD) U001963 lorsqu’ils appellent Budget au 1-800-842-5628 pour faire une réservation. Le BCD est en vigueur 7 jours avant l’événement jusqu’à 7 jours après la conférence. Le numéro BCD sera automatiquement placé dans les détails de la réservation lorsqu’il est utilisé avec cet hyperlien : [Réservation](https://www.budgetcarrental.com/budget/meetings/go.html?BCD=U001963&NAME=Lone+Star+Urantia+Assocaition+&FDATE=06072016&TDATE=06142016&LOCATION2=&LOCATION1=San+Antonio%2cTX&EVENT=0&IN=&AA=0). (Vous pouvez également utiliser le lien actif dans le mini-Messenger de mars.)
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2016_Spring/005885.jpg">
@@ -56,7 +56,7 @@ Chers amis,
 
 Au cours du dernier trimestre de 2015, nos bénévoles très occupés du Pipeline de Lumière ont placé cent quatre-vingt-dix-huit exemplaires du _Le Livre d'Urantia_ dans quinze pays. Vos dons au Pipeline nous ont aidé à livrer des livres à des lecteurs et à des groupes d'étude aux Philippines, aux États-Unis, au Nigéria, au Chili, au Canada, en Équateur, en Inde, au Guatemala, en Ouganda, en Colombie, au Salvador, en Corée et au Pérou. Nous avons identifié un nouveau pays Pipeline, Singapour.
 
-Les efforts actuels portent le total historique de notre Pipeline à six mille quinze exemplaires du _Le Livre d'Urantia_ répartis dans quatre-vingt-cinq pays à travers le monde. Un grand merci aux merveilleux bénévoles qui font circuler ce flux de livres dans le monde pour nous ! 
+Les efforts actuels portent le total historique de notre Pipeline à six mille quinze exemplaires du _Le Livre d'Urantia_ répartis dans quatre-vingt-cinq pays à travers le monde. Un grand merci aux merveilleux bénévoles qui font circuler ce flux de livres dans le monde pour nous ! 
 
 Nous apprécions profondément les contributions de nos bénévoles et de nos donateurs. Si vous souhaitez contribuer à ce travail, les dons peuvent être faits en ligne sur : www.urantiabook.org/urantia-book-store/ contributions ou par courrier à : _The Urantia Book_ Fellowship, PO Box 6631, Broomfield, CO 80021. 
 
@@ -64,7 +64,7 @@ Merci beaucoup pour ton aide.
 
 
 
-## Pourquoi feriez-vous un don à une organisation Urantia comme _The Urantia Book_ Fellowship ? 
+## Pourquoi feriez-vous un don à une organisation Urantia comme _The Urantia Book_ Fellowship ? 
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2016_Spring/005886.jpg">
@@ -72,7 +72,7 @@ Merci beaucoup pour ton aide.
 
 Eh bien, parce que si vous lisez _Le Livre d'Urantia_, vous savez ce que signifie avoir spirituellement faim et vous savez de première main quelle différence la révélation fait lorsque votre âme est vraiment nourrie.
 
-De plus, vous avez probablement fait l’expérience d’une recherche ardente de sens et savez à quel point il est agréable de trouver des enseignements spirituels qui ont réellement un sens. Vous vous souvenez probablement de ce que l’on ressent en se demandant : « Dieu est-il vraiment ainsi ? » « Qui suis-je et quelle est ma place ? » « Quelle est la valeur et le but de ma vie ? » « Pourquoi Dieu laisse-t-il le mal exister ? » « Pourquoi Dieu laisse-t-il souffrir les bonnes personnes ? » Vous savez à quel point cela peut être déroutant lorsque, dans un processus de remise en question sincère, on est confronté d’un côté à la rigidité du fondamentalisme dogmatique et de l’autre au vide d’une science laïque infidèle.
+De plus, vous avez probablement fait l’expérience d’une recherche ardente de sens et savez à quel point il est agréable de trouver des enseignements spirituels qui ont réellement un sens. Vous vous souvenez probablement de ce que l’on ressent en se demandant : « Dieu est-il vraiment ainsi ? » « Qui suis-je et quelle est ma place ? » « Quelle est la valeur et le but de ma vie ? » « Pourquoi Dieu laisse-t-il le mal exister ? » « Pourquoi Dieu laisse-t-il souffrir les bonnes personnes ? » Vous savez à quel point cela peut être déroutant lorsque, dans un processus de remise en question sincère, on est confronté d’un côté à la rigidité du fondamentalisme dogmatique et de l’autre au vide d’une science laïque infidèle.
 
 Jésus a bien décrit la douleur de la recherche lorsqu’il a dit de manière poignante : « _Le monde est rempli d’âmes affamées qui vivent dans la famine en présence même du pain de vie ; les hommes meurent en cherchant le Dieu qui habite pourtant en eux. Ils recherchent les trésors du royaume avec un cœur plein de désirs et une démarche fatiguée, alors qu’ils sont tous à portée immédiate de la foi vivante._” <a id="a76_410"></a>[[LU 159:3.8](/fr/The_Urantia_Book/159#p3_8)]
 
@@ -182,14 +182,14 @@ Des moyens de soutenir financièrement nos efforts 2x2=MORE peuvent être trouv�
 - Conférence d'été conjointe, Urantia Book Fellowship & AUI, San Antonio, Texas, 9-12 juin 2016  
 - Anniversaire de Jésus en Terre Sainte, du 10 août 2016 au 23 août 2016.
 
-Pour un régal spécial le samedi, connectez-vous à la webdiffusion « Cosmic Citizen » avec appel à 10 h 00, heure des Rocheuses. Numéro d'appel pour la webdiffusion : www.blogtalkradio.com/CosmicCitizen. Numéro d'appel : 646-716-8158 (Amérique du Nord) pendant la diffusion de l’émission. Des émissions archivées sont disponibles.
+Pour un régal spécial le samedi, connectez-vous à la webdiffusion « Cosmic Citizen » avec appel à 10 h 00, heure des Rocheuses. Numéro d'appel pour la webdiffusion : www.blogtalkradio.com/CosmicCitizen. Numéro d'appel : 646-716-8158 (Amérique du Nord) pendant la diffusion de l’émission. Des émissions archivées sont disponibles.
 
-Pour un régal spécial du mardi, connectez-vous à Symmetry of Soul sur Blogtalk Radio : www.blogtalkradio.com/symmetryofsoul. 18 heures. Des émissions archivées sont disponibles. 
+Pour un régal spécial du mardi, connectez-vous à Symmetry of Soul sur Blogtalk Radio : www.blogtalkradio.com/symmetryofsoul. 18 heures. Des émissions archivées sont disponibles. 
 
 ## Personnel du « The Mighty Messenger »
 
 Publié par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship
-Membres : Linda Buselli, président Larry Bowman, Cece Forrester, Sage Waitts 
+Membres : Linda Buselli, président Larry Bowman, Cece Forrester, Sage Waitts 
 877.288.3772 
 bourse@urantiabook.org
 www.urantiabook.org 

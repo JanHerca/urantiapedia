@@ -47,9 +47,9 @@ Vous savez que je suis toujours intéressé par vos études théologiques — c'
 
 La famille de cette région lutte comme d'habitude, chacun individuellement pour survivre. En fait, le cousin Harvey ne parle toujours pas au cousin Irving. Dites-moi, frère, dans vos communications avec nos autres cousins et frères, certains ont-ils partagé avec vous un problème similaire – manque de leadership ou même manque de relations – que vous pourriez peut-être appliquer à notre situation ici ? Notre Fils Créateur a patiemment soutenu toutes sortes de personnes à travers toutes sortes de difficultés. S'il y avait juste un moyen pour nous de faire davantage cela les uns pour les autres, malgré nos emplacements différents, nous pourrions vraiment alléger les charges de chacun.
 
-Rappelez-vous comment oncle Clyde a dit :
+Rappelez-vous comment oncle Clyde a dit :
 
-Pourquoi n'ai-je pas vu plus clairement que, comme Tu nous as traduit les symphonies du Paradis lui-même dans notre Grand Livre, nous ne pouvons pas les faire résonner à jamais dans nos mémoires à moins de les orchestrer à notre manière personnelle pour toucher fraternellement et quotidiennement la vie des autres. avec des mots, de l'amour et de l'action !
+Pourquoi n'ai-je pas vu plus clairement que, comme Tu nous as traduit les symphonies du Paradis lui-même dans notre Grand Livre, nous ne pouvons pas les faire résonner à jamais dans nos mémoires à moins de les orchestrer à notre manière personnelle pour toucher fraternellement et quotidiennement la vie des autres. avec des mots, de l'amour et de l'action !
 
 S'il vous plaît, laissez nos lettres et nos publications les unes envers les autres être des expressions d'amour et de sollicitude, quels que soient nos fonctions, positions, lieux ou opinions, et pas seulement des recueils de faits et de références. Et rions ensemble, de nous-mêmes et de nos faiblesses.
 

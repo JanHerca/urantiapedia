@@ -41,7 +41,7 @@ _Par Tamara Strumfeld, directrice exécutive, Fondation Urantia, Illinois, État
 
 Notre aventure a commencé le 26 octobre, lorsque Judy Van Cleave, trustee et secrétaire de la Fondation Urantia, et moi-même avons pris l'avion pour Mexico, à 45 minutes de la ville magique de San Juan Teotihuacán. Renommée pour ses célèbres et historiques pyramides, l'ancienne cité est maintenant un vaste complexe archéologique mexicain avec le site de deux pyramides mésoaméricaines construites en Amérique précolombienne, les Pyramides du Soleil et de la Lune.
 
-Nous avons assisté à la conférence régionale de l’Association Urantia pour les lecteurs d_'El libro de Urantia_. Le thème était « La cinquième révélation au vingt-et-unième siècl », et l'endroit offrait une juxtaposition colorée de culture ancienne et de nouvelle révélation. Ce fut un plaisir de rencontrer tant de lecteurs du Mexique ainsi que de l'Argentine, de la Bolivie, du Brésil, du Chili, de la Colombie, du Guatemala et des Pays-Bas.
+Nous avons assisté à la conférence régionale de l’Association Urantia pour les lecteurs d_'El libro de Urantia_. Le thème était « La cinquième révélation au vingt-et-unième siècl », et l'endroit offrait une juxtaposition colorée de culture ancienne et de nouvelle révélation. Ce fut un plaisir de rencontrer tant de lecteurs du Mexique ainsi que de l'Argentine, de la Bolivie, du Brésil, du Chili, de la Colombie, du Guatemala et des Pays-Bas.
 
 Les présidents de l'Urantia Association International et de l'Asociación Urantia de Mexico, Enrique Traver et Hector Landin, ont donné des discours de bienvenue inspirants. Les conférenciers ont fait des exposés réfléchis et perspicaces. Leur connaissance approfondie des enseignements était impressionnante. J'ai également fait une présentation sur la Fondation Urantia, ses programmes et sur les progrès réalisés en Amérique latine et dans le monde entier depuis la première impression du livre en 1955.
 
@@ -57,16 +57,16 @@ Un grand nombre de jeunes enthousiastes étaient présents et leur présence fut
 <figcaption><em>Ramiro Ramírez</em></figcaption>
 </figure>
 
-Les divertissements étaient remarquables, comme on peut s'y attendre au Mexique. Le premier soir, nous avons apprécié la musique d'un groupe de mariachis. Le deuxième soir, le talentueux Ramiro Ramírez nous a divertis avec sa guitare et sa voix enchanteresse. Plusieurs participants se sont montrés courageux et ont chanté, notamment Mariana, la charmante épouse de Ramiro, qui a une voix angélique. C'était merveilleux d'écouter les nombreuses chansons d'Amérique latine. La dernière soirée de la conférence s'est terminée par une fabuleuse fête dansante !
+Les divertissements étaient remarquables, comme on peut s'y attendre au Mexique. Le premier soir, nous avons apprécié la musique d'un groupe de mariachis. Le deuxième soir, le talentueux Ramiro Ramírez nous a divertis avec sa guitare et sa voix enchanteresse. Plusieurs participants se sont montrés courageux et ont chanté, notamment Mariana, la charmante épouse de Ramiro, qui a une voix angélique. C'était merveilleux d'écouter les nombreuses chansons d'Amérique latine. La dernière soirée de la conférence s'est terminée par une fabuleuse fête dansante !
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_12/026.jpg">
 <figcaption><em>Arturo Garcia, Sebastian Balcazar</em></figcaption>
 </figure>
 
-Tout au long de l'événement, il y a eu beaucoup d'amour, de fraternité et de camaraderie. Quelle surprise de rencontrer un vieil ami, Rob Davis, qui travaillait pour la Fondation Urantia et qui réside maintenant au Mexique. Et à chaque conférence, il y a toujours quelqu'un qui vient pour la première fois après avoir lu seul pendant des années. Cette fois-ci, c'était Sebastian Balcazar de Bolivie. Sebastian, tu as joué un rôle déterminant pour Judy et moi, en agissant comme notre fidèle traducteur. Merci à toi !
+Tout au long de l'événement, il y a eu beaucoup d'amour, de fraternité et de camaraderie. Quelle surprise de rencontrer un vieil ami, Rob Davis, qui travaillait pour la Fondation Urantia et qui réside maintenant au Mexique. Et à chaque conférence, il y a toujours quelqu'un qui vient pour la première fois après avoir lu seul pendant des années. Cette fois-ci, c'était Sebastian Balcazar de Bolivie. Sebastian, tu as joué un rôle déterminant pour Judy et moi, en agissant comme notre fidèle traducteur. Merci à toi !
 
-Les mots me manquent pour exprimer mon appréciation et ma gratitude à l'égard de tous ceux qui ont participé à l'organisation de cet événement mémorable.Un grand merci à l'Association du Mexique pour avoir parrainé cette conférence. Plus important encore, je chérirais toute ma vie, les souvenirs que j'ai créés avec tous ceux qui ont partagé ce moment à Teotihuacán.Notre séjour a été court, mais les relations que nous avons nouées seront durables !
+Les mots me manquent pour exprimer mon appréciation et ma gratitude à l'égard de tous ceux qui ont participé à l'organisation de cet événement mémorable.Un grand merci à l'Association du Mexique pour avoir parrainé cette conférence. Plus important encore, je chérirais toute ma vie, les souvenirs que j'ai créés avec tous ceux qui ont partagé ce moment à Teotihuacán.Notre séjour a été court, mais les relations que nous avons nouées seront durables !
 <br style="clear:both;"/>
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">

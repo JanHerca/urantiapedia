@@ -34,9 +34,9 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
-_Par Sebastian Nozzi, coordinateur du continent européen de l’AUI, Allemagne ; Karmo Kalda, président de la conférence, Estonie ; et Peep Sōber, traducteur, Estonie_
+_Par Sebastian Nozzi, coordinateur du continent européen de l’AUI, Allemagne ; Karmo Kalda, président de la conférence, Estonie ; et Peep Sōber, traducteur, Estonie_
 
-_Note de l’éditeur : La deuxième conférence européenne Urantia ( ne comptant pas la conférence internationale qui se tint à Amsterdam en 2018), s’est tenue du 11 au 14 juillet à l’hôtel Tallinn City, en Estonie. Elle était co parrainée par l’Association Urantia Internationale (AUI), la Fondation Urantia et Truthbook, et animée par l’Association Estonienne Urantia. Dans cet article, trois lecteurs associés de près à la conférence, partagent leurs pensées sur ce qui fit de la conférence, un succès._
+_Note de l’éditeur : La deuxième conférence européenne Urantia ( ne comptant pas la conférence internationale qui se tint à Amsterdam en 2018), s’est tenue du 11 au 14 juillet à l’hôtel Tallinn City, en Estonie. Elle était co parrainée par l’Association Urantia Internationale (AUI), la Fondation Urantia et Truthbook, et animée par l’Association Estonienne Urantia. Dans cet article, trois lecteurs associés de près à la conférence, partagent leurs pensées sur ce qui fit de la conférence, un succès._
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2019_10/019.jpg">
 </figure>
@@ -56,7 +56,7 @@ La conférence fut une grande réussite et reçut des commentaires positifs auss
 
 **Ignition d’étincelles** : La première conférence européenne parrainée par l’AUI fut celle de 2016 en Hongrie, à Budapest. Ce fut une réussite et elle attira des participants de différentes parties du monde, en particulier d’Amérique du Nord. En effet, on aurait dit une conférence internationale. Cela servit à infuser, à nous autres européens, de l’énergie et nous encouragea à tenir régulièrement des conférences européennes dans le futur.
 
-À la fin de 2017, de nombreux leaders européens se réunirent pour planifier la prochaine conférence européenne. Beaucoup de villes furent proposées, mais la plupart d’entre elles manquaient d’organisations locales avec le potentiel de concrétiser le projet. J’étais présent lorsque Karmo Kalda, représentant de l’Association estonienne, prit les devants courageusement et dit  « nous pouvons héberger la prochaine conférence européenne. » Cela m’impressionna tellement, que je votai en faveur du projet.
+À la fin de 2017, de nombreux leaders européens se réunirent pour planifier la prochaine conférence européenne. Beaucoup de villes furent proposées, mais la plupart d’entre elles manquaient d’organisations locales avec le potentiel de concrétiser le projet. J’étais présent lorsque Karmo Kalda, représentant de l’Association estonienne, prit les devants courageusement et dit  « nous pouvons héberger la prochaine conférence européenne. » Cela m’impressionna tellement, que je votai en faveur du projet.
 
 **Fabriqué en Europe** : La conférence de Tallinn était la collaboration de personnes de différentes associations. Jaap Terra, l’organisateur principal de la conférence d’Amsterdam de 2018, proposa son aide et ses compétences à Karmo. Les hollandais agirent comme mentor et aidèrent à mettre en place les fondements pour démarrer.
 
@@ -66,13 +66,13 @@ Notre présidente du comité des Urantia Jeunes Adultes International, Anna Zeve
 
 Et finalement, le président des conférences de l’AUI, Antonio Schefer, s’assura que le projet se déroule sans problème, en dirigeant son organisation et en prenant soin de nombreux autres éléments autour de la conférence.
 
-Pour la majeure partie, cet événement était « fabriqué en Europe. » Mais, en toute franchise, on devrait dire que cela n’aurait pas été possible, et deux fois moins amusant, sans l’aide de nos organisations co parrainantes internationales ( comme l’AUI et la Fondation Urantia) ainsi que l’aide, la participation et la présence de nos frères et sœurs internationaux.
+Pour la majeure partie, cet événement était « fabriqué en Europe. » Mais, en toute franchise, on devrait dire que cela n’aurait pas été possible, et deux fois moins amusant, sans l’aide de nos organisations co parrainantes internationales ( comme l’AUI et la Fondation Urantia) ainsi que l’aide, la participation et la présence de nos frères et sœurs internationaux.
 
-**L’Effet Tallinn** : Le thème de la conférence était « Semer des Graines. » Le thème était assez général pour que de nombreux points de vue puissent être présentés sur le sujet ( ce fut en effet le cas en regardant le programme) . C’est aussi quelque chose dont le mouvement en Europe a besoin, impérativement, pour pouvoir croître. Cela suscite certainement la réflexion : comment semer des graines en Europe ?
+**L’Effet Tallinn** : Le thème de la conférence était « Semer des Graines. » Le thème était assez général pour que de nombreux points de vue puissent être présentés sur le sujet ( ce fut en effet le cas en regardant le programme) . C’est aussi quelque chose dont le mouvement en Europe a besoin, impérativement, pour pouvoir croître. Cela suscite certainement la réflexion : comment semer des graines en Europe ?
 
-La conférence à Tallinn fut un bon exemple de « semer des graines. » Cela démontre qu’une équipe petite, mais dévouée, peut semer des graines et transformer une idée en un événement réel. Avec du temps, de la patience, du dévouement, de la planification et enfin la réalisation, les choses qui commencent par une idée (la graine) peuvent croître en une vision qui se matérialisera finalement en réalité.
+La conférence à Tallinn fut un bon exemple de « semer des graines. » Cela démontre qu’une équipe petite, mais dévouée, peut semer des graines et transformer une idée en un événement réel. Avec du temps, de la patience, du dévouement, de la planification et enfin la réalisation, les choses qui commencent par une idée (la graine) peuvent croître en une vision qui se matérialisera finalement en réalité.
 
-Mais aussi impressionnant que le travail de l’équipe estonienne ait été, ce n’était pas ce que j’appellerais « l’effet Tallinn. » Beaucoup de choses merveilleuses firent leur apparition durant cette conférence et plus tard. Les histoires sont nombreuses et chacune d’elles est unique comme les personnes qui y sont impliquées. De vieux amis furent réunis, de nouvelles amitiés virent le jour, les gens furent inspirés et une nouvelle énergie et de l’enthousiasme nous furent donnés pour commencer de nouveaux projets ou ressusciter ceux qui avaient été abandonnés. Pour garder le feu vivant dans nos cœurs et en faire quelque chose de positif- c’est ce que j’appelle « l’effet Tallinn. »
+Mais aussi impressionnant que le travail de l’équipe estonienne ait été, ce n’était pas ce que j’appellerais « l’effet Tallinn. » Beaucoup de choses merveilleuses firent leur apparition durant cette conférence et plus tard. Les histoires sont nombreuses et chacune d’elles est unique comme les personnes qui y sont impliquées. De vieux amis furent réunis, de nouvelles amitiés virent le jour, les gens furent inspirés et une nouvelle énergie et de l’enthousiasme nous furent donnés pour commencer de nouveaux projets ou ressusciter ceux qui avaient été abandonnés. Pour garder le feu vivant dans nos cœurs et en faire quelque chose de positif- c’est ce que j’appelle « l’effet Tallinn. »
 
 **Conclusion** : La conférence de Tallinn a marqué une autre étape importante dans l’histoire du mouvement Urantia, en Europe. Ce niveau de réussite et la coopération montrent qu’en dépit de nos challenges, nous allons dans la bonne direction vers un mouvement Urantia plus dynamique, plus intégré et plus synergique, en Europe.
 
@@ -97,7 +97,7 @@ Les gens qui ont organisé des événements comme notre conférence disent souve
 
 **Les finances** : Simplement dit, le budget doit toujours être équilibré ou avec un excédent.
 
-**Remerciements** : Merci Antonio, de ta confiance en nous ! Merci à tous les orateurs ! Merci aux participants ! Et merci à tous ceux qui nous ont aidé de bien des manières !
+**Remerciements** : Merci Antonio, de ta confiance en nous ! Merci à tous les orateurs ! Merci aux participants ! Et merci à tous ceux qui nous ont aidé de bien des manières !
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2019_10/024.jpg">
@@ -109,9 +109,9 @@ Au début des années 70, certains lecteurs finnois inconnus, donnèrent un livr
 
 Les gens ici, en ce temps-là, étaient plus affamés spirituellement que maintenant, bien qu’ils vivent dans un pays libre. Néanmoins, après avoir traduit le livre entier pour pouvoir le lire, j’étais le seul qui reconnut sa grande valeur. Mais quelque fois, même un seul homme, au bon moment et au bon endroit, est suffisant pour commencer le processus de croissance de la prochaine étape. Pendant les préparatifs de cette conférence, je fus étonné de voir qu’une petite graine plantée, il y a 50 ans, puisse mobiliser les gens aujourd’hui, à venir ici de si nombreux pays, pour participer à une conférence.
 
-Il y a quelques lecteurs, ici, et notre association locale est petite, comparée à d’autres. Donc, nous voulions que le concept de notre conférence soit pratique : croissance intérieure qualitative et croissance extérieure quantitative. Nous voulions entendre comment nos frères et sœurs ont réalisé ce qu’ils ont, et partager avec tous ce que nous avions fait.
+Il y a quelques lecteurs, ici, et notre association locale est petite, comparée à d’autres. Donc, nous voulions que le concept de notre conférence soit pratique : croissance intérieure qualitative et croissance extérieure quantitative. Nous voulions entendre comment nos frères et sœurs ont réalisé ce qu’ils ont, et partager avec tous ce que nous avions fait.
 
-Pouvons-nous croître du niveau présent des deux manières ? Oui. Mais une chose est certaine : une nouvelle qualité peut émerger de notre monde intérieur et pour accélérer ce processus nous avons besoin de relations – avec Dieu par l’esprit intérieur (la direction verticale) et par d’autres lecteurs (la direction horizontale). C’est pourquoi les conférences sont des besoins basiques.
+Pouvons-nous croître du niveau présent des deux manières ? Oui. Mais une chose est certaine : une nouvelle qualité peut émerger de notre monde intérieur et pour accélérer ce processus nous avons besoin de relations – avec Dieu par l’esprit intérieur (la direction verticale) et par d’autres lecteurs (la direction horizontale). C’est pourquoi les conférences sont des besoins basiques.
 
 Une fois à Chicago, à une conférence internationale, je fis la remarque à mon compagnon de chambre, venant d’Allemagne, combien il était étrange que les lecteurs européens ne puissent se rencontrer qu’en Amérique. Maintenant cela a changé et nous espérons que la pratique de tenir des conférences européennes continuera.
 

@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Georges Michelson-Dupont, vice-président international et directeur des traductions, Fondation Urantia, Recloses, France_
 
-_Note de l'éditeur : Seppo était un homme au service du projet et de la communauté du Livre d'Urantia. Cela commença en 1984 lorsqu'il entreprit la traduction du livre en finnois. Il fut actif dans la création de la filiale finlandaise de l’Association Urantia Internationale, travailla comme directeur des traductions de la Fondation Urantia, rejoignit le conseil d'administration en 2001, et servit ensuite comme président du Conseil d’Administration de 2004 jusqu'à sa retraite en 2008. Nous avons tous bénéficié de ses contributions, de son mentorat et surtout de son amitié. Seppo, nous te souhaitons bonne chance dans ta progression sur les mondes des maisons. Nous sommes sûrs que ta charmante personne continuera à enchanter ceux avec qui tu interagira !_
+_Note de l'éditeur : Seppo était un homme au service du projet et de la communauté du Livre d'Urantia. Cela commença en 1984 lorsqu'il entreprit la traduction du livre en finnois. Il fut actif dans la création de la filiale finlandaise de l’Association Urantia Internationale, travailla comme directeur des traductions de la Fondation Urantia, rejoignit le conseil d'administration en 2001, et servit ensuite comme président du Conseil d’Administration de 2004 jusqu'à sa retraite en 2008. Nous avons tous bénéficié de ses contributions, de son mentorat et surtout de son amitié. Seppo, nous te souhaitons bonne chance dans ta progression sur les mondes des maisons. Nous sommes sûrs que ta charmante personne continuera à enchanter ceux avec qui tu interagira !_
 
 Cher Seppo,
 
@@ -61,7 +61,7 @@ Au cours de l'été 1995, toi, Richard Keeler et moi-même, ainsi que Damian Bon
 
 Ensuite, nous avons préparé ensemble les deux conférences des traducteurs à Paris en 1996 et 1997, ce qui a conduit à une accélération des traductions, à une meilleure coopération entre les traducteurs et au début d'un processus unifié. Après la deuxième conférence, tu es devenu le directeur des traductions de la Fondation Urantia.
 
-Je me souviens que tu parlais plusieurs langues : l'espagnol, le portugais, l'anglais, l'allemand et un peu de français. En plus de la tâche d'organisation et de coordination des traductions, tu avais supervisé le travail de correction de la traduction espagnole entrepris par une équipe de lecteurs avec beaucoup de gentillesse et de tact.
+Je me souviens que tu parlais plusieurs langues : l'espagnol, le portugais, l'anglais, l'allemand et un peu de français. En plus de la tâche d'organisation et de coordination des traductions, tu avais supervisé le travail de correction de la traduction espagnole entrepris par une équipe de lecteurs avec beaucoup de gentillesse et de tact.
 
 Finalement, tu es devenu trustee en 2001, à la place de Kwan Choi. Nous tous, à la Fondation et dans le mouvement Urantia, te devons beaucoup. Je me souviens de ta silhouette, en fin de soirée après nos réunions au 533, sur le balcon de la Fondation, fumant des cigarettes avec un verre de vin à la main, riant aux éclats et faisant des blagues. Tu avais un grand sens de l'humour, une joie de vivre communicative et un grand sens des responsabilités. Franchement, tu étais une source d'inspiration pour tous ceux qui t'entouraient.
 

@@ -39,11 +39,11 @@ Un appel à la conscience : Défendre la liberté et les droits de l'homme <br> 
 
 ## Le Parlement des Religions du Monde
 
-En août 2023, le Parlement des Religions du Monde retournera à Chicago, la ville natale du mouvement inter religieux moderne. Le thème sera « Un Appel de Conscience : Défendre la Liberté et les droits de l’homme. »
+En août 2023, le Parlement des Religions du Monde retournera à Chicago, la ville natale du mouvement inter religieux moderne. Le thème sera « Un Appel de Conscience : Défendre la Liberté et les droits de l’homme. »
 
 Quatre organisations Urantia—Truthbook, l’Association Urantia Internationale, la Fellowship du Livre d’Urantia—partagent de nouveau le coût d’un stand double.
 
-Plus d’informations seront disponibles pour les membres du lectorat qui désirent participer et donner de leur temps au stand. Si vous voulez allez plus loin pour assurer que la cinquième révélation soit bien représentée à cet événement, vous pouvez envisager de faire une présentation !
+Plus d’informations seront disponibles pour les membres du lectorat qui désirent participer et donner de leur temps au stand. Si vous voulez allez plus loin pour assurer que la cinquième révélation soit bien représentée à cet événement, vous pouvez envisager de faire une présentation !
 
 Les propositions doivent arriver avant le 4 novembre 2022.
 
@@ -57,7 +57,7 @@ Si vous voulez que _Le Livre d’Urantia_ et des traductions de qualité soient 
 
 Contactez nous, aujourd’hui, pour plus d’informations pour savoir comment faire un don qui perdurera. Nous nous assurerons que votre don soit utilisé comme vous le souhaitez.
 
-Contactez : [tamara@urantia.org](mailto:tamara@urantia.org)
+Contactez : [tamara@urantia.org](mailto:tamara@urantia.org)
 
 
 

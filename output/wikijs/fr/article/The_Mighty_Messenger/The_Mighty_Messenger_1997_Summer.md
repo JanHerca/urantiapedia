@@ -38,7 +38,7 @@ Les théologiens ne débattent plus du nombre d’anges capables de danser sur u
 
 Quelques-unes des centaines de mentions d'anges dans l’Ancien et le Nouveau Testament ont été citées, y compris des apparitions angéliques pendant les ministères de Jésus et apostoliques. Les traditions hébraïques et chrétiennes ont été mises en valeur.
 
-Parmi la vaste foule d'esprits ministériels décrits dans le _Livre d'Urantia_, seuls quatre groupes de séraphins ont été sélectionnés pour être étudiés au cours du programme de six heures : les séraphins gardiens, les séraphins transporteurs, les maîtres séraphins de la supervision planétaire (les « anges des églises », « anges du progrès », etc.), et les archanges. Le rôle vital joué par l’ange gardien pendant la vie mortelle, à la mort et après la survie était la principale préoccupation.
+Parmi la vaste foule d'esprits ministériels décrits dans le _Livre d'Urantia_, seuls quatre groupes de séraphins ont été sélectionnés pour être étudiés au cours du programme de six heures : les séraphins gardiens, les séraphins transporteurs, les maîtres séraphins de la supervision planétaire (les « anges des églises », « anges du progrès », etc.), et les archanges. Le rôle vital joué par l’ange gardien pendant la vie mortelle, à la mort et après la survie était la principale préoccupation.
 
 Carolyn Kendall a coordonné la présentation et Marilynn Kulieke a organisé les rafraîchissements et le déjeuner.
 
@@ -83,9 +83,9 @@ Alors, à mesure que le moment de cette TDA approchait, je ne savais pas trop à
 
 Enfin, malgré tout le sérieux du travail et le dévouement à la tâche, il y avait une bonne humeur et un esprit de coopération rares. Certains d’entre nous n’oublieront pas de sitôt :
 
-1. Le décompte involontaire, humoristique et répété de nos bulletins de vote (ce que, même si cela n’a pas fait de mal, on aurait considéré qu’il ne s’agissait pas d’une habitude) ;
+1. Le décompte involontaire, humoristique et répété de nos bulletins de vote (ce que, même si cela n’a pas fait de mal, on aurait considéré qu’il ne s’agissait pas d’une habitude) ;
 
-2. Le talent artistique « ému et appuyé » d'une équipe de délégués présents, frères et sœurs, couplé au manque de secondes pour plusieurs autres résolutions ; et,
+2. Le talent artistique « ému et appuyé » d'une équipe de délégués présents, frères et sœurs, couplé au manque de secondes pour plusieurs autres résolutions ; et,
 
 3. Dernier point, mais non le moindre, l’échec des efforts visant à réintroduire une proposition de représentation directe de la société au Conseil général, couplé à l’acceptation amicale de sa défaite par ses partisans.
 
@@ -125,30 +125,30 @@ Janet Farrington Graham
 
 ## TDA élit huit nouveaux conseillers — Comité exécutif reconstitué
 
-Huit nouveaux conseillers généraux ont été élus par l’Assemblée triennale des délégués le 10 juillet à Vancouver. Les nouveaux membres du GC sont :
+Huit nouveaux conseillers généraux ont été élus par l’Assemblée triennale des délégués le 10 juillet à Vancouver. Les nouveaux membres du GC sont :
 
-- Matthew Block, Chicago ;
-- Gary Deinstadt, Somers, New York ;
+- Matthew Block, Chicago ;
+- Gary Deinstadt, Somers, New York ;
 - Christel Garrick, Duncan, Colombie-Britannique Canada;
-- Earlene Green, Chevy Chase, MD ;
-- Michelle Klimesh, Walnut Creek, Californie ;
-- Dolorès Nice, Redwood City, Californie ;
-- Charles Olivea, Watertown, Connecticut ;
+- Earlene Green, Chevy Chase, MD ;
+- Michelle Klimesh, Walnut Creek, Californie ;
+- Dolorès Nice, Redwood City, Californie ;
+- Charles Olivea, Watertown, Connecticut ;
 - Stevie Shaefer, Alexandria, Virginie.
 
-Sept Conseillers Généraux ont été réélus, portant le total des élus par la TDA à 15 :
+Sept Conseillers Généraux ont été réélus, portant le total des élus par la TDA à 15 :
 
-- Robert Bruyn, Kansas City, MO ;
-- Robert Burns, Irvine, Californie ;
-- Avi Dogim, Cliffside Park, New Jersey ;
-- Stephen Dreier, Fort Lee, New Jersey ;
-- Gard Jameson, Boulder City, Nevada ;
-- Harry McMullan, Oklahoma City, d'accord ;
+- Robert Bruyn, Kansas City, MO ;
+- Robert Burns, Irvine, Californie ;
+- Avi Dogim, Cliffside Park, New Jersey ;
+- Stephen Dreier, Fort Lee, New Jersey ;
+- Gard Jameson, Boulder City, Nevada ;
+- Harry McMullan, Oklahoma City, d'accord ;
 - Brian Smith, Encinitas, Californie.
 
 En plus des 12 sièges habituels de 9 ans, 2 étaient de 6 ans et 1 de 3 ans.
 
-À la suite du TDA, le Conseil général a élu les dirigeants et les présidents des comités qui constituent le Comité exécutif de 14 membres. Les officiers sont :
+À la suite du TDA, le Conseil général a élu les dirigeants et les présidents des comités qui constituent le Comité exécutif de 14 membres. Les officiers sont :
 
 - Présidente, Janet Farrington Graham;
 - Vice-président, Mo Siegel ;
@@ -156,12 +156,12 @@ En plus des 12 sièges habituels de 9 ans, 2 étaient de 6 ans et 1 de 3 ans.
 - Trésorier, Harry McMullan ;
 - Secrétaire générale, Marilynn Kulieke.
 
-Les comités et leurs présidents sont :
+Les comités et leurs présidents sont :
 
-- Judiciaire, Dan Massey ;
-- Charte, Marvin Gawryn ;
+- Judiciaire, Dan Massey ;
+- Charte, Marvin Gawryn ;
 - Relations Fraternelles, Gard Jameson ;
-- Extension nationale, Paula Thompson ;
+- Extension nationale, Paula Thompson ;
 - Bourse internationale, John Lange ;
 - Éducation, Stephen Dreier ;
 - Publications, Avi Dogim;

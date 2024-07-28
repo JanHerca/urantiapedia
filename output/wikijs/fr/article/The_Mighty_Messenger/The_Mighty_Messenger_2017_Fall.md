@@ -29,9 +29,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-## Un été passionnant s’annonce !
+## Un été passionnant s’annonce !
 
-Rejoignez-nous cet été prochain, du 19 au 22 juillet 2018, à Techny Towers à Northbrook, Illinois, pour la session d'études d'été des bourses, parrainée par le comité d'éducation. Notre thème est « C’est un univers convivial : servir avec notre famille céleste. » Plusieurs activités sont prévues. 
+Rejoignez-nous cet été prochain, du 19 au 22 juillet 2018, à Techny Towers à Northbrook, Illinois, pour la session d'études d'été des bourses, parrainée par le comité d'éducation. Notre thème est « C’est un univers convivial : servir avec notre famille céleste. » Plusieurs activités sont prévues. 
 
 Le 17 juillet, l’Assemblée triennale des délégués se réunira pour élire des candidats pour pourvoir plus d'une douzaine de sièges au Conseil général de la Fellowship. Si vous êtes intéressé à servir la révélation dans l’un de ces postes, consultez la page 3 de ce numéro pour plus d'informations et un formulaire de candidature pour un service au Conseil. 
 
@@ -39,7 +39,7 @@ De plus, juste avant le début de la session d'étude, il est d'usage d'organise
 
 Et bien sûr, comme toujours, de nombreux ateliers en rapport avec le thème de la Session d'étude seront programmés. Avez-vous une idée de programme que vous aimeriez créer pour un atelier ? Si tel est le cas, contactez Jacquelyn.Koury@gmail.com. 
 
-Nous attendons avec impatience un grand rassemblement et une chance de revoir d’anciens amis et d’en rencontrer de nouveaux ! Commencez à faire des projets dès maintenant !
+Nous attendons avec impatience un grand rassemblement et une chance de revoir d’anciens amis et d’en rencontrer de nouveaux ! Commencez à faire des projets dès maintenant !
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2017_Fall/005922.jpg">
@@ -53,7 +53,7 @@ Geoff Taylor en bref….
 <img src="/image/article/The_Mighty_Messenger/2017_Fall/005923.jpg">
 </figure>
 
-Je suis un technicien itératif, innovant et expérimental de 66 ans avec une formation en génie aéronautique. J’avais plusieurs licences de pilote, j’ai construit un avion à réaction et j’ai écrasé un ultra-léger. Ma carrière en tant qu’ingénieur sur les moteurs à turbine a commencé à Winnipeg, au Canada, puis à Dallas, au Texas, puis à Los Angeles. Un « éveil » de la quarantaine provoqué par la lecture du _Livre d'Urantia_ en 1985 a ravivé mes premières racines chrétiennes et m'a ramené « chez moi » à Winnipeg - mais pas avant d'avoir parcouru le monde, d'être monté à bord de trois navettes spatiales et d'avoir remporté quelques prix de design. récompenses (l’ego devenait trop gros à gérer). De retour à la maison, j'ai lancé Vista Medical avec mon frère, j'ai inventé des capteurs de pression extensibles pour la prévention des escarres et quelques autres papas doo. Ayant vendu l’entreprise, pris ma retraite et perdu ma femme depuis 43 ans à cause d'un cancer, je travaille sur le remède et je chante dans des chorales pour collecter des fonds pour des œuvres caritatives locales. Le crash de cet ultra-léger en 2003 m'a permis de me concentrer sur les choses qui comptent le plus : relations avec les gens, coopération et harmonie. Consultez ma page Web personnelle www. ubgeoff.com pour les photos et ma « Théorie du tout » : amélioration progressive de toutes choses. 
+Je suis un technicien itératif, innovant et expérimental de 66 ans avec une formation en génie aéronautique. J’avais plusieurs licences de pilote, j’ai construit un avion à réaction et j’ai écrasé un ultra-léger. Ma carrière en tant qu’ingénieur sur les moteurs à turbine a commencé à Winnipeg, au Canada, puis à Dallas, au Texas, puis à Los Angeles. Un « éveil » de la quarantaine provoqué par la lecture du _Livre d'Urantia_ en 1985 a ravivé mes premières racines chrétiennes et m'a ramené « chez moi » à Winnipeg - mais pas avant d'avoir parcouru le monde, d'être monté à bord de trois navettes spatiales et d'avoir remporté quelques prix de design. récompenses (l’ego devenait trop gros à gérer). De retour à la maison, j'ai lancé Vista Medical avec mon frère, j'ai inventé des capteurs de pression extensibles pour la prévention des escarres et quelques autres papas doo. Ayant vendu l’entreprise, pris ma retraite et perdu ma femme depuis 43 ans à cause d'un cancer, je travaille sur le remède et je chante dans des chorales pour collecter des fonds pour des œuvres caritatives locales. Le crash de cet ultra-léger en 2003 m'a permis de me concentrer sur les choses qui comptent le plus : relations avec les gens, coopération et harmonie. Consultez ma page Web personnelle www. ubgeoff.com pour les photos et ma « Théorie du tout » : amélioration progressive de toutes choses. 
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2017_Fall/005924.jpg">
@@ -81,9 +81,9 @@ Si, après avoir lu ceci et pris contact avec notre Père, vous sentez que vous 
 
 Entre avril et septembre 2017, nos bénévoles du Pipeline de Lumière ont placé quatre cent quarante-six exemplaires du _Le Livre d'Urantia_ dans dix-huit pays. Vos dons au Pipeline nous ont aidés à livrer des livres à des lecteurs et à des groupes d'étude en Ouganda, au Mexique, au Venezuela, en Indonésie, aux États-Unis, à Cuba, au Brésil, en Zambie, en Espagne, au Pérou, en Nouvelle-Zélande, en Équateur, au Ghana, en Angleterre, au Salvador et Colombie. 
 
-Nous avons également marqué deux nouveaux pays : _Le Livre d'Urantia_ a trouvé sa place dans un collège théologique du Royaume des Tonga, et dans une mission LDS dans le pays du Libéria. Les livres envoyés ce trimestre comprennent 51 livres en anglais, 20 traductions en portugais et 375 traductions en espagnol. 
+Nous avons également marqué deux nouveaux pays : _Le Livre d'Urantia_ a trouvé sa place dans un collège théologique du Royaume des Tonga, et dans une mission LDS dans le pays du Libéria. Les livres envoyés ce trimestre comprennent 51 livres en anglais, 20 traductions en portugais et 375 traductions en espagnol. 
 
-Les efforts actuels portent le total historique de notre Pipeline à sept mille cinq cent cinquante-six exemplaires du _Le Livre d'Urantia_ placés dans quatre-vingt-huit pays à travers le monde. Un grand merci aux merveilleux bénévoles qui font circuler ce flux de livres dans le monde pour nous ! 
+Les efforts actuels portent le total historique de notre Pipeline à sept mille cinq cent cinquante-six exemplaires du _Le Livre d'Urantia_ placés dans quatre-vingt-huit pays à travers le monde. Un grand merci aux merveilleux bénévoles qui font circuler ce flux de livres dans le monde pour nous ! 
 
 Nous apprécions profondément les contributions de nos bénévoles et de nos donateurs. Si vous souhaitez contribuer à ce travail, les dons peuvent être faits en ligne à : http://urantiabook.org/urantia-book-store/contributions ou par courrier à : _The Urantia Book_ Fellowship, PO Box 6631, Broomfield, CO 80021 
 
@@ -110,7 +110,7 @@ Ainsi, le livre et les enseignements étaient bien représentés à la conféren
 Rejoignez-nous au Parlement des religions du monde à Toronto, Canada, du 1er au 7 novembre 2018.
 
 
-## Le moment de donner est à nos portes !
+## Le moment de donner est à nos portes !
 
 Vous vous êtes peut-être demandé ce que nous faisons, et peut-être même pourquoi nous avons besoin de votre don pour continuer à faire ce que nous faisons.
 
@@ -162,7 +162,7 @@ Les ateliers du samedi matin porteront sur le thème « S'entendre avec les autr
 
 Pour plus d'informations, rendez-vous sur le site Web de l’ABC-Society (ABC-Society.com) et sélectionnez la page d'inscription à la conférence. Le coût de participation est de \$250 per person for a shared double room, or \$325 pour une chambre privée, avec 6 repas inclus. Les navetteurs peuvent assister à une seule journée ou à la conférence entière à un tarif réduit. La date limite d'inscription anticipée est le 8 janvier 2018, après quoi les frais d'inscription augmentent de 50 \$. 
 
-Merci de vous inscrire le plus tôt possible pour réserver votre place ! Pour les informations sociales, nous sommes également sur Facebook et Google+. S'il vous plaît, « Ami » avec nous. Envoyez un e-mail à abcsociety606@gmail.com pour toute question que vous pourriez avoir.
+Merci de vous inscrire le plus tôt possible pour réserver votre place ! Pour les informations sociales, nous sommes également sur Facebook et Google+. S'il vous plaît, « Ami » avec nous. Envoyez un e-mail à abcsociety606@gmail.com pour toute question que vous pourriez avoir.
 
 ### Colloque Scientifique SSIV
 
@@ -202,7 +202,7 @@ Nos deux sponsors ont manifesté leur intérêt à répéter l’événement en 
 
 ### Société Urantia du Grand New York 
 
-Les membres et amis de la Société Urantia du Grand New York se sont réunis au Warwick Conference Center à New York en octobre pour participer à « Un cours de formation spirituelle » dirigé par Marvin Gawryn. Le programme intitulé « Un mode de vie dans la famille de Dieu » était un échantillon du cours de neuf semaines de Marvin. Selon ses mots, son objectif est d'examiner en profondeur ce mode de vie supérieur dans la famille spirituelle et chacune des sept vérités qui en font partie : la relation spirituelle parent-enfant, la relation spirituelle entre sœur et frère, l’esprit intérieur. , la volonté de Dieu, la vie éternelle et la foi. 
+Les membres et amis de la Société Urantia du Grand New York se sont réunis au Warwick Conference Center à New York en octobre pour participer à « Un cours de formation spirituelle » dirigé par Marvin Gawryn. Le programme intitulé « Un mode de vie dans la famille de Dieu » était un échantillon du cours de neuf semaines de Marvin. Selon ses mots, son objectif est d'examiner en profondeur ce mode de vie supérieur dans la famille spirituelle et chacune des sept vérités qui en font partie : la relation spirituelle parent-enfant, la relation spirituelle entre sœur et frère, l’esprit intérieur. , la volonté de Dieu, la vie éternelle et la foi. 
 
 Le week-end a commencé par un temps d'adoration «... le plus grand privilège et le premier devoir de toutes les intelligences créées». Marvin a introduit la « Prière de centrage » et nous avons terminé le vendredi soir par un moment de calme pour nous concentrer dans les bras de notre Père. Le samedi et le dimanche, nous avons profité du temps passé à socialiser avec d'anciens et de nouveaux amis. Nous avons passé le reste de notre temps à considérer les citations du Livre d'Urantia et les questions connexes pour discuter de chacune des sept vérités. Marvin espère que le programme sera un moyen non seulement d’aider les lecteurs à vivre ces vérités à travers la foi et la transformation spirituelle, mais aussi d’apporter la vérité du Livre d’Urantia à un public plus large de non-lecteurs.
 
@@ -214,7 +214,7 @@ Le groupe de Chicago, qui s'est réuni au siège de la Fondation au 533 Diversey
 
 Le groupe du Lincolnshire est plus thématique et comprend également des lectures approfondies agrémentées de discussions, de références croisées et du soutien de diverses ressources. Le groupe est sur le point de terminer une étude de 15 semaines sur « Comment Urantia est devenue une planète capricieuse : Partie I : Lucifer, le prince planétaire et la rébellion planétaire ». Ensuite, le groupe se lancera dans « Comment Urantia est devenue une planète capricieuse : Partie II : La perte de l’Eden ». 
 
-La First Society a récemment accueilli la conférence Midwest 2017 à Techny Towers à Northbrook. Le thème était « Comment allons-nous servir ? À la recherche d’opportunités de service aimant. Un groupe enthousiaste du milieu des années 50, dont beaucoup étaient des lecteurs relativement nouveaux, a discuté du sujet, a réfléchi à « Comment devons-nous servir », a profité de deux excellentes séances plénières données par Richard Goodman et Alice et Chris Wood ainsi que d'un culte dirigé par Barbara Newsom et un souper de clôture du souvenir. Le président de la conférence, David Kulieke, a fait remarquer. « Je suis particulièrement heureux que certains nouveaux lecteurs manifestent désormais leur intérêt pour les groupes d'étude de Chicago. » Les conférences du Midwest ont été un succès itinérant chaque année des années 1970 au début des années 1990, et les habitants du Midwest s'efforcent de leur redonner leur gloire d'antan. 
+La First Society a récemment accueilli la conférence Midwest 2017 à Techny Towers à Northbrook. Le thème était « Comment allons-nous servir ? À la recherche d’opportunités de service aimant. Un groupe enthousiaste du milieu des années 50, dont beaucoup étaient des lecteurs relativement nouveaux, a discuté du sujet, a réfléchi à « Comment devons-nous servir », a profité de deux excellentes séances plénières données par Richard Goodman et Alice et Chris Wood ainsi que d'un culte dirigé par Barbara Newsom et un souper de clôture du souvenir. Le président de la conférence, David Kulieke, a fait remarquer. « Je suis particulièrement heureux que certains nouveaux lecteurs manifestent désormais leur intérêt pour les groupes d'étude de Chicago. » Les conférences du Midwest ont été un succès itinérant chaque année des années 1970 au début des années 1990, et les habitants du Midwest s'efforcent de leur redonner leur gloire d'antan. 
 
 Chaque année, la First Society organise ou co-organise également quatre événements spéciaux, dont deux séminaires et une célébration du 21 août qui a débuté dans les années 1930. La société se sent chanceuse cette année d'accueillir Linda Buselli, d'Indianapolis, qui a présenté sa présentation très appréciée « Les sept cercles psychiques dans les religions du monde » le 5 novembre à la bibliothèque d'Evanston de 13h00 à 16h00. Ces séminaires comprennent des rafraîchissements et des rencontres et sont toujours les moments forts de l’année de la société. Tout le monde est bienvenu. 
 
@@ -231,7 +231,7 @@ Que se passe-t-il lorsque les membres d’une société de la Fraternité se dis
 
 En 1961, la Société Orvonton de Chicago (Orvonton parce que c'était la septième société installée par la Fraternité Urantia) comptait plus que le nombre requis de membres pour une nouvelle société. Mais lors du rassemblement du 50e anniversaire à Indianapolis, il a été noté que ses membres s'étaient déplacés vers de nouveaux endroits, certains aussi loin de Chicago que du Mexique. Les membres étaient contactés chaque année, mais la plupart étaient beaucoup trop éloignés pour assister aux réunions régulières. Certains membres avaient créé ou rejoint des groupes d'étude là où ils vivaient. Pendant environ quatre ans, jusqu’en 2005, la société est devenue essentiellement inactive. 
 
-Les sociétés se trouvent généralement dans un endroit spécifique, Los Angeles, New York, Oklahoma, etc., mais le plus grand nombre de membres d'Orvonton en un seul endroit se trouvaient à Indianapolis à cette époque, et non à Chicago. En 2005, les membres ont voté pour un nouveau comité directeur qui a décidé de supprimer le « Chicago » du titre et de permettre à la société dans son ensemble de travailler à nouveau activement. En 2007, les membres ont voté pour amender la constitution afin de supprimer « Chicago » de son titre. 
+Les sociétés se trouvent généralement dans un endroit spécifique, Los Angeles, New York, Oklahoma, etc., mais le plus grand nombre de membres d'Orvonton en un seul endroit se trouvaient à Indianapolis à cette époque, et non à Chicago. En 2005, les membres ont voté pour un nouveau comité directeur qui a décidé de supprimer le « Chicago » du titre et de permettre à la société dans son ensemble de travailler à nouveau activement. En 2007, les membres ont voté pour amender la constitution afin de supprimer « Chicago » de son titre. 
 
 La société est devenue « virtuelle » en organisant des réunions d’affaires en utilisant la conférence ZOOM ainsi que les échanges de courriers électroniques. De plus, les groupes d’étude réguliers du mercredi soir sont devenus « virtuels » également en utilisant ZOOM. Les groupes d'étude sont ouverts à tous les membres et invités. D'autres membres créent leurs propres groupes d'étude. 
 
@@ -263,15 +263,15 @@ Kulieke a déclaré que le comité d'éducation avait organisé des ateliers sim
 
 La Fellowship in the Field est un projet visant à entreprendre des études approfondies et à les proposer à des groupes locaux. « Nous irons à des conférences ou à des groupes d’étude ; nous irons à peu près à tout ce que les gens veulent de nous. J'aime aller dans un groupe comme celui-ci où il y a des petits groupes de personnes engagées que l’on peut aider à donner un élan. C’est une opportunité de service pour nous », a-t-il déclaré. 
 
-Marilynn Kulieke a commenté. « En tant qu’éducateur, lorsque je mets en place quelque chose comme celui-ci, j'essaie de travailler avec certains principes pédagogiques pour amener les gens à poser des questions et à acquérir des connaissances » 
+Marilynn Kulieke a commenté. « En tant qu’éducateur, lorsque je mets en place quelque chose comme celui-ci, j'essaie de travailler avec certains principes pédagogiques pour amener les gens à poser des questions et à acquérir des connaissances » 
 
 Le comité d’éducation propose plusieurs présentations d’ateliers disponibles en ligne et en prépare plusieurs autres. Les supports d'étude pour « Les douze apôtres », « Modèles de croissance personnelle » et « Utiliser la formation conceptuelle pour comprendre comment Jésus enseignait » sont actuellement téléchargeables à http://www.urantiabook.org/committees/education/WorkshopMaterialsAdaptedTeaching
 
 **Urantian Communities Northwest** (UCNOW) est ravi d'annoncer que nous organiserons une conférence régionale l’été prochain dans l’Oregon. UCNOW est une organisation « super-régionale » non affiliée qui a été créée pour mieux servir et soutenir les lecteurs du Livre d'Urantia de l’Alaska, de la Colombie-Britannique, de l’Idaho, de l’Oregon et de Washington. Bien que notre communauté se concentre sur cette région, nous invitons notre famille élargie à nous rejoindre dans un approfondissement des relations. Nous nous rassemblerons dans un centre de retraite situé dans le coin nord-est de l’Oregon, magnifiquement situé au pied des montagnes Wallowa. Ensemble, nous explorerons ce pays des merveilles naturelles tout en développant des relations éternelles les uns avec les autres et au sein de nos vies intérieures et spirituelles. 
 
 Dates : du 6 au 9 septembre 2018 
-Titre : Rassemblement 2018 au lac Wallowa 
-Thème : Développer des relations éternelles : tendre la main, tendre la main, tendre la main Lieu : Camp de Wallow Lake ~ Joseph, Oregon
+Titre : Rassemblement 2018 au lac Wallowa 
+Thème : Développer des relations éternelles : tendre la main, tendre la main, tendre la main Lieu : Camp de Wallow Lake ~ Joseph, Oregon
 
 ## Évènements à venir
 

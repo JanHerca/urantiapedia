@@ -17,7 +17,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Telle est la générosité embrassante du Père qu’il étend son message de bienvenue à chacun d’entre nous pour qu’il accepte le don de la vie éternelle et la capacité toujours croissante des joies de l’existence… l’aventure!
 
-De nombreux lecteurs ont aussi savouré les mots « quiconque le désire », ce qui aboutit à sept citations comme suit.
+De nombreux lecteurs ont aussi savouré les mots « quiconque le désire », ce qui aboutit à sept citations comme suit.
 
 **Quiconque le désire**
 <br style="clear:both;"/>
@@ -36,7 +36,7 @@ De nombreux lecteurs ont aussi savouré les mots « quiconque le désire », c
 
 4\. Jésus comprenait la fragilité humaine, pourtant en pleine connaissance de cette faiblesse, il ne plaçait ni restriction ni qualification sauf la foi de celui qui vient.
 
->   _Pour Jésus, Judas était une aventure de la foi._ **_Dès le commencement, le Maitre avait parfaitement compris la faiblesse de cet apôtre et connaissait bien les dangers de l’admettre dans la communauté. Mais il est dans la nature des Fils de Dieu de donner à tout être créé une chance entière et égale de salut et de survie. Jésus voulait que non seulement les mortels de ce monde, mais aussi les observateurs sur d’innombrables autres mondes, sachent que, s’il existe des doutes sur la sincérité et la franchise de la dévotion d’une créature au royaume, la pratique invariable des Juges des hommes consiste à recevoir pleinement le candidat douteux._** _La porte de la vie éternelle est grande ouverte à tous ; « quiconque le veut_ **_peut entrer » ; il n’y a** ni restriction ni qualification, sauf la _foi_ de celui qui vient_.**  <a id="a58_782"></a>[[LU 139:12.7](/fr/The_Urantia_Book/139#p12_7)] gras ajouté
+>   _Pour Jésus, Judas était une aventure de la foi._ **_Dès le commencement, le Maitre avait parfaitement compris la faiblesse de cet apôtre et connaissait bien les dangers de l’admettre dans la communauté. Mais il est dans la nature des Fils de Dieu de donner à tout être créé une chance entière et égale de salut et de survie. Jésus voulait que non seulement les mortels de ce monde, mais aussi les observateurs sur d’innombrables autres mondes, sachent que, s’il existe des doutes sur la sincérité et la franchise de la dévotion d’une créature au royaume, la pratique invariable des Juges des hommes consiste à recevoir pleinement le candidat douteux._** _La porte de la vie éternelle est grande ouverte à tous ; « quiconque le veut_ **_peut entrer » ; il n’y a** ni restriction ni qualification, sauf la _foi_ de celui qui vient_.**  <a id="a58_782"></a>[[LU 139:12.7](/fr/The_Urantia_Book/139#p12_7)] gras ajouté
 
 5\. Une confiance enfantine est au cœur  de la pacification. Naitre à nouveau est le destin de « quiconque perdra sa vie. »
 

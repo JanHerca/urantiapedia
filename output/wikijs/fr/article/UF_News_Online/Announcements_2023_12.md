@@ -32,7 +32,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 ## Programme de subventions Graines de Moutarde
 
-**Restez à l'écoute pour une annonce à venir concernant la prochaine série de subventions pour les semences de moutarde !**
+**Restez à l'écoute pour une annonce à venir concernant la prochaine série de subventions pour les semences de moutarde !**
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2023_12/041.jpg">

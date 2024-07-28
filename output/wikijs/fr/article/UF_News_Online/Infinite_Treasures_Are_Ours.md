@@ -48,9 +48,9 @@ L’année écoulée a certainement apporté son lot de défis. Mais nous avons 
 
 Et alors que nous célébrons la saison de la paix, de la bonne volonté envers les hommes, de la foi, de l'espérance et de la fraternité, n'oubliez pas de soutenir le travail important de la Fondation Urantia en semant le _Livre d'Urantia_ (maintenant disponible en 24 langues !) à travers le monde.
 
-Si vous avez déjà donné, nous vous remercions. Si ce n'est pas le cas, aidez-nous à continuer de diffuser la révélation en faisant un don au **Match d'hiver 2020**. Plusieurs donateurs ont accepté de contribuer jusqu'à 225 000 dollars si nous parvenons à réunir ce montant d'ici la fin de l'année. Cette offre généreuse expire **le 31 décembre**, alors aidez-nous à atteindre cet objectif.
+Si vous avez déjà donné, nous vous remercions. Si ce n'est pas le cas, aidez-nous à continuer de diffuser la révélation en faisant un don au **Match d'hiver 2020**. Plusieurs donateurs ont accepté de contribuer jusqu'à 225 000 dollars si nous parvenons à réunir ce montant d'ici la fin de l'année. Cette offre généreuse expire **le 31 décembre**, alors aidez-nous à atteindre cet objectif.
 
-**Chaque dollar compte... deux fois !**
+**Chaque dollar compte... deux fois !**
 
 [Cliquez ici pour faire un don](https://www.urantia.org/donate/newDonate).
 

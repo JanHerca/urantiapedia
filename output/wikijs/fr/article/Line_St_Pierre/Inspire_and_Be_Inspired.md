@@ -58,7 +58,7 @@ Certaines de ces femmes offrent leurs services auprès des gens dans le besoin d
 
 Une femme qui travaille entourée de jeunes adultes, reprend la _pensée du jour_ et la traduit en langage que la jeune génération reconnaît et le publie sur sa page Facebook. Alors que d'autres ont installé des panneaux publicitaires au bord de la route affichant des pensées qui provoquent la réflexion et un certain éveil.
 
-**« Si je ne le fais pas pour moi, qui le fera? Si ce n'est pas maintenant, alors quand? »**
+**« Si je ne le fais pas pour moi, qui le fera? Si ce n'est pas maintenant, alors quand? »**
 
 Elles lisent Le Livre d'Urantiadepuis près de 20 ans et reconnaissent la grande responsabilité impliquée dans ses enseignements. J'ai l'impression que c'est juste le début d'une nouvelle ère au Pérou, l’entraide et le partage de la connaissance et de la compréhension sont mis au service des personnes nécessiteuses de leur pays.
 

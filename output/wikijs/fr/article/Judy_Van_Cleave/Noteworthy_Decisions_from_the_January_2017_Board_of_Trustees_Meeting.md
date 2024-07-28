@@ -58,7 +58,7 @@ Durant l’année dernière, une nouveau sommet de coopération entre les diffé
 
 ## Éclaircies financières de 2016
 
-2016 fut l’année la plus difficile de collecte de fonds depuis des années. Normalement, 52 % de nos donations annuelles arrivent les deux derniers mois de l’année. Cette année, ce chiffre passa à 68 %. Toutefois, le budget des donations de 2016, de 740,000$, fut dépassé parce que de généreux donateurs donnèrent 741,326$. Encore de bonnes nouvelles, le nombre de nouveaux donateurs fut de 15,6 % en 2015. En 2016, 888 personnes firent des dons, jusqu’à 768 en 2015. La campagne de fin d’année fut un succès et nous entrons en 2017 avec une position financière sécurisée. La Fondation Urantia vit pour une autre année de service !
+2016 fut l’année la plus difficile de collecte de fonds depuis des années. Normalement, 52 % de nos donations annuelles arrivent les deux derniers mois de l’année. Cette année, ce chiffre passa à 68 %. Toutefois, le budget des donations de 2016, de 740,000$, fut dépassé parce que de généreux donateurs donnèrent 741,326$. Encore de bonnes nouvelles, le nombre de nouveaux donateurs fut de 15,6 % en 2015. En 2016, 888 personnes firent des dons, jusqu’à 768 en 2015. La campagne de fin d’année fut un succès et nous entrons en 2017 avec une position financière sécurisée. La Fondation Urantia vit pour une autre année de service !
 
 Sachant que l’argent était restreint en 2016, les comités du conseil d’administration et le personnel ont fait attention aux dépenses. À cause de nos dépenses contrôlées, nous avons terminés l’année 8 % en-dessous du budget et seulement 3 % au-dessus de celui de l’année passée.
 
@@ -79,7 +79,7 @@ Parce que le trafic du site web est passé à plus de 50 % sur les appareils mob
 
 - La nouvelle technologie de Zoom, installée dans la salle du Forum à la Fondation Urantia, a apporté des possibilités de réunions et d’événements pour la Fondation et autres groupes. Si vous êtes intéressé à conduire un séminaire sponsorisé de la Fondation Urantia, par Zoom, envoyez, s’il vous plaît, votre proposition à Joanne Strobel à [joanne@urantia.org](mailto:joanne@urantia.org).
 - Le symposium sur la Science fut conduit et diffusé à des centaines d’observateurs.
-- La moitié du sous-sol de 533, fut rénovée en un centre professionnel et éducatif et en une bibliothèque. Grâce à la gentillesse d’un généreux donateur, d’un collectionneur de livres zélé et au travail de Steve Dreier, une bibliothèque fut créée, avec des centaines de livres provenant d’auteurs de source humaines. Comme vous le savez, les révélateurs disaient : « Nous devons rester guidés par les instructions des dirigeants du superunivers ; au cours de nos efforts pour révéler la vérité et coordonner les connaissances essentielles, ils nous commandent de donner la préférence aux concepts humains les plus élevés qui existent dans le domaine des sujets à présenter. Nous ne pouvons recourir à la révélation pure que si le concept à présenter n’a pas été exprimé antérieurement de manière adéquate par le mental humain. » 0:12.11 (16.8) Cette nouvelle bibliothèque contient certains des écrits que les révélateurs ont utilisées pour créer _Le Livre d’Urantia._
+- La moitié du sous-sol de 533, fut rénovée en un centre professionnel et éducatif et en une bibliothèque. Grâce à la gentillesse d’un généreux donateur, d’un collectionneur de livres zélé et au travail de Steve Dreier, une bibliothèque fut créée, avec des centaines de livres provenant d’auteurs de source humaines. Comme vous le savez, les révélateurs disaient : « Nous devons rester guidés par les instructions des dirigeants du superunivers ; au cours de nos efforts pour révéler la vérité et coordonner les connaissances essentielles, ils nous commandent de donner la préférence aux concepts humains les plus élevés qui existent dans le domaine des sujets à présenter. Nous ne pouvons recourir à la révélation pure que si le concept à présenter n’a pas été exprimé antérieurement de manière adéquate par le mental humain. » 0:12.11 (16.8) Cette nouvelle bibliothèque contient certains des écrits que les révélateurs ont utilisées pour créer _Le Livre d’Urantia._
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2017_03/008.jpg">
@@ -95,7 +95,7 @@ Dans sa totalité, 2016 fut une année productive pour la Fondation Urantia. Joa
 
 Le conseil d’administration reçu une présentation d’Angela Thurston, concernant les communautés formées par la Génération du Millénaire, sur leur transformation personnelle, sociale, spirituelle, mentale et physique, cela en dehors de nos institutions traditionnelles.
 
-Après avoir écouté la présentation d’Angela, l’évident devint encore plus évident : La Révélation Urantia appartient aux générations futures qui utiliseront, assimileront ses enseignements d’une manière différente de celle des anciennes générations.
+Après avoir écouté la présentation d’Angela, l’évident devint encore plus évident : La Révélation Urantia appartient aux générations futures qui utiliseront, assimileront ses enseignements d’une manière différente de celle des anciennes générations.
 
 ## Âge obligatoire de la retraite des Trustees
 

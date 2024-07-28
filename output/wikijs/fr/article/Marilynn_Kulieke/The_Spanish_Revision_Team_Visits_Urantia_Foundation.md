@@ -48,13 +48,13 @@ Notre réunion formelle avec l’équipe de révision commença le vendredi mati
 
 Le samedi matin, nous avons eu encore l’occasion de nous réunir avec l’équipe de la révision. Cette fois, l’équipe donna une présentation informative. Victor GarcÍa-Bory dirigea l’équipe dans une présentation coordonnée qui incluait chaque membre de l’équipe. Le thème de la matinée était de planifier pour le futur lancement de la traduction espagnole révisée. Nous avons eu des discussions passionnées au sujet du besoin crucial, de lancer avec réussite une traduction espagnole de haute qualité, à travers le monde.
 
-Les membres de l’équipe continuèrent à travailler ensemble le samedi après-midi. Mais que serait un voyage à Chicago sans visiter la ville ? En cette belle journée d’octobre automnale, l’équipe de révision firent un tour sur la rivière de Chicago, l’une des attractions les plus populaires, le tour de bateau de la Fondation d’Architecture de Chicago. Après un délicieux dîner à un restaurant chinois avec les membres du conseil d’administration élargi, nos invités finirent leur soirée à un club de jazz. Avec des étreintes et des larmes, nous leur dirent au revoir, avec l’espoir de revoir cet extraordinaire groupe de personnes.
+Les membres de l’équipe continuèrent à travailler ensemble le samedi après-midi. Mais que serait un voyage à Chicago sans visiter la ville ? En cette belle journée d’octobre automnale, l’équipe de révision firent un tour sur la rivière de Chicago, l’une des attractions les plus populaires, le tour de bateau de la Fondation d’Architecture de Chicago. Après un délicieux dîner à un restaurant chinois avec les membres du conseil d’administration élargi, nos invités finirent leur soirée à un club de jazz. Avec des étreintes et des larmes, nous leur dirent au revoir, avec l’espoir de revoir cet extraordinaire groupe de personnes.
 
-Même si nous n’avons pas donné à nos invités une expérience culinaire américaine, le service désintéressé qui était tellement évident se reflète dans le conseil du discours d’adieu de Jésus à ses disciples :
+Même si nous n’avons pas donné à nos invités une expérience culinaire américaine, le service désintéressé qui était tellement évident se reflète dans le conseil du discours d’adieu de Jésus à ses disciples :
 
-> « Aimez-vous les uns les autres comme je vous ai aimés. Si vous faites cela, si vous vous aimez ainsi les uns les autres, tous les hommes sauront que vous êtes mes disciples ». <a id="a54_179"></a>[LU 180:1.1](/fr/The_Urantia_Book/180#p1_1) 
+> « Aimez-vous les uns les autres comme je vous ai aimés. Si vous faites cela, si vous vous aimez ainsi les uns les autres, tous les hommes sauront que vous êtes mes disciples ». <a id="a54_179"></a>[LU 180:1.1](/fr/The_Urantia_Book/180#p1_1) 
 > 
-> « Si vous vous partager la joie du Maître, vous devez partager son amour, et partager son amour signifie que vous avez partagé son service ». <a id="a56_144"></a>[LU 180:1.5](/fr/The_Urantia_Book/180#p1_5)
+> « Si vous vous partager la joie du Maître, vous devez partager son amour, et partager son amour signifie que vous avez partagé son service ». <a id="a56_144"></a>[LU 180:1.5](/fr/The_Urantia_Book/180#p1_5)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2017_12/042.jpg">

@@ -55,7 +55,7 @@ Alors qu’avons-nous vu ? Qu’ont révélé nos accélérateurs ?
 - Tunnel quantique d'électrons.
 - Des paires quark/antiquark surgissant du vide.
 
-Et que révèle le _Livre d'URANTIA_ ?
+Et que révèle le _Livre d'URANTIA_ ?
 
 - La matière électronique est composée d'ultimatons.
 - Les Ultimatons se regroupent en fonction de leurs vitesses révolutionnaires axiales.
@@ -85,7 +85,7 @@ La théorie et l’expérience nous guident du banal jusqu’aux abysses du doma
 
 ---
 
-_Le Livre d'URANTIA_, en plus de son rôle plus important, peut attiser la curiosité et l'émerveillement de ses lecteurs. Dans de nombreux domaines, cela peut élargir nos connaissances. Dans d'autres, comme la causalité transcendantale, il mentionne simplement que certains phénomènes existent. Sur cette question de Matière, cela apporte un peu de lumière. Mais comme indiqué dans le document 19 :
+_Le Livre d'URANTIA_, en plus de son rôle plus important, peut attiser la curiosité et l'émerveillement de ses lecteurs. Dans de nombreux domaines, cela peut élargir nos connaissances. Dans d'autres, comme la causalité transcendantale, il mentionne simplement que certains phénomènes existent. Sur cette question de Matière, cela apporte un peu de lumière. Mais comme indiqué dans le document 19 :
 
 > _...le mental humain chercherait d’ordinaire à aborder la philosophie cosmique décrite dans ces révélations en procédant du simple et du fini au complexe et à l’infini, des origines humaines aux destinées divines. Mais ce chemin ne conduit pas à la ***sagesse spirituelle.*** C’est la voie la plus facile vers une certaine forme de ***connaissance génétique*** susceptible au mieux de dévoiler simplement l’origine des hommes ; elle ne révèle que peu ou rien sur leur destinée divine._ ([LU 19:1.5](/fr/The_Urantia_Book/19#p1_5))
 
@@ -111,9 +111,9 @@ Ce schéma rend nécessaire le niveau spatial du superunivers : un nid pour cont
 
 > _Parmi toutes les choses non absolues, c’est l’espace qui est le plus proche d’être absolu. En apparence, l’espace est absolument ultime. La réelle difficulté que nous avons à comprendre l’espace sur le niveau matériel provient du fait que les corps matériels existent dans l’espace, mais que l’espace existe aussi dans ces mêmes corps matériels. Nombre de facteurs concernant l’espace sont absolus, mais cela ne signifie pas que l’espace soit absolu._ ([LU 118:3.5](/fr/The_Urantia_Book/118#p3_5))
 
-Les sept superunivers du grand univers sont clairement des intrusions inhabituelles au sein des domaines absonites. Quelles qualifications et restrictions, quels pliages et projections étonnants ont dû être effectués au niveau de l'espace du grand univers pour permettre à une chose aussi « absolument ultime » que l'espace d'accueillir sept nids d'espace-temps ? Quelles astuces de géométrie et de miroirs, quel _tour de passe-passe dimensionnel_ permet aux humains de percevoir et de se déplacer dans la séquence que nous appelons le temps ?
+Les sept superunivers du grand univers sont clairement des intrusions inhabituelles au sein des domaines absonites. Quelles qualifications et restrictions, quels pliages et projections étonnants ont dû être effectués au niveau de l'espace du grand univers pour permettre à une chose aussi « absolument ultime » que l'espace d'accueillir sept nids d'espace-temps ? Quelles astuces de géométrie et de miroirs, quel _tour de passe-passe dimensionnel_ permet aux humains de percevoir et de se déplacer dans la séquence que nous appelons le temps ?
 
-Considérez les paroles de Jésus au prêtre mithraique dans le fascicule 130 :
+Considérez les paroles de Jésus au prêtre mithraique dans le fascicule 130 :
 
 > _Le temps est un nom donné à l’arrangement en succession des évènements, qui permet de les reconnaitre et de les séparer._ ([LU 130:7.4](/fr/The_Urantia_Book/130#p7_4))
 
@@ -151,7 +151,7 @@ Les paragraphes indisciplinés ci-dessus n’impliquent pas de réponses, ni mê
 
 C’est dans ce contexte que se situe la question de la matière.
 
-Ce qui précède a été conçu pour que nous puissions proposer la spéculation suivante :
+Ce qui précède a été conçu pour que nous puissions proposer la spéculation suivante :
 
 Comme tous les Flatlanders le savent, un cube tridimensionnel traversant Flatland bidimensionnel semblera venir de nulle part, agira comme un carré pendant un moment, puis disparaîtra dans un _vide_.
 

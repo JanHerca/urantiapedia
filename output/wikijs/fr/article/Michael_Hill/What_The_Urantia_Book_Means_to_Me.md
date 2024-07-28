@@ -40,18 +40,18 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Michael Hill, Oregon, États-Unis_
 
-Note de l’éditeur : Cet article fut publié originalement dans la Gazette-Times, rubrique du Corvalis(OR), « Voix Interreligieuses », du 30 mei 2020, sous le titre « Une Tranche de mon gâteau de Foi. »
+Note de l’éditeur : Cet article fut publié originalement dans la Gazette-Times, rubrique du Corvalis(OR), « Voix Interreligieuses », du 30 mei 2020, sous le titre « Une Tranche de mon gâteau de Foi. »
 <br style="clear:both;"/>
 
-On m’avait appris que la croyance atteignait le niveau de la foi, « lorsque cela motive la vie et façonne la manière de vivre . » <a id="a45_130"></a>[LU 101:8.1](/fr/The_Urantia_Book/101#p8_1) Ma foi dans un Dieu aimant, la source de toute la création, de vérité, beauté et bonté m’a inspiré à l’aimer en retour par le moyen du service.
+On m’avait appris que la croyance atteignait le niveau de la foi, « lorsque cela motive la vie et façonne la manière de vivre . » <a id="a45_130"></a>[LU 101:8.1](/fr/The_Urantia_Book/101#p8_1) Ma foi dans un Dieu aimant, la source de toute la création, de vérité, beauté et bonté m’a inspiré à l’aimer en retour par le moyen du service.
 
-Un credo qu’un ami partagea avec moi se présente comme suit : Je suis enfant libre de Dieu, évolutionnaire, divinement créé, aimé infiniment, habité spirituellement. Et je crois -ai foi- que chaque partie de ce credo est vrai.
+Un credo qu’un ami partagea avec moi se présente comme suit : Je suis enfant libre de Dieu, évolutionnaire, divinement créé, aimé infiniment, habité spirituellement. Et je crois -ai foi- que chaque partie de ce credo est vrai.
 
 Je crois aussi que Dieu veut que je sois comme lui- être parfait comme il l’est. Donc, je m’efforce de vivre ma vie en faisant l’illustration de ma meilleure compréhension de lui, comme une personne de ce monde peut la vivre. J’entreprends de démontrer les fruits de l’esprit dans ma vie- l’amour, la joie, la paix, la longanimité, la douceur, la bonté, la foi, la mansuétude et la modération.
 
-On m’apprît aussi que la vraie vérité est « basée sur une réflexion profonde, une autocritique sincère et sur une conscience morale intransigeante. » <a id="a51_150"></a>[LU 132:3.5](/fr/The_Urantia_Book/132#p3_5) À mes yeux, cela signifie que la réflexion sur la vie- sur mon interaction avec ma famille, mes amis et les étrangers, suivie d’une évaluation honnête de ce que je vois- me permet de décider si mes actions sont en concordance avec mes croyances, ma foi- Est-ce que je passe « de la parole aux actes. » Je m’efforce d’être moral, éthique, d’être toujours véridique et de toujours prendre la bonne voie.
+On m’apprît aussi que la vraie vérité est « basée sur une réflexion profonde, une autocritique sincère et sur une conscience morale intransigeante. » <a id="a51_150"></a>[LU 132:3.5](/fr/The_Urantia_Book/132#p3_5) À mes yeux, cela signifie que la réflexion sur la vie- sur mon interaction avec ma famille, mes amis et les étrangers, suivie d’une évaluation honnête de ce que je vois- me permet de décider si mes actions sont en concordance avec mes croyances, ma foi- Est-ce que je passe « de la parole aux actes. » Je m’efforce d’être moral, éthique, d’être toujours véridique et de toujours prendre la bonne voie.
 
-Je crois qu’il y a un fragment de Dieu en moi qui « montre le chemin » à jamais. Et mon expérience m’a démontré que c’était vrai. Donc, dans les moments de réflexion et d’adoration pour résoudre les problèmes, « j’écoute avec l’oreille de l’esprit » pour la voie de cet esprit.
+Je crois qu’il y a un fragment de Dieu en moi qui « montre le chemin » à jamais. Et mon expérience m’a démontré que c’était vrai. Donc, dans les moments de réflexion et d’adoration pour résoudre les problèmes, « j’écoute avec l’oreille de l’esprit » pour la voie de cet esprit.
 
 Quelquefois, des circonstances arrivent dans la vie- souvent un problème avec quelqu’un d’autre- qui peut me prendre des mois pour savoir quelle est la meilleure manière de le gérer, d’une façon que je pense que Dieu approuverait.
 
@@ -59,9 +59,9 @@ Ma foi m’a appris la valeur du contrôle de soi, de dompter sa parole et ses �
 
 Ma foi m’a appris à apprendre à aspirer à être gracieux dans mes interactions avec les autres- pour simplement être agréable, gentil, respectueux, attentif et bienveillant - d’être généreux en exprimant mon appréciation des efforts et des luttes des autres.
 
-Je fut élevé dans une famille chrétienne, l’une de plus de mots que d’actes, et lorsque j’arrivai à l’âge d’une certaine autodétermination, je commençai à regarder ailleurs pour des réponses aux questions importantes de la vie- pourquoi suis-je là, pourquoi y a-t-il quelque chose ici, qu’est-ce qui se passe pour moi quand mon corps meurt, y a-t-il un Dieu ? Des questions que nous connaissons tous.
+Je fut élevé dans une famille chrétienne, l’une de plus de mots que d’actes, et lorsque j’arrivai à l’âge d’une certaine autodétermination, je commençai à regarder ailleurs pour des réponses aux questions importantes de la vie- pourquoi suis-je là, pourquoi y a-t-il quelque chose ici, qu’est-ce qui se passe pour moi quand mon corps meurt, y a-t-il un Dieu ? Des questions que nous connaissons tous.
 
-J’ai passé la fin de mon adolescence à lire des livres obscurs, lançant le I Ching (« perseverance furthers »)- lisant le Tarot, la planche Ouija, allant aux réunions de médiums et autres. Et plus tard, quand je rendis visite à un voisin qui se préparait à aller à une réunion spirituelle, avec un gros livre bleu sous le bras ; il me laissa le regarder. Environ, un mois après, j’en achetai un. C’était le Livre d’Urantia. Il y a plus de 50 ans. Ses enseignements et ses vérités, comme je l’ai partagé dans cet article, continuent de former les fondations de ma vie.
+J’ai passé la fin de mon adolescence à lire des livres obscurs, lançant le I Ching (« perseverance furthers »)- lisant le Tarot, la planche Ouija, allant aux réunions de médiums et autres. Et plus tard, quand je rendis visite à un voisin qui se préparait à aller à une réunion spirituelle, avec un gros livre bleu sous le bras ; il me laissa le regarder. Environ, un mois après, j’en achetai un. C’était le Livre d’Urantia. Il y a plus de 50 ans. Ses enseignements et ses vérités, comme je l’ai partagé dans cet article, continuent de former les fondations de ma vie.
 
 
 ## Références

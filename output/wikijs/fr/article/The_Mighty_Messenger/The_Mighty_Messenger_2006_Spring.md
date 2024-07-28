@@ -56,25 +56,25 @@ Il s'agit d'une invitation destinée aux individus ou aux partenariats à envisa
 
 Le comité de l’atelier espère que la session d’étude d’été de 2006 mettra en lumière le bon travail effectué en notre nom et mené pour la gloire du Père Universel. Nous bénéficions tous des avantages des agences spirituelles et des personnes qui garantissent que nous ne sommes jamais seuls. C’est un sujet qui mérite d’être approfondi. S'il vous plaît rejoignez-nous!
 
-Le comité de l’atelier aimerait réinvestir davantage « d'étude » dans ces sessions d'été, afin de fournir une base pédagogique solide et de base dans le sujet. C’est notre objectif principal. Tous les sujets doivent être basés principalement sur _Le Livre d'Urantia_. Afin de clarifier la portée et la profondeur de chaque atelier à ceux qui y assisteront cet été, toute personne intéressée à développer et à présenter un atelier doit soumettre une description écrite comprenant :
+Le comité de l’atelier aimerait réinvestir davantage « d'étude » dans ces sessions d'été, afin de fournir une base pédagogique solide et de base dans le sujet. C’est notre objectif principal. Tous les sujets doivent être basés principalement sur _Le Livre d'Urantia_. Afin de clarifier la portée et la profondeur de chaque atelier à ceux qui y assisteront cet été, toute personne intéressée à développer et à présenter un atelier doit soumettre une description écrite comprenant :
 1. le titre de l’atelier
 2. objectif(s) de l’atelier
 3. matériaux à utiliser
 4. description générale du format/de l’activité ou des activités de l’atelier
-5. Les participants devraient-ils apporter des copies du _Le Livre d'Urantia_ ?
+5. Les participants devraient-ils apporter des copies du _Le Livre d'Urantia_ ?
 6. bref récit autobiographique
-7. De combien de plages horaires pensez-vous avoir besoin ?
+7. De combien de plages horaires pensez-vous avoir besoin ?
 
 Je souhaite exprimer par avance ma gratitude pour avoir coopéré avec la liste ci-dessus dans un délai raisonnable.
 
-Ces descriptions écrites ou profils de vos ateliers doivent être envoyés à :
+Ces descriptions écrites ou profils de vos ateliers doivent être envoyés à :
 Charles Olivea
 3320 Camino Prado Vue
 Santa Fe, Nouveau-Mexique 87507
 (505) 438-7746 (h)
 COLIVEA@cs.com
 
-La liste suivante contient quelques sujets suggérés :
+La liste suivante contient quelques sujets suggérés :
 1. Adam et Ève
 2. Fils et filles adamiques
 3. Gouvernement Planétaire Séraphique
@@ -92,7 +92,7 @@ La liste suivante contient quelques sujets suggérés :
 15. Esprit de vérité
 16. Esprit Mère de l’Univers Local
 
-Pensez à faire un atelier ! À ce jour (01/03/06), quatre personnes ont exprimé leur intérêt pour les sujets suivants : Machiventa Melchizédek, les Anges Gardiens, Maître Séraphin et le sujet de la Destinée en rapport avec le thème de la Session. Beaucoup de choses sont encore grandes ouvertes. Bien que le comité d'atelier soit encore en train de peaufiner l’horaire des deux jours et demi de la partie étude du programme d'été, nous espérons inclure une synthèse à la fin de chaque journée pour donner plus de clarté et cohérence avec le travail de la journée. Nous souhaitons qu’un participant de chaque atelier donne un bref résumé d'une leçon importante apprise ou de quelque chose d'important qui a été vécu au cours de son atelier. De plus, nous espérons que chaque présentateur liera son sujet particulier à la Trinité Paradisiaque du Père, du Fils et de l’Esprit Infini pour suggérer un modèle dans l’univers du service céleste.
+Pensez à faire un atelier ! À ce jour (01/03/06), quatre personnes ont exprimé leur intérêt pour les sujets suivants : Machiventa Melchizédek, les Anges Gardiens, Maître Séraphin et le sujet de la Destinée en rapport avec le thème de la Session. Beaucoup de choses sont encore grandes ouvertes. Bien que le comité d'atelier soit encore en train de peaufiner l’horaire des deux jours et demi de la partie étude du programme d'été, nous espérons inclure une synthèse à la fin de chaque journée pour donner plus de clarté et cohérence avec le travail de la journée. Nous souhaitons qu’un participant de chaque atelier donne un bref résumé d'une leçon importante apprise ou de quelque chose d'important qui a été vécu au cours de son atelier. De plus, nous espérons que chaque présentateur liera son sujet particulier à la Trinité Paradisiaque du Père, du Fils et de l’Esprit Infini pour suggérer un modèle dans l’univers du service céleste.
 
 ## John Hales prend sa retraite
 
@@ -150,13 +150,13 @@ Les lecteurs de Floride, Bill et Share Beasley, ont fait un voyage à travers le
 <img src="/image/article/The_Mighty_Messenger/2006_Spring/005626.jpg">
 </figure>
 
-Ils nous ont gracieusement fourni les photos suivantes de certains des groupes visités, notamment Pueblo, CO ; Boulder, Colorado ; Coeur d'Alène, ID Cosmic Café ; et Kansas City.
+Ils nous ont gracieusement fourni les photos suivantes de certains des groupes visités, notamment Pueblo, CO ; Boulder, Colorado ; Coeur d'Alène, ID Cosmic Café ; et Kansas City.
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2006_Spring/005627.jpg">
 </figure>
 
-## Votre groupe d'étude est-il répertorié ?
+## Votre groupe d'étude est-il répertorié ?
 
 La liste est-elle exacte ? Une liste des groupes d'étude du Livre d'Urantia peut être trouvée sur
 le site Web de la bourse à http://urantiabook.org/study_groups/domestic_study_groups.htm.
@@ -179,11 +179,11 @@ Douze livres ont été envoyés à notre contact au Pakistan. Le terrorisme alla
 
 Par ailleurs, le Pipeline a également envoyé six livres en anglais et dix livres en français à un séminaire en République de Guinée ($2,100/yr wiki, $2 080 econ). Cette nation africaine ne doit pas être confondue avec le petit pays de Guinée équatoriale, qui est une autre nation africaine sur la liste des pays hautement corrompus, ni avec le pays africain de Guinée-Bissau. 
 
-Intéressé à aider ? Les dons au Pipeline of Light peuvent être effectués en ligne à : http://urantiabook.org/support.htm
+Intéressé à aider ? Les dons au Pipeline of Light peuvent être effectués en ligne à : http://urantiabook.org/support.htm
 
 Ou par courrier à : The Fellowship PO Box 4583 Grand Central Station New York, NY 10163
 
-\* Pour référence, les chiffres entre parenthèses à la fin de chaque paragraphe représentent le produit intérieur total annuel par personne (PIB) selon Wikipedia (wiki) ou la dernière enquête du magazine The Economist sur les conditions économiques mondiales (econ). À titre de comparaison, le PIB annuel actuel des États-Unis = 37 240 $ (écon). 
+\* Pour référence, les chiffres entre parenthèses à la fin de chaque paragraphe représentent le produit intérieur total annuel par personne (PIB) selon Wikipedia (wiki) ou la dernière enquête du magazine The Economist sur les conditions économiques mondiales (econ). À titre de comparaison, le PIB annuel actuel des États-Unis = 37 240 $ (écon). 
 
 ## Pour faire un don en ligne…
 
@@ -197,7 +197,7 @@ allez simplement sur : www.urantiabook.org (http://www.urantiabook.org/) et cliq
 
 Comme de nombreux lecteurs le savent, la propagation de la révélation en Amérique latine a été phénoménale. Bien que de nombreuses personnes soient impliquées dans cette croissance, l’un des dirigeants et enseignants les plus actifs est Agustin Arellano, qui a découvert le livre dans sa ville natale de Mazatlán, au Mexique, il y a plus de vingt ans.
 
-Agustin sert de plusieurs manières ; les priorités actuelles incluent la traduction, les publications et la distribution d'ouvrages secondaires, le placement de « Libros de Urantia » (Livres d'Urantia) à travers le Mexique et l’Amérique latine, la réactivation d'anciens groupes d'étude, la création de nouveaux groupes et la création d'un réseau d'études « sœurs ». groupes à travers les Amériques.
+Agustin sert de plusieurs manières ; les priorités actuelles incluent la traduction, les publications et la distribution d'ouvrages secondaires, le placement de « Libros de Urantia » (Livres d'Urantia) à travers le Mexique et l’Amérique latine, la réactivation d'anciens groupes d'étude, la création de nouveaux groupes et la création d'un réseau d'études « sœurs ». groupes à travers les Amériques.
 
 Le projet de groupe d'étude sœur associe chaque nouveau groupe d'étude à un autre groupe qui a plus d'expérience et désireux de servir les lecteurs qui commencent tout juste leur exploration du livre. (Un certain nombre de sociétés ou de groupes d'étude aux États-Unis se sont également associés à des groupes sœurs ou compagnons en Amérique latine, en Afrique, en Asie et en Europe de l’Est. Si vous souhaitez en savoir plus à ce sujet, veuillez me contacter à susanr@indra. com. Vous n’avez pas nécessairement besoin d'une deuxième langue pour devenir compagnon d'un nouveau groupe.)
 
@@ -233,7 +233,7 @@ Représentation intelligente et formée. La survie de la démocratie dépend d�
 
 ## Version audio MP3 gratuite du _Le Livre d'Urantia_ disponible
 
-Comme annoncé lors de la conférence IC05, une version audio MP3 gratuite du _Le Livre d'Urantia_ est disponible en téléchargement. Vous pouvez lire sur la route, faire de l’exercice, effectuer des tâches ménagères ou simplement vous détendre. C'est un moyen simple de terminer un livre de plus de 2 000 pages pendant votre temps libre. L'écoute de la version du livre audio offre une nouvelle façon de faire l’expérience du _Livre d'Urantia_ et est particulièrement utile pour les apprenants auditifs. Ce livre audio a été créé grâce à une technologie de synthèse vocale générée par ordinateur au son incroyablement naturel. Écoutez ce bref extrait : http://www.archive.org/download/UrantiaBook4/136_Baptism_and_the_Forty_Days/p136s00.mp3
+Comme annoncé lors de la conférence IC05, une version audio MP3 gratuite du _Le Livre d'Urantia_ est disponible en téléchargement. Vous pouvez lire sur la route, faire de l’exercice, effectuer des tâches ménagères ou simplement vous détendre. C'est un moyen simple de terminer un livre de plus de 2 000 pages pendant votre temps libre. L'écoute de la version du livre audio offre une nouvelle façon de faire l’expérience du _Livre d'Urantia_ et est particulièrement utile pour les apprenants auditifs. Ce livre audio a été créé grâce à une technologie de synthèse vocale générée par ordinateur au son incroyablement naturel. Écoutez ce bref extrait : http://www.archive.org/download/UrantiaBook4/136_Baptism_and_the_Forty_Days/p136s00.mp3
 
 Vous pouvez télécharger et lire les fichiers audio MP3 sur votre ordinateur ou les copier sur un lecteur MP3 portable, tel qu’un iPod. La plupart des lecteurs MP3 portables se souviendront de l’endroit où vous avez arrêté l’écoute et reprendront à partir de là la prochaine fois. La version audio MP3 gratuite du _Le Livre d'Urantia_ est disponible en téléchargement en quatre parties depuis Internet Archive.
 
@@ -259,10 +259,10 @@ Une archive est en cours de constitution à partir de tous les documents liés a
 
 Qu’est-ce qui est collecté ? Des matériaux de toute nature historique relatifs à la révélation d'Urantia sont en cours de collecte -- voir la page d'accueil Internet pour les lignes directrices.
 
-Pour ajouter du matériel aux archives :
-- Vérifiez d’abord s’il est déjà là. La vérification par auteur ou par date d'écriture est le moyen le plus simple de confirmer si le matériel a déjà été ajouté aux archives. L'archive est destinée à préserver l’apparence de l’original -- certains documents ! n’ont pas été numérisés en couleur et seront remplacés dès qu’ils seront disponibles. Bien que les archives soient destinées à conserver les documents originaux, des copies suffiront jusqu’à ce que les originaux puissent être retrouvés. Si une copie se trouve dans les archives et que vous disposez d’un original ou si votre document est un meilleur fac-similé que celui qui s’y trouve actuellement, la copie d’archive doit être remplacée par votre matériel.
-- Scannez-le. Les documents au format PDF numérisés en couleur à 300 dpi peuvent être ajoutés aux archives tels quels. Numérisez toutes les pages d'un document de plusieurs pages et enregistrez le document complet dans un seul fichier PDF. Envoyez les fichiers PDF par courrier électronique à watkinsl@comcast.net ou placez plusieurs documents sur un CD ou un DVD pour un envoi postal. Vous pouvez numériser et enregistrer au format PDF à l’aide d'Adobe Acrobat ou de l’un des produits disponibles sur Internet qui contrôlera un scanner et enregistrera la numérisation au format PDF. L'un de ces produits s'appelle ScanToPDF et est disponible sur Internet pour environ 50 $.
-- Envoyez-le. Si vous n’avez pas la possibilité de numériser des documents, vous pouvez les envoyer par courrier à Larry Watkins (watkinsl@comcast.net) qui a proposé d'accepter les documents nécessitant une numérisation. Une fois les matériaux capturés, ils peuvent vous être restitués. Vous pouvez expédier du matériel à Larry à :
+Pour ajouter du matériel aux archives :
+- Vérifiez d’abord s’il est déjà là. La vérification par auteur ou par date d'écriture est le moyen le plus simple de confirmer si le matériel a déjà été ajouté aux archives. L'archive est destinée à préserver l’apparence de l’original -- certains documents ! n’ont pas été numérisés en couleur et seront remplacés dès qu’ils seront disponibles. Bien que les archives soient destinées à conserver les documents originaux, des copies suffiront jusqu’à ce que les originaux puissent être retrouvés. Si une copie se trouve dans les archives et que vous disposez d’un original ou si votre document est un meilleur fac-similé que celui qui s’y trouve actuellement, la copie d’archive doit être remplacée par votre matériel.
+- Scannez-le. Les documents au format PDF numérisés en couleur à 300 dpi peuvent être ajoutés aux archives tels quels. Numérisez toutes les pages d'un document de plusieurs pages et enregistrez le document complet dans un seul fichier PDF. Envoyez les fichiers PDF par courrier électronique à watkinsl@comcast.net ou placez plusieurs documents sur un CD ou un DVD pour un envoi postal. Vous pouvez numériser et enregistrer au format PDF à l’aide d'Adobe Acrobat ou de l’un des produits disponibles sur Internet qui contrôlera un scanner et enregistrera la numérisation au format PDF. L'un de ces produits s'appelle ScanToPDF et est disponible sur Internet pour environ 50 $.
+- Envoyez-le. Si vous n’avez pas la possibilité de numériser des documents, vous pouvez les envoyer par courrier à Larry Watkins (watkinsl@comcast.net) qui a proposé d'accepter les documents nécessitant une numérisation. Une fois les matériaux capturés, ils peuvent vous être restitués. Vous pouvez expédier du matériel à Larry à :
 
 Larry Watkins
 14535 Ouest, 32e rue
@@ -285,7 +285,7 @@ Si vous envoyez des documents à Larry, veuillez le contacter par courriel ou pa
 ## Personnel du « The Mighty Messenger »
 
 Publié par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship.
-Membres : Linda Buselli, présidente Lynda D'Arcangelo, Laura Hay, Nancy Johnson, Joe Liszka, Sage Waitts
+Membres : Linda Buselli, présidente Lynda D'Arcangelo, Laura Hay, Nancy Johnson, Joe Liszka, Sage Waitts
 877.288.3772
 bourse@urantiabook.org
 www.urantiabook.org

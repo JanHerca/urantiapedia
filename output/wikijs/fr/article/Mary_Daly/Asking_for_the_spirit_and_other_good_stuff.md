@@ -1,5 +1,5 @@
 ---
-title: "Demander l'Esprit et d'autres bonnes choses !"
+title: "Demander l'Esprit et d'autres bonnes choses !"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -54,7 +54,7 @@ Ces mots simples ont encouragé tant de personnes à faire le premier pas de la 
 
 Le jour où Jésus est monté vers notre Père, il a demandé à ses apôtres d’attendre et de prier pour recevoir l’Esprit. Ils venaient de ressentir une profonde déception lorsque Jésus mourut dans une amère humiliation après leur dernière soirée de querelles pour les places à la table de son royaume. Durant les semaines de ses apparitions à la résurrection, leur foi sobre s’est élevée du tombeau d’une défaite écrasante, mais ils n’avaient toujours pas le cœur d’aller de l’avant avec l’Évangile.
 
-Et puis le bricolage est arrivé. Lorsque l'Esprit est tombé sur les apôtres, leur enthousiasme n'a pas pu être contenu. Pierre est allé prêcher et a rapidement baptisé 3 000 nouveaux croyants. Lui, ses associés et ses disciples, à travers tous les âges, ont continué à demander la dotation de l'Esprit et à mener une vie d'une joie et d'une puissance spirituelles extraordinaires. Et ces vies de puissance ont continué à inclure la demande du Saint-Esprit et toutes sortes de bonnes choses en plus. Et les obtenir.
+Et puis le bricolage est arrivé. Lorsque l'Esprit est tombé sur les apôtres, leur enthousiasme n'a pas pu être contenu. Pierre est allé prêcher et a rapidement baptisé 3 000 nouveaux croyants. Lui, ses associés et ses disciples, à travers tous les âges, ont continué à demander la dotation de l'Esprit et à mener une vie d'une joie et d'une puissance spirituelles extraordinaires. Et ces vies de puissance ont continué à inclure la demande du Saint-Esprit et toutes sortes de bonnes choses en plus. Et les obtenir.
 
 Mais les croyants en difficulté sont encore nombreux, et la Grande Question demeure : pouvons-nous demander des biens matériels, ou seulement des biens spirituels ?
 
@@ -62,11 +62,11 @@ Dans l'article sur l'évolution de la prière, _Le Livre d'URANTIA_ énumère se
 
 Plus fortement, il interdit une approche vaine de la prière. Dieu ne joue pas à l'abracadabra. Les doux, qui hériteront de la terre et de tous ses biens, cherchent toujours à connaître et à obéir aux lois qu'il leur a révélées. S’ils semblent demander des miracles, c’est parce qu’ils savent qu’il y a plus de lois qu’ils ne le pensent. En attendant, ils travaillent dur pour obéir à chaque révélation de sa volonté.
 
-Et nous devons « abandonner tous les désirs de l’esprit et tous les désirs de l’âme à l’étreinte transformatrice de la croissance spirituelle ». Lorsque les vœux matériels sont dissociés du désir de pureté spirituelle et de croissance personnelle, on peut difficilement les appeler prière. (Voici Nalda au puits : « Donne-moi cette eau pour que je n'aie pas à la tirer du puits tous les jours. » Femme, si tu savais... !)
+Et nous devons « abandonner tous les désirs de l’esprit et tous les désirs de l’âme à l’étreinte transformatrice de la croissance spirituelle ». Lorsque les vœux matériels sont dissociés du désir de pureté spirituelle et de croissance personnelle, on peut difficilement les appeler prière. (Voici Nalda au puits : « Donne-moi cette eau pour que je n'aie pas à la tirer du puits tous les jours. » Femme, si tu savais... !)
 
 Et pourtant, ces mêmes espoirs matériels, entièrement abandonnés, peuvent réapparaître sous la forme de la volonté du Père et du désir du Fils, une combinaison qui EST simplement. La sagesse divine peut donner lieu à une activité mentale transformatrice qui guérit la maladie ou oriente les choix sur des voies ordonnées séraphiquement et matériellement productives. Même les anges peuvent être mobilisés pour nous aider d’une manière qui n’est pas appropriée dans une vie non soumise.
 
-Mais dans tous les cas, il faut agir. La décision ne remplace pas l’action. J'aime réfléchir à l'histoire de l'onction à Béthanie :
+Mais dans tous les cas, il faut agir. La décision ne remplace pas l’action. J'aime réfléchir à l'histoire de l'onction à Béthanie :
 
 Tandis que les apôtres se chamaillaient sans fin au sujet de leur place dans le Royaume restauré de David, Marie, l’auditrice, remarqua que Jésus avait dit qu’il allait mourir. Elle a agi ; elle a acheté les épices funéraires les meilleures et les plus chères qui soient. Puis, alors qu'ils se fermaient encore à l'insupportable solitude humaine du Seigneur qui voyait devant lui le Calvaire, elle remarqua qu'il avait dit qu'il se lèverait. Il lui vint à l'esprit que l'hommage de ses parfums pourrait alors être superflu. De nouveau, elle a agi, versant du nard sur les pieds bien-aimés alors qu'ils avaient encore de nombreux pas solitaires à parcourir. Et à propos de cet acte, Jésus a prononcé des paroles sans précédent : « Partout dans le monde cet évangile sera prêché, cela sera aussi annoncé en mémoire d’elle. » Ouah!
 
@@ -86,7 +86,7 @@ Durant ces temps privilégiés de prière, nous construisons notre espérance de
 
 Ayons donc faim de Dieu, attendons-le, comptons sur lui et cédons-nous à lui.
 
-##III. Premier cadeau mental – Accélération intuitive
+##III. Premier cadeau mental – Accélération intuitive
 
 Le premier esprit mental adjoint est l’esprit d’intuition rapide, parfois appelé la crainte du Seigneur. Chez les animaux inférieurs, c'est l'instinct le plus primitif, la réponse rapide, juste au-dessus du tropisme chez les plantes, mais difficilement enseignable. Je pense à la façon dont les insectes se précipitent vers l’obscurité lorsqu’ils sont surpris sous une bûche. Dans la religion primitive, cette crainte assure un respect minimal de « la loi ».
 
@@ -96,7 +96,7 @@ Parmi les dons charismatiques, il y en a un qui, bien que « le moins » aux yeu
 
 ## IV. Deuxième don mental - Compréhension, capacité d'apprentissage
 
-Le deuxième esprit mental adjoint est l’esprit de compréhension. Chez les animaux (et les bébés), il s’agit simplement de la capacité d’associer des idées, d’apprendre. Je suppose que toutes les recherches sur les rats dans les labyrinthes sont des recherches de second niveau !
+Le deuxième esprit mental adjoint est l’esprit de compréhension. Chez les animaux (et les bébés), il s’agit simplement de la capacité d’associer des idées, d’apprendre. Je suppose que toutes les recherches sur les rats dans les labyrinthes sont des recherches de second niveau !
 
 Dans l’expérience religieuse aussi, nous avons besoin d’apprendre, voire même d’avoir la volonté d’apprendre. Lorsque vous lisez les Écritures ou écoutez quelqu’un et que vous sentez soudain que Dieu vous parle et relie le sens des mots à votre vie, l’esprit de compréhension est à l’œuvre. C'est la reconnaissance d'une nouvelle association d'idées qui est le domaine particulier de cet adjudant.
 
@@ -136,7 +136,7 @@ Mais dans tous vos efforts pour construire une communauté, rappelez-vous que la
 
 ## VIII. Sixième don mental – Adoration
 
-Avec l'esprit d'adoration (la piété dans les listes isaïennes et catholiques), nous arrivons enfin à ces adjudants dont nous ne partageons pas le ministère avec les animaux. En fait, c'est ce qui fait de nous des humains et des animaux : nous sommes sensibles aux esprits d'adoration et de sagesse et eux ne le sont pas. (Bien sûr, contrairement aux outils, aux feux et à un bassin droit, l’adoration et la sagesse ne laissent aucune trace dans les archives fossiles !)
+Avec l'esprit d'adoration (la piété dans les listes isaïennes et catholiques), nous arrivons enfin à ces adjudants dont nous ne partageons pas le ministère avec les animaux. En fait, c'est ce qui fait de nous des humains et des animaux : nous sommes sensibles aux esprits d'adoration et de sagesse et eux ne le sont pas. (Bien sûr, contrairement aux outils, aux feux et à un bassin droit, l’adoration et la sagesse ne laissent aucune trace dans les archives fossiles !)
 
 Il est intéressant de noter que les activités mentales de courage, de curiosité et de communauté précèdent l’adoration. Ils semblent être tout le contraire de ce silence et de cette douceur plutôt solitaires devant la majesté de Dieu. Il est encore plus surprenant et instructif de réfléchir au fait que le zworsing précède la sagesse.
 
@@ -164,7 +164,7 @@ Après avoir vécu parmi nous dans la chair, Jésus a reçu de notre Père le pr
 
 Chaque esprit normal est préparé pour ce ministère de vérité par l’Esprit Mère de l’univers local. Mais il y a cette différence entre son ministère et le sien : le sien est donné presque automatiquement, mais le ministère de l'esprit de vérité dépend directement de notre connaissance de Jésus, de notre amour pour lui et de notre engagement personnel envers sa voie. Pour ceux qui ne connaissent pas le nom de Jésus, ou pour qui son nom est associé à des enseignements confus et obscurs, l’acceptation de la substance de sa révélation, quelle que soit la mesure dans laquelle elle se présente dans leur situation, est suffisante pour la croissance spirituelle. Mais l'expérience profonde du baptême dans l'esprit et ses surprenantes dotations de pouvoir charismatique sont généralement réservées à ceux qui ont établi un contact personnel conscient avec Jésus, qui se sont engagés sincèrement envers son enseignement explicite et qui portent des fruits spirituels durables en _agissant_ sur les cadeaux reçus.
 
-Je me demandais pourquoi on l'appelait parfois l'Avocat (défenseur légal), parfois le Consolateur, parfois l'Enseignant. Mais sur notre planète troublée, nos plus grands problèmes sont simplement les suivants : nous nous sentons incertains de notre statut devant un Père juste et puissant ; il défend nos cœurs contre de lourdes accusations. Nous nous sentons seuls dans un univers vaste et indifférent ; il est notre Consolateur. Nous sommes tellement confus ; et c'est un professeur des plus étonnants. En fait, nos esprits, infectés par la Pentecôte par l’esprit de Jésus, sont sensibles à la vérité comme une plante est sensible à la lumière. Nous savons_. Et ce que nous savons d’abord, c’est que le Père lui-même nous aime.
+Je me demandais pourquoi on l'appelait parfois l'Avocat (défenseur légal), parfois le Consolateur, parfois l'Enseignant. Mais sur notre planète troublée, nos plus grands problèmes sont simplement les suivants : nous nous sentons incertains de notre statut devant un Père juste et puissant ; il défend nos cœurs contre de lourdes accusations. Nous nous sentons seuls dans un univers vaste et indifférent ; il est notre Consolateur. Nous sommes tellement confus ; et c'est un professeur des plus étonnants. En fait, nos esprits, infectés par la Pentecôte par l’esprit de Jésus, sont sensibles à la vérité comme une plante est sensible à la lumière. Nous savons_. Et ce que nous savons d’abord, c’est que le Père lui-même nous aime.
 
 ## XI. Pentecôte : une journée d'action
 

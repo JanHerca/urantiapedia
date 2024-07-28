@@ -49,7 +49,7 @@ Prévoyez d'arriver trois jours plus tôt, le 4 août, pour participer à la ret
 
 ### Retraite des écrivains – Publier la Bonne Nouvelle – 5-7 août 
 
-Les écrivains, rédacteurs et éditeurs intéressés par l’art et la science de la communication de la « bonne nouvelle » par le biais du langage sont invités à participer à cet atelier. Les sessions traiteront des questions liées au droit d'auteur et à l’utilisation équitable, à la scène éditoriale actuelle, au marketing et à la distribution, ainsi qu’aux questions propres aux lecteurs du Livre d'Urantia qui sont des écrivains. Frais d'inscription US$20 or CAN$30. Pour plus d'informations, contactez Byron Belitsos au ll22 Grant Ave. #C, Novarto, CA 94945 ; 4151453-4023 ; (télécopieur) 415/456-3728 ; bbelitsos@earthlink.net. 
+Les écrivains, rédacteurs et éditeurs intéressés par l’art et la science de la communication de la « bonne nouvelle » par le biais du langage sont invités à participer à cet atelier. Les sessions traiteront des questions liées au droit d'auteur et à l’utilisation équitable, à la scène éditoriale actuelle, au marketing et à la distribution, ainsi qu’aux questions propres aux lecteurs du Livre d'Urantia qui sont des écrivains. Frais d'inscription US$20 or CAN$30. Pour plus d'informations, contactez Byron Belitsos au ll22 Grant Ave. #C, Novarto, CA 94945 ; 4151453-4023 ; (télécopieur) 415/456-3728 ; bbelitsos@earthlink.net. 
 
 ### Réunion du Conseil général les 12 et 13 août 
 
@@ -61,7 +61,7 @@ Des informations sur les visites touristiques de la région de Vancouve et d'aut
 
 ## Opportunité de service de conférence
 
-La Fellowship du Livre d'Urantia recherche douze jeunes adultes (17-25 ans) pour participer à une équipe de travail pendant la durée de la conférence à Vancouver. Les tâches de travail peuvent comprendre les tâches suivantes : Montage, démontage et rangement des chaises avant et après les ateliers ; mise en place du Club LU; aider pendant les pauses-café ; livraison/ramassage du matériel ; aider les programmes pour enfants et adolescents ; aide à l’inscription pour personnes âgées/familles. Les membres de l’équipage seront hébergés dans deux suites sixplex réservées sur le campus et bénéficieront de réductions substantielles sur l’hébergement et les repas ainsi que d'une dispense de leurs frais d'inscription (une économie totale de 230 $ par membre). Indépendamment de leurs affectations de travail, les membres de l’équipage auront suffisamment de temps pour participer aux événements de la conférence. Les membres de l’équipage devraient arriver vendredi après-midi 6 août et prévoir d'assister à l’intégralité de la conférence, qui se terminera jeudi après-midi 12 août. Pour vous inscrire, remplissez le formulaire d'inscription disponible sur le site Web de la Fellowship ou appelez John Hales au 7731327-0424.
+La Fellowship du Livre d'Urantia recherche douze jeunes adultes (17-25 ans) pour participer à une équipe de travail pendant la durée de la conférence à Vancouver. Les tâches de travail peuvent comprendre les tâches suivantes : Montage, démontage et rangement des chaises avant et après les ateliers ; mise en place du Club LU; aider pendant les pauses-café ; livraison/ramassage du matériel ; aider les programmes pour enfants et adolescents ; aide à l’inscription pour personnes âgées/familles. Les membres de l’équipage seront hébergés dans deux suites sixplex réservées sur le campus et bénéficieront de réductions substantielles sur l’hébergement et les repas ainsi que d'une dispense de leurs frais d'inscription (une économie totale de 230 $ par membre). Indépendamment de leurs affectations de travail, les membres de l’équipage auront suffisamment de temps pour participer aux événements de la conférence. Les membres de l’équipage devraient arriver vendredi après-midi 6 août et prévoir d'assister à l’intégralité de la conférence, qui se terminera jeudi après-midi 12 août. Pour vous inscrire, remplissez le formulaire d'inscription disponible sur le site Web de la Fellowship ou appelez John Hales au 7731327-0424.
 
 ## L'aventure de la divinité
 
@@ -160,7 +160,7 @@ Les projets d'échanges culturels ont consisté à descendre dans ces pays pour 
 <figcaption><em>Scène de théâtre en plein air au Camp Buckner près de Kingsland, Texas</em></figcaption>
 </figure>
 
-## Appel à un chœur d'anges !
+## Appel à un chœur d'anges !
 
 Connaissez toutes les choses célestes...
 
@@ -190,13 +190,13 @@ Les chanteurs et instrumentistes intéressés contactent Barbara Hester à bhest
 
 Publié trimestriellement par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship 
 
-Membres : Avi Dogim, présidente Nancy Johnson, Carolyn Kendall, Linda Buselli, Sage Waitts, Gary Deinstadt
+Membres : Avi Dogim, présidente Nancy Johnson, Carolyn Kendall, Linda Buselli, Sage Waitts, Gary Deinstadt
 
 Téléphone : 773-327-0424. Fax : 713-327-6159 Courriel : Fellowship@urantiabook.org Site Web : http://www.ubfellowship.org
 
 ## Liens externes
 
-* Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
+* Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
 
 
 

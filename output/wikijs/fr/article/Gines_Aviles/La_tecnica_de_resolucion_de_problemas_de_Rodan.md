@@ -56,7 +56,7 @@ B. La deuxième condition est d'avoir « _la faim et la soif de la vraie justice
 
 Ni cette technique ni aucune autre ne compensera « _les défauts inhérents à la personnalité_ » (bien qu'à partir de cette partie spécifique du document, il ne me soit pas très clair ce qu'on entend exactement par personnalité)
 
-> DOC. 160 RODAN D'ALEXANDRIE : TECHNIQUES DE RÉSOLUTION DE PROBLÈMES
+> DOC. 160 RODAN D'ALEXANDRIE : TECHNIQUES DE RÉSOLUTION DE PROBLÈMES
 > 
 > « _La réussite de la vie n’est rien de plus et rien de moins que l’art de maitriser des techniques sures pour résoudre des problèmes ordinaires._ » (<a id="a60_151"></a>[LU 160:1.7](/fr/The_Urantia_Book/160#p1_7))
 

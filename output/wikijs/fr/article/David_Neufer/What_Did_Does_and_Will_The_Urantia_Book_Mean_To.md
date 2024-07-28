@@ -39,7 +39,7 @@ _Par David Neufer, Pennsylvanie, États-Unis_
 
 Avant d’avoir trouvé le _Livre d’Urantia_, cela ne me disait rien du tout, tout comme à la plupart des gens aujourd’hui, sur cette planète. Avant le _Livre d’Urantia_, je lisais beaucoup cherchant la meilleure explication à la réalité. Mon premier concept de Dieu venait de l’église catholique. Ils m’enseignèrent la réalité de Dieu. Je ne sais pas comment je serais si je n’étais pas issu d’une famille croyant en Dieu.
 
-Je n’ai jamais douté que Jésus avait existé, mais sa nature était difficile à discerner à partir des morceaux des écrits anciens qui furent détruits par le temps. Les histoires de sa vie me donnèrent un bon sentiment à son égard. Les rituels de l’église ne me plaisaient pas, ni leur accentuation sur sa mort. Tout en ne pouvant accepter totalement le catholicisme, ce n’était pas un mauvais début ; cela aurait pu être pire. Néanmoins, j’étais ardemment prêt à en savoir plus sur qui j’étais, pourquoi j’étais ici et où j’allais. J’avais trouvé un vide. J’avais des recherches à faire.
+Je n’ai jamais douté que Jésus avait existé, mais sa nature était difficile à discerner à partir des morceaux des écrits anciens qui furent détruits par le temps. Les histoires de sa vie me donnèrent un bon sentiment à son égard. Les rituels de l’église ne me plaisaient pas, ni leur accentuation sur sa mort. Tout en ne pouvant accepter totalement le catholicisme, ce n’était pas un mauvais début ; cela aurait pu être pire. Néanmoins, j’étais ardemment prêt à en savoir plus sur qui j’étais, pourquoi j’étais ici et où j’allais. J’avais trouvé un vide. J’avais des recherches à faire.
 
 Certaines philosophies me rebutaient. D’autres m’attiraient. Les livres de P.D. Ouspensky, Hermann Hesse, Ram Dass et Buckminster Fuller avaient quelque attrait. Bucky restait un héros personnel, un merveilleux mortel connaissant Dieu.
 
@@ -51,7 +51,7 @@ Une fois, j’ai même annoncé ma décision de rejoindre Hare Krishnas. Cependa
 
 Au début, je sautais de page en page. Les premiers fascicules qui m’emballèrent furent ceux sur Adam et Ève. La version biblique soulevait de nombreuses questions, mais il y avait ici une version élargie présentée dans un récit rationnel. Je ne comprenais pas toute la terminologie, mais je comprenais et voulait en lire plus.
 
-J’étais mûr pour la révélation. Au début, je me posais des questions, me servant de mon détecteur de mensonges inné, cherchant les incohérences comme celles que j’avais trouvé dans d’autres travaux similaires. En cherchant plus loin, je me rendis compte qu’il **n’y avait** rien de similaire. Rien !
+J’étais mûr pour la révélation. Au début, je me posais des questions, me servant de mon détecteur de mensonges inné, cherchant les incohérences comme celles que j’avais trouvé dans d’autres travaux similaires. En cherchant plus loin, je me rendis compte qu’il **n’y avait** rien de similaire. Rien !
 
 Le _Livre d’Urantia_ est substantiellement, plus qu’un livre. C’est une éducation cosmique. Cette révélation révèle tout ce que je voulais savoir à propos de la réalité, plus encore que ce que je penserais à demander sur la nature des choses et des êtres dans l’univers des univers. C’est une révélation ou ceux qui savent de quoi ils parlent, disent aisément qu’ils ne savent pas. Ce qu’ils disent et comment ils le disent m’attirent à y revenir.
 
@@ -61,7 +61,7 @@ Quarante ans plus tard, la Révélation Urantia reste éclairante et convaincant
 
 Je ne peux pas concevoir un moment, ici-bas, où je n’étudierai pas le _Livre d’Urantia_. Un jour, nous irons dans les écoles des prochains mondes. Nous les étudiants du Livre d’Urantia pourrions être regroupés comme agondonteurs portés de révélation. Je crois qu’apprendre continuera mais pas vraiment par des livres. Nous découvrirons ce qu’est la mota morontielle, et pratiquerons de nouvelles techniques d’étude. Nous passerons nos connaissances aux autres qui arrivent après nous.
 
-Merci à ceux qui ont créé cette source de vérité dont nous nous délectons ! Les Fascicules d’Urantia seront pour toujours une révélation d’importance personnelle.
+Merci à ceux qui ont créé cette source de vérité dont nous nous délectons ! Les Fascicules d’Urantia seront pour toujours une révélation d’importance personnelle.
 
 En attendant, pendant que nous sommes encore ici, voici un conseil sur la manière d’étudier. Les révélateurs distribuent fréquemment des **données liées** à travers les fascicules et les sections, quelquefois dans les sections où vous ne penseriez regarder. Utiliser un outil de recherche de qualité semble être **le seul moyen** d’apprendre convenablement certains thèmes.
 

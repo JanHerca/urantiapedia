@@ -1,5 +1,5 @@
 ---
-title: "Travail d'équipe dirigé par l’Esprit : la perle des univers"
+title: "Travail d'équipe dirigé par l’Esprit : la perle des univers"
 description: "Le Mighty Messenger — Numéro du printemps 2023 : Nouvelles et opinions pour les lecteurs du Livre d'Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
@@ -137,12 +137,12 @@ La plupart des participants à la conférence avec qui j'ai noué des amitiés a
 
 Êtes-vous intéressé par un service à l’échelle mondiale? Notre communauté internationale s’agrandit ! En dehors de ces suggestions ci-dessus, je suis toujours très curieux de savoir à quoi ressemble l’avenir de la culture et du mouvement du _Livre d'Urantia_.
 
-L’expérience révélatrice en Ouganda a soulevé pour moi de grandes questions concernant le travail d’équipe international dirigé par l’esprit, qui alimenteront un prochain article :
-- Quels sont les principaux principes du travail d'équipe spiritualisé et organisationnel ?
+L’expérience révélatrice en Ouganda a soulevé pour moi de grandes questions concernant le travail d’équipe international dirigé par l’esprit, qui alimenteront un prochain article :
+- Quels sont les principaux principes du travail d'équipe spiritualisé et organisationnel ?
 - Comment les organisations établies basées sur le Livre d'Urantia travaillent-elles ensemble pour s'informer mutuellement de leur travail au niveau international ou national, et sommes-nous prêts à le faire ?
 - Comment pouvons-nous distinguer les étudiants sincères de la vérité de ceux qui sont plus intéressés par le gain monétaire ?
 - Qu'est-ce qui soutient réellement la croissance des étudiants sincères de la vérité qui se consacrent à ce livre ?
-- Comment pouvons-nous évaluer les besoins lorsque nous ne sommes pas allés dans un pays et que nous ne connaissons les gens que par le biais de la communication en ligne ?
+- Comment pouvons-nous évaluer les besoins lorsque nous ne sommes pas allés dans un pays et que nous ne connaissons les gens que par le biais de la communication en ligne ?
 
 Ces questions vous intriguent ? Vous avez des expériences à partager et l’envie de servir le Comité International des Fellowships ? Nous apprécierons vos commentaires et votre dévouement. Vous pouvez envoyer un e-mail au bureau de la Fellowship du Livre d'Urantia (à [urantiabook.org/Contact-Us](https://urantiabook.org/Contact-Us)) pour plus d'informations sur la façon de vous impliquer.
 

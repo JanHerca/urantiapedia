@@ -44,7 +44,7 @@ Mais si nous ne sommes pas une Église, en quoi différons-nous alors d’une É
 
 —_William S. Sadler, Jr._
 
-_(Remarque : William S. Sadler, Jr, a été président de la Fraternité URANTIA pendant les trois premières années de son existence, 1955-1957. Ceci est un extrait de son premier rapport à l'Assemblée triennale des délégués.)_
+_(Remarque : William S. Sadler, Jr, a été président de la Fraternité URANTIA pendant les trois premières années de son existence, 1955-1957. Ceci est un extrait de son premier rapport à l'Assemblée triennale des délégués.)_
 
 ## Faits sur la Confrérie
 
@@ -91,7 +91,7 @@ Je ne connais aucune organisation humaine qui ait, en réalité, placé l'indivi
 
 ## Connaître et aimer
 
-C'est une expérience joyeuse d'apprendre à partir des déclarations du _Livre d'URANTIA_ que Dieu s'intéresse à chacun de nous personnellement, individuellement. Son antenne s’adresse à chacun d’entre nous. Nous devons en être conscients dans notre existence quotidienne, vivre chaque instant comme en sa présence. Comme c’est passionnant de savoir que nos relations les uns avec les autres ont une valeur de survie. Une de mes citations préférées du _Livre d'URANTIA_ se trouve sur LU 112 : 5.22.
+C'est une expérience joyeuse d'apprendre à partir des déclarations du _Livre d'URANTIA_ que Dieu s'intéresse à chacun de nous personnellement, individuellement. Son antenne s’adresse à chacun d’entre nous. Nous devons en être conscients dans notre existence quotidienne, vivre chaque instant comme en sa présence. Comme c’est passionnant de savoir que nos relations les uns avec les autres ont une valeur de survie. Une de mes citations préférées du _Livre d'URANTIA_ se trouve sur LU 112 : 5.22.
 
 « … Mais la personnalité et les relations entre personnalités ne sont jamais des échafaudages ; la mémoire humaine des relations de personnalités a une valeur cosmique et persistera. Sur les mondes des maisons, non seulement vous connaitrez et serez connus de ceux qui furent vos associés dans la courte mais mystérieuse vie physique sur Urantia, mais vous vous les rappellerez et ils se souviendront de vous. <a id="a95_410"></a>[LU 112:5.22](/fr/The_Urantia_Book/112#p5_22)
 

@@ -44,12 +44,12 @@ Diverses soirées et événements sociaux sont programmés, et pour ceux d'entre
 
 Pour vous inscrire en ligne, allez sur www.urantia-education.org ou remplissez le formulaire d'inscription dans ce numéro. Voici un échantillon des nombreux ateliers prévus pour SSS12. La liste complète peut être consultée sur le site Web du Comité d'éducation : www.urantia-education.org.
 - **Eugénisme et civilisation progressiste évolutionniste.** 
-  Présentateurs : (Tuteurs) Katharina Becker et Charles Laurence Olivea
+  Présentateurs : (Tuteurs) Katharina Becker et Charles Laurence Olivea
   Les participants sont tenus de lire et de prendre des notes sur le matériel assigné sur le sujet tiré du _Le Livre d'Urantia_ sur le sujet avant d'assister au séminaire. La participation sera interactive. Les inscriptions au séminaire seront limitées à 12. Les participants doivent s'inscrire avant la date limite « stricte » du 1er juillet 2012. Pour s'inscrire : envoyez un courriel à Charles Olivea à clivea@gmail.com.
 - **Travailler sur un bâtiment et essayer de le rendre réel par rapport à ce que…Repenser et revitaliser une civilisation**
   Présentateur : Dave Holt
   Examinons pourquoi les civilisations disparaissent (la civilisation construite par Onamonalonton dans les Amériques). En même temps, nous examinerons ce qui est nécessaire pour revitaliser une civilisation existante et en construire une progressiste.
-- **Favoriser la croissance progressive de la société et de la civilisation humaines : la campagne incessante du maître Séraphin**
+- **Favoriser la croissance progressive de la société et de la civilisation humaines : la campagne incessante du maître Séraphin**
   Présentateurs : Bob Debold et Barbara Newsom
   Cet atelier utilisera un guide d'étude élaboré par le Comité pour l’Effort Mondial qui servira de cadre pour les discussions en grands et petits groupes. Le guide d'étude contient plus de 15 questions ouvertes pour stimuler l’étude et la réflexion personnelles.
 - **Gouvernement sur une planète voisine**
@@ -88,11 +88,11 @@ Meredith m'a aidé dans de nombreux projets et a même dirigé la cérémonie de
 
 « J'ai étudié _Le Livre d'Urantia_ en profondeur pendant plus de quarante ans, et je suis également convaincu que la paternité du texte était surhumaine et qu’il a été matérialisé par des moyens sans précédent qui ne sont pas entièrement compris. Selon ma meilleure opinion professionnelle et personnelle, je suis absolument convaincu qu’il n’y a eu aucune paternité humaine ni apport créatif, et qu’aucune décision éditoriale humaine n’a été impliquée dans la matérialisation des Cahiers d’Urantia. Je crois en la vérité de ce que le Dr Sadler a écrit – et me l’a personnellement révélé à plusieurs reprises : les Cahiers d'Urantia ont été publiés tels qu’ils ont été reçus, et la commission de contact n'avait aucune autorité éditoriale du tout, et son rôle se limitait uniquement aux tâches administratives d'orthographe. , les majuscules et la ponctuation. Les membres du forum n'ont pas non plus contribué au contenu créatif des Cahiers d'Urantia. Le forum était semblable à un groupe de discussion moderne dans le sens où il était utilisé par les auteurs célestes uniquement comme un indicateur pour mesurer la compréhension humaine.
 
-## Conférence YaYa de janvier Génial !
+## Conférence YaYa de janvier Génial !
 
 Par _Mike MacIsaac_
 
-Merci à tous ceux qui ont rendu la conférence des jeunes générations du 13 au 16 janvier géniale ! La conférence à Boulder, au Colorado, a attiré de nombreux participants et s'est déroulée à merveille. Le programme comprenait une riche variété d'activités. Un grand nombre de visiteurs sont également arrivés tôt et sont restés tard pour des jours supplémentaires de moments formidables propices à l’approfondissement de l’amitié. Le week-end comprenait une variété de lectures de groupe, d'ateliers, de présentations et de discussions liées à la vie spirituelle, à la communauté et, plus intimement, à la connaissance mutuelle.
+Merci à tous ceux qui ont rendu la conférence des jeunes générations du 13 au 16 janvier géniale ! La conférence à Boulder, au Colorado, a attiré de nombreux participants et s'est déroulée à merveille. Le programme comprenait une riche variété d'activités. Un grand nombre de visiteurs sont également arrivés tôt et sont restés tard pour des jours supplémentaires de moments formidables propices à l’approfondissement de l’amitié. Le week-end comprenait une variété de lectures de groupe, d'ateliers, de présentations et de discussions liées à la vie spirituelle, à la communauté et, plus intimement, à la connaissance mutuelle.
 
 Nous avons également fait une courte randonnée surplombant le centre de Boulder, participé à des exercices d'improvisation hilarants, expérimenté une méditation guidée, assisté au cours du vendredi soir de Chris Halvorson (www.perfectinghorizons.org), apprécié l’atrium de l’hôtel Outlook avec piscine et bain à remous et fait profiter au maximum des occasions de socialisation nocturne. L'un des moments forts a été le grand repas-partage auquel les lecteurs locaux de toutes générations ont été invités. Il comprenait de courtes conférences inspirantes de la part des habitants ainsi que de jeunes visiteurs et de la musique du compositeur inspiré de l’LU, Stockhausen, interprétée par un jeune professeur de solfège hautement qualifié.
 
@@ -100,7 +100,7 @@ Au départ, j'avais imaginé cet événement de mi-janvier comme étant plutôt 
 
 Cette conférence s’est avérée bien plus importante que toutes celles que j’ai vues au cours des quinze années écoulées depuis que je suis devenu actif dans le mouvement, d’autant plus surprenant qu’elle a eu lieu à la mi-janvier.
 
-Un développement encourageant qui a contribué à attirer des personnes jeunes et spirituellement motivées est que certains qui étaient enfants lorsque j'animais la communauté dans le passé sont maintenant des lecteurs actifs ; un « nouveau lot » de jeunes lecteurs, pour la plupart de deuxième génération, est arrivé sur la scène. Cela inclut le Comité « YaYa » (Jeunesse et Jeune Adulte) de la Fellowship du Livre d'Urantia, qui est une équipe relativement nouvelle travaillant pour encourager les jeunes générations de lecteurs. Je suis récemment devenu actif au sein du comité YaYa, et leur contribution, leurs encouragements et leur participation (cinq membres du comité sont venus) ont apporté un dynamisme unique et inestimable à cet événement. Je tiens à remercier Angie Thurston, Tony Finstad et le reste du comité pour leur aide et leur soutien !
+Un développement encourageant qui a contribué à attirer des personnes jeunes et spirituellement motivées est que certains qui étaient enfants lorsque j'animais la communauté dans le passé sont maintenant des lecteurs actifs ; un « nouveau lot » de jeunes lecteurs, pour la plupart de deuxième génération, est arrivé sur la scène. Cela inclut le Comité « YaYa » (Jeunesse et Jeune Adulte) de la Fellowship du Livre d'Urantia, qui est une équipe relativement nouvelle travaillant pour encourager les jeunes générations de lecteurs. Je suis récemment devenu actif au sein du comité YaYa, et leur contribution, leurs encouragements et leur participation (cinq membres du comité sont venus) ont apporté un dynamisme unique et inestimable à cet événement. Je tiens à remercier Angie Thurston, Tony Finstad et le reste du comité pour leur aide et leur soutien !
 
 Le comité YaYa a également contribué financièrement aux bourses et aux dépenses liées aux événements, ce qui nous a permis d'avoir un groupe aussi important. Lorsque YaYa a voté pour consacrer de l’argent à cet événement, j'ai décidé de demander également à l’Association Urantia Internationale si elle serait prête à aider avec quelques bourses de voyage pour les jeunes lecteurs. Cela a amené une poignée de personnes à donner également leur aide pour soutenir cet événement via l’AUI. Je tiens à remercier James Woodward, David Lithicum, Rick Lyon, Arnie Ondis et un donateur anonyme pour leurs contributions extrêmement utiles. Les bourses, qui couvrent généralement environ la moitié des frais de voyage des personnes dans le besoin, ont permis à une demi-douzaine de jeunes de venir qui n'auraient pas pu se le permettre. Nous avons trouvé des chambres dans un hôtel bon marché qui constituaient un lieu idéal pour certains de nos ateliers et nos rencontres.
 
@@ -110,7 +110,7 @@ Nous souhaitons poursuivre sur cette lancée. Je suis ravi de travailler avec le
 
 ## « Pipeline of Light »
 
-La Fellowship du Livre d'Urantia est ravie d'annoncer que le « Pipeline of Light » célèbre son dixième anniversaire cette année. Depuis notre création en 2002, les bénévoles ont placé 3 347 exemplaires du _Livre d'Urantia_ auprès de lecteurs dans soixante-quinze pays, dont :
+La Fellowship du Livre d'Urantia est ravie d'annoncer que le « Pipeline of Light » célèbre son dixième anniversaire cette année. Depuis notre création en 2002, les bénévoles ont placé 3 347 exemplaires du _Livre d'Urantia_ auprès de lecteurs dans soixante-quinze pays, dont :
 
 Algérie, Argentine, Arménie, Australie, Bahreïn, Belize, Bolivie, Botswana, Brésil, Bulgarie, Cameroun, Canada, Tchétchénie, Chili, Chine, Colombie, Costa Rica, Croatie, Cuba, Chypre, République dominicaine, Équateur, Égypte, El Salvador , Angleterre, Fidji, France, Allemagne, Ghana, Grèce, Guinée, Guatemala, Haïti, Honduras, Hongrie, Islande, Inde, Iran, Italie, Kenya, Kirghizistan, Lituanie, Malaisie, Maldives, Mexique, Moldavie, Myanmar, Népal, Nicaragua , Nigeria, Pakistan, Palestine, Panama, Pérou, Philippines, Pologne, Roumanie, Russie, Afrique du Sud, Corée du Sud, Vietnam du Sud, Espagne, Sri Lanka, Suisse, Taïwan, Togo, Turquie, Ouganda, Ukraine, États-Unis, Uruguay, Venezuela, Yémen et Zambie.
 
@@ -123,15 +123,15 @@ Ce résumé ne serait pas complet sans exprimer ma gratitude aux nombreux donate
 
 Bourse _Le Livre d'Urantia_, PO Box 6631, Broomfield, CO 80021
 
-Merci beaucoup pour votre soutien au Pipeline of Light !
+Merci beaucoup pour votre soutien au Pipeline of Light !
 
 Michelle Klimesh, coordonnatrice des pipelines
 
 
 ## Évènements à venir…
 
-- **1-5 août 2012** : La session d'étude d'été de la bourse _Le Livre d'Urantia_ aura lieu à Techny Towers, Northbrook, Illinois. Pour plus d’informations et une liste complète des ateliers, contactez le site Web du Comité d’éducation, www.urantia-education.org.
-- **17-19 août 2012** : Troisième retraite annuelle Heart of the Mountain, au centre de conférence Valle Crucis à Valle Crucis, Caroline du Nord, près de Boone. Le thème est « Un dans l’Esprit ». Pour plus d’informations, contactez Rabia Harris à rabiaharris@yahoo.com.
+- **1-5 août 2012** : La session d'étude d'été de la bourse _Le Livre d'Urantia_ aura lieu à Techny Towers, Northbrook, Illinois. Pour plus d’informations et une liste complète des ateliers, contactez le site Web du Comité d’éducation, www.urantia-education.org.
+- **17-19 août 2012** : Troisième retraite annuelle Heart of the Mountain, au centre de conférence Valle Crucis à Valle Crucis, Caroline du Nord, près de Boone. Le thème est « Un dans l’Esprit ». Pour plus d’informations, contactez Rabia Harris à rabiaharris@yahoo.com.
 - **28-30 septembre 2012** : 4e Session d'étude d'automne de l’Association Urantia du Grand Lac Michigan, à l’hôtel Hilton Gardens, Chesterton, IN. Pour plus d’informations, contactez : RUTABL@aol.com. 
 
 ## Ceci et cela…
@@ -146,7 +146,7 @@ S'il vous plaît, soutenez la Fellowship du Livre d'Urantia. Vous pouvez faire u
 ## Personnel du « The Mighty Messenger »
 
 Publié par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship.
-Membres : Linda Buselli, présidente Cece Forrester, David Glass, Nancy Johnson, Sage Waitts
+Membres : Linda Buselli, présidente Cece Forrester, David Glass, Nancy Johnson, Sage Waitts
 877.288.3772
 bourse@urantiabook.org
 www.urantiabook.org

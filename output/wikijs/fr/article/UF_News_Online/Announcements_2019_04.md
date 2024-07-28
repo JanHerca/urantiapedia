@@ -33,13 +33,13 @@ dateCreated: 2023-8-29T10:55:6Z
 
 ## Traductions grecque et hébraïque disponible en ligne dès maintenant !
 
-Nous sommes enchantés d’annoncer que les traductions grecque et hébraïque sont maintenant disponible en ligne à urantia.org/el et urantia.org/he respectivement. Nos équipes de traduction aimeraient avoir votre ressenti sur leur travail. Aidez, s’il vous plaît, à passer la nouvelle à tous les lecteurs que vous connaissez, encouragez les à lire les traductions et envoyez le retour à Tamara Strumfeld à [tamara@urantia.org](mailto:tamara@urantia.org). Merci !
+Nous sommes enchantés d’annoncer que les traductions grecque et hébraïque sont maintenant disponible en ligne à urantia.org/el et urantia.org/he respectivement. Nos équipes de traduction aimeraient avoir votre ressenti sur leur travail. Aidez, s’il vous plaît, à passer la nouvelle à tous les lecteurs que vous connaissez, encouragez les à lire les traductions et envoyez le retour à Tamara Strumfeld à [tamara@urantia.org](mailto:tamara@urantia.org). Merci !
 
 ## La Session d’étude estivale 2019 de la Fellowship du Livre d’Urantia
 
-La Session d’étude estivale 2019 de la Fellowship du Livre d’Urantia se tiendra du 27 au 30 juin à Techny Towers à Northbrook, Illinois. Le thème de cette année est « Faire l’expérience de la Présence de Dieu. »
+La Session d’étude estivale 2019 de la Fellowship du Livre d’Urantia se tiendra du 27 au 30 juin à Techny Towers à Northbrook, Illinois. Le thème de cette année est « Faire l’expérience de la Présence de Dieu. »
 
-Elle sera précédée par une retraite spirituelle de deux jours, « Apprendre à Connaître nos Parents Spirituels » qui commencera le jeudi soir, le 25 juin et un conclave de société pendant la journée du 27 juin.
+Elle sera précédée par une retraite spirituelle de deux jours, « Apprendre à Connaître nos Parents Spirituels » qui commencera le jeudi soir, le 25 juin et un conclave de société pendant la journée du 27 juin.
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2019_04/039.jpg">

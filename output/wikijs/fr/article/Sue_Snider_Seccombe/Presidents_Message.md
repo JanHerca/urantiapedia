@@ -34,7 +34,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 </figure>
 
 
-## GPS : Notre système de positionnement divin
+## GPS : Notre système de positionnement divin
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Sue_Snider_Seccombe/42.jpg">
@@ -50,7 +50,7 @@ Nous sommes dotés d'un dispositif de guidage intégré qui, si nous ne continuo
 
 Le partenariat avec Dieu est irrésistible. Nous avons naturellement soif d’être en phase avec le plan divin. Notre GPS, particulièrement sur Urantia, « recalcule » souvent.
 
-Nier cette attraction, c'est comme nager à contre-courant d'une puissante rivière, c'est pourquoi je suis sur une tribune d'unité depuis un certain temps. « L'unité, pas l'uniformité » me semble être un fleuve puissant. . . une totalité parfaite, qui semble presque impossible dans son caractère global. Je remercie les nombreux contributeurs à ce numéro qui ont exposé ces faits avec tant d’éloquence.
+Nier cette attraction, c'est comme nager à contre-courant d'une puissante rivière, c'est pourquoi je suis sur une tribune d'unité depuis un certain temps. « L'unité, pas l'uniformité » me semble être un fleuve puissant. . . une totalité parfaite, qui semble presque impossible dans son caractère global. Je remercie les nombreux contributeurs à ce numéro qui ont exposé ces faits avec tant d’éloquence.
 
 L'unité, avec son complément, la diversité, sont des principes fondamentaux et stabilisateurs tissés dans le tissu même de toute la création. Dieu prend ce qui serait autrement une cacophonie de discorde et de désaccord et nous offre (ainsi qu'à l'univers entier) des harmonies symphoniques. Chaque force, chaque instrument, chaque personnalité unique peut participer pleinement au plan de Dieu, une toile de fond sûre et stable contre laquelle chaque signature harmonique peut être révélé exactement pour ce qu'il est et a été créé pour être. Il faut faire confiance au maestro.
 
@@ -58,7 +58,7 @@ J'encourage tous ceux qui ressentent l'attrait du Paradis à refléter activemen
 
 ## La beauté dans l'unité
 
-J'ai souvent entendu des membres de notre communauté dire qu'ils étaient en faveur de l'unité spirituelle et non de l'uniformité. Je pense que nous pouvons tous être d'accord sur ce point : aucun d'entre nous n'est en faveur d'une uniformité spirituelle, ou même organisationnelle. Une image me vient à l’esprit de clones insipides ou de chatbots ambulants dépourvus de personnalité et de pensée originale. . . tout le contraire des formes de vie et des personnalités infiniment diverses que nous sommes sûrs de continuer à rencontrer jusqu’au Paradis. La diversité est aussi fondamentale à la création que l’unité.
+J'ai souvent entendu des membres de notre communauté dire qu'ils étaient en faveur de l'unité spirituelle et non de l'uniformité. Je pense que nous pouvons tous être d'accord sur ce point : aucun d'entre nous n'est en faveur d'une uniformité spirituelle, ou même organisationnelle. Une image me vient à l’esprit de clones insipides ou de chatbots ambulants dépourvus de personnalité et de pensée originale. . . tout le contraire des formes de vie et des personnalités infiniment diverses que nous sommes sûrs de continuer à rencontrer jusqu’au Paradis. La diversité est aussi fondamentale à la création que l’unité.
 
 > Vous saisissez quelque peu la philosophie et vous comprenez la divinité dans l’adoration, le service social et l’expérience spirituelle personnelle, mais vous limitez trop souvent la recherche de la beauté — la cosmologie — à l’étude des grossières tentatives artistiques humaines. La beauté, l’art, est largement une affaire **d’unification de contrastes**. La variété est essentielle au concept de beauté. (<a id="a62_411"></a>[LU 56:10.3](/fr/The_Urantia_Book/56#p10_3))
 

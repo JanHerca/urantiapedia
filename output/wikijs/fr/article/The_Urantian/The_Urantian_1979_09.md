@@ -40,7 +40,7 @@ _Le Livre d'URANTIA_ nous dit :
 
 > « _Les inventions mécaniques et la dissémination des connaissances sont en train de modifier la civilisation. Certains ajustements économiques et changements sociaux s’imposent si l’on veut éviter un désastre culturel. Ce nouvel ordre social qui approche ne s’installera pas paisiblement pour un millénaire. Il faut que la race humaine s’adapte à une série de modifications, d’ajustements et de rajustements. L’humanité est en marche vers une nouvelle destinée planétaire non révélée._»
 > 
-> « _Il faut que la religion exerce une forte influence en faveur de la stabilité morale et du progrès spirituel ; il faut qu’elle fonctionne dynamiquement au milieu de conditions toujours changeantes et d’ajustements économiques sans fin._ » (<a id="a42_244"></a>[LU 99:1.1](/fr/The_Urantia_Book/99#p1_1))
+> « _Il faut que la religion exerce une forte influence en faveur de la stabilité morale et du progrès spirituel ; il faut qu’elle fonctionne dynamiquement au milieu de conditions toujours changeantes et d’ajustements économiques sans fin._ » (<a id="a42_244"></a>[LU 99:1.1](/fr/The_Urantia_Book/99#p1_1))
 
 [Lire la suite](/fr/article/Martin_W_Myers/Urantia_Brotherhood_Planetary_Service)
 
@@ -64,7 +64,7 @@ _Wassenaar, Pays-Bas_
 
 ## Dans les prochains numéros
 
-L'un des objectifs sous-jacents du Journal URANTIEN de la Fraternité URANTIA est de fournir un moyen permettant aux lecteurs du Livre d'URANTIA de partager les fruits de leur expérience continue avec Les Enseignements, fruits qui grandissent progressivement dans les domaines matériel, mental et spirituel. Conformément à cette philosophie, nous aimerions explorer les sujets suivants dans les prochains numéros :
+L'un des objectifs sous-jacents du Journal URANTIEN de la Fraternité URANTIA est de fournir un moyen permettant aux lecteurs du Livre d'URANTIA de partager les fruits de leur expérience continue avec Les Enseignements, fruits qui grandissent progressivement dans les domaines matériel, mental et spirituel. Conformément à cette philosophie, nous aimerions explorer les sujets suivants dans les prochains numéros :
 
 - La section 3 (Vrai Culte) du Fascicule 5 suggère différentes lignes de communication avec le Père, le Fils et l'Esprit. Comment ces canaux sont-ils utilisés dans notre vie quotidienne ?
 
@@ -89,7 +89,7 @@ Merci.
 
 ## Remarques
 
-[^1] : Citations et paraphrases de Unity, et non d'Uniformity, copyright & copy ; 1973, Fondation URANTIA — utilisé avec autorisation.
+[^1] : Citations et paraphrases de Unity, et non d'Uniformity, copyright & copy ; 1973, Fondation URANTIA — utilisé avec autorisation.
 
 <figure class="table chapter-navigator">
   <table>

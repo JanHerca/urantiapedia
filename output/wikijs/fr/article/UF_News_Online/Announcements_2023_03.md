@@ -37,11 +37,11 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2023_03/032.jpg">
 </figure>
 
-La Fellowship du Livre d’Urantia organise la prochaine conférence internationale pour les lecteurs du _Livre d’Urantia_ du 24 au 28 juillet 2023, à Chicago, Illinois !
+La Fellowship du Livre d’Urantia organise la prochaine conférence internationale pour les lecteurs du _Livre d’Urantia_ du 24 au 28 juillet 2023, à Chicago, Illinois !
 
 Le lieu, Oak Brook Hills Resort et Centre de Conférence, est à peu près à une demi-heure des deux aéroports principaux de Chicago ( O’Hare/ORD et Midway/ MDW) et offre des lits confortables, une magnifique piscine et un terrain de golf. Pour une semaine, l’été prochain, ce sera aussi la maison d’une centaine de vos amis proches.
 
-Vous pouvez vous inscrire maintenant, ou saisir l’occasion aujourd’hui de vous pré-inscrire (réserver votre place) à : [https://urantiabook.org/ic23](https://urantiabook.org/ic23)
+Vous pouvez vous inscrire maintenant, ou saisir l’occasion aujourd’hui de vous pré-inscrire (réserver votre place) à : [https://urantiabook.org/ic23](https://urantiabook.org/ic23)
 <br style="clear:both;"/>
 
 ## L’application Android Du Livre D’urantia
@@ -50,7 +50,7 @@ Vous pouvez vous inscrire maintenant, ou saisir l’occasion aujourd’hui de vo
 <img src="/image/article/UF_News_Online/2023_03/042.jpg">
 </figure>
 
-Une toute nouvelle façon de découvrir LE LIVRE D'URANTIA !
+Une toute nouvelle façon de découvrir LE LIVRE D'URANTIA !
 
 
 

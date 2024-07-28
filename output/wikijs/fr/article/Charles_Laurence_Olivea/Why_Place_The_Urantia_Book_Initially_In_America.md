@@ -66,7 +66,7 @@ Voici ma liste :
 
 (5). Chicago et le Midwest. À mon avis, la culture du Midwest a tendance à être ***pas aussi pressée*** que cela semble être le cas des cultures urbaines ou suburbaines plus intenses, en particulier sur les deux côtes, rendant ainsi peut-être le potentiel disponible. un bassin de participants volontaires issus de la culture du Midwest plus réceptifs à la pensée spirituelle, intellectuelle et cosmique avancée.
 
-(6). Classe moyenne américaine. Les hommes et les femmes de la classe moyenne étaient peut-être plus sensibles ou réceptifs à la révélation céleste. Ils ont puisé dans une gamme d'atouts : une solide éthique de travail, une éducation suffisante, une curiosité intellectuelle favorisée, un sentiment de sécurité économique raisonnable, une mobilité sociale et, entre autres, une plus grande volonté (que les autres classes) de consacrer du temps à un tel projet. . Une classe moyenne nombreuse est une source majeure de stabilité sociale dans un pays. La nôtre a émergé au XXe siècle, un développement qui a été essentiel au succès futur de cette révélation. Les révélateurs disposaient d’un vaste réservoir dans lequel puiser pour rassembler des mortels coopératifs.
+(6). Classe moyenne américaine. Les hommes et les femmes de la classe moyenne étaient peut-être plus sensibles ou réceptifs à la révélation céleste. Ils ont puisé dans une gamme d'atouts : une solide éthique de travail, une éducation suffisante, une curiosité intellectuelle favorisée, un sentiment de sécurité économique raisonnable, une mobilité sociale et, entre autres, une plus grande volonté (que les autres classes) de consacrer du temps à un tel projet. . Une classe moyenne nombreuse est une source majeure de stabilité sociale dans un pays. La nôtre a émergé au XXe siècle, un développement qui a été essentiel au succès futur de cette révélation. Les révélateurs disposaient d’un vaste réservoir dans lequel puiser pour rassembler des mortels coopératifs.
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/023.jpg">
@@ -93,7 +93,7 @@ Voici ma liste :
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/025.jpg">
 </figure>
 
-(13). Guerres mondiales ; le totalitarisme laïc ; et les Holocaustes. À partir de la Première Guerre mondiale (1914-1918), nombreux sont ceux qui remettent en question, à des degrés divers, les perspectives de survie de l’humanité et la question (sous une forme ou une autre) : Pourquoi Dieu semble-t-il permettre le mal ? Une nouvelle perspective et une nouvelle explication de l’origine, de l’histoire et du destin de l’humanité étaient nécessaires. _Le Livre d'Urantia_, je pense, répond à ce besoin.
+(13). Guerres mondiales ; le totalitarisme laïc ; et les Holocaustes. À partir de la Première Guerre mondiale (1914-1918), nombreux sont ceux qui remettent en question, à des degrés divers, les perspectives de survie de l’humanité et la question (sous une forme ou une autre) : Pourquoi Dieu semble-t-il permettre le mal ? Une nouvelle perspective et une nouvelle explication de l’origine, de l’histoire et du destin de l’humanité étaient nécessaires. _Le Livre d'Urantia_, je pense, répond à ce besoin.
 
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/027.jpg">

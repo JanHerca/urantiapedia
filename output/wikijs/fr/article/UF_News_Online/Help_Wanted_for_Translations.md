@@ -34,13 +34,13 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
-Chers amis et lecteurs du Livre d’Urantia, le directeur des traductions cherche des volontaires : des lecteurs de longue date ayant quelque expérience de traduction, pour aider dans les traductions suivantes :
+Chers amis et lecteurs du Livre d’Urantia, le directeur des traductions cherche des volontaires : des lecteurs de longue date ayant quelque expérience de traduction, pour aider dans les traductions suivantes :
 
-- **Chinoise :** de langue maternelle chinoise et pouvant l’écrire
-- **Hébraïque :** de langue maternelle hébraïque et pouvant l’écrire
-- **Indonésienne :** de langue maternelle indonésienne et pouvant l’écrire
+- **Chinoise :** de langue maternelle chinoise et pouvant l’écrire
+- **Hébraïque :** de langue maternelle hébraïque et pouvant l’écrire
+- **Indonésienne :** de langue maternelle indonésienne et pouvant l’écrire
 
-Contactez, s’il vous plait, Georges Michelson- Dupont à : [georges.michelson-dupont@wanadoo.fr](mailto:georges.michelson-dupont@wanadoo.fr)
+Contactez, s’il vous plait, Georges Michelson- Dupont à : [georges.michelson-dupont@wanadoo.fr](mailto:georges.michelson-dupont@wanadoo.fr)
 
 
 ## Références

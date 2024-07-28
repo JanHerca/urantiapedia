@@ -46,7 +46,7 @@ En 2004, je découvris par moi-même le _Livre d’Urantia,_ étant fatigué des
 
 Sur Google, je commençai à chercher des organisations religieuses et spirituelles. Finalement, je trouvai _Le Livre d'Urantia_, le site de la Fondation Urantia et ensuite celui de l’Association Urantia Internationale. Ce que je découvris dans le livre au sujet de Dieu, de la religion, de la création, de Jésus etc., attira mon attention. Je commençai à lire le livre et le désir de partager avec d’autres ma connaissance nouvellement découverte surgit dans mon mental.
 
-Je commençai alors le groupe d’étude du Livre d’Urantia Cameroun, chez moi. Plus tard le besoin se présenta de louer un endroit adapté à nos réunions. Cela dura jusqu’en 2010 où je perdis mon emploi et ne pus plus garder cet endroit. En conséquence, le groupe se dissipa. Depuis, j’ai fais tout mon possible pour reformer le groupe mais en vain, jusqu’à septembre 2015. À ce moment-là, avec l’aide de Rick Lyon et de quelques autres lecteurs, je reçus douze exemplaires de la traduction française du _Livre d’Urantia_. Le Cameroun a deux langues officielles : l’anglais et le français. J’avais décidé de cibler les Camerounais francophones, c’est pour ça que je demandai la traduction française du _Livre d’Urantia_. Lorsque ces livres arrivèrent, j’entrepris de rencontrer les personnes francophones.
+Je commençai alors le groupe d’étude du Livre d’Urantia Cameroun, chez moi. Plus tard le besoin se présenta de louer un endroit adapté à nos réunions. Cela dura jusqu’en 2010 où je perdis mon emploi et ne pus plus garder cet endroit. En conséquence, le groupe se dissipa. Depuis, j’ai fais tout mon possible pour reformer le groupe mais en vain, jusqu’à septembre 2015. À ce moment-là, avec l’aide de Rick Lyon et de quelques autres lecteurs, je reçus douze exemplaires de la traduction française du _Livre d’Urantia_. Le Cameroun a deux langues officielles : l’anglais et le français. J’avais décidé de cibler les Camerounais francophones, c’est pour ça que je demandai la traduction française du _Livre d’Urantia_. Lorsque ces livres arrivèrent, j’entrepris de rencontrer les personnes francophones.
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
@@ -59,7 +59,7 @@ Je dois dire ici que je crois que ma rencontre avec le Pasteur Mvondo était dir
 
 Notre nouveau groupe comprend treize membres. Nous nous réunissons tout les samedis. Les membres sont plus intéressés par la Vie et les Enseignements de Jésus, donc nous l’étudions en ce moment. Les membres francophones ont les livres en français et les anglophones ont les livres en anglais et nous lisons tout haut en français et en anglais, puis continuons dans une de deux langues.
 
-J’ai appris une grande leçon de cette expérience. Nos amis invisibles nous aident dans le travail de partager les bonnes nouvelles. Nous ne devrions pas nous inquiéter à propos des moyens de le faire, mais faire de notre mieux et laisser le reste à la foi. « Quand l’homme s’associe à Dieu, de grands évènements peuvent se produire et se produisent effectivement. »
+J’ai appris une grande leçon de cette expérience. Nos amis invisibles nous aident dans le travail de partager les bonnes nouvelles. Nous ne devrions pas nous inquiéter à propos des moyens de le faire, mais faire de notre mieux et laisser le reste à la foi. « Quand l’homme s’associe à Dieu, de grands évènements peuvent se produire et se produisent effectivement. »
 <br style="clear:both;"/>
 
 <figure id="Figure_3" class="image urantiapedia">

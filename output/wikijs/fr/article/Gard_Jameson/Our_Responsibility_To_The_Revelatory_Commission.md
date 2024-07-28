@@ -41,7 +41,7 @@ Dans cette conférence, j'aimerais vous donner une image claire du rôle des fid
 1. Diffusion de la Cinquième Révélation d’Époque, et
 2. Assurer l'intégrité du texte inviolable.
 
-Il est clair que ces deux fonctions ont été demandées par la commission révélatrice. La question que je poserais à notre communauté mondiale est de savoir si nous reconnaissons, reconnaissons et affirmons réellement ces instructions de la commission révélatrice ? Prenons-nous au sérieux la réalité de la commission révélatrice ?
+Il est clair que ces deux fonctions ont été demandées par la commission révélatrice. La question que je poserais à notre communauté mondiale est de savoir si nous reconnaissons, reconnaissons et affirmons réellement ces instructions de la commission révélatrice ? Prenons-nous au sérieux la réalité de la commission révélatrice ?
 
 Nous avons reçu un immense cadeau dans la Cinquième Révélation d’Époque. Ce don s’accompagne de droits et de responsabilités. Nombreux sont ceux qui revendiqueraient immédiatement leurs droits sans assumer les responsabilités liées à ce grand don.
 
@@ -93,7 +93,7 @@ Peep a fait référence à l'incertitude du processus dont nous faisons partie a
 
 > _Dans les âges planétaires plus avancés, ces séraphins font mieux apprécier aux hommes la vérité que l’incertitude est le secret d’une continuité satisfaisante. Ils aident les philosophes mortels à comprendre que, dans les circonstances où il est essentiel d’ignorer pour réussir, ce serait une bévue colossale de laisser les créatures connaitre l’avenir. Ils rehaussent le gout des hommes pour la douceur de l’incertitude, pour le romanesque et le charme d’un avenir imprécis et inconnu._ (<a id="a93_493"></a>[LU 39:5.9](/fr/The_Urantia_Book/39#p5_9))
 
-Pouvons-nous tous reconnaître ce processus dont nous faisons partie et respirer la « douceur de l’incertitude » ? Avons-nous la volonté de dépasser nos comportements non coopératifs et de continuer à résoudre notre manque d’unité ? Avons-nous le courage de donner au Maître ce qu'il veut vraiment au sein de notre communauté ? Au nom de notre Maître, je prie pour que nous le fassions. Et je prie pour que ce soit aussi votre prière !
+Pouvons-nous tous reconnaître ce processus dont nous faisons partie et respirer la « douceur de l’incertitude » ? Avons-nous la volonté de dépasser nos comportements non coopératifs et de continuer à résoudre notre manque d’unité ? Avons-nous le courage de donner au Maître ce qu'il veut vraiment au sein de notre communauté ? Au nom de notre Maître, je prie pour que nous le fassions. Et je prie pour que ce soit aussi votre prière !
 
 
 ## Les références

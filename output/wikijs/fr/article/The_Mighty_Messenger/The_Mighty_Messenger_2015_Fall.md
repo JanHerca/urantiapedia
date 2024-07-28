@@ -69,7 +69,7 @@ Il était membre fondateur de l’Orvonton Society en 1961, peu de temps avant d
 
 Joe avait la capacité de faire en sorte que les autres se sentent chez eux avec lui, de rire et simplement de profiter d'une bonne conversation. Il va nous manquer.
 
-## À quoi ressemblerait votre vie sans _Le Livre d'Urantia_ ?
+## À quoi ressemblerait votre vie sans _Le Livre d'Urantia_ ?
 
 Par _Lara Amyx_
 
@@ -79,7 +79,7 @@ Par _Lara Amyx_
 
 C’est à nouveau cette période de l’année où nous réfléchissons et anticipons l’avenir. Je me souviens de la première fois où j'ai découvert _Le Livre d'Urantia_ et où j'ai commencé à découvrir ces vérités qui donnent la vie et qui sauvent. Ma vision de la vie, de l’éternité et de Dieu s’est élargie à jamais. J'ai été étonné de voir à quel point je suis unique et important pour le Père et le Suprême, et pourtant seulement une petite partie du tout. Je me souviens encore de « l’anneau » de vérité qui a traversé tout mon être alors que je lisais cette étonnante Révélation. J'ai alors commencé ma recherche d'autres personnes qui vivaient la même expérience, alors que mon désir de partager ces vérités ouvrait mon cœur.
 
-Vous souvenez-vous de votre première session d’études ou conférence d’été ? Souvenez-vous de l’excitation d’être entouré de centaines de personnes qui avaient également découvert la vérité sur le Père ! Au fur et à mesure que je connaissais d’autres lecteurs, je suis tombé amoureux. J'ai été étonné par tout l’excellent travail accompli. J'ai rencontré des gens qui travaillaient à créer des événements, qui tenaient des stands de sensibilisation lors de foires et qui voyageaient à l’étranger pour partager cette révélation. De nombreuses personnes dévouées travaillent sur nos nombreuses publications, tant sous forme imprimée qu’en ligne. Il y avait aussi ceux qui exerçaient un ministère par téléphone et par Internet en répondant aux questions, en étant disponibles et en tendant la main à ceux qui en avaient besoin.
+Vous souvenez-vous de votre première session d’études ou conférence d’été ? Souvenez-vous de l’excitation d’être entouré de centaines de personnes qui avaient également découvert la vérité sur le Père ! Au fur et à mesure que je connaissais d’autres lecteurs, je suis tombé amoureux. J'ai été étonné par tout l’excellent travail accompli. J'ai rencontré des gens qui travaillaient à créer des événements, qui tenaient des stands de sensibilisation lors de foires et qui voyageaient à l’étranger pour partager cette révélation. De nombreuses personnes dévouées travaillent sur nos nombreuses publications, tant sous forme imprimée qu’en ligne. Il y avait aussi ceux qui exerçaient un ministère par téléphone et par Internet en répondant aux questions, en étant disponibles et en tendant la main à ceux qui en avaient besoin.
 
 Il semble que cette communauté de révélation que nous avons créée transcende le temps et l’espace. Une année peut s'écouler sans que nous nous revoyions, mais dès que nous nous retrouvons, nous sommes instantanément connectés, comme si aucun temps ne s'était écoulé. En y repensant, je me rends compte que mes relations les plus profondes et les plus précieuses viennent de cette communauté.
 
@@ -128,7 +128,7 @@ Le Pipeline de Lumière est une idée originale de David Kantor et Paula Thompso
 
 Treize ans, 5 800 livres, quatre-vingt-quatre pays et d'innombrables bénévoles plus tard, qu’avons-nous appris du Pipeline of Light ?
 
-L’histoire du Pipeline est un exemple de :
+L’histoire du Pipeline est un exemple de :
 - la sagesse de répondre aux besoins humains au lieu de travailler de haut en bas
 - comment des réseaux dynamiques se forment autour d'une idée dont l’heure est venue
 - comment la persévérance surmonte les obstacles
@@ -136,7 +136,7 @@ L’histoire du Pipeline est un exemple de :
 - comment évoluent les connexions fortuites
 - comment des systèmes simples, répliqués au fil du temps, peuvent rapporter d'énormes dividendes
 
-Les bénévoles de Pipeline comptent parmi les résolveurs de problèmes les plus créatifs au monde. Cela me fascine de démêler le fil qui envoie un livre au Sri Lanka, au Botswana ou aux îles Canaries. J'aime entendre les gens qui reçoivent des livres ; bénédictions d'Arno le Païen qui n'est plus païen ; des courriels sur un homme en Croatie qui a été excité par un propriétaire d'un magasin de vélos du Colorado, qui a été excité par un Lituanien qui a crevé un pneu lors d'une visite aux États-Unis ; demandes d'un concierge égyptien qui voulait l’autorisation de lire encore quelques jours avant de remettre le livre à la bibliothèque du Caire ; des lettres du premier destinataire de la traduction italienne — qui a envoyé des notes contenant un excès de points d'exclamation (oh !!!! Merci !!!!!! le meilleur cadeau de tous les temps !!!!!).
+Les bénévoles de Pipeline comptent parmi les résolveurs de problèmes les plus créatifs au monde. Cela me fascine de démêler le fil qui envoie un livre au Sri Lanka, au Botswana ou aux îles Canaries. J'aime entendre les gens qui reçoivent des livres ; bénédictions d'Arno le Païen qui n'est plus païen ; des courriels sur un homme en Croatie qui a été excité par un propriétaire d'un magasin de vélos du Colorado, qui a été excité par un Lituanien qui a crevé un pneu lors d'une visite aux États-Unis ; demandes d'un concierge égyptien qui voulait l’autorisation de lire encore quelques jours avant de remettre le livre à la bibliothèque du Caire ; des lettres du premier destinataire de la traduction italienne — qui a envoyé des notes contenant un excès de points d'exclamation (oh !!!! Merci !!!!!! le meilleur cadeau de tous les temps !!!!!).
 
 Derrière ces histoires heureuses se cachent des histoires fastidieuses sur le travail fastidieux consistant à mettre des livres physiques entre les mains des personnes qui en ont besoin. Cette histoire comprend le stockage de livres, la mise en boîte de livres, l’emballage de livres, la vérification d'adresses et l’apprentissage de la manière de surmonter les réglementations douanières et les difficultés postales internationales. Cela implique d'apporter des livres au bureau de poste, de trouver des bénévoles aux États-Unis prêts à livrer des livres pendant leur voyage, de mettre des livres lourds dans des valises et des sacs à dos et des bagages à main, de vérifier les bagages en surpoids dans un sens et les bagages vides dans l’autre, et rechercher des méthodes opportunes et parfois farfelues pour délivrer la révélation. Les femmes du bureau de la Fellowship et nos bénévoles internationaux sont des héros fidèles et inspirants.
 
@@ -246,10 +246,10 @@ J’ai également été ravi de pouvoir entendre Karen Armstrong, qui a reçu le
 
 Une autre merveilleuse contribution à la conférence a été celle des Peace Angels d'Australie. Ils nous ont marché et nous ont bénis à de nombreux moments et endroits tout au long de la semaine.
 
-Les ateliers présentés par les étudiants du _Livre d'Urantia_ étaient :
+Les ateliers présentés par les étudiants du _Livre d'Urantia_ étaient :
 - Jésus non traditionnel sur la guerre, la violence et l’injustice (Gard Jameson, Le'Ruth OnOhelo, Moustapha Ndiaye, Gabriel Rymberg, Jo Anne Buckner)
-- Nous apprécions votre histoire : Engager les non-affiliés religieusement à la Harvard Divinity School, (Angela Thurston, Aisha Ansano)
-- À la poursuite de la paix mondiale : comment la philosophie sert d'intermédiaire entre la religion et la politique, (Jeff Wattles)
+- Nous apprécions votre histoire : Engager les non-affiliés religieusement à la Harvard Divinity School, (Angela Thurston, Aisha Ansano)
+- À la poursuite de la paix mondiale : comment la philosophie sert d'intermédiaire entre la religion et la politique, (Jeff Wattles)
 - Explorer les modèles divins de relation homme/femme (Meredith et David Tenney)
 - Développer l’empathie interconfessionnelle et interreligieuse (Stephanie Schaefer)
 - I Will Love : Puiser dans le pouvoir intérieur (Tom Choquette)
@@ -284,7 +284,7 @@ Merci à tous, vus et invisibles, pour votre soutien indéfectible !
 Tony Finstad, président
 Comité YaYA
 
-Équipe du stand de l’unité spirituelle : Geoff Theiss, Aprilhelen Morgan, Teuvo Orjala, Angie Thurston, Derek Samaras, Miguel Anoba, Darren Atherton, Sean Privitera
+Équipe du stand de l’unité spirituelle : Geoff Theiss, Aprilhelen Morgan, Teuvo Orjala, Angie Thurston, Derek Samaras, Miguel Anoba, Darren Atherton, Sean Privitera
 
 
 ## Rassemblement dans les communautés Hood et Urantienne du nord-ouest du Pacifique
@@ -319,11 +319,11 @@ La session d’études d’été 2015 a été une occasion inoubliable !
 
 100 lecteurs et vingt nouveaux lecteurs ou non-lecteurs se sont réunis pour continuer la tradition d'étude intensive, de camaraderie aimante et de prière d'adoration alors que nous célébrions le 60e anniversaire de la publication du _Livre d'Urantia_. 
 
-Incorporant le thème « Notre relation avec Dieu le Père », un nouveau programme d'étude approfondie a été introduit, qui nécessitait la réalisation d'un devoir préalable, la participation à la retraite pré-conférence et des séances d'atelier en cours. De courtes présentations d'adoration se terminant par une réflexion silencieuse ont précédé toutes les séances plénières, et les séances plénières du matin et de l’après-midi ont été consacrées aux « Réflexions » et aux « Connexions » avec des discussions ciblées en petits groupes.
+Incorporant le thème « Notre relation avec Dieu le Père », un nouveau programme d'étude approfondie a été introduit, qui nécessitait la réalisation d'un devoir préalable, la participation à la retraite pré-conférence et des séances d'atelier en cours. De courtes présentations d'adoration se terminant par une réflexion silencieuse ont précédé toutes les séances plénières, et les séances plénières du matin et de l’après-midi ont été consacrées aux « Réflexions » et aux « Connexions » avec des discussions ciblées en petits groupes.
 
 Après deux jours d'ateliers de haute qualité, nous avons célébré avec une fête amusante le samedi soir, et le dimanche matin nous nous sommes souvenus de Jésus avec un « Dernier petit-déjeuner » basé sur sa treizième apparition morontielle.
 
-La session d'études d'été a été précédée d'une retraite (« Créer des cercles de confiance ») et du TDA et suivie d'une réunion du Conseil général. C’était le moment de réfléchir au passé et de regarder vers l’avenir ! 
+La session d'études d'été a été précédée d'une retraite (« Créer des cercles de confiance ») et du TDA et suivie d'une réunion du Conseil général. C’était le moment de réfléchir au passé et de regarder vers l’avenir ! 
 
 <figure id="Figure_18" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/005879.jpg">
@@ -381,14 +381,14 @@ Il y a une vérité à tirer de cette expérience : que ce soit sur une base ind
 - **15-17 avril 2016** – Conférence régionale du Midwest, Indianapolis, IN. « Grandir spirituellement de jour en jour ». Pour information : RFBuselli@sbcglobal.net.
 - **9-12 juin 2016** – Session d'étude d'été Fellowship/AUI/Foundation, San Antonio, Texas, « Jésus, le Maître Enseignant ». Pour plus d’informations : www.urantiabook.org.
 
-Pour une nouvelle aventure spirituelle, rejoignez SymmetryOfSoul.org les mardis à 18h00. PT (21h00 HE). Pour revoir les émissions passées, allez sur le même lien et cliquez sur « Archiver ».
+Pour une nouvelle aventure spirituelle, rejoignez SymmetryOfSoul.org les mardis à 18h00. PT (21h00 HE). Pour revoir les émissions passées, allez sur le même lien et cliquez sur « Archiver ».
 
 N’oubliez pas que la Communauté a besoin de votre aide pour continuer à servir la révélation dans le monde entier. Pour plus d'informations sur les différentes options de don, rendez-vous sur le site Web de la Fellowship, www.urantiabook.org, et cliquez sur le lien Faire un don. Ou envoyez un chèque à _The Urantia Book_ Fellowship, PO Box 6631, Broomfield, CO, 80021, USA.
 
 ## Personnel du « The Mighty Messenger »
 
 Publié par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship.
-Membres : Linda Buselli, président Larry Bowman, Cece Forrester, David Glass, Nancy Johnson, Sage Waitts
+Membres : Linda Buselli, président Larry Bowman, Cece Forrester, David Glass, Nancy Johnson, Sage Waitts
 877.288.3772
 bourse@urantiabook.org
 www.urantiabook.org

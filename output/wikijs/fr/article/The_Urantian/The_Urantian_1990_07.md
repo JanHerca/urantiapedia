@@ -53,13 +53,13 @@ dateCreated: 2021-11-28T14:02:03.086Z
 > 529, avenue Wrightwood
 > Chicago, Illinois 60614
 > 
-> Prix du numéro spécial ; 5,00 $ par copie (frais de port inclus)
+> Prix du numéro spécial ; 5,00 $ par copie (frais de port inclus)
 > 
 > \* Toutes les citations dans ce Journal, sauf indication contraire, proviennent du _Le Livre d'Urantia_, &copy; 1955 par la Fondation URANTIIA, tous droits réservés.
 > 
 > Dans la mesure où il n'y a pas d'interprétation officielle des enseignements du _Livre d'Urantia_, les opinions exprimées ici sont entièrement basées sur la compréhension et l'expérience religieuse personnelle de chaque auteur.
 > 
-> Droits d'auteur et copie ; 1990 par Fifth Epochal Fellowship Corporation. Tous droits réservés. Imprimé aux États-Unis
+> Droits d'auteur et copie ; 1990 par Fifth Epochal Fellowship Corporation. Tous droits réservés. Imprimé aux États-Unis
 {.is-info}
 
 
@@ -91,9 +91,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 - **Séance plénière**
 	- « L'art du partage », Carol Hay
 - **Thème : « Reconnaissance de la vie religieuse chez les autres »**
-	- « Ministère individuel : service communautaire », John Lange, M.D.
+	- « Ministère individuel : service communautaire », John Lange, M.D.
 	- « Marcher avec les enfants, marcher avec Dieu », Sara L. Blackstock
-	- « Le véritable culte : un commentaire sur le fascicule 5, section 3 », Jeffrey Wattles
+	- « Le véritable culte : un commentaire sur le fascicule 5, section 3 », Jeffrey Wattles
 	- «Partage spirituel - Un chemin vers Dieu», Melissa Wells
 - **Thème : « Partager sa vie spirituelle avec ses semblables »**
 	- « Fraternité avec Dieu, maintenant et pour toujours », Gard Jameson & Florence Jameson, M.D.
@@ -166,11 +166,11 @@ par Carol Hay
 
 Aujourd'hui, je veux vous parler du partage de votre vie spirituelle avec les autres. Lorsque j’utilise le terme « vie spirituelle », je fais référence à la relation intérieure que vous entretenez avec Dieu. D'après mon expérience personnelle, l'une des principales façons dont Dieu se rapporte à moi est à travers l'amour qu'il me donne. Ainsi, lorsque je partage ma vie spirituelle avec d'autres personnes, je transmets principalement l'amour que Dieu me donne aux autres. . _Le Livre d'Urantia_ nous dit que l'amour est le désir de faire du bien aux autres, donc le partage spirituel est une approche créative et très orientée vers l'action qui implique le désir de partager l'amour que nous recevons de Dieu avec les autres. Et – si vous êtes comme moi – vous avez vécu des expériences très merveilleuses en partageant votre vie spirituelle avec d'autres personnes et vous avez également vécu des expériences vraiment horribles.
 
-Nous allons donc parler des façons de partager nos vies spirituelles afin d'obtenir systématiquement les résultats que nous souhaitons lorsque nous partageons spirituellement, afin que nous puissions faire une différence dans la vie de ceux qui nous entourent, et ainsi nous pouvons faire une différence. dans la relation que nous entretenons avec Dieu également. J'aimerais que vous m'aidiez à répondre à trois questions concernant le partage spirituel. La première question est : quel est le but de partager notre vie spirituelle avec les autres ? La question suivante est : quand le partageons-nous ? quand est-ce approprié ? Et enfin : de quels types de compétences avons-nous besoin pour partager plus efficacement notre vie spirituelle avec les autres ?
+Nous allons donc parler des façons de partager nos vies spirituelles afin d'obtenir systématiquement les résultats que nous souhaitons lorsque nous partageons spirituellement, afin que nous puissions faire une différence dans la vie de ceux qui nous entourent, et ainsi nous pouvons faire une différence. dans la relation que nous entretenons avec Dieu également. J'aimerais que vous m'aidiez à répondre à trois questions concernant le partage spirituel. La première question est : quel est le but de partager notre vie spirituelle avec les autres ? La question suivante est : quand le partageons-nous ? quand est-ce approprié ? Et enfin : de quels types de compétences avons-nous besoin pour partager plus efficacement notre vie spirituelle avec les autres ?
 
 [Lire la suite](/fr/article/Carol_Hay/The_Art_of_Sharing)
 
-## Ministère Individuel : Service Communautaire
+## Ministère Individuel : Service Communautaire
 
 par John Lange
 
@@ -192,13 +192,13 @@ Même si je suis un enseignant californien accrédité avec environ 25 ans d'exp
 
 [Lire la suite](/fr/article/Sara_Blackstock/Walking_with_Children_Walking_with_God)
 
-## Le vrai culte : un commentaire sur le fascicule 5, section 3
+## Le vrai culte : un commentaire sur le fascicule 5, section 3
 
 par Jeffrey Wattles
 
 Écoutons à nouveau le Divin Conseiller d'Uversa, dont le récit du « Vrai culte » peut être trouvé dans _Le Livre d'Urantia_, section 3 du Fascicule 5, « La relation de Dieu avec l'individu ». Notre commentaire ne peut pas être à proprement parler un monologue, mais je n'ai pas marqué, dans le présent texte, les pauses de discussion qui l'ont ponctué. Cette discussion fait suite à celle sur le processus de prière (<a id="a198_417"></a>[Paper 91 \#9](/fr/The_Urantia_Book/91#p9_1)) et anticipe celle sur le service. Le commentaire ici est un pas vers l’étude holographique – trouver la totalité du livre dans la partie.
 
-Le culte est à la fois simple et complexe. La simplicité du culte se reflète dans le plaisir du mot culte chez les Indiens Quicatèques du Mexique ; cela signifie, étymologiquement, « remuer la queue devant Dieu ». L'un des enseignements les plus sages que j'ai jamais entendus sur l'adoration était la remarque de Vern Grimsley : « Le secret de l'adoration est de le faire. » Un grand message du _Le Livre d'Urantia_ est que NOUS POUVONS adorer. Nous sommes dans le circuit de la personnalité du Père. Nos esprits apprécient l’esprit-esprit adjoint de l’adoration. Nous sommes construits pour adorer. Aussi complexe ou mystérieux que puisse paraître l’adoration lorsqu’on en parle, et aussi insaisissable qu’elle puisse parfois être dans notre pratique, nous pouvons et nous adorons le Père Universel. La section sur le vrai culte articule le concept de culte. Lorsque nous lisons ce récit très articulé, nous pourrions être amenés à remarquer : « Plus facile à dire qu’à faire ». Mais si nous restons en phase avec l’expérience d’adoration elle-même, alors nous pouvons dire : « Plus facile à faire qu’à dire ». Prenons un moment pour le faire avant de continuer....
+Le culte est à la fois simple et complexe. La simplicité du culte se reflète dans le plaisir du mot culte chez les Indiens Quicatèques du Mexique ; cela signifie, étymologiquement, « remuer la queue devant Dieu ». L'un des enseignements les plus sages que j'ai jamais entendus sur l'adoration était la remarque de Vern Grimsley : « Le secret de l'adoration est de le faire. » Un grand message du _Le Livre d'Urantia_ est que NOUS POUVONS adorer. Nous sommes dans le circuit de la personnalité du Père. Nos esprits apprécient l’esprit-esprit adjoint de l’adoration. Nous sommes construits pour adorer. Aussi complexe ou mystérieux que puisse paraître l’adoration lorsqu’on en parle, et aussi insaisissable qu’elle puisse parfois être dans notre pratique, nous pouvons et nous adorons le Père Universel. La section sur le vrai culte articule le concept de culte. Lorsque nous lisons ce récit très articulé, nous pourrions être amenés à remarquer : « Plus facile à dire qu’à faire ». Mais si nous restons en phase avec l’expérience d’adoration elle-même, alors nous pouvons dire : « Plus facile à faire qu’à dire ». Prenons un moment pour le faire avant de continuer....
 
 [Lire la suite](/fr/article/Jeff_Wattles/True_Worship_A_Commentary_on_Paper_5_Section_3)
 
@@ -222,7 +222,7 @@ L'importance d'assister à 90 jours consécutifs de réunions des AA réside dan
 
 par Gard Jameson et Florence Jameson, MD
 
-En révélant à ses disciples l’essence de son message à la planète, Jésus a déclaré que les caractéristiques cardinales de l’Évangile étaient les suivantes :
+En révélant à ses disciples l’essence de son message à la planète, Jésus a déclaré que les caractéristiques cardinales de l’Évangile étaient les suivantes :
 
 1. La prééminence de l'individu.
 2. La volonté comme facteur déterminant dans l'expérience de l'homme,

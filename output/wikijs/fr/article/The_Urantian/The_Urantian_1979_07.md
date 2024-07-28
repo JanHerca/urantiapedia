@@ -94,7 +94,7 @@ _Pittsburgh. Pennsylvanie_
 
 ## À l'avenir
 
-Comment pensez-vous que votre tuteur séraphique fonctionne dans votre vie ? Pouvez-vous penser à une activité mondiale ou à un moment de l’histoire auquel l’un des douze corps de maîtres séraphins de la supervision planétaire aurait pu prendre une part particulière ? Si vous souhaitez rédiger un article sur les séraphins, en particulier sur les anges traitant de la phase mortelle de notre existence, faites-le-nous savoir.
+Comment pensez-vous que votre tuteur séraphique fonctionne dans votre vie ? Pouvez-vous penser à une activité mondiale ou à un moment de l’histoire auquel l’un des douze corps de maîtres séraphins de la supervision planétaire aurait pu prendre une part particulière ? Si vous souhaitez rédiger un article sur les séraphins, en particulier sur les anges traitant de la phase mortelle de notre existence, faites-le-nous savoir.
 
 — Les rédacteurs
 

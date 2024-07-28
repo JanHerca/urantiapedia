@@ -44,7 +44,7 @@ par _Cristina Seaborn et ses amis_
 
 Ma mère est décédée en juillet 2021. Pendant les trois premiers jours, j'étais d'humeur sombre, me demandant si elle continuerait son voyage spirituel en trois jours en tant qu’athée. Sa devise était « Mi casa es su casa ». (Ma maison est ta maison). Elle a vécu une vie réfléchie, attentive aux besoins des autres, et a fait le deuxième pas en servant les gens avec amour.
 
-J'ai posé cette question à ma communauté confessionnelle par courrier électronique : « Ma mère athée ressuscitera-t-elle d'entre les morts ? » Voici leurs réponses, à tous points de vue, du conservateur au libéral. Les opinions ne reflètent pas nécessairement les enseignements directs du _Le Livre d'Urantia_. Au lieu de cela, ce sont des réflexions et des opinions concernant ma question provenant de personnes familières avec le contenu du _Le Livre d'Urantia_.
+J'ai posé cette question à ma communauté confessionnelle par courrier électronique : « Ma mère athée ressuscitera-t-elle d'entre les morts ? » Voici leurs réponses, à tous points de vue, du conservateur au libéral. Les opinions ne reflètent pas nécessairement les enseignements directs du _Le Livre d'Urantia_. Au lieu de cela, ce sont des réflexions et des opinions concernant ma question provenant de personnes familières avec le contenu du _Le Livre d'Urantia_.
 
 Ces histoires m'ont aidée à gérer le décès de ma mère. J'espère que ces histoires vous aideront également d'une manière ou d'une autre.
 
@@ -95,7 +95,7 @@ J’aime imaginer quel grand soupir de soulagement il y a dans l’au-delà pour
 
 Je crois absolument en un univers miséricordieux et je crois fermement que tous les efforts seront déployés (et sont actuellement déployés) pour sauver chaque âme de l’univers. Je conviens que la plupart des athées rejettent la religion organisée et non Dieu. À leur résurrection, ils auront toutes les chances de réaliser la différence.
 
-Cool, tu as survécu à la mort ! Cela signifie-t-il que vous arrêterez de remettre en question l’autorité, ou que vous serez soudainement doté de cette foi courageuse pour accepter cette nouvelle réalité avec tous vos anciens défis ? Ce n'est pas comme si nous nous réveillions et que nous faisions ce grand tour en tant qu’athlète cinq étoiles recevant un argumentaire de vente sur le tapis rouge, ou que nous rencontrions le grand sorcier de l’autre côté du rideau. Un travail acharné sera encore nécessaire. Le pardon devient beaucoup plus réel (à la fois donner et recevoir). L’ego et l’orgueil doivent être abandonnés ainsi qu’une volonté sincère d’être humilié et de reconnaître tous ceux qui sont sur le même chemin pour devenir davantage dirigés par l’esprit.
+Cool, tu as survécu à la mort ! Cela signifie-t-il que vous arrêterez de remettre en question l’autorité, ou que vous serez soudainement doté de cette foi courageuse pour accepter cette nouvelle réalité avec tous vos anciens défis ? Ce n'est pas comme si nous nous réveillions et que nous faisions ce grand tour en tant qu’athlète cinq étoiles recevant un argumentaire de vente sur le tapis rouge, ou que nous rencontrions le grand sorcier de l’autre côté du rideau. Un travail acharné sera encore nécessaire. Le pardon devient beaucoup plus réel (à la fois donner et recevoir). L’ego et l’orgueil doivent être abandonnés ainsi qu’une volonté sincère d’être humilié et de reconnaître tous ceux qui sont sur le même chemin pour devenir davantage dirigés par l’esprit.
 
 Je crois que nous pouvons partager la bonne nouvelle selon laquelle des âmes perdues et solitaires peuvent être amenées dans notre famille cosmique ici sur Terre. Notre famille cosmique est une communauté spirituelle en évolution de chercheurs de vérité qui travaillent à améliorer notre perception spirituelle et notre capacité à servir avec amour. Si je devais donner une brève réponse à la question sur les athées ressuscitant d'entre les morts et choisissant Dieu dans cette vie, je dirais non, nous n'avons pas besoin de choisir Dieu sur Terre pour ressusciter.
 
@@ -142,13 +142,13 @@ Je m'attends à rencontrer de nombreux athées dans l’au-delà _et à apprendr
 
 Puisque personne n’a encore prouvé que Dieu existe, pour un athée (agnostique, etc.), Dieu peut être considéré comme « tout ce qui précède », « aucune de ces réponses » ou simplement « pas encore suffisamment défini » (en ce qui concerne la question « Qu’est-ce que Dieu ? »). Ceux qui connaissent Dieu ont expérimenté sa présence dans leur expérience personnelle. Les athées (agnostiques, etc.) n’ont pas encore fait l’expérience de ces interactions personnelles convaincantes.
 
-Imaginez vous réveiller dans l’au-delà : pas de douleur, pas de chaos, être en sécurité et en beauté, et entouré d'anges aimants qui vous connaissent et vous aiment. Et maintenant, tout ce que vous ferez l’expérience sera d’être pleinement embrassé par la santé, l’amour et la lumière. Quel jour glorieux ce sera pour chaque être de la Terre qui souffrait de maladies physiques, mentales, émotionnelles et spirituelles !
+Imaginez vous réveiller dans l’au-delà : pas de douleur, pas de chaos, être en sécurité et en beauté, et entouré d'anges aimants qui vous connaissent et vous aiment. Et maintenant, tout ce que vous ferez l’expérience sera d’être pleinement embrassé par la santé, l’amour et la lumière. Quel jour glorieux ce sera pour chaque être de la Terre qui souffrait de maladies physiques, mentales, émotionnelles et spirituelles !
 
 La liberté et la joie arrivent !
 
 Nous serons probablement étonnés par la nouvelle réalité dans laquelle nous nous retrouverons. Nous serons mieux à même de faire un choix éclairé quant à notre survie éternelle dans cette réalité.
 
-Ce sera un monde très attrayant à explorer !
+Ce sera un monde très attrayant à explorer !
 
 ## Liens externes
 
