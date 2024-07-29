@@ -17,7 +17,7 @@ _(Transcrit et édité à partir d’une présentation en ligne donnée lors de 
 <img src="/image/article/IUA_Journal/Patty-McGrath-150x150.jpg">
 </figure>
 
-C’est en début d’après-midi, à la mi-janvier de l’an 27, que Jésus appela les apôtres à quitter leurs filets de pêche près des côtes de Galilée et les conduisit sur les hauts plateaux au nord de Capharnaüm. Les douze choisis étaient sur le point d’être ordonnés prédicateurs publics de l’évangile du royaume. Alors qu’André, Simon Pierre, Jacques et Jean Zébédée, Philippe, Nathanael, Matthieu, Thomas, Jacques et Jude Alphée, Simon Zélotès et Judas Iscariote étaient assis autour de Jésus, il leur dit :
+C’est en début d’après-midi, à la mi-janvier de l’an 27, que Jésus appela les apôtres à quitter leurs filets de pêche près des côtes de Galilée et les conduisit sur les hauts plateaux au nord de Capharnaüm. Les douze choisis étaient sur le point d’être ordonnés prédicateurs publics de l’évangile du royaume. Alors qu’André, Simon Pierre, Jacques et Jean Zébédée, Philippe, Nathanael, Matthieu, Thomas, Jacques et Jude Alphée, Simon Zélotès et Judas Iscariote étaient assis autour de Jésus, il leur dit :
 <br style="clear:both;"/>
 
 > _C’est moins par les paroles que vous prononcerez, mais plutôt par la vie que vous vivrez, que les hommes sauront que vous avez été avec moi et que vous avez appris les réalités du royaume_ <a id="a45_169"></a>[[LU 140:1.7](/fr/The_Urantia_Book/140#p1_7)]
@@ -167,7 +167,7 @@ Si vous êtes ridiculisé, répondez par un pardon affectueux.
 
 Si vous êtes traité injustement, répondez avec amour et pardon.
 
-Si vous vous sentez seul et abandonné, souvenez-vous que Dieu est toujours en vous et que vous existez en lui. « En lui, nous vivons, nous bougeons et nous avons notre raison d’être. »  Vous ne pouvez pas être abandonné.
+Si vous vous sentez seul et abandonné, souvenez-vous que Dieu est toujours en vous et que vous existez en lui. « En lui, nous vivons, nous bougeons et nous avons notre raison d’être. »  Vous ne pouvez pas être abandonné.
 
 **Ainsi, les béatitudes reformulées sont :**
 
@@ -182,7 +182,7 @@ Si vous vous sentez seul et abandonné, souvenez-vous que Dieu est toujours en v
 
 Prenons la résolution de pratiquer ces attitudes et préparons notre mental par la prière afin que, dans chaque défi situationnel de notre vie, nous nous souvenions de qui nous sommes – les enfants bien-aimés de Dieu, qui est l’Amour. Et alors nous pourrons vraiment répondre à chaque expérience en tant qu’enfant du Père, en faisant honneur à notre Créateur dans notre vie quotidienne.
 
-Notre Père nous demande de « faire le bien ». Au fur et à mesure que les petites expressions de son amour nous traversent pour aller vers les autres, nous devenons plus conscients de l’amour qui existe en nous. Contrairement aux choses physiques, les éléments intangibles de l’amour, de la compréhension, de la bonté, du courage, de la loyauté et de la confiance ne s’accroissent que s’ils sont donnés. Pour savoir que vous avez de l’amour, dispensez-le.
+Notre Père nous demande de « faire le bien ». Au fur et à mesure que les petites expressions de son amour nous traversent pour aller vers les autres, nous devenons plus conscients de l’amour qui existe en nous. Contrairement aux choses physiques, les éléments intangibles de l’amour, de la compréhension, de la bonté, du courage, de la loyauté et de la confiance ne s’accroissent que s’ils sont donnés. Pour savoir que vous avez de l’amour, dispensez-le.
 
 > c’est par la vie que vous vivrez, que les hommes sauront que vous avez été avec moi et que vous avez appris les réalités du royaume <a id="a211_117"></a>[[LU 140:1.7](/fr/The_Urantia_Book/140#p1_7)]
 

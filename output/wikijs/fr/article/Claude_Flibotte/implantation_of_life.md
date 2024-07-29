@@ -51,7 +51,7 @@ La citation suivante a soulevé cette question dans mon esprit. Sur les planète
 
 > _Quand les modèles physiques conformes aux formules approuvées ont été fournis, ***alors les Porteurs de Vie catalysent ces matériaux inanimés en leur communiquant à travers leur personne l’étincelle vitale d’esprit***, et aussitôt les modèles inertes deviennent de la matière vivante._ <a id="a73_271"></a>[[LU 36:3.3](/fr/The_Urantia_Book/36#p3_3), gras ajouté]  
 
-Le mot magique dans cette citation est « catalysent ». La fonction d’un catalyseur est de rendre possible une réaction ou un processus sans que ce catalyseur soit affecté ou inclus dans le résultat, seule sa présence est nécessaire. Mais alors, la vie d’où vient-elle ?
+Le mot magique dans cette citation est « catalysent ». La fonction d’un catalyseur est de rendre possible une réaction ou un processus sans que ce catalyseur soit affecté ou inclus dans le résultat, seule sa présence est nécessaire. Mais alors, la vie d’où vient-elle ?
 
 > _L’étincelle vitale – le mystère de la vie – est conférée par l’entremise des Porteurs de Vie, mais ne vient pas d’eux. Il est vrai qu’ils supervisent l’opération et qu’ils élaborent le plasma vital lui-même, mais ***c’est l’Esprit-Mère de l’univers qui fournit le facteur essentiel du plasma vivant. C’est de la Fille Créative de l’Esprit Infini que provient l’étincelle d’énergie qui anime le corps et laisse présager le mental.***_ <a id="a77_393"></a>[[LU 36:3.4](/fr/The_Urantia_Book/36#p3_4), gras ajouté]  
 

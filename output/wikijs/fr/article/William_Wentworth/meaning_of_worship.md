@@ -30,7 +30,7 @@ L’adoration est de reconnaître et d’honorer Dieu comme un père, mais est-c
 
 Pour Jésus, l’adoration consiste à la fois à communier personnellement avec le Père et à reconnaître l’Infini comme étant la source de tout. Il vaut la peine de se souvenir que ce deuxième aspect de l’adoration est suggéré par Jésus, et que nos tentatives de communion personnelle avec le Père sont aussi liées à notre reconnaissance de la source de la réalité et du plan divin de progression. Dans un sens, nous adorons Dieu parce que nous savons quelque chose de lui – sur qui il est et ce qu’il fait.
 
-L’adoration est donc notre tentative de communion avec le Père, tentative de  nous exprimer face au Père, et c’est ainsi une chose très _personnelle_. Le Père interagit avec chacun de nous comme personnalité individuelle, et la forme que prend notre communion dépend de qui le fait et du caractère de sa relation avec le Père.
+L’adoration est donc notre tentative de communion avec le Père, tentative de  nous exprimer face au Père, et c’est ainsi une chose très _personnelle_. Le Père interagit avec chacun de nous comme personnalité individuelle, et la forme que prend notre communion dépend de qui le fait et du caractère de sa relation avec le Père.
 
 ### Adoration et prière
 
@@ -95,7 +95,7 @@ Le grand circuit d’amour est décrit comme étant du Père, passant par les fi
 
 Un Conseiller Divin signale que le Père n’impose pas de service servile à ses créatures <a id="a118_92"></a>[[LU 1:1.2](/fr/The_Urantia_Book/1#p1_2)]. Les personnalités au libre arbitre servent volontairement, et elles doivent choisir leurs voies de desserte elles-mêmes. Nous ne sommes pas des esclaves et nous décidons comment servir.
 
-Les révélateurs signalent que, tandis que les séraphins et d’autres personnalités spirituelles  prennent naturellement plaisir à servir, ce n’est pas le cas des créatures d’origine animale. Il nous faut apprendre par expérience personnelle qu’il est mieux de donner que de recevoir. Nous devons découvrir par essais et erreurs combien cela peut être satisfaisant de rendre service. La vie de service que Jésus a menée est une grande inspiration pour nous ; pour trouver par nous-mêmes quelle satisfaction nous pouvons tirer du service de notre prochain.
+Les révélateurs signalent que, tandis que les séraphins et d’autres personnalités spirituelles  prennent naturellement plaisir à servir, ce n’est pas le cas des créatures d’origine animale. Il nous faut apprendre par expérience personnelle qu’il est mieux de donner que de recevoir. Nous devons découvrir par essais et erreurs combien cela peut être satisfaisant de rendre service. La vie de service que Jésus a menée est une grande inspiration pour nous ; pour trouver par nous-mêmes quelle satisfaction nous pouvons tirer du service de notre prochain.
 
 ### Le service prend de nombreuses formes
 
@@ -114,7 +114,7 @@ Il semble y avoir autant de possibilités de servir qu’il y a de personnalité
 
 ### Parfois nous nous trompons
 
-Bien sûr, même lorsque le mobile est de servir, il y a des moments où nous nous trompons, et ce que nous faisons peut causer du mal au lieu de faire du bien. Nous essayons d’aider là où nous pouvons et échouons quand nous le devons. L’expérience est alors l’enseignant et tout ce que nous pouvons faire est d’apprendre, nous épousseter et essayer de nouveau. Cela peut être un aspect de « se nourrir de la déception », ce qui selon les révélateurs fera  si largement partie de notre carrière future. Comme on dit souvent, cela forme le caractère ! Et peut-être nous devrions nous souvenir que le service sage peut parfois nous demander de résister pour ne pas céder à des demandes d’aide idiotes . Parfois cela demande plus de détermination que de céder.
+Bien sûr, même lorsque le mobile est de servir, il y a des moments où nous nous trompons, et ce que nous faisons peut causer du mal au lieu de faire du bien. Nous essayons d’aider là où nous pouvons et échouons quand nous le devons. L’expérience est alors l’enseignant et tout ce que nous pouvons faire est d’apprendre, nous épousseter et essayer de nouveau. Cela peut être un aspect de « se nourrir de la déception », ce qui selon les révélateurs fera  si largement partie de notre carrière future. Comme on dit souvent, cela forme le caractère ! Et peut-être nous devrions nous souvenir que le service sage peut parfois nous demander de résister pour ne pas céder à des demandes d’aide idiotes . Parfois cela demande plus de détermination que de céder.
 
 ### Jésus et l’aubergiste
 

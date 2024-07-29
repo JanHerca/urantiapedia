@@ -23,13 +23,13 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Journal/Moustapha-Ndiaye-300x339.jpg">
 </figure>
 
-Qui parmi nous a pris le temps de réfléchir à la salutation et réponse familière, « Que la paix soit sur vous. Et sur vous, la paix?” Cet essai puise dans l’expérience personnelle et la compréhension, les témoignages de ceux qui ont collaboré à sa rédaction, et une évaluation de la littérature religieuse de l’Extrême Orient (en particulier des écrits de l’ Hindouisme, du Taoisme, et du Bouddhisme), sans autre prétention que cela—faire une pause et réfléchir sur une paix dynamique et vivante. En le faisant ; cette réflexion s’appuie explicitement sur les enseignements du _Livre d’Urantia_ et l’exemple fourni par la vie de Jésus telle que rapportée dans la 4ème partie.
+Qui parmi nous a pris le temps de réfléchir à la salutation et réponse familière, « Que la paix soit sur vous. Et sur vous, la paix?” Cet essai puise dans l’expérience personnelle et la compréhension, les témoignages de ceux qui ont collaboré à sa rédaction, et une évaluation de la littérature religieuse de l’Extrême Orient (en particulier des écrits de l’ Hindouisme, du Taoisme, et du Bouddhisme), sans autre prétention que cela—faire une pause et réfléchir sur une paix dynamique et vivante. En le faisant ; cette réflexion s’appuie explicitement sur les enseignements du _Livre d’Urantia_ et l’exemple fourni par la vie de Jésus telle que rapportée dans la 4ème partie.
 
 Nous avons deux objectifs. Le premier est de déterminer la portée de la contribution des agents humains et suprahumains pour cette paix tant désirée, malgré les conséquences soulevées par les vicissitudes que notre planète a connues dans son histoire . Et le second, de comprendre comment notre expérience avec les enseignements du _Livre d’Urantia_ révèle les myriades de problèmes de notre monde moderne, la relation entre ces problèmes et un manque de paix dynamique et vivante, et les contributions pratiques que cette révélation peut offrir pour les résoudre.
 
-Partant de cette réflexion, notre  observation immédiate identifie un malaise enraciné caractérisant nos temps modernes. Ce malaise, auquel nous nous référons comme “le stress,” a des sources multiples et souvent insoupçonnées. Il résulte des conflits  externes et de désordres internes qui envahissent de plus en plus à la fois nos vies individuelles et la société dans son ensemble. La globalisation et l’imbrication des  institutions  économiques, culturelles, politiques, religieuses,et sociales fait de ce malaise un des périls les plus largement répandus auxquels nous sommes confrontés aujourd’hui.
+Partant de cette réflexion, notre  observation immédiate identifie un malaise enraciné caractérisant nos temps modernes. Ce malaise, auquel nous nous référons comme “le stress,” a des sources multiples et souvent insoupçonnées. Il résulte des conflits  externes et de désordres internes qui envahissent de plus en plus à la fois nos vies individuelles et la société dans son ensemble. La globalisation et l’imbrication des  institutions  économiques, culturelles, politiques, religieuses,et sociales fait de ce malaise un des périls les plus largement répandus auxquels nous sommes confrontés aujourd’hui.
 
-Ce péril résulte du déclin de notre sens des valeurs, un déclin qui fait que la vie elle-même semble dépourvue de sens. Il est manifeste dans l’accroissement des actes effrayants de comportements antisociaux  tels que suicides  collectifs, meurtre de masse, et la banalisation de la vie. Cette situation sans précédents nécessite des solutions sans précédent.
+Ce péril résulte du déclin de notre sens des valeurs, un déclin qui fait que la vie elle-même semble dépourvue de sens. Il est manifeste dans l’accroissement des actes effrayants de comportements antisociaux  tels que suicides  collectifs, meurtre de masse, et la banalisation de la vie. Cette situation sans précédents nécessite des solutions sans précédent.
 
 Les questions sont: Comment donner du sens à la vie ? Qu’est-ce que la paix peut apporter à cet effort? Et quelle devrait être la nature de cette paix?
 
@@ -43,7 +43,7 @@ Simplement, je crois que les hommes et femmes qui ne sont pas en paix avec eux-m
 <img src="/image/article/IUA_Journal/Peace-dove.jpg">
 </figure>
 
-Alors que la paix est à la fois l’état naturel et la caractéristique qui définit l’Esprit, c’est seulement par la révélation (auto- révélation  ou  révélation d’époque) et l’expérience personnelle spirituelle que nous en venons à comprendre son but et sa portée.
+Alors que la paix est à la fois l’état naturel et la caractéristique qui définit l’Esprit, c’est seulement par la révélation (auto- révélation  ou  révélation d’époque) et l’expérience personnelle spirituelle que nous en venons à comprendre son but et sa portée.
 
 La paix, sous sa forme sociale et externe, est un processus dynamique. Elle est jalonnée par les influences des Fils Divins tandis qu’elle s’intègre dans le dynamisme des religions évolutionnaires. De même que les hommes et femmes stressés cherchent conseil de ceux parmi eux qui semblent plus en paix, de même le plan de Dieu fournit un mentorat expérimenté qui nous aide à affronter les défis qui se manifestent quand nous nous éloignons de la divine assurance que seule la paix vivante et dynamique peut conférer.
 
@@ -61,7 +61,7 @@ Cela implique que les « Âmes de Paix » suivent plusieurs âges de stabilisati
 
 Les âges planétaires sont coordonnés dans l’espace, intégrés dans le temps, et unifiés par l’Esprit dans l’éternité. Ils se manifestent par des contributions successives, individuelles et collectives, à la manifestation graduelle de l’éternité dans le temps, à l’éternel maintenant.
 
-Planifiée par l’Esprit et mise en œuvre par les divers Fils planétaire d’effusion, la découverte individuelle croissante de la paix est le résultat de cette évolution. Pour l’ individu, son résultat  ultime est la fusion avec l’ Ajusteur intérieur et le progrès à travers les âges de Lumière et de Vie.
+Planifiée par l’Esprit et mise en œuvre par les divers Fils planétaire d’effusion, la découverte individuelle croissante de la paix est le résultat de cette évolution. Pour l’ individu, son résultat  ultime est la fusion avec l’ Ajusteur intérieur et le progrès à travers les âges de Lumière et de Vie.
 
 ## Effusions Planétaires et Paix
 
@@ -69,11 +69,11 @@ Il est impossible de sonder l’état actuel du monde et de considérer des solu
 
 ### L’Âge du Prince Planétaire
 
-C’est typique : chaque effusion planétaire d’un Fils divin apporte avec elle les blocs de construction qui contribuent à l’établissement individuel et collectif de la paix. Parmi d’autres choses, l’âge des Princes Planétaires devrait rendre possible à l’humanité de maîtriser les forces de la nature,de poser les fondations de la connaissance scientifique, et d’établir une paix qui pourvoit à la sécurité matérielle de chacun indépendamment du lieu où il vit. Mais est-ce que notre planète, qui est une exception, a reçu les bénéfices de cette effusion ?
+C’est typique : chaque effusion planétaire d’un Fils divin apporte avec elle les blocs de construction qui contribuent à l’établissement individuel et collectif de la paix. Parmi d’autres choses, l’âge des Princes Planétaires devrait rendre possible à l’humanité de maîtriser les forces de la nature,de poser les fondations de la connaissance scientifique, et d’établir une paix qui pourvoit à la sécurité matérielle de chacun indépendamment du lieu où il vit. Mais est-ce que notre planète, qui est une exception, a reçu les bénéfices de cette effusion ?
 
-Les révélateurs nous informent que , au début du 20ème siècle, ces bénéfices que le mental des  hommes primitifs n’avait pu assimiler, sont redécouverts quelques 200 000 ans plus tard <a id="a93_202"></a>[[LU 66:5.18](/fr/The_Urantia_Book/66#p5_18)]. Ces premiers hommes n’avaient tout simplement pas la connaissance requise pour établir la sécurité nécessaire pour que notre planète bénéficie de la paix que l’âge du Prince Planétaire amène généralement sur les mondes planétaires. Ce retard a prolongé le règne de la peur et de l’ignorance qui voit généralement sa fin avec le ministère du Prince Planétaire  Les conséquences désastreuses de la Rébellion de Lucifer et le travail expérimental des Porteurs de Vie ont aggravé les complications et les obstacles qui ont contribué à cet échec.
+Les révélateurs nous informent que , au début du 20ème siècle, ces bénéfices que le mental des  hommes primitifs n’avait pu assimiler, sont redécouverts quelques 200 000 ans plus tard <a id="a93_202"></a>[[LU 66:5.18](/fr/The_Urantia_Book/66#p5_18)]. Ces premiers hommes n’avaient tout simplement pas la connaissance requise pour établir la sécurité nécessaire pour que notre planète bénéficie de la paix que l’âge du Prince Planétaire amène généralement sur les mondes planétaires. Ce retard a prolongé le règne de la peur et de l’ignorance qui voit généralement sa fin avec le ministère du Prince Planétaire  Les conséquences désastreuses de la Rébellion de Lucifer et le travail expérimental des Porteurs de Vie ont aggravé les complications et les obstacles qui ont contribué à cet échec.
 
-### L’Âge de l’Effusion  Adamique (Adam et Ève)
+### L’Âge de l’Effusion  Adamique (Adam et Ève)
 
 La mission initiale de l’effusion Adamique était d’améliorer le potentiel évolutionnaire de l’humanité. Cette mission était censée unifier biologiquement les races humaines et, éventuellement, effacer toutes traces de racisme. Cette amélioration aurait rendu la nature humaine plus sensible aux influences morontielles et spirituelles .
 
@@ -83,11 +83,11 @@ La mission initiale de l’effusion Adamique était d’améliorer le potentiel 
 
 Les problèmes philosophiques et les erreurs spirituelles soulevées par la Rébellion de Lucifer ont aggravé les problèmes  sociaux liés aux échecs des effusions du Prince Planétaire et des Enfants Matériels.
 
-La déclaration de Lucifer  que la personnalité du Père Universel n’existe pas et est un mythe inventé par les Fils du Paradis <a id="a105_131"></a>[[LU 53:3](/fr/The_Urantia_Book/53#p3)], a laissé des traces très profondes et  reste tangible même aujourd’hui au 21ème siècle. Entre autres choses, cette proclamation a entraîné une diminution de la foi vivante (surtout de l’ adoration et de la prière) et la perpétuation des peurs ancestrales qui nient concrètement le but ultime de la destinée. Comment pouvons-nous adorer un Père qui n’existe pas ? Comment pouvons-nous prier un fils d’un Père fictif ? Tout ce qui reste est une science et une religion largement déconnectées de leurs racines nourricières.
+La déclaration de Lucifer  que la personnalité du Père Universel n’existe pas et est un mythe inventé par les Fils du Paradis <a id="a105_131"></a>[[LU 53:3](/fr/The_Urantia_Book/53#p3)], a laissé des traces très profondes et  reste tangible même aujourd’hui au 21ème siècle. Entre autres choses, cette proclamation a entraîné une diminution de la foi vivante (surtout de l’ adoration et de la prière) et la perpétuation des peurs ancestrales qui nient concrètement le but ultime de la destinée. Comment pouvons-nous adorer un Père qui n’existe pas ? Comment pouvons-nous prier un fils d’un Père fictif ? Tout ce qui reste est une science et une religion largement déconnectées de leurs racines nourricières.
 
-La proclamation de « l’égalité de mental »et de « la fraternité de l’intelligence », sans mentionner la contradiction de Caligastia  désignant Lucifer comme « Dieu de Liberté », ont ajouté à la diminution de l’Esprit et ont opéré une séparation de l’humanité d’avec quoique ce soit d’autre que ce qui a une dimension purement intellectuelle vide de toute perspective d’accomplissement spirituel. Les influences de Lucifer nous ont piégé dans des tautologies stériles qui, malgré les efforts  notables des prophètes et d’autres éducateurs spirituels, ont conduit à l’absence de conscience spirituelle et ont porté un grand coup à notre vision du monde. Toutefois, comme nous le verrons plus en détails, ces problèmes philosophiques et  erreurs  spirituelles n’ont pas effacé le concept de la Paternité de Dieu ou de la Fraternité de l’Homme de la  conscience humaine.
+La proclamation de « l’égalité de mental »et de « la fraternité de l’intelligence », sans mentionner la contradiction de Caligastia  désignant Lucifer comme « Dieu de Liberté », ont ajouté à la diminution de l’Esprit et ont opéré une séparation de l’humanité d’avec quoique ce soit d’autre que ce qui a une dimension purement intellectuelle vide de toute perspective d’accomplissement spirituel. Les influences de Lucifer nous ont piégé dans des tautologies stériles qui, malgré les efforts  notables des prophètes et d’autres éducateurs spirituels, ont conduit à l’absence de conscience spirituelle et ont porté un grand coup à notre vision du monde. Toutefois, comme nous le verrons plus en détails, ces problèmes philosophiques et  erreurs  spirituelles n’ont pas effacé le concept de la Paternité de Dieu ou de la Fraternité de l’Homme de la  conscience humaine.
 
-Nommer « le plan d’Adoration » un stratagème pour servir les ambitions des Fils Paradis a ouvert la porte à des formes variées d’alternatives perverses à l’adoration. Ces alternatives englobent des  formes variées d’occultisme, d’ésotérisme, de spiritualité, du channeling, et d’autres pratiques sectaires [^1]. Elles attirent des âmes perdues, assoiffées de salut. Si l’humanité avait les moyens de sonder les mystères du Divin Plan il n’y aurait aucun désir de poursuivre ces formes dégradées de culte des mystères.
+Nommer « le plan d’Adoration » un stratagème pour servir les ambitions des Fils Paradis a ouvert la porte à des formes variées d’alternatives perverses à l’adoration. Ces alternatives englobent des  formes variées d’occultisme, d’ésotérisme, de spiritualité, du channeling, et d’autres pratiques sectaires [^1]. Elles attirent des âmes perdues, assoiffées de salut. Si l’humanité avait les moyens de sonder les mystères du Divin Plan il n’y aurait aucun désir de poursuivre ces formes dégradées de culte des mystères.
 
 ### Machiventa, Micaël, et la Cinquième Révélation d’Époque
 
@@ -100,7 +100,7 @@ Considérez l’ impact des troisième, quatrième, et cinquième révélations 
 2. L’ Ajusteur de Pensées qui guida le mental de Machiventa servit aussi Joshua ben Joseph et il est maintenant personnalisé, étant le Chef des Ajusteurs Personnalisés de Nébadon.
 3. Le titre “Prince Planétaire” conféré à Micaël de Nébadon après sa septième effusion fut délégué à Machiventa qui, avec les vingt-quatre conseillers, sert maintenant Micaël dans le conseil des Princes Planétaires de Satania.
 
-De plus, nous apprécions maintenant davantage la contribution au plan pour l’établissement de la paix divine qui résulta de la pétition faite par une commission de douze médians planétaires, adressée aux cours du superunivers  . Leur pétition eut pour résultat la cinquième révélation d’époque, y compris la 4ème Partie—La Vie et les Enseignements de Jésus.
+De plus, nous apprécions maintenant davantage la contribution au plan pour l’établissement de la paix divine qui résulta de la pétition faite par une commission de douze médians planétaires, adressée aux cours du superunivers  . Leur pétition eut pour résultat la cinquième révélation d’époque, y compris la 4ème Partie—La Vie et les Enseignements de Jésus.
 
 ## Situation Actuelle – Quelle Paix?
 
@@ -119,13 +119,13 @@ Le Psaume 46 est un poème populaire qui ne manque jamais d’apporter du récon
 
 > _Dieu est pour nous un refuge et un appui, un secours toujours présent dans la détresse. C’est pourquoi nous sommes sans crainte quand la terre est bouleversée, quand les montagnes sont ébranlées au co_e_ur des mers et que les flots de la mer mugissent, écument, se soulèvent jusqu’à faire trembler les montagnes. Selah_ [^2]
 > 
-> _Les _bras d’un fleuve réjouissent la ville de Dieu, le sanctuaire des demeures du Très-Haut. Dieu est au milieu d’elle : elle n’est pas ébranlée ; Dieu la secourt dès le point du jour. Des nations s’agitent , des royaumes sont ébranlés : il fait entendre sa voix, et la terre tombe en défaillance. L’Éternel, le maître de l’univers, est avec nous, le Dieu de Jacob est une forteresse pour nous.  Selah._
+> _Les _bras d’un fleuve réjouissent la ville de Dieu, le sanctuaire des demeures du Très-Haut. Dieu est au milieu d’elle : elle n’est pas ébranlée ; Dieu la secourt dès le point du jour. Des nations s’agitent , des royaumes sont ébranlés : il fait entendre sa voix, et la terre tombe en défaillance. L’Éternel, le maître de l’univers, est avec nous, le Dieu de Jacob est une forteresse pour nous.  Selah._
 > 
-> _Venez contempler ce que l’Éternel a fait, les actes dévastateurs qu’il a accomplis sur la terre ! C’est lui qui a fait cesser les combats jusqu’aux extrémités de la terre ; il a brisé l’arc et rompu la lance, il a détruit par le feu les chars de guerre._
+> _Venez contempler ce que l’Éternel a fait, les actes dévastateurs qu’il a accomplis sur la terre ! C’est lui qui a fait cesser les combats jusqu’aux extrémités de la terre ; il a brisé l’arc et rompu la lance, il a détruit par le feu les chars de guerre._
 > 
-> ***_« Arrêtez et sachez que je suis Dieu*** _! je domine sur les nations, je domine sur la terre.»_
+> ***_« Arrêtez et sachez que je suis Dieu*** _! je domine sur les nations, je domine sur la terre.»_
 
-L’ expression, “ **_Arrêtez et sachez que je suis Dieu »_**  est mise en gras parce que c’est un des versets les plus connus et aimés de la Bible.  En fait ce verset est davantage un appel à se réveiller et à craindre qu’un doux appel à se reposer. Comprendre son message nous permet d’approcher et de comprendre les œuvres inspirées de l’Asie discutées plus tard dans cet essai.
+L’ expression, “ **_Arrêtez et sachez que je suis Dieu »_**  est mise en gras parce que c’est un des versets les plus connus et aimés de la Bible.  En fait ce verset est davantage un appel à se réveiller et à craindre qu’un doux appel à se reposer. Comprendre son message nous permet d’approcher et de comprendre les œuvres inspirées de l’Asie discutées plus tard dans cet essai.
 
 On pourrait tirer un parallèle entre ce Psaume et l’extrait suivant du _Livre_ d’_Urantia_
 
@@ -133,17 +133,17 @@ On pourrait tirer un parallèle entre ce Psaume et l’extrait suivant du _Livre
 
 Nous pouvons mesurer le caractère puissant de cette paix même en présence des déceptions les plus grandes que nous puissions imaginer. Notre recherche de cette paix n’est possible qu’en reconnaissant Dieu en nous-mêmes.
 
-Ce Psaume et _Le Livre d’Urantia_ observent  tous deux que cette paix dynamique et vivante apparaît dans ce monde troublé quand l’âme essaie d’abord de trouver la paix afin que tout le reste trouve sa juste place, plutôt que d’essayer de trouver la paix une fois que chaque chose soit à sa place.
+Ce Psaume et _Le Livre d’Urantia_ observent  tous deux que cette paix dynamique et vivante apparaît dans ce monde troublé quand l’âme essaie d’abord de trouver la paix afin que tout le reste trouve sa juste place, plutôt que d’essayer de trouver la paix une fois que chaque chose soit à sa place.
 
 Plus chacun de nous devient une personne de paix, plus la société devient paisible. Un homme de paix n’est pas seulement un homme en paix mais aussi un homme qui, par sa simple présence, apporte la paix partout où elle est nécessaire. Une telle personne brille comme le soleil qui illumine les objets par sa seule présence. Si la paix est proportionnelle au nombre de personnes qui sont en paix avec elles-mêmes, alors chaque personne qui s’efforce de réaliser une paix personnelle devient une lumière brillante qui transforme les autres.
 
-Nous sommes naturellement des pacificateurs par notre coopération avec nos Ajusteurs. La Vie et les Enseignements de Jésus sont un exemple du fait que ce penchant qui nous conduit à restaurer l’harmonie là où elle manque fait de nous des pacificateurs et contribue à notre croissance  spirituelle. Jésus nous a montré la vérité de l’amour indéfectible de Dieu en surmontant les obstacles de la vie et en manifestant la volonté de Dieu.
+Nous sommes naturellement des pacificateurs par notre coopération avec nos Ajusteurs. La Vie et les Enseignements de Jésus sont un exemple du fait que ce penchant qui nous conduit à restaurer l’harmonie là où elle manque fait de nous des pacificateurs et contribue à notre croissance  spirituelle. Jésus nous a montré la vérité de l’amour indéfectible de Dieu en surmontant les obstacles de la vie et en manifestant la volonté de Dieu.
 
-Notre mental et notre être physique sont des adaptations dans le temps et l’espace de l’Esprit. À travers son don pour nous d’une personnalité divine guidée par son second don d’un Ajusteur de Pensée, Dieu participe à cette pacification à travers nos actions. Cette pacification devient complète une fois que notre Ajusteur de Pensées se personnalise par la fusion avec la personnalité qu’ il guide. Cette fusion ne peut se produire que lorsque notre nature  humaine s’aligne pleinement avec ce qui est divin en nous. La paix que seul Dieu peut conférer devient à la fois le moyen et le résultat de cette fusion.
+Notre mental et notre être physique sont des adaptations dans le temps et l’espace de l’Esprit. À travers son don pour nous d’une personnalité divine guidée par son second don d’un Ajusteur de Pensée, Dieu participe à cette pacification à travers nos actions. Cette pacification devient complète une fois que notre Ajusteur de Pensées se personnalise par la fusion avec la personnalité qu’ il guide. Cette fusion ne peut se produire que lorsque notre nature  humaine s’aligne pleinement avec ce qui est divin en nous. La paix que seul Dieu peut conférer devient à la fois le moyen et le résultat de cette fusion.
 
-Parce que nos effusions planétaires d’un Fils Divin et d’un Adam ont manqué de fournir les blocs de construction nécessaires au déploiement du “Divin Plan” de Dieu en temps voulu,  nous devons compter sur d’autres influences pour compenser ces échecs et contribuer à l’instauration de la paix sur terre. Quelles autres influences ? L’Esprit de Vérité,  l’activité du Suprême, et le ministère de notre Ajusteur de Pensées très capable .
+Parce que nos effusions planétaires d’un Fils Divin et d’un Adam ont manqué de fournir les blocs de construction nécessaires au déploiement du “Divin Plan” de Dieu en temps voulu,  nous devons compter sur d’autres influences pour compenser ces échecs et contribuer à l’instauration de la paix sur terre. Quelles autres influences ? L’Esprit de Vérité,  l’activité du Suprême, et le ministère de notre Ajusteur de Pensées très capable .
 
-Ces autres influences du Père, du Fils et de l’Esprit peuvent conduire à instaurer une paix dynamique et vivante pourvu que nous fassions les choix volontaires que la volonté de notre Père soit faite par l’ adoration,  la prière, et le service.
+Ces autres influences du Père, du Fils et de l’Esprit peuvent conduire à instaurer une paix dynamique et vivante pourvu que nous fassions les choix volontaires que la volonté de notre Père soit faite par l’ adoration,  la prière, et le service.
 
 ## Les Traditions Inspirées de l’Asie
 On pourrait dire que la mentalité asiatique s’appuie sur la notion d’une synchronicité entre le matériel et le divin. Cela pourrait expliquer les différences dans la philosophie asiatique comparée à la vision occidentale qui est plus concernée par la causalité.
@@ -154,26 +154,26 @@ On pourrait dire que la mentalité asiatique s’appuie sur la notion d’une sy
 <img src="/image/article/IUA_Journal/rey-melvin-caraan-Wo0K-ktL_M-unsplash-300x225.jpg">
 </figure>
 
-Les  traditions religieuses de l’Extrême Orient abordent typiquement une nécessité profonde de se (re-)connecter avec le ressenti le plus authentique de notre être intérieur afin que notre quête pour trouver la paix puisse nous aider à trouver le “nirvana.” Les grands enseignants  qui ont maîtrisé cette tradition exhortent leurs disciples à méditer pour ainsi réaliser les potentialités contenues dans leur être profond .  Mais cette orientation vers soi en fait des orphelins en matière de compréhension d’un Père personnalisé qui est à la fois bien au-dedans de notre être et aussi dans toute la création.  C’est le sentiment de cette divine présence qui nous conduit tous dans notre quête sublime.
+Les  traditions religieuses de l’Extrême Orient abordent typiquement une nécessité profonde de se (re-)connecter avec le ressenti le plus authentique de notre être intérieur afin que notre quête pour trouver la paix puisse nous aider à trouver le “nirvana.” Les grands enseignants  qui ont maîtrisé cette tradition exhortent leurs disciples à méditer pour ainsi réaliser les potentialités contenues dans leur être profond .  Mais cette orientation vers soi en fait des orphelins en matière de compréhension d’un Père personnalisé qui est à la fois bien au-dedans de notre être et aussi dans toute la création.  C’est le sentiment de cette divine présence qui nous conduit tous dans notre quête sublime.
 
 La principale raison de cette focalisation vers l’intérieur à l’exception de tout le reste, dérive de la philosophie hindoue et du rejet par les brahmanes de l’évangile de Salem que Machiventa Melchizédek essaya d’introduire <a id="a184_192"></a>[[LU 94:1.5](/fr/The_Urantia_Book/94#p1_5)]. _Le Livre d’Urantia_ enseigne que ce rejet était motivé par une obsession indo-aryenne de préservation des privilèges de la caste Brahmane et de leur sentiment d’identité raciale <a id="a184_407"></a>[[LU 94:2.1](/fr/The_Urantia_Book/94#p2_1)].
 
 Cette “omission de tout le reste” les déshérita effectivement d’une compréhension de la déité personnelle. La puissante philosophie qu’elle produisit eut un effet similaire sur les philosophies Orientales subséquentes. Par conséquent, tant l’hinduisme que le bouddhisme ont une carence de compréhension claire et simple de la personnalité du Père Universel telle que présentée par les missionnaires de Salem et confirmée par le ministère des sept effusions de Micaël de Nébadon.
 
-> _…Le concept du Bouddha Absolu est tantôt quasi-personnel, tantôt entièrement impersonnel —tantôt même une force créative infinie. De tels concepts, bien qu’utiles à la philosophie, ne sont pas vitaux pour le développement religieux._ **_Même un Yahweh anthropomorphe a une valeur religieuse plus grande que l’ Absolu infiniment lointain du bouddhisme ou du brahmanisme_**. <a id="a188_342"></a>[[LU 94:11.12](/fr/The_Urantia_Book/94#p11_12), Emphasis added.]
+> _…Le concept du Bouddha Absolu est tantôt quasi-personnel, tantôt entièrement impersonnel —tantôt même une force créative infinie. De tels concepts, bien qu’utiles à la philosophie, ne sont pas vitaux pour le développement religieux._ **_Même un Yahweh anthropomorphe a une valeur religieuse plus grande que l’ Absolu infiniment lointain du bouddhisme ou du brahmanisme_**. <a id="a188_342"></a>[[LU 94:11.12](/fr/The_Urantia_Book/94#p11_12), Emphasis added.]
 
 ### Nirvana et  Paix Spirituelle
 Bien que la reconnaissance d’une déité personnelle leur manque, et malgré les vicissitudes de l’histoire, ces philosophies originaires d’Asie ont quand même accédé à une compréhension profonde du Soi. Cependant, n’ayant pas reconnu que ce Soi surgit d’une déité personnalisée, le Père, ils n’ont pas réalisé une pleine compréhension de la réalité du Soi.
 
-Bien que leur compréhension incomplète éclaire des concepts et  notions très importants et comme ils sont liés à la connaissance de soi (connais-toi toi-même), cela peut aussi conduire à des conclusions erronées. Les conclusions qui découlent généralement de ces efforts de réflexion suggèrent que la mort de l’ égo conduit au Nirvana (_conscience de la présence dans le présent éternel )_ et à la dissolution du soi dans une forme de _conscience  impersonnelle_. Cette notion de conscience impersonnelle, en d’autres mots, conscience non-personnalisée , peut être problématique.
+Bien que leur compréhension incomplète éclaire des concepts et  notions très importants et comme ils sont liés à la connaissance de soi (connais-toi toi-même), cela peut aussi conduire à des conclusions erronées. Les conclusions qui découlent généralement de ces efforts de réflexion suggèrent que la mort de l’ égo conduit au Nirvana (_conscience de la présence dans le présent éternel )_ et à la dissolution du soi dans une forme de _conscience  impersonnelle_. Cette notion de conscience impersonnelle, en d’autres mots, conscience non-personnalisée , peut être problématique.
 
 Le problème apparaît du fait de la stricte logique de ces philosophies, une logique qui omet toute considération d’un Père personnalisé. Laissées de ce fait orphelines , ces philosophies ne peuvent plonger dans la pleine nature de l’être et, bien qu’elles puissent conduire à un état comparable de paix, elles ont une tendance à pousser l’individu vers une isolation prolongée.
 
 > _De courtes périodes où l’on se retire de la scène active de la vie peuvent ne pas présenter de dangers sérieux, mais l’isolement prolongé de la personnalité est fort indésirable._ <a id="a198_150"></a>[[LU 100:5.8](/fr/The_Urantia_Book/100#p5_8)]
 
-Cette isolation, considérée nécessaire pour maîtriser le soi compulsif, peut finir par dissocier le disciple, ce qui ensuite rend difficile de réconcilier l’état actuel confus de la société avec  la paix sublime que le disciple peut atteindre par l’ isolation personnelle. Il n’y a simplement pas de pont qui  relie le fossé toujours grandissant entre les deux. Les disciples de ces philosophies choisissent souvent de passer leur vie en ermite, révérés peut-être par l’ensemble de la société mais pas nécessairement au service de l’humanité. Ils pourraient prendre le risque de répondre malencontreusement au cri de l’affirmation de soi, avec son appel à une préséance du mental qui les sépare de la reconnaissance de, et de la participation consciemment partagée avec, l’Esprit du Père.
+Cette isolation, considérée nécessaire pour maîtriser le soi compulsif, peut finir par dissocier le disciple, ce qui ensuite rend difficile de réconcilier l’état actuel confus de la société avec  la paix sublime que le disciple peut atteindre par l’ isolation personnelle. Il n’y a simplement pas de pont qui  relie le fossé toujours grandissant entre les deux. Les disciples de ces philosophies choisissent souvent de passer leur vie en ermite, révérés peut-être par l’ensemble de la société mais pas nécessairement au service de l’humanité. Ils pourraient prendre le risque de répondre malencontreusement au cri de l’affirmation de soi, avec son appel à une préséance du mental qui les sépare de la reconnaissance de, et de la participation consciemment partagée avec, l’Esprit du Père.
 
-La méditation qui se concentre sur la respiration, ou une pensée, ou une observation fixe, va à l’encontre de notre prédilection pour les pensées convulsives. Toutefois, ce auquel nous nous référons avec dérision comme « la contemplation nombriliste », ne peut et ne doit pas être une fin en soi. Cela ne peut produire ou remplacer la méditation adoratrice et la communion avec l’Esprit qui motive la quête de ceux qui sont intuitivement conscients de la présence personnalisée du divin en soi.
+La méditation qui se concentre sur la respiration, ou une pensée, ou une observation fixe, va à l’encontre de notre prédilection pour les pensées convulsives. Toutefois, ce auquel nous nous référons avec dérision comme « la contemplation nombriliste », ne peut et ne doit pas être une fin en soi. Cela ne peut produire ou remplacer la méditation adoratrice et la communion avec l’Esprit qui motive la quête de ceux qui sont intuitivement conscients de la présence personnalisée du divin en soi.
 
 ## Leçons de Supervision Planétaire
 
@@ -187,18 +187,18 @@ Sauf pour l’Extrême Orient, où la levée de boucliers du brahmanisme contre 
 
 Les initiatives suivantes prises par Jésus auraient sans doute aidé à étendre l’évangile du royaume jusqu’à l’Extrême Orient :
 
-- La période de deux ans avec le jeune homme d’Inde, Ganid, et la possibilité fournie d’une porte ouverte salutaire à l’évangile du Père pour les philosophies de l’Extrême Orient dépourvues de l’héritage du  concept du Père.
+- La période de deux ans avec le jeune homme d’Inde, Ganid, et la possibilité fournie d’une porte ouverte salutaire à l’évangile du Père pour les philosophies de l’Extrême Orient dépourvues de l’héritage du  concept du Père.
 - Les enseignements d’Urmia qui étendirent la compréhension religieuse auraient pu aider à la diffusion des traditions de la version orientale du Christianisme, qui étaient moins belliqueuses que la version occidentale.
 - L’influence du groupe d’Abner à Philadelphie qui eut pour résultat « la version orientale du message de Jésus <a id="a218_112"></a>[[LU 195:1.11](/fr/The_Urantia_Book/195#p1_11)].
 - La cinquième révélation d’époque et le ministère actuel.
 
-Suite aux ministères respectifs de Machiventa et Micaël de Nébadon et à leurs contributions à la  philosophie des peuples de la Terre Sainte, Dieu le Suprême se saisit de ces efforts et appelle tous les fils de Dieu à continuer ce ministère parce que « Rien de ce qui a valeur de survie n’est jamais perdu dans tout le vaste univers _»_ <a id="a221_322"></a>[[LU 109:3.2](/fr/The_Urantia_Book/109#p3_2)].
+Suite aux ministères respectifs de Machiventa et Micaël de Nébadon et à leurs contributions à la  philosophie des peuples de la Terre Sainte, Dieu le Suprême se saisit de ces efforts et appelle tous les fils de Dieu à continuer ce ministère parce que « Rien de ce qui a valeur de survie n’est jamais perdu dans tout le vaste univers _»_ <a id="a221_322"></a>[[LU 109:3.2](/fr/The_Urantia_Book/109#p3_2)].
 
 De manière intéressante, les révélateurs nous informent qu’ils regrettent beaucoup que les enseignements d’ Abner, qui étaient sous bien des aspects plus fidèles au message de Jésus, n’aient pas prospéré dans les traditions postérieures du christianisme occidental.
 
 ## La Paix de Jésus
 
-La paix véritable nous délivre des souffrances du passé et nous libère des anxiétés du futur. Elle incorpore l’expérience gagnée par les leçons du passé avec la vision d’un meilleur futur qui restaure notre raison de vivre. Cette  réalité peut seulement être enchâssée dans le présent, dans l’éternel présent, si et quand :
+La paix véritable nous délivre des souffrances du passé et nous libère des anxiétés du futur. Elle incorpore l’expérience gagnée par les leçons du passé avec la vision d’un meilleur futur qui restaure notre raison de vivre. Cette  réalité peut seulement être enchâssée dans le présent, dans l’éternel présent, si et quand :
 
 - les leçons nées des échecs passés sont apprises et corrigées par l’adoration et la guidance de la divine présence intérieure.
 - la vie quotidienne intègre la foi établie dans l’âme par l’adoration et la prière avec le service dans le présent, l’éternel maintenant.
@@ -225,11 +225,11 @@ Pour ceux qui y sont particulièrement sensibles, cette conscience de Dieu cherc
 
 Néanmoins, l’Esprit de Vérité est toujours là pour assurer que le fils prodigue retourne à la maison une fois que les illusions du mental qui nous séparent de la réalité de l’être sont surmontées.
 
-Quelques  points à méditer en conclusion:
+Quelques  points à méditer en conclusion:
 
 - l’illumination s’étend au-delà de la pensée à travers la révélation.
-- La sanctification assure que  » c’est notre volonté que la volonté de Dieu se fasse. »
-- La quête de la sanctification est la réponse positive au commandement « Soyez parfaits comme je suis parfait. »
+- La sanctification assure que  » c’est notre volonté que la volonté de Dieu se fasse. »
+- La quête de la sanctification est la réponse positive au commandement « Soyez parfaits comme je suis parfait. »
 - La paix qui se déverse en fruits de l’Esprit, élève toujours l’âme face à l’orage et à l’inertie de l’égo.
 - L’illumination ne devient un outil de sanctification que lorsque nous nous engageons à faire la volonté du Père.
 
