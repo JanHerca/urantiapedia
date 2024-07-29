@@ -338,3 +338,4 @@ C'est une erreur de croire que celui qui contrôle le livre contrôle le mouveme
 ## Références
 
 * [Cet article dans les archives de la bourse](https://archive.urantiabook.org/archive/history/carolyns_revelation_plan.htm)
+* [Cet article dans SquareCircles website](https://squarecircles.com/wp-content/uploads/2018/08/PlanForUrantiaBookRevelation.pdf)

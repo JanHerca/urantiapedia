@@ -338,3 +338,4 @@ It is a fallacy to believe that whoever controls the book controls the movement.
 ## References
 
 * [This article in Fellowship archives](https://archive.urantiabook.org/archive/history/carolyns_revelation_plan.htm)
+* [This article in SquareCircles website](https://squarecircles.com/wp-content/uploads/2018/08/PlanForUrantiaBookRevelation.pdf)

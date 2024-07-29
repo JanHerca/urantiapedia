@@ -338,3 +338,4 @@ Es una falacia creer que quien controla el libro controla el movimiento. Más bi
 ## Referencias
 
 * [Este artículo en el archivo de la Fellowship](https://archive.urantiabook.org/archive/history/carolyns_revelation_plan.htm)
+* [Este artículo en el sitio web SquareCircles](https://squarecircles.com/wp-content/uploads/2018/08/PlanForUrantiaBookRevelation.pdf)
