@@ -3,7 +3,7 @@ title: "Dealing With Conflict in A Spiritual Life"
 description: 
 published: true
 date: 2023-9-16T10:55:6Z
-tags:  Ascendant Career, Spiritual Growth, IUA, Journal, article
+tags: Ascendant Career, Spiritual Growth, IUA, Journal, article
 editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
