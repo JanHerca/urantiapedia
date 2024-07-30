@@ -64,7 +64,7 @@ El deseo supremo de verdad, junto con los valores más elevados, asegura que est
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2019/?lang=es)
 - [Este artículo](https://urantia-association.org/supermeditation/?lang=es)
 

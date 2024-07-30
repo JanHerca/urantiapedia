@@ -249,7 +249,7 @@ Alvarez-Lopez MJ, Conklin QA, Cosín-Tomás M, Shields GS, King BG, Zanesco AP, 
 
 ## References
 
-- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-may-2023/)
 - [This article](https://urantia-association.org/getting-to-know-ourselves-better)
 

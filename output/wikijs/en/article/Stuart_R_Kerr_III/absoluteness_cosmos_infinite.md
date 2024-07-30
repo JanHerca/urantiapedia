@@ -78,7 +78,7 @@ God the Absolute transcends even the superpersonal values and divinity meanings 
 
 ## References
 
-- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-november-2017/)
 - [This article](https://urantia-association.org/absoluteness-cosmos-infinite)
 

@@ -241,7 +241,7 @@ Muchas gracias a todos por vuestra atención.
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-febrero-2016/?lang=es)
 - [Este artículo](https://urantia-association.org/reflexiones-para-los-instructores-y-creyentes-de-la-quinta-revelacion/?lang=es)
 

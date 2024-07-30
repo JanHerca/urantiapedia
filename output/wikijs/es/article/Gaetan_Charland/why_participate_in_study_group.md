@@ -154,7 +154,7 @@ Rezo por que este artículo les ayude a comprender mejor la importancia de la mi
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2022/?lang=es)
 - [Este artículo](https://urantia-association.org/por-que-participar-en-un-grupo-de-estudio/?lang=es)
 

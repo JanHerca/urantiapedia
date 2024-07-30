@@ -37,7 +37,7 @@ William S. Sadler mentioned:
 
 Consequently, I don’t discuss the identity of this individual. I am only looking at the Urantia movement that arose after the book was published and its connection to religion.
 
-We know that in April 1955, William S. Sadler, Jr. presented _The Timing of The Urantia Book_, which was later known as _The Publication Mandate_.
+We know that in April 1955, William S. Sadler, Jr. presented _The Timing of The Urantia Book_, which was later known as [The Publication Mandate](/en/article/The_Publication_Mandate).
 
 > You will doubtless live and die without fully realizing that you are participating in the birth of a new age of religion on this world.
 > 
@@ -52,7 +52,7 @@ We know that in April 1955, William S. Sadler, Jr. presented _The Timing of The 
 
 When I first read _The Publication Mandate_, these words were authoritative. The book influenced the birth of a new age of religion. But is our world safe now? Not at all! We have had several years of war in Europe, and we don’t see the end in the near future. The leader of our neighboring country (Russia) has an arrest warrant issued against him by an international court because he and many others have been charged with war crimes. This has not happened before during the long history of Europe. Is such a system sustainable where we have war crimes, occupation and so on? First, we should not be naive peace seekers. True peace can only come with spiritual achievement, which is when people no longer want to establish themselves in a violent way. However, our civilization still has a long way to go.
 
->  A lasting social system without a morality predicated on spiritual realities can no more be maintained than could the solar system without gravity. [UB 195:5.9](/en/The_Urantia_Book/195#p5_9)
+> A lasting social system without a morality predicated on spiritual realities can no more be maintained than could the solar system without gravity. [UB 195:5.9](/en/The_Urantia_Book/195#p5_9)
 
 I lived most of my life in the Soviet Union, and I cannot say that there were any spiritual realities in that system. Most of us knew that this wouldn’t last long and we were right. If you look at the world today, especially Europe, such violent adventures (aggressions) have little hope of succeeding. As already stated in the _Book of Daniel_ and mentioned also in _The Urantia Book,_ the Most Highs rule in the kingdoms of men.
 
@@ -64,13 +64,13 @@ According to the former forum member, Carolyne B. Kendall, there were several su
 > 
 > The plan was never presented as a 1-2-3 listing of do’s and don’ts. If one is discerning, facets of the plan will emerge, just as they dawned upon each Forum member and Brotherhood leader. As was true in past revelations, in the realm of revelatory planning, timing is everything. [^1]
 
-Why were these original instructions ignored? Perhaps it was wise to have no proof of this and thereby limit our human choices, or perhaps these organizations must grow under their leadership’s own wisdom.  I suggest that the authors of the book influenced the Urantia movement in the beginning but later on wished to see it from a distance. There is also one more reason. “It was the design of our unseen friends to prevent the appearance of an ‘Urantia Apocrypha’ subsequent to the publication of _The Urantia Book_.”
+Why were these original instructions ignored? Perhaps it was wise to have no proof of this and thereby limit our human choices, or perhaps these organizations must grow under their leadership’s own wisdom. I suggest that the authors of the book influenced the Urantia movement in the beginning but later on wished to see it from a distance. There is also one more reason. “It was the design of our unseen friends to prevent the appearance of an ‘Urantia Apocrypha’ subsequent to the publication of _The Urantia Book_.”
 
 Later on we read:
 
 > It was inevitable some sort of fraternal organization would grow out of the teachings of _The Urantia Book_. All interested persons could see that the Urantia teachings were opposed to the sectarianism of Christian believers. It was clear that it was not the purpose of the Urantia Revelation to start a new church. (William S. Sadler, M.D., contact commissioner. History of the Urantia Movement, ca. 1966.) [^1]
 
-A new church is an interesting idea. Why not have some kind of church? We haven’t done that in any country as far as I know. I think it was a wise decision not to have a church for the Urantia Movement.  First of all, it would be one church or sect among many others. Second, a certain clergy would inevitably arise to perform religious ceremonies and establish their spiritual authority. Of course, this would be an opportunity for charismatic preachers to emerge, and several papers speak of such dangers. We can read from Bill Sadler’s Triennial Report, January 20, 1958: “There are three main differences between the Brotherhood and a typical church: we claim no spiritual sovereignty; we claim no exclusive path to salvation; we claim no ecclesiastical authority. So long as we do not claim any of these things, we can hardly become a church.” [^2] And there are more negative consequences with organized religion, as we can glean from the book.
+A new church is an interesting idea. Why not have some kind of church? We haven’t done that in any country as far as I know. I think it was a wise decision not to have a church for the Urantia Movement. First of all, it would be one church or sect among many others. Second, a certain clergy would inevitably arise to perform religious ceremonies and establish their spiritual authority. Of course, this would be an opportunity for charismatic preachers to emerge, and several papers speak of such dangers. We can read from Bill Sadler’s Triennial Report, January 20, 1958: “There are three main differences between the Brotherhood and a typical church: we claim no spiritual sovereignty; we claim no exclusive path to salvation; we claim no ecclesiastical authority. So long as we do not claim any of these things, we can hardly become a church.” [^2] And there are more negative consequences with organized religion, as we can glean from the book.
 
 Organizations are necessary to organize readers’ activities, such as the support of study groups, the organization of seminars and conferences, as well as the maintenance of websites. But study groups are autonomous in the Urantia movement, they are not part of reader’s organizations, that is, they do not belong to the hierarchical structure of the organization. But are these organizations religious? They are social types of organizations and that is how it has been with the Urantia Association International so far. In my opinion, social organizations provide more freedom for interpretations of _The Urantia Book_. If we have religious organizations, then we have to _believe_ in something. Therefore, there is a need for creeds and members will have fixed religious concepts.
 
@@ -90,7 +90,7 @@ _The Urantia Book_ is religious by nature, but the authors’ aim was not to est
 
 ## References
 
-- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-november-2023/)
 - [This article](https://urantia-association.org/urantia-is-it-a-new-religion)
 

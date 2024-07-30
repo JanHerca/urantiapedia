@@ -125,7 +125,7 @@ Although we cannot define life, we know what it represents and allows since we a
 
 ## References
 
-- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-november-2020/)
 - [This article](https://urantia-association.org/implantation-of-life)
 

@@ -90,7 +90,7 @@ Je vous laisse méditer sur cette question !
 
 ## Références
 
-- [Bulletin Journal](https://urantia-association.org/journal-online-archives/)
+- [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2022/?lang=fr)
 - [Cet article](https://urantia-association.org/les-aleas-dune-planete-decimale%EF%BF%BC/?lang=fr)
 

@@ -145,7 +145,7 @@ Je prie pour que cette présentation vous permette de mieux comprendre l’impor
 
 ## Références
 
-- [Bulletin Journal](https://urantia-association.org/journal-online-archives/)
+- [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2022/?lang=fr)
 - [Cet article](https://urantia-association.org/pourquoi-un-groupe-detude/?lang=fr)
 

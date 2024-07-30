@@ -45,7 +45,7 @@ El año pasado disfrutamos de una tendencia ascendente en el número de asistent
 
 La conferencia de este año se centrará en _Jesús como ser humano, como el camino vivo, como ejemplo que seguir_. Exploraremos la manera en que Jesús se desarrolló como ser humano previamente a su obra pública.
 
-El lugar de la conferencia será de nuevo el Estate Groot Kievitsdal: ([www.grootkievitsdal.nl](http://www.grootkievitsdal.nl/)).  Este hermoso centro está perfectamente equipado para reuniones sociales.
+El lugar de la conferencia será de nuevo el Estate Groot Kievitsdal: ([www.grootkievitsdal.nl](http://www.grootkievitsdal.nl/)). Este hermoso centro está perfectamente equipado para reuniones sociales.
 
 Groot Kievitsdal está hermosamente situado entre los bosques de Estate Pijnenburg, en la carretera entre Hilversum y Baarn, y es bien conocido como uno de los lugares más bonitos de esta región.
 

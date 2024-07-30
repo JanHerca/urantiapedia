@@ -74,7 +74,7 @@ Gaétan ha recorrido el camino por el que todo nuevo lector ha caminado y ha exp
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2018/?lang=es)
 - [Este artículo](https://urantia-association.org/editorial-de-mayo-2018-del-journal/?lang=es)
 

@@ -153,7 +153,7 @@ I pray this article will help you to better understand the importance of the spi
 
 ## References
 
-- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-may-2022/)
 - [This article](https://urantia-association.org/why-participate-in-study-group)
 

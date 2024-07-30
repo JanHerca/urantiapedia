@@ -118,7 +118,7 @@ L’esprit humain n’est en aucun cas lié au temps et à l’espace par la tra
 
 ## Références
 
-- [Bulletin Journal](https://urantia-association.org/journal-online-archives/)
+- [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2022/?lang=fr)
 - [Cet article](https://urantia-association.org/les-cercles-psychiques-et-la-vie-morontielle/?lang=fr)
 

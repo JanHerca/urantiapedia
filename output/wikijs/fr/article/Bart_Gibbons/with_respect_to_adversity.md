@@ -167,7 +167,7 @@ Juste avant on lisait :
 
 ## Références
 
-- [Bulletin Journal](https://urantia-association.org/journal-online-archives/)
+- [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-decembre-2015/?lang=fr)
 - [Cet article](https://urantia-association.org/en-ce-qui-concerne-ladversite/?lang=fr)
 

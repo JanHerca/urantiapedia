@@ -54,7 +54,7 @@ Alors que la naissance biologique humaine se fait sans notre volonté, celle de 
 
 ## Références
 
-- [Bulletin Journal](https://urantia-association.org/journal-online-archives/)
+- [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2023/?lang=fr)
 - [Cet article](https://urantia-association.org/naissance-desprit-et-maturite-spirituelle/?lang=fr)
 

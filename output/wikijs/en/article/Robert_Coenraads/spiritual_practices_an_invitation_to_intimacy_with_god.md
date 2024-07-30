@@ -131,6 +131,6 @@ For further information on the Practical Applications of meditation [click her
 ## References
 
 - From [Arena – Winter 2023,](/en/article/Robert_Coenraads/Spiritual_Practices) by Robert Coenraads, AUS on June 25, 2023
-- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-november-2023/)
 - [This article](https://urantia-association.org/spiritual-practices-an-invitation-to-intimacy-with-god)

@@ -44,7 +44,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Para muchos, la pandemia del COVID-19 ha causado estragos, y está claro que para los miembros de Urantia Perú que hemos estado organizando durante mucho tiempo la conferencia de la Asociación Urantia Internacional Urantia 2021 planeada en Cuzco (Perú) ha presentado un gran desafío, aunque también una gran oportunidad. Esta crisis nos ha permitido analizar las importantes razones por las que no debemos cancelar esta conferencia internacional que ha estado en fase de planificación desde 2017.
 
-Así como el Padre nos guía de diferentes maneras a lo largo de nuestro viaje espiritual, con su ayuda hemos podido encontrar otra forma de celebrar esta conferencia adaptándonos a unas circunstancias cambiantes.  
+Así como el Padre nos guía de diferentes maneras a lo largo de nuestro viaje espiritual, con su ayuda hemos podido encontrar otra forma de celebrar esta conferencia adaptándonos a unas circunstancias cambiantes. 
 
 Vimos que el tema elegido para esta conferencia internacional_, Hacia la ciudadanía cósmica, vuestro tiempo ha llegado_, podría ser abordado con el mismo éxito en un formato virtual, y significa que un mayor número de lectores y amigos de _El libro de Urantia_ de todas partes del mundo pueden asistir y estar conectados entre sí. Además, ahora podemos recurrir a nuevos ponentes y facilitadores de talleres de países lejanos, a personas que quizá no pueden asistir a un evento presencial.
 

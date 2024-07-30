@@ -122,7 +122,7 @@ Avant tout, nous devons faire le travail et commencer à parcourir la troisième
 
 ## Références
 
-- [Bulletin Journal](https://urantia-association.org/journal-online-archives/)
+- [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2018/?lang=fr)
 - [Cet article](https://urantia-association.org/un-appel-jesusonien-a-faire-la-troisieme-lieue/?lang=fr)
 

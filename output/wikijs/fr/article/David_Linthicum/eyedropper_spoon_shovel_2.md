@@ -127,7 +127,7 @@ https://www.youtube.com/watch?v=HaNoYxwje6o&list=PLQYC6XW8Ev1cve2ziCGl7HVidW_cqs
 
 ## Références
 
-- [Bulletin Journal](https://urantia-association.org/journal-online-archives/)
+- [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2018/?lang=fr)
 - [Cet article](https://urantia-association.org/le-compte-goutte-la-cuillere-et-la-pelle/?lang=fr)
 

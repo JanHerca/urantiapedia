@@ -20,7 +20,7 @@ Welcome to the November 2023 edition of the Urantia Association’s _Journal_, a
 
 Our first article, “Urantia – Is It a New Religion?” by Peep Sõber brings up a question often asked by Urantia Book students and others. Peep recognizes there is an air of subjectivity to this question, depending on the individual and their experiences. Nonetheless, he drives home the point that both _The Publication Mandate_ and _The Urantia Book_ itself, promote a new religion, in particular, the religion of Jesus. But changing religion is not about forming a new church with a rigid set of beliefs, various clergy, or a claim to ecclesiastical authority.
 
-Our second article is “Spiritual Practices – an Invitation to Intimacy with God” by Robert Coenraads.  Robert suggests that most people do not want their beliefs to be limited to any particular creed and that the personal religious experience advocated in _The Urantia Book_, with its open-minded and intimate approach, is the best way to engage in meditative exercises. Robert points out that Eastern religions offer a very practical set of meditation practices and ideas that are useful to Urantia Book students. He compares these to some Judeo-Christian rituals and practices before delving into an exploration of the techniques suggested in _The Urantia Book_, namely meditation, prayer, and worship.
+Our second article is “Spiritual Practices – an Invitation to Intimacy with God” by Robert Coenraads. Robert suggests that most people do not want their beliefs to be limited to any particular creed and that the personal religious experience advocated in _The Urantia Book_, with its open-minded and intimate approach, is the best way to engage in meditative exercises. Robert points out that Eastern religions offer a very practical set of meditation practices and ideas that are useful to Urantia Book students. He compares these to some Judeo-Christian rituals and practices before delving into an exploration of the techniques suggested in _The Urantia Book_, namely meditation, prayer, and worship.
 
 In the next article, Phillip Marriott addresses “Unity – Harmony Within Diversity of Experience and Belief.” More specifically, he looks at ways to encourage spirit unity among all believers. Phillip tells us of his encounter with an argumentative individual as a means to address solutions. Rather than taking a defensive stance with our beliefs, Phillip encourages us to look at the way Jesus approached differences of opinion, such as working through common ground and by embellishing the truth in others’ beliefs. The spirit unity of Jesus is best summed by the statement that “The unity of religious experience… derives from the identical nature of the God fragment indwelling the individual.” But as Phillip says, “it’s only going to work in an environment of co-operation in which there is a willingness to have peace and harmony.” 
 
@@ -33,6 +33,6 @@ Our final article, “Our World Is Made of Force Fields” by Antti Roine, diver
 
 ## References
 
-- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-november-2023/)
 - [This article](https://urantia-association.org/journal-editorial-november-2023)

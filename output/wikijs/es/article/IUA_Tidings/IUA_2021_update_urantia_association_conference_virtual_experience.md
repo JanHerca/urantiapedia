@@ -88,7 +88,7 @@ Vean al final del Programa cómo ver las descripciones de los talleres y el proc
 **La revisión de alta calidad del nuevo _El libro de Urantia_ en español** – Unidad, trabajo en equipo y procesos metodológicos avanzados en la creación de un sistema referencial para un trabajo de calidad.
 Por los panelistas_: Aníbal Pacheco (Chile), Olga López (España), Raúl Pujol (Cuba) y Víctor García-Bory (México)_.
 
-Un panel interactivo discutirá la larga travesía de diez años de desafíos, servicio, trabajo en equipo y amistad, además de los logros obtenidos.   
+Un panel interactivo discutirá la larga travesía de diez años de desafíos, servicio, trabajo en equipo y amistad, además de los logros obtenidos.  
 
 **2.1. ¿Cuáles son algunos de los principios del crecimiento holístico para la ciudadanía cósmica**?
 _Por Alejandro Ampudia (Lima, Perú)_

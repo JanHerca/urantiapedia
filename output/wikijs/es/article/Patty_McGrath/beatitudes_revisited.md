@@ -222,7 +222,7 @@ Así como enseñamos el amor, también aprenderemos que somos hijos de Dios crea
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2020/?lang=es)
 - [Este artículo](https://urantia-association.org/repaso-de-las-bienaventuranzas-una-filosofia-del-vivir/?lang=es)
 

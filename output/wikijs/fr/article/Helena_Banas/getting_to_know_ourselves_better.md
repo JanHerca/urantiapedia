@@ -228,7 +228,7 @@ https://cdn.website-editor.net/50c6037605bc4d1e9286f706427108e6/files/uploaded/N
 
 ## Références
 
-- [Bulletin Journal](https://urantia-association.org/journal-online-archives/)
+- [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2023/?lang=fr)
 - [Cet article](https://urantia-association.org/apprendre-a-mieux-se-connaitre/?lang=fr)
 

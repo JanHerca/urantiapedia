@@ -76,7 +76,7 @@ Una promesa de vida en abundancia para «todo el que quiera».
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-diciembre-2015/?lang=es)
 - [Este artículo](https://urantia-association.org/la-puerta-esta-abierta-todo-el-que-quiera-puede-entrar/?lang=es)
 

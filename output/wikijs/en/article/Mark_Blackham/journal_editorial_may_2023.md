@@ -59,7 +59,7 @@ The last article is one of my own. “**The Next Life”** is a brief summary of
 
 ## References
 
-- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-may-2023/)
 - [This article](https://urantia-association.org/journal-editorial-may-2023)
 

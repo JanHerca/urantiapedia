@@ -43,7 +43,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Este año, la conferencia de la Asociación Urantia de Australia y Nueva Zelanda (ANZURA) se celebró del 9 al 12 de octubre en la _Sydney Academy of Sport & Recreation_, a orillas del bello lago Narrabeen, en las playas del norte de Sidney. Los miembros del grupo de estudio de Sidney organizaron la conferencia y, además de lectores de Sidney, vinieron otros asistentes desde Brisbane, Canberra, Finlandia, Hobart, Melbourne, Newcastle, Nueva Zelanda, la costa central de Nueva Gales del Sur, la costa de Queensland y Wollongong. Estamos especialmente agradecidos a los visitantes que vinieron desde Finlandia, Irmeli Sjolie y Matti Hokka.
 
-Dado que a los miembros del grupo de estudio de Sidney les gusta pulir sus habilidades al presentar temas de _El libro de Urantia_, el comité de planificación de la conferencia decidió asignar presentaciones reducidas para permitir que hubiera diversidad. No solo este enfoque dio a los presentadores una oportunidad única de ahondar en un estudio en profundidad de su tema y de ejercitar sus habilidades de exposición, también mantuvo implicados e interesados a los asistentes a la conferencia  y les dejó mucho alimento para la mente.
+Dado que a los miembros del grupo de estudio de Sidney les gusta pulir sus habilidades al presentar temas de _El libro de Urantia_, el comité de planificación de la conferencia decidió asignar presentaciones reducidas para permitir que hubiera diversidad. No solo este enfoque dio a los presentadores una oportunidad única de ahondar en un estudio en profundidad de su tema y de ejercitar sus habilidades de exposición, también mantuvo implicados e interesados a los asistentes a la conferencia y les dejó mucho alimento para la mente.
 
 A continuación están los títulos de las presentaciones junto con sus presentadores: 
 
@@ -61,7 +61,7 @@ A continuación están los títulos de las presentaciones junto con sus presenta
 <img src="/image/article/IUA_Tidings/Anzura-Tree-300x225.jpg">
 </figure>
 
-Estas presentaciones se irán publicando como artículos de estudio en los próximos números de  _Arena_ (el boletín de ANZURA que puede leerse en [http://urantia-association.org/arena-archives](http://urantia-association.org/arena-archives)).
+Estas presentaciones se irán publicando como artículos de estudio en los próximos números de _Arena_ (el boletín de ANZURA que puede leerse en [http://urantia-association.org/arena-archives](http://urantia-association.org/arena-archives)).
 
 Junto con las presentaciones, hubo otras actividades participativas:
 

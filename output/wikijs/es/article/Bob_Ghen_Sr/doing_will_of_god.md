@@ -167,7 +167,7 @@ O dicho de otra manera: la verdadera religión _es_ «hacer la voluntad de Dios�
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-may-2018/)
 - [Este artículo](https://urantia-association.org/hacer-la-voluntad-de-dios/?lang=es)
 

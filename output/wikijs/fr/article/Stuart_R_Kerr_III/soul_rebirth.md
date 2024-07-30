@@ -80,7 +80,7 @@ Le mental du mortel, encircuité dans le ministère adjuvat de l’Esprit-Mère 
 
 ## Références
 
-- [Bulletin Journal](https://urantia-association.org/journal-online-archives/)
+- [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2020/?lang=fr)
 - [Cet article](https://urantia-association.org/la-renaissance-de-lame-et-le-mental-morontiel-de-lame/?lang=fr)
 

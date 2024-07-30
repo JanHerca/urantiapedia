@@ -39,7 +39,7 @@ All we know for certain is that Michael and Melchizedek eventually decided to s
 
 On the one hand, the entire narrative by a Mighty Messenger in Paper 52, “Planetary Mortal Epochs,” explains and analyzes the personal activity and active ministry that high spiritual Sons carry out on inhabited planets. Nothing that the Mighty Messenger describes has anything to do with preparing and publishing a book.
 
-On the other hand, the three Ancients of Days of Uversa clearly approved the project, for they authorized “a high commission consisting of twenty-four Orvonton administrators” to prepare the narratives in Part I: “thirty-one papers depicting the nature of Deity, the reality of Paradise, the organization and working of the central and superuniverses, the personalities of the grand universe, and the high destiny of evolutionary mortals” (a Divine Counselor and One without Name and Number, 354:8). This too was an exceptional measure, for the Mighty Messen­ger who wrote Paper 52 states that on a normal planet, revelation of truth pertaining to the central universe and Paradise is not shared with human beings until the Post-Teacher Son Age (a Mighty Messenger, 598:6)
+On the other hand, the three Ancients of Days of Uversa clearly approved the project, for they authorized “a high commission consisting of twenty-four Orvonton administrators” to prepare the narratives in Part I: “thirty-one papers depicting the nature of Deity, the reality of Paradise, the organization and working of the central and superuniverses, the personalities of the grand universe, and the high destiny of evolutionary mortals” (a Divine Counselor and One without Name and Number, [UB 31:10.22](/en/The_Urantia_Book/31#p10_22)). This too was an exceptional measure, for the Mighty Messen­ger who wrote Paper 52 states that on a normal planet, revelation of truth pertaining to the central universe and Paradise is not shared with human beings until the Post-Teacher Son Age (a Mighty Messenger, [UB 52:7.3](/en/The_Urantia_Book/52#p7_3))
 
 In comparison, however, Michael and Melchizedek were eminently qualified to specify the topics that needed to be analyzed and explained in Part II, “The Local Universe” (Papers 32 through 56). At the end of Paper 56, the author (a Mighty Messenger) pro­vides the following explanation:
 
@@ -193,6 +193,6 @@ We hope that many of you who read this essay will take an active interest in our
 
 ## References
 
-- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-november-2023/)
 - [This article](https://urantia-association.org/urantias-unrevealed-destiny)

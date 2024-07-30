@@ -181,7 +181,7 @@ Pero lo que hace todo esto aun _más_ interesante es la manera en que un agrupam
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2017/?lang=es)
 - [Este artículo](https://urantia-association.org/el-gigante-orvonton/?lang=es)
 

@@ -96,7 +96,7 @@ All in all, I look forward to a vibrant and progressive morontia life—but I’
 
 ## References
 
-- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-may-2023/)
 - [This article](https://urantia-association.org/the-next-life)
 

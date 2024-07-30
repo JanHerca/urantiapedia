@@ -63,7 +63,7 @@ Anton Miroshnichenko y los miembros del comité siguen trabajando con la Asociac
 
 ## Comité de Comunicaciones
 
-Kathleen Swadling y los miembros del comité publicaron los dos primeros números del _Journal_ de 2015, así como los números de abril y junio del _Tidings_. El Informe Anual 2014 se terminó y envió para su composición e impresión. Las páginas de inicio del sitio web están ahora en ruso y ucraniano, gracias al trabajo y la habilidad de Anton Miroshnichenko.  Los equipos de traducción al español, francés y portugués están constituidos y el trabajo está progresando. La sección de eventos de la web se está renovando y se sigue trabajando con el comité de Educación en un índice temático de ayudas al estudio para la web. Se han creado los subcomités de Relaciones Públicas y de Gestión de la Web.
+Kathleen Swadling y los miembros del comité publicaron los dos primeros números del _Journal_ de 2015, así como los números de abril y junio del _Tidings_. El Informe Anual 2014 se terminó y envió para su composición e impresión. Las páginas de inicio del sitio web están ahora en ruso y ucraniano, gracias al trabajo y la habilidad de Anton Miroshnichenko. Los equipos de traducción al español, francés y portugués están constituidos y el trabajo está progresando. La sección de eventos de la web se está renovando y se sigue trabajando con el comité de Educación en un índice temático de ayudas al estudio para la web. Se han creado los subcomités de Relaciones Públicas y de Gestión de la Web.
 
 ### Comité de Grupos de Estudio
 

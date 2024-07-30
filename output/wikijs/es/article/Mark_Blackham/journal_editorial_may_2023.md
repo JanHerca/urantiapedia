@@ -60,7 +60,7 @@ El último artículo es mío. «**La otra vida**» es un breve resumen de lo que
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2023/?lang=es)
 - [Este artículo](https://urantia-association.org/editorial-del-journal-mayo-2023/?lang=es)
 

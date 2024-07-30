@@ -103,7 +103,7 @@ Tuvieron que pasar muchos siglos para que ocurriera lo contrario, es decir, para
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2021/?lang=es)
 - [Este artículo](https://urantia-association.org/aplicacion-del-pensamiento-cientifico-a-la-cosmologia-de-el-libro-de-urantia/?lang=es)
 

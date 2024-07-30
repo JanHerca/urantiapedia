@@ -20,7 +20,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 ## Références
 
-- [Bulletin Journal](https://urantia-association.org/journal-online-archives/)
+- [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-fevrier-2016/?lang=fr)
 - [Cet article](https://urantia-association.org/la-rehabilitation-durantia/?lang=fr)
 

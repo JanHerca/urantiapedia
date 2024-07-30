@@ -146,7 +146,7 @@ Un nouveau but peut émerger : _Nous devons nous aider les uns les autres à att
 
 ## Références
 
-- [Bulletin Journal](https://urantia-association.org/journal-online-archives/)
+- [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2020/?lang=fr)
 - [Cet article](https://urantia-association.org/la-comprehension-faire-progresser-lillumination-a-partir-de-la-clairvoyance/?lang=fr)
 

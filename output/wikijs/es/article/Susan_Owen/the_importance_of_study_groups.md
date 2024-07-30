@@ -67,7 +67,7 @@ Y hacemos todo esto sin ni siquiera mencionar el libro. Para mí no hay otro pro
     - Practicar en conversaciones reales o simuladas.
     - Aprender a plantear preguntas que inviten a pensar.
     - Aprender a contar historias que ilustren nuestros puntos de vista, ideas, creencias y experiencias personales.
-    - Buscar oportunidades de estar más cómodo hablando a otros individualmente o en  grupo.
+    - Buscar oportunidades de estar más cómodo hablando a otros individualmente o en grupo.
 
 Susan Owen  
 Palm Desert (California)

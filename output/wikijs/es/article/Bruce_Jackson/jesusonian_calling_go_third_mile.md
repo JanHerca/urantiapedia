@@ -142,7 +142,7 @@ Por encima de todo tenemos que hacer el trabajo y comenzar a recorrer la tercera
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-may-2018/)
 - [Este artículo](https://urantia-association.org/llamada-jesusiana-para-recorrer-la-tercera-legua/?lang=es)
 

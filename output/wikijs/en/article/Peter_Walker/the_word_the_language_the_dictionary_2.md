@@ -92,7 +92,7 @@ In conclusion, it is not just the notes in music but the changes between the not
 
 ## References
 
-- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-november-2022/)
 - [This article](https://urantia-association.org/the-word-the-language-the-dictionary)
 

@@ -19,6 +19,6 @@ dateCreated: 2023-9-16T10:55:6Z
 
 - [The Arena magazine – Winter 2023](/en/article/Phillip_Marriott/Unity_Harmony_Within_Diversity_of_Experience_and_Belief)
 - [The Fellowship Herald — Volume 23, Number 1, 2023 (summer)](/en/article/Phillip_Marriott/Unity_Harmony_Within_Diversity_of_Experience_and_Belief_2)
-- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-november-2023/)
 - [This article](https://urantia-association.org/unity-harmony-within-diversity-of-experience-and-belief)

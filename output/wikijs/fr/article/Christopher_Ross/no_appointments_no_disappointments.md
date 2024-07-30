@@ -99,7 +99,7 @@ Il n’a donc pas réussi à faire le travail, à s’engager dans l’intermina
 
 ## Références
 
-- [Bulletin Journal](https://urantia-association.org/journal-online-archives/)
+- [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2021/?lang=fr)
 - [Cet article](https://urantia-association.org/pas-de-rendez-vous-pas-de-deception/?lang=fr)
 

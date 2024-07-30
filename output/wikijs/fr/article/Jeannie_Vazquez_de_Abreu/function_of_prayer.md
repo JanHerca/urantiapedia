@@ -204,7 +204,7 @@ _Le Livre d’Urantia_  contient des vérités divines qui doivent devenir puiss
 
 ## Références
 
-- [Bulletin Journal](https://urantia-association.org/journal-online-archives/)
+- [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2019/?lang=fr)
 - [Cet article](https://urantia-association.org/la-fonction-de-la-priere-pour-fortifier-notre-foi/?lang=fr)
 

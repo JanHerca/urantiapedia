@@ -104,7 +104,7 @@ La mente mortal, en el circuito del ministerio adjutor del Espíritu Madre del u
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2020/?lang=es)
 - [Este artículo](https://urantia-association.org/el-renacimiento-del-alma-y-la-mente-moroncial-del-alma/?lang=es)
 

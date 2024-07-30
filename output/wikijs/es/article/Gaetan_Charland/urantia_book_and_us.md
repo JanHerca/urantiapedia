@@ -137,7 +137,7 @@ _\* [[Mandato de Publicación](/es/article/The_Publication_Mandate)] es al parec
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2018/?lang=es)
 - [Este artículo](https://urantia-association.org/el-libro-de-urantia-y-nosotros/?lang=es)
 

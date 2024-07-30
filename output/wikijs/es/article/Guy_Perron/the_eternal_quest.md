@@ -141,7 +141,7 @@ Lo que el mundo necesita ahora es amor, es la única cosa que tenemos en muy peq
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-diciembre-2015/?lang=es)
 - [Este artículo](https://urantia-association.org/la-busqueda-eterna/?lang=es)
 

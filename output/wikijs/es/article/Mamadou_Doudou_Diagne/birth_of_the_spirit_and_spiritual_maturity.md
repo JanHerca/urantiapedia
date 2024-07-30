@@ -77,7 +77,7 @@ Mientras que el nacimiento biológico humano se hace sin nuestra voluntad, el na
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2023/?lang=es)
 - [Este artículo](https://urantia-association.org/nacer-del-espiritu-y-la-madurez-espiritual/?lang=es)
 

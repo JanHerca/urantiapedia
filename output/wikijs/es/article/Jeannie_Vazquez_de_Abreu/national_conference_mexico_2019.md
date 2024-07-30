@@ -73,7 +73,7 @@ En esa tarde celebramos el aniversario del nacimiento de Jesús de Nazaret en Ur
 > 
 > _¡Gracias, Maestro!_
 > 
-> _No siempre es fácil seguirte,  pero tú no dijiste que lo sería. No hay desafío más sublime ni tarea más regocijante que esforzarnos por seguir tus huellas._
+> _No siempre es fácil seguirte, pero tú no dijiste que lo sería. No hay desafío más sublime ni tarea más regocijante que esforzarnos por seguir tus huellas._
 > 
 > _Hoy, Maestro, todos aquellos que nos declaramos tus hijos, celebramos tu aniversario. Hoy nos reunimos aquellos que tenemos la suerte de contar con un grupo de amigos y hermanos con las mismas inquietudes._
 > 

@@ -74,7 +74,7 @@ En conclusion, ce ne sont pas seulement les notes dans la musique mais les chang
 
 ## Références
 
-- [Bulletin Journal](https://urantia-association.org/journal-online-archives/)
+- [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2022/?lang=fr)
 - [Cet article](https://urantia-association.org/le-mot-la-langue-le-dictionnaire/?lang=fr)
 

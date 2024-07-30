@@ -83,7 +83,7 @@ El círculo de oración final (en el que se dio la mano todo el mundo) fue un ve
 Hubo muchos grandes momentos durante todo este evento, pero algunos de los más destacados para nosotros fueron:
 
 1. La llegada de la madre de Pato con comida casera caribeña para todos, en la que compartió sus ideas sobre libertad espiritual y la necesidad de que todos coexistamos.
-2. Tanisha Mendes (sobrina de Pato), que se sentía inclinada a hacerse musulmana, compartió ilusionada muchas expresiones y reflexiones durante la noche, abrazó muchos de los conceptos de _El libro de Urantia_ y afirmó:  «¡Esto tiene mucho sentido para mí y según la manera en la que pienso!» Antes de partir, se llevó algunos libros para compartir con amigos de mente abierta que ella creía que estarían interesados en conocer estas «nuevas verdades».
+2. Tanisha Mendes (sobrina de Pato), que se sentía inclinada a hacerse musulmana, compartió ilusionada muchas expresiones y reflexiones durante la noche, abrazó muchos de los conceptos de _El libro de Urantia_ y afirmó: «¡Esto tiene mucho sentido para mí y según la manera en la que pienso!» Antes de partir, se llevó algunos libros para compartir con amigos de mente abierta que ella creía que estarían interesados en conocer estas «nuevas verdades».
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Pato-Birmingham-2.jpg">

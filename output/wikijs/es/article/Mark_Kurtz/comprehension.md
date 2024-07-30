@@ -168,7 +168,7 @@ Puede surgir un nuevo propósito: ¡_Vamos a ayudarnos para llegar todos al_ Par
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2020/?lang=es)
 - [Este artículo](https://urantia-association.org/comprension-avanzar-en-la-brillantez-desde-la-vision-interior/?lang=es)
 

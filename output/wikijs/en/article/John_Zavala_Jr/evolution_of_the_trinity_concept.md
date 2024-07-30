@@ -106,7 +106,7 @@ As a son, I learn about God from Jesus, by observing the divinity in his life. I
 
 ## References
 
-- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-december-2015/)
 - [This article](https://urantia-association.org/evolution-of-the-trinity-concept)
 

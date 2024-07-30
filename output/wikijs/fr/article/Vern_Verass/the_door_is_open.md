@@ -54,7 +54,7 @@ Promesse de vie en abondance pour « quiconque le désire ».
 
 ## Références
 
-- [Bulletin Journal](https://urantia-association.org/journal-online-archives/)
+- [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-decembre-2015/?lang=fr)
 - [Cet article](https://urantia-association.org/la-porte-est-ouverte-que-tous-ceux-qui-le-desirent-entrent/?lang=fr)
 
