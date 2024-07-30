@@ -39,7 +39,7 @@ Canberra, Australia
 
 > _Energy is close of kin to divinity when it is Paradise energy. We incline to the belief that monota is the living, nonspirit energy of Paradise- an eternity counterpart of the living, spirit energy of the Original Son..._
 > 
-> _We cannot differentiate the **nature** of Paradise spirit and Paradise monota; they are apparently alike. They have different names, but you can hardly be told very much about a reality whose spiritual and whose nonspiritual manifestations are distinguishable only by name._ [UB 42:2.19-20](/en/The_Urantia_Book/42#p2_19)
+> _We cannot differentiate the **nature** of Paradise spirit and Paradise monota; they are apparently alike. They have different names, but you can hardly be told very much about a reality whose spiritual and whose nonspiritual manifestations are distinguishable only by name._ <a id="a41_278"></a>[UB 42:2.19-20](/en/The_Urantia_Book/42#p2_19)
 
 By projecting energy from the absolute realm onto the constrained region we call the master universe, the chance to endlessly rearrange that energy arose. And over the last hundred years, it has been the important and increasingly profitable work of physicists to map these rearrangements.
 
@@ -67,7 +67,7 @@ Recall Paper 42: Energy - Mind and Matter. On 42:6.4-6, in section 6. Ultimatons
 > 
 > _Mutual attraction holds one hundred ultimatons together in the constitution of the electron._
 > 
-> _Ultimatons do not describe orbits or whirl about in circuits within the electrons, but they do spread or cluster in accordance with their axial revolutionary velocities, thus determining the differential electronic dimensions. This same ultimatonic velocity of axial revolution also determines the negative or positive reactions of the several types of electronic units. The entire segregation and grouping of electronic matter, together with the electric differentiation of negative and positive bodies of energy-matter, results from these various functions of the component ultimatonic interassociation._ [UB 42:6.4-6](/en/The_Urantia_Book/42#p6_4)
+> _Ultimatons do not describe orbits or whirl about in circuits within the electrons, but they do spread or cluster in accordance with their axial revolutionary velocities, thus determining the differential electronic dimensions. This same ultimatonic velocity of axial revolution also determines the negative or positive reactions of the several types of electronic units. The entire segregation and grouping of electronic matter, together with the electric differentiation of negative and positive bodies of energy-matter, results from these various functions of the component ultimatonic interassociation._ <a id="a69_610"></a>[UB 42:6.4-6](/en/The_Urantia_Book/42#p6_4)
 
 In these paragraphs, the narrator seems to be implying that both electrons and the nuclear particles (protons and neutrons) share the same fundamental nature, being arrangements of ultimatons. The differences between the particles arise from the different arrangements of their components. (Note that the HERA experiments investigate the proton. The electron still defies our probes.)
 
@@ -77,11 +77,11 @@ The results from HERA include much discussed and speculation about colour, a pro
 
 On the matter of the meson/mesotron, recall the following from Paper 42 :
 
-> _The charged protons and the uncharged neutrons of the nucleus of the atom are held together by the reciprocating function of the mesotron, a particle of matter 180 times as heavy as the electron. Without this arrangement the electric charge carried by the protons would be disruptive of the atomic nucleus._ [UB 42:8.3](/en/The_Urantia_Book/42#p8_3)
+> _The charged protons and the uncharged neutrons of the nucleus of the atom are held together by the reciprocating function of the mesotron, a particle of matter 180 times as heavy as the electron. Without this arrangement the electric charge carried by the protons would be disruptive of the atomic nucleus._ <a id="a79_311"></a>[UB 42:8.3](/en/The_Urantia_Book/42#p8_3)
 
-> _The mesotron causes the electric charge of the nuclear particles to be incessantly tossed back and forth between protons and neutrons. At one infinitesimal part of a second a given nuclear particle is a charged proton and the next an uncharged neutron. And these alternations of energy status are so unbelievably rapid that the electric charge is deprived of all opportunity to function as a disruptive influence. Thus does the mesotron function as an “energy carrier” particle which mightily contributes to the nuclear stability of the atom._ [UB 42:8.4](/en/The_Urantia_Book/42#p8_4)
+> _The mesotron causes the electric charge of the nuclear particles to be incessantly tossed back and forth between protons and neutrons. At one infinitesimal part of a second a given nuclear particle is a charged proton and the next an uncharged neutron. And these alternations of energy status are so unbelievably rapid that the electric charge is deprived of all opportunity to function as a disruptive influence. Thus does the mesotron function as an “energy carrier” particle which mightily contributes to the nuclear stability of the atom._ <a id="a81_547"></a>[UB 42:8.4](/en/The_Urantia_Book/42#p8_4)
 
-> _The mesotron explains certain cohesive properties of the atomic nucleus, but it does not account for the cohesion of proton to proton nor for the adhesion of neutron to neutron. The paradoxical and powerfil force of atomic cohesive integrity is a form of energy as yet undisclosed on Urantia._ [UB 42:8.6](/en/The_Urantia_Book/42#p8_6)
+> _The mesotron explains certain cohesive properties of the atomic nucleus, but it does not account for the cohesion of proton to proton nor for the adhesion of neutron to neutron. The paradoxical and powerfil force of atomic cohesive integrity is a form of energy as yet undisclosed on Urantia._ <a id="a83_297"></a>[UB 42:8.6](/en/The_Urantia_Book/42#p8_6)
 
 At HERA, an odd thing has been happening in about one tenth of its high energy collisions. Usually, an electron strikes a proton and violently knocks out a quark, which then emerges in the guise of a jet of new particles. The remainder of the proton is so disrupted that it breaks apart, its remaining component quarks and gluons recombining to form various colourless particles. However, about once in every ten collisions, this explosive disruption is not seen. Instead, what seems to be a “colourless island” (an entire colourless component) is cleanly detached from the proton
 

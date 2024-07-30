@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Kathleen Swadling<br>© 2000 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Phil_Taylor/Jesus_Teachings_of_the_Kingdom_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las Enseñanzas De Jesús Sobre El Reino Del Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Moustapha_NDiaye/The_Spirit_of_Truth_Guardian_Angels_and_Other_Friends">
+          <span class="pr-2">El Espíritu de la Verdad, los Ángeles Guardianes y Otros Amigos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Kathleen_Swadling.jpg">
@@ -43,7 +67,7 @@ Hay un pasaje en _El Libro de Urantia_ que me llama la atención sobre todos los
 
 Muchos se encuentran con que tienen un ardiente deseo de hacer la voluntad del Padre pero no tienen idea de cómo se supone que llegamos a conocer cuál es la voluntad divina para nosotros. Después de todo, _El Libro de Urantia_ nos cuenta que mucho del trabajo de los Ajustadores del Pensamiento se hace mientras estamos inconscientes, puesto que nos dice:
 
-> _Pero un ser humano baría mejor en errar rechazando la expresión de un Ajustador creyéndola una experiencia puramente humana que en equivocarse al exaltar una reacción de la mente mortal a la esfera de dignidad divina. Recordad que la influencia del Ajustador del Pensamiento es en su mayor parte, aunque no totalmente, una experiencia superconsciente._ [[LU 110:5.5](/es/The_Urantia_Book/110#p5_5)]
+> _Pero un ser humano baría mejor en errar rechazando la expresión de un Ajustador creyéndola una experiencia puramente humana que en equivocarse al exaltar una reacción de la mente mortal a la esfera de dignidad divina. Recordad que la influencia del Ajustador del Pensamiento es en su mayor parte, aunque no totalmente, una experiencia superconsciente._ <a id="a69_356"></a>[[LU 110:5.5](/es/The_Urantia_Book/110#p5_5)]
 
 Pasajes como éste hacen que muchos de nosotros, estoy segura, seamos cautos respecto a **presumir** de saber lo que la voluntad de Dios es para nosotros por temor a caer víctimas de una auto-ilusión. Después de todo, sabemos de muchos fanáticos que justifican sus extrañas o incluso malvadas acciones declarando que están haciendo la voluntad de Dios.
 
@@ -51,7 +75,7 @@ Con el paso de los años en mi búsqueda por Dios me he cuestionado esto una y o
 
 Pensaba a veces: ¿Por qué simplemente no nos señala su voluntad en el cielo, con luces de neón, para que esté claro para todos? Bien, pronto descubrí que, afortunadamente, las maneras de Dios no eran las mías. También descubrí que las vías de Dios son infinitamente más sabias. Cuando me topé con este pasaje de _El Libro de Urantia_ el cual me dio la respuesta a mi cuestión, mi mente finalmente descansó de la hirviente cuestión de lo que la «voluntad de Dios» realmente significaba.
 
-> _Hacer la voluntad de Dios es ni más ni menos que una exbibición de la disposición de la criatura a compartir la vida interior con Dios..._ [[LU 111:5.1](/es/The_Urantia_Book/111#p5_1)]
+> _Hacer la voluntad de Dios es ni más ni menos que una exbibición de la disposición de la criatura a compartir la vida interior con Dios..._ <a id="a77_142"></a>[[LU 111:5.1](/es/The_Urantia_Book/111#p5_1)]
 
 Lo leeré de nuevo: Hacer la voluntad de Dios no es ni más ni menos que una exbibición de la disposición de la criatura a compartir la vida inte rior con Dios... [énfasis mío]
 
@@ -81,11 +105,11 @@ Cuando experimentamos la comprensión de una verdad, tenemos una revelación per
 
 Y se nos ha dicho en 132:3.4:
 
-> _La verdad revelada, la verdad descubierta personalmente, es la delicia suprema del alma humana; es la creación conjunta de la mente material y del espíritu interior. La salvación eterna de un alma que discierne la verdady que ama la belleza, está asegurada por ese hambre y esa sed de bondad que conducen a este mortal a desarrollar una sola finalidad, la de hacer la voluntad del Padre, encontrar a Dios y volverse como él._ [[LU 132:3.4](/es/The_Urantia_Book/132#p3_4)]
+> _La verdad revelada, la verdad descubierta personalmente, es la delicia suprema del alma humana; es la creación conjunta de la mente material y del espíritu interior. La salvación eterna de un alma que discierne la verdady que ama la belleza, está asegurada por ese hambre y esa sed de bondad que conducen a este mortal a desarrollar una sola finalidad, la de hacer la voluntad del Padre, encontrar a Dios y volverse como él._ <a id="a107_429"></a>[[LU 132:3.4](/es/The_Urantia_Book/132#p3_4)]
 
 De modo que podemos conjeturar que aquellas experiencias que tenemos y que han inspirado un sentimiento de asombro y una apreciación de la verdad, belleza y bondad están siendo experimentadas al nivel del alma; ¿quizá aquel nivel que evoluciona y crece según el grado en el que elegimos preocuparnos de los significados y valores que son como de Dios?. Experimentar una realidad espiritual nos eleva a un estado superior de consciencia o a un lugar donde no llegan las palabras. Sean cuales sean las palabras que empleemos para describir la experiencia, sabemos que nos lleva a una paz mental y a una claridad de pensamiento. Algo de **significado y valor** ha ocurrido. Podemos leer en:
 
-> _Siempre y cuando el alma morontial evolutiva del hombre se satura de verdad, belleza y bondad como valor-realización de la conciencia acerca de Dios, el ser resultante se volverá indestructible. Si no hay supervivencia de los valores eternos en el alma evolutiva del hombre, entonces la existencia mortal no tiene significado, y la vida misma es una ilusión trágica._ [[LU 111:3.7](/es/The_Urantia_Book/111#p3_7)]
+> _Siempre y cuando el alma morontial evolutiva del hombre se satura de verdad, belleza y bondad como valor-realización de la conciencia acerca de Dios, el ser resultante se volverá indestructible. Si no hay supervivencia de los valores eternos en el alma evolutiva del hombre, entonces la existencia mortal no tiene significado, y la vida misma es una ilusión trágica._ <a id="a111_371"></a>[[LU 111:3.7](/es/The_Urantia_Book/111#p3_7)]
 
 ¡Una ilusión trágica! ¿Quién de entre nosotros querría vivir una vida de ilusión trágica? Por tanto, el único tipo de realidad de vida que merece la pena vivir es una vida donde estemos viviendo la voluntad de Dios, donde estamos haciendo elecciones y tomando unas decisiones en nuestros escenarios mentales que tienen valor espiritual. ¿Cuál sería el propósito de vivir la vida de otra manera?
 
@@ -93,7 +117,7 @@ De modo que ¿cómo reconciliamos estos valores recogidos y revelaciones descubi
 
 Qué extraño dilema al que nos encontramos la mayoría de las veces: Luchamos por valores superiores y anhelamos un atisbo de realidades espirituales mientras batallamos en el tiempo con nuestra naturaleza inferior de origen animal. Sin embargo, podemos encontrar consuelo en el pasaje de _El Libro de Urantia_ que trata de esta gran paradoja humana.
 
-> _Muchos de los problemas temporales del hombre mortal surgen de su relación dual con el cosmos. El hombre es parte de la naturaleza — existe en la naturaleza- y sin embargo es capaz de trascender la naturaleza. El hombre es finito, pero reside dentro de él un destello de infinidad. Dicha situación dual no sólo provee el potencial para el mal sino que también engendra muchas situaciones sociales y morales cargadas de gran incertidumbre y considerable ansiedad._ [[LU 111:6.1](/es/The_Urantia_Book/111#p6_1)]
+> _Muchos de los problemas temporales del hombre mortal surgen de su relación dual con el cosmos. El hombre es parte de la naturaleza — existe en la naturaleza- y sin embargo es capaz de trascender la naturaleza. El hombre es finito, pero reside dentro de él un destello de infinidad. Dicha situación dual no sólo provee el potencial para el mal sino que también engendra muchas situaciones sociales y morales cargadas de gran incertidumbre y considerable ansiedad._ <a id="a119_467"></a>[[LU 111:6.1](/es/The_Urantia_Book/111#p6_1)]
 
 _Llena de mucha incertidumbre y no poca ansiedad_; puede dar cuenta de ello. De modo que, dadas las dificultades por las que tenemos que pasar cada día, dada nuestra imperfección, y humilde estado evolutivo, ¿Cómo compartimos nuestra consciencia de Dios con otros y volvemos nuestras vidas interiores hacia el exterior?
 
@@ -109,19 +133,19 @@ Si nuestra preocupación principal es vivir de acuerdo con la voluntad de Dios, 
 
 Jesús fue capaz de conmover a tanta gente en su vida diaria porque siempre mostró interés hacia ellos. El les preguntaba cosas y les motivaba. Me gustaría compartir algunas joyas de _El Libro de Urantia_ sobre la amistad para ilustrar este punto importante:
 
-> _El aislamiento tiende a agotar la carga de energía del alma. La asociación con los semejantes es esencial para renovar el entusiasmo por la vida, e indispensable para conservar la valentía necesaria en las batallas que siguen a la ascensión a unos niveles superiores de vida humana. La amistad intensifica las alegrías glorifica los triunfos de la vida. Las asociaciones humanas afectuosas e intimas tienden a quitarle al sufrimiento su tristera, y a las dificultades mucho de su amargura. La presencia de un amigo aumenta toda belleza y exalta toda bondad._ [[LU 160:2.8](/es/The_Urantia_Book/160#p2_8)]
+> _El aislamiento tiende a agotar la carga de energía del alma. La asociación con los semejantes es esencial para renovar el entusiasmo por la vida, e indispensable para conservar la valentía necesaria en las batallas que siguen a la ascensión a unos niveles superiores de vida humana. La amistad intensifica las alegrías glorifica los triunfos de la vida. Las asociaciones humanas afectuosas e intimas tienden a quitarle al sufrimiento su tristera, y a las dificultades mucho de su amargura. La presencia de un amigo aumenta toda belleza y exalta toda bondad._ <a id="a135_562"></a>[[LU 160:2.8](/es/The_Urantia_Book/160#p2_8)]
 
-> _En la personalidad de Jesús había algo de agradable e inspirador que atraía invariablemente a los jóvenes. Siempre hacía que se sintieran a gusto en su presencia. Quizás su gran secreto para permanecer entre ellos consistía en el doble hecho de que siempre se interesaba por lo que estaban baciendo, mientras que raramente les aconsejaba, a menos que se lo pidieran._ [[LU 129:1.9](/es/The_Urantia_Book/129#p1_9)]
+> _En la personalidad de Jesús había algo de agradable e inspirador que atraía invariablemente a los jóvenes. Siempre hacía que se sintieran a gusto en su presencia. Quizás su gran secreto para permanecer entre ellos consistía en el doble hecho de que siempre se interesaba por lo que estaban baciendo, mientras que raramente les aconsejaba, a menos que se lo pidieran._ <a id="a137_371"></a>[[LU 129:1.9](/es/The_Urantia_Book/129#p1_9)]
 
-> _Ganid había notado que la mayoría de las personas que habían encontrado por casualidad se sentían atraídas por Jesús, y por ello preguntó qué tenía uno que hacer para ganar amigos. Su Maestro le dijo: «Interésate por tus semejantes; aprende a amarlos y vigila la oportunidad de hacer algo por ellos que estás seguro que desean»; luego citó el antiguo proverbio judio: «Un hombre que quiere tener amigos debe mostrarse amistoso»._ [[LU 130:7.2](/es/The_Urantia_Book/130#p7_2)]
+> _Ganid había notado que la mayoría de las personas que habían encontrado por casualidad se sentían atraídas por Jesús, y por ello preguntó qué tenía uno que hacer para ganar amigos. Su Maestro le dijo: «Interésate por tus semejantes; aprende a amarlos y vigila la oportunidad de hacer algo por ellos que estás seguro que desean»; luego citó el antiguo proverbio judio: «Un hombre que quiere tener amigos debe mostrarse amistoso»._ <a id="a139_433"></a>[[LU 130:7.2](/es/The_Urantia_Book/130#p7_2)]
 
 Toma buena cuenta de las palabras del Maestro mismo: «_Interésate por tus compañeros .._».
 
-> _Entrenad vuestra memoria para que guarde como un depósito sagrado los episodios fortalecedores y valiosos de la vida, a fin de poder recordarlos a voluntad, para vuestro placer y edificación. Construid así, para vosotros y dentro de vosotros, museos de belleza, de bondad y de grandeza artística. Los recuerdos más nobles son las memorias atesoradas de los grandes momentos de una hermosa amistad._ [[LU 160:4.12](/es/The_Urantia_Book/160#p4_12)]
+> _Entrenad vuestra memoria para que guarde como un depósito sagrado los episodios fortalecedores y valiosos de la vida, a fin de poder recordarlos a voluntad, para vuestro placer y edificación. Construid así, para vosotros y dentro de vosotros, museos de belleza, de bondad y de grandeza artística. Los recuerdos más nobles son las memorias atesoradas de los grandes momentos de una hermosa amistad._ <a id="a143_402"></a>[[LU 160:4.12](/es/The_Urantia_Book/160#p4_12)]
 
-> _Estos altos niveles de vida humana se logran en el amor supremo de Dios y en el amor altruista del hombre. Si amas a tus semejantes, debes haber descubierto sus valores. Jesús amaba tanto a los hombres, porque les adjudicaba un valor tan alto. Puedes mejor descubrir los valores de tus asociados descubriendo sus motivaciones. Si alguien te irrita, te produce sentimientos de resentimiento, debes buscar con simpatía el discernimiento de su punto de vista, sus razones de una conducta tan censurable. Una vez que entiendas a tu prójimo, te volverás tolerante, y esta tolerancia crecerá en amistad y madurará en el amor._ [[LU 100:4.4](/es/The_Urantia_Book/100#p4_4)]
+> _Estos altos niveles de vida humana se logran en el amor supremo de Dios y en el amor altruista del hombre. Si amas a tus semejantes, debes haber descubierto sus valores. Jesús amaba tanto a los hombres, porque les adjudicaba un valor tan alto. Puedes mejor descubrir los valores de tus asociados descubriendo sus motivaciones. Si alguien te irrita, te produce sentimientos de resentimiento, debes buscar con simpatía el discernimiento de su punto de vista, sus razones de una conducta tan censurable. Una vez que entiendas a tu prójimo, te volverás tolerante, y esta tolerancia crecerá en amistad y madurará en el amor._ <a id="a145_624"></a>[[LU 100:4.4](/es/The_Urantia_Book/100#p4_4)]
 
-> _Jesús podía ayudar tanto a los hombres porque también los amaba sinceramente. Amaba realmente a cada hombre, a cada mujer y a cada niño. Podía ser un amigo así de auténtico debido a su perspicacia extraordinaria — conocía plenamente el contenido del corazón y de la mente del hombre. Era un observador penetrante y lleno de interés. Era experto en comprender las necesidades humanas y bábil en detectar los anhelos humanos._ [[LU 171:7.4](/es/The_Urantia_Book/171#p7_4)]
+> _Jesús podía ayudar tanto a los hombres porque también los amaba sinceramente. Amaba realmente a cada hombre, a cada mujer y a cada niño. Podía ser un amigo así de auténtico debido a su perspicacia extraordinaria — conocía plenamente el contenido del corazón y de la mente del hombre. Era un observador penetrante y lleno de interés. Era experto en comprender las necesidades humanas y bábil en detectar los anhelos humanos._ <a id="a147_428"></a>[[LU 171:7.4](/es/The_Urantia_Book/171#p7_4)]
 
 Cuando la gente está tan acostumbrada a estar sola, aislada, a vivir desconsiderada e ignorada, incluso aunque pueda estar rodeada por una multitud de seres humanos semejantes, y entonces alguien viene y muestra un genuino interés en ellos por saber quiénes son, esa persona puede conmoverse y puede sentirse estimulada porque alguien ha tomado un auténtico interés en él. ¡Hay tanta gente que anda perdida y sola!. ¡Tantos vacilando en oscuridad espiritual!. Tomando un interés en la gente y compartiendo vuestra realidad con tus compañeros se nos han dado incontables oportunidades en nuestra vida diaria para traer un poco de luz a las vidas de los demás.
 
@@ -129,7 +153,7 @@ Me gustaría resaltar un punto más que yo creo que redondea este tema de compar
 
 Aquí está ahora el test mordaz: ¿Cuánto de efectivos somos **trabajando** con aquellos hacia quienes ha crecido nuestro amor y admiración?. Se nos dice en:
 
-> _De todos los problemas en el universo que requieren el ejercicio de una sabiduría consumada de experiencia y adaptabilidad, **ninguno es más importante que los que surgen de las relaciones y asociaciones de los seres inteligentes** [énfasis mío]. Sea en las asociaciones humanas de comercio y negocios, de amistady matrimonio, o en los enlaces de las buestes angélicas, siempre surgen fricciones mezquinas, malentendidos menores, demasiado triviales como para llamar la atención de los conciliadores, pero suficientemente irritantes y perturbadores como para estorbar el mecanismo normal del universo, si se permite que se multipliquen y continúen._ [[LU 28:5.13](/es/The_Urantia_Book/28#p5_13)]
+> _De todos los problemas en el universo que requieren el ejercicio de una sabiduría consumada de experiencia y adaptabilidad, **ninguno es más importante que los que surgen de las relaciones y asociaciones de los seres inteligentes** [énfasis mío]. Sea en las asociaciones humanas de comercio y negocios, de amistady matrimonio, o en los enlaces de las buestes angélicas, siempre surgen fricciones mezquinas, malentendidos menores, demasiado triviales como para llamar la atención de los conciliadores, pero suficientemente irritantes y perturbadores como para estorbar el mecanismo normal del universo, si se permite que se multipliquen y continúen._ <a id="a155_653"></a>[[LU 28:5.13](/es/The_Urantia_Book/28#p5_13)]
 
 Como en el matrimonio y en la vida familiar donde se presentan constantemente desafíos trabajando y viviendo con aquellos que más amamos en nuestra vida, así somos desafiados cuando tenemos que trabajar y cooperar con el otro en una comunidad más extensa. ¿Cómo hacemos para tratar con alguien con quien podemos no estar de acuerdo y con quien necesitamos trabajar de manera que tengamos hecho cierto trabajo? Podemos amarles afectuosamente pero pensamos que están equivocados en una situación determinada, o que están mostrando un juicio pobre; y aún, de alguna manera, necesitamos trascender las diferencias de opinión para lograr realizar la tarea.
 
@@ -137,23 +161,23 @@ Ahora viene un buen test mordaz para ver cuán efectivamente podemos estar mante
 
 Lo que estoy defendiendo aquí es no deberíamos sentirnos demasiado engreídos sobre nosotros mismos en la medida en que nuestra espiritualidad avanza observando nuestras relaciones con el otro hasta que se nos ha puesto en el test de ver cuán efectivos somos al trabajar con el otro. _El Libro de Urantia_ nos dice en 28:5.14:
 
-> _Una de las lecciones más importantes que debéis aprender durante vuestra carrera mortal consiste en ***trabajar en equipo***. Las esferas de perfección tienen un personal que proviene de los que han dominado este arte de trabajar con otros seres._ [[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)]
+> _Una de las lecciones más importantes que debéis aprender durante vuestra carrera mortal consiste en ***trabajar en equipo***. Las esferas de perfección tienen un personal que proviene de los que han dominado este arte de trabajar con otros seres._ <a id="a163_251"></a>[[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)]
 
 Sabemos de estudiar _El Libro de Urantia_ que la maestría de trabajar con otros es uno de los principales rasgos de la carrera evolutiva y finita de nosotros los mortales.
 
-Si estudiamos la sección de los mundos de entrenamiento en Edentia en [LU 43:7.1](/es/The_Urantia_Book/43#p7_1) de _El Libro de Urantia_, vemos que va a ser una largo y dificultoso camino hasta dominar la maestría del trabajo en equipo y en hacer de nuestra socialización algo digno. A veces necesitamos conflicto para crecer.
+Si estudiamos la sección de los mundos de entrenamiento en Edentia en <a id="a167_70"></a>[LU 43:7.1](/es/The_Urantia_Book/43#p7_1) de _El Libro de Urantia_, vemos que va a ser una largo y dificultoso camino hasta dominar la maestría del trabajo en equipo y en hacer de nuestra socialización algo digno. A veces necesitamos conflicto para crecer.
 
 Algunas veces, verdades importantes salen al exterior durante un conflicto con alguien a quien amamos. Deberíamos tener cuidado en no ceñirnos en el hecho de que hay conflicto, y no deberíamos preocuparnos realmente mucho sobre el hecho de que podríamos no manejarlo muy bien. Más bien, deberíamos estar continuamente trabajando en cómo manejarnos mejor la próxima vez y ayudarnos el uno al otro aprendiendo cómo enfrentarnos mejor a ello.
 
 Lo que es inexcusable es si permitimos que el conflicto destruya la relación. Los que estamos hoy aquí hemos venido a esta conferencia debido al amor e interés en _El Libro de Urantia_ y porque todos hemos sido conmovidos por las verdades recogidas en este libro. Nuestra vida interna ha sido tan tocada por la emoción de las realidades espirituales percibidas que nos sentimos movidos a mejorar nosotros mismos y el mundo en general aprendiendo más sobre estas enseñanzas, y en explorar caminos para divulgar estas enseñanzas a nuestros semejantes por todo el mundo. ¿Cuántos de nosotros han sentido la llamada al servicio a través de este pasaje de 2:7.10:
 
-> _El desafio religioso de esta era pertenece a aquellos hombresy mujeres visionarios, progresistas y con discernimiento espiritual que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los ampliados y exquisitamente integrados conceptos modernos de verdad cósmica, belleza universal y bondad divina. Tal visión nueva y recta de la moralidad atraerá todo lo que es bueno en la mente del hombre y estimulará todo lo mejor del alma humana._ [[LU 2:7.10](/es/The_Urantia_Book/2#p7_10)]
+> _El desafio religioso de esta era pertenece a aquellos hombresy mujeres visionarios, progresistas y con discernimiento espiritual que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los ampliados y exquisitamente integrados conceptos modernos de verdad cósmica, belleza universal y bondad divina. Tal visión nueva y recta de la moralidad atraerá todo lo que es bueno en la mente del hombre y estimulará todo lo mejor del alma humana._ <a id="a173_467"></a>[[LU 2:7.10](/es/The_Urantia_Book/2#p7_10)]
 
 Hemos sido retados en _El Libro de Urantia_ a encontrar maneras y medios de diseminar la revelación de la quinta época. Aquellos de nosotros que hemos elegido trabajar en grupos o en equipos debemos aprender cómo trabajar **efectivamente** juntos a nuestros amigos. Debemos aprender a enfocar nuestros objetivos comunes mientras a menudo nos confrontamos con el desafío de no estar de acuerdo con nuestros queridos amigos. Las amistades son puestas en el mordaz test de la realidad cuando se confrontan con tales desafíos.
 
 _El Libro de Urantia_ nos da muchas lecciones trabajando efectivamente juntos. Si nosotros, como equipos de lectores de _El Libro de Urantia_, deseamos cambiar el mundo introduciendo el libro y sus enseñanzas a la humanidad, debemos siempre tener presente el poder del inteligente trabajo en equipo, emparejado con un sabio liderazgo. Se nos ha dicho en la página 911 de _El Libro de Urantia_:
 
-> _En la civilización mucho, pero mucho, depende de un espíritu de empresa entusiasta y eficar. Diez hombres valen muy poco más que uno solo para levantar una gran carga a menos que la levanten todos juntos — todos al mismo tiempo. Este trabajo de equipo — cooperación social— depende del liderazgo._ [[LU 81:6.37](/es/The_Urantia_Book/81#p6_37)]
+> _En la civilización mucho, pero mucho, depende de un espíritu de empresa entusiasta y eficar. Diez hombres valen muy poco más que uno solo para levantar una gran carga a menos que la levanten todos juntos — todos al mismo tiempo. Este trabajo de equipo — cooperación social— depende del liderazgo._ <a id="a179_301"></a>[[LU 81:6.37](/es/The_Urantia_Book/81#p6_37)]
 
 Los ingredientes esenciales para un trabajo en equipo efectivo es para los miembros del equipo ponerse de acuerdo en los objetivos y para cada miembro reconocer, adoptar y cooperar con los otros miembros del equipo y con sus líderes. Esto a menudo significa enfrentarse al desafío de tener aceptar algo con lo que no estemos de acuerdo.
 
@@ -161,19 +185,19 @@ Un par de grandes obstáculos para una cooperación exitosa yace en el hecho de 
 
 > _«Natanael, has aprendido a vivir por encima de los prejuicios y a practicar una tolerancia creciente desde que te convertiste en mi apóstol. Pero tienes que aprender muchas más cosas. Has sido una bendición para tus compañeros, porque tu constante sinceridad siempre les ha servido de aviso. Cuando me haya ido, es posible que tu franqueza te impida llevarte bien con tus hermanos, tanto antiguos como nuevos. Deberías aprender que incluso la expresión de un pensamiento bueno debe ser modulada de acuerdo con el estado intelectual y el desarrollo espiritual del oyente. La sinceridad es extremadamente útil en el trabajo del reino cuando está unida a la discreción._
 > 
-> _«Si quisieras aprender a trabajar con tus hermanos, podrías realizar cosas más duraderas, ..»_ [LU 181:2.21-22](/es/The_Urantia_Book/181#p2_21)
+> _«Si quisieras aprender a trabajar con tus hermanos, podrías realizar cosas más duraderas, ..»_ <a id="a187_98"></a>[LU 181:2.21-22](/es/The_Urantia_Book/181#p2_21)
 
-Jesús también dijo a Natanael: «_Si me sirves pues de todo corazón, asegúrate de que te consagras al bienestar de mis bermanos en la tierra con un afecto incansable. Incorpora la amistad a tu consejo y añade el amor a tu filosofía. Sirve a tus semejantes como yo te he servido. Sé fiel a los hombres como yo he velado por ti. Sé menos crítico; espera menos de algunos hombres y disminuye asi la magnitud de tus decepciones_». [[LU 192:2.10](/es/The_Urantia_Book/192#p2_10)]
+Jesús también dijo a Natanael: «_Si me sirves pues de todo corazón, asegúrate de que te consagras al bienestar de mis bermanos en la tierra con un afecto incansable. Incorpora la amistad a tu consejo y añade el amor a tu filosofía. Sirve a tus semejantes como yo te he servido. Sé fiel a los hombres como yo he velado por ti. Sé menos crítico; espera menos de algunos hombres y disminuye asi la magnitud de tus decepciones_». <a id="a189_426"></a>[[LU 192:2.10](/es/The_Urantia_Book/192#p2_10)]
 
 Observa cómo Jesús dice a Natanael: «_Si quisieras aprender a trabajar con tus hermanos, podrías realizar cosas más duraderas_» y cómo le proporcionó un completo juego de instrucciones sobre cómo acometer una mayor tolerancia por sus semejantes. 
 
-Sabemos, sin embargo, que Natanael no podía trabajar con Pedro y los otros después de Pentecostés ([LU 192:4.7](/es/The_Urantia_Book/192#p4_7)) ya que se oponía al cambio de la proclamación del evangelio de la filiación con Dios y la hermandad con el hombre por el de la proclamación del Cristo resucitado. Así que aunque estaba en lo cierto de hecho, echó de menos la verdad esencial de perseverar con sus semejantes en la construcción de la causa mayor.
+Sabemos, sin embargo, que Natanael no podía trabajar con Pedro y los otros después de Pentecostés (<a id="a193_99"></a>[LU 192:4.7](/es/The_Urantia_Book/192#p4_7)) ya que se oponía al cambio de la proclamación del evangelio de la filiación con Dios y la hermandad con el hombre por el de la proclamación del Cristo resucitado. Así que aunque estaba en lo cierto de hecho, echó de menos la verdad esencial de perseverar con sus semejantes en la construcción de la causa mayor.
 
-Natanael fue incluso descrito como el _genio excéntrico de los doce_ [[LU 139:6.4](/es/The_Urantia_Book/139#p6_4)]. Si hubiera permanecido y trabajado con el equipo tal como Jesús le entrenó, quizá su mayor comprensión del mensaje evangélico de Jesús hubiese llegado a tener un impacto positivo en la dirección que tomó el movimiento cristiano. Tal como ocurrió, se fue solo a la India y sin duda hizo un buen trabajo, pero cuánto más hubiese podido acometer si simplemente hubiese tenido en cuenta el consejo preferido de Jesús hacia él.
+Natanael fue incluso descrito como el _genio excéntrico de los doce_ <a id="a195_69"></a>[[LU 139:6.4](/es/The_Urantia_Book/139#p6_4)]. Si hubiera permanecido y trabajado con el equipo tal como Jesús le entrenó, quizá su mayor comprensión del mensaje evangélico de Jesús hubiese llegado a tener un impacto positivo en la dirección que tomó el movimiento cristiano. Tal como ocurrió, se fue solo a la India y sin duda hizo un buen trabajo, pero cuánto más hubiese podido acometer si simplemente hubiese tenido en cuenta el consejo preferido de Jesús hacia él.
 
 Mientras Natanael lo pasaba mal trabajando con aquellos que no coincidían con él, Tomás por el contrario mostró más tolerancia. En 139:8.8 se nos dice:
 
-_En los consejos de los doce, Tomás era siempre precavido y defendía la política de «primero la seguridad», pero si se votaba en contra de su conservadurismo o se rechazaba, siempre era el primero en lanzarse intrépidamente a ejecutar el programa que se babía aprobado. Una y otra vez se oponía a un proyecto determinado por considerarlo arriesgado y temerario, y lo debatía encarnizadamente hasta el final; pero cuando Andrés sometía la proposición a votación, y cuando los doce escogían hacer aquello contra lo que se babía opuesto tan enérgicamente, Tomás era el primero en decir: «V Vamos!». Era un buen perdedor. No guardaba rencor ni alimentaba resentimientos. Una y otra vez se opuso a dejar que Jesús se expusiera a un peligro, pero cuando el Maestro decidía correr ese riesgo, siempre era Tomás el que reunía a los apóstoles con sus valientes palabras: «Venid, camaradas, vamos a morir con él»._ [[LU 139:8.8](/es/The_Urantia_Book/139#p8_8)]
+_En los consejos de los doce, Tomás era siempre precavido y defendía la política de «primero la seguridad», pero si se votaba en contra de su conservadurismo o se rechazaba, siempre era el primero en lanzarse intrépidamente a ejecutar el programa que se babía aprobado. Una y otra vez se oponía a un proyecto determinado por considerarlo arriesgado y temerario, y lo debatía encarnizadamente hasta el final; pero cuando Andrés sometía la proposición a votación, y cuando los doce escogían hacer aquello contra lo que se babía opuesto tan enérgicamente, Tomás era el primero en decir: «V Vamos!». Era un buen perdedor. No guardaba rencor ni alimentaba resentimientos. Una y otra vez se opuso a dejar que Jesús se expusiera a un peligro, pero cuando el Maestro decidía correr ese riesgo, siempre era Tomás el que reunía a los apóstoles con sus valientes palabras: «Venid, camaradas, vamos a morir con él»._ <a id="a199_905"></a>[[LU 139:8.8](/es/The_Urantia_Book/139#p8_8)]
 
 Podemos aprender mucho de Tomás, quien mostró una increíble disposición a proseguir con el programa incluso si no coincidía plenamente con los métodos elegidos por sus líderes y actuantes compañeros de equipo.
 
@@ -183,8 +207,32 @@ Pido que aprendamos a luchar y crecer desde el conflicto y formemos poderosos eq
 
 Para cerrar este tema de «Vivir la voluntad del Padre; compartiendo a Dios, la sublime consciencia de conocer a Dios», me gustaría resumir diciendo que el auténtico valor de cualquiera experiencia genuina de vida interna espiritual es la medida en que compartimos nuestro auténtico yo con otros, la medida en que amamos fielmente, servimos a nuestros semejantes y mantenemos ese amor a través de las tormentas del tiempo. En la página 1096 leemos:
 
-> _La religión no es una técnica para llegar a una paz mental estática y dichosa; es un impulso hacia la ***organización del alma para el servicio dinámico***. [énfasis mío] Es enlistar la totalidad del yo para el servicio leal del Dios amante y para servir al hombre_ [[LU 100:3.1](/es/The_Urantia_Book/100#p3_1)]
+> _La religión no es una técnica para llegar a una paz mental estática y dichosa; es un impulso hacia la ***organización del alma para el servicio dinámico***. [énfasis mío] Es enlistar la totalidad del yo para el servicio leal del Dios amante y para servir al hombre_ <a id="a209_269"></a>[[LU 100:3.1](/es/The_Urantia_Book/100#p3_1)]
 
 Cuando el creyente está realmente movilizado por el poder espiritual que viene como resultado de la sincera consagración a hacer la voluntad de Dios, entonces los frutos del espíritu ciertamente se manifestarán; el alma se llegará a organizar para el SERVICIO DINÁMICO.
 
 Gracias por su atención. Dios les bendiga a todos.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Phil_Taylor/Jesus_Teachings_of_the_Kingdom_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las Enseñanzas De Jesús Sobre El Reino Del Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Moustapha_NDiaye/The_Spirit_of_Truth_Guardian_Angels_and_Other_Friends">
+          <span class="pr-2">El Espíritu de la Verdad, los Ángeles Guardianes y Otros Amigos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

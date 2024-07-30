@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Marc Belleau<br>© 2016 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Suzanne_Kelly/journal_editorial_february_2016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">ÉDITORIAL – Février 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-février-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Février 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Olga_Lopez/reflections_for_teachers_and_believers">
+          <span class="pr-2">Réflexions pour les éducateurs et les croyants dans la cinquième révélation d’époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left" alt="Justice Statue">
@@ -19,7 +43,7 @@ Il existe une croyance, assez répandue dans beaucoup de mouvements religieux, v
 
 Ce sont nos décisions personnelles et collectives et les accidents du temps qui entraînent les conséquences avec lesquelles nous nous débattons. Les décisions personnelles sont celles sur lesquelles nous avons le plus de contrôle. Par exemple, nous pouvons décider de ne pas faire de l’exercice régulièrement, mais cela augmente grandement le risque de mal vieillir. Les décisions collectives constituent les orientations que nous prenons en tant que société et qui influencent le sort de chaque individu. Nous avons, généralement, moins de contrôle sur ces décisions. Par exemple, le pouvoir donné à l’industrie pétrolière par nos gouvernements amène des bouleversements qui se font sentir à l’échelle mondiale ; le réchauffement planétaire en est un bon exemple. Nous pouvons voter contre les partis politiques qui favorisent ces prises de position, mais si ces derniers sont élus par la majorité, c’est l’ensemble de la planète qui en subira les conséquences. Enfin, il y a les accidents du temps sur lesquels nous n’avons aucun contrôle. Ma mère souffre de dégénérescence maculaire. Avec l’âge, elle est devenue semi-voyante. Elle n’est pas personnellement responsable de cette situation. Elle est simplement née avec des yeux moins performants ; c’est une question de génétique.
 
-> _…“Le Père qui est aux cieux n’afflige pas volontairement les enfants des hommes. Les hommes souffrent en premier lieu des accidents du temps et des imperfections du mal attaché à une existence physique encore dépourvue de maturité. En second lieu, ils souffrent des conséquences inexorables du péché — de la transgression des lois de la lumière et de la vie. Finalement, les hommes récoltent la moisson de leur propre persistance inique dans la rébellion contre la juste souveraineté du ciel sur la terre, mais leurs misères ne sont pas infligées personnellement par le jugement divin._ <a id="a44_493"></a>[[LU 148:6.11](/fr/The_Urantia_Book/148#p6_11)]
+> _…“Le Père qui est aux cieux n’afflige pas volontairement les enfants des hommes. Les hommes souffrent en premier lieu des accidents du temps et des imperfections du mal attaché à une existence physique encore dépourvue de maturité. En second lieu, ils souffrent des conséquences inexorables du péché — de la transgression des lois de la lumière et de la vie. Finalement, les hommes récoltent la moisson de leur propre persistance inique dans la rébellion contre la juste souveraineté du ciel sur la terre, mais leurs misères ne sont pas infligées personnellement par le jugement divin._ <a id="a45_590"></a>[[LU 148:6.11](/fr/The_Urantia_Book/148#p6_11)]
 
 Ce n’est donc pas la volonté du Père céleste de tourmenter sa création pour quelques raisons que ce soit. La citation précédente nous en apprend un peu plus sur l’origine de nos tribulations terrestres. Les conséquences de nos décisions proviennent de trois causes différentes :
 
@@ -29,15 +53,15 @@ Ce n’est donc pas la volonté du Père céleste de tourmenter sa création pou
 
 Les épreuves de notre vie sont des conséquences directes de la transgression de lois divines. Nous connaissons tous le célèbre dicton : « Les actes sont aux hommes et les conséquences sont à Dieu ». Pour que l’univers puisse fonctionner de façon efficace, il faut établir les règles auxquelles les individus doivent se soumettre. S’il en était autrement, ce serait l’anarchie et le chaos. Ces règles permettent de connaître les limites des droits et libertés de chacun des membres du groupe, leur fonction, le pouvoir décisionnel qu’ils peuvent exercer, etc. Lorsque nous transgressons ces règles par manque d’expérience ou de façon volontaire, nous recevons les conséquences rattachées à ces transgressions. C’est à la Trinité du Paradis que revient la gestion des lois qui régissent l’univers des univers.
 
-> _Toute loi prend origine dans la Source-Centre Première; elle est la loi. L’administration de la loi spirituelle est inhérente à la Source-Centre Seconde. La révélation de la loi, la promulgation et l’interprétation des statuts divins, est la fonction de la Source-Centre Troisième. L’application de la loi, la justice, tombe dans le domaine de la Trinité du Paradis, et elle est mise à exécution par certains Fils de la Trinité._ <a id="a54_410"></a>[[LU 16:6.1](/fr/The_Urantia_Book/16#p6_1)]
+> _Toute loi prend origine dans la Source-Centre Première; elle est la loi. L’administration de la loi spirituelle est inhérente à la Source-Centre Seconde. La révélation de la loi, la promulgation et l’interprétation des statuts divins, est la fonction de la Source-Centre Troisième. L’application de la loi, la justice, tombe dans le domaine de la Trinité du Paradis, et elle est mise à exécution par certains Fils de la Trinité._ <a id="a55_433"></a>[[LU 16:6.1](/fr/The_Urantia_Book/16#p6_1)]
 
 Dans la mythologie gréco-romaine, la justice est personnifiée par Thémis, une femme tenant une pesée et dont les yeux sont couverts d’un bandeau, symbole de l’impartialité. Cette représentation en dit long sur la nature de la justice. En effet, elle s’occupe des faits mis en lumière sans prendre l’individu en considération. Elle ne cherche pas à comprendre les motifs de l’intéressé; ce rôle est plutôt dévolu à la miséricorde. La justice veille à ce que les règles soient appliquées; elle assure le bon fonctionnement de l’ensemble en réglementant le comportement des individus. Elle est toujours administrée par des groupes de personnalités.
 
->  _La justice n’est pas l’attitude du Père, du Fils ou de l’Esprit. La justice est l’attitude trinitaire de ces personnalités d’amour, de miséricorde et de ministère. Aucune des Déités du Paradis n’assure à elle seule l’administration de la justice. La justice n’est jamais une attitude personnelle, elle est toujours une fonction plurale._ <a id="a58_500"></a>[[LU 10:6.2](/fr/The_Urantia_Book/10#p6_2)]
+>  _La justice n’est pas l’attitude du Père, du Fils ou de l’Esprit. La justice est l’attitude trinitaire de ces personnalités d’amour, de miséricorde et de ministère. Aucune des Déités du Paradis n’assure à elle seule l’administration de la justice. La justice n’est jamais une attitude personnelle, elle est toujours une fonction plurale._ <a id="a59_342"></a>[[LU 10:6.2](/fr/The_Urantia_Book/10#p6_2)]
 
 Bien que la justice soit précise et efficace, elle est toujours tempérée par la miséricorde divine. Dans ses relations personnelles avec chacune de ses créatures, Dieu en tant que Père, ne juge jamais ses enfants. À notre mort, ce ne sont pas les Ajusteurs qui décrètent notre survie, mais plutôt un groupe de 3 Fils stationnaires de la trinité : un Censeur universel, un Perfecteur de sagesse et un Conseiller divin ; ce trio juridique fonctionne au niveau de la constellation et constitue le jugement parfait de la Trinité du Paradis. Alors que la Justice est une fonction administrée par des groupes de personnalités, la miséricorde est toujours une attitude individuelle et personnelle.
 
-> _«… Le ministère de la miséricorde est toujours une affaire individuelle, tandis que la justice et ses châtiments sont la fonction de groupes administratifs de la société, du gouvernement ou de l’univers. En tant qu’individu, je suis tenu de montrer de la miséricorde.»_ <a id="a62_210"></a>[[LU 133:1.2](/fr/The_Urantia_Book/133#p1_2)]
+> _«… Le ministère de la miséricorde est toujours une affaire individuelle, tandis que la justice et ses châtiments sont la fonction de groupes administratifs de la société, du gouvernement ou de l’univers. En tant qu’individu, je suis tenu de montrer de la miséricorde.»_ <a id="a63_273"></a>[[LU 133:1.2](/fr/The_Urantia_Book/133#p1_2)]
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right" alt="Stern Father">
 <img src="/image/article/IUA_Journal/Stern-Father-300x229.jpg">
@@ -50,7 +74,7 @@ Les Ajusteurs font une utilisation sage et positive de ces expériences de vie q
 Enseigner que les catastrophes, les maladies et toutes les tribulations que nous rencontrons au cours de notre vie sont envoyées par le Père céleste dans le but d’affermir notre caractère, c’est le rendre personnellement responsable de tout ce qui nous arrive. Ce faisant, nous donnons une fausse image du caractère aimant de notre Père céleste. Dieu utilise certainement nos erreurs pour nous faire croître, mais jamais il n’envoie d’épreuves à ses enfants pour quelques raisons que ce soit. Notre imperfection, notre immaturité sont amplement suffisantes pour fournir toutes les situations difficiles que nous rencontrons au cours de notre existence. Cependant, nous pouvons apprendre à utiliser nos erreurs comme de multiples tremplins vers des niveaux de sagesse plus élevés.
 <br style="clear:both;"/>
 
-> _«…La tendance a trop souvent prévalu d’attribuer à Dieu la responsabilité de tout ce que les ignorants n’ont pas réussi à comprendre. Le Père n’est pas personnellement responsable de tout ce que vous ne comprenez pas. Ne doutez pas de l’amour du Père simplement parce qu’une loi juste et sage de ses ordonnances vous afflige pour avoir involontairement ou délibérément transgressé une ordonnance divine.»_ <a id="a75_417"></a>[[LU 148:5.4](/fr/The_Urantia_Book/148#p5_4)]
+> _«…La tendance a trop souvent prévalu d’attribuer à Dieu la responsabilité de tout ce que les ignorants n’ont pas réussi à comprendre. Le Père n’est pas personnellement responsable de tout ce que vous ne comprenez pas. Ne doutez pas de l’amour du Père simplement parce qu’une loi juste et sage de ses ordonnances vous afflige pour avoir involontairement ou délibérément transgressé une ordonnance divine.»_ <a id="a76_409"></a>[[LU 148:5.4](/fr/The_Urantia_Book/148#p5_4)]
 
 
 ## Références
@@ -59,3 +83,28 @@ Enseigner que les catastrophes, les maladies et toutes les tribulations que nous
 - [Ce numéro](https://urantia-association.org/newsletter/journal-fevrier-2016/?lang=fr)
 - [Cet article](https://urantia-association.org/dieu-le-grand-responsable/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Suzanne_Kelly/journal_editorial_february_2016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">ÉDITORIAL – Février 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-février-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Février 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Olga_Lopez/reflections_for_teachers_and_believers">
+          <span class="pr-2">Réflexions pour les éducateurs et les croyants dans la cinquième révélation d’époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

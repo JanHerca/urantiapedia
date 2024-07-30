@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Bhagavan S. Buritz<br>© 2000 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeff_Wattles/The_Urantia_Book_and_Human_Sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia y las fuentes humanas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-junio-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Junio 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Peep_Sober/News_from_Estonia_First_conference">
+          <span class="pr-2">Noticias de Estonia: Primera conferencia para niños sobre El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bhagavan S. Buritz, EE.UU.A.
 
@@ -62,7 +86,7 @@ Ellos movieron sus cabezas afirmativamente.
 
 Podía ver la luz brillar en sus ojos. Podía sentir mi corazón abierto y mi alma crecer mientras añadía este recuerdo a la galería de imágenes de mi alma. En ese momento pude oír tocar en mi corazón la campana de plata de la verdad. Di todas las gracias al Amado Invisible que nos habita y nos escucha desde el centro del universo. Di gracias entonces y mientras escribo estas líneas, doy gracias a nuestro Padre Invisible y a Cristo Miguel.
 
-Del discurso de despedida sabemos estos hechos: _Cuando Jesús escucbó a Tomás, contestó: «Tomás, yo soy el camino, la verdady la vida. Ningún bombre va al Padre excepto a través de mí. Todos los que encuentran al Padre, primero me encuentran a mí. Si vosotros me conocéis, conocéis el camino al Padre. Y me conocéis porque babéis vivido conmigo y abora me veis.»_ [LU 180:3.7](/es/The_Urantia_Book/180#p3_7)
+Del discurso de despedida sabemos estos hechos: _Cuando Jesús escucbó a Tomás, contestó: «Tomás, yo soy el camino, la verdady la vida. Ningún bombre va al Padre excepto a través de mí. Todos los que encuentran al Padre, primero me encuentran a mí. Si vosotros me conocéis, conocéis el camino al Padre. Y me conocéis porque babéis vivido conmigo y abora me veis.»_ <a id="a88_364"></a>[LU 180:3.7](/es/The_Urantia_Book/180#p3_7)
 
 Nosotros los lectores de _El libro de Urantia_ sabemos los hechos, pero nuestro gozo es encontrar la verdad y compartirla.
 
@@ -89,3 +113,27 @@ En la feria del libro de Delhi de agosto de 1999, hablamos acerca detener un gru
 Comenzamos con una breve oración en silencio y nos sumergimos en el capítulo 100 , «La religión en la experiencia humana». Como en muchos grupos de estudio, la conversación saltó de un lado a otro. Fue difícil traer la conversación de vuelta al tema sin ser rudo. Me impresionó el que en unos cuantos días, estos nuevos lectores dieran con auténticas gemas en el libro. _El libro de Urantia_ apela a la mente india y cuando regresemos en agosto, puede que encontremos algunos expertos en _El libro de Urantia_.
 
 No deseo regresar al calor, sordidez y contaminación de Nueva Delhi en agosto del 2000, pero sí deseo ver el jardín indio de Urantia. ¿Cuánto habrán crecido las semillas?
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeff_Wattles/The_Urantia_Book_and_Human_Sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia y las fuentes humanas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-junio-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Junio 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Peep_Sober/News_from_Estonia_First_conference">
+          <span class="pr-2">Noticias de Estonia: Primera conferencia para niños sobre El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

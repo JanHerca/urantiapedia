@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ralph D. Zehr<br>© 2000 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Barr/The_Privilege_of_Having_God_as_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Privilegio De Tener Dios Como Padre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens_2">
+          <span class="pr-2">La familia —lugar de nacimiento de los ciudadanos del cosmos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Ralph D. Zehr, 
 New York, USA 
@@ -83,3 +107,27 @@ Era inusualmente alegre pero no era un ciego optimista. Era cándido pero siempr
 Mientras vivía una vida de inspiración para todo el universo, fraternizaba con los niños.
 
 > _Jesús fue una personalidad bumana perfectamente unificada. Y hoy, como en Galilea, sigue unificando la experiencia mortal y coordinando las empresas humanas. Unifica la vida, ennoblece el carácter y simplifica la experiencia. Entra en la mente humana para elevar, transformar y transfigurar. Es literalmente verdad: «Si un bombre tiene dentro de sí a Jesús Cristo, es él una criatura nueva; las cosas viejas pasaron; he aquí todas son bechas nuevas»_ [[UB 100:7.18](/en/The_Urantia_Book/100#p7_18)]
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Barr/The_Privilege_of_Having_God_as_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Privilegio De Tener Dios Como Padre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens_2">
+          <span class="pr-2">La familia —lugar de nacimiento de los ciudadanos del cosmos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

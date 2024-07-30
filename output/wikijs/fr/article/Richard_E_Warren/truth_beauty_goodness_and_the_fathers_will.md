@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Richard E. Warren<br>© 2024 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Blackham/dealing_with_conflict_in_a_spiritual_life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gérer les conflits dans une vie spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Richard E. Warren, États-Unis_
 
@@ -18,7 +39,7 @@ _Richard E. Warren, États-Unis_
 
 ## Partie 1 de 3
 
-> Pour les créatures finies, matérielles et évolutionnaires, une vie basée sur le fait de vivre la volonté du Père conduit directement à l’obtention de la suprématie de l’esprit dans le cadre de la personnalité et rapproche un peu plus ces créatures de la compréhension du Père-Infini. La vie ainsi centrée sur le Père est fondée sur la vérité, sensible à la beauté et dominée par la bonté. [LU 106:9.12](/fr/The_Urantia_Book/106#p9_12)
+> Pour les créatures finies, matérielles et évolutionnaires, une vie basée sur le fait de vivre la volonté du Père conduit directement à l’obtention de la suprématie de l’esprit dans le cadre de la personnalité et rapproche un peu plus ces créatures de la compréhension du Père-Infini. La vie ainsi centrée sur le Père est fondée sur la vérité, sensible à la beauté et dominée par la bonté. <a id="a41_391"></a>[LU 106:9.12](/fr/The_Urantia_Book/106#p9_12)
 
 Lorsque l’aventure de l’organisation du temps et de l’espace commença, Dieu ordonna à un univers imparfait de : « Soyez parfaits comme je suis parfait ». Avec le temps, en même temps que le reste de la création, nous atteindrons la perfection et nous satisferons à ce commandement prééminent et organisateur du Père de tous en vivant la vérité, en créant la beauté et en accomplissant la bonté.
 
@@ -28,7 +49,7 @@ Lorsque l’aventure de l’organisation du temps et de l’espace commença, Di
 
 L’acte de libre arbitre du Père a créé l’univers principal dans lequel nous vivons, nous aimons et nous servons. Nos actes cumulés de libre arbitre créent une âme à partir de valeurs divines. L’âme s’unit alors à Dieu pour explorer l’univers. Jour après jour, nous choisissons des valeurs qui nous unifient progressivement avec les valeurs de Dieu, la vérité, la bonté et la beauté, ou bien nous faisons des choix qui nous désunissent. Chaque pas que nous faisons est soit en harmonie avec la volonté parfaite du Père, soit le contraire. Notre premier pas vers la perfection du Paradis est fait ici sur Urantia, notre premier choix moral. Il provoque la descente du fragment divin du Paradis pour nous habiter. Ce fragment de Dieu connaît le chemin du retour à la perfection par l’union de notre volonté avec la volonté de la source du fragment. Par une série de choix de valeurs basés sur notre accord avec l’habitant, nous consacrons finalement et irrévocablement notre carrière éternelle au discernement et à l’exécution de la bonne volonté du Père. Mais nous sommes aussi habités par l’Esprit de Vérité — le don de Jésus à l’humanité. Ce don nous indique toujours le chemin vers Dieu. Et n’oublions pas nos anges qui travaillent toujours à notre progrès dans le discernement et l’exécution de la volonté du Père.
 
-> La vérité révélée, la vérité découverte personnellement, est la suprême volupté de l’âme humaine. Elle est la création conjointe du mental matériel et de l’esprit intérieur. Le salut éternel d’une âme qui discerne la vérité et aime la beauté est assuré par cette faim et cette soif de bonté qui conduisent ce mortel à se proposer un but unique, celui de faire la volonté du Père, de trouver Dieu et de devenir semblable à lui. [LU 132:3.4](/fr/The_Urantia_Book/132#p3_4)
+> La vérité révélée, la vérité découverte personnellement, est la suprême volupté de l’âme humaine. Elle est la création conjointe du mental matériel et de l’esprit intérieur. Le salut éternel d’une âme qui discerne la vérité et aime la beauté est assuré par cette faim et cette soif de bonté qui conduisent ce mortel à se proposer un but unique, celui de faire la volonté du Père, de trouver Dieu et de devenir semblable à lui. <a id="a51_429"></a>[LU 132:3.4](/fr/The_Urantia_Book/132#p3_4)
 
 Le thème central du _Livre d’__Urantia_ est de trouver le Père de l’amour, d’apprendre et finalement d’accomplir la volonté divine à la perfection. Ce faisant, nous devenons plus semblables à Dieu. Nous le faisons parce que nous réalisons que ne pas se plier à la volonté du Père conduit à la folie, à l’anarchie et au désordre, à la fois personnel et social.
 
@@ -42,7 +63,7 @@ En essayant de faire la volonté parfaite du Père, nous pourrions faire le prem
 
 Nous avons besoin d’un Père grandiose et d’une famille diversifiée pour accomplir la volonté parfaite de Dieu dans le temps et l’éternité. L’interaction avec les autres ascendants est la sage politique du Paradis. Le schéma du cosmos veut que nous acquérions ce dont nous avons besoin en donnant aux autres ce dont ils ont besoin, jusqu’à la perfection. En fin de compte, nous voulons accomplir les ordres de notre Père parce que nous découvrons que Dieu nous aime si profondément, personnellement et intimement que faire la volonté divine devient non seulement notre salut, mais aussi notre plus grand désir, notre souhait le plus cher, notre plaisir favori et notre motivation éternelle.
 
-> En vérité, en vérité, je vous le dis, quand la volonté du Père est votre _loi,_ vous n’êtes guère dans le royaume. Mais, quand la volonté du Père devient vraiment votre _volont__é,_ alors vous êtes en toute vérité dans le royaume, parce que le royaume est devenu de ce fait une expérience établie en vous. Quand la volonté de Dieu est votre loi, vous êtes de nobles sujets esclaves ; mais, quand vous croyez à ce nouvel évangile de filiation divine, la volonté de mon Père devient votre volonté, et vous êtes élevés à la haute position de libres enfants de Dieu, de fils affranchis du royaume. [LU 141:2.2](/fr/The_Urantia_Book/141#p2_2)
+> En vérité, en vérité, je vous le dis, quand la volonté du Père est votre _loi,_ vous n’êtes guère dans le royaume. Mais, quand la volonté du Père devient vraiment votre _volont__é,_ alors vous êtes en toute vérité dans le royaume, parce que le royaume est devenu de ce fait une expérience établie en vous. Quand la volonté de Dieu est votre loi, vous êtes de nobles sujets esclaves ; mais, quand vous croyez à ce nouvel évangile de filiation divine, la volonté de mon Père devient votre volonté, et vous êtes élevés à la haute position de libres enfants de Dieu, de fils affranchis du royaume. <a id="a65_596"></a>[LU 141:2.2](/fr/The_Urantia_Book/141#p2_2)
 
 Jésus a laissé à notre disposition un outil polyvalent, une « règle d’or ». Si un ascendant ne peut pas discerner la volonté divine d’une autre manière, alors la question « que ferais-je si la situation était inversée ? » peut éclairer le chemin. Mais cette règle d’or est assortie de réserves. Elle doit être imprégnée d’une sagesse née de l’esprit et d’un accord divin afin de résoudre la situation de manière durable. La règle d’or produit le plus de bonté, de beauté et de vérité lorsqu’elle est appliquée par des enfants de foi centrés sur Dieu. La bonté de Dieu donne à l’univers un centre moral et la règle d’or fournit une norme divine de moralité.
 
@@ -52,7 +73,7 @@ Le Père prend un risque chaque fois que le libre arbitre est accordé à des cr
 
 Juste avant de quitter Urantia, Jésus a dit :
 
-> Et cet Esprit de Vérité, que j’effuserai sur vous, vous guidera, vous consolera et, en fin de compte, vous conduira dans toute la vérité. [LU 180:4.2](/fr/The_Urantia_Book/180#p4_2)
+> Et cet Esprit de Vérité, que j’effuserai sur vous, vous guidera, vous consolera et, en fin de compte, vous conduira dans toute la vérité. <a id="a75_140"></a>[LU 180:4.2](/fr/The_Urantia_Book/180#p4_2)
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left" alt="cosmic-atoms">
 <img src="/image/article/IUA_Journal/cosmic-atoms.jpg">
@@ -61,7 +82,7 @@ Juste avant de quitter Urantia, Jésus a dit :
 La volonté parfaite de Dieu est impliquée dans tout ce que nous faisons, mais surtout dans nos intentions. Le Père sait que nous ne sommes pas parfaits à ce stade, aussi les intentions deviennent-elles le critère de l’accomplissement de la volonté divine. Le vieil axiome selon lequel l’enfer est pavé de bonnes intentions est faux à deux égards : l’enfer n’existe pas et les bonnes intentions sont le chemin du paradis. Les bonnes intentions et l’imperfection se combinent pour produire des erreurs, qui aboutissent à la sagesse. Nous corrigeons le cap en tirant les dures leçons des erreurs commises, en manquant ou en interprétant mal la volonté divine. C’est une belle réponse que nous donnons au défi du Père de nous perfectionner dans le temps et l’espace, de connaître la plénitude de la vérité.
 <br style="clear:both;"/>
 
-> Quiconque choisit de faire la volonté divine connaîtra le chemin de la vérité. [LU 102:1.1](/fr/The_Urantia_Book/102#p1_1)
+> Quiconque choisit de faire la volonté divine connaîtra le chemin de la vérité. <a id="a84_81"></a>[LU 102:1.1](/fr/The_Urantia_Book/102#p1_1)
 
 Les univers spatio-temporels sont conçus pour créer le caractère, pour développer en nous les valeurs de bonté du Père, les plaisirs de la beauté et les satisfactions de la vérité vivante. Faire la volonté divine ajoute toujours à notre histoire, à nos valeurs et à notre caractère, tout en nous procurant les joies d’une participation significative aux affaires de l’univers.
 
@@ -77,13 +98,13 @@ Lorsque nous aurons « choisi éternellement et sans réserve de faire la volon
 
 Le chemin vers l’unité, la fusion, avec Dieu est de vivre la vérité, de faire la volonté de Dieu. Cela peut être un défi, mais la volonté du Père est rarement un lourd fardeau. C’est généralement un plaisir divin, une joie de participation. Jésus a enseigné :
 
-> Le joug de l’évangile est facile à porter et que le fardeau de la vérité est léger. [LU 159:3.7](/fr/The_Urantia_Book/159#p3_7)
+> Le joug de l’évangile est facile à porter et que le fardeau de la vérité est léger. <a id="a100_86"></a>[LU 159:3.7](/fr/The_Urantia_Book/159#p3_7)
 
 Faire la volonté de Dieu est peut-être la plus haute vertu humaine, mais, comme l’adoration, c’est l’une des expériences les plus satisfaisantes et les plus gratifiantes qui soient à la disposition des humains. De toutes les activités possibles, faire la volonté du Père est la seule qui soit réellement et perpétuellement satisfaisante. De la coopération volontaire et enthousiaste au plan divin naissent l’énergie du service, notre bonheur, notre plénitude, notre santé physique, mentale et spirituelle, et même notre caractère, l’accumulation de valeurs sublimes qui s’expriment le mieux dans les mots : vérité, beauté, bonté et amour.
 
 La volonté de Dieu est toujours vraie et bonne. En vivant cette bonté et cette vérité, nous servons la famille de l’univers, car tout bon service rendu s’accumule pour le bien de tous. Mais la volonté du Père n’est pas une peine de prison, un fardeau écrasant ou une tâche herculéenne. Il s’agit plutôt d’un défi lancé par le Père aux enfants éclairés du temps et de l’espace pour qu’ils recherchent la perfection personnelle dans leurs expressions vivantes de la beauté, de la vérité et de la bonté.
 
-> La volonté de Dieu est la divine vérité, l’amour vivant. Les créations en voie de perfectionnement dans les univers évolutionnaires sont donc caractérisées par la bonté. [LU 3:6.2](/fr/The_Urantia_Book/3#p6_2)
+> La volonté de Dieu est la divine vérité, l’amour vivant. Les créations en voie de perfectionnement dans les univers évolutionnaires sont donc caractérisées par la bonté. <a id="a106_172"></a>[LU 3:6.2](/fr/The_Urantia_Book/3#p6_2)
 
 Devrions-nous calculer le coût de l’abandon de notre volonté au profit de la volonté divine avant de nous y engager pour l’éternité ? Soyez assuré qu’il vous en coûtera tout, mais la récompense est tout ce qu’il y a en retour. Peut-être pas dans l’ordre de nos préférences parce que le Père organise sagement l’Univers, et cela crée le besoin de patience, d’indulgence, et d’une grande perspective — la sagesse. Nous ferons et obtiendrons tout ce que nous voulons dans le temps et l’éternité — si cela vaut la peine d’être fait et d’être obtenu. La partie la plus belle de l’abandon de notre volonté au Père est l’accomplissement spirituel, l’implication divine.
 
@@ -93,7 +114,7 @@ Comment dédier notre volonté à la volonté divine ? La réponse se trouve à
 
 Lorsque la sincérité est suffisamment profonde, les volontés humaine et divine peuvent se rencontrer et s’accorder. Cette sincérité provient de notre choix préalable, de nos prières sages, de notre adoration profonde, de notre compréhension durement acquise, de notre expérience et de notre capacité toujours croissante à comprendre les vérités spirituelles. En substance, Jésus a dit :
 
-> La volonté de Dieu est la voie de Dieu, et cette voie est une association avec le choix de Dieu devant chaque alternative potentielle. Par conséquent, faire la volonté de Dieu est l’expérience progressive qui consiste à devenir de plus en plus semblable à Dieu, Dieu étant la source et la destinée de tout ce qui est bon, beau et vrai. [LU 130:2.7](/fr/The_Urantia_Book/130#p2_7)
+> La volonté de Dieu est la voie de Dieu, et cette voie est une association avec le choix de Dieu devant chaque alternative potentielle. Par conséquent, faire la volonté de Dieu est l’expérience progressive qui consiste à devenir de plus en plus semblable à Dieu, Dieu étant la source et la destinée de tout ce qui est bon, beau et vrai. <a id="a116_338"></a>[LU 130:2.7](/fr/The_Urantia_Book/130#p2_7)
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right" alt="blue-flower">
 <img src="/image/article/IUA_Journal/blue-flower.jpg">
@@ -108,7 +129,7 @@ L’erreur, le mal, le péché et l’iniquité sont tous potentiels dans l’es
 Faire la volonté de Dieu n’est ni plus ni moins que se mettre en harmonie avec la Divinité. Jésus l’a fait à la perfection et nous pouvons, sinon atteindre la perfection, du moins y aspirer. Le plan global et plein de sagesse du Père pour une expansion universelle sans fin des réalités et des valeurs de la vérité, de la beauté et de la bonté est parfait et complet. Mais aucune créature ne sera forcée de se conformer à ce plan pour faire la volonté du Père. Même si Dieu a le monopole de la destinée de l’univers et que vos expériences sont essentielles au développement de l’univers, vous ne serez jamais contraints de faire la volonté de Dieu. Le Père dirige par l’amour, et aucune autre pression ou force n’est nécessaire pour inciter les créatures personnelles à lui rendre service et à l’adorer — une fois que vous connaissez cet amour.
 <br style="clear:both;"/>
 
-> Une expérience est bonne quand elle élève l’appréciation de la beauté, accroit la volonté morale, rehausse le discernement de la vérité, développe l’aptitude à aimer et à servir ses semblables, exalte les idéaux spirituels et unifie les suprêmes mobiles humains du temps avec les plans éternels de l’Ajusteur intérieur. Tout cela conduit directement au désir accru de faire la volonté du Père, ce qui entretient la passion divine de trouver Dieu et de devenir davantage semblable à lui. [LU 132:2.5](/fr/The_Urantia_Book/132#p2_5)
+> Une expérience est bonne quand elle élève l’appréciation de la beauté, accroit la volonté morale, rehausse le discernement de la vérité, développe l’aptitude à aimer et à servir ses semblables, exalte les idéaux spirituels et unifie les suprêmes mobiles humains du temps avec les plans éternels de l’Ajusteur intérieur. Tout cela conduit directement au désir accru de faire la volonté du Père, ce qui entretient la passion divine de trouver Dieu et de devenir davantage semblable à lui. <a id="a131_489"></a>[LU 132:2.5](/fr/The_Urantia_Book/132#p2_5)
 
 La révélation selon laquelle les humains devraient s’efforcer de ressembler à Dieu est nouvelle et exige notre plus grande sagesse pour connaître la différence entre ressembler à Dieu et être Dieu. Chercher et faire la volonté du Père nous fait ressembler de plus en plus à Dieu. C’est bon pour le corps, l’esprit et l’âme, car cela nous met en harmonie avec la source de la bonté et du bien-être. La santé et le bonheur sont les effets secondaires d’une vie divinement harmonieuse, même lorsque la vie est difficile. Jésus a réussi à sourire à sa mère alors qu’il était suspendu à la croix.
 
@@ -128,11 +149,11 @@ Nous vivons dans un cosmos personnel dirigé et surveillé par le Père. La volo
 
 Notre relation la plus longue, qu’elle soit réalisée ou non, a été avec la divinité vivant à l’intérieur de nous. Dès avant la naissance, la Divine Ministre nous a nourris d’esprit, Micaël nous a nourris de l’Esprit de Vérité, et lorsque nous n’étions qu’un enfant, notre Père nous a remplis de son esprit intérieur, le puissant Ajusteur.
 
-> L’Ajusteur donné à l’homme est, en dernière analyse, imperméable au mal et incapable de pécher, mais le mental mortel peut effectivement être dénaturé, déformé et rendu laid et mauvais par les machinations coupables d’une volonté humaine égoïste et perverse. De même, ce mental peut être rendu noble, beau, vrai et bon — effectivement grand — en accord avec la volonté illuminée par l’esprit d’un être humain connaissant Dieu. [LU 111:1.6](/fr/The_Urantia_Book/111#p1_6)
+> L’Ajusteur donné à l’homme est, en dernière analyse, imperméable au mal et incapable de pécher, mais le mental mortel peut effectivement être dénaturé, déformé et rendu laid et mauvais par les machinations coupables d’une volonté humaine égoïste et perverse. De même, ce mental peut être rendu noble, beau, vrai et bon — effectivement grand — en accord avec la volonté illuminée par l’esprit d’un être humain connaissant Dieu. <a id="a151_429"></a>[LU 111:1.6](/fr/The_Urantia_Book/111#p1_6)
 
 Nous, humains, avons le choix de déclarer que c’est notre volonté qui domine ou celle de notre Père. C’est le seul vrai choix que nous ayons. Si nous échouons à plusieurs reprises à faire le choix de la vie éternelle, les crédits de miséricorde entrent en jeu. Même le péché est autorisé et pardonné jusqu’à ce qu’un choix final et conscient soit fait entre notre volonté personnelle et la volonté divine, entre la vérité et l’erreur, le bien et le mal, la laideur et la beauté. Les fils et filles prodigues du monde ne sont peut-être pas parfaits, mais nous trouvons un foyer juste dans un Dieu bon, vrai et beau. Lorsque nous trouvons Dieu, nous perdons le goût du mal et du péché.
 
-> Le Maitre vint pour créer chez l’homme un nouvel esprit, une nouvelle volonté — pour lui communiquer une nouvelle capacité de connaître la vérité, d’éprouver de la compassion et de choisir la bonté — la volonté d’être en harmonie avec la volonté de Dieu, doublée de l’impulsion éternelle de devenir parfait comme le Père qui est aux cieux est parfait. [LU 140:8.32](/fr/The_Urantia_Book/140#p8_32)
+> Le Maitre vint pour créer chez l’homme un nouvel esprit, une nouvelle volonté — pour lui communiquer une nouvelle capacité de connaître la vérité, d’éprouver de la compassion et de choisir la bonté — la volonté d’être en harmonie avec la volonté de Dieu, doublée de l’impulsion éternelle de devenir parfait comme le Père qui est aux cieux est parfait. <a id="a155_354"></a>[LU 140:8.32](/fr/The_Urantia_Book/140#p8_32)
 
 À mesure que nous grandissons en expérience avec la présence de notre Père, que nous commençons à comprendre l’ampleur de Dieu et sa présence personnelle en nous, nous commencerons aussi à ressentir comme un honneur, un privilège et une occasion incomparable d’accomplir la volonté divine. Et pour connaître et accomplir la volonté divine, il est essentiel que nous comprenions mieux Dieu.
 
@@ -140,7 +161,7 @@ La meilleure façon pour nous de voir la nature de notre Père est à travers le
 
 Le Père Universel a évidemment voulu des enfants qui naissent parfaits, comme notre famille Havonienne, un milliard de mondes parfaits habités par les modèles de perfection vers lesquels nous pouvons nous élever. Dieu a également créé des enfants qui atteignent la perfection en émulant la bonne illustration de la perfection de Havona et en voyant l’exemple des révélateurs de vérité du temps et de l’espace comme Jésus.
 
-> Tandis que les mortels s’efforcent de faire la volonté de Dieu, ces êtres de l’univers central vivent pour satisfaire les idéaux de la Trinité du Paradis. Dans leur nature même, ils _sont_ la volonté de Dieu. Les hommes se réjouissent de la bonté de Dieu, les Havoniens exultent dans la divine beauté, et les deux bénéficient du secours libératoire de la vérité vivante. [LU 14:4.13](/fr/The_Urantia_Book/14#p4_13)
+> Tandis que les mortels s’efforcent de faire la volonté de Dieu, ces êtres de l’univers central vivent pour satisfaire les idéaux de la Trinité du Paradis. Dans leur nature même, ils _sont_ la volonté de Dieu. Les hommes se réjouissent de la bonté de Dieu, les Havoniens exultent dans la divine beauté, et les deux bénéficient du secours libératoire de la vérité vivante. <a id="a163_373"></a>[LU 14:4.13](/fr/The_Urantia_Book/14#p4_13)
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left" alt="hand">
 <img src="/image/article/IUA_Journal/hand.jpg">
@@ -153,7 +174,7 @@ Si l’harmonie est le discours de Havona, son langage est la volonté du Père.
 À un Père qui crée et accorde tout, il n’y a qu’un seul cadeau significatif que nous pouvons offrir en retour, un cadeau que Dieu n’a pas la possibilité de créer seul. Il s’agit du don de notre coopération sincère et aimante avec le plan divin de développement éternel et infini — y compris notre expérience.
 <br style="clear:both;"/>
 
-> Le Jésus humain voyait Dieu comme étant saint, juste et grand, aussi bien que vrai, beau et bon. Il focalisa dans son mental tous ces attributs de divinité en tant que « volonté du Père qui est aux cieux ». [LU 196:0.2](/fr/The_Urantia_Book/196#p0_2)
+> Le Jésus humain voyait Dieu comme étant saint, juste et grand, aussi bien que vrai, beau et bon. Il focalisa dans son mental tous ces attributs de divinité en tant que « volonté du Père qui est aux cieux ». <a id="a176_209"></a>[LU 196:0.2](/fr/The_Urantia_Book/196#p0_2)
 
 Lors de l’inauguration de Micaël en tant que nouveau souverain local de l’univers, après s’être octroyé pendant un milliard d’années sept niveaux d’existence des créatures, alors qu’il était encensé de toutes parts, il déclara simplement qu’il faisait la volonté du Père. Nous avons un guide infaillible en Micaël et un exemple superlatif de vie de la volonté divine, même sur un monde arriéré, retardé et rongé par le mal comme Urantia.
 
@@ -163,17 +184,17 @@ La présence de Micaël sur la planète et en son sein depuis la Pentecôte, l�
 <img src="/image/article/IUA_Journal/clouds-Gerd-Altmann-706x397.jpg">
 </figure>
 
-> Si mes paroles demeurent en vous, et si vous êtes disposés à faire la volonté de mon Père, alors vous êtes vraiment mes disciples. Vous connaîtrez la vérité, et la vérité vous affranchira. [LU 162:7.2](/fr/The_Urantia_Book/162#p7_2)
+> Si mes paroles demeurent en vous, et si vous êtes disposés à faire la volonté de mon Père, alors vous êtes vraiment mes disciples. Vous connaîtrez la vérité, et la vérité vous affranchira. <a id="a186_191"></a>[LU 162:7.2](/fr/The_Urantia_Book/162#p7_2)
 
 Dieu veut notre coopération _volontaire_ et dévouée, il veut que notre libre arbitre devienne identique à la volonté divine. Il s’agit en grande partie d’altruisme. Allons-nous nous servir nous-mêmes ou servir le Soi ? Et si nous servons Dieu, ne sommes-nous pas également en train de nous servir nous-mêmes ? Nous avons été informés, et nous pouvons le savoir par l’observation, que le bien d’un seul contribue au bien de tous.
 
-> La venue de l’Esprit de vérité purifie le cœur humain et conduit ses bénéficiaires à formuler un but de vie unifié avec la volonté de Dieu et le bienêtre des hommes. [LU 194:3.19](/fr/The_Urantia_Book/194#p3_19)
+> La venue de l’Esprit de vérité purifie le cœur humain et conduit ses bénéficiaires à formuler un but de vie unifié avec la volonté de Dieu et le bienêtre des hommes. <a id="a190_168"></a>[LU 194:3.19](/fr/The_Urantia_Book/194#p3_19)
 
 Nous avons un guide parfait dans l’Esprit de Vérité, et nous avons un but parfait, c’est pourquoi la voie est ouverte au Paradis. Ce sont d’anciens sentiers menant à la demeure divine que nous suivons maintenant. Tous les vrais chemins mènent à Dieu, même si personne ne se rend au Paradis par le même chemin. Et tous ceux qui les étudient apprennent que la vérité, la bonté et la beauté du Père sont les cartes routières qui permettent de connaître le caractère divin, la nature et la volonté divine.
 
 Nous devons découvrir la primauté de la volonté du Père dans notre vie intérieure afin de saisir notre rôle et de prendre ensuite des décisions fondées sur la vérité, la bonté et la beauté de Dieu — des décisions qui assurent la survie de notre âme. Dieu pourrait exister éternellement sans nous, même si nous ne pouvons pas vivre et aimer ne serait-ce qu’une minute sans lui. Il existe un plan qui implique chaque âme qui acceptera de coopérer avec Dieu dans la réalisation du dessein divin, l’actualisation du Suprême, de l’Ultime et, finalement, de l’Absolu.
 
-> Je déclare que le royaume des cieux est la réalisation et la récognition de la loi de Dieu dans le cœur des hommes. [LU 141:2.1](/fr/The_Urantia_Book/141#p2_1)
+> Je déclare que le royaume des cieux est la réalisation et la récognition de la loi de Dieu dans le cœur des hommes. <a id="a196_118"></a>[LU 141:2.1](/fr/The_Urantia_Book/141#p2_1)
 
 Notes: [https://en.wikipedia.org/wiki/Transcendentals](https://en.wikipedia.org/wiki/Transcendentals)
 
@@ -182,3 +203,24 @@ Notes: [https://en.wikipedia.org/wiki/Transcendentals](https://en.wikipedia.org/
 - [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal/)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2024/?lang=fr)
 - [Cet article](https://urantia-association.org/verite-beaute-bonte-et-la-volonte-du-pere/?lang=fr)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Blackham/dealing_with_conflict_in_a_spiritual_life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gérer les conflits dans une vie spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

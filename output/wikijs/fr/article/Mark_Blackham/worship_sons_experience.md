@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Mark Blackham<br>© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeannie_Vazquez_de_Abreu/function_of_prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La fonction de la prière pour fortifier notre Foi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/meaning_of_worship">
+          <span class="pr-2">La signification de l’adoration et du service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## L’Expérience de la vie
@@ -49,9 +73,9 @@ Vous commencez à comprendre que la situation difficile de mon père était enco
 
 La considération consciente de mes problèmes non résolus, de la vie de mon père, et la naissance de mon pardon apportèrent des changements et les expériences de guérison qui suivirent furent profondes. Je ne me sentais pas seulement beaucoup mieux dans ma peau, mais je découvris un intérêt nouveau et stimulant pour toutes les choses spirituelles, ce qui me conduisit à porter un nouveau regard sur la vie et les enseignements de Jésus. Tandis que j’étudiais et absorbais de nouveau ces fascicules, je sentis le commencement d’une transformation spirituelle, et lorsque je tombai sur les passages suivants, ce fut comme si je les lisais pour la première fois.
 
-> _Le temps passant, les pères et les enfants s’aimeront davantage les uns les autres, ce qui amènera une meilleure compréhension de l’amour du Père qui est aux cieux pour ses enfants terrestres._ <a id="a74_191"></a>[[LU 142:2.2](/fr/The_Urantia_Book/142#p2_2)]
+> _Le temps passant, les pères et les enfants s’aimeront davantage les uns les autres, ce qui amènera une meilleure compréhension de l’amour du Père qui est aux cieux pour ses enfants terrestres._ <a id="a75_197"></a>[[LU 142:2.2](/fr/The_Urantia_Book/142#p2_2)]
 > 
-> _Tant que nous apprenons à l’enfant à prier “ Notre Père qui est aux cieux” , tous les pères terrestres porteront l’immense responsabilité de vivre et d’ordonner leur foyer de telle sorte que le mot père soit dignement enchâssé dans le mental et le cœur de tous les enfants qui grandissent._ <a id="a76_263"></a>[[LU 177:2.7](/fr/The_Urantia_Book/177#p2_7)]
+> _Tant que nous apprenons à l’enfant à prier “ Notre Père qui est aux cieux” , tous les pères terrestres porteront l’immense responsabilité de vivre et d’ordonner leur foyer de telle sorte que le mot père soit dignement enchâssé dans le mental et le cœur de tous les enfants qui grandissent._ <a id="a77_294"></a>[[LU 177:2.7](/fr/The_Urantia_Book/177#p2_7)]
 
 Ce ne fut qu’après une étude de la vie de Jésus que je fus capable de chasser mes notions fausses et bien ancrées sur la paternité pour les remplacer par de meilleures idées sur ce que devrait être un père idéal. Plus j’en vins à connaitre Jésus, plus je l’aimai, et cet amour conduisit finalement à la séparation consciente et finale de la nature de mon père terrestre avec celle de mon Père céleste. J’en vins à remplacer une identité de peur par une autre d’amour, le ridicule par le respect, la cruauté par la compassion, et l’intimidation par la consolation. Je commençais finalement à comprendre et à accepter dans mon cœur la vraie nature de mon Père divin et, avec un certain plaisir, j’en vins à réaliser qu’_il m’aime vraiment._
 
@@ -73,7 +97,7 @@ La plupart d’entre nous comprennent l’adoration comme un acte de vénératio
 
 Ezra, le tenancier de taverne de Syracuse, dit à Jésus qu’il ne pouvait trouver Dieu. Mais Jésus lui dit :
 
-> _Ton problème n’est pas ton incapacité de trouver Dieu, car le Père t’a déjà trouvé ; il provient simplement de ce que tu ne connais pas Dieu._ <a id="a98_139"></a>[[LU 130:8.2](/fr/The_Urantia_Book/130#p8_2)]
+> _Ton problème n’est pas ton incapacité de trouver Dieu, car le Père t’a déjà trouvé ; il provient simplement de ce que tu ne connais pas Dieu._ <a id="a99_146"></a>[[LU 130:8.2](/fr/The_Urantia_Book/130#p8_2)]
 
 Connaitre Dieu c’est l’aimer, et aimer Dieu c’est le connaitre. Plus nous en venons à le connaitre, plus nous désirons vraiment l’adorer ; cela devient une réaction naturelle et spontanée. Nous adorons Dieu pour ce que nous comprenons qu’il est, ce qui est notre idée la plus élevée de la personnalité et de la divinité de la Déité. Et c’est une raison pour laquelle _Le Livre d’Urantia_ dédie l’Introduction et les cinq premiers fascicules à une compréhension de la nature, des attributs et des relations de Dieu. Mais nulle part dans le livre la connaissance du Créateur n’est portée à un niveau aussi humain de compréhension que dans la vie et les enseignements de Jésus, notre Père incarné.
 
@@ -98,7 +122,7 @@ L’adoration est un choix, un choix puissant. Le seul pouvoir que nous avons vr
 Nous accédons à la véritable adoration en étant sincèrement reconnaissants. Et une manière d’amener notre intelligence dans cet état d’adoration est d’exprimer des prières de gratitude. Si vous doutez de ce pour quoi être reconnaissant, je vous encourage à méditer sur la présence apparemment magique de l’Esprit du Père en vous, l’Esprit de Vérité à côté de vous, et l’Esprit-Saint autour de vous. Toutes ces attrayantes forces spirituelles travaillent nuit et jour en s’évertuant à vous recréer en tant qu’être spirituel éternel ainsi qu’à vous révéler les étonnantes merveilles d’un univers presque infini.
 <br style="clear:both;"/>
 
-> _C’est une bonne chose que de rendre grâces au Seigneur et de louer par des cantiques le nom du Très Haut, de reconnaître tous les matins sa bienveillance affectueuse et tous les soirs sa fidélité, car Dieu m’a rendu heureux par ses œuvres .  En toutes choses, je rendrai grâces conformément à la volonté de Dieu. _ <a id="a123_289"></a>[[LU 146:2.15](/fr/The_Urantia_Book/146#p2_15)]
+> _C’est une bonne chose que de rendre grâces au Seigneur et de louer par des cantiques le nom du Très Haut, de reconnaître tous les matins sa bienveillance affectueuse et tous les soirs sa fidélité, car Dieu m’a rendu heureux par ses œuvres .  En toutes choses, je rendrai grâces conformément à la volonté de Dieu. _ <a id="a124_318"></a>[[LU 146:2.15](/fr/The_Urantia_Book/146#p2_15)]
 
 ### Oubliez-vous
 
@@ -114,11 +138,11 @@ Soumettez-vous à Dieu sachant que vous n’avez rien à craindre, sachant que s
 
  Qui ne tente rien n’a rien. On nous rappelle constamment, tout au moins de faire une _tentative_  de communion avec Dieu. Lorsque vous adorez, ne vous attendez pas à ce que les anges de Dieu vous rendent visite. Gardez simplement à l’esprit que Dieu sait tout ce que vous faites et ayez la foi que, avec le temps, toute tentative de communion aura finalement pour résultat l’expérience très réelle de _ressentir_ la présence divine de l’Esprit intérieur.
 
-> _L’homme n’a pas besoin d’aller au-delà de sa propre expérience intérieure pour trouver Dieu et s’efforcer de communier avec lui._ <a id="a139_173"></a>[[LU 5:0.1](/fr/The_Urantia_Book/5#p0_1)]
+> _L’homme n’a pas besoin d’aller au-delà de sa propre expérience intérieure pour trouver Dieu et s’efforcer de communier avec lui._ <a id="a140_133"></a>[[LU 5:0.1](/fr/The_Urantia_Book/5#p0_1)]
 
 ### Donnez-y du temps
 
-Nous vivons dans un univers spatio-temporel où tous les événements sont limités par le temps. La patience, donc, est une vertu cruciale dans tous nos efforts. Lorsque Simon Zélotes fut d’abord accepté comme apôtre, sa plus grande faiblesse était sa mentalité matérialiste, et l’on nous dit que même quatre ans en compagnie de Jésus ne suffirent pas à effectuer les transformations intellectuelles et  émotionnelles pour lui donner une mentalité spirituelle <a id="a143_407"></a>[[LU 139:11.4](/fr/The_Urantia_Book/139#p11_4)]. Néanmoins par la foi et la persévérance, il réussit finalement.
+Nous vivons dans un univers spatio-temporel où tous les événements sont limités par le temps. La patience, donc, est une vertu cruciale dans tous nos efforts. Lorsque Simon Zélotes fut d’abord accepté comme apôtre, sa plus grande faiblesse était sa mentalité matérialiste, et l’on nous dit que même quatre ans en compagnie de Jésus ne suffirent pas à effectuer les transformations intellectuelles et  émotionnelles pour lui donner une mentalité spirituelle <a id="a144_457"></a>[[LU 139:11.4](/fr/The_Urantia_Book/139#p11_4)]. Néanmoins par la foi et la persévérance, il réussit finalement.
 
 ### Les bénéfices de l’adoration
 
@@ -126,11 +150,11 @@ Idéalement, l’adoration est un état d’oubli de soi dans lequel nous ne som
 
 L’adoration nous détend. Elle nous aide à surmonter des sentiments d’anxiété ou de stress et nous aide à dissoudre des conflits mentaux qui pourraient entraîner dépression ou confusion.
 
-> _La détente due à l’adoration ou la communion spirituelle telle que la pratique le Maitre, soulage les tensions, élimine les conflits et accroit puissamment la somme des ressources de la personnalité. _ <a id="a151_181"></a>[[LU 160:1.12](/fr/The_Urantia_Book/160#p1_12)]
+> _La détente due à l’adoration ou la communion spirituelle telle que la pratique le Maitre, soulage les tensions, élimine les conflits et accroit puissamment la somme des ressources de la personnalité. _ <a id="a152_205"></a>[[LU 160:1.12](/fr/The_Urantia_Book/160#p1_12)]
 
 L’adoration est créative. Elle va vous recréer, vous transformer comme Jésus a promis qu’elle le ferait. Le nombrilisme ou l’auto-évaluation incessants ne sont pas la réponse. Essayez plutôt d’adorer un Être divin bon, beau et aimant comme manière puissante de surmonter des déficiences personnelles.
 
-> _Jésus enseigna que l’adoration rend l’adorateur de plus en plus semblable à l’être qu’il adore. L’adoration est une expérience transformatrice._ <a id="a155_138"></a>[[LU 102:4.5](/fr/The_Urantia_Book/102#p4_5)]
+> _Jésus enseigna que l’adoration rend l’adorateur de plus en plus semblable à l’être qu’il adore. L’adoration est une expérience transformatrice._ <a id="a156_148"></a>[[LU 102:4.5](/fr/The_Urantia_Book/102#p4_5)]
 
 ## Surmonter les limitations à l’adoration
 
@@ -138,9 +162,9 @@ L’adoration et le progrès spirituel ne sont limités que par notre capacité 
 
 ### Nettoyez votre temple
 
-> _Tous les poisons physiques retardent grandement les efforts des Ajusteurs pour exalter le mental matériel et, par ailleurs, tous les poisons mentaux, tels que la peur, la colère, l’envie, la jalousie, la suspicion et l’intolérance, interfèrent prodigieusement aussi avec le progrès spirituel de l’âme évoluante._ <a id="a167_262"></a>[[LU 110:1.5](/fr/The_Urantia_Book/110#p1_5)]
+> _Tous les poisons physiques retardent grandement les efforts des Ajusteurs pour exalter le mental matériel et, par ailleurs, tous les poisons mentaux, tels que la peur, la colère, l’envie, la jalousie, la suspicion et l’intolérance, interfèrent prodigieusement aussi avec le progrès spirituel de l’âme évoluante._ <a id="a164_316"></a>[[LU 110:1.5](/fr/The_Urantia_Book/110#p1_5)]
 
-Débarrassez-vous des poisons physiques. Par expérience personnelle, j’ai compris qu’il était presque impossible de communier avec Dieu lorsque j’étais intoxiqué de quelque manière. L’une des idées les plus insidieuses que l’on maintient vivantes à l’époque moderne est que l’alcool ou les drogues peuvent induire un état d’esprit spirituel. En vérité, ces substances bloquent nos canaux spirituels et ferment notre chemin vers Dieu. Nous devons faire le choix de suivre la volonté de Dieu, en nous souvenant que Jésus nous a avertis de ne pas compter injustement sur l’amour de notre Père. Dieu n’est pas un père négligent, relâché ou sottement indulgent  toujours prêt à excuser le péché et à pardonner l’insouciance. <a id="a169_574"></a>[[LU 147:5.9](/fr/The_Urantia_Book/147#p5_9)].
+Débarrassez-vous des poisons physiques. Par expérience personnelle, j’ai compris qu’il était presque impossible de communier avec Dieu lorsque j’étais intoxiqué de quelque manière. L’une des idées les plus insidieuses que l’on maintient vivantes à l’époque moderne est que l’alcool ou les drogues peuvent induire un état d’esprit spirituel. En vérité, ces substances bloquent nos canaux spirituels et ferment notre chemin vers Dieu. Nous devons faire le choix de suivre la volonté de Dieu, en nous souvenant que Jésus nous a avertis de ne pas compter injustement sur l’amour de notre Père. Dieu n’est pas un père négligent, relâché ou sottement indulgent  toujours prêt à excuser le péché et à pardonner l’insouciance. <a id="a166_719"></a>[[LU 147:5.9](/fr/The_Urantia_Book/147#p5_9)].
 
 Et évitez les poisons mentaux. Dans le monde actuel de médias sociaux généralisés, il est facile de devenir très obstiné, de garder des rancunes, d’envier des amis qui ont des maisons plus grandes ou des voitures luxueuses, ou de craindre le futur. Mais rien de tout cela n’est la volonté de notre Père. Évitez ces états mentaux inhibiteurs, surtout quand vous tentez d’adorer. Dissolvez-les en amour, miséricorde, vérité, beauté et bonté et lavez votre esprit.
 
@@ -148,7 +172,7 @@ Et évitez les poisons mentaux. Dans le monde actuel de médias sociaux généra
 
 Jésus a dit que le plus grand commandement de tous est:
 
-> _…tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme, de tout ton mental et de toute ta force._ <a id="a177_121"></a>[[LU 174:4.2](/fr/The_Urantia_Book/174#p4_2)]
+> _…tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme, de tout ton mental et de toute ta force._ <a id="a174_114"></a>[[LU 174:4.2](/fr/The_Urantia_Book/174#p4_2)]
 
 L’amour de Dieu conduit à l’adoration intelligente et de tout cœur. L’amour de Dieu pour nous ne diminue jamais ; c’est un amour infini bien plus grand que ce que nous sommes capables d’ imaginer. Nous sommes limités dans notre capacité à adorer seulement par notre capacité individuelle d’aimer Dieu en retour. De nouveau, nous pouvons améliorer notre capacité d’aimer notre Créateur simplement en apprenant davantage sur sa nature divine.
 
@@ -166,7 +190,7 @@ La volonté de notre Père n’est pas entièrement un mystère. Parfois, les ch
 
 Une façon très efficace de surmonter nos limitations dans l’adoration et de progresser spirituellement est d’avoir une foi inébranlable et une confiance absolue dans le travail de l’Esprit du Père. Chaque foi que nos limitations nous mettent au défi, déclarons toujours :
 
-> _Même si je ne peux pas faire cette chose, quelqu’un vit en moi qui peut la faire et la fera._ <a id="a195_76"></a>[[LU 4:4.9](/fr/The_Urantia_Book/4#p4_9)]
+> _Même si je ne peux pas faire cette chose, quelqu’un vit en moi qui peut la faire et la fera._ <a id="a192_97"></a>[[LU 4:4.9](/fr/The_Urantia_Book/4#p4_9)]
 
 C’est une déclaration impressionnante. Cela rappelle la philosophie d’Alcooliques Anonymes où l’idée initiale est d’admettre ouvertement que _Vous ne pouvez y arriver par vous-même_ – vous devez d’abord vous abandonner vous-même et avec vos problèmes à un pouvoir supérieur. Avoir confiance que le pouvoir et l’amour de Dieu nous transforment est une expérience rajeunissante qui allège beaucoup de fardeaux de l’existence.
 
@@ -182,7 +206,7 @@ Tout le plan de progression spirituelle est interdépendant. Nos choix moraux af
 
 Cependant, la capacité de Dieu à nous aider est grandement retardée par nos opinions préconçues et nos préjugés enracinés. C’était certainement vrai pour moi concernant l’adoration. Mais je fus capable de surmonter mes inhibitions en devenant d’abord conscient de mes préjugés enracinés envers mon père terrestre, puis en demandant à mon Père céleste de m’aider à voir la vérité. À tous ceux qui trébuchent : ayez foi, il vous aidera aussi.
 
-> _Si vous vous conformez aux directives des forces spirituelles en vous, et autour de vous, vous ne pouvez manquer d’atteindre (…)_ <a id="a211_97"></a>[[LU 5:1.12](/fr/The_Urantia_Book/5#p1_12)]
+> _Si vous vous conformez aux directives des forces spirituelles en vous, et autour de vous, vous ne pouvez manquer d’atteindre (…)_ <a id="a208_133"></a>[[LU 5:1.12](/fr/The_Urantia_Book/5#p1_12)]
 
 
 ## Références
@@ -191,3 +215,28 @@ Cependant, la capacité de Dieu à nous aider est grandement retardée par nos o
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2019/?lang=fr)
 - [Cet article](https://urantia-association.org/ladoration-une-experience-filiale/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeannie_Vazquez_de_Abreu/function_of_prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La fonction de la prière pour fortifier notre Foi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/meaning_of_worship">
+          <span class="pr-2">La signification de l’adoration et du service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

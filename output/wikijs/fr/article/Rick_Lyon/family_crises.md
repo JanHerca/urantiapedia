@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Rick Lyon<br>© 2018 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Linthicum/eyedropper_spoon_shovel_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Compte-goutte, la Cuillère et la Pelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _(Adapté d’une présentation donnée à la conférence du Midwest de 2018)._
@@ -64,11 +85,11 @@ J’ai lutté avec ces questions de nombreuses années. Je suppose que c’est a
 
 La première question, « Pourquoi Brad est-il tel qu’il est ? » est une question que tous parents d’un enfant handicapé se poseront, et la suivante est en général « Pourquoi Dieu a-t-il laissé cela se produire ? » ou même pire, « Pourquoi Dieu a-t-il fait cela à mon enfant ? » La conclusion à laquelle j’ai abouti est que nous vivons une vie matérielle avec des corps matériels et comme toutes choses matérielles dans un monde imparfait, ils sont parfois défectueux et parfois se brisent ou s’abîment ou s’épuisent finalement.
 
-> Jésus dit: _En matière de maladie et de santé, vous devriez savoir que ces états physiques résultent de causes matérielles. La santé n’est pas un sourire du ciel, ni la maladie un froncement de sourcils de Dieu._ <a id="a86_205"></a>[[LU 166:4.10](/fr/The_Urantia_Book/166#p4_10)]
+> Jésus dit: _En matière de maladie et de santé, vous devriez savoir que ces états physiques résultent de causes matérielles. La santé n’est pas un sourire du ciel, ni la maladie un froncement de sourcils de Dieu._ <a id="a87_215"></a>[[LU 166:4.10](/fr/The_Urantia_Book/166#p4_10)]
 
 Les difficultés de la vie de Brad n’étaient d’aucune manière un signe de la défaveur de Dieu à son égard ou envers nous. Brad était simplement une victime innocente de l’un des accidents matériels du temps. De tels événements ne sont pas prévus à l’avance ou produits d’une autre manière par les forces spirituelles du royaume. Notre Père céleste ne nous cause pas ou ne nous envoie pas de douleur et de souffrance.
 
-> _Le Père fait tomber sa pluie sur les justes et sur les injustes ; le soleil éclaire pareillement ceux qui pratiquent la droiture et ceux qui ne la pratiquent pas._ <a id="a90_129"></a>[[LU 166:4.4](/fr/The_Urantia_Book/166#p4_4)]
+> _Le Père fait tomber sa pluie sur les justes et sur les injustes ; le soleil éclaire pareillement ceux qui pratiquent la droiture et ceux qui ne la pratiquent pas._ <a id="a91_167"></a>[[LU 166:4.4](/fr/The_Urantia_Book/166#p4_4)]
 
 Je crois que cette citation signifie que des choses tristes arrivent à de bonnes personnes tout comme les bonnes choses arrivent aux mauvaises personnes. Les situations de la vie sont différentes pour chaque personnes mais nos vies sont faites d’événements à la fois bons et mauvais peu importe qui nous sommes ou quel genre de personne nous sommes. Si j’ai appris quelque chose de mes 65 ans sur cette planète, c’est que de bonnes choses viennent souvent de mauvaises expériences. Il y a souvent des bénéfices imprévus accompagnant la souffrance ou les difficultés et déceptions de la vie.
 
@@ -78,15 +99,15 @@ On nous dit par _Le Livre d’Urantia_ :
 
 > Les incertitudes de la vie et les vicissitudes de l’existence ne contredisent en aucune manière le concept de la souveraineté universelle de Dieu. Toute vie d’une créature évolutionnaire est assaillie par certaines inévitabilités, dont voici des exemples :
 > 
-> _Le courage – la force de caractère – est-il désirable ? Alors, il faut que l’homme soit élevé dans un environnement qui l’oblige à s’attaquer à de dures épreuves et à réagir aux désappointements._ <a id="a100_167"></a>[[LU 3:5.6](/fr/The_Urantia_Book/3#p5_6)]
+> _Le courage – la force de caractère – est-il désirable ? Alors, il faut que l’homme soit élevé dans un environnement qui l’oblige à s’attaquer à de dures épreuves et à réagir aux désappointements._ <a id="a101_200"></a>[[LU 3:5.6](/fr/The_Urantia_Book/3#p5_6)]
 > 
-> _L’altruisme – le service du prochain – est-il désirable ? Alors, il faut que l’expérience de la vie fasse rencontrer des situations d’inégalité sociale._ <a id="a102_136"></a>[[LU 3:5.7](/fr/The_Urantia_Book/3#p5_7)]
+> _L’altruisme – le service du prochain – est-il désirable ? Alors, il faut que l’expérience de la vie fasse rencontrer des situations d’inégalité sociale._ <a id="a103_157"></a>[[LU 3:5.7](/fr/The_Urantia_Book/3#p5_7)]
 > 
-> _L’espoir – la noblesse de la confiance – est-il désirable ? Alors, il faut que l’existence humaine soit sans cesse confrontée aux incertitudes renouvelées et aux insécurités._ <a id="a104_143"></a>[[LU 3:5.8](/fr/The_Urantia_Book/3#p5_8)]
+> _L’espoir – la noblesse de la confiance – est-il désirable ? Alors, il faut que l’existence humaine soit sans cesse confrontée aux incertitudes renouvelées et aux insécurités._ <a id="a105_179"></a>[[LU 3:5.8](/fr/The_Urantia_Book/3#p5_8)]
 > 
-> _La foi – l’affirmation suprême de la pensée humaine – est-elle désirable ? Alors, il faut que le mental de l’homme se retrouve dans cette situation embarrassante où il en sait toujours moins que ce qu’il peut croire._ <a id="a106_179"></a>[[LU 3:5.9](/fr/The_Urantia_Book/3#p5_9)]
+> _La foi – l’affirmation suprême de la pensée humaine – est-elle désirable ? Alors, il faut que le mental de l’homme se retrouve dans cette situation embarrassante où il en sait toujours moins que ce qu’il peut croire._ <a id="a107_221"></a>[[LU 3:5.9](/fr/The_Urantia_Book/3#p5_9)]
 > 
-> _Le plaisir – la satisfaction du bonheur – est-il désirable ? Alors, il faut que l’homme vive dans un monde où l’alternative de la douleur et la probabilité de la souffrance soient des possibilités d’expérience toujours présentes._ <a id="a108_194"></a>[[LU 3:5.14](/fr/The_Urantia_Book/3#p5_14)]
+> _Le plaisir – la satisfaction du bonheur – est-il désirable ? Alors, il faut que l’homme vive dans un monde où l’alternative de la douleur et la probabilité de la souffrance soient des possibilités d’expérience toujours présentes._ <a id="a109_234"></a>[[LU 3:5.14](/fr/The_Urantia_Book/3#p5_14)]
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Journal/Stars-and-cave-300x201.jpg">
@@ -102,9 +123,9 @@ Quelque chose est allé de travers durant le développement matériel du corps p
 
 La seconde question, ‘Qu’arriverait-t-il à Brad si nous mourions ?’, est une question concernant les soins pour Brad tandis qu’il est ici sur Urantia. Puisque Brad est parti avant nous , ceci n’est plus un souci. Cependant, laissez-moi partager ces citations qui, je crois, ont un rapport avec la vie mortelle de Brad :
 
-> _L’enseignement au sujet des anges gardiens n’est pas un mythe ; certains groupes d’êtres humains ont effectivement des anges personnels. C’est en récognition de cela que Jésus a dit, en parlant des enfants du royaume des cieux : “ Prenez garde de ne pas mépriser un de ces petits, car je vous dis que leurs anges voient continuellement la présence de l’esprit de mon Père._ <a id="a124_368"></a>[[LU 113:1.1](/fr/The_Urantia_Book/113#p1_1)]
+> _L’enseignement au sujet des anges gardiens n’est pas un mythe ; certains groupes d’êtres humains ont effectivement des anges personnels. C’est en récognition de cela que Jésus a dit, en parlant des enfants du royaume des cieux : “ Prenez garde de ne pas mépriser un de ces petits, car je vous dis que leurs anges voient continuellement la présence de l’esprit de mon Père._ <a id="a125_377"></a>[[LU 113:1.1](/fr/The_Urantia_Book/113#p1_1)]
 > 
-> _Originellement, les séraphins furent spécialement désignés pour chaque race distincte d’Urantia. Mais, depuis l’effusion de Micaël, ils sont affectés d’après l’intelligence, la spiritualité et la destinée humaines. Au point de vue intellectuel, l’humanité est divisée en trois classes:_ <a id="a126_259"></a>[[LU 113:1.2](/fr/The_Urantia_Book/113#p1_2)]
+> _Originellement, les séraphins furent spécialement désignés pour chaque race distincte d’Urantia. Mais, depuis l’effusion de Micaël, ils sont affectés d’après l’intelligence, la spiritualité et la destinée humaines. Au point de vue intellectuel, l’humanité est divisée en trois classes:_ <a id="a127_290"></a>[[LU 113:1.2](/fr/The_Urantia_Book/113#p1_2)]
 
 La première classification est :
 
@@ -140,7 +161,7 @@ Les finalitaires, les Melchizédeks, les séraphins, les chérubins et les paren
 
 Il semble que beaucoup d’efforts sont mis en œuvre pour s’occuper de ces enfants imparfaits de ce monde matériel imparfait. Donc apparemment ils doivent avoir potentiellement  une valeur de survie. On trouve dans _Le Livre d’Urantia_ une phrase entière en italique :
 
-> _Rien de ce qui a une valeur de survie n’est entièrement perdu dans tout le vaste univers._ <a id="a160_69"></a>[[LU 109:3.2](/fr/The_Urantia_Book/109#p3_2)]
+> _Rien de ce qui a une valeur de survie n’est entièrement perdu dans tout le vaste univers._ <a id="a163_94"></a>[[LU 109:3.2](/fr/The_Urantia_Book/109#p3_2)]
 
 On voit dans _Le Livre d’Urantia_ que le potentiel est très important, car ce n’est pas ce que nous sommes mais ce que nous devenons qui compte. Dans cet univers spirituel, je soupçonne que seul ce qui a une valeur spirituelle réelle ou potentielle mérite les efforts des anges et des êtres spirituels.  Je crois maintenant que nous sommes assurés que les difficultés matérielles et les imperfections physiques de la vie mortelle de Brad ne le suivent pas ni n’entravent son potentiel de vie spirituelle éternelle ou n’empêchent d’une façon quelconque sa survie et son aboutissement à la présence de Dieu.
 
@@ -171,13 +192,13 @@ Je me suis d’abord senti dans une certaine mesure responsable de ses handicaps
 
 Voici deux ou trois dernières citations sur les crises :
 
-> Rodan dit : _Mais la meilleure de toutes les méthodes pour résoudre les problèmes, je l’ai apprise de Jésus, votre Maitre. Il s’agit de ce qu’il pratique avec tant de persévérance et qu’il vous a si fidèlement enseigné : la méditation adoratrice solitaire. C’est dans cette habitude, qu’a Jésus d’aller si fréquemment seul pour communier avec le Père qui est aux cieux, que réside la technique non seulement pour prendre des forces et acquérir de la sagesse en vue des conflits ordinaires de la vie, mais aussi pour s’approprier l’énergie nécessaire en vue de résoudre les problèmes supérieurs de nature morale et spirituelle._ <a id="a191_558"></a>[[LU 160:1.10](/fr/The_Urantia_Book/160#p1_10)]
+> Rodan dit : _Mais la meilleure de toutes les méthodes pour résoudre les problèmes, je l’ai apprise de Jésus, votre Maitre. Il s’agit de ce qu’il pratique avec tant de persévérance et qu’il vous a si fidèlement enseigné : la méditation adoratrice solitaire. C’est dans cette habitude, qu’a Jésus d’aller si fréquemment seul pour communier avec le Père qui est aux cieux, que réside la technique non seulement pour prendre des forces et acquérir de la sagesse en vue des conflits ordinaires de la vie, mais aussi pour s’approprier l’énergie nécessaire en vue de résoudre les problèmes supérieurs de nature morale et spirituelle._ <a id="a194_630"></a>[[LU 160:1.10](/fr/The_Urantia_Book/160#p1_10)]
 > 
-> _Le Maitre savait bien que dans leur mental, un grand nombre de ceux qui le suivaient se préparaient, lentement mais sûrement, à le désavouer définitivement. Il savait également qu’un bon nombre de ses disciples acquéraient, lentement mais sûrement, cette éducation du mental et cette discipline de l’âme qui leur permettraient de triompher des doutes et d’affirmer courageusement leur foi totale dans l’évangile du royaume. Jésus comprenait pleinement comment les hommes se préparent aux décisions d’une crise et à l’accomplissement soudain d’actes impliquant un choix courageux, par le lent processus du choix réitéré entre le bien et le mal dans des situations récurrentes. Il soumit ses messagers élus à des déceptions répétées et leur fournit des occasions fréquentes d’épreuves où ils devaient choisir entre la bonne et la mauvaise manière de faire face aux difficultés spirituelles. Il savait qu’il pouvait compter sur ses disciples, qu’au moment de l’épreuve finale, ils prendraient leurs décisions essentielles conformément aux attitudes mentales et aux réactions spirituelles dont ils auraient pris l’habitude antérieurement._ <a id="a193_1014"></a>[[LU 153:1.3](/fr/The_Urantia_Book/153#p1_3)]
+> _Le Maitre savait bien que dans leur mental, un grand nombre de ceux qui le suivaient se préparaient, lentement mais sûrement, à le désavouer définitivement. Il savait également qu’un bon nombre de ses disciples acquéraient, lentement mais sûrement, cette éducation du mental et cette discipline de l’âme qui leur permettraient de triompher des doutes et d’affirmer courageusement leur foi totale dans l’évangile du royaume. Jésus comprenait pleinement comment les hommes se préparent aux décisions d’une crise et à l’accomplissement soudain d’actes impliquant un choix courageux, par le lent processus du choix réitéré entre le bien et le mal dans des situations récurrentes. Il soumit ses messagers élus à des déceptions répétées et leur fournit des occasions fréquentes d’épreuves où ils devaient choisir entre la bonne et la mauvaise manière de faire face aux difficultés spirituelles. Il savait qu’il pouvait compter sur ses disciples, qu’au moment de l’épreuve finale, ils prendraient leurs décisions essentielles conformément aux attitudes mentales et aux réactions spirituelles dont ils auraient pris l’habitude antérieurement._ <a id="a196_1139"></a>[[LU 153:1.3](/fr/The_Urantia_Book/153#p1_3)]
 
 Peut-être les crises qui se répètent dans nos vies  sont le même genre de formation pour nous. Nous sommes exposés aux hauts et bas de l’existence, à la joie de la victoire et à l’angoisse de la défaite jusqu’à ce que nous développions de bonnes habitudes pour résoudre les problèmes sans nous effondrer durant une crise ni être trop fiers lors de nos succès.
 
-> _Avant que Jésus fût mis sur sa croix, les deux brigands avaient déjà été placés sur la leur, maudissant constamment leurs bourreaux et crachant sur eux. Les seules paroles de Jésus pendant qu’ils le clouaient sur la traverse furent : “ Père, pardonne-leur, car ils ne savent pas ce qu’ils font. ” Il n’aurait pu intercéder avec tant d’amour et de miséricorde en faveur de ses bourreaux si de telles pensées de dévotion affectueuse n’avaient été le principe même de toute sa vie de service désintéressé. Les idées, les mobiles et les désirs profonds de toute une vie se révèlent au grand jour dans une crise_. <a id="a197_545"></a>[[LU 187:2.4](/fr/The_Urantia_Book/187#p2_4)]
+> _Avant que Jésus fût mis sur sa croix, les deux brigands avaient déjà été placés sur la leur, maudissant constamment leurs bourreaux et crachant sur eux. Les seules paroles de Jésus pendant qu’ils le clouaient sur la traverse furent : “ Père, pardonne-leur, car ils ne savent pas ce qu’ils font. ” Il n’aurait pu intercéder avec tant d’amour et de miséricorde en faveur de ses bourreaux si de telles pensées de dévotion affectueuse n’avaient été le principe même de toute sa vie de service désintéressé. Les idées, les mobiles et les désirs profonds de toute une vie se révèlent au grand jour dans une crise_. <a id="a200_612"></a>[[LU 187:2.4](/fr/The_Urantia_Book/187#p2_4)]
 
 Qu’est-ce que nos paroles, actions et sentiments – nos mails, tweets et publications sur Facebook – durant nos crises passées, nous disent de nous-mêmes ? Qu’est-ce que cela nous dit sur ce que nous devrions faire pour mieux gérer finalement nos crises familiales ?
 
@@ -197,7 +218,7 @@ Alors changeons un peu de vitesse.
 
 > _Le christianisme est sérieusement confronté à la condamnation incorporée dans un de ses propres slogans :_
 > 
-> _“ Une maison divisée contre elle-même ne peut subsister. ” Le monde non chrétien n’acceptera pas de capituler devant une chrétienté divisée en sectes. Jésus vivant représente le seul espoir possible d’unifier le christianisme. La véritable Église – la fraternité de Jésus – est invisible, spirituelle et caractérisée par l’unité._ <a id="a213_299"></a>[[LU 195:10.12](/fr/The_Urantia_Book/195#p10_12)]
+> _“ Une maison divisée contre elle-même ne peut subsister. ” Le monde non chrétien n’acceptera pas de capituler devant une chrétienté divisée en sectes. Jésus vivant représente le seul espoir possible d’unifier le christianisme. La véritable Église – la fraternité de Jésus – est invisible, spirituelle et caractérisée par l’unité._ <a id="a220_334"></a>[[LU 195:10.12](/fr/The_Urantia_Book/195#p10_12)]
 
 Nous pouvons voir dans _Le Livre d’Urantia_ que beaucoup de failles et divisions sont apparues dans la communauté des disciples de Jésus dans le passé. Abner s’est séparé des Apôtres. Nathanaël s’est séparé des Apôtres lorsqu’ils ont changé l’Évangile. Il y eut le grand schisme de 1054, qui provoqua la séparation finale entre les églises chrétiennes orientales et l’église occidentale conduite par le pape Léon IX, qui ne s’est terminée qu’en 1965 (si l’on peut dire).
 
@@ -237,7 +258,7 @@ Si vous êtes ennoblis, par la grâce de la foi, pour aimer les incroyants, ne d
 
 Jésus dit:
 
-> _Allez donc dans le monde entier proclamer à toutes les nations et races cet évangile de la paternité de Dieu et de la fraternité des hommes, et soyez toujours sages dans le choix de vos méthodes pour présenter la bonne nouvelle aux différentes races et tribus de l’humanité. Vous avez reçu libéralement cet évangile du royaume ; vous apporterez libéralement la bonne nouvelle à toutes les nations. Ne craignez pas la résistance du mal, car je suis avec vous pour toujours, même jusqu’à la fin des âges. Et je vous laisse ma paix._ <a id="a251_480"></a>[[LU 191:4.4](/fr/The_Urantia_Book/191#p4_4)]
+> _Allez donc dans le monde entier proclamer à toutes les nations et races cet évangile de la paternité de Dieu et de la fraternité des hommes, et soyez toujours sages dans le choix de vos méthodes pour présenter la bonne nouvelle aux différentes races et tribus de l’humanité. Vous avez reçu libéralement cet évangile du royaume ; vous apporterez libéralement la bonne nouvelle à toutes les nations. Ne craignez pas la résistance du mal, car je suis avec vous pour toujours, même jusqu’à la fin des âges. Et je vous laisse ma paix._ <a id="a260_534"></a>[[LU 191:4.4](/fr/The_Urantia_Book/191#p4_4)]
 
 
 ## Références
@@ -246,3 +267,25 @@ Jésus dit:
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2018/?lang=fr)
 - [Cet article](https://urantia-association.org/crises-familiales/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Linthicum/eyedropper_spoon_shovel_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Compte-goutte, la Cuillère et la Pelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

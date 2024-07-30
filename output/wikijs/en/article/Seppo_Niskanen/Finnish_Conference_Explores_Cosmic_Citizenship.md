@@ -46,11 +46,11 @@ The tension between the infinity of existence and the subinfinite existence is s
 
 It is hard to believe, but we are perfect even now; that is, potentially perfect; we are, after all made in images of God.
 
-> “Let us make mortal man in our own image.” [UB 6:5.7](/en/The_Urantia_Book/6#p5_7)
+> “Let us make mortal man in our own image.” <a id="a48_45"></a>[UB 6:5.7](/en/The_Urantia_Book/6#p5_7)
 
 We just need to remember that our perfection is, potential; in actuality we are imperfect. We are designed to experience and to grow perfect; to translate potentials into actuals; and to do that through our freewill efforts.
 
-> “_Mortal man earns even his status as an ascension candidate by his own faith and hope. Everything divine which the human mind grasps and the human soul acquires is an experiential attainment; it is a reality of personal experience and is therefore a unique possession in contrast to the inherent goodness and righteousness of the inerrant personalities of Havona._” [UB 3:5.16](/en/The_Urantia_Book/3#p5_16)
+> “_Mortal man earns even his status as an ascension candidate by his own faith and hope. Everything divine which the human mind grasps and the human soul acquires is an experiential attainment; it is a reality of personal experience and is therefore a unique possession in contrast to the inherent goodness and righteousness of the inerrant personalities of Havona._” <a id="a52_369"></a>[UB 3:5.16](/en/The_Urantia_Book/3#p5_16)
 
 Nowhere in the vast universe of universes is there, or will there ever be, another order of beings with our kind of acquired bulk of experiences; and we shall know whereof we speak, for we will have traversed it all.
 

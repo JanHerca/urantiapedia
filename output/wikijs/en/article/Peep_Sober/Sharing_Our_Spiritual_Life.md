@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Peep Sõber<br>© 2000 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Seppo_Kanerva/The_Way_Jesus_Discovered_and_Lived_the_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Way Jesus Discovered and Lived the Father's Will</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ruth_Kask/The_Acme_of_Religious_Living">
+          <span class="pr-2">The Acme of Religious Living</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Peep_Sober.jpg">
@@ -38,7 +62,7 @@ We can notice that among the Jews there were two categories of listeners to Jesu
 
 We can hear a wide range of opinions, concerning whether we need an organization for sharing our spiritual life. It is obvious that we can share our spiritual life in personal relationships among family and friends or at work without any special organization for that. Very often people state that Jesus did not establish an organization for sharing his spiritual life, so why do we need it? It is true, he did not use organization for sharing his **personal** spiritual life. But the turning point in his life was choosing the first apostles and training them. This was the beginning of the organization which he would use to disseminate his new revelation of God.
 
-For me it seems a dilemma: Do we choose to deal only with our own spiritual life or do we deal also with the revelation which is called epochal? For sharing our personal spiritual life we really do not need any special organization—to create it can be even detrimental; this can become a sect or a strange “ism” around our own beliefs which are always in the process of changing. The Kingdom of God cannot be built around our personal beliefs or even personal interpretations of the epochal revelation. This **can be built** and certainly **will be built** around epochal revelations, 4th, 5th and those to come. Like the apostles we can be the early teachers of the revelation if we choose. For that purpose it is better to be organized because we need some order, structure, leadership and network. That cannot and should not interfere with sharing our personal spiritual life. By doing this we can experience something additional: as we disseminate the teachings, we can experience spiritual teamwork and spiritual group loyalty. We have read that _One of the most important lessons to be learned during your mortal career is_ ***teamwork*** [[UB 28:5.14](/en/The_Urantia_Book/28#p5_14)].
+For me it seems a dilemma: Do we choose to deal only with our own spiritual life or do we deal also with the revelation which is called epochal? For sharing our personal spiritual life we really do not need any special organization—to create it can be even detrimental; this can become a sect or a strange “ism” around our own beliefs which are always in the process of changing. The Kingdom of God cannot be built around our personal beliefs or even personal interpretations of the epochal revelation. This **can be built** and certainly **will be built** around epochal revelations, 4th, 5th and those to come. Like the apostles we can be the early teachers of the revelation if we choose. For that purpose it is better to be organized because we need some order, structure, leadership and network. That cannot and should not interfere with sharing our personal spiritual life. By doing this we can experience something additional: as we disseminate the teachings, we can experience spiritual teamwork and spiritual group loyalty. We have read that _One of the most important lessons to be learned during your mortal career is_ ***teamwork*** <a id="a64_1145"></a>[[UB 28:5.14](/en/The_Urantia_Book/28#p5_14)].
 
 Teamwork in a commercial company and teamwork in a spiritual group have different characteristics and aims. Therefore, the best place to share our spiritual life is in a spiritual group. For many of us it is _The Urantia Book_ study group. We know also from the history of the Urantia Movement that from the very beginning the Urantia revelation was given to the group (Contact Commission) not to a separate individual. We know that these people formed a group already many years before the revelation began. The Contact Commission and Forum had an organizational structure; Urantia Foundation and Urantia Brotherhood did not arise from nothing nor from purely human-ambitions. We all have read that there are very few tasks for individualists in the universe. But we observe that only a small number of our readers have joined study groups and reader's organizations. Why? Is it a lack of dedication? So it seems to me.
 
@@ -52,8 +76,32 @@ We note that the level of spiritual maturity is very different among our readers
 > 
 > _In the kingdom of the believing brotherhood of God-knowing truth lovers, this golden rule takes on living qualities of spiritual realization on those higher levels of interpretation which cause the mortal sons of God to view this injunction of the Master as requiring them so to relate themselves to their fellows that they will receive the highest possible good as a result of the believer's contact with them. This is the essence of true religion: that you love your neighbor as yourself._
 > 
-> _But the highest realization and the truest interpretation of the golden rule consists in the consciousness of the spirit of the truth of the enduring and living reality of such a divine declaration. The true cosmic meaning of this rule of universal relationship is revealed only in its spiritual realivation, in the interpretation of the law of conduct by the spirit of the Son to the spirit of the Father that indwells the soul of mortal man. And when such spirit-led mortals realize the true meaning of this golden rule, they are filled to overflowing with the assurance of citizenship in a friendly universe, and their ideals of spirit reality are satisfied only when they love their fellows as Jesus loved us all, and that is the reality of the realication of the love of God._ [[UB 180:5.6-8](/en/The_Urantia_Book/180#p5_6)]
+> _But the highest realization and the truest interpretation of the golden rule consists in the consciousness of the spirit of the truth of the enduring and living reality of such a divine declaration. The true cosmic meaning of this rule of universal relationship is revealed only in its spiritual realivation, in the interpretation of the law of conduct by the spirit of the Son to the spirit of the Father that indwells the soul of mortal man. And when such spirit-led mortals realize the true meaning of this golden rule, they are filled to overflowing with the assurance of citizenship in a friendly universe, and their ideals of spirit reality are satisfied only when they love their fellows as Jesus loved us all, and that is the reality of the realication of the love of God._ <a id="a78_785"></a>[[UB 180:5.6-8](/en/The_Urantia_Book/180#p5_6)]
 
 This explanation I have found very helpful to understand our partner's spiritual receptivity in shating our spiritual life. If we are on the same level or nearby, it is a most natural and effective situation for sharing. In other cases several problems of misunderstanding can arise if we do not take care to note these different levels. From the life of Jesus we can find many examples how he taught people differently.
 
 This short discourse is my small attempt at sharing spiritual life, but as perhaps I'm not yet enough strongly focused on the “spiritual level,” I will conclude now. Therefore, please excuse my possible ignorance on this difficult topic about sharing our a spiritual life.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Seppo_Kanerva/The_Way_Jesus_Discovered_and_Lived_the_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Way Jesus Discovered and Lived the Father's Will</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ruth_Kask/The_Acme_of_Religious_Living">
+          <span class="pr-2">The Acme of Religious Living</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

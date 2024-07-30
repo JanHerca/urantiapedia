@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Gaétan Charland<br>© 2000 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carol_Cannon/Quantum_Physics_Joy_and_the_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Physique quantique, joie et volonté du Père</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-septembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septembre 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Cathy_Jones/Paper_111_The_Adjuster_and_the_Soul">
+          <span class="pr-2">Fascicule 111 L'ajusteur Et L'âme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Gaetan_Charland.jpg">
@@ -22,11 +46,11 @@ Faisons-nous tout ce qui est nécessaire ? Avons-nous un plan pour atteindre nos
 
 ## 1. Les deux commandements
 
-> _Ayant commandé à l'homme d'ètre parfait comme lui-même est parfait, Dieu est descendu sous forme d'Ajusteur pour devenir le partenaire expérientiel de l'homme dans l'accomplissement de la destinée céleste ainsi ordonnée. Le fragment de Dieu qui babite le mental de l'homme constitue l'assurance, absolue et sans réserve, que l'homme peut trouver le Père Universel par son association avec cet Ajusteur divin, venu de Dieu pour trouver l'homme et en faire son fils, même au cours de sa vie dans la chair._ [[LU 107:0.3](/fr/The_Urantia_Book/107#p0_3)]
+> _Ayant commandé à l'homme d'ètre parfait comme lui-même est parfait, Dieu est descendu sous forme d'Ajusteur pour devenir le partenaire expérientiel de l'homme dans l'accomplissement de la destinée céleste ainsi ordonnée. Le fragment de Dieu qui babite le mental de l'homme constitue l'assurance, absolue et sans réserve, que l'homme peut trouver le Père Universel par son association avec cet Ajusteur divin, venu de Dieu pour trouver l'homme et en faire son fils, même au cours de sa vie dans la chair._ <a id="a48_508"></a>[[LU 107:0.3](/fr/The_Urantia_Book/107#p0_3)]
 
 Ce commandement est le premier des deux qui nous parlent de la volonté de Dieu. Le deuxième commandement nous a été donné par Jésus :
 
-> _«Il faut que tu changes encore davantage. Tu devrais devenir l'apôtre du nouveau commandement que je vous ai donné ce soir. Consacre ta vie à apprendre à tes frères à s'aimer les uns les autres comme je vous ai aimés. »_ [[LU 181:2.4](/fr/The_Urantia_Book/181#p2_4)]
+> _«Il faut que tu changes encore davantage. Tu devrais devenir l'apôtre du nouveau commandement que je vous ai donné ce soir. Consacre ta vie à apprendre à tes frères à s'aimer les uns les autres comme je vous ai aimés. »_ <a id="a52_224"></a>[[LU 181:2.4](/fr/The_Urantia_Book/181#p2_4)]
 
 Quelquefois, nous les humains, nous cherchons toutes sortes de différentes façons d'accomplir la volonté du Père et, en ce faisant, nous oublions souvent les choses les plus évidentes comme celles d'accomplir ce que nous devrions désirer le plus : être, comme notre Père divin, au service de nos frères dans l'amour.
 
@@ -34,7 +58,7 @@ Quelquefois, nous les humains, nous cherchons toutes sortes de différentes faç
 
 À travers tous les fascicules traitant des Ajusteurs, on nous rappelle constamment que les Moniteurs de Mystère sont la volonté divine. Ces derniers travaillent constamment à nous rendre réceptifs à cette même volonté.
 
-> _Tout mortel qui suit consciemment ou inconsciemment les directives de son Ajusteur intérieur vit conformément à la volonté de Dieu. La conscience de la présence de l'Ajusteur est la conscience de la présence de Dieu._ [[LU 107:0.4](/fr/The_Urantia_Book/107#p0_4)]
+> _Tout mortel qui suit consciemment ou inconsciemment les directives de son Ajusteur intérieur vit conformément à la volonté de Dieu. La conscience de la présence de l'Ajusteur est la conscience de la présence de Dieu._ <a id="a60_221"></a>[[LU 107:0.4](/fr/The_Urantia_Book/107#p0_4)]
 
 Ces simples vérités et commandements devraient être suffisants pour nous guider jusqu'aux portes de la vie éternelle. Mais hélas !, nous les humains, nous avons besoin de beaucoup plus de faits, de vérités et de révélations pour commencer notre progression sur la route intérieure et ascendante de la perfection divine.
 
@@ -42,7 +66,7 @@ Ces simples vérités et commandements devraient être suffisants pour nous guid
 
 Voici la première chose que nous lisons dans ce fascicule :
 
-> _Dans la mesure où je suis au courant des affaires d'un univers, je considère l'amour et la dévotion d'un Ajusteur de Pensée comme l'affection la plus véritablement divine de toute la création. L'amour des Fils dans leur ministère auprès des races est magnifique, mais la dévotion d'un Ajusteur à un individu est d'une sublimité émouvante, divinement semblable à celle du Père. Le Père du Paradis semble avoir réservé cette forme de contact personnel avec ses créatures individuelles comme sa prérogative exclusive de Créateur. Et, dans tout l'univers des univers, rien n'est exactement comparable au ministère merveilleux de ces entités impersonnelles qui habitent d'une manière si enchanteresse les enfants des planètes évolutionnaires._ [[LU 110:0.2](/fr/The_Urantia_Book/110#p0_2)]
+> _Dans la mesure où je suis au courant des affaires d'un univers, je considère l'amour et la dévotion d'un Ajusteur de Pensée comme l'affection la plus véritablement divine de toute la création. L'amour des Fils dans leur ministère auprès des races est magnifique, mais la dévotion d'un Ajusteur à un individu est d'une sublimité émouvante, divinement semblable à celle du Père. Le Père du Paradis semble avoir réservé cette forme de contact personnel avec ses créatures individuelles comme sa prérogative exclusive de Créateur. Et, dans tout l'univers des univers, rien n'est exactement comparable au ministère merveilleux de ces entités impersonnelles qui habitent d'une manière si enchanteresse les enfants des planètes évolutionnaires._ <a id="a68_742"></a>[[LU 110:0.2](/fr/The_Urantia_Book/110#p0_2)]
 
 La relation des Ajusteurs envers les enfants du temps est l'AMOUR, l'amour divin qui se manifeste tous les jours de notre vie, que nous en soyons conscients ou pas. L'Ajusteur qui s'est porté volontaire pour habiter notre mental est venu avec un plan. Un plan de carrière éternelle que nous pouvons choisir de suivre ou de rejeter complètement. Nous ne prendrons probablement jamais conscience sur cette terre de tout le temps et l'énergie qu'ils ont dépensés à formuler ce plan divin pour notre vie. Qu'allons-nous faire de cette révélation ? Combien de temps et d'énergie sommes-nous prêts à dépenser dans notre propre plan de progression pour rejoindre les efforts de notre Guide divin? Avons-nous un plan?
 
@@ -50,15 +74,15 @@ Comment pouvons-nous en connaître plus de ce plan divin? Quelles sont les chose
 
 ## 4. Nos attitudes et nos actions
 
-> _N'est-il pas cruel de souiller consciemment ou de polluer délibérément de quelque autre manière le corps physique qui doit servir de tabernacle terrestre à ce merveilleux don de Dieu ? Tous les poisons physiques retardent grandement les efforts des Ajusteurs pour exalter le mental matériel, et, par ailleurs, tous les poisons mentaux, tels que la peur, la colère, l'envie, la jalousie, la suspicion et l'intolérance, interfêrent prodigieusement aussi avec le progrès spirituel de l'àme évoluante._ [[LU 110:1.5](/fr/The_Urantia_Book/110#p1_5)]
+> _N'est-il pas cruel de souiller consciemment ou de polluer délibérément de quelque autre manière le corps physique qui doit servir de tabernacle terrestre à ce merveilleux don de Dieu ? Tous les poisons physiques retardent grandement les efforts des Ajusteurs pour exalter le mental matériel, et, par ailleurs, tous les poisons mentaux, tels que la peur, la colère, l'envie, la jalousie, la suspicion et l'intolérance, interfêrent prodigieusement aussi avec le progrès spirituel de l'àme évoluante._ <a id="a76_502"></a>[[LU 110:1.5](/fr/The_Urantia_Book/110#p1_5)]
 
 Quels sont ces poisons physiques qui retardent l'Ajusteur dans ses efforts pour exalter le mental humain ? Pourrait-il s'agir de stupéfiants, d'alcool, de cigarettes ou de certaines formes d'aliments ! Si nous avons sincèrement le désir de travailler en parfaite harmonie avec notre Ajusteur, nous devrions y regarder de plus près afin d'éliminer de notre vie ces substances nuisibles. Nous pourrions commencer par développer des habitudes de vie plus saines. Ces améliorations pourraient inclure des exercices physiques et une diète plus rigoureuse. Nous connaissons tous l'adage «un esprit sain dans un corps sain ». Ici, il prend sa pleine signification.
 
 Maintenant, que faisons-nous des poisons mentaux ? Comment nous débarrasser de nos mauvais traits de caractère et de personnalité ? Probablement qu'une généreuse portion de sincérité et d'humilité pourrait nous aider à nous évaluer intérieurement et nous conduire sur le chemin de la réhabilitation spirituelle. Voici ce que _Le Livre d'Urantia_ nous en dit :
 
-> _Les clefs du royaume des cieux sont la sincérité, plus de sincérité et encore plus de sincérité. Tous les hommes possèdent ces clefs. Les hommes s'en servent — élèvent leur statut spirituel par des décisions, plus de décisions et encore plus de décisions. Le choix moral le plus élevé est celui de la plus haute valeur possible, et toujours — dans chaque sphère et dans toutes les sphères c'est le choix de faire la volonté de Dieu._ [[LU 39:4.14](/fr/The_Urantia_Book/39#p4_14)]
+> _Les clefs du royaume des cieux sont la sincérité, plus de sincérité et encore plus de sincérité. Tous les hommes possèdent ces clefs. Les hommes s'en servent — élèvent leur statut spirituel par des décisions, plus de décisions et encore plus de décisions. Le choix moral le plus élevé est celui de la plus haute valeur possible, et toujours — dans chaque sphère et dans toutes les sphères c'est le choix de faire la volonté de Dieu._ <a id="a82_437"></a>[[LU 39:4.14](/fr/The_Urantia_Book/39#p4_14)]
 
-> _Trop souvent, beaucoup trop souvent, vous gâchez votre mental par défaut de sincérité, et vous le flétrissez par manque de droiture; vous le soumettez à la peur animale et vous le déformez par des anxiétés inutiles. Aussi, bien que la source du mental soit divine, le mental, tel que vous le connaissez sur votre monde ascensionnel, ne peut guère devenir l'objet d'une grande admiration, et encore bien moins un objet d'adoration ou de culte. La contemplation de l'intellect humain immature et inactif ne devrait conduire qu'à des réactions d'humilité._ [[LU 9:5.7](/fr/The_Urantia_Book/9#p5_7)]
+> _Trop souvent, beaucoup trop souvent, vous gâchez votre mental par défaut de sincérité, et vous le flétrissez par manque de droiture; vous le soumettez à la peur animale et vous le déformez par des anxiétés inutiles. Aussi, bien que la source du mental soit divine, le mental, tel que vous le connaissez sur votre monde ascensionnel, ne peut guère devenir l'objet d'une grande admiration, et encore bien moins un objet d'adoration ou de culte. La contemplation de l'intellect humain immature et inactif ne devrait conduire qu'à des réactions d'humilité._ <a id="a84_557"></a>[[LU 9:5.7](/fr/The_Urantia_Book/9#p5_7)]
 
 Nous pouvons prier, tous les jours, notre Père céleste pour nous enseigner la transcendance de nos handicaps humains. Nous pouvons pratiquer la méditation comme Rodan avait enjoint les apôtres de le faire à la lumière des habitudes de vie de Jésus. Nous pouvons aussi vivre d'après les préceptes de l'art de vivre de Rodan. «Là où il y a de la volonté, il y a des moyens », comme le dit le vieux dicton. Si nous voulons que la relation de notre Ajusteur soit plus efficace, nous devons agir, prendre des décisions et les respecter. Nous devons mourir à nos anciennes habitudes de penser. Nous devons trouver de nouvelles façons pour améliorer notre perception des directives de notre Ajusteur. Nous devons tenter de rejoindre notre Ajusteur de toutes nos forces afin que s'accomplisse son désir sublime de nous transmettre sa sagesse divine.
 
@@ -66,13 +90,13 @@ Si nous voulons acquérir plus de tolérance, plus de patience ou d'humilité, n
 
 > _La preuve de la fraternité avec l'Ajusteur divin réside entièrement dans la nature et l'étendue des fruits de l'esprit que produit l'expérience de vie du croyant individuel. «Vous les connaître z à leurs fruits. »_ [65.0]
 
-> _«car les fruits de l'esprit sont l'amour, la joie, la paix, la longanimité, la bienveillance, la bonté, la foi, la douceur et la tempérance ». De tels mortels ainsi guidés par l'esprit et divinement illuminés, bien qu'ils foulent encore les humbles sentiers du travail pénible et qu'ils accomplissent avec la fidélité humaine les devoirs de leur mission terrestre, ont déjà commencé à discerner les lumières de la vie éternelle qui miroitent sur les rives lointaines d'un autre monde ..._ [[LU 34:6.13](/fr/The_Urantia_Book/34#p6_13)]
+> _«car les fruits de l'esprit sont l'amour, la joie, la paix, la longanimité, la bienveillance, la bonté, la foi, la douceur et la tempérance ». De tels mortels ainsi guidés par l'esprit et divinement illuminés, bien qu'ils foulent encore les humbles sentiers du travail pénible et qu'ils accomplissent avec la fidélité humaine les devoirs de leur mission terrestre, ont déjà commencé à discerner les lumières de la vie éternelle qui miroitent sur les rives lointaines d'un autre monde ..._ <a id="a92_492"></a>[[LU 34:6.13](/fr/The_Urantia_Book/34#p6_13)]
 
 ## 5. Notre volonté et nos désirs
 
 L'amour que notre Ajusteur a pour nous est si sublime que jamais il n'utilisera de méthodes subversives pour nous faire changer d'idées. Il respectera toujours notre volonté, même si cela signifie notre mort spirituelle.
 
-> _Ils sont persévérants, ingénieux et parfaits dans leurs méthodes de travail, mais ne font jamais violence à l'individualité volitive de leurs hôtes. Nul humain ne sera jamais spiritualisé contre sa volonté par un Moniteur divin ; la survie est un don des Dieux qui doit être désirépar les créatures du temps._ [[LU 110:2.2](/fr/The_Urantia_Book/110#p2_2)]
+> _Ils sont persévérants, ingénieux et parfaits dans leurs méthodes de travail, mais ne font jamais violence à l'individualité volitive de leurs hôtes. Nul humain ne sera jamais spiritualisé contre sa volonté par un Moniteur divin ; la survie est un don des Dieux qui doit être désirépar les créatures du temps._ <a id="a98_313"></a>[[LU 110:2.2](/fr/The_Urantia_Book/110#p2_2)]
 
 **DÉSIR**. Voilà un mot qui mérite d'être souligné. Notre relation avec notre Ajusteur doit être scellée dans un désir suprême d'Amour. Comment pouvons-nous coopérer plus efficacement avec notre Ami intérieur? _Le Livre d'Urantia_ nous enseigne que la survie ne dépend pas simplement des théories de nos croyances, mais beaucoup plus de nos décisions, de notre détermination et de notre foi inébranlable. Le secret de la survie est contenu dans notre désir suprême de devenir semblable à Dieu et de faire tout ce qui est nécessaire et possible pour accomplir ce désir sublime. Les Ajusteurs ne faillent jamais à leur mission, ils sont parfaits. C'est nous qui les trahissons quand nous les privons de la possibilité d'atteindre le statut de personnalité par et à travers nous.
 
@@ -121,11 +145,11 @@ La conquête de ces niveaux d'évolution cosmiques se reflète de trois façons 
 
 > _1. ***Accord avec l'Ajusteur***. En se spiritualisant, le mental s'approche de la présence de l'Ajusteur proportionnellement au franchissement des cercles._
 > _2. ***Évolution de l'àme***. L'émergence de l'âme morontielle indique l'étendue et la profondeur de la maîtrise des cercles._
-> _3. ***Réalité de la personnalité***. Le degré de réalité de l'individualité est directement déterminé par la conquête des cercles. Les personnes deviennent plus réelles à mesure qu'elles s'élèvent du septième au premier niveau d'existence de mortel._ [[LU 110:6.8-10](/fr/The_Urantia_Book/110#p6_8)]
+> _3. ***Réalité de la personnalité***. Le degré de réalité de l'individualité est directement déterminé par la conquête des cercles. Les personnes deviennent plus réelles à mesure qu'elles s'élèvent du septième au premier niveau d'existence de mortel._ <a id="a147_254"></a>[[LU 110:6.8-10](/fr/The_Urantia_Book/110#p6_8)]
 
 On nous enjoint, dans les extraits suivants, l'importance de mettre en action nos désirs et nos décisions de vivre en accord avec la volonté divine qui se manifeste dans l'influence directionnelle de notre Ajusteur.
 
-> _La motivation de la foi transforme en expérience la pleine réalisation de la filiation de l'homme avec Dieu, mais l'ac tion, l'exécution des décisions, est essentielle pour atteindre, par évolution, la conscience de parenté progressive avec l'ac tu alis ation cosm ique de l'Ê tre Suprême. La foi transmue les potentiels en actuels dans le monde spirituel, mais les potentiels ne deviennent des actuels, dans les domaines finis du Suprême, que par la réalisation de l'expérience du choix et grâce à elle. Choisir de faire la volonté de Dieu réunit, dans un acte de personnalité, la foi spirituelle et les décisions matérielles, et fournit ainsi un point d'appui divin et spirituel permettant au levier humain et matériel de la soif de Dieu d'agir plus efficacement. Cette sage coordination des forces matérielles et spirituelles accroît considérablement la réalisation cosmique du Suprême et la comprébension morontielle des Déités du Paradis._ [[LU 110:6.17](/fr/The_Urantia_Book/110#p6_17)]
+> _La motivation de la foi transforme en expérience la pleine réalisation de la filiation de l'homme avec Dieu, mais l'ac tion, l'exécution des décisions, est essentielle pour atteindre, par évolution, la conscience de parenté progressive avec l'ac tu alis ation cosm ique de l'Ê tre Suprême. La foi transmue les potentiels en actuels dans le monde spirituel, mais les potentiels ne deviennent des actuels, dans les domaines finis du Suprême, que par la réalisation de l'expérience du choix et grâce à elle. Choisir de faire la volonté de Dieu réunit, dans un acte de personnalité, la foi spirituelle et les décisions matérielles, et fournit ainsi un point d'appui divin et spirituel permettant au levier humain et matériel de la soif de Dieu d'agir plus efficacement. Cette sage coordination des forces matérielles et spirituelles accroît considérablement la réalisation cosmique du Suprême et la comprébension morontielle des Déités du Paradis._ <a id="a151_948"></a>[[LU 110:6.17](/fr/The_Urantia_Book/110#p6_17)]
 
 ## 10. La destinée finale
 
@@ -135,11 +159,35 @@ En acquérant notre statut d'immortalité et la fusion avec notre Ajusteur, tous
 
 En conclusion de tout ce qui a été dit à travers ces mots, nous devons nous rappeler cette simple vérité : l'intention de nos actions est reliée à notre statut de survie.
 
-> _Les cercles cosmiques de croissance de la personnalité doivent finalement être atteints, mais il peut arriver que, sans qu'ily ait faute de votre part, les accidents du temps et les handicaps de l'existence matérielle vous aient empêché de dominer ces niveaux sur votre planète natale. Si vos intentions et vos désirs ont une valeur de survie, des décrets seront émis pour prolonger votre période probatoire. On vous allouera du temps supplémentaire pour démontrer ce que vous valez._ [[LU 112:5.6](/fr/The_Urantia_Book/112#p5_6)]
+> _Les cercles cosmiques de croissance de la personnalité doivent finalement être atteints, mais il peut arriver que, sans qu'ily ait faute de votre part, les accidents du temps et les handicaps de l'existence matérielle vous aient empêché de dominer ces niveaux sur votre planète natale. Si vos intentions et vos désirs ont une valeur de survie, des décrets seront émis pour prolonger votre période probatoire. On vous allouera du temps supplémentaire pour démontrer ce que vous valez._ <a id="a161_488"></a>[[LU 112:5.6](/fr/The_Urantia_Book/112#p5_6)]
 
 > _Ce qui assure la survie n'est pas tellement ce que le mental comprend, mais plutôt ce que le mental cherche à comprendre. Ce n'est pas tellement ce à quoi le mental ressemble, mais ce à quoi le mental s'efforce de ressembler, qui constitue son identification à l'esprit. Ce n'est pas tant le fait pour l'homme d'être conscient de Dieu qui se traduit par son ascension de l'univers, mais plutôt son désir ardent de rencontrer Dieu. Ce que vous êtes aujourd'bui n'est pas aussi important que ce que vous devenez jour après jour et dans l'éternité._ [1216.6-1217:0]
 
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/IUA_Journal/Conference_2000_2.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carol_Cannon/Quantum_Physics_Joy_and_the_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Physique quantique, joie et volonté du Père</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-septembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septembre 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Cathy_Jones/Paper_111_The_Adjuster_and_the_Soul">
+          <span class="pr-2">Fascicule 111 L'ajusteur Et L'âme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

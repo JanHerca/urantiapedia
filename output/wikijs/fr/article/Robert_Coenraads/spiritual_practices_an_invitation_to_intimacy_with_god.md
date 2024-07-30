@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Robert Coenraads<br>© 2023 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Peep_Sober/urantia_is_it_a_new_religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia – Est-ce une nouvelle religion ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/Unity_Harmony_Within_Diversity_of_Experience_and_Belief_3">
+          <span class="pr-2">L’unité – l’harmonie dans la diversité des expériences et des croyances</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Une exploration expérimentale de la relaxation, la méditation, la prière et l’adoration et de leurs bienfaits pour l’âme, le cœur, l’esprit et le corps.
 
@@ -61,39 +85,39 @@ Bien que ces termes tombent tous dans la sphère actuelle de la méditation et a
 
 Les citations suivantes du Livre d’Urantia éclairent la signification de ces termes :
 
-> La prière, et l’adoration qui lui est associée sont une technique pour se détacher de la routine de la vie courante, des travaux monotones de l’existence matérielle. [LU 144:4.5](/fr/The_Urantia_Book/144#p4_5)
+> La prière, et l’adoration qui lui est associée sont une technique pour se détacher de la routine de la vie courante, des travaux monotones de l’existence matérielle. <a id="a87_168"></a>[LU 144:4.5](/fr/The_Urantia_Book/144#p4_5)
 
-> Le contact du mental humain avec son Ajusteur intérieur, bien qu’il soit fréquemment favorisé par une méditation fervente, est beaucoup plus souvent facilité par les services sincères et aimants d’un ministère désintéressé auprès de ses semblables. [LU 91:7.1](/fr/The_Urantia_Book/91#p7_1)
+> Le contact du mental humain avec son Ajusteur intérieur, bien qu’il soit fréquemment favorisé par une méditation fervente, est beaucoup plus souvent facilité par les services sincères et aimants d’un ministère désintéressé auprès de ses semblables. <a id="a89_251"></a>[LU 91:7.1](/fr/The_Urantia_Book/91#p7_1)
 
 Les paragraphes 91:7:2 et 125:4.4 suggèrent que la méditation est considérée comme distincte de la prière :
 
-> Jésus emmenait souvent ses apôtres à part, pendant de courtes périodes, pour méditer et prier, mais, la plupart du temps, il les maintenait en contact de service avec les multitudes.  [LU 91:7.2](/fr/The_Urantia_Book/91#p7_2)
+> Jésus emmenait souvent ses apôtres à part, pendant de courtes périodes, pour méditer et prier, mais, la plupart du temps, il les maintenait en contact de service avec les multitudes.  <a id="a93_186"></a>[LU 91:7.2](/fr/The_Urantia_Book/91#p7_2)
 
-> Lorsque cette deuxième journée au temple fut terminée, Jésus retourna encore une fois à Béthanie pour la nuit. De nouveau, il sortit dans le jardin pour méditer et prier. Il était évident que son mental était absorbé à considérer de graves problèmes. [LU 125:4.4](/fr/The_Urantia_Book/125#p4_4)
+> Lorsque cette deuxième journée au temple fut terminée, Jésus retourna encore une fois à Béthanie pour la nuit. De nouveau, il sortit dans le jardin pour méditer et prier. Il était évident que son mental était absorbé à considérer de graves problèmes. <a id="a95_253"></a>[LU 125:4.4](/fr/The_Urantia_Book/125#p4_4)
 
 Le mot « prier » est utilisé fréquemment dans le Livre d’Urantia, il apparait 125 fois. Il est utilisé dans le sens de demander quelque chose et il est utilisé distinctement du mot « adoration ». Le mot « prière » apparait 285 fois.
 
-> Quand l’homme apprit que la prière ne pouvait contraindre les dieux, il lui donna davantage le caractère de pétition, de recherche d’une faveur. Mais la prière la plus authentique est en réalité une communion entre l’homme et son Créateur. [LU 91:2.3](/fr/The_Urantia_Book/91#p2_3)
+> Quand l’homme apprit que la prière ne pouvait contraindre les dieux, il lui donna davantage le caractère de pétition, de recherche d’une faveur. Mais la prière la plus authentique est en réalité une communion entre l’homme et son Créateur. <a id="a99_242"></a>[LU 91:2.3](/fr/The_Urantia_Book/91#p2_3)
 
-> Quand la prière ne recherche rien pour celui qui prie ni pour ses compagnons, alors une telle attitude de l’âme tend vers les niveaux de la véritable adoration. [LU 91:4.3](/fr/The_Urantia_Book/91#p4_3)
+> Quand la prière ne recherche rien pour celui qui prie ni pour ses compagnons, alors une telle attitude de l’âme tend vers les niveaux de la véritable adoration. <a id="a101_163"></a>[LU 91:4.3](/fr/The_Urantia_Book/91#p4_3)
 
-> La prière est destinée à faire penser moins les hommes et à leur faire réaliser plus. Elle n’est pas destinée à provoquer l’accroissement des connaissances, mais plutôt l’expansion de la clairvoyance. [LU 143:7.4](/fr/The_Urantia_Book/143#p7_4)
+> La prière est destinée à faire penser moins les hommes et à leur faire réaliser plus. Elle n’est pas destinée à provoquer l’accroissement des connaissances, mais plutôt l’expansion de la clairvoyance. <a id="a103_203"></a>[LU 143:7.4](/fr/The_Urantia_Book/143#p7_4)
 
 L’adoration est utilisée 567 fois dans le Livre d’Urantia. L’adoration est la note la plus élevée dans l’échelle musicale croissante des activités dévotionnelles bénéfiques à tous les individus – commençant par le repos et la relaxation, puis par la réflexion et la méditation, puis la prière et finalement l’adoration, l’adoration étant l’acte ultime de dévotion au Père et le « repos idéal de l’âme ».
 
-> En tout temps et au long des âges, l’adoration sincère de tout être humain — quant au progrès spirituel individuel — est reconnue par l’esprit intérieur comme un hommage rendu au Père qui est aux cieux. [LU 142:3.8](/fr/The_Urantia_Book/142#p3_8)
+> En tout temps et au long des âges, l’adoration sincère de tout être humain — quant au progrès spirituel individuel — est reconnue par l’esprit intérieur comme un hommage rendu au Père qui est aux cieux. <a id="a107_205"></a>[LU 142:3.8](/fr/The_Urantia_Book/142#p3_8)
 
 La distinction entre la prière et l’adoration est soulignée à de nombreuses reprises.
 
-> …La prière est un soutien spirituel, mais l’adoration est divinement créative. [LU 143:7.5](/fr/The_Urantia_Book/143#p7_5)
+> …La prière est un soutien spirituel, mais l’adoration est divinement créative. <a id="a111_81"></a>[LU 143:7.5](/fr/The_Urantia_Book/143#p7_5)
 
-> La prière est un rappel du moi — une pensée sublime. L’adoration est l’oubli du moi — une superpensée. L’adoration est l’attention sans effort, le vrai repos idéal de l’âme, une forme d’exercice spirituel reposant. [LU 143:7.7](/fr/The_Urantia_Book/143#p7_7)
+> La prière est un rappel du moi — une pensée sublime. L’adoration est l’oubli du moi — une superpensée. L’adoration est l’attention sans effort, le vrai repos idéal de l’âme, une forme d’exercice spirituel reposant. <a id="a113_217"></a>[LU 143:7.7](/fr/The_Urantia_Book/143#p7_7)
 
-> De même que l’on peut assimiler la prière à la recharge des batteries spirituelles de l’âme, de même on peut comparer l’adoration au fait d’accorder l’écoute de l’âme sur la fréquence des communications universelles de l’esprit infini du Père Universel. [LU 144:4.8](/fr/The_Urantia_Book/144#p4_8)
+> De même que l’on peut assimiler la prière à la recharge des batteries spirituelles de l’âme, de même on peut comparer l’adoration au fait d’accorder l’écoute de l’âme sur la fréquence des communications universelles de l’esprit infini du Père Universel. <a id="a115_256"></a>[LU 144:4.8](/fr/The_Urantia_Book/144#p4_8)
 
 Et considérez la portée extraordinaire de l’adoration par rapport à celle de la simple prière dans le paragraphe suivant du fascicule 5 – La relation de Dieu avec l’individu.
 
-> Les prières, toutes les communications formelles et toutes les affaires, sauf le culte et l’adoration du Père Universel, sont du ressort d’un univers local. En général, elles ne dépassent pas les limites juridictionnelles d’un Fils Créateur. Mais l’adoration est certainement encircuitée et transmise à la personne du Créateur par le fonctionnement du circuit de personnalité du Père. [LU 5:3.2](/fr/The_Urantia_Book/5#p3_2)
+> Les prières, toutes les communications formelles et toutes les affaires, sauf le culte et l’adoration du Père Universel, sont du ressort d’un univers local. En général, elles ne dépassent pas les limites juridictionnelles d’un Fils Créateur. Mais l’adoration est certainement encircuitée et transmise à la personne du Créateur par le fonctionnement du circuit de personnalité du Père. <a id="a119_387"></a>[LU 5:3.2](/fr/The_Urantia_Book/5#p3_2)
 
 Dans la Bible, la méditation est décrite comme un moyen de rester stable et centré. Elle est mentionnée 23 fois, par exemple :
 
@@ -136,3 +160,27 @@ De Arena – Été 2022, par Robert Coenraads, Australie, le 25 juin 2023.
 - [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2023/?lang=fr)
 - [Cet article](https://urantia-association.org/pratiques-spirituelles-une-invitation-a-lintimite-avec-dieu/?lang=fr)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Peep_Sober/urantia_is_it_a_new_religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia – Est-ce une nouvelle religion ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/Unity_Harmony_Within_Diversity_of_Experience_and_Belief_3">
+          <span class="pr-2">L’unité – l’harmonie dans la diversité des expériences et des croyances</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Jean Ascher<br>© 2021 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kulieke/safe_and_true">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sûr et vrai – (Le regretté)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/application_of_scientific_thinking_to_cosmology_in_the_urantia_book">
+          <span class="pr-2">Application de la pensée scientifique à la cosmologie dans Le Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -62,7 +86,7 @@ Chaque spectacle est écrit avec un texte conçu et formulé en fonction de cet 
 
 « Le spectacle est une tentative de transformer la vraie réalité cosmique en virtualité ultime, une transformation de l’expérience spirituelle en conscience cosmique existentielle ».
 
-> La haute mission d’un art est de préfigurer par ses illusions une réalité supérieure de l’univers, de cristalliser les émotions du temps en une pensée d’éternité. <a id="a84_159"></a>[[LU 48:7.23](/fr/The_Urantia_Book/48#p7_23)]
+> La haute mission d’un art est de préfigurer par ses illusions une réalité supérieure de l’univers, de cristalliser les émotions du temps en une pensée d’éternité. <a id="a88_165"></a>[[LU 48:7.23](/fr/The_Urantia_Book/48#p7_23)]
 
 « Avec cette phrase en tête… S’il vous plaît, ouvrez-vous à un Univers de Lumière, de Vie et d’Amour… et laissez-nous partager notre joie dans une conquête à jamais immortelle pour la vérité, la bonté et la beauté.
 
@@ -168,3 +192,28 @@ Yman Juran (aka) Yourantiaman (aka) Jean Ascher
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2021/?lang=fr)
 - [Cet article](https://urantia-association.org/un-urantien-dans-sa-seconde-vie/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kulieke/safe_and_true">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sûr et vrai – (Le regretté)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/application_of_scientific_thinking_to_cosmology_in_the_urantia_book">
+          <span class="pr-2">Application de la pensée scientifique à la cosmologie dans Le Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

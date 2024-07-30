@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Peep Söber<br>© 2000 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bhagavan_Buritz/The_World_Book_Fair_at_New_Delhi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Feria Mundial del Libro en Nueva Delhi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-junio-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Junio 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Peep Sõber
 Tallinn, Estonia
@@ -48,3 +69,24 @@ EL 8 de abril pasado, 80 lectores de _El libro de Urantia_ se reunieron en Talli
 El último discurso lo dio el profesor en matemáticas Vello Reeben, de la Universidad de Tartu. El tema de su plática fue «Cosmología: tengo más confianza en _El libro de Urantia_ que en las ciencias académicas». El profesor criticó fuertemente la teoría moderna del Big Bang y se refirió a los hallazgos de una serie de científicos, como H. Arp, H. Alfen y F. Hoyle, quienes han rechazado la noción de un Big Bang como el comienzo de la existencia del universo. A su vez, reportó varios descubrimientos científicos que dan crédito a nociones del crucial significado del número siete en el universo.
 
 Nuestra conferencia marcó muchos buenos resultados. Varios nuevos lectores hallaron inspiración para leer el libro y unirse a un grupo de estudio. Pronto pondremos en marcha los preparativos para nuestra conferencia de verano en agosto. Alrededor de 50 lectores han aplicado ya para participar en el evento. También esperamos ver un gran número de lectores de otros países. Hermanos y hermanas, ¡Bienvenidos a Eesti!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bhagavan_Buritz/The_World_Book_Fair_at_New_Delhi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Feria Mundial del Libro en Nueva Delhi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-junio-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Junio 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

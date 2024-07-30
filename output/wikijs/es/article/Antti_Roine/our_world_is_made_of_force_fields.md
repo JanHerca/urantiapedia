@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Antti Roine<br>© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Neal_Waldrop/urantias_unrevealed_destiny">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El destino no revelado de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El mundo físico que nos rodea parece muy concreto porque es tangible y podemos percibirlo con los sentidos. Por esa razón es fácil pensar que toda la realidad en la que vivimos está hecha de materia, y los hechos de nuestra vida están basados en esa misma materia. Sin embargo, esta ilusión visible se rompe cuando empezamos a examinar el mundo real que nos rodea con los ojos de la ciencia.
 
@@ -34,7 +55,7 @@ La ciencia solo ha dado nombres a los fenómenos naturales y ha descubierto las 
 Desde la perspectiva del idealismo filosófico, la realidad es en última instancia de naturaleza espiritual, y el mundo materialista es solo una sombra del mundo espiritual. Además, la realidad espiritual y la materialista no pueden entrar en conflicto, porque los valores espirituales no se pueden medir con sensores físicos, ni los valores físicos con sensores espirituales.
 <br style="clear:both;"/>
 
-> No podéis poner la alegría espiritual bajo el microscopio; no podéis pesar el amor en una balanza; no podéis medir los valores morales ni podéis tampoco calcular la calidad de la adoración espiritual. [LU 196:3.18](/es/The_Urantia_Book/196#p3_18)
+> No podéis poner la alegría espiritual bajo el microscopio; no podéis pesar el amor en una balanza; no podéis medir los valores morales ni podéis tampoco calcular la calidad de la adoración espiritual. <a id="a57_203"></a>[LU 196:3.18](/es/The_Urantia_Book/196#p3_18)
 
 No podemos saber con seguridad por qué hemos acabado en un estado virtual así. Sin embargo, podemos intentar deducir con humildad y mente abierta el significado de nuestra vida a partir del maravilloso mundo que nos rodea, un mundo dominado por la incertidumbre.
 
@@ -45,3 +66,24 @@ En cualquier otro tipo de etapa, no podríamos practicar el uso de nuestro propi
 - [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2023/?lang=es)
 - [Este artículo](https://urantia-association.org/el-mundo-esta-hecho-de-campos-de-fuerza/?lang=es)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Neal_Waldrop/urantias_unrevealed_destiny">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El destino no revelado de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

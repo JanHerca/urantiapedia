@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 David Kulieke<br>© 2021 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/journal_editorial_november_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mot de l’éditeur – novembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Ascher/a_urantian_in_second_life">
+          <span class="pr-2">Un Urantien dans sa seconde vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -21,13 +45,13 @@ La cinquième révélation d’époque a été présentée avant son temps. Mêm
 
 Pourtant, les révélations d’époque font partie intégrante de la lente progression d’Urantia vers la lumière et la vie, surtout si l’on considère tous les faux pas que cette planète a faits. Si _Le_ _Livre d’Urantia_ doit exercer une influence significative pour apporter la lumière sur Urantia, à la fois à son propre égard et en tant que véhicule pour revivifier certains aspects de la quatrième révélation, ses adeptes ne doivent pas seulement apporter le livre à ceux qui sont prêts, ils doivent trouver des moyens de transmettre ses enseignements au reste du monde.
 
-Il faut des individus transformés pour transformer le monde. Comme le dit _Le Livre d’Urantia_, _La caractéristique sociale d’une vraie religion consiste dans le fait qu’elle cherche invariablement à convertir les individus et à transformer le monde_ <a id="a46_236"></a>[[LU 160:5.5](/fr/The_Urantia_Book/160#p5_5)].
+Il faut des individus transformés pour transformer le monde. Comme le dit _Le Livre d’Urantia_, _La caractéristique sociale d’une vraie religion consiste dans le fait qu’elle cherche invariablement à convertir les individus et à transformer le monde_ <a id="a47_251"></a>[[LU 160:5.5](/fr/The_Urantia_Book/160#p5_5)].
 
-Le livre suggère aussi que l’éducation est une des clés de la transformation de ces individus. On nous dit : _La culture présuppose une qualité de mental ; la culture ne saurait être rehaussée si le mental ne s’élève pas._ <a id="a48_189"></a>[[LU 50:6.4](/fr/The_Urantia_Book/50#p6_4)].
+Le livre suggère aussi que l’éducation est une des clés de la transformation de ces individus. On nous dit : _La culture présuppose une qualité de mental ; la culture ne saurait être rehaussée si le mental ne s’élève pas._ <a id="a49_223"></a>[[LU 50:6.4](/fr/The_Urantia_Book/50#p6_4)].
 
 En tant que professeur d’écriture et de littérature, mes cours et mon tutorat ont fourni de nombreuses occasions de partager les concepts du Livre d’Urantia avec mes étudiants. Je peux assigner des sujets d’écriture, spécialement ceux de la littérature, qui créent des opportunités de compréhension et de discussion. L’écriture est également un véhicule qui permet d’élever les compétences de pensée critique. La grande littérature abonde en thèmes qui sont enseignés dans _Le_ _Livre d’Urantia_, du concept du rôle de l’affliction à la croissance par des décisions sincères.
 
-Au cours des dernières parties de ma vie sur Urantia, je me suis passionné pour l’affirmation du livre selon laquelle _L’éducation de l’opinion publique est la seule méthode saine et sure pour accélérer la civilisation._ [[LU 71:2.7](/fr/The_Urantia_Book/71#p2_7)]. C’est une expression éloquente de la transformation des individus pour transformer la société, et je suis impatient de savoir ce que je peux faire à ce sujet.
+Au cours des dernières parties de ma vie sur Urantia, je me suis passionné pour l’affirmation du livre selon laquelle _L’éducation de l’opinion publique est la seule méthode saine et sure pour accélérer la civilisation._ <a id="a53_221"></a>[[LU 71:2.7](/fr/The_Urantia_Book/71#p2_7)]. C’est une expression éloquente de la transformation des individus pour transformer la société, et je suis impatient de savoir ce que je peux faire à ce sujet.
 
 Mon expérience en tant qu’éducateur comprend trois décennies d’enseignement de l’anglais, de la littérature et de l’écriture en classe, seize étés passés à enseigner l’analyse littéraire à des élèves doués du secondaire, et des cours de musique individuels depuis que je suis au secondaire. Depuis que j’ai quitté la salle de classe, j’ai donné des milliers de cours particuliers. J’enseigne la littérature et l’écriture à des étudiants chinois via Zoom, ainsi que par le biais d’une classe en Chine en août dernier, et j’ai été actif dans l’éducation concernant _Le Livre d’Urantia._
 
@@ -41,7 +65,7 @@ L’enseignement de l’écriture est une ressource riche. Une approche consiste
 
 L’écriture est aussi une occasion d’enseigner la réflexion, comme devrait l’être n’importe quel cours. Ma définition pratique, quelque peu simpliste, de l’intelligence est « la capacité de percevoir les véritables relations entre les faits, les idées et les systèmes d’idées ». Lors de la rédaction d’un essai, il faut comprendre l’accentuation, c’est-à-dire distinguer les niveaux d’importance de la thèse, du sujet du paragraphe et des détails à l’appui ; la cohérence, c’est-à-dire l’ordre et le flux ; la pertinence, c’est-à-dire le fait que les éléments se rapportent à un point ; la logique, c’est-à-dire le degré de logique d’un argument ; et bien d’autres compétences de pensée critique. Ces perceptions améliorées aident l’élève sur le chemin de la vérité :
 
-> Il n’y a que trois éléments dans la réalité universelle : le fait, l’idée et la relation. La conscience religieuse identifie ces réalités en tant que science, philosophie et vérité. La philosophie aurait tendance à considérer ces activités comme la raison, la sagesse et la foi — la réalité physique, la réalité intellectuelle et la réalité spirituelle. <a id="a66_316"></a>[[LU 196:3.2](/fr/The_Urantia_Book/196#p3_2)]
+> Il n’y a que trois éléments dans la réalité universelle : le fait, l’idée et la relation. La conscience religieuse identifie ces réalités en tant que science, philosophie et vérité. La philosophie aurait tendance à considérer ces activités comme la raison, la sagesse et la foi — la réalité physique, la réalité intellectuelle et la réalité spirituelle. <a id="a67_356"></a>[[LU 196:3.2](/fr/The_Urantia_Book/196#p3_2)]
 
 Un autre domaine de la classe d’anglais, la littérature, est une ressource apparemment sans fin pour mieux comprendre les concepts du Livre d’Urantia. Cela ne devrait pas nous surprendre car la grande et bonne littérature est écrite par certains des meilleurs observateurs.
 
@@ -62,21 +86,21 @@ Macbeth déclare : « Je suis dans le sang, je me suis tellement enfoncé que si
 
 _Le Livre d’Urantia_ traite du même thème lorsque l’apôtre Pierre ne peut s’empêcher de renier Jésus :
 
-> _Après avoir fait le premier pas dans le sentier du compromis et de la moindre résistance, Pierre ne voyait pas d’autre solution que de poursuivre la ligne de conduite qu’il avait adoptée. Il faut un grand et noble caractère pour revenir sur ses pas et prendre le bon chemin après s’être engagé dans le mauvais. Bien trop souvent, notre propre mental tend à justifier la poursuite du sentier de l’erreur une fois que nous nous y sommes engagés._ <a id="a87_375"></a>[[LU 184:2.12](/fr/The_Urantia_Book/184#p2_12)]
+> _Après avoir fait le premier pas dans le sentier du compromis et de la moindre résistance, Pierre ne voyait pas d’autre solution que de poursuivre la ligne de conduite qu’il avait adoptée. Il faut un grand et noble caractère pour revenir sur ses pas et prendre le bon chemin après s’être engagé dans le mauvais. Bien trop souvent, notre propre mental tend à justifier la poursuite du sentier de l’erreur une fois que nous nous y sommes engagés._ <a id="a88_448"></a>[[LU 184:2.12](/fr/The_Urantia_Book/184#p2_12)]
 
 En plus de démontrer la dissonance cognitive, nous pouvons également examiner le problème de la décision de faire quelque chose à l’encontre de ses meilleures valeurs, et la nécessité de développer l’habitude de prendre et de suivre les bonnes décisions.
 
 Le thème le plus puissant qui ressort des décisions de Macbeth se produit au fur et à mesure qu’il s’effiloche au cours de l’histoire et qu’il subit une désintégration continue de sa personnalité. Lorsqu’il expose si clairement toutes les raisons pour lesquelles il ne devrait pas tuer Duncan mais qu’il le fait quand même, sa personnalité commence à perdre sa cohérence : ses actions, sa volonté et son âme ne peuvent pas fonctionner ensemble, son progrès spirituel est inversé. À ce sujet _Le Livre d’Urantia_ déclare :
 
-> _Un mental humain basé exclusivement sur la conscience de sensations physiques ne saurait jamais atteindre les niveaux spirituels. Cette sorte de mental matériel manquerait totalement du sens des valeurs morales et serait dépourvue du sens directeur de domination spirituelle, qui est si essentiel pour unifier harmonieusement la personnalité dans le temps, et qui est inséparable de la survie de la personnalité dans l’éternité._ <a id="a93_394"></a>[[LU 133:7.10](/fr/The_Urantia_Book/133#p7_10)]
+> _Un mental humain basé exclusivement sur la conscience de sensations physiques ne saurait jamais atteindre les niveaux spirituels. Cette sorte de mental matériel manquerait totalement du sens des valeurs morales et serait dépourvue du sens directeur de domination spirituelle, qui est si essentiel pour unifier harmonieusement la personnalité dans le temps, et qui est inséparable de la survie de la personnalité dans l’éternité._ <a id="a94_433"></a>[[LU 133:7.10](/fr/The_Urantia_Book/133#p7_10)]
 
 En classe, nous mettons l’accent sur le concept d’_intégrité_. L’intégrité est généralement utilisée pour signifier des valeurs élevées, l’honnêteté ou la moralité. Cette signification est due au fait qu’elle est dérivée du mot « intégral », ou unicité. Cette unité reflète l’intégration de la personnalité qui s’opère lorsque la volonté d’une personne guide ses actions conformément à sa meilleure perception de la volonté du Père. En classe, nous discutons de la façon dont Macbeth a souffert de la désintégration de sa personnalité, une autre façon de dire qu’il a, au sens figuré, perdu son âme. Et une telle action est conforme à la perte du statut d’être humain dans un sens spirituel.
 
 En contraste avec les thèmes sombres mais éclairants de _Macbeth_, le poème « Ulysse » d’Alfred Lord Tennyson montre une âme qui progresse. Ce poème parle d’Ulysse alors qu’il approche de la fin de sa vie et aspire à retrouver l’aventure et le but de sa jeunesse héroïque. Mais il reconnaît qu’il peut le faire dans une réalité plus élevée, qu’il cherchera « à suivre la connaissance comme une étoile filante, /au-delà des limites de la pensée humaine… mon but est de… naviguer au-delà du coucher du soleil, et… il se peut que nous touchions les îles heureuses \[l’au-delà\] ». Ainsi, la vie précède la vie, et nos objectifs se poursuivent. Ou du moins, c’est ce dont nous discutons.
 
-Un autre excellent exemple d’un morceau de littérature qui peut être vu dans la perspective du Livre d’Urantia est le film _It’s a Wonderful Life_ (C’est une vie magnifique). Le film est un témoignage que la vie humaine compte. On y trouve également de merveilleux thèmes Urantien au début du film, lorsque George Bailey, un jeune homme qui veut être important, rencontre un dilemme lorsqu’il voit le pharmacien, M. Gower, pour qui il est livreur, mélange de l’aspirine et de l’arsenic. M. Gower est manifestement ivre, et il devient violent envers George, le frappant sur son oreille blessée et insistant pour que George délivre l’ordonnance erronée. George court à côté pour demander de l’aide à son père, mais celui-ci est occupé ; George apprend ainsi qu’il doit être responsable de la résolution de son propre problème. Finalement, il parvient à joindre M. Gower, et George est capable de lui pardonner et de conserver son affection parce que George a appris que M. Gower venait de recevoir un télégramme l’informant que son fils était mort pendant la Première Guerre mondiale. Le public peut également pardonner à M. Gower, et l’élève comprend que lorsque _…_ _Si vous pouviez seulement sonder les motifs de vos compagnons, combien mieux vous les comprendriez ! Si seulement vous pouviez connaitre vos semblables, vous en tomberiez finalement amoureux._ <a id="a99_1184"></a>[[LU 100:4.5](/fr/The_Urantia_Book/100#p4_5)]. En effet, la saisie de ce thème est un service central fourni par la littérature.
+Un autre excellent exemple d’un morceau de littérature qui peut être vu dans la perspective du Livre d’Urantia est le film _It’s a Wonderful Life_ (C’est une vie magnifique). Le film est un témoignage que la vie humaine compte. On y trouve également de merveilleux thèmes Urantien au début du film, lorsque George Bailey, un jeune homme qui veut être important, rencontre un dilemme lorsqu’il voit le pharmacien, M. Gower, pour qui il est livreur, mélange de l’aspirine et de l’arsenic. M. Gower est manifestement ivre, et il devient violent envers George, le frappant sur son oreille blessée et insistant pour que George délivre l’ordonnance erronée. George court à côté pour demander de l’aide à son père, mais celui-ci est occupé ; George apprend ainsi qu’il doit être responsable de la résolution de son propre problème. Finalement, il parvient à joindre M. Gower, et George est capable de lui pardonner et de conserver son affection parce que George a appris que M. Gower venait de recevoir un télégramme l’informant que son fils était mort pendant la Première Guerre mondiale. Le public peut également pardonner à M. Gower, et l’élève comprend que lorsque _…_ _Si vous pouviez seulement sonder les motifs de vos compagnons, combien mieux vous les comprendriez ! Si seulement vous pouviez connaitre vos semblables, vous en tomberiez finalement amoureux._ <a id="a100_1360"></a>[[LU 100:4.5](/fr/The_Urantia_Book/100#p4_5)]. En effet, la saisie de ce thème est un service central fourni par la littérature.
 
-Il y a de nombreux thèmes du Livre d’Urantia qui émergent naturellement de la littérature. Dans de nombreux romans de passage à l’âge adulte, les tournants s’articulent autour de « décisions, décisions, et encore des décisions » et de « sincérité, sincérité, et encore de la sincérité ». Le fantastique offre souvent une perspective qui s’appuie davantage sur le sens et les valeurs que sur la réalité physique. Les romans dystopiques, un élément de base de la littérature pour jeunes adultes, montrent la vérité de la mota 12, selon laquelle, _Dans le cosmos, la plus grande affliction est de n’avoir jamais été affligé. Les mortels n’apprennent la sagesse qu’en subissant des tribulations._ <a id="a101_551"></a>[LU 48:7.14](/fr/The_Urantia_Book/48#p7_14). Et de nombreuses œuvres donnent le sentiment que, que ce soit par amour ou par loyauté, que l’histoire se termine de manière heureuse ou non, les relations entre les personnalités sont primordiales.
+Il y a de nombreux thèmes du Livre d’Urantia qui émergent naturellement de la littérature. Dans de nombreux romans de passage à l’âge adulte, les tournants s’articulent autour de « décisions, décisions, et encore des décisions » et de « sincérité, sincérité, et encore de la sincérité ». Le fantastique offre souvent une perspective qui s’appuie davantage sur le sens et les valeurs que sur la réalité physique. Les romans dystopiques, un élément de base de la littérature pour jeunes adultes, montrent la vérité de la mota 12, selon laquelle, _Dans le cosmos, la plus grande affliction est de n’avoir jamais été affligé. Les mortels n’apprennent la sagesse qu’en subissant des tribulations._ <a id="a102_693"></a>[LU 48:7.14](/fr/The_Urantia_Book/48#p7_14). Et de nombreuses œuvres donnent le sentiment que, que ce soit par amour ou par loyauté, que l’histoire se termine de manière heureuse ou non, les relations entre les personnalités sont primordiales.
 
 > « Là où les mots perdent leur sens, les gens perdent leur vie. » –Confucius
 
@@ -111,7 +135,7 @@ L’éducation équitable des filles est une préoccupation commune, l’objecti
 
 Les avantages d’une culture qui s’éduque sont innombrables : moins de violence, plus de richesse, moins de maladies, une durée de vie plus longue, plus d’égalité et plus de tolérance. Il y a même des avantages spirituels, qui mènent progressivement de la connaissance à la compréhension, puis à l’application de valeurs et à la conscience spirituelle. Selon Global Awareness, « L’éducation rend les gens plus susceptibles de participer aux processus politiques de manière constructive et non violente. » Le Dr Martin Luther King a écrit : « L’intelligence plus le caractère – voilà le but de la véritable éducation. »
 
-> Le but de l’éducation est de développer et d’aiguiser ces dotations innées du mental humain ; le but de la civilisation, de les exprimer ; le but de l’expérience de la vie, de les réaliser ; le but de la religion, de les ennoblir ; et le but de la personnalité, de les unifier. <a id="a136_309"></a>[[LU 16:6.11](/fr/The_Urantia_Book/16#p6_11)]
+> Le but de l’éducation est de développer et d’aiguiser ces dotations innées du mental humain ; le but de la civilisation, de les exprimer ; le but de l’expérience de la vie, de les réaliser ; le but de la religion, de les ennoblir ; et le but de la personnalité, de les unifier. <a id="a137_280"></a>[[LU 16:6.11](/fr/The_Urantia_Book/16#p6_11)]
 
 ### Mes plans pour aider en dehors de la salle de classe
 
@@ -121,7 +145,7 @@ Mon héroïne est Malala Yousafzai, la jeune Pakistanaise qui s’est opposée a
 
 De manière plus pertinente, comme Malala, je veux aider les gens du monde entier à être mieux éduqués. Mais pour aider notre planète mal orientée à se rapprocher de son cours évolutif, pour faciliter sa préparation aux valeurs de la cinquième révélation d’époque, pour l’aider à se préparer à entendre le véritable évangile de Jésus, pour améliorer la moralité, la qualité de la pensée, la tolérance et la spiritualité de ses individus, l’éducation sur Urantia doit être plus profonde.
 
-> La religion implique l’existence d’idéaux non encore découverts qui transcendent de loin les critères connus d’éthique et de morale incorporés dans les usages sociaux, même les plus élevés, des institutions les plus mures de la civilisation. La religion cherche à atteindre des idéaux non découverts, des réalités inexplorées, des valeurs suprahumaines, une sagesse divine et un véritable aboutissement spirituel. <a id="a146_341"></a>[[LU 160:5.5](/fr/The_Urantia_Book/160#p5_5)]
+> La religion implique l’existence d’idéaux non encore découverts qui transcendent de loin les critères connus d’éthique et de morale incorporés dans les usages sociaux, même les plus élevés, des institutions les plus mures de la civilisation. La religion cherche à atteindre des idéaux non découverts, des réalités inexplorées, des valeurs suprahumaines, une sagesse divine et un véritable aboutissement spirituel. <a id="a147_416"></a>[[LU 160:5.5](/fr/The_Urantia_Book/160#p5_5)]
 
 J’ai contribué financièrement à certaines de ces organisations éducatives, mais l’argent ne semble pas suffisant ; apporter son expérience de vie et ses compétences semble essentiel.
 
@@ -157,3 +181,28 @@ _Le Livre d’Urantia_ et même ses enseignements sont des moyens pour arriver �
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2021/?lang=fr)
 - [Cet article](https://urantia-association.org/sur-et-vrai/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/journal_editorial_november_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mot de l’éditeur – novembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Ascher/a_urantian_in_second_life">
+          <span class="pr-2">Un Urantien dans sa seconde vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Nicholas W. Scalzo<br>© 2000 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/2000_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Septiembre 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Living_the_Will_of_Our_Father">
+          <span class="pr-2">Viviendo la voluntad de nuestro Padre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Nicholas_W_Scalzo.jpg">
@@ -24,28 +48,28 @@ Se nos ha dicho por un Consejero Divino:
 
 <br style="clear:both;"/>
 
-> _Los que conocen a Dios han experimentado el hecho de su presencia; tales mortales conocedores de Dios poseen en su experiencia personal la única prueba positiva de la existencia del Dios viviente la cual puede ofrecer un ser humano a otro. La existencia de Dios está totalmente más allá de toda posibilidad de demostración salvo por el contacto entre la conciencia de Dios en la mente humana y la presencia de Dios en la forma del Ajustador del Pensamiento que mora en el intelecto mortal y que es otorgado al hombre como la dádiva gratuita del Padre Universal._ [[LU 1:2.8](/es/The_Urantia_Book/1#p2_8)]
+> _Los que conocen a Dios han experimentado el hecho de su presencia; tales mortales conocedores de Dios poseen en su experiencia personal la única prueba positiva de la existencia del Dios viviente la cual puede ofrecer un ser humano a otro. La existencia de Dios está totalmente más allá de toda posibilidad de demostración salvo por el contacto entre la conciencia de Dios en la mente humana y la presencia de Dios en la forma del Ajustador del Pensamiento que mora en el intelecto mortal y que es otorgado al hombre como la dádiva gratuita del Padre Universal._ <a id="a50_566"></a>[[LU 1:2.8](/es/The_Urantia_Book/1#p2_8)]
 
 
-> _Vuestro mensaje para el mundo será: Buscad primero el reino de Dios y su rectitud, ... porque este reino que predicaréis es Dios dentro de vosotros._ [[LU 140:1.5](/es/The_Urantia_Book/140#p1_5); emphasis mine]
+> _Vuestro mensaje para el mundo será: Buscad primero el reino de Dios y su rectitud, ... porque este reino que predicaréis es Dios dentro de vosotros._ <a id="a53_153"></a>[[LU 140:1.5](/es/The_Urantia_Book/140#p1_5); emphasis mine]
 
 Esta mañana, dentro de estas salas santificadas hay hombres y mujeres que han experimentado el hecho de la presencia de Dios y que verdaderamente saben de él. Estos mortales conscientes de Dios han encontrado a Dios dentro de sí mismo. Han trascendido la posición de creencia y han llegado a conocerle real y conscientemente, porque han experimentado a Dios. Estos mortales conocedores de Dios estarán compartiendo su vida personal con nosotros para ofrecernos la única prueba posible de la existencia de Dios. Como mortales conocedores de Dios, estaremos abriendo nuestra alma al otro para mostrar el crecimiento espiritual que ha ocurrido en nuestra vida. Y viviendo la voluntad de nuestro Padre en nuestra vida diaria, compartiremos cómo hemos hecho contacto personal y consciente con la consciencia de Dios — presencia del espíritu de Dios que mora nuestro intelecto mortal.
 
-Esta mañana seré el primero de muchos oradores que compartirán con vosotros su vida, tal como hemos vivido y experimentado personalmente el vivir la voluntad de nuestro Padre. Amamos a nuestro Padre, como todos vosotros lo hacéis. Todos nosotros somos solamente hombres y mujeres intentando servirle lo mejor posible a él y a nuestros hermanos y hermanas en la carne. El cielo sabe que no somos perfectos, especialmente yo no lo soy. Pero intentamos serlo. Ése es el por que estemos aquí hoy para compartir y aprender del otro el mandato: «_Sé tú perfecto, tal como yo soy perfecto_» [[LU 1:0.3](/es/The_Urantia_Book/1#p0_3); [LU 1:5.1](/es/The_Urantia_Book/1#p5_1); [LU 7:4.7](/es/The_Urantia_Book/7#p4_7); [LU 26:4.12](/es/The_Urantia_Book/26#p4_12) y otros]. Esperamos que en las sesiones de taller de trabajo os sintáis libres de compartir vuestras experiencias espirituales con los demás tal como nosotros, los oradores, compartimos nuestra vida con vosotros.
+Esta mañana seré el primero de muchos oradores que compartirán con vosotros su vida, tal como hemos vivido y experimentado personalmente el vivir la voluntad de nuestro Padre. Amamos a nuestro Padre, como todos vosotros lo hacéis. Todos nosotros somos solamente hombres y mujeres intentando servirle lo mejor posible a él y a nuestros hermanos y hermanas en la carne. El cielo sabe que no somos perfectos, especialmente yo no lo soy. Pero intentamos serlo. Ése es el por que estemos aquí hoy para compartir y aprender del otro el mandato: «_Sé tú perfecto, tal como yo soy perfecto_» <a id="a57_584"></a>[[LU 1:0.3](/es/The_Urantia_Book/1#p0_3); <a id="a57_626"></a>[LU 1:5.1](/es/The_Urantia_Book/1#p5_1); <a id="a57_667"></a>[LU 7:4.7](/es/The_Urantia_Book/7#p4_7); <a id="a57_708"></a>[LU 26:4.12](/es/The_Urantia_Book/26#p4_12) y otros]. Esperamos que en las sesiones de taller de trabajo os sintáis libres de compartir vuestras experiencias espirituales con los demás tal como nosotros, los oradores, compartimos nuestra vida con vosotros.
 
 Dios debe ser lo **primero** en nuestra vida. Nuestro deseo supremo debe ser conocerle; vivir nuestra vida tal como él la viviría, permitiéndoselo; hacer su voluntad, su camino; servirle siempre en su gloria; y amar al prójimo como él nos ama y como nosotros le amamos a él. Todo ello sabiendo que al hacer su voluntad, su camino, él de hecho vive nuestra vida en determinados momentos por caminos de perfección celestial. Hemos sido testigos del trabajo de Dios, hemos visto su perfección en acción, y sabemos de él como parte real de nosotros.
 
 ## Las diversas funciones de Cambiadores del Pensamiento, Ajustadores del Pensamiento y Controladores del Pensamiento
 
-> _Aunque el Padre Universal resida personalmente en el Paraiso, en el centro mismo de los universos, también está realmente presente en los mundos del espacio en las mentes de sus incontables hijos temporales, porque mora en ellos en forma de Monitores Misteriosos._ [[LU 107:0.1](/es/The_Urantia_Book/107#p0_1)]
+> _Aunque el Padre Universal resida personalmente en el Paraiso, en el centro mismo de los universos, también está realmente presente en los mundos del espacio en las mentes de sus incontables hijos temporales, porque mora en ellos en forma de Monitores Misteriosos._ <a id="a63_268"></a>[[LU 107:0.1](/es/The_Urantia_Book/107#p0_1)]
 
-> _Los Ajustadores son la realidad del amor del Padre encarnado en las almas de los hombres_ [[LU 107:0.2](/es/The_Urantia_Book/107#p0_2)]
+> _Los Ajustadores son la realidad del amor del Padre encarnado en las almas de los hombres_ <a id="a65_93"></a>[[LU 107:0.2](/es/The_Urantia_Book/107#p0_2)]
 
 El Ajustador es el amor de Dios en el corazón y en la alma de los hombres. Dios os ama —ésa es la razón de que venga a morar en vosotros y ayudaros en vuestra vida—. Mientras crecemos él permanece igual, pero a medida que experimentamos la vida funciona de acuerdo con la experiencia que poseemos.
 
 Un Mensajero Solitario, uno de autoridad del Espíritu Infinito, nos enseña en _El Libro de Urantia_ que,
 
-> _En los mundos evolutivos, las criaturas volitivas [como nosotros] atraviesan tres etapas generales de desarrollo del ser: desde la llegada del Ajustador hasta un crecimiento pleno comparativo, unos veinte años de edad en Urantia, los Monitores a veces se denominan ***Cambiadores del Pensamiento***._ [[LU 107:0.7](/es/The_Urantia_Book/107#p0_7); énfasis mío]
+> _En los mundos evolutivos, las criaturas volitivas [como nosotros] atraviesan tres etapas generales de desarrollo del ser: desde la llegada del Ajustador hasta un crecimiento pleno comparativo, unos veinte años de edad en Urantia, los Monitores a veces se denominan ***Cambiadores del Pensamiento***._ <a id="a71_304"></a>[[LU 107:0.7](/es/The_Urantia_Book/107#p0_7); énfasis mío]
 
 El Mensajero Solitario en _El Libro de Urantia_ nos cuenta primero que somos habitados por Dios en la forma del Ajustador del Pensamiento. Segundo, nos dice que cuando somos pequeños hasta que alcanzamos los veinte años este espíritu de Dios dentro de nosotros, el Ajustador del Pensamiento, es a veces referido como un **Cambiador del Pensamiento**. Esto es porque el Espíritu de Dios dentro de todos nosotros, de niños, funciona cambiando o intercambiando el mínimo de nuestros pensamientos por otro que es más como él -Divino-. También hace nuestras mejores ideas incluso mejores. Nos anima a hacer lo correcto.
 
@@ -53,7 +77,7 @@ Veo que entre la audiencia hay gente mayor de cinco años y menor de veinte. Por
 
 En Mensajero Solitario después explica:
 
-> _Desde este momento [aproximadamente los veinte años] hasta el alcance de la edad de la ***discreción***, unos cuarenta años, los Monitores Misteriosos se denominan ***Ajustadores del Pensamiento***._ [[LU 107:0.7](/es/The_Urantia_Book/107#p0_7), énfasis mío]
+> _Desde este momento [aproximadamente los veinte años] hasta el alcance de la edad de la ***discreción***, unos cuarenta años, los Monitores Misteriosos se denominan ***Ajustadores del Pensamiento***._ <a id="a79_203"></a>[[LU 107:0.7](/es/The_Urantia_Book/107#p0_7), énfasis mío]
 
 Veo entre la audiencia gente mayor de veinte años, y que no han alcanzado la edad de discreción de los cuarenta años. ¿Podríais por favor levantaros?. Los fragmentos de Dios dentro de vosotros funcionan como Ajustadores del Pensamiento. Pensad en vuestro **Ajustador del Pensamiento** como alguien que ajusta vuestros pensamientos. Él sintoniza finamente vuestros pensamientos en vuestra mente, para que sean más como los pensamientos que usaría él si estuviera viviendo vuestra vida.
 
@@ -63,7 +87,7 @@ Mientras se sientan, demos la mano a todos estos hermanos y hermanas experimenta
 
 A continuación, el Mensajero Solitario del Paraíso explica que:
 
-> _Desde el alcance de la discreción [aproximadamente cuarenta años o más] hasta la liberación de la carne, [hasta que abandonan nuestro planeta y comienzan el ascenso al Paraíso], [Los Ajustadores del Pensamiento] frecuentemente se los denomina **Controladores del Pensamiento**._ [[LU 107:0.7](/es/The_Urantia_Book/107#p0_7)]
+> _Desde el alcance de la discreción [aproximadamente cuarenta años o más] hasta la liberación de la carne, [hasta que abandonan nuestro planeta y comienzan el ascenso al Paraíso], [Los Ajustadores del Pensamiento] frecuentemente se los denomina **Controladores del Pensamiento**._ <a id="a89_282"></a>[[LU 107:0.7](/es/The_Urantia_Book/107#p0_7)]
 
 Ahora, podríais levantaros todos vosotros mayores de cuarenta años, que habéis alcanzado la edad de discreción y habéis sido habitados por más de treinta y cuatro años por el espíritu de Dios, conocido afectuosamente como **Controlador del Pensamiento**. Ahora comprendan muchachos y adultos, que estos urantianos mayores altamente experimentados **tienen Controlador del Pensamiento**. Algún día vuestro Monitor del Misterio funcionará como Controlador del Pensamiento, en gran medida como lo hacen en estos maduros amigos. Dentro de estos experimentados hombres y mujeres urantianos, hay **discreción**; la libertad y autoridad de tomar decisiones y elecciones, el poder de juzgar y actuar, y la acción y poder de discernir juicios en cuanto a hacer la voluntad de Dios. Ahora, mientras se sientan, podrían aplaudir todos a estos admirables hombres y mujeres que han experimentado la vida en Urantia por un buen tiempo. Éstos son los hijos de Dios que han cedido el control de su corazón, mente y alma al Padre.
 
@@ -75,7 +99,7 @@ Muchachos, ¿sabíais que vuestro propio Cambiador del Pensamiento os selecciona
 
 ## Primera decisión moral: Decidiendo entre lo bueno y lo malo -la llegada del Cambiador del Pensamiento
 
-Se nos ha dicho que el Cambiador del Pensamiento no era capaz de habitar vuestra mente hasta que _hayáis exhibido el alcance de adoración y_ [indicado] _la función de la sabiduría, exbibiendo la habilidad de elegir entre los valores nacientes del bien y el mal —la selección moral_. [[LU 108:2.2](/es/The_Urantia_Book/108#p2_2)].
+Se nos ha dicho que el Cambiador del Pensamiento no era capaz de habitar vuestra mente hasta que _hayáis exhibido el alcance de adoración y_ [indicado] _la función de la sabiduría, exbibiendo la habilidad de elegir entre los valores nacientes del bien y el mal —la selección moral_. <a id="a101_283"></a>[[LU 108:2.2](/es/The_Urantia_Book/108#p2_2)].
 
 Cuando vosotros nacisteis os fue otorgada vuestra personalidad por el Padre, e hizo de vosotros lo que sois. Más tarde, probablemente en algún momento antes de vuestro sexto cumpleaños, vuestra mente fue debidamente preparada y conectada al circuito del Espíritu Santo. Entonces cuando el espíritu de la sabiduría funcionaba en vuestra mente, vuestro Cambiador del Pensamiento o Ajustador llegó a vuestra mente en el momento en el que hicisteis vuestra primera decisión moral.
 
@@ -183,13 +207,13 @@ Y hacer la voluntad de Dios es fácil. Creedme. Es como respirar. Cualquier barr
 
 Esta afirmación cambió mi vida cuando empecé a comprender su verdadero significado allá por 1970:
 
-> _¡Y cuánto disfrutan en la comunicación con sus sujetos a través de canales más o menos directos! ¡Cuánto se regocijan cuando pueden descartar símbolos y otros métodos indirectos y ***trasmitir sus mensajes directamente al intelecto*** de sus socios humanos!_ [[LU 108:6.7](/es/The_Urantia_Book/108#p6_7); énfasis mío]
+> _¡Y cuánto disfrutan en la comunicación con sus sujetos a través de canales más o menos directos! ¡Cuánto se regocijan cuando pueden descartar símbolos y otros métodos indirectos y ***trasmitir sus mensajes directamente al intelecto*** de sus socios humanos!_ <a id="a209_262"></a>[[LU 108:6.7](/es/The_Urantia_Book/108#p6_7); énfasis mío]
 
 Debido a esta enseñanza de _El Libro de Urantia_, estuve determinado, por mi supremo deseo a servir a Dios, a permitir a mi Ajustador **impresionar** su mensaje directamente sobre mi intelecto humano. Enfoqué mis estudios a los métodos que Jesús empleó para determinar y elegir la voluntad del Padre. Todo este estudio, oración, determinación y consagración suprema a conocer a Dios y ser como él, hacer su voluntad, su camino, y vivir mi vida en servicio a su Hijo Miguel, todo culminó en la toma de consciencia dentro de mi mente de la posibilidad real de la guía y liderazgo de mi Ajustador personal.
 
-Aprendí a amar a mi Ajustador más, a cooperar con él más a fondo, y le aprecié de manera más afectuosa, simplemente porque mi Ajustador estaba profundamente interesado en mi bienestar temporal y en mis logros en la tierra ([LU 110:1.3](/es/The_Urantia_Book/110#p1_3)).
+Aprendí a amar a mi Ajustador más, a cooperar con él más a fondo, y le aprecié de manera más afectuosa, simplemente porque mi Ajustador estaba profundamente interesado en mi bienestar temporal y en mis logros en la tierra (<a id="a213_223"></a>[LU 110:1.3](/es/The_Urantia_Book/110#p1_3)).
 
-Aprendí del Mensajero Solitario que: _Es a veces posible que se ilumine la mente, que se oiga la voz divina que babla continuamente dentro de ti, de manera que puedas volverte parcialmente consciente de la sabiduría, verdad, bondad y belleza de la personalidad potencial que constantemente reside en ti._ [[LU 109:5.2](/es/The_Urantia_Book/109#p5_2)]
+Aprendí del Mensajero Solitario que: _Es a veces posible que se ilumine la mente, que se oiga la voz divina que babla continuamente dentro de ti, de manera que puedas volverte parcialmente consciente de la sabiduría, verdad, bondad y belleza de la personalidad potencial que constantemente reside en ti._ <a id="a215_305"></a>[[LU 109:5.2](/es/The_Urantia_Book/109#p5_2)]
 
 ¡Imagínatelo!. Él dijo que podemos ***oir la voz divina que habla continuamente dentro de nosotros.***
 
@@ -197,7 +221,7 @@ Así que quise oír su voz. No podía contentarme con menos. Imaginé la posibil
 
 Sin embargo, pensé, esto fue así para alguien tan perfecto como Jesús, el Hijo de Dios. Esto no era posible para mi. Me dije: «¿Quién soy yo, en este lugar común de la vida, para ser tan bendecido como para que el Espíritu de Dios tome la palabra o incluso se comunique conmigo de alguna extraña forma?. No soy perfecto -pregunten a mi mujer-, no soy santo. Jesús era un Hijo Creador; yo nací al otro lado del puerto de Nueva York en Brooklyn y al otro lado del puente Verazzano». Pero sabía que como Jesús dijo, yo también era un hijo de Dios y el Espíritu Santo dará fe de ello. Si lo acepto, yo también estoy abierto a oír la voz divina.
 
-También aprendí que: _Este Ajustador sí triunfó en la mente humana de Jesús -esa mente que en cada una de las situaciones recurrentes de la vida mantuvo una dedicación consagrada a la voluntad del Padre, diciendo: «Que se baga, no mi voluntad, sino la tuya»._ [[LU 109:6.5](/es/The_Urantia_Book/109#p6_5)]. Debe ser entonces también posible para cada uno de nosotros conocer conscientemente la voluntad de Dios ***en cada una de las situaciones recurrentes*** de la vida.
+También aprendí que: _Este Ajustador sí triunfó en la mente humana de Jesús -esa mente que en cada una de las situaciones recurrentes de la vida mantuvo una dedicación consagrada a la voluntad del Padre, diciendo: «Que se baga, no mi voluntad, sino la tuya»._ <a id="a223_260"></a>[[LU 109:6.5](/es/The_Urantia_Book/109#p6_5)]. Debe ser entonces también posible para cada uno de nosotros conocer conscientemente la voluntad de Dios ***en cada una de las situaciones recurrentes*** de la vida.
 
 ¿Por qué no?. Todo lo que necesitamos es mantener una dedicación consagrada a la voluntad del Padre.
 
@@ -210,7 +234,7 @@ Y entonces leí que el Mensajero Solitario dijo:
 > _1. Elegir responder a la guía divina; basar sinceramente la vida humana en la conciencia más alta de la ***verdad***, la ***belleza*** y la ***bondad***, y luego coordinar estas cualidades divinas a través de la ***sabiduría***, la ***adoración***, la ***fe*** y el ***amor***._
 > _2. ***Amar a Dios*** y desear ser como él ..._
 > _3. ***Amar al hombre*** y sinceramente desear servirle ..._
-> _4. ***Aceptación regocijada de la ciudadanía cósmica*** —reconocimiento honesto de tus obligaciones progresivas al Ser Supremo ..._ [[LU 110:3.6](/es/The_Urantia_Book/110#p3_6); énfasis mío]
+> _4. ***Aceptación regocijada de la ciudadanía cósmica*** —reconocimiento honesto de tus obligaciones progresivas al Ser Supremo ..._ <a id="a236_135"></a>[[LU 110:3.6](/es/The_Urantia_Book/110#p3_6); énfasis mío]
 
 Can we not understand that our consecration of choice for communion with God, involves seeking his will within our minds as the highest consciousness of **truth**, **beauty**, and **goodness**, and **loving God** and **desiring to be like him** and loving man and sincerely desiring to serve him, while at the same time joyfully accepting our **cosmic citizenship and obligations to the Supreme Being**.
 
@@ -218,7 +242,7 @@ This is truly a revelation, but one yet to be consciously tried by many. It seem
 
 Will we share our inner life with God? Will we imitate him as we leam to understand his thoughts on the way we should live? Will we say, “I will choose to know your will, my Father”?
 
-> _Esta elección de la criatura no es un rendimiento de la voluntad. Es una consagración de la voluntad, una expansión de la voluntad, una glorificación de la voluntad, un perfeccionamiento de la voluntad; tal elección eleva la voluntad de la criatura del nivel de significado temporal a ese estado tanto más elevado en el que la personalidad del hijo criatura comulga con la personalidad del Padre espíritu._ [[LU 111:5.5](/es/The_Urantia_Book/111#p5_5)]
+> _Esta elección de la criatura no es un rendimiento de la voluntad. Es una consagración de la voluntad, una expansión de la voluntad, una glorificación de la voluntad, un perfeccionamiento de la voluntad; tal elección eleva la voluntad de la criatura del nivel de significado temporal a ese estado tanto más elevado en el que la personalidad del hijo criatura comulga con la personalidad del Padre espíritu._ <a id="a244_410"></a>[[LU 111:5.5](/es/The_Urantia_Book/111#p5_5)]
 
 Esto es realmente lo que todos nosotros queremos, ¿no?. ¡Déjanos ahora consagrar nuestra voluntad a tu gloria, Padre!.
 
@@ -329,3 +353,27 @@ Mientras tanto, de vuelta a la caravana, uno podía aún oír los ánimos y las 
 Con ese anuncio, la puerta de la caravana se abrió de golpe. Todos los oficiales salieron en tropel de la caravana, sólo para ver el trabajo terminado y a los hombres ya fuera. No tuvieron ni idea de lo que había ocurrido ni de dónde estaban los demás. Perplejos, abandonaron en silencio y se fueron a sus lugares. Ninguna palabra se volvió a mencionar de este incidente. Incluso los reporteros de los periódicos estaban desconcertados y no tenían ni idea de cómo se resolvió aquello. Nada de esta pelea masiva con cincuenta hombres encontró titulares. Pero yo conocía la verdad. Y no tenía a nadie con quien compartirlo, hasta que fuera capaz de compartirlo con hermanos y hermanas espirituales como vosotros hoy.
 
 Justo tras aquella experiencia, me sentía tan en lo alto que no podía ponerlo en palabras, un sentimiento como que volvía con Dios al Paraíso. Pero ¡caramba! pensé. «¡Qué experiencia más asombrosa!». Volví a mi camioneta, cerré las puertas y grité tan alto que pensé que podía ser oído a través de las ventanas cerradas por toda la ciudad. — «Dios», grité, «eres el más grande. Supiste exactamente lo que debía hacerse. Supiste perfectamente lo que había en la mente de cada hombre, y lo que era mejor para ellos. Ajustaste sus pensamientos, y supiste lo que conseguiría motivar a cada uno de ellos para estar en paz, ser bueno para el otro, y amar efectivamente al otro. Conociste exactamente la perfecta cosa a hacer. Y me permitiste compartir esto contigo y llevarlo a cabo. ¡Dios, eres grande!. ¡Te quiero, Dios!». Y más dije en mi corazón, alabando a Dios y a este momento de perfección que he encontrado con él. Porque he experimentado perfección en acción, y ello me ha estimulado a más grandes experiencias con él en los siguientes años.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/2000_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Septiembre 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Living_the_Will_of_Our_Father">
+          <span class="pr-2">Viviendo la voluntad de nuestro Padre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

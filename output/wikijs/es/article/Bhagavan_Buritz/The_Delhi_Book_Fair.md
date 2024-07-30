@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Bhagavan Buritz<br>© 1999 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Seppo_Kanerva/What_UB_Instruct_Dissemination_of_Its_Teachings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué instruye el Libro de Urantia sobre la difusión de sus enseñanzas?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dorothy_Elder/A_Report_on_UBIS">
+          <span class="pr-2">Un informe sobre la escuela de Internet El Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bhagavan S. Buritz, Hawái, EE.UU.
 
@@ -72,7 +96,7 @@ Principalmente dejo que el libro hable por sí solo. Hice que estos invitados le
 
 Una conversación extensa fue con dos hombres de poco más de veinte años. Eran estudiantes de derecho y algo «nerds». Querían debatir y discutir. Se presentaron como ateos. Le dije: «Ustedes obviamente son jóvenes muy inteligentes y, como estudiantes de derecho, deben tener un sentido de la lógica muy desarrollado. Los abogados tienen que probar las cosas basándose en pruebas. ¿Cómo se prueba la inexistencia de algo? ¿Qué usas como evidencia? Soy testigo de la existencia de Dios, pero no puedo ofrecer pruebas, porque Dios es Espíritu». Diez minutos así y coincidieron en que eran agnósticos.
 
-Entonces comenzó el trabajo duro. Hablamos durante unas tres horas. La discusión abarcó desde la naturaleza del mal y su causa hasta la experiencia de la realidad dentro de la mente del hombre. _El Libro de Urantia_ respondió muchas de sus preguntas. Compartí mi experiencia del Amado, el Creador del Amor y la Compasión, el Absoluto del Amor, la Belleza y la Bondad. En el fondo de mi mente sentí que cuanto más discutían, más querían creer. (_La defensa argumentativa de cualquier proposición es inversamente proporcional a la verdad contenida._ [LU 48:7.30](/es/The_Urantia_Book/48#p7_30)) Cerca del final compartieron que veían a los humanos como buitres. Sentí que la pobreza que los rodeaba los conmovía mucho.
+Entonces comenzó el trabajo duro. Hablamos durante unas tres horas. La discusión abarcó desde la naturaleza del mal y su causa hasta la experiencia de la realidad dentro de la mente del hombre. _El Libro de Urantia_ respondió muchas de sus preguntas. Compartí mi experiencia del Amado, el Creador del Amor y la Compasión, el Absoluto del Amor, la Belleza y la Bondad. En el fondo de mi mente sentí que cuanto más discutían, más querían creer. (_La defensa argumentativa de cualquier proposición es inversamente proporcional a la verdad contenida._ <a id="a98_548"></a>[LU 48:7.30](/es/The_Urantia_Book/48#p7_30)) Cerca del final compartieron que veían a los humanos como buitres. Sentí que la pobreza que los rodeaba los conmovía mucho.
 
 Hay una lucha darwiniana por la supervivencia en la India. También aprendí que ellos eran los niños a los que molestaban en la escuela. Finalmente preguntaron: «¿Cómo podemos hablar con Dios como lo haces tú?» Le dije: «Encuentre un lugar tranquilo en la naturaleza, en el baño, en el automóvil o en cualquier lugar. Deja que la mente esté en silencio». Luego golpeé con fuerza tres veces la mesa. Le dije: «Imagina en tu mente que estás llamando a la puerta de Dios. Antes de que tu mano toque Su Puerta, Él responderá. Haga esto tres veces diferentes en el transcurso de una semana o dos». ¿Que les pasó a ellos? El Amigo ya abrió la Puerta y les dio la bienvenida al banquete de bodas.
 
@@ -119,3 +143,27 @@ La gente me pregunta cómo puedo soportar la pobreza de la India. Yo digo que lo
 Mi profesor de Yoga, Swami Satchidananda, dice que Seva, Karma Yoga, Servicio desinteresado, es el Yoga más rápido, el camino más rápido hacia Dios. Imagínese hacer lo mejor que pueda, sin posibilidad de fallar; los resultados son Su responsabilidad. Pasar días hablando con la gente sobre la Paternidad de Dios y la Hermandad del Hombre es una experiencia transformadora, de despertar e iluminadora.
 
 Lo recomiendo altamente.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Seppo_Kanerva/What_UB_Instruct_Dissemination_of_Its_Teachings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué instruye el Libro de Urantia sobre la difusión de sus enseñanzas?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dorothy_Elder/A_Report_on_UBIS">
+          <span class="pr-2">Un informe sobre la escuela de Internet El Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

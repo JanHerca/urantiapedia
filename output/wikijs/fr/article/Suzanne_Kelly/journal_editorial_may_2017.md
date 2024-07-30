@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Suzanne Kelly<br>© 2017 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2017_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Mai 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/temple_spiritual_brotherhood_study_groups">
+          <span class="pr-2">Le temple de la fraternité spirituelle et la signification supérieure des groupes d’étude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -26,7 +50,7 @@ Dans cette édition de mai, nous avons deux articles intéressants pour votre pl
 
 Charles aborde la nature et la signification morontielle des groupes d’étude, leur structure et leur direction, ainsi que les répercussions de leur accomplissement, et
 
-> _Avec Dieu le Suprême, ***l’accomplissement*** est la condition préalable au statut – il faut faire quelque chose aussi bien qu’être quelque chose._ <a id="a51_121"></a>[[LU 115:0.1](/fr/The_Urantia_Book/115#p0_1)] (gras ajouté)
+> _Avec Dieu le Suprême, ***l’accomplissement*** est la condition préalable au statut – il faut faire quelque chose aussi bien qu’être quelque chose._ <a id="a52_151"></a>[[LU 115:0.1](/fr/The_Urantia_Book/115#p0_1)] (gras ajouté)
 
 Le second article est Les suites de l’Alléluia, par Neal Waldrop. C’est une interprétation mélodieuse du Messie de Georges Frédérique Handel [^1] et une comparaison lyrique avec les textes du _Livre d’Urantia_.
 
@@ -52,6 +76,31 @@ Suzanne Kelly
 - [Cet article](https://urantia-association.org/journal-editorial-mai-2017/?lang=fr)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2017_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Mai 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/temple_spiritual_brotherhood_study_groups">
+          <span class="pr-2">Le temple de la fraternité spirituelle et la signification supérieure des groupes d’étude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

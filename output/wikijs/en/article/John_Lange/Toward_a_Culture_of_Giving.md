@@ -102,7 +102,7 @@ Finance Committee: John Lange, Chair; Larry Geis, Secretary; Dale Sztejnberg; Ba
 <figcaption>Migrating Mural, by Inkdwell Studio. Photo by Chuck Thurston</figcaption>
 </figure>
 
->  We live in God and God dwells in us. <a id="a83_40"></a>[UB 131:10.4](/en/The_Urantia_Book/131#p10_4)
+>  We live in God and God dwells in us. <a id="a104_40"></a>[UB 131:10.4](/en/The_Urantia_Book/131#p10_4)
 
 
 

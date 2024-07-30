@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 André Radatus<br>© 2020 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/living_the_gospel_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivre l’Évangile et proclamer avec puissance au 21e siècle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Kurtz/comprehension">
+          <span class="pr-2">La Compréhension – Faire progresser l’Illumination à partir de la clairvoyance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -47,11 +71,11 @@ Dans sa vie extérieure, il portait une attention particulière au monde dans le
 La révélation que la _communion ininterrompue de_ Jésus conduisit à son progrès incessant dans la réalisation de la volonté du Père dans les cieux est une _clé en or_ pour vivre nos vies. Nous cultivons nos âmes en partageant notre vie intérieure avec Dieu comme il l’a fait. Le Maître savait que vivre en présence de Dieu avec foi est se rendre _présent_ à la _réalité véritable_. Nous réalisons que nous vivons en présence de notre Père si nous _agissons comme si nous étions en présence de Dieu._
 <br style="clear:both;"/>
 
-> _L’accomplissement de la volonté de Dieu n’est ni plus ni moins que le bon vouloir de la créature de partager sa vie intérieure avec Dieu …_ <a id="a71_135"></a>[[LU 111:5.1](/fr/The_Urantia_Book/111#p5_1)] et, _… L’imitation de Dieu est la clé de la perfection …_ <a id="a71_237"></a>[[LU 111:5.2](/fr/The_Urantia_Book/111#p5_2)] 
+> _L’accomplissement de la volonté de Dieu n’est ni plus ni moins que le bon vouloir de la créature de partager sa vie intérieure avec Dieu …_ <a id="a73_143"></a>[[LU 111:5.1](/fr/The_Urantia_Book/111#p5_1)] et, _… L’imitation de Dieu est la clé de la perfection …_ <a id="a73_247"></a>[[LU 111:5.2](/fr/The_Urantia_Book/111#p5_2)] 
 
 Contrairement au Maître, par les ruptures de nos relations souvent involontaires et parfois intentionnelles avec notre Parent Divin, il nous faut apprendre ce que nous perdons en vivant temporairement dans l’isolement spirituel qui s’ensuit. 
 
-> _… parfois vos déceptions les plus décevantes sont devenues vos plus grandes bénédictions. Parfois, la plantation d’une semence nécessite sa mort, la mort de vos plus grands espoirs, avant qu’elle puisse renaître pour porter les fruits d’une nouvelle vie et d’une nouvelle opportunité._ <a id="a75_259"></a>[[LU 48:6.36](/fr/The_Urantia_Book/48#p6_36)] 
+> _… parfois vos déceptions les plus décevantes sont devenues vos plus grandes bénédictions. Parfois, la plantation d’une semence nécessite sa mort, la mort de vos plus grands espoirs, avant qu’elle puisse renaître pour porter les fruits d’une nouvelle vie et d’une nouvelle opportunité._ <a id="a77_289"></a>[[LU 48:6.36](/fr/The_Urantia_Book/48#p6_36)] 
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Happiness-300x200.jpg">
@@ -66,15 +90,15 @@ N’aurons-nous pas aussi plus d’effet avec chaque personne avec laquelle nous
 Pouvons-nous adopter l’approche de Jésus à l’enseignement et à la prédication et l’appliquer à notre situation actuelle ?
 <br style="clear:both;"/>
 
-> _… au moment de sa naissance, Urantia connaissait un renouveau de la pensée spirituelle et de la vie religieuse tel qu’elle n’en avait pas connu dans toute son histoire antérieure depuis Adam, et comme il n’y en a eu à aucune époque depuis lors._ <a id="a90_212"></a>[[LU 121:1.1](/fr/The_Urantia_Book/121#p1_1)] 
+> _… au moment de sa naissance, Urantia connaissait un renouveau de la pensée spirituelle et de la vie religieuse tel qu’elle n’en avait pas connu dans toute son histoire antérieure depuis Adam, et comme il n’y en a eu à aucune époque depuis lors._ <a id="a92_249"></a>[[LU 121:1.1](/fr/The_Urantia_Book/121#p1_1)] 
 
 Rares sont ceux qui, aujourd’hui, dans notre monde, recevront directement le message évangélique de Jésus. Comment attirer les gens à la vérité vivante est le problème à résoudre par chaque culture. Il est différent dans chaque société. Ce qui fonctionne dans un endroit peut fonctionner ou non dans un autre. Si notre monde doit…
 
-> _… voir Jésus vivant de nouveau sur la terre dans l’expérience des mortels nés par l’esprit qui révèlent effectivement le Maître à tous les hommes._ <a id="a94_124"></a>[[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1)]  
+> _… voir Jésus vivant de nouveau sur la terre dans l’expérience des mortels nés par l’esprit qui révèlent effectivement le Maître à tous les hommes._ <a id="a96_151"></a>[[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1)]  
 
 alors les femmes et les hommes doivent être déterminés dans leur désir de faire l’expérience de la condition humaine comme il l’a fait. 
 
-> _Laissez-moi proclamer solennellement cette vérité éternelle : Si, en vous harmonisant avec la vérité, vous apprenez à donner, dans votre vie, l’exemple de cette magnifique intégralité de la droiture, vos semblables vous rechercheront pour obtenir ce que vous aurez ainsi acquis. La mesure dans laquelle les chercheurs de vérité seront attirés vers vous représente la mesure de votre dotation de vérité, de votre droiture. La mesure dans laquelle il faut que vous portiez votre message aux gens représente, en un certain sens, la mesure de votre inaptitude à vivre la vie saine et droite, la vie harmonisée avec la vérité._ <a id="a98_541"></a>[[LU 155:1.5](/fr/The_Urantia_Book/155#p1_5)]  
+> _Laissez-moi proclamer solennellement cette vérité éternelle : Si, en vous harmonisant avec la vérité, vous apprenez à donner, dans votre vie, l’exemple de cette magnifique intégralité de la droiture, vos semblables vous rechercheront pour obtenir ce que vous aurez ainsi acquis. La mesure dans laquelle les chercheurs de vérité seront attirés vers vous représente la mesure de votre dotation de vérité, de votre droiture. La mesure dans laquelle il faut que vous portiez votre message aux gens représente, en un certain sens, la mesure de votre inaptitude à vivre la vie saine et droite, la vie harmonisée avec la vérité._ <a id="a100_626"></a>[[LU 155:1.5](/fr/The_Urantia_Book/155#p1_5)]  
 
 Quelle que soit cette série d’étapes vers votre plein potentiel de service humain, l’étape suivante est devant vous. Ne nous est-elle pas continuellement montrée, si seulement nous avions des yeux pour voir ? Ne pourrions-nous pas simplement être la personne qui fera la différence qui est nécessaire et juste pour la petite partie de notre coin du monde désordonné ? Si ce n’est pas vous, _qui ?  _
 
@@ -95,7 +119,7 @@ Ceux qui vous guideraient patiemment et personnellement sont en pénurie par rap
 
 Juxtaposé avec notre révélation : 
 
-> _… La grâce est l’arôme de la convivialité qui émane d’une âme saturée d’amour._ <a id="a119_91"></a>[[LU 171:7.1](/fr/The_Urantia_Book/171#p7_1)]  
+> _… La grâce est l’arôme de la convivialité qui émane d’une âme saturée d’amour._ <a id="a121_83"></a>[[LU 171:7.1](/fr/The_Urantia_Book/171#p7_1)]  
 
 Notre amour pour Dieu et notre désir compatissant de servir et d’enseigner à nos frères et soeurs, sonderont les profondeurs de notre créativité unique que Dieu nous a donnée. Le défi stimulant de chercher à comprendre et à aimer nos semblables est un élan pour le service magistral de l’humanité. Il commence simplement par saisir la main forte et aimante de notre Père et faire un pas de plus vers la prochaine chose à faire. Qui sait où cela nous mènera ?
 
@@ -118,3 +142,28 @@ Qu’est-ce qui va naître de votre prochain pas ?
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2020/?lang=fr)
 - [Cet article](https://urantia-association.org/etre-aussi-magistral-que-le-maitre/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/living_the_gospel_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivre l’Évangile et proclamer avec puissance au 21e siècle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Kurtz/comprehension">
+          <span class="pr-2">La Compréhension – Faire progresser l’Illumination à partir de la clairvoyance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

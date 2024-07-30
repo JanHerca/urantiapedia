@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Peep Sõber<br>© 2000 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Seppo_Kanerva/The_Way_Jesus_Discovered_and_Lived_the_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comment Jésus Découvrit et Vécut la Volonté du Père</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-septembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septembre 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ruth_Kask/The_Acme_of_Religious_Living">
+          <span class="pr-2">L'apogée de la vie religieuse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Peep_Sober.jpg">
@@ -38,7 +62,7 @@ Nous pouvons remarquer que parmi les Juifs, le message de Jésus s'adressait à 
 
 Nous pouvons écouter un grand nombre d'opinions concernant le besoin d'avoir une organisation pour diffuser notre vie spirituelle. Il est évident que nous pouvons la partager avec nos relations spirituelles, parmi la famille et les amis ou notre travail, sans organisation spéciale. Très souvent les gens déclarent que Jésus n'était pas organisé pour partager sa vie spirituelle, pourquoi donc en avons-nous besoin ? Cela est vrai, il n'utilisa pas d'organisation pour partager sa vie spirituelle. Mais le moment décisif fut de choisir les premiers apôtres et de les enseigner. Ce fut le début de l'organisation qu'il utiliserait pour la dissémination de sa nouvelle révélation de Dieu.
 
-Pour moi, cela semble un dilemme : choisissonsnous de n'avoir affaire qu'à notre propre vie spirituelle ou devons-nous aussi avoir affaire à la révélation appelée d'époque ? Pour partager notre vie spirituelle personnelle nous n'avons pas vraiment besoin d'avoir une organisation spéciale — pour la créer, cela peut même être préjudiciable, et devenir une secte ou un étrange «isme» autour de nos propres croyances qui sont toujours en cours de changement. Le royaume de Dieu ne peut être construit à partir de nos croyances personnelles ou de nos interprétations de la révélation d'époque. Cela **peut être bâti** et certainement **sera bâti** à partir des 4^ème^, 5^ème^ révélations d'époque et celles à venir. Comme les apôtres nous pouvons être les premiers instructeurs si nous le choisissons. Dans ce but, il vaut mieux être organisé car nous avons besoin d'ordre, d'une structure, d'une direction et d'un réseau. Cela ne peut pas et ne devrait pas interférer avec le partage de notre vie spirituelle personnelle. En le faisant, nous pouvons faire l'expérience de quelque chose de plus ; en disséminant les enseignements, nous pouvons faire l'expérience d'un travail de groupe spirituel, et d'une loyauté spirituelle de groupe. Nous avons lu que « _L'une des plus importante leçon à apprendre pendant notre carrière mortelle est celle du_ ***travail d'équipe*** » [[LU 28:5.14](/fr/The_Urantia_Book/28#p5_14)].
+Pour moi, cela semble un dilemme : choisissonsnous de n'avoir affaire qu'à notre propre vie spirituelle ou devons-nous aussi avoir affaire à la révélation appelée d'époque ? Pour partager notre vie spirituelle personnelle nous n'avons pas vraiment besoin d'avoir une organisation spéciale — pour la créer, cela peut même être préjudiciable, et devenir une secte ou un étrange «isme» autour de nos propres croyances qui sont toujours en cours de changement. Le royaume de Dieu ne peut être construit à partir de nos croyances personnelles ou de nos interprétations de la révélation d'époque. Cela **peut être bâti** et certainement **sera bâti** à partir des 4^ème^, 5^ème^ révélations d'époque et celles à venir. Comme les apôtres nous pouvons être les premiers instructeurs si nous le choisissons. Dans ce but, il vaut mieux être organisé car nous avons besoin d'ordre, d'une structure, d'une direction et d'un réseau. Cela ne peut pas et ne devrait pas interférer avec le partage de notre vie spirituelle personnelle. En le faisant, nous pouvons faire l'expérience de quelque chose de plus ; en disséminant les enseignements, nous pouvons faire l'expérience d'un travail de groupe spirituel, et d'une loyauté spirituelle de groupe. Nous avons lu que « _L'une des plus importante leçon à apprendre pendant notre carrière mortelle est celle du_ ***travail d'équipe*** » <a id="a64_1370"></a>[[LU 28:5.14](/fr/The_Urantia_Book/28#p5_14)].
 
 Le travail en équipe dans une compagnie commerciale et le travail en équipe dans un groupe spirituel ont des caractéristiques et des buts différents. C'est pourquoi, le meilleur endroit pour faire partager notre vie spirituelle est au sein d'un groupe spirituel. Pour beaucoup d'entre nous c'est le groupe d'étude du _Livre d'Urantia_. Nous savons aussi, grâce à l'historique du mouvement Urantia que depuis le début, la révélation fut donnée au groupe (la Commission de Contact) et non à un individu isolé. Nous savons que ces gens formaient un groupe plusieurs années avant que ne commença la révélation. La Commission de Contact et le Forum avaient une structure organisée ; la Fondation Urantia et la Fraternité (la Brotherhood) Urantia ne sont pas issues du néant ni d'ambitions purement humaines. Nous avons tous lu qu'il n'y a que très peu de travail dans l'univers pour les individualistes. Mais nous observons qu'il n'y a qu'un petit nombre de lecteurs qui font partie de groupes d'étude et d'autres organisations de lecteurs. Pourquoi ? Est-ce un manque de dévouement? Cela me semble être le cas.
 
@@ -52,8 +76,32 @@ Nous notons que le niveau de la maturité spirituelle est très différent parmi
 > 
 > _Au royaume de la fraternité croyante de ceux qui aiment la vérité et connaissent Dieu, la règle d'or revêt des qualités vivantes de réalisation spirituelle sur ces niveaux supérieurs d'interprétation qui amènent les fils mortels de Dieu à considérer cette injonction du Maître comme requérant d'eux qu'ils se situent par rapport à leurs semblables de telle manière que ceux-ci recevront le plus grand bien possible de leur contact avec les croyants. Ceci est l'essence de la vraie religion : que vous aimiez votre prochain comme vous-même._
 > 
-> _Mais la réalisation la plus élevée et l'interprétation la plus vraie de la règle d'or réside dans la conscience de l'esprit de la vérité de la réalité vivante et durable d'une telle déclaration divine. La vraie signification cosmique de cette règle de relations universelles ne se révèle que dans sa réalisation spirituelle, dans l'interprétation dans la loi de conduite par l'esprit du Fils envers l'esprit du Père qui babite l'âme du mortel. Quand les mortels ainsi dirigés par l'esprit réalisent la véritable signification de cette règle d'or, ils débordent de l'assurance qu'ils sont citoyens d'un univers amical, et leurs idéaux de réalité d'esprit ne sont satisfaits que s'ils aiment leurs semblables comme Jésus nous a tous aimés. Telle est la réalité de la réalisation de l'amour de Dieu._ [[LU 180:5.6-8](/fr/The_Urantia_Book/180#p5_6)]
+> _Mais la réalisation la plus élevée et l'interprétation la plus vraie de la règle d'or réside dans la conscience de l'esprit de la vérité de la réalité vivante et durable d'une telle déclaration divine. La vraie signification cosmique de cette règle de relations universelles ne se révèle que dans sa réalisation spirituelle, dans l'interprétation dans la loi de conduite par l'esprit du Fils envers l'esprit du Père qui babite l'âme du mortel. Quand les mortels ainsi dirigés par l'esprit réalisent la véritable signification de cette règle d'or, ils débordent de l'assurance qu'ils sont citoyens d'un univers amical, et leurs idéaux de réalité d'esprit ne sont satisfaits que s'ils aiment leurs semblables comme Jésus nous a tous aimés. Telle est la réalité de la réalisation de l'amour de Dieu._ <a id="a78_801"></a>[[LU 180:5.6-8](/fr/The_Urantia_Book/180#p5_6)]
 
 J'ai trouvé cette explication très utile pour comprendre la réceptivité spirituelle d'un compagnon pour qu'il puisse partager notre vie spirituelle. Si nous sommes sur le même niveau, ou très près, c'est une situation très naturelle et effective pour partager. Dans d'autres cas, plusieurs problèmes et malentendus peuvent se produire si nous ne faisons pas attention à prendre note de ces différents niveaux. La vie de Jésus nous donne beaucoup d'exemples sur les manières différentes qu'il employait pour enseigner les gens.
 
 Ce petit discours est ma petite tentative pour partager la vie spirituelle, mais comme je ne suis pas suffisamment fixé sur le «niveau spirituel», je conclue maintenant. C'est pourquoi, je vous prie d'excuser mon ignorance possible sur ce difficile sujet qu'est le partage de notre vie spirituelle.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Seppo_Kanerva/The_Way_Jesus_Discovered_and_Lived_the_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comment Jésus Découvrit et Vécut la Volonté du Père</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-septembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septembre 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ruth_Kask/The_Acme_of_Religious_Living">
+          <span class="pr-2">L'apogée de la vie religieuse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

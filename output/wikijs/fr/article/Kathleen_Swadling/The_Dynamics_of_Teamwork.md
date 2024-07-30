@@ -36,7 +36,7 @@ Sydney, Australie
 
 **« Ce que je dis, c'est la volonté de Dieu, et vous devez être de connivence avec Caligastia, l'un des agents de Caligastia, si vous êtes contre moi. » Ce genre d'argumentation n'est pas rare parmi les lecteurs du ***Le Livre d'URANTIA***. Mais est-ce justifié ? Cet article tente de répondre à cette question.**
 
-À la page 312, _Le Livre d'URANTIA_ nous dit que _[o]une des leçons les plus importantes à apprendre au cours de votre carrière mortelle est le ***travail d'équipe***_. [LU 28:5.14](/fr/The_Urantia_Book/28#p5_14). Un grand nombre de nos activités sur ce monde reposent sur une interaction réussie avec nos semblables. De nombreuses décisions prises par des groupes, des comités, des institutions, des conseils et des gouvernements, etc. ont un impact sur la vie des individus à travers le monde.
+À la page 312, _Le Livre d'URANTIA_ nous dit que _[o]une des leçons les plus importantes à apprendre au cours de votre carrière mortelle est le ***travail d'équipe***_. <a id="a38_169"></a>[LU 28:5.14](/fr/The_Urantia_Book/28#p5_14). Un grand nombre de nos activités sur ce monde reposent sur une interaction réussie avec nos semblables. De nombreuses décisions prises par des groupes, des comités, des institutions, des conseils et des gouvernements, etc. ont un impact sur la vie des individus à travers le monde.
 
 Combien d’entre nous ont été réunis avec un groupe de personnes avec lesquelles nous avons dû résoudre un problème et prendre une décision ? Cela peut être lié au travail, à la famille, à la communauté ou au Livre d'URANTIA. Quelle que soit la raison, l’exercice sera sans aucun doute utile car nous apprendrons d’importantes leçons sur le travail d’équipe.
 

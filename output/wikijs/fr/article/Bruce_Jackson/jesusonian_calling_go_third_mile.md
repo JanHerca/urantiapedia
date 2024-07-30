@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Bruce Jackson<br>© 2018 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Suzanne_Kelly/journal_editorial_may_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal – Éditorial Mai 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bob_Ghen_Sr/doing_will_of_god">
+          <span class="pr-2">Faire la Volonté de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -18,7 +42,7 @@ dateCreated: 2023-9-16T10:55:6Z
 Une proposition pour développer un programme d’étude basé sur _Le Livre d’Urantia_ pour l’ordination d’évangélistes, pour certifier des enseignants/érudits, et certifier des leaders communautaires, régionaux et internationaux.
 <br style="clear:both;"/>
 
-> _Pour gagner des âmes au Maitre, ce n’est pas la première lieue parcourue par obligation, devoir ou convention qui transformera l’homme et son monde, mais plutôt la seconde lieue de service libre et de dévotion aimant la liberté ; elle dénote que le **jésusonien** a tendu la main à la manière de Jésus pour saisir son frère avec amour et l’amener, sous gouverne spirituelle, vers le but supérieur et divin de l’existence de mortel. Même aujourd’hui, le christianisme parcourt volontiers la première lieue, mais l’humanité languit et marche en trébuchant dans les ténèbres morales parce qu’il y a trop peu de disciples authentiquement prêts à parcourir la seconde lieue – trop peu de partisans avoués de Jésus qui vivent et aiment réellement comme il enseigna à ses disciples à vivre, aimer et servir._ <a id="a43_661"></a>[[LU 195:10.5](/fr/The_Urantia_Book/195#p10_5), gras ajouté]
+> _Pour gagner des âmes au Maitre, ce n’est pas la première lieue parcourue par obligation, devoir ou convention qui transformera l’homme et son monde, mais plutôt la seconde lieue de service libre et de dévotion aimant la liberté ; elle dénote que le **jésusonien** a tendu la main à la manière de Jésus pour saisir son frère avec amour et l’amener, sous gouverne spirituelle, vers le but supérieur et divin de l’existence de mortel. Même aujourd’hui, le christianisme parcourt volontiers la première lieue, mais l’humanité languit et marche en trébuchant dans les ténèbres morales parce qu’il y a trop peu de disciples authentiquement prêts à parcourir la seconde lieue – trop peu de partisans avoués de Jésus qui vivent et aiment réellement comme il enseigna à ses disciples à vivre, aimer et servir._ <a id="a44_805"></a>[[LU 195:10.5](/fr/The_Urantia_Book/195#p10_5), gras ajouté]
 
 Ce passage familier et stimulant qui se trouve au Fascicule 195 définit le nom du style de vie et de la religion présentés dans la Cinquième Révélation d’Époque : le Jésusonianisme. Ici l’individu jésusonien est mis au défi de suivre les enseignements présentés dans _Le Livre d’Urantia._ Il est aisé de s’arrêter au niveau de cette citation et de se concentrer uniquement sur  la vie spirituelle intérieure de l’individu. Toutefois, la Cinquième Révélation d’Époque suggère tout au long de son texte une troisième lieue en lien avec le service communautaire et un travail social spirituel mondial.
 
@@ -116,7 +140,7 @@ Alors comment nous, jésusoniens, faisons cette troisième lieue ? Nous avons be
 
 _Le Livre d’Urantia_ fait un appel clair aux jésusoniens pour cette tâche. La Cinquième Révélation d’Époque ne nous a pas été confiée pour qu’elle soit cachée sous un boisseau pour notre propre illumination spirituelle ou réjouissance privée. Considérez la citation suivante, et au lieu de ‘christianisme’ insérez ‘jésusoniens’
 
-> _La religion a besoin de nouveaux dirigeants, d’hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements. Si le christianisme persiste à négliger sa mission spirituelle tout en continuant à s’occuper des problèmes sociaux et matériels, il faudra que la renaissance spirituelle attende la venue de ces nouveaux instructeurs de la religion de Jésus qui se consacreront exclusivement à la régénération spirituelle des hommes. Alors, ces âmes nées d’esprit fourniront rapidement les directives et l’inspiration nécessaires à la réorganisation sociale, morale, économique et politique du monde._ <a id="a137_593"></a>[[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4)]
+> _La religion a besoin de nouveaux dirigeants, d’hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements. Si le christianisme persiste à négliger sa mission spirituelle tout en continuant à s’occuper des problèmes sociaux et matériels, il faudra que la renaissance spirituelle attende la venue de ces nouveaux instructeurs de la religion de Jésus qui se consacreront exclusivement à la régénération spirituelle des hommes. Alors, ces âmes nées d’esprit fourniront rapidement les directives et l’inspiration nécessaires à la réorganisation sociale, morale, économique et politique du monde._ <a id="a142_646"></a>[[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4)]
 
 Avant tout, nous devons faire le travail et commencer à parcourir la troisième lieue. Si ce n’est pas nous, alors QUI ? Si ce n’est  pas maintenant, alors QUAND ? Les champs sont mûrs, et les travailleurs très peu nombreux. Dieu nous appelle maintenant. Qui dira : « Envoie-moi » ?
 
@@ -125,6 +149,31 @@ Avant tout, nous devons faire le travail et commencer à parcourir la troisième
 - [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2018/?lang=fr)
 - [Cet article](https://urantia-association.org/un-appel-jesusonien-a-faire-la-troisieme-lieue/?lang=fr)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Suzanne_Kelly/journal_editorial_may_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal – Éditorial Mai 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bob_Ghen_Sr/doing_will_of_god">
+          <span class="pr-2">Faire la Volonté de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

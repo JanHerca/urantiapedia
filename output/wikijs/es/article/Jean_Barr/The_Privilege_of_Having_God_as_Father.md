@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Jean Barr<br>© 2000 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gard_Jameson/An_Evening_with_Madiba">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un atardecer con Madiba</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ralph_Zehr/A_Balanced_Unified_Personality">
+          <span class="pr-2">Una personalidad unificada en equilibrio — la fundación para el crecimiento religioso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jean Barr
 Texas, Estados Unidos
@@ -66,3 +90,27 @@ Y así podríamos continuar —justo en nuestra realidad.
 > _La éstasis primordial de la infinidad requiere una segmentación antes de que el bumano intente su comprensión. Existe una unidad en la infinidad que se expresa en estos documentos como el YO SOY —el postulado primordial de la mente de la criatura. Pero una criatura no puede jamás comprender cómo esta unidad se torna dualidad, triunidady diversidad permaneciendo al mismo tiempo unidad incondicionada. El hombre encuentra un problema similar cuando de detiene para contemplar la Deidad de Trinidad no dividida juntamente con la personalización plural de Dios._ [UB 115:3.3](/en/The_Urantia_Book/115#p3_3)
 
 > _En vez de preocuparnos con lo de llamar a Dios nuestro Padre, déjanos ocuparnos con aprender más de él y tratar de ser más cómo él como él ha requerido: «Sed perfectos, así como vuestro Padre en los cielos es perfecto»._ [UB 140:10.1](/en/The_Urantia_Book/140#p10_1) y [UB 161:1.10](/en/The_Urantia_Book/161#p1_10)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gard_Jameson/An_Evening_with_Madiba">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un atardecer con Madiba</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ralph_Zehr/A_Balanced_Unified_Personality">
+          <span class="pr-2">Una personalidad unificada en equilibrio — la fundación para el crecimiento religioso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

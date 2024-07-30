@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Susan Lyon<br>© 2016 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bob_Ghen_Sr/doing_will_of_god">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faire la Volonté de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/urantia_book_and_us">
+          <span class="pr-2">Le Livre d’Urantia et Nous</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -60,3 +84,28 @@ Bien sûr, je prêche au chœur, mais tout comme vous vous attendriez que chacun
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-november-2016/)
 - [Cet article](https://urantia-association.org/inspiration-et-guerison-tirees-du-livre-durantia/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bob_Ghen_Sr/doing_will_of_god">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faire la Volonté de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/urantia_book_and_us">
+          <span class="pr-2">Le Livre d’Urantia et Nous</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

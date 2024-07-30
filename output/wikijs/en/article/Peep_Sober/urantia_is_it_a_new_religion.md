@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Peep Sõber<br>© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mark_Blackham/journal_editorial_november_2023">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal Editorial – November 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Coenraads/spiritual_practices_an_invitation_to_intimacy_with_god">
+          <span class="pr-2">Spiritual Practices – An Invitation to Intimacy With God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Peep Sõber, Estonia_
 
@@ -23,11 +47,11 @@ Religion can be viewed both from the inside with some preconceptions about every
 
 The book reveals:
 
-> The true perspective of any reality problem—human or divine, terrestrial or cosmic—can be had only by the full and unprejudiced study and correlation of three phases of universe reality: origin, history, and destiny. [UB 19:1.6](/en/The_Urantia_Book/19#p1_6)
+> The true perspective of any reality problem—human or divine, terrestrial or cosmic—can be had only by the full and unprejudiced study and correlation of three phases of universe reality: origin, history, and destiny. <a id="a49_219"></a>[UB 19:1.6](/en/The_Urantia_Book/19#p1_6)
 
 I use this method to understand the present Urantia movement, especially its connection with religion. First, let’s consider how Christianity became a new and powerful religion:
 
-> Christianity came not merely as a new religion—something all the Roman Empire and all the Orient were waiting for—but as a _new order of human society._ And as such a pretension it quickly precipitated the social-moral clash of the ages. The ideals of Jesus, as they were reinterpreted by Greek philosophy and socialized in Christianity, now boldly challenged the traditions of the human race embodied in the ethics, morality, and religions of Western civilization. [UB 195:0.3](/en/The_Urantia_Book/195#p0_3)
+> Christianity came not merely as a new religion—something all the Roman Empire and all the Orient were waiting for—but as a _new order of human society._ And as such a pretension it quickly precipitated the social-moral clash of the ages. The ideals of Jesus, as they were reinterpreted by Greek philosophy and socialized in Christianity, now boldly challenged the traditions of the human race embodied in the ethics, morality, and religions of Western civilization. <a id="a53_468"></a>[UB 195:0.3](/en/The_Urantia_Book/195#p0_3)
 
 The word “religion” itself has a Latin origin, where it meant respect for what is sacred, reverence for the gods, or moral obligations, among other definitions (Online Etymological Dictionary). But _The Urantia Book_ authors use the word with different meanings. Followers of Eastern religions don’t use the word so much. For instance, some say that Buddhism is not a religion at all, it’s a way of living. It all depends on what we mean by “religion.” I try to use the word as it is used in _The Urantia Book_ and as generally used in the West.
 
@@ -52,7 +76,7 @@ We know that in April 1955, William S. Sadler, Jr. presented _The Timing of The 
 
 When I first read _The Publication Mandate_, these words were authoritative. The book influenced the birth of a new age of religion. But is our world safe now? Not at all! We have had several years of war in Europe, and we don’t see the end in the near future. The leader of our neighboring country (Russia) has an arrest warrant issued against him by an international court because he and many others have been charged with war crimes. This has not happened before during the long history of Europe. Is such a system sustainable where we have war crimes, occupation and so on? First, we should not be naive peace seekers. True peace can only come with spiritual achievement, which is when people no longer want to establish themselves in a violent way. However, our civilization still has a long way to go.
 
-> A lasting social system without a morality predicated on spiritual realities can no more be maintained than could the solar system without gravity. [UB 195:5.9](/en/The_Urantia_Book/195#p5_9)
+> A lasting social system without a morality predicated on spiritual realities can no more be maintained than could the solar system without gravity. <a id="a78_150"></a>[UB 195:5.9](/en/The_Urantia_Book/195#p5_9)
 
 I lived most of my life in the Soviet Union, and I cannot say that there were any spiritual realities in that system. Most of us knew that this wouldn’t last long and we were right. If you look at the world today, especially Europe, such violent adventures (aggressions) have little hope of succeeding. As already stated in the _Book of Daniel_ and mentioned also in _The Urantia Book,_ the Most Highs rule in the kingdoms of men.
 
@@ -93,6 +117,31 @@ _The Urantia Book_ is religious by nature, but the authors’ aim was not to est
 - [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-november-2023/)
 - [This article](https://urantia-association.org/urantia-is-it-a-new-religion)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mark_Blackham/journal_editorial_november_2023">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal Editorial – November 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Coenraads/spiritual_practices_an_invitation_to_intimacy_with_god">
+          <span class="pr-2">Spiritual Practices – An Invitation to Intimacy With God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

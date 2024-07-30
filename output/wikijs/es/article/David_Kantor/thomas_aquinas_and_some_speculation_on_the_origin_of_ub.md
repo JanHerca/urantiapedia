@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 David Kantor<br>© 2024 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Richard_Jernigan/journal_editorial_may_2024">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial del Journal – mayo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2024 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Woodward/what_is_morontia">
+          <span class="pr-2">¿Qué es la morontia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _David Kantor, EE.UU._
 
@@ -29,7 +53,7 @@ Emma Christensen también dijo que, cuando los reveladores comentaron el origen 
 Así que hagamos la pregunta de nuevo: ¿por qué llevó tanto tiempo?
 <br style="clear:both;"/>
 
-_El libro de Urantia_ proporciona un par de pistas. De entrada, los reveladores se lamentan de estar restringidos al uso de nuestro lenguaje circunscrito cuando intentan comunicar conceptos ampliados y verdades avanzadas ([LU 0:0.2](/es/The_Urantia_Book/0#p0_2)). En otra sección, un Melquisedec lamenta las dificultades de perpetuar la verdad en los primeros tiempos ([LU 93:7.4](/es/The_Urantia_Book/93#p7_4)). (En el siglo XII, la revolución de la imprenta de Gutenberg aún estaba dos siglos en el futuro). Y hay otros comentarios en el libro, como «no encuentro palabras adecuadas», «escasez de lenguaje» y «me esforzaré por describir».  Cada uno de estos comentarios nos ayuda a apreciar los retos y limitaciones del lenguaje primitivo en un planeta primitivo.
+_El libro de Urantia_ proporciona un par de pistas. De entrada, los reveladores se lamentan de estar restringidos al uso de nuestro lenguaje circunscrito cuando intentan comunicar conceptos ampliados y verdades avanzadas (<a id="a55_222"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2)). En otra sección, un Melquisedec lamenta las dificultades de perpetuar la verdad en los primeros tiempos (<a id="a55_369"></a>[LU 93:7.4](/es/The_Urantia_Book/93#p7_4)). (En el siglo XII, la revolución de la imprenta de Gutenberg aún estaba dos siglos en el futuro). Y hay otros comentarios en el libro, como «no encuentro palabras adecuadas», «escasez de lenguaje» y «me esforzaré por describir».  Cada uno de estos comentarios nos ayuda a apreciar los retos y limitaciones del lenguaje primitivo en un planeta primitivo.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left" alt="Tommaso Summa theologica">
 <img src="/image/article/IUA_Journal/Tommaso_-_Summa_theologica_1596_-_4593718-453x706.jpg">
@@ -71,3 +95,27 @@ Hubo un gran número de variables sociales, políticas, lingüísticas, tecnoló
 - [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal/)
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2024/?lang=es)
 - [Este artículo](https://urantia-association.org/tomas-de-aquino-y-algunas-especulaciones-sobre-el-origen-de-el-libro-de-urantia/?lang=es)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Richard_Jernigan/journal_editorial_may_2024">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial del Journal – mayo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2024 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Woodward/what_is_morontia">
+          <span class="pr-2">¿Qué es la morontia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

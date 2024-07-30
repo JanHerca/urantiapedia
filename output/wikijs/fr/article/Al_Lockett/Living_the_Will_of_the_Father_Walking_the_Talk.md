@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Al Gates Lockett<br>© 2000 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Living_the_Will_of_Our_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Vivre la volonté du Père»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-septembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septembre 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kalevi_Eklof/Relation_of_Adjusters_to_Universe_Creatures">
+          <span class="pr-2">Position des Ajusteurs par rapport aux créatures de l'univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Al_Lockett.jpg">
@@ -34,11 +58,11 @@ Le thème d'aujourd'hui, sous le chapeau thématique de «vivre la volonté du P
 2. Pas d'effort pas de gain.
 3. Qu'est-ce que cela signifie pour vous et pour moi ?
 
-> _Bien que le Père Universel réside personnellement au Paradis, au centre même de l'univers, il est présent de manière effective aussi sur les mondes de l'espace dans le mental de ses innombrables enfants du temps, car il les babite sous l'aspect des Moniteurs de Mystère._ [[LU 107:0.1](/fr/The_Urantia_Book/107#p0_1)]
+> _Bien que le Père Universel réside personnellement au Paradis, au centre même de l'univers, il est présent de manière effective aussi sur les mondes de l'espace dans le mental de ses innombrables enfants du temps, car il les babite sous l'aspect des Moniteurs de Mystère._ <a id="a60_275"></a>[[LU 107:0.1](/fr/The_Urantia_Book/107#p0_1)]
 
-> _Les Ajusteurs sont l'actualité de l'amour du Père incarné dans l'àme des hommes ; emprisonnés dans le mental des mortels, ils sont la véritable promesse de carrière éternelle des hommes. Ils sont l'essence de la personnalité humaine du finalitaire devenu parfait, dont l'homme peut avoir l'avant-gout dans le temps à mesure qu'il domine progressivement la technique divine consistant à parvenir à vivre la volonté du Père._ [[LU 107:0.2](/fr/The_Urantia_Book/107#p0_2)]
+> _Les Ajusteurs sont l'actualité de l'amour du Père incarné dans l'àme des hommes ; emprisonnés dans le mental des mortels, ils sont la véritable promesse de carrière éternelle des hommes. Ils sont l'essence de la personnalité humaine du finalitaire devenu parfait, dont l'homme peut avoir l'avant-gout dans le temps à mesure qu'il domine progressivement la technique divine consistant à parvenir à vivre la volonté du Père._ <a id="a62_427"></a>[[LU 107:0.2](/fr/The_Urantia_Book/107#p0_2)]
 >
-> _Ayant commandé à l'homme d'être parfait comme lui-même est parfait, Dieu est descendu sous forme d'Ajusteur pour devenir le partenaire expérientiel de l'homme dans l'accomplissement de la destinée céleste ainsi ordonnée._ [[LU 107:0.3](/fr/The_Urantia_Book/107#p0_3)]
+> _Ayant commandé à l'homme d'être parfait comme lui-même est parfait, Dieu est descendu sous forme d'Ajusteur pour devenir le partenaire expérientiel de l'homme dans l'accomplissement de la destinée céleste ainsi ordonnée._ <a id="a64_225"></a>[[LU 107:0.3](/fr/The_Urantia_Book/107#p0_3)]
 
 ## L'appel à la perfection
 
@@ -46,15 +70,15 @@ Je viens de lire trois phrases de l'introduction du fascicule 107. Cette introdu
 
 Réfléchissons à la première phrase : _Bien que le Père Universel réside personnellement au Paradis, au centre même de l'univers, il est présent de manière effective aussi sur les mondes de l'espace dans le mental de ses innombrables enfants du temps, car il les habite sous l'aspect des Moniteurs de Mystère_. Je ne sais pas ce qu'il en est pour vous, mais moi, cette idée que le créateur de tout, infini, éternel et plus que ne pourrait jamais comprendre mon mental matériel, ce créateur résidait en moi, ça m'a bouleversé pendant des jours et des nuits de contemplation profonde
 
-Voici deux autres affirmations du _Livre d'Urantia_ : _Tous les êtres de la création se réjoniraient d'accueillir des Moniteurs de Mystère, mais aucun ordre d'êtres n'est ainsi habité, sauf les créatures évolutionnaires volitives à destinée de finalitaires_. [[LU 107:7.7](/fr/The_Urantia_Book/107#p7_7)].
+Voici deux autres affirmations du _Livre d'Urantia_ : _Tous les êtres de la création se réjoniraient d'accueillir des Moniteurs de Mystère, mais aucun ordre d'êtres n'est ainsi habité, sauf les créatures évolutionnaires volitives à destinée de finalitaires_. <a id="a72_259"></a>[[LU 107:7.7](/fr/The_Urantia_Book/107#p7_7)].
 
-> _Les Ajusteurs sont l'actualité de l'amour du Père incarné dans l'âme des hommes ; emprisonnés dans le mental des mortels, ils sont la véritable promesse de carrière éternelle des hommes. Ils sont l'essence de la personnalité humaine du finalitaire devenu parfait, dont l'homme peut avoir l'avant-gout dans le temps à mesure qu'il domine progressivement la technique divine consistant à parvenir à vivre la volonté du Père._ [[LU 107:0.2](/fr/The_Urantia_Book/107#p0_2)].
+> _Les Ajusteurs sont l'actualité de l'amour du Père incarné dans l'âme des hommes ; emprisonnés dans le mental des mortels, ils sont la véritable promesse de carrière éternelle des hommes. Ils sont l'essence de la personnalité humaine du finalitaire devenu parfait, dont l'homme peut avoir l'avant-gout dans le temps à mesure qu'il domine progressivement la technique divine consistant à parvenir à vivre la volonté du Père._ <a id="a74_427"></a>[[LU 107:0.2](/fr/The_Urantia_Book/107#p0_2)].
 
 Ils [les Ajusteurs] sont l'essence de votre moi parfait et de mon moi parfait au fur et à mesure que nous maitrisons la technique divine de parvenir à vivre la volonté du Père.
 
 Ainsi, parvenir à « vivre la volonté du Père » est le résultat d'une technique divine qu'il nous faut maitriser.
 
-La dernière phrase, _[a]yant commandé à l'homme d'être parfait comme lui-même est parfait, Dieu est descendu sous forme d'Ajusteur pour devenir le partenaire expérientiel de l'homme dans l'accomplissement de la destinée céleste ainsi ordonnée_. [[LU 107:0.3](/fr/The_Urantia_Book/107#p0_3)], nous dit précisément ce qu'est la volonté de Dieu pour chacun d'entre nous, le fait que c'est ordonné et aussi que Dieu sous la forme de l'Ajusteur, est notre partenaire expérientiel pour parvenir à cette destinée.
+La dernière phrase, _[a]yant commandé à l'homme d'être parfait comme lui-même est parfait, Dieu est descendu sous forme d'Ajusteur pour devenir le partenaire expérientiel de l'homme dans l'accomplissement de la destinée céleste ainsi ordonnée_. <a id="a80_245"></a>[[LU 107:0.3](/fr/The_Urantia_Book/107#p0_3)], nous dit précisément ce qu'est la volonté de Dieu pour chacun d'entre nous, le fait que c'est ordonné et aussi que Dieu sous la forme de l'Ajusteur, est notre partenaire expérientiel pour parvenir à cette destinée.
 
 Non seulement cela a été ordonné mais c'est le premier but ou la première raison de notre existence. Vous voulez connaitre la raison de la vie? Pas besoin d'aller au Tibet ou de rencontrer le Dalai Lama, il suffit de vivre la volonté du Père en suivant sa directive d'être parfait.
 
@@ -66,7 +90,7 @@ Comment savons-nous que nous vivons la volonté du Père ? Et que signifie être
 
 Donc, la seule façon que nous avons de vivre selon la volonté de Dieu est de suivre les directives de l'Ajusteur. C'est d'aligner notre volonté sur celle de Dieu; c'est de vivre la vie religieusement. **La vie terrestre de Jésus était dédiée à un seul grand dessein : faire la volonté du Père, vivre la vie humaine religieusement et par la foi.**
 
-Revenons à notre passage : _qu'il domine progressivement la technique divine consistant à parvenir à vivre la volonté du Père_. [[LU 107:0.2](/fr/The_Urantia_Book/107#p0_2)].
+Revenons à notre passage : _qu'il domine progressivement la technique divine consistant à parvenir à vivre la volonté du Père_. <a id="a92_128"></a>[[LU 107:0.2](/fr/The_Urantia_Book/107#p0_2)].
 
 Vivre la volonté du Père est une technique qu'il faut maitriser. Il y a un composant, une nécessité de travail, associés au fait de vivre la volonté du Père.
 
@@ -86,7 +110,7 @@ De quoi avons-nous besoin pour vivre la volonté du Père ?
 
 Et je crois que pour le mettre dans le contexte du 11^ème^ commandement, **d'aimer Dieu de tout notre coeur et de toute notre âme et d'aimer notre prochain comme nous-mêmes**. Mais, par dessus tout, on nous demande d'avoir la **foi**.
 
-> _La foi de Jésus était confiante comme celle d'un enfant, mais sans la moindre présomption. Il prit des décisions fermes et viriles, affronta courageusement de multiples déceptions, surmonta résolument d'extraordinaires difficultés et fit face sans défaillance aux rudes exigences du devoir. Il fallait une forte volonté et une confiance indéfectible pour croire ce que Jésus croyait et comme il le croyait._ [[LU 196:0.14](/fr/The_Urantia_Book/196#p0_14)]
+> _La foi de Jésus était confiante comme celle d'un enfant, mais sans la moindre présomption. Il prit des décisions fermes et viriles, affronta courageusement de multiples déceptions, surmonta résolument d'extraordinaires difficultés et fit face sans défaillance aux rudes exigences du devoir. Il fallait une forte volonté et une confiance indéfectible pour croire ce que Jésus croyait et comme il le croyait._ <a id="a112_411"></a>[[LU 196:0.14](/fr/The_Urantia_Book/196#p0_14)]
 
 Il y a un composant pour vivre la volonté du Père et c'est «de vivre sans crainte».
 
@@ -96,11 +120,11 @@ Savez-vous que vivre la vie hardiment et sans crainte est un but difficile mais 
 
 Le fascicule 108 parle de la mission des Ajusteurs de Pensée :
 
-> _La mission des Ajusteurs de Pensée auprès des races humaines consiste à représenter, à être, le Père Universel pour les créatures mortelles du temps et de l'espace ; tel est le travail fondamental des dons divins. Leur mission est aussi d'elever le mental des mortels et de transférer les âmes immortelles des hommes jusqu'aux hauteurs divines et aux niveaux spirituels de la perfection paradisiaque._ [[LU 108:0.1](/fr/The_Urantia_Book/108#p0_1)]
+> _La mission des Ajusteurs de Pensée auprès des races humaines consiste à représenter, à être, le Père Universel pour les créatures mortelles du temps et de l'espace ; tel est le travail fondamental des dons divins. Leur mission est aussi d'elever le mental des mortels et de transférer les âmes immortelles des hommes jusqu'aux hauteurs divines et aux niveaux spirituels de la perfection paradisiaque._ <a id="a122_405"></a>[[LU 108:0.1](/fr/The_Urantia_Book/108#p0_1)]
 
 De nouveau l'élément clé est la perfection, mais ils poursuivent :
 
-> _Les Moniteurs de Mystère n'aident pas à penser ; ils ajustent la pensée. Ils travaillent avec le mental matériel en vue de construire, par ajustement et spiritualisation, un nowveau mental pour votre carrière future sur de nouveaux mondes et sous un nouveau nom._ [[LU 108:5.5](/fr/The_Urantia_Book/108#p5_5)]
+> _Les Moniteurs de Mystère n'aident pas à penser ; ils ajustent la pensée. Ils travaillent avec le mental matériel en vue de construire, par ajustement et spiritualisation, un nowveau mental pour votre carrière future sur de nouveaux mondes et sous un nouveau nom._ <a id="a126_267"></a>[[LU 108:5.5](/fr/The_Urantia_Book/108#p5_5)]
 
 Leur mission principale concerne la vie future, et non pas cette vie. On les appelle des aides célestes et non des aides terrestres.
 
@@ -121,7 +145,7 @@ Les anciens disaient souvent: «Dieu ne vous charge pas plus que vous n'en pouve
 
 Pas d'effort, pas de gain.
 
-> _Vos émotions passagères et toujours changeantes de joie et de tristesse sont surtout des réactions purement humaines et matérielles à votre climat pyychique interne et à votre entourage matériel externe. Ne comptez donc pas sur l'Ajusteur pour des consolations égoïstes et un réconfort bumain. Son affaire est de vous préparer à l'aventure éternelle, d'assurer votre survie. Le Moniteur de Mystère n'a pas pour mission d'adoucir vos sentiments d'irritation ou de panser votre orgueil blessé. C'est la préparation de votre âme à la longue carrière ascendante qui retient l'attention et occupe le temps de l'Ajusteur._ [[LU 108:5.6](/fr/The_Urantia_Book/108#p5_6)]
+> _Vos émotions passagères et toujours changeantes de joie et de tristesse sont surtout des réactions purement humaines et matérielles à votre climat pyychique interne et à votre entourage matériel externe. Ne comptez donc pas sur l'Ajusteur pour des consolations égoïstes et un réconfort bumain. Son affaire est de vous préparer à l'aventure éternelle, d'assurer votre survie. Le Moniteur de Mystère n'a pas pour mission d'adoucir vos sentiments d'irritation ou de panser votre orgueil blessé. C'est la préparation de votre âme à la longue carrière ascendante qui retient l'attention et occupe le temps de l'Ajusteur._ <a id="a147_620"></a>[[LU 108:5.6](/fr/The_Urantia_Book/108#p5_6)]
 
 Pas d'effort, pas de gain
 
@@ -138,10 +162,34 @@ Tout d'abord, les Ajusteurs sont la volonté de Dieu.
 7. Toute l'idée que nous faisons de notre inclination envers telle ou telle forme de religiosité, cette pulsion vers la perfection et la conscience spirituelle, c'est le divin Ajusteur intérieur qui oeuvre conjointement avec l'Esprit de Vérité.
 8. Une des choses que j'ai apprises c'est que vivre la volonté de Dieu est personnel à chaque individu. Et que cela porte les fruits de l'amour et du service envers ses frères.
 
-> _Les Ajusteurs de Pensée aimeraient changer vos sentiments de crainte en convictions d'amour et de confiance._ [[LU 108:5.8](/fr/The_Urantia_Book/108#p5_8)]
+> _Les Ajusteurs de Pensée aimeraient changer vos sentiments de crainte en convictions d'amour et de confiance._ <a id="a164_113"></a>[[LU 108:5.8](/fr/The_Urantia_Book/108#p5_8)]
 
-> _Quand on en vient aux conflits aigus et bien définis entre les tendances supérieures et inférieures des races, entre ce qui est réellement bien ou mal (et non simplement ce que vous pouvez. appeler bien et mal) vous pouvez compter que l'Ajusteur participera toujours nettement et activement à de telles expériences._ [[LU 108:5.9](/fr/The_Urantia_Book/108#p5_9)]
+> _Quand on en vient aux conflits aigus et bien définis entre les tendances supérieures et inférieures des races, entre ce qui est réellement bien ou mal (et non simplement ce que vous pouvez. appeler bien et mal) vous pouvez compter que l'Ajusteur participera toujours nettement et activement à de telles expériences._ <a id="a166_320"></a>[[LU 108:5.9](/fr/The_Urantia_Book/108#p5_9)]
 
 J'aimerais conclure avec une déclaration du livre qui me fut d'un grand réconfort. Elle parle à mon coeur et à tous les manques que je perçois chez moi. Heureusement, dans le contexte de cette rencontre et avec son thème, elle continuera à nous donner de l'espoir lorsque de manière constante nous essayons de vivre la volonté du Père.
 
-> _Après être partis sur la route de la vie éternelle, aprè̀s avoir accepté votre mission et reçu vos ordres pour progresser, ne craignez pas les dangers du manque de mémoire des hommes et de l'inconstance des mortels, ne vous laissez pas troubler par des craintes d'échecs ou des confusions déroutantes, ne chancelez pas et ne mettez en doute ni votre statut ni votre position, car, à toutes les beures sombres et à tous les carrefours de la lutte pour le progrès, l'Esprit de Vérité parlera toujours et vous dira «Voilà le chemin »._ [[LU 34:7.8](/fr/The_Urantia_Book/34#p7_8)]
+> _Après être partis sur la route de la vie éternelle, aprè̀s avoir accepté votre mission et reçu vos ordres pour progresser, ne craignez pas les dangers du manque de mémoire des hommes et de l'inconstance des mortels, ne vous laissez pas troubler par des craintes d'échecs ou des confusions déroutantes, ne chancelez pas et ne mettez en doute ni votre statut ni votre position, car, à toutes les beures sombres et à tous les carrefours de la lutte pour le progrès, l'Esprit de Vérité parlera toujours et vous dira «Voilà le chemin »._ <a id="a170_536"></a>[[LU 34:7.8](/fr/The_Urantia_Book/34#p7_8)]
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Living_the_Will_of_Our_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Vivre la volonté du Père»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-septembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septembre 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kalevi_Eklof/Relation_of_Adjusters_to_Universe_Creatures">
+          <span class="pr-2">Position des Ajusteurs par rapport aux créatures de l'univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

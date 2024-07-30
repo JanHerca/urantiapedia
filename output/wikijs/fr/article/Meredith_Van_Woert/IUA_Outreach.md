@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Meredith Van Woert<br>© 1999 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dorothy_Elder/A_Report_on_UBIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compte-Rendu Sur L'ecole Internet Du Livre D'urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-décembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Décembre 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_MacIsaac/A_Report_on_Young_Readers">
+          <span class="pr-2">Les jeunes lecteurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Meredith Van Woert
 Californie, États-Unis
@@ -39,3 +63,27 @@ Le résultat de cette propagation s'établit comme suit:
 - 1 carte retournée à l'expéditeur
 
 J'ai reçu sept lettres à titre individuel. Chacune contient une histoire personnelle. Et chaque conversation révèle la lumière et les ombres d'un paysage que nous partageons et que nous appelons le Livre d'Urantia. La propagation de l'AUI est en marche.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dorothy_Elder/A_Report_on_UBIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compte-Rendu Sur L'ecole Internet Du Livre D'urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-décembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Décembre 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_MacIsaac/A_Report_on_Young_Readers">
+          <span class="pr-2">Les jeunes lecteurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

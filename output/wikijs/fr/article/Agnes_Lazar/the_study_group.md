@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Agnes Lazar<br>© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Suzanne_Kelly/journal_editorial_november_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial du Journal de Novembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/study_groups_revisited">
+          <span class="pr-2">Les Groupes d’Étude Reconsidérés</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -42,3 +66,28 @@ _Le groupe offre un espace potentiel pour travailler sur soi-même, pour réduir
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2019/?lang=fr)
 - [Cet article](https://urantia-association.org/le-groupe-detude/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Suzanne_Kelly/journal_editorial_november_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial du Journal de Novembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/study_groups_revisited">
+          <span class="pr-2">Les Groupes d’Étude Reconsidérés</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

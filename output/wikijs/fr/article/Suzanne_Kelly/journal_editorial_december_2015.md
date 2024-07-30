@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Suzanne Kelly<br>© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2015_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Décembre 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-décembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Décembre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_Zavala_Jr/evolution_of_the_trinity_concept">
+          <span class="pr-2">Évolution du concept de Trinité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left" alt="Suzanne Kelly">
@@ -29,7 +53,7 @@ Dans sa présentation il nous offre avec ses mots vivants de foi au-delà de la 
 
 Bart Gibbons des États-Unis, vient ensuite et dans son « **En ce qui concerne l’adversité** » il pose la question pour laquelle, à un moment ou à un autre, nous avons tous désiré avoir une réponse  Comment les enseignements nous aident-ils à réagir quand nous sommes secoués par une tragédie dévastatrice et inattendue ou bien que nos propres efforts malencontreux sont causes de souffrance et de désespoir dans notre vie quotidienne ? Bart nous donne des exemples sur la façon de traiter presque tout ce que ce monde peut nous jeter à la figure, l’un de mes favoris, et avec lequel je me suis familiarisé, est : Le bon jugement provient de l’expérience, et une grande partie de cela provient d’un mauvais jugement. Will Rogers.  D’accord, celui-là était de Will Rogers, mais en deuxième position , ce qui m’a totalement satisfaite est …
 
-> « La carrière d’un homme recherchant Dieu peut se révéler comme une grande réussite à la lumière de l’éternité, même si tout le cours de sa vie temporelle apparaît comme un échec retentissant, pourvu que chaque insuccès ait suscité la culture de la sagesse et l’accomplissement spirituel. » <a id="a52_261"></a>[[LU 160:4.16](/fr/The_Urantia_Book/160#p4_16)]
+> « La carrière d’un homme recherchant Dieu peut se révéler comme une grande réussite à la lumière de l’éternité, même si tout le cours de sa vie temporelle apparaît comme un échec retentissant, pourvu que chaque insuccès ait suscité la culture de la sagesse et l’accomplissement spirituel. » <a id="a55_293"></a>[[LU 160:4.16](/fr/The_Urantia_Book/160#p4_16)]
 
 Merci Bart !
 
@@ -54,3 +78,28 @@ Note: Tous les documents soumis doivent suivre les lignes directrices des citati
 - [Ce numéro](https://urantia-association.org/newsletter/journal-decembre-2015/?lang=fr)
 - [Cet article](https://urantia-association.org/editorial-decembre-2015/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2015_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Décembre 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-décembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Décembre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_Zavala_Jr/evolution_of_the_trinity_concept">
+          <span class="pr-2">Évolution du concept de Trinité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

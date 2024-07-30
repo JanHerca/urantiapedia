@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Stuart Kerr<br>© 2017 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Nigel_Nunn/massive_orvonton">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Immense Orvonton</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stuart_R_Kerr_III/ultimacy_master_universe">
+          <span class="pr-2">L’Ultimité du Maître Univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Votre monde, Urantia, est l’une des   nombreuses planètes habitées semblables comprises dans l’univers de Nébadon. Cet univers et d’autres créations  représentent ensemble le superunivers d’Orvonton. Cet univers, avec d’autres créations semblables, forme le superunivers d’Orvonton dont la capitale est Uversa, d’où vient notre commission. Orvonton est l’un des sept superunivers évolutionnaires du temps et de l’espace qui entourent l’univers central de Havona, la création sans commencement ni fin de perfection divine. Au coeur de cet univers éternel et central, se trouve l’Île du Paradis, immobile, centre géographique de l’infini et demeure du Dieu éternel.** [LU 0:0.5](/es/The_Urantia_Book/0#p0_5)
 
@@ -52,3 +76,28 @@ Dans l’âge actuel du grand univers, de l’Être Suprême en évolution, les 
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2017/?lang=fr)
 - [Cet article](https://urantia-association.org/la-suprematie-du-grand-univers/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Nigel_Nunn/massive_orvonton">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Immense Orvonton</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stuart_R_Kerr_III/ultimacy_master_universe">
+          <span class="pr-2">L’Ultimité du Maître Univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

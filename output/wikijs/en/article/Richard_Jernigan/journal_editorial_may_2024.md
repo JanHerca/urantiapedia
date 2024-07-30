@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Richard Jernigan<br>© 2024 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2024_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — May 2024 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2024 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kantor/thomas_aquinas_and_some_speculation_on_the_origin_of_ub">
+          <span class="pr-2">Thomas Aquinas and Some Speculation on the Origin of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Richard Jernigan, USA_
 
@@ -38,3 +62,27 @@ Happy reading.
 - [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-may-2024/)
 - [This article](https://urantia-association.org/journal-editorial-may-2024)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2024_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — May 2024 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2024 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kantor/thomas_aquinas_and_some_speculation_on_the_origin_of_ub">
+          <span class="pr-2">Thomas Aquinas and Some Speculation on the Origin of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Gaétan Charland<br>© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Agnes_Lazar/the_study_group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Groupe d’Étude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Moustapha_NDiaye/future_study_groups">
+          <span class="pr-2">Qu’est-ce que le  Futur Réserve aux Groupes d’Étude?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -17,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Au cours de la conférence d’Amsterdam, j’ai rencontré un lecteur de longue date et eu une discussion intéressante avec lui sur le nom, la nature, la fonction, la mission, et les buts de groupes d’étude. Depuis lors, j’ai eu quelques discussions sur ce sujet avec des lecteurs d’Europe, d’Amérique du Nord, d’ Afrique, et de mon association locale. Dans tous ces échanges, mon but était d’explorer ce qui peut être fait pour rendre les groupes d’étude plus attrayants, pratiques, et utiles tant pour les générations nouvelles qu’anciennes de lecteurs et d’étudiants .
 
-Considérant les consignes exprimées par les révélateurs dans le Mandat de Publication de créer des milliers de groupes d’étude, de former des leaders et instructeurs, et de répondre au  défi d’accomplir la mission du _Livre d’Urantia_ telle que décrite dans l’Introduction _d’étendre la_ _conscience cosmique et rehausser la perception spirituelle »_ <a id="a42_322"></a>[[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2)]_—_et pour répondre à l’autre grand défi : _“d’établir de meilleures communications avec le divin Moniteur qui habite le mental humain »_ <a id="a42_497"></a>[[LU 196:3.34](/fr/The_Urantia_Book/196#p3_34)], mes questions sont : Les groupes d’étude remplissent-ils ces objectifs ? Ou bien les groupes d’étude sont-ils organisés et encouragés sans qu’ils aient ces buts spécifiques ?
+Considérant les consignes exprimées par les révélateurs dans le Mandat de Publication de créer des milliers de groupes d’étude, de former des leaders et instructeurs, et de répondre au  défi d’accomplir la mission du _Livre d’Urantia_ telle que décrite dans l’Introduction _d’étendre la_ _conscience cosmique et rehausser la perception spirituelle »_ <a id="a43_351"></a>[[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2)]_—_et pour répondre à l’autre grand défi : _“d’établir de meilleures communications avec le divin Moniteur qui habite le mental humain »_ <a id="a43_530"></a>[[LU 196:3.34](/fr/The_Urantia_Book/196#p3_34)], mes questions sont : Les groupes d’étude remplissent-ils ces objectifs ? Ou bien les groupes d’étude sont-ils organisés et encouragés sans qu’ils aient ces buts spécifiques ?
 
 À partir de ces échanges, j’ai compris que les groupes d’étude ont besoin d’être reconsidérés s’ils doivent accomplir ce que les révélateurs avaient probablement prévu pour eux. Il se peut que, faisant des groupes d’étude depuis tant d’années et devenant quelque peu complaisants à leur sujet, nous puissions oublier peu à peu leurs vrais objectifs et leur importance en les rendant plus intellectuels et sociaux plutôt que davantage progressifs spirituellement et attrayants pour une nouvelle génération de lecteurs .
 
@@ -33,7 +57,7 @@ Cette définition reflète-t-elle ce que nous essayons d’accomplir par les gro
 
 Modifier le nom“ groupes d’étude” serait juste un premier pas pour améliorer la façon dont on les perçoit et ce qu’ils devraient accomplir. Cette modification du nom devrait refléter une orientation compatible avec la mission spirituelle du _Livre d’__Urantia_ _ainsi_ qu’avec sa dimension intellectuelle afin d’élargir notre conception de la cosmologie, de la philosophie et de la religion. Elle doit aussi  refléter  son influence  progressive de transformation spirituelle pour englober des activités  orientées vers le service. Ce n’est pas pour des raisons insignifiantes que les révélateurs ont fortement suggéré que nous étudions l’époque et la vie de Jésus, afin que nous apprenions comment devenir des lumières vivantes de vérité.
 
-> _On peut prêcher une religion à propos de Jésus, mais obligatoirement on doit vivre la religion de Jésus._ <a id="a58_95"></a>[[LU 196:2.1](/fr/The_Urantia_Book/196#p2_1)]
+> _On peut prêcher une religion à propos de Jésus, mais obligatoirement on doit vivre la religion de Jésus._ <a id="a59_109"></a>[[LU 196:2.1](/fr/The_Urantia_Book/196#p2_1)]
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Leadership-300x182.jpg">
@@ -46,7 +70,7 @@ The integration of the teachings of _The Urantia Book_L’ intégration des ense
 
 Dans le mouvement Urantia actuel, les hôtes de groupes d’étude sont les lumières spirituelles qui brillent dans de nombreuses  parties du monde ; ils sont les leaders et enseignants qu’ils le réalisent ou non. Ils ont une responsabilité formidable et, en tant que fraternité, une réserve  considérable de potentiel spirituel et de pouvoir qui peut aider à changer le monde. Si nous pouvions seulement imaginer et mettre en œuvre ce que les révélateurs ont prévu dans le potentiel des groupes d’étude, tout lecteur  et étudiant sérieux  du _Livre d’__Urantia_ _soit participerait à un groupe soit en deviendrait un hôte_ .
 
-> _Des mots décrivant de belles choses ne peuvent passionner autant que la vue de ces choses ; les mots d’un credo ne peuvent pas non plus inspirer les âmes  humaines comme l’expérience de connaître la présence de Dieu ._ <a id="a71_178"></a>[[LU 195:9.8](/fr/The_Urantia_Book/195#p9_8)]
+> _Des mots décrivant de belles choses ne peuvent passionner autant que la vue de ces choses ; les mots d’un credo ne peuvent pas non plus inspirer les âmes  humaines comme l’expérience de connaître la présence de Dieu ._ <a id="a72_222"></a>[[LU 195:9.8](/fr/The_Urantia_Book/195#p9_8)]
 
 Les groupes d’étude devraient se concentrer davantage sur l’intégration progressive des enseignements. Il leur faut assimiler l’échange d’expériences qui rehaussent les valeurs et significations des leçons étudiées dans le groupe. De telles activités ouvriraient les portes à l’ expression de nos potentiels spirituels dans nos vies quotidiennes et pourraient être utilisées pour rendre plus accessibles à chacun les enseignements .
 
@@ -90,3 +114,28 @@ Souvenons-nous que nous devons être le changement que nous souhaitons dans le m
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2019/?lang=fr)
 - [Cet article](https://urantia-association.org/les-groupes-detude-reconsideres/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Agnes_Lazar/the_study_group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Groupe d’Étude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Moustapha_NDiaye/future_study_groups">
+          <span class="pr-2">Qu’est-ce que le  Futur Réserve aux Groupes d’Étude?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

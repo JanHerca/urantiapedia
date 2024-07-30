@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Moussa Ndiaye<br>© 2000 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Sharing_God_the_Sublime_Consciousness_of_Knowing_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sharing God, the Sublime Consciousness of Knowing God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carolina_Arana/Gods_Relation_to_the_Individual">
+          <span class="pr-2">God's Relation to the Individual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Moussa_Ndiaye.jpg">
@@ -71,3 +95,27 @@ Dear brothers and sisters, I thank you for your attention and for your having li
 I deplore my possible failure to satisfy your expectations and am sorry for my failure to redeem the expectations of competence which you possibly attached to my presentation.
 
 Once more, thank you!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Sharing_God_the_Sublime_Consciousness_of_Knowing_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sharing God, the Sublime Consciousness of Knowing God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carolina_Arana/Gods_Relation_to_the_Individual">
+          <span class="pr-2">God's Relation to the Individual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

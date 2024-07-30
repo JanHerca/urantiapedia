@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Christopher Ross<br>© 2023 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mamadou_Doudou_Diagne/birth_of_the_spirit_and_spiritual_maturity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Naissance d’esprit et maturité spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Blackham/the_next_life">
+          <span class="pr-2">La otra vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -39,11 +63,11 @@ Le frère Marc s’était vidé pour devenir le récipient par lequel Jésus lui
 
 Que l’on croie à la transsubstantiation, comme les catholiques, ou à la consubstantiation, comme les anglicans et les épiscopaliens, ou – voir le document 179, section 5 – que le pain et le vin sont des symboles, c’est un débat pour un autre jour. Jésus a dit qu’il était « le pain de vie », mais rien sur le pain devenant son corps. Il n’a pas non plus parlé de sang. Quoi qu’il en soit, se tenir à la place du Christ et offrir les éléments consacrés à une assemblée est une position impressionnante. Non pas impressionnante comme le sont les gens qui utilisent ce mot pour presque tout, mais vraiment impressionnante. Surtout lorsqu’on a eu la chance de voir, comme je crois l’avoir fait.
 
-Mais comment cela s’est-il produit et qu’ai-je vraiment vu ? Comme le raconte _Le Livre_ _d’Urantia,_ Jésus dit à Thomas : « Bénis soient, _dans les siècles à venir_, ceux qui croiront même sans avoir vu avec les yeux de la chair ni entendu avec les oreilles mortelles » (<a id="a64_263"></a>[LU 191:5.5](/fr/The_Urantia_Book/191#p5_5), italiques ajoutés).
+Mais comment cela s’est-il produit et qu’ai-je vraiment vu ? Comme le raconte _Le Livre_ _d’Urantia,_ Jésus dit à Thomas : « Bénis soient, _dans les siècles à venir_, ceux qui croiront même sans avoir vu avec les yeux de la chair ni entendu avec les oreilles mortelles » (<a id="a65_272"></a>[LU 191:5.5](/fr/The_Urantia_Book/191#p5_5), italiques ajoutés).
 
-Je n’ai donc pas vu Jésus dans le corps physique qu’il a habité pendant son séjour sur Urantia, malgré la croyance de l’Église en la résurrection du corps (voir le Credo des Apôtres dans le Livre de la Prière Commune). J’ai vu ce que Jésus a dit à ses apôtres que les générations futures verraient : « Vous me voyez maintenant… dans la chair, mais quand je reviendrai, ce sera… dans l’esprit ». Jésus a expliqué : « L’œil de la chair voit le Fils de l’homme dans la chair, mais seul l’œil de l’esprit verra le Fils de l’homme … apparaissant sur la terre…. » (<a id="a66_518"></a>[LU 176:2.4](/fr/The_Urantia_Book/176#p2_4)). Ainsi, ce que j’ai vu, pendant une milliseconde, c’est l’esprit qui s’est révélé à moi sous la forme d’une paire de sandales.
+Je n’ai donc pas vu Jésus dans le corps physique qu’il a habité pendant son séjour sur Urantia, malgré la croyance de l’Église en la résurrection du corps (voir le Credo des Apôtres dans le Livre de la Prière Commune). J’ai vu ce que Jésus a dit à ses apôtres que les générations futures verraient : « Vous me voyez maintenant… dans la chair, mais quand je reviendrai, ce sera… dans l’esprit ». Jésus a expliqué : « L’œil de la chair voit le Fils de l’homme dans la chair, mais seul l’œil de l’esprit verra le Fils de l’homme … apparaissant sur la terre…. » (<a id="a67_559"></a>[LU 176:2.4](/fr/The_Urantia_Book/176#p2_4)). Ainsi, ce que j’ai vu, pendant une milliseconde, c’est l’esprit qui s’est révélé à moi sous la forme d’une paire de sandales.
 
-Plus étonnant encore, comme si cela ne suffisait pas, Jésus a dit à plus d’une reprise : » … le Père et moi sommes un. Celui qui m’a vu a vu le Père » (<a id="a68_158"></a>[LU 157:6.13](/fr/The_Urantia_Book/157#p6_13) et <a id="a68_208"></a>[LU 181:2.20](/fr/The_Urantia_Book/181#p2_20)). Ai-je vu ? Vu Dieu, c’est-à-dire ? Moi ? Comment cela est-il possible ? Eh bien, des décennies de méditations biquotidiennes ont facilité le chemin, je suppose. Rester assis, l’esprit aussi vide que possible, ouvre le canal, non seulement lorsque je suis sur mon banc de méditation, mais aussi, idéalement, en dehors du banc. Ainsi, pendant un instant, le voile s’est retiré et le temps s’est arrêté. Néanmoins, je crois que cela peut arriver à n’importe qui, à n’importe quel moment, à n’importe quel endroit. Vous. Moi. Tout le monde.
+Plus étonnant encore, comme si cela ne suffisait pas, Jésus a dit à plus d’une reprise : » … le Père et moi sommes un. Celui qui m’a vu a vu le Père » (<a id="a69_152"></a>[LU 157:6.13](/fr/The_Urantia_Book/157#p6_13) et <a id="a69_201"></a>[LU 181:2.20](/fr/The_Urantia_Book/181#p2_20)). Ai-je vu ? Vu Dieu, c’est-à-dire ? Moi ? Comment cela est-il possible ? Eh bien, des décennies de méditations biquotidiennes ont facilité le chemin, je suppose. Rester assis, l’esprit aussi vide que possible, ouvre le canal, non seulement lorsque je suis sur mon banc de méditation, mais aussi, idéalement, en dehors du banc. Ainsi, pendant un instant, le voile s’est retiré et le temps s’est arrêté. Néanmoins, je crois que cela peut arriver à n’importe qui, à n’importe quel moment, à n’importe quel endroit. Vous. Moi. Tout le monde.
 
 Mon Seigneur et mon Dieu !
 
@@ -55,3 +79,28 @@ Mon Seigneur et mon Dieu !
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2023/?lang=fr)
 - [Cet article](https://urantia-association.org/mon-seigneur-et-mon-dieu/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mamadou_Doudou_Diagne/birth_of_the_spirit_and_spiritual_maturity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Naissance d’esprit et maturité spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Blackham/the_next_life">
+          <span class="pr-2">La otra vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

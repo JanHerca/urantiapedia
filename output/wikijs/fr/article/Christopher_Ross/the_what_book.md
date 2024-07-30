@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Christopher Ross<br>© 2022 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/legacy_and_inspiration">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Héritage et inspiration</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/hazards_decimal_planet">
+          <span class="pr-2">Les aléas d’une planète décimale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Partie 1
@@ -45,7 +69,7 @@ Le vrai enjeu, je pense, la vérité la plus importante, était que j’étais s
 
 Un autre lecteur m’a suggéré de commencer par la fin, comme beaucoup de gens le font, par la quatrième partie : La Vie et les Enseignements de Jésus. Certes, ces documents ne sont pas moins importants que n’importe quelle autre partie, mais ils sont comme un roman que l’on parcourt rapidement, comparé à l’écriture technique dense, difficile et complexe des sections précédentes.
 
-Mais une partie de moi ne voulait pas violer l’intégrité du texte de cette façon, ou plutôt l’intégrité du processus de révélation. Et donc, fidèle à ma nature de Vierge – en dépit du statut de l’astrologie comme « croyance superstitieuse » (<a id="a70_231"></a>[LU 121:5.5](/fr/The_Urantia_Book/121#p5_5)) – je suis retourné à l’avant-propos, déterminé à lire _Le Livre d’Urantia_ en entier.
+Mais une partie de moi ne voulait pas violer l’intégrité du texte de cette façon, ou plutôt l’intégrité du processus de révélation. Et donc, fidèle à ma nature de Vierge – en dépit du statut de l’astrologie comme « croyance superstitieuse » (<a id="a71_242"></a>[LU 121:5.5](/fr/The_Urantia_Book/121#p5_5)) – je suis retourné à l’avant-propos, déterminé à lire _Le Livre d’Urantia_ en entier.
 
 J’ai apporté à cet effort une préparation considérable, pensais-je : une recherche de Dieu qui avait commencé sérieusement en 1979, lorsque j’avais appris à méditer, m’amenant d’abord du judaïsme nominal, dans lequel j’étais né, au bouddhisme, puis à _Un cours sur les miracles_, et enfin au christianisme, d’abord chez les Quakers, puis à l’Église épiscopale, dans laquelle j’ai été baptisé et confirmé, et enfin à l’ordination comme prêtre catholique (non romain) au sein de l’ISM, ou Mouvement sacramentel indépendant.
 
@@ -89,3 +113,28 @@ Enfin, contrairement à mon impression initiale que ce tome n’est pas exacteme
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2022/?lang=fr)
 - [Cet article](https://urantia-association.org/le-livre-de-quoi/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/legacy_and_inspiration">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Héritage et inspiration</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/hazards_decimal_planet">
+          <span class="pr-2">Les aléas d’une planète décimale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

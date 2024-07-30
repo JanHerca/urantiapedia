@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Gard Jameson<br>© 2000 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/2000_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Marzo 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Barr/The_Privilege_of_Having_God_as_Father">
+          <span class="pr-2">El Privilegio De Tener Dios Como Padre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Las Vegas, Estados Unidos
 
@@ -41,3 +65,27 @@ Quiero cerrar con una parte del discurso de Mandela al Parlamento congregado:
 «La verdad del viejo proverbio africano que dice que nosotros somos gente a través de otra gente, es esta noche tremendamente evocador por la demostración que de él ha hecho esta congregación de personas de todas partes del mundo. Este compartir juntos, aquí en la ciudad más sureña del continente africano, entre representantes de tan amplio rango de credos del planeta simboliza el reconocimiento de nuestra mutua interdependencia y común humanidad. Es para mí una experiencia de humildad ser parte de esta conmovedora expresión y reafirmación de la nobleza del espíritu humano».
 
 «Esta centuria se ha desbordado en destrucción, injusticia, luchas y divisiones, sufrimientos y penas y de nuestra propia capacidad de ser masivamente inhumanos el uno con el otro. Existen suficientes causas para ser cínico acerca de la vida humana y acerca de la humanidad. Este encuentro al final de la centuria sirve para oponernos a la desesperanza y al cinismo y hacernos un llamado al reconocimiento y reafirmación de aquello que es grande, generoso y caritativo en el espíritu humano. En la medida que nos aproximamos al siglo XXI, no podemos ser indiferentes, sino mas bien absolutamente conscientes de estar en una bifurcación de nuestra historia. El mundo está experimentando una profunda redefinición de valores y modos de percepción... Los fundamentos comunes son más grandes y duraderos que las diferencias. Es en este espíritu que podemos aproximarnos al alba del nuevo siglo con la esperanza de que será mejor para todas las personas del mundo.»
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/2000_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Marzo 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Barr/The_Privilege_of_Having_God_as_Father">
+          <span class="pr-2">El Privilegio De Tener Dios Como Padre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

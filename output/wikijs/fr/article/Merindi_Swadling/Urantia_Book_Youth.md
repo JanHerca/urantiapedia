@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Merindi Swadling<br>© 2000 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La famille - lieu de naissance des citoyens cosmiques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mars-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mars 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Merindi Swadling, Australia
 
@@ -116,3 +137,25 @@ Plus loin, dans le même fascicule,
 _La civilisation considère que les parents assument toutes les charges et que l'enfant a tous les droits. Le respect de l'enfant pour ses parents ne provient pas de ce qu'il connaît l'obligation impliquée dans la procréation parentale, mais il grandit naturellement comme conséquence des soins, de l'éducation et de l'affection qui lui sont dispensés avec amour pour l'aider à gagner la bataille de la vie. De véritables parents s'engagent avec continuité dans un ministère de service que l'enfant avisé finit par reconnaître et apprécier._ [UB 84:7.26](/en/The_Urantia_Book/84#p7_26)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La famille - lieu de naissance des citoyens cosmiques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mars-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mars 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

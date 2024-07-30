@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 David Kantor<br>© 2024 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_Jernigan/journal_editorial_may_2024">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal Editorial – May 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2024 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Woodward/what_is_morontia">
+          <span class="pr-2">What is Morontia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _David Kantor, USA_
 
@@ -29,7 +53,7 @@ Emma Christensen also said that when the revelators commented on the Middle Ages
 So let’s ask the question again, just why could it have taken so long?
 <br style="clear:both;"/>
 
-_The Urantia Book_ provides a couple of clues.  Right off the bat, the revelators bemoan being restricted to the use of our circumscribed language when attempting to communicate enlarged concepts and advanced truth ([UB 0:0.2](/en/The_Urantia_Book/0#p0_2)).  In another section, a Melchizedek laments the difficulties of perpetuating truth in early times ([UB 93:7.4](/en/The_Urantia_Book/93#p7_4)). (In the 12 century, Gutenberg’s printing revolution was still two centuries in the future). And there are other comments in the book such as, “cannot find suitable words,” “paucity of language,” and “I will endeavor to depict.”  Each of these comments helps us to appreciate the challenges and limitations of primitive language on a primitive planet.
+_The Urantia Book_ provides a couple of clues.  Right off the bat, the revelators bemoan being restricted to the use of our circumscribed language when attempting to communicate enlarged concepts and advanced truth (<a id="a55_216"></a>[UB 0:0.2](/en/The_Urantia_Book/0#p0_2)).  In another section, a Melchizedek laments the difficulties of perpetuating truth in early times (<a id="a55_356"></a>[UB 93:7.4](/en/The_Urantia_Book/93#p7_4)). (In the 12 century, Gutenberg’s printing revolution was still two centuries in the future). And there are other comments in the book such as, “cannot find suitable words,” “paucity of language,” and “I will endeavor to depict.”  Each of these comments helps us to appreciate the challenges and limitations of primitive language on a primitive planet.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left" alt="Tommaso Summa theologica">
 <img src="/image/article/IUA_Journal/Tommaso_-_Summa_theologica_1596_-_4593718-453x706.jpg">
@@ -75,3 +99,27 @@ There were a great number of evolving social, political, linguistic, technologic
 - [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-may-2024/)
 - [This article](https://urantia-association.org/thomas-aquinas-and-some-speculation-on-the-origin-of-the-urantia-book)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_Jernigan/journal_editorial_may_2024">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal Editorial – May 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 2024 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Woodward/what_is_morontia">
+          <span class="pr-2">What is Morontia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

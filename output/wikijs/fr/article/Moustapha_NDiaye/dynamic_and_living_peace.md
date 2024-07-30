@@ -9,11 +9,32 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Moustapha N’diaye<br>© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Moustapha_NDiaye/future_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu’est-ce que le  Futur Réserve aux Groupes d’Étude?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Et la paix de Dieu, qui dépasse tout ce que l’on peut comprendre, gardera vos cœurs et vos esprits en Christ Jésus._ [[Philippiens  4:7](/fr/Bible/Philippians/4#v7)]
 
-> _Effuse sur ton peuple Israël une grande paix perpétuelle car tu es Roi et le Seigneur de toute paix… Béni sois-tu Yahweh, pour la bénédiction de ta paix à Israël._ <a id="a35_169"></a>[[LU 150:8.7](/fr/The_Urantia_Book/150#p8_7)]
+> _Effuse sur ton peuple Israël une grande paix perpétuelle car tu es Roi et le Seigneur de toute paix… Béni sois-tu Yahweh, pour la bénédiction de ta paix à Israël._ <a id="a36_167"></a>[[LU 150:8.7](/fr/The_Urantia_Book/150#p8_7)]
 
 > _La paix soit avec vous. Et sur vous, la paix._
 
@@ -53,11 +74,11 @@ Malheureusement,bien trop souvent les gens ont tendance à traiter les perplexit
 
 Bien que la paix du Seigneur ne soit pas encore devenue l’état naturel de nos vies sociales, tandis que chaque âge planétaire avance sous le ministère des Fils d’effusion planétaires, nous nous éloignons pas à pas des âges primitifs de l’humanité—caractérisés par la peur et l’ignorance, et leurs conséquences—vers ce moment ou nous pourrons tous jouir de la paix spirituelle sur terre.
 
-> _La paix n’est pas l’état naturel des royaumes matériels. C’est d’abord par le ministère des âmes séraphiques de paix que le monde réalise le sens de ‘paix sur terre et bonne volonté parmi les hommes’._ <a id="a75_178"></a>[[LU 39:5.5](/fr/The_Urantia_Book/39#p5_5)]
+> _La paix n’est pas l’état naturel des royaumes matériels. C’est d’abord par le ministère des âmes séraphiques de paix que le monde réalise le sens de ‘paix sur terre et bonne volonté parmi les hommes’._ <a id="a76_205"></a>[[LU 39:5.5](/fr/The_Urantia_Book/39#p5_5)]
 
 Cela implique que les « Âmes de Paix » suivent plusieurs âges de stabilisation tandis que l’évolution de l’humanité s’aligne progressivement avec le Divin Plan.
 
-> _La guerre est l’état naturel et l’héritage de l’homme en évolution ; la paix est l’étalon qui mesure le progrès de la civilisation._ <a id="a79_127"></a>[[LU 70:1.1](/fr/The_Urantia_Book/70#p1_1)]
+> _La guerre est l’état naturel et l’héritage de l’homme en évolution ; la paix est l’étalon qui mesure le progrès de la civilisation._ <a id="a80_136"></a>[[LU 70:1.1](/fr/The_Urantia_Book/70#p1_1)]
 
 Les âges planétaires sont coordonnés dans l’espace, intégrés dans le temps, et unifiés par l’Esprit dans l’éternité. Ils se manifestent par des contributions successives, individuelles et collectives, à la manifestation graduelle de l’éternité dans le temps, à l’éternel maintenant.
 
@@ -71,7 +92,7 @@ Il est impossible de sonder l’état actuel du monde et de considérer des solu
 
 C’est typique : chaque effusion planétaire d’un Fils divin apporte avec elle les blocs de construction qui contribuent à l’établissement individuel et collectif de la paix. Parmi d’autres choses, l’âge des Princes Planétaires devrait rendre possible à l’humanité de maîtriser les forces de la nature,de poser les fondations de la connaissance scientifique, et d’établir une paix qui pourvoit à la sécurité matérielle de chacun indépendamment du lieu où il vit. Mais est-ce que notre planète, qui est une exception, a reçu les bénéfices de cette effusion ?
 
-Les révélateurs nous informent que , au début du 20ème siècle, ces bénéfices que le mental des  hommes primitifs n’avait pu assimiler, sont redécouverts quelques 200 000 ans plus tard <a id="a93_202"></a>[[LU 66:5.18](/fr/The_Urantia_Book/66#p5_18)]. Ces premiers hommes n’avaient tout simplement pas la connaissance requise pour établir la sécurité nécessaire pour que notre planète bénéficie de la paix que l’âge du Prince Planétaire amène généralement sur les mondes planétaires. Ce retard a prolongé le règne de la peur et de l’ignorance qui voit généralement sa fin avec le ministère du Prince Planétaire  Les conséquences désastreuses de la Rébellion de Lucifer et le travail expérimental des Porteurs de Vie ont aggravé les complications et les obstacles qui ont contribué à cet échec.
+Les révélateurs nous informent que , au début du 20ème siècle, ces bénéfices que le mental des  hommes primitifs n’avait pu assimiler, sont redécouverts quelques 200 000 ans plus tard <a id="a94_184"></a>[[LU 66:5.18](/fr/The_Urantia_Book/66#p5_18)]. Ces premiers hommes n’avaient tout simplement pas la connaissance requise pour établir la sécurité nécessaire pour que notre planète bénéficie de la paix que l’âge du Prince Planétaire amène généralement sur les mondes planétaires. Ce retard a prolongé le règne de la peur et de l’ignorance qui voit généralement sa fin avec le ministère du Prince Planétaire  Les conséquences désastreuses de la Rébellion de Lucifer et le travail expérimental des Porteurs de Vie ont aggravé les complications et les obstacles qui ont contribué à cet échec.
 
 ### L’Âge de l’Effusion  Adamique (Adam et Ève)
 
@@ -83,7 +104,7 @@ La mission initiale de l’effusion Adamique était d’améliorer le potentiel 
 
 Les problèmes philosophiques et les erreurs spirituelles soulevées par la Rébellion de Lucifer ont aggravé les problèmes  sociaux liés aux échecs des effusions du Prince Planétaire et des Enfants Matériels.
 
-La déclaration de Lucifer  que la personnalité du Père Universel n’existe pas et est un mythe inventé par les Fils du Paradis <a id="a105_131"></a>[[LU 53:3](/fr/The_Urantia_Book/53#p3)], a laissé des traces très profondes et  reste tangible même aujourd’hui au 21ème siècle. Entre autres choses, cette proclamation a entraîné une diminution de la foi vivante (surtout de l’ adoration et de la prière) et la perpétuation des peurs ancestrales qui nient concrètement le but ultime de la destinée. Comment pouvons-nous adorer un Père qui n’existe pas ? Comment pouvons-nous prier un fils d’un Père fictif ? Tout ce qui reste est une science et une religion largement déconnectées de leurs racines nourricières.
+La déclaration de Lucifer  que la personnalité du Père Universel n’existe pas et est un mythe inventé par les Fils du Paradis <a id="a106_126"></a>[[LU 53:3](/fr/The_Urantia_Book/53#p3)], a laissé des traces très profondes et  reste tangible même aujourd’hui au 21ème siècle. Entre autres choses, cette proclamation a entraîné une diminution de la foi vivante (surtout de l’ adoration et de la prière) et la perpétuation des peurs ancestrales qui nient concrètement le but ultime de la destinée. Comment pouvons-nous adorer un Père qui n’existe pas ? Comment pouvons-nous prier un fils d’un Père fictif ? Tout ce qui reste est une science et une religion largement déconnectées de leurs racines nourricières.
 
 La proclamation de « l’égalité de mental »et de « la fraternité de l’intelligence », sans mentionner la contradiction de Caligastia  désignant Lucifer comme « Dieu de Liberté », ont ajouté à la diminution de l’Esprit et ont opéré une séparation de l’humanité d’avec quoique ce soit d’autre que ce qui a une dimension purement intellectuelle vide de toute perspective d’accomplissement spirituel. Les influences de Lucifer nous ont piégé dans des tautologies stériles qui, malgré les efforts  notables des prophètes et d’autres éducateurs spirituels, ont conduit à l’absence de conscience spirituelle et ont porté un grand coup à notre vision du monde. Toutefois, comme nous le verrons plus en détails, ces problèmes philosophiques et  erreurs  spirituelles n’ont pas effacé le concept de la Paternité de Dieu ou de la Fraternité de l’Homme de la  conscience humaine.
 
@@ -95,7 +116,7 @@ Considérez l’ impact des troisième, quatrième, et cinquième révélations 
 
 1. Machiventa (troisième révélation), guidé par l’un des Ajusteurs les plus expérimentés de Nébadon, a accompli une mission d’urgence pour nous préparer à la septième effusion de Micaël de Nébadon qui s’incarna en tant que Joshua ben Joseph (quatrième révélation d’époque).
 
-> _Joshua ben Joseph, le bébé juif, fut conçu et naquit dans le monde comme tout autre bébé avant et depuis, ***sauf*** que ce bébé particulier était l’ incarnation de Micaël de Nébadon, un  Fils divin du  Paradis et le créateur de tout cet univers local._ <a id="a117_274"></a>[[LU 119:7.5](/fr/The_Urantia_Book/119#p7_5)]
+> _Joshua ben Joseph, le bébé juif, fut conçu et naquit dans le monde comme tout autre bébé avant et depuis, ***sauf*** que ce bébé particulier était l’ incarnation de Micaël de Nébadon, un  Fils divin du  Paradis et le créateur de tout cet univers local._ <a id="a118_257"></a>[[LU 119:7.5](/fr/The_Urantia_Book/119#p7_5)]
 
 2. L’ Ajusteur de Pensées qui guida le mental de Machiventa servit aussi Joshua ben Joseph et il est maintenant personnalisé, étant le Chef des Ajusteurs Personnalisés de Nébadon.
 3. Le titre “Prince Planétaire” conféré à Micaël de Nébadon après sa septième effusion fut délégué à Machiventa qui, avec les vingt-quatre conseillers, sert maintenant Micaël dans le conseil des Princes Planétaires de Satania.
@@ -129,7 +150,7 @@ L’ expression, “ **_Arrêtez et sachez que je suis Dieu »_**  est mise en g
 
 On pourrait tirer un parallèle entre ce Psaume et l’extrait suivant du _Livre_ d’_Urantia_
 
-> _L’un des signes les plus remarquables de la vie religieuse est une paix dynamique et sublime, cette paix qui dépasse toute compréhension humaine, cet équilibre cosmique qui dénote l’absence de tout doute et de toute agitation. Ces niveaux de stabilité spirituelle sont immunisés contre les déceptions. De telles personnes religieuses ressemblent à l’apôtre Paul qui disait :  « Je suis persuadé que ni la mort, ni la vie, ni les anges, ni les principautés, ni les pouvoirs, ni les choses présentes, ni les choses à venir, ni hauteur, ni profondeur, ni rien d’autre ne pourra jamais nous séparer de l’amour de Dieu. »_ <a id="a156_555"></a>[[LU 100:6.6](/fr/The_Urantia_Book/100#p6_6)]
+> _L’un des signes les plus remarquables de la vie religieuse est une paix dynamique et sublime, cette paix qui dépasse toute compréhension humaine, cet équilibre cosmique qui dénote l’absence de tout doute et de toute agitation. Ces niveaux de stabilité spirituelle sont immunisés contre les déceptions. De telles personnes religieuses ressemblent à l’apôtre Paul qui disait :  « Je suis persuadé que ni la mort, ni la vie, ni les anges, ni les principautés, ni les pouvoirs, ni les choses présentes, ni les choses à venir, ni hauteur, ni profondeur, ni rien d’autre ne pourra jamais nous séparer de l’amour de Dieu. »_ <a id="a152_621"></a>[[LU 100:6.6](/fr/The_Urantia_Book/100#p6_6)]
 
 Nous pouvons mesurer le caractère puissant de cette paix même en présence des déceptions les plus grandes que nous puissions imaginer. Notre recherche de cette paix n’est possible qu’en reconnaissant Dieu en nous-mêmes.
 
@@ -156,11 +177,11 @@ On pourrait dire que la mentalité asiatique s’appuie sur la notion d’une sy
 
 Les  traditions religieuses de l’Extrême Orient abordent typiquement une nécessité profonde de se (re-)connecter avec le ressenti le plus authentique de notre être intérieur afin que notre quête pour trouver la paix puisse nous aider à trouver le “nirvana.” Les grands enseignants  qui ont maîtrisé cette tradition exhortent leurs disciples à méditer pour ainsi réaliser les potentialités contenues dans leur être profond .  Mais cette orientation vers soi en fait des orphelins en matière de compréhension d’un Père personnalisé qui est à la fois bien au-dedans de notre être et aussi dans toute la création.  C’est le sentiment de cette divine présence qui nous conduit tous dans notre quête sublime.
 
-La principale raison de cette focalisation vers l’intérieur à l’exception de tout le reste, dérive de la philosophie hindoue et du rejet par les brahmanes de l’évangile de Salem que Machiventa Melchizédek essaya d’introduire <a id="a184_192"></a>[[LU 94:1.5](/fr/The_Urantia_Book/94#p1_5)]. _Le Livre d’Urantia_ enseigne que ce rejet était motivé par une obsession indo-aryenne de préservation des privilèges de la caste Brahmane et de leur sentiment d’identité raciale <a id="a184_407"></a>[[LU 94:2.1](/fr/The_Urantia_Book/94#p2_1)].
+La principale raison de cette focalisation vers l’intérieur à l’exception de tout le reste, dérive de la philosophie hindoue et du rejet par les brahmanes de l’évangile de Salem que Machiventa Melchizédek essaya d’introduire <a id="a179_225"></a>[[LU 94:1.5](/fr/The_Urantia_Book/94#p1_5)]. _Le Livre d’Urantia_ enseigne que ce rejet était motivé par une obsession indo-aryenne de préservation des privilèges de la caste Brahmane et de leur sentiment d’identité raciale <a id="a179_449"></a>[[LU 94:2.1](/fr/The_Urantia_Book/94#p2_1)].
 
 Cette “omission de tout le reste” les déshérita effectivement d’une compréhension de la déité personnelle. La puissante philosophie qu’elle produisit eut un effet similaire sur les philosophies Orientales subséquentes. Par conséquent, tant l’hinduisme que le bouddhisme ont une carence de compréhension claire et simple de la personnalité du Père Universel telle que présentée par les missionnaires de Salem et confirmée par le ministère des sept effusions de Micaël de Nébadon.
 
-> _…Le concept du Bouddha Absolu est tantôt quasi-personnel, tantôt entièrement impersonnel —tantôt même une force créative infinie. De tels concepts, bien qu’utiles à la philosophie, ne sont pas vitaux pour le développement religieux._ **_Même un Yahweh anthropomorphe a une valeur religieuse plus grande que l’ Absolu infiniment lointain du bouddhisme ou du brahmanisme_**. <a id="a188_342"></a>[[LU 94:11.12](/fr/The_Urantia_Book/94#p11_12), Emphasis added.]
+> _…Le concept du Bouddha Absolu est tantôt quasi-personnel, tantôt entièrement impersonnel —tantôt même une force créative infinie. De tels concepts, bien qu’utiles à la philosophie, ne sont pas vitaux pour le développement religieux._ **_Même un Yahweh anthropomorphe a une valeur religieuse plus grande que l’ Absolu infiniment lointain du bouddhisme ou du brahmanisme_**. <a id="a183_376"></a>[[LU 94:11.12](/fr/The_Urantia_Book/94#p11_12), Emphasis added.]
 
 ### Nirvana et  Paix Spirituelle
 Bien que la reconnaissance d’une déité personnelle leur manque, et malgré les vicissitudes de l’histoire, ces philosophies originaires d’Asie ont quand même accédé à une compréhension profonde du Soi. Cependant, n’ayant pas reconnu que ce Soi surgit d’une déité personnalisée, le Père, ils n’ont pas réalisé une pleine compréhension de la réalité du Soi.
@@ -169,7 +190,7 @@ Bien que leur compréhension incomplète éclaire des concepts et  notions très
 
 Le problème apparaît du fait de la stricte logique de ces philosophies, une logique qui omet toute considération d’un Père personnalisé. Laissées de ce fait orphelines , ces philosophies ne peuvent plonger dans la pleine nature de l’être et, bien qu’elles puissent conduire à un état comparable de paix, elles ont une tendance à pousser l’individu vers une isolation prolongée.
 
-> _De courtes périodes où l’on se retire de la scène active de la vie peuvent ne pas présenter de dangers sérieux, mais l’isolement prolongé de la personnalité est fort indésirable._ <a id="a198_150"></a>[[LU 100:5.8](/fr/The_Urantia_Book/100#p5_8)]
+> _De courtes périodes où l’on se retire de la scène active de la vie peuvent ne pas présenter de dangers sérieux, mais l’isolement prolongé de la personnalité est fort indésirable._ <a id="a192_183"></a>[[LU 100:5.8](/fr/The_Urantia_Book/100#p5_8)]
 
 Cette isolation, considérée nécessaire pour maîtriser le soi compulsif, peut finir par dissocier le disciple, ce qui ensuite rend difficile de réconcilier l’état actuel confus de la société avec  la paix sublime que le disciple peut atteindre par l’ isolation personnelle. Il n’y a simplement pas de pont qui  relie le fossé toujours grandissant entre les deux. Les disciples de ces philosophies choisissent souvent de passer leur vie en ermite, révérés peut-être par l’ensemble de la société mais pas nécessairement au service de l’humanité. Ils pourraient prendre le risque de répondre malencontreusement au cri de l’affirmation de soi, avec son appel à une préséance du mental qui les sépare de la reconnaissance de, et de la participation consciemment partagée avec, l’Esprit du Père.
 
@@ -189,10 +210,10 @@ Les initiatives suivantes prises par Jésus auraient sans doute aidé à étendr
 
 - La période de deux ans avec le jeune homme d’Inde, Ganid, et la possibilité fournie d’une porte ouverte salutaire à l’évangile du Père pour les philosophies de l’Extrême Orient dépourvues de l’héritage du  concept du Père.
 - Les enseignements d’Urmia qui étendirent la compréhension religieuse auraient pu aider à la diffusion des traditions de la version orientale du Christianisme, qui étaient moins belliqueuses que la version occidentale.
-- L’influence du groupe d’Abner à Philadelphie qui eut pour résultat « la version orientale du message de Jésus <a id="a218_112"></a>[[LU 195:1.11](/fr/The_Urantia_Book/195#p1_11)].
+- L’influence du groupe d’Abner à Philadelphie qui eut pour résultat « la version orientale du message de Jésus <a id="a212_112"></a>[[LU 195:1.11](/fr/The_Urantia_Book/195#p1_11)].
 - La cinquième révélation d’époque et le ministère actuel.
 
-Suite aux ministères respectifs de Machiventa et Micaël de Nébadon et à leurs contributions à la  philosophie des peuples de la Terre Sainte, Dieu le Suprême se saisit de ces efforts et appelle tous les fils de Dieu à continuer ce ministère parce que « Rien de ce qui a valeur de survie n’est jamais perdu dans tout le vaste univers _»_ <a id="a221_322"></a>[[LU 109:3.2](/fr/The_Urantia_Book/109#p3_2)].
+Suite aux ministères respectifs de Machiventa et Micaël de Nébadon et à leurs contributions à la  philosophie des peuples de la Terre Sainte, Dieu le Suprême se saisit de ces efforts et appelle tous les fils de Dieu à continuer ce ministère parce que « Rien de ce qui a valeur de survie n’est jamais perdu dans tout le vaste univers _»_ <a id="a215_337"></a>[[LU 109:3.2](/fr/The_Urantia_Book/109#p3_2)].
 
 De manière intéressante, les révélateurs nous informent qu’ils regrettent beaucoup que les enseignements d’ Abner, qui étaient sous bien des aspects plus fidèles au message de Jésus, n’aient pas prospéré dans les traditions postérieures du christianisme occidental.
 
@@ -217,7 +238,7 @@ Il serait utile dans l’étude de l’individualité de se souvenir:
 1. _Que les systèmes physiques sont subordonnés._
 2. _Que les systèmes intellectuels sont coordonnés._
 3. _Que la personnalité est superordonnée._
-4. _Que la force spirituelle intérieure est potentiellement directrice._ <a id="a246_67"></a>[[LU 112:2.1](/fr/The_Urantia_Book/112#p2_1)]
+4. _Que la force spirituelle intérieure est potentiellement directrice._ <a id="a240_73"></a>[[LU 112:2.1](/fr/The_Urantia_Book/112#p2_1)]
 
 Souvenez-vous aussi que nous avons le don béni d’une conscience transcendant la simple animalité. Nous sommes dotés d’une conscience réflective[\[3\]](https://urantia-association.org/paix-dynamique-et-vivante/?lang=fr#_ftn3) du divin : la conscience de Dieu au premier niveau; la recherche de Dieu au second; et, au troisième niveau, la volonté de ressembler à Dieu.
 
@@ -242,6 +263,28 @@ Pax vobiscum.
 - [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2019/?lang=fr)
 - [Cet article](https://urantia-association.org/paix-dynamique-et-vivante/?lang=fr)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Moustapha_NDiaye/future_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu’est-ce que le  Futur Réserve aux Groupes d’Étude?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

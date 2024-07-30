@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Mark Philip Bloomfield<br>© 1999 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Moseley/The_Mind_Arena_of_Choice_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mind Arena of Choice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/UB_in_the_Muslim_World">
+          <span class="pr-2">The Urantia Book in the Muslim World</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Mark Philip Bloomfield, United Kingdom
 
@@ -21,3 +45,27 @@ In conjunction with caring for our immediate families, what greater investment c
 How can we ever be depressed or downhearted when confronted with such magnificent opportunities for thrilling service? How can transient darkness ever demoralize or dissuade us when ways forward such as these open up before us?
 
 So come on, chaps, let's unite and serve, for our time on this Earth is short and the need of the hour is great. Let's all, sisters and brothers together, despite what we each may have contributed previously, pull again with one accord, for these are the days we are given — days to cherish for all future time.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Moseley/The_Mind_Arena_of_Choice_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mind Arena of Choice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/UB_in_the_Muslim_World">
+          <span class="pr-2">The Urantia Book in the Muslim World</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

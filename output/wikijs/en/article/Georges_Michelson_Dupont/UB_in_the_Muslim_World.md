@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 George Michelson-Dupont<br>© 1999 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mark_Bloomfield/China_Reasons_to_be_Cheerful">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">China—Reasons to be Cheerful</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Neal_Waldrop/Seeing_Scientists_As_Partners">
+          <span class="pr-2">Seeing Scientists As Partners</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 EXCERPTS FROM A REPORT BY
 
@@ -45,7 +69,7 @@ Back in the 1950s the Revelators advised the early leaders to form thousands of 
 - The presence of a leader indwelt by the Spirit-wise, patient, persevering, educated, respected, respectful, loving, showing the fruits of the spirit in his/her daily life and moved by the desire for unselfish service.
 - The practice of a wise method based on Jesus' methods of introducing new truth to the individual: Respect for the individual believers, a positive and loving approach, methodical expansion of understanding, presenting new truths step by step, showing the new light with “wisdom and discretion.”
 
-Said Jesus to his apostles: _My beloved, you must always make a difference in teaching so as to suit your presentation of truth to the minds and hearts before you_ [UB 151:3.1](/en/The_Urantia_Book/151#p3_1).
+Said Jesus to his apostles: _My beloved, you must always make a difference in teaching so as to suit your presentation of truth to the minds and hearts before you_ <a id="a71_164"></a>[UB 151:3.1](/en/The_Urantia_Book/151#p3_1).
 
 ## The trip to Senegal
 
@@ -66,3 +90,27 @@ Georges Michelson-Dupont, his wife, and Richard Keeler, having heard reports of 
 “You cannot force a horse to drink but you can make him thirsty, say the wise. By our spiritual flavor we can attract our fellow men for new truths.
 
 “We are planting seeds but we should not expect to harvest, for that is God's privilege and delight, and if we love him we want him to be delighted.”
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mark_Bloomfield/China_Reasons_to_be_Cheerful">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">China—Reasons to be Cheerful</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Neal_Waldrop/Seeing_Scientists_As_Partners">
+          <span class="pr-2">Seeing Scientists As Partners</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

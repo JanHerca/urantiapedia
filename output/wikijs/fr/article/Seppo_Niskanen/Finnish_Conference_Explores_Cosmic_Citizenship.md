@@ -46,11 +46,11 @@ La tension entre l’infinité de l’existence et l’existence subinfinie est 
 
 C’est difficile à croire, mais nous sommes parfaits même maintenant ; c'est-à-dire potentiellement parfait ; nous sommes, après tout, créés à l’image de Dieu.
 
-> « Faisons l’homme à notre propre image. » ([LU 6:5.7](/fr/The_Urantia_Book/6#p5_7))
+> « Faisons l’homme à notre propre image. » (<a id="a48_45"></a>[LU 6:5.7](/fr/The_Urantia_Book/6#p5_7))
 
 Nous devons juste nous rappeler que notre perfection est potentielle ; en réalité, nous sommes imparfaits. Nous sommes conçus pour expérimenter et grandir parfaitement ; traduire les potentiels en réalités ; et de le faire grâce à nos efforts de libre arbitre.
 
-> « _l’homme mortel gagne même son statut de candidat à l’ascension par sa propre foi et son propre espoir. Toutes les choses divines que le mental humain saisit et que l’âme humaine acquiert sont des aboutissements d’expérience. Ce sont des *réalités* d’expérience personnelle, donc des possessions uniques, contrairement à la bonté et à la droiture inhérentes aux personnalités infaillibles de Havona._ » ([LU 3:5.16](/fr/The_Urantia_Book/3#p5_16))
+> « _l’homme mortel gagne même son statut de candidat à l’ascension par sa propre foi et son propre espoir. Toutes les choses divines que le mental humain saisit et que l’âme humaine acquiert sont des aboutissements d’expérience. Ce sont des *réalités* d’expérience personnelle, donc des possessions uniques, contrairement à la bonté et à la droiture inhérentes aux personnalités infaillibles de Havona._ » (<a id="a52_408"></a>[LU 3:5.16](/fr/The_Urantia_Book/3#p5_16))
 
 Nulle part dans le vaste univers des univers il n’y a, ni n’y aura-t-il jamais, un autre ordre d’êtres avec notre genre d’expériences acquises ; et nous saurons de quoi nous parlons, car nous aurons tout parcouru.
 

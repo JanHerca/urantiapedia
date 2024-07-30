@@ -9,12 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Michael MacIsaac<br>© 1999 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Van_Woert/IUA_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IUA Outreach</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Michael MacIsaac, Stockholm, Sweden
 
 This is a report on the recent progress of the work I've been doing to assist the younger generation of readers around the globe. I hope to not be focusing too much attention on myself, but rather the work.
 
-> _You can do important work if you do not become selfimportant; you can do several things as easily as one if you leave yourself out._ [UB 48:6.37](/en/The_Urantia_Book/48#p6_37)
+> _You can do important work if you do not become selfimportant; you can do several things as easily as one if you leave yourself out._ <a id="a37_136"></a>[UB 48:6.37](/en/The_Urantia_Book/48#p6_37)
 
 ## Background
 
@@ -69,3 +90,24 @@ There are currently two email discussion lists for young readers, one in English
 It is great that young people are connecting with each other, but we also have a lot to learn from associating with the older readers. I hope when you see young readers at conferences you won't be afraid to approach them.
 
 I want to send many thanks to all of you who have helped me and all the other young readers with our aims and efforts.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Van_Woert/IUA_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IUA Outreach</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Moussa Ndiaye<br>© 2000 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Sharing_God_the_Sublime_Consciousness_of_Knowing_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Partager Dieu, la sublime conscience de connaitre Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-septembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septembre 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carolina_Arana/Gods_Relation_to_the_Individual">
+          <span class="pr-2">Relation De Dieu Avec L'individu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Moussa_Ndiaye.jpg">
@@ -69,3 +93,27 @@ Nous en sommes éternellement reconnaissants à Dieu, éternellement adorateurs 
 Chers frères et sœurs, merci pour l'attention et l'écoute que vous venez généreusement de m'accorder. Que Dieu vous bénisse!
 
 Je regrette de n'avoir peut-être pas satisfait vos attentes et désolé de n'avoir pas fait preuve de toute la compétence que vous attendiez de moi!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Sharing_God_the_Sublime_Consciousness_of_Knowing_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Partager Dieu, la sublime conscience de connaitre Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-septembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septembre 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carolina_Arana/Gods_Relation_to_the_Individual">
+          <span class="pr-2">Relation De Dieu Avec L'individu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

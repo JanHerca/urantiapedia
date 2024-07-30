@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Christopher Ross<br>© 2021 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2021_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Mai 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/making_worship_and_service">
+          <span class="pr-2">Faire du culte et du service le centre de notre vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Adversity and the Authentic Self
@@ -20,7 +44,7 @@ dateCreated: 2023-9-16T10:55:6Z
 (Adapté et mis à jour d’une présentation donnée lors d’un mini-colloque annuel de l’association Virginia-Carolina, 2018, intitulé The Mission of Adversity and the Spiritual Value of Disappointment).
 <br style="clear:both;"/>
 
-> _Ce samedi soir, le Maitre parla pendant plus d’une heure, aux groupes assemblés, ***« du rôle de l’adversité et de la valeur spirituelle des déceptions ».*** Ce fut une occasion mémorable, et les auditeurs n’oublièrent jamais cette leçon._ <a id="a45_249"></a>[[LU 51:0.1](/fr/The_Urantia_Book/51#p0_1), gras ajouté]
+> _Ce samedi soir, le Maitre parla pendant plus d’une heure, aux groupes assemblés, ***« du rôle de l’adversité et de la valeur spirituelle des déceptions ».*** Ce fut une occasion mémorable, et les auditeurs n’oublièrent jamais cette leçon._ <a id="a46_243"></a>[[LU 51:0.1](/fr/The_Urantia_Book/51#p0_1), gras ajouté]
 
 En 1985, lorsque j’ai emménagé avec mon premier partenaire masculin, nous ne nous connaissions que depuis deux semaines. Et pendant ces deux semaines, nous n’avions probablement pas été ensemble plus de deux ou trois fois. Mais Owen m’a donné une clé de son appartement presque immédiatement ; ainsi, lorsque mon mariage s’est effondré assez brusquement et que ma désormais ex-femme m’a demandé de partir, je savais exactement où aller.
 
@@ -40,13 +64,13 @@ Et qui dirige le programme ici ?
 
 Une pierre d’achoppement pour moi, à chaque fois que je le lis, est le rôle que joue l’Ajusteur de Pensée dans nos vies. Dans le fascicule 108, nous lisons :
 
-> _Les Moniteurs de Mystère n’aident pas à penser ; ils ajustent la pensée. Ils travaillent avec le mental matériel en vue de construire . . . un nouveau mental pour votre carrière future sur de nouveaux mondes . . . Leur mission concerne principalement la vie future, et non la présente. On les appelle aides célestes, et non aides terrestres._ <a id="a65_317"></a>[[LU 108:5.5](/fr/The_Urantia_Book/108#p5_5)]
+> _Les Moniteurs de Mystère n’aident pas à penser ; ils ajustent la pensée. Ils travaillent avec le mental matériel en vue de construire . . . un nouveau mental pour votre carrière future sur de nouveaux mondes . . . Leur mission concerne principalement la vie future, et non la présente. On les appelle aides célestes, et non aides terrestres._ <a id="a66_346"></a>[[LU 108:5.5](/fr/The_Urantia_Book/108#p5_5)]
 
 Voici l’essentiel :
 
-> _Ils ne cherchent pas à faciliter la carrière mortelle ; ils s’occupent plutôt de rendre votre vie raisonnablement difficile et accidentée, afin de stimuler et de multiplier vos décisions. La présence d’un grand Ajusteur de Pensée ne vous donne pas une vie facile et ne vous décharge pas d’avoir à penser énergiquement, mais ce don divin devrait vous conférer une sublime paix mentale et une magnifique tranquillité d’esprit._ <a id="a69_399"></a>[[LU 108:5.5](/fr/The_Urantia_Book/108#p5_5)]
+> _Ils ne cherchent pas à faciliter la carrière mortelle ; ils s’occupent plutôt de rendre votre vie raisonnablement difficile et accidentée, afin de stimuler et de multiplier vos décisions. La présence d’un grand Ajusteur de Pensée ne vous donne pas une vie facile et ne vous décharge pas d’avoir à penser énergiquement, mais ce don divin devrait vous conférer une sublime paix mentale et une magnifique tranquillité d’esprit._ <a id="a70_429"></a>[[LU 108:5.5](/fr/The_Urantia_Book/108#p5_5)]
 > 
-> _Son affaire est de vous préparer à l’aventure éternelle, d’assurer votre survie. Le Moniteur de Mystère n’a pas pour mission d’adoucir vos sentiments d’irritation ou de panser votre orgueil blessé. C’est la préparation de votre âme à la longue carrière ascendante qui retient l’attention et occupe le temps de l’Ajusteur._ (<a id="a71_351"></a>[LU 108:5.6](/fr/The_Urantia_Book/108#p5_6))
+> _Son affaire est de vous préparer à l’aventure éternelle, d’assurer votre survie. Le Moniteur de Mystère n’a pas pour mission d’adoucir vos sentiments d’irritation ou de panser votre orgueil blessé. C’est la préparation de votre âme à la longue carrière ascendante qui retient l’attention et occupe le temps de l’Ajusteur._ (<a id="a72_327"></a>[LU 108:5.6](/fr/The_Urantia_Book/108#p5_6))
 
 Je ne peux donc m’empêcher de me demander, en regardant mes soixante-dix ans, quelles situations de ma vie ont été provoquées par mon Ajusteur ? Quelles circonstances ont été placées sur mon chemin pour me créer une existence « raisonnablement difficile et rude »?
 
@@ -103,3 +127,28 @@ Il n’a donc pas réussi à faire le travail, à s’engager dans l’intermina
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2021/?lang=fr)
 - [Cet article](https://urantia-association.org/pas-de-rendez-vous-pas-de-deception/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2021_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Mai 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/making_worship_and_service">
+          <span class="pr-2">Faire du culte et du service le centre de notre vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

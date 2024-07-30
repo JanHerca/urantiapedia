@@ -40,7 +40,7 @@ dateCreated: 2023-9-16T10:55:6Z
 Emmanuel Lou
 Tahiti
 
-> _And Chinese tradition preserves the hazy record of the evolutionary past._ [UB 79:8.15](/en/The_Urantia_Book/79#p8_15)
+> _And Chinese tradition preserves the hazy record of the evolutionary past._ <a id="a42_78"></a>[UB 79:8.15](/en/The_Urantia_Book/79#p8_15)
 
 One of the gods of Chinese tradition is the God of Longevity. The Chinese people have an ardent desire for longevity whose divinity, Shou Lao, or, Shou Hsing, resides in the star Canopus in the constellation Argo.
 
@@ -54,13 +54,13 @@ The Emperor Ch'in Shih Huang Ti (246 B.C.), after he had unified China, was indu
 
 I have several statues of the God of Longevity in my home since a long time. One day I suddenly rushed to my _URANTIA Book_ to find this sentence:
 
-> _Upon the outbreak of the rebellion it [the tree of life] was regrown from the central core by Van and his associates in their temporary camp. This Edentia shrub was subsequently taken to their highland retreat, where it served both Van and Amadon for more than one hundred and fifty thousand years._ [UB 73:6.5](/en/The_Urantia_Book/73#p6_5)
+> _Upon the outbreak of the rebellion it [the tree of life] was regrown from the central core by Van and his associates in their temporary camp. This Edentia shrub was subsequently taken to their highland retreat, where it served both Van and Amadon for more than one hundred and fifty thousand years._ <a id="a56_303"></a>[UB 73:6.5](/en/The_Urantia_Book/73#p6_5)
 
 What I had realised so suddenly was that the stick held by the God of Longevity is the shrub of the tree of life to be regrown and the peach of immortality is the fruit of the tree of life. The Chinese legend says he is a stellar divinity from Canopus and descends to earth in human form. Did Canopus mean Jerusem?
 
 Who could better personify longevity than Van who stayed on our planet for more than 450,000 years? I am inclined to conclude that the God of Longevity is a representation of Van. If you pass in front of a Chinese gift shop, please ask the shopkeeper to show you the God of Longevity and remember the fabulous story of “Van the Steadfast”.
 
-It was the Taoists in the third century в.C. who had honoured the God of Longevity. Readers of _The URANTIA Book_ know how the Taoist and especially Lao-tse had built his teachings directly upon the concepts of the Salem traditions. ([UB 94:6.3](/en/The_Urantia_Book/94#p6_3))
+It was the Taoists in the third century в.C. who had honoured the God of Longevity. Readers of _The URANTIA Book_ know how the Taoist and especially Lao-tse had built his teachings directly upon the concepts of the Salem traditions. (<a id="a62_234"></a>[UB 94:6.3](/en/The_Urantia_Book/94#p6_3))
 
 One day, flying in the plane to Europe, I was reading an advertisement on Wang computers, when suddenly I understood that I had to pronounce ‘Van’ like ‘Wang’. The explanation came slowly after my mind was illuminated. ‘Wang’ means in Chinese ‘King’. Wang is understood as a function, a mediator between Heaven and Earth, between God and mankind. We have confirmation in the ideogram:
 
@@ -72,13 +72,13 @@ The top horizontal line is the symbol for Heaven, the second represents Mankind,
 
 From the planetary rebellion to the arrival of Adam and Eve, the affairs of Urantia were for a long time administered by a council of planetary receivers.
 
-> _And thus was Urantia governed and administered until the arrival of Adam._ [UB 67:6.5](/en/The_Urantia_Book/67#p6_5)
+> _And thus was Urantia governed and administered until the arrival of Adam._ <a id="a74_78"></a>[UB 67:6.5](/en/The_Urantia_Book/67#p6_5)
 
-> _The twelve Melchizedek receivers of Urantia did heroic work. They preserved the remnants of civilization, and their planetary policies were faithfully executed by Van._ [UB 67:6.6](/en/The_Urantia_Book/67#p6_6)
+> _The twelve Melchizedek receivers of Urantia did heroic work. They preserved the remnants of civilization, and their planetary policies were faithfully executed by Van._ <a id="a76_172"></a>[UB 67:6.6](/en/The_Urantia_Book/67#p6_6)
 
 Van's function on Earth for several thousand years was the prototype of a king functioning as ideally understood in Chinese tradition: the King is “Van” (or Wang)! There is no better designation for “King” than the name of the man who faithfully executed the planetary policies of Heaven.
 
-> _...Van who thereby relinquished the titular authority which for over one hundred and fifty thousand years he had held by virtue of the action of the Melchizedek receivers._ [UB 74:2.6](/en/The_Urantia_Book/74#p2_6)
+> _...Van who thereby relinquished the titular authority which for over one hundred and fifty thousand years he had held by virtue of the action of the Melchizedek receivers._ <a id="a80_176"></a>[UB 74:2.6](/en/The_Urantia_Book/74#p2_6)
 
 So how to pronounce 'Van'? I would like to suggest the pronunciation which may have a linguistic and historic basis. Now I say Van like Wang.
 

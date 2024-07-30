@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 David Elders<br>© 2018 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Elders/personal_exp_revealed_truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Expérience Personnelle de la Vérité Révélée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rick_Lyon/family_crises">
+          <span class="pr-2">Crises Familiales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -105,7 +129,7 @@ Gardons à l’esprit la méthode que Jésus utilisait quand il partageait une n
 
 La vie de Jésus a changé le monde.  Ses enseignements ont conduit à la création éventuelle de l’église chrétienne qui a continué à répandre ses enseignements dans le monde entier. Il fut capable de changer la perception de Dieu selon Moïse, qui décrivait un Dieu colérique et vindicatif, en un Dieu d’Amour, un Père aimant, qui adore ses enfants terrestres. Jésus nous a enseignés au sujet du Royaume des Cieux et de la Fraternité des Hommes, que les hommes et les femmes sont ‘sauvés’ par leur foi uniquement.
 
-> _Quand tout est dit et fait, l’idée de Père reste le concept le plus élevé de Dieu._ <a id="a123_84"></a>[[LU 196:3.35](/fr/The_Urantia_Book/196#p3_35)]
+> _Quand tout est dit et fait, l’idée de Père reste le concept le plus élevé de Dieu._ <a id="a131_87"></a>[[LU 196:3.35](/fr/The_Urantia_Book/196#p3_35)]
 
 Ces simples messages d’amour, de foi et de famille ont servi à changer les perceptions des gens  sur Dieu et leur relation avec lui. Dieu a acquis plus de charme, devenant plus compréhensif et sympathisant avec nos luttes terrestres.
 
@@ -131,3 +155,28 @@ https://www.youtube.com/watch?v=HaNoYxwje6o&list=PLQYC6XW8Ev1cve2ziCGl7HVidW_cqs
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2018/?lang=fr)
 - [Cet article](https://urantia-association.org/le-compte-goutte-la-cuillere-et-la-pelle/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Elders/personal_exp_revealed_truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Expérience Personnelle de la Vérité Révélée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rick_Lyon/family_crises">
+          <span class="pr-2">Crises Familiales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Gaétan Charland<br>© 2000 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carol_Cannon/Quantum_Physics_Joy_and_the_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La física cuántica, el regocijo y la voluntad del Padre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cathy_Jones/Paper_111_The_Adjuster_and_the_Soul">
+          <span class="pr-2">Capítulo 111 — El Ajustador y El Alma</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Gaetan_Charland.jpg">
@@ -22,11 +46,11 @@ Sí, todos tenemos lo que se necesita para vivir de acuerdo a la voluntad de Dio
 
 ## 1. Los dos mandamientos
 
-> _Dios, habiendo mandado al hombre que sea perfecto, así como él es perfecto, ha descendido en forma de Ajustador para tornarse el socio experiencial del hombre en el logro del destino excelso que ha sido asi ordenado. El fragmento de Dios que reside en la mente del hombre es el seguro absoluto y no condicionado de que el hombre puede encontrar al Padre universal en asociación con este Ajustador divino, que vino de Dios para encontrar al hombre y afiliarlo aun en los días de la carne._ [[LU 107:0.3](/es/The_Urantia_Book/107#p0_3)]
+> _Dios, habiendo mandado al hombre que sea perfecto, así como él es perfecto, ha descendido en forma de Ajustador para tornarse el socio experiencial del hombre en el logro del destino excelso que ha sido asi ordenado. El fragmento de Dios que reside en la mente del hombre es el seguro absoluto y no condicionado de que el hombre puede encontrar al Padre universal en asociación con este Ajustador divino, que vino de Dios para encontrar al hombre y afiliarlo aun en los días de la carne._ <a id="a48_492"></a>[[LU 107:0.3](/es/The_Urantia_Book/107#p0_3)]
 
 Este mandamiento es el primero en una serie de dos que nos hablan de la voluntad de Dios. El segundo mandamiento nos fue dado por Jesús:
 
-> _«Y debes cambiar aún más. Deberías convertirte en el apóstol del nuevo mandamiento que os he dado esta noche. Dedica tu vida a enseñar a tus hermanos a amarse los unos a los otros como yo os he amado.»_ [[LU 181:2.4](/es/The_Urantia_Book/181#p2_4)]
+> _«Y debes cambiar aún más. Deberías convertirte en el apóstol del nuevo mandamiento que os he dado esta noche. Dedica tu vida a enseñar a tus hermanos a amarse los unos a los otros como yo os he amado.»_ <a id="a52_206"></a>[[LU 181:2.4](/es/The_Urantia_Book/181#p2_4)]
 
 A veces nosotros los humanos buscamos una variedad de respuestas y maneras diferentes de realizar la voluntad de Dios, sin embargo tenemos la tendencia a olvidar la mas básica de las acciones, que es realizar lo que mas deseamos, ser como nuestro Padre, en servicio de amor a otros.
 
@@ -34,7 +58,7 @@ A veces nosotros los humanos buscamos una variedad de respuestas y maneras difer
 
 A través de todos los capítulos concernientes a los Ajustadores, se nos recuerda constantemente que los Monitores Misteriosos son la voluntad de Dios y que ellos trabajan constantemente para hacernos receptivos a esa voluntad.
 
-> _Todo mortal que, consciente o inconscientemente, siga la guía de su Ajustador residente vive de acuerdo con la voluntad de Dios. La conciencia de la presencia del Ajustador es conciencia de la presencia de Dios._ [[LU 107:0.4](/es/The_Urantia_Book/107#p0_4)]
+> _Todo mortal que, consciente o inconscientemente, siga la guía de su Ajustador residente vive de acuerdo con la voluntad de Dios. La conciencia de la presencia del Ajustador es conciencia de la presencia de Dios._ <a id="a60_216"></a>[[LU 107:0.4](/es/The_Urantia_Book/107#p0_4)]
 
 Esas simples verdades y mandamientos debieran ser suficientes para guiarnos al portal de vida eterna. Pero nosotros los humanos a veces requerimos muchos mas hechos, verdades e iluminación para comenzar a progresar en el camino ascendiente hacia la perfección y la divinidad.
 
@@ -42,7 +66,7 @@ Esas simples verdades y mandamientos debieran ser suficientes para guiarnos al p
 
 Lo primero que leemos en este capitulo es:
 
-> _Considero el amor y la devoción de un Ajustador del Pensamiento como el afecto más verdaderamente divino en toda la creación. El amor de los Hijos en su ministerio para las razas es extraordinario, pero la devoción de un Ajustador al individuo es conmovedoramente sublime, divinamente semejante al Padre. El Padre del Paraíso aparentemente se ha reservado esta forma de contacto personal con sus criaturas individuales como prerrogativa exclusiva del Creador. No hay nada en todo el universo de universos exactamente comparable al maravilloso ministerio de estas entidades impersonales que tan fascinadoramente residen en los hijos de los planetas evolucionarios._ [[LU 110:0.2](/es/The_Urantia_Book/110#p0_2)]
+> _Considero el amor y la devoción de un Ajustador del Pensamiento como el afecto más verdaderamente divino en toda la creación. El amor de los Hijos en su ministerio para las razas es extraordinario, pero la devoción de un Ajustador al individuo es conmovedoramente sublime, divinamente semejante al Padre. El Padre del Paraíso aparentemente se ha reservado esta forma de contacto personal con sus criaturas individuales como prerrogativa exclusiva del Creador. No hay nada en todo el universo de universos exactamente comparable al maravilloso ministerio de estas entidades impersonales que tan fascinadoramente residen en los hijos de los planetas evolucionarios._ <a id="a68_668"></a>[[LU 110:0.2](/es/The_Urantia_Book/110#p0_2)]
 
 La relación de los Ajustadores con los hijos del tiempo es el amor, el amor divino manifestado en todos los días de nuestras vidas, aunque estemos o no conscientes de ello. Los Ajustadores que se ofrecieron a venir y habitar nuestras mentes vinieron con un plan, un plan para una carrera eterna que podemos elegir a seguir o rechazar enteramente. Ellos han invertido probablemente más tiempo y energía formulando un gran diseño para nuestra vida que lo que nosotros nos daremos cuenta jamás aquí en la Tierra. ¿Qué estamos haciendo acerca de ello? ¿Cuánto tiempo y energía estamos preparados a invertir en nuestro plan mortal para unirnos a los esfuerzos de nuestro Guía divino?
 
@@ -50,14 +74,14 @@ La relación de los Ajustadores con los hijos del tiempo es el amor, el amor div
 
 ## 4. Nuestras actitudes y acciones
 
-> _Pero, cuán cruel manchary de alguna otra manera corromper deliberadamente el cuerpo físico, que debe servir como tabernáculo terrestre de este don maravilloso de Dios. Todo veneno físico atrasa considerablemente los esfuerzos del Ajustador por exaltar la mente material, mientras que los venenos mentales del temor, la ira, la envidia, los celos, las sospechas y la intolerancia del mismo modo interfieren terriblemente con el progreso espiritual del alma evolutiva._ [[LU 110:1.5](/es/The_Urantia_Book/110#p1_5)]
+> _Pero, cuán cruel manchary de alguna otra manera corromper deliberadamente el cuerpo físico, que debe servir como tabernáculo terrestre de este don maravilloso de Dios. Todo veneno físico atrasa considerablemente los esfuerzos del Ajustador por exaltar la mente material, mientras que los venenos mentales del temor, la ira, la envidia, los celos, las sospechas y la intolerancia del mismo modo interfieren terriblemente con el progreso espiritual del alma evolutiva._ <a id="a76_471"></a>[[LU 110:1.5](/es/The_Urantia_Book/110#p1_5)]
 ¿Qué son estos venenos físicos que retardan los esfuerzos del Ajustador para exaltar la mente material? ¡Pueden ser lo que llamamos drogas, alcohol, cigarrillos y ciertas clases de alimentos! Si tenemos realmente un deseo supremo de trabajar mano en mano y mente a mente con nuestro Ajustador, debemos comenzar a buscar maneras de reemplazar o eliminar algunas o todas esas substancias de nuestras vidas. Debemos comenzar adquiriendo algunos hábitos de vida más saludables. Esas mejoras podrían ser ejercicio físico regular o hábitos diferentes de comida. Todos conocemos la expresión «mente sana en cuerpo sano». Aquí toma su medida exacta.
 
 ¿Qué vamos a hacer ahora con los venenos mentales? ¿Cómo nos deshacemos de estos rasgos malos de personalidad y carácter? Probablemente una buena dosis de sinceridad y humildad nos ayudaría a mirar en nosotros mismos y a ver quienes somos realmente y lo que podemos hacer acerca de ello. _El Libro de Urantia_ nos dice:
 
-> _Las llaves del reino de los cielos son: sinceridad, más sinceridad, y más sinceridad. Todos los hombres poseen estas llaves. Los hombres las usan — avanzan en estado espiritualmediante decisiones, más decisiones y más decisiones. La elección moral más elevada es la elección del valor más alto posible, y siempre —en cualquier esfera, en todas ellas— eso consiste en elegir hacer la voluntad de Dios._ [[LU 39:4.14](/es/The_Urantia_Book/39#p4_14)]
+> _Las llaves del reino de los cielos son: sinceridad, más sinceridad, y más sinceridad. Todos los hombres poseen estas llaves. Los hombres las usan — avanzan en estado espiritualmediante decisiones, más decisiones y más decisiones. La elección moral más elevada es la elección del valor más alto posible, y siempre —en cualquier esfera, en todas ellas— eso consiste en elegir hacer la voluntad de Dios._ <a id="a81_405"></a>[[LU 39:4.14](/es/The_Urantia_Book/39#p4_14)]
 
-> _Muy frecuentemente, demasiado frequentemente desfiguráis vuestras mentes con la insinceridady las marchitáis con la maldad; las sometéis a los temores animales y las distorsionáis con ansiedades inútiles. Por lo tanto, aunque la fuente de la mente sea divina, la mente tal como la conocéis en vuestro mundo de ascensión, difícilmente puede llegar a ser objeto de gran admiración, y mucho menos de adoración o culto. La contemplación del inmaduro e inactivo intelecto humano debería llevar tan sólo a reacciones de humildad._ [[LU 9:5.7](/es/The_Urantia_Book/9#p5_7)]
+> _Muy frecuentemente, demasiado frequentemente desfiguráis vuestras mentes con la insinceridady las marchitáis con la maldad; las sometéis a los temores animales y las distorsionáis con ansiedades inútiles. Por lo tanto, aunque la fuente de la mente sea divina, la mente tal como la conocéis en vuestro mundo de ascensión, difícilmente puede llegar a ser objeto de gran admiración, y mucho menos de adoración o culto. La contemplación del inmaduro e inactivo intelecto humano debería llevar tan sólo a reacciones de humildad._ <a id="a83_528"></a>[[LU 9:5.7](/es/The_Urantia_Book/9#p5_7)]
 
 Podemos ayudarnos rezando todos los días a nuestro Padre pidiendo que nos enseñe a vencer nuestras desventajas humanas. Podemos practicar la meditación como Rodan de Alexandria sugirio a los apóstoles a hacer en vista de los hábitos cotidianos de la vida del Maestro. Podemos tratar de vivir nuestra vida según los preceptos de la filosofía de Rodán. «Donde hay un deseo, hay siempre una manera» — dice el viejo dicho. Si queremos que la relación de nuestro Ajustador con nosotros sea más efectiva, debemos actuar, tomar decisiones y cumplirlas. Debemos morir a nuestras viejas maneras de pensar. Tenemos que encontrar nuevas de aumentar nuestra percepción de la direccion de nuestros Ajustadores. Tenemos que alcanzar hacia arriba tan fuertemente como nuestro Ajustador alcanza hacia abajo.
 
@@ -65,13 +89,13 @@ Si encontramos que tenemos que adquirir más tolerancia, más paciencia o más h
 
 > _La prueba de la fraternidad con el Ajustador divino consiste totalmente en la naturaleza y grado de los frutos del espíritu que rinden en la experiencia vital del creyente. «Por sus frutos los conoceréis»._ [65.0]
 
-> _... «porque los frutos del espíritu son el amor, la alegría, la paz, la resignación, la dulzura, la bondad, la fe, la bumildad, y la templaña». Tales mortales que son guiados por el espiritu y están divinamente iluminados, aun cuando caminan por los bajos senderos del sufrimiento y con lealtad humana cumplen con las obligaciones de sus deberes terrenales, han comenzado ya a discernir las luces de la vida eterna que centellean en las lejanas orillas de otro mundo..._ [[LU 34:6.13](/es/The_Urantia_Book/34#p6_13)]
+> _... «porque los frutos del espíritu son el amor, la alegría, la paz, la resignación, la dulzura, la bondad, la fe, la bumildad, y la templaña». Tales mortales que son guiados por el espiritu y están divinamente iluminados, aun cuando caminan por los bajos senderos del sufrimiento y con lealtad humana cumplen con las obligaciones de sus deberes terrenales, han comenzado ya a discernir las luces de la vida eterna que centellean en las lejanas orillas de otro mundo..._ <a id="a91_474"></a>[[LU 34:6.13](/es/The_Urantia_Book/34#p6_13)]
 
 ## 5. Nuestra voluntad y nuestros deseos
 
 Nuestros Ajustadores nos aman tanto que nunca haran violencia a nuestras mentes tratando de hacernos cambiar nuestros pensamientos. Ellos siempre respetarán nuestra voluntad, aunque signifique nuestra muerte espiritual.
 
-> _Son persistentes, ingeniosos y perfectos en sus métodos de trabajo, pero jamás actúan violentamente sobre el yo volitivo de su anfitrión. Ningún ser humano será jamás espiritualizado contra su propia voluntad por un Monitor divino; la supervivencia es un don de los Dioses que debe ser deseada por las criaturas del tiempo._ [[LU 110:2.2](/es/The_Urantia_Book/110#p2_2)]
+> _Son persistentes, ingeniosos y perfectos en sus métodos de trabajo, pero jamás actúan violentamente sobre el yo volitivo de su anfitrión. Ningún ser humano será jamás espiritualizado contra su propia voluntad por un Monitor divino; la supervivencia es un don de los Dioses que debe ser deseada por las criaturas del tiempo._ <a id="a97_328"></a>[[LU 110:2.2](/es/The_Urantia_Book/110#p2_2)]
 
 Aquí hay una palabra que mereció ser acentuada: el **deseo**. Nuestra relación con nuestro Ajustador debe estar vinculada con el deseo y el amor supremos. ¿Cómo podemos cooperar más con nuestro amigo interior? _El Libro de Urantia_ nos dice que nuestra sobrevivencia no depende tanto de las teorías de nuestras creencias como sobre nuestras decisiones, nuestra determinación la fe constante. El secreto de sobrevivencia está envuelto en nuestro deseo supremo de ser como Dios y estar dispuestos a hacer cualquiera y todas las cosas que son esenciales al logro final de ese deseo superior. Los Ajustadores nunca fallan en sus empresas; ellos son perfectos. Nosotros somos los que les fallamos cuando los privamos de las posibilidades de ganar personalidad a través nuestro.
 
@@ -120,11 +144,11 @@ La conquista de estos niveles de evolución cósmica se refleja en tres maneras:
 
 > _1. **Sincronización con el Ajustador**. La mente que se torna cada vez más espiritual se acerca a la presencia Ajustadora proporcionalmente al logro de los círculos._
 > _2. **Evolución del alma**. La emergencia del alma morontial indica el grado y profundidad del dominio de los circulos._
-> _3. **Realidad de la personalidad**. La conquista de los círculos determina directamente el grado de realidad del yo. Las personas se vuelven más reales a medida que ascienden del séptimo al primer nivel de la existencia mortal._ [[LU 110:6.8-10](/es/The_Urantia_Book/110#p6_8)]
+> _3. **Realidad de la personalidad**. La conquista de los círculos determina directamente el grado de realidad del yo. Las personas se vuelven más reales a medida que ascienden del séptimo al primer nivel de la existencia mortal._ <a id="a146_232"></a>[[LU 110:6.8-10](/es/The_Urantia_Book/110#p6_8)]
 
 Se nos dice nuevamente en el párrafo siguiente la importancia de poner en acción nuestros deseos y nuestras decisiones de vivir de acuerdo a la voluntad de Dios quien se manifiesta en la influencia de guía del Monitor Misterioso.
 
-> _La motivación de la fe hace experiencial la realización plena de la filiación del hombre con Dios, pero la ac c ión, la finalización de las decisiones, es esencial para el logro evolucionario de la conciencia del parentesco progresivo con la ac tualid ad cósmic a del Ser Supremo. En el mundo espiritual la fe transforma los potenciales en actuales, pero los potenciales se vuelven actuales en los reinos finitos del Supremo tan sólo mediante la realización de la experiencia de la elección. Pero elegir hacer la voluntad de Dios une la fe espiritual a las decisiones materiales en la acción de la personalidad y de esta manera provee un fulcro divino y espiritual para el funcionamiento más eficaz de la palanca humana y material del hambre de Dios. Dicha sabia coordinación de fuerzas materiales y espirituales aumenta grandemente tanto la realización cósmica del Supremo como la comprensión morontial de las Deidades del Paraíso._ [[LU 110:6.17](/es/The_Urantia_Book/110#p6_17)]
+> _La motivación de la fe hace experiencial la realización plena de la filiación del hombre con Dios, pero la ac c ión, la finalización de las decisiones, es esencial para el logro evolucionario de la conciencia del parentesco progresivo con la ac tualid ad cósmic a del Ser Supremo. En el mundo espiritual la fe transforma los potenciales en actuales, pero los potenciales se vuelven actuales en los reinos finitos del Supremo tan sólo mediante la realización de la experiencia de la elección. Pero elegir hacer la voluntad de Dios une la fe espiritual a las decisiones materiales en la acción de la personalidad y de esta manera provee un fulcro divino y espiritual para el funcionamiento más eficaz de la palanca humana y material del hambre de Dios. Dicha sabia coordinación de fuerzas materiales y espirituales aumenta grandemente tanto la realización cósmica del Supremo como la comprensión morontial de las Deidades del Paraíso._ <a id="a150_937"></a>[[LU 110:6.17](/es/The_Urantia_Book/110#p6_17)]
 
 ## 10. E1 destino final
 
@@ -134,11 +158,35 @@ Al lograr inmortalidad y la fusión con nuestro Ajustador, ambos nos beneficiare
 
 En conclusion de todo que se expresó en tantas palabras, debemos recordar esta sencilla verdad: la intención de propósito es equivalente a nuestro estado de sobrevivencia.
 
-> _Aunque los círulos cósmicos del crecimiento de la personalidad deben ser alcanzados finalmente, si los accidentes del tiempo y las dificultades de la existencia material os previenen, sin culpa vuestra, de lograr estos niveles en vuestro planeta nativo, si vuestras intenciones y deseos son de valor de supervivencia, se emitirán decretos de extensión del período de prueba. Se os permitirá tiempo adicional para que os probéis._ [[LU 112:5.6](/es/The_Urantia_Book/112#p5_6)]
+> _Aunque los círulos cósmicos del crecimiento de la personalidad deben ser alcanzados finalmente, si los accidentes del tiempo y las dificultades de la existencia material os previenen, sin culpa vuestra, de lograr estos niveles en vuestro planeta nativo, si vuestras intenciones y deseos son de valor de supervivencia, se emitirán decretos de extensión del período de prueba. Se os permitirá tiempo adicional para que os probéis._ <a id="a160_433"></a>[[LU 112:5.6](/es/The_Urantia_Book/112#p5_6)]
 
 > _Y no es tanto lo que la mente comprende, sino más bien lo que desea comprender, aquello que asegura la supervivencia; no es tanto cómo es la ente, sino cómo está tratando de ser la mente lo que constituye la identificación espiritual. No es tanto que el hombre esté consciente de Dios cuanto que el hombre anbele a Dios lo que resulta en la ascensión en el universo. Lo que eres hoy no es tan importante como lo que llegues a ser día a día y en la eternidad._ [1216.6-1217:0]
 
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/IUA_Journal/Conference_2000_2.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carol_Cannon/Quantum_Physics_Joy_and_the_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La física cuántica, el regocijo y la voluntad del Padre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cathy_Jones/Paper_111_The_Adjuster_and_the_Soul">
+          <span class="pr-2">Capítulo 111 — El Ajustador y El Alma</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

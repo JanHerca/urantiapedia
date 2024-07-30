@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2022_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Mai 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/legacy_and_inspiration">
+          <span class="pr-2">Héritage et inspiration</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -25,7 +49,7 @@ Le troisième article, _Les dangers d’une planète décimale_ de Claude Flibot
 
 Notre dernier article, _Pourquoi participer à un groupe d’étude?_ de Gaétan Charland, est un aperçu réfléchi et approfondi de la valeur spirituelle des groupes d’étude. Gaétan a passé un certain nombre d’années à diriger le Comité des Groupes d’Étude de l’Association et possède une grande expérience de l’organisation et des méthodes des groupes d’étude, ainsi qu’une compréhension globale des avantages et des forces des groupes actifs et engagés. Il souligne certains des dangers de la lecture du livre isolément, y compris les idées fausses dues à des lectures incomplètes du livre. Un groupe d’étude non seulement lutte contre cet isolement par des contacts sociaux bénéfiques, mais, en écoutant les divers points de vue et interprétations des autres, il « nous protège de la cristallisation des concepts et des perceptions, nous aide à clarifier, élargir et approfondir notre compréhension des concepts et des vérités révélés dans _Le Livre d’Urantia_. » Gaétan nous rappelle la mission, la philosophie et le but des groupes d’étude, une compréhension qui revigore la croissance en favorisant un sentiment de fraternité ainsi qu’une sensibilisation à la conscience cosmique.
 
-> Les générations futures connaîtront aussi l’éclat de notre joie, la flottabilité de notre bonne volonté et l’inspiration de notre bonne humeur. – Jésus <a id="a50_140"></a>[[LU 159:3.10](/fr/The_Urantia_Book/159#p3_10)]
+> Les générations futures connaîtront aussi l’éclat de notre joie, la flottabilité de notre bonne volonté et l’inspiration de notre bonne humeur. – Jésus <a id="a51_154"></a>[[LU 159:3.10](/fr/The_Urantia_Book/159#p3_10)]
 
 
 ## Références
@@ -34,3 +58,28 @@ Notre dernier article, _Pourquoi participer à un groupe d’étude?_ de Gaétan
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2022/?lang=fr)
 - [Cet article](https://urantia-association.org/note-du-redacteur-mai-2022/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2022_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Mai 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/legacy_and_inspiration">
+          <span class="pr-2">Héritage et inspiration</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

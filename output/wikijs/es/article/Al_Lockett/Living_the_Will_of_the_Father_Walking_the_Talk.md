@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Al Gates Lockett<br>© 2000 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Living_the_Will_of_Our_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Viviendo la voluntad de nuestro Padre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kalevi_Eklof/Relation_of_Adjusters_to_Universe_Creatures">
+          <span class="pr-2">La relación de los Ajustadores con las criaturas del universo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Al_Lockett.jpg">
@@ -36,7 +60,7 @@ Mi tema de hoy está bajo el tema de «vivir la voluntad del Padre», es «pract
 > 
 > _Los Ajustadores son la actualidad del amor del Padre encarnado en las almas de los hombres; son la promesa verdadera de la carrera eterna del hombre, aprisionada dentro de la mente mortal; son la esencia de la personalidad perfeccionada de finalista del hombre, que puede anticipar en el tiempo a medida que domina progresivamente la técnica divina de llegar a vivir la voluntad del Padre..._
 > 
-> _Dios, habiendo mandado al hombre que sea perfecto, así como él es perfecto, ha descendido en forma de Ajustador para tornarse el socio experiencial del hombre en el logro del destino excelso que ha sido asi ordenado._ [[LU 107:0.1-3](/es/The_Urantia_Book/107#p0_1)]
+> _Dios, habiendo mandado al hombre que sea perfecto, así como él es perfecto, ha descendido en forma de Ajustador para tornarse el socio experiencial del hombre en el logro del destino excelso que ha sido asi ordenado._ <a id="a62_221"></a>[[LU 107:0.1-3](/es/The_Urantia_Book/107#p0_1)]
 
 ## La llamada a la perfección
 
@@ -44,13 +68,13 @@ Acabo de leer tres parrafos de la introducción del capítulo 107. La introducci
 
 Reflejemos en el primero _aunque el Padre Universal resida personalmente en el Paraíso, en el centro mismo de los universos, también está realmente presente en los mundos del espacio en las mentes de sus incontables hijos temporales, porque mora en ellos en forma de Monitores Misteriosos._ Yo no sé acerca de vosotros, pero esto hace mi mente tambalear con dias y noches de profunda contemplación, que el Creador de todo, Infinito, Eterno y más que mi mente material podría jamás comprender es residente dentro de mí.
 
-Hay una declaración en _El Libro de Urantia_ que dice: _No existen seres creados que no estén encantados de ser anfitriones de los Monitores Misteriosos, pero ninguna orden de seres los recibe excepto las criaturas evolucionarias de destino de finalista._ [[LU 107:7.7](/es/The_Urantia_Book/107#p7_7)].
+Hay una declaración en _El Libro de Urantia_ que dice: _No existen seres creados que no estén encantados de ser anfitriones de los Monitores Misteriosos, pero ninguna orden de seres los recibe excepto las criaturas evolucionarias de destino de finalista._ <a id="a70_256"></a>[[LU 107:7.7](/es/The_Urantia_Book/107#p7_7)].
 
-> _Segundamente: Los Ajustadores son la actualidad del amor del Padre encarnado en las almas de los hombres, son la promesa verdadera de la carrera eterna del hombre, aprisionada dentro de la mente mortal ... Son la esencia de la personalidad perfeccionada de finalista del hombre, que puede anticipar en el tiempo a medida que domina progresivamente la técnica divina de llegar a vivir la voluntad el Padre._ [[LU 107:0.2](/es/The_Urantia_Book/107#p0_2)].
+> _Segundamente: Los Ajustadores son la actualidad del amor del Padre encarnado en las almas de los hombres, son la promesa verdadera de la carrera eterna del hombre, aprisionada dentro de la mente mortal ... Son la esencia de la personalidad perfeccionada de finalista del hombre, que puede anticipar en el tiempo a medida que domina progresivamente la técnica divina de llegar a vivir la voluntad el Padre._ <a id="a72_410"></a>[[LU 107:0.2](/es/The_Urantia_Book/107#p0_2)].
 
 Entonces, lograr «vivir la voluntad del Padre» es el resultado de una técnica divina que debemos dominar.
 
-La última frase _Dios, habiendo mandado al hombre que sea perfecto, asi como él es perfecto, ha descendido en forma de Ajustador para tornarse el socio experiencial del hombre en el logro del destino excelso que ha sido así ordenado_ [[LU 107:0.3](/es/The_Urantia_Book/107#p0_3)], deletrea apenas lo que es la voluntad de Dios para cada uno de nosotros y el hecho de que lo ordena y que ese Dios, bajo la forma del Ajustador, es nuestro socio de experiencia a lograr ese destino.
+La última frase _Dios, habiendo mandado al hombre que sea perfecto, asi como él es perfecto, ha descendido en forma de Ajustador para tornarse el socio experiencial del hombre en el logro del destino excelso que ha sido así ordenado_ <a id="a76_234"></a>[[LU 107:0.3](/es/The_Urantia_Book/107#p0_3)], deletrea apenas lo que es la voluntad de Dios para cada uno de nosotros y el hecho de que lo ordena y que ese Dios, bajo la forma del Ajustador, es nuestro socio de experiencia a lograr ese destino.
 
 No sólo ha sido ordenado, es el propósito o la razón primarios para existir. Vosotros queréis saber la razón para la vida. No tenéis que ir a Tibet ni al Dalai Lama; es viviendo la voluntad de nuestro Padre siguiendo la directiva para ser perfecto.
 
@@ -62,7 +86,7 @@ No sólo ha sido ordenado, es el propósito o la razón primarios para existir. 
 
 Así que la única manera que vivimos de acuerdo con la voluntad de Dios, es siguiendo las guías del Ajustador. Eso alinea nuestra voluntad con la de Dios. Vivir su vida religiosamente. **La vida terrenal de Jesús fue dedicada a un propósito magnífico: hacer la voluntad del Padre, vivir la vida humana religiosamente y por la fe.**
 
-Volvamos al pasaje: _domina progresivamente la técnica divina de llegar a vivir la voluntad del Padre..._ [[LU 107:0.2](/es/The_Urantia_Book/107#p0_2)].
+Volvamos al pasaje: _domina progresivamente la técnica divina de llegar a vivir la voluntad del Padre..._ <a id="a88_106"></a>[[LU 107:0.2](/es/The_Urantia_Book/107#p0_2)].
 
 Vivir la voluntad del Padre es una técnica divina que debe ser dominada. Hay un componente del trabajo o el requisito asociado con vivir la voluntad del Padre.
 
@@ -82,7 +106,7 @@ Aunque hay los aspectos diferentes en la vida de cada uno de nosotros, necesitam
 
 Pienso que Jesús lo puso en el contexto del mandamiento once: **Amar a Dios con todo el corazón y toda el alma, y amar a sus semejantes como a nosotros mismos**. Pero más que nada, somos requeridos a tener la **fe**.
 
-> _La fe de Jesús era confiada como la de un niño, pero sin la menor presunción. Tomó decisiones firmes y valientes, se enfrentó con intrepidez a múltiples decepciones, superó resueltamente dificultades extraordinarias, e bizo frente sin vacilar a los duras exigencias del deber. Se necesitaba una fuerte voluntad y una confianza indefectible para creer lo que Jesús creía y como él lo creía._ [[LU 196:0.14](/es/The_Urantia_Book/196#p0_14)]
+> _La fe de Jesús era confiada como la de un niño, pero sin la menor presunción. Tomó decisiones firmes y valientes, se enfrentó con intrepidez a múltiples decepciones, superó resueltamente dificultades extraordinarias, e bizo frente sin vacilar a los duras exigencias del deber. Se necesitaba una fuerte voluntad y una confianza indefectible para creer lo que Jesús creía y como él lo creía._ <a id="a108_394"></a>[[LU 196:0.14](/es/The_Urantia_Book/196#p0_14)]
 
 Hay un componente más en vivir la voluntad del Padre, y eso es «vivir la vida bravamente».
 
@@ -92,11 +116,11 @@ Hay un componente más en vivir la voluntad del Padre, y eso es «vivir la vida 
 
 El capítulo 108 habla acerca de la misión de los Ajustadores del Pensamiento.
 
-> _La misión de los Ajustadores del Pensamiento para las razas humanas consiste en representar, en ser, el Padre Universal para las criaturas mortales del tiempo y del espacio; ésa es la tarea fundamental de estos dones divinos. Su misión consiste también en elevar la mente mortal y en trasladar el alma inmortal de los hombres a las alturas divinas y a los niveles espirituales de la perfección del Paraiso._ [[LU 108:0.1](/es/The_Urantia_Book/108#p0_1)]
+> _La misión de los Ajustadores del Pensamiento para las razas humanas consiste en representar, en ser, el Padre Universal para las criaturas mortales del tiempo y del espacio; ésa es la tarea fundamental de estos dones divinos. Su misión consiste también en elevar la mente mortal y en trasladar el alma inmortal de los hombres a las alturas divinas y a los niveles espirituales de la perfección del Paraiso._ <a id="a118_411"></a>[[LU 108:0.1](/es/The_Urantia_Book/108#p0_1)]
 
 Otra vez el elemento clave es la perfección pero ellos siguen a decir:
 
-> _Los Monitores Misteriosos no son ayudantes del pensamiento; ellos son ajustadores del pensamiento. Ellos trabajan con la mente material para el propósito de construir, por el ajuste y espiritualización, una mente nueva para los mundos nuevos y un nombre nuevo para tu carrera futura._ [[LU 108:5.5](/es/The_Urantia_Book/108#p5_5)]
+> _Los Monitores Misteriosos no son ayudantes del pensamiento; ellos son ajustadores del pensamiento. Ellos trabajan con la mente material para el propósito de construir, por el ajuste y espiritualización, una mente nueva para los mundos nuevos y un nombre nuevo para tu carrera futura._ <a id="a122_288"></a>[[LU 108:5.5](/es/The_Urantia_Book/108#p5_5)]
 
 Su misión concierne principalmente la vida futura, no esta vida. Ellos son llamados a ayudantes celestiales, ayudantes no terrenales.
 
@@ -117,7 +141,7 @@ Los antiguos dirían: «Dios no puso más en vosotros que lo que podéis manejar
 
 Ningún dolor —ninguna ganancia.
 
-> _Tus emociones pasajeras y eternamente cambiantes de alegría y pena son en su mayor parte reacciones puramente humanas y materiales al clima de tu psiquis interior y a tu medio ambiente material exterior. No recurras pues al Ajustador para recibir consuele egoista y refugio mortal. Es trabajo del Ajustador prepararte para la aventura eterna, para asegurar tu sobrevivencia. No es misión del Monitor Misterioso calmar tus sentimientos alborotados ni ministrar a tu orgullo herido; es la preparación de tu alma para la larga carrera ascendente la que ocupa la atención y exige el tiempo del Ajustador._ [[LU 108:5.6](/es/The_Urantia_Book/108#p5_6)]
+> _Tus emociones pasajeras y eternamente cambiantes de alegría y pena son en su mayor parte reacciones puramente humanas y materiales al clima de tu psiquis interior y a tu medio ambiente material exterior. No recurras pues al Ajustador para recibir consuele egoista y refugio mortal. Es trabajo del Ajustador prepararte para la aventura eterna, para asegurar tu sobrevivencia. No es misión del Monitor Misterioso calmar tus sentimientos alborotados ni ministrar a tu orgullo herido; es la preparación de tu alma para la larga carrera ascendente la que ocupa la atención y exige el tiempo del Ajustador._ <a id="a143_605"></a>[[LU 108:5.6](/es/The_Urantia_Book/108#p5_6)]
 
 Ningún dolor —ninguna ganancia.
 
@@ -134,10 +158,34 @@ Bien primero lejos, los Ajustadores son la voluntad de Dios.
 7. La idea entera de que estamos inclinados hacia la religiosidad, este esfuerzo para lograr la perfección y la consciencia espiritual, es debido a la actividad del Ajustador interno, que actúa con el Espíritu de la Verdad.
 8. Una de las cosas que he aprendido es de que vivir la voluntad de Dios es personal al individuo. Y que produce las frutas del amor y el servicio hacia los semejantes.
 
-> _Los Ajustadores del Pensamiento querrían reemplazar vuestros sentimientos de temor por convicciones de amor y confianza._ [[LU 108:5.8](/es/The_Urantia_Book/108#p5_8)]
+> _Los Ajustadores del Pensamiento querrían reemplazar vuestros sentimientos de temor por convicciones de amor y confianza._ <a id="a160_125"></a>[[LU 108:5.8](/es/The_Urantia_Book/108#p5_8)]
 
-> _Cuando se trata de conflictos agudos y bien definidos entre las tendencias más elevadas y las más bajas de las razas, entre lo que realmente es recto o erróneo (no tan meramente los que podríais llamar el recto y el erróneo), podréis confiar en que el Ajustador siempre participará en alguna forma definida y active en dichas experiencias._ [[LU 108:5.9](/es/The_Urantia_Book/108#p5_9)]
+> _Cuando se trata de conflictos agudos y bien definidos entre las tendencias más elevadas y las más bajas de las razas, entre lo que realmente es recto o erróneo (no tan meramente los que podríais llamar el recto y el erróneo), podréis confiar en que el Ajustador siempre participará en alguna forma definida y active en dichas experiencias._ <a id="a162_344"></a>[[LU 108:5.9](/es/The_Urantia_Book/108#p5_9)]
 
 Me gustaría terminar con una declaración citada del libro que fue el consuelo más grande para mí. Le habló a mi corazón y a todas mis insuficiencias percibidas. Optimistamente en el contexto y tema de este acontecimiento de gran importancia, continuará proporcionar la esperanza en nuestras tentativas persistentes de vivir la voluntad del Padre.
 
-> _Habiendo comenzado el camino de la vida eterna, habiendo aceptado el debery recibido tus órdenes de avanzar, no temas los peligros del olvido humano e inestabilidad mortal, no te preocupes por el temor al fracaso, o por la confusión que te deja perplejo, no vaciles ni interrogues tu estado y sutuación porque en las horas sombrías, en cada encrucijada de la lucha por progresar, el Espiritu de la Verdad siempre hablará, diciendo: «Éste es el camino»._ [[LU 34:7.8](/es/The_Urantia_Book/34#p7_8)]
+> _Habiendo comenzado el camino de la vida eterna, habiendo aceptado el debery recibido tus órdenes de avanzar, no temas los peligros del olvido humano e inestabilidad mortal, no te preocupes por el temor al fracaso, o por la confusión que te deja perplejo, no vaciles ni interrogues tu estado y sutuación porque en las horas sombrías, en cada encrucijada de la lucha por progresar, el Espiritu de la Verdad siempre hablará, diciendo: «Éste es el camino»._ <a id="a166_457"></a>[[LU 34:7.8](/es/The_Urantia_Book/34#p7_8)]
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Living_the_Will_of_Our_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Viviendo la voluntad de nuestro Padre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kalevi_Eklof/Relation_of_Adjusters_to_Universe_Creatures">
+          <span class="pr-2">La relación de los Ajustadores con las criaturas del universo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

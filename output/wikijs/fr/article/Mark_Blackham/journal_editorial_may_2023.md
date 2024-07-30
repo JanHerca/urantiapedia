@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Mark Blackham<br>© 2023 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2023_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Mai 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Helena_Banas/getting_to_know_ourselves_better">
+          <span class="pr-2">Apprendre à mieux se connaître</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left" alt="Mark Blackham">
@@ -29,7 +53,7 @@ Notre troisième article, « **Naissance de l’Esprit et maturité spirituelle*
 
 En fin de compte, comme l’affirme Mamadou, nous sommes tous maîtres de notre destin. « Alors que la naissance biologique de l’homme se fait sans notre volonté, la naissance de l’Esprit se fait toujours avec notre volonté, avec notre consentement ».
 
-Dans l’essai suivant, il est utile de se souvenir qu’une habitude favorisant la croissance religieuse est l’acte de partager sa vie spirituelle avec ses semblables (<a id="a54_147"></a>[LU 100:1.8](/fr/The_Urantia_Book/100#p1_8)). Et c’est exactement ce que fait Christopher Ross dans son article « **Mon Seigneur et mon Dieu** » dans lequel il décrit une rencontre spirituelle significative qu’il a expérimentée avant de rencontrer _Le Livre d’Urantia_. Dans sa quête de compréhension, Christopher fait une évaluation critique de son expérience à la lumière de la connaissance biblique et, plus tard, du Livre d’Urantia. En résumé, il accepte son expérience comme une authentique révélation de l’Esprit même si, comme toutes les expériences spirituelles, nous ne pouvons jamais les prouver à quelqu’un d’autre. Mais nous sommes réconfortés par la connaissance que « les mortels qui connaissent Dieu détiennent dans leur expérience personnelle la seule preuve positive de l’existence du Dieu vivant » (<a id="a54_853"></a>[LU 1:2.8](/fr/The_Urantia_Book/1#p2_8)).
+Dans l’essai suivant, il est utile de se souvenir qu’une habitude favorisant la croissance religieuse est l’acte de partager sa vie spirituelle avec ses semblables (<a id="a55_165"></a>[LU 100:1.8](/fr/The_Urantia_Book/100#p1_8)). Et c’est exactement ce que fait Christopher Ross dans son article « **Mon Seigneur et mon Dieu** » dans lequel il décrit une rencontre spirituelle significative qu’il a expérimentée avant de rencontrer _Le Livre d’Urantia_. Dans sa quête de compréhension, Christopher fait une évaluation critique de son expérience à la lumière de la connaissance biblique et, plus tard, du Livre d’Urantia. En résumé, il accepte son expérience comme une authentique révélation de l’Esprit même si, comme toutes les expériences spirituelles, nous ne pouvons jamais les prouver à quelqu’un d’autre. Mais nous sommes réconfortés par la connaissance que « les mortels qui connaissent Dieu détiennent dans leur expérience personnelle la seule preuve positive de l’existence du Dieu vivant » (<a id="a55_982"></a>[LU 1:2.8](/fr/The_Urantia_Book/1#p2_8)).
 
 Le dernier article est l’un des miens. « **La prochaine vie** » est un bref résumé de ce que nous pouvons nous attendre à rencontrer une fois ressuscités sur le premier monde des Maisons et, à en juger par les paroles des narrateurs du Livre d’Urantia, ce ne sera pas une transition facile. La vie sur Urantia est très éloignée de la vie sur un monde « plus normal » et nous devrons faire de nombreux ajustements par la suite. Néanmoins, on nous dit, à la fois explicitement et implicitement, les leçons que nous devons apprendre sur les mondes des Maisons. Et la bonne nouvelle est que nous pouvons commencer ces changements dans nos propres vies ici même sur Urantia.
 <br style="clear:both;"/>
@@ -40,3 +64,28 @@ Le dernier article est l’un des miens. « **La prochaine vie** » est un bref 
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2023/?lang=fr)
 - [Cet article](https://urantia-association.org/editorial-du-journal-mai-2023/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2023_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Mai 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Helena_Banas/getting_to_know_ourselves_better">
+          <span class="pr-2">Apprendre à mieux se connaître</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

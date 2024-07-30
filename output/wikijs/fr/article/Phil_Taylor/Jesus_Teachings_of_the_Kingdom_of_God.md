@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Philip Taylor<br>© 2000 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ruth_Kask/The_Acme_of_Religious_Living">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'apogée de la vie religieuse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-septembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septembre 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Sharing_God_the_Sublime_Consciousness_of_Knowing_God">
+          <span class="pr-2">Partager Dieu, la sublime conscience de connaitre Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Philip_Taylor.jpg">
@@ -26,7 +50,7 @@ Lorsque je parle de nous-mêmes en tant que leaders, je ne veux dire que cela. N
 
 Je voudrais noter 111:5.4:
 
-> _La paix dans la vie présente, la survie dans la mort, la perfection dans la prochaine vie, le service dans l'éternité, tout cela est accompli (en esprit) dès ***maintenant*** lorsque la personnalité créée consent à — choisir — de soumettre la volonté de la créature à la volonté du Père._ [[LU 111:5.4](/fr/The_Urantia_Book/111#p5_4)]
+> _La paix dans la vie présente, la survie dans la mort, la perfection dans la prochaine vie, le service dans l'éternité, tout cela est accompli (en esprit) dès ***maintenant*** lorsque la personnalité créée consent à — choisir — de soumettre la volonté de la créature à la volonté du Père._ <a id="a52_292"></a>[[LU 111:5.4](/fr/The_Urantia_Book/111#p5_4)]
 
 C'est tout ce qui nous est demandé. Il n'y a pas de sacrifices à faire, pas de serments à prêter. Nous devons simplement désirer son plan de perfection. Si cela est vrai, si nous désirons tellement cette perfection, alors à chaque moment d'apport spirituel et à chaque épisode de faiblesse humaine, lorsque l'amour réside profondément dans nos cœurs, nous nous arrêterons et dirons : «Père, quelle est votre volonté ? » Si ce désir est vraiment présent, le Père sera au centre de nos vies et nous dépendrons de sa gouverne. Ce n'est pas le mystère de Dieu. C'est très simple. Le plus grand effort qu'un homme ou une femme connaissant Dieu puisse faire est le désir sans réserve de perfection et de confiance dans la gouverne divine.
 
@@ -86,7 +110,7 @@ Pour le moment, pendant notre interaction avec nos camarades, nous ne devrions p
 
 Une autre expérience que voudrais partager avec vous se passa à San Francisco. A ce moment-là, j'habitais à l'hôtel et encore une fois je marchais dans les rues de la ville, encore une fois cherchant un endroit où manger. Je réalise que mes deux histoires tournent autour de mon désir de manger et de faire la volonté du Père, mais je vous assure qu'il n'y a aucun lien entre les deux. C'est à dire, je suppose, à moins que vous ne lisiez _Le Livre d'Urantia_, où ils nous disent que l'homme primitif ne pensait que lorsqu'il avait faim. Je ne l'avais pas réalisé jusqu'à ce que je l'écrive, mais cela semble très compromettant. Telle était mon expérience, et comme je descendais les rues colorées de San Francisco, je disais au Père que je désirais servir, lui et Micaël. Je lui demandais aussi de me guider là où j'avais besoin d'être.
 
-A partir de ce moment dans ma vie, j'ai eu quelques expériences qui en valent la peine en servant le Père, et, en désirant plus, je commençais à me demander comment le Père et nos amis invisibles nous guident là où nous devrions aller. Je me demandais comment Jésus durant son séjour à Rome, _prit un contact amical et vivifiant avec plus de cing cent mortels du royaume._ [[LU 132:4.3](/fr/The_Urantia_Book/132#p4_3)]. Ceci équivaut à environ trois personnes par jour. Je sais que Jésus désirait servir et qu'il cherchait toujours à faire la volonté du Père. A cause de ceci, les anges doivent avoir guidé beaucoup de gens vers lui ou lui vers d'autres.
+A partir de ce moment dans ma vie, j'ai eu quelques expériences qui en valent la peine en servant le Père, et, en désirant plus, je commençais à me demander comment le Père et nos amis invisibles nous guident là où nous devrions aller. Je me demandais comment Jésus durant son séjour à Rome, _prit un contact amical et vivifiant avec plus de cing cent mortels du royaume._ <a id="a112_373"></a>[[LU 132:4.3](/fr/The_Urantia_Book/132#p4_3)]. Ceci équivaut à environ trois personnes par jour. Je sais que Jésus désirait servir et qu'il cherchait toujours à faire la volonté du Père. A cause de ceci, les anges doivent avoir guidé beaucoup de gens vers lui ou lui vers d'autres.
 
 Mais comment puis-je faire savoir que je suis de service à tous les individus en ma présence, pensais-je ? Il doit y avoir une façon pleine de tact, bonne et aimante d'approcher les gens. La réponse, pensais-je, était que Micaël pourvoirait à cette entrée en matière. C'est une façon d'entrer dans la conversation. Peut-être est-ce en accomplissant un acte de bonté envers une personne, peut-être un sourire ou juste une question.
 
@@ -112,7 +136,7 @@ En désirant servir les autres, je découvrais que le Père était devenu le cen
 
 De tels échanges perspicaces d'expérience sont le moyen par lequel la fraternité grandira dans sa relation avec le Père. Mais nous devons être sur nos gardes au sujet du cynisme persistant dans ce monde, concernant le discernement des pensées de Dieu dans notre propre mental, un processus très normal. Cette fraternité guidée par l'esprit requiert une culture ouverte et un libre échange des expériences, de façon à ce que nous puissions tous progresser. La totalité de la révélation qui est de faire la volonté du Père, n'est pas révélée dans _Le Livre d'Urantia_. Il est plutôt demandé aux enfants de Dieu de se révéler mutuellement la nature de leur compréhension de la volonté de Dieu.
 
-N'est-ce pas un acte du Suprême grâce auquel les enfants du temps possèdent la divine expérience de se révéler mutuellement la divine nature de Dieu ? Ne pourrions-nous pas prendre autant de plaisir en exposant les aspects de la personnalité du Père dans notre propre vie comme nous le faisons en aidant les autres à trouver la vérité, la beauté et la bonté dans la leur ? Telle est la volonté du Père, je crois. Mais encore une fois, je dois mettre l'accent sur le fait que nous devons donner une culture spirituelle où d'autres se sentent libres de partager leurs expériences de communion avec le Père. Non seulement nous tirons le bénéfice d'écouter d'autres expériences, mais nous pouvons avoir l'assurance que, par le partage, nos vies spirituelles seront contrôlées et dégagées de toute tendance _fantaisiste, erratique on excentrique_ [[LU 100:7.3](/fr/The_Urantia_Book/100#p7_3)]. Cela peut souvent résulter d'une isolation spirituelle. Un tel échange fournit le vrai véhicule par lequel nous pouvons tous _développer une forte personnalité unifiée, selon les lignes devenues parfaites de la personnalité de Jésus de Nazareth._ [[LU 100:7.1](/fr/The_Urantia_Book/100#p7_1)].
+N'est-ce pas un acte du Suprême grâce auquel les enfants du temps possèdent la divine expérience de se révéler mutuellement la divine nature de Dieu ? Ne pourrions-nous pas prendre autant de plaisir en exposant les aspects de la personnalité du Père dans notre propre vie comme nous le faisons en aidant les autres à trouver la vérité, la beauté et la bonté dans la leur ? Telle est la volonté du Père, je crois. Mais encore une fois, je dois mettre l'accent sur le fait que nous devons donner une culture spirituelle où d'autres se sentent libres de partager leurs expériences de communion avec le Père. Non seulement nous tirons le bénéfice d'écouter d'autres expériences, mais nous pouvons avoir l'assurance que, par le partage, nos vies spirituelles seront contrôlées et dégagées de toute tendance _fantaisiste, erratique on excentrique_ <a id="a138_842"></a>[[LU 100:7.3](/fr/The_Urantia_Book/100#p7_3)]. Cela peut souvent résulter d'une isolation spirituelle. Un tel échange fournit le vrai véhicule par lequel nous pouvons tous _développer une forte personnalité unifiée, selon les lignes devenues parfaites de la personnalité de Jésus de Nazareth._ <a id="a138_1136"></a>[[LU 100:7.1](/fr/The_Urantia_Book/100#p7_1)].
 
 Je me souviens avoir partagé quelques unes de mes expériences avec une lectrice, et, après coup, avoir été averti qu'il y avait un grand danger à discerner les pensées du Père dans mon mental. Je pense qu'elle avait raison, nous devons être prudents. Il y a danger à élever nos pensées jusqu'au statut de divinité, lorsque nous pouvons nous tromper en croyant que toutes nos pensées sont les pensées de Dieu. Mais nous ne devons pas être intimidés par cela, nous devrions procéder avec précaution et discerner soigneusement les pensées dans notre mental. Mais ignorer ce conseil qui m'est offert serait me priver de ces expériences, et en fait nier la volonté du Père.
 
@@ -121,3 +145,27 @@ Je regarde cette planète, son organisation, et me demande s'il n'y a pas un plu
 Je pense que je poursuis quelque chose. Comment le savoir? Parles fruits de l'esprit. A partir de ces expériences et de quelques autres, j'ai vraiment coopéré à quelque chose de vrai, de beau et de bon, et même plus. Je participais à une plus grande révélation d'amour. Je passais réellement par une expérience que notre Créateur traverse de tous temps — j'avais reçu le don d'être capable de créer une expérience qui, je crois, a contribuée à l'évolution du Suprême.
 
 Bien qu'il n'y ait des raisons de se protéger contre les dangers, je crois que cela doit être compensé par la création d'une culture spirituelle pour les croyants sains d'esprit, réalistes, accessibles, pénétrants, affectueux et guidés par l'esprit. La fraternité devrait être capable de réaliser ce dessein. Je l'ai mentionné plus haut, et je le dis encore : ce dont le monde a besoin maintenant est de voir Jésus sur terre, vivant dans la vie des femmes et des hommes mortels, qui ont décidé de rechercher la volonté du Père.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ruth_Kask/The_Acme_of_Religious_Living">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'apogée de la vie religieuse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-septembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septembre 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Sharing_God_the_Sublime_Consciousness_of_Knowing_God">
+          <span class="pr-2">Partager Dieu, la sublime conscience de connaitre Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

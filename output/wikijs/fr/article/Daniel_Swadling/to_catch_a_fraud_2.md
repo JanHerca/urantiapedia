@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Daniel Swadling<br>© 2016 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/follow_the_yellow_brick_road_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Suivez la route pavée de jaune</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -40,15 +61,15 @@ Un groupe d’étude s’est tenu à Sydney récemment et nous avons considéré
 - Héritée de nos ancêtres animaux, la peur est manifestement essentielle à la survie. Si l’on supprimait notre capacité de réagir aux menaces réelles, nous serions morts avant de le savoir.
 - **La peur donne naissance à la religion**, elle
 
-> _… conduisit l’homme primitif à envisager le surnaturel ; elle établit ainsi des bases solides pour les puissantes influences sociales de l’éthique et de la religion, qui à leur tour préservèrent intactes de génération en génération les mœurs et les coutumes de la société._ <a id="a64_251"></a>[[LU 68:4.3](/fr/The_Urantia_Book/68#p4_3)]
+> _… conduisit l’homme primitif à envisager le surnaturel ; elle établit ainsi des bases solides pour les puissantes influences sociales de l’éthique et de la religion, qui à leur tour préservèrent intactes de génération en génération les mœurs et les coutumes de la société._ <a id="a63_277"></a>[[LU 68:4.3](/fr/The_Urantia_Book/68#p4_3)]
 
 - La religion a évolué par des améliorations progressives pour arriver finalement au concept d’un vrai Dieu.
 
-> _La religion évolutionnaire nait d’une peur simple et toute-puissante, la peur qui surgit dans le mental humain confronté à l’inconnu, l’inexplicable et l’incompréhensible. La religion aboutit finalement à la réalisation profondément simple d’un amour tout-puissant, l’amour qui envahit irrésistiblement l’âme humaine quand elle s’éveille à la conception de l’affection illimitée du Père Universel pour les fils de l’univers._ <a id="a68_451"></a>[[LU 90:0.3](/fr/The_Urantia_Book/90#p0_3)]
+> _La religion évolutionnaire nait d’une peur simple et toute-puissante, la peur qui surgit dans le mental humain confronté à l’inconnu, l’inexplicable et l’incompréhensible. La religion aboutit finalement à la réalisation profondément simple d’un amour tout-puissant, l’amour qui envahit irrésistiblement l’âme humaine quand elle s’éveille à la conception de l’affection illimitée du Père Universel pour les fils de l’univers._ <a id="a67_429"></a>[[LU 90:0.3](/fr/The_Urantia_Book/90#p0_3)]
 
 - La peur superstitieuse est un échafaudage pour le concept de Dieu. Une fois qu’est atteinte une compréhension avancée de la Déité,
 
-> _… l’évolution met immanquablement en marche les forces de pensée qui détruiront inexorablement l’échafaudage dont la mission est accomplie._ <a id="a72_134"></a>[[LU 90:3.10](/fr/The_Urantia_Book/90#p3_10)]
+> _… l’évolution met immanquablement en marche les forces de pensée qui détruiront inexorablement l’échafaudage dont la mission est accomplie._ <a id="a71_144"></a>[[LU 90:3.10](/fr/The_Urantia_Book/90#p3_10)]
 
 Ainsi, pour paraphraser l’un des fameux percepteurs d’impôts de mon pays, c’est la peur qu’il nous fallait. Les critiques de la religion observent à juste titre que les religions sont apparues par la peur, ce qu’ils doivent encore saisir c’est  que la religion change et que cet échafaudage commence à tomber.
 
@@ -69,7 +90,7 @@ Maintenant je veux voir ce qui se passe vraiment quand nous éprouvons de la peu
 
 De nouveau :
 
-> _La peur irraisonnée est une fraude intellectuelle maitresse pratiquée sur l’âme mortelle en évolution._ <a id="a93_92"></a>[[LU 48:7.4](/fr/The_Urantia_Book/48#p7_4)] from Morontia Mota No. 2
+> _La peur irraisonnée est une fraude intellectuelle maitresse pratiquée sur l’âme mortelle en évolution._ <a id="a92_107"></a>[[LU 48:7.4](/fr/The_Urantia_Book/48#p7_4)] from Morontia Mota No. 2
 
 Mais tout d’abord, revoyons précisément ce qu’est l’âme.
 
@@ -77,7 +98,7 @@ Dans le fascicule 111, L’Ajusteur et l’âme, il y a trois facteurs dans la c
 
 > _1\. Le mental humain…_
 > _2\. L’esprit divin qui habite ce mental humain et tous les potentiels inhérents à un tel fragment de spiritualité absolue, ainsi que toutes les influences et tous les facteurs spirituels qui lui sont associés dans la vie humaine._
-> _3\. La relation entre le mental matériel et l’esprit divin, qui dénote une valeur et comporte une signification ne se trouvant dans aucun des deux facteurs de cette association. La réalité de cette relation unique n’est ni matérielle ni spirituelle, mais morontielle. C’est l’âme._ <a id="a101_288"></a>[[LU 111:2.4](/fr/The_Urantia_Book/111#p2_4)]
+> _3\. La relation entre le mental matériel et l’esprit divin, qui dénote une valeur et comporte une signification ne se trouvant dans aucun des deux facteurs de cette association. La réalité de cette relation unique n’est ni matérielle ni spirituelle, mais morontielle. C’est l’âme._ <a id="a100_285"></a>[[LU 111:2.4](/fr/The_Urantia_Book/111#p2_4)]
 
 Si, à chaque fois que nous sommes confrontés à des menaces, effrayés par un défi, terrorisés par le nouveau et l’inconnu, nous permettons que notre pensée supérieure soit court-circuité et que nous permettons une réponse irréfléchie, nous éliminons l’interaction entre notre mental et notre esprit **quand nous en avons le plus besoin**. Car, c’est dans ces moments où nous sommes poussés à nos limites et éprouvés que nous nous améliorons et que nous croissons. Nous savons que c’est le cas pour notre corps physique et notre mental, nous avons appris de ces enseignements que c’est aussi le cas pour notre moi spirituel.  
 
@@ -85,7 +106,7 @@ Nous voyons là la nature frauduleuse de la peur. La peur ne peut pas nous rappr
 
 Les anges, nous dit le livre, ne sont pas très différents de nous.
 
-> _Dépouillés de vos corps matériels et nantis de formes spirituelles, vous seriez très proches des anges par beaucoup d’attributs de la personnalité. Ils partagent la plupart de vos émotions et en éprouvent quelques-unes en supplément. La seule émotion qui vous fasse agir et qui leur soit quelque peu difficile à comprendre est l’héritage de peur animale qui occupe une place si importante dans la vie mentale de l’habitant moyen d’Urantia. Les anges trouvent réellement difficile de comprendre pourquoi vous permettez, avec tant de persistance, à vos pouvoirs intellectuels supérieurs, et même à votre foi religieuse, d’être pareillement dominés par la peur et d’être si complètement démoralisés par des paniques irréfléchies dues à la crainte et à l’anxiété._ <a id="a109_624"></a>[[LU 113:2.5](/fr/The_Urantia_Book/113#p2_5)]
+> _Dépouillés de vos corps matériels et nantis de formes spirituelles, vous seriez très proches des anges par beaucoup d’attributs de la personnalité. Ils partagent la plupart de vos émotions et en éprouvent quelques-unes en supplément. La seule émotion qui vous fasse agir et qui leur soit quelque peu difficile à comprendre est l’héritage de peur animale qui occupe une place si importante dans la vie mentale de l’habitant moyen d’Urantia. Les anges trouvent réellement difficile de comprendre pourquoi vous permettez, avec tant de persistance, à vos pouvoirs intellectuels supérieurs, et même à votre foi religieuse, d’être pareillement dominés par la peur et d’être si complètement démoralisés par des paniques irréfléchies dues à la crainte et à l’anxiété._ <a id="a108_764"></a>[[LU 113:2.5](/fr/The_Urantia_Book/113#p2_5)]
 
 ## Prévention— saisir la peur
 
@@ -105,11 +126,11 @@ Or, si nous pouvons le faire au niveau physique et cognitif, **il n’y a pas de
 
 Souvenez-vous du problème de l’Ajusteur :
 
-> _Une grande partie de ma difficulté provenait de (entre autres choses) la fontaine de la foi polluée par les poisons de la peur_ <a id="a129_118"></a>[[LU 111:7.5](/fr/The_Urantia_Book/111#p7_5)]
+> _Une grande partie de ma difficulté provenait de (entre autres choses) la fontaine de la foi polluée par les poisons de la peur_ <a id="a128_131"></a>[[LU 111:7.5](/fr/The_Urantia_Book/111#p7_5)]
 
 Et de la mission de l’Ajusteur (en partie) :
 
-> _Les Ajusteurs de Pensée aimeraient changer vos sentiments de crainte en convictions d’amour et de confiance, mais ils ne peuvent le faire arbitrairement et mécaniquement ; c’est à vous que cela incombe. **En exécutant les décisions qui vous libèrent des entraves de la crainte, vous fournissez littéralement le point d’appui psychique sur lequel l’Ajusteur peut ensuite appliquer le levier spirituel d’une illumination qui vous élève et vous fait progresser.**_ <a id="a133_410"></a>[[LU 108:5.8](/fr/The_Urantia_Book/108#p5_8)] gras ajouté
+> _Les Ajusteurs de Pensée aimeraient changer vos sentiments de crainte en convictions d’amour et de confiance, mais ils ne peuvent le faire arbitrairement et mécaniquement ; c’est à vous que cela incombe. **En exécutant les décisions qui vous libèrent des entraves de la crainte, vous fournissez littéralement le point d’appui psychique sur lequel l’Ajusteur peut ensuite appliquer le levier spirituel d’une illumination qui vous élève et vous fait progresser.**_ <a id="a132_465"></a>[[LU 108:5.8](/fr/The_Urantia_Book/108#p5_8)] gras ajouté
 
 Nous connaissons tous la peur, nous permettons que nous soyons victimes de la peur et nous savons comment elle opère. Et puisque vous connaissez la peur, cela vous met dans la meilleure position pour saisir cette  peur, l’arrêter et la surmonter avant qu’elle ne vous détruise. **En ralentissant vos réactions à la peur vous donnez à votre mental supérieur une chance de la traiter correctement, de vous délivrer de son emprise d’esclavage, et vous permettez à votre esprit intérieur de se connecter à votre mental à ce moment-là et de faire croitre encore plus votre âme.**
 
@@ -117,9 +138,9 @@ Et, bien entendu, l’ingrédient crucial qui va nous aider à ralentir nos réa
 
 Jésus a dit :
 
-> _« Le psalmiste vous a exhortés à ‘servir le Seigneur avec crainte’, – mais moi, je vous invite à jouir des privilèges supérieurs de la filiation divine par la foi. Il vous commande de vous réjouir en tremblant ; moi, je vous demande de vous réjouir avec assurance. Il dit : ‘Embrassez le Fils, de crainte qu’il ne s’irrite et que vous périssiez quand sa colère sera allumée.’ Mais vous, qui avez vécu avec moi, vous savez bien que ni la colère ni le courroux ne contribuent à établir le royaume des cieux dans le cœur des hommes. »_ <a id="a141_443"></a>[[LU 155:1.2](/fr/The_Urantia_Book/155#p1_2)]
+> _« Le psalmiste vous a exhortés à ‘servir le Seigneur avec crainte’, – mais moi, je vous invite à jouir des privilèges supérieurs de la filiation divine par la foi. Il vous commande de vous réjouir en tremblant ; moi, je vous demande de vous réjouir avec assurance. Il dit : ‘Embrassez le Fils, de crainte qu’il ne s’irrite et que vous périssiez quand sa colère sera allumée.’ Mais vous, qui avez vécu avec moi, vous savez bien que ni la colère ni le courroux ne contribuent à établir le royaume des cieux dans le cœur des hommes. »_ <a id="a140_536"></a>[[LU 155:1.2](/fr/The_Urantia_Book/155#p1_2)]
 > 
-> _« La vraie religion n’a pas simplement pour but d’amener la paix, mais plutôt d’assurer le progrès. Il ne peut y avoir ni paix dans le cœur, ni progrès dans le mental si vous ne tombez pas de tout cœur amoureux de la vérité, des idéaux des réalités éternelles. L’alternative de la vie et de la mort est placée devant vous – d’un côté les plaisirs coupables du temps, et de l’autre les justes réalités de l’éternité. Dès maintenant, vous devriez commencer à vous délivrer de l’esclavage de la peur et du doute en entrant dans la nouvelle vie de foi et d’espérance. Quand des sentiments de service envers votre prochain naissent dans votre âme, ne les étouffez pas ; quand des émotions d’amour envers le prochain jaillissent dans votre cœur, manifestez cette tendance affective par un ministère intelligent satisfaisant les besoins réels de votre prochain. »_ <a id="a143_792"></a>[[LU 157:2.2](/fr/The_Urantia_Book/157#p2_2)]
+> _« La vraie religion n’a pas simplement pour but d’amener la paix, mais plutôt d’assurer le progrès. Il ne peut y avoir ni paix dans le cœur, ni progrès dans le mental si vous ne tombez pas de tout cœur amoureux de la vérité, des idéaux des réalités éternelles. L’alternative de la vie et de la mort est placée devant vous – d’un côté les plaisirs coupables du temps, et de l’autre les justes réalités de l’éternité. Dès maintenant, vous devriez commencer à vous délivrer de l’esclavage de la peur et du doute en entrant dans la nouvelle vie de foi et d’espérance. Quand des sentiments de service envers votre prochain naissent dans votre âme, ne les étouffez pas ; quand des émotions d’amour envers le prochain jaillissent dans votre cœur, manifestez cette tendance affective par un ministère intelligent satisfaisant les besoins réels de votre prochain. »_ <a id="a142_861"></a>[[LU 157:2.2](/fr/The_Urantia_Book/157#p2_2)]
 
 
 ## Références
@@ -128,3 +149,25 @@ Jésus a dit :
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2016/?lang=fr)
 - [Cet article](https://urantia-association.org/saisir-une-fraude/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/follow_the_yellow_brick_road_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Suivez la route pavée de jaune</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

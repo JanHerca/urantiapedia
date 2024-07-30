@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Peep Sõber<br>© 1999 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Cathy_Jones/A_Visit_to_Russia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una visita a Rusia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeff_Wattles/Contradictions_or_Creative_Tensions_in_UB">
+          <span class="pr-2">¿Contradicciones o tensiones creativas en El Libro de URANTIA?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Peep Sõber, Talilin, Estonia
 Conferencia de lectores del _Libro de Urantia_ en Estonia, en Karepa, 12 de agosto de 1998
@@ -25,15 +49,15 @@ Los líderes de nuestros gobiernos no se atreven a darnos la triste noticia. Lo 
 
 No es mi propósito asustarlos ni levantar una campaña de «mejora del mundo». Simplemente les estoy informando sobre esta situación tan precaria a la que nos enfrentamos. Esta situación puede hacernos creer que los ángeles del futuro, los Melquisedec, Cristo Miguel y otros tienen una solución a la creciente crisis. Personalmente me siento muy pesimista sobre la capacidad de la humanidad, por sí sola, para controlar esta situación y solucionarla. ¿Qué tiene _El Libro de Urantia_ para nosotros?
 
-> _Desde el punto de vista mundial, la superpoblación nunca ha sido un grave problema en el pasado, pero si las guerras disminuyen y la ciencia controla cada vez más las enfermedades humanas, puede convertirse en un problema serio ***en el futuro cercano***. En ese momento se presentará la gran prueba de sabiduría para los dirigentes del mundo. Los gobernantes de Urantia ¿tendrán la perspicacia y la valentía de fomentar la multiplicación de los seres humanos de tipo medio o estabilizados, en lugar de favorecer la de los grupos extremos compuestos por los que son superiores a la normalidad y por los grupos cada vez más grandes de seres inferiores a la normalidad?_ ([LU 68:6.11](/es/The_Urantia_Book/68#p6_11))
+> _Desde el punto de vista mundial, la superpoblación nunca ha sido un grave problema en el pasado, pero si las guerras disminuyen y la ciencia controla cada vez más las enfermedades humanas, puede convertirse en un problema serio ***en el futuro cercano***. En ese momento se presentará la gran prueba de sabiduría para los dirigentes del mundo. Los gobernantes de Urantia ¿tendrán la perspicacia y la valentía de fomentar la multiplicación de los seres humanos de tipo medio o estabilizados, en lugar de favorecer la de los grupos extremos compuestos por los que son superiores a la normalidad y por los grupos cada vez más grandes de seres inferiores a la normalidad?_ (<a id="a51_673"></a>[LU 68:6.11](/es/The_Urantia_Book/68#p6_11))
 
-> _A veces os sentís impresionados por los estragos de la guerra, pero deberíais reconocer que es necesario que nazca un gran número de mortales para permitir que el desarrollo social y moral tenga una amplia oportunidad de manifestarse; pero con esta fecundidad planetaria surge pronto el grave problema de la superpoblación. La mayoría de los mundos habitados son pequeños. Urantia está dentro de la media, quizás un poco más pequeña de lo normal. La estabilización óptima de la población nacional aumenta la cultura e impide la guerra. Y es sabia la nación que sabe cuándo detener su crecimiento._ ([LU 81:6.12](/es/The_Urantia_Book/81#p6_12))
+> _A veces os sentís impresionados por los estragos de la guerra, pero deberíais reconocer que es necesario que nazca un gran número de mortales para permitir que el desarrollo social y moral tenga una amplia oportunidad de manifestarse; pero con esta fecundidad planetaria surge pronto el grave problema de la superpoblación. La mayoría de los mundos habitados son pequeños. Urantia está dentro de la media, quizás un poco más pequeña de lo normal. La estabilización óptima de la población nacional aumenta la cultura e impide la guerra. Y es sabia la nación que sabe cuándo detener su crecimiento._ (<a id="a53_602"></a>[LU 81:6.12](/es/The_Urantia_Book/81#p6_12))
 
 Es natural que la gente anhele un mejor nivel de vida. Pero un nivel de vida más alto no puede ser el **único objetivo** de nuestras vidas.
 
-> _Al principio, la vida era una lucha por la existencia; hoy es una lucha por el nivel de vida, y en el futuro lo será por la calidad del pensamiento, la próxima meta terrestre de la existencia humana._ ([LU 81:6.28](/es/The_Urantia_Book/81#p6_28))
+> _Al principio, la vida era una lucha por la existencia; hoy es una lucha por el nivel de vida, y en el futuro lo será por la calidad del pensamiento, la próxima meta terrestre de la existencia humana._ (<a id="a57_205"></a>[LU 81:6.28](/es/The_Urantia_Book/81#p6_28))
 
-> _Las invenciones mecánicas y la diseminación del conocimiento están modificando la civilización; si se quiere evitar un desastre cultural, es imperioso efectuar ciertos ajustes económicos y cambios sociales. Este nuevo orden social que se aproxima no se establecerá afablemente durante un milenio. La raza humana debe aceptar una serie de cambios, ajustes y reajustes. La humanidad está en marcha hacia un nuevo destino planetario no revelado._ ([LU 99:1.1](/es/The_Urantia_Book/99#p1_1))
+> _Las invenciones mecánicas y la diseminación del conocimiento están modificando la civilización; si se quiere evitar un desastre cultural, es imperioso efectuar ciertos ajustes económicos y cambios sociales. Este nuevo orden social que se aproxima no se establecerá afablemente durante un milenio. La raza humana debe aceptar una serie de cambios, ajustes y reajustes. La humanidad está en marcha hacia un nuevo destino planetario no revelado._ (<a id="a59_448"></a>[LU 99:1.1](/es/The_Urantia_Book/99#p1_1))
 
 Existe otro peligro grave que amenaza nuestra civilización y que puede provenir del espacio. Los astrónomos, con su teoría de la probabilidad, no pudieron predecir con mucha antelación que un cometa caería sobre Júpiter en 1994. Desde entonces, los astrónomos han prestado mucha más atención a los peligros que representan los asteroides y cometas no descubiertos. Sabemos sobre el asteroide 1997XF 11, que regularmente forma tangente a la órbita terrestre. En 2028, este asteroide podría acercarse a la Tierra en un margen extremadamente estrecho de sólo 48.000 kilómetros. Esta es la lectura de los cálculos más recientes. El diámetro de este cuerpo es de «sólo» 1,5 km.
 
@@ -47,7 +71,7 @@ En los últimos cinco años los astrónomos han descubierto 20 nuevos cometas ll
 
 Los creyentes religiosos pueden afirmar que confían en la protección de nuestro amoroso Padre. Nosotros, los lectores de _El Libro de Urantia_, podemos creer que la vida eterna es nuestro seguro espiritual. ¿Pero ese seguro tiene alguna relación con nuestra vida material en este planeta?
 
-> _La mente humana puede imaginar inmediatamente mil y una cosas —acontecimientos físicos catastróficos, accidentes espantosos, desastres horribles, enfermedades dolorosas y plagas mundiales— y preguntarse si estas calamidades están correlacionadas con las maniobras desconocidas de esta actividad probable del Ser Supremo. Francamente, no lo sabemos; no estamos realmente seguros. Pero sí observamos que a medida que pasa el tiempo, todas estas situaciones difíciles y más o menos misteriosas *siempre* se resuelven para el bienestar y el progreso de los universos. Puede ser que la actividad del Supremo y el supercontrol de la Trinidad entremezclen todas las circunstancias de la existencia y todas las vicisitudes inexplicables de la vida en una configuración significativa de alto valor._ ([LU 10:7.5](/es/The_Urantia_Book/10#p7_5))
+> _La mente humana puede imaginar inmediatamente mil y una cosas —acontecimientos físicos catastróficos, accidentes espantosos, desastres horribles, enfermedades dolorosas y plagas mundiales— y preguntarse si estas calamidades están correlacionadas con las maniobras desconocidas de esta actividad probable del Ser Supremo. Francamente, no lo sabemos; no estamos realmente seguros. Pero sí observamos que a medida que pasa el tiempo, todas estas situaciones difíciles y más o menos misteriosas *siempre* se resuelven para el bienestar y el progreso de los universos. Puede ser que la actividad del Supremo y el supercontrol de la Trinidad entremezclen todas las circunstancias de la existencia y todas las vicisitudes inexplicables de la vida en una configuración significativa de alto valor._ (<a id="a73_795"></a>[LU 10:7.5](/es/The_Urantia_Book/10#p7_5))
 
 Los lectores de _El Libro de Urantia_ no tienen motivos para creer que la vida en la Tierra llegará a su fin en algún tipo de cataclismo. Por otro lado, nuestro progreso en Urantia nunca ha sido lineal. Se han presenciado muchas crisis y cambios **repentinos**. Como dije antes, un asteroide peligroso descubierto **repentinamente** puede caer sobre la Tierra entre 25 y 50 días después de su descubrimiento. Sabemos que en 1908 ocurrió una catástrofe cósmica más extensa en Siberia, cerca de Tunguska. Los astrónomos de aquellos días no pudieron predecirlo.
 
@@ -69,7 +93,7 @@ También nos puede resultar interesante la cuarteta II 41: «La gran estrella ar
 
 Hoy es obvio que el punto de partida de nuestro cálculo tradicional del tiempo (d.C.) es erróneo. Pero tal vez deberíamos contar los milenios comenzando, no desde el nacimiento de Jesús, sino desde su bautismo (o desde el otorgamiento del Espíritu de la Verdad). Si lo hacemos, el segundo milenio sería cosa del pasado en el año 2026 d.C. o respectivamente en el año 2030. Esto es extremadamente importante si leemos en El Libro de Urantia el siguiente párrafo:
 
-> _De vez en cuando, por iniciativa de las autoridades planetarias o de los gobernantes del sistema, se llevan a cabo resurrecciones especiales de los supervivientes dormidos. Estas resurrecciones se producen al menos cada milenio del tiempo planetario, cuando «muchos de los que duermen en el polvo se despiertan»{1}, pero no todos. Estas resurrecciones especiales ofrecen la ocasión de movilizar grupos especiales de ascendentes para un servicio específico en el plan del universo local para la ascensión de los mortales. Existen razones prácticas así como asociaciones sentimentales que están conectadas con estas resurrecciones especiales._ ([LU 49:6.2](/es/The_Urantia_Book/49#p6_2))
+> _De vez en cuando, por iniciativa de las autoridades planetarias o de los gobernantes del sistema, se llevan a cabo resurrecciones especiales de los supervivientes dormidos. Estas resurrecciones se producen al menos cada milenio del tiempo planetario, cuando «muchos de los que duermen en el polvo se despiertan»{1}, pero no todos. Estas resurrecciones especiales ofrecen la ocasión de movilizar grupos especiales de ascendentes para un servicio específico en el plan del universo local para la ascensión de los mortales. Existen razones prácticas así como asociaciones sentimentales que están conectadas con estas resurrecciones especiales._ (<a id="a95_646"></a>[LU 49:6.2](/es/The_Urantia_Book/49#p6_2))
 
 Podemos detectar referencias a algún tipo de evento cósmico «en el fin de los tiempos» también en los escritos de los profetas Daniel y Ezequiel, y en el Apocalipsis.
 
@@ -89,11 +113,11 @@ Hablar de posibles catástrofes no es popular. Pero seguir creyendo en el progre
 
 A los lectores de El libro de Urantia puede resultarles fascinante saber que un profeta irlandés del siglo XI, San Malaquías O'Morgair, estaba en posesión de una lista de todos los futuros Papas. Según su lista, sólo habrá dos Papas más. Después de ellos, amanecerá el Día del Juicio, dijo. Es probable que esto signifique una nueva adjudicación dispensacional.
 
-_El Libro de Urantia_ dice: _Nunca ha habido una misión magistral en su mundo..._ [LU 49:5.26](/es/The_Urantia_Book/49#p5_26) Esta anomalía se debe quizás a que Caligastia se unió a la rebelión de Lucifer y al incumplimiento de Adán y Eva. La misericordia divina está condicionada por la justicia divina. ¿Significa esto realmente que las personas serán juzgadas como justas e injustas, como las que son salvas y las que no? —Ésta es una cuestión crucial.
+_El Libro de Urantia_ dice: _Nunca ha habido una misión magistral en su mundo..._ <a id="a115_82"></a>[LU 49:5.26](/es/The_Urantia_Book/49#p5_26) Esta anomalía se debe quizás a que Caligastia se unió a la rebelión de Lucifer y al incumplimiento de Adán y Eva. La misericordia divina está condicionada por la justicia divina. ¿Significa esto realmente que las personas serán juzgadas como justas e injustas, como las que son salvas y las que no? —Ésta es una cuestión crucial.
 
 ## Parte III: La Ley del Siete
 
-> _Las cosas están condicionadas por el tiempo, pero la verdad está fuera del tiempo. Cuanta más verdad conocéis, más verdad *sois*, más cosas podéis entender del pasado y comprender del futuro._ ([LU 118:3.2](/es/The_Urantia_Book/118#p3_2))
+> _Las cosas están condicionadas por el tiempo, pero la verdad está fuera del tiempo. Cuanta más verdad conocéis, más verdad *sois*, más cosas podéis entender del pasado y comprender del futuro._ (<a id="a119_197"></a>[LU 118:3.2](/es/The_Urantia_Book/118#p3_2))
 
 ¿Es posible que comprendamos las leyes de la evolución humana: qué fue, qué es y qué será? ¿Tenemos las herramientas adecuadas para eso? Nuestras palabras y conceptos deben ser lo suficientemente abstractos, universales y completos.
 
@@ -188,3 +212,27 @@ Ahora mi discurso ha llegado al final de la etapa número uno. Es hora de pasar 
 - Mann, A. (1992). _Profecías del Milenio. Predicciones para el año 2000_. Nueva York: Libros de elementos.
 
 - Veskimäe, R. (Ed.) (1997). _Universo_. Tallin.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Cathy_Jones/A_Visit_to_Russia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una visita a Rusia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeff_Wattles/Contradictions_or_Creative_Tensions_in_UB">
+          <span class="pr-2">¿Contradicciones o tensiones creativas en El Libro de URANTIA?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Alexander H.<br>© 2016 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Kurtz/considerations_for_study_of_the_human_jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Considérations pour l’étude du Jésus humain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/follow_the_yellow_brick_road_2">
+          <span class="pr-2">Suivez la route pavée de jaune</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -50,3 +74,28 @@ Membre du Comité de Urantia Young Adult International
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2016/?lang=fr)
 - [Cet article](https://urantia-association.org/rapport-sur-mes-experiences-de-conference/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Kurtz/considerations_for_study_of_the_human_jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Considérations pour l’étude du Jésus humain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/follow_the_yellow_brick_road_2">
+          <span class="pr-2">Suivez la route pavée de jaune</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

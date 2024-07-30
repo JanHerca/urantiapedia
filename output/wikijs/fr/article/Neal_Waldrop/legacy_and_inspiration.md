@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Neal Waldrop<br>© 2022 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/editors_note_may_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Note du rédacteur en chef – mai 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Christopher_Ross/the_what_book">
+          <span class="pr-2">Le livre de quoi ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -75,9 +99,9 @@ D’autre part, dans la section 6 du document 110, un Messager solitaire nous in
 
 > _Les cercles psychiques ne sont ni exclusivement intellectuels ni entièrement morontiels ; ils concernent le statut de personnalité, les accomplissements mentaux, la croissance de l’âme et l’accord avec l’Ajusteur. La traversée réussie de ces niveaux exige le fonctionnement harmonieux de la personnalité entière, et non simplement d’une de ses phases. La croissance des parties n’équivaut pas à la vraie maturation du tout ; en réalité, les parties croissent proportionnellement à l’expansion de l’ensemble du moi — du moi tout entier — matériel, intellectuel et spirituel._
 > 
-> _C’est à un mental parfaitement équilibré, logé dans un corps aux habitudes saines, aux énergies nerveuses stabilisées et aux fonctions chimiques équilibrées — quand les pouvoirs physiques, mentaux et spirituels se développent en harmonie trine — qu’un maximum de lumière et de vérité peut être communiqué avec un minimum de danger temporel et de risques pour le véritable bienêtre d’un tel être. C’est par cette croissance équilibrée que l’homme fait, un par un, l’ascension des cercles de progression planétaire, depuis le septième jusqu’au premier._ <a id="a100_471"></a>[[LU 110:6.3-4](/fr/The_Urantia_Book/110#p6_3)]
+> _C’est à un mental parfaitement équilibré, logé dans un corps aux habitudes saines, aux énergies nerveuses stabilisées et aux fonctions chimiques équilibrées — quand les pouvoirs physiques, mentaux et spirituels se développent en harmonie trine — qu’un maximum de lumière et de vérité peut être communiqué avec un minimum de danger temporel et de risques pour le véritable bienêtre d’un tel être. C’est par cette croissance équilibrée que l’homme fait, un par un, l’ascension des cercles de progression planétaire, depuis le septième jusqu’au premier._ <a id="a101_555"></a>[[LU 110:6.3-4](/fr/The_Urantia_Book/110#p6_3)]
 
-> _Peut-être vaudrait-il mieux que ces cercles psychiques de progression des mortels soient dénommés niveaux cosmiques : niveaux où effectivement nous saisissons les significations et réalisons les valeurs d’une approche progressive de la conscience morontielle de l’existence d’une relation initiale entre l’âme évolutionnaire et l’Être Suprême émergent. C’est précisément cette relation qui rend éternellement impossible d’expliquer pleinement la signification des cercles cosmiques au mental matériel. Ces franchissements de cercles n’ont que des rapports relatifs avec le fait d’avoir conscience de Dieu. Celui qui est dans le septième ou sixième cercle peut connaitre Dieu — avoir conscience de sa filiation — presque aussi bien que celui qui est dans le deuxième ou le premier cercle, mais les êtres des cercles inférieurs sont beaucoup moins conscients de leur relation expérientielle avec l’Être Suprême, de leur citoyenneté universelle. Le franchissement de ces cercles cosmiques fera partie de l’expérience des ascendeurs sur les mondes des maisons s’ils ne réussissent pas cet accomplissement avant la mort naturelle._ (Présenté par un messager solitaire) <a id="a102_936"></a>[[LU 110:6.16](/fr/The_Urantia_Book/110#p6_16) 110:6.16]
+> _Peut-être vaudrait-il mieux que ces cercles psychiques de progression des mortels soient dénommés niveaux cosmiques : niveaux où effectivement nous saisissons les significations et réalisons les valeurs d’une approche progressive de la conscience morontielle de l’existence d’une relation initiale entre l’âme évolutionnaire et l’Être Suprême émergent. C’est précisément cette relation qui rend éternellement impossible d’expliquer pleinement la signification des cercles cosmiques au mental matériel. Ces franchissements de cercles n’ont que des rapports relatifs avec le fait d’avoir conscience de Dieu. Celui qui est dans le septième ou sixième cercle peut connaitre Dieu — avoir conscience de sa filiation — presque aussi bien que celui qui est dans le deuxième ou le premier cercle, mais les êtres des cercles inférieurs sont beaucoup moins conscients de leur relation expérientielle avec l’Être Suprême, de leur citoyenneté universelle. Le franchissement de ces cercles cosmiques fera partie de l’expérience des ascendeurs sur les mondes des maisons s’ils ne réussissent pas cet accomplissement avant la mort naturelle._ (Présenté par un messager solitaire) <a id="a103_1167"></a>[[LU 110:6.16](/fr/The_Urantia_Book/110#p6_16) 110:6.16]
 
 En gardant toutes ces relations à l’esprit, je crois qu’une étude approfondie et une attention appropriée de l’ensemble des 2097 pages de la cinquième révélation d’époque – Parties I, II et III ainsi que la Partie IV – sont plus susceptibles de promouvoir et de favoriser la croissance de la personnalité entière telle que le Messager Solitaire l’a décrite. Même ainsi, cependant, cette approche du Livre d’Urantia n’est certainement pas une condition préalable à la croissance spirituelle, ni à nos futures carrières morontielles sur les mondes des maisons. Les personnes qui ne profitent pas pleinement des possibilités de croissance de la personnalité entière qui sont à notre disposition sur Urantia pourront se rattraper au cours de la vie ascendante.
 
@@ -93,7 +117,7 @@ Les prospectives de la cinquième révélation d’époque incluent très certai
 
 En gardant tout cela à l’esprit, je conseille la patience et la persistance, en continuant principalement à s’appuyer sur l’approche de personne à personne ainsi que d’autres techniques qui sont consensuelles et informelles. Bien entendu, cela peut et doit inclure des congrès, des séminaires, des cours, des réunions de groupes d’étude et d’autres types de rassemblements volontaires, sans recourir à la publicité de masse ou à d’autres formes de publicité destinées à la population générale. Dans la section 6 du document 52, un Puissant Messager nous informe que :
 
-> _Même sur les mondes évolutionnaires normaux, il n’est pas facile de réaliser la fraternité mondiale des hommes. Sur une planète comme Urantia où règnent la confusion et le désordre, cet accomplissement demande beaucoup plus de temps et nécessite un effort bien plus grand. (Présenté par un Puissant Messager)_ <a id="a118_289"></a>[[LU 52:6.2](/fr/The_Urantia_Book/52#p6_2)]
+> _Même sur les mondes évolutionnaires normaux, il n’est pas facile de réaliser la fraternité mondiale des hommes. Sur une planète comme Urantia où règnent la confusion et le désordre, cet accomplissement demande beaucoup plus de temps et nécessite un effort bien plus grand. (Présenté par un Puissant Messager)_ <a id="a119_313"></a>[[LU 52:6.2](/fr/The_Urantia_Book/52#p6_2)]
 
 ---
 
@@ -104,6 +128,31 @@ En gardant tout cela à l’esprit, je conseille la patience et la persistance, 
 - [Cet article](https://urantia-association.org/heritage-et-inspiration/?lang=fr)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/editors_note_may_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Note du rédacteur en chef – mai 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Christopher_Ross/the_what_book">
+          <span class="pr-2">Le livre de quoi ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

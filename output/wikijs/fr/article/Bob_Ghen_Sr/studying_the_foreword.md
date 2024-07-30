@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Bob Ghen<br>© 2016 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/the_rehabilitation_of_urantia_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La réhabilitation d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-février-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Février 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left" alt="The UB with tree">
@@ -53,17 +74,17 @@ Pour les besoins de la cause, ce mot représente une augmentation de notre âme,
 
 En fait, nous sommes encouragés par les révélateurs à faire tous nos efforts pour comprendre.  Voici quelques citations qui s’y rapportent :
 
-> _La ***compréhension*** progressive de la réalité équivaut à s’approcher de Dieu._ <a id="a75_91"></a>[[LU 196:3.3](/fr/The_Urantia_Book/196#p3_3)] (gras ajouté)
+> _La ***compréhension*** progressive de la réalité équivaut à s’approcher de Dieu._ <a id="a76_85"></a>[[LU 196:3.3](/fr/The_Urantia_Book/196#p3_3)] (gras ajouté)
 > 
-> _L’esprit divin établit le contact avec l’homme mortel, non par des sentiments ou des émotions, mais ***dans le domaine de la pensée la plus élevée et la plus spiritualisée***. Ce sont vos pensées, et non vos sentiments, qui vous conduisent vers Dieu._ <a id="a77_218"></a>[[LU 101:1.3](/fr/The_Urantia_Book/101#p1_3)] (gras ajouté)
+> _L’esprit divin établit le contact avec l’homme mortel, non par des sentiments ou des émotions, mais ***dans le domaine de la pensée la plus élevée et la plus spiritualisée***. Ce sont vos pensées, et non vos sentiments, qui vous conduisent vers Dieu._ <a id="a78_255"></a>[[LU 101:1.3](/fr/The_Urantia_Book/101#p1_3)] (gras ajouté)
 > 
-> _Peut-être vaudrait-il mieux que ces cercles psychiques de progression des mortels soient dénommés niveaux cosmiques – niveaux ***où effectivement nous saisissons les significations*** et réalisons les valeurs..._ <a id="a79_156"></a>[[LU 110:6.16](/fr/The_Urantia_Book/110#p6_16)] (gras ajouté)
+> _Peut-être vaudrait-il mieux que ces cercles psychiques de progression des mortels soient dénommés niveaux cosmiques – niveaux ***où effectivement nous saisissons les significations*** et réalisons les valeurs..._ <a id="a80_216"></a>[[LU 110:6.16](/fr/The_Urantia_Book/110#p6_16)] (gras ajouté)
 > 
-> _Il est utile à l’homme, pour son orientation cosmique, d’arriver à ***comprendre***, aussi bien que possible, les rapports de la Déité avec le cosmos._ <a id="a81_126"></a>[[LU 118:1.1](/fr/The_Urantia_Book/118#p1_1)] (gras ajouté)
+> _Il est utile à l’homme, pour son orientation cosmique, d’arriver à ***comprendre***, aussi bien que possible, les rapports de la Déité avec le cosmos._ <a id="a82_155"></a>[[LU 118:1.1](/fr/The_Urantia_Book/118#p1_1)] (gras ajouté)
 > 
-> _IL ne suffit pas que le mortel ascendant ait des notions sur les relations de la Déité avec la genèse et les manifestations de la réalité cosmique. Il devrait aussi **comprendre** quelque chose des relations existant entre lui-même et les nombreux niveaux de réalités existentielles et expérientielles, de réalités potentielles et actuelles. L’orientation de l’homme sur terre, sa clairvoyance cosmique et l’orientation de sa conduite spirituelle sont toutes rehaussées par une meilleure **compréhension** des réalités de l’univers et de leurs techniques d’interassociation, d’intégration et d’unification._ <a id="a83_570"></a>[[LU 106:0.1](/fr/The_Urantia_Book/106#p0_1)] (gras ajouté)
+> _IL ne suffit pas que le mortel ascendant ait des notions sur les relations de la Déité avec la genèse et les manifestations de la réalité cosmique. Il devrait aussi **comprendre** quelque chose des relations existant entre lui-même et les nombreux niveaux de réalités existentielles et expérientielles, de réalités potentielles et actuelles. L’orientation de l’homme sur terre, sa clairvoyance cosmique et l’orientation de sa conduite spirituelle sont toutes rehaussées par une meilleure **compréhension** des réalités de l’univers et de leurs techniques d’interassociation, d’intégration et d’unification._ <a id="a84_611"></a>[[LU 106:0.1](/fr/The_Urantia_Book/106#p0_1)] (gras ajouté)
 > 
-> _L’aptitude à **comprendre** est le passeport des mortels pour le Paradis._ <a id="a85_70"></a>[[LU 26:4.15](/fr/The_Urantia_Book/26#p4_15)] (gras ajouté)
+> _L’aptitude à **comprendre** est le passeport des mortels pour le Paradis._ <a id="a86_78"></a>[[LU 26:4.15](/fr/The_Urantia_Book/26#p4_15)] (gras ajouté)
 
 ## De nouveaux horizons révélés
 
@@ -85,3 +106,25 @@ Pour sûr, une étude concentrée de l’Introduction est l’un des investissem
 - [Ce numéro](https://urantia-association.org/newsletter/journal-fevrier-2016/?lang=fr)
 - [Cet article](https://urantia-association.org/de-letude-de-lintroduction-au-livre-durantia/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/the_rehabilitation_of_urantia_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La réhabilitation d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-février-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Février 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

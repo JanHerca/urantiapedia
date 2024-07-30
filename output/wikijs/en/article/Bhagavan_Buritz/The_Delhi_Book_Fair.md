@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Bhagavan Buritz<br>© 1999 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Seppo_Kanerva/What_UB_Instruct_Dissemination_of_Its_Teachings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What does The Urantia Book Instruct Concerning the Dissemination of its Teachings?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dorothy_Elder/A_Report_on_UBIS">
+          <span class="pr-2">A Report on _The Urantia Book_ Internet School</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bhagavan S. Buritz, Hawaii, USA
 
@@ -72,7 +96,7 @@ Mostly I let the book speak for itself. I had these guests read directly from th
 
 One extended conversation was with two men in their early twenties. They were law students and somewhat “nerdy.” They wanted to debate and argue. They presented themselves as atheists. I said, “You are obviously very intelligent young men and as law students must have a highly developed sense of logic. Lawyers have to prove things based on evidence. How do you prove the nonexistence of something? What do you use for evidence? I am a witness to the existence of God, but I cannot offer proof, because God is Spirit.” Ten minutes in this vein and they agreed that they were agnostics.
 
-Then the hard work began. We talked for about thrèe hours. The discussion ranged from the nature of evil and its cause, to the experience of reality within the mind of man. _The Urantia Book_ answered many of their questions. I shared my experience of the Beloved, the Creator of Love and Compassion-the Absolute of Love, Beauty and Goodness. In the back of my mind I felt that the more they argued the more that they wanted to believe. (_The argumentative defense of any proposition is inversely proportional to the truth contained._ [UB 48:7.30](/en/The_Urantia_Book/48#p7_30)) Near the end they shared that they saw humans as vultures. I sensed that the poverty around them moved them greatly.
+Then the hard work began. We talked for about thrèe hours. The discussion ranged from the nature of evil and its cause, to the experience of reality within the mind of man. _The Urantia Book_ answered many of their questions. I shared my experience of the Beloved, the Creator of Love and Compassion-the Absolute of Love, Beauty and Goodness. In the back of my mind I felt that the more they argued the more that they wanted to believe. (_The argumentative defense of any proposition is inversely proportional to the truth contained._ <a id="a98_535"></a>[UB 48:7.30](/en/The_Urantia_Book/48#p7_30)) Near the end they shared that they saw humans as vultures. I sensed that the poverty around them moved them greatly.
 
 There is a Darwinian struggle for survival in India. I also leamed that they were the kids that were picked on in school. Finally they asked, “How can we talk to God like you do?” I said, “Find a quiet place in nature or in a bathroom, or car or anywhere. Let the mind be quiet.” Then I knocked loudly three times on the table. I said, “Picture in your mind that you are knocking on God's Door. Before your hand touches His Door He will answer. Do this three different times over the course of a week or two.” What happened to them? The Friend has opened the Door already and welcomed them to the wedding feast.
 
@@ -119,3 +143,27 @@ People ask me how I can stand the poverty of India. I say what is surprising is 
 My Yoga teacher, Swami Satchidananda says Seva, Karma Yoga, Selfless Service, is the fastest Yoga—the fastest way to God. Imagine doing the best you can, with no way to fail—the results are His responsibility. Spending days talking to people about the Fatherhood of God and the Brotherhood of Man is a transforming, awakening and enlightening experience.
 
 I highly recommend it.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Seppo_Kanerva/What_UB_Instruct_Dissemination_of_Its_Teachings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What does The Urantia Book Instruct Concerning the Dissemination of its Teachings?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dorothy_Elder/A_Report_on_UBIS">
+          <span class="pr-2">A Report on _The Urantia Book_ Internet School</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

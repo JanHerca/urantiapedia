@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Patty McGrath<br>© 2020 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rick_Lyon/benign_virus_of_love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Virus Bénin de l’Amour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stuart_R_Kerr_III/soul_rebirth">
+          <span class="pr-2">La renaissance de l’âme et le mental morontiel (de l’âme)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _(Transcrit et édité à partir d’une présentation en ligne donnée lors de l’événement “Urantia-24 heures” le 21 mars 2020)_
@@ -20,9 +44,9 @@ _(Transcrit et édité à partir d’une présentation en ligne donnée lors de 
 C’est en début d’après-midi, à la mi-janvier de l’an 27, que Jésus appela les apôtres à quitter leurs filets de pêche près des côtes de Galilée et les conduisit sur les hauts plateaux au nord de Capharnaüm. Les douze choisis étaient sur le point d’être ordonnés prédicateurs publics de l’évangile du royaume. Alors qu’André, Simon Pierre, Jacques et Jean Zébédée, Philippe, Nathanael, Matthieu, Thomas, Jacques et Jude Alphée, Simon Zélotès et Judas Iscariote étaient assis autour de Jésus, il leur dit :
 <br style="clear:both;"/>
 
-> _C’est moins par les paroles que vous prononcerez, mais plutôt par la vie que vous vivrez, que les hommes sauront que vous avez été avec moi et que vous avez appris les réalités du royaume_ <a id="a45_169"></a>[[LU 140:1.7](/fr/The_Urantia_Book/140#p1_7)]
+> _C’est moins par les paroles que vous prononcerez, mais plutôt par la vie que vous vivrez, que les hommes sauront que vous avez été avec moi et que vous avez appris les réalités du royaume_ <a id="a46_192"></a>[[LU 140:1.7](/fr/The_Urantia_Book/140#p1_7)]
 
-Puis les douze s’agenouillèrent en cercle autour de lui et il les ordonna chacun en une cérémonie solennelle et sacrée _plaçant les affaires de la fraternité divine des hommes sous la direction de penseurs humains._ <a id="a47_191"></a>[[LU 140:2.3](/fr/The_Urantia_Book/140#p2_3)].
+Puis les douze s’agenouillèrent en cercle autour de lui et il les ordonna chacun en une cérémonie solennelle et sacrée _plaçant les affaires de la fraternité divine des hommes sous la direction de penseurs humains._ <a id="a48_216"></a>[[LU 140:2.3](/fr/The_Urantia_Book/140#p2_3)].
 
 Jésus leur parla alors en disant :
 
@@ -42,7 +66,7 @@ Jésus leur parla alors en disant :
 > 
 > _Heureux les pacificateurs, car on les appellera les fils de Dieu._
 > 
-> _Heureux les persécutés à cause de leur droiture, car le royaume des cieux leur appartient. Soyez heureux quand les hommes vous insulteront et vous persécuteront et diront faussement toutes sortes de méchancetés contre vous. Réjouissez-vous et soyez dans un bonheur extrême, car votre récompense sera grande dans les cieux._ <a id="a67_185"></a>[[LU 140:3.3-11](/fr/The_Urantia_Book/140#p3_3)]
+> _Heureux les persécutés à cause de leur droiture, car le royaume des cieux leur appartient. Soyez heureux quand les hommes vous insulteront et vous persécuteront et diront faussement toutes sortes de méchancetés contre vous. Réjouissez-vous et soyez dans un bonheur extrême, car votre récompense sera grande dans les cieux._ <a id="a68_327"></a>[[LU 140:3.3-11](/fr/The_Urantia_Book/140#p3_3)]
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Journal/Israel-Highlands-man-and-sun-screen-300x173.jpg">
@@ -75,7 +99,7 @@ Les béatitudes sont une attitude à cultiver – une philosophie de la vie quot
 
 Il serait peut-être préférable de le formuler ainsi : Heureux ceux qui ont le mental ouvert, ceux qui peuvent être enseignés et ceux qui cherchent la vérité.
 
-Il y a une raison pour que Jésus commence les béatitudes avec celle-ci. Nous devons être prêts à ouvrir notre mental à la croissance et au changement spirituel. Lorsque Jésus était à Rome, lui et Ganid rencontrèrent un homme qui n’avait pas faim de vérité et Jésus n’engagea pas de conversation avec lui. Il dit à Ganid : _Tu ne peux pas révéler Dieu à ceux qui ne le cherchent pas ; tu ne peux pas conduire des âmes réticentes aux joies du salut._ <a id="a98_409"></a>[[LU 132:7.2](/fr/The_Urantia_Book/132#p7_2)] Nous devons VOULOIR apprendre afin de grandir en esprit. Nos vies seraient plus heureuses si nous acceptions que nous sommes « pauvres en esprit » – que nous devons rechercher des vérités intellectuelles et spirituelles.
+Il y a une raison pour que Jésus commence les béatitudes avec celle-ci. Nous devons être prêts à ouvrir notre mental à la croissance et au changement spirituel. Lorsque Jésus était à Rome, lui et Ganid rencontrèrent un homme qui n’avait pas faim de vérité et Jésus n’engagea pas de conversation avec lui. Il dit à Ganid : _Tu ne peux pas révéler Dieu à ceux qui ne le cherchent pas ; tu ne peux pas conduire des âmes réticentes aux joies du salut._ <a id="a101_449"></a>[[LU 132:7.2](/fr/The_Urantia_Book/132#p7_2)] Nous devons VOULOIR apprendre afin de grandir en esprit. Nos vies seraient plus heureuses si nous acceptions que nous sommes « pauvres en esprit » – que nous devons rechercher des vérités intellectuelles et spirituelles.
 
 On ne peut pas enseigner à ceux qui pensent avoir toutes les réponses. C’est pourquoi Jésus dit que nous devrions « devenir comme des petits enfants ». Les petits enfants reconnaissent qu’ils ne comprennent pas ce qu’ils perçoivent, et ils se demandent donc ce que cela signifie. Le mental des enfants est malléable, il peut être enseigné ; ils veulent apprendre. Ils savent qu’ils n’ont pas toutes les réponses. Les enfants veulent trouver la bonne façon de faire les choses. Avoir le mental ouvert, c’est aussi être prêt à admettre quand on fait une erreur et à réessayer avec bonne humeur. Nous devons avoir envie d’apprendre et de grandir spirituellement.
 
@@ -107,7 +131,7 @@ Peut être reformulé ainsi : Heureux ceux qui sont naturellement confiants enve
 
 Il n’y a pas un instant où vous n’êtes pas un enfant de Dieu, pas plus qu’il n’y a un instant où votre frère ne l’est pas. Pour vraiment réaliser que nous sommes des enfants de Dieu, nous devons étendre cette croyance à d’autres – pour voir Dieu en eux malgré leur comportement à tout moment. Peu importe ce que vous croyez, vous ne pouvez pas changer la réalité. Vous êtes un enfant de Dieu et votre frère aussi, même si vous percevez qu’il ou elle se comporte mal. Lorsque nous recherchons le meilleur chez nos semblables, nous le trouvons en eux et en nous-mêmes. Nous pouvons inspirer les autres par notre confiance en eux pour qu’ils réalisent leur plein potentiel. La vérité est toujours plus forte que l’erreur. Attendez-vous à voir le bien chez les autres.
 
-Nous ne rendons pas les autres meilleurs en leur disant à quel point ils sont mauvais. C’est particulièrement vrai pour nos enfants. Lorsque nous acquérons une vision spirituelle, nous aimons les autres avec un amour paternel, comme Dieu les aime. Le commandement final, Jésus l’a donné la nuit avant sa mort, **_Aimez-vous les uns les autres comme je vous ai aimés_** <a id="a132_303"></a>[[LU 180:6.1](/fr/The_Urantia_Book/180#p6_1), gras ajouté]. Prenons la résolution de comprendre et de connaître nos frères comme des fils bien-aimés de Dieu, quel que soit leur comportement.
+Nous ne rendons pas les autres meilleurs en leur disant à quel point ils sont mauvais. C’est particulièrement vrai pour nos enfants. Lorsque nous acquérons une vision spirituelle, nous aimons les autres avec un amour paternel, comme Dieu les aime. Le commandement final, Jésus l’a donné la nuit avant sa mort, **_Aimez-vous les uns les autres comme je vous ai aimés_** <a id="a133_369"></a>[[LU 180:6.1](/fr/The_Urantia_Book/180#p6_1), gras ajouté]. Prenons la résolution de comprendre et de connaître nos frères comme des fils bien-aimés de Dieu, quel que soit leur comportement.
 
 Les quatre béatitudes suivantes soulignent les réactions d’un amour paternel, l’amour de Jésus, envers les autres.
 
@@ -151,7 +175,7 @@ Peut être reformulé ainsi : Heureux ceux qui sont fidèles à la vérité, à 
 
 L’évangile de Jésus n’est pas pour les mauviettes. Il nous dit :
 
-> _Aimez vos ennemis, faites du bien à ceux qui vous haïssent, bénissez ceux qui vous maudissent, et priez pour ceux qui se servent de vous avec dédain. Faites aux hommes tout ce que vous croyez que je leur aurais fait._ <a id="a180_197"></a>[[LU 140:3.15](/fr/The_Urantia_Book/140#p3_15)].
+> _Aimez vos ennemis, faites du bien à ceux qui vous haïssent, bénissez ceux qui vous maudissent, et priez pour ceux qui se servent de vous avec dédain. Faites aux hommes tout ce que vous croyez que je leur aurais fait._ <a id="a177_221"></a>[[LU 140:3.15](/fr/The_Urantia_Book/140#p3_15)].
 
 Lorsque quelqu’un vous insulte ou fait des commentaires dans votre dos et vous cause un grave préjudice professionnel ou relationnel, vous êtes censé répondre avec amour et pardon.
 
@@ -184,7 +208,7 @@ Prenons la résolution de pratiquer ces attitudes et préparons notre mental par
 
 Notre Père nous demande de « faire le bien ». Au fur et à mesure que les petites expressions de son amour nous traversent pour aller vers les autres, nous devenons plus conscients de l’amour qui existe en nous. Contrairement aux choses physiques, les éléments intangibles de l’amour, de la compréhension, de la bonté, du courage, de la loyauté et de la confiance ne s’accroissent que s’ils sont donnés. Pour savoir que vous avez de l’amour, dispensez-le.
 
-> c’est par la vie que vous vivrez, que les hommes sauront que vous avez été avec moi et que vous avez appris les réalités du royaume <a id="a211_117"></a>[[LU 140:1.7](/fr/The_Urantia_Book/140#p1_7)]
+> c’est par la vie que vous vivrez, que les hommes sauront que vous avez été avec moi et que vous avez appris les réalités du royaume <a id="a210_134"></a>[[LU 140:1.7](/fr/The_Urantia_Book/140#p1_7)]
 
 Face aux défis du 21e siècle, ces lignes directrices sont là pour que nous nous en souvenions dans notre vie quotidienne.
 
@@ -200,3 +224,28 @@ Alors que nous enseignons l’amour, nous apprenons aussi que nous sommes les en
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2020/?lang=fr)
 - [Cet article](https://urantia-association.org/les-beatitudes-revisitees-une-philosophie-de-vie/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rick_Lyon/benign_virus_of_love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Virus Bénin de l’Amour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stuart_R_Kerr_III/soul_rebirth">
+          <span class="pr-2">La renaissance de l’âme et le mental morontiel (de l’âme)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

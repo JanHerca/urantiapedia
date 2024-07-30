@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 George Michelson-Dupont<br>© 1999 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Bloomfield/China_Reasons_to_be_Cheerful">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">China: razones para estar alegre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neal_Waldrop/Seeing_Scientists_As_Partners">
+          <span class="pr-2">Ver a los científicos como socios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 EXTRACTOS DE UN INFORME DE
 
@@ -45,7 +69,7 @@ Allá por la década de 1950, los Reveladores aconsejaron a los primeros lídere
 - La presencia de un líder habitado por el Espíritu sabio, paciente, perseverante, educado, respetado, respetuoso, amoroso, mostrando los frutos del Espíritu en su vida diaria y movido por el deseo de servicio desinteresado.
 - La práctica de un método sabio basado en los métodos de Jesús para introducir nuevas verdades al individuo: respeto por los creyentes individuales, un enfoque positivo y amoroso, expansión metódica de la comprensión, presentando nuevas verdades paso a paso, mostrando la nueva luz con « sabiduría y discreción».
 
-Dijo Jesús a sus apóstoles: _Amados míos, siempre debéis hacer una diferencia en la enseñanza para que se adapte a vuestra presentación de la verdad a las mentes y los corazones que están delante de vosotros_ [LU 151:3.1](/es/The_Urantia_Book/151#p3_1).
+Dijo Jesús a sus apóstoles: _Amados míos, siempre debéis hacer una diferencia en la enseñanza para que se adapte a vuestra presentación de la verdad a las mentes y los corazones que están delante de vosotros_ <a id="a71_209"></a>[LU 151:3.1](/es/The_Urantia_Book/151#p3_1).
 
 ## El viaje a Senegal
 
@@ -66,3 +90,27 @@ Georges Michelson-Dupont, su esposa y Richard Keeler, habiendo oído informes so
 “No se puede obligar a un caballo a beber, pero sí se le puede provocar sed, dicen los sabios. Por nuestro sabor espiritual podemos atraer a nuestros semejantes hacia nuevas verdades.
 
 «Estamos plantando semillas pero no debemos esperar cosechar, porque ese es el privilegio y el deleite de Dios, y si lo amamos queremos que él esté encantado».
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Bloomfield/China_Reasons_to_be_Cheerful">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">China: razones para estar alegre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neal_Waldrop/Seeing_Scientists_As_Partners">
+          <span class="pr-2">Ver a los científicos como socios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

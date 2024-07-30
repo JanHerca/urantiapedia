@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Carolyn Kendall<br>© 2000 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/2000_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Junio 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-junio-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Junio 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neal_Waldrop/Millenium">
+          <span class="pr-2">Milenio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Presentado en la ceremonia del 50 aniversario de la creación de la Fundación Urantia,
 Chicago, sábado 18 de marzo del 2000
@@ -28,7 +52,7 @@ Miguel llegó a nuestro mundo en el año 7 a. de JC. Su primera misión fue alca
 
 _El libro de Urantia_, la revelación de la quinta época, en su corta historia de 45 años, ha acumulado fantásticas leyendas en torno a su origen. No ha sido traído a la Tierra por extraterrestres en naves espaciales. No se materializó en un casillero de consigna de Detroit. No fue descubierto en la cámara acorazada de un banco de Chicago. La revelación de Urantia se concibió en el tablero de diseño en épocas tan lejanas como las Eras Medias. Esta revelación fue única en su manifestación; su origen fue ciertamente misterioso, y los sucesos que lo acompañaron fueron legendarios, pero no ha sido presentada al mundo como una entidad huérfana -a merced de la corriente, sin plan, propósito o dirección. Un grupo de medianos, ajenos al legado de rebelión y rebeldía, solicitaron a altas autoridades universales la oportunidad de contar el relato **completo** sobre la historia de nuestro planeta, la inspiradora presentación del universo y su rango de personalidades, la **verdadera** historia de la vida de Jesús en la Tierra, y el plan para la venida de la siguiente orden de Filiación en nuestro mundo. Una revelación en **forma de libro** nunca ha sido intentada en nuestro universo local de Nebadon.
 
-En la página [LU 21:5.9](/es/The_Urantia_Book/21#p5_9), el libro afirma: _Un Hijo Mayor puede a su voluntad cambiar el orden de la adjudicación espiritual y del ajuste evolutivo de los planetas habitados_. Él puede hacer y llevar a cabo planes de su propia elección, en particular concernientes a los mundos de sus donaciones, _y más aún respecto al mundo de su última donación_. Fue el propio Miguel quien aprobó el prototipo: La **Palabra** hecha **Libro**.
+En la página <a id="a54_13"></a>[LU 21:5.9](/es/The_Urantia_Book/21#p5_9), el libro afirma: _Un Hijo Mayor puede a su voluntad cambiar el orden de la adjudicación espiritual y del ajuste evolutivo de los planetas habitados_. Él puede hacer y llevar a cabo planes de su propia elección, en particular concernientes a los mundos de sus donaciones, _y más aún respecto al mundo de su última donación_. Fue el propio Miguel quien aprobó el prototipo: La **Palabra** hecha **Libro**.
 
 Esto puede o no ser una revelación de emergencia como la de Melquisedec. Al contrario que en su día, el concepto de Dios está vivo y bien de salud. _El Libro de Urantia_ busca remediar las pérdidas de la cultura de Dalamatia del Príncipe Planetario, la primera revelación de época hace 500.000 años, la cual se perdió con la rebelión y deslealtad. Reintroduce los principios biológicos de la llegada de Adán, la segunda gran revelación, hace 37.000 años, otra pérdida debida a la falta de sus dos principales personalidades asociadas con esta donación. _El Libro de Urantia_ es el precursor de sucesos incluso más grandes que bendecirán nuestro planeta en algún momento del futuro.
 
@@ -44,7 +68,7 @@ El regente asumió la dirección de la revelación Urantia, esbozando cómo deb�
 
 Uno podría imaginar a los reveladores y supervisores planetarios como operando entre bastidores en un gran teatro. Hay directores y administradores que están inhibidos ahora; pero cuyas voces no fueron tan silenciosas en el pasado. Hay tramoyistas y técnicos de luz y sonido. Tras esbozarse el borrador, los dramaturgos gastaron hasta veinte años puliendo las líneas y asegurándose que los actores humanos ensayaran, aprendiesen sus entradas y entrenasen a sus suplentes. Hay un alto propósito en este drama de época, y está claramente presentado en el propio guión. El mundo no verá un fin. El planeta no se consumirá en fuego, nuclear o de otro tipo. Satán y Lucifer no reclamarán nuestra población errante. Caligastía no controlará nuestras mentes y almas. Hay previsto un plan mucho mejor para todos nosotros.
 
-Jesús prometió que una _manifestación mejorada de rectitud y una revelación ampliada de la verdad será enviada por el Padre_ ([LU 176:2.3](/es/The_Urantia_Book/176#p2_3)). Este mostrador de rectitud será un Hijo Avonal, o los Hijos Instructores de la Trinidad, o todos los tres seres otorgados de una vez: un Avonal, Instructores de la Trinidad **y** el propio Miguel en una visita de vuelta. La vanguardia de los Hijos Instructores ya están aquí reconociendo el terreno, preparando nuestra elevación. Se nos ha prometido en el libro que estas visitaciones **ocurrirán**; no hay duda sobre ellos. Mientras que es altamente dudoso que cualquiera de nosotros viva para verlo, **tenemos importante trabajo que hacer en años futuros preparando este espectáculo venidero**.
+Jesús prometió que una _manifestación mejorada de rectitud y una revelación ampliada de la verdad será enviada por el Padre_ (<a id="a70_126"></a>[LU 176:2.3](/es/The_Urantia_Book/176#p2_3)). Este mostrador de rectitud será un Hijo Avonal, o los Hijos Instructores de la Trinidad, o todos los tres seres otorgados de una vez: un Avonal, Instructores de la Trinidad **y** el propio Miguel en una visita de vuelta. La vanguardia de los Hijos Instructores ya están aquí reconociendo el terreno, preparando nuestra elevación. Se nos ha prometido en el libro que estas visitaciones **ocurrirán**; no hay duda sobre ellos. Mientras que es altamente dudoso que cualquiera de nosotros viva para verlo, **tenemos importante trabajo que hacer en años futuros preparando este espectáculo venidero**.
 
 ## Mientras tanto
 
@@ -88,7 +112,7 @@ Uno de los grandes fenómenos dentro del Nuevo Testamento se habría beneficiado
 
 Los reveladores nos indicaron no apresurarnos a proclamar _El Libro de Urantia_ -el mundo no estaba preparado en 1955 para empezar su búsqueda de la virtud. El libro se planeó para arraigar después que la situación de caos político mundial pasara. Aconsejaron: En el tiempo intermedio sed pacientes, construid gradualmente —entrenad instructores, preparad líderes, traducir el libro; **y** estableced miles de **grupos de estudio**. Ellos **no** dijeron: Organizad miles de sociedades Urantia. Ellos no dijeron: Estableced una élite jerárquica de líderes que sepan lo que es mejor para las masas. Ellos **no** dijeron: Cread una nueva iglesia, una que os separe de otros religiosos, y erigid obstáculos que nuevos creyentes tengan que saltar. Se sugirió que estudiásemos la organización de Jesús, **su simplicidad**.
 
-_El Libro de Urantia_ promete que más pronto o _más tarde otro y más grande Juan el Bautista se espera aparecer proclamando «el reino de Dios está cerca»_ [LU 170:5.19](/es/The_Urantia_Book/170#p5_19), y se aseguró a los comisarios de contacto que algún día un gran maestro religioso se presentará para abarcar las enseñanzas de _El Libro de Urantia_. Cuando aparezca un gran maestro humano, se requerirá sabiduría para no traspasar los reinos de control administrativo hacia esta única persona. El liderazgo debe continuar propagándose, no concentrarse en una sola persona, considerando que un maestro inspirado y dinámico puede trastocar vidas y acercar muchas almas al Padre.
+_El Libro de Urantia_ promete que más pronto o _más tarde otro y más grande Juan el Bautista se espera aparecer proclamando «el reino de Dios está cerca»_ <a id="a114_155"></a>[LU 170:5.19](/es/The_Urantia_Book/170#p5_19), y se aseguró a los comisarios de contacto que algún día un gran maestro religioso se presentará para abarcar las enseñanzas de _El Libro de Urantia_. Cuando aparezca un gran maestro humano, se requerirá sabiduría para no traspasar los reinos de control administrativo hacia esta única persona. El liderazgo debe continuar propagándose, no concentrarse en una sola persona, considerando que un maestro inspirado y dinámico puede trastocar vidas y acercar muchas almas al Padre.
 
 ## Prioridades
 
@@ -103,3 +127,27 @@ Cuando los pacientes en su práctica psiquiátrica se quejaban de lo que hoy lla
 5. Los pequeños problemas de la vida.
 
 Necesitamos reflexionar sobre qué porcentaje de las actividades de Urantia realmente caen en la categoría de «dificultades de la vida», y qué porcentaje es vital al prepararnos para la siguiente etapa de progresión planetaria.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/2000_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Junio 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-junio-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Junio 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neal_Waldrop/Millenium">
+          <span class="pr-2">Milenio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

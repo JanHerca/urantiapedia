@@ -9,13 +9,37 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Jeffrey Wattles<br>© 2000 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeanmarie_Chaise/You_say_The_fifth_epochal_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">You say: The fifth epochal revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/The_Importance_of_Worship_and_Prayer">
+          <span class="pr-2">The Importance of Worship and Prayer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jeffrey Wattles
 Stowe, Ohio, USA
 
 Booklet 195 gives clear indications for the reorganization of the world. First of all, new teachers of the religion of Jesus exclusively dedicated to the spiritual regeneration of humanity are indispensable, who by triggering a spiritual renaissance will bring forth leaders for social, economic and political restructuring. Therefore, while taking advantage of opportunities by sharing ideas on all kinds of topics with selected individuals who are ready to use them, for us the first priority will be to convey a spiritual message.
 
-What message should we bring? The answer is not as obvious as it seems, because the message adapts to the needs of the moment. We are told that for each generation the Spirit of Truth formulates anew the message of Jesus to effectively resolve our _varied and constantly renewed spiritual difficulties_ [[UB 194:2.1](/en/The_Urantia_Book/194#p2_1)]. What are these difficulties, and how is the Spirit of Truth rephrasing the message today? I only have the beginnings of an answer, but I believe we can learn a lot about today's needs from the book itself.
+What message should we bring? The answer is not as obvious as it seems, because the message adapts to the needs of the moment. We are told that for each generation the Spirit of Truth formulates anew the message of Jesus to effectively resolve our _varied and constantly renewed spiritual difficulties_ <a id="a41_303"></a>[[UB 194:2.1](/en/The_Urantia_Book/194#p2_1)]. What are these difficulties, and how is the Spirit of Truth rephrasing the message today? I only have the beginnings of an answer, but I believe we can learn a lot about today's needs from the book itself.
 
 It is easy to make a list of the problems facing people today. It takes work to discern the spiritual difficulties implicit in these problems and to think about the pathways leading to these spiritual difficulties in relation to the teachings of Jesus.
 
@@ -35,9 +59,9 @@ Note that you cannot judge your accuracy in discerning spiritual needs by the ap
 
 ## Find spiritual difficulties in other problems
 
-There are spiritual difficulties in social, economic and political problems. In the chapter entitled “The Post-Bestowal Age on Urantia”, we are told that the realization of social brotherhood depends on various personal transformations as well as planetary adjustments in social brotherhood, in cross-fertilization of thought, in awakening ethics, political wisdom and spiritual insight ([UB 52:6.1-8](/en/The_Urantia_Book/52#p6_1)). In particular, social fraternity is handicapped by ignorance, lack of interaction and impatience. Does Jesus' message implicitly address these issues? Of course he does. When you see ignorance, lack of interaction, and impatience in yourself and others, you can pray to cooperate with and when the Spirit of Truth ministers to these problems, prompting social action and a clear vision of the future of the kingdom of heaven.
+There are spiritual difficulties in social, economic and political problems. In the chapter entitled “The Post-Bestowal Age on Urantia”, we are told that the realization of social brotherhood depends on various personal transformations as well as planetary adjustments in social brotherhood, in cross-fertilization of thought, in awakening ethics, political wisdom and spiritual insight (<a id="a61_388"></a>[UB 52:6.1-8](/en/The_Urantia_Book/52#p6_1)). In particular, social fraternity is handicapped by ignorance, lack of interaction and impatience. Does Jesus' message implicitly address these issues? Of course he does. When you see ignorance, lack of interaction, and impatience in yourself and others, you can pray to cooperate with and when the Spirit of Truth ministers to these problems, prompting social action and a clear vision of the future of the kingdom of heaven.
 
-Another social, economic and political problem is that posed by _those who do not have capital and always expect to be fed by those who do_ [[UB 52:6.1](/en/The_Urantia_Book/52#p6_1)]. Note that there is an implicit spiritual difficulty here. Jesus met people with radiant faith strengthening their souls, enabling them to solve their problems. In past generations, the vigor of Jesus' life and teachings were much better understood than today. Our path is clear. One of the difficulties we face today is that people lack religious teachers with an infectious religious faith.
+Another social, economic and political problem is that posed by _those who do not have capital and always expect to be fed by those who do_ <a id="a63_140"></a>[[UB 52:6.1](/en/The_Urantia_Book/52#p6_1)]. Note that there is an implicit spiritual difficulty here. Jesus met people with radiant faith strengthening their souls, enabling them to solve their problems. In past generations, the vigor of Jesus' life and teachings were much better understood than today. Our path is clear. One of the difficulties we face today is that people lack religious teachers with an infectious religious faith.
 
 Not having a general spiritual vision for men and women of all races, we are incapable of intelligently confronting both the complementarities and the differences between groups of individuals, and we forcefully convey the message of equality through the channels of politicized social science and through a rhetoric of diversity which mixes legitimate ethical relationships with the refusal to face the facts.
 
@@ -45,7 +69,7 @@ The modern world needs leaders and people who can work as a team; but leadership
 
 We face the challenge of an aging population that needs neither neglect nor pity. Jesus showed that the manner of death can lead others into the kingdom.
 
-Today we have to face ethical problems. Our society _totters by our guilt which tolerates science without idealism, politics without principles, fortune without work, pleasure without restraint, knowledge without character, power without conscience and industry without morality_ [[UB 195:10.20](/en/The_Urantia_Book/195#p10_20)]. And our generation is showing itself with new intolerable behaviors. We must learn the wise, constructive and effective exercise of intolerance.
+Today we have to face ethical problems. Our society _totters by our guilt which tolerates science without idealism, politics without principles, fortune without work, pleasure without restraint, knowledge without character, power without conscience and industry without morality_ <a id="a71_280"></a>[[UB 195:10.20](/en/The_Urantia_Book/195#p10_20)]. And our generation is showing itself with new intolerable behaviors. We must learn the wise, constructive and effective exercise of intolerance.
 
 Moral and ethical issues have philosophical and spiritual roots. The fallacy thrives in today's climate of relativism — the belief that in serious issues there is no truth, just opinion. You have your opinion, I have mine, and so everyone should be free to act according to their point of view. Today we see the promulgation of brazen, aggressive, well-funded follies coupled with intelligent arguments that raise serious questions for those who have the responsibility to uphold the path of wisdom. It is easier to attack than to defend, and there are limits to anyone's ability to prove a point of view. There is thus a need for specialists in the various fields where expertise is required to respond to the incessant fallacies.
 
@@ -77,4 +101,28 @@ They are not students of the _Urantia Book_. They are ordinary men and women, mo
 
 ## If desire is supreme
 
-Jesus taught that the persistent preaching of this gospel of the kingdom would one day bring to all nations new and incredible liberation, intellectual freedom and religious liberation [[UB 178:1.9](/en/The_Urantia_Book/178#p1_9)]. I have listened to prominent leaders deny that preaching is a valid means of communication for today's readers. I used to correspond with Hindus who went by bicycle with their whole family on Sunday afternoons to visit the inhabitants of neighboring villages to bring them a message of the gospel. When desire is supreme we find a way. When the desire is not supreme, the difficulties are overwhelming. As we dream of ministering to the spiritual difficulties of others, let us not forget to face our own. When we look for the new and greater John the Baptist to guide us and we hope for a new and greater Gautama to awaken India, why don't we ourselves try to be a new and greater Deborah or a Malachi or a Habbakuk? Living prophets, forward!
+Jesus taught that the persistent preaching of this gospel of the kingdom would one day bring to all nations new and incredible liberation, intellectual freedom and religious liberation <a id="a103_185"></a>[[UB 178:1.9](/en/The_Urantia_Book/178#p1_9)]. I have listened to prominent leaders deny that preaching is a valid means of communication for today's readers. I used to correspond with Hindus who went by bicycle with their whole family on Sunday afternoons to visit the inhabitants of neighboring villages to bring them a message of the gospel. When desire is supreme we find a way. When the desire is not supreme, the difficulties are overwhelming. As we dream of ministering to the spiritual difficulties of others, let us not forget to face our own. When we look for the new and greater John the Baptist to guide us and we hope for a new and greater Gautama to awaken India, why don't we ourselves try to be a new and greater Deborah or a Malachi or a Habbakuk? Living prophets, forward!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeanmarie_Chaise/You_say_The_fifth_epochal_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">You say: The fifth epochal revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/The_Importance_of_Worship_and_Prayer">
+          <span class="pr-2">The Importance of Worship and Prayer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Andrés Rodriguez<br>© 2000 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Millenium">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Millenium</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-juin-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Juin 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ralph_Zehr/Disseminating_the_Teachings">
+          <span class="pr-2">Diffusion des enseignements</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Andrés Rodriguez, Colombie
 
@@ -63,3 +87,27 @@ Ce nouvel outil a une fonction triple :
 3. De promouvoir la fraternité parmi les croyants du _Livre d'Urantia_ sans tenir compte des frontières géographiques.
 
 Nous invitons tous nos frères et sœurs de langue espagnole à se joindre à cette nouvelle et fascinante aventure urantienne dans le cyberespace.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Millenium">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Millenium</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-juin-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Juin 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ralph_Zehr/Disseminating_the_Teachings">
+          <span class="pr-2">Diffusion des enseignements</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

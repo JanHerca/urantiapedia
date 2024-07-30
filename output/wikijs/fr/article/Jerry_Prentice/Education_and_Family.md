@@ -9,11 +9,35 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Jerry Prentice<br>© 1999 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Woodward/A_Family_Day_in_Los_Angeles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un Jour En Famille À Los Angeles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mars-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mars 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bob_Slagle/Successful_Families">
+          <span class="pr-2">Des Familles Qui Réussissent</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jerry Prentice
 Missouri, USA
 
-J'ai passé ces quinze dernières années — à ma grande surprise — dans l'éducation à développer des programmes d'étude et à former de jeunes 叉ersonnes pour qu'elles deviennent des membres productifs de la société. Certains étudiants ont soif de connaissance, ils ont des bases, ils ont assez d'autodiscipline pour les acquérir et de valeurs personnelles pour les mettre en pratique avec succès. Beaucoup cependant sortent de nos écoles et quittent leur famille sans aucune, ou si peu, de ces qualités. Pourquoi ? Le problème vient-il du système d'éducation publique ou de la famille ? Je répondrais des deux. Mais, du fait que chacune est essentielle pour l'autre il est impossible de dire quelle est la racine du mal. L'éducation souffre-t-elle de la décomposition de la famille ? Oui. La décomposition de la famille estelle due, du moins en partie, aux échecs de notre système éducatif ? Sans doute. Où que nous mettions la responsabilité, pourtant, pour essayer de trouver une solution en tant que société c'est par l'éducation qu'il nous faut commencer. L'éducation doit être recentrée sur le développement de la personne tout entière — _Un État durable est fondé sur la culture, dominé par des idéaux et motivé par le service. Le but de l'éducation devrait consister à acquérir de l'babileté, rechercher la sagesse, réaliser son individualité et atteindre les valeurs spirituelle_ [[LU 71:7.1](/fr/The_Urantia_Book/71#p7_1)] dont le fondement devrait être une vie de famille appropriée et saine.
+J'ai passé ces quinze dernières années — à ma grande surprise — dans l'éducation à développer des programmes d'étude et à former de jeunes 叉ersonnes pour qu'elles deviennent des membres productifs de la société. Certains étudiants ont soif de connaissance, ils ont des bases, ils ont assez d'autodiscipline pour les acquérir et de valeurs personnelles pour les mettre en pratique avec succès. Beaucoup cependant sortent de nos écoles et quittent leur famille sans aucune, ou si peu, de ces qualités. Pourquoi ? Le problème vient-il du système d'éducation publique ou de la famille ? Je répondrais des deux. Mais, du fait que chacune est essentielle pour l'autre il est impossible de dire quelle est la racine du mal. L'éducation souffre-t-elle de la décomposition de la famille ? Oui. La décomposition de la famille estelle due, du moins en partie, aux échecs de notre système éducatif ? Sans doute. Où que nous mettions la responsabilité, pourtant, pour essayer de trouver une solution en tant que société c'est par l'éducation qu'il nous faut commencer. L'éducation doit être recentrée sur le développement de la personne tout entière — _Un État durable est fondé sur la culture, dominé par des idéaux et motivé par le service. Le but de l'éducation devrait consister à acquérir de l'babileté, rechercher la sagesse, réaliser son individualité et atteindre les valeurs spirituelle_ <a id="a39_1384"></a>[[LU 71:7.1](/fr/The_Urantia_Book/71#p7_1)] dont le fondement devrait être une vie de famille appropriée et saine.
 
 ## L'éducation :
 
@@ -27,23 +51,23 @@ Dans notre zèle en faveur de la liberté religieuse nous avons fait de nos éco
 
 ## Ces problèmes sont-ils sérieux ?
 
-_Toute civilisation est en péril quand les trois quarts de sa jeunesse entrent dans des professions matérialistes et se consacrent à la recherche des activités sensorielles du monde extérieur. La civilisation est en danger quand la jeunesse néglige de s'intéresser à l'éthique, à la sociologie, à l'eugénisme, à la philosophie, aux beaux-arts, à la religion et à la cosmologie._ [[LU 111:4.4](/fr/The_Urantia_Book/111#p4_4)] _La civilisation ne peut guère progresser quand la majorité de la jeunesse d'une génération consacre son attention et son énergie à la poursuite matérialiste du monde sensoriel ou extérieur._ [[LU 111:4.3](/fr/The_Urantia_Book/111#p4_3)]
+_Toute civilisation est en péril quand les trois quarts de sa jeunesse entrent dans des professions matérialistes et se consacrent à la recherche des activités sensorielles du monde extérieur. La civilisation est en danger quand la jeunesse néglige de s'intéresser à l'éthique, à la sociologie, à l'eugénisme, à la philosophie, aux beaux-arts, à la religion et à la cosmologie._ <a id="a53_379"></a>[[LU 111:4.4](/fr/The_Urantia_Book/111#p4_4)] _La civilisation ne peut guère progresser quand la majorité de la jeunesse d'une génération consacre son attention et son énergie à la poursuite matérialiste du monde sensoriel ou extérieur._ <a id="a53_617"></a>[[LU 111:4.3](/fr/The_Urantia_Book/111#p4_3)]
 
 ## Que pouvons-nous faire ?
 
-Nos enfants ont besoin de nouvelles perspectives. Ils ont besoin d'apprendre d'abord à faire, d'acquérir quelque compétence pratique, de vivre de façon responsable, d'évaluer et d'être évalués, ils ont besoin de savoir discriminer. En-suite les concepts abstraits peuvent être appris et appliqués. L'éducation devrait rendre chaque tâche qu'elle soit banale ou importante, plus aisée et plus signifiante. Il nous faut trouver des façons plus effectives d'éduquer nos enfants. _Les insectes naissent pleinement éduqués et équipés pour la vie — une existence en vérité très étriquée et purement instinctive. Le bébé bumain naît sans éducation; les hommes possèdent donc, en contrôlant l'entrainement éducatif des jeunes générations, le pouvoir de modifier considérablement le cours évolutionnaire de la civilisation_ [[LU 81:6.24](/fr/The_Urantia_Book/81#p6_24)]. Pour ce faire, leurs enseignants ont eux aussi besoin de nouvelles perspectives, que ce soit les parents éducateurs ou les maitres à l'école. Il nous faut éduquer les parents et changer la manière dont nous éduquons les enseignants. L'éducation ,qu'elle soit laïque ou religieuse, doit commencer au foyer et avec la famille et continuer dans ce même foyer et cette même famille en même temps qu'elle se poursuit à l'école.
+Nos enfants ont besoin de nouvelles perspectives. Ils ont besoin d'apprendre d'abord à faire, d'acquérir quelque compétence pratique, de vivre de façon responsable, d'évaluer et d'être évalués, ils ont besoin de savoir discriminer. En-suite les concepts abstraits peuvent être appris et appliqués. L'éducation devrait rendre chaque tâche qu'elle soit banale ou importante, plus aisée et plus signifiante. Il nous faut trouver des façons plus effectives d'éduquer nos enfants. _Les insectes naissent pleinement éduqués et équipés pour la vie — une existence en vérité très étriquée et purement instinctive. Le bébé bumain naît sans éducation; les hommes possèdent donc, en contrôlant l'entrainement éducatif des jeunes générations, le pouvoir de modifier considérablement le cours évolutionnaire de la civilisation_ <a id="a57_815"></a>[[LU 81:6.24](/fr/The_Urantia_Book/81#p6_24)]. Pour ce faire, leurs enseignants ont eux aussi besoin de nouvelles perspectives, que ce soit les parents éducateurs ou les maitres à l'école. Il nous faut éduquer les parents et changer la manière dont nous éduquons les enseignants. L'éducation ,qu'elle soit laïque ou religieuse, doit commencer au foyer et avec la famille et continuer dans ce même foyer et cette même famille en même temps qu'elle se poursuit à l'école.
 
 Au sujet de l'éducation et de la famille sur une planète voisine le _Livre d'Urantia_ nous dit :
 
-> _Ces gens considèrent le foyer comme l'institution fondamentale de leur civilisation. Ils escomptent que la partie la plus précieuse de l'éducation et de la formation du caractère d'un enfant sera fournie par ses parents et à son foyer. Les pères consacrent presque autant d'attention que les mères à la formation des enfants._ [[LU 72:3.4](/fr/The_Urantia_Book/72#p3_4)]
+> _Ces gens considèrent le foyer comme l'institution fondamentale de leur civilisation. Ils escomptent que la partie la plus précieuse de l'éducation et de la formation du caractère d'un enfant sera fournie par ses parents et à son foyer. Les pères consacrent presque autant d'attention que les mères à la formation des enfants._ <a id="a61_330"></a>[[LU 72:3.4](/fr/The_Urantia_Book/72#p3_4)]
 
 Et au sujet de la famille et de l'éducation en général :
 
-> _Les humains des temps anciens ne possédaient pas une civilisation sociale très riche, mais ils transmettaient fidèlement et efficacement aux générations suivantes celle qu'ils avaient. Il faut reconnaître que la plupart des civilisations du passé ont continué à évoluer avec un strict minimum d'autres influences institutionnelles, parce que les foyers fonctionnaient efficacement. Aujourd'bui, les races bumaines détiennent un riche héritage social et culturel qui devrait être sagement et utilement transmis aux générations suivantes. La famille, en tant qu'institution éducative, doit être maintenue._ [[LU 82:0.3](/fr/The_Urantia_Book/82#p0_3) les caractères gras sont de moi]
+> _Les humains des temps anciens ne possédaient pas une civilisation sociale très riche, mais ils transmettaient fidèlement et efficacement aux générations suivantes celle qu'ils avaient. Il faut reconnaître que la plupart des civilisations du passé ont continué à évoluer avec un strict minimum d'autres influences institutionnelles, parce que les foyers fonctionnaient efficacement. Aujourd'bui, les races bumaines détiennent un riche héritage social et culturel qui devrait être sagement et utilement transmis aux générations suivantes. La famille, en tant qu'institution éducative, doit être maintenue._ <a id="a65_608"></a>[[LU 82:0.3](/fr/The_Urantia_Book/82#p0_3) les caractères gras sont de moi]
 
 De ces citations il est clair que la famille devrait être le fondement de l'éducation. Mais comment opérer des changement au niveau de la famille ? Il va falloir faire des efforts à la fois soutenus et progressifs. Nous devons éduquer les parents directement chaque fois que nous le pouvons mais nous devons commencer à éduquer maintenant nos enfants qui sont de futurs parents. Pour ce faire, nous devons changer la méthode d'apprentissage de nos enfants en préparant un nouvel âge d'enseignants, une meilleure façon d'enseigner. Nous devons unifier en un seul processus éducatif: la valeur de la famille, la recherche du savoir, la vie pratique et responsable, la sagesse et la croissance pendant toute la vie et même la croissance éternelle.
 
-> _Maintenant commence votre éducation personnelle, votre entrainement spirituel individuel. Du début jusqu'à la fin, à travers tout Havona, l'instruction est personnelle et de nature triple : intellectuelle, spirituelle et expérientielle._ [[LU 30:4.27](/fr/The_Urantia_Book/30#p4_27)]
+> _Maintenant commence votre éducation personnelle, votre entrainement spirituel individuel. Du début jusqu'à la fin, à travers tout Havona, l'instruction est personnelle et de nature triple : intellectuelle, spirituelle et expérientielle._ <a id="a69_241"></a>[[LU 30:4.27](/fr/The_Urantia_Book/30#p4_27)]
 
 Les écoles du Prince Planétaire d'Urantia, d'il y a 500.000 ans nous fournissent quelques exemples de la façon dont pourrait s'accomplir cette unification dans un contexte éducatif. Ces exemples semblent transcender les vicissitudes du temps et de la culture. Bien que le temps et la technologie aient apporté de nombreux changements l'essentiel demeure.
 
@@ -53,7 +77,7 @@ Les écoles du Prince Planétaire d'Urantia, d'il y a 500.000 ans nous fournisse
 > _2. Activités sociales. Représentations théâtrales et groupements culturels._
 > _3. Applic ation éducative. Instruction individuelle en rapport avec l'enseignement du groupe familial, complétée par un entrainement spécialisé de classe._
 > _4. Éducation professionnelle. Écoles du mariage et d'éedification du foyer, écoles d'application des arts et métiers, et classes de formation des instructeurs - lä̈ques, culturels et religieux._
-> _5. Culture spiritue lle. La fraternité des maitres, l'éducation éclairée de groupes d'enfants et de jeunes gens, et l'entrainement d'enfants indigènes adoptés comme missionnaires auprès de leur peuple._ [[LU 50:4.3-8](/fr/The_Urantia_Book/50#p4_3)]
+> _5. Culture spiritue lle. La fraternité des maitres, l'éducation éclairée de groupes d'enfants et de jeunes gens, et l'entrainement d'enfants indigènes adoptés comme missionnaires auprès de leur peuple._ <a id="a79_206"></a>[[LU 50:4.3-8](/fr/The_Urantia_Book/50#p4_3)]
 
 Lequel de ces éléments est absent de notre système éducatif aujourd'hui ? Lequel est absent de la vie de famille ? Comparons nos institutions avec l'école du Prince.
 
@@ -69,17 +93,17 @@ Lequel de ces éléments est absent de notre système éducatif aujourd'hui ? Le
 
 L'agriculture a été estimée en tant que partie importante de la culture et de l'éducation dans toute l'histoire de l'humanité. L'agriculture n'est pas une affaire démodée. C'est beaucoup plus qu'un « humble travail ». De nos jours, les fermiers progressistes doivent avoir une compréhension de la manière dont fonctionnent les choses beaucoup plus vaste que celle que celle de la plupart des autres métiers. Une agriculture durable continuera à être un défi croissant pour la civilisation. Spécialement en raison du rapport hommes-sol qui décline rapidement, l'éducation en agriculture devrait être une affaire d'intérêt primordial pour les institutions éducatives de tous niveaux.
 
-> _Maintenant, l'industrie s'ajoute à l'agriculture, avec un accroissement correspondant de l'urbanisation et une multiplication des groupes non agricoles parmi les classes de citoyens. Mais une civilisation industrielle ne peut espérer survivre si ses dirigeants ne se rendent pas compte que les développements sociaux, même les plus élevés, doivent toujours reposer sur une base agricole saine._ [[LU 68:5.13](/fr/The_Urantia_Book/68#p5_13)]
+> _Maintenant, l'industrie s'ajoute à l'agriculture, avec un accroissement correspondant de l'urbanisation et une multiplication des groupes non agricoles parmi les classes de citoyens. Mais une civilisation industrielle ne peut espérer survivre si ses dirigeants ne se rendent pas compte que les développements sociaux, même les plus élevés, doivent toujours reposer sur une base agricole saine._ <a id="a95_398"></a>[[LU 68:5.13](/fr/The_Urantia_Book/68#p5_13)]
 
-> _Pendant toute la période éducative, on enseigne également l'agriculture et l'borticulture dans les vastes fermes contiguës à chaque école locale._ [[LU 72:4.1](/fr/The_Urantia_Book/72#p4_1)]
+> _Pendant toute la période éducative, on enseigne également l'agriculture et l'borticulture dans les vastes fermes contiguës à chaque école locale._ <a id="a97_150"></a>[[LU 72:4.1](/fr/The_Urantia_Book/72#p4_1)]
 
-> _Le travail de la terre n'est pas une malédiction; c'est plutôt une suprême bénédiction pour tous ceux qui peuvent ainsi se livrer à la plus humaine de toutes les activités bumaines_ [[LU 66:7.19](/fr/The_Urantia_Book/66#p7_19)]
+> _Le travail de la terre n'est pas une malédiction; c'est plutôt une suprême bénédiction pour tous ceux qui peuvent ainsi se livrer à la plus humaine de toutes les activités bumaines_ <a id="a99_185"></a>[[LU 66:7.19](/fr/The_Urantia_Book/66#p7_19)]
 
 _Le Livre d'Urantia_ nous présente des idéaux d'éducation qui vont dans le même sens que les efforts du Prince Planétaire qui ont prévalu il y a si longtemps. Dans quelle mesure nos tentatives d'éducation soutiennent-elles la comparaison avec ces idéaux? Nos activités familiales et scolaires permettent-elles que nous impliquions dans cette recherche ? Nos vies sont-elles organisées de façon à unifier la Religion, la Vie de Famille, l'Education et la Carrière de façon à ce que nous et nos enfants ayons ces expériences qui sont si essentielles au développement d'une personnalité harmonieuse.
 
-> _Le but de toute éducation devrait consister à entretenir et à poursuivre le dessein suprême de la vie, le développement d'une personnalité pleine de majesté et bien équilibrée._ [[LU 195:10.17](/fr/The_Urantia_Book/195#p10_17)]
+> _Le but de toute éducation devrait consister à entretenir et à poursuivre le dessein suprême de la vie, le développement d'une personnalité pleine de majesté et bien équilibrée._ <a id="a103_181"></a>[[LU 195:10.17](/fr/The_Urantia_Book/195#p10_17)]
 
-> _L'homme évolutionnaire n'a pas de gout naturel pour les travaux pénibles. Dans la vie expérientielle, pour marcher de pair avec les exigences barcelantes et les besoins pressants d'une expérience religieuse grandissante, il faut une incessante activité dans la croissance spirituelle, l'expansion intellectuelle, le développement factuel et le service social. Il n'y a pas de véritable religion sans une personnalité très active_ [[LU 102:2.7](/fr/The_Urantia_Book/102#p2_7)].
+> _L'homme évolutionnaire n'a pas de gout naturel pour les travaux pénibles. Dans la vie expérientielle, pour marcher de pair avec les exigences barcelantes et les besoins pressants d'une expérience religieuse grandissante, il faut une incessante activité dans la croissance spirituelle, l'expansion intellectuelle, le développement factuel et le service social. Il n'y a pas de véritable religion sans une personnalité très active_ <a id="a105_433"></a>[[LU 102:2.7](/fr/The_Urantia_Book/102#p2_7)].
 
 > _L'éducation, c'est l'affaire de to ute la vie ; il faut que l'éducation continue pendant toute la vie, de façon que l'bumanité acquière graduellement l'expérience des niveaux ascendants de la sagesse bumaine, qui sont les suivants._
 > 
@@ -91,6 +115,30 @@ _Le Livre d'Urantia_ nous présente des idéaux d'éducation qui vont dans le m�
 > _6. L'amour du service — le caractère._
 > _7. La clairvoyance cosmique — le discernement spirituel._
 > 
-> _Ensuite, grâce à ces accomplissements, nombre d'hoom mes s'élève ront au nive au ultime que le mentalmortelpuisse atteindre, la conscience de Dieu_ [[LU 71:7.5-13](/fr/The_Urantia_Book/71#p7_5) ; les caractères gras sont de moi].
+> _Ensuite, grâce à ces accomplissements, nombre d'hoom mes s'élève ront au nive au ultime que le mentalmortelpuisse atteindre, la conscience de Dieu_ <a id="a117_151"></a>[[LU 71:7.5-13](/fr/The_Urantia_Book/71#p7_5) ; les caractères gras sont de moi].
 
 Dans nos familles, dans nos écoles, nous autres lecteurs du _Livre d'Urantia_ **devons** utiliser cette cinquième révélation d'époque pour diriger cette affaire de toute la vie — **l'éducation** — vers la **conscience de Dieu**.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Woodward/A_Family_Day_in_Los_Angeles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un Jour En Famille À Los Angeles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mars-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mars 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bob_Slagle/Successful_Families">
+          <span class="pr-2">Des Familles Qui Réussissent</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -57,7 +57,7 @@ And the same applies to the young woman who goes through this process with simil
 
 Accordingly, on one hand:
 
-> _There is original endowment of adaptation in living things and beings. In every living plant or animal cell, in every living organism-material or spiritual-there is an insatiable craving for the attainment of ever-increasing perfection of environmental adjustment, organismal adaptation, and augmented life realization. These interminable efforts of all living things evidence the existence within them of an innate striving for perfection._ [UB 65:6.2](/en/The_Urantia_Book/65#p6_2)
+> _There is original endowment of adaptation in living things and beings. In every living plant or animal cell, in every living organism-material or spiritual-there is an insatiable craving for the attainment of ever-increasing perfection of environmental adjustment, organismal adaptation, and augmented life realization. These interminable efforts of all living things evidence the existence within them of an innate striving for perfection._ <a id="a59_445"></a>[UB 65:6.2](/en/The_Urantia_Book/65#p6_2)
 
 On the other hand Our Father sent a fragment of himself to dwell in the human mind as a private teacher. This “true light which illuminates every man who comes into the world”, also called, “divine spark,” “divine guide” is our Thought Adjuster.
 
@@ -71,15 +71,15 @@ On 17 May 1994, Mireille Negre said: “I love someone, I love God, and I can te
 
 But let us remember that we all will actualise our love dream with our divine guide; rarely during this life, but generally in the after-life. Then will we forever be one with him who knows everything.
 
-It behooves us therefore, in order to get closer to this perfect guide, to cultivate perfection in all our attitudes—therefore to approach this divine guide, it pertains to us to look for perfection throughout our actions. There, our free will is confronted with this choice: to listen, or not to listen, to this little voice which, at any crossroads, tells us: “This is the way”; —the love way—which ripens the spirit fruits which are: _loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace_. [UB 193:2.2](/en/The_Urantia_Book/193#p2_2)
+It behooves us therefore, in order to get closer to this perfect guide, to cultivate perfection in all our attitudes—therefore to approach this divine guide, it pertains to us to look for perfection throughout our actions. There, our free will is confronted with this choice: to listen, or not to listen, to this little voice which, at any crossroads, tells us: “This is the way”; —the love way—which ripens the spirit fruits which are: _loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace_. <a id="a73_645"></a>[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)
 
-“The kingdorn of God is within you,” said Jesus, and since God is love, it is obvious that _[L]ove is the highest motivation which man may utilize in his universe ascent_. [UB 196:3.29](/en/The_Urantia_Book/196#p3_29)
+“The kingdorn of God is within you,” said Jesus, and since God is love, it is obvious that _[L]ove is the highest motivation which man may utilize in his universe ascent_. <a id="a75_172"></a>[UB 196:3.29](/en/The_Urantia_Book/196#p3_29)
 
 “Genuine religion is an adventure personally lived, and not easy to impart through words. It is the love story between the creature and his Creator... Finally a religion is but the outline of the way covered by a soul to her truth.” (Quotation from an unknown author.)
 
-> _And neither Adjuster nor mortal can attain that unique goal without the full co-operation and faithful help of the other. This extraordinary partnership is one of the most engrossing and amazing of all the cosmic phenomena of this universe age._ [UB 112:7.11](/en/The_Urantia_Book/112#p7_11)
+> _And neither Adjuster nor mortal can attain that unique goal without the full co-operation and faithful help of the other. This extraordinary partnership is one of the most engrossing and amazing of all the cosmic phenomena of this universe age._ <a id="a79_249"></a>[UB 112:7.11](/en/The_Urantia_Book/112#p7_11)
 
-The urge to participate and belong, which is a natural urge, continues through our whole life: One first belongs with family, then to a mate, to a social group, and to society as a whole. But even in the best of circumstances, the urge to belong is never fully satisfied. We better become conscious that we exclusively belong to God only. _... in him we all live and move and have our being._ [[UB 1:5.16](/en/The_Urantia_Book/1#p5_16); [UB 2:1.11](/en/The_Urantia_Book/2#p1_11); [UB 105:2.11](/en/The_Urantia_Book/105#p2_11)]
+The urge to participate and belong, which is a natural urge, continues through our whole life: One first belongs with family, then to a mate, to a social group, and to society as a whole. But even in the best of circumstances, the urge to belong is never fully satisfied. We better become conscious that we exclusively belong to God only. _... in him we all live and move and have our being._ <a id="a81_393"></a>[[UB 1:5.16](/en/The_Urantia_Book/1#p5_16); <a id="a81_437"></a>[UB 2:1.11](/en/The_Urantia_Book/2#p1_11); <a id="a81_480"></a>[UB 105:2.11](/en/The_Urantia_Book/105#p2_11)]
 
 Our dream in this life is nevertheless to actualise that dream with our life-time partner, but no human partner can ever compete with the divine presence within, our Thought Adjuster, who individualises our Father's love forever—he is God.
 
@@ -89,9 +89,9 @@ There are also some disagreements, doubts, compromises, and worries...
 
 In the Adjuster association, the fact of loving God and of feeling loved by God is not sensual, it is spiritual—it is the soul which feels and loves. All that mind can do is to discover, recognise, interpret, and choose.
 
-> _All true love is from God, and man receives the divine affection as he himself bestows this love upon his fellows. Love is dynamic. It can never be captured; it is alive, free, thrilling, and always moving. Man can never take the love of the Father and imprison it within his heart. The Father's love can become real to mortal man only by passing through that man's personality as he in turn bestows this love upon his fellows._ [UB 117:6.10](/en/The_Urantia_Book/117#p6_10)
+> _All true love is from God, and man receives the divine affection as he himself bestows this love upon his fellows. Love is dynamic. It can never be captured; it is alive, free, thrilling, and always moving. Man can never take the love of the Father and imprison it within his heart. The Father's love can become real to mortal man only by passing through that man's personality as he in turn bestows this love upon his fellows._ <a id="a91_432"></a>[UB 117:6.10](/en/The_Urantia_Book/117#p6_10)
 
-Jesus answered to John: _You will learn to love your brethren more when you first learn to love their Father in heaven more.._. [UB 181:2.5](/en/The_Urantia_Book/181#p2_5)
+Jesus answered to John: _You will learn to love your brethren more when you first learn to love their Father in heaven more.._. <a id="a93_128"></a>[UB 181:2.5](/en/The_Urantia_Book/181#p2_5)
 
 Love is a running stream that has its source in the divine guide indwelling our minds, generating a living feeling of belonging to God—a boundless confidence—peace in mind and heart-spirit fruits throughout our relations. Even death has lost its negative aspect.
 
@@ -103,19 +103,19 @@ Between husband and wife, aside from their emotional interchanges, each would po
 
 Within such a relationship, sexual gratification reaches its highest point because this physical communion is the climax of previous mind communion and soul communion.
 
-> _Marriage which culminates in the home is indeed man's most exalted institution, but it is essentially human; it should never have been called a sacrament._ [UB 83:8.1](/en/The_Urantia_Book/83#p8_1). _Such beliefs lead directly to the concept of the indissolubility of the marital state regardless of the circumstances or wishes of the contracting parties._ [UB 83:8.4](/en/The_Urantia_Book/83#p8_4)
+> _Marriage which culminates in the home is indeed man's most exalted institution, but it is essentially human; it should never have been called a sacrament._ <a id="a105_159"></a>[UB 83:8.1](/en/The_Urantia_Book/83#p8_1). _Such beliefs lead directly to the concept of the indissolubility of the marital state regardless of the circumstances or wishes of the contracting parties._ <a id="a105_360"></a>[UB 83:8.4](/en/The_Urantia_Book/83#p8_4)
 
-> _Two pampered and spoiled youths, educated to expect every indulgence and full gratification of vanity and ego, can hardly hope to make a great success of marriage and home building—a life-long partnership of self-effacement, compromise, devotion, and unselfish dedication to child culture._ [UB 83:7.6](/en/The_Urantia_Book/83#p7_6)
+> _Two pampered and spoiled youths, educated to expect every indulgence and full gratification of vanity and ego, can hardly hope to make a great success of marriage and home building—a life-long partnership of self-effacement, compromise, devotion, and unselfish dedication to child culture._ <a id="a107_294"></a>[UB 83:7.6](/en/The_Urantia_Book/83#p7_6)
 
-> _And in so far as the social group falls short of providing marriage preparation for youths, to that extent must divorce function as the social safety valve which prevents still worse situations during the ages of the rapid growth of the evolving mores._ [UB 83:7.8](/en/The_Urantia_Book/83#p7_8)
+> _And in so far as the social group falls short of providing marriage preparation for youths, to that extent must divorce function as the social safety valve which prevents still worse situations during the ages of the rapid growth of the evolving mores._ <a id="a109_257"></a>[UB 83:7.8](/en/The_Urantia_Book/83#p7_8)
 
-> _Marriage, with its manifold relations, is best designed to draw forth those precious impulses and those higher motives which are indispensable to the development of a strong character._ [UB 160:2.6](/en/The_Urantia_Book/160#p2_6). This means a team effort to realise a common ideal.
+> _Marriage, with its manifold relations, is best designed to draw forth those precious impulses and those higher motives which are indispensable to the development of a strong character._ <a id="a111_189"></a>[UB 160:2.6](/en/The_Urantia_Book/160#p2_6). This means a team effort to realise a common ideal.
 
 Unfortunately, too many fail in this task and have to resort to make-beliefs and substitutes.
 
-> _...love is the greatest relationship in the world-in the universe-just as truth is the greatest pronouncement of the observation of these divine relationships._ [UB 143:6.4](/en/The_Urantia_Book/143#p6_4)
+> _...love is the greatest relationship in the world-in the universe-just as truth is the greatest pronouncement of the observation of these divine relationships._ <a id="a115_164"></a>[UB 143:6.4](/en/The_Urantia_Book/143#p6_4)
 
-This is how _...my Father does rule a universe of universes by the compelling power of his love._ [UB 143:1.4](/en/The_Urantia_Book/143#p1_4)
+This is how _...my Father does rule a universe of universes by the compelling power of his love._ <a id="a117_98"></a>[UB 143:1.4](/en/The_Urantia_Book/143#p1_4)
 
 That is why the great commandment invites us to first love God with all our heart, with all our might and all our intelligence, and then, to love our neighbour as ourselves.
 

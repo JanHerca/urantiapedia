@@ -42,7 +42,7 @@ _por Chuck Thurston_
 
 ¿Cómo logramos la unidad espiritual sin caer en la trampa de la uniformidad social?
 
-Creo que la diferencia esencial entre unidad espiritual y uniformidad social se ve mejor en las cualidades contrastantes de interacción personal que se asocian con cada una. La unidad es un principio que gobierna las interacciones dinámicas, mientras que la uniformidad describe una condición estática de igualdad. La unidad espiritual alimenta la libertad creativa del individuo y libera la «amabilidad espontánea, generosa y sincera que caracteriza a los hijos del Dios vivo nacidos del espíritu». (<a id="a20_501"></a>[LU 180:5.12](/es/The_Urantia_Book/180#p5_12))
+Creo que la diferencia esencial entre unidad espiritual y uniformidad social se ve mejor en las cualidades contrastantes de interacción personal que se asocian con cada una. La unidad es un principio que gobierna las interacciones dinámicas, mientras que la uniformidad describe una condición estática de igualdad. La unidad espiritual alimenta la libertad creativa del individuo y libera la «amabilidad espontánea, generosa y sincera que caracteriza a los hijos del Dios vivo nacidos del espíritu». (<a id="a44_501"></a>[LU 180:5.12](/es/The_Urantia_Book/180#p5_12))
 
 Antes de continuar, veamos algunas definiciones importantes:
 
@@ -59,11 +59,11 @@ Antes de continuar, veamos algunas definiciones importantes:
 
 En _El Libro de Urantia_ se da gran importancia a los principios:
 
-> Dentro de poco aparecerán nuevos sistemas de valores; _se conseguirán nuevas formulaciones de principios y criterios_; se reformarán las costumbres y los ideales; ... (énfasis añadido) (<a id="a37_188"></a>[LU 101:7.3](/es/The_Urantia_Book/101#p7_3))
+> Dentro de poco aparecerán nuevos sistemas de valores; _se conseguirán nuevas formulaciones de principios y criterios_; se reformarán las costumbres y los ideales; ... (énfasis añadido) (<a id="a61_188"></a>[LU 101:7.3](/es/The_Urantia_Book/101#p7_3))
 
-> Dijo a los tres apóstoles que sólo se preocupaba por_ los principios_ de la vida espiritual interior y personal del hombre. (énfasis añadido) (<a id="a39_145"></a>[LU 140:8.9](/es/The_Urantia_Book/140#p8_9))
+> Dijo a los tres apóstoles que sólo se preocupaba por_ los principios_ de la vida espiritual interior y personal del hombre. (énfasis añadido) (<a id="a63_145"></a>[LU 140:8.9](/es/The_Urantia_Book/140#p8_9))
 
-> Su enseñanza abarca _los principios ideales_ de una vida cercana a Dios, en todas las épocas y en todos los mundos. (énfasis añadido) (<a id="a41_137"></a>[LU 140:8.2](/es/The_Urantia_Book/140#p8_2))
+> Su enseñanza abarca _los principios ideales_ de una vida cercana a Dios, en todas las épocas y en todos los mundos. (énfasis añadido) (<a id="a65_137"></a>[LU 140:8.2](/es/The_Urantia_Book/140#p8_2))
 
 Los principios inspiran un sentido dinámico de posibilidad y dirección, pero no predeterminan los resultados. Las reglas y las leyes, por otra parte, están destinadas a ser obedecidas. Producen un terreno común de previsibilidad impuesta en lo que respecta a ciertos comportamientos. Esto ha sido durante mucho tiempo una necesidad práctica, como puede verse en los códigos morales de las civilizaciones antiguas.
 
@@ -94,11 +94,11 @@ Todos los tipos de acuerdos pueden crear unidad, pero los acuerdos sobre valores
 
 El amor por Jesús es uno de nuestros niveles más altos de reconocimiento de valores, y esto también se convierte en una poderosa influencia unificadora cuando inspira nuestro amor mutuo.
 
-> Vuestras personalidades pueden ser agradablemente variadas y notablemente diferentes, pero vuestras naturalezas espirituales y los frutos espirituales de vuestra adoración divina y de vuestro amor fraternal pueden estar tan unificados, que todos los que contemplen vuestra vida reconocerán con toda seguridad esta identidad de espíritu y esta unidad de alma. Reconocerán _que habéis estado conmigo_ y que habéis aprendido así a hacer, de una manera aceptable, la voluntad del Padre que está en los cielos. (énfasis añadido) (<a id="a72_527"></a>[LU 141:5.2](/es/The_Urantia_Book/141#p5_2))
+> Vuestras personalidades pueden ser agradablemente variadas y notablemente diferentes, pero vuestras naturalezas espirituales y los frutos espirituales de vuestra adoración divina y de vuestro amor fraternal pueden estar tan unificados, que todos los que contemplen vuestra vida reconocerán con toda seguridad esta identidad de espíritu y esta unidad de alma. Reconocerán _que habéis estado conmigo_ y que habéis aprendido así a hacer, de una manera aceptable, la voluntad del Padre que está en los cielos. (énfasis añadido) (<a id="a96_527"></a>[LU 141:5.2](/es/The_Urantia_Book/141#p5_2))
 
 Nuestro potencial para la unidad espiritual proviene de nuestras relaciones individuales con Dios, aunque cada una de estas relaciones es única. Si bien nuestras personalidades son únicas, la esencia del Ajustador del Pensamiento que vemos en los demás es la misma presencia espiritual que encontramos dentro de nosotros mismos.
 
-> La unidad de la experiencia religiosa de un grupo social o racial proviene de la naturaleza idéntica del fragmento de Dios que reside en el individuo. (<a id="a76_154"></a>[LU 103:1.1](/es/The_Urantia_Book/103#p1_1))
+> La unidad de la experiencia religiosa de un grupo social o racial proviene de la naturaleza idéntica del fragmento de Dios que reside en el individuo. (<a id="a100_154"></a>[LU 103:1.1](/es/The_Urantia_Book/103#p1_1))
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Chuck_Thurston/29.jpg">
@@ -106,9 +106,9 @@ Nuestro potencial para la unidad espiritual proviene de nuestras relaciones indi
 
 Si recurrimos a otros principios de unidad que apoyan una mayor unidad espiritual, cerca del principio de la lista estaría el principio de responsabilidad individual por el bien del conjunto. Cualquier cosa que podamos ofrecer que sea verdaderamente buena para el conjunto también traerá beneficios para nosotros y para los demás, y cuando el individuo realmente se beneficia, el conjunto se vuelve más fuerte. El compromiso leal con nuestra relación con el todo es inherente y profundamente unificador en sus implicaciones.
 
-> Así como se mueve la parte se mueve el todo. (<a id="a84_48"></a>[LU 12:7.11](/es/The_Urantia_Book/12#p7_11))
+> Así como se mueve la parte se mueve el todo. (<a id="a108_48"></a>[LU 12:7.11](/es/The_Urantia_Book/12#p7_11))
 
-> En todo el universo, cada unidad está considerada como una parte del todo{48}. La supervivencia de la parte depende de su cooperación con el plan y la intención del todo, del deseo sincero y del consentimiento perfecto de hacer la voluntad divina del Padre. (<a id="a86_261"></a>[LU 3:5.15](/es/The_Urantia_Book/3#p5_15))
+> En todo el universo, cada unidad está considerada como una parte del todo{48}. La supervivencia de la parte depende de su cooperación con el plan y la intención del todo, del deseo sincero y del consentimiento perfecto de hacer la voluntad divina del Padre. (<a id="a110_261"></a>[LU 3:5.15](/es/The_Urantia_Book/3#p5_15))
 
 La voluntad del Padre también puede verse como un principio en sí mismo. A partir de la definición anterior, la voluntad del Padre puede reconocerse claramente como una «verdad fundamental» y una «proposición que sirve como fundamento de creencias, valores, comportamiento y cadenas de razonamiento».
 

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Al Gates Lockett<br>© 2000 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Living_the_Will_of_Our_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Living the Will of Our Father</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kalevi_Eklof/Relation_of_Adjusters_to_Universe_Creatures">
+          <span class="pr-2">Relation of Adjusters to Universe Creatures</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Al_Lockett.jpg">
@@ -34,9 +58,9 @@ My topic today under the thematic umbrella of “Living the Will of the Father�
 2. No pain—no gain.
 3. What does it mean to you and me?
 
-> _Although the Universal Father is personally resident on Paradise, at the very center of the universes, he is also actually present on the worlds of space in the minds of his countless children of time, for be indwells them as the Mystery Monitors._ [[UB 107:0.1](/en/The_Urantia_Book/107#p0_1)]
+> _Although the Universal Father is personally resident on Paradise, at the very center of the universes, he is also actually present on the worlds of space in the minds of his countless children of time, for be indwells them as the Mystery Monitors._ <a id="a60_252"></a>[[UB 107:0.1](/en/The_Urantia_Book/107#p0_1)]
 
-> _The Adjusters are the actuality of the Father's love incarnate in the souls of men; they are the veritable promise of itan's eternal career imprisoned within the mortal mind; they are the essence of man's perfected finaliter personality, which be can foretaste in time as be progressively masters the divine technique of achieving the living of the Father's will._ [[UB 107:0.2](/en/The_Urantia_Book/107#p0_2)]
+> _The Adjusters are the actuality of the Father's love incarnate in the souls of men; they are the veritable promise of itan's eternal career imprisoned within the mortal mind; they are the essence of man's perfected finaliter personality, which be can foretaste in time as be progressively masters the divine technique of achieving the living of the Father's will._ <a id="a62_368"></a>[[UB 107:0.2](/en/The_Urantia_Book/107#p0_2)]
 
 ## The Call to Perfection
 
@@ -44,15 +68,15 @@ I have just read three sentences from the introduction to Paper 107. The introdu
 
 Let's reflect on the first sentence: _Although the Universal Father is personally resident on Paradise, at the very center of the universes, he is also actually present on the worlds of space in the minds of his countless children of time, for he indwells them as the Mystery Monitors._ I don't know about you, but this set my mind reeling with days and nights of deep contemplation, that the Creator of everything-infinite, eternal and more than my material mind could ever comprehend-is resident within me.
 
-Here are two other statements in _The Urantia Book_: _There are no created beings that would not delight to be bosts to the Mystery Monitors, but no orders of beings are thus indwelt excepting evolutionary will creatures of finaliter destiny_ [[UB 107:7.7](/en/The_Urantia_Book/107#p7_7)].
+Here are two other statements in _The Urantia Book_: _There are no created beings that would not delight to be bosts to the Mystery Monitors, but no orders of beings are thus indwelt excepting evolutionary will creatures of finaliter destiny_ <a id="a70_243"></a>[[UB 107:7.7](/en/The_Urantia_Book/107#p7_7)].
 
-> _The Adjusters are the actuality of the Father's love incarnate in the souls of men; they are the veritable promise of man's eternal career imprisoned within the mortal mind; they are the essence of man's perfected finaliter personality, which be can foretaste in time as be progressively masters the divine technique of achieving the living of the Father's will_ [[UB 107:0.2](/en/The_Urantia_Book/107#p0_2)].
+> _The Adjusters are the actuality of the Father's love incarnate in the souls of men; they are the veritable promise of man's eternal career imprisoned within the mortal mind; they are the essence of man's perfected finaliter personality, which be can foretaste in time as be progressively masters the divine technique of achieving the living of the Father's will_ <a id="a72_366"></a>[[UB 107:0.2](/en/The_Urantia_Book/107#p0_2)].
 
 They are the essence of the perfect you and me as we progressively master the divine technique of achieving the living of the Father's will.
 
 So achieving “living the will of the Father” is the result of a divine technique that we must master.
 
-The last sentence, _God, having commanded man to be perfect, even as be is perfect, has descended as the Adjuster to become man's experiential partner in the achievement of the supernal destiny which has been thus ordained_ [[UB 107:0.3](/en/The_Urantia_Book/107#p0_3)], spells out just what the will of God is to each of us and the fact that it is ordained and that God as the Adjuster, is our experiential partner in achieving that destiny.
+The last sentence, _God, having commanded man to be perfect, even as be is perfect, has descended as the Adjuster to become man's experiential partner in the achievement of the supernal destiny which has been thus ordained_ <a id="a78_224"></a>[[UB 107:0.3](/en/The_Urantia_Book/107#p0_3)], spells out just what the will of God is to each of us and the fact that it is ordained and that God as the Adjuster, is our experiential partner in achieving that destiny.
 
 Not only has it been ordained, it is the primary purpose or reason for existing. You want to know the reason for life. You don't have to go to Tibet or to the Dalai Lama—it's living the will of the Father by following the directive to be perfect.
 
@@ -64,7 +88,7 @@ How do we know if we are living the will of the Father? And what does it mean to
 
 So the only way we live in accordance with God's will is by following the leading of the Adjuster. That is aligning our will with that of God's. Living life religiously. **Jesus' earthly life was devoted to one great purpose—doing the Father's will, living the human life religiously and by faith.**
 
-Let's go back to the passage: _... progressively masters the divine technique of achieving the living of the Father's will_ [[UB 107:0.2](/en/The_Urantia_Book/107#p0_2)].
+Let's go back to the passage: _... progressively masters the divine technique of achieving the living of the Father's will_ <a id="a90_124"></a>[[UB 107:0.2](/en/The_Urantia_Book/107#p0_2)].
 
 Living the will of the Father is a divine technique to be mastered. There is a work component or requirement associated with living the will of the Father.
 
@@ -84,7 +108,7 @@ What are the requirements to living the will of the Father?
 
 And I think Jesus put it in the context of the 11^th^ commandment **to love God with all our heart and soul and to love our neighbor as ourselves**. But most of all, we are required to have **faith**.
 
-> _The faith of Jesus was trusting, like that of a child, but it was wholly free from presumption. He made robust and manly decisions, courageously faced manifold disappointments, resolutely surmounted extraordinary difficulties, and unflinchingly confronted the stern requirements of duty. It required a strong will and an unfailing confidence to believe what Jesus betieved and as be believed._ [[UB 196:0.14](/en/The_Urantia_Book/196#p0_14)]
+> _The faith of Jesus was trusting, like that of a child, but it was wholly free from presumption. He made robust and manly decisions, courageously faced manifold disappointments, resolutely surmounted extraordinary difficulties, and unflinchingly confronted the stern requirements of duty. It required a strong will and an unfailing confidence to believe what Jesus betieved and as be believed._ <a id="a110_397"></a>[[UB 196:0.14](/en/The_Urantia_Book/196#p0_14)]
 
 There is one component to living the will of the Father, and that is “living life fearlessly.”
 
@@ -94,11 +118,11 @@ Do you know to live life boldly and fearlessly is a difficult yet worthy goal? I
 
 Paper 108 talks about the mission of the Thought Adjusters:
 
-> _The mission of the Thought Adjusters to the human races is to represent, to be, the Universal Father to the mortal creatures of time and space; that is the fundamental work of the divine gifts. Their mission is also that of elevating the mortal minds and of translating the immortal souls of men up to the divine heights and spiritual levels of Paradise perfection._ [[UB 108:0.1](/en/The_Urantia_Book/108#p0_1)]
+> _The mission of the Thought Adjusters to the human races is to represent, to be, the Universal Father to the mortal creatures of time and space; that is the fundamental work of the divine gifts. Their mission is also that of elevating the mortal minds and of translating the immortal souls of men up to the divine heights and spiritual levels of Paradise perfection._ <a id="a120_370"></a>[[UB 108:0.1](/en/The_Urantia_Book/108#p0_1)]
 
 Again the key element is perfection, but they go on to say:
 
-> _The Mystery Monitors are not thought helpers; they are thought adjusters. They labor with the material mind for the purpose of constructing, by adjustment and spiritualization, a new mind for the new worlds and the new name of your future career._ [[UB 108:5.5](/en/The_Urantia_Book/108#p5_5)]
+> _The Mystery Monitors are not thought helpers; they are thought adjusters. They labor with the material mind for the purpose of constructing, by adjustment and spiritualization, a new mind for the new worlds and the new name of your future career._ <a id="a124_251"></a>[[UB 108:5.5](/en/The_Urantia_Book/108#p5_5)]
 
 Their mission chiefly concerns the future life, not this life. They are called heavenly helpers, not earthly helpers:
 
@@ -119,7 +143,7 @@ The old folks would often say, “God don't put any more on you than you can han
 
 No pain—no gain.
 
-> _Your transient and ever-changing emotions of joy and sorrow are in the main purely human and material reactions to your internal psychic climate and to your external material enviromment. Do not, therefore, look to the Adjuster for selfish consolation and mortal comfort. It is the business of the Adjuster to prepare you for the eternal adventure, to assure your survival. It is not the mission of the Mystery Monitor to smooth your ruffed feelings or to minister to your injured pride; it is the preparation of your soul for the long ascending career that engages the attention and occupies the time of the Adjuster._ [[UB 108:5.6](/en/The_Urantia_Book/108#p5_6)]
+> _Your transient and ever-changing emotions of joy and sorrow are in the main purely human and material reactions to your internal psychic climate and to your external material enviromment. Do not, therefore, look to the Adjuster for selfish consolation and mortal comfort. It is the business of the Adjuster to prepare you for the eternal adventure, to assure your survival. It is not the mission of the Mystery Monitor to smooth your ruffed feelings or to minister to your injured pride; it is the preparation of your soul for the long ascending career that engages the attention and occupies the time of the Adjuster._ <a id="a145_623"></a>[[UB 108:5.6](/en/The_Urantia_Book/108#p5_6)]
 
 No pain—no gain.
 
@@ -136,10 +160,34 @@ First, the Adjusters are the will of God.
 7. The whole idea that we are inclined towards this religiosity or religiousness, this drive towards perfection and spiritual consciousness, is the indwelling and divine Adjuster working in conjunction with the Spirit of Truth.
 8. One of the things I have leamed is that living God's will is personal to the individual. And that it bears the fruit of love and service to one's fellows.
 
-> _The Thought Adjusters would like to change your feelings of fear to convictions of love and confidence._ [[UB 108:5.8](/en/The_Urantia_Book/108#p5_8)]
+> _The Thought Adjusters would like to change your feelings of fear to convictions of love and confidence._ <a id="a162_108"></a>[[UB 108:5.8](/en/The_Urantia_Book/108#p5_8)]
 
-> _When it comes to the sharp and well-defined conflicts between the higher and lower tendencies of the races, between what really is right or wrong (not merely what you may call right and wrong), you can depend upon it that the Adjuster will always participate in some definite and active manner in such experiences._ [[UB 108:5.9](/en/The_Urantia_Book/108#p5_9)]
+> _When it comes to the sharp and well-defined conflicts between the higher and lower tendencies of the races, between what really is right or wrong (not merely what you may call right and wrong), you can depend upon it that the Adjuster will always participate in some definite and active manner in such experiences._ <a id="a164_319"></a>[[UB 108:5.9](/en/The_Urantia_Book/108#p5_9)]
 
 I would like to close with a statement from the book that was of the greatest comfort to me. It spoke to my heart and to all of my perceived inadequacies. Hopefully in the context and theme of this momentous event, it will continue to provide hope in our persistent attempts at living the will of the Father.
 
-> _Having started out on the way of life everlasting, having accepted the assignment and received your orders to advance, do not fear the dangers of human forgeffulness and mortal inconstancy, do not be troubled with doubts of failure or by perplexing confusion, do not falter and question your status and standing, for in every dark bour, at every crossroad in the forward struggle, the Spirit of Truth will always speak, saying, “This is the way.”_ [[UB 34:7.8](/en/The_Urantia_Book/34#p7_8)]
+> _Having started out on the way of life everlasting, having accepted the assignment and received your orders to advance, do not fear the dangers of human forgeffulness and mortal inconstancy, do not be troubled with doubts of failure or by perplexing confusion, do not falter and question your status and standing, for in every dark bour, at every crossroad in the forward struggle, the Spirit of Truth will always speak, saying, “This is the way.”_ <a id="a168_451"></a>[[UB 34:7.8](/en/The_Urantia_Book/34#p7_8)]
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Living_the_Will_of_Our_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Living the Will of Our Father</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kalevi_Eklof/Relation_of_Adjusters_to_Universe_Creatures">
+          <span class="pr-2">Relation of Adjusters to Universe Creatures</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

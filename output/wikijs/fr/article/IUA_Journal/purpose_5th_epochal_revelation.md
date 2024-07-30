@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Suzanne_Kelly/journal_editorial_nov_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Elders/personal_exp_revealed_truth">
+          <span class="pr-2">L’Expérience Personnelle de la Vérité Révélée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Est-ce pour recruter d’authentiques apôtres?
@@ -29,11 +53,11 @@ Dans le passé, la religion n’avait pas à ajuster son attitude à des changem
 
 Si nous croyons en la validité de la cinquième révélation d’époque, nous n’avons pas d’autre option que de prendre en compte ces déclarations prophétiques. Beaucoup d’entre nous peuvent ressentir l’urgence d’accepter les changements et de sauver le monde en ce moment même. Mais cette prophétie nous dit qu’aussi vite que l’on remédie à un problème mondial, de nouveaux changements apparaîtront qui nécessiteront différents ajustements et cette situation demeurera pour nous au moins un millénaire. Quel doit être le rôle de la religion ? Le paragraphe 2 de la section 1 déclare :
 
-> _Il faut que la religion exerce une forte influence en faveur de la stabilité morale et du progrès spirituel…_ <a id="a50_93"></a>[[LU 99:1.2](/fr/The_Urantia_Book/99#p1_2)]
+> _Il faut que la religion exerce une forte influence en faveur de la stabilité morale et du progrès spirituel…_ <a id="a55_113"></a>[[LU 99:1.2](/fr/The_Urantia_Book/99#p1_2)]
 
 et au paragraphe 3:
 
-> _La suprême mission de la religion, en tant qu’influence sociale, consiste à stabiliser les idéaux de l’humanité pendant ces dangereuses périodes de transition d’une phase de civilisation à une autre, d’un niveau de culture à un autre._ <a id="a54_223"></a>[[LU 99:1.3](/fr/The_Urantia_Book/99#p1_3)]
+> _La suprême mission de la religion, en tant qu’influence sociale, consiste à stabiliser les idéaux de l’humanité pendant ces dangereuses périodes de transition d’une phase de civilisation à une autre, d’un niveau de culture à un autre._ <a id="a59_239"></a>[[LU 99:1.3](/fr/The_Urantia_Book/99#p1_3)]
 
 Le paragraphe quatre nous dit qu’il n’y a pas de nouveaux devoirs religieux à accomplir, que le rôle de la religion est de guider sagement et d’être une conseillère expérimentée. Mais les leaders de nos meilleures institutions religieuses savent tout cela, et l’on peut profiter de beaucoup de sagesse et d’expérience dans les églises, séminaires, collèges théologiques, départements universitaires de religion et ainsi de suite. Alors pourquoi la cinquième révélation d’époque était-elle nécessaire ?
 
@@ -41,13 +65,13 @@ Peut-être la section 2 du fascicule offre-t-elle une explication à cette quest
 
 Certains d’entre nous ont été enclins à penser que depuis le moment de la publication du Livre d’Urantia en 1955, ceux qui nous ont donné les fascicules nous ont laissé déterminer notre propre destinée. Ce n’est vrai qu’en partie ; si nous explorons le livre consciencieusement et dans la prière, nous trouvons que beaucoup d’instructions sont données de manière explicite sur des questions qui depuis lors ont causé beaucoup de perplexité et de perturbations. Par exemple, la citation précédente nous dit que pour longtemps le rôle principal de la religion dans le progrès de notre civilisation dépendra non d’institutions mais d’individus. Ceci est confirmé au paragraphe 3 du chapitre 4 où il est déclaré que :
 
-> _Pour atteindre une haute civilisation culturelle, il faut en premier lieu le type idéal de citoyen et, ensuite, des mécanismes sociaux idéaux et adéquats permettant à cette citoyenneté de contrôler les institutions économiques et politiques de cette société humaine évoluée._ <a id="a62_255"></a>[[LU 99:3.4](/fr/The_Urantia_Book/99#p3_4)]
+> _Pour atteindre une haute civilisation culturelle, il faut en premier lieu le type idéal de citoyen et, ensuite, des mécanismes sociaux idéaux et adéquats permettant à cette citoyenneté de contrôler les institutions économiques et politiques de cette société humaine évoluée._ <a id="a67_279"></a>[[LU 99:3.4](/fr/The_Urantia_Book/99#p3_4)]
 
 Pour résumer ces commentaires, on nous a dit que nous avons un travail d’un millénaire devant nous, qui devrait initialement se limiter virtuellement et entièrement à produire des citoyens idéaux qui, en tant qu’individus, serviront à stabiliser la progression morale et spirituelle de la société durant ces périodes de changements rapides. Toutefois, les exigences pour produire un ensemble de citoyens idéaux ont été connues de millions et millions de chrétiens depuis presque 2000 ans. Alors, en quoi la chrétienté est-elle défaillante et comment _Le Livre d’Urantia_ nous dit-il de compenser ces insuffisances ? Peut-être la réponse à cette question est-elle que la vaste majorité des chrétiens connaissent mais ne pratiquent pas le message de Jésus. Une grande partie des chrétiens pratiquants sont des croyants authentiques et se qualifient pour être appelés des disciples de Jésus. Mais selon _Le Livre d’Urantia,_ il y a une différence considérable entre les exigences requises pour un disciple et celles pour un apôtre. Peut-être alors ce que la cinquième révélation d’époque exige de nous est que nous devions suivre la voie des premiers apôtres vers l’apostolat !
 
 Les exigences pour l’apostolat sont fixées au fascicule 140 du Livre d’Urantia _:_ ‘L’Ordination des Douze’. Il n’est pas du tout inenvisageable de lire ce fascicule et de conclure qu’il était destiné pour les douze uniquement. Mais ce n’est pas le cas. Au paragraphe 4 du chapitre 1 l’apostolat est proposé à tous ceux qui voudraient suivre le chemin des douze. Cette offre est réitérée au chapitre 3:20, où Jésus dit :
 
-> _Mais quiconque entend ces instructions et exécute sincèrement sa mission de me représenter devant les hommes comme j’ai représenté mon Père devant vous, trouvera une large entrée à mon service et dans le royaume du Père qui est aux cieux._ <a id="a68_240"></a>[[LU 140:3.20](/fr/The_Urantia_Book/140#p3_20)]
+> _Mais quiconque entend ces instructions et exécute sincèrement sa mission de me représenter devant les hommes comme j’ai représenté mon Père devant vous, trouvera une large entrée à mon service et dans le royaume du Père qui est aux cieux._ <a id="a73_243"></a>[[LU 140:3.20](/fr/The_Urantia_Book/140#p3_20)]
 
 C’est pourquoi nous devons nous demander si ce que la cinquième révélation d’époque demande réellement ce sont des centaines d’abord, puis des milliers, suivis de millions et millions d’étudiants du Livre d’Urantia tous désireux de suivre la voie de l’apostolat.
 
@@ -57,17 +81,17 @@ Une différence entre disciple et apôtre annoncée par Jésus est qu’en entre
 
 L’apostolat est une entreprise exigeante mais, spirituellement, énormément gratifiante. Beaucoup de ses conditions sont définies au fascicule 140 et doivent être comprises dans leur ensemble car, en nous attelant à l’apostolat, nous nous mettons en permanence devant la barre du jugement humain. L’expérience du christianisme a été qu’il suffit qu’une proportion relativement petite de chrétiens ait un comportement indigne de chrétiens pour qu’une réaction hautement néfaste et condamnatoire soit entraînée. C’est peut-être en récognition de ce fait que nous trouvons une déclaration, (un  jugement), extraordinairement dure dans _Le Livre d’Urantia_ qui peut-être ne s’applique qu’à ceux qui entreprennent d’être apôtres. Elle a été faite par Jésus lors d’une apparition après sa résurrection à un groupe de croyants de Tyr, qui auraient tous eu le statut d’apôtre. On la trouve page 193:2.2 et elle dit ::
 
-> _Et voici les fruits de l’esprit divin produits dans la vie des mortels nés d’esprit et connaissant Dieu : service aimant, dévouement désintéressé, fidélité courageuse, équité sincère, honnêteté éclairée, espoir vivace, confiance sans soupçons, ministère miséricordieux, bonté inaltérable, tolérance indulgente et paix durable. Si de prétendus croyants ne portent pas ces fruits de l’esprit divin dans leur vie, ils sont morts ; l’Esprit de Vérité n’est pas en eux ; ils sont des sarments inutiles de la vigne vivante et seront bientôt retranchés._ <a id="a78_531"></a>[[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2)]
+> _Et voici les fruits de l’esprit divin produits dans la vie des mortels nés d’esprit et connaissant Dieu : service aimant, dévouement désintéressé, fidélité courageuse, équité sincère, honnêteté éclairée, espoir vivace, confiance sans soupçons, ministère miséricordieux, bonté inaltérable, tolérance indulgente et paix durable. Si de prétendus croyants ne portent pas ces fruits de l’esprit divin dans leur vie, ils sont morts ; l’Esprit de Vérité n’est pas en eux ; ils sont des sarments inutiles de la vigne vivante et seront bientôt retranchés._ <a id="a83_551"></a>[[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2)]
 
 En conclusion nous offrons une pensée finale. Il y a eu une division d’opinion considérable concernant la façon dont les enseignements du Livre d’Urantia devraient être disséminés dans la communauté en général. De même que l’on trouve dans le livre la réponse sur ce que devrait être notre rôle dans nos vies quotidiennes, de même la réponse à la question concernant la façon de disséminer les enseignements se trouve dans le livre. Elle nous a été donnée par un conseiller divin agissant par autorité des Anciens des Jours sur Uversa et apparaît dans le troisième paragraphe de la page 43. Il n’existe qu’un livre dans le monde qui réponde à la description donnée là de
 
-> _… concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme._ <a id="a82_111"></a>[[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10)]
+> _… concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme._ <a id="a87_122"></a>[[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10)]
 
 et c’est Le Livre d’Urantia lui-même.
 
 De même que [le fascicule 99](/fr/The_Urantia_Book/99) traitait des problèmes courants de cet âge, de même ces directives sont pour tout de suite et pour des hommes et des femmes spirituellement clairvoyants et dotés des compétences et aptitudes nécessaires, utilisant _Le Livre d’Urantia_ comme source pour conduire ces œuvres secondaires qui permettront aux enseignements du livre de pénétrer dans toutes les strates de toutes sociétés et ainsi …
 
-> _… attirera tout ce qui est bon dans le mental des hommes et jettera un défi à ce qu’il y a de meilleur dans leur âme._ <a id="a88_101"></a>[[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10)]
+> _… attirera tout ce qui est bon dans le mental des hommes et jettera un défi à ce qu’il y a de meilleur dans leur âme._ <a id="a93_122"></a>[[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10)]
 
 qui oserait argumenter avec une telle autorité ?
 
@@ -77,3 +101,28 @@ qui oserait argumenter avec une telle autorité ?
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2018/?lang=fr)
 - [Cet article](https://urantia-association.org/lobjectif-de-la-cinquieme-revelation-depoque/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Suzanne_Kelly/journal_editorial_nov_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Elders/personal_exp_revealed_truth">
+          <span class="pr-2">L’Expérience Personnelle de la Vérité Révélée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 William Wentworth<br>© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Blackham/worship_sons_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Adoration – Une expérience filiale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neil_Francey/supermeditation">
+          <span class="pr-2">SuperMéditation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _(Présenté à la conférence d’Anzura à  Hobart, octobre 2010)_
@@ -26,7 +50,7 @@ L’adoration a évolué à travers de nombreuses phases – adoration d’anima
 
 L’adoration est de reconnaître et d’honorer Dieu comme un père, mais est-ce aussi le fait de reconnaître l’aspect impersonnel de la déité ? Je crois que oui. Jésus définit l’adoration comme :
 
-> _l’acte d’une fraction qui s’identifie avec le Tout ; le fini avec l’Infini ; le fils avec le Père ; le temps, dans l’action consistant à emboiter le pas à l’éternité. L’adoration est l’acte de communion personnelle du fils avec le Père divin, l’adoption, par l’âme-esprit de l’homme, de comportements reposants, créatifs, fraternels et romanesques._ <a id="a51_338"></a>[[LU 143:7.8](/fr/The_Urantia_Book/143#p7_8)].
+> _l’acte d’une fraction qui s’identifie avec le Tout ; le fini avec l’Infini ; le fils avec le Père ; le temps, dans l’action consistant à emboiter le pas à l’éternité. L’adoration est l’acte de communion personnelle du fils avec le Père divin, l’adoption, par l’âme-esprit de l’homme, de comportements reposants, créatifs, fraternels et romanesques._ <a id="a52_353"></a>[[LU 143:7.8](/fr/The_Urantia_Book/143#p7_8)].
 
 Pour Jésus, l’adoration consiste à la fois à communier personnellement avec le Père et à reconnaître l’Infini comme étant la source de tout. Il vaut la peine de se souvenir que ce deuxième aspect de l’adoration est suggéré par Jésus, et que nos tentatives de communion personnelle avec le Père sont aussi liées à notre reconnaissance de la source de la réalité et du plan divin de progression. Dans un sens, nous adorons Dieu parce que nous savons quelque chose de lui – sur qui il est et ce qu’il fait.
 
@@ -40,7 +64,7 @@ L’adoration est souvent mise en contraste avec la prière. La prière est auss
 
 Les révélateurs mettent l’accent sur la nature _personnelle_ de l’adoration. Un Conseiller Divin souligne que :
 
-> _Le Père Universel n’impose jamais aucune forme de reconnaissance arbitraire, ni d’adoration formelle, ni de service servile aux créatures des univers douées d’intelligence et de volonté._ <a id="a65_162"></a>[[LU 1:2.2](/fr/The_Urantia_Book/1#p2_2)].
+> _Le Père Universel n’impose jamais aucune forme de reconnaissance arbitraire, ni d’adoration formelle, ni de service servile aux créatures des univers douées d’intelligence et de volonté._ <a id="a66_191"></a>[[LU 1:2.2](/fr/The_Urantia_Book/1#p2_2)].
 
 L’adoration est une affaire personnelle. La façon de l’aborder dépend de nous .
 
@@ -48,11 +72,11 @@ L’adoration est une affaire personnelle. La façon de l’aborder dépend de n
 
 Comme je vois les choses, les révélateurs suggèrent qu’il y a une sorte de continuité dans l’adoration, de l’adoration formelle hautement structurée à l’adoration relativement informelle et spontanée. D’un côté, un Conseiller Divin nous dit que :
 
-> _L’adoration sincère implique la mobilisation de tous les pouvoirs de la personnalité humaine sous la domination de l’âme évoluante, et leur soumission aux directives divines de l’Ajusteur de Pensée associé._ <a id="a73_209"></a>[[LU 5:3.7](/fr/The_Urantia_Book/5#p3_7)].
+> _L’adoration sincère implique la mobilisation de tous les pouvoirs de la personnalité humaine sous la domination de l’âme évoluante, et leur soumission aux directives divines de l’Ajusteur de Pensée associé._ <a id="a74_211"></a>[[LU 5:3.7](/fr/The_Urantia_Book/5#p3_7)].
 
 D’un autre côté, il dit :
 
-> _La consécration aimante de la volonté humaine à l’exécution de la volonté du Père est le don le plus précieux de l’homme à Dieu. En fait, une telle consécration de la volonté de la créature constitue le seul don réellement valable qu’il soit possible à l’homme de faire au Père du Paradis. En Dieu, l’homme vit, se meut et a son existence. Il n’y a rien que l’homme puisse donner à Dieu, excepté ce choix de se conformer à la volonté du Père, et les décisions ainsi prises par les créatures douées d’intelligence et de volonté dans les univers constituent la réalité de cette véritable adoration qui satisfait si pleinement la nature du Père Créateur, dominée par l’amour._ <a id="a77_576"></a>[[LU 1:1.2](/fr/The_Urantia_Book/1#p1_2)].
+> _La consécration aimante de la volonté humaine à l’exécution de la volonté du Père est le don le plus précieux de l’homme à Dieu. En fait, une telle consécration de la volonté de la créature constitue le seul don réellement valable qu’il soit possible à l’homme de faire au Père du Paradis. En Dieu, l’homme vit, se meut et a son existence. Il n’y a rien que l’homme puisse donner à Dieu, excepté ce choix de se conformer à la volonté du Père, et les décisions ainsi prises par les créatures douées d’intelligence et de volonté dans les univers constituent la réalité de cette véritable adoration qui satisfait si pleinement la nature du Père Créateur, dominée par l’amour._ <a id="a78_677"></a>[[LU 1:1.2](/fr/The_Urantia_Book/1#p1_2)].
 
 Ici nous avons les deux pôles du continuum de l’adoration. D’un côté l**a mobilisation de tous les pouvoirs de la personnalité** et, de l’autre, **la pratique de la volonté divine, qui constitue la réalité de la vraie adoration.**
 
@@ -76,24 +100,24 @@ Je suggère que la plupart de nos efforts d’adoration s’inscriront dans ce c
 
 Bien que nous abordions l’adoration sans aucune pensée de gain ou de récompense, les révélateurs expliquent clairement que nous dérivons d’énormes bénéfices de l’adoration. La croissance spirituelle qui résulte de l’adoration est inestimable. Notre Ajusteur intérieur nous incite continuellement à aider à améliorer sa communication avec notre mental et notre personnalité en partageant notre vie intérieure avec Dieu, et c’est l’adoration qui donne à notre Ajusteur sa meilleure occasion.
 
-Quoi qu’il en soit, nous élaborons notre propre manière d’adorer. Et nous sommes informés que nous ne pouvons jamais être hautement _conscients_ de l’importance de la vraie adoration. <a id="a101_151"></a>[[LU 5:3.7](/fr/The_Urantia_Book/5#p3_7)]. Notre mental matériel n’est pas capable de la rendre consciente pour nous. Cependant, Jésus signale que :
+Quoi qu’il en soit, nous élaborons notre propre manière d’adorer. Et nous sommes informés que nous ne pouvons jamais être hautement _conscients_ de l’importance de la vraie adoration. <a id="a102_184"></a>[[LU 5:3.7](/fr/The_Urantia_Book/5#p3_7)]. Notre mental matériel n’est pas capable de la rendre consciente pour nous. Cependant, Jésus signale que :
 <br style="clear:both;"/>
 
-> _C’est au moment où le mental humain est dans une attitude de sincère adoration que l’esprit du Père parle le mieux aux hommes._ <a id="a104_104"></a>[[LU 146:2.17](/fr/The_Urantia_Book/146#p2_17)]
+> _C’est au moment où le mental humain est dans une attitude de sincère adoration que l’esprit du Père parle le mieux aux hommes._ <a id="a105_131"></a>[[LU 146:2.17](/fr/The_Urantia_Book/146#p2_17)]
 
 Et aussi : l’adoration … rend l’adorateur de plus en plus semblable à l’être qu’il adore.
 
 ### La signification du service
 
-Nous pouvons penser au service comme à l’amour appliqué. _Le Livre d’Urantia_ définit l’amour comme le désir de faire du bien aux autres ; le service est la tentative pour faire réellement ce bien. Lorsque Jésus dit à Ganid qu’une bonne façon d’avoir des amis est de guetter l’occasion de faire quelque chose pour les autres que vous êtes sûr qu’ils souhaitent <a id="a110_308"></a>[[LU 130:7.2](/fr/The_Urantia_Book/130#p7_2)], il portait l’attention sur une approche pratique du service.
+Nous pouvons penser au service comme à l’amour appliqué. _Le Livre d’Urantia_ définit l’amour comme le désir de faire du bien aux autres ; le service est la tentative pour faire réellement ce bien. Lorsque Jésus dit à Ganid qu’une bonne façon d’avoir des amis est de guetter l’occasion de faire quelque chose pour les autres que vous êtes sûr qu’ils souhaitent <a id="a111_361"></a>[[LU 130:7.2](/fr/The_Urantia_Book/130#p7_2)], il portait l’attention sur une approche pratique du service.
 
 ### Le circuit d’amour
 
-Le grand circuit d’amour est décrit comme étant du Père, passant par les fils vers les frères et de là vers le Suprême. Le service est l’expression pratique de ce circuit. Nous exprimons notre amour pour nos compagnons en faisant pour eux des choses qu’ils souhaitent qu’elles soient faites, et cette action d’amour fraternel se répercute dans le Suprême. Et ici, nous pouvons nous souvenir que Jésus a appelé ses apôtres à aimer les hommes – pas seulement les âmes des hommes <a id="a114_426"></a>[[LU 191:5.3](/fr/The_Urantia_Book/191#p5_3)]. Le service ne vise pas seulement à l’amélioration spirituelle de nos semblables ou à leur salut proposé – c’est de les aider, quelle que soit la manière nécessitée.
+Le grand circuit d’amour est décrit comme étant du Père, passant par les fils vers les frères et de là vers le Suprême. Le service est l’expression pratique de ce circuit. Nous exprimons notre amour pour nos compagnons en faisant pour eux des choses qu’ils souhaitent qu’elles soient faites, et cette action d’amour fraternel se répercute dans le Suprême. Et ici, nous pouvons nous souvenir que Jésus a appelé ses apôtres à aimer les hommes – pas seulement les âmes des hommes <a id="a115_477"></a>[[LU 191:5.3](/fr/The_Urantia_Book/191#p5_3)]. Le service ne vise pas seulement à l’amélioration spirituelle de nos semblables ou à leur salut proposé – c’est de les aider, quelle que soit la manière nécessitée.
 
 ### Le service est volontaire
 
-Un Conseiller Divin signale que le Père n’impose pas de service servile à ses créatures <a id="a118_92"></a>[[LU 1:1.2](/fr/The_Urantia_Book/1#p1_2)]. Les personnalités au libre arbitre servent volontairement, et elles doivent choisir leurs voies de desserte elles-mêmes. Nous ne sommes pas des esclaves et nous décidons comment servir.
+Un Conseiller Divin signale que le Père n’impose pas de service servile à ses créatures <a id="a119_88"></a>[[LU 1:1.2](/fr/The_Urantia_Book/1#p1_2)]. Les personnalités au libre arbitre servent volontairement, et elles doivent choisir leurs voies de desserte elles-mêmes. Nous ne sommes pas des esclaves et nous décidons comment servir.
 
 Les révélateurs signalent que, tandis que les séraphins et d’autres personnalités spirituelles  prennent naturellement plaisir à servir, ce n’est pas le cas des créatures d’origine animale. Il nous faut apprendre par expérience personnelle qu’il est mieux de donner que de recevoir. Nous devons découvrir par essais et erreurs combien cela peut être satisfaisant de rendre service. La vie de service que Jésus a menée est une grande inspiration pour nous ; pour trouver par nous-mêmes quelle satisfaction nous pouvons tirer du service de notre prochain.
 
@@ -120,9 +144,9 @@ Bien sûr, même lorsque le mobile est de servir, il y a des moments où nous no
 
 En fin de compte, le service est l’effort pour faire du bien. J’aime vraiment ce que dit Jésus à la tenancière de l’auberge grecque :
 
-> _Offre ton hospitalité comme une personne qui reçoit les enfants du Très Haut. Élève la corvée de ton travail quotidien au niveau élevé d’un art par la conscience croissante que tu sers Dieu en servant les personnes que Dieu habite par son esprit venu vivre dans le cœur des hommes. Cherche ainsi à transformer leur mental et à conduire leur âme à la connaissance du Père Paradisiaque qui a octroyé tous ces dons d’esprit divin._ <a id="a145_468"></a>[[LU 133:4.8](/fr/The_Urantia_Book/133#p4_8)].
+> _Offre ton hospitalité comme une personne qui reçoit les enfants du Très Haut. Élève la corvée de ton travail quotidien au niveau élevé d’un art par la conscience croissante que tu sers Dieu en servant les personnes que Dieu habite par son esprit venu vivre dans le cœur des hommes. Cherche ainsi à transformer leur mental et à conduire leur âme à la connaissance du Père Paradisiaque qui a octroyé tous ces dons d’esprit divin._ <a id="a146_432"></a>[[LU 133:4.8](/fr/The_Urantia_Book/133#p4_8)].
 
-Finalement, pour mettre l’adoration et le service en relation réciproque, souvenez-vous de ce que Rodan avait à dire au sujet de la façon dont Jésus utilisait l’adoration méditative et la communion spirituelle pour dériver le pouvoir spirituel afin d’accomplir de grands actes de service <a id="a147_230"></a>[[LU 160:1.10](/fr/The_Urantia_Book/160#p1_10)]. C’est ainsi que nous pouvons avancer dans nos vies – en communiant avec le Père par notre Ajusteur intérieur et en appliquant les fruits d’une telle communion au service de notre prochain.
+Finalement, pour mettre l’adoration et le service en relation réciproque, souvenez-vous de ce que Rodan avait à dire au sujet de la façon dont Jésus utilisait l’adoration méditative et la communion spirituelle pour dériver le pouvoir spirituel afin d’accomplir de grands actes de service <a id="a148_288"></a>[[LU 160:1.10](/fr/The_Urantia_Book/160#p1_10)]. C’est ainsi que nous pouvons avancer dans nos vies – en communiant avec le Père par notre Ajusteur intérieur et en appliquant les fruits d’une telle communion au service de notre prochain.
 
 ## Références
 
@@ -130,3 +154,28 @@ Finalement, pour mettre l’adoration et le service en relation réciproque, sou
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2019/?lang=fr)
 - [Cet article](https://urantia-association.org/la-signification-de-ladoration-et-du-service/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Blackham/worship_sons_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Adoration – Une expérience filiale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neil_Francey/supermeditation">
+          <span class="pr-2">SuperMéditation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

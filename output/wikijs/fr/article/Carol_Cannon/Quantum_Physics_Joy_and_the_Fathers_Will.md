@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Carol Cannon<br>© 2000 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolina_Arana/Gods_Relation_to_the_Individual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relation De Dieu Avec L'individu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-septembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septembre 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/We_All_Have_What_It_Takes_To_Live_According_to_the_Will_of_God">
+          <span class="pr-2">Nous Avons Tout Le Nécessaire Pour Faire La Volonté Du Père</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Carol_Cannon.jpg">
@@ -38,7 +62,7 @@ Je ne cesse de m'étonner de ce qu'il y ait un **centre**, un centre gravitation
 
 Bon, vous allez me dire : «Arrivons-en au fait.» Vous voulez connaitre la partie de physique quantique de cette équation. Permettez-moi de revenir à l'expression «configurer une société renouvelée de l'intérieur ». Non seulement je me réfère à l'expression «il faut d'abord ôter la poutre qui est dans notre oeil pour mieux pouvoir ôter la paille qui est dans celui de notre frère », mais aussi à notre compréhension de ce qui est l'intérieur et l'extérieur. Comment sommes nous **en interface** avec cet Intérieur Infini de Toute chose et de Tout être ? De quoi se compose l'intérieur en termes relatifs à notre système opératoire, à notre formation génétique, et comment et pourquoi sommes-nous fondamentalement projetés comme un appareil de radionique, capable d'émettre et de recevoir des formes complexes d'énergie et de pensées? Permettez-moi de vous rappeler ce qui, pour moi, est l'une des affirmations les plus étonnantes du _Livre d'Urantia_, affirmation faite incidemment, c'est à 42:1.2:
 
-> _La matière — l'énergie — car ce ne sont que des manifestations diverses de la même réalité cosmique, en tant que phénomène universel, est inhérente au Père Universel. «En lui toutes choses subsistent. » La matière peut paraître manifester une énergie innée et des pouvoirs autonomes, mais les lignes de gravité impliquées dans les énergies relatives à tous ces phénomènes physiques dérivent et dépendent du Paradis. L'ultimaton, la première forme mesurable d'énergie, a le Paradis pour noyau._ [[LU 42:1.2](/fr/The_Urantia_Book/42#p1_2)]
+> _La matière — l'énergie — car ce ne sont que des manifestations diverses de la même réalité cosmique, en tant que phénomène universel, est inhérente au Père Universel. «En lui toutes choses subsistent. » La matière peut paraître manifester une énergie innée et des pouvoirs autonomes, mais les lignes de gravité impliquées dans les énergies relatives à tous ces phénomènes physiques dérivent et dépendent du Paradis. L'ultimaton, la première forme mesurable d'énergie, a le Paradis pour noyau._ <a id="a64_497"></a>[[LU 42:1.2](/fr/The_Urantia_Book/42#p1_2)]
 
 
 Que pouvons-nous en déduire d'autre si ce n'est qu'au coeur même de la plus petite chose, comme dans tout grand «quelqu'un», et quelle que soit la façon dont ils semblent se comporter, il y a l'amour pur et absolu ?
@@ -93,4 +117,28 @@ Rosendo de Aguilera, l'ancien président de l'Association Urantia de Grand New Y
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Rosendo_de_Aguilera.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolina_Arana/Gods_Relation_to_the_Individual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relation De Dieu Avec L'individu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-septembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septembre 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/We_All_Have_What_It_Takes_To_Live_According_to_the_Will_of_God">
+          <span class="pr-2">Nous Avons Tout Le Nécessaire Pour Faire La Volonté Du Père</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

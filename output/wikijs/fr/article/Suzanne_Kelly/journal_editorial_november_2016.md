@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Suzanne Kelly<br>© 2016 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2016_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Novembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/how_to_participate_in_jesus_gospel_movement">
+          <span class="pr-2">Comment participer au mouvement évangélique de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -27,7 +51,7 @@ Notre troisième contributeur Alexandre H. vient de Cologne, Allemagne et il a p
 
 De l’Allemagne à Sydney en Australie, où nous rencontrons Kathleen Swadling  de la conférence ANZURA de 2015 et nous faisons une promenade spirituelle en suivant **La Route pavée de jaune.** En utilisant l’analogie du Magicien d’Oz, Kathleen compare son voyage pour trouver la foi avec  le chemin d’or à faire la volonté de Dieu. _J’ai toujours pensé à ces moments spéciaux qui se produisaient dans ma vie intérieure et qui m’aidaient à me rapprocher d’une foi en Dieu. C’étaient comme de fins fils d’or qui reliaient le plus profond de mon être avec la source de la vérité. Comme de plus en plus de ces fins fils d’or apparaissaient, ils ont commencé à se mettre en écheveau comme une grosse  corde d’or. Je commençais à ressentir que j’avais trouvé une autoroute d’or.  Tout ce qui précédait semblait être la recherche de la bretelle d’entrée de l’autoroute ; une fois trouvée cette bretelle, j’entrais sur l’autoroute et j’étais en chemin !_
 
-> _La croyance à l’évangile n’empêchera pas d’avoir des ennuis, mais elle assurera que vous n’aurez pas peur quand les difficultés vous assailliront. Si vous osez croire en moi et si vous vous mettez à me suivre de tout cœur, vous vous engagerez en toute certitude sur le chemin qui mène aux difficultés. Je ne vous promets pas de vous délivrer des eaux de l’adversité, mais ce que **je vous promets, c’est de les traverser toutes avec vous.**_ <a id="a52_414"></a>[[LU 159:3.13](/fr/The_Urantia_Book/159#p3_13), emphasis added]
+> _La croyance à l’évangile n’empêchera pas d’avoir des ennuis, mais elle assurera que vous n’aurez pas peur quand les difficultés vous assailliront. Si vous osez croire en moi et si vous vous mettez à me suivre de tout cœur, vous vous engagerez en toute certitude sur le chemin qui mène aux difficultés. Je ne vous promets pas de vous délivrer des eaux de l’adversité, mais ce que **je vous promets, c’est de les traverser toutes avec vous.**_ <a id="a53_445"></a>[[LU 159:3.13](/fr/The_Urantia_Book/159#p3_13), emphasis added]
 
 Notre dernier contributeur, Daniel Swadling, vient aussi d’Australie et a présenté  **_Saisir une fraude_** lors de la conférence de l’ANZURA d’octobre 2015. Dans ce récit surprenant d’expérience unifiante, Daniel a trouvé une façon d’harmoniser un groupe  de personnes en utilisant les sentiments de peur, de choc, puis d’effroi mêlé d’admiration. En retournant la peur, il nous offre une nouvelle manière de l’attraper avant qu’elle s’en aille avec nous.  _Nous connaissons tous la peur, nous permettons que nous soyons victimes de la peur et nous savons comment elle opère. Et puisque vous connaissez la peur, cela vous met dans la meilleure position pour saisir cette  peur, l’arrêter et la surmonter avant qu’elle ne vous détruise. En ralentissant vos réactions à la peur vous donnez à votre mental supérieur une chance de la traiter correctement, de vous délivrer de son emprise d’esclavage, et vous permettez à votre esprit intérieur de se connecter à votre mental à ce moment-là et de faire croître encore plus votre âme._
 
@@ -43,3 +67,28 @@ Rédactrice du Journal
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2016/?lang=fr)
 - [Cet article](https://urantia-association.org/newsletter/journal-novembre-2016/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2016_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Novembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/how_to_participate_in_jesus_gospel_movement">
+          <span class="pr-2">Comment participer au mouvement évangélique de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -42,9 +42,9 @@ _by Gard Jameson_
 
 There are very few sentences in _The Urantia Book_ that contain only three words.
 
-In fourteen citations, we hear: **“God is love.”** In “Paper 56, Universal Unity,” we are told by “a Mighty Messenger . . . , _by request_ of the Nebadon Revelatory Corps and _in collaboration with_ a certain Melchizedek, _the vicegerent Planetary Prince of Urantia_” in the opening of the paper: **“God is unity.”** (emphasis added, <a id="a20_334"></a>[UB 56:10.22](/en/The_Urantia_Book/56#p10_22))
+In fourteen citations, we hear: **“God is love.”** In “Paper 56, Universal Unity,” we are told by “a Mighty Messenger . . . , _by request_ of the Nebadon Revelatory Corps and _in collaboration with_ a certain Melchizedek, _the vicegerent Planetary Prince of Urantia_” in the opening of the paper: **“God is unity.”** (emphasis added, <a id="a44_334"></a>[UB 56:10.22](/en/The_Urantia_Book/56#p10_22))
 
-In “Paper 115, The Supreme Being,” we hear from a Mighty Messenger, perhaps the very same: “While infinity is on the one hand, **UNITY**, on the other it is **DIVERSITY** without end or limit.” (<a id="a22_195"></a>[UB 115:3.4](/en/The_Urantia_Book/115#p3_4)) Those words, “UNITY” and “DIVERSITY,” were capitalized by the direction of the revelatory commission.
+In “Paper 115, The Supreme Being,” we hear from a Mighty Messenger, perhaps the very same: “While infinity is on the one hand, **UNITY**, on the other it is **DIVERSITY** without end or limit.” (<a id="a46_195"></a>[UB 115:3.4](/en/The_Urantia_Book/115#p3_4)) Those words, “UNITY” and “DIVERSITY,” were capitalized by the direction of the revelatory commission.
 
 The message couldn't be clearer—divine realities seek for greater degrees of UNITY.
 

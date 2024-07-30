@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Nicholas W. Scalzo<br>© 2000 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2000_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — September 2000 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Living_the_Will_of_Our_Father">
+          <span class="pr-2">Living the Will of Our Father</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Nicholas_W_Scalzo.jpg">
@@ -24,28 +48,28 @@ We are told by a Divine Counselor:
 
 <br style="clear:both;"/>
 
-> _Those who know God have experienced the fact of bis presence; such God-knowing mortals bold in their personal experience the only positive proof of the existence of the living God which one human being can offer to another. The existence of God is utterly beyond all possibility of demonstration except for the contact between the God-consciousness of the human mind and the God-presence of the Thought Adjuster that indwells the mortal intellect and is bestowed upon man as the free gift of the Universal Father._ [[UB 1:2.8](/en/The_Urantia_Book/1#p2_8)]
+> _Those who know God have experienced the fact of bis presence; such God-knowing mortals bold in their personal experience the only positive proof of the existence of the living God which one human being can offer to another. The existence of God is utterly beyond all possibility of demonstration except for the contact between the God-consciousness of the human mind and the God-presence of the Thought Adjuster that indwells the mortal intellect and is bestowed upon man as the free gift of the Universal Father._ <a id="a50_518"></a>[[UB 1:2.8](/en/The_Urantia_Book/1#p2_8)]
 
 
-> _Your message to the world shall be: Seek first the kingdom of God and bis righteousness, . . . for this ***kingdom*** of which you preach ***is God within you***._ [[UB 140:1.5](/en/The_Urantia_Book/140#p1_5); emphasis mine]
+> _Your message to the world shall be: Seek first the kingdom of God and bis righteousness, . . . for this ***kingdom*** of which you preach ***is God within you***._ <a id="a53_167"></a>[[UB 140:1.5](/en/The_Urantia_Book/140#p1_5); emphasis mine]
 
 This morning, within these hallowed halls are men and women who have experienced the fact of God's presence and truly know him. These God-conscious mortals have found God within themselves. They have reached beyond the point of belief and have actually and consciously come to know him, for they have experienced God. These God-knowing mortals will be sharing their personal lives with us to offer us the only possible proof of the existence of God. As God-knowing mortals, we will be opening our souls to one another to show the spiritual growth that has occurred in our lives. And in living the will of our Father in our daily lives, we will share how we have made personal and conscious contact with the God-presence of the Spirit of God that indwells our mortal intellect—God Consciousness.
 
-This morning I will be the first of many speakers who will share with you our lives, as we lived and personally experienced living the will of our Father. We love our Father, as all of you do. We are all only men and women trying our best to serve him and our brothers and sisters in the flesh. Heaven knows we are not perfect, especially me. But we are trying to be. That is why we are here today to share and learn from one another the injunction: “_Be you perfect, even as I am perfect_” [[UB 1:0.3](/en/The_Urantia_Book/1#p0_3); [UB 1:5.1](/en/The_Urantia_Book/1#p5_1); [UB 7:4.7](/en/The_Urantia_Book/7#p4_7); [UB 26:4.12](/en/The_Urantia_Book/26#p4_12) and others]. We hope in the workshop sessions that you will feel free to share your spiritual experiences with one another as we who are speakers are sharing our lives with you.
+This morning I will be the first of many speakers who will share with you our lives, as we lived and personally experienced living the will of our Father. We love our Father, as all of you do. We are all only men and women trying our best to serve him and our brothers and sisters in the flesh. Heaven knows we are not perfect, especially me. But we are trying to be. That is why we are here today to share and learn from one another the injunction: “_Be you perfect, even as I am perfect_” <a id="a57_491"></a>[[UB 1:0.3](/en/The_Urantia_Book/1#p0_3); <a id="a57_533"></a>[UB 1:5.1](/en/The_Urantia_Book/1#p5_1); <a id="a57_574"></a>[UB 7:4.7](/en/The_Urantia_Book/7#p4_7); <a id="a57_615"></a>[UB 26:4.12](/en/The_Urantia_Book/26#p4_12) and others]. We hope in the workshop sessions that you will feel free to share your spiritual experiences with one another as we who are speakers are sharing our lives with you.
 
 God must be **first** in our lives. Our supreme desire must be to know him; to live our lives as he would live it, if we let him; to do his will, his way; to serve him always to his glory; and to love each other as he loves us and as we love him. And knowing that by doing his will, his way, that he in fact lives our lives at various times in ways of heavenly perfection. We have witnessed God's work, we have seen his perfection in action, and we know him as a real part of us.
 
 ## The Various Functions of Thought Changers, Thought Adjusters, Thought Controllers
 
-> _Although the Universal Father is personally resident on Paradise, at the very center of the universes, he is also actually present on the worlds of space in the minds of his countless children of time, for be indwells them as the Mystery Monitors._ [[UB 107:0.1](/en/The_Urantia_Book/107#p0_1)]
+> _Although the Universal Father is personally resident on Paradise, at the very center of the universes, he is also actually present on the worlds of space in the minds of his countless children of time, for be indwells them as the Mystery Monitors._ <a id="a63_252"></a>[[UB 107:0.1](/en/The_Urantia_Book/107#p0_1)]
 
-> _The Adjusters are the actuality of the Father's love incarnate in the souls of men . . ._ [[UB 107:0.2](/en/The_Urantia_Book/107#p0_2)]
+> _The Adjusters are the actuality of the Father's love incarnate in the souls of men . . ._ <a id="a65_93"></a>[[UB 107:0.2](/en/The_Urantia_Book/107#p0_2)]
 
 The Adjuster is the love of God in the hearts and souls of men. God loves you- that's why he comes to indwell you and help you in your life. As we grow up he remains the same, but as we experience life he functions in accordance with the experience we have.
 
 A Solitary Messenger, one of authority of the Infinite Spirit, teaches us in _The Urantia Book_ that,
 
-> _On the evolutionary worlds, will creatures [like us] traverse three general developmental stages of being: From the arrival of the Adjuster to comparative full growth, about twenty years of age on Urantia, the Monitors are sometimes designated ***Thought Changers***._ [[UB 107:0.7](/en/The_Urantia_Book/107#p0_7); emphasis mine]
+> _On the evolutionary worlds, will creatures [like us] traverse three general developmental stages of being: From the arrival of the Adjuster to comparative full growth, about twenty years of age on Urantia, the Monitors are sometimes designated ***Thought Changers***._ <a id="a71_272"></a>[[UB 107:0.7](/en/The_Urantia_Book/107#p0_7); emphasis mine]
 
 The Solitary Messenger in _The Urantia Book_ tells us first that we are indwelt by God in the form of the Thought Adjuster. Second, he says that when we are little children until we reach about twenty years of age this Spirit of God within us, the Thought Adjuster, is sometimes referred to as a **Thought Changer**. This is because the Spirit of God within all of us, as children, functions by changing or exchanging one of our lesser thoughts for another one that is more like his—God-like. He also makes our good ideas even better. He encourages us to do the right thing.
 
@@ -53,7 +77,7 @@ I see in the audience those of you who are older than five years old, but younge
 
 The Solitary Messenger then explains:
 
-> _From this time [approximately twenty years old] to the attainment of the age of ***discretion***, about forty years, the Mystery Monitors are called ***Thought Adjusters***._ [[UB 107:0.7](/en/The_Urantia_Book/107#p0_7), emphasis mine]
+> _From this time [approximately twenty years old] to the attainment of the age of ***discretion***, about forty years, the Mystery Monitors are called ***Thought Adjusters***._ <a id="a79_178"></a>[[UB 107:0.7](/en/The_Urantia_Book/107#p0_7), emphasis mine]
 
 I see in the audience those of you who are older than twenty years, but who have not reach the age of discretion about forty years old. Would all of you please stand up? The Father fragments of God within you function as **Thought Adjusters**. Think of your Thought Adjuster as one who adjusts your thoughts. He fine-tunes your thoughts in your mind, so that they are more like the thoughts that he would use if he were living your life.
 
@@ -63,7 +87,7 @@ As they now sit down, lets all give these experienced, Thought Adjuster-indwelt 
 
 Next, the Solitary Messenger from Paradise explains that:
 
-> _From the attainment of discretion [approximately forty years and older] to deliverance from the flesh [until they leave our planet and start the Paradise ascent], [The Thought Adjusters] are often referred to as **Thought Controllers**._ [[UB 107:0.7](/en/The_Urantia_Book/107#p0_7)]
+> _From the attainment of discretion [approximately forty years and older] to deliverance from the flesh [until they leave our planet and start the Paradise ascent], [The Thought Adjusters] are often referred to as **Thought Controllers**._ <a id="a89_241"></a>[[UB 107:0.7](/en/The_Urantia_Book/107#p0_7)]
 
 Now, would all of you over forty, who have reached the age of discretion and have been indwelt for more than thirty-four years by the Spirit of Godaffectionately known as **Thought Controllers**—please stand up. Now see kids and adults, these highly experienced elder Urantians **have Thought Controllers**. Some day your Mystery Monitors will function as Thought Controllers, much as they do in these seasoned folks. Within these experienced Urantian men and woman, there is **discretion**— the freedom and authority to make decisions and choices, the power to judge and act, and the action and power of discerning judgment as it relates to doing God's will. Now as they sit down would everyone applaud these fine men and woman who have experienced life on Urantia for some time now. These are the children of God who have yielded control of their hearts, minds and souls to the Father.
 
@@ -75,7 +99,7 @@ Kids, did you know that your very own Thought Changers selected you? That's righ
 
 ## First Moral Choice: Deciding Between Good and Evil—The Arrival of the Thought Changer
 
-We are told that the Thought Changer was not able to indwell your mind until you have exhibited _the worship outreach and_ [indicated] _wisdom function by exbibiting the ability to choose between the emerging values of good and evil—moral choice_ [[UB 108:2.2](/en/The_Urantia_Book/108#p2_2)].
+We are told that the Thought Changer was not able to indwell your mind until you have exhibited _the worship outreach and_ [indicated] _wisdom function by exbibiting the ability to choose between the emerging values of good and evil—moral choice_ <a id="a101_247"></a>[[UB 108:2.2](/en/The_Urantia_Book/108#p2_2)].
 
 When you were bom, the Father bestowed your personality on you, and made you who you are. Later, probably sometime before your sixth birthday, your mind was duly prepared and fully encircuited in the Holy Spirit. Then when the spirit of wisdom functioned in your mind, your Thought Changer or Adjuster arrived in your mind at the time you made your first moral decision.
 
@@ -178,13 +202,13 @@ And doing God's will is so easy. Believe me. It is like breathing. Any barriers 
 
 This statement changed my life when its true meaning first dawned on me early in 1970:
 
-> _And how they do enjoy communicating with their subjects in more or less direct channels! How they rejoice when they can dispense with symbols and other methods of indirection and ***flash theit messages straight to the intellects*** of their human partners!_ [[UB 108:6.7](/en/The_Urantia_Book/108#p6_7); emphasis mine]
+> _And how they do enjoy communicating with their subjects in more or less direct channels! How they rejoice when they can dispense with symbols and other methods of indirection and ***flash theit messages straight to the intellects*** of their human partners!_ <a id="a204_262"></a>[[UB 108:6.7](/en/The_Urantia_Book/108#p6_7); emphasis mine]
 
 Because of this teaching in _The Urantia Book_, I was determined, by my supreme desire to serve God to allow my Adjuster to **flash** his message straight to my human intellect. I focus my studies on the methods Jesus employed in determining and choosing the Father's will. All of this study, prayer, determination, and supreme consecration to know God and be like him, do his will, his way, and live my life in service to his son Michael—all culminated in the awareness within my mind of the real possibility of my own personal Adjuster's guidance and leadership.
 
-I learned to love my Adjuster more, to co-operate with him more fully, and I cherished him more affectionately, simply because my Adjuster was deeply interested in my temporal welfare and in my achievements on earth ([UB 110:1.3](/en/The_Urantia_Book/110#p1_3)).
+I learned to love my Adjuster more, to co-operate with him more fully, and I cherished him more affectionately, simply because my Adjuster was deeply interested in my temporal welfare and in my achievements on earth (<a id="a208_217"></a>[UB 110:1.3](/en/The_Urantia_Book/110#p1_3)).
 
-I learned from the Solitary Messenger that: _It is sometimes possible to bave the mind illuminated, to bear the divine woice that continually speaks within you, so that you may become partially conscious of the wisdom, truth, goodness, and beauty of the potential personality constantly indwelling you._ [[UB 109:5.2](/en/The_Urantia_Book/109#p5_2)]
+I learned from the Solitary Messenger that: _It is sometimes possible to bave the mind illuminated, to bear the divine woice that continually speaks within you, so that you may become partially conscious of the wisdom, truth, goodness, and beauty of the potential personality constantly indwelling you._ <a id="a210_304"></a>[[UB 109:5.2](/en/The_Urantia_Book/109#p5_2)]
 
 Imagine that! He said we can ***hear the divine voice that continually speaks within you***.
 
@@ -192,7 +216,7 @@ So I wanted to hear his voice. I would not be satisfied with less. I imagined th
 
 But such, I thought, was for someone as perfect as Jesus, the Son of God. This was not possible for me. Said I, “Who am I, in this commonplace life, that I should be so blessed to have the Spirit of God speak or even communicate in some small fashion with me? I'm not perfect—ask my wife. I'm no saint. Jesus was a Creator son; I was bom across New York Harbor in Brooklyn on the other side of the Verazzano Bridge.” But I knew that as Jesus said, I too was a child of God and the Holy Spirit will testify to it. If I accept it, I too am open to hear the divine voice.
 
-I also leamed that: _This Adjuster did indeed triumph in Jesus' human mind—that mind which in each of life's recurring situations maintained a consecrated dedication to the Father's will, saying, “Not my will, but yours, be done”_ [[UB 109:6.5](/en/The_Urantia_Book/109#p6_5)]. It must then be possible then for each of us to consciously know God's will ***in each of life's recurring situations*** as well.
+I also leamed that: _This Adjuster did indeed triumph in Jesus' human mind—that mind which in each of life's recurring situations maintained a consecrated dedication to the Father's will, saying, “Not my will, but yours, be done”_ <a id="a218_231"></a>[[UB 109:6.5](/en/The_Urantia_Book/109#p6_5)]. It must then be possible then for each of us to consciously know God's will ***in each of life's recurring situations*** as well.
 
 Why not? All we need to do is maintain ***a consecrated dedication to the Father's will***.
 
@@ -205,7 +229,7 @@ And then I read that the Solitary Messenger said:
 > _1. Choosing to respond to divine leading; sincerely basing the human life on the highest consciousness of ***truth***, ***beauty***; and **goodness**, and then co-ordinating these qualities of divinity through **wisdom**, **worship**, **faith**, and **love**._
 > _2. ***Loving God*** and desiring to be like him . . ._
 > _3. ***Loving man*** and sincerely desiring to serve him . . ._
-> _4. ***Joyful acceptance of cosmic citizenship***—honest recognition of your progressive obligations to the Supreme Being . . ._ [[UB 110:3.6](/en/The_Urantia_Book/110#p3_6) 8; emphasis mine]
+> _4. ***Joyful acceptance of cosmic citizenship***—honest recognition of your progressive obligations to the Supreme Being . . ._ <a id="a231_131"></a>[[UB 110:3.6](/en/The_Urantia_Book/110#p3_6) 8; emphasis mine]
 
 Can we not understand that our consecration of choice for communion with God, involves seeking his will within our minds as the highest consciousness of **truth**, **beauty**, and **goodness**, and **loving God** and **desiring to be like him** and loving man and sincerely desiring to serve him, while at the same time joyfully accepting our **cosmic citizenship and obligations to the Supreme Being**.
 
@@ -213,7 +237,7 @@ This is truly a revelation, but one yet to be consciously tried by many. It seem
 
 Will we share our inner life with God? Will we imitate him as we leam to understand his thoughts on the way we should live? Will we say, “I will choose to know your will, my Father”?
 
-> _Such a creature choice is not a surrender of will. It is a consecration of will, an expansion of will, a glorification of will, a perfecting of will; and such choosing raises the creature will from the level of temporal significance to that bigher estate wherein the personality of the creature son communes with the personality of the spirit Father._ [[UB 111:5.5](/en/The_Urantia_Book/111#p5_5)]
+> _Such a creature choice is not a surrender of will. It is a consecration of will, an expansion of will, a glorification of will, a perfecting of will; and such choosing raises the creature will from the level of temporal significance to that bigher estate wherein the personality of the creature son communes with the personality of the spirit Father._ <a id="a239_355"></a>[[UB 111:5.5](/en/The_Urantia_Book/111#p5_5)]
 
 This is indeed what we all want, is it not? Let us now consecrate our will to your glory, Father!
 
@@ -324,3 +348,27 @@ Meanwhile, back in the trailer, one could still hear the tempers rise and the an
 With that announcement, the trailer door flew open. The officials all poured out of the trailer, only to see the job finished and the men already gone. They had no idea what had happened and where everyone was. Bewildered, they all quietly left and went to their place. Not another word was ever mentioned of this incident. Even the newspaper reporters were baffled and had no idea of how this was resolved. Nothing of this massive fight with fifty men was ever reported. But I knew the truth. And I had no one to share it with, until I was able to share it with my spiritual brothers and sisters like you today.
 
 Now after that experience, I was on a high that I can't put into words, a feeling like I was back with God on Paradise. But WOW! I thought. “What an experience. Amazing!” I went back to my truck, shut the doors and screamed so loud I thought I could be heard through the closed glass windows all over the city. “God,” I cried, “you're the greatest. You knew exactly what should be done. You knew perfectly what was in the mind of each man, and what was best for them. You adjusted their thoughts, and knew what it would take to motivate each of them to be in peace and to be good to and actually love one another. You knew exactly the perfect thing to do. And you allowed me to share this with you and do it. God, you're great! I love you, God!” And more did I say in my heart, praising God and this moment of perfection that I had encountered with him. For I had experienced PERFECTION IN ACTION, and it spurred me on to greater experiences with him in the coming years.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2000_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — September 2000 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Living_the_Will_of_Our_Father">
+          <span class="pr-2">Living the Will of Our Father</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

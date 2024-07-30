@@ -115,7 +115,7 @@ Not at all. Urantia Foundation filed the lawsuit against Center for Urantia Book
 
 Although the facts of this case leave grave doubts about the legality of the registered marks 'Urantia' and 'UrantiaN', due to alleged misrepresentations in the Foundation's trademark applications, C.U.B.S. is open to and praying for settlement of all matters without resort to trial. We are not anxious to see the mark's registrations cancelled. Urantia Foundation can avoid that risk for the foreseeable future by withdrawing the lawsuit it initiated against Center for Urantia Book Synergy, Inc. and affirming the right of any group of believers to use the title of The Urantia Book in their organization's name.
 
-> “...Falsehood is not a matter of narration technique but something premeditated as a perversion of truth....The shadow of a hair's turning, premeditated for an untrue purpose, the slightest twisting or perversion of that which is principle – these constitute falseness....” [[UB 48:6.33](/en/The_Urantia_Book/48#p6_33)]
+> “...Falsehood is not a matter of narration technique but something premeditated as a perversion of truth....The shadow of a hair's turning, premeditated for an untrue purpose, the slightest twisting or perversion of that which is principle – these constitute falseness....” <a id="a117_276"></a>[[UB 48:6.33](/en/The_Urantia_Book/48#p6_33)]
 
 ## References
 

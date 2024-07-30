@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Gard Jameson<br>© 2000 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeff_Wattles/Spreading_a_changing_message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spreading a changing message</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Neal_Waldrop/Footsteps_on_the_sand">
+          <span class="pr-2">Footsteps on the sand</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Gard Jameson
 
@@ -21,7 +45,7 @@ I would like to share two intuitive insights that have become the focus of my pe
 1. The impulse that leads us to worship God comes from a deep and genuine recognition of blessing, from the need to give thanks for the many incredible blessings that come to us as individuals, as a community, and as a planet.
 2. The impulse to serve our brothers and sisters comes from a deep recognition of our own hurt, our own “brokenness” As individuals, as a community and as a planet.
 
-When we are willing to recognize these blessings and express our gratitude, our hearts and minds will open, they will be renewed and transformed by the wonderful love of God. In one of the most astonishing statements in the book, Jesus says that worship makes the worshiper more and more like the being he worships ([UB 146:2.17](/en/The_Urantia_Book/146#p2_17)).
+When we are willing to recognize these blessings and express our gratitude, our hearts and minds will open, they will be renewed and transformed by the wonderful love of God. In one of the most astonishing statements in the book, Jesus says that worship makes the worshiper more and more like the being he worships (<a id="a47_316"></a>[UB 146:2.17](/en/The_Urantia_Book/146#p2_17)).
 
 When we are willing to see and recognize that we are broken and wounded, recognize our hurt as a community and the hurt of the planet, then we can truly become servants of the kingdom and enter into the eternal joy of our Master. The insight that comes from deep awareness of the pain and suffering of the world is a powerful source of inspiration in service.
 
@@ -126,10 +150,34 @@ What is needed is a divine appointment. We should allow our faith to reclaim our
 
 Do you really believe what you read in _The Urantia Book_? So, begin to live it fully by making your divine appointment with God, every day of your life, an appointment that will begin to inform and elevate every moment of your life, the life of the community and the very planet we walk on.
 
-It is God's will that each of you become perfect as your Father in heaven is perfect. With the discernment the book gives us I understand that this mandate means that we should begin by loving one another as God loves us. To do this, we must let ourselves be loved by God. The journey of perfecting love is a circular journey, it does not follow a straight line. This circular journey requires a “circumambulation” from each of our relationships, going inward, deeper and deeper, beginning with our relationship with God. I would like to share with you again this statement of Jesus according to which _adoration makes the worshiper more and more like the being he adores_ [[UB 146:2.17](/en/The_Urantia_Book/146#p2_17)]. Love as God loves us, as the Master washes our feet and serves us, even now.
+It is God's will that each of you become perfect as your Father in heaven is perfect. With the discernment the book gives us I understand that this mandate means that we should begin by loving one another as God loves us. To do this, we must let ourselves be loved by God. The journey of perfecting love is a circular journey, it does not follow a straight line. This circular journey requires a “circumambulation” from each of our relationships, going inward, deeper and deeper, beginning with our relationship with God. I would like to share with you again this statement of Jesus according to which _adoration makes the worshiper more and more like the being he adores_ <a id="a152_673"></a>[[UB 146:2.17](/en/The_Urantia_Book/146#p2_17)]. Love as God loves us, as the Master washes our feet and serves us, even now.
 
 Every day we should take the time, make a divine appointment, a little more than the 20 seconds before meals. Try twenty minutes in the morning, and if you want to settle into the relationship, try another twenty minutes in the evening. And, sometimes, you might even want to try a spiritual retreat, or what I call a vacation with God, a rest in the ever-loving arms of God. If I told you that the Dalai Lama, or the Pope, was asking for 20 minutes of your time tomorrow, I think most of you could find that time.
 
 So, if I told you that your Creator, the God of the infinite galaxies of time and space, the existential God of eternity, wants to spend some time with you, what He truly desires, do you think you could find a little time in your schedule for the Creator? Do you think you can register a divine appointment with God? What if I told you that by taking time for God, you will receive the greatest blessing of all, His perfect love, a love that forever disperses the feeling of isolation and alienation, a love that changes distraction and depression into divine focus and joy! As Paul tells us, this love, a perfect love, chases away all the fear and anxiety that continues to invest our little community. What if I told you that by taking a little time for God you will become the person you always wanted to be? Do you think you could find 20 minutes tomorrow morning and every morning after that for God?
 
 May the God of Infinite Galaxies and Perfect Love bless your journey!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeff_Wattles/Spreading_a_changing_message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spreading a changing message</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Neal_Waldrop/Footsteps_on_the_sand">
+          <span class="pr-2">Footsteps on the sand</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

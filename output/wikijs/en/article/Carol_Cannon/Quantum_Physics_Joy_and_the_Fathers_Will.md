@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Carol Cannon<br>© 2000 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carolina_Arana/Gods_Relation_to_the_Individual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God's Relation to the Individual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland/We_All_Have_What_It_Takes_To_Live_According_to_the_Will_of_God">
+          <span class="pr-2">We All Have What It Takes To Live According to the Will of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Carol_Cannon.jpg">
@@ -40,7 +64,7 @@ I still cannot get over the wonder that there is a **center**—a gravitational 
 
 Okay, you're saying: “Where's the beef?” You want to know about the quantum physics part of this equation. Let me go back to the phrase “configure a new society from the inside out.” Not only do I refer to “first casting the beam out of our own eyes so that we may see better to cast the mote out of our brother's eye,” but also I refer to understanding what is the inside of this out. And how do we **interface** with this Infinite Inside of Everything and Everyone? What is the inside comprised of in terms of our operating system, our genetic make-up, and how and why are we basically designed as a radionics device, able to send and receive complex forms of energy and thought? Let me remind you of what to me is one of the most amazing statements that _The Urantia Book_ makes in a completely incidental manner on 42:1.2:
 
-> _Matter—energy—for they are but diverse manifestations of the same cosmic reality, as a universe phenomenon is inherent in the Universal Father. “In Him all things consist.” Matter may appear to manifest inherent energy and to exhibit self-contained powers, but the lines of gravity involved in the energies concerned in these physical phenomena are derived from, and are dependent on, Paradise. The ultimaton, the first measurable form of energy, has Paradise as its nucleus._ [[UB 42:1.2](/en/The_Urantia_Book/42#p1_2)]
+> _Matter—energy—for they are but diverse manifestations of the same cosmic reality, as a universe phenomenon is inherent in the Universal Father. “In Him all things consist.” Matter may appear to manifest inherent energy and to exhibit self-contained powers, but the lines of gravity involved in the energies concerned in these physical phenomena are derived from, and are dependent on, Paradise. The ultimaton, the first measurable form of energy, has Paradise as its nucleus._ <a id="a66_480"></a>[[UB 42:1.2](/en/The_Urantia_Book/42#p1_2)]
 
 
 So what else can we deduce from that but that at the very heart of every little thing and every big somebody(no matter how they appear to be behaving) - is absolute pure love!
@@ -94,3 +118,27 @@ The power of your personal healing field is directly proportional to the power o
 So I have come to learn and accept and see that _The Urantia Book_ clearly explains that in terms of quantum physics, our energy centers are vortices—vortexes that transduce energy—and the more we clear and strengthen the nervous sys the more we increase our capacity to transmit this joy that resides—where does it reside? At the very center of Paradise—the very center of each and every atom that comprises us, the heart of creation, our hearts, open channels flowing with this river of unadulterated joy. The more we align, identify, and resonate with our Infinite Source, the more we do his will.
 
 And when you think of the scale of personalities that make up God the Sevenfold, the Seven Master Spirits, even the seven superuniverses, and when you perceive them as vortices—down-stepping immeasurable megahertz of Energy, Light, Information, or Joy—and when you think of them as the energy centers or chakras of God the Supreme, you can easily imagine that he is the vortex through which the absonite and absolute are channeling their intention! So why don't we focus on clearing the miraculous radio transmitter and receivers that we have been blessed with so our Thought Adjuster can better supply us with the leading we can use to create Heaven on Earth, fusing with joy along the way.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carolina_Arana/Gods_Relation_to_the_Individual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God's Relation to the Individual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland/We_All_Have_What_It_Takes_To_Live_According_to_the_Will_of_God">
+          <span class="pr-2">We All Have What It Takes To Live According to the Will of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

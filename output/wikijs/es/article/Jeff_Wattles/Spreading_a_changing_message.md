@@ -9,13 +9,37 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Jeffrey Wattles<br>© 2000 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/You_say_The_fifth_epochal_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vosotros decís: «La Revelación de la Quinta Época»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gard_Jameson/The_Importance_of_Worship_and_Prayer">
+          <span class="pr-2">La importancia de la adoración y la oración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jeffrey Wattles
 Stowe, Ohio, USA
 
 El capítulo 195 da claras instrucciones para la reorganización del mundo. Primero, nuevos maestros de la religión de Jesús, exclusivamente devotos a la regeneración espiritual de la humanidad, habrán de disparar un renacimiento espiritual; entonces surgirán líderes para la reestructuración social, económica, y política. Así, mientras muchos de nosotros debemos perseguir oportunidades para compartir ideas en una variedad de tópicos con individuos selectos que están listos para usarlas, la prioridad número uno en términos de enseñanza para la mayoría de nosotros será llevar un mensaje espiritual.
 
-¿Qué mensaje habremos de llevar? La respuesta no es tan obvia como parece, porque el mensaje se adapta a las necesidades presentes en un momento dado en el tiempo. Se nos ha dicho que para cada generación el Espíritu de la Verdad declara nuevamente el mensaje de Jesús a fin de responder a _las siempre nuevas y cambiantes dificultades espirituales del hombre_ [[LU 194:2.1](/es/The_Urantia_Book/194#p2_1)]. ¿Cuáles son esas dificultades, y cómo está el Espíritu de Verdad redeclarando el mensaje hoy en día? Yo sólo tengo los comienzos de una respuesta, pero creo que podemos aprender mucho acerca de las actuales necesidades a partir del libro mismo.
+¿Qué mensaje habremos de llevar? La respuesta no es tan obvia como parece, porque el mensaje se adapta a las necesidades presentes en un momento dado en el tiempo. Se nos ha dicho que para cada generación el Espíritu de la Verdad declara nuevamente el mensaje de Jesús a fin de responder a _las siempre nuevas y cambiantes dificultades espirituales del hombre_ <a id="a41_361"></a>[[LU 194:2.1](/es/The_Urantia_Book/194#p2_1)]. ¿Cuáles son esas dificultades, y cómo está el Espíritu de Verdad redeclarando el mensaje hoy en día? Yo sólo tengo los comienzos de una respuesta, pero creo que podemos aprender mucho acerca de las actuales necesidades a partir del libro mismo.
 
 Es fácil hacer una lista de los problemas que la gente enfrenta hoy en día. Lleva trabajo el discernir las dificultades espirituales implícitas en tales problemas y pensar en sendas que conecten esas dificultades espirituales con las enseñanzas de Jesús.
 
@@ -35,9 +59,9 @@ Nota que no puedes estimar cuán preciso eres en discernir las necesidades espir
 
 ## Encontrando dificultades espirituales en otros problemas
 
-Hay dificultades espirituales en los problemas sociales, económicos y políticos. En la sección titulada «La edad postautootorgadora en Urantia» se nos dice que la realización de la hermandad social depende de varias transformaciones personales y ajustes planetarios en fraternidad social, fertilización intelectual cruzada, despertar ético, sabiduría política y discernimiento espiritual. ([LU 52:6.1-8](/es/The_Urantia_Book/52#p6_1)). En particular, la hermandad social está impedida debido a ignorancia, falta de interacción, e impaciencia. ¿Responde el mensaje de Jesús a estos problemas? Por supuesto que lo hace. Cuando ves ignorancia, falta de interacción, e impaciencia en ti mismo y en otros, puedes orar por cooperar mientras el Espíritu de la Verdad ministra para el problema aprontando socialización y visión de largo alcance del futuro del reino del cielo.
+Hay dificultades espirituales en los problemas sociales, económicos y políticos. En la sección titulada «La edad postautootorgadora en Urantia» se nos dice que la realización de la hermandad social depende de varias transformaciones personales y ajustes planetarios en fraternidad social, fertilización intelectual cruzada, despertar ético, sabiduría política y discernimiento espiritual. (<a id="a61_390"></a>[LU 52:6.1-8](/es/The_Urantia_Book/52#p6_1)). En particular, la hermandad social está impedida debido a ignorancia, falta de interacción, e impaciencia. ¿Responde el mensaje de Jesús a estos problemas? Por supuesto que lo hace. Cuando ves ignorancia, falta de interacción, e impaciencia en ti mismo y en otros, puedes orar por cooperar mientras el Espíritu de la Verdad ministra para el problema aprontando socialización y visión de largo alcance del futuro del reino del cielo.
 
-Otro problema social, político y económico es que _los que no tienen capital aún esperan que los que sí lo tienen les den de comer_ [[LU 52:6.1](/es/The_Urantia_Book/52#p6_1)]. Nota que hay una dificultad espiritual implícita allí. Jesús nos encontraría gente de fe radiante y alma vigorizante si tuviéramos la capacidad para resolver nuestros propios problemas. Unas cuantas generaciones atrás, el vigor de la vida y enseñanzas de Jesús era mucho más ampliamente reconocido que hoy. Nuestro trabajo ha sido ya claramente definido para nosotros. Una de las dificultades espirituales de hoy día es que la gente carece de contacto con maestros religiosos de fe vigorizante.
+Otro problema social, político y económico es que _los que no tienen capital aún esperan que los que sí lo tienen les den de comer_ <a id="a63_132"></a>[[LU 52:6.1](/es/The_Urantia_Book/52#p6_1)]. Nota que hay una dificultad espiritual implícita allí. Jesús nos encontraría gente de fe radiante y alma vigorizante si tuviéramos la capacidad para resolver nuestros propios problemas. Unas cuantas generaciones atrás, el vigor de la vida y enseñanzas de Jesús era mucho más ampliamente reconocido que hoy. Nuestro trabajo ha sido ya claramente definido para nosotros. Una de las dificultades espirituales de hoy día es que la gente carece de contacto con maestros religiosos de fe vigorizante.
 
 Si carecemos de una visión de igualdad espiritual que abrace a hombres y mujeres de todas las razas, estamos imposibilitados para lidiar con las complementariedades y diferencias entre grupos de gente, y forzamos el mensaje de igualdad a través de canales de ciencia política politizada y a través de la retórica de la diversidad que mezcla preocupaciones éticas legítimas con negativas a enfrentar los hechos.
 
@@ -45,7 +69,7 @@ El mundo moderno necesita liderazgo y trabajo en equipo; pero el liderazgo es un
 
 Enfrentamos el reto de una población que envejece, pero que no necesita ni negligencia ni lástima. Jesús mostró que la forma en que morimos puede traer a otros al reino.
 
-Enfrentamos problemas éticos hoy en día. Nuestra sociedad _se tambalea bajo el yugo de tolerar una ciencia sin idealismo, una política sin principios, una riqueza sin trabajo, un placer sin límites, un conocimiento sin carácter, un poder sin conciencia y una industria sin moralidad_ [[LU 195:10.20](/es/The_Urantia_Book/195#p10_20)]. Y nuestra generación ha venido con nuevas clases de conductas intolerables. Debemos aprender el sabio, constructivo, y efectivo ejercicio de la tolerancia.
+Enfrentamos problemas éticos hoy en día. Nuestra sociedad _se tambalea bajo el yugo de tolerar una ciencia sin idealismo, una política sin principios, una riqueza sin trabajo, un placer sin límites, un conocimiento sin carácter, un poder sin conciencia y una industria sin moralidad_ <a id="a71_284"></a>[[LU 195:10.20](/es/The_Urantia_Book/195#p10_20)]. Y nuestra generación ha venido con nuevas clases de conductas intolerables. Debemos aprender el sabio, constructivo, y efectivo ejercicio de la tolerancia.
 
 Los problemas éticos y morales tienen raíces filosóficas y espirituales. La sofistería prospera en el presente clima de relativismo — la creencia de que en cuestiones difíciles no hay una verdad discernible, sino sólo opiniones. Tú tienes tu propia opinión y yo tengo la mía, y así cada quién debe ser libre de actuar de acuerdo a su propia visión de las cosas... Hoy día vemos la promulgación agresiva y bien financiada de locuras descaradas asociadas con inteligentes argumentos que levantan difíciles preguntas para aquellos quienes tienen la responsabilidad de defender el camino de la sabiduría. Es más fácil atacar que defender, y todos tenemos limites en nuestra habilidad para probar un punto. Por ello, hay necesidad de contar con especialistas en varias áreas que sean expertos en conducir las incesantes exposiciones de los sofistas.
 
@@ -80,4 +104,28 @@ Desearía tener oportunidad de relatar las muchas esperanzadoras historias que s
 
 ## Si el deseo es supremo
 
-Jesús enseñó que [l]a predicación persistente de este evangelio del reino traerá algún día una nueva e increíble liberación, libertad intelectual y libertad religiosa [[LU 178:1.9](/es/The_Urantia_Book/178#p1_9)]. He escuchado a prominentes líderes negar que la predicación es un medio válido de comunicación para con los lectores hoy en día. Yo solía mantener correspondencia con gente de la India quienes salían en bicicleta con sus familias los domingos por la tarde, visitando gentes en villas vecinas para llevarles el mensaje del evangelio. Donde el deseo es supremo, la gente encuentra caminos. Donde el deseo no es supremo, las dificultades son abrumadoras. Mientras soñamos en ministrar a las necesidades espirituales de otros no dejemos de enfrentar las propias. Mientras aguardamos la llegada del nuevo y más grande Juan Bautista para liderarnos y mientras esperamos a un nuevo y más grande Gautama para volver a despertar a la India, ¿por qué cada uno de nosotros no busca ser la nueva Debora o el nuevo Malaquías o Habacuc? Profetas vivientes. ¡Vamos adelante, vamos por ello!
+Jesús enseñó que [l]a predicación persistente de este evangelio del reino traerá algún día una nueva e increíble liberación, libertad intelectual y libertad religiosa <a id="a106_167"></a>[[LU 178:1.9](/es/The_Urantia_Book/178#p1_9)]. He escuchado a prominentes líderes negar que la predicación es un medio válido de comunicación para con los lectores hoy en día. Yo solía mantener correspondencia con gente de la India quienes salían en bicicleta con sus familias los domingos por la tarde, visitando gentes en villas vecinas para llevarles el mensaje del evangelio. Donde el deseo es supremo, la gente encuentra caminos. Donde el deseo no es supremo, las dificultades son abrumadoras. Mientras soñamos en ministrar a las necesidades espirituales de otros no dejemos de enfrentar las propias. Mientras aguardamos la llegada del nuevo y más grande Juan Bautista para liderarnos y mientras esperamos a un nuevo y más grande Gautama para volver a despertar a la India, ¿por qué cada uno de nosotros no busca ser la nueva Debora o el nuevo Malaquías o Habacuc? Profetas vivientes. ¡Vamos adelante, vamos por ello!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/You_say_The_fifth_epochal_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vosotros decís: «La Revelación de la Quinta Época»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gard_Jameson/The_Importance_of_Worship_and_Prayer">
+          <span class="pr-2">La importancia de la adoración y la oración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

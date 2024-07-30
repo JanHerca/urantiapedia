@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Bhagavan Buritz<br>© 1999 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Seppo_Kanerva/What_UB_Instruct_Dissemination_of_Its_Teachings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Que nous dit de faire Le Liure d'Urantia à propos de la dissémination de ses enseignements?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-décembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Décembre 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dorothy_Elder/A_Report_on_UBIS">
+          <span class="pr-2">Compte-Rendu Sur L'ecole Internet Du Livre D'urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bhagavan S. Buritz, Californie, États Unis
 
@@ -68,7 +92,7 @@ La plupart du temps, je laissais Le Livre parler de lui-même. Je laissais ces i
 
 Une longue conversation eut lieu avec deux hommes ayant environ vingt ans. Ils étaient des étudiants en droit et quelque peu ergoteurs. Ils voulaient discuter et argumenter. Ils se présentaient comme des athées. Je leur dis : «Vous êtes incontestablement des jeunes gens très intelligents et en tant qu'étudiants en droit vous devez avoir un sens hautement développé de la logique. Les hommes de loi ont à prouver des choses basées sur l'évidence. Comment pouvez-vous prouver la non-existence de quelque chose? Qu'utilisez-vous comme preuve ? Je suis un témoin de l'existence de Dieu, mais je ne peux offrir aucune preuve, parce que Dieu est Esprit». Dix minutes dans cette veine, et ils reconnurent qu'ils étaient des agnostiques.
 
-Alors le dur travail commença. Nous bavardâmes pendant environ trois heures La discussion s'étendit de la nature du mal et de sa cause, à l'expérience de la réalité dans le mental de l'homme. _Le Livre d'Urantia_ répondit à beaucoup de leurs questions. Je partageais mon expérience du Bien-Aimé, le Créateur de l'Amour et de la Compassion - l'Absolu de l'Amour, de la Beauté et de la Bonté. Au fond de moi, je sentis que plus ils argumentaient et plus ils voulaient croire. (_L'argumentation nécessaire pour défendre une thèse est inversement proportionnelle à la vérité contenue dans cette thèse_ [LU 48:7.30](/fr/The_Urantia_Book/48#p7_30)). A la fin ils étaient d'accord pour voir les humains comme des vautours. Je sentais que la pauvreté qui les entourait les touchait beaucoup.
+Alors le dur travail commença. Nous bavardâmes pendant environ trois heures La discussion s'étendit de la nature du mal et de sa cause, à l'expérience de la réalité dans le mental de l'homme. _Le Livre d'Urantia_ répondit à beaucoup de leurs questions. Je partageais mon expérience du Bien-Aimé, le Créateur de l'Amour et de la Compassion - l'Absolu de l'Amour, de la Beauté et de la Bonté. Au fond de moi, je sentis que plus ils argumentaient et plus ils voulaient croire. (_L'argumentation nécessaire pour défendre une thèse est inversement proportionnelle à la vérité contenue dans cette thèse_ <a id="a94_598"></a>[LU 48:7.30](/fr/The_Urantia_Book/48#p7_30)). A la fin ils étaient d'accord pour voir les humains comme des vautours. Je sentais que la pauvreté qui les entourait les touchait beaucoup.
 
 Il existe une lutte Darwinienne pour la survie en Inde. J'appris aussi qu'il y avait des enfants harcelés dans les écoles. Finalement ils demandèrent: «Comment pouvez-nous parler à Dieu comme vous le faites ? » Je dis : «Trouvez un endroit dans la nature, ou dans la salle de bains, ou en voiture ou n'importe où. Laissez le mental se calmer. » Alors je frappe trois coups très forts sur la table, et leur dis, «Imaginez dans votre mental que vous frappez à la Porte de Dieu. Avant que votre main touche Sa Porte, Il répondra. Faites ceci trois fois au cours d'une semaine ou deux. » Que leur arriva-t-il ? L'Ami a déjà ouvert la Porte et les a accueilli à la fête du mariage.
 
@@ -117,3 +141,27 @@ Mon professeur de Yoga, Swami Satchidananda dit que seva, karma yoga, le service
 Imaginez de faire du mieux que vous le pouvez sans aucune possibilité de vous tromper — les résultats sont Sa responsabilité. Passer des jours à parler à des gens au sujet de la Paternité de Dieu, de la fraternité des hommes est une expérience qui vous transforme, vous réveille et vous illumine.
 
 Je la recommande vivement.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Seppo_Kanerva/What_UB_Instruct_Dissemination_of_Its_Teachings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Que nous dit de faire Le Liure d'Urantia à propos de la dissémination de ses enseignements?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-décembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Décembre 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dorothy_Elder/A_Report_on_UBIS">
+          <span class="pr-2">Compte-Rendu Sur L'ecole Internet Du Livre D'urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

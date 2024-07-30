@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Carol Cannon<br>© 2000 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolina_Arana/Gods_Relation_to_the_Individual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Relación De Dios Con El Individuo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/We_All_Have_What_It_Takes_To_Live_According_to_the_Will_of_God">
+          <span class="pr-2">Todos Tenemos Lo Que Se Necesita Para Vivir De Acuerdo A La Voluntad De Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Carol_Cannon.jpg">
@@ -40,7 +64,7 @@ No logro aún dejar de apreciar la maravilla de la existencia de un **centro** �
 
 Pues bien, ustedes deben estar pensando: «¿ Y dónde está el meollo del asunto en esta charla?» Tal vez se pregunten acerca de la parte que juega la física cuántica en la ecuación del regocijo y la voluntad del Padre. Permítanme regresar a la parte que me referí arriba acerca de «configurar una sociedad nueva de dentro hacia afuera». Con esta frase no me refiero solamente a la necesidad de quitar la paja de nuestro propio ojo para poder ver la paja en el ojo ajeno, sino que trato también de referirme a la importancia de comprender lo que existe dentro de nosotros para poder mirar afuera. Pero para ello cabe preguntarse: ¿Cómo es que se da la interface con este interior infinito del todo y de todos?; ¿Cual es el contenido de este interior en términos del sistema que nos permite funcionar como referencia de nuestra compilación genética?; y además ¿Cómo y porqué hemos sido diseñados como un artefacto radiónico capaz de emitir y recibir formas complejas de energía y pensamiento? Permítanme recordarles algo que para mi es una de las mas asombrosas declaraciones de _El Libro de Urantia_, la cual es presentada de manera incidental en 42:1.2:
 
-> _La materia —energía— por ser manifestaciones diversas de la misma realidad cósmica, como fenómeno universal es un fenómeno inberente al Padre Universal. «En él radican todas las cosas». La materia puede parecer manifestar energía inberente y exbibir poderes autocontenidos, pero las lineas de la gravedad involucradas en las energías que se ocupan de todos estos fenómenos físicos se derivan del Paraíso y dependen de éste. El ultimatón, la primera forma mensurable de la energía, tiene como núcleo al Paraíso._ [[LU 42:1.2](/es/The_Urantia_Book/42#p1_2)]
+> _La materia —energía— por ser manifestaciones diversas de la misma realidad cósmica, como fenómeno universal es un fenómeno inberente al Padre Universal. «En él radican todas las cosas». La materia puede parecer manifestar energía inberente y exbibir poderes autocontenidos, pero las lineas de la gravedad involucradas en las energías que se ocupan de todos estos fenómenos físicos se derivan del Paraíso y dependen de éste. El ultimatón, la primera forma mensurable de la energía, tiene como núcleo al Paraíso._ <a id="a66_515"></a>[[LU 42:1.2](/es/The_Urantia_Book/42#p1_2)]
 
 
 Así, que otra cosa podemos deducir de lo anterior que el hecho de que en el corazón mismo de cada pequeña cosa y cada gran ser — sin importar su comportamiento exterior— existe ¡puro amor absoluto!
@@ -92,3 +116,27 @@ Gracias a la existencia de la actividad fotónica en nuestra atmósfera, nuestro
 Con base en todo lo anterior, he optado por aprender, aceptar y ver como _El Libro de Urantia_ logra explicar claramente -y en términos de física cuántica- que nuestros centros de energía operan como vórtices (remolinos de inmensa fuerza centrípeta) catalizadores de energía. En la medida en que logremos despejar y fortalecer nuestros sistemas nerviosos, podremos incrementar nuestra capacidad para transmitir el regocijo residente dentro de cada átomo constituyente de nuestro ser. Un regocijo que encuentra su fuente en el centro mismo del Paraíso y que es materia esencial del corazón de la creación y de nuestro corazón, esos canales abiertos que permiten su fluir de la forma más pura. En la medida en que logremos alinearnos, identificarnos y resonar con nuestra Fuente Infinita, más nos acercaremos a ejercer su voluntad.
 
 Así, llegará el momento en que entremos en armonía de pensamiento y comprenderemos la escala de personalidades que constituyen a Dios Séptuple, a los Siete Espíritus Maestros e incluso a los siete superuniversos como vórtices que funcionan a manera de peldaños con intensidad de energía, luz, información y regocijo de megahertz inconmensurables. Llegará el momento en que lograremos pensar en todos ellos como centros de energía o chacras de Dios Supremo, logrando imaginar fácilmente que ¡Él es el vórtice mediante el que el absonito y el absoluto canalizan sus funciones y existencia misma! Por lo que resta sólo preguntar: ¿Porqué no enfocarnos en despejar ese maravilloso radio transmisor-receptor con que hemos sido bendecidos? ¿Porqué no hacer ello facilitando que nuestro Ajustador del Pensamiento nos provea de mejor forma con esa guía que permitirá recrear al cielo en la tierra, amalgamando el regocijo dentro de nosotros a lo largo del camino?
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolina_Arana/Gods_Relation_to_the_Individual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Relación De Dios Con El Individuo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/We_All_Have_What_It_Takes_To_Live_According_to_the_Will_of_God">
+          <span class="pr-2">Todos Tenemos Lo Que Se Necesita Para Vivir De Acuerdo A La Voluntad De Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

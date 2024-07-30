@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Zshonette Reed<br>© 2023 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Helena_Banas/getting_to_know_ourselves_better">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apprendre à mieux se connaître</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mamadou_Doudou_Diagne/birth_of_the_spirit_and_spiritual_maturity">
+          <span class="pr-2">Naissance d’esprit et maturité spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## 1re Partie – Prendre Position
@@ -35,7 +59,7 @@ Et pour nous ? Devrions-nous adopter une approche désinvolte face à la rébell
 
 Il semble qu’il y ait quelque chose que nous puissions faire. Comme Gabriel, nous pouvons prendre position pour contrer les sophismes rebelles. La méthode de Gabriel est exposée dans le fascicule 53. On y lit :
 
-> Aux premiers temps de la lutte, Lucifer discourut en permanence dans l’amphithéâtre planétaire. Gabriel avait établi son quartier général à proximité, et de là il mit sans cesse à nu les sophismes des rebelles. Les diverses personnalités présentes sur la sphère et qui hésitaient sur l’attitude à prendre allaient et venaient entre ces discussions jusqu’à ce qu’elles fussent parvenues à une décision définitive. (<a id="a60_392"></a>[LU 53:5.6](/fr/The_Urantia_Book/53#p5_6))
+> Aux premiers temps de la lutte, Lucifer discourut en permanence dans l’amphithéâtre planétaire. Gabriel avait établi son quartier général à proximité, et de là il mit sans cesse à nu les sophismes des rebelles. Les diverses personnalités présentes sur la sphère et qui hésitaient sur l’attitude à prendre allaient et venaient entre ces discussions jusqu’à ce qu’elles fussent parvenues à une décision définitive. (<a id="a61_416"></a>[LU 53:5.6](/fr/The_Urantia_Book/53#p5_6))
 
 La méthode de Gabriel était l’éducation. Il a fourni un espace et un lieu pour la conversation. De nombreux êtres ont été induits en erreur parce qu’ils ne pouvaient pas comprendre qu’il était possible qu’une personnalité aussi éblouissante que Lucifer s’égare. Ils ont été induits en erreur parce qu’ils étaient des personnalités adoratrices. La solution, telle que présentée par Gabriel, consistait à examiner les idées, et non les personnalités. Comme Gabriel, nous pouvons fournir un endroit où les gens peuvent entendre le point de vue de Micaël. Ce site Web est un endroit où l’on peut entendre le point de vue de Micaël dans la lutte idéologique.
 
@@ -47,11 +71,11 @@ Ensuite, il y a la question de la justice. Lorsque nous pensons aux énormes dé
 
 Cette question se pose en raison de ce qui est dit dans le fascicule 54 :
 
-> … les Anciens des Jours refusent d’anéantir un être avant que toutes les valeurs morales et les réalités spirituelles soient éteintes aussi bien chez l’auteur du mal que **chez tous ses partisans et sympathisants possibles** (<a id="a72_210"></a>[LU 54:3.3](/fr/The_Urantia_Book/54#p3_3), gras ajouté)
+> … les Anciens des Jours refusent d’anéantir un être avant que toutes les valeurs morales et les réalités spirituelles soient éteintes aussi bien chez l’auteur du mal que **chez tous ses partisans et sympathisants possibles** (<a id="a73_228"></a>[LU 54:3.3](/fr/The_Urantia_Book/54#p3_3), gras ajouté)
 
 Considérez également ce qui est indiqué au sujet de Satan dans le fascicule 43 :
 
-> Depuis le triomphe du Christ, tout Norlatiadek est en passe d’être débarrassé du péché et des rebelles. Quelque temps avant la mort physique de Micaël, Satan, l’associé de Lucifer déchu, tenta d’assister à un tel conclave d’Édentia, mais le sentiment des autres membres contre les archirebelles s’était concrétisé au point que les portes de la sympathie leur furent à peu près universellement fermées, et que les adversaires de Satania ne trouvèrent aucun emplacement où se tenir. **Quand nulle porte n’est ouverte pour recevoir le mal, il n’existe aucune occasion d’entretenir le péché.** Les portes des cœurs de tout Édentia se fermèrent devant Satan. Il fut unanimement rejeté par les Souverains de Système assemblés, et c’est alors que le Fils de l’Homme « vit Satan tomber du ciel comme un éclair ». (<a id="a76_768"></a>[LU 43:4.9](/fr/The_Urantia_Book/43#p4_9), gras ajouté)
+> Depuis le triomphe du Christ, tout Norlatiadek est en passe d’être débarrassé du péché et des rebelles. Quelque temps avant la mort physique de Micaël, Satan, l’associé de Lucifer déchu, tenta d’assister à un tel conclave d’Édentia, mais le sentiment des autres membres contre les archirebelles s’était concrétisé au point que les portes de la sympathie leur furent à peu près universellement fermées, et que les adversaires de Satania ne trouvèrent aucun emplacement où se tenir. **Quand nulle porte n’est ouverte pour recevoir le mal, il n’existe aucune occasion d’entretenir le péché.** Les portes des cœurs de tout Édentia se fermèrent devant Satan. Il fut unanimement rejeté par les Souverains de Système assemblés, et c’est alors que le Fils de l’Homme « vit Satan tomber du ciel comme un éclair ». (<a id="a77_808"></a>[LU 43:4.9](/fr/The_Urantia_Book/43#p4_9), gras ajouté)
 
 Nous pouvons en conclure que tant que les concepts lucifériens ne sont pas entièrement rejetés sur notre monde, les Anciens des Jours peuvent s’abstenir d’anéantir les rebelles. Ainsi, un retard dans l’exposition des proclamations empoisonnées de Lucifer peut prolonger notre agonie planétaire.
 
@@ -97,7 +121,7 @@ Il y a une divinité dans la filiation avec Dieu. Il y a un pouvoir d’unité a
 
 Le fascicule 111 parle du danger de céder à la tentation de se déifier, ce qui est le cas de ceux qui adhèrent à cette demi-vérité de la divinité dont voici un extrait :
 
-> Le courage exigé pour triompher de la nature et pour transcender son moi est un courage qui peut succomber devant les tentations de l’orgueil personnel. Le mortel capable de transcender son moi peut céder à la tentation de déifier sa conscience de soi. Le dilemme humain résulte du double fait que l’homme est asservi à la nature et qu’en même temps il possède une liberté unique — la liberté de choix et d’action spirituels. Sur les niveaux matériels, l’homme se trouve subordonné à la nature, tandis que, sur les niveaux spirituels, il triomphe de la nature et de tous les éléments temporels et finis. Un tel paradoxe est inséparable de la tentation, du mal potentiel et des erreurs de décision ; et, quand le moi devient altier et arrogant, le péché peut apparaitre. (<a id="a122_721"></a>[LU 111:6.2](/fr/The_Urantia_Book/111#p6_2))
+> Le courage exigé pour triompher de la nature et pour transcender son moi est un courage qui peut succomber devant les tentations de l’orgueil personnel. Le mortel capable de transcender son moi peut céder à la tentation de déifier sa conscience de soi. Le dilemme humain résulte du double fait que l’homme est asservi à la nature et qu’en même temps il possède une liberté unique — la liberté de choix et d’action spirituels. Sur les niveaux matériels, l’homme se trouve subordonné à la nature, tandis que, sur les niveaux spirituels, il triomphe de la nature et de tous les éléments temporels et finis. Un tel paradoxe est inséparable de la tentation, du mal potentiel et des erreurs de décision ; et, quand le moi devient altier et arrogant, le péché peut apparaitre. (<a id="a123_773"></a>[LU 111:6.2](/fr/The_Urantia_Book/111#p6_2))
 
 Cela nous dit que transcender nos fragilités mortelles et nos défis temporels demande un réel courage. Mais ceux qui sont capables de les transcender sont confrontés à un nouveau problème, la tentation de devenir fiers et arrogants, ce qui peut conduire au péché. Il ne s’agit pas de dire qu’une telle personne DEVRA devenir fière et arrogante. Il s’agit de dire qu’une telle personne aura inévitablement l’occasion de prouver qui elle est vraiment. Cette personne est-elle un fils spirituel courageux de Dieu, ou bien cette personne s’est-elle leurrée en croyant qu’elle EST Dieu ? C’est le danger des demi-vérités.
 
@@ -113,7 +137,7 @@ Il y a une autre raison pour laquelle cette demi-vérité particulière est si d
 
 > En résumé, Lucifer aurait voulu enlever aux hommes et aux anges ce que Dieu leur a donné, c’est-à-dire **le divin privilège de participer à la création de leur propre destinée** et à la destinée de ce système local de mondes habités.
 
-> Nul être, dans tout l’univers, n’a légalement la liberté de priver un autre être **de la vraie liberté, du droit d’aimer et d’être aimé, du privilège d’adorer Dieu et de servir son prochain.** (<a id="a138_193"></a>[LU 54:2.3-5](/fr/The_Urantia_Book/54#p2_3) emphases added)
+> Nul être, dans tout l’univers, n’a légalement la liberté de priver un autre être **de la vraie liberté, du droit d’aimer et d’être aimé, du privilège d’adorer Dieu et de servir son prochain.** (<a id="a139_196"></a>[LU 54:2.3-5](/fr/The_Urantia_Book/54#p2_3) emphases added)
 
 Ces passages révèlent le danger des philosophies qui excluent Dieu de l’équation. Il ne s’agit donc pas seulement de savoir si Dieu existe ou n’existe pas. Il s’agit de savoir si NOUS existons en tant que créatures dotées du libre arbitre, et si nous allons permettre à une autre créature de fermer la porte à des opportunités et des possibilités. De telles demi-vérités ne sont pas seulement athées. Elles sont lucifériennes.
 
@@ -125,7 +149,7 @@ Mais comment sauront-elles qu’elles doivent progresser au-delà des demi-véri
 
 Le fascicule 54 du Livre d’Urantia dit ceci à propos de la liberté et de la licence :
 
-> Parmi tous les problèmes troublants issus de la rébellion de Lucifer, aucun n’a occasionné plus de difficultés que l’inaptitude des mortels évolutionnaires immatures à distinguer la vraie liberté de la fausse. (<a id="a150_205"></a>[LU 54:1.1](/fr/The_Urantia_Book/54#p1_1))
+> Parmi tous les problèmes troublants issus de la rébellion de Lucifer, aucun n’a occasionné plus de difficultés que l’inaptitude des mortels évolutionnaires immatures à distinguer la vraie liberté de la fausse. (<a id="a151_213"></a>[LU 54:1.1](/fr/The_Urantia_Book/54#p1_1))
 
 Il est clair que si nous voulons nous trouver du bon côté de la lutte idéologique, nous devons être capables de faire la différence nous-mêmes. Rappelez-vous que de nombreuses personnalités célestes de longue date n’ont pas su faire la différence et ont été entraînées dans la rébellion de Lucifer. Il se peut donc que ce ne soit pas aussi facile qu’on pourrait le croire.
 
@@ -139,7 +163,7 @@ Le Puissant Messager qui a présenté le fascicule 54 a énuméré les différen
 > 
 > La fausse liberté est la subtile duperie **de l’erreur du temps et du mal de l’espace.**
 > 
-> La liberté durable est fondée sur la réalité de la justice, de l’intelligence, de la maturité, de la fraternité et de l’équité. (<a id="a164_108"></a>[LU 54:1.2](/fr/The_Urantia_Book/54#p1_2), gras ajouté)
+> La liberté durable est fondée sur la réalité de la justice, de l’intelligence, de la maturité, de la fraternité et de l’équité. (<a id="a165_131"></a>[LU 54:1.2](/fr/The_Urantia_Book/54#p1_2), gras ajouté)
 
 Ici, le Puissant Messager compare le temps et l’espace. Le temps, tel qu’il est utilisé ici, est le déroulement naturel des événements, le processus naturel d’évolution. L’espace fait référence à notre place, à notre statut, ou à l’endroit où nous nous trouvons dans l’univers.
 
@@ -164,7 +188,7 @@ La liberté est une technique autodestructrice de l’existence cosmique quand s
 
 La vraie liberté se relie progressivement à la réalité et reste toujours pleine d’égards pour l’équité sociale, l’équité cosmique, la fraternité universelle et les obligations divines.
 
-> La liberté est suicidaire quand elle est divorcée d’avec la justice matérielle, la droiture intellectuelle, la longanimité sociale, le devoir moral et les valeurs spirituelles. (<a id="a189_137"></a>[LU 54:1.3-4](/fr/The_Urantia_Book/54#p1_3))
+> La liberté est suicidaire quand elle est divorcée d’avec la justice matérielle, la droiture intellectuelle, la longanimité sociale, le devoir moral et les valeurs spirituelles. (<a id="a190_180"></a>[LU 54:1.3-4](/fr/The_Urantia_Book/54#p1_3))
 
 Ces distinctions nous indiquent que les libertés qui ne sont pas assorties d’une réflexion intelligente sur les conséquences qu’elles imposeraient aux autres, ou qui sont exercées sans retenue, sont de fausses libertés. Alors que les libertés qui prennent en compte l’effet que nos actions auront sur les autres et qui sont tempérée par l’équité est la vraie liberté.
 
@@ -180,7 +204,7 @@ Ce sont d’autres exemples de fausse liberté ou licence. Et vous pouvez probab
 
 Le Puissant Messager nous dit ensuite que :
 
-> La volonté autonome sans retenue et l’expression de soi sans contrôle équivalent à un égoïsme que rien ne vient adoucir, un summum d’impiété. La liberté non accompagnée d’une victoire toujours plus étendue sur soi-même est une fiction d’une imagination de mortel égoïste. (<a id="a205_224"></a>[LU 54:1.5](/fr/The_Urantia_Book/54#p1_5))
+> La volonté autonome sans retenue et l’expression de soi sans contrôle équivalent à un égoïsme que rien ne vient adoucir, un summum d’impiété. La liberté non accompagnée d’une victoire toujours plus étendue sur soi-même est une fiction d’une imagination de mortel égoïste. (<a id="a206_275"></a>[LU 54:1.5](/fr/The_Urantia_Book/54#p1_5))
 
 Il nous dit ici que les idées qui promeuvent l’expression de soi sans tenir compte des sentiments ou des conséquences pour les autres sont des exemples d’égoïsme, d’impiété et de désillusion. Un exemple d’une telle idéologie est l’expression luciférienne :
 
@@ -203,7 +227,7 @@ Le Puissant Messager a également expliqué le contraste entre la liberté et la
 
 > Très tôt après la rébellion, tout l’état-major séditieux se trouva engagé dans une défense énergique de la cité contre les hordes de demi-sauvages qui assiégeaient ses murs en application des doctrines de liberté qui leur avaient été prématurément enseignées. Des années avant que le magnifique quartier général fût englouti par les vagues des mers du sud, les tribus mal dirigées et mal instruites de l’arrière-pays de Dalamatia s’étaient déjà abattues dans un assaut de demi-sauvages sur la cité splendide, chassant vers le nord l’état-major de la sécession et ses associés.
 > 
-> Le plan de Caligastia pour reconstruire immédiatement la société humaine selon ses idées sur les libertés individuelles et collectives se révéla rapidement un échec plus ou moins complet. La société s’effondra vite à son ancien niveau biologique, et la lutte pour le progrès dut recommencer entièrement à partir d’un point à peine plus avancé qu’au début du régime de Caligastia, car le soulèvement avait laissé le monde dans la pire des confusions. (<a id="a228_450"></a>[LU 67:5.2-3](/fr/The_Urantia_Book/67#p5_2))
+> Le plan de Caligastia pour reconstruire immédiatement la société humaine selon ses idées sur les libertés individuelles et collectives se révéla rapidement un échec plus ou moins complet. La société s’effondra vite à son ancien niveau biologique, et la lutte pour le progrès dut recommencer entièrement à partir d’un point à peine plus avancé qu’au début du régime de Caligastia, car le soulèvement avait laissé le monde dans la pire des confusions. (<a id="a229_453"></a>[LU 67:5.2-3](/fr/The_Urantia_Book/67#p5_2))
 
 Jouer avec une fausse liberté a eu, et continuera d’avoir, un effet dévastateur sur notre monde. Il y a donc lieu d’être vigilant et de faire preuve de discernement, de crainte de se retrouver du mauvais côté de la lutte.
 
@@ -228,3 +252,28 @@ Que l’Esprit de Vérité soit avec vous.
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2023/?lang=fr)
 - [Cet article](https://urantia-association.org/la-lutte-ideologique/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Helena_Banas/getting_to_know_ourselves_better">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apprendre à mieux se connaître</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mamadou_Doudou_Diagne/birth_of_the_spirit_and_spiritual_maturity">
+          <span class="pr-2">Naissance d’esprit et maturité spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

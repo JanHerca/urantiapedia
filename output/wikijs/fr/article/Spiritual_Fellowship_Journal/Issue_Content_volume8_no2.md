@@ -200,6 +200,6 @@ Don annuel suggéré : 10 $.
 ## Remarques
 
 
-[^1]: Voir <a id="a201_11"></a>[LU 87:7.6-10](/fr/The_Urantia_Book/87#p7_6)
+[^1]: Voir <a id="a202_11"></a>[LU 87:7.6-10](/fr/The_Urantia_Book/87#p7_6)
 
 [^2]: Robert K. Greenleaf, _Servant Leadership_, Paulist Press, New York, 1977, p. 237.

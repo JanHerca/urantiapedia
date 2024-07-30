@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Gard Jameson<br>© 2000 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeff_Wattles/Spreading_a_changing_message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diseminando un mensaje cambiante</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neal_Waldrop/Footsteps_on_the_sand">
+          <span class="pr-2">Trazos en la arena</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Gard Jameson
 
@@ -21,7 +45,7 @@ Quisiera compartir dos ideas que se han vuelto centrales en mi viaje personal de
 1. El impulso de adorar a Dios surge de un reconocimiento profundo y genuino de la bendición, desde el dar gracias por las numerosas e increíbles bendiciones que nos rodean como individuos, como comunidad y como planeta.
 2. El impulso de servir a nuestros hermanos y hermanas surge de un profundo reconocimiento de nuestra escisión y heridas como individuos, como comunidad y como planeta.
 
-Una vez que estamos dispuestos a ver y reconocer nuestras bendiciones y expresar nuestra gratitud, nuestro corazón y mente se abrirán, serán renovados y transformados por el amor adorador de Dios. En una de las aseveraciones más sorprendentes en el libro, Jesús dijo que la adoración hace que el adorador se parezca cada vez más a aquél que es adorado ([LU 146:2.17](/es/The_Urantia_Book/146#p2_17)).
+Una vez que estamos dispuestos a ver y reconocer nuestras bendiciones y expresar nuestra gratitud, nuestro corazón y mente se abrirán, serán renovados y transformados por el amor adorador de Dios. En una de las aseveraciones más sorprendentes en el libro, Jesús dijo que la adoración hace que el adorador se parezca cada vez más a aquél que es adorado (<a id="a47_353"></a>[LU 146:2.17](/es/The_Urantia_Book/146#p2_17)).
 
 Una vez que estemos dispuestos a ver y reconocer nuestra separatidad, nuestras heridas como comunidad, las heridas del planeta, entonces podremos convertirnos realmente en servidores en el reino, entrar verdaderamente al gozo eterno de nuestro Maestro. El discernimiento que surge de la concientización profunda del dolor y el sufrimiento del mundo es una inspiración poderosa para servir.
 
@@ -126,7 +150,7 @@ Lo que se necesita es una cita divina. Deberíamos permitir que nuestra fe recla
 
 ¿Realmente crees en lo que lees en _El Libro de Urantia_? Entonces comienza a vivirlo de lleno haciendo tu cita con Dios, cada día de tu vida, una cita que comenzara a iluminar y elevar cada momento de tu vida, la vida de nuestra comunidad y el planeta mismo en que vivimos.
 
-La voluntad divina es que todos fuéramos perfectos como el Padre de los cielos es perfecto. Con el discernimiento del libro comprendo que dicho mandato significa que debemos comenzar amándonos los unos a los otros como Dios nos ama. Para hacerlo debemos permitir que Dios nos ame. El viaje de amor perfeccionador es un viaje circular más que un camino recto. Este viaje circular requiere una circunambulación a cada una de nuestras relaciones, dirigiéndose hacia adentro con una profundidad cada vez mayor, comenzando con nuestra relación con Dios. Quisiera compartir otra vez la aseveración de Jesús respecto a que _la adoración bace que el adorador se parezca cada vez más a aquél que es adorado_ [[LU 146:2.17](/es/The_Urantia_Book/146#p2_17)]. Amar incluso como Dios nos ama, incluso como cuando el Maestro nos lava los pies y nos sirve, incluso ahora.
+La voluntad divina es que todos fuéramos perfectos como el Padre de los cielos es perfecto. Con el discernimiento del libro comprendo que dicho mandato significa que debemos comenzar amándonos los unos a los otros como Dios nos ama. Para hacerlo debemos permitir que Dios nos ame. El viaje de amor perfeccionador es un viaje circular más que un camino recto. Este viaje circular requiere una circunambulación a cada una de nuestras relaciones, dirigiéndose hacia adentro con una profundidad cada vez mayor, comenzando con nuestra relación con Dios. Quisiera compartir otra vez la aseveración de Jesús respecto a que _la adoración bace que el adorador se parezca cada vez más a aquél que es adorado_ <a id="a152_699"></a>[[LU 146:2.17](/es/The_Urantia_Book/146#p2_17)]. Amar incluso como Dios nos ama, incluso como cuando el Maestro nos lava los pies y nos sirve, incluso ahora.
 
 Cada día deberíamos tomarnos un tiempo, hacer una cita divina, más que sólo 20 segundos antes de cada comida. Intenta 20 minutos en la mañana — y si realmente quieres establecer una relación, intenta otros 20 minutos en la noche. Y ocasionalmente tal vez incluso quieras intentar un retiro espiritual o lo que yo llamo unas vacaciones con Dios, reposando en los brazos eternamente amorosos de Dios. Si te dijera que el Dalai Lama o el Papa quiere sólo 20 minutos de tu tiempo mañana en la mañana, creo que la mayoría de vosotros se daría el tiempo.
 
@@ -135,3 +159,27 @@ Y si te dijera que tu Creador, el Dios de las galaxias infinitas del tiempo y el
 Y si te dijera que al hacerte tiempo para Dios recibirías la mayor de todas tus bendiciones, su amor perfecto, un amor que desaparece por siempre el sentimiento de soledad y enajenación, un amor que cambia la depresión y la distracción en concentración y gozo divinos. Como Pablo nos dice, este amor, un amor perfecto, desaparece todo miedo y ansiedad que sigue importunando a nuestra pequeña comunidad. ¿Qué pasaría si te dijera que al hacerte de tiempo para Dios te convertirías en la persona que siempre has querido ser? ¿Crees que podrías hacerte de 20 minutos mañana en la mañana y cada mañana?
 
 ¡Que el Dios de las galaxias infinitas y el amor perfecto os bendiga en vuestro viaje!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeff_Wattles/Spreading_a_changing_message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diseminando un mensaje cambiante</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neal_Waldrop/Footsteps_on_the_sand">
+          <span class="pr-2">Trazos en la arena</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

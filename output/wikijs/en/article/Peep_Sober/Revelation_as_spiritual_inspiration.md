@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Peep Sõber<br>© 2000 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Neal_Waldrop/Footsteps_on_the_sand">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Footsteps on the sand</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Peep Sober
 Tallinn, Estonia
@@ -20,3 +41,25 @@ It was Peep Sõber who opened by presenting the translation of the speech he gav
 The third conference entitled “About Time and Eternity” was offered to us by Tiia Reiksaar. On the last day we read the lecture by Joel Rehnström, who was with us in spirit but not physically. For the last lecture, our scientist from the University of Tartu, Vello Reeben, explained his theories on the mathematical analysis of the different rhythms found in the universe. According to his conclusions, the years 1934 and 1935 marked the zenith of long rhythms on Urantia, making it a very favorable time for the birth of a new religion. According to his explanations, all epochal revelations began at a time period in accordance with the Paradise-Havona day.
 
 During the conference we had a time of meditation and worship in the morning; there were five workshop groups. For the majority of readers who participated it was their first conference, they were very satisfied and decided to concentrate more on these teachings.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Neal_Waldrop/Footsteps_on_the_sand">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Footsteps on the sand</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Robert Coenraads<br>© 2023 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Peep_Sober/urantia_is_it_a_new_religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Es Urantia una nueva religión?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Unity_Harmony_Within_Diversity_of_Experience_and_Belief_3">
+          <span class="pr-2">Unidad: armonía dentro de la diversidad de experiencias y creencias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Exploración experiencial de la relajación, meditación, oración y adoración, y sus beneficios para el alma, el corazón, la mente y el cuerpo
 
@@ -61,39 +85,39 @@ Aunque todos estos términos caen dentro de la esfera actual de la meditación y
 
 Las siguientes citas de _El libro de Urantia_ arrojan luz sobre el significado de estos términos:
 
-> La oración, junto con la adoración que la acompaña, es un método de despegarse de la rutina diaria de la vida, del monótono trajín de la existencia material. [LU 144:4.5](/es/The_Urantia_Book/144#p4_5)
+> La oración, junto con la adoración que la acompaña, es un método de despegarse de la rutina diaria de la vida, del monótono trajín de la existencia material. <a id="a87_160"></a>[LU 144:4.5](/es/The_Urantia_Book/144#p4_5)
 
-> Es cierto que la meditación devota favorece a menudo el contacto de la mente mortal con el Ajustador que mora en su interior, pero la dedicación entusiasta y amorosa al servicio desinteresado de nuestros semejantes lo facilita mucho más. [LU 91:7.1](/es/The_Urantia_Book/91#p7_1)
+> Es cierto que la meditación devota favorece a menudo el contacto de la mente mortal con el Ajustador que mora en su interior, pero la dedicación entusiasta y amorosa al servicio desinteresado de nuestros semejantes lo facilita mucho más. <a id="a89_240"></a>[LU 91:7.1](/es/The_Urantia_Book/91#p7_1)
 
 Los párrafos 91:7:2 y 125:4.4 sugieren que la meditación se considera algo distinto de la oración: 
 
-> Jesús solía retirarse a solas con sus apóstoles durante periodos cortos para dedicarse a la oración y a la meditación, pero la mayor parte del tiempo los mantenía en contacto con las multitudes. [LU 91:7.2](/es/The_Urantia_Book/91#p7_2)
+> Jesús solía retirarse a solas con sus apóstoles durante periodos cortos para dedicarse a la oración y a la meditación, pero la mayor parte del tiempo los mantenía en contacto con las multitudes. <a id="a93_197"></a>[LU 91:7.2](/es/The_Urantia_Book/91#p7_2)
 
-> Al término de su segundo día en el templo, Jesús volvió a Betania a pasar la noche y volvió a salir al jardín a meditar y orar. Era muy claro que su mente estaba dedicada a la contemplación de problemas de peso. [LU 125:4.4](/es/The_Urantia_Book/125#p4_4)
+> Al término de su segundo día en el templo, Jesús volvió a Betania a pasar la noche y volvió a salir al jardín a meditar y orar. Era muy claro que su mente estaba dedicada a la contemplación de problemas de peso. <a id="a95_214"></a>[LU 125:4.4](/es/The_Urantia_Book/125#p4_4)
 
 La palabra _orar_ se usa con frecuencia en _El libro de Urantia_, donde aparece 125 veces. Se usa en el sentido de pedir por algo, y de manera distinta a la palabra _adorar_. _Oración_ aparece 285 veces.
 
-> Cuando el hombre comprendió que la oración no tiene poder de coerción sobre los dioses, la convirtió en petición, en una búsqueda de favores. Pero la oración más verdadera es en realidad una comunión entre el hombre y su Hacedor. [LU 91:2.3](/es/The_Urantia_Book/91#p2_3)
+> Cuando el hombre comprendió que la oración no tiene poder de coerción sobre los dioses, la convirtió en petición, en una búsqueda de favores. Pero la oración más verdadera es en realidad una comunión entre el hombre y su Hacedor. <a id="a99_232"></a>[LU 91:2.3](/es/The_Urantia_Book/91#p2_3)
 
-> Cuando la oración no busca nada para el que reza ni para sus compañeros se generan en el alma actitudes que tienden hacia los niveles de la verdadera adoración.  [LU 91:4.3](/es/The_Urantia_Book/91#p4_3)
+> Cuando la oración no busca nada para el que reza ni para sus compañeros se generan en el alma actitudes que tienden hacia los niveles de la verdadera adoración.  <a id="a101_164"></a>[LU 91:4.3](/es/The_Urantia_Book/91#p4_3)
 
-> … La oración está destinada a hacer que el hombre piense menos pero comprenda más. No está destinada a incrementar el conocimiento sino a expandir la visión interior. [LU 143:7.4](/es/The_Urantia_Book/143#p7_4)
+> … La oración está destinada a hacer que el hombre piense menos pero comprenda más. No está destinada a incrementar el conocimiento sino a expandir la visión interior. <a id="a103_169"></a>[LU 143:7.4](/es/The_Urantia_Book/143#p7_4)
 
 _Adoración_ se utiliza 567 veces en _El libro de Urantia_. La adoración es la nota más alta en la escala musical ascendente de las actividades devocionales beneficiosas para todos los individuos, comenzando con el descanso y la relajación, luego a través de la reflexión y la meditación, después la oración, y finalmente la adoración, siendo la adoración el acto supremo de devoción al Padre y el «descanso ideal del alma».
 
-> En todas las edades y todos los tiempos, la adoración verdadera de cualquier ser humano —en lo referente al progreso espiritual individual— es reconocida por el espíritu que mora en su interior como un homenaje que se rinde al Padre del cielo.  [LU 142:3.8](/es/The_Urantia_Book/142#p3_8)
+> En todas las edades y todos los tiempos, la adoración verdadera de cualquier ser humano —en lo referente al progreso espiritual individual— es reconocida por el espíritu que mora en su interior como un homenaje que se rinde al Padre del cielo.  <a id="a107_247"></a>[LU 142:3.8](/es/The_Urantia_Book/142#p3_8)
 
 Se enfatiza en numerosas ocasiones la distinción entre oración y adoración. 
 
-> … La oración nos sostiene espiritualmente, pero la adoración es creativa de manera divina. [LU 143:7.5](/es/The_Urantia_Book/143#p7_5)
+> … La oración nos sostiene espiritualmente, pero la adoración es creativa de manera divina. <a id="a111_93"></a>[LU 143:7.5](/es/The_Urantia_Book/143#p7_5)
 
-> La oración es el recordatorio de uno mismo: un pensamiento sublime. La adoración es el olvido de uno mismo: un superpensamiento. La adoración es atención sin esfuerzo, el descanso ideal y verdadero del alma, una forma relajante de ejercicio espiritual.. [LU 143:7.7](/es/The_Urantia_Book/143#p7_7)
+> La oración es el recordatorio de uno mismo: un pensamiento sublime. La adoración es el olvido de uno mismo: un superpensamiento. La adoración es atención sin esfuerzo, el descanso ideal y verdadero del alma, una forma relajante de ejercicio espiritual.. <a id="a113_256"></a>[LU 143:7.7](/es/The_Urantia_Book/143#p7_7)
 
-> Se podría decir que orar equivale a recargar las baterías espirituales del alma, y en cambio adorar sería sintonizar el alma para captar las difusiones en el universo del espíritu infinito del Padre Universal. [LU 144:4.8](/es/The_Urantia_Book/144#p4_8)
+> Se podría decir que orar equivale a recargar las baterías espirituales del alma, y en cambio adorar sería sintonizar el alma para captar las difusiones en el universo del espíritu infinito del Padre Universal. <a id="a115_212"></a>[LU 144:4.8](/es/The_Urantia_Book/144#p4_8)
 
 Consideremos el extraordinario alcance de la adoración sobre el de la simple oración en el siguiente párrafo del documento 5, «La relación de Dios con el individuo». 
 
-> Las oraciones, todas las comunicaciones formales, todo excepto adorar y rendir culto al Padre Universal, son asuntos que conciernen al universo local. Normalmente no sobrepasan los límites del ámbito de jurisdicción de un Hijo Creador. En cambio y sin lugar a dudas, la adoración es encircuitada y enviada a la persona del Creador mediante el funcionamiento del circuito de personalidad del Padre.  [LU 5:3.2](/es/The_Urantia_Book/5#p3_2)
+> Las oraciones, todas las comunicaciones formales, todo excepto adorar y rendir culto al Padre Universal, son asuntos que conciernen al universo local. Normalmente no sobrepasan los límites del ámbito de jurisdicción de un Hijo Creador. En cambio y sin lugar a dudas, la adoración es encircuitada y enviada a la persona del Creador mediante el funcionamiento del circuito de personalidad del Padre.  <a id="a119_401"></a>[LU 5:3.2](/es/The_Urantia_Book/5#p3_2)
 
 En la Biblia, la meditación se describe como un enfoque para mantenerse firme y centrado. Por ejemplo, se menciona 23 veces: 
 
@@ -134,3 +158,27 @@ Para más información sobre las aplicaciones prácticas de la meditación, [hag
 - [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2023/?lang=es)
 - [Este artículo](https://urantia-association.org/practicas-espirituales-invitacion-a-la-intimidad-con-dios/?lang=es)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Peep_Sober/urantia_is_it_a_new_religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Es Urantia una nueva religión?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Unity_Harmony_Within_Diversity_of_Experience_and_Belief_3">
+          <span class="pr-2">Unidad: armonía dentro de la diversidad de experiencias y creencias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

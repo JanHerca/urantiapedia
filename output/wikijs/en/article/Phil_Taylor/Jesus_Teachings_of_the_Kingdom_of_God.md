@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Philip Taylor<br>© 2000 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ruth_Kask/The_Acme_of_Religious_Living">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Acme of Religious Living</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Sharing_God_the_Sublime_Consciousness_of_Knowing_God">
+          <span class="pr-2">Sharing God, the Sublime Consciousness of Knowing God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Philip_Taylor.jpg">
@@ -26,7 +50,7 @@ When I speak of ourselves as leaders, I mean just that. We are leaders of a new 
 
 I would like to quote from 111:5.4:
 
-> _Peace in this life, survival in death, perfection in the next life, service in eternity — all these are acbieved (in spirit) ***now*** when the creature personality consents—chooses— to subject the creature will to the Father's will._ [[UB 111:5.4](/en/The_Urantia_Book/111#p5_4)]
+> _Peace in this life, survival in death, perfection in the next life, service in eternity — all these are acbieved (in spirit) ***now*** when the creature personality consents—chooses— to subject the creature will to the Father's will._ <a id="a52_238"></a>[[UB 111:5.4](/en/The_Urantia_Book/111#p5_4)]
 
 This is all that is required of us. There are no sacrifices to be made, no oaths to be taken. Simply must we desire his plan of perfection. If this is true, if we so desire this perfection, then at every moment of spiritual import and at every episode of human frailty, when love resides deep in our hearts, will we stop and ask, “Father, what is your will?” If this desire is truly resident, then the Father will be at the center of our lives, and on his guidance we will depend. This is not the mystery of God. It is quite simple. The greatest effort that a God-knowing man or woman can make is the wholehearted desire for perfection and the dependence on divine guidance.
 
@@ -84,7 +108,7 @@ But for the meantime, during our interaction with our fellows, we should not be 
 
 Another experience I would share with you occurred in San Francisco. I was staying in a hotel at the time and again was walking the streets of the city, again, looking for a place to eat. I realize that both my previous story and this story revolve around my desire to eat and my desire to do the Father's will, but I assure you there really is no connection between the two. That is, I suppose, unless you read in _The Urantia Book_ where they tell us that primitive man only thought when he was hungry. I didn't realize this until I wrote this, but it sounds pretty incriminating. But such was my experience, and so as I walked down the colorful streets of San Francisco, I said to the Father that I wish to be of service to you and Michael. I also asked if he would guide me to where I needed to be.
 
-Now at this point in my life I had experienced a few rewarding experiences in serving the Father, and desiring more of these, I began to wonder to myself how the Father and our unseen friends guide us to where we should be. I thought of how Jesus, when he was in Rome, _personally came into affectionate and uplifting contact with upwards of five hundred mortals of the realm_ [[UB 132:4.3](/en/The_Urantia_Book/132#p4_3)]. This occurred in a period of six weeks. How was it that he was so effective? That is almost three a day. I know that Jesus desired to be of service and that always he sought the Father's will. Because of this, angels must have guided many people to him, or him to others.
+Now at this point in my life I had experienced a few rewarding experiences in serving the Father, and desiring more of these, I began to wonder to myself how the Father and our unseen friends guide us to where we should be. I thought of how Jesus, when he was in Rome, _personally came into affectionate and uplifting contact with upwards of five hundred mortals of the realm_ <a id="a110_377"></a>[[UB 132:4.3](/en/The_Urantia_Book/132#p4_3)]. This occurred in a period of six weeks. How was it that he was so effective? That is almost three a day. I know that Jesus desired to be of service and that always he sought the Father's will. Because of this, angels must have guided many people to him, or him to others.
 
 But how do I know that I can be of service to the numerous individuals in my presence, I thought. There has to be some, tactful, kind, loving way of approaching people. The answer I thought to myself was that Michael will provide me with an “in.” That is, a way “in” to the conversation. Perhaps it is by performing some act of kindness for the person, perhaps a smile, or maybe just a question.
 
@@ -110,7 +134,7 @@ By desiring to be of service to others I have found that the Father has become t
 
 Such insightful exchanges of experience are the means by which this brotherhood will grow in its relationship with the Father. But we must be wary of the cynicism that still persists in this world about discerning the thoughts of God in our own minds, a process which is entirely normal. This spirit-led brotherhood requires an open culture of sharing and free exchange of experiences in order that we all may grow. The full revelation of doing the Father's will is not revealed in _The Urantia Book_. Rather, it is required that God's children reveal the nature of understanding his will to one another.
 
-Is this not an act of the Supreme wherein the children of time have the divine experience of revealing God's divine nature to one another? Should we not derive as much pleasure from exhibiting the aspects of the Father's personality in our own lives as we do in helping others find truth, beauty and goodness in their lives? Such, I believe, is the Father's will. But again I must emphasize that we must provide a spiritual culture where others feel free to share their experiences of communion with the Father. Not only do we derive the benefit of hearing other experiences, but we can have the assurance that through sharing, our spiritual lives will remain in check and free from those _freakish, erratic and eccentric tendencies_ [[UB 100:7.3](/en/The_Urantia_Book/100#p7_3)] that can often result from spiritual isolation. Such interchange provides the real vehicle by which we can all _develop a strong and unified personality along the perfected lines of the Jesus personality_ [[UB 100:7.1](/en/The_Urantia_Book/100#p7_1)].
+Is this not an act of the Supreme wherein the children of time have the divine experience of revealing God's divine nature to one another? Should we not derive as much pleasure from exhibiting the aspects of the Father's personality in our own lives as we do in helping others find truth, beauty and goodness in their lives? Such, I believe, is the Father's will. But again I must emphasize that we must provide a spiritual culture where others feel free to share their experiences of communion with the Father. Not only do we derive the benefit of hearing other experiences, but we can have the assurance that through sharing, our spiritual lives will remain in check and free from those _freakish, erratic and eccentric tendencies_ <a id="a136_734"></a>[[UB 100:7.3](/en/The_Urantia_Book/100#p7_3)] that can often result from spiritual isolation. Such interchange provides the real vehicle by which we can all _develop a strong and unified personality along the perfected lines of the Jesus personality_ <a id="a136_985"></a>[[UB 100:7.1](/en/The_Urantia_Book/100#p7_1)].
 
 I recall sharing some of my experiences with one reader, and afterwards being warned that there was great danger in discerning the Father's thoughts in my mind. I believe she was right: we do need to be careful. There is a danger of elevating our thoughts to the status of divinity where we can err in believing that all our thoughts are God's thoughts. But we cannot be intimidated by this; we should proceed with caution and discern carefully the thoughts in our minds. But to ignore this guidance that is being offered would deprive me of these experiences, and in effect negate the Father's will.
 
@@ -119,3 +143,27 @@ I look at this planet and this organization and ask myself: isn't there a greate
 I know I am on to something. How do I know? By the fruits of the spirit. From these experiences and a few others, I have actually cooperated in the creation of something truthful, beautiful, and good, and even more—I participated in a greater revelation of love. I actually went through an experience which our Creator goes through all the time—I was given the gift of being able to create, an experience which I believe has been contributed to the Supreme.
 
 While there is reason to guard against the dangers, I believe this can be compensated by creating a spiritual culture of normal-minded, down-to-earth, approachable, sharing, loving, spirit-led believers. This brotherhood should be responsible for realizing that end. I have mentioned this earlier, but I'll say it again: what the world needs now is to see Jesus on earth, living in the lives of mortal men and women, who have decided to seek the Father's will.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ruth_Kask/The_Acme_of_Religious_Living">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Acme of Religious Living</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Sharing_God_the_Sublime_Consciousness_of_Knowing_God">
+          <span class="pr-2">Sharing God, the Sublime Consciousness of Knowing God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

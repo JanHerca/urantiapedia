@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Michael Hanian<br>© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_Perron/the_eternal_quest">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Quête Éternelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-décembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Décembre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bart_Gibbons/with_respect_to_adversity">
+          <span class="pr-2">En ce qui concerne l’Adversité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Une version personnelle de la foi comme outil de culture du mental
@@ -33,7 +57,7 @@ Mon espoir est d’être sincère.
 
 Mon espoir est de pouvoir partager avec vous les choses qui me sont précieuses car, comme on nous le dit :
 
-> _L’homme qui connaît Dieu décrit ses expériences spirituelles … pour édifier et satisfaire mutuellement les croyants._ <a id="a58_119"></a>[[LU 1:6.6](/fr/The_Urantia_Book/1#p6_6)]
+> _L’homme qui connaît Dieu décrit ses expériences spirituelles … pour édifier et satisfaire mutuellement les croyants._ <a id="a59_121"></a>[[LU 1:6.6](/fr/The_Urantia_Book/1#p6_6)]
 
 En 1986 j’ai fait un rêve. J’étais sur la plage. Il faisait beau, il n’y avait pas de vent et le soleil brillait doucement. Venant de nulle part, une vague géante descendit sur le rivage et m’emporta avec elle. J’étais impuissant, ballotté et essayant  instinctivement de me retenir à quelque chose. Étrangement je n’avais pas peur.
 
@@ -71,7 +95,7 @@ Et juste après cette perception il en vint une autre : Je peux apprendre à uti
 
 Je fus finalement rassuré quand j’ai lu ces mots merveilleux :
 
-> _La foi est l’inspiration de l’imagination créatrice imprégnée de l’esprit._ <a id="a96_69"></a>[[LU 132:3.5](/fr/The_Urantia_Book/132#p3_5)]
+> _La foi est l’inspiration de l’imagination créatrice imprégnée de l’esprit._ <a id="a97_79"></a>[[LU 132:3.5](/fr/The_Urantia_Book/132#p3_5)]
 
 ## La Créativité
 
@@ -117,8 +141,8 @@ Avertissement : avant de continuer lisez soigneusement les instructions.
 2. Environnement opératoire : la vie au jour le jour.
 3. Précautions de sécurité :
 
-- Manipuler avec soin : La foi est en même temps puissante et délicate. Quand on en abuse elle peut entrainer des « convulsions _de fanatisme_ » <a id="a142_119"></a>[[LU 110:4.5](/fr/The_Urantia_Book/110#p4_5)]
-- Ne pas exposer l’outil à un environnement hostile : « _ne pas jeter les perles aux cochons_ » <a id="a143_90"></a>[[LU 140:3.18](/fr/The_Urantia_Book/140#p3_18)]
+- Manipuler avec soin : La foi est en même temps puissante et délicate. Quand on en abuse elle peut entrainer des « convulsions _de fanatisme_ » <a id="a143_145"></a>[[LU 110:4.5](/fr/The_Urantia_Book/110#p4_5)]
+- Ne pas exposer l’outil à un environnement hostile : « _ne pas jeter les perles aux cochons_ » <a id="a144_96"></a>[[LU 140:3.18](/fr/The_Urantia_Book/140#p3_18)]
 - Bien conserver : Bien qu’il n’y ait pas de ‘ à consommer avant’ sur le paquet, une inactivité prolongée aura pour résultat que l’outil rouillera. Cela signifie qu’il faut utiliser votre foi.
 
 Mais pas un mot sur le mode d’emploi !
@@ -131,13 +155,13 @@ Que veux-tu vraiment ? me demandais-je. Je voulais beaucoup de choses. Mais il y
 
 Cela devint mon deuxième choix rationnel et intellectuel sur la route d’un mental mieux cultivé. Alors pourquoi ai-je choisi la peur comme cible majeure ?
 
-Si je devais choisir une seule qualité négative qui embarrassait toute ma vie, ce serait la peur. Il est dit à juste titre dans le Livre d’Urantia : **« _C’est principalement la peur qui rend l’homme esclave._»** <a id="a156_177"></a>[[LU 142:0.2](/fr/The_Urantia_Book/142#p0_2)] On nous dit que la peur est héritée du royaume animal. Un Porteur de Vie admire le cheval, mais il regrette le fait que le cheval soit si facilement effrayé. Eh bien c’est un message pour nous les humains. Alors qu’un cheval effrayé fuit, l’homme tue par peur ; ou il est tué. On nous dit que ***« la peur peut tuer »*** <a id="a156_536"></a>[[LU 88:4.8](/fr/The_Urantia_Book/88#p4_8)] On nous dit aussi : **« _La peur … est une fraude intellectuelle maitresse pratiquée sur l’âme mortelle en évolution._ »** <a id="a156_687"></a>[[LU 48:7.4](/fr/The_Urantia_Book/48#p7_4)] Et il est tout à fait évident que cette fraude est pratiquée par l’entremise du mental.
+Si je devais choisir une seule qualité négative qui embarrassait toute ma vie, ce serait la peur. Il est dit à juste titre dans le Livre d’Urantia : **« _C’est principalement la peur qui rend l’homme esclave._»** <a id="a157_213"></a>[[LU 142:0.2](/fr/The_Urantia_Book/142#p0_2)] On nous dit que la peur est héritée du royaume animal. Un Porteur de Vie admire le cheval, mais il regrette le fait que le cheval soit si facilement effrayé. Eh bien c’est un message pour nous les humains. Alors qu’un cheval effrayé fuit, l’homme tue par peur ; ou il est tué. On nous dit que ***« la peur peut tuer »*** <a id="a157_580"></a>[[LU 88:4.8](/fr/The_Urantia_Book/88#p4_8)] On nous dit aussi : **« _La peur … est une fraude intellectuelle maitresse pratiquée sur l’âme mortelle en évolution._ »** <a id="a157_747"></a>[[LU 48:7.4](/fr/The_Urantia_Book/48#p7_4)] Et il est tout à fait évident que cette fraude est pratiquée par l’entremise du mental.
 
-Que fait précisément cette crainte à notre mental et à notre personnalité ? Un Conseiller Divin nous avertit que nous **déformons** notre mental par **« _des anxiétés inutiles_. »** <a id="a158_144"></a>[[LU 9:5.7](/fr/The_Urantia_Book/9#p5_7)] Or, l’anxiété est un sous-produit de la peur. Un Messager Solitaire déclare que la peur **pollue** la fontaine de la foi, **«  _la fontaine de la foi polluée par les poisons de la peur,_ »** <a id="a158_361"></a>[[LU 111:7.5](/fr/The_Urantia_Book/111#p7_5)] Les Médians désignent une crainte qui ***«  empêche efficacement les âmes honnêtes d’aujourd’hui d’accepter la nouvelle lumière de l’évangile …»*** <a id="a158_516"></a>[[LU 159:4.9](/fr/The_Urantia_Book/159#p4_9)] emphasis added
+Que fait précisément cette crainte à notre mental et à notre personnalité ? Un Conseiller Divin nous avertit que nous **déformons** notre mental par **« _des anxiétés inutiles_. »** <a id="a159_182"></a>[[LU 9:5.7](/fr/The_Urantia_Book/9#p5_7)] Or, l’anxiété est un sous-produit de la peur. Un Messager Solitaire déclare que la peur **pollue** la fontaine de la foi, **«  _la fontaine de la foi polluée par les poisons de la peur,_ »** <a id="a159_415"></a>[[LU 111:7.5](/fr/The_Urantia_Book/111#p7_5)] Les Médians désignent une crainte qui ***«  empêche efficacement les âmes honnêtes d’aujourd’hui d’accepter la nouvelle lumière de l’évangile …»*** <a id="a159_609"></a>[[LU 159:4.9](/fr/The_Urantia_Book/159#p4_9)] emphasis added
 
-Alors qu’est-ce que la crainte ? La crainte est aux antipodes de l’amour. L’amour et la crainte s’excluent mutuellement. Ces deux substances ne se mélangent pas. Là où il y a de la crainte il n’y a pas d’amour. Là où il y a de l’amour il n’y a pas de crainte. Il est éternellement vrai que «  … _l’amour de Dieu… chasse toute crainte.»_ <a id="a160_264"></a>[[LU 48:6.8](/fr/The_Urantia_Book/48#p6_8)] C’est pourquoi l’Ajusteur  _« _aimerait changer [nos] sentiments de crainte en convictions d’amour et de confiance,_ <a id="a160_418"></a>[[LU 108:5.8](/fr/The_Urantia_Book/108#p5_8)]
+Alors qu’est-ce que la crainte ? La crainte est aux antipodes de l’amour. L’amour et la crainte s’excluent mutuellement. Ces deux substances ne se mélangent pas. Là où il y a de la crainte il n’y a pas d’amour. Là où il y a de l’amour il n’y a pas de crainte. Il est éternellement vrai que «  … _l’amour de Dieu… chasse toute crainte.»_ <a id="a161_337"></a>[[LU 48:6.8](/fr/The_Urantia_Book/48#p6_8)] C’est pourquoi l’Ajusteur  _« _aimerait changer [nos] sentiments de crainte en convictions d’amour et de confiance,_ <a id="a161_498"></a>[[LU 108:5.8](/fr/The_Urantia_Book/108#p5_8)]
 
-Mais peut-être  la crainte pourrait-elle être utile ? Bien sûr. Pour le corps ; elle avertit, elle nous fait appeler à l’aide. Toutefois, plus nous comprenons les paroles du Maitre «  L’homme ne vit pas seulement de pain, » <a id="a162_199"></a>[[LU 160:3.1](/fr/The_Urantia_Book/160#p3_1)] moins nous avons besoin de la crainte, et plus nous avons besoin de l’amour. Et la foi devient d’autant plus le pont jeté sur les eaux troublées de notre mental.
+Mais peut-être  la crainte pourrait-elle être utile ? Bien sûr. Pour le corps ; elle avertit, elle nous fait appeler à l’aide. Toutefois, plus nous comprenons les paroles du Maitre «  L’homme ne vit pas seulement de pain, » <a id="a163_224"></a>[[LU 160:3.1](/fr/The_Urantia_Book/160#p3_1)] moins nous avons besoin de la crainte, et plus nous avons besoin de l’amour. Et la foi devient d’autant plus le pont jeté sur les eaux troublées de notre mental.
 
 Quand j’ai commencé à utiliser le nouvel outil, il a fait preuve de certaines qualités tout à fait inattendues et merveilleuses.
 
@@ -161,7 +185,7 @@ D’où de nouveau le problème du choix. Le choix entre maintenant et plus tard
 
 En fin de compte, c’est un choix entre croire et ne pas croire ; car si vous croyez vraiment en Dieu, il ne peut pas y avoir de crainte. Nous n’avons peur qu’en proportion directe de notre manque de foi. Alors, ne craignez pas devient une autre manière de dire : **Ayez la foi**. Le problème du combat contre la crainte est le problème de permettre à la foi d’avoir le dessus dans les affaires humaines.
 
-***« Ne craignez pas. »*** <a id="a186_17"></a>[[LU 100:7.15](/fr/The_Urantia_Book/100#p7_15)] était le mot d’ordre du Maitre, parce que quand vous craignez vous ne pouvez pas vraiment aimer. Ce fut la crainte agissant au travers de différentes matérialisations – jalousie, méfiance, suspicion, envie et vindication qui a ruiné Judas. La crainte pour sa vie a conduit Pierre à un état très dangereux de dénégation de son Maitre – n’était-il pas proche de suivre les pas de Judas? La crainte d’une perte matérielle a conduit Matadormus à rejeter l’offre du Maitre. Cette crainte était-elle justifiée? Non. Les Médians nous révèlent que Matadormus aurait reçu tous ses trésors immédiatement si seulement il avait accepté son nouveau rôle. La crainte de troubles avec les Juifs a conduit Pilate à céder à leurs demandes scandaleuses.
+***« Ne craignez pas. »*** <a id="a187_27"></a>[[LU 100:7.15](/fr/The_Urantia_Book/100#p7_15)] était le mot d’ordre du Maitre, parce que quand vous craignez vous ne pouvez pas vraiment aimer. Ce fut la crainte agissant au travers de différentes matérialisations – jalousie, méfiance, suspicion, envie et vindication qui a ruiné Judas. La crainte pour sa vie a conduit Pierre à un état très dangereux de dénégation de son Maitre – n’était-il pas proche de suivre les pas de Judas? La crainte d’une perte matérielle a conduit Matadormus à rejeter l’offre du Maitre. Cette crainte était-elle justifiée? Non. Les Médians nous révèlent que Matadormus aurait reçu tous ses trésors immédiatement si seulement il avait accepté son nouveau rôle. La crainte de troubles avec les Juifs a conduit Pilate à céder à leurs demandes scandaleuses.
 
 La crainte aveugle. La crainte déconnecte. La crainte est traitresse, la crainte est meurtrière.
 
@@ -183,7 +207,7 @@ On ne peut pas arrêter Dieu; mais on peut l’empêcher de cultiver notre menta
 
 La foi est ma houe et mon épée. C’est le seul outil et la seule arme dont j’aurai jamais besoin pour aider mon mental dans la bataille constante avec la crainte qui ne croit pas.
 
-Avec le temps, je constate que la distance entre la foi nouvelle-née et le mental, la distance qui était un problème semble s’amenuiser car les deux se rapprochent et maitrisent un langage commun. Je commence à voir que  ***la foi*** est ***« l’affirmation suprême de la pensée humaine, »***  <a id="a208_314"></a>[[LU 3:5.9](/fr/The_Urantia_Book/3#p5_9)] que _**la foi**_ est **« _raisonnable_ »** <a id="a208_391"></a>[[LU 103:7.1](/fr/The_Urantia_Book/103#p7_1)] que ***la foi*** est **_« une vision du mental spiritualisé. »_** <a id="a208_495"></a>[[LU 1:3.3](/fr/The_Urantia_Book/1#p3_3)]
+Avec le temps, je constate que la distance entre la foi nouvelle-née et le mental, la distance qui était un problème semble s’amenuiser car les deux se rapprochent et maitrisent un langage commun. Je commence à voir que  ***la foi*** est ***« l’affirmation suprême de la pensée humaine, »***  <a id="a209_293"></a>[[LU 3:5.9](/fr/The_Urantia_Book/3#p5_9)] que _**la foi**_ est **« _raisonnable_ »** <a id="a209_378"></a>[[LU 103:7.1](/fr/The_Urantia_Book/103#p7_1)] que ***la foi*** est **_« une vision du mental spiritualisé. »_** <a id="a209_490"></a>[[LU 1:3.3](/fr/The_Urantia_Book/1#p3_3)]
 
 Je peux être sûr d’avoir choisi le bon outil. Contrairement à d’autres outils un usage intensif ne fait que l’affûter plus. Tout ce que j’ai à faire est de le garder à portée de main.
 
@@ -201,3 +225,28 @@ Le mental faisant le choix de ne pas craindre.
 - [Ce numéro](https://urantia-association.org/newsletter/journal-decembre-2015/?lang=fr)
 - [Cet article](https://urantia-association.org/cultiver-le-mental-choisir-le-bon-outil/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_Perron/the_eternal_quest">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Quête Éternelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-décembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Décembre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bart_Gibbons/with_respect_to_adversity">
+          <span class="pr-2">En ce qui concerne l’Adversité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

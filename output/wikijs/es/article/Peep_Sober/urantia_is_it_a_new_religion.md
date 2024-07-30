@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Peep Sõber<br>© 2023 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Blackham/journal_editorial_november_2023">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial del Journal – noviembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Coenraads/spiritual_practices_an_invitation_to_intimacy_with_god">
+          <span class="pr-2">Prácticas espirituales: invitación a la intimidad con Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Peep Sõber, Estonia_
 
@@ -23,11 +47,11 @@ La religión se puede ver tanto desde dentro, con algunas ideas preconcebidas so
 
 El libro revela que:
 
-> La verdadera perspectiva de cualquier problema de la realidad —humano o divino, terrestre o cósmico— solo se puede obtener mediante el estudio y la correlación, en profundidad y sin prejuicios, de los tres aspectos de la realidad del universo: su origen, su historia y su destino. [LU 19:1.6](/es/The_Urantia_Book/19#p1_6)
+> La verdadera perspectiva de cualquier problema de la realidad —humano o divino, terrestre o cósmico— solo se puede obtener mediante el estudio y la correlación, en profundidad y sin prejuicios, de los tres aspectos de la realidad del universo: su origen, su historia y su destino. <a id="a49_283"></a>[LU 19:1.6](/es/The_Urantia_Book/19#p1_6)
 
 Uso este método para comprender el movimiento Urantia actual, en especial su conexión con la religión. En primer lugar, consideremos cómo se convirtió el cristianismo en una religión nueva y poderosa:
 
-> El cristianismo no llegó simplemente como una nueva religión —algo que todo el Imperio romano y todo el Oriente estaban esperando— sino como un nuevo orden de sociedad humana, y esta pretensión precipitó rápidamente el choque sociomoral de los siglos. Los ideales de Jesús, reinterpretados por la filosofía griega y socializados en el cristianismo, plantearon un audaz desafío a las tradiciones de la raza humana plasmadas en la ética, la moral y las religiones de la civilización occidental. [LU 195:0.3](/es/The_Urantia_Book/195#p0_3)
+> El cristianismo no llegó simplemente como una nueva religión —algo que todo el Imperio romano y todo el Oriente estaban esperando— sino como un nuevo orden de sociedad humana, y esta pretensión precipitó rápidamente el choque sociomoral de los siglos. Los ideales de Jesús, reinterpretados por la filosofía griega y socializados en el cristianismo, plantearon un audaz desafío a las tradiciones de la raza humana plasmadas en la ética, la moral y las religiones de la civilización occidental. <a id="a53_495"></a>[LU 195:0.3](/es/The_Urantia_Book/195#p0_3)
 
 La palabra _religión_ en si misma es de origen latino, en la que significaba respeto por lo sagrado, reverencia hacia los dioses y obligaciones morales, entre otras definiciones (Online Etymological Dictionary); pero los autores de _El libro de Urantia_ usan la palabra con significados diferentes. Los seguidores de las religiones orientales no usan mucho esa palabra. Por ejemplo, algunos dicen que el budismo no es para nada una religión, sino una manera de vivir. Todo depende de lo que queramos decir con _religión_. Intento usar la palabra como se usa en _El libro de Urantia_ y en Occidente en general.
 
@@ -52,7 +76,7 @@ Sabemos que en abril de 1955 William S. Sadler, Jr. presentó _El momento de El 
 
 Cuando leí el _Mandato de Publicación_ por primera vez, estas palabras tenían autoridad. El libro influyó en el nacimiento de una nueva era de la religión, ¿pero es seguro nuestro mundo? ¡En absoluto! Hemos tenido varios años de guerra en Europa y no se ve el final a corto plazo. El líder de nuestro país vecino (Rusia) tiene una orden judicial de arresto contra él emitida por una corte internacional porque él y muchos otros han sido acusados de crímenes de guerra. Esto no había pasado antes en la larga historia de Europa. ¿Es sostenible un sistema donde tenemos crímenes de guerra, ocupación, etc.? En primer lugar, no deberíamos buscar la paz de manera ingenua. La verdadera paz solo puede venir con el logro espiritual, que se produce cuando las personas ya no quieren basarse en la violencia. Sin embargo, a nuestra civilización todavía le queda mucho para llegar a eso.
 
-> Un sistema social duradero sin una moral basada en realidades espirituales es tan imposible de mantener como el sistema solar sin gravedad. [LU 195:5.9](/es/The_Urantia_Book/195#p5_9)
+> Un sistema social duradero sin una moral basada en realidades espirituales es tan imposible de mantener como el sistema solar sin gravedad. <a id="a78_142"></a>[LU 195:5.9](/es/The_Urantia_Book/195#p5_9)
 
 He vivido la mayor parte de mi vida en la Unión Soviética, y no puedo decir que hubiera alguna realidad espiritual en ese sistema. La mayoría sabíamos que no duraría mucho tiempo y tuvimos razón. Si miramos al mundo de hoy día, en especial en Europa, esas aventuras violentas (agresiones) tienen pocas probabilidades de éxito. Como ya se afirma en el _Libro de Daniel_ y se menciona también en _El libro de Uranti_a, los Altísimos gobiernan en los reinos de los hombres.
 
@@ -93,6 +117,31 @@ _El libro de Urantia_ es religioso por naturaleza, pero el objetivo de los autor
 - [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2023/?lang=es)
 - [Este artículo](https://urantia-association.org/es-urantia-una-nueva-religion/?lang=es)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Blackham/journal_editorial_november_2023">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial del Journal – noviembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Coenraads/spiritual_practices_an_invitation_to_intimacy_with_god">
+          <span class="pr-2">Prácticas espirituales: invitación a la intimidad con Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

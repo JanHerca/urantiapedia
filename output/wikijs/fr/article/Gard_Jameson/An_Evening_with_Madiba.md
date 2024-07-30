@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Gard Jameson<br>© 2000 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2000_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Mars 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mars-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mars 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Barr/The_Privilege_of_Having_God_as_Father">
+          <span class="pr-2">Le Privilège d'avoir Dieu en tant que « Père »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Gard Jameson
 Las Vegas, États Unis
@@ -45,3 +69,28 @@ J'en termine avec une partie du discours de Mandela à l'assemblée du Parlement
 
 «Ce siècle a vu assez de destructions, d'injustices, de dissensions et de divisions, de souffrances et de peines, et de notre capacité à être massivement inhumains envers les uns les autres. Il y a assez de causes pour être cynique envers la vie humaine et l'humanité. Ce rassemblement à la fin de notre siècle, sert à contrebalancer le désespoir et le cynisme, et nous appelle à reconnaître et à réaffirmer tout ce qui est grand et généreux et bienveillant dans l'esprit humain. Tandis que nous approchons du 21ème siècle, nous ne pouvons pas ne pas être tout à fait conscients que nous nous trouvons à la croisée des chemins de notre histoire. Le monde est train de subir une profonde redéfinition des valeurs et des modes de perception... Les points communs sont plus nombreux et d'une nature plus durable que les aspects qui divisent. C'est dans cet esprit que nous pouvons affronter l'aube de ce nouveau siècle avec l'espoir qu'il sera en effet un siècle meilleur pour tous les peuples du monde. »
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2000_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Mars 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mars-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mars 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Barr/The_Privilege_of_Having_God_as_Father">
+          <span class="pr-2">Le Privilège d'avoir Dieu en tant que « Père »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

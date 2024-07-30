@@ -46,7 +46,7 @@ We are challenged instead to invigorate in the presence of difficulties and exhi
 
 It is no easy task.
 
-We are reminded in _The Urantia Book_ how “A social group of human beings in coordinated working harmony stands for a force far greater than the simple sum of its parts.” (<a id="a24_172"></a>[UB 133:5.6](/en/The_Urantia_Book/133#p5_6)) The harmony of our efforts together _demands_ coordination. It _requires_ work. And that sustained effort _needs_ you.
+We are reminded in _The Urantia Book_ how “A social group of human beings in coordinated working harmony stands for a force far greater than the simple sum of its parts.” (<a id="a48_172"></a>[UB 133:5.6](/en/The_Urantia_Book/133#p5_6)) The harmony of our efforts together _demands_ coordination. It _requires_ work. And that sustained effort _needs_ you.
 
 The Urantia Book Fellowship (a.k.a. the Fellowship) invests significant resources into working across every border-international and organizational-to strive towards the highest values of effective collaboration. We need your support to capitalize on these incredible opportunities to further develop our partnerships within the broader _Urantia Book_ movement, with the following 2024 shared goals:
 

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Suzanne Kelly<br>© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2019_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Novembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Agnes_Lazar/the_study_group">
+          <span class="pr-2">Le Groupe d’Étude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Bienvenus Amis lecteurs du Livre d’Urantia**
@@ -21,7 +45,7 @@ La seconde production du Journal de l’Urantia Association pour 2019 met en exe
 
 Notre première contributrice avec “Le Groupe d’Étude », Agnès Lazar de Belgique, est une enseignante qui étudie Le Livre d’Urantia depuis 2001. Elle a étudié à la fois en anglais et en français à Dakar avec un mentor et a formé un groupe à elle en Belgique, mue par le désir de comprendre et partager les vérités qui lui ont parlé. Dans sa description courte mais profonde elle décrit les groupes d’étude comme « _les matrices de la croissance par l’expérienc_e », abordant le désir de paix immédiate et notre propre vérification et transformation, Agnès compare l’étude individuelle réussie à un orchestre disant que « _Lorsque tous les musiciens se rassemblent ils s’harmonisent les uns avec les autres et la précision de la symphonie dépendra du travail personnel de chacun et de leurs compétences pour le travail en commun. Cet effort supplémentaire est essentiel._
 
-Notre seconde présentation, “Les Groupes d’Étude Reconsidérés” par Gaétan Charland du Canada est un examen du nom, de la nature, de la fonction, de la mission et des objectifs des groupes d’étude. Après avoir considéré l’instruction dans _Le Livre_ _d_’_Urantia_ il a dit …_comme déclare_ _l’Introduction_ :_“pour étendre la conscience cosmique et rehausser la perception spirituelle »_ <a id="a46_315"></a>[[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2)]_—et pour répondre à l’autre grand défi_ : _“d’établir de meilleures communications avec le divin Moniteur qui habite le mental humain »_ <a id="a46_493"></a>[[LU 196:3.34](/fr/The_Urantia_Book/196#p3_34)] et il suggère que notre protocole actuel de groupe d’étude a besoin d’être réexaminé.
+Notre seconde présentation, “Les Groupes d’Étude Reconsidérés” par Gaétan Charland du Canada est un examen du nom, de la nature, de la fonction, de la mission et des objectifs des groupes d’étude. Après avoir considéré l’instruction dans _Le Livre_ _d_’_Urantia_ il a dit …_comme déclare_ _l’Introduction_ :_“pour étendre la conscience cosmique et rehausser la perception spirituelle »_ <a id="a47_387"></a>[[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2)]_—et pour répondre à l’autre grand défi_ : _“d’établir de meilleures communications avec le divin Moniteur qui habite le mental humain »_ <a id="a47_566"></a>[[LU 196:3.34](/fr/The_Urantia_Book/196#p3_34)] et il suggère que notre protocole actuel de groupe d’étude a besoin d’être réexaminé.
 
 D’abord, il considère la définition actuelle du titre “ groupe d’étude” comme : un petit groupe de personnes qui se rencontrent régulièrement pour discuter de domaines d’études partagés puis il la compare _à la silhouette d’un groupe d’étude de l’heure actuelle . L’Annuaire d’un Groupe d’Étude a un registre de plus de 80 groupes d’étude virtuels dans beaucoup de langages différents ayant lieu à des jours et heures différents de la semaine. Il y a aussi des groupes qui profitent de rencontres à la fois virtuelles et en personne. Il y a aussi plus de 400 groupes réguliers listés dans des annuaires différent gérés par différentes organisations._
 
@@ -41,3 +65,28 @@ Heureuse et édifiante lecture !
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2019/?lang=fr)
 - [Cet article](https://urantia-association.org/editorial-du-journal-de-novembre-2019/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2019_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Novembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Agnes_Lazar/the_study_group">
+          <span class="pr-2">Le Groupe d’Étude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

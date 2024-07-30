@@ -125,7 +125,7 @@ Enfin, je souhaite parler d'une de mes personnes préférées et de son approche
 > 
 > « _Jésus n’était jamais pressé. Il avait le temps de réconforter ses semblables « en passant ». Il s’arrangeait toujours pour que ses amis se sentent à l’aise. Il était un auditeur charmant. Il ne tentait jamais de sonder de manière indiscrète l’âme de ses associés. Quand il réconfortait un mental inassouvi et soignait une âme assoiffée, le bénéficiaire de sa miséricorde n’avait pas tellement le sentiment de se confesser *à* lui, mais plutôt de conférer *avec* lui. Ils avaient en lui une confiance illimitée parce qu’ils voyaient qu’il avait tellement foi en eux._”
 > 
-> “_He dispensed health and scattered happiness naturally and gracefully as he journeyed through life. It was literally true, ‘he went about doing good.’ And it behooves the Master's followers in all ages to learn to minister as ‘they pass by’ — to do unselfish good as they go about their daily duties._” ([LU 171:7.1-10](/fr/The_Urantia_Book/171#p7_1))
+> “_He dispensed health and scattered happiness naturally and gracefully as he journeyed through life. It was literally true, ‘he went about doing good.’ And it behooves the Master's followers in all ages to learn to minister as ‘they pass by’ — to do unselfish good as they go about their daily duties._” (<a id="a127_307"></a>[LU 171:7.1-10](/fr/The_Urantia_Book/171#p7_1))
 
 Lorsqu'il s'agit de partage spirituel, rappelez-vous : c'est si simple ; lâchez simplement prise et laissez Dieu.
 

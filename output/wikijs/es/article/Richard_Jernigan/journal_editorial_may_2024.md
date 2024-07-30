@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Richard Jernigan<br>© 2024 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/2024_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Mayo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2024 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/thomas_aquinas_and_some_speculation_on_the_origin_of_ub">
+          <span class="pr-2">Tomás de Aquino y algunas especulaciones sobre el origen de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Richard Jernigan, EE.UU._
 
@@ -38,3 +62,27 @@ El otro punto a anunciar es una edición especial del _Journal_ que se publicar�
 - [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal/)
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2024/?lang=es)
 - [Este artículo](https://urantia-association.org/editorial-del-journal-mayo-2024/?lang=es)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/2024_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Mayo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2024 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/thomas_aquinas_and_some_speculation_on_the_origin_of_ub">
+          <span class="pr-2">Tomás de Aquino y algunas especulaciones sobre el origen de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

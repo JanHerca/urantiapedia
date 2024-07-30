@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Andrés Rodriguez<br>© 2000 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Neal_Waldrop/Millenium">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Millenium</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ralph_Zehr/Disseminating_the_Teachings">
+          <span class="pr-2">Disseminating the Teachings</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Andrés Rodriguez, Colombia
 
@@ -63,3 +87,27 @@ This new tool has a three-fold function:
 3. To promote brotherhood among the believers of _The Urantia Book_ without regard to geographical boundaries.
 
 We invite all of our Spanish-speaking brothers and sisters to join this new and fascinating Urantia adventure in cyberspace.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Neal_Waldrop/Millenium">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Millenium</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ralph_Zehr/Disseminating_the_Teachings">
+          <span class="pr-2">Disseminating the Teachings</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

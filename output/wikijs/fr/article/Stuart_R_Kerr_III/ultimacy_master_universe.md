@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Stuart Kerr<br>© 2017 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stuart_R_Kerr_III/supremacy_grand_universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Suprématie du Grand Univers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stuart_R_Kerr_III/absoluteness_cosmos_infinite">
+          <span class="pr-2">L’Absoluité du Cosmos Infini</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les quatre niveaux d’espace extérieur qui complètent les limites du Maître Univers autour du cœur même du grand univers sont destinés à faire évoluer-extérioriser le niveau de Déité de l’Ultime. Ce niveau absonite de Dieu l’Ultime transcende les contraintes de l’espace-temps qui caractérisent le grand univers fini. C’est-à-dire, l’absonite transcende  les contraintes d’espace-temps du fini.  Ce niveau superfini est à la fois antécédent et conséquent aux progressions finies du niveau de Déité de Suprématie dans l’espace-temps. Il pré-date et influence l’âge universel actuel de Suprématie finie, et il est une réponse post-Suprême aux événements signifiants qui prennent place dans les sept superunivers du grand univers.
@@ -23,7 +47,7 @@ Le niveau de Déité de l’Ultime fournit à la fois un projet directif et un o
 
 ## Dieu l’Ultime
 
-<a id="a48_0"></a>[[LU 0:2.17](/fr/The_Urantia_Book/0#p2_17)]
+<a id="a49_0"></a>[[LU 0:2.17](/fr/The_Urantia_Book/0#p2_17)]
 
 - Le Dieu en cours d’extériorisation du supertemps et de l’espace transcendé.
 - Le second niveau expérientiel où se manifeste la Déité unifiante.
@@ -45,3 +69,28 @@ Les ultimes transcendantaux extériorisent les fonctions universelles qui dépas
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2017/?lang=fr)
 - [Cet article](https://urantia-association.org/lultimite-du-maitre-univers/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stuart_R_Kerr_III/supremacy_grand_universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Suprématie du Grand Univers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stuart_R_Kerr_III/absoluteness_cosmos_infinite">
+          <span class="pr-2">L’Absoluité du Cosmos Infini</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

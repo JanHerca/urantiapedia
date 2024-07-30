@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 David Kantor<br>© 2024 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_Jernigan/journal_editorial_may_2024">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial du Journal – mai 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/James_Woodward/what_is_morontia">
+          <span class="pr-2">Qu’est-ce que la Morontia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _David Kantor, États-Unis_
 
@@ -29,7 +53,7 @@ Emma Christensen a également dit que lorsque les révélateurs ont commenté l�
 Alors, posons à nouveau la question : pourquoi cela a-t-il pu prendre autant de temps ?
 <br style="clear:both;"/>
 
-_Le Livre d’Urantia_ fournit quelques indices. D’emblée, les révélateurs déplorent d’être limités à l’utilisation de notre langue circonscrite lorsqu’ils tentent de communiquer des concepts élargis et une vérité avancée ([LU 0:0.2](/fr/The_Urantia_Book/0#p0_2)). Dans une autre section, un Melchizédek se plaint des difficultés à perpétuer la vérité dans les premiers temps ([LU 93:7.4](/fr/The_Urantia_Book/93#p7_4)). (Au XIIe siècle, la révolution de l’imprimerie de Gutenberg n’a lieu que deux siècles plus tard). Et il y a d’autres commentaires dans le livre tels que « ne peut trouver les mots appropriés », « pauvreté du langage » et « je m’efforcerai de dépeindre ». Chacun de ces commentaires nous aide à apprécier les défis et les limites d’un langage primitif sur une planète primitive.
+_Le Livre d’Urantia_ fournit quelques indices. D’emblée, les révélateurs déplorent d’être limités à l’utilisation de notre langue circonscrite lorsqu’ils tentent de communiquer des concepts élargis et une vérité avancée (<a id="a55_221"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2)). Dans une autre section, un Melchizédek se plaint des difficultés à perpétuer la vérité dans les premiers temps (<a id="a55_375"></a>[LU 93:7.4](/fr/The_Urantia_Book/93#p7_4)). (Au XIIe siècle, la révolution de l’imprimerie de Gutenberg n’a lieu que deux siècles plus tard). Et il y a d’autres commentaires dans le livre tels que « ne peut trouver les mots appropriés », « pauvreté du langage » et « je m’efforcerai de dépeindre ». Chacun de ces commentaires nous aide à apprécier les défis et les limites d’un langage primitif sur une planète primitive.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left" alt="Tommaso Summa theologica">
 <img src="/image/article/IUA_Journal/Tommaso_-_Summa_theologica_1596_-_4593718-453x706.jpg">
@@ -75,3 +99,27 @@ Un grand nombre de variables sociales, politiques, linguistiques, technologiques
 - [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal/)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2024/?lang=fr)
 - [Cet article](https://urantia-association.org/thomas-daquin-et-quelques-speculations-sur-lorigine-du-livre-durantia/?lang=fr)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_Jernigan/journal_editorial_may_2024">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial du Journal – mai 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/James_Woodward/what_is_morontia">
+          <span class="pr-2">Qu’est-ce que la Morontia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

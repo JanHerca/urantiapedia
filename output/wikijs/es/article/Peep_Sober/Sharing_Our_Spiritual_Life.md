@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Peep Sõber<br>© 2000 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Seppo_Kanerva/The_Way_Jesus_Discovered_and_Lived_the_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La forma en que Jesús descubrió y vivió la voluntad del Padre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ruth_Kask/The_Acme_of_Religious_Living">
+          <span class="pr-2">La cumbre del vivir religioso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Peep_Sober.jpg">
@@ -38,7 +62,7 @@ Podemos notar que entre los Judíos había dos categorías de oyentes del mensaj
 
 Podemos oír una extensa disparidad de opiniones, concernientes a si necesitamos una organización para compartir nuestra vida espiritual. Es obvio que podemos compartir nuestra vida espiritual en relaciones personales dentro de la familia, amigos, y en el trabajo sin ninguna organización especial para ello. Muy frecuentemente hay gente que expresan que Jesús no estableció una organización para compartir su vida espiritual, de manera que, porqué nosotros la necesitamos? Es verdad, él no usó organización para compartir su vida espiritual **personal**, pero, el punto decisivo en su vida fue la selección de sus primeros Apóstoles y el entrenarlos. Esto fue el comienzo de la organización que él usaría para diseminar su nueva revelación de Dios.
 
-Para mí esto parecía como un dilema. Optamos solamente el tratar con nuestra propia vida espiritual o tratamos también con la revelación que es llamada una que hace época? Para compartir nuestra vida espiritual personal realmente no necesitamos una organización especial, crearla sería aún perjudicial y podría convertirse en una secta o un estaño «ismo» alrededor de nuestras propias creencias que siempre están en proceso de cambio. El reino de Dios no puede edificarse alrededor de nuestras creencias personales las que están siempre en un proceso de cambio, ni aún en nuestras interpretaciones de la revelación que hace época. Esta **puede edificarse** y ciertamente **será edificada** alrededor de las revelaciones de época 4ta, 5 ta y las que han de venir. al igual que los Apóstoles, nosotros podemos ser los incipientes maestros de la revelación si así lo deseamos. Para ese propósito es mejor estar organizados. Necesitamos un orden, estructura, liderazgo y red de conexión. Esto no debe ni debería interferir con el compartimiento de nuestra vida espiritual. Al hacer esto podemos experimentar algo adicional: a medida que diseminamos las enseñanzas, podemos tener la experiencia espiritual de trabajar como un equipo espiritual y grupo leal. Hemos leído que: _Una de las lecciones más importantes que debéis aprender durante vuestra carrera mortal consiste en ***trabajar en equipo***._ [[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)].
+Para mí esto parecía como un dilema. Optamos solamente el tratar con nuestra propia vida espiritual o tratamos también con la revelación que es llamada una que hace época? Para compartir nuestra vida espiritual personal realmente no necesitamos una organización especial, crearla sería aún perjudicial y podría convertirse en una secta o un estaño «ismo» alrededor de nuestras propias creencias que siempre están en proceso de cambio. El reino de Dios no puede edificarse alrededor de nuestras creencias personales las que están siempre en un proceso de cambio, ni aún en nuestras interpretaciones de la revelación que hace época. Esta **puede edificarse** y ciertamente **será edificada** alrededor de las revelaciones de época 4ta, 5 ta y las que han de venir. al igual que los Apóstoles, nosotros podemos ser los incipientes maestros de la revelación si así lo deseamos. Para ese propósito es mejor estar organizados. Necesitamos un orden, estructura, liderazgo y red de conexión. Esto no debe ni debería interferir con el compartimiento de nuestra vida espiritual. Al hacer esto podemos experimentar algo adicional: a medida que diseminamos las enseñanzas, podemos tener la experiencia espiritual de trabajar como un equipo espiritual y grupo leal. Hemos leído que: _Una de las lecciones más importantes que debéis aprender durante vuestra carrera mortal consiste en ***trabajar en equipo***._ <a id="a64_1398"></a>[[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)].
 
 Trabajar en equipo en una compañía comercial y trabajar en equipo en un grupo espiritual tienen diferentes características y objetivos. Por consiguiente, el mejor lugar para compartir nuestra vida espiritual es en un grupo espiritual. Para muchos de nosotros esto es el grupo de estudio de _El Libro de Urantia_. Sabemos también de la historia del movimiento Urantia que desde el comienzo de la revelación de Urantia fue dado al grupo (comisión de contacto) y no a un individuo separadamente. Sabemos que estas personas formaron un grupo muchos años antes que comenzara la revelación. La comisión de contacto y el foro tenían una estructura organizada. La Fundación Urantia y la Hermandad Urantia no nacieron de la nada ni de puramente ambiciones humanas. Todos hemos leído que hay muy pocos trabajos para individualistas en el universo. Pero observamos que solamente un número pequeño de nuestros lectores se han unidos a grupos de estudio u organizaciones de lectores. ¿Porqué? Es una falta de dedicación?, así me parece a mí.
 
@@ -52,8 +76,32 @@ Hemos notado que el nivel de madurez espiritual es muy diferente entre nuestos l
 > 
 > _El reino de la fraternidad creyente de los amantes de la verdad que conocen a Dios, esta regla de oro adquiere cualidades vivientes de realización espiritual en aquellos niveles superiores de interpretación que inducen a los hijos mortales de Dios a considerar que este mandato del Maestro les exige que se relacionen con sus semejantes de tal manera, que éstos reciban el mayor bien posible como resultado de su contacto con los creyentes. Ésta es la esencia de la verdadera religión: que améis a vuestro prójimo como a vosotros mismos._
 > 
-> _Pero la comprensión más elevada y la interpretación más verdadera de la regla de oro consiste en la conciencia del espíritu de la verdad de la realidad perdurable y viviente de esta declaración divina. El verdadero significado cósmico de esta regla de las relaciones universales solamente se revela en su comprensión espiritual, en la interpretación que el espiritu del Hijo hace de la ley de la conducta al espiritu del Padre que reside en el alma del hombre mortal. Cuando esos mortales conducidos por el espiritu se dan cuenta del verdadero significado de esta regla de oro, se llenan a rebosar con la certeza de ser ciudadanos de un universo amistoso, y sus ideales de realidad espiritual sólo se satisfacen cuando aman a sus semejantes como Jesús nos amó a todos. Ésta es la realidad de la comprensión del amor de Dios._ [[LU 180:5.6-8](/es/The_Urantia_Book/180#p5_6)]
+> _Pero la comprensión más elevada y la interpretación más verdadera de la regla de oro consiste en la conciencia del espíritu de la verdad de la realidad perdurable y viviente de esta declaración divina. El verdadero significado cósmico de esta regla de las relaciones universales solamente se revela en su comprensión espiritual, en la interpretación que el espiritu del Hijo hace de la ley de la conducta al espiritu del Padre que reside en el alma del hombre mortal. Cuando esos mortales conducidos por el espiritu se dan cuenta del verdadero significado de esta regla de oro, se llenan a rebosar con la certeza de ser ciudadanos de un universo amistoso, y sus ideales de realidad espiritual sólo se satisfacen cuando aman a sus semejantes como Jesús nos amó a todos. Ésta es la realidad de la comprensión del amor de Dios._ <a id="a78_829"></a>[[LU 180:5.6-8](/es/The_Urantia_Book/180#p5_6)]
 
 Esta explicación la he encontrado de gran ayuda para entender la receptividad de nuestros padres en compartir nuestra vida espiritual. Si estamos en el mismo nivel, o muy cerca de ello, esta es una muy natural y efectiva situación para compartir. En otros casos pueden surgir problemas de disensión si no nos apercibimos de la existencia de estos diferentes niveles. De la vida de Jesús podemos encontrar muchos ejemplos de cómo él enseñó en forma diferente a la gente.
 
 Esta pequeña disertación es un corto ensayo de compartir la vida espiritual, pero es posible que yo no esté aún fuertemente enfocado en el «nivel espiritual», concluiré ahora. Por consiguiente, favor de perdonar mi posible ignorancia en este difícil tópico acerca de como compartir nuestra vida espiritual.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Seppo_Kanerva/The_Way_Jesus_Discovered_and_Lived_the_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La forma en que Jesús descubrió y vivió la voluntad del Padre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ruth_Kask/The_Acme_of_Religious_Living">
+          <span class="pr-2">La cumbre del vivir religioso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 William Wentworth<br>© 2021 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Ascher/a_urantian_in_second_life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un Urantien dans sa seconde vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/a_cosmic_vision">
+          <span class="pr-2">Une vision universelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -29,11 +53,11 @@ Ils s’attendent à pouvoir comprendre et générer la vie, et ils considèrent
 
 Les étudiants du Livre d’Urantia verront immédiatement qu’il y a des problèmes avec ce point de vue. En ce qui concerne la vie, le livre affirme sans hésitation que la science ne sera jamais capable de la créer, peu importe à quel point les scientifiques pensent s’en approcher. Comme le dit un Puissant Messager :
 
-> _À la suite de progrès encore plus grands et de nouvelles découvertes, les Urantiens pourront dépasser incommensurablement leurs connaissances présentes, et peut-être maitriser la rotation énergétique des unités électriques de la matière au point d’en modifier les manifestations physiques. Mais, même après tous ces progrès possibles, les savants seront éternellement impuissants à créer un seul atome de matière, ou à produire un éclair d’énergie, ou à jamais adjoindre à la matière ce que nous appelons la vie_. <a id="a54_488"></a>[[LU 42:1.4](/fr/The_Urantia_Book/42#p1_4)]
+> _À la suite de progrès encore plus grands et de nouvelles découvertes, les Urantiens pourront dépasser incommensurablement leurs connaissances présentes, et peut-être maitriser la rotation énergétique des unités électriques de la matière au point d’en modifier les manifestations physiques. Mais, même après tous ces progrès possibles, les savants seront éternellement impuissants à créer un seul atome de matière, ou à produire un éclair d’énergie, ou à jamais adjoindre à la matière ce que nous appelons la vie_. <a id="a55_517"></a>[[LU 42:1.4](/fr/The_Urantia_Book/42#p1_4)]
 
 En ce qui concerne le but et le destin, le livre a beaucoup à dire. Comme le dit un conseiller divin :
 
-> _Même dans l’étude de l’évolution biologique des hommes sur Urantia, il y a de graves objections à aborder leur présent statut et leurs problèmes courants exclusivement par la voie historique. On ne peut saisir la vraie perspective de quelque problème de réalité — humain ou divin, terrestre ou cosmique — que par l’étude et la corrélation complètes et sans préjugés de trois phases de la réalité universelle : l’origine, l’histoire et la destinée._ <a id="a58_393"></a>[[LU 19:1.6](/fr/The_Urantia_Book/19#p1_6)]
+> _Même dans l’étude de l’évolution biologique des hommes sur Urantia, il y a de graves objections à aborder leur présent statut et leurs problèmes courants exclusivement par la voie historique. On ne peut saisir la vraie perspective de quelque problème de réalité — humain ou divin, terrestre ou cosmique — que par l’étude et la corrélation complètes et sans préjugés de trois phases de la réalité universelle : l’origine, l’histoire et la destinée._ <a id="a59_452"></a>[[LU 19:1.6](/fr/The_Urantia_Book/19#p1_6)]
 
 La bonne compréhension de ces trois réalités expérientielles constitue la base d’une estimation judicieuse de l’état actuel.
 
@@ -50,7 +74,7 @@ Le « siècle des lumières » qui s’ensuivit et qui, bien plus tard, devint u
 La science matérielle a connu des succès dans la représentation de la matière/énergie. C’est le domaine où la pensée rationnelle et les mathématiques sont dominantes. La théologie, la superstition ou le sécularisme ne sont pas des façons d’aborder le cosmos matériel. Comme le souligne la Commission des Médians :
 <br style="clear:both;"/>
 
-> _Le laïcisme ne peut jamais apporter la paix à l’humanité. Rien ne peut remplacer Dieu dans la société humaine. Mais prenez bien garde ! Ne vous hâtez pas d’abandonner les bénéfices de la révolte laïque qui vous a dégagés du totalitarisme ecclésiastique. La civilisation occidentale jouit aujourd’hui de beaucoup de libertés et de satisfactions qui proviennent de la révolte laïque. La grande erreur du laïcisme fut la suivante : en se révoltant contre le contrôle à peu près total de la vie par l’autorité religieuse, et après s’être libérés de cette tyrannie ecclésiastique, les laïcistes ont poursuivi leur activité en instituant une révolte contre Dieu lui-même, parfois tacitement, parfois ouvertement_. <a id="a75_627"></a>[[LU 195:8.6](/fr/The_Urantia_Book/195#p8_6)]
+> _Le laïcisme ne peut jamais apporter la paix à l’humanité. Rien ne peut remplacer Dieu dans la société humaine. Mais prenez bien garde ! Ne vous hâtez pas d’abandonner les bénéfices de la révolte laïque qui vous a dégagés du totalitarisme ecclésiastique. La civilisation occidentale jouit aujourd’hui de beaucoup de libertés et de satisfactions qui proviennent de la révolte laïque. La grande erreur du laïcisme fut la suivante : en se révoltant contre le contrôle à peu près total de la vie par l’autorité religieuse, et après s’être libérés de cette tyrannie ecclésiastique, les laïcistes ont poursuivi leur activité en instituant une révolte contre Dieu lui-même, parfois tacitement, parfois ouvertement_. <a id="a76_711"></a>[[LU 195:8.6](/fr/The_Urantia_Book/195#p8_6)]
 
 Cela dit, l’ambition de développer une théorie unifiée pour expliquer le cosmos au moyen de l’étude de ses aspects matériels reste un rêve impossible. Comme l’explique _Le Livre d’Urantia_, la réalité présumée par la science n’est en fait qu’une partie du tout, et même cette partie a son origine dans une réalité supramatérielle. Les révélateurs expliquent que la situation originelle est une situation dans laquelle il n’y a rien d’autre que le pré-Dieu – une infinité qui constitue le potentiel de Dieu. Ils soulignent qu’il n’y a pas de vide, ni d’espace, ni rien d’autre que le JE SUIS, et le JE SUIS se métamorphose en tout ce qui peut être conçu comme réel. 
  
@@ -63,7 +87,7 @@ Le potentiel non déifié du cosmos matériel est activé par une autre métamor
  
 Il existe des aspects de la Déité qui ne sont pas personnels. Ces autres réalités sont les propriétés de ces métamorphoses du JE SUIS qui donnent naissance à la Déité, et comme l’expliquent les révélateurs, la Déité contient une personnalité qui se manifeste en tant que Dieu, le Père Universel. La Déité diffuse l’esprit à travers le Fils Éternel, qui est personnalisé par Dieu, et aussi le mental à travers l’Esprit Infini, également personnalisé par Dieu, permettant ainsi à l’esprit et à la matière d’interagir. Le fait que ces personnalisations de la Déité soient unifiées dans la Trinité ne diminue en rien le contrôle de Dieu. Il pourrait remplir les fonctions de l’esprit et de l’âme s’il le voulait, mais il n’en a pas besoin car les autres personnes de la Déité le font si bien qu’il n’a pas besoin d’intervenir. Comme le souligne un censeur universel :
 
-> _Le Père Universel, le Fils Éternel et l’Esprit Infini sont des personnes uniques ; aucune n’est une copie, chacune est originale, toutes les trois sont unies_. <a id="a87_142"></a>[[LU 10:2.6](/fr/The_Urantia_Book/10#p2_6)]
+> _Le Père Universel, le Fils Éternel et l’Esprit Infini sont des personnes uniques ; aucune n’est une copie, chacune est originale, toutes les trois sont unies_. <a id="a89_163"></a>[[LU 10:2.6](/fr/The_Urantia_Book/10#p2_6)]
 
 Dieu est la personnalité de la Déité, mais il y a encore beaucoup de Déité qui ne sont pas personnelles. Il y a des choses telles que les circuits de présence du Fils Éternel et de l’Esprit Infini, la gravité de l’esprit et du mental, les circuits des Esprits Réfléchis, le mental cosmique des Maîtres Esprits, et sans doute beaucoup plus. Ces phénomènes sont de la Déité, mais pas personnels, et donc pas Dieu le Père.
 
@@ -84,3 +108,28 @@ Il a fallu plusieurs siècles pour que l’inverse se produise, c’est-à-dire 
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2021/?lang=fr)
 - [Cet article](https://urantia-association.org/newsletter/journal-novembre-2021/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Ascher/a_urantian_in_second_life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un Urantien dans sa seconde vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/a_cosmic_vision">
+          <span class="pr-2">Une vision universelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

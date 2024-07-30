@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Paul Snider<br>© 2000 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ralph_Zehr/A_Balanced_Unified_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Balanced Unified Personality — the Foundation for Religious Growth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merindi_Swadling/Urantia_Book_Youth">
+          <span class="pr-2">Urantia Book Youth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > **Urantiapedia Note**: This article was also published in [Fellowship Herald Volume 2, Number 1, 1999 (Winter)](/en/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens)
 {.is-info}
@@ -218,54 +242,79 @@ What would Jesus do?
 
 God bless you my friends, my brothers and sisters of destiny, and keep you in His love forever.
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ralph_Zehr/A_Balanced_Unified_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Balanced Unified Personality — the Foundation for Religious Growth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Merindi_Swadling/Urantia_Book_Youth">
+          <span class="pr-2">Urantia Book Youth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Footnotes
 
 (Unless otherwise indicated, all references are from _The Urantia Book_.)
 
-[^1]: <a id="a256_6"></a>[UB 84:7.22](/en/The_Urantia_Book/84#p7_22)
-[^2]: <a id="a257_6"></a>[UB 6:8.2](/en/The_Urantia_Book/6#p8_2); <a id="a257_47"></a>[UB 84:7.3-4](/en/The_Urantia_Book/84#p7_3)
-[^3]: <a id="a258_6"></a>[UB 194:4.7](/en/The_Urantia_Book/194#p4_7)
-[^4]: <a id="a259_6"></a>[UB 127:5.4](/en/The_Urantia_Book/127#p5_4)
-[^5]: <a id="a260_6"></a>[UB 126:3.5](/en/The_Urantia_Book/126#p3_5)
-[^6]: <a id="a261_6"></a>[UB 68:2.8](/en/The_Urantia_Book/68#p2_8)
-[^7]: <a id="a262_6"></a>[UB 84:8.7](/en/The_Urantia_Book/84#p8_7)
-[^8]: <a id="a263_6"></a>[UB 140:8.14](/en/The_Urantia_Book/140#p8_14)
-[^9]: <a id="a264_6"></a>[UB 82:0.2](/en/The_Urantia_Book/82#p0_2)
-[^10]: <a id="a265_7"></a>[UB 84:7.30](/en/The_Urantia_Book/84#p7_30)
-[^11]: <a id="a266_7"></a>[UB 6:3.5](/en/The_Urantia_Book/6#p3_5)
-[^12]: <a id="a267_7"></a>[UB 84:7.23](/en/The_Urantia_Book/84#p7_23)
-[^13]: <a id="a268_7"></a>[UB 81:6.24](/en/The_Urantia_Book/81#p6_24)
-[^14]: <a id="a269_7"></a>[UB 8:4.4](/en/The_Urantia_Book/8#p4_4)
-[^15]: <a id="a270_7"></a>[UB 54:6.4](/en/The_Urantia_Book/54#p6_4)
+[^1]: <a id="a273_6"></a>[UB 84:7.22](/en/The_Urantia_Book/84#p7_22)
+[^2]: <a id="a274_6"></a>[UB 6:8.2](/en/The_Urantia_Book/6#p8_2); <a id="a274_47"></a>[UB 84:7.3-4](/en/The_Urantia_Book/84#p7_3)
+[^3]: <a id="a275_6"></a>[UB 194:4.7](/en/The_Urantia_Book/194#p4_7)
+[^4]: <a id="a276_6"></a>[UB 127:5.4](/en/The_Urantia_Book/127#p5_4)
+[^5]: <a id="a277_6"></a>[UB 126:3.5](/en/The_Urantia_Book/126#p3_5)
+[^6]: <a id="a278_6"></a>[UB 68:2.8](/en/The_Urantia_Book/68#p2_8)
+[^7]: <a id="a279_6"></a>[UB 84:8.7](/en/The_Urantia_Book/84#p8_7)
+[^8]: <a id="a280_6"></a>[UB 140:8.14](/en/The_Urantia_Book/140#p8_14)
+[^9]: <a id="a281_6"></a>[UB 82:0.2](/en/The_Urantia_Book/82#p0_2)
+[^10]: <a id="a282_7"></a>[UB 84:7.30](/en/The_Urantia_Book/84#p7_30)
+[^11]: <a id="a283_7"></a>[UB 6:3.5](/en/The_Urantia_Book/6#p3_5)
+[^12]: <a id="a284_7"></a>[UB 84:7.23](/en/The_Urantia_Book/84#p7_23)
+[^13]: <a id="a285_7"></a>[UB 81:6.24](/en/The_Urantia_Book/81#p6_24)
+[^14]: <a id="a286_7"></a>[UB 8:4.4](/en/The_Urantia_Book/8#p4_4)
+[^15]: <a id="a287_7"></a>[UB 54:6.4](/en/The_Urantia_Book/54#p6_4)
 [^16]: An old cartoon? — Can’t recall 
 [^17]: Encyclopedia of Religion and Ethics, Vol.11, p. 808 
-[^18]: <a id="a273_7"></a>[UB 101:10.8](/en/The_Urantia_Book/101#p10_8)
-[^19]: <a id="a274_7"></a>[UB 117:2.5](/en/The_Urantia_Book/117#p2_5), <a id="a274_52"></a>[UB 117:3.13](/en/The_Urantia_Book/117#p3_13)
-[^20]: <a id="a275_7"></a>[UB 117:6.3](/en/The_Urantia_Book/117#p6_3)
-[^21]: <a id="a276_7"></a>[UB 115:7.2](/en/The_Urantia_Book/115#p7_2); <a id="a276_52"></a>[UB 117:4.2](/en/The_Urantia_Book/117#p4_2)
-[^22]: <a id="a277_7"></a>[UB 115:7.1](/en/The_Urantia_Book/115#p7_1); <a id="a277_52"></a>[UB 116:0.5](/en/The_Urantia_Book/116#p0_5); <a id="a277_97"></a>[UB 117:2.1](/en/The_Urantia_Book/117#p2_1); <a id="a277_142"></a>[UB 117:4.14](/en/The_Urantia_Book/117#p4_14); <a id="a277_189"></a>[UB 118:2.1](/en/The_Urantia_Book/118#p2_1)
-[^23]: <a id="a278_7"></a>[UB 118:10.3](/en/The_Urantia_Book/118#p10_3)
-[^24]: <a id="a279_7"></a>[UB 117:6.12](/en/The_Urantia_Book/117#p6_12)
-[^25]: <a id="a280_7"></a>[UB 115:0.1](/en/The_Urantia_Book/115#p0_1)
-[^26]: <a id="a281_7"></a>[UB 117:4.10](/en/The_Urantia_Book/117#p4_10)
-[^27]: <a id="a282_7"></a>[UB 115:1.4](/en/The_Urantia_Book/115#p1_4); <a id="a282_52"></a>[UB 117:4.9-10](/en/The_Urantia_Book/117#p4_9); <a id="a282_100"></a>[UB 118:7.5](/en/The_Urantia_Book/118#p7_5)
-[^28]: <a id="a283_7"></a>[UB 116:3.5](/en/The_Urantia_Book/116#p3_5); <a id="a283_52"></a>[UB 117:0.1](/en/The_Urantia_Book/117#p0_1)
-[^29]: <a id="a284_7"></a>[UB 117:0.4](/en/The_Urantia_Book/117#p0_4)
-[^30]: <a id="a285_7"></a>[UB 12:7.10](/en/The_Urantia_Book/12#p7_10)
-[^31]: <a id="a286_7"></a>[UB 141:2.3](/en/The_Urantia_Book/141#p2_3)
-[^32]: <a id="a287_7"></a>[UB 100:4.3](/en/The_Urantia_Book/100#p4_3)
-[^33]: <a id="a288_7"></a>[UB 99:7.2](/en/The_Urantia_Book/99#p7_2)
-[^34]: <a id="a289_7"></a>[UB 196:0.7](/en/The_Urantia_Book/196#p0_7)
-[^35]: <a id="a290_7"></a>[UB 196:0.11](/en/The_Urantia_Book/196#p0_11)
-[^36]: <a id="a291_7"></a>[UB 134:5.9](/en/The_Urantia_Book/134#p5_9)
-[^37]: <a id="a292_7"></a>[UB 100:1.4](/en/The_Urantia_Book/100#p1_4)
-[^38]: <a id="a293_7"></a>[UB 99:3.15](/en/The_Urantia_Book/99#p3_15); <a id="a293_52"></a>[UB 117:1.8](/en/The_Urantia_Book/117#p1_8)
-[^39]: <a id="a294_7"></a>[UB 160:2.9](/en/The_Urantia_Book/160#p2_9)
-[^40]: <a id="a295_7"></a>[UB 176:3.1-2](/en/The_Urantia_Book/176#p3_1)
+[^18]: <a id="a290_7"></a>[UB 101:10.8](/en/The_Urantia_Book/101#p10_8)
+[^19]: <a id="a291_7"></a>[UB 117:2.5](/en/The_Urantia_Book/117#p2_5), <a id="a291_52"></a>[UB 117:3.13](/en/The_Urantia_Book/117#p3_13)
+[^20]: <a id="a292_7"></a>[UB 117:6.3](/en/The_Urantia_Book/117#p6_3)
+[^21]: <a id="a293_7"></a>[UB 115:7.2](/en/The_Urantia_Book/115#p7_2); <a id="a293_52"></a>[UB 117:4.2](/en/The_Urantia_Book/117#p4_2)
+[^22]: <a id="a294_7"></a>[UB 115:7.1](/en/The_Urantia_Book/115#p7_1); <a id="a294_52"></a>[UB 116:0.5](/en/The_Urantia_Book/116#p0_5); <a id="a294_97"></a>[UB 117:2.1](/en/The_Urantia_Book/117#p2_1); <a id="a294_142"></a>[UB 117:4.14](/en/The_Urantia_Book/117#p4_14); <a id="a294_189"></a>[UB 118:2.1](/en/The_Urantia_Book/118#p2_1)
+[^23]: <a id="a295_7"></a>[UB 118:10.3](/en/The_Urantia_Book/118#p10_3)
+[^24]: <a id="a296_7"></a>[UB 117:6.12](/en/The_Urantia_Book/117#p6_12)
+[^25]: <a id="a297_7"></a>[UB 115:0.1](/en/The_Urantia_Book/115#p0_1)
+[^26]: <a id="a298_7"></a>[UB 117:4.10](/en/The_Urantia_Book/117#p4_10)
+[^27]: <a id="a299_7"></a>[UB 115:1.4](/en/The_Urantia_Book/115#p1_4); <a id="a299_52"></a>[UB 117:4.9-10](/en/The_Urantia_Book/117#p4_9); <a id="a299_100"></a>[UB 118:7.5](/en/The_Urantia_Book/118#p7_5)
+[^28]: <a id="a300_7"></a>[UB 116:3.5](/en/The_Urantia_Book/116#p3_5); <a id="a300_52"></a>[UB 117:0.1](/en/The_Urantia_Book/117#p0_1)
+[^29]: <a id="a301_7"></a>[UB 117:0.4](/en/The_Urantia_Book/117#p0_4)
+[^30]: <a id="a302_7"></a>[UB 12:7.10](/en/The_Urantia_Book/12#p7_10)
+[^31]: <a id="a303_7"></a>[UB 141:2.3](/en/The_Urantia_Book/141#p2_3)
+[^32]: <a id="a304_7"></a>[UB 100:4.3](/en/The_Urantia_Book/100#p4_3)
+[^33]: <a id="a305_7"></a>[UB 99:7.2](/en/The_Urantia_Book/99#p7_2)
+[^34]: <a id="a306_7"></a>[UB 196:0.7](/en/The_Urantia_Book/196#p0_7)
+[^35]: <a id="a307_7"></a>[UB 196:0.11](/en/The_Urantia_Book/196#p0_11)
+[^36]: <a id="a308_7"></a>[UB 134:5.9](/en/The_Urantia_Book/134#p5_9)
+[^37]: <a id="a309_7"></a>[UB 100:1.4](/en/The_Urantia_Book/100#p1_4)
+[^38]: <a id="a310_7"></a>[UB 99:3.15](/en/The_Urantia_Book/99#p3_15); <a id="a310_52"></a>[UB 117:1.8](/en/The_Urantia_Book/117#p1_8)
+[^39]: <a id="a311_7"></a>[UB 160:2.9](/en/The_Urantia_Book/160#p2_9)
+[^40]: <a id="a312_7"></a>[UB 176:3.1-2](/en/The_Urantia_Book/176#p3_1)
 [^41]: The Vikings, by Howard La Fay, National Geographic Society, Washington, DC, 1972; and Strange Stories, Amazing Facts, Readers Digest Association, Pleasantville, NY, 1976 
-[^42]: <a id="a297_7"></a>[UB 12:7.2](/en/The_Urantia_Book/12#p7_2)
-[^43]: <a id="a298_7"></a>[UB 39:4.14](/en/The_Urantia_Book/39#p4_14)
-[^44]: <a id="a299_7"></a>[UB 28:5.15](/en/The_Urantia_Book/28#p5_15)
-[^45]: <a id="a300_7"></a>[UB 48:6.26](/en/The_Urantia_Book/48#p6_26)
-[^46]: <a id="a301_7"></a>[UB 39:4.14](/en/The_Urantia_Book/39#p4_14)
+[^42]: <a id="a314_7"></a>[UB 12:7.2](/en/The_Urantia_Book/12#p7_2)
+[^43]: <a id="a315_7"></a>[UB 39:4.14](/en/The_Urantia_Book/39#p4_14)
+[^44]: <a id="a316_7"></a>[UB 28:5.15](/en/The_Urantia_Book/28#p5_15)
+[^45]: <a id="a317_7"></a>[UB 48:6.26](/en/The_Urantia_Book/48#p6_26)
+[^46]: <a id="a318_7"></a>[UB 39:4.14](/en/The_Urantia_Book/39#p4_14)
 [^47]: Max Lerner, New York Post columnist, June 6, 1961

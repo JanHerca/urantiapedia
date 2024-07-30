@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Peep Sõber<br>© 2000 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Neal_Waldrop/Footsteps_on_the_sand">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trazos en la arena</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 18—20 de agosto de 2000, Karepa, Estonia
 
@@ -21,3 +42,25 @@ La primera conferencia fue a cargo de Peep Sõber presentando la traducción al 
 La tercera conferencia «Del tiempo y la eternidad» corrió a cargo de Tiia Reiksaar. En el último día leímos la conferencia de Joel Rehnström, que estuvo con nosotros en espíritu, pero no físicamente. Para la conferencia final nuestro cientifico de la Universidad de Tartu, Vello Reeben, explicó sus teorías acerca del análisis matemático de diferentes ritmos en el universo. De acuerdo a sus conclusiones, los años 1934 y 1935 fueron las culminaciones de largos ritmos en Urantia, se trata de un tiempo muy propicio para el nacimiento de una nueva religión mundial. Por sus explicaciones todas las revelaciones de época comenzaron en el período de tiempo acorde al lapso de un día del Paraiso-Havona.
 
 Durante la conferencia tuvimos meditaciones en la mañana y adoración; se realizaron talleres en cinco grupos. Ésta fue la primera conferencia para la mayoría de nuestros lectores, y estuvieron muy satisfechos e inspirados para centrarse más en estas enseñanzas.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Neal_Waldrop/Footsteps_on_the_sand">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trazos en la arena</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

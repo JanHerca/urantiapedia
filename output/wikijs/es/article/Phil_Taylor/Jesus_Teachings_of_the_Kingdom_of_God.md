@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Philip Taylor<br>© 2000 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ruth_Kask/The_Acme_of_Religious_Living">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La cumbre del vivir religioso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Sharing_God_the_Sublime_Consciousness_of_Knowing_God">
+          <span class="pr-2">Compartiendo a Dios, la sublime consciencia de ir conociendo a Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Philip_Taylor.jpg">
@@ -26,7 +50,7 @@ Cuando hablo de nosotros como líderes es exactamente eso lo que quiero decir. S
 
 Deseo mencionar del libro el párrafo 111:5.4:
 
-> _La paz en la vida, la supervivencia en la muerte, la perfección en la próxima vida, el servicio en la eternidad — todos estos se logran (en el espiritu) ***ahora*** cuando la personalidad de la criatura consiente —elige- someter la voluntad de la criatura a la voluntad del Padre._ [[LU 111:5.4](/es/The_Urantia_Book/111#p5_4)]
+> _La paz en la vida, la supervivencia en la muerte, la perfección en la próxima vida, el servicio en la eternidad — todos estos se logran (en el espiritu) ***ahora*** cuando la personalidad de la criatura consiente —elige- someter la voluntad de la criatura a la voluntad del Padre._ <a id="a52_285"></a>[[LU 111:5.4](/es/The_Urantia_Book/111#p5_4)]
 
 Esto es lo que es requerido de nosotros. No hay que hacer sacrificios ni hacer juramentos. Simple-mente debemos desear su plan de perfección. Si esto es cierto, si en verdad deseamos esta perfección, entonces en cada momento espiritual importante, y en casa episodio de debilidad humana, cuando el amor reside profundamente en nuestro corazón, nos detendremos y diremos: «Padre ¿cuál es tu voluntad?» Si este deseo reside verdaderamente, entonces el Padre estará en el centro de nuestras vidas, y dependeremos de su guía. Esto no es el misterio de Dios. Es algo muy simple. El mayor esfuerzo que puede hacer un hombre o mujer conocedor de Dios es el deseo de todo corazón de la perfección, y la dependencia de la guía divina.
 
@@ -85,7 +109,7 @@ Mientras tanto, durante nuestra interacción con el prójimo, no deberíamos pre
 
 Otra experiencia que compartiré con vosotros ocurrió en San Francisco. Me estaba quedando en un hotel y de nuevo comencé a pasear por las calles de la ciudad, nuevamente buscando un lugar para comer. Ahora bien, me percato que ambos, mi relato anterior y éste giraron en mi deseo de comer y hacer la voluntad del Padre, pero puedo asegurarles que realmente no hubo conexión entre los dos. Esto me lo supongo, a menos que leas _El Libro de Urantia_, en donde nos dicen que el hombre primitivo solamente pensaba cuando tenía hambre. No me di cuenta de esto hasta que escribí estos relatos, pero suena bastante incriminante. Pero tal fue mi experiencia de manera que al caminar por las frescas calles de San Francisco le dije al Padre que deseaba poder ser servicial a él o a Miguel. También le pedí si podía dirigirme a donde necesitaba estar.
 
-Ahora bien, en este punto de mi vida ya había experimentado algunas premiadas experiencias al servir al Padre, y deseando más de ello comencé a ponderarme cómo es que el Padre y nuestros amigos invisibles nos guían hacia donde debemos estar. Pensé cómo fue que Jesús, cuando estuvo en Roma, _personalmente entró en el afecto expansivo con el contacto con más de quinientos mortales de la región_. [[LU 132:4.3](/es/The_Urantia_Book/132#p4_3)]. Esto ocurrió en un período de seis semanas. ¿Cómo es que el estuvo tan efectivo? Eso es casi tres al día. Yo sé que Jesús deseaba ser servicial y que siempre buscaba la voluntad del Padre, y debido a esto, los ángeles deben haber guiado a mucha gente hacia él, o él hacia otros.
+Ahora bien, en este punto de mi vida ya había experimentado algunas premiadas experiencias al servir al Padre, y deseando más de ello comencé a ponderarme cómo es que el Padre y nuestros amigos invisibles nos guían hacia donde debemos estar. Pensé cómo fue que Jesús, cuando estuvo en Roma, _personalmente entró en el afecto expansivo con el contacto con más de quinientos mortales de la región_. <a id="a111_397"></a>[[LU 132:4.3](/es/The_Urantia_Book/132#p4_3)]. Esto ocurrió en un período de seis semanas. ¿Cómo es que el estuvo tan efectivo? Eso es casi tres al día. Yo sé que Jesús deseaba ser servicial y que siempre buscaba la voluntad del Padre, y debido a esto, los ángeles deben haber guiado a mucha gente hacia él, o él hacia otros.
 
 Pero cómo sé que puedo ser útil a los numerosos individuos en mi presencia, pensé yo. Tiene que haber alguna forma amorosa, bondadosa y con tacto para acercarse a la gente. La contesta, pensé, que Miguel me proveerá con una «puerta». O sea una «puerta» para la conversación. Quizás sea el que haga algún acto de bondad para la persona, quizás una sonrisa o pudiera ser sólo una pregunta.
 
@@ -109,7 +133,7 @@ Al desear ser servicial a otros, he notado que el Padre se ha convertido en el c
 
 Tales intercambios de experiencias son los medios por los cuales esta hermandad crecerá en su relación con el Padre. Pero debemos ser desconfiados y percibidos del cinismo que todavía persiste en este mundo acerca del discernir los pensamientos de Dios en nuestra mente, un proceso que es enteramente normal. Esta hermandad dividida y así dirigida, requiere una cultura abierta de compartir y un libre intercambio de experiencias de manera que todos podamos crecer. La total revelación de hacer la voluntad del Padre no es revelada en _El Libro de Urantia_. Más bien se requiere que los hijos de Dios revelen la naturaleza del entendimiento de su voluntad del uno al otro.
 
-¿No es esto un acto del Supremo donde los hijos del tiempo tienen la experiencia divina de revelar la naturaleza divina de Dios así compartiéndole el uno con el otro? ¿No debemos nosotros derivar mucho placer en exhibir los aspectos de la personalidad del Padre en nuestra vida al ayudar a otros encontrar la verdad, la belleza y la bondad en nuestra vida? Tal, creo, es la voluntad del Padre. No solamente obtenemos el beneficio de oír otras experiencias, pero podemos tener la seguridad de que a través de compartir, nuestra vida espiritual se mantendrá en la línea y libre de toda tendencia _extravagante, errática y excéntrica,_ [[LU 100:7.3](/es/The_Urantia_Book/100#p7_3)] que frecuentemente pueden resultar de un aislamiento espiritual. Estos intercambios proveen el verdadero vehiculo por el cual todos podamos desarrollar una personalidad fuerte y unificada de acuerdo con la manera perfeccionada de la personalidad de Jesús. [[LU 100:7.1](/es/The_Urantia_Book/100#p7_1)].
+¿No es esto un acto del Supremo donde los hijos del tiempo tienen la experiencia divina de revelar la naturaleza divina de Dios así compartiéndole el uno con el otro? ¿No debemos nosotros derivar mucho placer en exhibir los aspectos de la personalidad del Padre en nuestra vida al ayudar a otros encontrar la verdad, la belleza y la bondad en nuestra vida? Tal, creo, es la voluntad del Padre. No solamente obtenemos el beneficio de oír otras experiencias, pero podemos tener la seguridad de que a través de compartir, nuestra vida espiritual se mantendrá en la línea y libre de toda tendencia _extravagante, errática y excéntrica,_ <a id="a135_633"></a>[[LU 100:7.3](/es/The_Urantia_Book/100#p7_3)] que frecuentemente pueden resultar de un aislamiento espiritual. Estos intercambios proveen el verdadero vehiculo por el cual todos podamos desarrollar una personalidad fuerte y unificada de acuerdo con la manera perfeccionada de la personalidad de Jesús. <a id="a135_935"></a>[[LU 100:7.1](/es/The_Urantia_Book/100#p7_1)].
 
 Recuerdo haber compartido algunas de mis experiencias con un lector, y después se me avisó que había un gran peligro en discernir los pensamientos del Padre en mi mente. Creo que él tenía razón, necesitamos tener cuidado. Hay un peligro de elevar nuestros pensamientos al nivel de la divinidad donde podemos errar en creer que todos nuestros pensamientos son pensamientos de Dios. Pero no podemos ser intimidados por esto, debemos proceder con precaución y cuidadosamente discernir los pensamientos en nuestra mente. Pero ignorar esta guía que se me está ofreciendo me privaría de estas experiencias, y en efecto negaría la voluntad del Padre.
 
@@ -118,3 +142,27 @@ Cuando observo este planeta y esta organización, me pregunto, ¿no hay un mayor
 Sé que esto es algo valioso. ¿Cómo lo sé? Por los frutos del espíritu. Por estas experiencias, y unas cuantas más, he actualmente cooperado en la creación de algo verdadero, hermoso y bueno, y aún más, participé en una gran revelación de amor. Actualmente pasé por una experiencia por la cual nuestro Creador pasa constantemente — se me dio el regalo de ser dotado para crear, una experiencia que creo ha contribuido al Supremo.
 
 Mientras que existe razón para estar alerta contra los peligros, creo esto puede ser compensado mediante la creación de una cultura espiritual de mentes normales, con los pies sobre la tierra, accesibles, compartidores, amorosos y creyentes guiados del espíritu. La hermandad debía ser responsable en realizarlo. He mencionado esto anteriormente, pero lo diré de nuevo: Lo que el mundo necesita ahora es ver a Jesús en la tierra, viviendo en la vida de los hombres y mujeres mortales, quienes han decidido buscar la voluntad del Padre.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ruth_Kask/The_Acme_of_Religious_Living">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La cumbre del vivir religioso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Sharing_God_the_Sublime_Consciousness_of_Knowing_God">
+          <span class="pr-2">Compartiendo a Dios, la sublime consciencia de ir conociendo a Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

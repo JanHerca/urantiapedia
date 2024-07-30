@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Suzanne Kelly<br>© 2016 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2016_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Février 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-février-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Février 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marc_Belleau/god_the_great_supervisor">
+          <span class="pr-2">Dieu, le grand responsable</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left" alt="Suzanne-editorial">
@@ -19,7 +43,7 @@ Salutations amis lecteurs du _Journal_
 
 Dans cette première édition du _Journal_ de 2016 nous avons quatre essais et défis intellectuels et spirituels  pour l’édification de votre mental, de votre corps et de votre esprit. Notre essai d’ouverture **Dieu le Grand responsable**  est dû à Marc Belleau du Canada. Marc s’en prend à la croyance tenue dans le monde entier selon laquelle Dieu est responsable de tout ce que l’homme endure et habilement mais gentiment il nous montre qu’il en va autrement. _Puisque nous sommes pleinement habileté à nous empêtrer nous-mêmes dans des situations étriquées sans aucune aide extérieure. A-t-on vraiment besoin que Dieu nous envoie des défis supplémentaires en plus de toutes les erreurs que nous commentons déjà ?_ Marc jette un autre regard sur aux accidents du temps et aux conséquences de nos actions en scrutant la colère et les actions dépourvues d’amour d’un Dieu punisseur par opposition à un Dieu Père qui aime vraiment. Il conclut sagement, _Notre imperfection, notre immaturité sont amplement suffisantes pour fournir toutes les situations difficiles que nous rencontrons au cours de notre existence. Cependant, nous pouvons apprendre à utiliser nos erreurs comme de multiples tremplins vers des niveaux de sagesse plus élevés._
 
-Notre deuxième contributeur  est la très excellente traductrice espagnole du _Journal_, Olga Lopez nous ramène à l’école et nous enseigne une précieuse leçon quant à notre mission en tant que lecteurs et en tant que croyants dans le _Livre d’Urantia_ dans ses  **Réflexions pour les éducateurs et les croyants dans la cinquième révélation d’époque.** Commençant par les enseignements de Jésus, Olga les reformule en langage  moderne pour qu’ils soient plus facile à faire passer à ceux cherchent mais n’ont pas trouvé le _Livre d’Urantia_. Elle reformule les choses suivantes: _Respectez toujours la personnalité de l’homme. Une cause juste ne doit jamais être promue par la force ; les victoires spirituelles se gagnent uniquement par le pouvoir spirituel_ <a id="a44_639"></a>[[LU 159:3.2](/fr/The_Urantia_Book/159#p3_2)] Ce qui devient, en langage moderne : _Peu importe combien nous estimions très supérieurs les enseignements du livre_ _par rapport_ _à toute autre doctrine, religion ou pensée, nous ne devrions jamais les imposer à quiconque car, ce faisant, nous ne respectons pas sa personnalité, son chemin et son libre arbitre._ Parmi toutes les reformulations de valeur qu’elle partage avec nous, je pense que celle qui se tient au sommet de toutes est : _Le service n’est pas lié à l’abnégation ni au sacrifice, mais à faire du bien aux autres avec un sourire sincère sur le visage._
+Notre deuxième contributeur  est la très excellente traductrice espagnole du _Journal_, Olga Lopez nous ramène à l’école et nous enseigne une précieuse leçon quant à notre mission en tant que lecteurs et en tant que croyants dans le _Livre d’Urantia_ dans ses  **Réflexions pour les éducateurs et les croyants dans la cinquième révélation d’époque.** Commençant par les enseignements de Jésus, Olga les reformule en langage  moderne pour qu’ils soient plus facile à faire passer à ceux cherchent mais n’ont pas trouvé le _Livre d’Urantia_. Elle reformule les choses suivantes: _Respectez toujours la personnalité de l’homme. Une cause juste ne doit jamais être promue par la force ; les victoires spirituelles se gagnent uniquement par le pouvoir spirituel_ <a id="a45_758"></a>[[LU 159:3.2](/fr/The_Urantia_Book/159#p3_2)] Ce qui devient, en langage moderne : _Peu importe combien nous estimions très supérieurs les enseignements du livre_ _par rapport_ _à toute autre doctrine, religion ou pensée, nous ne devrions jamais les imposer à quiconque car, ce faisant, nous ne respectons pas sa personnalité, son chemin et son libre arbitre._ Parmi toutes les reformulations de valeur qu’elle partage avec nous, je pense que celle qui se tient au sommet de toutes est : _Le service n’est pas lié à l’abnégation ni au sacrifice, mais à faire du bien aux autres avec un sourire sincère sur le visage._
 
 Notre troisième contributrice est une lectrice de longue date, Carolyn Kendall, à qui son père a présenté le _Livre d’Urantia_ en 1951. Depuis lors, elle étudie le livre. Son essai sur **La Réhabilitation d’Urantia** inclut la compréhension passée et future.  _Notre révélation est une entreprise unique et complète comparée aux effusions révélatoires des « planètes normales ». La forme inhabituelle de cette révélation, un livre, correspond bien à notre statut de cobaye  sur un monde expérimental._  Depuis les Plans de perfection divine jusqu’aux effusions de Melchizédek et à la supervision planétaire séraphique, elle nous éduque sur ce qu’entraîne la mise en quarantaine d’une planète jusqu’à sa place brillante dans la lumière et dans la vie et nous montre que nous sommes partie intégrante de ce succès.
 
@@ -46,3 +70,28 @@ Note: Tous les documents soumis doivent suivre les lignes directrices des citati
 - [Ce numéro](https://urantia-association.org/newsletter/journal-fevrier-2016/?lang=fr)
 - [Cet article](https://urantia-association.org/editorial-fevrier-2016/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2016_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Février 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-février-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Février 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marc_Belleau/god_the_great_supervisor">
+          <span class="pr-2">Dieu, le grand responsable</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

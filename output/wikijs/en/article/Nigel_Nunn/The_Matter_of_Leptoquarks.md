@@ -87,7 +87,7 @@ Theory and experiment walk us inward from the mundane to the abyss of the Plank 
 
 _The URANTIA Book_, in addition to its more important role, can ignite the curiosity and wonder of its readers. In many fields, it can extend our insight. In others, such as transcendental causation, it merely mentions that certain phenomena exist. On this matter of Matter, it casts some light. But as stated in Paper 19:
 
-> _... The human mind would ordinarily crave to approach the cosmic philosophy portrayed in these revelations by proceeding from the simple and the finite to the complex and the infinite, from human origins to divine destinies. But that path does not lead to ***spiritual wisdom***. Such a procedure is the easiest path to a certain form of ***genetic knowledge***, but at best it can only reveal man's origin; it reveals little or nothing about his divine destiny._ [UB 19:1.5](/en/The_Urantia_Book/19#p1_5)
+> _... The human mind would ordinarily crave to approach the cosmic philosophy portrayed in these revelations by proceeding from the simple and the finite to the complex and the infinite, from human origins to divine destinies. But that path does not lead to ***spiritual wisdom***. Such a procedure is the easiest path to a certain form of ***genetic knowledge***, but at best it can only reveal man's origin; it reveals little or nothing about his divine destiny._ <a id="a89_467"></a>[UB 19:1.5](/en/The_Urantia_Book/19#p1_5)
 
 As suggested above, even though the relationship between ultimatons and leptoquarks may be fascinating, and its understanding of great value to researches, and through scientific curiosity creates a terrible hunger, details really must come second. 
 
@@ -103,31 +103,31 @@ Such a scheme required a **sequence**, which required a **finite**, which requir
 
 This scheme makes necessary the superuniverse space level: a nest to contain and protect unformed finaliters (humans) whilst they gather an initial degree of realness; acquire the constance to begin sustaining themselves amidst the _circular simultaneity_ of the larger world. Consider the following remarks:
 
-> _The concept of the ***existential***, solitary, pre-Trinity nonattainable I AM and the postulate of the ***experiential*** post-Trinity of Trinities and attainable I AM are one and the same hypothesis; no actual change has taken place in the Infinite; all apparent developments are due to increased capacities for reality reception and cosmic appreciation._ [UB 106:9.9](/en/The_Urantia_Book/106#p9_9)
+> _The concept of the ***existential***, solitary, pre-Trinity nonattainable I AM and the postulate of the ***experiential*** post-Trinity of Trinities and attainable I AM are one and the same hypothesis; no actual change has taken place in the Infinite; all apparent developments are due to increased capacities for reality reception and cosmic appreciation._ <a id="a105_361"></a>[UB 106:9.9](/en/The_Urantia_Book/106#p9_9)
 
-> _And all of these manifold realities are unified ***absolutely*** by the several triunities, ***functionally*** by the Architects of the Master Universe, and ***relatively*** by the Seven Master Spirits, the subsupreme coordinators of the divinity of God the Sevenfold._ [UB 105:7.16](/en/The_Urantia_Book/105#p7_16)
+> _And all of these manifold realities are unified ***absolutely*** by the several triunities, ***functionally*** by the Architects of the Master Universe, and ***relatively*** by the Seven Master Spirits, the subsupreme coordinators of the divinity of God the Sevenfold._ <a id="a107_273"></a>[UB 105:7.16](/en/The_Urantia_Book/105#p7_16)
 
-> _Even space itself is but an ultimate condition, a condition of qualification ***within*** the relative absoluteness of the quiet zones of midspace._ [UB 106:7.7](/en/The_Urantia_Book/106#p7_7)
+> _Even space itself is but an ultimate condition, a condition of qualification ***within*** the relative absoluteness of the quiet zones of midspace._ <a id="a109_152"></a>[UB 106:7.7](/en/The_Urantia_Book/106#p7_7)
 
-> _Space comes the nearest of all nonabsolute things to being absolute. Space is apparently absolutely ultimate. The real difficulty we have in understanding space on the material level is due to the fact that, while material bodies exist in space, space also exists in these same material bodies. While there is much about space that is absolute, that does not mean that space is absolute._ [UB 118:3.5](/en/The_Urantia_Book/118#p3_5)
+> _Space comes the nearest of all nonabsolute things to being absolute. Space is apparently absolutely ultimate. The real difficulty we have in understanding space on the material level is due to the fact that, while material bodies exist in space, space also exists in these same material bodies. While there is much about space that is absolute, that does not mean that space is absolute._ <a id="a111_392"></a>[UB 118:3.5](/en/The_Urantia_Book/118#p3_5)
 
 The seven superuniverses of the grand universe are clearly unusual intrusions within the absonite domains. What qualifications and restrictions, what amazing foldings and projections, had to be made upon the grand universe space level to allow a thing so “absolutely ultimate” as space to accommodate seven nests of spacetime? What tricks of geometry and mirrors, what _dimensional sleight-of-hand_ allows humans to perceive and move through the sequence we call time?
 
 Consider the words of Jesus to the Mithraic priest in Paper 130:
 
-> _Time is a name given to the succession-arrangement whereby events are recognized and segregated._ [UB 130:7.4](/en/The_Urantia_Book/130#p7_4)
+> _Time is a name given to the succession-arrangement whereby events are recognized and segregated._ <a id="a117_101"></a>[UB 130:7.4](/en/The_Urantia_Book/130#p7_4)
 
-> _That which formerly appeared as a succession of events then will be viewed as a whole and perfectly related cycle; in this way will circular simultaneity increasingly displace the onetime consciousness of the linear sequence of events._ [UB 130:7.5](/en/The_Urantia_Book/130#p7_5)
+> _That which formerly appeared as a succession of events then will be viewed as a whole and perfectly related cycle; in this way will circular simultaneity increasingly displace the onetime consciousness of the linear sequence of events._ <a id="a119_240"></a>[UB 130:7.5](/en/The_Urantia_Book/130#p7_5)
 
-> _There are seven different conceptions of space as it is conditioned by time. Space is measured by time, not time by space..._ [UB 130:7.6](/en/The_Urantia_Book/130#p7_6)
+> _There are seven different conceptions of space as it is conditioned by time. Space is measured by time, not time by space..._ <a id="a121_129"></a>[UB 130:7.6](/en/The_Urantia_Book/130#p7_6)
 
-> _The nearer consciousness approaches the awareness of seven cosmic dimensions..._ [UB 130:7.6](/en/The_Urantia_Book/130#p7_6)
+> _The nearer consciousness approaches the awareness of seven cosmic dimensions..._ <a id="a123_84"></a>[UB 130:7.6](/en/The_Urantia_Book/130#p7_6)
 
-> _Ultimately, surviving mortals achieve identity in a seven-dimensional universe._ [UB 130:7.7](/en/The_Urantia_Book/130#p7_7)
+> _Ultimately, surviving mortals achieve identity in a seven-dimensional universe._ <a id="a125_84"></a>[UB 130:7.7](/en/The_Urantia_Book/130#p7_7)
 
-> _When man attains the mind intervening between the material and the spiritual planes of existence, his ideas of time-space will be enormously expanded both as to quality of perception and quantity of experience._ [UB 130:7.8](/en/The_Urantia_Book/130#p7_8)
+> _When man attains the mind intervening between the material and the spiritual planes of existence, his ideas of time-space will be enormously expanded both as to quality of perception and quantity of experience._ <a id="a127_215"></a>[UB 130:7.8](/en/The_Urantia_Book/130#p7_8)
 
-> _And as personality passes on, upward and inward, to the transcendental levels of Deity-likeness, the time-space concept will increasingly approximate the timeless and spaceless concepts of the Absolutes._ [UB 130:7.8](/en/The_Urantia_Book/130#p7_8)
+> _And as personality passes on, upward and inward, to the transcendental levels of Deity-likeness, the time-space concept will increasingly approximate the timeless and spaceless concepts of the Absolutes._ <a id="a129_208"></a>[UB 130:7.8](/en/The_Urantia_Book/130#p7_8)
 
 So, the Primary Eventuated Master Force Organizers condition a zone of the absolute to accommodate the absonite (master universe).
 
@@ -137,11 +137,11 @@ After which each of the seven Supreme Power Directors conditioned a zone of the 
 
 ## Differential Toning of Each Superuniverse
 
-> _These mighty beings [Supreme Power Directors] are the physical ancestors of the vast host of the power centers and, through them, of the physical controllers scattered throughout the seven superuniverses. Such subordinate physical-control organisms are basically uniform, identical except for the differential toning of each superuniverse corps. In order to change in superuniverse service, they would merely have to return to Paradise for re= toning._ [UB 29:1.4](/en/The_Urantia_Book/29#p1_4)
+> _These mighty beings [Supreme Power Directors] are the physical ancestors of the vast host of the power centers and, through them, of the physical controllers scattered throughout the seven superuniverses. Such subordinate physical-control organisms are basically uniform, identical except for the differential toning of each superuniverse corps. In order to change in superuniverse service, they would merely have to return to Paradise for re= toning._ <a id="a139_456"></a>[UB 29:1.4](/en/The_Urantia_Book/29#p1_4)
 
 Can we speculate that the **toning** of each superuniverse is related to that subset of absonite dimensions upon which its finite economy stands? Along which of its absonite axes ITS TIME WILL RUN?
 
-> _...Solitary Messengers are the only available type of spirit intelligence-aside, possibly, from the Inspired Trinity Spirits-that can be dispatched from the headquarters of one superuniverse directly to the headquarters of another. All other personalities must make such excursions by way of Havona and the executive worlds of the Master Spirits._ [UB 23:2.15](/en/The_Urantia_Book/23#p2_15)
+> _...Solitary Messengers are the only available type of spirit intelligence-aside, possibly, from the Inspired Trinity Spirits-that can be dispatched from the headquarters of one superuniverse directly to the headquarters of another. All other personalities must make such excursions by way of Havona and the executive worlds of the Master Spirits._ <a id="a143_351"></a>[UB 23:2.15](/en/The_Urantia_Book/23#p2_15)
 
 Does this imply that only certain personality/mind configurations can comfortably pass directly between superuniverses? Why do all others need to enter a superuniverse via the projection-rooms of the Master Spirits and their Supreme Power Directors?
 

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Gard Jameson<br>© 2000 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/Spreading_a_changing_message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Disséminer un message changeant</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-décembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Décembre 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Footsteps_on_the_sand">
+          <span class="pr-2">Des pas sur le sable</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Gard Jameson
 
@@ -21,7 +45,7 @@ Je voudrais partager deux aperçus intuitifs qui sont devenus le centre de mon v
 1. L'impulsion qui nous amène à adorer Dieu vient d'une reconnaissance profonde et authentique de bénédiction, du besoin de rendre grâce pour les nombreuses et incroyables bénédictions qui nous accompagnent en tant qu'individus, en tant que communauté et en tant que planète.
 2. L'impulsion à servir nos frères et soeurs nous vient d'une profonde reconnaissance de notre propre blessure, de notre propre «brisure » En tant qu'individus, en tant que communauté et en tant que planète.
 
-Quand nous voudrons bien reconnaitre ces bénédictions et exprimer notre gratitude, notre coeur et notre mental s'ouvriront, ils seront renouvelés et transformés par le merveilleux amour de Dieu. Dans une déclaration parmi les plus étonnantes du livre, Jésus dit que l'adoration rend l'adorateur de plus en plus semblable à l'être qu'il adore ([LU 146:2.17](/fr/The_Urantia_Book/146#p2_17)).
+Quand nous voudrons bien reconnaitre ces bénédictions et exprimer notre gratitude, notre coeur et notre mental s'ouvriront, ils seront renouvelés et transformés par le merveilleux amour de Dieu. Dans une déclaration parmi les plus étonnantes du livre, Jésus dit que l'adoration rend l'adorateur de plus en plus semblable à l'être qu'il adore (<a id="a47_343"></a>[LU 146:2.17](/fr/The_Urantia_Book/146#p2_17)).
 
 Quand nous voudrons bien voir et reconnaitre que nous sommes brisés et blessés, reconnaitre notre blessure en tant que communauté et la blessure de la planète, alors nous pourrons vraiment devenir des serviteurs du royaume et entrer dans la joie éternelle de notre Maitre. La clairvoyance qui nous vient de la prise de conscience en profondeur de la peine et de la souffrance du monde est une puissante source d'inspiration au service.
 
@@ -126,10 +150,34 @@ Ce qu'il faut c'est un rendez-vous divin. Nous devrions permettre à notre foi d
 
 Croyez-vous réellement ce que vous lisez dans _Le Livre d'Urantia_? Alors, commencez à le vivre pleinement en faisant de votre rendez-vous divin avec Dieu, chaque jour de votre vie, un rendez-vous qui commencera à informer et à hausser chaque moment de votre vie, de la vie de la communauté et de la planète même sur laquelle nous marchons.
 
-La volonté divine est que chacun d'entre vous devienne parfait comme votre Père qui est aux cieux est parfait. Avec le discernement que nous donne le livre je comprends que ce mandat signifie que nous devrions commencer par nous aimer les uns les autres comme Dieu nous aime. Pour ce faire, il faut que nous nous laissions aimer par Dieu. Le voyage de l'amour en perfectionnement est un voyage circulaire, il ne suit pas une droite. Ce voyage circulaire exige de chacune de nos relations une «circumambulation», qui va vers l'intérieur, de plus en plus profondément, en commençant par notre relation avec Dieu. Je voudrais de nouveau partager avec vous cette déclaration de Jésus selon laquelle _l'adoration rend l'adorateur de plus en plus semblable à l'être qu'il adore_ [[LU 146:2.17](/fr/The_Urantia_Book/146#p2_17)]. Aimez comme Dieu nous aime, comme le Maitre nous lave les pieds et nous sert, même maintenant.
+La volonté divine est que chacun d'entre vous devienne parfait comme votre Père qui est aux cieux est parfait. Avec le discernement que nous donne le livre je comprends que ce mandat signifie que nous devrions commencer par nous aimer les uns les autres comme Dieu nous aime. Pour ce faire, il faut que nous nous laissions aimer par Dieu. Le voyage de l'amour en perfectionnement est un voyage circulaire, il ne suit pas une droite. Ce voyage circulaire exige de chacune de nos relations une «circumambulation», qui va vers l'intérieur, de plus en plus profondément, en commençant par notre relation avec Dieu. Je voudrais de nouveau partager avec vous cette déclaration de Jésus selon laquelle _l'adoration rend l'adorateur de plus en plus semblable à l'être qu'il adore_ <a id="a152_773"></a>[[LU 146:2.17](/fr/The_Urantia_Book/146#p2_17)]. Aimez comme Dieu nous aime, comme le Maitre nous lave les pieds et nous sert, même maintenant.
 
 Chaque jour, nous devrions prendre le temps, prendre un rendez-vous divin, un peu plus que les 20 secondes avant les repas. Essayez une vingtaine de minutes le matin, et si vous voulez bien vous installer dans la relation, essayez encore une vingtaine de minutes le soir. Et, parfois, vous voudrez même essayer une retraite spirituelle, ou ce que j'appelle des vacances avec Dieu, un repos dans les bras toujours aimants de Dieu. Si je vous disais que le Dalaï Lama, ou le Pape, vous demandait 20 minutes de votre temps demain, je pense que la plupart d'entre vous pourraient trouver ce temps.
 
 Alors, si je vous disais que votre Créateur, le Dieu des galaxies infinies du temps et de l'espace, le Dieu existentiel de l'éternité, veut passer un moment avec vous, ce qu'il désire vraiment, pensez-vous pouvoir trouver un peu de temps dans votre agenda pour le Créateur ? Pensez-vous pouvoir inscrire un rendez-vous divin avec Dieu ? Et si je vous disais qu'en prenant du temps pour Dieu, vous allez recevoir la plus grande des bénédictions, son amour parfait, un amour qui disperse à jamais le sentiment d'isolement et d'aliénation, un amour qui change la distraction et la dépression en concentration divine et en joie! Comme nous le dit Paul, cet amour, un amour parfait, chasse toute la crainte et toute l'anxiété qui continue à investir notre petite communauté. Et si je vous disais qu'en prenant un peu de temps pour Dieu vous allez devenir la personne que vous avez toujours voulu être? Pensez-vous que vous pourriez trouver 20 minutes demain matin et tous les matins suivants pour Dieu?
 
 Puisse le Dieu des Galaxies Infinies et de l'Amour Parfait bénir votre voyage !
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/Spreading_a_changing_message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Disséminer un message changeant</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-décembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Décembre 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Footsteps_on_the_sand">
+          <span class="pr-2">Des pas sur le sable</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

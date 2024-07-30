@@ -9,13 +9,37 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Jeffrey Wattles<br>© 2000 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/You_say_The_fifth_epochal_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vous dites: «La Cinquième Révélation D’Époque ?»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-décembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Décembre 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gard_Jameson/The_Importance_of_Worship_and_Prayer">
+          <span class="pr-2">L'importance de l'adoration et de la prière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jeffrey Wattles
 Stowe, Ohio, USA
 
 Le fascicule 195 donne des indications claires pour la réorganisation du monde. Tout d'abord, de nouveaux enseignants de la religion de Jésus exclusivement consacrés à la régénération spirituelle de l'humanité sont indispensables, qui en déclenchant une renaissance spirituelle feront apparaître des chefs pour une restructuration sociale, économique et politique. C'est pourquoi, tout en profitant des opportunités en partageant des idées sur toutes sortes de sujets avec des individus sélectionnés qui sont prêts à les utiliser, pour nous la priorité des priorités sera de transmettre un message spirituel.
 
-Quel message devons-nous apporter ? La réponse n'est pas aussi évidente qu'il y paraît, parce que le message s'adapte aux besoins du moment. On nous dit que pour chaque génération l'Esprit de Vérité formule à nouveau le message de Jésus pour résoudre efficacement nos _difficultés spirituelles variées et sans cesse renouvelées_ [[LU 194:2.1](/fr/The_Urantia_Book/194#p2_1)]. Quelles sont ces difficultés, et comment l'Esprit de Vérité formule à nouveau le message aujourd'hui? Je n'ai que le début d'une réponse, mais je crois que nous pouvons beaucoup apprendre à propos des besoins actuels par le livre lui-même.
+Quel message devons-nous apporter ? La réponse n'est pas aussi évidente qu'il y paraît, parce que le message s'adapte aux besoins du moment. On nous dit que pour chaque génération l'Esprit de Vérité formule à nouveau le message de Jésus pour résoudre efficacement nos _difficultés spirituelles variées et sans cesse renouvelées_ <a id="a41_329"></a>[[LU 194:2.1](/fr/The_Urantia_Book/194#p2_1)]. Quelles sont ces difficultés, et comment l'Esprit de Vérité formule à nouveau le message aujourd'hui? Je n'ai que le début d'une réponse, mais je crois que nous pouvons beaucoup apprendre à propos des besoins actuels par le livre lui-même.
 
 Il est facile de dresser une liste des problèmes qui se dressent aujourd'hui devant les gens. Cela demande du travail pour discerner les difficultés spirituelles implicites de ces problèmes et de penser aux voies conduisant à ces difficultés spirituelles en relation avec les enseignements de Jésus.
 
@@ -35,9 +59,9 @@ Notez que vous ne pouvez pas faire une estimation de votre exactitude à discern
 
 ## Trouver des difficultés spirituelles dans d'autres problèmes
 
-Il y a des difficultés spirituelles dans les problèmes sociaux, économiques et politiques. Dans le chapitre intitulé «l'Age Postérieur à l'Effusion sur Urantia», on nous dit que la réalisation de la fraternité sociale dépend des transformations personnelles variées ainsi que des ajustements planétaires en fraternité sociale, en fécondation croisée de la pensée, en réveil éthique, en sagesse politique et en clairvoyance spirituelle ([LU 52:6.1-8](/fr/The_Urantia_Book/52#p6_1)). En particulier, la fraternité sociale est handicapée par l'ignorance, le manque d'interaction et l'impatience. Le message de Jésus s'adresse-t-il implicitement à ces problèmes ? Bien sûr qu'il le fait. Quand vous constatez en vous et chez les autres, l'ignorance, le manque d'interaction et l'impatience, vous pouvez prier pour coopérer avec et quand l'Esprit de Vérité pourvoit aux besoins de ces problèmes, incitant l'action sociale et une vision claire du futur du royaume des cieux.
+Il y a des difficultés spirituelles dans les problèmes sociaux, économiques et politiques. Dans le chapitre intitulé «l'Age Postérieur à l'Effusion sur Urantia», on nous dit que la réalisation de la fraternité sociale dépend des transformations personnelles variées ainsi que des ajustements planétaires en fraternité sociale, en fécondation croisée de la pensée, en réveil éthique, en sagesse politique et en clairvoyance spirituelle (<a id="a61_436"></a>[LU 52:6.1-8](/fr/The_Urantia_Book/52#p6_1)). En particulier, la fraternité sociale est handicapée par l'ignorance, le manque d'interaction et l'impatience. Le message de Jésus s'adresse-t-il implicitement à ces problèmes ? Bien sûr qu'il le fait. Quand vous constatez en vous et chez les autres, l'ignorance, le manque d'interaction et l'impatience, vous pouvez prier pour coopérer avec et quand l'Esprit de Vérité pourvoit aux besoins de ces problèmes, incitant l'action sociale et une vision claire du futur du royaume des cieux.
 
-Un autre problème social, économique et politique est celui que pose _ceux qui ne disposent pas de capitaux et s'attendent toujours à être nourris par ceux qui en disposent_ [[LU 52:6.1](/fr/The_Urantia_Book/52#p6_1)]. Notez qu'il y a ici une difficulté spirituelle implicite. Jésus rencontrait des gens ayant une foi radieuse fortifiant leur âme, leur permettant de résoudre leurs problèmes. Dans les générations passées, la vigueur de la vie et des enseignements de Jésus étaient beaucoup mieux perçues qu'aujourd'hui. Notre voie est toute tracée. Une des difficultés que nous rencontrons aujourd'hui est que les gens manquent d'enseignants religieux ayant une foi religieuse communicative.
+Un autre problème social, économique et politique est celui que pose _ceux qui ne disposent pas de capitaux et s'attendent toujours à être nourris par ceux qui en disposent_ <a id="a63_174"></a>[[LU 52:6.1](/fr/The_Urantia_Book/52#p6_1)]. Notez qu'il y a ici une difficulté spirituelle implicite. Jésus rencontrait des gens ayant une foi radieuse fortifiant leur âme, leur permettant de résoudre leurs problèmes. Dans les générations passées, la vigueur de la vie et des enseignements de Jésus étaient beaucoup mieux perçues qu'aujourd'hui. Notre voie est toute tracée. Une des difficultés que nous rencontrons aujourd'hui est que les gens manquent d'enseignants religieux ayant une foi religieuse communicative.
 
 Ne disposant pas d'une vision spirituelle générale pour les hommes et les femmes de toutes races, nous sommes incapables d'affronter intelligemment aussi bien les complémentarités que les différences entre les groupes d'individus, et nous faisons passer en force le message d'égalité par les voies de la science sociale politisée et par une rhétorique de diversité qui mélange les rapports éthiques légitimes avec le refus de faire face aux faits.
 
@@ -45,7 +69,7 @@ Le monde moderne a besoin de chefs et de gens capables de travailler en équipe 
 
 Nous nous trouvons face au challenge d'une population vieillissante qui n'a besoin ni d'être négligée ni apitoyée. Jésus a montré que la manière de mourir peut conduire les autres dans le royaume.
 
-Aujourd'hui nous devons faire face à des problèmes d'éthique. Notre société _chancelle par notre culpabilité qui tolère la science sans idéalisme, la politique sans principes, la fortune sans travail, le plaisir sans retenue, la connaissance sans caractère, le pouvoir sans conscience et l'industrie sans moralité_ [[LU 195:10.20](/fr/The_Urantia_Book/195#p10_20)]. Et notre génération se manifeste avec de nouvelles conduites intolérables. Nous devons apprendre l'exercice sage, constructif et effectif de l'intolérance.
+Aujourd'hui nous devons faire face à des problèmes d'éthique. Notre société _chancelle par notre culpabilité qui tolère la science sans idéalisme, la politique sans principes, la fortune sans travail, le plaisir sans retenue, la connaissance sans caractère, le pouvoir sans conscience et l'industrie sans moralité_ <a id="a71_315"></a>[[LU 195:10.20](/fr/The_Urantia_Book/195#p10_20)]. Et notre génération se manifeste avec de nouvelles conduites intolérables. Nous devons apprendre l'exercice sage, constructif et effectif de l'intolérance.
 
 Les problèmes de morale et d'éthique ont des racines philosophiques et spirituelles. Le sophisme prospère dans le climat actuel du relativisme — la croyance que dans les problèmes graves il n'y a pas de vérité, juste une opinion. Vous avez votre opinion, j'ai la mienne, et ainsi tout le monde dev rait être libre d'agir selon son point de vue. Nous voyons aujourd'hui la promulgation de folies éhontées, agressives et bien financées, accouplées à des arguments intelligents qui soulèvent de graves questions pour ceux qui ont la responsabilité de défendre la voie de la sagesse. Il est plus facile d'attaquer que de défendre, et il y a des limites pour n'importe qui à prouver un point de vue. Il y a ainsi un besoin pour des spécialistes dans les divers domaines où l'expertise est requise de répondre aux incessants sophismes.
 
@@ -77,4 +101,28 @@ Ce ne sont pas des étudiants du _Livre d'Urantia_. Ce sont des hommes et des fe
 
 ## Si le désir est suprême
 
-Jésus enseignait que La prédication persistante de cet évangile du royaume apporterait un jour à toutes les nations une libération nouvelle et incroyable, une liberté intellectuelle et une libération religieuse [[LU 178:1.9](/fr/The_Urantia_Book/178#p1_9)]. J'ai écouté des leaders proéminents nier que la prédication est un moyen valable de communication pour les lecteurs d'aujourd'hui. J'avais l'habitude de correspondre avec des hindous qui allaient à bicyclette avec toute leur famille, les dimanches après-midi, visiter les habitants des villages voisins pour leur apporter un message de l'évangile. Lorsque le désir est suprême nous trouvons une voie. Lorsque le désir n'est pas suprême, les difficultés sont écrasantes. Tandis que nous rêvons d'apporter notre ministère aux difficultés spirituelles des autres, n'oublions pas de faire face aux nôtres. Lorsque nous attendons le nouveau et plus grand Jean-Baptiste pour nous guider et que nous espérons un nouveau et plus grand Gautama pour réveiller l'Inde, pourquoi n'essayons-nous pas nous-mêmes d'être une nouvelle et plus grande Déborah ou un Malachi ou un Habbakuk? Prophètes vivants, en avant!
+Jésus enseignait que La prédication persistante de cet évangile du royaume apporterait un jour à toutes les nations une libération nouvelle et incroyable, une liberté intellectuelle et une libération religieuse <a id="a103_211"></a>[[LU 178:1.9](/fr/The_Urantia_Book/178#p1_9)]. J'ai écouté des leaders proéminents nier que la prédication est un moyen valable de communication pour les lecteurs d'aujourd'hui. J'avais l'habitude de correspondre avec des hindous qui allaient à bicyclette avec toute leur famille, les dimanches après-midi, visiter les habitants des villages voisins pour leur apporter un message de l'évangile. Lorsque le désir est suprême nous trouvons une voie. Lorsque le désir n'est pas suprême, les difficultés sont écrasantes. Tandis que nous rêvons d'apporter notre ministère aux difficultés spirituelles des autres, n'oublions pas de faire face aux nôtres. Lorsque nous attendons le nouveau et plus grand Jean-Baptiste pour nous guider et que nous espérons un nouveau et plus grand Gautama pour réveiller l'Inde, pourquoi n'essayons-nous pas nous-mêmes d'être une nouvelle et plus grande Déborah ou un Malachi ou un Habbakuk? Prophètes vivants, en avant!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/You_say_The_fifth_epochal_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vous dites: «La Cinquième Révélation D’Époque ?»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-décembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Décembre 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gard_Jameson/The_Importance_of_Worship_and_Prayer">
+          <span class="pr-2">L'importance de l'adoration et de la prière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

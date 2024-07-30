@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Bruce Jackson<br>© 2021 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/preparing_for_spontaneity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Se préparer à la spontanéité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Une leçon importante pour le Mouvement Urantia
@@ -158,3 +179,25 @@ Il est temps en effet ! Les champs sont mûrs, mais les travailleurs sont si peu
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2021/?lang=fr)
 - [Cet article](https://urantia-association.org/les-milleniaux-et-leglise/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/preparing_for_spontaneity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Se préparer à la spontanéité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

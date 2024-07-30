@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Carolyn Kendall<br>© 2000 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2000_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — June 2000 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Neal_Waldrop/Millenium">
+          <span class="pr-2">Millenium</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Presented at the observance of the 50th Anniversary of the founding of Urantia Foundation
 Chicago, USA, March 18, 2000
@@ -26,7 +50,7 @@ Michael arrived on our world in 7 B.C. His primary mission was to achieve the so
 
 **The Urantia Book**, the fifth epochal revelation, in its brief 45-year history, has accumulated fanciful legends surrounding its origin. It was not brought to earth by aliens in spaceships. It did not materialize in a locker in Detroit. It was not found in a bank vault in Chicago. The Urantia Revelation was on the drawing board as far back as the Middle Ages. This revelation was unique in its manifestation; its origin was truly mysterious, and events accompanying it were legendary, but it was not launched upon the world as an orphaned entity — set adrift, without plan, purpose or direction. A group of midwayers, isolated in the legacy of rebellion and default, petitioned high universe authorities for the chance to tell the **full** story about the history of our planet, the inspiring presentation of the universe and its range of personalities, the true story of Jesus' life on earth, and to plan for the bestowal of the next order of Sonship on our world. A revelation in **book form** had never been tried in our Local Universe of Nebadon.
 
-On [UB 21:5.9](/en/The_Urantia_Book/21#p5_9), the book states: _A Master Son may at will vary the order of the spiritual adjudication and evolutionary adjustment of the inbabited planets_. He can make and carry out plans of his own choosing particularly regarding the worlds of his bestowals, and still more concerning the realm of his terminal bestowal. It was Michael himself who approved the prototype: the **Word** made **Book**.
+On <a id="a52_3"></a>[UB 21:5.9](/en/The_Urantia_Book/21#p5_9), the book states: _A Master Son may at will vary the order of the spiritual adjudication and evolutionary adjustment of the inbabited planets_. He can make and carry out plans of his own choosing particularly regarding the worlds of his bestowals, and still more concerning the realm of his terminal bestowal. It was Michael himself who approved the prototype: the **Word** made **Book**.
 
 This may or may not be an emergency revelation like Melchizedek's. Unlike his day, the God concept is alive and well. _The Urantia Book_ seeks to remediate the losses of the Dalamatian culture of the Planetary Prince, the first epochal revelation 500,000 years ago, which was lost in rebellion and disloyalty. It reintroduces the biologic principles of the Adamic bestowal, the second great revelation, 37,000 years ago, another loss due to the default of its two principal bestowal personalities. _The Urantia Book_ is the precursor to even greater events to bless our planet sometime in the future.
 
@@ -44,7 +68,7 @@ One might think of the revelators and planetary overseers as operating backstage
 
 The world will not come to an end. The planet will not be consumed in fire, nuclear or otherwise. Satan and Lucifer will not claim our errant population. Caligastia will not control our minds and souls. There is a much better plan in store for us all.
 
-Jesus promised that _an enhanced demonstration of righteousness and an enlarged revelation of truth will be sent by the Father_ ([UB 176:2.3](/en/The_Urantia_Book/176#p2_3)). This demonstrator of righteousness will either be an Avonal Son, or the Trinity Teacher Sons, or all three bestowal beings at once: an Avonal, Trinity Teachers **and** Michael himself on a return visit. The vanguard of the Teacher Sons are already here surveying the property, preparing for our uplifting. We are promised in the book that these visitations **will** occur; there is no doubt about them. While it is highly doubtful any of us will live to witness them, **we do have important work to do in future years preparing for this coming extravaganza**.
+Jesus promised that _an enhanced demonstration of righteousness and an enlarged revelation of truth will be sent by the Father_ (<a id="a70_129"></a>[UB 176:2.3](/en/The_Urantia_Book/176#p2_3)). This demonstrator of righteousness will either be an Avonal Son, or the Trinity Teacher Sons, or all three bestowal beings at once: an Avonal, Trinity Teachers **and** Michael himself on a return visit. The vanguard of the Teacher Sons are already here surveying the property, preparing for our uplifting. We are promised in the book that these visitations **will** occur; there is no doubt about them. While it is highly doubtful any of us will live to witness them, **we do have important work to do in future years preparing for this coming extravaganza**.
 
 ## In the Meantime
 
@@ -88,7 +112,7 @@ One of the great phenomena in the New Testament could have benefited from legal 
 
 The revelators told us not to rush to proclaim _The Urantia Book_—the world wasn't ready in 1955 to begin its search for righteousness. The book was planned to take hold after the chaotic world political situation passed. They counseled: In the meantime be patient, build gradually—train teachers, prepare leaders, translate the book; **and** establish thousands of **study groups**. They did **not** say: Organize thousands of Urantia societies. They did not say: Establish an elite hierarchy of leaders who know what's best for the rank and file. They did **not** say: Create a new church, one that separates you from other religionists, and erects hurdles for new believers to jump over. It was suggested that we study Jesus' organization, **its simplicity**.
 
-_The Urantia Book_ promises that _sooner or later another and greater John the Baptist is due to arise proclaiming “the kingdom of God is at band”_ [UB 170:5.19](/en/The_Urantia_Book/170#p5_19).2, and the Contact Commissioners were assured that someday a great religious teacher will arise to espouse the teachings of _The Urantia Book_. When a great human teacher arises, wisdom will be required to not turn over the reigns of administrative control to this one individual. Leadership must continue to be diffused, not concentrated in one person, whereas an inspirational, dynamic teacher can turn lives upside down, and bring many souls to the Father.
+_The Urantia Book_ promises that _sooner or later another and greater John the Baptist is due to arise proclaiming “the kingdom of God is at band”_ <a id="a114_148"></a>[UB 170:5.19](/en/The_Urantia_Book/170#p5_19).2, and the Contact Commissioners were assured that someday a great religious teacher will arise to espouse the teachings of _The Urantia Book_. When a great human teacher arises, wisdom will be required to not turn over the reigns of administrative control to this one individual. Leadership must continue to be diffused, not concentrated in one person, whereas an inspirational, dynamic teacher can turn lives upside down, and bring many souls to the Father.
 
 ## Priorities
 
@@ -103,3 +127,27 @@ When patients in his psychiatric practice complained of what we now call stress,
 5. The trifles of living.
 
 We need to reflect upon what percentage of Urantia activities actually fall into the “trifles of living” category, and what percentage is vital in preparing for the next stage of planetary progression.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2000_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — June 2000 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Neal_Waldrop/Millenium">
+          <span class="pr-2">Millenium</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

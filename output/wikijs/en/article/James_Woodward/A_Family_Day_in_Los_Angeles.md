@@ -9,13 +9,37 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 James Woodward<br>© 1999 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeff_Wattles/Struggle_and_Peace_with_the_Fatherhood_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Struggle and Peace with the Fatherhood of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jerry_Prentice/Education_and_Family">
+          <span class="pr-2">Education and Family</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 James Woodward
 California, United States
 
 A most pleasant occasion recently marked the refreshing transition in our progress toward improved relations between the two _Urantia Book_ organizations. This continued growth has its origins in a pivotal meeting held six months ago. In April 1998 the leaders of the IUA and the Brotherhood met in Chicago to discuss openly the issues at hand. There was an air of anticipation among the participants, tempered by commitments to philosophies, but fueled by the desire to restore the fabric of human cooperation in the work of the two groups. The main meeting featured statements of vision and organizational structure, which highlighted the marked differences in approach to the agenda. However, a Brotherhood speaker provided a touchstone of common purpose, which found immediate and supportive general agreement. Sara Blackstock, an active grandmother, teacher, and elementary school administrator, spoke about a project she chairs, the Family Life Committee. The leadership of both organizations dedicated to presenting the Fifth Revelation to the world could find no room for disagreement as Sara read her statement.
 
-Jesus said: “_The people of another age will better understand the gospel of the kingdom when it is presented in terms expressive of the family relationship—when man understands religion as the teaching of the fatherhood of God and the brotherhood of man, sonship with God._” [[UB 142:7.4](/en/The_Urantia_Book/142#p7_4)]
+Jesus said: “_The people of another age will better understand the gospel of the kingdom when it is presented in terms expressive of the family relationship—when man understands religion as the teaching of the fatherhood of God and the brotherhood of man, sonship with God._” <a id="a41_276"></a>[[UB 142:7.4](/en/The_Urantia_Book/142#p7_4)]
 
 As “people of another age,” we accept Jesus' challenge to present the gospel “in terms of family relationships,” and to do this we need to commit ourselves to strengthening the ideal of “the family” by fostering the spiritual culture of the family and empowering parents to reveal God's love to their children, through accumulated resources, offering the family targeted programs and services to the FAMILY on all levels.
 
@@ -37,4 +61,28 @@ The final activity was another exercise in hands-on creativity, this time with T
 
 This event demonstrates all that is good about readers of The Urantia Book and serves as an inspired model for those involved in this ongoing volunteer service. It confirms that personalities, when they truly desire to evolve in grace, find it possible to rise above preordained programs. Motivated groups everywhere could seek ways to promote mutual involvement in positive activities; and the family aspect is one which offers great promise. This is a blessed time to consider the future of the unified movement in its far-reaching spiritual endeavors.
 
-> _This very love of God for the individual brings into being the divine family of all individuals, the universal brotherhood of the freewill children of the Paradise Father._ [[UB 12:7.10](/en/The_Urantia_Book/12#p7_10)]
+> _This very love of God for the individual brings into being the divine family of all individuals, the universal brotherhood of the freewill children of the Paradise Father._ <a id="a63_176"></a>[[UB 12:7.10](/en/The_Urantia_Book/12#p7_10)]
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeff_Wattles/Struggle_and_Peace_with_the_Fatherhood_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Struggle and Peace with the Fatherhood of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jerry_Prentice/Education_and_Family">
+          <span class="pr-2">Education and Family</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

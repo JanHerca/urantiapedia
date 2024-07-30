@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 David Carrera Ibañez<br>© 2000 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/2000_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Diciembre 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/You_say_The_fifth_epochal_revelation">
+          <span class="pr-2">Vosotros decís: «La Revelación de la Quinta Época»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 David Carrera Ibáñez
 León, España
@@ -115,6 +139,31 @@ Este mismo artículo podría ser interpretado como un ingenioso intento de prose
 
 Lo único que tengo que decir es: «Mi amigo; de momento, pasa de este artículo, pasa de la revista, pasa de la Fundación... ve directamente al libro! Lee el libro. No **tienes** que creer en él antes de conocerlo, ni estarás obligado a hacerlo después. Empieza si quieres a leerlo como si sólo fuera una extraña novela. Antes de leerlo, mientras lo lees y cuando hayas acabado de hacerlo, harás lo mismo que has hecho siempre: ‘creer en aquello que hace encajar mejor las piezas...’»
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/2000_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Diciembre 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/You_say_The_fifth_epochal_revelation">
+          <span class="pr-2">Vosotros decís: «La Revelación de la Quinta Época»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

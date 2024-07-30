@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Bob Ghen Sr.<br>© 2018 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bruce_Jackson/jesusonian_calling_go_third_mile">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un Appel Jésusonien à faire la Troisième Lieue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Susan_Lyon/inspiration_healing_urantia_book">
+          <span class="pr-2">Inspiration et guérison, tirées du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -18,7 +42,7 @@ dateCreated: 2023-9-16T10:55:6Z
 _Le livre d’Urantia_ déclare sans équivoque :
 
 
-> _En faisant la volonté de Dieu, une créature ne fait rien de plus ni de moins que de montrer son bon vouloir pour partager sa vie intérieure avec Dieu …_ <a id="a43_139"></a>[[LU 111:5.1](/fr/The_Urantia_Book/111#p5_1)]
+> _En faisant la volonté de Dieu, une créature ne fait rien de plus ni de moins que de montrer son bon vouloir pour partager sa vie intérieure avec Dieu …_ <a id="a44_156"></a>[[LU 111:5.1](/fr/The_Urantia_Book/111#p5_1)]
 
 **Quoi ? Sérieusement ? C’est tout ?**
 
@@ -36,7 +60,7 @@ Simplement, je représente ici mes meilleurs efforts pour partager l’essence d
 
 ## Regardons de Plus Près
 
-> _En faisant la volonté de Dieu, une créature ne fait rien de plus ni de moins que de montrer son bon vouloir pour partager sa vie intérieure avec Dieu …_ <a id="a59_139"></a>[[LU 111:5.1](/fr/The_Urantia_Book/111#p5_1)]
+> _En faisant la volonté de Dieu, une créature ne fait rien de plus ni de moins que de montrer son bon vouloir pour partager sa vie intérieure avec Dieu …_ <a id="a62_156"></a>[[LU 111:5.1](/fr/The_Urantia_Book/111#p5_1)]
 
 Qu’est-ce, donc, que cela signifie exactement ? Disséquons un peu cela :
 
@@ -98,7 +122,7 @@ En net contraste, la Prière Intelligente comme l’Adoration Sincère sont des 
 
  La Prière Intelligente se distingue de toutes les autres formes en ce que la Prière Intelligente est cette prière qui est cohérente avec les principes divins qui gouvernent de telles communications. Une prière qui n’est pas en accord avec ces principes sera inefficace. Elle ne s’élèvera pas avec les courants ascendants et tombera simplement à plat. La prière matérialiste, égoïste n’est ni intelligente, ni spirituelle. Les révélateurs du _Livre d’Urantia_ offrent un langage assez fort sur ce sujet :
 
-> _Les prières incompatibles avec les lois de Dieu connues et établies sont en abomination aux Déités du Paradis._ <a id="a118_128"></a>[[LU 146:2.3](/fr/The_Urantia_Book/146#p2_3)]
+> _Les prières incompatibles avec les lois de Dieu connues et établies sont en abomination aux Déités du Paradis._ <a id="a124_115"></a>[[LU 146:2.3](/fr/The_Urantia_Book/146#p2_3)]
 
 La Prière Intelligente est une _communication_ à la fois intellectuelle et religieuse-spirituelle. Elle cherche à faire communiquer intelligemment notre soi fini avec la déité infinie, avec Dieu. C’est la sincère expression de tout ce que nous lui communiquerions s’il était assis juste devant nous, à la table de la cuisine pour ainsi dire. Il n’y a pas de formule pour une telle conférence privée.
 
@@ -122,7 +146,7 @@ Lorsque nous reconnaissons, et nous nous soumettons à cette soif de l’âme, l
 
 Et maintenant, avec le divin Ajusteur intérieur ainsi engagé, c’est lui qui conduit en réalité l’adoration pour notre compte, transmettant directement notre dévotion personnelle au Père Universel au centre de toutes choses. _Le Livre d’Urantia_ enseigne que c’est la séquence naturelle, subjective, expérimentale qui conduit le mental qui prie personnellement à travers la Prière Intelligente à l’expérience d’Adoration Sincère.
 
-> _Ce choix de la créature n’est pas un abandon de la volonté. Il est une consécration de la volonté, une expansion de la volonté, une glorification de la volonté, un perfectionnement de la volonté. Un tel choix élève la volonté de la créature du niveau de signification temporelle à cet état supérieur où la personnalité du fils créé communie avec la personnalité du Père-esprit._ <a id="a136_355"></a>[[LU 111:5.5](/fr/The_Urantia_Book/111#p5_5)]
+> _Ce choix de la créature n’est pas un abandon de la volonté. Il est une consécration de la volonté, une expansion de la volonté, une glorification de la volonté, un perfectionnement de la volonté. Un tel choix élève la volonté de la créature du niveau de signification temporelle à cet état supérieur où la personnalité du fils créé communie avec la personnalité du Père-esprit._ <a id="a148_382"></a>[[LU 111:5.5](/fr/The_Urantia_Book/111#p5_5)]
 
 ## Je l’expérimente de cette façon
 
@@ -136,7 +160,7 @@ La vraie adoration valide ma foi et améliore ma tendance humaine naturelle à �
 
 Témoin
 
-> _Vos anxiétés et vos tristesses, vos épreuves et vos désappointements, **font tout aussi bien partie du** **plan divin** sur votre sphère que la perfection exquise et l’adaptation infinie de toutes choses à leur but suprême sur les mondes de l’univers central et parfait._ <a id="a150_273"></a>[[LU 23:2.12](/fr/The_Urantia_Book/23#p2_12), gras ajouté]
+> _Vos anxiétés et vos tristesses, vos épreuves et vos désappointements, **font tout aussi bien partie du** **plan divin** sur votre sphère que la perfection exquise et l’adaptation infinie de toutes choses à leur but suprême sur les mondes de l’univers central et parfait._ <a id="a162_275"></a>[[LU 23:2.12](/fr/The_Urantia_Book/23#p2_12), gras ajouté]
 
 Notre vie entière, et toutes choses en elle, deviennent un témoignage pour notre expérience religieuse authentique, pour notre effort sincère pour connaître Dieu et pour vivre selon sa volonté. Même lorsque notre monde personnel s’effondre autour de nous, dans nos heures les plus sombres, nous pouvons savoir avec certitude qu’il y a des jours meilleurs devant nous. Si ce n’est possible dans le temps restant sur ce monde, alors plus certainement dans le suivant.
 
@@ -158,3 +182,28 @@ Ou dit d’une autre manière, la vraie religion _est_ « Faire la volonté de D
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2018/?lang=fr)
 - [Cet article](https://urantia-association.org/faire-la-volonte-de-dieu/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bruce_Jackson/jesusonian_calling_go_third_mile">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un Appel Jésusonien à faire la Troisième Lieue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Susan_Lyon/inspiration_healing_urantia_book">
+          <span class="pr-2">Inspiration et guérison, tirées du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

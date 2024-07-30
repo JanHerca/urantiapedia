@@ -44,11 +44,11 @@ El 21 de agosto de 2017, Estados Unidos experimentó un eclipse solar muy poco c
 
 ¿Les resultan familiares estas fechas a los lectores del Libro de Urantia?
 
-Según El Libro de Urantia, el 21 de agosto de 7 a. C. fue la fecha del nacimiento de Jesús (<a id="a22_92"></a>[LU 122:8.1](/es/The_Urantia_Book/122#p8_1)) y el 8 de abril de 30 a. C. es el único día completo en que el cuerpo mortal de Jesús permaneció en la tumba después de su muerte en la cruz (<a id="a22_279"></a>[LU 188:0.1](/es/The_Urantia_Book/188#p0_1)). La comunidad del Libro de Urantia comúnmente conoce esta fecha como el único día completo del «tiempo de la tumba» (<a id="a22_441"></a>[LU 188:0.1](/es/The_Urantia_Book/188#p0_1)).
+Según El Libro de Urantia, el 21 de agosto de 7 a. C. fue la fecha del nacimiento de Jesús (<a id="a46_92"></a>[LU 122:8.1](/es/The_Urantia_Book/122#p8_1)) y el 8 de abril de 30 a. C. es el único día completo en que el cuerpo mortal de Jesús permaneció en la tumba después de su muerte en la cruz (<a id="a46_279"></a>[LU 188:0.1](/es/The_Urantia_Book/188#p0_1)). La comunidad del Libro de Urantia comúnmente conoce esta fecha como el único día completo del «tiempo de la tumba» (<a id="a46_441"></a>[LU 188:0.1](/es/The_Urantia_Book/188#p0_1)).
 
 Sería muy interesante que ocurriera un eclipse solar total en cualquier parte del planeta en cualquiera de estas dos fechas importantes. Sin embargo, que estos _dos_ eclipses ocurran sobre los Estados Unidos en _fechas y horas_ significativas cerca de un _lugar importante_ es mucho más que interesante. Algunos dirían que esto es sólo una coincidencia, y tal vez sea cierto, pero ¿podría ser más? ¿No podría servir también como una llamada de atención para los seguidores de _El Libro de Urantia_?
 
-Decir que algo es «coincidente» también podría indicar que es deliberado o tiene un propósito. Quizás nos apresuramos a descartar sucesos como este. Esto no quiere decir que nadie deba suscribirse a «señales y prodigios» (<a id="a26_222"></a>[LU 145:5.6](/es/The_Urantia_Book/145#p5_6)), pero tal vez podamos reconocer que estos eventos inusuales de eclipses han recibido la atención de _millones_ de personas en todo el mundo. Cuando algo llama la atención de millones, y casualmente coincide con fechas significativas en la época de Jesús aquí, como se revela en _El Libro de Urantia_, ¿no es eso digno de nuestra atención? Como mínimo, representa una oportunidad de divulgación para dar a conocer al público la importancia de estas fechas como introducción al _El Libro de Urantia_.
+Decir que algo es «coincidente» también podría indicar que es deliberado o tiene un propósito. Quizás nos apresuramos a descartar sucesos como este. Esto no quiere decir que nadie deba suscribirse a «señales y prodigios» (<a id="a50_222"></a>[LU 145:5.6](/es/The_Urantia_Book/145#p5_6)), pero tal vez podamos reconocer que estos eventos inusuales de eclipses han recibido la atención de _millones_ de personas en todo el mundo. Cuando algo llama la atención de millones, y casualmente coincide con fechas significativas en la época de Jesús aquí, como se revela en _El Libro de Urantia_, ¿no es eso digno de nuestra atención? Como mínimo, representa una oportunidad de divulgación para dar a conocer al público la importancia de estas fechas como introducción al _El Libro de Urantia_.
 
 Aquí hay algunos otros datos importantes sobre estos dos eclipses:
 
@@ -97,7 +97,7 @@ El eclipse de 2017 se produjo en la fecha del nacimiento de Jesús, el 21 de ago
 
 El eclipse parcial en el punto de cruce en 2017 comenzó a las _11:52 a.m._ (que es alrededor del mediodía).
 
-...y al mediodía del 21 de agosto del 7 a.C. . . . María tuvo un hijo varón (<a id="a75_77"></a>[LU 122:8.1](/es/The_Urantia_Book/122#p8_1)).
+...y al mediodía del 21 de agosto del 7 a.C. . . . María tuvo un hijo varón (<a id="a99_77"></a>[LU 122:8.1](/es/The_Urantia_Book/122#p8_1)).
 
 El eclipse de 2024 se produce en la fecha del único día completo del cuerpo de Jesús en la tumba, el 8 de abril.
 
@@ -105,13 +105,13 @@ El eclipse parcial en el punto de cruce en 2024 finaliza a las 15:18 horas. (que
 
 En El Libro de Urantia, las tres en punto es una hora significativa.
 
-> Fue justo antes de **las tres** cuando Jesús, dando un grito, exclamó: «¡Todo se ha consumado! Padre, en tus manos encomiendo mi espíritu». Cuando hubo dicho esto, inclinó la cabeza y abandonó la lucha por la vida. (<a id="a83_218"></a>[LU 187:5.5](/es/The_Urantia_Book/187#p5_5))
+> Fue justo antes de **las tres** cuando Jesús, dando un grito, exclamó: «¡Todo se ha consumado! Padre, en tus manos encomiendo mi espíritu». Cuando hubo dicho esto, inclinó la cabeza y abandonó la lucha por la vida. (<a id="a107_218"></a>[LU 187:5.5](/es/The_Urantia_Book/187#p5_5))
 
-> EL DÍA y medio que el cuerpo mortal de Jesús estuvo en la tumba de José, el período entre su muerte en la cruz y su resurrección, es un capítulo de la carrera terrenal de Miguel que conocemos poco. Podemos narrar el entierro del Hijo del Hombre y contar en este relato los acontecimientos asociados con su resurrección, pero no podemos proporcionar mucha información auténtica sobre lo que sucedió realmente durante este intervalo de casi treinta y seis horas, **desde las tres de la tarde del viernes hasta las tres de la mañana del domingo**. Este período de la carrera del Maestro comenzó poco antes de que los soldados romanos lo bajaran de la cruz. Permaneció suspendido en la cruz cerca de una hora después de morir. Hubiera sido bajado antes si no se hubieran retrasado para rematar a los dos bandidos. (<a id="a85_813"></a>[LU 188:0.1](/es/The_Urantia_Book/188#p0_1))
+> EL DÍA y medio que el cuerpo mortal de Jesús estuvo en la tumba de José, el período entre su muerte en la cruz y su resurrección, es un capítulo de la carrera terrenal de Miguel que conocemos poco. Podemos narrar el entierro del Hijo del Hombre y contar en este relato los acontecimientos asociados con su resurrección, pero no podemos proporcionar mucha información auténtica sobre lo que sucedió realmente durante este intervalo de casi treinta y seis horas, **desde las tres de la tarde del viernes hasta las tres de la mañana del domingo**. Este período de la carrera del Maestro comenzó poco antes de que los soldados romanos lo bajaran de la cruz. Permaneció suspendido en la cruz cerca de una hora después de morir. Hubiera sido bajado antes si no se hubieran retrasado para rematar a los dos bandidos. (<a id="a109_813"></a>[LU 188:0.1](/es/The_Urantia_Book/188#p0_1))
 
 ## ¿Porqué ahora?
 
-El cruce de los dos eclipses puede verse como un verdadero símbolo de la situación actual del mundo, «temblando al borde mismo de una de sus épocas más sorprendentes y fascinantes de reajuste social, aceleración moral e iluminación espiritual» ([LU 195:9.2](/es/The_Urantia_Book/195#p9_2)) y en la encrucijada del avance o la regresión.
+El cruce de los dos eclipses puede verse como un verdadero símbolo de la situación actual del mundo, «temblando al borde mismo de una de sus épocas más sorprendentes y fascinantes de reajuste social, aceleración moral e iluminación espiritual» (<a id="a113_245"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)) y en la encrucijada del avance o la regresión.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Paula_Thompson_et_al/23.jpg">

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Neal Waldrop III<br>© 2000 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/The_Importance_of_Worship_and_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Importance of Worship and Prayer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peep_Sober/Revelation_as_spiritual_inspiration">
+          <span class="pr-2">Revelation as spiritual inspiration</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Neil Waldrop
 Geneva, Switzerland
@@ -43,15 +67,15 @@ At the same time as we develop these new approaches, we will have to ask ourselv
 
 If, as individuals, we continue to seek solitary attainment of a form of spiritual life; if, consequently, we consider our spiritual impulses as belonging to a jealously deprived sphere of self-glorification, which keeps us away from social activities and concerns and, even, distances us from them to a certain point, by their very nature, we maintain an attitude which promotes and maintains this harmful distinction which creates dissension: namely, this opposition between the sacred and the profane.
 
-The revelators of the Fifth Revelation would qualify this gap, acquired or innate, as an impossibility for the subject to integrate the visions of the transcendent God and the immanent God. Because we must keep in mind that in Him we all live, we move and have our existence. ([UB 1:5.16](/en/The_Urantia_Book/1#p5_16); [UB 2:1.11](/en/The_Urantia_Book/2#p1_11); [UB 105:2.11](/en/The_Urantia_Book/105#p2_11))
+The revelators of the Fifth Revelation would qualify this gap, acquired or innate, as an impossibility for the subject to integrate the visions of the transcendent God and the immanent God. Because we must keep in mind that in Him we all live, we move and have our existence. (<a id="a69_277"></a>[UB 1:5.16](/en/The_Urantia_Book/1#p5_16); <a id="a69_320"></a>[UB 2:1.11](/en/The_Urantia_Book/2#p1_11); <a id="a69_363"></a>[UB 105:2.11](/en/The_Urantia_Book/105#p2_11))
 
-Another observation that we could draw from this is that we are not sufficiently open and attentive to the projects and programs of God the Supreme — or God the Mother. For it is also one of our great privileges to collaborate in the evolutionary growth of God the Supreme, who is _the effective incorporation and personal summary of all the evolution, progression and spiritualization of creatures._ [[UB 117:3.4](/en/The_Urantia_Book/117#p3_4)]: and whose evolving divine nature _becomes a faithful portrait of the incomparable experience of all creatures and all Creators in the great universe._ [[UB 117:1.6](/en/The_Urantia_Book/117#p1_6)], as a Solitary Messenger teaches us. But in booklet 115, the same Solitary Messenger draws our attention to a crucial difference: _With God the Father, the great relationship is filiation. With God the Supreme, achievement is the prerequisite for status — one must do something as well as be something._ [[UB 115:0.1](/en/The_Urantia_Book/115#p0_1)]
+Another observation that we could draw from this is that we are not sufficiently open and attentive to the projects and programs of God the Supreme — or God the Mother. For it is also one of our great privileges to collaborate in the evolutionary growth of God the Supreme, who is _the effective incorporation and personal summary of all the evolution, progression and spiritualization of creatures._ <a id="a71_401"></a>[[UB 117:3.4](/en/The_Urantia_Book/117#p3_4)]: and whose evolving divine nature _becomes a faithful portrait of the incomparable experience of all creatures and all Creators in the great universe._ <a id="a71_599"></a>[[UB 117:1.6](/en/The_Urantia_Book/117#p1_6)], as a Solitary Messenger teaches us. But in booklet 115, the same Solitary Messenger draws our attention to a crucial difference: _With God the Father, the great relationship is filiation. With God the Supreme, achievement is the prerequisite for status — one must do something as well as be something._ <a id="a71_949"></a>[[UB 115:0.1](/en/The_Urantia_Book/115#p0_1)]
 
 Undertaking innovations in the spiritual and intellectual domains are adventures that involve considerable risks and perils. Imaginative individuals, who possess enough energy and determination to pursue their projects despite the lack of confidence of others — and sometimes their disguised contempt — are driven by such zeal that they could be described as zealots. They are likely not to recognize the potential of their contemporaries, nor their intimate and sincere needs. They work madly to promote ideals that are unattainable; they place beacons on peaks and hills beyond what their companions can see at the moment. Enthusiasm is certainly a necessary virtue, but balanced judgment is crucial.
 
 The revelators were obviously well aware that social and cultural revolutions are both inevitable and necessary on our planet. We, our children and grandchildren — and their own descendants — must do our best to participate positively in these changes, drawing on the teachings and ideals that the authors of The Urantia Book have presented and emphasized with energy and efficiency. Inside the booklet _The Social Problems of Religion_, a Melchizedek from Nebadon warns us:
 
-> _Mechanical inventions and the dissemination of knowledge are modifying civilization; certain economic adjustments and social changes are imperative if cultural disaster is to be avoided. This new and oncoming social order will not settle down complacently for a millennium. The human race must become reconciled to a procession of changes, adjustments, and readjustments. Mankind is on the march toward a new and unrevealed planetary destiny._ ([UB 99:1.1](/en/The_Urantia_Book/99#p1_1))
+> _Mechanical inventions and the dissemination of knowledge are modifying civilization; certain economic adjustments and social changes are imperative if cultural disaster is to be avoided. This new and oncoming social order will not settle down complacently for a millennium. The human race must become reconciled to a procession of changes, adjustments, and readjustments. Mankind is on the march toward a new and unrevealed planetary destiny._ (<a id="a77_448"></a>[UB 99:1.1](/en/The_Urantia_Book/99#p1_1))
 
 We serve not only the readers of The Urantia Book, but all of humanity. We must promote multiple projects and methods that are linked to each other, in the same way that the regime of the Planetary Prince took into account all the activities and particularities inherent in human nature. (See on this subject the explanations of a Melchizedek on pages 749, 750.)
 
@@ -59,28 +83,28 @@ As we carry out the versatile tasks entrusted to us by the revelators - or more 
 
 ## Lost and found
 
-A Melchizedek tells us that the planetary Prince and his staff arrived on Urantia _about five hundred thousand years ago, and concurrently with the appearance of the six colored races or Sangik races_ (...). [[UB 66:0.2](/en/The_Urantia_Book/66#p0_2)]. Their arrival marked the beginning of the visible sojourn of the physical representatives of the universal government—a standard practice that the deaths of Adam and Eve would interrupt. Long before their death, 75% of their children had been transported to Edentia, where they would become the wards of the Most High - as Solonia tells us on page [UB 75:6.3](/en/The_Urantia_Book/75#p6_3).
+A Melchizedek tells us that the planetary Prince and his staff arrived on Urantia _about five hundred thousand years ago, and concurrently with the appearance of the six colored races or Sangik races_ (...). <a id="a85_208"></a>[[UB 66:0.2](/en/The_Urantia_Book/66#p0_2)]. Their arrival marked the beginning of the visible sojourn of the physical representatives of the universal government—a standard practice that the deaths of Adam and Eve would interrupt. Long before their death, 75% of their children had been transported to Edentia, where they would become the wards of the Most High - as Solonia tells us on page <a id="a85_601"></a>[UB 75:6.3](/en/The_Urantia_Book/75#p6_3).
 
-On page [UB 55:7.3](/en/The_Urantia_Book/55#p7_3), a Mighty Messenger declares: _on Jerusem, it has long been assumed that (...) a son and daughter of the Adam and Eve of Urantia who are presently held on Edentia as wards of the Most Highs of Norlatiadek_, will accompany Machiventa Melchizedek when he comes to occupy the function of Sovereign Prince in the morontia temple when this planet enters the era of Light and Life. It might also seem plausible to imagine that this son and this daughter returned to the planet of their birth well before this date, but this is a hypothesis which is ours - and which is more in the nature of questioning than the answer. (If we hypothesize about a possibility, which has not been confirmed by any authority and is in fact a rumor circulating about Jerusalem, the farthest we can go is to support its plausibility and consistency.)
+On page <a id="a87_8"></a>[UB 55:7.3](/en/The_Urantia_Book/55#p7_3), a Mighty Messenger declares: _on Jerusem, it has long been assumed that (...) a son and daughter of the Adam and Eve of Urantia who are presently held on Edentia as wards of the Most Highs of Norlatiadek_, will accompany Machiventa Melchizedek when he comes to occupy the function of Sovereign Prince in the morontia temple when this planet enters the era of Light and Life. It might also seem plausible to imagine that this son and this daughter returned to the planet of their birth well before this date, but this is a hypothesis which is ours - and which is more in the nature of questioning than the answer. (If we hypothesize about a possibility, which has not been confirmed by any authority and is in fact a rumor circulating about Jerusalem, the farthest we can go is to support its plausibility and consistency.)
 
 We therefore have every reason to hope that representatives of the universal government will eventually re-establish a visible presence on Urantia. Part of our job is to begin to prepare accordingly—just as Van and Amadon prepared for millennia for the arrival of Adam and Eve. Although our plans and goals differ, we too must overcome the negative and lasting results of defections from the divine plan.
 
-At [UB 52:4.1](/en/The_Urantia_Book/52#p4_1), a Mighty Messenger declares that, on normal and lawful planets, during the era following the coming of a Master Son, _mortal races are mixed and biologically adapted. There are no race or color problems; literally all nations and races are of one blood. The brotherhood of man flourishes, and the nations are learning to live on earth in peace and tranquillity. Such a world stands on the eve of a great and culminating intellectual development._
+At <a id="a91_3"></a>[UB 52:4.1](/en/The_Urantia_Book/52#p4_1), a Mighty Messenger declares that, on normal and lawful planets, during the era following the coming of a Master Son, _mortal races are mixed and biologically adapted. There are no race or color problems; literally all nations and races are of one blood. The brotherhood of man flourishes, and the nations are learning to live on earth in peace and tranquillity. Such a world stands on the eve of a great and culminating intellectual development._
 
-A few paragraphs later, he tells us: _the races will soon begin their economic liberation. The daily work required for each man to ensure his independence would take two and a half hours of your time._ [[UB 52:4.5](/en/The_Urantia_Book/52#p4_5)]
+A few paragraphs later, he tells us: _the races will soon begin their economic liberation. The daily work required for each man to ensure his independence would take two and a half hours of your time._ <a id="a93_202"></a>[[UB 52:4.5](/en/The_Urantia_Book/52#p4_5)]
 
-The Mighty Messenger later suggests that on normal worlds the Son of bestowal _does not appear in incarnation until the races have risen to the highest levels of intelligence and ethical achievement._ [[UB 52:5.1](/en/The_Urantia_Book/52#p5_1)] And he adds: _During this stage, the whole world seeks moral culture and spiritual truth. Mortals of this dispensation have a passion to penetrate cosmic reality and commune with spiritual reality._ [UB 52:5.3](/en/The_Urantia_Book/52#p5_3)
+The Mighty Messenger later suggests that on normal worlds the Son of bestowal _does not appear in incarnation until the races have risen to the highest levels of intelligence and ethical achievement._ <a id="a95_201"></a>[[UB 52:5.1](/en/The_Urantia_Book/52#p5_1)] And he adds: _During this stage, the whole world seeks moral culture and spiritual truth. Mortals of this dispensation have a passion to penetrate cosmic reality and commune with spiritual reality._ <a id="a95_444"></a>[UB 52:5.3](/en/The_Urantia_Book/52#p5_3)
 
-> _During this era the problems of disease and delinquency are virtually solved. Degeneracy has already been largely eliminated by selective reproduction. Disease has been practically mastered through the high resistant qualities of the Adamic strains and by the intelligent and world-wide application of the discoveries of the physical sciences of preceding ages. The average length of life, during this period, climbs well above the equivalent of three hundred years of Urantia time._ ([UB 52:5.9](/en/The_Urantia_Book/52#p5_9))
+> _During this era the problems of disease and delinquency are virtually solved. Degeneracy has already been largely eliminated by selective reproduction. Disease has been practically mastered through the high resistant qualities of the Adamic strains and by the intelligent and world-wide application of the discoveries of the physical sciences of preceding ages. The average length of life, during this period, climbs well above the equivalent of three hundred years of Urantia time._ (<a id="a97_488"></a>[UB 52:5.9](/en/The_Urantia_Book/52#p5_9))
 
 ## Outlook
 
 We certainly have work ahead of us; but compelling arguments give us confidence and energy for the task:
 
-1. Christ, Michael of Nebadon, had the conviction that he would _save planetary titles from decay and uncertainty._ [[UB 93:1.2](/en/The_Urantia_Book/93#p1_2)] And he did it.
-2. An Archangel and an Evening Star said: Evolution may be slow, but it is terribly effective. ( [UB 81:1.3](/en/The_Urantia_Book/81#p1_3); [UB 86:7.6](/en/The_Urantia_Book/86#p7_6) )
-3. A Life Carrier tells us: _The newest celestial supervisors of your planet express their full confidence in the ultimate triumph of Buman racial evolution and in the final vindication of our original plans and patterns of life. _ [[UB 65:5.4](/en/The_Urantia_Book/65#p5_4)]
-4. A Powerful Messenger advances: _Religious revelation is essential for brotherhood to be realized on Urantia. And in the same vein: On a planet like Urantia (...) this accomplishment takes much more time and requires much greater effort._ [[UB 52:6.2](/en/The_Urantia_Book/52#p6_2)]
+1. Christ, Michael of Nebadon, had the conviction that he would _save planetary titles from decay and uncertainty._ <a id="a103_116"></a>[[UB 93:1.2](/en/The_Urantia_Book/93#p1_2)] And he did it.
+2. An Archangel and an Evening Star said: Evolution may be slow, but it is terribly effective. ( <a id="a104_97"></a>[UB 81:1.3](/en/The_Urantia_Book/81#p1_3); <a id="a104_140"></a>[UB 86:7.6](/en/The_Urantia_Book/86#p7_6) )
+3. A Life Carrier tells us: _The newest celestial supervisors of your planet express their full confidence in the ultimate triumph of Buman racial evolution and in the final vindication of our original plans and patterns of life. _ <a id="a105_232"></a>[[UB 65:5.4](/en/The_Urantia_Book/65#p5_4)]
+4. A Powerful Messenger advances: _Religious revelation is essential for brotherhood to be realized on Urantia. And in the same vein: On a planet like Urantia (...) this accomplishment takes much more time and requires much greater effort._ <a id="a106_241"></a>[[UB 52:6.2](/en/The_Urantia_Book/52#p6_2)]
 
 With all of these references in mind, I believe we should do everything in our power to collaborate with the Seraphic Planetary Government in its program of improving the gene pool of the human species.
 
@@ -102,14 +126,38 @@ All of this, of course, brings us back to the same provocative question: what ex
 
 Where will all this take us? I only have a confused vision of it. But the challenge is all the more intriguing and attractive. After all, we and all our brothers and sisters on this planet will eventually have to put into practice this lesson from those whom a Melchizedek calls the Spirits of Trust:
 
-> _In the more advanced planetary ages these seraphim enhance man’s appreciation of the truth that uncertainty is the secret of contented continuity. They help the mortal philosophers to realize that, when ignorance is essential to success, it would be a colossal blunder for the creature to know the future. They heighten man’s taste for the sweetness of uncertainty, for the romance and charm of the indefinite and unknown future._ ([UB 39:5.9](/en/The_Urantia_Book/39#p5_9))
+> _In the more advanced planetary ages these seraphim enhance man’s appreciation of the truth that uncertainty is the secret of contented continuity. They help the mortal philosophers to realize that, when ignorance is essential to success, it would be a colossal blunder for the creature to know the future. They heighten man’s taste for the sweetness of uncertainty, for the romance and charm of the indefinite and unknown future._ (<a id="a128_435"></a>[UB 39:5.9](/en/The_Urantia_Book/39#p5_9))
 
 Certainly Urantia's past demonstrates a aptitude for colossal misjudgments of reality. But the resulting delays have brought us a tremendous supply of ignorance — that ingredient which the Melchizedek considers essential to success!
 
 I also find it comforting that this same Melchizedek gives his approval to romance and flirtation, another enterprise where ignorance is essential. And this irony, this paradox, leads me quite naturally to one of my favorite extracts:
 
-> _I am a Mighty Messenger, and it may interest Urantians to know that the companion and associate of my mortal experience was also triumphant in the great test, and that, though we were many times and for long periods separated in the agelong inward ascent to Havona, we were embraced in the same seven-hundred-thousand group, and that we spent our time passing through Vicegerington in close and loving association. We were finally commissioned and together assigned to Uversa of Orvonton, and we are often dispatched in company for the execution of assignments requiring the services of two Messengers._ ([UB 22:2.6](/en/The_Urantia_Book/22#p2_6))
+> _I am a Mighty Messenger, and it may interest Urantians to know that the companion and associate of my mortal experience was also triumphant in the great test, and that, though we were many times and for long periods separated in the agelong inward ascent to Havona, we were embraced in the same seven-hundred-thousand group, and that we spent our time passing through Vicegerington in close and loving association. We were finally commissioned and together assigned to Uversa of Orvonton, and we are often dispatched in company for the execution of assignments requiring the services of two Messengers._ (<a id="a134_608"></a>[UB 22:2.6](/en/The_Urantia_Book/22#p2_6))
 
 I am aware that the task described above may not be completed in our lifetime. If this is so, it will be a reproach for us - and perhaps an even more stimulating challenge for those who come and succeed us.
 
 It should also be added that our active collaboration here and now can very well continue on higher planes of existence, and that this also has its share of dreams and charm. At least that's what it seems to me today.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/The_Importance_of_Worship_and_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Importance of Worship and Prayer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peep_Sober/Revelation_as_spiritual_inspiration">
+          <span class="pr-2">Revelation as spiritual inspiration</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

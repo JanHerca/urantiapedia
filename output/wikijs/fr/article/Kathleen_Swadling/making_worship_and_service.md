@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Kathleen Swadling<br>© 2021 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Christopher_Ross/no_appointments_no_disappointments">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pas de Rendez-vous, Pas de Déception</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Wood/preparing_for_spontaneity">
+          <span class="pr-2">Se préparer à la spontanéité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -34,15 +58,15 @@ Comme pour toute relation – l’échange entre des personnalités – nourrir 
 
 Mais comment se motiver à prendre ces décisions pour développer de bonnes habitudes propices au culte et à la prière ? Il est bon de se rappeler que nous sommes les architectes de notre vie… L’énergie coule là où va l’attention. Nos choix personnels sont la clé de notre bien-être.
 
-> _Les clefs du royaume des cieux sont la sincérité, plus de sincérité et encore plus de sincérité. Tous les hommes possèdent ces clefs. Les hommes s’en servent — élèvent leur statut spirituel — par des décisions, plus de décisions et encore plus de décisions. Le choix moral le plus élevé est celui de la plus haute valeur possible, et toujours — dans chaque sphère et dans toutes les sphères — c’est le choix de faire la volonté de Dieu._ <a id="a59_369"></a>[[LU 39:4.14](/fr/The_Urantia_Book/39#p4_14)]
+> _Les clefs du royaume des cieux sont la sincérité, plus de sincérité et encore plus de sincérité. Tous les hommes possèdent ces clefs. Les hommes s’en servent — élèvent leur statut spirituel — par des décisions, plus de décisions et encore plus de décisions. Le choix moral le plus élevé est celui de la plus haute valeur possible, et toujours — dans chaque sphère et dans toutes les sphères — c’est le choix de faire la volonté de Dieu._ <a id="a60_441"></a>[[LU 39:4.14](/fr/The_Urantia_Book/39#p4_14)]
 
-> _Un caractère cosmiquement moral et divinement spirituel représente le capital accumulé des décisions personnelles de la créature qui furent éclairées par une adoration sincère, glorifiées par un amour intelligent et consommées dans un service fraternel._ <a id="a61_240"></a>[[LU 117:5.13](/fr/The_Urantia_Book/117#p5_13)]
+> _Un caractère cosmiquement moral et divinement spirituel représente le capital accumulé des décisions personnelles de la créature qui furent éclairées par une adoration sincère, glorifiées par un amour intelligent et consommées dans un service fraternel._ <a id="a62_258"></a>[[LU 117:5.13](/fr/The_Urantia_Book/117#p5_13)]
 
-> _La consécration aimante de la volonté humaine à l’exécution de la volonté du Père est le don le plus précieux de l’homme à Dieu. En fait, une telle consécration de la volonté de la créature constitue le seul don réellement valable qu’il soit possible à l’homme de faire au Père du Paradis . . . Il n’y a rien que l’homme puisse donner à Dieu, excepté ce choix de se conformer à la volonté du Père._ <a id="a63_335"></a>[[LU 1:1.2](/fr/The_Urantia_Book/1#p1_2)]
+> _La consécration aimante de la volonté humaine à l’exécution de la volonté du Père est le don le plus précieux de l’homme à Dieu. En fait, une telle consécration de la volonté de la créature constitue le seul don réellement valable qu’il soit possible à l’homme de faire au Père du Paradis . . . Il n’y a rien que l’homme puisse donner à Dieu, excepté ce choix de se conformer à la volonté du Père._ <a id="a64_402"></a>[[LU 1:1.2](/fr/The_Urantia_Book/1#p1_2)]
 
 Et pour tous ceux qui se demandent ce que signifie réellement « faire la volonté du Père ».
 
-> _En faisant la volonté de Dieu, une créature ne fait rien de plus ni de moins que de montrer son bon vouloir pour partager sa vie intérieure avec Dieu…_ <a id="a67_134"></a>[[LU 115:5.1](/fr/The_Urantia_Book/115#p5_1)]
+> _En faisant la volonté de Dieu, une créature ne fait rien de plus ni de moins que de montrer son bon vouloir pour partager sa vie intérieure avec Dieu…_ <a id="a68_155"></a>[[LU 115:5.1](/fr/The_Urantia_Book/115#p5_1)]
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Journal/carlos9.jpg">
@@ -59,29 +83,29 @@ La capacité à se détendre est à mon avis un aspect très important de tout c
 
 Alors, une fois que nous sommes suffisamment détendus, comment pouvons-nous orienter nos pensées pour les conduire vers les compartiments supérieurs de notre esprit ? Pourquoi ne pas commencer par réfléchir à quelques vérités fondamentales sur le Père céleste ?
 
-> _Dieu est amour_. <a id="a84_17"></a>[[LU 2:5.1](/fr/The_Urantia_Book/2#p5_1)]
+> _Dieu est amour_. <a id="a85_20"></a>[[LU 2:5.1](/fr/The_Urantia_Book/2#p5_1)]
 
-> _… l’amour est la caractéristique dominante de toutes les relations personnelles de Dieu avec ses créatures._ <a id="a86_93"></a>[[LU 2:5.12](/fr/The_Urantia_Book/2#p5_12)]
+> _… l’amour est la caractéristique dominante de toutes les relations personnelles de Dieu avec ses créatures._ <a id="a87_112"></a>[[LU 2:5.12](/fr/The_Urantia_Book/2#p5_12)]
 
-> _L’amour est le désir de faire du bien aux autres._ <a id="a88_45"></a>[[LU 56:10.21](/fr/The_Urantia_Book/56#p10_21)]
+> _L’amour est le désir de faire du bien aux autres._ <a id="a89_54"></a>[[LU 56:10.21](/fr/The_Urantia_Book/56#p10_21)]
 
 Certains conseils pour que le culte soit efficace pour nous peuvent être trouvés dans des déclarations comme celle-ci :
 
-> _… Nous adorons Dieu simplement à cause de notre conception de ce qu’il est… Nous lui rendons cette dévotion et nous nous engageons dans cette adoration par une réaction naturelle et spontanée, en reconnaissant la personnalité incomparable du Père, et à cause de sa nature digne d’être aimée et de ses attributs adorables._ <a id="a92_268"></a>[[LU 5:3.3](/fr/The_Urantia_Book/5#p3_3)]
+> _… Nous adorons Dieu simplement à cause de notre conception de ce qu’il est… Nous lui rendons cette dévotion et nous nous engageons dans cette adoration par une réaction naturelle et spontanée, en reconnaissant la personnalité incomparable du Père, et à cause de sa nature digne d’être aimée et de ses attributs adorables._ <a id="a93_326"></a>[[LU 5:3.3](/fr/The_Urantia_Book/5#p3_3)]
 
 Quel cadre devrions-nous donc utiliser pendant nos méditations ou nos séances de culte pour réfléchir à la « nature aimable » et aux « attributs adorables » du Père ? Voici quelques pistes supplémentaires : 
 
-> _… de toutes les révélations de la nature divine, on trouve la plus illuminante et la plus spirituellement édifiante en comprenant la vie religieuse de Jésus de Nazareth . . . Si l’on prend pour arrière-plan de la révélation de Dieu à l’homme la vie incarnée de Micaël, on peut essayer de formuler en symboles verbaux humains certaines idées et certains idéaux concernant la nature divine qui pourraient contribuer à éclairer davantage et à unifier le concept humain de la nature et du caractère de la personnalité du Père Universel._ <a id="a96_535"></a>[[LU 2:0.2](/fr/The_Urantia_Book/2#p0_2) ]
+> _… de toutes les révélations de la nature divine, on trouve la plus illuminante et la plus spirituellement édifiante en comprenant la vie religieuse de Jésus de Nazareth . . . Si l’on prend pour arrière-plan de la révélation de Dieu à l’homme la vie incarnée de Micaël, on peut essayer de formuler en symboles verbaux humains certaines idées et certains idéaux concernant la nature divine qui pourraient contribuer à éclairer davantage et à unifier le concept humain de la nature et du caractère de la personnalité du Père Universel._ <a id="a97_537"></a>[[LU 2:0.2](/fr/The_Urantia_Book/2#p0_2) ]
 
-> _… c’est dans la vie d’effusion de son Fils Micaël, dans la vie spirituelle idéale qu’il a vécue sur terre, que vous verrez la plus grande révélation de l’amour du Père._ <a id="a98_147"></a>[[LU 2:5.10](/fr/The_Urantia_Book/2#p5_10)]
+> _… c’est dans la vie d’effusion de son Fils Micaël, dans la vie spirituelle idéale qu’il a vécue sur terre, que vous verrez la plus grande révélation de l’amour du Père._ <a id="a99_173"></a>[[LU 2:5.10](/fr/The_Urantia_Book/2#p5_10)]
 
-> _… Lorsque vous méditez sur la nature aimante de Dieu, il n’y a qu’une seule réaction de personnalité raisonnable et naturelle : vous aimerez votre Auteur de plus en plus. Vous rendrez à Dieu une affection analogue à celle qu’un enfant donne à un parent terrestre. En effet, de même qu’un père, un père réel, un vrai père, aime ses enfants, de même le Père Universel aime les fils et filles qu’il a créés et cherche perpétuellement leur bien-être._ <a id="a100_409"></a>[[LU 2:5.9](/fr/The_Urantia_Book/2#p5_9)]
+> _… Lorsque vous méditez sur la nature aimante de Dieu, il n’y a qu’une seule réaction de personnalité raisonnable et naturelle : vous aimerez votre Auteur de plus en plus. Vous rendrez à Dieu une affection analogue à celle qu’un enfant donne à un parent terrestre. En effet, de même qu’un père, un père réel, un vrai père, aime ses enfants, de même le Père Universel aime les fils et filles qu’il a créés et cherche perpétuellement leur bien-être._ <a id="a101_451"></a>[[LU 2:5.9](/fr/The_Urantia_Book/2#p5_9)]
 
-> _… L’expérience d’aimer est dans une grande mesure une réponse directe à l’expérience d’être aimé._ <a id="a102_94"></a>[[LU 2:5.8](/fr/The_Urantia_Book/2#p5_8)]
+> _… L’expérience d’aimer est dans une grande mesure une réponse directe à l’expérience d’être aimé._ <a id="a103_102"></a>[[LU 2:5.8](/fr/The_Urantia_Book/2#p5_8)]
 
 Et qu’en est-il du service ? Cette citation dit à peu près tout :
 
-> _Tout véritable amour vient de Dieu, et l’homme reçoit l’affection divine dans la mesure où lui-même effuse cet amour sur ses compagnons. L’amour est dynamique. On ne peut jamais le capturer ; il est vivant, libre, passionnant et toujours en mouvement. L’homme ne peut jamais saisir l’amour du Père pour l’emprisonner dans son cœur. L’amour du Père ne peut devenir réel pour l’homme mortel qu’en passant par sa personnalité, alors qu’à son tour lui-même effuse cet amour sur ses compagnons._ <a id="a106_432"></a>[[LU 117:6.10](/fr/The_Urantia_Book/117#p6_10)]
+> _Tout véritable amour vient de Dieu, et l’homme reçoit l’affection divine dans la mesure où lui-même effuse cet amour sur ses compagnons. L’amour est dynamique. On ne peut jamais le capturer ; il est vivant, libre, passionnant et toujours en mouvement. L’homme ne peut jamais saisir l’amour du Père pour l’emprisonner dans son cœur. L’amour du Père ne peut devenir réel pour l’homme mortel qu’en passant par sa personnalité, alors qu’à son tour lui-même effuse cet amour sur ses compagnons._ <a id="a107_494"></a>[[LU 117:6.10](/fr/The_Urantia_Book/117#p6_10)]
 
 Un texte assez puissant – _L’amour du Père ne peut devenir **réel** pour l’homme mortel **qu’en** passant par la personnalité de cet homme qui, à son tour, transmet cet amour à ses semblables_… (gras ajouté)
 
@@ -98,7 +122,7 @@ La motivation à servir se manifeste de différentes façons. Il y a l’aspect 
 Donc, si nous sommes si motivés pour répandre cet amour à notre prochain – pour donner quelque chose en retour dans un service d’amour désintéressé, comment nous organiser pour nous rassembler et être efficaces dans ce domaine et faire du service, le centre de nos vies ?
 <br style="clear:both;"/>
 
-> _La religion n’est pas une technique pour obtenir une paix mentale statique et sereine ; c’est une impulsion destinée à organiser l’âme pour un service dynamique. C’est l’enrôlement de la totalité de l’individualité dans une allégeance pour aimer Dieu et servir les hommes._ <a id="a123_246"></a>[[LU 100:3.1](/fr/The_Urantia_Book/100#p3_1)]
+> _La religion n’est pas une technique pour obtenir une paix mentale statique et sereine ; c’est une impulsion destinée à organiser l’âme pour un service dynamique. C’est l’enrôlement de la totalité de l’individualité dans une allégeance pour aimer Dieu et servir les hommes._ <a id="a124_277"></a>[[LU 100:3.1](/fr/The_Urantia_Book/100#p3_1)]
 
 Je vois cette idée d’_organiser l’âme pour un service dynamique_ sous deux aspects :
 
@@ -138,3 +162,28 @@ Paix durable
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2021/?lang=fr)
 - [Cet article](https://urantia-association.org/faire-du-culte-et-du-service-le-centre-de-notre-vie/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Christopher_Ross/no_appointments_no_disappointments">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pas de Rendez-vous, Pas de Déception</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Wood/preparing_for_spontaneity">
+          <span class="pr-2">Se préparer à la spontanéité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

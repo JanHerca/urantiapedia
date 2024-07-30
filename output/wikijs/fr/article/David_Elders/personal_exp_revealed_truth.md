@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 David Elders<br>© 2018 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/purpose_5th_epochal_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Objectif de la Cinquième Révélation d’Époque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Linthicum/eyedropper_spoon_shovel_2">
+          <span class="pr-2">Le Compte-goutte, la Cuillère et la Pelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Notre pédagogie de l’École Internet du Livre d’Urantia
@@ -25,13 +49,13 @@ Je ferai l’observation  que c’est la nature combinée de la révélation et 
 
 Tandis que nous tenons tendrement dans nos mains _Le Livre d’Urantia,_ n’avons-nous jamais été tentés de nous demander à quoi pourrait ressembler et comment résonnerait la réponse évolutionnaire à la nouvelle révélation aujourd’hui ?
 
-C’est un exercice utile pour nous aider à faire la distinction entre la vérité nouvellement révélée et les croyances acquises au fil des siècles qui sous-tendent maintenant les religions évolutionnaires d’autorité. Alors que vous commencez à examiner cela, vous pourriez trouver déstabilisant de savoir qu’_une nouvelle révélation est toujours contaminée par les anciennes croyances évolutionnaires_. <a id="a48_509"></a>[[LU 93:7.4](/fr/The_Urantia_Book/93#p7_4)] Pourquoi en est-il ainsi ? Peut-être parce que les techniques d’éducation évolutionnaires et les religions d’autorité étaient conçues pour enseigner et interpréter ce qui est déjà connu et cru, y compris des vérités déjà révélées. Seule la révélation peut enseigner de nouvelles vérités encore inconnues et que l’on n’a ni expérimentées ni perçues. Néanmoins il vaut mieux connaître le risque de contamination que de nous tromper en pensant que ce que nous considérons être la signification supérieure d’une vérité nouvellement révélée n’est peut-être rien de plus qu’une projection de ce que nous savons et croyons déjà. Vers la fin des jours de l’effusion de notre Fils créateur sur notre planète il y a environ 2 000 ans, Jésus a recommandé à ses Apôtres de _se méfier du soutien de la  multitude_ qui venait voir  le Maître et écouter ses paroles. Un jour de repos au camp, il leur a dit ceci :
+C’est un exercice utile pour nous aider à faire la distinction entre la vérité nouvellement révélée et les croyances acquises au fil des siècles qui sous-tendent maintenant les religions évolutionnaires d’autorité. Alors que vous commencez à examiner cela, vous pourriez trouver déstabilisant de savoir qu’_une nouvelle révélation est toujours contaminée par les anciennes croyances évolutionnaires_. <a id="a51_401"></a>[[LU 93:7.4](/fr/The_Urantia_Book/93#p7_4)] Pourquoi en est-il ainsi ? Peut-être parce que les techniques d’éducation évolutionnaires et les religions d’autorité étaient conçues pour enseigner et interpréter ce qui est déjà connu et cru, y compris des vérités déjà révélées. Seule la révélation peut enseigner de nouvelles vérités encore inconnues et que l’on n’a ni expérimentées ni perçues. Néanmoins il vaut mieux connaître le risque de contamination que de nous tromper en pensant que ce que nous considérons être la signification supérieure d’une vérité nouvellement révélée n’est peut-être rien de plus qu’une projection de ce que nous savons et croyons déjà. Vers la fin des jours de l’effusion de notre Fils créateur sur notre planète il y a environ 2 000 ans, Jésus a recommandé à ses Apôtres de _se méfier du soutien de la  multitude_ qui venait voir  le Maître et écouter ses paroles. Un jour de repos au camp, il leur a dit ceci :
 
-> _ Il ne faut donc pas vous laisser tromper par les grandes foules qui nous ont entendus au temple et qui semblaient croire à nos enseignements. Ces multitudes écoutent la vérité et leur mental y croit superficiellement, mais peu d’entre eux laissent la parole de vérité s’incruster dans leur cœur avec des racines vivantes. Ceux qui ne connaissent l’évangile que dans leur mental et qui ne l’ont pas expérimenté dans leur cœur ne peuvent être fiables lorsque les troubles réels surviennent._  <a id="a52_471"></a>[[LU 177:5.2](/fr/The_Urantia_Book/177#p5_2)]
+> _ Il ne faut donc pas vous laisser tromper par les grandes foules qui nous ont entendus au temple et qui semblaient croire à nos enseignements. Ces multitudes écoutent la vérité et leur mental y croit superficiellement, mais peu d’entre eux laissent la parole de vérité s’incruster dans leur cœur avec des racines vivantes. Ceux qui ne connaissent l’évangile que dans leur mental et qui ne l’ont pas expérimenté dans leur cœur ne peuvent être fiables lorsque les troubles réels surviennent._  <a id="a53_495"></a>[[LU 177:5.2](/fr/The_Urantia_Book/177#p5_2)]
 
 Alors, en nous attelant à expérimenter, percevoir, comprendre dans nos cœurs  et appliquer réellement dans nos vies  les vérités nouvellement révélées offertes par les révélateurs dans _Le Livre d’Urantia_, nous ferions bien de choisir les technologies les plus efficaces, données par la révélation elle-même, pour faciliter notre rencontre avec la vérité vivante. Il y a encore une question qui se cache derrière nos choix. La citation 16 de la mota nous alerte sur le fait apparemment contre-intuitif que _la vérité doit être expérimentée AVANT de pouvoir être perçue_. De plus, si l’expérience et la perception de la vérité vivante est ensuite influencée encore par la personnalité unique de chaque enfant de Dieu, peut-elle être réellement ‘enseignée’ par les techniques d’éducation plus anciennes et souvent interprétatives des religions d’autorité ? Voici un indice, par un Melchizédek, qui lance un défi :
 
-> _La religion évolutionnaire est sentimentale, mais non logique. Elle est la réaction des hommes envers la croyance à un monde hypothétique d’esprits-fantômes – le réflexe humain de croyance excité par la réalisation et la peur de l’inconnu. La religion révélée est proposée par le vrai monde spirituel ; elle est la réponse du cosmos superintellectuel à la soif qu’ont les mortels de croire aux Déités universelles et de dépendre d’elles. La religion évolutionnaire décrit les tâtonnements de l’humanité qui tourne en rond à la recherche de la vérité ; la religion révélée est cette vérité même._ <a id="a56_516"></a>[[LU 92:4.3](/fr/The_Urantia_Book/92#p4_3)]
+> _La religion évolutionnaire est sentimentale, mais non logique. Elle est la réaction des hommes envers la croyance à un monde hypothétique d’esprits-fantômes – le réflexe humain de croyance excité par la réalisation et la peur de l’inconnu. La religion révélée est proposée par le vrai monde spirituel ; elle est la réponse du cosmos superintellectuel à la soif qu’ont les mortels de croire aux Déités universelles et de dépendre d’elles. La religion évolutionnaire décrit les tâtonnements de l’humanité qui tourne en rond à la recherche de la vérité ; la religion révélée est cette vérité même._ <a id="a57_599"></a>[[LU 92:4.3](/fr/The_Urantia_Book/92#p4_3)]
 
 Il y a beaucoup à déballer dans ce petit morceau de révélation, mais cela vaut la peine, pour chaque chercheur de vérité, de réfléchir à sa signification. Pour le moment, juste quelques points à observer. Le premier est l’origine de la religion évolutionnaire par rapport à la religion révélée (à la fois personnelle et d’époque) : la religion évolutionnaire est une _RÉACTION à la croyance en un hypothétique monde d’esprits-fantômes._ La religion révélée est _PROPOSÉE par le monde spirituel réel,_ en réponse à notre _faim de mortels…_ de dépendre des Déités universelles.
 
@@ -39,7 +63,7 @@ _Alors que la religion évolutionnaire dépeint le circuit de  tâtonnements de 
 
 Il y a un autre sujet à considérer aussi. À quel point est-ce que nous contaminons la vérité révélée par la tendance, qui ‘est pas surprenante, à comprendre la nouvelle vérité en utilisant des méthodes évolutionnaires anciennes et confortables ; en projetant sur une telle vérité des croyances humaines existantes, même si elles sont dépassées selon la terminologie du _Livre d’Urantia,_ pour remplacer une nouvelle compréhension, surtout lorsqu’une telle vérité révélée est enracinée dans l’interprétation des autres. Trouvant du réconfort dans ce que nous savons déjà, une telle confiance parle de l’autorité théologique des religions évolutionnaires au lieu d’utiliser l’expérience et la perception directes et personnelles de la vérité révélée qui sont la marque des plans de révélation conçus pour alimenter notre croissance. Tout comme du rouge à lèvres sur un cochon n’altère pas les caractéristiques animales sous-jacentes, si nous employons des techniques évolutionnaires et recherchons la récognition de l’éducation et de la religion qui fait autorité, pour valider la vérité nouvellement révélée, cela ne dissimulera pas réellement les vieilles outres à vin évolutionnaires dans lesquelles nous avons choisi de mettre le vin nouveau, pour rendre plus facile de le partager ostensiblement avec d’ autres. Mais un tel profond changement de conscience n’es pas toujours si facile à accomplir ; comme on nous dit,
 
-> _Il faut du courage pour pénétrer de nouveaux plans d’expérience et pour tenter l’exploration des domaines inconnus de la vie intellectuelle._  <a id="a62_135"></a>[[LU 101:7.2](/fr/The_Urantia_Book/101#p7_2)]
+> _Il faut du courage pour pénétrer de nouveaux plans d’expérience et pour tenter l’exploration des domaines inconnus de la vie intellectuelle._  <a id="a65_146"></a>[[LU 101:7.2](/fr/The_Urantia_Book/101#p7_2)]
 
 ## L’École Internet du Livre d’Urantia (UBIS) – _Une Rencontre avec la Vérité Révélée_
 
@@ -112,7 +136,7 @@ En plus de ces cours conçus créativement pour les EF, UBIS offre un Plan de Tr
 
 ## Notre Promesse Éducative UBIS : la Vérité Découverte Personnellement
 
-> _La vérité révélée, la vérité découverte personnellement, est la suprême volupté de l’âme humaine. Elle est la création conjointe du mental matériel et de l’esprit intérieur. Le salut éternel d’une âme qui discerne la vérité et aime la beauté est assuré par cette faim et cette soif de bonté qui conduisent ce mortel à se proposer un but unique, celui de faire la volonté du Père, de trouver Dieu et de devenir semblable à lui. Il n’y a jamais de conflit entre la véritable connaissance et la vérité. Il peut y avoir conflit entre la connaissance et les croyances humaines, les croyances teintées de préjugés, déformées par la peur et dominées par la crainte d’affronter de nouveaux faits dans les découvertes matérielles ou les progrès spirituels._ <a id="a133_665"></a>[[LU 132:3.4](/fr/The_Urantia_Book/132#p3_4)]
+> _La vérité révélée, la vérité découverte personnellement, est la suprême volupté de l’âme humaine. Elle est la création conjointe du mental matériel et de l’esprit intérieur. Le salut éternel d’une âme qui discerne la vérité et aime la beauté est assuré par cette faim et cette soif de bonté qui conduisent ce mortel à se proposer un but unique, celui de faire la volonté du Père, de trouver Dieu et de devenir semblable à lui. Il n’y a jamais de conflit entre la véritable connaissance et la vérité. Il peut y avoir conflit entre la connaissance et les croyances humaines, les croyances teintées de préjugés, déformées par la peur et dominées par la crainte d’affronter de nouveaux faits dans les découvertes matérielles ou les progrès spirituels._ <a id="a138_752"></a>[[LU 132:3.4](/fr/The_Urantia_Book/132#p3_4)]
 
 ## Résumé
 
@@ -128,3 +152,28 @@ Dans un tel contexte, UBIS a été conçue pour utiliser une pédagogie et une m
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2018/?lang=fr)
 - [Cet article](https://urantia-association.org/lexperience-personnelle-de-la-verite-revelee/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/purpose_5th_epochal_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Objectif de la Cinquième Révélation d’Époque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Linthicum/eyedropper_spoon_shovel_2">
+          <span class="pr-2">Le Compte-goutte, la Cuillère et la Pelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

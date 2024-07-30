@@ -102,7 +102,7 @@ Comité de Finanzas: John Lange, Presidente; Larry Geis, Secretario; Dale Sztejn
 <figcaption>Mural migratorio, de Inkdwell Studio. Foto de Chuck Thurston</figcaption>
 </figure>
 
-> Vivimos en Dios y Dios habita en nosotros. (<a id="a83_46"></a>[LU 131:10.4](/es/The_Urantia_Book/131#p10_4))
+> Vivimos en Dios y Dios habita en nosotros. (<a id="a104_46"></a>[LU 131:10.4](/es/The_Urantia_Book/131#p10_4))
 
 
 

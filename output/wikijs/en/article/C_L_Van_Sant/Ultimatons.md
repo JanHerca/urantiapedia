@@ -41,7 +41,7 @@ One of the most difficult sections of _The URANTIA Book_ is Paper 42: Energy-Min
 
 It is not the content that is difficult but the form, for it is not a scholarly discourse which proves itself through logic, but a mosaic designed to conceal as much as to demonstrate. (It seems that everything good, from the central universe down to Eden, has a wall around it.)
 
-The first and perhaps the most instructive statement on subatomic structure in the paper is that energy (matter) is _... fashioned after the similitude of the three Gods embraced in one, as they function at the headquarters of the universe of universes._ [UB 42:1.6](/en/The_Urantia_Book/42#p1_6). In other words, each subatomic particle, whether proton, neutron, or electron, is structured on the order of the three concentric circles.
+The first and perhaps the most instructive statement on subatomic structure in the paper is that energy (matter) is _... fashioned after the similitude of the three Gods embraced in one, as they function at the headquarters of the universe of universes._ <a id="a43_255"></a>[UB 42:1.6](/en/The_Urantia_Book/42#p1_6). In other words, each subatomic particle, whether proton, neutron, or electron, is structured on the order of the three concentric circles.
 
 The second rather astounding statement in the Paper is that the ultimaton is the one hundredth part of the electron. If the electron is composed of 100 ultimatons, organized on the order of the three concentric circles, in what way are they distributed? How many rings are there, and how many ultimatons are to be found in each ring?
 
@@ -60,13 +60,13 @@ The relative masses are about right: truth—400 MeV, beauty—300, charm—200,
 
 The diversity of quark mass is another problem for physicists, yet solved for _URANTIA Book_ readers. Physicists are looking for three or four elementary particles, so they are disconcerted when experiment comes up with a hundred. This has been the most significant problem for particle physics, and the reason for introducing the concept of quarks in the first place.
 
-The fact that science's quarks are actually composites, not single particles, solves the biggest puzzle after-quark mass, the elusiveness of the truth, or top quark. _The loss of one or more ultimatons destroys typical electronic identity..._ [UB 42:6.5](/en/The_Urantia_Book/42#p6_5). Since the truth-ultimatons are on the outer rings, they are always dispersed in an accelerator, while the inner rings of huddling charm ultimatons often lose their identity as individual particles, and since these clusters of ultimatons are torn apart in a ragged manner, scientists receive various results in the experimental masses of these aggregations.
+The fact that science's quarks are actually composites, not single particles, solves the biggest puzzle after-quark mass, the elusiveness of the truth, or top quark. _The loss of one or more ultimatons destroys typical electronic identity..._ <a id="a62_243"></a>[UB 42:6.5](/en/The_Urantia_Book/42#p6_5). Since the truth-ultimatons are on the outer rings, they are always dispersed in an accelerator, while the inner rings of huddling charm ultimatons often lose their identity as individual particles, and since these clusters of ultimatons are torn apart in a ragged manner, scientists receive various results in the experimental masses of these aggregations.
 
 To return to the matter of the three subatomic particles—neutron, proton, and electron—remember, _The URANTIA Book_ declares that all of these three have the same structure. Each is composed of a hundred particles that have the mass of one hundredth of its parent particle.
 
-Clear, too, is the fact that each of the particles making up an electron has a mass of 0.005 MeV (one hundredth of the electron), and that it must be the uncharged particle that in its free state is _not responsive to linear gravity_. [UB 12:6.5](/en/The_Urantia_Book/12#p6_5). Physicists call it “not interacting with everyday matter.” Obviously the book is talking about the neutrino.
+Clear, too, is the fact that each of the particles making up an electron has a mass of 0.005 MeV (one hundredth of the electron), and that it must be the uncharged particle that in its free state is _not responsive to linear gravity_. <a id="a66_235"></a>[UB 12:6.5](/en/The_Urantia_Book/12#p6_5). Physicists call it “not interacting with everyday matter.” Obviously the book is talking about the neutrino.
 
-But if each subatomic particle has this same structure ([UB 42:1.7](/en/The_Urantia_Book/42#p1_7)), then each proton has 100 ultimatons that are 1 / 100 of its mass: 938 / 100 MeV = 9.38 MeV, and each neutron has 100 ultimatons that are 1 / 100 of its mass: 940 / 100 = 9.40 MeV. (See figure 2.)
+But if each subatomic particle has this same structure (<a id="a68_56"></a>[UB 42:1.7](/en/The_Urantia_Book/42#p1_7)), then each proton has 100 ultimatons that are 1 / 100 of its mass: 938 / 100 MeV = 9.38 MeV, and each neutron has 100 ultimatons that are 1 / 100 of its mass: 940 / 100 = 9.40 MeV. (See figure 2.)
 
 <br style="clear:both;"/>
 

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Bhagavan S. Buritz<br>© 2000 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/The_Urantia_Book_and_Human_Sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia et les sources humaines</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-juin-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Juin 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peep_Sober/News_from_Estonia_First_conference">
+          <span class="pr-2">Nouvelles d'Estonie Première conférence pour les enfants au sujet du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bhagavan S. Buritz, États-Unis
 
@@ -64,7 +88,7 @@ Ils hochèrent de la tête affirmativement.
 
 Je pouvais voir la lumière briller dans leurs yeux. Je pouvais sentir mon propre cœur s'ouvrir et mon âme grandir tandis que je mémorisais dans mon âme cette image de ma galerie personnelle de tableaux. A ce moment, je pouvais entendre la cloche d'argent de la vérité sonner dans mon cœur. Je faisais tous mes remerciements à l'Invisible Aimé qui habite en nous, et nous entend du Centre de l'Univers. Je remerciais alors comme maintenant, notre Père Invisible et le Christ Micaël.
 
-Nous connaissons les faits de tout ceci grâce au Discours d'Adieu: _Quand Jésus entendit Thomas, il répondit: «Thomas, je suis le chemin, la vérité et la vie. Nul ne va au Père que par moi. Tous cenx qui trouvent le Père, me trouvent, moi, d'abord. Or vous me connaissez, car vous avez vécu avec moi et vous me voyer maintenant. »_ [LU 180:3.7](/fr/The_Urantia_Book/180#p3_7)
+Nous connaissons les faits de tout ceci grâce au Discours d'Adieu: _Quand Jésus entendit Thomas, il répondit: «Thomas, je suis le chemin, la vérité et la vie. Nul ne va au Père que par moi. Tous cenx qui trouvent le Père, me trouvent, moi, d'abord. Or vous me connaissez, car vous avez vécu avec moi et vous me voyer maintenant. »_ <a id="a90_332"></a>[LU 180:3.7](/fr/The_Urantia_Book/180#p3_7)
 
 Nous les lecteurs du _Livre d'Urantia_ nous connaissons les faits, mais notre joie est de découvrir la vérité et de la partager.
 
@@ -91,3 +115,27 @@ A la Foire du Livre de Delhi en août 1999 nous avions discuté de la possibilit
 Nous avons commencé par une brève méditation silencieuse et puis avons plongé dans le fascicule 100 «La religion dans l'expérience humaine». Comme dans beaucoup de groupes d'étude, la discussion sauta d'un point à un autre. Il fut difficile de ramener la conversation vers son sujet initial sans être grossier. Je fus impressionné par les perles que ces nouveaux lecteurs avaient trouvé dans le livre juste en quelques jours. _Le Livre d'Urantia_ attire et plaît au mental indien et quand nous reviendrons en août, nous pourrions bien trouver quelques experts Indiens du _Livre d'Urantia_. Et nous espérons bien retourner à beaucoup de foires du livre pour arroser et fertiliser ce sol.
 
 Je ne me réjouis pas à l'idée de retourner vers la chaleur, les conditions sordides et la pollution de New Delhi en août 2000, mais je me réjouis de revoir le jardin Urantien de l'Inde. Comment les graines ont-elles poussées?
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/The_Urantia_Book_and_Human_Sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia et les sources humaines</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-juin-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Juin 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peep_Sober/News_from_Estonia_First_conference">
+          <span class="pr-2">Nouvelles d'Estonie Première conférence pour les enfants au sujet du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

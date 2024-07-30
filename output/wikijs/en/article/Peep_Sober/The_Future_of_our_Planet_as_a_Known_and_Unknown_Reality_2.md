@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Peep Sõber<br>© 1999 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Cathy_Jones/A_Visit_to_Russia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Visit to Russia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeff_Wattles/Contradictions_or_Creative_Tensions_in_UB">
+          <span class="pr-2">Contradictions or Creative Tensions in The URANTIA Book?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Peep Sõber, Talilinn, Estonia
 _The Urantia Book_ Readers' Conference in Estonia, at Karepa, 12 August 1998
@@ -25,15 +49,15 @@ Leaders of our governments dare not break the sad news to us. They know it, but 
 
 It is not my purpose to frighten you or to raise a “world improvement” campaign. I am merely informing you about this very precarious situation that we are facing. This situation may make us believe that the angels of the future, the Melchizedeks, Christ Michael, and others have a solution to the mounting crisis. I personally feel very pessimistic about mankind's abilities, on its own, to control this situation and solve it. What does _The Urantia Book_ have for us?
 
-> _From a world standpoint, overpopulation has never been a serious problem in the past, but if war is lessened and science increasingly controls human diseases, it may become a serious problem_ ***in the near future*** [my emphasis]. _At such a time the great test of the wisdom of world leadership will present itself. Will Urantia rulers have the insight and courage to foster the multiplication of the average or stabilized human being instead of the extremes of the supernormal and the enormously increasing groups of the subnormal?_ [UB 68:6.11](/en/The_Urantia_Book/68#p6_11)
+> _From a world standpoint, overpopulation has never been a serious problem in the past, but if war is lessened and science increasingly controls human diseases, it may become a serious problem_ ***in the near future*** [my emphasis]. _At such a time the great test of the wisdom of world leadership will present itself. Will Urantia rulers have the insight and courage to foster the multiplication of the average or stabilized human being instead of the extremes of the supernormal and the enormously increasing groups of the subnormal?_ <a id="a51_539"></a>[UB 68:6.11](/en/The_Urantia_Book/68#p6_11)
 
-> _You are sometimes shocked at the ravages of war, but you should recognize the necessity for producing large numbers of mortals so as to afford ample opportunity for social and moral development; with such planetary fertility there soon occurs the serious problem of overpopulation. Most of the inhabited worlds are small. Urantia is average, perhaps a trifle undersized. The optimum stabilization of national population enhances culture and prevents war. And it is a wise nation which knows when to cease growing._ [UB 81:6.12](/en/The_Urantia_Book/81#p6_12)
+> _You are sometimes shocked at the ravages of war, but you should recognize the necessity for producing large numbers of mortals so as to afford ample opportunity for social and moral development; with such planetary fertility there soon occurs the serious problem of overpopulation. Most of the inhabited worlds are small. Urantia is average, perhaps a trifle undersized. The optimum stabilization of national population enhances culture and prevents war. And it is a wise nation which knows when to cease growing._ <a id="a53_518"></a>[UB 81:6.12](/en/The_Urantia_Book/81#p6_12)
 
 It is natural that people crave a better standard of living. But a higher living standard cannot be the **only objective** of our lives.
 
-> _At first life was a struggle for existence; now, for a standard of living; next it will be for quality of thinking, the coming earthly goal of human existence_ [UB 81:6.28](/en/The_Urantia_Book/81#p6_28)
+> _At first life was a struggle for existence; now, for a standard of living; next it will be for quality of thinking, the coming earthly goal of human existence_ <a id="a57_163"></a>[UB 81:6.28](/en/The_Urantia_Book/81#p6_28)
 
-> _Mechanical inventions and the dissemination of knowledge are modifying civilization; certain economic adjustments and social changes are imperative if cultural disaster is to be avoided. This new and oncoming social order will not settle down complacently for a millennium. The human race must become reconciled to a procession of changes, adjustments, and readjustments. Mankind is on the march toward a new and unrevealed planetary destiny_ [UB 99:1.1](/en/The_Urantia_Book/99#p1_1)
+> _Mechanical inventions and the dissemination of knowledge are modifying civilization; certain economic adjustments and social changes are imperative if cultural disaster is to be avoided. This new and oncoming social order will not settle down complacently for a millennium. The human race must become reconciled to a procession of changes, adjustments, and readjustments. Mankind is on the march toward a new and unrevealed planetary destiny_ <a id="a59_446"></a>[UB 99:1.1](/en/The_Urantia_Book/99#p1_1)
 
 There is another serious danger threatening our civilisation, and that may come from space. Astronomers with their theory of probability were unable to predict well in advance that there would be a comet falling on Jupiter in 1994. Since then, astronomers have been paying much more serious attention to the dangers posed by undiscovered asteroids and comets. We know about the Asteroid 1997XF 11 which regularly tangents the earth's orbit. In 2028 this asteroid may approach the earth within the extremely narrow margin of only 48,000 km. This is the reading of the most recent calculations. The diameter of this body is a “mere” 1.5 km.
 
@@ -47,7 +71,7 @@ During the last five years astronomers have discovered 20 new comets named Centa
 
 Religious believers may assert that they trust in our loving Father's protection. We readers of _The Urantia Book_ may believe that eternal life is our spiritual insurance. But does that insurance have any bearing on our material life on this planet?
 
-> _The mortal mind can immediately think of a thousand and one things—catastrophic physical events, appalling accidents, horrific disasters, painful illnesses, and world-wide scourges—and ask whether such visitations are correlated in the unknown maneuvering of this probable functioning of the Supreme Being. Frankly, we do not know; we are not really sure. But we do observe that, as time passes, all these difficult and more or less mysterious situations always work out for the welfare and progress of the universes. It may be that the circumstances of existence and the inexplicable vicissitudes of living are all interwoven into a meaningful pattern of high value by the function of the Supreme and the overcontrol of the Trinity._ [UB 10:7.5](/en/The_Urantia_Book/10#p7_5)
+> _The mortal mind can immediately think of a thousand and one things—catastrophic physical events, appalling accidents, horrific disasters, painful illnesses, and world-wide scourges—and ask whether such visitations are correlated in the unknown maneuvering of this probable functioning of the Supreme Being. Frankly, we do not know; we are not really sure. But we do observe that, as time passes, all these difficult and more or less mysterious situations always work out for the welfare and progress of the universes. It may be that the circumstances of existence and the inexplicable vicissitudes of living are all interwoven into a meaningful pattern of high value by the function of the Supreme and the overcontrol of the Trinity._ <a id="a73_738"></a>[UB 10:7.5](/en/The_Urantia_Book/10#p7_5)
 
 Readers of _The Urantia Book_ have no reason to believe that life on earth will come to an end in some kind of a cataclysm. On the other hand, our progress on Urantia has never been linear. Many crises and **sudden** changes have been witnessed. As I said earlier, a **suddenly** discovered dangerous asteroid may fall on the earth within 25 to 50 days of its discovery. We know that a recent more extensive cosmic catastrophe happened in 1908 in Siberia near Tunguska. The astronomers of those days were unable to predict it.
 
@@ -69,7 +93,7 @@ Quatrain II 41 can also be interesting to us: “The great star will burn for se
 
 Today it is obvious that the starting point of our traditional time reckoning (A.D.) is wrong. But perhaps we should count the millennia starting, not from the birth of Jesus, but rather from his baptism (or from the bestowal of the Spirit of Truth). If we do so, the second millennium would be a thing of the past in A.D. 2026 or respectively in 2030. That is extremely important if we read in _The Urantia Book_ the following paragraph:
 
-> _From time to time, on motion of the planetary authorities or the system rulers, special resurrections of the sleeping survivors are conducted. Such resurrections occur at least every millennium of planetary time, when not all but “many of those who sleep in the dust awake.” These special resurrections are the occasion for mobilizing special groups of ascenders for specific service in the local universe plan of mortal ascension. There are both practical reasons and sentimental associations connected with these special resurrections._ [UB 49:6.2](/en/The_Urantia_Book/49#p6_2)
+> _From time to time, on motion of the planetary authorities or the system rulers, special resurrections of the sleeping survivors are conducted. Such resurrections occur at least every millennium of planetary time, when not all but “many of those who sleep in the dust awake.” These special resurrections are the occasion for mobilizing special groups of ascenders for specific service in the local universe plan of mortal ascension. There are both practical reasons and sentimental associations connected with these special resurrections._ <a id="a95_542"></a>[UB 49:6.2](/en/The_Urantia_Book/49#p6_2)
 
 We may detect references to some kind of a cosmic event “in the end of time” also in the writings of the prophets Daniel and Ezekiel, and in the Apocalypse.
 
@@ -89,11 +113,11 @@ To speak about potential catastrophes is not popular. But to go on believing in 
 
 Readers of _The Urantia Book_ may find it fascinating to learn that an 11th-century Irish prophet, Saint Malachy O'Morgair, was in the possession of a list of all future Popes. According to his list, there will be only two more Popes. After them, a Judgment Day will dawn, said he. It is probable that this means a new dispensational adjudication.
 
-_The Urantia Book_ says: _There has never been a magisterial mission on your world ..._ [UB 49:5.26](/en/The_Urantia_Book/49#p5_26) This anomaly is perhaps due to Caligastia's joining the Lucifer rebellion, and Adam and Eve's default. Divine mercy is conditioned by divine righteousness. Does this actually mean that people will be judged as righteous and unrighteous, as those who are saved and as those who are not? — This is a crucial question.
+_The Urantia Book_ says: _There has never been a magisterial mission on your world ..._ <a id="a115_88"></a>[UB 49:5.26](/en/The_Urantia_Book/49#p5_26) This anomaly is perhaps due to Caligastia's joining the Lucifer rebellion, and Adam and Eve's default. Divine mercy is conditioned by divine righteousness. Does this actually mean that people will be judged as righteous and unrighteous, as those who are saved and as those who are not? — This is a crucial question.
 
 ## Part III: The Law of Seven
 
-> _The more truth you know, the more truth you are, the more of the past you can understand and of the future you can comprehend._ [UB 118:3.2](/en/The_Urantia_Book/118#p3_2)
+> _The more truth you know, the more truth you are, the more of the past you can understand and of the future you can comprehend._ <a id="a119_131"></a>[UB 118:3.2](/en/The_Urantia_Book/118#p3_2)
 
 Is it possible for us to comprehend the laws of human evolution — what it was, what it is, and what it will be? Do we have the adequate tools for that? Our words and concepts should be abstract, universal, and comprehensive enough.
 
@@ -188,3 +212,27 @@ Now my discourse has come to the end of stage number one. It is time to move on 
 - Mann, A. (1992). _Millennium Prophecies. Predictions for the Year 2000_. New York: Element Books.
 
 - Veskimäe, R. (Ed.) (1997). _Universum_. Tallinn.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Cathy_Jones/A_Visit_to_Russia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Visit to Russia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeff_Wattles/Contradictions_or_Creative_Tensions_in_UB">
+          <span class="pr-2">Contradictions or Creative Tensions in The URANTIA Book?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

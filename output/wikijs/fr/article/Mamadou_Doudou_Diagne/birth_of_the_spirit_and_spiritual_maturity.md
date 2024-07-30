@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Mamadou Doudou Diagne<br>© 2023 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Zshonette_Reed/the_ideological_struggle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La lutte idéologique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Christopher_Ross/my_lord_and_my_god">
+          <span class="pr-2">La prochaine vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left" alt="StockSnap">
@@ -58,3 +82,28 @@ Alors que la naissance biologique humaine se fait sans notre volonté, celle de 
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2023/?lang=fr)
 - [Cet article](https://urantia-association.org/naissance-desprit-et-maturite-spirituelle/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Zshonette_Reed/the_ideological_struggle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La lutte idéologique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Christopher_Ross/my_lord_and_my_god">
+          <span class="pr-2">La prochaine vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

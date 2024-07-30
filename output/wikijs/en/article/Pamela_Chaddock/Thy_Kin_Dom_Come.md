@@ -37,7 +37,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 _by Pamela Chaddock_
 
-Christianity has indeed done a great service for this world, but what is now most needed is Jesus . . . living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men (<a id="a18_213"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)).
+Christianity has indeed done a great service for this world, but what is now most needed is Jesus . . . living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men (<a id="a39_213"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)).
 
 Today we find the Spirit of Truth engaging in creative ways with courageous, insightful religionists seeking to boldly resurrect Jesus from the tomb of fossilized Christian theology. I found the following story most encouraging.
 
@@ -62,7 +62,7 @@ Diana and many other religious refugees are calling for a “new theology of Jes
 
 To those extolling a wrathful God, you'll hear philosopher, theologian, and wise court zester [Tripp Fuller](https://en.wikipedia.org/wiki/Tripp_Fuller) retort, “God must be _at least_ as nice as Jesus!” This is good theology.
 
-> Modern culture must become spiritually baptized with a new revelation of Jesus' life and illuminated with a new understanding of his gospel of eternal salvation, and when Jesus becomes thus lifted up, he will draw all men to himself (<a id="a43_236"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)).
+> Modern culture must become spiritually baptized with a new revelation of Jesus' life and illuminated with a new understanding of his gospel of eternal salvation, and when Jesus becomes thus lifted up, he will draw all men to himself (<a id="a64_236"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)).
 
 The perennial struggle to evolve is aptly captured in a galvanizing Jesus story popularized in the current crowd-funded film project, _The Chosen_. Nicodemus, High Priest Pharisee of Torah, becomes ensnared, trapped between his rigid traditional beliefs and his growing inner urge to believe in the divinity of Jesus. To his anachronistic fellows he heatedly argues, “If God did something that was different from Torah, would you try to squeeze him back into that box?”
 
@@ -70,7 +70,7 @@ So, if you plan to follow God, the series provokes, “Get used to 'different'.�
 
 Needed reformation is proceeding apace with the dismantling and disintegration of a tired ecclesial system. Prescient Christians blaze ahead championing the rebirth of Jesus' Kingdom concept. Today we see the Kin-dom unfolding more as a living organism, a familial service-model-the invisible brotherhood Jesus proclaims.
 
-> This gospel of the kingdom is a living truth, a living revelation. This gospel must show increasing vitality and exhibit greater depth of spiritual power, new adaptation to the peculiar needs and conditions of each successive generation (<a id="a51_240"></a>[UB 178:1.15](/en/The_Urantia_Book/178#p1_15)).
+> This gospel of the kingdom is a living truth, a living revelation. This gospel must show increasing vitality and exhibit greater depth of spiritual power, new adaptation to the peculiar needs and conditions of each successive generation (<a id="a72_240"></a>[UB 178:1.15](/en/The_Urantia_Book/178#p1_15)).
 
 Present struggles persist between fundamental “exclusivist” interpretations and the more “inclusivist” pluralist leanings reflected in Jesus' generous gospel. Through it all, author-theologian Brian McLaren hails a cosmic resurrection happening. And poking through the dome is cosmic Christ Michael, Master Son of the local universe.
 

@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Merindi Swadling<br>© 2000 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Family: Birthplace of Cosmic Citizens</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Presented At The Anzura Conference, Melbourne, Australia, 1999 
 
@@ -111,12 +132,34 @@ In summary, I want to make the point that as Urantia Book readers we need to be 
 
 Of course, I would like to end with some quotes from _The Urantia Book_.This comes from Paper 84 — Marriage and Family Life —, a beautiful paper.
 
-> _Love of offspring is almost universal and is of distinct survival value. The ancients always sacrificed the mother's interests for the welfare of the child; an Eskimo mother even yet licks her baby in lieu of washing But primitive mothers only nourished and cared for their children when very young; like the animals, they discarded them as soon as they grew up. Enduring and continuous human associations have never been founded on biologic affection alone. The animals love their children; man-civilized man-loves his children's children. The higher the civilization, the greater the joy of parents in the children's advancement and success; thus the new and higher realization of name pride comes into existence._ [UB 84:7.10](/en/The_Urantia_Book/84#p7_10)
+> _Love of offspring is almost universal and is of distinct survival value. The ancients always sacrificed the mother's interests for the welfare of the child; an Eskimo mother even yet licks her baby in lieu of washing But primitive mothers only nourished and cared for their children when very young; like the animals, they discarded them as soon as they grew up. Enduring and continuous human associations have never been founded on biologic affection alone. The animals love their children; man-civilized man-loves his children's children. The higher the civilization, the greater the joy of parents in the children's advancement and success; thus the new and higher realization of name pride comes into existence._ <a id="a134_720"></a>[UB 84:7.10](/en/The_Urantia_Book/84#p7_10)
 
 And further in the same paper,
 
-> _The olden ideas of family discipline were biologic, growing out of the realization that parents were creators of the child¹s being. The advancing ideals of family life are leading to the concept that bringing a child into the world, instead of conferring certain parental rights, entails the supreme responsibility of human existence._ [UB 84:7.25](/en/The_Urantia_Book/84#p7_25)
+> _The olden ideas of family discipline were biologic, growing out of the realization that parents were creators of the child¹s being. The advancing ideals of family life are leading to the concept that bringing a child into the world, instead of conferring certain parental rights, entails the supreme responsibility of human existence._ <a id="a138_339"></a>[UB 84:7.25](/en/The_Urantia_Book/84#p7_25)
 
-_Civilization regards the parents as assuming all duties, the child as having all the rights. Respect of the child for his parents arises, not in knowledge of the obligation implied in parental procreation, but naturally grows as a result of the care, training, and affection which are lovingly displayed in assisting the child to win the battle of life. The true parent is engaged in a continuous service-ministry which the wise child comes to recognize and appreciate._ [UB 84:7.26](/en/The_Urantia_Book/84#p7_26)
+_Civilization regards the parents as assuming all duties, the child as having all the rights. Respect of the child for his parents arises, not in knowledge of the obligation implied in parental procreation, but naturally grows as a result of the care, training, and affection which are lovingly displayed in assisting the child to win the battle of life. The true parent is engaged in a continuous service-ministry which the wise child comes to recognize and appreciate._ <a id="a140_472"></a>[UB 84:7.26](/en/The_Urantia_Book/84#p7_26)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Family: Birthplace of Cosmic Citizens</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Merindi Swadling<br>© 2000 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La familia —lugar de nacimiento de los ciudadanos del cosmos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Presented At The Anzura Conference, Melbourne, Australia, 1999 
 
@@ -125,3 +146,25 @@ Y a continuación en el mismo capítulo:
 _La civilización considera que los padres se bacen cargo de todos los deberes mientras que el hijo tiene todos los derechos. El respeto del hijo por sus padres surge, no del conocimiento de la obligación implícita en la procreación, sino naturalmente del resultado del cuidado, adiestramiento y afecto otorgados con amor por los progenitores al ayudar al hijo a ganar la batalla de la vida. El verdadero padre cumple un continuo servicio-ministerio que el bijo sabio llega a reconocer y apreciar._ [UB 84:7.26](/en/The_Urantia_Book/84#p7_26)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La familia —lugar de nacimiento de los ciudadanos del cosmos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

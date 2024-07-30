@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Kathleen Swadling<br>© 2000 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Phil_Taylor/Jesus_Teachings_of_the_Kingdom_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus' Teachings of the Kingdom of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Moustapha_NDiaye/The_Spirit_of_Truth_Guardian_Angels_and_Other_Friends">
+          <span class="pr-2">The Spirit of Truth, Guardian Angels and Other Friends</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Kathleen_Swadling.jpg">
@@ -52,7 +76,7 @@ Time and time again I've heard many of my sincere God-seeking friends ask: “Bu
 
 Many find that they've a burning desire to do the Father's will but have no clue about how we're supposed to know what his will is for us? After all, _The Urantia Book_ tells us that much of the work of the Thought Adjusters is done while we're unconscious, for it tells us:
 
-> _But a human being would do better to err in rejecting an Adjuster's expression through believing it to be a purely human experience than to blunder into exalting a reaction of the mortal mind to the sphere of divine dignit. Remember, the influence of a Thought Adjuster is for the most part, though not wholly, a superconscious experience._ [[UB 110:5.5](/en/The_Urantia_Book/110#p5_5)]
+> _But a human being would do better to err in rejecting an Adjuster's expression through believing it to be a purely human experience than to blunder into exalting a reaction of the mortal mind to the sphere of divine dignit. Remember, the influence of a Thought Adjuster is for the most part, though not wholly, a superconscious experience._ <a id="a78_344"></a>[[UB 110:5.5](/en/The_Urantia_Book/110#p5_5)]
 
 Passages like this make many of us, I'm sure, cautious about **presuming** to know what God's will is for us for fear of falling victim to self-delusion. After all, we know of many fanatics who justify their strange, often wicked actions by declaring that they're doing the will of God.
 
@@ -66,7 +90,7 @@ I'd sometimes think: Why can't he just emblazon his will for us in the sky in ne
 
 When I came across this passage in _The Urantia Book_ that gave me the answer to my question my mind was finally put to rest over this burning question about what the “will of God” really means.
 
-> _The doing of the will of God is notbing more or less than an exbibition of creature willingness to share the inner life with God..._ [[UB 111:5.1](/en/The_Urantia_Book/111#p5_1)]
+> _The doing of the will of God is notbing more or less than an exbibition of creature willingness to share the inner life with God..._ <a id="a92_136"></a>[[UB 111:5.1](/en/The_Urantia_Book/111#p5_1)]
 
 That statement smacked me between the eyes like a lightning bolt—better than a neon light in the sky. Its simplicity and its beauty is so like the nature and character of God which Jesus revealed to us and which is revealed throughout _The Urantia Book_.
 
@@ -112,13 +136,13 @@ Experiencing an appreciation of beauty—a revelation—gives us an uplifting se
 
 And we're told on 132:3.4:
 
-> _Revealed truth, personally discovered truth, is the supreme delight of the human soul; it is the joint creation of the material mind and the indwelling spirit. The eternal salvation of this truth-discerning and beauty-loving soul is assured by that hunger and thirst for goodness which leads this mortal to develop a singleness of purpose to do the Father's will, to find God and to become like him._ [[UB 132:3.4](/en/The_Urantia_Book/132#p3_4)]
+> _Revealed truth, personally discovered truth, is the supreme delight of the human soul; it is the joint creation of the material mind and the indwelling spirit. The eternal salvation of this truth-discerning and beauty-loving soul is assured by that hunger and thirst for goodness which leads this mortal to develop a singleness of purpose to do the Father's will, to find God and to become like him._ <a id="a138_404"></a>[[UB 132:3.4](/en/The_Urantia_Book/132#p3_4)]
 
 So can we conjecture that those experiences we have which inspire a sense of awe and an appreciation of truth, beauty, and goodness are being experienced on the soul level—that level which is evolving and growing according to the extent we choose to concem ourselves with those meanings and values which are Godlike?
 
 Experiencing a spiritual reality lifts you to a higher state of consciousness or a place that lies too deep for words. Whatever words we may use to describe the experience, we know it brings us a peace of mind and a clarity of thought. Something of **meaning and value** has occurred. We're told on page 1219:
 
-> _In so far as man's evolving morontia soul becomes permeated by truth, beauty, and goodness as the value—realization of Godconsciousness, such a resultant being becomes indestructible. If there is no survival of eternal values in the evolving soul of man, then mortal existence is without meaning, and life itself is a tragic illusion._ [[UB 111:3.7](/en/The_Urantia_Book/111#p3_7)]
+> _In so far as man's evolving morontia soul becomes permeated by truth, beauty, and goodness as the value—realization of Godconsciousness, such a resultant being becomes indestructible. If there is no survival of eternal values in the evolving soul of man, then mortal existence is without meaning, and life itself is a tragic illusion._ <a id="a144_339"></a>[[UB 111:3.7](/en/The_Urantia_Book/111#p3_7)]
 
 A _tragic illusion_! Who among us would want to live a life of _tragic illusion_?
 
@@ -130,7 +154,7 @@ How do we struggling mortals grapple with such incredible ideals in our practica
 
 What a strange dilemma we find ourselves in most of the time: We strive for higher values and yearn for a glimpse of spiritual realities while battling most of the time with our lower, animal-origin natures. However, we can take solace in the passage in _The Urantia Book_, that deals with this great human paradox.
 
-> _Many of the temporal troubles of mortal man grow out of his twofold relation to the cosmos. Man is a part of nature—he exists in nature—and yet he is able to transcend nature. Man is finite, but he is indwelt by a spark of infinity. Such a dual situation not only provides the potential for evil but also engenders many social and moral situations fraught with much uncertainty and not a little anxiety._ [[UB 111:6.1](/en/The_Urantia_Book/111#p6_1)]
+> _Many of the temporal troubles of mortal man grow out of his twofold relation to the cosmos. Man is a part of nature—he exists in nature—and yet he is able to transcend nature. Man is finite, but he is indwelt by a spark of infinity. Such a dual situation not only provides the potential for evil but also engenders many social and moral situations fraught with much uncertainty and not a little anxiety._ <a id="a156_408"></a>[[UB 111:6.1](/en/The_Urantia_Book/111#p6_1)]
 
 _Fraught with much uncertainty and not a little anxiety_—I can relate to that. So, given the difficulties we struggle with each day, given our imperfect, lowly evolved state, how do we share our awareness of God with others and turn our inner lives inside out?
 
@@ -156,19 +180,19 @@ If our primary concem is to live in accordance with the will of God, and if we m
 
 Jesus was able to touch so many people in his everyday life because he always showed an interest in them. He would ask them questions and draw them out. I'd like to share some gems from _The Urantia Book_ about friendship to illustrate this important point:
 
-> _Isolation tends to exhaust the energy charge of the soul. Association with one's fellows is essential to the renewal of the zest for life and is indispensable to the maintenance of the courage to fight those battles consequent upon the ascent to the higher levels of human living. Friendship enhances the joys and glorifees the triumphs of life. Loving and intimate human associations tend to rob suffering of its sorrow and hardship of much of its bitterness. The presence of a friend enhances all beauty and exalts every goodness._ [[UB 160:2.8](/en/The_Urantia_Book/160#p2_8)]
+> _Isolation tends to exhaust the energy charge of the soul. Association with one's fellows is essential to the renewal of the zest for life and is indispensable to the maintenance of the courage to fight those battles consequent upon the ascent to the higher levels of human living. Friendship enhances the joys and glorifees the triumphs of life. Loving and intimate human associations tend to rob suffering of its sorrow and hardship of much of its bitterness. The presence of a friend enhances all beauty and exalts every goodness._ <a id="a182_537"></a>[[UB 160:2.8](/en/The_Urantia_Book/160#p2_8)]
 
-> _There was something gracious and inspiring about the personality of Jesus which invariably attracted young people. He always made them feel at ease in his presence. Perhaps his great secret in getting along with them consisted in the twofold fact that he was always interested in what they were doing, while be seldom offered them advice unless they asked for it._ [[UB 129:1.9](/en/The_Urantia_Book/129#p1_9)]
+> _There was something gracious and inspiring about the personality of Jesus which invariably attracted young people. He always made them feel at ease in his presence. Perhaps his great secret in getting along with them consisted in the twofold fact that he was always interested in what they were doing, while be seldom offered them advice unless they asked for it._ <a id="a184_368"></a>[[UB 129:1.9](/en/The_Urantia_Book/129#p1_9)]
 
-> _When Ganid inquired what one could do to make friends, having noticed that the majority of persons whom they chanced to meet were attracted to Jesus, his teacher said: “Become interested in your fellows; learn how to love them and watch for the opportunity to do something for them which you are sure they want done,” and then be quoted the olden Jewish proverb—“A man who would have friends must show himself friendly.”_ [[UB 130:7.2](/en/The_Urantia_Book/130#p7_2)]
+> _When Ganid inquired what one could do to make friends, having noticed that the majority of persons whom they chanced to meet were attracted to Jesus, his teacher said: “Become interested in your fellows; learn how to love them and watch for the opportunity to do something for them which you are sure they want done,” and then be quoted the olden Jewish proverb—“A man who would have friends must show himself friendly.”_ <a id="a186_425"></a>[[UB 130:7.2](/en/The_Urantia_Book/130#p7_2)]
 
 Take heed of the words from the Master himself: “_Become interested in your fellows . . ._”
 
-> _Train your memory to hold in sacred trust the strength—giving and worth—while episodes of life, which you can recall at will for your pleasure and edification. Thus build up for yourself and in yourself reserve galleries of beauty, goodness, and artistic grandeur. But the noblest of all memories are the treasured recollections of the great moments of a superb friendship._ [[UB 160:4.12](/en/The_Urantia_Book/160#p4_12)]
+> _Train your memory to hold in sacred trust the strength—giving and worth—while episodes of life, which you can recall at will for your pleasure and edification. Thus build up for yourself and in yourself reserve galleries of beauty, goodness, and artistic grandeur. But the noblest of all memories are the treasured recollections of the great moments of a superb friendship._ <a id="a190_378"></a>[[UB 160:4.12](/en/The_Urantia_Book/160#p4_12)]
 
-> _These high levels of human living are attained in the supreme love of God and in the unselfish love of man. If you love your fellow men, you must have discovered their values. Jesus loved men so much because be placed such a bigh value upon them. You can best discover values in your associates by discovering their motivation. If some one irritates you, causes feelings of resentment, you should sympathetically seek to discern his viempoint, his reasons for such objectionable conduct. If once you understand your neighbor, you will become tolerant, and this tolerance will grow into friendship and ripen into love._ [[UB 100:4.4](/en/The_Urantia_Book/100#p4_4)]
+> _These high levels of human living are attained in the supreme love of God and in the unselfish love of man. If you love your fellow men, you must have discovered their values. Jesus loved men so much because be placed such a bigh value upon them. You can best discover values in your associates by discovering their motivation. If some one irritates you, causes feelings of resentment, you should sympathetically seek to discern his viempoint, his reasons for such objectionable conduct. If once you understand your neighbor, you will become tolerant, and this tolerance will grow into friendship and ripen into love._ <a id="a192_622"></a>[[UB 100:4.4](/en/The_Urantia_Book/100#p4_4)]
 
-> _Jesus could belp men so much because be loved them so sincerely. He truly loved each man, each woman, and each child. He could be such a true friend because of his remarkable insight—he knew so fully what was in the heart and in the mind of man. He was an interested and keen observer. He was an expert in the comprebension of human need, clever in detecting human longings._ [[UB 171:7.4](/en/The_Urantia_Book/171#p7_4)]
+> _Jesus could belp men so much because be loved them so sincerely. He truly loved each man, each woman, and each child. He could be such a true friend because of his remarkable insight—he knew so fully what was in the heart and in the mind of man. He was an interested and keen observer. He was an expert in the comprebension of human need, clever in detecting human longings._ <a id="a194_379"></a>[[UB 171:7.4](/en/The_Urantia_Book/171#p7_4)]
 
 When people are so used to being lonely and isolated and overlooked and ignored-even though they may be surrounded by a multitude of their fellow human beings, and then someone comes along and takes a genuine interest in them for **who** they are, that person may be touched and may feel stimulated because someone has taken a genuine interest in him.
 
@@ -182,7 +206,7 @@ Let's say we've also found it easier to take an interest in, and to befriend our
 
 Now here's the acid test—how effective are we in **working** with those we've grown to love and admire? We're told on page 311:
 
-> _Of all the problems in the universe requiring an exercise of the consummate wisdom of experience and adaptability, ***none are more important than those arising out of the relationships and associations of intelligent beings*** [emphasis mine]. Whether in human associations of commerce and trade, friendship and marriage, or in the liaisons of the angelic hosts, there continue to arise petty frictions, minor misunderstandings too trivial even to engage the attention of conciliators but sufficiently irritating and disturbing to mar the smooth working of the universe if they were allowed to multiply and continue._ [[UB 28:5.13](/en/The_Urantia_Book/28#p5_13)]
+> _Of all the problems in the universe requiring an exercise of the consummate wisdom of experience and adaptability, ***none are more important than those arising out of the relationships and associations of intelligent beings*** [emphasis mine]. Whether in human associations of commerce and trade, friendship and marriage, or in the liaisons of the angelic hosts, there continue to arise petty frictions, minor misunderstandings too trivial even to engage the attention of conciliators but sufficiently irritating and disturbing to mar the smooth working of the universe if they were allowed to multiply and continue._ <a id="a208_622"></a>[[UB 28:5.13](/en/The_Urantia_Book/28#p5_13)]
 
 Like in marriage and family life where * we're constantly challenged with working and living with those we love most in our lives, so are we challenged when having to work and cooperate with one another in the broader community.
 
@@ -196,11 +220,11 @@ What I'm advocating here is that we shouldn't feel too smug about ourselves as f
 
 _The Urantia Book_ tells us on 28:5.14:
 
-> _One of the most important lessons to be learned during your mortal career is ***teamwork***. The spheres of perfection are manned by those who have mastered this art of working with other beings._ [[UB 28:5.14](/en/The_Urantia_Book/28#p5_14)]
+> _One of the most important lessons to be learned during your mortal career is ***teamwork***. The spheres of perfection are manned by those who have mastered this art of working with other beings._ <a id="a222_200"></a>[[UB 28:5.14](/en/The_Urantia_Book/28#p5_14)]
 
 We know from studying _The Urantia Book_ that the mastery of working with others is one of the main features of the evolutionary, finite career of us mortals.
 
-If we study the section on the Edentia Training worlds on [UB 43:7.1](/en/The_Urantia_Book/43#p7_1) of _The Urantia Book_, we see that it's going to be a long and difficult road to master teamwork and to get dignified in our socialisation. We sometimes need conflict in order to grow.
+If we study the section on the Edentia Training worlds on <a id="a226_58"></a>[UB 43:7.1](/en/The_Urantia_Book/43#p7_1) of _The Urantia Book_, we see that it's going to be a long and difficult road to master teamwork and to get dignified in our socialisation. We sometimes need conflict in order to grow.
 
 Sometimes important truths come to the surface during a conflict with someone we love. We should be careful not to get too hung up on the fact that there is conflict, and we shouldn't really worry too much about the fact that we may not deal with it very well. Rather, we should be continually working on how to deal with it better next time and helping one another learn how to get better at dealing with it.
 
@@ -212,7 +236,7 @@ Our inner lives have been so touched by the spiritual realities felt that we fee
 
 How many of us have felt the call to service by this passage on 2:7.10:
 
-> _The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing pbilosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul._ [[UB 2:7.10](/en/The_Urantia_Book/2#p7_10)]
+> _The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing pbilosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul._ <a id="a238_448"></a>[[UB 2:7.10](/en/The_Urantia_Book/2#p7_10)]
 
 We've been challenged in _The Urantia Book_ to find ways and means of disseminating the fifth epochal revelation.
 
@@ -220,7 +244,7 @@ Those of us who have chosen to work in groups or in teams must learn how to work
 
 _The Urantia Book_ gives us many lessons in working effectively together. If we, as teams of Urantia Book readers, wish to change the world by introducing the book and its teachings to mankind, we must ever be mindful of the power of intelligent teamwork, coupled with wise leadership. We're told on page 911 of _The Urantia Book_:
 
-> _In civilization much, very much, depends on an enthusiastic and effective load-pulling spirit. Ten men are of little more value than one in lifting a great load unless they lift together: all at the same moment. And such teamwork—social cooperation—is dependent on leadership._ [[UB 81:6.37](/en/The_Urantia_Book/81#p6_37)]
+> _In civilization much, very much, depends on an enthusiastic and effective load-pulling spirit. Ten men are of little more value than one in lifting a great load unless they lift together: all at the same moment. And such teamwork—social cooperation—is dependent on leadership._ <a id="a246_281"></a>[[UB 81:6.37](/en/The_Urantia_Book/81#p6_37)]
 
 The essential ingredients to effective teamwork is for the team members to agree on the goals and for each team member to recognise, adopt, and cooperate with the other team members and with the team's leaders.
 
@@ -234,23 +258,23 @@ The apostles Nathaniel and Thomas make interesting case studies in effective and
 
 > _“Nathaniel, you have learned to live above prejudice and to practice increased tolerance since you became my apostle. But there is much more for you to learn. You have been a blessing to your fellows in that they have always been admonished by your consistent sincerity. When I have gone, it may be that your frankness will interfere with your getting along well with your bretbren, both old and new. You should learn that the expression of even a good thought must be modulated in accordance with the intellectual status and spiritual development of the bearer. Sincerity is most serviceable in the work of the kingdom when it is wedded to discretion._
 > 
-> _“If you would learn to work with your brethren, you might accomplish more permanent things, . . ._ [UB 181:2.21-22](/en/The_Urantia_Book/181#p2_21)
+> _“If you would learn to work with your brethren, you might accomplish more permanent things, . . ._ <a id="a260_102"></a>[UB 181:2.21-22](/en/The_Urantia_Book/181#p2_21)
 
-Jesus also said to Nathaniel: _“If, therefore, you serve me with a whole heart, make sure that you are devoted to the welfare of my brethren on earth with tireless affection. Admix friendship with your counsel and add love to your philosophy. Serve your fellow men even as I have served you. Be faithful to men as I have watched over you. Be less critical; expect less of some men and thereby lessen the extent of your disappointment.”_ [[UB 192:2.10](/en/The_Urantia_Book/192#p2_10)]
+Jesus also said to Nathaniel: _“If, therefore, you serve me with a whole heart, make sure that you are devoted to the welfare of my brethren on earth with tireless affection. Admix friendship with your counsel and add love to your philosophy. Serve your fellow men even as I have served you. Be faithful to men as I have watched over you. Be less critical; expect less of some men and thereby lessen the extent of your disappointment.”_ <a id="a262_437"></a>[[UB 192:2.10](/en/The_Urantia_Book/192#p2_10)]
 
 Note how Jesus tells Nathaniel: _“If you would learn to work with your brethren, you might accomplish more permanent things . . ”_ and how he gave him a complete set of instructions on how to accomplish greater tolerance for his fellows.
 
-We know, however, that Nathaniel could not work with Peter and the others after Pentecost ([UB 192:4.7](/en/The_Urantia_Book/192#p4_7)) as he was opposed to the shift in the proclamation of the gospel from sonship with God and brotherhood with man, to the proclamation of the risen Christ.
+We know, however, that Nathaniel could not work with Peter and the others after Pentecost (<a id="a266_91"></a>[UB 192:4.7](/en/The_Urantia_Book/192#p4_7)) as he was opposed to the shift in the proclamation of the gospel from sonship with God and brotherhood with man, to the proclamation of the risen Christ.
 
 So although he was right in the fact, he missed the essential truth of persevering with his fellows to work for the greater cause.
 
-Nathaniel was even described as being the _odd genius of the twelve_ [[UB 139:6.4](/en/The_Urantia_Book/139#p6_4)]. If he'd had stayed and worked with the team Jesus went to such lengths to train, perhaps his greater understanding of the gospel message would have eventually had a positive impact on the direction the Christian movement was to take.
+Nathaniel was even described as being the _odd genius of the twelve_ <a id="a270_69"></a>[[UB 139:6.4](/en/The_Urantia_Book/139#p6_4)]. If he'd had stayed and worked with the team Jesus went to such lengths to train, perhaps his greater understanding of the gospel message would have eventually had a positive impact on the direction the Christian movement was to take.
 
 As it was, he went off alone into India and no doubt did good work, but how much more could he have accomplished if he had only taken heed of Jesus' preferred admonition for him.
 
 While Nathaniel had a hard time working with those who he didn't agree with, Thomas on the hand showed more tolerance. On 139:8.8 we're told:
 
-_In the councils of the twelve Thomas was always cautious, advocating a policy of safeety first, but if his conservatism was voted down or overruled, he was always the first fearlessly to move out in execution of the program decided upon. Again and again would be stand out against some project as being foolbardy and presumptuous; he would debate to the bitter end, but when Andrew would put the proposition to a vote, and after the twelve would elect to do that which he had so strenuously opposed, Thomas was the first to say, “Let's go!” He was a good loser. He did not hold grudges nor nurse wounded feelings. Time and again did he oppose letting Jesus expose himself to danger, but when the Master would decide io take such risks, always was it Thomas who rallied the apostles with his courageous words, “Come on, comrades, let's go and die with him.”_ [[UB 139:8.8](/en/The_Urantia_Book/139#p8_8)]
+_In the councils of the twelve Thomas was always cautious, advocating a policy of safeety first, but if his conservatism was voted down or overruled, he was always the first fearlessly to move out in execution of the program decided upon. Again and again would be stand out against some project as being foolbardy and presumptuous; he would debate to the bitter end, but when Andrew would put the proposition to a vote, and after the twelve would elect to do that which he had so strenuously opposed, Thomas was the first to say, “Let's go!” He was a good loser. He did not hold grudges nor nurse wounded feelings. Time and again did he oppose letting Jesus expose himself to danger, but when the Master would decide io take such risks, always was it Thomas who rallied the apostles with his courageous words, “Come on, comrades, let's go and die with him.”_ <a id="a276_859"></a>[[UB 139:8.8](/en/The_Urantia_Book/139#p8_8)]
 
 We can learn a lot from Thomas who showed an incredible willingness to go along with the program even if he didn't fully agree with the methods chosen by his leaders and fellow team players.
 
@@ -266,8 +290,32 @@ May we remain united by focusing on our common goals and settle in for the long 
 
 In closing on this topic of “Living the Will of the Father—Sharing God, the Sublime Consciousness of Knowing God,” I'd like to summarise by saying that the true value of any genuinely spiritual inner life experience is the extent we effectively share our true selves with others, the extent we genuinely love and serve our fellows and maintain that love through the storms of time. On page 1096 we read:
 
-> _Religion is not a technique for attaining a static and blissful peace of mind; it is an impulse for ***organizing the soul for dynamic service*** [emphasis mine]. It is the enlistment of the totality of selfhood in the loyal service of loving God and serving man._ [[UB 100:3.1](/en/The_Urantia_Book/100#p3_1)]
+> _Religion is not a technique for attaining a static and blissful peace of mind; it is an impulse for ***organizing the soul for dynamic service*** [emphasis mine]. It is the enlistment of the totality of selfhood in the loyal service of loving God and serving man._ <a id="a292_268"></a>[[UB 100:3.1](/en/The_Urantia_Book/100#p3_1)]
 
 When the believer is truly mobilized by the spirit power that comes as a result of the sincere consecration to the doing of the will of God, then the fruits of the spirit will truly manifest—the soul will become organized for DYNAMIC SERVICE.
 
 Thanks for your attention. God bless you all.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Phil_Taylor/Jesus_Teachings_of_the_Kingdom_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus' Teachings of the Kingdom of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Moustapha_NDiaye/The_Spirit_of_Truth_Guardian_Angels_and_Other_Friends">
+          <span class="pr-2">The Spirit of Truth, Guardian Angels and Other Friends</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

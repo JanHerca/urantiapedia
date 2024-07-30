@@ -151,7 +151,7 @@ Voyez-vous maintenant, Agnosticus, les moyens de ma foi, source de mon bonheur e
 
 Je dois finalement admettre que l’homme adore Dieu d’abord parce qu’il est grand. Au fur et à mesure que ses connaissances évoluent, il adore Dieu parce qu'il découvre une partie de Dieu en lui-même. Et enfin, il adore Dieu parce qu'il est en Dieu.
 
-(Les parties en italique de cet article sont des citations directes du _Livre d'URANTIA_ : [LU 0:3.23](/fr/The_Urantia_Book/0#p3_23); [LU 0:3.25](/fr/The_Urantia_Book/0#p3_25); [LU 3:5.5](/fr/The_Urantia_Book/3#p5_5); [LU 3:5.7](/fr/The_Urantia_Book/3#p5_7))
+(Les parties en italique de cet article sont des citations directes du _Livre d'URANTIA_ : <a id="a153_91"></a>[LU 0:3.23](/fr/The_Urantia_Book/0#p3_23); <a id="a153_134"></a>[LU 0:3.25](/fr/The_Urantia_Book/0#p3_25); <a id="a153_177"></a>[LU 3:5.5](/fr/The_Urantia_Book/3#p5_5); <a id="a153_218"></a>[LU 3:5.7](/fr/The_Urantia_Book/3#p5_7))
 
 <figure class="table chapter-navigator">
   <table>

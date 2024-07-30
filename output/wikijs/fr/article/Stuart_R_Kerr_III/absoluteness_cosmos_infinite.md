@@ -9,13 +9,37 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Stuart Kerr<br>© 2017 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stuart_R_Kerr_III/ultimacy_master_universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Ultimité du Maître Univers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stuart_R_Kerr_III/the_circle_of_eternity">
+          <span class="pr-2">Le Cercle de l’Éternité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dieu exprime sa volonté créative sur trois niveaux expérientiels différents de réalité – le niveau fini du Suprême, le niveau absonite de l’Ultime, et le niveau superultime de l’Absolu. Ces trois niveaux d’expression universelle prennent différentes formes et phases d’expression créative de la Déité. Le terme expérientiel ici désigne une réalité qui est sujette à la croissance évolutionnaire, où les réalités potentielles doivent évoluer et émerger pour devenir pleinement actualisées, et où la perfection est un but à atteindre. Expérientiel est utilisé pour distinguer ces trois niveaux subinfinis et non absolus d’expression progressive de la réalité à partir du niveau de l’éternité existentiel (immuable) et infini – le niveau absolu du Paradis. Le Paradis est le centre éternel de l’univers des univers et le lieu de résidence du Père Universel, du Fils Éternel, et de l’Esprit Infini. Les trois niveaux expérientiels de la création manifestent différents modes d’expression de la Déité paradisiaque, et chaque niveau subparadisiaque personnalise un être de la Déité d’expression divine. Ces trois personnalités dérivées de la Déité ne sont pas encore pleinement existantes ; elles sont en cours d’actualisation. Elles ont des origines, bien qu’elles soient éternelles en destinée.
 
 ## Le niveau absolu du Paradis
 
-C’est la réalité primordiale et originale et l’unité non qualifiée de l’infinité. Le Père Je Suis unit parfaitement « les divergences de toute la réalité avec une majesté existentielle qui est absolue. <a id="a40_193"></a>[[LU 106:9.1](/fr/The_Urantia_Book/106#p9_1)]. **_L’île du Paradis_** et la création de **_Havona_** qui l’entoure, constituent **_l’univers central_**  de perfection.
+C’est la réalité primordiale et originale et l’unité non qualifiée de l’infinité. Le Père Je Suis unit parfaitement « les divergences de toute la réalité avec une majesté existentielle qui est absolue. <a id="a41_202"></a>[[LU 106:9.1](/fr/The_Urantia_Book/106#p9_1)]. **_L’île du Paradis_** et la création de **_Havona_** qui l’entoure, constituent **_l’univers central_**  de perfection.
 
 ## Le niveau fini du Suprême
 
@@ -39,7 +63,7 @@ Dieu l’Absolu transcende même les valeurs superpersonnelles et les significat
 
 ## Dieu l’Absolu
 
-<a id="a64_0"></a>[[LU 0:2.18](/fr/The_Urantia_Book/0#p2_18)]
+<a id="a65_0"></a>[[LU 0:2.18](/fr/The_Urantia_Book/0#p2_18)]
 
 - Le Dieu qui expérimente des valeurs superpersonnelles transcendées et des significations de la divinité transcendées, maintenant existentiel comme Absolu de Déité.
 - Le troisième niveau expérientiel, final, d’expression et d’expansion de la déité unifiée.
@@ -59,3 +83,28 @@ Dieu l’Absolu transcende même les valeurs superpersonnelles et les significat
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2017/?lang=fr)
 - [Cet article](https://urantia-association.org/labsoluite-du-cosmos-infini/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stuart_R_Kerr_III/ultimacy_master_universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Ultimité du Maître Univers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stuart_R_Kerr_III/the_circle_of_eternity">
+          <span class="pr-2">Le Cercle de l’Éternité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

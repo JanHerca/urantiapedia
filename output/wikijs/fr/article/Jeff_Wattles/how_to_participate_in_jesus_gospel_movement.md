@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Jeffrey Wattles<br>© 2016 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Suzanne_Kelly/journal_editorial_november_2016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial del Journal – noviembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Kurtz/considerations_for_study_of_the_human_jesus">
+          <span class="pr-2">Considérations pour l’étude du Jésus humain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -46,17 +70,17 @@ Voici une méthode expérientielle pour trouver l’Esprit de Vérité.  Choisis
 
 Prenons la vérité de la paternité de Dieu. Peut-être que, quand nous lisons cela ou nous en entendons parler, la chose nous semble un peu plate. Nous l’avons entendu des millions de fois et nous sommes inoculés. Mais nous savons qu’il y a quelque chose de plus là. Jésus a dit :
 
-> _«  Le puissant Esprit de Vérité se trouve dans l’évangile du royaume,…  . »_ <a id="a70_78"></a>[[LU 178:1.6](/fr/The_Urantia_Book/178#p1_6)];
+> _«  Le puissant Esprit de Vérité se trouve dans l’évangile du royaume,…  . »_ <a id="a72_80"></a>[[LU 178:1.6](/fr/The_Urantia_Book/178#p1_6)];
 
 et il a dit que l’Esprit de Vérité est
 
-> _«   exactement semblable à moi, à l’exception de ce corps matériel. »_ <a id="a74_51"></a>[[LU 180:4.5](/fr/The_Urantia_Book/180#p4_5)]
+> _«   exactement semblable à moi, à l’exception de ce corps matériel. »_ <a id="a76_74"></a>[[LU 180:4.5](/fr/The_Urantia_Book/180#p4_5)]
 
 De sorte que nous savons qu’en creusant spirituellement nous pouvons faire une percée jusqu’à ce pouvoir et cette conviction. Commençons notre étude expérientielle.
 
 Voici une citation dont nous pouvons faire usage. Jésus dit :
 
-> _« Contentez-vous d’aller proclamer : Voici le royaume des cieux – Dieu est votre Père et vous êtes ses fils, et, si vous croyez de tout cœur à cette bonne nouvelle, elle est votre salut éternel. »_ <a id="a78_187"></a>[[LU 141:6.4](/fr/The_Urantia_Book/141#p6_4)]
+> _« Contentez-vous d’aller proclamer : Voici le royaume des cieux – Dieu est votre Père et vous êtes ses fils, et, si vous croyez de tout cœur à cette bonne nouvelle, elle est votre salut éternel. »_ <a id="a82_201"></a>[[LU 141:6.4](/fr/The_Urantia_Book/141#p6_4)]
 
 Ce n’est plus plat du tout, n’est-ce pas ?
 
@@ -64,11 +88,11 @@ Tout d’abord, si nous voulons connaître Dieu comme notre Père, nous devons n
 
 Ensuite je vais à la première leçon sur la pensée.
 
-> _« Pensez d’abord à Dieu comme à un créateur, puis comme à un contrôleur, et enfin comme à un soutien infini. »_ <a id="a86_97"></a>[[LU 1:0.1](/fr/The_Urantia_Book/1#p0_1)]
+> _« Pensez d’abord à Dieu comme à un créateur, puis comme à un contrôleur, et enfin comme à un soutien infini. »_ <a id="a90_115"></a>[[LU 1:0.1](/fr/The_Urantia_Book/1#p0_1)]
 
 Le Créateur contrôle sa création en l’ordonnant suivant les lois inhérentes de la matière, du mental et de l’esprit ; mais ce sont pas simplement des lois sur lesquelles nous pouvons nous précipiter comme sur un mur de brique, ce sont des lois de devoir et « le Père règne sur
 
-> _« un univers des univers par le pouvoir contraignant de son amour »_ <a id="a90_68"></a>[[LU 143:1.4](/fr/The_Urantia_Book/143#p1_4)]
+> _« un univers des univers par le pouvoir contraignant de son amour »_ <a id="a94_72"></a>[[LU 143:1.4](/fr/The_Urantia_Book/143#p1_4)]
 
 Notre échec pour vivre en accord avec ces lois pourraient marquer notre fin, mais l’amour et la miséricorde du  soutien infini guident  et réhabilitent les créatures imparfaites dans l’aventure éternelle.
 
@@ -76,7 +100,7 @@ En tant qu’êtres humains, nous pouvons connaître Dieu, recevoir son affectio
 
 Nous sommes alors prêts pour notre première leçon sur le sentiment.
 
-> _«Les créatures qui connaissent Dieu n’ont qu’une ambition suprême, un seul désir brulant, c’est d’être semblable dans leur propre sphère à ce qu’il est dans sa perfection paradisiaque de personnalité et dans sa sphère universelle de juste suprématie. »_ <a id="a98_252"></a>[[LU 1:0.3](/fr/The_Urantia_Book/1#p0_3)]
+> _«Les créatures qui connaissent Dieu n’ont qu’une ambition suprême, un seul désir brulant, c’est d’être semblable dans leur propre sphère à ce qu’il est dans sa perfection paradisiaque de personnalité et dans sa sphère universelle de juste suprématie. »_ <a id="a102_257"></a>[[LU 1:0.3](/fr/The_Urantia_Book/1#p0_3)]
 
 Dieu aime tout le monde. Si nous devons devenir semblable à lui, nous nous permettons d’être remplis d’une attitude d’amour sublime et ensuite nous entreprenons l’aventure évolutionnaire de nous mettre à connaître les gens et d’apprendre à les aimer.
 
@@ -84,13 +108,13 @@ Dieu aime tout le monde. Si nous devons devenir semblable à lui, nous nous perm
 
 Apprenez à bien connaître les gens, à découvrir leurs difficultés spirituelles et à les aimer. C’est là l’un des privilèges de la fraternité de l’homme. En tant que maitre enseignant, Jésus fit un superbe travail de connaissance des gens. Et il ouvre la voie à chacun d’entre nous. Si nous donnons un enseignement en réponse à une question que nos auditeurs n’ont pas posée, nous  perdons notre temps. Il nous faut savoir quelle question ils posent, qu’est-ce qui les tracasse, à quelles difficultés ils sont confrontés. Je cite :
 
-> _Et maintenant que le Maitre a personnellement quitté ce monde, il envoie à sa place l’Esprit de Vérité destiné à vivre dans l’homme et à reformuler le message de Jésus pour chaque nouvelle génération. Ainsi, chaque nouveau groupe de mortels apparaissant à la surface de la terre aura une nouvelle version mise à jour de l’évangile ; une illumination personnelle et une gouverne collective telle qu’elle se révèlera être pour l’homme une solution efficace de ses difficultés spirituelles toujours nouvelles et variées._ <a id="a106_459"></a>[[LU 194:2.1](/fr/The_Urantia_Book/194#p2_1)]
+> _Et maintenant que le Maitre a personnellement quitté ce monde, il envoie à sa place l’Esprit de Vérité destiné à vivre dans l’homme et à reformuler le message de Jésus pour chaque nouvelle génération. Ainsi, chaque nouveau groupe de mortels apparaissant à la surface de la terre aura une nouvelle version mise à jour de l’évangile ; une illumination personnelle et une gouverne collective telle qu’elle se révèlera être pour l’homme une solution efficace de ses difficultés spirituelles toujours nouvelles et variées._ <a id="a110_522"></a>[[LU 194:2.1](/fr/The_Urantia_Book/194#p2_1)]
 
 Plus notre mental et notre âme seront rempli des vérités de l’évangile aux multiples aspects, plus nous connaîtrons les individus et les groupes avec lesquels nous parlons, et plus il sera aisé pour l’Esprit de Vérité de Jésus de produire des vérités évangéliques pour les bénir.
 
 La troisième chose essentielle de cette méthode est : Effectuez une relation efficace entre les vérités évangéliques appropriées et les difficultés spirituelles des autres selon leur capacité de réceptivité. Voici la citation de Jésus :
 
-> _«… soyez toujours sages dans le choix de vos méthodes pour présenter la bonne nouvelle aux différentes races et tribus de l’humanité. »_ <a id="a112_115"></a>[[LU 191:4.4](/fr/The_Urantia_Book/191#p4_4)]
+> _«… soyez toujours sages dans le choix de vos méthodes pour présenter la bonne nouvelle aux différentes races et tribus de l’humanité. »_ <a id="a116_140"></a>[[LU 191:4.4](/fr/The_Urantia_Book/191#p4_4)]
 
 Tous les apôtres enseignaient la même vérité, mais chacun d’eux le faisait à sa manière. Trouvez votre manière, votre langage. Jésus leur dit de ne pas citer les anciens prophètes, ni d’enseigner sur lui ou sur son enseignement mais d’être des prophètes vivants.
 
@@ -100,11 +124,11 @@ Jésus, le maître enseignant, était la vérité qu’il enseignait et la faço
 
 Nous pouvons tous le faire. Je cite :
 
-> _« Bien qu’un mortel ordinaire d’Urantia ne puisse espérer atteindre la haute perfection de caractère acquise par Jésus de Nazareth durant son temps d’incarnation, il est entièrement possible à tout croyant mortel de développer une forte personnalité unifiée selon les lignes devenues parfaites de la personnalité de Jésus. Le trait exceptionnel de la personnalité du Maitre n’était pas tant sa perfection que son harmonie, son exquise unification équilibrée.»_ <a id="a122_447"></a>[[LU 100:7.1](/fr/The_Urantia_Book/100#p7_1)]
+> _« Bien qu’un mortel ordinaire d’Urantia ne puisse espérer atteindre la haute perfection de caractère acquise par Jésus de Nazareth durant son temps d’incarnation, il est entièrement possible à tout croyant mortel de développer une forte personnalité unifiée selon les lignes devenues parfaites de la personnalité de Jésus. Le trait exceptionnel de la personnalité du Maitre n’était pas tant sa perfection que son harmonie, son exquise unification équilibrée.»_ <a id="a126_464"></a>[[LU 100:7.1](/fr/The_Urantia_Book/100#p7_1)]
 
 Et aussi :
 
-> _«  Jésus était la personnalité humaine parfaitement unifiée. Et, aujourd’hui, comme autrefois en Galilée, il continue à unifier l’expérience mortelle et à coordonner les efforts humains. Il unifie la vie, ennoblit le caractère et simplifie l’expérience. Il pénètre le mental humain pour l’élever, le transformer et le transfigurer. Il est littéralement vrai que, « si un homme a le Christ Jésus en lui, il est une nouvelle créature ; les anciennes choses sont en train de passer et voici, toutes choses deviennent nouvelles »_ <a id="a126_292"></a>[[LU 100:7.18](/fr/The_Urantia_Book/100#p7_18)]
+> _«  Jésus était la personnalité humaine parfaitement unifiée. Et, aujourd’hui, comme autrefois en Galilée, il continue à unifier l’expérience mortelle et à coordonner les efforts humains. Il unifie la vie, ennoblit le caractère et simplifie l’expérience. Il pénètre le mental humain pour l’élever, le transformer et le transfigurer. Il est littéralement vrai que, « si un homme a le Christ Jésus en lui, il est une nouvelle créature ; les anciennes choses sont en train de passer et voici, toutes choses deviennent nouvelles »_ <a id="a130_530"></a>[[LU 100:7.18](/fr/The_Urantia_Book/100#p7_18)]
 
 Voici comment nous croissons avec Jésus. En lisant un de ces fascicules clés, nous observons le développement de Jésus. Nous notons les aspects de son caractère que nous voudrions fortifier en nous. Alors, nous élaborons un projet expérientiel pour ce faire, en trouvant des activités qui permettent à cette croissance d’avoir lieu en nous.
 
@@ -122,7 +146,7 @@ J’ai sélectionné neuf principes à mentionner ce matin.
 
 **Numéro 5**. Jésus fit d’extraordinaires efforts pour bien connaître les gens. Il était un maitre enseignant dès la fin de ses années d’adolescence. Faites particulièrement attention à cette citation :
 
-> _Venu au monde comme n’importe quel nouveau-né du royaume, il a vécu sa vie d’enfant et traversé les étapes successives de la jeunesse et de l’adolescence. Il se trouve maintenant au seuil de sa pleine maturité, riche de l’expérience de la vie humaine, ayant parachevé la compréhension de la nature humaine et restant plein de compassion pour les faiblesses de cette nature humaine. Il est en voie de devenir expert dans l’art divin de révéler son Père du Paradis aux créatures mortelles de tous âges et de tous niveaux d’évolution._ <a id="a144_453"></a>[[LU 127:6.15](/fr/The_Urantia_Book/127#p6_15)]
+> _Venu au monde comme n’importe quel nouveau-né du royaume, il a vécu sa vie d’enfant et traversé les étapes successives de la jeunesse et de l’adolescence. Il se trouve maintenant au seuil de sa pleine maturité, riche de l’expérience de la vie humaine, ayant parachevé la compréhension de la nature humaine et restant plein de compassion pour les faiblesses de cette nature humaine. Il est en voie de devenir expert dans l’art divin de révéler son Père du Paradis aux créatures mortelles de tous âges et de tous niveaux d’évolution._ <a id="a148_536"></a>[[LU 127:6.15](/fr/The_Urantia_Book/127#p6_15)]
 
 Remarquez cette expression de tous âges et de tous niveaux. Les niveaux sont le début et la fin de l’enfance.
 
@@ -136,7 +160,7 @@ Nous parlons de manière différente aux gens à des âges différents et nous p
 
 **Numéro huit**. Jésus a dit :
 
-> _« Tous les croyants à cet évangile devraient prier sincèrement pour l’expansion du royaume des cieux. »_ <a id="a158_101"></a>[[LU 146:2.13](/fr/The_Urantia_Book/146#p2_13)]
+> _« Tous les croyants à cet évangile devraient prier sincèrement pour l’expansion du royaume des cieux. »_ <a id="a162_108"></a>[[LU 146:2.13](/fr/The_Urantia_Book/146#p2_13)]
 
 **Numéro neuf.** Jésus aiguisait aussi l’appétit  pour que les gens viennent à lui avec leurs questions par sa vie coordonnée de vérité, en intégrant la vie scientifique et la beauté de sa  vie spirituelle dans la totalité de sa droiture.
 
@@ -144,7 +168,7 @@ Voici la citation avec ses implications majeures pour attirer de nouveaux lecteu
 
 > _«Dans tout ce que vous ferez, ne devenez pas partiaux et ne vous spécialisez pas à l’excès. Les pharisiens qui cherchent à nous détruire croient véritablement servir Dieu. La tradition les a tellement étriqués qu’ils sont aveuglés par les préjugés et endurcis par la peur. Considérez les Grecs, qui ont une science dépourvue de religion, alors que les Juifs ont une religion dépourvue de science. Quand les hommes s’égarent ainsi au point d’accepter une désintégration étroite et confuse de la vérité, leur seul espoir de salut consiste à se coordonner avec la vérité – à se convertir.»_
 > 
-> _« Permettez-moi de déclarer avec insistance cette vérité éternelle : si vous apprenez, par la coordination de la vérité, à incarner dans votre vie cette belle plénitude de la justice, vos semblables vous rechercheront alors pour obtenir ce que vous avez ainsi acquis. La mesure dans laquelle les chercheurs de vérité sont attirés vers vous représente la mesure de votre dotation en vérité, de votre justice. La mesure dans laquelle vous devez aller avec votre message aux gens est, en quelque sorte, la mesure de votre échec à vivre une vie complète ou juste, une vie coordonnée avec la vérité. »_ <a id="a166_543"></a>[[LU 155:1.4-5](/fr/The_Urantia_Book/155#p1_4)]
+> _« Permettez-moi de déclarer avec insistance cette vérité éternelle : si vous apprenez, par la coordination de la vérité, à incarner dans votre vie cette belle plénitude de la justice, vos semblables vous rechercheront alors pour obtenir ce que vous avez ainsi acquis. La mesure dans laquelle les chercheurs de vérité sont attirés vers vous représente la mesure de votre dotation en vérité, de votre justice. La mesure dans laquelle vous devez aller avec votre message aux gens est, en quelque sorte, la mesure de votre échec à vivre une vie complète ou juste, une vie coordonnée avec la vérité. »_ <a id="a170_601"></a>[[LU 155:1.4-5](/fr/The_Urantia_Book/155#p1_4)]
 
 ## Ressources additionnelles
 
@@ -228,3 +252,28 @@ Jeff et Mahtab  se serrent  l’un contre l’autre puis se tournent et miment d
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2016/?lang=fr)
 - [Cet article](https://urantia-association.org/comment-participer-au-mouvement-evangelique-de-jesus/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Suzanne_Kelly/journal_editorial_november_2016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial del Journal – noviembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Kurtz/considerations_for_study_of_the_human_jesus">
+          <span class="pr-2">Considérations pour l’étude du Jésus humain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

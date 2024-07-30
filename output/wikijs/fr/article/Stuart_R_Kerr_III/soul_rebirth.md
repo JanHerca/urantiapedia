@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Stuart R. Kerr III<br>© 2020 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patty_McGrath/beatitudes_revisited">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Béatitudes revisitées : Une philosophie de vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Kurtz/managing_your_model">
+          <span class="pr-2">Gérer votre modèle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -18,15 +42,15 @@ dateCreated: 2023-9-16T10:55:6Z
 Le phénomène de la mort de tout mortel – cette transaction à la frontière des domaines physique et morontiel – reste un mystère céleste pour l’humanité. Il est clair que les révélateurs de la vérité furent empêchées par les autorités célestes gouvernantes d’Urantia de nous révéler sa pleine exposition dans _Le Livre d’Urantia_ :
 <br style="clear:both;"/>
 
-> _Beaucoup de détails intéressants pourraient être présentés, mais je ne les révèle pas sur le conseil de vos superviseurs planétaires immédiats._ <a id="a43_141"></a>[[LU 112:5.11](/fr/The_Urantia_Book/112#p5_11)]
+> _Beaucoup de détails intéressants pourraient être présentés, mais je ne les révèle pas sur le conseil de vos superviseurs planétaires immédiats._ <a id="a44_148"></a>[[LU 112:5.11](/fr/The_Urantia_Book/112#p5_11)]
 
-Le réassemblage d’un être survivant a lieu dans la salle de résurrection du premier monde des maisons, qui sert de point de rendez-vous aux gardiens séraphiques de la destinée, aux Ajusteurs de Pensée, aux archanges de la résurrection et aux Porteurs de Vie. La première étape du réassemblage des éléments constitutifs d’une personnalité matérielle d’un temps commence par la fabrication d’une forme appropriée, un modèle d’énergie morontielle, que le séraphin d’affectation « fournit » en tant que nouveau véhicule de vie pour l’âme immortelle et pour le séjour de l’Ajusteur revenu. Le séraphin d’affectation fournit, avec l’aide des Superviseurs de Pouvoir Morontiel, le matériel morontiel indifférencié dans lequel la nouvelle vie morontielle peut commencer. C’est dans cette forme morontielle appropriée, telle que projetée par le gardien de la destinée que …_le nouveau survivant peut établir le contact avec la réalité non spirituelle, et à l’intérieur de laquelle la variante morontielle du mental cosmique peut être mise en circuit._ <a id="a45_966"></a>[[LU 112:5.17](/fr/The_Urantia_Book/112#p5_17)]. Ce mental morontiel individualise la forme morontielle pour tous les survivants mortels. Cette forme étant la même matrice mentale de la créature et avec les mêmes potentiels passifs d’identité qui ont été confiés à la garde des gardiens séraphiques de la destinée.
+Le réassemblage d’un être survivant a lieu dans la salle de résurrection du premier monde des maisons, qui sert de point de rendez-vous aux gardiens séraphiques de la destinée, aux Ajusteurs de Pensée, aux archanges de la résurrection et aux Porteurs de Vie. La première étape du réassemblage des éléments constitutifs d’une personnalité matérielle d’un temps commence par la fabrication d’une forme appropriée, un modèle d’énergie morontielle, que le séraphin d’affectation « fournit » en tant que nouveau véhicule de vie pour l’âme immortelle et pour le séjour de l’Ajusteur revenu. Le séraphin d’affectation fournit, avec l’aide des Superviseurs de Pouvoir Morontiel, le matériel morontiel indifférencié dans lequel la nouvelle vie morontielle peut commencer. C’est dans cette forme morontielle appropriée, telle que projetée par le gardien de la destinée que …_le nouveau survivant peut établir le contact avec la réalité non spirituelle, et à l’intérieur de laquelle la variante morontielle du mental cosmique peut être mise en circuit._ <a id="a46_1043"></a>[[LU 112:5.17](/fr/The_Urantia_Book/112#p5_17)]. Ce mental morontiel individualise la forme morontielle pour tous les survivants mortels. Cette forme étant la même matrice mentale de la créature et avec les mêmes potentiels passifs d’identité qui ont été confiés à la garde des gardiens séraphiques de la destinée.
 
-> _Le corps physique de chair mortelle ne fait pas partie du réassemblage du survivant endormi ; le corps physique est retourné à la poussière. Le séraphin d’affectation parraine le nouveau corps, la forme morontielle, comme nouveau véhicule de vie pour l’âme immortelle et comme demeure de l’Ajusteur qui l’habite de nouveau. L’Ajusteur est le conservateur de la transcription spirituelle du mental du survivant endormi. Le séraphin affecté est le gardien de l’identité survivante — l’âme immortelle — dans l’état d’avancement où elle a évolué_. <a id="a47_499"></a>[[LU 30:4.15](/fr/The_Urantia_Book/30#p4_15)]
+> _Le corps physique de chair mortelle ne fait pas partie du réassemblage du survivant endormi ; le corps physique est retourné à la poussière. Le séraphin d’affectation parraine le nouveau corps, la forme morontielle, comme nouveau véhicule de vie pour l’âme immortelle et comme demeure de l’Ajusteur qui l’habite de nouveau. L’Ajusteur est le conservateur de la transcription spirituelle du mental du survivant endormi. Le séraphin affecté est le gardien de l’identité survivante — l’âme immortelle — dans l’état d’avancement où elle a évolué_. <a id="a48_547"></a>[[LU 30:4.15](/fr/The_Urantia_Book/30#p4_15)]
 
 La situation qui rend la repersonnalisation possible se produit dans les salles de résurrection des planètes réceptrices morontielles d’un univers local. Ici, dans ces chambres d’assemblage de la vie, les autorités de supervision assurent cette relation d’énergie universelle – morontielle, mentale et spirituelle – qui rend possible la prise de conscience nouvelle du survivant endormi.
 
-> _1\. Le réassemblage des parties constituantes d’une personnalité autrefois matérielle implique : La construction d’une forme appropriée, un modèle morontiel d’énergie, dans laquelle le nouveau survivant peut établir le contact avec la réalité non spirituelle, et à l’intérieur de laquelle la variante morontielle du mental cosmique peut être mise en circuit._ <a id="a51_218"></a>[[LU 112:5.16-17](/fr/The_Urantia_Book/112#p5_16)]
+> _1\. Le réassemblage des parties constituantes d’une personnalité autrefois matérielle implique : La construction d’une forme appropriée, un modèle morontiel d’énergie, dans laquelle le nouveau survivant peut établir le contact avec la réalité non spirituelle, et à l’intérieur de laquelle la variante morontielle du mental cosmique peut être mise en circuit._ <a id="a52_363"></a>[[LU 112:5.16-17](/fr/The_Urantia_Book/112#p5_16)]
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Journal/Guardian-Angels-300x296.jpg" style="border-radius:1000px;">
@@ -50,7 +74,7 @@ L’âme est la création conjointe du mental du mortel et de l’Ajusteur inté
 <img src="/image/article/IUA_Journal/Spirit-Nature-300x218.jpg" style="border-radius:1000px;">
 </figure>
 
-Le mental des mortels initie la carrière universelle de l’ascension pré-morontielle en travaillant en étroite coordination avec les sept esprits-mentaux adjuvats alors que ceux-ci sont progressivement soumis à la direction unifiante de l’esprit supérieur, l’esprit de sagesse. Ce fonctionnement supérieur des esprits-mentaux adjuvats aide la créature mortelle dans l’achèvement des sept cercles psychiques de l’accomplissement pré-morontiel <a id="a75_393"></a>[[LU 110:6](/fr/The_Urantia_Book/110#p6)]. Ce mental mortel devient de plus en plus motivé dans sa recherche continue des réalités suprêmes de la vérité, de la beauté et de la bonté, et ces découvertes s’harmonisent toujours avec le but suprême du mortel qui est d’accomplir les sept cercles. Tous ces efforts associés conduisent inévitablement à la croissance embryonnaire de l’âme du mortel et à sa dotation éventuelle d’un mental morontiel. Cet acte anticipe la carrière morontielle de la progression dans l’univers local.
+Le mental des mortels initie la carrière universelle de l’ascension pré-morontielle en travaillant en étroite coordination avec les sept esprits-mentaux adjuvats alors que ceux-ci sont progressivement soumis à la direction unifiante de l’esprit supérieur, l’esprit de sagesse. Ce fonctionnement supérieur des esprits-mentaux adjuvats aide la créature mortelle dans l’achèvement des sept cercles psychiques de l’accomplissement pré-morontiel <a id="a76_441"></a>[[LU 110:6](/fr/The_Urantia_Book/110#p6)]. Ce mental mortel devient de plus en plus motivé dans sa recherche continue des réalités suprêmes de la vérité, de la beauté et de la bonté, et ces découvertes s’harmonisent toujours avec le but suprême du mortel qui est d’accomplir les sept cercles. Tous ces efforts associés conduisent inévitablement à la croissance embryonnaire de l’âme du mortel et à sa dotation éventuelle d’un mental morontiel. Cet acte anticipe la carrière morontielle de la progression dans l’univers local.
 
 La réalisation de soi et l’accomplissement de l’esprit sont les buts célestes et divins que le Père Universel fixe à ses enfants mortels. La progression des mortels à travers les sept cercles psychiques d’avancement cosmique entraîne un sentiment croissant de conscience cosmique et une plus grande parenté de l’âme évolutive avec l’Être Suprême émergent. À mesure que l’être mortel progresse vers le niveau de conscience morontielle de l’âme, il devient plus apte à saisir les significations de l’univers et à réaliser les valeurs divines. Ces accomplissements lui permettent d’être plus conscient de sa véritable citoyenneté universelle et de la promesse de progression dans l’univers local qui en découle.
 
@@ -71,7 +95,7 @@ Expérience du mental de la créature :
 
 L’évolution du mental morontiel se fait par contact avec une modification du mental cosmique qui est directement traduit par une Divine Ministre à travers les vastes étendues de son domaine d’univers local. En tant que source créative de l’intellect de l’univers local, l’Esprit-Mère apporte une modification venant du mental cosmique pour aider directement à l’évolution du mental morontiel. On nous dit que la révélation est une technique de réparation de l’absence de mental morontiel chez l’homme mortel pour combler le fossé morontiel entre les royaumes physique et spirituel.
 
-Le mental du mortel, encircuité dans le ministère adjuvat de l’Esprit-Mère de l’univers local, est pleinement soumis aux actes et au choix de la volonté de la personnalité humaine. Bien que la créature mortelle ne possède d’identité que sur le niveau matériel de l’existence, _la personnalité mortelle possède le pouvoir de transférer son siège d’identité du système éphémère intellect-matière au système supérieur âme-morontia, lequel, en association avec l’Ajusteur de Pensée, est créé comme nouveau véhicule pour la manifestation de la personnalité_ <a id="a96_551"></a>[[LU 112:5.4](/fr/The_Urantia_Book/112#p5_4)]. Cette âme morontielle super-adjuvate a besoin de la présence spirituelle de l’Ajusteur pour conserver sa conscience de soi.
+Le mental du mortel, encircuité dans le ministère adjuvat de l’Esprit-Mère de l’univers local, est pleinement soumis aux actes et au choix de la volonté de la personnalité humaine. Bien que la créature mortelle ne possède d’identité que sur le niveau matériel de l’existence, _la personnalité mortelle possède le pouvoir de transférer son siège d’identité du système éphémère intellect-matière au système supérieur âme-morontia, lequel, en association avec l’Ajusteur de Pensée, est créé comme nouveau véhicule pour la manifestation de la personnalité_ <a id="a97_553"></a>[[LU 112:5.4](/fr/The_Urantia_Book/112#p5_4)]. Cette âme morontielle super-adjuvate a besoin de la présence spirituelle de l’Ajusteur pour conserver sa conscience de soi.
 <br style="clear:both;"/>
 
 <figure id="Figure_7" class="image urantiapedia">
@@ -84,3 +108,28 @@ Le mental du mortel, encircuité dans le ministère adjuvat de l’Esprit-Mère 
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2020/?lang=fr)
 - [Cet article](https://urantia-association.org/la-renaissance-de-lame-et-le-mental-morontiel-de-lame/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patty_McGrath/beatitudes_revisited">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Béatitudes revisitées : Une philosophie de vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Kurtz/managing_your_model">
+          <span class="pr-2">Gérer votre modèle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

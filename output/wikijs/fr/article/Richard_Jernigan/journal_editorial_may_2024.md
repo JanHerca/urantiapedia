@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Richard Jernigan<br>© 2024 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2024_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Mai 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/thomas_aquinas_and_some_speculation_on_the_origin_of_ub">
+          <span class="pr-2">Thomas d’Aquin et quelques spéculations sur l’origine du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Richard Jernigan, États-Unis_
 
@@ -38,3 +62,27 @@ Bonne lecture.
 - [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal/)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2024/?lang=fr)
 - [Cet article](https://urantia-association.org/editorial-du-journal-mai-2024/?lang=fr)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2024_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Mai 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/thomas_aquinas_and_some_speculation_on_the_origin_of_ub">
+          <span class="pr-2">Thomas d’Aquin et quelques spéculations sur l’origine du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

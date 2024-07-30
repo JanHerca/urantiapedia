@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Suzanne Kelly<br>© 2018 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2018_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Mai 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bruce_Jackson/jesusonian_calling_go_third_mile">
+          <span class="pr-2">Un Appel Jésusonien à faire la Troisième Lieue</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
@@ -32,11 +56,11 @@ Dr Jackson a fait la première lieue, fixé l’itinéraire pour la seconde et r
 
 Il dit, «  _Le Livre d’Urantia_ fait ouvertement appel à des disciples [^1](https://urantia-association.org/journal-editorial-mai-2018/?lang=fr#_ftn1) pour cette tâche. On ne nous a pas confié la Cinquième Révélation d’Époque pour que nous la cachions sous un boisseau pour notre propre illumination spirituelle ou notre réjouissance privée. Considérez la citation suivante, et au lieu de ‘Christianisme’, insérez ‘Jésusoniens’ :
 
-> _La religion a besoin de nouveaux dirigeants, d’hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements. Si le christianisme persiste à négliger sa mission spirituelle tout en continuant à s’occuper des problèmes sociaux et matériels, il faudra que la renaissance spirituelle attende la venue de ces nouveaux instructeurs de la religion de Jésus qui se consacreront exclusivement à la régénération spirituelle des hommes. Alors, ces âmes nées d’esprit fourniront rapidement les directives et l’inspiration nécessaires à la réorganisation sociale, morale, économique et politique du monde._ <a id="a55_591"></a>[[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4)]
+> _La religion a besoin de nouveaux dirigeants, d’hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements. Si le christianisme persiste à négliger sa mission spirituelle tout en continuant à s’occuper des problèmes sociaux et matériels, il faudra que la renaissance spirituelle attende la venue de ces nouveaux instructeurs de la religion de Jésus qui se consacreront exclusivement à la régénération spirituelle des hommes. Alors, ces âmes nées d’esprit fourniront rapidement les directives et l’inspiration nécessaires à la réorganisation sociale, morale, économique et politique du monde._ <a id="a58_646"></a>[[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4)]
 
 **Faire la volonté de Dieu**  par Bob Ghen Sr, vient bien à propos comme essai suivant dans le genre expérience personnelle. Bob nous emmène d’un cœur léger dans un parcours personnel pour trouver « la volonté de Dieu » dans son existence quotidienne haute en couleurs. Il dit « Pourtant pendant un moment j’ai continué à croire faussement que faire la volonté de Dieu consistait d’une certaine manière à chercher à calculer à chaque tournant, chaque bifurcation sur le chemin. Après tout, on nous enseigne bien aussi que l’on avance spirituellement une décision après l’autre, n’est-ce pas ? Mais, oh là, et si je prends la mauvaise décision ? Wow ! Mais après un examen plus attentif de la citation :
 
-> _En faisant la volonté de Dieu, une créature ne fait rien de plus ni de moins que de montrer son bon vouloir pour partager sa vie intérieure avec Dieu …_ <a id="a59_139"></a>[[LU 111:5.1](/fr/The_Urantia_Book/111#p5_1)]
+> _En faisant la volonté de Dieu, une créature ne fait rien de plus ni de moins que de montrer son bon vouloir pour partager sa vie intérieure avec Dieu …_ <a id="a62_156"></a>[[LU 111:5.1](/fr/The_Urantia_Book/111#p5_1)]
 
 Bob a su examiner succinctement ce que cela signifie vraiment. En demandant : « Mais faire quoi exactement et comment ? » Et en établissant « un réflexe spirituel par l’habitude au moyen de la Prière Intelligente et l’Adoration Sincère ». C’est le commencement du plan qui l’a conduit à l’illumination d’une épiphanie édifiante, « Faire la volonté de Dieu m’a conduit à ma guidance spirituelle primordiale, l’idéal jésusonien de « Communion Ininterrompue ». Sa conclusion érudite parlera aussi à votre volonté.
 
@@ -48,13 +72,38 @@ L’essai final est un autre article fascinant qui est une présentation donnée
 
 Gaétan a marché sur le chemin que chaque nouveau lecteur a suivi et a exprimé avec confiance : « Nous avons trouvé _Le Livre d’Urantia_ parce que nous cherchions les vérités qu’il contient. La responsabilité de partager ces vérités est nôtre à présent. Nous devons faire vivre cette vérité dans nos cœurs lorsque nous nous associons dans un service altruiste, pour aider à inaugurer cette ère prochaine de liberté. » Si nous désirons sincèrement améliorer le monde dans lequel nous vivons, chacun de nous doit y mettre son grain de sel. »
 
-> _Vous êtes le sel de la terre, un sel ayant un goût de salut. Mais, si ce sel a perdu sa saveur, avec quoi l’assaisonnera-t-on ? Il n’est désormais plus bon à rien d’autre qu’à être jeté et foulé aux pieds par les hommes._ <a id="a71_212"></a>[[LU 140:4.2](/fr/The_Urantia_Book/140#p4_2)]
+> _Vous êtes le sel de la terre, un sel ayant un goût de salut. Mais, si ce sel a perdu sa saveur, avec quoi l’assaisonnera-t-on ? Il n’est désormais plus bon à rien d’autre qu’à être jeté et foulé aux pieds par les hommes._ <a id="a74_225"></a>[[LU 140:4.2](/fr/The_Urantia_Book/140#p4_2)]
 
 ## Références
 
 - [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2018/?lang=fr)
 - [Cet article](https://urantia-association.org/journal-editorial-mai-2018/?lang=fr)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2018_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Mai 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bruce_Jackson/jesusonian_calling_go_third_mile">
+          <span class="pr-2">Un Appel Jésusonien à faire la Troisième Lieue</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

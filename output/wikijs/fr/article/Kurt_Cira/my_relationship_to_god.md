@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Kurt Cira<br>© 2022 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Elisabeth_Callahan/our_missing_mother_god">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notre Mère-Dieu disparue – Le monothéisme au prix du trinitarisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/the_psychic_circles_and_morontia_life">
+          <span class="pr-2">Les cercles psychiques et la vie morontielle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left" alt="family">
@@ -46,7 +70,7 @@ Ces prises de conscience m’ont conduit sur un nouveau chemin de croissance dan
 
 La dernière chose que je veux aborder ici est inspirée par ce paragraphe pertinent qu’il est facile de laisser passer dans le fascicule 117, Dieu le Suprême :
 
-> _Le parachèvement du sixième stade d’existence et l’entrée dans le stade septième et final de statut spirituel préluderont probablement aux âges progressifs d’expérience enrichissante, de sagesse murissante et de réalisation de la divinité. Dans la nature du finalitaire, cela équivaudra vraisemblablement à l’aboutissement complet de la lutte mentale pour la réalisation de soi en tant qu’esprit, au parachèvement de la coordination de la nature humaine ascendante avec la divine nature d’Ajusteur dans les limites des possibilités du fini. Un magnifique moi universel de cette espèce devient ainsi le fils finalitaire éternel du Père du Paradis aussi bien que l’enfant universel éternel de la Mère Suprême, un moi universel qualifié pour représenter à la fois le Père et la Mère des univers et des personnalités dans toute activité ou entreprise concernant l’administration finie des choses et des êtres créés, créateurs ou évoluants._ <a id="a71_884"></a>[[LU 117:6.7](/fr/The_Urantia_Book/117#p6_7)]
+> _Le parachèvement du sixième stade d’existence et l’entrée dans le stade septième et final de statut spirituel préluderont probablement aux âges progressifs d’expérience enrichissante, de sagesse murissante et de réalisation de la divinité. Dans la nature du finalitaire, cela équivaudra vraisemblablement à l’aboutissement complet de la lutte mentale pour la réalisation de soi en tant qu’esprit, au parachèvement de la coordination de la nature humaine ascendante avec la divine nature d’Ajusteur dans les limites des possibilités du fini. Un magnifique moi universel de cette espèce devient ainsi le fils finalitaire éternel du Père du Paradis aussi bien que l’enfant universel éternel de la Mère Suprême, un moi universel qualifié pour représenter à la fois le Père et la Mère des univers et des personnalités dans toute activité ou entreprise concernant l’administration finie des choses et des êtres créés, créateurs ou évoluants._ <a id="a72_940"></a>[[LU 117:6.7](/fr/The_Urantia_Book/117#p6_7)]
 
 Je ne doute pas qu’au fur et à mesure que nous progressons dans nos carrières universelles, nous commencerons à incorporer tous les attributs de personnalité de Dieu que nous pouvons éventuellement découvrir dans notre expérience future. Notre croissance complète en tant que personnalité doit englober tous les aspects de notre personnalité. La vie de Jésus sur Urantia a révélé un mélange complet et équilibré de toutes les meilleures caractéristiques de chaque sexe. Étant donné que nous représenterons Dieu en tant que Père et Mère, nous devons embrasser tout ce qui pourrait être considéré comme masculin ou féminin, tel que nous considérons actuellement ces attributs de genre sur ce monde. Les attributs que notre société considère aujourd’hui comme masculins et féminins, et comme d’autres que nous ne pouvons même pas imaginer maintenant, seront mélangés de manière transparente dans tout notre être.
 
@@ -58,3 +82,28 @@ Alors embrassons tous les attributs féminins et masculins dont nous sommes capa
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2022/?lang=fr)
 - [Cet article](https://urantia-association.org/ma-relation-a-dieu-ma-mere-et-mon-pere/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Elisabeth_Callahan/our_missing_mother_god">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notre Mère-Dieu disparue – Le monothéisme au prix du trinitarisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/the_psychic_circles_and_morontia_life">
+          <span class="pr-2">Les cercles psychiques et la vie morontielle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

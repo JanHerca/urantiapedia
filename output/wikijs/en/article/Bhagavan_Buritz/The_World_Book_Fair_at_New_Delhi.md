@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Bhagavan S. Buritz<br>© 2000 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeff_Wattles/The_Urantia_Book_and_Human_Sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book and Human Sources</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peep_Sober/News_from_Estonia_First_conference">
+          <span class="pr-2">News from Estonia: First conference for children about The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bhagavan S. Buritz, USA
 
@@ -64,7 +88,7 @@ They nodded their heads yes.
 
 I could see the lights go on in their eyes. I could feel my own heart open and my soul grow as I added this memory to the picture gallery in my soul. At this moment, I could hear the silver bell of truth ring in my heart. I gave all thanks to the Unseen Beloved who indwells us and hears us from the Center of the Universe. I gave thanks then and as I write these words, I thank our Unseen Father and Christ Michael.
 
-We know the facts of this from the Farewell Discourse: _When Jesus heard Thomas, be answered: “Thomas, I am the way, the truth, and the life. No man goes to the Father except through me. All who find the Father, first find me. If you know me, you know the way to the Father. And you do know me, for you have lived with me and you now see me”._ [UB 180:3.7](/en/The_Urantia_Book/180#p3_7)
+We know the facts of this from the Farewell Discourse: _When Jesus heard Thomas, be answered: “Thomas, I am the way, the truth, and the life. No man goes to the Father except through me. All who find the Father, first find me. If you know me, you know the way to the Father. And you do know me, for you have lived with me and you now see me”._ <a id="a90_344"></a>[UB 180:3.7](/en/The_Urantia_Book/180#p3_7)
 
 We readers of _The Urantia Book_ know the facts, but our joy is to find the truth and share it
 
@@ -91,3 +115,27 @@ At the Delhi Book Fair in August of 1999, we talked about having a study group. 
 We began with a brief silent meditation and plunged into Paper 100: “Religion in Human Experience.” Like many study groups, the discussion jumped all over the place. It was difficult to bring the conversation back to the subject at hand without being rude. I was impressed with the gems these new readers had found in the book in just a few days. _The Urantia Book_ appeals to the Indian mind and when we return in August, we may find some Indian Urantia Book experts. And we hope to return for many book fairs to water and fertilize this soil.
 
 I do not look forward to returning to the heat, squalor, and pollution of New Delhi in August of 2000, but I do look forward to seeing the India Urantia garden. How have the seeds grown?
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeff_Wattles/The_Urantia_Book_and_Human_Sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book and Human Sources</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peep_Sober/News_from_Estonia_First_conference">
+          <span class="pr-2">News from Estonia: First conference for children about The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

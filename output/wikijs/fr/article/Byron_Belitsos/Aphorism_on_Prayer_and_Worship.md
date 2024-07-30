@@ -64,7 +64,7 @@ Jésus a enseigné que l’esclavage des désirs de la chair – l’esclavage d
 
 La racine grecque du repentir est _penthos_. Selon la tradition hésychaste, le vrai penthos est accompagné du « don des larmes » – l’expérience sincère du chagrin causé par une passion mal dépensée qui purifie véritablement l’âme. « Priez d'abord pour le don des larmes afin qu'au moyen de sonow vous puissiez adoucir votre grossièreté native... Priez avec des larmes et votre demande sera entendue. Rien ne gratifie autant le Seigneur qu'une supplication offerte au milieu des larmes. »[^6] « La tradition du désert revendique beaucoup le pouvoir des larmes. » [^7]
 
-« _Heureux ceux qui pleurent, car ils recevront l'esprit de joie._ » (<a id="a66_70"></a>[LU 140:3.8](/fr/The_Urantia_Book/140#p3_8)) « _Le cri des justes... ouvre la porte du magasin de bonté du Père..._ » ([LU 146:2.8](/fr/The_Urantia_Book/146#p2_8))
+« _Heureux ceux qui pleurent, car ils recevront l'esprit de joie._ » (<a id="a66_70"></a>[LU 140:3.8](/fr/The_Urantia_Book/140#p3_8)) « _Le cri des justes... ouvre la porte du magasin de bonté du Père..._ » (<a id="a66_189"></a>[LU 146:2.8](/fr/The_Urantia_Book/146#p2_8))
 
 « Dieu est affligé à cause de l’image qui lui a été perdue. Une âme lui est bien plus chère que le reste de sa création. Par le péché, il devient mort, et toi, pécheur, n’y pense pas ! Vous devriez pleurer pour le bien de Dieu qui pleure pour vous. Votre âme est morte à cause du riz ; versez des larmes et relevez-le ! »[^8]
 

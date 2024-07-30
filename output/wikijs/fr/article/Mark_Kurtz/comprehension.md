@@ -9,13 +9,37 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Mark Kurtz<br>© 2020 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Andre_Radatus/masterful_a_teacher_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Être aussi Magistral que le Maître</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/implantation_of_life">
+          <span class="pr-2">Implantation de la vie sur une planète</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Mark-Kurtz-2009-150x150-1.jpg">
 </figure>
 
-_La capacité de comprendre est le passeport mortel vers le Paradis. La volonté de croire est la clé de Havona. L’acceptation de la filiation, la coopération avec l’Ajusteur intérieur, est le prix de la survie évolutionnaire._ <a id="a40_213"></a>[[LU 26:4.15](/fr/The_Urantia_Book/26#p4_15)]. 
+_La capacité de comprendre est le passeport mortel vers le Paradis. La volonté de croire est la clé de Havona. L’acceptation de la filiation, la coopération avec l’Ajusteur intérieur, est le prix de la survie évolutionnaire._ <a id="a41_226"></a>[[LU 26:4.15](/fr/The_Urantia_Book/26#p4_15)]. 
 
 Comprendre Dieu pour entrer au Paradis ? Nous avons peu d’idée de ce qu’est le Paradis et de ce à quoi nous attendre et maintenant nous sommes informés que nous devons comprendre pour entrer ! Les auteurs du Livre d’Urantia nous préviennent à l’avance qu’il y a du travail à faire. Nous devons nous qualifier pour le Paradis. La compréhension fait progresser l’illumination et nous pouvons supposer qu’elle stimule aussi la curiosité et le désir de connaître le Père. Croître dans la lumière est un processus de développement sur une « éternité de temps ! » Nous commençons simplement par notre sphère de nativité. 
 
@@ -31,9 +55,9 @@ On nous dit dans la citation ci-dessus que nous devons avoir la capacité de com
 
 ## Commencer maintenant 
 
-Nous pourrions rejeter le grand Livre d’Urantia comme trop difficile à comprendre, au moins quelques portions. Étant donné qu’on nous dit que le progrès est nécessaire pour chaque mortel et que la compréhension est nécessaire, nous pourrions supposer sage de commencer de sérieuses tentatives pour comprendre le cosmos et les desseins du Père alors que nous sommes encore Urantiens et que de nouvelles informations sont présentées à cette planète. Les auteurs nous informent que nous devons comprendre ce que nous faisons maintenant et aussi où nous allons. On nous dit d’être prêts à faire un effort et aussi informés que nous avons du travail à accomplir. Les auteurs ont exposé une vision des attentes divines pour les aspirants. La compréhension est suffisamment vitale pour que les auteurs _du livre la mentionnent dans les premières lignes : Dans l’espoir de faciliter la compréhension…_ <a id="a56_927"></a>[[LU 0:0.3](/fr/The_Urantia_Book/0#p0_3)] Les paraboles de Jésus sont conçues pour nous aider à voir le Père en Esprit et à comprendre sa nature. 
+Nous pourrions rejeter le grand Livre d’Urantia comme trop difficile à comprendre, au moins quelques portions. Étant donné qu’on nous dit que le progrès est nécessaire pour chaque mortel et que la compréhension est nécessaire, nous pourrions supposer sage de commencer de sérieuses tentatives pour comprendre le cosmos et les desseins du Père alors que nous sommes encore Urantiens et que de nouvelles informations sont présentées à cette planète. Les auteurs nous informent que nous devons comprendre ce que nous faisons maintenant et aussi où nous allons. On nous dit d’être prêts à faire un effort et aussi informés que nous avons du travail à accomplir. Les auteurs ont exposé une vision des attentes divines pour les aspirants. La compréhension est suffisamment vitale pour que les auteurs _du livre la mentionnent dans les premières lignes : Dans l’espoir de faciliter la compréhension…_ <a id="a57_894"></a>[[LU 0:0.3](/fr/The_Urantia_Book/0#p0_3)] Les paraboles de Jésus sont conçues pour nous aider à voir le Père en Esprit et à comprendre sa nature. 
 
-> _Nous vous enseignons la meilleure façon d’exécuter les choses que nous vous ordonnons de faire._ <a id="a58_70"></a>[[LU 37:6.4](/fr/The_Urantia_Book/37#p6_4)]   
+> _Nous vous enseignons la meilleure façon d’exécuter les choses que nous vous ordonnons de faire._ <a id="a59_100"></a>[[LU 37:6.4](/fr/The_Urantia_Book/37#p6_4)]   
 
 Nous devenons plus brillants avec l’aide de brillants enseignants ! 
 
@@ -47,10 +71,10 @@ Notre réalisation de l’aide amoureuse disponible devrait éliminer une grande
 Toutes les raisons de comprendre les enseignements de la Révélation d’Urantia sont importantes. Permettez-moi d’en souligner quelques-unes : 
 
 - _… élargir la conscience cosmique…_ [0.2, 1.2]
-- _… révélation de Dieu à l’homme…. qui peut contribuer à une nouvelle illumination et à l’unification potentielle du concept humain de la nature et du caractère de la personnalité du Père Universel._ <a id="a72_199"></a>[[LU 2:0.2](/fr/The_Urantia_Book/2#p0_2)].
-- _…compréhension de la personnalité du Fils Éternel…_ <a id="a73_58"></a>[[LU 6:8.6](/fr/The_Urantia_Book/6#p8_6)]
-- _… la compréhension spirituelle du partenariat Père-Fils…_  <a id="a74_62"></a>[[LU 26:5.2](/fr/The_Urantia_Book/26#p5_2)]
-- _…compréhension de l’Être Suprême…_  <a id="a75_42"></a>[[LU 26:6.4](/fr/The_Urantia_Book/26#p6_4)] 
+- _… révélation de Dieu à l’homme…. qui peut contribuer à une nouvelle illumination et à l’unification potentielle du concept humain de la nature et du caractère de la personnalité du Père Universel._ <a id="a73_201"></a>[[LU 2:0.2](/fr/The_Urantia_Book/2#p0_2)].
+- _…compréhension de la personnalité du Fils Éternel…_ <a id="a74_55"></a>[[LU 6:8.6](/fr/The_Urantia_Book/6#p8_6)]
+- _… la compréhension spirituelle du partenariat Père-Fils…_  <a id="a75_62"></a>[[LU 26:5.2](/fr/The_Urantia_Book/26#p5_2)]
+- _…compréhension de l’Être Suprême…_  <a id="a76_39"></a>[[LU 26:6.4](/fr/The_Urantia_Book/26#p6_4)] 
 
 C’est un dur travail pour nous tous. Fait par petits pas, ce voyage immense est surmontable avec des enseignants aimables et aimants et des guides accompagnateurs. 
 
@@ -62,7 +86,7 @@ J’ai ressenti de plus en plus de conviction et de confiance dans les enseignem
 
 Il y a trop de citations qui pourraient être listées ici pour des exemples de confiance nouvelle de la clarté des buts et des méthodes. Celle-ci _m’a frappé entre les yeux_ dans un moment soudain d’introspection un jour :
 
-> _On ne peut saisir la vraie perspective de quelque problème de réalité — humain ou divin, terrestre ou cosmique — que par l’étude et la corrélation complètes et sans préjugés de trois phases de la réalité universelle : l’origine, l’histoire et la destinée. La bonne compréhension de ces trois réalités expérientielles fournit la base nécessaire à une sage estimation du statut présent._ <a id="a87_345"></a>[[LU 19:1.6](/fr/The_Urantia_Book/19#p1_6)]  
+> _On ne peut saisir la vraie perspective de quelque problème de réalité — humain ou divin, terrestre ou cosmique — que par l’étude et la corrélation complètes et sans préjugés de trois phases de la réalité universelle : l’origine, l’histoire et la destinée. La bonne compréhension de ces trois réalités expérientielles fournit la base nécessaire à une sage estimation du statut présent._ <a id="a88_389"></a>[[LU 19:1.6](/fr/The_Urantia_Book/19#p1_6)]  
 
 Maintenant, nous voyons que nous ne pouvons pas obtenir une perspective vraie de la vie, du Cosmos ou de tout autre problème sans comprendre davantage leur destinée ! Miséricorde, je n’y avais jamais pensé avant ! Cette perspicacité enlève beaucoup de devinettes et est un « ajustement par boussole » pour la vie. 
 
@@ -100,7 +124,7 @@ Une autre raison pour laquelle je pense que la compréhension est si vitale est 
 
 Nous avons eu tort sur certains détails dans de nombreuses religions du monde. Jetons un coup d’oeil à la citation mentionnée ci-dessus tirée du fascicule 19, section 1, dans lequel un divin conseiller attire l’attention sur les erreurs d’un point de vue strictement mortel : _L’esprit humain aurait normalement envie d’approcher la philosophie cosmique dépeinte dans ces révélations en allant du simple et du fini au complexe et à l’infini, des origines humaines aux destinées divines. Mais ce chemin ne mène pas à la sagesse spirituelle. Une telle procédure est le chemin le plus facile vers une certaine forme de connaissance génétique, mais au mieux elle ne peut que révéler l’origine de l’homme ; il ne révèle rien ou presque rien sur son destin divin._
 
-> _Même dans l’étude de l’évolution biologique de l’homme sur Urantia, il y a de graves objections à l’approche historique exclusive de son statut actuel et de ses problèmes actuels. ***La véritable perspective de tout problème de réalité – humain ou divin, terrestre ou cosmique – ne peut être obtenue que par l’étude complète et impartiale et la corrélation de trois phases de la réalité de l’univers : origine, histoire et destinée.*** La bonne compréhension de ces trois réalités expérientielles permet d’estimer avec sagesse l’état actuel._ <a id="a123_525"></a>[[LU 19:1.6](/fr/The_Urantia_Book/19#p1_6), gras ajouté]  
+> _Même dans l’étude de l’évolution biologique de l’homme sur Urantia, il y a de graves objections à l’approche historique exclusive de son statut actuel et de ses problèmes actuels. ***La véritable perspective de tout problème de réalité – humain ou divin, terrestre ou cosmique – ne peut être obtenue que par l’étude complète et impartiale et la corrélation de trois phases de la réalité de l’univers : origine, histoire et destinée.*** La bonne compréhension de ces trois réalités expérientielles permet d’estimer avec sagesse l’état actuel._ <a id="a126_546"></a>[[LU 19:1.6](/fr/The_Urantia_Book/19#p1_6), gras ajouté]  
 
 Nous pouvons comprendre de ce conseil que nous ne pouvons pas comprendre correctement ce que nous n’observons pas correctement. Dans la nouvelle révélation, nous sommes invités à de nouvelles perspectives de la réalité et par conséquent les auteurs participent avec Micaël et le Père du Paradis pour améliorer notre potentiel de compréhension. Ne comprenons-nous pas ces actions divines comme de grands dons d’amour ? Est-ce que ça ne fait pas vraiment du bien d’être valorisé là-haut ? Comprenons-nous que la correction est vitale pour faire progresser nos connaissances ? 
 
@@ -110,7 +134,7 @@ Il est raisonnable de supposer que Micaël est venu sur Urantia pour donner aux 
 
 Nous pourrions choisir la plupart des sujets majeurs du livre et du ministère de Jésus pour souligner les raisons de comprendre les rapports avec Dieu et ses nombreux Fils. Regardons un seul exemple. De Jésus morontiel :
 
-> _…Et voici les fruits de l’esprit divin produits dans la vie des mortels nés d’esprit et connaissant Dieu : service aimant, dévouement désintéressé, fidélité courageuse, équité sincère, honnêteté éclairée, espoir vivace, confiance sans soupçons, ministère miséricordieux, bonté inaltérable, tolérance indulgente et paix durable. Si de prétendus croyants ne portent pas ces fruits de l’esprit divin dans leur vie, ils sont morts ; l’Esprit de Vérité n’est pas en eux ; ils sont des sarments inutiles de la vigne vivante et seront bientôt retranchés._ <a id="a133_534"></a>[[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2)] 
+> _…Et voici les fruits de l’esprit divin produits dans la vie des mortels nés d’esprit et connaissant Dieu : service aimant, dévouement désintéressé, fidélité courageuse, équité sincère, honnêteté éclairée, espoir vivace, confiance sans soupçons, ministère miséricordieux, bonté inaltérable, tolérance indulgente et paix durable. Si de prétendus croyants ne portent pas ces fruits de l’esprit divin dans leur vie, ils sont morts ; l’Esprit de Vérité n’est pas en eux ; ils sont des sarments inutiles de la vigne vivante et seront bientôt retranchés._ <a id="a136_552"></a>[[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2)] 
 
 En substance, il a dit que nous devons avancer, augmenter notre désir de comprendre la voie du Père. Il dit clairement ce que le Père fera si nous ne progressons pas : nous serons « taillés » par le Père qui veillera par son ministère à ce que nous y arrivions. Si nous ne choisissons pas cela, alors nous sommes morts.
 
@@ -141,7 +165,7 @@ Nous terminons avec les quatre C : Communication, conviction, coopération et co
 
 Un nouveau but peut émerger : _Nous devons nous aider les uns les autres à atteindre le_ _Paradis_ ! Chantez vos louanges !
 
-> _L’aptitude à comprendre est le passeport des mortels pour le Paradis._ <a id="a164_62"></a>[[LU 26:4.15](/fr/The_Urantia_Book/26#p4_15)]
+> _L’aptitude à comprendre est le passeport des mortels pour le Paradis._ <a id="a167_74"></a>[[LU 26:4.15](/fr/The_Urantia_Book/26#p4_15)]
 
 
 ## Références
@@ -150,3 +174,28 @@ Un nouveau but peut émerger : _Nous devons nous aider les uns les autres à att
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2020/?lang=fr)
 - [Cet article](https://urantia-association.org/la-comprehension-faire-progresser-lillumination-a-partir-de-la-clairvoyance/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Andre_Radatus/masterful_a_teacher_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Être aussi Magistral que le Maître</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/implantation_of_life">
+          <span class="pr-2">Implantation de la vie sur une planète</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

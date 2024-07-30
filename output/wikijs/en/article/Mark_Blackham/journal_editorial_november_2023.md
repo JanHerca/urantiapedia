@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Mark Blackham<br>© 2023 International Urantia Association (IUA)</p>7
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2023_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — November 2023 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peep_Sober/urantia_is_it_a_new_religion">
+          <span class="pr-2">Urantia – Is It a New Religion?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Mark Blackham, Canada_
 
@@ -36,3 +60,27 @@ Our final article, “Our World Is Made of Force Fields” by Antti Roine, diver
 - [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-november-2023/)
 - [This article](https://urantia-association.org/journal-editorial-november-2023)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2023_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — November 2023 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peep_Sober/urantia_is_it_a_new_religion">
+          <span class="pr-2">Urantia – Is It a New Religion?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

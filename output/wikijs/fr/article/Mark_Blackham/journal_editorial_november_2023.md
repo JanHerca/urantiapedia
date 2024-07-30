@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Mark Blackham<br>© 2023 Association Internationale Urantia (IUA)</p>7
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2023_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Novembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peep_Sober/urantia_is_it_a_new_religion">
+          <span class="pr-2">Urantia – Est-ce une nouvelle religion ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Mark Blackham, Canada_
 
@@ -36,3 +60,27 @@ Notre dernier article, « Notre monde est fait de champs de force » par Antti
 - [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2023/?lang=fr)
 - [Cet article](https://urantia-association.org/editorial-du-journal-novembre-2023/?lang=fr)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2023_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Novembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peep_Sober/urantia_is_it_a_new_religion">
+          <span class="pr-2">Urantia – Est-ce une nouvelle religion ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

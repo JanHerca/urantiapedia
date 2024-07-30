@@ -46,11 +46,11 @@ La tensión entre la infinitud de la existencia y la existencia subinfinita se r
 
 Es difícil de creer, pero somos perfectos incluso ahora; es decir, potencialmente perfecto; después de todo, estamos hechos a imagen de Dios.
 
-> «Hagamos al hombre mortal a nuestra propia imagen» ([LU 6:5.7](/es/The_Urantia_Book/6#p5_7))
+> «Hagamos al hombre mortal a nuestra propia imagen» (<a id="a48_54"></a>[LU 6:5.7](/es/The_Urantia_Book/6#p5_7))
 
 Sólo necesitamos recordar que nuestra perfección es potencial; en realidad somos imperfectos. Estamos diseñados para experimentar y crecer perfectos; traducir potenciales en reales; y hacerlo a través de nuestros esfuerzos de libre albedrío.
 
-> «_El hombre mortal consigue incluso su estado de candidato a la ascensión mediante su propia fe y esperanza. Todas las cosas divinas que la mente humana capta y que el alma humana consigue son consecuciones experienciales; son *realidades* de la experiencia personal y son, por lo tanto, posesiones únicas, en contraste con la bondad y la rectitud inherentes a las personalidades infalibles de Havona._» ([LU 3:5.16](/es/The_Urantia_Book/3#p5_16))
+> «_El hombre mortal consigue incluso su estado de candidato a la ascensión mediante su propia fe y esperanza. Todas las cosas divinas que la mente humana capta y que el alma humana consigue son consecuciones experienciales; son *realidades* de la experiencia personal y son, por lo tanto, posesiones únicas, en contraste con la bondad y la rectitud inherentes a las personalidades infalibles de Havona._» (<a id="a52_407"></a>[LU 3:5.16](/es/The_Urantia_Book/3#p5_16))
 
 En ninguna parte del vasto universo de universos existe, ni existirá jamás, otro orden de seres con nuestro tipo de experiencia adquirida; y sabremos de qué hablamos, porque lo habremos atravesado todo.
 

@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Antti Roine<br>© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Neal_Waldrop/urantias_unrevealed_destiny">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia’s Unrevealed Destiny</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The physical world around us seems very concrete because it is tangible, and we can perceive it with our own senses. That’s why it’s easy to think that all the reality we live in is made up of matter – and the facts of our lives are based on this matter. However, this visible illusion breaks when we begin to examine the real world around us through the eyes of science.
 
@@ -34,7 +55,7 @@ Science has only given names to natural phenomena and discovered the mathematics
 From the perspective of philosophical idealism, reality is ultimately spiritual in nature, and the materialistic world is only a shadow of the spiritual world. Furthermore, spiritual and materialistic reality cannot conflict with each other, because spiritual values cannot be measured with physical sensors, nor physical values with spiritual sensors.
 <br style="clear:both;"/>
 
-> You cannot put spiritual joy under a microscope; you cannot weigh love in a balance; you cannot measure moral values; neither can you estimate the quality of spiritual worship. [UB 196:3.18](/en/The_Urantia_Book/196#p3_18)
+> You cannot put spiritual joy under a microscope; you cannot weigh love in a balance; you cannot measure moral values; neither can you estimate the quality of spiritual worship. <a id="a57_179"></a>[UB 196:3.18](/en/The_Urantia_Book/196#p3_18)
 
 We cannot know for sure why we have ended up on such a virtual stage. We can, however, humbly and with an open mind try to deduce the meaning of our lives from the wonderful world around us – one dominated by uncertainty.
 
@@ -45,3 +66,24 @@ On any other kind of stage, we could not practice the use of our own free will, 
 - [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-november-2023/)
 - [This article](https://urantia-association.org/our-world-is-made-of-force-fields)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Neal_Waldrop/urantias_unrevealed_destiny">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia’s Unrevealed Destiny</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

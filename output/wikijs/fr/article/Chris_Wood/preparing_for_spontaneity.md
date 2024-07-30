@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Chris Wood<br>© 2021 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/making_worship_and_service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faire du culte et du service le centre de notre vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bruce_Jackson/millennials_and_the_church">
+          <span class="pr-2">Les Milléniaux et l’Église</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Le travail nécessaire pour éviter de paraître fou
@@ -153,7 +177,7 @@ Construire un pont n’est pas une tâche facile pour personne. Certains y parvi
 
 Au moins, la plupart des gens parlent un anglais américain courant. Si vous pouvez transposer les principes clés de votre foi dans un langage standard, vous pourrez alors communiquer votre vie intérieure avec les autres.
 
-__Le Livre d’Urantia__ nous indique __: En faisant la volonté de Dieu, une créature ne fait rien de plus ni de moins que de montrer son bon vouloir pour partager sa vie intérieure avec Dieu_ …_ <a id="a178_163"></a>[[LU 111:5.1](/fr/The_Urantia_Book/111#p5_1)]. Si vous croyez, comme moi, que notre relation avec Dieu conduit au service des autres, et si faire la volonté de Dieu consiste à partager notre vie intérieure, alors pouvons-nous convenir qu’une partie de notre service aux autres implique de partager notre vie intérieure avec eux ? 
+__Le Livre d’Urantia__ nous indique __: En faisant la volonté de Dieu, une créature ne fait rien de plus ni de moins que de montrer son bon vouloir pour partager sa vie intérieure avec Dieu_ …_ <a id="a179_194"></a>[[LU 111:5.1](/fr/The_Urantia_Book/111#p5_1)]. Si vous croyez, comme moi, que notre relation avec Dieu conduit au service des autres, et si faire la volonté de Dieu consiste à partager notre vie intérieure, alors pouvons-nous convenir qu’une partie de notre service aux autres implique de partager notre vie intérieure avec eux ? 
 
 Je pourrais copier et coller des citations du Livre d’Urantia démontrant que Jésus a naturellement suivi une méthode similaire à celle discutée ici, qu’il était la seule personne capable de jeter un pont entre toutes les communautés, qu’il a fait des efforts pour apprendre le langage culturel de toutes les communautés, qu’il sondait les gens pour déterminer où ils en étaient dans leur vie spirituelle et leur offrir une petite leçon qui les élèverait au niveau suivant. Au lieu de cela, je vais terminer par quatre paragraphes du fascicule 132 _Le séjour à Rome_, section 4 _Le ministère personnel_. Il dit en une page ce que je dirais en dix.
 <br style="clear:both;"/>
@@ -173,3 +197,28 @@ Je pourrais copier et coller des citations du Livre d’Urantia démontrant que 
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2021/?lang=fr)
 - [Cet article](https://urantia-association.org/se-preparer-a-la-spontaneite/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/making_worship_and_service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faire du culte et du service le centre de notre vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bruce_Jackson/millennials_and_the_church">
+          <span class="pr-2">Les Milléniaux et l’Église</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

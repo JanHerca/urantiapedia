@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Antti Roine<br>© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/urantias_unrevealed_destiny">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La destinée non révélée d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le monde physique qui nous entoure semble très concret parce qu’il est tangible et que nous pouvons le percevoir avec nos propres sens. C’est pourquoi il est facile de penser que toute la réalité dans laquelle nous vivons est constituée de matière et que les faits de notre vie sont basés sur cette matière. Cependant, cette illusion visible se brise lorsque nous commençons à examiner le monde réel qui nous entoure à travers les yeux de la science.
 
@@ -35,7 +56,7 @@ La science n’a fait que donner des noms aux phénomènes naturels et découvri
 Du point de vue de l’idéalisme philosophique, la réalité est en fin de compte de nature spirituelle, et le monde matérialiste n’est qu’une ombre du monde spirituel. En outre, la réalité spirituelle et la réalité matérialiste ne peuvent entrer en conflit l’une avec l’autre, car les valeurs spirituelles ne peuvent être mesurées par des capteurs physiques ni les valeurs physiques par des capteurs spirituels.
 <br style="clear:both;"/>
 
-> On ne peut ni mettre la joie spirituelle sous un microscope, ni peser l’amour dans une balance, ni mesurer les valeurs morales ; et l’on ne peut pas non plus chiffrer la qualité de l’adoration spirituelle. [LU 196:3.18](/fr/The_Urantia_Book/196#p3_18)
+> On ne peut ni mettre la joie spirituelle sous un microscope, ni peser l’amour dans une balance, ni mesurer les valeurs morales ; et l’on ne peut pas non plus chiffrer la qualité de l’adoration spirituelle. <a id="a58_208"></a>[LU 196:3.18](/fr/The_Urantia_Book/196#p3_18)
 
 Nous ne pouvons pas savoir avec certitude pourquoi nous nous sommes retrouvés sur une scène aussi virtuelle. Nous pouvons cependant, avec humilité et ouverture d’esprit, essayer de déduire le sens de notre vie du monde merveilleux qui nous entoure – un monde dominé par l’incertitude.
 
@@ -46,3 +67,24 @@ Sur tout autre type de scène, nous ne pourrions pas pratiquer l’utilisation d
 - [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2023/?lang=fr)
 - [Cet article](https://urantia-association.org/notre-monde-est-fait-de-champs-de-force/?lang=fr)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/urantias_unrevealed_destiny">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La destinée non révélée d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 David Carrera Ibañez<br>© 2000 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2000_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Décembre 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-décembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Décembre 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/You_say_The_fifth_epochal_revelation">
+          <span class="pr-2">Vous dites: «La Cinquième Révélation D’Époque ?»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 David Carrera Ibáñez
 León, Espagne
@@ -111,3 +135,27 @@ C'est ce que nous appelons **se sentir libre**.
 Cet exposé représente un effort concerté de prosélytisme.
 
 En terminant, j'aimerais laisser ce message : «Mon ami, toi qui me lis, pour le moment prends du recul relativement à cet article ; prends du recul relativement au Journal ; relativement à la Fondation — va au livre sans intermédiaires ! Lis-le. Tu **n'as pas à croire** qu'il contient la vérité avant d'en prendre connaissance — tu n'es même pas forcé de le croire véridique après l'avoir lu. Tu peux même le lire comme s'il s'agissait d'une fiction fantastique. Pendant que tu te préparais à entreprendre cette lecture, pendant que tu lisais et après avoir lu, tu te consacrais, en fait, à cette quête incessante qui est tienne : trouver un modèle explicatif qui te satisferait et permettrait au chaos apparent de l'univers de laisser place à l'harmonie.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2000_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Décembre 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-décembre-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Décembre 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/You_say_The_fifth_epochal_revelation">
+          <span class="pr-2">Vous dites: «La Cinquième Révélation D’Époque ?»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Gaétan Charland<br>© 2022 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/hazards_decimal_planet">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les aléas d’une planète décimale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -41,7 +62,7 @@ L’association avec d’autres lecteurs dans le contexte d’un groupe d’étu
 
 Dans l’introduction du Livre d’Urantia les révélateurs nous informent de l’état de notre mentale, voici ce que nous dit un Conseiller Divin à ce sujet:
 
-> « DANS LE MENTAL des mortels d’Urantia — ce nom étant celui de votre monde — il existe une grande confusion quant à la signification des termes tels que Dieu, divinité et déité. Les êtres humains sont dans une confusion et une incertitude plus grande encore lorsqu’il s’agit des relations entre les personnalités divines désignées par ces nombreuses appellations. » <a id="a51_320"></a>[Foreword [LU 0:0.1](/fr/The_Urantia_Book/0#p0_1)]
+> « DANS LE MENTAL des mortels d’Urantia — ce nom étant celui de votre monde — il existe une grande confusion quant à la signification des termes tels que Dieu, divinité et déité. Les êtres humains sont dans une confusion et une incertitude plus grande encore lorsqu’il s’agit des relations entre les personnalités divines désignées par ces nombreuses appellations. » <a id="a64_368"></a>[Foreword [LU 0:0.1](/fr/The_Urantia_Book/0#p0_1)]
 
 Qui d’entre nous n’a pas rencontré de difficulté à comprendre ce que nous disait ce conseiller Divin dans l’Introduction du Livre d’Urantia? Qui d’entre nous après plusieurs lectures n’éprouve pas encore certaines difficultés à comprendre intellectuellement certains concepts, et ce, sans parler de l’appropriation des vérités spirituelles?
 
@@ -101,17 +122,17 @@ Dans un groupe d’étude ou l’hôte connait la mission et le but des groupes 
 
 La mission d’un groupe d’étude en harmonie avec celle du Livre d’Urantia est d’étendre la conscience cosmique et rehausser la perception spirituelle tout en rendant vivant l’Évangile de Jésus fondée sur la Paternité de Dieu et la fraternité des hommes.
 
-D’un point de vue philosophique et spirituel, on pourrait définir le groupe d’étude comme une rencontre de fils de Dieu en association avec l’Esprit de vérité qui s’unissent dans un désir sincère d’étudier et de rendre vivants les enseignements du Livre d’Urantia. C’est ce que  _Le Livre d’Urantia_ appelle l’Union des âmes. <a id="a111_275"></a>[[LU 160:2.7](/fr/The_Urantia_Book/160#p2_7)]. En agissant de la sorte, les enseignements du Livre d’Urantia et spécifiquement l’évangile de Jésus, seront efficacement disséminer et transformeront le monde.
+D’un point de vue philosophique et spirituel, on pourrait définir le groupe d’étude comme une rencontre de fils de Dieu en association avec l’Esprit de vérité qui s’unissent dans un désir sincère d’étudier et de rendre vivants les enseignements du Livre d’Urantia. C’est ce que  _Le Livre d’Urantia_ appelle l’Union des âmes. <a id="a124_326"></a>[[LU 160:2.7](/fr/The_Urantia_Book/160#p2_7)]. En agissant de la sorte, les enseignements du Livre d’Urantia et spécifiquement l’évangile de Jésus, seront efficacement disséminer et transformeront le monde.
 
 Nous avons besoin de nous rappeler, que nous sommes en relation avec une révélation qui est sous la supervision de Michael. Lorsque nous contribuons à cette révélation par le biais de groupes d’étude, et que nous nous réunissons à l’intérieur de ceux-ci dans un contexte d’étude et de partages, Michael est présent parmi nous. Nous pourrions ainsi dire que nous sommes dans un espace sacré ou non seulement l’Esprit de vérité nous accompagne, mais collabore de façon efficace avec notre Moniteur divin pour nous spiritualiser. Il est probable aussi, que des observateurs célestes nous observent pendant que nos anges-gardiens se réjouissent de notre association en tant que fils de Dieu.
 
 Les groupes d’étude sont beaucoup plus qu’une simple rencontre sociale de lecteurs qui désirent fraterniser et étudier avec des personnes d’intérêts commun. Non seulement sont-ils de nature intellectuelle, mais possèdent une dimension spirituelle qui dépasse largement notre compréhension de mortel. Ils ont non seulement une répercussion et une influence immense sur les membres de notre famille, mais aussi sur notre environnement social et culturel. Ils sont la lumière dans l’obscurité du matérialiste de notre monde. Ils sont le support et l’allier de la révélation dans sa mission pour notre planète, tout en donnant de l’espoir aux générations futures de religionistes. Ils sont le creusait ou se forment les ambassadeurs de la fraternité spirituel des hommes.
 
-Les hôtes de groupes d’étude sont surement sous la supervision des Anges de la religion. <a id="a117_98"></a>[[LU 114:6.7](/fr/The_Urantia_Book/114#p6_7)]. Leur contribution à la mission de la révélation est certainement imprègné d’une nature sacrée qui est bénie par nos superviseurs planétaires. Les hôtes et les membres de leur groupe sont associés à une révélation de vérité qui fait partie de l’évolution naturelle de la religion dans ce monde. Ils sont les leaders et supporteurs discrets et patient de la révélation qui font avancer la vérité dans tous les domaines de la société.
+Les hôtes de groupes d’étude sont surement sous la supervision des Anges de la religion. <a id="a130_89"></a>[[LU 114:6.7](/fr/The_Urantia_Book/114#p6_7)]. Leur contribution à la mission de la révélation est certainement imprègné d’une nature sacrée qui est bénie par nos superviseurs planétaires. Les hôtes et les membres de leur groupe sont associés à une révélation de vérité qui fait partie de l’évolution naturelle de la religion dans ce monde. Ils sont les leaders et supporteurs discrets et patient de la révélation qui font avancer la vérité dans tous les domaines de la société.
 
 Dans le fascicule 195 on nous dit ceci :
 
-> Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels nés d’esprit qui révèlent effectivement le Maitre à tous les hommes. <a id="a121_137"></a>[[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1)]
+> Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels nés d’esprit qui révèlent effectivement le Maitre à tous les hommes. <a id="a134_160"></a>[[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1)]
 
 ## Buts des groupes d’étude
 
@@ -137,9 +158,9 @@ Nous devons nous rappeler, un groupe d’étude n’est pas seulement une rencon
 
 Je termine cette présentation en nous invitant à méditer sur ces deux citations.
 
-> _L’appel à l’aventure consistant à construire une société humaine nouvelle et transformée, par la renaissance spirituelle de la fraternité du royaume de Jésus, devrait passionner tous ceux qui croient en lui et leur inspirer des sentiments plus vifs que les hommes n’en ont jamais ressenti depuis l’époque où, sur terre, ils parcouraient le pays comme ses compagnons dans la chair._ <a id="a147_294"></a>[[LU 195:10.6](/fr/The_Urantia_Book/195#p10_6)]
+> _L’appel à l’aventure consistant à construire une société humaine nouvelle et transformée, par la renaissance spirituelle de la fraternité du royaume de Jésus, devrait passionner tous ceux qui croient en lui et leur inspirer des sentiments plus vifs que les hommes n’en ont jamais ressenti depuis l’époque où, sur terre, ils parcouraient le pays comme ses compagnons dans la chair._ <a id="a160_385"></a>[[LU 195:10.6](/fr/The_Urantia_Book/195#p10_6)]
 
-> _La religion a besoin de nouveaux dirigeants, d’hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements._ <a id="a149_131"></a>[[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4)]
+> _La religion a besoin de nouveaux dirigeants, d’hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements._ <a id="a162_162"></a>[[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4)]
 
 Je prie pour que cette présentation vous permette de mieux comprendre l’importance de la mission spirituelle et des objectifs des groupes d’étude. Votre contribution continue à la Révélation en tant qu’hôte ou participant à ceux-ci et à leur mission, est d’une immense valeur pour le succès de la Révélation. N’attendez pas le moment idéal pour en créer un ou devenir membre d’un groupe existant, le moment est maintenant !
 
@@ -149,3 +170,25 @@ Je prie pour que cette présentation vous permette de mieux comprendre l’impor
 - [Ce numéro](https://urantia-association.org/newsletter/journal-mai-2022/?lang=fr)
 - [Cet article](https://urantia-association.org/pourquoi-un-groupe-detude/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/hazards_decimal_planet">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les aléas d’une planète décimale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

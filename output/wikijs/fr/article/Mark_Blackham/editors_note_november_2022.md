@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Mark Blackham<br>© 2022 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2022_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Novembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Elisabeth_Callahan/our_missing_mother_god">
+          <span class="pr-2">Notre Mère-Dieu disparue – Le monothéisme au prix du trinitarisme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left" alt="Mark Blackham">
@@ -56,3 +80,28 @@ Peter nous emmène aussi dans un court voyage à travers la transformation des l
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2022/?lang=fr)
 - [Cet article](https://urantia-association.org/note-de-lediteur-novembre-2022/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/2022_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Novembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-novembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Novembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Elisabeth_Callahan/our_missing_mother_god">
+          <span class="pr-2">Notre Mère-Dieu disparue – Le monothéisme au prix du trinitarisme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

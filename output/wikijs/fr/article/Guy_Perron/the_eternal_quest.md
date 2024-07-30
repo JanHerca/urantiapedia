@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Guy Perron<br>© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_Zavala_Jr/evolution_of_the_trinity_concept">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Évolution du concept de Trinité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-décembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Décembre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_Hanian/cultivating_mind_choosing_the_right_tool">
+          <span class="pr-2">Cultiver le mental: choisir le bon outil</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Le 6e Parlement des Religions du Monde
@@ -69,9 +93,9 @@ La meilleure façon de partager une perspective un peu plus juste et élargie de
 
 **De Richard:**
 
-> _La croyance a atteint le niveau de la foi quand elle motive la vie et façonne la manière de vivre. Le fait d’accepter un enseignement comme vrai n’est pas la foi…  Une disposition mentale n’atteint les niveaux de la foi que si elle domine effectivement la manière de vivre. La foi est un attribut vivant de l’expérience religieuse personnelle authentique. On croit la vérité, on admire la beauté, on respecte la bonté, mais on ne les adore pas. Une telle attitude de foi salvatrice est centrée sur Dieu seul, qui personnifie la vérité, la beauté, la bonté et infiniment plus encore._ <a id="a93_574"></a>[[LU 101:8.1](/fr/The_Urantia_Book/101#p8_1)]
+> _La croyance a atteint le niveau de la foi quand elle motive la vie et façonne la manière de vivre. Le fait d’accepter un enseignement comme vrai n’est pas la foi…  Une disposition mentale n’atteint les niveaux de la foi que si elle domine effectivement la manière de vivre. La foi est un attribut vivant de l’expérience religieuse personnelle authentique. On croit la vérité, on admire la beauté, on respecte la bonté, mais on ne les adore pas. Une telle attitude de foi salvatrice est centrée sur Dieu seul, qui personnifie la vérité, la beauté, la bonté et infiniment plus encore._ <a id="a95_587"></a>[[LU 101:8.1](/fr/The_Urantia_Book/101#p8_1)]
 > 
-> _La croyance limite et enchaine toujours ; la foi se déploie et libère. La croyance attache, la foi affranchit. Mais la foi religieuse vivante représente plus qu’une association de nobles croyances, plus qu’un système exalté de philosophie ; elle est une expérience vivante s’intéressant aux significations spirituelles, aux idéaux divins et aux valeurs suprêmes ; elle connaît Dieu et sert les hommes. Les croyances peuvent devenir la propriété d’un groupe, mais la foi doit être personnelle…_ <a id="a95_548"></a>[[LU 101:8.2](/fr/The_Urantia_Book/101#p8_2)]
+> _La croyance limite et enchaine toujours ; la foi se déploie et libère. La croyance attache, la foi affranchit. Mais la foi religieuse vivante représente plus qu’une association de nobles croyances, plus qu’un système exalté de philosophie ; elle est une expérience vivante s’intéressant aux significations spirituelles, aux idéaux divins et aux valeurs suprêmes ; elle connaît Dieu et sert les hommes. Les croyances peuvent devenir la propriété d’un groupe, mais la foi doit être personnelle…_ <a id="a97_497"></a>[[LU 101:8.2](/fr/The_Urantia_Book/101#p8_2)]
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right" alt="Blessed are Peacemakers">
 <img src="/image/article/IUA_Journal/Blessed-are-Peacemakers-279x400.jpg">
@@ -85,7 +109,7 @@ Merci  à tous ceux et celles qui ont donné leur avis. Partager sa vie intérie
 
 Bienheureux les artisans de paix, affiche
 
-> _Avec le temps, le jeune charpentier de Nazareth mesura de mieux en mieux chaque institution de la société et chaque coutume de la religion par un critère invariable. Que fait-elle pour l’âme humaine ? Rapproche-t-elle Dieu de l’homme ? Mène-t-elle l’homme à Dieu ? Tout en ne négligeant pas complètement les aspects récréatifs et sociaux de la vie, l’adolescent consacra de plus en plus son temps et ses forces à deux buts seulement : prendre soin de sa famille et se préparer à accomplir sur terre la volonté de son Père céleste._ <a id="a109_488"></a>[[LU 126:2.5](/fr/The_Urantia_Book/126#p2_5)]
+> _Avec le temps, le jeune charpentier de Nazareth mesura de mieux en mieux chaque institution de la société et chaque coutume de la religion par un critère invariable. Que fait-elle pour l’âme humaine ? Rapproche-t-elle Dieu de l’homme ? Mène-t-elle l’homme à Dieu ? Tout en ne négligeant pas complètement les aspects récréatifs et sociaux de la vie, l’adolescent consacra de plus en plus son temps et ses forces à deux buts seulement : prendre soin de sa famille et se préparer à accomplir sur terre la volonté de son Père céleste._ <a id="a111_535"></a>[[LU 126:2.5](/fr/The_Urantia_Book/126#p2_5)]
 
 Ayant étudié pendant de nombreuses années les incomparables enseignements de Jésus dans la quatrième partie du Livre d’Urantia, et gardant bien en tête ce que Jésus nous a enseigné sur notre relation personnelle avec notre Père et ce que le Melchizédek nous révèle sur la vraie religion en tant qu’une expérience personnelle de Dieu, voici quelques réflexions qui ont émergé dans mon humble mental de mortel ascendant et certains éléments sur lesquels j’ai réfléchi depuis le Parlement, un autre court chapitre de ma quête éternelle. Est-ce que le but de cette rencontre de groupes religieux est de se rapprocher de Dieu et de sa Divine Présence qui vit en chacun de nous? Est-ce que les religionistes partagent leurs moyens individuels de servir afin que nous gagnions tous en sagesse morontielle? Nous rassemblons-nous pour nourrir nos âmes? Est-ce que les religions organisées doivent être impliquées dans la politique et l’économie? Est-ce que les mots « parlement  » et  » religion » vont ensemble? Quelle est la tâche individuelle de la personne religieuse? Quelle est ma tâche en tant que personne religieuse?
 
@@ -93,13 +117,13 @@ Après cette expérience, est-ce que j’ai en moi un sentiment d’avoir eu un 
 
 Tabamantia, agondontaire de statut finalitaire, ayant survécu à l’expérience d’avoir vécu sur une des sphères en quarantaine impliquées dans la première rébellion ayant eu lieu dans les univers du temps et de l’espace et maintenant superviseur souverain de la série des monde expérimentaux (décimaux), pouvons-nous faire appel à toi pour partager avec nous ce que tu ressens, car nous savons de quoi tu parles. En voyant ce qui est arrivé au Parlement, as-tu encore le même sentiment à propos de notre monde que tu avais il y a plus de 60 ans lorsque le Livre d’Urantia a été complété?
 
-> _ « Ayant reçu temporairement autorité sur les séries de planètes expérimentales, je viens vers vous, qui êtes de loin mes supérieurs, et je viens exprimer mon admiration et mon profond respect pour le magnifique groupe de ministres célestes, les Moniteurs de Mystère, qui a volontairement servi sur cette sphère anormale. Quelque pénibles que puissent être les crises, vous ne chancelez jamais. Ni dans les annales de Nébadon, ni devant les commissions d’Orvonton, nul n’a jamais porté d’accusation contre un Ajusteur divin. Vous avez été loyaux dans vos missions, vous avez été divinement fidèles. Vous avez aidé à rectifier les erreurs et à compenser les défaillances de tous ceux qui travaillent sur cette planète troublée. Vous êtes des êtres merveilleux, gardiens du bien chez les âmes de ce monde arriéré. Je vous rends hommage, bien que vous soyez apparemment sous ma juridiction comme ministres volontaires. Je m’incline devant vous en reconnaissant humblement votre désintéressement délicat, votre ministère compréhensif et votre dévouement impartial. Vous méritez le nom de divins serviteurs des habitants mortels de ce monde déchiré de conflits, frappé de malheurs et affligé de maladies. Je vous honore ! Je vous rends presque un culte ! »_ <a id="a117_1160"></a>[[LU 108:3.6](/fr/The_Urantia_Book/108#p3_6)]
+> _ « Ayant reçu temporairement autorité sur les séries de planètes expérimentales, je viens vers vous, qui êtes de loin mes supérieurs, et je viens exprimer mon admiration et mon profond respect pour le magnifique groupe de ministres célestes, les Moniteurs de Mystère, qui a volontairement servi sur cette sphère anormale. Quelque pénibles que puissent être les crises, vous ne chancelez jamais. Ni dans les annales de Nébadon, ni devant les commissions d’Orvonton, nul n’a jamais porté d’accusation contre un Ajusteur divin. Vous avez été loyaux dans vos missions, vous avez été divinement fidèles. Vous avez aidé à rectifier les erreurs et à compenser les défaillances de tous ceux qui travaillent sur cette planète troublée. Vous êtes des êtres merveilleux, gardiens du bien chez les âmes de ce monde arriéré. Je vous rends hommage, bien que vous soyez apparemment sous ma juridiction comme ministres volontaires. Je m’incline devant vous en reconnaissant humblement votre désintéressement délicat, votre ministère compréhensif et votre dévouement impartial. Vous méritez le nom de divins serviteurs des habitants mortels de ce monde déchiré de conflits, frappé de malheurs et affligé de maladies. Je vous honore ! Je vous rends presque un culte ! »_ <a id="a119_1256"></a>[[LU 108:3.6](/fr/The_Urantia_Book/108#p3_6)]
 
 Tu aurais certainement les mêmes éloges pour nos Ajusteurs de Pensée, mais que dirais-tu de notre monde? Perçois-tu toujours la même chose à son sujet? Est-ce que ton espoir pour notre sphère a grandi en voyant ce qui s’est déroulé au Parlement des Religions du Monde?
 
 Et puis, je me demandais si les séraphins auraient les mêmes pensées au sujet de notre groupe que l’un d’eux avait pour son sujet:
 
-> _« Une grande partie de ma difficulté provenait de l’interminable conflit entre les deux natures de mon sujet : la poussée de l’ambition contrariée par l’indolence animale ; les idéaux d’un peuple supérieur barrés par les instincts d’une race inférieure ; les desseins élevés d’un mental élevé rencontrant l’antagonisme des impulsions héréditaires primitives ; les vues à long terme d’un Moniteur prévoyant contrecarrées par l’étroitesse de vues d’une créature du temps ; les plans progressifs d’un être ascendant modifiés par les désirs et les envies d’une nature matérielle ; les éclairs d’intelligence universelle annulés par les impératifs énergétiques chimiques d’une race en évolution ; les émotions d’un animal s’opposant à la pression des anges ; l’entrainement d’un intellect annihilé par les tendances de l’instinct ; l’expérience de l’individu se heurtant aux penchants accumulés de la race ; les buts du meilleur dominés par l’impulsion du pire ; l’envol du génie neutralisé par le poids de la médiocrité ; le progrès du bon retardé par l’inertie du mauvais ; l’art du beau souillé par la présence du mal ; l’entrain de la santé neutralisé par l’asthénie due à la maladie ; la fontaine de foi polluée par les poisons de la peur ; la source de joie aigrie par les eaux de l’affliction ; l’allégresse de l’anticipation désillusionnée par l’amertume de la réalisation ; les joies de la vie toujours menacées par les tristesses de la mort. Quelle vie, et sur quelle planète ! Et pourtant, à cause de l’incitation et de l’appui toujours présent de l’Ajusteur de Pensée, cette âme a atteint un bon degré de bonheur et de succès, et s’est élevée dès maintenant aux salles de jugement de maisonnia. »_ <a id="a123_1617"></a>[[LU 111:7.5](/fr/The_Urantia_Book/111#p7_5)]
+> _« Une grande partie de ma difficulté provenait de l’interminable conflit entre les deux natures de mon sujet : la poussée de l’ambition contrariée par l’indolence animale ; les idéaux d’un peuple supérieur barrés par les instincts d’une race inférieure ; les desseins élevés d’un mental élevé rencontrant l’antagonisme des impulsions héréditaires primitives ; les vues à long terme d’un Moniteur prévoyant contrecarrées par l’étroitesse de vues d’une créature du temps ; les plans progressifs d’un être ascendant modifiés par les désirs et les envies d’une nature matérielle ; les éclairs d’intelligence universelle annulés par les impératifs énergétiques chimiques d’une race en évolution ; les émotions d’un animal s’opposant à la pression des anges ; l’entrainement d’un intellect annihilé par les tendances de l’instinct ; l’expérience de l’individu se heurtant aux penchants accumulés de la race ; les buts du meilleur dominés par l’impulsion du pire ; l’envol du génie neutralisé par le poids de la médiocrité ; le progrès du bon retardé par l’inertie du mauvais ; l’art du beau souillé par la présence du mal ; l’entrain de la santé neutralisé par l’asthénie due à la maladie ; la fontaine de foi polluée par les poisons de la peur ; la source de joie aigrie par les eaux de l’affliction ; l’allégresse de l’anticipation désillusionnée par l’amertume de la réalisation ; les joies de la vie toujours menacées par les tristesses de la mort. Quelle vie, et sur quelle planète ! Et pourtant, à cause de l’incitation et de l’appui toujours présent de l’Ajusteur de Pensée, cette âme a atteint un bon degré de bonheur et de succès, et s’est élevée dès maintenant aux salles de jugement de maisonnia. »_ <a id="a125_1708"></a>[[LU 111:7.5](/fr/The_Urantia_Book/111#p7_5)]
 
 Pour citer un frère et ami dans l’Esprit _« il devrait y avoir plus de 7 milliards de religions sur cette planète puisque la religion est une expérience personnelle et authentique que chacun de nous peut faire avec notre Père Universel par sa Présence Divine qui habite chacun de nous. »_
 
@@ -122,3 +146,28 @@ Quelle vie, et sur quelle planète !
 - [Ce numéro](https://urantia-association.org/newsletter/journal-decembre-2015/?lang=fr)
 - [Cet article](https://urantia-association.org/la-quete-eternelle/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_Zavala_Jr/evolution_of_the_trinity_concept">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Évolution du concept de Trinité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-décembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Décembre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_Hanian/cultivating_mind_choosing_the_right_tool">
+          <span class="pr-2">Cultiver le mental: choisir le bon outil</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

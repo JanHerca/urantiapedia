@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Peep Söber<br>© 2000 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bhagavan_Buritz/The_World_Book_Fair_at_New_Delhi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The World Book Fair at New Delhi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Peep Sõber, Estonia
 
@@ -49,3 +70,24 @@ The last discourse was spoken by Professor of Mathematics Vello Reeben, from Tar
 Our conference scored many good results. Several new readers became inspired to read the book and to join a study group
 
 We shall soon set into motion the preparations for our Summer Conference in August. As many as 50 readers have already applied for participation in the event. We hope to see there also a great number of readers from other countries. Brothers and sisters, Welcome to Eesti!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bhagavan_Buritz/The_World_Book_Fair_at_New_Delhi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The World Book Fair at New Delhi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

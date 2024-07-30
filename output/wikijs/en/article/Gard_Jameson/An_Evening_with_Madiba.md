@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Gard Jameson<br>© 2000 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2000_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — March 2000 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Barr/The_Privilege_of_Having_God_as_Father">
+          <span class="pr-2">The Privilege of Having God as “Father”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Gard Jameson
 
@@ -41,3 +65,27 @@ I close with a part of Mandela's address to the assembled Parliament:
 “The truth of the old African proverb that we are people through other people is tonight very evocatively being demonstrated by this gathering of so many people from all parts of the world. This coming together here in this southernmost city on the African continent of representatives from such a wide range of the faiths of the world symbolizes the acknowledgement of our mutual interdependence and common humanity. It is to me a humbling experience to be part of this moving expression and reaffirmation of the nobility of the human spirit.
 
 “This century has seen enough of destruction, injustice, strife and division, suffering and pain, and of our capacity to be massively inhuman the one to the other. There is sufficient cause for being cynical about human life and about humanity. This gathering at the close of our century serves to counter despair and cynicism and calls us to a recognition and reaffirmation of that which is great and generous and caring in the human spirit. As we approach the 21st century, we cannot but be starkly aware that we stand at a crossroads in our history. The world is undergoing a profound redefinition of values and modes of perception . . . the common ground is greater and more enduring than the differences that divide. It is in that spirit that we can approach the dawn of the new century with some hope that it will be, indeed, a better one for all of the people of the world.”
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2000_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — March 2000 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Barr/The_Privilege_of_Having_God_as_Father">
+          <span class="pr-2">The Privilege of Having God as “Father”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

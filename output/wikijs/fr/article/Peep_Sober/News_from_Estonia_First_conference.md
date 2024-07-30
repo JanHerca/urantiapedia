@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Peep Söber<br>© 2000 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bhagavan_Buritz/The_World_Book_Fair_at_New_Delhi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Foire Internationale du Livre à New Delhi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-juin-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Juin 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Peep Sõber, Estonie
 
@@ -51,3 +72,24 @@ Le dernier discours fut donné par le professeur de mathématiques **Vello Reebe
 Notre conférence donna beaucoup de bons résultats. Plusieurs nouveaux lecteurs ont été inspirés par cette conférence, pour lire le livre et se joindre à un groupe d'étude.
 
 Nous allons bientôt mettre en branle les préparations pour notre Conférence d'Eté au mois d'août. Déjà plus de 50 lecteurs ont fait part de leur désir de participer à cet événement. Nous espérons voir également un grand nombre de lecteurs d'autres pays. Frères et sœurs, bienvenue à Eesti ! Merci.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bhagavan_Buritz/The_World_Book_Fair_at_New_Delhi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Foire Internationale du Livre à New Delhi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-juin-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Juin 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

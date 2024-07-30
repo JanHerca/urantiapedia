@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 David Carrera Ibañez<br>© 2000 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2000_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — December 2000 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeanmarie_Chaise/You_say_The_fifth_epochal_revelation">
+          <span class="pr-2">You say: The fifth epochal revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 David Carrera Ibanez
 Leon, Spain
@@ -111,3 +135,27 @@ This is what we call **feeling free**.
 This presentation represents a concerted effort at proselytizing.
 
 In closing, I would like to leave this message: “My friend, you who are reading me, for the moment take a step back from this article; take a step back from the Journal; in relation to the Foundation — go to the book without intermediaries! Read it. You **do not have to believe** that it contains the truth before reading it — you do not even have to believe it to be true after reading it. You can even read it as if it were fantasy fiction. While you were preparing to undertake this reading, while you were reading and after reading, you were, in fact, devoting yourself to this incessant quest of yours: to find an explanatory model which would satisfy you and allow for the apparent chaos of the universe to give way to harmony.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/2000_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — December 2000 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 2000 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeanmarie_Chaise/You_say_The_fifth_epochal_revelation">
+          <span class="pr-2">You say: The fifth epochal revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

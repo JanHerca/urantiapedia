@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Robert Coenraads<br>© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Peep_Sober/urantia_is_it_a_new_religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia – Is It a New Religion?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Phillip_Marriott/Unity_Harmony_Within_Diversity_of_Experience_and_Belief_3">
+          <span class="pr-2">Unity – Harmony Within Diversity of Experience and Belief</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## An Experiential Exploration of Relaxation, Meditation, Prayer, and Worship and Its Benefits to Soul, Heart, Mind, and Body
 
@@ -61,39 +85,39 @@ Although these terms all fall within today’s sphere of meditation and have sim
 
 The following quotes from _The Urantia Book_ shed light on the meaning of these terms:
 
-> Prayer and its associated worship is a technique of detachment from the daily routine of life, from the monotonous grind of material existence. [UB 144:4.5](/en/The_Urantia_Book/144#p4_5)
+> Prayer and its associated worship is a technique of detachment from the daily routine of life, from the monotonous grind of material existence. <a id="a87_146"></a>[UB 144:4.5](/en/The_Urantia_Book/144#p4_5)
 
-> The contact of the mortal mind with its indwelling Adjuster, while often favored by devoted meditation, is more frequently facilitated by wholehearted and loving service in unselfish ministry to one’s fellow creatures. [UB 91:7.1](/en/The_Urantia_Book/91#p7_1)
+> The contact of the mortal mind with its indwelling Adjuster, while often favored by devoted meditation, is more frequently facilitated by wholehearted and loving service in unselfish ministry to one’s fellow creatures. <a id="a89_221"></a>[UB 91:7.1](/en/The_Urantia_Book/91#p7_1)
 
 Paragraphs 91.7.2 and 125.4.4 suggest that meditation is considered distinct from prayer:
 
-> Jesus often took his apostles away by themselves for short periods to engage in meditation and prayer, but for the most part he kept them in service-contact with the multitudes.  [UB 91:7.2](/en/The_Urantia_Book/91#p7_2)
+> Jesus often took his apostles away by themselves for short periods to engage in meditation and prayer, but for the most part he kept them in service-contact with the multitudes.  <a id="a93_181"></a>[UB 91:7.2](/en/The_Urantia_Book/91#p7_2)
 
-> When this, his second day in the temple, was finished, again he went to Bethany for the night. And again he went out in the garden to meditate and pray. It was apparent that his mind was concerned with the contemplation of weighty problems. [UB 125:4.4](/en/The_Urantia_Book/125#p4_4)
+> When this, his second day in the temple, was finished, again he went to Bethany for the night. And again he went out in the garden to meditate and pray. It was apparent that his mind was concerned with the contemplation of weighty problems. <a id="a95_243"></a>[UB 125:4.4](/en/The_Urantia_Book/125#p4_4)
 
 The word, ‘pray’ is used frequently in _The Urantia Book_, appearing 125 times. It is used in the sense of asking for something, and it is used distinctly from the word ‘worship.’ And ‘prayer’ appears 285 times.
 
-> When man learned that prayer could not coerce the gods, then it became more of a petition, favor seeking. But the truest prayer is in reality a communion between man and his Maker. [UB 91:2.3](/en/The_Urantia_Book/91#p2_3)
+> When man learned that prayer could not coerce the gods, then it became more of a petition, favor seeking. But the truest prayer is in reality a communion between man and his Maker. <a id="a99_183"></a>[UB 91:2.3](/en/The_Urantia_Book/91#p2_3)
 
-> When the prayer seeks nothing for the one who prays nor anything for his fellows, then such attitudes of the soul tend to the levels of true worship. [UB 91:4.3](/en/The_Urantia_Book/91#p4_3)
+> When the prayer seeks nothing for the one who prays nor anything for his fellows, then such attitudes of the soul tend to the levels of true worship. <a id="a101_152"></a>[UB 91:4.3](/en/The_Urantia_Book/91#p4_3)
 
-> …prayer is designed to make man less thinking but more realizing; it is not designed to increase knowledge but rather to expand insight. [UB 143:7.4](/en/The_Urantia_Book/143#p7_4)
+> …prayer is designed to make man less thinking but more realizing; it is not designed to increase knowledge but rather to expand insight. <a id="a103_139"></a>[UB 143:7.4](/en/The_Urantia_Book/143#p7_4)
 
 Worship is used 567 times in _The Urantia Book_. Worship is the highest note in the escalating musical scale of devotional activities beneficial to all individuals—beginning with rest and relaxation, then through reflection and meditation, then prayer, and finally worship, with worship being the ultimate act of devotion to the Father and the “ideal soul rest.”
 
-> At all times and during all ages the true worship of any human being—as concerns individual spiritual progress—is recognized by the indwelling spirit as homage rendered to the Father in heaven. [UB 142:3.8](/en/The_Urantia_Book/142#p3_8)
+> At all times and during all ages the true worship of any human being—as concerns individual spiritual progress—is recognized by the indwelling spirit as homage rendered to the Father in heaven. <a id="a107_196"></a>[UB 142:3.8](/en/The_Urantia_Book/142#p3_8)
 
 The distinction between prayer and worship is emphasized on numerous occasions.
 
-> …prayer is spiritually sustaining, but worship is divinely creative. [UB 143:7.5](/en/The_Urantia_Book/143#p7_5)
+> …prayer is spiritually sustaining, but worship is divinely creative. <a id="a111_71"></a>[UB 143:7.5](/en/The_Urantia_Book/143#p7_5)
 
-> Prayer is self-reminding—sublime thinking; worship is self-forgetting—superthinking. Worship is effortless attention, true and ideal soul rest, a form of restful spiritual exertion. [UB 143:7.7](/en/The_Urantia_Book/143#p7_7)
+> Prayer is self-reminding—sublime thinking; worship is self-forgetting—superthinking. Worship is effortless attention, true and ideal soul rest, a form of restful spiritual exertion. <a id="a113_184"></a>[UB 143:7.7](/en/The_Urantia_Book/143#p7_7)
 
-> As prayer may be likened to recharging the spiritual batteries of the soul, so worship may be compared to the act of tuning in the soul to catch the universe broadcasts of the infinite spirit of the Universal Father. [UB 144:4.8](/en/The_Urantia_Book/144#p4_8)
+> As prayer may be likened to recharging the spiritual batteries of the soul, so worship may be compared to the act of tuning in the soul to catch the universe broadcasts of the infinite spirit of the Universal Father. <a id="a115_219"></a>[UB 144:4.8](/en/The_Urantia_Book/144#p4_8)
 
 And consider the extraordinary reach of worship over that of simple prayer in the following paragraph in Paper 5 – God’s Relation to the Individual.
 
-> Prayers, all formal communications, everything except adoration and worship of the Universal Father, are matters that concern a local universe; they do not ordinarily proceed out of the realm of the jurisdiction of a Creator Son. But worship is undoubtedly encircuited and dispatched to the person of the Creator by the function of the Father’s personality circuit. [UB 5:3.2](/en/The_Urantia_Book/5#p3_2)
+> Prayers, all formal communications, everything except adoration and worship of the Universal Father, are matters that concern a local universe; they do not ordinarily proceed out of the realm of the jurisdiction of a Creator Son. But worship is undoubtedly encircuited and dispatched to the person of the Creator by the function of the Father’s personality circuit. <a id="a119_368"></a>[UB 5:3.2](/en/The_Urantia_Book/5#p3_2)
 
 In the Bible, meditation is described as a focus for keeping one steady and centered. It is referred to 23 times, for instance:
 
@@ -134,3 +158,27 @@ For further information on the Practical Applications of meditation [click her
 - [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-november-2023/)
 - [This article](https://urantia-association.org/spiritual-practices-an-invitation-to-intimacy-with-god)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Peep_Sober/urantia_is_it_a_new_religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia – Is It a New Religion?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-november-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — November 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Phillip_Marriott/Unity_Harmony_Within_Diversity_of_Experience_and_Belief_3">
+          <span class="pr-2">Unity – Harmony Within Diversity of Experience and Belief</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

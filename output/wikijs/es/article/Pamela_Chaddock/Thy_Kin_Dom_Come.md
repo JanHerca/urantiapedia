@@ -37,7 +37,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 _por Pamela Chaddock_
 
-De hecho, el cristianismo ha prestado un gran servicio a este mundo, pero lo que ahora más se necesita es Jesús. . . viviendo nuevamente en la tierra en la experiencia de mortales nacidos del espíritu que efectivamente revelan al Maestro a todos los hombres (<a id="a18_259"></a>[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)).
+De hecho, el cristianismo ha prestado un gran servicio a este mundo, pero lo que ahora más se necesita es Jesús. . . viviendo nuevamente en la tierra en la experiencia de mortales nacidos del espíritu que efectivamente revelan al Maestro a todos los hombres (<a id="a39_259"></a>[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)).
 
 Hoy encontramos al Espíritu de la Verdad interactuando de manera creativa con religiosos valientes y perspicaces que buscan resucitar audazmente a Jesús de la tumba de la teología cristiana fosilizada. La siguiente historia me pareció muy alentadora.
 
@@ -62,7 +62,7 @@ Diana y muchos otros refugiados religiosos están pidiendo una «nueva teología
 
 A aquellos que ensalzan a un Dios iracundo, escucharán al filósofo, teólogo y sabio cortesano [Tripp Fuller](https://en.wikipedia.org/wiki/Tripp_Fuller) replicar: «¡Dios debe ser _al menos_ tan amable como Jesús!» Esta es una buena teología.
 
-> La cultura moderna debe bautizarse espiritualmente con una nueva revelación de la vida de Jesús, e iluminarse con una nueva comprensión de su evangelio de salvación eterna. Y cuando Jesús sea elevado así, atraerá a todos los hombres hacia él. (<a id="a43_246"></a>[LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
+> La cultura moderna debe bautizarse espiritualmente con una nueva revelación de la vida de Jesús, e iluminarse con una nueva comprensión de su evangelio de salvación eterna. Y cuando Jesús sea elevado así, atraerá a todos los hombres hacia él. (<a id="a64_246"></a>[LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
 
 La lucha perenne por evolucionar se captura acertadamente en una historia galvanizadora de Jesús popularizada en el actual proyecto cinematográfico financiado colectivamente, _The Chosen_. Nicodemo, Sumo Sacerdote Fariseo de la Torá, queda atrapado entre sus rígidas creencias tradicionales y su creciente necesidad interior de creer en la divinidad de Jesús. A sus anacrónicos compañeros les argumenta acaloradamente: «Si Dios hiciera algo diferente a la Torá, ¿tratarían de meterlo nuevamente en esa caja?»
 
@@ -70,7 +70,7 @@ Entonces, si planeas seguir a Dios, la serie te provoca: «Acostúmbrate a lo �
 
 La reforma necesaria avanza rápidamente con el desmantelamiento y la desintegración de un sistema eclesial cansado. Los cristianos proféticos siguen adelante defendiendo el renacimiento del concepto del Reino de Jesús. Hoy vemos que el Reino se desarrolla más como un organismo vivo, un modelo de servicio familiar, la hermandad invisible que Jesús proclama.
 
-> Este evangelio del reino es una verdad viviente. ... La revelación que os he hecho es una *revelación viva* ... De generación en generación, este evangelio debe mostrar una vitalidad creciente y demostrar una mayor profundidad de poder espiritual. (<a id="a51_251"></a>[LU 178:1.15](/es/The_Urantia_Book/178#p1_15))
+> Este evangelio del reino es una verdad viviente. ... La revelación que os he hecho es una *revelación viva* ... De generación en generación, este evangelio debe mostrar una vitalidad creciente y demostrar una mayor profundidad de poder espiritual. (<a id="a72_251"></a>[LU 178:1.15](/es/The_Urantia_Book/178#p1_15))
 
 Las luchas actuales persisten entre las interpretaciones «exclusivistas» fundamentales y las tendencias pluralistas más «inclusivistas» reflejadas en el generoso evangelio de Jesús. A pesar de todo, el autor y teólogo Brian McLaren saluda que se esté produciendo una resurrección cósmica. Y asomando a través de la cúpula está el Cristo Miguel cósmico, Hijo Maestro del universo local.
 

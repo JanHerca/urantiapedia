@@ -9,12 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Michael MacIsaac<br>© 1999 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Van_Woert/IUA_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La propagation de l'AUI</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-décembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Décembre 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Michael MacIsaac, Stockholm, Suède
 
 Ceci est un compte-rendu sur les récents progrès du travail que j'ai fait pour aider les jeunes générations de lecteurs dans le monde. J'espère ne pas trop me mettre en évidence, mais plutôt mettre l'accent sur le travail.
 
-> _Vous pouvez faire une auvre importante si vous ne vous attribuez pas d'importance. Vous pouvez faire plusieurs choses aussi facilement qu'une seule si vous laissez votre moi de côté._ [LU 48:6.37](/fr/The_Urantia_Book/48#p6_37)
+> _Vous pouvez faire une auvre importante si vous ne vous attribuez pas d'importance. Vous pouvez faire plusieurs choses aussi facilement qu'une seule si vous laissez votre moi de côté._ <a id="a37_187"></a>[LU 48:6.37](/fr/The_Urantia_Book/48#p6_37)
 
 ## Voici mes antécédents :
 
@@ -80,4 +101,25 @@ Je pense que la citation suivante est un guide adéquat pour nous permettre de s
 
 ( Souvenez-vous qu'ils utilisent le mot «culte» pour signifier la forme générale de groupe de croyants et non pas avec la signification négative du concept de groupe « lavage de cerveau» qui actuellement est communément associé à ce mot. )
 
-> _...ce qui est nouveau doit résulter de la mise en cuure de l'amour. Le culte nouveau, doit comme l'ancien, favoriser les sentiments, satisfaire les émotions et promouvoir la fidélité; mais il doit faire plus : il doit faciliter les progrès spirituels, rebausser les significations cosmiques, augmenter les valeurs morales, encourager le développement social et stimuler un type élevé de vie religieuse personnelle. Le nouveau culte doit apporter des buts suprêmes de vie à la fois temporels et éternels - sociaux et spirituels._ [LU 87:7.7](/fr/The_Urantia_Book/87#p7_7)
+> _...ce qui est nouveau doit résulter de la mise en cuure de l'amour. Le culte nouveau, doit comme l'ancien, favoriser les sentiments, satisfaire les émotions et promouvoir la fidélité; mais il doit faire plus : il doit faciliter les progrès spirituels, rebausser les significations cosmiques, augmenter les valeurs morales, encourager le développement social et stimuler un type élevé de vie religieuse personnelle. Le nouveau culte doit apporter des buts suprêmes de vie à la fois temporels et éternels - sociaux et spirituels._ <a id="a103_532"></a>[LU 87:7.7](/fr/The_Urantia_Book/87#p7_7)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Van_Woert/IUA_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La propagation de l'AUI</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-décembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Décembre 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
