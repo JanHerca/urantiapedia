@@ -204,12 +204,6 @@ Comme je l’ai laissé entendre précédemment, le Projet global n’est pas en
 
 Nous espérons que beaucoup d’entre vous qui lirez cet essai s’intéresseront activement à nos projets pour le Projet global, en particulier en ce qui concerne le programme d’activités pratiques qui est en cours. N’hésitez pas à consulter notre modeste site web [https://www.globalendeavor.net,](https://www.globalendeavor.net,/) qui offre un large éventail de documents que vous pouvez lire ou télécharger.
 
-## Notes
-
-[^1]: Tel que le savent les lecteurs assidus du Livre d’Urantia, Machiventa Melchizédek était l’un des douze administrateurs  Melchizédek qui ont assumé la responsabilité spirituelle d’Urantia après la rébellion de Lucifer et de Caligastia (un Melchizédek, 67:6.5-6). Machiventa Melchizédek a finalement exercé sa part de ces responsabilités en conduisant la troisième révélation d’époque, une effusion d’urgence aux jours d’Abraham : il est soudainement apparu sous une forme humaine et a ensuite vécu et enseigné sur notre planète pendant 94 ans. Pour un récit détaillé, voir le fascicule 93, « Machiventa Melchizédek » (écrit par un autre Melchizédek de Nébadon).
-
-[^2]: Cette phrase fait référence aux instructions et aux conseils que Micaël a reçus d’Emmanuel de Salvington,  » l’Union des Jours assignée à l’univers local de Nébadon « , où il sert « d’ambassadeur de la Trinité Paradisiaque  » (le Chef des Archanges de Nébadon, 37:5.1). Le même auteur explique :  » Dans un certain sens, ce haut Fils de la Trinité est aussi le représentant personnel du Père Universel à la cour du Fils Créateur ; d’où son nom, Emmanuel ».
-
 
 <figure class="table chapter-navigator">
   <table>
@@ -240,3 +234,9 @@ Nous espérons que beaucoup d’entre vous qui lirez cet essai s’intéresseron
 - [Bulletin Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Ce numéro](https://urantia-association.org/newsletter/journal-novembre-2023/?lang=fr)
 - [Cet article](https://urantia-association.org/la-destinee-non-revelee-durantia/?lang=fr)
+
+## Notes
+
+[^1]: Tel que le savent les lecteurs assidus du Livre d’Urantia, Machiventa Melchizédek était l’un des douze administrateurs  Melchizédek qui ont assumé la responsabilité spirituelle d’Urantia après la rébellion de Lucifer et de Caligastia (un Melchizédek, 67:6.5-6). Machiventa Melchizédek a finalement exercé sa part de ces responsabilités en conduisant la troisième révélation d’époque, une effusion d’urgence aux jours d’Abraham : il est soudainement apparu sous une forme humaine et a ensuite vécu et enseigné sur notre planète pendant 94 ans. Pour un récit détaillé, voir le fascicule 93, « Machiventa Melchizédek » (écrit par un autre Melchizédek de Nébadon).
+
+[^2]: Cette phrase fait référence aux instructions et aux conseils que Micaël a reçus d’Emmanuel de Salvington,  » l’Union des Jours assignée à l’univers local de Nébadon « , où il sert « d’ambassadeur de la Trinité Paradisiaque  » (le Chef des Archanges de Nébadon, 37:5.1). Le même auteur explique :  » Dans un certain sens, ce haut Fils de la Trinité est aussi le représentant personnel du Père Universel à la cour du Fils Créateur ; d’où son nom, Emmanuel ».

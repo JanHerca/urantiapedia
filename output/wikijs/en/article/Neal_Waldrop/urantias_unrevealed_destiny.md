@@ -209,12 +209,6 @@ As I previously implied, the Global Endeavor is not yet operating: At this point
 
 We hope that many of you who read this essay will take an active interest in our plans for the Global Endeavor, especially in relation to the program of practical activities that are now underway. Please feel free to consult our modest website [https://www.globalendeavor.net](https://www.globalendeavor.net/), which offers a wide range of documents that you can read or download.
 
-## Notes
-
-[^1]: As committed readers of _The Urantia Book_ are well aware, Machiventa Melchizedek was one of the twelve Melchizedek receivers who assumed spiritual responsibility for Urantia after the rebellion of Lucifer and Caligastia (a Melchizedek, 67:6.5-6). Machiventa Melchizedek eventually exercised his share of these responsibilities by conducting the third epochal revelation, an emer­gency bestowal in the days of Abraham: He suddenly appeared in human form and then lived and taught on our planet for 94 years. For a detailed narrative, see Paper 93, “Machiventa Melchizedek” (written by another Melchizedek of Nebadon).
-
-[^2]: This sentence refers to instructions and counsel that Michael received from Immanuel of Salvington, “the Union of Days assigned to the local universe of Nebadon,” where he serves as “the ambassador of the Paradise Trinity” (the Chief of the Archangels of Nebadon, 37:5.1). The same author explains: “In a certain sense this high Trinity Son is also the personal representative of the Universal Father to the court of the Creator Son; hence his name, Immanuel.”
-
 
 <figure class="table chapter-navigator">
   <table>
@@ -245,3 +239,9 @@ We hope that many of you who read this essay will take an active interest in our
 - [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-november-2023/)
 - [This article](https://urantia-association.org/urantias-unrevealed-destiny)
+
+## Notes
+
+[^1]: As committed readers of _The Urantia Book_ are well aware, Machiventa Melchizedek was one of the twelve Melchizedek receivers who assumed spiritual responsibility for Urantia after the rebellion of Lucifer and Caligastia (a Melchizedek, 67:6.5-6). Machiventa Melchizedek eventually exercised his share of these responsibilities by conducting the third epochal revelation, an emer­gency bestowal in the days of Abraham: He suddenly appeared in human form and then lived and taught on our planet for 94 years. For a detailed narrative, see Paper 93, “Machiventa Melchizedek” (written by another Melchizedek of Nebadon).
+
+[^2]: This sentence refers to instructions and counsel that Michael received from Immanuel of Salvington, “the Union of Days assigned to the local universe of Nebadon,” where he serves as “the ambassador of the Paradise Trinity” (the Chief of the Archangels of Nebadon, 37:5.1). The same author explains: “In a certain sense this high Trinity Son is also the personal representative of the Universal Father to the court of the Creator Son; hence his name, Immanuel.”

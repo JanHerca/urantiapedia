@@ -77,7 +77,7 @@ Appreciating these ideas is one thing but realizing them requires some disciplin
 A _religion of personal experience_, as the name suggests, is an even more intimate experiential relationship. There is a set of established spiritual tools or practices, tried and tested over the millennia of human existence on which countless books have been written, and which I have distilled here for your immediate practical use. From here forward you are asked not to believe what you are reading, but to try for yourself, and feel through experience to determine if such an approach has merit. If you do experience hints of calmness, oneness with all, joy, happiness, or the slightest glimpse of universal understanding, you are invited to continue to practice these techniques on a daily basis. Like exercising your physical body for good health, you must continue to hone and develop your heart and soul’s ability to express themselves—to give and receive freely.
 <br style="clear:both;"/>
 
-## What Are the Spiritual Practices in** **_The Urantia Book?_
+## What Are the Spiritual Practices in _The Urantia Book?_
 
 _The Urantia Book_ describes traditional religion, with its ritual, sacrifice, and outward displays of piety as hollow and empty compared to the religion of personal experience. Instead, _The Urantia Book_ places high importance on spiritual practices described as relaxation, meditation, prayer, or worship.
 

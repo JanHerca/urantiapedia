@@ -168,7 +168,7 @@ In this paper, the Mighty Messenger compares time and space. Time, as used here,
 
 He writes that true liberty is achieved by earning your place in the universe and going through the evolutionary process to attain it. And it requires intelligence, maturity, fraternity, and equity or fairness. Whereas false liberty proposes that time is error and space is evil. In other words, false liberty says “I don’t want to wait for things to occur by the natural evolutionary process. I want it now and I shouldn’t have to do anything to achieve it. Making me wait and earn is evil and unfair.” That is false liberty.
 
-With that distinction in mind, we should be able to identify ideologies that promote license as opposed to liberty. We can conclude that **a****ny ideology that rejects waiting and earning is a product of false liberty**.
+With that distinction in mind, we should be able to identify ideologies that promote license as opposed to liberty. We can conclude that **any ideology that rejects waiting and earning is a product of false liberty**.
 
 It manifests itself in:
 

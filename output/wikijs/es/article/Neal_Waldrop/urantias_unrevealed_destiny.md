@@ -209,12 +209,6 @@ Como insinué anteriormente, The Global Endeavor aún no está funcionando: en e
 
 Esperamos que muchos de los que lean este artículo se interesen activamente en nuestros planes para The Global Endeavor, en especial en relación con el programa de actividades prácticas que está ya en marcha. Son libres de consultar nuestra modesta web [https://www.globalendeavor.net](https://www.globalendeavor.net/), que ofrece un amplio rango de documentos que pueden leer o descargar.
 
-## Notas
-
-[^1]: Como los lectores comprometidos de _El libro de Urantia_ conocen bien, Maquiventa Melquisedec fue uno de los doce síndicos Melqujisedec que asumieron la responsabilidad espiritual de Urantia tras la rebelión de Lucifer y Caligastia (un Melquisedec, 67:6.5-6). Maquiventa Melquisedec acabó ejerciendo parte de estas responsabilidades al dirigir la tercera revelación de época, un otorgamiento de emergencia en los días de Abraham: apareció de repente bajo forma humana y vivió y enseñó en nuestro planeta durante 94 años. Para conocer los detalles, lean el documento 93, «Maquiventa Melquisedec» (escrito por otro Melquisedec de Nebadon).
-
-[^2]: Esta frase se refiere a las instrucciones y los consejos que Miguel recibió de Emmanuel de Salvington, «el Unión de los Días asignado al universo local de Nebadon», donde sirve como «embajador de la Trinidad del Paraíso» (el Jefe de los Arcángeles de Nebadon, 33:5.1). El mismo autor explica: «En cierto sentido este alto Hijo de la Trinidad es también el representante personal del Padre Universal ante el consejo de gobierno del Hijo Creador. De ahí su nombre, Emmanuel».
-
 
 <figure class="table chapter-navigator">
   <table>
@@ -245,3 +239,9 @@ Esperamos que muchos de los que lean este artículo se interesen activamente en 
 - [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2023/?lang=es)
 - [Este artículo](https://urantia-association.org/el-destino-no-revelado-de-urantia/?lang=es)
+
+## Notas
+
+[^1]: Como los lectores comprometidos de _El libro de Urantia_ conocen bien, Maquiventa Melquisedec fue uno de los doce síndicos Melqujisedec que asumieron la responsabilidad espiritual de Urantia tras la rebelión de Lucifer y Caligastia (un Melquisedec, 67:6.5-6). Maquiventa Melquisedec acabó ejerciendo parte de estas responsabilidades al dirigir la tercera revelación de época, un otorgamiento de emergencia en los días de Abraham: apareció de repente bajo forma humana y vivió y enseñó en nuestro planeta durante 94 años. Para conocer los detalles, lean el documento 93, «Maquiventa Melquisedec» (escrito por otro Melquisedec de Nebadon).
+
+[^2]: Esta frase se refiere a las instrucciones y los consejos que Miguel recibió de Emmanuel de Salvington, «el Unión de los Días asignado al universo local de Nebadon», donde sirve como «embajador de la Trinidad del Paraíso» (el Jefe de los Arcángeles de Nebadon, 33:5.1). El mismo autor explica: «En cierto sentido este alto Hijo de la Trinidad es también el representante personal del Padre Universal ante el consejo de gobierno del Hijo Creador. De ahí su nombre, Emmanuel».
