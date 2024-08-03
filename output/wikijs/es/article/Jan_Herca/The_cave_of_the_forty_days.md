@@ -3,13 +3,12 @@ title: "La cueva de los cuarenta días"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Jesus, Jesus times, place
+tags: Jesus, Jesus times, place, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
-
 
 A veces hay referencias en _El Libro de Urantia_ que llaman la atención por su exactitud y concreción. Parecen colocadas ahí para que alguien se moleste en verificarlas, o quizá con alguna oculta intención que yo no alcanzo todavía a comprender. Pero cuando comencé a escribir el capítulo sobre el período de aislamiento de Jesús después de su bautismo, los famosos «cuarenta días», no pude escapar a la tentación de investigar sobre el paradero de Jesús durante ese período.
 

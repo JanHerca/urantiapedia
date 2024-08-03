@@ -3,13 +3,12 @@ title: "La casa de Jesús en Nazaret"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Jesus, Jesus times, place
+tags: Jesus, Jesus times, place, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
-
 
 No hay forma de averiguar dónde estuvo situada y cómo fue la casa en la que vivió Jesús. La iglesia de la Anunciación, situada sobre otras antiguas iglesias, en Nazaret, se proclama al visitante de la ciudad actual como la iglesia que señala el lugar de la casa de Jesús, donde recibió María la visita del ángel. Sin embargo, un examen de lo encontrado bajo los cimientos de esta iglesia no hace sino plantear serias dudas de que realmente allí hubiera vivido Jesús. Lo que existe es una especie de gruta troglodítica, algo común en Nazaret como sótano o cisterna, pero no como vivienda.
 
@@ -36,13 +35,9 @@ El patio lo mantenía María adornado con enredaderas y flores de Galilea en sus
 
 Encima de las habitaciones, subiendo por una escalera de piedra sin barandilla en el interior del patio (<a id="a36_105"></a>[LU 123:4.5](/es/The_Urantia_Book/123#p4_5)), había unas terrazas donde se disponían techumbres provisionales de lona en verano. La gente solía dormir en el techo en verano, al abrigo de estos toldos y de las balaustradas, puesto que el intenso calor del verano lo permitía. Las lluvias de otoño ocasionaban frecuentes goteras en los techos, que había que reparar mediante rodillos de piedra que prensaban el suelo y tapaban las grietas y oquedades.
 
-
 ## Referencias
 
 - Varios autores, _El Libro de Urantia_, 1955.
-
-
-
 
 ## Enlaces externos
 

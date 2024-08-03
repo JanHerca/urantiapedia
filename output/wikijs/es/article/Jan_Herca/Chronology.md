@@ -3,7 +3,7 @@ title: "Cronología de la vida de Jesús según El Libro de Urantia"
 description: 
 published: true
 date: 2023-09-28T14:02:03.086Z
-tags: Jesus, Jesus times
+tags: Jesus, Jesus times, article
 editor: markdown
 dateCreated: 2023-09-28T14:02:03.086Z
 ---
@@ -4362,7 +4362,6 @@ Nota: Durante esos meses Jesús conoció la experiencia de un viaje con una cara
 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
-
 
 ## El período público
 

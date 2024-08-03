@@ -3,13 +3,12 @@ title: "La familia de Jesús"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Jesus, Jesus times
+tags: Jesus, Jesus times, Jesus followers, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
-
 
 Es muy poco lo que sabemos de la familia de Jesús, es decir, de los hermanos y hermanas de sus padres y de sus abuelos. No hay prácticamente ni rastro en los evangelios, y las menciones de los primeros cristianos tampoco son muy numerosas. Esto ha venido a construir una idea anómala de la vida de Jesús, imaginándole como un muchacho que creció sin apenas contacto familiar a excepción de sus padres. Pero esta visión no parece concordar con las numerosas parábolas en las que Jesús utilizaba las relaciones familiares para expresar sus enseñanzas, y que seguramente estaban sacadas de la propia experiencia personal.
 
@@ -163,13 +162,11 @@ Realmente no. La mayor parte de los datos anteriores son elucubraciones obtenida
 
 Pero de sus descendientes, excepto una anécdota recogida por el historiador Hegesipo en sus _Comentarios de los Hechos de la Iglesia_, relativo a un interrogatorio por parte del emperador Domiciano de unos nietos de Judas, el hermano de Jesús, nada de nada. No dejaron ni rastro en los siglos subsiguientes. Y quizá es comprensible. Estos descendientes de la familia de Jesús pasaron a convertirse, de la noche a la mañana, en la familia más perseguida y más odiada de la tierra. No es difícil imaginar que desearan un anonimato que les llevó a desaparecer de los textos históricos.
 
-
 ## Referencias
 
 - Varios autores, _El Libro de Urantia_, 1955.
 
 - _Nuevo Testamento_, La Casa de la Biblia, 1992.
-
 
 ## Enlaces externos
 

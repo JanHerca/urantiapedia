@@ -3,13 +3,12 @@ title: "Yeshua ben Yosef"
 description: 
 published: true
 date: 2023-09-28T14:02:03.086Z
-tags: Jesus, Jesus times
+tags: Jesus, Jesus times, article
 editor: markdown
 dateCreated: 2023-09-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
-
 
 Estamos tan acostumbrados a llamar al Maestro «Jesús» que se nos olvida, que en la lengua que él utilizó en su tiempo, su verdadero nombre, vocalizado correctamente, sonaría tal y como se pronuncia este otro: «_Yeshua ben Yosef_».
 
@@ -32,7 +31,6 @@ En realidad el arameo _Yeshua_ escrito carece de vocales. Se añaden éstas para
 Los romanos, por el contrario, menos interesados en estas cuestiones genealógicas, solían referirse a sus súbditos por el lugar de procedencia. Por eso Poncio Pilato colocó una tablilla con el nombre «Jesús de Nazaret» encima de la cruz.
 
 Teniendo en cuenta todo esto he procurado que Jesús aparezca nombrado en el relato[^1] con diferentes nombres similares a _Yeshua_ en función del lugar y las personas que hablaran con él.
-
 
 Por último, una imagen de cómo se escribían en arameo las cuatro letras de Yeshua. Para leer conviene tener presente que el arameo y el hebreo, como el árabe, se escribían de derecha a izquierda.
 

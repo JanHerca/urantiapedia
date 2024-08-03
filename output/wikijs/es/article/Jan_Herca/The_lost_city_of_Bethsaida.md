@@ -3,7 +3,7 @@ title: "La ciudad perdida de Betsaida"
 description: 
 published: true
 date: 2023-09-28T14:02:03.086Z
-tags: Jesus, Jesus times, place
+tags: Jesus, Jesus times, place, article
 editor: markdown
 dateCreated: 2023-09-28T14:02:03.086Z
 ---
@@ -143,7 +143,6 @@ Mendel Nun asegura que el-Araj, que es apenas una franja delgada delante de la c
 
 ## Teorías de los expertos
 
-
 Los emplazamientos de et-Tell y de el-Araj son de sobras conocidos desde los años de auje de la arqueología bíblica, a principios del siglo XIX. ¿Qué dijeron los más célebres arqueólogos sobre este dudoso asunto de Betsaida?
 
 Edward Robinson, considerado uno de los padres de la arqueología bíblica, en 1838, identificó et-Tell como Betsaida Julias, pero también mantuvo firmemente la existencia de una segunda Betsaida galilea en ¡Tabgha! ¿De dónde le pudo venir la idea de Tabgha? Muy probablemente, Robinson daba por buenos los cuatro relatos evangélicos, y por eso apoyó la teoría de las dos Betsaidas.
@@ -202,7 +201,6 @@ Curiosamente, de mis conclusiones extraigo la circunstancia de que la Betsaida d
 
 Pero estoy seguro de que algún día, nuevos hallazgos, determinarán finalmente quién tenía la razón en toda esta polémica...
 
-
 ## Addendum: el-Araj Excavation Project
 
 Cuando este artículo fue publicado por primera vez en 2006 no tenía ninguna duda de que con el tiempo nuevas campañas arqueológicas acabarían por confirmar mis suposiciones. En 2017, los medios de comunicación de todo el mundo se hicieron eco de un descubrimiento reciente. En el-Araj, el emplazamiento en el que se sospechaba que podían estar las ruinas de Betsaida-Julias, se encontraron restos del período romano, en un estrato por debajo de los restos del período bizantino. El equipo de arqueólogos dirigidos por el Dr. Mordechai Aviam ha sacado a la luz mosaicos de una casa de baños y una rara moneda de plata. Subsecuentes campañas de este equipo, [el-Araj Excatation Project](https://www.elarajexcavations.com/), han producido muchos más hallazgos que evidencian la existencia de una urbe en la zona.
@@ -215,7 +213,6 @@ Cuando este artículo fue publicado por primera vez en 2006 no tenía ninguna du
 </figure>
 
 ## Referencias
-
 
 - Rami Arav y Richard A. Freund, _Bethsaida, a city by the north shore of the Sea of Galilee_, Truman State University Press, dos volúmenes y un CD, 1999.
 

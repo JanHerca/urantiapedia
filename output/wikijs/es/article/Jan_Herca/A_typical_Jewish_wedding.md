@@ -3,7 +3,7 @@ title: "Una típica boda judía"
 description: 
 published: true
 date: 2023-09-28T14:02:03.086Z
-tags: Jesus, Jesus times, place
+tags: Jesus, Jesus times, article
 editor: markdown
 dateCreated: 2023-09-28T14:02:03.086Z
 ---

@@ -3,7 +3,7 @@ title: "¿Cómo fue Nazaret en tiempos de Jesús?"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Jesus, Jesus times, place
+tags: Jesus, Jesus times, place, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -41,7 +41,6 @@ La imagen más adelante muestra un esquema que sitúa las referencias ofrecidas 
 <img src="/image/article/Jan_Herca\What_was_Nazareth_like_in_the_time_of_Jesus/nazaret.jpg">
 <figcaption>Nazaret según <em>El Libro de Urantia</em></figcapton>
 </figure>
-
 
 ## Nazaret según la arqueología actual
 
@@ -111,7 +110,6 @@ También debió de entablar contacto con muchos extranjeros provenientes de otra
 
 Quizá nuevos hallazgos futuros traigan descubrimientos que amplíen nuestra visión de Nazaret. En mi opinión, la ciudad actual ha borrado muchas huellas del pasado, pero es posible que debajo de los garages de muchas casas nazarenas existan restos que revelen datos importantes algún día.
 
-
 ## Referencias
 
 - John D. Crossan y Jonathan L. Reed, _Jesús desenterrado_, Editorial Crítica, 2001.
@@ -123,8 +121,6 @@ Quizá nuevos hallazgos futuros traigan descubrimientos que amplíen nuestra vis
 - [Página web de las excavaciones en Nazaret.](https://www.custodia.org/en/sanctuaries/nazareth) (el antiguo enlace está roto: http://198.62.75.1/www1/ofm/san/TSnzmain.html)
 
 - La página web donde se puede encontrar información detallada sobre el proyecto de [Parque Temático de Nazaret.](http://www.nazarethvillage.com/new/index.php)
-
-
 
 ## Enlaces externos
 
