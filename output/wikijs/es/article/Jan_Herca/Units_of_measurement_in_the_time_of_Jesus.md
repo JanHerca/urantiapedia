@@ -26,7 +26,7 @@ Sin embargo, hay que hacer una apreciacion sobre el «codo». Existían dos tipo
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Jan_Herca/Units_of_measurement_in_the_time_of_Jesus/IMG_0001.jpg">
-<figcaption>Fig. 1. — Unidades de longitud</figcapton>
+<figcaption>Fig. 1. — Unidades de longitud</figcaption>
 </figure>
 
 El codo, ya fuera el legal o no, fue una medida muy usada en distintas partes del mundo y adoptó diversos nombres. No sólo _amah_, _emah_ o _emoth_, sino también _atsila_, que los romanos renombraron a _axilla_, o bien _gomed_, _gerima_, _garmida_, o _kal_. Ha sido siempre una medida fácilmente reproducible y muy usada en todas partes.
@@ -72,7 +72,7 @@ A veces la traducción complica la identificación de las medidas porque hubo un
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Jan_Herca/Units_of_measurement_in_the_time_of_Jesus/IMG_0002.jpg">
-<figcaption>Fig. 2. — Unidades de capacidad</figcapton>
+<figcaption>Fig. 2. — Unidades de capacidad</figcaption>
 </figure>
 
 Existían otras medidas menos conocidas, basadas en la capacidad de cestos y vasijas similares, como el _zzal_ o _canistrum_, el cesto probablemente de [Mt 14:20](/es/Bible/Matthew/14#v20), llamado en siríaco _chupha_; el _mispal_, equivalente a _lethech_; o el _kalzzatra_, una vasija de cuero con capacidad para cuatro _kabim_.
