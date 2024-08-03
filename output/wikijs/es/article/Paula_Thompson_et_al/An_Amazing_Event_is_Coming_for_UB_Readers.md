@@ -115,7 +115,7 @@ El cruce de los dos eclipses puede verse como un verdadero símbolo de la situac
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Paula_Thompson_et_al/23.jpg">
-<figcaption>Eclipse solar 2012 — Observatorio de dinámica solar de la NASA</figcapton>
+<figcaption>Eclipse solar 2012 — Observatorio de dinámica solar de la NASA</figcaption>
 </figure>
 
 Esto no es simplemente un evento astrológico. Tiene todo que ver con la ciencia y los hechos.

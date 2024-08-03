@@ -51,7 +51,7 @@ A lo largo de _El Libro de Urantia_ la religión se describe como esta experienc
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Urantian/Supremacy.jpg">
-<figcaption>Figura 1. — Amar a Dios Crecimiento religioso Servir al hombre</figcapton>
+<figcaption>Figura 1. — Amar a Dios Crecimiento religioso Servir al hombre</figcaption>
 </figure>
 
 Esta discusión se centrará en la dimensión del servicio y se dividirá en dos partes. La Parte I, titulada «Ministerio individual», emprenderá seis estudios de personajes históricos y examinará su servicio a la humanidad como una consecuencia de sus vidas religiosas. La Parte II, titulada «Servicio comunitario», explorará cuatro comunidades, dos históricas y dos contemporáneas, cuyo vínculo común les ha dado unidad espiritual y ha mejorado su misión en el mundo. Al final, se considerarán aplicaciones a nuestra vida espiritual individual y colectiva.
@@ -146,7 +146,7 @@ Estas cuatro comunidades fueron elegidas debido a su formación única en circun
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Urantian/individual.jpg">
-<figcaption>Figura 2. — Amar a Dios Crecimiento religioso Servir al hombre</figcapton>
+<figcaption>Figura 2. — Amar a Dios Crecimiento religioso Servir al hombre</figcaption>
 </figure>
 
 ### El futuro

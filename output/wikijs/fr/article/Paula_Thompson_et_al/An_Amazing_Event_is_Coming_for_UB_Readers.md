@@ -115,7 +115,7 @@ Le croisement des deux éclipses peut être considéré comme véritablement sym
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Paula_Thompson_et_al/23.jpg">
-<figcaption>Éclipse solaire 2012 — Observatoire de la dynamique solaire de la NASA</figcapton>
+<figcaption>Éclipse solaire 2012 — Observatoire de la dynamique solaire de la NASA</figcaption>
 </figure>
 
 Ce n'est _pas_ simplement un _événement astrologique_. Cela a tout à voir avec la science et les faits.

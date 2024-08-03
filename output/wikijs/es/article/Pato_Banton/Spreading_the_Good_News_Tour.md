@@ -58,7 +58,7 @@ Así que, una vez más, muchas gracias por el amor, el apoyo y la generosidad. �
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2023_06/023.jpg">
-<figcaption><em>Gira «Difundir la buena nueva» - Pato Banton</em></figcapton>
+<figcaption><em>Gira «Difundir la buena nueva» - Pato Banton</em></figcaption>
 </figure>
 
 

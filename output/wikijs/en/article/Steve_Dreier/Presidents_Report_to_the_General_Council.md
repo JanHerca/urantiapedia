@@ -42,7 +42,7 @@ New developments combined with augmented traditional activities promise somethin
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/flower.jpg">
-<figcaption><em>“Beauty is always triumphant over ugliness in the hearts of all who are illuminated by the love of truth.” (<a id="a44_124"></a>[UB 156:5.5](/en/The_Urantia_Book/156#p5_5)) Photograph by Carol Herron.</em></figcapton>
+<figcaption><em>“Beauty is always triumphant over ugliness in the hearts of all who are illuminated by the love of truth.” (<a id="a44_124"></a>[UB 156:5.5](/en/The_Urantia_Book/156#p5_5)) Photograph by Carol Herron.</em></figcaption>
 </figure>
 
 

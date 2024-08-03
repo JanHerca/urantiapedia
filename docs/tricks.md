@@ -101,6 +101,9 @@ LaTeX | Markdown
 `\\begin\{displayquote\}` | `> `
 `\n\\end\{displayquote\}` | ``
 `\{\\footnotesize (\d+)\}` | `<sup><small>$1</small></sup>`
+`\\hangindent=1\.0cm \{\\small ([^\}]+)\}` | `$1`
+`\{\\url\{([^\}]+)\}\}` | `$1`
+`\{\\myurl\{([^\}]+)\}\}` | `$1`
 
 ### Other replacements
 

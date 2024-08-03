@@ -71,7 +71,7 @@ His was a life well lived.
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2023_06/011.jpg">
-<figcaption><em>Back: Meredith Sprunger, John Hales, Bill Hales<br>Front: Ticky Harries, Mary Lou Hales, Irene Sprunger</em></figcapton>
+<figcaption><em>Back: Meredith Sprunger, John Hales, Bill Hales<br>Front: Ticky Harries, Mary Lou Hales, Irene Sprunger</em></figcaption>
 </figure>
 
 ## References

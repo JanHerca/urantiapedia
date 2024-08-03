@@ -39,7 +39,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/peru-2912854_1920.jpg">
-<figcaption><em>Imagen de Carlos Chirinos</em></figcapton>
+<figcaption><em>Imagen de Carlos Chirinos</em></figcaption>
 </figure>
 
 Para muchos, la pandemia del COVID-19 ha causado estragos, y está claro que para los miembros de Urantia Perú que hemos estado organizando durante mucho tiempo la conferencia de la Asociación Urantia Internacional Urantia 2021 planeada en Cuzco (Perú) ha presentado un gran desafío, aunque también una gran oportunidad. Esta crisis nos ha permitido analizar las importantes razones por las que no debemos cancelar esta conferencia internacional que ha estado en fase de planificación desde 2017.

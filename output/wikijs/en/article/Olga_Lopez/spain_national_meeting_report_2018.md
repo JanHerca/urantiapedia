@@ -55,7 +55,7 @@ On Sunday morning we watched the movie “The Shack” which stimulated a very i
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/The-Race-to-Nebadon-300x225.jpg">
-<figcaption>Race to Nebadon Game</figcapton>
+<figcaption>Race to Nebadon Game</figcaption>
 </figure>
 
 A workshop was held on the “Power of Prayer” where attendees—in groups of five or six people including a facilitator—shared the way they pray and how beneficial prayer has been to their lives. Again, the focus was on our personal experiences.

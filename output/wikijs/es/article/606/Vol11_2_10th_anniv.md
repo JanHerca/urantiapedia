@@ -737,7 +737,7 @@ _Y lo hicieron, pero Peter logró asistir a la conferencia de 1987 en Narrabeen 
 
 <figure id="Figure_9" class="image urantiapedia" alt="booth">
 <img src="/image/article/606/booth.jpg">
-<figcaption>Puesto de libros de URANTIA, Perth, enero de 1987.</figcapton>
+<figcaption>Puesto de libros de URANTIA, Perth, enero de 1987.</figcaption>
 </figure>
 
 También ayudaron a organizar el primer stand de libros australiano en enero de 1987 en Perth, y en agosto pasado celebraron una reunión de fin de semana a la que asistieron once personas, lo que dio lugar a renovadas intenciones de celebrar grupos de estudio más regulares.

@@ -70,7 +70,7 @@ La suya fue una vida bien vivida.
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2023_06/011.jpg">
-<figcaption><em>Detrás: Meredith Sprunger, John Hales, Bill Hales<br>Delante: Ticky Harries, Mary Lou Hales, Irene Sprunger</em></figcapton>
+<figcaption><em>Detrás: Meredith Sprunger, John Hales, Bill Hales<br>Delante: Ticky Harries, Mary Lou Hales, Irene Sprunger</em></figcaption>
 </figure>
 
 ## Referencias

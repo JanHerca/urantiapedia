@@ -71,7 +71,7 @@ Sa vie a été bien vécue.
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2023_06/011.jpg">
-<figcaption><em>Dernier rang: Meredith Sprunger, John Hales, Bill Hales<br>Premier rang: Ticky Harries, Mary Lou Hales, Irene Sprunger</em></figcapton>
+<figcaption><em>Dernier rang: Meredith Sprunger, John Hales, Bill Hales<br>Premier rang: Ticky Harries, Mary Lou Hales, Irene Sprunger</em></figcaption>
 </figure>
 
 ## Références

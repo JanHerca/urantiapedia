@@ -115,7 +115,7 @@ The crossing of the two eclipses can be seen as truly symbolic of where the worl
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Paula_Thompson_et_al/23.jpg">
-<figcaption>Solar Eclipse 2012 — NASA Solar Dynamics Observatory</figcapton>
+<figcaption>Solar Eclipse 2012 — NASA Solar Dynamics Observatory</figcaption>
 </figure>
 
 This is _not_ merely an _astrological event_. It has everything to do with science and facts.

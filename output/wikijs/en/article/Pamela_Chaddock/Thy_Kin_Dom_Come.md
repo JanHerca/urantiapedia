@@ -53,7 +53,7 @@ In her latest book, [Freeing Jesus](https://www.amazon.com/Freeing-Jesus-Redisco
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Pamela_Chaddock/5.jpg">
-<figcaption>The Nature of Reality by Flammarion</figcapton>
+<figcaption>The Nature of Reality by Flammarion</figcaption>
 </figure>
 
 She asks how we can ever see clearly the Father-Creator God if we have chained or trapped his son, Jesus. Our Jesus-God is too small. Diana wants to set him free to roam the world. She unveils Jesus as a loving revelation of God to humanity. Juicy details are yours to discover in her book.

@@ -52,7 +52,7 @@ J'ai eu l'occasion de la rencontrer en personne lors de la conférence des lecte
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/013.jpg">
-<figcaption><em>Paula Padilla</em></figcapton>
+<figcaption><em>Paula Padilla</em></figcaption>
 </figure>
 
 Pour témoigner de la grande empreinte qu'elle a laissée à l'UBIS, j'aimerais partager quelques mots de certains de ses collègues enseignants-animateurs :

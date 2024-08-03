@@ -36,7 +36,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Patagonia-e1616728727111.jpg">
-<figcaption><em>Photo credit: EcoCamp Patagonia</em></figcapton>
+<figcaption><em>Photo credit: EcoCamp Patagonia</em></figcaption>
 </figure>
 
 Photo credit: EcoCamp Patagonia

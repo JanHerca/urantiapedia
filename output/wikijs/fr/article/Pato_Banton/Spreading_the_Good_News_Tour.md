@@ -59,7 +59,7 @@ Encore une fois, merci beaucoup pour l'amour, le soutien et la générosité. Qu
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2023_06/023.jpg">
-<figcaption><em>Tournée “Répandre la bonne nouvelle” - Pato Banton</em></figcapton>
+<figcaption><em>Tournée “Répandre la bonne nouvelle” - Pato Banton</em></figcaption>
 </figure>
 
 ## Références

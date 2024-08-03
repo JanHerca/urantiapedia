@@ -53,7 +53,7 @@ En su último libro, [Freeing Jesus](https://www.amazon.com/Freeing-Jesus-Redisc
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Pamela_Chaddock/5.jpg">
-<figcaption>La naturaleza de la realidad de Flammarion</figcapton>
+<figcaption>La naturaleza de la realidad de Flammarion</figcaption>
 </figure>
 
 Ella pregunta cómo podremos ver claramente al Dios Padre-Creador si hemos encadenado o atrapado a su hijo Jesús. Nuestro Jesús-Dios es demasiado pequeño. Diana quiere dejarlo libre para vagar por el mundo. Ella revela a Jesús como una revelación amorosa de Dios a la humanidad. Los detalles jugosos son tuyos para descubrir en su libro.
