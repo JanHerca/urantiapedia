@@ -36,7 +36,7 @@ En la época en que no había rey, en Judea el miembro más importante del puebl
 
 El privilegio más importante, sin embargo, era de carácter religioso. El sumo sacerdote era el único mortal que podía entrar en el Sancta Sanctorum un día al año, el día de la expiación. Ese día, la menor falta en las normas litúrgicas habría acarreado un juicio de Dios, y por eso el sumo sacerdote realizaba sus obligaciones de manera especial, con extremo cuidado y escrupulosidad.
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Jan_Herca/The_Jewish_authorities_at_the_time_of_Jesus/High_Priest-546x675.jpg">
 <figcaption>Fig. 1. — Sumo sacerdote</figcaption>
 </figure>
@@ -62,8 +62,8 @@ Los sacerdotes jefes, llamados en hebreo _kôhanîm gadolîm_, y en griego _arch
 
 ### El jefe del templo o _sagan_
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Jan_Herca/The_Jewish_authorities_at_the_time_of_Jesus/High_Priest-546x675.jpg">
+<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Jan_Herca/The_Jewish_authorities_at_the_time_of_Jesus/220px-PLATE4DX.jpg">
 <figcaption>Fig. 2. — Jefe del templo (a la derecha) acompañando al Sumo sacerdote, quien es servido por un levita (adaptado de la <a href="http://en.wikipedia.org/wiki/File:PLATE4DX.jpg">Wikipedia</a></figcaption>
 </figure>
 
@@ -72,6 +72,7 @@ Después del sumo sacerdote, el sacerdote de rango más elevado era el jefe supr
 La importancia de este cargo se debe a que en las ceremonias solemnes asistía al sumo sacerdote, ocupando el puesto de honor a su derecha; tenía que vigilar que el sumo sacerdote realizase correctamente los ritos; solía ser el sustituto del sumo sacerdote el día de la expiación en caso de que el sumo sacerdote no pudiese desempeñar su función; y normalmente, quien era nombrado sumo sacerdote es porque antes ya había sido jefe del templo.
 
 Además de la supervisión del culto, el jefe del templo tenía en sus manos la suprema autoridad policial. En virtud de ella practicaba detenciones, y su poder en cuestiones políticas era pues considerable.
+<br style="clear:both;"/>
 
 ### Jefes de las secciones
 
@@ -99,7 +100,7 @@ Eran, por consiguiente, los ingresos del templo lo que los tesoreros tenían que
 
 ## Los sacerdotes
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Jan_Herca/The_Jewish_authorities_at_the_time_of_Jesus/Garments.jpg">
 <figcaption>Fig. 3. — Sacerdote y Sumo sacerdote</figcaption>
 </figure>
@@ -132,11 +133,6 @@ Los levitas constituían el clero bajo. Su nombre proviene de Leví, una de las 
 
 Su número alcanzaba los 10000 levitas. Al igual que los sacerdotes se organizaban en 24 secciones semanales, que se relevaban cada semana, y cada una con un jefe. En el templo había 4 cargos permanentes de levitas: 2 jefes encargados de los levitas músicos (el primer jefe de músicos y el maestro del coro) y 2 jefes encargados de los levitas servidores del templo (el portero jefe y el guardián jefe), llamados _strategoi_.
 
-<figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Jan_Herca/The_Jewish_authorities_at_the_time_of_Jesus/Levites.jpg">
-<figcaption>Fig. 5. — Sacerdotes y levitas en el altar (<a href="https://www.thetorah.com/article/who-were-the-levites">The Torah.com</a>)</figcaption>
-</figure>
-
 Los levitas se dividían en dos grupos de aproximadamente igual número:
 
 - los cantores y músicos (_msrrym_): constituían la clase superior de los levitas. Tenían la función de acompañamiento musical, cantando y tocando instrumentos, del culto diario de la mañana y de la tarde y con ocasión de las fiestas particulares. Tenían un estrado para ellos en el exterior del atrio de los sacerdotes. Estaban divididos en tres familias, las casa de Hemán, Asaf y Etán o Jedutún y se repartían en 24 turnos para el servicio. Como instrumentos de música solían usar los címbalos (_msltym_), que también se usaban para avisar de cuándo debían iniciarse los cánticos; el arpa (_nbl_), con doce cuerdas; la lira (_kinnor_) con diez cuerdas; y en las fiestas destacadas una especie de flautas o clarinetes (_hlylym_).
@@ -149,6 +145,11 @@ Es importante señalar que entre ambos grupos de levitas, el de cantores y el de
 
 La dignidad sacerdotal y levítica se transmitía por herencia y no podía ser adquirida por ningún otro camino; por este motivo era de vital importancia para sacerdotes y levitas conservar la pureza de la descendencia, a lo cual contribuía primeramente una cuidadosa anotación de las genealogías y, en segundo lugar, unas severas reglas para los casamientos. Si un sacerdote no podía probar su origen legítimo, perdía para sí y para sus descendientes el derecho a la función e ingresos del templo, y si realizaba un casamiento ilegítimo, los hijos de ese matrimonio ya no podían ocupar el cargo.
 
+<figure id="Figure_5" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Jan_Herca/The_Jewish_authorities_at_the_time_of_Jesus/Levites.jpg">
+<figcaption>Fig. 5. — Sacerdotes y levitas en el altar (<a href="https://www.thetorah.com/article/who-were-the-levites">The Torah.com</a>)</figcaption>
+</figure>
+
 En el templo de Jerusalén había un archivo donde se conservaban al día las genealogías del clero. Estas listas las más de las veces desaparecían cuando estallaba una guerra o revuelta y había que ponerlas siempre al día, lo cual llevaba tiempo. Y se ha apuntado más arriba la importancia de los casamientos ilegítimos en la época. Muchas mujeres con las que casaban sacerdotes se consideraban ilegítimas por haber sido prisioneras de guerra, lo que las invalidaba como esposas.
 
 Cuando un hijo de un sacerdote llegaba a la edad canónica admitida de 20 años, el sanedrín examinaba sus aptitudes corporales y la legitimidad de su origen antes de permitirle ser ordenado. Si no se le objetaba nada, después de un baño de purificación (bautismo) se le imponían las vestiduras sacerdotales y se ofrecían una serie de sacrificios y ceremonias por siete días.
@@ -158,6 +159,7 @@ Para los levitas músicos había una práctica similar, con una edad canónica d
 ¿Cuándo un sacerdote o un levita músico era de origen puro, de suerte que no tenía obstáculo para participar en el culto? Siempre que procedía del matrimonio de un sacerdote o de un levita con una mujer de la misma condición de pureza legal que él. Al casarse un sacerdote o un levita cantor era necesario examinar la genealogía de su mujer. Era muy frecuente que se casara a los sacerdotes con hijas de sacerdotes, lo que permitía la función sacerdotal de los futuros hijos. (Este es el caso de Zacarías, según se nos cuenta en el evangelio, que estaba casado con Isabel, hija de sacerdote). Estos casamientos podían ser dentro de una misma familia sacerdotal (llegando a veces al colmo de la proximidad de parentesco) o entre familias sacerdotales distintas. También había uniones entre descendientes de sacerdotes y de levitas, y más aún, con hijas de miembros de la nobleza laica. El caso era asegurar que la unión fuera legítima. Las mujeres con las que no se podía casar eran las siguientes: la prostituta, es decir, la prosélita, la esclava liberta y la desflorada (prisionera de guerra); la violada, es decir, la nacida de matrimonio ilegítimo, o la repudiada por su marido. Y se exigía una pureza hasta cuatro y cinco generaciones anteriores por parte materna y paterna.
 
 Cuando un sacerdote o un levita músico se casaba con una mujer que le estaba prohibida por la ley, se procedía con una severidad implacable: el matrimonio era declarado ilegítimo y los futuros hijos privados del derecho al sacerdocio. Estos hijos eran llamados _halal_ (profanos) y sus hijos ya tampoco nunca podrían ejercer el sacerdocio. De aquí que se comprenda la auténtica obsesión que se tenía con las genealogías entre las familias del clero. Y de aquí que también se efectuaran abusos y trapicheos para conseguir ser admitido en la élite de las familias legítimas.
+<br style="clear:both;"/>
 
 ## La nobleza laica, los ancianos
 

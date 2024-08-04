@@ -17,7 +17,7 @@ El territorio judío apenas tenía salida al mar. El mar muerto no era apto para
 Todo esto provocó que el mar de Galilea, el pequeño lago de agua dulce de la región, se convirtiera en un centro industrial de la pesca de gran importancia para el mundo judío, pues se prefería el pescado capturado por pescadores judíos, que se garantizaba que cumpliría con los preceptos rabínicos de pureza alimentaria y evitaría los peces llamados impuros, frente al obtenido por los pescadores gentiles. Sin embargo, el hecho de la existencia de la puerta de los Peces en Jerusalén como lugar de emplazamiento de los pescadores tirios supone que la pesca del mar de Galilea no proporcionaba todas las capturas necesarias para abastecer a Galilea, Judea, Perea y el resto de territorios bajo influencia judía, y los habitantes de Jerusalén tuvieran que aceptar el consumo de peces provenientes de ciudades gentiles.
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Jan_Herca/The_fishing_sector_in_Sea_of_​​Galilee/1920px-Kinneret_cropped.jpg">
+<img src="/image/article/Jan_Herca/The_fishing_sector_in_Sea_of_Galilee/1920px-Kinneret_cropped.jpg">
 <figcaption>Fig. 1. — Kinnereth (Mar de Galilea), Israel, de Zachi Evenor y User:MathKnight - <a href="https://www.flickr.com/photos/zachievenor/12325753455/">Flickr</a>, CC BY 2.0, <a href="https://commons.wikimedia.org/w/index.php?curid=63922564">Wikimedia Commons</a></figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ De la importancia del sector de la pesca en la economía del mar de Galilea dan 
 ## Puertos pesqueros en la época
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Jan_Herca/The_fishing_sector_in_Sea_of_​​Galilee/ETS-4233-01.jpg">
+<img src="/image/article/Jan_Herca/The_fishing_sector_in_Sea_of_Galilee/ETS-4233-01.jpg">
 <figcaption>Fig. 2. — Antiguos puertos y embarcaderos en el mar de Galilea, según Mendel Nun, 1989</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ Si no había un número suficiente de familiares en la cooperativa, los pescador
 ## Tipos de peces
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="/image/article/Jan_Herca/The_fishing_sector_in_Sea_of_​​Galilee/672.jpg">
+<img src="/image/article/Jan_Herca/The_fishing_sector_in_Sea_of_Galilee/672.jpg">
 <figcaption>Fig. 3. — Peces del mar de Galilea, de <a href="https://wol.jw.org/en/wol/d/r1/lp-e/1001072103">Watchtower ONLINE LIBRARY</a>. 1) El <i>biny</i> (<i>Barbus longiceps</i>), 2) el <i>musht</i> (<i>Tilapia galilea</i>), y 3) las sardinas (<i>Acanthobrama terrae sanctae</i>)</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Hay varios pasajes de los evangelios que sugieren el _musht_. Cuando llega el in
 En la primavera, los _musht_ se aparean y colocan sus huevos en el fondo del lago. Después de la fertilización, los _musht_ padres llevan los huevos en la boca por tres semanas hasta que los huevos maduran. Entonces cuidan de ellos unos pocos días, y luego los liberan. Para prevenir a su progenitura que entren en la boca otra vez, el pez padre ingiere guijarros para que su antigua «casa» no siga siendo tan confortable. Es posible que traguen también monedas y otros objetos con los guijarros, y se han encontrado muchas monedas en la boca de los _musht_. Esto podría explicar el pasaje en el que Jesús le pide a Pedro que busque un pez con una moneda en la boca para pagar los impuestos ([Mt 17:24-27](/es/Bible/Matthew/17#v24); [LU 157:1.1-5](/es/The_Urantia_Book/157#p1_1)).
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Jan_Herca/The_fishing_sector_in_Sea_of_​​Galilee/07102002145151.jpg">
+<img src="/image/article/Jan_Herca/The_fishing_sector_in_Sea_of_Galilee/07102002145151.jpg">
 <figcaption>Fig. 4. — Mosaico de la Iglesia de la Multiplicación, Tabgha. Adaptada de una fotografía de <a href="https://www.bibleplaces.com/">Bible Places</a>.</figcaption>
 </figure>
 
@@ -138,7 +138,7 @@ Para su trabajo, los pescadores necesitaban los recursos de granjeros y artesano
 En cuanto a las cestas se las llama en griego _spuris_ ([Mc 8:8](/es/Bible/Mark/8#v8)) a una cesta con asas, y _kophinios_ ([Mc 6:42](/es/Bible/Mark/6#v42)) a un canasto amplio que se usaba desde tiempo inmemorial transportado por las mujeres sobre su cabeza.
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Jan_Herca/The_fishing_sector_in_Sea_of_​​Galilee/pS001736.jpg">
+<img src="/image/article/Jan_Herca/The_fishing_sector_in_Sea_of_Galilee/pS001736.jpg">
 <figcaption>Fig. 5. — La barca del mar de Galilea.</figcaption>
 </figure>
 
@@ -176,7 +176,7 @@ Esta referencia a la piedra y la serpiente parecen sacadas de la experiencia cot
 Hasta el Segundo Concilio de Vaticano, a los católicos se les podía identificar por comer peces los viernes. Y ha sido una práctica religiosa muy frecuente del catolicismo la sustitución en la dieta de la carne por el pescado durante ciertos momentos litúrgicos. ¿Hay quizá en esta conducta una cierta reverencia a la forma de vida judía de Jesús, que como judío despreció la carne de cerdo y primó en su dieta el pescado, más si cabe al ser galileo?
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Jan_Herca/The_fishing_sector_in_Sea_of_​​Galilee/pS001736.jpg">
+<img src="/image/article/Jan_Herca/The_fishing_sector_in_Sea_of_Galilee/pS001736.jpg">
 <figcaption>Fig. 6. — El símbolo ichthys.</figcaption>
 </figure>
 

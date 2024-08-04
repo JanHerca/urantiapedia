@@ -720,7 +720,7 @@ _Et ils l'ont fait, Peter a réussi à venir à la conférence de 1987 à Narrab
 
 <figure id="Figure_9" class="image urantiapedia" alt="booth">
 <img src="/image/article/606/booth.jpg">
-<figcaption>Stand du livre URANTIA, Perth, janvier 1987.</figcapton>
+<figcaption>Stand du livre URANTIA, Perth, janvier 1987.</figcaption>
 </figure>
 
 Ils ont également aidé à organiser le premier kiosque de lecture australien en janvier 1987 à Perth et, en août dernier, ils ont organisé un week-end de rencontre auquel ont participé onze personnes, ce qui a donné lieu à de nouvelles intentions d'organiser des groupes d'étude plus réguliers.

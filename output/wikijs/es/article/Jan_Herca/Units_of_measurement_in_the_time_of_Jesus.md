@@ -47,14 +47,14 @@ Otra medida intermedia sería el _ruzz_ o _rizz_ (plural _rizzim_ o _ruzzim_) o 
 
 Nombre hebreo | Traducción | Valor | Conversión
 --- | --- | ---: | ---:
-Unidades pequeñas
-_tefahl_/_tefahiml_ | palmo menor | 1 | 7 cm  
-_pagham_/_paghamim_ | pie  | 2 | 15 cm  
-_zereth_/_zerethim_ | palmo mayor | 3 | 22 cm 
+Unidades pequeñas | &nbsp; | &nbsp; | &nbsp;
+_tefahl_/_tefahiml_ | palmo menor | 1 | 7 cm
+_pagham_/_paghamim_ | pie  | 2 | 15 cm
+_zereth_/_zerethim_ | palmo mayor | 3 | 22 cm
 _emoth_/_emathaim_ | codo | 6 | 44 cm
-Unidades grandes
-_kane_/_kanim_ | caña | 39 | 3 m 
-_ruzz_/_ruzzim_ | media milla | 2.730 | 202 m 
+Unidades grandes | &nbsp; | &nbsp; | &nbsp;
+_kane_/_kanim_ | caña | 39 | 3 m
+_ruzz_/_ruzzim_ | media milla | 2.730 | 202 m
 _berath_/_berathim_ | milla | 6.000 | 443 m
 _parazza_/_parazzim_ | milla larga | 20.472 | 1513 m
 
@@ -144,17 +144,17 @@ Para medidas de longitud se utilizaba la _pértica_ o el _actus vorsus_. El _act
 
 Unidad romana | Nombre en latín | Pies | Metros | Millas
 --- | --- | ---: | ---: | ---:
-Unidades pequeñas
-Dedo | _digitus_ | <sup>1</sup>&frasl;<sub>16</sub> | 18,481 mm | 
-Palmo menor | _palmus_ | &frac14; | 7,3925 cm | 
+Unidades pequeñas | &nbsp; | &nbsp; | &nbsp; | &nbsp;
+Dedo | _digitus_ | <sup>1</sup>&frasl;<sub>16</sub> | 18,481 mm | &nbsp;
+Palmo menor | _palmus_ | &frac14; | 7,3925 cm | &nbsp;
 Pie romano | _pes_/_pedis_ | 1 | 29,5700 cm | <sup>1</sup>&frasl;<sub>5.000</sub>
-Palmo-pie | _palmipes_ | <sup>5</sup>&frasl;<sub>4</sub> | 36,9625 cm | 
-Codo | _cubitus_ o _ulna_ | <sup>3</sup>&frasl;<sub>2</sub> | 44,3550 cm | 
+Palmo-pie | _palmipes_ | <sup>5</sup>&frasl;<sub>4</sub> | 36,9625 cm | &nbsp;
+Codo | _cubitus_ o _ulna_ | <sup>3</sup>&frasl;<sub>2</sub> | 44,3550 cm | &nbsp;
 Paso simple | _gradus_ | 2,5 | 0,7405 m | <sup>1</sup>&frasl;<sub>2.000</sub>
 Paso doble | _passus_ | 5 | 1,4810 m | <sup>1</sup>&frasl;<sub>1.000</sub>
 Dos pasos | _decempeda_ o _pertica_ | 10 | 2,9570 m | <sup>1</sup>&frasl;<sub>500</sub>
-Unidades grandes
-Surco | _arctus vorsus_ | 120 | 35,489 m | 
+Unidades grandes | &nbsp; | &nbsp; | &nbsp; | &nbsp;
+Surco | _arctus vorsus_ | 120 | 35,489 m | &nbsp;
 Estadio romano | _stadium_ | 625 | 185,125 m | &frac18;
 Milla romana | _milia passuum_ | 5.000 | 1.481 m | 1
 Legua romana | _leuca_ | 15.000 | 4.443 m | 3
