@@ -30,7 +30,6 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-
 <figure id="Figure_11" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2021_03/11.jpg">
 </figure>
@@ -40,7 +39,6 @@ Tengo el placer de comunicaros que por fin está accesible al público la web [h
 Este proyecto me surgió como idea hace un año y está, por supuesto, muy lejos de estar terminado. Pero contiene un buen puñado de contenido suficiente para mostrar lo que se pretende con él y atraer la atención de más colaboradores.
 
 El objetivo que me marqué al inicio era el de crear un sitio web que permitiera estudiar _El Libro de Urantia_ de un modo mucho más coordinado, donde las referencias a otros libros, a las fuentes de _El Libro de Urantia_, a otro contenido general, estuviera todo enlazado entre sí y no resultara necesario acudir a multitud de webs o libros para tener todo a mano.
-
 
 Mi primera intención fue crear una edición del libro que tuviera notas a pie de página, pero pronto me di cuenta de que crear nuevas ediciones en papel o digital es caer una y otra vez en un error cíclico. _El Libro de Urantia_ es tan denso, tan complejo y variado, que requiere de un mecanismo vivo y dinámico que permita ir ampliando con el tiempo todo ese corpus de conocimiento que se está creando en torno a él. La solución pronto me acudió a la cabeza: una wiki.
 
@@ -61,7 +59,6 @@ Jan Herca
 ## Referencias
 
 - Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2021/02/21/urantiapedia-una-wikipedia-de-el-libro-de-urantia/
-
 
 <figure class="table chapter-navigator">
   <table>

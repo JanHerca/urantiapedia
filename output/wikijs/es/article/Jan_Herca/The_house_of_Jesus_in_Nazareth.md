@@ -22,7 +22,7 @@ Como enseres, en el comedor había una mesa baja de piedra, vasijas de barro, pl
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Jan_Herca/The_house_of_Jesus_in_Nazareth/casa_nazaret.png">
-<figcaption>Plano de la casa de Jesús en Nazaret</figcapton>
+<figcaption>Plano de la casa de Jesús en Nazaret</figcaption>
 </figure>
 
 En el taller, por la noche, se echaban en el suelo sobre unas alfombras (probablemente hechas con cuerda). El taller contaría con el típico banco de carpintero, y con las herramientas básicas: un hacha para cortar árboles, la azuela para desbastar la madera, una hacheta, serruchos de hierro para cortar al tamaño la madera, un tablero de berbiquí y varias brocas para perforarla, un martillo con cabeza de piedra para clavar, un mazo de madera para golpear las escoplas o ajustar tablones; escoplos y limas de hierro para labrar la madera, leznas para agujerear madera o cuero y un surtido de clavos para ensamblar y reforzar. También es posible que hubiera garlopas o cepillos. Para medir, una regla, un compás, gis y desde luego alguna especie de lápices para trazar los cortes. La habitación estaría atestada de madera, sobre todo de sicomoro o higuera silvestre, de madera blanda y porosa, pero resistente. También olivo, dura, de veta fina y de color ambarino, o quizá roble. En casos de pedidos especiales podía usarse cedro y ciprés de Fenicia, los más costosos.

@@ -39,7 +39,7 @@ La imagen más adelante muestra un esquema que sitúa las referencias ofrecidas 
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Jan_Herca\What_was_Nazareth_like_in_the_time_of_Jesus/nazaret.jpg">
-<figcaption>Nazaret según <em>El Libro de Urantia</em></figcapton>
+<figcaption>Nazaret según <em>El Libro de Urantia</em></figcaption>
 </figure>
 
 ## Nazaret según la arqueología actual
@@ -79,7 +79,7 @@ A pesar de todos estos hallazgos, la Nazaret que nos revela la arqueología actu
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Jan_Herca\What_was_Nazareth_like_in_the_time_of_Jesus/nazaret2.jpg">
-<figcaption>Plano superpuesto a la imagen de satélite moderna según Google Maps. La Basílica de la Anunciación se aprecia al sur, muy lejos de la casa de María y José. Según el dibujo, la casa de Jesús está en 6031 St. del Distrito Norte, una calle cuesta arriba en dirección a la estribación norte del Nebi Sa'in. Pero es una suposición muy aventurada. </figcapton>
+<figcaption>Plano superpuesto a la imagen de satélite moderna según Google Maps. La Basílica de la Anunciación se aprecia al sur, muy lejos de la casa de María y José. Según el dibujo, la casa de Jesús está en 6031 St. del Distrito Norte, una calle cuesta arriba en dirección a la estribación norte del Nebi Sa'in. Pero es una suposición muy aventurada. </figcaption>
 </figure>
 
 ## La importancia de Nazaret en el conocimiento de Jesús
@@ -101,7 +101,7 @@ La importancia del conocimiento de Nazaret es vital, como se ve, para entender m
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Jan_Herca\What_was_Nazareth_like_in_the_time_of_Jesus/nazaret.jpg">
-<figcaption>Nazaret the holy land, 1842. Colección de David Roberts. <a href="https://es.wikipedia.org/wiki/Archivo:Nazareth_the_holy_land_1842.jpg">Wikipedia</a></figcapton>
+<figcaption>Nazaret the holy land, 1842. Colección de David Roberts. <a href="https://es.wikipedia.org/wiki/Archivo:Nazareth_the_holy_land_1842.jpg">Wikipedia</a></figcaption>
 </figure>
 
 Jesús debió conocer a sacerdotes ya en Nazaret, y a fariseos, que eran muy frecuentes en todas partes, y a saduceos. Dentro de estos grupos estaría el estrato pudiente de la ciudad, y vivirían en los barrios ricos, en edificios distinguidos de los que desgraciadamente no nos ha quedado resto alguno.

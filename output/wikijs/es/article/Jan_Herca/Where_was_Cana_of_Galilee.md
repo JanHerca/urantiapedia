@@ -66,7 +66,7 @@ No se han encontrado restos arqueológicos que se puedan remontar hasta la époc
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Jan_Herca/Where_was_Cana_of_Galilee/cana_kafarkenna.jpg">
-<figcaption>Kefar Kenna en Google Earth</figcapton>
+<figcaption>Kefar Kenna en Google Earth</figcaption>
 </figure>
 
 ## Khirbet Kanah
@@ -85,7 +85,7 @@ También se han encontrado evidencias arqueológicas en este lugar, que indican 
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Jan_Herca/Where_was_Cana_of_Galilee/cana_khirbetkana.jpg">
-<figcaption>Khirbet Kana en Google Earth</figcapton>
+<figcaption>Khirbet Kana en Google Earth</figcaption>
 </figure>
 
 **Argumentos en contra:**
