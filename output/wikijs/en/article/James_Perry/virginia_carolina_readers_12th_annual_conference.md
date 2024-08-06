@@ -45,6 +45,7 @@ We who have embraced these revelations have accepted by faith that these revelat
 We are the beginning of a long list of trainees/leaders who are preparing the soil for those who come after us, to advance these revelations in the world until that distant day when the world is prepared to enter the era of light and life. And though it is only natural that we would like to see some transformation of our world during our stay here, we are not likely to see that happen on any grand scale. But what we are preparing to do for the future of mankind, we can do in our individual lives right here and now. We can wholeheartedly embrace these truths and the accompanying instructions to enter the era of light and life now.
 
 Consider this:
+<br style="clear:both;"/>
 
 >  _In some of the older universes we find worlds settled in the fifth and the sixth stages of light and life —even far extended into the seventh epoch —whose local systems are not yet settled in light. Younger planets may delay system unification, but this does not in the least handicap the progress of an older and advanced world. Neither can environmental limitations, even on an isolated world, thwart the personal attainment of the individual mortal; Jesus of Nazareth, as a man among men, personally achieved the status of light and life over nineteen hundred years ago on Urantia._ <a id="a48_590"></a>[[UB 55:11.7](/en/The_Urantia_Book/55#p11_7)]
 
