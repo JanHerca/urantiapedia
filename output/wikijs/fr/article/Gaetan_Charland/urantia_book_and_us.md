@@ -14,7 +14,7 @@ dateCreated: 2023-9-16T10:55:6Z
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Susan_Lyon/inspiration_healing_urantia_book">
+        <a href="/fr/article/Susan_Lyon/inspiration_healing_urantia_book_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Inspiration et guérison, tirées du Livre d’Urantia</span>
         </a>
         </td>
@@ -29,6 +29,7 @@ dateCreated: 2023-9-16T10:55:6Z
     </tbody>
   </table>
 </figure>
+
 
 
 
@@ -145,12 +146,15 @@ Nous avons trouvé _Le Livre d’Urantia_ parce que nous cherchions la vérité 
 
 
 
+
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Susan_Lyon/inspiration_healing_urantia_book">
+        <a href="/fr/article/Susan_Lyon/inspiration_healing_urantia_book_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Inspiration et guérison, tirées du Livre d’Urantia</span>
         </a>
         </td>

@@ -24,7 +24,7 @@ dateCreated: 2023-9-16T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Susan_Lyon/inspiration_healing_urantia_book">
+        <a href="/en/article/Susan_Lyon/inspiration_healing_urantia_book_2">
           <span class="pr-2">Inspiration & Healing From The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -32,6 +32,7 @@ dateCreated: 2023-9-16T10:55:6Z
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -170,6 +171,8 @@ Or stated otherwise, true religion _is_ “Doing the will of God.”
 - [This issue](https://urantia-association.org/newsletter/journal-may-2018/)
 - [This article](https://urantia-association.org/doing-will-of-god)
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -185,7 +188,7 @@ Or stated otherwise, true religion _is_ “Doing the will of God.”
         </a>
         </td>
         <td>
-        <a href="/en/article/Susan_Lyon/inspiration_healing_urantia_book">
+        <a href="/en/article/Susan_Lyon/inspiration_healing_urantia_book_2">
           <span class="pr-2">Inspiration & Healing From The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

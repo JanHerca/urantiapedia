@@ -14,7 +14,7 @@ dateCreated: 2023-9-16T10:55:6Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/Susan_Lyon/inspiration_healing_urantia_book">
+        <a href="/es/article/Susan_Lyon/inspiration_healing_urantia_book_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Inspiración y cura que proporciona El libro de Urantia</span>
         </a>
         </td>
@@ -29,6 +29,7 @@ dateCreated: 2023-9-16T10:55:6Z
     </tbody>
   </table>
 </figure>
+
 
 
 
@@ -143,12 +144,15 @@ _\* [[Mandato de Publicación](/es/article/The_Publication_Mandate)] es al parec
 
 
 
+
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/Susan_Lyon/inspiration_healing_urantia_book">
+        <a href="/es/article/Susan_Lyon/inspiration_healing_urantia_book_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Inspiración y cura que proporciona El libro de Urantia</span>
         </a>
         </td>

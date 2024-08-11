@@ -24,7 +24,7 @@ dateCreated: 2023-9-16T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/article/Susan_Lyon/inspiration_healing_urantia_book">
+        <a href="/es/article/Susan_Lyon/inspiration_healing_urantia_book_2">
           <span class="pr-2">Inspiración y cura que proporciona El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -32,6 +32,7 @@ dateCreated: 2023-9-16T10:55:6Z
     </tbody>
   </table>
 </figure>
+
 
 
 
@@ -173,6 +174,8 @@ O dicho de otra manera: la verdadera religión _es_ «hacer la voluntad de Dios�
 
 
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -188,7 +191,7 @@ O dicho de otra manera: la verdadera religión _es_ «hacer la voluntad de Dios�
         </a>
         </td>
         <td>
-        <a href="/es/article/Susan_Lyon/inspiration_healing_urantia_book">
+        <a href="/es/article/Susan_Lyon/inspiration_healing_urantia_book_2">
           <span class="pr-2">Inspiración y cura que proporciona El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

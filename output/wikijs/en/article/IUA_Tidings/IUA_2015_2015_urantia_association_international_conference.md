@@ -24,7 +24,7 @@ dateCreated: 2023-9-16T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/en/article/IUA_Tidings/IUA_2015_conference_program_schedule">
+        <a href="/en/article/IUA_Tidings/IUA_2015_program_schedule">
           <span class="pr-2">2015 International Conference Program Schedule</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -161,7 +161,7 @@ For questions, email Gaetan Charland or Line St. Pierre at: [association.urantia
         </a>
         </td>
         <td>
-        <a href="/en/article/IUA_Tidings/IUA_2015_conference_program_schedule">
+        <a href="/en/article/IUA_Tidings/IUA_2015_program_schedule">
           <span class="pr-2">2015 International Conference Program Schedule</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

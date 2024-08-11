@@ -14,7 +14,7 @@ dateCreated: 2023-9-16T10:55:6Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Susan_Lyon/inspiration_healing_urantia_book">
+        <a href="/en/article/Susan_Lyon/inspiration_healing_urantia_book_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Inspiration & Healing From The Urantia Book</span>
         </a>
         </td>
@@ -29,6 +29,7 @@ dateCreated: 2023-9-16T10:55:6Z
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -138,12 +139,14 @@ We found _The Urantia Book_ because we were searching for the truth it contains.
 - [This issue](https://urantia-association.org/newsletter/journal-may-2018/)
 - [This article](https://urantia-association.org/urantia-book-and-us)
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Susan_Lyon/inspiration_healing_urantia_book">
+        <a href="/en/article/Susan_Lyon/inspiration_healing_urantia_book_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Inspiration & Healing From The Urantia Book</span>
         </a>
         </td>
