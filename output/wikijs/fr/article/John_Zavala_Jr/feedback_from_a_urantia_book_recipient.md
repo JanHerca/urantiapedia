@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 John Zavala, Jr.<br>© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cesar_Paulo_Zapello/readers_meet_inbrazil">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion au Brésil</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2015_international_service_board_at_work">
+          <span class="pr-2">Le Bureau du Service international au travail</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Note de l’Éditeur : Cette lettre nous a été expédiée par une personne incarcérée, laquelle a reçu un_Livre d'Urantia_ suite au programme de l’Équipe de Réponse aux Demandes d'Information des Prisonniers. (PIRT – Prisoner Inquiry Response Team)
@@ -61,3 +85,28 @@ Chicago, IL 60614-7640
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-june-2015/)
 - [Cet article](https://urantia-association.org/feedback-from-a-urantia-book-recipient)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cesar_Paulo_Zapello/readers_meet_inbrazil">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion au Brésil</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2015_international_service_board_at_work">
+          <span class="pr-2">Le Bureau du Service international au travail</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

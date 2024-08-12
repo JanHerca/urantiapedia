@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Enrique Traver<br>© 2023 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/2023_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — Noticias y actualizaciones de la IUA — Septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Diciembre 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marian_Hughes/IUA_2024_urantia_association_conference_update">
+          <span class="pr-2">Noticias de la Conferencia 2024 de la Asociación Urantia Internacional</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Nuestro plan a largo plazo
 
@@ -27,15 +51,15 @@ Tener un plan a largo plazo (PLP) que guíe nuestro trabajo sirve a múltiples p
 
 - **Dónde queremos ir –** El PLP nos da una dirección; sitúa a todo el equipo en la misma onda hacia un objetivo conocido y claro, nos permite identificar desviaciones y aplicar correcciones cuando y donde se necesita. 
 - **Qué necesitamos hacer** – El PLP requiere que el equipo esté integrado para definir un plan y ejecutar las estrategias para lograr un objetivo concreto. 
-- **Cómo debemos hacerlo –** EL PLP requiere planificación y recursos, identificar claramente quién, cómo, dónde, cuándo y cuánto.  
+- **Cómo debemos hacerlo –** EL PLP requiere planificación y recursos, identificar claramente quién, cómo, dónde, cuándo y cuánto.
 
 A lo largo de los últimos 18 meses hemos trabajado activamente para definir el PLP con el fin de guiar nuestros esfuerzos de manera que tengamos metas comunes y trabajemos juntos para cumplir el importante papel de servicio y amor por nuestro Padre y nuestros hermanos. 
 
 Crear un plan a largo plazo implica varios pasos, que incluyen comprender la posición actual de nuestra organización y definir nuestra VISIÓN y MISIÓN, así como preguntar POR QUÉ, CÓMO y QUÉ debemos hacer, que hemos resumido como sigue: 
 
-- **NUESTRA VISIÓN –** El establecimiento de la era de «luz y vida» en Urantia (documento 55).  
-- **NUESTRA MISIÓN** – Fomentar el estudio de _El libro de Urantia_ y difundir sus enseñanzas.  
-- **POR QUÉ LO HACEMOS** – Creemos que las enseñanzas de _El libro de Urantia_ tienen el potencial de rejuvenecer la espiritualidad del mundo y de aumentar la comodidad, la felicidad y el bienestar de todos.  
+- **NUESTRA VISIÓN –** El establecimiento de la era de «luz y vida» en Urantia (documento 55).
+- **NUESTRA MISIÓN** – Fomentar el estudio de _El libro de Urantia_ y difundir sus enseñanzas.
+- **POR QUÉ LO HACEMOS** – Creemos que las enseñanzas de _El libro de Urantia_ tienen el potencial de rejuvenecer la espiritualidad del mundo y de aumentar la comodidad, la felicidad y el bienestar de todos.
 - **CÓMO LO HACEMOS** – Ayudamos a los demás a conectar con Dios compartiendo las enseñanzas de _El libro de Urantia_, y construimos una red de personas que tienen el mismo deseo de difundir estas enseñanzas. 
 - **LO QUE HACEMOS** – Ayudamos a los estudiantes de _El libro de Urantia_ de todo el mundo a estudiar, aplicar las enseñanzas en la vida diaria y a compartir estas lecciones con los buscadores de la verdad de países donde no hay una asociación. 
 
@@ -60,3 +84,27 @@ Su apoyo generoso como voluntario o donante es más importante que nunca si hemo
 - [Boletín Tidings](https://urantia-association.org/newsletter/ncategory/tidings-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/tidings-diciembre-2023/?lang=es)
 - [Este artículo](https://urantia-association.org/mensaje-del-presidente-diciembre-2023/?lang=es)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/2023_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — Noticias y actualizaciones de la IUA — Septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Diciembre 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marian_Hughes/IUA_2024_urantia_association_conference_update">
+          <span class="pr-2">Noticias de la Conferencia 2024 de la Asociación Urantia Internacional</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

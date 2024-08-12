@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jaap_Terra/internatl_conf_2018_report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport sur le Congrès International 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Alice_Wood/ghana_conference_report_2018">
+          <span class="pr-2">Congrès au Ghana 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Voici des témoignages de deux participants au congrès, Jorge Buckingham et Mairam Durand du Pérou qui ont partagé avec nous leurs expériences du Congrès International aux Pays-Bas.
@@ -58,3 +82,28 @@ Je dois conclure cette petite note en remerciant tous les organisateurs (dont je
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-juin-2018/?lang=fr)
 - [Cet article](https://urantia-association.org/reflexions-sur-le-congres-international-de-2018/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jaap_Terra/internatl_conf_2018_report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport sur le Congrès International 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Alice_Wood/ghana_conference_report_2018">
+          <span class="pr-2">Congrès au Ghana 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

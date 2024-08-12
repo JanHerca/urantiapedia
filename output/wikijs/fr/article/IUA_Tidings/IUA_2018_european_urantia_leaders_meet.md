@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_message_march_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président — Mars 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/subsites_regional_urantia_associations">
+          <span class="pr-2">Sites affiliés pour les associations Urantia régionales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _(Conforme aux procès-verbaux et aux rapports soumis par Chris Moseley, Royaume-Uni et Sebastian Nozzi, Allemagne)_
@@ -72,3 +96,28 @@ Malgré un agenda aussi chargé, il y a eu beaucoup de temps pour socialiser et 
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-march-2018/)
 - [Cet article](https://urantia-association.org/reunion-europeenne-des-dirigeants-durantia/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_message_march_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président — Mars 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/subsites_regional_urantia_associations">
+          <span class="pr-2">Sites affiliés pour les associations Urantia régionales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

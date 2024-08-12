@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Olga Lopez<br>© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Alice_Wood/urantia_life_lessons_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Leçons de vie selon Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Alain_Cyr/parliament_worlds_religions_2018">
+          <span class="pr-2">Le Parlement des Religions du Monde 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## The Inner Life
@@ -70,3 +94,28 @@ Olga
 - [Ce numéro](https://urantia-association.org/newsletter/36893/?lang=fr)
 - [Cet article](https://urantia-association.org/18e-congres-national-des-lecteurs-en-espagne/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Alice_Wood/urantia_life_lessons_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Leçons de vie selon Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Alain_Cyr/parliament_worlds_religions_2018">
+          <span class="pr-2">Le Parlement des Religions du Monde 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

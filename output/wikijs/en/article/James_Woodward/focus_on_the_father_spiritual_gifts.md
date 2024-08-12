@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 James Woodward<br>© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Fernando_Maldonado/third_urantia_latin_american_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Third Latin American Conference Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2023_mission_of_the_prisoner_inquiry_response_team">
+          <span class="pr-2">The Mission of the Prisoner Inquiry Response Team</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “True faith is faith only if the actions of your life are in harmony with it and never contradict it.”  — Leo Tolstoy
 
@@ -64,3 +88,27 @@ These gifts of Supreme, Ultimate, and Absolute love are showered upon all the pe
 - [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-december-2023/)
 - [This article](https://urantia-association.org/focus-on-the-father-spiritual-gifts)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Fernando_Maldonado/third_urantia_latin_american_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Third Latin American Conference Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2023_mission_of_the_prisoner_inquiry_response_team">
+          <span class="pr-2">The Mission of the Prisoner Inquiry Response Team</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

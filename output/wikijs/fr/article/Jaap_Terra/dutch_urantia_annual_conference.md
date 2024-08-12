@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Jaap Terra<br>© 2018 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/effective_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Groupes d’étude efficaces</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## 21 août 2018
@@ -42,3 +63,25 @@ Courriel: [info@urantia.nl](mailto:info@urantia.nl)
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-juin-2018/?lang=fr)
 - [Cet article](https://urantia-association.org/reunion-annuelle-de-lassociation-urantia-neerlandaise/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/effective_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Groupes d’étude efficaces</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

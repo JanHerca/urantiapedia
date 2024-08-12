@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Mark Kurtz<br>© 2018 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2018_donating_via_amazonsmile">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faire un don via AmazonSmile</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Enrique_Traver/latin_american_conference_brazil">
+          <span class="pr-2">2e Congrès latino-américain – São Paulo, Brésil</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Pourquoi étudions-nous le Livre d’Urantia ?
@@ -58,3 +82,28 @@ _Ajoutez vos propres raisons en tentant de répondre à cette question._
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-septembre-2018/?lang=fr)
 - [Cet article](https://urantia-association.org/pourquoi-etudions-nous-le-livre-durantia%e2%80%89/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2018_donating_via_amazonsmile">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faire un don via AmazonSmile</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Enrique_Traver/latin_american_conference_brazil">
+          <span class="pr-2">2e Congrès latino-américain – São Paulo, Brésil</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

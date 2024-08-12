@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Line St Pierre<br>© 2021 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Wilson_Leon/spiritualizing_everyday_life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritualiser la vie de tous les jours</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/James_Woodward/focus_on_the_father_stop_resisting">
+          <span class="pr-2">Focaliser sur le Père – Cessez de résister</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -45,3 +69,28 @@ Nous étions toutes reconnaissantes du niveau de confiance, de respect et de vul
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-mars-2021/?lang=fr)
 - [Cet article](https://urantia-association.org/danser-avec-dieu-vivre-dans-lamour-en-ces-temps-difficiles-retraite-en-ligne/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Wilson_Leon/spiritualizing_everyday_life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritualiser la vie de tous les jours</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/James_Woodward/focus_on_the_father_stop_resisting">
+          <span class="pr-2">Focaliser sur le Père – Cessez de résister</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

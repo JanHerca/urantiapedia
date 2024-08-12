@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2021_the_jesus_museum">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Musée de Jésus et le Métavers de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -34,3 +55,25 @@ Adieu Irmeli. Vous avez eu de merveilleuses réalisations dans votre service dé
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-decembre-2021/?lang=fr)
 - [Cet article](https://urantia-association.org/irmeli-ivalo-sjolie-notice-necrologique/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2021_the_jesus_museum">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Musée de Jésus et le Métavers de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

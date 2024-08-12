@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Karen_Huigsloot/international_conference_2018_update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès international 2018, mise à jour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2017_online_workshops_leadership">
+          <span class="pr-2">Ateliers en ligne « Enseignement et leadership selon Le Livre d’Urantia »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -75,3 +99,28 @@ de l’Association Urantia.
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-decembre-2017/?lang=fr)
 - [Cet article](https://urantia-association.org/aide-financiere-congres-international-2018/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Karen_Huigsloot/international_conference_2018_update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès international 2018, mise à jour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2017_online_workshops_leadership">
+          <span class="pr-2">Ateliers en ligne « Enseignement et leadership selon Le Livre d’Urantia »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

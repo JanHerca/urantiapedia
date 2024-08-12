@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Moustapha K. Ndiaye<br>© 2023 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Woodward/focus_on_the_father_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Se focaliser sur le père</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2023_urantia_book_learning_centers">
+          <span class="pr-2">Centres d’apprentissage du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -84,3 +108,28 @@ Les objectifs suivants, décrits dans le rapport d’activité 2022, ont été a
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-mars-2023/?lang=fr)
 - [Cet article](https://urantia-association.org/sagesse-divine-progressive/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Woodward/focus_on_the_father_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Se focaliser sur le père</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2023_urantia_book_learning_centers">
+          <span class="pr-2">Centres d’apprentissage du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

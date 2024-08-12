@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ed_Owen/joe_south_lake_tahoe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Joe, à South Lake Tahoe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_language_multi_linguist_project">
+          <span class="pr-2">Projet linguistique multilingue</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -42,3 +66,28 @@ Ou par courriel: [secretary@urantia-association.org](mailto:secretary@urantia-as
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-decembre-2019/?lang=fr)
 - [Cet article](https://urantia-association.org/une-occasion-excitante-de-servir/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ed_Owen/joe_south_lake_tahoe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Joe, à South Lake Tahoe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_language_multi_linguist_project">
+          <span class="pr-2">Projet linguistique multilingue</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

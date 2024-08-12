@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Enrique_Traver/presidents_message_june_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président – juin 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Cecilia_Barreto/report_virtual_international_conference">
+          <span class="pr-2">Compte rendu sur le congrès international virtuel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -45,3 +69,28 @@ Après avoir obtenu l’approbation, nous avons formé une formidable équipe de
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-juin-2021/?lang=fr)
 - [Cet article](https://urantia-association.org/congres-international-en-2024/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Enrique_Traver/presidents_message_june_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président – juin 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Cecilia_Barreto/report_virtual_international_conference">
+          <span class="pr-2">Compte rendu sur le congrès international virtuel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

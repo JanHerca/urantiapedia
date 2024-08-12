@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_message_september_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président — septembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marcelino_Ramirez/marcelino_responds">
+          <span class="pr-2">Marcelino répond</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Une célébration !
@@ -41,3 +65,28 @@ Les enregistrements Facebook sont également disponibles sur notre page Facebook
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-septembre-2020/?lang=fr)
 - [Cet article](https://urantia-association.org/troisieme-urantiathon-de-24-heures/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_message_september_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président — septembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marcelino_Ramirez/marcelino_responds">
+          <span class="pr-2">Marcelino répond</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

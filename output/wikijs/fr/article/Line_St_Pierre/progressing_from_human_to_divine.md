@@ -1,5 +1,5 @@
 ---
-title: "Progresser de l’Humain au Divin: Se révéler à Dieu"
+title: "Mise à jour de la Conférence internationale 2015"
 description: 
 published: true
 date: 2023-9-16T10:55:6Z
@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Line St-Pierre<br>© 2014 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2015_mini_study_guide">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mini-guide d'étude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Progresser de l’Humain au Divin: Se révéler à Dieu
@@ -43,3 +64,25 @@ Contactez Line St-Pierre, à line.stpierre@ gmail.com, pour plus d'information.
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-december-2014/)
 - [Cet article](https://urantia-association.org/progressing-from-human-to-divine)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2015_mini_study_guide">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mini-guide d'étude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

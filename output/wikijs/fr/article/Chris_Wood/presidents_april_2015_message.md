@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Chris Wood<br>© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/2015_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — Nouvelles de l’IUA — Avril 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-avril-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Avril 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2015_international_conference_quebec">
+          <span class="pr-2">Colloque international 2015 – Québec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -47,3 +71,28 @@ Chris Wood
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-april-2015/)
 - [Cet article](https://urantia-association.org/presidents-april-2015-message)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/2015_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — Nouvelles de l’IUA — Avril 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-avril-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Avril 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2015_international_conference_quebec">
+          <span class="pr-2">Colloque international 2015 – Québec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

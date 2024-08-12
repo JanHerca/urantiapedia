@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Michael Zehr<br>© 2024 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Enrique_Traver/presidents_message_march_2024">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – March 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2024 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2024_new_unity_initiative">
+          <span class="pr-2">New Unity Initiative</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Michael Zehr, USA_
 
@@ -77,3 +101,27 @@ We hope to see you in Baltimore but we understand that travel can be difficult, 
 - [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-march-2024/)
 - [This article](https://urantia-association.org/the-2024-urantia-association-international-conference-approaches)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Enrique_Traver/presidents_message_march_2024">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Message – March 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-march-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — March 2024 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2024_new_unity_initiative">
+          <span class="pr-2">New Unity Initiative</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

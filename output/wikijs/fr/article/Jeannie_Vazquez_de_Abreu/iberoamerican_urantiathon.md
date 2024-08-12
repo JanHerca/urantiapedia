@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Jeannie Vasquez<br>© 2021 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2021_fourth_24_hour_urantiathon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quatrième Urantiathon de 24 heures – Foi, joie et paix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Wilson_Leon/spiritualizing_everyday_life">
+          <span class="pr-2">Spiritualiser la vie de tous les jours</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -47,3 +71,28 @@ https://www.youtube.com/playlist?list=PLYsuKvvHWuuYVTw5GbKvP4sS_bbyIrCBn
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-mars-2021/?lang=fr)
 - [Cet article](https://urantia-association.org/urantiathon-ibero-americain/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2021_fourth_24_hour_urantiathon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quatrième Urantiathon de 24 heures – Foi, joie et paix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Wilson_Leon/spiritualizing_everyday_life">
+          <span class="pr-2">Spiritualiser la vie de tous les jours</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

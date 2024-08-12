@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Gaetan Charland<br>© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marybeni_Rosas/venezuela_conference_for_urantia_book_readers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès au Venezuela pour les lecteurs du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-octobre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Octobre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2015_donate_while_shopping_with_amazon">
+          <span class="pr-2">Faites un don en magasinant chez Amazon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Chers amis du _Livre d'Urantia_**
@@ -38,3 +62,28 @@ Gaetan Charland
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-october-2015/)
 - [Cet article](https://urantia-association.org/study-group-directory)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marybeni_Rosas/venezuela_conference_for_urantia_book_readers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès au Venezuela pour les lecteurs du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-octobre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Octobre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2015_donate_while_shopping_with_amazon">
+          <span class="pr-2">Faites un don en magasinant chez Amazon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

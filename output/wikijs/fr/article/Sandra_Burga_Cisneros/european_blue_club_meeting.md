@@ -8,6 +8,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Sandra Burga-Cisneros<br>© 2017 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Andres_Ramirez/ecuador_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès de l’Équateur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ivan_Stol/french_national_meeting_2">
+          <span class="pr-2">Rencontre nationale française</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -41,3 +65,28 @@ Nous portons la responsabilité de savoir que cela est possible. La prochaine é
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-septembre-2017/?lang=fr)
 - [Cet article](https://urantia-association.org/reunion-annuelle-du-european-blue-club/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Andres_Ramirez/ecuador_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès de l’Équateur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ivan_Stol/french_national_meeting_2">
+          <span class="pr-2">Rencontre nationale française</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

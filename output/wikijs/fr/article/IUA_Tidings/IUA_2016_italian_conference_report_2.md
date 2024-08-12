@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sergey_Litvinov_and_Anton_Miroshnichenko/russian_conference_report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du congrès en Russie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-novembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Novembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/study_groups_and_young_people">
+          <span class="pr-2">Les groupes d'étude et les jeunes gens</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Survival of the Human Self
@@ -39,3 +63,28 @@ Disons aussi que ces charmantes personnes sont potentiellement capables de rendr
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-november-2016/)
 - [Cet article](https://urantia-association.org/italian-conference-report-2)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sergey_Litvinov_and_Anton_Miroshnichenko/russian_conference_report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du congrès en Russie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-novembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Novembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/study_groups_and_young_people">
+          <span class="pr-2">Les groupes d'étude et les jeunes gens</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Bobbie Drier<br>© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier/summer_study_session_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Summer Study Session 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-avril-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Avril 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par _Le Bureau du Service International_
@@ -30,3 +51,25 @@ Journal de l’AUI et le Rapport annuel et il a remodelé leur apparence et leur
 - [Bulletin Tidings](https://urantia-association.org/newsletter/ncategory/tidings-fr/?lang=fr)
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-december-2014/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier/summer_study_session_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Summer Study Session 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-avril-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Avril 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

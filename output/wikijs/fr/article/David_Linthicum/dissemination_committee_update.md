@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 David Linthicum<br>© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_message_march_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président — mars 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Wood/isb_elections">
+          <span class="pr-2">Élections BSI</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -42,3 +66,28 @@ Il reste encore beaucoup à faire. En raison de la générosité de nos membres,
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-mars-2019/?lang=fr)
 - [Cet article](https://urantia-association.org/mise-a-jour-du-comite-de-dissemination/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_message_march_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président — mars 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Wood/isb_elections">
+          <span class="pr-2">Élections BSI</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

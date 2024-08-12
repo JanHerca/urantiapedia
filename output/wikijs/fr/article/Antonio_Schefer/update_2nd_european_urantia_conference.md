@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Antonio Schefer<br>© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/more_on_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Davantage sur les groupes d’étude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_vancouver_canada_2020">
+          <span class="pr-2">Vancouver Canada 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Antonio Schefer, Pays-Bas le 25 avril 2019
@@ -85,3 +109,28 @@ Antonio Schefer
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-mars-2019/?lang=fr)
 - [Cet article](https://urantia-association.org/mise-a-jour-du-2e-congres-europeen-du-mouvement-urantia/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/more_on_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Davantage sur les groupes d’étude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_vancouver_canada_2020">
+          <span class="pr-2">Vancouver Canada 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

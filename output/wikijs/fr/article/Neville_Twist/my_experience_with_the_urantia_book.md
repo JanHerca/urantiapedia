@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Neville Twist<br>© 2016 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/meeting_of_urantia_book_readers_in_spain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rencontre des lecteurs du Livre d'Urantia en Espagne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## … and helping to establish the Auckland Study Group
@@ -51,3 +72,25 @@ Neville Twist, Membre du Comité des groupes d'étude de l’Association Urantia
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-september-2016/)
 - [Cet article](https://urantia-association.org/my-experience-with-the-urantia-book)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/meeting_of_urantia_book_readers_in_spain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rencontre des lecteurs du Livre d'Urantia en Espagne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

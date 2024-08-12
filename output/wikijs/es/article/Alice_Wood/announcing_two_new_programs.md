@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Enrique Traver, Gaétan Charland, Francine Fortin, Alice Wood, Eduardo Franco<br>© 2024 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Alice_Wood/baltimore_children_and_teen_program">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Programa para Niños y Adolescentes de Baltimore</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Junio 2024 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2024_fourth_european_conference_paris">
+          <span class="pr-2">IV Conferencia Europea, París</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Alice Wood, EE.UU._
 
@@ -43,3 +67,27 @@ Este programa está en las primeras fases de desarrollo, pero pueden ayudarnos c
 - [Boletín Tidings](https://urantia-association.org/newsletter/ncategory/tidings-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/tidings-junio-2024/?lang=es)
 - [Este artículo](https://urantia-association.org/anuncio-de-dos-nuevos-programas/?lang=es)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Alice_Wood/baltimore_children_and_teen_program">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Programa para Niños y Adolescentes de Baltimore</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Junio 2024 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2024_fourth_european_conference_paris">
+          <span class="pr-2">IV Conferencia Europea, París</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

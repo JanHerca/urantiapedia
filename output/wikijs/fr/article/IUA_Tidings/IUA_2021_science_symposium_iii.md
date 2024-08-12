@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeannie_Vazquez_de_Abreu/fantastic_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une expérience fantastique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gabriel_Rymberg/center_for_unity">
+          <span class="pr-2">Centre pour l’unité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Le Comité d’éducation de La Fondation Urantia lance un appel pour les propositions.
@@ -38,3 +62,28 @@ Le symposium se tiendra à La Fondation Urantia à Chicago, Illinois, É.-U., et
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-septembre-2021/?lang=fr)
 - [Cet article](https://urantia-association.org/iii-ieme-symposium-sur-la-science/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeannie_Vazquez_de_Abreu/fantastic_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une expérience fantastique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gabriel_Rymberg/center_for_unity">
+          <span class="pr-2">Centre pour l’unité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

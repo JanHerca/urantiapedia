@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Kathleen Swadling<br>© 2018 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2018_european_urantia_leaders_meet">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion européenne des dirigeants d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marlene_and_Georges_Michelson_Dupont/jean_royer_graduation">
+          <span class="pr-2">Jean Royer nous a quitté</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -37,3 +61,28 @@ Déjà, plusieurs associations ont demandé un site affilié et nous encourageon
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-march-2018/)
 - [Cet article](https://urantia-association.org/sites-affilies-pour-les-associations-urantia-regionales/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2018_european_urantia_leaders_meet">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion européenne des dirigeants d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marlene_and_Georges_Michelson_Dupont/jean_royer_graduation">
+          <span class="pr-2">Jean Royer nous a quitté</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

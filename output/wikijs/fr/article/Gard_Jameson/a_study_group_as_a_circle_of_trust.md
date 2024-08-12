@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Gard Jameson<br>© 2022 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Enrique_Traver/presidents_message_december_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président – décembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Olga_Lopez/3rd_european_conference_of_urantia_book_readers">
+          <span class="pr-2">Troisième Congrès européen des lecteurs du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -70,6 +94,31 @@ _Laissez le silence vous conduire au cœur de la vie._<br>
 - [Cet article](https://urantia-association.org/un-groupe-detude-comme-cercle-de-confiance/?lang=fr)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Enrique_Traver/presidents_message_december_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président – décembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Olga_Lopez/3rd_european_conference_of_urantia_book_readers">
+          <span class="pr-2">Troisième Congrès européen des lecteurs du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

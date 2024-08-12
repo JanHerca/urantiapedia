@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Antonio_Schefer/update_2nd_european_urantia_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mise à jour du 2e Congrès européen du mouvement Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_anzura_conference_canberra_2019">
+          <span class="pr-2">Congrès d’ANZURA – Canberra 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## 15 au 19 juillet, 2020 _Se lever ensemble: Unis en raison d’être – Au service de Dieu le Suprême_
@@ -58,3 +82,28 @@ Les groupes de focalisation et les équipes de visionnaires présenteront leurs 
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-mars-2019/?lang=fr)
 - [Cet article](https://urantia-association.org/vancouver-canada-2020/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Antonio_Schefer/update_2nd_european_urantia_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mise à jour du 2e Congrès européen du mouvement Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_anzura_conference_canberra_2019">
+          <span class="pr-2">Congrès d’ANZURA – Canberra 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

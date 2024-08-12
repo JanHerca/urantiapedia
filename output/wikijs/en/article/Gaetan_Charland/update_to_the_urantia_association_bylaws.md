@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Gaétan Charland<br>© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2023_mission_of_the_prisoner_inquiry_response_team">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mission of the Prisoner Inquiry Response Team</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dear Urantia Association Members, Presidents, and Vice-Presidents,
 
@@ -38,6 +59,28 @@ Chair of Urantia Association Governance Committee
 - [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-december-2023/)
 - [This article](https://urantia-association.org/update-to-the-urantia-association-bylaws)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2023_mission_of_the_prisoner_inquiry_response_team">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mission of the Prisoner Inquiry Response Team</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

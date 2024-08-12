@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2021_video_part_4d">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vidéo Partie 4D : L’ancien Orvonton, et une jeune toile cosmique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2021_irmeli_ivalo_sjolie_obituary">
+          <span class="pr-2">Irmeli Ivalo-Sjölie – Notice nécrologique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Gabriel Rymberg, Israël_
 
@@ -52,3 +76,28 @@ Skype : gabriel.rymberg
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-decembre-2021/?lang=fr)
 - [Cet article](https://urantia-association.org/le-musee-de-jesus-et-le-metavers-de-jesus/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2021_video_part_4d">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vidéo Partie 4D : L’ancien Orvonton, et une jeune toile cosmique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2021_irmeli_ivalo_sjolie_obituary">
+          <span class="pr-2">Irmeli Ivalo-Sjölie – Notice nécrologique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

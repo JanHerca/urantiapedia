@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Hartt_Tenney_and_David_S_Tenney/spiritual_unity_in_new_england">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unité spirituelle en Nouvelle-Angleterre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-août-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Août 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Le Président
@@ -75,3 +96,25 @@ Chris Moseley et son équipe s'activent à fournir des services de traduction au
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-august-2015/)
 - [Cet article](https://urantia-association.org/international-service-board-at-work-2nd-quarter-report-for-2015-2)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Hartt_Tenney_and_David_S_Tenney/spiritual_unity_in_new_england">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unité spirituelle en Nouvelle-Angleterre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-août-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Août 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

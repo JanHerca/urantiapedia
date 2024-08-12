@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_vancouver_canada_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vancouver Canada 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Debbie_Bartman/vancouver_island_campout">
+          <span class="pr-2">Campement sur l’île de Vancouver</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Septembre 27 – 30, 2019
@@ -64,3 +88,28 @@ Visitez le site Web d’ANZURA à l’adresse [https://anzura.urantia-associatio
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-mars-2019/?lang=fr)
 - [Cet article](https://urantia-association.org/congres-danzura-canberra-2019/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_vancouver_canada_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vancouver Canada 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Debbie_Bartman/vancouver_island_campout">
+          <span class="pr-2">Campement sur l’île de Vancouver</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

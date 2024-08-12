@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Olga Lopez<br>© 2020 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2020_farewell_to_carolyn_kendall">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adieu Carolyn Kendall</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -65,3 +86,25 @@ Olga
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-decembre-2020/?lang=fr)
 - [Cet article](https://urantia-association.org/dialogues-with-sofia-un-roman-pour-presenter-les-enseignements-du-livre-durantia/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2020_farewell_to_carolyn_kendall">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adieu Carolyn Kendall</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

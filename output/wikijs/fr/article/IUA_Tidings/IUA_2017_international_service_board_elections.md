@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_and_Indira/responses_young_reader_feedback">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réponses à l’appel de jeunes lecteurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le Conseil des représentants de l’Association a tenu des élections en janvier de cette année pour voter sur 7 postes au sein du Bureau de Service International (BSI). Voici les résultats de l’élection :
@@ -53,3 +74,25 @@ Nos remerciements sincères et nos meilleurs vœux vont à nos membres sortants�
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-march-2017/?lang=fr)
 - [Cet article](https://urantia-association.org/elections-au-bureau-de-service-international/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_and_Indira/responses_young_reader_feedback">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réponses à l’appel de jeunes lecteurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

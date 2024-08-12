@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Andrés Ramírez<br>© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2015_international_study_day_reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions de la Journée d'Étude internationale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carmelo_Martinez/urantia_association_of_spain_meets">
+          <span class="pr-2">L'Association Urantia d'Espagne se rencontre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -60,3 +84,28 @@ Nous recommandons fortement aux associations nationales et locales d'Urantia, à
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-june-2015/)
 - [Cet article](https://urantia-association.org/international-book-fair-in-bogota-colombia)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2015_international_study_day_reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions de la Journée d'Étude internationale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carmelo_Martinez/urantia_association_of_spain_meets">
+          <span class="pr-2">L'Association Urantia d'Espagne se rencontre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

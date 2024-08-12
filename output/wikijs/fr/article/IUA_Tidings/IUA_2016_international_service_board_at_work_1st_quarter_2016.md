@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/rejuvenating_your_study_group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Améliorer votre groupe d'étude !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Le Comité des groupes d'étude – Gaétan Charland, président
@@ -88,3 +109,25 @@ Bradly et son comité ont complété les états financiers de fin d'année 2015,
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-june-2016/)
 - [Cet article](https://urantia-association.org/international-service-board-at-work-1st-quarter-2016)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/rejuvenating_your_study_group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Améliorer votre groupe d'étude !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_father_spiritual_gifts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Focus on the Father – Spiritual Gifts</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland/update_to_the_urantia_association_bylaws">
+          <span class="pr-2">Update to the Urantia Association Bylaws</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 “_The Urantia Book_ is the Truth I Have Been Looking for My Whole Life”
 
@@ -39,3 +63,27 @@ Please consider joining us as we seek to minister to the least of our brethren o
 - [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-december-2023/)
 - [This article](https://urantia-association.org/the-mission-of-the-prisoner-inquiry-response-team)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_father_spiritual_gifts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Focus on the Father – Spiritual Gifts</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gaetan_Charland/update_to_the_urantia_association_bylaws">
+          <span class="pr-2">Update to the Urantia Association Bylaws</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

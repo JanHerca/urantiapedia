@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Olga López<br>© 2022 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gard_Jameson/a_study_group_as_a_circle_of_trust">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un groupe d’étude comme cercle de confiance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2022_farewell_margo_sherwood">
+          <span class="pr-2">Adieu Margo Sherwood</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Vaincre le matérialisme, éclairer l’Europe
@@ -35,3 +59,28 @@ Pour toutes ces raisons, je suis certaine qu’une étape importante a été fra
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-decembre-2022/?lang=fr)
 - [Cet article](https://urantia-association.org/troisieme-congres-europeen-des-lecteurs-du-livre-durantia/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gard_Jameson/a_study_group_as_a_circle_of_trust">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un groupe d’étude comme cercle de confiance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2022_farewell_margo_sherwood">
+          <span class="pr-2">Adieu Margo Sherwood</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Meredith Hartt Tenney and Dr. David S. Tenney<br>© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joyce_Anderson/jesus_birthday_in_ny_pennsylvania">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'anniversaire de Jésus à NY – Pennsylvanie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-août-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Août 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2015_international_service_board_at_work_2nd_quarter_report">
+          <span class="pr-2">Bureau du Service International – Rapport du 2ième trimestre de 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -30,3 +54,28 @@ Pour plus de détails de nos deux prochains événements à venir au Angel House
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-august-2015/)
 - [Cet article](https://urantia-association.org/spiritual-unity-in-new-england)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joyce_Anderson/jesus_birthday_in_ny_pennsylvania">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'anniversaire de Jésus à NY – Pennsylvanie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-août-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Août 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2015_international_service_board_at_work_2nd_quarter_report">
+          <span class="pr-2">Bureau du Service International – Rapport du 2ième trimestre de 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

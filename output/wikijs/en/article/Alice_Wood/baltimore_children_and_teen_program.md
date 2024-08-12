@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Alice Wood<br>© 2024 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Francine_Fortin/retrospective_on_the_2024_international_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Retrospective on the 2024 International Conference</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2024 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Alice_Wood/announcing_two_new_programs">
+          <span class="pr-2">Announcing Two New Programs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Alice Wood, USA_
 
@@ -67,3 +91,27 @@ _Thank you to CosmicCreations for managing the logistics of selling the bookmark
 - [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-june-2024/)
 - [This article](https://urantia-association.org/baltimore-children-and-teen-program)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Francine_Fortin/retrospective_on_the_2024_international_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Retrospective on the 2024 International Conference</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2024 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Alice_Wood/announcing_two_new_programs">
+          <span class="pr-2">Announcing Two New Programs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

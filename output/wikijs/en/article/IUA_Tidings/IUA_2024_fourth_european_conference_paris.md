@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Alice_Wood/announcing_two_new_programs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Announcing Two New Programs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2024 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2024_anzura_conference_2024_melbourne">
+          <span class="pr-2">ANZURA Conference 2024 – Melbourne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _European Conference Committee_
 
@@ -52,3 +76,27 @@ Information will evolve until the end of 2024, when everything will be planned.
 - [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-june-2024/)
 - [This article](https://urantia-association.org/fourth-european-conference-paris)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Alice_Wood/announcing_two_new_programs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Announcing Two New Programs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2024 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2024_anzura_conference_2024_melbourne">
+          <span class="pr-2">ANZURA Conference 2024 – Melbourne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

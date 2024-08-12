@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Jeffrey Wattles<br>© 2021 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cecilia_Barreto/report_virtual_international_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compte rendu sur le congrès international virtuel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Linthicum/two_sides_same_coin">
+          <span class="pr-2">Les deux faces d’une même pièce</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -86,3 +110,28 @@ Pour le document du professeur Jinwoog, vous pouvez lui écrire à l’adresse�
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-juin-2021/?lang=fr)
 - [Cet article](https://urantia-association.org/la-valeur-spirituelle-du-congres-peruvien/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cecilia_Barreto/report_virtual_international_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compte rendu sur le congrès international virtuel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Linthicum/two_sides_same_coin">
+          <span class="pr-2">Les deux faces d’une même pièce</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Agnès Lazare<br>© 2018 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/history_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Historique des groupes d’étude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Laura_Suominen_Raatikainen/finnish_winter_meeting_2018">
+          <span class="pr-2">Réunion d’hiver finlandaise 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Tout a commencé il y a à peine un an. L’école dans laquelle j’enseigne l’anglais et la gestion du stress a été sollicitée par une prison de la région dans l’objectif d’élargir leurs propositions de formations aux détenus, hommes désireux d’étendre leurs connaissances et leurs pratiques dans des domaines diversifiés et d’augmenter ainsi leurs chances de réinsertion sociale et professionnelle dès leur sortie.
@@ -41,3 +65,28 @@ lazaragnescarla at gmail-dot-com
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-march-2018/)
 - [Cet article](https://urantia-association.org/ministere-en-prisons-belges/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/history_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Historique des groupes d’étude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Laura_Suominen_Raatikainen/finnish_winter_meeting_2018">
+          <span class="pr-2">Réunion d’hiver finlandaise 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

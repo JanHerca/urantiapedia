@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_message_december_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du Président – décembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Annet/urantia_belgian_group">
+          <span class="pr-2">Réunion du groupe belge pour l’anniversaire de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Avril 24 to 25, 2021
@@ -55,3 +79,28 @@ e-mail: [urantiaperupresidencia@gmail.com](mailto:urantiaperupresidencia@gmail.c
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-decembre-2020/?lang=fr)
 - [Cet article](https://urantia-association.org/11e-congres-international-de-lassociation-urantia-2021-une-experience-virtuelle/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_message_december_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du Président – décembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Annet/urantia_belgian_group">
+          <span class="pr-2">Réunion du groupe belge pour l’anniversaire de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

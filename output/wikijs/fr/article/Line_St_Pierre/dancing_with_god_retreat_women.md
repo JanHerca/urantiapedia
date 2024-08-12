@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Line St-Pierre<br>© 2017 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Steve_Sycamore_and_David_Fabe/gothenburg_book_fair_sweden">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foire du livre de Göteborg — Suède</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2017_first_meeting_urantia_peru">
+          <span class="pr-2">Première réunion nationale — Association Urantia du Pérou</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -63,3 +87,28 @@ Le groupe, Les Filles de Dieu animé par Katharina Becker, Doreen Heyne, Carolyn
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-decembre-2017/?lang=fr)
 - [Cet article](https://urantia-association.org/danser-avec-dieu-et-faire-emerger-le-sacre-une-retraite-pour-femmes/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Steve_Sycamore_and_David_Fabe/gothenburg_book_fair_sweden">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foire du livre de Göteborg — Suède</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2017_first_meeting_urantia_peru">
+          <span class="pr-2">Première réunion nationale — Association Urantia du Pérou</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

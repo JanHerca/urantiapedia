@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Antonio_Schefer/latin_american_continental_conference_mexico_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès continental latino-américain – Mexique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/James_Woodward/focus_on_the_mother">
+          <span class="pr-2">La Mère au centre de l’attention</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -64,3 +88,28 @@ L’équipe du PIRT serait heureuse de vous entendre pour répondre à vos quest
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-septembre-2023/?lang=fr)
 - [Cet article](https://urantia-association.org/groupe-detude-du-livre-durantia-au-penitencier-de-letat-de-loregon/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Antonio_Schefer/latin_american_continental_conference_mexico_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès continental latino-américain – Mexique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/James_Woodward/focus_on_the_mother">
+          <span class="pr-2">La Mère au centre de l’attention</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

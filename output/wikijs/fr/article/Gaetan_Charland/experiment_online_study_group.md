@@ -8,6 +8,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Gaetan Charland<br>© 2017 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_message_september">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du Président – Septembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jose_Ernesto_Arias/bolivia_book_fair_santa_cruz">
+          <span class="pr-2">Foire du livre de Bolivie, Santa Cruz</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -48,3 +72,28 @@ Association Urantia Internationale
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-septembre-2017/?lang=fr)
 - [Cet article](https://urantia-association.org/une-experience-de-groupe-detude/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_message_september">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du Président – Septembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jose_Ernesto_Arias/bolivia_book_fair_santa_cruz">
+          <span class="pr-2">Foire du livre de Bolivie, Santa Cruz</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

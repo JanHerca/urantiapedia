@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Grevet Moyo<br>© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/quebec_conference_reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur le congrès international 2015 au Québec</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-août-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Août 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Cyril/french_national_meeting">
+          <span class="pr-2">La Réunion Nationale Française</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le 12 février 2015, j'ai reçu 120 exemplaires du _Livre d'Urantia_ de la Fondation Urantia, par le biais du Président Chris Wood de l’Association Urantia Internationale. Il s'agissait du plus important envoi que j'ai reçu ici au Malawi.
@@ -77,3 +101,28 @@ Président – Association Urantia du Malawi
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-august-2015/)
 - [Cet article](https://urantia-association.org/success-stories-urantia-books-distribution-in-malawi)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/quebec_conference_reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur le congrès international 2015 au Québec</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-août-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Août 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Cyril/french_national_meeting">
+          <span class="pr-2">La Réunion Nationale Française</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

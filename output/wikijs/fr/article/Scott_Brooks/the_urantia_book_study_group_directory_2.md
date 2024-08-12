@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Scott Brooks<br>© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Woodward/parliament_of_worlds_religions_report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du Parlement des Religions du Monde</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2015_international_service_board_at_work_3rd_quarter_2015">
+          <span class="pr-2">Bureau du Service international – Rapport 3e trimestre 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -47,3 +71,28 @@ Les membres de l’équipe du RGELU sont : Bill Beasley, Scott Brooks, Barry Cla
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-december-2015/)
 - [Cet article](https://urantia-association.org/the-urantia-book-study-group-directory)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Woodward/parliament_of_worlds_religions_report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du Parlement des Religions du Monde</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2015_international_service_board_at_work_3rd_quarter_2015">
+          <span class="pr-2">Bureau du Service international – Rapport 3e trimestre 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

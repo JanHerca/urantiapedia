@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 James Woodward<br>© 2021 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Blackham/anxious_evolution_of_urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’évolution inquiétante d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Le bonheur et la joie prennent origine dans la vie intérieure. On ne peut ressentir tout seul une joie réelle._ <a id="a33_101"></a>[[LU 111:4.7](/fr/The_Urantia_Book/111#p4_7)]
@@ -32,3 +53,25 @@ Le vrai bonheur et la vraie joie que nous éprouvons sont toujours une expérien
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-septembre-2021/?lang=fr)
 - [Cet article](https://urantia-association.org/se-concentrer-sur-le-pere-se-remplir-et-se-deverser/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Blackham/anxious_evolution_of_urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’évolution inquiétante d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

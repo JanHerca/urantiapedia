@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Chris Wood<br>© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/2019_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — Nouvelles de l’IUA — Mars 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Linthicum/dissemination_committee_update">
+          <span class="pr-2">Mise à jour du comité de dissémination</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
@@ -38,3 +62,28 @@ Chris Wood
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-mars-2019/?lang=fr)
 - [Cet article](https://urantia-association.org/message-du-president-mars-2019/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/2019_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — Nouvelles de l’IUA — Mars 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Linthicum/dissemination_committee_update">
+          <span class="pr-2">Mise à jour du comité de dissémination</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Cesar Paulo<br>© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Christian_Ruch/blue_club_meeting_in_frankfurt">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion du《Blue Club» à Francfort, Allemagne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_Zavala_Jr/feedback_from_a_urantia_book_recipient">
+          <span class="pr-2">Réaction d'un bénéficiaire du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -34,3 +58,28 @@ Nous espérons que ces exemples serviront de motivation pour la formation de nou
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-june-2015/)
 - [Cet article](https://urantia-association.org/readers-meet-inbrazil)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Christian_Ruch/blue_club_meeting_in_frankfurt">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion du《Blue Club» à Francfort, Allemagne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_Zavala_Jr/feedback_from_a_urantia_book_recipient">
+          <span class="pr-2">Réaction d'un bénéficiaire du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

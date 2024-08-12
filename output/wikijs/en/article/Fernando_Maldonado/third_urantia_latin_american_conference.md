@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Fernando Maldonaldo<br>© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Daniel_Swadling/2023_anzura_annual_conference_report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2023 ANZURA Annual Conference Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_father_spiritual_gifts">
+          <span class="pr-2">Focus on the Father – Spiritual Gifts</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The Fifth Revelation in the XXI Century
 
@@ -47,3 +71,27 @@ Special thanks goes to Urantia Foundation, the Truthbook organization (The Jesus
 - [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-december-2023/)
 - [This article](https://urantia-association.org/third-urantia-latin-american-conference)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Daniel_Swadling/2023_anzura_annual_conference_report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2023 ANZURA Annual Conference Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Woodward/focus_on_the_father_spiritual_gifts">
+          <span class="pr-2">Focus on the Father – Spiritual Gifts</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

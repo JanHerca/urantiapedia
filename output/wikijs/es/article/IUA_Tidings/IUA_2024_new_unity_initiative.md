@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michael_Zehr/2024_IUA_conference_approaches">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Se acerca la Conferencia 2024 de la Asociación Urantia Internacional</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Marzo 2024 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Woodward/focus_on_faith">
+          <span class="pr-2">Centrarse en el Padre: la fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El año pasado Sue Seccombe, presidenta de la Urantia Book Fellowship, creó una petición y la envió a lo largo y ancho de la comunidad urantiana. La petición se centraba en la unidad y obtuvo más de 600 respuestas, casi todas afirmativas a favor de dirigir nuestro punto de mira hacia la verdadera unidad espiritual, incluso la unidad organizativa.
 
@@ -42,3 +66,27 @@ A continuación está la resolución aprobada por los representantes de la Asoci
 - [Boletín Tidings](https://urantia-association.org/newsletter/ncategory/tidings-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/tidings-marzo-2024/?lang=es)
 - [Este artículo](https://urantia-association.org/nueva-iniciativa-de-unidad/?lang=es)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michael_Zehr/2024_IUA_conference_approaches">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Se acerca la Conferencia 2024 de la Asociación Urantia Internacional</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Marzo 2024 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Woodward/focus_on_faith">
+          <span class="pr-2">Centrarse en el Padre: la fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

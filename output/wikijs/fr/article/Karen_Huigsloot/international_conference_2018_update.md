@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Karen Huigsloot<br>© 2017 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/international_goals_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Objectifs internationaux pour 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2017_international_conference_financial_aid">
+          <span class="pr-2">Aide financière — Congrès International 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Congrès de l’Association Urantia Internationale aux Pays-Bas du 12 au 15 avril 2018
@@ -78,3 +102,28 @@ E-mail: [info@urantia.nl](mailto:info@urantia.nl)
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-decembre-2017/?lang=fr)
 - [Cet article](https://urantia-association.org/congres-international-2018-mise-a-jour/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/international_goals_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Objectifs internationaux pour 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2017_international_conference_financial_aid">
+          <span class="pr-2">Aide financière — Congrès International 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

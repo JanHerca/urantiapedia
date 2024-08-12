@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Sergey Litvinov and Anton Miroshnichenko<br>© 2016 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/tasmanian_conference_reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur le Congrès de Tasmanie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-novembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Novembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2016_italian_conference_report_2">
+          <span class="pr-2">Congrès italien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Développant l’amitié et l’amour entre nous
@@ -104,3 +128,28 @@ _Ce rapport a été préparé par Sergey Litvinov et Anton Miroshnichenko. Nous 
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-november-2016/)
 - [Cet article](https://urantia-association.org/russian-conference-report)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/tasmanian_conference_reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur le Congrès de Tasmanie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-novembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Novembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2016_italian_conference_report_2">
+          <span class="pr-2">Congrès italien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

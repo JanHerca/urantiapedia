@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Alice Wood<br>© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Nathen_Jansen/urantia_global_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Expérience Planétaire d’Urantia — Vancouver 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Olga_Lopez/18th_national_spain">
+          <span class="pr-2">18e Congrès national des lecteurs en Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Une approche personnelle
@@ -69,3 +93,28 @@ https://youtu.be/HaR9xXGn360?list=PLyWjRQTGTD6K_ExQP-0B58ws0NZr8Gxwd
 - [Ce numéro](https://urantia-association.org/newsletter/36893/?lang=fr)
 - [Cet article](https://urantia-association.org/lecons-de-vie-selon-urantia/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Nathen_Jansen/urantia_global_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Expérience Planétaire d’Urantia — Vancouver 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Olga_Lopez/18th_national_spain">
+          <span class="pr-2">18e Congrès national des lecteurs en Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

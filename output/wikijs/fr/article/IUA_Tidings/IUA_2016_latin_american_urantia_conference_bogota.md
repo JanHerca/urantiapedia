@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anton_Miroshnichenko/call_for_membership_coordinators">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appel pour recruter des coordonnateurs de région pour les membres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anton_Miroshnichenko/ukraine_advertising_campaign">
+          <span class="pr-2">Première campagne de publicité du Livre d'Urantia en Ukraine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## 14-17 Octobre 2016
@@ -52,3 +76,28 @@ Si suffisamment de leaders latino-américains participent à ce congrès, nous a
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-june-2016/)
 - [Cet article](https://urantia-association.org/latin-american-urantia-conference-bogota)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anton_Miroshnichenko/call_for_membership_coordinators">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appel pour recruter des coordonnateurs de région pour les membres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anton_Miroshnichenko/ukraine_advertising_campaign">
+          <span class="pr-2">Première campagne de publicité du Livre d'Urantia en Ukraine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

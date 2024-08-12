@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Cecilia Barreto<br>© 2021 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2021_2024_uai_conference_in_usa">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès international en 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/spiritual_value_peru_conference">
+          <span class="pr-2">La valeur spirituelle du congrès péruvien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Organisé les 24 – 25 avril 2021 et présenté par l’Association Urantia du Pérou.
@@ -59,3 +83,28 @@ Organisatrice dans l’équipe de l’Association Urantia du Pérou
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-juin-2021/?lang=fr)
 - [Cet article](https://urantia-association.org/compte-rendu-sur-le-congres-international-virtuel/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2021_2024_uai_conference_in_usa">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès international en 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/spiritual_value_peru_conference">
+          <span class="pr-2">La valeur spirituelle du congrès péruvien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

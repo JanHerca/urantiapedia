@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 James Woodward<br>© 2023 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Myra_Hight/love_for_the_father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Amour pour le Père</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Moustapha_NDiaye/progressive_divine_wisdom">
+          <span class="pr-2">Sagesse Divine Progressive</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Vivre dans la grâce
@@ -54,3 +78,28 @@ Peu importe où nous nous retrouvons dans notre tutoriel de texte, nous trouvons
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-mars-2023/?lang=fr)
 - [Cet article](hhttps://urantia-association.org/se-focaliser-sur-le-pere/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Myra_Hight/love_for_the_father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Amour pour le Père</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Moustapha_NDiaye/progressive_divine_wisdom">
+          <span class="pr-2">Sagesse Divine Progressive</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

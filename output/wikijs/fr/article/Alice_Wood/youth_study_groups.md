@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Alice Wood<br>© 2017 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/study_groups_and_us_survey_results">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Groupes d’étude et nous -Résultats du sondage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Cheryl_Glicker/young_readers_study_groups">
+          <span class="pr-2">Jeunes lecteurs et groupes d’étude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -32,3 +56,28 @@ Je pense qu’il vaut la peine d’encourager les amitiés et les petits évène
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-juin-2017/?lang=fr)
 - [Cet article](https://urantia-association.org/les-jeunes-et-les-groupes-detude/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/study_groups_and_us_survey_results">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Groupes d’étude et nous -Résultats du sondage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Cheryl_Glicker/young_readers_study_groups">
+          <span class="pr-2">Jeunes lecteurs et groupes d’étude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

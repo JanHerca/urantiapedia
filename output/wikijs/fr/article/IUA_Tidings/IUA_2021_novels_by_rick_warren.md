@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Woodward/focus_on_the_father_stop_resisting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Focaliser sur le Père – Cessez de résister</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2021_isb_news_2">
+          <span class="pr-2">Nouvelles de l’International — Bureau de Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -85,3 +109,28 @@ Vous pouvez consulter et acheter tous les livres, versions et traductions sur Am
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-mars-2021/?lang=fr)
 - [Cet article](https://urantia-association.org/oeuvres-derivees-romans-de-rick-warren/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Woodward/focus_on_the_father_stop_resisting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Focaliser sur le Père – Cessez de résister</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2021_isb_news_2">
+          <span class="pr-2">Nouvelles de l’International — Bureau de Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

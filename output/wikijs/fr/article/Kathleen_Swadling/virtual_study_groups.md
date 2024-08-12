@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Kathleen Swadling<br>© 2020 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eugene_Asidao/urantia_book_philippines">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d’Urantia aux Philippines</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2020_meditation_mantras">
+          <span class="pr-2">Mantras de méditation pour l’harmonisation avec l’Ajusteur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -58,3 +82,28 @@ _Description :_ Un autre événement Urantia en ligne de 24 heures : _Nous som
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-juin-2020/?lang=fr)
 - [Cet article](https://urantia-association.org/groupes-detude-et-conferences-virtuelles/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eugene_Asidao/urantia_book_philippines">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d’Urantia aux Philippines</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2020_meditation_mantras">
+          <span class="pr-2">Mantras de méditation pour l’harmonisation avec l’Ajusteur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

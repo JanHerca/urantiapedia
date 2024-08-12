@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Tamila Ragimova<br>© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Alain_Cyr/parliament_worlds_religions_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Parlement des Religions du Monde 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/farewell_moussa_ndiaye">
+          <span class="pr-2">Adieu Moussa Ndiaye</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -33,3 +57,28 @@ Tous les participants étaient heureux de partager une journée d’amour et d�
 - [Ce numéro](https://urantia-association.org/newsletter/36893/?lang=fr)
 - [Cet article](https://urantia-association.org/urantia-a-medellin-colombie/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Alain_Cyr/parliament_worlds_religions_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Parlement des Religions du Monde 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/farewell_moussa_ndiaye">
+          <span class="pr-2">Adieu Moussa Ndiaye</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

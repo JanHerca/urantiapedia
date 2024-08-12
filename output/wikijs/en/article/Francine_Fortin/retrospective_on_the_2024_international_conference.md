@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Francine Fortin<br>© 2024 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2024_update_on_unity_initiative">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Update on Unity Initiative</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2024 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Alice_Wood/baltimore_children_and_teen_program">
+          <span class="pr-2">Baltimore Children and Teen Program</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Francine Fortin_
 
@@ -81,10 +105,12 @@ I was delighted to see my Canadian friends Line St-Pierre, Gaetan Charland and R
 <img src="/image/article/IUA_Tidings/Dipti-Bhakti-1-150x150.jpg">
 </figure>
 
-Throughout the conference, images of our magnificent planet Urantia scrolled across the auditorium’s giant screen, along with a few videos by talented readers. Here’s one of my favorites, created by Dipti Bhakti, a young reader who impressed me greatly, who presented it at the conference entitled [The Light of the Universe](https://www.youtube.com/watch?v=dX-eh5jHgrs).
+Throughout the conference, images of our magnificent planet Urantia scrolled across the auditorium’s giant screen, along with a few videos by talented readers. Here’s one of my favorites, created by Dipti Bhakti, a young reader who impressed me greatly, who presented it at the conference entitled _The Light of the Universe_.
+<br style="clear:both;"/>
+
+https://www.youtube.com/watch?v=dX-eh5jHgrs
 
 The buffet meals were succulent and varied to suit all tastes. Our evenings were pleasantly enriched by two talented artists of international renown: Rebecca Oswald, who rapidly become my new friend and spiritual sister, and Bob Solone, who played a special request by Robert Cadieux, _Smile_, a song I knew but not the author: Charlie Chaplin!
-<br style="clear:both;"/>
 
 https://www.youtube.com/watch?v=xyHoohNyYkw
 
@@ -110,3 +136,27 @@ Francine Fortin
 - [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-june-2024/)
 - [This article](https://urantia-association.org/retrospective-on-the-2024-international-conference)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Tidings/IUA_2024_update_on_unity_initiative">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Update on Unity Initiative</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-june-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — June 2024 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Alice_Wood/baltimore_children_and_teen_program">
+          <span class="pr-2">Baltimore Children and Teen Program</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

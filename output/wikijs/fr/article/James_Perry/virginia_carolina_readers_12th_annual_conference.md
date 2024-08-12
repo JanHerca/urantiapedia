@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 James Perry MD<br>© 2014 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_december_2014_message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2015_easter_spirit_renewal_and_sacred_art_retreat">
+          <span class="pr-2">Retraite de Pâques 2015 sur l’Esprit de Renouvellement et de l’Art sacré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -43,3 +67,28 @@ James Perry MD
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-december-2014/)
 - [Cet article](https://urantia-association.org/virginia-carolina-readers-12th-annual-conference)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_december_2014_message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2015_easter_spirit_renewal_and_sacred_art_retreat">
+          <span class="pr-2">Retraite de Pâques 2015 sur l’Esprit de Renouvellement et de l’Art sacré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

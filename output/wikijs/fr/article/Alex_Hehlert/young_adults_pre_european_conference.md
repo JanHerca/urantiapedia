@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Alex Hehlert<br>© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Antonio_Schefer/2nd_european_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2e Congrès Urantia européen</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jose_Ernesto_Arias/bolivia_book_fair_2019_santa_cruz">
+          <span class="pr-2">Foire du livre de Bolivie 2019 — Santa Cruz</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -54,3 +78,28 @@ Après la cérémonie de clôture à la fin du congrès, il était temps de dire
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-septembre-2019/?lang=fr)
 - [Cet article](https://urantia-association.org/retraite-precongres-europeenne-des-jeunes-adultes/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Antonio_Schefer/2nd_european_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2e Congrès Urantia européen</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jose_Ernesto_Arias/bolivia_book_fair_2019_santa_cruz">
+          <span class="pr-2">Foire du livre de Bolivie 2019 — Santa Cruz</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Enrique Traver<br>© 2022 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/2022_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — Nouvelles de l’IUA — Décembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gard_Jameson/a_study_group_as_a_circle_of_trust">
+          <span class="pr-2">Un groupe d’étude comme cercle de confiance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
@@ -44,3 +68,28 @@ Joyeux Noël à tous, que Jésus soit présent en nous et que nous puissions ré
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-decembre-2022/?lang=fr)
 - [Cet article](https://urantia-association.org/message-du-president-decembre-2022/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/2022_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — Nouvelles de l’IUA — Décembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gard_Jameson/a_study_group_as_a_circle_of_trust">
+          <span class="pr-2">Un groupe d’étude comme cercle de confiance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

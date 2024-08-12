@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Moustapha Ndiaye<br>© 2022 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2022_brazil_urantia_association">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Association Urantia du Brésil</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/australia_new_zealand_urantia_association">
+          <span class="pr-2">Association Urantia d’Australie et de Nouvelle-Zélande</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -72,3 +96,28 @@ En même temps, le GSDP a pris des initiatives pour étendre la méthode à un p
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-edition-speciale-mars-2022/?lang=fr)
 - [Cet article](https://urantia-association.org/association-urantia-du-senegal/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2022_brazil_urantia_association">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Association Urantia du Brésil</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/australia_new_zealand_urantia_association">
+          <span class="pr-2">Association Urantia d’Australie et de Nouvelle-Zélande</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 James Woodward<br>© 2014 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Abegunde_Julius_Taiwo/urantia_book_readers_in_nigeria">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les lecteurs du Livre d'Urantia au Nigeria</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marta_and_Dave_Elders/teaching_and_facilitating_in_the_ubis">
+          <span class="pr-2">L'enseignement et l’animation dans l’EILU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _(Adapté d'une interview réalisée par Susan Owen)_
@@ -47,3 +71,28 @@ La communauté Urantia de Boulder loue un espace à une église locale où elle 
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-december-2014/)
 - [Cet article](https://urantia-association.org/young-reader-study-group-in-boulder)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Abegunde_Julius_Taiwo/urantia_book_readers_in_nigeria">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les lecteurs du Livre d'Urantia au Nigeria</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marta_and_Dave_Elders/teaching_and_facilitating_in_the_ubis">
+          <span class="pr-2">L'enseignement et l’animation dans l’EILU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

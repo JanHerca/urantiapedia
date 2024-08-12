@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Moseley/summer_meeting_2015_in_the_uk">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion d'été 2015 au Royaume-Uni</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Line_St_Pierre/womens_retreat">
+          <span class="pr-2">Retraite des femmes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/montresor-hotel-tower-1-300x200.jpg">
@@ -46,3 +70,28 @@ Pour obtenir d'autres informations, veuillez me contacter au [danielle.lascala@y
 - [Bulletin Tidings](https://urantia-association.org/newsletter/ncategory/tidings-fr/?lang=fr)
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-june-2015/)
 - [Cet article](https://urantia-association.org/national-events-italy/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Moseley/summer_meeting_2015_in_the_uk">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion d'été 2015 au Royaume-Uni</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Line_St_Pierre/womens_retreat">
+          <span class="pr-2">Retraite des femmes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

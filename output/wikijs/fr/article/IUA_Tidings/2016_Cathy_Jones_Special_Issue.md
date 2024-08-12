@@ -9,6 +9,24 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-cathy-jones-édition-spéciale-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Cathy Jones — Édition spéciale 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -228,3 +246,22 @@ Ceux d’entre vous qui partagent les mêmes sentiments doivent saisir toutes le
 - [Bulletin Tidings](https://urantia-association.org/newsletter/ncategory/tidings-fr/?lang=fr)
 - [Ce numéro](https://urantia-association.org/newsletter/farewell-to-cathy-jones/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-cathy-jones-édition-spéciale-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Cathy Jones — Édition spéciale 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

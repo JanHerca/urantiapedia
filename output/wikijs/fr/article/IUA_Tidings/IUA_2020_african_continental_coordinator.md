@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2020_urantia_hackathon_volunteers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Hackathon 2020 — Un appel à des volontaires travaillant en équipe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -30,3 +51,25 @@ Collins est titulaire d’un Baccalauréat en technologie de l’information et 
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-juin-2020/?lang=fr)
 - [Cet article](https://urantia-association.org/coordinateur-continental-africain/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2020_urantia_hackathon_volunteers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Hackathon 2020 — Un appel à des volontaires travaillant en équipe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

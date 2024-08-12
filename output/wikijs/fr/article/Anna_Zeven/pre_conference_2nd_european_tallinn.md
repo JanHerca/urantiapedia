@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Anna Zeven<br>© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_2nd_european_conference_tallinn_last_reminder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2e Congrès européen à Tallinn — Dernier rappel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Risto_Mantynen/post_conference_2nd_european">
+          <span class="pr-2">Post-Congrès – 2e Congrès européen</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Semer des graines à Tallinn et récolter des fleurs à Vancouver
@@ -91,3 +115,28 @@ Présidente UYAI
 - [Ce numéro](https://urantia-association.org/newsletter/36893/?lang=fr)
 - [Cet article](https://urantia-association.org/newsletter/36893/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_2nd_european_conference_tallinn_last_reminder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2e Congrès européen à Tallinn — Dernier rappel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Risto_Mantynen/post_conference_2nd_european">
+          <span class="pr-2">Post-Congrès – 2e Congrès européen</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

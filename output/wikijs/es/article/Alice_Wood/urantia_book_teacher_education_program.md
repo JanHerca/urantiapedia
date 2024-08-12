@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Alice Wood<br>© 2024 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_PIRT_slow_and_steady">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lento y seguro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Marzo 2024 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Urantia University Institute – Se aceptan solicitudes
 
@@ -24,8 +45,8 @@ El programa híbrido de formación de un año incluye una sesión presencial de 
 
 - ¿Creen que se beneficiarían de una revisión e integración exhaustivas de los principales temas y conceptos de _El libro de Urantia_ que les permitirían articular mejor la revelación?
 
-Su participación en el Programa de Formación de Profesores les dará un espacio para abordar todos estos deseos en compañía de instructores expertos y experimentados, junto a estudiantes igualmente motivados.  
-  
+Su participación en el Programa de Formación de Profesores les dará un espacio para abordar todos estos deseos en compañía de instructores expertos y experimentados, junto a estudiantes igualmente motivados.
+
 Este programa…
 
 - Ofrece una revisión exhaustiva de los principales temas y conceptos de _El libro de Urantia_.
@@ -49,3 +70,24 @@ Este programa está apoyado parcialmente por una beca Semilla de Mostaza de la F
 - [Boletín Tidings](https://urantia-association.org/newsletter/ncategory/tidings-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/tidings-marzo-2024/?lang=es)
 - [Este artículo](https://urantia-association.org/programa-de-formacion-de-profesores-de-el-libro-de-urantia/?lang=es)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_PIRT_slow_and_steady">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lento y seguro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Marzo 2024 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

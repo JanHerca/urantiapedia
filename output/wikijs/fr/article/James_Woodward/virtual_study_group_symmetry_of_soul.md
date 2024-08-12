@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 James Woodward<br>© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2015_new_international_service_board_members">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Présentation du Conseil des représentants de l’Association Urantia Internationale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-février-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Février 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Susan_Owen/farewell_to_shirley_pelland">
+          <span class="pr-2">Un Au revoir à Shirley Pelland</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Chemine dans sa Cinquième Année
@@ -49,3 +73,28 @@ James Woodward
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-december-2014/)
 - [Cet article](https://urantia-association.org/virtual-study-group-symmetry-of-soul)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2015_new_international_service_board_members">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Présentation du Conseil des représentants de l’Association Urantia Internationale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-février-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Février 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Susan_Owen/farewell_to_shirley_pelland">
+          <span class="pr-2">Un Au revoir à Shirley Pelland</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

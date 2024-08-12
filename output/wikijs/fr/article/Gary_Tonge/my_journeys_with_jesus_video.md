@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Gary Tonge<br>© 2023 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Hara_Davis/soul_evolution_study_aid">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aide à l’étude de l’évolution de l’âme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _My Journeys with Jesus – The Urantia Book_ est une vidéo de cinq minutes savamment arrangée par Gary Tonge et une équipe d'écrivains, d'artistes et de producteurs. Voici comment elle est décrite sous la vidéo sur YouTube :
@@ -25,3 +46,25 @@ https://youtu.be/qv4tMe39vd4
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-mars-2023/?lang=fr)
 - [Cet article](https://urantia-association.org/my-journeys-with-jesus-video)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Hara_Davis/soul_evolution_study_aid">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aide à l’étude de l’évolution de l’âme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

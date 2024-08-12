@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Wilson Leon<br>© 2021 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeannie_Vazquez_de_Abreu/iberoamerican_urantiathon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantiathon ibéro-américain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Line_St_Pierre/dancing_with_god_2">
+          <span class="pr-2">Danser avec Dieu — Vivre dans l’amour en ces temps difficiles — Retraite en ligne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Entretien avec Isabel Reinoso Manrique, Président de l’Association Urantia de Colombie
@@ -63,3 +87,28 @@ Ce qu’il faut, c’est que nous essayions, au moins, de contribuer à l’éta
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-mars-2021/?lang=fr)
 - [Cet article](https://urantia-association.org/spiritualiser-la-vie-de-tous-les-jours/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeannie_Vazquez_de_Abreu/iberoamerican_urantiathon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantiathon ibéro-américain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Line_St_Pierre/dancing_with_god_2">
+          <span class="pr-2">Danser avec Dieu — Vivre dans l’amour en ces temps difficiles — Retraite en ligne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

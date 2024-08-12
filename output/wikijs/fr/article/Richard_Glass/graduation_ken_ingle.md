@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Richard Glass<br>© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_graduation_eddie_king">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Graduation d’Eddie King</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _(Note de l’éditeur : Ken Ingle de Lone Star Urantia Association (LSUA) au Texas est décédé samedi, le 2 février à l’âge de 85 ans. Ce qui suit est un compte rendu de sa vie par son bon ami, Richard Glass)._
@@ -35,3 +56,25 @@ Mes meilleurs vœux, Ken, pour les grands défis et les aventures à venir !
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-mars-2019/?lang=fr)
 - [Cet article](https://urantia-association.org/graduation-de-ken-ingle/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_graduation_eddie_king">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Graduation d’Eddie King</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

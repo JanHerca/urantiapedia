@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Myra Hight<br>© 2023 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeannie_Vazquez_de_Abreu/a_special_youth_urantiathon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un Urantiathon spécial pour les jeunes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/James_Woodward/focus_on_the_father_3">
+          <span class="pr-2">Se focaliser sur le père</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Ne peut être mis en cage
@@ -34,3 +58,28 @@ Si vous souhaitez utiliser l’art de Reinaldo dans vos travaux d’Urantia, veu
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-mars-2023/?lang=fr)
 - [Cet article](https://urantia-association.org/lamour-pour-le-pere/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeannie_Vazquez_de_Abreu/a_special_youth_urantiathon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un Urantiathon spécial pour les jeunes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/James_Woodward/focus_on_the_father_3">
+          <span class="pr-2">Se focaliser sur le père</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

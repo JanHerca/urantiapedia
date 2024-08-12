@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_peru_2021_international_conference_update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pérou 2021 — Mise à jour du congrès international</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nathen_Jansen_and_Katharina_Becker/vancouver_2020_urantia_global_experience">
+          <span class="pr-2">Vancouver 2020 — Urantia Global Exprerience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -39,3 +63,28 @@ L’inscription est de 50 $ US. Pour vous inscrire et réserver votre hébergem
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-decembre-2019/?lang=fr)
 - [Cet article](https://urantia-association.org/congres-urantia-de-floride-2020/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_peru_2021_international_conference_update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pérou 2021 — Mise à jour du congrès international</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nathen_Jansen_and_Katharina_Becker/vancouver_2020_urantia_global_experience">
+          <span class="pr-2">Vancouver 2020 — Urantia Global Exprerience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

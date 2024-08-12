@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Laura_Suominen_Raatikainen/finnish_summer_conference_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du congrès d’été finlandais de 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Kurtz/why_study_urantia_book">
+          <span class="pr-2">Pourquoi étudions-nous le Livre d’Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -58,3 +82,28 @@ Merci de vous joindre à nous dans nos efforts pour répandre les enseignements 
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-septembre-2018/?lang=fr)
 - [Cet article](https://urantia-association.org/faire-un-don-via-amazonsmile/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Laura_Suominen_Raatikainen/finnish_summer_conference_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du congrès d’été finlandais de 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Kurtz/why_study_urantia_book">
+          <span class="pr-2">Pourquoi étudions-nous le Livre d’Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

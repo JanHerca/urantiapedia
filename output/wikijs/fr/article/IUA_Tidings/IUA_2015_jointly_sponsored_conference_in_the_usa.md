@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anton_Miroshnichenko/three_summer_exhibitions_in_ukraine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Troís présentations estivales en Ukraine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-octobre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Octobre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Antonio_Schefer/urantia_young_adult_international_uyai_study_group">
+          <span class="pr-2">Groupe d'étude international des jeunes adultes d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Jésus le Maître Enseignant
@@ -39,3 +63,28 @@ Lone Star Urantia Association à: [http://www.urantia-lsua.org/2016-conference/4
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-october-2015/)
 - [Cet article](https://urantia-association.org/jointly-sponsored-conference-in-the-usa)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anton_Miroshnichenko/three_summer_exhibitions_in_ukraine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Troís présentations estivales en Ukraine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-octobre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Octobre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Antonio_Schefer/urantia_young_adult_international_uyai_study_group">
+          <span class="pr-2">Groupe d'étude international des jeunes adultes d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

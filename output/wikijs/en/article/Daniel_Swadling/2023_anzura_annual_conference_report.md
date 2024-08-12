@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Daniel Swadling<br>© 2023 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marian_Hughes/IUA_2024_urantia_association_conference_update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2024 Urantia Association International Conference Update</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Fernando_Maldonado/third_urantia_latin_american_conference">
+          <span class="pr-2">Third Latin American Conference Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Talkin’ ‘Bout A Revelation
 
@@ -82,3 +106,27 @@ I leave you with these comforting words encouraging us all to maintain that livi
 - [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-december-2023/)
 - [This article](https://urantia-association.org/2023-anzura-annual-conference-report)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marian_Hughes/IUA_2024_urantia_association_conference_update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2024 Urantia Association International Conference Update</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_tidings#tidings-december-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — December 2023 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Fernando_Maldonado/third_urantia_latin_american_conference">
+          <span class="pr-2">Third Latin American Conference Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

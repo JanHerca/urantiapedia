@@ -8,6 +8,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Ivan Stol<br>© 2017 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sandra_Burga_Cisneros/european_blue_club_meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion annuelle du European Blue Club</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lourdes_Burga_Cisneros/passing_torch_future_generations">
+          <span class="pr-2">Passer le flambeau de lumière aux générations futures</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -73,3 +97,28 @@ Mais l’aide matérielle n’est pas ce qui compte le plus. Partout dans le mon
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-septembre-2017/?lang=fr)
 - [Cet article](https://urantia-association.org/rencontre-nationale-francaise/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sandra_Burga_Cisneros/european_blue_club_meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion annuelle du European Blue Club</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lourdes_Burga_Cisneros/passing_torch_future_generations">
+          <span class="pr-2">Passer le flambeau de lumière aux générations futures</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

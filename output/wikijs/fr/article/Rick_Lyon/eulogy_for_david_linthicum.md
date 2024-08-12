@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Rick Lyon<br>© 2022 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Woodward/ode_to_a_friend">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chef intrépide de la PIRT – Ode à un ami</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Linthicum/eyedropper_spoon_shovel">
+          <span class="pr-2">Le Compte-goutte, la Cuillère et la Pelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _(Note de l’éditeur : David a demandé à Rick de faire de son éloge funèbre un testament aux enseignements du Livre d’Urantia. Il voulait que les personnes rassemblées entendent ce qu’était sa vie religieuse)._
@@ -141,3 +165,28 @@ et finalement :
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-edition-speciale-juin-2022/?lang=fr)
 - [Cet article](https://urantia-association.org/eloge-funebre-de-david-linthicum/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Woodward/ode_to_a_friend">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chef intrépide de la PIRT – Ode à un ami</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Linthicum/eyedropper_spoon_shovel">
+          <span class="pr-2">Le Compte-goutte, la Cuillère et la Pelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 James Woodward<br>© 2023 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2023_urantia_book_study_group_at_oregon_state_penitentiary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Groupe d’étude du Livre d’Urantia au pénitencier de l’État de l’Oregon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Blackham/reflections_on_the_parliament_of_the_worlds_religions_chicago_2023">
+          <span class="pr-2">Réflexions sur le Parlement des religions du monde, Chicago 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -37,3 +61,28 @@ Tout le monde sur la montagne cette nuit-là savait que Jésus était destiné �
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-septembre-2023/?lang=fr)
 - [Cet article](https://urantia-association.org/la-mere-au-centre-de-lattention/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2023_urantia_book_study_group_at_oregon_state_penitentiary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Groupe d’étude du Livre d’Urantia au pénitencier de l’État de l’Oregon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Blackham/reflections_on_the_parliament_of_the_worlds_religions_chicago_2023">
+          <span class="pr-2">Réflexions sur le Parlement des religions du monde, Chicago 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/the_importance_of_organizational_unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La importancia de la unidad organizativa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Junio 2024 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francine_Fortin/retrospective_on_the_2024_international_conference">
+          <span class="pr-2">Retrospectiva de la Conferencia Internacional 2024</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Comité de Gobierno_
 
@@ -49,3 +73,27 @@ El propósito de la encuesta de la asociación sobre la unidad fue obtener la op
 - [Boletín Tidings](https://urantia-association.org/newsletter/ncategory/tidings-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/tidings-junio-2024/?lang=es)
 - [Este artículo](https://urantia-association.org/novedades-de-la-iniciativa-de-unidad/?lang=es)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/the_importance_of_organizational_unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La importancia de la unidad organizativa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Junio 2024 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francine_Fortin/retrospective_on_the_2024_international_conference">
+          <span class="pr-2">Retrospectiva de la Conferencia Internacional 2024</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Gaétan Charland<br>© 2023 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2023_mission_of_the_prisoner_inquiry_response_team">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La misión del Equipo de Respuesta a Peticiones de Reclusos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Diciembre 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Queridos miembros, presidentes y vicepresidentes de la Asociación Urantia:
 
@@ -28,8 +49,8 @@ En 2003, al asumir la presidencia de la Asociación, se introdujeron unos Reglam
 
 Abordemos estos nuevos Reglamentos con diligencia y con el compromiso de mantener nuestros objetivos comunes. Juntos podemos asegurar la claridad y la coherencia de nuestro gobierno, y fomentar un camino unificado y con propósito para la Asociación Urantia Internacional.
 
-Saludos cordiales.  
-Gaétan Charland   
+Saludos cordiales.
+Gaétan Charland 
 Presidente de la comisión de Gobierno de la Asociación Urantia
 <br style="clear:both;"/>
 
@@ -38,6 +59,28 @@ Presidente de la comisión de Gobierno de la Asociación Urantia
 - [Boletín Tidings](https://urantia-association.org/newsletter/ncategory/tidings-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/tidings-diciembre-2023/?lang=es)
 - [Este artículo](https://urantia-association.org/actualizacion-de-los-reglamentos-de-la-asociacion-urantia/?lang=es)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2023_mission_of_the_prisoner_inquiry_response_team">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La misión del Equipo de Respuesta a Peticiones de Reclusos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Diciembre 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

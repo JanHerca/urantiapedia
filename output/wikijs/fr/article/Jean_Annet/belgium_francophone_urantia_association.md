@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Jean Annet<br>© 2022 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Alice_Wood/glmua_new_membership_invitation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">GLMUA – Invitation aux nouveaux membres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Riitta_Tuori/sweden_urantia_association">
+          <span class="pr-2">Association Urantia de Suède</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -32,3 +56,28 @@ Nous continuerons à faire tout ce qui est en notre pouvoir pour favoriser l’�
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-edition-speciale-mars-2022/?lang=fr)
 - [Cet article](https://urantia-association.org/association-urantia-belgique-francophone/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Alice_Wood/glmua_new_membership_invitation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">GLMUA – Invitation aux nouveaux membres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Riitta_Tuori/sweden_urantia_association">
+          <span class="pr-2">Association Urantia de Suède</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

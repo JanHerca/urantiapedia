@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Marian Hughes<br>© 2023 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Enrique_Traver/presidents_message_december_2023">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje del presidente – diciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Diciembre 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Daniel_Swadling/2023_anzura_annual_conference_report">
+          <span class="pr-2">Informe de la Conferencia anual 2023 de ANZURA</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## ¡Alimenta tu alma con estudio, adoración y camaradería! 
 
@@ -48,16 +72,16 @@ Se celebrarán importantes reuniones presenciales de los cargos electos de la As
 <img src="/image/article/IUA_Tidings/image-706x365.jpeg">
 </figure>
 
-**Niños pequeños (menores de 9 años)** – Traiga a sus hijos para pasar un fin de semana lleno de diversión. El programa infantil contará con actividades del plan de estudios de Hometown Nazaret (adaptado para los niños de Urantia) en las que se presentará a los niños la infancia de Jesús de una manera que lo haga identificable.  
-   
-**Niños grandes (de 10 a 12 años)** – Por las mañanas, los niños grandes se moverán a través de las actividades de Hometown Nazaret con los niños pequeños, pero pueden elegir ser ayudantes o participantes regulares. Por las tardes irán de excursión con los adolescentes.  
-   
-**Pascua** – Por supuesto, no podríamos celebrar la Pascua sin una búsqueda de huevos de Pascua. Parte del programa se dedicará a preparar canastas de Pascua en las que recogerán huevos en Semana Santa.  
-   
+**Niños pequeños (menores de 9 años)** – Traiga a sus hijos para pasar un fin de semana lleno de diversión. El programa infantil contará con actividades del plan de estudios de Hometown Nazaret (adaptado para los niños de Urantia) en las que se presentará a los niños la infancia de Jesús de una manera que lo haga identificable.
+ 
+**Niños grandes (de 10 a 12 años)** – Por las mañanas, los niños grandes se moverán a través de las actividades de Hometown Nazaret con los niños pequeños, pero pueden elegir ser ayudantes o participantes regulares. Por las tardes irán de excursión con los adolescentes.
+ 
+**Pascua** – Por supuesto, no podríamos celebrar la Pascua sin una búsqueda de huevos de Pascua. Parte del programa se dedicará a preparar canastas de Pascua en las que recogerán huevos en Semana Santa.
+ 
 **Menores de 3 años** – También cuidaremos a los bebés. Si a su hijo le resulta difícil separarse de sus padres, es posible que le pidamos a usted o a su pareja que vengan con nosotros a la habitación de los niños.
 
-**Adolescentes (mayores de 13 años)** – Por las mañanas, los adolescentes recibirán una lección de _El libro de Urantia_ a través de las páginas de actividades de SeraphiMail. También participarán en dos proyectos de servicio: crearán un espacio de «noche bajo las estrellas» para que los niños pequeños puedan estar cómodos durante su hora de cuentos, y harán los preparativos para que los niños pequeños busquen los huevos de Pascua.  
-   
+**Adolescentes (mayores de 13 años)** – Por las mañanas, los adolescentes recibirán una lección de _El libro de Urantia_ a través de las páginas de actividades de SeraphiMail. También participarán en dos proyectos de servicio: crearán un espacio de «noche bajo las estrellas» para que los niños pequeños puedan estar cómodos durante su hora de cuentos, y harán los preparativos para que los niños pequeños busquen los huevos de Pascua.
+ 
 Por las tardes habrá dos salidas de campo para los niños grandes y adolescentes. Las ubicaciones están sujetas a cambios, pero es probable que se hagan en el arboreto y en Terrapin Adventures para tomar un curso de cuerdas.
 
 **Todos los públicos** – Hay tiempo para que los asistentes de todas las edades disfruten de baños y juegos al aire libre. 
@@ -81,3 +105,27 @@ Esta conferencia está promovida y organizada por la Asociación Urantia Interna
 - [Boletín Tidings](https://urantia-association.org/newsletter/ncategory/tidings-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/tidings-diciembre-2023/?lang=es)
 - [Este artículo](https://urantia-association.org/noticias-de-la-conferencia-2024-de-la-asociacion-urantia-internacional/?lang=es)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Enrique_Traver/presidents_message_december_2023">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje del presidente – diciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Diciembre 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Daniel_Swadling/2023_anzura_annual_conference_report">
+          <span class="pr-2">Informe de la Conferencia anual 2023 de ANZURA</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

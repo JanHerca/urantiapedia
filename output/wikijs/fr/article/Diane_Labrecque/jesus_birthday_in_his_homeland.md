@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Diane Labrecque<br>© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Katrina_Glavan_Heise/san_antonio_usa_conference_june_2016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès à San Antonio, États-Unis en juin 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Line_St_Pierre/dancing_with_god">
+          <span class="pr-2">Danser avec Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -51,3 +75,28 @@ N.B. Des remerciements Très Spéciaux!.. pour Lisa Crowe pour son expertise dan
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-december-2015/)
 - [Cet article](https://urantia-association.org/jesus-birthday-in-his-homeland)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Katrina_Glavan_Heise/san_antonio_usa_conference_june_2016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès à San Antonio, États-Unis en juin 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Line_St_Pierre/dancing_with_god">
+          <span class="pr-2">Danser avec Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

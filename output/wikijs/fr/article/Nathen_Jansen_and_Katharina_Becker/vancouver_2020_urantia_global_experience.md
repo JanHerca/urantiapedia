@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Nathen Jansen and Katharina Becker<br>© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_florida_conference_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès Urantia de Floride 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_donating_with_amazonsmile">
+          <span class="pr-2">Faire un don avec AmazonSmile</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Université de la vallée du Fraser, C.-B. Canada**
@@ -51,3 +75,28 @@ Voyez notre site web pour plus information – [Urantia Global Experience](https
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-decembre-2019/?lang=fr)
 - [Cet article](https://urantia-association.org/vancouver-2020-urantia-global-exprerience/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_florida_conference_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès Urantia de Floride 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_donating_with_amazonsmile">
+          <span class="pr-2">Faire un don avec AmazonSmile</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

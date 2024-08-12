@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Chris Moseley<br>© 2023 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2023_urantia_book_learning_centers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Centres d’apprentissage du Livre d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Hara_Davis/soul_evolution_study_aid">
+          <span class="pr-2">Aide à l’étude de l’évolution de l’âme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -63,3 +87,28 @@ Day 3 – Sunday AM | 8.30-9.30 | 60 mins | &nbsp; | Breakfast TBC
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-mars-2023/?lang=fr)
 - [Cet article](https://urantia-association.org/retraite-estivale-annuelle-de-grande-bretagne-et-dirlande-2023/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2023_urantia_book_learning_centers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Centres d’apprentissage du Livre d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Hara_Davis/soul_evolution_study_aid">
+          <span class="pr-2">Aide à l’étude de l’évolution de l’âme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

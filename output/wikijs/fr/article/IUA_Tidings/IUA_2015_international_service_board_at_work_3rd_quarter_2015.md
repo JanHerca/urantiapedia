@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Scott_Brooks/the_urantia_book_study_group_directory_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Répertoire des Groupes d'Étude du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Le Président
@@ -76,3 +97,25 @@ Chris et son équipe ont continué à chercher des traducteurs bénévoles. Ils 
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-december-2015/)
 - [Cet article](https://urantia-association.org/international-service-board-at-work-3rd-quarter-2015)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Scott_Brooks/the_urantia_book_study_group_directory_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Répertoire des Groupes d'Étude du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

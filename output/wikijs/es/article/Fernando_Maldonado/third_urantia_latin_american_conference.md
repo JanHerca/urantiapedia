@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Fernando Maldonaldo<br>© 2023 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Daniel_Swadling/2023_anzura_annual_conference_report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de la Conferencia anual 2023 de ANZURA</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Diciembre 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Woodward/focus_on_the_father_spiritual_gifts">
+          <span class="pr-2">Centrarse en el Padre – Regalos espirituales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## La quinta revelación en el siglo XXI
 
@@ -16,7 +40,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Group-Picture-3rd-Latin-American-Urantia-Conference-706x471.jpg">
 </figure>
 
-El pasado mes de octubre se celebró en la histórica zona de la antigua Teotihuacán la tercera conferencia latinoamericana de lectores de _El libro de Urantia_. En medio de este telón de fondo de más de 1.500 años de antigüedad y posteriormente reclamado por los aztecas, la III Conferencia Latinoamericana de _El libro de Urantia_ se centró en el tema de la quinta revelación en el siglo XXI.    
+El pasado mes de octubre se celebró en la histórica zona de la antigua Teotihuacán la tercera conferencia latinoamericana de lectores de _El libro de Urantia_. En medio de este telón de fondo de más de 1.500 años de antigüedad y posteriormente reclamado por los aztecas, la III Conferencia Latinoamericana de _El libro de Urantia_ se centró en el tema de la quinta revelación en el siglo XXI.
 
 La Asociación Urantia Internacional organizó la conferencia con el apoyo de la Fundación Urantia y la Asociación Urantia local de México. Cada una de estas entidades cooperó durante meses planificando, desarrollando objetivos, tomando decisiones y obteniendo los fondos necesarios para que el evento tuviera éxito.
 
@@ -47,3 +71,27 @@ Un agradecimiento especial a la Fundación Urantia, a la organización Truthbook
 - [Boletín Tidings](https://urantia-association.org/newsletter/ncategory/tidings-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/tidings-diciembre-2023/?lang=es)
 - [Este artículo](https://urantia-association.org/informe-sobre-la-iii-conferencia-latinoamericana/?lang=es)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Daniel_Swadling/2023_anzura_annual_conference_report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de la Conferencia anual 2023 de ANZURA</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Diciembre 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Woodward/focus_on_the_father_spiritual_gifts">
+          <span class="pr-2">Centrarse en el Padre – Regalos espirituales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

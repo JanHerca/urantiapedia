@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Jaap Terra<br>© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Raimo_Ala_Hynnila/summer_conference_in_finland">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès d'été en Finlande</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-août-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Août 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Joyce_Anderson/jesus_birthday_in_ny_pennsylvania">
+          <span class="pr-2">L'anniversaire de Jésus à NY – Pennsylvanie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -46,3 +70,28 @@ Président de l’Association Urantia aux Pays-Bas
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-august-2015/)
 - [Cet article](https://urantia-association.org/the-dutch-urantia-annual-meeting-day)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Raimo_Ala_Hynnila/summer_conference_in_finland">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès d'été en Finlande</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-août-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Août 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Joyce_Anderson/jesus_birthday_in_ny_pennsylvania">
+          <span class="pr-2">L'anniversaire de Jésus à NY – Pennsylvanie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

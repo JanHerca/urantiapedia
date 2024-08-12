@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Anton Miroshnichenko<br>© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_message_october_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du Président – octobre 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-octobre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Octobre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2015_jointly_sponsored_conference_in_the_usa">
+          <span class="pr-2">Congrès organisé conjointement aux ÉUA</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -64,3 +88,28 @@ On a vendu plusieurs livres et les gens ont reçu une brochure traitant du livre
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-october-2015/)
 - [Cet article](https://urantia-association.org/three-summer-exhibitions-in-ukraine)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_message_october_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du Président – octobre 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-octobre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Octobre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2015_jointly_sponsored_conference_in_the_usa">
+          <span class="pr-2">Congrès organisé conjointement aux ÉUA</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

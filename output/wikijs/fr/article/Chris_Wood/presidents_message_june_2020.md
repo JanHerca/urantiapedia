@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Chris Wood<br>© 2020 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/2020_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — Nouvelles de l’IUA — Juin 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nestor_Seda_Jr_and_Eugene_Asidao/urantia_book_conference_philippines">
+          <span class="pr-2">Premier congrès du Livre d’Urantia aux Philippines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -36,3 +60,28 @@ Merci à tous pour votre service continu dans la diffusion des enseignements du 
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-juin-2020/?lang=fr)
 - [Cet article](https://urantia-association.org/message-du-president-juin-2020/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/2020_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — Nouvelles de l’IUA — Juin 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nestor_Seda_Jr_and_Eugene_Asidao/urantia_book_conference_philippines">
+          <span class="pr-2">Premier congrès du Livre d’Urantia aux Philippines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Alain Cyr<br>© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_message_august_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-août-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Août 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/quebec_conference_reflections">
+          <span class="pr-2">Réflexions sur le congrès international 2015 au Québec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -61,3 +85,28 @@ Affection fraternelle,
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-august-2015/)
 - [Cet article](https://urantia-association.org/2015-international-conference-quebec-canada)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_message_august_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-août-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Août 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/quebec_conference_reflections">
+          <span class="pr-2">Réflexions sur le congrès international 2015 au Québec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

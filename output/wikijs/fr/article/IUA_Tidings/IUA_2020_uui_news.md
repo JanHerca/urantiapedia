@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Annet/urantia_belgian_group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion du groupe belge pour l’anniversaire de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/James_Woodward/focus_on_the_father2">
+          <span class="pr-2">Focalisez sur le Père — Se rendre chez Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -44,3 +68,28 @@ Des sélections des parties I, II, III et IV seront disponibles d’ici la fin 
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-decembre-2020/?lang=fr)
 - [Cet article](https://urantia-association.org/nouvelles-de-urantia-university-institute/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Annet/urantia_belgian_group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion du groupe belge pour l’anniversaire de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/James_Woodward/focus_on_the_father2">
+          <span class="pr-2">Focalisez sur le Père — Se rendre chez Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

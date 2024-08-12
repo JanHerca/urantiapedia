@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/James_Woodward/focus_on_the_father_spiritual_gifts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Centrarse en el Padre – Regalos espirituales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Diciembre 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/update_to_the_urantia_association_bylaws">
+          <span class="pr-2">Actualización de los Reglamentos de la Asociación Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 «El libro de Urantia es la Verdad que llevo buscando toda la vida»
 
@@ -39,3 +63,27 @@ Por favor, consideren unirse a nosotros en el esfuerzo de atender a los más hum
 - [Boletín Tidings](https://urantia-association.org/newsletter/ncategory/tidings-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/tidings-diciembre-2023/?lang=es)
 - [Este artículo](https://urantia-association.org/la-mision-del-equipo-de-respuesta-a-peticiones-de-reclusos/?lang=es)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/James_Woodward/focus_on_the_father_spiritual_gifts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Centrarse en el Padre – Regalos espirituales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Diciembre 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/update_to_the_urantia_association_bylaws">
+          <span class="pr-2">Actualización de los Reglamentos de la Asociación Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

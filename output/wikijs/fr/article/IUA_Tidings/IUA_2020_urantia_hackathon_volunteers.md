@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2020_meditation_mantras">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mantras de méditation pour l’harmonisation avec l’Ajusteur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2020_african_continental_coordinator">
+          <span class="pr-2">Coordinateur continental africain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -82,3 +106,28 @@ Sandra et Gabriel Rymberg, Samantha Nior, Lourdes Burga-Cisneros, et Luis Garcia
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-juin-2020/?lang=fr)
 - [Cet article](https://urantia-association.org/urantia-hackathon-2020-un-appel-a-des-volontaires-travaillant-en-equipe/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2020_meditation_mantras">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mantras de méditation pour l’harmonisation avec l’Ajusteur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2020_african_continental_coordinator">
+          <span class="pr-2">Coordinateur continental africain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Chris Wood<br>© 2014 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/2014_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — Nouvelles de l’IUA — Novembre-Décembre 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/James_Perry/virginia_carolina_readers_12th_annual_conference">
+          <span class="pr-2">Le 12e Congrès annuel des Lecteurs de Virginie et de Caroline</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -40,3 +64,28 @@ Chris Wood
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-december-2014/)
 - [Cet article](https://urantia-association.org/presidents-december-2014-message)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/2014_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — Nouvelles de l’IUA — Novembre-Décembre 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/James_Perry/virginia_carolina_readers_12th_annual_conference">
+          <span class="pr-2">Le 12e Congrès annuel des Lecteurs de Virginie et de Caroline</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

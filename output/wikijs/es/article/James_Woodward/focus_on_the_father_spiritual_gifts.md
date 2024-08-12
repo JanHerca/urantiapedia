@@ -9,8 +9,32 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 James Woodward<br>© 2023 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Fernando_Maldonado/third_urantia_latin_american_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe sobre la III Conferencia Latinoamericana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Diciembre 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2023_mission_of_the_prisoner_inquiry_response_team">
+          <span class="pr-2">La misión del Equipo de Respuesta a Peticiones de Reclusos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-> «La verdadera fe solo es fe si las acciones de tu vida están en armonía con ella y nunca la contradicen.»  — León Tolstói  
+
+> «La verdadera fe solo es fe si las acciones de tu vida están en armonía con ella y nunca la contradicen.»  — León Tolstói
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/James-Woodward-headshot-150x150.jpeg">
@@ -47,7 +71,7 @@ Esta costumbre nos recuerda profundamente el _valor_. Gastamos algo de valor (di
 
 Acunado en el poderoso ideal de dar (cualesquiera que sean los dones que se den) está el AMOR. Jesús nos dio amor en sus palabras, su amistad, su ministerio y su sufrimiento. «No hay amor más grande que el de dar la vida por los amigos.» ([LU 140:5.21](/es/The_Urantia_Book/140#p5_21)). «Jesús reveló y ejemplificó una religión de amor: la seguridad en el amor del Padre unida a la alegría y la satisfacción de compartir este amor en el servicio de la hermandad humana ([LU 196:3.19](/es/The_Urantia_Book/196#p3_19)).
 
-Sabemos que su Padre no le envió a morir por nosotros, pero la muerte de Jesús se convierte en un ejemplo indeleble de lo profundamente que nos ama. Y para demostrar dramáticamente el valor divino de sus santos axiomas:  
+Sabemos que su Padre no le envió a morir por nosotros, pero la muerte de Jesús se convierte en un ejemplo indeleble de lo profundamente que nos ama. Y para demostrar dramáticamente el valor divino de sus santos axiomas:
 
 <p style="text-align:center;">Amad a vuestros enemigos. Devolved bien por mal. Valores supremos, sin duda. </p>
 
@@ -64,3 +88,27 @@ Estos dones de amor Supremo, Último y Absoluto se derraman sobre todas las pers
 - [Boletín Tidings](https://urantia-association.org/newsletter/ncategory/tidings-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/tidings-diciembre-2023/?lang=es)
 - [Este artículo](https://urantia-association.org/centrarse-en-el-padre-regalos-espirituales/?lang=es)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Fernando_Maldonado/third_urantia_latin_american_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe sobre la III Conferencia Latinoamericana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Diciembre 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2023_mission_of_the_prisoner_inquiry_response_team">
+          <span class="pr-2">La misión del Equipo de Respuesta a Peticiones de Reclusos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Eric Martel<br>© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cecilia_Barreto/womens_meeting_mancora_peru">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion de femmes – Máncora, Pérou</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_graduation_richard_keeler">
+          <span class="pr-2">Graduation de Richard Keeler</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bonjour à tous,
@@ -48,3 +72,28 @@ P.S. Vous pouvez transmettre ce courriel à d’autres lecteurs que vous connais
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-mars-2019/?lang=fr)
 - [Cet article](https://urantia-association.org/participer-a-la-reussite-de-la-5ieme-revelation/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cecilia_Barreto/womens_meeting_mancora_peru">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion de femmes – Máncora, Pérou</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_graduation_richard_keeler">
+          <span class="pr-2">Graduation de Richard Keeler</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

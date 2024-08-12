@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2020_ub_study_group_directory">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Répertoire des Groupes d’Étude du Livre d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2020_peru_2021_international_conference_registration_now_open">
+          <span class="pr-2">Congrès international 2021 au Pérou- Les inscriptions sont ouvertes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -48,3 +72,28 @@ Pour plus d’informations, visiter : [https://urantiaglobalexperience.com/](ht
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-mars-2020/?lang=fr)
 - [Cet article](https://urantia-association.org/mise-a-jour-de-vancouver-2020/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2020_ub_study_group_directory">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Répertoire des Groupes d’Étude du Livre d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2020_peru_2021_international_conference_registration_now_open">
+          <span class="pr-2">Congrès international 2021 au Pérou- Les inscriptions sont ouvertes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

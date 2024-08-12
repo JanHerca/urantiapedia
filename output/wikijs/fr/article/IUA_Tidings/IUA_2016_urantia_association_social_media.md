@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_message_march_2016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Alexander_H/german_speaking_urantia_book_readers_meeting">
+          <span class="pr-2">Réunion germanophone des lecteurs du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -45,3 +69,28 @@ Forum: [http://urantia-association.org/forums](http://urantia-association.org/fo
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-march-2016/)
 - [Cet article](https://urantia-association.org/urantia-association-social-media)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_message_march_2016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Alexander_H/german_speaking_urantia_book_readers_meeting">
+          <span class="pr-2">Réunion germanophone des lecteurs du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

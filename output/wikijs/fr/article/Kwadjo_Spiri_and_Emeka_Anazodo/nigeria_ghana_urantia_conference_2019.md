@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Kwadjo Spiri and Emeka Anazodo<br>© 2020 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeannie_Vazquez_de_Abreu/national_conference_mexico_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès national à Mexico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Line_St_Pierre/daughters_of_god_update">
+          <span class="pr-2">Invitation des Daughters of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -86,3 +110,28 @@ Veuillez apprécier quelques photos de notre temps ensemble :
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-mars-2020/?lang=fr)
 - [Cet article](https://urantia-association.org/rapports-sur-le-congres-urantia-nigeria-ghana/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeannie_Vazquez_de_Abreu/national_conference_mexico_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès national à Mexico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Line_St_Pierre/daughters_of_god_update">
+          <span class="pr-2">Invitation des Daughters of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

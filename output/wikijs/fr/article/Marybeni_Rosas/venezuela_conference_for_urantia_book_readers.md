@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Marybeni Rosas<br>© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Moseley/uaiuk_summer_meeting_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion d'été 2015 de la UAIUK</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-octobre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Octobre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/study_group_directory">
+          <span class="pr-2">Le répertoire des groupes d'étude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -40,3 +64,28 @@ La onzième rencontre des lecteurs de El Libro de Urantia au Venezuela contribue
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-october-2015/)
 - [Cet article](https://urantia-association.org/venezuela-conference-for-urantia-book-readers)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Moseley/uaiuk_summer_meeting_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion d'été 2015 de la UAIUK</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-octobre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Octobre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/study_group_directory">
+          <span class="pr-2">Le répertoire des groupes d'étude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

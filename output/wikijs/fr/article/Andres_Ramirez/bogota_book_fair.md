@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Andres Ramirez<br>© 2017 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/unity_initiative_report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport de l’initiative vers l’Unité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Olga_Lopez/spanish_urantia_meeting">
+          <span class="pr-2">Rencontre des lecteurs espagnols du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -45,3 +69,28 @@ Les foires du livre offrent une occasion unique aux bénévoles de promouvoir la
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-juin-2017/?lang=fr)
 - [Cet article](https://urantia-association.org/foire-du-livre-de-bogota/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/unity_initiative_report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport de l’initiative vers l’Unité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Olga_Lopez/spanish_urantia_meeting">
+          <span class="pr-2">Rencontre des lecteurs espagnols du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

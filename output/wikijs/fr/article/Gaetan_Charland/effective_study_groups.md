@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Gaetan Charland<br>© 2018 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/spain_national_meeting_report_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport de la réunion nationale d’Espagne — 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jaap_Terra/dutch_urantia_annual_conference">
+          <span class="pr-2">Réunion annuelle de l’Association Urantia Néerlandaise</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -76,3 +100,28 @@ Association Urantia Internationale
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-juin-2018/?lang=fr)
 - [Cet article](https://urantia-association.org/groupes-detude-efficaces/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/spain_national_meeting_report_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport de la réunion nationale d’Espagne — 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jaap_Terra/dutch_urantia_annual_conference">
+          <span class="pr-2">Réunion annuelle de l’Association Urantia Néerlandaise</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

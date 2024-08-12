@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Chris Wood<br>© 2017 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2017_transition_to_unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Transition à l’Unité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anton_Miroshnichenko/urantia_dach_meeting_frankfurt">
+          <span class="pr-2">Urantia DACH Assemblée annuelle à Francfort</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## The Pay-it Forward Conference Model
@@ -45,3 +69,28 @@ Urantia Association International
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-march-2017/?lang=fr)
 - [Cet article](https://urantia-association.org/presidents-message-march-2017)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2017_transition_to_unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Transition à l’Unité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anton_Miroshnichenko/urantia_dach_meeting_frankfurt">
+          <span class="pr-2">Urantia DACH Assemblée annuelle à Francfort</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

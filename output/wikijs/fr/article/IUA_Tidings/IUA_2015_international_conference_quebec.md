@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_april_2015_message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-avril-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Avril 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Suzanne_Kelly/journal_march_2015_issue_now_available">
+          <span class="pr-2">Le Journal est maintenant disponible</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_4" class="image urantiapedia">
@@ -54,3 +78,28 @@ N'oubliez pas de vous inscrire dès que possible à :
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-december-2014/)
 - [Cet article](https://urantia-association.org/2015-international-conference-quebec)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_april_2015_message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-avril-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Avril 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Suzanne_Kelly/journal_march_2015_issue_now_available">
+          <span class="pr-2">Le Journal est maintenant disponible</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marta_and_Dave_Elders/teaching_and_facilitating_in_the_ubis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'enseignement et l’animation dans l’EILU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Line_St_Pierre/progressing_from_human_to_divine">
+          <span class="pr-2">Mise à jour de la Conférence internationale 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
@@ -46,3 +70,28 @@ Questions à considérer
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-december-2014/)
 - [Cet article](https://urantia-association.org/mini-study-guide)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marta_and_Dave_Elders/teaching_and_facilitating_in_the_ubis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'enseignement et l’animation dans l’EILU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Line_St_Pierre/progressing_from_human_to_divine">
+          <span class="pr-2">Mise à jour de la Conférence internationale 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

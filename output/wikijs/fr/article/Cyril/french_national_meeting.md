@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Cyril<br>© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Grevet_Moyo/success_stories_urantia_books_distribution_in_malawi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Histoires à succès – Distribution du Livre d'Urantia au Malawi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-août-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Août 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Raimo_Ala_Hynnila/summer_conference_in_finland">
+          <span class="pr-2">Congrès d'été en Finlande</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -85,3 +109,28 @@ Nous avons eu une agréable surprise pendant cette fin de semaine; soit l’arri
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-august-2015/)
 - [Cet article](https://urantia-association.org/french-national-meeting)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Grevet_Moyo/success_stories_urantia_books_distribution_in_malawi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Histoires à succès – Distribution du Livre d'Urantia au Malawi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-août-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Août 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Raimo_Ala_Hynnila/summer_conference_in_finland">
+          <span class="pr-2">Congrès d'été en Finlande</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

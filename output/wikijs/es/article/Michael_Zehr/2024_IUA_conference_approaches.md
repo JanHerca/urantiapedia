@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Michael Zehr<br>© 2024 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Enrique_Traver/presidents_message_march_2024">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje del presidente – marzo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Marzo 2024 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2024_new_unity_initiative">
+          <span class="pr-2">Nueva iniciativa de unidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Michael Zehr, EE.UU._
 
@@ -76,3 +100,27 @@ Esperamos verles en Baltimore, pero entendemos que el viaje puede ser difícil, 
 - [Boletín Tidings](https://urantia-association.org/newsletter/ncategory/tidings-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/tidings-marzo-2024/?lang=es)
 - [Este artículo](https://urantia-association.org/se-acerca-la-conferencia-2024-de-la-asociacion-urantia-internacional/?lang=es)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Enrique_Traver/presidents_message_march_2024">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje del presidente – marzo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Marzo 2024 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2024_new_unity_initiative">
+          <span class="pr-2">Nueva iniciativa de unidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

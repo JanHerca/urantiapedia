@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Jaap Terra<br>© 2016 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/study_groups_and_young_people">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les groupes d'étude et les jeunes gens</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-novembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Novembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/the_urantia_book_internet_school">
+          <span class="pr-2">L'école UBIS (Urantia Book Internet School)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -57,3 +81,28 @@ Jaap Terra
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-november-2016/)
 - [Cet article](https://urantia-association.org/dutch-urantia-meeting-21st-august)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/study_groups_and_young_people">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les groupes d'étude et les jeunes gens</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-novembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Novembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/the_urantia_book_internet_school">
+          <span class="pr-2">L'école UBIS (Urantia Book Internet School)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

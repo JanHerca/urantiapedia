@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Gines Aviles<br>© 2022 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Enrique_Traver/presidents_message_september_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président – Septembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Myra_Hight/pirt_2022">
+          <span class="pr-2">Mission de l’équipe d’intervention auprès des détenus (PIRT)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## 20 au 23 octobre 2022
@@ -57,3 +81,28 @@ Président, Association Urantia d’Espagne
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-septembre-2022/?lang=fr)
 - [Cet article](https://urantia-association.org/3e-congres-urantia-europeen-2022/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Enrique_Traver/presidents_message_september_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président – Septembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Myra_Hight/pirt_2022">
+          <span class="pr-2">Mission de l’équipe d’intervention auprès des détenus (PIRT)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

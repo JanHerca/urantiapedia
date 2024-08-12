@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland_and_Line_St_Pierre/farewell_herrol_dallaire_quebec">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adieu Herrol Dallaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2016_international_service_board_at_work_4th_quarter_2015">
+          <span class="pr-2">Le Bureau du Service international – 4e trimestre 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -42,3 +66,28 @@ Pour en savoir plus sur ces excitantes nouvelles séries de classes de l’IUU c
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-march-2016/)
 - [Cet article](https://urantia-association.org/urantia-university-institute)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland_and_Line_St_Pierre/farewell_herrol_dallaire_quebec">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adieu Herrol Dallaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2016_international_service_board_at_work_4th_quarter_2015">
+          <span class="pr-2">Le Bureau du Service international – 4e trimestre 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

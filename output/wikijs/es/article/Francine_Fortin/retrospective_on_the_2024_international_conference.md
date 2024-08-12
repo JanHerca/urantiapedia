@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Francine Fortin<br>© 2024 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2024_update_on_unity_initiative">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Novedades de la Iniciativa de Unidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Junio 2024 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Alice_Wood/baltimore_children_and_teen_program">
+          <span class="pr-2">Programa para Niños y Adolescentes de Baltimore</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Francine Fortin_
 
@@ -81,10 +105,12 @@ Me encantó volver a ver a mis amigos canadienses Line St-Pierre, Gaétan Charla
 <img src="/image/article/IUA_Tidings/Dipti-Bhakti-1-150x150.jpg">
 </figure>
 
-A lo largo de la conferencia, las imágenes de nuestro magnífico planeta Urantia se desplazaron por la pantalla gigante del auditorio junto con algunos videos de lectores talentosos. Aquí está uno de mis favoritos, creado por Dipti Bhakti, un joven lector que me impresionó mucho y que lo presentó en la conferencia, titulado [La luz del universo](https://www.youtube.com/watch?v=dX-eh5jHgrs).
+A lo largo de la conferencia, las imágenes de nuestro magnífico planeta Urantia se desplazaron por la pantalla gigante del auditorio junto con algunos videos de lectores talentosos. Aquí está uno de mis favoritos, creado por Dipti Bhakti, un joven lector que me impresionó mucho y que lo presentó en la conferencia, titulado _La luz del universo_.
+<br style="clear:both;"/>
+
+https://www.youtube.com/watch?v=dX-eh5jHgrs
 
 Las comidas del bufé eran suculentas y variadas para todos los gustos. Nuestras veladas fueron gratamente enriquecidas por dos talentosos artistas de renombre internacional: Rebecca Oswald, quien rápidamente se convirtió en mi nueva amiga y hermana espiritual, y Bob Solone, que tocó una petición especial de Robert Cadieux, _Smile_, una canción que conocía pero no a su autor: ¡Charlie Chaplin!
-<br style="clear:both;"/>
 
 https://www.youtube.com/watch?v=xyHoohNyYkw
 
@@ -102,7 +128,7 @@ Regresé con mi corazón en paz y mi alma renovada, anclada en el amor experimen
 
 Bravo a todos los organizadores y voluntarios, fue un gran éxito. Espero haberles inspirado para asistir a la próxima conferencia internacional.
 
-Con Dios y con amor.  
+Con Dios y con amor.
 Francine Fortin
 
 ## Referencias
@@ -110,3 +136,27 @@ Francine Fortin
 - [Boletín Tidings](https://urantia-association.org/newsletter/ncategory/tidings-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/tidings-junio-2024/?lang=es)
 - [Este artículo](https://urantia-association.org/retrospectiva-de-la-conferencia-internacional-2024/?lang=es)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2024_update_on_unity_initiative">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Novedades de la Iniciativa de Unidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Junio 2024 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Alice_Wood/baltimore_children_and_teen_program">
+          <span class="pr-2">Programa para Niños y Adolescentes de Baltimore</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

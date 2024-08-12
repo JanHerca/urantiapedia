@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Nathen Jansen<br>© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Moseley/annual_retreat_uk_ireland_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Retraite annuelle 2019 pour le Royaume-Uni et l’Irlande</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Alice_Wood/urantia_life_lessons_2">
+          <span class="pr-2">Leçons de vie selon Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## 15 au19 juillet 2020, Vancouver, Canada
@@ -43,3 +67,28 @@ Le site Web de l’UGE sera publié et annoncé le 1er juillet 2019, fête du 
 - [Ce numéro](https://urantia-association.org/newsletter/36893/?lang=fr)
 - [Cet article](https://urantia-association.org/lexperience-planetaire-durantia-vancouver-2020/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Moseley/annual_retreat_uk_ireland_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Retraite annuelle 2019 pour le Royaume-Uni et l’Irlande</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Alice_Wood/urantia_life_lessons_2">
+          <span class="pr-2">Leçons de vie selon Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

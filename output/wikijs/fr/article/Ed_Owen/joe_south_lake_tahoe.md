@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Ed Owen<br>© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_message_december_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président – décembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_exciting_service_opportunity">
+          <span class="pr-2">Une occasion excitante de servir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
@@ -47,3 +71,28 @@ Donc, si jamais vous décidez d’offrir un verre à un alcoolique, assurez-vous
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-decembre-2019/?lang=fr)
 - [Cet article](https://urantia-association.org/joe-a-south-lake-tahoe/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Wood/presidents_message_december_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Message du président – décembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2019_exciting_service_opportunity">
+          <span class="pr-2">Une occasion excitante de servir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

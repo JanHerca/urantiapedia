@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Gaetan Charland and Line St-Pierre<br>© 2016 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/study_group_committee_in_the_making">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Organisation du Comité des Groupes d'étude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2016_urantia_university_institute">
+          <span class="pr-2">Institut de l’Université Urantia (IUU)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Le passage d'un serviteur dévoué ...
@@ -42,3 +66,28 @@ Gaétan G. Charland et Line St-Pierre
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-march-2016/)
 - [Cet article](https://urantia-association.org/farewell-herrol-dallaire-quebec)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/study_group_committee_in_the_making">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Organisation du Comité des Groupes d'étude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2016_urantia_university_institute">
+          <span class="pr-2">Institut de l’Université Urantia (IUU)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

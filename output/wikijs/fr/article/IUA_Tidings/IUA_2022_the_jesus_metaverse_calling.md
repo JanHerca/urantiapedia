@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Myra_Hight/pirt_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mission de l’équipe d’intervention auprès des détenus (PIRT)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Line_St_Pierre/i_found_the_key">
+          <span class="pr-2">J’ai trouvé la CLÉ</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Appel aux curateurs de présentation
@@ -80,3 +104,28 @@ Si vous n’êtes pas sûr que cela vous convienne et que vous souhaitez simplem
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-septembre-2022/?lang=fr)
 - [Cet article](https://urantia-association.org/le-metavers-jesus/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Myra_Hight/pirt_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mission de l’équipe d’intervention auprès des détenus (PIRT)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Line_St_Pierre/i_found_the_key">
+          <span class="pr-2">J’ai trouvé la CLÉ</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

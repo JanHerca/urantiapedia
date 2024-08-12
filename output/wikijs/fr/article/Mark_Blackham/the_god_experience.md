@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Mark Blackham<br>© 2023 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Woodward/focus_on_the_father_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le père au centre de l’attention</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Collins_Lomo/savor_friendship_a_tribute_to_delae_sowu">
+          <span class="pr-2">Savourer l’amitié : Hommage à Delae Sowu (1962 – 2023)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Écrit par un étudiant du Livre d’Urantia
@@ -34,3 +58,28 @@ Disponible sur [Amazon](https://www.amazon.com/God-Experience-Making-Contact/dp/
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-juin-2023/?lang=fr)
 - [Cet article](https://urantia-association.org/lexperience-de-dieu/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Woodward/focus_on_the_father_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le père au centre de l’attention</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Collins_Lomo/savor_friendship_a_tribute_to_delae_sowu">
+          <span class="pr-2">Savourer l’amitié : Hommage à Delae Sowu (1962 – 2023)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

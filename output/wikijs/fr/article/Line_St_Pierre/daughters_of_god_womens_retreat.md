@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Line St Pierre<br>© 2017 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jaap_Terra/dutch_urantia_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès Urantia néerlandais — 21 août</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2017_story_from_india">
+          <span class="pr-2">Histoire provenant de l’Inde</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Danser avec Dieu — Émerger dans la sagesse
@@ -51,3 +75,28 @@ Si vous souhaitez participer à cet évènement au 533 W. Diversey Parkway à Ch
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-juin-2017/?lang=fr)
 - [Cet article](https://urantia-association.org/retraite-de-femmes-daughters-of-god/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jaap_Terra/dutch_urantia_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès Urantia néerlandais — 21 août</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2017_story_from_india">
+          <span class="pr-2">Histoire provenant de l’Inde</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

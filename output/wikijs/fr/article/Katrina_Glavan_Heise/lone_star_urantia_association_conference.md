@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Katrina Glavan-Heise<br>© 2015 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Suzanne_Kelly/journal_march_2015_issue_now_available">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Journal est maintenant disponible</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-avril-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Avril 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier/summer_study_session_2015">
+          <span class="pr-2">Summer Study Session 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Le Guide de l’Auto-stoppeur de la Galaxie
@@ -59,3 +83,28 @@ Pour prendre connaissance de la publication de la LSUA, relatant en détails le 
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-december-2014/)
 - [Cet article](https://urantia-association.org/lone-star-urantia-association-conference)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Suzanne_Kelly/journal_march_2015_issue_now_available">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Journal est maintenant disponible</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-avril-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Avril 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier/summer_study_session_2015">
+          <span class="pr-2">Summer Study Session 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

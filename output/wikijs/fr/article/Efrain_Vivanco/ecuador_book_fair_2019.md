@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Efrain Vivanco<br>© 2019 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jose_Ernesto_Arias/bolivia_book_fair_2019_santa_cruz">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foire du livre de Bolivie 2019 — Santa Cruz</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gerardo_Leche/guatemala_book_fair">
+          <span class="pr-2">Salon du livre du Guatemala</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -38,3 +62,28 @@ Enfin, considérant que le but de ce salon n’est pas de vendre des livres, mai
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-septembre-2019/?lang=fr)
 - [Cet article](https://urantia-association.org/salon-du-livre-de-lequateur-2019/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jose_Ernesto_Arias/bolivia_book_fair_2019_santa_cruz">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foire du livre de Bolivie 2019 — Santa Cruz</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gerardo_Leche/guatemala_book_fair">
+          <span class="pr-2">Salon du livre du Guatemala</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Line_St_Pierre/dancing_with_god_retreat_women">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Danser avec Dieu et faire émerger le sacré –  Une retraite pour femmes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2017_items_interest_from_website">
+          <span class="pr-2">Articles d’intérêt du site Internet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -38,3 +62,28 @@ Si vous avez des questions, s’il vous plaît contacter: [congresonacionalurant
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-decembre-2017/?lang=fr)
 - [Cet article](https://urantia-association.org/premiere-reunion-nationale-association-urantia-du-perou/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Line_St_Pierre/dancing_with_god_retreat_women">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Danser avec Dieu et faire émerger le sacré –  Une retraite pour femmes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-décembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Décembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2017_items_interest_from_website">
+          <span class="pr-2">Articles d’intérêt du site Internet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

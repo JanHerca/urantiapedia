@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Collins Lomo<br>© 2023 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Blackham/the_god_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’expérience de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -53,3 +74,25 @@ Jusqu’à ce que nous nous rencontrions sur de nouveaux rivages au service de l
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-juin-2023/?lang=fr)
 - [Cet article](https://urantia-association.org/savourer-lamitie-hommage-a-delae-sowu-1962-2023/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Blackham/the_god_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’expérience de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-juin-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Juin 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

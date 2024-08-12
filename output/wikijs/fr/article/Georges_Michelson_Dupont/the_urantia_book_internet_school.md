@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Georges Michelson-DuPont<br>© 2016 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jaap_Terra/dutch_urantia_meeting_21st_august">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion néerlandaise Urantia, le 21 août 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-novembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Novembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Susan_Lyon/inspiration_healing_urantia_book">
+          <span class="pr-2">Inspiration et guérison, tirées du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -96,3 +120,28 @@ Georges Michelson-DuPont
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-november-2016/)
 - [Cet article](https://urantia-association.org/the-urantia-book-internet-school)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jaap_Terra/dutch_urantia_meeting_21st_august">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion néerlandaise Urantia, le 21 août 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-novembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Novembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Susan_Lyon/inspiration_healing_urantia_book">
+          <span class="pr-2">Inspiration et guérison, tirées du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

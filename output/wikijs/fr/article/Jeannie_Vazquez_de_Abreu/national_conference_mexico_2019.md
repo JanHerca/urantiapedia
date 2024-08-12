@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Jeannie Vázquez<br>© 2020 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2020_peru_2021_international_conference_registration_now_open">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès international 2021 au Pérou- Les inscriptions sont ouvertes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kwadjo_Spiri_and_Emeka_Anazodo/nigeria_ghana_urantia_conference_2019">
+          <span class="pr-2">Rapports sur le congrès Urantia Nigeria-Ghana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -81,3 +105,28 @@ Après cette clôture, il était temps de dire au revoir à nos amis. Merci cher
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-mars-2020/?lang=fr)
 - [Cet article](https://urantia-association.org/congres-national-a-mexico/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2020_peru_2021_international_conference_registration_now_open">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congrès international 2021 au Pérou- Les inscriptions sont ouvertes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kwadjo_Spiri_and_Emeka_Anazodo/nigeria_ghana_urantia_conference_2019">
+          <span class="pr-2">Rapports sur le congrès Urantia Nigeria-Ghana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Line St-Pierre<br>© 2022 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2022_the_jesus_metaverse_calling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Métavers Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Khatukhira_Bernard/the_urantia_uganda_conference_2022">
+          <span class="pr-2">Le Congrès Urantia Ouganda 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -46,3 +70,28 @@ Je suis assurée que l’Ajusteur de Pensée qui vit en chaque être humain saur
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-septembre-2022/?lang=fr)
 - [Cet article](https://urantia-association.org/jai-trouve-la-cle/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Tidings/IUA_2022_the_jesus_metaverse_calling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Métavers Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Septembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Khatukhira_Bernard/the_urantia_uganda_conference_2022">
+          <span class="pr-2">Le Congrès Urantia Ouganda 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeannie_Vazquez_de_Abreu/online_education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éducation en ligne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Session d’étude d’été 2022
@@ -57,3 +78,25 @@ Veuillez **rése**r**ver** l**es dates** et surveiller les informations et le li
 - [Ce numéro](https://urantia-association.org/newsletter/tidings-edition-speciale-mars-2022/?lang=fr)
 - [Cet article](https://urantia-association.org/autres-nouvelles/?lang=fr)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeannie_Vazquez_de_Abreu/online_education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éducation en ligne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_tidings#tidings-mars-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Mars 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
