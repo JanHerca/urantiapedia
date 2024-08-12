@@ -22,27 +22,27 @@ The problem we wanted to try to address at this conference was _how_ we, as a re
 
 We were treated to the following presentations:
 
-– **Introduction and Keynote: Talkin’ ‘Bout A Revelation** – Daniel Swadling
+- **Introduction and Keynote: Talkin’ ‘Bout A Revelation** – Daniel Swadling
 
-– **Has Your Time Come?** – Rex Merrett & Christine Bannigan
+- **Has Your Time Come?** – Rex Merrett & Christine Bannigan
 
-– **Do Your Discovery Before Pitching the Gospel** – Julian Martin
+- **Do Your Discovery Before Pitching the Gospel** – Julian Martin
 
-– **The Ministry of Mind** – Trevor Swadling
+- **The Ministry of Mind** – Trevor Swadling
 
-– **Evolution & Revelation: A Method of Seed-planting and Expansion** – Rita Schaad
+- **Evolution & Revelation: A Method of Seed-planting and Expansion** – Rita Schaad
 
-– **Spiritual Meditation and Remembrance** – Robert Coenraads
+- **Spiritual Meditation and Remembrance** – Robert Coenraads
 
-– **The Revelation Tone** – Chris Wood, USA
+- **The Revelation Tone** – Chris Wood, USA
 
-– **Understanding People** – Andrew Swadling
+- **Understanding People** – Andrew Swadling
 
-– **Finding and Attracting New Readers** – Phillip Marriott
+- **Finding and Attracting New Readers** – Phillip Marriott
 
-– **How Can We Adorn Our Message With Truth, Beauty, and Goodness?** – Julian McGarry
+- **How Can We Adorn Our Message With Truth, Beauty, and Goodness?** – Julian McGarry
 
-– **A Guided Musical Meditation from the Piano** – Gordon Tayler, Western Australia
+- **A Guided Musical Meditation from the Piano** – Gordon Tayler, Western Australia
 
 Chris Wood from the United States, and Gordon Tayler kindly presented via Zoom. Gabriel Rymberg from Israel had intended to Zoom with an update on _The Center for Unity_ project, but unfortunately had to cancel due to travel disruptions.
 
