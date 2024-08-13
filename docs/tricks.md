@@ -392,6 +392,7 @@ bourse|Fellowship
 Bourse|Fellowship
 Fraternité|Fellowship
 Communauté|Fellowship
+« clear:les deux; »|"clear:both;"
 
 **ES**
 

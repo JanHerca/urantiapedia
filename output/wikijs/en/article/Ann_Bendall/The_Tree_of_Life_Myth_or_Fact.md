@@ -84,7 +84,7 @@ The tree was consumed by fire but the factual reality of the tree of life lived 
 
 ## References
 
-   - [Article of the newsletter online](https://anzura.urantia-association.org/2022/01/01/tree-of-life-myth-or-fact)
+- [Article of the newsletter online](https://anzura.urantia-association.org/2022/01/01/tree-of-life-myth-or-fact)
 
 <figure class="table chapter-navigator">
   <table>
