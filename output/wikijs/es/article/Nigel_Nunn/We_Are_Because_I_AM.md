@@ -120,7 +120,9 @@ Había pasado medio año desde que Jesús ordenó a este grupo de doce para ser 
 
 Este episodio de ser tomado a la ligera y luego recibir una inyección de nueva percepción sobre el poder y el propósito del Amor, inoculó efectivamente a los apóstoles contra el virus de la desesperación. Pero volviendo a esta idea del Padre Universal gobernando un universo de universos mediante el poder apremiante de su Amor, ¿debemos tomar esto literalmente? ¿Depende realmente la técnica del Padre – para gobernar un universo de universos… del _Amor_?
 
-«Una forma sencilla de ver lo que está pasando…» es ver este tercer clip, nuevamente de la Parte 3 de nuestra serie de videos, desde el minuto 7:28 (ver más abajo). Aquí vemos cómo _El Libro de Urantia_ prepara el escenario. Nuestro Padre nos da este momento, este tiempo y lugar para personalizar a su Ajustador, para elegir unir nuestro átomo de **Personalidad** con el fragmento de su **Amor Encarnado** en nuestra alma,… https://www.youtube.com/watch?v=SB7GB_isujM&t=448s
+«Una forma sencilla de ver lo que está pasando…» es ver este tercer clip, nuevamente de la Parte 3 de nuestra serie de videos, desde el minuto 7:28 (ver más abajo). Aquí vemos cómo _El Libro de Urantia_ prepara el escenario. Nuestro Padre nos da este momento, este tiempo y lugar para personalizar a su Ajustador, para elegir unir nuestro átomo de **Personalidad** con el fragmento de su **Amor Encarnado** en nuestra alma,… 
+
+https://www.youtube.com/watch?v=SB7GB_isujM&t=448s
 
 Suponiendo que tengamos éxito, saldremos de este extraordinario útero de espacio y tiempo, listos para enfrentarnos a un universo más grande de una manera no trivial.
 

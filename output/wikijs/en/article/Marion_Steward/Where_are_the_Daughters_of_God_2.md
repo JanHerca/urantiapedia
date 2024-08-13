@@ -97,13 +97,13 @@ The question occurs as to why the Universal Father created us male and female—
 
 This may perhaps be stretching the point slightly, but the essential idea is that it is the pattern, the example, that matters. In our own small ways, in our own small spheres of operation and influence, we can attempt to model this pattern of sharing.
 
-> _With the Son and in the Spirit did God project eternal Havona, and ever since has there obtained the eternal pattern of co-ordinate participation in creation—sharing. This pattern of sharing is the master design for every one of the Sons and Daughters of God who go out into space to engage in the attempt to duplicate in time the central universe of eternal perfection._ <a id="a99_375"></a>[[UB 53:2.1](/en/The_Urantia_Book/53#p2_1)]
+> _With the Son and in the Spirit did God project eternal Havona, and ever since has there obtained the eternal pattern of co-ordinate participation in creation—sharing. This pattern of sharing is the master design for every one of the Sons and Daughters of God who go out into space to engage in the attempt to duplicate in time the central universe of eternal perfection._ <a id="a99_375"></a>[[UB 54:2.1](/en/The_Urantia_Book/54#p2_1)]
 
 And Michael himself, our own Creator Son who has worked with our own Creative Daughter Spirit for eons in the creation and administering of our own local universe, encouraged us to follow this example in our lives on Urantia. He stunned and amazed everybody in his advocating of the equality of women and in his equal treatment of them. Time after time the apostles would come across him talking to a woman by a well, or in the street, often a woman of less than desirable reputation, giving words of comfort and encouragement to these daughters of God.  Despite this, they were still utterly astonished when he set up the women’s corps of evangelists and issued an emancipation proclamation—so similar to the proclamation of equality with the Universe Mother Spirit which he issued at the termination of his bestowal on Urantia.
 
 In talks about marriage and divorce, he said:
 
-> _“…it is the divine will that men and women should find their highest service and consequent joy in the establishment of homes for the reception and training of children, in the creation of whom these parents become copartners with the Makers of heaven and earth.”_ <a id="a105_268"></a>[[UB 167:5.6](/en/The_Urantia_Book/167#p5_6)]
+> _“…it is the divine will that men and women should find their highest service and consequent joy in the establishment of homes for the reception and training of children, in the creation of whom these parents become copartners with the Makers of heaven and earth.”_ <a id="a105_268"></a>[[UB 167:5.7](/en/The_Urantia_Book/167#p5_7)]
 
 And what is possibly the most picturesque moment of all—his little chat to the man he saw berating his wife on the wharf at Tarentum during his return from Rome:
 

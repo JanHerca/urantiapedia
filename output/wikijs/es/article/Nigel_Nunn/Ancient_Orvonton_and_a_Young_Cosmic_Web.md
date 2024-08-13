@@ -72,7 +72,9 @@ En cuanto al vídeo final (faltante) de esta serie, el _Telescopio Espacial Jame
 
 Nigel Nunn
 
-[Presentación](https://www.youtube.com/watch?v=P9neaFSIqhc) del mismo nombre por Nigel Nunn en el Simposio Científico 2019, Sede de la Fundación Urantia, Chicago, EE. UU.
+_Presentación_ del mismo nombre por Nigel Nunn en el Simposio Científico 2019, Sede de la Fundación Urantia, Chicago, EE. UU.
+
+https://www.youtube.com/watch?v=P9neaFSIqhc
 
 ## Referencias
 
