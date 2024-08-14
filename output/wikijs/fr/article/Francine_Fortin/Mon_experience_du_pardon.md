@@ -11,7 +11,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Francine Fortin<br>© 2024 Association Urantia du Québec</p>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Reflectivite/2024_01/011.jpg">
+<img src="/image/article/Reflectivite/Francine_Fortin.jpg">
 </figure>
 
 _Francine Fortin_

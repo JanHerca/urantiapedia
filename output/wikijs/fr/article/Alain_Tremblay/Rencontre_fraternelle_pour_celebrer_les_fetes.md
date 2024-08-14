@@ -12,7 +12,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Reflectivite/2024_01/013.jpg">
+<img src="/image/article/Reflectivite/Alain_Tremblay.jpg">
 </figure>
 
 _Alain Tremblay_
