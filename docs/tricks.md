@@ -393,10 +393,11 @@ Bourse|Fellowship
 Fraternité|Fellowship
 Communauté|Fellowship
 « clear:les deux; »|"clear:both;"
+( *)(Le )*Livre d['|’]Urantia([ |\.|,|;|:|\?|!])|$1_$2Livre d'Urantia_$3
 
 **ES**
 
-Wrong | Right
+Wrong | ‘Right
 --- | ---
 ^título:|title:
 ^Título:|title:
