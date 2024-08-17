@@ -34,7 +34,7 @@ dateCreated: 2023-9-16T10:55:6Z
 </figure>
 
 
-**Votre monde, Urantia, est l’une des   nombreuses planètes habitées semblables comprises dans l’univers de Nébadon. Cet univers et d’autres créations  représentent ensemble le superunivers d’Orvonton. Cet univers, avec d’autres créations semblables, forme le superunivers d’Orvonton dont la capitale est Uversa, d’où vient notre commission. Orvonton est l’un des sept superunivers évolutionnaires du temps et de l’espace qui entourent l’univers central de Havona, la création sans commencement ni fin de perfection divine. Au coeur de cet univers éternel et central, se trouve l’Île du Paradis, immobile, centre géographique de l’infini et demeure du Dieu éternel.** [LU 0:0.5](/es/The_Urantia_Book/0#p0_5)
+**Votre monde, Urantia, est l’une des   nombreuses planètes habitées semblables comprises dans l’univers de Nébadon. Cet univers et d’autres créations  représentent ensemble le superunivers d’Orvonton. Cet univers, avec d’autres créations semblables, forme le superunivers d’Orvonton dont la capitale est Uversa, d’où vient notre commission. Orvonton est l’un des sept superunivers évolutionnaires du temps et de l’espace qui entourent l’univers central de Havona, la création sans commencement ni fin de perfection divine. Au coeur de cet univers éternel et central, se trouve l’Île du Paradis, immobile, centre géographique de l’infini et demeure du Dieu éternel.** [LU 0:0.5](/fr/The_Urantia_Book/0#p0_5)
 
 
 <figure id="Figure_1" class="image urantiapedia">

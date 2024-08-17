@@ -134,7 +134,7 @@ J'ai juste été tout simplement perplexe de nombreuses fois quant à quoi faire
 
 **BILL SADLER** : Je ne sais pas. Eh bien, il est neuf heures. Éteignons la machine.
 
-> Parce que votre monde ignore généralement l'origine des choses, même physiques, il a paru sage de lui fournir, de temps en temps, des notions de cosmologie, mais cela a toujours provoqué des troubles pour l'avenir. Les lois gouvernant la révélation nous gênent grandement, parce qu'elles interdisent de transmettre des connaissances imméritées ou prématurées. [UB 101:4.1](/fr/The_Urantia_Book/101#p4_1)
+> Parce que votre monde ignore généralement l'origine des choses, même physiques, il a paru sage de lui fournir, de temps en temps, des notions de cosmologie, mais cela a toujours provoqué des troubles pour l'avenir. Les lois gouvernant la révélation nous gênent grandement, parce qu'elles interdisent de transmettre des connaissances imméritées ou prématurées. [LU 101:4.1](/fr/The_Urantia_Book/101#p4_1)
 
 ## Références
 

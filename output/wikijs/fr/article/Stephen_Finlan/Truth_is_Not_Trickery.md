@@ -68,7 +68,7 @@ Spéculant sur l'étude des religions urantiennes avant l'effusion, Massey dit q
 
 Michael a trouvé des quantités de matière dans les « textes soi-disant sacrés » (6,1) des Juifs qu'il utilisait pour prêcher (certains favoris étaient [Psaume 51.10](/fr/Bible/Psalms/51#v10) et [Osée 6.6](/fr/Bible/Hosea/6#v6)) et pour avoir décrit sa mission sur terre (notamment [Ésaïe 61](/fr/Bible/Isaiah/61)).
 
-Lorsqu'on lui a posé une question sur la colère, il a débité onze citations bibliques consécutives sur le sujet ([LU 149:4.2](/es/The_Urantia_Book/149#p4_2)).
+Lorsqu'on lui a posé une question sur la colère, il a débité onze citations bibliques consécutives sur le sujet ([LU 149:4.2](/fr/The_Urantia_Book/149#p4_2)).
 
 Mais Massey dénigre particulièrement le judaïsme par rapport à son culte mystérieux préféré. Le mithraïsme est « la religion du destin » (10,2), tandis que « les Hébreux souffraient des normes tribales primitives de socialisation ». (6,2)
 

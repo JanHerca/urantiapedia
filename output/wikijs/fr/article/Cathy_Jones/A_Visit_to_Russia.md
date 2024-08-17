@@ -68,7 +68,7 @@ Quelques fois leurs rencontres sont quotidiennes. Après avoir acquis une ferme 
 
 En écoutant ces annales mettant à nu les âmes, il me revint en mémoire cette citation :
 
-> _La religion est tellement vitale qu'elle persiste en l'absence de savoir. Elle vit, en dépit de sa contamination par des cosmologies erronées et des fausses philosophies. Elle survit même à la confusion de la métaphysique. A travers toutes les vicissitudes bistoriques de la religion persiste toujours ce qui est indispensable au progrès et à la survie des hommes : la conscience éthique et la conscience morale._ <a id="a70_417"></a>[UB 101:3.1](/fr/The_Urantia_Book/101#p3_1)
+> _La religion est tellement vitale qu'elle persiste en l'absence de savoir. Elle vit, en dépit de sa contamination par des cosmologies erronées et des fausses philosophies. Elle survit même à la confusion de la métaphysique. A travers toutes les vicissitudes bistoriques de la religion persiste toujours ce qui est indispensable au progrès et à la survie des hommes : la conscience éthique et la conscience morale._ <a id="a70_417"></a>[LU 101:3.1](/fr/The_Urantia_Book/101#p3_1)
 
 Au cours d'une démonstration montrant comment ils contactaient leurs Ajusteurs de Pensée, nous nous mîmes debout en cercle, nous tenant les mains, épaule contre épaule, tandis qu'Irina dit la prière la plus magnifique qu'il me fut possible d'entendre. L'émotion présente dans la pièce était au-delà de toute description.
 

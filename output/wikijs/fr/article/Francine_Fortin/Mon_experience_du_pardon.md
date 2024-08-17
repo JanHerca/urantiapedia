@@ -49,7 +49,7 @@ _A vos frères et vos sæurs qui se trouvent sur votre chemin._
 
 _Que Dieu bénisse vos pas, à chaque instant de cette nouvelle Année 2024 et tous les jours de votre Vie._ »
 
-> « Votre inaptitude ou votre répugnance à pardonner à vos semblables donne la mesure de votre immaturité, et dénote que vous n'avez pas atteint le niveau adulte de sympathie, de compréhension et d'amour. Vos rancunes et vos idées de vengeance sont directement proportionnelles à votre ignorance de la nature intérieure et des véritables aspirations de vos enfants et de vos semblables » [UB 174:1.5](/fr/The_Urantia_Book/174#p1_5)
+> « Votre inaptitude ou votre répugnance à pardonner à vos semblables donne la mesure de votre immaturité, et dénote que vous n'avez pas atteint le niveau adulte de sympathie, de compréhension et d'amour. Vos rancunes et vos idées de vengeance sont directement proportionnelles à votre ignorance de la nature intérieure et des véritables aspirations de vos enfants et de vos semblables » [LU 174:1.5](/fr/The_Urantia_Book/174#p1_5)
 
 Paix sur Terre aux femmes et aux hommes de bonne volonté.
 

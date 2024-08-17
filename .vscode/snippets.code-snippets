@@ -54,7 +54,7 @@
 	"Markdown Urantia Book link french": {
 		"scope": "markdown",
 		"prefix": "ubef",
-		"body": "[UB ${1:paper}:${2:section}.${3:par}](/fr/The_Urantia_Book/${1:paper}#p${2:section}_${3:par})",
+		"body": "[LU ${1:paper}:${2:section}.${3:par}](/fr/The_Urantia_Book/${1:paper}#p${2:section}_${3:par})",
 		"description": "Insert a Markdown link"
 	},
 	"Page ID": {

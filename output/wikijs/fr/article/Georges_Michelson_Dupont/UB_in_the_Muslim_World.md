@@ -66,7 +66,7 @@ Moussa entraina aussi ses étudiants à devenir enseignants. Il leur demandait d
 
 Les révélateurs ont conseillé aux premiers dirigeants, dans les années 1950 de former des milliers de groupes d'étude d'où sortiraient des dirigeants et des enseignants, nous faisons maintenant l'expérience de la sagesse et de la perspicacité d'une telle méthode. Deux facteurs contribuent au succès :L'un est la présence d'un dirigeant habité par l'Esprit, quelqu'un de sage, patient, persévérant, éduqué, respecté et qui respecte l'autre, quelqu'un d'aimant, qui produit les fruits de l'esprit dans sa vie quotidienne et qui est mû par un désir de service altruiste. L'autre est la pratique d'une méthode sage fondée sur les méthodes de Jésus pour introduire de nouvelles vérités auprès d'un individu. C'est le respect du croyant individuel, une approche positive et aimante, une expansion méthodique de la compréhension, une présentation pas à pas, qui montre la nouvelle lumière avec 'sagesse et discrétion'.
 
-Jésus dit à ses apôtres: « _Mes bien-aimés, il faut toujours différencier votre enseignement de manière à adapter votre présentation de la vérité au mental et au coeur de ceux qui vous écoutent._ » <a id="a68_198"></a>[UB 151:3.1](/fr/The_Urantia_Book/151#p3_1).
+Jésus dit à ses apôtres: « _Mes bien-aimés, il faut toujours différencier votre enseignement de manière à adapter votre présentation de la vérité au mental et au coeur de ceux qui vous écoutent._ » <a id="a68_198"></a>[LU 151:3.1](/fr/The_Urantia_Book/151#p3_1).
 
 ## Le voyage au Sénégal
 
