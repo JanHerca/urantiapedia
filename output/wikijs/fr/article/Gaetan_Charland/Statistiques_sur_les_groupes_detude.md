@@ -3,7 +3,7 @@ title: "Statistiques sur les groupes d'étude du Livre d'Urantia"
 description: "Groupes d'étude"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: Reflectivite, article
+tags: Study Groups, Reflectivite, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---

@@ -3,7 +3,7 @@ title: "Discours de Bill Sadler au sujet du Livre d'Urantia"
 description: "Thématique"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: Reflectivite, article
+tags: Bill Sadler, Reflectivite, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---

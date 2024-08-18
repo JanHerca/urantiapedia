@@ -47,7 +47,10 @@ class Articles {
 		'Spiritual Fellowship',
 		'Study Group Herald',
 		'The Arena',
-		'6-0-6'
+		'6-0-6',
+		'Reflectivite',
+		'Le Lien',
+		'La Lettre'
 	];
 
 	createIndexFn = pug.compileFile(path.join(app.getAppPath(), 'app', 'templates', 'articleindex.pug'), {pretty: true});

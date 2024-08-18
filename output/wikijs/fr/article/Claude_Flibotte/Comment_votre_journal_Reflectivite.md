@@ -3,7 +3,7 @@ title: "Comment votre journal Réflectivité peut mieux répondre à vos besoins
 description: "Sondage"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: Thought Adjusters, Reflectivite, article
+tags: Reflectivite, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---

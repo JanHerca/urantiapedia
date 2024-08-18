@@ -3,7 +3,7 @@ title: "Une simplification de l'avant propos du Livre d’Urantia"
 description: "Thématique"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Urantia Book, Reflectivite, article
+tags: The Urantia Book, Bill Sadler, Reflectivite, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---

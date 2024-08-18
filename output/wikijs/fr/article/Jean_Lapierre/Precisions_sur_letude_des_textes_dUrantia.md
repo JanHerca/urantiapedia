@@ -3,7 +3,7 @@ title: "Précisions sur l'étude des textes d'Urantia !"
 description: "Thématique"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: Reflectivite, article
+tags: The Urantia Book, Reflectivite, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---

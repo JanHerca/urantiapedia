@@ -3,7 +3,7 @@ title: "Correspondance de Jacques Weiss"
 description: "Histoire d'une révélation"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: Reflectivite, article
+tags: Urantia Movement, Reflectivite, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
