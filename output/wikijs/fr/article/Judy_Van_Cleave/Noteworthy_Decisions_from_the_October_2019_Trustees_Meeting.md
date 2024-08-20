@@ -39,6 +39,7 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 _Par Judy Van Cleave, secrétaire de la Fondation Urantia, Idaho, États-Unis_
+<br style="clear:both;"/>
 
 ## 1. Budget 2020
 

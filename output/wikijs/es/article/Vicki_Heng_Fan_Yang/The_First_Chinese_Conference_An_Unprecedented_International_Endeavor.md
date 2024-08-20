@@ -73,6 +73,8 @@ Desde que empecé la traducción en asociación con la Fundación Urantia he dad
 
 Como ejemplo de concepto único de _El libro de Urantia_, el plan de ascensión es poco conocido en la cultura oriental. La mayoría todavía mantiene las viejas creencias de las religiones tradicionales. Presenté una visión general del viaje de ascensión al Paraíso para los seres humanos, esperando que los detalles iluminaran a los participantes sobre los propósitos de su vida y sus creencias. Entre los puntos más destacados estaban el origen del Paraíso, el universo central perfecto, el propósito del plan de ascensión de los mortales, la ruta de ascensión al Paraíso y los preparativos para la ascensión en la vida diaria. La respuesta fue muy positiva. Algunos mencionaron que esto ampliaba su visión y les daba mejores explicaciones sobre el sentido de la vida. Manifestaron que pasarían más tiempo leyendo el libro y viviendo sus vidas de forma más constructiva.
 
+## Tamara Strumfeld
+
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2020_10/008.jpg">
 <figcaption><em>Tamara Strumfeld</em></figcaption>
@@ -111,7 +113,7 @@ También quiero agradecer a Vicki Yang sus valiosas aportaciones. Su apoyo cari�
 
 Esperamos que estas enseñanzas ayuden a transformar este mundo turbulento y que nos unan para que todos podamos crecer juntos hacia la luz y vida.
 
----
+## Suzanne Kelly
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2020_10/016.jpg">
@@ -149,6 +151,8 @@ Este es el mensaje de _El libro de Urantia_ para la próxima edad, los ideales q
 Quizá algún día visite Taipei de nuevo, con un ejemplar de la traducción al chino que fue posible gracias a los traductores infatigables e increíblemente entregados que han llevado a cabo esta inmensa y difícil tarea.
 
 > La estabilidad y la persistencia asombrosas de la cultura china son una consecuencia de la posición suprema en que sitúan a la familia, porque la civilización depende directamente del funcionamiento eficaz de la familia. La familia alcanzó en China una importancia social, e incluso un significado religioso, que muy pocos pueblos han sabido alcanzar. <a id="a150_354"></a>[LU 79:8.9](/es/The_Urantia_Book/79#p8_9)
+
+## Georges Michelson-Dupont
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2020_10/015.jpg">

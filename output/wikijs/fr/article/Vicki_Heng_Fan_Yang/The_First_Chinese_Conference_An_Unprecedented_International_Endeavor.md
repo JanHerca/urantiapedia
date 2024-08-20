@@ -73,12 +73,12 @@ Dès le commencement de la traduction, en partenariat avec la Fondation, j’ai 
 
 Voici un exemple d’un concept unique du _Livre d’Urantia_, le plan d’ascension, qui est peu connu dans la culture orientale. La plupart des gens s’en tiennent aux anciennes croyances des religions traditionnelles. Je présentai un aperçu du voyage de l’ascension au Paradis, des humains, espérant que les détails éclaireraient les participants sur les buts et croyances de leur vie. Les sujets principaux comprenaient l’origine du Paradis, l’univers central parfait, le but du plan d’ascension mortel, le chemin de l’ascension au Paradis, et la préparation pour l’ascension dans la vie journalière. Le ressenti fut très positif ! Certains ont dit que cela avait élargi leur vision et leur avait donné une meilleure explication du but de la vie. Ils dirent qu’ils passeraient plus de temps à lire le livre et à vivre leurs vies d’une façon plus constructive.
 
+## Tamara Strumfeld
+
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2020_10/008.jpg">
 <figcaption><em>Tamara Strumfeld</em></figcaption>
 </figure>
-
-## Tamara Strumfeld
 
 J’ai eu le privilège de représenter la Fondation Urantia et de partager sa mission, sa vision et ses valeurs, avec un groupe d’étudiants chinois qui avait découvert le _Livre d’Urantia_ et ses enseignements. Combien j’aurais voulu être là en personne ! Peut-être, aurons-nous cette possibilité dans le futur.
 
@@ -113,14 +113,12 @@ Je voudrais aussi honorer Vicki Yang pour sa précieuse contribution. Son soutie
 
 Nous espérons que ces enseignements aideront à transformer un monde troublé et qu’ils nous réuniront pour que nous puissions grandir tous ensemble vers la lumière et la vie.
 
----
+## Suzanne Kelly
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2020_10/016.jpg">
 <figcaption><em>Suzanne Kelly</em></figcaption>
 </figure>
-
-## Suzanne Kelly
 
 Depuis 1989, Vicki et moi sommes de très bonnes amies, et ceci dès notre première rencontre en Californie. Un an plus tard, je lui rendis visite à Taipei durant quatre mois. Vicki est une traductrice professionnelle et elle me demanda de lui apporter une Bible pour pouvoir faire des recherches sur Melchizedek. Je lui apportai une ainsi que mon _Livre d’Urantia._
 
@@ -152,12 +150,12 @@ Peut-être, un jour je visiterai Taipei encore une fois – avec un exemplaire d
 
 > _La stabilité et la persistance étonnantes dès la culture chinoise sont une conséquence du rôle majeur accordé à la famille, car la civilisation dépend directement du fonctionnement efficace de la famille. En Chine, la famille atteignit une importance sociale, et même une signification religieuse, que peu d’autres peuples approchèrent._ <a id="a152_341"></a>[LU 79:8.9](/fr/The_Urantia_Book/79#p8_9)
 
+## Georges Michelson-Dupont
+
 <figure id="Figure_10" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2020_10/015.jpg">
 <figcaption><em>Georges Michelson-Dupont</em></figcaption>
 </figure>
-
-## Georges Michelson-Dupont
 
 La présentation de la Révélation Urantia aux étudiants de langue chinoise fut un événement marquant. Après près de 10 ans d’efforts, le résultat est une abondante moisson, due à la relation fructueuse entre Richard Zhu, le traducteur, et la Fondation Urantia. Le potentiel de cette initiative se mesure par le fait que plus d’un milliard d’êtres humains auront bientôt accès à la révélation Urantia, dans leur langue natale. En 2100, 10 pays hébergeront plus de la moitié de la population mondiale, et l’un d’eux parle le chinois mandarin.
 
