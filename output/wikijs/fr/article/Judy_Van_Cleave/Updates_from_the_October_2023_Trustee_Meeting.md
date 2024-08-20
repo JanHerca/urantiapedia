@@ -144,11 +144,11 @@ Félicitations aux lauréats de la deuxième série de Subventions de la Graine 
 - Pays : Kenya
 - Domaine d'intérêt : Éducation
 
-## Traductions**
+## Traductions
 
 Le conseil a reçu le rapport n° 100 (!) du Directeur des traductions , Georges Michelson-Dupont. Ce rapport rend compte régulièrement des progrès, de la dévotion et des difficultés rencontrées par les traducteurs, les réviseurs et leurs équipes. Il fait le point sur les traductions en chinois, espéranto, farsi et philippin, ainsi que sur la révision en portugais.
 
-## Mise à jour de la révision espagnole**
+## Mise à jour de la révision espagnole
 
 L'équipe de planification stratégique de la révision espagnole a rencontré une firme d'évaluateurs professionnels pour commencer à former des groupes de discussion de lecteurs. La firme organisera bientôt une session de deux heures avec jusqu'à six groupes de discussion. Les informations recueillies serviront de base à une enquête qui sera envoyée à l'ensemble des lecteurs. Tous les lecteurs hispanophones d'_El libro de Urantia_ sont invités à s'inscrire pour participer à un groupe de discussion en cliquant sur ce lien : [https://survey.alchemer.com/s3/7568967/prod-1](https://survey.alchemer.com/s3/7568967/prod-1) Nous aimerions avoir des représentants de l'ensemble du monde hispanophone.
 
