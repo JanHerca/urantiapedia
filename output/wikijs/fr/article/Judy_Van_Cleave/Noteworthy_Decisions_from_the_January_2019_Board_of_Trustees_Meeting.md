@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-1-april-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-1-avril-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 1, April 2019 — Table des matières</span>
         </a>
         </td>
@@ -142,7 +142,7 @@ En 2015, ils placèrent des livres dans la partie nord des Philippines avec l’
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-1-april-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-1-avril-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 1, April 2019 — Table des matières</span>
         </a>
         </td>

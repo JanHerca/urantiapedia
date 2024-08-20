@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-1-april-2020">
+        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-1-avril-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 1, April 2020 — Table des matières</span>
         </a>
         </td>
@@ -93,7 +93,7 @@ Si vous désirez me contacter, envoyez-moi un mail à [martinianos2020@gmail.com
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-1-april-2020">
+        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-1-avril-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 1, April 2020 — Table des matières</span>
         </a>
         </td>
