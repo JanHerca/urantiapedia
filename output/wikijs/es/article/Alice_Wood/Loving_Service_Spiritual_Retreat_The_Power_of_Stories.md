@@ -46,13 +46,13 @@ Jesús enseñaba mediante historias. La gente siempre recuerda una buena histori
 
 Muchas personas de la comunidad Urantia se han beneficiado del aumento de las videoconferencias como método para reunirnos. Las conferencias y los grupos de estudio virtuales han proporcionado una salida social al tiempo que han abierto los ojos de muchos a la creciente representación internacional de los estudiantes de _El libro de Urantia_. Pero aunque hemos ganado la fantástica capacidad de interactuar frecuentemente entre nosotros, hemos perdido la capacidad de tener charlas informales. La cancelación de las conferencias en persona significó que no hubo charlas durante el desayuno en la cafetería, y nadie llegó tarde a una sesión plenaria por entablar una gran conversación en el pasillo. No se contaron historias en los «intermedios».
 
+Haz clic para ver el video
+
+<a href="https://bit.ly/4fSzbc5">
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2021_04/038.jpg">
 </figure>
-
-Haz clic para ver el video
-
-http://www.youtube.com/watch?v=LVbSwACdgxE
+</a>
 
 No se contaron historias durante los tiempos «intermedios».
 

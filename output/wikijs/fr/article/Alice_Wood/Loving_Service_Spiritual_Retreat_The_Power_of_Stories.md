@@ -46,13 +46,13 @@ Jésus enseigna à travers des histoires. Les gens se rappellent d’une bonne h
 
 Beaucoup de gens dans la communauté Urantia ont bénéficié de l’essor des conférences vidéo en ligne, comme une méthode pour nous rapprocher. Les conférences en ligne et les groupes d’étude ont créé un exutoire social tout en ouvrant les yeux de beaucoup, sur la représentation internationale croissante des étudiants du Livre d’Urantia. Mais bien que nous ayons gagné cette capacité fantastique d’interagir fréquemment les uns avec les autres, nous avons perdu la capacité de « bavarder ». L’annulation des conférences en personne, signifiait qu’il n’y aurait plus de conversation au petit-déjeuner dans la cafétéria et que personne ne serait en retard pour une session plénière à cause d’une conversation intéressante dans le foyer. Il n’y aurait pas d’histoires racontées durant « l’intervalle ».
 
+Cliquez ici pour voir la vidéo
+
+<a href="https://bit.ly/4fSzbc5">
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2021_04/038.jpg">
 </figure>
-
-Cliquez ici pour voir la vidéo
-
-http://www.youtube.com/watch?v=LVbSwACdgxE
+</a>
 
 Aucune histoire n’a été racontée pendant les périodes « intermédiaires ».
 

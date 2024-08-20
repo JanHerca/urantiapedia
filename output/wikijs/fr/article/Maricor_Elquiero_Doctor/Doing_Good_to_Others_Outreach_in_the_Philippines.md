@@ -49,7 +49,13 @@ Ce message du _Livre d'Urantia_ nous a motivés à faire une demande de financem
 
 Pour nous, faire du bien aux autres signifie partager l'amour - la vérité, la beauté et la bonté - de la cinquième révélation d'époque. Nous avons donc pensé à un projet qui pourrait nous aider à partager l'amour, la joie et la bonne nouvelle avec les gens qui cherchent Dieu, à la fois directement et indirectement : dans notre voisinage par des réunions d'étude en personne, et par l'internet en faisant des clips vidéo inspirés du _Livre d'Urantia_.
 
-Ayant eu une enfance solitaire, j'aime rendre les enfants heureux. Après avoir lu un article sur le MSGP dans les Nouvelles en Ligne, je saisis l'occasion de poser ma candidature au nom du projet [FER-UB](https://www.youtube.com/playlist?list=PLlKoagq_zEu58naR6gXCVJrFh0coM3RSh). J'ai été aidée et soutenue par toute la famille Urantia Philippines, et j'ai reçu des encouragements particuliers de la part des extraordinaires Eugene et Belen Asidao.
+Ayant eu une enfance solitaire, j'aime rendre les enfants heureux. Après avoir lu un article sur le MSGP dans les Nouvelles en Ligne, je saisis l'occasion de poser ma candidature au nom du projet FER-UB. J'ai été aidée et soutenue par toute la famille Urantia Philippines, et j'ai reçu des encouragements particuliers de la part des extraordinaires Eugene et Belen Asidao.
+
+<a href="https://bit.ly/4drj2ZR">
+<figure id="Figure_1b" class="image urantiapedia">
+<img src="/image/article/UF_News_Online/2023_12/045.jpg">
+</figure>
+</a>
 
 Nous organisons plusieurs groupes d'étude hebdomadaires. Frère Eugène anime le groupe La Seconde Lieue tous les lundis et jeudis. Le groupe du vendredi est animé par le frère Allan Bancairen. C'est là qu'entre 5 et 20 enfants, quelques jeunes et plusieurs adultes se rassemblent pour écouter une lecture de _L’Histoire Méconnue de Jésus._ Urantia Philippines donne des fonds pour les collations et les récompenses de jeux, rendant l'étude plus amusante et excitante pour les enfants. Le dernier vendredi ou samedi de chaque mois, nous célébrons et reconnaissons les participants assidus avec une série de récompenses.
 

@@ -57,49 +57,49 @@ Vous pouvez regarder chaque session sur YouTube en cliquant sur le lien ci-desso
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2022_07/001.jpg">
-<figcaption><a href="https://www.youtube.com/watch?v=5hPLfDR82IE&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=2">A New Model of the Universe, (Un nouveau modèle de l'univers) par George Park</a></figcaption>
+<figcaption>A New Model of the Universe, (Un nouveau modèle de l'univers) par George Park <br> <a href="https://www.youtube.com/watch?v=5hPLfDR82IE&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=2">A New Model of the Universe, (Un nouveau modèle de l'univers) par George Park</a></figcaption>
 </figure>
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2022_07/004.jpg">
-<figcaption><a href="https://www.youtube.com/watch?v=FIoV_IweOAY&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=3">A Unifying Theory of Physical Interactions, (Une théorie unificatrice des interactions physiques) par Philippe Hatt</a></figcaption>
+<figcaption>A Unifying Theory of Physical Interactions, (Une théorie unificatrice des interactions physiques) par Philippe Hatt <br> <a href="https://www.youtube.com/watch?v=FIoV_IweOAY&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=3"></a></figcaption>
 </figure>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2022_07/005.jpg">
-<figcaption><a href="https://www.youtube.com/watch?v=rOYjFmFx7tI&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=4">Explaining Large Doppler Redshifts Without a Big Bang, (Expliquer les grands redshifts Doppler sans Big Bang) par Philip G. Calabrese, PhD</a></figcaption>
+<figcaption>Explaining Large Doppler Redshifts Without a Big Bang, (Expliquer les grands redshifts Doppler sans Big Bang) par Philip G. Calabrese, PhD <br> <a href="https://www.youtube.com/watch?v=rOYjFmFx7tI&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=4"></a></figcaption>
 </figure>
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2022_07/013.jpg">
-<figcaption><a href="https://www.youtube.com/watch?v=UkBDgwRSKTw&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=5">The Fractal Nature of Urantia Book Concepts: Surprising Properties and Possibilities, (La nature fractale des concepts du livre d'Urantia : propriétés et possibilités surprenantes) par Conrad Lavallée</a></figcaption>
+<figcaption>The Fractal Nature of Urantia Book Concepts: Surprising Properties and Possibilities, (La nature fractale des concepts du livre d'Urantia : propriétés et possibilités surprenantes) par Conrad Lavallée <br> <a href="https://www.youtube.com/watch?v=UkBDgwRSKTw&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=5"></a></figcaption>
 </figure>
 <br style="clear:both;"/>
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2022_07/018.jpg">
-<figcaption><a href="https://www.youtube.com/watch?v=-E_9CyKpGOY&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=6">Understanding Revealed Cosmology through Visualization by David Neufer, (Comprendre la cosmologie révélée grâce à la visualisation) par David Neufer et Marjorie Ray</a></figcaption>
+<figcaption>Understanding Revealed Cosmology through Visualization by David Neufer, (Comprendre la cosmologie révélée grâce à la visualisation) par David Neufer et Marjorie Ray <br> <a href="https://www.youtube.com/watch?v=-E_9CyKpGOY&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=6"></a></figcaption>
 </figure>
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2022_07/023.jpg">
-<figcaption><a href="https://www.youtube.com/watch?v=5P7nVvVUlJ8&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=7">Dynamic Developments in Epigenetics, (Développements dynamiques en épigénétique) par Ralph Zehr, MD</a></figcaption>
+<figcaption>Dynamic Developments in Epigenetics, (Développements dynamiques en épigénétique) par Ralph Zehr, MD <br> <a href="https://www.youtube.com/watch?v=5P7nVvVUlJ8&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=7"></a></figcaption>
 </figure>
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2022_07/016.jpg">
-<figcaption><a href="https://www.youtube.com/watch?v=ASMiOVihPck&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=9">Evolution and Revelation: The Question of Racey, (Évolution et révélation : la question de la race) par Gard Jameson, PhD</a></figcaption>
+<figcaption>Evolution and Revelation: The Question of Racey, (Évolution et révélation : la question de la race) par Gard Jameson, PhD <br> <a href="https://www.youtube.com/watch?v=ASMiOVihPck&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=9"></a></figcaption>
 </figure>
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2022_07/017.jpg">
-<figcaption><a href="https://www.youtube.com/watch?v=y7mamu4HKJ4&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=9">The Problem of “Natural Evil” in Biological Evolution: How the Revelation Solves a Theological Predicament, (Le problème du « mal naturel » dans l’évolution biologique : comment la révélation résout un problème théologique) par Byron Belitsos</a></figcaption>
+<figcaption>The Problem of “Natural Evil” in Biological Evolution: How the Revelation Solves a Theological Predicament, (Le problème du « mal naturel » dans l’évolution biologique : comment la révélation résout un problème théologique) par Byron Belitsos <br> <a href="https://www.youtube.com/watch?v=y7mamu4HKJ4&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=9"></a></figcaption>
 </figure>
 <br style="clear:both;"/>
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2022_07/015.jpg">
-<figcaption><a href="https://www.youtube.com/watch?v=-BF8O9NbQws&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=10">Science and Thought Adjuster<br>Fusion, (Fusion des Ajusteurs de Science et de Pensée) par Jenny Martin, EdD</a></figcaption>
+<figcaption>Science and Thought Adjuster<br>Fusion, (Fusion des Ajusteurs de Science et de Pensée) par Jenny Martin, EdD <br> <a href="https://www.youtube.com/watch?v=-BF8O9NbQws&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=10"></a></figcaption>
 </figure>
 <br style="clear:both;"/>
 

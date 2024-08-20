@@ -49,7 +49,13 @@ Este mensaje de _El libro de Urantia_ nos motivó a solicitar financiación del 
 
 Para nosotros, hacer el bien a los demás significa compartir el amor (la verdad, la belleza y la bondad) de la quinta revelación de época, así que pensamos en un proyecto que podría ayudarnos a compartir el amor, la alegría y las buenas noticias con los que buscan a Dios, tanto directa como indirectamente: en nuestro vecindario, mediante reuniones de estudio presenciales y a través de Internet, creando videoclips inspirados en _El libro de Urantia_.
 
-Como tuve una infancia solitaria, me gusta hacer felices a los niños. Después de leer sobre el MSGP en las Noticias en Línea, aproveché la oportunidad para solicitarlo en nombre del proyecto [FER-UB](https://www.youtube.com/playlist?list=PLlKoagq_zEu58naR6gXCVJrFh0coM3RSh). Recibí la ayuda y el apoyo de toda la familia Urantia de Filipinas, y el aliento especial de los increíbles Eugene y Belen Asidao.
+Como tuve una infancia solitaria, me gusta hacer felices a los niños. Después de leer sobre el MSGP en las Noticias en Línea, aproveché la oportunidad para solicitarlo en nombre del proyecto FER-UB. Recibí la ayuda y el apoyo de toda la familia Urantia de Filipinas, y el aliento especial de los increíbles Eugene y Belen Asidao.
+
+<a href="https://bit.ly/4drj2ZR">
+<figure id="Figure_1b" class="image urantiapedia">
+<img src="/image/article/UF_News_Online/2023_12/045.jpg">
+</figure>
+</a>
 
 Tenemos varios grupos de estudio semanales. El hermano Eugene dirige el grupo The Second Milers todos los lunes y jueves. El grupo de los viernes está dirigido por el hermano Allan Bancairen. Aquí se reúnen entre 5 y 20 niños, un par de jóvenes y varios adultos para escuchar una lectura de _The Untold Story of Jesus_ (La historia jamás contada de Jesús). Urantia Filipinas dona fondos para aperitivos y premios de juegos, lo que hace que el estudio sea más divertido y emocionante para los niños. El último viernes o sábado de cada mes, celebramos y reconocemos a los asistentes diligentes con una serie de premios.
 

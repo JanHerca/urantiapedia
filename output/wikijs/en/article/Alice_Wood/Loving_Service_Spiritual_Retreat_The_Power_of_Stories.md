@@ -46,13 +46,13 @@ Jesus taught through stories. People remember a good story. If I give a speech a
 
 Many people in the Urantia community have benefited from the rise of online videoconferencing as a method for bringing us together. The online conferences and study groups have provided a social outlet while opening the eyes of many to the growing international representation of Urantia Book students. But while we gained the fantastic ability to interact frequently with each other, we lost the ability to “shoot the breeze.” The cancellation of in-person conferences meant that there were no chats at breakfast in the cafeteria, and no one was late for a plenary because of a great conversation in the hall.
 
+Click Here to See the Video
+
+<a href="https://bit.ly/4fSzbc5">
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2021_04/038.jpg">
 </figure>
-
-Click Here to See the Video
-
-http://www.youtube.com/watch?v=LVbSwACdgxE
+</a>
 
 There were no stories told during the “in-between” times.
 

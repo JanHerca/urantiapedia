@@ -75,7 +75,13 @@ Desde el viernes por la mañana, 12 de abril, hasta el domingo por la tarde, 14 
 - Anton Miroshnichenko (Ucrania).
 - Claire Mylanus (Europa).
 
-NOTA: Pueden ver la grabación completa de las presentaciones en el canal de YouTube de la Fundación Urantia. Vayan a [https://www.youtube.com/c/UrantiaFoundation/videos](https://www.youtube.com/c/UrantiaFoundation/videos).
+NOTA: Pueden ver la grabación completa de las presentaciones en el canal de YouTube de la Fundación Urantia. Vayan a
+
+<a href="https://bit.ly/3Xb7fco">
+<figure id="Figure_2" class="image urantiapedia">
+<img src="/image/article/UF_News_Online/2019_07/062.jpg">
+</figure>
+</a>
 
 Véanlas, por favor. Son educativas e interesantes, ¡una puerta abierta al resto del mundo!
 
@@ -87,16 +93,16 @@ Nuestro agradecimiento especial a Jennifer por servir comida memorable con su to
 
 Para terminar, un enorme GRACIAS a cada uno de los participantes que recorrieron largas distancias para compartir sus experiencias personales de vida y diseminación de las enseñanzas del libro.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2019_07/011.jpg">
 </figure>
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2019_07/026.jpg">
 <figcaption><em><b>Detrás:</b> Khatukhira Bernard, Anton Miroshnichenko, Ade Awoyinka, Gard Jameson, Sandra Burga-Cisneros, Claire Mylanus, Gabriel Rymberg, Mo Siegel, Eugene Asidao, Chris Wood, David Kulieke, Enrique Traver, Suely Traver, Mark Khoury, Judy Van Cleave, Line St-Pierre, Marta Elders, Gaétan Charland, Widi Nugroho<br><b>Delante:</b> Henk Mylanus, Geraldo Queiroz, Marilynn Kulieke, Belen Asidao, Jennifer Siegel, Joanne Strobel</em></figcaption>
 </figure>
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2019_07/027.jpg">
 </figure>
 

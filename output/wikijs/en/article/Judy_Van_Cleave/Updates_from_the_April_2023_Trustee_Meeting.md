@@ -77,7 +77,7 @@ Seven grant awards were announced on March 15. Congratulations to the Round 1 Mu
 
 ### 1. The Urantia Book Teacher Training Program
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+<figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 
@@ -90,7 +90,7 @@ _A six-month project to develop a teacher training program to prepare motivated 
 
 ### 2. School of Divine and Progressive Wisdom
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 
@@ -103,7 +103,7 @@ _A one-year project to provide technical assistance for teachers/facilitators to
 
 ### 3. Urantia Conferences in Nigeria
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-left">
+<figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 
@@ -116,7 +116,7 @@ _A six-month project to host three consecutive annual conferences in Lagos, Nige
 
 ### 4. Living Bridge Productions
 
-<figure id="Figure_5" class="image urantiapedia image-style-align-left">
+<figure id="Figure_5" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 
@@ -129,7 +129,7 @@ _A one-year project to produce two high-quality videos to spread_ The Urantia Bo
 
 ### 5. Spreading the Good News
 
-<figure id="Figure_6" class="image urantiapedia image-style-align-left">
+<figure id="Figure_6" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 
@@ -142,7 +142,7 @@ _A one-month project to proclaim, promote, and disseminate the revelation throug
 
 ### 6. Urantiapedia
 
-<figure id="Figure_7" class="image urantiapedia image-style-align-left">
+<figure id="Figure_7" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 
@@ -155,7 +155,7 @@ _A two-year project to develop an open-source online encyclopedia that helps in 
 
 ### 7. FER UB
 
-<figure id="Figure_8" class="image urantiapedia image-style-align-left">
+<figure id="Figure_8" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 

@@ -75,7 +75,13 @@ Cet événement fut enregistré en live par Gaétan Charland, du vendredi matin 
 - Anton Miroshnichenko_—_Ukraine
 - Claire Mylanus_—_Europe
 
-Note : un enregistrement de toutes les présentations se trouve sur la chaîne YouTube de la Fondation Urantia. Allez sur : [https://www.youtube.com/c/UrantiaFoundation/videos](https://www.youtube.com/c/UrantiaFoundation/videos)
+Note : un enregistrement de toutes les présentations se trouve sur la chaîne YouTube de la Fondation Urantia. Allez sur : 
+
+<a href="https://bit.ly/3Xb7fco">
+<figure id="Figure_2" class="image urantiapedia">
+<img src="/image/article/UF_News_Online/2019_07/062.jpg">
+</figure>
+</a>
 
 Regardez les, s’il vous plaît. Ils sont éducatifs et intéressants, c’est une fenêtre ouverte sur le reste du monde !
 
@@ -87,16 +93,16 @@ Nous remercions tout particulièrement Jennifer pour avoir servi des repas mémo
 
 Et finalement, un grand MERCI à chacun des participants qui parcoururent de grandes distances pour partager leur expérience personnelle, de vivre et de semer les enseignements de la révélation !
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2019_07/011.jpg">
 </figure>
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2019_07/026.jpg">
 <figcaption><em><b>Au fond:</b> Khatukhira Bernard, Anton Miroshnichenko, Ade Awoyinka, Gard Jameson, Sandra Burga-Cisneros, Claire Mylanus, Gabriel Rymberg, Mo Siegel, Eugene Asidao, Chris Wood, David Kulieke, Enrique Traver, Suely Traver, Mark Khoury, Judy Van Cleave, Line St-Pierre, Marta Elders, Gaétan Charland, Widi Nugroho<br><b>Devant:</b> Henk Mylanus, Geraldo Queiroz, Marilynn Kulieke, Belen Asidao, Jennifer Siegel, Joanne Strobel</em></figcaption>
 </figure>
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2019_07/027.jpg">
 </figure>
 
