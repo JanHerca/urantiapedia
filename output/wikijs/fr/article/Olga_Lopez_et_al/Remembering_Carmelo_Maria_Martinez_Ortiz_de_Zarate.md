@@ -85,7 +85,7 @@ Carmelo était un exemple inspirant à de nombreux égards, spécialement en ter
 
 Pour l’instant, je ne peux penser à une meilleure manière d’illustrer qui cet ami était, pour beaucoup d’entre nous, qu’en partageant avec vous un extrait d’une conversation que nous avons eu en septembre dernier, que Carmelo fut d’accord d’enregistrer pour partager avec d’autres dans le futur.
 
-Je crois dans_Le Livre d’Urantia_ parce que grâce à lui, j’ai découvert le Père en moi. J’ai découvert l’Esprit du Père.
+Je crois dans _Le Livre d’Urantia_ parce que grâce à lui, j’ai découvert le Père en moi. J’ai découvert l’Esprit du Père.
 
 J’ai commencé à vraiment Le connaître, à connaître comment Il est, comment Il agit. Cela a signifié un changement dans ma vie personnelle ; c’est quelque chose que j’apprécie profondément car il me semble, que connaître le Père est fondamental.
 

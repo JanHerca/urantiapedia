@@ -1,5 +1,5 @@
 ---
-title: "Diffuser le_Livre d'Urantia_ à travers le Réseau de Vente en Ukraine"
+title: "Diffuser le _Livre d'Urantia_ à travers le Réseau de Vente en Ukraine"
 description: 
 published: true
 date: 2023-9-16T10:55:6Z

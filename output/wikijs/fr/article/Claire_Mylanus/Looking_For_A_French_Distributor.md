@@ -42,7 +42,7 @@ _Par Claire Mylanus, Henk Mylanus, Trustee Associé, Bretagne,France_
 
 _Note des Rédactrices : Claire accompagne son mari, Henk Mylanus, dans leur travail d’ouvrir les canaux de distribution du_ Livre d’Urantia _en Europe._
 
-Après avoir fait des recherches sur internet pendant des semaines, et avoir discuté avec des distributeurs et des éditeurs, mon mari Henk et moi, avons pris quelques rendez-vous et sommes allés à Paris. Le marché du livre en France est bien réglementé, et_Le Livre d’Urantia_ a déjà été distribué par plusieurs distributeurs différents. Le dernier distributeur prenait des frais de stockage si élevés que la Fondation Urantia ne pouvait pas faire de bénéfice sur les ventes du livre.
+Après avoir fait des recherches sur internet pendant des semaines, et avoir discuté avec des distributeurs et des éditeurs, mon mari Henk et moi, avons pris quelques rendez-vous et sommes allés à Paris. Le marché du livre en France est bien réglementé, et _Le Livre d’Urantia_ a déjà été distribué par plusieurs distributeurs différents. Le dernier distributeur prenait des frais de stockage si élevés que la Fondation Urantia ne pouvait pas faire de bénéfice sur les ventes du livre.
 
 En France, les distributeurs ne veulent pas distribuer un livre qui est publié par un éditeur avec un « titre unique », ce qui signifie un éditeur ne publiant qu’un seul livre. Donc la solution avait été de passer par un diffuseur, qui est un intermédiaire entre l’éditeur et le distributeur. Le diffuseur ajoute votre livre à son éventail de livres qu’il fournit aux distributeurs. Le diffuseur fait de la publicité pour votre livre dans ses bulletins et dans ses catalogues. Le diffuseur de la Fondation, en France, fit faillite et cela résultat en problèmes juridiques qui empêchaient la Fondation de récupérer quelques 1800 exemplaires du _Livre d’Urantia_.
 
@@ -60,7 +60,7 @@ Nous avons contacté des distributeurs, les uns après les autres, mais ils avai
 
 Après en avoir discuté, Henk et moi décidâmes de recommander à la Fondation Urantia d’accepter cette offre. Par sa librairie – La Librairie de L’inconnu – _Le Livre d’Urantia_ aurait une distribution indépendante, pas de frais de stockage et pas de « retours », car il n’y a pas de date limite pour laisser le livre dans sa librairie. Il a son propre site internet, vend par fax et à travers leur bulletin, et peut distribuer à d’autres librairies françaises, aussi bien qu’en Belgique et en Suisse. Il prendra des livres en dépôt et lorsqu’ils seront vendus, en commandera d’autres.
 
-Trouver des distributeurs pour_Le Livre d’Urantia_ en Europe sera toujours un challenge, comme nous l’avons vu en France. Le _Livre d’Urantia_ est un livre spécial, un « titre unique » provenant d’un éditeur étranger et c’est un livre qui n’ a un attrait que pour un petit segment du marché du livre. Mais quel livre, et à quelle aventure nous avons le privilège de participer !
+Trouver des distributeurs pour _Le Livre d’Urantia_ en Europe sera toujours un challenge, comme nous l’avons vu en France. Le _Livre d’Urantia_ est un livre spécial, un « titre unique » provenant d’un éditeur étranger et c’est un livre qui n’ a un attrait que pour un petit segment du marché du livre. Mais quel livre, et à quelle aventure nous avons le privilège de participer !
 <br style="clear:both;"/>
 
 

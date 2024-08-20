@@ -51,7 +51,7 @@ Objectif :
 
 Distribuer avec sagesse le texte inviolé et ses traductions par tous les points de distribution viables, économiques, culturels et opportuns. Atteindre le seuil de rentabilité de nos ventes. En utilisant cette stratégie, la Fondation Urantia doit avoir des activités de soutien, comme contrôler les distributeurs du livre, créer des couvertures du livre adéquates pour les différents marchés, planter des livres et des bureaux dans les pays où nous lançons de nouvelles traductions, expérimenter avec la propagation et la distribution sur internet, créer et vendre un index et plus encore.
 
-En ce qui concerne les traductions, la Fondation Urantia continuera à traduire_Le Livre d’Urantia_ en de nombreuses langues. La Fondation continuera à améliorer les traductions publiées.
+En ce qui concerne les traductions, la Fondation Urantia continuera à traduire _Le Livre d’Urantia_ en de nombreuses langues. La Fondation continuera à améliorer les traductions publiées.
 
 ## 2. Protéger le texte inviolé :
 

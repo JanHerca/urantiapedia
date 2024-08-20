@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-4-dec-2018">
+        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-4-décembre-2018">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 4, Déc. 2018 — Table des matières</span>
         </a>
         </td>
@@ -89,7 +89,7 @@ J’ai passé sept jours sous le même toit, apprenant à connaître les croyanc
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-4-dec-2018">
+        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-4-décembre-2018">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 4, Déc. 2018 — Table des matières</span>
         </a>
         </td>

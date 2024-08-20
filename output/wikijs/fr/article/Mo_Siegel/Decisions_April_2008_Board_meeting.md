@@ -45,11 +45,11 @@ le Livre tangible, les couvertures du Livre, la distribution dans les librairies
 
 Les cinq derniéres années, les ventes du Livre d'Urantia publié par la Fondation Urantia ont diminué progressivement. Nous attribuons cette diminution des ventes à l'expansion de l'accés internet aux enseignements, à la disparition de beaucoup de boutiques de livres spécialisées la croissante compétition pour l'espace sur les étagàres, à la diminution des stocks dans les librairies de chaine, aux multiples éditeurs, aux plus jeunes générations se tournant vers le multimédia au lieu de livres, et au besoin de rendre notre couverture du livre plus attrayante pour les acheteurs d'ouvrages spirituels qui ne connaissent pas le Livre. Depuis 2006 et 2007, nos ventes ont diminué assez
 
+## Nouvelles couvertures
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2008_06/011.jpg">
 </figure>
-
-## Nouvelles couvertures
 
 Presque à chaque décennie, depuis la publication initiale du _Livre d'Urantia_, la Fondation Urantia a du redessiner la couverture du Livre pour répondre aux goûts changeants des acheteurs de livres spirituels. Il y a 12 mois à peu près, la Fondation Urantia engagea trois compagnies de design de livre pour présenter des dessins pour une nouvelle couverture. Après avoir examiné à peu près 25 dessins différents de ces compagnies, nous avons gardé les trois meilleures ainsi que la couverture d'Uversa Press,et la couverture actuelle de la Fondation et nous les avons toutes testé sur le marché.
 
@@ -58,6 +58,7 @@ Environ 700 acheteurs, sans préjugés, instruits, d'un âge moyen, chercheurs d
 Parce que deux couvertures avaient si bien passé le test, nous décidâmes de les utiliser toutes les deux, la plus populaire pour la brochée et celle un peu plus haut de gamme pour la cartonnée.
 
 Les deux livres, dessinés spécialement pour le marché de l'Amérique du Nord, seront disponibles en juin 2008.Pour ceux qui préfèrent la couverture actuelle, elle est toujours disponible à l'achat.
+<br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2008_06/014.jpg">

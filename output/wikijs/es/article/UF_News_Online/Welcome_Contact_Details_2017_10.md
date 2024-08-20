@@ -60,7 +60,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <br style="clear:both;"/>
 
 
-## Volumen 11, Número 3. October 2017
+## Volumen 11, Número 3. Octubre 2017
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2017_10/044.jpg">

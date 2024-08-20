@@ -55,6 +55,7 @@ Se pidió a unos 700 compradores de libros de mente abierta, cultos, de edad ade
 Dado que las dos portadas funcionaron tan bien, decidimos usar las dos, la más popular para la edición blanda y la portada ligeramente exclusiva para el libro de tapas duras. Ambos libros, diseñados específicamente para el mercado norteamericano, estarán disponibles en junio de 2008. Aquellos que prefieran la portada actual todavía la tienen disponible para su adquisición.
 
 La Junta decidió usar las nuevas portadas en todas las futuras ediciones de las traducciones, a no ser que los representantes de un país en concreto prefirieran otra distinta.
+<br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2008_06/014.jpg">

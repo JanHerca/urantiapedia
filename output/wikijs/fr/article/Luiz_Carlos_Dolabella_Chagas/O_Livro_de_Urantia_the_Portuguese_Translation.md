@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-4-numéro-4-dec-2010">
+        <a href="/fr/index/articles_uf_news_online#volume-4-numéro-4-décembre-2010">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 4, Déc. 2010 — Table des matières</span>
         </a>
         </td>
@@ -53,7 +53,7 @@ Je connais bien la facilité d’adaptation et l’ouverture d’esprit des gens
 
 ## Quelles sont vos espérances pour _Le Livre d’Urantia_ dans les régions parlant le portugais?
 
-Nos espérances sont que _Le Livre d’Urantia_ soit adopté par des individus à travers le monde. Les enseignements de ce livre nous aideront à nous rapprocher de Dieu. …”quand la personnalité ascendante d’un mortel s’accorde finalement avec la divine gouverne de l’Ajusteur intérieur, alors l’actualité du Suprême est devenue plus réelle d’un degré dans les univers ; la divinité de la Suprématie s’est alors avancée d’un pas vers la réalisation cosmique.” <a id="a55_455"></a>[LU 117:0.3](/fr/The_Urantia_Book/117#p0_3).
+Nos espérances sont que _Le Livre d’Urantia_ soit adopté par des individus à travers le monde. Les enseignements de ce livre nous aideront à nous rapprocher de Dieu. « …quand la personnalité ascendante d’un mortel s’accorde finalement avec la divine gouverne de l’Ajusteur intérieur, alors l’actualité du Suprême est devenue plus réelle d’un degré dans les univers ; la divinité de la Suprématie s’est alors avancée d’un pas vers la réalisation cosmique. » <a id="a55_455"></a>[LU 117:0.3](/fr/The_Urantia_Book/117#p0_3).
 
 ## Comment _Le Livre d’Urantia_ a-t-il été reçu au Brésil et au Portugal?
 
@@ -88,7 +88,7 @@ Ma carrière fut celle d’un ingénieur. J’ai écrit quatre romans dont trois
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-4-numéro-4-dec-2010">
+        <a href="/fr/index/articles_uf_news_online#volume-4-numéro-4-décembre-2010">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 4, Déc. 2010 — Table des matières</span>
         </a>
         </td>

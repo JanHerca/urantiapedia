@@ -35,7 +35,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 
 
-Note de l’Éditeur : Cette lettre nous a été expédiée par une personne incarcérée, laquelle a reçu un_Livre d'Urantia_ suite au programme de l’Équipe de Réponse aux Demandes d'Information des Prisonniers. (PIRT – Prisoner Inquiry Response Team)
+Note de l’Éditeur : Cette lettre nous a été expédiée par une personne incarcérée, laquelle a reçu un _Livre d'Urantia_ suite au programme de l’Équipe de Réponse aux Demandes d'Information des Prisonniers. (PIRT – Prisoner Inquiry Response Team)
 
 ## Merci pour votre support
 

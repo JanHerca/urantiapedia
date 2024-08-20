@@ -25,7 +25,7 @@ dateCreated: 2023-9-16T10:55:6Z
         </td>
         <td>
         <a href="/fr/article/Anton_Miroshnichenko/spreading_the_urantia_book_in_ukraine">
-          <span class="pr-2">Diffuser le_Livre d'Urantia_ à travers le Réseau de Vente en Ukraine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Diffuser le _Livre d'Urantia_ à travers le Réseau de Vente en Ukraine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -45,7 +45,7 @@ Pour vous mettre en appétit, voici les séances plénières que nous avons pré
 
 1\. L'enfant et Son Éducation (_Lourdes Burga-Cisneros_)
 
-_Le_Livre d'Urantia__ nous enseigne que l’univers est une immense école où nous sommes à la fois élève et professeur. L'éducation des enfants est la base de la formation du caractère sur laquelle l’ajusteur s'appuiera dans son travail à l’intérieur du mental, d'où la grande responsabilité des parents. Cette plénière est une réflexion sur l’importance de créer un milieu favorable à la croissance de l’enfant.
+_Le _Livre d'Urantia__ nous enseigne que l’univers est une immense école où nous sommes à la fois élève et professeur. L'éducation des enfants est la base de la formation du caractère sur laquelle l’ajusteur s'appuiera dans son travail à l’intérieur du mental, d'où la grande responsabilité des parents. Cette plénière est une réflexion sur l’importance de créer un milieu favorable à la croissance de l’enfant.
 
 2\. Les Outils de Socialisation de L'enfant (_Chris Wood_)
 
@@ -171,7 +171,7 @@ _7:30 – 8:30_ | _Breakfast_
         </td>
         <td>
         <a href="/fr/article/Anton_Miroshnichenko/spreading_the_urantia_book_in_ukraine">
-          <span class="pr-2">Diffuser le_Livre d'Urantia_ à travers le Réseau de Vente en Ukraine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Diffuser le _Livre d'Urantia_ à travers le Réseau de Vente en Ukraine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

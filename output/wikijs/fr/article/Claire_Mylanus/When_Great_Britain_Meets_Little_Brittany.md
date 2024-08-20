@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-3-numéro-4-dec-2009">
+        <a href="/fr/index/articles_uf_news_online#volume-3-numéro-4-décembre-2009">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, numéro 4, Déc. 2009 — Table des matières</span>
         </a>
         </td>
@@ -77,7 +77,7 @@ Le partage de la révélation Urantia à travers le globe est une expérience pu
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-3-numéro-4-dec-2009">
+        <a href="/fr/index/articles_uf_news_online#volume-3-numéro-4-décembre-2009">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, numéro 4, Déc. 2009 — Table des matières</span>
         </a>
         </td>

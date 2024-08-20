@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-4-numéro-4-dec-2010">
+        <a href="/fr/index/articles_uf_news_online#volume-4-numéro-4-décembre-2010">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 4, Déc. 2010 — Table des matières</span>
         </a>
         </td>
@@ -74,7 +74,7 @@ _Das Urantia Buch_ se vend assez bien. Les lecteurs se rencontrent à Francfort,
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-4-numéro-4-dec-2010">
+        <a href="/fr/index/articles_uf_news_online#volume-4-numéro-4-décembre-2010">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 4, Déc. 2010 — Table des matières</span>
         </a>
         </td>

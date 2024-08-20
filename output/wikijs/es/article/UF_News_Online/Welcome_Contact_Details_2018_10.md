@@ -61,7 +61,7 @@ dateCreated: 2023-8-29T10:55:6Z
 El esfuerzo no siempre produce alegría, pero no existe felicidad sin un esfuerzo inteligente. _El Libro de Urantia_, <a id="a60_117"></a>[LU 48:7.10](/es/The_Urantia_Book/48#p7_10)
 <br style="clear:both;"/>
 
-## Volumen 12, Número 3 . October 2018
+## Volumen 12, Número 3 . Octubre 2018
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2018_10/060.jpg">

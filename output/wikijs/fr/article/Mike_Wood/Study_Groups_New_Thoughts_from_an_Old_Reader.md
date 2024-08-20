@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-4-numéro-3-sept-2010">
+        <a href="/fr/index/articles_uf_news_online#volume-4-numéro-3-septembre-2010">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 3, Sept. 2010 — Table des matières</span>
         </a>
         </td>
@@ -79,7 +79,7 @@ Tout comme un voyage de mille miles commence par un premier pas, des milliers de
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-4-numéro-3-sept-2010">
+        <a href="/fr/index/articles_uf_news_online#volume-4-numéro-3-septembre-2010">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 3, Sept. 2010 — Table des matières</span>
         </a>
         </td>

@@ -140,7 +140,7 @@ Le document raconte les premiers pas du petit groupe de chercheurs de vérité. 
 > 
 > _« Ce fut la procédure suivie tout au long des nombreuses années de réception des Cahiers d'Urantia. Pas de questions - pas de papiers. »_
 > 
-> _« C'était le plan : on lisait un article un dimanche après-midi et le dimanche suivant les nouvelles questions seraient présentées à nouveau, celles-ci seraient triées, classées, etc. Ce programme s'étalait sur plusieurs années et aboutissait finalement au présentation des 196 communications telles qu'on les trouve maintenant dans_Le Livre d'Urantia_. »_
+> _« C'était le plan : on lisait un article un dimanche après-midi et le dimanche suivant les nouvelles questions seraient présentées à nouveau, celles-ci seraient triées, classées, etc. Ce programme s'étalait sur plusieurs années et aboutissait finalement au présentation des 196 communications telles qu'on les trouve maintenant dans _Le Livre d'Urantia_. »_
 
 ### Le Forum et la Commission de Contact deviennent deux groupes distincts
 

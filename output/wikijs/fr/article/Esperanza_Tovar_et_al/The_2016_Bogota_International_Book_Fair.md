@@ -58,7 +58,7 @@ Les volontaires parlèrent directement avec plus de deux mille personnes _d’_E
 
 Des noms, des numéros de téléphone et des adresses mail furent recueillis de 305 personnes intéressées à acheter le livre, à recevoir Le bulletin de l’association ou à participer à des évènements, des exposés ou à des conférences futures.
 
-Durant la foire, il y eut trois exposés pour introduire_Le Livre d’Urantia_ et un atelier intitulé « Épigénétiques d’Urantia » auquel assistèrent plus de trente personnes.
+Durant la foire, il y eut trois exposés pour introduire _Le Livre d’Urantia_ et un atelier intitulé « Épigénétiques d’Urantia » auquel assistèrent plus de trente personnes.
 
 La place du stand était parfaite, en relation avec le grand flux de personnes qui y vinrent, en particulier les jeunes gens. Le stand était attrayant et comprenait un comptoir, des livres en exposition, deux tables avec des chaises pour les visiteurs, un ordinateur pour prendre des informations et un lecteur de cartes bancaires pour les paiements par carte de crédit. Les murs étaient décorés avec de grands posters du livre, de Jésus et du Maître Univers.
 

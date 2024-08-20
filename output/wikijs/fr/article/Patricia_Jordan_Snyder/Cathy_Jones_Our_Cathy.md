@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-10-numéro-4-dec-2016">
+        <a href="/fr/index/articles_uf_news_online#volume-10-numéro-4-décembre-2016">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 4, Déc. 2016 — Table des matières</span>
         </a>
         </td>
@@ -41,7 +41,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Patricia Jordan Snyder, Californie, États-Unis_
 
-_Note de l’éditeur: Cet article célèbre la vie de Cathy Jones, 9 avril 1925 au 17 septembre 2016 et ses contributions à la communauté des lecteurs du_ Livre d’Urantia_._
+_Note de l’éditeur: Cet article célèbre la vie de Cathy Jones, 9 avril 1925 au 17 septembre 2016 et ses contributions à la communauté des lecteurs du_ Livre d’Urantia.
 
 La grâce avait l’air d’être naturelle chez « Notre Cathy ». Elle circulait avec un calme qu’elle garda réellement, même dans le noir, pendant les heures noires d’épreuves physiques qui auraient dû faire sortir le pire chez la plupart des gens. Elle garda sa force de caractère, son humour, sa foi et son amour.
 
@@ -119,7 +119,7 @@ La vie inspirante de service aimant de « Notre Cathy » stimule notre réponse 
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-10-numéro-4-dec-2016">
+        <a href="/fr/index/articles_uf_news_online#volume-10-numéro-4-décembre-2016">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 4, Déc. 2016 — Table des matières</span>
         </a>
         </td>

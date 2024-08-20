@@ -55,7 +55,7 @@ Dans ce projet, nous ne retraduisons pas le livre, mais nous le révisons et le 
 
 La procédure demande d’analyser soigneusement le texte, mot à mot, en faisant attention que le sens du texte anglais, qui représente ce que les révélateurs voulaient, soit constamment reflété dans le texte en portugais, tout en respectant la traduction portugaise originale.
 
-Nous avons une excellente équipe qui travaille sur la révision et tous ses membres connaissent extrêmement bien_Le Livre d’Urantia_ et se sont portés volontaires pour servir la révélation par leurs talents.
+Nous avons une excellente équipe qui travaille sur la révision et tous ses membres connaissent extrêmement bien _Le Livre d’Urantia_ et se sont portés volontaires pour servir la révélation par leurs talents.
 
 Ce qui suit vous donnera une idée de la procédure :
 

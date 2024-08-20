@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-10-numéro-4-dec-2016">
+        <a href="/fr/index/articles_uf_news_online#volume-10-numéro-4-décembre-2016">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 4, Déc. 2016 — Table des matières</span>
         </a>
         </td>
@@ -79,7 +79,7 @@ Les étudiants du _Livre d’Urantia_ savent que les révélateurs ont utilisé 
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-10-numéro-4-dec-2016">
+        <a href="/fr/index/articles_uf_news_online#volume-10-numéro-4-décembre-2016">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 4, Déc. 2016 — Table des matières</span>
         </a>
         </td>

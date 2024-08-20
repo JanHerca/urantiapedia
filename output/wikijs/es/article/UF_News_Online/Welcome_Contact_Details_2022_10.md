@@ -57,7 +57,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2022_10/006.jpg">
 </figure>
 
-## Volumen 16, Número 4. October 2022
+## Volumen 16, Número 4. Octubre 2022
 
 Fundación Urantia
 533 W. Diversey Parkway

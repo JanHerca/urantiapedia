@@ -42,6 +42,7 @@ dateCreated: 2023-8-29T10:55:6Z
 _Por Mo Siegel, Secretario de la Fundación Urantia_
 
 La Junta Ampliada de la Fundación Urantia se reunió en Chicago para la reunión trimestral de octubre de 2007. Algunas de las áreas de discusión y toma de decisiones incluyeron:
+<br style="clear:both;"/>
 
 ## Europa
 
@@ -99,7 +100,7 @@ Black Mountain, Carolina del Norte, EE.UU.
 
 > «Después de recibir siete disparos durante el robo en una tienda de conveniencia, ser asaltado y abandonado moribundo, pensé en las enseñanzas de _El Libro de Urantia_. En ese momento sentí dentro de mí una completa «tranquilidad» y «certeza de destino». Y, aunque no morí, esos mismos sentimientos continúan hasta el día de hoy, lo que me convierte en el hombre más feliz del mundo».
 
-mitch austin
+Mitch Austin
 Taos, Nuevo México
 
 > «¡El intento de comprender, creer y practicar las verdades de la revelación de Urantia ha cambiado positivamente el punto de apoyo y el enfoque de mi vida, y el Espíritu de Dios literalmente me ha elevado y transformado mediante este esfuerzo!»

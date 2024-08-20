@@ -54,6 +54,7 @@ A continuación figura una lista de las cinco cosas más importantes que nuestro
 3. Disfruté conectando y estableciendo contactos con una comunidad mundial de individuos entusiastas de _El libro de Urantia_.
 4. Debatir y participar en los talleres me permitió comprender más profundamente las enseñanzas del libro, lo que me llevó a una mayor comprensión espiritual.
 5. Mi experiencia con el CAC me dio un sentido más profundo de mi propósito.
+<br style="clear:both;"/>
 
 ## Krystyna Wardega-Piasecka, de Polonia, que actualmente vive y trabaja en Noruega
 
@@ -66,6 +67,7 @@ A continuación figura una lista de las cinco cosas más importantes que nuestro
 3. Aprendí algunas posibles razones de la falta de confianza mutua de los polacos y cómo esto probablemente ha llevado a una idea equivocada de Polonia en otros países.
 4. Revisar los puntos de vista culturalmente arraigados mediante la conversación, observación y exploración es un paso importante en el propio desarrollo.
 5. Todos deberían tener la experiencia de conocer otras culturas y su percepción del contenido de _El libro de Urantia_.
+<br style="clear:both;"/>
 
 ## Jaime Eduardo Rey Albornoz, de Colombia
 
@@ -78,6 +80,7 @@ A continuación figura una lista de las cinco cosas más importantes que nuestro
 3. Me hice más consciente del trabajo que realizan los lectores de Urantia en Colombia.
 4. El trabajo con el CAC confirmó la importancia de los grupos de estudio de Urantia.
 5. Tomé conciencia de los esfuerzos que realizan las distintas culturas para dar a conocer la revelación, y de algunos retos comunes que surgen de esos esfuerzos.
+<br style="clear:both;"/>
 
 ## Marcos Dalmolin, de Brasil
 

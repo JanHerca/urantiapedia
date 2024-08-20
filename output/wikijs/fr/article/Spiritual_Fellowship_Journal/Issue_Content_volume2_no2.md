@@ -121,7 +121,7 @@ Copyright © 1992, Tous droits réservés.
 
 - **Les Deuxièmes Lumières : libéralisme et religion**
 	Le libéralisme, qui met l’accent sur la tolérance et la liberté individuelle, a triomphé en économie et en politique. Nous arrivons à une époque où elle triomphera enfin dans le domaine de la religion également.
-- **Concepts du Salut : La Bible et_Le Livre d'Urantia_ Comparés**
+- **Concepts du Salut : La Bible et _Le Livre d'Urantia_ Comparés**
 	Les concepts bibliques et du Livre d'Urantia sont symbiotiques et se renforcent mutuellement. La vision historique d'Irénée et de nombreuses théologies contemporaines concordent avec _Le Livre d'Urantia_.
 
 ***Colonnes***

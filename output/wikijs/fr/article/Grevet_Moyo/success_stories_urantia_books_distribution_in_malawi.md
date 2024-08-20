@@ -90,7 +90,7 @@ En général l’exercice de distribution a connu un grand succès. Cependant, �
 
 D'autres se sont sentis obligés de me revenir et de faire témoignage. James Banda a témoigné ceci : « Wow, ce livre est grand et il contient de merveilleux enseignements et je vais continuer à le lire jusqu'au dernier Fascicule. » Des déclarations comme celle-là indiquent clairement que _Le Livre d'Urantia_ est un grand livre et qu'il peut transformer la vie de plusieurs personnes.
 
-Pendant la période de distribution, nous avons rencontré certains défis, principalement de marcher de longues distances avec des boîtes de_Livre d'Urantia_, puisque nous ne disposions pas de fonds pour le transport par véhicule. Dans les bas quartiers de la ville de Lilongwe où je suis maintenant basé, la plupart des gens sont illettrés et n'étaient pas intéressés; tel étant le cas, je n'y ai pas distribué d'exemplaires.
+Pendant la période de distribution, nous avons rencontré certains défis, principalement de marcher de longues distances avec des boîtes de _Livre d'Urantia_, puisque nous ne disposions pas de fonds pour le transport par véhicule. Dans les bas quartiers de la ville de Lilongwe où je suis maintenant basé, la plupart des gens sont illettrés et n'étaient pas intéressés; tel étant le cas, je n'y ai pas distribué d'exemplaires.
 
 Grevet Moyo
 Président – Association Urantia du Malawi

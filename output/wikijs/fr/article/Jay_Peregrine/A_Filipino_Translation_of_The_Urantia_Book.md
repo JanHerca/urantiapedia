@@ -42,7 +42,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Jay Peregrine, comité des traductions, Michigan, États-Unis_
 
-L’objectif principal du plan stratégique de la Fondation Urantia, est de rendre disponible_Le Livre d’Urantia_ dans les principales langues du monde, en 2035. Réaliser cet objectif permettra à 80% de la population mondiale, d’étudier les enseignements du _Livre d’Urantia,_ dans sa langue natale. C’est pourquoi j’annonce avec joie, qu’une équipe dédiée a commencé la traduction du livre en philippin.
+L’objectif principal du plan stratégique de la Fondation Urantia, est de rendre disponible _Le Livre d’Urantia_ dans les principales langues du monde, en 2035. Réaliser cet objectif permettra à 80% de la population mondiale, d’étudier les enseignements du _Livre d’Urantia,_ dans sa langue natale. C’est pourquoi j’annonce avec joie, qu’une équipe dédiée a commencé la traduction du livre en philippin.
 
 Le philippin est la langue officielle des Philippines qui est parlée par plus de 45 millions des gens qui y vivent. Souvent appelée Tagalog aux Philippines, mais connue en tant que philippin internationalement, c’est une version standard du Tagalog, qui est l’une des nombreuses langues indigènes du pays. C’est l’une des langue parlées la plus répandue dans le monde. Près de deux millions de personnes parlent le philippin aux États-Unis et au Canada. En dehors des Philippines, et de l’Amérique du Sud, il y a des personnes parlant cette langue en Australie, au Guam, au Koweït, en Malaisie, en Arabie Saoudite, aux Émirats et au Royaume Uni.
 <br style="clear:both;"/>
@@ -52,7 +52,7 @@ Le philippin est la langue officielle des Philippines qui est parlée par plus d
 <figcaption><em>Henry Tuason (avocat), Calvin Penaco (trésorier), Allan Bancairen, Georcynth Sunga, Nestor Seda, Belen Asidao, Eugène Asidao</em></figcaption>
 </figure>
 
-Le lancement du projet, en janvier dernier, est le résultat de nombreuses années de préparation soignée. En gardant les standards de traduction établis par la Fondation Urantia, les membres de l’équipe lirent tous_Le Livre d’Urantia_ deux fois. Ils participèrent à des groupes d’étude du Livre d’Urantia et parlent tous couramment le philippin et l’anglais. Ils pensent qu’il faudra neuf ans pour finir la traduction.
+Le lancement du projet, en janvier dernier, est le résultat de nombreuses années de préparation soignée. En gardant les standards de traduction établis par la Fondation Urantia, les membres de l’équipe lirent tous _Le Livre d’Urantia_ deux fois. Ils participèrent à des groupes d’étude du Livre d’Urantia et parlent tous couramment le philippin et l’anglais. Ils pensent qu’il faudra neuf ans pour finir la traduction.
 
 L’équipe se compose de Nestor Santos Seda (le traducteur en chef), Calvin Penaco, Géo Sunga, Allan Bancairen et Belen et Eugene Asidao. Nestor, Calvin, Geo et Allan vivent dans le centre de Manille. Eugene et Belen, des lecteurs de longue date, vivent dans la région de Chicago où ils sont actifs dans des groupes d’étude locaux.
 

@@ -51,7 +51,7 @@ dateCreated: 2023-8-29T10:55:6Z
 - Vídeos «Mi pequeña luz»
 - Anuncios
 
-## Volumen 14, Número 3 . October 2020
+## Volumen 14, Número 3 . Octubre 2020
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2020_10/051.jpg">

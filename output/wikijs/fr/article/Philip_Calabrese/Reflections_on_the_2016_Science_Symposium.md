@@ -46,7 +46,7 @@ Note de l’éditeur :
 
 ## Qu’est-ce qu’un Symposium sur la Science ?
 
-Je suis un scientifique, un mathématicien, qui prend_Le Livre d’Urantia_ à la lettre lorsqu’il dit :
+Je suis un scientifique, un mathématicien, qui prend _Le Livre d’Urantia_ à la lettre lorsqu’il dit :
 
 > Bien que les déclarations en rapport avec la cosmologie ne sont jamais inspirés, de tels révélations ont une _valeur immense_ car elles clarifient temporairement la connaissance par :
 > 
@@ -58,13 +58,13 @@ Je suis un scientifique, un mathématicien, qui prend_Le Livre d’Urantia_ à l
 
 Les auteurs utilisent une terminologie vague lorsqu’ils souhaitent éviter de révéler des informations pour lesquelles ils ne sont pas mandatés, non acquises ou interdites, ou bien qu’ils choisissent de ne pas dévoiler. Mais lorsqu’ils font une affirmation définitive, ils ne rapportent pas les erreurs du début du vingtième siècle ; le lecteur peut s’attendre à lire les corrections d’autorité des erreurs qui atténuent la confusion.
 
-La « valeur immense » de la cosmologie que les révélateurs présentent est pour beaucoup inconnue des scientifiques contemporains. L’élimination autoritaire des erreurs n’a guère été reconnue ou intégrée par la science contemporaine. Cela montre combien il est très important d’avoir des symposiums scientifiques réguliers de scientifiques contemporains qui croient aussi que_Le Livre d’Urantia_ est une révélation divine.
+La « valeur immense » de la cosmologie que les révélateurs présentent est pour beaucoup inconnue des scientifiques contemporains. L’élimination autoritaire des erreurs n’a guère été reconnue ou intégrée par la science contemporaine. Cela montre combien il est très important d’avoir des symposiums scientifiques réguliers de scientifiques contemporains qui croient aussi que _Le Livre d’Urantia_ est une révélation divine.
 
 ## Mon sujet : Libre Arbitre dans le Cosmos
 
 En 2013, lorsque Gard Jameson m’invita à participer à un symposium scientifique, j’acceptai joyeusement l’invitation. Cela me rappela des anciens symposiums scientifiques, y compris le premier Symposium Scientifique tenu à Nashville en 1998 et le Symposium Scientifique II animé par Berkeley Elliott avec La Société Ocklahoma en 1991.
 
-Mon premier choix de thème et d’exposé en réponse à l’invitation de Gard, était « Un Test Statistique de l’Hypothèse que_Le Livre d’Urantia_ fut écrit par des Humains. » Lorsque la date du symposium fut repoussée à 2016, je publiai l’exposé dans le numéro de _l’Herald de la Fellowship_ en 2013. Cet exposé présente des arguments en faveur du Livre _d’Urantia_, étant lui-même la preuve du dessin intelligent dans l’univers.
+Mon premier choix de thème et d’exposé en réponse à l’invitation de Gard, était « Un Test Statistique de l’Hypothèse que _Le Livre d’Urantia_ fut écrit par des Humains. » Lorsque la date du symposium fut repoussée à 2016, je publiai l’exposé dans le numéro de _l’Herald de la Fellowship_ en 2013. Cet exposé présente des arguments en faveur du Livre _d’Urantia_, étant lui-même la preuve du dessin intelligent dans l’univers.
 
 Donc, lorsque les dates de juin 2016 furent posées, j’avais besoin d’un autre exposé. Les circonstances me dirigeaient depuis longtemps vers un exposé sur l’existence du libre arbitre dans le cosmos.
 
@@ -123,7 +123,7 @@ Après le vin, les amuse-gueules et le diner, ce fut le moment pour une soirée 
 
 Le dimanche matin, après un autre petit-déjeuner succulent, le maître technicien Gaétan Charland, instigateur du « live streaming » du symposium (qui arriva à régler rapidement tous les problèmes techniques), fut capable de nous connecter avec George Park et de nous le faire voir sur l’écran géant de la Fondation, lui permettant de présenter son exposé sur « Prouver que la Divine Providence est Responsable de l’Évolution de l’Univers ». George se concentra sur le fait révélé que le maitre univers est plat, ce qui est incohérent avec la théorie du Big Bang qui implique un univers uniforme d’expansion. Il expliqua que la preuve de cette platitude transcendantalement initiée est maintenant accessible à la science contemporaine mais complètement ignorée. Renverser une théorie fausse mais acceptée prend toujours du temps, jusqu’à ce que les vieux défenseurs respectés meurent les uns après les autres, et que de plus jeunes scientifiques reçoivent finalement des fonds et soient acceptés. Alors, nous lirons encore une fois, « Les scientifiques avaient pensés que……. »
 
-Finalement, Dave Neufer, présenta un candidat pour l’une des mystérieuses sortes d’énergie dont_Le Livre d’Urantia_ dit que nos scientifiques n’ont pas encore découvert. Dave parla d’un phénomène démontré par Dr. Randell L. Mills qui utilise de l’argent fondu comme catalyseur et de la vapeur d’eau comme carburant. On y met le courant et se forme un plasma qui émet des rayons ultraviolets, ultraviolets extrêmes et des rayons X, qui sont transformés en courant. La question reste de savoir si les forces non découvertes et les formes d’énergie dans le noyau des atomes mentionnées dans le Fascicule 42 du _Livre d’Urantia_ sont liées au phénomène controversé montré par Dr. Mills.
+Finalement, Dave Neufer, présenta un candidat pour l’une des mystérieuses sortes d’énergie dont _Le Livre d’Urantia_ dit que nos scientifiques n’ont pas encore découvert. Dave parla d’un phénomène démontré par Dr. Randell L. Mills qui utilise de l’argent fondu comme catalyseur et de la vapeur d’eau comme carburant. On y met le courant et se forme un plasma qui émet des rayons ultraviolets, ultraviolets extrêmes et des rayons X, qui sont transformés en courant. La question reste de savoir si les forces non découvertes et les formes d’énergie dans le noyau des atomes mentionnées dans le Fascicule 42 du _Livre d’Urantia_ sont liées au phénomène controversé montré par Dr. Mills.
 
 Le déjeuner fut servi après ce dernier exposé et les participants au symposium qui étaient encore là après, n’étaient pas prêts à se dire au revoir. Cinq d’entres nous, Dick, David, Nigel et Gaétan décidèrent d’aller marcher l’après-midi. Le paysage magnifique et ouvert du bord de lac, avec de nombreuses personnes qui profitaient du dimanche après-midi, dans l’herbe verte, sous les arbres et parmi les monuments, fut une façon parfaite de prolonger la journée. Mais maintenant, c’était vraiment le moment de partir. Nous nous sommes tous sentis grandement enrichis par le weekend du mental, du corps et de l’esprit et par le contact personnel dont nous nous rappellerons, sans aucun doute, pour toujours.
 <br style="clear:both;"/>

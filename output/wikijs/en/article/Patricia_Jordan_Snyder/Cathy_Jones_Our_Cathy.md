@@ -41,7 +41,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _By Patricia Jordan Snyder, California, United States_
 
-_Editor's Note: This article celebrates the life of Cathy Jones, April 9, 1925September 17, 2016, and her contributions to the community of readers of _The Urantia Book_._
+_Editor's Note: This article celebrates the life of Cathy Jones, April 9, 1925September 17, 2016, and her contributions to the community of readers of_ The Urantia Book.
 
 Graciousness seemed to come naturally to “Our Cathy.” She flowed with a calmness that held true, even in the dark, dark hours of physical testing that would have brought out the worst in most people. She maintained her strength of character, her humor, her faith, and her love.
 

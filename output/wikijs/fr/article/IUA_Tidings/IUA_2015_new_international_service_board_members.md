@@ -15,7 +15,7 @@ dateCreated: 2023-9-16T10:55:6Z
       <tr>
         <td>
         <a href="/fr/article/Anton_Miroshnichenko/spreading_the_urantia_book_in_ukraine">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diffuser le_Livre d'Urantia_ à travers le Réseau de Vente en Ukraine</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diffuser le _Livre d'Urantia_ à travers le Réseau de Vente en Ukraine</span>
         </a>
         </td>
         <td>
@@ -75,7 +75,7 @@ Andres fait montre d'un mental affiné et d'un engagement assidu à travailler a
 
 Antonio est né en Colombie et a été élevé aux Pays-Bas. Il est âgé de 38 ans et il lit _Le Livre d'Urantia_ depuis 2005. Il a gradué en 2008 avec un diplôme en Administration publique. Cette même année, il a mis sur pied un site Internet dédié aux enseignements du _Livre d'Urantia_ et a organisé sa première activité pour la communauté Urantia en présentant un cours d'introduction sur le livre. Et depuis, il a donné des conférences et des entrevues vidéo et radio sur _Le Livre d'Urantia_ et il a été activement impliqué dans l’Association Stichting Urantia Nederlandstalig.
 
-Antonio a développé des habiletés dans le graphisme et la technologie de l’imagerie 3D et il a développé des vidéos artisanaux utilisant ses propres designs pour des médias tels que Facebook et YouTube. Il a passé du temps en Colombie à visiter les groupes d'étude et à aider dans une variété d'activités reliées à Urantia, telle qu'une Foire internationale du Livre où il a présenté l’un de ses vidéos. Récemment, il s'est impliqué en utilisant ses connaissances en imagerie 3D pour certains aspects artistiques reliés au_Livre d'Urantia_. Il a lancé sa meilleure et sa plus importante production vidéo à date, en 2013 dont le titre était "Le Secret d'Urantia."
+Antonio a développé des habiletés dans le graphisme et la technologie de l’imagerie 3D et il a développé des vidéos artisanaux utilisant ses propres designs pour des médias tels que Facebook et YouTube. Il a passé du temps en Colombie à visiter les groupes d'étude et à aider dans une variété d'activités reliées à Urantia, telle qu'une Foire internationale du Livre où il a présenté l’un de ses vidéos. Récemment, il s'est impliqué en utilisant ses connaissances en imagerie 3D pour certains aspects artistiques reliés au _Livre d'Urantia_. Il a lancé sa meilleure et sa plus importante production vidéo à date, en 2013 dont le titre était "Le Secret d'Urantia."
 
 L'Association Urantia est privilégiée de compter un membre tel qu'Antonio sur le Conseil. En plus de son implication sincère envers la révélation Urantia et son empressement à servir, il apporte avec lui la fraîcheur et l’enthousiasme de la jeunesse, tout autant que la technologie moderne Internet, ce qui nous aide à garder la cadence avec le monde autour de nous en constante effervescence.
 <br style="clear:both;"/>
@@ -146,7 +146,7 @@ Gaétan Charland, pour ceux familiers avec l’Association Urantia, n'a pas beso
       <tr>
         <td>
         <a href="/fr/article/Anton_Miroshnichenko/spreading_the_urantia_book_in_ukraine">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diffuser le_Livre d'Urantia_ à travers le Réseau de Vente en Ukraine</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diffuser le _Livre d'Urantia_ à travers le Réseau de Vente en Ukraine</span>
         </a>
         </td>
         <td>

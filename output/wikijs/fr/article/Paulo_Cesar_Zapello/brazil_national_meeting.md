@@ -49,7 +49,7 @@ Cette année, nous avons célébré le 10^e^ événement brésilien, avec trois 
 <img src="/image/article/IUA_Tidings/Brazil-Conf-2-300x225.jpg">
 </figure>
 
-Le thème principal était : « D'Urantia au Paradis», précédé par une « Introduction au_Livre d'Urantia_ » avec une vision de la cosmologie et de l’assistance divine de nos Ajusteurs de Pensée.
+Le thème principal était : « D'Urantia au Paradis», précédé par une « Introduction au _Livre d'Urantia_ » avec une vision de la cosmologie et de l’assistance divine de nos Ajusteurs de Pensée.
 
 Les trois jours furent inoubliables et nous avons tous hâte de répéter en 2016.
 

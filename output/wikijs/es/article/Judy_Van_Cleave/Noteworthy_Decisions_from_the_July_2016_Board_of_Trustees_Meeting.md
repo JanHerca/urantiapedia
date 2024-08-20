@@ -65,7 +65,7 @@ He aquí algunos datos específicos del análisis que destacamos: 1) Los libros 
 
 ## 5. Resultados económicos hasta junio
 
-Las buenas noticias: al final de la primera mitad del año, los gastos estuvieron por debajo de lo presupuestado en 49.165$ y fueron 539,57$ menos que el año anterior. Las malas noticias: las donaciones han bajado este año. En la primera mitad de 2015 recibimos dos grandes donaciones de una vez que hicieron un total de 200.000$. En 2016 no se han dado tales regalos. Si quitamos estos dos regalos del cálculo, todavía tenemos 45.000$ menos que al año pasado. ¡Tenemos mucho trabajo que hacer para no perder ni ganar en 2016! Después de un espléndido 2015, da que pensar tener un comienzo tan duro este año. El equipo de la oficina está buscando reducir costes y los comités están ahorrando dinero siempre que es posible. ¡Necesitamos sus donaciones y estas son muy apreciadas!
+Las buenas noticias: al final de la primera mitad del año, los gastos estuvieron por debajo de lo presupuestado en 49.165 \$ y fueron 539,57 \$ menos que el año anterior. Las malas noticias: las donaciones han bajado este año. En la primera mitad de 2015 recibimos dos grandes donaciones de una vez que hicieron un total de 200.000 \$. En 2016 no se han dado tales regalos. Si quitamos estos dos regalos del cálculo, todavía tenemos 45.000 \$ menos que al año pasado. ¡Tenemos mucho trabajo que hacer para no perder ni ganar en 2016! Después de un espléndido 2015, da que pensar tener un comienzo tan duro este año. El equipo de la oficina está buscando reducir costes y los comités están ahorrando dinero siempre que es posible. ¡Necesitamos sus donaciones y estas son muy apreciadas!
 
 ## 6. La traducción al chino
 

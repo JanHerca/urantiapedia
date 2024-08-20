@@ -51,7 +51,7 @@ Il ne semble guère juste ou raisonnable que Dieu refuse l’accès à lui-même
 
 Il s'ensuit sûrement aussi qu'une telle Personne divine, qui a déployé tant d'efforts pour connaître et être connue de ses créatures, pourrait choisir d'autres moyens pour ajouter à notre connaissance – une connaissance rendue de plus en plus essentielle pour notre compréhension du plan divin par le les temps nouveaux dans lesquels nous vivons.
 
-C'est pourquoi_Le Livre d'Urantia_ a tant de sens pour tant de personnes qui ont pris le temps de l'explorer. Non seulement elle est conforme aux meilleures idées des grandes religions du monde, mais elle est en harmonie suprême avec la vérité de l'Incarnation, qu'elle affirme même comme étant centrale.
+C'est pourquoi _Le Livre d'Urantia_ a tant de sens pour tant de personnes qui ont pris le temps de l'explorer. Non seulement elle est conforme aux meilleures idées des grandes religions du monde, mais elle est en harmonie suprême avec la vérité de l'Incarnation, qu'elle affirme même comme étant centrale.
 
 Sa riche cosmologie et la coordination des connaissances des principales disciplines, ainsi qu'une description grandement améliorée de la vie et des enseignements de Jésus, offrent une source de compréhension et d'inspiration pour cette nouvelle ère, et même pour les siècles à venir - ou du moins jusqu'à ce que la sagesse divine compte. le monde est prêt pour un nouvel essor d'une manière appropriée à cette époque et à cet âge.
 

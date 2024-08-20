@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-4-dec-2015">
+        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-4-décembre-2015">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 4, Déc. 2015 — Table des matières</span>
         </a>
         </td>
@@ -110,7 +110,7 @@ Ce qui suit sont des extraits et des sentiments exprimés par les participantes 
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-4-dec-2015">
+        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-4-décembre-2015">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 4, Déc. 2015 — Table des matières</span>
         </a>
         </td>

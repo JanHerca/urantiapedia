@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-3-sept-2021">
+        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-3-septembre-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 3, Sept. 2021 — Table des matières</span>
         </a>
         </td>
@@ -66,7 +66,7 @@ Le symposium sera tenu à la Fondation Urantia à Chicago, Illinois, États-Unis
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-3-sept-2021">
+        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-3-septembre-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 3, Sept. 2021 — Table des matières</span>
         </a>
         </td>

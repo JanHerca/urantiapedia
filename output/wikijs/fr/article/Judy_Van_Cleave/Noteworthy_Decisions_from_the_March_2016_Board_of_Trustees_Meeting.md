@@ -71,7 +71,7 @@ Le comité d’administration a nommé Claire Mylanus comme trustee associé ém
 
 ## Rénovation du sous-sol
 
-Le conseil d’administration a accepté un don restrictif de $ 20000 pour créer un endroit au sous-sol pour les livres archivés et les documents historiques, une partie sera pour l’étude et une partie pour des évènements éducatifs concernant_Le Livre d’Urantia_.
+Le conseil d’administration a accepté un don restrictif de $ 20000 pour créer un endroit au sous-sol pour les livres archivés et les documents historiques, une partie sera pour l’étude et une partie pour des évènements éducatifs concernant _Le Livre d’Urantia_.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2016_06/005.jpg">

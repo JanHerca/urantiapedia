@@ -79,7 +79,7 @@ Quel plan ambitieux ! Mais l’imagination, les rêves et le libre arbitre nous 
 
 Avant la fin de la conférence, le groupe des femmes lurent l’extrait du Souper du Souvenir, après lequel nous avons chanté des morceaux choisis du Psaume 118. Puis ce fut le départ.
 
-Après une avancée qualitative comme un conférence réussie, du travail quantitatif a besoin d’être fait. L’avancée qualitative pourrait apporter plus de membres, mais seulement si nous développons des membres de qualité par plus de travail quantitatif comme l’éducation dans_Le Livre d’Urantia_ et le service, alors seulement nous pourrons avoir une avancée qualitative. Étude et ministère doivent aller de paire, bien que quelque fois l’étude sera la force principale et d’autres fois le ministère sera le principal objectif.
+Après une avancée qualitative comme un conférence réussie, du travail quantitatif a besoin d’être fait. L’avancée qualitative pourrait apporter plus de membres, mais seulement si nous développons des membres de qualité par plus de travail quantitatif comme l’éducation dans _Le Livre d’Urantia_ et le service, alors seulement nous pourrons avoir une avancée qualitative. Étude et ministère doivent aller de paire, bien que quelque fois l’étude sera la force principale et d’autres fois le ministère sera le principal objectif.
 
 Nous remercions chaque personne du mouvement Urantia pour votre soutien. Par l’unité, nous pouvons envisager que les graines que nous plantons maintenant, croîtront pour produire un autre bond en avant dans le futur.
 

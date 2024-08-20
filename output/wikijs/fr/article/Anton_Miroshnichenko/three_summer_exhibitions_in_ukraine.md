@@ -40,7 +40,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <figcaption><em>Anton Miroshnichenko</em></figcaption>
 </figure>
 
-Des lecteurs ont présenté le_Livre d'Urantia_, l’été dernier, à trois événements qui ont eu lieu en Ukraine.
+Des lecteurs ont présenté le _Livre d'Urantia_, l’été dernier, à trois événements qui ont eu lieu en Ukraine.
 
 ## Le festival du « Pays des Rêves »
 
@@ -54,7 +54,7 @@ Ce festival s'est tenu à Kiev au Musée National « Pyrogovo » les 20 et 21 ju
 
 ## Le Salon du Livre la « Vague Verte » à Odessa
 
-L'évènement a eu lieu du 6 au 9 août et le présentoir du _Livre d'Urantia_ a été organisé par les membres de l’Association Urantia d'Ukraine. Alexander et Nicholas ont présenté le_Livre d'Urantia_ aux visiteurs.
+L'évènement a eu lieu du 6 au 9 août et le présentoir du _Livre d'Urantia_ a été organisé par les membres de l’Association Urantia d'Ukraine. Alexander et Nicholas ont présenté le _Livre d'Urantia_ aux visiteurs.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/Ukraine-Expo2-225x400.jpg">
@@ -65,7 +65,7 @@ Les lecteurs du _Livre d'Urantia_ ont participé à ce salon pour la seconde foi
 
 La question la plus fréquemment demandée à ce salon a été « Qu'estce que _Le Livre d'Urantia_? » Règle générale, les gens intéressés par le livre ont été surpris par le nombre de thèmes et par le contenu du livre.
 
-On peut trouver les réflexions relatives à notre expérience à ce salon, au Forum sur le_Livre d'Urantia_ en langage russe : [http://forum.urantia.ru/forum\_posts.asp?TID=1681&PID=32670#32670](http://forum.urantia.ru/forum_posts.asp?TID=1681&PID=32670#32670)
+On peut trouver les réflexions relatives à notre expérience à ce salon, au Forum sur le _Livre d'Urantia_ en langage russe : [http://forum.urantia.ru/forum\_posts.asp?TID=1681&PID=32670#32670](http://forum.urantia.ru/forum_posts.asp?TID=1681&PID=32670#32670)
 <br style="clear:both;"/>
 
 ## Le Forum des Éditeurs à Lviv

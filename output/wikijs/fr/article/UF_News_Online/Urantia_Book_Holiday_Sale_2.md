@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-4-dec-2014">
+        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-4-décembre-2014">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 4, Déc. 2014 — Table des matières</span>
         </a>
         </td>
@@ -51,7 +51,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-4-dec-2014">
+        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-4-décembre-2014">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 4, Déc. 2014 — Table des matières</span>
         </a>
         </td>

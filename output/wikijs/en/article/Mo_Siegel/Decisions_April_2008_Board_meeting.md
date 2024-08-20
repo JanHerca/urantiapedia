@@ -55,6 +55,7 @@ Approximately 700 openminded, educated, age appropriate, spiritually searching b
 Since two covers tested so well, we decided to use both covers, the most popular for the soft cover and the slightly upscale cover on the hardbound book. Both books, designed specifically for the North American market will be available in June 2008. For those who prefer the current cover, they are still available for purchase.
 
 The Board resolved to use the new book covers on all future printings of translations, unless representatives from a particular country prefer a different cover.
+<br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2008_06/014.jpg">

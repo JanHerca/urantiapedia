@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-11-numéro-4-dec-2017">
+        <a href="/fr/index/articles_uf_news_online#volume-11-numéro-4-décembre-2017">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 4, Déc. 2017 — Table des matières</span>
         </a>
         </td>
@@ -168,7 +168,7 @@ Dans l’une des cartes du lien ci-dessus, vous verrez l’intérêt de la Gén�
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-11-numéro-4-dec-2017">
+        <a href="/fr/index/articles_uf_news_online#volume-11-numéro-4-décembre-2017">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 4, Déc. 2017 — Table des matières</span>
         </a>
         </td>

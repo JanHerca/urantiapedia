@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Tamara Strumfeld, Fondation Urantia, Illinois, États-Unis_
 
-Les trustees et le personnel de la Fondation Urantia réfléchissent toujours à des approches nouvelles et ingénieuses, pour faire avancer la mission de semer_Le Livre d’Urantia_ et ses enseignements, mondialement. Une grande part est impliquée dans la distribution du livre.
+Les trustees et le personnel de la Fondation Urantia réfléchissent toujours à des approches nouvelles et ingénieuses, pour faire avancer la mission de semer _Le Livre d’Urantia_ et ses enseignements, mondialement. Une grande part est impliquée dans la distribution du livre.
 
 Les défis de la distribution du livre ont été croissants pendant de nombreuses années. Le marché du livre a changé. La concurrence pour la place sur les étagères des libraires est toujours en hausse. Les livres de fond (tous ceux publiés avant l’année en cours) doivent céder leur place pour les nouveaux titres. Imaginez la difficulté de garder sur les étagères un livre de fond de 1955.
 

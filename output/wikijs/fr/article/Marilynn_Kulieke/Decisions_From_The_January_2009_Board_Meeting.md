@@ -95,6 +95,7 @@ Le Conseil d’administration parla des ventes actuelles de livres et des condit
 </figure>
 
 Georges Michelson-Dupont a présenté le rapport trimestriel numéro 41 des traductions. En dépit d’une profonde récession économique, 2009 pourrait devenir l’année la plus prolifique pour la publication de nouvelles traductions dans l’histoire du _Livre d’Urantia_. La Fondation est presque prête à publier les traductions arabe, estonienne, hongroise, polonaise et suédoise, ainsi que l’édition européenne de la traduction espagnole. D’autres traductions sont en progrès ou si elles ont déjà été publiées, sont en train d’être révisées ou bien mises à jour.
+<br style="clear:both;"/>
 
 ## 7. Le Comité de governance
 

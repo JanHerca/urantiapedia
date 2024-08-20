@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-3-sept-2015">
+        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-3-septembre-2015">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 3, Sept. 2015 — Table des matières</span>
         </a>
         </td>
@@ -100,7 +100,7 @@ L’édition en cuir souple British Tan du Livre d’Urantia, dans sa boite
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-3-sept-2015">
+        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-3-septembre-2015">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 3, Sept. 2015 — Table des matières</span>
         </a>
         </td>
