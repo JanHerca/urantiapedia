@@ -24,7 +24,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/article/Paul_and_Gosia_Jaworski/Księga_Urantii_The_Polish_Translation_Has_Reached_the_Readers">
+        <a href="/fr/article/Paul_and_Gosia_Jaworski/Ksiega_Urantii_The_Polish_Translation_Has_Reached_the_Readers">
           <span class="pr-2">Księga Urantii – La Traduction Polonaise Est Parvenue Aux Lecteurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -93,7 +93,7 @@ Ma carrière fut celle d’un ingénieur. J’ai écrit quatre romans dont trois
         </a>
         </td>
         <td>
-        <a href="/fr/article/Paul_and_Gosia_Jaworski/Księga_Urantii_The_Polish_Translation_Has_Reached_the_Readers">
+        <a href="/fr/article/Paul_and_Gosia_Jaworski/Ksiega_Urantii_The_Polish_Translation_Has_Reached_the_Readers">
           <span class="pr-2">Księga Urantii – La Traduction Polonaise Est Parvenue Aux Lecteurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

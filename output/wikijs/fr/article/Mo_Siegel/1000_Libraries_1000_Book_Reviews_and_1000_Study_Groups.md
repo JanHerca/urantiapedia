@@ -40,7 +40,7 @@ S'il vous plait, nous avons besoin de votre aide !
 
 Les bonnes choses peuvent arriver par trois. En ce moment, il y a trois projets qui sèment la révélation Urantia à travers le monde et pour les réaliser, nous avons besoin de votre aide. Les objectifs sont simples, placer _Le Livre d'Urantia_ dans 1000 librairies "parallèles", rédiger 1000 commentaires convaincants sur _Le Livre d'Urantia_ pour les vendeurs de livres sur internet et promouvoir la formation de 1000 groupes d'étude actifs.
 
-## Premier objectif : Placer** _**Le Livre d'Urantia**_ **dans 1000 bibliothèques parallèles
+## Premier objectif : Placer Le Livre d'Urantia dans 1000 bibliothèques parallèles
 
 Depuis des années, les lecteurs ont placé _Le Livre d 'Urantia_ dans les bibliothèques. Une autre opportunité de placement - la bibliothèque parallèle - reste inexploitée. Les bibliothèques parallèles sont celles, informelles, des hôtels, des bateaux de croisière, des chambres d'hôte, des auberges de jeunesse, des restaurants, des points d'arrêt pour les poids lourds, des salles d'attente des hôpitaux, des maisons de retraite, des églises, des résidences universitaires pour étudiants et pour femmes et plus encore. Donc la prochaine fois, que vous séjournez ou passez par un établissement ayant une bibliothèque, vous pourriez placer un exemplaire du _Livre d'Urantia_ sur une étagère de sa bibliothèque.
 

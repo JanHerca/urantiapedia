@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-6-numéro-4-nov-2012">
+        <a href="/fr/index/articles_uf_news_online#volume-6-numéro-4-novembre-2012">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, numéro 4, Nov. 2012 — Table des matières</span>
         </a>
         </td>
@@ -68,7 +68,7 @@ La Fondation Urantia et la Fellowship du Livre d’Urantia prennent part actuell
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-6-numéro-4-nov-2012">
+        <a href="/fr/index/articles_uf_news_online#volume-6-numéro-4-novembre-2012">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, numéro 4, Nov. 2012 — Table des matières</span>
         </a>
         </td>

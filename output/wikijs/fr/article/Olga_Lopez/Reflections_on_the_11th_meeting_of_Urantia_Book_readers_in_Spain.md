@@ -74,7 +74,7 @@ Siempre adelante !
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2012_06/013.jpg">
-<figcaption><em>Nouveaux et anciens membres du conseil d’administration national espagnol<br>Rangée du haut : Mariano Pérez ( groupes d'étude ), Ismael Gracia ( secrétaire ), Andrés Pérez ( ancien trésorier ) et Olga López ( ancienne présidente ).<br>Rangée du bas : Jaime Marco ( vice-président ), Carmelo Martínez ( président ) et Eduardo Altuzarra ( ancien vice-président, maintenant trésorier ).<br>Santiago Rodríguez, ancien secrétaire, était absent par obligation professionnelle.</em></figcaption>
+<figcaption><em>Nouveaux et anciens membres du conseil d’administration national espagnol<br>Rangée du haut : Mariano Pérez ( groupes d'étude ), Ismael Gracia ( secrétaire ), Andrés Pérez ( ancien trésorier ) et Olga López ( ancienne présidente ).<br>Rangée du bas : Jaime Marco ( vice-président ), Carmelo Martínez ( président ) et Eduardo Altuzarra ( ancien vice-président, maintenant trésorier ). Santiago Rodríguez, ancien secrétaire, était absent par obligation professionnelle.</em></figcaption>
 </figure>
 
 
