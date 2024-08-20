@@ -41,6 +41,7 @@ dateCreated: 2023-8-29T10:55:6Z
 _De Line St-Pierre, fideicomisaria asociada emérita (Québec, Canadá) y Jodi Niggemann (Dakota del Sur, Estados Unidos)_
 
 _Nota de la redacción: el quinto retiro anual de mujeres, que se celebró del 13 al 16 de septiembre en el 533 W. Diversey Parkway de Chicago, se tituló «Bailar con Dios, vivir Su amor con valentía». Además de las cuatro facilitadoras hubo 10 participantes de lugares tan lejanos como Sudáfrica. Las facilitadoras expresaron la misión de los retiros como «Realzar el estatus de mujer dedicada al crecimiento espiritual, el avance intelectual y el progreso moral», y la visión como «tocar el corazón de las mujeres explorando la dignidad de ser Hijas de Dios, honrar su valor e importancia y cooperar con el espíritu divino para llevar a cabo la hermosa cosecha de los frutos del espíritu»._
+<br style="clear:both;"/>
 
 ## Informe de Line St-Pierre
 
@@ -64,11 +65,11 @@ Al grupo de las Hijas de Dios les encantaría compartir este modelo con otros gr
 
 Contacten con Line St-Pierre para obtener más información en [line.stpierre@gmail.com](mailto:line.stpierre@gmail.com).
 
-<figure id="Figure_2" class="image urantiapedia">
+## Reflexiones de Jodi Niggemann sobre su experiencia
+
+<figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2018_12/032.jpg">
 </figure>
-
-## Reflexiones de Jodi Niggemann sobre su experiencia
 
 Dejé el retiro de mujeres con una mezcla de agotamiento y espíritu renovado. Mi alma estaba llena y dolorida pues la había estirado, maniobrado y reformado. Había tomado las historias de otras mujeres, cuyas heridas, dolores, problemas y preocupaciones reflejaban los míos. Las comprendí, lloré por ellas con mis lágrimas y oré con ellas para que vinieran tiempos mejores. Había tomado sus sonrisas y su risa, sus historias de amor y de la familia, y oré con ellas para que hubiera más días como esos. Había tomado una experiencia única de compartir, escuchar, crecer y desarrollarse, y una conciencia invisible que perdurará en mi ser consciente e inconsciente durante muchos días.
 
@@ -79,6 +80,7 @@ Estaba en el avión de vuelta a mi casa en Dakota del Sur y me encontré sentada
 Decir que mi amor por ese hombre fue casi instantáneo no queda lejos de la realidad. En el momento en que lo miré a los ojos, en que lo miré de verdad, supe que yo estaba hablando de mi luz directamente a la suya, y su luz respondía a la mía. Cuando el avión aterrizó me decepcionó dejarlo y decirle adiós. Sabía que nuestra amistad instantánea no había terminado, sino que era el comienzo de algo más grande. Lo vi brevemente al día siguiente y almorzamos juntos un día después. Mi corazón ha crecido tres tallas desde que conocí a ese hermoso hombre. Juntos nos hemos inspirado a avanzar por lugares donde nos sentíamos atascados: para él, escribir su tercer libro; para mí, ayudar a apoyar a un querido joven sin padres en sus esfuerzos por entrar en la universidad.
 
 No sé cómo Dios pretenderá tejer nuestras vidas en el futuro, pero por ahora estoy contenta y acabo de bailar con Dios y vivir con valentía su amor, por lo que estoy muy agradecida. Doy gracias de corazón a las mujeres del retiro, a Dios, a mi Ajustador del Pensamiento y a todos los espíritus que nos impulsan a hacer lo correcto sin duda y sin interponerse en nuestro camino. Soy un faro que brilla intensamente en la oscuridad para iluminar el camino de los demás y llevarlos a casa. Que todos encontremos esa luz en nuestro interior, pues cuando todos en este mundo brillen de esta forma veremos revelado al fin el verdadero brillo de Dios.
+<br style="clear:both;"/>
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2018_12/035.jpg">

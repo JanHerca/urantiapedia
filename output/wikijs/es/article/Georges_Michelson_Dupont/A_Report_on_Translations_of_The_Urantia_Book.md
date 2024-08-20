@@ -90,7 +90,7 @@ El primer paso con Déjà Vu fue crear unas listas exhaustivas de términos ingl
 
 8. **Otros nombres y lugares históricos.** Hay 89 términos en _El libro de Urantia_. Ejemplo: Agni – el dios del fuego de tres cabezas del Rig-Veda.
 
-  Además, se incluye el significado (si es posible), el nombre griego (si es necesario), referencias de la Biblia y de _El libro de Urantia_ y referencias a otras fuentes: [https://en.wikipedia.org/wiki/Agni](https://en.wikipedia.org/wiki/Agni).
+  Además, se incluye el significado (si es posible), el nombre griego (si es necesario), referencias de la Biblia y de _El libro de Urantia_ y referencias a otras fuentes: [en.wikipedia.org/wiki/Agni](https://en.wikipedia.org/wiki/Agni).
 
 Estas listas de términos son necesarias para los traductores y excelentes herramientas de estudio para los expertos y estudiantes de _El libro de Urantia_. Estas listas hacen un total de 1.351 términos. Cuando la traducción de estas listas esté completa y cargada en Déjà Vu, los traductores y revisores ya no tendrán que preocuparse por estos términos porque «aparecerán» automáticamente cuando el traductor esté trabajando en el sistema informático. Esto asegura un uso coherente de los términos a lo largo de todo el texto.
 

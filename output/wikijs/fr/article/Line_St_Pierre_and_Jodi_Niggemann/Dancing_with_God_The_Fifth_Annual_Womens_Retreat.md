@@ -41,6 +41,7 @@ dateCreated: 2023-8-29T10:55:6Z
 _Par Line St-Pierre, trustee associé émérite, Québec, Canada et Jodi Niggemann, Dakota du Sud, États-Unis_
 
 _Note de l’éditeur : la cinquième retraite annuelle des femmes, qui se tint du 13 au 16 septembre, à 533, W. Diversey Parkway à Chicago, était intitulée « Danser avec Dieu- Vivre Courageusement Son Amour. » En plus des quatre animatrices, il y eut 10 participantes de partout et même d’Afrique du Sud. Les animatrices formulent la mission des retraites comme étant « de valoriser le statut d’être une femme dédiée à sa croissance spirituelle, son avancement intellectuel et son progrès moral, »et leur vision comme « Toucher le cœur des femmes en explorant la dignité d’être les Filles de Dieu en honorant leur valeur, leur importance et en coopérant avec l’esprit divin intérieur pour afin de produire la magnifique moisson des fruits de l’esprit. »_
+<br style="clear:both;"/>
 
 ## Rapport de Line St Pierre
 
@@ -64,11 +65,11 @@ Le groupe des Filles de Dieu aimerait partager son modèle avec d’autres group
 
 Contactez, s’il vous plaît, Line St Pierre pour plus d’informations à [line.stpierre@gmail.com](mailto:line.stpierre@gmail.com)
 
-<figure id="Figure_2" class="image urantiapedia">
+## Réflexions de Jodi Niggermann sur son expérience
+
+<figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2018_12/032.jpg">
 </figure>
-
-## Réflexions de Jodi Niggermann sur son expérience
 
 J’ai quitté la retraite des femmes avec un mélange d’épuisement et de renouvellement d’esprit. Mon âme était remplie et endolorie, ayant été étirée, manœuvrée et reformée. J’ai pris dans les récits des autres femmes, les blessures, les douleurs, les problèmes et les préoccupations qui résonnaient avec les miens. Je les ai comprises, je les ai pleurées de mes propres pleurs, et j’ai prié pour elles, pour de meilleurs jours. J’ai puisé dans leurs sourires, leurs rires, leurs histoires d’amour et de famille et j’ai prié avec elles pour plus de jours comme celui-ci, à l’avenir. J’ai puisé dans une expérience unique de partage, d’écoute, de croissance, de déploiement et de conscience invisible qui persistera dans mon moi conscient et inconscient, pour de nombreux jours à venir.
 
@@ -79,6 +80,7 @@ Ce fut dans l’avion allant au Dakota du Sud où je me trouvais assise à côt�
 Dire que mon amour pour cet homme fut presque instantané, n’est pas exagéré. Lorsque j’ai regardé dans ses yeux, réellement regardé, je sus que je parlais depuis ma lumière directement dans la sienne et sa lumière répondait dans la mienne. Lorsque l’avion atterrit, je fus déçue de le quitter et lui dis au revoir. Je savais que notre moment d’amitié n’était pas terminé, mais seulement le commencement de quelque chose de plus grand. Je le revis rapidement le lendemain et nous avons déjeuné ensemble le surlendemain. Mon cœur est devenu trois fois plus gros, depuis cette rencontre avec cet homme merveilleux. Nous nous sommes inspirés pour avancer où nous étions peut-être coincés ; pour lui, écrire son troisième livre ; pour moi, aider un très cher jeune homme sans parents, dans ses efforts pour rentrer au collège.
 
 Je ne sais pas, comment Dieu veut tisser nos vies ensemble, dans le futur, mais pour le moment, je suis heureuse, tout comme je viens juste d’avoir **une** **extraordinaire** **danse** **avec** **Dieu** **où** **j’ai** **vécu** **courageusement** **son** **amour** et j’en suis très reconnaissante. Je remercie vraiment les femmes de la retraite, Dieu, mon Ajusteur de Pensée, et tous les esprits qui nous poussent à faire ce qui est bien, sans hésitation et sans nous gêner. Je suis un phare, brillant de tout feu dans l’obscurité pour éclairer le chemin, vers la maison, aux autres. Puissions- nous tous trouver la lumière en nous-mêmes, car si chacun brille de cette manière dans le monde, nous verrons finalement la vraie brillance de Dieu révélée.
+<br style="clear:both;"/>
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2018_12/035.jpg">

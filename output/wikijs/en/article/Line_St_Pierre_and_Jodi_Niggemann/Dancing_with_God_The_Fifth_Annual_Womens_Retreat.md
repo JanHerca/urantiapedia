@@ -41,6 +41,7 @@ dateCreated: 2023-8-29T10:55:6Z
 _By Line St-Pierre, associate trustee emeritus, Québec, Canada, and Jodi Niggemann, South Dakota, United States_
 
 _Editor's Note: The fifth annual women's retreat, held September 13-16, at 533 W. Diversey Parkway in Chicago, was titled “Dancing with God—Courageously Living His Love.” In addition to the four facilitators, there were 10 participants from as far away as South Africa. The facilitators express the mission of the retreats as “To enhance the status of being a woman dedicated to spiritual growth, intellectual advancement, and moral progress,” and the vision as “To touch women's hearts by exploring the dignity of being Daughters of God by honoring their value and importance, and by cooperating with the divine spirit within to bring forth the beautiful harvest of the fruits of the spirit.”_
+<br style="clear:both;"/>
 
 ## Report from Line St-Pierre
 
@@ -64,11 +65,11 @@ The Daughters of God group would love to share this model with other groups to h
 
 Please contact Line St-Pierre for more information at line.stpierre@gmail.com.
 
-<figure id="Figure_2" class="image urantiapedia">
+## Reflections by Jodi Niggemann on her experience
+
+<figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2018_12/032.jpg">
 </figure>
-
-## Reflections by Jodi Niggemann on her experience
 
 I left the women's retreat with a mixture of exhaustion and renewal of spirit. My soul was full and sore, having been stretched, maneuvered, and reformed. I had taken in the stories of other women whose wounds, pains, problems, and concerns echoed my own. I understood them, I cried my own tears for them, and I prayed with them for better days. I had taken in their smiles and their laughter, their stories of love and family, and I prayed with them for more days of this ahead. I had taken in a unique experience of sharing, listening, growing, unfolding, and unseen awareness that will linger in my conscious and unconscious self for many days to come.
 
@@ -79,6 +80,7 @@ It was on the plane heading home to South Dakota that I found myself sitting nex
 To say my love for this man was almost instant is not a far stretch. The moment I looked into his eyes, really looked, I knew I was speaking from my light directly into his, and his light was speaking back into mine. When the plane landed, I felt disappointed to leave him and say goodbye. I knew our instant friendship wasn't over, but just a beginning to something greater. I saw him briefly again the next day, and we had lunch together the day after that. My heart has grown three sizes from meeting this beautiful man. Together we've inspired each other to move forward in places where we perhaps felt stuck: for him—writing his third book; for me—helping support a dear young man without parents in his efforts to get into college.
 
 I don't know how God intends to weave our lives together in the future, but for now I am content, as I just had a most remarkable **dance with God where I courageously lived his love**, and for that I am most grateful. I truly thank the women of the retreat, God, my Thought Adjuster, and all the spirits that move us to do what's right, without hesitation and without getting in our own way. I am a lighthouse, shining bright into the darkness to light the way for others to see home. May we all find this light within ourselves, for when everyone in the world comes to shine this way, we will finally see the true brilliance of God revealed.
+<br style="clear:both;"/>
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2018_12/035.jpg">

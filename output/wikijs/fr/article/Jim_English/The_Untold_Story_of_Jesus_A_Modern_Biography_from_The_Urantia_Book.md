@@ -94,7 +94,11 @@ Nous avons reçu des versions préliminaires et entendu des avis favorables de p
 
 Les pages de ce livre sont truffées de passages déclarant le monde prêt pour un renouveau de la vraie religion de Jésus. Quoique la dissémination de la révélation en elle-même soit permanente et mesurée, nous pouvons crier Jésus sur tous les toits.
 
-https://youtu.be/PeOLg8YSdC4
+<a href="https://bit.ly/4cvclEB">
+<figure id="Figure_4" class="image urantiapedia">
+<img src="/image/article/UF_News_Online/2019_04/047.jpg">
+</figure>
+</a>
 
 ## Références
 

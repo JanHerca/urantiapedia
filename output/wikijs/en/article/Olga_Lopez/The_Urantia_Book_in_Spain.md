@@ -45,7 +45,7 @@ The Urantia movement is growing slowly and steadily in Spain. The book is easy t
 _El Libro de Urantia_ is selling well in spite of the financial crisis in Spain. Why? These are the answers that come to my mind:
 
 - In times of uncertainty, more and more people are looking for meaning in their lives, and they find _The Urantia Book_ as a result of this search.
-- The “J.J. Benitez effect”: Many people have found _The Urantia Book_ after reading Benitez's novels. Benitez has and they are more or less related to _The Urantia Book_-more specifically_to the life and teachings of Jesus as it is told in _The Urantia Book_.
+- The “J.J. Benitez effect”: Many people have found _The Urantia Book_ after reading Benitez's novels. Benitez has and they are more or less related to _The Urantia Book_—more specifically to the life and teachings of Jesus as it is told in _The Urantia Book_.
 - Dissemination efforts are bearing fruits. The Urantia Association of Spain has been working diligently since 2004 to make known the teachings of _The Urantia Book_.
 - The Catholic Church made the Spanish people spiritually thirsty but insufficiently quenched their thirst.
 

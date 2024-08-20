@@ -34,7 +34,7 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-9left">
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2018_10/002.jpg">
 </figure>
 

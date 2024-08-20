@@ -82,11 +82,6 @@ Production: Truthbook.com
 
 This is a Urantian &reg; publication.
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="/image/article/UF_News_Online/2012_06/003.jpg">
-</figure>
-
-
 
 
 ## References

@@ -94,7 +94,7 @@ Il y a 57 termes qui peuvent poser des difficultés pour les traducteurs. Exempl
 
 8. **Autres noms et endroits historiques.** Il y a 89 termes trouvés dans _Le Livre d’Urantia._ Exemple : Agni, le dieu du feu à trois têtes du Rig-Veda.
 
-En plus, la signification (quand possible), le nom grec (si nécessaire), les références de la Bible et du _Livre d’Urantia,_ et une référence à une autre source sont inclus : [https://en.wikipedia.org/wiki/Agni](https://en.wikipedia.org/wiki/Agni).
+En plus, la signification (quand possible), le nom grec (si nécessaire), les références de la Bible et du _Livre d’Urantia,_ et une référence à une autre source sont inclus : [en.wikipedia.org/wiki/Agni](https://en.wikipedia.org/wiki/Agni).
 
 Ces listes de termes sont nécessaires pour les traducteurs et sont des outils d’étude excellents pour les lettrés et les étudiants du _Livre d’Urantia_. Ces listes totalisent 1351 termes. Lorsque la traduction de ces listes sera finie et téléchargée sur Déjà Vu, les traducteurs et les réviseurs ne se s’occuperont plus de ces termes car ils « apparaissent  » automatiquement quand le traducteur travaille dans le système du logiciel. Cela assure un usage cohérent des termes à travers tout le texte.
 

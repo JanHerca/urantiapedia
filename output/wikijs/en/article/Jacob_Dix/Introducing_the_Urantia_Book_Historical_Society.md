@@ -40,8 +40,8 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _By Jacob D, President, Urantia Book Historical Society, Stockholm, Sweden_
 
-_Editors Note: Many Urantia Book readers have donated their time and talents to a project that they strongly believe in. One such group of readers formed the Urantia Book Historical Society. This article highlights the importance of preserving historical records.
-_
+_Editors Note: Many Urantia Book readers have donated their time and talents to a project that they strongly believe in. One such group of readers formed the Urantia Book Historical Society. This article highlights the importance of preserving historical records._
+
 The mission of the Urantia Book Historical Society (UBHS) is to collect, document, and preserve the legacy of _The Urantia Book_ and its history.
 
 In July 2006, 51 years after the publication of _The Urantia Book_, UBHS was officially established. Over the years the number of records in possession of readers had grown to such a size that UBHS turned to the University of California at Santa Barbara for help. They agreed to house all that the Society had collected as part of their “American Religions Collection.” That same year, www.ubhistory.org was launched and made available to the public.

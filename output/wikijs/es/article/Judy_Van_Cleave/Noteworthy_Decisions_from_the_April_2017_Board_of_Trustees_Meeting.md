@@ -89,9 +89,9 @@ Se están desarrollando planes para el lanzamiento de una recaudación de fondos
 
 Los auditores independientes de la Fundación Urantia presentaron los resultados de su auditoría de 2016 al Comité de Finanzas y a la junta. La junta aprobó la auditoría. Para leer el documento 990 de la Fundación Urantia, haga clic en este enlace: http://www.urantia.org/urantia-foundation/form-990.
 
-## 9. Line St-Pierre elegida fideicomisaria asociada emérita con Line St-Pierre's
+## 9. Line St-Pierre elegida fideicomisaria asociada emérita
 
-El mandato de fideicomisaria asociada expira ahora, la junta de fideicomisarios la nombró fideicomisaria asociada emérita y la invitó a continuar dirigiendo seminarios para mujeres en la Fundación Urantia. Gracias, Line, por tus cinco años de servicio en la junta directiva de la Fundación.
+Al expirar ahora el mandato de Line St-Pierre como fideicomisaria asociada, la junta de fideicomisarios la nombró fideicomisaria asociada emérita y la invitó a continuar dirigiendo seminarios para mujeres en la Fundación Urantia. Gracias, Line, por tus cinco años de servicio en la junta directiva de la Fundación.
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2017_06/015.jpg">

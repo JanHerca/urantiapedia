@@ -95,7 +95,11 @@ We have received advance copies and heard positive reviews from spiritually seek
 
 The pages in this book are rife with passages declaring the world ripe for a revival of the true religion of Jesus. Though the dissemination of the revelation itself has been staid and measured, we can shout Jesus from the rooftops.
 
-https://youtu.be/PeOLg8YSdC4
+<a href="https://bit.ly/4cvclEB">
+<figure id="Figure_4" class="image urantiapedia">
+<img src="/image/article/UF_News_Online/2019_04/047.jpg">
+</figure>
+</a>
 
 ## References
 

@@ -42,9 +42,7 @@ _By Line St-Pierre, associate trustee, Ste-Sophie, Québec, Canada_
 
 As my friend Chichi said, “We need to be attentive.” This is how this opportunity came about. I never thought I would return to Peru to visit the women I met in 2010 when my husband Gaétan Charland and I travelled to South America, promoting the Urantia Association International's Leadership Symposium in 2011.
 
-Last October, while in Chicago for a trustees meeting, I met Sandra Burga-Cisneros Pizarro, who lives in
-
-Switzerland. Like me, she is a new associate trustee and also the daughter of my friend Lourdes who lives in Peru. When Sandra and I first met, immediately we had a connection beyond friendship. During the weekend we shared many ideas. She informed me that she was going to visit her family in South America in April 2013. She invited me to join her. I told her not to tempt me but finally decided to take advantage of her offer to experience deeper fellowship with the people I met in 2010.
+Last October, while in Chicago for a trustees meeting, I met Sandra Burga-Cisneros Pizarro, who lives in Switzerland. Like me, she is a new associate trustee and also the daughter of my friend Lourdes who lives in Peru. When Sandra and I first met, immediately we had a connection beyond friendship. During the weekend we shared many ideas. She informed me that she was going to visit her family in South America in April 2013. She invited me to join her. I told her not to tempt me but finally decided to take advantage of her offer to experience deeper fellowship with the people I met in 2010.
 
 How many of us can declare that the world is a friendly and welcoming place?
 

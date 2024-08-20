@@ -49,7 +49,7 @@ En un esfuerzo por atraer a los no lectores, animé a los entrevistados a descri
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2013_12/021.jpg">
-<figcaption><em>Janelle Mazza talks about _El Libro de Urantia_</em></figcaption>
+<figcaption><em>Janelle Mazza talks about El Libro de Urantia</em></figcaption>
 </figure>
 
 Inicialmente pretendía crear un vídeo breve de unos tres minutos, pero debido a que los testimonios de los lectores eran tan ricos y razonados, habrá más vídeos. Algunos de ellos se centrarán en un lector individual; otros serán temáticos, como por ejemplo lectores que hablan de Jesús, de la presencia interior de Dios y de la vida después de la muerte.
