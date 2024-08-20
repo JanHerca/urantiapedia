@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-2-july-2021">
+        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-2-juillet-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 2, July 2021 — Table des matières</span>
         </a>
         </td>
@@ -73,7 +73,7 @@ De nombreux lecteurs ont dit avoir été profondément touchés par _Le Livre d�
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-2-july-2021">
+        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-2-juillet-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 2, July 2021 — Table des matières</span>
         </a>
         </td>

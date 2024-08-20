@@ -128,7 +128,9 @@ Awana, un artista musulmán, interpretó brevemente una bella canción después 
 
 Yo, el que escribe, Kwadjo SPiRi, artista ghanés y uno de los líderes del movimiento Urantia en Ghana, interpreté mi tema «Light Up the One Love» versionando al legendario Pato Banton y a su pareja Antoinette Rootsdawtah. El videoclip de esta canción se rodó en Ghana el año pasado, cuando Pato y Antoinette vinieron para organizar una conferencia espiritual en la capital. La sala se iluminó con amor y baile mientras se interpretaba la canción. ¡La energía de la sala llegó al máximo una vez más!
 
-Para ver el vídeo de esta canción, visiten [https://www.youtube.com/watch?v=854PyjoL5kw](https://www.youtube.com/watch?v=854PyjoL5kw)
+Para ver el vídeo de esta canción, visiten 
+
+https://www.youtube.com/watch?v=854PyjoL5kw
 
 Después de esta actuación, di una charla sobre «El viaje espiritual», donde compartí experiencias personales de mi camino espiritual, fuertemente apoyada por citas de _El libro de Urantia_ y entregada de manera muy práctica. Después de esta charla, muchos se me acercaron, incluso los participantes musulmanes, para comentarme que ellos habían experimentado cosas similares en su senda religiosa, lo que demuestra que, a pesar de nuestros orígenes religiosos o los libros que nos implican, podemos reunirnos en plataformas espirituales comunes donde experimentamos el común denominador, pues el Dios del universo nos ministra a todos sin distinción.
 

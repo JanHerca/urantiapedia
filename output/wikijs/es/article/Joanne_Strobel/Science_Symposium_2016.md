@@ -59,7 +59,7 @@ Aceptado el desafío, diez personas acordaron presentar documentos basados en te
 
 > **¿Amas la ciencia? ¿Quieres ver el simposio?**
 > 
-> Gaétan Charland se ha ofrecido amablemente a grabar todo el simposio. Todas las presentaciones y debates estarán disponibles para el público en vivo a través de video USTREAM en su computadora, tableta o dispositivo móvil. Las transmisiones también se grabarán para verlas en el futuro. El enlace es http://www.ustream.tv/channel/XhtGPaUe4mh.
+> Gaétan Charland se ha ofrecido amablemente a grabar todo el simposio. Todas las presentaciones y debates estarán disponibles para el público en vivo a través de video USTREAM en su computadora, tableta o dispositivo móvil. Las transmisiones también se grabarán para verlas en el futuro. El enlace es [https://youtu.be/bcIeWUp\_lbI?list=PLHAWeALNK3fCwPl86eMMVWv-JHQFg9FYg](https://youtu.be/bcIeWUp_lbI?list=PLHAWeALNK3fCwPl86eMMVWv-JHQFg9FYg).
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2016_03/022.jpg">

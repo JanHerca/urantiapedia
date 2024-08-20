@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-11-numéro-3-oct-2017">
+        <a href="/fr/index/articles_uf_news_online#volume-11-numéro-3-octobre-2017">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 3, Oct. 2017 — Table des matières</span>
         </a>
         </td>
@@ -92,7 +92,7 @@ Ils ne pouvaient pas prévoir la portée d’un projet si complexe.
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-11-numéro-3-oct-2017">
+        <a href="/fr/index/articles_uf_news_online#volume-11-numéro-3-octobre-2017">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 3, Oct. 2017 — Table des matières</span>
         </a>
         </td>

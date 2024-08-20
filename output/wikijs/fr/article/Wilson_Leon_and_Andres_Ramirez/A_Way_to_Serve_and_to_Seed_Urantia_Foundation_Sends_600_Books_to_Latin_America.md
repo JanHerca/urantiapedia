@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-3-oct-2018">
+        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-3-octobre-2018">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 3, Oct. 2018 — Table des matières</span>
         </a>
         </td>
@@ -85,7 +85,7 @@ Nous sommes très reconnaissants à la Fondation Urantia pour son aide, apporté
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-3-oct-2018">
+        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-3-octobre-2018">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 3, Oct. 2018 — Table des matières</span>
         </a>
         </td>

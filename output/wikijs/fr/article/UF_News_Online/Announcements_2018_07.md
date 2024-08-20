@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-2-july-2018">
+        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-2-juillet-2018">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 2, July 2018 — Table des matières</span>
         </a>
         </td>
@@ -68,7 +68,7 @@ La session estivale se tiendra du 19 au 22 juillet, précédée par une retraite
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-2-july-2018">
+        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-2-juillet-2018">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 2, July 2018 — Table des matières</span>
         </a>
         </td>

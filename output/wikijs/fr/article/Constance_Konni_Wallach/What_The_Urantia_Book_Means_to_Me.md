@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-4-oct-2022">
+        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-4-octobre-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 4, Oct. 2022 — Table des matières</span>
         </a>
         </td>
@@ -85,7 +85,7 @@ Quel cadeau ce livre fut à lire et à agir en conséquence ! Il a agrandi mon �
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-4-oct-2022">
+        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-4-octobre-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 4, Oct. 2022 — Table des matières</span>
         </a>
         </td>

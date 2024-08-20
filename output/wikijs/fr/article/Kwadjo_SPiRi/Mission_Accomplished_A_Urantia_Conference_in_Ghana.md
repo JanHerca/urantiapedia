@@ -128,7 +128,9 @@ Awana, un musicien musulman, joua un joli morceau bref après le discours.
 
 Moi-même, votre correspondant, Kwadjo SPiRi, musicien guinéen et l’un des leaders du mouvement urantien en Guinée, ai joué mon morceau « Lumière Sur l’Unique Amour « avec le légendaire Pato Banton et sa partenaire Antoinette Rootsdawtah. Une video de cette chanson fut tournée en Guinée l’an dernier lorsque Pato et Antoinette sont venus pour organiser une conférence spirituelle dans la capitale. La pièce était illuminée par l’amour et la danse lorsque l’on jouait le morceau. L’énergie dans la salle atteignit encore une fois des sommets !
 
-Pour voir la vidéo de ce morceau, visitez http://m.youtube.com/watch?v=854PyjolL5kw.
+Pour voir la vidéo de ce morceau, visitez
+
+https://m.youtube.com/watch?v=854PyjoL5kw
 
 Après cette performance, je fis un discours sur « Le Voyage Spirituel » ou je partageai les expériences personnelles de mon chemin spirituel, aidées fortement par des citations du _Livre d’Urantia_ et rendues d’une manière pratique. Après ce discours, beaucoup m’approchèrent et même des participants musulmans, qui avaient fait des expériences similaires dans leur chemins religieux, démontrant ainsi que, malgré nos origines ou livres religieux variés, nous pouvons nous rencontrer sur des plates-formes spirituelles communes lorsque nous permettons à l’expérience d’être le dénominateur commun, parce que le Dieu de l’univers ministre à nous tous, sans restriction.
 

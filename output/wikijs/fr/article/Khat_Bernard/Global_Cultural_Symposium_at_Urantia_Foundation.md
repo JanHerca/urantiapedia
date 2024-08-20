@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-2-july-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-2-juillet-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 2, July 2019 — Table des matières</span>
         </a>
         </td>
@@ -103,7 +103,7 @@ Je remercie tous ceux concernés, de m’avoir donné une expérience du Livre d
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-2-july-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-2-juillet-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 2, July 2019 — Table des matières</span>
         </a>
         </td>

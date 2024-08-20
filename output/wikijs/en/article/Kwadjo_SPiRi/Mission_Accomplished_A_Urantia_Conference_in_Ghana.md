@@ -128,7 +128,9 @@ Awana, a Muslim musical artist, briefly performed a nice single after the talk.
 
 I, your correspondent, Kwadjo SPiRi, Ghanaian musical artist and one of the leaders of the Urantia movement in Ghana, performed my track “Light Up the One Love” featuring the legendary Pato Banton and his partner Antoinette Rootsdawtah. A video for this song was shot in Ghana last year when Pato and Antoinette last came around to organize a spiritual conference in the capital. The room was lighted with love and dancing as the song was performed. The energy in the room once again reached a peak!
 
-To see the video for this song, visit https://m.youtube.com/watch?v=854PyjoL5kw. 
+To see the video for this song, visit
+
+https://m.youtube.com/watch?v=854PyjoL5kw
 
 After this performance, I gave a talk on “The Spiritual Journey” where I shared my personal experiences on my spiritual walk, supported heavily with quotes from _The Urantia Book_ and delivered in a very practical manner. After this talk, I was approached by many, even among the participating Muslims, about how they're experiencing similar things on their religious paths—proving that, irrespective of our religious backgrounds or books of engagement, we can meet on common spiritual platforms when we allow experience to be the common denominator, for the God of the universe ministers to us all, irrespective.
 

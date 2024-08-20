@@ -59,7 +59,7 @@ Accepting the challenge, ten individuals agreed to present papers based on subje
 
 > **Do you love science? Would you like to watch the symposium?**
 > 
-> Gaétan Charland has graciously offered to record the entire symposium. All presentations and discussions will be available to the public live via USTREAM video on your computer, tablet, or mobile device. The broadcasts will also be recorded for future viewing. The link is http://www.ustream.tv/channel/XhtGPaUe4mh.
+> Gaétan Charland has graciously offered to record the entire symposium. All presentations and discussions will be available to the public live via USTREAM video on your computer, tablet, or mobile device. The broadcasts will also be recorded for future viewing. The link is [https://youtu.be/bcIeWUp\_lbI?list=PLHAWeALNK3fCwPl86eMMVWv-JHQFg9FYg](https://youtu.be/bcIeWUp_lbI?list=PLHAWeALNK3fCwPl86eMMVWv-JHQFg9FYg).
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2016_03/022.jpg">
