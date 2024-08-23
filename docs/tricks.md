@@ -313,6 +313,19 @@ with this:
 </figure>
 ```
 
+Replace this:
+
+`!\[\]\((.+)\)`
+
+with this:
+
+```html
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Reflectivite/2023_12/001.jpg">
+<figcaption>xxxxx</figcaption>
+</figure>
+```
+
 ## Emojis
 
 - The Urantia Book :blue_book: (`:blue_book:`)
@@ -394,6 +407,7 @@ Fraternité|Fellowship
 Communauté|Fellowship
 « clear:les deux; »|"clear:both;"
 ( *)(Le )*Livre d['|’]Urantia([ |\.|,|;|:|\?|!])|$1_$2Livre d'Urantia_$3
+`^\[LU (\d{1,3}):(\d{1,2})\.(\d{1,3})\]\(/fr/The_Urantia_Book/(\d{1,3})#p(\d{1,2})_(\d{1,3})\) \(\d{1,4}\.\d{1,2}\) *(.+)`|`> $7 [LU $1:$2.$3](/fr/The_Urantia_Book/$4#p$5_$6)`
 
 **ES**
 
