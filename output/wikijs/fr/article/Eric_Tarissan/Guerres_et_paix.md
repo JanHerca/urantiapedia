@@ -3,7 +3,7 @@ title: "Guerres et paix !"
 description: "Opinion"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: Reflectivite, article
+tags: Peace, Reflectivite, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---

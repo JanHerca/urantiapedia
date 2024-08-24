@@ -3,7 +3,7 @@ title: "Les esprits-mentaux adjuvats chez les animaux"
 description: "Éthologie"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: Biology, Reflectivite, article
+tags: Adjutant mind spirits, Biology, Reflectivite, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---

@@ -3,7 +3,7 @@ title: "Explication du discours de Jésus à la synagogue de Capharnaüm"
 description: "Thématique"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: Reflectivite, article
+tags: Jesus, Jesus teachings, Jesus places, Reflectivite, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
