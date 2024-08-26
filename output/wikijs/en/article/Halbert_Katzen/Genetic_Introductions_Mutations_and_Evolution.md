@@ -213,7 +213,7 @@ With noteworthy results, the rebellion undid plans governing restrictions on the
 > 
 > These mutant traits appearing in the first Nodite generation resulted from certain changes which had been wrought in the configuration and in the chemical constituents of the inheritance factors of the Andonic germ plasm. These changes … caused the chromosomes of the specialized Urantia pattern to reorganize … The technique of this germ plasm metamorphosis by the action of the system life currents is not unlike those procedures whereby Urantia scientists modify the germ plasm of plants and animals by the use of X rays.
 > 
-> Thus did the Nodite peoples arise out of certain peculiar and unexpected modifications occurring in the life plasm which had been transferred from the bodies of the Andonite contributors to those of the corporeal staff … ([UB 77:2.4-6](/en/The_Urantia_Book/77#p2_6))
+> Thus did the Nodite peoples arise out of certain peculiar and unexpected modifications occurring in the life plasm which had been transferred from the bodies of the Andonite contributors to those of the corporeal staff … ([UB 77:2.4-6](/en/The_Urantia_Book/77#p2_4))
 
 > The pure-line Nodites were a magnificent race, but they gradually mingled with the evolutionary peoples of earth, and before long great deterioration had occurred. Ten thousand years after the rebellion they had lost ground to the point where their average length of life was little more than that of the evolutionary races. ([UB 77:2.9](/en/The_Urantia_Book/77#p2_9))
 

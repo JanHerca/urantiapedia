@@ -334,7 +334,7 @@ From nebula that account for only a portion of a Local Universe to ones comparib
 > 
 > 7. The movement of Orvonton and six associated superuniverses around Paradise and Havona, the counterclockwise processional of the superuniverse space level.
 > 
-> These multiple motions are of several orders: The space paths of your planet and your solar system are genetic, inherent in origin. The absolute counterclockwise motion of Orvonton is also genetic, inherent in the architectural plans of the master universe. But the intervening motions are of composite origin, being derived in part from the constitutive segmentation of matter-energy into the superuniverses and in part produced by the intelligent and purposeful action of the Paradise force organizers. ([UB 15:3.7-15](/en/The_Urantia_Book/15#p3_15))
+> These multiple motions are of several orders: The space paths of your planet and your solar system are genetic, inherent in origin. The absolute counterclockwise motion of Orvonton is also genetic, inherent in the architectural plans of the master universe. But the intervening motions are of composite origin, being derived in part from the constitutive segmentation of matter-energy into the superuniverses and in part produced by the intelligent and purposeful action of the Paradise force organizers. ([UB 15:3.7-15](/en/The_Urantia_Book/15#p3_7))
 
 #### Relationship Between Orvonton and Andromeda
 
@@ -394,7 +394,7 @@ Interesting to note, “far away” and “far, far away” (which is only used 
 
 > 4. The swing of the local star cloud of Nebadon and its associated creations around the Sagittarius center of their minor sector.
 > 
-> 5. The rotation of the one hundred minor sectors, including Sagittarius, about their major sector. ([UB 15:3.11-12](/en/The_Urantia_Book/15#p3_12))
+> 5. The rotation of the one hundred minor sectors, including Sagittarius, about their major sector. ([UB 15:3.11-12](/en/The_Urantia_Book/15#p3_11))
 
 > Such is the constitution of the local star cloud of Nebadon, which today swings in an increasingly settled orbit about the Sagittarius center of that minor sector of Orvonton to which our local creation belongs. ([UB 41:0.4](/en/The_Urantia_Book/41#p0_4))
 
@@ -522,11 +522,11 @@ The black dot in the center of this cosmological Maltese cross is approximately 
 
 > The relatively quiet zones between the space levels, such as the one separating the seven superuniverses from the first outer space level, are enormous elliptical regions of quiescent space activities. These zones separate the vast galaxies which race around Paradise in orderly procession. You may visualize the first outer space level, where untold universes are now in process of formation, as a vast procession of galaxies swinging around Paradise, bounded above and below by the midspace zones of quiescence and bounded on the inner and outer margins by relatively quiet space zones.
 > 
-> A space level thus functions as an elliptical region of motion surrounded on all sides by relative motionlessness. Such relationships of motion and quiescence constitute a curved space path of lessened resistance to motion which is universally followed by cosmic force and emergent energy as they circle forever around the Isle of Paradise. ([UB 11:7.7-8](/en/The_Urantia_Book/11#p7_8))
+> A space level thus functions as an elliptical region of motion surrounded on all sides by relative motionlessness. Such relationships of motion and quiescence constitute a curved space path of lessened resistance to motion which is universally followed by cosmic force and emergent energy as they circle forever around the Isle of Paradise. ([UB 11:7.7-8](/en/The_Urantia_Book/11#p7_7))
 
 > _The Outer Space Levels._ Far out in space, at an enormous distance from the seven inhabited superuniverses, there are assembling vast and unbelievably stupendous circuits of force and materializing energies. Between the energy circuits of the seven superuniverses and this gigantic outer belt of force activity, there is a space zone of comparative quiet, which varies in width but averages about four hundred thousand light-years. These space zones are free from star dust—cosmic fog. Our students of these phenomena are in doubt as to the exact status of the space-forces existing in this zone of relative quiet which encircles the seven superuniverses. But about one-half million light-years beyond the periphery of the present grand universe we observe the beginnings of a zone of an unbelievable energy action which increases in volume and intensity for over twenty-five million light-years. These tremendous wheels of energizing forces are situated in the first outer space level, a continuous belt of cosmic activity encircling the whole of the known, organized, and inhabited creation.
 > 
-> Still greater activities are taking place beyond these regions, for the Uversa physicists have detected early evidence of force manifestations more than fifty million light-years beyond the outermost ranges of the phenomena in the first outer space level. These activities undoubtedly presage the organization of the material creations of the second outer space level of the master universe. [UB 12:1.14-15](/en/The_Urantia_Book/12#p1_15)
+> Still greater activities are taking place beyond these regions, for the Uversa physicists have detected early evidence of force manifestations more than fifty million light-years beyond the outermost ranges of the phenomena in the first outer space level. These activities undoubtedly presage the organization of the material creations of the second outer space level of the master universe. [UB 12:1.14-15](/en/The_Urantia_Book/12#p1_14)
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Halbert_Katzen/Astronomy/Andromeda.jpg">
@@ -645,7 +645,7 @@ An [Astronomy online text book](https://openstax.org/details/books/astronomy-2e)
 > 3. The First Outer Space Level.
 > 4. The Second Outer Space Level.
 > 5. The Third Outer Space Level.
-> 6. The Fourth and Outermost Space Level. ([UB 12:1.3-9](/en/The_Urantia_Book/12#p1_9))
+> 6. The Fourth and Outermost Space Level. ([UB 12:1.3-9](/en/The_Urantia_Book/12#p1_3))
 
 > TO EVEN high orders of universe intelligences infinity is only partially comprehensible, and the finality of reality is only relatively understandable. The human mind, as it seeks to penetrate the eternity-mystery of the origin and destiny of all that is called _real,_ may **helpfully approach the problem by conceiving eternity-infinity as an almost limitless _ellipse_** which is produced by one absolute cause, and which functions throughout this universal circle of endless diversification, ever seeking some absolute and infinite potential of destiny. ([UB 105:0.1](/en/The_Urantia_Book/105#p0_1))
 

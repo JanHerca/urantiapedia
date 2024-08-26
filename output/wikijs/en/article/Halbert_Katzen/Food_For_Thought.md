@@ -63,7 +63,7 @@ Even though plant and animal life is significantly different on mortal spheres t
 
 > Gardens of God. The system capitals are particularly beautified with material and mineral constructions, while the universe headquarters is more reflective of spiritual glory, but the capitals of the constellations are the acme of morontia activities and living embellishments. On the constellation headquarters worlds living embellishment is more generally utilized, and it is this preponderance of life—botanic artistry—that causes these worlds to be called “the gardens of God.”
 > 
-> About one half of Edentia is devoted to the exquisite gardens of the Most Highs, and **these gardens are among the most entrancing morontia creations** of the local universe. This explains why the extraordinarily beautiful places on the inhabited worlds of Norlatiadek are so often called “the garden of Eden.” ([UB 43:6.1-2](/en/The_Urantia_Book/43#p6_2))
+> About one half of Edentia is devoted to the exquisite gardens of the Most Highs, and **these gardens are among the most entrancing morontia creations** of the local universe. This explains why the extraordinarily beautiful places on the inhabited worlds of Norlatiadek are so often called “the garden of Eden.” ([UB 43:6.1-2](/en/The_Urantia_Book/43#p6_1))
 
 > If you enjoy the flowers, shrubs, and trees of Urantia, then will you feast your eyes upon the botanical beauty and the floral grandeur of the supernal gardens of Edentia. But it is beyond my powers of description to undertake to convey to the mortal mind an adequate concept of these beauties of the heavenly worlds. **Truly, eye has not seen such glories as await your arrival** on these worlds of the mortal-ascension adventure. ([UB 43:6.8](/en/The_Urantia_Book/43#p6_8))
 
