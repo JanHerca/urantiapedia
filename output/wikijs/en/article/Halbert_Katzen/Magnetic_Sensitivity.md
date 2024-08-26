@@ -312,7 +312,7 @@ http://www.biophysics.uwa.edu.au/magnetite.html
 
 ## External links
 
-* This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/Magnetic.pdf
+* [This report in UBTheNews webpage](https://ubannotated.com/wp-content/uploads/2018/03/Magnetic.pdf)
 
 <br>
 

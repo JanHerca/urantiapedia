@@ -3,7 +3,7 @@ title: Gobekli Tepe
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: Anthropology
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -316,7 +316,7 @@ For an excellent understanding of how this topic relates to the development Jude
 
 ## Externals links
 
-* This report in UBTheNews webpage: https://ubannotated.com/main-menu/animated/topical-studies/gobekli-tepe/
+* [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/gobekli-tepe/)
 
 * Wikipedia: http://en.wikipedia.org/wiki/Gobekli_Tepe
 

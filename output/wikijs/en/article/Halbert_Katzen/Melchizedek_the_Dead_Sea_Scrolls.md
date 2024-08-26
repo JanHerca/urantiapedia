@@ -391,7 +391,7 @@ As intriguing as those questions might be, perhaps, they are not nearly so timel
 
 ## External Links
 
-* This report in UBTheNews webpage: https://ubannotated.com/ubthenews/topics/melchizedek-and-the-dead-sea-scrolls-report/
+* [This report in UBTheNews webpage](https://ubannotated.com/ubthenews/topics/melchizedek-and-the-dead-sea-scrolls-report/)
 
 <br>
 

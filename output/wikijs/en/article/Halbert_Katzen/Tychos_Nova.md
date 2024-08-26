@@ -229,7 +229,7 @@ Urantia Book quotes:
 
 ## External links
 
-* This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/tychos-nova.pdf
+* [This report in UBTheNews webpage](https://ubannotated.com/wp-content/uploads/2018/03/tychos-nova.pdf)
 
 <br>
 

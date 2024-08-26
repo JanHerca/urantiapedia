@@ -3,7 +3,7 @@ title: Adam and Eve Report
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: Anthropology, Biology, Genetics
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -506,7 +506,7 @@ Naturally, based on the overall trend toward corroborations of historical and sc
 
 ## External links
 
-* This report in UBTheNews webpage: http://ubannotated.com/ubthenews/topics/adam_and_eve/
+* [This report in UBTheNews webpage](http://ubannotated.com/ubthenews/topics/adam_and_eve/)
 
 ### Political Issues
 

@@ -173,7 +173,7 @@ The Movius Line theory, which started in 1948 and has predominated for decades, 
 
 ## External links
 
-- This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/Peking_Man.pdf
+- [This report in UBTheNews webpage](https://ubannotated.com/wp-content/uploads/2018/03/Peking_Man.pdf)
 - http://www.greatarchaeology.com/java_man.htm
 - http://en.wikipedia.org/wiki/Homo_erectus_pekinensis
 - http://www.newworldencyclopedia.org/entry/Java_man

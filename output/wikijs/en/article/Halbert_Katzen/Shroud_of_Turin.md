@@ -508,7 +508,7 @@ According to _The Urantia Book_, “Of all human knowledge, that which is of gre
 
 ## External links
 
-* This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/Shroud.pdf
+* [This report in UBTheNews webpage](https://ubannotated.com/wp-content/uploads/2018/03/Shroud.pdf)
 
 <br>
 

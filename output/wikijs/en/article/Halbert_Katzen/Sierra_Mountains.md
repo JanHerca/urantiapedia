@@ -204,7 +204,7 @@ Approached from this perspective, the 2006 report prepared by Mulch, Graham, and
 
 ## External links
 
-* This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/SierraMountains.pdf
+* [This report in UBTheNews webpage](https://ubannotated.com/wp-content/uploads/2018/03/SierraMountains.pdf)
 
 ## Sierra Mountains Additional Links
 

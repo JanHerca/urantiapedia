@@ -3,7 +3,7 @@ title: Early Migration to Britain
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: Anthropology
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -206,7 +206,7 @@ The selections from *The Urantia Book* provided in this report provide a basis f
 
 ## External links
 
-* This report in UBTheNews webpage: http://ubannotated.com/ubthenews/topics/foxhall_1/
+* [This report in UBTheNews webpage](http://ubannotated.com/ubthenews/topics/foxhall_1/)
 * *Britain's drowned world*, *Channel 4*, April 2007. Great 2007 summary article with dates and places of discovery, vole clock, axe handles, advancing and retreating ice.
 	 
 	https://web.archive.org/web/20090619033218/http://www.channel4.com/history/microsites/T/timeteam/2007_dogger_ancient.html [Original link broken]

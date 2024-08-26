@@ -235,7 +235,7 @@ Interpreting the specifics of how this area might have sunk into the Mediterrane
 
 ## External Links
 
-- This report in UBTheNews: https://ubannotated.com/wp-content/uploads/2018/03/Pangaea.pdf
+- [This report in UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Pangaea.pdf)
 - _Jack Oliver, Who Proved Continental Drift, Dies at 87_, The New York Times, By Kenneth Chang, 2011. ([Link](https://www.nytimes.com/2011/01/12/science/earth/12oliver.html?_r=4&adxnnl=1&ref=science&adxnnlx=1294851704-aH9bArRuWC6WOqHwEm4ROQ))
 - http://www.sciencedaily.com/releases/2009/02/090211122136.htm
 - http://www.infoplease.com/ce6/sci/A0813370.html

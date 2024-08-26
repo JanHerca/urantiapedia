@@ -114,7 +114,7 @@ This is a fascinating video about foxes and the genetics of being social. It foc
 
 ## External Links
 
-- This report in UBTheNews: https://ubannotated.com/wp-content/uploads/2018/03/Animal-Domestication.pdf
+- [This report in UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Animal-Domestication.pdf)
 - http://news.discovery.com/animals/dog-domestication-prehistoric-ice-age-110728.html 33K
 - http://en.wikipedia.org/wiki/Origin_of_the_domestic_dog
 - http://archaeology.about.com/od/dterms/a/domestication.htm chart for various animals

@@ -3,7 +3,7 @@ title: Garden of Eden Report
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: Geology
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -163,7 +163,7 @@ For now, at least advances in sonar technology allow us to see a topography betw
 
 ## External links
 
-* This report in UBTheNews website: http://ubannotated.com/ubthenews/topics/ubthenews-garden-of-eden-report/
+* [This report in UBTheNews website](http://ubannotated.com/ubthenews/topics/ubthenews-garden-of-eden-report/)
 
 * *Life Pictorial Atlas of the World*, *Life* magazine Randy McNally, 1961.
 
