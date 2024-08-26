@@ -454,3 +454,15 @@ Capernaúm or Capernaum | Cafarnaúm
 Nazareth | Nazaret
 
 &nbsp; 
+
+
+UBTheNews
+
+`\((\d{1,3}):(\d{1,2})\.(\d{1,3})\)  (.+)`
+`> $4 ([UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3))`
+
+`\[\((\d{1,3}):(\d{1,2})\.(\d{1,3})\)\]\((.+)\)  (.+)`
+`> $5 ([UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3))`
+
+`^\[\((\d{1,3}):(\d{1,2})\.(\d{1,3})\)\]\((.+)\)(.+)`
+`> $5 ([UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3))`
