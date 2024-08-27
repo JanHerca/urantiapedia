@@ -317,21 +317,15 @@ For an excellent understanding of how this topic relates to the development Jude
 ## Externals links
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/gobekli-tepe/)
-
+* [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
 * Wikipedia: http://en.wikipedia.org/wiki/Gobekli_Tepe
-
 * Andrew Collins page on Gobekli Tepe: http://www.andrewcollins.com/page/articles/Gobekli.htm
-
 * Shaena Montanari, *Hints of Skull Cult Found at World's Oldest Temple*, National Geographic, June 2017. https://www.nationalgeographic.com/news/2017/06/skulls-cult-turkey-archaeology-neolithic-gobekli/. Article on Gobekli Tepe skull markings.
-
 * John Hurd y Dan Thompson, *Preliminary Site Conservation Inspection and First Mortar and Plaster Documentation Report, Göbekli Tepe, Turkey*, *Global Heritage Fund*, september 2011. http://ghn.globalheritagefund.com/uploads/documents/document_2018.pdf. Gobekli Tepe has earliest evidence for development of concrete.
-
 * An “Evolutionary Revelation” conference was hosted by Byron Belitsos in June 2014. This presentation by Halbert Katzen addresses issues related to the Urantia revelation’s progressive acceptance, as this relates to how new discoveries and scientific advances increasingly support history in The Urantia Book. A review of the *Gobekli Tepe Report* is part of this presentation. https://www.youtube.com/watch?v=Q1zX_iog1SM
-
 * Martin Robinson, *Piles of ancient rubbish could prove incredible temple that's 6,500 years older than Stonehenge was actually a house*, Daily Mail, october 2011. https://www.dailymail.co.uk/news/article-2050908/Gobekli-Tepe-Temple-thats-6-500-years-older-Stonehenge-house.html. Article that speculates about Gobekli Tepe and the Garden of Eden.
-
 * Andrew Curry, *Gobekli Tepe: The World’s First Temple?*, *Smithsonian Magazine*, noviembre 2008. https://www.smithsonianmag.com/history/gobekli-tepe-the-worlds-first-temple-83613665/, article from Smithsonian.
-
 * *Göbekli Tepe in Turkey: A 12,000-year-old Temple Complex*, Red Ice.TV, http://www.redicecreations.com/article.php?id=3487, with some good images.
 
 <br>

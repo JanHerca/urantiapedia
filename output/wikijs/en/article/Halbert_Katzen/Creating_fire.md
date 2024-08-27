@@ -199,28 +199,20 @@ The discoveries made at the Gesher Benot Ya'aqov in Israel during this millenniu
 
 ## External links
 
+* [This report in UBTheNews webpage](https://ubannotated.com/ubthenews/topics/CreatingFire/)
+* [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
 * Paul Rincon, *Early human fire skills revealed*, BBC News, April, 29 2004, http://news.bbc.co.uk/2/hi/science/nature/3670017.stm
-
 * *Fire out of Africa: a key to the migration of prehistoric man*, *The Hebrew University of Jerusalem*, October, 27 2008, http://www.huji.ac.il/cgi-bin/dovrut/dovrut_search_eng.pl?mesge122510374832688760
-
 * Kyle Streich, *Terra Amata*, June 2008, https://web.archive.org/web/20080618062326/http://www.mnsu.edu/emuseum/archaeology/sites/europe/terraamata.html, brief description of the Terra Amata site. [Original link broken].
-
 * Dennis O'Neill, *Archaic Human Culture*, https://www2.palomar.edu/anthro/homo2/mod_homo_3.htm, general info on primitive culture with some info on flint and Terra Amata.
-
 * Wikipedia page about Terra Amata: http://en.wikipedia.org/wiki/Terra_Amata
-
 * Terra Amata museum website, in Nice: http://www.nice.fr/fr/culture/musees-et-galeries/presentation-du-musee-terra-amata
-
 * Jennifer Viegas, *World's oldest BBQ burnt meat to a crisp*, *ABC Science*, May, 3 2004, \myurl{http://www.abc.net.au/science/articles/2004/05/03/1100057.htm?site=science&topic=latest}, article echoing the discovery at the Israeli site.
-
 * *When was fire first controlled by human beings?* http://www.beyondveg.com/nicholson-w/hb/hb-interview2c.shtml, comprehensive review of the issues,.
-
 * Steven R. James, R. W. Dennell, Allan S. Gilbert, et al., *Hominid Use of Fire in the Lower and Middle Pleistocene: A Review of the Evidence*, February 1989, https://www.jstor.org/stable/2743299?seq=1
-
 * Joshua Fischman, *A Fireplace in France*, *Discover Magazine*, January, 1 1996. http://discovermagazine.com/1996/jan/afireplaceinfran673, excellent coverage of the Menez-Dregan evidence.
-
 * Wikipedia page about Menez-Dregan: http://fr.wikipedia.org/wiki/Menez-Dregan
-
 * George W. Rohrer, *The First Settlers in France*, 1983, http://www.boneandstone.com/articles/rohrer_09.pdf, extensive article on early man in France.
 
 <br>

@@ -198,6 +198,8 @@ For a relatively quick Urantia Book perspective on the development of civilizati
 ## External Links
 
 - [This report in UBTheNews webpage](https://ubannotated.com/wp-content/uploads/2018/03/Horsing_Around.pdf)
+- [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+- [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
 - http://www.sciencedaily.com/releases/2009/03/090305141627.htm
 - http://www.geosociety.org/news/pr/06-49.htm
 - http://en.wikipedia.org/wiki/Domestication_of_the_horse

@@ -592,6 +592,8 @@ Dangers Of Self-Gratification
 ## External links
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/undiscovered/)
+* [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
 * Cross-reference study: [Gender Studies](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/gender-studies/).
 * Cross-reference study: [Cocreat- and Procreat- Coparental (Co)Partnership with God](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/cocreat-and-procreat-partnership-with-god/).
 * Halbert Katzen’s essay _[In the Name of the Father](https://ubannotated.com/main-menu/animated/topical-studies/in-the-name-of-the-father/)_, which develops a philosophical foundation for using the word _Father_ for God that focuses in on the parental, personal, and freewill nature of our relationship to God.

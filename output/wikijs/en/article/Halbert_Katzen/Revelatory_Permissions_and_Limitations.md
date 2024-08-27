@@ -387,7 +387,8 @@ Paper 121: The Times Of Michael’s Bestowal, Section 8: Previous Written Record
 ## External links
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/revelation-permissions-and-limitations/)
-
+* [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
 
 <br>
 

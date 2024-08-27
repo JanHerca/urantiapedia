@@ -836,6 +836,8 @@ Time-Space: 112 paragraphs. First 28 occurrences are in the Foreword.
 ## External links
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/astronomy/)
+* [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
 * [Astronomy online text book](https://openstax.org/details/books/astronomy) for first two semesters.
 
 

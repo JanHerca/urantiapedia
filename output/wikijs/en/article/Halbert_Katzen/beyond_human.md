@@ -60,7 +60,8 @@ _By Halbert Katzen J.D._
 ## External links
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/beyond-human-comprehension-imagination-understanding/)
-
+* [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
 
 <br>
 

@@ -207,6 +207,8 @@ The selections from *The Urantia Book* provided in this report provide a basis f
 ## External links
 
 * [This report in UBTheNews webpage](http://ubannotated.com/ubthenews/topics/foxhall_1/)
+* [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
 * *Britain's drowned world*, *Channel 4*, April 2007. Great 2007 summary article with dates and places of discovery, vole clock, axe handles, advancing and retreating ice.
 	 
 	https://web.archive.org/web/20090619033218/http://www.channel4.com/history/microsites/T/timeteam/2007_dogger_ancient.html [Original link broken]

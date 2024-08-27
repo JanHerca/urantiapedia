@@ -89,6 +89,8 @@ Identifying topics that need to have reports written about them takes a lot less
 ## External Links
 
 - [This report in UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Animal-Domestication.pdf)
+- [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+- [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
 - http://ngm.nationalgeographic.com/2011/03/taming-wild-animals/ratliff-text
 - http://www.nature.com/nature/journal/v418/n6898/full/nature01019.html
 - http://archaeology.about.com/od/dterms/a/domestication.htm chart for various animals http://hcs.osu.edu/hcs/tmi/hcs210/hortorigins/BrDomestic.html Britannica 1990
