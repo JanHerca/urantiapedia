@@ -589,14 +589,17 @@ Dangers Of Self-Gratification
 > And in this way Jesus relieved the minds of the apostles of many worries about marriage and cleared up many misunderstandings regarding divorce; at the same time he did much to exalt their ideals of social union and to augment their respect for women and children and for the home. ([UB 167:5.3-8](/en/The_Urantia_Book/167#p5_3))
 
 
+## See also
+
+* Cross-reference study: [Gender Studies](/en/article/Halbert_Katzen/Gender_Studies).
+* Cross-reference study: [Cocreat- and Procreat- Coparental (Co)Partnership with God](/en/article/Halbert_Katzen/Cocreat_Procreat_Coparental_Copartnership).
+* Halbert Katzen’s essay _[In the Name of the Father](/en/article/Halbert_Katzen/In_the_Name_of_the_Father)_, which develops a philosophical foundation for using the word _Father_ for God that focuses in on the parental, personal, and freewill nature of our relationship to God.
+
 ## External links
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/undiscovered/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
 * [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
-* Cross-reference study: [Gender Studies](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/gender-studies/).
-* Cross-reference study: [Cocreat- and Procreat- Coparental (Co)Partnership with God](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/cocreat-and-procreat-partnership-with-god/).
-* Halbert Katzen’s essay _[In the Name of the Father](https://ubannotated.com/main-menu/animated/topical-studies/in-the-name-of-the-father/)_, which develops a philosophical foundation for using the word _Father_ for God that focuses in on the parental, personal, and freewill nature of our relationship to God.
 
 
 <br>
