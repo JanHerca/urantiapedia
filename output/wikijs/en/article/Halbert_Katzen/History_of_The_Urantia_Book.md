@@ -3,7 +3,7 @@ title: "History of The Urantia Book"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: The Urantia Book, The Urantia Book—History
+tags: The Urantia Book, The Urantia Book—History, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -29,7 +29,7 @@ _By Halbert Katzen J.D._
 
 _The Urantia Book_ was published in 1955. No human being claims to have written it. The identity of the person, used as a conduit for the process of receiving the material, was kept secret by those involved with publishing the book. This was done consistent with that individual’s wishes. Apparently, using someone who did not want to become known with the process was a crucial concern with those providing the text because they wanted it to be as free from human association as possible, given the challenge of providing a written revelation.
 
-Highly recommended: A copyright and trademark infringement lawsuit in the 1990’s filed by Urantia Foundation against Kristen Maaherra (now Kristen Michaels) led to her creation of a 26-page history. This is a great place to get started because it is detailed, efficient, and created with the rigors and consequences of legal scrutiny in mind.
+Highly recommended: A copyright and trademark infringement lawsuit in the 1990’s filed by Urantia Foundation against Kristen Maaherra (now Kristen Michaels) led to her creation of a 26-page history. This is a great place to get started because it is detailed, efficient, and created with the rigors and consequences of legal scrutiny in mind.
 
 [Origin of the Urantia Papers: How were the Papers Materialized?](https://ubannotated.com/wp-content/uploads/2022/01/UB-origin-Maaherra.pdf) by Kristen Maaherra, November 14, 1997.
 
@@ -39,7 +39,7 @@ Highly recommended: A copyright and trademark infringement lawsuit in the 1990�
 
 [1932 Copyright inquiry by Wilfred Kellogg](https://ubannotated.com/wp-content/uploads/2018/01/32-Copyright-foreign-countries.pdf), concerning copyright protection in foreign countries.
 
-[Dr. Sadler’s _Evolution of the Soul_](https://ubannotated.com/wp-content/uploads/2018/01/DrSadler-Evolution-Of-The-Soul.pdf) (1941) demonstrates a respect for boundaries and a need for permission when writing on subjects learned about through he process of receiving the Urantia revelation. See footnote on page 27, which reads:
+[Dr. Sadler’s _Evolution of the Soul_](https://ubannotated.com/wp-content/uploads/2018/01/DrSadler-Evolution-Of-The-Soul.pdf) (1941) demonstrates a respect for boundaries and a need for permission when writing on subjects learned about through he process of receiving the Urantia revelation. See footnote on page 27, which reads:
 
 “In the case of some of my “borrowed” concepts which are unpublished, I desired to give credit to the original sources. While permission to make use of this material was granted, the request to accord acknowledgement was denied.” (Downloading the pdf of the whole book may take a little time.)
 
@@ -49,9 +49,9 @@ Highly recommended: A copyright and trademark infringement lawsuit in the 1990�
 
 “In 50, 75 or 100 years the name will be fairly safe. You safeguard it for a generation and it will largely take care of itself.”
 
-[1952 Instructions to the Contact Commissioners](https://ubannotated.com/wp-content/uploads/2018/01/Norson-original.pdf) from the personal regent (Norson) of the acting Planetary Prince of Urantia (historical, 3 pages)
+[1952 Instructions to the Contact Commissioners](https://ubannotated.com/wp-content/uploads/2018/01/Norson-original.pdf) from the personal regent (Norson) of the acting Planetary Prince of Urantia (historical, 3 pages)
 
-[1952 Instructions to the Contact Commissioners](https://ubannotated.com/wp-content/uploads/2018/01/Norson-msg-retyped.pdf) (retyped) Excerpts:
+[1952 Instructions to the Contact Commissioners](https://ubannotated.com/wp-content/uploads/2018/01/Norson-msg-retyped.pdf) (retyped) Excerpts:
 
 “For the time being, mediation between the overall and superhuman supervision of this Commission and the directly human functioning of the Trustees of the Urantia Foundation shall be vested in the Midwayer Commission, the successor of the original Urantia Revelatory Commission. This Commission shall continue to function as advisor to both the Seraphic Overseers and the Trustees of the Urantia Foundation, but their veto powers shall extend only to the decisions of the acts of the human Trustees.”
 
@@ -59,7 +59,7 @@ Highly recommended: A copyright and trademark infringement lawsuit in the 1990�
 
 [Similar to the 1952 posts above](https://ubannotated.com/wp-content/uploads/2018/01/Norson-short-form.pdf), but much more limited in scope and uninformative regarding context. (historical, 1 page)
 
-(Highly recommended.) [1958 memo to Urantia Foundation Trustees](https://ubannotated.com/wp-content/uploads/2018/01/DrSadler-58-on-structure.pdf) by Bill Sadler, Jr., concerning the wisdom best applied to relations with Urantia Brotherhood. Excerpts:
+(Highly recommended.) [1958 memo to Urantia Foundation Trustees](https://ubannotated.com/wp-content/uploads/2018/01/DrSadler-58-on-structure.pdf) by Bill Sadler, Jr., concerning the wisdom best applied to relations with Urantia Brotherhood. Excerpts:
 
 “The sister organizations — Foundation and Brotherhood — started out conceptually as one organization. The original draft of the constitution of the Brotherhood (circa 1937) did not differentiate between the two organizations. This combined organization proved to be unwieldy because it attempted to unite two then existing functions which did not mix well as a single unit. These two functions were the following:1. The custodial and other responsibilities of the contact commissioners. 2. The religio-social functions of the Forum.”
 
@@ -71,7 +71,7 @@ Highly recommended: A copyright and trademark infringement lawsuit in the 1990�
 
 [1962 Sadler letter to Meredith Sprunger](https://ubannotated.com/wp-content/uploads/2018/01/62-Sadler-2-Sprunger-Teacher-ministers.pdf) regarding whether Ordained Urantia Book Teachers could perform marriage ceremonies.
 
-[1959 Urantia Foundation Statement](https://ubannotated.com/wp-content/uploads/2018/01/59-Foundation-on-Trademarking-Circles.pdf) on Trademarking the Concentric Circles. **Note:** Trademarking apparently was not done at the direction of the Revelatory Commission. It is human “wisdom.”
+[1959 Urantia Foundation Statement](https://ubannotated.com/wp-content/uploads/2018/01/59-Foundation-on-Trademarking-Circles.pdf) on Trademarking the Concentric Circles. **Note:** Trademarking apparently was not done at the direction of the Revelatory Commission. It is human “wisdom.”
 
 [1990 William Hales statement](https://ubannotated.com/wp-content/uploads/2018/01/90-Hales-creating-organizations.pdf) on the origins and interrelation of Urantia Foundation and Urantia Brotherhood.
 
@@ -83,7 +83,7 @@ Highly recommended: A copyright and trademark infringement lawsuit in the 1990�
 
 [1975 Sales Agreement](https://ubannotated.com/wp-content/uploads/2018/01/75-Sales-Agreement-UF-UB.pdf) between Urantia Foundation and Urantia Brotherhood Corporation.
 
-[Christy’s 1966 letter to Field Representatives](https://ubannotated.com/wp-content/uploads/2018/01/Christy-66-on-secrecy.pdf) about the importance of maintaining secrecy regarding the origins of _The Urantia Book_. She quotes from 1945 Contact Commission instructions. Excerpt:
+[Christy’s 1966 letter to Field Representatives](https://ubannotated.com/wp-content/uploads/2018/01/Christy-66-on-secrecy.pdf) about the importance of maintaining secrecy regarding the origins of _The Urantia Book_. She quotes from 1945 Contact Commission instructions. Excerpt:
 
 “You must begin the rehearsal of your attitude as it is to be manifested at the time of the publication of The Urantia Book. You, as individuals and as a group, are only concerned with the teachings of the Book. The origin of the Book is the concern of the contact commissioners.”
 
@@ -93,7 +93,7 @@ Highly recommended: A copyright and trademark infringement lawsuit in the 1990�
 
 “…Your troubles will be greatly lessened if you avoid all discussion of the origin of the book. Be determined to know but one thing – the soul-surviving message of the Book.”
 
-[1967 Christy/Sprunger exchanges](https://ubannotated.com/wp-content/uploads/2018/01/67-Christy-Sprunger-Timing-Promotion.pdf). Timing of _The Urantia Book_ vs. “More Open Phase Of Our Work”
+[1967 Christy/Sprunger exchanges](https://ubannotated.com/wp-content/uploads/2018/01/67-Christy-Sprunger-Timing-Promotion.pdf). Timing of _The Urantia Book_ vs. “More Open Phase Of Our Work”
 
 [1972 Foundation Report](https://ubannotated.com/wp-content/uploads/2018/01/Foundation-msg-672.pdf), in part, complaining about how much time they have to spend dealing with people who want to go too fast.
 
@@ -111,7 +111,7 @@ Highly recommended: A copyright and trademark infringement lawsuit in the 1990�
 
 “10. Had we known in 1978, as a Society and as individuals, that our signature on the licensing agreement would have the effect of secularizing the concentric-circles symbol, and turning the word “Urantia” into a mere commercial trademark, the Society would not for a single moment have considered signing the agreement. At the very most, not more than one or two of our members would have supported such a decision.”
 
-[History of _The Urantia Book_ presented into evidence](https://ubannotated.com/wp-content/uploads/2018/01/UB-History-Maaherra-case.pdf) by Urantia Foundation in the Maaherra case.
+[History of _The Urantia Book_ presented into evidence](https://ubannotated.com/wp-content/uploads/2018/01/UB-History-Maaherra-case.pdf) by Urantia Foundation in the Maaherra case.
 
 ## Declarations of Trust and Charters
 
@@ -123,27 +123,27 @@ Highly recommended: A copyright and trademark infringement lawsuit in the 1990�
 
 [Urantia Association International charter](https://urantia-association.org/documents/charter/UAI_Charter_en.pdf): Note that the word “personal” was inserted before word “religion” in the Statement of Purpose 1.1.
 
-## Official/semi official _Urantia Book_ histories
+## Official/semi official _Urantia Book_ histories
 
 [History of _The Urantia Book_](https://ubannotated.com/wp-content/uploads/2018/01/constitutionofUB.pdf) by Dr. Sadler
 
-[Marian Rowley’s 1960 Urantia Brotherhood history of _The Urantia Book_.](https://ubannotated.com/wp-content/uploads/2018/01/60-RowleyM-History-of-TUB.pdf)
+[Marian Rowley’s 1960 Urantia Brotherhood history of _The Urantia Book_.](https://ubannotated.com/wp-content/uploads/2018/01/60-RowleyM-History-of-TUB.pdf)
 
 [Christy’s 1964 history](https://ubannotated.com/wp-content/uploads/2018/01/Christys-UB-History-64original.pdf) (historical)
 
 [Christy’s 1964 history](https://ubannotated.com/wp-content/uploads/2018/01/Christys-UB-History-64.pdf) (retyped)
 
-[Urantia Fellowship: a brief history](https://ubannotated.com/wp-content/uploads/2018/01/Fellowship-Brief-History.pdf) from Urantia Fellowship’s website
+[Urantia Fellowship: a brief history](https://ubannotated.com/wp-content/uploads/2018/01/Fellowship-Brief-History.pdf) from Urantia Fellowship’s website
 
-## Independent _Urantia Book_ histories
+## Independent _Urantia Book_ histories
 
-(Highly recommended.) [Birth of a Revelation](/en/article/Mark_Kulieke/Birth_of_a_Revelation) by Mark Kulieke (1991). Mark’s parents were involved with _The Urantia Book_ prior to its publication. This 16-page review provides an excellent combination of facts and perspective. The ending is especially insightful and inspirational.
+(Highly recommended.) [Birth of a Revelation](/en/article/Mark_Kulieke/Birth_of_a_Revelation) by Mark Kulieke (1991). Mark’s parents were involved with _The Urantia Book_ prior to its publication. This 16-page review provides an excellent combination of facts and perspective. The ending is especially insightful and inspirational.
 
 [How The Urantia Papers Came](https://ubannotated.com/wp-content/uploads/2018/01/Stafford-origin-of-Papers.pdf) by Webster Stafford, written around 1943. Bill Sadler, Jr. characterized this as fictional, but it obvious has a lot of information that is accurate. The question remains, how much?
 
 [How The Urantia Papers Came](https://ubannotated.com/wp-content/uploads/2018/01/Stafford-retyped-1952.pdf) by Webster Stafford, retyped in 1952 (easier to read), and it includes a note to Harold Sherman regarding their cooperative efforts.
 
-“[The Historicity Of _The Urantia Book_](/en/article/Meredith_Sprunger/The_Historicity_of_UB)” (1986, revised 1998) by Meredith J. Sprunger.
+“[The Historicity Of _The Urantia Book_](/en/article/Meredith_Sprunger/The_Historicity_of_UB)” (1986, revised 1998) by Meredith J. Sprunger.
 
 [The Birth of a Divine Revelation](https://ubannotated.com/wp-content/uploads/2021/02/MoyerBirthRev.pdf) (2000) by Ernest P. Moyer.
 
@@ -163,17 +163,17 @@ Note the lack of respect for the authority of the Revelatory Commission to choos
 
 [Clyde Bedell’s 1942 letter to Harold Sherman](https://ubannotated.com/wp-content/uploads/2018/01/BedellC-42-cahoots-w-Sherman.pdf), indicating that they are in cahoots.
 
-[Adapted version of Chapter 5: Pipeline to God](https://ubannotated.com/wp-content/uploads/2018/01/Shermn-Pipeline2God-real-names.pdf) from _How To Know What To Believe_ by [Harold Sherman](https://en.wikipedia.org/wiki/Harold_Sherman) (1978). In this book, fictitious names were used, possibly to avoid a potential lawsuit. Sherman was an American author, lecturer and psychical researcher. Harold Sherman, a member of the Forum, caused a lot of problems for Dr. Sadler, in part because he could not accept certain _Urantia Book_ teachings and also because he had developed an inflated sense of his own role and relationship to Urantia revelation. Excerpts:
+[Adapted version of Chapter 5: Pipeline to God](https://ubannotated.com/wp-content/uploads/2018/01/Shermn-Pipeline2God-real-names.pdf) from _How To Know What To Believe_ by [Harold Sherman](https://en.wikipedia.org/wiki/Harold_Sherman) (1978). In this book, fictitious names were used, possibly to avoid a potential lawsuit. Sherman was an American author, lecturer and psychical researcher. Harold Sherman, a member of the Forum, caused a lot of problems for Dr. Sadler, in part because he could not accept certain _Urantia Book_ teachings and also because he had developed an inflated sense of his own role and relationship to Urantia revelation. Excerpts:
 
 “One of our basic observations that really disturbed us, after finishing a first reading of the Papers, was the fact that _The Urantia Book_ purported to give a specific description of the appearance and nature of the physical universe but _presented no program for individual spiritual development_.”
 
 “It is a great error and will arouse great controversy, confusion, and dissension for _The Urantia Book_ to indicate positively that no one can communicate with the dead and that the dead, under no circumstances, can or do return to this earth. This is a deliberate wrong statement — an untruth — and cannot have been made by higher intelligences, for they KNOW better. With _The Urantia Book_ containing such false inferences, many humans who have had genuine experiences are not going to know what sections of the book to believe or disbelieve, and they are apt to end up by doubting it all.”
 
-[1976 Clyde Bedell’s lengthy response](https://ubannotated.com/wp-content/uploads/2018/01/76-BedellC-response-to-Pipeline.pdf) to the Pipeline to God chapter in Harold Sherman’s book _How To Know What To Believe_.
+[1976 Clyde Bedell’s lengthy response](https://ubannotated.com/wp-content/uploads/2018/01/76-BedellC-response-to-Pipeline.pdf) to the Pipeline to God chapter in Harold Sherman’s book _How To Know What To Believe_.
 
 [1969 Robert Burton writes](https://ubannotated.com/wp-content/uploads/2018/01/69-Burton-to-Trustees-re-translations.pdf) to Trustees complaining that the creation of translations is not being managed effectively and cooperatively.
 
-[1970 Triennial Delegate Assembly passes resolutions](https://ubannotated.com/wp-content/uploads/2018/01/1970-TDA-Resolutions.pdf) in favor of breaking up _The Urantia Book_ into three volumes and requesting financial disclosures from the Foundation.
+[1970 Triennial Delegate Assembly passes resolutions](https://ubannotated.com/wp-content/uploads/2018/01/1970-TDA-Resolutions.pdf) in favor of breaking up _The Urantia Book_ into three volumes and requesting financial disclosures from the Foundation.
 
 “No 4. BE IT RESOLVED: That it is the wish of the General Council that before more money is spent for Delux Editions of the Urantia Book that good, off-set printed, three-volume, paper-back editions be obtained and made available for readers who can not afford Delux hard-back books.”
 
@@ -185,7 +185,7 @@ Note the lack of respect for the authority of the Revelatory Commission to choos
 
 [Expulsion of Robert Burton](https://ubannotated.com/wp-content/uploads/2018/01/Robert-Burton-Expulsion-Petition.pdf).
 
-(Highly recommended.) [1989 Synergist report](https://ubannotated.com/wp-content/uploads/2018/01/89-Synergist-on-Trademarks.pdf) on how the Foundation inappropriately secured trademark and service mark protection for _Urantia_ and _Urantian_. Excerpts:
+(Highly recommended.) [1989 Synergist report](https://ubannotated.com/wp-content/uploads/2018/01/89-Synergist-on-Trademarks.pdf) on how the Foundation inappropriately secured trademark and service mark protection for _Urantia_ and _Urantian_. Excerpts:
 
 “Upon denial of the original application the Foundation submitted an amended application substituting the word “instructing” for “promotion, improvement, and expansion among” at the beginning of the statement of purpose, thus identifying the “religious educational service” necessary to qualify for the registration of a service mark.”
 

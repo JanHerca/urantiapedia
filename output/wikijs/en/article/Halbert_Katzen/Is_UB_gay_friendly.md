@@ -3,7 +3,7 @@ title: "Is The Urantia Book “gay friendly?”"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Gender, LGBT, The Urantia Book
+tags: Gender, LGBT, The Urantia Book, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -55,7 +55,7 @@ Jesus’ perspective:
 <img src="/image/article/Halbert_Katzen/Is_UB_gay_friendly/Stand2P-672x798.jpg">
 </figure>
 
-Is _The Urantia Book_ “gay friendly?” At one time this was a fairly straightforward question, even if people disagreed about the answer.
+Is _The Urantia Book_ “gay friendly?” At one time this was a fairly straightforward question, even if people disagreed about the answer.
 
 In 2017, when this study aid was prepared, the title reflected an overly narrow approach to contemporary cultural and political issues related to human sexuality. Encouraging reflection on how quickly perspectives and politics are changing was the intention behind the out-of-date title. The first introduction to this topic suggested a better question to ask was, “What does _The Urantia Book_ teach about innate sexual tendencies and lifestyle choices?”
 
@@ -82,7 +82,7 @@ This epochal revelation provides both direct guidance and an illustrative exampl
 
 The transgender ideology is blasphemous.
 
-The context of the transgender ideology suggests that God creates gender identities and then mismatches them to bodies or, alternatively, that God is otherwise unwilling or unable to correct a problem. The transgender ideology requires a _willingness_ to be blasphemous. The willingness to go there is tempted and justified by the assertion that it is hateful to question and/or **_refuse to validate the ideology_** of someone with gender disphoria, who claims to be mistreated when their political objectives are not accepted or personal social relationships are unsatisfying. This is the nature of that sophistry and it is done in Jesus’ name. The transgender “theology” asserts that Jesusonian compassion and acknowledgment of everyone as a child of God requires embracing _a priori_ a blasphemous concept of God.
+The context of the transgender ideology suggests that God creates gender identities and then mismatches them to bodies or, alternatively, that God is otherwise unwilling or unable to correct a problem. The transgender ideology requires a _willingness_ to be blasphemous. The willingness to go there is tempted and justified by the assertion that it is hateful to question and/or **_refuse to validate the ideology_** of someone with gender disphoria, who claims to be mistreated when their political objectives are not accepted or personal social relationships are unsatisfying. This is the nature of that sophistry and it is done in Jesus’ name. The transgender “theology” asserts that Jesusonian compassion and acknowledgment of everyone as a child of God requires embracing _a priori_ a blasphemous concept of God.
 
 Christians and _Urantia Book_ adherents do the same thing. Here is one example of a _Urantia Book_ sophistry. It involves attempting to justify the transgender ideology by quoting > out of context. Literally, the context gets left out to make it seem like Jesus is saying that the same guidelines for unorganized personal interactions should be carried over wholesale into organized cultural efforts. This is an effort to conflate the difference between personal relationship, outreach ministry teachings related to “judge not” and group wisdom teachings related to leadership and knowing people by their fruits. ([UB 138:4.2](/en/The_Urantia_Book/138#p4_2))
 
@@ -94,11 +94,11 @@ If people are to be loved as children of God AND known by their fruits, then som
 
 ### Scientifically speaking
 
-What is obvious is that genes related to racial differences are able to homogenize and hybridize.  What is equally obvious is that genes related to reproduction remain distinct to their nature and function, in contrast to racial differences.
+What is obvious is that genes related to racial differences are able to homogenize and hybridize.  What is equally obvious is that genes related to reproduction remain distinct to their nature and function, in contrast to racial differences.
 
 People who try to equate the nature of the racial genetic spectrum that homogenizes and hybridizes over time with the enduring binary nature of gender genes are being _willfully stupid_. By their fruits they are known. No hate intended here. My prayers are with people who are so terribly misdirected in their thoughts and relationships that they feel a need to deny the obvious. But nobody of sound mind and even a relatively low order of intelligence needs an expert or a scientific experiment to inform them about this. Denial of the obvious is caused by other issues.
 
-An ideology that encourages destruction of the reproductive system is _willfully cruel_.
+An ideology that encourages destruction of the reproductive system is _willfully cruel_.
 
 Denying the obvious, not doubt, has its own internal karmic spiritual consequences, outside the bounds of speaking scientifically. In contrast, attempting to culturally normalize an ideology that encourages minors to mutilate their reproductive organs and re-formulate their associated hormonal functions crosses the spiritual line into cultural issues related to education and science. People twist the social sciences in all kinds of confusing ways, lacking wisdom with questions and with interpreting the data. Material science, on the other hand, cannot be twisted into supporting the transgender ideology. There is no functional sexual genetic spectrum. People who insist otherwise need our personal prayers and civilization needs our resistance to misguided efforts to normalize transgender ideology.
 
@@ -106,7 +106,7 @@ Denying the obvious, not doubt, has its own internal karmic spiritual consequenc
 
 > **Ever and anon, true prophets and teachers arose to denounce and expose shamanism.** Even the vanishing red man had such a prophet within the past hundred years, the Shawnee Tenskwatawa, who predicted the eclipse of the sun in 1806 and denounced the vices of the white man. Many true teachers have appeared among the various tribes and races all through the long ages of evolutionary history. **And they will ever continue to appear to challenge the shamans or priests of any age who oppose general education and attempt to thwart scientific progress.** ([UB 90:2.9](/en/The_Urantia_Book/90#p2_9))
 
-The transgender ideology is an attack on education and science. _Urantia Book_ teachings define what it means to be a prophet and Jesus encouraged the apostles, at least, to be living prophets. Was the spirit of the teaching intended only for Jesus’ apostles or is it also well applied today by students of _The_ _Urantia Book_?
+The transgender ideology is an attack on education and science. _Urantia Book_ teachings define what it means to be a prophet and Jesus encouraged the apostles, at least, to be living prophets. Was the spirit of the teaching intended only for Jesus’ apostles or is it also well applied today by students of _The_ _Urantia Book_?
 
 ## Jesus-Related Passages
 
@@ -204,7 +204,7 @@ The transgender ideology is an attack on education and science. _Urantia Book_ t
 
 > An effective philosophy of living is formed by a combination of cosmic insight and the total of one’s emotional reactions to the social and economic environment. Remember: While inherited urges cannot be fundamentally modified, emotional responses to such urges can be changed; therefore the moral nature can be modified, character can be improved. In the strong character emotional responses are integrated and co-ordinated, and thus is produced a unified personality. Deficient unification weakens  moral nature and engenders unhappiness. ([UB 140:4.8](/en/The_Urantia_Book/140#p4_8))
 
-> . . .  Though the Master declined to enter into such a conference with Rodan, he did receive him graciously and immediately directed that Nathaniel and Thomas should listen to all he had to say and tell him about the gospel in return. ([UB 160:0.1](/en/The_Urantia_Book/160#p0_1))
+> . . .  Though the Master declined to enter into such a conference with Rodan, he did receive him graciously and immediately directed that Nathaniel and Thomas should listen to all he had to say and tell him about the gospel in return. ([UB 160:0.1](/en/The_Urantia_Book/160#p0_1))
 
 1\. Rodan’s Greek Philosophy
 
@@ -593,7 +593,7 @@ Dangers Of Self-Gratification
 
 * Cross-reference study: [Gender Studies](/en/article/Halbert_Katzen/Gender_Studies).
 * Cross-reference study: [Cocreat- and Procreat- Coparental (Co)Partnership with God](/en/article/Halbert_Katzen/Cocreat_Procreat_Coparental_Copartnership).
-* Halbert Katzen’s essay _[In the Name of the Father](/en/article/Halbert_Katzen/In_the_Name_of_the_Father)_, which develops a philosophical foundation for using the word _Father_ for God that focuses in on the parental, personal, and freewill nature of our relationship to God.
+* Halbert Katzen’s essay _[In the Name of the Father](/en/article/Halbert_Katzen/In_the_Name_of_the_Father)_, which develops a philosophical foundation for using the word _Father_ for God that focuses in on the parental, personal, and freewill nature of our relationship to God.
 
 ## External links
 

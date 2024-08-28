@@ -3,7 +3,7 @@ title: "Eclipses Over Salem and Nineveh"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Bible, Astronomy
+tags: Bible, Astronomy, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -59,11 +59,11 @@ From the Old Testament we have:
 
 [**Gensis 14:**](/en/Bible/Genesis/14)
 
-> <sup><small>17</small></sup> After Abram returned from defeating Kedorlaomer and the kings allied with him, the king of Sodom came out to meet him in the Valley of Shaveh (that is, the King’s Valley). 
+> <sup><small>17</small></sup> After Abram returned from defeating Kedorlaomer and the kings allied with him, the king of Sodom came out to meet him in the Valley of Shaveh (that is, the King’s Valley). 
 > 
-> <sup><small>18</small></sup> Then Melchizedek king of Salem brought out bread and wine. He was priest of God Most High,
+> <sup><small>18</small></sup> Then Melchizedek king of Salem brought out bread and wine. He was priest of God Most High,
 > 
-> <sup><small>19</small></sup> and he blessed Abram, saying,
+> <sup><small>19</small></sup> and he blessed Abram, saying,
 > “Blessed be Abram by God Most High,
 > Creator of heaven and earth.
 > 
@@ -202,7 +202,7 @@ The day following the April 8<sup>th</sup> eclipse is also noteworthy for how it
 
 Is it time for the replacement team? Lucifer and Satan could not have wielded so much influence except that they were vested with powerful positions of celestial authority. Will Melchizedek, the king of righteousness, and a replacement team return with the coming eclipse to complete the restoration of order on our confused world that was started by Jesus?
 
-> …  John wrote: “I saw a new heaven and a new earth and the new Jerusalem coming down from God out of heaven, prepared as a princess adorned for the prince.” [Revelation 21:1-2](/en/Bible/Revelation/21#v1)
+> …  John wrote: “I saw a new heaven and a new earth and the new Jerusalem coming down from God out of heaven, prepared as a princess adorned for the prince.” [Revelation 21:1-2](/en/Bible/Revelation/21#v1)
 > 
 > This is the same renovated earth, the advanced planetary stage, that the olden seer envisioned when he wrote: “‘For, as the new heavens and the new earth, which I will make, shall remain before me, so shall you and your children survive; and it shall come to pass that from one new moon to another and from one Sabbath to another all flesh shall come to worship before me,’ says the Lord.” [Isaiah 66:22-23](/en/Bible/Isaiah/66#v22)
 > 

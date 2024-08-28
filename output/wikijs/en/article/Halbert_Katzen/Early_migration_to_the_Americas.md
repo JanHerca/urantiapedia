@@ -3,7 +3,7 @@ title: Early Migration to the Americas
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Anthropology
+tags: Anthropology, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---

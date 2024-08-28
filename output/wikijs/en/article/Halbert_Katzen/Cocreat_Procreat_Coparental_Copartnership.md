@@ -3,7 +3,7 @@ title: "Cocreat- Procreat- Coparental (Co)partnership with God"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Gender
+tags: Gender, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -29,7 +29,7 @@ _By Halbert Katzen J.D._
 
 ## Introduction
 
-This study aid organizes all usages of _coparental_, _copartnership_, _partnership with God_  the derivatives of _cocreat-_ and _procreat-_. At the end, there is a alphabetical chronological listing.
+This study aid organizes all usages of _coparental_, _copartnership_, _partnership with God_  the derivatives of _cocreat-_ and _procreat-_. At the end, there is a alphabetical chronological listing.
 
 Note the not surprisingly different contexts in which the concept of _cocreate_ vs. _procreate_ is used. We are _cocreators_ of our souls as freewill creatures _in_ _partnership_ with the indwelling spirit of God. In contrast, we are (normatively) willing _procreators_ as bisexual expressions of God’s creative design.
 
@@ -260,8 +260,8 @@ Consider also:
 ## See also:
 
 - Cross-reference study: [Gender Studies](/en/article/Halbert_Katzen/Gender_Studies).
-- Topical Study: [Is _The Urantia Book_ “gay friendly?”](/en/article/Halbert_Katzen/Is_UB_gay_friendly)
-- Halbert Katzen’s essay [_In the Name of the Father_](/en/article/Halbert_Katzen/In_the_Name_of_the_Father), which develops a philosophical foundation for using the word _Father_ for God that focuses in on the parental, personal, and freewill nature of our relationship to God.
+- Topical Study: [Is _The Urantia Book_ “gay friendly?”](/en/article/Halbert_Katzen/Is_UB_gay_friendly)
+- Halbert Katzen’s essay [_In the Name of the Father_](/en/article/Halbert_Katzen/In_the_Name_of_the_Father), which develops a philosophical foundation for using the word _Father_ for God that focuses in on the parental, personal, and freewill nature of our relationship to God.
 
 ## External links
 

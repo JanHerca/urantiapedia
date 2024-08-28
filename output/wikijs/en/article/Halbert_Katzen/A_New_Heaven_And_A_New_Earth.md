@@ -3,7 +3,7 @@ title: "A New Heaven And A New Earth"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Future
+tags: Future, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -35,11 +35,11 @@ _By Halbert Katzen J.D._
 
 > This world has never seriously or sincerely or honestly tried out these dynamic ideas and divine ideals of Jesus’ doctrine of the kingdom of heaven. But you should not become discouraged by the apparently slow progress of the kingdom idea on Urantia \[Earth\]. Remember that the order of progressive evolution is subjected to sudden and unexpected periodical changes in both the material and the spiritual worlds. The bestowal of Jesus as an incarnated Son was just such a strange and unexpected event in the spiritual life of the world. Neither make the fatal mistake, in looking for the age manifestation of the kingdom, of failing to effect its establishment within your own souls.![](/wp-content/uploads/2021/03/AriseShine-1024x653.jpeg) ([UB 170:4.14](/en/The_Urantia_Book/170#p4_14))
 
-> \[In further answer to Peter’s question, Jesus said . . .\] “But what is the significance of this teaching having to do with the coming of the Sons of God? Do you not perceive that, when each of you is called to lay down his life struggle and pass through the portal of death, you stand in the immediate presence of judgment, and that you are face to face with the facts of a new dispensation of service in the eternal plan of the infinite Father? What the whole world must face as a literal fact at the end of an age, you, as individuals, must each most certainly face as a personal experience when you reach the end of your natural life and thereby pass on to be confronted with the conditions and demands inherent in the next revelation of the eternal progression of the Father’s kingdom.” ([UB 176:2.7](/en/The_Urantia_Book/176#p2_7))
+> \[In further answer to Peter’s question, Jesus said . . .\] “But what is the significance of this teaching having to do with the coming of the Sons of God? Do you not perceive that, when each of you is called to lay down his life struggle and pass through the portal of death, you stand in the immediate presence of judgment, and that you are face to face with the facts of a new dispensation of service in the eternal plan of the infinite Father? What the whole world must face as a literal fact at the end of an age, you, as individuals, must each most certainly face as a personal experience when you reach the end of your natural life and thereby pass on to be confronted with the conditions and demands inherent in the next revelation of the eternal progression of the Father’s kingdom.” ([UB 176:2.7](/en/The_Urantia_Book/176#p2_7))
 
-If you are new to _The Urantia Book_ and somehow found yourself here first, this page is one of the most intriguing ways to get introduced to _The Urantia Book_, but you will need to roll along with this a little bit, as your understanding of _Urantia Book_ cosmology grows with reading through the material. General information for new visitors can be accessed on the [Home](https://ubannotated.com/) page, of course. Links and commentaries are inserted on this page to assist new visitors with getting up to speed.
+If you are new to _The Urantia Book_ and somehow found yourself here first, this page is one of the most intriguing ways to get introduced to _The Urantia Book_, but you will need to roll along with this a little bit, as your understanding of _Urantia Book_ cosmology grows with reading through the material. General information for new visitors can be accessed on the [Home](https://ubannotated.com/) page, of course. Links and commentaries are inserted on this page to assist new visitors with getting up to speed.
 
-This study is, perhaps, best thought of as a subtopic of the Topical Study: [Prophecy and “signs of the times”](/en/article/Halbert_Katzen/Prophecy_and_signs_of_the_times).
+This study is, perhaps, best thought of as a subtopic of the Topical Study: [Prophecy and “signs of the times”](/en/article/Halbert_Katzen/Prophecy_and_signs_of_the_times).
 
 A general knowledge of what is referred to in Christianity as the [Great Tribulation](https://en.wikipedia.org/wiki/Great_Tribulation) will support a deeper understanding of this material.
 
@@ -55,33 +55,33 @@ Is something like the Great Tribulation ever due to occur? Is it happening now? 
 
 We can study this together, notwithstanding that each of us must reach our own conclusions.
 
-Some students of _The Urantia Book_ are inclined to believe that no rapture, “end of the world,” apocalypse, or Judgment Day type event is going to happen to our planet. The following two paragraphs are often used to support this perspective:
+Some students of _The Urantia Book_ are inclined to believe that no rapture, “end of the world,” apocalypse, or Judgment Day type event is going to happen to our planet. The following two paragraphs are often used to support this perspective:
 
 > Urantia is the sentimental shrine of all Nebadon \[our section of the universe\], the chief of ten million inhabited worlds, the mortal home of Christ Michael \[Jesus\], sovereign of all Nebadon, a Melchizedek minister to the realms, a system savior, an Adamic redeemer, a seraphic fellow, an associate of ascending spirits, a morontia progressor, a Son of Man in the likeness of mortal flesh, and the Planetary Prince of Urantia. And your record tells the truth when it says that this same Jesus has promised sometime to return to the world of his terminal bestowal, the World of the Cross. ([UB 119:8.8](/en/The_Urantia_Book/119#p8_8))
 
 > “You behold me now in weakness and in the flesh, but when I return, it shall be with power and in the spirit. The eye of flesh beholds the Son of Man in the flesh, but only the eye of the spirit will behold the Son of Man glorified by the Father and appearing on earth in his own name.” ([UB 176:2.4](/en/The_Urantia_Book/176#p2_4))
 
-These two paragraphs lead some people to conclude that there needs to be continuity of habitation on our planet. But _The Urantia Book_ offers no particular teaching to support this presumption. Some type of rapture and return of those saved is also consistent with what is said (and referenced) on this subject.
+These two paragraphs lead some people to conclude that there needs to be continuity of habitation on our planet. But _The Urantia Book_ offers no particular teaching to support this presumption. Some type of rapture and return of those saved is also consistent with what is said (and referenced) on this subject.
 
-_The Urantia Book_ references passages in the Bible about a new heaven and a new earth in a manner that validates them.
+_The Urantia Book_ references passages in the Bible about a new heaven and a new earth in a manner that validates them.
 
-If our planet becomes uninhabitable for any reason, man-made or not, the celestial servants of God could restore it. Our God is a renewing and rehabilitating God. We should, at the very least, consider the possibility that the salvable population could be taken off the planet for a period of time and then returned after the celestials have done the work necessary to return it to a habitable state (and then some, as the prophecies indicate).
+If our planet becomes uninhabitable for any reason, man-made or not, the celestial servants of God could restore it. Our God is a renewing and rehabilitating God. We should, at the very least, consider the possibility that the salvable population could be taken off the planet for a period of time and then returned after the celestials have done the work necessary to return it to a habitable state (and then some, as the prophecies indicate).
 
 As much as we humans do need to work out our own problems on a personal spiritual level, we should never lose sight of the fact that we are the children of a world gone wrong–through no fault of our own–on a collective level. Humanity is not responsible for the Lucifer Rebellion or the Adamic default. We are experiencing enormous problems that we did not create and this led directly to causing us to mishandle circumstances that we do not understand.
 
 We are the children of an all-powerful, wise, and loving, just, and merciful God (Jesus). ALL THINGS are possible. Creative thinking is encouraged in spiritual teachings. It is even said that God works in strange ways. But there is nothing strange about the celestial hosts arriving to fix what is broken due to the Lucifer Rebellion and the default of Adam and Eve.
 
-Dramatic things–positive and negative–occurred when Jesus came as the Son of Man around 2000 years ago? Numerous natural and manmade events or combinations of events could render our planet uninhabitable. Given all this, is it really so strange to think that even more dramatic things will occur if Melchizedek returns after 4000 years on more than an emergency mission (to prepare the world for Jesus). Prophecies and _The Urantia Book_ indicate that the next phase involves a collective level of healing, restoration, and renewal.
+Dramatic things–positive and negative–occurred when Jesus came as the Son of Man around 2000 years ago? Numerous natural and manmade events or combinations of events could render our planet uninhabitable. Given all this, is it really so strange to think that even more dramatic things will occur if Melchizedek returns after 4000 years on more than an emergency mission (to prepare the world for Jesus). Prophecies and _The Urantia Book_ indicate that the next phase involves a collective level of healing, restoration, and renewal.
 
-A looser but intriguing enough connection between this topic and prophecy includes what is attributed to be a [prophecy received by George Washington](https://sign.org/articles/george-washingtons-vision-and-prophecy-about-america-158453).  
+A looser but intriguing enough connection between this topic and prophecy includes what is attributed to be a [prophecy received by George Washington](https://sign.org/articles/george-washingtons-vision-and-prophecy-about-america-158453).  
 
 In any case, the good news is that, if the whole earth is going to be renewed, I suppose we do not need to be concerned about showing up anywhere in particular or what to pack for the trip. On the other hand, seeing as there is a full solar eclipse on the schedule for April 8, 2024 at Bald Knob Cross of Peace, if you want to be hopeful about all of this with a bunch of other people, I look forward to seeing you there.
 
 ## The Great Tribulation: teachings and prophecies about a new heaven and a new earth
 
-This study provides a look at the text surrounding several places where _The Urantia Book_ quotes Biblical passages. Then, it reviews how several words and phrases are used in _The Urantia Book_ (new earth, end of the world, and crisis/crises) and finishes with select passages in Daniel and Enoch related to Jesus’ use of the term “Son of Man.”
+This study provides a look at the text surrounding several places where _The Urantia Book_ quotes Biblical passages. Then, it reviews how several words and phrases are used in _The Urantia Book_ (new earth, end of the world, and crisis/crises) and finishes with select passages in Daniel and Enoch related to Jesus’ use of the term “Son of Man.”
 
-In the following five paragraphs, _The Urantia Book_ calls our attention to past revelations and teachings about a new heaven and new earth.
+In the following five paragraphs, _The Urantia Book_ calls our attention to past revelations and teachings about a new heaven and new earth.
 
 > It was of the conclusion of the terminal mission of the Teacher Sons (at least that would be the chronology on a normal world) that John wrote: “I saw a new heaven and a new earth and the new Jerusalem coming down from God out of heaven, prepared as a princess adorned for the prince.”
 > 
@@ -205,7 +205,7 @@ The quote concerning the new heaven and new earth found in the last paragraph is
 > 
 > <sup><small>4</sup></small>  And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as they were from the beginning of the creation.
 > 
-> <sup><small>7</sup></small>  But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men.  . . .
+> <sup><small>7</sup></small>  But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men.  . . .
 > 
 > <sup><small>10</sup></small>  But the day of the Lord will come as a thief in the night; in which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up.
 > 
@@ -307,13 +307,13 @@ The quote concerning the new heaven and new earth found in the last paragraph is
 
 ## Son of Man
 
-Expanding on _Urantia Book_ teaching about the “Son of Man”:
+Expanding on _Urantia Book_ teaching about the “Son of Man”:
 
 > In the course of this year Jesus found a passage in the so-called Book of Enoch which influenced him in the later adoption of the term “Son of Man” as a designation for his bestowal mission on Urantia. He had thoroughly considered the idea of the Jewish Messiah and was firmly convinced that he was not to be that Messiah. He longed to help his father’s people, but he never expected to lead Jewish armies in overthrowing the foreign domination of Palestine. He knew he would never sit on the throne of David at Jerusalem. Neither did he believe that his mission was that of a spiritual deliverer or moral teacher solely to the Jewish people. In no sense, therefore, could his life mission be the fulfillment of the intense longings and supposed Messianic prophecies of the Hebrew scriptures; at least, not as the Jews understood these predictions of the prophets. Likewise he was certain he was never to appear as the Son of Man depicted by the Prophet Daniel. \[But does this mean that Machiventa Melchizedek, Vicegerent Planetary Prince of Urantia, will not come back in fulfillment of this prophecy?\] ([UB 126:3.6](/en/The_Urantia_Book/126#p3_6))
 
 > While turning all these problems over in his mind, he found in the synagogue library at Nazareth, among the apocalyptic books which he had been studying, this manuscript called “The Book of Enoch”; and though he was certain that it had not been written by Enochof old, it proved very intriguing to him, and he read and reread it many times. There was one passage which particularly impressed him, a passage in which this term “Son of Man” appeared. The writer of this so-called Book of Enochwent on to tell about this Son of Man, describing the work he would do on earth and explaining that this Son of Man, before coming down on this earth to bring salvation to mankind, had walked through the courts of heavenly glory with his Father, the Father of all; and that he had turned his back upon all this grandeur and glory to come down on earth to proclaim salvation to needy mortals. As Jesus would read these passages (well understanding that much of the Eastern mysticism which had become admixed with these teachings was erroneous), he responded in his heart and recognized in his mind that of all the Messianic predictions of the Hebrew scriptures and of all the theories about the Jewish deliverer, none was so near the truth as this story tucked away in this only partially accredited Book of Enoch; and he then and there decided to adopt as his inaugural title “the Son of Man.” And this he did when he subsequently began his public work. Jesus had an unerring ability for the recognition of truth, and truth he never hesitated to embrace, no matter from what source it appeared to emanate. ([UB 126:3.8](/en/The_Urantia_Book/126#p3_8))
 
-[THE BOOK OF ENOCH. CHAPTER 71](/en/Bible/Book_of_Enoch/71).
+[THE BOOK OF ENOCH. CHAPTER 71](/en/Bible/Book_of_Enoch/71).
 
 > <sup><small>1</sup></small>  And it came to pass after this that my spirit was translated And it ascended into the heavens: And I saw the holy sons of God. They were stepping on flames of fire: Their garments were white \[and their raiment\], And their faces shone like snow.
 > <sup><small>2</sup></small>  And I saw two streams of fire, And the light of that fire shone like hyacinth, And I fell on my face before the Lord of Spirits.
@@ -374,7 +374,7 @@ Expanding on _Urantia Book_ teaching about the “Son of Man”:
 > 
 > <sup><small>28</sup></small>  Hitherto is the end of the matter. As for me Daniel, my cogitations much troubled me, and my countenance changed in me: but I kept the matter in my heart.
 
-And finally, a few more passages about Daniel from _The Urantia Book_:
+And finally, a few more passages about Daniel from _The Urantia Book_:
 
 > National egotism, false faith in a misconceived promised Messiah, and the increasing bondage and tyranny of the priesthood forever silenced the voices of the spiritual leaders (excepting Daniel, Ezekiel, Haggai, and Malachi); and from that day to the time of John the Baptist all Israel experienced an increasing spiritual retrogression. But the Jews never lost the concept of the Universal Father; even to the twentieth century after Christ they have continued to follow this Deity conception. \[Note the implication that Daniel is not suffering from misconceived notions about a promised Messiah.\] ([UB 97:10.3](/en/The_Urantia_Book/97#p10_3))
 

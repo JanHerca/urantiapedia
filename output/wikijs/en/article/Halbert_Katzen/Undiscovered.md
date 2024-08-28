@@ -3,7 +3,7 @@ title: "Undiscovered"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Science, The Urantia Book
+tags: Science, The Urantia Book, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -27,19 +27,19 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 _By Halbert Katzen J.D._
 
-The word _undiscovered_ is used 13 times in 11 paragraphs_._ The first five paragraphs associate what is _undiscovered_ with energy. Then, when explaining the Limitations on Revelation, it is used in relationship to undiscovered facts. The last three paragraphs all have to do with undiscovered ideals.
+The word _undiscovered_ is used 13 times in 11 paragraphs_._ The first five paragraphs associate what is _undiscovered_ with energy. Then, when explaining the Limitations on Revelation, it is used in relationship to undiscovered facts. The last three paragraphs all have to do with undiscovered ideals.
 
-Note below (42:8.6) how the revelators seem to suggest that discovering the undiscovered energy is related to understanding the difference between _cohesion_ and _adhesion_ as these forces are related to the proton and neutron, respectively.
+Note below (42:8.6) how the revelators seem to suggest that discovering the undiscovered energy is related to understanding the difference between _cohesion_ and _adhesion_ as these forces are related to the proton and neutron, respectively.
 
-There is substantial evidence to suggest that [Joseph Wesley Newman developed a unified field theory](https://ubannotated.com/wp-content/uploads/2021/12/Newman-J-Book.pdf) ([Part II](https://ubannotated.com/wp-content/uploads/2021/12/Newman2.pdf)) that makes it possible to tap into this undiscovered energy. The previous two links take you to PDF’s that are easy to read and go through the first 111 pages of Joseph Newman’s book, which has detailed descriptions, photographs, and graphic aids detailing how his understanding of science and his technology works. [This link](https://archive.org/details/TheEnergyMachineOfJosephNewman8thEdition/mode/2up) takes you to the complete text of the last edition, but the quality is not quite as good.
+There is substantial evidence to suggest that [Joseph Wesley Newman developed a unified field theory](https://ubannotated.com/wp-content/uploads/2021/12/Newman-J-Book.pdf) ([Part II](https://ubannotated.com/wp-content/uploads/2021/12/Newman2.pdf)) that makes it possible to tap into this undiscovered energy. The previous two links take you to PDF’s that are easy to read and go through the first 111 pages of Joseph Newman’s book, which has detailed descriptions, photographs, and graphic aids detailing how his understanding of science and his technology works. [This link](https://archive.org/details/TheEnergyMachineOfJosephNewman8thEdition/mode/2up) takes you to the complete text of the last edition, but the quality is not quite as good.
 
 An example of the ongoing and organized effort to misrepresent the facts of his life and work can be seen here on Wikipedia: [Newman’s energy machine](https://en.wikipedia.org/wiki/Newman%27s_energy_machine):
 
-In 1979, Newman submitted an application for his device to the United States Patent and Trademark Office. The application was eventually rejected in 1983, which set off a lengthy court battle. The United States District Court requested a master of the court to make the final decision. William E. Schuyler, Jr, former Commissioner of U.S. Patent Office, Washington, DC was chosen by the court to make the final decision to award the patent or not award the patent to Newman. Schuyler supposed that evidence to support Newman’s claim was overwhelming and found no contradictory factual evidence.
+In 1979, Newman submitted an application for his device to the United States Patent and Trademark Office. The application was eventually rejected in 1983, which set off a lengthy court battle. The United States District Court requested a master of the court to make the final decision. William E. Schuyler, Jr, former Commissioner of U.S. Patent Office, Washington, DC was chosen by the court to make the final decision to award the patent or not award the patent to Newman. Schuyler supposed that evidence to support Newman’s claim was overwhelming and found no contradictory factual evidence.
 
 However, the judge ordered Newman’s machine to be tested by the National Bureau of Standards (NBS). The National Bureau of Standards (NBS), now known as the National Institute of Standards and Technology (NIST), by request of the patent office, tested the device for several months and got negative results. In every case presented in the NBS report, the output power was less than power input from the battery pack, and therefore the efficiency was less than 100%. The court therefore upheld the rejection of the patent application.
 
-Notice how this write up implies [William E. Schuyler, Jr.](https://www.uspto.gov/about-us/william-e-schuyler-jr) (both an electrical engineer and an attorney) did not test the machine but just “supposed” things in order to make his decision. Do you really think that he was called in “by the court to make the final decision” but did not take the time to sufficiently test the machine? Why would the judge refuse to accept the findings of the special master that he hired?
+Notice how this write up implies [William E. Schuyler, Jr.](https://www.uspto.gov/about-us/william-e-schuyler-jr) (both an electrical engineer and an attorney) did not test the machine but just “supposed” things in order to make his decision. Do you really think that he was called in “by the court to make the final decision” but did not take the time to sufficiently test the machine? Why would the judge refuse to accept the findings of the special master that he hired?
 
 A review of the facts reveals that Newman’s machine is not supposed to be grounded. The National Bureau of Standards knew this and grounded the machine before testing it. Schuyler tested it as it was intended to operated, ungrounded.
 
@@ -59,7 +59,7 @@ This is a [30-minute video of Joseph Newman](https://bit.ly/3XkUpIH), explaining
 
 > The mesotron explains certain cohesive properties of the atomic nucleus, but it does not account for the cohesion of proton to proton nor for the adhesion of neutron to neutron. The paradoxical and powerful force of atomic cohesive integrity is a form of energy as yet undiscovered on Urantia. ([UB 42:8.6](/en/The_Urantia_Book/42#p8_6))
 
-## Additional use of _“undiscovered”_ with_“energy(ies)”_ in the same paragraph.
+## Additional use of _“undiscovered”_ with_“energy(ies)”_ in the same paragraph.
 
 \[For additional noteworthy context, three paragraphs are included in this first entry.\]
 

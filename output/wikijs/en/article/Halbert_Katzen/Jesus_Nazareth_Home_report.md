@@ -3,7 +3,7 @@ title: "Jesus’ Nazareth Home report"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Jesus, Jesus places
+tags: Jesus, Jesus places, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -37,7 +37,7 @@ Published in June 2022. Last update: August 2022.
 
 Is Jesus of Nazareth’s childhood home located at the Sisters of Nazareth convent location?
 
-Historically, there have been two primary locations associated with the announcement to Mary by the angel Gabriel that she would give birth to Jesus. For the western tradition, it is the Church (or Basilica) of the Annunciation. For the eastern tradition, it is Mary’s Well. The archaeological site at the Sisters of Nazareth convent location is about 500 ft. away from the  Church of the Annunciation.
+Historically, there have been two primary locations associated with the announcement to Mary by the angel Gabriel that she would give birth to Jesus. For the western tradition, it is the Church (or Basilica) of the Annunciation. For the eastern tradition, it is Mary’s Well. The archaeological site at the Sisters of Nazareth convent location is about 500 ft. away from the  Church of the Annunciation.
 
 The sisters have always been aware of the possibility, since taking possession back in the mid 1800’s, that it could be the site of Jesus’ childhood home. But over the years, no one really wanted to make a big deal about it for political reasons. As well, it should be mentioned from the outset, there is not clear proof either way.
 
@@ -48,7 +48,7 @@ Fortunately, political concerns have been diminishing over time, allowing those 
 <figcaption>One-room home, hearth on the left. Plus, eventually, the addition through the door for a workshop and sleeping quarters.</figcaption>
 </figure>
 
-However, in 2000, amateur archaeologist Stephen Shanahan, using _Urantia Book_ descriptions of the location of Jesus’ home, found that the Sisters of Nazareth convent site was the best fit. And more importantly, he was able to identify two stone slabs at the site that are consistent with _The Urantia Book’s_ description of the family dining table at the Nazareth home_._
+However, in 2000, amateur archaeologist Stephen Shanahan, using _Urantia Book_ descriptions of the location of Jesus’ home, found that the Sisters of Nazareth convent site was the best fit. And more importantly, he was able to identify two stone slabs at the site that are consistent with _The Urantia Book’s_ description of the family dining table at the Nazareth home_._
 
 Apparently, the nature of the stone slabs—large and plain—helped them survive and remain roughly _in situ_. They could not be easily removed and their historical significance is not readily apparent. Even still, the placement of one of the slabs in a tomb suggests that it was considered a significant artifact.
 
@@ -69,7 +69,7 @@ In 1881, French nuns established the Sisters of Nazareth convent. A construction
 
 The [Madain Project](https://madainproject.com/sisters_of_nazareth_archaeological_site), a resource for “Abrahamic History and Archaeology,” has a page dedicated to this topic. Its “References” section is noteworthy for including references that date back to 1923.
 
-Archaeologist Ken Dark serves as director of the Research Centre for Late Antiquity and Byzantine Studies at the University of Reading. His involvement with the Nazareth Archaeological Project has led to numerous publications that discuss the significance of the research. This [2015 Biblical Archaeology Society article](https://www.baslibrary.org/biblical-archaeology-review/41/2/7) reviews the abundance of circumstantial evidence that supports consideration of the Sisters of Nazareth convent location.
+Archaeologist Ken Dark serves as director of the Research Centre for Late Antiquity and Byzantine Studies at the University of Reading. His involvement with the Nazareth Archaeological Project has led to numerous publications that discuss the significance of the research. This [2015 Biblical Archaeology Society article](https://www.baslibrary.org/biblical-archaeology-review/41/2/7) reviews the abundance of circumstantial evidence that supports consideration of the Sisters of Nazareth convent location.
 
 An [article, based on Dark’s book](https://bibleinterp.arizona.edu/articles/sisters-nazareth-site), _The Sisters of Nazareth Convent: A Roman-period, Byzantine, and Crusader site in central Nazareth_, both published in 2020, concludes with these remarks:
 
@@ -93,7 +93,7 @@ In 2000, emboldened by _The Urantia Book’s_ claim that its “historic facts �
 <figcaption>Close up of stone table after it was placed at the hearth.</figcaption>
 </figure>
 
-_The Urantia Book_ teaches that Mary and Joseph had eight more children after Jesus, which necessitated extending the original table. All four of the references to a “stone table” in _The Urantia Book_ are used to identify the family table at the Nazareth home.:
+_The Urantia Book_ teaches that Mary and Joseph had eight more children after Jesus, which necessitated extending the original table. All four of the references to a “stone table” in _The Urantia Book_ are used to identify the family table at the Nazareth home.:
 
 One evening about sundown, before Joseph had returned home, Gabriel appeared to Mary by the side of a low stone table and, after she had recovered her composure, said: “I come at the bidding of one who is my Master and whom you shall love and nurture. To you, Mary, I bring glad tidings when I announce that the conception within you is ordained by heaven, and that in due time you will become the mother of a son; you shall call him Joshua, and he shall inaugurate the kingdom of heaven on earth and among men. Speak not of this matter save to Joseph and to Elizabeth, your kinswoman, to whom I have also appeared, and who shall presently also bear a son, whose name shall be John, and who will prepare the way for the message of deliverance which your son shall proclaim to men with great power and deep conviction. And doubt not my word, Mary, for this home has been chosen as the mortal habitat of the child of destiny. My benediction rests upon you, the power of the Most Highs will strengthen you, and the Lord of all the earth shall overshadow you.” [UB 122:3.1](/en/The_Urantia_Book/122#p3_1)
 
@@ -151,7 +151,7 @@ The following is a re-presentation of communications, images, and articles provi
 
 “When I began my world ministry in 2001, it was she who conducted the tours of the excavations every time I annually took a group of pilgrims to the convent as one aspect of my ministry, hence my recordings of Sr. Margareta speaking.
 
-“The Sisters of Nazareth is a French Order of primary school teaching nuns. Directly opposite them in Nazareth, for example, is the school they founded in Nazareth. In later years, however, Sister Margareta returned to Spain or France. A slightly younger sister who was newly arrived in Israel took over the task of showing guests, pilgrims and visitors the excavations. Perhaps after a while she was negatively affected by running the tours. Perhaps some visitors might have argued against the site being the holy family’s home. Or perhaps she preferred to stick to the Catholic Church’s story that the Basilica down at the end of the street was the real location of the holy family home. Regardless, she had soured to the idea and was a devout _unbeliever_ and appeared to treat her role as tour guide of the excavations as though it was a most onerous task that she would rather be rid of as soon as possible.
+“The Sisters of Nazareth is a French Order of primary school teaching nuns. Directly opposite them in Nazareth, for example, is the school they founded in Nazareth. In later years, however, Sister Margareta returned to Spain or France. A slightly younger sister who was newly arrived in Israel took over the task of showing guests, pilgrims and visitors the excavations. Perhaps after a while she was negatively affected by running the tours. Perhaps some visitors might have argued against the site being the holy family’s home. Or perhaps she preferred to stick to the Catholic Church’s story that the Basilica down at the end of the street was the real location of the holy family home. Regardless, she had soured to the idea and was a devout _unbeliever_ and appeared to treat her role as tour guide of the excavations as though it was a most onerous task that she would rather be rid of as soon as possible.
 
 “My pilgrims noticed her attitude, and her desire to reshape the excavations so that they no longer resembled “the holy family home” and were simply evidence of an early Christian home, with tomb cavities beneath it, and with evidence of one-time Crusader presence. It seemed to me that by so doing she would personally avoid conflict between the two sites, the convent with its extensive evidence, and the home beneath the mighty stone construction of the Catholic Church’s Basilica of the Annunciation standing in regal glory and pomp just a hundred yards away.
 

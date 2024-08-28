@@ -3,7 +3,7 @@ title: "Melchizedek and the Dead Sea Scrolls Report"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Bible, Machiventa
+tags: Bible, Machiventa, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---

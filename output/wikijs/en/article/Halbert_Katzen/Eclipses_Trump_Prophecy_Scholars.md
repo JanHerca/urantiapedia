@@ -3,7 +3,7 @@ title: "Eclipses Trump Prophecy Scholars"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Future
+tags: Future, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -51,7 +51,7 @@ _The Urantia Book_ even points out the importance of [Isaiah 66:22-23](/en/Bible
 
 > … join in the hope of the one who wrote: “Nevertheless we, according to His promise, look for a new heaven and a new earth, wherein dwells righteousness. Wherefore, beloved, seeing that you look for such things, be diligent that you may be found by Him in peace, without spot and blameless.” [2 Peter 3](/en/Bible/2_Peter/3) \[See Topical Study: [A New Heaven And A New Earth](/en/article/Halbert_Katzen/A_New_Heaven_And_A_New_Earth).\] ([UB 52:7.15](/en/The_Urantia_Book/52#p7_15))
 
-_The Urantia Book_ encourages humanity to become spiritually united through belief in the simple gospel message. It also teaches that Jesus lived a perfect life, had a pre-existing divine relation to our universe before incarnating in the flesh, performed miracles that included raising Lazarus from the dead, resurrected on the third day and ascended to the Father, where all power in heaven and on earth was placed in his hands. Yet even with shared beliefs of this nature, many Christian scholars are nonetheless inclined to say _Urantia Book_ teachings “come from the devil” and are meant to deceive. And they do this even though the New Testament does not teach that Jesus said the Old Testament should be treated as the “Word of God”; Jesus taught, “Don’t put new wine in old skins.” Nor does the New Testament say that Jesus taught his followers about a future written record of his life that should be treated as the “Word of God.”
+_The Urantia Book_ encourages humanity to become spiritually united through belief in the simple gospel message. It also teaches that Jesus lived a perfect life, had a pre-existing divine relation to our universe before incarnating in the flesh, performed miracles that included raising Lazarus from the dead, resurrected on the third day and ascended to the Father, where all power in heaven and on earth was placed in his hands. Yet even with shared beliefs of this nature, many Christian scholars are nonetheless inclined to say _Urantia Book_ teachings “come from the devil” and are meant to deceive. And they do this even though the New Testament does not teach that Jesus said the Old Testament should be treated as the “Word of God”; Jesus taught, “Don’t put new wine in old skins.” Nor does the New Testament say that Jesus taught his followers about a future written record of his life that should be treated as the “Word of God.”
 
 For someone who believes in Jesus and the simple gospel message of the Fatherhood of God and salvation by faith, the question naturally arises, “Is a belief about the Bible being placed above belief in Jesus and the gospel message that he taught, which saved people before he was even crucified?” As a Jew, a kohen even, who believes in Jesus, this tendency _to judge_ the faith and beliefs and intentions of others based on beliefs about whether the Bible is the Word of God strikes me as inconsistent with what Jesus taught and how he lived his life, perhaps even dangerously inconsistent.
 
@@ -126,7 +126,7 @@ A series of mysterious events transpired during the 1920’s. The Sadlers were c
 
 When the process was over, the result was _The Urantia Book_. Interestingly, when combined with teachings from the book about how we have come to be known on other planets as “the world of the Cross,” _Urantia_ etymologically means: “Known in the heavens as the world of the cross.” Importantly, for the purposes of this discussion, in the seven hundred pages dedicated to the life and teachings of Jesus, _The Urantia Book_ asserts that Jesus was born August 21<sup>st</sup> and that April 8 is the day between crucifixion and resurrection. That is the homerun off a curve ball! A grand slam, even, considering that it also teaches this:
 
-> …  John wrote: “I saw a new heaven and a new earth and the new Jerusalem coming down from God out of heaven, prepared as a princess adorned for the prince.” [Revelation 21:1-2](/en/Bible/Revelation/21#v1) [UB 52:7.11](/en/The_Urantia_Book/52#p7_11)
+> …  John wrote: “I saw a new heaven and a new earth and the new Jerusalem coming down from God out of heaven, prepared as a princess adorned for the prince.” [Revelation 21:1-2](/en/Bible/Revelation/21#v1) [UB 52:7.11](/en/The_Urantia_Book/52#p7_11)
 
 > This is the same renovated earth, the advanced planetary stage, that the olden seer envisioned when he wrote: “‘For, as the new heavens and the new earth, which I will make, shall remain before me, so shall you and your children survive; and it shall come to pass that from one new moon to another and from one Sabbath to another all flesh shall come to worship before me,’ says the Lord.” [Isaiah 66:22-23](/en/Bible/Isaiah/66#v22) ([UB 52:7.12](/en/The_Urantia_Book/52#p7_12))
 
@@ -164,7 +164,7 @@ The 2022 midterm election cycle provides an ongoing opportunity for candidates t
 
 There is even a bit of added intrigue for the Qanon crowd. Check out this image of the first eclipse at Bald Knob, when a cloud briefly passed over it. Of course, it pairs beautifully with:
 
->  “And there will be signs in sun and moon and stars, and on the earth distress of nations in perplexity …” ([Luke 21:25](/en/Bible/Luke/21#v25))
+>  “And there will be signs in sun and moon and stars, and on the earth distress of nations in perplexity …” ([Luke 21:25](/en/Bible/Luke/21#v25))
 
 No matter what exactly happens, tensions always mount in the lead up to a presidential election. Not to be pessimistic, but things are probably going to get worse socially and politically. As this country and the world become increasingly distressed and as the 2024 presidential race looms large on the horizon, the second eclipse will start to be discussed in the media, and they will mention it in relationship to the 2017 eclipse. The Christcrossing eclipses over Bald Knob will become a focus of attention.
 

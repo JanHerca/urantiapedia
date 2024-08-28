@@ -3,7 +3,7 @@ title: "Gender Studies"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Gender
+tags: Gender, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -35,37 +35,37 @@ Sometimes the number of paragraphs are counted. Sometimes the number of times a 
 - **G(g)ods:** 196 (mixed capitalization); **goddesses:** 2 (never capitalized)  
 - **God the Father:** 62; **God the Mother:** 1
 
-- *F(f)ather:** 2,129;   **M(m)other:** 394  
-- *F(f)athers:** 110 (mixed capitalization);   **M(m)others:** 27 (capitalized once)  
-- **Universal Father:** 500;   **Universal Mother:** 2  
-- **Eternal Father:** 1 (in the Foreword);   **Eternal Mother:** 4 (always followed by –_Son_ or _Son_)  
-- **eternal Father:** 15;   **eternal Mother:** 0  
-- **eternal father:** 0;   **eternal mother:** 1 (_mother-makers_ is used once in the same paragraph)
+- *F(f)ather:** 2,129;   **M(m)other:** 394  
+- *F(f)athers:** 110 (mixed capitalization);   **M(m)others:** 27 (capitalized once)  
+- **Universal Father:** 500;   **Universal Mother:** 2  
+- **Eternal Father:** 1 (in the Foreword);   **Eternal Mother:** 4 (always followed by –_Son_ or _Son_)  
+- **eternal Father:** 15;   **eternal Mother:** 0  
+- **eternal father:** 0;   **eternal mother:** 1 (_mother-makers_ is used once in the same paragraph)
 
-- **Father-Son:** 31;   **Mother-Son**: 3  
-- **Father Son:** 0;   **Mother Son:** 5  
+- **Father-Son:** 31;   **Mother-Son**: 3  
+- **Father Son:** 0;   **Mother Son:** 5  
 - **Father-Father:** 1; **Father-Mother:** 0  
 - **father-mother:** 1; **mother-mother:** 0
 
 ## **Terminology without capitalization conventions**
 
-- **fatherhood:** 51;   **motherhood:** 4  
-- **fatherly:** 25;   **motherly:** 0  
-- **fathered:** 2;   **mothered:** 1  
-- **father-family:** 7;   **mother-family:** 10  
-- **fatherliness:** 1;   **motherliness:** 0
+- **fatherhood:** 51;   **motherhood:** 4  
+- **fatherly:** 25;   **motherly:** 0  
+- **fathered:** 2;   **mothered:** 1  
+- **father-family:** 7;   **mother-family:** 10  
+- **fatherliness:** 1;   **motherliness:** 0
 
-- **paternal:** 4;   **maternal:** 6  
-- **paternalistic:** 2;   **maternalistic:** 0  
-- **patriarch(al,s**): 6;   **matriarch(al):** 0
+- **paternal:** 4;   **maternal:** 6  
+- **paternalistic:** 2;   **maternalistic:** 0  
+- **patriarch(al,s**): 6;   **matriarch(al):** 0
 
-- **male(s):** 49;   **female(s):** 39  
-- **manly(-iness):** 6;   **womanly:** 0  
-- **masculine:** 0;   **feminine:** 2
+- **male(s):** 49;   **female(s):** 39  
+- **manly(-iness):** 6;   **womanly:** 0  
+- **masculine:** 0;   **feminine:** 2
 
-- **brotherly:** 24;   **sisterly:** 0  
-- **brotherhood:** 179;   **sisterhood:** 0  
-- **boyish:** 1;   **girlish:** 0
+- **brotherly:** 24;   **sisterly:** 0  
+- **brotherhood:** 179;   **sisterhood:** 0  
+- **boyish:** 1;   **girlish:** 0
 
 ## Lists for infrequently used words.
 
@@ -274,8 +274,8 @@ Sometimes the number of paragraphs are counted. Sometimes the number of times a 
 ## See also:
 
 - Cross-reference study: [Cocreat- and Procreat- Coparental (Co)Partnership with God](/en/article/Halbert_Katzen/Cocreat_Procreat_Coparental_Copartnership).
-- Topical Study: [Is _The Urantia Book_ “gay friendly?”](/en/article/Halbert_Katzen/Is_UB_gay_friendly)
-- Halbert Katzen’s essay [_In the Name of the Father_](/en/article/Halbert_Katzen/In_the_Name_of_the_Father), which develops a philosophical foundation for using the word _Father_ for God that focuses in on the parental, personal, and freewill nature of our relationship to God.
+- Topical Study: [Is _The Urantia Book_ “gay friendly?”](/en/article/Halbert_Katzen/Is_UB_gay_friendly)
+- Halbert Katzen’s essay [_In the Name of the Father_](/en/article/Halbert_Katzen/In_the_Name_of_the_Father), which develops a philosophical foundation for using the word _Father_ for God that focuses in on the parental, personal, and freewill nature of our relationship to God.
 
 ## External links
 

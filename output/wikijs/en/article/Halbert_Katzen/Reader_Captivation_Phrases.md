@@ -3,7 +3,7 @@ title: "Reader Captivation Phrases"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: The Urantia Book
+tags: The Urantia Book, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -27,7 +27,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 _By Halbert Katzen J.D._
 
-Reader Captivation Phrases focuses on words and phrases that are used to personalize the experience of reading _The Urantia_ _Book._ They encourage reflection on particular points and indicate when human comprehension limitations come into play. The extreme end of the spectrum is its own study: [Beyond Human (Comprehension, Imagination …)](/en/article/Halbert_Katzen/beyond_human). This study includes: “pause to consider,” “you should consider,” “consider the status,” “ponder,” and “you can hardly conceive/imagine/comprehend/realize/understand.”
+Reader Captivation Phrases focuses on words and phrases that are used to personalize the experience of reading _The Urantia_ _Book._ They encourage reflection on particular points and indicate when human comprehension limitations come into play. The extreme end of the spectrum is its own study: [Beyond Human (Comprehension, Imagination …)](/en/article/Halbert_Katzen/beyond_human). This study includes: “pause to consider,” “you should consider,” “consider the status,” “ponder,” and “you can hardly conceive/imagine/comprehend/realize/understand.”
 
 “Pause to consider” is used nine times and all instances are chronologically provided at the end of this study for separate consideration as a turn of phrase.
 

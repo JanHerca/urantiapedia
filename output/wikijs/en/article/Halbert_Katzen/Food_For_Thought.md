@@ -3,7 +3,7 @@ title: "Food For Thought"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: The Urantia Book
+tags: The Urantia Book, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -43,7 +43,7 @@ Regarding the following thematic presentation of material, consider this Topical
 
 This Topical Study emphasizes a third concept:
 
-> Mankind was not consigned to agricultural toil as the penalty of supposed sin. “In the sweat of your face shall you eat the fruit of the fields” was not a sentence of punishment pronounced because of man’s participation in the follies of the Lucifer rebellion …  Work with the soil is not a curse; rather is it the highest blessing to all who are thus permitted to enjoy the most human of all human activities. ([UB 66:7.19](/en/The_Urantia_Book/66#p7_19))
+> Mankind was not consigned to agricultural toil as the penalty of supposed sin. “In the sweat of your face shall you eat the fruit of the fields” was not a sentence of punishment pronounced because of man’s participation in the follies of the Lucifer rebellion …  Work with the soil is not a curse; rather is it the highest blessing to all who are thus permitted to enjoy the most human of all human activities. ([UB 66:7.19](/en/The_Urantia_Book/66#p7_19))
 
 Interestingly enough, gardening—“the highest blessing,” according to _The Urantia Book_—started out as woman’s work and then became the work of slaves. Increasingly, it becomes the work of machines.
 
