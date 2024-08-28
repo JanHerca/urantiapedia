@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Gilles Bertrand<br>© 2023 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marc_Belleau/Equite_et_ecoresponsabilite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Équité et écoresponsabilité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-363-janvier-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 363 — Janvier 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/La_mentalite_juive_Jesus_et_nous_au_21e_siecle">
+          <span class="pr-2">La mentalité juive, Jésus et nous au 21e siècle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Gilles_Bertrand.jpg">
@@ -58,3 +82,27 @@ Dans ce récit, les personnages ne sont pas fictifs et l'histoire est vraie. J'e
 
 À ce moment-là, je me rappelle avoir pensé : « $j$ 'ai besoin d'un peu de repos avant mon prochain quart de travail qui commence dans quelques heures. J'espère qu'il va pleuvoir ce soir, cela fera surement baisser la température ».
 <br style="clear:both;"/>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marc_Belleau/Equite_et_ecoresponsabilite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Équité et écoresponsabilité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-363-janvier-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 363 — Janvier 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/La_mentalite_juive_Jesus_et_nous_au_21e_siecle">
+          <span class="pr-2">La mentalité juive, Jésus et nous au 21e siècle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

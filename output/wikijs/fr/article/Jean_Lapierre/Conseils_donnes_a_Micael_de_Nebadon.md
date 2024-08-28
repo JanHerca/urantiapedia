@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Jean Lapierre<br>© 2023 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Les_agregats_de_matiere_sur_les_niveaux_despace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les agrégats de matière sur les niveaux d'espace extérieur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-366-avril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Avril 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eric_Tarissan/Charte_canadienne_des_droits_et_libertes">
+          <span class="pr-2">Charte canadienne des droits et libertés</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Jean_Lapierre.jpg">
@@ -102,3 +126,27 @@ Urantia n'est pas dépourvue d'une supervision appropriée et efficace par les d
 5. La fonction spéciale des vingt-quatre directeurs planétaires.
 6. L'installation sur la planète d'un circuit d'archanges.
 7. La désignation plus récente, comme Prince Planétaire vicegérant, de Machiventa Melchizédek, jadis incarné sur Urantia [LU 114:0](/fr/The_Urantia_Book/114#p0).
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Les_agregats_de_matiere_sur_les_niveaux_despace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les agrégats de matière sur les niveaux d'espace extérieur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-366-avril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Avril 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eric_Tarissan/Charte_canadienne_des_droits_et_libertes">
+          <span class="pr-2">Charte canadienne des droits et libertés</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

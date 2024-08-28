@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Claude Flibotte<br>© 2022 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Science_ou_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science ou révélation ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-numéro-357-juillet-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Numéro 357 — Juillet 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eric_Tarissan/Ode_a_zero">
+          <span class="pr-2">Ode à zéro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Claude Flibotte_
 Sainte Julie
@@ -59,3 +83,27 @@ Tout comme certaines personnalités issues de l'Esprit Infini peuvent annuler la
 ## Conclusion
 
 Il me semble qu'étant résident au Paradis, après mon dernier sommeil du temps et de l'espace, munie à ce momentlà d'une conscience cosmique embrassant le concept universel du plan divin, j'aurai une vision semblable à celle de mon Père, un éternel instant où le passé-présent-futur ne seront plus qu'une seule réalité éternelle dotée d'un potentiel infini d'expérience sans fin! Je serai semblable aux êtres peuplant l'Ile du Paradis, mais en possession d'une expérience inestimable du temps et de l'espace. L'expérience de mon autocréation et, en collaboration avec d'autres êtres, de celle d'une nouvelle Déité, l'Être Suprême!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Science_ou_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science ou révélation ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-numéro-357-juillet-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Numéro 357 — Juillet 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eric_Tarissan/Ode_a_zero">
+          <span class="pr-2">Ode à zéro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

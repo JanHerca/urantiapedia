@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Maurice Migneault<br>© 2024 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/Correspondance_de_Jacques_Weiss">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Correspondance de Jacques Weiss</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-376-février-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 376 — Février 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Lapierre/Precisions_sur_letude_des_textes_dUrantia">
+          <span class="pr-2">Précisions sur l'étude des textes d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Maurice_Migneault.jpg">
@@ -43,3 +67,27 @@ Il est humain de rechercher la notoriété et la reconnaissance, tout comme le d
 
 - [Bulletin Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Ce numéro (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite-fevrier-2024.pdf)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/Correspondance_de_Jacques_Weiss">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Correspondance de Jacques Weiss</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-376-février-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 376 — Février 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Lapierre/Precisions_sur_letude_des_textes_dUrantia">
+          <span class="pr-2">Précisions sur l'étude des textes d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

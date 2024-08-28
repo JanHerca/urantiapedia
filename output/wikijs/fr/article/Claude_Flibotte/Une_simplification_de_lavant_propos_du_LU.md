@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Claude Flibotte<br>© 2024 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eric_Martel/Ma_decouverte_de_ladoration">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ma découverte de l'adoration</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-377-mars-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 377 — Mars 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Claude_Flibotte.jpg">
@@ -225,3 +246,24 @@ _(NDLR la suite de ce texte se poursuivra dans le prochain numéro du Réflectiv
 - [Bulletin Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Ce numéro (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mars-2024.pdf)
 - [Une autre version de cette aide à l'étude de Bill Sadler en français sur Urantiapedia](/fr/article/William_S_Sadler_Jr/A_Simplification_of_the_Foreword_to_The_Urantia_Book)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eric_Martel/Ma_decouverte_de_ladoration">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ma découverte de l'adoration</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-377-mars-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 377 — Mars 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

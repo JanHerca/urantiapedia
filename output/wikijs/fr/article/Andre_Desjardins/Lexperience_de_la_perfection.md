@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 André Desjardins<br>© 2022 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eric_Tarissan/Ode_a_zero">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ode à zéro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-numéro-357-juillet-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Numéro 357 — Juillet 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Lideal_democratique">
+          <span class="pr-2">L'idéal démocratique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Andre_Desjardins.jpg">
@@ -70,3 +94,27 @@ Les fruits de l'esprit sont l'antidote de notre ego en diminuant l'importance de
 Les acquis d'expérience grâce à nos actions et nos efforts dans la recherche de perfection divine se reflète dans l'évolution de notre âme morontielle. « Une âme en évolution n'est pas rendue divine parce qu'elle fait, mais parce qu'elle s'efforce de faire. » [LU 48:7.24](/fr/The_Urantia_Book/48#p7_24)
 
 La meilleure façon de vivre l'expérience de la perfection est parfaitement cité dans ***Le Livre d'Urantia*** : « Il ne s'agit pas tant de ce que vous apprenez dans cette première vie ; c'est l'expérience de vivre cette vie qui est importante. Même le _travail_ dans ce monde, si important qu'il soit, n'est pas de loin aussi important que la _manière_ dont vous l'effectuez. » [LU 39:4.13](/fr/The_Urantia_Book/39#p4_13)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eric_Tarissan/Ode_a_zero">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ode à zéro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-numéro-357-juillet-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Numéro 357 — Juillet 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Lideal_democratique">
+          <span class="pr-2">L'idéal démocratique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

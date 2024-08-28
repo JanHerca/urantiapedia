@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Gaétan G. Charland<br>© 2024 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Une_hypothese_a_propos_de_la_personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une hypothèse à propos de la personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-378-mai-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 378 — Mai 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/Les_gravites_et_influences_mentales">
+          <span class="pr-2">Les gravités et influences mentales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Gaetan_Charland.jpg">
@@ -50,3 +74,27 @@ _Le 27 janvier 1963_
 
 - [Bulletin Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Ce numéro (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mai-2024.pdf)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Une_hypothese_a_propos_de_la_personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une hypothèse à propos de la personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-378-mai-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 378 — Mai 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/Les_gravites_et_influences_mentales">
+          <span class="pr-2">Les gravités et influences mentales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Rex Merrett<br>© 2024 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Comparaison_entre_Jesus_de_Nazareth_et_Donald_Trump">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comparaison entre Jésus de Nazareth et Donald Trump</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-381-juillet-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 381 — Juillet 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francine_Fortin/Dieu_Jesus_et_lAmour">
+          <span class="pr-2">Dieu, Jésus et l'Amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Rex_Merrett.jpg">
@@ -97,3 +121,27 @@ Nous vous remercions.
 
 - [Bulletin Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Ce numéro (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-juillet-2024.pdf)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Comparaison_entre_Jesus_de_Nazareth_et_Donald_Trump">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comparaison entre Jésus de Nazareth et Donald Trump</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-381-juillet-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 381 — Juillet 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francine_Fortin/Dieu_Jesus_et_lAmour">
+          <span class="pr-2">Dieu, Jésus et l'Amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Jean Des Lierres<br>© 2023 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Zshonette_Reed/La_lutte_ideologique_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La lutte idéologique (2e partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-366-avril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Avril 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/La_vraie_et_la_fausse_liberte">
+          <span class="pr-2">La vraie et la fausse liberté</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Jean_Des_Lierres.jpg">
@@ -45,3 +69,27 @@ Bonne lecture et bon émerveillement.
 Nous sommes dans le TEMPS simplement pour contribuer de nos expériences significatives à l'aventure divine du Suprême, la Mère divine. Ah!Ma vénération pour cette Mère aurait dû me conduire à La nommer davantage dans mon tableau ! Qu'Elle ne m'en tienne pas rigueur... Je lui laisse le dernier mot : Mère divine de l'univers, je Vous vénère ! Tout ce document sur le deuxième âge de l'univers parle de Vous jusque dans la conclusion.
 
 **Conclusion** : Dès lors, lis cette citation qui embrasse le tout et fait le pont entre le Suprême et notre expérience : « _Le Suprême en évolution compensera, en fin de compte, les créatures finies pour leur inaptitude à établir autre chose qu'un contact expérientiel limité avec l'univers des univers. Les créatures peuvent atteindre le Père du Paradis, mais leur mental évolutionnaire est fini, donc incapable de réellement comprendre le Père infini et absolu. Mais, puisque tout ce qu'expérimente la créature s'enregistre dans le Suprême et en fait partie, quand toutes les créatures auront atteint le niveau final de l'existence finie et que le développement total de l'univers leur aura permis d'atteindre Dieu le Suprême en tant que présence actuelle de divinité, alors, du fait même de ce contact, elles auront contact avec la totalité de l'expérience. Le domaine fini du temps contient en lui-même les germes de l'éternité. On nous enseigne qu'à l'époque où la plénitude de l'évolution verra l'épuisement de la capacité cosmique de croissance, l'ensemble du domaine fini entrera dans les phases absonites de la carrière éternelle en recherchant le Père en tant qu'Ultime._ » [LU 117:5.14](/fr/The_Urantia_Book/117#p5_14)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Zshonette_Reed/La_lutte_ideologique_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La lutte idéologique (2e partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-366-avril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Avril 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/La_vraie_et_la_fausse_liberte">
+          <span class="pr-2">La vraie et la fausse liberté</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

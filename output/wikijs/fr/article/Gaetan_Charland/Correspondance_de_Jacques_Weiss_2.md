@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Gaétan G. Charland<br>© 2024 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/Reflectivite_2024_05_mot_du_president">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du président mai 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-378-mai-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 378 — Mai 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francine_Fortin/Retrospective_su_le_Congres_international_2024">
+          <span class="pr-2">Rétrospective sur Ie Congrès international 2024 de l'AUI</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Gaetan_Charland.jpg">
@@ -185,3 +209,27 @@ J. Weiss
 
 - [Bulletin Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Ce numéro (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mai-2024.pdf)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/Reflectivite_2024_05_mot_du_president">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du président mai 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-378-mai-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 378 — Mai 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francine_Fortin/Retrospective_su_le_Congres_international_2024">
+          <span class="pr-2">Rétrospective sur Ie Congrès international 2024 de l'AUI</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

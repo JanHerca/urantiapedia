@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Jean Lapierre<br>© 2021 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Sauve/Un_petit_exercice_au_Je">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un petit exercice au « Je »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-numéro-346-juillet-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Numéro 346 - Juillet 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Implantation_de_la_vie_sur_une_planete">
+          <span class="pr-2">Implantation de la vie sur une planète</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Jean_Lapierre_2.jpg">
@@ -54,3 +78,27 @@ Nous avons vu plus haut, que le 4 e monde des maisons correspond à la culture p
 
 - [Bulletin Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Ce numéro (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-Special-ete-2021.pdf)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Sauve/Un_petit_exercice_au_Je">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un petit exercice au « Je »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-numéro-346-juillet-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Numéro 346 - Juillet 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Implantation_de_la_vie_sur_une_planete">
+          <span class="pr-2">Implantation de la vie sur une planète</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

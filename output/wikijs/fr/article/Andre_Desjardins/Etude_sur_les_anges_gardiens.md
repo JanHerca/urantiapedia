@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 André Desjardins<br>© 2021 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Samuel_Heine/Dieu_est_en_moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu est en moi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-numéro-346-juillet-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Numéro 346 - Juillet 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Precisions_sur_les_mots">
+          <span class="pr-2">Précisions sur les mots et leur définition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_18" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Andre_Desjardins.jpg">
@@ -64,3 +88,27 @@ En conclusion de cette étude ; bien que notre âme morontielle soit une cocréa
 
 - [Bulletin Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Ce numéro (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-Special-ete-2021.pdf)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Samuel_Heine/Dieu_est_en_moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu est en moi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-numéro-346-juillet-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Numéro 346 - Juillet 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Precisions_sur_les_mots">
+          <span class="pr-2">Précisions sur les mots et leur définition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Claude Flibotte<br>© 2023 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gilles_Bertrand/Comment_je_comprends_ce_processus_pour_ressembler_a_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comment je comprends ce processus pour ressembler à Dieu !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-365-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 365 — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Line_St_Pierre/Laventure_du_groupe_detude_Decouverte">
+          <span class="pr-2">L'aventure du groupe d'étude Découverte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Claude_Flibotte.jpg">
@@ -92,3 +116,27 @@ Voilà ! J'espère que l'observation de ces deux tableaux comparée aux informat
 
 - [Bulletin Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Ce numéro (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mars-2023.pdf)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gilles_Bertrand/Comment_je_comprends_ce_processus_pour_ressembler_a_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comment je comprends ce processus pour ressembler à Dieu !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-365-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 365 — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Line_St_Pierre/Laventure_du_groupe_detude_Decouverte">
+          <span class="pr-2">L'aventure du groupe d'étude Découverte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

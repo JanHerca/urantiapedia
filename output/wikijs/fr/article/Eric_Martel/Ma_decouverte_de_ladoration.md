@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Éric Martel<br>© 2024 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Francois_Audet/De_limportance_de_la_philosophie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De l'importance de la philosophie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-377-mars-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 377 — Mars 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Une_simplification_de_lavant_propos_du_LU">
+          <span class="pr-2">Une simplification de l'avant propos du Livre d'Urantia (partie 1)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Eric_Martel.jpg">
@@ -170,3 +194,27 @@ L'adoration, c'est la gratitude en action.
 
 - [Bulletin Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Ce numéro (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mars-2024.pdf)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Francois_Audet/De_limportance_de_la_philosophie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De l'importance de la philosophie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-377-mars-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 377 — Mars 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Une_simplification_de_lavant_propos_du_LU">
+          <span class="pr-2">Une simplification de l'avant propos du Livre d'Urantia (partie 1)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

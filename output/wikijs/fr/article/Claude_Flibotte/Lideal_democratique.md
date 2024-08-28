@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Claude Flibotte<br>© 2022 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/Lexperience_de_la_perfection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'expérience de la perfection</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-numéro-357-juillet-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Numéro 357 — Juillet 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_14" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Claude_Flibotte.jpg">
@@ -58,3 +79,24 @@ La liberté de chaque individu sera plus grande sous l'égide d'un gouvernement 
 Bien que la démocratie représentative soit un idéal, il faut prendre garde à certains pièges auxquels nous pourrions succomber. Le premier réside dans la glorification de la médiocrité. L'éducation de l'opinion publique est la seule méthode sure et certaine pour assurer une évolution normale de la civilisation. La désinformation sur les réseaux sociaux constituants des exemples retentissants depuis quelques années ! Le deuxième piège réside dans le choix de dirigeants ignorants et vils. Je vous fais grâce de l'exemple que j'ai en tête ! Le troisième piège résiderait dans l'incapacité de reconnaitre les faits fondamentaux de l'évolution sociale. La perfection n'est pas inhérente à ce monde. Il est normal que la société expérimente certaines solutions pas toujours parfaites dans l'immédiat, mais toujours orientées vers le bien-être de tous et toujours perfectibles. Le quatrième piège s'identifie à remettre entre les mains de majorités frustes et indolentes le pouvoir du suffrage universel. Finalement, le cinquième piège serait de croire le mythe suivant : la majorité a toujours raison. Sous l'impulsion émotionnelle du moment, une foule peut parfois agir de manière désordonnée et violente ou faire des choix impulsifs non sages. Je vous recommande chaleureusement de relire les fascicules 70, 71, 134:5-6 dans ***Le Live d'Urantia*** d'où les grandes lignes de mon article sont tirées.
 
 Je souhaite que cette réflexion personnelle vous apporte de l'espoir en des jours meilleurs et une plus grande compréhension entre nous dans ce monde qui en a bien besoin!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/Lexperience_de_la_perfection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'expérience de la perfection</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-numéro-357-juillet-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Numéro 357 — Juillet 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 André Desjardins<br>© 2023 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Le_groupe_detude_Le_Pont">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le groupe d'étude Le Pont</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-363-janvier-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 363 — Janvier 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Andre_Desjardins.jpg">
@@ -173,3 +194,24 @@ L'Ajusteur de Pensée partage avec son associé humain toute expérience ayant v
 La grande déception de l'Ajusteur est celle où son sujet humain renonce à poursuivre sa lutte vers le chemin de la perfection lié au libre arbitre souverain de la personnalité conféré par le don personnel du Père Céleste aux êtres doués de volonté. «Ils sont persévérants, ingénieux et parfaits dans leurs méthodes de travail, mais ne font jamais violence à l'individualité volitive de leurs hôtes. Nul être humain ne sera jamais spiritualisé contre sa volonté par un Moniteur divin; la survie est un don des Dieux qui doit être désiré par les créatures du temps. »[[LU 110:2.2](/fr/The_Urantia_Book/110#p2_2)]
 
 ***N.D.L.R.*** _La deuxième partie finale de cet article sera publié dans le journal Réflectivité du numéro de février 2023, d'ici là nous vous souhaitons une excellente année 2023!_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Le_groupe_detude_Le_Pont">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le groupe d'étude Le Pont</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-363-janvier-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 363 — Janvier 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

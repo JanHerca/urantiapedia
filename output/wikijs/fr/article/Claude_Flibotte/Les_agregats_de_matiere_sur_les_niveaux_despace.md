@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Claude Flibotte<br>© 2023 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Lapierre/Les_cercles_psychiques">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les cercles psychiques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-366-avril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Avril 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Lapierre/Conseils_donnes_a_Micael_de_Nebadon">
+          <span class="pr-2">Conseils donnés à Micaël de Nébadon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Claude_Flibotte.jpg">
@@ -195,3 +219,28 @@ Voilà ! J'espère que cette incursion dans le domaine de l'espace des niveaux e
 <figcaption>La planète Jupiter vue de l'un de ses satellites. Illustration d'artiste.</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Lapierre/Les_cercles_psychiques">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les cercles psychiques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-366-avril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Avril 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Lapierre/Conseils_donnes_a_Micael_de_Nebadon">
+          <span class="pr-2">Conseils donnés à Micaël de Nébadon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

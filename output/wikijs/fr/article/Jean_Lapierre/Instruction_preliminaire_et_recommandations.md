@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Jean Lapierre<br>© 2023 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/Reflectivite_2023_01_mot_du_president">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du président Mars 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-365-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 365 — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gilles_Bertrand/Comment_je_comprends_ce_processus_pour_ressembler_a_Dieu">
+          <span class="pr-2">Comment je comprends ce processus pour ressembler à Dieu !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Jean_Lapierre.jpg">
@@ -34,3 +58,27 @@ Ces instructions, conseils, et quelquefois même des exigences, n'étaient pas l
 
 - [Bulletin Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Ce numéro (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mars-2023.pdf)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/Reflectivite_2023_01_mot_du_president">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du président Mars 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-365-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 365 — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gilles_Bertrand/Comment_je_comprends_ce_processus_pour_ressembler_a_Dieu">
+          <span class="pr-2">Comment je comprends ce processus pour ressembler à Dieu !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

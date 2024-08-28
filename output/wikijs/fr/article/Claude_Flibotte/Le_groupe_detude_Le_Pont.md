@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Claude Flibotte<br>© 2023 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/La_mentalite_juive_Jesus_et_nous_au_21e_siecle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mentalité juive, Jésus et nous au 21e siècle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-363-janvier-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 363 — Janvier 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/Les_cercles_psychiques_et_la_vie_morontielle_1">
+          <span class="pr-2">Les cercles psychiques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Claude_Flibotte.jpg">
@@ -36,3 +60,27 @@ Notre étude tourna autour de différents sujets jusqu'au moment où l'on décid
 Avec l'année 2020, la pandémie mit un terme à nos réunions en personne chez moi. Cependant, grâce à la collaboration de l'AUQ, nous poursuivîmes nos réunions par Zoom. Cette nouvelle manière de faire nos réunions permit à de nouvelles personnes de se joindre au groupe avec le temps. Depuis maintenant plus de deux ans, nous poursuivons cette étude. L'un de nos membres, Guy Breton, gradua en 2020 poursuivant certainement cette étude sur les mondes des maisons.
 
 Aujourd'hui, le groupe compte dix personnes réparties en la présence de trois femmes et de sept hommes. Nous poursuivons notre étude du maitre, de sa vie et de ses enseignements avec toujours plus d'enthousiasme, de profondeur dans la compréhension de son évangile, d'application journalière de son message dans le service rendu à autrui, et surtout dans une bonne humeur contagieuse. Un grand merci à notre Père céleste pour sa bonté et le don des Ajusteurs, pour l'Esprit de Vérité de Micaël qui nous montre le chemin, et pour toutes autres présences spirituelles facilitant notre étude !
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/La_mentalite_juive_Jesus_et_nous_au_21e_siecle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mentalité juive, Jésus et nous au 21e siècle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-363-janvier-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 363 — Janvier 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/Les_cercles_psychiques_et_la_vie_morontielle_1">
+          <span class="pr-2">Les cercles psychiques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

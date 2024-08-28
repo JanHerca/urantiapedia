@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Claude Flibotte<br>© 2023 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gilles_Bertrand/Au_diapason_de_la_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Au diapason de la révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-363-janvier-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 363 — Janvier 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Le_groupe_detude_Le_Pont">
+          <span class="pr-2">Le groupe d'étude Le Pont</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Claude_Flibotte.jpg">
@@ -73,3 +97,27 @@ Je pense, comme vous l'aurez surement remarqué, que l'immensité du mental divi
 ## Conclusion
 
 Je crois qu'il est très important de garder en mémoire à la lecture de la quatrième partie du _Livre d'Urantia_ la mentalité simple des urantiens de cette époque, la mentalité humaine en évolution de Jésus en relation avec son Ajusteur, et la mentalité conjuguée de ce mental humain après son baptême et son mental divin de Fils Créateur. En tenant compte de cela dans votre esprit, il est probable que vous verrez la vie et les enseignements de Jésus d'un tout autre point de vue !
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gilles_Bertrand/Au_diapason_de_la_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Au diapason de la révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-363-janvier-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 363 — Janvier 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Le_groupe_detude_Le_Pont">
+          <span class="pr-2">Le groupe d'étude Le Pont</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

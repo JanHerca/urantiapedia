@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Jean Lapierre<br>© 2023 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/La_vraie_et_la_fausse_liberte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La vraie et la fausse liberté</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-366-avril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Avril 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Les_agregats_de_matiere_sur_les_niveaux_despace">
+          <span class="pr-2">Les agrégats de matière sur les niveaux d'espace extérieur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Jean_Lapierre.jpg">
@@ -34,3 +58,27 @@ Tout cela n'enlève rien au Père Universel, mais au contraire nous permet de le
 
 Je m'excuse quelque peu si je vous ai entraînés dans ces temps futurs inimaginables ; je voulais vous montrer qu'autant maintenant pour les cercles psychiques que pour ce futur immensément lointain, L'Être Suprême (éventuellement il deviendra Dieu le Suprême) sera toujours extrêmement important pour notre croissance, cela ne cessera jamais. C'est notre Mère et c'est elle qui est incontournable pour que nous puissions connaître et comprendre Dieu davantage toujours, toujours, toujours.
 <br style="clear:both;"/>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/La_vraie_et_la_fausse_liberte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La vraie et la fausse liberté</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-366-avril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Avril 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Les_agregats_de_matiere_sur_les_niveaux_despace">
+          <span class="pr-2">Les agrégats de matière sur les niveaux d'espace extérieur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

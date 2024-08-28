@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Éric Tarissan<br>© 2022 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Temps_et_niveaux_de_conscience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Temps et niveaux de conscience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-numéro-357-juillet-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Numéro 357 — Juillet 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/Lexperience_de_la_perfection">
+          <span class="pr-2">L'expérience de la perfection</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Eric_Tarissan_3.jpg">
@@ -68,3 +92,27 @@ C'est en ce jour lointain et inoubliable, tous réunis, qu'ils donnèrent naissa
 
 :zero:
 <br style="clear:both;"/>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Temps_et_niveaux_de_conscience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Temps et niveaux de conscience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-numéro-357-juillet-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Numéro 357 — Juillet 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/Lexperience_de_la_perfection">
+          <span class="pr-2">L'expérience de la perfection</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

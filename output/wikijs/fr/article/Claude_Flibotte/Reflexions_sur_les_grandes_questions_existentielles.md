@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Claude Flibotte<br>© 2022 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Reflectivite/2022_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Numéro 357 — Juillet 2022 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-numéro-357-juillet-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Numéro 357 — Juillet 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Science_ou_revelation">
+          <span class="pr-2">Science ou révélation ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Claude Flibotte_
 Sainte-Julie
@@ -77,3 +101,27 @@ Comme nous l'avons vu précédemment, l'identité, la conscience de soi, la pers
 Partant de l'idée que l'identité est potentielle et innée dans le mental matériel du poupon ; elle deviendra un fait au fur et à mesure de la maturation de son cerveau qui se serait poursuivi au cours des premiers mois et même des premières années de sa vie. Tout ce qui constituera ce futur être humain est à l'état de potentialité, mais une potentialité n'est pas encore une actualité, quelque chose de réel. Voilà, selon ma compréhension, pourquoi les révélateurs nous disent que les enfants morts en très bas âge sont « _dépendants_ » de l'évolution spirituelle et de la survie de leurs parents. Autrement dit, une potentialité non exprimée en une réalité ne constitue pas une existence viable dans l'immédiat pouvant atteindre une valeur d'esprit et persister dans le temps et l'éternité. La survie d'un des parents garantit d'une certaine manière que cet enfant aurait reçu une éducation morale et spirituelle suffisante pour survivre. Cela dit, nous constatons d'après la citation [LU 47:2.1](/fr/The_Urantia_Book/47#p2_1) que l'amour du Père et la miséricorde du Fils sont tellement grands, qu'ils ont trouvé le moyen de récupérer ce qui semblait au départ irrécupérable !
 
 Finalement, pour répondre à la dernière question en ce qui a trait au but de la vie humaine, le texte du _Livre d'Urantia_ prêche que l'homme doit connaitre le Père Universel, devenir semblable à Lui, et chercher à faire Sa volonté. Voilà le but de l'existence humaine ! J'espère que mes cogitations auront quelque peu servi votre réflexion!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Reflectivite/2022_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Numéro 357 — Juillet 2022 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-numéro-357-juillet-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Numéro 357 — Juillet 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Science_ou_revelation">
+          <span class="pr-2">Science ou révélation ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

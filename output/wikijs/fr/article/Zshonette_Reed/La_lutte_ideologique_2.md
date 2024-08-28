@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Zshonette Reed<br>© 2023 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/Reflectivite_2023_01_mot_du_president">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du président Avril 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-366-avril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Avril 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Des_Lierres/Ligne_du_temps_long_du_deuxieme_age">
+          <span class="pr-2">La ligne du temps long du deuxième âge</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Zshonette_Reed.jpg">
@@ -88,3 +112,27 @@ Mais comment sauront-elles qu'elles doivent progresser au-delà des demi-vérit�
 Si cela vous interpelle, écrivez-nous. Peut-être qu'ensemble, nous pouvons faire la différence. Et s'il vous plaît, pensez à vous inscrire à [L'École des Ambassadeurs](https://fr-school.thechristexperiment.org/) pour développer et améliorer vos compétences ministérielles afin que vous puissiez être efficace dans la promotion et le soutien du côté de Micaël dans la lutte idéologique.
 
 En attendant puisse l'Esprit de Vérité vous accompagner.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/Reflectivite_2023_01_mot_du_president">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du président Avril 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-366-avril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Avril 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Des_Lierres/Ligne_du_temps_long_du_deuxieme_age">
+          <span class="pr-2">La ligne du temps long du deuxième âge</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
