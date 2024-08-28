@@ -331,8 +331,11 @@ Il convient de rappeler que les articles de toutes ces publications contiennent 
 				<div><small>Sources: <a href="https://www.urantia-quebec.ca/publications/reflectivite">Index des dernières</a>, <a href="https://www.urantia-quebec.ca/publications/reflectivite-archives">Archives du site Web du Québec</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Bientôt</strong></div></span>
+				<a href="/fr/index/articles_reflectivite" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/reflectivite" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
 				</a>
 			</div>
 		</div>

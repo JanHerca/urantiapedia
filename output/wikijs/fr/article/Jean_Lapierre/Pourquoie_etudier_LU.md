@@ -3,7 +3,7 @@ title: "Pourquoi étudier _Le Livre d'Urantia_ ?"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: Reflectivite, article
+tags: The Urantia Book, Reflectivite, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
