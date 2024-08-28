@@ -51,7 +51,7 @@ Extrait de « LE SERMON D'ORDINATION »
 <br style="clear:both;"/>
 
 <figure id="Figure_7" class="image urantiapedia">
-<img src="/image/article/Reflectivite/2021_07/001.jpg">
+<img src="/image/article/Reflectivite/2021_07/003.jpg">
 </figure>
 
 Et converti au « je »s
