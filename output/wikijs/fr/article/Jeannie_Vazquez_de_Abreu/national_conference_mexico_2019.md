@@ -53,7 +53,7 @@ Le samedi, lors de l’inscription, nous avons tous reçu en cadeau des confiser
 
 Alfredo Esquivel a salué les participants, et Hector Palacios agissant comme maître de cérémonie, a prononcé le discours d’ouverture. Trois conférences ont été présentées dans la matinée. La première, par Luisa Gutiérrez, s’intitulant « Qu’est-ce que le ministère », dans laquelle elle a présenté son expérience personnelle sur le partage des enseignements du Livre d’Urantia.
 
-Sergio Monrroy Gutiérrez a exploré le thème « La richesse » en examinant les conseils que Jésus a donnés à un certain homme riche pendant son séjour à Rome. La troisième présentation portait sur « La conscience cosmique et la perception spirituelle », dans laquelle Jeannie Vázquez a examiné les raisons pour lesquelles les révélateurs disent dans l’introduction du Livre d’Urantia qu’ils _« …s’efforcent d’étendre la conscience cosmique et rehausser la perception spirituelle »_ <a id="a54_447"></a>[[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2)]
+Sergio Monrroy Gutiérrez a exploré le thème « La richesse » en examinant les conseils que Jésus a donnés à un certain homme riche pendant son séjour à Rome. La troisième présentation portait sur « La conscience cosmique et la perception spirituelle », dans laquelle Jeannie Vázquez a examiné les raisons pour lesquelles les révélateurs disent dans l’introduction du Livre d’Urantia qu’ils _« …s’efforcent d’étendre la conscience cosmique et rehausser la perception spirituelle »_ <a id="a55_480"></a>[[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2)]
 
 En après-midi, Camilo Vargas nous a parlé de « L’Art de Vivre », dans lequel il a examiné les concepts du philosophe grec Rodan d’Alexandrie tels qu’ils sont présentés dans le fascicule 160 du Livre d’Urantia.
 

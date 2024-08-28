@@ -78,7 +78,7 @@ Notre conférence à Canberra aura lieu dans seulement quelques mois, du 27 au 3
 Le thème de **L'esprit sur la matière ~ L'esprit sur l'esprit** donne amplement l'occasion de réfléchir au fait que
 
 
-> _Toutes les philosophies religieuses en arrivent tôt ou tard au concept d’une autorité universelle unifiée , d’un seul Dieu. Les causes d’univers ne peuvent être inférieures aux effets d’univers. Il faut que la source des courants de la vie universelle et du mental cosmique soit au-dessus des niveaux de leur manifestation. On ne peut expliquer logiquement le mental humain en termes des ordres d’existence inférieurs. On ne peut vraiment comprendre le mental humain qu’en reconnaissant la réalité d’ordres supérieurs de pensée et de volonté intentionnelle. On ne peut expliquer l’homme comme être moral sans reconnaitre la réalité du Père Universel._ ([LU 3:6.3](/fr/The_Urantia_Book/3#p6_3))
+> _Toutes les philosophies religieuses en arrivent tôt ou tard au concept d’une autorité universelle unifiée , d’un seul Dieu. Les causes d’univers ne peuvent être inférieures aux effets d’univers. Il faut que la source des courants de la vie universelle et du mental cosmique soit au-dessus des niveaux de leur manifestation. On ne peut expliquer logiquement le mental humain en termes des ordres d’existence inférieurs. On ne peut vraiment comprendre le mental humain qu’en reconnaissant la réalité d’ordres supérieurs de pensée et de volonté intentionnelle. On ne peut expliquer l’homme comme être moral sans reconnaitre la réalité du Père Universel._ (<a id="a80_656"></a>[LU 3:6.3](/fr/The_Urantia_Book/3#p6_3))
 
 Nous, mortels évolutionnaires, avons tendance à considérer le mental comme une médiation cosmique entre l'esprit et la matière, car c'est en effet le principal ministère du mental tel que nous le discernons. Pourtant, l'Ajusteur de Pensée est un pur esprit qui est volontaire et actif dans le mental. Votre Ajusteur de Pensée attend toujours d'agir de manière décisive en accord avec votre choix humain, et tous ces choix sont des réactions hautement volontaires. Dans toutes les situations qui ne concernent pas le domaine de la volonté humaine, cet Esprit Divin manifeste incontestablement une conduite qui dénote l'exercice de pouvoirs dans tous les sens du terme, l'équivalent de la volonté, la décision maximisée.
 
@@ -121,15 +121,15 @@ En passant, voici un lien vers une interview de Radio NZ expliquant pourquoi les
 Il y a quelques années, le groupe d'étude d'Auckland avait appris par cœur les Morontia Motas et au fil des ans, ils me reviennent à l'esprit lorsqu'ils semblent correspondre à la situation. Alors que j'observais les conséquences de cette attaque horrible et lâche, les Morontia Motas suivants me sont venus à l'esprit.
 <br style="clear:both;"/>
 
-> _5. Les difficultés peuvent défier la médiocrité et vaincre les craintifs, mais elles ne stimulent que les vrais enfants du Très-Haut._ [[LU 48:7.7](/fr/The_Urantia_Book/48#p7_7)]
+> _5. Les difficultés peuvent défier la médiocrité et vaincre les craintifs, mais elles ne stimulent que les vrais enfants du Très-Haut._ <a id="a123_138"></a>[[LU 48:7.7](/fr/The_Urantia_Book/48#p7_7)]
 > 
-> _12. La plus grande affliction du cosmos est de n'avoir jamais été affligé. Les mortels n'apprennent la sagesse qu'en faisant l'expérience de la tribulation._ [[LU 48:7.14](/fr/The_Urantia_Book/48#p7_14)]
+> _12. La plus grande affliction du cosmos est de n'avoir jamais été affligé. Les mortels n'apprennent la sagesse qu'en faisant l'expérience de la tribulation._ <a id="a125_161"></a>[[LU 48:7.14](/fr/The_Urantia_Book/48#p7_14)]
 > 
-> _13. Les étoiles sont mieux discernées depuis l'isolement solitaire des profondeurs expérimentales, et non depuis les sommets illuminés et extatiques des montagnes._ [[LU 48:7.15](/fr/The_Urantia_Book/48#p7_15)]
+> _13. Les étoiles sont mieux discernées depuis l'isolement solitaire des profondeurs expérimentales, et non depuis les sommets illuminés et extatiques des montagnes._ <a id="a127_168"></a>[[LU 48:7.15](/fr/The_Urantia_Book/48#p7_15)]
 
 et particulièrement :
 
-> _16. On ne peut percevoir la vérité spirituelle avant d’en éprouver l’expérience, et beaucoup de vérités ne sont réellement ressenties que dans l’adversité._ ([LU 48:7.18](/fr/The_Urantia_Book/48#p7_18))
+> _16. On ne peut percevoir la vérité spirituelle avant d’en éprouver l’expérience, et beaucoup de vérités ne sont réellement ressenties que dans l’adversité._ (<a id="a131_161"></a>[LU 48:7.18](/fr/The_Urantia_Book/48#p7_18))
 
 Malheureusement, avant l'attaque, l'opinion générale était que tous les musulmans étaient des terroristes, et cette communauté souffrait d'être rejetée, discriminée et généralement totalement incomprise, et tout comme il y a de nombreux aspects de l'islam qui doivent être mis à jour, on peut en dire autant du christianisme.
 
@@ -172,7 +172,7 @@ _(Note de l’éditeur : Ceci a été présenté au **Séminaire du Livre d’Ur
 Le but de cet essai est de proposer à la réflexion un certain nombre d'impératifs éducatifs pour nous guider, en tant que premiers destinataires des nouvelles vérités révélées dans Le Livre d'Urantia, dans la mise en œuvre d'une stratégie éducative destinée à favoriser la transition de la conscience humaine de notre quatrième époque révélatrice à la cinquième. Un aspect de cette stratégie éducative aborde la manière dont nous choisissons de gérer le risque généralement associé au défi d'intégrer une nouvelle vérité révélatrice tout en minimisant sa dilution et sa contamination par les croyances, symboles, pratiques et institutions religieuses du passé. Un Melchizédek observe :
 
 
-> _Vous qui bénéficiez aujourd’hui des avantages de l’imprimerie, vous comprenez mal combien il était difficile de perpétuer la vérité dans l’antiquité, et combien facilement une nouvelle doctrine était perdue de vue entre une génération et la suivante. La nouvelle doctrine tendait toujours à être résorbée dans l’ancien corps d’enseignement religieux et de pratiques magiques. Une révélation nouvelle est toujours contaminée par les croyances évolutionnaires plus anciennes._ ([LU 93:7.4](/fr/The_Urantia_Book/93#p7_4))
+> _Vous qui bénéficiez aujourd’hui des avantages de l’imprimerie, vous comprenez mal combien il était difficile de perpétuer la vérité dans l’antiquité, et combien facilement une nouvelle doctrine était perdue de vue entre une génération et la suivante. La nouvelle doctrine tendait toujours à être résorbée dans l’ancien corps d’enseignement religieux et de pratiques magiques. Une révélation nouvelle est toujours contaminée par les croyances évolutionnaires plus anciennes._ (<a id="a174_479"></a>[LU 93:7.4](/fr/The_Urantia_Book/93#p7_4))
 
 **Prémisse : Une stratégie éducative pour la cinquième époque**
 

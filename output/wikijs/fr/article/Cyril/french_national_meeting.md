@@ -96,7 +96,7 @@ Globalement, nous accusons un très grand retard (3^ème^ âge) en dépit de nos
 
 Lire ce Fascicule jusqu'au 5^ème^ âge nous a permis de connaître l’évolution future à venir sur Urantia, par exemple, l’unification des gouvernements, la présence d'une seule race, la paix sur Urantia, seulement quelques heures de travail par jour et une utilisation judicieuse des loisirs, la pratique de la musique et des arts.
 
-Finalement, nous avons réalisé la « chance » ou la « mal chance » d'être né sur Urantia au lieu de sur une planète normale en lisant le <a id="a97_127"></a>[Fascicule 50, Section 7](/fr/The_Urantia_Book/50#p7_1), « Les Récompenses de l’Isolation », lequel défini les Agondontaires : « créatures évolutionnaires qui peuvent croire sans voir, persévérer lorsqu'isolées, et triompher sur d'insurmontables difficultés lorsque seules. »
+Finalement, nous avons réalisé la « chance » ou la « mal chance » d'être né sur Urantia au lieu de sur une planète normale en lisant le <a id="a98_136"></a>[Fascicule 50, Section 7](/fr/The_Urantia_Book/50#p7_1), « Les Récompenses de l’Isolation », lequel défini les Agondontaires : « créatures évolutionnaires qui peuvent croire sans voir, persévérer lorsqu'isolées, et triompher sur d'insurmontables difficultés lorsque seules. »
 
 Pour terminer ce rapport, nous devons remercier tous les aides spirituels présents lors de cette fin de semaine, tous les lecteurs absents qui étaient présents en pensée avec nous, tous les lecteurs présents qui ont fait une intéressante étude du livre, la camaraderie fraternelle pendant les intermissions, les repas et les soirées, une bonne communauté d'esprit et l’attitude constructive de la réunion générale de notre association,
 

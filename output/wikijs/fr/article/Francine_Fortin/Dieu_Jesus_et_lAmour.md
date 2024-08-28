@@ -56,7 +56,7 @@ Je m'inspire donc de cet enseignement de notre Maître :
 <img src="/image/article/Reflectivite/2024_07/020.jpg">
 </figure>
 
-> Il cherchait plutôt à libérer l'âme humaine née à nouveau, afin qu'elle prenne son envol sur les ailes joyeuses d'une liberté spirituelle nouvelle et vivante.» [LU 179:5.4](/fr/The_Urantia_Book/179#p5_4)
+> Il cherchait plutôt à libérer l'âme humaine née à nouveau, afin qu'elle prenne son envol sur les ailes joyeuses d'une liberté spirituelle nouvelle et vivante.» <a id="a58_162"></a>[LU 179:5.4](/fr/The_Urantia_Book/179#p5_4)
 
 Malheureusement au Québec, où la religion catholique a fait des dégâts irréparables, il m'est extrêmement difficile de parler de Dieu ou de Jésus.
 

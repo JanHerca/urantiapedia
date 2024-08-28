@@ -66,7 +66,7 @@ Votre heure est-elle venue ? — d'être plus créatif et plus courageux pour pr
 
 Au cours du voyage méditerranéen, Jésus avait soigneusement étudié les gens qu'il rencontrait et les pays qu'il traversait, et c'est à peu près à ce moment-là qu'il prit sa décision finale quant au reste de sa vie sur terre. 134:0 (1483.1)
 
-Il retourna en Galilée pour attendre le début de l'œuvre de sa vie en tant qu'enseignant public de la vérité. Il travaillait à nouveau sur des bateaux dans l'atelier de Zébédée à Capharnaüm lorsqu'un matin il déposa ses outils en déclarant : «Mon heure est venue» ([LU 134:9.8](/fr/The_Urantia_Book/134#p9_8)).
+Il retourna en Galilée pour attendre le début de l'œuvre de sa vie en tant qu'enseignant public de la vérité. Il travaillait à nouveau sur des bateaux dans l'atelier de Zébédée à Capharnaüm lorsqu'un matin il déposa ses outils en déclarant : «Mon heure est venue» (<a id="a68_265"></a>[LU 134:9.8](/fr/The_Urantia_Book/134#p9_8)).
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Reflectivite/2024_07/018.jpg">
@@ -80,9 +80,9 @@ Je pense que la leçon que nous pouvons en tirer est qu'il faut d'abord devenir 
 
 Le soi-disant «Sermon sur la montagne » n'est pas l'évangile de Jésus, mais la charge d'ordonner les 12 apôtres. Il s'agit de l'ordre personnel donné par le Maître à ceux qui devaient continuer à prêcher l'Évangile et aspirer à le représenter dans le monde des hommes, tout comme il représentait si éloquemment et si parfaitement son Père.
 
-Si les pulsions héritées ne peuvent être fondamentalement modifiées, les réactions émotionnelles à ces pulsions peuvent être changées ; la nature morale peut donc être modifiée, le caractère peut être amélioré. Dans un caractère fort, les réponses émotionnelles sont intégrées et coordonnées, ce qui produit une personnalité unifiée. Une unification déficiente affaiblit la nature morale et engendre le malheur. [LU 140:4.8](/fr/The_Urantia_Book/140#p4_8)
+Si les pulsions héritées ne peuvent être fondamentalement modifiées, les réactions émotionnelles à ces pulsions peuvent être changées ; la nature morale peut donc être modifiée, le caractère peut être amélioré. Dans un caractère fort, les réponses émotionnelles sont intégrées et coordonnées, ce qui produit une personnalité unifiée. Une unification déficiente affaiblit la nature morale et engendre le malheur. <a id="a82_412"></a>[LU 140:4.8](/fr/The_Urantia_Book/140#p4_8)
 
-Sans un but digne de ce nom, la vie devient sans but et sans profit, et il en résulte beaucoup de malheur. Jésus a exhorté ses disciples à exercer une foi expérimentale. Il leur recommanda de ne pas dépendre du simple assentiment intellectuel, de la crédulité et de l'autorité établie. [LU 140:4.9](/fr/The_Urantia_Book/140#p4_9)
+Sans un but digne de ce nom, la vie devient sans but et sans profit, et il en résulte beaucoup de malheur. Jésus a exhorté ses disciples à exercer une foi expérimentale. Il leur recommanda de ne pas dépendre du simple assentiment intellectuel, de la crédulité et de l'autorité établie. <a id="a84_286"></a>[LU 140:4.9](/fr/The_Urantia_Book/140#p4_9)
 
 ## Moana
 
@@ -93,7 +93,7 @@ Lors de notre voyage en Tasmanie, nous avons visité le Moana (musée d'art anci
 <figcaption>L'une des æuvres au Musée Moana, photo de Magda Szyperska. </figcaption>
 </figure>
 
-L'éducation devrait être une technique d'apprentissage (de découverte) des meilleures méthodes de satisfaction de nos besoins naturels et héréditaires, et le bonheur est le résultat total de ces techniques améliorées de satisfaction émotionnelle. [LU 140:4.10](/fr/The_Urantia_Book/140#p4_10).
+L'éducation devrait être une technique d'apprentissage (de découverte) des meilleures méthodes de satisfaction de nos besoins naturels et héréditaires, et le bonheur est le résultat total de ces techniques améliorées de satisfaction émotionnelle. <a id="a95_247"></a>[LU 140:4.10](/fr/The_Urantia_Book/140#p4_10).
 
 ## Des réalités différentes
 

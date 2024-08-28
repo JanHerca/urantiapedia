@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Gaétan G. Charland<br>© 2023 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Reflectivite/2023_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 366 — Avril 2023 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-366-avril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Avril 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Zshonette_Reed/La_lutte_ideologique_2">
+          <span class="pr-2">La lutte idéologique (2e partie)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Gaetan_Charland.jpg">
@@ -44,4 +68,28 @@ Aimer, c'est servir
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_04/002.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Reflectivite/2023_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 366 — Avril 2023 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-366-avril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Avril 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Zshonette_Reed/La_lutte_ideologique_2">
+          <span class="pr-2">La lutte idéologique (2e partie)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

@@ -52,7 +52,7 @@ Allons-nous tolérer encore longtemps que les méfaits perpétrés par ces frèr
 
 Pour tous ceux et celles qui pensent que tout nouveau mouvement finit par se diviser ou qui ne se sentent pas concernés par ces luttes intestines... rappelez-vous qu'au contraire, chacun a le pouvoir d'influencer le cours des choses... il faut oser agir.
 
-> Comme la partie se meut, ainsi se meut le tout. [LU 12:7.11](/fr/The_Urantia_Book/12#p7_11)
+> Comme la partie se meut, ainsi se meut le tout. <a id="a54_50"></a>[LU 12:7.11](/fr/The_Urantia_Book/12#p7_11)
 
 <ins>Deuxièmement</ins> : j'ai assisté à une réunion Zoom du Center for Unity, où l'on présentait un nouveau projet visant à donner un éclairage nouveau sur la vie et les enseignements de Jésus. Ils utilisent pour le faire des technologies nouvelles qui ne manqueront pas de plaire à tous, mais particulièrement aux jeunes.
 

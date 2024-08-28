@@ -14,7 +14,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Gaetan_Charland/Reflectivite_2023_01_mot_du_president">
+        <a href="/fr/article/Gaetan_Charland/Reflectivite_2023_05_mot_du_president">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du président Mai 2023</span>
         </a>
         </td>
@@ -55,7 +55,7 @@ Le but de mon exposé est d'essayer de comprendre cette réalité de niveau abso
 
 Ces univers extérieurs sont extrêmement vastes si nous les comparons aux superunivers du niveau fini. Pour nous donner une idée, au fascicule 31 à la section 9 , on nous révèle qu'au niveau du Paradis et de Havona, 4 Maîtres Architectes furent extériorisés comme planificateurs et qu'au niveau fini, 7 autres le furent. Dans les 4 anneaux d'univers extérieurs, 28000 Maîtres Architectes sont extériorisés (respectivement $70,490,3,430$ et 24,010 ). Cet extrait est éloquent à ce propos :
 
-> Ces sept groupes de Maîtres Architectes comprennent donc au total 28011 planificateurs d'univers. Il existe au Paradis une tradition selon laquelle, dans le lointain recul de l'éternité, il y eut une tentative pour extérioriser le 28 012e Maitre Architecte, mais que l'absonitisation de cet être échoua, sa personnalité étant saisie par l'Absolu Universel. Il est possible que la limite de l'absonité ait été atteinte par la série ascendante des Maitres Architectes avec le 28 011e et que la 28012 e tentative ait rencontré le niveau mathématique de la présence de l'Absolu. En d'autres termes, au niveau de la 28 012e extériorisation, la qualité d'absonité équivalait au niveau de l'Universel et atteignait la valeur de l'Absolu. Ce fascicule est parrainé conjointement par un Conseiller Divin et un Dépourvu de Nom et de Nombre autorisés à fonctionner ainsi par les Anciens des Jours d'Uversa. [LU 31:9.10](/fr/The_Urantia_Book/31#p9_10)
+> Ces sept groupes de Maîtres Architectes comprennent donc au total 28011 planificateurs d'univers. Il existe au Paradis une tradition selon laquelle, dans le lointain recul de l'éternité, il y eut une tentative pour extérioriser le 28 012e Maitre Architecte, mais que l'absonitisation de cet être échoua, sa personnalité étant saisie par l'Absolu Universel. Il est possible que la limite de l'absonité ait été atteinte par la série ascendante des Maitres Architectes avec le 28 011e et que la 28012 e tentative ait rencontré le niveau mathématique de la présence de l'Absolu. En d'autres termes, au niveau de la 28 012e extériorisation, la qualité d'absonité équivalait au niveau de l'Universel et atteignait la valeur de l'Absolu. Ce fascicule est parrainé conjointement par un Conseiller Divin et un Dépourvu de Nom et de Nombre autorisés à fonctionner ainsi par les Anciens des Jours d'Uversa. <a id="a57_898"></a>[LU 31:9.10](/fr/The_Urantia_Book/31#p9_10)
 
 ## Suite de la page 2
 
@@ -63,10 +63,10 @@ Ici, c'est vraiment personnel et je m'aventure à dire que cette 28012 e tentati
 
 Si nous poursuivons notre raisonnement sur la réalité transcendée, examinons 4 extraits :
 
-1. Les transcendantaux sont subinfinis et subabsolus, mais suprafinis et supracréés.** Les transcendantaux s'extériorisent comme un niveau intégrateur reliant les supervaleurs des absolus avec les valeurs maximas des finis**. Du point de vue des créatures, ce qui est transcendantal semble s'être extériorisé comme conséquence du fini. Du point de vue de l'éternité, c'est une anticipation du fini. [LU 105:7.1](/fr/The_Urantia_Book/105#p7_1)
-2. ***Finis maxima***. **C'est le présent statut de toutes les créatures expérientielles qui ont atteint leur destinée — destinée telle qu'elle est révélée dans les limites du présent âge de l'univers**. Les univers eux-mêmes peuvent atteindre leur statut maximum aussi bien spirituellement que physiquement, mais le mot « maximum » est lui-même un terme relatif — maximum par rapport à quoi ? Ce qui est maximum et apparemment final dans le présent âge de l'univers peut ne représenter qu'un réel commencement en termes des âges à venir. [LU 106:0.4](/fr/The_Urantia_Book/106#p0_4)
-3. _Transcendantaux_. **Ce niveau superfini suit la progression finie (en l'anticipant)**. Il implique la genèse préfinie des commencements finis et la signification postfinie de toutes les terminaisons ou destinées apparemment finies. [LU 106:0.5](/fr/The_Urantia_Book/106#p0_5)
-4. Le Suprême en évolution compensera, en fin de compte, les créatures finies pour leur inaptitude à établir autre chose qu'un contact expérientiel limité avec l'univers des univers. Les créatures peuvent atteindre le Père du Paradis, mais leur mental évolutionnaire est fini, donc incapable de réellement comprendre le Père infini et absolu. Mais, puisque tout ce qu'expérimente la créature s'enregistre dans le Suprême et en fait partie, **quand toutes les créatures auront <ins>atteint le niveau final de l'existence finie</ins> et que le développement total de l'univers leur aura permis d'atteindre Dieu le Suprême en tant que présence actuelle de divinité, alors, du fait même de ce contact, elles auront contact avec la totalité de l'expérience**. Le domaine fini du temps contient en lui-même les germes de l'éternité. On nous enseigne qu'à l'époque où la plénitude de l'évolution verra l'épuisement de la capacité cosmique de croissance, **l'ensemble du domaine fini entrera dans les phases absonites de la carrière éternelle en recherchant le Père en tant qu'Ultime**. [LU 117:5.14](/fr/The_Urantia_Book/117#p5_14)
+1. Les transcendantaux sont subinfinis et subabsolus, mais suprafinis et supracréés.** Les transcendantaux s'extériorisent comme un niveau intégrateur reliant les supervaleurs des absolus avec les valeurs maximas des finis**. Du point de vue des créatures, ce qui est transcendantal semble s'être extériorisé comme conséquence du fini. Du point de vue de l'éternité, c'est une anticipation du fini. <a id="a65_399"></a>[LU 105:7.1](/fr/The_Urantia_Book/105#p7_1)
+2. ***Finis maxima***. **C'est le présent statut de toutes les créatures expérientielles qui ont atteint leur destinée — destinée telle qu'elle est révélée dans les limites du présent âge de l'univers**. Les univers eux-mêmes peuvent atteindre leur statut maximum aussi bien spirituellement que physiquement, mais le mot « maximum » est lui-même un terme relatif — maximum par rapport à quoi ? Ce qui est maximum et apparemment final dans le présent âge de l'univers peut ne représenter qu'un réel commencement en termes des âges à venir. <a id="a66_539"></a>[LU 106:0.4](/fr/The_Urantia_Book/106#p0_4)
+3. _Transcendantaux_. **Ce niveau superfini suit la progression finie (en l'anticipant)**. Il implique la genèse préfinie des commencements finis et la signification postfinie de toutes les terminaisons ou destinées apparemment finies. <a id="a67_236"></a>[LU 106:0.5](/fr/The_Urantia_Book/106#p0_5)
+4. Le Suprême en évolution compensera, en fin de compte, les créatures finies pour leur inaptitude à établir autre chose qu'un contact expérientiel limité avec l'univers des univers. Les créatures peuvent atteindre le Père du Paradis, mais leur mental évolutionnaire est fini, donc incapable de réellement comprendre le Père infini et absolu. Mais, puisque tout ce qu'expérimente la créature s'enregistre dans le Suprême et en fait partie, **quand toutes les créatures auront <ins>atteint le niveau final de l'existence finie</ins> et que le développement total de l'univers leur aura permis d'atteindre Dieu le Suprême en tant que présence actuelle de divinité, alors, du fait même de ce contact, elles auront contact avec la totalité de l'expérience**. Le domaine fini du temps contient en lui-même les germes de l'éternité. On nous enseigne qu'à l'époque où la plénitude de l'évolution verra l'épuisement de la capacité cosmique de croissance, **l'ensemble du domaine fini entrera dans les phases absonites de la carrière éternelle en recherchant le Père en tant qu'Ultime**. <a id="a68_1079"></a>[LU 117:5.14](/fr/The_Urantia_Book/117#p5_14)
 
 Voici les éléments importants que je retiens :
 
@@ -84,12 +84,13 @@ En espérant avoir un peu réussi à comprendre !
 - [Bulletin Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Ce numéro (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mai-2023.pdf)
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Gaetan_Charland/Reflectivite_2023_01_mot_du_president">
+        <a href="/fr/article/Gaetan_Charland/Reflectivite_2023_05_mot_du_president">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du président Mai 2023</span>
         </a>
         </td>

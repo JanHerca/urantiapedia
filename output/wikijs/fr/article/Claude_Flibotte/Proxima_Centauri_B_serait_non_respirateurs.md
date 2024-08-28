@@ -41,7 +41,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 _Claude Flibotte_
 Sainte-Julie
 
-«_La conduite planétaire des non-respirateurs présenterait plus que de l'intérêt pour vous, parce qu'une race de ces êtres habite une sphère très proche d'Urantia_» ([LU 49:3.6](/fr/The_Urantia_Book/49#p3_6)).
+«_La conduite planétaire des non-respirateurs présenterait plus que de l'intérêt pour vous, parce qu'une race de ces êtres habite une sphère très proche d'Urantia_» (<a id="a43_166"></a>[LU 49:3.6](/fr/The_Urantia_Book/49#p3_6)).
 
 Voilà une citation du _Livre d'Urantia_ qui pique certainement votre curiosité, du moins la mienne ! Jadis, j'avais lu l'article d'un auteur traitant de ce sujet, dont malheureusement je n'ai pu retrouver la trace, qui situait leur planète à l'intérieur de notre système solaire. Évidemment, pour le Melchizédek de l'école d'administration planétaire de Jéru- sem, "très proche d'Urantia » peut signifier à l'intérieur de notre système solaire comme à des années-lumière de nous !
 <br style="clear:both;"/>
@@ -63,7 +63,7 @@ Selon les dernières informations recueillies, Proxima du Centaure pourrait avoi
 
 ## De la planète Proxima Centauri B, qu'en savonsnous?
 
-Proxima Centauri B est une planète orbitant à 7 millions de kilomètres de son étoile. Elle effectue son périple dans ce qui est appelé la zone habitable selon nos astronomes, soit la zone où l'existence d'eau liquide est possible. Sa découverte fut faite en août 2016 par l'Observatoire européen austral. Elle aurait une masse de 1,3 en comparaison de notre terre. Elle serait une planète rocheuse. En supposant qu'elle n'ait pas d'atmosphère, ce qui est compatible avec ce qui est dit dans _Le Livre d'Urantia_ pour un monde de non-respirateurs, cet état de fait lui accorderait une température de -40 &deg;C à l'ombre. Elle est beaucoup trop froide pour moi, mais est-ce confortable pour les non-respirateurs ? Mais, comme il est mentionné en [LU 49:3.4](/fr/The_Urantia_Book/49#p3_4) pour les non-respirateurs « _les réactions du système nerveux, le mécanisme régulateur de température et le métabolisme de ces peuples spécialisés sont radicalement différents de ces mêmes fonctions chez les mortels_ ». Donc, un non-respirateur n'aurait probablement pas de difficulté à vivre à une température aussi basse à moins qu'il évite de se tenir pour une longue période à l'ombre.
+Proxima Centauri B est une planète orbitant à 7 millions de kilomètres de son étoile. Elle effectue son périple dans ce qui est appelé la zone habitable selon nos astronomes, soit la zone où l'existence d'eau liquide est possible. Sa découverte fut faite en août 2016 par l'Observatoire européen austral. Elle aurait une masse de 1,3 en comparaison de notre terre. Elle serait une planète rocheuse. En supposant qu'elle n'ait pas d'atmosphère, ce qui est compatible avec ce qui est dit dans _Le Livre d'Urantia_ pour un monde de non-respirateurs, cet état de fait lui accorderait une température de -40 &deg;C à l'ombre. Elle est beaucoup trop froide pour moi, mais est-ce confortable pour les non-respirateurs ? Mais, comme il est mentionné en <a id="a65_745"></a>[LU 49:3.4](/fr/The_Urantia_Book/49#p3_4) pour les non-respirateurs « _les réactions du système nerveux, le mécanisme régulateur de température et le métabolisme de ces peuples spécialisés sont radicalement différents de ces mêmes fonctions chez les mortels_ ». Donc, un non-respirateur n'aurait probablement pas de difficulté à vivre à une température aussi basse à moins qu'il évite de se tenir pour une longue période à l'ombre.
 
 ## Répartition des planètes habitées par des types humanoïdes de non-respirateurs
 
@@ -93,9 +93,9 @@ Une autre particularité pour ces non-respirateurs réside dans la communication
 <figcaption>Illustration artistique de la planète Proxima B du Centaure. Source : <a href="https://bit.ly/3AsSx7u">Youtube</a></figcaption>
 </figure>
 
-Une autre caractéristique intéressante est mentionnée en [LU 40:5.15](/fr/The_Urantia_Book/40#p5_15) où le Puissant Messager nous informe que les nonrespirateurs ont besoin de moyens spéciaux pour communiquer avec nous sur les mondes morontiels. Ceci présuppose que nos corps morontiels sont semblables à ceux de nos corps mortels. Toujours selon l'hypothèse de Richard, ceux-ci devraient se munir d'appareils convertissant leurs ondes radio en ondes sonores et vice versa pour nous.
+Une autre caractéristique intéressante est mentionnée en <a id="a95_57"></a>[LU 40:5.15](/fr/The_Urantia_Book/40#p5_15) où le Puissant Messager nous informe que les nonrespirateurs ont besoin de moyens spéciaux pour communiquer avec nous sur les mondes morontiels. Ceci présuppose que nos corps morontiels sont semblables à ceux de nos corps mortels. Toujours selon l'hypothèse de Richard, ceux-ci devraient se munir d'appareils convertissant leurs ondes radio en ondes sonores et vice versa pour nous.
 
-Finalement, Richard conclut son article en mentionnant que les non-respirateurs sont identiques à nous dans la manifestation de l'esprit et de la personnalité. Il a l'impression que la prière en [LU 144:5.6](/fr/The_Urantia_Book/144#p5_6) qui dit : « _donne-nous aujourd'hui les forces vivifiantes de lumières_ » aurait été écrite par un non-respirateur.
+Finalement, Richard conclut son article en mentionnant que les non-respirateurs sont identiques à nous dans la manifestation de l'esprit et de la personnalité. Il a l'impression que la prière en <a id="a97_195"></a>[LU 144:5.6](/fr/The_Urantia_Book/144#p5_6) qui dit : « _donne-nous aujourd'hui les forces vivifiantes de lumières_ » aurait été écrite par un non-respirateur.
 
 ## Une destinée dans la survie différente
 

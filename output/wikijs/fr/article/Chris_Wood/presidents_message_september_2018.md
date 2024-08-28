@@ -45,18 +45,18 @@ Un exemple récent de cela est la « personnalité » qui, dans un livre où la 
 
 <br style="clear:both;"/>
 
-> _… Il serait sans doute présomptueux de tenter de définir la personnalité…_ <a id="a46_72"></a>[[LU 112:0.2](/fr/The_Urantia_Book/112#p0_2)]
+> _… Il serait sans doute présomptueux de tenter de définir la personnalité…_ <a id="a47_78"></a>[[LU 112:0.2](/fr/The_Urantia_Book/112#p0_2)]
 
 Mais au hasard dans le séjour à Rome, un médian décide que ce n’est apparemment pas présomptueux, c’est juste, euh… somptueux? … Pour qu’on nous dise que :
 
 
-> _La présence du bien et du mal dans le monde est par elle-même une preuve positive de l’existence et de la réalité de la volonté morale de l’homme, la personnalité…_ <a id="a51_146"></a>[[LU 132:2.8](/fr/The_Urantia_Book/132#p2_8)]
+> _La présence du bien et du mal dans le monde est par elle-même une preuve positive de l’existence et de la réalité de la volonté morale de l’homme, la personnalité…_ <a id="a52_168"></a>[[LU 132:2.8](/fr/The_Urantia_Book/132#p2_8)]
 
 Et c’est parti. Maintenant, je dois revenir en arrière et relire tout _Le_ _Livre d’Urantia_ depuis le début avec une nouvelle définition en tête. La personnalité est la volonté morale d’une personne et non son caractère distinctif. Alors maintenant, quand je lis le fascicule 1 et comment les humains peuvent obtenir la « perfection de la motivation de la personnalité », je peux l’explorer en tant que « perfection de nos motivations morales ».
 
 Un Melchizédek nous dit,
 
-> _Et de toutes les formes du mal, aucune n’est plus destructrice du statut de la personnalité que la trahison de la confiance et de la déloyauté envers ses amis de confiance._ <a id="a57_144"></a>[[LU 67:1.3](/fr/The_Urantia_Book/67#p1_3)]
+> _Et de toutes les formes du mal, aucune n’est plus destructrice du statut de la personnalité que la trahison de la confiance et de la déloyauté envers ses amis de confiance._ <a id="a58_177"></a>[[LU 67:1.3](/fr/The_Urantia_Book/67#p1_3)]
 
 La trahison de la confiance et la déloyauté envers les amis détruisent notre volonté morale.
 

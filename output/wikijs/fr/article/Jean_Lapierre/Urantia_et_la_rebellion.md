@@ -47,7 +47,7 @@ Notre planète a connu la rébellion et la faute adamique ce qui causa bien des 
 - Nous sommes des agondontaires et cette qualité inhérente demeurera pour l'éternité dans le service.
 - Nous avons bénéficié de la 4e révélation d'époque (l'effusion de Micaël sur notre planète).
 - Nous avons bénéficié de la 5e révélation d'époque (***Le Livre d'Urantia***). Cette révélation est l'équivalent des enseignements des mondes des maisons jusqu'au 5e et au-delà en ce qui concerne notre relation dans l'éternité et l'infinité.
-- Les 24 conseillers d'Urantia qui représentent directement Micaël et Gabriel sur Jérusem proviennent de notre planète. [LU 114:3.5](/fr/The_Urantia_Book/114#p3_5)
+- Les 24 conseillers d'Urantia qui représentent directement Micaël et Gabriel sur Jérusem proviennent de notre planète. <a id="a49_120"></a>[LU 114:3.5](/fr/The_Urantia_Book/114#p3_5)
 - Micaël lui-même est devenu notre Prince planétaire.
 - Un gouvernement planétaire invisible a pris le relais des deux centres culturels que nous aurions dû avoir sur notre planète si le tout s'était déroulé normalement.
 - Les ascendeurs de notre univers local qui proviennent de planètes très avancées, avant de poursuivre leur ascension vers le secteur mineur, doivent faire du service sur des planètes notamment comme la nôtre.

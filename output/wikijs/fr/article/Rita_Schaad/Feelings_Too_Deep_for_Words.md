@@ -26,11 +26,11 @@ La question que je me suis posée à maintes reprises est comment les gens – c
 
 Juste avant que Jésus ait six ans (AD1), il a rencontré et joué avec son cousin Jean et sa famille pour la première fois alors qu'ils venaient de près de Jérusalem.
 
-> _...Jésus commença à témoigner un intérêt extraordinaire pour l’histoire d’Israël et à s’informer avec force détails de la signification des rites du sabbat, des sermons de la synagogue et des fêtes commémoratives périodiques._ ([LU 123:3.5](/fr/The_Urantia_Book/123#p3_5))
+> _...Jésus commença à témoigner un intérêt extraordinaire pour l’histoire d’Israël et à s’informer avec force détails de la signification des rites du sabbat, des sermons de la synagogue et des fêtes commémoratives périodiques._ (<a id="a28_231"></a>[LU 123:3.5](/fr/The_Urantia_Book/123#p3_5))
 
 Je pense que cela aurait pu être le début de son voyage vers l'éveil et la reconnaissance de sa double nature et menant à la réalisation finale du but divin pour lequel il est venu ici. Imaginez la recherche et le tri qui ont dû être faits pour arriver plusieurs années plus tard à cette déclaration :
 
-> « _Ganid, les religions des hommes ne s’instituent pas. Elles se développent au cours de longues périodes de temps, tandis que les révélations de Dieu illuminent comme des éclairs sur terre dans la vie des hommes qui révèlent Dieu à leurs semblables._ » ([LU 132:7.6](/fr/The_Urantia_Book/132#p7_6))
+> « _Ganid, les religions des hommes ne s’instituent pas. Elles se développent au cours de longues périodes de temps, tandis que les révélations de Dieu illuminent comme des éclairs sur terre dans la vie des hommes qui révèlent Dieu à leurs semblables._ » (<a id="a32_257"></a>[LU 132:7.6](/fr/The_Urantia_Book/132#p7_6))
 
 ## Une nouvelle religion
 
@@ -42,13 +42,13 @@ C'était donc la raison de sa visite — _apparaître sur la terre et ***révél
 
 Une nouvelle religion qui sera en contradiction avec ce qui était alors une doctrine traditionnelle établie et une croyance intellectuelle d'un système religieux autocratique et stagnant, bien que le meilleur qui existait à l'époque. Encore une fois, imaginez ce que les auditeurs d'une telle proclamation auraient pensé à l'époque...
 
-> « _...Nous sommes maintenant sur le point d’entrer dans un conflit implacable avec cette religion, car nous allons bientôt commencer à proclamer audacieusement une nouvelle religion — une religion qui n’en est pas une au sens actuellement attribué à ce mot — une religion qui fait principalement appel à l’esprit divin de mon Père habitant le mental de l’homme ; une religion qui tirera son autorité des fruits de son acceptation, et ces fruits apparaitront avec certitude dans l’expérience personnelle de tous ceux qui croiront réellement et sincèrement aux vérités de cette communion spirituelle supérieure. »_ » ([LU 155:5.12](/fr/The_Urantia_Book/155#p5_12))
+> « _...Nous sommes maintenant sur le point d’entrer dans un conflit implacable avec cette religion, car nous allons bientôt commencer à proclamer audacieusement une nouvelle religion — une religion qui n’en est pas une au sens actuellement attribué à ce mot — une religion qui fait principalement appel à l’esprit divin de mon Père habitant le mental de l’homme ; une religion qui tirera son autorité des fruits de son acceptation, et ces fruits apparaitront avec certitude dans l’expérience personnelle de tous ceux qui croiront réellement et sincèrement aux vérités de cette communion spirituelle supérieure. »_ » (<a id="a44_618"></a>[LU 155:5.12](/fr/The_Urantia_Book/155#p5_12))
 
 Quelles vérités ? Quelle communion spirituelle ? Ne sommes-nous pas censés simplement offrir des sacrifices et obéir aux commandements pour plaire aux dieux ? Un appel aux armes, ne diriez-vous pas, une véritable purification des lieux du temple.
 
 Eh bien, il est dit après cela que les 24 auditeurs se sont **levés**, dans l'intention de signifier leur réponse loyale et unie à cet appel émotionnel de leur Maître.
 
-Comme nous le savons, au cours des 2000 dernières années, les gens se sont occupés d'interpréter comment le Père éternel réside dans l'esprit de l'homme et un grand nombre d'idées et de méthodes ont surgi - toutes une fois de plus soigneusement organisées et institutionnalisées - qu'aujourd'hui la _capacité de rechercher un contact réciproque avec la divinité_ ([LU 52:1.7](/fr/The_Urantia_Book/52#p1_7)) est quelque peu étouffée et restreinte.
+Comme nous le savons, au cours des 2000 dernières années, les gens se sont occupés d'interpréter comment le Père éternel réside dans l'esprit de l'homme et un grand nombre d'idées et de méthodes ont surgi - toutes une fois de plus soigneusement organisées et institutionnalisées - qu'aujourd'hui la _capacité de rechercher un contact réciproque avec la divinité_ (<a id="a50_364"></a>[LU 52:1.7](/fr/The_Urantia_Book/52#p1_7)) est quelque peu étouffée et restreinte.
 
 ## Alors, comment cela se passe-t-il ? Que sommes-nous censés faire ?
 
@@ -62,7 +62,7 @@ Pour ceux qui ont grandi dans l’église chrétienne et d’autres traditions r
 <img src="/image/article/The_Arena/feelings_too_deep3.jpg">
 </figure>
 
-> « _Si tu veux vraiment trouver Dieu, ce désir est en lui-même la preuve que tu l’as déjà trouvé._ » ([LU 130:8.2](/fr/The_Urantia_Book/130#p8_2))
+> « _Si tu veux vraiment trouver Dieu, ce désir est en lui-même la preuve que tu l’as déjà trouvé._ » (<a id="a64_103"></a>[LU 130:8.2](/fr/The_Urantia_Book/130#p8_2))
 
 Désir — sincérité — où résident-ils ?
 
@@ -82,7 +82,7 @@ Aujourd'hui, beaucoup de gens cherchent un sens à leur vie en partant de zéro 
 <img src="/image/article/The_Arena/feelings_too_deep4.jpg">
 </figure>
 
-> « _Je vous ai fait sortir des ténèbres de l’autorité et de la léthargie de la tradition pour vous faire entrer dans la lumière transcendante où vous réaliserez la possibilité de faire par vous-mêmes la plus grande découverte possible pour l’âme humaine — l’expérience divine de trouver Dieu pour vous-mêmes, en vous-mêmes et par vous-mêmes, et d’accomplir tout cela comme un fait de votre expérience personnelle._ » ([LU 155:6.3](/fr/The_Urantia_Book/155#p6_3))
+> « _Je vous ai fait sortir des ténèbres de l’autorité et de la léthargie de la tradition pour vous faire entrer dans la lumière transcendante où vous réaliserez la possibilité de faire par vous-mêmes la plus grande découverte possible pour l’âme humaine — l’expérience divine de trouver Dieu pour vous-mêmes, en vous-mêmes et par vous-mêmes, et d’accomplir tout cela comme un fait de votre expérience personnelle._ » (<a id="a84_419"></a>[LU 155:6.3](/fr/The_Urantia_Book/155#p6_3))
 
 Alors vient un moment – inattendu – où nous arrivons d’une manière ou d’une autre… où nous obtenons une réponse à notre question brûlante, si personnelle, si poignante qu’elle nous fait nous arrêter net. Qu’avons-nous vu dans ce premier moment intime avec la « lumière transcendante » qui nous a réchauffés de l’intérieur et nous a fait avancer et qui en fait nous sauve ? Cette transformation initiale que nous n’avons probablement pas reconnue consciemment, la graine qui a été plantée et qui a germé ?
 
@@ -90,7 +90,7 @@ Et oui, on nous rappelle souvent que la lumière peut nous aveugler, nous faire 
 
 Dans la charge d’Emmanuel à son « frère Créateur » avant sa septième effusion, il lui a rappelé qu’après cette expérience sur la planète Urantia...
 
-> « _...tu connaitras, dans toute sa vérité, le plein sens et la riche signification de cette confiance dans la foi dont tu exiges si invariablement ***la maitrise par toutes tes créatures*** comme part de leurs relations intimes ***avec toi*** en tant que Créateur et Père de leur univers local._ » ([LU 120:1.3](/fr/The_Urantia_Book/120#p1_3))
+> « _...tu connaitras, dans toute sa vérité, le plein sens et la riche signification de cette confiance dans la foi dont tu exiges si invariablement ***la maitrise par toutes tes créatures*** comme part de leurs relations intimes ***avec toi*** en tant que Créateur et Père de leur univers local._ » (<a id="a92_301"></a>[LU 120:1.3](/fr/The_Urantia_Book/120#p1_3))
 
 Nous sommes maintenant libérés de l'esclavage des vieilles traditions car il nous est **requis** de maîtriser une foi-confiance afin de grandir dans notre « relation intime » avec Jésus et, ce faisant, de faire connaissance avec le Père de tous. De plus en plus, nous commençons à cultiver avec confiance une foi dans ces **rencontres sublimes et proches** avec l'Esprit qui nous laissent le sentiment d'être soutenus, pris en charge, écoutés... plus jamais seuls.
 
@@ -100,7 +100,7 @@ Même si souvent la peur nous envahit, l'immensité du défi ou de la tâche à 
 
 Je me suis souvent interrogé sur ce passage :
 
-> _Les hommes et les femmes modernes et intelligents fuient la religion de Jésus par crainte de ce qu’elle *leur* fera — et de ce qu’elle fera *d’eux.* Et toutes ces craintes sont bien fondées. En vérité, la religion de Jésus domine et transforme ses fidèles ; elle exige que les hommes consacrent leur vie à rechercher la connaissance de la volonté du Père qui est aux cieux ..._ ([LU 195:9.6](/fr/The_Urantia_Book/195#p9_6))
+> _Les hommes et les femmes modernes et intelligents fuient la religion de Jésus par crainte de ce qu’elle *leur* fera — et de ce qu’elle fera *d’eux.* Et toutes ces craintes sont bien fondées. En vérité, la religion de Jésus domine et transforme ses fidèles ; elle exige que les hommes consacrent leur vie à rechercher la connaissance de la volonté du Père qui est aux cieux ..._ (<a id="a102_382"></a>[LU 195:9.6](/fr/The_Urantia_Book/195#p9_6))
 
 ## Trop profond pour les mots
 
@@ -108,7 +108,7 @@ Je me suis souvent interrogé sur ce passage :
 <img src="/image/article/The_Arena/feelings_too_deep5.jpg">
 </figure>
 
-> « _La religion ... est plutôt une expérience profondément grave et effective de communion spirituelle avec les influences d’esprit qui résident dans le mental humain. Dans la mesure où l’on peut définir cette expérience en termes de psychologie, elle consiste simplement à savoir expérimentalement que la réalité de la croyance en Dieu est la réalité d’une telle expérience purement personnelle._ » ([LU 101:1.4](/fr/The_Urantia_Book/101#p1_4))
+> « _La religion ... est plutôt une expérience profondément grave et effective de communion spirituelle avec les influences d’esprit qui résident dans le mental humain. Dans la mesure où l’on peut définir cette expérience en termes de psychologie, elle consiste simplement à savoir expérimentalement que la réalité de la croyance en Dieu est la réalité d’une telle expérience purement personnelle._ » (<a id="a110_402"></a>[LU 101:1.4](/fr/The_Urantia_Book/101#p1_4))
 
 Trop profonds pour être exprimés par des mots, peut-être que de tels sentiments ne sont pas faits pour être exprimés par des mots. Peut-être que de tels sentiments et idées profondes sont mieux gardés et gardés pour soi, comme le devraient les moments intimes. De tels trésors sont très personnels et uniques et sont comme la résonance de l'âme en croissance, en phase avec l'harmonie cosmique. De tels moments nous font nous arrêter et réfléchir, nous émerveiller, nous émerveiller ; ils nous émeuvent de manière inexplicable et _notre vie ne sera plus jamais la même..._
 
@@ -126,13 +126,13 @@ N'est-ce pas ce que Jésus entend par « les fruits de l'acceptation » de la ce
 <img src="/image/article/The_Arena/feelings_too_deep6.jpg">
 </figure>
 
-> **La personne religieuse ayant la foi croit en un Dieu qui entretient la survie, au Père dans les cieux, au Dieu d’amour.** ([LU 5:5.3](/fr/The_Urantia_Book/5#p5_3))
+> **La personne religieuse ayant la foi croit en un Dieu qui entretient la survie, au Père dans les cieux, au Dieu d’amour.** (<a id="a128_127"></a>[LU 5:5.3](/fr/The_Urantia_Book/5#p5_3))
 
 C'est là que Jésus sauve, au milieu de notre réalité. C'est pourquoi on l'appelle le Sauveur. Connaissez-vous cette main, celle qui sauve ? C'est celle qui saisit la vôtre après que vous l'ayez tendu. Je la vois clairement et j'ai souvent hésité à la saisir et à en sentir la force.
 
-> « _« ...Je vous fortifierai et je vous aiderai ; oui, je vous soutiendrai avec la main droite de ma justice, car je suis le Seigneur votre Dieu. Et je tiendrai votre main droite en vous disant : ne craignez rien, car je vous aiderai._ » ([LU 126:4.6](/fr/The_Urantia_Book/126#p4_6))
+> « _« ...Je vous fortifierai et je vous aiderai ; oui, je vous soutiendrai avec la main droite de ma justice, car je suis le Seigneur votre Dieu. Et je tiendrai votre main droite en vous disant : ne craignez rien, car je vous aiderai._ » (<a id="a132_240"></a>[LU 126:4.6](/fr/The_Urantia_Book/126#p4_6))
 
-> « « Tu es mon témoin, dit le Seigneur, et mon serviteur que j’ai choisi afin que tous puissent me connaitre et me croire et comprendre que je suis l’Éternel. Moi, oui moi, je suis le Seigneur, et hors de moi il n’y a point de sauveur. » » ([LU 126:4.7](/fr/The_Urantia_Book/126#p4_7))
+> « « Tu es mon témoin, dit le Seigneur, et mon serviteur que j’ai choisi afin que tous puissent me connaitre et me croire et comprendre que je suis l’Éternel. Moi, oui moi, je suis le Seigneur, et hors de moi il n’y a point de sauveur. » » (<a id="a134_242"></a>[LU 126:4.7](/fr/The_Urantia_Book/126#p4_7))
 
 Une prise de foi, un acte de foi... De telles inspirations ont une grande portée et le pouvoir de transformer.
 
@@ -144,7 +144,7 @@ Une prise de foi, un acte de foi... De telles inspirations ont une grande porté
 
 Transformation est un grand mot, n'est-ce pas ? Être une chose, puis devenir autre chose. Naître de nouveau. Être sur le chemin comme une rivière, assis au fond de son lit creusé, coulant en toute sécurité, et ne s'arrêtant jamais — ayant une destinée.
 
-> _Jésus dépouilla la moralité de toutes les règles et cérémonies, et l’éleva aux hauteurs majestueuses de la pensée spirituelle et de la vie véritablement droite._ ([LU 140:10.5](/fr/The_Urantia_Book/140#p10_5))
+> _Jésus dépouilla la moralité de toutes les règles et cérémonies, et l’éleva aux hauteurs majestueuses de la pensée spirituelle et de la vie véritablement droite._ (<a id="a146_166"></a>[LU 140:10.5](/fr/The_Urantia_Book/140#p10_5))
 
 Être détenu — proche
 

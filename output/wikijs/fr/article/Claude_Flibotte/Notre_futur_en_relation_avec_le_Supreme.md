@@ -38,11 +38,11 @@ dateCreated: 2023-09-29T14:02:03.086Z
 _Claude Flibotte_
 Sainte-Julie
 
-Réalisons-nous ce que représente pour nous notre participation à l'actualisation de cette nouvelle déité qu'est le Suprême ? Lorsque nous serons devenus, au Paradis, de parfaits finalitaires, par une technique d'expérience de la transcendance finalitaire, nous serons alors reliés au circuit de gravité spirituelle du Fils Éternel, nous deviendrons des personnalités expérientielles de Dieu le Suprême ([LU 117:5.3](/fr/The_Urantia_Book/117#p5_3)).
+Réalisons-nous ce que représente pour nous notre participation à l'actualisation de cette nouvelle déité qu'est le Suprême ? Lorsque nous serons devenus, au Paradis, de parfaits finalitaires, par une technique d'expérience de la transcendance finalitaire, nous serons alors reliés au circuit de gravité spirituelle du Fils Éternel, nous deviendrons des personnalités expérientielles de Dieu le Suprême (<a id="a40_403"></a>[LU 117:5.3](/fr/The_Urantia_Book/117#p5_3)).
 
-Actuellement, notre mental fini de créature nous empêche de connaitre le Père en tant qu'infini et absolu, cependant en relation avec le Suprême, celui-ci compensera notre inaptitude dans l'établissement d'un contact limité avec l'univers des univers. Les révélateurs soupçonnent qu'étant fusionné avec notre Ajusteur de Pensée, celui-ci nous révèlera, lors de l'atteinte du septième stade d'esprit, la divinité et la nature de Dieu le Suprême, l'équivalent de la révélation de l'Infini pour un être absolu ([LU 117:6.18](/fr/The_Urantia_Book/117#p6_18)).
+Actuellement, notre mental fini de créature nous empêche de connaitre le Père en tant qu'infini et absolu, cependant en relation avec le Suprême, celui-ci compensera notre inaptitude dans l'établissement d'un contact limité avec l'univers des univers. Les révélateurs soupçonnent qu'étant fusionné avec notre Ajusteur de Pensée, celui-ci nous révèlera, lors de l'atteinte du septième stade d'esprit, la divinité et la nature de Dieu le Suprême, l'équivalent de la révélation de l'Infini pour un être absolu (<a id="a42_508"></a>[LU 117:6.18](/fr/The_Urantia_Book/117#p6_18)).
 
-Puisque toutes les expériences des créatures s'enregistrent dans le Suprême, et que toutes les créatures auront atteint le niveau final expérientiel de divinité dans le Suprême à la fin du deuxième âge de l'univers, nous aurons un contact effectif avec la totalité de cette expérience ([LU 117:5.14](/fr/The_Urantia_Book/117#p5_14)).
+Puisque toutes les expériences des créatures s'enregistrent dans le Suprême, et que toutes les créatures auront atteint le niveau final expérientiel de divinité dans le Suprême à la fin du deuxième âge de l'univers, nous aurons un contact effectif avec la totalité de cette expérience (<a id="a44_286"></a>[LU 117:5.14](/fr/The_Urantia_Book/117#p5_14)).
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/2023_07/031.jpg">

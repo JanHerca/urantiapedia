@@ -18,7 +18,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 
 _Le regretté Ken Glasziou, Qld_
 
-> _Au stade mortel, rien ne peut être prouvé absolument ; la science et la religion sont toutes deux fondées sur des hypothèses._ ([LU 103:7.10](/fr/The_Urantia_Book/103#p7_10))
+> _Au stade mortel, rien ne peut être prouvé absolument ; la science et la religion sont toutes deux fondées sur des hypothèses._ (<a id="a20_131"></a>[LU 103:7.10](/fr/The_Urantia_Book/103#p7_10))
 > 
 > En 1935, une telle déclaration n’aurait pu être faite avec assurance que par une poignée de nos hommes les plus érudits.
 

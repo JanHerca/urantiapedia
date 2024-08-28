@@ -56,7 +56,7 @@ Richard Keeler a été un fidéicommissaire à la Fondation Urantia pendant 30 a
 Richard nous manque à nous tous et nous lui disons bon vent et que son ange gardien l’emmène dans le monde des maisons. Richard, nous saluons le fragment de l’infini, l’étincelle de divinité et la braise d’éternité en toi. Nous vous laissons avec la citation préférée de Richard dans _Le Livre d’Urantia_ :
 <br style="clear:both;"/>
 
-> _De ce Dieu qui est la plus inéluctable de toutes les présences, le plus réel de tous les faits, la plus vivante de toutes les vérités, le plus aimant de tous les amis, la plus divine de toutes les valeurs, nous avons le droit d’être certains comme de la plus certaine de toutes les expériences de l’univers._ <a id="a57_247"></a>[[LU 102:7.10](/fr/The_Urantia_Book/102#p7_10)]
+> _De ce Dieu qui est la plus inéluctable de toutes les présences, le plus réel de tous les faits, la plus vivante de toutes les vérités, le plus aimant de tous les amis, la plus divine de toutes les valeurs, nous avons le droit d’être certains comme de la plus certaine de toutes les expériences de l’univers._ <a id="a58_312"></a>[[LU 102:7.10](/fr/The_Urantia_Book/102#p7_10)]
 
 **Hoite Caston**
 

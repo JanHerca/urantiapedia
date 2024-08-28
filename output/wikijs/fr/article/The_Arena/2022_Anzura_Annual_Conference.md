@@ -29,7 +29,7 @@ Le « ROPE » dans le titre du thème est un acronyme pour la **R**eligion**de**
 
 _Le Livre d'Urantia_ est rempli de citations impressionnantes nous rappelant que la communion personnelle et intime avec Dieu est à la portée de nous tous !
 
-> _Il est grand temps que les hommes aient une expérience religieuse si personnelle et si sublime qu’elle ne puisse se concevoir et se manifester que par des « sentiments trop profonds pour s’exprimer par des mots »._ ([LU 99:5.9](/fr/The_Urantia_Book/99#p5_9))
+> _Il est grand temps que les hommes aient une expérience religieuse si personnelle et si sublime qu’elle ne puisse se concevoir et se manifester que par des « sentiments trop profonds pour s’exprimer par des mots »._ (<a id="a31_219"></a>[LU 99:5.9](/fr/The_Urantia_Book/99#p5_9))
 
 ## Lieu
 

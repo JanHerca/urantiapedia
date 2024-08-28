@@ -56,7 +56,7 @@ Comme « par hasard », j’ai rapidement rencontré un groupe de jeunes gens sy
 
 Alors comment un couple de vieux gringos d’Hawaï s’est-il retrouvé « échoué » à Puerto Varas, au Chili ? Il est vrai que ce n’est pas l’histoire typique d’un couple coincé à 6 000 miles de chez lui, mais c’est mon histoire, et de nombreuses bonnes expériences ont résulté de cette période de voyage et d’isolement.
 
-Nous avons suivi de près la progression de la Covid-19 depuis Hawaï depuis fin décembre. Nous avions auparavant décidé de retourner au Chili via Rapa Nui (l’île de Pâques) en mars. Nous avions prévu de rencontrer le maire de l’île, puisqu’il était un lecteur du Livre d’Urantia. Nous avons pu le rencontrer et avons pris un petit déjeuner intéressant. Le Livre d’Urantia mentionne l’île de Pâques avec une histoire intéressante. (<a id="a57_394"></a>[LU 78:5.7](/fr/The_Urantia_Book/78#p5_7)) Nous voulions également faire don d’un livre à la bibliothèque locale de l’île.
+Nous avons suivi de près la progression de la Covid-19 depuis Hawaï depuis fin décembre. Nous avions auparavant décidé de retourner au Chili via Rapa Nui (l’île de Pâques) en mars. Nous avions prévu de rencontrer le maire de l’île, puisqu’il était un lecteur du Livre d’Urantia. Nous avons pu le rencontrer et avons pris un petit déjeuner intéressant. Le Livre d’Urantia mentionne l’île de Pâques avec une histoire intéressante. (<a id="a58_430"></a>[LU 78:5.7](/fr/The_Urantia_Book/78#p5_7)) Nous voulions également faire don d’un livre à la bibliothèque locale de l’île.
 
 
 

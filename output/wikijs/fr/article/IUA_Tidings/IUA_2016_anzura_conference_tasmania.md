@@ -50,11 +50,11 @@ Australie
 Urantia est en passe de connaître une révolution spirituelle, comme ça n'a jamais été vu auparavant sur cette planète :
 
 
-> _Urantia frémit actuellement au bord même d'une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d'illumination spirituelle._. <a id="a163_168"></a>[[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)]
+> _Urantia frémit actuellement au bord même d'une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d'illumination spirituelle._. <a id="a52_182"></a>[[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)]
 
 Il y a maintenant plus de soixante-quinze ans qu'une Commission de Médians a déclaré ce message à notre monde troublé ! Où et comment pouvons-nous, en tant que lecteurs et étudiants du _Livre d'Urantia_, nous situer dans ce scénario planétaire de la réforme sociale, morale et spirituelle ? Considérez ce qui suit :
 
-> _La religion de Jésus est la plus puissante influence unificatrice que le monde ait jamais connue._ <a id="a168_92"></a>[[LU 194:3.17](/fr/The_Urantia_Book/194#p3_17)]
+> _La religion de Jésus est la plus puissante influence unificatrice que le monde ait jamais connue._ <a id="a56_102"></a>[[LU 194:3.17](/fr/The_Urantia_Book/194#p3_17)]
 
 Se pourrait-il que cette religion de Jésus soit le fusible qui enflamme et la force motrice de cette renaissance mondiale ? Et si oui, comment est-ce que ça se passe ? Qui sont les principaux acteurs? Et quel est le plan divin au juste, pour ce renouveau spirituel sans précédent?
 
@@ -62,11 +62,11 @@ Ces questions intrigantes et beaucoup d'autres sont à être prises en considér
 
 #### Notre thème
 
-> _Tôt ou tard, un Jean le baptiste nouveau et plus grand se dressera en proclamant que : «le royaume de Dieu est à portée de la main » – signifiant un retour au concept spirituel supérieur de Jésus .... Il faut qu'il se produise une renaissance des enseignements de Jésus ..._<a id="a62_233"></a>[[LU 170:5.19](/fr/The_Urantia_Book/170#p5_19)]
+> _Tôt ou tard, un Jean le baptiste nouveau et plus grand se dressera en proclamant que : «le royaume de Dieu est à portée de la main » – signifiant un retour au concept spirituel supérieur de Jésus .... Il faut qu'il se produise une renaissance des enseignements de Jésus ..._<a id="a64_277"></a>[[LU 170:5.19](/fr/The_Urantia_Book/170#p5_19)]
 
-> _... Les éducateurs de cette nouvelle religion sont désormais munis d'armes spirituelles ..._<a id="a64_80"></a>[[LU 194:3.11](/fr/The_Urantia_Book/194#p3_11)]
+> _... Les éducateurs de cette nouvelle religion sont désormais munis d'armes spirituelles ..._<a id="a66_95"></a>[[LU 194:3.11](/fr/The_Urantia_Book/194#p3_11)]
 
-> _La religion a besoin de nouveaux dirigeants, d'hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements. Si le christianisme persiste à négliger sa mission spirituelle tout en continuant à s'occuper des problèmes sociaux et matériels, il faudra que la renaissance spirituelle attende la venue de ces nouveaux instructeurs de la religion de Jésus qui se consacreront exclusivement à la régénération spirituelle des hommes._ <a id="a66_421"></a>[[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4)]
+> _La religion a besoin de nouveaux dirigeants, d'hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements. Si le christianisme persiste à négliger sa mission spirituelle tout en continuant à s'occuper des problèmes sociaux et matériels, il faudra que la renaissance spirituelle attende la venue de ces nouveaux instructeurs de la religion de Jésus qui se consacreront exclusivement à la régénération spirituelle des hommes._ <a id="a68_479"></a>[[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4)]
 
 Qui sont ces « nouveaux instructeurs de la religion de Jésus », qui courageusement proclament son message source de vie dans le monde ? Qu'est-ce qui les qualifie comme tels ? Quelles sont ces « armes spirituelles » avec lesquelles ils sont équipés ? Comment effectuent-ils ce rôle critique au nom de leurs compagnons mortels ? Ce sont des questions pertinentes à considérer lorsque nous répondons à l’appel d'être des instructeurs de la religion de Jésus. Sommes-nous prêts à passer à la tâche ? Si ce n'est pas nous .... Alors qui ?
 

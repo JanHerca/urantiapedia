@@ -64,7 +64,7 @@ En espérant que ces lectures sauront vous inspirer durant vos vacances, lors de
 Une citation de Jésus très à propos du contexte actuel dans le monde.
 <br style="clear:both;"/>
 
-> « Je vous mets en garde contre les faux prophètes qui viendront vers vous habillés en moutons, alors qu'à l'intérieur ils ressemblent à des loups dévorants. Vous les connaitrez à leurs fruits. » [LU 140:3.19](/fr/The_Urantia_Book/140#p3_19)
+> « Je vous mets en garde contre les faux prophètes qui viendront vers vous habillés en moutons, alors qu'à l'intérieur ils ressemblent à des loups dévorants. Vous les connaitrez à leurs fruits. » <a id="a66_197"></a>[LU 140:3.19](/fr/The_Urantia_Book/140#p3_19)
 
 Aimer c'est servir !
 

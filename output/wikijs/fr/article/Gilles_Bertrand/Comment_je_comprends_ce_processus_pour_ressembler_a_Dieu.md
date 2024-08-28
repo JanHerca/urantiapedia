@@ -84,7 +84,7 @@ Voici donc les douze sujets proposés dans ce carnet et les correspondants à le
 
 En janvier le thème choisi est « la vérité ». En février, « la beauté». Et, ainsi de suite, pour les autres champs réciproques tels que « la bonté », « l'unité », « l'amour », « la miséricorde », « le service », « l'adoration » que j’appelle l'émerveillement, « la joie», « la foi », « la sagesse» et « la paix ».
 
-Je vous réfère au fascicule [LU 44:7](/fr/The_Urantia_Book/44#p7) pour conclure sur ma présentation, elle synthétise parfaitement mon raisonnement.
+Je vous réfère au fascicule <a id="a86_28"></a>[LU 44:7](/fr/The_Urantia_Book/44#p7) pour conclure sur ma présentation, elle synthétise parfaitement mon raisonnement.
 
 «Ces qualités divines sont parfaitement et absolument unifiées en Dieu. Et tout homme ou ange qui connait Dieu possède le potentiel d'expression illimitée de soi sur des niveaux toujours progressifs de réalisation de soi unifiée <ins><b>par la technique de l'aboutissement sans fin de la ressemblance à Dieu</b> — le mélange expérientiel dans l'expérience évolutionnaire de la vérité éternelle, la beauté universelle et la divine bonté.</ins>»
 

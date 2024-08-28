@@ -66,25 +66,25 @@ En deuxième lieu, nous porterons ici notre attention sur le plan de salut tel q
 
 Micaël de Nébadon avait déjà complété six autres effusions dans son propre univers. Il lui restait à accomplir une dernière effusion en tant qu'homme de chair et de sang, à l'image de ses propres créatures. Il le fit afin de :
 
-> ... Vivre une vie identique à celle qu'il impose aux êtres intelligents de sa propre création, donc de s'effuser dans la similitude de ses divers ordres d'êtres créés, représente une partie du prix que chaque Fils Créateur doit payer pour gagner la souveraineté complète et suprême de l'univers de choses et d'êtres qu'il a lui-même édifié. [LU 120:0.1](/fr/The_Urantia_Book/120#p0_1)
+> ... Vivre une vie identique à celle qu'il impose aux êtres intelligents de sa propre création, donc de s'effuser dans la similitude de ses divers ordres d'êtres créés, représente une partie du prix que chaque Fils Créateur doit payer pour gagner la souveraineté complète et suprême de l'univers de choses et d'êtres qu'il a lui-même édifié. <a id="a68_343"></a>[LU 120:0.1](/fr/The_Urantia_Book/120#p0_1)
 
 2\. _Devenir un administrateur miséricordieux, sage et compréhensif._
 
 Malgré l'entrainement intensif suivi au Paradis et dans Havona sous la supervision de ses semblables, un dernier perfectionnement s'effectue lors de cet ultime évènement.
 
-> Bien que ces effusions apportent de nombreux avantages accessoires aux divers mondes, systèmes et constellations, ainsi qu'aux différents ordres d'intelligences universelles qu'elles touchent et qu'elles améliorent, leur destination primordiale reste néanmoins de parachever la formation personnelle et l'éducation universelle d'un Fils Créateur lui-même [LU 119:0.5](/fr/The_Urantia_Book/119#p0_5)
+> Bien que ces effusions apportent de nombreux avantages accessoires aux divers mondes, systèmes et constellations, ainsi qu'aux différents ordres d'intelligences universelles qu'elles touchent et qu'elles améliorent, leur destination primordiale reste néanmoins de parachever la formation personnelle et l'éducation universelle d'un Fils Créateur lui-même <a id="a74_357"></a>[LU 119:0.5](/fr/The_Urantia_Book/119#p0_5)
 
 3\. _Révéler le Père qui est aux cieux et faire sa volonté._
 
 Parallèlement au but de mériter sa souveraineté sur son univers, il devait révéler le Père aux hommes.
 
-> La grande mission que tu dois réaliser et expérimenter dans l'incarnation mortelle est contenue dans ta décision de vivre une vie consacrée de tout cœur à faire la volonté de ton Père du Paradis, et ainsi de révéler Dieu, ton Père, dans la chair et spécialement aux créatures de chair. [LU 120:2.8](/fr/The_Urantia_Book/120#p2_8)
+> La grande mission que tu dois réaliser et expérimenter dans l'incarnation mortelle est contenue dans ta décision de vivre une vie consacrée de tout cœur à faire la volonté de ton Père du Paradis, et ainsi de révéler Dieu, ton Père, dans la chair et spécialement aux créatures de chair. <a id="a80_288"></a>[LU 120:2.8](/fr/The_Urantia_Book/120#p2_8)
 
 4\. _Représenter l'autorité maximale de la Trinité du Paradis._
 
 Tout au long de ses effusions précédentes, Micaël s'était soumis à la volonté des diverses représentations de la Trinité Paradisiaque. Dans celle-ci, il devait se soumettre à faire la volonté du Père.
 
-> ... il aspirait au privilège de représenter l'autorité maximum de la Trinité du Paradis susceptible d'être exercée dans l'administration directe et personnelle d'un univers local [LU 120:0.4](/fr/The_Urantia_Book/120#p0_4)
+> ... il aspirait au privilège de représenter l'autorité maximum de la Trinité du Paradis susceptible d'être exercée dans l'administration directe et personnelle d'un univers local <a id="a86_181"></a>[LU 120:0.4](/fr/The_Urantia_Book/120#p0_4)
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_09/009.jpg">
@@ -95,35 +95,35 @@ Tout au long de ses effusions précédentes, Micaël s'était soumis à la volon
 
 En plus de gagner sa souveraineté et de révéler son Père, notre Père, il devait mettre fin à la rébellion de Lucifer, son propre fils dévoyé.
 
-> Un après-midi de fin d'été, au milieu des arbres et du silence de la nature, Micaël de Nébadon gagna la souveraineté indiscutée de son univers. Ce jour-là, il paracheva la tâche imposée aux Fils Créateurs de vivre pleinement une vie incarnée dans la similitude de la chair mortelle sur les mondes évolutionnaires du temps et de l'espace... Quand Jésus descendit de son séjour sur le mont Hermon, la rébellion de Lucifer dans Satania et la sécession de Caligastia sur Urantia étaient pratiquement réglées. [LU 134:8.9](/fr/The_Urantia_Book/134#p8_9)
+> Un après-midi de fin d'été, au milieu des arbres et du silence de la nature, Micaël de Nébadon gagna la souveraineté indiscutée de son univers. Ce jour-là, il paracheva la tâche imposée aux Fils Créateurs de vivre pleinement une vie incarnée dans la similitude de la chair mortelle sur les mondes évolutionnaires du temps et de l'espace... Quand Jésus descendit de son séjour sur le mont Hermon, la rébellion de Lucifer dans Satania et la sécession de Caligastia sur Urantia étaient pratiquement réglées. <a id="a97_507"></a>[LU 134:8.9](/fr/The_Urantia_Book/134#p8_9)
 
 6\. _Révéler la volonté et favoriser l'évolution de Dieu le Suprême._
 
 Par son expérience personnelle en opérant comme révélateur de la volonté de la Suprématie, Micaël, à l'instar de tous les autres Maitres Fils, s'est identifié lui-même avec le Suprême pour l'éternité.
 
-> En faisant l'expérience de révéler les volontés des Sept Maitres Esprits issus de la Trinité, le Fils Créateur a passé par l'expérience de dévoiler la volonté du Suprême... Au cours du présent âge de l'univers, il révèle le Suprême et participe à l'actualisation de la souveraineté de la Suprématie. [LU 119:8.7](/fr/The_Urantia_Book/119#p8_7)
+> En faisant l'expérience de révéler les volontés des Sept Maitres Esprits issus de la Trinité, le Fils Créateur a passé par l'expérience de dévoiler la volonté du Suprême... Au cours du présent âge de l'univers, il révèle le Suprême et participe à l'actualisation de la souveraineté de la Suprématie. <a id="a103_302"></a>[LU 119:8.7](/fr/The_Urantia_Book/119#p8_7)
 
 7\. _Prévoir l'octroi universel des Ajusteurs de Pensée._
 
 La mission de Jésus devait rendre la liberté spirituelle aux hommes atteints par la rébellion de Lucifer. Par sa vie temporelle, la volonté de la créature finie et la volonté du Créateur infini sont destinées à ne devenir qu'une, de même qu'elles sont aussi en voie d'union chez la Déité évoluant de l'Être Suprême. Son Esprit de Vérité étant destiné à ouvrir la voie à l'affluence des Ajusteurs pour tout être moralement normal.
 
-> ... Répands sur la planète de ton effusion l'Esprit de Vérité, et rends ainsi tous les hommes normaux de cette sphère isolée immédiatement et pleinement accessibles au ministère de la présence fractionnée de notre Père du Paradis, les Ajusteurs de Pensée des royaumes. [LU 120:2.6](/fr/The_Urantia_Book/120#p2_6)
+> ... Répands sur la planète de ton effusion l'Esprit de Vérité, et rends ainsi tous les hommes normaux de cette sphère isolée immédiatement et pleinement accessibles au ministère de la présence fractionnée de notre Père du Paradis, les Ajusteurs de Pensée des royaumes. <a id="a109_271"></a>[LU 120:2.6](/fr/The_Urantia_Book/120#p2_6)
 
 8\. _Préparer la voie à l'effusion de l'Esprit de Vérité._
 
 Durant sa vie incarnée, Jésus était l'Esprit de Vérité, mais ses enseignements étaient limités à la présence de sa personne. Il enseigna à ses apôtres qu'après son départ, il enverrait son Esprit de Vérité guider le mental de tous les hommes.
 
-> ... Et cet Esprit de Vérité, que j’effuserai sur vous, vous guidera, vous consolera et, en fin de compte, vous conduira dans toute la vérité. [LU 180:4.2](/fr/The_Urantia_Book/180#p4_2)
+> ... Et cet Esprit de Vérité, que j’effuserai sur vous, vous guidera, vous consolera et, en fin de compte, vous conduira dans toute la vérité. <a id="a115_144"></a>[LU 180:4.2](/fr/The_Urantia_Book/180#p4_2)
 
-> ... Ce nouvel instructeur est l'Esprit de Vérité qui vivra avec chacun de vous, dans votre cœur, et, ainsi, tous les enfants de lumière ne feront plus qu'un et seront attirés les uns vers les autres. [LU 180:4.5](/fr/The_Urantia_Book/180#p4_5)
+> ... Ce nouvel instructeur est l'Esprit de Vérité qui vivra avec chacun de vous, dans votre cœur, et, ainsi, tous les enfants de lumière ne feront plus qu'un et seront attirés les uns vers les autres. <a id="a117_202"></a>[LU 180:4.5](/fr/The_Urantia_Book/180#p4_5)
 
 9\. _Devenir l'inspiration d'une vie religieuse pour tout son univers._
 
 Le Jésus humain vécut une vie parfaite servant de modèle à suivre pour que chaque humain de tout temps puisse vivre la sienne consacrée à faire la volonté du Père du Paradis.
 
-> ... Vis la vie religieuse idéale pour l'inspiration et l'édification de tout ton univers. [LU 120:2.5](/fr/The_Urantia_Book/120#p2_5)
+> ... Vis la vie religieuse idéale pour l'inspiration et l'édification de tout ton univers. <a id="a123_92"></a>[LU 120:2.5](/fr/The_Urantia_Book/120#p2_5)
 
-> ... ta vie dans la chair sur Urantia sera une inspiration pour toutes les vies, sur tous les mondes de Nébadon à travers toutes les générations des âges à venir. [LU 120:2.7](/fr/The_Urantia_Book/120#p2_7)
+> ... ta vie dans la chair sur Urantia sera une inspiration pour toutes les vies, sur tous les mondes de Nébadon à travers toutes les générations des âges à venir. <a id="a125_164"></a>[LU 120:2.7](/fr/The_Urantia_Book/120#p2_7)
 
 10\. _La mort de Jésus sur la croix._
 
@@ -136,39 +136,39 @@ Les évènements tels que racontés dans ***Le Livre d'Urantia*** et aboutissant
 <figcaption>La crucifixion par Leon Bonnat Fine Art America.</figcaption>
 </figure>
 
-> Ce fut l'homme, et non Dieu, qui projeta et mit à exécution la mort de Jésus sur la croix. [LU 186:5.2](/fr/The_Urantia_Book/186#p5_2)
+> Ce fut l'homme, et non Dieu, qui projeta et mit à exécution la mort de Jésus sur la croix. <a id="a138_93"></a>[LU 186:5.2](/fr/The_Urantia_Book/186#p5_2)
 
 B- _La croix n'était pas un sacrifice pour la culpabilité des mortels._
 
 Contrairement à la croyance véhiculée par la chrétienté, Dieu n'immola pas son fils unique pour le rachat de nos péchés.
 
-> ... La croix n'est pas le symbole du sacrifice de l'innocent Fils de Dieu se substituant aux pécheurs coupables en vue d'apaiser le courroux d'un Dieu offensé. [LU 188:5.9](/fr/The_Urantia_Book/188#p5_9)
+> ... La croix n'est pas le symbole du sacrifice de l'innocent Fils de Dieu se substituant aux pécheurs coupables en vue d'apaiser le courroux d'un Dieu offensé. <a id="a144_162"></a>[LU 188:5.9](/fr/The_Urantia_Book/188#p5_9)
 
 C- _L'homme n'est pas un enfant du diable_
 
 Quiconque connait vraiment le Père comme Jésus nous l'a présenté, ne peut concevoir que dans son amour infini, le Père n'ait volontairement sacrifié son Fils pas plus qu'il condamnerait une âme sincère pour les méfaits de ses ancêtres.
 
-> L'homme mortel n'a jamais été la propriété des maitres fourbes. Jésus n'a pas donné sa vie comme rançon pour dégager les hommes des griffes des chefs apostats et des princes déchus des sphères... La mort du Maitre sur la croix n'a pas non plus été un sacrifice pour rembourser à Dieu une dette que la race humaine aurait contractée envers lui. [LU 188:4.3](/fr/The_Urantia_Book/188#p4_3)
+> L'homme mortel n'a jamais été la propriété des maitres fourbes. Jésus n'a pas donné sa vie comme rançon pour dégager les hommes des griffes des chefs apostats et des princes déchus des sphères... La mort du Maitre sur la croix n'a pas non plus été un sacrifice pour rembourser à Dieu une dette que la race humaine aurait contractée envers lui. <a id="a150_346"></a>[LU 188:4.3](/fr/The_Urantia_Book/188#p4_3)
 
 11\. _La mort de Jésus n'est pas une expiation._
 
 Les citations suivantes sont tout à fait explicites !
 
-> Jésus ne va pas mourir à titre de sacrifice pour le péché ; il ne va pas expier la culpabilité morale innée de la race humaine. L'humanité n'est pas racialement coupable de cette manière devant Dieu. [LU 186:5.7](/fr/The_Urantia_Book/186#p5_7)
+> Jésus ne va pas mourir à titre de sacrifice pour le péché ; il ne va pas expier la culpabilité morale innée de la race humaine. L'humanité n'est pas racialement coupable de cette manière devant Dieu. <a id="a156_202"></a>[LU 186:5.7](/fr/The_Urantia_Book/186#p5_7)
 
-> L'idée barbare d'apaiser un Dieu courroucé, de se rendre favorable un Seigneur offensé, de gagner les faveurs de la Déité par des sacrifices, des pénitences, et même en versant du sang, représente une religion totalement puérile et primitive, une philosophie indigne d'un âge éclairé par la science et la vérité. De telles croyances sont absolument répugnantes pour les êtres célestes et les chefs divins qui servent et règnent dans les univers. C'est un affront à Dieu de croire, de soutenir ou d'enseigner qu'il faut verser du sang innocent pour gagner ses faveurs ou détourner une colère divine fictive. [LU 4:5.4](/fr/The_Urantia_Book/4#p5_4)
+> L'idée barbare d'apaiser un Dieu courroucé, de se rendre favorable un Seigneur offensé, de gagner les faveurs de la Déité par des sacrifices, des pénitences, et même en versant du sang, représente une religion totalement puérile et primitive, une philosophie indigne d'un âge éclairé par la science et la vérité. De telles croyances sont absolument répugnantes pour les êtres célestes et les chefs divins qui servent et règnent dans les univers. C'est un affront à Dieu de croire, de soutenir ou d'enseigner qu'il faut verser du sang innocent pour gagner ses faveurs ou détourner une colère divine fictive. <a id="a158_609"></a>[LU 4:5.4](/fr/The_Urantia_Book/4#p5_4)
 
-> La droiture implique que Dieu est la source de la loi morale de l'univers. La vérité fait ressortir Dieu comme un révélateur, comme un maitre. Mais l'amour donne l'affection et la souhaite ardemment ; il recherche une communion compréhensive comme il en existe entre parents et enfants. Il se peut que la droiture soit la pensée divine, mais l'amour est l'attitude d'un père. Certains ont supposé à tort que la droiture de Dieu était inconciliable avec l'amour désintéressé du Père céleste. Cela présupposait l'absence d'unité dans la nature de la Déité et conduisait directement à élaborer la doctrine du rachat qui est un outrage philosophique à la fois à l'unité et au libre arbitre de Dieu. [LU 2:6.5](/fr/The_Urantia_Book/2#p6_5)
+> La droiture implique que Dieu est la source de la loi morale de l'univers. La vérité fait ressortir Dieu comme un révélateur, comme un maitre. Mais l'amour donne l'affection et la souhaite ardemment ; il recherche une communion compréhensive comme il en existe entre parents et enfants. Il se peut que la droiture soit la pensée divine, mais l'amour est l'attitude d'un père. Certains ont supposé à tort que la droiture de Dieu était inconciliable avec l'amour désintéressé du Père céleste. Cela présupposait l'absence d'unité dans la nature de la Déité et conduisait directement à élaborer la doctrine du rachat qui est un outrage philosophique à la fois à l'unité et au libre arbitre de Dieu. <a id="a160_697"></a>[LU 2:6.5](/fr/The_Urantia_Book/2#p6_5)
 
 12\. _Pour établir le chemin nouveau et vivant de l'homme vers Dieu_
 
 Durant son incarnation, Jésus déclara « Je suis le chemin, la vérité et la vie».
 
-> ... Jésus est le chemin nouveau et vivant allant de l'homme à Dieu, de l'inachevé au parfait, du terrestre au céleste, du temps à l'éternité. [LU 129:4.7](/fr/The_Urantia_Book/129#p4_7)
+> ... Jésus est le chemin nouveau et vivant allant de l'homme à Dieu, de l'inachevé au parfait, du terrestre au céleste, du temps à l'éternité. <a id="a166_144"></a>[LU 129:4.7](/fr/The_Urantia_Book/129#p4_7)
 
-> ... « Je suis la porte, je suis le chemin nouveau et vivant ; quiconque le veut peut entrer et se lancer dans la recherche sans fin de la vérité pour la vie éternelle. » [LU 166:3.7](/fr/The_Urantia_Book/166#p3_7)
+> ... « Je suis la porte, je suis le chemin nouveau et vivant ; quiconque le veut peut entrer et se lancer dans la recherche sans fin de la vérité pour la vie éternelle. » <a id="a168_172"></a>[LU 166:3.7](/fr/The_Urantia_Book/166#p3_7)
 
-> ... Jésus était et reste le nouveau chemin vivant par lequel l'homme peut entrer dans le divin héritage dont le Père a décrété qu'il lui appartiendrait, pourvu qu'il le demande. [LU 101:6.17](/fr/The_Urantia_Book/101#p6_17)
+> ... Jésus était et reste le nouveau chemin vivant par lequel l'homme peut entrer dans le divin héritage dont le Père a décrété qu'il lui appartiendrait, pourvu qu'il le demande. <a id="a170_180"></a>[LU 101:6.17](/fr/The_Urantia_Book/101#p6_17)
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_09/010.jpg">
@@ -179,21 +179,21 @@ Durant son incarnation, Jésus déclara « Je suis le chemin, la vérité et la 
 
 L'isolement d'Urantia dans la rébellion de Lucifer avait suspendu le processus par lequel les mortels peuvent passer directement sur les rivages des mondes des maisons après leur mort. Avant l'effusion de Micaël sur Urantia, toutes les âmes dormaient jusqu'aux résurrections dispensationnelles ou jusqu'aux résurrections millénaires spéciales. Moïse lui-même n'eut pas la permission d'aller de l'autre côté de la vallée de la mort avant l'occasion d'une résurrection spéciale, car le Prince Planétaire déchu, Caligastia, s'opposait à cette libération.
 
-> ... Mais, depuis le jour de la Pentecôte, les mortels d'Urantia peuvent de nouveau se rendre directement sur les sphères morontielles. [LU 52:5.5](/fr/The_Urantia_Book/52#p5_5)
+> ... Mais, depuis le jour de la Pentecôte, les mortels d'Urantia peuvent de nouveau se rendre directement sur les sphères morontielles. <a id="a181_137"></a>[LU 52:5.5](/fr/The_Urantia_Book/52#p5_5)
 
 14\. _Faire de l'homme mortel un fils de Dieu._
 
 En vérité, par notre foi, nous sommes dès à présent des fils et des filles de Dieu, notre Père.
 
-> ... « Voyez la sorte d'amour que le Père a effusé sur nous pour que nous soyons appelés fils de Dieu. » [LU 40:6.2](/fr/The_Urantia_Book/40#p6_2)
+> ... « Voyez la sorte d'amour que le Père a effusé sur nous pour que nous soyons appelés fils de Dieu. » <a id="a187_106"></a>[LU 40:6.2](/fr/The_Urantia_Book/40#p6_2)
 
 15\. _Accroître le plan de perfection des ascendants mortels._
 
 Comment résister à une telle injonction, sachant qu'il est notre Père, notre Créateur, et qu'il EST l'Amour Infini ?
 
-> ... Du Père Universel qui habite l'éternité est issu le commandement suprême : «Soyez parfaits comme moi-même je suis parfait. » En amour et miséricorde, les messagers du Paradis ont transmis cette divine exhortation à travers les âges et les univers, même jusqu'à des créatures d'origine animale aussi humbles que les races humaines d'Urantia. [LU 1:0.3](/fr/The_Urantia_Book/1#p0_3)
+> ... Du Père Universel qui habite l'éternité est issu le commandement suprême : «Soyez parfaits comme moi-même je suis parfait. » En amour et miséricorde, les messagers du Paradis ont transmis cette divine exhortation à travers les âges et les univers, même jusqu'à des créatures d'origine animale aussi humbles que les races humaines d'Urantia. <a id="a193_347"></a>[LU 1:0.3](/fr/The_Urantia_Book/1#p0_3)
 
-> ... Dès l'instant où le Fils Éternel accepta le plan de son Père pour permettre aux créatures des univers d'atteindre la perfection, dès que le projet d'ascension devint un plan Père-Fils, l'Esprit Infini devint instantanément l'administrateur conjoint du plan du Père et du Fils dans l'exécution de leur dessein éternel et unifié. [LU 8:3.5](/fr/The_Urantia_Book/8#p3_5)
+> ... Dès l'instant où le Fils Éternel accepta le plan de son Père pour permettre aux créatures des univers d'atteindre la perfection, dès que le projet d'ascension devint un plan Père-Fils, l'Esprit Infini devint instantanément l'administrateur conjoint du plan du Père et du Fils dans l'exécution de leur dessein éternel et unifié. <a id="a195_334"></a>[LU 8:3.5](/fr/The_Urantia_Book/8#p3_5)
 
 16\. _Les trois parties du plan de perfection:_
 
@@ -201,15 +201,15 @@ Le plan divin pour atteindre la perfection embrasse trois aventures universelles
 
 A— _Le plan de l'accomplissement progressif._
 
-> ... Ce dispositif pour rehausser les créatures du temps implique que le Père attribue des Ajusteurs de Pensée et dote les créatures matérielles des prérogatives de la personnalité. [LU 7:4.4](/fr/The_Urantia_Book/7#p4_4)
+> ... Ce dispositif pour rehausser les créatures du temps implique que le Père attribue des Ajusteurs de Pensée et dote les créatures matérielles des prérogatives de la personnalité. <a id="a203_183"></a>[LU 7:4.4](/fr/The_Urantia_Book/7#p4_4)
 
 B- _Le plan d'effusion_
 
-> ...C'est le projet du Fils Éternel qui consiste à effuser les Fils de Dieu sur les créations évolutionnaires pour personnaliser et factualiser, pour incarner et rendre réels aux créatures de tous les univers l'amour du Père et la miséricorde du Fils. [LU 7:4.5](/fr/The_Urantia_Book/7#p4_5)
+> ...C'est le projet du Fils Éternel qui consiste à effuser les Fils de Dieu sur les créations évolutionnaires pour personnaliser et factualiser, pour incarner et rendre réels aux créatures de tous les univers l'amour du Père et la miséricorde du Fils. <a id="a207_253"></a>[LU 7:4.5](/fr/The_Urantia_Book/7#p4_5)
 
 C- _Le plan du ministère de la miséricorde._
 
-> ... l'Esprit Infini, seul et de lui-même, projeta et mit en œuvre la formidable entreprise universelle du ministère de miséricorde. Ce service est indispensable pour le fonctionnement effectif et pratique des deux plans d'aboutissement et d'effusion... [LU 7:4.6](/fr/The_Urantia_Book/7#p4_6)
+> ... l'Esprit Infini, seul et de lui-même, projeta et mit en œuvre la formidable entreprise universelle du ministère de miséricorde. Ce service est indispensable pour le fonctionnement effectif et pratique des deux plans d'aboutissement et d'effusion... <a id="a211_255"></a>[LU 7:4.6](/fr/The_Urantia_Book/7#p4_6)
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_09/011.jpg">
@@ -222,31 +222,31 @@ Voilà ce que notre Père a prévu pour nous !
 
 A- _Le voyage au Paradis_
 
-> Les mortels évolutionnaires naissent sur les planètes de l'espace, passent par les mondes morontiels, gravissent les univers spirituels, traversent les sphères de Havona, trouvent Dieu, atteignent le Paradis et sont enrôlés dans le Corps primaire de la Finalité pour y attendre leur prochaine affectation de service universel... Lorsque nous contemplons ce spectacle sublime, nous nous écrions tous : Quelle glorieuse destinée pour les enfants temporels d'origine animale, les fils matériels de l'espace ! [LU 31:10.20](/fr/The_Urantia_Book/31#p10_20)
+> Les mortels évolutionnaires naissent sur les planètes de l'espace, passent par les mondes morontiels, gravissent les univers spirituels, traversent les sphères de Havona, trouvent Dieu, atteignent le Paradis et sont enrôlés dans le Corps primaire de la Finalité pour y attendre leur prochaine affectation de service universel... Lorsque nous contemplons ce spectacle sublime, nous nous écrions tous : Quelle glorieuse destinée pour les enfants temporels d'origine animale, les fils matériels de l'espace ! <a id="a224_508"></a>[LU 31:10.20](/fr/The_Urantia_Book/31#p10_20)
 
 B— _Trouver Dieu._
 
-> Le fait d'atteindre le Père Universel est le passeport pour l'éternité... [LU 26:9.2](/fr/The_Urantia_Book/26#p9_2)
+> Le fait d'atteindre le Père Universel est le passeport pour l'éternité... <a id="a228_76"></a>[LU 26:9.2](/fr/The_Urantia_Book/26#p9_2)
 
-> L'épreuve du temps est presque passée ; la course pour l'éternité est presque terminée. Les jours d'incertitude arrivent à leur fin : la tentation du doute disparait ; l'injonction d'être parfait a été suivie. Depuis le tréfonds de l'existence intelligente, la créature du temps et de personnalité matérielle a gravi les sphères évolutionnaires de l'espace. Elle a prouvé ainsi que le plan d'ascension était praticable et démontré pour toujours la justice et la droiture du commandement du Père Universel à ses humbles créatures des mondes : «Soyez parfaits comme moi-même je suis parfait.» [LU 26:9.3](/fr/The_Urantia_Book/26#p9_3)
+> L'épreuve du temps est presque passée ; la course pour l'éternité est presque terminée. Les jours d'incertitude arrivent à leur fin : la tentation du doute disparait ; l'injonction d'être parfait a été suivie. Depuis le tréfonds de l'existence intelligente, la créature du temps et de personnalité matérielle a gravi les sphères évolutionnaires de l'espace. Elle a prouvé ainsi que le plan d'ascension était praticable et démontré pour toujours la justice et la droiture du commandement du Père Universel à ses humbles créatures des mondes : «Soyez parfaits comme moi-même je suis parfait.» <a id="a230_593"></a>[LU 26:9.3](/fr/The_Urantia_Book/26#p9_3)
 
 18\. _La destinée des mortelles est le Corps Paradisiaque de la finalité._
 
 Voilà ce qui nous attend lorsque nous aurons atteint le Paradis, rencontré notre Père, puis avoir été enrôlés dans le Corps Paradisiaque de la Finalité. Jusqu'à la fin du deuxième âge de l'univers, nous servirons à travers les sept superunivers.
 
-> La destinée actuellement connue des mortels survivants est le Corps Paradisiaque de la Finalité... Les finalitaires du Paradis travaillent présentement à de nombreuses entreprises dans le grand univers... [LU 112:7.15](/fr/The_Urantia_Book/112#p7_15)
+> La destinée actuellement connue des mortels survivants est le Corps Paradisiaque de la Finalité... Les finalitaires du Paradis travaillent présentement à de nombreuses entreprises dans le grand univers... <a id="a236_207"></a>[LU 112:7.15](/fr/The_Urantia_Book/112#p7_15)
 
 19\. _L'ultime destin des finalitaires._
 
 Toute une grande responsabilité qui nous attend lorsque nous serons prêt!
 
-> Quelle aventure！Quelle histoire romanesque ! Une gigantesque création destinée à être administrée par les enfants du Suprême, ces Ajusteurs personnalisés et humanisés, ces mortels devenus éternels et semblables aux Ajusteurs, ces alliances mystérieuses et ces associations éternelles entre les plus hautes manifestations connues de l'essence de la Source-Centre Première et la forme la plus humble de vie intelligente capable de comprendre et d'atteindre le Père Universel. Nous imaginons que de tels êtres amalgamés, ces associations du Créateur et de la créature, deviendront des chefs splendides, des administrateurs incomparables et des directeurs compréhensifs et compatissants pour toutes les formes de vie intelligente susceptibles de prendre naissance dans ces futurs univers du premier niveau d'espace extérieur. [LU 112:7.18](/fr/The_Urantia_Book/112#p7_18)
+> Quelle aventure！Quelle histoire romanesque ! Une gigantesque création destinée à être administrée par les enfants du Suprême, ces Ajusteurs personnalisés et humanisés, ces mortels devenus éternels et semblables aux Ajusteurs, ces alliances mystérieuses et ces associations éternelles entre les plus hautes manifestations connues de l'essence de la Source-Centre Première et la forme la plus humble de vie intelligente capable de comprendre et d'atteindre le Père Universel. Nous imaginons que de tels êtres amalgamés, ces associations du Créateur et de la créature, deviendront des chefs splendides, des administrateurs incomparables et des directeurs compréhensifs et compatissants pour toutes les formes de vie intelligente susceptibles de prendre naissance dans ces futurs univers du premier niveau d'espace extérieur. <a id="a242_824"></a>[LU 112:7.18](/fr/The_Urantia_Book/112#p7_18)
 
 20\. _Concernant la déclaration de Jésus sur la croix. «Père, je remets mon esprit entre tes mains.»_
 
 Jésus avait acquis une identité spirituelle, bâtie durant sa vie dans la chair. Certains philosophes pensent que c'est cette identité spirituelle qui a dû être remise à la garde du Père du Paradis. En fait, ils ne savent pas si oui ou non cette réalité spirituelle est revenue pour faire partie de la personnalité ressuscitée, mais ils penchent pour l'affirmative.
 
-> ... D'autres intelligences de l'univers soutiennent que cette identité d'âme de Jésus repose maintenant dans le « sein du Père » et qu'elle sera ultérieurement libérée pour prendre la direction du Corps de la Finalité de Nébadon dans sa destinée mystérieuse en relation avec les univers incréés des domaines encore inorganisés de l'espace extérieur. [LU 188:3.8](/fr/The_Urantia_Book/188#p3_8)
+> ... D'autres intelligences de l'univers soutiennent que cette identité d'âme de Jésus repose maintenant dans le « sein du Père » et qu'elle sera ultérieurement libérée pour prendre la direction du Corps de la Finalité de Nébadon dans sa destinée mystérieuse en relation avec les univers incréés des domaines encore inorganisés de l'espace extérieur. <a id="a248_352"></a>[LU 188:3.8](/fr/The_Urantia_Book/188#p3_8)
 
 ## Le plan de survie tel qu’il est détaillé dans Le Livre d'Urantia
 
@@ -256,61 +256,61 @@ Jésus avait acquis une identité spirituelle, bâtie durant sa vie dans la chai
 
 Le plan du Père est un dessein éternel d'occasions favorables sans bornes, de progrès illimité et de vie sans fin. Et les trésors infinis de cette carrière incomparable récompenseront nos efforts soutenus!
 
-> Le but de l'éternité est en avant ! L'aventure d'aboutissement à la divinité se présente devant vous ! La course à la perfection est engagée ! Quiconque le veut peut y participer, et une victoire certaine couronnera les efforts de tout être humain désirant courir la course de la foi et de la confiance en s'appuyant à chaque pas sur les directives de l'Ajusteur intérieur et sur la gouverne du bon esprit du Fils de l'Univers, qui a été répandu si libéralement sur toute chair. [LU 32:5.8](/fr/The_Urantia_Book/32#p5_8)
+> Le but de l'éternité est en avant ! L'aventure d'aboutissement à la divinité se présente devant vous ! La course à la perfection est engagée ! Quiconque le veut peut y participer, et une victoire certaine couronnera les efforts de tout être humain désirant courir la course de la foi et de la confiance en s'appuyant à chaque pas sur les directives de l'Ajusteur intérieur et sur la gouverne du bon esprit du Fils de l'Univers, qui a été répandu si libéralement sur toute chair. <a id="a258_481"></a>[LU 32:5.8](/fr/The_Urantia_Book/32#p5_8)
 
 **2- Le plan divin : «Soyez parfaits»**
 
 Les myriades de systèmes planétaires ont toutes été faites pour être finalement habitées par des créatures intelligentes, des êtres qui peuvent connaitre Dieu, recevoir l'affection divine et aimer Dieu en retour.
 
-> Tous les mondes éclairés reconnaissent et adorent le Père Universel, l'auteur éternel et le soutien infini de toute la création. Dans les innombrables univers, les créatures douées de volonté ont entrepris le long, long voyage vers le Paradis, la lutte fascinante de l'aventure éternelle pour atteindre Dieu le Père. Le but transcendant des enfants du temps est de trouver le Dieu éternel, de comprendre la nature divine, de reconnaitre le Père Universel. Les créatures qui connaissent Dieu n'ont qu'une ambition suprême, un seul désir brulant, c'est d'être semblable dans leur propre sphère à ce qu'il est dans sa perfection paradisiaque de personnalité et dans sa sphère universelle de juste suprématie. [LU 1:0.3](/fr/The_Urantia_Book/1#p0_3)
+> Tous les mondes éclairés reconnaissent et adorent le Père Universel, l'auteur éternel et le soutien infini de toute la création. Dans les innombrables univers, les créatures douées de volonté ont entrepris le long, long voyage vers le Paradis, la lutte fascinante de l'aventure éternelle pour atteindre Dieu le Père. Le but transcendant des enfants du temps est de trouver le Dieu éternel, de comprendre la nature divine, de reconnaitre le Père Universel. Les créatures qui connaissent Dieu n'ont qu'une ambition suprême, un seul désir brulant, c'est d'être semblable dans leur propre sphère à ce qu'il est dans sa perfection paradisiaque de personnalité et dans sa sphère universelle de juste suprématie. <a id="a264_708"></a>[LU 1:0.3](/fr/The_Urantia_Book/1#p0_3)
 
 **3- Statut de l'univers en regard du plan de perfection.**
 
 Bien que l'univers central de Havona peut servir de création modèle pour tous les autres univers, et d'apprentissage final pour les pèlerins du temps sur leur chemin vers le Paradis, cet univers a été créé pour le plaisir et la satisfaction des Créateurs parfaits et infinis.
 
-> Le plan stupéfiant pour perfectionner les mortels évolutionnaires, et après qu'ils ont atteint le Paradis et le Corps de la Finalité pour leur fournir une éducation supplémentaire en vue d'une œuvre future non révélée, semble être, à présent, ce qui intéresse le plus les sept superunivers et leurs nombreuses subdivisions. Mais ce plan d'ascension pour spiritualiser et éduquer les mortels du temps et de l'espace n'est nullement l'occupation exclusive des intelligences universelles. En vérité, il y a beaucoup d'autres activités fascinantes qui occupent le temps et mobilisent les énergies des armées célestes. [LU 4:0.3](/fr/The_Urantia_Book/4#p0_3)
+> Le plan stupéfiant pour perfectionner les mortels évolutionnaires, et après qu'ils ont atteint le Paradis et le Corps de la Finalité pour leur fournir une éducation supplémentaire en vue d'une œuvre future non révélée, semble être, à présent, ce qui intéresse le plus les sept superunivers et leurs nombreuses subdivisions. Mais ce plan d'ascension pour spiritualiser et éduquer les mortels du temps et de l'espace n'est nullement l'occupation exclusive des intelligences universelles. En vérité, il y a beaucoup d'autres activités fascinantes qui occupent le temps et mobilisent les énergies des armées célestes. <a id="a270_616"></a>[LU 4:0.3](/fr/The_Urantia_Book/4#p0_3)
 
 **4- Signification de l'injonction de perfection.**
 
 En collaboration avec notre Ajusteur, nous nous divinisons progressivement et nous répondons ainsi à son injonction d'être de plus en plus parfait !
 
-> Cette magnifique et universelle injonction de s'efforcer d'atteindre la perfection de la divinité est le premier devoir et devrait être la plus haute ambition de toutes les créatures qui se débattent dans la création du Dieu de perfection. Cette possibilité d'atteindre la perfection divine est la destinée finale et certaine de tout l'éternel progrès spirituel de l'homme. [LU 1:0.4](/fr/The_Urantia_Book/1#p0_4)
+> Cette magnifique et universelle injonction de s'efforcer d'atteindre la perfection de la divinité est le premier devoir et devrait être la plus haute ambition de toutes les créatures qui se débattent dans la création du Dieu de perfection. Cette possibilité d'atteindre la perfection divine est la destinée finale et certaine de tout l'éternel progrès spirituel de l'homme. <a id="a276_376"></a>[LU 1:0.4](/fr/The_Urantia_Book/1#p0_4)
 
-> Les mortels d'Urantia ne peuvent guère espérer être parfaits au sens infini, mais il est entièrement possible à des êtres humains, débutant comme ils le font sur cette planète, d'atteindre le but céleste et divin que le Dieu infini a fixé pour les mortels ; et, lorsqu'ils auront accompli cette destinée, ils seront, en ce qui touche la réalisation du moi et l'accomplissement mental, tout aussi complets dans leur sphère de perfection divine que Dieu lui-même dans sa sphère d'infinité et d'éternité. Une telle perfection peut n'être pas universelle au sens matériel, ni sans limites en compréhension intellectuelle, ni finale en expérience spirituelle, mais elle est finale et complète sous tous les aspects finis concernant la divinité de la volonté, la perfection de motivation de la personnalité, et la conscience de Dieu. [LU 1:0.5](/fr/The_Urantia_Book/1#p0_5)
+> Les mortels d'Urantia ne peuvent guère espérer être parfaits au sens infini, mais il est entièrement possible à des êtres humains, débutant comme ils le font sur cette planète, d'atteindre le but céleste et divin que le Dieu infini a fixé pour les mortels ; et, lorsqu'ils auront accompli cette destinée, ils seront, en ce qui touche la réalisation du moi et l'accomplissement mental, tout aussi complets dans leur sphère de perfection divine que Dieu lui-même dans sa sphère d'infinité et d'éternité. Une telle perfection peut n'être pas universelle au sens matériel, ni sans limites en compréhension intellectuelle, ni finale en expérience spirituelle, mais elle est finale et complète sous tous les aspects finis concernant la divinité de la volonté, la perfection de motivation de la personnalité, et la conscience de Dieu. <a id="a278_830"></a>[LU 1:0.5](/fr/The_Urantia_Book/1#p0_5)
 
-> Tel est le véritable sens du commandement divin : « Soyez parfaits comme moi-même je suis parfait », qui pousse toujours l'homme mortel en avant et l'appelle vers l'intérieur dans cette longue et fascinante lutte pour atteindre des niveaux de valeurs spirituelles de plus en plus élevés et les véritables significations de l'univers. Cette recherche sublime du Dieu des univers est l'aventure suprême des habitants de tous les mondes du temps et de l'espace. [LU 1:0.6](/fr/The_Urantia_Book/1#p0_6)
+> Tel est le véritable sens du commandement divin : « Soyez parfaits comme moi-même je suis parfait », qui pousse toujours l'homme mortel en avant et l'appelle vers l'intérieur dans cette longue et fascinante lutte pour atteindre des niveaux de valeurs spirituelles de plus en plus élevés et les véritables significations de l'univers. Cette recherche sublime du Dieu des univers est l'aventure suprême des habitants de tous les mondes du temps et de l'espace. <a id="a280_461"></a>[LU 1:0.6](/fr/The_Urantia_Book/1#p0_6)
 
 **5- Pas de « raccourcis» dans le plan de perfectionnement.**
 
 Que ce soit en se remémorant le péché de Lucifer et de Caligastia ou l'erreur d'Adam et Ève, il n'y a pas de route plus courte et rapide que le chemin parfait tracé par le Père !
 
-> Au cours de toute votre ascension au Paradis, vous ne gagnerez jamais rien en essayant impatiemment de vous dérober au divin plan établi, au moyen de raccourcis, d'inventions personnelles ou d'autres expédients pour améliorer le chemin de la perfection, vers la perfection et pour la perfection éternelle. [LU 75:8.5](/fr/The_Urantia_Book/75#p8_5)
+> Au cours de toute votre ascension au Paradis, vous ne gagnerez jamais rien en essayant impatiemment de vous dérober au divin plan établi, au moyen de raccourcis, d'inventions personnelles ou d'autres expédients pour améliorer le chemin de la perfection, vers la perfection et pour la perfection éternelle. <a id="a286_308"></a>[LU 75:8.5](/fr/The_Urantia_Book/75#p8_5)
 
 **6- L'Esprit infini est l'administrateur du plan de perfection.**
 
 Bien que ce soit un Fils Créateur du Fils Éternel et un Esprit Créatif de l'Esprit Infini qui nous ont créés ainsi que notre univers ; et, pendant que le Père maintient fidèlement ce qu'ils ont organisé, il appartient à ce Fils de l'Univers et à cet Esprit de l'Univers d'entretenir et de soutenir leur œuvre ainsi que d'apporter leur ministère aux créatures qu'ils ont euxmêmes façonnées.
 
-> L'Esprit Infini est l'agent effectif du Père toutaimant et du Fils tout-miséricordieux pour exécuter leur projet conjoint d'attirer vers eux-mêmes toutes les âmes aimant la vérité dans tous les mondes du temps et de l'espace. Dès l'instant où le Fils Éternel accepta le plan de son Père pour permettre aux créatures des univers d'atteindre la perfection, dès que le projet d'ascension devint un plan Père-Fils, l'Esprit Infini devint instantanément l'administrateur conjoint du plan du Père et du Fils dans l'exécution de leur dessein éternel et unifié. En agissant ainsi, l'Esprit Infini vouait au Père et au Fils toutes les ressources de sa divine présence et des personnalités spirituelles. Il a tout dédié au prodigieux plan destiné à exalter toutes les créatures volitives survivantes jusqu'aux hauteurs divines de la perfection du Paradis. [LU 8:3.5](/fr/The_Urantia_Book/8#p3_5)
+> L'Esprit Infini est l'agent effectif du Père toutaimant et du Fils tout-miséricordieux pour exécuter leur projet conjoint d'attirer vers eux-mêmes toutes les âmes aimant la vérité dans tous les mondes du temps et de l'espace. Dès l'instant où le Fils Éternel accepta le plan de son Père pour permettre aux créatures des univers d'atteindre la perfection, dès que le projet d'ascension devint un plan Père-Fils, l'Esprit Infini devint instantanément l'administrateur conjoint du plan du Père et du Fils dans l'exécution de leur dessein éternel et unifié. En agissant ainsi, l'Esprit Infini vouait au Père et au Fils toutes les ressources de sa divine présence et des personnalités spirituelles. Il a tout dédié au prodigieux plan destiné à exalter toutes les créatures volitives survivantes jusqu'aux hauteurs divines de la perfection du Paradis. <a id="a292_848"></a>[LU 8:3.5](/fr/The_Urantia_Book/8#p3_5)
 
 **7- Cette perfection devient une possession de la personnalité.**
 
 À l'exception des personnalités de la Déité, toutes personnalités des superunivers ne sont pas, au départ, entièrement stable et digne d'une confiance absolue. Quand l'origine des créatures s'écarte suffisamment des Sources originelles et divines, qu'il s'agisse des Fils de Dieu ou des créatures tutélaires appartenant à l'Esprit Infini, il y a possibilité accrue de disharmonie, de confusion et parfois de rébellion — de péché.
 
-> À part les êtres parfaits ayant leur origine dans la Déité, toutes les créatures volitives des superunivers sont de nature évolutionnaire ; elles débutent dans un humble état et vont toujours vers le haut, en réalité vers l'intérieur. Même des personnalités hautement spirituelles continuent à gravir l'échelle de l'existence par des transferts progressifs de vie en vie et de sphère en sphère. Et, dans le cas des êtres qui accueillent les Moniteurs de Mystère, il n'y a en vérité pas de limites aux hauteurs possibles de leur ascension spirituelle et de leur aboutissement dans l'univers. [LU 32:3.8](/fr/The_Urantia_Book/32#p3_8)
+> À part les êtres parfaits ayant leur origine dans la Déité, toutes les créatures volitives des superunivers sont de nature évolutionnaire ; elles débutent dans un humble état et vont toujours vers le haut, en réalité vers l'intérieur. Même des personnalités hautement spirituelles continuent à gravir l'échelle de l'existence par des transferts progressifs de vie en vie et de sphère en sphère. Et, dans le cas des êtres qui accueillent les Moniteurs de Mystère, il n'y a en vérité pas de limites aux hauteurs possibles de leur ascension spirituelle et de leur aboutissement dans l'univers. <a id="a298_593"></a>[LU 32:3.8](/fr/The_Urantia_Book/32#p3_8)
 
-> Lorsque la perfection des créatures du temps est définitivement réalisée, elle est entièrement une acquisition, une possession de personnalité de bonne foi. Il est exact que les éléments de la grâce y sont largement mêlés, mais les aboutissements des créatures sont quand même le résultat de leurs efforts individuels et de leur vie actuelle, de leur réaction de personnalité au milieu existant. [LU 32:3.9](/fr/The_Urantia_Book/32#p3_9)
+> Lorsque la perfection des créatures du temps est définitivement réalisée, elle est entièrement une acquisition, une possession de personnalité de bonne foi. Il est exact que les éléments de la grâce y sont largement mêlés, mais les aboutissements des créatures sont quand même le résultat de leurs efforts individuels et de leur vie actuelle, de leur réaction de personnalité au milieu existant. <a id="a300_398"></a>[LU 32:3.9](/fr/The_Urantia_Book/32#p3_9)
 
 **8- L'homme progresse du bas vers le haut.**
 
 Lorsque notre perfection de créature du temps est définitivement réalisée, elle est entièrement une acquisition, une possession de notre personnalité de bonne foi. Bien que les éléments de la grâce y soient largement mêlés, les aboutissements de l'homme sont quand même le résultat de ses efforts individuels et de sa vie actuelle, de sa réaction de personnalité au milieu existant.
 
-> Le fait de l'origine évolutionnaire animale ne constitue pas une flétrissure de quelque personnalité que ce soit aux yeux de l'univers, car c'est la méthode exclusive pour produire l'un des deux types fondamentaux de créatures volitives douées d'une intelligence finie. Quand les hauteurs de la perfection et de l'éternité sont atteintes, ceux qui ont commencé tout en bas et joyeusement gravi l'échelle de la vie, échelon par échelon, en seront d'autant plus honorés, et, quand ils seront arrivés aux sommets de la gloire, ils auront gagné une expérience personnelle qui incorpore une connaissance effective de toutes les phases de la vie depuis le bas jusqu'en haut. [LU 32:3.10](/fr/The_Urantia_Book/32#p3_10)
+> Le fait de l'origine évolutionnaire animale ne constitue pas une flétrissure de quelque personnalité que ce soit aux yeux de l'univers, car c'est la méthode exclusive pour produire l'un des deux types fondamentaux de créatures volitives douées d'une intelligence finie. Quand les hauteurs de la perfection et de l'éternité sont atteintes, ceux qui ont commencé tout en bas et joyeusement gravi l'échelle de la vie, échelon par échelon, en seront d'autant plus honorés, et, quand ils seront arrivés aux sommets de la gloire, ils auront gagné une expérience personnelle qui incorpore une connaissance effective de toutes les phases de la vie depuis le bas jusqu'en haut. <a id="a306_671"></a>[LU 32:3.10](/fr/The_Urantia_Book/32#p3_10)
 
 **9- Nous avons la chance de commencer au bas de l'échelle.**
 
 Bien que nous commencions au plus bas dans l'échelle de la conscience d'esprit, nous avons ainsi un avantage inouï d'atteindre des sommets que nous ne pouvons imaginer icibas !
 
-> Tout ceci fait ressortir la sagesse des Créateurs. Il serait tout aussi facile pour le Père Universel de faire de tous les mortels des êtres parfaits, de leur communiquer la perfection par sa parole divine ; mais cela les priverait de l'expérience merveilleuse de l'aventure et de l'entrainement associés à la longue et progressive ascension vers l'intérieur, une expérience que seuls peuvent posséder ceux qui ont eu la chance de commencer au tréfonds de l'existence vivante. [LU 32:3.11](/fr/The_Urantia_Book/32#p3_11)
+> Tout ceci fait ressortir la sagesse des Créateurs. Il serait tout aussi facile pour le Père Universel de faire de tous les mortels des êtres parfaits, de leur communiquer la perfection par sa parole divine ; mais cela les priverait de l'expérience merveilleuse de l'aventure et de l'entrainement associés à la longue et progressive ascension vers l'intérieur, une expérience que seuls peuvent posséder ceux qui ont eu la chance de commencer au tréfonds de l'existence vivante. <a id="a312_479"></a>[LU 32:3.11](/fr/The_Urantia_Book/32#p3_11)
 
 
 ### II. Le plan d'ascension progressive
@@ -319,9 +319,9 @@ Bien que nous commencions au plus bas dans l'échelle de la conscience d'esprit,
 
 De toute éternité, le Père et le Fils sont unis dans le plan divin de progrès universel de la création.
 
-> Le Fils Éternel est en liaison perpétuelle avec le Père dans la poursuite réussie du plan divin de progrès : le plan universel pour la création, l'évolution, l'ascension et la perfection des créatures douées de volonté. Et, en matière de fidélité divine, le Fils est l'éternel égal du Père. [LU 7:4.1](/fr/The_Urantia_Book/7#p4_1)
+> Le Fils Éternel est en liaison perpétuelle avec le Père dans la poursuite réussie du plan divin de progrès : le plan universel pour la création, l'évolution, l'ascension et la perfection des créatures douées de volonté. Et, en matière de fidélité divine, le Fils est l'éternel égal du Père. <a id="a321_293"></a>[LU 7:4.1](/fr/The_Urantia_Book/7#p4_1)
 
-> Le Père et le Fils ne font qu'un pour formuler et poursuivre ce gigantesque plan destiné à faire avancer les êtres matériels du temps vers la perfection de l'éternité. Ce projet destiné à élever spirituellement les âmes ascendantes de l'espace est une création conjointe du Père et du Fils, et, avec la coopération de l'Esprit Infini, ils s'occupent d'exécuter en association leur divin dessein. [LU 7:4.2](/fr/The_Urantia_Book/7#p4_2)
+> Le Père et le Fils ne font qu'un pour formuler et poursuivre ce gigantesque plan destiné à faire avancer les êtres matériels du temps vers la perfection de l'éternité. Ce projet destiné à élever spirituellement les âmes ascendantes de l'espace est une création conjointe du Père et du Fils, et, avec la coopération de l'Esprit Infini, ils s'occupent d'exécuter en association leur divin dessein. <a id="a323_398"></a>[LU 7:4.2](/fr/The_Urantia_Book/7#p4_2)
 
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_09/012.jpg">
@@ -338,33 +338,33 @@ Ce plan de perfection divine se décline en trois parties.
 > 
 > 2. Le plan d'effusion. Le plan universel qui vient ensuite est la grande entreprise du Fils Éternel et de ses Fils coordonnés pour révéler le Père. C'est le projet du Fils Éternel qui consiste à effuser les Fils de Dieu sur les créations évolutionnaires pour personnaliser et factualiser, pour incarner et rendre réels aux créatures de tous les univers l'amour du Père et la miséricorde du Fils. Les Fils du Paradis exercent une action inhérente au plan d'effusion et comme dispositif de ce ministère d'amour en réhabilitant ce que la volonté dévoyée des créatures a mis en danger spirituel. À tout moment et en tout lieu où le fonctionnement du plan d'aboutissement est retardé, si d'aventure une rébellion vient gâcher ou compliquer l'entreprise, alors les dispositifs d'urgence du plan d'effusion entrent immédiatement en action. Les Fils du Paradis se tiennent engagés et prêts à opérer comme rétablisseurs, à se rendre dans les royaumes mêmes de la rébellion et à y restaurer le statut spirituel des sphères. C'est un tel service héroïque qu'un Fils Créateur coordonné a accompli sur Urantia en relation avec sa carrière d'effusion expérientielle pour acquérir la souveraineté.
 > 
-> 3. Le plan du ministère de miséricorde. Lorsque le plan d'aboutissement et le plan d'effusion eurent été formulés et proclamés, l'Esprit Infini, seul et de lui-même, projeta et mit en œuvre la formidable entreprise universelle du ministère de miséricorde. Ce service est indispensable pour le fonctionnement effectif et pratique des deux plans d'aboutissement et d'effusion, et les personnalités de la Source-Centre Troisième participent toutes de l'esprit de ministère miséricordieux qui fait tellement partie de la nature de la Troisième Personne de la Déité. C'est non seulement dans la création, mais aussi dans l'administration, que l'Esprit Infini agit vraiment et littéralement comme exécutif conjoint du Père et du Fils. [LU 7:4.3-6](/fr/The_Urantia_Book/7#p4_6)
+> 3. Le plan du ministère de miséricorde. Lorsque le plan d'aboutissement et le plan d'effusion eurent été formulés et proclamés, l'Esprit Infini, seul et de lui-même, projeta et mit en œuvre la formidable entreprise universelle du ministère de miséricorde. Ce service est indispensable pour le fonctionnement effectif et pratique des deux plans d'aboutissement et d'effusion, et les personnalités de la Source-Centre Troisième participent toutes de l'esprit de ministère miséricordieux qui fait tellement partie de la nature de la Troisième Personne de la Déité. C'est non seulement dans la création, mais aussi dans l'administration, que l'Esprit Infini agit vraiment et littéralement comme exécutif conjoint du Père et du Fils. <a id="a340_731"></a>[LU 7:4.3-6](/fr/The_Urantia_Book/7#p4_6)
 
 **3- Le Fils éternel est le dépositaire du plan de perfec**
 
 tion.Par la citation suivante, nous pouvons voir que le Père, le Fils et l'Esprit travaillent ensemble, de toute éternité, pour leur œuvre de création.
 
-> Le Fils Éternel est le fidéicommissaire personnel, le divin gardien du plan universel du Père pour l'ascension des créatures. Après avoir promulgué le commandement universel «Soyez parfaits comme moi-même je suis parfait», le Père confia l'exécution de cette grandiose entreprise au Fils Éternel. Et le Fils Éternel partage la charge de ce développement céleste avec son divin coordonné, l'Esprit Infini. C'est ainsi que les Déités coopèrent effectivement au travail de création, de contrôle, d'évolution, de révélation et de ministère et, si nécessaire, à la restauration et à la réhabilitation. [LU 7:4.7](/fr/The_Urantia_Book/7#p4_7)
+> Le Fils Éternel est le fidéicommissaire personnel, le divin gardien du plan universel du Père pour l'ascension des créatures. Après avoir promulgué le commandement universel «Soyez parfaits comme moi-même je suis parfait», le Père confia l'exécution de cette grandiose entreprise au Fils Éternel. Et le Fils Éternel partage la charge de ce développement céleste avec son divin coordonné, l'Esprit Infini. C'est ainsi que les Déités coopèrent effectivement au travail de création, de contrôle, d'évolution, de révélation et de ministère et, si nécessaire, à la restauration et à la réhabilitation. <a id="a346_599"></a>[LU 7:4.7](/fr/The_Urantia_Book/7#p4_7)
 
 **4- La survie, une des principales activités de l'univers.**
 
 Bien plus que les trois déités paradisiaques, les esprits supérieurs, les armées angéliques et même les médians travaillent au plan de création!
 
-> Toute l'organisation des esprits supérieurs, des armées angéliques et des compagnons médians se consacre avec enthousiasme à réaliser le plan du Paradis pour l'ascension progressive et l'aboutissement à la perfection des mortels évolutionnaires. C'est l'un des travaux célestes de l'univers — le magnifique plan de survie consistant à faire descendre Dieu jusqu'à l'homme et ensuite, par une sorte d'association sublime, de ramener l'homme à Dieu dans une éternité de service et une divinité d'accomplissement — pour les mortels comme pour les médians. [LU 77:9.12](/fr/The_Urantia_Book/77#p9_12)
+> Toute l'organisation des esprits supérieurs, des armées angéliques et des compagnons médians se consacre avec enthousiasme à réaliser le plan du Paradis pour l'ascension progressive et l'aboutissement à la perfection des mortels évolutionnaires. C'est l'un des travaux célestes de l'univers — le magnifique plan de survie consistant à faire descendre Dieu jusqu'à l'homme et ensuite, par une sorte d'association sublime, de ramener l'homme à Dieu dans une éternité de service et une divinité d'accomplissement — pour les mortels comme pour les médians. <a id="a352_555"></a>[LU 77:9.12](/fr/The_Urantia_Book/77#p9_12)
 
 **5- Conditions de survie des personnes décédées.**
 
 Peu importe à quelles séries un mortel appartient, il est certain de survivre s'il participe activement avec son Ajusteur à sa propre divinisation.
 
-> Quant aux chances de survie des mortels, précisons, une fois pour toutes ceci : toutes les âmes appartenant à chacune des phases possibles d'existence humaine survivront à la condition de manifester de la bonne volonté à coopérer avec leur Ajusteur intérieur, et de montrer leur désir de trouver Dieu et d'atteindre la perfection divine, même si ces désirs ne représentent que les premières et les plus faibles lueurs de la compréhension primitive de « la vraie lumière éclairant chaque homme qui entre dans le monde». [LU 40:5.19](/fr/The_Urantia_Book/40#p5_19)
+> Quant aux chances de survie des mortels, précisons, une fois pour toutes ceci : toutes les âmes appartenant à chacune des phases possibles d'existence humaine survivront à la condition de manifester de la bonne volonté à coopérer avec leur Ajusteur intérieur, et de montrer leur désir de trouver Dieu et d'atteindre la perfection divine, même si ces désirs ne représentent que les premières et les plus faibles lueurs de la compréhension primitive de « la vraie lumière éclairant chaque homme qui entre dans le monde». <a id="a358_521"></a>[LU 40:5.19](/fr/The_Urantia_Book/40#p5_19)
 
 **6- Plan d'ascension triomphante.**
 
 Tout mortel qui collabore sincèrement avec son Ajusteur expérimentera la conscience sublime de connaitre Dieu et l'assurance céleste de survivre pour trouver Dieu en faisant l'expérience progressive de devenir de plus en plus semblable à lui.
 
-> L'homme est spirituellement habité par un Ajusteur de Pensée qui survit. Si un tel mental humain est motivé sincèrement et spirituellement, si cette âme humaine désire connaitre Dieu et devenir semblable à lui, si elle veut faire honnêtement la volonté du Père, alors nulle influence négative de frustration humaine, nul pouvoir positif d'interférence possible ne sauraient empêcher cette âme divinement motivée de s'élever en toute sécurité jusqu'aux portes du Paradis. [LU 5:1.7](/fr/The_Urantia_Book/5#p1_7)
+> L'homme est spirituellement habité par un Ajusteur de Pensée qui survit. Si un tel mental humain est motivé sincèrement et spirituellement, si cette âme humaine désire connaitre Dieu et devenir semblable à lui, si elle veut faire honnêtement la volonté du Père, alors nulle influence négative de frustration humaine, nul pouvoir positif d'interférence possible ne sauraient empêcher cette âme divinement motivée de s'élever en toute sécurité jusqu'aux portes du Paradis. <a id="a364_473"></a>[LU 5:1.7](/fr/The_Urantia_Book/5#p1_7)
 
-> Le Père désire que toutes ses créatures soient en communion personnelle avec lui. Il a, au Paradis, une place pour recevoir tous ceux qui ont un statut de survie et une nature spirituelle rendant possible un tel accomplissement. C'est pourquoi il faut inscrire, une fois pour toutes dans votre philosophie, les affirmations suivantes : pour chacun de vous et pour nous tous, Dieu est approchable, le Père est accessible, la voie est ouverte. Les forces d'amour divin et les voies et moyens de l'administration divine sont tous imbriqués dans un effort pour aider, dans tous les univers, toute intelligence qui en est digne, à s'avancer jusqu'en présence du Père Universel au Paradis. [LU 5:1.8](/fr/The_Urantia_Book/5#p1_8)
+> Le Père désire que toutes ses créatures soient en communion personnelle avec lui. Il a, au Paradis, une place pour recevoir tous ceux qui ont un statut de survie et une nature spirituelle rendant possible un tel accomplissement. C'est pourquoi il faut inscrire, une fois pour toutes dans votre philosophie, les affirmations suivantes : pour chacun de vous et pour nous tous, Dieu est approchable, le Père est accessible, la voie est ouverte. Les forces d'amour divin et les voies et moyens de l'administration divine sont tous imbriqués dans un effort pour aider, dans tous les univers, toute intelligence qui en est digne, à s'avancer jusqu'en présence du Père Universel au Paradis. <a id="a366_686"></a>[LU 5:1.8](/fr/The_Urantia_Book/5#p1_8)
 
 ### III. Le plan de survie des mortels
 
@@ -372,7 +372,7 @@ Tout mortel qui collabore sincèrement avec son Ajusteur expérimentera la consc
 
 Le plan morontiel de progression des mortels, et le plan spirituel par la suite, comporte un dessein divin et bien défini. C'est le plan des Créateurs pour fournir aux créatures du temps des occasions progressives de maitriser les détails de fonctionnement et d'administration du grand univers.
 
-> Le plan de survie des mortels a un but pratique et utile. Si vous êtes les récipiendaires de tout ce travail divin et de cet entrainement soigné, ce n'est pas simplement en vue de survivre pour jouir d'une félicité perpétuelle et d'un bienêtre éternel. Il y a un but de service transcendant caché audelà de l'horizon du présent âge de l'univers. Si les Dieux avaient simplement projeté de vous emmener dans une longue excursion de joie éternelle, ils n'auraient certainement pas transformé l'univers entier en une seule immense et complexe école d'éducation pratique, réquisitionné une partie substantielle des créatures célestes comme maitres et instructeurs, et ensuite passé des âges et des âges à vous piloter un par un à travers cette gigantesque école universelle d'éducation expérientielle. Le développement du plan de progression des mortels parait être l'une des principales occupations du présent univers organisé, et la majorité d'un nombre incalculable d'ordres d'intelligences créées est, soit directement, soit indirectement, engagée à faire progresser une phase ou une autre de ce plan de perfection graduelle. [LU 48:8.3](/fr/The_Urantia_Book/48#p8_3)
+> Le plan de survie des mortels a un but pratique et utile. Si vous êtes les récipiendaires de tout ce travail divin et de cet entrainement soigné, ce n'est pas simplement en vue de survivre pour jouir d'une félicité perpétuelle et d'un bienêtre éternel. Il y a un but de service transcendant caché audelà de l'horizon du présent âge de l'univers. Si les Dieux avaient simplement projeté de vous emmener dans une longue excursion de joie éternelle, ils n'auraient certainement pas transformé l'univers entier en une seule immense et complexe école d'éducation pratique, réquisitionné une partie substantielle des créatures célestes comme maitres et instructeurs, et ensuite passé des âges et des âges à vous piloter un par un à travers cette gigantesque école universelle d'éducation expérientielle. Le développement du plan de progression des mortels parait être l'une des principales occupations du présent univers organisé, et la majorité d'un nombre incalculable d'ordres d'intelligences créées est, soit directement, soit indirectement, engagée à faire progresser une phase ou une autre de ce plan de perfection graduelle. <a id="a374_1128"></a>[LU 48:8.3](/fr/The_Urantia_Book/48#p8_3)
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_09/013.jpg">
@@ -383,7 +383,7 @@ Le plan morontiel de progression des mortels, et le plan spirituel par la suite,
 
 Pour compenser le caractère fini du statut des créatures et pour pallier leurs limitations de concept, le Père Universel a établi pour les créatures évolutionnaires une approche septuple de la Déité soit Dieu le Septuple.
 
-> Cette personnalisation septuple de la Déité dans le temps et l'espace et pour les sept superunivers, rend l'homme mortel capable d'atteindre la présence de Dieu, qui est esprit. Cette Déité septuple qui, pour les créatures de l'espace-temps fini, personnalisera en son temps le pouvoir dans l'Être Suprême, est la Déité fonctionnelle des créatures mortelles évolutionnaires de la carrière d'ascension du Paradis. Une telle carrière de découverte expérientielle de réalisation de Dieu commence par la reconnaissance de la divinité du Fils Créateur de l'univers local, s'élève par la reconnaissance des Anciens des Jours du superunivers et de la personne de l'un des Sept Maitres Esprits, et va jusqu'à l'aboutissement de la découverte et de la reconnaissance de la divine personnalité du Père Universel au Paradis. [LU 0:8.9](/fr/The_Urantia_Book/0#p8_9)
+> Cette personnalisation septuple de la Déité dans le temps et l'espace et pour les sept superunivers, rend l'homme mortel capable d'atteindre la présence de Dieu, qui est esprit. Cette Déité septuple qui, pour les créatures de l'espace-temps fini, personnalisera en son temps le pouvoir dans l'Être Suprême, est la Déité fonctionnelle des créatures mortelles évolutionnaires de la carrière d'ascension du Paradis. Une telle carrière de découverte expérientielle de réalisation de Dieu commence par la reconnaissance de la divinité du Fils Créateur de l'univers local, s'élève par la reconnaissance des Anciens des Jours du superunivers et de la personne de l'un des Sept Maitres Esprits, et va jusqu'à l'aboutissement de la découverte et de la reconnaissance de la divine personnalité du Père Universel au Paradis. <a id="a385_816"></a>[LU 0:8.9](/fr/The_Urantia_Book/0#p8_9)
 
 **3- L'expérience de survie mortelle.**
 
@@ -458,7 +458,7 @@ Voici, exposée en détail, la totalité du plan divin prévu pour la survie des
 > 
 > Les arrivants au Paradis se voient accorder une période de liberté, après quoi ils commencent leurs associations avec les sept groupes des supernaphins primaires. Quand ils ont terminé leur programme avec les conducteurs d'adoration, on les appelle diplômés du Paradis. Ensuite, en tant que finalitaires, ils sont affectés à des services d'observation et de coopération jusqu'aux confins de la vaste création. Pour l'instant il ne parait pas y avoir d'emploi spécifique ou déterminé pour les Finalitaires du Corps des Mortels, bien qu'ils servent dans de nombreux postes sur des mondes ancrés dans la lumière et la vie.
 > 
-> S'il ne devait pas y avoir de destinée future ou non révélée pour le Corps des Mortels de la Finalité, l'affectation présente de ces êtres ascendants serait déjà tout à fait adéquate et glorieuse. Leur présente destinée justifie entièrement le plan universel d'ascension évolutionnaire. Mais les âges futurs de l'évolution des sphères de l'espace extérieur élaboreront certainement davantage et illumineront plus complètement et divinement la sagesse et la bienveillance affectueuse des Dieux dans l'exécution de leur divin plan pour la survie humaine et l'ascension des mortels. [LU 30:4.1-33](/fr/The_Urantia_Book/30#p4_33)
+> S'il ne devait pas y avoir de destinée future ou non révélée pour le Corps des Mortels de la Finalité, l'affectation présente de ces êtres ascendants serait déjà tout à fait adéquate et glorieuse. Leur présente destinée justifie entièrement le plan universel d'ascension évolutionnaire. Mais les âges futurs de l'évolution des sphères de l'espace extérieur élaboreront certainement davantage et illumineront plus complètement et divinement la sagesse et la bienveillance affectueuse des Dieux dans l'exécution de leur divin plan pour la survie humaine et l'ascension des mortels. <a id="a460_582"></a>[LU 30:4.1-33](/fr/The_Urantia_Book/30#p4_33)
 
 <figure id="Figure_10" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_09/015.jpg">

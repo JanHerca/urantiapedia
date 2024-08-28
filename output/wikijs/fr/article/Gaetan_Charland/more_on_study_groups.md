@@ -46,7 +46,7 @@ Il y a beaucoup de choses que j’aimerais écrire et partager avec vous et qui 
 Des groupes d’études de toutes sortes ont pendant de nombreuses années, des décennies, des siècles ou des millénaires, prospéré dans le monde et continueront de s’épanouir à mesure que notre liberté et notre recherche de la vérité sont mises au défi par la politique, la répression religieuse et le fanatisme ou la montée d’une société matérialiste. Il y a dans notre mental la présence d’un esprit divin qui indiquera toujours le chemin à ceux qui le cherchent.
 <br style="clear:both;"/>
 
-> _… car, à toutes les heures sombres et à tous les carrefours de la lutte pour le progrès, l’Esprit de Vérité parlera toujours et vous dira « Voilà le chemin »._ <a id="a47_139"></a>[[LU 34:7.8](/fr/The_Urantia_Book/34#p7_8)]
+> _… car, à toutes les heures sombres et à tous les carrefours de la lutte pour le progrès, l’Esprit de Vérité parlera toujours et vous dira « Voilà le chemin »._ <a id="a48_163"></a>[[LU 34:7.8](/fr/The_Urantia_Book/34#p7_8)]
 
 Je ne cesserai jamais de m’étonner à quel point l’expérience d’un groupe d’étude a renforcé ma perception des valeurs divines chez les autres, à quel point elle a changé ma vie quotidienne et à quel point elle a influencé ma façon de vivre et de réagir aux situations parfois perplexes et inquiétantes de la vie sur notre monde. Il a même soutenu et maintenu mes efforts parfois défaillants pour vivre à la hauteur de ma foi en période de crise et d’adversité.
 

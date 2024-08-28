@@ -54,39 +54,39 @@ _Le Livre d'Urantia_ définit spécifiquement ces termes et les place dans une h
 
 Les citations suivantes du _Livre d'Urantia_ éclairent la signification de ces termes :
 
-> _La prière, et l’adoration qui lui est associée, est une technique pour se détacher de la routine de la vie courante, des travaux monotones de l’existence matérielle._ ([LU 144:4.5](/fr/The_Urantia_Book/144#p4_5))
+> _La prière, et l’adoration qui lui est associée, est une technique pour se détacher de la routine de la vie courante, des travaux monotones de l’existence matérielle._ (<a id="a56_171"></a>[LU 144:4.5](/fr/The_Urantia_Book/144#p4_5))
 
-> _Le contact du mental humain avec son Ajusteur intérieur, bien qu’il soit fréquemment favorisé par une méditation fervente, est beaucoup plus souvent facilité par les services sincères et aimants d’un ministère désintéressé auprès de ses semblables._ ([LU 91:7.1](/fr/The_Urantia_Book/91#p7_1))
+> _Le contact du mental humain avec son Ajusteur intérieur, bien qu’il soit fréquemment favorisé par une méditation fervente, est beaucoup plus souvent facilité par les services sincères et aimants d’un ministère désintéressé auprès de ses semblables._ (<a id="a58_254"></a>[LU 91:7.1](/fr/The_Urantia_Book/91#p7_1))
 
 Les paragraphes 91:7:2 et 125:4.4 nous montrent que la méditation est considérée distinctement de la prière :
 
-> _Jésus emmenait souvent ses apôtres à part, pendant de courtes périodes, pour méditer et prier, mais, la plupart du temps, il les maintenait en contact de service avec les multitudes._ ([LU 91:7.2](/fr/The_Urantia_Book/91#p7_2))
+> _Jésus emmenait souvent ses apôtres à part, pendant de courtes périodes, pour méditer et prier, mais, la plupart du temps, il les maintenait en contact de service avec les multitudes._ (<a id="a62_188"></a>[LU 91:7.2](/fr/The_Urantia_Book/91#p7_2))
 
-> _Lorsque cette deuxième journée au temple fut terminée, Jésus retourna encore une fois à Béthanie pour la nuit. De nouveau, il sortit dans le jardin pour méditer et prier. Il était évident que son mental était absorbé à considérer de graves problèmes._ ([LU 125:4.4](/fr/The_Urantia_Book/125#p4_4))
+> _Lorsque cette deuxième journée au temple fut terminée, Jésus retourna encore une fois à Béthanie pour la nuit. De nouveau, il sortit dans le jardin pour méditer et prier. Il était évident que son mental était absorbé à considérer de graves problèmes._ (<a id="a64_256"></a>[LU 125:4.4](/fr/The_Urantia_Book/125#p4_4))
 
 Le mot « prier » ou « prière » est utilisé plus fréquemment dans Le Livre d’Urantia, où il apparaît 107 fois. Il est utilisé dans le sens de demander quelque chose, et il est utilisé distinctement du mot « adoration ».
 
-> _Quand l’homme apprit que la prière ne pouvait contraindre les dieux, il lui donna davantage le caractère de pétition, de recherche d’une faveur. Mais la prière la plus authentique est en réalité une communion entre l’homme et son Créateur._ ([LU 91:2.3](/fr/The_Urantia_Book/91#p2_3))
+> _Quand l’homme apprit que la prière ne pouvait contraindre les dieux, il lui donna davantage le caractère de pétition, de recherche d’une faveur. Mais la prière la plus authentique est en réalité une communion entre l’homme et son Créateur._ (<a id="a68_245"></a>[LU 91:2.3](/fr/The_Urantia_Book/91#p2_3))
 
-> _Quand la prière ne recherche rien pour celui qui prie ni pour ses compagnons, alors une telle attitude de l’âme tend vers les niveaux de la véritable adoration._ ([LU 91:4.3](/fr/The_Urantia_Book/91#p4_3))
+> _Quand la prière ne recherche rien pour celui qui prie ni pour ses compagnons, alors une telle attitude de l’âme tend vers les niveaux de la véritable adoration._ (<a id="a70_166"></a>[LU 91:4.3](/fr/The_Urantia_Book/91#p4_3))
 
-> _La prière est destinée à faire penser moins les hommes et à leur faire *réaliser* plus. Elle n’est pas destinée à provoquer l’accroissement des connaissances, mais plutôt l’expansion de la clairvoyance._ ([LU 143:7.4](/fr/The_Urantia_Book/143#p7_4))
+> _La prière est destinée à faire penser moins les hommes et à leur faire *réaliser* plus. Elle n’est pas destinée à provoquer l’accroissement des connaissances, mais plutôt l’expansion de la clairvoyance._ (<a id="a72_208"></a>[LU 143:7.4](/fr/The_Urantia_Book/143#p7_4))
 
 L'adoration, par contre, est utilisée 419 fois dans Le Livre d'Urantia. L'adoration est la note la plus élevée de l'échelle musicale croissante des activités dévotionnelles bénéfiques à tous les individus, commençant par le repos et la relaxation, puis par la réflexion et la méditation, puis la prière et enfin l'adoration, l'adoration étant l'acte ultime de dévotion au Père et le « repos idéal de l'âme ».
 
-> _En tous temps et au long des âges, l’adoration sincère de tout être humain — quant au progrès spirituel individuel — est reconnue par l’esprit intérieur comme un hommage rendu au Père qui est aux cieux._ ([LU 142:3.8](/fr/The_Urantia_Book/142#p3_8))
+> _En tous temps et au long des âges, l’adoration sincère de tout être humain — quant au progrès spirituel individuel — est reconnue par l’esprit intérieur comme un hommage rendu au Père qui est aux cieux._ (<a id="a76_208"></a>[LU 142:3.8](/fr/The_Urantia_Book/142#p3_8))
 
 La distinction entre prière et adoration est soulignée à de nombreuses reprises.
 
-> _…la prière est spirituellement soutenante, mais l’adoration est divinement créative._ ([LU 143:7.5](/fr/The_Urantia_Book/143#p7_5))
+> _…la prière est spirituellement soutenante, mais l’adoration est divinement créative._ (<a id="a80_90"></a>[LU 143:7.5](/fr/The_Urantia_Book/143#p7_5))
 > 
-> _La prière est un rappel à soi-même, une pensée sublime ; l'adoration est un oubli de soi, une super-pensée. L'adoration est une attention sans effort, un repos de l'âme véritable et idéal, une forme d'effort spirituel reposant._ [LU 143:7.7](/fr/The_Urantia_Book/143#p7_7)
+> _La prière est un rappel à soi-même, une pensée sublime ; l'adoration est un oubli de soi, une super-pensée. L'adoration est une attention sans effort, un repos de l'âme véritable et idéal, une forme d'effort spirituel reposant._ <a id="a82_232"></a>[LU 143:7.7](/fr/The_Urantia_Book/143#p7_7)
 > 
-> _Comme la prière peut être comparée à la recharge des batteries spirituelles de l'âme, l'adoration peut être comparée à l'acte de syntoniser l'âme pour capter les émissions universelles de l'esprit infini du Père Universel._ ([LU 144:4.8](/fr/The_Urantia_Book/144#p4_8))
+> _Comme la prière peut être comparée à la recharge des batteries spirituelles de l'âme, l'adoration peut être comparée à l'acte de syntoniser l'âme pour capter les émissions universelles de l'esprit infini du Père Universel._ (<a id="a84_228"></a>[LU 144:4.8](/fr/The_Urantia_Book/144#p4_8))
 
 Et considérez la portée extraordinaire de l’adoration par rapport à celle de la simple prière dans le paragraphe suivant du document 5 – La relation de Dieu à l’individu
 
-> _Les prières, toutes les communications formelles et toutes les affaires, sauf le culte et l’adoration du Père Universel, sont du ressort d’un univers local. En général, elles ne dépassent pas les limites juridictionnelles d’un Fils Créateur. Mais l’adoration est certainement encircuitée et transmise à la personne du Créateur par le fonctionnement du circuit de personnalité du Père._ ([LU 5:3.2](/fr/The_Urantia_Book/5#p3_2))
+> _Les prières, toutes les communications formelles et toutes les affaires, sauf le culte et l’adoration du Père Universel, sont du ressort d’un univers local. En général, elles ne dépassent pas les limites juridictionnelles d’un Fils Créateur. Mais l’adoration est certainement encircuitée et transmise à la personne du Créateur par le fonctionnement du circuit de personnalité du Père._ (<a id="a88_390"></a>[LU 5:3.2](/fr/The_Urantia_Book/5#p3_2))
 
 Dans la Bible, la méditation est également décrite comme un moyen de se concentrer sur l'ensemble, stable et centré. Elle est mentionnée 23 fois, par exemple :
 

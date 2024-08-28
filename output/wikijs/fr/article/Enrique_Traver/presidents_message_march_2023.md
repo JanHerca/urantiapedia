@@ -57,7 +57,7 @@ En tant que groupe de personnes enthousiastes et désireuses de changer le monde
 
 Cependant, notre objectif n’est pas de compter de nouveaux membres ou de nouveaux associés. Au lieu de cela, notre objectif est de faire régner Dieu dans le cœur de tous les gens, d’assouvir la faim et la soif spirituelles de tous ceux qui cherchent à connaître Dieu.
 
-> _Il \[Jésus\] enseigna de bonne heure à ses partisans que le royaume des cieux était une expérience spirituelle concernant l’intronisation de Dieu dans le cœur des hommes._ <a id="a58_158"></a>[[LU 137:7.12](/fr/The_Urantia_Book/137#p7_12)]
+> _Il \[Jésus\] enseigna de bonne heure à ses partisans que le royaume des cieux était une expérience spirituelle concernant l’intronisation de Dieu dans le cœur des hommes._ <a id="a59_175"></a>[[LU 137:7.12](/fr/The_Urantia_Book/137#p7_12)]
 
 Si ceux qui découvrent de la révélation sont enthousiastes à propos des enseignements et veulent rejoindre notre organisation pour aider à agrandir le groupe de bénévoles dévoués servant notre Père, la fraternité et la révélation, ils sont plus que bienvenus. Et on a grand besoin d’eux. Mais notre mission est vraiment accomplie lorsqu’ils trouvent Dieu.
 
@@ -75,7 +75,7 @@ Pour être prêt, une chose importante à accomplir en ces temps turbulents est 
 
 L’unité et l’harmonie sont deux choses que les gens du monde entier n’ont pas réussi à atteindre tout au long des batailles idéologiques actuelles. Dans ce scénario, le moyen le plus efficace d’atteindre une convergence des idées est à travers Dieu ; c’est l’amour et c’est un endroit où nous pouvons tous parler la même langue et ressentir le même réconfort. Un endroit où nous pouvons nous sentir comme étant **UN**.
 
-> _Vous n’avez pas besoin d’avoir le même point de vue, les mêmes sentiments, ni même des pensées semblables, pour être spirituellement semblables. L’unité spirituelle dérive de la conscience que chacun de vous est habité, et de plus en plus dominé, par le don d’esprit du Père céleste. Votre harmonie apostolique doit naitre du fait que l’espoir spirituel de chacun de vous est identique par son origine, sa nature et sa destinée._ <a id="a76_379"></a>[[LU 141:5.1](/fr/The_Urantia_Book/141#p5_1)]
+> _Vous n’avez pas besoin d’avoir le même point de vue, les mêmes sentiments, ni même des pensées semblables, pour être spirituellement semblables. L’unité spirituelle dérive de la conscience que chacun de vous est habité, et de plus en plus dominé, par le don d’esprit du Père céleste. Votre harmonie apostolique doit naitre du fait que l’espoir spirituel de chacun de vous est identique par son origine, sa nature et sa destinée._ <a id="a77_433"></a>[[LU 141:5.1](/fr/The_Urantia_Book/141#p5_1)]
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/carlos7.jpg">

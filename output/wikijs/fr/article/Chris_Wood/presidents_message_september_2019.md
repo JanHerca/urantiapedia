@@ -39,9 +39,9 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Chris-Wood-mic2-280x400.jpg">
 </figure>
 
-_Les religionistes, en tant que groupe, ne doivent jamais s’occuper d’autre chose que de religion, bien qu’à titre individuel, n’importe lequel d’entre eux puisse devenir le chef éminent d’un mouvement de reconstruction sociale, économique ou politique._ <a id="a40_243"></a>[[LU 99:3.15](/fr/The_Urantia_Book/99#p3_15)]
+_Les religionistes, en tant que groupe, ne doivent jamais s’occuper d’autre chose que de religion, bien qu’à titre individuel, n’importe lequel d’entre eux puisse devenir le chef éminent d’un mouvement de reconstruction sociale, économique ou politique._ <a id="a41_255"></a>[[LU 99:3.15](/fr/The_Urantia_Book/99#p3_15)]
 
-_Indirectement, la civilisation culturelle est influencée par l’attitude de ces religionistes individuels à mesure qu’ils deviennent membres actifs et influents de divers groupes sociaux, moraux, économiques et politiques._ <a id="a42_203"></a>[[LU 99:3.3](/fr/The_Urantia_Book/99#p3_3)]
+_Indirectement, la civilisation culturelle est influencée par l’attitude de ces religionistes individuels à mesure qu’ils deviennent membres actifs et influents de divers groupes sociaux, moraux, économiques et politiques._ <a id="a43_224"></a>[[LU 99:3.3](/fr/The_Urantia_Book/99#p3_3)]
 
 Chaque fois que nous nous réunissons en groupe, lors d’un congrès, il y a une question qui est souvent soulevée : « Que sommes-nous exactement en tant que groupe ? » et « Urantia est-elle une religion ? » À bien des égards, nous ressemblons à une religion. Nous sommes un groupe de religieux ; en tant que groupe et en tant qu’organisations officielles, nous ne nous préoccupons pas de questions sociales, économiques ou politiques ; nous nous encourageons mutuellement et encourageons les autres à mieux connaître Dieu et à lui ressembler davantage.
 

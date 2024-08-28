@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Gaétan G. Charland<br>© 2023 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Reflectivite/2023_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 365 — Mars 2023 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-365-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 365 — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Lapierre/Instruction_preliminaire_et_recommandations">
+          <span class="pr-2">Instruction préliminaires et recommandations</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Gaetan_Charland.jpg">
@@ -55,7 +79,7 @@ Nous sommes tous des enseignants, que nous l'acceptions ou non. Comment menons-n
 Je vous laisse méditer sur cette citation.
 <br style="clear:both;"/>
 
-> _La croyance a atteint le niveau de la foi quand elle motive la vie et façonne la manière de vivre. Une disposition mentale n'atteint les niveaux de la foi que si elle domine effectivement la manière de vivre. La foi est un attribut vivant de l'expérience religieuse personnelle authentique._ [LU 101:8.1](/fr/The_Urantia_Book/101#p8_1)
+> _La croyance a atteint le niveau de la foi quand elle motive la vie et façonne la manière de vivre. Une disposition mentale n'atteint les niveaux de la foi que si elle domine effectivement la manière de vivre. La foi est un attribut vivant de l'expérience religieuse personnelle authentique._ <a id="a81_295"></a>[LU 101:8.1](/fr/The_Urantia_Book/101#p8_1)
 
 Aimer c'est servir.
 
@@ -63,3 +87,27 @@ Aimer c'est servir.
 
 - [Bulletin Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Ce numéro (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mars-2023.pdf)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Reflectivite/2023_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 365 — Mars 2023 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-365-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 365 — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Lapierre/Instruction_preliminaire_et_recommandations">
+          <span class="pr-2">Instruction préliminaires et recommandations</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

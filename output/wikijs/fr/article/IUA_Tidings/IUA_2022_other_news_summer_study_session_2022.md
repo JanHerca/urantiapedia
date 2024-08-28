@@ -45,7 +45,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Oak Brook Hills Resort and Conference Center 3500 Midwest Rd, Oak Brook, Illinois (près de Chicago)
 
-Le Comité d’éducation de la _Urantia Book Fellowship_ est heureux d’annoncer la prochaine session d’étude d’été (SSE) 2022 qui se tiendra au magnifique Oak Brook Hills Resort and Conference Center. Enfin, nous nous réunirons à nouveau en personne avec notre famille Urantia pour apprendre sur « _l’un des personnages les plus extraordinaires qui aient jamais été liés à l’histoire d’Urantia_ ». <a id="a49_379"></a>[[LU 93:10.11](/fr/The_Urantia_Book/93#p10_11)]
+Le Comité d’éducation de la _Urantia Book Fellowship_ est heureux d’annoncer la prochaine session d’étude d’été (SSE) 2022 qui se tiendra au magnifique Oak Brook Hills Resort and Conference Center. Enfin, nous nous réunirons à nouveau en personne avec notre famille Urantia pour apprendre sur « _l’un des personnages les plus extraordinaires qui aient jamais été liés à l’histoire d’Urantia_ ». <a id="a47_395"></a>[[LU 93:10.11](/fr/The_Urantia_Book/93#p10_11)]
 
 Il y a 4 000 ans, Machiventa Melchizédek se « personnalisa » héroïquement sur terre ; à une époque périlleuse où la vérité révélée était au bord de l’extinction.
 

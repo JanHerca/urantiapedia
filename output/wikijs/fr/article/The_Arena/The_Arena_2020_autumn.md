@@ -98,7 +98,7 @@ Nigel Nunn, Victoria
 <img src="/image/article/The_Arena/Nigels-Video2-1-570x318.jpg" alt="Nigel Nunn">
 </figure>
 
-> _La foi emmène bien volontiers la ***raison*** aussi loin que la raison peut aller ; la foi continue ensuite son chemin avec la ***sagesse*** jusqu’à sa pleine limite philosophique ; après cela, elle ose se lancer dans le voyage sans limites et sans fin de l’univers, en seule compagnie de la VÉRITÉ._ ([LU 103:9.7](/fr/The_Urantia_Book/103#p9_7))
+> _La foi emmène bien volontiers la ***raison*** aussi loin que la raison peut aller ; la foi continue ensuite son chemin avec la ***sagesse*** jusqu’à sa pleine limite philosophique ; après cela, elle ose se lancer dans le voyage sans limites et sans fin de l’univers, en seule compagnie de la VÉRITÉ._ (<a id="a100_305"></a>[LU 103:9.7](/fr/The_Urantia_Book/103#p9_7))
 
 La « raison » a aidé les scientifiques à écrire des récits fascinants sur l'histoire de l'univers : big bangs inflationnistes, collisions de branes, multivers. Le problème est que chacune de ces histoires implique des hypothèses qui dépassent notre capacité à les réfuter. Ces histoires ont cependant toutes une caractéristique commune : une tentative de remplacer la foi par des faits dans leurs hypothèses.
 
@@ -130,7 +130,7 @@ Julian McGarry – Hobart, Tasmanie
 
 (Il s'agit d'une présentation qui a été donnée lors de l'événement Urantia en ligne de 24 heures le 21 mars 2020)
 
-> _Rares sont les personnes qui vivent à la hauteur de la foi qu’elles possèdent réellement. La peur irraisonnée est une fraude intellectuelle maitresse pratiquée sur l’âme mortelle en évolution._ ([LU 48:7.4](/fr/The_Urantia_Book/48#p7_4))
+> _Rares sont les personnes qui vivent à la hauteur de la foi qu’elles possèdent réellement. La peur irraisonnée est une fraude intellectuelle maitresse pratiquée sur l’âme mortelle en évolution._ (<a id="a132_198"></a>[LU 48:7.4](/fr/The_Urantia_Book/48#p7_4))
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Julian-McGarry-ANZURA.jpg" alt="Julian McGarry">

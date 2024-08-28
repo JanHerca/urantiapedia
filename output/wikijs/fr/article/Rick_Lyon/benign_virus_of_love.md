@@ -67,7 +67,7 @@ Découvrons et discutons de certaines choses que _Le Livre d’Urantia_ nous dit
 Dieu est comme nous en ce qu’il veut aimer et être aimé. Il ne veut pas être craint. Il veut que vous l’aimiez parce que vous choisissez de l’aimer pour ce qu’il est. Plus nous connaîtrons Dieu, plus nous l’aimerons et nous nous efforcerons de devenir comme lui et, dans ce processus, nous apprendrons aussi à nous aimer les uns les autres comme Jésus et Dieu nous aiment.
 <br style="clear:both;"/>
 
-> _Au cours des âges précédents, la religion avait principalement été une affaire de tribu ou de nation ; elle n’avait pas souvent été un sujet d’intérêt pour l’individu. Les dieux étaient tribaux ou nationaux, et non personnels. De tels systèmes religieux n’apportèrent guère de satisfaction aux aspirations spirituelles individuelles de la moyenne des gens ordinaires._ [LU 121:5.1](/fr/The_Urantia_Book/121#p5_1)_
+> _Au cours des âges précédents, la religion avait principalement été une affaire de tribu ou de nation ; elle n’avait pas souvent été un sujet d’intérêt pour l’individu. Les dieux étaient tribaux ou nationaux, et non personnels. De tels systèmes religieux n’apportèrent guère de satisfaction aux aspirations spirituelles individuelles de la moyenne des gens ordinaires._ <a id="a69_372"></a>[LU 121:5.1](/fr/The_Urantia_Book/121#p5_1)_
 
 > _Jésus aime l’humanité d’une double affection. Il a vécu sur terre sous une personnalité duelle – humaine et divine. En tant que Fils de Dieu, il aime les hommes d’un amour paternel – il est leur Créateur, leur Père dans l’univers. En tant que Fils de l’Homme, Jésus aime les mortels comme un frère – il était vraiment un homme parmi les hommes._  <a id="a71_350"></a>[[LU 140:5.2](/fr/The_Urantia_Book/140#p5_2)]
 

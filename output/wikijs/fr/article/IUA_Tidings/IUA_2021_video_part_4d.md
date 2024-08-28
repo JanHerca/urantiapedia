@@ -46,15 +46,15 @@ De quoi faire vibrer les âmes ! Une cosmologie imprégnée de sens et de valeur
 Cependant, juste après avoir ainsi remué nos âmes, les auteurs versent de l’eau froide sur nos attentes.
 <br style="clear:both;"/>
 
-> _… d’ici quelques années, nombre de nos déclarations concernant les sciences physiques devront être révisées…_ <a id="a47_117"></a>[[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2)]
+> _… d’ici quelques années, nombre de nos déclarations concernant les sciences physiques devront être révisées…_ <a id="a48_113"></a>[[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2)]
 
 « Devront être révisées. » Quand on la compare à la cosmologie consensuelle actuelle d’un jeune univers commençant par un Big Bang chaud, la cosmologie du Livre d’Urantia est si peu orthodoxe et si apparemment fausse que certains étudiants de ces Fascicules considèrent maintenant cette cosmologie comme un peu plus qu’une décoration pour les thèmes les plus importants du livre : ses révélations _spirituelles_ et _philosophiques_. Mais regardez à nouveau les « Limites de la Révélation » discutées dans le document 101. Immédiatement après avoir déclaré qu’ils étaient limités dans les faits scientifiques qu’ils pouvaient révéler, ils énumèrent un certain nombre de choses qu’ils étaient autorisés à faire. La première d’entre elles est particulièrement intéressante.
 
-> _1\. La réduction de la confusion par l’élimination autoritaire de l’erreur._ <a id="a51_78"></a>[[LU 101:4.6](/fr/The_Urantia_Book/101#p4_6)]
+> _1\. La réduction de la confusion par l’élimination autoritaire de l’erreur._ <a id="a52_80"></a>[[LU 101:4.6](/fr/The_Urantia_Book/101#p4_6)]
 
 « L’élimination autoritaire de l’erreur. » Pour autant que je sache, il n’y a qu’un seul endroit où les auteurs pointent explicitement l’une de nos hypothèses scientifiques, et nous disent carrément qu’elle est fausse. C’est dans le Fascicule 12, concernant l’utilisation du décalage vers le rouge pour déterminer la distance des galaxies dans l’espace.
 
-> _Mais cette vitesse apparente de récession n’est pas réelle_ <a id="a55_54"></a>[[LU 12:4.14](/fr/The_Urantia_Book/12#p4_14)]
+> _Mais cette vitesse apparente de récession n’est pas réelle_ <a id="a56_63"></a>[[LU 12:4.14](/fr/The_Urantia_Book/12#p4_14)]
 
 Rappelons que la « vitesse apparente de récession » des galaxies lointaines constitue le fondement de notre cosmologie consensuelle actuelle, selon laquelle l’univers a commencé par un big bang il y a seulement 14 milliards d’années. Donc, si cette « **vitesse apparente de récession** » n’est en fait « **pas réelle** », alors cette seule hypothèse (sur la « Loi de Hubble ») est en effet responsable d’une énorme confusion ! Les auteurs auraient donc tout à fait le droit de tenter de « réduire la confusion en éliminant les erreurs de manière autoritaire ».
 

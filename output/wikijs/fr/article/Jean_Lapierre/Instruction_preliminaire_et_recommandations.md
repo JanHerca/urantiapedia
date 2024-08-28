@@ -14,7 +14,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Gaetan_Charland/Reflectivite_2023_01_mot_du_president">
+        <a href="/fr/article/Gaetan_Charland/Reflectivite_2023_03_mot_du_president">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du président Mars 2023</span>
         </a>
         </td>
@@ -50,7 +50,7 @@ Pendant l'étude de ce fascicule mercredi dernier, il émergea en moi de nouvell
 Nous apprenons que Jésus demande à son Père de les accompagner comme lui-même l'a été et de leur donner la sagesse. En fait, il confie ses douze hommes à la garde de son Père. Il leur dit :
 <br style="clear:both;"/>
 
-> _Maintenant que vous êtes ambassadeurs du royaume de mon Père, vous êtes devenus une classe d'hommes séparés et distincts de tous les autres habitants de la terre. Vous n'existez plus maintenant en tant qu'hommes parmi les hommes, mais en tant que citoyens éclairés d'un autre pays céleste parmi les créatures ignorantes de ce monde enténébré._ [LU 140:3.1](/fr/The_Urantia_Book/140#p3_1)
+> _Maintenant que vous êtes ambassadeurs du royaume de mon Père, vous êtes devenus une classe d'hommes séparés et distincts de tous les autres habitants de la terre. Vous n'existez plus maintenant en tant qu'hommes parmi les hommes, mais en tant que citoyens éclairés d'un autre pays céleste parmi les créatures ignorantes de ce monde enténébré._ <a id="a52_347"></a>[LU 140:3.1](/fr/The_Urantia_Book/140#p3_1)
 
 Ces instructions, conseils, et quelquefois même des exigences, n'étaient pas l'évangile de Jésus, mais des instructions utiles que recevaient les apôtres tout comme lui-même en avait reçu d'Emmanuel.
 
@@ -59,12 +59,13 @@ Ces instructions, conseils, et quelquefois même des exigences, n'étaient pas l
 - [Bulletin Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Ce numéro (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mars-2023.pdf)
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Gaetan_Charland/Reflectivite_2023_01_mot_du_president">
+        <a href="/fr/article/Gaetan_Charland/Reflectivite_2023_03_mot_du_president">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du président Mars 2023</span>
         </a>
         </td>

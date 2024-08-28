@@ -65,9 +65,9 @@ _Le 27 janvier 1963_
 <figcaption>Mary Lou Hales, Emma Christensen (Christy) et William S. Sadler, Jr.</figcaption>
 </figure>
 
-> La religion peut imprégner les quatre niveaux de la réalisation des valeurs et de la joie de la fraternité universelle : le niveau physique ou matériel de la préservation de soi, le niveau social ou émotionnel de la fraternité, le niveau de la raison morale ou du devoir, et le niveau spirituel où l'on a conscience de la fraternité universelle par l'adoration divine. [LU 5:5.2](/fr/The_Urantia_Book/5#p5_2)
+> La religion peut imprégner les quatre niveaux de la réalisation des valeurs et de la joie de la fraternité universelle : le niveau physique ou matériel de la préservation de soi, le niveau social ou émotionnel de la fraternité, le niveau de la raison morale ou du devoir, et le niveau spirituel où l'on a conscience de la fraternité universelle par l'adoration divine. <a id="a67_371"></a>[LU 5:5.2](/fr/The_Urantia_Book/5#p5_2)
 
-> Dès lors que cette fraternité est universelle, elle est une relation de l'ensemble. Lorsque la fraternité est universelle, elle révèle non pas les relations de chacun mais les relations de tous. [LU 12:7.10](/fr/The_Urantia_Book/12#p7_10)
+> Dès lors que cette fraternité est universelle, elle est une relation de l'ensemble. Lorsque la fraternité est universelle, elle révèle non pas les relations de chacun mais les relations de tous. <a id="a69_197"></a>[LU 12:7.10](/fr/The_Urantia_Book/12#p7_10)
 
 
 ## Références

@@ -52,9 +52,9 @@ Les événements tragiques survenus récemment à Christchurch soulignent à que
 
 <br style="clear:both;"/>
 
-> _Et, au cours de toute épreuve et en présence de toute difficulté, les âmes nées d’esprit sont soutenues par l’espoir qui transcende toute crainte, parce que l’amour de Dieu est largement répandu dans tous les cœurs par la présence de l’Esprit divin._ [[LU 34:6.13](/fr/The_Urantia_Book/34#p6_13)]
+> _Et, au cours de toute épreuve et en présence de toute difficulté, les âmes nées d’esprit sont soutenues par l’espoir qui transcende toute crainte, parce que l’amour de Dieu est largement répandu dans tous les cœurs par la présence de l’Esprit divin._ <a id="a54_254"></a>[[LU 34:6.13](/fr/The_Urantia_Book/34#p6_13)]
 > 
-> _Il faut que la culture moderne soit spirituellement baptisée d’une nouvelle révélation de la vie de Jésus et illuminée par une nouvelle compréhension de son évangile de salut éternel. Et, quand Jésus sera ainsi élevé, il attirera tous les hommes à lui. Davantage encore que des conquérants, les disciples de Jésus devraient être pour l’humanité des sources débordantes d’inspiration et de vie rehaussée. La religion n’est qu’un humanisme exalté jusqu’à ce qu’elle soit rendue divine par la découverte de la réalité de la présence de Dieu dans l’expérience personnelle._ [[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1)]
+> _Il faut que la culture moderne soit spirituellement baptisée d’une nouvelle révélation de la vie de Jésus et illuminée par une nouvelle compréhension de son évangile de salut éternel. Et, quand Jésus sera ainsi élevé, il attirera tous les hommes à lui. Davantage encore que des conquérants, les disciples de Jésus devraient être pour l’humanité des sources débordantes d’inspiration et de vie rehaussée. La religion n’est qu’un humanisme exalté jusqu’à ce qu’elle soit rendue divine par la découverte de la réalité de la présence de Dieu dans l’expérience personnelle._ <a id="a56_573"></a>[[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1)]
 
 Quel Maître magnifique nous avons ! Sa bonne nouvelle, l'évangile de Jésus, est le message que notre monde troublé a besoin d'entendre !
 
@@ -76,7 +76,7 @@ Cette année, la conférence ANZURA revient dans la capitale du pays, cette fois
 
 ### Thème : L'esprit sur la matière — L'esprit sur l'esprit
 
-> _Dans les superunivers évolutionnaires, l’énergie-matière est dominante sauf dans la personnalité, où l’esprit, par la médiation du mental, lutte pour la maitrise. Le but des univers évolutionnaires est l’assujettissement de l’énergie-matière par le mental, la coordination du mental avec l’esprit, et tout ceci, en vertu de la présence créative et unificatrice de la personnalité._ ([LU 116:6.1](/fr/The_Urantia_Book/116#p6_1))
+> _Dans les superunivers évolutionnaires, l’énergie-matière est dominante sauf dans la personnalité, où l’esprit, par la médiation du mental, lutte pour la maitrise. Le but des univers évolutionnaires est l’assujettissement de l’énergie-matière par le mental, la coordination du mental avec l’esprit, et tout ceci, en vertu de la présence créative et unificatrice de la personnalité._ (<a id="a78_386"></a>[LU 116:6.1](/fr/The_Urantia_Book/116#p6_1))
 
 Il est assez évident qu’au 21e siècle, on comprend bien comment l’esprit humain a soumis la matière. Les progrès industriels et technologiques des deux derniers siècles ont fait de l’homme moderne un véritable adorateur de la science, et beaucoup suggèrent que cela mènera finalement à une compréhension complète du monde matériel par l’humanité.
 
@@ -95,7 +95,7 @@ La Journée nationale d’étude de cette année, où vous pourrez participer à
 
 <br style="clear:both;"/>
 
-> _L’Esprit Infini, le Créateur Conjoint, est un ministre divin et universel. L’Esprit dispense sans cesse la miséricorde du Fils et l’amour du Père, en harmonie même avec la justice stable, invariante et droite de la Trinité du Paradis. Son influence et ses personnalités sont toujours proches de vous ; elles vous connaissent réellement et vous comprennent vraiment._ ([LU 9:0.3](/fr/The_Urantia_Book/9#p0_3))
+> _L’Esprit Infini, le Créateur Conjoint, est un ministre divin et universel. L’Esprit dispense sans cesse la miséricorde du Fils et l’amour du Père, en harmonie même avec la justice stable, invariante et droite de la Trinité du Paradis. Son influence et ses personnalités sont toujours proches de vous ; elles vous connaissent réellement et vous comprennent vraiment._ (<a id="a97_371"></a>[LU 9:0.3](/fr/The_Urantia_Book/9#p0_3))
 
 Nous avons une fois de plus invité le lectorat international à se joindre à nous afin que nous puissions être unis en Esprit avec les étudiants du _Livre d'Urantia_ à travers le monde entier.
 
@@ -134,12 +134,12 @@ Neil Francey, Queensland
 _(Présenté à la Conférence Internationale de l’Association Urantia à Dourdan, France, juillet 2002)_
 
 
-> _Avec vos yeux spirituels oints, vous verriez les cieux s’ouvrir et contempleriez les anges de Dieu monter et descendre. Et beaucoup d’entre nous, tout en fonctionnant dans le gouvernement du Père et des univers des Fils, sont affectés au service des races humaines. Nous exerçons notre ministère sur Urantia depuis les premiers temps de l’intelligence humaine. Nous informons le ciel de cette partie reculée de l’univers. Nous sommes les anges du ciel. Selon les paroles de Jésus, nous sommes des esprits tutélaires._ ([LU 167:7.4](/fr/The_Urantia_Book/167#p7_4))
+> _Avec vos yeux spirituels oints, vous verriez les cieux s’ouvrir et contempleriez les anges de Dieu monter et descendre. Et beaucoup d’entre nous, tout en fonctionnant dans le gouvernement du Père et des univers des Fils, sont affectés au service des races humaines. Nous exerçons notre ministère sur Urantia depuis les premiers temps de l’intelligence humaine. Nous informons le ciel de cette partie reculée de l’univers. Nous sommes les anges du ciel. Selon les paroles de Jésus, nous sommes des esprits tutélaires._ (<a id="a136_522"></a>[LU 167:7.4](/fr/The_Urantia_Book/167#p7_4))
 
 Ces derniers jours, nous avons appris les plans brillants du Père et du Fils. Nous allons maintenant voir la corrélation de ces plans avec le plan de l'Esprit Infini.
 
 
-> _L’Ajusteur est la présence du Père ; l’Esprit de Vérité est la présence des Fils._ ([LU 113:3.3](/fr/The_Urantia_Book/113#p3_3))
+> _L’Ajusteur est la présence du Père ; l’Esprit de Vérité est la présence des Fils._ (<a id="a141_87"></a>[LU 113:3.3](/fr/The_Urantia_Book/113#p3_3))
 
 Ces dons divins sont coordonnés au niveau de l'expérience spirituelle humaine par les Esprits tutélaires, qui combinent l'amour du Père et la miséricorde du Fils dans leur ministère envers vous et moi. Ils le font au nom de l'Esprit infini. Les trois plans sont en fait un seul plan unifié.
 

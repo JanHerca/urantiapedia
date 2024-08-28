@@ -47,7 +47,7 @@ Nous rendons un mauvais service lorsque nous essayons de convertir les autres à
 
 Les étudiants du Livre d’Urantia peuvent devenir des leaders religieux lorsque nous écoutons plus que nous parlons, partageons plus que nous tentons d’enseigner et adorons plus que nous prêchons. Dans le Fascicule 92, _L’Évolution ultérieure de la Religion_, un Melchizédek dit :
 
-> _Mais il faut espérer que les efforts ardents et sincères de ces futurs prophètes seront moins orientés vers le renforcement des barrières interreligieuses que vers l’augmentation de la fraternité religieuse du culte spirituel parmi les nombreux adeptes des différentes théologies intellectuelles qui caractérisent ainsi Urantia de Satania._ <a id="a48_352"></a>[[LU 92:5.16](/fr/The_Urantia_Book/92#p5_16)]
+> _Mais il faut espérer que les efforts ardents et sincères de ces futurs prophètes seront moins orientés vers le renforcement des barrières interreligieuses que vers l’augmentation de la fraternité religieuse du culte spirituel parmi les nombreux adeptes des différentes théologies intellectuelles qui caractérisent ainsi Urantia de Satania._ <a id="a49_344"></a>[[LU 92:5.16](/fr/The_Urantia_Book/92#p5_16)]
 
 En cette période de la COVID 19, il peut être difficile d’avoir naturellement, chemin faisant, des discussions et des séances sporadiques de culte. Mais il est plus facile que jamais de se joindre à des discussions en ligne organisées par des maisons de culte et des groupes interconfessionnels du monde entier, y compris un nombre toujours croissant de présentations de webinaires offertes par l’Association Urantia Internationale. J’espère que nous nous rencontrerons dans ces discussions dans un avenir proche.
 <br style="clear:both;"/>

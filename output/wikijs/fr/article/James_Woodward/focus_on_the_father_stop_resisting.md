@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/image-10-150x150.jpeg">
 </figure>
 
-> _Le secret de son incomparable vie religieuse était cette conscience de la présence de Dieu ; il l’atteignit par des prières intelligentes et une adoration sincère — une communion ininterrompue avec Dieu — et non par des directives, des voix, des visions ou des pratiques religieuses extraordinaires._ <a id="a42_252"></a>[[LU 196:0.10](/fr/The_Urantia_Book/196#p0_10)] 
+> _Le secret de son incomparable vie religieuse était cette conscience de la présence de Dieu ; il l’atteignit par des prières intelligentes et une adoration sincère — une communion ininterrompue avec Dieu — et non par des directives, des voix, des visions ou des pratiques religieuses extraordinaires._ <a id="a43_304"></a>[[LU 196:0.10](/fr/The_Urantia_Book/196#p0_10)] 
 
 ## L’accomplissement
 
@@ -53,7 +53,7 @@ Pensez à Dieu _tout le temps_, aussi souvent que vous pouvez y penser. Ne vous 
 
 Nos techniques d’entraînement sont la _prière_ _intelligente_ et _l’adoration sincère_. Il n’y a absolument aucun mystère dans ces instructions, bien que nous rationalisions trop souvent notre résistance au plan de la perfection. Nous excellons à trouver des moyens d’éviter Dieu. C’est pourquoi nous avons un Ajusteur de Pensée pour nous aider à cesser de résister.
 
-> _Tous ces mouvements de croissance de la personnalité deviennent des influences puissantes qui contribuent à votre avancement, parce qu’ils vous aident à coopérer avec l’Ajusteur et à cesser de lui résistert._  <a id="a54_194"></a>[[LU 110:3.2](/fr/The_Urantia_Book/110#p3_2)] 
+> _Tous ces mouvements de croissance de la personnalité deviennent des influences puissantes qui contribuent à votre avancement, parce qu’ils vous aident à coopérer avec l’Ajusteur et à cesser de lui résistert._  <a id="a55_213"></a>[[LU 110:3.2](/fr/The_Urantia_Book/110#p3_2)] 
 
 Encore une fois, notre esprit intérieur amical, notre co-pilote moral, nous aidera à « cesser de résister » et à prendre des décisions sages pour que nous puissions progresser. Nous devons apprendre à confier toutes les questions spirituelles à notre entraîneur spirituel prépersonnel. L’un des moyens de briser notre résistance est de faire preuve de clémence pour notre communion brisée, d’amour bienveillant pour notre inconstance humaine. Il ne s’agit pas, cependant, d’éviter de se perfectionner en revendiquant paresseusement notre imperfection. Communiez un peu, communiez, ou communiez beaucoup.
 

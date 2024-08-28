@@ -21,7 +21,7 @@ La Journée nationale d’étude de cette année, où vous pourrez participer à
 
 <br style="clear:both;"/>
 
-> _L’Esprit Infini, le Créateur Conjoint, est un ministre divin et universel. L’Esprit dispense sans cesse la miséricorde du Fils et l’amour du Père, en harmonie même avec la justice stable, invariante et droite de la Trinité du Paradis. Son influence et ses personnalités sont toujours proches de vous ; elles vous connaissent réellement et vous comprennent vraiment._ ([LU 9:0.3](/fr/The_Urantia_Book/9#p0_3))
+> _L’Esprit Infini, le Créateur Conjoint, est un ministre divin et universel. L’Esprit dispense sans cesse la miséricorde du Fils et l’amour du Père, en harmonie même avec la justice stable, invariante et droite de la Trinité du Paradis. Son influence et ses personnalités sont toujours proches de vous ; elles vous connaissent réellement et vous comprennent vraiment._ (<a id="a23_371"></a>[LU 9:0.3](/fr/The_Urantia_Book/9#p0_3))
 
 Nous avons une fois de plus invité le lectorat international à se joindre à nous afin que nous puissions être unis en Esprit avec les étudiants du _Livre d'Urantia_ à travers le monde entier.
 

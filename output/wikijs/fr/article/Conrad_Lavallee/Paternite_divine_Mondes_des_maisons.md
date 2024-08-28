@@ -53,7 +53,7 @@ _(N.D.L.R. Voici le texte intégral de la conférence de Conrad Lavallée donné
 
 La notion de personnalité — la personnalité de Notre Père Universel.
 
-Caractéristiques uniques de la notion de personnalité dans ***Le Livre d'Urantia*** [LU 112:0.2](/fr/The_Urantia_Book/112#p0_2) — [LU 112:0.16](/fr/The_Urantia_Book/112#p0_16).
+Caractéristiques uniques de la notion de personnalité dans ***Le Livre d'Urantia*** <a id="a55_84"></a>[LU 112:0.2](/fr/The_Urantia_Book/112#p0_2) — <a id="a55_130"></a>[LU 112:0.16](/fr/The_Urantia_Book/112#p0_16).
 
 Elle n'est pas notre corps physique.
 
@@ -88,7 +88,7 @@ Personne ne connaît l'emplacement de nos personnalités entre le moment de notr
 
 ## La nature insondable du circuit de personnalité de notre Père Universel
 
-— [LU 12:3.2](/fr/The_Urantia_Book/12#p3_2), également [LU 115:5.15](/fr/The_Urantia_Book/115#p5_15).
+— <a id="a90_2"></a>[LU 12:3.2](/fr/The_Urantia_Book/12#p3_2), également <a id="a90_55"></a>[LU 115:5.15](/fr/The_Urantia_Book/115#p5_15).
 
 Une personnalité absolue, et absolument parfaite !
 
@@ -122,7 +122,7 @@ Alors que les êtres humains (hommes et femmes) sont considérés comme des fils
 
 Notre Père comme source de toutes les personnalités.
 
-Établissement d'une relation «personnelle», réelle et authentique avec notre Père Universel — [LU 1:6.4](/fr/The_Urantia_Book/1#p6_4) — [LU 1:6.5](/fr/The_Urantia_Book/1#p6_5)
+Établissement d'une relation «personnelle», réelle et authentique avec notre Père Universel — <a id="a124_94"></a>[LU 1:6.4](/fr/The_Urantia_Book/1#p6_4) — <a id="a124_136"></a>[LU 1:6.5](/fr/The_Urantia_Book/1#p6_5)
 
 La seule preuve possible de la réalité de notre Père Universel qu'une personne humaine puisse communiquer à une autre.
 
@@ -299,7 +299,7 @@ Il en va de même en ce qui concerne notre façon de nous relier à Dieu, notre 
 
 La raison pour laquelle nous habitons le corps matériel qui vient de nos parents, que c'est nous qui l'habitons personnellement au lieu d'une autre personne, c'est que notre Père Universel a directement transmis la prérogative de statut personnel à notre organisme vivant. Cela signifie qu'il est réellement le Père éternel de chacune de nos personnalités et qu'il nous laisse libres de nourrir ou pas notre relation avec Lui.
 
-## Pour Notre Père, il y a deux sortes de personnes dans l'univers [LU 133:0.3](/fr/The_Urantia_Book/133#p0_3)
+## Pour Notre Père, il y a deux sortes de personnes dans l'univers <a id="a301_67"></a>[LU 133:0.3](/fr/The_Urantia_Book/133#p0_3)
 
 Jésus nous dit que pour le Père, il y a deux sortes de personnes dans l'univers, celles qui veulent faire Sa volonté et celles qui ne veulent pas faire Sa volonté. Il nous laisse complètement libres de nourrir avec Lui cette relation Père/enfant. En d'autres termes, il nous laisse complètement libres d'accepter et d'accueillir, par la foi vivante, la réalité de Sa Paternité. Et lorsque nous acceptons et reconnaissons la réalité et le fait tout simplement sublime et merveilleux de sa Paternité, par la foi vivante, quelque chose de fantastique se produit immédiatement. Nous entrons de plain-pied, et sur le champ, dans la réalité vivante du Royaume des Cieux, de la famille éternelle, de sa bonne et divine volonté. Nous sommes instantanément immédiatement et sans réserve admis dans le circuit sans fin de la vie éternelle. Nous vivons l'expérience du salut éternel.
 
@@ -369,15 +369,15 @@ _Pas d'organes reproducteurs_
 
 Puisque nous ne sommes plus des êtres reproducteurs, ce nouveau corps est dépourvu d'organes de reproduction.
 
-_Pas d'organes d'excrétion_ [LU 43:6.6](/fr/The_Urantia_Book/43#p6_6).
+_Pas d'organes d'excrétion_ <a id="a371_28"></a>[LU 43:6.6](/fr/The_Urantia_Book/43#p6_6).
 
 Les aliments morontiels y sont absorbés à $100 \%$, ce qui fait que nous n'avons pas non plus d'organes d'excrétion.
 
-_Acuité sensorielle de loin supérieure_ [LU 46:5.10](/fr/The_Urantia_Book/46#p5_10).
+_Acuité sensorielle de loin supérieure_ <a id="a375_40"></a>[LU 46:5.10](/fr/The_Urantia_Book/46#p5_10).
 
 Nos sens sont considérablement plus affinés et développés que dans nos sens humains terrestres.
 
-_Un équipement psychique de loin supérieur_ [LU 103:6.7](/fr/The_Urantia_Book/103#p6_7), [LU 101:3.13](/fr/The_Urantia_Book/101#p3_13), [LU 46:6.28](/fr/The_Urantia_Book/46#p6_28).
+_Un équipement psychique de loin supérieur_ <a id="a379_44"></a>[LU 103:6.7](/fr/The_Urantia_Book/103#p6_7), <a id="a379_89"></a>[LU 101:3.13](/fr/The_Urantia_Book/101#p3_13), <a id="a379_136"></a>[LU 46:6.28](/fr/The_Urantia_Book/46#p6_28).
 
 Nous serons dotés d'une pensée morontielle, donc d'un type de cerveau considérablement plus avancé que notre cerveau matériel.
 

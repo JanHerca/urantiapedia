@@ -66,7 +66,7 @@ Voici les commentaires des participantes à la retraite des Filles de Dieu de se
 <img src="/image/article/IUA_Tidings/Womens-retreat-2-300x225.jpg">
 </figure>
 
-> _Si vous souhaitez véritablement trouver Dieu, vous ne pouvez éviter de voir naître dans votre mental la conscience du Suprême. De même que Dieu est votre Père divin, de même le Suprême est votre Mère divine, en qui vous êtes nourri pendant toute votre vie de créature de l’univers. 'Combien le Suprême est universel – on le trouve de tous côtés ! Les choses de la création illimitées dépendent de sa présence pour vivre, et nul ne se la voit refuser._ <a id="a67_392"></a>[_Le Livre d'Urantia_, [LU 117:6.2](/fr/The_Urantia_Book/117#p6_2)]
+> _Si vous souhaitez véritablement trouver Dieu, vous ne pouvez éviter de voir naître dans votre mental la conscience du Suprême. De même que Dieu est votre Père divin, de même le Suprême est votre Mère divine, en qui vous êtes nourri pendant toute votre vie de créature de l’univers. 'Combien le Suprême est universel – on le trouve de tous côtés ! Les choses de la création illimitées dépendent de sa présence pour vivre, et nul ne se la voit refuser._ <a id="a68_455"></a>[_Le Livre d'Urantia_, [LU 117:6.2](/fr/The_Urantia_Book/117#p6_2)]
 
 > « Merci d'être si intimes avec moi et de me permettre d'être si intime avec vous. Je n'oublierai jamais l’expérience. »
 > 

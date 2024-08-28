@@ -73,7 +73,7 @@ L'association avec d'autres lecteurs dans le contexte d'un groupe d'étude nous 
 
 Dans l'introduction du _Livre d'Urantia_, les révélateurs nous informent de l'état de notre mental. Voici ce que nous dit un Conseiller Divin à ce sujet :
 
-> « DANS LE MENTAL des mortels d'Urantia — ce nom étant celui de votre monde — il existe une grande confusion quant à la signification des termes tels que Dieu, divinité et déité. Les êtres humains sont dans une confusion et une incertitude plus grande encore lorsqu'il s'agit des relations entre les personnalités divines désignées par ces nombreuses appellations. » [LU 0:0.1](/fr/The_Urantia_Book/0#p0_1)
+> « DANS LE MENTAL des mortels d'Urantia — ce nom étant celui de votre monde — il existe une grande confusion quant à la signification des termes tels que Dieu, divinité et déité. Les êtres humains sont dans une confusion et une incertitude plus grande encore lorsqu'il s'agit des relations entre les personnalités divines désignées par ces nombreuses appellations. » <a id="a75_368"></a>[LU 0:0.1](/fr/The_Urantia_Book/0#p0_1)
 
 Qui d'entre nous n'a pas rencontré de difficulté à comprendre ce que nous disait ce Conseiller Divin dans l'Introduction du _Livre d'Urantia_ ? Qui d'entre nous, après plusieurs lectures, n'éprouve pas encore certaines difficultés à comprendre intellectuellement certains concepts, sans parler de l'appropriation des vérités spirituelles ?
 

@@ -51,11 +51,11 @@ Plus près de nous, l'actualité regorge d'exemple ou l'affirmation de soi qui e
 
 Faut-il encore bien comprendre ce que veut dire cette règle pour ne pas l'interpréter de façon égoïste et libertarienne. Voici trois citations qui mettent en valeur la règle d'or.
 
-> « _L'apparition d'une fraternité authentique signifie qu'un ordre social est arrivé où tous les hommes se réjouissent de porter les fardeaux les uns des autres et désirent réellement pratiquer la règle d'or.»_ [LU 71:4.16](/fr/The_Urantia_Book/71#p4_16)
+> « _L'apparition d'une fraternité authentique signifie qu'un ordre social est arrivé où tous les hommes se réjouissent de porter les fardeaux les uns des autres et désirent réellement pratiquer la règle d'or.»_ <a id="a53_212"></a>[LU 71:4.16](/fr/The_Urantia_Book/71#p4_16)
 
-> « _... la religion révélée met de plus en plus l'accent sur l'amour, la règle d'or._ » [LU 101:5.11](/fr/The_Urantia_Book/101#p5_11)
+> « _... la religion révélée met de plus en plus l'accent sur l'amour, la règle d'or._ » <a id="a55_89"></a>[LU 101:5.11](/fr/The_Urantia_Book/101#p5_11)
 
-> « _... Quand les mortels ainsi dirigés par l'esprit réalisent la véritable signification de cette règle d'or, ils débordent de l'assurance qu'ils sont citoyens d'un univers amical, et leurs idéaux de réalité d'esprit ne sont satisfaits que s'ils aiment leurs semblables comme Jésus nous a tous aimés. Telle est la réalité de la réalisation de l'amour de Dieu._ » [LU 180:5.8](/fr/The_Urantia_Book/180#p5_8)
+> « _... Quand les mortels ainsi dirigés par l'esprit réalisent la véritable signification de cette règle d'or, ils débordent de l'assurance qu'ils sont citoyens d'un univers amical, et leurs idéaux de réalité d'esprit ne sont satisfaits que s'ils aiment leurs semblables comme Jésus nous a tous aimés. Telle est la réalité de la réalisation de l'amour de Dieu._ » <a id="a57_365"></a>[LU 180:5.8](/fr/The_Urantia_Book/180#p5_8)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_04/007.jpg">
@@ -66,9 +66,9 @@ Si nous revenons à cette idée de vraie liberté, il nous faudra certainement e
 
 La pensée luciférienne dans son expression de liberté sans licence continue de créer des souffrances dans notre monde et cessera le jour où chaque homme et femme endosseront leur statut en tant que fils et fille de Dieu. Le message libérateur de Jésus de la Paternité de Dieu et la fraternité des hommes est d'une nécessité encore plus évidente à notre époque et pour de nombreuses générations à venir.
 
-> « ... _Le but ultime de la société dans son accomplissement le plus avancé ne peut jamais espérer transcender la fraternité des hommes fondée sur la reconnaissance de la paternité de Dieu enseignée par Jésus. L'idéal de tout aboutissement social ne peut être réalisé que par la venue de ce royaume divin._ » [LU 196:2.11](/fr/The_Urantia_Book/196#p2_11)
+> « ... _Le but ultime de la société dans son accomplissement le plus avancé ne peut jamais espérer transcender la fraternité des hommes fondée sur la reconnaissance de la paternité de Dieu enseignée par Jésus. L'idéal de tout aboutissement social ne peut être réalisé que par la venue de ce royaume divin._ » <a id="a68_310"></a>[LU 196:2.11](/fr/The_Urantia_Book/196#p2_11)
 
-Voilà un message simple que chacun de nous pouvons transmettre, mais faut-il qu'il soit reformulé et présenté en termes exprimant les relations de famille comme le dit si bien Jésus dans le fascicule [LU 142:7.4](/fr/The_Urantia_Book/142#p7_4)
+Voilà un message simple que chacun de nous pouvons transmettre, mais faut-il qu'il soit reformulé et présenté en termes exprimant les relations de famille comme le dit si bien Jésus dans le fascicule <a id="a70_200"></a>[LU 142:7.4](/fr/The_Urantia_Book/142#p7_4)
 
 Je vous invite à discuter de ce sujet si présent aujourd'hui dans notre société entre amis ou à l'intérieur de votre groupe d'étude et de réaliser à quel point nous vivons dans une époque remplie d'opportunité de toutes sortes pour faire germer les significations de la vraie liberté. Trop souvent nous pensons que notre seule mission est de faire connaître ***Le Livre d'Urantia***, n'oublions pas que ce sont les enseignements qu'il renferme qui ont une valeur suprême quand ils sont rendus vivants par et dans notre service aux autres.
 

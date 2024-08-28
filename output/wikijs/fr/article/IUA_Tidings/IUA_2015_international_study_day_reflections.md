@@ -81,15 +81,15 @@ Des salutations chaleureuses à tous mes compagnons lecteurs du _Livre d'Urantia
 Les révélateurs ont été manifestement impressionnés par la compréhension de cet homme de la vérité, de la beauté et de la bonté, pour consacrer un fascicule complet à la philosophie de la vie! On a parlé beaucoup à son sujet, mais voici les précieuses perles que nous avons découvertes :
 <br style="clear:both;"/>
 
-> _Les animaux ne connaissent pas la signification de la vie. Non seulement l’homme possède la faculté de reconnaitre les valeurs et de comprendre les significations, mais il a aussi conscience de la signification des significations – il est conscient de sa propre perspicacité._ <a id="a84_224"></a>[[LU 160:1.5](/fr/The_Urantia_Book/160#p1_5)]
+> _Les animaux ne connaissent pas la signification de la vie. Non seulement l’homme possède la faculté de reconnaitre les valeurs et de comprendre les significations, mais il a aussi conscience de la signification des significations – il est conscient de sa propre perspicacité._ <a id="a83_280"></a>[[LU 160:1.5](/fr/The_Urantia_Book/160#p1_5)]
 
-> _Seule une personne courageuse est prête à reconnaitre honnêtement ce que découvre un mental sincère et logique, et d'y faire face avec intrépidité._ <a id="a86_121"></a>[[LU 160:1.7](/fr/The_Urantia_Book/160#p1_7)]
+> _Seule une personne courageuse est prête à reconnaitre honnêtement ce que découvre un mental sincère et logique, et d'y faire face avec intrépidité._ <a id="a85_152"></a>[[LU 160:1.7](/fr/The_Urantia_Book/160#p1_7)]
 
-> _Il nous faut simplement avoir du tact et de la tolérance._ <a id="a88_45"></a>[[LU 160:1.9](/fr/The_Urantia_Book/160#p1_9)]
+> _Il nous faut simplement avoir du tact et de la tolérance._ <a id="a87_62"></a>[[LU 160:1.9](/fr/The_Urantia_Book/160#p1_9)]
 
-> _Je suis profondément impressionné par l’habitude de Jésus de s'en aller seul à l’écart pour une période d'examen solitaire des problèmes de la vie._ <a id="a90_150"></a>[[LU 160:1.11](/fr/The_Urantia_Book/160#p1_11)]
+> _Je suis profondément impressionné par l’habitude de Jésus de s'en aller seul à l’écart pour une période d'examen solitaire des problèmes de la vie._ <a id="a89_152"></a>[[LU 160:1.11](/fr/The_Urantia_Book/160#p1_11)]
 
-> _Cette pratique d'adoration de votre Maitre apporte cette détente qui renouvèle le mental, cette illumination qui inspire l’âme, ce courage qui permet de faire bravement face à ses problèmes, cette compréhension de soi qui supprime la peur débilitante, et cette conscience de l’union avec la divinité, qui procure à l’homme l’assurance lui permettant d'oser être semblable à Dieu. La détente due à l’adoration, la communion spirituelle telle que la pratique le Maitre, soulage les tensions, élimine les conflits et accroit puissamment la somme des ressources de la personnalité._ <a id="a92_556"></a>[[LU 160:1.12](/fr/The_Urantia_Book/160#p1_12)]
+> _Cette pratique d'adoration de votre Maitre apporte cette détente qui renouvèle le mental, cette illumination qui inspire l’âme, ce courage qui permet de faire bravement face à ses problèmes, cette compréhension de soi qui supprime la peur débilitante, et cette conscience de l’union avec la divinité, qui procure à l’homme l’assurance lui permettant d'oser être semblable à Dieu. La détente due à l’adoration, la communion spirituelle telle que la pratique le Maitre, soulage les tensions, élimine les conflits et accroit puissamment la somme des ressources de la personnalité._ <a id="a91_582"></a>[[LU 160:1.12](/fr/The_Urantia_Book/160#p1_12)]
 
 Et encore beaucoup plus...
 

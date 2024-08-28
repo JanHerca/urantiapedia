@@ -47,7 +47,7 @@ dateCreated: 2023-9-16T10:55:6Z
 Ça marche pour moi. Je le vois comme une reformulation de « La Paternité de Dieu et la Fraternité de l’Homme ». Dans le fascicule 142, La Pâque à Jérusalem, Jésus rend visite à un Juif grec et lui dit, en partie, que nous devrions nous engager dans :
 
 
-> _… Deux grands privilèges : l’adoration sincère du Créateur infini, le Père du Paradis, et le service aimant rendu à nos semblables._ <a id="a48_140"></a>[[LU 142:4.2](/fr/The_Urantia_Book/142#p4_2)]
+> _… Deux grands privilèges : l’adoration sincère du Créateur infini, le Père du Paradis, et le service aimant rendu à nos semblables._ <a id="a49_136"></a>[[LU 142:4.2](/fr/The_Urantia_Book/142#p4_2)]
 
 En substance, La Paternité de Dieu et la Fraternité des hommes. Mais Jésus ajoute un autre enseignement à cette phrase. Il dit que ces deux grands privilèges sont l’expression d’un devoir suprême unique. « L’adoration » et « le service » sont deux expressions de la même inspiration. « L’adoration » et le « service » sont deux moyens par lesquels nous essayons de remplir le mandat suprême : Soyez parfaits comme moi-même je suis parfait.
 

@@ -45,7 +45,7 @@ Parfois, tous les apôtres sortaient ensemble pour s’entraîner à prêcher et
 
 Pourtant, sa loyauté envers Jésus s'est transformée en amour, et ainsi sa foi a grandi. Seulement deux semaines après avoir rencontré Jésus pour la première fois, il pouvait déjà dire en toute vérité :
 
-> « _...Plus vous comprenez certaines personnes, moins vous les admirez, mais avec cet homme, moins je le comprends plus je l’aime._ » ([LU 138:7.6](/fr/The_Urantia_Book/138#p7_6))
+> « _...Plus vous comprenez certaines personnes, moins vous les admirez, mais avec cet homme, moins je le comprends plus je l’aime._ » (<a id="a47_136"></a>[LU 138:7.6](/fr/The_Urantia_Book/138#p7_6))
 
 Jésus lui a fait comprendre que la foi était tout ce qu’il fallait pour entrer dans le royaume de Dieu, même si les autres apôtres avaient une conception différente de celle de Jésus. La foi a aidé Matthieu et les autres à traverser bien des crises et à s’attendre à des résultats décevants. Lorsqu’il a vu comment la foi a aidé tant de personnes déprimées, cela lui a laissé une impression indélébile.
 
@@ -59,7 +59,7 @@ Hélas, quand il n’eut rien à faire, Matthieu fut spirituellement et émotion
 
 Tout cela, Jésus le savait très bien, car il a personnellement supplié Matthieu, jusqu’à la fin, d’avoir pitié de tous les enfants de Dieu et d’être toujours ferme et cohérent dans la proclamation de l’Évangile.
 
-Ces défauts et le choc de la crucifixion qui s’ensuivit lui causèrent plus de problèmes que d’autres. Jusqu’à ses apparitions morontielles, il était trop occupé à réfléchir à la manière de trouver des fonds pour les apôtres. Ce n’est pas sans raison que Jésus, lors de son apparition morontielle, demanda à Matthieu s’il… « _est dans ton cœur de m’obéir ?_ [[LU 192:2.12](/fr/The_Urantia_Book/192#p2_12)]
+Ces défauts et le choc de la crucifixion qui s’ensuivit lui causèrent plus de problèmes que d’autres. Jusqu’à ses apparitions morontielles, il était trop occupé à réfléchir à la manière de trouver des fonds pour les apôtres. Ce n’est pas sans raison que Jésus, lors de son apparition morontielle, demanda à Matthieu s’il… « _est dans ton cœur de m’obéir ?_ <a id="a61_357"></a>[[LU 192:2.12](/fr/The_Urantia_Book/192#p2_12)]
 
 Finalement, lorsque l'esprit de vérité descendit sur lui au moment de la Pentecôte, il obéit et avec une vigueur renouvelée prêcha et baptisa dans tous les pays païens.
 

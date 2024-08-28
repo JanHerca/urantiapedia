@@ -43,11 +43,11 @@ Avez-vous déjà eu le sentiment que le groupe d'étude que vous facilitez, ou a
 
 De nombreux groupes d'étude sont apparus et ont disparu depuis l’époque de la première publication du _Livre d'Urantia_ en 1955 et probablement beaucoup d'autres feront partie de ceux-ci également, et cela pour plusieurs bonnes raisons. Mais il y a certains de ces groupes qui ont disparu parce qu'ils ont échoué dans leurs objectifs d'étendre la conscience cosmique et d'améliorer la perception spirituelle. Non seulement certains groupes d'étude ont échoué dans ces deux buts, mais ils ont également échoué dans leur façon à enseigner comment devenir de meilleurs semeurs de vérités, comment être plus impliqué dans notre émancipation spirituelle par le service aux autres et comment mieux intégrer les enseignements dans sa vie.
 
-> _«Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels nés d'esprit qui révèlent effectivement le Maitre à tous les hommes. »_. <a id="a44_142"></a>[[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1)]
+> _«Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels nés d'esprit qui révèlent effectivement le Maitre à tous les hommes. »_. <a id="a45_166"></a>[[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1)]
 
 Je prends en exemple cette citation qui nous invite à vivre notre vie selon les enseignements de Jésus et non pas de prêcher à propos de lui comme plusieurs le font, afin de vivre le mieux possible la vérité de la Paternité de Dieu et la fraternité des hommes, que Jésus a si éloquemment prêchés non seulement en paroles, mais dans les exemples vivants de sa vie.
 
-> _«Je déclare que le royaume des cieux est la réalisation et la récognition de la loi de Dieu dans le cœur des hommes. »_ <a id="a48_121"></a>[[LU 141:2.1](/fr/The_Urantia_Book/141#p2_1)]
+> _«Je déclare que le royaume des cieux est la réalisation et la récognition de la loi de Dieu dans le cœur des hommes. »_ <a id="a49_123"></a>[[LU 141:2.1](/fr/The_Urantia_Book/141#p2_1)]
 
 > _«Ce Livre est donné à ceux qui sont prêts pour lui, longtemps avant le jour de sa mission mondiale. Des milliers de groupes d'étude doivent être mis sur pied et le livre doit être traduit en plusieurs langues. C'est alors que le Livre sera disponible lorsque la bataille de l’homme pour sa liberté sera gagnée et que le monde sera une fois de plus rendu plus fertile pour la religion de Jésus et pour la liberté de l’humanité. »_ [mandat de publication](/fr/article/The_Publication_Mandate)
 

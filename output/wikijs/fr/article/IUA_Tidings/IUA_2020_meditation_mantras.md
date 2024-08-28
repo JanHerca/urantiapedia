@@ -43,7 +43,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 La liste suivante de mantras de méditation est tirée des suggestions pratiques et des attitudes spirituelles requises pour le contact avec l’Ajusteur, telles que présentées par un Messager Solitaire dans _Le Livre d’Urantia_, Fascicules 107-111. J’ai pris la liberté de paraphraser ces directives d’une voix positive et active et, par conséquent, toutes les interprétations et erreurs possibles sont les miennes. J’encourage tous les lecteurs à en vérifier le contenu par eux-mêmes. Il ne s’agit en aucun cas d’une liste exhaustive des nombreuses suggestions et techniques spirituelles de communion avec l’Ajusteur qui nous est donnée tout au long du livre. 
 
-**Les Ajusteurs _sont_ la volonté de Dieu…** <a id="a44_41"></a>[[LU 108:4.2](/fr/The_Urantia_Book/108#p4_2)] 
+**Les Ajusteurs _sont_ la volonté de Dieu…** <a id="a45_45"></a>[[LU 108:4.2](/fr/The_Urantia_Book/108#p4_2)] 
 
 ## Mantras
 

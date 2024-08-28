@@ -61,7 +61,7 @@ Questions à considérer
 > 
 > Ce jeune homme, nommé Fortuné, devint plus tard le chef des chrétiens en Crète et le compagnon intime de Tite dans ses efforts pour élever l’âme des croyants crétois.
 > 
-> Les voyageurs étaient vraiment frais et dispos quand, un beau jour à midi, ils se préparèrent à faire voile pour Carthage, en Afrique du Nord, en s'arrêtant deux jours à Cyrène. C'est là que Jésus et Ganid donnèrent les premiers soins à un garçon nommé Rufus, qui avait été blessé par l’écroulement d'un char à boeufs lourdement chargé. Ils ramenèrent le garçon à la maison de sa mère ; quant à son père, Simon, il ne se douta guère que l’homme dont il porta plus tard la croix, sur ordre d'un soldat romain, était l’étranger qui avait jadis secouru son fils. <a id="a61_486"></a>[[LU 130:6.1-6](/fr/The_Urantia_Book/130#p6_1)]
+> Les voyageurs étaient vraiment frais et dispos quand, un beau jour à midi, ils se préparèrent à faire voile pour Carthage, en Afrique du Nord, en s'arrêtant deux jours à Cyrène. C'est là que Jésus et Ganid donnèrent les premiers soins à un garçon nommé Rufus, qui avait été blessé par l’écroulement d'un char à boeufs lourdement chargé. Ils ramenèrent le garçon à la maison de sa mère ; quant à son père, Simon, il ne se douta guère que l’homme dont il porta plus tard la croix, sur ordre d'un soldat romain, était l’étranger qui avait jadis secouru son fils. <a id="a63_562"></a>[[LU 130:6.1-6](/fr/The_Urantia_Book/130#p6_1)]
 
 
 ## Références

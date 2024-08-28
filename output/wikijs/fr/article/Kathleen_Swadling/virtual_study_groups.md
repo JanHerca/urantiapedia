@@ -72,9 +72,9 @@ https://www.youtube.com/watch?v=0kXtq8PYxy0&list=PLQYC6XW8Ev1d502uaOa3gq-sY_Us_5
 
 _Description :_ Un autre événement Urantia en ligne de 24 heures : _Nous sommes ensemble !_ Alors que le monde continue à pratiquer l’isolement social pour aider à ralentir les effets du Covid-19, la communauté urantienne a offert un autre événement en ligne extraordinaire pour aider à rassembler les étudiants. Pour cet événement en ligne de 24 heures, l’Association Urantia s’est associée aux comités d’éducation de la Fondation Urantia, à la Fellowship et à Urantia University Institute pour offrir 24 présentations uniques au monde entier.
 
-> _La personnalité agit difficilement dans l’isolement. L’homme est, par naissance, une créature sociable ; il est dominé par un désir ardent d’appartenance. Il est littéralement vrai « qu’aucun homme ne vit pour lui-même »_ <a id="a73_190"></a>[[LU 112:1.16](/fr/The_Urantia_Book/112#p1_16)] 
+> _La personnalité agit difficilement dans l’isolement. L’homme est, par naissance, une créature sociable ; il est dominé par un désir ardent d’appartenance. Il est littéralement vrai « qu’aucun homme ne vit pour lui-même »_ <a id="a74_225"></a>[[LU 112:1.16](/fr/The_Urantia_Book/112#p1_16)] 
 
-> _… De courtes périodes où l’on se retire de la scène active de la vie peuvent ne pas présenter de dangers sérieux, mais l’isolement prolongé de la personnalité est fort indésirable. …_ <a id="a75_150"></a>[[LU 100:5.8](/fr/The_Urantia_Book/100#p5_8)]
+> _… De courtes périodes où l’on se retire de la scène active de la vie peuvent ne pas présenter de dangers sérieux, mais l’isolement prolongé de la personnalité est fort indésirable. …_ <a id="a76_187"></a>[[LU 100:5.8](/fr/The_Urantia_Book/100#p5_8)]
 
 ## Références
 

@@ -88,7 +88,7 @@ La différence entre une personne qui a une vie intérieure qui connait Dieu et 
 
 Jésus nous a donné une première définition de l'âme :
 
-> « L'âme est la fraction de l'homme qui reflète son moi, qui discerne la vérité et qui perçoit l'esprit ; elle élève à jamais l'être humain au-dessus du niveau du monde animal.» [LU 133:6.5](/fr/The_Urantia_Book/133#p6_5)
+> « L'âme est la fraction de l'homme qui reflète son moi, qui discerne la vérité et qui perçoit l'esprit ; elle élève à jamais l'être humain au-dessus du niveau du monde animal.» <a id="a90_179"></a>[LU 133:6.5](/fr/The_Urantia_Book/133#p6_5)
 
 L'âme a sa propre existence et, autant nous devons participer à sa croissance par nos actions spirituelles dynamiques, c'est-à-dire en produisant les fruits de l'esprit, autant elle nous nourrit en retour par la conscience que nous avons d'elle qui stimule notre imagination spirituelle éclairée par notre Ajusteur et l'Esprit de Vérité.
 
@@ -96,7 +96,7 @@ L'âme a sa propre existence et, autant nous devons participer à sa croissance 
 <img src="/image/article/Reflectivite/2024_05/007.jpg">
 </figure>
 
-Jésus a dit : [LU 140:3.13](/fr/The_Urantia_Book/140#p3_13)... « Vous êtes la lumière du monde...» »
+Jésus a dit : <a id="a98_14"></a>[LU 140:3.13](/fr/The_Urantia_Book/140#p3_13)... « Vous êtes la lumière du monde...» »
 
 Nous devons être ses apôtres et éclairer la route des personnes qui ne voient pas encore la lumière qui est pourtant en tous ceux qui se préparent à naître de l'Esprit.
 
@@ -108,19 +108,19 @@ Il y a cette phrase qui me revient en tête et qui dit :
 
 Une attitude positive vivante, l'expression de notre visage, un sourire bienveillant deviennent la porte d'entrée pour prendre contact avec l'âme des personnes que nous croisons sur notre chemin. Je m'inspire de la façon dont Jésus parlait aux gens.
 
-> ... Jésus parlait directement à l'âme des hommes. Il instruisait l'esprit des hommes par l'intermédiaire du mental. Il vivait avec les hommes. [LU 141:7.10](/fr/The_Urantia_Book/141#p7_10)
+> ... Jésus parlait directement à l'âme des hommes. Il instruisait l'esprit des hommes par l'intermédiaire du mental. Il vivait avec les hommes. <a id="a110_145"></a>[LU 141:7.10](/fr/The_Urantia_Book/141#p7_10)
 
 Et aussi :
 
 > ... En règle générale, c'est à ceux qu'il enseignait le plus qu'il en disait le moins. Ceux qui tirèrent le plus grand profit de son ministère personnel étaient des gens surmenés, anxieux et déprimés, à qui l'occasion d'épancher leur âme à un auditeur sympathique et compréhensif apportait un grand soulagement ; Jésus était cet auditeur, et plus encore.
 
-> ... Jésus n'était jamais pressé. Il avait le temps de réconforter ses semblables «en passant». Il s'arrangeait toujours pour que ses amis se sentent à l'aise. Il était un auditeur charmant. [LU 171:7.5](/fr/The_Urantia_Book/171#p7_5)
+> ... Jésus n'était jamais pressé. Il avait le temps de réconforter ses semblables «en passant». Il s'arrangeait toujours pour que ses amis se sentent à l'aise. Il était un auditeur charmant. <a id="a116_192"></a>[LU 171:7.5](/fr/The_Urantia_Book/171#p7_5)
 
-> ... Il inspirait une profonde confiance en soi et un solide courage à tous ceux qui jouissaient de sa compagnie. Quand il souriait à une personne, celle-ci ressentait une capacité accrue de résoudre ses multiples problèmes. [LU 171:7.6](/fr/The_Urantia_Book/171#p7_6)
+> ... Il inspirait une profonde confiance en soi et un solide courage à tous ceux qui jouissaient de sa compagnie. Quand il souriait à une personne, celle-ci ressentait une capacité accrue de résoudre ses multiples problèmes. <a id="a118_226"></a>[LU 171:7.6](/fr/The_Urantia_Book/171#p7_6)
 
 Ce que Jésus faisait, nous pouvons le faire ; entrer en contact avec nos frères et sœurs humains, se laisser inspirer en laissant notre âme prendre contact avec la leur. Nous possédons les clés pour instruire, ***Le Livre d'Urantia*** nous les a révélées et les médians nous ont enseigné que :
 
-> ... L'impulsion vers le progrès spirituel est la force motrice la plus puissante présente dans le monde. Les croyants qui apprennent la vérité sont les seules âmes progressives et dynamiques sur terre. [LU 194:3.4](/fr/The_Urantia_Book/194#p3_4)
+> ... L'impulsion vers le progrès spirituel est la force motrice la plus puissante présente dans le monde. Les croyants qui apprennent la vérité sont les seules âmes progressives et dynamiques sur terre. <a id="a122_204"></a>[LU 194:3.4](/fr/The_Urantia_Book/194#p3_4)
 
 Voilà l'impulsion que je ressens avec la stimulation de mon âme vivante
 

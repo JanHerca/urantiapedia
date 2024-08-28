@@ -54,7 +54,7 @@ Les intuitions ou illuminations que nous pouvons avoir sont la preuve indiscutab
 Vous pourrez trouver ce qui est écrit d'inutile ou d'incompréhensible, mais en fait, c'est un encouragement (Sourire).
 <br style="clear:both;"/>
 
-> « Le grand défi lancé à l'homme moderne consiste à établir de meilleures communications avec le divin Moniteur qui habite le mental humain. La plus grande aventure de l'homme dans la chair est son effort sain et équilibré pour repousser les frontières de la conscience de soi à travers les domaines imprécis de la conscience embryonnaire de l'âme, dans un effort sincère pour atteindre la région frontière de la conscience de l'esprit — le contact avec la divine présence. Une telle expérience constitue la conscience de Dieu, c'est une expérience qui confirme puissamment la vérité préexistante de l'expérience religieuse consistant à connaitre Dieu. Cette conscience de l'esprit équivaut à connaitre effectivement la filiation avec Dieu. À défaut, l'assurance de cette filiation est l'expérience de la foi.. » ([LU 196:3.34](/fr/The_Urantia_Book/196#p3_34))
+> « Le grand défi lancé à l'homme moderne consiste à établir de meilleures communications avec le divin Moniteur qui habite le mental humain. La plus grande aventure de l'homme dans la chair est son effort sain et équilibré pour repousser les frontières de la conscience de soi à travers les domaines imprécis de la conscience embryonnaire de l'âme, dans un effort sincère pour atteindre la région frontière de la conscience de l'esprit — le contact avec la divine présence. Une telle expérience constitue la conscience de Dieu, c'est une expérience qui confirme puissamment la vérité préexistante de l'expérience religieuse consistant à connaitre Dieu. Cette conscience de l'esprit équivaut à connaitre effectivement la filiation avec Dieu. À défaut, l'assurance de cette filiation est l'expérience de la foi.. » (<a id="a56_815"></a>[LU 196:3.34](/fr/The_Urantia_Book/196#p3_34))
 
 https://bigbluebook.org/fr/196/3/
 
@@ -69,7 +69,7 @@ C'est du donnant-donnant dans le jeu éternel (une transaction dans laquelle cha
 
 Cela me fait penser à la réflexion de Jean François Drouet dans le zoom de la rencontre internationale ; PAS $=$ Prière, Adoration, Service.
 
-> _Cette infraction aux moyens plus solennels et plus révérencieux de communication avec la Déité était un peu déconcertante pour ses parents, spécialement pour sa mère, mais on ne pouvait le persuader de changer ; il_ [Jésus] _disait ses prières exactement comme on les lui avait apprises, après quoi il insistait pour avoir " juste un petit entretien avec mon Père dans les cieux_ ». [LU 123:3.6](/fr/The_Urantia_Book/123#p3_6)
+> _Cette infraction aux moyens plus solennels et plus révérencieux de communication avec la Déité était un peu déconcertante pour ses parents, spécialement pour sa mère, mais on ne pouvait le persuader de changer ; il_ [Jésus] _disait ses prières exactement comme on les lui avait apprises, après quoi il insistait pour avoir " juste un petit entretien avec mon Père dans les cieux_ ». <a id="a71_386"></a>[LU 123:3.6](/fr/The_Urantia_Book/123#p3_6)
 
 ## Références
 

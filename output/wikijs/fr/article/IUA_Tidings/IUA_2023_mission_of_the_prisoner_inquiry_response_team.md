@@ -52,11 +52,11 @@ Il est clair que les vérités transformatrices révélées dans Le Livre d’Ur
 
 Veuillez envisager de vous joindre à nous alors que nous cherchons à exercer un ministère auprès du moindre de nos frères sur Urantia. L’équipe PIRT a besoin de bénévoles supplémentaires et serait heureuse d’entendre parler de vous et de répondre à toutes les questions que vous pourriez avoir. Vous pouvez contacter PIRT en envoyant un courriel à : [prt@urantia-association.org](mailto:prt@urantia-association.org)
 
-> _Souvenez-vous que, dans la mesure où vous servez le plus humble de mes frères, c’est à moi que vous rendez service_. [LU 176:3.5](/fr/The_Urantia_Book/176#p3_5)
+> _Souvenez-vous que, dans la mesure où vous servez le plus humble de mes frères, c’est à moi que vous rendez service_. <a id="a54_120"></a>[LU 176:3.5](/fr/The_Urantia_Book/176#p3_5)
 
-> _Et ce royaume inclura les âmes adoratrices des Juifs et des Gentils, des riches et des pauvres, des hommes libres et des esclaves, car mon Père ne fait pas acception de personnes ; son amour et sa miséricorde s’étendent sur tous._ [LU 137:8.6](/fr/The_Urantia_Book/137#p8_6)
+> _Et ce royaume inclura les âmes adoratrices des Juifs et des Gentils, des riches et des pauvres, des hommes libres et des esclaves, car mon Père ne fait pas acception de personnes ; son amour et sa miséricorde s’étendent sur tous._ <a id="a56_234"></a>[LU 137:8.6](/fr/The_Urantia_Book/137#p8_6)
 
-> _À cause de cette haute estime que Jésus avait pour les hommes, il était prêt à se dépenser au service assidu de l’humanité._  [LU 196:2.10](/fr/The_Urantia_Book/196#p2_10)
+> _À cause de cette haute estime que Jésus avait pour les hommes, il était prêt à se dépenser au service assidu de l’humanité._  <a id="a58_129"></a>[LU 196:2.10](/fr/The_Urantia_Book/196#p2_10)
 
 ## Références
 

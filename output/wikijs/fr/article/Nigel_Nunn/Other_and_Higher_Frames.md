@@ -17,7 +17,7 @@ Par Nigel Nunn, VIC
 <img src="/image/article/The_Arena/Nigels-Video2-1-570x318.jpg" alt="Nigel Nunn">
 </figure>
 
-> _La foi emmène bien volontiers la ***raison*** aussi loin que la raison peut aller ; la foi continue ensuite son chemin avec la ***sagesse*** jusqu’à sa pleine limite philosophique ; après cela, elle ose se lancer dans le voyage sans limites et sans fin de l’univers, en seule compagnie de la VÉRITÉ._ ([LU 103:9.7](/fr/The_Urantia_Book/103#p9_7))
+> _La foi emmène bien volontiers la ***raison*** aussi loin que la raison peut aller ; la foi continue ensuite son chemin avec la ***sagesse*** jusqu’à sa pleine limite philosophique ; après cela, elle ose se lancer dans le voyage sans limites et sans fin de l’univers, en seule compagnie de la VÉRITÉ._ (<a id="a19_305"></a>[LU 103:9.7](/fr/The_Urantia_Book/103#p9_7))
 
 La « raison » a aidé les scientifiques à écrire des récits fascinants sur l'histoire de l'univers : big bangs inflationnistes, collisions de branes, multivers. Le problème est que chacune de ces histoires implique des hypothèses qui dépassent notre capacité à les réfuter. Ces histoires ont cependant toutes une caractéristique commune : une tentative de remplacer la foi par des faits dans leurs hypothèses.
 
@@ -28,7 +28,7 @@ La « raison » a aidé les scientifiques à écrire des récits fascinants sur 
 C'est là qu'ils se heurtent tous à un mur. Les faits à portée de main – comme les décalages vers le rouge et les rotations des galaxies, comme l'interaction quantifiée des particules – se révèlent inadéquats pour expliquer ce que les astronomes commencent à observer. À mesure que nos outils et nos techniques s'améliorent, les hypothèses qui étayent nos cosmologies actuellement concurrentes sont devenues de plus en plus tendues – contraintes par des faits de plus en plus gênants. Ainsi, la « sagesse » (et le bon sens) exigent que nous révisions ces hypothèses. Mais la sagesse est également limitée par les cadres dans lesquels nous pensons. C'est là qu'intervient le Livre d'Urantia :
 <br style="clear:both;"/>
 
-> _...L’homme est obligé de penser dans un cadre universel de mortel, mais cela ne signifie pas qu’il ne puisse imaginer d’autres cadres plus élevés, à l’intérieur desquels la pensée peut avoir lieu._ ([LU 115:1.2](/fr/The_Urantia_Book/115#p1_2))
+> _...L’homme est obligé de penser dans un cadre universel de mortel, mais cela ne signifie pas qu’il ne puisse imaginer d’autres cadres plus élevés, à l’intérieur desquels la pensée peut avoir lieu._ (<a id="a30_202"></a>[LU 115:1.2](/fr/The_Urantia_Book/115#p1_2))
 
 « D’autres cadres plus élevés… » Au moment même où Schrödinger et Dirac, Heisenberg et Pauli se débattaient avec la mécanique quantifiée, alors que Lemaitre et Hubble tentaient de cartographier le mouvement dans le cosmos, _Le Livre d’Urantia_ était présenté – un aperçu d’un « autre cadre plus élevé ». Cet aperçu comprend des idées visant à déplacer nos modèles standards actuels – de physique et de cosmologie – au-delà de la confusion dans laquelle ils sont maintenant coincés.
 

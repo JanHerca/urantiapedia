@@ -53,7 +53,7 @@ Si vous souhaitez préparer et présenter un article, veuillez contacter [_joann
 
 Le symposium se tiendra à La Fondation Urantia à Chicago, Illinois, É.-U., et sera diffusé en direct au public. Lorsque le coût du déplacement est prohibitif, les présentateurs peuvent choisir de participer via Zoom.
 
-> _Tout progrès humain est effectué par une technique conjointe d’évolution-révélation._ <a id="a54_86"></a>[[LU 196:3.15](/fr/The_Urantia_Book/196#p3_15)]
+> _Tout progrès humain est effectué par une technique conjointe d’évolution-révélation._ <a id="a55_89"></a>[[LU 196:3.15](/fr/The_Urantia_Book/196#p3_15)]
 
 
 ## Références

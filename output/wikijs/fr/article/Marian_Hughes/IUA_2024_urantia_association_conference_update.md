@@ -89,7 +89,7 @@ Les après-midis, deux excursions seront organisées pour les grands enfants et 
 
 Si vous êtes déjà inscrit au congrès, n’oubliez pas de nous informer de la présence de vos enfants. Si vous avex des questions, envoyez-nous un courriel à [uausconference2024@gmail.com](mailto:uausconference2024@gmail.com) .
 
-> Le mental est votre navire, l’Ajusteur est votre pilote, la volonté humaine est le capitaine. Le maitre du vaisseau mortel devrait avoir la sagesse de se fier au divin pilote pour conduire l’âme ascendante dans les havres morontiels de la survie éternelle. [LU 111:1.9](/fr/The_Urantia_Book/111#p1_9)
+> Le mental est votre navire, l’Ajusteur est votre pilote, la volonté humaine est le capitaine. Le maitre du vaisseau mortel devrait avoir la sagesse de se fier au divin pilote pour conduire l’âme ascendante dans les havres morontiels de la survie éternelle. <a id="a91_259"></a>[LU 111:1.9](/fr/The_Urantia_Book/111#p1_9)
 
 **Venez naviguer avec nous !**
 

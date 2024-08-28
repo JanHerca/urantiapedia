@@ -68,11 +68,11 @@ Il y a plus de 2 ans, nous avons recommencé l'étude des fascicules de la Vie e
 
 Dans le fascicule 160, Rodan d'Alexandrie, l'art de vivre que nous étudions aujourd'hui on nous raconte ceci :
 
-> _Or, il est possible, par une association de personnalités, d'unir ces points de vue sur l'existence temporelle et ces perspectives éternelles. Alors, le mental de l'un accroit ses valeurs spirituelles en assimilant une grande partie des aperçus de l'autre. De cette manière, les hommes enrichissent l'âme en mettant en commun leurs possessions spirituelles respectives._ [LU 160:2.7](/fr/The_Urantia_Book/160#p2_7)
+> _Or, il est possible, par une association de personnalités, d'unir ces points de vue sur l'existence temporelle et ces perspectives éternelles. Alors, le mental de l'un accroit ses valeurs spirituelles en assimilant une grande partie des aperçus de l'autre. De cette manière, les hommes enrichissent l'âme en mettant en commun leurs possessions spirituelles respectives._ <a id="a70_374"></a>[LU 160:2.7](/fr/The_Urantia_Book/160#p2_7)
 
 Devenir hôte de groupe d'étude est une responsabilité très importante, demandant un ferme engagement. Vingt-quatre ans sont passés et nous sommes toujours fidèles au rendez-vous les lundis soir et ce, faisant le bonheur du groupe.
 
-> Un grand pouvoir spirituel est inhérent à la conscience d'être consacré de tout cour à une cause commune, d'être mutuellement fidèle à une Déité cosmique. [LU 160:2.8](/fr/The_Urantia_Book/160#p2_8)
+> Un grand pouvoir spirituel est inhérent à la conscience d'être consacré de tout cour à une cause commune, d'être mutuellement fidèle à une Déité cosmique. <a id="a74_157"></a>[LU 160:2.8](/fr/The_Urantia_Book/160#p2_8)
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_03/012.jpg">

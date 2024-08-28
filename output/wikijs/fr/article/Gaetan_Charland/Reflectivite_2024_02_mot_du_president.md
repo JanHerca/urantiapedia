@@ -45,7 +45,7 @@ Chers lecteurs et membres de l'association,
 
 En ce début d'année, peut-être avez-vous ressenti l'appel ou l'inspiration de vous plonger à nouveau dans la lecture et l'étude des enseignements du _Livre d'Urantia_. Certains d'entre vous ont peut-être décidé de rejoindre un groupe d'étude ou de suivre l'un des nombreux cours proposés par UBIS, UUI, Sagesse Divine Progressive ou l'École des Ambassadeurs. Ces activités multiples sont souvent nécessaires pour nourrir et entretenir la flamme spirituelle qui brûle en nous.
 
-> ... Les créateurs savent bien qu'il « n'est pas bon pour l'homme d'être seul » et, en conséquence, ils prennent des dispositions pour lui procurer des compagnons, même au Paradis. [LU 25:8.4](/fr/The_Urantia_Book/25#p8_4)
+> ... Les créateurs savent bien qu'il « n'est pas bon pour l'homme d'être seul » et, en conséquence, ils prennent des dispositions pour lui procurer des compagnons, même au Paradis. <a id="a47_182"></a>[LU 25:8.4](/fr/The_Urantia_Book/25#p8_4)
 
 Même dans notre progression spirituelle avancée, le besoin de compagnons avec qui échanger reste crucial. Ainsi, il nous faut des compagnons sur cette planète avec qui partager nos intérêts et préoccupations spirituelles. Peu d'entre nous peuvent simplement échanger sur ces sujets avec nos proches. Dans le mouvement Urantia, je n'en connais que quelquesuns. C'est pourquoi il est essentiel de nous unir pour cultiver le courage nécessaire afin de poursuivre notre progression spirituelle.
 
@@ -66,7 +66,7 @@ Il est important de se rappeler que la rébellion de Lucifer visait à nous priv
 
 Je conclus ce message en vous invitant à méditer sur ce passage :
 
-> « Mais dans l'œuvre qui nous attend immédiatement, et dans celle qui vous restera à accomplir..., vous serez sévèrement mis à l'épreuve. Il faut que vous soyez tous sur vos gardes contre la peur et les doutes. Que chacun de vous se ceigne les reins mentalement et garde sa lampe allumée.» [LU 165:5.5](/fr/The_Urantia_Book/165#p5_5)
+> « Mais dans l'œuvre qui nous attend immédiatement, et dans celle qui vous restera à accomplir..., vous serez sévèrement mis à l'épreuve. Il faut que vous soyez tous sur vos gardes contre la peur et les doutes. Que chacun de vous se ceigne les reins mentalement et garde sa lampe allumée.» <a id="a68_291"></a>[LU 165:5.5](/fr/The_Urantia_Book/165#p5_5)
 
 Aimer c'est servir
 

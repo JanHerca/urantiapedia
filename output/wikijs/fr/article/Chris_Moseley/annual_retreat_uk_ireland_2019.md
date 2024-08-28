@@ -51,7 +51,7 @@ Cette année, notre réunion aura lieu au magnifique **Belsey Bridge Conference 
 
 ## À propos du thème
 
-> _N’entretenez pas l’idée que, du fait que le Père Universel a délégué à d’autres une si grande part de lui-même et de son pouvoir, il est un membre silencieux ou inactif de l’association des Déités. À part les domaines de la personnalité et le don des Ajusteurs, il est apparemment la moins active des Déités du Paradis, puisqu’il permet à ses coordonnés en Déité, à ses Fils, et à de nombreuses intelligences créées d’accomplir tant de choses pour exécuter son dessein éternel. Il est le membre silencieux du trio créateur seulement en ce sens qu’il ne fait jamais rien de ce que ses associés coordonnés ou subordonnés peuvent faire._ <a id="a52_589"></a>[[LU 32:4.1](/fr/The_Urantia_Book/32#p4_1)]
+> _N’entretenez pas l’idée que, du fait que le Père Universel a délégué à d’autres une si grande part de lui-même et de son pouvoir, il est un membre silencieux ou inactif de l’association des Déités. À part les domaines de la personnalité et le don des Ajusteurs, il est apparemment la moins active des Déités du Paradis, puisqu’il permet à ses coordonnés en Déité, à ses Fils, et à de nombreuses intelligences créées d’accomplir tant de choses pour exécuter son dessein éternel. Il est le membre silencieux du trio créateur seulement en ce sens qu’il ne fait jamais rien de ce que ses associés coordonnés ou subordonnés peuvent faire._ <a id="a53_638"></a>[[LU 32:4.1](/fr/The_Urantia_Book/32#p4_1)]
 
 Jésus aussi était un grand délégateur. Il forma une équipe d’apôtres aux talents, aux origines et aux capacités spirituelles différents, leur permettant de s’organiser et d’apporter leur contribution unique. Comment cela se passe-t-il avec les affaires du Père ?
 

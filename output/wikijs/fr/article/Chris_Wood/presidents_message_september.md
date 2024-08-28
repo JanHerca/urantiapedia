@@ -44,7 +44,7 @@ Il n’y a jamais eu de meilleure période aussi occupée et productive pour êt
 
 _Le Livre d’Urantia_ nous dit que:
 
-> _Service – plus de service, un service accru, un service difficile, un service aventureux et enfin un service divin et parfait – est l’objectif du temps et la destination de l’espace._ <a id="a45_174"></a>[[LU 28:6.17](/fr/The_Urantia_Book/28#p6_17)] 
+> _Service – plus de service, un service accru, un service difficile, un service aventureux et enfin un service divin et parfait – est l’objectif du temps et la destination de l’espace._ <a id="a46_187"></a>[[LU 28:6.17](/fr/The_Urantia_Book/28#p6_17)] 
 
 Tout va bien et tout est beau, sauf pour des guêpes qui ont trouvé refuge dans les murs de ma maison et qui volent dans mon bureau.
 

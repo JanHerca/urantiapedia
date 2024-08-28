@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Gaétan G. Charland<br>© 2023 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Reflectivite/2023_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 372 — Octobre 2023 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-372-octobre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 372 — Octobre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gilles_Bertrand/Paternite_divine_Mondes_des_maisons">
+          <span class="pr-2">Paternité divine/Mondes des maisons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Gaetan_Charland.jpg">
@@ -38,7 +62,7 @@ concernant la formation d'éducateurs et de chefs. Trop souvent, on brandissait 
 <img src="/image/article/Reflectivite/2023_10/002.jpg">
 </figure>
 
-Il faut se le rappeler, il n'y a qu'une minorité de personnes dans le monde qui seront intéressées à lire ***Le Livre d'Urantia***. La tâche de partager les enseignements de la révélation nous revient. Machiventa Melchizédek a lui-même formé des centaines d'éducateurs qui ont parcouru le monde. Jésus a aussi formé de nombreux éducateurs qui à leur tour ont parcouru le monde. Alors qu'attendons-nous pour faire pareil ? Je vous invite à lire ces passages [LU 93:6.8](/fr/The_Urantia_Book/93#p6_8) et [LU 93:7.1](/fr/The_Urantia_Book/93#p7_1) si vous doutez de mes dires.
+Il faut se le rappeler, il n'y a qu'une minorité de personnes dans le monde qui seront intéressées à lire ***Le Livre d'Urantia***. La tâche de partager les enseignements de la révélation nous revient. Machiventa Melchizédek a lui-même formé des centaines d'éducateurs qui ont parcouru le monde. Jésus a aussi formé de nombreux éducateurs qui à leur tour ont parcouru le monde. Alors qu'attendons-nous pour faire pareil ? Je vous invite à lire ces passages <a id="a64_457"></a>[LU 93:6.8](/fr/The_Urantia_Book/93#p6_8) et <a id="a64_502"></a>[LU 93:7.1](/fr/The_Urantia_Book/93#p7_1) si vous doutez de mes dires.
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/2023_10/002b.jpg">
@@ -48,7 +72,7 @@ Je voudrais aussi vous partager ma définition de ce qu'est pour moi un éducate
 
 On ne peut pas se transformer seul dans son coin à lire pendant des années. Nous avons besoin de contacts avec nos frères et nos sœurs qui parcourent le même chemin et par le partage d'expériences qui enrichissent nos âmes. Mais même cela n'est pas suffisant, il faut pratiquer les leçons apprises et il n'y a rien de plus efficace que le service aux autres, toutes sortes de service pourvu qu'il soit fait avec amour de l'autre dans la conscience de servir un fils de Dieu. Le service nous transforme, donne un sen spirituel à notre vie et nous permet de faire briller la lumière de la vérité qui nous habite. Plus nous servons avec amour, meilleurs nous devenons comme éducateur.
 
-« Si seulement chaque mortel pouvait devenir un foyer d'affection dynamique, le virus bénin de l'amour imprègnerait bientôt le courant émotionnel sentimental de l'humanité au point que toute la civilisation serait enveloppée d'amour, et ce serait la réalisation de la fraternité humaine. » [LU 100:4.6](/fr/The_Urantia_Book/100#p4_6)
+« Si seulement chaque mortel pouvait devenir un foyer d'affection dynamique, le virus bénin de l'amour imprègnerait bientôt le courant émotionnel sentimental de l'humanité au point que toute la civilisation serait enveloppée d'amour, et ce serait la réalisation de la fraternité humaine. » <a id="a74_290"></a>[LU 100:4.6](/fr/The_Urantia_Book/100#p4_6)
 
 Depuis de nombreuses années, l'Association Urantia du Québec offre à ses membres et aux lecteurs de multiples occasions et moyens pour aider à devenir de meilleurs disséminateurs et éducateurs de vérités. Que va-t-il falloir pour nous réveiller? Faudra-t-il attendre une autre génération de lecteurs pour porter le flambeau? Il y a de nombreux cours offerts dans différentes écoles, tous ces cours sont mis à notre disposition non seulement pour nous enrichir intellectuellement, mais aussi spirituellement. Pour moi, grandir spirituellement veut dire redonner ce que j'ai reçu, comme disait Jésus, « vous avez reçu libéralement, donnez libéralement. »Et une bonne façon de redonner est de devenir des éducateurs, des serviteurs.
 
@@ -63,3 +87,27 @@ L'automne est à nos portes, profitons de cette période de l'année pour s'enga
 
 - [Bulletin Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Ce numéro (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-octobre-2023.pdf)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Reflectivite/2023_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 372 — Octobre 2023 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-372-octobre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 372 — Octobre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gilles_Bertrand/Paternite_divine_Mondes_des_maisons">
+          <span class="pr-2">Paternité divine/Mondes des maisons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

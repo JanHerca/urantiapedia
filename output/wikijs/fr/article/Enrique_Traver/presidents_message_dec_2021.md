@@ -42,7 +42,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 _« Soyez parfait, comme je suis parfait »_
 
-> _Les créatures qui connaissent Dieu n’ont qu’une ambition suprème, un seul désir brulant, c’est d’être semblable dans leur propre sphère à ce qu’il est dans sa perfection paradisiaque de personnalité et dans sa sphère universelle de juste suprématie. Du Père universel qui habite l’éternité est issu le commandement suprême: « soyez parfaits comme moi-même je suis parfait. » En amour et miséricorde, les messagers du Paradis ont transmis cette divine exhortation à travers les âges et les univers, même jusqu’à des créatures d’origine animal aussi humbles que les races humaines d’Urantia._ <a id="a43_589"></a>[[LU 1:0.3](/fr/The_Urantia_Book/1#p0_3)]
+> _Les créatures qui connaissent Dieu n’ont qu’une ambition suprème, un seul désir brulant, c’est d’être semblable dans leur propre sphère à ce qu’il est dans sa perfection paradisiaque de personnalité et dans sa sphère universelle de juste suprématie. Du Père universel qui habite l’éternité est issu le commandement suprême: « soyez parfaits comme moi-même je suis parfait. » En amour et miséricorde, les messagers du Paradis ont transmis cette divine exhortation à travers les âges et les univers, même jusqu’à des créatures d’origine animal aussi humbles que les races humaines d’Urantia._ <a id="a44_594"></a>[[LU 1:0.3](/fr/The_Urantia_Book/1#p0_3)]
 
 Lorsque j’ai lu ce paragraphe pour la première fois, de nombreuses émotions et des doutes ont envahi mon esprit. Il y a tellement de vérités dans ce texte qu’il est difficile de choisir sur lesquelles se concentrer.
 
@@ -58,13 +58,13 @@ Selon les enseignements, la perfection est atteinte lorsque nous parvenons à l�
 
 Cette tâche est sans aucun doute un grand défi, qui exige effort, dévouement, persistance et foi. Cela nous amène à un autre aspect mentionné dans ce paragraphe :
 
-> _Les créatures qui connaissent Dieu **n’ont qu’une ambition suprême, un seul désir brulant, c’est d’être semblable dans leur propre sphère à ce qu’il est** dans sa perfection paradisiaque de personnalité et dans sa sphère universelle de juste suprématie._ [emphase ajoutée] <a id="a59_273"></a>[[LU 1:0.3](/fr/The_Urantia_Book/1#p0_3)]
+> _Les créatures qui connaissent Dieu **n’ont qu’une ambition suprême, un seul désir brulant, c’est d’être semblable dans leur propre sphère à ce qu’il est** dans sa perfection paradisiaque de personnalité et dans sa sphère universelle de juste suprématie._ [emphase ajoutée] <a id="a60_276"></a>[[LU 1:0.3](/fr/The_Urantia_Book/1#p0_3)]
 
 Combien d’ambition et de désir faut-il pour atteindre ce but d’accéder à Dieu et devenir parfait comme Lui ?
 
 Nous nous fixons habituellement tellement de priorités pour nous-mêmes et pour nos propres enfants que nous perdons souvent et simplement de vue la priorité la plus importante de notre vie. En relation avec ce thème, il est opportun de rappeler un autre paragraphe des enseignements que nous a apportés notre Maître Jésus, la personnalité la plus parfaite, la plus équilibrée et la plus unifiée que nous ayons jamais eue sur Urantia.
 
-Jésus dépeignit la sécurité profonde de l’homme connaissant Dieu en disant : « Pour celui qui connait Dieu et croit au royaume, qu’importe si toutes les choses terrestres s’effondrent ? » <a id="a65_162"></a>[[LU 100:2.7](/fr/The_Urantia_Book/100#p2_7)]
+Jésus dépeignit la sécurité profonde de l’homme connaissant Dieu en disant : « Pour celui qui connait Dieu et croit au royaume, qu’importe si toutes les choses terrestres s’effondrent ? » <a id="a66_188"></a>[[LU 100:2.7](/fr/The_Urantia_Book/100#p2_7)]
 
 Il semble que notre désorientation crée des problèmes lorsqu’il s’agit de fixer des priorités et des objectifs ; cela vient de l’unique raison qui est notre manque relatif de connaissance de Dieu.
 

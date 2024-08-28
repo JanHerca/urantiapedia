@@ -23,7 +23,7 @@ _(Présenté lors de la conférence en ligne ANZURA d'octobre 2020)_
 
 Le COVID-19 a mis le monde entier à rude épreuve. L’une des raisons pour lesquelles un virus comme celui-ci est si difficile à gérer est qu’il affecte la vie des gens de manière très mortelle. La menace de mourir soudainement suscite une profonde anxiété chez les gens. Ils se demandent : suis-je prêt ? Suis-je préparé ? Qu’en est-il de ceux que je laisse derrière moi ? Ai-je fait assez pour mériter ma place dans le plan d’ascension ? Alors que d’autres s’inquiètent davantage des sanctions restrictives imposées par leur gouvernement à leur liberté. Ils s’inquiètent également de l’impact des confinements prolongés sur notre vie économique.
 
-En bref, cet épisode de COVID 19 a menacé la société moderne avec les **incertitudes de la vie**. _Le Livre d'Urantia_ nous dit que, _Toute vie de créature est assaillie par certaines inévitabilités._ ([LU 3:5.5](/fr/The_Urantia_Book/3#p5_5)) Nous ne pouvons éviter les vicissitudes de l'existence, ni les incertitudes de la vie.
+En bref, cet épisode de COVID 19 a menacé la société moderne avec les **incertitudes de la vie**. _Le Livre d'Urantia_ nous dit que, _Toute vie de créature est assaillie par certaines inévitabilités._ (<a id="a25_202"></a>[LU 3:5.5](/fr/The_Urantia_Book/3#p5_5)) Nous ne pouvons éviter les vicissitudes de l'existence, ni les incertitudes de la vie.
 
 Nous vivons dans un monde imparfait et parfois de mauvaises choses arrivent, mais le Livre d'Urantia nous dit que ces incertitudes et ces vicissitudes nous offrent, à nous les mortels, l'occasion de développer des qualités telles que le courage, l'espoir, la foi, l'idéalisme, la loyauté et l'altruisme. Des temps difficiles comme ceux-ci peuvent souvent faire mûrir en nous les « fruits de l'Esprit ». J'aimerais donc que vous considériez qu'en raison de la COVID 19, nous avons la possibilité de mettre en œuvre des changements pour un avenir meilleur une fois que tout cela sera passé.
 
@@ -46,7 +46,7 @@ Alors, je me suis demandée : « Que peut-on faire pour créer l’équilibre sp
 
 Le Fascicule 34 du _Livre d'Urantia_, dans la section 6, nous dit :
 
-> « _Ceux qui ont reçu et reconnu la présence intérieure de Dieu sont nés de l’Esprit. « Vous êtes le temple de Dieu, et l’esprit de Dieu habite en vous. » Il ne suffit pas que cet esprit soit répandu sur vous ; il faut que l’Esprit divin domine et contrôle toutes les phases de l’expérience humaine._ » ([LU 34:6.7](/fr/The_Urantia_Book/34#p6_7))
+> « _Ceux qui ont reçu et reconnu la présence intérieure de Dieu sont nés de l’Esprit. « Vous êtes le temple de Dieu, et l’esprit de Dieu habite en vous. » Il ne suffit pas que cet esprit soit répandu sur vous ; il faut que l’Esprit divin domine et contrôle toutes les phases de l’expérience humaine._ » (<a id="a48_305"></a>[LU 34:6.7](/fr/The_Urantia_Book/34#p6_7))
 
 Pour arriver à ce stade, je dois plonger chaque jour dans les eaux spirituelles. Aller vers l’intérieur me permet de m’aligner plus facilement sur la volonté de Dieu. Nous avons une vie intérieure et une vie extérieure.
 

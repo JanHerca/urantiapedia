@@ -29,7 +29,7 @@ En d’autres termes, « Nous sommes parce que JE SUIS. »
 
 Bien sûr, cela n'est pas du tout simple et nécessite quelque chose appelé « l'Âge du Maître Univers ». Mais pour le Père, le résultat final est une famille presque infinie d'Êtres comme lui, et donc une garantie que l'Éternité sera presque infiniment intéressante. Quant à la façon dont notre Père « fait en sorte que cela se produise », les auteurs du Livre d'Urantia révèlent que cette infinie extériorisation, cette embellissement de l'éternité, est motivée et médiatisée par l'Amour, le moteur principal, la motivation essentielle et impérieuse.
 
-Remarquez, tout ceci est très profondément personnel. « **JE SUIS** » n’est pas seulement notre « premier postulat philosophique » [[LU 105:1.3](/fr/The_Urantia_Book/105#p1_3)], c’est aussi l’expérience la plus personnelle possible : JE SUIS. Nous Sommes. De ce point de vue, l’univers devient _une affaire de famille_. Nous y reviendrons. Mais pour l’instant, je veux juste mettre en place cette idée, que l’Amour est le motivateur, le médiateur, littéralement la _Lumière et la Vie_ de toutes les interactions qui se déroulent dans le domaine personnel du Père.
+Remarquez, tout ceci est très profondément personnel. « **JE SUIS** » n’est pas seulement notre « premier postulat philosophique » <a id="a31_131"></a>[[LU 105:1.3](/fr/The_Urantia_Book/105#p1_3)], c’est aussi l’expérience la plus personnelle possible : JE SUIS. Nous Sommes. De ce point de vue, l’univers devient _une affaire de famille_. Nous y reviendrons. Mais pour l’instant, je veux juste mettre en place cette idée, que l’Amour est le motivateur, le médiateur, littéralement la _Lumière et la Vie_ de toutes les interactions qui se déroulent dans le domaine personnel du Père.
 
 Ok. Avec cette idée en tête, revenons sur terre et voyons ce que nous pouvons apprendre sur l’Amour. Qu’est-ce que c’est et comment ça marche ?
 
@@ -50,7 +50,7 @@ Et ce sentiment est resté avec moi, devenant une sorte de référence par rappo
 
 Par exemple : j'avais environ 17 ans, et un jour (soudainement, à ma grande surprise), j'ai remarqué que les satisfactions habituelles – du sexe et de la drogue, de l'argent, de la nourriture ou de la célébrité – semblaient toutes, eh bien, insignifiantes comparées à cette « satisfaction mémorisée » qui venait du simple fait de faire quelque chose de bien pour quelqu'un d'autre, de permettre à notre « désir inhérent de faire du bien aux autres » de suivre son cours.
 
-Mais « le désir de faire du bien aux autres » est une façon dont le Livre d'Urantia définit l'Amour. D'après le Fascicule 56, section 10, « L'Amour est le désir de faire du bien aux autres. » [[LU 56:10.21](/fr/The_Urantia_Book/56#p10_21)]
+Mais « le désir de faire du bien aux autres » est une façon dont le Livre d'Urantia définit l'Amour. D'après le Fascicule 56, section 10, « L'Amour est le désir de faire du bien aux autres. » <a id="a52_192"></a>[[LU 56:10.21](/fr/The_Urantia_Book/56#p10_21)]
 
 Alors, quel est le rapport avec ce cri éloquent du jeune Mick Jagger ? Il s’avère que Michael de Nébadon savait que beaucoup d’entre nous rencontreraient le même problème, celui de chercher et d’échouer à trouver le genre de satisfaction qui pourrait étancher une soif intolérable. Il a donc vécu cette vie comme Jésus, dans laquelle il a révélé et démontré un raccourci vers les satisfactions les plus profondes.
 
@@ -68,7 +68,7 @@ Par exemple, dans le domaine matériel, les interactions entre les atomes sont d
 
 Mais attendez, il y a plus :
 
-> _Les Ajusteurs sont l’actualité de l’amour du Père incarné dans l’âme des hommes ; emprisonnés dans le mental des mortels, ils sont la véritable promesse de carrière éternelle des hommes. Ils sont l’essence de la personnalité humaine du finalitaire devenu parfait, dont l’homme peut avoir l’avant-gout dans le temps à mesure qu’il domine progressivement la technique divine consistant à parvenir à vivre la volonté du Père, pas à pas, dans toute l’ascension des univers successifs, jusqu’à ce qu’il atteigne effectivement la divine présence de son Père au Paradis._ ([LU 107:0.2](/fr/The_Urantia_Book/107#p0_2))
+> _Les Ajusteurs sont l’actualité de l’amour du Père incarné dans l’âme des hommes ; emprisonnés dans le mental des mortels, ils sont la véritable promesse de carrière éternelle des hommes. Ils sont l’essence de la personnalité humaine du finalitaire devenu parfait, dont l’homme peut avoir l’avant-gout dans le temps à mesure qu’il domine progressivement la technique divine consistant à parvenir à vivre la volonté du Père, pas à pas, dans toute l’ascension des univers successifs, jusqu’à ce qu’il atteigne effectivement la divine présence de son Père au Paradis._ (<a id="a70_569"></a>[LU 107:0.2](/fr/The_Urantia_Book/107#p0_2))
 
 L’Amour du Père, incarné dans nos âmes. Non seulement l’Amour est quelque chose de particulier au domaine de la Personnalité, dans un sens exaltant, les Ajusteurs sont cet Amour, incarné en nous.
 
@@ -82,17 +82,17 @@ Ce clip commence ainsi : « Et si certaines de nos hypothèses sur le décalage 
 
 Et se termine (à 5:30) avec la chute :
 
-> « _...mon Père au Paradis gouverne effectivement un univers d’univers par le pouvoir contraignant de son amour._ » ([LU 143:1.4](/fr/The_Urantia_Book/143#p1_4))
+> « _...mon Père au Paradis gouverne effectivement un univers d’univers par le pouvoir contraignant de son amour._ » (<a id="a84_118"></a>[LU 143:1.4](/fr/The_Urantia_Book/143#p1_4))
 
 « Par la force irrésistible de son Amour. » Chaque fois que j’entends des gens parler d’Amour, je ne peux m’empêcher de voir Jésus tel qu’il parlait, ce jour-là à Archelais où il était si agité, si ému. Vous vous souvenez de la scène : les apôtres avaient essayé de convaincre des foules de Grecs et de Romains que l’amour était la plus grande chose depuis le pain en tranches ; et ils ont été moqués. Ces gentils sophistiqués ont expliqué aux apôtres qu’un tel évangile d’amour n’était bon que pour les faibles et les esclaves. Lorsque les apôtres, découragés et dégonflés, sont retournés vers Jésus et lui ont raconté ce qui s’était passé, c’en était trop. Extrait du document 143, section 1,
 
-> _...Ce fut l’une des allocutions les plus passionnées que Jésus ait jamais adressées aux douze. Le Maitre parlait rarement à ses apôtres en laissant apparaitre de la véhémence dans ses sentiments, mais ce fut une des rares occasions où il parla avec une gravité manifeste accompagnée d’une émotion marquée._ ([LU 143:1.8](/fr/The_Urantia_Book/143#p1_8))
+> _...Ce fut l’une des allocutions les plus passionnées que Jésus ait jamais adressées aux douze. Le Maitre parlait rarement à ses apôtres en laissant apparaitre de la véhémence dans ses sentiments, mais ce fut une des rares occasions où il parla avec une gravité manifeste accompagnée d’une émotion marquée._ (<a id="a88_311"></a>[LU 143:1.8](/fr/The_Urantia_Book/143#p1_8))
 
 Que se passait-il ici, pourquoi cet éclat, cette « émotion marquée » ?
 
 Cela faisait six mois que Jésus avait ordonné à ce groupe de douze d'être des prédicateurs publics de son Évangile. Et c'est sur ce groupe d'hommes que Jésus comptait pour porter sa Bonne Nouvelle. Certains d'entre eux étaient avec Jésus depuis 18 mois, et pourtant ils n'avaient toujours aucune idée, aucune compréhension réelle de la nature, de la puissance et du but de l'Amour. Le temps était venu de régler ce problème. Et c'est ce qu'il fit. La section 1 du document 143 raconte l'histoire, mais il suffit de dire :
 
-> _...à partir de ce jour-là, leur message prit un nouveau ton de maitrise courageuse. Les douze continuèrent à acquérir l’esprit positivement dynamique du nouvel évangile du royaume._ ([LU 143:1.9](/fr/The_Urantia_Book/143#p1_9))
+> _...à partir de ce jour-là, leur message prit un nouveau ton de maitrise courageuse. Les douze continuèrent à acquérir l’esprit positivement dynamique du nouvel évangile du royaume._ (<a id="a94_186"></a>[LU 143:1.9](/fr/The_Urantia_Book/143#p1_9))
 
 Cet épisode où l’on a pris les choses à la légère, puis reçu une nouvelle vision de la puissance et du but de l’Amour, a effectivement vacciné les apôtres contre le _virus du désespoir_. Mais pour en revenir à cette idée du Père Universel gouvernant un univers d’univers par la puissance irrésistible de son Amour, devons-nous prendre cela au pied de la lettre ? La technique du Père – pour gouverner un univers d’univers – dépend-elle réellement… de _l’Amour_ ?
 

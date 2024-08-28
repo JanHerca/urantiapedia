@@ -27,17 +27,17 @@ Il est évident que nous, habitants du Grand Univers, reconnaissons quotidiennem
 
 La citation exacte est :
 
-> « _Le but des univers évolutionnaires est l’assujettissement de l’énergie-matière par le mental, la coordination du mental avec l’esprit, et tout ceci, en vertu de la présence créative et unificatrice de la personnalité._ » ([LU 116:6.1](/fr/The_Urantia_Book/116#p6_1))
+> « _Le but des univers évolutionnaires est l’assujettissement de l’énergie-matière par le mental, la coordination du mental avec l’esprit, et tout ceci, en vertu de la présence créative et unificatrice de la personnalité._ » (<a id="a29_227"></a>[LU 116:6.1](/fr/The_Urantia_Book/116#p6_1))
 
 Cela est dit directement à plusieurs reprises, en fait huit fois d'après mes calculs. Les voici :
-- [LU 0:6.8](/fr/The_Urantia_Book/0#p6_8)
-- [LU 42:10.1](/fr/The_Urantia_Book/42#p10_1)
-- [LU 42:12.15](/fr/The_Urantia_Book/42#p12_15)
-- [LU 111:6.4](/fr/The_Urantia_Book/111#p6_4)
-- [LU 116:5.15](/fr/The_Urantia_Book/116#p5_15)
-- [LU 116:6.1](/fr/The_Urantia_Book/116#p6_1)
-- [LU 117:3.2](/fr/The_Urantia_Book/117#p3_2)
-- [LU 117:7.13](/fr/The_Urantia_Book/117#p7_13)
+- <a id="a32_2"></a>[LU 0:6.8](/fr/The_Urantia_Book/0#p6_8)
+- <a id="a33_2"></a>[LU 42:10.1](/fr/The_Urantia_Book/42#p10_1)
+- <a id="a34_2"></a>[LU 42:12.15](/fr/The_Urantia_Book/42#p12_15)
+- <a id="a35_2"></a>[LU 111:6.4](/fr/The_Urantia_Book/111#p6_4)
+- <a id="a36_2"></a>[LU 116:5.15](/fr/The_Urantia_Book/116#p5_15)
+- <a id="a37_2"></a>[LU 116:6.1](/fr/The_Urantia_Book/116#p6_1)
+- <a id="a38_2"></a>[LU 117:3.2](/fr/The_Urantia_Book/117#p3_2)
+- <a id="a39_2"></a>[LU 117:7.13](/fr/The_Urantia_Book/117#p7_13)
 
 J'ai peut-être oublié certains passages, mais la même chose est sous-entendue à de nombreuses reprises sans être explicitement mentionnée. En fait, si une description concise de ce qui se passe dans le Grand Univers est nécessaire, celle-ci est aussi bonne qu'une autre.
 
@@ -83,19 +83,19 @@ Bien sûr, cela ne change rien au fait que les êtres humains individuels, comme
 
 Mais à l’échelle planétaire, nous sommes loin d’apporter une contribution importante. Les civilisations d’Urantia sont en grande partie laïques et, comme le disent les révélateurs :
 
-> « _La faiblesse inhérente au laïcisme vient de ce qu’il rejette la morale et la religion en faveur de la politique et du pouvoir. Il est tout simplement impossible d’établir la fraternité des hommes en ignorant ou en reniant la paternité de Dieu._ » ([LU 195:8.11](/fr/The_Urantia_Book/195#p8_11))
+> « _La faiblesse inhérente au laïcisme vient de ce qu’il rejette la morale et la religion en faveur de la politique et du pouvoir. Il est tout simplement impossible d’établir la fraternité des hommes en ignorant ou en reniant la paternité de Dieu._ » (<a id="a85_253"></a>[LU 195:8.11](/fr/The_Urantia_Book/195#p8_11))
 
 Ils nous mettent en garde contre le problème de l’esprit qui domine l’énergie-matière tout en ne permettant pas à l’esprit de donner une direction à l’esprit. C’est là où nous en sommes aujourd’hui. Beaucoup de gens intelligents travaillent dans les domaines de la science, de l’éducation, des sciences humaines, des arts, de la finance, du gouvernement – tous les domaines de l’activité humaine – s’efforçant de faire en sorte que l’esprit établisse un contrôle sur l’énergie-matière, et y parviennent souvent, mais sans intérêt à ce que l’esprit domine l’esprit. Ce sont des intellectuels laïcs sans connaissance ni intérêt de l’esprit, qui considèrent Dieu comme une superstition primitive dont tout homme sensé devrait se débarrasser. Ainsi, leurs efforts manquent du but et de la direction que les vraies valeurs spirituelles confèrent à leurs activités et sont dénués de valeur de survie. Tut-tut, ai-je pensé lorsque j’ai commencé à réfléchir à cela (oubliant commodément que j’étais, pendant un certain temps, moi-même, dans la même situation !).
 
 Mais après y avoir réfléchi un peu plus, j'ai commencé à réaliser que ces mortels laïcs sont tous habités par des ajusteurs, ou du moins la plupart d'entre eux le sont. Les ajusteurs essaient de spiritualiser leur pensée tout comme ils le font avec ceux d'entre nous qui ont l'avantage du livre d'Urantia. Ils ne sont pas méchants et ils manifestent la gamme normale de préoccupation pour leur prochain. Lorsqu'ils font quelque chose de désintéressé, ils se sentent bien et ils apprennent parfois à faire du bien aux autres, ils aiment le faire et aimeraient le faire davantage. Souvenez-vous :
 
-> _L’amour est le désir de faire du bien aux autres._ ([LU 56:10.21](/fr/The_Urantia_Book/56#p10_21))
+> _L’amour est le désir de faire du bien aux autres._ (<a id="a91_55"></a>[LU 56:10.21](/fr/The_Urantia_Book/56#p10_21))
 
 Et c'est cela qui constitue l'expérience spirituelle.Ainsi, même si beaucoup de ces laïcs rejettent la notion d'esprit, ils font néanmoins preuve d'une certaine conduite spirituelle sans la reconnaître pour ce qu'elle est.
 
 N'oubliez pas aussi :
 
-> _Le grand circuit d’amour part du Père, se diffuse par les fils vers les frères et, de là, se dirige vers le Suprême._ ([LU 117:6.10](/fr/The_Urantia_Book/117#p6_10))
+> _Le grand circuit d’amour part du Père, se diffuse par les fils vers les frères et, de là, se dirige vers le Suprême._ (<a id="a97_122"></a>[LU 117:6.10](/fr/The_Urantia_Book/117#p6_10))
 
 J'ai donc réalisé que de nombreux laïcs ne sont pas aussi laïcs qu'ils le pensent, et qu'une partie de leur pensée est influencée par leur ajusteur intérieur.
 
@@ -109,7 +109,7 @@ Un aspect de la croissance du Suprême qui m’intéresse est que toutes les age
 
 J'ai réalisé que toutes les personnalités impliquées doivent elles-mêmes grandir comme le Suprême grandit quand j'ai lu le message qu'un ajusteur de pensée a donné à son sujet intérieur sur LU 110:7.10 et j'ai réalisé que les ajusteurs s'intéressent à nos progrès, non seulement parce qu'ils nous aiment, mais aussi parce qu'ils ont quelque chose à gagner de nos progrès. L'altruisme est là, mais ce n'est pas le seul motif.
 
-> « _Je l’exhorte à survivre et à ne pas me décevoir, à ne pas me priver de la récompense de ma lutte persévérante et intense. Pour atteindre la personnalité, nous dépendons de la volonté humaine. J’ai fait patiemment progresser ce mental humain, cercle après cercle, et le chef de mon ordre m’a témoigné son approbation. Cercle après cercle, je poursuis jusqu’au jugement. J’attends avec plaisir et sans appréhension l’appel nominal de la destinée. Je suis prêt à tout soumettre aux tribunaux des Anciens des Jours. »_ » ([LU 110:7.10](/fr/The_Urantia_Book/110#p7_10))
+> « _Je l’exhorte à survivre et à ne pas me décevoir, à ne pas me priver de la récompense de ma lutte persévérante et intense. Pour atteindre la personnalité, nous dépendons de la volonté humaine. J’ai fait patiemment progresser ce mental humain, cercle après cercle, et le chef de mon ordre m’a témoigné son approbation. Cercle après cercle, je poursuis jusqu’au jugement. J’attends avec plaisir et sans appréhension l’appel nominal de la destinée. Je suis prêt à tout soumettre aux tribunaux des Anciens des Jours. »_ » (<a id="a111_523"></a>[LU 110:7.10](/fr/The_Urantia_Book/110#p7_10))
 
 Je pense donc que si les ajusteurs de pensée – fragments de la divinité absolue – ont leur mot à dire dans le jeu, alors probablement tous les êtres en évolution en ont aussi.
 
@@ -125,7 +125,7 @@ Les progrès de la science et de la technologie ont transformé les conditions m
 
 Comme le disent les révélateurs :
 
-> _Le grand circuit d’amour part du Père, se diffuse par les fils vers les frères et, de là, se dirige vers le Suprême._ ([LU 117:6.10](/fr/The_Urantia_Book/117#p6_10))
+> _Le grand circuit d’amour part du Père, se diffuse par les fils vers les frères et, de là, se dirige vers le Suprême._ (<a id="a127_122"></a>[LU 117:6.10](/fr/The_Urantia_Book/117#p6_10))
 
 Et c’est là où nous en sommes aujourd’hui.
 

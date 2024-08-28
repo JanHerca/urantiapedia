@@ -23,7 +23,7 @@ Cette année, la conférence ANZURA revient dans la capitale du pays, cette fois
 
 ## Thème : L'esprit sur la matière – L'esprit sur l'esprit
 
-> _Dans les superunivers évolutionnaires, l’énergie-matière est dominante sauf dans la personnalité, où l’esprit, par la médiation du mental, lutte pour la maitrise. Le but des univers évolutionnaires est l’assujettissement de l’énergie-matière par le mental, la coordination du mental avec l’esprit, et tout ceci, en vertu de la présence créative et unificatrice de la personnalité._ ([LU 116:6.1](/fr/The_Urantia_Book/116#p6_1))
+> _Dans les superunivers évolutionnaires, l’énergie-matière est dominante sauf dans la personnalité, où l’esprit, par la médiation du mental, lutte pour la maitrise. Le but des univers évolutionnaires est l’assujettissement de l’énergie-matière par le mental, la coordination du mental avec l’esprit, et tout ceci, en vertu de la présence créative et unificatrice de la personnalité._ (<a id="a25_386"></a>[LU 116:6.1](/fr/The_Urantia_Book/116#p6_1))
 
 Il est assez évident qu’au 21e siècle, on comprend bien comment l’esprit humain a soumis la matière. Les progrès industriels et technologiques des deux derniers siècles ont fait de l’homme moderne un véritable adorateur de la science, et beaucoup suggèrent que cela mènera finalement à une compréhension complète du monde matériel par l’humanité.
 

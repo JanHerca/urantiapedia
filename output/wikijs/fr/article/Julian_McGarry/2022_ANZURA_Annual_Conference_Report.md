@@ -17,7 +17,7 @@ Par Julian McGarry, Hobart TAS
 <img src="/image/article/The_Arena/22-Conf.-logo.jpg" alt="2022 ANZURA Annual Conference">
 </figure>
 
-> _Il est grand temps que les hommes aient une expérience religieuse si personnelle et si sublime qu’elle ne puisse se concevoir et se manifester que par des « sentiments trop profonds pour s’exprimer par des mots »._ ([LU 99:5.9](/fr/The_Urantia_Book/99#p5_9))
+> _Il est grand temps que les hommes aient une expérience religieuse si personnelle et si sublime qu’elle ne puisse se concevoir et se manifester que par des « sentiments trop profonds pour s’exprimer par des mots »._ (<a id="a19_219"></a>[LU 99:5.9](/fr/The_Urantia_Book/99#p5_9))
 
 Les conférences annuelles sont toujours le point culminant de l’année pour les membres de l’ANZURA, mais cette année a été particulièrement remarquable car c’était la première fois en trois ans que nous avions une conférence en face à face en raison de la pandémie. Confortablement hébergés au magnifique Stewarts Bay Lodge, qui se trouve à seulement quelques pas du site historique de Port Arthur, nous nous sommes réunis pour nous concentrer sur l’expérience personnelle ultime – une relation personnelle et intime avec la Première Source et le Centre de l’univers des univers, notre Père Universel.
 

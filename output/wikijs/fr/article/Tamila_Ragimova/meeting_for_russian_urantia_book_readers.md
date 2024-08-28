@@ -53,9 +53,9 @@ Bienvenue à cette première réunion pour les lecteurs de langue russe du _Livr
 
 ### Thème: Devenir amis et s'aimer les uns les autres
 
-> _Vous ne pouvez observer l’esprit divin à l’œuvre dans votre mental, mais il existe une méthode pratique pour découvrir le degré auquel vous avez abandonné le contrôle des pouvoirs de votre âme à l’enseignement et aux directives de l’esprit intérieur venu du Père qui est aux cieux : c'est le degré de votre amour pour vos semblables. Cet esprit du Père participe de l’amour du Père ; quand il domine l’homme, il le conduit infailliblement dans la direction de l’adoration divine et de la considération affectueuse pour son prochain._ <a id="a219_501"></a>[[LU 146:3.6](/fr/The_Urantia_Book/146#p3_6)]
+> _Vous ne pouvez observer l’esprit divin à l’œuvre dans votre mental, mais il existe une méthode pratique pour découvrir le degré auquel vous avez abandonné le contrôle des pouvoirs de votre âme à l’enseignement et aux directives de l’esprit intérieur venu du Père qui est aux cieux : c'est le degré de votre amour pour vos semblables. Cet esprit du Père participe de l’amour du Père ; quand il domine l’homme, il le conduit infailliblement dans la direction de l’adoration divine et de la considération affectueuse pour son prochain._ <a id="a55_537"></a>[[LU 146:3.6](/fr/The_Urantia_Book/146#p3_6)]
 
-> _Il est moins important d'aimer tous les hommes aujourd'hui que d'apprendre chaque jour à en aimer un de plus._  <a id="a221_113"></a>[[LU 100:4.6](/fr/The_Urantia_Book/100#p4_6)]
+> _Il est moins important d'aimer tous les hommes aujourd'hui que d'apprendre chaque jour à en aimer un de plus._  <a id="a57_115"></a>[[LU 100:4.6](/fr/The_Urantia_Book/100#p4_6)]
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/Russian-Conference-Room-Picture-300x200.jpg">

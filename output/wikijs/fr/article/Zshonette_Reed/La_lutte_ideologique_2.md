@@ -14,7 +14,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Gaetan_Charland/Reflectivite_2023_01_mot_du_president">
+        <a href="/fr/article/Gaetan_Charland/Reflectivite_2023_04_mot_du_president">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du président Avril 2023</span>
         </a>
         </td>
@@ -81,7 +81,7 @@ Il y a une divinité dans la filiation avec Dieu. Il y a un pouvoir d'unité ave
 
 Le fascicule 111 parle du danger de céder à la tentation de se déifier, ce qui est le cas de ceux qui adhèrent à cette demivérité de la divinité dont voici un extrait :
 
-> _Le courage exigé pour triompher de la nature et pour transcender son moi est un courage qui peut succomber devant les tentations de l'orgueil personnel. Le mortel capable de transcender son moi peut céder à la tentation de déifier sa conscience de soi. Le dilemme humain résulte du double fait que l'homme est asservi à la nature et qu'en même temps il possède une liberté unique — la liberté de choix et d'action spirituels. Sur les niveaux matériels, l'homme se trouve subordonné à la nature, tandis que, sur les niveaux spirituels, it triomphe de la nature et de tous les éléments temporels et finis. Un tel paradoxe est inséparable de la tentation, du mal potentiel et des erreurs de décision ; et, quand le moi devient altier et arrogant, le péché peut apparaitre_ ([LU 111:6.2](/fr/The_Urantia_Book/111#p6_2))
+> _Le courage exigé pour triompher de la nature et pour transcender son moi est un courage qui peut succomber devant les tentations de l'orgueil personnel. Le mortel capable de transcender son moi peut céder à la tentation de déifier sa conscience de soi. Le dilemme humain résulte du double fait que l'homme est asservi à la nature et qu'en même temps il possède une liberté unique — la liberté de choix et d'action spirituels. Sur les niveaux matériels, l'homme se trouve subordonné à la nature, tandis que, sur les niveaux spirituels, it triomphe de la nature et de tous les éléments temporels et finis. Un tel paradoxe est inséparable de la tentation, du mal potentiel et des erreurs de décision ; et, quand le moi devient altier et arrogant, le péché peut apparaitre_ (<a id="a83_774"></a>[LU 111:6.2](/fr/The_Urantia_Book/111#p6_2))
 
 Cela nous dit que transcender nos fragilités mortelles et nos défis temporels demande un réel courage. Mais ceux qui sont capables de les transcender sont confrontés à un nouveau problème, la tentation de devenir fiers et arrogants, ce qui peut conduire au péché. Il ne s'agit pas de dire qu'une telle personne DEVRA devenir fière et arrogante. Il s'agit de dire qu'une telle personne aura inévitablement l'occasion de prouver qui elle est vraiment. Cette personne est-elle un fils spirituel courageux de Dieu, ou bien cette personne s'est-elle leurrée en croyant qu'elle EST Dieu? C'est le danger des demi-vérités.
 
@@ -97,7 +97,7 @@ Il y a une autre raison pour laquelle cette demi-vérité particulière est si d
 > 
 > _En résumé, Lucifer aurait voulu enlever aux hommes et aux anges ce que Dieu leur a donné, c'est-à-dire ***le divin privilège de participer à la création de leur propre destinée et à la destinée*** de ce système local de mondes habités._
 > 
-> _Nul être, dans tout l'univers, n'a légalement la liberté de priver un autre être ***de la vraie liberté, du droit d'aimer et d'être aimé, du privilège d'adorer Dieu et de servir son prochain***._ (LU [LU 54:2.3-5](/fr/The_Urantia_Book/54#p2_3))
+> _Nul être, dans tout l'univers, n'a légalement la liberté de priver un autre être ***de la vraie liberté, du droit d'aimer et d'être aimé, du privilège d'adorer Dieu et de servir son prochain***._ (LU <a id="a99_203"></a>[LU 54:2.3-5](/fr/The_Urantia_Book/54#p2_3))
 
 Ces passages révèlent le danger des philosophies qui excluent Dieu de l'équation. Il ne s'agit donc pas seulement de savoir si Dieu existe ou n'existe pas. Il s'agit de savoir si NOUS existons en tant que créatures dotées du libre arbitre, et si nous allons permettre à une autre créature de fermer la porte à des opportunités et des possibilités. De telles demi-vérités ne sont pas seulement athées. Elles sont lucifériennes.
 
@@ -113,12 +113,14 @@ Si cela vous interpelle, écrivez-nous. Peut-être qu'ensemble, nous pouvons fai
 
 En attendant puisse l'Esprit de Vérité vous accompagner.
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Gaetan_Charland/Reflectivite_2023_01_mot_du_president">
+        <a href="/fr/article/Gaetan_Charland/Reflectivite_2023_04_mot_du_president">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du président Avril 2023</span>
         </a>
         </td>

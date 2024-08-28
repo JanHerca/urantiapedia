@@ -107,7 +107,7 @@ Je terminerai avec cette pensée profonde et inspirante que notre Fils Créateur
 
 <br style="clear:both;"/>
 
-> «Dans l’expérience de trouver le Père qui est aux cieux, on découvre que tous les hommes sont nos frères, et n'est-il pas naturel que l’on éprouve de la joie à rencontrer un frère récemment découvert ? Lier connaissance avec ses frères et sœurs, connaitre leurs problèmes et apprendre à les aimer, c'est l’expérience suprême de la vie. » <a id="a105_343"></a>[[LU 130:2.6](/fr/The_Urantia_Book/130#p2_6)]
+> «Dans l’expérience de trouver le Père qui est aux cieux, on découvre que tous les hommes sont nos frères, et n'est-il pas naturel que l’on éprouve de la joie à rencontrer un frère récemment découvert ? Lier connaissance avec ses frères et sœurs, connaitre leurs problèmes et apprendre à les aimer, c'est l’expérience suprême de la vie. » <a id="a109_340"></a>[[LU 130:2.6](/fr/The_Urantia_Book/130#p2_6)]
 
 Merci de votre attention
 Georges Michelson-DuPont

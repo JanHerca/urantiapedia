@@ -88,7 +88,7 @@ Président de l’Association Urantia Internationale
 Cathy Jones vous mettait au travail. Dans « l’Ordination des douze », on nous dit :
 
 
-> « Le fils du charpentier n’enseigna jamais la formation des caractères, mais leur croissance… » <a id="a85_88"></a>[[LU 140:8.27](/fr/The_Urantia_Book/140#p8_27)]
+> « Le fils du charpentier n’enseigna jamais la formation des caractères, mais leur croissance… » <a id="a90_98"></a>[[LU 140:8.27](/fr/The_Urantia_Book/140#p8_27)]
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/Cathy-Jones-Xmas-e1476417580707-300x400.jpg">
@@ -161,7 +161,7 @@ Je voudrais présenter mes respects et hommages à Catherine Jones qui a mainten
 En pensant à Catherine, essayons tous de se rappeler que:
 
 
-> _Les faibles se complaisent à des résolutions, mais les forts agissent. La vie n’est que le travail d’un jour — exécutez-le bien. L’acte est à nous, ses conséquences appartiennent à Dieu._ \<a id="a156_138"></a>[Paper, [LU 48:7.13](/fr/The_Urantia_Book/48#p7_13)]
+> _Les faibles se complaisent à des résolutions, mais les forts agissent. La vie n’est que le travail d’un jour — exécutez-le bien. L’acte est à nous, ses conséquences appartiennent à Dieu._ \<a id="a163_192"></a>[Paper, [LU 48:7.13](/fr/The_Urantia_Book/48#p7_13)]
 
 
 ### Carl Ramm

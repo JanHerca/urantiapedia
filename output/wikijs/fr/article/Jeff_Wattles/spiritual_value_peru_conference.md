@@ -89,7 +89,7 @@ Ces deux principes cosmiques sont inclus dans la citation suivante. Pendant que 
 > 
 > 3\. En aimant les hommes et en désirant sincèrement les servir — par la récognition de tout cœur de la fraternité humaine doublée d’une affection sage et intelligente pour chacun de vos compagnons mortels.
 > 
-> 4\. En acceptant joyeusement la citoyenneté cosmique — en reconnaissant honnêtement vos obligations progressives envers l’Être Suprême, en ayant conscience de l’interdépendance entre l’homme évolutionnaire et la Déité évoluante. C’est la naissance de la moralité cosmique et l’éveil de la réalisation du devoir universel. <a id="a90_276"></a>[[LU 110:3.6-10](/fr/The_Urantia_Book/110#p3_6)].
+> 4\. En acceptant joyeusement la citoyenneté cosmique — en reconnaissant honnêtement vos obligations progressives envers l’Être Suprême, en ayant conscience de l’interdépendance entre l’homme évolutionnaire et la Déité évoluante. C’est la naissance de la moralité cosmique et l’éveil de la réalisation du devoir universel. <a id="a91_324"></a>[[LU 110:3.6-10](/fr/The_Urantia_Book/110#p3_6)].
 
 _Que signifie l’interdépendance de l’homme et de l’Être suprême_ ? À mesure que nous évoluons, _nous sommes dans le domaine de l’Être suprême, qui évolue avec nous_. L’Être suprême est comme un chef cuisinier qui prépare une excellente salade et qui dépend de fermiers comme nous pour fournir les légumes. Le chef est incomplet sans les agriculteurs. 
 

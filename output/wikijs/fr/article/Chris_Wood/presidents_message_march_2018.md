@@ -49,7 +49,7 @@ Il est impératif que nous continuions à avoir un flot continu de personnes dé
 
 Une deuxième question qui a été un point culminant de la réunion est le besoin continu de s’assurer que _Le Livre d’Urantia_ et ses enseignements sont bien représentés pour leurs propres valeurs et ne sont pas mélangés avec des influences politiques, sociales ou intellectuelles extérieures. Notre communauté a besoin de « maintenir le cap » et de ne pas laisser les enseignements du Livre d’Urantia être influencés par une seule culture. _Le Livre d’Urantia_ nous dit que la religion chrétienne…
 
-> _… s’est si complètement occidentalisée que beaucoup de peuples non européens considèrent tout naturellement le christianisme comme l’étrange révélation d’un étrange Dieu, et comme destiné à des étrangers._ <a id="a50_174"></a>[[LU 92:6.18](/fr/The_Urantia_Book/92#p6_18)]
+> _… s’est si complètement occidentalisée que beaucoup de peuples non européens considèrent tout naturellement le christianisme comme l’étrange révélation d’un étrange Dieu, et comme destiné à des étrangers._ <a id="a51_209"></a>[[LU 92:6.18](/fr/The_Urantia_Book/92#p6_18)]
 
 Nous devons nous assurer que les enseignements du _Livre d’Urantia_ ne subissent pas le même destin.
 

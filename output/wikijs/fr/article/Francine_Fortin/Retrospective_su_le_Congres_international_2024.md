@@ -48,7 +48,7 @@ Un superbe centre confortablement aménagé, avec piscine intérieure, équipé 
 Le nom Maritime, faisant référence à tout ce qui touche la marine, a inspiré plus d'un lecteur sur la citation suivante du Livre d' Urantia :
 <br style="clear:both;"/>
 
-> « Le mental est votre **navire**, l'Ajusteur est votre **pilote**, la volonté humaine est le **capitaine**. Le maitre du **vaisseau** mortel devrait avoir la sagesse de se fier au divin **pilote** pour conduire l'âme ascendante dans les **havres** morontiels de la survie éternelle. » [LU 111:1.9](/fr/The_Urantia_Book/111#p1_9)
+> « Le mental est votre **navire**, l'Ajusteur est votre **pilote**, la volonté humaine est le **capitaine**. Le maitre du **vaisseau** mortel devrait avoir la sagesse de se fier au divin **pilote** pour conduire l'âme ascendante dans les **havres** morontiels de la survie éternelle. » <a id="a50_287"></a>[LU 111:1.9](/fr/The_Urantia_Book/111#p1_9)
 
 Les deux jours furent occupés par un programme tres bien orchestré.
 

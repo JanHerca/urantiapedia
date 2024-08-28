@@ -14,7 +14,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Gaetan_Charland/Reflectivite_2023_01_mot_du_president">
+        <a href="/fr/article/Gaetan_Charland/Reflectivite_2023_09_mot_du_president">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du président Septembre 2023</span>
         </a>
         </td>
@@ -34,6 +34,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 </figure>
 
 
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Samuel_Heine.jpg">
 </figure>
@@ -50,9 +51,9 @@ Je pense qu'il y a principalement deux obstacles qui nous empêchent de relever 
 Dans tous les cas, notre ajusteur ne cesse de nous indiquer la bonne direction.
 <br style="clear:both;"/>
 
-> « Avertissez tous les croyants en ce qui concerne cette zone de conflit qu'il faut traverser pour passer de la vie telle qu'elle est vécue dans la chair à la vie supérieure telle qu'elle est vécue dans l'esprit. Pour ceux qui vivent pleinement dans l'un ou l'autre de ces deux royaumes, il y a peu de conflits ou de confusion, mais tous sont condamnés à éprouver un plus ou moins grand degré d'incertitude pendant la période de transition entre les deux niveaux d'existence. En entrant dans le royaume, vous ne pouvez ni échapper à ses responsabilités ni éluder ses obligations ; mais n'oubliez pas que le joug de l'évangile est facile à porter et que le fardeau de la vérité est léger. » [LU 159:3.7](/fr/The_Urantia_Book/159#p3_7)
+> « Avertissez tous les croyants en ce qui concerne cette zone de conflit qu'il faut traverser pour passer de la vie telle qu'elle est vécue dans la chair à la vie supérieure telle qu'elle est vécue dans l'esprit. Pour ceux qui vivent pleinement dans l'un ou l'autre de ces deux royaumes, il y a peu de conflits ou de confusion, mais tous sont condamnés à éprouver un plus ou moins grand degré d'incertitude pendant la période de transition entre les deux niveaux d'existence. En entrant dans le royaume, vous ne pouvez ni échapper à ses responsabilités ni éluder ses obligations ; mais n'oubliez pas que le joug de l'évangile est facile à porter et que le fardeau de la vérité est léger. » <a id="a53_691"></a>[LU 159:3.7](/fr/The_Urantia_Book/159#p3_7)
 
-> La religion de Jésus ne consistait pas simplement à croire, mais à faire réellement ce que l'évangile demandait. Il n'enseignait pas que le service social constituait l'essence de sa religion, mais bien plutôt que le service social était un des effets certains de la possession de l'esprit de vraie religion. [LU 159:5.8](/fr/The_Urantia_Book/159#p5_8)
+> La religion de Jésus ne consistait pas simplement à croire, mais à faire réellement ce que l'évangile demandait. Il n'enseignait pas que le service social constituait l'essence de sa religion, mais bien plutôt que le service social était un des effets certains de la possession de l'esprit de vraie religion. <a id="a55_311"></a>[LU 159:5.8](/fr/The_Urantia_Book/159#p5_8)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_09/004.jpg">
@@ -64,12 +65,13 @@ Dans tous les cas, notre ajusteur ne cesse de nous indiquer la bonne direction.
 - [Bulletin Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Ce numéro (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-septembre-2023.pdf)
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Gaetan_Charland/Reflectivite_2023_01_mot_du_president">
+        <a href="/fr/article/Gaetan_Charland/Reflectivite_2023_09_mot_du_president">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du président Septembre 2023</span>
         </a>
         </td>

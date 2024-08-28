@@ -46,7 +46,7 @@ C’est un plaisir de vous informer des dernières activités du comité de l’
 Nous organisons un cercle de webinaires mensuels en direct. Le 24 mars, Gaétan Charland, président du comité des groupes d’étude, a présenté le thème « Améliorer la qualité et l’efficacité des groupes d’études ». Dans ce webinaire, Gaétan a exploré comment les groupes d’étude pourraient être améliorés pour accomplir la mission du Livre d’Urantia. Comme il est stipulé dans le livre :
 <br style="clear:both;"/>
 
-> _… pour élargir la conscience cosmique et améliorer la perception spirituelle._ <a id="a47_70"></a>[[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2)]
+> _… pour élargir la conscience cosmique et améliorer la perception spirituelle._ <a id="a48_82"></a>[[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2)]
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Webinar-Announcement-Gaetan-Charland-300x180.jpg">
@@ -54,7 +54,7 @@ Nous organisons un cercle de webinaires mensuels en direct. Le 24 mars, Gaétan 
 
 Notre attention a également été attirée par le défi énoncé à la fin du document 196 :
 
-> _… Le grand défi pour l’homme moderne est de parvenir à une meilleure communication avec le moniteur divin qui habite dans l’esprit humain._ <a id="a55_133"></a>[[LU 196:3.34](/fr/The_Urantia_Book/196#p3_34)]
+> _… Le grand défi pour l’homme moderne est de parvenir à une meilleure communication avec le moniteur divin qui habite dans l’esprit humain._ <a id="a56_143"></a>[[LU 196:3.34](/fr/The_Urantia_Book/196#p3_34)]
 
 Pour améliorer l’efficacité de votre groupe d’étude, Gaétan a proposé les suggestions suivantes :
 

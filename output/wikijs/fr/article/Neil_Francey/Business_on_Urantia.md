@@ -24,7 +24,7 @@ Cet ouvrage traite de concepts d'affaires qui peuvent être utilisés par toute 
 Toute entreprise qui applique les principes et les concepts décrits dans _Le Livre d'Urantia_, est une entreprise basée sur l'éthique, l'honnêteté, la Règle d'Or et l'équité, toutes motivées par la volonté de Dieu.
 <br style="clear:both;"/>
 
-> _Si nous connaissons Dieu, notre véritable travail sur terre consiste à vivre de manière à permettre au Père de se révéler à travers notre vie. ..._ ([LU 132:7.2](/fr/The_Urantia_Book/132#p7_2))
+> _Si nous connaissons Dieu, notre véritable travail sur terre consiste à vivre de manière à permettre au Père de se révéler à travers notre vie. ..._ (<a id="a26_152"></a>[LU 132:7.2](/fr/The_Urantia_Book/132#p7_2))
 
 Les intérêts religieux, politiques et sociaux spécifiques des individus d'une entreprise sont des questions personnelles. Cependant, ils se répercuteront d'une certaine manière sur tous les aspects de leur vie. Il s'ensuit donc qu'une organisation inspirée par Urantia sera construite sur les valeurs défendues par l'individu. Si des individus et des groupes de personnes agissent en accord avec la loi naturelle et spirituelle, il y a harmonie et une vie améliorée au sens matériel du terme.
 

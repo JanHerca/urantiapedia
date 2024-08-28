@@ -47,7 +47,7 @@ Ce congrès sera animé par la très talentueuse équipe de « Canberra » et no
 
 ## Thème : Le mental au-dessus de la matière — L’esprit au-dessus du mental
 
-> _Dans les superunivers évolutionnaires, l’énergie-matière est dominante sauf dans la personnalité, où l’esprit, par la médiation du mental, lutte pour la maitrise. Le but des univers évolutionnaires est l’assujettissement de l’énergie-matière par le mental, la coordination du mental avec l’esprit, et tout ceci, en vertu de la présence créative et unificatrice de la personnalité._ <a id="a46_365"></a>[[LU 116:6.1](/fr/The_Urantia_Book/116#p6_1)]
+> _Dans les superunivers évolutionnaires, l’énergie-matière est dominante sauf dans la personnalité, où l’esprit, par la médiation du mental, lutte pour la maitrise. Le but des univers évolutionnaires est l’assujettissement de l’énergie-matière par le mental, la coordination du mental avec l’esprit, et tout ceci, en vertu de la présence créative et unificatrice de la personnalité._ <a id="a49_385"></a>[[LU 116:6.1](/fr/The_Urantia_Book/116#p6_1)]
 
 Il est assez évident qu’au 21e siècle, il y a une compréhension considérable de la façon dont le mental humain a subjugué la matière. Les progrès industriels et technologiques des deux siècles précédents ont fait que les hommes modernes sont devenus virtuellement des adorateurs de la science, et beaucoup suggèrent que cela mènera finalement l’humanité à la compréhension complète du monde matériel.
 

@@ -46,7 +46,7 @@ Nébadon, et peut-être Orvonton et le Grand Univers tout entier, appliquent ce 
 En fait, il ne sert à rien d’attendre les mondes des maisons, car les mêmes efforts nous seront probablement demandés là-bas. Nous n’apprenons rien simplement en étant morontiens. Nous devons encore apprendre à faire ce que nous ne pouvons pas faire en le faisant, en apprenant de nos erreurs et en développant une capacité accrue à apprendre en essayant. Nous lutterons toujours pour comprendre ce qui nous dépasse en tant que morontiens, et probablement aussi en tant qu’esprits dans le superunivers, et peut-être même en tant que finalitaires, et la méthode est toujours la même. Essayez de comprendre, et l’effort d’essayer augmente la capacité de comprendre. Alors, nous pourrions aussi bien commencer maintenant, sans oublier que…
 <br style="clear:both;"/>
 
-> _En liaison avec Dieu, rien — absolument rien — n’est impossible._ ([LU 26:5.3](/fr/The_Urantia_Book/26#p5_3))
+> _En liaison avec Dieu, rien — absolument rien — n’est impossible._ (<a id="a48_70"></a>[LU 26:5.3](/fr/The_Urantia_Book/26#p5_3))
 
 Il semble clair qu’un cadre de référence planétaire commun est fondamental pour le progrès planétaire futur. Le thème de la conférence, « Les échos de l’Éden », a pour but de stimuler la réflexion sur les cultures existantes d’Urantia et leurs hypothèses sous-jacentes. Nous invitons les participants à la conférence à essayer d’imaginer les implications de la greffe d’une perspective de Jérusem sur ces cultures existantes.
 

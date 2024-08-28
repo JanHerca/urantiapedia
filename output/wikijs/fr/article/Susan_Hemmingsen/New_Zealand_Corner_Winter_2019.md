@@ -26,15 +26,15 @@ En passant, voici un lien vers une interview de Radio NZ expliquant pourquoi les
 Il y a quelques années, le groupe d'étude d'Auckland avait appris par cœur les Morontia Motas et au fil des ans, ils me reviennent à l'esprit lorsqu'ils semblent correspondre à la situation. Alors que j'observais les conséquences de cette attaque horrible et lâche, les Morontia Motas suivants me sont venus à l'esprit.
 <br style="clear:both;"/>
 
-> _5. Les difficultés peuvent défier la médiocrité et vaincre les craintifs, mais elles ne stimulent que les vrais enfants du Très-Haut._ [[LU 48:7.7](/fr/The_Urantia_Book/48#p7_7)]
+> _5. Les difficultés peuvent défier la médiocrité et vaincre les craintifs, mais elles ne stimulent que les vrais enfants du Très-Haut._ <a id="a28_138"></a>[[LU 48:7.7](/fr/The_Urantia_Book/48#p7_7)]
 > 
-> _12. La plus grande affliction du cosmos est de n'avoir jamais été affligé. Les mortels n'apprennent la sagesse qu'en faisant l'expérience de la tribulation._ [[LU 48:7.14](/fr/The_Urantia_Book/48#p7_14)]
+> _12. La plus grande affliction du cosmos est de n'avoir jamais été affligé. Les mortels n'apprennent la sagesse qu'en faisant l'expérience de la tribulation._ <a id="a30_161"></a>[[LU 48:7.14](/fr/The_Urantia_Book/48#p7_14)]
 > 
-> _13. Les étoiles sont mieux discernées depuis l'isolement solitaire des profondeurs expérimentales, et non depuis les sommets illuminés et extatiques des montagnes._ [[LU 48:7.15](/fr/The_Urantia_Book/48#p7_15)]
+> _13. Les étoiles sont mieux discernées depuis l'isolement solitaire des profondeurs expérimentales, et non depuis les sommets illuminés et extatiques des montagnes._ <a id="a32_168"></a>[[LU 48:7.15](/fr/The_Urantia_Book/48#p7_15)]
 
 et particulièrement :
 
-> _16. On ne peut percevoir la vérité spirituelle avant d’en éprouver l’expérience, et beaucoup de vérités ne sont réellement ressenties que dans l’adversité._ ([LU 48:7.18](/fr/The_Urantia_Book/48#p7_18))
+> _16. On ne peut percevoir la vérité spirituelle avant d’en éprouver l’expérience, et beaucoup de vérités ne sont réellement ressenties que dans l’adversité._ (<a id="a36_161"></a>[LU 48:7.18](/fr/The_Urantia_Book/48#p7_18))
 
 Malheureusement, avant l'attaque, l'opinion générale était que tous les musulmans étaient des terroristes, et cette communauté souffrait d'être rejetée, discriminée et généralement totalement incomprise, et tout comme il y a de nombreux aspects de l'islam qui doivent être mis à jour, on peut en dire autant du christianisme.
 
@@ -65,9 +65,9 @@ Ma prière est que cet élan d'amour, de compréhension et de soutien soit perma
 
 Et enfin :
 
-> _″…Dans votre vie, renversez l’erreur et surmontez le mal par l’amour de la vérité vivante. Dans toutes vos relations avec les hommes, faites le bien pour le mal….”_ [[LU 131:1.7](/fr/The_Urantia_Book/131#p1_7)]
+> _″…Dans votre vie, renversez l’erreur et surmontez le mal par l’amour de la vérité vivante. Dans toutes vos relations avec les hommes, faites le bien pour le mal….”_ <a id="a67_168"></a>[[LU 131:1.7](/fr/The_Urantia_Book/131#p1_7)]
 > 
-> _…L’amour paternel se réjouit de rendre le bien pour le mal, de faire le bien en représailles à l’injustice…._ [[LU 140:5.24](/fr/The_Urantia_Book/140#p5_24)]
+> _…L’amour paternel se réjouit de rendre le bien pour le mal, de faire le bien en représailles à l’injustice…._ <a id="a69_113"></a>[[LU 140:5.24](/fr/The_Urantia_Book/140#p5_24)]
 
 ## Rassemblement en Nouvelle-Zélande – Taupo, week-end du parti travailliste
 

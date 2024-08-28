@@ -47,7 +47,7 @@ Depuis le 16 septembre 2017, chaque semaine le comité international d’éducat
 et que…
 
 
-> _… ces nouveaux enseignants de la religion de Jésus… seront exclusivement consacrés à la régénération spirituelle des hommes_. <a id="a48_111"></a>[[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4)]
+> _… ces nouveaux enseignants de la religion de Jésus… seront exclusivement consacrés à la régénération spirituelle des hommes_. <a id="a49_129"></a>[[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4)]
 
 Les sessions ont été instructives et stimulantes, avec la participation active des étudiants du Livre d’Urantia de différents pays comme le Canada, les États-Unis, la France, la Suisse, Israël, le Mexique, le Guatemala, l’Allemagne, le Pérou et la Belgique.
 
@@ -97,7 +97,7 @@ Rick est vice-président d’UAUS et président du comité d’éducation de son
 
 Jeff a présenté deux ateliers. Le 11 novembre, il a dirigé une séance sur le thème ‘Leadership et travail d’équipe’ et, le 18 novembre, une autre sur ‘L’enseignement’. L’une de ses remarques les plus inspirantes a été :
 
-‘Que notre don pour le leadership soit grand ou petit, développer ce don fait partie de devenir semblable à Dieu.  Les créatures qui connaissent Dieu n’ont qu’une ambition suprême, un seul désir brûlant, c’est d’être semblable dans leur propre sphère à ce qu’il est dans sa perfection paradisiaque de personnalité et dans sa sphère universelle de juste suprématie. <a id="a98_355"></a>[[LU 1:0.3](/fr/The_Urantia_Book/1#p0_3)] Devenir comme Dieu dans notre sphère signifie (en plus d’acquérir la maîtrise de soi et la belle plénitude de la justice) devenir un bon leader, même dans une activité banale et temporaire telle que montrer à une autre personne comment faire quelque chose de simple, ou organiser quelques personnes pour préparer un repas. Nous avons tous des opportunités de leadership, que nous y pensions ou non ; et nous faisons bien d’étudier les voies du leadership divin, et ses liens profonds avec le service et le travail d’équipe.’
+‘Que notre don pour le leadership soit grand ou petit, développer ce don fait partie de devenir semblable à Dieu.  Les créatures qui connaissent Dieu n’ont qu’une ambition suprême, un seul désir brûlant, c’est d’être semblable dans leur propre sphère à ce qu’il est dans sa perfection paradisiaque de personnalité et dans sa sphère universelle de juste suprématie. <a id="a99_365"></a>[[LU 1:0.3](/fr/The_Urantia_Book/1#p0_3)] Devenir comme Dieu dans notre sphère signifie (en plus d’acquérir la maîtrise de soi et la belle plénitude de la justice) devenir un bon leader, même dans une activité banale et temporaire telle que montrer à une autre personne comment faire quelque chose de simple, ou organiser quelques personnes pour préparer un repas. Nous avons tous des opportunités de leadership, que nous y pensions ou non ; et nous faisons bien d’étudier les voies du leadership divin, et ses liens profonds avec le service et le travail d’équipe.’
 
 Si vous souhaitez en savoir plus sur cette belle leçon, rendez-vous sur : [https://sites.google.com/site/ubquestionsandstudies/training-leaders/principles-of-leadership-and-teamwork](https://sites.google.com/site/ubquestionsandstudies/training-leaders/principles-of-leadership-and-teamwork)
 

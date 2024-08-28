@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Jesus-Metaverse-Image-e1662960911349.jpg">
 </figure>
 
-> _Quel service transcendant rendrait la présente révélation si, par elle, le Fils de l’Homme pouvait être retiré de la tombe de la théologie traditionnelle et présenté, en tant que Jésus vivant, à l’Église qui porte son nom et à toutes les autres religions !_ <a id="a42_234"></a>[[LU 196:1.2](/fr/The_Urantia_Book/196#p1_2)]
+> _Quel service transcendant rendrait la présente révélation si, par elle, le Fils de l’Homme pouvait être retiré de la tombe de la théologie traditionnelle et présenté, en tant que Jésus vivant, à l’Église qui porte son nom et à toutes les autres religions !_ <a id="a43_261"></a>[[LU 196:1.2](/fr/The_Urantia_Book/196#p1_2)]
 
 ## À propos du Métavers Jésus (Jesus Metaverse) et du Centre pour l’Unité (Center for Unity)
 
@@ -96,7 +96,7 @@ Si vous ressentez l’appel à servir avec nous, veuillez remplir ce questionnai
 Si vous n’êtes pas sûr que cela vous convienne et que vous souhaitez simplement nous parler pour le savoir, veuillez contacter Gabriel à l’adresse [gabriel.rymberg@thecenterforunity.org](mailto:gabriel.rymberg@thecenterforunity.org) et nous faire part de vos sentiments.
 
 
-> _Si l’Église chrétienne osait seulement adopter le programme du Maitre, des milliers de jeunes, apparemment indifférents, se précipiteraient pour s’enrôler dans une telle entreprise spirituelle et n’hésiteraient pas à aller jusqu’au bout dans cette grande aventure._ <a id="a97_263"></a>[[LU 195:10.10](/fr/The_Urantia_Book/195#p10_10)]
+> _Si l’Église chrétienne osait seulement adopter le programme du Maitre, des milliers de jeunes, apparemment indifférents, se précipiteraient pour s’enrôler dans une telle entreprise spirituelle et n’hésiteraient pas à aller jusqu’au bout dans cette grande aventure._ <a id="a98_269"></a>[[LU 195:10.10](/fr/The_Urantia_Book/195#p10_10)]
 
 ## Références
 

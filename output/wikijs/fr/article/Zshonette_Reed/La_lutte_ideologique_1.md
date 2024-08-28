@@ -75,7 +75,7 @@ Et pour nous ? Devrions-nous adopter une approche désinvolte face à la rébell
 
 Il semble qu'il y ait quelque chose que nous puissions faire. Comme Gabriel, nous pouvons prendre position pour contrer les sophismes rebelles. La méthode de Gabriel est exposée dans le fascicule 53. On y lit :
 
-> ... _Aux premiers temps de la lutte, Lucifer discourut en permanence dans l'amphithéâtre planétaire. Gabriel avait établi son quartier général à proximité, et de là il mit sans cesse à nu les sophismes des rebelles. Les diverses personnalités présentes sur la sphère et qui hésitaient sur l'attitude à prendre allaient et venaient entre ces discussions jusqu'à ce qu'elles fussent parvenues à une décision définitive._ (LU [LU 53:5.6](/fr/The_Urantia_Book/53#p5_6))
+> ... _Aux premiers temps de la lutte, Lucifer discourut en permanence dans l'amphithéâtre planétaire. Gabriel avait établi son quartier général à proximité, et de là il mit sans cesse à nu les sophismes des rebelles. Les diverses personnalités présentes sur la sphère et qui hésitaient sur l'attitude à prendre allaient et venaient entre ces discussions jusqu'à ce qu'elles fussent parvenues à une décision définitive._ (LU <a id="a77_425"></a>[LU 53:5.6](/fr/The_Urantia_Book/53#p5_6))
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Reflectivite/2023_03/014.jpg">
@@ -92,11 +92,11 @@ Ensuite, il y a la question de la justice. Lorsque nous pensons aux énormes dé
 
 Cette question se pose en raison de ce qui est dit dans le fascicule 54 :
 
-> _Or les Anciens des Jours refusent d'anéantir un être avant que toutes les valeurs morales et les réalités spirituelles soient éteintes aussi bien chez l'auteur du mal que ***chez tous ses partisans et sympathisants possibles***._ ([LU 54:3.3](/fr/The_Urantia_Book/54#p3_3))
+> _Or les Anciens des Jours refusent d'anéantir un être avant que toutes les valeurs morales et les réalités spirituelles soient éteintes aussi bien chez l'auteur du mal que ***chez tous ses partisans et sympathisants possibles***._ (<a id="a94_234"></a>[LU 54:3.3](/fr/The_Urantia_Book/54#p3_3))
 
 Considérez également ce qui est indiqué au sujet de Satan dans le fascicule 43 :
 
-> _Depuis le triomphe du Christ, tout Norlatiadek est en passe d'être débarrassé du péché et des rebelles. Quelque temps avant la mort physique de Micaël, Satan, l'associé de Lucifer déchu, tenta d'assister à un tel conclave d'Édentia, mais le sentiment des autres membres contre les archirebelles s'était concrétisé au point que les portes de la sympathie leur furent à peu près universellement fermées, et que les adversaires de Satania ne trouvèrent aucun emplacement où se tenir. ***Quand nulle porte n'est ouverte pour recevoir le mal, il n'existe aucune occasion d'entretenir le péché***. Les portes des cours de tout Édentia se fermèrent devant Satan. Il fut unanimement rejeté par les Souverains de Système assemblés, et c'est alors que le Fils de l'Homme « vit Satan tomber du ciel comme un éclair »_ ([LU 43:4.9](/fr/The_Urantia_Book/43#p4_9))
+> _Depuis le triomphe du Christ, tout Norlatiadek est en passe d'être débarrassé du péché et des rebelles. Quelque temps avant la mort physique de Micaël, Satan, l'associé de Lucifer déchu, tenta d'assister à un tel conclave d'Édentia, mais le sentiment des autres membres contre les archirebelles s'était concrétisé au point que les portes de la sympathie leur furent à peu près universellement fermées, et que les adversaires de Satania ne trouvèrent aucun emplacement où se tenir. ***Quand nulle porte n'est ouverte pour recevoir le mal, il n'existe aucune occasion d'entretenir le péché***. Les portes des cours de tout Édentia se fermèrent devant Satan. Il fut unanimement rejeté par les Souverains de Système assemblés, et c'est alors que le Fils de l'Homme « vit Satan tomber du ciel comme un éclair »_ (<a id="a98_811"></a>[LU 43:4.9](/fr/The_Urantia_Book/43#p4_9))
 
 Nous pouvons en conclure que tant que les concepts lucifériens ne sont pas entièrement rejetés sur notre monde, les Anciens des Jours peuvent s'abstenir d'anéantir les rebelles. Ainsi, un retard dans l'exposition des proclamations empoisonnées de Lucifer peut prolonger notre agonie planétaire.
 

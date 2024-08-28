@@ -46,7 +46,7 @@ Cette aide à l’étude est un résumé de nombreux concepts du livre qui conce
 Parmi les thèmes abordés, citons le plan divin de Dieu, la personnalité, l’esprit, la croyance et la foi, les décisions en quête de Dieu, le libre arbitre, la moralité, l’harmonie avec l’Ajusteur, et bien d’autres choses encore. Il est disponible sur Amazon et tous les bénéfices sont reversés aux organisations caritatives d’Urantia.
 <br style="clear:both;"/>
 
-> Rares sont les mortels qui osent jamais retirer la totalité de leurs crédits de personnalité établis par les ministères conjugués de la nature et de la grâce. La plupart des âmes appauvries sont vraiment riches, mais elles refusent de le croire. <a id="a47_219"></a>[[LU 48:7.6](/fr/The_Urantia_Book/48#p7_6)] 
+> Rares sont les mortels qui osent jamais retirer la totalité de leurs crédits de personnalité établis par les ministères conjugués de la nature et de la grâce. La plupart des âmes appauvries sont vraiment riches, mais elles refusent de le croire. <a id="a48_248"></a>[[LU 48:7.6](/fr/The_Urantia_Book/48#p7_6)] 
 
 Profitez-en! Hara Davis
 

@@ -21,7 +21,7 @@ L’hiver est bel et bien là dans notre partie du monde, et nous avons profité
 
 J’ai réfléchi à l’encouragement du Livre d’Urantia à « se régaler d’incertitude » !
 
-> _...longtemps avant d’arriver à Havona, ces enfants ascendants du temps ont appris à se délecter d’incertitudes, à se nourrir de désappointements, à s’enthousiasmer sur des défaites apparentes, à se fortifier en présence de difficultés, à faire preuve d’un courage indomptable en face de l’immensité et à exercer une foi invincible quand ils font face au défi de l’inexplicable._ ([LU 26:5.3](/fr/The_Urantia_Book/26#p5_3))
+> _...longtemps avant d’arriver à Havona, ces enfants ascendants du temps ont appris à se délecter d’incertitudes, à se nourrir de désappointements, à s’enthousiasmer sur des défaites apparentes, à se fortifier en présence de difficultés, à faire preuve d’un courage indomptable en face de l’immensité et à exercer une foi invincible quand ils font face au défi de l’inexplicable._ (<a id="a23_383"></a>[LU 26:5.3](/fr/The_Urantia_Book/26#p5_3))
 
 Nous avons certainement de nombreuses occasions de mettre cela en pratique – le temps est très incertain, le Covid n’a pas disparu, et nous commençons maintenant à vivre les premières phases de nos élections nationales, dont le résultat est également assez incertain, mais pourrait apporter beaucoup de changements.
 

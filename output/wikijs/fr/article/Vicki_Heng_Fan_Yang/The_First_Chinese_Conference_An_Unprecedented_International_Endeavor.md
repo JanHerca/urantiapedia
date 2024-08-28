@@ -148,7 +148,7 @@ C’est le message du _Livre d’Urantia_ pour le prochain âge – les idéaux 
 
 Peut-être, un jour je visiterai Taipei encore une fois – avec un exemplaire de la traduction chinoise, rendue possible par les traducteurs infatigables et incroyablement dévoués qui ont entrepris cette immense tâche difficile !
 
-> _La stabilité et la persistance étonnantes dès la culture chinoise sont une conséquence du rôle majeur accordé à la famille, car la civilisation dépend directement du fonctionnement efficace de la famille. En Chine, la famille atteignit une importance sociale, et même une signification religieuse, que peu d’autres peuples approchèrent._ <a id="a152_341"></a>[LU 79:8.9](/fr/The_Urantia_Book/79#p8_9)
+> _La stabilité et la persistance étonnantes dès la culture chinoise sont une conséquence du rôle majeur accordé à la famille, car la civilisation dépend directement du fonctionnement efficace de la famille. En Chine, la famille atteignit une importance sociale, et même une signification religieuse, que peu d’autres peuples approchèrent._ <a id="a150_341"></a>[LU 79:8.9](/fr/The_Urantia_Book/79#p8_9)
 
 ## Georges Michelson-Dupont
 

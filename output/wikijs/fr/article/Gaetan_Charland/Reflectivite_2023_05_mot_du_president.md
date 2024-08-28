@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Gaétan G. Charland<br>© 2023 Association Urantia du Québec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Reflectivite/2023_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 367 — Mai 2023 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-367-mai-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 367 — Mai 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Lapierre/Mes_reflexions_des_niveaux_despace_exterieur">
+          <span class="pr-2">Mes réflexions au sujet des niveaux d'espace extérieur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/Gaetan_Charland.jpg">
@@ -19,7 +43,7 @@ president@urantiaqc.org
 
 Bonjour membres et amis de l'association,
 
-Je présume que chacun d'entre-nous connaissons la fameuse citation de Jésus qu'il prononça lors de l'ordination des soixante-dix « _En vérité, la moisson est abondante, mais les ouvriers sont peu nombreux_ » [LU 161:1.3](/fr/The_Urantia_Book/161#p1_3). En fait ce n'est pas dans mes habitudes d'utiliser des citations pour mettre en évidence un point ou une situation spécifique, je le fais aujourd'hui pour souligner que bientôt lors de l'Assemblée générale annuelle, l'association tiendra l'élection pour les postes de président et de trésorier.
+Je présume que chacun d'entre-nous connaissons la fameuse citation de Jésus qu'il prononça lors de l'ordination des soixante-dix « _En vérité, la moisson est abondante, mais les ouvriers sont peu nombreux_ » <a id="a45_208"></a>[LU 161:1.3](/fr/The_Urantia_Book/161#p1_3). En fait ce n'est pas dans mes habitudes d'utiliser des citations pour mettre en évidence un point ou une situation spécifique, je le fais aujourd'hui pour souligner que bientôt lors de l'Assemblée générale annuelle, l'association tiendra l'élection pour les postes de président et de trésorier.
 
 Comme chaque année, deux postes au sein du conseil d'administration de l'association sont soumis à une élection, et je me désole toujours de constater le très peu de candidatures qui sont proposées lors de ces élections. Je comprends que la majorité des membres de l'association n'aime pas endosser les responsabilités d'un poste administratif, mais il faut comprendre que sans cette organisation qu'est votre association, la révélation ne pourrait pas progresser efficacement dans sa mission ici au Québec.
 <br style="clear:both;"/>
@@ -37,7 +61,7 @@ Le service fait partie de notre évolution spirituelle ; servir c'est vouloir fa
 
 Un jour nous serons tous réunis quelque part sur un des mondes des maisons ou sur Jérusem et nous contemplerons ensemble notre vie antérieure sur Urantia, et nos aides célestes nous ferons constater les nombreuses expériences de croissance que nous avons vécu qui nous ont fait grandir et celles que nous avons laissé passer. Fournissons un effort sincère pour accumuler le plus d'expériences de croissance possible avant de quitter ce monde, laissons un peu plus que ce que nous avons reçu, participons à la seconde lieue, c'est ce que Jésus nous demande.
 
-> « _Pour gagner des âmes au Maitre, ce n'est pas la première lieue parcourue par obligation, devoir ou convention qui transformera l'homme et son monde, mais plutôt la seconde lieue de service libre et de dévotion aimant la liberté ; elle dénote que le jésusonien a tendu la main à la manière de Jésus pour saisir son frère avec amour et l'amener, sous gouverne spirituelle, vers le but supérieur et divin de l'existence de mortel._ » [LU 95:10.5](/fr/The_Urantia_Book/95#p10_5)
+> « _Pour gagner des âmes au Maitre, ce n'est pas la première lieue parcourue par obligation, devoir ou convention qui transformera l'homme et son monde, mais plutôt la seconde lieue de service libre et de dévotion aimant la liberté ; elle dénote que le jésusonien a tendu la main à la manière de Jésus pour saisir son frère avec amour et l'amener, sous gouverne spirituelle, vers le but supérieur et divin de l'existence de mortel._ » <a id="a63_436"></a>[LU 95:10.5](/fr/The_Urantia_Book/95#p10_5)
 
 Aimer c'est servir
 
@@ -45,3 +69,27 @@ Aimer c'est servir
 
 - [Bulletin Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Ce numéro (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mai-2023.pdf)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Reflectivite/2023_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 367 — Mai 2023 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-367-mai-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 367 — Mai 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Lapierre/Mes_reflexions_des_niveaux_despace_exterieur">
+          <span class="pr-2">Mes réflexions au sujet des niveaux d'espace extérieur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

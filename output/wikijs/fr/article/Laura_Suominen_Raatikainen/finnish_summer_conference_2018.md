@@ -62,7 +62,7 @@ Dans l’ensemble, le week-end a été très réussi. Les participants sont rent
 
 > _Le mortel conscient de Dieu est certain d’être sauvé ; il ne craint pas la vie ; il est loyal et conséquent. Il sait comment supporter courageusement les souffrances inévitables et ne se plaint pas quand il doit affronter des épreuves inéluctables._
 > 
-> _Le vrai croyant ne se lasse pas de bien faire, simplement parce qu’il est contrecarré. Les difficultés fouettent l’ardeur des amants de la vérité et les obstacles ne font que mettre au défi les efforts des intrépides bâtisseurs du royaume._ <a id="a63_211"></a>[[LU 156:5.20-21](/fr/The_Urantia_Book/156#p5_20)]
+> _Le vrai croyant ne se lasse pas de bien faire, simplement parce qu’il est contrecarré. Les difficultés fouettent l’ardeur des amants de la vérité et les obstacles ne font que mettre au défi les efforts des intrépides bâtisseurs du royaume._ <a id="a64_244"></a>[[LU 156:5.20-21](/fr/The_Urantia_Book/156#p5_20)]
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Summer-Meeting-in-Finland-by-Matti-T-2-706x471.jpg">

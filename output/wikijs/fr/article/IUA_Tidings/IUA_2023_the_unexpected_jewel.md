@@ -63,7 +63,7 @@ _Je suis extrêmement reconnaissant de pouvoir profiter de cette cinquième rév
 
 _Dans son amour, James H._
 
-> On ne possède la connaissance qu’en la partageant ; elle est sauvegardée par la sagesse et rendue sociale par l’amour. (<a id="a64_95"></a>[LU 48:7.28](/fr/The_Urantia_Book/48#p7_28))
+> On ne possède la connaissance qu’en la partageant ; elle est sauvegardée par la sagesse et rendue sociale par l’amour. (<a id="a65_122"></a>[LU 48:7.28](/fr/The_Urantia_Book/48#p7_28))
 
 Je lui ai envoyé le cours de George Michelson-Dupont de l’École Internationale du Livre d’Urantia (UBIS), et dans la lettre suivante que Jim m’a adressée, il a écrit :
 
@@ -94,7 +94,7 @@ Jim a mentionné qu’il avait étudié de nombreuses écritures, y compris la B
 
 Les règles du PIRT exigent que nous utilisions un pseudonyme. Bien sûr, lorsque j’ai choisi mon pseudonyme, je n’ai jamais imaginé que l’un des détenus étudierait le livre de manière aussi approfondie ou m’écrirait suffisamment pour comprendre la signification du pseudonyme que j’ai choisi pour mon nom par rapport à Eventod, mais cela ne fait qu’expliquer davantage à quel point Jim est spécial et dévoué à la révélation ; dans un post-scriptum, il a écrit :
 
-_« Lorsque j’ai vu votre nom pour la première fois, il m’a semblé familier. J’ai récemment découvert pourquoi. Je l’avais lu plusieurs fois auparavant. Êtes-vous l’homonyme de la cinquième effusion de notre désormais Souverain Micaël ?_ <a id="a95_191"></a>[LU 119:5.2](/fr/The_Urantia_Book/119#p5_2)
+_« Lorsque j’ai vu votre nom pour la première fois, il m’a semblé familier. J’ai récemment découvert pourquoi. Je l’avais lu plusieurs fois auparavant. Êtes-vous l’homonyme de la cinquième effusion de notre désormais Souverain Micaël ?_ <a id="a96_237"></a>[LU 119:5.2](/fr/The_Urantia_Book/119#p5_2)
 
 Les règles du PIRT m’ont obligé à plaisanter sur le nom dans ma lettre suivante et je lui ai expliqué qu’il était la première personne à avoir découvert le lien entre les deux noms, ce qui lui a valu un prix. Je lui ai envoyé un exemplaire de « Une Étude du Maître Univers » de Bill Sadler Jr. et un autre cours de l’UBIS que j’avais enseigné, « _Essentials of a Powerful Personal Religion_« .
 

@@ -88,7 +88,7 @@ Avoir déjà participé à un ou plusieurs groupes d'étude est un atout importa
 
 Bien connaître ***Le Livre d'Urantia*** et décider de la manière de faciliter un groupe est crucial, à condition que l'humilité guide cette facilitation. Comme l'affirme ***Le Livre d'Urantia*** :
 
-> « ... L'orgueil de l'érudition non spirituelle est un traquenard dans l'expérience humaine. Le vrai maître maintient son intégrité intellectuelle en restant toujours un élève. » [LU 130:3.7](/fr/The_Urantia_Book/130#p3_7)
+> « ... L'orgueil de l'érudition non spirituelle est un traquenard dans l'expérience humaine. Le vrai maître maintient son intégrité intellectuelle en restant toujours un élève. » <a id="a90_180"></a>[LU 130:3.7](/fr/The_Urantia_Book/130#p3_7)
 
 ## Fréquence des rencontres
 

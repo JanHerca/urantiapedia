@@ -32,7 +32,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 
 
-> _Le bonheur et la joie prennent origine dans la vie intérieure. On ne peut ressentir tout seul une joie réelle._ <a id="a33_101"></a>[[LU 111:4.7](/fr/The_Urantia_Book/111#p4_7)]
+> _Le bonheur et la joie prennent origine dans la vie intérieure. On ne peut ressentir tout seul une joie réelle._ <a id="a34_115"></a>[[LU 111:4.7](/fr/The_Urantia_Book/111#p4_7)]
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/James-Woodward-2021-150x150.jpg">

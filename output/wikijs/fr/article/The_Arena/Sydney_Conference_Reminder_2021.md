@@ -27,7 +27,7 @@ Mais qu’est-ce qu’une clé de voûte ? Dans la construction d’une arche, l
 
 L'équipe de planification de la conférence s'est efforcée de produire un programme qui aborde en profondeur des sujets qui nous tiennent à cœur, tout en laissant beaucoup de temps à la discussion. Notre objectif est de trouver et de décortiquer les éléments – ou les qualités – nécessaires pour constituer notre clé de voûte.
 
-> _La vérité est cohérente, la beauté est attrayante, la bonté est stabilisante. Et, quand ces trois valeurs de la réalité sont coordonnées dans l’expérience d’une personnalité, il en résulte une haute qualité d’amour, conditionnée par la sagesse et qualifiée par la loyauté. Le véritable but de toute éducation dans l’univers est de mieux coordonner les enfants isolés des mondes avec les plus grandes réalités de leur expérience croissante. La réalité est finie au niveau humain, elle est infinie et éternelle aux niveaux supérieurs et divins._ ([LU 2:7.12](/fr/The_Urantia_Book/2#p7_12))
+> _La vérité est cohérente, la beauté est attrayante, la bonté est stabilisante. Et, quand ces trois valeurs de la réalité sont coordonnées dans l’expérience d’une personnalité, il en résulte une haute qualité d’amour, conditionnée par la sagesse et qualifiée par la loyauté. Le véritable but de toute éducation dans l’univers est de mieux coordonner les enfants isolés des mondes avec les plus grandes réalités de leur expérience croissante. La réalité est finie au niveau humain, elle est infinie et éternelle aux niveaux supérieurs et divins._ (<a id="a29_548"></a>[LU 2:7.12](/fr/The_Urantia_Book/2#p7_12))
 
 En avant-première, voici une liste des présentations et des présentateurs :
 

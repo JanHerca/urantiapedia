@@ -77,7 +77,7 @@ Après avoir complété la période de promotion, nous aurons un choix à faire 
 
 J'ai confiance que nous pouvons et que nous devrions utiliser tous les outils de mise en marché modernes qui nous sont accessibles pour distribuer _Le Livre d'Urantia_. Tel que mentionné dans la Parabole de l’Intendant Habile.
 
-> _Puisque vous étiez si diligents à faire des profits personnels quand vous étiez au service du moi, pourquoi montreriez-vous moins d'empressement à gagner des âmes pour le royaume, puisque vous êtes maintenant les serviteurs de la fraternité des hommes et les intendants de Dieu?_ (<a id="a76_231"></a>[LU 169:2.2](/fr/The_Urantia_Book/169#p2_2))
+> _Puisque vous étiez si diligents à faire des profits personnels quand vous étiez au service du moi, pourquoi montreriez-vous moins d'empressement à gagner des âmes pour le royaume, puisque vous êtes maintenant les serviteurs de la fraternité des hommes et les intendants de Dieu?_ (<a id="a79_284"></a>[LU 169:2.2](/fr/The_Urantia_Book/169#p2_2))
 
 Je crois que nous devons employer tous les outils appropriés, mesurés et raisonnables pour rejoindre les lecteurs potentiels du _Livre d'Urantia_.
 

@@ -60,7 +60,7 @@ C'est la religiosité vivante, intime et personnelle entre soi et Dieu. Avec le 
 C'est quelque chose qu'on ne peut pas faire à la place de quelqu'un d'autre, nous pouvons tout au plus en être des exemples vivants et contagieux.
 <br style="clear:both;"/>
 
-> C'est la présence de l'Esprit divin, l'eau vive, qui empêche la soif dévorante du mécontentement des mortels et l'indicible faim du mental humain non spiritualisé. Les êtres mus par l'Esprit « n'auront jamais soif, car cette eau spirituelle sera chez eux une source de satisfaction jaillissant jusque dans la vie éternelle». Les âmes ainsi arrosées divinement ne dépendent presque plus de l'environnement matériel pour la joie de vivre et les satisfactions de l'existence terrestre. Elles sont spirituellement illuminées et rafraichies, moralement renforcées et dotées. [LU 34:6.8](/fr/The_Urantia_Book/34#p6_8)
+> C'est la présence de l'Esprit divin, l'eau vive, qui empêche la soif dévorante du mécontentement des mortels et l'indicible faim du mental humain non spiritualisé. Les êtres mus par l'Esprit « n'auront jamais soif, car cette eau spirituelle sera chez eux une source de satisfaction jaillissant jusque dans la vie éternelle». Les âmes ainsi arrosées divinement ne dépendent presque plus de l'environnement matériel pour la joie de vivre et les satisfactions de l'existence terrestre. Elles sont spirituellement illuminées et rafraichies, moralement renforcées et dotées. <a id="a62_572"></a>[LU 34:6.8](/fr/The_Urantia_Book/34#p6_8)
 
 ## La foi toute simple
 
@@ -89,7 +89,7 @@ C'est un état d'esprit.
 «Le moyen le plus rapide d'avoir un ulcère est de chercher à être ce que l'on n'est pas. » (sourire)
 <br style="clear:both;"/>
 
-> ... « Les personnes loyales sont des personnes en cours de croissance, et la croissance est une réalité impressionnante et inspirante. Vivez loyalement aujourd'hui — croissez — et demain prendra soin de lui-même. La manière la plus rapide pour un têtard de devenir une grenouille est de vivre loyalement chaque instant comme un têtard. » [LU 100:1.4](/fr/The_Urantia_Book/100#p1_4)
+> ... « Les personnes loyales sont des personnes en cours de croissance, et la croissance est une réalité impressionnante et inspirante. Vivez loyalement aujourd'hui — croissez — et demain prendra soin de lui-même. La manière la plus rapide pour un têtard de devenir une grenouille est de vivre loyalement chaque instant comme un têtard. » <a id="a91_340"></a>[LU 100:1.4](/fr/The_Urantia_Book/100#p1_4)
 
 ## Références
 

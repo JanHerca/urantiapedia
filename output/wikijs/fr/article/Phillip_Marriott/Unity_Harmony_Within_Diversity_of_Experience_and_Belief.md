@@ -32,7 +32,7 @@ Jésus en a parlé dans le document 141, section 5.1-4 :
 > 
 > « « Votre unité spirituelle implique deux facteurs qui s’harmonisent toujours dans la vie individuelle des croyants : premièrement, vous possédez un motif commun pour une vie de service ; chacun de vous désire par-dessus tout faire la volonté du Père qui est aux cieux. Et, deuxièmement, vous avez tous un but commun d’existence ; vous avez tous le dessein de trouver le Père qui est aux cieux, et de prouver, par là, à l’univers que vous êtes devenus semblables à lui. » »
 > 
-> Vous n’avez pas besoin d’avoir le même point de vue, les mêmes sentiments, ni même des pensées semblables, pour être spirituellement semblables. ([LU 141:5.1-4](/fr/The_Urantia_Book/141#p5_1))
+> Vous n’avez pas besoin d’avoir le même point de vue, les mêmes sentiments, ni même des pensées semblables, pour être spirituellement semblables. (<a id="a34_148"></a>[LU 141:5.1-4](/fr/The_Urantia_Book/141#p5_1))
 
 L'unité de l'esprit est quelque chose pour laquelle il faut travailler et s'efforcer, elle ne vient pas automatiquement, elle doit être pensée et organisée consciemment.
 
@@ -46,7 +46,7 @@ Alors, en rentrant de la foire, cela m'a fait réfléchir à la manière d'avoir
 
 > _Il choisit cinq dirigeants parmi les stoïciens, onze parmi les cyniques et seize parmi les maitres du culte des mystères. Durant six mois, il passa une grande partie de ses loisirs en association étroite avec ces chefs religieux_
 > 
-> **_et voici comment il les instruisit. Il ne s’attaqua pas une seule fois à leurs erreurs et ne mentionna même jamais les défauts de leurs enseignements. Dans chaque cas, il choisissait la part de vérité dans leurs leçons, et ensuite il entreprenait d’embellir et d’éclairer cette vérité dans leur mental de telle sorte qu’en très peu de temps, ce rehaussement de la vérité chassait efficacement l’erreur antérieure._** ([LU 132:0.4](/fr/The_Urantia_Book/132#p0_4))
+> **_et voici comment il les instruisit. Il ne s’attaqua pas une seule fois à leurs erreurs et ne mentionna même jamais les défauts de leurs enseignements. Dans chaque cas, il choisissait la part de vérité dans leurs leçons, et ensuite il entreprenait d’embellir et d’éclairer cette vérité dans leur mental de telle sorte qu’en très peu de temps, ce rehaussement de la vérité chassait efficacement l’erreur antérieure._** (<a id="a48_423"></a>[LU 132:0.4](/fr/The_Urantia_Book/132#p0_4))
 
 Mais bien sûr, je ne pourrais jamais espérer être aussi intelligent ou sagace que Jésus, et s’il n’y a pas de désir d’unité, ce sera toujours une affaire à sens unique. C’était donc mon point de vue, si nous pouvions tous deux accepter d’avoir une communion – d’entretenir des relations amicales et de mettre de côté toute opinion ou pensée divergente pour permettre à l’idée commune de prendre le dessus – cela pourrait être une base sur laquelle construire. Mais cela ne fonctionnera que dans un environnement de coopération et avec une volonté de paix et d’harmonie.
 
@@ -54,9 +54,9 @@ Le document 103 explique :
 
 > _L’unité de l’expérience religieuse parmi les membres d’un groupe social ou racial dérive de l’identité de nature des fragments de Dieu qui habitent les individus._
 > 
-> _...Les membres d’un groupe de mortels peuvent ressentir une unité spirituelle, mais ne peuvent jamais atteindre l’uniformité philosophique._ ([LU 103:1.1](/fr/The_Urantia_Book/103#p1_1))
+> _...Les membres d’un groupe de mortels peuvent ressentir une unité spirituelle, mais ne peuvent jamais atteindre l’uniformité philosophique._ (<a id="a56_145"></a>[LU 103:1.1](/fr/The_Urantia_Book/103#p1_1))
 
-> _De grands espoirs sont permis pour toute Église qui adore le Dieu vivant, qui valide la fraternité des hommes et qui ose dégager ses membres de toute contrainte dogmatique._ ([LU 103:5.12](/fr/The_Urantia_Book/103#p5_12))
+> _De grands espoirs sont permis pour toute Église qui adore le Dieu vivant, qui valide la fraternité des hommes et qui ose dégager ses membres de toute contrainte dogmatique._ (<a id="a58_178"></a>[LU 103:5.12](/fr/The_Urantia_Book/103#p5_12))
 
 Je dis souvent qu'il y a autant de religions qu'il y a de personnes sur la surface de la terre.
 
@@ -83,9 +83,9 @@ Nous pouvons alors permettre aux opinions et aux croyances divergentes d'exister
 
 Le livre le résume parfaitement avec ces derniers articles :
 
-> _La Pentecôte fut l’appel à l’unité spirituelle parmi les croyants à l’évangile. Quand l’esprit descendit sur les disciples à Jérusalem, la même chose se produisit à Philadelphie, à Alexandrie et en tous les autres lieux où demeuraient des croyants sincères. Il fut littéralement vrai « qu’il n’y avait qu’un seul cœur et une seule âme parmi la multitude des croyants ». La religion de Jésus est la plus puissante influence unificatrice que le monde ait jamais connue._ ([LU 194:3.17](/fr/The_Urantia_Book/194#p3_17))
+> _La Pentecôte fut l’appel à l’unité spirituelle parmi les croyants à l’évangile. Quand l’esprit descendit sur les disciples à Jérusalem, la même chose se produisit à Philadelphie, à Alexandrie et en tous les autres lieux où demeuraient des croyants sincères. Il fut littéralement vrai « qu’il n’y avait qu’un seul cœur et une seule âme parmi la multitude des croyants ». La religion de Jésus est la plus puissante influence unificatrice que le monde ait jamais connue._ (<a id="a85_473"></a>[LU 194:3.17](/fr/The_Urantia_Book/194#p3_17))
 
-> _Le christianisme est sérieusement confronté à la condamnation incorporée dans un de ses propres slogans : « Une maison divisée contre elle-même ne peut subsister. » Le monde non chrétien n’acceptera pas de capituler devant une chrétienté divisée en sectes. Jésus vivant représente le seul espoir possible d’unifier le christianisme..._ ([LU 195:10.11](/fr/The_Urantia_Book/195#p10_11))
+> _Le christianisme est sérieusement confronté à la condamnation incorporée dans un de ses propres slogans : « Une maison divisée contre elle-même ne peut subsister. » Le monde non chrétien n’acceptera pas de capituler devant une chrétienté divisée en sectes. Jésus vivant représente le seul espoir possible d’unifier le christianisme..._ (<a id="a87_340"></a>[LU 195:10.11](/fr/The_Urantia_Book/195#p10_11))
 
 ## Références
 

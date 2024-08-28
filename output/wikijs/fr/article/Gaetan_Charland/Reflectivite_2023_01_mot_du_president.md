@@ -14,18 +14,18 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Reflectivite/2023_12">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 374 — Decembre 2023 — Contenu</span>
+        <a href="/fr/article/Reflectivite/2023_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 363 — Janvier 2023 — Contenu</span>
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_reflectivite#réflectivité-número-374-decembre-2023">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 374 — Decembre 2023 — Table des matières</span>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-363-janvier-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 363 — Janvier 2023 — Table des matières</span>
         </a>
         </td>
         <td>
-        <a href="/fr/article/Gilles_Bertrand/Les_groupes_detude">
-          <span class="pr-2">Les groupes d'étude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/article/Marc_Belleau/Equite_et_ecoresponsabilite">
+          <span class="pr-2">Équité et écoresponsabilité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -48,7 +48,7 @@ Bonjour lecteurs et amis de l'association,
 Le fascicule 196 nous dit ceci :
 <br style="clear:both;"/>
 
-> « _Le grand défi lancé à l'homme moderne consiste à établir de meilleures communications avec le divin Moniteur qui habite le mental humain. La plus grande aventure de l'homme dans la chair est son effort sain et équilibré pour repousser les frontières de la conscience de soi à travers les domaines imprécis de la conscience embryonnaire de l'âme, dans un effort sincère pour atteindre la région frontière de la conscience de l'esprit — le contact avec la divine présence. Une telle expérience constitue la conscience de Dieu, c'est une expérience qui confirme puissamment la vérité préexistante de l'expérience religieuse consistant à connaitre Dieu. Cette conscience de l'esprit équivaut à connaitre effectivement la filiation avec Dieu. À défaut, l'assurance de cette filiation est l'expérience de la foi._ » [LU 196:3.34](/fr/The_Urantia_Book/196#p3_34)
+> « _Le grand défi lancé à l'homme moderne consiste à établir de meilleures communications avec le divin Moniteur qui habite le mental humain. La plus grande aventure de l'homme dans la chair est son effort sain et équilibré pour repousser les frontières de la conscience de soi à travers les domaines imprécis de la conscience embryonnaire de l'âme, dans un effort sincère pour atteindre la région frontière de la conscience de l'esprit — le contact avec la divine présence. Une telle expérience constitue la conscience de Dieu, c'est une expérience qui confirme puissamment la vérité préexistante de l'expérience religieuse consistant à connaitre Dieu. Cette conscience de l'esprit équivaut à connaitre effectivement la filiation avec Dieu. À défaut, l'assurance de cette filiation est l'expérience de la foi._ » <a id="a50_815"></a>[LU 196:3.34](/fr/The_Urantia_Book/196#p3_34)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Reflectivite/2023_01/001.jpg">
@@ -86,36 +86,27 @@ En ce début d'année, je vous souhaite de nombreuses expériences de service, l
 Aimer c'est servir.
 <br style="clear:both;"/>
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Reflectivite/2023_12">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 374 — Decembre 2023 — Contenu</span>
+        <a href="/fr/article/Reflectivite/2023_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 363 — Janvier 2023 — Contenu</span>
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_reflectivite#réflectivité-número-374-decembre-2023">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 374 — Decembre 2023 — Table des matières</span>
+        <a href="/fr/index/articles_reflectivite#réflectivité-número-363-janvier-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 363 — Janvier 2023 — Table des matières</span>
         </a>
         </td>
         <td>
-        <a href="/fr/article/Gilles_Bertrand/Les_groupes_detude">
-          <span class="pr-2">Les groupes d'étude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/article/Marc_Belleau/Equite_et_ecoresponsabilite">
+          <span class="pr-2">Équité et écoresponsabilité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
-</figure>
-
-    </tbody>
-  </table>
-</figure>
->
-    </tbody>
-  </table>
-</figure>
-
 </figure>

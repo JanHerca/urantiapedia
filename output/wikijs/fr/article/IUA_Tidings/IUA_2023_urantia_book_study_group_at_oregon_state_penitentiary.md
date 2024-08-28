@@ -79,7 +79,7 @@ Nous prions pour que le groupe d’étude du livre d’Urantia continue à favor
 
 L’équipe du PIRT serait heureuse de vous entendre pour répondre à vos questions, qu’il s’agisse de conseils généraux dans votre pays, de la conduite d’une étude en personne ou d’autres idées que nous pourrions offrir dans le cadre de ce service méritoire. Vous pouvez contacter le PIRT en envoyant un courriel à Myra Hight à l’adresse prt@urantia-association.org.
 
-> Et rappelez-vous que, dans la mesure où vous rendez service à l’un des plus petits de mes frères, c’est à moi que vous rendez ce service. (<a id="a80_117"></a>[LU 176:3.5](/fr/The_Urantia_Book/176#p3_5))
+> Et rappelez-vous que, dans la mesure où vous rendez service à l’un des plus petits de mes frères, c’est à moi que vous rendez ce service. (<a id="a81_141"></a>[LU 176:3.5](/fr/The_Urantia_Book/176#p3_5))
 
 
 ## Références

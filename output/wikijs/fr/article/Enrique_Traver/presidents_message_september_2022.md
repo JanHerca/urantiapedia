@@ -47,9 +47,9 @@ Lorsque nous agissons avec enthousiasme pour attirer plus d’âmes vers le roya
 
 Cependant, j’ai observé que certains d’entre nous sont convaincus que « convertir » leurs semblables en faveur de cette révélation est une grande grâce et un service précieux pour les autres et pour le Père. Nous prononçons souvent des discours passionnés ou nous nous efforçons de construire des arguments pour démontrer pourquoi les autres doivent changer et comment, en découvrant _Le Livre d’Urantia_, chacun de nous doit se comporter à l’avenir. Parfois, certains d’entre nous sont étonnés lorsqu’ils sont confrontés à des situations causées par des étudiants du Livre d’Urantia qui, selon notre compréhension, n’auraient pas dû se produire ou ne sont pas acceptables. Dans certaines situations, notre excès de zèle envers les non-étudiants des enseignements peut faire que la rencontre devienne conflictuelle lorsqu’on essaie de convaincre cette personne de changer.
 
-> Mes messagers ne doivent pas lutter avec les hommes, mais être doux envers tous. <a id="a50_68"></a>[[LU 140:6.9](/fr/The_Urantia_Book/140#p6_9)]
+> Mes messagers ne doivent pas lutter avec les hommes, mais être doux envers tous. <a id="a49_83"></a>[[LU 140:6.9](/fr/The_Urantia_Book/140#p6_9)]
 
-> Respectez toujours la personnalité de l’homme. Une cause juste ne doit jamais être promue par la force ; les victoires spirituelles ne peuvent être remportées que par le pouvoir spirituel. … Les arguments accablants et la supériorité mentale ne doivent pas être employés pour contraindre les hommes et les femmes à entrer dans le royaume. <a id="a52_263"></a>[[LU 159:3.2](/fr/The_Urantia_Book/159#p3_2)]
+> Respectez toujours la personnalité de l’homme. Une cause juste ne doit jamais être promue par la force ; les victoires spirituelles ne peuvent être remportées que par le pouvoir spirituel. … Les arguments accablants et la supériorité mentale ne doivent pas être employés pour contraindre les hommes et les femmes à entrer dans le royaume. <a id="a51_341"></a>[[LU 159:3.2](/fr/The_Urantia_Book/159#p3_2)]
 
 Bien sûr, dans cette approche, nous avons toujours les meilleures intentions du monde. En fait, nous consacrons de grands efforts et nous avons un enthousiasme et un désir sans précédent pour que la grâce de la révélation transforme tous ceux qui nous entourent. Nous espérons que ceux qui cherchent Dieu, en particulier ceux qui connaissent la révélation, consacreront de tout cœur leur vie à faire la volonté de notre Père. Bien sûr, une telle transformation serait très bonne si elle n’impliquait pas l’abandon de nos expériences de croissance et d’amélioration.
 
@@ -57,7 +57,7 @@ Lorsque notre approche est trop exigeante, moralisatrice ou critique, nous compr
 
 Nous pouvons toujours servir Dieu et nos semblables avec enthousiasme et dévouement, mais nos chances de succès sont grandement améliorées lorsque notre approche est faite approche est faite avec amour, amitié et tolérance Comme l’a dit Jésus :
 
-> _Dans le royaume de mon Père, il n’y aura ni Juifs ni Gentils, mais seulement ceux qui cherchent la perfection par le service, car je déclare que quiconque veut être grand dans le royaume de mon Père doit d’abord devenir le serviteur de tous. Si vous acceptez de servir vos semblables, vous siègerez avec moi dans mon royaume, de même que je siègerai bientôt auprès de mon Père dans son royaume pour avoir servi dans la similitude de la créature._ <a id="a60_409"></a>[[LU 137:8.11](/fr/The_Urantia_Book/137#p8_11)]
+> _Dans le royaume de mon Père, il n’y aura ni Juifs ni Gentils, mais seulement ceux qui cherchent la perfection par le service, car je déclare que quiconque veut être grand dans le royaume de mon Père doit d’abord devenir le serviteur de tous. Si vous acceptez de servir vos semblables, vous siègerez avec moi dans mon royaume, de même que je siègerai bientôt auprès de mon Père dans son royaume pour avoir servi dans la similitude de la créature._ <a id="a59_450"></a>[[LU 137:8.11](/fr/The_Urantia_Book/137#p8_11)]
 
 Continuons à travailler avec dévotion et enthousiasme. Soyons patients, tolérants et affectueux.
 

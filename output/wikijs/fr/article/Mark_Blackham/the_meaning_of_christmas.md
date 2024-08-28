@@ -59,9 +59,9 @@ Les raisons de l’effusion de Micaël sont nombreuses et sont mieux résumées 
 9. Faire une nouvelle révélation de l’homme à Dieu. Révéler Dieu dans la chair et surtout aux créatures de la chair.
 10.  Exposer comme jamais auparavant à Nébadon les possibilités transcendantes que peut atteindre un humain connaissant Dieu pendant la courte carrière de l’existence mortelle.
 
-Et après tout cela, il nous est rappelé de « _ne jamais perdre de vue le fait que le **but spirituel suprême** de l’effusion de Micaël était de renforcer la révélation de Dieu_ » <a id="a60_173"></a>[[LU 120:4.4](/fr/The_Urantia_Book/120#p4_4) emphasis added].
+Et après tout cela, il nous est rappelé de « _ne jamais perdre de vue le fait que le **but spirituel suprême** de l’effusion de Micaël était de renforcer la révélation de Dieu_ » <a id="a61_179"></a>[[LU 120:4.4](/fr/The_Urantia_Book/120#p4_4) emphasis added].
 
-Ce sont les nombreuses raisons merveilleuses et extraordinaires de célébrer l’effusion de Micaël sur Urantia, pas seulement à Noël, mais chaque jour de notre vie. En effet, nous avons beaucoup de chance d’être nés sur cette « planète sombre et confuse ». Pour l’éternité, Urantia restera « _le sanctuaire sentimental de tout Nébadon, le chef de dix millions de mondes habités, la demeure mortelle de Christ Michaël_ » <a id="a62_395"></a>[[LU 119:8.8](/fr/The_Urantia_Book/119#p8_8)].
+Ce sont les nombreuses raisons merveilleuses et extraordinaires de célébrer l’effusion de Micaël sur Urantia, pas seulement à Noël, mais chaque jour de notre vie. En effet, nous avons beaucoup de chance d’être nés sur cette « planète sombre et confuse ». Pour l’éternité, Urantia restera « _le sanctuaire sentimental de tout Nébadon, le chef de dix millions de mondes habités, la demeure mortelle de Christ Michaël_ » <a id="a63_418"></a>[[LU 119:8.8](/fr/The_Urantia_Book/119#p8_8)].
 
 Noël est l’occasion de rendre grâce à Micaël de Nébadon et de célébrer la merveille de la naissance d’un Fils Créateur sur Urantia pour offrir à toute l’humanité, et même à un univers entier, un portrait éclairé de la véritable nature d’un Dieu aimant.
 

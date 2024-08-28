@@ -64,7 +64,7 @@ Et converti au « je »s
 > 
 > « Tu es chargé de sauver les hommes, non de les juger. À la fin de ta vie terrestre, tu espéreras être traité avec miséricorde. Je te demande donc, durant ta vie mortelle, de témoigner de la miséricorde à tous tes frères dans la chair. Ne commets pas la faute d'essayer d'ôter une paille de l'œil de ton frère alors qu'il y a une poutre dans le tien. Après avoir rejeté la poutre de ton propre oil, tu verras d'autant plus clair pour ôter la paille de l'œil de ton frère.
 > 
-> « Discerne clairement la vérité ; vis avec intrépidité la vie de droiture ; c'est ainsi que tu seras mon apôtre et l'ambassadeur de mon Père. » (. . . ) [LU 140:3.14-18](/fr/The_Urantia_Book/140#p3_18)
+> « Discerne clairement la vérité ; vis avec intrépidité la vie de droiture ; c'est ainsi que tu seras mon apôtre et l'ambassadeur de mon Père. » (. . . ) <a id="a66_155"></a>[LU 140:3.14-18](/fr/The_Urantia_Book/140#p3_18)
 
 Qu'en pensez-vous ?
 

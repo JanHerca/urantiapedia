@@ -53,7 +53,7 @@ Contactez : [Christopher Moseley](mailto:chrmos50@gmail.com)
 
 Venez explorer avec nous les possibilités de cette insaisissable contrepartie philosophique humaine qu’est la mota en ces temps d’incertitude économique et financière.
 
-> _Rares sont les mortels qui osent jamais retirer la totalité de leurs crédits de personnalité établis par les ministères conjugués de la nature et de la grâce. La plupart des âmes appauvries sont vraiment riches, mais elles refusent de le croire._ <a id="a56_219"></a>[[LU 48:7.6](/fr/The_Urantia_Book/48#p7_6)]
+> _Rares sont les mortels qui osent jamais retirer la totalité de leurs crédits de personnalité établis par les ministères conjugués de la nature et de la grâce. La plupart des âmes appauvries sont vraiment riches, mais elles refusent de le croire._ <a id="a55_250"></a>[[LU 48:7.6](/fr/The_Urantia_Book/48#p7_6)]
 
 Programme (anglais)
 

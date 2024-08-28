@@ -40,7 +40,7 @@ Sainte-Julie
 
 Suite à l'excellente conférence de Gaétan Charland donnée le 19 mars 2023 et ayant pour titre « _La pensée luciférienne, la révélation et nous_ », je partage avec vous mes commentaires !
 
-Selon ma conception, liberté et démocratie véritable sont intimement reliées puisque la liberté des indivi- dus est inclusive dans ce système gouvernemental. Selon le Melchizédek de Nébadon en [LU 71:2.1](/fr/The_Urantia_Book/71#p2_1) (801.13) il est dit : « _Bien que la démocratie soit un idéal, elle est le produit de la civilisation et non de l'évolution._ »
+Selon ma conception, liberté et démocratie véritable sont intimement reliées puisque la liberté des indivi- dus est inclusive dans ce système gouvernemental. Selon le Melchizédek de Nébadon en <a id="a42_193"></a>[LU 71:2.1](/fr/The_Urantia_Book/71#p2_1) (801.13) il est dit : « _Bien que la démocratie soit un idéal, elle est le produit de la civilisation et non de l'évolution._ »
 
 Alors, puisque la démocratie est un idéal, que nous offre-telle comme avantages sur les autres formes de gouvernement? Selon Wikipédia, la démocratie est un système politique qui garantit la souveraineté aux citoyens qui l'exerce de façon directe à travers le droit de vote. Ces valeurs concernent le respect de la Constitution et de la primauté de droit, le respect de l'autorité légitime des ministres, la défense des droits et libertés de la personne qui constitue le fondement d'une société démocratique et l'acception de la responsabilité de favoriser le développement social et économique. La démocratie repose sur les libertés politiques, syndicales et de la liberté de culte.
 
@@ -48,7 +48,7 @@ Sans être un politologue, si nous comparons ce qu'est la démocratie et ses ava
 
 Finalement, vous me diriez « _pourquoi citer cette longue liste de manière de gouverner?_ », et bien c'est pour faire suite à la conférence de Gaétan en la reliant à cette citation d'un Puissant Messager attaché au gouvernement du superunivers d'Orvonton :
 
-> _Nulle erreur n'est plus grande que la sorte de duperie de soi qui conduit des êtres intelligents à la soif d'exercer leur pouvoir sur d'autres êtres, afin de les priver de leurs libertés naturelles. La règle d'or de l'équité humaine s'élève contre toutes ces fraudes, injustices, égoïsmes et manques de droiture. Seule une liberté authentique et véritable est compatible avec le règne de l'amour et le ministère de la miséricorde._ [LU 54:1.8](/fr/The_Urantia_Book/54#p1_8)
+> _Nulle erreur n'est plus grande que la sorte de duperie de soi qui conduit des êtres intelligents à la soif d'exercer leur pouvoir sur d'autres êtres, afin de les priver de leurs libertés naturelles. La règle d'or de l'équité humaine s'élève contre toutes ces fraudes, injustices, égoïsmes et manques de droiture. Seule une liberté authentique et véritable est compatible avec le règne de l'amour et le ministère de la miséricorde._ <a id="a50_435"></a>[LU 54:1.8](/fr/The_Urantia_Book/54#p1_8)
 
 À la lumière de cette citation, qu'avons-nous comme exemple frappant de vraie et de fausse liberté dans le monde d'aujourd'hui? Je m'en tiendrai à quatre exemples ayant fait la manchette des journaux !
 
@@ -79,7 +79,7 @@ Finalement, vous me diriez « _pourquoi citer cette longue liste de manière de 
 À la lumière de ces quatre exemples parmi tant d'autres non cités, il est clair que les sophismes de Lucifer contenus dans son manifeste de liberté et amplement soutenus par Caligastia sur Urantia, ont fait de nombreux ravages sur notre monde amenant son lot de souffrances et de morts. À nous d'ouvrir grand nos yeux pour voir la vérité en face et de prendre les mesures qui s'imposent pour remédier à la situation en marche vers l'ère de lumière et de vie !
 <br style="clear:both;"/>
 
-> _La sagesse elle-même n'est divine et sure que si elle procède d'une large vue cosmique et de mobiles spirituels._ [LU 54:1.7](/fr/The_Urantia_Book/54#p1_7)
+> _La sagesse elle-même n'est divine et sure que si elle procède d'une large vue cosmique et de mobiles spirituels._ <a id="a81_117"></a>[LU 54:1.7](/fr/The_Urantia_Book/54#p1_7)
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_04/034.jpg">
