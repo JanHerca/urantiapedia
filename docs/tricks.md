@@ -326,6 +326,12 @@ with this:
 </figure>
 ```
 
+<a href="https://bit.ly/4fSzbc5">
+<figure id="Figure_2" class="image urantiapedia">
+<img src="/image/article/UF_News_Online/2021_04/038.jpg">
+</figure>
+</a>
+
 ## Emojis
 
 - The Urantia Book :blue_book: (`:blue_book:`)

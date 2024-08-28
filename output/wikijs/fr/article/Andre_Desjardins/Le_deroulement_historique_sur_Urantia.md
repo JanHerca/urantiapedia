@@ -247,6 +247,10 @@ Cette liberté personnelle malgré leur fidélité et leur loyauté à leur enga
 
 > « ... Lucifer et Caligastia avaient tous deux été patiemment instruits et affectueusement avertis de leur tendance à critiquer et du développement subtil de leur orgueil, qui avait pour corollaire un sentiment exagéré de leur propre importance.» <a id="a247_248"></a>[LU 66:8.2](/fr/The_Urantia_Book/66#p8_2)
 
+<figure id="Figure_6b" class="image urantiapedia">
+<img src="/image/article/Reflectivite/2023_08/012.jpg">
+</figure>
+
 La naissance de la rébellion de Lucifer se répandit insidieusement dans son mental, il se nourrit lui-même de ses convictions personnelles et se persuada de contrôler tout le processus d'éducation selon ses plans projetés qui culminèrent finalement par une réelle rébellion. Lucifer possédait un sentiment de supériorité issue d'un orgueil du moi et de ses antécédents de service dans de nombreux systèmes planétaires; il se nourrit de ses succès antérieurs au point de se tromper luimême en se persuadant que sa rébellion agirait effectivement pour le bienêtre des habitants d'Urantia, du système planétaire, et même de l'univers local de Nébadon. La conduite ultérieure de Lucifer, un brillant administrateur Lanonandek malgré une vaste expérience de service dans différents systèmes planétaires démontre que le libre arbitre d'une personnalité, son autodétermination associée avec un sentiment de sa propre importance peut amener une personnalité à se détourner des plans établis afin de satisfaire des désirs personnels. Plusieurs occasions lui furent présentées pour se repentir de sa dissidence mentale, mais il rejeta toute forme de miséricorde de son Fils Créateur Micaël avec un mépris et un dédain croissant.
 
 Lucifer a su entraîner Caligastia son subordonné immédiat et Satan, le premier lieutenant membre du même groupe primaire de Lanonandek. Satan fut mandaté par Lucifer pour plaider sa cause et promouvoir la liberté individuelle et l'autonomie systémique.

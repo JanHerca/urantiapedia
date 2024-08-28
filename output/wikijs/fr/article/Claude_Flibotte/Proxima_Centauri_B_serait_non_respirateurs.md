@@ -89,7 +89,7 @@ Sont-ils constitués de cellules comme le sont nos corps ? Sa conclusion est oui
 Une autre particularité pour ces non-respirateurs réside dans la communication. Comment font-ils pour se comprendre entre eux ? Pas d'air, pas de parole. Alors, il suppose qu'ils utilisent d'autres moyens de communication. Il pense à la communication par signes utilisés par les personnes mal entendantes, cependant à la noirceur cette méthode s'avère inefficace. Il suggère alors les ondes radio. Les non-respirateurs pourraient avoir un organe spécialisé comme celui des anguilles électriques. En faisant varier le courant dans un matériau conducteur avec une variation dans le rythme, cela générerait des ondes électromagnétiques, des ondes radio. Évidemment, il faudrait un autre organe pour les détecter ce qui, selon lui, n'aurait pas été un obstacle pour les Porteurs de Vie. Bref, il est certain que les Porteurs de Vie auront tout prévu pour que la vie de ces humanoïdes soit possible et agréable.
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/Reflectivite/2023_03/019.jpg">
+<img src="/image/article/Reflectivite/2023_03/020.jpg">
 <figcaption>Illustration artistique de la planète Proxima B du Centaure. Source : <a href="https://bit.ly/3AsSx7u">Youtube</a></figcaption>
 </figure>
 

@@ -63,9 +63,14 @@ Nous voulons vous aider à comprendre ce que nous avons à dire. Nous voulons vo
 
 Pour raconter cette histoire depuis le début, nous devons compter sur nos propres moyens. Nous devons utiliser ces mêmes mots lorsque nous parlons d'eux. Cette histoire ne peut donc pas être complète. Il s'agit simplement de l'histoire de ce que nous voulons dire lorsque nous utilisons ces mots dans les fascicules. Ces articles vont parler de la Déité et de la grande création. Certains des articles sont écrits par mon groupe — un groupe d'êtres qui sont venus d'Orvonton à Urantia pour faire ce travail.
 
+<figure id="Figure_2b" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Reflectivite/2024_03/007.jpg">
+</figure>
+
 Votre monde, Urantia, est l'un des nombreux mondes sur lesquels vivent des gens comme vous. Votre monde, avec beaucoup d'autres, constitue l'univers local de Nébadon. Cet univers local, avec beaucoup d'autres, constitue le superunivers d'Orvonton. Le superunivers d'Orvonton n'est pas tout ce qu'il y a. Il y en a six autres comme lui, sept en tout. Tous les sept tournent autour d'un lieu appelé Havona. Havona est l'univers central. Havona, l'univers central, n'a jamais eu de commencement et n'aura jamais de fin. C'est un univers de perfection divine. Au centre même de cet univers central se trouve l'île du Paradis. Le Paradis ne bouge pas. C'est le point central de l'infini. Dieu y vit.
 
 Les sept superunivers se développent et se transforment. L'univers central est parfait. Lorsque nous les considérons tous ensemble, nous les appelons le grand univers. Le grand univers est habité par des gens. Il a un gouvernement. Mais ce n'est pas toute la création. Le grand univers lui-même n'est qu'une partie de quelque chose d'encore plus grand. Il fait partie du maitre univers. Le maître univers comprend des univers où personne ne vit encore. Ces univers se trouvent dans l'espace.
+<br style="clear:both;"/>
 
 ## I. Déité et divinité
 

@@ -140,6 +140,7 @@ La foi crée un pont céleste entre votre esprit matériel et la phase spirituel
 C'est ce que vous croyez plutôt que ce que vous savez qui détermine ce que vous pouvez réaliser dans la vie. Toutes les connaissances de l'univers ne vous aideront pas à être heureux ou à progresser spirituellement. La foi va au-delà de la connaissance en embrassant des réalités que vous ne pouvez pas (encore) comprendre.
 
 Tout comme il existe des lois naturelles de la science, il existe des lois surnaturelles de l'Esprit. L'une de ces lois immuables est que ni Dieu ni aucun de ses assistants célestes n'essaieront jamais de vous changer ou de vous recréer sans votre consentement explicite. Le Créateur d'un univers veut que vous veniez à lui, mais seulement si vous voulez venir de votre plein gré.
+<br style="clear:both;"/>
 
 > Le Créateur refuse d'exercer une contrainte sur le libre arbitre spirituel de ses créatures matérielles ou de le forcer à se soumettre. <a id="a143_138"></a>[LU 1:1.2](/fr/The_Urantia_Book/1#p1_2)
 

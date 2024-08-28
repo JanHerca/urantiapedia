@@ -56,7 +56,7 @@ Notre séjour à Dakar dura vingt et un jours et nous permit d'apprécier pleine
 </figure>
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Reflectivite/2023_05/012.jpg">
+<img src="/image/article/Reflectivite/2023_05/013.jpg">
 <figcaption>Dakar, capitale du Sénégale. citycake.f.</figcaption>
 </figure>
 

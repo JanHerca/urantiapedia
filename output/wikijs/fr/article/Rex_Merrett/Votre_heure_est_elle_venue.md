@@ -35,7 +35,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Reflectivite/Rex_Merrett.jpg">
+<img src="/image/article/Reflectivite/Rex_Merett.jpg">
 </figure>
 
 _Rex Merrett_
@@ -68,7 +68,7 @@ Au cours du voyage méditerranéen, Jésus avait soigneusement étudié les gens
 
 Il retourna en Galilée pour attendre le début de l'œuvre de sa vie en tant qu'enseignant public de la vérité. Il travaillait à nouveau sur des bateaux dans l'atelier de Zébédée à Capharnaüm lorsqu'un matin il déposa ses outils en déclarant : «Mon heure est venue» (<a id="a68_265"></a>[LU 134:9.8](/fr/The_Urantia_Book/134#p9_8)).
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2024_07/018.jpg">
 </figure>
 

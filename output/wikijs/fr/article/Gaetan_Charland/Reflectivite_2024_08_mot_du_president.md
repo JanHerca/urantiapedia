@@ -14,7 +14,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Reflectivite/2024_07">
+        <a href="/fr/article/Reflectivite/2024_08">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 382 — Août 2024 — Contenu</span>
         </a>
         </td>
@@ -78,7 +78,7 @@ Aimer c'est servir !
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Reflectivite/2024_07">
+        <a href="/fr/article/Reflectivite/2024_08">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 382 — Août 2024 — Contenu</span>
         </a>
         </td>

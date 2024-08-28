@@ -45,6 +45,7 @@ Sainte-Julie
 _Dr William S Sadler MD_
 
 La composition de ce texte est basée sur le livre « The Urantia Book Workbooks, volume III » du Dr William S. Sadler, MD. Voici la suite du texte du Réflectivité du mois d'octobre 2023.
+<br style="clear:both;"/>
 
 ## Le plan de survie tel qu'il est détaillé dans Le Livre d'Urantia
 

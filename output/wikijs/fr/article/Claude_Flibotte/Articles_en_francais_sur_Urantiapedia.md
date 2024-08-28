@@ -56,7 +56,7 @@ Au total, près **de 1000 articles** ont été mis en ligne ce mois-ci.
 
 Voici le lien du site Web Urantiapedia si vous voulez faire d'amples découvertes : https://urantiapedia.org/fr/home
 
-Aussi, nous avons ajouté les archives du journal Réflectivité de 1982 à 2010 à l'adresse suivante : https://www.urantiaquebec.ca/publications/reflectivite-archives, et les parutions suivantes de 2011 à aujourd'hui à cette adresse Web : https:// www.urantia-quebec.ca/publications/reflectivite
+Aussi, nous avons ajouté les archives du journal Réflectivité de 1982 à 2010 à l'adresse suivante : https://www.urantiaquebec.ca/publications/reflectivite-archives, et les parutions suivantes de 2011 à aujourd'hui à cette adresse Web : https://www.urantia-quebec.ca/publications/reflectivite
 
 Vous avez également les archives du journal Le Lien disponibles à cette adresse Web : http://lien.urantia.fr/
 

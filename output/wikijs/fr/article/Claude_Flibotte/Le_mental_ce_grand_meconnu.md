@@ -72,7 +72,7 @@ Après avoir pris conscience du prémental particulier des trois déités paradi
 Il est intéressant de constater la nature du mental infini, car il est théoriquement coordonné avec l'absolu de l'esprit et l'absolu de l'énergie, une manière différente de dire que ce mental infini dérive du prémental du Père Universel et de celui du Fils Éternel en présence de l'Ile du Paradis.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Reflectivite/2023_02/010.jpg">
+<img src="/image/article/Reflectivite/2023_02/011.jpg">
 <figcaption>Illustration : Gary Tonge. <a href="">https://visionafar.com</a></figcaption>
 </figure>
 

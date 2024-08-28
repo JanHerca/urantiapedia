@@ -42,6 +42,7 @@ _Claude Flibotte_
 Sainte-Julie
 
 Lors d'une réunion récente du groupe d'étude « Découverte» animé par Line StPierre et Gaétan Charland, nous avons discuté au sujet du pouvoir qu'avait Jésus de chasser les démons du mental instable de certains individus. Cette discussion prenait origine de la lecture de la citation suivante où il est dit que même les soixante-dix messagers formés par Jésus avaient réussi à faire de même lors de leur première tournée de prédication au départ de Magadan.
+<br style="clear:both;"/>
 
 > Quand les soixante-dix racontèrent que «même les démons leur étaient soumis», ils faisaient allusion aux cures merveilleuses qu'ils avaient opérées sur les victimes de désordres nerveux. Néanmoins, ces ministres avaient traité avec succès quelques cas de possession réelle par des esprits. Parlant de ces cas, Jésus dit : «Il n’est pas étonnant que ces esprits mineurs désobéissants vous soient assujettis, car j’ai vu Satan tomber du ciel comme un éclair. Mais ne vous réjouissez pas tant de cela, car je vous déclare que, dès mon retour auprès de mon Père, nous enverrons notre esprit conjoint dans le mental même des hommes, de sorte que ces quelques rares esprits égarés ne pourront plus pénétrer dans le mental des mortels infortunés. <a id="a45_742"></a>[LU 163:6.2](/fr/The_Urantia_Book/163#p6_2)
 

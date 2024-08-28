@@ -51,7 +51,7 @@ Comme chaque année, deux postes au sein du conseil d'administration de l'associ
 Trop souvent nous avons tendance à placer sur les épaules d'autres ce que nous pourrions porter sur les nôtres. Pour que les êtres célestes nous appuient dans nos efforts de progression spirituelle, nous devons mettre l'épaule à la roue. Sans la contribution des membres du conseil et de quelques autres bénévoles qui les soutiennent, il n'y aurait pas de conférences, pas de site internet, pas de travaux secondaires, pas de publications tel le Réflectivité, le Tidings, le Journal et les publications quotidiennes de citations sur Facebook. Il n'y aurait pas de moyens faciles pour organiser et publier les groupes d'étude, pas d'envoi de livres en Haïti, pas de publication pour les différentes écoles du _Livre d'Urantia_, pas de traduction en Français et j'en passe.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Reflectivite/2024_01/string.jpg">
+<img src="/image/article/Reflectivite/2024_01/001.jpg">
 <figcaption>Illustration Del Parson. <a href="http://www.delparson.com/gallery.html">Lien</a></figcaption>
 </figure>
 

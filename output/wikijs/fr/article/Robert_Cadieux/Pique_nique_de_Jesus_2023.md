@@ -40,7 +40,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 </figure>
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Reflectivite/Robert_Cadieux.jpg">
+<img src="/image/article/Reflectivite/Robert_Cadieux_3.jpg">
 </figure>
 
 _Robert Cadieux_
@@ -60,6 +60,10 @@ Chaque année, nos amis Bertin Perron et Julien Audet arrivent tôt, préparent 
 
 À l'an prochain. Nous sommes invités, alors venons.
 <br style="clear:both;"/>
+
+<figure id="Figure_3" class="image urantiapedia">
+<img src="/image/article/Reflectivite/2023_09/007.jpg">
+</figure>
 
 ## Références
 

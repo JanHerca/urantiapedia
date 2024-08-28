@@ -212,7 +212,7 @@ _La Trinité du Paradis_. C'est l'union éternelle de la Déité du Père Univer
 Les deux autres trinités sont appelées «première trinité expérientielle » et «deuxième trinité expérientielle ». Nous les appelons également les trinités post-Havona. Aucune de ces deux trinités ne peut être infinie. Pourquoi ? Parce qu'elles sont composées de divinités dérivées — des divinités dérivées en contraste avec les divinités originelles (le Père, le Fils et l'Esprit). Ces divinités dérivées sont produites par la Trinité du Paradis. De cette manière, Dieu enrichit l'infinité de la divinité. Il ne peut guère élargir l'infinité de la divinité, mais il peut l'enrichir. Il l'enrichit par l'expérience. L'expérience de qui ? L'expérience des créatures et des Créateurs qui travaillent au niveau fini de l'existence et des autres qui travaillent au niveau absonite de l'existence.
 
 <figure id="Figure_7" class="image urantiapedia">
-<img src="/image/article/Reflectivite/2024_04/007.jpg">
+<img src="/image/article/Reflectivite/2024_04/008.jpg">
 <figcaption>Plusieurs chemins mènent vers Dieu ! Illustration produite par l'IA.</figcaption>
 </figure>
 

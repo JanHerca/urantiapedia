@@ -97,11 +97,15 @@ Tout au long de la conférence, sur l'écran géant de l'auditorium, défilaient
 
 Voici une de ces œuvres parmi mes préférés créés par **Dipti Bhakti**, un jeune lecteur qui m'a beaucoup impressionné : « **The Light of the Univers** »:
 
-## https://www.youtube.com/watch?v=dX-eh5jHgrs
+https://www.youtube.com/watch?v=dX-eh5jHgrs
 
 Les repas sous forme de buffet étaient succulents et variés pour tous les goûts. Nos soirées furent agréablement enrichies par ces 2 talentueux artistes de renommées internationales : **Rebecca Oswald**, devenue ma nouvelle amie et sœur spirituelle, et **Bob Solone** qui a joué une demande spéciale de Robert Cadieux «Smile». Je connaissais cette chanson, mais je ne savais pas qu'elle était de Charlie Chaplin.
 
-## https://www.youtube.com/watch?v=xyHoohNyYkw
+<a href="https://bit.ly/3MqJWVI">
+<figure id="Figure_4" class="image urantiapedia">
+<img src="/image/article/UF_News_Online/2024_05/021.jpg">
+</figure>
+</a>
 
 Tous ces débordements d'amour, ces communions d'âmes, sortis du virtuel pour s'exprimer dans la réalité, resteront ancrés dans mon cœur pendant toute ma vie.
 

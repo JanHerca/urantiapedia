@@ -110,7 +110,11 @@ Fraternellement !
 
 Lauren Daigle — Saint Ferdinand (feat. Jon Batiste \& Natalie Hemby)
 
-https://www.youtube.com/watch?v=UE1Ax4iYZa4
+<a href="https://bit.ly/3MorkWl">
+<figure id="Figure_4" class="image urantiapedia">
+<img src="/image/article/Reflectivite/2023_06/099.jpg">
+</figure>
+</a>
 
 ## Références
 

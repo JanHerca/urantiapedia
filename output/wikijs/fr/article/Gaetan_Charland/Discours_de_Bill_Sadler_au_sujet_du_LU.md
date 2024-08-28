@@ -114,7 +114,7 @@ Je ne pense pas que nous devrions nous laisser trop absorber par les chiffres, l
 
 **MEMBRE DE L'AUDIENCE** : Bill, quand nous avons eu ce Livre pour la première fois et que nous l'avions eu assez longtemps pour en savoir un peu à son sujet, nous pensions que c'était un problème de pédagogie. Mais plus tard, j'ai découvert que ce n'était pas le cas. Vous devez trouver des personnes dont l'âme est mûre pour l'absorber.
 
-## BILL SADLER : C'est vrai
+**BILL SADLER** : C'est vrai
 
 **MEMBRE DE L'AUDIENCE** : Et comment allez-vous trouver ces quelques éparpillés, ici et là, — voyez, c'est le problème ; ce n'est pas un problème de pédagogie parce que vous parlez juste à un tas de gens qui y sont imperméables.
 
@@ -144,7 +144,7 @@ J'ai juste été tout simplement perplexe de nombreuses fois quant à quoi faire
 
 **MEMBRE DE L'AUDIENCE** : Nous n'avons pas trouvé de moyen de trouver des contacts.
 
-## BILL SADLER : C'est vrai.
+**BILL SADLER** : C'est vrai.
 
 **MEMBRE DE L'AUDIENCE** : Nous ne savons pas qui a faim, et je ne sais pas comment les trouver.
 

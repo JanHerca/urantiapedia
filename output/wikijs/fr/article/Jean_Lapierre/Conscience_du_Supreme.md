@@ -46,9 +46,9 @@ Lors de notre groupe d'étude, nous avons réalisé que nul enseignement sophist
 C'est que dans les révélations d'Urantia nous pouvons déduire plusieurs raisons pour justifier les révélations d'époque :
 <br style="clear:both;"/>
 
-1. Pour étendre notre conscience cosmique et rehausser notre perception spirituelle <a id="a48_84"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2).
-2. Les religions institutionnelles actuellement sur notre planète possèdent très peu des caractéristiques souhaitables décrites au fascicule 99.
-3. -
+1\. Pour étendre notre conscience cosmique et rehausser notre perception spirituelle <a id="a48_84"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2).
+2\. Les religions institutionnelles actuellement sur notre planète possèdent très peu des caractéristiques souhaitables décrites au fascicule 99.
+3\.
 
 > La vérité peut n'être inspirée que relativement, bien que la révélation soit invariablement un phénomène spirituel. Les exposés se référant à la cosmologie ne sont jamais inspirés, mais de telles révélations ont une immense valeur, en ce sens qu'elles clarifient au moins provisoirement les connaissances :
 > 1. Elles réduisent la confusion en éliminant d'autorité les erreurs.
@@ -57,7 +57,7 @@ C'est que dans les révélations d'Urantia nous pouvons déduire plusieurs raiso
 > 4. Elles fournissent des renseignements qui comblent des lacunes fondamentales dans les connaissances acquises par ailleurs.
 > 5. Elles présentent des données cosmiques d'une manière qui éclaire les enseignements spirituels contenus dans la révélation qui les accompagne. <a id="a57_147"></a>[LU 101:4.5-10](/fr/The_Urantia_Book/101#p4_5)
 
-4. Le grand décalage dans nos sociétés entre les progrès matériels et scientifiques par rapport aux progrès spirituels, lesquels demeurent embryonnaires, résulte principalement de la rébellion de Lucifer et de la faute adamique.
+4\. Le grand décalage dans nos sociétés entre les progrès matériels et scientifiques par rapport aux progrès spirituels, lesquels demeurent embryonnaires, résulte principalement de la rébellion de Lucifer et de la faute adamique.
 
 (Retournons lire 118:8)
 

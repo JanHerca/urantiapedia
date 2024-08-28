@@ -70,6 +70,10 @@ Il n'y a pas de bonheur sans progrès, et pour progresser il faut faire des effo
 
 > La mort n'a rien ajouté aux possessions intellectuelles ni à la dotation spirituelle, mais elle a ajouté au statut expérientiel la conscience de _la survie_» <a id="a70_160"></a>[LU 48:7.25](/fr/The_Urantia_Book/48#p7_25)
 
+<figure id="Figure_2" class="image urantiapedia">
+<img src="/image/article/Reflectivite/2024_02/017.jpg">
+</figure>
+
 ## Conclusion
 
 Inutile de rêver du futur！Mieux vaut vivre intensément chaque jour, et ne pas remettre à plus tard ce que l'on peut faire aujourd'hui. Voici quelques citations qui appuient ce conseil :

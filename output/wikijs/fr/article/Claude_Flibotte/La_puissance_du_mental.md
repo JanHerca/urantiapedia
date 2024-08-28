@@ -145,7 +145,7 @@ Lorsque nous serons au Paradis, en association avec un autre finalitaire ou avec
 ## La raison de la présence de l'Ajusteur dans le mental humain !!
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="/image/article/Reflectivite/2023_06/007.jpg">
+<img src="/image/article/Reflectivite/2023_06/008.jpg">
 <figcaption>messagecelestes.ca</figcaption>
 </figure>
 

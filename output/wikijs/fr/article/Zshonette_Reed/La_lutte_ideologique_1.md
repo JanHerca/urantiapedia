@@ -65,7 +65,7 @@ Puis, il y eut Manotia, la commandante en second des séraphins de Satania, qui 
 Nous avons le récit d'Ellanora, une jeune femme de la planète voisine de Panoptia, qui a pris la direction des races humaines et a empêché son monde d'être victime de leur prince planétaire rebelle.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Reflectivite/Zshonette_Reed.jpg">
+<img src="/image/article/Reflectivite/2023_03/013.jpg">
 <figcaption>Une vue imaginée de la planète Panoptia. <a href="https://bit.ly/4dUaaeO">Youtube</a>.</figcaption>
 </figure>
 

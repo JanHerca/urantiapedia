@@ -35,7 +35,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Reflectivite/Clermont_Beaudry.jpg">
+<img src="/image/article/Reflectivite/Clemont_Beaudry.jpg">
 </figure>
 
 _Clermont Beaudry_

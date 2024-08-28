@@ -35,7 +35,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Reflectivite/Claude_Flibotte.jpg">
+<img src="/image/article/Reflectivite/Claude_Flibotte_3.jpg">
 </figure>
 
 _Claude Flibotte_
