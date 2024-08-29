@@ -1,14 +1,31 @@
 ---
-title: Adán y Eva
+title: "Adán y Eva"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: Anthropology, Biology, Genetics, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Halbert Katzen J.D.** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+_Por Halbert Katzen J.D._
 
 ## Resumen
 
@@ -489,7 +506,9 @@ Naturalmente, basándonos en la tendencia general hacia corroboraciones de infor
 
 ## Enlaces externos
 
-* Este informe en el sitio web UBTheNews: http://ubannotated.com/ubthenews/topics/adam_and_eve/
+* [Este informe en el sitio web UBTheNews](http://ubannotated.com/ubthenews/topics/adam_and_eve/)
+* [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios Temáticos en el sitio UBTheNews]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
 
 ### Problemas políticos
 
@@ -587,6 +606,24 @@ Naturalmente, basándonos en la tendencia general hacia corroboraciones de infor
 	Resumen: El proceso definitorio en la evolución de los primates y los seres humanos en particular, es la dramática expansión del cerebro. Junto a muchos tipos de genes que potencialmente podrían contribuir a este proceso, los genes que regulan específicamente el tamaño del cerebro durante el desarrollo puede ser especialmente relevantes. A continuación, se analiza la evolución del gen microcefalina, cuya mutación nula en los humanos causa microcefalia primaria, un defecto congénito caracterizado por una severa reducción en el tamaño del cerebro, sin otras alteraciones macroscópicas. Se demuestra que la evolución de la secuencia de la proteína microcefalina está muy acelerado en todo el linaje de sus antepasados ​​simios a los humanos y los chimpancés, con la aceleración más pronunciada se observa en los períodos iniciales de este linaje. Además, demostramos que esta evolución acelerada está unida a las firmas de selección positiva. El análisis estadístico indica que cerca de 45 cambios ventajosos de aminoácidos en la microcefalina podrían haber ocurrido durante los 25-30 millones de años de evolución desde principios de progenitores simios a los humanos modernos. Estas observaciones apoyan la idea de que la evolución molecular de la microcefalina puede haber contribuido a la expansión del cerebro en el linaje simio que conduce a los humanos. Recientemente hemos demostrado que el ASPM, otro gen relacionado con la microcefalia primaria, experimentó una fuerte selección positiva en el linaje símico que conduce a los humanos. Por tanto, proponemos que los genes que regulan el tamaño del cerebro durante el desarrollo puede tener la tendencia general de contribuir a la evolución del cerebro en los primates y los seres humanos en particular.
 	
 	http://hmg.oxfordjournals.org/cgi/content/full/13/11/1139
+
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

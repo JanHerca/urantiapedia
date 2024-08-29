@@ -1,14 +1,31 @@
 ---
-title: Primera migración a las Américas
+title: "Primera migración a las Américas"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: Anthropology, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Halbert Katzen J.D.** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+_Por Halbert Katzen J.D._
 
 ## Resumen
 
@@ -221,7 +238,9 @@ Ushki (7) | 14300 | Â± | 200 | GIN- | Mochanov 1978:62 |
 
 ## Enlaces externos
 
-* Este informe en el sitio web UBTheNews: https://ubannotated.com/wp-content/uploads/2018/03/Americas.pdf
+* [Este informe en el sitio web UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Americas.pdf)
+* [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios Temáticos en el sitio UBTheNews]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
 * *El Libro de Urantia*: <a id="a224_25"></a>[LU 64:6](/es/The_Urantia_Book/64#p6)
 * *Paleoamerican Origins* (*Orígenes paleoamericanos*), Smithsonian, Paleoamerican Origins, 1999.
 	 
@@ -256,6 +275,24 @@ Ushki (7) | 14300 | Â± | 200 | GIN- | Mochanov 1978:62 |
 * *THE PALEOAMERICANS*, por James Q. Jacobs, 2001.
 	 
 	http://www.jqjacobs.net/anthro/paleoamericans.html
+
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

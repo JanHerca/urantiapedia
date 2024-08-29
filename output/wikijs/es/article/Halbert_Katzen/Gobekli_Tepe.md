@@ -3,12 +3,29 @@ title: Gobekli Tepe
 description: 
 published: true
 date: 2021-11-28T11:16:41.388Z
-tags: 
+tags: Anthropology, article
 editor: markdown
 dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
-Autor: **Halbert Katzen J.D.** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+_Por Halbert Katzen J.D._
 
 <figure id="Gobekli_Tepe_fig_1" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Gobekli_Tepe/gobeklitepe01.jpg" width="1200" heigth="996">
@@ -301,23 +318,35 @@ El relato de *El Libro de Urantia* sobre el destino de los adamitas ayuda mucho 
 
 ## Enlaces externos
 
-* Este informe en el sitio web de UBTheNews: https://ubannotated.com/main-menu/animated/topical-studies/gobekli-tepe/
-
+* [Este informe en el sitio web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/gobekli-tepe/)
+* [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios Temáticos en el sitio UBTheNews]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
 * Wikipedia: https://es.wikipedia.org/wiki/G%C3%B6bekli_Tepe
-
 * Sitio web de Andrew Collins sobre Gobekli Tepe: http://www.andrewcollins.com/page/articles/Gobekli.htm
-
 * Shaena Montanari, *Hints of Skull Cult Found at World's Oldest Temple*, National Geographic, junio 2017. https://www.nationalgeographic.com/news/2017/06/skulls-cult-turkey-archaeology-neolithic-gobekli/. Trata las marcas de cráneos de Gobekli Tepe.
-
 * John Hurd y Dan Thompson, *Preliminary Site Conservation Inspection and First Mortar and Plaster Documentation Report, Göbekli Tepe, Turkey*, *Global Heritage Fund*, septiembre 2011. http://ghn.globalheritagefund.com/uploads/documents/document_2018.pdf. Gobekli Tepe tiene la evidencia más temprana para el desarrollo del cemento.
-
 * Byron Belitsos organizó una conferencia sobre «Revelación evolutiva» en junio de 2014. Esta presentación de Halbert Katzen aborda cuestiones relacionadas con la aceptación progresiva de la revelación de Urantia, ya que esto se relaciona con cómo los nuevos descubrimientos y avances científicos respaldan cada vez más la historia en _El Libro de Urantia_. Una revisión del informe *Gobekli Tepe* es parte de esta presentación. https://www.youtube.com/watch?v=Q1zX_iog1SM
-
 * Martin Robinson, *Piles of ancient rubbish could prove incredible temple that's 6,500 years older than Stonehenge was actually a house*, Daily Mail, octubre 2011. https://www.dailymail.co.uk/news/article-2050908/Gobekli-Tepe-Temple-thats-6-500-years-older-Stonehenge-house.html. Artículo que especula sobre Gobekli Tepe y el Jardín del Edén.
-
 * Andrew Curry, *Gobekli Tepe: The World’s First Temple?*, *Smithsonian Magazine*, noviembre 2008. https://www.smithsonianmag.com/history/gobekli-tepe-the-worlds-first-temple-83613665/, artículo del Smithsonian.
-
 * *Göbekli Tepe in Turkey: A 12,000-year-old Temple Complex*, Red Ice.TV, http://www.redicecreations.com/article.php?id=3487, con algunas buenas imágenes.
+
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

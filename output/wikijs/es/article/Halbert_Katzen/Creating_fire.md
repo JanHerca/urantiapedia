@@ -1,14 +1,31 @@
 ---
-title: La creación del fuego
+title: "La creación del fuego"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: Anthropology, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autores: **Josh Carden** y **Halbert Katzen J.D.**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+_Por Halbert Katzen J.D._
 
 ## Resumen
 
@@ -182,29 +199,39 @@ Los descubrimientos hechos en Gesher Benot Ya'aqov en Israel durante este mileni
 
 ## Enlaces externos
 
+* [Este informe en el sitio web UBTheNews](https://ubannotated.com/ubthenews/topics/CreatingFire/)
+* [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios Temáticos en el sitio UBTheNews]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
 * Paul Rincon, *Early human fire skills revealed*, BBC News, 29 abril 2004, http://news.bbc.co.uk/2/hi/science/nature/3670017.stm
-
 * *Fire out of Africa: a key to the migration of prehistoric man*, *The Hebrew University of Jerusalem*, 27 octubre 2008, http://www.huji.ac.il/cgi-bin/dovrut/dovrut_search_eng.pl?mesge122510374832688760
-
 * Kyle Streich, *Terra Amata*, junio 2008, https://web.archive.org/web/20080618062326/http://www.mnsu.edu/emuseum/archaeology/sites/europe/terraamata.html, breve descripción del yacimiento de Terra Amata. [Enlace original roto].
-
 * Dennis O'Neill, *Archaic Human Culture*, https://www2.palomar.edu/anthro/homo2/mod_homo_3.htm, información general sobre la cultura primitiva con algo de información sobre el pedernal y Terra Amata.
-
 * Web de la Wikipedia sobre Terra Amata: http://en.wikipedia.org/wiki/Terra_Amata
-
 * Web del museo de Terra Amata, en Niza: http://www.nice.fr/fr/culture/musees-et-galeries/presentation-du-musee-terra-amata
-
 * Jennifer Viegas, *World's oldest BBQ burnt meat to a crisp* («La barbacoa más antigua cocinaba una carne crujiente»), *ABC Science*, 3 mayo 2004, http://www.abc.net.au/science/articles/2004/05/03/1100057.htm?site=science&topic=latest, artículo que se hace eco del descubrimiento en el yacimiento israelí.
-
 * *When was fire first controlled by human beings?* («¿Cuándo fue controlado el fuego por primera vez?») http://www.beyondveg.com/nicholson-w/hb/hb-interview2c.shtml, exhaustiva revisión de la controversia.
-
 * Steven R. James, R. W. Dennell, Allan S. Gilbert, et al., *Hominid Use of Fire in the Lower and Middle Pleistocene: A Review of the Evidence*, («Uso del fuego por homínidos en el Pleistoceno Bajo e Intermedio»), febrero 1989, https://www.jstor.org/stable/2743299?seq=1
-
 * Joshua Fischman, *A Fireplace in France*, *Discover Magazine*, 1 enero 1996. http://discovermagazine.com/1996/jan/afireplaceinfran673, excelente cobertura sobre la evidencia de Menez-Dregan.
-
 * Web de la Wikipedia sobre Menez-Dregan: http://fr.wikipedia.org/wiki/Menez-Dregan
-
 * George W. Rohrer, *The First Settlers in France* («Los primeros pobladores de Francia»), 1983, http://www.boneandstone.com/articles/rohrer_09.pdf, extenso artículo sobre los hombres primitivos en Francia.
+
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

@@ -1,14 +1,31 @@
 ---
-title: El Jardín del Edén
+title: "El Jardín del Edén"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: Geology, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Halbert Katzen J.D.**[^1] | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+_Por Halbert Katzen J.D._[^1]
 
 En *El Libro de Urantia* se proporciona una descripción de la ubicación y las características físicas del Jardín del Edén. Se dice que la ubicación fue en una península larga y estrecha que se extendía frente a la costa oriental del mar Mediterráneo. De acuerdo con *El Libro de Urantia*, Adán y Eva vivieron en este lugar hace unos 38.000 años, y afirma además que esta península se hundió en el mar Mediterráneo hace aproximadamente 34.000 años. La topografía del fondo marino en un área entre Chipre y la costa siria se ajusta a la descripción y parece ser el único área que podría hacerlo. Hoy, este área frente a la costa oriental del mar Mediterráneo cae de forma abrupta, alcanzando rápidamente una profundidad de casi 1.600 metros.
 
@@ -146,17 +163,32 @@ Por ahora, al menos los avances en la tecnología de sonar nos permiten ver una 
 
 ## Enlaces externos
 
-* Este informe en el sitio web UBTheNews: http://ubannotated.com/ubthenews/topics/ubthenews-garden-of-eden-report/
-
+* [Este informe en el sitio web UBTheNews](http://ubannotated.com/ubthenews/topics/ubthenews-garden-of-eden-report/)
+* [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios Temáticos en el sitio UBTheNews]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
 * *Atlas Ilustrado del Mundo de Life* (*Life Pictorial Atlas of the World*), Revista *Life* y Randy McNally, 1961.
-
 * Robert Sarmast,*Discovery of Atlantis*, *First Source Publications*, 2006.
-
 * Shimon Wdowinski, Zvi Ben-Avraham, Ronald Arvidsson, Goran Ekström, *Seismotectonics of the Cyprian Arc*, enero 2006, *Geophysical Journal International*, https://academic.oup.com/gji/article/164/1/176/2071574
-
 * Mart, Y.; Ryan, W., *The tectonics of Cyprus Arc: a model of complex continental collision*, https://ui.adsabs.harvard.edu/abs/2003EAEJA.....2282M/abstract
-
 * Ergün, M.; Okay, S.; Sari, C.; Oral, E. Z., *Gravity and magnetic anomalies of the Cyprus arc and tectonic implications*, https://ui.adsabs.harvard.edu/abs/2003EAEJA.....1663E/abstract
+
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

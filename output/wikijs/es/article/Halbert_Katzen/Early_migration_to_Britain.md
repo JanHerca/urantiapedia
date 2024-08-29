@@ -1,14 +1,31 @@
 ---
-title: Primera migración a Bretaña
+title: "Primera migración a Bretaña"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: Anthropology, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Halbert Katzen J.D.**[^1] | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+_Por Halbert Katzen J.D._[^1]
 
 ## Resumen
 
@@ -189,7 +206,9 @@ Las selecciones de *El Libro de Urantia* proporcionadas en este informe ofrecen 
 
 ## Enlaces externos
 
-* Este informe en el sitio web UBTheNews: http://ubannotated.com/ubthenews/topics/foxhall_1/
+* [Este informe en el sitio web UBTheNews](http://ubannotated.com/ubthenews/topics/foxhall_1/)
+* [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios Temáticos en el sitio UBTheNews]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
 * *Britain's drowned world*, *Channel 4*, abril 2007. Excelente artículo de resumen de 2007 con fechas y lugares del descubrimiento, mangos de hachas, avance y retroceso de hielo.
 	 
 	https://web.archive.org/web/20090619033218/http://www.channel4.com/history/microsites/T/timeteam/2007_dogger_ancient.html [Enlace original roto]
@@ -291,6 +310,24 @@ Las selecciones de *El Libro de Urantia* proporcionadas en este informe ofrecen 
 	 
 	https://web.archive.org/web/20061006165154/http://www.waspress.co.uk/publications/layard.html [Enlace original roto]
 * Wikipedia sobre Nina Frances Layard: http://en.wikipedia.org/wiki/Nina_Frances_Layard
+
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 
