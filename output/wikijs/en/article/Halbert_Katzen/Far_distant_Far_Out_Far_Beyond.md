@@ -49,7 +49,7 @@ See also: [Reader Captivation Phrases](/en/article/Halbert_Katzen/Reader_Captiva
 
 See also: [Astronomy](/en/article/Halbert_Katzen/Astronomy), specifically “Visible At The Fringe.”
 
-See also: [Revelation Permissions and Limitations](/en/article/Halbert_Katzen//Revelation_Permissions_and_Limitations).
+See also: [Revelation Permissions and Limitations](/en/article/Halbert_Katzen//Revelatory_Permissions_and_Limitations).
 
 ## Questionable Usage:
 

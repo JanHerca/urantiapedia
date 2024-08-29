@@ -253,7 +253,7 @@ Who are the secular “shamans or priests of any age who oppose general educatio
 
 What are the forces and who are the people working against freedom of speech and _Urantia Book_ teachings about race and gender? How do these questions help us answer who is who, what is what, when, and why?
 
-With respect to a prophet being an “inspired teacher or proclaimer of the will of God,” consider what one interviewer got as [last words from Bob Marley](https://www.youtube.com/watch?v=Ou_ZBxWvjGs) to his fans:
+With respect to a prophet being an “inspired teacher or proclaimer of the will of God,” consider what one interviewer got as [last words from Bob Marley](https://bit.ly/4fXW7Hf) to his fans:
 
 > “The voice to the people that love life, inside of them that talks to them, you know, that is the voice that these people must listen to. Because in everything you’re going to do, there’s a wrong way and a right way. And if you listen good, you will know the right way. You know? Because there’s a voice inside talking to everyone … seeing … seeing …”
 
@@ -286,7 +286,7 @@ What medicines and methods might the medicine-men have used to foster prophetic 
 
 For a quick and valuable understanding of what _temple sleep_ means, see Wikipedia: [Sleep temple](https://en.wikipedia.org/wiki/Sleep_temple).
 
-For an excellent understanding of how this topic relates to the development Judeo-Christian culture, here is an [interview by professor and well-known author Jordan Peterson](https://www.youtube.com/watch?v=7c-bWymbT04). He starts with author Brain Muraresku—_The Immorality Key_. And then he brings in author and professor Carl Ruck—_The Road to Eleusis_.
+For an excellent understanding of how this topic relates to the development Judeo-Christian culture, here is an [interview by professor and well-known author Jordan Peterson](https://bit.ly/3X2SQ0x). He starts with author Brain Muraresku—_The Immorality Key_. And then he brings in author and professor Carl Ruck—_The Road to Eleusis_.
 
 Some combination of hypnosis and entheogens seem to be involved as catalysts in this process—at least for some seers to some degree. The chemistry behind this seems related to the pineal gland, which relates to the pine cone and handbag often seen held-in-hand on stone carved images of ancient Egyptian and Sumerian Godheads. (For examples of handbags, see the [UBtheNEWS: Gobekli Tepe Report](/en/article/Halbert_Katzen/Gobekli_Tepe). For the pine cone, see the annotation at [UB 49:5.19](/en/The_Urantia_Book/49#p5_19) (_comparable to the pituitary bodies:_ Consider the pineal gland in relationship to this teaching and how it appears in ancient carvings in the hands of Godheads and many other artistic representations of religious and cultural significance. [link](https://ubannotated.com/ubthenews/urantiabook/papers/p049/#U49_5_18)).)
 
@@ -323,21 +323,21 @@ This review of Jewish history acknowledges the historic challenge confronting th
 Consider these passages from the Book of [Daniel 7](/en/Bible/Daniel/7):
 
 > **Daniel’s Vision of the Ancient of Days**
-> **<sup><small>9</small></sup>**I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment _was_ white as snow, and the hair of his head like the pure wool: his throne _was like_ the fiery flame, _and_ his wheels _as_ burning fire. **<sup><small>10</small></sup>**A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.
+> **<sup><small>9</small></sup>** I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment _was_ white as snow, and the hair of his head like the pure wool: his throne _was like_ the fiery flame, _and_ his wheels _as_ burning fire. **<sup><small>10</small></sup>** A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.
 > 
-> **<sup><small>11</small></sup>**I beheld then because of the voice of the great words which the horn spake: I beheld _even_ till the beast was slain, and his body destroyed, and given to the burning flame. **<sup><small>12</small></sup>**As concerning the rest of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time.
+> **<sup><small>11</small></sup>** I beheld then because of the voice of the great words which the horn spake: I beheld _even_ till the beast was slain, and his body destroyed, and given to the burning flame. **<sup><small>12</small></sup>** As concerning the rest of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time.
 > 
-> **<sup><small>13</small></sup>**I saw in the night visions, and, behold, _one_ like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.
-> **<sup><small>14</small></sup>**And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion _is_ an everlasting dominion, which shall not pass away, and his kingdom _that_ which shall not be destroyed.
+> **<sup><small>13</small></sup>** I saw in the night visions, and, behold, _one_ like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.
+> **<sup><small>14</small></sup>** And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion _is_ an everlasting dominion, which shall not pass away, and his kingdom _that_ which shall not be destroyed.
 > 
 > **Daniel’s Visions Interpreted**
-> **<sup><small>15</small></sup>**I Daniel was grieved in my spirit in the midst of _my_ body, and the visions of my head troubled me. **<sup><small>16</small></sup>**I came near unto one of them that stood by, and asked him the truth of all this. So he told me, and made me know the interpretation of the things. **<sup><small>17</small></sup>**These great beasts, which are four, _are_ four kings, _which_ shall arise out of the earth. **<sup><small>18</small></sup>**But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever.
+> **<sup><small>15</small></sup>** I Daniel was grieved in my spirit in the midst of _my_ body, and the visions of my head troubled me. **<sup><small>16</small></sup>** I came near unto one of them that stood by, and asked him the truth of all this. So he told me, and made me know the interpretation of the things. **<sup><small>17</small></sup>** These great beasts, which are four, _are_ four kings, _which_ shall arise out of the earth. **<sup><small>18</small></sup>** But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever.
 > 
-> **<sup><small>19</small></sup>**Then I would know the truth of the fourth beast, which was diverse from all the others, exceeding dreadful, whose teeth _were of_ iron, and his nails _of_ brass; _which_ devoured, brake in pieces, and stamped the residue with his feet; **<sup><small>20</small></sup>**And of the ten horns that _were_ in his head, and _of_ the other which came up, and before whom three fell; even _of_ that horn that had eyes, and a mouth that spake very great things, whose look _was_ more stout than his fellows. **<sup><small>21</small></sup>**I beheld, and the same horn made war with the saints, and prevailed against them; **<sup><small>22</small></sup>**Until the Ancient of days came, and judgment was given to the saints of the most High; and the time came that the saints possessed the kingdom.
+> **<sup><small>19</small></sup>** Then I would know the truth of the fourth beast, which was diverse from all the others, exceeding dreadful, whose teeth _were of_ iron, and his nails _of_ brass; _which_ devoured, brake in pieces, and stamped the residue with his feet; **<sup><small>20</small></sup>** And of the ten horns that _were_ in his head, and _of_ the other which came up, and before whom three fell; even _of_ that horn that had eyes, and a mouth that spake very great things, whose look _was_ more stout than his fellows. **<sup><small>21</small></sup>** I beheld, and the same horn made war with the saints, and prevailed against them; **<sup><small>22</small></sup>** Until the Ancient of days came, and judgment was given to the saints of the most High; and the time came that the saints possessed the kingdom.
 > 
-> **<sup><small>23</small></sup>**Thus he said, The fourth beast shall be the fourth kingdom upon earth, which shall be diverse from all kingdoms, and shall devour the whole earth, and shall tread it down, and break it in pieces. **<sup><small>24</small></sup>**And the ten horns out of this kingdom _are_ ten kings _that_ shall arise: and another shall rise after them; and he shall be diverse from the first, and he shall subdue three kings. **<sup><small>25</small></sup>**And he shall speak _great_ words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time. **<sup><small>26</small></sup>**But the judgment shall sit, and they shall take away his dominion, to consume and to destroy _it_ unto the end. **<sup><small>27</small></sup>**And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom _is_ an everlasting kingdom, and all dominions shall serve and obey him.
+> **<sup><small>23</small></sup>** Thus he said, The fourth beast shall be the fourth kingdom upon earth, which shall be diverse from all kingdoms, and shall devour the whole earth, and shall tread it down, and break it in pieces. **<sup><small>24</small></sup>** And the ten horns out of this kingdom _are_ ten kings _that_ shall arise: and another shall rise after them; and he shall be diverse from the first, and he shall subdue three kings. **<sup><small>25</small></sup>** And he shall speak _great_ words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time. **<sup><small>26</small></sup>** But the judgment shall sit, and they shall take away his dominion, to consume and to destroy _it_ unto the end. **<sup><small>27</small></sup>** And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom _is_ an everlasting kingdom, and all dominions shall serve and obey him.
 > 
-> **<sup><small>28</small></sup>**Hitherto _is_ the end of the matter. As for me Daniel, my cogitations much troubled me, and my countenance changed in me: but I kept the matter in my heart.
+> **<sup><small>28</small></sup>** Hitherto _is_ the end of the matter. As for me Daniel, my cogitations much troubled me, and my countenance changed in me: but I kept the matter in my heart.
 
 In contrast, note how this epochal revelation guides us to specific passages of importance from the Old and New Testaments and contextualizes them for us:
 
@@ -354,38 +354,38 @@ In contrast, note how this epochal revelation guides us to specific passages of 
 The _olden seer_ referenced above is Isaiah. Here are some of the verses that precede what was quoted:
 
 > [**Isaiah 66:**](/en/Bible/Isaiah/66)
-> **<sup><small>7</small></sup>**“Before she was in labor, she gave birth;
+> **<sup><small>7</small></sup>** “Before she was in labor, she gave birth;
 > Before her pain came,
 > She delivered a male child.
-> **<sup><small>8</small></sup>**Who has heard such a thing?
+> **<sup><small>8</small></sup>** Who has heard such a thing?
 > Who has seen such things?
 > Shall the earth be made to give birth in one day?
 > _Or_ shall a nation be born at once?
 > For as soon as Zion was in labor,
 > She gave birth to her children.
-> **<sup><small>9</small></sup>**Shall I bring to the time of birth, and not cause delivery?” says the Lord.
+> **<sup><small>9</small></sup>** Shall I bring to the time of birth, and not cause delivery?” says the Lord.
 > “Shall I who cause delivery shut up the womb?” says your God.
-> **<sup><small>10</small></sup>**“Rejoice with Jerusalem,
+> **<sup><small>10</small></sup>** “Rejoice with Jerusalem,
 > And be glad with her, all you who love her;
 > Rejoice for joy with her, all you who mourn for her;
-> **<sup><small>11</small></sup>**That you may feed and be satisfied
+> **<sup><small>11</small></sup>** That you may feed and be satisfied
 > With the consolation of her bosom,
 > That you may drink deeply and be delighted
 > With the abundance of her glory.”
 > 
-> **<sup><small>12</small></sup>**For thus says the Lord: “Behold, I will extend peace to her like a river,
+> **<sup><small>12</small></sup>** For thus says the Lord: “Behold, I will extend peace to her like a river,
 > And the glory of the Gentiles like a flowing stream.
 > Then you shall feed;
 > On her sides shall you be carried,
 > And be dandled on her knees.
-> **<sup><small>13</small></sup>**As one whom his mother comforts,
+> **<sup><small>13</small></sup>** As one whom his mother comforts,
 > So I will comfort you;
 > And you shall be comforted in Jerusalem.” …
 > 
-> **<sup><small>22</small></sup>**“For as the new heavens and the new earth
+> **<sup><small>22</small></sup>** “For as the new heavens and the new earth
 > Which I will make shall remain before Me,” says the Lord,
 > “So shall your descendants and your name remain.
-> **<sup><small>22</small></sup>**And it shall come to pass
+> **<sup><small>22</small></sup>** And it shall come to pass
 > That from one New Moon to another,
 > And from one Sabbath to another,
 > All flesh shall come to worship before Me,” says the Lord.
@@ -395,15 +395,15 @@ This use of the word _seer_ comes from Revelation:
 > You do well to love them, but you should not adore them; angels are not objects of worship. The great seraphim, Loyalatia, when your seer “fell down to worship before the feet of the angel,” said: “See that you do it not; I am a fellow servant with you and with your races, who are all enjoined to worship God.” ([UB 38:2.5](/en/The_Urantia_Book/38#p2_5))
 
 > [**Revelation 19:**](/en/Bible/Revelation/19)
-> **_The Marriage of the Lamb_**<sup><small>6</small></sup>**And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Alleluia: for the Lord God omnipotent reigneth.
-> **<sup><small>7</small></sup>**Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb is come, and his wife hath made herself ready. **<sup><small>8</small></sup>**And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteousness of saints.
-> **<sup><small>9</small></sup>**And he saith unto me, Write, Blessed _are_ they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God. **<sup><small>10</small></sup>**And I fell at his feet to worship him. And he said unto me, See _thou do it_ not: I am thy fellow servant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.
+> **_The Marriage of the Lamb_**<sup><small>6</small></sup> **And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Alleluia: for the Lord God omnipotent reigneth.
+> **<sup><small>7</small></sup>** Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb is come, and his wife hath made herself ready. **<sup><small>8</small></sup>** And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteousness of saints.
+> **<sup><small>9</small></sup>** And he saith unto me, Write, Blessed _are_ they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God. **<sup><small>10</small></sup>** And I fell at his feet to worship him. And he said unto me, See _thou do it_ not: I am thy fellow servant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.
 
 > [**Revelation 22:**](/en/Bible/Revelation/22)
-> **_The Time Is Near_**<sup><small>6</small></sup>**Then he said to me, “These words _are_ faithful and true.” And the Lord God of the holy prophets sent His angel to show His servants the things which must shortly take place.
-> **<sup><small>7</small></sup>**“Behold, I am coming quickly! Blessed _is_ he who keeps the words of the prophecy of this book.”
-> **<sup><small>8</small></sup>**Now I, John, saw and heard these things. And when I heard and saw, I fell down to worship before the feet of the angel who showed me these things.
-> **<sup><small>9</small></sup>**Then he said to me, “See _that you do_ not _do that._ For I am your fellow servant, and of your brethren the prophets, and of those who keep the words of this book. Worship God.”  **<sup><small>10</small></sup>**And he said to me, “Do not seal the words of the prophecy of this book, for the time is at hand.  **<sup><small>11</small></sup>**He who is unjust, let him be unjust still; he who is filthy, let him be filthy still; he who is righteous, let him be righteous still; he who is holy, let him be holy still.”
+> **_The Time Is Near_**<sup><small>6</small></sup>** Then he said to me, “These words _are_ faithful and true.” And the Lord God of the holy prophets sent His angel to show His servants the things which must shortly take place.
+> **<sup><small>7</small></sup>** “Behold, I am coming quickly! Blessed _is_ he who keeps the words of the prophecy of this book.”
+> **<sup><small>8</small></sup>** Now I, John, saw and heard these things. And when I heard and saw, I fell down to worship before the feet of the angel who showed me these things.
+> **<sup><small>9</small></sup>** Then he said to me, “See _that you do_ not _do that._ For I am your fellow servant, and of your brethren the prophets, and of those who keep the words of this book. Worship God.”  **<sup><small>10</small></sup>** And he said to me, “Do not seal the words of the prophecy of this book, for the time is at hand.  **<sup><small>11</small></sup>** He who is unjust, let him be unjust still; he who is filthy, let him be filthy still; he who is righteous, let him be righteous still; he who is holy, let him be holy still.”
 
 Even though being a seer is generally about visions of the future, they also function as revelators of the nature of God.
 

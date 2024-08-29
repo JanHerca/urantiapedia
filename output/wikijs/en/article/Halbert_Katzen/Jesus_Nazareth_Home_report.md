@@ -192,6 +192,7 @@ The following is a re-presentation of communications, images, and articles provi
 </figure>
 
 “On the outside walls of the holy family home there are stone stairs rising up to where the roof once was. Sister Margareta commented that these steps were built in the Crusader fashion and would not have been original to the holy family home. Still, we are mindful of how Joseph built stairs up to the roof where the males of the family would sleep on the hot nights, and still do in the Middle East, and where during the day time Mary taught Jesus with the sandbox . . . and how in a sand storm one day Jesus fell down the stairs . . . probably made from timber . . . and how the angels watching over Jesus were found not negligent of his care because the storm was unpredictable and sudden.”
+<br style="clear:both;"/>
 
 ## External links
 

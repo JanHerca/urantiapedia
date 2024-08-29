@@ -48,7 +48,7 @@ _The images done by hand are my own._
 
 The current Table of Contents reflects an evolutionary process, a mix of old and new. Once I get my initial efforts re-organized into the new pedagogy, these introductory remarks will be changed to reflect the progress. About that new pedagogy … it got revised on 3/26, to put the Revelation Permissions and Limitations work as step one rather than step two.
 
-Step 1: Finish up the Topical Study: [Revelatory Permissions and Limitations](/en/article/Halbert_Katzen/Revelation_Permissions_and_Limitations), which was inspired by this Topical Study, and then apply it to this topic.
+Step 1: Finish up the Topical Study: [Revelatory Permissions and Limitations](/en/article/Halbert_Katzen/Revelatory_Permissions_and_Limitations), which was inspired by this Topical Study, and then apply it to this topic.
 Step 2: A four-corners analysis of astronomy related teachings.
 Step 3: Apply second step to science in two ways: 1) science during the 1930’s. 2) contemporary science.
 Step 4: Apply the third step to the second step.
@@ -466,7 +466,7 @@ Perhaps one day, this page will grow beyond being a Topical Study to also live a
 
 Note how the “time-space” phrase and concept is addressed very close to the beginning and end of the text. And a section on time-space, provided in Paper 118, is also noteworthy for its placement (towards the very end Part III) in relationship to the rest of _The Urantia Book._
 
-> 6. _Supreme—_self-experiential and creature-Creator-unifying Deity. Deity functioning on the **first creature-identificational level as time-space overcontrollers** of the grand universe, sometimes designated the Supremacy of Deity. ([UB 0:1.9](/en/The_Urantia_Book/0#p1_9))
+> 6. _Supreme_—self-experiential and creature-Creator-unifying Deity. Deity functioning on the **first creature-identificational level as time-space overcontrollers** of the grand universe, sometimes designated the Supremacy of Deity. ([UB 0:1.9](/en/The_Urantia_Book/0#p1_9))
 
 > Science lives by the mathematics of the mind; music expresses the tempo of the emotions. **Religion is the spiritual rhythm of the soul in time-space harmony with the higher and eternal melody measurements of Infinity.** Religious experience is something in human life which is truly supermathematical. ([UB 195:7.20](/en/The_Urantia_Book/195#p7_20))
 

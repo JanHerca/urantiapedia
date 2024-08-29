@@ -92,7 +92,7 @@ We are down to one passage from the Bible, two brief human interest stories, and
 <figcaption>Isaiah 60:1</figcaption>
 </figure>
 
-[Isaiah 66:22-23](/en/Bible/Halbert_Katzen/66#v22) says:
+[Isaiah 66:22-23](/en/Bible/Isaiah/66#v22) says:
 
 > “‘For, as the new heavens and the new earth, which I will make, shall remain before me, so shall you and your children survive; and it shall come to pass that from one new moon to another and from one Sabbath to another all flesh shall come to worship before me,’ says the Lord.”
 

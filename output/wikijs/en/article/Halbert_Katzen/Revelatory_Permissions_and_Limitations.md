@@ -228,7 +228,7 @@ The need for creatively balancing revelatory permissions and limitations shows u
 
 Aside from being content that, by its nature, confronts anthropomorphic thinking, consider also how the superficial contradiction between the first sentence and the second paragraph can be resolved simply by applying the concept of _overcare_. The larger truth being conveyed is that our planet was created, named, and cared for long before human beings ever existed. Consequently, no terrestrial would have those connotations.
 
-Consider how this etymological interpretation for _Urantia_ points to a larger than human perspective: Known in the heavens as (Uran) the “[World of the Cross](/en/article/Halbert_Katzen/Etymology_of_coined_terminology)” (t, ia).
+Consider how this etymological interpretation for _Urantia_ points to a larger than human perspective: Known in the heavens as (Uran) the “[World of the Cross](/en/article/Halbert_Katzen/Etymology_of_Coined_Terminology)” (t, ia).
 
 Does the etymological interpretation imply a _necessity_ for coining the word _Urantia_? Are all the teachings about overcare insufficient for fulfilling the revelatory mandates? Or is this better taken as encouragement to not be overly dichotomous or legalistic in our thinking? Maybe this is lesson one in appreciating that empowering the revelators with a degree of creative discretion was part of the process.
 
@@ -236,9 +236,9 @@ Does the etymological interpretation imply a _necessity_ for coining the word _U
 
 Given the broad scope of material being covered in this revelation, obviously, managing the length of the text would be an issue. Note how the revelators make use of the coined terminology option to supercharge the revelation with meaning and value, while also efficiently providing additional facts.:
 
-> The universe of Nebadon now swings far to the south and east in the superuniverse circuit of Orvonton. The [nearest neighboring Local Universes](/en/article/Halbert_Katzen/Etymology_of_coined_terminology#seven) are: are: Avalon, Henselon, Sanselon, Portalon, Wolvering, Fanoving, and Alvoring. ([UB 32:2.12](/en/The_Urantia_Book/32#p2_12))
+> The universe of Nebadon now swings far to the south and east in the superuniverse circuit of Orvonton. The [nearest neighboring Local Universes](/en/article/Halbert_Katzen/Etymology_of_Coined_Terminology) are: are: Avalon, Henselon, Sanselon, Portalon, Wolvering, Fanoving, and Alvoring. ([UB 32:2.12](/en/The_Urantia_Book/32#p2_12))
 
-> While the Master Physical Controllers serve with the power centers throughout the grand universe, their functions in a local system, such as Satania, are more easy of comprehension. Satania is one of one hundred local systems which make up the administrative organization of the constellation of Norlatiadek, having as [immediate neighbors the systems](/en/article/Halbert_Katzen/Etymology_of_coined_terminology#nornei) of Sandmatia, Assuntia, Porogia, Sortoria, Rantulia, and Glantonia. The Norlatiadek systems differ in many respects, but all are evolutionary and progressive, very much like Satania. ([UB 41:2.1](/en/The_Urantia_Book/41#p2_1))
+> While the Master Physical Controllers serve with the power centers throughout the grand universe, their functions in a local system, such as Satania, are more easy of comprehension. Satania is one of one hundred local systems which make up the administrative organization of the constellation of Norlatiadek, having as [immediate neighbors the systems](/en/article/Halbert_Katzen/Etymology_of_Coined_Terminology) of Sandmatia, Assuntia, Porogia, Sortoria, Rantulia, and Glantonia. The Norlatiadek systems differ in many respects, but all are evolutionary and progressive, very much like Satania. ([UB 41:2.1](/en/The_Urantia_Book/41#p2_1))
 
 Consider how these lists reinforce the inclusion of so many personalities and types of beings, all working together as anchors for the scope of permitted revelatory information.
 

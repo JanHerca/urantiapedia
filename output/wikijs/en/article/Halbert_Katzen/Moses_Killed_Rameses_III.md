@@ -101,10 +101,10 @@ Although it was long believed that [Ramesses III](https://en.wikipedia.org/wiki/
 * [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
 * See also the Wikipedia page: [Battle of the Delta](https://en.wikipedia.org/wiki/Battle_of_the_Delta), which discusses Rameses III’s battle with the Sea Peoples.
 * See [BBC article](https://www.bbc.com/news/health-20755264) about the 2011 discovery of the fate of Rameses III.
-* See [Mummy King Mystery](https://www.youtube.com/watch?v=nd8_jFAQMu8&feature=youtu.be&fbclid=IwAR1TV_QQYB9EbB8CF5iG-4mM5mLpLj0lFzxOq_zz6ax9CL4Cdk-zud5DJKQ) documentary about the 2011 discovery of the fate of Rameses III.
+* See [Mummy King Mystery](https://bit.ly/4e4nIo8) documentary about the 2011 discovery of the fate of Rameses III.
 * Here is a [National Geographic article](https://news.nationalgeographic.com/news/2015/03/150303-pharaoh-senebkay-forensic-skeleton-abydos-egypt-archaeology/?fbclid=IwAR0HmPzEG0qgrUWCH2XcJh5H0dcoUu7QFNUO7yUCjd68CYFHQ9AKPPkmqDc) on another little known about Pharoah, who apparently lived roughly during the times of Moses and who died a brutal death.
 * Here is a Wikipedia page about [Seqenenre Tao](https://en.m.wikipedia.org/wiki/Seqenenre_Tao?fbclid=IwAR0RW7QpifnCFN_PGiMf_Bk6HXsE52SOgBp8I1zV9VmmOJZJR5KkI3mjwNk), who also died a violent death around the time of Moses.
-* Here is a [45-minute lecture](https://www.youtube.com/watch?v=iYZF09T5Klk&feature=youtu.be&fbclid=IwAR0rXGPew1mP6hi8ITGScE4z_mQ1Q8Yn4VHk_LfZdwCck8arjQIFpazsVTM) on the history of the Pharaohs during the times of Moses.
+* Here is a [45-minute lecture](https://bit.ly/4cLvQch) on the history of the Pharaohs during the times of Moses.
 
 
 <br>

@@ -93,9 +93,9 @@ Usages: Prophetic (14x). Prophecy (6x). Prophecies (4x). Prophesy (5x). Prophesi
 > 
 > **These time evaluators are also the secret of prophecy**; they portray the element of time which will be required in the completion of any undertaking, and they are just as dependable as indicators as are the frandalanks and chronoldeks of other living orders. The Gods foresee, hence foreknow; but the ascendant authorities of the universes of time must consult the Imports of Time to be able to forecast events of the future. ([UB 28:6.9-11](/en/The_Urantia_Book/28#p6_9))
 
-> 5\. _**The prophetic artists**—_those who project the meanings of history into the future. ([UB 44:2.7](/en/The_Urantia_Book/44#p2_7))
+> 5\. ***The prophetic artists***—those who project the meanings of history into the future. ([UB 44:2.7](/en/The_Urantia_Book/44#p2_7))
 
-> 3. **_Prophetic joy._** It will perhaps be difficult for mortals to envisage this phase of humor, but we do get a peculiar satisfaction out of the assurance “that all things work together for good”—for spirits and morontians as well as for mortals. This aspect of celestial humor grows out of our faith in the loving overcare of our superiors and in the divine stability of our Supreme Directors. ([UB 48:4.7](/en/The_Urantia_Book/48#p4_7))
+> 3. ***Prophetic joy.*** It will perhaps be difficult for mortals to envisage this phase of humor, but we do get a peculiar satisfaction out of the assurance “that all things work together for good”—for spirits and morontians as well as for mortals. This aspect of celestial humor grows out of our faith in the loving overcare of our superiors and in the divine stability of our Supreme Directors. ([UB 48:4.7](/en/The_Urantia_Book/48#p4_7))
 
 
 ## External links

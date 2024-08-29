@@ -59,7 +59,7 @@ This is a [30-minute video of Joseph Newman](https://bit.ly/3XkUpIH), explaining
 
 > The mesotron explains certain cohesive properties of the atomic nucleus, but it does not account for the cohesion of proton to proton nor for the adhesion of neutron to neutron. The paradoxical and powerful force of atomic cohesive integrity is a form of energy as yet undiscovered on Urantia. ([UB 42:8.6](/en/The_Urantia_Book/42#p8_6))
 
-## Additional use of _“undiscovered”_ with_“energy(ies)”_ in the same paragraph.
+## Additional use of _“undiscovered”_ with _“energy(ies)”_ in the same paragraph.
 
 \[For additional noteworthy context, three paragraphs are included in this first entry.\]
 
