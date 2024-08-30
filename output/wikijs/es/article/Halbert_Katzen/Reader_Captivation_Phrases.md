@@ -99,7 +99,7 @@ Su editor opina que este recurso literario creativo se utiliza para fundamentarn
 
 * [Este informe en la página web de LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/reader-captivation-phrases/)
 * [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
-
+

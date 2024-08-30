@@ -29,7 +29,7 @@ _Por Halbert Katzen J.D._
 
 * [Este informe en la página web de LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/prophesy-and-prophesied/)
 * [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
-
+

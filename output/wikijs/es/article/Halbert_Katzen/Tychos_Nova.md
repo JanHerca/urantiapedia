@@ -216,7 +216,7 @@ Citas del libro de Urantia:
 
 * [Este informe en la página web de LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/tychos-nova.pdf)
 * [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

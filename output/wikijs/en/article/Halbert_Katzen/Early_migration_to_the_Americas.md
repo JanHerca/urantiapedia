@@ -240,7 +240,7 @@ Ushki (7) | 14300 | Â± | 200 | GIN- | Mochanov 1978:62 |
 
 * [This report in UBTheNews webpage](https://ubannotated.com/wp-content/uploads/2018/03/Americas.pdf)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 * *El Libro de Urantia*: [UB 64:6](/The_Urantia_Book/64#p6)
 * *Paleoamerican Origins*, Smithsonian, Paleoamerican Origins, 1999.
 	 

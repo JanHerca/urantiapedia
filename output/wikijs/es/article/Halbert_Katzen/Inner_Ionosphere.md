@@ -149,7 +149,7 @@ Este gran chorro azul, que se elevó desde lo alto de una tormenta, alcanzó una
 
 - [Este informe en LUTheNews](https://ubannotated.com/ubthenews/topics/ionosphere/)
 - [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-- [Estudios temáticos en la página web de LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+- [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 - [Urantia Book 58:2](/es/The_Urantia_Book/58#p2)
 - http://physicsweb.org/articles/news/6/3/9
 - http://news.nationalgeographic.com/news/2003/06/0625_030625_atmospherethunder.html

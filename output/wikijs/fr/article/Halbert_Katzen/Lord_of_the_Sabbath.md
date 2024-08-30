@@ -146,7 +146,7 @@ FrançaisEn comptant à partir de la [nouvelle lune](https://en.wikipedia.org/wi
 
 * [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/lord-of-the-sabbath/)
 * [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
-
+

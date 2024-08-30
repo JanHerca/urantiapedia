@@ -1,5 +1,5 @@
 ---
-title: "Page de recherche sur la poterie chinoise ancienne"
+title: "Domestication du chien"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -89,7 +89,7 @@ Il s'agit d'une vidéo fascinante sur les renards et la génétique de la sociab
 
 > Ces six races évolutionnaires sont destinées à être mélangées et élevées par amalgamation avec la progéniture des élévateurs adamiques. Mais, avant la fusion de ces peuples, les inférieurs et les inadaptés sont largement éliminés. Le Prince Planétaire et le Fils Matériel ainsi que d’autres autorités planétaires qualifiées jugent les aptitudes des lignées reproductrices. La difficulté pour exécuter un programme aussi radical sur Urantia vient de l’absence de juges compétents pour statuer sur l’aptitude ou l’inaptitude biologique des individus des races de votre monde. Malgré cet obstacle, il semble que vous devriez être capables de vous mettre d’accord sur la dissociation biologique d’avec les lignées les plus notoirement inaptes, défectueuses ou antisociales. ([LU 51:4.8](/fr/The_Urantia_Book/51#p4_8))
 
-> Si les races actuelles d'Urantia pouvaient être libérées de la malédiction de leurs couches les plus basses de spécimens détériorés, antisociaux, faibles d'esprit et parias, il y aurait peu d'objections à une fusion raciale limitée. Et si de tels mélanges raciaux pouvaient avoir lieu entre les types les plus élevés des différentes races, on pourrait encore moins s'opposer à cela.
+> Si les races actuelles d’Urantia pouvaient être libérées de la malédiction résultant de leurs classes les plus basses de spécimens dégénérés, antisociaux, mentalement débiles et exclus, il y aurait peu d’objections à une amalgamation raciale limitée. Et, si ces mélanges raciaux pouvaient se produire entre les types tout à fait supérieurs des diverses races, cela offrirait encore moins d’inconvénients. [LU 82:6.4](/fr/The_Urantia_Book/82#p6_4)
 
 > La société culturelle contemporaine est un phénomène plutôt récent. Cela est bien démontré par la survie, à l’heure actuelle, de conditions sociales aussi primitives que celles des aborigènes australiens et des Boschimans et Pygmées d’Afrique. Chez ces peuplades arriérées, on peut encore observer quelque peu l’hostilité tribale, la suspicion personnelle et d’autres traits hautement antisociaux si caractéristiques de toutes les races primitives. Ces misérables restes des peuples asociaux de jadis témoignent éloquemment du fait que la tendance individualiste naturelle de l’homme ne peut lutter avec succès contre les organisations et associations de progrès social plus efficaces et plus puissantes. Ces races antisociales arriérées et soupçonneuses, dont les dialectes changent tous les soixante ou quatre-vingts kilomètres, montrent dans quel monde vous auriez risqué de vivre s’il n’y avait pas eu les enseignements de l’état-major corporel du Prince Planétaire et les apports ultérieurs du groupe adamique des élévateurs raciaux. ([LU 68:1.6](/fr/The_Urantia_Book/68#p1_6))
 
@@ -99,9 +99,9 @@ Il s'agit d'une vidéo fascinante sur les renards et la génétique de la sociab
 
 ## Liens externes
 
-- [Ce rapport dans LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Animal-Domestication.pdf)
+- [Ce rapport dans LUTheNews](https://ubannotated.com/ubthenews/topics/Dog_Domestication/)
 - [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-- [Études d'actualité sur la page Web LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+- [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 - http://news.discovery.com/animals/dog-domestication-prehistoric-ice-age-110728.html 33 000
 - http://en.wikipedia.org/wiki/Origin_of_the_domestic_dog
 - http://archaeology.about.com/od/dterms/a/domestication.htm tableau pour divers animaux
@@ -112,4 +112,4 @@ Il s'agit d'une vidéo fascinante sur les renards et la génétique de la sociab
 
 
 <br>
-
+

@@ -493,7 +493,7 @@ Naturellement, en nous basant sur la tendance générale vers la corroboration d
 
 * [Ce rapport sur la page Web LUTheNews](http://ubannotated.com/ubthenews/topics/adam_and_eve/)
 * [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 ### Questions politiques
 

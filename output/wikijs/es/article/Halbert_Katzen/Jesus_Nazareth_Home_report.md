@@ -183,7 +183,7 @@ Lo siguiente es una re-presentación de comunicaciones, imágenes y artículos p
 
 * [Este informe en la página web de LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/jesus-nazareth-home/)
 * [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
-
+

@@ -370,7 +370,7 @@ The Topical Study: [A New Heaven And A New Earth](/en/article/Halbert_Katzen/A_N
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/impending-judgement-of-the-living/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

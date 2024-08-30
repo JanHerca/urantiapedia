@@ -163,7 +163,7 @@ La deuxième éclipse aura lieu un peu plus d'une semaine après Pâques, qui to
 
 * [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/more-about-and-by-halbert-katzen/eclipses-trump-prophecy-scholars/)
 * [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
-
+

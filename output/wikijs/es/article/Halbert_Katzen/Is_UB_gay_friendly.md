@@ -469,7 +469,7 @@ Verdadera monogamia: matrimonio en pareja
 > 
 > The ideals of marriage have made great progress in recent times; among some peoples woman enjoys practically equal rights with her consort. In concept, at least, the family is becoming a loyal partnership for rearing offspring, accompanied by sexual fidelity. But even this newer version of marriage need not presume to swing so far to the extreme as to confer mutual monopoly of all personality and individuality. Marriage is not just an individualistic ideal; it is the evolving social partnership of a man and a woman, existing and functioning under the current mores, restricted by the taboos, and enforced by the laws and regulations of society.
 > 
-> Twentieth-century marriages stand high in comparison with those of past ages, notwithstanding that the home institution is now undergoing a serious testing because of the problems so suddenly thrust upon the social organization by the precipitate augmentation of woman’s liberties, rights so long denied her in the tardy evolution of the mores of past generations. ([UB 83:8.4-9](/en/The_Urantia_Book/83#p8_4))
+> Twentieth-century marriages stand high in comparison with those of past ages, notwithstanding that the home institution is now undergoing a serious testing because of the problems so suddenly thrust upon the social organization by the precipitate augmentation of woman’s liberties, rights so long denied her in the tardy evolution of the mores of past generations. ([LU 83:8.4-9](/es/The_Urantia_Book/83#p8_4))
 
 Documento 84: Matrimonio y vida familiar
 
@@ -584,7 +584,7 @@ Peligros de la autogratificación
 
 * [Este informe en la página web de LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/undiscovered/)
 * [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 
 <br>

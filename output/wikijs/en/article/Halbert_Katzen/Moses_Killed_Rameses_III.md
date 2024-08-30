@@ -98,7 +98,7 @@ Although it was long believed that [Ramesses III](https://en.wikipedia.org/wiki/
 
 * [This report in UBTheNews webpage](https://ubannotated.com/ubthenews/topics/moses-killed-rameses-iii/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 * See also the Wikipedia page: [Battle of the Delta](https://en.wikipedia.org/wiki/Battle_of_the_Delta), which discusses Rameses III’s battle with the Sea Peoples.
 * See [BBC article](https://www.bbc.com/news/health-20755264) about the 2011 discovery of the fate of Rameses III.
 * See [Mummy King Mystery](https://bit.ly/4e4nIo8) documentary about the 2011 discovery of the fate of Rameses III.

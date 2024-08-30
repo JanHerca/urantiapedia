@@ -15,7 +15,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td></td>
         <td>
-        <a href="/en/index/articles_ubannotated">
+        <a href="/es/index/articles_ubannotated">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
         </a>
         </td>
@@ -240,7 +240,7 @@ Ushki (7) | 14300 | Â± | 200 | GIN- | Mochanov 1978:62 |
 
 * [Este informe en el sitio web UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Americas.pdf)
 * [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios Temáticos en el sitio UBTheNews]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Estudios Temáticos en el sitio UBTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 * *El Libro de Urantia*: <a id="a224_25"></a>[LU 64:6](/es/The_Urantia_Book/64#p6)
 * *Paleoamerican Origins* (*Orígenes paleoamericanos*), Smithsonian, Paleoamerican Origins, 1999.
 	 
@@ -284,7 +284,7 @@ Ushki (7) | 14300 | Â± | 200 | GIN- | Mochanov 1978:62 |
       <tr>
         <td></td>
         <td>
-        <a href="/en/index/articles_ubannotated">
+        <a href="/es/index/articles_ubannotated">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
         </a>
         </td>

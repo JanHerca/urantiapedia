@@ -222,7 +222,7 @@ Interpréter les détails de la façon dont cette zone aurait pu s'enfoncer dans
 
 - [Ce rapport dans LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Pangaea.pdf)
 - [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-- [Études d'actualité sur la page Web LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+- [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 - _Jack Oliver, qui a prouvé la dérive des continents, décède à 87 ans_, The New York Times, par Kenneth Chang, 2011. ([Lien](https://www.nytimes.com/2011/01/12/science/earth/12oliver.html?_r=4&adxnnl=1&ref=science&adxnnlx=1294851704-aH9bArRuWC6WOqHwEm4ROQ))
 - http://www.sciencedaily.com/releases/2009/02/090211122136.htm
 - http://www.infoplease.com/ce6/sci/A0813370.html

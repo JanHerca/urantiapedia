@@ -303,7 +303,7 @@ Le récit du sort des Adamites dans le *Livre d’Urantia* contribue grandement 
 
 * [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/gobekli-tepe/)
 * [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 * Wikipédia : http://en.wikipedia.org/wiki/Gobekli_Tepe
 * Page d'Andrew Collins sur Göbekli Tepe : http://www.andrewcollins.com/page/articles/Gobekli.htm
 * Shaena Montanari, *Des traces de culte du crâne découvertes dans le plus vieux temple du monde*, National Geographic, juin 2017. https://www.nationalgeographic.com/news/2017/06/skulls-cult-turkey-archaeology-neolithic-gobekli/. Article sur les marques du crâne de Gobekli Tepe.

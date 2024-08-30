@@ -166,9 +166,9 @@ In covering the _Science_ report, a Reuters article contextualized the research 
 > “If it was happening this early, then you've got to think about those forces for social and economic change happening earlier too-and it is possible that there are yet earlier sites we haven't found.” [How prophetic!]
 > 
 > Archaeologists have suspected for some time that the Botai people were the world's first horsemen but previous sketchy evidence has been disputed, with some arguing that the Botai simply hunted horses.[^14]
-> 
-> In an article for Ars Technica, Chris Lee contextualizes and summarizes the findings in the original research report as follows:
-> 
+
+In an article for Ars Technica, Chris Lee contextualizes and summarizes the findings in the original research report as follows:
+
 > A recent publication in Science takes a fresh look at the domestication of the horse. The authors show that the horse is likely to have been domesticated independently of other animals, in areas outside of the fertile crescent. ...
 >
 > . . .
@@ -199,7 +199,7 @@ For a relatively quick Urantia Book perspective on the development of civilizati
 
 - [This report in UBTheNews webpage](https://ubannotated.com/wp-content/uploads/2018/03/Horsing_Around.pdf)
 - [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-- [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+- [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 - http://www.sciencedaily.com/releases/2009/03/090305141627.htm
 - http://www.geosociety.org/news/pr/06-49.htm
 - http://en.wikipedia.org/wiki/Domestication_of_the_horse

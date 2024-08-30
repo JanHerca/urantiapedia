@@ -93,7 +93,7 @@ In similar ways, we recognize qualities of motherhood that are not necessarily f
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/in-the-name-of-the-father/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

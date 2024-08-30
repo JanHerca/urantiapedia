@@ -373,7 +373,7 @@ Documento 121: Los tiempos de la donación de Miguel, Sección 8: Registros escr
 
 * [Este informe en la página web de LUTheNews](https://ubannotated.com/main-menu/animated/revelation-permissions-and-limitations/)
 * [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
-
+

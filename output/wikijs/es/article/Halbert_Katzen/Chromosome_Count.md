@@ -74,7 +74,7 @@ Por lo tanto, cuando se publicó en 1955, los autores de El libro de Urantia hic
 
 - [Este informe en la página web de LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Chromosome.pdf)
 - [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-- [Estudios temáticos en la página web de LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+- [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 - http://papa.indstate.edu/amcbt/volume_22/v22-2p3-9.pdf extensa historia sobre la investigación de los cromosomas humanos
 - http://www.ubfellowship.org/archive/science/kanders1.htm este es un artículo de 1988 de Kermit Anderson sobre el tema
 

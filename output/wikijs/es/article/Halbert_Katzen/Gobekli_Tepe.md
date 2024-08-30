@@ -15,7 +15,7 @@ dateCreated: 2021-11-28T11:12:37.284Z
       <tr>
         <td></td>
         <td>
-        <a href="/en/index/articles_ubannotated">
+        <a href="/es/index/articles_ubannotated">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
         </a>
         </td>
@@ -320,7 +320,7 @@ El relato de *El Libro de Urantia* sobre el destino de los adamitas ayuda mucho 
 
 * [Este informe en el sitio web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/gobekli-tepe/)
 * [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios Temáticos en el sitio UBTheNews]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Estudios Temáticos en el sitio UBTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 * Wikipedia: https://es.wikipedia.org/wiki/G%C3%B6bekli_Tepe
 * Sitio web de Andrew Collins sobre Gobekli Tepe: http://www.andrewcollins.com/page/articles/Gobekli.htm
 * Shaena Montanari, *Hints of Skull Cult Found at World's Oldest Temple*, National Geographic, junio 2017. https://www.nationalgeographic.com/news/2017/06/skulls-cult-turkey-archaeology-neolithic-gobekli/. Trata las marcas de cráneos de Gobekli Tepe.
@@ -338,7 +338,7 @@ El relato de *El Libro de Urantia* sobre el destino de los adamitas ayuda mucho 
       <tr>
         <td></td>
         <td>
-        <a href="/en/index/articles_ubannotated">
+        <a href="/es/index/articles_ubannotated">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
         </a>
         </td>

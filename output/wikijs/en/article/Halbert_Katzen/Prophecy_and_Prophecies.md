@@ -102,7 +102,7 @@ Usages: Prophetic (14x). Prophecy (6x). Prophecies (4x). Prophesy (5x). Prophesi
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/prophecy-and-prophecies/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

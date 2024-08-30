@@ -83,7 +83,7 @@ Aunque durante mucho tiempo se creyó que el cuerpo de [Ramsés III](https://en.
 
 * [Este informe en la página web de LUTheNews](https://ubannotated.com/ubthenews/topics/moses-killed-rameses-iii/)
 * [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 * Véase también la página de Wikipedia: [Batalla del Delta](https://en.wikipedia.org/wiki/Battle_of_the_Delta), que analiza la batalla de Ramsés III con los Pueblos del Mar.
 * Ver [artículo de la BBC](https://www.bbc.com/news/health-20755264) sobre el descubrimiento de 2011 del destino de Ramsés III.
 * Ver [El misterio del Rey Momia](https://bit.ly/4e4nIo8) documental sobre el descubrimiento en 2011 del destino de Ramsés III.
@@ -93,4 +93,4 @@ Aunque durante mucho tiempo se creyó que el cuerpo de [Ramsés III](https://en.
 
 
 <br>
-
+

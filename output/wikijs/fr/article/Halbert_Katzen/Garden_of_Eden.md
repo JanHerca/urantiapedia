@@ -150,7 +150,7 @@ Pour l'instant, au moins les progrès de la technologie du sonar nous permettent
 
 * [Ce rapport sur le site Web LUTheNews](http://ubannotated.com/ubthenews/topics/ubthenews-garden-of-eden-report/)
 * [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 * *Atlas illustré de la vie du monde*, magazine *Life* Randy McNally, 1961.
 * Robert Sarmast, *Découverte de l'Atlantide*, *First Source Publications*, 2006.
 * Shimon Wdowinski, Zvi Ben-Avraham, Ronald Arvidsson, Goran Ekström, *Seismotectonics of the Cyprian Arc*, janvier 2006, *Geophysical Journal International*, https://academic.oup.com/gji/article/164/1/176/2071574

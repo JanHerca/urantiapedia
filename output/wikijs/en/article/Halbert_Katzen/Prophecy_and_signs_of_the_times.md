@@ -409,7 +409,7 @@ How the discovery of [“Jesus’ Boat”](https://squarecircles.com/jesus-the-b
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

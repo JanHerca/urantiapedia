@@ -118,7 +118,7 @@ That being said, people unfamiliar with _The Urantia Book_ should be more or les
 > 
 > The mortal remains of Jesus underwent the same natural process of elemental disintegration as characterizes all human bodies on earth except that, in point of time, this natural mode of dissolution was greatly accelerated, hastened to that point where it became well-nigh instantaneous. <a id="a118_289"></a>[UB 189:2.1-8](/en/The_Urantia_Book/189#p2_1) [^9]
 
-> A little before three o'clock this Sunday morning, when the first signs of day began to appear in the east, five of the women started out for the tomb of Jesus. They had prepared an abundance of special embalming lotions, and they carried many linen bandages with them. It was their purpose more thoroughly to give the body of Jesus its death anointing and more carefully to wrap it up with the new bandages.  <a id="a120_412"></a>[UB 189:3.1](/en/The_Urantia_Book/189#p3_1)
+> A little before three o'clock this Sunday morning, when the first signs of day began to appear in the east, five of the women started out for the tomb of Jesus. They had prepared an abundance of special embalming lotions, and they carried many linen bandages with them. It was their purpose more thoroughly to give the body of Jesus its death anointing and more carefully to wrap it up with the new bandages.  <a id="a120_412"></a>[UB 189:4.3](/en/The_Urantia_Book/189#p4_3)
 
 > The women who went on this mission of anointing Jesus' body were: Mary Magdalene, Mary the mother of the Alpheus twins, Salome the mother of the Zebedee brothers, Joanna the wife of Chuza, and Susanna the daughter of Ezra of Alexandria.
 > 
@@ -302,7 +302,7 @@ With all of these questions and qualifications in mind, let us now turn our atte
 
 ### Fundamental Aspects of the Image
 
-The Turin Shroud Center of Colorado has a website at [www.Shroudofturin.com](https://www.shroudofturin.com/) on which is posted an article called _The Shroud and Modern Science — An Essay_. This article highlights some of the key features of the Shroud that are generally compatible with the “corona discharge” hypothesis for image creation. Corona discharges electrical in nature and are directly related to the creation of photocopy images. Hopefully, readers will not consider it to be too much of stretch to suggest _The Urantia Book_'s statement, “The mortal remains of Jesus underwent the same natural process of elemental disintegration as characterizes all human bodies on earth except that, in point of time, this natural mode of dissolution was greatly accelerated, hastened to that point where it became well-nigh instantaneous,” probably means that some type of electrical activity was associated with this process. After reviewing some of the highlights from _The Shroud and Modern Science — An Essay_, we will look more closely at the corona discharge hypothesis.
+The Turin Shroud Center of Colorado has a website at [www.Shroudofturin.com](https://www.shroudofturin.com/) on which is posted an article called _The Shroud and Modern Science — An Essay_. This article highlights some of the key features of the Shroud that are generally compatible with the “corona discharge” hypothesis for image creation. Corona discharges electrical in nature and are directly related to the creation of photocopy images. Hopefully, readers will not consider it to be too much of stretch to suggest _The Urantia Book_'s statement [UB 189:2.8](/en/The_Urantia_Book/189#p2_8), “The mortal remains of Jesus underwent the same natural process of elemental disintegration as characterizes all human bodies on earth except that, in point of time, this natural mode of dissolution was greatly accelerated, hastened to that point where it became well-nigh instantaneous,” probably means that some type of electrical activity was associated with this process. After reviewing some of the highlights from _The Shroud and Modern Science — An Essay_, we will look more closely at the corona discharge hypothesis.
 
 > The scientific significance of Pia's [the first person to photograph the TS] discovery is twofold. First, the shading of the Shroud body image is like a negative, where shades of light and dark are reversed from the way they normally appear in ordinary visual experience. That is, we are used to seeing people with light highlights and dark shadows. But on the Shroud, this shading convention is reversed. The immediate question that arises from this result is how could the Shroud sensibly be the work of an artist or a craftsman. Such a person working in the Middle Ages or before would apparently have to work with an absolutely unfamiliar and unnatural shading structure before the advent of photography. The second significant aspect of Pia's discovery is that the information density (or correlation with anatomical subtleties of a human body) is exceedingly high, well surpassing that expected of normal artistic renditions of the human form. It is for this reason that the Shroud image has been compared to a photograph. [^28]
 
@@ -396,7 +396,7 @@ Various aspects of physiology are similarly apparent. “Sixth, the fact that so
 <figcaption><b>Figure 10 (left)</b>: Nuclear Image ([N]otice metacarpal bones and phalanges noted in both images.)<b>Figure 11 (right)</b>: Shroud Image</figcaption>
 </figure>
 
-One of the most striking similarities is demonstrated in Figures 12 and 13. “Ninth, isometric projection (V-P-8) of our generated images, yielded a striking similarity to the VP-8 image of the Shroud at the fall off of the left fingers. Knowing this is due to a 75-80% drop in signal intensity on our image, its relevance to the same phenomenon on the Shroud should not be overlooked and seriously considered to be a function of a similar effect i.e. a dosimetric sudden fall off of signal or radiation.” [`44]
+One of the most striking similarities is demonstrated in Figures 12 and 13. “Ninth, isometric projection (V-P-8) of our generated images, yielded a striking similarity to the VP-8 image of the Shroud at the fall off of the left fingers. Knowing this is due to a 75-80% drop in signal intensity on our image, its relevance to the same phenomenon on the Shroud should not be overlooked and seriously considered to be a function of a similar effect i.e. a dosimetric sudden fall off of signal or radiation.” [^44]
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Shroud_of_Turin/Shroud_img_7.jpg">
@@ -510,7 +510,7 @@ According to _The Urantia Book_, “Of all human knowledge, that which is of gre
 
 * [This report in UBTheNews webpage](https://ubannotated.com/wp-content/uploads/2018/03/Shroud.pdf)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

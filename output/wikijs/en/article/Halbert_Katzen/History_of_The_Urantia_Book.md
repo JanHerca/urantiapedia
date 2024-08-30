@@ -199,7 +199,7 @@ Note the lack of respect for the authority of the Revelatory Commission to choos
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/history-of-the-urantia-book/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

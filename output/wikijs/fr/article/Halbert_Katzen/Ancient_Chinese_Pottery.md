@@ -43,7 +43,7 @@ Un [article de 2014 sur foxnews.com](https://www.foxnews.com/world/pottery-20000
 
 - [Ce rapport dans LUTheNews](https://ubannotated.com/ubthenews/topics/ancient-chinese-pottery/)
 * [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
-
+

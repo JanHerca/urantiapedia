@@ -180,7 +180,7 @@ A veces se cuenta el número de párrafos. A veces se cuenta el número de veces
 > 
 > With the passing of the hunter mores, when herding gave man control of the chief food supply, the mother-family came to a speedy end. It failed simply because it could not successfully compete with the newer father-family. Power lodged with the male relatives of the mother could not compete with power concentrated in the husband-father. Woman was not equal to the combined tasks of childbearing and of exercising continuous authority and increasing domestic power. The oncoming of wife stealing and later wife purchase hastened the passing of the mother-family.
 > 
-> The stupendous change from the mother-family to the father-family is one of the most radical and complete right-about-face adjustments ever executed by the human race. This change led at once to greater social expression and increased family adventure. ([UB 84:2.2-7](/en/The_Urantia_Book/84#p2_7))
+> The stupendous change from the mother-family to the father-family is one of the most radical and complete right-about-face adjustments ever executed by the human race. This change led at once to greater social expression and increased family adventure. ([LU 84:2.2-7](/es/The_Urantia_Book/84#p2_7))
 
 #### paternidad
 
@@ -266,7 +266,7 @@ A veces se cuenta el número de párrafos. A veces se cuenta el número de veces
 
 * [Este informe en la página web de LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/gender-studies/)
 * [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
-
+

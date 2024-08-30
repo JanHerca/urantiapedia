@@ -822,9 +822,9 @@ Tiempo-Espacio: 112 párrafos. Las primeras 28 apariciones están en el Prólogo
 
 * [Este informe en la página web de LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/astronomy/)
 * [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 * [Libro de texto de astronomía en línea](https://openstax.org/details/books/astronomy) para los dos primeros semestres.
 
 
 <br>
-
+

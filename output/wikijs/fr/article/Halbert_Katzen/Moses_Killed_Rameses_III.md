@@ -83,7 +83,7 @@ Bien que l’on ait longtemps cru que le corps de Ramsès III ne présentait auc
 
 * [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/ubthenews/topics/moses-killed-rameses-iii/)
 * [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 * Voir aussi la page Wikipédia : [Bataille du Delta](https://en.wikipedia.org/wiki/Battle_of_the_Delta), qui traite de la bataille de Ramsès III contre les Peuples de la Mer.
 * Voir [article de la BBC](https://www.bbc.com/news/health-20755264) sur la découverte de 2011 du sort de Ramsès III.
 * Voir [Mummy King Mystery](https://bit.ly/4e4nIo8) documentaire sur la découverte de 2011 du sort de Ramsès III.
@@ -93,4 +93,4 @@ Bien que l’on ait longtemps cru que le corps de Ramsès III ne présentait auc
 
 
 <br>
-
+

@@ -120,7 +120,7 @@ Still, even though opinions among astronomers on this subject today are about as
 
 * [This report in UBTheNews webpage](https://ubannotated.com/wp-content/uploads/2018/03/Mercury.pdf)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

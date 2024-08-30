@@ -75,13 +75,15 @@ Identifier les sujets qui nécessitent la rédaction de rapports prend beaucoup 
 
 - [Ce rapport dans LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Animal-Domestication.pdf)
 - [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-- [Études d'actualité sur la page Web LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+- [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 - http://ngm.nationalgeographic.com/2011/03/taming-wild-animals/ratliff-text
 - http://www.nature.com/nature/journal/v418/n6898/full/nature01019.html
-- http://archaeology.about.com/od/dterms/a/domestication.htm tableau pour divers animaux http://hcs.osu.edu/hcs/tmi/hcs210/hortorigins/BrDomestic.html Britannica 1990
+- http://archaeology.about.com/od/dterms/a/domestication.htm tableau pour divers animaux
+- http://hcs.osu.edu/hcs/tmi/hcs210/hortorigins/BrDomestic.html Britannica 1990
 - http://darwin-online.org.uk/pdf/1868_Variation_F877.1.pdf
 - http://rspb.royalsocietypublishing.org/content/272/1577/2211.short
-- http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1559946/ 2005 trois lignées maternelles pour les moutons http://en.wikipedia.org/wiki/History_of_sheep
+- http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1559946/ 2005 trois lignées maternelles pour les moutons
+- http://en.wikipedia.org/wiki/History_of_sheep
 
 <br>
-
+

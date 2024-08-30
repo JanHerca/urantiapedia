@@ -105,7 +105,7 @@ Sin embargo, aunque las opiniones entre los astrónomos sobre este tema hoy en d
 
 * [Este informe en la página web de LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Mercury.pdf)
 * [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

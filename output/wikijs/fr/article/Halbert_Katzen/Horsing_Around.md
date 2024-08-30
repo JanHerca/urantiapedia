@@ -184,7 +184,7 @@ Pour une perspective relativement rapide du Livre d'Urantia sur le développemen
 
 - [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Horsing_Around.pdf)
 - [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-- [Études d'actualité sur la page Web LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+- [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 - http://www.sciencedaily.com/releases/2009/03/090305141627.htm
 - http://www.geosociety.org/news/pr/06-49.htm
 - http://en.wikipedia.org/wiki/Domestication_of_the_horse

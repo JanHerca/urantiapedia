@@ -236,7 +236,7 @@ Documento 43: Las Constelaciones; Sección 5. Los Padres de Edentia desde la Reb
 >
 > 10. The Most High judge-advocate, the head of the **emergency tribunal** devoted to the adjustment of the special problems of Norlatiadek growing out of the confusion consequent upon the Satania rebellion.
 >
-> 12. The Most High director, the president of the **emergency council** of Edentia. All personalities assigned to Norlatiadek because of the Satania upheaval constitute the emergency council, and their presiding officer is a Vorondadek Son of extraordinary experience. [UB 43:5.10-14](/en/The_Urantia_Book/43#p5_10)
+> 12. The Most High director, the president of the **emergency council** of Edentia. All personalities assigned to Norlatiadek because of the Satania upheaval constitute the emergency council, and their presiding officer is a Vorondadek Son of extraordinary experience. [LU 43:5.10-14](/es/The_Urantia_Book/43#p5_10)
 
 ### Arcángeles
 
@@ -355,7 +355,7 @@ El estudio temático: [Un nuevo cielo y una nueva tierra](/es/article/Halbert_Ka
 
 * [Este informe en la página web de LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/impending-judgement-of-the-living/)
 * [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
-
+

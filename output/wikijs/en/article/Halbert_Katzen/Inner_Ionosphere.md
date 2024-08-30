@@ -164,7 +164,7 @@ This large blue jet, shooting upwards from a thunderstorm's top, reached an uppe
 
 - [This report in UBTheNews](https://ubannotated.com/ubthenews/topics/ionosphere/)
 - [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-- [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+- [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 - <a id="a165_2"></a>[Urantia Book 58:2](/en/The_Urantia_Book/58#p2)
 - http://physicsweb.org/articles/news/6/3/9
 - http://news.nationalgeographic.com/news/2003/06/0625_030625_atmospherethunder.html

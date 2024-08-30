@@ -240,7 +240,7 @@ Si conoce algún estudio antropológico/arqueológico que ejemplifique este tipo
 
 > Gardens of God. The system capitals are particularly beautified with material and mineral constructions, while the universe headquarters is more reflective of spiritual glory, but the capitals of the constellations are the acme of morontia activities and living embellishments. On the constellation headquarters worlds living embellishment is more generally utilized, and **it is this preponderance of life—botanic artistry—that causes these worlds to be called “the gardens of God.”**
 > 
-> About one half of Edentia is devoted to the exquisite gardens of the Most Highs, and **these gardens are among the most entrancing morontia creations of the local universe**. This explains why the extraordinarily beautiful places on the inhabited worlds of Norlatiadek are so often called “the garden of Eden.” ([UB 43:6.1-2](/en/The_Urantia_Book/43#p6_2))
+> About one half of Edentia is devoted to the exquisite gardens of the Most Highs, and **these gardens are among the most entrancing morontia creations of the local universe**. This explains why the extraordinarily beautiful places on the inhabited worlds of Norlatiadek are so often called “the garden of Eden.” ([LU 43:6.1-2](/es/The_Urantia_Book/43#p6_2))
 
 > Si disfrutáis con las flores, los arbustos y los árboles de Urantia, entonces os regalaréis la vista con la belleza botánica y la grandiosidad floral de los jardines celestiales de Edentia{17}. Pero tratar de transmitir a la mente mortal un concepto adecuado sobre estas bellezas de los mundos celestiales se encuentra más allá de mi poder de descripción. Los ojos no han visto, en verdad, unas glorias como las que os esperan a vuestra llegada a estos mundos relacionados con la aventura de la ascensión de los mortales. ([LU 43:6.8](/es/The_Urantia_Book/43#p6_8))
 
@@ -252,7 +252,7 @@ Si conoce algún estudio antropológico/arqueológico que ejemplifique este tipo
 
 * [Este informe en la página web de LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/food-for-thought/)
 * [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
-
+

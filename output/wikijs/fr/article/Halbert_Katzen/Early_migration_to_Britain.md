@@ -193,7 +193,7 @@ Les extraits du *Livre d’Urantia* fournis dans ce rapport fournissent une base
 
 * [Ce rapport sur la page Web LUTheNews](http://ubannotated.com/ubthenews/topics/foxhall_1/)
 * [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 * *Le monde noyé de la Grande-Bretagne*, *Channel 4*, avril 2007. Excellent article récapitulatif de 2007 avec dates et lieux de découverte, horloge à campagnol, manches de hache, glace avançant et reculant.
 	 
 	https://web.archive.org/web/20090619033218/http://www.channel4.com/history/microsites/T/timeteam/2007_dogger_ancient.html [Lien d'origine brisé]

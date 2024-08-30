@@ -267,7 +267,7 @@ If you are aware of any anthropological/archaeological studies that exemplify th
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/food-for-thought/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

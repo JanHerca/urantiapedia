@@ -318,7 +318,7 @@ For an excellent understanding of how this topic relates to the development Jude
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/gobekli-tepe/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 * Wikipedia: http://en.wikipedia.org/wiki/Gobekli_Tepe
 * Andrew Collins page on Gobekli Tepe: http://www.andrewcollins.com/page/articles/Gobekli.htm
 * Shaena Montanari, *Hints of Skull Cult Found at World's Oldest Temple*, National Geographic, June 2017. https://www.nationalgeographic.com/news/2017/06/skulls-cult-turkey-archaeology-neolithic-gobekli/. Article on Gobekli Tepe skull markings.

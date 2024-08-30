@@ -22,9 +22,7 @@ A environ 40 km au sud-ouest de Pékin, en Chine, se trouve le site archéologiq
 
 Il a toutefois été difficile de dater avec précision les fossiles humains du site de Zhoukoudian. En 2008, de nouvelles techniques de datation plus précises ont été appliquées aux couches sédimentaires où les os ont été découverts. Les résultats indiquent que les fossiles sont environ 200 000 ans plus vieux que les estimations précédentes d'environ 550 000 ans. La nouvelle datation place ces fossiles dans un environnement nettement plus froid en raison de l'activité glaciaire qui s'est produite il y a 750 000 ans.
 
-De plus, une réévaluation récente des haches à main trouvées à
-
-Le site révèle un degré de sophistication dans la fabrication d'outils plus élevé que ce que l'on pensait auparavant. Cette découverte indique que ces premiers humains étaient plus habiles à chasser et à abattre des animaux que les anthropologues ne l'avaient initialement supposé.
+De plus, une réévaluation récente des haches à main trouvées à le site révèle un degré de sophistication dans la fabrication d'outils plus élevé que ce que l'on pensait auparavant. Cette découverte indique que ces premiers humains étaient plus habiles à chasser et à abattre des animaux que les anthropologues ne l'avaient initialement supposé.
 
 Ces récents perfectionnements dans la technique de recherche nous fournissent une compréhension des premières migrations vers la Chine qui est plus étroitement alignée avec le récit des premières activités humaines dans la région publié en 1955 dans _Le Livre d'Urantia_.
 
@@ -160,7 +158,7 @@ La théorie de la ligne Movius, qui a débuté en 1948 et a prédominé pendant 
 
 - [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Peking_Man.pdf)
 - [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-- [Études d'actualité sur la page Web LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+- [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 - http://www.greatarchaeology.com/java_man.htm
 - http://en.wikipedia.org/wiki/Homo_erectus_pekinensis
 - http://www.newworldencyclopedia.org/entry/Java_man

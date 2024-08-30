@@ -135,7 +135,7 @@ En plus d'ouvrir les esprits chrétiens à considérer un spectre plus large de 
 
 * [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/ubthenews/topics/shroudturin/left-is-right/)
 * [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
-
+

@@ -1,5 +1,5 @@
 ---
-title: "Ancient Chinese Pottery research page"
+title: "Dog Domestication"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -92,7 +92,9 @@ Identifying topics that need to have reports written about them takes a lot less
 > 
 > The Andites of Turkestan were the first peoples to extensively domesticate the horse, and this is another reason why their culture was for so long predominant. By 5000 B.C. the Mesopotamia, Turkestan, and Chinese farmers had begun the raising of sheep, goats, cows, camels, horses, fowls, and elephants. They employed as beasts of burden the ox, camel, horse, and yak. <a id="a92_371"></a>[UB 81:2.1-7](/en/The_Urantia_Book/81#p2_1)
 
-This is a fascinating video about foxes and the genetics of being social. It focuses on foxes but has implications far beyond this, which is taken up directly in the video. Very insightful on the difference between nature and nurture! Consider the following passages in connection with this video: https://www.youtube.com/watch?v=4dwjS_eI-lQ
+This is a fascinating video about foxes and the genetics of being social. It focuses on foxes but has implications far beyond this, which is taken up directly in the video. Very insightful on the difference between nature and nurture! Consider the following passages in connection with this video: 
+
+https://www.youtube.com/watch?v=4dwjS_eI-lQ
 
 > Sacrifice as a part of religious devotions, like many other worshipful rituals, did not have a simple and single origin. The tendency to bow down before power and to prostrate oneself in worshipful adoration in the presence of mystery is foreshadowed in the fawning of the dog before its master. It is but one step from the impulse of worship to the act of sacrifice. Primitive man gauged the value of his sacrifice by the pain which he suffered. When the idea of sacrifice first attached itself to religious ceremonial, no offering was contemplated which was not productive of pain. The first sacrifices were such acts as plucking hair, cutting the flesh, mutilations, knocking out teeth, and cutting off fingers. As civilization advanced, these crude concepts of sacrifice were elevated to the level of the rituals of self-abnegation, asceticism, fasting, deprivation, and the later Christian doctrine of sanctification through sorrow, suffering, and the mortification of the flesh. (<a id="a96_988"></a>[UB 89:4.1](/en/The_Urantia_Book/89#p4_1))
 
@@ -104,7 +106,7 @@ This is a fascinating video about foxes and the genetics of being social. It foc
 
 > These six evolutionary races are destined to be blended and exalted by amalgamation with the progeny of the Adamic uplifters. But before these peoples are blended, the inferior and unfit are largely eliminated. The Planetary Prince and the Material Son, with other suitable planetary authorities, pass upon the fitness of the reproducing strains. The difficulty of executing such a radical program on Urantia consists in the absence of competent judges to pass upon the biologic fitness or unfitness of the individuals of your world races. Notwithstanding this obstacle, it seems that you ought to be able to agree upon the biologic disfellowshiping of your more markedly unfit, defective, degenerate, and antisocial stocks. (<a id="a104_728"></a>[UB 51:4.8](/en/The_Urantia_Book/51#p4_8))
 
-> If the present-day races of Urantia could be freed from the curse of their lowest strata of deteriorated, antisocial, feeble-minded, and outcast specimens, there would be little objection to a limited race amalgamation. And if such racial mixtures could take place between the highest types of the several races, still less objection could be offered. h
+> If the present-day races of Urantia could be freed from the curse of their lowest strata of deteriorated, antisocial, feeble-minded, and outcast specimens, there would be little objection to a limited race amalgamation. And if such racial mixtures could take place between the highest types of the several races, still less objection could be offered. [UB 82:6.4](/en/The_Urantia_Book/82#p6_4)
 
 > That contemporary cultural society is a rather recent phenomenon is well shown by the present-day survival of such primitive social conditions as characterize the Australian natives and the Bushmen and Pygmies of Africa. Among these backward peoples may be observed something of the early group hostility, personal suspicion, and other highly antisocial traits which were so characteristic of all primitive races. These miserable remnants of the nonsocial peoples of ancient times bear eloquent testimony to the fact that the natural individualistic tendency of man cannot successfully compete with the more potent and powerful organizations and associations of social progression. These backward and suspicious antisocial races that speak a different dialect every forty or fifty miles illustrate what a world you might now be living in but for the combined teaching of the corporeal staff of the Planetary Prince and the later labors of the Adamic group of racial uplifters. (<a id="a108_980"></a>[UB 68:1.6](/en/The_Urantia_Book/68#p1_6))
 
@@ -114,9 +116,9 @@ This is a fascinating video about foxes and the genetics of being social. It foc
 
 ## External Links
 
-- [This report in UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Animal-Domestication.pdf)
+- [This report in UBTheNews](https://ubannotated.com/ubthenews/topics/Dog_Domestication/)
 - [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-- [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+- [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 - http://news.discovery.com/animals/dog-domestication-prehistoric-ice-age-110728.html 33K
 - http://en.wikipedia.org/wiki/Origin_of_the_domestic_dog
 - http://archaeology.about.com/od/dterms/a/domestication.htm chart for various animals

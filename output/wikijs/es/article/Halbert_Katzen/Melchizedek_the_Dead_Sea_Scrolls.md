@@ -378,7 +378,7 @@ Por intrigantes que puedan ser esas preguntas, tal vez no sean tan actuales e im
 
 * [Este informe en la página web de LUTheNews](https://ubannotated.com/ubthenews/topics/melchizedek-and-the-dead-sea-scrolls-report/)
 * [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
-
+

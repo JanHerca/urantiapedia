@@ -871,7 +871,7 @@ _\-ing_: \[Old English _\-ung, -ing_\] (1) action, process (preying, wading); (2
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/etymology-of-coined-terminology)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

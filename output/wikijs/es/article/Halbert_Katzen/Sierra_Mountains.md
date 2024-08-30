@@ -191,7 +191,7 @@ Abordado desde esta perspectiva, el informe de 2006 preparado por Mulch, Graham 
 
 * [Este informe en la página web de LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/SierraMountains.pdf)
 * [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 
 
 ## Sierra Mountains Enlaces adicionales

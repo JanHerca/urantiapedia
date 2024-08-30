@@ -149,7 +149,7 @@ Ce grand jet bleu, jaillissant du sommet d'un orage, a atteint une altitude sup�
 
 - [Ce rapport dans LUTheNews](https://ubannotated.com/ubthenews/topics/ionosphere/)
 - [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-- [Études d'actualité sur la page Web LUTheNews]([LUTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+- [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 - [Urantia Book 58:2](/fr/The_Urantia_Book/58#p2)
 - http://physicsweb.org/articles/news/6/3/9
 - http://news.nationalgeographic.com/news/2003/06/0625_030625_atmospherethunder.html
