@@ -136,7 +136,7 @@ La presentación cosmológica a nivel macro que se encuentra en El libro de Uran
 
 > Estas diferencias en sus dimensiones, unidas a su estado estacionario y a una mayor presión exterior de la energía-fuerza en el extremo norte de la Isla, permiten establecer direcciones absolutas en el universo maestro. ([LU 11:2.3](/es/The_Urantia_Book/11#p2_3))
 
-Al distinguir los planetas habitados de la forma del Paraíso, observe la consideración de significado/valor que también se menciona: la capacidad de establecer un sentido de dirección. La expresión a nivel micro de este principio de valor se vuelve aún más interesante por su informe relacionado de LUtheNEWS: [Sensibilidad magnética](/es/article/Halbert_Katzen/Magnetic_Sensitivity), que se centra en esta enseñanza:
+Al distinguir los planetas habitados de la forma del Paraíso, observe la consideración de significado/valor que también se menciona: la capacidad de establecer un sentido de dirección. La expresión a nivel micro de este principio de valor se vuelve aún más interesante por su informe relacionado de UBtheNEWS: [Sensibilidad magnética](/es/article/Halbert_Katzen/Magnetic_Sensitivity), que se centra en esta enseñanza:
 
 > Los cuatro puntos de la brújula son universales e inherentes a la vida de Nebadon. Todas las criaturas vivientes poseen unidades corporales que son sensibles y responden a estas corrientes direccionales. Estas facultades de las criaturas se reproducen en todo el universo hasta llegar a los planetas individuales y, conjuntamente con las fuerzas magnéticas de los mundos, activan de tal manera la multitud de cuerpos microscópicos del organismo animal que estas células direccionales indican siempre el norte y el sur. El sentido de la orientación está así fijado para siempre en los seres vivos del universo. La humanidad no carece por completo de la posesión consciente de este sentido. Estos cuerpos fueron observados por primera vez en Urantia hacia la época de esta narración. ([LU 34:4.13](/es/The_Urantia_Book/34#p4_13))
 
@@ -445,9 +445,9 @@ En el Simposio Científico de la Fundación Urantia de junio de 2022, la present
 
 > Vuestro universo local de Nebadon pertenece a Orvonton, el séptimo superuniverso, que gira entre los superuniversos uno y seis, y que ha doblado no hace mucho tiempo (tal como nosotros calculamos el tiempo) la curva sudeste del nivel espacial superuniversal. Actualmente, el sistema solar al cual pertenece Urantia ha sobrepasado hace pocos miles de millones de años la curvatura meridional, de manera que ahora estáis avanzando más allá de la curva sudeste y os desplazáis velozmente por la larga ruta relativamente recta hacia el norte. Durante épocas incalculables, Orvonton continuará este recorrido casi directo hacia el norte. ([LU 15:1.5](/es/The_Urantia_Book/15#p1_5))
 
-(El [LUtheNEWS: Informe de Sensibilidad Magnética](/es/article/Halbert_Katzen/Magnetic_Sensitivity) proporciona una perspectiva adicional sobre cómo lograr el equilibrio entre qué información puede y no puede incluirse en _El libro de Urantia_.)
+(El [UBtheNEWS: Informe de Sensibilidad Magnética](/es/article/Halbert_Katzen/Magnetic_Sensitivity) proporciona una perspectiva adicional sobre cómo lograr el equilibrio entre qué información puede y no puede incluirse en _El libro de Urantia_.)
 
-Tal vez algún día, esta página crezca más allá de ser un estudio temático para vivir también como una página de investigación de LUtheNEWS. Por ahora, el primer trabajo es trabajar en la creación de imágenes y desarrollar preguntas relacionadas con la astronomía basada en El libro de Urantia. Ni la imagen pintada por El libro de Urantia ni la ciencia son una imagen completa de la astronomía que responda a todas nuestras preguntas. Y hablando de pintar imágenes, tengo mis propias limitaciones como artista gráfico. Así que, no dude en ponerse en contacto con críticas constructivas y/o ayuda para crear gráficos de mejor calidad. ¡Gracias por ver esto!
+Tal vez algún día, esta página crezca más allá de ser un estudio temático para vivir también como una página de investigación de UBtheNEWS. Por ahora, el primer trabajo es trabajar en la creación de imágenes y desarrollar preguntas relacionadas con la astronomía basada en El libro de Urantia. Ni la imagen pintada por El libro de Urantia ni la ciencia son una imagen completa de la astronomía que responda a todas nuestras preguntas. Y hablando de pintar imágenes, tengo mis propias limitaciones como artista gráfico. Así que, no dude en ponerse en contacto con críticas constructivas y/o ayuda para crear gráficos de mejor calidad. ¡Gracias por ver esto!
 
 Nótese cómo la frase y el concepto de «tiempo-espacio» se abordan muy cerca del principio y del final del texto. Y una sección sobre tiempo-espacio, proporcionada en el Documento 118, también es notable por su ubicación (hacia el final de la Parte III) en relación con el resto de El libro de Urantia.
 
@@ -820,9 +820,9 @@ Tiempo-Espacio: 112 párrafos. Las primeras 28 apariciones están en el Prólogo
 
 ## Enlaces externos
 
-* [Este informe en la página web de LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/astronomy/)
-* [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Este informe en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/astronomy/)
+* [Otros informes en la página web de UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios temáticos en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 * [Libro de texto de astronomía en línea](https://openstax.org/details/books/astronomy) para los dos primeros semestres.
 
 

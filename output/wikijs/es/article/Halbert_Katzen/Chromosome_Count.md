@@ -39,7 +39,7 @@ Si bien las afirmaciones con referencia a la cosmología nunca son inspiradas, t
 
 La referencia a la cosmología —el estudio del universo físico considerado como una totalidad de fenómenos en el tiempo y el espacio— puede parecer al principio un poco exagerada en relación con la afirmación de que hay «cuarenta y ocho unidades de control de patrones —determinantes de rasgos— en las células sexuales de la reproducción humana». Sin embargo, esta información se proporciona en el Documento 36: «Los Portadores de Vida», que se refiere a una orden de seres que son responsables de diseñar e implantar vida evolutiva en mundos habitables, y aparece en un párrafo que señala que el «número doce, con sus subdivisiones y múltiplos, se encuentra presente en todos los patrones básicos de vida». [^4]
 
-Antes de entrar en la sustancia de la declaración sobre los «determinantes de rasgos», es digno de notar que la palabra «cromosomas» no se utiliza en este contexto, pero sí se utiliza en otras partes del libro. [^5] Si bien la premisa subyacente en la preparación de los informes de LUtheNEWS es que _El libro de Urantia_ no tiene derecho al «beneficio de la duda», para ser justos, tampoco se debe presumir que los autores quisieron referirse a los cromosomas, claramente estaban suficientemente familiarizados con el término, porque se utilizó en otro contexto.
+Antes de entrar en la sustancia de la declaración sobre los «determinantes de rasgos», es digno de notar que la palabra «cromosomas» no se utiliza en este contexto, pero sí se utiliza en otras partes del libro. [^5] Si bien la premisa subyacente en la preparación de los informes de UBtheNEWS es que _El libro de Urantia_ no tiene derecho al «beneficio de la duda», para ser justos, tampoco se debe presumir que los autores quisieron referirse a los cromosomas, claramente estaban suficientemente familiarizados con el término, porque se utilizó en otro contexto.
 
 Es necesario hacer una revisión de la historia de la investigación sobre los cromosomas y el ADN para poder apreciar la afirmación de El libro de Urantia sobre los determinantes de los rasgos. De Wikipedia:
 
@@ -72,9 +72,9 @@ Por lo tanto, cuando se publicó en 1955, los autores de El libro de Urantia hic
 
 ## Enlaces externos
 
-- [Este informe en la página web de LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Chromosome.pdf)
-- [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-- [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+- [Este informe en la página web de UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Chromosome.pdf)
+- [Otros informes en la página web de UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+- [Estudios temáticos en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 - http://papa.indstate.edu/amcbt/volume_22/v22-2p3-9.pdf extensa historia sobre la investigación de los cromosomas humanos
 - http://www.ubfellowship.org/archive/science/kanders1.htm este es un artículo de 1988 de Kermit Anderson sobre el tema
 

@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2008 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Préparé par Halbert Katzen, J.D. avec des remerciements particuliers à Chris Halvorson, Ph.D.
 [Mis à jour le 10/08/08]
@@ -21,13 +36,13 @@ Préparé par Halbert Katzen, J.D. avec des remerciements particuliers à Chris 
 
 Le Livre d'Urantia déclare que le frottement des marées ralentit la rotation axiale des corps célestes jusqu'à l'arrêt (par rapport au corps autour duquel ils tournent) et cite Mercure et la Lune comme exemples. Il est bien établi depuis longtemps que la rotation de la Lune s'est arrêtée, et on croyait aussi au moment de la publication (1955) que la rotation de Mercure avait cessé. Bien que la croyance largement répandue au moment de la publication du Livre d'Urantia était que Mercure avait arrêté sa rotation, lorsque Le Livre d'Urantia aborda le sujet du frottement des marées qui ralentit les corps en orbite jusqu'à l'arrêt, il ne déclara pas que Mercure s'était arrêté et dépeignit seulement la Lune comme un corps qui avait arrêté sa rotation à cause du frottement des marées. En 1965, nous avons appris que Mercure a effectivement une rotation lente. Le Livre d'Urantia a évité le piège d'être d'accord avec la science qui était erronée, mais largement acceptée, au moment de sa publication.
 
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 ## Revue de la rotation de Mercure
 
-Ce rapport est différent de la plupart des autres rapports sur LUtheNEWS. La plupart des rapports portent sur la façon dont les avancées scientifiques corroborent des informations historiques et scientifiques qui n'étaient pas confirmées en 1955, lorsque Le Livre d'Urantia a été publié. C'est un exemple de la façon dont Le Livre d'Urantia a évité le piège d'être d'accord avec la science qui était inexacte au moment de la publication. C'est le niveau de corroboration le plus bas et il aurait pu être tout simplement ignoré, s'il n'y avait pas eu de malentendus sur cette question à l'intérieur et à l'extérieur de la communauté des lecteurs du Livre d'Urantia.
+Ce rapport est différent de la plupart des autres rapports sur UBtheNEWS. La plupart des rapports portent sur la façon dont les avancées scientifiques corroborent des informations historiques et scientifiques qui n'étaient pas confirmées en 1955, lorsque Le Livre d'Urantia a été publié. C'est un exemple de la façon dont Le Livre d'Urantia a évité le piège d'être d'accord avec la science qui était inexacte au moment de la publication. C'est le niveau de corroboration le plus bas et il aurait pu être tout simplement ignoré, s'il n'y avait pas eu de malentendus sur cette question à l'intérieur et à l'extérieur de la communauté des lecteurs du Livre d'Urantia.
 
-Les malentendus concernent l'utilisation de la terminologie et la construction grammaticale de la phrase relative à ce sujet. Les malentendus sur ces questions ont amené les lecteurs du Livre d'Urantia et les non-lecteurs du Livre d'Urantia à conclure qu'il s'agit d'un exemple d'inexactitude dans Le Livre d'Urantia. Cette histoire de malentendus fait de ce sujet un sujet important à couvrir par LUtheNEWS, même si la crédibilité que le sujet fournit au Livre d'Urantia est considérablement moindre que les rapports sur les conflits qui se sont révélés corroborés. Dans ce cas, il n'y a jamais eu de véritable conflit entre Le Livre d'Urantia et la science de 1955, sauf dans l'esprit de ceux qui ont mal lu et/ou mal interprété ce qu'il dit.
+Les malentendus concernent l'utilisation de la terminologie et la construction grammaticale de la phrase relative à ce sujet. Les malentendus sur ces questions ont amené les lecteurs du Livre d'Urantia et les non-lecteurs du Livre d'Urantia à conclure qu'il s'agit d'un exemple d'inexactitude dans Le Livre d'Urantia. Cette histoire de malentendus fait de ce sujet un sujet important à couvrir par UBtheNEWS, même si la crédibilité que le sujet fournit au Livre d'Urantia est considérablement moindre que les rapports sur les conflits qui se sont révélés corroborés. Dans ce cas, il n'y a jamais eu de véritable conflit entre Le Livre d'Urantia et la science de 1955, sauf dans l'esprit de ceux qui ont mal lu et/ou mal interprété ce qu'il dit.
 
 En raison de la controverse historique liée à ce sujet, ce rapport abordera d'abord les questions de terminologie et d'interprétation avant d'entrer dans le vif du sujet. Pour fournir un contexte, voici les deux phrases pertinentes du _Livre d'Urantia_ :
 
@@ -103,16 +118,16 @@ Cependant, même si les opinions des astronomes sur ce sujet sont aujourd'hui au
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Mercury.pdf)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Mercury.pdf)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
 
 <br>
 
-## Notes de bas de page :
+## Notes de bas de page :
 
 [^1]: [LU 57:6.2](/fr/The_Urantia_Book/57#p6_2) Ce mode de citation du _Livre d'Urantia_ fournit le chapitre (appelé « Fascicules » dans _Le Livre d'Urantia_), puis la section, suivie du numéro de paragraphe. « Urantia » est un mot inventé dont le sens étymologique est « (votre) place au ciel ».
 
@@ -120,7 +135,7 @@ Cependant, même si les opinions des astronomes sur ce sujet sont aujourd'hui au
 
 [^3]: Définition de Vis viva: [L.] (Mech.), force vive; la force d'un corps se déplaçant contre une résistance, ou effectuant un travail, par opposition à vis mortua, ou force morte; l'énergie cinétique d'un corps en mouvement; la capacité d'un corps en mouvement à effectuer un travail en raison de son mouvement. [1913 Webster]
 
-[^4] : http://www.rastko.rs/projekti/tesla/delo/10847 New York Tribune — 23 février 1919 ; Tesla répond à M. Manierre et explique plus en détail la rotation axiale de la Lune. OCR par : Varsányi Péter (Pepe) www.tesla.hu. Version : 1.00 (2003-11-08)
+[^4] : http://www.rastko.rs/projekti/tesla/delo/10847 New York Tribune — 23 février 1919 ; Tesla répond à M. Manierre et explique plus en détail la rotation axiale de la Lune. OCR par : Varsányi Péter (Pepe) www.tesla.hu. Version : 1.00 (2003-11-08)
 
 [^5]: http://en.wikipedia.org/wiki/Planet_Mercury
 

@@ -127,7 +127,7 @@ The word “Shabbat” derives from the Hebrew verb _shavat_ ([Hebrew](https://e
 
 Below are some select excerpts:
 
-\[Note: According to _The Urantia Book_, the 4000th anniversary of the arrival of Machiventa Melchizedek is 2021! See: [Prophecy and “signs of the times”/History of this Topical Study](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/#history).\]
+\[Note: According to _The Urantia Book_, the 4000th anniversary of the arrival of Machiventa Melchizedek is 2021! See: [Prophecy and “signs of the times”/History of this Topical Study](/en/article/Halbert_Katzen/Prophecy_and_signs_of_the_times).\]
 
 **Millennial Sabbath**
 
@@ -161,7 +161,7 @@ Counting from the [new moon](https://en.wikipedia.org/wiki/New_moon), the Babylo
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/lord-of-the-sabbath/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

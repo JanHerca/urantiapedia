@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2012 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Contenu
 
@@ -29,7 +44,7 @@ Préparé par Halbert Katzen, J.D. [Mis à jour le 07/02/12]
 
 Jusque dans les années 1980, lorsque le télescope Hubble a été construit, les astronomes étaient très sceptiques quant à la capacité de télescopes plus puissants à pénétrer l'espace lointain. Divers facteurs ont conduit les astronomes dans cette direction : la théorie du Big Bang, les problèmes de décalage vers le rouge, les forces gravitationnelles, etc. On a dit aux personnes qui ont construit le télescope Hubble de ne pas s'inquiéter de voir des galaxies dans l'espace lointain, car ce ne serait pas possible. En 1977, un article de Scientific American notait que les astronomes estimaient qu'il y avait environ 10 millions de galaxies visibles. Néanmoins, les auteurs du Livre d'Urantia (publié en 1955) affirment : « Dans un avenir pas si lointain, de nouveaux télescopes révéleront au regard émerveillé des astronomes d'Urantia [Terre] pas moins de 375 millions de nouvelles galaxies dans les étendues reculées de l'espace extra-atmosphérique. » Les données recueillies par le télescope Hubble ont considérablement augmenté les estimations précédentes. Actuellement, les astronomes estiment qu'il y a bien plus de 100 milliards de galaxies.
 
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 ## Critique de Galaxies
 
@@ -79,7 +94,7 @@ Documenter la manière dont les nouvelles découvertes et les avancées scientif
 
 Les auteurs du Livre d'Urantia utilisent les termes « univers insulaires » et « nébuleuses » comme synonymes, ce qui correspond à la transition de la terminologie des « univers insulaires » aux « nébuleuses ». La page Wikipédia sur les galaxies déclare : « En 1750, Thomas Wright, dans sa théorie originale ou nouvelle hypothèse de l'univers, a émis l'hypothèse (correcte) que la Voie lactée était un disque aplati d'étoiles et que certaines des nébuleuses visibles dans le ciel nocturne pourraient être des Voies lactées distinctes. En 1755, Emmanuel Kant a introduit le terme « univers insulaire » pour ces nébuleuses lointaines. »[^13]
 
-Si vous avez connaissance de découvertes qui soutiennent ces déclarations supplémentaires dans _Le Livre d'Urantia_, veuillez envoyer un courriel au projet LUtheNEWS avec ces informations.
+Si vous avez connaissance de découvertes qui soutiennent ces déclarations supplémentaires dans _Le Livre d'Urantia_, veuillez envoyer un courriel au projet UBtheNEWS avec ces informations.
 
 ## Galaxies : plus profondes et plus larges
 
@@ -98,23 +113,23 @@ La vue optique la plus profonde et la plus détaillée de l'univers, offerte par
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Galaxies.pdf)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Galaxies.pdf)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
 
 <br>
 
-## Notes de bas de page :
+## Notes de bas de page :
 
 [^1]: Livre d'Urantia [LU 12:2.3](/fr/The_Urantia_Book/12#p2_3) Les références au _Livre d'Urantia_ sont formatées en fonction du chapitre (appelé « Fascicules » dans _Le Livre d'Urantia_), de la section et du paragraphe. Dans cet exemple, 12:2.3 fait référence au Fascicule 12, section 2, paragraphe 3. Le mot « Urantia », désignant la Terre, est un mot inventé dans _Le Livre d'Urantia_, avec la signification étymologique de « (votre) place au ciel ».
 [^2]: Michael J. Disney, « Cosmologie moderne : science ou conte populaire ? », _American Scientist_, septembre-octobre 2007, 385 .
 [^3]: http://klima-luft.de/steinicke/Deep-Sky/deep-sky_e.htm
 [^4]: http://www.urantiabook.org/archive/science/milkyway.htm
 [^5]: Morrison, David, Sidney Wolff \& Andrew Fraknoi. Exploration de l'Univers, 7e éd. Philadelphie : Saunders, 1995 : 7.
-[^6] : _Encyclopédie mondiale du livre_. Chicago : World Book, 1997 : 205
+[^6] : _Encyclopédie mondiale du livre_. Chicago : World Book, 1997 : 205
 [^7]: http://www.astro.uu.nl/ strous/AA/fr/antwoorden/melkwegstelsels.htm|\#13
 [^8]: Livre d'Urantia [LU 15:3.1](/fr/The_Urantia_Book/15#p3_1)
 [^9]: Livre d'Urantia [LU 12:1.3](/fr/The_Urantia_Book/12#p1_3)

@@ -115,7 +115,7 @@ Mankind's deepest, most detailed optical view of the universe - provided courtes
 
 * [This report in UBTheNews webpage](https://ubannotated.com/wp-content/uploads/2018/03/Galaxies.pdf)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

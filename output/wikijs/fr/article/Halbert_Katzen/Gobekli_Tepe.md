@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -27,7 +42,7 @@ En 1994, presque quarante ans après la publication du Livre d’Urantia en 1955
 
 *Le Livre d'Urantia* a répondu à ces questions quarante ans avant que nous ne découvrions l'existence de ce mystérieux site. L'histoire de l'humanité fournie par les auteurs du *Livre d'Urantia* raconte qu'une civilisation d'éleveurs-agriculteurs génétiquement supérieure et bien développée existait dans cette région il y a plus de 30 000 ans. Ils expliquent également pourquoi cette civilisation particulière a connu une dégradation génétique prolongée et, par conséquent, un déclin culturel. De plus, *Le Livre d'Urantia* dit qu'en raison des pressions démographiques, des tribus inférieures et plus barbares ont chassé cette civilisation plus pacifique et plus avancée.
 
-Ce qui ajoute à l'intrigue de ce rapport est sa relation avec le [Rapport Adam et Ève](/fr/article/Halbert_Katzen/Adam_and_Eve) et le [Rapport sur le Jardin d'Éden](/fr/article/Halbert_Katzen/Garden_of_Eden). Ces deux rapports révèlent également certaines des corroborations les plus impressionnantes de l'histoire du *Livre d'Urantia* documentées jusqu'à présent par LUtheNEWS. L'histoire d'Adam et Ève dans *Le Livre d'Urantia* est significativement différente de celle trouvée dans l'Ancien Testament et se concentre autour d'un changement génétique majeur qui s'est produit il y a 38 000 ans. Commencer par le [Rapport Adam et Ève](/fr/article/Halbert_Katzen/Adam_and_Eve) fournit un contexte sur les questions génétiques qui sont pertinentes pour ce rapport ; cependant, il n'est pas nécessaire de lire celui-ci en premier pour comprendre celui-ci. Pour une compréhension générale de ce que *Le Livre d'Urantia* dit sur la génétique, voir *Étude thématique : Introductions génétiques, mutations et évolution : une perspective du Livre d'Urantia*.
+Ce qui ajoute à l'intrigue de ce rapport est sa relation avec le [Rapport Adam et Ève](/fr/article/Halbert_Katzen/Adam_and_Eve) et le [Rapport sur le Jardin d'Éden](/fr/article/Halbert_Katzen/Garden_of_Eden). Ces deux rapports révèlent également certaines des corroborations les plus impressionnantes de l'histoire du *Livre d'Urantia* documentées jusqu'à présent par UBtheNEWS. L'histoire d'Adam et Ève dans *Le Livre d'Urantia* est significativement différente de celle trouvée dans l'Ancien Testament et se concentre autour d'un changement génétique majeur qui s'est produit il y a 38 000 ans. Commencer par le [Rapport Adam et Ève](/fr/article/Halbert_Katzen/Adam_and_Eve) fournit un contexte sur les questions génétiques qui sont pertinentes pour ce rapport ; cependant, il n'est pas nécessaire de lire celui-ci en premier pour comprendre celui-ci. Pour une compréhension générale de ce que *Le Livre d'Urantia* dit sur la génétique, voir *Étude thématique : Introductions génétiques, mutations et évolution : une perspective du Livre d'Urantia*.
 
 ## Rapport de compétition
 
@@ -42,7 +57,7 @@ Les théories sur l'histoire de la civilisation humaine reposent sur des preuves
 
 *Le Livre d’Urantia* fournit une histoire de l’humanité qui s’harmonise parfaitement avec les découvertes faites à Gobekli Tepe. Il présente une explication des mystères de Gobekli Tepe en termes d’une histoire d’Adam et Ève qui diffère considérablement du récit de l’Ancien Testament, mais qui, selon les auteurs, est néanmoins la base de beaucoup de nos mythes et traditions religieuses sur les origines de l’humanité. Il n’est pas surprenant qu’en raison de la nature inhabituelle et de l’âge de ce site archéologique, les érudits aient rapidement commencé à spéculer sur la façon dont il pourrait se rapporter aux traditions religieuses sur Adam et Ève. Ainsi, dans un sens, l’explication du *Livre d’Urantia* s’accorde bien avec les spéculations des érudits sur la signification de Gobekli Tepe. Même ainsi, tout en démontrant des parallèles clairs, les aspects uniques de l’histoire d’Adam et Ève trouvés dans *Le Livre d’Urantia*, soulèveront sans aucun doute aussi beaucoup de questions.
 
-Ce rapport ne prétend pas fournir toutes les réponses. Certaines explications peuvent être trouvées en lisant le [Rapport Adam et Ève](/fr/article/Halbert_Katzen/Adam_and_Eve) et le [Rapport Jardin d'Éden](/fr/article/Halbert_Katzen/Garden_of_Eden). Pour une compréhension plus complète, lisez les chapitres 73 à 80 du *Livre d'Urantia*. De plus, vous pouvez consulter l'article [Eugénisme, race et Le Livre d'Urantia](/fr/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book). En janvier 2011, LUtheNEWS a préparé et publié la première et la seule revue complète sur ce sujet.
+Ce rapport ne prétend pas fournir toutes les réponses. Certaines explications peuvent être trouvées en lisant le [Rapport Adam et Ève](/fr/article/Halbert_Katzen/Adam_and_Eve) et le [Rapport Jardin d'Éden](/fr/article/Halbert_Katzen/Garden_of_Eden). Pour une compréhension plus complète, lisez les chapitres 73 à 80 du *Livre d'Urantia*. De plus, vous pouvez consulter l'article [Eugénisme, race et Le Livre d'Urantia](/fr/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book). En janvier 2011, UBtheNEWS a préparé et publié la première et la seule revue complète sur ce sujet.
 
 <figure id="Gobekli_Tepe_fig_3" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Gobekli_Tepe/gobeklitepe03.jpg" width="700" heigth="410">
@@ -301,9 +316,9 @@ Le récit du sort des Adamites dans le *Livre d’Urantia* contribue grandement 
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/gobekli-tepe/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/gobekli-tepe/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 * Wikipédia : http://en.wikipedia.org/wiki/Gobekli_Tepe
 * Page d'Andrew Collins sur Göbekli Tepe : http://www.andrewcollins.com/page/articles/Gobekli.htm
 * Shaena Montanari, *Des traces de culte du crâne découvertes dans le plus vieux temple du monde*, National Geographic, juin 2017. https://www.nationalgeographic.com/news/2017/06/skulls-cult-turkey-archaeology-neolithic-gobekli/. Article sur les marques du crâne de Gobekli Tepe.

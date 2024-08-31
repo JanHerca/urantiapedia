@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -18,11 +33,11 @@ _Par Halbert Katzen J.D._
 
 ## Introduction
 
-> Ce monde n’a jamais sérieusement, sincèrement, ni honnêtement mis à l’épreuve ces idées dynamiques et ces idéaux divins de la doctrine du royaume des cieux exposée par Jésus. Mais il n’y a pas lieu de se laisser décourager par la lenteur apparente du progrès de l’idée du royaume sur Urantia. Rappelez-vous que l’ordre de l’évolution progressive est sujet à des changements périodiques soudains et inattendus, à la fois dans le monde matériel et dans le monde spirituel. L’effusion de Jésus en tant que Fils incarné fut précisément l’un de ces évènements étranges et inattendus dans la vie spirituelle du monde. En recherchant la manifestation du royaume dans l’âge contemporain, ne commettez pas non plus l’erreur fatale d’omettre de l’établir dans votre propre âme. ([LU 170:4.14](/fr/The_Urantia_Book/170#p4_14))
+> Ce monde n’a jamais sérieusement, sincèrement, ni honnêtement mis à l’épreuve ces idées dynamiques et ces idéaux divins de la doctrine du royaume des cieux exposée par Jésus. Mais il n’y a pas lieu de se laisser décourager par la lenteur apparente du progrès de l’idée du royaume sur Urantia \[Terre\]. Rappelez-vous que l’ordre de l’évolution progressive est sujet à des changements périodiques soudains et inattendus, à la fois dans le monde matériel et dans le monde spirituel. L’effusion de Jésus en tant que Fils incarné fut précisément l’un de ces évènements étranges et inattendus dans la vie spirituelle du monde. En recherchant la manifestation du royaume dans l’âge contemporain, ne commettez pas non plus l’erreur fatale d’omettre de l’établir dans votre propre âme. ([LU 170:4.14](/fr/The_Urantia_Book/170#p4_14))
 
-> « Mais que signifie cet enseignement sur la venue des Fils de Dieu ? Chacun de vous sera appelé un jour à abandonner les luttes de la vie et à passer par les portes de la mort ; ne percevez-vous pas que vous vous trouverez, alors, en présence immédiate du jugement, face à face avec les faits d’une nouvelle dispensation de service dans le plan éternel du Père infini ? Ce à quoi le monde entier doit faire face, littéralement, comme un fait appartenant à la fin d’un âge, vous, en tant qu’individus, devrez très certainement y faire face aussi en tant qu’expérience personnelle quand vous arriverez à la fin de votre vie terrestre et que le passage dans l’au-delà vous confrontera aux conditions et aux exigences inhérentes à la révélation suivante de la progression éternelle du royaume du Père. « ([LU 176:2.7](/fr/The_Urantia_Book/176#p2_7))
+> \[En réponse à la question de Pierre, Jésus dit . . .\] « Mais que signifie cet enseignement sur la venue des Fils de Dieu ? Chacun de vous sera appelé un jour à abandonner les luttes de la vie et à passer par les portes de la mort ; ne percevez-vous pas que vous vous trouverez, alors, en présence immédiate du jugement, face à face avec les faits d’une nouvelle dispensation de service dans le plan éternel du Père infini ? Ce à quoi le monde entier doit faire face, littéralement, comme un fait appartenant à la fin d’un âge, vous, en tant qu’individus, devrez très certainement y faire face aussi en tant qu’expérience personnelle quand vous arriverez à la fin de votre vie terrestre et que le passage dans l’au-delà vous confrontera aux conditions et aux exigences inhérentes à la révélation suivante de la progression éternelle du royaume du Père. « ([LU 176:2.7](/fr/The_Urantia_Book/176#p2_7))
 
-Si vous êtes nouveau dans le Livre d'Urantia et que vous vous êtes retrouvé ici pour la première fois, cette page est l'une des façons les plus intrigantes de vous familiariser avec le Livre d'Urantia, mais vous devrez vous y habituer un peu, car votre compréhension de la cosmologie du Livre d'Urantia grandit avec la lecture du matériel. Les informations générales pour les nouveaux visiteurs sont bien sûr accessibles sur la page [Accueil]. Des liens et des commentaires sont insérés sur cette page pour aider les nouveaux visiteurs à se mettre à jour.
+Si vous êtes nouveau dans le _Livre d'Urantia_ et que vous vous êtes retrouvé ici pour la première fois, cette page est l'une des façons les plus intrigantes de vous familiariser avec le _Livre d'Urantia_, mais vous devrez vous y habituer un peu, car votre compréhension de la cosmologie du _Livre d'Urantia_ grandit avec la lecture du matériel. Les informations générales pour les nouveaux visiteurs sont bien sûr accessibles sur la page [Accueil]. Des liens et des commentaires sont insérés sur cette page pour aider les nouveaux visiteurs à se mettre à jour.
 
 Cette étude est peut-être mieux considérée comme un sous-thème de l’étude thématique : [Prophétie et « signes des temps »](/fr/article/Halbert_Katzen/Prophecy_and_signs_of_the_times).
 
@@ -40,13 +55,13 @@ Est-ce que quelque chose comme la Grande Tribulation est sur le point de se prod
 
 Nous pouvons étudier cela ensemble, même si chacun de nous doit tirer ses propres conclusions.
 
-Certains étudiants du Livre d'Urantia sont enclins à croire qu'aucun événement de type ravissement, « fin du monde », apocalypse ou jugement dernier ne se produira sur notre planète. Les deux paragraphes suivants sont souvent utilisés pour étayer cette perspective :
+Certains étudiants du _Livre d'Urantia_ sont enclins à croire qu'aucun événement de type ravissement, « fin du monde », apocalypse ou jugement dernier ne se produira sur notre planète. Les deux paragraphes suivants sont souvent utilisés pour étayer cette perspective :
 
-> Urantia est le sanctuaire sentimental de tout Nébadon ; la plus importante de dix-millions de planètes habitées, la demeure humaine de Christ Micaël, souverain de tout Nébadon, ministre Melchizédek auprès des royaumes, sauveur systémique, rédempteur adamique, compagnon séraphique, associé des esprits ascendants, progresseur morontiel, Fils de l’Homme dans la similitude de la chair mortelle et Prince Planétaire d’Urantia. Et vos Écritures disent la vérité en affirmant que ce même Jésus a promis de revenir, un jour, sur le monde de son effusion terminale, le Monde de la Croix. ([LU 119:8.8](/fr/The_Urantia_Book/119#p8_8))
+> Urantia est le sanctuaire sentimental de tout Nébadon \[notre section de l'univers\]; la plus importante de dix-millions de planètes habitées, la demeure humaine de Christ Micaël \[Jésus\], souverain de tout Nébadon, ministre Melchizédek auprès des royaumes, sauveur systémique, rédempteur adamique, compagnon séraphique, associé des esprits ascendants, progresseur morontiel, Fils de l’Homme dans la similitude de la chair mortelle et Prince Planétaire d’Urantia. Et vos Écritures disent la vérité en affirmant que ce même Jésus a promis de revenir, un jour, sur le monde de son effusion terminale, le Monde de la Croix. ([LU 119:8.8](/fr/The_Urantia_Book/119#p8_8))
 
 > « « Vous me voyez maintenant faible et dans la chair, mais, quand je reviendrai, ce sera avec puissance et en esprit. Les yeux de la chair voient le Fils de l’Homme dans la chair, mais seul l’œil de l’esprit verra le Fils de l’Homme glorifié par le Père et apparaissant sur terre en son propre nom. » ([LU 176:2.4](/fr/The_Urantia_Book/176#p2_4))
 
-Ces deux paragraphes conduisent certaines personnes à conclure qu'il est nécessaire qu'il y ait une continuité d'habitation sur notre planète. Mais le Livre d'Urantia n'offre aucun enseignement particulier pour soutenir cette présomption. Un certain type d'enlèvement et de retour de ceux qui sont sauvés est également cohérent avec ce qui est dit (et référencé) sur ce sujet.
+Ces deux paragraphes conduisent certaines personnes à conclure qu'il est nécessaire qu'il y ait une continuité d'habitation sur notre planète. Mais le _Livre d'Urantia_ n'offre aucun enseignement particulier pour soutenir cette présomption. Un certain type d'enlèvement et de retour de ceux qui sont sauvés est également cohérent avec ce qui est dit (et référencé) sur ce sujet.
 
 _Le Livre d'Urantia_ fait référence à des passages de la Bible concernant un nouveau ciel et une nouvelle terre d'une manière qui les valide.
 
@@ -120,9 +135,9 @@ La deuxième citation est tirée de [Isaïe 66](/fr/Bible/Isaiah/66) (Jugement e
 > 
 > <sup><small>10</sup></small> « Réjouissez-vous avec Jérusalem et soyez dans l’allégresse à cause d’elle, vous tous qui l’aimez ; soyez dans l’allégresse avec elle, vous tous qui êtes en deuil à cause d’elle ! <sup><small>11</sup></small> Car vous serez allaités et rassasiés de son sein réconfortant, vous boirez à volonté et vous vous délecterez de sa splendeur abondante. » <sup><small>12</sup></small> Car ainsi parle l’Éternel : Je ferai couler sur elle la paix comme un fleuve, et la richesse des nations comme un torrent débordé ; vous serez allaités et portés sur ses bras, caressés sur ses genoux. <sup><small>13</sup></small> Comme une mère console son enfant, ainsi je vous consolerai, et vous serez consolés à cause de Jérusalem. » <sup><small>14</sup></small> Quand vous verrez cela, votre cœur se réjouira, et vous refleurirez comme l’herbe, La main de l'Éternel se fera connaître à ses serviteurs, Mais sa fureur se manifestera à ses ennemis.
 > 
-15 Voici, l'Éternel vient dans le feu, et ses chars sont comme un tourbillon; il fera tomber sa colère avec fureur, et ses menaces avec des flammes de feu. 16 Car c'est par le feu et par l'épée que l'Éternel exercera des jugements sur tous les peuples, et il fera mourir un grand nombre de personnes. 17 Ceux qui se sanctifient et se purifient pour aller dans les jardins, en suivant celui qui mange de la chair de porc, des rats et d'autres choses impures, ceux-là finiront avec celui qu'ils suivent, dit l'Éternel.
+> <sup><small>15</sup></small>  Voici, l'Éternel vient dans le feu, et ses chars sont comme un tourbillon; il fera tomber sa colère avec fureur, et ses menaces avec des flammes de feu. <sup><small>16</sup></small>  Car c'est par le feu et par l'épée que l'Éternel exercera des jugements sur tous les peuples, et il fera mourir un grand nombre de personnes. <sup><small>17</sup></small>  Ceux qui se sanctifient et se purifient pour aller dans les jardins, en suivant celui qui mange de la chair de porc, des rats et d'autres choses impures, ceux-là finiront avec celui qu'ils suivent, dit l'Éternel.
 > 
-18 Et moi, à cause de ce qu’ils ont projeté et fait, je vais venir rassembler les peuples de toutes les nations et de toutes les langues ; ils viendront et verront ma gloire. 19 Je mettrai un signe parmi eux, et j’enverrai quelques-uns des survivants vers les nations, à Tarsis, vers les Libyens et les Lydiens, célèbres pour leur art du tir à l’arc, à Tubal, en Grèce, et dans les îles lointaines qui n’ont pas entendu parler de moi et qui n’ont pas vu ma gloire. Ils publieront ma gloire parmi les nations. 20 Ils ramèneront tout ton peuple, de toutes les nations, à ma montagne sainte, à Jérusalem, en offrande à l’Éternel, sur des chevaux, des chars, des chariots, des mulets et des chameaux, dit l’Éternel. Ils les apporteront au temple de l’Éternel, comme les Israélites apportent leurs offrandes, dans des vases purs. <sup><small>21</sup></small> Et je choisirai aussi parmi eux quelques-uns pour être sacrificateurs et Lévites, dit l'Éternel.
+> <sup><small>18</sup></small>  Et moi, à cause de ce qu’ils ont projeté et fait, je vais venir rassembler les peuples de toutes les nations et de toutes les langues ; ils viendront et verront ma gloire. <sup><small>19</sup></small>  Je mettrai un signe parmi eux, et j’enverrai quelques-uns des survivants vers les nations, à Tarsis, vers les Libyens et les Lydiens, célèbres pour leur art du tir à l’arc, à Tubal, en Grèce, et dans les îles lointaines qui n’ont pas entendu parler de moi et qui n’ont pas vu ma gloire. Ils publieront ma gloire parmi les nations. <sup><small>20</sup></small>  Ils ramèneront tout ton peuple, de toutes les nations, à ma montagne sainte, à Jérusalem, en offrande à l’Éternel, sur des chevaux, des chars, des chariots, des mulets et des chameaux, dit l’Éternel. Ils les apporteront au temple de l’Éternel, comme les Israélites apportent leurs offrandes, dans des vases purs. <sup><small>21</sup></small> Et je choisirai aussi parmi eux quelques-uns pour être sacrificateurs et Lévites, dit l'Éternel.
 > 
 > <sup><small>22</sup></small> « Comme les nouveaux cieux et la nouvelle terre que je vais créer subsisteront devant moi, dit l'Éternel, ainsi subsisteront votre nom et votre descendance. <sup><small>23</sup></small> À chaque nouvelle lune et à chaque sabbat, tous les hommes viendront se prosterner devant moi, dit l'Éternel.
 > 
@@ -208,7 +223,7 @@ La citation concernant le nouveau ciel et la nouvelle terre trouvée dans le der
 
 \[Étymologie de crise : du grec ancien κρίσις (krísis, « une séparation, un pouvoir de distinction, une décision, un choix, une élection, un jugement, un différend »), de κρίνω(krínō, « choisir, décider, juger »).\]
 
-> Jésus fit allusion à une phase du royaume comme située dans l’avenir, et suggéra, en de nombreuses occasions, qu’elle pourrait apparaitre comme élément d’une crise mondiale. Par ailleurs, en plusieurs circonstances, il promit nettement qu’il reviendrait certainement sur Urantia. Mais il faut noter qu’il n’a jamais établi un lien positif entre ces deux idées. Il promit une nouvelle révélation du royaume sur terre à un moment donné de l’avenir ; il promit également qu’il reviendrait un jour, en personne, sur ce monde ; mais il n’a jamais dit que ces deux évènements coïncideraient. D’après tout ce que nous savons, ces promesses peuvent se référer ou non au même évènement. ([LU 170:4.15](/fr/The_Urantia_Book/170#p4_15))
+> Jésus fit allusion à une phase du royaume comme située dans l’avenir, et suggéra, _en de nombreuses occasions_, qu’elle pourrait apparaitre comme élément d’une crise mondiale. Par ailleurs, en plusieurs circonstances, il promit nettement qu’il reviendrait certainement sur Urantia. Mais il faut noter qu’il n’a jamais établi un lien positif entre ces deux idées. Il promit une nouvelle révélation du royaume sur terre à un moment donné de l’avenir ; il promit également qu’il reviendrait un jour, en personne, sur ce monde ; mais il n’a jamais dit que ces deux évènements coïncideraient. D’après tout ce que nous savons, ces promesses peuvent se référer ou non au même évènement. \[C'est nous qui soulignons. Notez également que si Jésus devait revenir juste après une crise, ce scénario correspondrait bien à ce qui a été écrit dans cette révélation et dans les prophéties passées.\] ([LU 170:4.15](/fr/The_Urantia_Book/170#p4_15))
 
 > La religion institutionnelle est impuissante à procurer l’inspiration et à fournir des directives pour la reconstruction sociale et la réorganisation économique imminentes à l’échelle mondiale, parce qu’elle est malheureusement devenue plus ou moins une partie organique de l’ordre social et du système économique qui sont destinés à être reconstruits. Seule la vraie religion d’expérience spirituelle personnelle peut fonctionner utilement et créativement dans la présente crise de la civilisation. ([LU 99:2.1](/fr/The_Urantia_Book/99#p2_1))
 
@@ -254,7 +269,7 @@ La citation concernant le nouveau ciel et la nouvelle terre trouvée dans le der
 
 > Même après cet avertissement explicite, beaucoup de disciples de Jésus interprétèrent ces prédictions comme se rapportant aux changements qui se produiraient évidemment dans Jérusalem quand la réapparition du Messie aurait pour résultat d’instaurer la Nouvelle Jérusalem et d’agrandir la ville pour qu’elle devienne la capitale du monde. Dans leur mental, ces Juifs étaient déterminés à lier la destruction du temple avec la « fin du monde ». Ils croyaient que la Nouvelle Jérusalem remplirait toute la Palestine ; que la fin du monde serait immédiatement suivie de l’apparition « des nouveaux cieux et de la nouvelle terre ». Il n’est donc pas surprenant que Pierre ait dit : « Maitre, nous savons que toutes choses disparaitront lors de l’apparition des nouveaux cieux et de la nouvelle terre, mais comment connaitrons-nous le moment où tu reviendras pour accomplir tout cela ? » ([LU 176:1.6](/fr/The_Urantia_Book/176#p1_6))
 
-### Sélectionnez les usages et les passages liés à « nouveau monde » :
+### Sélectionnez les usages et les passages liés à « nouveau monde » :
 
 > Bien qu’existe cette technique de dématérialisation préparatoire au transit des Adams de Jérusem sur les mondes évolutionnaires, il n’y a pas de méthode équivalente pour les en retirer, à moins de vider toute la planète. Dans ce cas, on établit une installation de secours où l’on emploie la technique de dématérialisation pour toute la population à sauver. Si une catastrophe physique devait ruiner la résidence planétaire d’une race en évolution, les Melchizédeks et les Porteurs de Vie emploieraient la technique de dématérialisation pour tous les survivants, et ces êtres seraient emmenés par transport séraphique sur le nouveau monde préparé pour la continuation de leur existence. Une fois inaugurée sur un monde de l’espace, l’évolution d’une race humaine doit se poursuivre tout à fait indépendamment de la survivance physique de sa planète, mais, pendant les âges évolutionnaires, aucune disposition n’est envisagée pour qu’un Adam ou une Ève Planétaires puissent quitter le monde qu’ils ont choisi. ([LU 51:2.3](/fr/The_Urantia_Book/51#p2_3))
 
@@ -272,7 +287,7 @@ La citation concernant le nouveau ciel et la nouvelle terre trouvée dans le der
 > 
 > Juste avant la venue de Jésus sur terre, les Juifs combinaient et confondaient toutes ces idées du royaume dans leur concept apocalyptique de la venue du Messie pour établir l’âge du triomphe juif, l’âge éternel de la souveraineté suprême de Dieu sur terre, le nouveau monde, l’ère où l’humanité adorerait Yahweh. En choisissant d’utiliser ce concept du royaume des cieux, Jésus décida de s’approprier l’héritage le plus élevé et le plus essentiel des deux religions juive et persane. ([LU 170:1.1-7](/fr/The_Urantia_Book/170#p1_1))
 
-### Sélectionnez des passages avec « new age » :
+### Sélectionnez des passages avec « new age » :
 
 **Jean-Baptiste et Jésus**
 
@@ -320,46 +335,46 @@ Développant l’enseignement du _Livre d’Urantia_ sur le « Fils de l’Homme
 > <sup><small>14</sup></small> Et il (c’est-à-dire l’ange) vint à moi et me salua de sa voix, et me dit : « Celui-ci est le Fils de l’homme qui est né pour la justice, et la justice demeure sur lui, et la justice du Chef des jours ne l’abandonne pas. »
 > (Daniel 7:13), (Jérémie 33:15), (Le Livre d'Enoch 62:1-2)
 > <sup><small>15</sup></small> Et il me dit : Il t'annonce la paix au nom du monde à venir ; car de là vient la paix depuis la création du monde, et il en sera ainsi pour toi aux siècles des siècles.
-&gt; <sup><small>16</small></sup> Et tous marcheront dans ses voies, car la justice ne l&#39;abandonne jamais. Leurs demeures seront avec lui, et leur héritage avec lui; et ils ne seront pas séparés de lui, à toujours et à perpétuité.  
-&gt; (Psaume 85:11-13)
-&gt; <sup><small>17</small></sup> Et ainsi les jours du Fils de l&#39;homme seront prolongés, et les justes auront la paix et la voie droite, au nom du Seigneur des esprits, aux siècles des siècles.  
-&gt; (Jean 14:6), (Esaïe 35:8), (Hébreux 10:19-20), (Jérémie 50:4-6), (Esaïe 26:3-4, 12), (Esaïe 57:2), (Jean 14:27), (Jean 16:33), (Philippiens 4:7)
+> <sup><small>16</small></sup> Et tous marcheront dans ses voies, car la justice ne l'abandonne jamais. Leurs demeures seront avec lui, et leur héritage avec lui; et ils ne seront pas séparés de lui, à toujours et à perpétuité.  
+> (Psaume 85:11-13)
+> <sup><small>17</small></sup> Et ainsi les jours du Fils de l'homme seront prolongés, et les justes auront la paix et la voie droite, au nom du Seigneur des esprits, aux siècles des siècles.  
+> (Jean 14:6), (Esaïe 35:8), (Hébreux 10:19-20), (Jérémie 50:4-6), (Esaïe 26:3-4, 12), (Esaïe 57:2), (Jean 14:27), (Jean 16:33), (Philippiens 4:7)
 
 [Daniel 7](/fr/Bible/Daniel/7) (LSG):
 
-&gt; <sup><small>13</small></sup> Je regardais pendant mes visions nocturnes, et voici, sur les nuées du ciel arrivait quelqu&#39;un de semblable à un fils de l&#39;homme; il s&#39;approcha de l&#39;Ancien des jours, et on le fit approcher de lui.
+> <sup><small>13</small></sup> Je regardais pendant mes visions nocturnes, et voici, sur les nuées du ciel arrivait quelqu'un de semblable à un fils de l'homme; il s'approcha de l'Ancien des jours, et on le fit approcher de lui.
 > 
-&gt; <sup><small>14</small></sup> Et la domination, la gloire et le royaume lui furent donnés; et tous les peuples, les nations, et les hommes de toutes langues le servirent. Sa domination est une domination éternelle qui ne passera point, et son règne ne sera jamais détruit.
+> <sup><small>14</small></sup> Et la domination, la gloire et le royaume lui furent donnés; et tous les peuples, les nations, et les hommes de toutes langues le servirent. Sa domination est une domination éternelle qui ne passera point, et son règne ne sera jamais détruit.
 > 
-&gt; <sup><small>15</small></sup> Moi, Daniel, j&#39;étais attristé dans mon esprit et dans mon corps, et les visions de ma tête m&#39;épouvantaient.
+> <sup><small>15</small></sup> Moi, Daniel, j'étais attristé dans mon esprit et dans mon corps, et les visions de ma tête m'épouvantaient.
 > 
-&gt; <sup><small>16</small></sup> Je m&#39;approchai de l&#39;un de ceux qui étaient là, et je lui demandai ce qu&#39;il en était réellement. Il me le raconta et m&#39;en donna l&#39;explication.
+> <sup><small>16</small></sup> Je m'approchai de l'un de ceux qui étaient là, et je lui demandai ce qu'il en était réellement. Il me le raconta et m'en donna l'explication.
 > 
-&gt; <sup><small>17</small></sup> Ces quatre grandes bêtes sont quatre rois qui s&#39;élèveront de la terre.
+> <sup><small>17</small></sup> Ces quatre grandes bêtes sont quatre rois qui s'élèveront de la terre.
 > 
-&gt; <sup><small>18</small></sup> Mais les saints du Très-Haut recevront le royaume, et posséderont le royaume éternellement, d&#39;éternité en éternité.
+> <sup><small>18</small></sup> Mais les saints du Très-Haut recevront le royaume, et posséderont le royaume éternellement, d'éternité en éternité.
 > 
-&gt; <sup><small>19</small></sup> Alors je désirais connaître la vérité au sujet de la quatrième bête, qui était différente de toutes les autres, très terrible, dont les dents étaient de fer et les ongles d&#39;airain; elle dévorait, brisait, et foulait aux pieds ce qui restait,
+> <sup><small>19</small></sup> Alors je désirais connaître la vérité au sujet de la quatrième bête, qui était différente de toutes les autres, très terrible, dont les dents étaient de fer et les ongles d'airain; elle dévorait, brisait, et foulait aux pieds ce qui restait,
 > 
-&gt; <sup><small>20</small></sup> Et des dix cornes qui étaient à sa tête, et de l&#39;autre qui était sortie, et devant laquelle trois étaient tombées, de cette corne qui avait des yeux et une bouche qui parlait de très grandes choses, et dont le regard était plus fort que celui de ses compagnes.
+> <sup><small>20</small></sup> Et des dix cornes qui étaient à sa tête, et de l'autre qui était sortie, et devant laquelle trois étaient tombées, de cette corne qui avait des yeux et une bouche qui parlait de très grandes choses, et dont le regard était plus fort que celui de ses compagnes.
 > 
-&gt; <sup><small>21</small></sup> Je regardai, et cette corne faisait la guerre aux saints, et l&#39;emportait sur eux.
+> <sup><small>21</small></sup> Je regardai, et cette corne faisait la guerre aux saints, et l'emportait sur eux.
 > 
-&gt; <sup><small>22</small></sup> Jusqu&#39;à ce que vienne l&#39;Ancien des jours, et que le jugement soit donné aux saints du Très-Haut; et le temps arriva où les saints prirent possession du royaume.
+> <sup><small>22</small></sup> Jusqu'à ce que vienne l'Ancien des jours, et que le jugement soit donné aux saints du Très-Haut; et le temps arriva où les saints prirent possession du royaume.
 > 
-&gt; <sup><small>23</small></sup> Il dit encore: Le quatrième animal, ce sera un quatrième royaume qui sera différent de tous les royaumes; il dévorera toute la terre, la foulera aux pieds, et la brisera.
+> <sup><small>23</small></sup> Il dit encore: Le quatrième animal, ce sera un quatrième royaume qui sera différent de tous les royaumes; il dévorera toute la terre, la foulera aux pieds, et la brisera.
 > 
-&gt; <sup><small>24</small></sup> Et les dix cornes, ce sont dix rois qui s&#39;élèveront de ce royaume; et un autre s&#39;élèvera après eux; et il sera différent du premier, et il vaincra trois rois.
+> <sup><small>24</small></sup> Et les dix cornes, ce sont dix rois qui s'élèveront de ce royaume; et un autre s'élèvera après eux; et il sera différent du premier, et il vaincra trois rois.
 > 
-&gt; <sup><small>25</small></sup> Il prononcera des paroles contre le Très-Haut, et il opprimera les saints du Très-Haut, et il espérera changer les temps et la loi; et ils seront livrés entre ses mains jusqu&#39;à un temps, des temps, et la moitié d&#39;un temps.
+> <sup><small>25</small></sup> Il prononcera des paroles contre le Très-Haut, et il opprimera les saints du Très-Haut, et il espérera changer les temps et la loi; et ils seront livrés entre ses mains jusqu'à un temps, des temps, et la moitié d'un temps.
 > 
-&gt; <sup><small>26</small></sup> Mais le jugement siégera, et ils lui enlèveront sa domination, pour la détruire et la détruire jusqu&#39;à la fin.
+> <sup><small>26</small></sup> Mais le jugement siégera, et ils lui enlèveront sa domination, pour la détruire et la détruire jusqu'à la fin.
 > 
-&gt; <sup><small>27</small></sup> Et le royaume, la domination, et la grandeur de tous les royaumes qui sont sous les cieux, seront donnés au peuple des saints du Très-Haut. Son royaume est un royaume éternel; et tous les dominateurs le serviront et lui obéiront.
+> <sup><small>27</small></sup> Et le royaume, la domination, et la grandeur de tous les royaumes qui sont sous les cieux, seront donnés au peuple des saints du Très-Haut. Son royaume est un royaume éternel; et tous les dominateurs le serviront et lui obéiront.
 > 
-&gt; <sup><small>28</small></sup> Jusqu&#39;ici en est la fin. Quant à moi, Daniel, mes pensées m&#39;ont beaucoup troublé, et mon visage a changé en moi; mais je gardais la parole dans mon cœur.
+> <sup><small>28</small></sup> Jusqu'ici en est la fin. Quant à moi, Daniel, mes pensées m'ont beaucoup troublé, et mon visage a changé en moi; mais je gardais la parole dans mon cœur.
 
-Et enfin, quelques passages supplémentaires sur Daniel dans _Le Livre d&#39;Urantia_ :
+Et enfin, quelques passages supplémentaires sur Daniel dans _Le Livre d'Urantia_ :
 
 > L’égotisme national, la fausse confiance en un Messie promis et mal compris ainsi que la servitude et la tyrannie croissante de la prêtrise, réduisirent définitivement au silence les voix des dirigeants spirituels (sauf Daniel, Ézéchiel, Aggée et Malachie). Depuis cette époque jusqu’à celle de Jean le Baptiste, tout Israël subit une régression spirituelle constante. Toutefois, les Juifs ne perdirent jamais le concept du Père Universel ; même jusqu’au vingtième siècle après le Christ, ils maintinrent cette conception de la Déité. ([LU 97:10.3](/fr/The_Urantia_Book/97#p10_3))
 
@@ -371,9 +386,24 @@ Et enfin, quelques passages supplémentaires sur Daniel dans _Le Livre d&#39;Ura
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/new-heaven-and-new-earth/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études thématiques sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/new-heaven-and-new-earth/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études thématiques sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

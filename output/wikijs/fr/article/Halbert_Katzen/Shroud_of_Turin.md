@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2008 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Préparé par Halbert Katzen, J.D.
 [Mis à jour le 30/04/2008]
@@ -19,21 +34,21 @@ Préparé par Halbert Katzen, J.D.
 <img src="/image/article/Halbert_Katzen/Shroud_of_Turin/head.jpg">
 </figure>
 
-Le rapport sur le Suaire de Turin est différent de tous les autres rapports d'LUtheNEWS. En général, les rapports reflètent la qualité unique de crédibilité du Livre d'Urantia ; ils démontrent comment les nouvelles découvertes et les avancées scientifiques soutiennent de plus en plus l'histoire du Livre d'Urantia. Dans ce cas, étant donné le contexte plus large de tous les rapports publiés sur LUtheNEWS, le Livre d'Urantia donne plus de crédibilité à l'authenticité du Suaire de Turin que l'inverse.
+Le rapport sur le Suaire de Turin est différent de tous les autres rapports d'UBtheNEWS. En général, les rapports reflètent la qualité unique de crédibilité du Livre d'Urantia ; ils démontrent comment les nouvelles découvertes et les avancées scientifiques soutiennent de plus en plus l'histoire du Livre d'Urantia. Dans ce cas, étant donné le contexte plus large de tous les rapports publiés sur UBtheNEWS, le Livre d'Urantia donne plus de crédibilité à l'authenticité du Suaire de Turin que l'inverse.
 
 _Le Livre d'Urantia_ dit que les anges ont procédé à une désintégration élémentaire accélérée du corps de Jésus. Ceci a des corrélations intrigantes avec l'image trouvée sur le Suaire de Turin. Les auteurs expliquent que le corps ressuscité de Jésus était comme celui d'un ange, que son corps physique reposait toujours dans la tombe après la résurrection, et que les anges ont reçu la permission, à la demande d'un archange, de provoquer la dissolution accélérée de ses restes physiques. Cette permission a été demandée et accordée afin qu'ils n'aient pas à assister à la décomposition du corps de Jésus. Les corrélations ont principalement à voir avec la nature superficielle de l'image et les théories actuelles sur la décharge corona et l'imagerie de médecine nucléaire. De plus, il existe des corrélations intrigantes liées au Suaire d'Oviedo, une serviette pour le visage qui aurait couvert le visage de Jésus dans le cadre du processus d'enterrement.
 
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 ## Critique du Suaire de Turin
 
-Le rapport sur le Suaire de Turin ne ressemble à aucun autre rapport publié sur LUtheNEWS.com. Il est donc nécessaire de mettre en contexte le rapport afin de comprendre pourquoi il a été préparé et en quoi il se distingue des autres rapports.
+Le rapport sur le Suaire de Turin ne ressemble à aucun autre rapport publié sur UBtheNEWS.com. Il est donc nécessaire de mettre en contexte le rapport afin de comprendre pourquoi il a été préparé et en quoi il se distingue des autres rapports.
 
-L'objectif principal du projet LUtheNEWS est de documenter et d'informer les gens sur les nombreuses façons dont les nouvelles découvertes et les avancées scientifiques soutiennent de plus en plus le récit de l'histoire planétaire du Livre d'Urantia.[^1] Sa qualité unique de crédibilité repose sur la façon dont les sciences corroborent de plus en plus les informations du Livre d'Urantia — des informations qui étaient incompatibles avec les opinions de la majorité des érudits, ou qui n'étaient tout simplement pas abordées par les érudits, lorsque le Livre d'Urantia a été publié pour la première fois en 1955.
+L'objectif principal du projet UBtheNEWS est de documenter et d'informer les gens sur les nombreuses façons dont les nouvelles découvertes et les avancées scientifiques soutiennent de plus en plus le récit de l'histoire planétaire du Livre d'Urantia.[^1] Sa qualité unique de crédibilité repose sur la façon dont les sciences corroborent de plus en plus les informations du Livre d'Urantia — des informations qui étaient incompatibles avec les opinions de la majorité des érudits, ou qui n'étaient tout simplement pas abordées par les érudits, lorsque le Livre d'Urantia a été publié pour la première fois en 1955.
 
-Néanmoins, le but n'est pas d'essayer de prouver quoi que ce soit concernant les prétendues origines suprahumaines du Livre d'Urantia. (Personne ne prétend avoir écrit le Livre d'Urantia ; le texte revendique une paternité angélique.) Quelle que soit la qualité unique de crédibilité qu'il puisse avoir, le projet LUtheNEWS ne prétend pas que ce modèle prouve quoi que ce soit sur ses origines ou sur toute autre information fournie dans ses pages. Le but est simplement de susciter l'intérêt pour le Livre d'Urantia. [^2]
+Néanmoins, le but n'est pas d'essayer de prouver quoi que ce soit concernant les prétendues origines suprahumaines du Livre d'Urantia. (Personne ne prétend avoir écrit le Livre d'Urantia ; le texte revendique une paternité angélique.) Quelle que soit la qualité unique de crédibilité qu'il puisse avoir, le projet UBtheNEWS ne prétend pas que ce modèle prouve quoi que ce soit sur ses origines ou sur toute autre information fournie dans ses pages. Le but est simplement de susciter l'intérêt pour le Livre d'Urantia. [^2]
 
-Bien que l'enquête scientifique sur le rapport du Suaire de Turin, qui a eu lieu après 1955, fournisse des corrélations avec les déclarations faites dans Le Livre d'Urantia sur ce qui est arrivé au corps de Jésus, ces corrélations n'ajoutent pas de manière significative à sa crédibilité ; les corrélations ne sont pas des corroborations. Étant donné le contexte plus large de tous les rapports publiés sur LUtheNEWS, Le Livre d'Urantia donne plus de crédibilité au Suaire de Turin (TS) que l'inverse. (« TS » sera utilisé pour désigner le Suaire de Turn, ou Suaire de Turin, car il est couramment utilisé dans la littérature scientifique à laquelle il sera fait référence dans ce rapport.)
+Bien que l'enquête scientifique sur le rapport du Suaire de Turin, qui a eu lieu après 1955, fournisse des corrélations avec les déclarations faites dans Le Livre d'Urantia sur ce qui est arrivé au corps de Jésus, ces corrélations n'ajoutent pas de manière significative à sa crédibilité ; les corrélations ne sont pas des corroborations. Étant donné le contexte plus large de tous les rapports publiés sur UBtheNEWS, Le Livre d'Urantia donne plus de crédibilité au Suaire de Turin (TS) que l'inverse. (« TS » sera utilisé pour désigner le Suaire de Turn, ou Suaire de Turin, car il est couramment utilisé dans la littérature scientifique à laquelle il sera fait référence dans ce rapport.)
 
 _Le Livre d'Urantia_ est probablement le seul document au monde qui donne des détails précis sur la manière dont la résurrection s'est produite et sur ce qu'il est advenu exactement du corps de Jésus. À cet égard, je m'attends à ce que la communauté chrétienne en général, et en particulier les personnes intriguées par le TS, trouvent ces informations extrêmement intéressantes.
 
@@ -51,7 +66,7 @@ Ce rapport ne passe pas en revue en profondeur le grand volume de littérature s
 
 **Conclusion** : Certaines déclarations du Livre d'Urantia sont considérées comme reflétant la sagesse contre-intuitive associée au fait de permettre que de telles reliques soient laissées derrière. « Contre-intuitive » par rapport aux déclarations faites dans Le Livre d'Urantia sur l'importance de ne pas laisser de reliques derrière Jésus. « Permettre » dans le sens où, vraisemblablement, les tissus auraient pu être enlevés avec le corps.
 
-(Par rapport aux autres rapports LUtheNEWS, ce rapport présente un certain nombre de défis uniques. Pour un aperçu de ces problèmes, voir la note de bas de page ci-dessous. [^3]
+(Par rapport aux autres rapports UBtheNEWS, ce rapport présente un certain nombre de défis uniques. Pour un aperçu de ces problèmes, voir la note de bas de page ci-dessous. [^3]
 
 ## Citations du _Livre d'Urantia_
 
@@ -293,7 +308,7 @@ Le Centre du Suaire de Turin, au Colorado, a un site Internet [www.Shroudofturin
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Shroud_of_Turin/Shroud_img_0.jpg">
-<figcaption><b>Figure 1 (à gauche)</b> : Photographie normale en noir et blanc du Suaire. <b>Figure 2 (à droite)</b> : Image négative du Suaire</figcaption>
+<figcaption><b>Figure 1 (à gauche)</b> : Photographie normale en noir et blanc du Suaire. <b>Figure 2 (à droite)</b> : Image négative du Suaire</figcaption>
 </figure>
 
 Ce même article poursuit en affirmant :
@@ -302,7 +317,7 @@ Ce même article poursuit en affirmant :
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Shroud_of_Turin/Shroud_img_1.jpg">
-<figcaption><b>Figure 3 (à gauche)</b> : Photographie négative d'Enrie de l'image du Suaire. <b>Figure 4 (à droite)</b> : Conversion VP-8 des intensités d'image en relief tridimensionnel</figcaption>
+<figcaption><b>Figure 3 (à gauche)</b> : Photographie négative d'Enrie de l'image du Suaire. <b>Figure 4 (à droite)</b> : Conversion VP-8 des intensités d'image en relief tridimensionnel</figcaption>
 </figure>
 
 > Si nous considérons maintenant l'image du relief facial, montrée dans la figure [5], nous voyons (dans les limites de la résolution du système VP-8) que toute la structure faciale tridimensionnelle d'un visage humain normal est reproduite avec précision. Par exemple, nous voyons que le nez est plus élevé que les joues, qui sont toutes deux plus hautes que les orbites, etc. Nous pouvons également voir que la structure du relief des lèvres est en relation tridimensionnelle appropriée avec le nez et les joues. Si nous comparons avec l'image faciale d'Enrie, nous pouvons comprendre précisément pourquoi le relief VP-8 a ces caractéristiques. Nous voyons que le nez est tracé avec le relief le plus élevé car il a l'intensité la plus brillante (voir à nouveau la figure [5]). Les joues sont moins brillantes et, par conséquent, elles se retrouvent avec un relief topographique correspondant moins important que le nez.
@@ -364,28 +379,28 @@ L’article stipule : « Troisièmement, nous avons démontré que la nature du 
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Shroud_of_Turin/Shroud_img_4.jpg">
-<figcaption><b>Figure 6 (à gauche)</b> : Image du Suaire. <b>Figure 7 (à droite)</b> : Image du Suaire</figcaption>
+<figcaption><b>Figure 6 (à gauche)</b> : Image du Suaire. <b>Figure 7 (à droite)</b> : Image du Suaire</figcaption>
 </figure>
 
 En ce qui concerne l’éclairage, l’article indique : « Quatrièmement, nous avons démontré que l’image de rayonnement résultante est dépourvue de tout foyer de lumière tel que le Suaire. » [^42]
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Shroud_of_Turin/Shroud_img_5.jpg">
-<figcaption><b>Figure 8 (à gauche)</b> : Image du Suaire. <b>Figure 9 (à droite)</b> : Image du Suaire</figcaption>
+<figcaption><b>Figure 8 (à gauche)</b> : Image du Suaire. <b>Figure 9 (à droite)</b> : Image du Suaire</figcaption>
 </figure>
 
 Divers aspects de la physiologie sont également apparents. « Sixièmement, le fait que les tissus mous, les informations squelettiques, ainsi que la pathologie de ces tissus, peuvent tous être imagés simultanément en utilisant le modèle de médecine nucléaire, démontre le parallèle avec le Suaire où la même chose est observée. » [^43]
 
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Shroud_of_Turin/Shroud_img_6.jpg">
-<figcaption><b>Figure 10 (à gauche)</b> : Image nucléaire ([Remarquez les os métacarpiens et les phalanges notés sur les deux images.)<b>Figure 11 (à droite)</b> : Image du linceul</figcaption>
+<figcaption><b>Figure 10 (à gauche)</b> : Image nucléaire ([Remarquez les os métacarpiens et les phalanges notés sur les deux images.)<b>Figure 11 (à droite)</b> : Image du linceul</figcaption>
 </figure>
 
 L'une des similitudes les plus frappantes est démontrée dans les figures 12 et 13. « Neuvièmement, la projection isométrique (V-P-8) de nos images générées a donné une similitude frappante avec l'image VP-8 du Suaire au moment de la chute des doigts de la main gauche. Sachant que cela est dû à une chute de 75 à 80 % de l'intensité du signal sur notre image, sa pertinence pour le même phénomène sur le Suaire ne doit pas être négligée et sérieusement considérée comme une fonction d'un effet similaire, c'est-à-dire une chute dosimétrique soudaine du signal ou du rayonnement. » [^44]
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Shroud_of_Turin/Shroud_img_7.jpg">
-<figcaption><b>Figure 12 (à gauche)</b> : Image nucléaire (notez la chute spectaculaire des phalanges proximales.)<b>Figure 13 (à droite)</b></figcaption>
+<figcaption><b>Figure 12 (à gauche)</b> : Image nucléaire (notez la chute spectaculaire des phalanges proximales.)<b>Figure 13 (à droite)</b></figcaption>
 </figure>
 
 L'article _La médecine nucléaire et sa pertinence pour le Suaire de Turin_ se termine par le résumé suivant :
@@ -493,9 +508,9 @@ Selon Le Livre d'Urantia, « de toutes les connaissances humaines, celle qui a l
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Shroud.pdf)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Shroud.pdf)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
@@ -506,28 +521,28 @@ Selon Le Livre d'Urantia, « de toutes les connaissances humaines, celle qui a l
 
 [^1]: Le mot « Urantia », désignant la Terre, est un mot inventé dans _Le Livre d'Urantia_, avec le sens étymologique de « (votre) place dans les cieux ».
 
-[^2]: On se demande naturellement si un livre qui montre une tendance à être en avance sur la découverte scientifique sur une grande variété de sujets pourrait également être particulièrement précieux en ce qui concerne ce qu'il dit sur la théologie, la cosmologie et la philosophie. Ceux d'entre nous qui développent le projet LUtheNEWS, bien sûr, pensent beaucoup de bien de ces autres aspects du livre et encouragent à considérer le texte complet. Cela n'est pas fait dans le but « secret » d'amener les gens à adhérer à quelque chose, à faire quelque chose ou à acheter quelque chose. (Le Livre d'Urantia peut être lu ou écouté dans son intégralité gratuitement en ligne.) Au contraire, nous espérons que les gens en feront un usage qui sera édifiant, à la fois individuellement et collectivement. LUtheNEWS est un projet indépendant d'enthousiastes du Livre d'Urantia et n'est redevable à aucune autre organisation liée au Livre d'Urantia, même si certains de ces groupes travaillent en coopération avec LUtheNEWS de diverses manières.
+[^2]: On se demande naturellement si un livre qui montre une tendance à être en avance sur la découverte scientifique sur une grande variété de sujets pourrait également être particulièrement précieux en ce qui concerne ce qu'il dit sur la théologie, la cosmologie et la philosophie. Ceux d'entre nous qui développent le projet UBtheNEWS, bien sûr, pensent beaucoup de bien de ces autres aspects du livre et encouragent à considérer le texte complet. Cela n'est pas fait dans le but « secret » d'amener les gens à adhérer à quelque chose, à faire quelque chose ou à acheter quelque chose. (Le Livre d'Urantia peut être lu ou écouté dans son intégralité gratuitement en ligne.) Au contraire, nous espérons que les gens en feront un usage qui sera édifiant, à la fois individuellement et collectivement. UBtheNEWS est un projet indépendant d'enthousiastes du Livre d'Urantia et n'est redevable à aucune autre organisation liée au Livre d'Urantia, même si certains de ces groupes travaillent en coopération avec UBtheNEWS de diverses manières.
 
 [^3]: **Défis uniques liés au rapport sur le Suaire de Turin**
 	La présentation des éléments du rapport sur le Suaire de Turin présente un certain nombre de défis. Ces défis seront relevés dans l'ordre et comprennent :
 	1\. La présentation de citations du _Livre d'Urantia_ concernant l'enterrement de Jésus et ce qui est arrivé à son corps,
 	2\. Les problèmes d'authenticité entourant le Suaire de Turin,
-	3\. Les problèmes de crédibilité associés à l'interaction entre le TS, _Le Livre d'Urantia_ et le projet LUtheNEWS, et
+	3\. Les problèmes de crédibilité associés à l'interaction entre le TS, _Le Livre d'Urantia_ et le projet UBtheNEWS, et
 	4\. Etablir des corrélations entre les questions scientifiques liées au TS et les déclarations faites dans _Le Livre d'Urantia_ concernant les morceaux de tissu liés à l'enterrement de Jésus.
 	1) _La présentation de citations du _Livre d'Urantia_ concernant l'enterrement de Jésus et ce qui est arrivé à son corps._
-	En général, lors de la sélection des citations pour les rapports d'LUtheNEWS, l'intention est de garder les rapports étroitement centrés sur un sujet spécifique et de ne citer que les parties du Livre d'Urantia qui sont nécessaires pour apprécier la ou les corrélations avec la science et l'érudition qui sont abordées. Parfois, seules quelques phrases du Livre d'Urantia sont nécessaires pour être incluses dans un rapport. Dans la plupart des cas, il est facile d'éviter l'inclusion des aspects théologiques et spirituels du Livre d'Urantia. En général, il n'est pas nécessaire de fournir beaucoup, voire aucun, contexte pour le matériel cité.
-	L'approche utilisée pour d'autres rapports d'LUtheNEWS ne s'applique tout simplement pas à celui-ci. N'inclure que les déclarations directement liées aux vêtements funéraires laisserait aux lecteurs beaucoup trop peu d'informations et de contexte. D'un autre côté, donner « l'histoire entière » fournirait beaucoup plus que nécessaire. Trouver le « bon » équilibre pour ce rapport est une entreprise particulièrement subjective ; il y a beaucoup de place pour que des esprits raisonnables diffèrent. Les lecteurs sont priés de garder cela à l'esprit. Afin de présenter les aspects intrigants de ce sujet, suffisamment d'informations doivent être fournies pour donner aux lecteurs une certaine appréciation des informations détaillées du Livre d'Urantia concernant tout ce qui s'est passé avant et après la crucifixion de Jésus.
+	En général, lors de la sélection des citations pour les rapports d'UBtheNEWS, l'intention est de garder les rapports étroitement centrés sur un sujet spécifique et de ne citer que les parties du Livre d'Urantia qui sont nécessaires pour apprécier la ou les corrélations avec la science et l'érudition qui sont abordées. Parfois, seules quelques phrases du Livre d'Urantia sont nécessaires pour être incluses dans un rapport. Dans la plupart des cas, il est facile d'éviter l'inclusion des aspects théologiques et spirituels du Livre d'Urantia. En général, il n'est pas nécessaire de fournir beaucoup, voire aucun, contexte pour le matériel cité.
+	L'approche utilisée pour d'autres rapports d'UBtheNEWS ne s'applique tout simplement pas à celui-ci. N'inclure que les déclarations directement liées aux vêtements funéraires laisserait aux lecteurs beaucoup trop peu d'informations et de contexte. D'un autre côté, donner « l'histoire entière » fournirait beaucoup plus que nécessaire. Trouver le « bon » équilibre pour ce rapport est une entreprise particulièrement subjective ; il y a beaucoup de place pour que des esprits raisonnables diffèrent. Les lecteurs sont priés de garder cela à l'esprit. Afin de présenter les aspects intrigants de ce sujet, suffisamment d'informations doivent être fournies pour donner aux lecteurs une certaine appréciation des informations détaillées du Livre d'Urantia concernant tout ce qui s'est passé avant et après la crucifixion de Jésus.
 	2) _Les problèmes d'authenticité entourant le Suaire de Turin._
-	En règle générale, les reportages d'LUtheNEWS ne traitent pas de sujets aussi controversés que le TS. De nombreuses informations sont disponibles sur ce sujet et, bien sûr, le matériel du plus grand site Web, www.Shroud.com, est largement référencé. En raison de l'histoire particulière de cet artefact, de nombreuses personnes en sont venues à supposer que la question de l'authenticité a été largement réglée lorsque plusieurs laboratoires ont effectué des analyses de datation au carbone qui ont placé l'origine du TS vers 1300 après J.-C. Il existe un certain nombre de problèmes liés à la datation au carbone du TS. Certaines mentions de ces problèmes seront faites pour aider les lecteurs à apprécier la nature controversée de la datation au carbone.
+	En règle générale, les reportages d'UBtheNEWS ne traitent pas de sujets aussi controversés que le TS. De nombreuses informations sont disponibles sur ce sujet et, bien sûr, le matériel du plus grand site Web, www.Shroud.com, est largement référencé. En raison de l'histoire particulière de cet artefact, de nombreuses personnes en sont venues à supposer que la question de l'authenticité a été largement réglée lorsque plusieurs laboratoires ont effectué des analyses de datation au carbone qui ont placé l'origine du TS vers 1300 après J.-C. Il existe un certain nombre de problèmes liés à la datation au carbone du TS. Certaines mentions de ces problèmes seront faites pour aider les lecteurs à apprécier la nature controversée de la datation au carbone.
 	La controverse autour de la datation au carbone 14 est alimentée par la question du Suaire d'Oviedo (SO), la serviette censée avoir recouvert le visage de Jésus. Des preuves substantielles suggèrent que le SO et le TS ont été utilisés en relation avec le même corps. Cependant, la datation au carbone effectuée sur le SO est incompatible avec la datation au carbone effectuée sur le TS et avec la période à laquelle Jésus a vécu.
 	Les lecteurs seront informés de l'existence de problèmes importants qui remettent en question la validité de la datation au carbone effectuée sur les deux morceaux de tissu. Étant donné que d'autres chercheurs ont beaucoup écrit sur ces questions, ce rapport cherchera à résumer, et non à présenter à nouveau, ces éléments. Bien entendu, des liens seront fournis pour ceux qui souhaitent explorer cet aspect plus en profondeur.
-	3) _Les problèmes de crédibilité associés à l'interaction entre le TS,_ Le Livre d'Urantia, _et le projet LUtheNEWS._
-	Le rapport du Suaire de Turin est le douzième rapport d'LUtheNEWS. D'autres sujets auraient pu être traités au moment de la préparation de ce rapport, qui auraient été cohérents avec le thème général des rapports d'LUtheNEWS, à savoir la documentation sur la façon dont la science rattrape le Livre d'Urantia. En fait, il est raisonnable d'affirmer que ce rapport, à lui seul, n'ajoute rien à la crédibilité du Livre d'Urantia. Cependant, ce rapport est présenté comme faisant partie d'un modèle émergent de corroborations. À cet égard, les aspects particuliers et intrigants du rapport du Suaire de Turin sont renforcés par le contexte plus large du projet LUtheNEWS. Cela peut être considéré comme une boucle de rétroaction de crédibilité ; les corrélations entre le TS et le Livre d'Urantia confèrent de la crédibilité à l'authenticité du TS et du Livre d'Urantia. Prise isolément, cette boucle de rétroaction de crédibilité est plutôt marginale ; prise dans un contexte plus large, elle est au moins intrigante. Etant donné le but du projet LUtheNEWS et le degré auquel il s'est déjà développé, les corrélations peuvent donner plus de crédibilité à l'authenticité de TS qu'elles n'en augmentent la crédibilité pour Le Livre d'Urantia. Il s'agit, bien sûr, d'une question extrêmement subjective.
-	Le dernier tiers du Livre d'Urantia porte sur la vie et les enseignements de Jésus. Ce fait a pesé lourdement en faveur de la présentation du rapport sur le Suaire de Turin à ce stade du développement du projet LUtheNEWS. Les progrès dans le domaine de l'astronomie ont été considérablement accélérés avec le lancement du télescope Hubble. Les données de ce télescope et d'autres technologies astronomiques avancées corroborent de plus en plus les informations cosmologiques trouvées dans le premier tiers du Livre d'Urantia. Les progrès dans le domaine de la génétique et les nouvelles découvertes anthropologiques corroborent de plus en plus les informations contenues dans le deuxième tiers du Livre d'Urantia, qui couvre l'histoire de l'évolution de la vie sur terre. (Le Livre d'Urantia affirme que l'évolution est l'une des techniques de création de Dieu.) Trouver des moyens par lesquels la science rattrape le Livre d'Urantia qui se rapportent au dernier tiers du livre, La vie et les enseignements de Jésus, est beaucoup plus difficile. Il est douteux que les développements scientifiques génèrent un jour beaucoup de choses concernant cette section en termes de sujets pour LUtheNEWS.
+	3) _Les problèmes de crédibilité associés à l'interaction entre le TS,_ Le Livre d'Urantia, _et le projet UBtheNEWS._
+	Le rapport du Suaire de Turin est le douzième rapport d'UBtheNEWS. D'autres sujets auraient pu être traités au moment de la préparation de ce rapport, qui auraient été cohérents avec le thème général des rapports d'UBtheNEWS, à savoir la documentation sur la façon dont la science rattrape le Livre d'Urantia. En fait, il est raisonnable d'affirmer que ce rapport, à lui seul, n'ajoute rien à la crédibilité du Livre d'Urantia. Cependant, ce rapport est présenté comme faisant partie d'un modèle émergent de corroborations. À cet égard, les aspects particuliers et intrigants du rapport du Suaire de Turin sont renforcés par le contexte plus large du projet UBtheNEWS. Cela peut être considéré comme une boucle de rétroaction de crédibilité ; les corrélations entre le TS et le Livre d'Urantia confèrent de la crédibilité à l'authenticité du TS et du Livre d'Urantia. Prise isolément, cette boucle de rétroaction de crédibilité est plutôt marginale ; prise dans un contexte plus large, elle est au moins intrigante. Etant donné le but du projet UBtheNEWS et le degré auquel il s'est déjà développé, les corrélations peuvent donner plus de crédibilité à l'authenticité de TS qu'elles n'en augmentent la crédibilité pour Le Livre d'Urantia. Il s'agit, bien sûr, d'une question extrêmement subjective.
+	Le dernier tiers du Livre d'Urantia porte sur la vie et les enseignements de Jésus. Ce fait a pesé lourdement en faveur de la présentation du rapport sur le Suaire de Turin à ce stade du développement du projet UBtheNEWS. Les progrès dans le domaine de l'astronomie ont été considérablement accélérés avec le lancement du télescope Hubble. Les données de ce télescope et d'autres technologies astronomiques avancées corroborent de plus en plus les informations cosmologiques trouvées dans le premier tiers du Livre d'Urantia. Les progrès dans le domaine de la génétique et les nouvelles découvertes anthropologiques corroborent de plus en plus les informations contenues dans le deuxième tiers du Livre d'Urantia, qui couvre l'histoire de l'évolution de la vie sur terre. (Le Livre d'Urantia affirme que l'évolution est l'une des techniques de création de Dieu.) Trouver des moyens par lesquels la science rattrape le Livre d'Urantia qui se rapportent au dernier tiers du livre, La vie et les enseignements de Jésus, est beaucoup plus difficile. Il est douteux que les développements scientifiques génèrent un jour beaucoup de choses concernant cette section en termes de sujets pour UBtheNEWS.
 	Dans ces circonstances, il nous a semblé tout simplement judicieux de présenter quelque chose qui se rapporte à ce que le Livre d'Urantia déclare à propos de Jésus, en particulier parce que le TS est si intrigant en lui-même et d'autant plus lorsqu'on le compare à ce que le Livre d'Urantia dit à propos de l'enterrement de Jésus et de ce qui est arrivé à son corps. Le TS a déjà un certain nombre de corrélations scientifiques intrigantes avec les informations fournies dans le Livre d'Urantia. Au fil du temps, la qualité intrigante de ce rapport sera probablement renforcée par des recherches supplémentaires entreprises sur le TS.
 	Sur la base de toutes ces considérations, il a été décidé de procéder aux qualifications appropriées et de présenter le matériel à ce stade.
 	4) Établir des corrélations entre les questions scientifiques liées au TS et les déclarations faites dans _Le Livre d'Urantia_ concernant les morceaux de tissu liés à l'enterrement de Jésus.
-	Il faut souligner que le type de corrélations établies dans ce rapport entre ce que dit le Livre d'Urantia et les diverses études scientifiques qui ont été développées en relation avec le TS ne répondent pas aux normes utilisées pour les autres rapports d'LUtheNEWS. La norme pour ce rapport est beaucoup plus spéculative. Le matériel présenté dans ce rapport est proposé parce qu'il est intrigant. Contrairement aux autres rapports d'LUtheNEWS où les corrélations doivent être corroboratives, les corrélations ici sont établies sur la base d'éléments raisonnablement associés.
+	Il faut souligner que le type de corrélations établies dans ce rapport entre ce que dit le Livre d'Urantia et les diverses études scientifiques qui ont été développées en relation avec le TS ne répondent pas aux normes utilisées pour les autres rapports d'UBtheNEWS. La norme pour ce rapport est beaucoup plus spéculative. Le matériel présenté dans ce rapport est proposé parce qu'il est intrigant. Contrairement aux autres rapports d'UBtheNEWS où les corrélations doivent être corroboratives, les corrélations ici sont établies sur la base d'éléments raisonnablement associés.
 
 [^4]: [LU 188:0.3](/fr/The_Urantia_Book/188#p0_3) Les références aux documents du _Livre d'Urantia_ sont fournies sous la forme qui vient d'être donnée. Le premier numéro indique le chapitre (appelé dans _Le Livre d'Urantia_ « Fascicules ») ; le numéro de section est donné en deuxième ; et le troisième numéro fait référence au(x) paragraphe(s). Un zéro à la position du chapitre indique que la citation provient de l'Avant-propos. Un zéro à la position de la section indique qu'elle provient des remarques introductives de ce chapitre.
 

@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -66,7 +81,7 @@ Notez que Jésus avait une conception du Messie juif qui était suffisamment dé
 
 La collection complète des Manuscrits de la Mer Morte a été découverte sur une période de temps s'étendant de 1946 à 1956. Il convient de noter le fait que la [documentation](https://ubannotated.com/wp-content/uploads/2018/01/Fundraising2Forum-41.pdf) de 1941 affirme que les membres du Forum avaient collecté des fonds pour la publication du _Livre d'Urantia_ depuis 1937.
 
-La section _[Auteur-Éditeur](http://www.hebrew-streams.org/frontstuff/mechaber.html)_ [section](http://www.hebrew-streams.org/frontstuff/mechaber.html) du site Web de Paul Sumner indique ce qui suit :
+La section _[Auteur-Éditeur](http://www.hebrew-streams.org/frontstuff/mechaber.html)_ [section](http://www.hebrew-streams.org/frontstuff/mechaber.html) du site Web de Paul Sumner indique ce qui suit :
 
 > Un des fruits de mes explorations fut un article d'étude que j'ai publié entre 1986 et 1995, intitulé [Yashar](http://www.hebrew-streams.org/works/texts/yashar-explanation.html), qui a donné naissance à ce site Web et a été mis en ligne en 1998. Un autre fruit fut ma thèse sur le [Concile céleste](http://www.hebrew-streams.org/works/hebrew/council.html) dans la Bible hébraïque, le judaïsme et le Nouveau Testament.
 > 
@@ -259,9 +274,24 @@ La section entière consacrée au deuxième Isaïe mérite bien entendu d'être 
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/the-jewish-messiah-is-melchizedek/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/the-jewish-messiah-is-melchizedek/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

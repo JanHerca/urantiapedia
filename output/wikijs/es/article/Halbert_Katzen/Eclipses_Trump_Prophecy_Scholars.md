@@ -42,7 +42,7 @@ Para alguien que cree en Jesús y en el sencillo mensaje del evangelio de la Pat
 
 Otro punto de acuerdo entre El libro de Urantia y la Biblia se refiere a la enseñanza de que no le corresponde a un ser humano decir cuándo regresará Jesús. Por otra parte, decir cuándo debe regresar Melquisedec no viola la enseñanza sobre el regreso de Jesús. Si bien la Biblia tiene muy poco que decir sobre Melquisedec, El libro de Urantia dedica unas cincuenta páginas a los papeles que ha desempeñado y continúa desempeñando en los asuntos de este mundo. En resumen, enseña que los Melquisedec son un orden superior de ángeles, utilizados en situaciones de emergencia, cuando órdenes inferiores de ángeles se rebelan. Básicamente, el orden Melquisedec se utiliza cuando personalidades celestiales en posiciones de confianza y autoridad pierden la fe, como ocurrió con Lucifer y Satanás.
 
-Si hay verdad en las enseñanzas sobre Lucifer y Satanás, entonces todavía podríamos necesitar un equipo de limpieza para ayudar a restaurar el orden religioso en nuestro mundo. Y si algunas profecías tenían que ver con la venida de Jesús la primera vez y algunas tenían que ver con el regreso de Melquisedec por segunda vez, considere cómo esto podría aclarar muchos asuntos polémicos y misterios que de otro modo no tendrían solución. Para profundizar más en este tema, consulte [LUtheNEWS: Melquisedec y el informe de los Rollos del Mar Muerto](/es/article/Halbert_Katzen/Melchizedek_the_Dead_Sea_Scrolls) y el estudio temático: [¡¿El Mesías judío es Melquisedec?!](/es/article/Halbert_Katzen/The_Jewish_Messiah_is_Melchizedek)
+Si hay verdad en las enseñanzas sobre Lucifer y Satanás, entonces todavía podríamos necesitar un equipo de limpieza para ayudar a restaurar el orden religioso en nuestro mundo. Y si algunas profecías tenían que ver con la venida de Jesús la primera vez y algunas tenían que ver con el regreso de Melquisedec por segunda vez, considere cómo esto podría aclarar muchos asuntos polémicos y misterios que de otro modo no tendrían solución. Para profundizar más en este tema, consulte [UBtheNEWS: Melquisedec y el informe de los Rollos del Mar Muerto](/es/article/Halbert_Katzen/Melchizedek_the_Dead_Sea_Scrolls) y el estudio temático: [¡¿El Mesías judío es Melquisedec?!](/es/article/Halbert_Katzen/The_Jewish_Messiah_is_Melchizedek)
 
 Además, hay enseñanzas del Libro de Urantia sobre el regreso de Melquisedec y/o Jesús en respuesta a algún tipo de crisis mundial que no está directamente relacionada con la rebelión de Lucifer. Véase el Estudio Temático: [Un Evento de Crisis Catastrófica Global](/es/article/Halbert_Katzen/A_Global_Catastrophic_Crisis_Event).
 
@@ -161,9 +161,9 @@ El segundo eclipse se produce apenas un poco más de una semana después de Pasc
 
 ## Enlaces externos
 
-* [Este informe en la página web de LUTheNews](https://ubannotated.com/main-menu/animated/more-about-and-by-halbert-katzen/eclipses-trump-prophecy-scholars/)
-* [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Este informe en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/more-about-and-by-halbert-katzen/eclipses-trump-prophecy-scholars/)
+* [Otros informes en la página web de UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios temáticos en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

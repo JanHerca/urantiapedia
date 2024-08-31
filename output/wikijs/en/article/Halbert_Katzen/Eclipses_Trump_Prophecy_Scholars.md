@@ -178,7 +178,7 @@ The second eclipse is just a little more than a week after Easter, which falls o
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/more-about-and-by-halbert-katzen/eclipses-trump-prophecy-scholars/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

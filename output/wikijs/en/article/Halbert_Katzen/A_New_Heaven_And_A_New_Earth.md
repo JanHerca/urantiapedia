@@ -388,7 +388,7 @@ And finally, a few more passages about Daniel from _The Urantia Book_:
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/new-heaven-and-new-earth/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

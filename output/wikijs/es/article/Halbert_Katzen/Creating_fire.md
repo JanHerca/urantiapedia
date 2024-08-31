@@ -201,7 +201,7 @@ Los descubrimientos hechos en Gesher Benot Ya'aqov en Israel durante este mileni
 
 * [Este informe en el sitio web UBTheNews](https://ubannotated.com/ubthenews/topics/CreatingFire/)
 * [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios Temáticos en el sitio UBTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Estudios Temáticos en el sitio UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 * Paul Rincon, *Early human fire skills revealed*, BBC News, 29 abril 2004, http://news.bbc.co.uk/2/hi/science/nature/3670017.stm
 * *Fire out of Africa: a key to the migration of prehistoric man*, *The Hebrew University of Jerusalem*, 27 octubre 2008, http://www.huji.ac.il/cgi-bin/dovrut/dovrut_search_eng.pl?mesge122510374832688760
 * Kyle Streich, *Terra Amata*, junio 2008, https://web.archive.org/web/20080618062326/http://www.mnsu.edu/emuseum/archaeology/sites/europe/terraamata.html, breve descripción del yacimiento de Terra Amata. [Enlace original roto].

@@ -33,7 +33,7 @@ _By Halbert Katzen J.D._
 
 I started the UBtheNEWS project over fifteen years ago. My reports and study aid docuement how new discoveries and scientific advances increasingly support _The Urantia Book_‘s comprehensive account of our planet’s history. In 2016, I expanded the scope of the project into this effort (UBannotated)—a resource for a broad selection of _Urantia Book_ study aids, including other people’s efforts.
 
-As it turns, right when this project was getting started, I also learned of the intersecting full solar eclipses over Bald Knob Cross of Peace on August 21, 2017 and April 8, 2024. [Eclipses Trump Prophecy Scholars](/en/article/Halbert_Katzen/Eclipses_Trump_Prophecy_Scholars/) summarizes how this relates to prophecy and current religious and political trends. That article is the best place to start.
+As it turns, right when this project was getting started, I also learned of the intersecting full solar eclipses over Bald Knob Cross of Peace on August 21, 2017 and April 8, 2024. [Eclipses Trump Prophecy Scholars](/en/article/Halbert_Katzen/Eclipses_Trump_Prophecy_Scholars) summarizes how this relates to prophecy and current religious and political trends. That article is the best place to start.
 
 ## History of this Topical Study
 
@@ -51,7 +51,7 @@ That narrator and your editor are similarly minded regarding the issue of an “
 
 > And this is the long story of the teachings of Machiventa Melchizedek on Urantia. **It is nearly four thousand years since this emergency Son of Nebadon bestowed himself on Urantia, and in that time the teachings of the “priest of El Elyon, the Most High God,” have penetrated to all races and peoples.** And Machiventa was successful in achieving the purpose of his unusual bestowal; when Michael made ready to appear on Urantia, the God concept was existent in the hearts of men and women, the same God concept that still flames anew in the living spiritual experience of the manifold children of the Universal Father as they live their intriguing temporal lives on the whirling planets of space. \[Emphasis added.\] ([UB 98:7.12](/en/The_Urantia_Book/98#p7_12))
 
-Jesus, born in 7 B.C. ([122:8.0](https://ubannotated.com/ubthenews/urantiabook/papers/p122/#U122_8_0)), had his 2000th birthday in 1994 (there is no 0 year, if you’re doing the math). That means 27 years after Jesus’ 2000th birthday, 2021 A.D., is the 4000th anniversary of the arrival of Machiventa Melchizedek. Interestingly enough, this places his 4000th anniversary pretty much right in the middle of the two full solar eclipses.
+Jesus, born in 7 B.C. ([UB 122:8.0](/es/The_Urantia_Book/122#p8_0)), had his 2000th birthday in 1994 (there is no 0 year, if you’re doing the math). That means 27 years after Jesus’ 2000th birthday, 2021 A.D., is the 4000th anniversary of the arrival of Machiventa Melchizedek. Interestingly enough, this places his 4000th anniversary pretty much right in the middle of the two full solar eclipses.
 
 I am guessing a visitation would occur in the general area of where the Bald Knob Cross of Peace is located, if not there specifically. Because there was not a visitation on August 21, 2017, my next best guess is April 8, 2024, for a specific date. But because we are now in between the two eclipses, this seems to give a bit more credence to the Chief of Seraphim’s speculations about a visitation occurring “any day or hour.” Maybe any day or hour in 2021!?!
 
@@ -179,7 +179,7 @@ Note that Isaiah 66 is the last Isaiah chapter. This was his final recorded prop
 
 Here are some additional Biblical passages related to signs of the times:
 
-> <sup><small>8</sup></small> He replied: “Watch out that you are not deceived. For many will come in my name, claiming, ‘I am he,’ and, ‘The time is near.’ Do not follow them. <sup><small>9</sup></small> When you hear of wars and uprisings, do not be frightened. These things must happen first, but the end will not come right away.”10 Then he said to them: “Nation will rise against nation, and kingdom against kingdom. <sup><small>11</sup></small> There will be great earthquakes, famines and pestilences in various places, and fearful events and great signs from heaven. ([Luke 21:8-11](/en/Bible/Luke/21#v8))
+> <sup><small>8</sup></small> He replied: “Watch out that you are not deceived. For many will come in my name, claiming, ‘I am he,’ and, ‘The time is near.’ Do not follow them. <sup><small>9</sup></small> When you hear of wars and uprisings, do not be frightened. These things must happen first, but the end will not come right away.” <sup><small>10</sup></small> Then he said to them: “Nation will rise against nation, and kingdom against kingdom. <sup><small>11</sup></small> There will be great earthquakes, famines and pestilences in various places, and fearful events and great signs from heaven. ([Luke 21:8-11](/en/Bible/Luke/21#v8))
 
 > <sup><small>25</sup></small> “There will be signs in the sun, moon and stars. On the earth, nations will be in anguish and perplexity at the roaring and tossing of the sea. <sup><small>26</sup></small> People will faint from terror, apprehensive of what is coming on the world, for the heavenly bodies will be shaken. <sup><small>27</sup></small> At that time they will see the Son of Man coming in a cloud with power and great glory. <sup><small>28</sup></small> When these things begin to take place, stand up and lift up your heads, because your redemption is drawing near.” ([Luke 21:25-28](/en/Bible/Luke/21#v25))
 
@@ -397,11 +397,11 @@ This passage is also qualified by the word “may”:
 
 Carlos Leite da Silva’s [_Apocalypse Now: Are We The “End Time” Generation_](https://www.amazon.com/Apocalypse-Now-Are-Time-Generation/dp/1795061316/ref=sr_1_1?crid=1F1SKY1UMBZN3&dib=eyJ2IjoiMSJ9.5FE6X40O8RxILxYRHjldh2zdq9hFZsb61XcFEP75FMcp-_4r6OPbveBhQ8vKQcr4yf-IiMnrfzi5WRnmnA5jOA2ohmmE4he0y9GggoZPVkBJ9Pf2Kmg0-78th9EKxrytlelyMqrgNxF6l-QGuZRnNsNMt-K3gQXRClb8CwMgpEPGshBXQ6saZBmtejAAUSRPtHAqT36UZW1t74lhi93HbSEmmY6uGkVnOTExznvgZZo.9Jl_8Vri8syHA-6wm9fIQUldLHJjDAsdYhqXT_zmqhk&dib_tag=se&keywords=apocalypse+now+are+we+the+end+time+generation&qid=1721980237&sprefix=apocalypse+now+are+we+the+end+time+generation%2Caps%2C106&sr=8-1), along with providing an incredibly cogent and intriguing interpretation of prophecies in the Bible, also does a beautiful job of contextualizing the topic from a psychosocial perspective. I cannot recommend this book highly enough!
 
-[Ken Keyser](https://www.urantia.org/news/2017-10/signs-and-wonders) presented on this topic at a celebration of Jesus’ birthday in 2017 in the Chicago area, which was subsequently published by Urantia Foundation.
+[Ken Keyser](/en/article/Ken_Keyser/Signs_and_Wonders) presented on this topic at a celebration of Jesus’ birthday in 2017 in the Chicago area, which was subsequently published by Urantia Foundation.
 
 ## Archaeological discoveries related to Jesus’ life.
 
-Stephen Shanahan and Martin McBurney used _The Urantia Book_ to discover the site of Jesus’ home and tomb. [Here’s an excerpt](http://1god.com/2016/11/26/the-nazareth-house/) from a book by Joanna Kujawa about the discovery, _[Jerusalem Diary: Searching For The Tomb And House Of Jesus](https://www.amazon.com/Jerusalem-Diary-Searching-House-Jesus/dp/145250637X)_.
+Stephen Shanahan and Martin McBurney used _The Urantia Book_ to discover the site of Jesus’ home and tomb. [Here’s an excerpt](http://1god.com/2016/11/26/the-nazareth-house/) from a book by Joanna Kujawa about the discovery, [Jerusalem Diary: Searching For The Tomb And House Of Jesus](https://www.amazon.com/Jerusalem-Diary-Searching-House-Jesus/dp/145250637X).
 
 How the discovery of [“Jesus’ Boat”](https://squarecircles.com/jesus-the-boatbuilder/) relates to _The Urantia Book_, by Saskia Praamsma Raevouri (2010).
 
@@ -409,7 +409,7 @@ How the discovery of [“Jesus’ Boat”](https://squarecircles.com/jesus-the-b
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

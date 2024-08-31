@@ -165,7 +165,7 @@ For now, at least advances in sonar technology allow us to see a topography betw
 
 * [This report in UBTheNews website](http://ubannotated.com/ubthenews/topics/ubthenews-garden-of-eden-report/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 * *Life Pictorial Atlas of the World*, *Life* magazine Randy McNally, 1961.
 * Robert Sarmast,*Discovery of Atlantis*, *First Source Publications*, 2006.
 * Shimon Wdowinski, Zvi Ben-Avraham, Ronald Arvidsson, Goran Ekström, *Seismotectonics of the Cyprian Arc*, January 2006, *Geophysical Journal International*, https://academic.oup.com/gji/article/164/1/176/2071574

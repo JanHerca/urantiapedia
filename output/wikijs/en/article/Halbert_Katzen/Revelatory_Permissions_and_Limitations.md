@@ -256,15 +256,15 @@ Use of the _mesotron_ invites consideration of numerous issues related to revela
 
 Note that the revelators are specific in identifying the mass of mesotrons in comparison to electrons and that from electron to mesotron to proton an order of magnitude pattern of increase emerges. The following five paragraphs contain all references to mesotron and its permutations.
 
-> The charged protons and the uncharged neutrons of the nucleus of the atom are held together by the reciprocating function of the mesotron, a particle of matter 180 times as heavy as the electron. Without this arrangement the electric charge carried by the protons would be disruptive of the atomic nucleus. ([UB 42:8.3](/en/The_Urantia_Book/42#p8_3))
-
-> As atoms are constituted, neither electric nor gravitational forces could hold the nucleus together. The integrity of the nucleus is maintained by the reciprocal cohering function of the mesotron, which is able to hold charged and uncharged particles together because of superior force-mass power and by the further function of causing protons and neutrons constantly to change places. The mesotron causes the electric charge of the nuclear particles to be incessantly tossed back and forth between protons and neutrons. At one infinitesimal part of a second a given nuclear particle is a charged proton and the next an uncharged neutron. And these alternations of energy status are so unbelievably rapid that the electric charge is deprived of all opportunity to function as a disruptive influence. Thus does the mesotron function as an “energy-carrier” particle which mightily contributes to the nuclear stability of the atom. ([UB 42:8.4](/en/The_Urantia_Book/42#p8_4))
-
-> The presence and function of the mesotron also explains another atomic riddle. When atoms perform radioactively, they emit far more energy than would be expected. This excess of radiation is derived from the breaking up of the mesotron “energy carrier,” which thereby becomes a mere electron. The mesotronic disintegration is also accompanied by the emission of certain small uncharged particles. ([UB 42:8.5](/en/The_Urantia_Book/42#p8_5))
-
-> The mesotron explains certain cohesive properties of the atomic nucleus, but it does not account for the cohesion of proton to proton nor for the adhesion of neutron to neutron. The paradoxical and powerful force of atomic cohesive integrity is a form of energy as yet undiscovered on Urantia. ([UB 42:8.6](/en/The_Urantia_Book/42#p8_6))
-
-> These mesotrons are found abundantly in the space rays which so incessantly impinge upon your planet. ([UB 42:8.7](/en/The_Urantia_Book/42#p8_7))
+> The charged protons and the uncharged neutrons of the nucleus of the atom are held together by the reciprocating function of the mesotron, a particle of matter 180 times as heavy as the electron. Without this arrangement the electric charge carried by the protons would be disruptive of the atomic nucleus.
+> 
+> As atoms are constituted, neither electric nor gravitational forces could hold the nucleus together. The integrity of the nucleus is maintained by the reciprocal cohering function of the mesotron, which is able to hold charged and uncharged particles together because of superior force-mass power and by the further function of causing protons and neutrons constantly to change places. The mesotron causes the electric charge of the nuclear particles to be incessantly tossed back and forth between protons and neutrons. At one infinitesimal part of a second a given nuclear particle is a charged proton and the next an uncharged neutron. And these alternations of energy status are so unbelievably rapid that the electric charge is deprived of all opportunity to function as a disruptive influence. Thus does the mesotron function as an “energy-carrier” particle which mightily contributes to the nuclear stability of the atom.
+> 
+> The presence and function of the mesotron also explains another atomic riddle. When atoms perform radioactively, they emit far more energy than would be expected. This excess of radiation is derived from the breaking up of the mesotron “energy carrier,” which thereby becomes a mere electron. The mesotronic disintegration is also accompanied by the emission of certain small uncharged particles.
+> 
+> The mesotron explains certain cohesive properties of the atomic nucleus, but it does not account for the cohesion of proton to proton nor for the adhesion of neutron to neutron. The paradoxical and powerful force of atomic cohesive integrity is a form of energy as yet undiscovered on Urantia.
+> 
+> These mesotrons are found abundantly in the space rays which so incessantly impinge upon your planet.
 
 The following [abstract](https://ui.adsabs.harvard.edu/abs/1952AmJPh..20....5B/abstract), published in American Journal of Physics, Volume 20, Issue 1, pp. 5-13 (1952), is from a Harvard study.
 
@@ -388,7 +388,7 @@ Paper 121: The Times Of Michael’s Bestowal, Section 8: Previous Written Record
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/revelation-permissions-and-limitations/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

@@ -86,11 +86,11 @@ A continuación, se identifican dos ejemplos de lecturas erróneas y malentendid
 
 ### 1) La rotación de Mercurio
 
-El [LUtheNEWS: Informe de rotación de Mercurio](/es/article/Halbert_Katzen/Mercurys_Rotation) necesitaba ser escrito porque los lectores creyentes han malinterpretado el texto sobre la rotación de Mercurio y, a menudo, incluso no han entendido qué se entiende por rotación. Este informe no es un problema de corroboración, que, generalmente, es la razón por la que se escriben los informes de LUtheNEWS. Es realmente más un tutorial.
+El [UBtheNEWS: Informe de rotación de Mercurio](/es/article/Halbert_Katzen/Mercurys_Rotation) necesitaba ser escrito porque los lectores creyentes han malinterpretado el texto sobre la rotación de Mercurio y, a menudo, incluso no han entendido qué se entiende por rotación. Este informe no es un problema de corroboración, que, generalmente, es la razón por la que se escriben los informes de UBtheNEWS. Es realmente más un tutorial.
 
 Nunca hubo una contradicción entre lo que se dice en El libro de Urantia sobre la rotación de Mercurio y las creencias científicas porque El libro de Urantia no es específico sobre la cuestión de si Mercurio todavía gira. Por lo tanto, los cambios en la comunidad científica sobre este tema no tienen una relación directa con los problemas de credibilidad de El libro de Urantia. Todo lo que vemos aquí es que los autores, presumiblemente con conocimiento de la rotación de Mercurio, no especificaron que dejó de girar, como lo hicieron con la luna. ¿Por qué?
 
-Obsérvese que esta cuestión es diferente a afirmar que la Nova de Tycho fue causada por una explosión de una estrella doble. Véase [LUtheNEWS: Informe sobre la Nova de Tycho](/es/article/Halbert_Katzen/Tychos_Nova). En 1955, no había ninguna opinión científica sobre si una explosión de una estrella doble fue la causa de esta supernova. Pero en el momento de la publicación, la comunidad científica estaba muy de acuerdo con la creencia de que Mercurio había dejado de rotar. Considere que con la rotación de Mercurio, no hay necesidad de una «eliminación autorizada del error» (una cuestión que se aborda con más detalle más adelante) porque los científicos eventualmente podrían resolverlo por sí mismos, a diferencia de las cuestiones relacionadas con las peculiaridades de nuestra historia genética, por ejemplo.
+Obsérvese que esta cuestión es diferente a afirmar que la Nova de Tycho fue causada por una explosión de una estrella doble. Véase [UBtheNEWS: Informe sobre la Nova de Tycho](/es/article/Halbert_Katzen/Tychos_Nova). En 1955, no había ninguna opinión científica sobre si una explosión de una estrella doble fue la causa de esta supernova. Pero en el momento de la publicación, la comunidad científica estaba muy de acuerdo con la creencia de que Mercurio había dejado de rotar. Considere que con la rotación de Mercurio, no hay necesidad de una «eliminación autorizada del error» (una cuestión que se aborda con más detalle más adelante) porque los científicos eventualmente podrían resolverlo por sí mismos, a diferencia de las cuestiones relacionadas con las peculiaridades de nuestra historia genética, por ejemplo.
 
 Los autores merecen crédito por evitar hacer referencias específicas a algo que los científicos creían que era un punto establecido de la ciencia, pero que luego descubrieron que no era así. Nuestro fracaso como comunidad a la hora de leer con atención, repasar el tema lo suficiente y abordarlo de manera responsable se conserva en la infamia tanto en el libro de Martin Gardner, Urantia: El gran misterio del culto, como en Wikipedia, que afirma:
 
@@ -241,15 +241,15 @@ El uso del _mesotrón_ invita a considerar numerosas cuestiones relacionadas con
 
 Nótese que los reveladores son específicos al identificar la masa de los mesotrones en comparación con los electrones y que desde el electrón hasta el mesotrón y el protón surge un patrón de aumento de orden de magnitud. Los siguientes cinco párrafos contienen todas las referencias al mesotrón y sus permutaciones.
 
-> Los protones cargados y los neutrones no cargados del núcleo del átomo se mantienen unidos gracias al funcionamiento alternativo del mesotrón, una partícula de materia 180 veces más pesada que el electrón. Sin esta disposición, la carga eléctrica transportada por los protones desorganizaría el núcleo atómico. ([LU 42:8.3](/es/The_Urantia_Book/42#p8_3))
-
-> Tal como los átomos están constituidos, ni las fuerzas eléctricas ni las gravitatorias podrían mantener unido el núcleo. La integridad del núcleo se mantiene gracias al funcionamiento cohesivo recíproco del mesotrón, que es capaz de mantener unidas las partículas cargadas y no cargadas debido al poder superior de su fuerza-masa y a su función adicional de hacer que los protones y los neutrones cambien constantemente de lugar. El mesotrón hace que la carga eléctrica de las partículas nucleares sea lanzada sin cesar de un sitio para otro entre los protones y los neutrones. Durante una fracción infinitesimal de segundo, una partícula nuclear dada es un protón cargado, y a la fracción siguiente es un neutrón no cargado. Estas alternancias del estado energético son tan increíblemente rápidas que la carga eléctrica no tiene la menor oportunidad de funcionar como influencia disruptiva. El mesotrón funciona así como una partícula «portadora de energía» que contribuye poderosamente a la estabilidad nuclear del átomo. ([LU 42:8.4](/es/The_Urantia_Book/42#p8_4))
-
-> La presencia y el funcionamiento del mesotrón explican también otro enigma atómico. Cuando los átomos actúan de forma radioactiva, emiten mucha más energía de la que se podría esperar. Este exceso de radiación procede de la desintegración del mesotrón «portador de energía», que se convierte así en un simple electrón. La desintegración mesotrónica también va acompañada de la emisión de ciertas pequeñas partículas no cargadas. ([LU 42:8.5](/es/The_Urantia_Book/42#p8_5))
-
-> El mesotrón explica ciertas propiedades cohesivas del núcleo atómico, pero no da cuenta de la cohesión entre los protones ni de la adhesión entre los neutrones. La fuerza paradójica y poderosa que asegura la integridad cohesiva atómica es una forma de energía que aún no se ha descubierto en Urantia. ([LU 42:8.6](/es/The_Urantia_Book/42#p8_6))
-
-> Estos mesotrones se encuentran abundantemente en los rayos espaciales que chocan constantemente con vuestro planeta. ([LU 42:8.7](/es/The_Urantia_Book/42#p8_7))
+> Los protones cargados y los neutrones no cargados del núcleo del átomo se mantienen unidos gracias al funcionamiento alternativo del mesotrón, una partícula de materia 180 veces más pesada que el electrón. Sin esta disposición, la carga eléctrica transportada por los protones desorganizaría el núcleo atómico.
+> 
+> Tal como los átomos están constituidos, ni las fuerzas eléctricas ni las gravitatorias podrían mantener unido el núcleo. La integridad del núcleo se mantiene gracias al funcionamiento cohesivo recíproco del mesotrón, que es capaz de mantener unidas las partículas cargadas y no cargadas debido al poder superior de su fuerza-masa y a su función adicional de hacer que los protones y los neutrones cambien constantemente de lugar. El mesotrón hace que la carga eléctrica de las partículas nucleares sea lanzada sin cesar de un sitio para otro entre los protones y los neutrones. Durante una fracción infinitesimal de segundo, una partícula nuclear dada es un protón cargado, y a la fracción siguiente es un neutrón no cargado. Estas alternancias del estado energético son tan increíblemente rápidas que la carga eléctrica no tiene la menor oportunidad de funcionar como influencia disruptiva. El mesotrón funciona así como una partícula «portadora de energía» que contribuye poderosamente a la estabilidad nuclear del átomo.
+> 
+> La presencia y el funcionamiento del mesotrón explican también otro enigma atómico. Cuando los átomos actúan de forma radioactiva, emiten mucha más energía de la que se podría esperar. Este exceso de radiación procede de la desintegración del mesotrón «portador de energía», que se convierte así en un simple electrón. La desintegración mesotrónica también va acompañada de la emisión de ciertas pequeñas partículas no cargadas.
+> 
+> El mesotrón explica ciertas propiedades cohesivas del núcleo atómico, pero no da cuenta de la cohesión entre los protones ni de la adhesión entre los neutrones. La fuerza paradójica y poderosa que asegura la integridad cohesiva atómica es una forma de energía que aún no se ha descubierto en Urantia.
+> 
+> Estos mesotrones se encuentran abundantemente en los rayos espaciales que chocan constantemente con vuestro planeta. ([LU 42:8.3-7](/es/The_Urantia_Book/42#p8_3))
 
 El siguiente [resumen](https://ui.adsabs.harvard.edu/abs/1952AmJPh..20....5B/abstract), publicado en American Journal of Physics, Volumen 20, Número 1, págs. 5-13 (1952), es de un estudio de Harvard.
 
@@ -371,9 +371,9 @@ Documento 121: Los tiempos de la donación de Miguel, Sección 8: Registros escr
 
 ## Enlaces externos
 
-* [Este informe en la página web de LUTheNews](https://ubannotated.com/main-menu/animated/revelation-permissions-and-limitations/)
-* [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Este informe en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/revelation-permissions-and-limitations/)
+* [Otros informes en la página web de UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios temáticos en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

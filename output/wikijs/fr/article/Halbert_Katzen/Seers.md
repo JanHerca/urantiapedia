@@ -9,26 +9,41 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
-_Seer_ et _seers_ sont chacun utilisés cinq fois. Contrairement aux utilisations au pluriel, les utilisations au singulier ont une citation biblique associée ou un autre matériel qui peut être recherché et référencé. Ces références sont identifiées et incluses avec des passages sélectionnés du texte environnant :
+_Seer_ et _seers_ sont chacun utilisés cinq fois. Contrairement aux utilisations au pluriel, les utilisations au singulier ont une citation biblique associée ou un autre matériel qui peut être recherché et référencé. Ces références sont identifiées et incluses avec des passages sélectionnés du texte environnant :
 
 ## Voyant
 
-> Un voyant des anciens temps a dit : « Voici, il marche auprès de moi, et je ne le vois pas. Il continue aussi son chemin, mais je ne le perçois pas. » Nous pouvons observer constamment les œuvres de Dieu, nous pouvons être hautement conscients des preuves matérielles de sa conduite majestueuse, mais il est rare que nous puissions contempler la manifestation visible de sa divinité, pas même pour apercevoir la présence de l’esprit qu’il a délégué pour habiter l’homme. ([LU 1:3.2](/fr/The_Urantia_Book/1#p3_2))
+> **Un voyant des anciens** temps a dit : « Voici, il marche auprès de moi, et je ne le vois pas. Il continue aussi son chemin, mais je ne le perçois pas. » Nous pouvons observer constamment les œuvres de Dieu, nous pouvons être hautement conscients des preuves matérielles de sa conduite majestueuse, mais il est rare que nous puissions contempler la manifestation visible de sa divinité, pas même pour apercevoir la présence de l’esprit qu’il a délégué pour habiter l’homme. ([LU 1:3.2](/fr/The_Urantia_Book/1#p3_2))
 
-> [**Job 9**](/fr/Bible/Job/9) Job répondit et dit :
-> <sup><small>2</small></sup> Je sais que c'est vrai : mais comment l'homme pourrait-il être juste avec Dieu ?
-> <sup><small>3</small></sup> S'il veut le contredire, il ne peut lui répondre qu'une seule chose sur mille.
-> <sup><small>4</small></sup> Il est sage de cœur et puissant en force : qui s'est endurci contre lui, et a prospéré ?
-> <sup><small>5</small></sup> Qui déplace les montagnes, et elles ne le savent pas; qui les renverse dans sa colère.
-> <sup><small>6</small></sup> Qui fait trembler la terre sur sa base, et ses piliers.
-> <sup><small>7</small></sup> Qui commande au soleil, et il ne se lève pas, et qui scelle les étoiles.
-> <sup><small>8</small></sup> Qui seul déploie les cieux, et foule les vagues de la mer.
-> <sup><small>9</small></sup> Qui fait Arcturus, Orion et les Pléiades, et les chambres du sud.
-> <sup><small>10</small></sup> Qui fait de grandes choses inimaginables, et des prodiges sans nombre.
-> <sup><small>11</small></sup> Voici, il passe près de moi, et je ne le vois pas; il passe aussi, mais je ne l'aperçois pas.
+> [**Job 9**](/fr/Bible/Job/9) Job répondit et dit :
+> <sup><small>2</small></sup> Je sais que c'est vrai : mais comment l'homme pourrait-il être juste avec Dieu ?
+> <sup><small>3</small></sup> S'il veut le contredire, il ne peut lui répondre qu'une seule chose sur mille.
+> <sup><small>4</small></sup> Il est sage de cœur et puissant en force : qui s'est endurci contre lui, et a prospéré ?
+> <sup><small>5</small></sup> Qui déplace les montagnes, et elles ne le savent pas; qui les renverse dans sa colère.
+> <sup><small>6</small></sup> Qui fait trembler la terre sur sa base, et ses piliers.
+> <sup><small>7</small></sup> Qui commande au soleil, et il ne se lève pas, et qui scelle les étoiles.
+> <sup><small>8</small></sup> Qui seul déploie les cieux, et foule les vagues de la mer.
+> <sup><small>9</small></sup> Qui fait Arcturus, Orion et les Pléiades, et les chambres du sud.
+> <sup><small>10</small></sup> Qui fait de grandes choses inimaginables, et des prodiges sans nombre.
+> <sup><small>11</small></sup> Voici, il passe près de moi, et je ne le vois pas; il passe aussi, mais je ne l'aperçois pas.
 
 > Vous avez raison d’aimer les anges, mais il ne faudrait pas les adorer ; ils ne sont pas des objets de culte. Lorsque votre prophète « tomba en adoration aux pieds de l’ange », le grand séraphin Loyalatia lui dit : « Veille à ne pas faire cela. Je suis un serviteur comme toi et ceux de ta race, qui ont tous reçu le commandement d’adorer Dieu. » ([LU 38:2.5](/fr/The_Urantia_Book/38#p2_5))
 
@@ -39,8 +54,8 @@ _Seer_ et _seers_ sont chacun utilisés cinq fois. Contrairement aux utilisati
 > <sup><small>9</small></sup> Et il me dit: Écris: Heureux ceux qui sont appelés au festin des noces de l'agneau. Et il me dit: Ces paroles sont les véritables paroles de Dieu. <sup><small>10</small></sup> Et je tombai à ses pieds pour l'adorer. Et il me dit: Garde-toi de le faire! Je suis ton compagnon de service, et celui de tes frères qui ont le témoignage de Jésus. Adore Dieu, car le témoignage de Jésus est l'esprit de la prophétie.
 
 > [**Apocalypse 22:**](/fr/Bible/Revelation/22)
-> _Le temps est proche_<sup><small>6</small></sup> Puis il me dit : « Ces paroles _sont_ certaines et véritables. » Et le Seigneur, le Dieu des saints prophètes, a envoyé son ange pour montrer à ses serviteurs les choses qui doivent arriver bientôt.
-> <sup><small>7</small></sup> « Voici, je viens bientôt ! Béni _est_ celui qui garde les paroles de la prophétie de ce livre. »
+> _Le temps est proche_<sup><small>6</small></sup> Puis il me dit : « Ces paroles _sont_ certaines et véritables. » Et le Seigneur, le Dieu des saints prophètes, a envoyé son ange pour montrer à ses serviteurs les choses qui doivent arriver bientôt.
+> <sup><small>7</small></sup> « Voici, je viens bientôt ! Béni _est_ celui qui garde les paroles de la prophétie de ce livre. »
 > <sup><small>8</small></sup> Or, moi Jean, j'ai vu et entendu ces choses. Après avoir entendu et vu, je suis tombé aux pieds de l'ange qui me montrait ces choses pour l'adorer.
 > <sup><small>9</small></sup> Alors il me dit : Garde-toi de faire cela. Car je suis ton compagnon de service, et celui de tes frères les prophètes, et de ceux qui gardent les paroles de ce livre. Adore Dieu. <sup><small>10</small></sup> Et il me dit : Ne scelle pas les paroles de la prophétie de ce livre, car le temps est proche. <sup><small>11</small></sup> Que celui qui est injuste continue à être injuste ; que celui qui est souillé continue à se souiller ; que celui qui est juste continue à être juste ; que celui qui est saint continue à se sanctifier.
 
@@ -53,7 +68,7 @@ _Seer_ et _seers_ sont chacun utilisés cinq fois. Contrairement aux utilisati
 > <sup><small>8</small></sup> Qui a entendu une telle chose ?
 > Qui a vu de telles choses ?
 > La terre doit-elle donner naissance en un jour ?
-> _Ou_ une nation naîtra-t-elle immédiatement ?
+> _Ou_ une nation naîtra-t-elle immédiatement ?
 > Car dès que Sion fut en travail,
 > Elle a donné naissance à ses enfants.
 > <sup><small>9</small></sup> Ferai-je venir à l'heure de l'accouchement, et ne ferai-je pas accoucher ? dit l'Éternel.
@@ -66,7 +81,7 @@ _Seer_ et _seers_ sont chacun utilisés cinq fois. Contrairement aux utilisati
 > Pour que vous puissiez boire profondément et être ravis
 >Avec l'abondance de sa gloire. »
 > 
-> <sup><small>12</small></sup> Car ainsi parle l’Éternel : Voici, je ferai couler sur elle la paix comme un fleuve,
+> <sup><small>12</small></sup> Car ainsi parle l’Éternel : Voici, je ferai couler sur elle la paix comme un fleuve,
 > Et la gloire des nations comme un torrent qui coule.
 > Alors tu nourriras;
 > À ses côtés tu seras porté,
@@ -75,7 +90,7 @@ _Seer_ et _seers_ sont chacun utilisés cinq fois. Contrairement aux utilisati
 > Alors je te consolerai;
 > Et vous serez consolés à Jérusalem.
 > 
-> <sup><small>22</small></sup> « Car, comme les nouveaux cieux et la nouvelle terre
+> <sup><small>22</small></sup> « Car, comme les nouveaux cieux et la nouvelle terre
 > Ce que je ferai restera devant moi, dit l'Éternel,
 > « Ainsi subsisteront ta descendance et ton nom.
 > <sup><small>22</small></sup> il arrivera
@@ -87,7 +102,7 @@ _Seer_ et _seers_ sont chacun utilisés cinq fois. Contrairement aux utilisati
 
 De [Wiki](https://en.wikipedia.org/wiki/Instruction_of_Amenemope):
 
-> _**Instruction d'Amenemope**_ (également appelée _Instructions d'Amenemopet_, _Sagesse d'Amenemopet_) est une œuvre littéraire composée dans l'Égypte ancienne, très probablement pendant la période ramesside (environ 1300-1075 av. J.-C.) ; elle contient trente chapitres de conseils pour une vie réussie, apparemment écrits par le scribe [Amenemope fils de Kanakht](https://en.wikipedia.org/wiki/Amenemope_(author) « Amenemope (auteur) ») en héritage à son fils. Produit caractéristique de l'« Âge de la piété personnelle » du Nouvel Empire, l'ouvrage reflète les qualités intérieures, les attitudes et les comportements nécessaires à une vie heureuse face à des circonstances sociales et économiques de plus en plus difficiles. Il est largement considéré comme l'un des chefs-d'œuvre de la littérature de sagesse antique du Proche-Orient et a suscité un intérêt particulier chez les érudits modernes en raison de sa relation avec le [Livre des Proverbes](https://en.wikipedia.org/wiki/Book_of_Proverbs biblique « Livre des Proverbes »). …
+> _**Instruction d'Amenemope**_ (également appelée _Instructions d'Amenemopet_, _Sagesse d'Amenemopet_) est une œuvre littéraire composée dans l'Égypte ancienne, très probablement pendant la période ramesside (environ 1300-1075 av. J.-C.) ; elle contient trente chapitres de conseils pour une vie réussie, apparemment écrits par le scribe [Amenemope fils de Kanakht](https://en.wikipedia.org/wiki/Amenemope_(author) "Amenemope (auteur)") en héritage à son fils. Produit caractéristique de l'« Âge de la piété personnelle » du Nouvel Empire, l'ouvrage reflète les qualités intérieures, les attitudes et les comportements nécessaires à une vie heureuse face à des circonstances sociales et économiques de plus en plus difficiles. Il est largement considéré comme l'un des chefs-d'œuvre de la littérature de sagesse antique du Proche-Orient et a suscité un intérêt particulier chez les érudits modernes en raison de sa relation avec le [Livre des Proverbes](https://en.wikipedia.org/wiki/Book_of_Proverbs "Livre des Proverbes"). …
 > 
 > C’est \[Adolph\] Erman qui a utilisé _Amenemope_ pour corriger une lecture difficile dans le texte de Proverbes 22:20, où le mot hébreu _shilshom_ (« il y a trois jours ») semblait être une erreur de copiste qui ne pouvait être traduite de manière significative qu’avec difficulté. Erman a souligné que la substitution du mot similaire _sheloshim_ (« trente ») avait non seulement du sens dans le contexte, mais produisait le parallèle étroit suivant entre les deux textes, les « trente paroles » maintenant rétablies dans Proverbes 22:20 correspondant exactement aux trente chapitres numérotés dans _Amenemope_ :
 > 
@@ -112,7 +127,7 @@ Il convient de noter une publication de 1933 de James Henry Breasted intitulée 
 > **La vision de Daniel sur l’Ancien des Jours**
 > <sup><small>9</small></sup> Je regardai jusqu'à ce que les trônes soient renversés, et que l'Ancien des jours s'assit. Son vêtement était blanc comme la neige, et les cheveux de sa tête comme de la laine pure; son trône était comme une flamme de feu, et ses roues comme un feu ardent. <sup><small>10</small></sup> Un fleuve de feu sortait et sortait de devant lui. Des milliers de milliers le servaient, et des myriades de myriades se tenaient devant lui. Le jugement fut rendu, et les livres furent ouverts.
 > 
-> <sup><small>11</small></sup> Je regardai alors à cause de la voix des grandes paroles que prononçait la corne : je regardai jusqu'à ce que la bête soit tuée, et son corps détruit et livré à la flamme ardente. <sup><small>12</small></sup> Quant aux autres bêtes, leur domination leur fut ôtée ; mais leurs vies furent prolongées pour un temps et un temps.
+> <sup><small>11</small></sup> Je regardai alors à cause de la voix des grandes paroles que prononçait la corne : je regardai jusqu'à ce que la bête soit tuée, et son corps détruit et livré à la flamme ardente. <sup><small>12</small></sup> Quant aux autres bêtes, leur domination leur fut ôtée ; mais leurs vies furent prolongées pour un temps et un temps.
 > 
 > <sup><small>13</small></sup> Je regardais pendant mes visions nocturnes, et voici, sur les nuées du ciel arrivait quelqu'un de semblable à un fils de l'homme, qui s'approcha de l'Ancien des jours, et on le fit approcher de lui.
 > <sup><small>14</small></sup> Et la domination, la gloire et le royaume lui furent donnés ; et tous les peuples, nations, et langues le servirent. Sa domination est une domination éternelle qui ne passera point, et son règne ne sera jamais détruit.
@@ -147,9 +162,24 @@ Il convient de noter une publication de 1933 de James Henry Breasted intitulée 
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/seers/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/seers/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

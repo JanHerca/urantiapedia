@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -60,7 +75,7 @@ Considérez la nature paradoxale de tout cela qui met à rude épreuve notre cap
 
 > Le temps, l’espace et l’expérience sont les plus grands auxiliaires de l’homme pour la perception de la réalité relative, et ils sont cependant ses plus formidables obstacles pour la perception de la réalité complète. Les mortels et beaucoup d’autres créatures de l’univers trouvent nécessaire de penser aux potentiels comme étant actualisés dans l’espace et évoluant jusqu’à maturité dans le temps, mais tout ce processus n’est qu’un phénomène de l’espace-temps, qui ne se passe pas effectivement au Paradis et dans l’éternité. Sur le niveau absolu, il n’y a ni temps ni espace ; tous les potentiels peuvent y être perçus comme des actuels. ([LU 106:9.3](/fr/The_Urantia_Book/106#p9_3))
 
-Considérez ces paragraphes sélectionnés du document 118 : Suprême et ultime — Temps et espace, section 3 : Relations temps-espace :
+Considérez ces paragraphes sélectionnés du document 118 : Suprême et ultime — Temps et espace, section 3 : Relations temps-espace :
 
 > C’est seulement par l’ubiquité que la Déité a pu unifier les manifestations de l’espace-temps pour les conceptions finies, car le temps est une succession d’instants, tandis que l’espace est un système de points associés. Après tout, vous percevez le temps par analyse et l’espace par synthèse. Vous coordonnez et vous associez ces deux conceptions dissemblables par la perspicacité intégratrice de la personnalité. Dans le monde animal, l’homme est seul à posséder cette faculté de percevoir l’espace-temps. Pour un animal, le mouvement a une signification, mais il ne prend une valeur que pour une créature ayant statut de personnalité. ([LU 118:3.1](/fr/The_Urantia_Book/118#p3_1))
 
@@ -114,11 +129,11 @@ La présentation cosmologique au niveau macro que l'on trouve dans le Livre d'Ur
 
 \[Il s'avère que deux chapitres de mon livre, [_La logique de l'amour : trouver la foi par le cœur et la connexion mentale_](/fr/book/Halbert_Katzen/The_Logic_of_Love), examinent plus en détail les trois types de géométrie comme contexte pour discuter de l'athéisme, de l'agnosticisme et du théisme. Il y a quelques graphiques avec l'explication qui peuvent être utiles à ceux qui ne sont pas familiers avec la nature générale de ces géométries. Ce matériel est couvert dans : [Partie IV : Reconnaître les possibilités](/fr/book/Halbert_Katzen/The_Logic_of_Love#Index); [Chapitre 18 : L'analogie géométrique](/fr/book/Halbert_Katzen/The_Logic_of_Love/18); et [Chapitre 19 : Paradigmes concurrents](/fr/book/Halbert_Katzen/The_Logic_of_Love/19).\]
 
-## Étape 1 : Autorisations et limitations révélatrices
+## Étape 1 : Autorisations et limitations révélatrices
 
 [Autorisations et limitations révélatrices](/fr/article/Halbert_Katzen/Revelation_Permissions_and_Limitations) soulève des questions qui vont au-delà d'une discussion sur l'astronomie. C'est pourquoi elle a été créée en tant qu'étude thématique distincte. Une fois rédigée, des commentaires supplémentaires seront peut-être ajoutés ici, qui sont spécifiques à l'astronomie.
 
-## Étape 2 : Analyse des quatre coins
+## Étape 2 : Analyse des quatre coins
 
 ### Havona/Paradis
 
@@ -136,7 +151,7 @@ Quelles informations sur la forme de l'île éternelle du Paradis pourraient êt
 
 > Ces différences de dimensions de l’Ile, jointes à son statut stationnaire et à une plus forte pression de radiation d’énergie-force à l’extrémité nord de l’Ile, permettent d’établir une direction absolue dans le maitre univers. ([LU 11:2.3](/fr/The_Urantia_Book/11#p2_3))
 
-En distinguant les planètes habitées de la forme du Paradis, notez la considération de signification/valeur qui est également mentionnée – la capacité à établir un sens de direction. L'expression au niveau micro de ce principe de valeur est rendue d'autant plus intéressante par son rapport connexe d'LUtheNEWS : [Sensibilité magnétique](/fr/article/Halbert_Katzen/Magnetic_Sensitivity), qui se concentre sur cet enseignement :
+En distinguant les planètes habitées de la forme du Paradis, notez la considération de signification/valeur qui est également mentionnée – la capacité à établir un sens de direction. L'expression au niveau micro de ce principe de valeur est rendue d'autant plus intéressante par son rapport connexe d'UBtheNEWS : [Sensibilité magnétique](/fr/article/Halbert_Katzen/Magnetic_Sensitivity), qui se concentre sur cet enseignement :
 
 > Les quatre points cardinaux sont universels et inhérents à la vie de Nébadon. Toutes les créatures vivantes possèdent des unités corporelles qui sont sensibles et réactives à ces courants orientateurs. Ces attributs des créatures sont reproduits en descendant de l’univers jusqu’aux planètes individuelles, et, conjointement avec les forces magnétiques des mondes, ils activent des foules de corps microscopiques dans les organismes animaux, de telle sorte que les cellules orientatrices pointent toujours vers le Nord et le Sud. C’est ainsi que le sens de l’orientation est fixé pour toujours chez les êtres vivants de l’univers. L’humanité n’est pas totalement dépourvue de la possession consciente de ce sens. C’est à peu près à l’époque de ce récit que ces corps ont été observés pour la première fois sur Urantia. ([LU 34:4.13](/fr/The_Urantia_Book/34#p4_13))
 
@@ -167,7 +182,7 @@ La perspective sur la dimension verticale est-elle parallèle à la perspective 
 La croix de Malte avec des lignes tangentes au centre reflète plus précisément la description. Mais qu'en est-il des qualificatifs « légèrement » et « quelque peu » pour la croix de Malte et les zones médianes, respectivement ? Ces images de croix de Malte ne « ressemblent pas légèrement à une croix de Malte » ; ce sont des exemples généralement acceptés.
 
 Ce paragraphe fait allusion aux questions liées à la raison pour laquelle « quelque peu » est utilisé en relation avec les zones de l’espace intermédiaire :
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 > Il y a une limite supérieure et une limite inférieure à l’espace horizontal par rapport à n’importe quel emplacement dans les univers. Si l’on pouvait aller assez loin à angle droit du plan d’Orvonton, soit vers le haut soit vers le bas, on rencontrerait finalement la limite inférieure ou supérieure de l’espace pénétré. À l’intérieur des dimensions connues du maitre univers, ces limites s’écartent de plus en plus l’une de l’autre à mesure que la distance du Paradis s’accroit. L’espace épaissit, et il épaissit un peu plus vite que le plan de la création, c’est-à-dire que les univers. ([LU 11:7.6](/fr/The_Urantia_Book/11#p7_6))
 
@@ -351,7 +366,7 @@ De plus, considérez l'étude thématique : [Phrases de captivation du lecteur](
 
 Tout bien considéré, l'analyse textuelle soutient fortement l'interprétation selon laquelle Andromède se trouve au premier niveau de l'espace extra-atmosphérique.
 
-Considérez comme candidats pour les _deux ou trois nébuleuses_ : Andromède, Triangle et Centaure A.
+Considérez comme candidats pour les _deux ou trois nébuleuses_ : Andromède, Triangle et Centaure A.
 
 #### La Voie Lactée et Orvonton
 
@@ -425,7 +440,7 @@ Galaxies visibles à l'œil nu, répertoriées par Wikipédia :
 > Nous ne connaissons pas le mécanisme effectif de la respiration de l’espace ; nous observons simplement que tout l’espace est alternativement en contraction et en expansion. Cette respiration affecte à la fois l’expansion horizontale de l’espace pénétré et les extensions verticales de l’espace non pénétré qui existent dans les vastes réservoirs d’espace au-dessus et au-dessous du Paradis. Pour essayer d’imaginer la forme volumétrique de ces réservoirs d’espace, vous pourriez penser à un sablier.
 > Nous ne connaissons pas le mécanisme effectif de la respiration de l’espace ; nous observons simplement que tout l’espace est alternativement en contraction et en expansion. Cette respiration affecte à la fois l’expansion horizontale de l’espace pénétré et les extensions verticales de l’espace non pénétré qui existent dans les vastes réservoirs d’espace au-dessus et au-dessous du Paradis. Pour essayer d’imaginer la forme volumétrique de ces réservoirs d’espace, vous pourriez penser à un sablier. ([LU 11:6.1](/fr/The_Urantia_Book/11#p6_1))
 
-## Étape 4 : Application de l'étape 3 à l'étape 2
+## Étape 4 : Application de l'étape 3 à l'étape 2
 
 Lors du Symposium scientifique de la Fondation Urantia de juin 2022, la présentation de Phil Calabrese était intitulée : « Expliquer les grands décalages vers le rouge Doppler sans Big Bang. » ([Vidéo](https://bit.ly/3yXn39d). [PDF](https://ubannotated.com/wp-content/uploads/2022/08/Redshift-Calabrese.pdf).) Il me semble que ce soit une avancée majeure pour concilier l’astronomie avec _Le Livre d’Urantia._
 
@@ -445,9 +460,9 @@ Lors du Symposium scientifique de la Fondation Urantia de juin 2022, la présent
 
 > Votre univers local de Nébadon appartient à Orvonton, le septième superunivers, qui tourne entre les superunivers numéros un et six et a pris depuis peu (à la manière dont nous calculons le temps) le tournant sud-est du niveau d’espace des superunivers. Aujourd’hui, le système solaire auquel appartient Urantia a passé depuis quelques milliards d’années la courbure sud, si bien que, présentement, vous avancez au-delà du tournant sud-est et vous vous déplacez rapidement sur la longue trajectoire comparativement rectiligne vers le nord. Pendant des âges innombrables, Orvonton suivra ce parcours allant presque droit vers le nord. ([LU 15:1.5](/fr/The_Urantia_Book/15#p1_5))
 
-(Le [LUtheNEWS : Rapport sur la sensibilité magnétique](/fr/article/Halbert_Katzen/Magnetic_Sensitivity) fournit une perspective supplémentaire sur la façon de trouver l'équilibre entre les informations qui peuvent et ne peuvent pas être incluses dans _Le Livre d'Urantia_.)
+(Le [UBtheNEWS : Rapport sur la sensibilité magnétique](/fr/article/Halbert_Katzen/Magnetic_Sensitivity) fournit une perspective supplémentaire sur la façon de trouver l'équilibre entre les informations qui peuvent et ne peuvent pas être incluses dans _Le Livre d'Urantia_.)
 
-Peut-être qu'un jour, cette page grandira au-delà d'une étude thématique pour devenir aussi une page de recherche LUtheNEWS. Pour l'instant, la première tâche consiste à travailler sur la création d'images et à développer des questions liées à l'astronomie basée sur le Livre d'Urantia. Ni l'image peinte par le Livre d'Urantia ni la science ne sont une image complète de l'astronomie qui réponde à toutes nos questions. Et en parlant de peindre des images, j'ai mes propres limites en tant qu'artiste graphique. Alors, n'hésitez pas à me contacter pour des critiques constructives et/ou pour m'aider à créer des graphiques de meilleure qualité. Merci d'avoir vérifié cela !
+Peut-être qu'un jour, cette page grandira au-delà d'une étude thématique pour devenir aussi une page de recherche UBtheNEWS. Pour l'instant, la première tâche consiste à travailler sur la création d'images et à développer des questions liées à l'astronomie basée sur le Livre d'Urantia. Ni l'image peinte par le Livre d'Urantia ni la science ne sont une image complète de l'astronomie qui réponde à toutes nos questions. Et en parlant de peindre des images, j'ai mes propres limites en tant qu'artiste graphique. Alors, n'hésitez pas à me contacter pour des critiques constructives et/ou pour m'aider à créer des graphiques de meilleure qualité. Merci d'avoir vérifié cela !
 
 Notez comment l'expression et le concept de « temps-espace » sont abordés très près du début et de la fin du texte. Et une section sur le temps-espace, fournie dans le fascicule 118, est également remarquable pour son placement (vers la toute fin de la troisième partie) par rapport au reste du Livre d'Urantia.
 
@@ -491,7 +506,7 @@ Le point noir au centre de cette croix de Malte cosmologique est approximativeme
 <img src="/image/article/Halbert_Katzen/Astronomy/Orvonton-Egg.jpg">
 </figure>
 
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 > Pratiquement tous les royaumes étoilés visibles d’Urantia à l’œil nu appartiennent à la septième section du grand univers, le superunivers d’Orvonton. Le vaste système d’étoiles de la Voie Lactée représente le noyau central d’Orvonton et se trouve très au-delà des frontières de votre univers local. Ce grand agrégat de soleils, d’iles obscures de l’espace, d’étoiles doubles, d’amas globulaires, de nuages stellaires, de nébuleuses spirales ou autres, ainsi que de myriades de planètes individuelles, forme un groupement ovale allongé à profil de montre englobant environ un septième des univers évolutionnaires habités. ([LU 15:3.1](/fr/The_Urantia_Book/15#p3_1))
 
@@ -521,7 +536,7 @@ Le point noir au centre de cette croix de Malte cosmologique est approximativeme
 <img src="/image/article/Halbert_Katzen/Astronomy/Distance-across-1.jpg">
 </figure>
 
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 > Les nébuleuses spirales ne sont pas toutes occupées à engendrer des soleils. Quelques-unes ont conservé le contrôle de beaucoup de leurs descendants stellaires séparés, et leur apparence spirale résulte du fait que leurs soleils sortent du bras nébulaire en formation serrée, mais y retournent par des routes variées. Cela rend plus aisé de les observer en un point, mais plus malaisé de les voir quand ils sont largement éparpillés sur leurs diverses routes de retour, plus loin et en dehors du bras de la nébuleuse. Il n’y a pas beaucoup de nébuleuses formatrices de soleils qui soient présentement actives dans Orvonton, bien qu’Andromède, qui est en dehors du superunivers habité, soit très active. Cette nébuleuse très éloignée est visible à l’œil nu ; lorsque vous la regarderez, arrêtez-vous pour songer que la lumière qui vous parvient a quitté ces lointains soleils depuis près d’un million d’années. ([LU 15:4.7](/fr/The_Urantia_Book/15#p4_7))
 
@@ -579,13 +594,13 @@ L'une des questions les plus évidentes à poser, concernant une comparaison ent
 Si une ligne est tracée de nous au halo de la Voie Lactée (appelons cela la ligne centrale) et que nous supposons être au centre du bord extérieur et que nous prenons l'ange décentré au centre des superunivers adjacents à environ 22,5 degrés, ce serait l'angle avec lequel commencer et ensuite augmenter à partir de là. Il semble que nous devrions chercher quelque chose dans le voisinage de 350 000 à 450 000 années-lumière ?
 
 Si quelqu'un a des suggestions de candidats, veuillez nous contacter.
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 <figure id="Figure_16" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Astronomy/Milky-Way-halo-distance.jpg">
 </figure>
 
-Un [manuel d'astronomie en ligne](https://openstax.org/details/books/astronomy-2e) semble suggérer qu'Uversa peut être identifié à l'aide de la technologie d'imagerie infrarouge :
+Un [manuel d'astronomie en ligne](https://openstax.org/details/books/astronomy-2e) semble suggérer qu'Uversa peut être identifié à l'aide de la technologie d'imagerie infrarouge :
 
 « Le fait qu'une grande partie du renflement soit masquée par la poussière rend sa forme difficile à déterminer. Pendant longtemps, les astronomes ont supposé qu'il était sphérique. Cependant, les images infrarouges et d'autres données indiquent que le renflement est environ deux fois plus long que large et qu'il a plutôt la forme d'une cacahuète. La relation entre ce renflement interne allongé et la plus grande barre d'étoiles reste incertaine. Au centre même du renflement nucléaire se trouve une énorme concentration de matière, dont nous parlerons plus loin dans ce chapitre.
 
@@ -820,11 +835,26 @@ Espace-Temps : 112 paragraphes. Les 28 premières occurrences se trouvent dans l
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/astronomy/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/astronomy/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 * [Manuel d'astronomie en ligne](https://openstax.org/details/books/astronomy) pour les deux premiers semestres.
 
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

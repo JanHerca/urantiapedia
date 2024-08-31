@@ -37,7 +37,7 @@ Sin embargo, en 2000, el arqueólogo aficionado Stephen Shanahan, utilizando las
 
 Al parecer, la naturaleza de las losas de piedra (grandes y sencillas) las ayudó a sobrevivir y permanecer más o menos in situ. No se podían quitar fácilmente y su importancia histórica no es evidente. Aun así, la colocación de una de las losas en una tumba sugiere que se consideraba un artefacto importante.
 
-Por lo general, LUtheNEWS informa sobre nuevos descubrimientos que respaldan las afirmaciones realizadas en El libro de Urantia. En este caso, el sitio arqueológico de las Hermanas de Nazaret no solo le da credibilidad a El libro de Urantia, sino que también ayuda a identificar cuál de los sitios arqueológicos es el mejor candidato para la aparición de Gabriel a María.
+Por lo general, UBtheNEWS informa sobre nuevos descubrimientos que respaldan las afirmaciones realizadas en El libro de Urantia. En este caso, el sitio arqueológico de las Hermanas de Nazaret no solo le da credibilidad a El libro de Urantia, sino que también ayuda a identificar cuál de los sitios arqueológicos es el mejor candidato para la aparición de Gabriel a María.
 
 (Muchas gracias al reverendo Robert Crickett, quien se puso en contacto conmigo en respuesta a la publicación de este informe. Ha viajado muchas veces a Israel y se ha alojado regularmente con las Hermanas de Nazaret en esos viajes. La información y las imágenes que proporcionó se presentan nuevamente al final de este informe.)
 <br estilo=«claro:ambos;»/>
@@ -181,9 +181,9 @@ Lo siguiente es una re-presentación de comunicaciones, imágenes y artículos p
 
 ## Enlaces externos
 
-* [Este informe en la página web de LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/jesus-nazareth-home/)
-* [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Este informe en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/jesus-nazareth-home/)
+* [Otros informes en la página web de UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios temáticos en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

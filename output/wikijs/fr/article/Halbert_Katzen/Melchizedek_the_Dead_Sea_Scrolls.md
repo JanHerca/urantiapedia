@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Melchisédek et les Manuscrits de la Mer Morte Préface
 
@@ -16,7 +31,7 @@ La langue hébraïque fournit le sol pour les racines étymologiques de _Melchis
 
 Urantia signifie Terre. Etymologiquement, cela signifie « Connu dans les cieux comme (Uran) le « Monde de la Croix » (t, ia) ». Considérez les origines de Uranus : première planète découverte qui n'était pas connue dans les temps anciens, nommée d'après le dieu du Ciel, époux de Gaïa, la Terre, du latin Uranus, du grec Ouranos, littéralement « le ciel, le ciel » ; dans la cosmologie grecque, le dieu qui personnifie les cieux, père des titans.
 
-Expliquer les racines étymologiques d'Urantia n'est pas la manière habituelle d'introduire un rapport d'LUtheNEWS. Mais, dans ce cas, le rapport a tout à voir avec la compréhension de notre place dans les cieux. Plus précisément, Le Livre d'Urantia dit que Melchizédek s'est incarné pour favoriser le développement évolutionnaire progressif du monothéisme sur ce monde et pour mieux préparer l'humanité à l'incarnation de Jésus, qui apporterait une compréhension encore plus avancée de notre Père Céleste.
+Expliquer les racines étymologiques d'Urantia n'est pas la manière habituelle d'introduire un rapport d'UBtheNEWS. Mais, dans ce cas, le rapport a tout à voir avec la compréhension de notre place dans les cieux. Plus précisément, Le Livre d'Urantia dit que Melchizédek s'est incarné pour favoriser le développement évolutionnaire progressif du monothéisme sur ce monde et pour mieux préparer l'humanité à l'incarnation de Jésus, qui apporterait une compréhension encore plus avancée de notre Père Céleste.
 
 Le mystère de Melchisédek a précédé Jésus. Bien que Jésus ait parlé de sa propre nature pour tenter de dissiper les malentendus à son sujet, il n'a jamais abordé le mystère de Melchisédek. Peut-être devrions-nous nous demander pourquoi ? C'est peut-être une question extrêmement importante et actuelle.
 
@@ -24,17 +39,17 @@ Quelles que soient les raisons qui ont poussé Jésus à ne pas éclaircir le my
 
 Le prénom de Melchizédek est _Machiventa_. J’ai préparé des étymologies de termes inventés du _Livre d’Urantia_ et j’ai également partagé le travail étymologique d’autres personnes sur LUannotated.com. Mais, autant que je sache, personne n’a jamais rien rassemblé auparavant sur _Machiventa_. La recherche ne s’est pas avérée simple en comparaison de mes efforts précédents. Elle est donc devenue à la fois une [Annexe](https://ubannotated.com/main-menu/animated/topical-studies/machiventa-melchizedek/machiventa-etymology/) pour ce rapport et une étude thématique à part entière.
 
-De plus, je pense qu'il est préférable d'expliquer dès le début que ce rapport LUtheNEWS s'écarte considérablement de la nature des autres rapports LUtheNEWS de plusieurs manières importantes :
+De plus, je pense qu'il est préférable d'expliquer dès le début que ce rapport UBtheNEWS s'écarte considérablement de la nature des autres rapports UBtheNEWS de plusieurs manières importantes :
 
-1) En général, les rapports d’LUtheNEWS sont rédigés sans présumer de la familiarité du lecteur avec le sujet relatif à une nouvelle découverte ou à une avancée scientifique qui soutient _Le Livre d’Urantia_. Pour ce rapport, les lecteurs doivent avoir une certaine familiarité avec Melchizédek de Wikipédia ou d’ailleurs ; les lecteurs doivent avoir une certaine appréciation de l’importance de la découverte des Manuscrits de la Mer Morte en ce qui concerne l’interprétation de la Bible.
+1) En général, les rapports d’UBtheNEWS sont rédigés sans présumer de la familiarité du lecteur avec le sujet relatif à une nouvelle découverte ou à une avancée scientifique qui soutient _Le Livre d’Urantia_. Pour ce rapport, les lecteurs doivent avoir une certaine familiarité avec Melchizédek de Wikipédia ou d’ailleurs ; les lecteurs doivent avoir une certaine appréciation de l’importance de la découverte des Manuscrits de la Mer Morte en ce qui concerne l’interprétation de la Bible.
 
 2) En général, une nouvelle découverte ou un progrès scientifique qui soutient le Livre d’Urantia n’apparaît pas sur une période prolongée qui s’étend autour de la date de publication du Livre d’Urantia en 1955. Le Manuscrit de la Mer Morte sur Melchizédek (11Q13, également connu sous le nom de 11QMel ou 11QMelch) a été découvert en 1956. Cette partie n’a donc pas besoin d’explications supplémentaires. Mais la plupart des Manuscrits de la Mer Morte ont été découverts entre novembre 1946 et février 1947. Certains éléments de ces manuscrits se rapportent à un Jubilé des Jubilés et l’associent à une figure du Messie, ce qui, à son tour, porte sur les interprétations concernant la nature et le rôle futur de Melchizédek.
 
 	Heureusement, même ces Manuscrits de la Mer Morte ont été découverts plusieurs années après que les plaques pour l'impression du Livre d'Urantia aient été commandées. Le Livre d'Urantia fournit environ 45 pages d'histoire et de perspective directement axées sur Melchizédek. Ces informations sont étroitement liées à la cosmologie présentée dans le reste de ses 2097 pages. De nombreux documents historiques sont disponibles pour prouver que ce matériel a été écrit et préparé pour la composition bien avant la découverte des Manuscrits de la Mer Morte. Voici un [document](https://ubhs.hosted-by-files.com/docs/U/uk19410628_kelloggw_03.pdf) montrant que des dispositions ont été prises en 1941 pour la publication du Livre d'Urantia.
 
-3) Une nouvelle découverte ou une avancée scientifique qui soutient _Le Livre d'Urantia_ doit être quelque peu imprévisible ou contraire aux opinions savantes prédominantes de 1955, si l'information doit être crédible en comparaison. De plus, la force d'une corroboration est directement liée à la fourniture d'informations incontestées et objectivement vérifiables. La date de découverte des Manuscrits de la Mer Morte est suffisamment objective et vérifiable. La façon d'interpréter des fragments de lettres est sujette à débat. Interpréter puis traduire ce que disent les Manuscrits est subjectif et est souvent étroitement lié à des convictions religieuses profondément ancrées. Ainsi, afin de trouver quelque chose de corroborant, il faut prendre des précautions particulières et ajuster les attentes par rapport aux autres rapports d'LUtheNEWS.
+3) Une nouvelle découverte ou une avancée scientifique qui soutient _Le Livre d'Urantia_ doit être quelque peu imprévisible ou contraire aux opinions savantes prédominantes de 1955, si l'information doit être crédible en comparaison. De plus, la force d'une corroboration est directement liée à la fourniture d'informations incontestées et objectivement vérifiables. La date de découverte des Manuscrits de la Mer Morte est suffisamment objective et vérifiable. La façon d'interpréter des fragments de lettres est sujette à débat. Interpréter puis traduire ce que disent les Manuscrits est subjectif et est souvent étroitement lié à des convictions religieuses profondément ancrées. Ainsi, afin de trouver quelque chose de corroborant, il faut prendre des précautions particulières et ajuster les attentes par rapport aux autres rapports d'UBtheNEWS.
 
-4) Ce rapport d'LUtheNEWS est thématiquement lié à une série d'aides à l'étude sur la prophétie et les signes des temps. Il convient de noter en particulier que deux éclipses solaires totales, à environ sept ans d'intervalle, ont des trajectoires qui se croisent au-dessus de la Croix de la Paix de Bald Knob. Ces éclipses se produisent le 21 août 2017 et le 8 avril 2024. _Le Livre d'Urantia_ dit que l'anniversaire de Jésus est le 21 août et que le 8 avril est la date entre la crucifixion et la résurrection. Pour une perspective supplémentaire sur la façon dont cela se rapporte à la prophétie et aux enseignements du _Livre d'Urantia_, voir [Les éclipses l'emportent sur les érudits en matière de prophétie](https://ubannotated.com/main-menu/animated/more-about-and-by-halbert-katzen/eclipses-trump-prophecy-scholars/), [La prophétie et les « signes des temps »](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/) et [Le Messie juif est Melchizédek!?!](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/the-jewish-messiah-is-melchizedek/)
+4) Ce rapport d'UBtheNEWS est thématiquement lié à une série d'aides à l'étude sur la prophétie et les signes des temps. Il convient de noter en particulier que deux éclipses solaires totales, à environ sept ans d'intervalle, ont des trajectoires qui se croisent au-dessus de la Croix de la Paix de Bald Knob. Ces éclipses se produisent le 21 août 2017 et le 8 avril 2024. _Le Livre d'Urantia_ dit que l'anniversaire de Jésus est le 21 août et que le 8 avril est la date entre la crucifixion et la résurrection. Pour une perspective supplémentaire sur la façon dont cela se rapporte à la prophétie et aux enseignements du _Livre d'Urantia_, voir [Les éclipses l'emportent sur les érudits en matière de prophétie](https://ubannotated.com/main-menu/animated/more-about-and-by-halbert-katzen/eclipses-trump-prophecy-scholars/), [La prophétie et les « signes des temps »](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/) et [Le Messie juif est Melchizédek!?!](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/the-jewish-messiah-is-melchizedek/)
 
 La rédaction de ce rapport a commencé le 21 décembre 2020. Les déclarations faites dans _Le_ _Livre d'Urantia_ indiquent que 2021 est le 4000e anniversaire du jour où Machiventa Melchizédek s'est incarné et a commencé à enseigner pendant la période abrahamique. Veuillez apprécier ce rapport comme une célébration de la transition millénaire 2020/2021 !
 
@@ -73,7 +88,7 @@ Les informations sur Melchizédek contenues dans les Manuscrits de la Mer Morte 
 
 Il est intéressant de noter que le Manuscrit de la Mer Morte qui élargit particulièrement la perspective sur Melchizédek (11Q13 ou 11QMelch) ne fait pas référence aux passages le concernant dans la Genèse et les Psaumes. Il fait plutôt référence à Isaïe et à Daniel et soutient la vision de Melchizédek comme un être messianique associé à un Jour du Jugement et à un Jubilé des Jubilés. Ce faisant, 11Q13 apparaît comme généralement cohérent avec la description de Melchizédek par Le Livre d’Urantia et soutient l’idée qu’il a continué à travailler avec des prophètes et des voyants.
 
-Etant donné les déclarations de l'Ancien et du Nouveau Testament sur Melchizédek et la profondeur des connaissances sur les différentes formes de pensée juive qui existaient dans les siècles précédant l'avènement du christianisme, les auteurs du Livre d'Urantia n'ont pas pris beaucoup de risques en matière de crédibilité avec leur description de Melchizédek de Machiventa. Néanmoins, les Manuscrits de la Mer Morte (théoriquement et hypothétiquement) auraient pu fournir une perspective contraire à ce qu'enseigne le Livre d'Urantia. Ainsi, même s'il n'y a pas d'angle de crédibilité à cela de l'ordre de grandeur associé à d'autres rapports d'LUtheNEWS, néanmoins, les Manuscrits de la Mer Morte apparaissent après la publication du Livre d'Urantia avec des informations sur Melchizédek qui soutiennent le récit du Livre d'Urantia.
+Etant donné les déclarations de l'Ancien et du Nouveau Testament sur Melchizédek et la profondeur des connaissances sur les différentes formes de pensée juive qui existaient dans les siècles précédant l'avènement du christianisme, les auteurs du Livre d'Urantia n'ont pas pris beaucoup de risques en matière de crédibilité avec leur description de Melchizédek de Machiventa. Néanmoins, les Manuscrits de la Mer Morte (théoriquement et hypothétiquement) auraient pu fournir une perspective contraire à ce qu'enseigne le Livre d'Urantia. Ainsi, même s'il n'y a pas d'angle de crédibilité à cela de l'ordre de grandeur associé à d'autres rapports d'UBtheNEWS, néanmoins, les Manuscrits de la Mer Morte apparaissent après la publication du Livre d'Urantia avec des informations sur Melchizédek qui soutiennent le récit du Livre d'Urantia.
 
 Français On dit que Jésus a dit : « Quand le monde aura traversé le long hiver de la mentalité matérialiste et que vous discernerez la venue du printemps spirituel d’une nouvelle dispensation, sachez que l’été d’une nouvelle visitation approche. » ([LU 176:2.6](/fr/The_Urantia_Book/176#p2_6)) Et concernant la mentalité matérialiste, _Le Livre d’Urantia_ enseigne : « Au moment où j’écris ces lignes \[qui se réfère probablement à l’époque de « l’accusation » du milieu des années 1930, et non à sa date de publication de 1955\], le pire de l’âge matérialiste est passé ; le jour d’une meilleure compréhension commence déjà à poindre. » ([LU 195:6.4](/fr/The_Urantia_Book/195#p6_4)) Peut-être devrions-nous prendre note du fait que presque immédiatement après la publication du _Livre d’Urantia_, une découverte a été faite d’une importance historique et religieuse extraordinaire qui se rapporte particulièrement à la compréhension de la cosmologie du _Livre d’Urantia_ et des enseignements sur l’avenir, même la période dans laquelle nous nous trouvons actuellement.
 
@@ -246,11 +261,11 @@ et ne changera pas d'avis,
 
 La traduction ci-dessous du Manuscrit de la Mer Morte 11Q13 vient de [virtualreligion.net](https://virtualreligion.net/iho/11QMelch.html). La note explicative se lit en partie ainsi : « La formulation déchiffrable, imprimée en caractères gras, bien que manquant souvent de cohérence, offre des points de comparaison importants avec les passages messianiques du NT. Elle est donc présentée ici, malgré la lecture difficile causée par les fréquentes lacunes importantes (?…?), qui empêchent une reconstruction complète et exacte. Les parties conjecturales de la traduction (texte entre parenthèses), suivent les lectures suggérées par M. deJonge et A.S. vander Woude (NTS 12, 1965-66) ou G. Martinez et E.J.C. Tigchelaar (_Manuscrits de la Mer Morte_, 2008) » :
 
-(Et concernant)**sa parole** ([Lév 25:13](/fr/Bible/Leviticus/25#v13)) :
+(Et concernant)**sa parole** ([Lév 25:13](/fr/Bible/Leviticus/25#v13)) :
 —_**« En cette année de ju**_(_bilée tu rétabliras un homme dans son héritage »_):
 (Démêlé, c'est…?)
 (Et concernant sa parole ([Deut 15:2](/fr/Bible/Deuteronomy/15#v2))) :
-—_**« Tout maître**_ \[_ba’al_\] (_relâchera_)_**sa main concernant sa réclamation**_ (_sur son prochain ; il ne l’exigera pas de son prochain et de son frère, car il a déclaré la_) _**relâchement pour D(ieu.**__« )_
+—_**« Tout maître**_ \[_ba’al_\] (_relâchera_)_**sa main concernant sa réclamation**_ (_sur son prochain ; il ne l’exigera pas de son prochain et de son frère, car il a déclaré la_) _**relâchement pour D(ieu.**__« )_
 (Démêlé, c'est pour la fin)** des jours**.
 (Il s'agit) **des captifs que** (?…Bélial) **ont liés**
 (?…?) **et de l’héritage de Melchisédek pour**(r…)
@@ -262,15 +277,15 @@ La traduction ci-dessous du Manuscrit de la Mer Morte 11Q13 vient de [virtualrel
 dans lequel expier pour tous les fils** (de lumière)(et les) **hommes du** (l)**ot de Mel**(chi)**zedek
 (**?…?) **sur** (th)**em** (?…?) **parce que c'est la fin** \[_qe<sup>t</sup>z_\]**\*\***
 **à l’année de grâce de Melchisès**(dek…?)
-(?…?) **et les saints de Dieu au royaume du jugement ;
+(?…?) **et les saints de Dieu au royaume du jugement ;
 comme il est écrit de lui dans les Cantiques de David, qui dit** ([Ps 82:1](/fr/Bible/Psalms/82#v1)) :
 **–“**_**Dieu**_ \[_Elohim_\] (_se tient_)_** dans le conseil**_(_cil de Dieu_ \[_El_\]);
 _**au milieu des dieux**_ \[_elohim_\] _**il juge.**_**”
 Et** (David) **dit de lui** ([Ps 7:7f](/fr/Bible/Psalms/7#v7)) :
-— _**« Retournez à la hauteur**_ (_a_)_**au-dessus d'eux.
+— _**« Retournez à la hauteur**_ (_a_)_**au-dessus d'eux.
 Dieu**_ \[_El_\]**\*\*\*** _**jugera les peuples.
 **_**Et comme il dit**(ys; [Ps 82:2](/fr/Bible/Psalms/82#v2)):
-—_**« **_(_Jusqu’à quand jugerez-vous faussement**__**et relèverez-vous le visage de la mèche**_(_ed ? Se_)_**lah**_**. »
+—_**« **_(_Jusqu’à quand jugerez-vous faussement**__**et relèverez-vous le visage de la mèche**_(_ed ? Se_)_**lah**_**. »
 Démêlé** \[_pishru_\]**, il s'agit de Bélial et de son lot d'esprits,
 qui** (?…?). **Et Melchisédek exigera**
 **la ven**(ge)**ance des jugements de Dieu ;
@@ -279,13 +294,13 @@ qui** (?…?). **Et Melchisédek exigera**
 **Il** (?…al)**l les fils de Mi**(gh)**t et le** (?…?) **ceci.
 C'est le jour de** (destruction).
 (Et ce) qui est écrit** (pour la fin des jours par Isaï)**ah le prophète,
-qui disent**(s) ([Isa 52:7](/fr/Bible/Isaiah/52#v7)) :
+qui disent**(s) ([Isa 52:7](/fr/Bible/Isaiah/52#v7)) :
 —_**“**_(_Comme_) _**beau sur les montagnes
 sont les pieds de celui qui porte de bons n**_(_ews_),
 (_celui qui_) _**proclame la paix, qui est**_(_ars bonne nouvelle du bien_),
 (_celui qui proclame le salut_)_**tion,
 qui dit à Sion : Ton Dieu**_ (_est roi_ \[_melek_\])**\*\*\*\*****”
-Ceci est démêlé :
+Ceci est démêlé :
 —**_**“la montagne**_(_s_“): ce sont…?) **pour tous** (?…?).
 —_**« celui qui apporte la bonne nouvelle »**_** : h**(e) est celui an)**oint par l’Esprit**(it) ;
 **de lui Dan**(iel) **dit** ([Dan 9:25](/fr/Bible/Daniel/9#v25)): (_« Jusqu’à ce qu’un prince soit oint, il y a sept semaines. »_)**
@@ -301,12 +316,12 @@ comme il est écrit de lui** ([Isa 52:7](/fr/Bible/Isaiah/52#v7)) :
 **(_« Zi_)_**on »**_**: c**(est…?)
 (?…ceux) **qui établissent l’alliance,
 ceux qui se sont détournés de la marche** (dans la voie)** des peuples.
-**_**« Ton Dieu »**_** : c'est** (?… de) **Bélial.
+**_**« Ton Dieu »**_** : c'est** (?… de) **Bélial.
 Et où il dit** ([Lév 25:9](/fr/Bible/Leviticus/25#v9))** :
 —**_**« Tu feras sonner la trompette**_(_et_ dans_) _**tout**_ (_le_ pays)**_nd… »_**
 
-\* _deror_ : ou « pardon ».
-\*\* _qe<sup>t</sup>z_ : ou « temps ». Le mot hébreu a les mêmes connotations que « terme » en anglais.
+\* _deror_ : ou « pardon ».
+\*\* _qe<sup>t</sup>z_ : ou « temps ». Le mot hébreu a les mêmes connotations que « terme » en anglais.
 \*\*\* _El_ : ms. varie du texte massorétique, qui contient ici : YHWH (« Seigneur »).
 \*\*\*\* lit : _« Melek_ est ton Dieu. » Bien que ce verset soit clairement la source de l’identification de l’auteur de Melchisédek avec des passages des Psaumes faisant référence à « Dieu », il n’est pas clair s’il l’a lu comme une proclamation que Dieu est roi ou que Melchisédek est divin.
 \*\*\*\*\* [Isa 61:2](/fr/Bible/Isaiah/61#v2): _**com**_(f_ort all who complain_) est la reconstruction provisoire de ce traducteur, rendue probable par le fait que l’auteur vient d’identifier le héraut d’Isa 52:7 comme étant « oint par l’Esprit », une caractéristique non mentionnée dans ce passage mais invoquée dans Isa 61:1.
@@ -376,9 +391,24 @@ Aussi intrigantes que puissent être ces questions, elles ne sont peut-être pas
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/ubthenews/topics/melchizedek-and-the-dead-sea-scrolls-report/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/ubthenews/topics/melchizedek-and-the-dead-sea-scrolls-report/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

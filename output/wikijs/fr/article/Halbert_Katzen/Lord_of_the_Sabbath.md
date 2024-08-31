@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -112,7 +127,7 @@ Le mot « Shabbat » dérive du verbe hébreu _shavat_ ([hébreu](https://en.wik
 
 Vous trouverez ci-dessous quelques extraits choisis :
 
-\[Note : Selon _Le Livre d'Urantia_, le 4000e anniversaire de l'arrivée de Machiventa Melchizédek est 2021 ! Voir : [Prophétie et « signes des temps »/Histoire de cette étude thématique](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/#history).\]
+\[Note : Selon _Le Livre d'Urantia_, le 4000e anniversaire de l'arrivée de Machiventa Melchizédek est 2021 ! Voir : [Prophétie et « signes des temps »/Histoire de cette étude thématique](/fr/article/Halbert_Katzen/Prophecy_and_signs_of_the_times).\]
 
 **Sabbat millénaire**
 
@@ -124,13 +139,13 @@ Depuis [Hippolyte de Rome](https://en.wikipedia.org/wiki/Hippolytus_of_Rome) au 
 
 _Article principal : [Grands sabbats](https://en.wikipedia.org/wiki/High_Sabbaths)_
 
-Les « grands sabbats » sont observés par les Juifs et certains chrétiens. Sept fêtes bibliques annuelles, appelées _miqra_ (« appelée assemblée ») en hébreu et « grand sabbat » en français et servant de témoignages supplémentaires au sabbat, sont spécifiées dans les livres de [l’Exode](https://en.wikipedia.org/wiki/Book_of_Exodus) et [du Deutéronome](https://en.wikipedia.org/wiki/Deuteronomy) ; elles ne tombent pas nécessairement le jour du sabbat hebdomadaire. Trois surviennent au printemps : le premier et le septième jour de [Pessah](https://en.wikipedia.org/wiki/Pesach) ([Pâque](https://en.wikipedia.org/wiki/Passover_(Christian_holiday))), et [Shavouot](https://en.wikipedia.org/wiki/Shavuot) ([Pentecôte](https://en.wikipedia.org/wiki/Pentecost)).). Quatre surviennent en automne, au septième mois, et sont aussi appelés _Shabbaton_ : [Rosh Hashanah](https://en.wikipedia.org/wiki/Rosh_Hashanah) ([Trompettes](https://en.wikipedia.org/wiki/Feast_of_Trumpets_(Christian_holiday))); [Yom Kippour](https://en.wikipedia.org/wiki/Yom_Kippur), « Sabbat des Sabbats » ([Expiation](https://en.wikipedia.org/wiki/Christian_observances_of_Yom_Kippur)); et le premier et le huitième jour de [Sukkoth](https://en.wikipedia.org/wiki/Sukkoth) ([Tabernacles](https://en.wikipedia.org/wiki/Christian_observances_of_Jewish_holidays#Feast_of_Tabernacles)).). « Grands Sabbats » est aussi souvent synonyme de « [Grands Jours Saints](https://en.wikipedia.org/wiki/High_Holy_Days) », à savoir, Roch Hachana et Yom Kippour.
+Les « grands sabbats » sont observés par les Juifs et certains chrétiens. Sept fêtes bibliques annuelles, appelées _miqra_ (« appelée assemblée ») en hébreu et « grand sabbat » en français et servant de témoignages supplémentaires au sabbat, sont spécifiées dans les livres de [l’Exode](https://en.wikipedia.org/wiki/Book_of_Exodus) et [du Deutéronome](https://en.wikipedia.org/wiki/Deuteronomy) ; elles ne tombent pas nécessairement le jour du sabbat hebdomadaire. Trois surviennent au printemps : le premier et le septième jour de [Pessah](https://en.wikipedia.org/wiki/Pesach) ([Pâque](https://en.wikipedia.org/wiki/Passover_(Christian_holiday))), et [Shavouot](https://en.wikipedia.org/wiki/Shavuot) ([Pentecôte](https://en.wikipedia.org/wiki/Pentecost)).). Quatre surviennent en automne, au septième mois, et sont aussi appelés _Shabbaton_ : [Rosh Hashanah](https://en.wikipedia.org/wiki/Rosh_Hashanah) ([Trompettes](https://en.wikipedia.org/wiki/Feast_of_Trumpets_(Christian_holiday))); [Yom Kippour](https://en.wikipedia.org/wiki/Yom_Kippur), « Sabbat des Sabbats » ([Expiation](https://en.wikipedia.org/wiki/Christian_observances_of_Yom_Kippur)); et le premier et le huitième jour de [Sukkoth](https://en.wikipedia.org/wiki/Sukkoth) ([Tabernacles](https://en.wikipedia.org/wiki/Christian_observances_of_Jewish_holidays#Feast_of_Tabernacles)). « Grands Sabbats » est aussi souvent synonyme de « [Grands Jours Saints](https://en.wikipedia.org/wiki/High_Holy_Days) », à savoir, Roch Hachana et Yom Kippour.
 
 **Shmita (Sabbat)**
 
 _Informations complémentaires : [Shmita](https://en.wikipedia.org/wiki/Shmita)_
 
-_Shmita_ ([hébreu](https://en.wikipedia.org/wiki/Hebrew_language): שמטה, Strong’s 8059 as _sh<sup>e</sup>mittah_, littéralement « libération »), également appelée année sabbatique, est la septième année (שביעי, Strong’s 7637 as _sh<sup>e</sup>biy’iy_) du cycle agricole de sept ans prescrit par la [Torah](https://en.wikipedia.org/wiki/Torah) pour la [Terre d’Israël](https://en.wikipedia.org/wiki/Land_of_Israel), relativement peu observée dans la tradition biblique, mais toujours observée dans le [judaïsme] contemporain(https://en.wikipedia.org/wiki/Judaism). Pendant la _Shmita_, la terre est laissée en [jachère](https://en.wikipedia.org/wiki/Fallow) et toute activité agricole, y compris le labourage, la plantation, la taille et la récolte, est interdite par la Torah et la [loi juive](https://en.wikipedia.org/wiki/Halakha). Par tradition, d’autres techniques de culture (telles que l’arrosage, la fertilisation, le désherbage, Les coupes, les épandages, les coupes et les fauches ne peuvent être pratiquées qu'à titre préventif, et non pour améliorer la croissance des arbres ou des plantes. De plus, les fruits qui poussent d'eux-mêmes au cours de l'année sont considérés comme _hefker_ (sans propriétaire), non pour le propriétaire mais pour le pauvre, l'étranger et les bêtes des champs ; ces fruits peuvent être cueillis par n'importe qui. Diverses lois s'appliquent également à la vente, à la consommation et à l'élimination des produits de _Shmita_. À la fin de l'année, toutes les dettes, à l'exception de celles des étrangers, devaient être remises ([Deutéronome 15:1–11](/fr/Bible/Deuteronomy/15#v1)); de la même manière, la Torah exige qu'un esclave qui a travaillé pendant six ans soit libéré la septième année. [Lévitique](https://en.wikipedia.org/wiki/Leviticus) 25 promet des récoltes abondantes à ceux qui observent _Shmita_, et décrit son observance comme un test de foi religieuse. Le terme _Shmita_ est traduit par « libérer » cinq fois dans le [Livre du Deutéronome](https://en.wikipedia.org/wiki/Book_of_Deuteronomy) (de la racine שמט, _shamat_, « _s'abstenir_, _remettre_ », 8058).
+_Shmita_ ([hébreu](https://en.wikipedia.org/wiki/Hebrew_language): שמטה, Strong’s 8059 as _sh<sup>e</sup>mittah_, littéralement « libération »), également appelée année sabbatique, est la septième année (שביעי, Strong’s 7637 as _sh<sup>e</sup>biy’iy_) du cycle agricole de sept ans prescrit par la [Torah](https://en.wikipedia.org/wiki/Torah) pour la [Terre d’Israël](https://en.wikipedia.org/wiki/Land_of_Israel), relativement peu observée dans la tradition biblique, mais toujours observée dans le [judaïsme] contemporain(https://en.wikipedia.org/wiki/Judaism). Pendant la _Shmita_, la terre est laissée en [jachère](https://en.wikipedia.org/wiki/Fallow) et toute activité agricole, y compris le labourage, la plantation, la taille et la récolte, est interdite par la Torah et la [loi juive](https://en.wikipedia.org/wiki/Halakha). Par tradition, d’autres techniques de culture (telles que l’arrosage, la fertilisation, le désherbage, Les coupes, les épandages, les coupes et les fauches) ne peuvent être pratiquées qu'à titre préventif, et non pour améliorer la croissance des arbres ou des plantes. De plus, les fruits qui poussent d'eux-mêmes au cours de l'année sont considérés comme _hefker_ (sans propriétaire), non pour le propriétaire mais pour le pauvre, l'étranger et les bêtes des champs ; ces fruits peuvent être cueillis par n'importe qui. Diverses lois s'appliquent également à la vente, à la consommation et à l'élimination des produits de _Shmita_. À la fin de l'année, toutes les dettes, à l'exception de celles des étrangers, devaient être remises ([Deutéronome 15:1–11](/fr/Bible/Deuteronomy/15#v1)); de la même manière, la Torah exige qu'un esclave qui a travaillé pendant six ans soit libéré la septième année. [Lévitique](https://en.wikipedia.org/wiki/Leviticus) 25 promet des récoltes abondantes à ceux qui observent _Shmita_, et décrit son observance comme un test de foi religieuse. Le terme _Shmita_ est traduit par « libérer » cinq fois dans le [Livre du Deutéronome](https://en.wikipedia.org/wiki/Book_of_Deuteronomy) (de la racine שמט, _shamat_, « _s'abstenir_, _remettre_ », 8058).
 
 **Sabbat spirituel**
 
@@ -144,9 +159,24 @@ FrançaisEn comptant à partir de la [nouvelle lune](https://en.wikipedia.org/wi
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/lord-of-the-sabbath/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/lord-of-the-sabbath/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,14 +9,29 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
 > Ici, sur le Paradis périphérique, se trouvent les énormes aires d’expositions historiques et prophétiques affectées aux Fils Créateurs qui sont dédiées aux univers locaux du temps et de l’espace. Il y a exactement sept billions de ces emplacements historiques installés ou en réserve, mais l’ensemble de ces dispositifs réunis n’occupe guère que quatre pour cent de la portion de l’aire périphérique qui leur est affectée. Nous en inférons que ces vastes réserves appartiennent à des créations qui trouveront ultérieurement leur place au-delà des frontières des sept superunivers actuellement connus et habités. ([LU 11:4.3](/fr/The_Urantia_Book/11#p4_3))
 
-> _5. *Les artistes prophétiques —* ceux qui projettent les significations de l’histoire dans l’avenir._ ([LU 44:2.7](/fr/The_Urantia_Book/44#p2_7))
+> 5. *Les artistes prophétiques —* ceux qui projettent les significations de l’histoire dans l’avenir. ([LU 44:2.7](/fr/The_Urantia_Book/44#p2_7))
 
-> _3. *La joie prophétique.* Il sera peut-être difficile aux mortels d’envisager cette phase de l’humour, mais nous tirons une satisfaction particulière de l’assurance que « toutes choses travaillent ensemble pour le bien » — pour les êtres spirituels et morontiels aussi bien que pour les mortels. Cet aspect de l’humour céleste nait de notre foi dans le ministère affectueux de nos supérieurs et la divine stabilité de nos Directeurs Suprêmes._ ([LU 48:4.7](/fr/The_Urantia_Book/48#p4_7))
+> 3. *La joie prophétique.* Il sera peut-être difficile aux mortels d’envisager cette phase de l’humour, mais nous tirons une satisfaction particulière de l’assurance que « toutes choses travaillent ensemble pour le bien » — pour les êtres spirituels et morontiels aussi bien que pour les mortels. Cet aspect de l’humour céleste nait de notre foi dans le ministère affectueux de nos supérieurs et la divine stabilité de nos Directeurs Suprêmes. ([LU 48:4.7](/fr/The_Urantia_Book/48#p4_7))
 
 > Ce n’était pas simplement par curiosité que les anciens cherchaient à connaitre l’avenir ; ils voulaient esquiver la malchance. La divination était simplement une tentative pour éviter les difficultés. À ces époques, on considérait les rêves comme prophétiques, et tout ce qui sortait de l’ordinaire, comme un présage. Aujourd’hui encore, la croyance aux signes, aux gages et aux autres superstitions résiduaires de l’antique culte des fantômes est un fléau pour l’humanité. Les hommes sont lents, bien lents, à abandonner les méthodes par lesquelles ils ont si graduellement et péniblement gravi l’échelle évolutionnaire de la vie. ([LU 87:5.14](/fr/The_Urantia_Book/87#p5_14))
 
@@ -41,9 +56,24 @@ _Par Halbert Katzen J.D._
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/prophetic/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/prophetic/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

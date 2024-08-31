@@ -371,9 +371,9 @@ Y finalmente, algunos pasajes más sobre Daniel de El libro de Urantia:
 
 ## Enlaces externos
 
-* [Este informe en la página web de LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/new-heaven-and-new-earth/)
-* [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Este informe en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/new-heaven-and-new-earth/)
+* [Otros informes en la página web de UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios temáticos en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

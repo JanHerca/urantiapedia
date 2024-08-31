@@ -351,13 +351,15 @@ _tone (n.):_ mid-14c., “musical sound or note,” from Old French _ton_ “mus
 
 _on (prep., adv.):_ “in a position above and in contact with; in such a position as to be supported by;” also noting the goal to which some action is or has been directed; “about, concerning, regarding; in a position to cover;” as an adverb, “in or into a position in contact with and supported by the top or upper part of something; in or into place; in place for use or action; into movement or action; in operation,” Old English _on_, unstressed variant of _an_ “in, on, into,” from Proto-Germanic _ana_ “on” (source also of Dutch _aan_, German _an_, Gothic _ana_ “on, upon”), from PIE root _an-_ “on” (source also of Avestan _ana_ “on,” Greek _ana_ “on, upon,” Latin _an-_, Old Church Slavonic _na_, Lithuanian _nuo_“down from”).
 
-**Malavatia**: Malavatia Melchizadek appears just once in _The Urantia Book_, as the “sponsor” of Paper 43: The Constellations.
+### Malavatia
+
+Malavatia Melchizadek appears just once in _The Urantia Book_, as the “sponsor” of Paper 43: The Constellations.
 [UB 43:9.6](/en/The_Urantia_Book/43#p9_6)  \[Sponsored by Malavatia Melchizedek.\]
 The one who (M) acts as a messenger in Urantia’s Judeo-Christian revelatory lineage (Mala) and who, acting as a sooth-sayer, is a particularly poetic (vat) individual (ia).
 
-Mala = Malachi: masc. proper name, O.T. name of the \*\*last in order\*\* of the Twelve Prophets, from Heb. Mal’akhi, lit. “my messenger,” from mal’akh “messenger,” from Semitic base l-‘-k (cf. Arabic la’aka “he sent”).
+_Mala_ = Malachi: masc. proper name, O.T. name of the \*\*last in order\*\* of the Twelve Prophets, from Heb. Mal’akhi, lit. “my messenger,” from mal’akh “messenger,” from Semitic base l-‘-k (cf. Arabic la’aka “he sent”).
 
-vat = Vates: 1620s, “poet or bard,” specifically “Celtic divinely inspired poet” (1728), from L. vates “sooth-sayer, prophet, seer,” cognate with O.Ir. faith “poet,” Welsh gwawd “poem,” O.E. wod “mad, frenzied” (see wood (adj.)). Hence vaticination “oracular prediction” (c.1600).
+_vat_ = Vates: 1620s, “poet or bard,” specifically “Celtic divinely inspired poet” (1728), from L. vates “sooth-sayer, prophet, seer,” cognate with O.Ir. faith “poet,” Welsh gwawd “poem,” O.E. wod “mad, frenzied” (see wood (adj.)). Hence vaticination “oracular prediction” (c.1600).
 sooth = adj. meaning true or real and as a noun meaning truth or reality.
 
 The letter “T” symbolizes the cross.
@@ -479,8 +481,8 @@ Etymology by Chris Halvorson: “the northern (nor) law (la) place (-tia) with M
 
 ### Orvonton
 
-[UB 0:0.5](/en/The_Urantia_Book/0#p0_5)  Orvonton is one of the seven evolutionary superuniverses of time and space which circle the never-beginning, never-ending creation of divine perfection—the central universe of _Havona.
-_The place to (O) “arise and shine” (Or) with a victory in faith (v) that “overcomes the world” (on) and harmonizes with all those “who have ears to hear.” (ton).
+[UB 0:0.5](/en/The_Urantia_Book/0#p0_5)  Orvonton is one of the seven evolutionary superuniverses of time and space which circle the never-beginning, never-ending creation of divine perfection—the central universe of _Havona_.
+The place to (O) “arise and shine” (Or) with a victory in faith (v) that “overcomes the world” (on) and harmonizes with all those “who have ears to hear.” (ton).
 
 _orior:_ Latin: (present infinitive _orīrī_, perfect active _ortus sum_); third conjugation _iō-variant_, deponent
 1) I rise, get up.
@@ -808,8 +810,8 @@ _\-ing_: \[Old English _\-ung, -ing_\] (1) action, process (preying, wading); (2
 	- [**Satania**](#satania)
 	- [**Panoptia**](#panoptia)
 - Solar System astronomy
-	- [**Monmatia**](#)
-	- [**Urantia**](#)
+	- [**Monmatia**](#monmatia)
+	- [**Urantia**](#urantia)
 
 ### Celestial Types and Orders
 
@@ -871,7 +873,7 @@ _\-ing_: \[Old English _\-ung, -ing_\] (1) action, process (preying, wading); (2
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/etymology-of-coined-terminology)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

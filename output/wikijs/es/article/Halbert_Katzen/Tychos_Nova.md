@@ -52,7 +52,7 @@ El Libro de Urantia se adelantó a la ciencia más de una década cuando afirmó
 
 ## Informe Nova de Tycho
 
-La mayoría de los informes de LUtheNEWS implican corroboraciones de información encontrada en el tercio medio de El libro de Urantia, La historia de Urantia [Tierra], donde se relata la historia de nuestro planeta. Este informe, sin embargo, se relaciona con un comentario hecho anteriormente en el libro, que describe extensamente aspectos de nuestro «universo local», nuestra sección local de la galaxia. El capítulo 41, Aspectos físicos del universo local, hace los siguientes comentarios sobre los soles en la sección 3, Nuestros asociados estelares:
+La mayoría de los informes de UBtheNEWS implican corroboraciones de información encontrada en el tercio medio de El libro de Urantia, La historia de Urantia [Tierra], donde se relata la historia de nuestro planeta. Este informe, sin embargo, se relaciona con un comentario hecho anteriormente en el libro, que describe extensamente aspectos de nuestro «universo local», nuestra sección local de la galaxia. El capítulo 41, Aspectos físicos del universo local, hace los siguientes comentarios sobre los soles en la sección 3, Nuestros asociados estelares:
 
 > Cuando una rueda madre nebular expulsa soles demasiado grandes, éstos se rompen pronto o forman estrellas dobles. Todos los soles son al principio verdaderamente gaseosos, aunque más tarde pueden existir transitoriamente en estado semilíquido. Cuando vuestro Sol alcanzó este estado casi líquido de presión supergaseosa, no era lo suficientemente grande como para partirse por el ecuador, siendo éste un tipo de formación de las estrellas dobles.
 > 
@@ -214,9 +214,9 @@ Citas del libro de Urantia:
 
 ## Enlaces externos
 
-* [Este informe en la página web de LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/tychos-nova.pdf)
-* [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Este informe en la página web de UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/tychos-nova.pdf)
+* [Otros informes en la página web de UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios temáticos en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

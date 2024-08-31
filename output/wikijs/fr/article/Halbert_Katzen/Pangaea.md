@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2007 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Préparé par Halbert Katzen, J.D.
 [Mis à jour le 21/04/07]
@@ -93,7 +108,7 @@ Avant les années 1960, en dehors des États-Unis et de l'Europe, la théorie de
 
 La théorie de la dérive des continents est née avec l'avènement de la cartographie mondiale. En regardant une carte du globe, on ne peut s'empêcher de se demander si l'Amérique du Nord et l'Amérique du Sud s'accordaient autrefois avec l'Europe et l'Afrique. Mais il fallait répondre à la question de savoir comment les continents pouvaient s'éloigner l'un de l'autre. Au fur et à mesure que les données comparatives se développaient, la force de persuasion de ces nouvelles informations en faveur de la dérive des continents était de plus en plus éclipsée par l'absence d'une théorie sur la façon dont cela aurait pu se produire. L'histoire du débat est importante car elle met en perspective exactement la position initiale du Livre d'Urantia au cours de ces événements en cours. Bien que le Livre d'Urantia n'ait pas été publié avant 1955, les plaques d'impression terminées ont été transférées à la Fondation Urantia en 1950, et l'appel d'offres pour publier le livre a eu lieu en 1941. Answers.com présente le débat de cette façon :
 
-> Avant que les preuves géophysiques ne commencent à s'accumuler après la Seconde Guerre mondiale, l'idée de la dérive des continents a suscité de vifs désaccords parmi les géologues. Wegener avait présenté sa théorie en 1912 lors d'une réunion de l'Association géologique allemande. Son article a été publié cette année-là et développé dans un livre en 1915. En 1921, la Société géologique de Berlin a organisé un symposium sur la théorie. En 1922, le livre de Wegener a été traduit en anglais et a ensuite reçu un public plus large. En 1923, la théorie a été discutée lors de conférences organisées par la Société géologique de France, la Section géologique de l'Association britannique pour l'avancement des sciences et la Royal Geological Society. La théorie a été examinée avec soin mais de manière critique dans la revue Nature par Philip Lake. Le 15 novembre 1926, l'Association américaine des géologues pétroliers (AAPG) a organisé un symposium au cours duquel l'hypothèse de la dérive des continents a été vigoureusement débattue. Les articles qui en ont résulté ont été publiés en 1928 sous le titre Theory of continental drift. Wegener lui-même a contribué à ce volume par un article (Friedlander 1995 : 21-27).
+> Avant que les preuves géophysiques ne commencent à s'accumuler après la Seconde Guerre mondiale, l'idée de la dérive des continents a suscité de vifs désaccords parmi les géologues. Wegener avait présenté sa théorie en 1912 lors d'une réunion de l'Association géologique allemande. Son article a été publié cette année-là et développé dans un livre en 1915. En 1921, la Société géologique de Berlin a organisé un symposium sur la théorie. En 1922, le livre de Wegener a été traduit en anglais et a ensuite reçu un public plus large. En 1923, la théorie a été discutée lors de conférences organisées par la Société géologique de France, la Section géologique de l'Association britannique pour l'avancement des sciences et la Royal Geological Society. La théorie a été examinée avec soin mais de manière critique dans la revue Nature par Philip Lake. Le 15 novembre 1926, l'Association américaine des géologues pétroliers (AAPG) a organisé un symposium au cours duquel l'hypothèse de la dérive des continents a été vigoureusement débattue. Les articles qui en ont résulté ont été publiés en 1928 sous le titre Theory of continental drift. Wegener lui-même a contribué à ce volume par un article (Friedlander 1995 : 21-27).
 > 
 > L'un des principaux problèmes de la théorie de Wegener était qu'il croyait que les continents « labouraient » les roches des bassins océaniques. La plupart des géologues ne croyaient pas que cela soit possible. De plus, Wegener n'avait pas de théorie acceptable des forces qui provoquaient la dérive des continents.[^4]
 
@@ -171,7 +186,7 @@ Maintenant que nous sommes arrivés à la fin de l'histoire de l'acceptation de 
 
 L'article de Phil Calabrese, _La validation scientifique à venir du Livre d'Urantia_ (voir Hypothèse nulle) attribue un pourcentage à l'acceptation de la théorie de la dérive des continents pendant la période où le Livre d'Urantia était en cours de publication. Cela était nécessaire pour le but de cet article, à savoir estimer la probabilité qu'un être humain (ou un groupe d'êtres humains) ait raison sur les diverses questions du Livre d'Urantia qui étaient désapprouvées par les scientifiques au moment de la publication du livre. Évaluer l'exactitude de ce pourcentage n'est pas le but de ce rapport. Ce qui est important pour le but de ce rapport est simplement d'apprécier que l'acceptation éventuelle de la théorie de la dérive des continents et le développement ultérieur des théories de l'expansion des fonds marins et de la tectonique des plaques confèrent tous de la crédibilité au Livre d'Urantia.
 
-Le dernier point à aborder est l'affirmation du Livre d'Urantia selon laquelle une péninsule existait autrefois au large de la côte orientale de la Méditerranée. Ce sujet est traité plus en détail dans la section Jardin d'Eden d'LUtheNEWS. Cependant, comme il existe des chevauchements entre ce sujet et celui-ci, les aspects qui traitent spécifiquement de la tectonique des plaques sont également présentés ici.
+Le dernier point à aborder est l'affirmation du Livre d'Urantia selon laquelle une péninsule existait autrefois au large de la côte orientale de la Méditerranée. Ce sujet est traité plus en détail dans la section Jardin d'Eden d'UBtheNEWS. Cependant, comme il existe des chevauchements entre ce sujet et celui-ci, les aspects qui traitent spécifiquement de la tectonique des plaques sont également présentés ici.
 
 _Le Livre d'Urantia_ décrit une péninsule qui s'avançait de la côte orientale de la Méditerranée. Il donne des détails spécifiques sur la forme, la taille et la topographie de cette péninsule. Il y a environ 33 000 ans, cette péninsule aurait coulé dans la Méditerranée. [Le rapport du Jardin d'Eden](/fr/article/Halbert_Katzen/Garden_of_Eden) aborde principalement le fait que nous n'avions pas de cartes bathymétriques détaillées du fond marin méditerranéen à l'époque où _Le Livre d'Urantia_ a été publié. Ce rapport couvre le développement de la cartographie bathymétrique avec les progrès de la technologie du sonar.
 
@@ -195,19 +210,19 @@ _Le Livre d'Urantia_ fournit la description suivante du Jardin d'Eden et de son 
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Pangaea/NG82.jpg">
-<figcaption>Figure 1 : National Geographic 1982</figcaption>
+<figcaption>Figure 1 : National Geographic 1982</figcaption>
 </figure>
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Pangaea/sonar.jpg">
-<figcaption>Figure 2 : relevés du sonar russe de 1989</figcaption>
+<figcaption>Figure 2 : relevés du sonar russe de 1989</figcaption>
 </figure>
 
 Plus directement liée à ce sujet est la carte tectonique des plaques présentée dans la [Figure 3](#Figure_3).
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Pangaea/tectonic_plates.jpg">
-<figcaption>Figure 3 : Plaques tectoniques</figcaption>
+<figcaption>Figure 3 : Plaques tectoniques</figcaption>
 </figure>
 
 La géophysique du bassin méditerranéen oriental est inhabituelle et active, tant actuellement qu'historiquement. Un article de 2005 dans Geophysics Journal International explique ces caractéristiques dans une certaine mesure, tout en reconnaissant qu'il reste encore beaucoup à apprendre.(10) Cette zone marque la convergence de trois plaques tectoniques. De plus, Chypre présente des caractéristiques indépendantes. Selon l'article, « McClusky et al. (2000) présentent dans leurs cartes deux arcs, l'un au nord et l'autre au sud de Chypre, suggérant que Chypre se comporte comme un bloc indépendant et se déplace indépendamment de la plaque anatolienne. »
@@ -220,9 +235,9 @@ Interpréter les détails de la façon dont cette zone aurait pu s'enfoncer dans
 
 ## Liens externes
 
-- [Ce rapport dans LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Pangaea.pdf)
-- [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-- [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+- [Ce rapport dans UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Pangaea.pdf)
+- [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+- [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 - _Jack Oliver, qui a prouvé la dérive des continents, décède à 87 ans_, The New York Times, par Kenneth Chang, 2011. ([Lien](https://www.nytimes.com/2011/01/12/science/earth/12oliver.html?_r=4&adxnnl=1&ref=science&adxnnlx=1294851704-aH9bArRuWC6WOqHwEm4ROQ))
 - http://www.sciencedaily.com/releases/2009/02/090211122136.htm
 - http://www.infoplease.com/ce6/sci/A0813370.html

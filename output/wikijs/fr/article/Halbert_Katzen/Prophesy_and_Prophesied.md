@@ -9,10 +9,25 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
-**Prophétiser (5), Prophétisé (1)**
+**Prophétiser (5), Prophétisé (1)**
 
 > « « Au grand jour du jugement du royaume, beaucoup me diront : ‘N’avons-nous pas prophétisé en ton nom et accompli, par ton nom, bien des œuvres merveilleuses ?’ Mais je serai obligé de leur dire : ‘Je ne vous ai jamais connus ; éloignez-vous de moi, vous, qui êtes de faux éducateurs.’ Mais quiconque entend ces instructions et exécute sincèrement sa mission de me représenter devant les hommes comme j’ai représenté mon Père devant vous, trouvera une large entrée à mon service et dans le royaume du Père qui est aux cieux. » » ([LU 140:3.20](/fr/The_Urantia_Book/140#p3_20))
 
@@ -27,9 +42,24 @@ _Par Halbert Katzen J.D._
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/prophesy-and-prophesied/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/prophesy-and-prophesied/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

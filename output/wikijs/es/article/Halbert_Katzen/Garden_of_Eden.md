@@ -165,7 +165,7 @@ Por ahora, al menos los avances en la tecnología de sonar nos permiten ver una 
 
 * [Este informe en el sitio web UBTheNews](http://ubannotated.com/ubthenews/topics/ubthenews-garden-of-eden-report/)
 * [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios Temáticos en el sitio UBTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Estudios Temáticos en el sitio UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 * *Atlas Ilustrado del Mundo de Life* (*Life Pictorial Atlas of the World*), Revista *Life* y Randy McNally, 1961.
 * Robert Sarmast,*Discovery of Atlantis*, *First Source Publications*, 2006.
 * Shimon Wdowinski, Zvi Ben-Avraham, Ronald Arvidsson, Goran Ekström, *Seismotectonics of the Cyprian Arc*, enero 2006, *Geophysical Journal International*, https://academic.oup.com/gji/article/164/1/176/2071574

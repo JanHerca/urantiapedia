@@ -508,7 +508,7 @@ Naturalmente, basándonos en la tendencia general hacia corroboraciones de infor
 
 * [Este informe en el sitio web UBTheNews](http://ubannotated.com/ubthenews/topics/adam_and_eve/)
 * [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios Temáticos en el sitio UBTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Estudios Temáticos en el sitio UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 ### Problemas políticos
 

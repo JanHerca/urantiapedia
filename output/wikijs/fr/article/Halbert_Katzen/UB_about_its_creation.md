@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -36,7 +51,7 @@ _Par Halbert Katzen J.D._
 
 > Seules deux influences peuvent modifier et élever les dogmes de la religion naturelle : la pression des mœurs en lent progrès et l’illumination périodique des révélations d’époque. Il n’est pas surprenant que le progrès ait été lent ; dans les temps anciens, si l’on était progressif ou inventif, on était mis à mort comme sorcier. Le culte évolue lentement par générations d’époques et par cycles millénaires, mais il progresse. La croyance évolutionnaire aux fantômes posa les fondements d’une philosophie de religion révélée qui détruira, en fin de compte, la superstition qui lui donna naissance. ([LU 92:3.5](/fr/The_Urantia_Book/92#p3_5))
 
-> _5. *Les Fascicules d’Urantia.* Ces exposés, dont le présent fascicule fait partie, constituent la plus récente présentation de la vérité aux mortels d’Urantia. Ils diffèrent de toutes les révélations antérieures, car ils ne sont pas l’œuvre d’une seule personnalité de l’univers, mais une présentation composite par de nombreux êtres. Toutefois, jamais aucune révélation ne peut être complète avant d’atteindre le Père Universel. Tous les autres ministères célestes ne sont que partiels, transitoires et pratiquement adaptés aux conditions locales dans le temps et l’espace. Il est possible qu’en admettant cela, on amoindrisse la force et l’autorité immédiates de toutes les révélations, mais l’heure est arrivée sur Urantia où il est opportun de faire ces franches déclarations, même au risque d’affaiblir l’influence et l’autorité du présent ouvrage qui représente la révélation la plus récente de la vérité aux races mortelles d’Urantia._ ([LU 92:4.9](/fr/The_Urantia_Book/92#p4_9))
+> 5. *Les Fascicules d’Urantia.* Ces exposés, dont le présent fascicule fait partie, constituent la plus récente présentation de la vérité aux mortels d’Urantia. Ils diffèrent de toutes les révélations antérieures, car ils ne sont pas l’œuvre d’une seule personnalité de l’univers, mais une présentation composite par de nombreux êtres. Toutefois, jamais aucune révélation ne peut être complète avant d’atteindre le Père Universel. Tous les autres ministères célestes ne sont que partiels, transitoires et pratiquement adaptés aux conditions locales dans le temps et l’espace. Il est possible qu’en admettant cela, on amoindrisse la force et l’autorité immédiates de toutes les révélations, mais l’heure est arrivée sur Urantia où il est opportun de faire ces franches déclarations, même au risque d’affaiblir l’influence et l’autorité du présent ouvrage qui représente la révélation la plus récente de la vérité aux races mortelles d’Urantia. ([LU 92:4.9](/fr/The_Urantia_Book/92#p4_9))
 
 > Il y a deux raisons fondamentales pour croire en un Dieu qui entretient la survie humaine :
 > 
@@ -72,7 +87,7 @@ _Par Halbert Katzen J.D._
 
 > On discuta beaucoup des doctrines prêchées par Jésus et qui bouleversaient les gens du peuple. Ses ennemis soutinrent que ses enseignements étaient impraticables, que tout se disloquerait si tout le monde faisait un effort honnête pour vivre conformément aux idées de Jésus. Bien des personnes des générations subséquentes ont dit la même chose. Même à l’époque plus éclairée des présentes révélations, beaucoup d’hommes intelligents et bien intentionnés soutiennent que la civilisation moderne n’aurait pas pu être bâtie sur les enseignements de Jésus — et ils ont partiellement raison. Mais, en exprimant ces doutes, ils oublient que l’on aurait pu bâtir une civilisation bien meilleure sur ces mêmes enseignements, et qu’un jour elle sera bâtie. Ce monde n’a jamais essayé de mettre sérieusement en pratique, sur une grande échelle, les leçons de Jésus, bien que des tentatives timides aient souvent été faites pour suivre les doctrines de ce qu’on appelle le christianisme. ([LU 154:4.6](/fr/The_Urantia_Book/154#p4_6))
 
-> À l’époque du présent écrit, les pires moments de l’âge matérialiste sont passés ; l’aube d’une meilleure compréhension commence déjà à poindre. Ceux qui, dans le monde scientifique, disposent d’un mental supérieur, ont cessé d’avoir une philosophie entièrement matérialiste, mais le commun du peuple incline toujours dans cette direction par suite des enseignements antérieurs. Toutefois, cet âge de réalisme physique n’est qu’un épisode transitoire dans la vie de l’homme sur terre. La science moderne a laissé intacte la vraie religion : les enseignements de Jésus traduits dans la vie de ceux qui croient en lui. Tout l’accomplissement de la science a consisté à détruire les illusions enfantines des fausses interprétations de la vie. ([LU 195:6.4](/fr/The_Urantia_Book/195#p6_4))
+> À l’époque du présent écrit \[milieu des années 1930 ?\], les pires moments de l’âge matérialiste sont passés ; l’aube d’une meilleure compréhension commence déjà à poindre. Ceux qui, dans le monde scientifique, disposent d’un mental supérieur, ont cessé d’avoir une philosophie entièrement matérialiste, mais le commun du peuple incline toujours dans cette direction par suite des enseignements antérieurs. Toutefois, cet âge de réalisme physique n’est qu’un épisode transitoire dans la vie de l’homme sur terre. La science moderne a laissé intacte la vraie religion : les enseignements de Jésus traduits dans la vie de ceux qui croient en lui. Tout l’accomplissement de la science a consisté à détruire les illusions enfantines des fausses interprétations de la vie. ([LU 195:6.4](/fr/The_Urantia_Book/195#p6_4))
 
 > À l’époque de la présente révélation, le climat intellectuel et philosophique prévalant à la fois dans la vie européenne et la vie américaine est nettement laïque — humaniste. Au cours des trois derniers siècles, la pensée occidentale a été progressivement laïcisée. La religion est devenue de plus en plus une influence nominale, et largement un exercice rituel. En majorité, ceux qui s’avouent chrétiens dans la civilisation occidentale sont en fait, sans le savoir, des laïcs. ([LU 195:8.3](/fr/The_Urantia_Book/195#p8_3))
 
@@ -82,9 +97,24 @@ _Par Halbert Katzen J.D._
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/what-does-the-urantia-book-say-about-its-creation/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/what-does-the-urantia-book-say-about-its-creation/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -288,7 +288,7 @@ For a quick and valuable understanding of what _temple sleep_ means, see Wikiped
 
 For an excellent understanding of how this topic relates to the development Judeo-Christian culture, here is an [interview by professor and well-known author Jordan Peterson](https://bit.ly/3X2SQ0x). He starts with author Brain Muraresku—_The Immorality Key_. And then he brings in author and professor Carl Ruck—_The Road to Eleusis_.
 
-Some combination of hypnosis and entheogens seem to be involved as catalysts in this process—at least for some seers to some degree. The chemistry behind this seems related to the pineal gland, which relates to the pine cone and handbag often seen held-in-hand on stone carved images of ancient Egyptian and Sumerian Godheads. (For examples of handbags, see the [UBtheNEWS: Gobekli Tepe Report](/en/article/Halbert_Katzen/Gobekli_Tepe). For the pine cone, see the annotation at [UB 49:5.19](/en/The_Urantia_Book/49#p5_19) (_comparable to the pituitary bodies:_ Consider the pineal gland in relationship to this teaching and how it appears in ancient carvings in the hands of Godheads and many other artistic representations of religious and cultural significance. [link](https://ubannotated.com/ubthenews/urantiabook/papers/p049/#U49_5_18)).)
+Some combination of hypnosis and entheogens seem to be involved as catalysts in this process—at least for some seers to some degree. The chemistry behind this seems related to the pineal gland, which relates to the pine cone and handbag often seen held-in-hand on stone carved images of ancient Egyptian and Sumerian Godheads. (For examples of handbags, see the [UBtheNEWS: Gobekli Tepe Report](/en/article/Halbert_Katzen/Gobekli_Tepe). For the pine cone, see the annotation at [UB 49:5.19](/en/The_Urantia_Book/49#p5_19) (_comparable to the pituitary bodies:_ Consider the pineal gland in relationship to this teaching and how it appears in ancient carvings in the hands of Godheads and many other artistic representations of religious and cultural significance. [link](/en/The_Urantia_Book/49#p5_18)).)
 
 Traditions related to the use of psychoactive substances are widespread and go back to ancient times. Sometimes complex processes are required to create the effect. Perhaps we should speculate more about the degree to which this type of activity has been used during ancient times and how they can be used beneficially today. For instance, [promising studies](https://en.wikipedia.org/wiki/Psilocybin_therapy) are being conducted with psilocybin mushrooms involving a range of conditions, including terminally ill cancer patients.
 
@@ -467,7 +467,7 @@ From [Wiki](https://en.wikipedia.org/wiki/Instruction_of_Amenemope):
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/saints-prophets-seers-and-heralds/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

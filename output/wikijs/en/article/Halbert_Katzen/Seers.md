@@ -164,7 +164,7 @@ Of note is a 1933 publication by James Henry Breasted titled _The Dawn of Consci
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/seers/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

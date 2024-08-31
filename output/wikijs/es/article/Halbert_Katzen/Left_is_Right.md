@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet tema--gris claro aclarar-3 px-2">© 2022 Halbert Katzen, JD</p>
 
-Este artículo, publicado el 6 de agosto de 2022, es un complemento al [LUtheNEWS: Informe sobre el Sudario de Turín](/es/article/Halbert_Katzen/Shroud_of_Turin). Piénselo como un punto de partida para una conversación, un marcador de posición. Me llevó a una maravillosa conversación con Barrie Schwortz, el fotógrafo de STURP, que me indicó la dirección de una investigación adicional, por supuesto. Esto ya había dado lugar a algunas nuevas preguntas y nuevas imágenes (representaciones artísticas) de hace quinientos años.
+Este artículo, publicado el 6 de agosto de 2022, es un complemento al [UBtheNEWS: Informe sobre el Sudario de Turín](/es/article/Halbert_Katzen/Shroud_of_Turin). Piénselo como un punto de partida para una conversación, un marcador de posición. Me llevó a una maravillosa conversación con Barrie Schwortz, el fotógrafo de STURP, que me indicó la dirección de una investigación adicional, por supuesto. Esto ya había dado lugar a algunas nuevas preguntas y nuevas imágenes (representaciones artísticas) de hace quinientos años.
 
 Por ejemplo, desde una perspectiva teísta, considere que los primeros eventos sociales que involucraron la exhibición del Santo Sudario ocurrieron con personas que no sabían nada sobre negativos fotográficos. El fenómeno de la «imagen con luz invertida» no era parte de su mundo. ¿Dios confundió a sus hijos con una imagen científicamente inexplicable y al revés o los hijos de Dios se confundieron a sí mismos, una vez que aprendieron sobre negativos fotográficos y luego aplicaron una perspectiva antropomórfica a la evidencia? Esa es la pregunta.
 
@@ -133,9 +133,9 @@ Además de abrir las mentes cristianas a la consideración de un espectro más a
 
 ## Enlaces externos
 
-* [Este informe en la página web de LUTheNews](https://ubannotated.com/ubthenews/topics/shroudturin/left-is-right/)
-* [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Este informe en la página web de UBTheNews](https://ubannotated.com/ubthenews/topics/shroudturin/left-is-right/)
+* [Otros informes en la página web de UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios temáticos en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

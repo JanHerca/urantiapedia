@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -42,7 +57,7 @@ Notez également que l'intersection exacte des éclipses se trouve sur Salem Roa
 
 De l'Ancien Testament nous avons :
 
-[**Genèse 14 :**](/fr/Bible/Genesis/14)
+[**Genèse 14 :**](/fr/Bible/Genesis/14)
 
 > <sup><small>17</small></sup> Après qu’Abram fut revenu de sa défaite contre Kedorlaomer et les rois qui s’étaient alliés à lui, le roi de Sodome sortit à sa rencontre dans la vallée de Shaveh (c’est-à-dire la vallée du roi).
 > 
@@ -58,7 +73,7 @@ De l'Ancien Testament nous avons :
 
 [**Psaume 76:**](/fr/Bible/Psalms/76)
 
-> <sup><small>1</small></sup> En Juda, Dieu est connu :
+> <sup><small>1</small></sup> En Juda, Dieu est connu :
 > Son nom est grand en Israël.
 > 
 > <sup><small>2</small></sup> A Salem se trouve aussi son tabernacle,
@@ -77,9 +92,9 @@ L'éclipse solaire à venir passera au-dessus de six villes de Ninive, situées 
 <img src="/image/article/Halbert_Katzen/Eclipses_over_Salem_and_Nineveh/Nineveh-672x450.jpg">
 </figure>
 
-Notez également : [ArkEncounter.com](https://arkencounter.com/) à Williamstown, KY se trouve au bord de l’intersection des éclipses.
+Notez également : [ArkEncounter.com](https://arkencounter.com/) à Williamstown, KY se trouve au bord de l’intersection des éclipses.
 
-Ninive est mentionnée une fois dans _Le Livre d'Urantia_ :
+Ninive est mentionnée une fois dans _Le Livre d'Urantia_ :
 
 > Jésus se rendit ensuite à Abila, où travaillaient Nathanael et ses associés. Nathanael était très ennuyé par certaines déclarations de Jésus qui paraissaient porter atteinte à l’autorité des Écritures hébraïques reconnues. En conséquence, ce soir-là, après la séance habituelle de questions et de réponses, Nathanael emmena Jésus à l’écart et lui demanda : « Maitre, as-tu suffisamment confiance en moi pour me faire connaitre la vérité sur les Écritures ? J’observe que tu nous enseignes seulement une partie des écrits sacrés — la meilleure d’après moi — et j’en infère que tu rejettes la doctrine des rabbins enseignant que les paroles de la loi sont les paroles mêmes de Dieu, et qu’elles étaient avec Dieu au ciel, même avant l’époque d’Abraham et de Moïse. Quelle est la vérité au sujet des Écritures ? » Lorsque Jésus entendit cette question de son apôtre déconcerté, il répondit : ([LU 159:4.1](/fr/The_Urantia_Book/159#p4_1))
 
@@ -173,7 +188,7 @@ Certaines des prophéties de l'Ancien et du Nouveau Testament souvent citées pa
 
 Le jour qui a suivi l'éclipse du 8 avril est également remarquable en raison de son lien avec le calendrier juif. Extrait de [Chabad.org](https://www.chabad.org/calendar/view/day.asp?tdate=4/09/2024) :
 
-> Mardi 9 avril 2024 ; 1 Nissan, 5784 \[qui commence la veille du 8 avril<sup>\] :
+> Mardi 9 avril 2024 ; 1 Nissan, 5784 \[qui commence la veille du 8 avril<sup>\] :
 > 
 > **Inauguration du calendrier juif (1313 av. J.-C.)**
 > 
@@ -201,9 +216,24 @@ Est-il temps de remplacer l'équipe ? Lucifer et Satan n'auraient pas pu exercer
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/eclipses-over-salem-and-nineveh/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/eclipses-over-salem-and-nineveh/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

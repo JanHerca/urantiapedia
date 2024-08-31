@@ -118,7 +118,7 @@ https://www.youtube.com/watch?v=4dwjS_eI-lQ
 
 - [This report in UBTheNews](https://ubannotated.com/ubthenews/topics/Dog_Domestication/)
 - [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-- [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+- [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 - http://news.discovery.com/animals/dog-domestication-prehistoric-ice-age-110728.html 33K
 - http://en.wikipedia.org/wiki/Origin_of_the_domestic_dog
 - http://archaeology.about.com/od/dterms/a/domestication.htm chart for various animals

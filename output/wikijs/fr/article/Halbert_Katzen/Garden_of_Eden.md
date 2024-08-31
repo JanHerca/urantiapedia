@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._[^1]
 
@@ -148,9 +163,9 @@ Pour l'instant, au moins les progrès de la technologie du sonar nous permettent
 
 ## Liens externes
 
-* [Ce rapport sur le site Web LUTheNews](http://ubannotated.com/ubthenews/topics/ubthenews-garden-of-eden-report/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur le site Web UBTheNews](http://ubannotated.com/ubthenews/topics/ubthenews-garden-of-eden-report/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 * *Atlas illustré de la vie du monde*, magazine *Life* Randy McNally, 1961.
 * Robert Sarmast, *Découverte de l'Atlantide*, *First Source Publications*, 2006.
 * Shimon Wdowinski, Zvi Ben-Avraham, Ronald Arvidsson, Goran Ekström, *Seismotectonics of the Cyprian Arc*, janvier 2006, *Geophysical Journal International*, https://academic.oup.com/gji/article/164/1/176/2071574
@@ -182,7 +197,7 @@ Pour l'instant, au moins les progrès de la technologie du sonar nous permettent
 
 [^9]: [LU 73:5.1](/fr/The_Urantia_Book/73#p5_1)
 
-[^10]: Les recherches de Robert Sarmast, publiées dans Discovery of Atlantis, l'ont amené à conclure qu'il existe un lien entre la mythologie de l'Atlantide et les récits religieux liés à Adam et Eve. Il pense que l'histoire de l'Atlantide s'est développée parce qu'une nouvelle tribu de personnes est venue occuper la péninsule édénique architecturalement développée après qu'Adam, Eve et leur progéniture aient abandonné cette région. Au moment où la péninsule a coulé, environ 4 000 ans après le départ d'Adam et Eve, elle s'était dissociée de la civilisation qu'ils avaient fondée. Selon les recherches de Sarmast, le lien entre le jardin d'Eden et l'Atlantide est qu'ils avaient la même situation géographique, mais ont été associés à deux cultures différentes. Sarmast a tenté de trouver des vestiges de civilisation humaine à cet endroit entre Chypre et la Syrie. Vous pouvez en apprendre davantage sur son travail en allant sur http://discoveryofatlantis.com/. Un grand merci à lui pour avoir permis au projet LUtheNEWS d'utiliser les images qui ont été créées en relation avec son travail.
+[^10]: Les recherches de Robert Sarmast, publiées dans Discovery of Atlantis, l'ont amené à conclure qu'il existe un lien entre la mythologie de l'Atlantide et les récits religieux liés à Adam et Eve. Il pense que l'histoire de l'Atlantide s'est développée parce qu'une nouvelle tribu de personnes est venue occuper la péninsule édénique architecturalement développée après qu'Adam, Eve et leur progéniture aient abandonné cette région. Au moment où la péninsule a coulé, environ 4 000 ans après le départ d'Adam et Eve, elle s'était dissociée de la civilisation qu'ils avaient fondée. Selon les recherches de Sarmast, le lien entre le jardin d'Eden et l'Atlantide est qu'ils avaient la même situation géographique, mais ont été associés à deux cultures différentes. Sarmast a tenté de trouver des vestiges de civilisation humaine à cet endroit entre Chypre et la Syrie. Vous pouvez en apprendre davantage sur son travail en allant sur http://discoveryofatlantis.com/. Un grand merci à lui pour avoir permis au projet UBtheNEWS d'utiliser les images qui ont été créées en relation avec son travail.
 
 [^11]: Shimon Wdowinski, Zvi Ben-Avraham, Ronald Arvidsson, Goran Ekström, *Sismotectonique de l'arc cyprien*, janvier 2006, *Geophysical Journal International*, https://academic.oup.com/gji/article/164/1/176/2071574, [Article GJI], p. 179.
 

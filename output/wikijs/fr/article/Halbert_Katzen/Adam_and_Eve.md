@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -62,7 +77,7 @@ L'article révèle que le principal généticien impliqué dans la recherche sur
 
 Les auteurs du *Livre d'Urantia* affirment sans détour que 1) malgré l'importance primordiale de notre égalité spirituelle et des exigences morales qui vont avec, nous sommes physiologiquement et intellectuellement divers de manières qui sont raisonnablement catégorisées comme « supérieures » et « inférieures » et 2) dans une certaine mesure, ces différences sont liées à une introduction par Adam et Ève de la génétique supérieure. Cet aspect du *Livre d'Urantia*, aussi bien aligné avec la science qu'il puisse être, aborde des sujets sensibles d'une manière que certaines personnes considèrent comme « politiquement incorrecte ». Heureusement, *Le Livre d'Urantia* offre également des explications et des idées nouvelles et améliorées pour accompagner ce matériel controversé (et de plus en plus corroboré).
 
-Naturellement, ceux d’entre nous qui travaillent au développement du projet LUtheNEWS anticipent que des études génétiques supplémentaires seront à venir qui vérifieront davantage l’histoire du *Livre d’Urantia* sur Adam et Eve. Sans une compréhension globale de la position du *Livre d’Urantia* sur l’eugénisme et la race, il y a une forte probabilité que les déclarations qu’il fait soient sorties de leur contexte et mal interprétées. Cela, à son tour, décourage d’apprécier la qualité unique de crédibilité qui émerge avec *Le Livre d’Urantia*, en particulier en raison des avancées dans le domaine de la génétique. Dans un effort pour minimiser de tels malentendus, une revue complète des déclarations du *Livre d’Urantia* sur l’eugénisme et la race a été préparée. Voir : *Eugénisme, race et Le Livre d’Urantia*. Le *Rapport du Jardin d’Eden* et le *Rapport de Gobekli Tepe* documentent des preuves supplémentaires de l’histoire du *Livre d’Urantia* sur Adam et Eve.
+Naturellement, ceux d’entre nous qui travaillent au développement du projet UBtheNEWS anticipent que des études génétiques supplémentaires seront à venir qui vérifieront davantage l’histoire du *Livre d’Urantia* sur Adam et Eve. Sans une compréhension globale de la position du *Livre d’Urantia* sur l’eugénisme et la race, il y a une forte probabilité que les déclarations qu’il fait soient sorties de leur contexte et mal interprétées. Cela, à son tour, décourage d’apprécier la qualité unique de crédibilité qui émerge avec *Le Livre d’Urantia*, en particulier en raison des avancées dans le domaine de la génétique. Dans un effort pour minimiser de tels malentendus, une revue complète des déclarations du *Livre d’Urantia* sur l’eugénisme et la race a été préparée. Voir : *Eugénisme, race et Le Livre d’Urantia*. Le *Rapport du Jardin d’Eden* et le *Rapport de Gobekli Tepe* documentent des preuves supplémentaires de l’histoire du *Livre d’Urantia* sur Adam et Eve.
 
 ## Rapport complet
 
@@ -236,7 +251,7 @@ Bien que la présence de l’haplogroupe D de la Microcéphaline soit considéra
 <figcaption><em>Zone irriguée par le Nil et ses affluents</em></figcaption>
 </figure>
 
-Le commentaire selon lequel « à chaque nation où ils ont voyagé, ils ont apporté de l'humour, de l'art, de l'aventure, de la musique et de l'industrie » demande à être analysé et examiné de près. Cependant, la norme pour les reportages d'LUtheNEWS est de rester concentré sur les aspects les plus « scientifiques » des informations corroborantes dans *Le Livre d'Urantia*. Pour cette raison, les lecteurs sont laissés à leur propre évaluation de ce commentaire par les auteurs du *Livre d'Urantia*.
+Le commentaire selon lequel « à chaque nation où ils ont voyagé, ils ont apporté de l'humour, de l'art, de l'aventure, de la musique et de l'industrie » demande à être analysé et examiné de près. Cependant, la norme pour les reportages d'UBtheNEWS est de rester concentré sur les aspects les plus « scientifiques » des informations corroborantes dans *Le Livre d'Urantia*. Pour cette raison, les lecteurs sont laissés à leur propre évaluation de ce commentaire par les auteurs du *Livre d'Urantia*.
 
 
 ### Emplacement d'origine
@@ -491,9 +506,9 @@ Naturellement, en nous basant sur la tendance générale vers la corroboration d
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](http://ubannotated.com/ubthenews/topics/adam_and_eve/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](http://ubannotated.com/ubthenews/topics/adam_and_eve/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 ### Questions politiques
 

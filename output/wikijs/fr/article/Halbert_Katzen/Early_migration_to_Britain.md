@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._[^1]
 
@@ -56,7 +71,7 @@ En conclusion, les découvertes faites par le projet AHOB au cours des dix derni
 
 Ce rapport se concentre sur plusieurs déclarations faites dans *Le Livre d'Urantia* au sujet de l'occupation primitive de la Grande-Bretagne. Ces déclarations font partie d'un récit général de l'histoire de l'homme primitif. Lancé en 2001, le projet *Ancient Human Occupation of Britain* (« projet AHOB ») est une étude de dix ans qui rassemble « des spécialistes, plusieurs instituts et universités... pour enquêter sur la date de l'arrivée des premiers habitants en Grande-Bretagne et sur les facteurs qui ont conduit à leur survie ou à leur extinction locale. »[^6] En 2005, ce projet produisait déjà des résultats qui ont surpris la communauté scientifique et qui sont également remarquables pour leur soutien à ce que *Le Livre d'Urantia* a publié en 1955 au sujet de l'occupation primitive de la Grande-Bretagne.
 
-Le modèle général de préparation des rapports LUtheNEWS consiste à citer avec parcimonie *Le Livre d’Urantia*, en se concentrant étroitement sur les déclarations spécifiques corroborées par les progrès de la science et de l’érudition depuis sa publication. Ce rapport s’écarte quelque peu de cette approche. Étant donné que ce sujet est régulièrement approfondi grâce à de nouvelles découvertes et méthodologies scientifiques qui apportent des éclairages sur l’histoire humaine ancienne et que *Le Livre d’Urantia* fournit une sélection de déclarations spécifiques et de commentaires généraux relatifs aux nouvelles découvertes qui sont faites dans ce domaine, ce rapport fournira plusieurs pages de matériel du *Livre d’Urantia* afin de donner aux lecteurs une idée des détails et du compte rendu général qu’il fournit concernant cette longue période de l’histoire humaine qui couvre des centaines de milliers d’années. Étant donné la nature continue et le développement progressif du projet AHOB, il est raisonnable de s’attendre à ce que ce rapport doive bientôt être mis à jour avec des preuves supplémentaires de l’exactitude du *Livre d’Urantia* concernant l’occupation ancienne de la Grande-Bretagne par certains des premiers êtres humains. La sélection plus large de matériel offert dans ce rapport servira également de préfiguration des types de découvertes anticipées.
+Le modèle général de préparation des rapports UBtheNEWS consiste à citer avec parcimonie *Le Livre d’Urantia*, en se concentrant étroitement sur les déclarations spécifiques corroborées par les progrès de la science et de l’érudition depuis sa publication. Ce rapport s’écarte quelque peu de cette approche. Étant donné que ce sujet est régulièrement approfondi grâce à de nouvelles découvertes et méthodologies scientifiques qui apportent des éclairages sur l’histoire humaine ancienne et que *Le Livre d’Urantia* fournit une sélection de déclarations spécifiques et de commentaires généraux relatifs aux nouvelles découvertes qui sont faites dans ce domaine, ce rapport fournira plusieurs pages de matériel du *Livre d’Urantia* afin de donner aux lecteurs une idée des détails et du compte rendu général qu’il fournit concernant cette longue période de l’histoire humaine qui couvre des centaines de milliers d’années. Étant donné la nature continue et le développement progressif du projet AHOB, il est raisonnable de s’attendre à ce que ce rapport doive bientôt être mis à jour avec des preuves supplémentaires de l’exactitude du *Livre d’Urantia* concernant l’occupation ancienne de la Grande-Bretagne par certains des premiers êtres humains. La sélection plus large de matériel offert dans ce rapport servira également de préfiguration des types de découvertes anticipées.
 
 Les lecteurs particulièrement intéressés par ce sujet sont encouragés à lire le [Chapitre 64](/Le_Livre_d'Urantia/64) dans *Le Livre d'Urantia* (environ dix pages). De plus, les dernières sections du [Chapitre 62](/Le_Livre_d'Urantia/62) et du [Chapitre 63](/Le_Livre_d'Urantia/63) racontent l'histoire des premiers êtres humains et fournissent des informations supplémentaires sur les origines de la vie humaine. Selon *Le Livre d'Urantia*, l'humanité a commencé il y a près d'un million d'années et a été marquée par l'évolution d'une espèce possédant suffisamment de capacités mentales et de sophistication intellectuelle pour s'engager dans la pensée spirituelle et faire des choix spirituels, pour reconnaître la sagesse et s'efforcer d'atteindre des idéaux. Naturellement, une telle définition de l'être humain ne se prête pas bien à la recherche scientifique. De plus, comme le démontre ce rapport, les archéologues continuent d'être surpris par de nouvelles découvertes ; l'histoire humaine primitive n'est guère un domaine scientifique établi. Il n’est donc pas surprenant qu’il existe encore de nombreux domaines de ce sujet où les opinions et les théories des érudits ne sont pas alignées avec *Le Livre d’Urantia*. Néanmoins, ce rapport, ainsi que le [Rapport Adam et Ève](/fr/article/Halbert_Katzen/Adam_and_Eve), le [Rapport Vikings](/fr/article/Halbert_Katzen/Early_migration_to_the_Americas) et le [Rapport sur la migration précoce vers les Amériques](/fr/article/Halbert_Katzen/Early_migration_to_the_Americas), font partie d’un modèle émergent de soutien accru aux déclarations du *Livre d’Urantia* concernant l’histoire humaine.
 
@@ -64,7 +79,7 @@ Certains des défis associés à la réconciliation des découvertes anthropolog
 
 Pour apprécier le récit de l’histoire humaine primitive du *Livre d’Urantia*, il faut expliquer une certaine terminologie et quelques informations de base ; ces informations se trouvent dans les chapitres 62 et 63. On dit que l’humanité a commencé avec la naissance de jumeaux, un mâle et une femelle, nommés respectivement Andon et Fonta. Ces jumeaux sont décrits comme « radicalement » différents de leurs parents ; ils ont évolué « soudainement ». Selon *Le Livre d’Urantia*, les Esquimaux sont la représentation vivante la plus proche de cette première « race » de l’humanité, appelée la race andonique. De plus, *Le Livre d’Urantia* offre une perspective unique concernant les distinctions associées à la couleur de la peau. On dit que celles-ci sont apparues « soudainement », il y a environ 500 000 ans, sous la forme d’une variété de « mutations » aux caractéristiques génétiques dominantes, supérieures à la race andonique, et toutes issues d’une même mère.
 
-Les sélections suivantes du *Livre d'Urantia* fournissent les déclarations pertinentes et le contexte de base de ce rapport :
+Les sélections suivantes du *Livre d'Urantia* fournissent les déclarations pertinentes et le contexte de base de ce rapport :
 
 > Pendant la plus grande partie de la période glaciaire, l'Angleterre était reliée à la France par voie terrestre, tandis que plus tard, l'Afrique était reliée à l'Europe par le pont terrestre sicilien. À l'époque des migrations andoniques, il existait une voie terrestre continue allant de l'Angleterre à l'ouest à travers l'Europe et l'Asie jusqu'à Java à l'est ; mais l'Australie était à nouveau isolée, ce qui accentua encore le développement de sa faune particulière.
 > 
@@ -191,9 +206,9 @@ Les extraits du *Livre d’Urantia* fournis dans ce rapport fournissent une base
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](http://ubannotated.com/ubthenews/topics/foxhall_1/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](http://ubannotated.com/ubthenews/topics/foxhall_1/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 * *Le monde noyé de la Grande-Bretagne*, *Channel 4*, avril 2007. Excellent article récapitulatif de 2007 avec dates et lieux de découverte, horloge à campagnol, manches de hache, glace avançant et reculant.
 	 
 	https://web.archive.org/web/20090619033218/http://www.channel4.com/history/microsites/T/timeteam/2007_dogger_ancient.html [Lien d'origine brisé]
@@ -289,7 +304,7 @@ Les extraits du *Livre d’Urantia* fournis dans ce rapport fournissent une base
 	 
 	http://www.quaternary.group.cam.ac.uk/camqua/37.pdf
 
-### Site 3 : Foxhall Road, Ipswich, Suffolk, Royaume-Uni
+### Site 3 : Foxhall Road, Ipswich, Suffolk, Royaume-Uni
 
 * Mark White et Steven Plunkett, *Miss Layard excavates: the Palaeolithic site at Foxhall Road, Ipswich, 1903-1905*, *Western Academic & Specialist Press*, 2005. Ouvrage sur le merveilleux site de Nina Layard à Foxhall Road, Ipswich, fouillé entre 1903 et 1905. En utilisant des archives récemment découvertes, Mark a donné à ce site longtemps négligé une nouvelle pertinence dans les débats du XXIe siècle. « Entre 1903 et 1905, Miss Nina Frances Layard a mené des fouilles exemplaires d'un site paléolithique exceptionnel sur des graviers de plateau au-dessus d'Ipswich. Ici, les hommes du Paléolithique se sont rassemblés sur les bords d'un ancien lac et/ou d'une rivière, laissant derrière eux des outils en pierre et des déchets de fabrication. De nombreuses images remarquables ressortent de ce livre : de l'excavatrice, une dame édouardienne d'une grande détermination et d'une grande compétence ; « Le site lui-même, qui aurait pu être comparable à Boxgrove s'il avait été découvert aujourd'hui, la reconstitution des archives perdues de Miss Layard par Steven Plunkett, la rencontre de deux passionnés et leur décision d'écrire ce livre - et enfin, et non des moindres - les remarquables preuves archéologiques. Les auteurs ont assemblé un puzzle de proportions magnifiques : leur travail de détective leur a permis de redonner à un site négligé mais vraiment important sa juste place dans le canon de l'archéologie paléolithique britannique ».
 	 
@@ -313,7 +328,7 @@ Les extraits du *Livre d’Urantia* fournis dans ce rapport fournissent une base
 
 [^5]: [LU 64:4.6](/fr/The_Urantia_Book/64#p4_6)
 
-[^6] : Projet AHOB, https://www.ahobproject.org/ et https://www.ahobproject.org/AHOBI/index_2.html
+[^6] : Projet AHOB, https://www.ahobproject.org/ et https://www.ahobproject.org/AHOBI/index_2.html
 
 [^7]: [64:1.5 - 64:2.6](/fr/The_Urantia_Book/64#p1_5)
 

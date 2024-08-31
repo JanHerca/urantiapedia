@@ -79,7 +79,7 @@ Documentar cómo los nuevos descubrimientos y avances científicos respaldan cad
 
 Los autores de El libro de Urantia utilizan «universos isla» y «nebulosas» como sinónimos, en consonancia con la transición en la terminología de «universos isla» a «nebulosas». La página de Wikipedia sobre galaxias afirma: «En 1750, Thomas Wright, en su Una teoría original o nueva hipótesis del universo, especuló (correctamente) que la Vía Láctea era un disco aplanado de estrellas, y que algunas de las nebulosas visibles en el cielo nocturno podrían ser Vías Lácteas separadas. En 1755, Immanuel Kant introdujo el término “universo isla» para estas nebulosas distantes”. [^13]
 
-Si tiene conocimiento de descubrimientos que respalden estas declaraciones adicionales en El libro de Urantia, envíe un correo electrónico al proyecto LUtheNEWS con esta información.
+Si tiene conocimiento de descubrimientos que respalden estas declaraciones adicionales en El libro de Urantia, envíe un correo electrónico al proyecto UBtheNEWS con esta información.
 
 ## Galaxias: Más profundas y más amplias
 
@@ -98,9 +98,9 @@ La visión óptica más profunda y detallada del universo que la humanidad ha ob
 
 ## Enlaces externos
 
-* [Este informe en la página web de LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Galaxies.pdf)
-* [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Este informe en la página web de UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Galaxies.pdf)
+* [Otros informes en la página web de UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios temáticos en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

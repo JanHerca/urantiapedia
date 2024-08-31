@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -36,7 +51,7 @@ Voir aussi : [Astronomie](/fr/article/Halbert_Katzen/Astronomy), plus précisém
 
 Voir aussi : [Autorisations et limitations de la révélation](/fr/article/Halbert_Katzen//Revelatory_Permissions_and_Limitations).
 
-## Utilisation douteuse :
+## Utilisation douteuse :
 
 > Les nébuleuses spirales ne sont pas toutes occupées à engendrer des soleils. Quelques-unes ont conservé le contrôle de beaucoup de leurs descendants stellaires séparés, et leur apparence spirale résulte du fait que leurs soleils sortent du bras nébulaire en formation serrée, mais y retournent par des routes variées. Cela rend plus aisé de les observer en un point, mais plus malaisé de les voir quand ils sont largement éparpillés sur leurs diverses routes de retour, plus loin et en dehors du bras de la nébuleuse. Il n’y a pas beaucoup de nébuleuses formatrices de soleils qui soient présentement actives dans Orvonton, bien qu’Andromède, qui est en dehors du superunivers habité, soit très active. Cette nébuleuse très éloignée est visible à l’œil nu ; lorsque vous la regarderez, arrêtez-vous pour songer que la lumière qui vous parvient a quitté ces lointains soleils depuis près d’un million d’années. ([LU 15:4.7](/fr/The_Urantia_Book/15#p4_7))
 
@@ -90,9 +105,24 @@ Voir aussi : [Autorisations et limitations de la révélation](/fr/article/Halbe
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/far-distant/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/far-distant/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

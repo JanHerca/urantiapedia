@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -16,41 +31,41 @@ Parfois, on compte le nombre de paragraphes, parfois on compte le nombre de fois
 
 ## **Terminologie avec conventions de majuscules**
 
-- **D(g)od :** 2 215 (le plus souvent en majuscule) ; **déesse :** 4 (jamais en majuscule)
-- **Dieu(x) :** 196 (majuscules mixtes) ; **déesses :** 2 (jamais en majuscules)
-- **Dieu le Père :** 62 ; **Dieu la Mère :** 1
+- **D(g)od :** 2 215 (le plus souvent en majuscule) ; **déesse :** 4 (jamais en majuscule)
+- **Dieu(x) :** 196 (majuscules mixtes) ; **déesses :** 2 (jamais en majuscules)
+- **Dieu le Père :** 62 ; **Dieu la Mère :** 1
 
-- *Père :** 2 129 ; **Mère :** 394
-- *Père(s) :** 110 (majuscules mixtes) ; **Mère(s) :** 27 (une majuscule)
-- **Père Universel :** 500 ; **Mère Universelle :** 2
-- **Père Éternel :** 1 (dans l'Avant-propos) ; **Mère Éternelle :** 4 (toujours suivi de –_Fils_ ou _Fils_)
-- **Père éternel :** 15 ; **Mère éternelle :** 0
-- **père éternel :** 0 ; **mère éternelle :** 1 (_mother-makers_ est utilisé une fois dans le même paragraphe)
+- *Père :** 2 129 ; **Mère :** 394
+- *Père(s) :** 110 (majuscules mixtes) ; **Mère(s) :** 27 (une majuscule)
+- **Père Universel :** 500 ; **Mère Universelle :** 2
+- **Père Éternel :** 1 (dans l'Avant-propos) ; **Mère Éternelle :** 4 (toujours suivi de –_Fils_ ou _Fils_)
+- **Père éternel :** 15 ; **Mère éternelle :** 0
+- **père éternel :** 0 ; **mère éternelle :** 1 (_mother-makers_ est utilisé une fois dans le même paragraphe)
 
-- **Père-Fils :** 31 ; **Mère-Fils ** : 3
-- **Père Fils :** 0 ; **Mère Fils :** 5
-- **Père-Père :** 1 ; **Père-Mère :** 0
-- **père-mère :** 1 ; **mère-mère :** 0
+- **Père-Fils :** 31 ; **Mère-Fils ** : 3
+- **Père Fils :** 0 ; **Mère Fils :** 5
+- **Père-Père :** 1 ; **Père-Mère :** 0
+- **père-mère :** 1 ; **mère-mère :** 0
 
 ## **Terminologie sans conventions de majuscules**
 
-- **paternité :** 51 ; **maternité :** 4
-- **paternel :** 25 ; **maternel :** 0
-- **père :** 2 ; **mère :** 1
-- **famille paternelle :** 7 ; **famille maternelle :** 10
-- **paternité :** 1 ; **maternité :** 0
+- **paternité :** 51 ; **maternité :** 4
+- **paternel :** 25 ; **maternel :** 0
+- **père :** 2 ; **mère :** 1
+- **famille paternelle :** 7 ; **famille maternelle :** 10
+- **paternité :** 1 ; **maternité :** 0
 
-- **paternel :** 4 ; **maternel :** 6
-- **paternaliste :** 2 ; **maternaliste :** 0
+- **paternel :** 4 ; **maternel :** 6
+- **paternaliste :** 2 ; **maternaliste :** 0
 - **patriarche(al,s**): 6; **matriarche(al):** 0
 
-- **homme(s) :** 49 ; **femme(s) :** 39
-- **virilité** : 6 ; **féminité** : 0
-- **masculin :** 0 ; **féminin :** 2
+- **homme(s) :** 49 ; **femme(s) :** 39
+- **virilité** : 6 ; **féminité** : 0
+- **masculin :** 0 ; **féminin :** 2
 
-- **fraternel :** 24 ; **soeurnel :** 0
-- **fraternité :** 179 ; **sororité :** 0
-- **garçon :** 1 ; **fille :** 0
+- **fraternel :** 24 ; **soeurnel :** 0
+- **fraternité :** 179 ; **sororité :** 0
+- **garçon :** 1 ; **fille :** 0
 
 ## Listes de mots rarement utilisés.
 
@@ -259,14 +274,29 @@ Parfois, on compte le nombre de paragraphes, parfois on compte le nombre de fois
 ## Voir aussi :
 
 - Étude de référence croisée : [Cocréat- et Procréat- Coparental (Co)Partenariat avec Dieu](/fr/article/Halbert_Katzen/Cocreat_Procreat_Coparental_Copartnership).
-- Étude thématique : [Le Livre d'Urantia est-il « gay friendly » ?](/fr/article/Halbert_Katzen/Is_LU_gay_friendly)
+- Étude thématique : [Le Livre d'Urantia est-il « gay friendly » ?](/fr/article/Halbert_Katzen/Is_UB_gay_friendly)
 - L’essai de Halbert Katzen [_Au nom du Père_](/fr/article/Halbert_Katzen/In_the_Name_of_the_Father), qui développe une base philosophique pour l’utilisation du mot _Père_ pour Dieu qui se concentre sur la nature parentale, personnelle et de libre arbitre de notre relation à Dieu.
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/gender-studies/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/gender-studies/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

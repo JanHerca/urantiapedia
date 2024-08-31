@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -28,25 +43,40 @@ _Par Halbert Katzen J.D._
 
 ## au-delà …
 
-> L’expérience religieuse étant essentiellement spirituelle ne peut jamais être pleinement comprise par le mental matériel, d’où la fonction de la théologie, qui est la psychologie de la religion. La doctrine essentielle de la réalisation humaine de Dieu crée un paradoxe dans l’entendement fini. Il est à peu près impossible à la logique humaine et à la raison finie d’harmoniser le concept de l’immanence divine, un Dieu intérieur faisant partie de chaque individu, avec l’idée de la transcendance de Dieu, la domination divine de l’univers des univers. Ces deux concepts essentiels de la Déité doivent être unifiés par la préhension, par la foi, du concept de la transcendance d’un Dieu personnel et par la réalisation de la présence intérieure d’un fragment de ce Dieu ; c’est ainsi que l’on peut justifier une adoration intelligente et valider l’espoir d’une survie personnelle. Les difficultés et les paradoxes de la religion sont inhérents au fait que les réalités de la religion dépassent complètement les capacités de compréhension intellectuelle des mortels. ([LU 5:5.6](/fr/The_Urantia_Book/5#p5_6))
+> L’expérience religieuse étant essentiellement spirituelle ne peut jamais être pleinement comprise par le mental matériel, d’où la fonction de la théologie, qui est la psychologie de la religion. La doctrine essentielle de la réalisation humaine de Dieu crée un paradoxe dans l’entendement fini. Il est à peu près impossible à la logique humaine et à la raison finie d’harmoniser le concept de l’immanence divine, un Dieu intérieur faisant partie de chaque individu, avec l’idée de la transcendance de Dieu, la domination divine de l’univers des univers. Ces deux concepts essentiels de la Déité doivent être unifiés par la préhension, par la foi, du concept de la transcendance d’un Dieu personnel et par la réalisation de la présence intérieure d’un fragment de ce Dieu ; c’est ainsi que l’on peut justifier une adoration intelligente et valider l’espoir d’une survie personnelle. Les difficultés et les paradoxes de la religion sont inhérents au fait que les réalités de la religion **dépassent complètement les capacités de compréhension intellectuelle des mortels**. ([LU 5:5.6](/fr/The_Urantia_Book/5#p5_6))
 
-> Le Fils Éternel est une grandiose et glorieuse personnalité. Bien que le mental humain et matériel n’ait pas le pouvoir de saisir l’actualité de la personnalité d’un tel être infini, ne doutez pas, il est une personne. Je sais de quoi je parle. Je me suis tenu en la présence divine de ce Fils Éternel dans des occasions presque innombrables, et j’ai voyagé ensuite dans l’univers pour exécuter ses gracieux commandements. ([LU 6:8.8](/fr/The_Urantia_Book/6#p8_8))
+> Le Fils Éternel est une grandiose et glorieuse personnalité. Bien que **le mental humain et matériel n’ait pas le pouvoir de saisir** l’actualité de la personnalité d’un tel être infini, ne doutez pas, il est une personne. Je sais de quoi je parle. Je me suis tenu en la présence divine de ce Fils Éternel dans des occasions presque innombrables, et j’ai voyagé ensuite dans l’univers pour exécuter ses gracieux commandements. ([LU 6:8.8](/fr/The_Urantia_Book/6#p8_8))
 
 > La beauté matérielle du Paradis consiste dans la magnificence de sa perfection physique ; la grandeur de l’Ile de Dieu ressort des accomplissements intellectuels et du développement mental splendides de ses habitants ; la gloire de l’Ile centrale se manifeste par la dotation infinie de la personnalité d’esprit divin — la lumière de vie. Mais les profondeurs de la beauté spirituelle et les merveilles de cet ensemble éblouissant dépassent complètement la compréhension du mental fini des créatures matérielles. La gloire et la splendeur spirituelle de la demeure divine sont inaccessibles à la compréhension des mortels. Et le Paradis existe de toute éternité ; il n’y a ni archives ni traditions concernant l’origine de cette Ile nucléaire de Lumière et de Vie. ([LU 11:0.2](/fr/The_Urantia_Book/11#p0_2))
 
-> En gros, il semble que l’espace prenne son origine juste au-dessous du bas Paradis et le temps juste au-dessus du haut Paradis. Le temps tel que vous le comprenez n’est pas une caractéristique de l’existence du Paradis, bien que les citoyens de l’Ile centrale soient pleinement conscients de la séquence intemporelle des évènements. Le mouvement n’est pas inhérent au Paradis ; il est volitif. Mais le concept de distance, et même de distance absolue, y a une très grande signification, car on peut l’appliquer à des emplacements relatifs sur le Paradis. Le Paradis est non spatial, et en conséquence ses surfaces sont absolues. Elles rendent donc de nombreuses sortes de services qui dépassent les concepts du mental des mortels. ([LU 11:2.11](/fr/The_Urantia_Book/11#p2_11))
+> En gros, il semble que l’espace prenne son origine juste au-dessous du bas Paradis et le temps juste au-dessus du haut Paradis. Le temps tel que vous le comprenez n’est pas une caractéristique de l’existence du Paradis, bien que les citoyens de l’Ile centrale soient pleinement conscients de la séquence intemporelle des évènements. Le mouvement n’est pas inhérent au Paradis ; il est volitif. Mais le concept de distance, et même de distance absolue, y a une très grande signification, car on peut l’appliquer à des emplacements relatifs sur le Paradis. Le Paradis est non spatial, et en conséquence ses surfaces sont absolues. Elles rendent donc de nombreuses sortes de services qui **dépassent les concepts du mental des mortels**. ([LU 11:2.11](/fr/The_Urantia_Book/11#p2_11))
 
 > L’IMMENSITÉ de la vaste création du Père Universel dépasse complètement la portée de l’imagination finie. Le maitre univers est si colossal qu’il renverse les concepts d’êtres même de ma classe. Mais on peut enseigner beaucoup de choses au mental mortel sur le plan et l’arrangement des univers. Vous pouvez acquérir des notions sur leur organisation physique et leur merveilleuse administration. Vous pouvez apprendre beaucoup de choses sur les divers groupes d’êtres intelligents qui peuplent les sept superunivers du temps et l’univers central de l’éternité. ([LU 12:0.1](/fr/The_Urantia_Book/12#p0_1))
 
-> Au Paradis, le mental est absolu ; dans Havona, il est absonite ; dans Orvonton, il est fini. Le mental implique toujours l’activité de présence d’un ministère vivant auquel s’ajoutent des systèmes énergétiques variés, et ceci est vrai du mental quels qu’en soient les niveaux ou les sortes. Mais, au-delà du mental cosmique, il devient de plus en plus difficile de dépeindre les relations du mental avec l’énergie non spirituelle. Le mental de Havona est subabsolu mais superévolutionnaire ; étant existentiel-expérientiel, il est plus proche de l’absonite que tout autre concept révélé aux Urantiens. Le mental du Paradis dépasse la compréhension humaine ; il est existentiel, non spatial et non temporel. Néanmoins, tous ces niveaux du mental sont dominés par la présence universelle de l’Acteur Conjoint — par l’emprise de gravité mentale du Dieu du mental au Paradis. ([LU 42:10.7](/fr/The_Urantia_Book/42#p10_7))
+> Au Paradis, le mental est absolu ; dans Havona, il est absonite ; dans Orvonton, il est fini. Le mental implique toujours l’activité de présence d’un ministère vivant auquel s’ajoutent des systèmes énergétiques variés, et ceci est vrai du mental quels qu’en soient les niveaux ou les sortes. Mais, au-delà du mental cosmique, il devient de plus en plus difficile de dépeindre les relations du mental avec l’énergie non spirituelle. Le mental de Havona est subabsolu mais superévolutionnaire ; étant existentiel-expérientiel, il est plus proche de l’absonite que tout autre concept révélé aux Urantiens. **Le mental du Paradis dépasse la compréhension humaine** ; il est existentiel, non spatial et non temporel. Néanmoins, tous ces niveaux du mental sont dominés par la présence universelle de l’Acteur Conjoint — par l’emprise de gravité mentale du Dieu du mental au Paradis. ([LU 42:10.7](/fr/The_Urantia_Book/42#p10_7))
 
-> _5. *Stabilisateurs de liaisons.* Ils sont les régulateurs des énergies morontielles en association avec les forces physiques et spirituelles du royaume. Ils rendent possible la conversion d’énergie morontielle en matériaux morontiels. Toute l’organisation morontielle de l’existence dépend des stabilisateurs. Ils ralentissent la rotation des énergies jusqu’au point où elles peuvent devenir physiques. Mais je manque de terminologie pour comparer ou illustrer le ministère de ces êtres. Il dépasse tout à fait l’imagination humaine._ ([LU 48:2.20](/fr/The_Urantia_Book/48#p2_20))
+> 5. *Stabilisateurs de liaisons.* Ils sont les régulateurs des énergies morontielles en association avec les forces physiques et spirituelles du royaume. Ils rendent possible la conversion d’énergie morontielle en matériaux morontiels. Toute l’organisation morontielle de l’existence dépend des stabilisateurs. Ils ralentissent la rotation des énergies jusqu’au point où elles peuvent devenir physiques. Mais je manque de terminologie pour comparer ou illustrer le ministère de ces êtres. **Il dépasse tout à fait l’imagination humaine**. ([LU 48:2.20](/fr/The_Urantia_Book/48#p2_20))
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/beyond-human-comprehension-imagination-understanding/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/beyond-human-comprehension-imagination-understanding/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -89,7 +89,7 @@ Therefore, when it was published in 1955, the authors of _The Urantia Book_ made
 
 - [This report in UBTheNews webpage](https://ubannotated.com/wp-content/uploads/2018/03/Chromosome.pdf)
 - [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-- [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+- [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 - http://papa.indstate.edu/amcbt/volume_22/v22-2p3-9.pdf extensive history about human chromosome research
 - http://www.ubfellowship.org/archive/science/kanders1.htm this is a 1988 article by Kermit Anderson on the subject
 

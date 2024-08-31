@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2012 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 ## Rapport sur la domestication du chien (informations préliminaires)
@@ -19,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Identifier les sujets qui nécessitent la rédaction de rapports prend beaucoup moins de temps que de les rédiger. Par conséquent, nous avons un nombre croissant de rapports en attente de rédaction. Bien que quelque peu frustrant, c'est bien sûr bien mieux que l'alternative ! Vous trouverez ci-dessous quelques citations du Livre d'Urantia et des liens vers des informations que nous avons utilisées pour identifier le sujet. Veuillez nous contacter si vous avez des informations supplémentaires pertinentes pour la préparation de l'un de nos prochains rapports.
 
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 ## Citations du _Livre d'Urantia_ sur la domestication primitive des chiens.
 
@@ -99,10 +114,10 @@ Il s'agit d'une vidéo fascinante sur les renards et la génétique de la sociab
 
 ## Liens externes
 
-- [Ce rapport dans LUTheNews](https://ubannotated.com/ubthenews/topics/Dog_Domestication/)
-- [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-- [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
-- http://news.discovery.com/animals/dog-domestication-prehistoric-ice-age-110728.html 33 000
+- [Ce rapport dans UBTheNews](https://ubannotated.com/ubthenews/topics/Dog_Domestication/)
+- [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+- [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
+- http://news.discovery.com/animals/dog-domestication-prehistoric-ice-age-110728.html 33 000
 - http://en.wikipedia.org/wiki/Origin_of_the_domestic_dog
 - http://archaeology.about.com/od/dterms/a/domestication.htm tableau pour divers animaux
 - http://archaeozoo.wordpress.com/2007/09/23/the-origins-of-the-domestic-dog/
@@ -113,3 +128,18 @@ Il s'agit d'une vidéo fascinante sur les renards et la génétique de la sociab
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

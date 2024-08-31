@@ -153,7 +153,7 @@ And here with the last use of _Milky Way_, the sentence structure has it unambig
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/milky-way-galaxy/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

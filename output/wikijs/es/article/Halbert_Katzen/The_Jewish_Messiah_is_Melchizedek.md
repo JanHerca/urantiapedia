@@ -259,9 +259,9 @@ Por supuesto, vale la pena revisar toda la sección sobre El segundo Isaías. A 
 
 ## Enlaces externos
 
-* [Este informe en la página web de LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/the-jewish-messiah-is-melchizedek/)
-* [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Este informe en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/the-jewish-messiah-is-melchizedek/)
+* [Otros informes en la página web de UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios temáticos en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

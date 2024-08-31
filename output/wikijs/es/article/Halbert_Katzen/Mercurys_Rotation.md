@@ -25,9 +25,9 @@ El libro de Urantia afirma que la fricción de las mareas hace que la rotación 
 
 ## Revisión de la rotación de Mercurio
 
-Este informe es diferente a la mayoría de los demás informes de LUtheNEWS. La mayoría de los informes tratan sobre cómo los avances científicos están corroborando información histórica y científica que no estaba respaldada en 1955, cuando se publicó El libro de Urantia. Este es un ejemplo de cómo El libro de Urantia evitó el escollo de estar de acuerdo con una ciencia que era inexacta en el momento de la publicación. Este es el nivel más bajo de corroboración y podría haber sido simplemente ignorado por completo, si no fuera por los malentendidos sobre este tema tanto dentro como fuera de la comunidad de lectores de El libro de Urantia.
+Este informe es diferente a la mayoría de los demás informes de UBtheNEWS. La mayoría de los informes tratan sobre cómo los avances científicos están corroborando información histórica y científica que no estaba respaldada en 1955, cuando se publicó El libro de Urantia. Este es un ejemplo de cómo El libro de Urantia evitó el escollo de estar de acuerdo con una ciencia que era inexacta en el momento de la publicación. Este es el nivel más bajo de corroboración y podría haber sido simplemente ignorado por completo, si no fuera por los malentendidos sobre este tema tanto dentro como fuera de la comunidad de lectores de El libro de Urantia.
 
-Los malentendidos se relacionan con el uso de la terminología y la construcción gramatical de la oración relevante para este tema. Los malentendidos sobre estos temas han hecho que lectores y no lectores de El libro de Urantia concluyan que se trata de un caso de inexactitud en El libro de Urantia. Esta historia de malentendidos hace que el tema sea importante para ser cubierto por LUtheNEWS, aunque la credibilidad que el tema proporciona a El libro de Urantia es considerablemente menor que los informes sobre conflictos que se han convertido en corroboraciones. En este caso, nunca hubo un conflicto real entre El libro de Urantia y la ciencia de 1955, excepto en las mentes de aquellos que leyeron mal y/o malinterpretaron lo que dice.
+Los malentendidos se relacionan con el uso de la terminología y la construcción gramatical de la oración relevante para este tema. Los malentendidos sobre estos temas han hecho que lectores y no lectores de El libro de Urantia concluyan que se trata de un caso de inexactitud en El libro de Urantia. Esta historia de malentendidos hace que el tema sea importante para ser cubierto por UBtheNEWS, aunque la credibilidad que el tema proporciona a El libro de Urantia es considerablemente menor que los informes sobre conflictos que se han convertido en corroboraciones. En este caso, nunca hubo un conflicto real entre El libro de Urantia y la ciencia de 1955, excepto en las mentes de aquellos que leyeron mal y/o malinterpretaron lo que dice.
 
 Debido a la controversia histórica relacionada con este tema, este informe abordará primero las cuestiones de terminología e interpretación antes de entrar en el fondo del asunto. Para proporcionar algo de contexto, a continuación se presentan las dos frases pertinentes de El libro de Urantia:
 
@@ -103,9 +103,9 @@ Sin embargo, aunque las opiniones entre los astrónomos sobre este tema hoy en d
 
 ## Enlaces externos
 
-* [Este informe en la página web de LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Mercury.pdf)
-* [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Este informe en la página web de UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Mercury.pdf)
+* [Otros informes en la página web de UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios temáticos en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

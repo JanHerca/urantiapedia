@@ -90,7 +90,7 @@ Identificar temas sobre los que es necesario escribir informes lleva mucho menos
 
 - [Este informe en el sitio web UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Animal-Domestication.pdf)
 - [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
-- [Estudios Temáticos en el sitio UBTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+- [Estudios Temáticos en el sitio UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 - http://ngm.nationalgeographic.com/2011/03/taming-wild-animals/ratliff-text
 - http://www.nature.com/nature/journal/v418/n6898/full/nature01019.html
 - http://archaeology.about.com/od/dterms/a/domestication.htm gráfico de los distintos animales

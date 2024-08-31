@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2009 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Préparé par Halbert Katzen, J.D. avec l'aide de Chris Halvorson, Ph.D.
 [Mis à jour le 04/10/09]
@@ -21,7 +36,7 @@ Préparé par Halbert Katzen, J.D. avec l'aide de Chris Halvorson, Ph.D.
 
 Le Livre d'Urantia déclare que « la plus récente des éruptions cosmiques majeures... fut l'extraordinaire explosion d'une double étoile, dont la lumière atteignit [la Terre] en 1572 après J.-C. Cette conflagration était si intense que l'explosion était clairement visible en plein jour ». L'explosion à laquelle se réfère le Livre d'Urantia est connue sous le nom de Nova de Tycho Brahe. Ce n'est que plusieurs décennies après la publication du Livre d'Urantia que les astronomes ont déterminé que, selon toute vraisemblance, une relation d'étoile double (ou binaire), dans laquelle une étoile finit par accréter une quantité critique de matière de l'autre étoile, est responsable de l'explosion de cette supernova. En 2004, des chercheurs ont annoncé qu'ils pensaient avoir découvert le vestige de l'étoile compagne qui a donné lieu à cette explosion.
 
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 ## Présentation de Tycho's Nova
 
@@ -52,7 +67,7 @@ _Le Livre d'Urantia_ avait plus d'une décennie d'avance sur la science lorsqu'i
 
 ## Rapport Nova de Tycho
 
-La plupart des rapports d'LUtheNEWS corroborent des informations trouvées dans le tiers médian du Livre d'Urantia, L'Histoire d'Urantia [Terre], où est relatée l'histoire de notre planète. Ce rapport, cependant, se rapporte à un commentaire fait plus tôt dans le livre, qui décrit en détail les aspects de notre « univers local », notre section locale de la galaxie. Le chapitre 41, Aspects physiques de l'univers local, fait les commentaires suivants sur les soleils dans la section 3, Nos associés étoilés :
+La plupart des rapports d'UBtheNEWS corroborent des informations trouvées dans le tiers médian du Livre d'Urantia, L'Histoire d'Urantia [Terre], où est relatée l'histoire de notre planète. Ce rapport, cependant, se rapporte à un commentaire fait plus tôt dans le livre, qui décrit en détail les aspects de notre « univers local », notre section locale de la galaxie. Le chapitre 41, Aspects physiques de l'univers local, fait les commentaires suivants sur les soleils dans la section 3, Nos associés étoilés :
 
 > Quand une roue-mère nébuleuse projette des soleils trop grands, ceux-ci ne tardent pas à se fractionner ou à former des étoiles doubles. À l’origine, tous les soleils sont purement gazeux, bien qu’ils puissent exister passagèrement plus tard à l’état semi-liquide. Lorsque votre soleil atteignit cet état quasi liquide de pression supergazeuse, il n’était pas assez grand pour se scinder par l’équateur, ce qui est l’un des modes de formation des étoiles doubles.
 > 
@@ -82,7 +97,7 @@ De même, des changements ont été apportés aux modèles de classification des
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Tychos_Nova/classification.jpg">
-<figcaption>Nova de Tycho : Type 1a</figcaption>
+<figcaption>Nova de Tycho : Type 1a</figcaption>
 </figure>
 
 La classification des supernovae en groupes provenant de systèmes d'étoiles simples et doubles n'a pas eu lieu avant 1955. Ce fait est référencé par Wikipédia dans l'histoire suivante de notre appréciation croissante de la nature des supernovae :
@@ -127,7 +142,7 @@ Depuis la découverte de sources localisées de rayonnement radioélectrique ext
 > 
 > Le rémanent ... est le résultat de l'explosion de supernova en 1572 qui a été étudiée par Tycho Brahe ... et a depuis été appelée la nova de Tycho, autrement connue sous le nom de Nova B Cassiopia. Le rémanent a été découvert pour la première fois en 1952 par Hanbury Brown et Hazard comme une source radio puissante. Par la suite, Minkowski a trouvé le rémanent optique associé à la source radio. La nova de Tycho est maintenant connue aussi comme une source puissante d'émission de rayons X. En analysant les anciens enregistrements de cette nova, Baade a conclu qu'au maximum elle avait une magnitude visuelle apparente de -4 , sa courbe de lumière correspondant à celle d'une supernova de type I. [^9]
 
-La société Sol Company fournit cet aperçu sur son site Web SolStation.com :
+La société Sol Company fournit cet aperçu sur son site Web SolStation.com :
 
 > Le reste de la supernova n'a été découvert qu'en 1952, grâce au radiotélescope de Jodrell Bank (Brown et Hazard, 1953), catalogué comme source radio 3C 10. Peu de temps après, de faibles traînées optiques au même endroit ont été découvertes à l'aide du télescope de 200 pouces du mont Palomar dans les années 1960, lorsqu'une nébulosité extrêmement faible a été identifiée sur des plaques photographiques. La coquille de gaz se dilate maintenant à environ 9 000 km par seconde (beaucoup plus que la vitesse d'expansion de la nébuleuse du Crabe d'environ 1 000 km par seconde) et a atteint environ 3,7 minutes d'arc (environ 24 années-lumière (al) de large selon une estimation). Cependant, aucune source ponctuelle centrale n'a été détectée dans le reste de supernova de Tycho (SNR), ce qui est cohérent avec d'autres preuves selon lesquelles le SNR a été créé par une supernova de type Ia. [^10]
 
@@ -209,14 +224,14 @@ Citations du Livre d'Urantia :
 - http://astronomy.swin.edu.au/cosmos/T/Type+la+Supernova+Progéniteurs
 - http://heasarc.gsfc.nasa.gov/docs/objects/snrs/snrstext.html#intro
 - http://arxiv.org/pdf/astro-ph/0309009
-- http://adsabs.harvard.edu/full/1993ApJ...413...67V (van den Bergh 1993 : Le Journal d'Astrophysique, 413 : 67-69, 10 août 1993)
+- http://adsabs.harvard.edu/full/1993ApJ...413...67V (van den Bergh 1993 : Le Journal d'Astrophysique, 413 : 67-69, 10 août 1993)
 
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/tychos-nova.pdf)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/tychos-nova.pdf)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

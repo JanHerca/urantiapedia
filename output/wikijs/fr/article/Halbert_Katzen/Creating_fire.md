@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -184,20 +199,20 @@ Les découvertes faites au Gesher Benot Ya'aqov en Israël au cours de ce millé
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/ubthenews/topics/CreatingFire/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/ubthenews/topics/CreatingFire/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 * Paul Rincon, *Les premières compétences humaines en matière de feu révélées*, BBC News, 29 avril 2004, http://news.bbc.co.uk/2/hi/science/nature/3670017.stm
 * *Le feu d'Afrique : une clé pour la migration de l'homme préhistorique*, *L'Université hébraïque de Jérusalem*, 27 octobre 2008, http://www.huji.ac.il/cgi-bin/dovrut/dovrut_search_eng.pl?mesge122510374832688760
 * Kyle Streich, *Terra Amata*, juin 2008, https://web.archive.org/web/20080618062326/http://www.mnsu.edu/emuseum/archaeology/sites/europe/terraamata.html, brève description du site de Terra Amata. [Lien original rompu].
 * Dennis O'Neill, *Culture humaine archaïque*, https://www2.palomar.edu/anthro/homo2/mod_homo_3.htm, informations générales sur la culture primitive avec quelques informations sur le silex et la Terra Amata.
-* Page Wikipédia sur Terra Amata : http://en.wikipedia.org/wiki/Terra_Amata
+* Page Wikipédia sur Terra Amata : http://en.wikipedia.org/wiki/Terra_Amata
 * Site du musée Terra Amata, à Nice : http://www.nice.fr/fr/culture/musees-et-galeries/presentation-du-musee-terra-amata
 * Jennifer Viegas, *Le plus vieux barbecue du monde a brûlé de la viande croustillante*, *ABC Science*, 3 mai 2004, \myurl{http://www.abc.net.au/science/articles/2004/05/03/1100057.htm?site=science&topic=latest}, article faisant écho à la découverte sur le site israélien.
 * *Quand le feu a-t-il été contrôlé pour la première fois par les êtres humains ?* http://www.beyondveg.com/nicholson-w/hb/hb-interview2c.shtml, examen complet des problèmes.
 * Steven R. James, R. W. Dennell, Allan S. Gilbert et al., *Utilisation du feu par les hominidés au Pléistocène inférieur et moyen : un examen des preuves*, février 1989, https://www.jstor.org/stable/2743299?seq=1
 * Joshua Fischman, *Une cheminée en France*, *Discover Magazine*, 1er janvier 1996. http://discovermagazine.com/1996/jan/afireplaceinfran673, excellente couverture des preuves Menez-Dregan.
-* Page Wikipédia sur Menez-Dregan : http://fr.wikipedia.org/wiki/Menez-Dregan
+* Page Wikipédia sur Menez-Dregan : http://fr.wikipedia.org/wiki/Menez-Dregan
 * George W. Rohrer, *Les premiers colons en France*, 1983, http://www.boneandstone.com/articles/rohrer_09.pdf, article détaillé sur les premiers hommes en France.
 
 <br>
@@ -225,7 +240,7 @@ Les découvertes faites au Gesher Benot Ya'aqov en Israël au cours de ce millé
 
 [^9]: https://en.wikipedia.org/wiki/Terra_Amata_(archaeological_site)
 
-[^10] : Kyle Streich, *Terra Amata*, juin 2008, https://web.archive.org/web/20080618062326/http://www.mnsu.edu/emuseum/archaeology/sites/europe/terraamata.html [Lien original rompu]
+[^10] : Kyle Streich, *Terra Amata*, juin 2008, https://web.archive.org/web/20080618062326/http://www.mnsu.edu/emuseum/archaeology/sites/europe/terraamata.html [Lien original rompu]
 
 [^11]: Dennis O'Neill, *Culture humaine archaïque*, https://www2.palomar.edu/anthro/homo2/mod_homo_3.htm
 

@@ -208,7 +208,7 @@ Las selecciones de *El Libro de Urantia* proporcionadas en este informe ofrecen 
 
 * [Este informe en el sitio web UBTheNews](http://ubannotated.com/ubthenews/topics/foxhall_1/)
 * [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios Temáticos en el sitio UBTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Estudios Temáticos en el sitio UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 * *Britain's drowned world*, *Channel 4*, abril 2007. Excelente artículo de resumen de 2007 con fechas y lugares del descubrimiento, mangos de hachas, avance y retroceso de hielo.
 	 
 	https://web.archive.org/web/20090619033218/http://www.channel4.com/history/microsites/T/timeteam/2007_dogger_ancient.html [Enlace original roto]

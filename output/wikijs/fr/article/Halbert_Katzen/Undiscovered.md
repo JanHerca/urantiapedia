@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -28,13 +43,13 @@ Remarquez comment cet article implique que [William E. Schuyler, Jr.](https://ww
 
 Un examen des faits révèle que la machine de Newman n’est pas censée être mise à la terre. Le National Bureau of Standards le savait et a mis la machine à la terre avant de la tester. Schuyler l’a testée comme elle était censée fonctionner, sans mise à la terre.
 
-Ce [documentaire de Newman](https://rumble.com/vsylvs-the-secrets-of-free-energy-by-joseph-newman..html) est fortement recommandé !
+Ce [documentaire de Newman](https://rumble.com/vsylvs-the-secrets-of-free-energy-by-joseph-newman..html) est fortement recommandé !
 
 Il s'agit d'une [vidéo de 30 minutes de Joseph Newman](https://bit.ly/3XkUpIH), expliquant comment il a obtenu la percée intellectuelle qui a conduit au développement de sa compréhension de l'électromagnétisme et sa capacité à construire une machine basée sur cette compréhension.
 
 > De temps à autre, de vrais prophètes et instructeurs ont surgi pour dénoncer et démasquer le chamanisme. Même les hommes rouges en voie de disparaitre eurent un prophète de cet ordre au cours du siècle dernier, Tenskwatawa le Shawnie, qui prédit l’éclipse du soleil en 1806 et dénonça les vices des hommes blancs. Beaucoup de vrais éducateurs sont apparus parmi les diverses tribus et races au cours des longs âges de l’histoire évolutionnaire. Il continuera toujours d’en apparaitre pour défier les chamans ou prêtres de toute époque qui s’opposent à l’éducation générale et tentent de contrecarrer le progrès scientifique. ([LU 90:2.9](/fr/The_Urantia_Book/90#p2_9))
 
-## _« non découvert sur Urantia »_
+## _« non découvert sur Urantia »_
 
 > Les contrôleurs physiques s’occupent principalement d’ajuster des énergies fondamentales non découvertes sur Urantia. Ces énergies inconnues sont essentielles pour le système interplanétaire de transports et pour certaines techniques de communication. Quand nous posons des lignes d’énergie en vue de transmettre des équivalents du son ou d’une vision élargie, ces formes non découvertes d’énergie sont utilisées par les contrôleurs physiques vivants et leurs associés. À l’occasion, ces mêmes énergies sont aussi employées par les créatures médianes dans leur travail courant. ([LU 29:4.14](/fr/The_Urantia_Book/29#p4_14))
 
@@ -48,7 +63,7 @@ Il s'agit d'une [vidéo de 30 minutes de Joseph Newman](https://bit.ly/3XkUpIH),
 
 \[Pour un contexte supplémentaire digne d'intérêt, trois paragraphes sont inclus dans cette première entrée.\]
 
-> _5. *Explorateurs en mission libre.* Lorsque le corps de réserve des Messagers Solitaires a des recrues en surnombre, un appel pour des explorateurs volontaires est émis par l’un des Sept Directeurs Suprêmes de Pouvoir ; il ne manque jamais de volontaires, car les Messagers adorent être envoyés comme explorateurs libres et sans entraves pour éprouver la vive émotion de découvrir les embryons d’organisation de mondes et d’univers nouveaux._
+> 5. *Explorateurs en mission libre.* Lorsque le corps de réserve des Messagers Solitaires a des recrues en surnombre, un appel pour des explorateurs volontaires est émis par l’un des Sept Directeurs Suprêmes de Pouvoir ; il ne manque jamais de volontaires, car les Messagers adorent être envoyés comme explorateurs libres et sans entraves pour éprouver la vive émotion de découvrir les embryons d’organisation de mondes et d’univers nouveaux.
 > 
 > Ils s’en vont examiner les indices fournis par les contemplateurs d’espace des royaumes. Les Déités du Paradis connaissent indubitablement l’existence de ces systèmes énergétiques spatiaux non encore découverts, mais ne divulguent jamais les informations de cet ordre. Si les Messagers Solitaires n’exploraient pas et ne repéraient pas ces centres énergétiques en voie d’organisation, ces phénomènes resteraient longtemps sans être remarqués, même par les intelligences des royaumes adjacents. En tant que classe, les Messagers Solitaires sont hautement sensibles à la gravité ; en conséquence, ils peuvent parfois détecter la présence probable de très petites planètes obscures, les mondes mêmes qui sont les mieux adaptés à l’expérimentation de la vie.
 > 
@@ -58,7 +73,7 @@ Il s'agit d'une [vidéo de 30 minutes de Joseph Newman](https://bit.ly/3XkUpIH),
 
 > Les sauvages sont les esclaves de la nature, mais la civilisation scientifique confère lentement à l’humanité une liberté croissante. Par les animaux, le feu, le vent, l’eau et l’électricité, les hommes se sont libérés de la nécessité de travailler sans répit ; ils continueront dans cette voie en découvrant de nouvelles sources d’énergie. Indépendamment des troubles provisoires engendrés par l’invention prolifique de machines, les bénéfices ultimes que l’homme retirera de ces inventions mécaniques sont inestimables. La civilisation ne peut jamais fleurir, et encore bien moins s’établir, avant que les hommes aient le *loisir* de penser, de faire des plans et d’imaginer de nouvelles et meilleures méthodes pour faire les choses. ([LU 81:2.14](/fr/The_Urantia_Book/81#p2_14))
 
-## Les entrées supplémentaires incluent :
+## Les entrées supplémentaires incluent :
 
 > L’humanité devrait comprendre que nous, qui participons à la révélation de la vérité, nous sommes très rigoureusement limités par les instructions de nos supérieurs. Nous ne sommes pas libres d’anticiper sur les découvertes scientifiques d’un millénaire. Les révélateurs doivent agir selon les instructions qui forment une partie du mandat de révélation. Nous ne voyons aucun moyen de surmonter cette difficulté, ni dans le présent ni dans un avenir quelconque. Les faits historiques et les vérités religieuses de cette série d’exposés révélateurs subsisteront dans les annales des âges à venir, mais, en même temps, nous savons parfaitement que, d’ici peu d’années, beaucoup de nos affirmations concernant les sciences physiques auront besoin d’être revues, à la suite de développements scientifiques additionnels et de découvertes nouvelles. Nous prévoyons, dès maintenant, ces nouveaux développements, mais il nous est interdit d’inclure, dans nos exposés révélateurs, ces notions que les hommes n’ont pas encore découvertes. Qu’il soit bien clair que les révélations ne sont pas nécessairement inspirées. La cosmologie révélée ici n’est *pas inspirée.* Elle est limitée par l’autorisation que nous avons de coordonner et de trier les connaissances d’aujourd’hui. La clairvoyance divine ou spirituelle est un don, mais *la sagesse humaine doit évoluer.* ([LU 101:4.2](/fr/The_Urantia_Book/101#p4_2))
 
@@ -70,9 +85,24 @@ Il s'agit d'une [vidéo de 30 minutes de Joseph Newman](https://bit.ly/3XkUpIH),
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/undiscovered/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/undiscovered/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

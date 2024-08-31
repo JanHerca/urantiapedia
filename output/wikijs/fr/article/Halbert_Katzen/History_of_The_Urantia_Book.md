@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -16,7 +31,7 @@ _Le Livre d’Urantia_ a été publié en 1955. Aucun être humain ne prétend l
 
 Hautement recommandé : Un procès pour violation de droits d’auteur et de marque déposée intenté dans les années 1990 par la Fondation Urantia contre Kristen Maaherra (maintenant Kristen Michaels) a conduit à la création d’une histoire de 26 pages. C’est un excellent point de départ car il est détaillé, efficace et créé en tenant compte des rigueurs et des conséquences d’un examen juridique.
 
-[Origine des Livres d'Urantia : Comment les Livres ont-ils été matérialisés ?](https://ubannotated.com/wp-content/uploads/2022/01/LU-origin-Maaherra.pdf) par Kristen Maaherra, 14 novembre 1997.
+[Origine des Livres d'Urantia : Comment les Livres ont-ils été matérialisés ?](https://ubannotated.com/wp-content/uploads/2022/01/UB-origin-Maaherra.pdf) par Kristen Maaherra, 14 novembre 1997.
 
 ## Aperçus sur le développement organisationnel
 
@@ -66,7 +81,7 @@ Hautement recommandé : Un procès pour violation de droits d’auteur et de mar
 
 « Il n’existe aucune trace de la participation des révélateurs à la préparation de la Déclaration de confiance de la Fondation. Nous supposons que, puisqu’ils ont approuvé la Constitution de la Confrérie, ils ont également surveillé le document de confiance. Leur implication peut aller de la simple dictée du contenu à l’approbation de la version finale de la Déclaration de confiance. »
 
-[Contrat de vente de 1975](https://ubannotated.com/wp-content/uploads/2018/01/75-Sales-Agreement-UF-LU.pdf) entre la Fondation Urantia et la Urantia Brotherhood Corporation.
+[Contrat de vente de 1975](https://ubannotated.com/wp-content/uploads/2018/01/75-Sales-Agreement-UF-UB.pdf) entre la Fondation Urantia et la Urantia Brotherhood Corporation.
 
 [Lettre de Christy de 1966 aux représentants de terrain](https://ubannotated.com/wp-content/uploads/2018/01/Christy-66-on-secrecy.pdf) sur l’importance de maintenir le secret concernant les origines du _Livre d’Urantia_. Elle cite des instructions de la Commission de contact de 1945. Extrait :
 
@@ -96,7 +111,7 @@ Hautement recommandé : Un procès pour violation de droits d’auteur et de mar
 
 « 10. Si nous avions su en 1978, en tant que Société et en tant qu'individus, que notre signature sur l'accord de licence aurait pour effet de séculariser le symbole des cercles concentriques et de transformer le mot « Urantia » en une simple marque commerciale, la Société n'aurait pas un seul instant envisagé de signer l'accord. Tout au plus, pas plus d'un ou deux de nos membres n'auraient soutenu une telle décision. »
 
-[Histoire du _Livre d'Urantia_ présentée comme preuve](https://ubannotated.com/wp-content/uploads/2018/01/LU-History-Maaherra-case.pdf) par la Fondation Urantia dans l'affaire Maaherra.
+[Histoire du _Livre d'Urantia_ présentée comme preuve](https://ubannotated.com/wp-content/uploads/2018/01/UB-History-Maaherra-case.pdf) par la Fondation Urantia dans l'affaire Maaherra.
 
 ## Déclarations de fiducie et chartes
 
@@ -104,19 +119,19 @@ Hautement recommandé : Un procès pour violation de droits d’auteur et de mar
 
 [Déclaration de fiducie de la Fondation Urantia](https://ubannotated.com/wp-content/uploads/2018/01/FoundationCharter-clean-copy.pdf) du site Web de la Fondation
 
-[Constitution de la Fraternité d'Urantia](https://ubannotated.com/wp-content/uploads/2018/01/constitutionofLU.pdf) avec notes concernant les modifications ultérieures
+[Constitution de la Fraternité d'Urantia](https://ubannotated.com/wp-content/uploads/2018/01/constitutionofUB.pdf) avec notes concernant les modifications ultérieures
 
 [Charte de l'Association Urantia Internationale](https://urantia-association.org/documents/charter/UAI_Charter_en.pdf): Notez que le mot « personnel » a été inséré avant le mot « religion » dans la Déclaration d'intention 1.1.
 
 ## Histoires officielles/semi-officielles du _Livre d'Urantia_
 
-[Histoire du _Livre d'Urantia_](https://ubannotated.com/wp-content/uploads/2018/01/constitutionofLU.pdf) par le Dr. Sadler
+[Histoire du _Livre d'Urantia_](https://ubannotated.com/wp-content/uploads/2018/01/constitutionofUB.pdf) par le Dr. Sadler
 
-[Histoire du Livre d’Urantia de la Urantia Brotherhood par Marian Rowley en 1960.](https://ubannotated.com/wp-content/uploads/2018/01/60-RowleyM-History-of-TLU.pdf)
+[Histoire du Livre d’Urantia de la Urantia Brotherhood par Marian Rowley en 1960.](https://ubannotated.com/wp-content/uploads/2018/01/60-RowleyM-History-of-TUB.pdf)
 
-[Histoire de Christy en 1964](https://ubannotated.com/wp-content/uploads/2018/01/Christys-LU-History-64original.pdf) (historique)
+[Histoire de Christy en 1964](https://ubannotated.com/wp-content/uploads/2018/01/Christys-UB-History-64original.pdf) (historique)
 
-[Histoire de Christy en 1964](https://ubannotated.com/wp-content/uploads/2018/01/Christys-LU-History-64.pdf) (retapée)
+[Histoire de Christy en 1964](https://ubannotated.com/wp-content/uploads/2018/01/Christys-UB-History-64.pdf) (retapée)
 
 [Urantia Fellowship : une brève histoire](https://ubannotated.com/wp-content/uploads/2018/01/Fellowship-Brief-History.pdf) du site Web de l’Urantia Fellowship
 
@@ -128,7 +143,7 @@ Hautement recommandé : Un procès pour violation de droits d’auteur et de mar
 
 [Comment les Fascicules d'Urantia sont arrivés](https://ubannotated.com/wp-content/uploads/2018/01/Stafford-retyped-1952.pdf) par Webster Stafford, retapé en 1952 (plus facile à lire), et il comprend une note à Harold Sherman concernant leurs efforts de coopération.
 
-« [L'historicité du _Livre d'Urantia_](/fr/article/Meredith_Sprunger/The_Historicity_of_LU) » (1986, révisé en 1998) par Meredith J. Sprunger.
+« [L'historicité du _Livre d'Urantia_](/fr/article/Meredith_Sprunger/The_Historicity_of_UB) » (1986, révisé en 1998) par Meredith J. Sprunger.
 
 [La Naissance d'une Révélation Divine](https://ubannotated.com/wp-content/uploads/2021/02/MoyerBirthRev.pdf) (2000) par Ernest P. Moyer.
 
@@ -182,9 +197,24 @@ Notez le manque de respect pour l'autorité de la Commission Révélatrice de ch
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/history-of-the-urantia-book/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/history-of-the-urantia-book/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

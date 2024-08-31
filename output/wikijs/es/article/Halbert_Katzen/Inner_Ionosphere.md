@@ -63,7 +63,7 @@ Las siguientes ilustraciones (_y anteriores_) brindan una apreciación general d
 <img src="/image/article/Halbert_Katzen/Inner_Ionosphere/atmosphere3.jpg">
 </figure>
 
-En lo que respecta a los temas de LUtheNEWS, cada uno de ellos tendrá su propio conjunto de características específicas. Este tema, aunque oportuno para una presentación inicial, se encuentra en las primeras etapas de desarrollo. Se actualizará periódicamente a medida que los científicos sigan investigando y analizando los fenómenos asociados con este tema. Como tema de LUtheNEWS, la afirmación de que existe una ionosfera interior plantea cuatro cuestiones distintas:
+En lo que respecta a los temas de UBtheNEWS, cada uno de ellos tendrá su propio conjunto de características específicas. Este tema, aunque oportuno para una presentación inicial, se encuentra en las primeras etapas de desarrollo. Se actualizará periódicamente a medida que los científicos sigan investigando y analizando los fenómenos asociados con este tema. Como tema de UBtheNEWS, la afirmación de que existe una ionosfera interior plantea cuatro cuestiones distintas:
 
 1. No es en absoluto una cuestión resuelta en la ciencia que exista una «ionosfera interna» entre la troposfera y la estratosfera.
 2. Evidencia de actividad iónica en la región entre la troposfera y la estratosfera existía antes de 1955.
@@ -147,9 +147,9 @@ Este gran chorro azul, que se elevó desde lo alto de una tormenta, alcanzó una
 
 ## Enlaces externos
 
-- [Este informe en LUTheNews](https://ubannotated.com/ubthenews/topics/ionosphere/)
-- [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-- [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+- [Este informe en UBTheNews](https://ubannotated.com/ubthenews/topics/ionosphere/)
+- [Otros informes en la página web de UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+- [Estudios temáticos en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 - [Urantia Book 58:2](/es/The_Urantia_Book/58#p2)
 - http://physicsweb.org/articles/news/6/3/9
 - http://news.nationalgeographic.com/news/2003/06/0625_030625_atmospherethunder.html

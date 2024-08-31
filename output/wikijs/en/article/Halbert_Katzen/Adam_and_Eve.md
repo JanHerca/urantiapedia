@@ -508,7 +508,7 @@ Naturally, based on the overall trend toward corroborations of historical and sc
 
 * [This report in UBTheNews webpage](http://ubannotated.com/ubthenews/topics/adam_and_eve/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 ### Political Issues
 

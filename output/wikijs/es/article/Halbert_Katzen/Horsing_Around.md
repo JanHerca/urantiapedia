@@ -199,7 +199,7 @@ Para una perspectiva relativamente rápida de _El Libro de Urantia_ sobre el des
 
 * [Este informe en el sitio web UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Horsing_Around.pdf)
 * [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios Temáticos en el sitio UBTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Estudios Temáticos en el sitio UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 - _Archaeologists Find Earliest Known Domestic Horses: Harnessed and Milked_, Universidad de Exeter, marzo 2009, http://www.sciencedaily.com/releases/2009/03/090305141627.htm
 - http://www.geosociety.org/news/pr/06-49.htm
 - Wikipedia en inglés: http://en.wikipedia.org/wiki/Domestication_of_the_horse

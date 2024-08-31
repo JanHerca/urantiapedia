@@ -9,8 +9,23 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2022 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-Cet article, publié le 6 août 2022, est un ajout au [LUtheNEWS : Rapport sur le Suaire de Turin](/fr/article/Halbert_Katzen/Shroud_of_Turin). Considérez-le comme un déclencheur de conversation, un espace réservé. Il a conduit à une merveilleuse conversation avec Barrie Schwortz, le photographe de STURP, qui m'a bien sûr orienté vers des recherches supplémentaires. Cela avait déjà conduit à de nouvelles questions et à de nouvelles images (rendu artistique) d'il y a cinq cents ans.
+Cet article, publié le 6 août 2022, est un ajout au [UBtheNEWS : Rapport sur le Suaire de Turin](/fr/article/Halbert_Katzen/Shroud_of_Turin). Considérez-le comme un déclencheur de conversation, un espace réservé. Il a conduit à une merveilleuse conversation avec Barrie Schwortz, le photographe de STURP, qui m'a bien sûr orienté vers des recherches supplémentaires. Cela avait déjà conduit à de nouvelles questions et à de nouvelles images (rendu artistique) d'il y a cinq cents ans.
 
 Par exemple, d’un point de vue théiste, considérons que les premiers événements sociaux impliquant l’exposition du Suaire se sont produits chez des gens qui ne savaient rien des négatifs photographiques. Le phénomène de « l’image inversée » ne faisait pas partie de leur monde. Dieu a-t-il confondu ses enfants avec une image scientifiquement inexplicable et inversée ou les enfants de Dieu se sont-ils eux-mêmes confondus, une fois qu’ils ont appris l’existence des négatifs photographiques et ont ensuite appliqué une perspective anthropomorphique aux preuves ? Telle est la question.
 
@@ -40,7 +55,7 @@ Autant que je sache, la logique alternative présentée ici n'a jamais été mis
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Left_is_Right/Left-Is-Right-3.jpg">
-<figcaption><em>Image miroir, ajustée pour un effet « négatif ».</em></figcaption>
+<figcaption><em>Image miroir, ajustée pour un effet « négatif ».</em></figcaption>
 </figure>
 
 Considérez que si le corps de Jésus avait été enveloppé dans le linceul de Turin, alors les auteurs du Livre d’Urantia auraient été à la fois conscients des malentendus et obligés de préciser de quel côté Jésus a été transpercé. Et ce détail est fourni :
@@ -83,7 +98,7 @@ Dans le contexte de toutes ces diverses références de la Bible et du Livre d'U
 
 Les illustrations sont un effort pour élargir notre réflexion sur ce sujet. Même si personne ne sait comment l'image est apparue sur le Suaire, on peut néanmoins remarquer qu'une analyse anthropomorphique est en cours. Et il semble que ce soit le cas lorsqu'il s'agit d'analyser les mystères liés au Suaire. Ce n'est pas parce que les infidèles attendent des explications entièrement scientifiques que les fidèles doivent tomber dans le piège d'une mentalité anthropomorphique, lorsqu'ils parlent entre eux.
 
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 Concernant la dématérialisation du corps de Jésus, _Le Livre d’Urantia_ raconte :
 
@@ -133,9 +148,24 @@ En plus d'ouvrir les esprits chrétiens à considérer un spectre plus large de 
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/ubthenews/topics/shroudturin/left-is-right/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/ubthenews/topics/shroudturin/left-is-right/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2022 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -37,10 +52,10 @@ Cependant, en 2000, l’archéologue amateur Stephen Shanahan, en utilisant les 
 
 Apparemment, la nature des dalles de pierre, grandes et simples, leur a permis de survivre et de rester à peu près in situ. Elles ne pouvaient pas être facilement retirées et leur signification historique n'est pas évidente. Pourtant, le placement d'une des dalles dans une tombe suggère qu'elle était considérée comme un artefact important.
 
-Habituellement, les reportages d’LUtheNEWS sur les nouvelles découvertes corroborent les déclarations faites dans Le Livre d’Urantia. Dans ce cas, non seulement le site archéologique des Sœurs de Nazareth donne de la crédibilité au Livre d’Urantia, mais il permet également d’identifier lequel des sites archéologiques est le meilleur candidat pour l’apparition de Gabriel à Marie.
+Habituellement, les reportages d’UBtheNEWS sur les nouvelles découvertes corroborent les déclarations faites dans Le Livre d’Urantia. Dans ce cas, non seulement le site archéologique des Sœurs de Nazareth donne de la crédibilité au Livre d’Urantia, mais il permet également d’identifier lequel des sites archéologiques est le meilleur candidat pour l’apparition de Gabriel à Marie.
 
 (Un grand merci au révérend Robert Crickett, qui m’a contacté en réponse à la publication de ce rapport. Il a voyagé à plusieurs reprises en Israël et a régulièrement logé chez les Sœurs de Nazareth lors de ces voyages. Les informations et les images qu’il a fournies sont présentées à nouveau à la fin de ce rapport.)
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 ## Localisation du couvent des Sœurs de Nazareth
 
@@ -109,7 +124,7 @@ Jésus continua à grandir physiquement, intellectuellement, socialement et spir
 </figure>
 
 Espérons que le professeur Ken Dark et le projet archéologique de Nazareth continueront leurs efforts pour creuser plus profondément le mystère entourant l’emplacement de la maison de Jésus à Nazareth et trouveront quelque chose de définitif. Pour l’instant, le Livre d’Urantia semble être la meilleure source pour limiter la recherche à l’emplacement du couvent des sœurs de Nazareth.
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 ## Du révérend Robert Crickett
 
@@ -177,13 +192,28 @@ Ce qui suit est une représentation des communications, des images et des articl
 </figure>
 
 « Sur les murs extérieurs de la maison de la Sainte Famille, il y a des escaliers en pierre qui montent jusqu'à l'endroit où se trouvait autrefois le toit. Sœur Margareta a fait remarquer que ces marches ont été construites à la manière des Croisés et n'auraient pas été originales pour la maison de la Sainte Famille. Pourtant, nous nous souvenons de la façon dont Joseph a construit des escaliers jusqu'au toit où les hommes de la famille dormaient pendant les nuits chaudes, et le font encore au Moyen-Orient, et où pendant la journée Marie enseignait à Jésus avec le bac à sable... et comment, lors d'une tempête de sable, un jour, Jésus est tombé dans les escaliers... probablement faits de bois... et comment les anges qui veillaient sur Jésus n'ont pas été négligents envers lui parce que la tempête était imprévisible et soudaine. »
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/jesus-nazareth-home/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/jesus-nazareth-home/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

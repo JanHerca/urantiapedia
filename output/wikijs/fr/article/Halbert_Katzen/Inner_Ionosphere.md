@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2012 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 Préparé par Halbert Katzen, J.D. avec des remerciements particuliers à Chris Halvorson, Ph.D., Chris Riggio et Matthew Block [Mis à jour le 15/08/09]
@@ -25,7 +40,7 @@ Cependant, à la fin des années 1980 et au début des années 1990, plus de tre
 
 Des calculs basés sur des vidéos prises de jets bleus, ainsi que d'autres recherches associées, indiquent que la condition ionique nécessaire pour créer leur qualité luminescente ne pourrait pas avoir sa source dans les nuages d'orage au-dessus desquels ils se produisent.
 
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 ## Aperçu de l'ionosphère intérieure
 
@@ -63,7 +78,7 @@ Les illustrations suivantes (et précédentes) donnent une appréciation génér
 <img src="/image/article/Halbert_Katzen/Inner_Ionosphere/atmosphere3.jpg">
 </figure>
 
-En ce qui concerne les sujets d'LUtheNEWS, les différents thèmes auront chacun leur propre ensemble de caractéristiques spécifiques. Ce sujet, bien qu'il soit opportun pour une première présentation, en est aux premiers stades de développement. Il sera mis à jour périodiquement au fur et à mesure que les scientifiques continueront de rechercher et d'analyser les phénomènes associés à ce sujet. En tant que sujet d'LUtheNEWS, l'affirmation selon laquelle une ionosphère interne existe soulève quatre questions distinctes :
+En ce qui concerne les sujets d'UBtheNEWS, les différents thèmes auront chacun leur propre ensemble de caractéristiques spécifiques. Ce sujet, bien qu'il soit opportun pour une première présentation, en est aux premiers stades de développement. Il sera mis à jour périodiquement au fur et à mesure que les scientifiques continueront de rechercher et d'analyser les phénomènes associés à ce sujet. En tant que sujet d'UBtheNEWS, l'affirmation selon laquelle une ionosphère interne existe soulève quatre questions distinctes :
 
 1. Ce n'est pas du tout une question scientifique réglée qu'une « ionosphère intérieure » existe entre la troposphère et la stratosphère.
 2. Des preuves d'activité ionique dans la région entre la troposphère et la stratosphère existaient avant 1955.
@@ -131,7 +146,7 @@ Peu importe ce que l'on croit sur les origines du Livre d'Urantia, son affirmati
 
 Les jets bleus sont l'un des nombreux types de décharges électriques dans la haute atmosphère, ou « événements lumineux transitoires » actuellement étudiés par des scientifiques en Asie et en Amérique du Nord. Les images ci-dessus ont été prises à l'aide de caméras à faible luminosité, car la plupart des phénomènes apparaissent et disparaissent beaucoup trop rapidement pour que l'œil humain puisse les capturer.
 
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Inner_Ionosphere/red_sprite.jpg">
@@ -147,9 +162,9 @@ Ce grand jet bleu, jaillissant du sommet d'un orage, a atteint une altitude sup�
 
 ## Liens externes
 
-- [Ce rapport dans LUTheNews](https://ubannotated.com/ubthenews/topics/ionosphere/)
-- [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-- [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+- [Ce rapport dans UBTheNews](https://ubannotated.com/ubthenews/topics/ionosphere/)
+- [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+- [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 - [Urantia Book 58:2](/fr/The_Urantia_Book/58#p2)
 - http://physicsweb.org/articles/news/6/3/9
 - http://news.nationalgeographic.com/news/2003/06/0625_030625_atmospherethunder.html

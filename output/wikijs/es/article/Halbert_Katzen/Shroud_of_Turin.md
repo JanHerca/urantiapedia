@@ -510,7 +510,7 @@ Según _El Libro de Urantia_, «de todos los conocimientos humanos, el que posee
 
 * [Este informe en el sitio web UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Shroud.pdf)
 * [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios Temáticos en el sitio UBTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Estudios Temáticos en el sitio UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

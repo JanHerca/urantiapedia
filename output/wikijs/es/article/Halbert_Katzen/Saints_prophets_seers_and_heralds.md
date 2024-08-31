@@ -273,7 +273,7 @@ Para una comprensión rápida y valiosa de lo que significa _sueño en el templo
 
 Para una excelente comprensión de cómo este tema se relaciona con el desarrollo de la cultura judeocristiana, aquí hay una [entrevista realizada por el profesor y conocido autor Jordan Peterson](https://bit.ly/3X2SQ0x). Comienza con el autor Brain Muraresku—_La clave de la inmoralidad_. Y luego trae al autor y profesor Carl Ruck—_El camino a Eleusis_.
 
-Alguna combinación de hipnosis y enteógenos parece estar involucrada como catalizadores en este proceso, al menos para algunos videntes hasta cierto punto. La química detrás de esto parece estar relacionada con la glándula pineal, que se relaciona con la piña y el bolso que a menudo se ven en la mano en imágenes talladas en piedra de las antiguas deidades egipcias y sumerias. (Para ejemplos de bolsos, vea el [LUtheNEWS: Informe de Gobekli Tepe](/es/article/Halbert_Katzen/Gobekli_Tepe). Para la piña, vea la anotación en [LU 49:5.19](/es/The_Urantia_Book/49#p5_19) (_comparable a los cuerpos pituitarios:_ Considere la glándula pineal en relación con esta enseñanza y cómo aparece en las tallas antiguas en las manos de las deidades y muchas otras representaciones artísticas de importancia religiosa y cultural. [link](https://ubannotated.com/ubthenews/urantiabook/papers/p049/#U49_5_18)).)
+Alguna combinación de hipnosis y enteógenos parece estar involucrada como catalizadores en este proceso, al menos para algunos videntes hasta cierto punto. La química detrás de esto parece estar relacionada con la glándula pineal, que se relaciona con la piña y el bolso que a menudo se ven en la mano en imágenes talladas en piedra de las antiguas deidades egipcias y sumerias. (Para ejemplos de bolsos, vea el [UBtheNEWS: Informe de Gobekli Tepe](/es/article/Halbert_Katzen/Gobekli_Tepe). Para la piña, vea la anotación en [LU 49:5.19](/es/The_Urantia_Book/49#p5_19) (_comparable a los cuerpos pituitarios:_ Considere la glándula pineal en relación con esta enseñanza y cómo aparece en las tallas antiguas en las manos de las deidades y muchas otras representaciones artísticas de importancia religiosa y cultural. [link](https://ubannotated.com/ubthenews/urantiabook/papers/p049/#U49_5_18)).)
 
 Las tradiciones relacionadas con el uso de sustancias psicoactivas están muy extendidas y se remontan a tiempos antiguos. A veces se requieren procesos complejos para crear el efecto. Tal vez deberíamos especular más sobre el grado en que este tipo de actividad se ha utilizado durante la antigüedad y cómo se puede utilizar de forma beneficiosa en la actualidad. Por ejemplo, se están realizando [estudios prometedores](https://en.wikipedia.org/wiki/Psilocybin_therapy) con hongos psilocibios que involucran una variedad de afecciones, incluidos pacientes con cáncer terminal.
 
@@ -450,9 +450,9 @@ De [Wiki](https://en.wikipedia.org/wiki/Instruction_of_Amenemope):
 
 ## Enlaces externos
 
-* [Este informe en la página web de LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/saints-prophets-seers-and-heralds/)
-* [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Este informe en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/saints-prophets-seers-and-heralds/)
+* [Otros informes en la página web de UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios temáticos en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

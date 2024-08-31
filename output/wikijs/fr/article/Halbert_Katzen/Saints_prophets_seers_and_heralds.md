@@ -9,10 +9,25 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
-> [Travail en cours. Révisions et extensions les plus récentes : 12/04/23.]
+> [Travail en cours. Révisions et extensions les plus récentes : 12/04/23.]
 {.is-warning}
 
 ## Introduction
@@ -55,14 +70,14 @@ Des études de références croisées sont incorporées pour aider à gérer la 
 
 ### Introduction
 
-**Nombre de fois utilisé :**
+**Nombre de fois utilisé :**
 
-- _saint :_ 0, ce qui signifie que personne n'est appelé « St. _\_\_\_\_\_ »._
-- _saints :_ 10 ; toutes les références sont incluses dans cette étude.
+- _saint :_ 0, ce qui signifie que personne n'est appelé « St. _\_\_\_\_\_ »._
+- _saints :_ 10 ; toutes les références sont incluses dans cette étude.
 
 Du dictionnaire nous avons :
 
-**Saint :** _nom_ 1. Une personne reconnue comme sainte ou vertueuse et généralement considérée comme étant au paradis après la mort. « un lieu dédié à un saint du septième siècle »
+**Saint :** _nom_ 1. Une personne reconnue comme sainte ou vertueuse et généralement considérée comme étant au paradis après la mort. « un lieu dédié à un saint du septième siècle »
 
 _Le Livre d’Urantia_ va bien au-delà de la définition du dictionnaire en fournissant un contexte historique et historique. Historiquement, l’analyse s’étend du développement évolutionnaire le plus ancien de l’homme jusqu’à la façon dont ce fondement évolutionnaire a influencé la tradition judéo-chrétienne. L’angle de la révélation d’époque inclut la distinction entre les « saints du Très-Haut » et les saints de religion de seconde main.
 
@@ -76,49 +91,49 @@ Une autre considération concernant les saints, en tant que « premiers chamans-
 
 > Le chaman était le sorcier-guérisseur le plus éminent, l’homme fétiche des cérémonies et la personnalité focale pour toutes les pratiques de la religion évolutionnaire. Dans beaucoup de groupes, le chaman était hiérarchiquement supérieur au chef de guerre, ce qui marqua le commencement de la domination de l’État par l’Église. Le chaman opérait parfois comme prêtre et même comme prêtre-roi. Plus tard, certaines tribus eurent simultanément des chamans-sorciers-guérisseurs (voyants) du type primitif et des chamans-prêtres du type apparu ultérieurement. Dans de nombreux cas, la fonction de chaman devint héréditaire. ([LU 90:1.1](/fr/The_Urantia_Book/90#p1_1))
 
-De plus, considérez cette étude de référence croisée des cas où _mystics_ est utilisé :
+De plus, considérez cette étude de référence croisée des cas où _mystics_ est utilisé :
 
-> Les grands éducateurs religieux et prophètes des temps passés n’étaient pas des mystiques outranciers. Ils étaient des hommes et des femmes connaissant Dieu et servant leur Dieu au mieux par leur ministère désintéressé auprès de leurs semblables. Jésus emmenait souvent ses apôtres à part, pendant de courtes périodes, pour méditer et prier, mais, la plupart du temps, il les maintenait en contact de service avec les multitudes. L’âme des hommes a besoin d’exercice spirituel aussi bien que de nourriture spirituelle. ([LU 91:7.2](/fr/The_Urantia_Book/91#p7_2))
+> **Les grands éducateurs religieux et prophètes des temps passés n’étaient pas des mystiques _outranciers_.** Ils étaient des hommes et des femmes connaissant Dieu et servant leur Dieu au mieux par leur ministère désintéressé auprès de leurs semblables. Jésus emmenait souvent ses apôtres à part, pendant de courtes périodes, pour méditer et prier, mais, la plupart du temps, il les maintenait en contact de service avec les multitudes. L’âme des hommes a besoin d’exercice spirituel aussi bien que de nourriture spirituelle. \[Toutes les emphases sont ajoutées.\] ([LU 91:7.2](/fr/The_Urantia_Book/91#p7_2))
 
 Cela suggère-t-il qu'ils auraient pu être des mystiques modérés ?
 
-> L’état mystique est caractérisé par une conscience diffuse, avec des ilots vivaces d’attention focalisée opérant sur un intellect relativement passif. Tout cela fait graviter la conscience vers le subconscient plutôt que vers la zone de contact spirituel, vers le superconscient. Beaucoup de mystiques ont poussé leur dissociation mentale jusqu’au niveau des manifestations mentales anormales. ([LU 100:5.9](/fr/The_Urantia_Book/100#p5_9))
+> **L’état mystique est caractérisé par une conscience diffuse, avec des ilots vivaces d’attention focalisée opérant sur un intellect relativement passif.** Tout cela fait graviter la conscience vers le subconscient plutôt que vers la zone de contact spirituel, vers le superconscient. Beaucoup de mystiques ont poussé leur dissociation mentale jusqu’au niveau des manifestations mentales anormales. ([LU 100:5.9](/fr/The_Urantia_Book/100#p5_9))
 
 Considérez la question d'un intellect passif dans le contexte du sujet endormi, associé à la production de la révélation d'Urantia.
 
-> Un borgne ne peut jamais espérer percevoir le relief d’une perspective. De même, ces borgnes, qu’ils soient scientifiques matérialistes ou mystiques et allégoristes spirituels, ne peuvent-ils avoir une vision correcte ni comprendre de façon adéquate les profondeurs véritables de la réalité universelle. Toutes les vraies valeurs de l’expérience des créatures sont cachées dans la profondeur de la récognition. ([LU 130:4.4](/fr/The_Urantia_Book/130#p4_4))
+> Un borgne ne peut jamais espérer percevoir le relief d’une perspective. **De même, ces borgnes, qu’ils soient scientifiques matérialistes ou mystiques et allégoristes spirituels, ne peuvent-ils avoir une vision correcte ni comprendre de façon adéquate les profondeurs véritables de la réalité universelle.** Toutes les vraies valeurs de l’expérience des créatures sont cachées dans la profondeur de la récognition. ([LU 130:4.4](/fr/The_Urantia_Book/130#p4_4))
 
 Et les mystiques à deux yeux, comment s'en sortent-ils ?
 
-> Ne soyez ni des mystiques passifs ni des ascètes insipides. Ne devenez pas des rêveurs et des indolents comptant nonchalamment sur une Providence fictive pour vous procurer jusqu’aux nécessités de la vie. En vérité, il faut que vous soyez doux dans vos relations avec les mortels égarés, patients dans vos rapports avec les ignorants et longanimes en cas de provocation ; mais il vous faut également être vaillants dans la défense de la droiture, puissants dans la promulgation de la vérité et dynamiques dans la prédication de cet évangile du royaume, même jusqu’aux confins de la terre. ([LU 178:1.14](/fr/The_Urantia_Book/178#p1_14))
+> **Ne soyez ni des mystiques passifs ni des ascètes insipides.** Ne devenez pas des rêveurs et des indolents comptant nonchalamment sur une Providence fictive pour vous procurer jusqu’aux nécessités de la vie. En vérité, il faut que vous soyez doux dans vos relations avec les mortels égarés, patients dans vos rapports avec les ignorants et longanimes en cas de provocation ; mais **il vous faut également être vaillants dans la défense de la droiture, puissants dans la promulgation de la vérité et dynamiques dans la prédication de cet évangile du royaume, même jusqu’aux confins de la terre.** ([LU 178:1.14](/fr/The_Urantia_Book/178#p1_14))
 
 Notez combien cette mise en garde est conforme à l'expérience des prophètes et des voyants.
 
 ### Des chamans aux saints
 
-> La magie avait une phase publique et une phase privée. Celle qu’accomplissaient le sorcier-guérisseur, le chaman ou le prêtre était supposée être destinée au bien de toute la tribu. Les sorcières, les sorciers et les magiciens dispensaient la magie privée, la magie personnelle et égoïste employée comme méthode coercitive pour amener le mal sur les ennemis. Le concept du spiritisme duel, des bons et des mauvais esprits, donna naissance aux croyances ultérieures à la magie blanche et à la magie noire. À mesure que la religion évolua, chacun appliqua le terme de magie aux opérations d’esprits étrangères à son propre culte, et l’on s’en servit aussi pour désigner les croyances plus anciennes aux fantômes. ([LU 88:6.2](/fr/The_Urantia_Book/88#p6_2))
+> La magie avait une phase publique et une phase privée. **Celle qu’accomplissaient le sorcier-guérisseur, le chaman ou le prêtre était supposée être destinée au bien de toute la tribu.** Les sorcières, les sorciers et les magiciens dispensaient la magie privée, la magie personnelle et égoïste employée comme méthode coercitive pour amener le mal sur les ennemis. Le concept du spiritisme duel, des bons et des mauvais esprits, donna naissance aux croyances ultérieures à la magie blanche et à la magie noire. À mesure que la religion évolua, chacun appliqua le terme de magie aux opérations d’esprits étrangères à son propre culte, et l’on s’en servit aussi pour désigner les croyances plus anciennes aux fantômes. ([LU 88:6.2](/fr/The_Urantia_Book/88#p6_2))
 
-> Les hommes primitifs considéraient le chaman comme un mal nécessaire ; ils le craignaient, mais ne l’aimaient pas. Ils respectaient le savoir, ils honoraient et récompensaient la sagesse. Les chamans étaient surtout des charlatans, mais la vénération du chamanisme illustre bien la prime accordée à la sagesse dans l’évolution de la race. ([LU 90:2.13](/fr/The_Urantia_Book/90#p2_13))
+> Les hommes primitifs considéraient le chaman comme un mal nécessaire ; ils le craignaient, mais ne l’aimaient pas. Ils respectaient le savoir, ils honoraient et récompensaient la sagesse. **Les chamans étaient surtout des charlatans, mais la vénération du chamanisme illustre bien la prime accordée à la sagesse dans l’évolution de la race.** ([LU 90:2.13](/fr/The_Urantia_Book/90#p2_13))
 
-> Bien que nombre d’entre eux eussent recours à ces supercheries et tromperies, leur réputation, en tant que classe, tenait en fin de compte à leur réussite apparente. Quand un chaman échouait dans ses entreprises, s’il ne pouvait présenter un alibi plausible, on le déclassait ou on le tuait. Ainsi, les chamans honnêtes périrent-ils tôt ; seuls les comédiens astucieux survivaient. ([LU 90:1.5](/fr/The_Urantia_Book/90#p1_5))
+> Bien que nombre d’entre eux eussent recours à ces supercheries et tromperies, leur réputation, en tant que classe, tenait en fin de compte à leur réussite apparente. Quand un chaman échouait dans ses entreprises, s’il ne pouvait présenter un alibi plausible, on le déclassait ou on le tuait. Ainsi, les chamans honnêtes périrent-ils tôt ; **seuls les comédiens astucieux survivaient.** ([LU 90:1.5](/fr/The_Urantia_Book/90#p1_5))
 
-> Les prêtres et sorciers-guérisseurs chamaniques devenaient souvent très riches par le cumul de leurs divers honoraires qui, ostensiblement, étaient des offrandes aux esprits. Il n’était pas rare qu’un chaman accaparât pratiquement toute la fortune matérielle de sa tribu. À la mort d’un homme riche, on avait coutume de diviser son héritage en parts égales entre le chaman et une entreprise publique ou une œuvre de charité. Cette pratique prévaut encore dans certaines parties du Tibet, où la moitié de la population masculine appartient à cette classe de non-producteurs. ([LU 90:2.11](/fr/The_Urantia_Book/90#p2_11))
+> **Les prêtres et sorciers-guérisseurs chamaniques devenaient souvent très riches par le cumul de leurs divers honoraires qui, ostensiblement, étaient des offrandes aux esprits.** Il n’était pas rare qu’un chaman accaparât pratiquement toute la fortune matérielle de sa tribu. À la mort d’un homme riche, on avait coutume de diviser son héritage en parts égales entre le chaman et une entreprise publique ou une œuvre de charité. Cette pratique prévaut encore dans certaines parties du Tibet, où la moitié de la population masculine appartient à cette classe de non-producteurs. ([LU 90:2.11](/fr/The_Urantia_Book/90#p2_11))
 
-> Les candides Tibétains ne voulurent pas abandonner entièrement leur ancienne magie et leurs charmes. L’étude du cérémonial religieux des rituels tibétains de l’époque présente révèle l’existence d’une confrérie exagérément nombreuse de prêtres aux têtes rasées qui pratiquent un rituel minutieux comportant des cloches, des incantations, de l’encens, des processions, des rosaires, des images, des charmes, des tableaux, de l’eau bénite, de somptueux vêtements et des chœurs compliqués. Ils ont des dogmes rigides et des croyances cristallisées, des rituels sacrés et des jeûnes spéciaux. Leur hiérarchie comprend des moines, des nonnes, des abbés et le Grand Lama. Ils adressent des prières à des anges, à des saints, à une Sainte Mère et à des dieux. Ils pratiquent la confession et croient au purgatoire. Leurs monastères sont très vastes et leurs cathédrales magnifiques. Ils maintiennent une interminable répétition de rites sacrés et croient que ce cérémonial procure le salut. Ils attachent des prières à un moulin et croient que sa rotation rend les suppliques efficaces. Chez nul autre peuple des temps modernes, on ne peut trouver tant d’observances provenant de tant de religions ; il est inévitable que cette liturgie cumulative finisse par devenir encombrante à l’excès et intolérablement pesante. ([LU 94:10.2](/fr/The_Urantia_Book/94#p10_2))
+> Les candides Tibétains ne voulurent pas abandonner entièrement leur ancienne magie et leurs charmes. L’étude du cérémonial religieux des rituels tibétains de l’époque présente révèle l’existence d’une confrérie exagérément nombreuse de prêtres aux têtes rasées qui pratiquent un rituel minutieux comportant des cloches, des incantations, de l’encens, des processions, des rosaires, des images, des charmes, des tableaux, de l’eau bénite, de somptueux vêtements et des chœurs compliqués. Ils ont des dogmes rigides et des croyances cristallisées, des rituels sacrés et des jeûnes spéciaux. Leur hiérarchie comprend des moines, des nonnes, des abbés et le Grand Lama. **Ils adressent des prières à des anges, à des saints, à une Sainte Mère et à des dieux.** Ils pratiquent la confession et croient au purgatoire. Leurs monastères sont très vastes et leurs cathédrales magnifiques. Ils maintiennent une interminable répétition de rites sacrés et croient que ce cérémonial procure le salut. Ils attachent des prières à un moulin et croient que sa rotation rend les suppliques efficaces. Chez nul autre peuple des temps modernes, on ne peut trouver tant d’observances provenant de tant de religions ; il est inévitable que cette liturgie cumulative finisse par devenir encombrante à l’excès et intolérablement pesante. ([LU 94:10.2](/fr/The_Urantia_Book/94#p10_2))
 
-> On supposait que les fantômes préféraient habiter un objet qui leur avait appartenu pendant leur incarnation. Cette croyance explique l’efficacité de bien des reliques modernes. Les anciens vénéraient toujours les os de leurs chefs, et nombre de personnes regardent encore les ossements de leurs saints et de leurs héros avec une crainte superstitieuse. Même aujourd’hui, on fait des pèlerinages sur la tombe de grands hommes. ([LU 88:2.1](/fr/The_Urantia_Book/88#p2_1))
+> On supposait que les fantômes préféraient habiter un objet qui leur avait appartenu pendant leur incarnation. Cette croyance explique l’efficacité de bien des reliques modernes. Les anciens vénéraient toujours les os de leurs chefs, et nombre de personnes regardent encore **les ossements de leurs saints et de leurs héros avec une crainte superstitieuse.** Même aujourd’hui, on fait des pèlerinages sur la tombe de grands hommes. ([LU 88:2.1](/fr/The_Urantia_Book/88#p2_1))
 
 > La théologie hindoue du temps présent décrit quatre niveaux descendants de déité et de divinité : ([LU 94:4.2](/fr/The_Urantia_Book/94#p4_2))
 
-> _4. *Les demi-dieux* : surhommes, semi-dieux, héros, démons, fantômes, mauvais esprits, farfadets, monstres, lutins et saints des cultes plus récents._ ([LU 94:4.7](/fr/The_Urantia_Book/94#p4_7))
+> 4. *Les demi-dieux* : surhommes, semi-dieux, héros, démons, fantômes, mauvais esprits, farfadets, monstres, lutins et **saints des cultes plus récents.** ([LU 94:4.7](/fr/The_Urantia_Book/94#p4_7))
 
-> L’initiation religieuse des jeunes romains était l’occasion de leur consécration solennelle au service de l’État. Les serments et les admissions à la citoyenneté étaient en réalité des cérémonies religieuses. Les peuples latins entretenaient des temples, des autels et des sanctuaires ; et, en cas de crise, ils consultaient les oracles. Ils conservaient les ossements des héros, et en firent autant, plus tard, pour ceux des saints chrétiens. ([LU 98:3.4](/fr/The_Urantia_Book/98#p3_4))
+> L’initiation religieuse des jeunes romains était l’occasion de leur consécration solennelle au service de l’État. Les serments et les admissions à la citoyenneté étaient en réalité des cérémonies religieuses. Les peuples latins entretenaient des temples, des autels et des sanctuaires ; et, en cas de crise, ils consultaient les oracles. **Ils conservaient les ossements des héros, et en firent autant, plus tard, pour ceux des saints chrétiens.** ([LU 98:3.4](/fr/The_Urantia_Book/98#p3_4))
 
 ### Saints de la religion de seconde main
 
 De leur vivant, les saints entretiennent une expérience de religion de seconde main qui, après leur mort, se transforme en stagnation religieuse :
 
-> La religion évolutionnaire ne prend pas de dispositions pour assurer des changements ou des révisions ; contrairement à la science, elle ne pourvoit pas à sa propre correction progressive. La religion évoluée commande le respect parce que ses fidèles croient qu’elle est *La Vérité.* « La foi transmise aux saints une fois pour toutes » doit, en théorie, être à la fois définitive et infaillible. Le culte résiste au développement parce que le véritable progrès est certain de modifier ou de détruire le culte lui-même ; c’est pourquoi la révision doit toujours lui être imposée. ([LU 92:3.4](/fr/The_Urantia_Book/92#p3_4))
+> La religion évolutionnaire ne prend pas de dispositions pour assurer des changements ou des révisions ; contrairement à la science, elle ne pourvoit pas à sa propre correction progressive. La religion évoluée commande le respect parce que ses fidèles croient qu’elle est *La Vérité.* **« La foi transmise aux saints une fois pour toutes » doit, en théorie, être à la fois définitive et infaillible.** Le culte résiste au développement parce que le véritable progrès est certain de modifier ou de détruire le culte lui-même ; c’est pourquoi la révision doit toujours lui être imposée. ([LU 92:3.4](/fr/The_Urantia_Book/92#p3_4))
 
 La phrase citée ci-dessus vient de [Jude](/fr/Bible/Jude/1) :
 
@@ -132,13 +147,13 @@ La phrase citée ci-dessus vient de [Jude](/fr/Bible/Jude/1) :
 
 L'effusion de l'Esprit de Vérité à la Pentecôte a puissamment contribué à la diffusion du message de l'Évangile. Elle a créé une nouvelle source de puissance spirituelle pouvant être utilisée pour le bien ou pour le mal. La combinaison totale de cette nouvelle énergie spirituelle et de circonstances extraordinaires a suralimenté et propagé l'expérience de la religion de seconde main en tant qu'expérience chrétienne.
 
-> Durant ces sombres siècles de désespoir, la religion redevint pratiquement de seconde main. Les individus étaient à peu près perdus devant l’autorité, la tradition et la mainmise de l’Église qui s’étendait sur tout. Une nouvelle menace spirituelle s’éleva par la création d’une galaxie de « saints » censés avoir une influence spéciale auprès des tribunaux divins ; en conséquence, si l’on savait faire efficacement appel à eux, ils devaient pouvoir intercéder en faveur des hommes auprès des Dieux. ([LU 195:4.2](/fr/The_Urantia_Book/195#p4_2))
+> Durant ces sombres siècles de désespoir, la religion redevint pratiquement de seconde main. Les individus étaient à peu près perdus devant l’autorité, la tradition et la mainmise de l’Église qui s’étendait sur tout. **Une nouvelle menace spirituelle s’éleva par la création d’une galaxie de « saints » censés avoir une influence spéciale auprès des tribunaux divins** ; en conséquence, si l’on savait faire efficacement appel à eux, ils devaient pouvoir intercéder en faveur des hommes auprès des Dieux. ([LU 195:4.2](/fr/The_Urantia_Book/195#p4_2))
 
-> Le monde a besoin de plus de religion de première main. Même le christianisme — la meilleure religion du vingtième siècle — n’est pas seulement une religion *à propos* de Jésus, mais il est largement une religion que les hommes expérimentent de seconde main. Ils prennent leur religion intégralement telle qu’elle leur est transmise par leurs instructeurs religieux reconnus. De quel réveil le monde ferait l’expérience si seulement il pouvait voir Jésus tel qu’il a réellement vécu sur terre et connaitre de première main ses enseignements donnant la vie ! Des mots décrivant de belles choses ne peuvent passionner autant que la vue de ces choses ; les mots d’un crédo ne peuvent pas non plus inspirer les âmes humaines comme l’expérience de connaitre la présence de Dieu. Cependant, la foi attentive gardera toujours ouverte la porte d’espérance de l’âme humaine pour laisser entrer les éternelles réalités spirituelles des valeurs divines des mondes de l’au-delà. ([LU 195:9.8](/fr/The_Urantia_Book/195#p9_8))
+> **Le monde a besoin de plus de religion de première main. Même le christianisme — la meilleure religion du vingtième siècle — n’est pas seulement une religion *à propos* de Jésus, mais il est largement une religion que les hommes expérimentent de seconde main. Ils prennent leur religion intégralement telle qu’elle leur est transmise par leurs instructeurs religieux reconnus.** De quel réveil le monde ferait l’expérience si seulement il pouvait voir Jésus tel qu’il a réellement vécu sur terre et connaitre de première main ses enseignements donnant la vie ! Des mots décrivant de belles choses ne peuvent passionner autant que la vue de ces choses ; les mots d’un crédo ne peuvent pas non plus inspirer les âmes humaines comme l’expérience de connaitre la présence de Dieu. Cependant, la foi attentive gardera toujours ouverte la porte d’espérance de l’âme humaine pour laisser entrer les éternelles réalités spirituelles des valeurs divines des mondes de l’au-delà. ([LU 195:9.8](/fr/The_Urantia_Book/195#p9_8))
 
 Considérez qu'une fois que les saints de la religion de seconde main ont cristallisé la culture, alors les prophètes sont nécessaires pour rétablir l'équilibre et assurer le progrès. En d'autres termes, lorsque les dirigeants religieux sont égarés par des motivations égoïstes, alors les dirigeants religieux finissent par faire surface, exposer le problème et travailler à le corriger.
 
-> Michée critiqua « les chefs qui jugent pour des présents, les prêtres qui enseignent pour un salaire et les prophètes qui devinent pour de l’argent. » Il enseigna la venue d’un jour où l’on serait libéré des superstitions et de l’artifice de la prêtrise, en disant : « Chaque homme se reposera sous sa propre vigne et nul ne l’effrayera, car chacun vivra selon sa compréhension de Dieu. » ([LU 97:5.5](/fr/The_Urantia_Book/97#p5_5))
+> Michée critiqua « les chefs qui jugent pour des présents, les prêtres qui enseignent pour un salaire et les prophètes qui devinent pour de l’argent. » Il enseigna la venue d’un jour où l’on serait libéré des superstitions et de l’artifice de la prêtrise, en disant : « Chaque homme se reposera sous sa propre vigne et nul ne l’effrayera, **car chacun vivra selon sa compréhension de Dieu.** » ([LU 97:5.5](/fr/The_Urantia_Book/97#p5_5))
 
 Où se situe le problème aujourd'hui ? Quels sont les coûts réels de cette énergie religieuse mal dirigée ? Comment la classe des prêtres a-t-elle favorisé le développement de « faux sentiments » en les faisant passer pour des comportements de sainteté ?
 
@@ -154,9 +169,9 @@ Avec la séparation de l'Eglise et de l'Etat, les « experts » ont aussi la pos
 
 _Saints du Très-Haut_ est utilisé deux fois :
 
-> Élisabeth tenait Jean au courant des affaires de la Palestine et du monde et sa conviction croissait de plus en plus profondément que le moment approchait rapidement où l’ancien ordre de choses prendrait fin ; qu’il allait devenir l’annonciateur de l’arrivée d’un nouvel âge, « le royaume du Ciel ». Ce rude berger avait une préférence marquée pour les écrits du prophète Daniel. Il avait lu mille fois la description de la grande fresque dont Zacharie lui avait dit qu’elle représentait l’histoire des grands royaumes du monde, commençant par Babylone, puis la Perse, la Grèce et finalement Rome. Jean percevait que le monde romain était déjà composé de peuples et de races tellement polyglottes qu’il ne pourrait jamais devenir un empire fortement cimenté et fermement consolidé. Il considérait que Rome était même alors divisée en Syrie, Égypte, Palestine et autres provinces ; et à ce moment-là il lut de plus qu’« au temps de ces rois, le Dieu du Ciel établira un royaume qui ne sera jamais détruit. Et ce royaume ne sera pas laissé à d’autres peuples, mais il mettra en pièces, puis il consumera tous ces royaumes, et il subsistera pour toujours ». « Et là lui furent donnés la domination, la gloire et un royaume afin que tous les peuples, nations et langues le servent. Sa domination est une domination perpétuelle qui ne disparaitra jamais, et son royaume ne sera jamais détruit. » « Et le règne, et la domination, et la grandeur du royaume sous le Ciel entier seront donnés au peuple des saints du Très Haut, dont le royaume est un royaume sans fin, et toutes les dominations le serviront et lui obéiront. » ([LU 135:3.2](/fr/The_Urantia_Book/135#p3_2))
+> Élisabeth tenait Jean au courant des affaires de la Palestine et du monde et sa conviction croissait de plus en plus profondément que le moment approchait rapidement où l’ancien ordre de choses prendrait fin ; qu’il allait devenir l’annonciateur de l’arrivée d’un nouvel âge, « le royaume du Ciel ». Ce rude berger avait une préférence marquée pour les écrits du prophète Daniel. Il avait lu mille fois la description de la grande fresque dont Zacharie lui avait dit qu’elle représentait l’histoire des grands royaumes du monde, commençant par Babylone, puis la Perse, la Grèce et finalement Rome. Jean percevait que le monde romain était déjà composé de peuples et de races tellement polyglottes qu’il ne pourrait jamais devenir un empire fortement cimenté et fermement consolidé. Il considérait que Rome était même alors divisée en Syrie, Égypte, Palestine et autres provinces ; et à ce moment-là il lut de plus qu’« au temps de ces rois, le Dieu du Ciel établira un royaume qui ne sera jamais détruit. Et ce royaume ne sera pas laissé à d’autres peuples, mais il mettra en pièces, puis il consumera tous ces royaumes, et il subsistera pour toujours ». « Et là lui furent donnés la domination, la gloire et un royaume afin que tous les peuples, nations et langues le servent. Sa domination est une domination perpétuelle qui ne disparaitra jamais, et son royaume ne sera jamais détruit. » « **Et le règne, et la domination, et la grandeur du royaume sous le Ciel entier seront donnés au peuple des saints du Très Haut, dont le royaume est un royaume sans fin, et toutes les dominations le serviront et lui obéiront.** » ([LU 135:3.2](/fr/The_Urantia_Book/135#p3_2))
 
-> De cette manière, le royaume devint le concept d’un âge, l’idée d’une visitation future, et l’idéal de la rédemption finale des saints du Très-Haut. Les premiers chrétiens (et beaucoup trop de chrétiens ultérieurs) perdirent généralement de vue l’idée de Père-et-fils incorporée dans l’enseignement de Jésus sur le royaume, tandis qu’ils y substituaient la communauté sociale bien organisée de l’Église. En somme, l’Église devint ainsi principalement une fraternité *sociale* qui se substitua effectivement au concept et à l’idéal de Jésus d’une fraternité *spirituelle.* ([LU 170:5.15](/fr/The_Urantia_Book/170#p5_15))
+> **De cette manière, le royaume devint le concept d’un âge, l’idée d’une visitation future, et l’idéal de la rédemption finale des saints du Très-Haut.** Les premiers chrétiens (et beaucoup trop de chrétiens ultérieurs) perdirent généralement de vue l’idée de Père-et-fils incorporée dans l’enseignement de Jésus sur le royaume, tandis qu’ils y substituaient la communauté sociale bien organisée de l’Église. En somme, l’Église devint ainsi principalement une fraternité *sociale* qui se substitua effectivement au concept et à l’idéal de Jésus d’une fraternité *spirituelle.* ([LU 170:5.15](/fr/The_Urantia_Book/170#p5_15))
 
 Considérez également cette étude de référence croisée : [Le(s) Très-Haut(s) règle(nt)](/fr/article/Halbert_Katzen/Most_Highs_rule).
 
@@ -170,9 +185,9 @@ Mais cela signifie-t-il que les saints du Très-Haut, les prophètes et les voya
 
 Dans quelle mesure les gens ont-ils des vues trop idéalistes des prophètes et des voyants qui rendraient difficile l’identification des prophètes et des voyants modernes ?
 
-> Il était bien naturel que le culte du renoncement et de l’humiliation prêtât attention aux satisfactions sexuelles. Le culte de la continence prit naissance comme un rituel parmi les soldats qui allaient se lancer dans la bataille ; plus tard, il devint la pratique des « saints ». Ce culte tolérait le mariage en le considérant comme un mal moindre que la fornication. Nombres de grandes religions du monde ont été défavorablement influencées par cet ancien culte, mais aucune plus notoirement que le christianisme. L’apôtre Paul en était un adepte, et ses vues personnelles se reflètent dans les enseignements qu’il introduisit dans la théologie chrétienne : « Il est bon pour un homme de ne pas toucher de femme. » « Je voudrais que tous les hommes fussent comme moi-même. » « Je dis donc aux célibataires et aux veuves de demeurer comme moi. » Paul savait bien que ces enseignements ne faisaient pas partie de l’évangile de Jésus, et il le reconnait en disant : « Je dis ceci par permission et non par commandement. » Mais ce culte conduisit Paul à mépriser les femmes. Le malheur est que ses opinions personnelles ont longtemps influencé les enseignements d’une grande religion du monde. Si le conseil de l’éducateur fabricant de tentes était littéralement et universellement suivi, la race humaine prendrait fin d’une manière soudaine et peu glorieuse. En outre, le fait de mêler une religion aux anciens cultes de continence conduit directement à la guerre contre le mariage et le foyer, qui sont les véritables fondations de la société et les institutions de base du progrès humain. Il n’y a rien d’étonnant à ce que ces croyances aient favorisé la formation de prêtrises pratiquant le célibat dans les nombreuses religions de divers peuples. ([LU 89:3.6](/fr/The_Urantia_Book/89#p3_6))
+> Il était bien naturel que le culte du renoncement et de l’humiliation prêtât attention aux satisfactions sexuelles. **Le culte de la continence prit naissance comme un rituel parmi les soldats qui allaient se lancer dans la bataille ; plus tard, il devint la pratique des « saints ». Ce culte tolérait le mariage en le considérant comme un mal moindre que la fornication. Nombres de grandes religions du monde ont été défavorablement influencées par cet ancien culte, mais aucune plus notoirement que le christianisme. L’apôtre Paul en était un adepte, et ses vues personnelles se reflètent dans les enseignements qu’il introduisit dans la théologie chrétienne : « Il est bon pour un homme de ne pas toucher de femme. » « Je voudrais que tous les hommes fussent comme moi-même. » « Je dis donc aux célibataires et aux veuves de demeurer comme moi. » Paul savait bien que ces enseignements ne faisaient pas partie de l’évangile de Jésus, et il le reconnait en disant : « Je dis ceci par permission et non par commandement. »** Mais ce culte conduisit Paul à mépriser les femmes. Le malheur est que ses opinions personnelles ont longtemps influencé les enseignements d’une grande religion du monde. Si le conseil de l’éducateur fabricant de tentes était littéralement et universellement suivi, la race humaine prendrait fin d’une manière soudaine et peu glorieuse. En outre, le fait de mêler une religion aux anciens cultes de continence conduit directement à la guerre contre le mariage et le foyer, qui sont les véritables fondations de la société et les institutions de base du progrès humain. Il n’y a rien d’étonnant à ce que ces croyances aient favorisé la formation de prêtrises pratiquant le célibat dans les nombreuses religions de divers peuples. ([LU 89:3.6](/fr/The_Urantia_Book/89#p3_6))
 
-> Ils étaient tous d’accord sur le point qu’une purge radicale ou une discipline purifiante devaient nécessairement précéder l’établissement du nouveau royaume sur terre. Ceux qui s’attachaient à la lettre enseignaient qu’une guerre mondiale s’ensuivrait et que tous les incroyants seraient anéantis, tandis que les fidèles remporteraient une victoire universelle et éternelle. Les spiritualistes enseignaient que le royaume serait inauguré par le grand jugement de Dieu qui relèguerait les impies à leur châtiment bien mérité et à leur destruction finale, et qui élèverait en même temps les saints croyants du peuple élu à de hautes places d’honneur et d’autorité auprès du Fils de l’Homme, lequel règnerait au nom de Dieu sur les nations rachetées. Ce dernier groupe croyait même que beaucoup de pieux Gentils pourraient être admis dans la communauté du nouveau royaume. ([LU 135:5.5](/fr/The_Urantia_Book/135#p5_5))
+> Ils étaient tous d’accord sur le point qu’une purge radicale ou une discipline purifiante devaient nécessairement précéder l’établissement du nouveau royaume sur terre. Ceux qui s’attachaient à la lettre enseignaient qu’une guerre mondiale s’ensuivrait et que tous les incroyants seraient anéantis, tandis que les fidèles remporteraient une victoire universelle et éternelle. Les spiritualistes enseignaient que le royaume serait inauguré par le grand **jugement de Dieu qui relèguerait les impies à leur châtiment bien mérité et à leur destruction finale, et qui élèverait en même temps les saints croyants du peuple élu à de hautes places d’honneur et d’autorité auprès du Fils de l’Homme**, lequel règnerait au nom de Dieu sur les nations rachetées. Ce dernier groupe croyait même que beaucoup de pieux Gentils pourraient être admis dans la communauté du nouveau royaume. ([LU 135:5.5](/fr/The_Urantia_Book/135#p5_5))
 
 ## Prophètes
 
@@ -180,15 +195,15 @@ Dans quelle mesure les gens ont-ils des vues trop idéalistes des prophètes et 
 
 La description des prophètes dans le Livre d'Urantia va bien au-delà de la définition du dictionnaire. Les définitions du dictionnaire pour prophète, prophétie et prophétie révèlent que le rôle personnel ne mentionne rien de spécifique sur l'avenir, alors que la chose et l'acte spécifient une telle caractéristique.
 
-**Prophète :** _nom_ 1. Une personne considérée comme un enseignant inspiré ou un proclamateur de la volonté de Dieu. « Le prophète de l'Ancien Testament, Jérémie » 2. (dans l'usage chrétien) les livres d'Isaïe, Jérémie, Ézéchiel, Daniel et les douze petits prophètes.
+**Prophète :** _nom_ 1. Une personne considérée comme un enseignant inspiré ou un proclamateur de la volonté de Dieu. « Le prophète de l'Ancien Testament, Jérémie » 2. (dans l'usage chrétien) les livres d'Isaïe, Jérémie, Ézéchiel, Daniel et les douze petits prophètes.
 
-**Prophétie :** _nom_ une prédiction.
+**Prophétie :** _nom_ une prédiction.
 
-**Prophétiser :** _verbe_ dire que (une chose spécifiée) se produira dans le futur.
+**Prophétiser :** _verbe_ dire que (une chose spécifiée) se produira dans le futur.
 
 En comparaison et conformément à l'usage du _Livre d'Urantia_, le rôle d'un _voyant_ est de faire des prédictions sur l'avenir.
 
-**Voyant** : _nom_ 1. Une personne qui est censée être capable, grâce à une perspicacité surnaturelle, de voir ce que l'avenir lui réserve. « Un voyant avait prédit que le comte assumerait le trône » 2. ARCHAÏQUE une personne qui voit quelque chose de spécifié. « Un voyant de l'avenir »
+**Voyant** : _nom_ 1. Une personne qui est censée être capable, grâce à une perspicacité surnaturelle, de voir ce que l'avenir lui réserve. « Un voyant avait prédit que le comte assumerait le trône » 2. ARCHAÏQUE une personne qui voit quelque chose de spécifié. « Un voyant de l'avenir »
 
 Pourquoi cette absence flagrante de toute référence à la prédiction dans la définition de _prophète_ ? Cela laisse sans doute la porte ouverte à ceux qui critiquent sans faire de prédictions spécifiques sur les conséquences inévitables qui accompagnent l'échec à corriger un mauvais comportement. De plus, les rôles des voyants et des prophètes peuvent être plus facilement distingués si nous respectons la définition limitée d'un prophète.
 
@@ -202,9 +217,9 @@ L'expression _liberté d'expression_ est utilisée deux fois :
 
 > L’évolution d’une forme pratique et efficace de gouvernement représentatif comporte les dix étapes ou stades suivants : ([LU 71:2.9](/fr/The_Urantia_Book/71#p2_9))
 
-> _2. *La liberté mentale.* À moins qu’une population libre ne soit éduquée — qu’on lui ait appris à penser intelligemment et à faire des projets sagement — la liberté fait généralement plus de mal que de bien._ ([LU 71:2.11](/fr/The_Urantia_Book/71#p2_11))
+> 2. *La liberté mentale.* À moins qu’une population libre ne soit éduquée — qu’on lui ait appris à penser intelligemment et à faire des projets sagement — la liberté fait généralement plus de mal que de bien. ([LU 71:2.11](/fr/The_Urantia_Book/71#p2_11))
 
-> _4. *La liberté de parole.* Un gouvernement représentatif est impensable sans la possibilité pour les aspirations et opinions humaines de s’exprimer librement sous toutes les formes._ ([LU 71:2.13](/fr/The_Urantia_Book/71#p2_13))
+> 4. *La liberté de parole.* Un gouvernement représentatif est impensable sans la possibilité pour les aspirations et opinions humaines de s’exprimer librement sous toutes les formes. ([LU 71:2.13](/fr/The_Urantia_Book/71#p2_13))
 
 > De nouvelles difficultés apparurent quand le roi Achab essaya d’acheter les terres à Naboth. Sa femme phénicienne imita la signature d’Achab sur les documents ordonnant la confiscation de la terre de Naboth accusé d’avoir blasphémé les noms « d’Élohim et du roi. » Naboth et ses fils furent rapidement mis à mort. L’énergique Élie apparut sur la scène accusant Achab du meurtre des Naboth. C’est ainsi qu’Élie, l’un des plus grands prophètes, commença son enseignement comme défenseur des anciennes mœurs concernant les terres, en opposition avec le comportement des Baalim vendeurs de terres et avec la tentative des villes pour dominer le pays. Mais la réforme n’aboutit pas avant le moment où le grand propriétaire terrien, Jéhu, joignit ses forces à celle du roitelet nomade Jonadab pour détruire les prophètes (agents immobiliers) de Baal à Samarie.
 > 
@@ -246,11 +261,11 @@ En ce qui concerne le fait qu'un prophète soit un « enseignant inspiré ou un 
 
 Cette section comprend les dix références (cinq chacune) à _voyant(s)._
 
-**Voyant** : _nom_ 1. Une personne qui est censée être capable, grâce à une perspicacité surnaturelle, de voir ce que l'avenir lui réserve. « Un voyant avait prédit que le comte assumerait le trône » 2. ARCHAÏQUE une personne qui voit quelque chose de spécifié. « Un voyant de l'avenir »
+**Voyant** : _nom_ 1. Une personne qui est censée être capable, grâce à une perspicacité surnaturelle, de voir ce que l'avenir lui réserve. « Un voyant avait prédit que le comte assumerait le trône » 2. ARCHAÏQUE une personne qui voit quelque chose de spécifié. « Un voyant de l'avenir »
 
 ### Évolution, rébellion et enthéogènes
 
-**Enthéogène :** _nom_
+**Enthéogène :** _nom_
 
 1. Une substance psychoactive, généralement dérivée de plantes ou de champignons, mais également des sécrétions d'animaux tels que les crapauds, qui est ingérée par un chaman ou un autre participant à un rituel afin de produire des visions ou d'obtenir une vision mystique.
 2. Une substance psychoactive utilisée dans le but d'induire une expérience mystique ou spirituelle.
@@ -273,7 +288,7 @@ Pour une compréhension rapide et précieuse de ce que signifie _temple sleep_, 
 
 Pour une excellente compréhension de la façon dont ce sujet se rapporte au développement de la culture judéo-chrétienne, voici une [interview du professeur et auteur bien connu Jordan Peterson](https://bit.ly/3X2SQ0x). Il commence avec l'auteur Brain Muraresku—_The Immorality Key_. Puis il fait intervenir l'auteur et professeur Carl Ruck—_The Road to Eleusis_.
 
-Une certaine combinaison d'hypnose et d'enthéogènes semble être impliquée comme catalyseurs dans ce processus, du moins pour certains voyants dans une certaine mesure. La chimie derrière cela semble liée à la glande pinéale, qui est liée à la pomme de pin et au sac à main souvent vu tenu en main sur les images sculptées dans la pierre des divinités égyptiennes et sumériennes antiques. (Pour des exemples de sacs à main, voir le [LUtheNEWS : Rapport de Gobekli Tepe](/fr/article/Halbert_Katzen/Gobekli_Tepe). Pour la pomme de pin, voir l'annotation à [LU 49:5.19](/fr/The_Urantia_Book/49#p5_19) (_comparable aux corps pituitaires :_ Considérez la glande pinéale en relation avec cet enseignement et comment elle apparaît dans les sculptures anciennes dans les mains des divinités et de nombreuses autres représentations artistiques d'importance religieuse et culturelle. [lien](https://ubannotated.com/ubthenews/urantiabook/papers/p049/#U49_5_18)).)
+Une certaine combinaison d'hypnose et d'enthéogènes semble être impliquée comme catalyseurs dans ce processus, du moins pour certains voyants dans une certaine mesure. La chimie derrière cela semble liée à la glande pinéale, qui est liée à la pomme de pin et au sac à main souvent vu tenu en main sur les images sculptées dans la pierre des divinités égyptiennes et sumériennes antiques. (Pour des exemples de sacs à main, voir le [UBtheNEWS : Rapport de Gobekli Tepe](/fr/article/Halbert_Katzen/Gobekli_Tepe). Pour la pomme de pin, voir l'annotation à [LU 49:5.19](/fr/The_Urantia_Book/49#p5_19) (_comparable aux corps pituitaires :_ Considérez la glande pinéale en relation avec cet enseignement et comment elle apparaît dans les sculptures anciennes dans les mains des divinités et de nombreuses autres représentations artistiques d'importance religieuse et culturelle. [lien](/fr/The_Urantia_Book/49#p5_18)).)
 
 Les traditions liées à l'utilisation de substances psychoactives sont très répandues et remontent à l'Antiquité. Des processus complexes sont parfois nécessaires pour créer l'effet. Peut-être devrions-nous spéculer davantage sur le degré auquel ce type d'activité a été utilisé dans l'Antiquité et sur la manière dont il peut être utilisé de manière bénéfique aujourd'hui. Par exemple, [des études prometteuses](https://en.wikipedia.org/wiki/Psilocybin_therapy) sont menées sur des champignons à psilocybine impliquant diverses pathologies, notamment des patients atteints de cancer en phase terminale.
 
@@ -334,7 +349,7 @@ En revanche, notez comment cette révélation d’époque nous guide vers des pa
 > 
 > Peu importent l’histoire naturelle spéciale d’une planète individuelle et le fait qu’un royaume ait été entièrement loyal, souillé de mal ou maudit par le péché — peu importent les antécédents — tôt ou tard, la grâce de Dieu et le ministère des anges feront arriver le jour de la venue des Fils Instructeurs de La Trinité ; et leur départ à la suite de leur mission finale inaugurera l’âge superbe de lumière et de vie.
 > 
-> Tous les mondes de Satania peuvent partager l’espérance de celui qui écrivit : « Néanmoins et selon Sa promesse, nous attendons de nouveaux cieux et une nouvelle terre où habite la droiture. Ainsi donc, bienaimés, voyant que vous espérez ces choses, veillez à ce qu’Il vous trouve en paix, sans tache et irréprochables. » ([LU 52:7.11-15](/fr/The_Urantia_Book/52#p7_11))
+> Tous les mondes de Satania \[dans notre région du cosmos\] peuvent partager l’espérance de celui qui écrivit : « Néanmoins et selon Sa promesse, nous attendons de nouveaux cieux et une nouvelle terre où habite la droiture. Ainsi donc, bienaimés, voyant que vous espérez ces choses, veillez à ce qu’Il vous trouve en paix, sans tache et irréprochables. » \[Note : Melchisédek signifie « roi de justice ». Cela pourrait-il faire allusion au retour de Melchisédek ?\] ([LU 52:7.11-15](/fr/The_Urantia_Book/52#p7_11))
 
 Le _vieux voyant_ cité ci-dessus est Isaïe. Voici quelques-uns des versets qui précèdent ce qui a été cité :
 
@@ -352,11 +367,11 @@ Le _vieux voyant_ cité ci-dessus est Isaïe. Voici quelques-uns des versets qui
 > « Moi qui fais enfanter, fermerai-je la matrice ? » dit votre Dieu.
 > **<sup><small>10</small></sup>** « Réjouissez-vous avec Jérusalem,
 > Et soyez heureux avec elle, vous tous qui l'aimez;
->Réjouissez-vous de joie avec elle, vous tous qui pleurez sur elle ;
+> Réjouissez-vous de joie avec elle, vous tous qui pleurez sur elle ;
 > **<sup><small>11</small></sup>** Afin que vous puissiez nourrir et être rassasiés
->Avec la consolation de son sein,
+> Avec la consolation de son sein,
 > Pour que vous puissiez boire profondément et être ravis
->Avec l'abondance de sa gloire. »
+> Avec l'abondance de sa gloire. »
 > 
 > **<sup><small>12</small></sup>** Car ainsi parle l'Éternel : Voici, je ferai couler sur elle la paix comme un fleuve,
 > Et la gloire des nations comme un torrent qui coule.
@@ -367,8 +382,8 @@ Le _vieux voyant_ cité ci-dessus est Isaïe. Voici quelques-uns des versets qui
 > Alors je te consolerai;
 > Et vous serez consolés à Jérusalem. » …
 > 
-> **<sup><small>22</small></sup>** « Car, comme les nouveaux cieux et la nouvelle terre
->Ce que je ferai restera devant moi, dit l'Éternel,
+> **<sup><small>22</small></sup>** « Car, comme les nouveaux cieux et la nouvelle terre
+> Ce que je ferai restera devant moi, dit l'Éternel,
 > « Ainsi subsisteront ta descendance et ton nom.
 > **<sup><small>22</small></sup>** Et il arrivera
 > Que d'une Nouvelle Lune à l'autre,
@@ -438,7 +453,7 @@ Il convient de noter une publication de 1933 de James Henry Breasted intitulée 
 
 De [Wiki](https://en.wikipedia.org/wiki/Instruction_of_Amenemope):
 
-L'Instruction d'Amenemope (également appelée Sagesse d'Amenemopet) est une œuvre littéraire composée dans l'Égypte ancienne, probablement pendant la période ramesside (environ 1300-1075 av. J.-C.) ; elle contient trente chapitres de conseils pour une vie réussie, apparemment écrits par le scribe Amenemope fils de Kanakht en guise d'héritage pour son fils. Produit caractéristique de l'« Âge de la piété personnelle » du Nouvel Empire, l'œuvre reflète les qualités intérieures, les attitudes et les comportements nécessaires pour une vie heureuse face à des circonstances sociales et économiques de plus en plus difficiles. Elle est largement considérée comme l'un des chefs-d'œuvre de la littérature de sagesse du Proche-Orient ancien et a suscité un intérêt particulier chez les érudits modernes en raison de sa relation avec le Livre des Proverbes biblique. …
+***L'Instruction d'Amenemope*** (également appelée Sagesse d'Amenemopet) est une œuvre littéraire composée dans l'Égypte ancienne, probablement pendant la période ramesside (environ 1300-1075 av. J.-C.) ; elle contient trente chapitres de conseils pour une vie réussie, apparemment écrits par le scribe Amenemope fils de Kanakht en guise d'héritage pour son fils. Produit caractéristique de l'« Âge de la piété personnelle » du Nouvel Empire, l'œuvre reflète les qualités intérieures, les attitudes et les comportements nécessaires pour une vie heureuse face à des circonstances sociales et économiques de plus en plus difficiles. Elle est largement considérée comme l'un des chefs-d'œuvre de la littérature de sagesse du Proche-Orient ancien et a suscité un intérêt particulier chez les érudits modernes en raison de sa relation avec le Livre des Proverbes biblique. …
 > 
 > C’est \[Adolph\] Erman qui a utilisé _Amenemope_ pour corriger une lecture difficile dans le texte de Proverbes 22:20, où le mot hébreu _shilshom_ (« il y a trois jours ») semblait être une erreur de copiste qui ne pouvait être traduite de manière significative qu’avec difficulté. Erman a souligné que la substitution du mot similaire _sheloshim_ (« trente ») avait non seulement du sens dans le contexte, mais produisait le parallèle étroit suivant entre les deux textes, les « trente paroles » maintenant rétablies dans Proverbes 22:20 correspondant exactement aux trente chapitres numérotés dans _Amenemope_ :
 > 
@@ -450,9 +465,24 @@ L'Instruction d'Amenemope (également appelée Sagesse d'Amenemopet) est une œu
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/saints-prophets-seers-and-heralds/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/saints-prophets-seers-and-heralds/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,12 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
 ## Réflexions générales
 
-**Rôles et relations :**
+**Rôles et relations :**
 
 Perspective éditoriale :
 
@@ -47,7 +62,7 @@ En 2017, lorsque ce manuel d'étude a été préparé, le titre reflétait une a
 Au cours des cinq dernières années, les tensions culturelles et politiques liées à la sexualité ont augmenté et ont présenté de nouveaux problèmes à résoudre. Pour certains, les efforts organisés pour normaliser une idéologie transgenre sont désormais au premier plan des agendas politiques, éducatifs et sportifs. En 2022, les parents aux États-Unis luttent pour reprendre le contrôle de l'éducation de leurs enfants, tandis que les amateurs de sport luttent pour préserver l'intégrité biologique des compétitions sportives.
 
 La culture du Livre d'Urantia n'est pas à l'abri de ces courants sociaux destructeurs et diviseurs. Développer une réputation qui nous distingue de l'idéologie transgenre démontrerait une qualité de leadership culturel qui honore les révélateurs et les enseignements du Livre d'Urantia.
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 ## Idéologie transgenre
 
@@ -61,19 +76,19 @@ Cette révélation historique fournit à la fois une orientation directe et un e
 
 > Dans l’ère industrielle et urbaine contemporaine, l’institution du mariage évolue selon de nouvelles lignes économiques. La vie de famille devient de plus en plus onéreuse, et les enfants, qui étaient autrefois un actif, sont devenus un passif économique. Mais la sécurité de la civilisation, elle-même, repose encore sur la bonne volonté croissante de chaque génération à investir ses moyens dans le bienêtre de la prochaine génération et des suivantes. Toute tentative pour transférer la responsabilité parentale à l’État ou à l’Église se révèlera fatale pour le bienêtre et le progrès de la civilisation. ([LU 84:7.27](/fr/The_Urantia_Book/84#p7_27))
 
-> Toute l’éducation sexuelle est donnée à la maison par les parents ou les gardiens légaux. L’instruction morale est offerte par des maitres pendant les périodes de repos dans les ateliers-écoles, mais il n’en va pas de même pour l’éducation religieuse. On estime que celle-ci est le privilège exclusif des parents, car la religion est considérée comme faisant partie intégrante de la vie de famille. L’instruction purement religieuse n’est donnée publiquement que dans les temples de philosophie, car aucune institution exclusivement religieuse, ressemblant aux églises d’Urantia, ne s’est développée parmi ces populations. Dans leur philosophie, la religion est l’effort pour connaitre Dieu et pour manifester de l’amour à ses semblables en les servant, mais cela n’est nullement typique du statut religieux des autres nations de cette planète. Chez celle que nous étudions, la religion est si complètement une affaire de famille qu’il n’existe pas de lieux publics exclusivement consacrés à des assemblées religieuses. Pour employer le langage des Urantiens, l’Église et l’État sont entièrement séparés politiquement, mais il existe un étrange chevauchement de la religion et de la philosophie. ([LU 72:3.5](/fr/The_Urantia_Book/72#p3_5))
+> \[Extrait de « Le gouvernement sur une planète voisine ».\] Toute l’éducation sexuelle est donnée à la maison par les parents ou les gardiens légaux. L’instruction morale est offerte par des maitres pendant les périodes de repos dans les ateliers-écoles, mais il n’en va pas de même pour l’éducation religieuse. On estime que celle-ci est le privilège exclusif des parents, car la religion est considérée comme faisant partie intégrante de la vie de famille. L’instruction purement religieuse n’est donnée publiquement que dans les temples de philosophie, car aucune institution exclusivement religieuse, ressemblant aux églises d’Urantia, ne s’est développée parmi ces populations. Dans leur philosophie, la religion est l’effort pour connaitre Dieu et pour manifester de l’amour à ses semblables en les servant, mais cela n’est nullement typique du statut religieux des autres nations de cette planète. Chez celle que nous étudions, la religion est si complètement une affaire de famille qu’il n’existe pas de lieux publics exclusivement consacrés à des assemblées religieuses. Pour employer le langage des Urantiens, l’Église et l’État sont entièrement séparés politiquement, mais il existe un étrange chevauchement de la religion et de la philosophie. ([LU 72:3.5](/fr/The_Urantia_Book/72#p3_5))
 
 ### Théistement parlant
 
 L'idéologie transgenre est un blasphème.
 
-Le contexte de l’idéologie transgenre suggère que Dieu crée des identités de genre et les associe ensuite aux corps ou, au contraire, que Dieu n’est pas disposé ou capable de corriger un problème. L’idéologie transgenre exige une volonté de blasphémer. La volonté d’y aller est tentée et justifiée par l’affirmation qu’il est détestable de remettre en question et/ou de refuser de valider l’idéologie de quelqu’un souffrant de dysphorie de genre, qui prétend être maltraité lorsque ses objectifs politiques ne sont pas acceptés ou que ses relations sociales personnelles ne sont pas satisfaisantes. Telle est la nature de ce sophisme et il est fait au nom de Jésus. La « théologie » transgenre affirme que la compassion jésusonienne et la reconnaissance de chacun comme enfant de Dieu nécessitent d’embrasser a priori un concept blasphématoire de Dieu.
+Le contexte de l’idéologie transgenre suggère que Dieu crée des identités de genre et les associe ensuite aux corps ou, au contraire, que Dieu n’est pas disposé ou capable de corriger un problème. L’idéologie transgenre exige une volonté de blasphémer. La volonté d’y aller est tentée et justifiée par l’affirmation qu’il est détestable de remettre en question et/ou de ***refuser de valider l’idéologie*** de quelqu’un souffrant de dysphorie de genre, qui prétend être maltraité lorsque ses objectifs politiques ne sont pas acceptés ou que ses relations sociales personnelles ne sont pas satisfaisantes. Telle est la nature de ce sophisme et il est fait au nom de Jésus. La « théologie » transgenre affirme que la compassion jésusonienne et la reconnaissance de chacun comme enfant de Dieu nécessitent d’embrasser a priori un concept blasphématoire de Dieu.
 
-Les chrétiens et les adhérents du Livre d'Urantia font la même chose. Voici un exemple de sophisme du Livre d'Urantia. Il s'agit de tenter de justifier l'idéologie transgenre en citant > hors contexte. Littéralement, le contexte est laissé de côté pour donner l'impression que Jésus dit que les mêmes directives pour les interactions personnelles non organisées devraient être reportées en gros dans les efforts culturels organisés. Il s'agit d'un effort pour confondre la différence entre les relations personnelles, les enseignements du ministère de sensibilisation liés au « ne jugez pas » et les enseignements de sagesse de groupe liés au leadership et à la connaissance des gens par leurs fruits. ([LU 138:4.2](/fr/The_Urantia_Book/138#p4_2))
+Les chrétiens et les adhérents du _Livre d'Urantia_ font la même chose. Voici un exemple de sophisme du _Livre d'Urantia_. Il s'agit de tenter de justifier l'idéologie transgenre en citant > hors contexte. Littéralement, le contexte est laissé de côté pour donner l'impression que Jésus dit que les mêmes directives pour les interactions personnelles non organisées devraient être reportées en gros dans les efforts culturels organisés. Il s'agit d'un effort pour confondre la différence entre les relations personnelles, les enseignements du ministère de sensibilisation liés au « ne jugez pas » et les enseignements de sagesse de groupe liés au leadership et à la connaissance des gens par leurs fruits. ([LU 138:4.2](/fr/The_Urantia_Book/138#p4_2))
 
 La tactique utilisée pour réaliser le sophisme consiste simplement à introduire le matériel cité avec « Jésus a dit », en laissant de côté le contexte de l'atmosphère de fête de l'instruction.
 
-> Ils passèrent l’après-midi tous ensemble, et Jésus les instruisit pleinement au sujet de leur participation à des festivités. Il conclut ses remarques en disant : « Tous les hommes sont mes frères. Mon Père céleste ne méprise aucun être créé par nous. Le royaume des cieux est ouvert à tous les hommes et à toutes les femmes. Nul ne peut fermer la porte de la miséricorde au visage d’une âme assoiffée cherchant à y entrer. Nous nous assiérons à table avec tous ceux qui désirent entendre parler du royaume. Lorsque d’en haut mon Père céleste regarde les hommes, ils sont tous semblables. Ne refusez donc pas de rompre le pain avec un pharisien ou un pécheur, un sadducéen ou un publicain, un Romain ou un Juif, un riche ou un pauvre, un homme libre ou un esclave. La porte du royaume est grande ouverte à tous ceux qui désirent connaitre la vérité et trouver Dieu. » ([LU 138:4.2](/fr/The_Urantia_Book/138#p4_2))
+> Ils passèrent l’après-midi tous ensemble, et Jésus les instruisit pleinement au sujet de leur participation à des festivités. Il conclut ses remarques en disant : « Tous les hommes sont mes frères. Mon Père céleste ne méprise aucun être créé par nous. **Le royaume des cieux est ouvert à tous les hommes et à toutes les femmes**. \[ Notez l'affirmation du masculin et du féminin.\] Nul ne peut fermer la porte de la miséricorde au visage d’une âme assoiffée cherchant à y entrer. **Nous nous assiérons à table avec tous ceux qui désirent entendre parler du royaume**. [Notez la relation. Une personne a une réceptivité spirituelle ; l'autre personne doit être un enseignant de la vérité.] **Lorsque d’en haut mon Père céleste regarde les hommes, ils sont tous semblables**. \[Notez l’implication selon laquelle la création de différences biologiques ne limite pas l’amour de Dieu, tandis que la sagesse de Dieu fournit de manière créative le genre dans le cadre de l’expérience mortelle.\] Ne refusez donc pas de rompre le pain avec un pharisien ou un pécheur, un sadducéen ou un publicain, un Romain ou un Juif, un riche ou un pauvre, un homme libre ou un esclave. **La porte du royaume est grande ouverte à tous ceux qui désirent connaitre la vérité et trouver Dieu.** » ([LU 138:4.2](/fr/The_Urantia_Book/138#p4_2))
 
 Si les gens doivent être aimés comme des enfants de Dieu ET connus pour leurs fruits, alors une définition pratique de _volontairement stupide et cruel_ doit être établie qui ne dépasse pas la ligne du jugement spirituel et de la présomption de mauvaise intention.Sinon, la conversation devient incroyablement ludique et absurde.
 
@@ -87,15 +102,15 @@ Une idéologie qui encourage la destruction du système reproducteur est _volont
 
 Le fait de nier l'évidence, et non le doute, a ses propres conséquences spirituelles karmiques internes, en dehors des limites du discours scientifique. En revanche, tenter de normaliser culturellement une idéologie qui encourage les mineurs à mutiler leurs organes reproducteurs et à reformuler leurs fonctions hormonales associées franchit la ligne spirituelle des questions culturelles liées à l'éducation et à la science. Les gens déforment les sciences sociales de toutes sortes de manières déroutantes, manquant de sagesse dans les questions et dans l'interprétation des données. La science matérielle, d'un autre côté, ne peut pas être déformée pour soutenir l'idéologie transgenre. Il n'y a pas de spectre génétique sexuel fonctionnel. Les personnes qui persistent à dire le contraire ont besoin de nos prières personnelles et la civilisation a besoin de notre résistance aux efforts malavisés de normalisation de l'idéologie transgenre.
 
-> Je vous recommande de perdre l’habitude de toujours citer les prophètes de jadis et de louer les héros d’Israël. Au lieu de cela, aspirez à devenir des prophètes vivants du Très-Haut et des héros spirituels du royaume qui vient. Il est peut-être bon d’honorer les chefs du passé qui connaissaient Dieu, mais pourquoi, en faisant cela, sacrifieriez-vous l’expérience suprême de l’existence humaine : trouver Dieu pour vous-mêmes et le connaitre dans votre propre âme ? ([LU 155:6.7](/fr/The_Urantia_Book/155#p6_7))
+> Je vous recommande de perdre l’habitude de toujours citer les prophètes de jadis et de louer les héros d’Israël. Au lieu de cela, **aspirez à devenir des prophètes vivants du Très-Haut et des héros spirituels du royaume qui vient**. Il est peut-être bon d’honorer les chefs du passé qui connaissaient Dieu, mais pourquoi, en faisant cela, sacrifieriez-vous l’expérience suprême de l’existence humaine : trouver Dieu pour vous-mêmes et le connaitre dans votre propre âme ? ([LU 155:6.7](/fr/The_Urantia_Book/155#p6_7))
 
-> De temps à autre, de vrais prophètes et instructeurs ont surgi pour dénoncer et démasquer le chamanisme. Même les hommes rouges en voie de disparaitre eurent un prophète de cet ordre au cours du siècle dernier, Tenskwatawa le Shawnie, qui prédit l’éclipse du soleil en 1806 et dénonça les vices des hommes blancs. Beaucoup de vrais éducateurs sont apparus parmi les diverses tribus et races au cours des longs âges de l’histoire évolutionnaire. Il continuera toujours d’en apparaitre pour défier les chamans ou prêtres de toute époque qui s’opposent à l’éducation générale et tentent de contrecarrer le progrès scientifique. ([LU 90:2.9](/fr/The_Urantia_Book/90#p2_9))
+> **De temps à autre, de vrais prophètes et instructeurs ont surgi pour dénoncer et démasquer le chamanisme**. Même les hommes rouges en voie de disparaitre eurent un prophète de cet ordre au cours du siècle dernier, Tenskwatawa le Shawnie, qui prédit l’éclipse du soleil en 1806 et dénonça les vices des hommes blancs. Beaucoup de vrais éducateurs sont apparus parmi les diverses tribus et races au cours des longs âges de l’histoire évolutionnaire. **Il continuera toujours d’en apparaitre pour défier les chamans ou prêtres de toute époque qui s’opposent à l’éducation générale et tentent de contrecarrer le progrès scientifique**. ([LU 90:2.9](/fr/The_Urantia_Book/90#p2_9))
 
 L’idéologie transgenre est une attaque contre l’éducation et la science. Les enseignements du Livre d’Urantia définissent ce que signifie être un prophète et Jésus a encouragé les apôtres, au moins, à être des prophètes vivants. L’esprit de l’enseignement était-il destiné uniquement aux apôtres de Jésus ou est-il également bien appliqué aujourd’hui par les étudiants du Livre d’Urantia ?
 
 ## Passages liés à Jésus
 
-> Il s’entretint de politique et de gouvernement avec un sénateur romain, et cet unique contact avec Jésus fit une telle impression sur ce législateur que celui-ci passa le reste de sa vie à essayer vainement d’inciter ses collègues à changer le cours de la politique en vigueur en substituant l’idée d’un peuple entretenant le gouvernement à celle d’un gouvernement entretenant et nourrissant le peuple. Jésus passa une soirée avec un riche propriétaire d’esclaves et lui parla de l’homme en tant que fils de Dieu ; le lendemain, cet homme nommé Claudius affranchit cent-dix-sept esclaves. Jésus alla diner chez un médecin grec et lui exposa que ses patients avaient non seulement un corps, mais aussi un mental et une âme ; il amena ainsi cet habile praticien à donner à ses semblables des soins plus approfondis. Jésus s’entretint avec toutes sortes de gens de tous les milieux sociaux. Les bains publics furent le seul endroit de Rome qu’il ne visita pas. Il refusa d’y accompagner ses amis à cause de la promiscuité sexuelle qui y régnait. ([LU 132:4.5](/fr/The_Urantia_Book/132#p4_5))
+> ...Jésus s’entretint avec toutes sortes de gens de tous les milieux sociaux. Les bains publics furent le seul endroit de Rome qu’il ne visita pas. Il refusa d’y accompagner ses amis à cause de la promiscuité sexuelle qui y régnait. ([LU 132:4.5](/fr/The_Urantia_Book/132#p4_5))
 
 > Au cours de leur séjour à Rome, Ganid avait remarqué que Jésus refusait de les accompagner aux bains publics. Le jeune homme essaya plusieurs fois ensuite d’inciter Jésus à donner son opinion sur les relations entre sexes. Jésus répondait aux questions du garçon, mais ne paraissait jamais enclin à s’étendre sur ce sujet. Un soir, tandis qu’ils se promenaient à Corinthe, près de l’endroit où le mur de la citadelle descendait jusqu’à la mer, ils furent accostés par deux filles publiques. Ganid était à juste titre imbu de l’idée que Jésus était un homme de haut idéal abhorrant tout ce qui touchait à l’impureté ou avait un relent de mal ; en conséquence, il parla sèchement à ces femmes en les invitant grossièrement à s’en aller. Voyant cela, Jésus dit à Ganid : « Tu as de bonnes intentions, mais tu ne devrais pas te permettre de parler ainsi aux enfants de Dieu, même s’ils se trouvent être ses enfants dévoyés. Qui sommes-nous pour juger ces femmes ? Connais-tu toutes les circonstances qui les ont amenées à recourir à de pareilles méthodes pour se procurer leur subsistance ? Reste ici avec moi ; et discutons de ces choses. » Les prostituées furent encore plus étonnées que Ganid par ses paroles. ([LU 133:3.6](/fr/The_Urantia_Book/133#p3_6))
 
@@ -299,7 +314,7 @@ Les dangers de l'autosatisfaction
 > 
 > 4. Le renforcement de l’instinct parental. Chaque génération tend maintenant à éliminer du courant reproducteur de la race les individus chez qui l’instinct parental est insuffisamment fort pour assurer la procréation d’enfants — de parents en perspective pour la nouvelle génération.
 > 
-> Cependant, le foyer en tant qu’institution, l’association entre un seul homme et une seule femme, date plus spécifiquement du temps de Dalamatia, il y a environ 500 000 ans. Les habitudes monogames d’Andon et de ses descendants immédiats avaient été abandonnées longtemps auparavant. Toutefois, il n’y avait guère lieu de s’enorgueillir de la vie de famille avant l’époque des Nodites et des Adamites ultérieurs. Adam et Ève exercèrent une influence durable sur toute l’humanité. Pour la première fois, dans l’histoire du monde, on put observer des hommes et des femmes travaillant côte à côte dans le Jardin. L’idéal édénique d’une famille entière de jardiniers était une idée nouvelle sur Urantia. ([LU 84:7.3-8](/fr/The_Urantia_Book/84#p7_3))
+> Cependant, le foyer en tant qu’institution, l’association entre un seul homme et une seule femme, date plus spécifiquement du temps de Dalamatia, il y a environ 500 000 ans. Les habitudes monogames d’Andon et de ses descendants immédiats avaient été abandonnées longtemps auparavant. ... ([LU 84:7.3-8](/fr/The_Urantia_Book/84#p7_3))
 
 > La règlementation sexuelle relativement au mariage mesure :
 > 
@@ -541,7 +556,7 @@ Les dangers de l'autosatisfaction
 
 > Nous croyons qu’en présence de ces faits, les Moniteurs s’offrent volontairement pour une affectation. Il est probable que plusieurs Ajusteurs se présenteront pour un poste. Peut-être les ordres personnalisés superviseurs choisissent-ils, dans le groupe de volontaires, celui qui est le mieux qualifié pour la tâche de spiritualiser et rendre éternelle la personnalité du candidat mortel. (Pour l’affectation et le service des Ajusteurs, le sexe de la créature n’entre pas en considération.) ([LU 108:1.7](/fr/The_Urantia_Book/108#p1_7))
 
-> Il s’entretint de politique et de gouvernement avec un sénateur romain, et cet unique contact avec Jésus fit une telle impression sur ce législateur que celui-ci passa le reste de sa vie à essayer vainement d’inciter ses collègues à changer le cours de la politique en vigueur en substituant l’idée d’un peuple entretenant le gouvernement à celle d’un gouvernement entretenant et nourrissant le peuple. Jésus passa une soirée avec un riche propriétaire d’esclaves et lui parla de l’homme en tant que fils de Dieu ; le lendemain, cet homme nommé Claudius affranchit cent-dix-sept esclaves. Jésus alla diner chez un médecin grec et lui exposa que ses patients avaient non seulement un corps, mais aussi un mental et une âme ; il amena ainsi cet habile praticien à donner à ses semblables des soins plus approfondis. Jésus s’entretint avec toutes sortes de gens de tous les milieux sociaux. Les bains publics furent le seul endroit de Rome qu’il ne visita pas. Il refusa d’y accompagner ses amis à cause de la promiscuité sexuelle qui y régnait. ([LU 132:4.5](/fr/The_Urantia_Book/132#p4_5))
+> ...Jésus s’entretint avec toutes sortes de gens de tous les milieux sociaux. Les bains publics furent le seul endroit de Rome qu’il ne visita pas. Il refusa d’y accompagner ses amis à cause de la promiscuité sexuelle qui y régnait. ([LU 132:4.5](/fr/The_Urantia_Book/132#p4_5))
 
 > Au cours de leur séjour à Rome, Ganid avait remarqué que Jésus refusait de les accompagner aux bains publics. Le jeune homme essaya plusieurs fois ensuite d’inciter Jésus à donner son opinion sur les relations entre sexes. Jésus répondait aux questions du garçon, mais ne paraissait jamais enclin à s’étendre sur ce sujet. Un soir, tandis qu’ils se promenaient à Corinthe, près de l’endroit où le mur de la citadelle descendait jusqu’à la mer, ils furent accostés par deux filles publiques. Ganid était à juste titre imbu de l’idée que Jésus était un homme de haut idéal abhorrant tout ce qui touchait à l’impureté ou avait un relent de mal ; en conséquence, il parla sèchement à ces femmes en les invitant grossièrement à s’en aller. Voyant cela, Jésus dit à Ganid : « Tu as de bonnes intentions, mais tu ne devrais pas te permettre de parler ainsi aux enfants de Dieu, même s’ils se trouvent être ses enfants dévoyés. Qui sommes-nous pour juger ces femmes ? Connais-tu toutes les circonstances qui les ont amenées à recourir à de pareilles méthodes pour se procurer leur subsistance ? Reste ici avec moi ; et discutons de ces choses. » Les prostituées furent encore plus étonnées que Ganid par ses paroles.
 > 
@@ -582,11 +597,25 @@ Les dangers de l'autosatisfaction
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/undiscovered/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/undiscovered/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 
 <br>
 
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

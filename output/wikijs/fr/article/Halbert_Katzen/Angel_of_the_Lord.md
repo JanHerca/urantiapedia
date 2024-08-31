@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -20,13 +35,28 @@ Cette étude thématique s'est développée à la suite de [Permissions et limit
 
 > Ce que les récits de l’Ancien Testament décrivent comme des conversations entre Abraham et Dieu étaient en réalité des entretiens entre Abraham et Melchizédek. Les scribes prirent plus tard le mot Melchizédek pour un synonyme de Dieu. L’histoire des multiples contacts d’Abraham et de Sarah avec « l’ange du Seigneur » se réfère à leurs nombreuses visites à Melchizédek. ([LU 93:9.7](/fr/The_Urantia_Book/93#p9_7))
 
-> _6. *Noms divers.* Les Sémites n’aimaient pas prononcer le nom de leur Déité. Ils eurent donc recours, de temps à autre, à de nombreuses appellations telles que : l’Esprit de Dieu, le Seigneur, l’Ange du Seigneur, le Tout-Puissant, le Saint, le Très Haut, Adonaï, l’Ancien des Jours, le Seigneur Dieu d’Israël, le Créateur du Ciel et de la Terre, Kyrios, Jah, le Seigneur des Armées et le Père qui est aux cieux._ ([LU 96:1.9](/fr/The_Urantia_Book/96#p1_9))
+> 6. *Noms divers.* Les Sémites n’aimaient pas prononcer le nom de leur Déité. Ils eurent donc recours, de temps à autre, à de nombreuses appellations telles que : l’Esprit de Dieu, le Seigneur, l’Ange du Seigneur, le Tout-Puissant, le Saint, le Très Haut, Adonaï, l’Ancien des Jours, le Seigneur Dieu d’Israël, le Créateur du Ciel et de la Terre, Kyrios, Jah, le Seigneur des Armées et le Père qui est aux cieux. ([LU 96:1.9](/fr/The_Urantia_Book/96#p1_9))
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/angel-of-the-lord/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/angel-of-the-lord/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

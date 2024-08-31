@@ -294,7 +294,7 @@ Paper 153. The **Crisis at Capernaum** ([UB 153:0.0](/en/The_Urantia_Book/153#p0
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/crises-emergencies-exigencies/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -24,7 +39,7 @@ Ce sujet est encore loin d'être une question réglée et des mises à jour pér
 
 <figure class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Early_migration_to_the_Americas/early_migration_americas.jpg">
-<figcaption><em>Image 1. Quand les premiers autochtones sont-ils arrivés en Amérique du Nord ?</em></figcaption>
+<figcaption><em>Image 1. Quand les premiers autochtones sont-ils arrivés en Amérique du Nord ?</em></figcaption>
 </figure>
 
 Selon le Livre d'Urantia, le continent nord-américain a été habité pour la première fois il y a 85 000 ans lorsque « l'homme rouge » a traversé le pont terrestre du détroit de Béring, qui reliait alors la Sibérie et l'Alaska. Au cours des vingt dernières années, des vestiges ont été découverts sur des sites en Amérique du Nord et du Sud, indiquant que les continents américains étaient habités il y a au moins 50 000 ans. Un site au Brésil remonte à environ 60 000 ans. Avant ces découvertes, l'opinion dominante des érudits était que l'homme rouge est entré en Amérique du Nord il y a environ 12 000 ans par un pont terrestre du détroit de Béring. Ces nouvelles découvertes remettent sérieusement en cause l'ensemble du domaine de l'étude anthropologique, car la théorie actuelle « hors d'Afrique » suggère que l'homme moderne a migré hors d'Afrique il y a 60 000 à 80 000 ans.
@@ -194,24 +209,24 @@ Enfer Gap, Wyoming | 10955 | ± | 135 | AA-14434 | Frison 1999 |
 Grotte du hibou, Idaho | 10920 | Â± | 150 | WSU-1786 | Miller 1982 |
 Lac Healy, Alaska | 10500 | Â± | 280 | GX-1944 | Erlandson et al. 1991 |
 Berelekh, Sibérie | 12930 | ± | 80 | CGIN-1021 | Mochanov 1978:60 |
-Ust'Mil II (C) | 33000 | ± | 500 | LE-1000 | Mochanov 1978 : 62 |
-Ust'Mil II (C) | 30000 | ± | 500 | LE-1001 | Mochanov 1978 : 62 |
-Ust'Mil II (C) | 35400 | ± | 600 | LE-954 | Mochanov 1978 : 62 |
-Ikhine II (B) | 24600 | ± | 380 | IMSOAN-153 | Mochanov 1978 : 62 |
-Ikhine II (B) | 30200 | ± | 300 | GIN-1019 | Mochanov 1978 : 62 |
-Ikhine II (B) | 31290 | ± | 500 | GIN-1020 | Mochanov 1978 : 62 |
-Ust'Mil II (B) | 23500 | ± | 500 | LE-999 | Mochanov 1978 : 62 |
-Grotte de Diuktai (B) | 13070 | ± | 90 | LE-784 | Mochanov 1978 : 62 |
+Ust'Mil II (C) | 33000 | ± | 500 | LE-1000 | Mochanov 1978 : 62 |
+Ust'Mil II (C) | 30000 | ± | 500 | LE-1001 | Mochanov 1978 : 62 |
+Ust'Mil II (C) | 35400 | ± | 600 | LE-954 | Mochanov 1978 : 62 |
+Ikhine II (B) | 24600 | ± | 380 | IMSOAN-153 | Mochanov 1978 : 62 |
+Ikhine II (B) | 30200 | ± | 300 | GIN-1019 | Mochanov 1978 : 62 |
+Ikhine II (B) | 31290 | ± | 500 | GIN-1020 | Mochanov 1978 : 62 |
+Ust'Mil II (B) | 23500 | ± | 500 | LE-999 | Mochanov 1978 : 62 |
+Grotte de Diuktai (B) | 13070 | ± | 90 | LE-784 | Mochanov 1978 : 62 |
 Grotte de Diuktai (B) | 14000 | Â± | 100 | GIN-404 | Mochanov 1978:62 |
-Grotte de Diuktai (B) | 12690 | ± | 120 | LE-860 | Mochanov 1978 : 62 |
-Grotte de Diuktai (B) | 13110 | ± | 90 | LE-908 | Mochanov 1978 : 62 |
-Afontova Gora II | 20900 | ± | 300 | GIN-1171 | Mochanov 1978 : 62 |
-Berelekh, Sibérie | 12240 | ± | 160 | LU-149 | Mochanov 1978 : 62 |
-Berelekh, Sibérie | 10600 | ± | 90 | LE-998 | Mochanov 1978 : 62 |
-Berelekh, Sibérie | 11830 | ± | 110 | LU-147 | Mochanov 1978 : 62 |
-Ouchki (5) | 10360 | ± | 350 | MO-345 | Mochanov 1978 : 62 |
-Ouchki (7) | 13600 | ± | 250 | GIN-167 | Mochanov 1978 : 62 |
-Ouchki (7) | 14300 | ± | 200 | GIN- | Mochanov 1978 : 62 |
+Grotte de Diuktai (B) | 12690 | ± | 120 | LE-860 | Mochanov 1978 : 62 |
+Grotte de Diuktai (B) | 13110 | ± | 90 | LE-908 | Mochanov 1978 : 62 |
+Afontova Gora II | 20900 | ± | 300 | GIN-1171 | Mochanov 1978 : 62 |
+Berelekh, Sibérie | 12240 | ± | 160 | LU-149 | Mochanov 1978 : 62 |
+Berelekh, Sibérie | 10600 | ± | 90 | LE-998 | Mochanov 1978 : 62 |
+Berelekh, Sibérie | 11830 | ± | 110 | LU-147 | Mochanov 1978 : 62 |
+Ouchki (5) | 10360 | ± | 350 | MO-345 | Mochanov 1978 : 62 |
+Ouchki (7) | 13600 | ± | 250 | GIN-167 | Mochanov 1978 : 62 |
+Ouchki (7) | 14300 | ± | 200 | GIN- | Mochanov 1978 : 62 |
 
 
 ## Liens
@@ -223,9 +238,9 @@ Ouchki (7) | 14300 | ± | 200 | GIN- | Mochanov 1978 : 62 |
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](http://ubannotated.com/ubthenews/topics/adam_and_eve/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](http://ubannotated.com/ubthenews/topics/adam_and_eve/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 * *Le Livre d'Urantia* : [LU 64:6](/The_Urantia_Book/64#p6)
 * *Origines paléoaméricaines*, Smithsonian, Origines paléoaméricaines, 1999.
 	 
@@ -270,7 +285,7 @@ Ouchki (7) | 14300 | ± | 200 | GIN- | Mochanov 1978 : 62 |
 
 [^1]: [LU 64:6.5](/fr/The_Urantia_Book/64#p6_5)
 
-[^2] : Consultez les [documents 62](/fr/The_Urantia_Book/62), [63](/fr/The_Urantia_Book/63) et [64](/fr/The_Urantia_Book/64) du *Livre d'Urantia* pour une description complète de ces événements.
+[^2] : Consultez les [documents 62](/fr/The_Urantia_Book/62), [63](/fr/The_Urantia_Book/63) et [64](/fr/The_Urantia_Book/64) du *Livre d'Urantia* pour une description complète de ces événements.
 
 [^3]: http://www.answers.com/topic/native-american
 

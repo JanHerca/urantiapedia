@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -62,11 +77,11 @@ Les sept dernières occurrences sont toutes dans le contexte de personnalités, 
 
 ### Extragalactique et Galactique
 
-_Extragalactic_ apparaît une fois et dans le même paragraphe que lorsque _galactic_ est utilisé pour la première fois :
+_Extragalactic_ apparaît une fois et dans le même paragraphe que lorsque _galactic_ est utilisé pour la première fois :
 
 > Dans un avenir peu éloigné, de nouveaux télescopes révèleront, aux regards émerveillés des astronomes d’Urantia, au moins 375 millions de nouvelles galaxies dans les lointaines étendues de l’espace extérieur. En même temps, ces télescopes plus puissants découvriront que beaucoup d’univers iles que l’on situait précédemment dans l’espace extérieur font en réalité partie du système galactique d’Orvonton. Les sept superunivers sont encore en train de croitre ; la périphérie de chacun subit une expansion graduelle ; de nouvelles nébuleuses sont constamment stabilisées et organisées ; et quelques-unes des nébuleuses que les astronomes d’Urantia considèrent comme extragalactiques se trouvent en réalité aux lisières d’Orvonton et poursuivent leur voyage avec nous. ([LU 12:2.3](/fr/The_Urantia_Book/12#p2_3))
 
-Les trois utilisations supplémentaires de _galactic_ apparaissent comme des références plus générales aux univers créés :
+Les trois utilisations supplémentaires de _galactic_ apparaissent comme des références plus générales aux univers créés :
 
 > Si l’amour caractérise la divinité de la première triunité, l’archétype est la manifestation galactique de la deuxième triunité. Ce qu’est la première triunité pour les personnalités en évolution, la deuxième triunité l’est pour les univers en évolution. L’archétype et la personnalité sont deux des grandes manifestations des actes de la Source-Centre Première. Et, si difficile que ce soit de le comprendre, il n’en est pas moins vrai que le pouvoir-archétype et la personnalité aimante ne sont qu’une seule et même réalité universelle ; l’Ile du Paradis et le Fils Éternel sont des révélations coordonnées, mais antipodales, de la nature insondable du Père Universel-Force. ([LU 104:4.15](/fr/The_Urantia_Book/104#p4_15))
 
@@ -112,7 +127,7 @@ Le deuxième paragraphe est une phrase :
 
 > Depuis l’emplacement astronomique d’Urantia, en regardant la grande Voie Lactée à travers une section droite des systèmes rapprochés, on observe que les sphères d’Orvonton voyagent dans un vaste plan allongé dont la largeur est beaucoup plus grande que l’épaisseur et la longueur beaucoup plus grande que la largeur. ([LU 15:3.2](/fr/The_Urantia_Book/15#p3_2))
 
-La description devient plus précise lorsqu'elle est combinée avec cette déclaration plus bas dans la section 3 :
+La description devient plus précise lorsqu'elle est combinée avec cette déclaration plus bas dans la section 3 :
 
 > Les univers locaux sont plus près les uns des autres lorsqu’ils approchent de Havona ; les circuits sont plus nombreux et se superposent de plus en plus, couche sur couche. Mais, à plus grande distance du centre éternel, il y a de moins en moins de systèmes, de couches, de circuits et d’univers. ([LU 15:3.16](/fr/The_Urantia_Book/15#p3_16))
 
@@ -120,7 +135,7 @@ Dans le troisième paragraphe du document 15, section 3, les auteurs rétrograde
 
 > L’observation de ce qu’on appelle la Voie Lactée révèle que la densité stellaire d’Orvonton est comparativement plus forte quand on regarde le ciel dans un plan donné, tandis qu’elle diminue de chaque côté de ce plan ; le nombre d’étoiles et d’autres sphères décroit quand on s’écarte du plan principal de notre superunivers matériel. Lorsque l’angle d’observation est propice et que l’on regarde à travers le corps principal de cette région de densité maximum, on regarde en même temps vers l’univers résidentiel et le centre de toutes choses. ([LU 15:3.3](/fr/The_Urantia_Book/15#p3_3))
 
-Après les trois premières utilisations de _Milky Way_ dans les trois premiers paragraphes du document 15, section 3, les deux prochaines apparitions du terme se produisent dans la section suivante :
+Après les trois premières utilisations de _Milky Way_ dans les trois premiers paragraphes du document 15, section 3, les deux prochaines apparitions du terme se produisent dans la section suivante :
 
 > La galaxie de la Voie Lactée est composée d’un vaste nombre de nébuleuses précédemment spirales et d’autres nébuleuses, dont beaucoup ont conservé leur configuration première. Mais, à la suite de catastrophes internes et d’attractions externes, beaucoup ont subi de tels remaniements et déformations que ces énormes agrégats apparaissent comme de gigantesques masses lumineuses de soleils flamboyants, tel le Nuage de Magellan. Le type globulaire d’amas d’étoiles prédomine au voisinage des limites extérieures d’Orvonton.
 > 
@@ -136,9 +151,24 @@ Et ici, avec la dernière utilisation de _Milky Way_, la structure de la phrase 
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/milky-way-galaxy/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/milky-way-galaxy/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

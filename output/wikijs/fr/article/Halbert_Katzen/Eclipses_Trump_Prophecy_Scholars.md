@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -20,7 +35,7 @@ _Par Halbert Katzen J.D._
 
 Considérant les circonstances de deux nouvelles lunes traversant le Christ aux États-Unis, si vous voulez, pourquoi la dernière prophétie d’Isaïe est-elle ignorée ? Évidemment, les éclipses étant espacées de près de sept ans, cela convient parfaitement. Mais que sont censés faire les érudits bibliques avec « d’un sabbat à l’autre ». Si cette phrase peut être comprise, alors elle correspond parfaitement à la vision prophétique trouvée dans Matthieu.
 
-[Matthieu 24:29](/fr/Bible/Matthew/24#v29) « **_Immédiatement après ces jours de détresse_** **_le soleil s'obscurcira_**, la lune ne donnera plus sa lumière, les étoiles tomberont du ciel, et les puissances des cieux seront ébranlées. » \[C'est nous qui soulignons, bien sûr.\]
+[Matthieu 24:29](/fr/Bible/Matthew/24#v29) « **_Immédiatement après ces jours de détresse_** **_le soleil s'obscurcira_**, la lune ne donnera plus sa lumière, les étoiles tomberont du ciel, et les puissances des cieux seront ébranlées. » \[C'est nous qui soulignons, bien sûr.\]
 
 Il y a deux problèmes liés à l’interprétation de la phrase sur les sabbats. Le premier problème est que les érudits bibliques n’ont tout simplement rien de particulier à proposer. Ils n’aiment pas se concentrer sur des sujets lorsqu’il y a un gros trou dans l’analyse qui doit être comblé et qu’ils n’ont pas de moyen de le combler. C’est assez naturel.
 
@@ -36,13 +51,13 @@ _Le Livre d'Urantia_ souligne même l'importance de [Isaïe 66:22-23](/fr/Bible/
 
 > Tous les mondes de Satania peuvent partager l’espérance de celui qui écrivit : « Néanmoins et selon Sa promesse, nous attendons de nouveaux cieux et une nouvelle terre où habite la droiture. Ainsi donc, bienaimés, voyant que vous espérez ces choses, veillez à ce qu’Il vous trouve en paix, sans tache et irréprochables. » ([LU 52:7.15](/fr/The_Urantia_Book/52#p7_15))
 
-Le Livre d’Urantia encourage l’humanité à devenir spirituellement unie par la croyance dans le simple message de l’évangile. Il enseigne également que Jésus a vécu une vie parfaite, qu’il avait une relation divine préexistante avec notre univers avant de s’incarner dans la chair, qu’il a accompli des miracles, dont la résurrection de Lazare, sa résurrection le troisième jour et son ascension vers le Père, où tout pouvoir au ciel et sur terre était placé entre ses mains. Pourtant, même avec des croyances partagées de cette nature, de nombreux érudits chrétiens sont néanmoins enclins à dire que les enseignements du Livre d’Urantia « viennent du diable » et sont destinés à tromper. Et ils le font même si le Nouveau Testament n’enseigne pas que Jésus a dit que l’Ancien Testament devrait être traité comme la « Parole de Dieu » ; Jésus a enseigné : « Ne mettez pas de vin nouveau dans de vieilles outres. » Le Nouveau Testament ne dit pas non plus que Jésus a enseigné à ses disciples un futur récit écrit de sa vie qui devrait être traité comme la « Parole de Dieu ».
+_Le Livre d’Urantia_ encourage l’humanité à devenir spirituellement unie par la croyance dans le simple message de l’évangile. Il enseigne également que Jésus a vécu une vie parfaite, qu’il avait une relation divine préexistante avec notre univers avant de s’incarner dans la chair, qu’il a accompli des miracles, dont la résurrection de Lazare, sa résurrection le troisième jour et son ascension vers le Père, où tout pouvoir au ciel et sur terre était placé entre ses mains. Pourtant, même avec des croyances partagées de cette nature, de nombreux érudits chrétiens sont néanmoins enclins à dire que les enseignements du _Livre d’Urantia_ « viennent du diable » et sont destinés à tromper. Et ils le font même si le Nouveau Testament n’enseigne pas que Jésus a dit que l’Ancien Testament devrait être traité comme la « Parole de Dieu » ; Jésus a enseigné : « Ne mettez pas de vin nouveau dans de vieilles outres. » Le Nouveau Testament ne dit pas non plus que Jésus a enseigné à ses disciples un futur récit écrit de sa vie qui devrait être traité comme la « Parole de Dieu ».
 
 Pour quelqu'un qui croit en Jésus et au simple message évangélique de la paternité de Dieu et du salut par la foi, la question se pose naturellement : « La croyance en la Bible est-elle placée au-dessus de la croyance en Jésus et au message évangélique qu'il a enseigné, qui a sauvé des gens avant même qu'il ne soit crucifié ? » En tant que Juif, voire même cohen, qui croit en Jésus, cette tendance à juger la foi, les croyances et les intentions des autres en fonction de la croyance selon laquelle la Bible est la Parole de Dieu me semble incompatible avec ce que Jésus a enseigné et la façon dont il a vécu sa vie, peut-être même dangereusement incompatible.
 
-Un autre point d’accord entre Le Livre d’Urantia et la Bible concerne l’enseignement selon lequel il n’appartient pas à un être humain de dire quand Jésus reviendra. D’un autre côté, dire quand Melchizédek doit revenir ne contrevient pas à l’enseignement sur le retour de Jésus. Alors que la Bible n’a que très peu à dire sur Melchizédek, Le Livre d’Urantia consacre une cinquantaine de pages aux rôles qu’il a joués et continue de jouer dans les affaires de ce monde. En bref, il enseigne que les Melchizédeks sont un ordre supérieur d’anges, utilisés dans les situations d’urgence, lorsque les ordres inférieurs d’anges se rebellent. Fondamentalement, l’ordre Melchizédek est utilisé lorsque des personnalités célestes en position de confiance et d’autorité perdent la foi, comme cela s’est produit avec Lucifer et Satan.
+Un autre point d’accord entre _Le Livre d’Urantia_ et la Bible concerne l’enseignement selon lequel il n’appartient pas à un être humain de dire quand Jésus reviendra. D’un autre côté, dire quand Melchizédek doit revenir ne contrevient pas à l’enseignement sur le retour de Jésus. Alors que la Bible n’a que très peu à dire sur Melchizédek, _Le Livre d’Urantia_ consacre une cinquantaine de pages aux rôles qu’il a joués et continue de jouer dans les affaires de ce monde. En bref, il enseigne que les Melchizédeks sont un ordre supérieur d’anges, utilisés dans les situations d’urgence, lorsque les ordres inférieurs d’anges se rebellent. Fondamentalement, l’ordre Melchizédek est utilisé lorsque des personnalités célestes en position de confiance et d’autorité perdent la foi, comme cela s’est produit avec Lucifer et Satan.
 
-Si les enseignements sur Lucifer et Satan sont vrais, nous pourrions encore avoir besoin d'une équipe de nettoyage pour aider à rétablir l'ordre religieux dans notre monde. Et si certaines prophéties concernaient la première venue de Jésus et d'autres le retour de Melchisédek pour une deuxième fois, réfléchissez à la façon dont cela pourrait éclaircir de nombreux problèmes controversés et des mystères autrement insolubles. Pour une plongée plus profonde dans ce sujet, consultez le [LUtheNEWS : Melchisédek et le rapport sur les manuscrits de la mer Morte](/fr/article/Halbert_Katzen/Melchizedek_the_Dead_Sea_Scrolls) et l'étude thématique : [Le Messie juif est Melchisédek!?!](/fr/article/Halbert_Katzen/The_Jewish_Messiah_is_Melchizedek)
+Si les enseignements sur Lucifer et Satan sont vrais, nous pourrions encore avoir besoin d'une équipe de nettoyage pour aider à rétablir l'ordre religieux dans notre monde. Et si certaines prophéties concernaient la première venue de Jésus et d'autres le retour de Melchisédek pour une deuxième fois, réfléchissez à la façon dont cela pourrait éclaircir de nombreux problèmes controversés et des mystères autrement insolubles. Pour une plongée plus profonde dans ce sujet, consultez le [UBtheNEWS : Melchisédek et le rapport sur les manuscrits de la mer Morte](/fr/article/Halbert_Katzen/Melchizedek_the_Dead_Sea_Scrolls) et l'étude thématique : [Le Messie juif est Melchisédek!?!](/fr/article/Halbert_Katzen/The_Jewish_Messiah_is_Melchizedek)
 
 De plus, il y a des enseignements du _Livre d'Urantia_ concernant le retour de Melchizédek et/ou de Jésus en réponse à un certain type de crise mondiale qui n'est pas directement liée à la rébellion de Lucifer. Voir l'étude thématique : [Un événement de crise catastrophique mondial](/fr/article/Halbert_Katzen/A_Global_Catastrophic_Crisis_Event).
 
@@ -161,9 +176,24 @@ La deuxième éclipse aura lieu un peu plus d'une semaine après Pâques, qui to
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/main-menu/animated/more-about-and-by-halbert-katzen/eclipses-trump-prophecy-scholars/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/more-about-and-by-halbert-katzen/eclipses-trump-prophecy-scholars/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

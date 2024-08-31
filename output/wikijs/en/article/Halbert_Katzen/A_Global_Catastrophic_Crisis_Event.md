@@ -364,13 +364,13 @@ Even though it is not right for us to say when Jesus will return, does this mean
 
 > “After his elevation to settled sovereignty in a local universe a Paradise Michael is in full control of all other Sons of God functioning in his domain, and he may freely rule in accordance with his concept of the needs of his realms. A Master Son may at will vary the order of the spiritual adjudication and evolutionary adjustment of the inhabited planets. And such Sons do make and carry out the plans of their own choosing in all matters of special planetary needs, in particular regarding the worlds of their creature sojourn and still more concerning the realm of terminal bestowal, the planet of incarnation in the likeness of mortal flesh.” [UB 21:5.9](/en/The_Urantia_Book/21#p5_9)
 
-The Topical Study: [A New Heaven And A New Earth](/en/article/Halbert_Katzen/A_New_Heaven_And_A_New_Earth) further reviews how the word crisis is used in the context of a New Age. See also the cross-reference study: [Crises Emergencies Exigencies](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/crises-emergencies-exigencies/).
+The Topical Study: [A New Heaven And A New Earth](/en/article/Halbert_Katzen/A_New_Heaven_And_A_New_Earth) further reviews how the word crisis is used in the context of a New Age. See also the cross-reference study: [Crises Emergencies Exigencies](/en/article/Halbert_Katzen/Crises_Emergencies_Exigencies).
 
 ## External links
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/impending-judgement-of-the-living/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

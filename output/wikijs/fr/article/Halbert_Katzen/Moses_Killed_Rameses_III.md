@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -33,7 +48,7 @@ Les écrivains juifs étaient peut-être plus enclins à écrire d'une manière 
 Comme pour Melchisédek, on peut se demander si les écrits antérieurs contenaient des récits plus complets et plus précis, mais ceux-ci ont ensuite été modifiés sans éliminer complètement toutes les références aux faits de ce qui s'est passé. (Voir [LU 93:9.9](/fr/The_Urantia_Book/93#p9_9))
 
 Ceci étant dit, voici les recherches que j'ai menées jusqu'à présent. N'hésitez pas à me faire part de toute information supplémentaire qui, selon vous, devrait être incluse dans ce sujet de recherche.
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 ## Extrait du _Livre d'Urantia_ :
 
@@ -59,14 +74,14 @@ Il existe un certain nombre de mystères liés au règne de Ramsès III et à sa
 <img src="/image/article/Halbert_Katzen/Moses_Killed_Rameses_III/Rameses-III-top-half-300x240.jpg">
 </figure>
 
-**Extrait de Wikipédia :**
+**Extrait de Wikipédia :**
 
 Français Il existe une incertitude concernant les dates exactes du règne de [Ramsès III](https://en.wikipedia.org/wiki/Ramesses_III). Cette incertitude affecte la datation de la transition Bronze récent/Âge du Fer au Levant. Cette transition est définie par l'apparition de poteries mycéniennes LH IIIC:1b (philistines) dans la plaine côtière de Palestine, généralement supposée correspondre à l'installation des Peuples de la Mer à cet endroit lors de la 8e année de Ramsès III. Les datations au radiocarbone et d'autres preuves externes permettent de dater cette transition aussi tardivement que 1100 av. J.-C., comparée à la datation conventionnelle d'environ 1179 av. J.-C. . . . Ramsès III prétend qu'il a incorporé les Peuples de la Mer comme peuples sujets et les a installés dans le sud de Canaan, bien qu'il n'y ait aucune preuve claire à cet effet ; le pharaon, incapable d'empêcher leur arrivée progressive à Canaan, a peut-être prétendu que c'était son idée de les laisser résider sur ce territoire. Leur présence à Canaan a peut-être contribué à la formation de nouveaux États dans cette région, comme la Philistie après l’effondrement de l’Empire égyptien en Asie. Ramsès III fut également contraint de combattre les envahisseurs des tribus libyennes lors de deux grandes campagnes dans le Delta occidental de l’Égypte, respectivement en l’an 5 et en l’an 11.
 
 Avec ses 41 mètres de long, le papyrus Harris I est « le plus long papyrus connu d'Égypte, avec quelque 1 500 lignes de texte. . . . Le texte hiératique du papyrus consiste en une liste de dotations de temples et un bref résumé de tout le règne du roi Ramsès III de la vingtième dynastie d'Égypte. . . . Il a mené des guerres contre les peuples de la mer et prétend les avoir soumis et fait d'eux des sujets de l'Égypte.
 
 Un mystère que le Livre d'Urantia semble éclaircir concerne l'identité du Peuple de la Mer. L'« invasion du nombril grec » mentionnée dans 96:3.5, semble se référer au Peuple de la Mer. Extrait de Wikipedia :
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Halbert_Katzen/Moses_Killed_Rameses_III/Bichrome_pottery-300x225.jpg">
@@ -77,13 +92,13 @@ Les [Peuples de la mer](https://en.wikipedia.org/wiki/Sea_Peoples) restent non i
 … en Philistie, les producteurs de céramique mycénienne IIIC doivent être identifiés comme étant les Philistins. La conclusion logique est donc que les Philistins étaient un groupe de Grecs mycéniens qui ont immigré vers l'est… En quelques décennies… un nouveau style bichrome, connu sous le nom de « Philistin », est apparu en Philistie…
 
 Bien que l’on ait longtemps cru que le corps de Ramsès III ne présentait aucune blessure évidente, un examen récent de la momie par une équipe médico-légale allemande, diffusé dans le documentaire Ramesses: Mummy King Mystery sur la chaîne Science en 2011, a montré des bandages excessifs autour du cou. Un scanner ultérieur effectué en Égypte par Ashraf Selim et Sahar Saleem, professeurs de radiologie à l’université du Caire, a révélé que sous les bandages se trouvait une profonde blessure au couteau en travers de la gorge, suffisamment profonde pour atteindre les vertèbres. . . . Une étude ultérieure du scanner de la momie du corps de Ramsès III par Sahar Saleem a révélé que le gros orteil gauche avait probablement été coupé par un objet lourd et tranchant comme une hache. Il n’y avait aucun signe de guérison osseuse, cette blessure a donc dû se produire peu de temps avant le décès. Les embaumeurs ont placé un objet semblable à une prothèse en lin à la place de l’orteil amputé. Les embaumeurs ont placé six amulettes autour des pieds et des chevilles pour une guérison magique de la blessure pour la vie après la mort. Cette blessure supplémentaire au pied étaye l'hypothèse de l'assassinat du pharaon, probablement par les mains de plusieurs assaillants utilisant différentes armes. Avant cette découverte, on avait spéculé que Ramsès III avait été tué par des moyens qui n'auraient pas laissé de trace sur le corps. Parmi les conspirateurs se trouvaient des praticiens de la magie, qui auraient bien pu utiliser du poison.
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/ubthenews/topics/moses-killed-rameses-iii/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/ubthenews/topics/moses-killed-rameses-iii/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 * Voir aussi la page Wikipédia : [Bataille du Delta](https://en.wikipedia.org/wiki/Battle_of_the_Delta), qui traite de la bataille de Ramsès III contre les Peuples de la Mer.
 * Voir [article de la BBC](https://www.bbc.com/news/health-20755264) sur la découverte de 2011 du sort de Ramsès III.
 * Voir [Mummy King Mystery](https://bit.ly/4e4nIo8) documentaire sur la découverte de 2011 du sort de Ramsès III.
@@ -94,3 +109,18 @@ Bien que l’on ait longtemps cru que le corps de Ramsès III ne présentait auc
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

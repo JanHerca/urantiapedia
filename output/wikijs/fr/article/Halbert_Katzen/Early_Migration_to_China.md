@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Préparé par Halbert Katzen, J.D. [25/10/11]
 
@@ -26,9 +41,9 @@ De plus, une réévaluation récente des haches à main trouvées à le site ré
 
 Ces récents perfectionnements dans la technique de recherche nous fournissent une compréhension des premières migrations vers la Chine qui est plus étroitement alignée avec le récit des premières activités humaines dans la région publié en 1955 dans _Le Livre d'Urantia_.
 
-Le rapport sur les premières migrations vers la Chine est le troisième rapport d'LUtheNEWS sur l'homme primitif au cours de cette période. La lecture du [rapport sur la création du feu](/fr/article/Halbert_Katzen/Creating_fire) puis du [rapport sur les premières migrations vers la Grande-Bretagne](/fr/article/Halbert_Katzen/Early_migration_to_Britain) avant de lire ce rapport vous permet de développer une appréciation plus chronologique des rapports sur les êtres humains primitifs.
+Le rapport sur les premières migrations vers la Chine est le troisième rapport d'UBtheNEWS sur l'homme primitif au cours de cette période. La lecture du [rapport sur la création du feu](/fr/article/Halbert_Katzen/Creating_fire) puis du [rapport sur les premières migrations vers la Grande-Bretagne](/fr/article/Halbert_Katzen/Early_migration_to_Britain) avant de lire ce rapport vous permet de développer une appréciation plus chronologique des rapports sur les êtres humains primitifs.
 
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 ## Revue des premières migrations vers la Chine
 
@@ -38,7 +53,7 @@ Le rapport sur les premières migrations vers la Chine est le troisième rapport
 
 Le 11 mars 2009, Paul Rincon, journaliste scientifique pour BBC News, a publié un article qui passe en revue les résultats des recherches menées sur le site de Zhoukoudian en 2008 et fournit quelques informations historiques sur le sujet. Son article stipule :
 
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 > D'anciens fossiles humains emblématiques de Chine sont 200 000 ans plus vieux que ce que l'on pensait jusqu'à présent, selon une étude.
 > 
@@ -76,7 +91,7 @@ Il y a 850 000 ans, les tribus badoniennes supérieures commencèrent une guerre
 
 Notez que les auteurs fournissent des indices sur les endroits où nous pouvons faire de nouvelles découvertes importantes liées aux fossiles humains. Ces types d'indices apparaissent fréquemment dans le texte.
 
-Les auteurs du Livre d'Urantia définissent la race néandertalienne selon leurs propres termes, une définition différente de l'usage contemporain. Ce n'est qu'un exemple de la façon dont les auteurs nous encouragent à utiliser la terminologie de manière spécifique. (Pour soutenir l'étude de l'évolution humaine dans la perspective du Livre d'Urantia, LUtheNEWS a publié en 2011 la première taxonomie basée sur le Livre d'Urantia.)[^4]
+Les auteurs du Livre d'Urantia définissent la race néandertalienne selon leurs propres termes, une définition différente de l'usage contemporain. Ce n'est qu'un exemple de la façon dont les auteurs nous encouragent à utiliser la terminologie de manière spécifique. (Pour soutenir l'étude de l'évolution humaine dans la perspective du Livre d'Urantia, UBtheNEWS a publié en 2011 la première taxonomie basée sur le Livre d'Urantia.)[^4]
 
 Après avoir fourni cette nouvelle définition de la race néandertalienne, _Le Livre d'Urantia_ continue à décrire leurs activités et leurs migrations.
 
@@ -156,9 +171,9 @@ La théorie de la ligne Movius, qui a débuté en 1948 et a prédominé pendant 
 
 ## Liens externes
 
-- [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Peking_Man.pdf)
-- [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-- [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+- [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Peking_Man.pdf)
+- [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+- [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 - http://www.greatarchaeology.com/java_man.htm
 - http://en.wikipedia.org/wiki/Homo_erectus_pekinensis
 - http://www.newworldencyclopedia.org/entry/Java_man

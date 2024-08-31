@@ -16,9 +16,9 @@ _Por Halbert Katzen J.D._
 
 ## Observaciones introductorias
 
-Comencé el proyecto LUtheNEWS hace más de quince años. Mis informes y ayudas de estudio documentan cómo los nuevos descubrimientos y avances científicos respaldan cada vez más el relato exhaustivo de El libro de Urantia sobre la historia de nuestro planeta. En 2016, amplié el alcance del proyecto en este esfuerzo (LUannotated), un recurso para una amplia selección de ayudas de estudio de El libro de Urantia, incluidos los esfuerzos de otras personas.
+Comencé el proyecto UBtheNEWS hace más de quince años. Mis informes y ayudas de estudio documentan cómo los nuevos descubrimientos y avances científicos respaldan cada vez más el relato exhaustivo de El libro de Urantia sobre la historia de nuestro planeta. En 2016, amplié el alcance del proyecto en este esfuerzo (LUannotated), un recurso para una amplia selección de ayudas de estudio de El libro de Urantia, incluidos los esfuerzos de otras personas.
 
-Resulta que, justo cuando este proyecto estaba empezando, también me enteré de los eclipses solares totales que se cruzaron sobre Bald Knob Cross of Peace el 21 de agosto de 2017 y el 8 de abril de 2024. [Los eclipses triunfan sobre los estudiosos de la profecía](/es/article/Halbert_Katzen/Eclipses_Trump_Prophecy_Scholars/) resume cómo esto se relaciona con la profecía y las tendencias religiosas y políticas actuales. Ese artículo es el mejor lugar para comenzar.
+Resulta que, justo cuando este proyecto estaba empezando, también me enteré de los eclipses solares totales que se cruzaron sobre Bald Knob Cross of Peace el 21 de agosto de 2017 y el 8 de abril de 2024. [Los eclipses triunfan sobre los estudiosos de la profecía](/es/article/Halbert_Katzen/Eclipses_Trump_Prophecy_Scholars) resume cómo esto se relaciona con la profecía y las tendencias religiosas y políticas actuales. Ese artículo es el mejor lugar para comenzar.
 
 ## Historia de este estudio temático
 
@@ -36,7 +36,7 @@ Ese narrador y su editor tienen una opinión similar con respecto al tema de una
 
 > Ésta es la larga historia de las enseñanzas de Maquiventa Melquisedek en Urantia. Hace cerca de cuatro mil años que este Hijo de emergencia de Nebadon se donó en Urantia, y durante este tiempo las enseñanzas del «sacerdote de El Elyón, el Dios Altísimo»{1}, han penetrado en todas las razas y pueblos. Y Maquiventa consiguió el objetivo de su donación excepcional: cuando Miguel se preparó para aparecer en Urantia, el concepto de Dios estaba presente en el corazón de los hombres y las mujeres, el mismo concepto de Dios que vuelve a brillar otra vez en la experiencia espiritual viviente de los numerosos hijos del Padre Universal, a medida que viven sus enigmáticas vidas temporales en los planetas que giran en el espacio. ([LU 98:7.12](/es/The_Urantia_Book/98#p7_12))
 
-Jesús, nacido en el año 7 a. C. ([122:8.0](https://ubannotated.com/ubthenews/urantiabook/papers/p122/#U122_8_0)), cumplió 2000 años en 1994 (no hay año 0, si estás haciendo los cálculos). Eso significa que 27 años después del cumpleaños número 2000 de Jesús, en el año 2021 d. C., se cumple el 4000 aniversario de la llegada de Maquiventa Melquisedec. Curiosamente, esto coloca su 4000 aniversario prácticamente en medio de los dos eclipses solares completos.
+Jesús, nacido en el año 7 a. C. ([LU 122:8.0](/es/The_Urantia_Book/122#p8_0)), cumplió 2000 años en 1994 (no hay año 0, si estás haciendo los cálculos). Eso significa que 27 años después del cumpleaños número 2000 de Jesús, en el año 2021 d. C., se cumple el 4000 aniversario de la llegada de Maquiventa Melquisedec. Curiosamente, esto coloca su 4000 aniversario prácticamente en medio de los dos eclipses solares completos.
 
 Supongo que se produciría una visita en el área general de donde se encuentra la Cruz de la Paz de Bald Knob, si no allí específicamente. Debido a que no hubo una visita el 21 de agosto de 2017, mi siguiente mejor suposición es el 8 de abril de 2024, para una fecha específica. Pero debido a que ahora estamos entre los dos eclipses, esto parece dar un poco más de credibilidad a las especulaciones del Jefe de los Serafines sobre una visita que ocurriría «en cualquier día u hora». ¡¿Quizás cualquier día u hora en 2021!?!
 
@@ -382,7 +382,7 @@ Este pasaje también está calificado por la palabra «puede»:
 
 Carlos Leite da Silva [_Apocalipsis ahora: ¿Somos la generación del «fin de los tiempos»_](https://www.amazon.com/Apocalypse-Now-Are-Time-Generation/dp/1795061316/ref=sr_1_1?crid=1F1SKY1UMBZN3&dib=eyJ2IjoiMSJ9.5FE6X40O8RxILxYRHjldh2zdq9hFZsb61XcFEP75FMcp-_4r6OPbveBhQ8vKQcr4yf-IiMnrfzi5WRnmnA5jOA2ohmmE4he0y9GggoZPVkBJ9Pf2Kmg0-78th9EKxrytlelyMqrgNxF6l-QGuZRnNsNMt-K3gQXRClb8CwMgpEPGshBXQ6saZBmtejAAUSRPtHAqT36U ZW1t74lhi93HbSEmmY6uGkVnOTExznvgZZo.9Jl_8Vri8syHA-6wm9fIQUldLHJjDAsdYhqXT_zmqhk&dib_tag=se&keywords=apocalipsis+ahora+somos+la+generación+del+fin+de+los+tiempos&qid=1721980237&sprefix=apocalipsis+ahora+somos+la+generación+del+fin+de+los+tiempos%2Caps%2C106&sr=8-1), además de proporcionar una interpretación increíblemente convincente e intrigante de las profecías de la Biblia, también hace un hermoso trabajo al contextualizar el tema desde una perspectiva psicosocial. ¡No puedo recomendar este libro lo suficiente!
 
-[Ken Keyser](https://www.urantia.org/news/2017-10/signs-and-wonders) presentó este tema en una celebración del cumpleaños de Jesús en 2017 en el área de Chicago, que posteriormente fue publicado por la Fundación Urantia.
+[Ken Keyser](/es/article/Ken_Keyser/Signs_and_Wonders) presentó este tema en una celebración del cumpleaños de Jesús en 2017 en el área de Chicago, que posteriormente fue publicado por la Fundación Urantia.
 
 ## Descubrimientos arqueológicos relacionados con la vida de Jesús.
 
@@ -392,9 +392,9 @@ Cómo se relaciona el descubrimiento de [«La barca de Jesús»](https://squarec
 
 ## Enlaces externos
 
-* [Este informe en la página web de LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/)
-* [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Este informe en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/)
+* [Otros informes en la página web de UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios temáticos en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

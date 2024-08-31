@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2012 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Préparé par Halbert Katzen, J.D. [25/11/11]
 
@@ -22,7 +37,7 @@ Lorsque Le Livre d'Urantia fut publié en 1955, il n'existait aucune preuve arch
 
 Les auteurs du Livre d'Urantia entrent dans un certain degré de détail concernant la domestication du cheval, affirmant que celle-ci a commencé en Mésopotamie et s'est répandue dans le monde à partir de cette région. Ces informations sont présentées dans le cadre d'une étude complète de l'histoire humaine. Dans Le Livre d'Urantia, les peuples qui ont initialement domestiqué le cheval sont appelés la race « Andite ». Les citations suivantes fournissent quelques points saillants de la description du Livre d'Urantia de la domestication du cheval en rapport avec les découvertes récentes :
 
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 > « Les trois dernières vagues d’Andites ont déferlé sur la Mésopotamie entre 8000 et 6000 av. J.-C. Ces trois grandes vagues de culture ont été chassées de Mésopotamie par la pression des tribus des collines à l’est et le harcèlement des hommes des plaines à l’ouest. » [LU 78:6.1](/fr/The_Urantia_Book/78#p6_1)
 > 
@@ -152,7 +167,7 @@ En couvrant le rapport _Science_, un article de Reuters a contextualisé les ré
 > 
 > Les archéologues soupçonnent depuis un certain temps que les Botai étaient les premiers cavaliers du monde, mais les preuves antérieures ont été contestées, certains affirmant que les Botai chassaient simplement les chevaux.[^14]
 > 
-> Dans un article pour Ars Technica, Chris Lee contextualise et résume les résultats du rapport de recherche original comme suit :
+> Dans un article pour Ars Technica, Chris Lee contextualise et résume les résultats du rapport de recherche original comme suit :
 > 
 > Une récente publication dans Science jette un regard neuf sur la domestication du cheval. Les auteurs montrent que le cheval a probablement été domestiqué indépendamment des autres animaux, dans des zones situées hors du croissant fertile. ...
 >
@@ -178,13 +193,13 @@ La succession rapprochée des découvertes en Arabie Saoudite et au Kazakhstan i
 
 Pour une perspective relativement rapide du Livre d'Urantia sur le développement de la civilisation, envisagez de lire [Chapitre 81 : « Développement de la civilisation moderne ».](/fr/The_Urantia_Book/81) Pour une taxonomie de l'évolution humaine basée sur le Livre d'Urantia, voir [Eugénisme, race et _Le Livre d'Urantia_ : Annexe 1](/fr/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_1).
 
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 ## Liens externes
 
-- [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Horsing_Around.pdf)
-- [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-- [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+- [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Horsing_Around.pdf)
+- [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+- [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 - http://www.sciencedaily.com/releases/2009/03/090305141627.htm
 - http://www.geosociety.org/news/pr/06-49.htm
 - http://en.wikipedia.org/wiki/Domestication_of_the_horse
@@ -207,7 +222,7 @@ Pour une perspective relativement rapide du Livre d'Urantia sur le développemen
 
 <br>
 
-## Notes de bas de page :
+## Notes de bas de page :
 
 [^1]: Livre d'Urantia [LU 80:4.1](/fr/The_Urantia_Book/80#p4_1)
 [^2]: Livre d'Urantia [LU 80:4.3,4](/fr/The_Urantia_Book/80#p4_3)

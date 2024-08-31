@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2007 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 ## Rapport sur la domestication des animaux (informations préliminaires)
@@ -73,9 +88,9 @@ Identifier les sujets qui nécessitent la rédaction de rapports prend beaucoup 
 
 ## Liens externes
 
-- [Ce rapport dans LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Animal-Domestication.pdf)
-- [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-- [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+- [Ce rapport dans UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Animal-Domestication.pdf)
+- [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+- [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 - http://ngm.nationalgeographic.com/2011/03/taming-wild-animals/ratliff-text
 - http://www.nature.com/nature/journal/v418/n6898/full/nature01019.html
 - http://archaeology.about.com/od/dterms/a/domestication.htm tableau pour divers animaux
@@ -87,3 +102,18 @@ Identifier les sujets qui nécessitent la rédaction de rapports prend beaucoup 
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

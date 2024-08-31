@@ -87,7 +87,7 @@ This is a [30-minute video of Joseph Newman](https://bit.ly/3XkUpIH), explaining
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/undiscovered/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

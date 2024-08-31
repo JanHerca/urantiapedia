@@ -276,7 +276,7 @@ The whole section on The Second Isaiah is, of course, very much worth reviewing.
 
 * [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/the-jewish-messiah-is-melchizedek/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

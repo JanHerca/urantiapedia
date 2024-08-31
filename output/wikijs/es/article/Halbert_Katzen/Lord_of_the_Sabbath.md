@@ -112,7 +112,7 @@ La palabra «Shabat» deriva del verbo hebreo _shavat_ ([hebreo](https://en.wiki
 
 A continuación se presentan algunos extractos seleccionados:
 
-\[Nota: Según _El libro de Urantia_, el 4000 aniversario de la llegada de Maquiventa Melquisedec es 2021! Ver: [Profecía y «señales de los tiempos»/Historia de este estudio temático](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/#history).\]
+\[Nota: Según _El libro de Urantia_, el 4000 aniversario de la llegada de Maquiventa Melquisedec es 2021! Ver: [Profecía y «señales de los tiempos»/Historia de este estudio temático](/es/article/Halbert_Katzen/Prophecy_and_signs_of_the_times).\]
 
 **Sábado Milenial**
 
@@ -144,9 +144,9 @@ Contando desde la [luna nueva](https://en.wikipedia.org/wiki/New_moon), los babi
 
 ## Enlaces externos
 
-* [Este informe en la página web de LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/lord-of-the-sabbath/)
-* [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Este informe en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/lord-of-the-sabbath/)
+* [Otros informes en la página web de UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios temáticos en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

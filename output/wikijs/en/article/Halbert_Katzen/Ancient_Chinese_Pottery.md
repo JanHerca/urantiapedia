@@ -58,7 +58,7 @@ A [2014 article on foxnews.com](https://www.foxnews.com/world/pottery-20000-year
 
 - [This report in UBTheNews](https://ubannotated.com/ubthenews/topics/ancient-chinese-pottery/)
 * [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-* [Topical Studies in UBTheNews webpage](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

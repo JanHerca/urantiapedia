@@ -349,13 +349,13 @@ Aunque no es correcto que digamos cuándo regresará Jesús, ¿significa esto qu
 
 > «Después de su elevación a la soberanía estable en un universo local, un Miguel Paradisiaco tiene el pleno control sobre todos los otros Hijos de Dios que ejercen su actividad en su dominio, y puede gobernar libremente de acuerdo con el concepto que tenga sobre las necesidades de sus reinos. Un Hijo Maestro puede cambiar a voluntad el orden de los juicios espirituales y de los ajustes evolutivos de los planetas habitados. Y estos Hijos elaboran y llevan a cabo los planes elegidos por ellos mismos en todas las cuestiones relacionadas con las necesidades planetarias especiales, en particular con respecto a los mundos donde han vivido como criaturas, y mucho más en lo que concierne a la esfera de su donación final, al planeta de su encarnación en la similitud de la carne mortal.» ([LU 21:5.9](/es/The_Urantia_Book/21#p5_9))
 
-El estudio temático: [Un nuevo cielo y una nueva tierra](/es/article/Halbert_Katzen/A_New_Heaven_And_A_New_Earth) analiza más a fondo cómo se utiliza la palabra crisis en el contexto de una Nueva Era. Véase también el estudio de referencia cruzada: [Crisis, emergencias, exigencias](https://ubannotated.com/main-menu/animated/topical-studies/cross-references/crises-emergencies-exigencies/).
+El estudio temático: [Un nuevo cielo y una nueva tierra](/es/article/Halbert_Katzen/A_New_Heaven_And_A_New_Earth) analiza más a fondo cómo se utiliza la palabra crisis en el contexto de una Nueva Era. Véase también el estudio de referencia cruzada: [Crisis, emergencias, exigencias](/es/article/Halbert_Katzen/Crises_Emergencies_Exigencies).
 
 ## Enlaces externos
 
-* [Este informe en la página web de LUTheNews](https://ubannotated.com/main-menu/animated/topical-studies/impending-judgement-of-the-living/)
-* [Otros informes en la página web de LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Estudios temáticos en la página web de LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Este informe en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/impending-judgement-of-the-living/)
+* [Otros informes en la página web de UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios temáticos en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
