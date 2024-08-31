@@ -56,7 +56,7 @@ Identifier les sujets qui nécessitent la rédaction de rapports prend beaucoup 
 > 
 > Tant que les hommes furent des chasseurs, ils restèrent assez bons pour les femmes, mais, après la domestication des animaux, alors que régnait en outre la confusion de Caligastia, beaucoup de tribus traitèrent leurs femmes d’une façon honteuse, en n’ayant pas beaucoup plus d’égards pour elles que pour leurs animaux. Les traitements brutaux infligés aux femmes par les hommes constituent l’un des chapitres les plus sombres de l’histoire humaine.
 > 
-> Adam's caravan had carried the seeds and bulbs of hundreds of plants and cereals of the first garden with them to the land between the rivers; they also had brought along extensive herds and some of all the domesticated animals. Because of this they possessed great advantages over the surrounding tribes. They enjoyed many of the benefits of the previous culture of the original Garden. <a id="a58_390"></a>[UB 69:7.1-6](/fr/The_Urantia_Book/69#p7_1)
+> Adam's caravan had carried the seeds and bulbs of hundreds of plants and cereals of the first garden with them to the land between the rivers; they also had brought along extensive herds and some of all the domesticated animals. Because of this they possessed great advantages over the surrounding tribes. They enjoyed many of the benefits of the previous culture of the original Garden. <a id="a58_390"></a>[LU 69:7.1-6](/fr/The_Urantia_Book/69#p7_1)
 
 > 1\. **LES ADAMITES ENTRENT EN EUROPE** (Adamites =35 000 av. J.-C. à 15 000 av. J.-C.)
 
@@ -90,7 +90,7 @@ Identifier les sujets qui nécessitent la rédaction de rapports prend beaucoup 
 > 
 > Most of the animals best suited to domestication were found in Asia, especially in the central to southwest regions. This was one reason why civilization progressed faster in that locality than in other parts of the world. Many of these animals had been twice before domesticated, and in the Andite age they were retamed once again. But the dog had remained with the hunters ever since being adopted by the blue man long, long before.
 > 
-> The Andites of Turkestan were the first peoples to extensively domesticate the horse, and this is another reason why their culture was for so long predominant. By 5000 B.C. the Mesopotamia, Turkestan, and Chinese farmers had begun the raising of sheep, goats, cows, camels, horses, fowls, and elephants. They employed as beasts of burden the ox, camel, horse, and yak. <a id="a92_371"></a>[UB 81:2.1-7](/fr/The_Urantia_Book/81#p2_1)
+> The Andites of Turkestan were the first peoples to extensively domesticate the horse, and this is another reason why their culture was for so long predominant. By 5000 B.C. the Mesopotamia, Turkestan, and Chinese farmers had begun the raising of sheep, goats, cows, camels, horses, fowls, and elephants. They employed as beasts of burden the ox, camel, horse, and yak. <a id="a92_371"></a>[LU 81:2.1-7](/fr/The_Urantia_Book/81#p2_1)
 
 Il s'agit d'une vidéo fascinante sur les renards et la génétique de la sociabilité. Elle se concentre sur les renards mais a des implications bien au-delà, qui sont abordées directement dans la vidéo. Très instructive sur la différence entre nature et culture ! Considérez les passages suivants en rapport avec cette vidéo : 
 

@@ -125,7 +125,7 @@ La vue optique la plus profonde et la plus détaillée de l'univers, offerte par
       <tr>
         <td></td>
         <td>
-        <a href="/en/index/articles_ubannotated">
+        <a href="/fr/index/articles_ubannotated">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
         </a>
         </td>

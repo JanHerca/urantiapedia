@@ -77,7 +77,7 @@ _The Urantia Book_ teaches that genetic progress provides the foundation for cul
     - Endeavor to make the most of the variations in our gene pool, as we simultaneously make the most of our eventual homogenization.
     - Expect reasonable minds to differ on these issues because we are dealing with problems that are beyond our understanding.
 
-The “Eugenics, Race, and _The Urantia Book_” paper was written as an apologetic in response to criticism and misunderstandings about these teachings. This study aid approach to the topic allows for a much briefer education on issues that are addressed throughout the text’s two thousand plus pages. The brevity and structure of this approach likely will be more useful and appreciated by all types of readers, from those with no previous experience with _The Urantia Book_ to those well versed in its teachings.
+The [“Eugenics, Race, and _The Urantia Book_”](/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book) paper was written as an apologetic in response to criticism and misunderstandings about these teachings. This study aid approach to the topic allows for a much briefer education on issues that are addressed throughout the text’s two thousand plus pages. The brevity and structure of this approach likely will be more useful and appreciated by all types of readers, from those with no previous experience with _The Urantia Book_ to those well versed in its teachings.
 
 If you are new to _The Urantia Book_, here are some contextualizing comments to help you get started:
 
@@ -99,7 +99,7 @@ The fifth section, _A Genetic Foundation for Cultural Progress_, reviews the cha
 
 Do you experience yourself or others as trying to shut down conversation about controversial topics that scrutinize perspectives and opinions? Do you experience yourself or others as disinclined to start conversations about controversial topics that scrutinize perspectives and opinions? To what degree to you experience sharing perspectives and opinions as argumentative vs. educational. How do those answers relate to these teachings?:
 
-> True and genuine inward certainty does not in the least fear outward analysis, nor does truth resent honest criticism. … Sincere men are unafraid of the critical examination of their true convictions and noble ideals.[](applewebdata://54739AA8-48AF-4A8D-BB05-F69630DBEBD1/#_ftn1) ([UB 146:3.2](/en/The_Urantia_Book/146#p3_2))
+> True and genuine inward certainty does not in the least fear outward analysis, nor does truth resent honest criticism. … Sincere men are unafraid of the critical examination of their true convictions and noble ideals. ([UB 146:3.2](/en/The_Urantia_Book/146#p3_2))
 
 > Successful living is nothing more or less than the art of the mastery of dependable techniques for solving common problems. The first step in the solution of any problem is to locate the difficulty, to isolate the problem, and frankly to recognize its nature and gravity. The great mistake is that, when life problems excite our profound fears, we refuse to recognize them. Likewise, when the acknowledgment of our difficulties entails the reduction of our long-cherished conceit, the admission of envy, or the abandonment of deep-seated prejudices, the average person prefers to cling to the old illusions of safety and to the long-cherished false feelings of security. Only a brave person is willing honestly to admit, and fearlessly to face, what a sincere and logical mind discovers. ([UB 160:1.7](/en/The_Urantia_Book/160#p1_7))
 
@@ -702,7 +702,7 @@ Ratta’s genetic history involves circumstances that invite speculation about h
 > 
 > The first move away from brother and sister marriages came about under the plural-wife mores because the sister-wife would arrogantly dominate the other wife or wives. Some tribal mores forbade marriage to a dead brother’s widow but required the living brother to beget children for his departed brother. There is no biologic instinct against any degree of in-marriage; such restrictions are wholly a matter of taboo.
 > 
-> Outmarriage finally dominated because it was favored by the man; to get a wife from the outside insured greater freedom from in-laws. Familiarity breeds contempt; so, as the element of individual choice began to dominate mating, it became the custom to choose partners from outside the tribe.
+> Outmarriage finally dominated because it was favored by the man; to get a wife from the outside insured greater freedom from in-laws. Familiarity breeds contempt; so, as the element of individual choice began to dominate mating, it became the custom to choose partners from outside the tribe. [UB 82:5.1-6](/en/The_Urantia_Book/82#p5_1)
 
 ### Etymology of coined race terminology
 

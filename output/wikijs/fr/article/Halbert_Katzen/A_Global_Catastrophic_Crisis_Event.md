@@ -251,7 +251,7 @@ Document 43 : Les Constellations ; Section 5. Les Pères d'Edentia depuis la ré
 >
 > 10. Le Très Haut juge-avocat, chef du **tribunal d’exception** consacré au règlement des problèmes spéciaux de Norlatiadek résultant de la confusion consécutive à la rébellion de Satania.
 >
-> 12. Le Très Haut directeur, président du **conseil d’urgence** sur Édentia. Toutes les personnalités affectées à Norlatiadek à cause de l’insurrection de Satania constituent le conseil d’urgence, et le délégué qui les préside est un Fils Vorondadek extraordinairement expérimenté. [UB 43:5.10-14](/fr/The_Urantia_Book/43#p5_10)
+> 12. Le Très Haut directeur, président du **conseil d’urgence** sur Édentia. Toutes les personnalités affectées à Norlatiadek à cause de l’insurrection de Satania constituent le conseil d’urgence, et le délégué qui les préside est un Fils Vorondadek extraordinairement expérimenté. [LU 43:5.10-14](/fr/The_Urantia_Book/43#p5_10)
 
 ### Archanges
 

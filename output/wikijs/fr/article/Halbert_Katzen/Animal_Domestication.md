@@ -84,7 +84,7 @@ Identifier les sujets qui nécessitent la rédaction de rapports prend beaucoup 
 > 
 > Most of the animals best suited to domestication were found in Asia, especially in the central to southwest regions. This was one reason why civilization progressed faster in that locality than in other parts of the world. Many of these animals had been twice before domesticated, and in the Andite age they were retamed once again. But the dog had remained with the hunters ever since being adopted by the blue man long, long before.
 > 
-> The Andites of Turkestan were the first peoples to extensively domesticate the horse, and this is another reason why their culture was for so long predominant. By 5000 B.C. the Mesopotamia, Turkestan, and Chinese farmers had begun the raising of sheep, goats, cows, camels, horses, fowls, and elephants. They employed as beasts of burden the ox, camel, horse, and yak. <a id="a86_371"></a>[UB 81:2.1-7](/fr/The_Urantia_Book/81#p2_1)
+> The Andites of Turkestan were the first peoples to extensively domesticate the horse, and this is another reason why their culture was for so long predominant. By 5000 B.C. the Mesopotamia, Turkestan, and Chinese farmers had begun the raising of sheep, goats, cows, camels, horses, fowls, and elephants. They employed as beasts of burden the ox, camel, horse, and yak. <a id="a86_371"></a>[LU 81:2.1-7](/fr/The_Urantia_Book/81#p2_1)
 
 ## Liens externes
 

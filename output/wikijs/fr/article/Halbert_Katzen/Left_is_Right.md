@@ -25,7 +25,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-Cet article, publié le 6 août 2022, est un ajout au [UBtheNEWS : Rapport sur le Suaire de Turin](/fr/article/Halbert_Katzen/Shroud_of_Turin). Considérez-le comme un déclencheur de conversation, un espace réservé. Il a conduit à une merveilleuse conversation avec Barrie Schwortz, le photographe de STURP, qui m'a bien sûr orienté vers des recherches supplémentaires. Cela avait déjà conduit à de nouvelles questions et à de nouvelles images (rendu artistique) d'il y a cinq cents ans.
+Cet article, publié le 6 août 2022, est un ajout au [LUtheNEWS : Rapport sur le Suaire de Turin](/fr/article/Halbert_Katzen/Shroud_of_Turin). Considérez-le comme un déclencheur de conversation, un espace réservé. Il a conduit à une merveilleuse conversation avec Barrie Schwortz, le photographe de STURP, qui m'a bien sûr orienté vers des recherches supplémentaires. Cela avait déjà conduit à de nouvelles questions et à de nouvelles images (rendu artistique) d'il y a cinq cents ans.
 
 Par exemple, d’un point de vue théiste, considérons que les premiers événements sociaux impliquant l’exposition du Suaire se sont produits chez des gens qui ne savaient rien des négatifs photographiques. Le phénomène de « l’image inversée » ne faisait pas partie de leur monde. Dieu a-t-il confondu ses enfants avec une image scientifiquement inexplicable et inversée ou les enfants de Dieu se sont-ils eux-mêmes confondus, une fois qu’ils ont appris l’existence des négatifs photographiques et ont ensuite appliqué une perspective anthropomorphique aux preuves ? Telle est la question.
 
