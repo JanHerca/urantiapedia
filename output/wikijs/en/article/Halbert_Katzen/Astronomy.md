@@ -446,7 +446,7 @@ At Urantia Foundation’s June 2022 Sceintific Symposium, Phil Calabrese’s pre
 
 ## Providing a Sense of Place and Purpose
 
- _The Urantia Book_ is a cosmic road map for the spiritual adventure that goes from being a dense and imperfect material creature on earth to an enlightened and spiritual being in Paradise.
+_The Urantia Book_ is a cosmic road map for the spiritual adventure that goes from being a dense and imperfect material creature on earth to an enlightened and spiritual being in Paradise.
 
 > We have long since discovered that the seven superuniverses traverse a great ellipse, a gigantic and elongated circle. Your solar system and other worlds of time are not plunging headlong, without chart and compass, into unmapped space. The local universe to which your system belongs is pursuing a definite and well-understood counterclockwise course around the vast swing that encircles the central universe. This cosmic path is well charted and is just as thoroughly known to the superuniverse star observers as the orbits of the planets constituting your solar system are known to Urantia astronomers. ([UB 15:1.2](/en/The_Urantia_Book/15#p1_2))
 

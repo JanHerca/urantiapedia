@@ -1,5 +1,5 @@
 ---
-title: "Créer un feu Résumé"
+title: "Créer un feu"
 description: "Anthropologie"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -29,7 +29,7 @@ _Par Halbert Katzen J.D._
 
 ## Résumé
 
-*Le Livre d'Urantia*, publié pour la première fois en 1955, déclare : « De l'an 1934 à la naissance des deux premiers êtres humains, il y a juste 993 419 ans. » [^1] Il raconte que ces deux premiers êtres humains (Homo erectus) étaient des jumeaux, un mâle et une femelle, et qu'ils étaient nettement différents, génétiquement supérieurs par rapport à leurs parents pré-humains. Selon *Le Livre d'Urantia*, ils choisirent de se séparer de leur clan pré-humain et que « Lors de leur voyage vers le nord, ils découvrirent un gisement de silex exposé... Andon [le mâle] découvrit leur capacité à faire des étincelles et conçut l'idée de faire du feu... Les ancêtres primates d'Andon avaient souvent ravivé le feu qui avait été allumé par la foudre, mais jamais auparavant les créatures de la terre n'avaient possédé une méthode pour allumer un feu à volonté. » [^2] On dit que ces deux ancêtres de toute l'humanité ont acquis cette capacité.
+*Le Livre d'Urantia*, publié pour la première fois en 1955, déclare : « La naissance des deux premiers êtres humains se situe exactement 993 419 ans avant l’année 1 934 de l’ère chrétienne. » [^1] Il raconte que ces deux premiers êtres humains (Homo erectus) étaient des jumeaux, un mâle et une femelle, et qu'ils étaient nettement différents, génétiquement supérieurs par rapport à leurs parents pré-humains. Selon *Le Livre d'Urantia*, ils choisirent de se séparer de leur clan pré-humain et que « Au cours de leur voyage vers le nord, ils découvrirent un dépôt de silex à ciel ouvert... Andon [le mâle] découvrit qu’ils produisaient des étincelles et conçut l’idée de faire du feu... Les ancêtres primates d’Andon avaient souvent entretenu des feux allumés par des éclairs, mais, jusque-là, aucune créature terrestre n’avait possédé une méthode pour obtenir une flamme à volonté. » [^2] On dit que ces deux ancêtres de toute l'humanité ont acquis cette capacité.
 
 Une découverte réalisée en 2004 sur le site archéologique de Gesher Benot Ya’aqov en Israël fournit des preuves solides que les êtres humains étaient capables d’utiliser le silex pour créer du feu il y a environ 790 000 ans. Avant cette découverte, le site archéologique de Terra Amata en France, bien que très controversé, a fourni ce qui était largement considéré comme la meilleure preuve de la capacité précoce des êtres humains à créer du feu, suggérant que le feu était créé il y a quelque temps entre 230 000 et 380 000 ans. Mais les preuves incontestées de la capacité à créer du feu à volonté ne remontent qu’à environ 200 000 ans. Les preuves trouvées à Gesher Benot Ya’aqov, avec ses amas de silex brûlés à différents niveaux, sont considérablement plus définitives que celles trouvées à Terra Amata. Cette découverte de 2004 est non seulement cohérente avec l’affirmation du *Livre d’Urantia* selon laquelle le silex était initialement utilisé pour faire du feu, mais a également été trouvée dans la zone générale où les premiers êtres humains auraient vécu et, selon toute analyse, repousse la date plus près de ce qui a été donné dans *Le Livre d’Urantia* de centaines de milliers d’années.
 
@@ -78,21 +78,21 @@ Avant les fouilles de 2004 sur le site archéologique de Gesher Benot Ya’aqov 
 
 Affirmant que les deux premiers êtres humains, Andon et Fonta, ont conçu et découvert avec succès des moyens de faire du feu, *Le Livre d'Urantia* fournit le récit suivant de cette réalisation remarquable :
 
-> De l'année 1934 après J.C. à la naissance des deux premiers êtres humains, il y a seulement 993 419 ans.[^4]
+> La naissance des deux premiers êtres humains se situe exactement 993 419 ans avant l’année 1 934 de l’ère chrétienne.[^4]
 > 
-> Alors qu'il vivait encore avec ses parents, Andon avait fixé un morceau de silex pointu au bout d'une massue, en utilisant des tendons d'animaux à cet effet, et à pas moins d'une douzaine d'occasions, il fit bon usage d'une telle arme pour sauver sa propre vie et celle de sa sœur tout aussi aventureuse et curieuse, qui l'accompagnait infailliblement dans toutes ses tournées d'exploration.[^5]
+> Alors qu’il vivait encore avec ses parents, Andon avait fixé, à l’aide de tendons d’animaux, un morceau de silex tranchant à l’extrémité d’un gourdin et avait fait, à une douzaine d’occasions au moins, bon usage de cette arme pour sauver sa propre vie et celle de sa sœur qui, tout aussi curieuse et aventureuse que lui, ne manquait jamais de l’accompagner dans toutes ses explorations.[^5]
 > 
-> À l'âge de neuf ans environ, ils [Andon et Fonta] descendirent la rivière un beau jour et tinrent une conférence capitale... Ce jour-là, ils parvinrent à un accord pour vivre l'un avec l'autre et pour l'autre, et ce fut le premier d'une série d'accords de ce genre qui aboutirent finalement à la décision de fuir leurs associés animaux inférieurs et de voyager vers le nord, sans savoir qu'ils allaient ainsi fonder la race humaine.[^6]
+> Vers leur neuvième année, ils s’en allèrent un beau jour le long de la rivière et eurent un important entretien. Toutes les intelligences célestes stationnées sur Urantia, y compris moi-même, étaient présentes et observaient le déroulement de ce rendez-vous de midi. Au cours de ce jour mémorable, ils convinrent de vivre l’un avec l’autre et l’un pour l’autre ; cette entente fut la première d’une série d’accords qui culminèrent dans la décision de fuir leurs compagnons animaux inférieurs et de partir vers le nord, sans bien savoir qu’ils allaient ainsi fonder la race humaine.[^6]
 > 
-> Ils avaient déjà préparé une retraite rudimentaire au sommet des arbres à une demi-journée de voyage vers le nord. C'était leur cachette secrète et sûre pour le premier jour loin de leurs forêts natales. Bien que les jumeaux partageaient la peur mortelle des primates d'être au sol la nuit, ils partirent peu avant la tombée de la nuit pour leur randonnée vers le nord. Bien qu'il leur ait fallu un courage inhabituel pour entreprendre ce voyage nocturne, même avec la pleine lune, ils en ont conclu à juste titre qu'ils avaient moins de chances d'être manqués et poursuivis par leurs compatriotes et leurs proches. Et ils ont atteint leur rendez-vous préalablement préparé peu après minuit.
+> Ils avaient déjà préparé une retraite sommaire au sommet d’un arbre à environ une demi-journée de marche vers le nord. Ce fut leur cachette secrète et sure pour le premier jour qu’ils passèrent loin de leur forêt natale. Bien que les jumeaux partageassent la peur mortelle des primates de demeurer sur le sol pendant la nuit, ils se mirent en route vers le nord au crépuscule. Il leur fallut un courage exceptionnel pour entreprendre ce voyage nocturne, même avec la pleine lune, mais ils pensèrent, à juste titre, que leur absence ne serait probablement pas remarquée et qu’ils auraient moins de risques d’être poursuivis par leurs parents et les membres de leur tribu. Ils arrivèrent sains et saufs peu après minuit au rendez-vous préparé à l’avance.
 > 
-> Au cours de leur voyage vers le nord, ils découvrirent un gisement de silex et, trouvant de nombreuses pierres taillées pour divers usages, ils en constituèrent une réserve pour l'avenir. En essayant de tailler ces silex pour les adapter à certains usages, Andon découvrit leur capacité à produire des étincelles et conçut l'idée de faire du feu. Mais l'idée ne lui prit pas vraiment racine à l'époque car le climat était encore salubre et le feu n'était pas vraiment nécessaire.
+> Au cours de leur voyage vers le nord, ils découvrirent un dépôt de silex à ciel ouvert et, ayant trouvé beaucoup de pierres dont les formes convenaient à divers usages, ils en firent une provision pour l’avenir. En essayant de tailler ces silex pour leur donner une forme mieux adaptée à certains besoins, Andon découvrit qu’ils produisaient des étincelles et conçut l’idée de faire du feu ; mais cette notion ne pénétra pas profondément sa pensée sur le moment, car le climat était encore salubre et le besoin de feu ne se faisait guère sentir.
 > 
-> Mais le soleil d'automne baissait dans le ciel et, à mesure qu'ils avançaient vers le nord, les nuits devenaient de plus en plus fraîches. Ils avaient déjà été obligés d'utiliser des peaux d'animaux pour se réchauffer. Avant qu'ils ne soient partis de chez eux une lune, Andon fit savoir à son compagnon qu'il pensait pouvoir faire du feu avec le silex. Ils essayèrent pendant deux mois d'utiliser l'étincelle du silex pour allumer un feu, mais ils échouèrent. Chaque jour, ce couple frappait les silex et tentait d'allumer le bois. Finalement, un soir, vers l'heure du coucher du soleil, le secret de la technique fut dévoilé lorsque Fonta eut l'idée de grimper à un arbre voisin pour sécuriser un nid d'oiseau abandonné. Le nid était sec et hautement inflammable et s'embrasa dès que l'étincelle tomba dessus. Ils furent si surpris et effrayés de leur succès qu'ils faillirent perdre le feu, mais ils le sauvèrent en ajoutant un combustible approprié, et commencèrent alors la première recherche de bois de chauffage par les parents de toute l'humanité.
+> Mais le soleil d’automne descendait toujours plus bas dans le ciel et les nuits devenaient de plus en plus froides à mesure que les jumeaux progressaient vers le nord. Ils avaient déjà été obligés d’utiliser des peaux de bêtes pour avoir assez chaud. Avant qu’une lune ne se fût écoulée depuis leur départ du foyer familial, Andon fit part à sa compagne qu’il croyait pouvoir faire du feu avec des silex. Pendant deux mois, ils essayèrent sans succès d’utiliser l’étincelle du silex pour allumer un feu ; chaque jour, le couple cognait des silex et s’efforçait d’enflammer du bois. Finalement, un soir, au coucher du soleil, le secret de la technique fut découvert lorsque Fonta eut l’idée de grimper à un arbre voisin pour s’emparer d’un nid abandonné. Le nid était sec et très inflammable, si bien qu’il prit feu d’un seul coup dès qu’une étincelle l’eut atteint. Ils furent si surpris et effrayés de leur succès qu’ils faillirent laisser éteindre leur feu, mais ils le sauvèrent en y ajoutant un combustible approprié, et c’est alors que commença la première recherche de bois de chauffage par les parents de l’humanité tout entière.
 > 
-> Ce fut l'un des moments les plus joyeux de leur courte mais riche vie. Toute la nuit, ils restèrent assis à regarder leur feu brûler, réalisant vaguement qu'ils avaient fait une découverte qui leur permettrait de défier le climat et d'être ainsi à jamais indépendants de leurs parents animaux des terres du sud. Après trois jours de repos et de plaisir autour du feu, ils reprirent leur route.
+> Ce fut un des plus joyeux moments de leur vie brève, mais mouvementée. Toute la nuit, ils restèrent assis à regarder bruler leur feu, comprenant vaguement que leur découverte leur permettrait de défier le climat et d’être ainsi pour toujours indépendants de leurs parents animaux du pays du Sud. Après trois jours passés à se reposer et à profiter de leur feu, ils continuèrent leur voyage.
 > 
-> Les ancêtres primates d'Andon avaient souvent ravivé le feu allumé par la foudre, mais jamais auparavant les créatures de la terre n'avaient possédé une méthode pour allumer un feu à volonté. Mais il fallut longtemps avant que les jumeaux apprennent que la mousse sèche et d'autres matériaux pouvaient allumer le feu aussi bien que les nids d'oiseaux.[^7]
+> Les ancêtres primates d’Andon avaient souvent entretenu des feux allumés par des éclairs, mais, jusque-là, aucune créature terrestre n’avait possédé une méthode pour obtenir une flamme à volonté. Toutefois, il fallut longtemps pour que les jumeaux apprennent que la mousse sèche et d’autres matériaux permettent d’allumer un feu aussi facilement que des nids d’oiseaux.[^7]
 
 Même lorsqu'un ancien foyer ou d'autres anciens artefacts brûlés sont trouvés, des difficultés inhérentes sont impliquées dans l'utilisation d'artefacts brûlés pour établir la capacité de créer du feu en raison de la difficulté à déterminer si le feu a été créé à l'origine par les humains ou était d'origine naturelle puis réalimenté.
 
@@ -156,27 +156,27 @@ Un article de *BBC News* de Paul Rincon datant de 2004 déclare :
 > 
 > L'équipe a cartographié la répartition des artefacts brûlés et non brûlés et les a comparés. Bien qu'il y ait eu un certain chevauchement avec les artefacts non brûlés, ceux brûlés se sont regroupés à des endroits précis du site.
 > 
-> Les chercheurs pensent que les groupes d'artefacts brûlés, qui datent d'il y a entre 790 000 et 690 000 ans, indiquent les sites d'anciens feux de camp, ou foyers, faits par Homo erectus ou Homo ergaster.[^13]
+> Les chercheurs pensent que les groupes d'artefacts brûlés, qui datent d'il y a entre 790 000 et 690 000 ans, indiquent les sites d'anciens feux de camp, ou foyers, faits par Homo erectus ou Homo ergaster.[^3]
 
 Ce qui apparaît comme une idée provocatrice pour les érudits contemporains est cohérent avec la description d’Andon et Fonta dans *Le Livre d’Urantia* comme les premiers êtres humains, qui apprirent à créer du feu et à transmettre cette connaissance aux générations futures. Le site en Israël est situé dans la zone générale où *Le Livre d’Urantia* indique les premières tribus d’êtres humains. Cependant, il ne le dit pas spécifiquement. Afin d’obtenir cette compréhension, il faut examiner les déclarations dans *Le Livre d’Urantia* concernant les animaux à partir desquels les êtres humains ont évolué et les informations sur le premier grand enseignant spirituel de l’humanité, Onagar, qui aurait vécu environ 10 000 ans après Andon et Fonta. En ce qui concerne l’emplacement des animaux pré-humains immédiats à partir desquels les êtres humains ont évolué, il est indiqué :
 
-> À l'âge de quatorze ans environ, ils [un couple de jumeaux mâle et femelle] ont fui la tribu, se dirigeant vers l'ouest pour élever leur famille et établir la nouvelle espèce de *Primates*. Et ces nouvelles créatures sont très justement appelées Primates puisqu'elles étaient les ancêtres animaux directs et immédiats de la famille humaine elle-même.
+> Quand ils eurent environ quatorze ans, ils s’enfuirent de la tribu et partirent vers l’ouest pour élever leur famille et fonder l’espèce nouvelle des primates. C’est à très juste titre que ces nouvelles créatures sont appelées *primates,* car elles furent les ancêtres animaux directs et immédiats de la famille humaine elle-même.
 > 
-> C'est ainsi que les Primates vinrent occuper une région sur la côte ouest de la péninsule mésopotamienne alors qu'elle s'avançait dans la mer du Sud, tandis que les tribus moins intelligentes et étroitement liées vivaient autour de la pointe de la péninsule et le long de la côte est.[^13]
+> C’est ainsi que les primates vinrent occuper une région située sur la côte ouest de la péninsule mésopotamienne qui s’avançait alors dans les mers du Sud, tandis que les tribus étroitement apparentées et moins intelligentes vivaient à la pointe de la péninsule le long de sa côte orientale.[^13]
 
 Concernant la région où vivait Onagar, *Le Livre d'Urantia* dit :
 
-> Alors que la dispersion andonique s'étendait, le statut culturel et spirituel des clans régressa pendant près de dix mille ans jusqu'à l'époque d'Onagar, qui assuma la direction de ces tribus, apporta la paix parmi elles et, pour la première fois, les conduisit toutes dans le culte du « Donneur de Souffle aux hommes et aux animaux ».
+> Parallèlement à la dispersion croissante des Andonites, le niveau culturel et spirituel des clans rétrograda pendant près de dix-mille ans, jusqu’aux jours d’Onagar, qui prit en main la direction de ces tribus, ramena la paix parmi elles et, pour la première fois, les amena à adorer « Celui qui donne le Souffle aux hommes et aux animaux ».
 > 
-> La philosophie d'Andon était des plus confuses ; il avait échappé de justesse au culte du feu en raison du grand réconfort qu'il avait tiré de sa découverte accidentelle. La raison, cependant, l'a conduit à se détourner de sa propre découverte pour se tourner vers le soleil, source de chaleur et de lumière supérieure et plus impressionnante, mais elle était trop éloignée, et il n'a donc pas réussi à devenir un adorateur du soleil.
+> La philosophie d’Andon avait été fort confuse ; il avait failli devenir un adorateur du feu à cause du grand confort procuré par sa découverte accidentelle. Pourtant, la raison le détourna de l’adoration du feu et l’orienta vers le soleil, source supérieure et imposante de chaleur et de lumière ; mais cette source était trop lointaine, et Andon ne devint pas un adorateur du soleil.
 > 
 > . . .
 > 
-> La nourriture était la chose la plus importante dans la vie de ces êtres humains primitifs, comme le montre la prière enseignée à ces gens simples par Onagar, leur grand maître. Et cette prière était :
+> La nourriture avait une importance suprême dans la vie des êtres humains primitifs, et ce fait est démontré par la prière enseignée à ces gens simples par Onagar, leur grand instructeur. Voici cette prière :
 > 
-> « Ô Souffle de Vie, donne-nous aujourd'hui notre nourriture quotidienne, délivre-nous de la malédiction de la glace, sauve-nous de nos ennemis de la forêt et reçois-nous avec miséricorde dans le Grand Au-delà. »
+> « Ô Souffle de Vie, donne-nous aujourd’hui notre nourriture quotidienne, délivre-nous de la malédiction de la glace, sauve-nous de nos ennemis des forêts et reçois-nous avec miséricorde dans le Grand Au-delà. »
 > 
-> Onagar avait son quartier général sur les rives nord de l'ancienne Méditerranée, dans la région de l'actuelle mer Caspienne, dans une colonie appelée Oban, lieu de halte situé à l'ouest de la route qui mène au nord depuis le sud de la Mésopotamie. D'Oban, il envoya des enseignants dans les colonies éloignées pour diffuser ses nouvelles doctrines d'une Déité unique et son concept de l'au-delà, qu'il appelait le Grand Au-delà. Ces émissaires d'Onagar furent les premiers missionnaires du monde ; ils furent aussi les premiers êtres humains à cuisiner de la viande, les premiers à utiliser régulièrement le feu pour préparer la nourriture. Ils cuisaient la viande sur des bâtons et aussi sur des pierres chaudes ; plus tard, ils rôtirent de gros morceaux au feu, mais leurs descendants revinrent presque entièrement à l'utilisation de la chair crue.[^14]
+> Onagar avait son quartier général à Oban, colonie située sur le rivage septentrional de la Méditerranée ancienne, dans la région de la mer Caspienne actuelle. Cet établissement était un lieu de séjour situé en un point où la piste allant de la Mésopotamie méridionale vers le nord tournait vers l’ouest. D’Oban, Onagar envoya des éducateurs aux établissements éloignés pour répandre sa nouvelle doctrine d’une Déité unique et son concept de la vie future qu’il appelait le Grand Au-Delà. Ces émissaires d’Onagar furent les premiers missionnaires du monde ; ils furent également les premiers êtres humains à faire cuire de la viande, les premiers à utiliser régulièrement le feu pour préparer la nourriture. Ils cuisaient la viande sur des extrémités de baguettes et aussi sur des pierres chaudes ; plus tard, ils rôtirent au feu de gros morceaux, mais leurs descendants revinrent presque entièrement à l’usage de la viande crue.[^14]
 
 Ces sélections indiquent que la présence de silex brûlés à divers niveaux du site en Israël est tout à fait cohérente avec les informations présentées dans *Le Livre d'Urantia* concernant le moment, le lieu et la manière dont les êtres humains ont été capables de créer du feu pour la première fois. Et les preuves sur le site de Gesher Benot Ya'aqov sont nettement plus définitives sur cette capacité que les sites en France et en Chine. En tirant des conclusions sur les découvertes sur le site de Gesher Benot Ya'aqov, l'article de la BBC déclare :
 
@@ -217,6 +217,21 @@ Les découvertes faites au Gesher Benot Ya'aqov en Israël au cours de ce millé
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 <br>
 

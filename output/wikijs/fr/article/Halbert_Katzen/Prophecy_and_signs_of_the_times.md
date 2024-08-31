@@ -360,12 +360,12 @@ Visions de Jean et Paul sur la vie à venir :
 - Site Web d'un groupe aligné sur les premiers enseignements adventistes du septième jour : [Signes de la fin des temps](http://www.signs-of-end-times.com/).
 - Jewish Voice : [article sur les signes des temps](https://www.jewishvoice.org/read/article/signs-times).
 - Saints des Derniers Jours : [liste des références bibliques pour les signes des temps](https://www.lds.org/scriptures/gs/signs-of-the-times).
-- Témoins de Jéhovah : [article et références sur les signes des temps](https://www.jw.org/en/bible-teachings/questions/end-times-prophecy-sign/).
+- Témoins de Jéhovah : [article et références sur les signes des temps](https://www.jw.org/fr/bible-teachings/questions/end-times-prophecy-sign/).
 - Une [étrange prophétie d’un saint irlandais](https://ubannotated.com/wp-content/uploads/2018/08/Irish-prophet.pdf) selon laquelle le pape François sera le dernier pontife.
 
 ## Comment tout cela est-il lié au Traité de l'Unité ?
 
-En 2016, Nicholas Scalzo a fait circuler un document souvent appelé le « Traité d'Unité ». Il prétend provenir de notre gouvernement planétaire, nos « amis invisibles ». En bref, il dit que les organisations à qui a été confiée Le Livre d'Urantia sont en défaut parce que l'éditeur original et le principal groupe social ne s'entendaient pas, ce qui a donné lieu à deux éditeurs et deux principaux groupes sociaux. Le Traité d'Unité fournit une analyse approfondie, un correctif et dit que la réunification devait avoir lieu avant le 21 août 2017.
+En 2016, Nicholas Scalzo a fait circuler un document souvent appelé le « Traité d'Unité ». Il prétend provenir de notre gouvernement planétaire, nos « amis invisibles ». En bref, il dit que les organisations à qui a été confiée _Le Livre d'Urantia_ sont en défaut parce que l'éditeur original et le principal groupe social ne s'entendaient pas, ce qui a donné lieu à deux éditeurs et deux principaux groupes sociaux. Le Traité d'Unité fournit une analyse approfondie, un correctif et dit que la réunification devait avoir lieu avant le 21 août 2017.
 
 Je trouve que ce livre a du mérite sur la base de la « vérité de n'importe quelle source » et je suis enclin à croire qu'il est légitime. Vous pouvez en apprendre davantage sur tout cela sur la page [Traité de l'unité](https://ubannotated.com/unity-treatise-page/#comments).
 
@@ -377,7 +377,7 @@ Mais après avoir consacré un peu plus de temps à ce sujet, je considère main
 
 J'ai trouvé particulièrement réconfortant de lire dans Isaïe 66 que Dieu ne nous taquine pas avec des signes. Cela nous rassure également sur le fait que les choses peuvent changer pour le mieux relativement rapidement et à grande échelle.
 
-En tant que représentants des lecteurs du Livre d'Urantia, osons-nous fermer les yeux sur une compréhension aussi surprenante de cette ancienne prophétie du vieux voyant Isaïe ? Devons-nous prendre à la légère le fait que les auteurs de cette révélation ont mis les faits nécessaires dans Le Livre d'Urantia pour donner un sens à ce qui a été dit par Isaïe ou devons-nous mettre les faits en lumière ?
+En tant que représentants des lecteurs du Livre d'Urantia, osons-nous fermer les yeux sur une compréhension aussi surprenante de cette ancienne prophétie du vieux voyant Isaïe ? Devons-nous prendre à la légère le fait que les auteurs de cette révélation ont mis les faits nécessaires dans _Le Livre d'Urantia_ pour donner un sens à ce qui a été dit par Isaïe ou devons-nous mettre les faits en lumière ?
 
 Notez comment les révélations d'Isaïe anticipent tout ce qui s'est passé en termes de la mise à mort de Jésus et du Livre d'Urantia lui-même. Considérez qu'il n'y a rien que je dise, bien sûr, dont la Commission de révélation ne soit déjà au courant. Considérez que si une visite est prévue pour cette période et que nos superviseurs célestes le savent, alors la façon dont les institutions du Livre d'Urantia ont réussi à diffuser les enseignements du Livre d'Urantia et à nous maintenir en fonctionnement en tant que communauté unifiée, bien que certainement importante (en particulier pour les âmes des lecteurs-croyants concernés), devient énormément moins significative pour la façon dont les choses se déroulent sur Urantia. De ce point de vue, tout ce qui a trait aux controverses sur le fait de savoir si nous sommes « seuls » et si le Traité d'Unité est authentique devient plutôt insignifiant. Je peux sentir l'amour et voir la sagesse dans ce type de plan, aucun problème.
 

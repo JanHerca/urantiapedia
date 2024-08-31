@@ -349,7 +349,6 @@ There are three chapters, or “Papers” as they are referred to in The Urantia
 
 In genetics the terms positive selection, negative selection, and drift are used, respectively, to describe circumstances that indicate a propensity to spread, an obstacle to spreading, or a neutral/random spread. Naturally, strong positive selection—rapid spread—begs for an explanation. Here is some of the commentary related to Microcephalin haplogroup D:
 
-> 
 > The gene microcephalin (MCPH1) regulates brain size during development and has experienced positive selection in the lineage leading to Homo sapiens. Within modern humans, a group of closely related haplotypes at this locus, known as haplogroup D, rose from a single copy ≈37,000 years ago and swept to exceptionally high frequency (≈70% worldwide today) because of positive selection. . . Furthermore, it buttresses the important notion that, through such admixture, our species has benefited evolutionarily by gaining new advantageous alleles.[^28]
 > 
 > The much younger coalescence age of the D chromosomes, despite their much higher frequency, is consistent with the action of positive selection on the D allele as reported previously.[^28]

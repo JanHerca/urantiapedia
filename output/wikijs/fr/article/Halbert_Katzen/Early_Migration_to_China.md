@@ -83,11 +83,11 @@ Le 11 mars 2009, Paul Rincon, journaliste scientifique pour BBC News, a publié 
 > 
 > Les chercheurs Russell Ciochon et E Arthur Bettis III, de l'Université de l'Iowa, aux États-Unis, pensent que ces cycles climatiques ont pu provoquer l'expansion d'habitats ouverts, tels que les prairies et les steppes. Ces environnements auraient été riches en mammifères qui auraient pu être chassés ou récupérés par les premiers humains. [^1]
 
-« La race humaine a presque un million d'années », selon le Livre d'Urantia.[^2] Mais la mutation génétique progressive qui a donné naissance à la race humaine, apparue pour la première fois chez des jumeaux, bien que suffisante pour le développement du mental humain primitif, n'a pas été suffisante pour soutenir grand-chose en termes de civilisation humaine primitive. Cette première race primitive d'êtres humains est appelée Andonites dans le Livre d'Urantia. En passant en revue l'histoire de l'humanité, les auteurs racontent qu'une amélioration génétique significative s'est produite après nos 150 000 premières années (il y a 850 000 ans). Cet événement concerne une tribu d'êtres humains primitifs qui vivaient dans la région générale où l'humanité a commencé. Le Livre d'Urantia les appelle les tribus « Badonan ».
+« La race humaine a presque un million d'années », selon le Livre d'Urantia.[^2] Mais la mutation génétique progressive qui a donné naissance à la race humaine, apparue pour la première fois chez des jumeaux, bien que suffisante pour le développement du mental humain primitif, n'a pas été suffisante pour soutenir grand-chose en termes de civilisation humaine primitive. Cette première race primitive d'êtres humains est appelée Andonites dans le Livre d'Urantia. En passant en revue l'histoire de l'humanité, les auteurs racontent qu'une amélioration génétique significative s'est produite après nos 150 000 premières années (il y a 850 000 ans). Cet événement concerne une tribu d'êtres humains primitifs qui vivaient dans la région générale où l'humanité a commencé. _Le Livre d'Urantia_ les appelle les tribus « Badonan ».
 
-> À l'est des peuples Badonan, dans les collines Siwalik du nord de l'Inde, on peut trouver des fossiles qui se rapprochent davantage des types de transition entre l'homme et les divers groupes préhumains que n'importe quel autre sur terre.
+> À l’est du domaine des peuples de Badonan, dans les monts Siwalik du Nord de l’Inde, on trouve des fossiles qui se rapprochent, plus que nulle part ailleurs sur terre, des types de transition entre l’homme et les différents groupes préhumains.
 > 
-Il y a 850 000 ans, les tribus badoniennes supérieures commencèrent une guerre d'extermination dirigée contre leurs voisins inférieurs et bestiaux. En moins de mille ans, la plupart des groupes d'animaux des régions frontalières avaient été soit détruits, soit refoulés vers les forêts du sud. Cette campagne d'extermination des inférieurs entraîna une légère amélioration chez les tribus montagnardes de cette époque. Et les descendants mixtes de cette souche badonite améliorée apparurent sur la scène de l'action comme un peuple apparemment nouveau - la race néandertalienne.[^3]
+> *Il y a 850 000 ans,* les tribus supérieures de Badonan commencèrent une guerre d’extermination contre leurs voisins inférieurs à tendances animales. En moins de mille ans, la plupart des groupes animaux de ces régions avaient été soit détruits, soit repoussés dans les forêts du sud. Cette campagne entreprise pour exterminer des êtres inférieurs conduisit à une légère amélioration chez les tribus montagnardes de cette époque. Les descendants mêlés de cette branche badonite améliorée apparurent sur la scène d’activité du monde comme un peuple apparemment nouveau — la *race du Néandertal.*[^3]
 
 Notez que les auteurs fournissent des indices sur les endroits où nous pouvons faire de nouvelles découvertes importantes liées aux fossiles humains. Ces types d'indices apparaissent fréquemment dans le texte.
 
@@ -95,7 +95,7 @@ Les auteurs du Livre d'Urantia définissent la race néandertalienne selon leurs
 
 Après avoir fourni cette nouvelle définition de la race néandertalienne, _Le Livre d'Urantia_ continue à décrire leurs activités et leurs migrations.
 
-> Les Néandertaliens étaient d'excellents combattants et ils voyageaient beaucoup. Ils se sont progressivement répandus depuis les hauts plateaux du nord-ouest de l'Inde jusqu'à la France à l'ouest, la Chine à l'est et même jusqu'en Afrique du Nord. Ils ont dominé le monde pendant près d'un demi-million d'années jusqu'à l'époque de la migration des races évolutives de couleur.[^5]
+> Les Néandertaliens étaient d’excellents combattants et de grands voyageurs. Partant des hautes terres du Nord-Ouest de l’Inde, ils se répandirent progressivement à l’est dans la Chine et à l’ouest jusqu’en France, et descendirent même en Afrique du Nord. Ils dominèrent le monde pendant près d’un demi-million d’années jusqu’à l’époque de la migration des races évolutionnaires de couleur.[^5]
 
 _Le Livre d'Urantia_ décrit la race néandertalienne comme une race qui « a beaucoup voyagé » et « a dominé le monde ». Les conclusions auxquelles est parvenue l'équipe de recherche américano-chinoise en 2008 sont plus proches, d'environ 200 000 ans, de la description de cette période par _Le Livre d'Urantia_. Leurs recherches ont eu lieu plus de cinquante ans après la publication du _Livre d'Urantia_. Les nouvelles techniques de recherche avancée réalisées par cette équipe fournissent pour la première fois une datation relativement précise. Le résumé de leur rapport stipule :
 
@@ -103,31 +103,31 @@ _Le Livre d'Urantia_ décrit la race néandertalienne comme une race qui « a be
 
 Les commentaires finaux du résumé concernant la « période glaciaire douce » sont en harmonie avec la description de l'histoire humaine primitive fournie dans Le Livre d'Urantia, indiquant que les humains primitifs les plus avancés préféraient les climats plus froids comme moyen de se protéger des humains primitifs génétiquement inférieurs et des simiens qui avaient tendance à préférer des climats plus salubres.
 
-L'homme primitif fit son apparition évolutive sur terre [dans la région générale de l'Afghanistan] il y a un peu moins d'un million d'années, et il en eut une expérience vigoureuse. Il chercha instinctivement à échapper au danger de se mêler aux tribus simiennes inférieures. Mais il ne pouvait pas migrer vers l'est à cause des altitudes arides du Tibet, 30 000 pieds au-dessus du niveau de la mer ; il ne pouvait pas non plus aller vers le sud ou l'ouest à cause de l'élargissement de la mer Méditerranée, qui s'étendait alors vers l'est jusqu'à l'océan Indien ; et en allant vers le nord, il rencontra la glace qui avançait. Mais même lorsque la migration ultérieure fut bloquée par la glace, et bien que les tribus dispersées devinrent de plus en plus hostiles, les groupes les plus intelligents n'envisagèrent jamais l'idée d'aller vers le sud pour vivre parmi leurs cousins arboricoles velus d'intellect inférieur.
+> Les hommes primitifs firent leur apparition évolutionnaire sur terre il y a un peu moins d’un million d’années et furent mis à rude épreuve. Ils cherchèrent instinctivement à échapper au danger d’un croisement éventuel avec les tribus simiennes inférieures. Mais les hautes terres arides du Tibet, avec leurs 9 000 mètres d’altitude, empêchaient les migrations vers l’est. Ils ne pouvaient pas non plus se diriger vers le sud ou vers l’ouest parce que la mer Méditerranée était beaucoup plus vaste qu’aujourd’hui et s’étendait à l’est jusqu’à l’océan Indien. Quand ils allèrent vers le nord, ils rencontrèrent les glaces qui avançaient. Mais, même lorsque leur migration ultérieure fut arrêtée par les glaces, et bien que les tribus en dispersion devinssent de plus en plus hostiles, les groupes les plus intelligents n’envisagèrent jamais d’aller vers le sud vivre au milieu de leurs cousins arboricoles velus d’un niveau intellectuel inférieur.
 > 
-> Les premières émotions religieuses de l'homme sont nées de son sentiment d'impuissance dans l'environnement confiné de cette situation géographique - montagnes à droite, eau à gauche et glace devant. Mais ces Andonites progressistes ne voulaient pas retourner vers leurs parents arboricoles inférieurs du sud.
+> Parmi les émotions religieuses les plus anciennes de l’homme, nombreuses sont celles qui naquirent de son sentiment d’impuissance dans l’environnement fermé de cette situation géographique : des montagnes à droite, de l’eau à gauche et la glace en face ; mais ces Andonites progressistes ne voulaient pas revenir au sud chez leurs parents inférieurs, qui vivaient dans les arbres.
 > 
-> Ces Andonites évitaient les forêts, contrairement à leurs parents non humains. Dans les forêts, l'homme s'est toujours détérioré ; l'évolution humaine n'a progressé qu'en plein air et sous les latitudes les plus élevées. Le froid et la faim des terres ouvertes stimulent l'action, l'invention et l'ingéniosité. Tandis que ces tribus andoniques formaient les pionniers de la race humaine actuelle au milieu des difficultés et des privations de ces climats nordiques rudes, leurs cousins arriérés se complaisaient dans les forêts tropicales du sud du pays de leur origine commune.
+> Contrairement aux habitudes de leurs cousins non humains, les Andonites évitaient les forêts. L’homme a toujours dégénéré dans les forêts ; l’évolution humaine n’a progressé qu’en terrain découvert et sous les latitudes élevées. Le froid et la faim régnant dans les pays découverts stimulent l’activité, l’invention et l’esprit d’entreprise. Tandis que ces tribus andoniques produisaient les pionniers de la race humaine actuelle au milieu des rudes épreuves et des privations des rigoureux climats nordiques, leurs cousins arriérés se prélassaient dans les forêts tropicales méridionales du pays de leur origine primitive commune.
 > 
-> Ces événements se sont produits à l'époque du troisième glacier, le premier selon les géologues. Les deux premiers glaciers n'étaient pas très étendus en Europe du Nord. [^7]
+> Ces évènements se produisirent à l’époque de la troisième invasion glaciaire, celle que vos géologues appellent la première. Les deux premières furent peu étendues en Europe septentrionale. [^7]
 > 
-Il y a 800 000 ans, le gibier était abondant ; de nombreuses espèces de cerfs, ainsi que des éléphants et des hippopotames, parcouraient l'Europe. Le bétail était abondant ; les chevaux et les loups étaient omniprésents. Les Néandertaliens étaient de grands chasseurs ...
+> *Il y a 800 000 ans,* le gibier était très abondant ; de nombreux cervidés ainsi que des éléphants et des hippopotames sillonnaient l’Europe. Le bétail abondait ; des chevaux et des loups se rencontraient en tous lieux. Les Néandertaliens étaient de grands chasseurs, et les tribus vivant en France furent les premières à adopter la pratique consistant à donner le choix des épouses aux meilleurs chasseurs. ...
 > 
-> Le renne était très utile à ces peuples néandertaliens, servant de nourriture, de vêtement et d'outils, car ils faisaient divers usages des cornes et des os.[^8]
+> Le renne fut extrêmement utile à ces peuples du Néandertal. Ils s’en servirent pour se nourrir, s’habiller et s’outiller, car ils employèrent à divers usages ses bois et ses os.[^8]
 > 
-Il y a 750 000 ans, la quatrième calotte glaciaire avançait vers le sud. Grâce à leurs outils perfectionnés, les Néandertaliens perçaient des trous dans la glace recouvrant les rivières du nord et pouvaient ainsi harponner les poissons qui remontaient ces évents. Ces tribus se retiraient toujours devant l'avancée des glaces, qui à cette époque constituaient leur plus grande invasion de l'Europe.
+> *Il y a 750 000 ans,* la quatrième nappe glaciaire s’avançait franchement vers le sud. Avec leurs outils améliorés, les Néandertaliens faisaient des trous dans la glace qui recouvrait les rivières nordiques et pouvaient ainsi harponner les poissons remontant vers ces orifices. Les tribus reculèrent constamment devant l’avance des glaces dont l’invasion la plus étendue en Europe avait alors lieu.
 > 
-> A cette époque, le glacier sibérien faisait sa marche vers le sud, obligeant l'homme primitif à se déplacer vers le sud, vers ses terres d'origine. Mais l'espèce humaine s'était tellement différenciée que le danger de se mêler davantage à ses parents simiens non progressifs était grandement réduit.
+> À cette époque, le glacier sibérien atteignit le maximum de sa progression vers le sud, obligeant les hommes primitifs à se déplacer dans la même direction vers leurs pays d’origine. L’espèce humaine s’était alors suffisamment différenciée pour que fût grandement diminué le danger d’un nouveau croisement avec ses parents simiens incapables de progresser.
 > 
-Il y a 700 000 ans, le quatrième glacier, le plus grand de tous ceux d'Europe, était en retrait ; les hommes et les animaux retournaient vers le nord.[^9]
+> Il y a 700 000 ans, la quatrième invasion glaciaire, la plus grande qu’ait connue l’Europe, était en cours de régression ; les hommes et les animaux retournaient vers le nord.[^9]
 
 En référence à la race néandertalienne, _Le Livre d'Urantia_ indique également que ces peuples primitifs étaient habiles à fabriquer les types les plus avancés de haches à main.
 
-> Ils avaient peu de culture, mais ils améliorèrent grandement le travail du silex jusqu'à atteindre presque les niveaux de l'époque d'Andon [Andon et Fonta sont les noms des deux premiers êtres humains]. De gros silex attachés à des manches en bois revinrent à l'usage et servaient de haches et de pioches.[^10]
+> Le renne fut extrêmement utile à ces peuples du Néandertal. Ils s’en servirent pour se nourrir, s’habiller et s’outiller, car ils employèrent à divers usages ses bois et ses os. Ils étaient peu cultivés, mais apportèrent de grandes améliorations au travail des silex, auquel ils firent presque atteindre les niveaux du temps d’Andon. Ils remirent en usage de gros silex attachés à des manches de bois pour servir de haches et de pioches.[^10]
 > 
-> Alors qu'il vivait encore avec ses parents, Andon avait fixé un morceau de silex pointu au bout d'une massue, en utilisant à cet effet des tendons d'animaux...[^11]
+> Alors qu’il vivait encore avec ses parents, Andon avait fixé, à l’aide de tendons d’animaux, ....[^11]
 > 
-> L'invention des outils d'armes a permis à l'homme de devenir un chasseur et de s'affranchir ainsi considérablement de l'esclavage alimentaire. Un Andonite réfléchi qui s'était gravement blessé au poing lors d'un combat sérieux a redécouvert l'idée d'utiliser un long bâton pour son bras et un morceau de silex dur, lié à l'extrémité par des tendons, pour son poing. De nombreuses tribus ont fait des découvertes indépendantes de ce type, et ces diverses formes de marteaux ont représenté l'un des grands progrès de la civilisation humaine.[^12]
+> L’invention des armes-outils permit aux hommes de devenir des chasseurs et de se libérer ainsi en grande partie de l’esclavage de la nourriture. Un Andonite réfléchi, qui s’était sérieusement meurtri le poing dans un combat violent, redécouvrit l’idée d’utiliser, au lieu de son bras, un long bâton à l’extrémité duquel il avait attaché, avec des tendons, un morceau de silex dur pour remplacer le poing. De nombreuses tribus firent, chacune de leur côté, des découvertes de ce genre, et ces diverses formes de marteaux représentèrent l’un des grands pas en avant de la civilisation humaine.[^12]
 
 Le commentaire ci-dessus est cohérent avec les réexamens plus récents des artefacts découverts sur les sites archéologiques en Chine. Ces réexamens ont eu lieu parce que la date du site de l'Homme de Pékin a été repoussée de 200 000 ans. Un article du 28 avril 2011 sur history.com rapporte :
 
@@ -167,7 +167,7 @@ Wikipedia fournit un aperçu de la ligne Movius et de son importance :
 <img src="/image/article/Halbert_Katzen/Early_Migration_to_China/map.jpg">
 </figure>
 
-La théorie de la ligne Movius, qui a débuté en 1948 et a prédominé pendant des décennies, est nettement différente de la description de l'histoire humaine primitive publiée dans Le Livre d'Urantia en 1955. L'article du Smithsonian Institute reconnaît directement que les nouvelles découvertes nous obligent à abandonner la théorie de la ligne Movius concernant les premières routes de migration et les technologies des humains primitifs. Bien qu'il ait fallu plus de quarante ans, l'étude et le développement continus des sites archéologiques en Chine, en conjonction avec les relations plus ouvertes et coopératives entre l'est et l'ouest, commencent à révéler une image de l'activité humaine primitive plus proche de la description de cette période par Le Livre d'Urantia.
+La théorie de la ligne Movius, qui a débuté en 1948 et a prédominé pendant des décennies, est nettement différente de la description de l'histoire humaine primitive publiée dans _Le Livre d'Urantia_ en 1955. L'article du Smithsonian Institute reconnaît directement que les nouvelles découvertes nous obligent à abandonner la théorie de la ligne Movius concernant les premières routes de migration et les technologies des humains primitifs. Bien qu'il ait fallu plus de quarante ans, l'étude et le développement continus des sites archéologiques en Chine, en conjonction avec les relations plus ouvertes et coopératives entre l'est et l'ouest, commencent à révéler une image de l'activité humaine primitive plus proche de la description de cette période par Le Livre d'Urantia.
 
 ## Liens externes
 
@@ -191,6 +191,21 @@ La théorie de la ligne Movius, qui a débuté en 1948 et a prédominé pendant 
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 <br>
 

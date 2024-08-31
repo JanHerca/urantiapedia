@@ -34,15 +34,15 @@ Préparé par Halbert Katzen, J.D. avec des remerciements particuliers à Chris 
 <img src="/image/article/Halbert_Katzen/Mercurys_Rotation/mercury.jpg">
 </figure>
 
-Le Livre d'Urantia déclare que le frottement des marées ralentit la rotation axiale des corps célestes jusqu'à l'arrêt (par rapport au corps autour duquel ils tournent) et cite Mercure et la Lune comme exemples. Il est bien établi depuis longtemps que la rotation de la Lune s'est arrêtée, et on croyait aussi au moment de la publication (1955) que la rotation de Mercure avait cessé. Bien que la croyance largement répandue au moment de la publication du Livre d'Urantia était que Mercure avait arrêté sa rotation, lorsque Le Livre d'Urantia aborda le sujet du frottement des marées qui ralentit les corps en orbite jusqu'à l'arrêt, il ne déclara pas que Mercure s'était arrêté et dépeignit seulement la Lune comme un corps qui avait arrêté sa rotation à cause du frottement des marées. En 1965, nous avons appris que Mercure a effectivement une rotation lente. Le Livre d'Urantia a évité le piège d'être d'accord avec la science qui était erronée, mais largement acceptée, au moment de sa publication.
+_Le Livre d'Urantia_ déclare que le frottement des marées ralentit la rotation axiale des corps célestes jusqu'à l'arrêt (par rapport au corps autour duquel ils tournent) et cite Mercure et la Lune comme exemples. Il est bien établi depuis longtemps que la rotation de la Lune s'est arrêtée, et on croyait aussi au moment de la publication (1955) que la rotation de Mercure avait cessé. Bien que la croyance largement répandue au moment de la publication du Livre d'Urantia était que Mercure avait arrêté sa rotation, lorsque _Le Livre d'Urantia_ aborda le sujet du frottement des marées qui ralentit les corps en orbite jusqu'à l'arrêt, il ne déclara pas que Mercure s'était arrêté et dépeignit seulement la Lune comme un corps qui avait arrêté sa rotation à cause du frottement des marées. En 1965, nous avons appris que Mercure a effectivement une rotation lente. _Le Livre d'Urantia_ a évité le piège d'être d'accord avec la science qui était erronée, mais largement acceptée, au moment de sa publication.
 
 <br style="clear:both;"/>
 
 ## Revue de la rotation de Mercure
 
-Ce rapport est différent de la plupart des autres rapports sur UBtheNEWS. La plupart des rapports portent sur la façon dont les avancées scientifiques corroborent des informations historiques et scientifiques qui n'étaient pas confirmées en 1955, lorsque Le Livre d'Urantia a été publié. C'est un exemple de la façon dont Le Livre d'Urantia a évité le piège d'être d'accord avec la science qui était inexacte au moment de la publication. C'est le niveau de corroboration le plus bas et il aurait pu être tout simplement ignoré, s'il n'y avait pas eu de malentendus sur cette question à l'intérieur et à l'extérieur de la communauté des lecteurs du Livre d'Urantia.
+Ce rapport est différent de la plupart des autres rapports sur UBtheNEWS. La plupart des rapports portent sur la façon dont les avancées scientifiques corroborent des informations historiques et scientifiques qui n'étaient pas confirmées en 1955, lorsque _Le Livre d'Urantia_ a été publié. C'est un exemple de la façon dont _Le Livre d'Urantia_ a évité le piège d'être d'accord avec la science qui était inexacte au moment de la publication. C'est le niveau de corroboration le plus bas et il aurait pu être tout simplement ignoré, s'il n'y avait pas eu de malentendus sur cette question à l'intérieur et à l'extérieur de la communauté des lecteurs du Livre d'Urantia.
 
-Les malentendus concernent l'utilisation de la terminologie et la construction grammaticale de la phrase relative à ce sujet. Les malentendus sur ces questions ont amené les lecteurs du Livre d'Urantia et les non-lecteurs du Livre d'Urantia à conclure qu'il s'agit d'un exemple d'inexactitude dans Le Livre d'Urantia. Cette histoire de malentendus fait de ce sujet un sujet important à couvrir par UBtheNEWS, même si la crédibilité que le sujet fournit au Livre d'Urantia est considérablement moindre que les rapports sur les conflits qui se sont révélés corroborés. Dans ce cas, il n'y a jamais eu de véritable conflit entre Le Livre d'Urantia et la science de 1955, sauf dans l'esprit de ceux qui ont mal lu et/ou mal interprété ce qu'il dit.
+Les malentendus concernent l'utilisation de la terminologie et la construction grammaticale de la phrase relative à ce sujet. Les malentendus sur ces questions ont amené les lecteurs du _Livre d'Urantia_ et les non-lecteurs du _Livre d'Urantia_ à conclure qu'il s'agit d'un exemple d'inexactitude dans _Le Livre d'Urantia_. Cette histoire de malentendus fait de ce sujet un sujet important à couvrir par UBtheNEWS, même si la crédibilité que le sujet fournit au Livre d'Urantia est considérablement moindre que les rapports sur les conflits qui se sont révélés corroborés. Dans ce cas, il n'y a jamais eu de véritable conflit entre _Le Livre d'Urantia_ et la science de 1955, sauf dans l'esprit de ceux qui ont mal lu et/ou mal interprété ce qu'il dit.
 
 En raison de la controverse historique liée à ce sujet, ce rapport abordera d'abord les questions de terminologie et d'interprétation avant d'entrer dans le vif du sujet. Pour fournir un contexte, voici les deux phrases pertinentes du _Livre d'Urantia_ :
 
@@ -60,7 +60,7 @@ La question de la terminologie concerne la définition de ce que signifie cesser
 
 De toute évidence, Tesla avait une attitude critique envers les capacités analytiques de ceux qui rejettent sa définition, dénigrant de telles positions au statut de ce qui est « défini avec désinvolture dans les dictionnaires ». Le point ici, cependant, n'est pas que _Le Livre d'Urantia_ et Tesla ont « raison » sur la façon dont le terme est défini et que toutes les autres définitions sont « fausses ». Bien au contraire, comme les critiques soulevées contre _Le Livre d'Urantia_ indiquent que les définitions contradictoires sont toujours avec nous près de cent ans après que Tesla ait écrit sur ce sujet. Tenter une définition autorisée du terme serait excessif et contreproductif. Lorsqu'ils discernent le sens d'un écrit, les lecteurs ont l'obligation proactive, s'ils veulent avoir une intégrité intellectuelle, de donner une latitude aux auteurs concernant la définition de la terminologie. Quiconque ouvre un dictionnaire découvre facilement que les définitions multiples sont un aspect fondamental du langage. Et, comme dans le cas présent, ces définitions multiples peuvent même parfois être en désaccord les unes avec les autres.
 
-La définition utilisée par Le Livre d'Urantia est tout à fait raisonnable et résiste aux critiques qui lui sont adressées, affirmant qu'il a défini le terme « de manière erronée ». Créer une controverse sur la définition des termes revient simplement à éviter de considérer sérieusement les concepts substantiels exprimés. Ceux qui veulent traiter des questions de fond, plutôt que de présenter des arguments « factices », ont l'obligation de faire de leur mieux pour discerner le sens voulu et substantiel d'une affirmation, quelle que soit la manière dont l'auteur choisit de définir les termes. Ce que l'on entend par Le Livre d'Urantia lorsqu'il déclare que « la révolution axiale cesse » est non seulement très clair dans le contexte dans lequel la phrase apparaît, mais est également en bon accord avec la définition utilisée par le célèbre Nikola Tesla. Ainsi, il est démontré que les critiques qui ont été lancées contre Le Livre d'Urantia pour la façon dont il utilise la terminologie reflètent non seulement un intérêt à éviter les questions de fond, mais se révèlent également peu documentées et moins sophistiquées en ce qui concerne l'utilisation du langage en ce qui concerne ce sujet.
+La définition utilisée par _Le Livre d'Urantia_ est tout à fait raisonnable et résiste aux critiques qui lui sont adressées, affirmant qu'il a défini le terme « de manière erronée ». Créer une controverse sur la définition des termes revient simplement à éviter de considérer sérieusement les concepts substantiels exprimés. Ceux qui veulent traiter des questions de fond, plutôt que de présenter des arguments « factices », ont l'obligation de faire de leur mieux pour discerner le sens voulu et substantiel d'une affirmation, quelle que soit la manière dont l'auteur choisit de définir les termes. Ce que l'on entend par _Le Livre d'Urantia_ lorsqu'il déclare que « la révolution axiale cesse » est non seulement très clair dans le contexte dans lequel la phrase apparaît, mais est également en bon accord avec la définition utilisée par le célèbre Nikola Tesla. Ainsi, il est démontré que les critiques qui ont été lancées contre _Le Livre d'Urantia_ pour la façon dont il utilise la terminologie reflètent non seulement un intérêt à éviter les questions de fond, mais se révèlent également peu documentées et moins sophistiquées en ce qui concerne l'utilisation du langage en ce qui concerne ce sujet.
 
 En ce qui concerne la question de l'interprétation de la phrase du Livre d'Urantia sur la rotation de Mercure (ou son absence), certaines personnes ont suggéré que le Livre d'Urantia dit que la révolution axiale de Mercure s'est arrêtée et que, par conséquent, le Livre d'Urantia est incorrect. Cette opinion vient de l'extraction des phrases suivantes de la phrase dans laquelle elles apparaissent : « laissant un hémisphère de la planète toujours tourné vers le soleil ou un corps plus grand, comme l'illustre la planète Mercure. »
 
@@ -80,7 +80,7 @@ Ensuite vient la précision suivante, séparée par des virgules, « comme l'ill
 
 La dernière phrase éclaircissante se rapporte naturellement à la phrase qui la précède et distingue la Lune de Mercure. Elle aurait tout aussi bien pu dire quelque chose comme : « les deux tournent maintenant le même hémisphère vers le corps autour duquel ils orbitent ». Mais elle ne le fait pas. Au lieu de cela, elle distingue ces deux corps l'un de l'autre en ne traitant que du statut de la Lune. En distinguant les deux sphères l'une de l'autre, elle laisse Mercure seul comme exemple du sujet principal de la phrase, à savoir que le frottement des marées ralentit les planètes, finit par s'arrêter, et affecte d'abord les planètes les plus proches du Soleil.
 
-Ainsi, on peut voir, après une analyse grammaticale attentive de la phrase, qu'elle ne fait aucun commentaire sur le fait que Mercure a cessé de tourner. Sagement, Le Livre d'Urantia évite complètement ce sujet.
+Ainsi, on peut voir, après une analyse grammaticale attentive de la phrase, qu'elle ne fait aucun commentaire sur le fait que Mercure a cessé de tourner. Sagement, _Le Livre d'Urantia_ évite complètement ce sujet.
 
 Après avoir abordé les questions liées à la définition de la terminologie et à l'interprétation de la phrase, nous pouvons maintenant tourner notre attention vers l'histoire de notre (mauvaise) compréhension de la rotation de Mercure et comment cela se rapporte aux déclarations faites dans _Le Livre d'Urantia_ sur ce sujet.
 
@@ -90,7 +90,7 @@ Wikipedia.com fournit le commentaire suivant :
 
 Cette découverte a été faite dix ans après la publication du _Livre d'Urantia_.
 
-Bien que Le Livre d'Urantia ait évité le piège de s'accorder avec la science qui était erronée au moment de sa publication, il existe un désaccord réel (contrairement aux désaccords mal perçus déjà abordés) entre Le Livre d'Urantia et la science contemporaine. Alors que Le Livre d'Urantia dit que la friction des marées fait qu'une planète tourne toujours plus lentement jusqu'à ce que la révolution axiale cesse, la science contemporaine soutient généralement la notion que Mercure a une résonance spin-orbite stable de 3:2.
+Bien que _Le Livre d'Urantia_ ait évité le piège de s'accorder avec la science qui était erronée au moment de sa publication, il existe un désaccord réel (contrairement aux désaccords mal perçus déjà abordés) entre _Le Livre d'Urantia_ et la science contemporaine. Alors que _Le Livre d'Urantia_ dit que la friction des marées fait qu'une planète tourne toujours plus lentement jusqu'à ce que la révolution axiale cesse, la science contemporaine soutient généralement la notion que Mercure a une résonance spin-orbite stable de 3:2.
 
 Il reste à déterminer si des recherches plus poussées s'accorderont avec l'affirmation du Livre d'Urantia selon laquelle la friction des marées provoquera l'arrêt de la rotation de la planète. Il est douteux qu'une telle harmonie se produise dans un avenir proche, car les observations actuelles suggèrent que sa résonance spin-orbite 3:2 est stable. Néanmoins, des observations supplémentaires pourraient encore révéler que la rotation axiale de Mercure présente une certaine instabilité qui finira par la faire sortir de ce qui apparaît actuellement aux astronomes comme une résonance spin-orbite 3:2 stable.
 
@@ -102,7 +102,7 @@ Certaines recherches ont été dans le sens de calculer une telle probabilité/p
 
 Cela laisse la question un peu ouverte en indiquant que d'autres possibilités existaient. Cependant, la grande majorité des recherches sur le sujet n'abordent pas les autres possibilités de la manière dont elles sont évoquées dans l'article ci-dessus et il semble y avoir une acceptation assez uniforme de la notion selon laquelle la rotation est stable dans un avenir prévisible. Même cet article suggère que les autres possibilités concernaient des événements qui auraient pu se produire pendant les stades initiaux du développement de Mercure et non des développements futurs.
 
-Cependant, même si les opinions des astronomes sur ce sujet sont aujourd'hui aussi stables que la résonance actuelle de Mercure de 3:2, ce domaine continue d'être étudié. Les sondes satellites et les observations terrestres continuent de fournir de nouvelles données qui pourraient encore révéler un certain degré d'instabilité. Tout comme les astronomes ont été surpris dans les années 1960 par la découverte que Mercure n'est pas en résonance 1:1 avec le soleil, les progrès technologiques pourraient à nouveau fournir une image plus précise nous permettant de prédire une future résonance 1:1. En tout cas, Le Livre d'Urantia n'a pas eu tort d'affirmer que Mercure a cessé de tourner, car il ne fait tout simplement pas cette affirmation. Bien au contraire, il a fait du bon travail en évitant les erreurs scientifiques au moment de la publication.
+Cependant, même si les opinions des astronomes sur ce sujet sont aujourd'hui aussi stables que la résonance actuelle de Mercure de 3:2, ce domaine continue d'être étudié. Les sondes satellites et les observations terrestres continuent de fournir de nouvelles données qui pourraient encore révéler un certain degré d'instabilité. Tout comme les astronomes ont été surpris dans les années 1960 par la découverte que Mercure n'est pas en résonance 1:1 avec le soleil, les progrès technologiques pourraient à nouveau fournir une image plus précise nous permettant de prédire une future résonance 1:1. En tout cas, _Le Livre d'Urantia_ n'a pas eu tort d'affirmer que Mercure a cessé de tourner, car il ne fait tout simplement pas cette affirmation. Bien au contraire, il a fait du bon travail en évitant les erreurs scientifiques au moment de la publication.
 
 
 
@@ -124,6 +124,21 @@ Cependant, même si les opinions des astronomes sur ce sujet sont aujourd'hui au
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 <br>
 
@@ -135,7 +150,7 @@ Cependant, même si les opinions des astronomes sur ce sujet sont aujourd'hui au
 
 [^3]: Définition de Vis viva: [L.] (Mech.), force vive; la force d'un corps se déplaçant contre une résistance, ou effectuant un travail, par opposition à vis mortua, ou force morte; l'énergie cinétique d'un corps en mouvement; la capacité d'un corps en mouvement à effectuer un travail en raison de son mouvement. [1913 Webster]
 
-[^4] : http://www.rastko.rs/projekti/tesla/delo/10847 New York Tribune — 23 février 1919 ; Tesla répond à M. Manierre et explique plus en détail la rotation axiale de la Lune. OCR par : Varsányi Péter (Pepe) www.tesla.hu. Version : 1.00 (2003-11-08)
+[^4]: http://www.rastko.rs/projekti/tesla/delo/10847 New York Tribune — 23 février 1919 ; Tesla répond à M. Manierre et explique plus en détail la rotation axiale de la Lune. OCR par : Varsányi Péter (Pepe) www.tesla.hu. Version : 1.00 (2003-11-08)
 
 [^5]: http://en.wikipedia.org/wiki/Planet_Mercury
 

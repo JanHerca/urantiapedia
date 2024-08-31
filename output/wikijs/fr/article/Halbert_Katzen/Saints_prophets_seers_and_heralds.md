@@ -42,7 +42,7 @@ Qui avait prévu cela avant que cela n’arrive ? Cela n’a rien à voir avec l
 
 De nouvelles opportunités surgissent et brillent, si vous voulez, lorsqu'un voyant ne peut pas être traité injustement, personnellement calomnié, menacé, brutalisé ou tué. Cela arrive parfois aux voyants et aux prophètes lorsque la traction sociale se développe. Les prophètes d'autrefois ont été ressuscités à l'époque de Jésus. Peut-être avaient-ils de bonnes idées pour améliorer le processus de prise de contact et de diffusion du message au monde.
 
-Le Livre d'Urantia établit-il un nouveau modèle général pour travailler avec un voyant, un prophète, un héraut ?
+_Le Livre d'Urantia_ établit-il un nouveau modèle général pour travailler avec un voyant, un prophète, un héraut ?
 
 Quelles sont les implications de ce nouveau processus pour les développements post-publication ? Comment les implications pourraient-elles changer si les organisations d’origine ne remplissent pas les rôles qui leur ont été assignés ? Étant donné la trahison de Caligastia et la défaillance d’Adam et Eve, pouvons-nous raisonnablement espérer que cet effort mené par des humains réussisse mieux ?
 

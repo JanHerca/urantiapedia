@@ -271,13 +271,13 @@ There are even Egyptian carvings that depict the collection of the semen, which 
 <img src="/image/article/Halbert_Katzen/Gobekli_Tepe/Fishhead-Adam-Eve1.jpg" width="745" heigth="483">
 </figure>
 
-> The cultural age of the second garden was terminated by the increasing infiltration of the surrounding inferior stocks. Civilization moved westward to the Nile and the Mediterranean islands, where it continued to thrive and advance long after its fountainhead in Mesopotamia had deteriorated. And this unchecked influx of inferior peoples prepared the way for the later conquest of all Mesopotamia by the northern barbarians who drove out the residual strains of ability. Even in later years the cultured residue still resented the presence of these ignorant and uncouth invaders.
+> The cultural age of the second garden was terminated by the increasing infiltration of the surrounding inferior stocks. Civilization moved westward to the Nile and the Mediterranean islands, where it continued to thrive and advance long after its fountainhead in Mesopotamia had deteriorated. And this unchecked influx of inferior peoples prepared the way for the later conquest of all Mesopotamia by the northern barbarians who drove out the residual strains of ability. Even in later years the cultured residue still resented the presence of these ignorant and uncouth invaders.[^30]
 
 #### Integrating Scientific Knowledge with Spiritual Practices
 
 There is a paragraph in *The Urantia Book* about how certain glandular activity has an impact on “inherent imagination and spiritual receptivity.”
 
-> [3.] Spirit-reception series.There are three groups of mind design as related to contact with spirit affairs. This classification does not refer to the one-, two-, and three-brained orders of mortals; it refers primarily to gland chemistry, more particularly to the organization of certain glands comparable to the pituitarybodies. The races on some worlds have one gland, on others two, as do Urantians, while on still other spheres the races have three of these unique bodies. The inherent imagination and spiritual receptivity is definitely influenced by this differential chemical endowment.
+> [3.] Spirit-reception series.There are three groups of mind design as related to contact with spirit affairs. This classification does not refer to the one-, two-, and three-brained orders of mortals; it refers primarily to gland chemistry, more particularly to the organization of certain glands comparable to the pituitarybodies. The races on some worlds have one gland, on others two, as do Urantians, while on still other spheres the races have three of these unique bodies. The inherent imagination and spiritual receptivity is definitely influenced by this differential chemical endowment.[^31]
 
 It seems, perhaps in an effort to not provide scientific information that we can figure out for ourselves, the revelators did not specifically mention the pituitary gland, instead using a comparison to the pituitary as part of providing cosmological teachings that are beyond human discovery.
 

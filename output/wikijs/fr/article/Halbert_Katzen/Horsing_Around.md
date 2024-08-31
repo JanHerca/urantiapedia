@@ -1,5 +1,5 @@
 ---
-title: "Rapport sur les balades à cheval"
+title: "Domestication du cheval"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -27,13 +27,13 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Préparé par Halbert Katzen, J.D. [25/11/11]
 
-## Horsing Around Résumé
+## Domestication du cheval — Résumé
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Halbert_Katzen/Horsing_Around/edbutcheristoofunny.jpg">
 </figure>
 
-Lorsque Le Livre d'Urantia fut publié en 1955, il n'existait aucune preuve archéologique pour étayer ses affirmations sur le lieu et la date de la première domestication du cheval et sur la manière dont cette réalisation culturelle s'est propagée vers d'autres cultures à partir de son lieu d'origine. Plus de cinquante ans après sa publication, de nouvelles découvertes archéologiques en Arabie Saoudite et au Kazakhstan révèlent un soutien notable à la description que fait Le Livre d'Urantia de cette phase de civilisation en progrès.
+Lorsque _Le Livre d'Urantia_ fut publié en 1955, il n'existait aucune preuve archéologique pour étayer ses affirmations sur le lieu et la date de la première domestication du cheval et sur la manière dont cette réalisation culturelle s'est propagée vers d'autres cultures à partir de son lieu d'origine. Plus de cinquante ans après sa publication, de nouvelles découvertes archéologiques en Arabie Saoudite et au Kazakhstan révèlent un soutien notable à la description que fait _Le Livre d'Urantia_ de cette phase de civilisation en progrès.
 
 Les auteurs du Livre d'Urantia entrent dans un certain degré de détail concernant la domestication du cheval, affirmant que celle-ci a commencé en Mésopotamie et s'est répandue dans le monde à partir de cette région. Ces informations sont présentées dans le cadre d'une étude complète de l'histoire humaine. Dans Le Livre d'Urantia, les peuples qui ont initialement domestiqué le cheval sont appelés la race « Andite ». Les citations suivantes fournissent quelques points saillants de la description du Livre d'Urantia de la domestication du cheval en rapport avec les découvertes récentes :
 
@@ -59,7 +59,7 @@ Ces sites archéologiques sont des exemples de la façon dont les nouvelles déc
 
 Pour une appréciation plus large de l'apparition et de l'absorption éventuelle des races Adamite et Andite, voir le [Rapport Adam et Eve](/fr/article/Halbert_Katzen/Adam_and_Eve), qui est basé sur des études génétiques et linguistiques, et le [Rapport Gobekli Tepe](/fr/article/Halbert_Katzen/Gobekli_Tepe), qui concerne un site archéologique en Turquie qui remonte à plus de 11 000 ans.
 
-## Critique de Horsing Around
+## Domestication du cheval — Rapport complet
 
 Selon le Livre d'Urantia, l'humanité est née d'une mutation génétique survenue il y a environ un million d'années. Nos traditions religieuses concernant Adam et Ève, dit-il, sont issues d'une élévation génétique survenue il y a environ 40 000 ans. L'un des aspects particuliers de cette introduction d'une génétique supérieure dans le patrimoine génétique humain est que, bien que génétiquement supérieurs, les gènes d'Adam et Ève avaient une caractéristique rétrograde, ce qui signifie que chaque génération suivante a reçu une version de plus en plus dégradée de l'élévation génétique. Cette race, les Adamites, fut en partie responsable de l'évolution de la race andite, dont on dit qu'elle possède un huitième à un sixième d'héritage « adamite ». (Les Adamites sont également appelés la « race violette ».) L'absorption finale des Adamites dans le patrimoine génétique humain a donné naissance aux Andites. Cette transition a eu lieu il y a environ 15 000 à 20 000 ans.
 
@@ -67,17 +67,17 @@ L'histoire d'Adam et Eve dans Le Livre d'Urantia, bien que très différente de 
 
 Il est nécessaire d'avoir cette compréhension de base de la description de l'évolution humaine dans le Livre d'Urantia pour apprécier les commentaires qui apparaîtront dans les citations ci-dessous et qui se rapportent à la domestication du cheval. Les Andites sont originaires de Mésopotamie, d'où ils ont migré vers la plupart des régions du monde. Concernant les Andites et leur domestication du cheval, les auteurs déclarent :
 
-> Alors que les Andites affluaient en Europe en un flot constant, il y eut sept invasions majeures, les dernières arrivées venant à cheval en trois grandes vagues.[^1]
+> Un courant régulier d’Andites afflua en Europe, mais il y eut sept invasions majeures, les derniers envahisseurs arrivant à cheval en trois grandes vagues.[^1]
 
-> Les premières expansions de la race violette la plus pure étaient bien plus pacifiques que celles de leurs descendants andites semi-militaires et conquérants. . . .
+> Les expansions initiales de la race violette plus pure furent beaucoup plus pacifiques que celles de ses descendants andites ultérieurs qui étaient semi-militaires et aimaient les conquêtes. . . .
 > 
-> Mais le cheval fut le facteur évolutif qui détermina la domination des Andites en Occident. Le cheval donna aux Andites dispersés l'avantage jusqu'alors inexistant de la mobilité, permettant aux derniers groupes de cavaliers andites de progresser rapidement autour de la mer Caspienne pour envahir toute l'Europe. Toutes les vagues précédentes d'Andites s'étaient déplacées si lentement qu'elles avaient tendance à se désintégrer à grande distance de la Mésopotamie. Mais ces dernières vagues se sont déplacées si rapidement qu'elles ont atteint l'Europe en tant que groupes cohérents, conservant encore une certaine mesure de culture supérieure.[^2]
+> Toutefois, le cheval fut le facteur évolutionnaire qui détermina la domination des Andites en Occident. Le cheval donna aux Andites qui se dispersaient l’avantage auparavant inexistant de la mobilité, ce qui permit aux derniers groupes de cavaliers andites de progresser rapidement autour de la mer Caspienne pour envahir l’Europe entière. Toutes les vagues antérieures d’Andites s’étaient déplacées si lentement qu’elles avaient tendance à se désagréger dès qu’elles étaient à une grande distance de la Mésopotamie. Mais les vagues ultérieures avancèrent si rapidement qu’elles atteignirent l’Europe en groupes cohérents, conservant dans une certaine mesure leur culture supérieure.[^2]
 
-> Les trois dernières vagues d'Andites quittèrent la Mésopotamie entre 8000 et 6000 av. J.-C. Ces trois grandes vagues culturelles furent chassées de la Mésopotamie par la pression des tribus des collines à l'est et le harcèlement des habitants des plaines à l'ouest. Les habitants de la vallée de l'Euphrate et des territoires adjacents partirent pour leur exode final dans plusieurs directions :
+> Les trois dernières vagues d’Andites déferlèrent de Mésopotamie entre l’an 8 000 et l’an 6 000 av. J.-C. Ces trois grandes vagues culturelles furent refoulées de Mésopotamie par la pression des tribus montagnardes à l’est et par le harcèlement des hommes des plaines de l’ouest. Les habitants de la vallée de l’Euphrate et des territoires adjacents partirent, pour leur exode final, dans plusieurs directions :
 >
 > . . .
 >
-> Dix pour cent de ces Andites en fuite traversèrent l'Arabie et entrèrent en Égypte.[^3]
+> Dix pour cent de ces Andites en fuite traversèrent l’Arabie et entrèrent en Égypte.[^3]
 
 La découverte récente en Arabie Saoudite prouvant la domestication du cheval remonte à 7000 avant J.-C., soit au beau milieu de la période spécifiée dans le Livre d'Urantia pour la propagation de cette avancée culturelle en Arabie. D'autres sites archéologiques qui fournissent des preuves solides de la domestication du cheval sont au moins trois mille ans plus récents que celui-ci.
 
@@ -113,17 +113,17 @@ Fin août 2011, les agences de presse du monde entier ont commencé à publier d
 
 En plus de soutenir les déclarations du Livre d'Urantia sur la domestication du cheval, ce site archéologique en Arabie Saoudite fournit également des preuves pour le commentaire du livre sur les développements culturels comme le tissage et la domestication des animaux en général.
 
-> Ces Andites inaugurèrent de nouvelles avancées dans toute l'Eurasie et l'Afrique du Nord. De la Mésopotamie au Sinkiang, la culture andite était dominante, et la migration constante vers l'Europe était continuellement compensée par de nouvelles arrivées de Mésopotamie. Mais il n'est guère correct de parler des Andites comme d'une race en Mésopotamie proprement dite jusqu'au début des migrations terminales des descendants mixtes d'Adam. À cette époque, même les races du deuxième jardin étaient devenues si mélangées qu'elles ne pouvaient plus être considérées comme des Adamites.[^7]
+> Ces Andites firent faire de nouveaux progrès en Eurasie et en Afrique du Nord. De Mésopotamie jusqu’au Sin-Kiang inclus, la culture andite dominait, et les migrations continues vers l’Europe étaient constamment compensées par de nouvelles arrivées de Mésopotamie. Mais il ne serait pas exact de parler des Andites en Mésopotamie comme d’une race proprement dite avant les prodromes des migrations finales des descendants mixtes d’Adam. Dès cette époque, même les races du second jardin étaient tellement mêlées qu’elles ne pouvaient plus être considérées comme adamites.[^7]
 
-> La caravane d'Adam avait transporté avec elle les graines et les bulbes de centaines de plantes et de céréales du premier jardin jusqu'au pays situé entre les rivières ; elle avait également amené avec elle de vastes troupeaux et une partie de tous les animaux domestiques. De ce fait, elle possédait de grands avantages sur les tribus environnantes. Elle bénéficiait de nombreux avantages de la culture antérieure du jardin originel.[^8]
+> La caravane d’Adam avait transporté les semences et les bulbes de centaines de plantes ainsi que des céréales du premier jardin jusqu’au pays situé entre les deux fleuves. Les Adamites avaient aussi amené de vastes troupeaux et quelques spécimens de tous les animaux domestiques. Cela leur valait de grands avantages sur les tribus voisines. Ils profitaient de nombreux bienfaits de la culture antérieure du Jardin originel.[^8]
 
-> Les Adamites surpassèrent largement les peuples environnants en termes de réussite culturelle et de développement intellectuel. Ils produisirent le troisième alphabet et posèrent par ailleurs les fondations de ce qui fut le précurseur de l'art, de la science et de la littérature modernes. Ici, dans les terres situées entre le Tigre et l'Euphrate, ils conservèrent les arts de l'écriture, du travail des métaux, de la poterie et du tissage et produisirent un type d'architecture qui n'avait pas été surpassé depuis des milliers d'années.[^9]
+> Les Adamites dépassaient considérablement les peuplades environnantes en accomplissements culturels et en développement intellectuel. Ils produisirent le troisième alphabet et posèrent de nombreux fondements avant-coureurs de l’art, de la science et de la littérature modernes. Ici, dans les pays compris entre le Tigre et l’Euphrate, ils conservèrent les arts de l’écriture, du travail des métaux, de la poterie et du tissage. Ils élaborèrent un type d’architecture qui ne fut pas dépassé pendant des millénaires.[^9]
 
 Il n'est pas surprenant que le contenu de ce rapport recoupe des questions qui seront abordées dans le prochain rapport sur la domestication des animaux. Ce rapport couvrira une période plus longue car le Livre d'Urantia indique que l'élevage des animaux a commencé il y a environ 500 000 ans, bien avant la domestication du cheval. Étant moins complet par nature, ce rapport restera plus limité dans son champ d'action et n'abordera pas les questions soulevées par la découverte d'autres animaux et d'humains embaumés sur le site de Maqar en Arabie Saoudite.
 
 Dire, du point de vue du Livre d'Urantia, pourquoi exactement la domestication du cheval n'est survenue que beaucoup plus tard par rapport aux autres animaux serait spéculatif. Les auteurs ne donnent pas de raison spécifique.
 
-Bien que la découverte plus récente en Arabie Saoudite de la domestication du cheval il y a 9 000 ans apporte un soutien plus impressionnant aux commentaires du Livre d'Urantia sur ce sujet que celle du Kazakhstan, la découverte de 2009 confirmant la domestication précoce du cheval au Kazakhstan soutient également la description du Livre d'Urantia de la propagation de la culture andite. Le Livre d'Urantia déclare :
+Bien que la découverte plus récente en Arabie Saoudite de la domestication du cheval il y a 9 000 ans apporte un soutien plus impressionnant aux commentaires du Livre d'Urantia sur ce sujet que celle du Kazakhstan, la découverte de 2009 confirmant la domestication précoce du cheval au Kazakhstan soutient également la description du Livre d'Urantia de la propagation de la culture andite. _Le Livre d'Urantia_ déclare :
 
 > Les trois dernières vagues d'Andites ont quitté la Mésopotamie entre 8000 et 6000 av. J.-C.
 > 
@@ -131,9 +131,9 @@ Bien que la découverte plus récente en Arabie Saoudite de la domestication du 
 > 
 > Dix pour cent... se sont déplacés vers l'est à travers les hautes terres élamites jusqu'au plateau iranien et au Turkestan....
 > 
-> La civilisation du Turkestan fut constamment relancée et rafraîchie par les nouveaux venus de Mésopotamie, en particulier par les cavaliers andites ultérieurs.[^10]
+> La civilisation du Turkestan était constamment vivifiée et rénovée par les nouveaux arrivants de Mésopotamie, et spécialement par les cavaliers andites venus plus tardivement.[^10]
 > 
-> L'ensemble du monde habité, en dehors de la Chine et de la région de l'Euphrate, avait fait des progrès culturels très limités depuis dix mille ans lorsque les cavaliers andites firent leur apparition aux sixième et septième millénaires avant Jésus-Christ.[^11]
+> Depuis dix-mille ans, l’ensemble du monde habité, en dehors de la Chine et de la région de l’Euphrate, n’avait fait que des progrès culturels très limités lorsque les rudes cavaliers andites firent leur apparition au septième et au sixième millénaire avant le Christ.[^11]
 > 
 > Les Andites du Turkestan furent les premiers à domestiquer le cheval à grande échelle, ce qui explique pourquoi leur culture fut si longtemps prédominante. Vers 5000 av. J.-C., les agriculteurs de Mésopotamie, du Turkestan et de Chine avaient commencé à élever des moutons, des chèvres, des vaches, des chameaux, des chevaux, des volailles et des éléphants. Ils utilisaient comme bêtes de somme le bœuf, le chameau, le cheval et le yak.[^12]
 
@@ -219,6 +219,21 @@ Pour une perspective relativement rapide du Livre d'Urantia sur le développemen
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 <br>
 

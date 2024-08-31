@@ -91,7 +91,7 @@ La science est donc encore en phase de développement. De nombreux aspects liés
 
 Le degré auquel la science actuelle corrobore l'existence d'une activité ionique entre la troposphère et la stratosphère sera, bien entendu, le principal objectif de ce rapport. L'historique des observations liées à l'activité ionique sera examiné dans le cadre de l'explication donnée concernant l'état actuel des développements scientifiques. Mais cela sera abordé après avoir mis en contexte ce sujet en ce qui concerne la question de l'utilisation de « sources humaines ».
 
-La question des sources humaines dans la création du Livre d'Urantia se pose parce que le Livre d'Urantia prétend avoir été écrit par des anges. Le Livre d'Urantia explique la sagesse qui guide les permissions et les limitations imposées aux auteurs angéliques en ce qui concerne la présentation des informations. Les citations suivantes sont pertinentes à cet aspect du Livre d'Urantia :
+La question des sources humaines dans la création du Livre d'Urantia se pose parce que le Livre d'Urantia prétend avoir été écrit par des anges. _Le Livre d'Urantia_ explique la sagesse qui guide les permissions et les limitations imposées aux auteurs angéliques en ce qui concerne la présentation des informations. Les citations suivantes sont pertinentes à cet aspect du Livre d'Urantia :
 
 >Nous avons reçu pour instruction d'introduire de nouveaux termes uniquement lorsque le concept à décrire ne trouve aucune terminologie en anglais qui puisse être utilisée pour transmettre un tel nouveau concept partiellement ou même avec plus ou moins de distorsion de sens. » ([Urantia Book: Forward, paragraph 2](/fr/The_Urantia_Book/0#p2))
 > 

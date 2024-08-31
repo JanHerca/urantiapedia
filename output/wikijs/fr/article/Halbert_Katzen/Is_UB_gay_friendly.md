@@ -55,7 +55,7 @@ La perspective de Jésus :
 <img src="/image/article/Halbert_Katzen/Is_UB_gay_friendly/Stand2P-672x798.jpg">
 </figure>
 
-Le Livre d'Urantia est-il « gay friendly » ? À une époque, c'était une question assez simple, même si les gens n'étaient pas d'accord sur la réponse.
+_Le Livre d'Urantia_ est-il « gay friendly » ? À une époque, c'était une question assez simple, même si les gens n'étaient pas d'accord sur la réponse.
 
 En 2017, lorsque ce manuel d'étude a été préparé, le titre reflétait une approche trop étroite des questions culturelles et politiques contemporaines liées à la sexualité humaine. Encourager la réflexion sur la rapidité avec laquelle les perspectives et la politique changent était l'intention derrière ce titre désuet. La première introduction à ce sujet suggérait qu'une meilleure question à poser était : « Qu'enseigne _Le Livre d'Urantia_ sur les tendances sexuelles innées et les choix de vie ? »
 
@@ -484,7 +484,7 @@ Véritable monogamie – mariage en couple
 > 
 > The ideals of marriage have made great progress in recent times; among some peoples woman enjoys practically equal rights with her consort. In concept, at least, the family is becoming a loyal partnership for rearing offspring, accompanied by sexual fidelity. But even this newer version of marriage need not presume to swing so far to the extreme as to confer mutual monopoly of all personality and individuality. Marriage is not just an individualistic ideal; it is the evolving social partnership of a man and a woman, existing and functioning under the current mores, restricted by the taboos, and enforced by the laws and regulations of society.
 > 
-> Twentieth-century marriages stand high in comparison with those of past ages, notwithstanding that the home institution is now undergoing a serious testing because of the problems so suddenly thrust upon the social organization by the precipitate augmentation of woman’s liberties, rights so long denied her in the tardy evolution of the mores of past generations. ([UB 83:8.4-9](/en/The_Urantia_Book/83#p8_4))
+> Twentieth-century marriages stand high in comparison with those of past ages, notwithstanding that the home institution is now undergoing a serious testing because of the problems so suddenly thrust upon the social organization by the precipitate augmentation of woman’s liberties, rights so long denied her in the tardy evolution of the mores of past generations. ([UB 83:8.4-9](/fr/The_Urantia_Book/83#p8_4))
 
 Document 84 : Mariage et vie de famille
 

@@ -76,25 +76,25 @@ Deux des raisons avancées dans *Le Livre d'Urantia* pour justifier son existenc
 
 Selon *Le Livre d'Urantia* :
 
-> Les Adamites surpassèrent largement les peuples environnants en termes de réussite culturelle et de développement intellectuel. Ils produisirent le troisième alphabet et posèrent par ailleurs les fondations de ce qui fut le précurseur de l'art, de la science et de la littérature modernes. Ici, dans les terres situées entre le Tigre et l'Euphrate, ils conservèrent les arts de l'écriture, du travail des métaux, de la poterie et du tissage et produisirent un type d'architecture qui n'avait pas été surpassé depuis des milliers d'années. [^3]
+> Les Adamites dépassaient considérablement les peuplades environnantes en accomplissements culturels et en développement intellectuel. Ils produisirent le troisième alphabet et posèrent de nombreux fondements avant-coureurs de l’art, de la science et de la littérature modernes. Ici, dans les pays compris entre le Tigre et l’Euphrate, ils conservèrent les arts de l’écriture, du travail des métaux, de la poterie et du tissage. Ils élaborèrent un type d’architecture qui ne fut pas dépassé pendant des millénaires. [^3]
 > 
 > Ils [les enfants d’Adam et Ève] étaient... longévifs, même si la longévité gravitait vers la norme humaine à chaque génération successive. [^4]
 > 
-> Les visions physiques et spirituelles d'Adam et Eve étaient de loin supérieures à celles des peuples actuels. . . . Ces sens spéciaux n'étaient pas aussi présents chez leurs enfants et avaient tendance à diminuer à chaque génération suivante. [^5]
+> Adam et Ève avaient une vue physique et une vue spirituelle toutes deux très supérieures à celles des peuples d’aujourd’hui. . . . Ces sens spéciaux étaient moins aiguisés chez leurs enfants et tendaient à diminuer avec chaque génération successive. [^5]
 
 *Le Livre d'Urantia* utilise le terme Andites pour désigner la civilisation qui s'est développée en Mésopotamie lorsque les Adamites se sont mélangés de manière significative avec la population environnante. Les Andites ont un degré relativement élevé d'héritage adamique. En ce qui concerne la Mésopotamie pendant la période de Gobekli Tepe, il est indiqué :
 
-> Les [Adamites] . . . conservèrent les traditions édéniques de paix pendant de nombreux millénaires, ce qui explique leur long retard à faire des conquêtes territoriales. Lorsqu'ils souffraient de la pression démographique, au lieu de faire la guerre pour s'assurer plus de territoire, ils envoyaient leurs habitants excédentaires comme enseignants aux autres races. [^6]
+> Les [Adamites] . . . conserva, pendant de nombreux millénaires, les traditions pacifiques d’Éden, ce qui explique le long retard des Adamites à faire des conquêtes territoriales. Quand ils souffraient d’un excès de population, au lieu de faire la guerre pour s’assurer plus de territoires, ils envoyaient l’excédent de leurs habitants comme instructeurs auprès des autres races. [^6]
 > 
-> Ces Andites inaugurèrent de nouvelles avancées dans toute l'Eurasie et l'Afrique du Nord. De la Mésopotamie au Sinkiang, la culture andite était dominante, et la migration constante vers l'Europe était continuellement compensée par de nouveaux arrivants de Mésopotamie. Mais il n'est guère correct de parler des Andites comme d'une race en Mésopotamie proprement dite jusqu'au début des migrations terminales des descendants mixtes d'Adam. À cette époque, même les races du deuxième jardin étaient devenues si mélangées qu'elles ne pouvaient plus être considérées comme des Adamites. [^7]
+> Ces Andites firent faire de nouveaux progrès en Eurasie et en Afrique du Nord. De Mésopotamie jusqu’au Sin-Kiang inclus, la culture andite dominait, et les migrations continues vers l’Europe étaient constamment compensées par de nouvelles arrivées de Mésopotamie. Mais il ne serait pas exact de parler des Andites en Mésopotamie comme d’une race proprement dite avant les prodromes des migrations finales des descendants mixtes d’Adam. Dès cette époque, même les races du second jardin étaient tellement mêlées qu’elles ne pouvaient plus être considérées comme adamites. [^7]
 > 
-> Les trois dernières vagues d'Andites ont déferlé sur la Mésopotamie entre 8000 et 6000 avant J.-C. Ces trois grandes vagues de culture ont été chassées de Mésopotamie par la pression des tribus des collines à l'est et le harcèlement des hommes des plaines à l'ouest. [^8]
+> Les trois dernières vagues d’Andites déferlèrent de Mésopotamie entre l’an 8 000 et l’an 6 000 av. J.-C. Ces trois grandes vagues culturelles furent refoulées de Mésopotamie par la pression des tribus montagnardes à l’est et par le harcèlement des hommes des plaines de l’ouest. Les habitants de la vallée de l’Euphrate et des territoires adjacents partirent, pour leur exode final, dans plusieurs directions : [^8]
 
 C'est ainsi que *Le Livre d'Urantia* fournit une explication de l'histoire humaine qui est tout à fait cohérente avec les découvertes par ailleurs déroutantes qui continuent d'être faites à Gobekli Tepe, plus de quarante ans après sa rédaction.
 
 ### Découvrir les mystères de Göbekli Tepe
 
-Les chercheurs ont du mal à trouver des interprétations pour Gobekli Tepe pour une très bonne raison. D'une part, le professionnalisme exige qu'ils évitent de se montrer trop créatifs dans leurs spéculations et interprétations des preuves archéologiques et anthropologiques. Et, d'autre part, Gobekli Tepe exige de sortir des sentiers battus. Dans cet esprit, nous nous tournons maintenant vers des citations de diverses sources (principalement [newsweek.com](https://www.newsweek.com/) et [archaeology.org](https://www.archaeology.org/)) sur le mystère de Gobekli Tepe).
+Les chercheurs ont du mal à trouver des interprétations pour Gobekli Tepe pour une très bonne raison. D'une part, le professionnalisme exige qu'ils évitent de se montrer trop créatifs dans leurs spéculations et interprétations des preuves archéologiques et anthropologiques. Et, d'autre part, Gobekli Tepe exige de sortir des sentiers battus. Dans cet esprit, nous nous tournons maintenant vers des citations de diverses sources (principalement [newsweek.com](https://www.newsweek.com/) et [archaeology.org](https://www.archaeology.org/)) sur le mystère de Gobekli Tepe.
 
 <figure id="Gobekli_Tepe_fig_4" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Gobekli_Tepe/gobeklischmidt.png" width="450" heigth="340">
@@ -154,9 +154,9 @@ D'un côté, on pourrait penser que les chercheurs préfèrent faire des spécul
 
 ### Art, architecture et culture
 
-> Adam a laissé derrière lui une grande culture intellectuelle et spirituelle, mais elle n'était pas avancée en matière d'appareils mécaniques puisque chaque civilisation est limitée par les ressources naturelles disponibles, le génie inhérent et suffisamment de loisirs pour assurer la réalisation inventive. [^14]
+> Adam laissa derrière lui une grande culture intellectuelle et spirituelle, mais elle était pauvre en applications mécaniques, car toute civilisation est limitée par les ressources naturelles disponibles, le génie inné et les loisirs suffisants pour assurer la mise en œuvre des inventions. [^14]
 > 
-> Les Adamites surpassèrent largement les peuples environnants en termes de réussite culturelle et de développement intellectuel. Ils produisirent le troisième alphabet et posèrent par ailleurs les bases de ce qui fut le précurseur de l'art, de la science et de la littérature modernes. Ici, dans les terres situées entre le Tigre et l'Euphrate, ils conservèrent les arts de l'écriture, du travail des métaux, de la poterie et du tissage et produisirent un type d'architecture qui n'avait pas été surpassé depuis des milliers d'années. [^15]
+> Les Adamites dépassaient considérablement les peuplades environnantes en accomplissements culturels et en développement intellectuel. Ils produisirent le troisième alphabet et posèrent de nombreux fondements avant-coureurs de l’art, de la science et de la littérature modernes. Ici, dans les pays compris entre le Tigre et l’Euphrate, ils conservèrent les arts de l’écriture, du travail des métaux, de la poterie et du tissage. Ils élaborèrent un type d’architecture qui ne fut pas dépassé pendant des millénaires. [^15]
 
 A l'époque de Göbekli Tepe, rien n'est comparable en taille et en sophistication à la maçonnerie de Göbekli Tepe, tant sur le plan architectural qu'artistique. A cet égard, l'art sur l'architecture revêt une importance particulière car il révèle les expressions culturelles les plus avancées à ce jour de cette période. L'art fournit des informations importantes sur l'intersection de la vie matérielle et spirituelle de l'artiste.
 
@@ -188,23 +188,23 @@ De nombreuses sculptures sur les monolithes représentent une grande variété d
 
 Bien sûr, étant donné le récit du *Livre d’Urantia* selon lequel Adam et Ève étaient des élévateurs génétiques venus d’un autre monde, le lien avec l’érection est un point évident à souligner. Mais cela est encore plus intriguant lorsqu’on le considère en parallèle avec les commentaires du *Livre d’Urantia* sur la façon dont Adam et Ève étaient capables de voyager à l’époque sur le dos d’oiseaux géants. En racontant leurs premiers jours sur la planète, les auteurs déclarent :
 
-> Le troisième jour fut consacré à l'inspection du Jardin. Depuis les grands oiseaux passagers — les fandors — Adam et Ève contemplèrent les vastes étendues du Jardin tout en étant transportés dans les airs au-dessus de cet endroit, le plus beau de la terre.[^17]
+> Le troisième jour fut consacré à une inspection du Jardin. Installés sur les grands oiseaux transporteurs — les fandors — Adam et Ève contemplèrent de haut les vastes étendues du Jardin tandis qu’ils étaient transportés dans les airs au-dessus du plus magnifique paysage de la terre.[^17]
 
-Concernant l'apparence générale des grands oiseaux passagers dans l'histoire primitive des races mortelles, et des fandors, en particulier, Le Livre d'Urantia dit aussi :
+Concernant l'apparence générale des grands oiseaux passagers dans l'histoire primitive des races mortelles, et des fandors, en particulier, _Le Livre d'Urantia_ dit aussi :
 
-> L'homme évolutionnaire primitif n'est pas une créature colorée. En général, ces mortels primitifs habitent dans des cavernes ou des falaises. Ils construisent aussi des huttes rudimentaires dans les grands arbres. Avant d'acquérir un niveau d'intelligence élevé, les planètes sont parfois envahies par les plus gros types d'animaux. Mais au début de cette ère, les mortels apprennent à allumer et à entretenir le feu, et avec l'augmentation de l'imagination inventive et l'amélioration des outils, l'homme en évolution vainc bientôt les animaux plus grands et plus difficiles à manier. Les premières races font aussi un usage intensif des plus gros animaux volants. Ces énormes oiseaux sont capables de transporter un ou deux hommes de taille moyenne pour un vol sans escale de plus de cinq cents milles. Sur certaines planètes, ces oiseaux sont d'une grande utilité car ils possèdent un niveau d'intelligence élevé, étant souvent capables de parler de nombreux mots des langues du royaume. Ces oiseaux sont très intelligents, très obéissants et incroyablement affectueux. Ces oiseaux passagers ont disparu depuis longtemps sur Urantia, mais vos premiers ancêtres ont apprécié leurs services.
+> L'homme évolutionnaire primitif n'est pas une créature colorée. En général, ces mortels primitifs habitent dans des cavernes ou des falaises. Ils construisent aussi des huttes rudimentaires dans les grands arbres. Avant d'acquérir un niveau d'intelligence élevé, les planètes sont parfois envahies par les plus gros types d'animaux. Mais au début de cette ère, les mortels apprennent à allumer et à entretenir le feu, et avec l'augmentation de l'imagination inventive et l'amélioration des outils, l'homme en évolution vainc bientôt les animaux plus grands et plus difficiles à manier. Les premières races font aussi un usage intensif des plus gros animaux volants. Ces énormes oiseaux sont capables de transporter un ou deux hommes de taille moyenne pour un vol sans escale de plus de cinq cents milles. Sur certaines planètes, ces oiseaux sont d'une grande utilité car ils possèdent un niveau d'intelligence élevé, étant souvent capables de parler de nombreux mots des langues du royaume. Ces oiseaux sont très intelligents, très obéissants et incroyablement affectueux. Ces oiseaux passagers ont disparu depuis longtemps sur Urantia, mais vos premiers ancêtres ont apprécié leurs services.[^18]
 > 
-> C’est à cette époque [il y a environ 500 000 ans] que les pigeons voyageurs ont été utilisés pour la première fois, emmenés lors de longs voyages dans le but d’envoyer des messages ou des appels à l’aide. Le groupe de Bon a réussi à entraîner les grands fandors comme oiseaux voyageurs, mais ils ont disparu il y a plus de trente mille ans.[^19]
+> Ce fut à cette époque [il y a environ 500 000 ans] que les pigeons voyageurs furent employés pour la première fois ; ils étaient emportés pour les longs voyages et servaient à envoyer des messages ou à demander de l’aide. Le groupe de Bon réussit à dresser les grands fandors comme oiseaux transporteurs de passagers, mais leur race s’éteignit il y a plus de trente-mille ans.[^19]
 
 Associer la sculpture de l’homme sans tête debout sur ce qui semble être le dos d’un oiseau géant avec le récit du *Livre d’Urantia* d’Adam et Ève chevauchant le dos d’oiseaux géants n’est pas la seule comparaison qui mérite d’être mentionnée. L’assortiment diversifié d’animaux, quelque peu dominé par des créatures dangereuses, a également des liens avec l’histoire du *Livre d’Urantia* sur la vie dans le jardin d’Éden.
 
-> Quand les Fils Matériels, les élévateurs biologiques, commencent leur séjour sur un monde évolutionnaire, leur lieu de résidence est souvent appelé le Jardin d’Eden car il est caractérisé par la beauté florale et la grandeur botanique d’Edentia, la capitale de la constellation. Van connaissait bien ces coutumes et a donc prévu que toute la péninsule soit consacrée au Jardin. Des pâturages et de l’élevage étaient prévus pour le continent adjacent. De la vie animale, seuls les oiseaux et les diverses espèces domestiques devaient être trouvés dans le parc. Les instructions de Van étaient qu’Eden devait être un jardin, et seulement un jardin. Aucun animal n’était jamais abattu dans son enceinte. Toute la chair mangée par les ouvriers du Jardin pendant toutes les années de construction provenait des troupeaux gardés sous surveillance sur le continent.[^20]
+> Quand les Fils Matériels, les élévateurs biologiques, commencent leur séjour sur un monde évolutionnaire, leur demeure est souvent appelée le Jardin d’Éden, parce qu’elle est caractérisée par la beauté florale et la splendeur botanique d’Édentia, capitale de la constellation. Van connaissait bien ces coutumes et veilla en conséquence à ce que la péninsule tout entière fut consacrée au Jardin. Des projets de pâturages et d’élevages furent établis pour les terres contigües de la zone continentale. Du règne animal, on ne trouvait dans le parc que les oiseaux et les diverses espèces d’animaux domestiques. Van avait ordonné qu’Éden soit un jardin et seulement un jardin. Jamais il n’y eut d’animaux abattus dans son enceinte. Toute la viande mangée par les ouvriers du Jardin pendant les années de sa construction provenait des troupeaux entretenus sous bonne garde sur le continent.[^20]
 
 <figure id="Gobekli_Tepe_fig_10" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Halbert_Katzen/Gobekli_Tepe/gobekliwildanimal.jpg" width="163" heigth="200">
 </figure>
-<figure id=« Göbekli_Tepe_fig_11 » class=« image urantiapedia image-style-align-right »>
-<img src=« /image/article/Halbert_Katzen/Göbekli_Tepe/Göbeklitepeanimal.jpeg » width=« 255 » heigth=« 330 »>
+<figure id="Göbekli_Tepe_fig_11" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Halbert_Katzen/Göbekli_Tepe/Göbeklitepeanimal.jpeg" width="255" heigth="330">
 <figcaption><em>Détails de Gobekli Tepe</em></figcaption>
 </figure>
 
@@ -212,7 +212,7 @@ Les œuvres d’art de Gobekli Tepe sont assez cohérentes avec le récit du *Li
 
 Un autre aspect remarquable de l'art et de l'architecture concerne la disposition des pierres et les inscriptions sur celles-ci indiquant qu'elles représentent des personnes. Les pièces sont rondes et comportent deux pierres plus grandes au centre. Considérez cette configuration à la lumière des deux extraits suivants sur la relation entre Adam et Eve et les pratiques familiales de leurs descendants, les Andites.
 
-> La société humaine serait grandement améliorée si les races civilisées revenaient plus généralement aux pratiques des conseils de famille des Andites. Ils ne conservaient pas la forme patriarcale ou autocratique de gouvernement familial. Ils étaient très fraternels et associatifs, discutant librement et franchement de toute proposition et de tout règlement de nature familiale. Ils étaient idéalement fraternels dans tout leur gouvernement familial. Dans une famille idéale, l'affection filiale et parentale est à la fois augmentée par la dévotion fraternelle.[^21]
+> La société humaine serait grandement améliorée si les races civilisées voulaient revenir, plus généralement, à la pratique du conseil de famille des Andites. Ils ne maintinrent pas la forme patriarcale ou autocratique de gouvernement familial. Ils étaient très fraternels et coopératifs, discutant franchement et librement toute proposition et règle de nature familiale. Tout leur gouvernement familial était empreint d’une atmosphère idéalement fraternelle. Dans une famille idéale, l’affection filiale et l’amour parental sont tous deux accrus par le dévouement fraternel.[^21]
 
 ### Enseignements scientifiques anciens et pratiques spirituelles
 
@@ -220,7 +220,7 @@ Un autre aspect remarquable de l'art et de l'architecture concerne la dispositio
 
 Avec le récit d'Adam et Eve venant sur Urantia en tant qu'élévateurs génétiques avec une connaissance et une compréhension complètes de ce qu'ils étaient sur notre planète pour faire, une question évidente à poser est : « Qu'ont-ils enseigné aux êtres humains sur la procréation ? »
 
-> Adam s'efforça d'enseigner aux races l'égalité des sexes. La façon dont Ève travailla aux côtés de son mari laissa une profonde impression sur tous les habitants du Jardin. Adam leur enseigna clairement que la femme, à égalité avec l'homme, contribue aux facteurs de vie qui s'unissent pour former un nouvel être. Jusqu'alors, l'humanité avait présumé que toute procréation résidait dans les « reins du père ». Elle considérait la mère comme étant simplement une provision pour nourrir l'enfant à naître et allaiter le nouveau-né.[^22]
+> Adam tenta d’expliquer aux races l’égalité des sexes. La manière dont Ève travaillait aux côtés de son mari impressionna profondément tous les habitants du Jardin. Adam leur enseigna nettement que la femme apporte, au même titre que l’homme, les facteurs de vie qui s’unissent pour former un nouvel être. Auparavant, les hommes avaient supposé que toute procréation résidait dans les « reins du père ». Ils avaient considéré la mère comme un simple instrument pour nourrir l’enfant à naitre et allaiter le nouveau-né.[^22]
 
 Notez que les sculptures ressemblant à des spermatozoïdes sont représentées individuellement et en grand nombre, ce qui suggère une compréhension du fait qu'un spermatozoïde spécifique s'attache à un ovule et que le sperme contient un grand nombre de spermatozoïdes.
 
@@ -247,11 +247,11 @@ Considérez que les deux demi-cercles représentent l'œuf et que le « H » sym
 
 La forme en « H » joue également un rôle prédominant dans la mystérieuse architecture mégalithique de Puma Punku en Bolivie. Il semble bien que certaines personnes pensaient vraiment que cette forme était extrêmement importante pour la compréhension de la vie.[^23]
 
-> Vers 12 000 av. J.-C., les trois quarts de la population andite du monde résidaient dans le nord et l'est de l'Europe, et lorsque l'exode ultérieur et final de la Mésopotamie eut lieu, soixante-cinq pour cent de ces dernières vagues d'émigration entrèrent en Europe. . . .[^24]
+> Vers l’an 12 000 av. J.-C., les trois quarts des races andites du monde résidaient dans le Nord et l’Est de l’Europe et, lorsqu’eut lieu l’exode ultérieur et final de Mésopotamie, soixante-cinq pour cent des dernières vagues d’émigration pénétrèrent en Europe.. . . .[^24]
 > 
-> Cent trente-deux de cette race, embarqués dans une flotte de petits bateaux en provenance du Japon, finirent par atteindre l'Amérique du Sud et, par des mariages avec les indigènes des Andes, établirent l'ascendance des futurs dirigeants des Incas. . . .
+> Cent-trente-deux membres de cette race s’embarquèrent au Japon sur une flottille de petits bateaux et finirent par atteindre l’Amérique du Sud. Par des mariages mixtes avec les natifs des Andes, ils donnèrent naissance aux ancêtres des chefs ultérieurs des Incas. . . .
 > 
-> Les conquêtes migratoires des Andites se poursuivirent jusqu'à leur dispersion finale, de 8000 à 6000 av. J.-C. En quittant la Mésopotamie, ils épuisèrent continuellement les réserves biologiques de leurs terres natales tout en renforçant considérablement les peuples environnants. Et à chaque nation où ils se rendirent, ils apportèrent de l'humour, de l'art, de l'aventure, de la musique et de l'artisanat. Ils étaient d'habiles domestiques d'animaux et d'excellents agriculteurs.[^25]
+> Les migrations conquérantes des Andites se poursuivirent jusqu’à leurs dernières dispersions entre l’an 8 000 et l’an 6 000 av. J.-C. Quand ils se répandaient hors de Mésopotamie, ils épuisaient constamment les réserves biologiques de leur terre natale, tandis qu’ils renforçaient notablement les peuples environnants. Dans toutes les nations où ils affluèrent, ils apportèrent une contribution d’humour, d’art, d’aventure, de musique et de manufacture. Ils étaient habiles à domestiquer les animaux et experts en agriculture.[^25]
 
 <figure id="Gobekli_Tepe_fig_15" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Gobekli_Tepe/Egypt-Sperm-Collection.jpg" width="652" heigth="869">
@@ -261,23 +261,23 @@ De nombreuses sculptures de l’ancienne Mésopotamie et de l’Égypte représe
 
 Il existe même des sculptures égyptiennes qui représentent la collecte du sperme, ce qui est cohérent avec la description du Livre d’Urantia des conséquences de la défaillance adamique :
 
-Après s'être établi dans le deuxième jardin sur l'Euphrate, Adam choisit de laisser derrière lui autant de son plasma vital que possible pour le bien du monde après sa mort. En conséquence, Eve fut nommée à la tête d'une commission de douze personnes chargées de l'amélioration de la race et, avant la mort d'Adam, cette commission avait sélectionné 1 682 femmes du type le plus élevé d'Urantia, et ces femmes furent imprégnées du plasma vital adamique. Leurs enfants atteignirent tous la maturité, sauf 112, de sorte que le monde bénéficia ainsi de l'addition de 1 570 hommes et femmes supérieurs. Bien que ces mères candidates aient été choisies parmi toutes les tribus environnantes et représentaient la plupart des races de la terre, la majorité fut choisie parmi les souches les plus élevées des Nodites et constituèrent les prémices de la puissante race andite. Ces enfants naquirent et furent élevés dans l'environnement tribal de leurs mères respectives.[^27]
+> Après s’être établi dans le second jardin donnant sur l’Euphrate, Adam décida de laisser après lui le maximum possible de son plasma vital pour en faire bénéficier le monde après sa mort. C’est pourquoi Ève fut mise à la tête d’une commission de douze personnes pour l’amélioration de la race et, avant la mort d’Adam, cette commission avait choisi 1 682 femmes du type le plus évolué d’Urantia, qui furent toutes fécondées par le plasma vital adamique. À l’exception de 112, leurs enfants atteignirent tous l’âge adulte, de sorte que le monde bénéficia ainsi d’un supplément de 1 570 hommes et femmes supérieurs. Ces candidates à la maternité furent choisies dans toutes les tribus environnantes et représentaient la majorité des races de la terre, mais la plupart d’entre elles descendaient des lignées supérieures des Nodites et elles formèrent le début de la puissante race Andite. Ces enfants naquirent et furent élevés dans le milieu tribal de leurs mères respectives.[^27]
 > 
-> Une race de couleur mélangée, à cette époque grandement renforcée par l'arrivée [d'Adamites] de Mésopotamie, se développa en Égypte et se prépara à prendre le contrôle de la culture en voie de disparition de la vallée de l'Euphrate.[^28]
+> Une race mêlée de couleur, grandement renforcée vers cette époque par des arrivées [d'Adamites] de Mésopotamiens, se maintenait en Égypte et se préparait à prendre le relais de la culture en voie de disparition de la vallée de l’Euphrate.[^28]
 > 
-> Dix pour cent de ces Andites en fuite traversèrent l'Arabie et entrèrent en Égypte.[^29]
+> Dix pour cent de ces Andites en fuite traversèrent l’Arabie et entrèrent en Égypte.[^29]
 
 <figure id="Gobekli_Tepe_fig_16" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Gobekli_Tepe/Fishhead-Adam-Eve1.jpg" width="745" heigth="483">
 </figure>
 
-> L'ère culturelle du second jardin prit fin avec l'infiltration croissante des souches inférieures environnantes. La civilisation se déplaça vers l'ouest, vers le Nil et les îles méditerranéennes, où elle continua à prospérer et à progresser longtemps après que sa source en Mésopotamie se fut détériorée. Et cet afflux incontrôlé de peuples inférieurs prépara la voie à la conquête ultérieure de toute la Mésopotamie par les barbares du nord qui chassèrent les souches résiduelles de talent. Même dans les années suivantes, les résidus cultivés ressentaient encore du ressentiment envers ces envahisseurs ignorants et grossiers.
+> L’âge culturel du second jardin prit fin par l’infiltration croissante des souches inférieures environnantes. La civilisation se déplaça vers l’ouest dans la vallée du Nil et les iles de la Méditerranée, où elle continua à progresser et à prospérer longtemps après que sa source d’origine en Mésopotamie eut dégénéré. L’afflux sans contrôle des peuplades inférieures prépara la voie à la conquête ultérieure de toute la Mésopotamie par les barbares nordiques qui en chassèrent ce qui restait de lignées douées d’aptitudes. Même à une époque plus récente, le reliquat des éléments cultivés s’irritait encore de la présence de ces envahisseurs ignorants et grossiers.[^30]
 
 #### Intégration des connaissances scientifiques aux pratiques spirituelles
 
 Il y a un paragraphe dans *Le Livre d'Urantia* sur la façon dont certaines activités glandulaires ont un impact sur « l'imagination inhérente et la réceptivité spirituelle ».
 
-[3.] Série de réception spirituelle. Il existe trois groupes de conceptions mentales en rapport avec le contact avec les affaires spirituelles. Cette classification ne se réfère pas aux ordres de mortels à un, deux et trois cerveaux ; elle se réfère principalement à la chimie des glandes, plus particulièrement à l'organisation de certaines glandes comparables aux corps pituitaires. Les races de certains mondes ont une glande, sur d'autres deux, comme les Urantiens, tandis que sur d'autres sphères encore, les races ont trois de ces corps uniques. L'imagination inhérente et la réceptivité spirituelle sont définitivement influencées par cette dotation chimique différentielle.
+> 3. *Séries des types réceptifs à l’esprit.* Par rapport au contact avec les affaires spirituelles, il y a trois groupes de modèles mentaux. Cette classification ne se réfère pas aux ordres des mortels à un, deux ou trois cerveaux ; elle se rattache essentiellement à la chimie glandulaire, et plus particulièrement à l’organisation de certaines glandes comparables au corps pituitaire. Sur certains mondes, les races ont une de ces glandes, sur d’autres, deux comme les Urantiens, tandis que sur d’autres sphères encore, les races ont trois de ces corps remarquables. L’imagination naturelle et la réceptivité spirituelle sont nettement influencées par cette dotation chimique différentielle.[^31]
 
 Il semble que, peut-être dans un effort pour ne pas fournir d'informations scientifiques que nous pouvons comprendre par nous-mêmes, les révélateurs n'ont pas spécifiquement mentionné la glande pituitaire, utilisant plutôt une comparaison avec l'hypophyse dans le cadre de la fourniture d'enseignements cosmologiques qui sont au-delà de la découverte humaine.
 
@@ -330,6 +330,21 @@ Le récit du sort des Adamites dans le *Livre d’Urantia* contribue grandement 
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 <br>
 
@@ -379,7 +394,7 @@ Le récit du sort des Adamites dans le *Livre d’Urantia* contribue grandement 
 
 [^22]: [LU 74:7.22](/fr/The_Urantia_Book/74#p7_22)
 
-[^23]: L'inspiration pour tenter d'interpréter le « H » est venue d'un rapport génétique, envoyé par Luis Marco, qui apporte un soutien notable à la datation par Le Livre d'Urantia des races Sangik et des Néandertaliens. Voir la page de recherche *Double origine duale de l'homme moderne et de l'homme pré-moderne* pour suivre ce rapport de recherche de 2019 de l'UC Davis. http://ubannotated.com/ubthenews/topics/Modern_Man_Origin/
+[^23]: L'inspiration pour tenter d'interpréter le « H » est venue d'un rapport génétique, envoyé par Luis Marco, qui apporte un soutien notable à la datation par _Le Livre d'Urantia_ des races Sangik et des Néandertaliens. Voir la page de recherche *Double origine duale de l'homme moderne et de l'homme pré-moderne* pour suivre ce rapport de recherche de 2019 de l'UC Davis. http://ubannotated.com/ubthenews/topics/Modern_Man_Origin/
 
 [^24]: [LU 78:5.4](/fr/The_Urantia_Book/78#p5_4)
 
