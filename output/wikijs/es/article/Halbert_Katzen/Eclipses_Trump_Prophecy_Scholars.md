@@ -1,5 +1,5 @@
 ---
-title: "Los académicos eclipsan la profecía de Trump"
+title: "Eclipses, Trump, Profecías, Estudiosos"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet tema--gris claro aclarar-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Por Halbert Katzen J.D._
 
@@ -24,27 +39,27 @@ Considerando las circunstancias de dos lunas nuevas que Cristo atraviesa los EE.
 
 Hay dos problemas relacionados con la interpretación de la frase sobre los sábados. El primer problema es que los eruditos bíblicos simplemente no tienen nada en particular que ofrecer. A los eruditos no les gusta centrarse en temas cuando hay un gran vacío en el análisis que necesita ser llenado y no tienen una manera de llenarlo. Eso es bastante natural.
 
-El segundo problema es que algunos estudiosos de la Biblia conocen una perspectiva que explica todo esto de manera excelente, pero no se sienten inclinados a llamar la atención sobre ella. En concreto, El libro de Urantia dice que Jesús nació el 21 de agosto y que el 8 de abril es el día antes de la resurrección. (Para una profundización más profunda, véase el Estudio temático: [El Señor del sábado](/es/article/Halbert_Katzen/Lord_of_the_Sabbath). A continuación se ofrecen más detalles sobre El libro de Urantia).
+El segundo problema es que algunos estudiosos de la Biblia conocen una perspectiva que explica todo esto de manera excelente, pero no se sienten inclinados a llamar la atención sobre ella. En concreto, _El Libro de Urantia_ dice que Jesús nació el 21 de agosto y que el 8 de abril es el día antes de la resurrección. (Para una profundización más profunda, véase el Estudio temático: [El Señor del sábado](/es/article/Halbert_Katzen/Lord_of_the_Sabbath). A continuación se ofrecen más detalles sobre El libro de Urantia).
 
 _El Libro de Urantia_ incluso señala la importancia de [Isaías 66:22-23](/es/Bible/Isaiah/66#v22) en relación con las profecías del Nuevo Testamento:
 
-> Juan escribió acerca de la terminación de la misión final de los Hijos Instructores (al menos ésta sería la cronología en un mundo normal): «Y vi un nuevo cielo y una nueva Tierra, y la nueva Jerusalén que bajaba de Dios saliendo del cielo, preparada como una princesa adornada para su príncipe»{13}. ([LU 52:7.11](/es/The_Urantia_Book/52#p7_11))
+> Juan escribió acerca de la terminación de la misión final de los Hijos Instructores (al menos ésta sería la cronología en un mundo normal): «Y vi un nuevo cielo y una nueva Tierra, y la nueva Jerusalén que bajaba de Dios saliendo del cielo, preparada como una princesa adornada para su príncipe». [Isaías 66:22-23](/es/Bible/Isaiah/66#v22) ([LU 52:7.11](/es/The_Urantia_Book/52#p7_11))
 
-> Ésta es la misma Tierra renovada, el avanzado estado planetario, que el antiguo vidente imaginó cuando escribió: «‘Porque igual que los nuevos cielos y la nueva Tierra que yo crearé perdurarán ante mí, así sobreviviréis vosotros y vuestros hijos; y sucederá que, desde una Luna nueva hasta la otra y desde un sábado hasta el otro, todo el género humano vendrá a postrarse en adoración ante mí’, dice el Señor»{14}. ([LU 52:7.12](/es/The_Urantia_Book/52#p7_12))
+> Ésta es la misma Tierra renovada, el avanzado estado planetario, que el antiguo vidente imaginó cuando escribió: «‘Porque igual que los nuevos cielos y la nueva Tierra que yo crearé perdurarán ante mí, así sobreviviréis vosotros y vuestros hijos; y sucederá que, desde una Luna nueva hasta la otra y desde un sábado hasta el otro, todo el género humano vendrá a postrarse en adoración ante mí’, dice el Señor». ([LU 52:7.12](/es/The_Urantia_Book/52#p7_12))
 
-> Los mortales de esta era son los que están descritos como «una generación elegida, un sacerdocio real, una nación santa, un pueblo elevado; y vosotros daréis a conocer las alabanzas de Aquél que os ha hecho salir de las tinieblas hacia esta maravillosa luz»{15}. ([LU 52:7.13](/es/The_Urantia_Book/52#p7_13))
+> Los mortales de esta era son los que están descritos como «una generación elegida, un sacerdocio real, una nación santa, un pueblo elevado; y vosotros daréis a conocer las alabanzas de Aquél que os ha hecho salir de las tinieblas hacia esta maravillosa luz». [1 Pedro 2:9](/es/Bible/1_Peter/2#v9) ([LU 52:7.13](/es/The_Urantia_Book/52#p7_13))
 
-> Todos los mundos de Satania pueden unirse a la esperanza de aquél que escribió: «Sin embargo, de acuerdo con Su promesa, nosotros esperamos un nuevo cielo y una nueva Tierra, donde reside la rectitud. Por lo cual, bienamados, en vista de que esperáis estas cosas, sed diligentes para que Él pueda encontraros en paz, sin mancha e irreprochables»{16}. ([LU 52:7.15](/es/The_Urantia_Book/52#p7_15))
+> Todos los mundos de Satania pueden unirse a la esperanza de aquél que escribió: «Sin embargo, de acuerdo con Su promesa, nosotros esperamos un nuevo cielo y una nueva Tierra, donde reside la rectitud. Por lo cual, bienamados, en vista de que esperáis estas cosas, sed diligentes para que Él pueda encontraros en paz, sin mancha e irreprochables». [2 Pedro 3](/es/Bible/2_Peter/3) \[Ver Estudio Temático: [Un cielo nuevo y una tierra nueva](/es/article/Halbert_Katzen/A_New_Heaven_And_A_New_Earth).\] ([LU 52:7.15](/es/The_Urantia_Book/52#p7_15))
 
-El libro de Urantia alienta a la humanidad a unirse espiritualmente a través de la creencia en el sencillo mensaje del evangelio. También enseña que Jesús vivió una vida perfecta, tuvo una relación divina preexistente con nuestro universo antes de encarnarse en la carne, realizó milagros que incluyeron resucitar a Lázaro de entre los muertos, resucitar al tercer día y ascender al Padre, donde todo el poder en el cielo y en la tierra fue puesto en sus manos. Sin embargo, incluso con creencias compartidas de esta naturaleza, muchos eruditos cristianos se inclinan a decir que las enseñanzas del Libro de Urantia «vienen del diablo» y están destinadas a engañar. Y lo hacen a pesar de que el Nuevo Testamento no enseña que Jesús dijo que el Antiguo Testamento debería ser tratado como la «Palabra de Dios»; Jesús enseñó: «No pongas vino nuevo en odres viejos». El Nuevo Testamento tampoco dice que Jesús enseñó a sus seguidores acerca de un futuro registro escrito de su vida que debería ser tratado como la «Palabra de Dios».
+_El Libro de Urantia_ alienta a la humanidad a unirse espiritualmente a través de la creencia en el sencillo mensaje del evangelio. También enseña que Jesús vivió una vida perfecta, tuvo una relación divina preexistente con nuestro universo antes de encarnarse en la carne, realizó milagros que incluyeron resucitar a Lázaro de entre los muertos, resucitar al tercer día y ascender al Padre, donde todo el poder en el cielo y en la tierra fue puesto en sus manos. Sin embargo, incluso con creencias compartidas de esta naturaleza, muchos eruditos cristianos se inclinan a decir que las enseñanzas del _Libro de Urantia_ «vienen del diablo» y están destinadas a engañar. Y lo hacen a pesar de que el Nuevo Testamento no enseña que Jesús dijo que el Antiguo Testamento debería ser tratado como la «Palabra de Dios»; Jesús enseñó: «No pongas vino nuevo en odres viejos». El Nuevo Testamento tampoco dice que Jesús enseñó a sus seguidores acerca de un futuro registro escrito de su vida que debería ser tratado como la «Palabra de Dios».
 
 Para alguien que cree en Jesús y en el sencillo mensaje del evangelio de la Paternidad de Dios y la salvación por la fe, surge naturalmente la pregunta: «¿Se coloca la creencia en la Biblia por encima de la creencia en Jesús y el mensaje del evangelio que él enseñó, que salvó a la gente incluso antes de que fuera crucificado?» Como judío, incluso un kohen, que cree en Jesús, esta tendencia a _juzgar_ la fe, las creencias y las intenciones de otros en función de creencias sobre si la Biblia es la Palabra de Dios me parece inconsistente con lo que Jesús enseñó y cómo vivió su vida, tal vez incluso peligrosamente inconsistente.
 
-Otro punto de acuerdo entre El libro de Urantia y la Biblia se refiere a la enseñanza de que no le corresponde a un ser humano decir cuándo regresará Jesús. Por otra parte, decir cuándo debe regresar Melquisedec no viola la enseñanza sobre el regreso de Jesús. Si bien la Biblia tiene muy poco que decir sobre Melquisedec, El libro de Urantia dedica unas cincuenta páginas a los papeles que ha desempeñado y continúa desempeñando en los asuntos de este mundo. En resumen, enseña que los Melquisedec son un orden superior de ángeles, utilizados en situaciones de emergencia, cuando órdenes inferiores de ángeles se rebelan. Básicamente, el orden Melquisedec se utiliza cuando personalidades celestiales en posiciones de confianza y autoridad pierden la fe, como ocurrió con Lucifer y Satanás.
+Otro punto de acuerdo entre _El Libro de Urantia_ y la Biblia se refiere a la enseñanza de que no le corresponde a un ser humano decir cuándo regresará Jesús. Por otra parte, decir cuándo debe regresar Melquisedec no viola la enseñanza sobre el regreso de Jesús. Si bien la Biblia tiene muy poco que decir sobre Melquisedec, _El Libro de Urantia_ dedica unas cincuenta páginas a los papeles que ha desempeñado y continúa desempeñando en los asuntos de este mundo. En resumen, enseña que los Melquisedec son un orden superior de ángeles, utilizados en situaciones de emergencia, cuando órdenes inferiores de ángeles se rebelan. Básicamente, el orden Melquisedec se utiliza cuando personalidades celestiales en posiciones de confianza y autoridad pierden la fe, como ocurrió con Lucifer y Satanás.
 
 Si hay verdad en las enseñanzas sobre Lucifer y Satanás, entonces todavía podríamos necesitar un equipo de limpieza para ayudar a restaurar el orden religioso en nuestro mundo. Y si algunas profecías tenían que ver con la venida de Jesús la primera vez y algunas tenían que ver con el regreso de Melquisedec por segunda vez, considere cómo esto podría aclarar muchos asuntos polémicos y misterios que de otro modo no tendrían solución. Para profundizar más en este tema, consulte [UBtheNEWS: Melquisedec y el informe de los Rollos del Mar Muerto](/es/article/Halbert_Katzen/Melchizedek_the_Dead_Sea_Scrolls) y el estudio temático: [¡¿El Mesías judío es Melquisedec?!](/es/article/Halbert_Katzen/The_Jewish_Messiah_is_Melchizedek)
 
-Además, hay enseñanzas del Libro de Urantia sobre el regreso de Melquisedec y/o Jesús en respuesta a algún tipo de crisis mundial que no está directamente relacionada con la rebelión de Lucifer. Véase el Estudio Temático: [Un Evento de Crisis Catastrófica Global](/es/article/Halbert_Katzen/A_Global_Catastrophic_Crisis_Event).
+Además, hay enseñanzas del _Libro de Urantia_ sobre el regreso de Melquisedec y/o Jesús en respuesta a algún tipo de crisis mundial que no está directamente relacionada con la rebelión de Lucifer. Véase el Estudio Temático: [Un Evento de Crisis Catastrófica Global](/es/article/Halbert_Katzen/A_Global_Catastrophic_Crisis_Event).
 
 Abraham diezmó a Melquisedec en Salem, que se convirtió en Jerusalén. Y se cree ampliamente que un eclipse fue la razón por la que Nínive escuchó la predicación de Jonás para arrepentirse. Ver Estudio Temático: [Eclipses sobre Salem y Nínive](/es/article/Halbert_Katzen/Eclipses_over_Salem_and_Nineveh).
 
@@ -109,19 +124,19 @@ En la década de 1930, los doctores William y Lena Sadler se encontraban en un p
 
 Una serie de eventos misteriosos ocurrieron durante la década de 1920. Los Sadler fueron contactados por una mujer cuyo esposo no dormía profundamente. Se animó durante el sueño y conversó con una voz que no era la suya. No se lo podía sacar de este estado mediante técnicas diseñadas para despertar a alguien. Este individuo no tenía memoria ni secuelas de la experiencia al recuperar naturalmente la conciencia despierta. Quería permanecer anónimo y no quería ser asociado con lo que se desarrolló a partir de estas experiencias. Las voces pretendían ser espíritus del reino angelical. Y los buenos médicos recibieron instrucciones de organizar un grupo de personas para leer y luego ofrecer comentarios críticos sobre los mensajes. Luego, las transcripciones regresarían con mejoras en respuesta a los comentarios. Este grupo se conoció como «el Foro» y este proceso duró desde 1924 hasta 1934.
 
-Cuando el proceso terminó, el resultado fue El libro de Urantia. Curiosamente, cuando se combina con las enseñanzas del libro sobre cómo hemos llegado a ser conocidos en otros planetas como «el mundo de la cruz», Urantia significa etimológicamente: «Conocido en los cielos como el mundo de la cruz». Es importante destacar que, para los fines de este análisis, en las setecientas páginas dedicadas a la vida y las enseñanzas de Jesús, El libro de Urantia afirma que Jesús nació el 21 de agosto y que el 8 de abril es el día entre la crucifixión y la resurrección. ¡Eso es un jonrón! Un gran golpe, incluso, considerando que también enseña esto:
+Cuando el proceso terminó, el resultado fue El libro de Urantia. Curiosamente, cuando se combina con las enseñanzas del libro sobre cómo hemos llegado a ser conocidos en otros planetas como «el mundo de la cruz», Urantia significa etimológicamente: «Conocido en los cielos como el mundo de la cruz». Es importante destacar que, para los fines de este análisis, en las setecientas páginas dedicadas a la vida y las enseñanzas de Jesús, _El Libro de Urantia_ afirma que Jesús nació el 21 de agosto y que el 8 de abril es el día entre la crucifixión y la resurrección. ¡Eso es un jonrón! Un gran golpe, incluso, considerando que también enseña esto:
 
-> Juan escribió acerca de la terminación de la misión final de los Hijos Instructores (al menos ésta sería la cronología en un mundo normal): «Y vi un nuevo cielo y una nueva Tierra, y la nueva Jerusalén que bajaba de Dios saliendo del cielo, preparada como una princesa adornada para su príncipe»{13}. ([LU 52:7.11](/es/The_Urantia_Book/52#p7_11))
+> Juan escribió acerca de la terminación de la misión final de los Hijos Instructores (al menos ésta sería la cronología en un mundo normal): «Y vi un nuevo cielo y una nueva Tierra, y la nueva Jerusalén que bajaba de Dios saliendo del cielo, preparada como una princesa adornada para su príncipe». ([LU 52:7.11](/es/The_Urantia_Book/52#p7_11))
 
-> Ésta es la misma Tierra renovada, el avanzado estado planetario, que el antiguo vidente imaginó cuando escribió: «‘Porque igual que los nuevos cielos y la nueva Tierra que yo crearé perdurarán ante mí, así sobreviviréis vosotros y vuestros hijos; y sucederá que, desde una Luna nueva hasta la otra y desde un sábado hasta el otro, todo el género humano vendrá a postrarse en adoración ante mí’, dice el Señor»{14}. ([LU 52:7.12](/es/The_Urantia_Book/52#p7_12))
+> Ésta es la misma Tierra renovada, el avanzado estado planetario, que el antiguo vidente imaginó cuando escribió: «‘Porque igual que los nuevos cielos y la nueva Tierra que yo crearé perdurarán ante mí, así sobreviviréis vosotros y vuestros hijos; y sucederá que, desde una Luna nueva hasta la otra y desde un sábado hasta el otro, todo el género humano vendrá a postrarse en adoración ante mí’, dice el Señor». ([LU 52:7.12](/es/The_Urantia_Book/52#p7_12))
 
-> Los mortales de esta era son los que están descritos como «una generación elegida, un sacerdocio real, una nación santa, un pueblo elevado; y vosotros daréis a conocer las alabanzas de Aquél que os ha hecho salir de las tinieblas hacia esta maravillosa luz»{15}. ([LU 52:7.13](/es/The_Urantia_Book/52#p7_13))
+> Los mortales de esta era son los que están descritos como «una generación elegida, un sacerdocio real, una nación santa, un pueblo elevado; y vosotros daréis a conocer las alabanzas de Aquél que os ha hecho salir de las tinieblas hacia esta maravillosa luz». ([LU 52:7.13](/es/The_Urantia_Book/52#p7_13))
 
 > Cualquiera que sea la historia natural especial de un planeta individual, indiferentemente de que el reino haya sido totalmente leal, haya estado contaminado por el mal o maldito por el pecado —cualquiera que sean los antecedentes— tarde o temprano la gracia de Dios y el ministerio de los ángeles anunciarán el día de la venida de los Hijos Instructores Trinitarios; y su partida, después de su misión final, inaugurará esta magnífica era de luz y de vida. ([LU 52:7.14](/es/The_Urantia_Book/52#p7_14))
 
-> Todos los mundos de Satania pueden unirse a la esperanza de aquél que escribió: «Sin embargo, de acuerdo con Su promesa, nosotros esperamos un nuevo cielo y una nueva Tierra, donde reside la rectitud. Por lo cual, bienamados, en vista de que esperáis estas cosas, sed diligentes para que Él pueda encontraros en paz, sin mancha e irreprochables»{16}. ([LU 52:7.15](/es/The_Urantia_Book/52#p7_15))
+> Todos los mundos de Satania \[en nuestra región del cosmos\] pueden unirse a la esperanza de aquél que escribió: «Sin embargo, de acuerdo con Su promesa, nosotros esperamos un nuevo cielo y una nueva Tierra, donde reside la rectitud. Por lo cual, bienamados, en vista de que esperáis estas cosas, sed diligentes para que Él pueda encontraros en paz, sin mancha e irreprochables». ([LU 52:7.15](/es/The_Urantia_Book/52#p7_15))
 
-Sin embargo, hay que tener en cuenta que las enseñanzas del Libro de Urantia sugieren que Melquisedec regresará con el segundo eclipse. No está tan claro si Jesús también regresará en ese momento. Melquisedec significa «rey de la justicia». Un salmo sugiere que el Mesías vendrá «según el orden de Melquisedec». Abraham diezmó a Melquisedec, lo que da una idea esclarecedora de las jerarquías cosmológicas. El Antiguo Testamento tiene muy poca información sobre Melquisedec, el Nuevo Testamento un poco más, pero El Libro de Urantia dedica unas 50 páginas a este tema.
+Sin embargo, hay que tener en cuenta que las enseñanzas del _Libro de Urantia_ sugieren que Melquisedec regresará con el segundo eclipse. No está tan claro si Jesús también regresará en ese momento. Melquisedec significa «rey de la justicia». Un salmo sugiere que el Mesías vendrá «según el orden de Melquisedec». Abraham diezmó a Melquisedec, lo que da una idea esclarecedora de las jerarquías cosmológicas. El Antiguo Testamento tiene muy poca información sobre Melquisedec, el Nuevo Testamento un poco más, pero El Libro de Urantia dedica unas 50 páginas a este tema.
 
 En resumen, las enseñanzas describen a Melquisedec como un ángel de alto orden, creado como una salvaguarda para cuando el libre albedrío se descontrole en los reinos angelicales, particularmente en formas que nos provoquen un infierno aquí abajo, como sucedió con Lucifer y Satanás, según se ha dicho. Parece que limpiar un desastre de este orden requiere un proceso de dos pasos. 1) Jesús enseña, ministra y derrama su Espíritu de Verdad, para que misericordiosamente tengamos una oportunidad de autocorregirnos. 2) Melquisedec regresa para restaurar el orden divino: un Día del Juicio y la culminación de los eventos de la Nueva Era.
 
@@ -139,7 +154,7 @@ Es poco probable que las fuerzas psicosociales y organizativas relacionadas camb
 
 El Libro de Urantia llegó a conocimiento de los líderes de la organización en Bald Knob Cross of Peace con la llegada del primer eclipse. Como era de esperar, la información no inspiró una respuesta enérgica.
 
-En general, las personas involucradas organizacionalmente con El libro de Urantia están en una situación terriblemente difícil porque ofenden y atraen a los cristianos al mismo tiempo por diferentes razones. Por un lado, apreciar cómo las fechas del eclipse se alinean de una manera que afirma el nacimiento y resurrección milagrosos de Jesús es intrigante para los cristianos. Por otro lado, la naturaleza autoritaria y de otro mundo de la comunicación reveladora desafía la creencia en la integridad e inerrancia de la Biblia como la Palabra de Dios. Agregue a esto una disposición organizacional general contra ser identificado con interpretaciones de la profecía y, como con la organización Bald Knob Cross of Peace, no deberíamos esperar ningún tipo de impulso organizacional de los lectores de El libro de Urantia. Pero los cristianos, en su mayoría, no parecen inclinados a rechazar enérgicamente El libro de Urantia, probablemente porque esto llamaría la atención también sobre sus aspectos especialmente intrigantes y oportunos.
+En general, las personas involucradas organizacionalmente con _El Libro de Urantia_ están en una situación terriblemente difícil porque ofenden y atraen a los cristianos al mismo tiempo por diferentes razones. Por un lado, apreciar cómo las fechas del eclipse se alinean de una manera que afirma el nacimiento y resurrección milagrosos de Jesús es intrigante para los cristianos. Por otro lado, la naturaleza autoritaria y de otro mundo de la comunicación reveladora desafía la creencia en la integridad e inerrancia de la Biblia como la Palabra de Dios. Agregue a esto una disposición organizacional general contra ser identificado con interpretaciones de la profecía y, como con la organización Bald Knob Cross of Peace, no deberíamos esperar ningún tipo de impulso organizacional de los lectores de El libro de Urantia. Pero los cristianos, en su mayoría, no parecen inclinados a rechazar enérgicamente _El libro de Urantia_, probablemente porque esto llamaría la atención también sobre sus aspectos especialmente intrigantes y oportunos.
 
 El ciclo electoral de mitad de período de 2022 ofrece una oportunidad continua para que los candidatos den resúmenes de los asuntos políticos. La derecha cristiana verá el mundo en términos de: inflación, Ucrania, la frontera sur, la plandemia, el aborto, la agresión china, los juicios de Durham, los apoyos de Trump, los acontecimientos relacionados con el fraude electoral, el «estado profundo» y Q, la censura y la cultura de la cancelación, la teoría crítica de la raza, los pronombres impuestos, etc. La importancia de la corriente política subyacente es que presiona poderosamente a la psique cristiana. Estarán inclinados a ver a Donald Trump como un salvador político durante un período que será visto como la _tribulación_ asociada con las profecías sobre el fin de los tiempos.
 
@@ -167,3 +182,18 @@ El segundo eclipse se produce apenas un poco más de una semana después de Pasc
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

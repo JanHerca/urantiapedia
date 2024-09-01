@@ -1,5 +1,5 @@
 ---
-title: "Sin descubrir"
+title: "No descubierto"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet tema--gris claro aclarar-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Por Halbert Katzen J.D._
 
@@ -48,7 +63,7 @@ Este es un [video de 30 minutos de Joseph Newman](https://bit.ly/3XkUpIH), que e
 
 \[Para un contexto adicional digno de mención, se incluyen tres párrafos en esta primera entrada.\]
 
-> _5. *Los exploradores en misiones no especificadas.* Cuando el cuerpo de reserva de los Mensajeros Solitarios tiene un exceso de miembros, uno de los Siete Directores Supremos del Poder emite un llamamiento solicitando voluntarios para explorar; y nunca faltan voluntarios, puesto que les encanta ser enviados como exploradores libres y sin limitaciones para experimentar la emoción de descubrir los núcleos en vías de organización de los nuevos mundos y universos._
+> 5. *Los exploradores en misiones no especificadas.* Cuando el cuerpo de reserva de los Mensajeros Solitarios tiene un exceso de miembros, uno de los Siete Directores Supremos del Poder emite un llamamiento solicitando voluntarios para explorar; y nunca faltan voluntarios, puesto que les encanta ser enviados como exploradores libres y sin limitaciones para experimentar la emoción de descubrir los núcleos en vías de organización de los nuevos mundos y universos.
 > 
 > Salen a investigar los indicios proporcionados por los observadores espaciales de los reinos. Las Deidades del Paraíso conocen sin duda la existencia de estos sistemas energéticos espaciales no descubiertos, pero nunca divulgan esta información. Si los Mensajeros Solitarios no exploraran y localizaran estos nuevos centros energéticos en vías de organización, estos fenómenos permanecerían desapercibidos durante mucho tiempo incluso para las inteligencias de los reinos adyacentes. Los Mensajeros Solitarios, como clase, son extremadamente sensibles a la gravedad; en consecuencia, a veces pueden detectar la presencia probable de planetas oscuros muy pequeños, los mundos mismos que están mejor adaptados para experimentar con la vida.
 > 
@@ -76,3 +91,18 @@ Este es un [video de 30 minutos de Joseph Newman](https://bit.ly/3XkUpIH), que e
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

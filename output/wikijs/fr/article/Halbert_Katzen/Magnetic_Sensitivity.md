@@ -292,7 +292,7 @@ http://www.ks.uiuc.edu/Research/magsense/
 
 **Electroréception chez les élasmobranches par Faramarz Samie**
 
-Français D'après les remarques introductives : « Selon Theodore H. Bullock, un neuroscientifique, « la prédiction, la découverte et l'établissement d'électrorécepteurs sont d'un intérêt extrême non seulement pour la compréhension intrinsèque de la vie de certains élasmobranches qui voient le monde à travers un nouveau sens, mais aussi pour les leçons qu'elle enseigne sur l'identification et la classification des récepteurs par fonction. » En réponse à cette déclaration, cet article abordera l'électroréception chez les élasmobranches en examinant l'histoire de l'électroréception, la morphologie des électrorécepteurs, les preuves physiologiques et comportementales et, enfin, la manière dont l'électroréception influence le comportement de ces animaux remarquables. »
+D'après les remarques introductives : « Selon Theodore H. Bullock, un neuroscientifique, « la prédiction, la découverte et l'établissement d'électrorécepteurs sont d'un intérêt extrême non seulement pour la compréhension intrinsèque de la vie de certains élasmobranches qui voient le monde à travers un nouveau sens, mais aussi pour les leçons qu'elle enseigne sur l'identification et la classification des récepteurs par fonction. » En réponse à cette déclaration, cet article abordera l'électroréception chez les élasmobranches en examinant l'histoire de l'électroréception, la morphologie des électrorécepteurs, les preuves physiologiques et comportementales et, enfin, la manière dont l'électroréception influence le comportement de ces animaux remarquables. »
 
 http://wrt-intertext.syr.edu/lI2/samie.html
 

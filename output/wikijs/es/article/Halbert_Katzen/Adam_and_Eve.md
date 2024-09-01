@@ -400,7 +400,6 @@ La afirmación de *El Libro de Urantia* de que Adán y Eva vinieron de la nada y
 
 A raíz de la investigación de la microcefalina dirigida por Lahn, se desarrolló un interés para determinar si la difusión de la microcefalina haplogrupo D se puede seguir con cualquier otra cosa relacionada con la función cerebral. Esta investigación llevó a la documentación de una fuerte relación con el uso de las lenguas no tonales. Un artículo de mayo de 2007, titulado *¿Hablando en tonos? La culpa es de sus genes*, resume el asunto de esta manera:
 
-> 
 > Las diferencias genéticas entre poblaciones humanas pueden haber influido en los idiomas que se hablan en el mundo de hoy, según ha sugerido una investigación.
 > 
 > Las personas portadoras de determinadas variantes de dos genes implicados en el desarrollo del cerebro tienden a hablar idiomas no tonales como el inglés, mientras que aquellos con un perfil genético diferente son más propensos a hablar lenguas tonales, como el chino.

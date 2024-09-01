@@ -9,10 +9,25 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet tema--gris claro aclarar-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Por Halbert Katzen J.D._
 
-El libro de Urantia se publicó en 1955. Ningún ser humano afirma haberlo escrito. La identidad de la persona utilizada como conducto para el proceso de recepción del material fue mantenida en secreto por quienes participaron en la publicación del libro. Esto se hizo de acuerdo con los deseos de esa persona. Aparentemente, utilizar a alguien que no quería ser conocido en el proceso era una preocupación crucial para quienes proporcionaron el texto porque querían que estuviera lo más libre posible de la asociación humana, dado el desafío de proporcionar una revelación escrita.
+_El Libro de Urantia_ se publicó en 1955. Ningún ser humano afirma haberlo escrito. La identidad de la persona utilizada como conducto para el proceso de recepción del material fue mantenida en secreto por quienes participaron en la publicación del libro. Esto se hizo de acuerdo con los deseos de esa persona. Aparentemente, utilizar a alguien que no quería ser conocido en el proceso era una preocupación crucial para quienes proporcionaron el texto porque querían que estuviera lo más libre posible de la asociación humana, dado el desafío de proporcionar una revelación escrita.
 
 Muy recomendable: Una demanda por violación de derechos de autor y marca registrada interpuesta por la Fundación Urantia en la década de 1990 contra Kristen Maaherra (ahora Kristen Michaels) condujo a su creación de una historia de 26 páginas. Este es un gran lugar para comenzar porque es detallado, eficiente y creado teniendo en cuenta los rigores y las consecuencias del escrutinio legal.
 
@@ -54,7 +69,7 @@ Muy recomendable: Una demanda por violación de derechos de autor y marca regist
 
 [Presidente de la Escuela de la Hermandad Urantia](https://ubannotated.com/wp-content/uploads/2018/01/LU-School-Wind-down-.pdf) sobre la necesidad de revivir y mantenerlo vivo.
 
-[Carta de Sadler de 1962 a Meredith Sprunger](https://ubannotated.com/wp-content/uploads/2018/01/62-Sadler-2-Sprunger-Teacher-ministers.pdf) sobre si los maestros ordenados del Libro de Urantia podían realizar ceremonias de matrimonio.
+[Carta de Sadler de 1962 a Meredith Sprunger](https://ubannotated.com/wp-content/uploads/2018/01/62-Sadler-2-Sprunger-Teacher-ministers.pdf) sobre si los maestros ordenados del _Libro de Urantia_ podían realizar ceremonias de matrimonio.
 
 [Declaración de la Fundación Urantia de 1959](https://ubannotated.com/wp-content/uploads/2018/01/59-Foundation-on-Trademarking-Circles.pdf) sobre la marca registrada de los círculos concéntricos. **Nota:** La marca registrada aparentemente no se hizo por orden de la Comisión Reveladora. Es «sabiduría» humana.
 
@@ -72,7 +87,7 @@ Muy recomendable: Una demanda por violación de derechos de autor y marca regist
 
 «Debéis comenzar a ensayar vuestra actitud tal como se manifestará en el momento de la publicación de El libro de Urantia. Vosotros, como individuos y como grupo, sólo os preocupáis por las enseñanzas del Libro. El origen del Libro es asunto de los comisionados de contacto».
 
-«En el momento de la aparición de El libro de Urantia, se te exigirá un juramento solemne de que guardarás silencio sobre todo lo que llegues a saber sobre el origen de El libro de Urantia durante el resto de tu vida».
+«En el momento de la aparición de _El libro de Urantia_, se te exigirá un juramento solemne de que guardarás silencio sobre todo lo que llegues a saber sobre el origen de _El Libro de Urantia_ durante el resto de tu vida».
 
 «Sólo los comisionados de contacto podrán dar información sobre el origen del libro… y serán debidamente instruidos sobre cómo deben comportarse con respecto a estos asuntos».
 
@@ -152,7 +167,7 @@ Nótese la falta de respeto a la autoridad de la Comisión Reveladora para elegi
 
 «Una de nuestras observaciones básicas que realmente nos perturbó, después de terminar una primera lectura de los Documentos, fue el hecho de que _El Libro de Urantia_ pretendía dar una descripción específica de la apariencia y la naturaleza del universo físico pero _no presentaba ningún programa para el desarrollo espiritual individual_.»
 
-«Es un gran error y suscitará gran controversia, confusión y disensión que El libro de Urantia indique positivamente que nadie puede comunicarse con los muertos y que los muertos, bajo ninguna circunstancia, pueden regresar o regresan a esta tierra. Esta es una declaración deliberadamente errónea, una falsedad, y no puede haber sido hecha por inteligencias superiores, porque ellas SABEN mejor. Con El libro de Urantia conteniendo tales inferencias falsas, muchos humanos que han tenido experiencias genuinas no sabrán qué secciones del libro creer o no creer, y es probable que terminen dudando de todo».
+«Es un gran error y suscitará gran controversia, confusión y disensión que _El Libro de Urantia_ indique positivamente que nadie puede comunicarse con los muertos y que los muertos, bajo ninguna circunstancia, pueden regresar o regresan a esta tierra. Esta es una declaración deliberadamente errónea, una falsedad, y no puede haber sido hecha por inteligencias superiores, porque ellas SABEN mejor. Con _El Libro de Urantia_ conteniendo tales inferencias falsas, muchos humanos que han tenido experiencias genuinas no sabrán qué secciones del libro creer o no creer, y es probable que terminen dudando de todo».
 
 [La extensa respuesta de Clyde Bedell de 1976](https://ubannotated.com/wp-content/uploads/2018/01/76-BedellC-response-to-Pipeline.pdf) al capítulo El conducto hacia Dios en el libro de Harold Sherman _Cómo saber qué creer_.
 
@@ -164,7 +179,7 @@ Nótese la falta de respeto a la autoridad de la Comisión Reveladora para elegi
 
 [Memorando de la Fundación de 1970 a la Asamblea Trienal de Delegados](https://ubannotated.com/wp-content/uploads/2018/01/70-Foundation-memo-2-TDA.pdf) sobre los roles y relaciones entre las organizaciones.
 
-“La Hermandad Urantia fue organizada por los fideicomisarios de la Fundación Urantia bajo la dirección y guía de las autoridades planetarias gobernantes. La organización comenzó a existir oficialmente el 2 de enero de 1955. El propósito de la Hermandad Urantia es el estudio y la difusión de las enseñanzas del Libro de Urantia, y fue para estos propósitos que la Fundación Urantia designó a la Hermandad Urantia para actuar como distribuidora del Libro de Urantia con la ayuda de la Corporación de la Hermandad Urantia, el brazo legal y fiscal de la Hermandad Urantia.
+“La Hermandad Urantia fue organizada por los fideicomisarios de la Fundación Urantia bajo la dirección y guía de las autoridades planetarias gobernantes. La organización comenzó a existir oficialmente el 2 de enero de 1955. El propósito de la Hermandad Urantia es el estudio y la difusión de las enseñanzas del Libro de Urantia, y fue para estos propósitos que la Fundación Urantia designó a la Hermandad Urantia para actuar como distribuidora del _Libro de Urantia_ con la ayuda de la Corporación de la Hermandad Urantia, el brazo legal y fiscal de la Hermandad Urantia.
 
 «Debería ser evidente entonces que la Fundación Urantia no está en deuda con la Hermandad Urantia ni con ninguna otra organización relacionada con el Libro de Urantia».
 
@@ -188,3 +203,18 @@ Nótese la falta de respeto a la autoridad de la Comisión Reveladora para elegi
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

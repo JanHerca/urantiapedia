@@ -32,11 +32,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <img src="/image/article/Halbert_Katzen/Dog_Domestication/dogs.jpg">
 </figure>
 
-Identificar temas sobre los que es necesario escribir informes lleva mucho menos tiempo que redactarlos. En consecuencia, cada vez tenemos más informes pendientes de redactar. Aunque esto es un poco frustrante, ¡por supuesto es mucho mejor que la alternativa! A continuación se muestran algunas citas de El libro de Urantia y enlaces a la información que utilizamos para identificar el tema. Póngase en contacto con nosotros si tiene información adicional que sea relevante para la preparación de uno de nuestros próximos informes.
+Identificar temas sobre los que es necesario escribir informes lleva mucho menos tiempo que redactarlos. En consecuencia, cada vez tenemos más informes pendientes de redactar. Aunque esto es un poco frustrante, ¡por supuesto es mucho mejor que la alternativa! A continuación se muestran algunas citas de _El Libro de Urantia_ y enlaces a la información que utilizamos para identificar el tema. Póngase en contacto con nosotros si tiene información adicional que sea relevante para la preparación de uno de nuestros próximos informes.
 
 <br style="clear:both;"/>
 
-## Citas de El libro de Urantia sobre la domesticación temprana de los perros.
+## Citas de _El Libro de Urantia_ sobre la domesticación temprana de los perros.
 
 > 2. _El consejo de la domesticación y utilización de los animales._ Este consejo estaba dedicado a la tarea de seleccionar y criar a aquellos animales que estaban mejor adaptados para ayudar a los seres humanos a llevar las cargas y trasportarlos a ellos mismos, para servir de alimento, y más adelante para utilizarlos en el cultivo de la tierra. Este cuerpo competente estaba dirigido por Bon.
 >

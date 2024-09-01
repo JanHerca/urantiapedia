@@ -118,7 +118,7 @@ That being said, people unfamiliar with _The Urantia Book_ should be more or les
 > 
 > The mortal remains of Jesus underwent the same natural process of elemental disintegration as characterizes all human bodies on earth except that, in point of time, this natural mode of dissolution was greatly accelerated, hastened to that point where it became well-nigh instantaneous. <a id="a118_289"></a>[UB 189:2.1-8](/en/The_Urantia_Book/189#p2_1) [^9]
 
-> A little before three o'clock this Sunday morning, when the first signs of day began to appear in the east, five of the women started out for the tomb of Jesus. They had prepared an abundance of special embalming lotions, and they carried many linen bandages with them. It was their purpose more thoroughly to give the body of Jesus its death anointing and more carefully to wrap it up with the new bandages.  <a id="a120_412"></a>[UB 189:4.3](/en/The_Urantia_Book/189#p4_3)
+> A little before three o'clock this Sunday morning, when the first signs of day began to appear in the east, five of the women started out for the tomb of Jesus. They had prepared an abundance of special embalming lotions, and they carried many linen bandages with them. It was their purpose more thoroughly to give the body of Jesus its death anointing and more carefully to wrap it up with the new bandages. [UB 189:4.3](/en/The_Urantia_Book/189#p4_3)
 
 > The women who went on this mission of anointing Jesus' body were: Mary Magdalene, Mary the mother of the Alpheus twins, Salome the mother of the Zebedee brothers, Joanna the wife of Chuza, and Susanna the daughter of Ezra of Alexandria.
 > 
@@ -488,7 +488,7 @@ The question needs to be asked, “Why would the angels leave these relics behin
 
 > Mary saw only the folded napkin where his head had rested and the bandages wherewith he had been wrapped lying intact and as they had rested on the stone before the celestial hosts removed the body. The covering sheet lay at the foot of the burial niche. <a id="a488_257"></a>[UB 189:4.6](/en/The_Urantia_Book/189#p4_6) [^50]
 
-> [T]hey [the women] conjectured that the body had been moved to another resting place. But when they pondered such a solution of their dilemma, they were at a loss to account for the orderly arrangement of the grave cloths; how could the body have been removed since the very bandages in which it was wrapped were left in position and apparently intact on the burial shelf? <a id="a490_375"></a>[UB 189:4.6](/en/The_Urantia_Book/189#p4_6) [^51]
+> [T]hey [the women] conjectured that the body had been moved to another resting place. But when they pondered such a solution of their dilemma, they were at a loss to account for the orderly arrangement of the grave cloths; how could the body have been removed since the very bandages in which it was wrapped were left in position and apparently intact on the burial shelf? <a id="a490_375"></a>[UB 189:4.9](/en/The_Urantia_Book/189#p4_9) [^51]
 
 > Very soon Simon Peter rushed up and, entering, saw the same empty tomb with the grave cloths so peculiarly arranged. <a id="a492_119"></a>[UB 189:5.2](/en/The_Urantia_Book/189#p5_2) [^52]
 

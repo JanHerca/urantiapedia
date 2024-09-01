@@ -85,7 +85,7 @@ From The Sierra Nevada Enigma:
 > 
 > The answer to this puzzle may lie in the awful scars left on the mountains by the goldhungry miners known as the 49ers. Three geologic detectives from Stanford University have followed a trail of ancient raindrops to arrive at a new, much older, estimate of the Sierra Nevada's age. The researchers scoured now-defunct mining camps for clay samples that encoded the chemical signature of rain from long ago. These faint traces revealed how the altitudes of the ancient mountains changed over the millennia. The technique-tried-and-true in other settings, but never used for mountain building-says the Sierra are at least 45 million years old, nearly twice the canonical estimate.
 > 
-> The major success of this study,“ says Andreas Mulch, lead author on the team's paper in Science, ”is that it is actually a really, really simple problem we were trying to attack: How high is high? [^4]
+> “The major success of this study,” says Andreas Mulch, lead author on the team's paper in Science, “is that it is actually a really, really simple problem we were trying to attack: How high is high?” [^4]
 
 _The Urantia Book_ not only says that the Sierras were “well re-elevated” and have been rising for the last 25 million years, rejecting the theory that they are only about 5 million years old, but also contains statements that are harmonious with the findings by Mulch, Graham, and Chamberlain that the Sierras were elevated 45 million years ago.
 
@@ -120,7 +120,7 @@ Now going back to _The Sierra Nevada Enigma_:
 > . . . When gold got too scarce for miners to pan for it by hand, they brought in enormous water cannons to make the job more efficient. . . . Called “monitors” or simply “giants,” the cannons shot streams of water at the sides of the mountain to shear soil and sediment away from the mountain slopes....
 > 
 > ... Malakoff Diggins was the largest hydraulic mine of its time. ...
-
+> 
 > ... [P]reserved is the gaping gash the miners left: 2100 meters long, 900 meters wide, and nearly 200 meters deep in places.
 >
 > . . .
@@ -215,7 +215,7 @@ Approached from this perspective, the 2006 report prepared by Mulch, Graham, and
 <img src="/image/article/Halbert_Katzen/Sierra_Mountains/timetable.jpg">
 </figure>
 
-> 40,000,000 years ago the land areas of the Northern Hemisphere began to elevate, and this was followed by new extensive land deposits and other terrestrial activities, including lava flows, warping, lake formation, and erosion. <a id="a214_230"></a>[UB 61:1.6](/en/The_Urantia_Book/61#p1_6)
+> 40,000,000 years ago the land areas of the Northern Hemisphere began to elevate, and this was followed by new extensive land deposits and other terrestrial activities, including lava flows, warping, lake formation, and erosion. [UB 61:1.11](/en/The_Urantia_Book/61#p1_11)
 
 > 25,000,000 years ago there was a slight land submergence following the long epoch of land elevation. The Rocky Mountain region remained highly elevated so that the deposition of erosion material continued throughout the lowlands to the east. The Sierras were well re-elevated; in fact, they have been rising ever since. <a id="a216_322"></a>[UB 61:3.3](/en/The_Urantia_Book/61#p3_3)
 

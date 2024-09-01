@@ -33,7 +33,7 @@ _By Halbert Katzen J.D._
 
 ## Introduction
 
-_The Urantia Book_ encourages gardening as a way of life and emphasizes the historical importance of this pursuit as it relates to the development of civilization. Word searches related to _s__oil_, _horticulture_, _agriculture,_ and _gardening_ were especially helpful to the development of this Topical Study, as the latter headings suggest.
+_The Urantia Book_ encourages gardening as a way of life and emphasizes the historical importance of this pursuit as it relates to the development of civilization. Word searches related to _soil_, _horticulture_, _agriculture,_ and _gardening_ were especially helpful to the development of this Topical Study, as the latter headings suggest.
 
 Regarding the following thematic presentation of material, consider this Topical Study as foundational to [Genetic Introductions, Mutations, and Evolution: a _Urantia Book_ perspective](/en/article/Halbert_Katzen/Genetic_Introductions_Mutations_and_Evolution). Central themes common to both Topical Studies are expressed in these two paragraphs:
 

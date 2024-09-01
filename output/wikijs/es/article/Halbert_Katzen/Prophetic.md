@@ -9,20 +9,35 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet tema--gris claro aclarar-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Por Halbert Katzen J.D._
 
 > Aquí, en el Paraíso periférico, se encuentran las enormes áreas de exposiciones históricas y proféticas asignadas a los Hijos Creadores, dedicadas a los universos locales del tiempo y del espacio. Hay exactamente siete billones de estas reservas históricas ya instaladas o en reserva, pero todas estas instalaciones reunidas ocupan solamente alrededor de un cuatro por ciento de la porción del área periférica que les está asignada. Deducimos que estas inmensas reservas pertenecen a las creaciones que algún día estarán situadas más allá de las fronteras de los siete superuniversos conocidos y habitados en la actualidad. ([LU 11:4.3](/es/The_Urantia_Book/11#p4_3))
 
-> _5. *Los artistas proféticos* —aquellos que proyectan los significados de la historia hacia el futuro._ ([LU 44:2.7](/es/The_Urantia_Book/44#p2_7))
+> 5. *Los artistas proféticos* —aquellos que proyectan los significados de la historia hacia el futuro. ([LU 44:2.7](/es/The_Urantia_Book/44#p2_7))
 
-> _3. *La alegría profética*. A los mortales quizás les resulte difícil imaginar esta fase del humor, pero obtenemos una satisfacción particular de la seguridad de que «todas las cosas trabajan juntas para el bien»{3} —para los espíritus y los seres morontiales, así como para los mortales. Este aspecto del humor celestial surge de nuestra fe en los cuidados amorosos de nuestros superiores y en la estabilidad divina de nuestros Directores Supremos._ ([LU 48:4.7](/es/The_Urantia_Book/48#p4_7))
+> 3. *La alegría profética*. A los mortales quizás les resulte difícil imaginar esta fase del humor, pero obtenemos una satisfacción particular de la seguridad de que «todas las cosas trabajan juntas para el bien» —para los espíritus y los seres morontiales, así como para los mortales. Este aspecto del humor celestial surge de nuestra fe en los cuidados amorosos de nuestros superiores y en la estabilidad divina de nuestros Directores Supremos. ([LU 48:4.7](/es/The_Urantia_Book/48#p4_7))
 
 > Los antiguos no trataban de conocer el futuro simplemente por curiosidad; querían esquivar la mala suerte. La adivinación era simplemente un intento por evitar las dificultades. En aquellos tiempos los sueños se consideraban como proféticos, y todo lo que se salía de lo normal era estimado como un presagio. Incluso hoy en día, las razas civilizadas están aquejadas de la creencia en los signos, las señales y otros vestigios supersticiosos del antiguo culto progresivo a los fantasmas. El hombre es lento, muy lento en abandonar aquellos métodos que le sirvieron para ascender de manera tan penosa y gradual por la escala evolutiva de la vida. ([LU 87:5.14](/es/The_Urantia_Book/87#p5_14))
 
 > El éxtasis religioso es aceptable cuando resulta de unos antecedentes sanos, pero estas experiencias son con más frecuencia la consecuencia de influencias puramente emocionales que la manifestación de un carácter espiritual profundo. Las personas religiosas no deben considerar cada presentimiento psicológico fuerte y cada experiencia emocional intensa como una revelación divina o una comunicación espiritual. El éxtasis espiritual auténtico está generalmente acompañado de una gran calma exterior y de un control emocional casi perfecto. Pero la verdadera visión profética es un presentimiento super-psicológico. Estas experiencias no son ni seudo-alucinaciones ni éxtasis semejantes a los trances. ([LU 91:7.3](/es/The_Urantia_Book/91#p7_3))
 
-> La mayoría de las llamadas profecías mesiánicas del Antiguo Testamento fueron redactadas para acomodarlas a Jesús mucho tiempo después de su vida en la Tierra. Durante siglos, los profetas hebreos habían proclamado la venida de un libertador, y estas promesas habían sido interpretadas por las generaciones sucesivas como que se referían a un nuevo gobernante judío que se sentaría en el trono de David, y que mediante los célebres métodos milagrosos de Moisés, establecería a los judíos en Palestina como una nación poderosa, libre de toda dominación extranjera. Además, muchos pasajes metafóricos que se encontraban por todas partes en las escrituras hebreas fueron, con posterioridad, aplicados erróneamente a la misión de la vida de Jesús. Muchos textos del Antiguo Testamento fueron tergiversados para que parecieran cuadrar con algunos episodios de la vida terrestre del Maestro. Jesús mismo negó una vez, públicamente, toda conexión con la casa real de David{20}. Incluso el pasaje «una joven dará a luz a un hijo», se cambió en «una virgen dará a luz a un hijo»{21}. Lo mismo sucedió con las numerosas genealogías de José y María que se compusieron después de la carrera de Miguel en la Tierra{22}. Muchos de estos linajes contienen bastantes antepasados del Maestro, pero en general no son auténticos y no se puede confiar en su exactitud. Con demasiada frecuencia, los primeros seguidores de Jesús sucumbieron a la tentación de hacer que todas las antiguas declaraciones proféticas parecieran encontrar su cumplimiento en la vida de su Señor y Maestro. ([LU 122:4.4](/es/The_Urantia_Book/122#p4_4))
+> La mayoría de las llamadas profecías mesiánicas del Antiguo Testamento fueron redactadas para acomodarlas a Jesús mucho tiempo después de su vida en la Tierra. Durante siglos, los profetas hebreos habían proclamado la venida de un libertador, y estas promesas habían sido interpretadas por las generaciones sucesivas como que se referían a un nuevo gobernante judío que se sentaría en el trono de David, y que mediante los célebres métodos milagrosos de Moisés, establecería a los judíos en Palestina como una nación poderosa, libre de toda dominación extranjera. Además, muchos pasajes metafóricos que se encontraban por todas partes en las escrituras hebreas fueron, con posterioridad, aplicados erróneamente a la misión de la vida de Jesús. Muchos textos del Antiguo Testamento fueron tergiversados para que parecieran cuadrar con algunos episodios de la vida terrestre del Maestro. Jesús mismo negó una vez, públicamente, toda conexión con la casa real de David. Incluso el pasaje «una joven dará a luz a un hijo», se cambió en «una virgen dará a luz a un hijo». Lo mismo sucedió con las numerosas genealogías de José y María que se compusieron después de la carrera de Miguel en la Tierra. Muchos de estos linajes contienen bastantes antepasados del Maestro, pero en general no son auténticos y no se puede confiar en su exactitud. Con demasiada frecuencia, los primeros seguidores de Jesús sucumbieron a la tentación de hacer que todas las antiguas declaraciones proféticas parecieran encontrar su cumplimiento en la vida de su Señor y Maestro. ([LU 122:4.4](/es/The_Urantia_Book/122#p4_4))
 
 > José estaba perplejo, pero María, después de reflexionar sobre estas experiencias, se sintió fortificada, acabando por considerar las palabras de Jesús en el Olivete como proféticas de la misión mesiánica de su hijo como liberador de Israel. Se dedicó con renovada energía a moldear los pensamientos de Jesús dentro de canales nacionalistas y patrióticos, y recurrió a la ayuda de su hermano, el tío favorito de Jesús. De todas las maneras posibles, la madre de Jesús se dedicó a la tarea de preparar a su hijo primogénito para que asumiera el mando de los que querían restaurar el trono de David y rechazar para siempre el yugo de la esclavitud política de los gentiles. ([LU 125:6.13](/es/The_Urantia_Book/125#p6_13))
 
@@ -34,7 +49,7 @@ _Por Halbert Katzen J.D._
 
 > Después de haber resumido las enseñanzas de Jesús sobre el reino de los cielos, se nos ha permitido describir algunas ideas posteriores que se agregaron al concepto del reino, y emprender un pronóstico profético del reino tal como podría evolucionar en la era venidera. ([LU 170:5.1](/es/The_Urantia_Book/170#p5_1))
 
-> Después de haber decidido hacer una entrada pública en Jerusalén, el Maestro se vio enfrentado a la necesidad de escoger un método apropiado para ejecutar esta resolución. Jesús reflexionó sobre las numerosas profecías, más o menos contradictorias, llamadas mesiánicas, pero sólo parecía haber una que pudiera seguir de manera apropiada{9}. La mayoría de estas declaraciones proféticas describían a un rey, el hijo y sucesor de David, un hombre audaz y enérgico que liberaría temporalmente a todo Israel del yugo de la dominación extranjera. Pero había un pasaje en las Escrituras que a veces había sido asociado con el Mesías por parte de aquellos que más defendían el concepto espiritual de su misión; Jesús consideró que podría utilizar coherentemente este pasaje como guía para la entrada que proyectaba hacer en Jerusalén. Este escrito se encontraba en Zacarías y decía: «Regocíjate mucho, oh hija de Sión; da gritos de júbilo, oh hija de Jerusalén. He aquí que tu rey viene hacia ti. Es justo y trae la salvación. Viene como alguien humilde, montado en un asno, en un pollino, el hijo de una burra»{10}. ([LU 172:3.4](/es/The_Urantia_Book/172#p3_4))
+> Después de haber decidido hacer una entrada pública en Jerusalén, el Maestro se vio enfrentado a la necesidad de escoger un método apropiado para ejecutar esta resolución. Jesús reflexionó sobre las numerosas profecías, más o menos contradictorias, llamadas mesiánicas, pero sólo parecía haber una que pudiera seguir de manera apropiada. La mayoría de estas declaraciones proféticas describían a un rey, el hijo y sucesor de David, un hombre audaz y enérgico que liberaría temporalmente a todo Israel del yugo de la dominación extranjera. Pero había un pasaje en las Escrituras que a veces había sido asociado con el Mesías por parte de aquellos que más defendían el concepto espiritual de su misión; Jesús consideró que podría utilizar coherentemente este pasaje como guía para la entrada que proyectaba hacer en Jerusalén. Este escrito se encontraba en Zacarías y decía: «Regocíjate mucho, oh hija de Sión; da gritos de júbilo, oh hija de Jerusalén. He aquí que tu rey viene hacia ti. Es justo y trae la salvación. Viene como alguien humilde, montado en un asno, en un pollino, el hijo de una burra». ([LU 172:3.4](/es/The_Urantia_Book/172#p3_4))
 
 > Natanael, aparte de apreciar los aspectos simbólicos y proféticos, fue el que estuvo más cerca de comprender las razones que tenía el Maestro para ganarse el apoyo popular de los peregrinos de la Pascua. Antes de llegar al templo, estuvo razonando que, sin esta entrada espectacular en Jerusalén, Jesús hubiera sido arrestado por los agentes del sanedrín y arrojado en un calabozo en cuanto se hubiera atrevido a entrar en la ciudad. Así pues, no le sorprendió en absoluto que el Maestro dejara de utilizar a la alegre multitud en cuanto se encontró dentro de los muros de la ciudad, después de haber impresionado tan poderosamente a los dirigentes judíos como para que éstos se abstuvieran de proceder a su arresto inmediato. Al comprender la verdadera razón que tenía el Maestro para entrar en la ciudad de esta manera, Natanael siguió adelante con naturalidad y con más equilibrio, y se sintió menos perturbado y desilusionado que los otros apóstoles por la conducta posterior de Jesús. Natanael tenía una gran confianza en la aptitud de Jesús para comprender a los hombres, así como en su sagacidad y destreza para manejar las situaciones difíciles. ([LU 172:5.7](/es/The_Urantia_Book/172#p5_7))
 
@@ -47,3 +62,18 @@ _Por Halbert Katzen J.D._
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

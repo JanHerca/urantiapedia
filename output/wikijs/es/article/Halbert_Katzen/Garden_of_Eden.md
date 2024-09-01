@@ -118,7 +118,7 @@ Con estas fuerzas en mente, ahora considere en la [\[Figura 5\]](#Garden_of_Eden
 
 Además, observe cómo en el lado occidental la línea elevada del norte se rompe y reaparece más al sur a medida que se acerca al extremo sureste de Chipre. También, en su mayor parte, esta cresta norte está menos definida que la cordillera sur. Según la posición de la línea que separa las placas tectónicas en la [\[Figura 8\]](#Garden_of_Eden_fig_8), parece que el lado norte de lo que sería la península ahora sumergida está situado más directamente sobre la convergencia de las placas. Esto se puede apreciar al notar que el lugar donde la línea de la placa tectónica rompe en la orilla también es la ubicación del extremo más al norte en la línea con dos flechas que se ve en la [\[Figura 5\]](#Garden_of_Eden_fig_5) y [\[Figura 6\]](#Garden_of_Eden_fig_6).
 
-La descripción del Libro de Urantia de lo que sucedió con el Jardín del Edén es consistente con:
+La descripción del _Libro de Urantia_ de lo que sucedió con el Jardín del Edén es consistente con:
 1. La topografía más suave asociada con la cadena norte de colinas,
 2. La forma en que el borde occidental de esta cadena aparece desplazado hacia el sur, y
 3. La convergencia más estrecha de cuarenta y tres kilómetros en la costa con las depresiones a cada lado asociadas con un descenso más accidentado frente a la costa en esa área.

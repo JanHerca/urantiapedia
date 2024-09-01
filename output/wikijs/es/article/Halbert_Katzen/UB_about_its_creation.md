@@ -1,5 +1,5 @@
 ---
-title: "¿Qué dice El libro de Urantia sobre su creación y el período de tiempo?"
+title: "¿Qué dice El Libro de Urantia sobre su creación y la época?"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet tema--gris claro aclarar-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Por Halbert Katzen J.D._
 
@@ -36,7 +51,7 @@ _Por Halbert Katzen J.D._
 
 > Únicamente dos influencias pueden modificar y elevar los dogmas de la religión natural: la presión de las costumbres que progresan lentamente y la iluminación periódica de las revelaciones de época. Y no es de extrañar que el progreso haya sido lento; en los tiempos antiguos, ser progresista o inventivo significaba ser ejecutado como brujo. El culto avanza lentamente a través de las épocas generacionales y los ciclos seculares. Pero avanza de hecho. La creencia evolutiva en los fantasmas colocó los cimientos para una filosofía de la religión revelada que destruirá con el tiempo la superstición que le dio origen. ([LU 92:3.5](/es/The_Urantia_Book/92#p3_5))
 
-> _5. *Los documentos de Urantia*. Los documentos, de los cuales éste mismo forma parte, constituyen la presentación más reciente de la verdad a los mortales de Urantia. Estos documentos difieren de todas las revelaciones anteriores, ya que no son el trabajo de una sola personalidad del universo, sino una presentación compuesta realizada por numerosos seres. Pero ninguna revelación puede ser nunca completa hasta que no se alcanza al Padre Universal. Todos los demás ministerios celestiales no son más que parciales, transitorios y prácticamente adaptados a las condiciones locales en el tiempo y el espacio. Aunque una confesión como ésta quizás pueda reducir la fuerza y la autoridad inmediatas de todas las revelaciones, ha llegado la hora en que es conveniente hacer estas sinceras declaraciones incluso a riesgo de debilitar la influencia y la autoridad futuras de esta obra, que es la revelación más reciente de la verdad para las razas mortales de Urantia._ ([LU 92:4.9](/es/The_Urantia_Book/92#p4_9))
+> 5. *Los documentos de Urantia*. Los documentos, de los cuales éste mismo forma parte, constituyen la presentación más reciente de la verdad a los mortales de Urantia. Estos documentos difieren de todas las revelaciones anteriores, ya que no son el trabajo de una sola personalidad del universo, sino una presentación compuesta realizada por numerosos seres. Pero ninguna revelación puede ser nunca completa hasta que no se alcanza al Padre Universal. Todos los demás ministerios celestiales no son más que parciales, transitorios y prácticamente adaptados a las condiciones locales en el tiempo y el espacio. Aunque una confesión como ésta quizás pueda reducir la fuerza y la autoridad inmediatas de todas las revelaciones, ha llegado la hora en que es conveniente hacer estas sinceras declaraciones incluso a riesgo de debilitar la influencia y la autoridad futuras de esta obra, que es la revelación más reciente de la verdad para las razas mortales de Urantia. ([LU 92:4.9](/es/The_Urantia_Book/92#p4_9))
 
 > Existen dos razones fundamentales para creer en un Dios que fomenta la supervivencia humana:
 > 
@@ -64,7 +79,7 @@ _Por Halbert Katzen J.D._
 
 > [Cuando nosotros, los intermedios, preparamos por primera vez el resumen de las enseñanzas de Jesús en Urmia, surgió un desacuerdo entre los serafines de las iglesias y los serafines del progreso sobre la conveniencia de incluir estas enseñanzas en la Revelación de Urantia. Las condiciones que prevalecen tanto en las religiones como en los gobiernos humanos del siglo veinte son tan diferentes de las que predominaban en los tiempos de Jesús, que era difícil en verdad adaptar las enseñanzas del Maestro en Urmia a los problemas del reino de Dios y de los reinos de los hombres, tal como estas funciones mundiales existen en el siglo veinte. Nunca fuimos capaces de formular una exposición de las enseñanzas del Maestro que fuera aceptable para estos dos grupos de serafines del gobierno planetario. Finalmente, el Melquisedek presidente de la comisión reveladora nombró una comisión de tres de nosotros para que presentara nuestro punto de vista sobre las enseñanzas del Maestro en Urmia, adaptadas a las condiciones religiosas y políticas del siglo veinte en Urantia. En consecuencia, nosotros, los tres intermedios secundarios, completamos esta adaptación de las enseñanzas de Jesús, reexponiendo sus declaraciones tal como las aplicaríamos a las condiciones del mundo de hoy. Presentamos ahora estas exposiciones tal como están después de haber sido revisadas por el Melquisedek presidente de la comisión reveladora.] ([LU 134:3.8](/es/The_Urantia_Book/134#p3_8))
 
-## ¿Qué dice _El Libro de Urantia_ sobre este período de tiempo?
+## ¿Qué dice _El Libro de Urantia_ sobre la época de su escritura?
 
 > Pero estas demoras de la misericordia no son interminables. A pesar del largo retraso en juzgarse la rebelión de Lucifer (tal como se calcula el tiempo en Urantia), podemos indicar que durante el período de efectuar esta revelación se ha celebrado en Uversa la primera audiencia del caso pendiente de Gabriel *contra* Lucifer, y poco después se ha promulgado un mandato de los Ancianos de los Días ordenando que Satanás sea confinado de ahora en adelante en el mundo prisión con Lucifer. Esto pone fin a la capacidad de Satanás para continuar haciendo visitas a cualquiera de los mundos caídos de Satania. En un universo dominado por la misericordia, la justicia puede ser lenta, pero es segura. ([LU 54:4.8](/es/The_Urantia_Book/54#p4_8))
 
@@ -78,7 +93,7 @@ _Por Halbert Katzen J.D._
 
 > Pero el cristianismo paganizado y socializado necesita un nuevo contacto con las enseñanzas no comprometidas de Jesús; languidece por falta de una visión nueva de la vida del Maestro en la Tierra. Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista. Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual. ([LU 195:9.2](/es/The_Urantia_Book/195#p9_2))
 
-> Los tiempos están maduros para presenciar la resurrección simbólica del Jesús humano, saliendo de la tumba de las tradiciones teológicas y de los dogmas religiosos de diecinueve siglos. Jesús de Nazaret ya no debe ser sacrificado, ni siquiera por el espléndido concepto del Cristo glorificado. ¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre y a todas las demás religiones! La hermandad cristiana de creyentes no dudará seguramente en reajustar su fe y sus costumbres de vida para poder «seguir» al Maestro{13} en la manifestación de su vida real de devoción religiosa a la tarea de hacer la voluntad de su Padre, y de consagración al servicio desinteresado de los hombres. ¿Temen los cristianos declarados que se ponga al descubierto a una hermandad autosuficiente y no consagrada, que tiene respetabilidad social y una inadaptación económica egoísta? ¿Teme el cristianismo institucional que la autoridad eclesiástica tradicional esté posiblemente en peligro, o incluso sea derrocada, si el Jesús de Galilea es reinstalado en la mente y el alma de los hombres mortales como el ideal de la vida religiosa personal? En verdad, los reajustes sociales, las transformaciones económicas, los rejuvenecimientos morales y las revisiones religiosas de la civilización cristiana serían drásticas y revolucionarias si la religión viviente de Jesús sustituyera repentinamente a la religión teológica acerca de Jesús. ([LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
+> Los tiempos están maduros para presenciar la resurrección simbólica del Jesús humano, saliendo de la tumba de las tradiciones teológicas y de los dogmas religiosos de diecinueve siglos. Jesús de Nazaret ya no debe ser sacrificado, ni siquiera por el espléndido concepto del Cristo glorificado. ¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre y a todas las demás religiones! La hermandad cristiana de creyentes no dudará seguramente en reajustar su fe y sus costumbres de vida para poder «seguir» al Maestro en la manifestación de su vida real de devoción religiosa a la tarea de hacer la voluntad de su Padre, y de consagración al servicio desinteresado de los hombres. ¿Temen los cristianos declarados que se ponga al descubierto a una hermandad autosuficiente y no consagrada, que tiene respetabilidad social y una inadaptación económica egoísta? ¿Teme el cristianismo institucional que la autoridad eclesiástica tradicional esté posiblemente en peligro, o incluso sea derrocada, si el Jesús de Galilea es reinstalado en la mente y el alma de los hombres mortales como el ideal de la vida religiosa personal? En verdad, los reajustes sociales, las transformaciones económicas, los rejuvenecimientos morales y las revisiones religiosas de la civilización cristiana serían drásticas y revolucionarias si la religión viviente de Jesús sustituyera repentinamente a la religión teológica acerca de Jesús. ([LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
 
 ## Enlaces externos
 
@@ -88,3 +103,18 @@ _Por Halbert Katzen J.D._
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

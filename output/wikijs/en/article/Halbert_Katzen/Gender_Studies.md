@@ -35,8 +35,8 @@ Sometimes the number of paragraphs are counted. Sometimes the number of times a 
 - **G(g)ods:** 196 (mixed capitalization); **goddesses:** 2 (never capitalized)  
 - **God the Father:** 62; **God the Mother:** 1
 
-- *F(f)ather:** 2,129;   **M(m)other:** 394  
-- *F(f)athers:** 110 (mixed capitalization);   **M(m)others:** 27 (capitalized once)  
+- **F(f)ather:** 2,129;   **M(m)other:** 394  
+- **F(f)athers:** 110 (mixed capitalization);   **M(m)others:** 27 (capitalized once)  
 - **Universal Father:** 500;   **Universal Mother:** 2  
 - **Eternal Father:** 1 (in the Foreword);   **Eternal Mother:** 4 (always followed by –_Son_ or _Son_)  
 - **eternal Father:** 15;   **eternal Mother:** 0  

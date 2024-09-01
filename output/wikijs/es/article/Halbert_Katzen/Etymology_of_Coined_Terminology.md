@@ -9,18 +9,33 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet tema--gris claro aclarar-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Por Halbert Katzen J.D._
 
 ## Introducción: el Mundo de la Cruz
 
-Antes de entrar en la etimología de El libro de Urantia, merece la pena prestar atención a un ejemplo de fraseología de El libro de Urantia. La frase _mundo de la cruz_ aparece cuatro veces. Nótese que entre comillas y problemas de mayúsculas, nunca se usa de la misma manera dos veces. ¿Por qué?
+Antes de entrar en la etimología de _El libro de Urantia_, merece la pena prestar atención a un ejemplo de fraseología de El libro de Urantia. La frase _mundo de la cruz_ aparece cuatro veces. Nótese que entre comillas y problemas de mayúsculas, nunca se usa de la misma manera dos veces. ¿Por qué?
 
 > Cuando los Hijos donadores, Creadores o Magistrales, atraviesan las puertas de la muerte, reaparecen al tercer día. Pero no deberíais albergar la idea de que siempre sufren el trágico final que encontró el Hijo Creador que residió en vuestro mundo hace mil novecientos años. La experiencia extraordinaria y excepcionalmente cruel por la que pasó Jesús de Nazaret ha hecho que Urantia sea conocida localmente como «el mundo de la cruz». No es necesario que a un Hijo de Dios le inflijan un tratamiento tan inhumano, y la gran mayoría de los planetas les ha concedido un recibimiento más considerado, permitiéndoles terminar su carrera humana, poner fin a la era, juzgar a los supervivientes dormidos e inaugurar una nueva dispensación, sin imponerles una muerte violenta. Un Hijo donador debe enfrentarse a la muerte, debe pasar por toda la experiencia efectiva de los mortales del reino, pero el plan divino no contempla el requisito de que esta muerte sea violenta o fuera de lo normal. ([LU 20:6.6](/es/The_Urantia_Book/20#p6_6))
 
 > Aproximadamente por esta época, Urantia fue asignada al sistema de Satania para su administración planetaria, y fue inscrita en el registro de vida de Norlatiadek. Entonces empezó el reconocimiento administrativo de la pequeña e insignificante esfera que estaba destinada a convertirse en el planeta donde Miguel acometería posteriormente la formidable empresa de donación como mortal, y participaría en aquellas experiencias que han hecho que, desde entonces, Urantia sea conocida localmente como «el mundo de la cruz». ([LU 57:8.6](/es/The_Urantia_Book/57#p8_6))
 
-> Urantia es el santuario sentimental de todo Nebadon, la esfera principal entre diez millones de mundos habitados, el hogar humano de Cristo Miguel, soberano de todo Nebadon, ministro Melquisedek para los reinos, salvador de un sistema, liberador adámico, compañero seráfico, asociado de los espíritus ascendentes, progresor morontial, Hijo del Hombre en la similitud de la carne mortal y Príncipe Planetario de Urantia. Vuestras escrituras dicen la verdad cuando afirman que este mismo Jesús ha prometido regresar{10} algún día al mundo de su donación final, al Mundo de la Cruz. ([LU 119:8.8](/es/The_Urantia_Book/119#p8_8))
+> Urantia es el santuario sentimental de todo Nebadon, la esfera principal entre diez millones de mundos habitados, el hogar humano de Cristo Miguel, soberano de todo Nebadon, ministro Melquisedek para los reinos, salvador de un sistema, liberador adámico, compañero seráfico, asociado de los espíritus ascendentes, progresor morontial, Hijo del Hombre en la similitud de la carne mortal y Príncipe Planetario de Urantia. Vuestras escrituras dicen la verdad cuando afirman que este mismo Jesús ha prometido regresar algún día al mundo de su donación final, al Mundo de la Cruz. ([LU 119:8.8](/es/The_Urantia_Book/119#p8_8))
 
 > Aunque Jesús no sufrió esta muerte en la cruz para expiar la culpabilidad racial del hombre mortal, ni para proporcionar algún tipo de acercamiento eficaz a un Dios por otra parte ofendido e implacable; aunque el Hijo del Hombre no se ofreció como sacrificio para apaciguar la ira de Dios y abrir a los pecadores el camino para obtener la salvación; a pesar de que estas ideas de expiación y de propiciación son erróneas, sin embargo existen unos significados ligados a esta muerte de Jesús en la cruz que no deberían ser pasados por alto. Es un hecho que a Urantia se le conoce, entre los otros planetas vecinos habitados, como «el Mundo de la Cruz». ([LU 188:4.1](/es/The_Urantia_Book/188#p4_1))
 
@@ -28,7 +43,7 @@ Hago referencia a que este planeta es conocido como el «Mundo de la Cruz» en m
 
 ## Todas las etimologías organizadas alfabéticamente
 
-### abandonadores
+### abandonteros
 
 [LU 37:9.12](/es/The_Urantia_Book/37#p9_12) Estos ciudadanos de primer orden (a) están completamente entregados a (abandonan) a la perfección magistral (don) de su rol (ers).
 
@@ -55,7 +70,7 @@ La letra «t» simboliza la cruz.
 
 _\-er:_ terminación de sustantivo de agente inglés, correspondiente al latín _\-or_. En palabras nativas representa al inglés antiguo _\-ere_ (antiguo northumbriano también _\-are_) «hombre que tiene que ver con», del protogermánico _\-ari_ (cognados: alemán _\-er_, sueco _\-are_, danés _\-ere_), del protogermánico _\-arjoz_. Algunos creen que esta raíz es idéntica a, y quizás un préstamo de, el latín _\-arius_ (véase _\-ary_).
 
-### Almorzando
+### Alvoring
 
 [LU 32:2.12](/es/The_Urantia_Book/32#p2_12) Uno de los siete Universos Locales más cercanos.
 El lugar donde (A) se nutren el crecimiento (Al) con una actitud proactiva (vor) (ing).
@@ -121,7 +136,7 @@ La letra «T» simboliza la cruz.
 
 _\-ia:_ Elemento formador de palabras en nombres de países, enfermedades y flores, del latín y del griego. _\-ia_, terminación de sustantivo, en griego especialmente utilizado para formar sustantivos abstractos (normalmente de género femenino).
 
-### Asunción
+### Assuntia
 
 [LU 41:2.1](/es/The_Urantia_Book/41#p2_1) Una constelación vecina.
 Todo resplandeciente (As), así es como están (sunt) en este lugar (ia).
@@ -132,7 +147,7 @@ _sunt:_ Latín. Presente activo indicativo tercera persona plural del verbo «se
 
 _\-ia:_ Elemento formador de palabras en nombres de países, enfermedades y flores, del latín y del griego. _\-ia_, terminación de sustantivo, en griego especialmente utilizado para formar sustantivos abstractos (normalmente de género femenino).
 
-### Ávalon
+### Avalon
 
 [LU 32:2.12](/es/The_Urantia_Book/32#p2_12) Uno de los siete Universos Locales más cercanos. ¿Quizás este sea el primer Universo Local creado en este sector Menor o Mayor?
 Un lugar que inició (A) este valioso proceso (val) de crear vida (en).
@@ -143,7 +158,7 @@ _val-:_ de valor como en valor y valor.
 
 _\-on:_ elemento genético básico.
 
-### Avon
+### Avonal
 
 [LU 20:4.5](/es/The_Urantia_Book/20#p4_5) Uno que es un arquetipo (A) y Versión Autorizada (A.V.) de la expresión divina (on) (al).
 
@@ -186,13 +201,13 @@ El seguidor que sigue al otro en el cargo después del otro («D» después de �
 _Edentia_ es la sede de nuestra constelación del universo local, Norlatiadek.
 Este es el lugar edénico (E) original y arquetípico (tia).
 
-### Enseña
+### Ensa
 
 El nombre de nuestro sector menor.
 
 Etimología por Chris Halvorson: «-a = L. sufijo de sustantivo (primera declinación, nominativo) = U.B., sufijo de sustantivo general, usado para indicar los significados específicos adicionales del nombre acuñado (mostrados entre corchetes a continuación)» «ens = ser abstracto, existencia en el sentido más general» «el \[nivel de\] ser (El nivel del sector menor es donde los mortales ascendentes aprenden sobre el verdadero fundamento del “ser», cómo la realidad está fundamentalmente fundamentada en el universo físico de universos.)”
 
-### Fanático
+### Fanoving
 
 [LU 32:2.12](/es/The_Urantia_Book/32#p2_12) Uno de los siete Universos Locales más cercanos.
 Donde estar al servicio (Fa) de los siervos de Dios (nov) es lo que sucede (ing).
@@ -203,11 +218,11 @@ _Noviembre:_ considere Toussaint (n.) Francés, literalmente «fiesta de Todos l
 
 _\-ing:_ \[Inglés antiguo -ung, -ing\] (1) acción, proceso (cazar, vadear); (2) producto de, o asociado con una acción o proceso (castrar).
 
-### Fuente
+### Fonta
 
 Ella es la (F) fuente original (fuente) expresada de manera arquetípica (a).
 
-### Por suerte
+### Fortant
 
 6\. _El director de otorgamiento._
 El que (F) armoniza poderosamente las donaciones (Fort) con los períodos de tiempo intermedios (ant).
@@ -230,7 +245,7 @@ _tone (n.):_ mediados del siglo XIV, «sonido o nota musical», del francés ant
 
 _\-ia:_ Elemento formador de palabras en nombres de países, enfermedades y flores, del latín y del griego. _\-ia_, terminación de sustantivo, en griego especialmente utilizado para formar sustantivos abstractos (normalmente de género femenino).
 
-### Abuela
+### Grandfanda
 
 [LU 24:6.8](/es/The_Urantia_Book/24#p6_8) El nombre de este peregrino descubridor de Havona es _Grandfanda_, y procedía del planeta 341 del sistema 84 en la constelación 62 del universo local 1.131 situado en el superuniverso número uno. Su llegada fue la señal para el establecimiento del servicio de transmisión del universo de universos. Hasta entonces sólo habían estado en funcionamiento las transmisiones de los superuniversos y los universos locales, pero el anuncio de la llegada de Grandfanda a los portales de Havona señaló la inauguración de los «informes espaciales de gloria», llamados así porque la transmisión inicial del universo informó de la llegada a Havona del primero de los seres evolutivos que alcanzaron la entrada en la meta de la existencia ascendente.
 
@@ -269,7 +284,7 @@ _sel:_ considerarse a sí mismo (pron.) Inglés antiguo _self_, _seolf_, _sylf_ 
 
 _\-on:_ elemento genético básico.
 
-### Retenedor
+### Holdant
 
 [LU 45:3.5](/es/The_Urantia_Book/45#p3_5) 4. _El custodio del sistema—_Holdant …
 «Él tiene el mundo entero en sus manos.»
@@ -280,7 +295,7 @@ _hold (v.):_ inglés medio _holden_, anteriormente _halden_, del inglés antiguo
 
 _\-ant:_ sufijo agente o instrumental, del francés antiguo y del francés -ant, del latín -antem, acusativo de -ans, sufijo de participio presente de muchos verbos latinos.
 
-### Jerusalén
+### Jerusem
 
 [LU 15:7.5](/es/The_Urantia_Book/15#p7_5) _Jerusalén_, la sede de vuestro sistema local de Satania, tiene sus siete mundos de cultura de transición, cada uno de los cuales está rodeado por siete satélites, entre los que se encuentran los siete mundos de estancia de detención morontial, la primera residencia postmortal del hombre. Tal como se ha utilizado el término cielo en Urantia, a veces ha significado estos siete mundos de estancia, denominándose al primer mundo de estancia el primer cielo, y así sucesivamente hasta el séptimo.
 
@@ -336,13 +351,15 @@ _tone (n.):_ mediados del siglo XIV, «sonido o nota musical», del francés ant
 
 _on (prep., adv.):_ «en una posición por encima y en contacto con; en una posición tal que sea sostenida por»; también indicando el objetivo al que se dirige o se ha dirigido alguna acción; «sobre, concerniente, con respecto a; en una posición para cubrir»; como adverbio, «en o dentro de una posición en contacto con y sostenida por la parte superior o superior de algo; en o dentro de un lugar; en un lugar para uso o acción; dentro de un movimiento o acción; en funcionamiento», inglés antiguo _on_, variante átona de _an_ «en, sobre, dentro», del protogermánico _ana_ «sobre» (fuente también del holandés _aan_, alemán _an_, gótico _ana_ «sobre, sobre»), de la raíz PIE _an-_ «sobre» (fuente también del avéstico _ana_ «sobre», griego _ana_ «sobre, sobre», latín _an-_, antiguo eslavo eclesiástico _na_, lituano _nuo_ «abajo de»).
 
-**Malavatia**: Malavatia Melchizadek aparece solo una vez en _El libro de Urantia_, como el «patrocinador» del Documento 43: Las Constelaciones.
+### Malavatia
+
+Malavatia Melchizadek aparece solo una vez en _El libro de Urantia_, como el «patrocinador» del Documento 43: Las Constelaciones.
 [LU 43:9.6](/es/The_Urantia_Book/43#p9_6) \[Patrocinado por Malavatia Melchizedek.\]
 El que (M) actúa como mensajero en el linaje revelador judeo-cristiano de Urantia (Mala) y que, actuando como adivino, es un individuo (ia) particularmente poético (vat).
 
-Mala = Malachi: nombre propio masculino, nombre del AT del \*\*último en orden\*\* de los Doce Profetas, del hebreo Mal’akhi, lit. «mi mensajero», de mal’akh «mensajero», de la base semítica l-‘-k (cf. árabe la’aka «él envió»).
+_Mala_ = Malachi: nombre propio masculino, nombre del AT del \*\*último en orden\*\* de los Doce Profetas, del hebreo Mal’akhi, lit. «mi mensajero», de mal’akh «mensajero», de la base semítica l-‘-k (cf. árabe la’aka «él envió»).
 
-vat = Vates: década de 1620, «poeta o bardo», específicamente «poeta celta divinamente inspirado» (1728), de L. vates «adivino, profeta, vidente», cognado con O.Ir. faith «poeta», galés gwawd «poema», O.E. wod «loco, frenético» (ver wood (adj.)). De ahí vaticination «predicción oracular» (c.1600).
+_vat_ = Vates: década de 1620, «poeta o bardo», específicamente «poeta celta divinamente inspirado» (1728), de L. vates «adivino, profeta, vidente», cognado con O.Ir. faith «poeta», galés gwawd «poema», O.E. wod «loco, frenético» (ver wood (adj.)). De ahí vaticination «predicción oracular» (c.1600).
 sooth = adj. que significa verdadero o real y como sustantivo que significa verdad o realidad.
 
 La letra «T» simboliza la cruz.
@@ -350,7 +367,7 @@ La letra «T» simboliza la cruz.
 
 _\-ia:_ Elemento formador de palabras en nombres de países, enfermedades y flores, del latín y del griego. _\-ia_, terminación de sustantivo, en griego especialmente utilizado para formar sustantivos abstractos (normalmente de género femenino).
 
-### mansión
+### mansonia
 
 [LU 47:4.6](/es/The_Urantia_Book/47#p4_6) … Pausa para pensar: La Mansonia número uno es una esfera muy material, que presenta los inicios del régimen morontial. Todavía eres casi un humano y no estás muy alejado de los puntos de vista limitados de la vida mortal…
 Donde (m) las almas valientes (hombre) renacen (hijo) en el mundo espiritual (ia).
@@ -377,7 +394,7 @@ La letra «T» simboliza la cruz.
 
 _\-ia:_ Elemento formador de palabras en nombres de países, enfermedades y flores, del latín y del griego. _\-ia_, terminación de sustantivo, en griego especialmente utilizado para formar sustantivos abstractos (normalmente de género femenino).
 
-### Mantucia
+### Mantutia
 
 [LU 56:10.23](/es/The_Urantia_Book/56#p10_23) [LU 119:8.9](/es/The_Urantia_Book/119#p8_9) Los artículos de la Parte II y la Parte III fueron proporcionados bajo la dirección de Mantutia Melchizedek.
 Un director de distinción de quinta época designado y presidente para el Mundo de la Cruz.
@@ -418,7 +435,7 @@ El lugar de la madre (ma) de (\-tia) hombre (mon).
 
 En general, (m) sustancia material (mor) es como (en) esta cosa (tia).
 
-### Nebadón
+### Nebadon
 
 El nombre de nuestro Universo Local.
 Estas nubes de estrellas delimitadas (Neba) están sujetas a la regla paternal (don).
@@ -500,7 +517,7 @@ _rogación (n.):_ finales del siglo XIV, «súplica solemne» (especialmente en 
 
 _\-ia:_ Elemento formador de palabras en nombres de países, enfermedades y flores, del latín y del griego. _\-ia_, terminación de sustantivo, en griego especialmente utilizado para formar sustantivos abstractos (normalmente de género femenino).
 
-### Portalón
+### Portalon
 
 [LU 32:2.12](/es/The_Urantia_Book/32#p2_12) Uno de los siete Universos Locales más cercanos.
 El lugar que (P) proporciona una puerta de entrada (Portal) a la vida (en).
@@ -521,7 +538,7 @@ _ultra-_ elemento formador de palabras que significa «más allá» (_ultraviole
 
 _\-ia:_ Elemento formador de palabras en nombres de países, enfermedades y flores, del latín y del griego. _\-ia_, terminación de sustantivo, en griego especialmente utilizado para formar sustantivos abstractos (normalmente de género femenino).
 
-### Rata
+### Ratta
 
 Ella se apareó con Adamson, el primogénito de Adán y Eva, lo que llevó a la creación de intermedios secundarios.
 El ejemplo vivo (R) de una razón para mezclar proporciones genéticas (Rata) que antes estaban restringidas religiosamente (ta).
@@ -536,7 +553,7 @@ _tabú:_ también tabú, 1777 (en «Un viaje al océano Pacífico» de Cook), «
 
 _ta_: Palabra del argot para decir gracias. La palabra es el resultado de la fuerte influencia danesa en el idioma inglés. El inglés tiene raíces danesas y de Jutlandia. La palabra danesa para decir gracias es tak. En Escocia y la alta Inglaterra era común omitir la k al final debido a la forma en que se pronunciaban las palabras durante la época del inglés antiguo y el inglés medio. De ahí que la palabra del argot «Ta», que en realidad debería pronunciarse «TA-k», pero con el tiempo se convirtió en «Ta», sea en realidad Tak, que significa «Gracias».
 
-### Sadib-san
+### Sadib
 
 El segundo asistente Soberano.
 El Número Uno del Capitán (Sadib) tiene un Número Uno (ib).
@@ -545,7 +562,7 @@ _sahib (n.):_ discurso respetuoso dirigido a los europeos en la India, década d
 
 _ibid.:_ «en el mismo lugar.»
 
-### Salsa
+### Salsatia
 
 [LU 37:8.4](/es/The_Urantia_Book/37#p8_4) El _Director del Censo_ de Nebadon, Salsatia, mantiene su sede en el sector Gabriel de Salvington. Está automáticamente al tanto del nacimiento y la muerte de la voluntad y actualmente registra el número exacto de criaturas de voluntad que funcionan en el universo local. Trabaja en estrecha asociación con los registradores de personalidad domiciliados en los mundos de registro de los arcángeles.
 El (S) consciente de la salvación (Sal) saciedad (satia).
@@ -615,7 +632,7 @@ _\-ia:_ Elemento formador de palabras en nombres de países, enfermedades y flor
 
 El que (S) hace de sabio (solon) en la vida (ia).
 
-### Sortorio
+### Sortoria
 
 [LU 41:2.1](/es/The_Urantia_Book/41#p2_1) Una constelación vecina.
 Hay un destino (Sort) para lo que se originó (en) aquí (ia).
@@ -633,7 +650,7 @@ _orior:_ Latín: (infinitivo presente _orīrī_, perfecto activo _ortus sum_); t
 
 _\-ia:_ Elemento formador de palabras en nombres de países, enfermedades y flores, del latín y del griego. _\-ia_, terminación de sustantivo, en griego especialmente utilizado para formar sustantivos abstractos (normalmente de género femenino).
 
-### Espolvorear
+### Splandon
 
 El lugar enfocado en obtener las cosas completamente explicadas (Splan) está sujeto a la regla paternal (don).
 
@@ -688,7 +705,7 @@ La letra «T» simboliza la cruz.
 
 _\-ia:_ Elemento formador de palabras en nombres de países, enfermedades y flores, del latín y del griego. _\-ia_, terminación de sustantivo, en griego especialmente utilizado para formar sustantivos abstractos (normalmente de género femenino).
 
-### Más allá
+### Uversa
 
 La capital del superuniverso de _Orvonton_. Etimología de Chris Halvorson:
 
@@ -696,7 +713,7 @@ La capital del superuniverso de _Orvonton_. Etimología de Chris Halvorson:
 “Verso: masculino: secuencia métrica de palabras (Él escribió un verso.); también, versus (demandante versus demandado); femenino: carácter poético (Ella escribió en verso.); también, viceversa (vice = en el lugar de otro + versa = foco, centro)
 «Versa es el aspecto no direccional de “un giro», es decir, el eje; mientras que versus es el aspecto direccional, la rotación.”
 
-### Veluntía
+### Veluntia
 
 [LU 41:4.6](/es/The_Urantia_Book/41#p4_6) El enorme sol de Veluntia, uno de los más grandes de Orvonton…
 
@@ -743,7 +760,7 @@ Más allá del paralelismo asociado con _Melquisedec_, considere también:
 _dek–_ Raíz protoindoeuropea que significa «tomar, aceptar».
 La fuente hipotética de su existencia/evidencia de su existencia la proporcionan: sánscrito _daśasyati_ «muestra honor, es amable», _dacati_ «hace ofrendas, otorga»; griego _dokein_ «aparecer, parecer, pensar», _dekhesthai_ «aceptar»; latín _decere_ «ser apropiado o adecuado», _docere_ «enseñar», _decus_ «gracia, adorno».
 
-### Lobezno
+### Wolvering
 
 [LU 32:2.12](/es/The_Urantia_Book/32#p2_12) Uno de los siete Universos Locales más cercanos.
 El lugar donde (W) la armonía entre los aspectos espirituales y materiales de la vida (Wol) experimenta la renovación (ver) como una forma de vida (ing).
@@ -761,47 +778,47 @@ _\-ing_: \[Inglés antiguo _\-ung, -ing_\] (1) acción, proceso (cazar, vadear);
 
 [LU 0:0.5](/es/The_Urantia_Book/0#p0_5) Vuestro mundo, Urantia, es uno de los muchos planetas habitados similares que componen el universo local de Nebadon. Este universo, junto con creaciones similares, constituye el superuniverso de Orvonton, de cuya capital, Uversa, proviene nuestra comisión. Orvonton es uno de los siete superuniversos evolutivos del tiempo y el espacio que giran alrededor de la creación sin principio ni fin de la perfección divina: el universo central de Havona. En el corazón de este universo eterno y central se encuentra la estacionaria Isla del Paraíso, el centro geográfico de la infinitud y la morada del Dios eterno.
 
-- Astronomía del paraíso
+- Astronomía del Paraíso
 	- [**Havona**](#havona)
-- Astronomía de superuniversos
-	- [**Enseña**](#ensa)
+- Astronomía de los superuniversos
+	- [**Ensa**](#ensa)
 	- [**Orvonton**](#orvonton)
-	- [**Español:Español:**](#español:español:)
+	- [**Splandon**](#splandon)
 	- [**Uversa**](#uversa)
 - Astronomía del Universo Local
 	- [**Nebadon**](#nebadon)
 - Siete Universos locales más cercanos [^1]
 	- [**Avalon**](#avalon)
 	- [**Henselon**](#henselon)
-	- [**Sanselón**](#sanselón)
-	- [**Portalón**](#portalón)
-	- [**Lobezno**](#lobezno)
-	- [**Fanático**](#fanático)
-	- [**Almorzando**](#almorzando)
-- Astronomía de constelaciones
+	- [**Sanselon**](#sanselon)
+	- [**Portalon**](#portalon)
+	- [**Wolvering**](#wolvering)
+	- [**Fanoving**](#fanoving)
+	- [**Alvoring**](#alvoring)
+- Astronomía de la constelación
 	- [**Edentia**](#edentia)
 	- [**Norlatiadek**](#norlatiadek)
-- Norlatiadek vecinos
-	- [**Arena matia**](#arena matia)
+- Vecindario de Norlatiadek
+	- [**Sandmatia**](#sandmatia)
 	- [**Assuntia**](#assuntia)
 	- [**Porogia**](#porogia)
-	- [**Sortorio**](#sortorio)
+	- [**Sortoria**](#sortoria)
 	- [**Rantulia**](#rantulia)
 	- [**Glantonia**](#glantonia)
 - Astronomía del sistema
-	- [**Jerusalén**](#jerusem)
+	- [**Jerusem**](#jerusem)
 	- [**Satania**](#satania)
 	- [**Panoptia**](#panoptia)
 - Astronomía del Sistema Solar
-	- [**Monmatia**](#)
-	- [**Urantia**](#)
+	- [**Monmatia**](#monmatia)
+	- [**Urantia**](#urantia)
 
 ### Tipos y órdenes celestiales
 
 - [**agondonteros**](#agondonteros)
-- [**Avonal**](#Avonal)
-- [**Lanonandek**](#Lanonandek)
-- [**Vorondadek**](#Vorondadek)
+- [**Avonal**](#avonal)
+- [**Lanonandek**](#lanonandek)
+- [**Vorondadek**](#vorondadek)
 
 ### Tipos genéticos humanos, organizados secuencialmente
 
@@ -822,7 +839,7 @@ _\-ing_: \[Inglés antiguo _\-ung, -ing_\] (1) acción, proceso (cazar, vadear);
 - Personalidades del Universo Local
 	- [**Caligastia**](#caligastia)
 	- [**Daligastia**](#daligastia)
-	- [**Machiventa**](#machiventa) [^2]
+	- [**Maquiventa**](#maquiventa) [^2]
 	- [**Malavatia**](#malavatia**)
 	- [**Mansurotia**](#mansurotia)
 	- [**Mantutia**](#mantutia)
@@ -833,15 +850,15 @@ _\-ing_: \[Inglés antiguo _\-ung, -ing_\] (1) acción, proceso (cazar, vadear);
 	- [**Lanaforge**](#lanaforge)
 	- [**Mansurotia**](#mansurotia)
 	- [**Sadib**](#sadib)
-	- [**Retención**](#retención)
+	- [**Holdant**](#holdant)
 	- [**Vilton**](#vilton)
-	- [**Por suerte**](#por suerte)
+	- [**Fortant**](#fortant)
 	- [**Hanavard**](#hanavard)
 - Personalidades de Urantia
-	- [**Amadon**](#amadon)
-	- [**Andón**](#andon)
-	- [**Fuente**](#fuente)
-	- [**Rata**](#rata)
+	- [**Amadón**](#amadón)
+	- [**Andón**](#andón)
+	- [**Fonta**](#fonta)
+	- [**Ratta**](#ratta)
 	- [**Serapatatia**](#serapatatia)
 
 ## Notas
@@ -860,3 +877,18 @@ _\-ing_: \[Inglés antiguo _\-ung, -ing_\] (1) acción, proceso (cazar, vadear);
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

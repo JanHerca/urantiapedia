@@ -9,8 +9,23 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet tema--gris claro aclarar-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-Los autores de El libro de Urantia afirman que «hay cuarenta y ocho unidades de control de patrones –determinantes de rasgos– en las células sexuales de la reproducción humana». En 1955, cuando se publicó por primera vez el libro, la comunidad científica general creía que los seres humanos tienen cuarenta y ocho cromosomas; en 1956 los investigadores determinaron que, de hecho, hay cuarenta y seis cromosomas. Las células sexuales son distintas de otras células (somáticas). Esta distinción, tomada a la luz de la referencia al número total de «unidades de control de patrones», apoya una interpretación de El libro de Urantia que es coherente con la aceptación ahora universal de cuarenta y seis como el número correcto de cromosomas humanos.
+Los autores de _El Libro de Urantia_ afirman que «hay cuarenta y ocho unidades de control de patrones –determinantes de rasgos– en las células sexuales de la reproducción humana». En 1955, cuando se publicó por primera vez el libro, la comunidad científica general creía que los seres humanos tienen cuarenta y ocho cromosomas; en 1956 los investigadores determinaron que, de hecho, hay cuarenta y seis cromosomas. Las células sexuales son distintas de otras células (somáticas). Esta distinción, tomada a la luz de la referencia al número total de «unidades de control de patrones», apoya una interpretación de _El Libro de Urantia_ que es coherente con la aceptación ahora universal de cuarenta y seis como el número correcto de cromosomas humanos.
 
 _El libro de Urantia_ no sólo evitó apoyar la ciencia que era incorrecta en el momento de su publicación, sino que también proporcionó información específica que resultó ser consistente con lo que estaba a punto de ser descubierto poco después de su publicación.
 
@@ -18,7 +33,7 @@ _El libro de Urantia_ no sólo evitó apoyar la ciencia que era incorrecta en el
 
 **Recuento de cromosomas (19:29)**
 
-Esta grabación aborda la sección de El libro de Urantia que constituye la base del Informe del recuento de cromosomas. Abarca las cuestiones relacionadas con la interpretación del texto y cómo esto se aplica a la genética y a nuestra apreciación en evolución por este campo de la ciencia.
+Esta grabación aborda la sección de _El Libro de Urantia_ que constituye la base del Informe del recuento de cromosomas. Abarca las cuestiones relacionadas con la interpretación del texto y cómo esto se aplica a la genética y a nuestra apreciación en evolución por este campo de la ciencia.
 
 ## Informe de recuento de cromosomas
 
@@ -28,7 +43,7 @@ Esta grabación aborda la sección de El libro de Urantia que constituye la base
 
 Preparado por Kermit O. Anderson, M.Ed., MA, Chris Halvorson, Ph.D., y Halbert Katzen, J.D. [Actualizado el 30/10/08]
 
-Los autores de El libro de Urantia afirman que «en Urantia hay cuarenta y ocho unidades de control de patrones —determinantes de rasgos— en las células sexuales de la reproducción humana». [^1] Cuando se publicó El libro de Urantia en 1955, se creía generalmente que los seres humanos tienen cuarenta y ocho cromosomas en cada célula del cuerpo. Con técnicas de investigación más avanzadas, los científicos determinaron en 1956 que las células humanas tienen 46 cromosomas. Esto, a su vez, llevó a algunas personas a concluir que los autores de El libro de Urantia se habían alineado incorrectamente con las creencias erróneas sostenidas en 1955. Sin embargo, un análisis más cuidadoso de esta declaración, y otras declaraciones en el libro, revela que los autores evitaron hábilmente apoyar la creencia incorrecta sobre el número de cromosomas y proporcionaron información que era consistente con lo que pronto se determinaría como el número correcto de cromosomas.
+Los autores de _El Libro de Urantia_ afirman que «en Urantia hay cuarenta y ocho unidades de control de patrones —determinantes de rasgos— en las células sexuales de la reproducción humana». [^1] Cuando se publicó _El Libro de Urantia_ en 1955, se creía generalmente que los seres humanos tienen cuarenta y ocho cromosomas en cada célula del cuerpo. Con técnicas de investigación más avanzadas, los científicos determinaron en 1956 que las células humanas tienen 46 cromosomas. Esto, a su vez, llevó a algunas personas a concluir que los autores de _El Libro de Urantia_ se habían alineado incorrectamente con las creencias erróneas sostenidas en 1955. Sin embargo, un análisis más cuidadoso de esta declaración, y otras declaraciones en el libro, revela que los autores evitaron hábilmente apoyar la creencia incorrecta sobre el número de cromosomas y proporcionaron información que era consistente con lo que pronto se determinaría como el número correcto de cromosomas.
 
 En la sección del libro titulada «Las limitaciones de la revelación» los autores afirman: «No tenemos libertad para anticipar los descubrimientos científicos de mil años». [^2] Pero luego, más adelante en esta misma sección, agregan:
 
@@ -41,7 +56,7 @@ La referencia a la cosmología —el estudio del universo físico considerado co
 
 Antes de entrar en la sustancia de la declaración sobre los «determinantes de rasgos», es digno de notar que la palabra «cromosomas» no se utiliza en este contexto, pero sí se utiliza en otras partes del libro. [^5] Si bien la premisa subyacente en la preparación de los informes de UBtheNEWS es que _El libro de Urantia_ no tiene derecho al «beneficio de la duda», para ser justos, tampoco se debe presumir que los autores quisieron referirse a los cromosomas, claramente estaban suficientemente familiarizados con el término, porque se utilizó en otro contexto.
 
-Es necesario hacer una revisión de la historia de la investigación sobre los cromosomas y el ADN para poder apreciar la afirmación de El libro de Urantia sobre los determinantes de los rasgos. De Wikipedia:
+Es necesario hacer una revisión de la historia de la investigación sobre los cromosomas y el ADN para poder apreciar la afirmación de _El Libro de Urantia_ sobre los determinantes de los rasgos. De Wikipedia:
 
 > En 1922, el pintor no estaba seguro de si el número diploide del hombre era 46 o 48, y al principio se inclinó por el 46. Más tarde revisó su opinión de 46 a 48, e insistió correctamente en que el hombre tenía un sistema XX/XY. Considerando sus técnicas, estos resultados fueron bastante notables. [^6]
 
@@ -68,7 +83,7 @@ Ahora, volvamos a los cromosomas.
 
 Una célula germinal (sexual) tiene veintitrés cromosomas: los veintidós autosomas más un cromosoma X o Y. En conjunto, «las células sexuales» contienen los dos subconjuntos de implementación diferentes del conjunto de diseño completo de veinticuatro cromosomas. Cada cromosoma contiene una molécula de ADN de doble cadena; por lo tanto, en conjunto, hay cuarenta y ocho unidades distintas de genes en las células sexuales humanas. Por supuesto, ninguna célula sexual contiene los cuarenta y ocho; pero hay cuarenta y ocho unidades de determinantes de rasgos «en las células sexuales de la reproducción humana».
 
-Por lo tanto, cuando se publicó en 1955, los autores de El libro de Urantia hicieron una declaración correcta, mientras que las creencias de la comunidad científica sobre el tema todavía eran erróneas. También es digno de mención que hay evidencia sustancial que indica que las planchas para imprimir El libro de Urantia se completaron a fines de la década de 1940, antes del descubrimiento a principios de la década de 1950 de que el ADN era la molécula clave que gobernaba la herencia. [^12]
+Por lo tanto, cuando se publicó en 1955, los autores de _El Libro de Urantia_ hicieron una declaración correcta, mientras que las creencias de la comunidad científica sobre el tema todavía eran erróneas. También es digno de mención que hay evidencia sustancial que indica que las planchas para imprimir _El Libro de Urantia_ se completaron a fines de la década de 1940, antes del descubrimiento a principios de la década de 1950 de que el ADN era la molécula clave que gobernaba la herencia. [^12]
 
 ## Enlaces externos
 
@@ -80,6 +95,21 @@ Por lo tanto, cuando se publicó en 1955, los autores de El libro de Urantia hic
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 <br>
 

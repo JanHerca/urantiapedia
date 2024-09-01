@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet tema--gris claro aclarar-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Por Halbert Katzen J.D._
 
@@ -34,7 +49,7 @@ No he visto a nadie más ampliar la búsqueda a Norte, Sur, Este y Oeste de Sale
 
 _El libro de Urantia_ resume la notable relación de esta manera:
 
-> En pocos años, Melquisedek había reunido a su alrededor a un grupo de alumnos, discípulos y creyentes que formaron el núcleo de la comunidad posterior de Salem. Pronto fue conocido en toda Palestina como el sacerdote de El Elyón, el Altísimo, y como el sabio de Salem. En algunas tribus circundantes, a menudo se referían a él como el jeque, o el rey, de Salem{2}. Salem era el lugar que, después de la desaparición de Melquisedek, se convirtió en la ciudad de Jebús, y más tarde fue llamada Jerusalén. ([LU 93:2.4](/es/The_Urantia_Book/93#p2_4))
+> En pocos años, Melquisedek había reunido a su alrededor a un grupo de alumnos, discípulos y creyentes que formaron el núcleo de la comunidad posterior de Salem. Pronto fue conocido en toda Palestina como el sacerdote de El Elyón, el Altísimo, y como el sabio de Salem. En algunas tribus circundantes, a menudo se referían a él como el jeque, o el rey, de Salem. Salem era el lugar que, después de la desaparición de Melquisedek, se convirtió en la ciudad de Jebús, y más tarde fue llamada Jerusalén. ([LU 93:2.4](/es/The_Urantia_Book/93#p2_4))
 
 «Sabio» se usa seis veces: cinco veces como parte de la frase «sabio de Salem» y una vez en [referencia a Amenemope](https://ubannotated.com/ubthenews/urantiabook/papers/p095/#U95_4_1).
 
@@ -87,7 +102,7 @@ Nínive se menciona una vez en El libro de Urantia:
 
 Otro párrafo menciona a Jonás:
 
-> Un día, después de la cena, Jesús y el joven filisteo paseaban por la orilla del mar y Gadía, sin saber que este «escriba de Damasco» estaba tan bien versado en las tradiciones hebreas, mostró a Jesús el lugar donde Jonás supuestamente había embarcado{1} para su funesto viaje a Tarsis. Cuando concluyó sus comentarios, hizo a Jesús la pregunta siguiente: «¿Tú crees que el gran pez se tragó realmente a Jonás?»{2}. Jesús percibió que la vida del joven había estado enormemente influida por esta tradición, y que sus reflexiones al respecto le habían inculcado la locura de intentar huir del deber. Por lo tanto, Jesús no dijo nada que pudiera destruir repentinamente las motivaciones fundamentales que guiaban a Gadía en su vida práctica. En respuesta a la pregunta, Jesús dijo: «Amigo mío, todos somos como Jonás, con una vida que vivir de acuerdo con la voluntad de Dios. Cada vez que tratamos de esquivar el deber de la vida diaria para ir en busca de tentaciones lejanas, nos ponemos inmediatamente bajo el dominio de influencias que no están dirigidas por los poderes de la verdad ni por las fuerzas de la rectitud. Huir del deber es sacrificar la verdad. Evadirse del servicio de la luz y la vida sólo puede llevar a esos conflictos angustiosos con las temibles ballenas del egoísmo, que al final conducen a las tinieblas y a la muerte, a menos que esos Jonases que han abandonado a Dios deseen, incluso estando en lo más profundo de su desesperación, volver su corazón hacia la búsqueda de Dios y su bondad. Cuando estas almas desalentadas buscan sinceramente a Dios —con hambre de verdad y sed de rectitud— no hay nada que pueda retenerlas por más tiempo en cautiverio. Por muy profundos que sean los abismos donde puedan haber caído, cuando buscan la luz de todo corazón, el espíritu del Señor Dios de los cielos las libera de sus cadenas; las tribulaciones de la vida las arrojan a la tierra firme de las nuevas oportunidades para un servicio renovado y una vida más sabia». ([LU 130:1.2](/es/The_Urantia_Book/130#p1_2))
+> Un día, después de la cena, Jesús y el joven filisteo paseaban por la orilla del mar y Gadía, sin saber que este «escriba de Damasco» estaba tan bien versado en las tradiciones hebreas, mostró a Jesús el lugar donde Jonás supuestamente había embarcado para su funesto viaje a Tarsis. Cuando concluyó sus comentarios, hizo a Jesús la pregunta siguiente: «¿Tú crees que el gran pez se tragó realmente a Jonás?». Jesús percibió que la vida del joven había estado enormemente influida por esta tradición, y que sus reflexiones al respecto le habían inculcado la locura de intentar huir del deber. Por lo tanto, Jesús no dijo nada que pudiera destruir repentinamente las motivaciones fundamentales que guiaban a Gadía en su vida práctica. En respuesta a la pregunta, Jesús dijo: «Amigo mío, todos somos como Jonás, con una vida que vivir de acuerdo con la voluntad de Dios. Cada vez que tratamos de esquivar el deber de la vida diaria para ir en busca de tentaciones lejanas, nos ponemos inmediatamente bajo el dominio de influencias que no están dirigidas por los poderes de la verdad ni por las fuerzas de la rectitud. Huir del deber es sacrificar la verdad. Evadirse del servicio de la luz y la vida sólo puede llevar a esos conflictos angustiosos con las temibles ballenas del egoísmo, que al final conducen a las tinieblas y a la muerte, a menos que esos Jonases que han abandonado a Dios deseen, incluso estando en lo más profundo de su desesperación, volver su corazón hacia la búsqueda de Dios y su bondad. Cuando estas almas desalentadas buscan sinceramente a Dios —con hambre de verdad y sed de rectitud— no hay nada que pueda retenerlas por más tiempo en cautiverio. Por muy profundos que sean los abismos donde puedan haber caído, cuando buscan la luz de todo corazón, el espíritu del Señor Dios de los cielos las libera de sus cadenas; las tribulaciones de la vida las arrojan a la tierra firme de las nuevas oportunidades para un servicio renovado y una vida más sabia». ([LU 130:1.2](/es/The_Urantia_Book/130#p1_2))
 
 Sin embargo, la Biblia afirma que Jesús hizo otras referencias notables a Jonás y Nínive. Un poco de información sobre cómo se relacionan Jonás y Nínive con un eclipse es importante para apreciar las referencias del Nuevo Testamento.
 
@@ -187,17 +202,17 @@ El día siguiente al eclipse del 8 de abril también es digno de mención por su
 
 ¿Es hora de que el equipo de reemplazo? Lucifer y Satanás no podrían haber ejercido tanta influencia si no hubieran estado investidos de poderosas posiciones de autoridad celestial. ¿Melquisedec, el rey de la justicia, y un equipo de reemplazo regresarán con el eclipse venidero para completar la restauración del orden en nuestro mundo confuso que fue iniciado por Jesús?
 
-> Juan escribió acerca de la terminación de la misión final de los Hijos Instructores (al menos ésta sería la cronología en un mundo normal): «Y vi un nuevo cielo y una nueva Tierra, y la nueva Jerusalén que bajaba de Dios saliendo del cielo, preparada como una princesa adornada para su príncipe»{13}. ((/es/Bible/Revelation/21#v1))
+> Juan escribió acerca de la terminación de la misión final de los Hijos Instructores (al menos ésta sería la cronología en un mundo normal): «Y vi un nuevo cielo y una nueva Tierra, y la nueva Jerusalén que bajaba de Dios saliendo del cielo, preparada como una princesa adornada para su príncipe». ((/es/Bible/Revelation/21#v1))
 > 
-> Ésta es la misma Tierra renovada, el avanzado estado planetario, que el antiguo vidente imaginó cuando escribió: «‘Porque igual que los nuevos cielos y la nueva Tierra que yo crearé perdurarán ante mí, así sobreviviréis vosotros y vuestros hijos; y sucederá que, desde una Luna nueva hasta la otra y desde un sábado hasta el otro, todo el género humano vendrá a postrarse en adoración ante mí’, dice el Señor»{14}. ((/es/Bible/Isaiah/66#v22))
+> Ésta es la misma Tierra renovada, el avanzado estado planetario, que el antiguo vidente imaginó cuando escribió: «‘Porque igual que los nuevos cielos y la nueva Tierra que yo crearé perdurarán ante mí, así sobreviviréis vosotros y vuestros hijos; y sucederá que, desde una Luna nueva hasta la otra y desde un sábado hasta el otro, todo el género humano vendrá a postrarse en adoración ante mí’, dice el Señor». ((/es/Bible/Isaiah/66#v22))
 > 
-> Los mortales de esta era son los que están descritos como «una generación elegida, un sacerdocio real, una nación santa, un pueblo elevado; y vosotros daréis a conocer las alabanzas de Aquél que os ha hecho salir de las tinieblas hacia esta maravillosa luz»{15}. ((/es/Bible/1_Peter/2#v9))
+> Los mortales de esta era son los que están descritos como «una generación elegida, un sacerdocio real, una nación santa, un pueblo elevado; y vosotros daréis a conocer las alabanzas de Aquél que os ha hecho salir de las tinieblas hacia esta maravillosa luz». ((/es/Bible/1_Peter/2#v9))
 > 
 > Cualquiera que sea la historia natural especial de un planeta individual, indiferentemente de que el reino haya sido totalmente leal, haya estado contaminado por el mal o maldito por el pecado —cualquiera que sean los antecedentes— tarde o temprano la gracia de Dios y el ministerio de los ángeles anunciarán el día de la venida de los Hijos Instructores Trinitarios; y su partida, después de su misión final, inaugurará esta magnífica era de luz y de vida.
 > 
-> Todos los mundos de Satania pueden unirse a la esperanza de aquél que escribió: «Sin embargo, de acuerdo con Su promesa, nosotros esperamos un nuevo cielo y una nueva Tierra, donde reside la rectitud. Por lo cual, bienamados, en vista de que esperáis estas cosas, sed diligentes para que Él pueda encontraros en paz, sin mancha e irreprochables»{16}. ([LU 52:7.11-15](/es/The_Urantia_Book/52#p7_11))
+> Todos los mundos de Satania pueden unirse a la esperanza de aquél que escribió: «Sin embargo, de acuerdo con Su promesa, nosotros esperamos un nuevo cielo y una nueva Tierra, donde reside la rectitud. Por lo cual, bienamados, en vista de que esperáis estas cosas, sed diligentes para que Él pueda encontraros en paz, sin mancha e irreprochables». ([LU 52:7.11-15](/es/The_Urantia_Book/52#p7_11))
 
-> ««Pero la época de la reaparición del Hijo del Hombre sólo se conoce en los consejos del Paraíso; ni siquiera los ángeles del cielo saben cuándo sucederá esto{17}. Sin embargo, deberíais comprender que cuando este evangelio del reino haya sido proclamado en el mundo entero para la salvación de todos los pueblos, y cuando la era haya alcanzado su plenitud, el Padre os enviará otra donación dispensacional, o si no, el Hijo del Hombre regresará para juzgar la era».» ([LU 176:2.5](/es/The_Urantia_Book/176#p2_5))
+> ««Pero la época de la reaparición del Hijo del Hombre sólo se conoce en los consejos del Paraíso; ni siquiera los ángeles del cielo saben cuándo sucederá esto. Sin embargo, deberíais comprender que cuando este evangelio del reino haya sido proclamado en el mundo entero para la salvación de todos los pueblos, y cuando la era haya alcanzado su plenitud, el Padre os enviará otra donación dispensacional, o si no, el Hijo del Hombre regresará para juzgar la era».» ([LU 176:2.5](/es/The_Urantia_Book/176#p2_5))
 
 ## Enlaces externos
 
@@ -207,3 +222,18 @@ El día siguiente al eclipse del 8 de abril también es digno de mención por su
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet tema--gris claro aclarar-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Por Halbert Katzen J.D._
 
@@ -22,7 +37,7 @@ La inspiración para esta ayuda de estudio vino de Robert Sarmast. Produjo un do
 
 Esta página de investigación fue creada para apoyar la investigación de una serie de misterios entrelazados.
 
-Curiosamente, los autores de El libro de Urantia no identificaron qué faraón reinó durante el Éxodo. Tal vez, esta información se ocultó porque podemos averiguarlo por nosotros mismos.
+Curiosamente, los autores de _El Libro de Urantia_ no identificaron qué faraón reinó durante el Éxodo. Tal vez, esta información se ocultó porque podemos averiguarlo por nosotros mismos.
 
 Ni el relato del Antiguo Testamento ni los escritos egipcios proporcionan esta información (directamente). ¿Podría ser que ambas culturas no quisieran hablar de los detalles por diferentes razones?
 
@@ -33,13 +48,13 @@ Tal vez los escritores judíos se inclinaban más a escribir de una manera que m
 Al igual que con Melquisedec, uno tiene que preguntarse si los escritos anteriores tenían relatos más completos y precisos, pero luego estos fueron alterados sin eliminar por completo todas las referencias a los hechos de lo que ocurrió. (Ver [LU 93:9.9](/es/The_Urantia_Book/93#p9_9))
 
 Dicho esto, aquí está la investigación que he reunido hasta ahora. Por favor, háganme saber cualquier información adicional que crean que debería incluirse en este tema de investigación.
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## De _El libro de Urantia_:
 
 > Moisés se esforzó por negociar diplomáticamente la libertad de sus compañeros semitas. Él y su hermano hicieron un pacto con el rey de Egipto por el cual se les concedía la autorización de abandonar pacíficamente el valle del Nilo para dirigirse al desierto de Arabia. Iban a recibir un modesto pago en dinero y mercancías como muestra de su largo servicio en Egipto. Los hebreos por su parte hicieron el acuerdo de mantener relaciones amistosas con los faraones y de no formar parte de ninguna alianza contra Egipto. Pero más tarde, el rey estimó conveniente rechazar este tratado, ofreciendo como razón la excusa de que sus espías habían descubierto que los esclavos beduinos eran desleales. Alegó que buscaban la libertad con la intención de dirigirse al desierto para organizar a los nómadas en contra de Egipto.
 > 
-> Pero Moisés no se desanimó; esperó su momento oportuno y, en menos de un año, cuando las fuerzas militares egipcias estaban totalmente ocupadas resistiendo los violentos ataques simultáneos de una fuerte ofensiva libia por el sur y de una invasión naval griega por el norte, este intrépido organizador condujo a sus compatriotas fuera de Egipto en una fuga nocturna espectacular{15}. Esta huida hacia la libertad fue planeada cuidadosamente y ejecutada con habilidad. Y tuvieron éxito, a pesar de que fueron seguidos de cerca por el faraón y un pequeño grupo de egipcios, los cuales cayeron todos ante las defensas de los fugitivos, dejándoles mucho botín, el cual aumentó debido al saqueo de la multitud de esclavos que avanzaban huyendo hacia su hogar ancestral en el desierto. ([LU 96:3.4-5](/es/The_Urantia_Book/96#p3_4))
+> Pero Moisés no se desanimó; esperó su momento oportuno y, en menos de un año, cuando las fuerzas militares egipcias estaban totalmente ocupadas resistiendo los violentos ataques simultáneos de una fuerte ofensiva libia por el sur y de una invasión naval griega por el norte, este intrépido organizador condujo a sus compatriotas fuera de Egipto en una fuga nocturna espectacular. Esta huida hacia la libertad fue planeada cuidadosamente y ejecutada con habilidad. Y tuvieron éxito, a pesar de que fueron seguidos de cerca por el faraón y un pequeño grupo de egipcios, los cuales cayeron todos ante las defensas de los fugitivos, dejándoles mucho botín, el cual aumentó debido al saqueo de la multitud de esclavos que avanzaban huyendo hacia su hogar ancestral en el desierto. ([LU 96:3.4-5](/es/The_Urantia_Book/96#p3_4))
 
 ## Éxodo:
 
@@ -65,8 +80,8 @@ Existe incertidumbre sobre las fechas exactas del reinado de [Ramsés III](https
 
 Con 41 metros de largo, \[el [Papiro Harris I](https://en.wikipedia.org/wiki/Papyrus_Harris_I)\] es “el papiro más largo conocido de Egipto, con unas 1.500 líneas de texto. . . . El texto hierático del papiro consiste en una lista de dotaciones del templo y un breve resumen de todo el reinado del rey Ramsés III de la dinastía XX de Egipto. . . . Luchó contra los Pueblos del Mar y afirma haberlos sometido y convertido en súbditos de Egipto.
 
-Un misterio que El libro de Urantia parece aclarar tiene que ver con la identidad de los Pueblos del Mar. La «invasión del ombligo griego» mencionada en 96:3.5, aparentemente, se refiere a los Pueblos del Mar. De Wikipedia:
-<br estilo=«claro:ambos;»/>
+Un misterio que _El Libro de Urantia_ parece aclarar tiene que ver con la identidad de los Pueblos del Mar. La «invasión del ombligo griego» mencionada en 96:3.5, aparentemente, se refiere a los Pueblos del Mar. De Wikipedia:
+<br style="clear:both;"/>
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Halbert_Katzen/Moses_Killed_Rameses_III/Bichrome_pottery-300x225.jpg">
@@ -77,7 +92,7 @@ Los [Pueblos del Mar](https://en.wikipedia.org/wiki/Sea_Peoples) siguen sin iden
 … en Filistea, los productores de cerámica micénica del siglo III deben ser identificados como los filisteos. La conclusión lógica, por lo tanto, es que los filisteos eran un grupo de griegos micénicos que emigraron al este… En varias décadas… un nuevo estilo bicrómico, conocido como el «filisteo», apareció en Filistea…
 
 Aunque durante mucho tiempo se creyó que el cuerpo de [Ramsés III](https://en.wikipedia.org/wiki/Ramesses_III) no mostraba heridas obvias, un examen reciente de la momia por parte de un equipo forense alemán, televisado en el documental Ramsés: el misterio del rey momia en el Science Channel en 2011, mostró vendajes excesivos alrededor del cuello. Una tomografía computarizada posterior que se realizó en Egipto por Ashraf Selim y Sahar Saleem, profesores de Radiología en la Universidad de El Cairo, reveló que debajo de los vendajes había una herida profunda de cuchillo en la garganta, lo suficientemente profunda como para alcanzar las vértebras. . . . Un estudio posterior de la tomografía computarizada del cuerpo de la momia de Ramsés III por Sahar Saleem reveló que el dedo gordo del pie izquierdo probablemente fue cortado por un objeto pesado y afilado como un hacha. No había signos de curación del hueso, por lo que esta lesión debe haber sucedido poco antes de la muerte. Los embalsamadores colocaron un objeto similar a una prótesis hecha de lino en lugar del dedo amputado. Los embalsamadores colocaron seis amuletos alrededor de ambos pies y tobillos para la curación mágica de la herida para la vida después de la muerte. Esta lesión adicional en el pie apoya el asesinato del faraón, probablemente a manos de múltiples asaltantes que usaron diferentes armas. Antes de este descubrimiento se había especulado que Ramsés III había sido asesinado por medios que no habrían dejado una marca en el cuerpo. Entre los conspiradores había practicantes de magia, que bien podrían haber usado veneno.
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## Enlaces externos
 
@@ -94,3 +109,18 @@ Aunque durante mucho tiempo se creyó que el cuerpo de [Ramsés III](https://en.
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

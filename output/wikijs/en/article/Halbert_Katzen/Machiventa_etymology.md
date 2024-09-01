@@ -73,7 +73,7 @@ Moving on to _Ma-chi,_ we have:
 > 
 > _chi (n.):_ 22nd letter of the Greek alphabet, representing a -kh- sound (see _ch_). The letter is shaped like an X, and so the Greek letter name was used figuratively to signify such a shape or arrangement (as in _khiasma_ “two things placed crosswise;” _khiastos_ “arranged diagonally; marked with an X;” _khiazein_ “to mark with an ‘X’, to write the letter ‘X'”). Some dialects used _chi_ to represent the -ks- sound properly belonging to _xi_; Latin picked this up and the sound value of _chi_ in Latin-derived alphabets is now that of English _X_.
 
-This syllabic division plays off the suckling infant images etymologically related to the latter part of the word and plays into the “X” marks the spot associations with the Bald Knob Cross of Peace and the two full solar eclipses on _Urantia Book_ sabbath days. See the Topical Study: [Prophecy and “signs of the times.”](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/)
+This syllabic division plays off the suckling infant images etymologically related to the latter part of the word and plays into the “X” marks the spot associations with the Bald Knob Cross of Peace and the two full solar eclipses on _Urantia Book_ sabbath days. See the Topical Study: [Prophecy and “signs of the times.”](/en/article/Halbert_Katzen/Prophecy_and_signs_of_the_times)
 
 > _Machi_, taken as a whole, leads to noteworthy associations with both Spanish and French connections_—machismo_ and _machine_, respectively:
 > 

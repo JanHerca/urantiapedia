@@ -81,11 +81,11 @@ De l'énigme de la Sierra Nevada :
 
 > Les montagnes de la High Sierra, l'épine dorsale de la Californie, s'élèvent hors de la brume pour dominer la plaine rouge et les vallées rocheuses en contrebas... Elles sont une énigme. Après plus d'un siècle de spéculation et d'étude, personne ne sait quel âge elles ont.
 > 
-Depuis des années, les enseignants utilisent l'histoire de la Sierra Nevada comme une leçon classique de tectonique des plaques. Les montagnes ont commencé à s'élever il y a environ 4 millions d'années, selon la leçon. C'est la sagesse dominante, léguée aux Californiens par les géologues du début du siècle. Plus récemment, les scientifiques qui étudient les empreintes sculptées dans le substrat rocheux par d'anciens fleuves ne sont pas d'accord. La Sierra a commencé à s'élever il y a 20 à 25 millions d'années, concluent-ils.
+> Depuis des années, les enseignants utilisent l'histoire de la Sierra Nevada comme une leçon classique de tectonique des plaques. Les montagnes ont commencé à s'élever il y a environ 4 millions d'années, selon la leçon. C'est la sagesse dominante, léguée aux Californiens par les géologues du début du siècle. Plus récemment, les scientifiques qui étudient les empreintes sculptées dans le substrat rocheux par d'anciens fleuves ne sont pas d'accord. La Sierra a commencé à s'élever il y a 20 à 25 millions d'années, concluent-ils.
 > 
-La réponse à cette énigme réside peut-être dans les cicatrices laissées sur les montagnes par les mineurs avides d'or connus sous le nom de 49ers. Trois détectives géologiques de l'Université de Stanford ont suivi une piste d'anciennes gouttes de pluie pour arriver à une nouvelle estimation, beaucoup plus ancienne, de l'âge de la Sierra Nevada. Les chercheurs ont fouillé des camps miniers aujourd'hui fermés à la recherche d'échantillons d'argile qui ont codé la signature chimique de la pluie d'il y a longtemps. Ces traces faibles ont révélé comment l'altitude des anciennes montagnes a changé au cours des millénaires. La technique, testée et approuvée dans d'autres contextes, mais jamais utilisée pour la formation de montagnes, indique que la Sierra a au moins 45 millions d'années, soit près du double de l'estimation canonique.
+> La réponse à cette énigme réside peut-être dans les cicatrices laissées sur les montagnes par les mineurs avides d'or connus sous le nom de 49ers. Trois détectives géologiques de l'Université de Stanford ont suivi une piste d'anciennes gouttes de pluie pour arriver à une nouvelle estimation, beaucoup plus ancienne, de l'âge de la Sierra Nevada. Les chercheurs ont fouillé des camps miniers aujourd'hui fermés à la recherche d'échantillons d'argile qui ont codé la signature chimique de la pluie d'il y a longtemps. Ces traces faibles ont révélé comment l'altitude des anciennes montagnes a changé au cours des millénaires. La technique, testée et approuvée dans d'autres contextes, mais jamais utilisée pour la formation de montagnes, indique que la Sierra a au moins 45 millions d'années, soit près du double de l'estimation canonique.
 > 
-> Le principal succès de cette étude, explique Andreas Mulch, auteur principal de l'article de l'équipe dans Science, est qu'il s'agit en fait d'un problème très, très simple que nous essayions de résoudre : quelle est la hauteur maximale ? [^4]
+> « Le principal succès de cette étude, » explique Andreas Mulch, auteur principal de l'article de l'équipe dans Science, « est qu'il s'agit en fait d'un problème très, très simple que nous essayions de résoudre : quelle est la hauteur maximale ? » [^4]
 
 _Le Livre d'Urantia_ dit non seulement que les Sierras étaient « bien surélevées » et s'élèvent depuis les 25 derniers millions d'années, rejetant la théorie selon laquelle elles n'ont que 5 millions d'années, mais contient également des déclarations qui sont en harmonie avec les découvertes de Mulch, Graham et Chamberlain selon lesquelles les Sierras étaient surélevées il y a 45 millions d'années.
 
@@ -111,7 +111,7 @@ Revenons maintenant à _L'énigme de la Sierra Nevada_ :
 > 
 > Les géologues qui soutiennent Lindgren affirment que les montagnes se sont élevées il y a longtemps et ont échappé à la plupart des effets de l'érosion. Ils affirment que les montagnes actuelles se sont formées lors d'une collision de proportions gigantesques lorsqu'une partie de la plaque Pacifique s'est écrasée et a glissé sous la plaque nord-américaine. La roche de la plaque supérieure n'avait d'autre choix que de monter. Les montagnes ont probablement atteint leur hauteur actuelle il y a au moins 25 millions d'années, pensent ces géologues.
 > 
-Depuis l'époque de Lindgren, les géologues et les paléontologues ont abordé ce problème avec tous les outils dont ils disposent. Certains sondent les profondeurs des gorges ou étudient le gravier restant, d'autres tentent d'établir l'âge des roches volcaniques issues d'anciennes éruptions. D'autres encore utilisent la chimie pour suivre la désintégration radioactive des minéraux. Aucune de ces études n'a donné de résultat concluant ; beaucoup n'ont fait qu'élargir le fossé entre les camps de la Sierra Jeune et de la Sierra Ancienne.
+> Depuis l'époque de Lindgren, les géologues et les paléontologues ont abordé ce problème avec tous les outils dont ils disposent. Certains sondent les profondeurs des gorges ou étudient le gravier restant, d'autres tentent d'établir l'âge des roches volcaniques issues d'anciennes éruptions. D'autres encore utilisent la chimie pour suivre la désintégration radioactive des minéraux. Aucune de ces études n'a donné de résultat concluant ; beaucoup n'ont fait qu'élargir le fossé entre les camps de la Sierra Jeune et de la Sierra Ancienne.
 > 
 > **Le côté positif d'un désastre**
 > 
@@ -120,14 +120,14 @@ Depuis l'époque de Lindgren, les géologues et les paléontologues ont abordé 
 > . . . Lorsque l'or est devenu trop rare pour que les mineurs puissent le chercher à la main, ils ont fait appel à d'énormes canons à eau pour rendre le travail plus efficace. . . . Appelés « moniteurs » ou simplement « géants », les canons lançaient des jets d'eau sur les flancs de la montagne pour cisailler le sol et les sédiments des pentes de la montagne....
 > 
 > ... Les mines de Malakoff étaient la plus grande mine hydraulique de son temps. ...
-
+> 
 > ... [P]réservée est la béante entaille laissée par les mineurs : 2100 mètres de long, 900 mètres de large et près de 200 mètres de profondeur par endroits.
 >
 > . . .
 > 
 > Cette scène s'est avérée centrale pour les recherches du triumvirat de scientifiques de Stanford : Andreas Mulch, Stephan Graham et Page Chamberlain. Mulch était alors chercheur postdoctoral, un géologue passionné par le travail en laboratoire et sur le terrain, désireux de faire les deux à la fois. Il a travaillé sous la direction de Chamberlain, un géochimiste qui utilisait de subtiles empreintes chimiques pour étudier ses deux passions disparates : les oiseaux et les roches. Avant de suivre la croissance des montagnes, Chamberlain utilisait des indices chimiques pour suivre les migrations des oiseaux. .
 > 
->Des trois géologues, Graham est celui qui a réfléchi le plus longtemps à l'âge de la Sierra....
+> Des trois géologues, Graham est celui qui a réfléchi le plus longtemps à l'âge de la Sierra....
 > 
 > . . .« J'étais conscient des problèmes, mais il n'y avait pas de nouvelles méthodes à appliquer. » Cela a changé lorsqu'il a rencontré Chamberlain, qui lui a offert un outil inattendu : les rapports isotopiques.
 > 
@@ -139,7 +139,7 @@ Depuis l'époque de Lindgren, les géologues et les paléontologues ont abordé 
 > 
 > La kaolinite étudiée par les géologues provient de dépôts fluviaux datant de l'ère éocène, il y a 40 à 50 millions d'années. Les scientifiques connaissent l'âge de ces roches, mais ne peuvent pas être sûrs de leur ancienne altitude. La kaolinite aurait pu se former tout aussi bien au niveau de la mer qu'au sommet d'une montagne. Seule la signature chimique de la goutte de pluie qui l'a formée peut révéler ce secret.
 > 
-Il y a des millénaires, des couches de terre neuve recouvraient la kaolinite contenant des gouttes de pluie. Heureusement pour les géologues, la kaolinite persiste dans les formations primitives du lit des rivières. Ces mêmes gisements contenaient l'or qui a attiré les mineurs vers l'ouest. Les mineurs ont mis à nu à la fois l'or et la kaolinite lorsqu'ils ont attaqué la Sierra avec des canons hydrauliques à la fin du 19e siècle. Pour recueillir des échantillons de kaolinite, les géologues devaient simplement se rendre dans des camps miniers abandonnés et en récupérer.
+> Il y a des millénaires, des couches de terre neuve recouvraient la kaolinite contenant des gouttes de pluie. Heureusement pour les géologues, la kaolinite persiste dans les formations primitives du lit des rivières. Ces mêmes gisements contenaient l'or qui a attiré les mineurs vers l'ouest. Les mineurs ont mis à nu à la fois l'or et la kaolinite lorsqu'ils ont attaqué la Sierra avec des canons hydrauliques à la fin du 19e siècle. Pour recueillir des échantillons de kaolinite, les géologues devaient simplement se rendre dans des camps miniers abandonnés et en récupérer.
 > 
 > Mulch, qui a dirigé l'étude de Stanford, explique que la recherche n'a été possible que grâce à la convoitise des 49ers. « Les gens cherchaient de l'or, alors tout le monde essayait de trouver ces gisements fluviaux particuliers afin de devenir riche et célèbre », explique Mulch. « Sans les mineurs qui ont réellement produit ces énormes changements environnementaux en déchirant des chaînes de montagnes entières, nous n'aurions jamais eu la roche que nous avons utilisée. »
 > 
@@ -190,7 +190,7 @@ Revenons maintenant à _L'énigme de la Sierra Nevada_ :
 > 
 > Craig Jones, géologue à l'université du Colorado à Boulder, n'est pas d'accord : « Mon sentiment est qu'il y a quelque chose dans le travail isotopique que nous ne comprenons pas encore », dit Jones. « Il est évident que nous avons tendance à rejeter l'idée selon laquelle les résultats les plus récents sont les bons. »
 > 
-Jones ne trouve rien d'anormal dans les résultats de Stanford, sauf qu'ils contredisent d'autres preuves géologiques qui, selon lui, soutiennent une chaîne de montagnes plus récente. La chimie des précipitations, ou ses signatures à différentes altitudes, auraient pu être radicalement différentes dans un climat ancien, dit Jones ; il est sûr qu'une erreur se cache dans la méthode. « C'est très nouveau. C'est très prometteur. Il semble juste qu'à l'heure actuelle, cela entre en conflit avec beaucoup d'autres observations. C'est souvent ainsi que l'on résout les problèmes. »[^9]
+> Jones ne trouve rien d'anormal dans les résultats de Stanford, sauf qu'ils contredisent d'autres preuves géologiques qui, selon lui, soutiennent une chaîne de montagnes plus récente. La chimie des précipitations, ou ses signatures à différentes altitudes, auraient pu être radicalement différentes dans un climat ancien, dit Jones ; il est sûr qu'une erreur se cache dans la méthode. « C'est très nouveau. C'est très prometteur. Il semble juste qu'à l'heure actuelle, cela entre en conflit avec beaucoup d'autres observations. C'est souvent ainsi que l'on résout les problèmes. »[^9]
 
 Brittany Grayson a raisonnablement cherché et trouvé des commentaires de la part de quelqu'un aligné avec le camp des « Young Sierras » pour critiquer le travail. Cette critique, de son propre aveu, est basée sur « l'instinct » et la spéculation, pas sur la science. Le parti pris de Craig Jones se reflète également dans son commentaire concernant la « tendance à rejeter l'idée que les résultats les plus récents sont les bons ». En effet, c'est précisément ainsi que la science avance. Même Grayson a ressenti le besoin de commenter que « Jones ne peut rien trouver de mal dans les résultats de Stanford, sauf qu'ils contredisent d'autres preuves géologiques qui, selon lui, soutiennent une chaîne de montagnes plus jeune. »
 
@@ -215,9 +215,9 @@ Abordé sous cet angle, le rapport de 2006 préparé par Mulch, Graham et Chambe
 <img src="/image/article/Halbert_Katzen/Sierra_Mountains/timetable.jpg">
 </figure>
 
-> 3. Employer la supériorité de leur pouvoir cérébral pour se perpétuer. ([LU 61:1.6](/fr/The_Urantia_Book/61#p1_6))
+> *Il y a 40 millions d’années,* les zones terrestres de l’hémisphère nord commencèrent à s’élever ; ce phénomène fut suivi par de nouvelles et vastes sédimentations, et par d’autres activités terrestres comprenant des coulées de lave, des gauchissements, des formations lacustres et des érosions. ([LU 61:1.11](/fr/The_Urantia_Book/61#p1_11))
 
-> *Il y a 25 millions d’années,* une légère immersion des terres se produisit après une longue époque d’émersion. La région des montagnes Rocheuses resta très élevée, de sorte que des matériaux d’érosion continuèrent à se déposer vers l’est, sur l’ensemble des basses terres. Les Sierras furent de nouveau exhaussées ; en fait, elles n’ont pas cessé de s’élever depuis lors. La grande faille verticale californienne de six kilomètres et demi date de ce temps-là. ([LU 61:3.3](/fr/The_Urantia_Book/61#p3_3))
+> *Il y a 25 millions d’années,* une légère immersion des terres se produisit après une longue époque d’émersion. La région des montagnes Rocheuses resta très élevée, de sorte que des matériaux d’érosion continuèrent à se déposer vers l’est, sur l’ensemble des basses terres. Les Sierras furent de nouveau exhaussées ; en fait, elles n’ont pas cessé de s’élever depuis lors ([LU 61:3.3](/fr/The_Urantia_Book/61#p3_3))
 
 - http://www.sciencemag.org/cgi/content/full/313/5783/87 article de recherche primaire Science 7 juillet 2006 : Vol. 313. no. 5783, pp. 87 - 89 DOI : 10.1126/science.1125986
 - http://scicom.ucsc.edu/SciNotes/0701/sierra/index.html L'énigme de la Sierra Nevada, article largement cité pour Sierra Report
@@ -240,6 +240,21 @@ Si les auteurs du Livre d'Urantia de 1955 n'en savaient pas plus que la plupart 
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 <br>
 
@@ -257,13 +272,13 @@ Si les auteurs du Livre d'Urantia de 1955 n'en savaient pas plus que la plupart 
 
 [^6]: [LU 61:1.4](/fr/The_Urantia_Book/61#p1_4)
 
-[^7] : Science 7 juillet 2006 : Vol. 313. no. 5783, pp. 87 - 89, http://www.sciencemag.org/cgi/content/full/313/5783/87
+[^7]: Science 7 juillet 2006 : Vol. 313. no. 5783, pp. 87 - 89, http://www.sciencemag.org/cgi/content/full/313/5783/87
 
 [^8]: Science 7 juillet 2006 : Vol. 313. no. 5783, pp. 87 - 89, http://www.sciencemag.org/cgi/content/full/313/5783/87
 
 [^9]: https://sciencenotes.ucsc.edu/0701/sierra/index.html
 
-[^10] : « Une pluie ancienne marque l'âge de la Sierra », Kathy A. Svitil, Discover Magazine, janvier 2007, p. 53
+[^10]: « Une pluie ancienne marque l'âge de la Sierra », Kathy A. Svitil, Discover Magazine, janvier 2007, p. 53
 
 [^11]: [LU 60:3](/fr/The_Urantia_Book/60#p3_par); [LU 60:4](/fr/The_Urantia_Book/60#p4); [LU 59:5.20](/fr/The_Urantia_Book/59#p5_20)
 

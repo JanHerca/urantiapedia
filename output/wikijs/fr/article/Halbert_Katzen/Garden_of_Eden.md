@@ -33,7 +33,7 @@ Lorsque *Le Livre d'Urantia* fut publié en 1955, les relevés de sonar nécessa
 
 ## Résumé
 
-D'après Le Livre d'Urantia, « ADAM ET ÈVE arrivèrent sur Urantia [Terre] en 1934, il y a 37 848 ans. »[^3] Ils vivaient sur « une longue et étroite péninsule – presque une île – qui s'étendait vers l'ouest à partir des rivages orientaux de la mer Méditerranée. »[^4] « Près de quatre mille ans après qu'Adam eut quitté le Jardin..., en liaison avec l'activité violente des volcans environnants et la submersion du pont terrestre sicilien vers l'Afrique, le fond oriental de la mer Méditerranée s'enfonça, emportant sous les eaux toute la péninsule édénique. »[^5] Ces quelques affirmations sur la forme, l'emplacement et le destin du Jardin d'Éden ne sont pas tout ce que _Le Livre d'Urantia_ a à dire sur ce sujet. Mais elles suffisent à introduire ce sujet.
+D'après Le Livre d'Urantia, « ADAM ET ÈVE arrivèrent sur Urantia [Terre] 37 848 ans avant l’an 1934 de l’ère chrétienne. »[^3] Ils vivaient sur « une longue péninsule étroite — presque une ile — qui faisait saillie vers l’ouest sur la côte orientale de la Méditerranée. »[^4] « Près de quatre mille ans après qu'Adam eut quitté le Jardin..., en liaison avec l'activité violente des volcans environnants et la submersion du pont terrestre sicilien vers l'Afrique, le fond oriental de la mer Méditerranée s'enfonça, emportant sous les eaux toute la péninsule édénique. »[^5] Ces quelques affirmations sur la forme, l'emplacement et le destin du Jardin d'Éden ne sont pas tout ce que _Le Livre d'Urantia_ a à dire sur ce sujet. Mais elles suffisent à introduire ce sujet.
 
 Lors de sa publication en 1955, la cartographie par sonar n'avait pas encore fourni d'images suffisamment détaillées du fond marin de la Méditerranée orientale pour considérer le bien-fondé des affirmations du *Livre d'Urantia*. Aujourd'hui, les images du fond marin de la Méditerranée, créées à l'aide de la technologie avancée du sonar qui a été développée plus de trente ans après la publication du *Livre d'Urantia*, révèlent des corrélations avec toutes les déclarations du *Livre d'Urantia* sur la forme, l'emplacement et le destin du Jardin d'Éden.
 
@@ -77,17 +77,17 @@ Il a fallu une technologie de sonar développée plus de trente ans après la pu
 
 *Le Livre d'Urantia* déclare :
 
-> Le comité de localisation... a fait un rapport favorable concernant trois emplacements possibles : le premier était une île dans le golfe Persique ; le deuxième, l'emplacement fluvial ultérieurement occupé comme deuxième jardin [entre les fleuves Tigre et Euphrate] ; le troisième, une longue péninsule étroite - presque une île - se projetant vers l'ouest à partir des rives orientales de la mer Méditerranée.
+> Le comité du site... fit un rapport favorable sur trois emplacements possibles : le premier était une ile du golfe Persique ; le deuxième était un emplacement fluvial qui servit plus tard pour le second jardin ; le troisième était une longue péninsule étroite — presque une ile — qui faisait saillie vers l’ouest sur la côte orientale de la Méditerranée.
 > 
 > . . .
 > 
-> Cette péninsule méditerranéenne avait un climat salubre et une température stable, due aux montagnes qui l'entouraient et au fait que cette région était pratiquement une île dans une mer intérieure. Alors qu'il pleuvait abondamment sur les hautes terres environnantes, il pleuvait rarement dans l'Eden proprement dit. Mais chaque nuit, du vaste réseau de canaux d'irrigation artificiels, une « brume » montait pour rafraîchir la végétation du Jardin.
+> Cette péninsule méditerranéenne jouissait d’un climat salubre et d’une température régulière. La stabilité du temps était due aux montagnes qui l’entouraient et au fait que ce territoire était pratiquement une ile dans une mer intérieure. Il pleuvait abondamment sur les hautes terres environnantes, mais rarement sur Éden proprement dit. Par contre, chaque nuit, du réseau très développé de canaux d’irrigation, « un brouillard s’élevait » pour rafraichir la végétation du Jardin.
 > 
-> La côte de cette masse terrestre était considérablement élevée, et le bras reliant le continent n'avait que quarante-sept kilomètres de large à son point le plus étroit. Le grand fleuve qui arrosait le Jardin descendait des terres plus hautes de la péninsule et coulait vers l'est à travers le bras péninsulaire jusqu'au continent et de là à travers les basses terres de la Mésopotamie jusqu'à la mer au-delà. Il était alimenté par quatre affluents qui prenaient leur source dans les collines côtières de la péninsule édénique, et ce sont les « quatre têtes » du fleuve qui « sortait d'Éden », et qui furent plus tard confondues avec les branches des rivières entourant le deuxième jardin.[^8]
+> Le rivage de la péninsule était très surélevé, et l’isthme qui la reliait au continent n’était large que de quarante-trois kilomètres à son point le plus étroit. Le grand fleuve qui arrosait le Jardin descendait des hautes terres de la péninsule, coulait vers l’orient jusqu’au continent par l’isthme de la péninsule et, de là, traversait les basses terres de la Mésopotamie jusqu’à la mer située au-delà. Il était grossi de quatre affluents, qui prenaient leur source dans les collines côtières de la péninsule édénique. C’étaient les « quatre têtes » du fleuve qui « sortait d’Éden » et que l’on confondit plus tard avec les affluents des fleuves qui entouraient le second jardin.[^8]
 > 
-> Les plans architecturaux de l'Eden prévoyaient des habitations et des terres abondantes pour un million d'êtres humains.[^9]
+> Les plans architecturaux d’Éden prévoyaient des foyers et des terres abondantes pour un million d’êtres humains.[^9]
 > 
-> [P]rès de quatre mille ans après qu'Adam ait quitté le Jardin..., en liaison avec l'activité violente des volcans environnants et la submersion du pont terrestre sicilien vers l'Afrique, le fond oriental de la mer Méditerranée s'enfonça, emportant sous les eaux toute la péninsule édénique. Parallèlement à cette vaste submersion, la ligne côtière de la Méditerranée orientale fut considérablement surélevée. Et ce fut la fin de la plus belle création naturelle qu'Urantia ait jamais abrité. L'enfoncement ne fut pas soudain, plusieurs centaines d'années étant nécessaires pour submerger complètement la péninsule entière.[^5]
+> [P]rès de quatre mille ans après qu'Adam ait quitté le Jardin..., en liaison avec l'activité violente des volcans environnants et la submersion du pont terrestre sicilien vers l'Afrique, le fond oriental de la mer Méditerranée s'enfonça, emportant sous les eaux toute la péninsule édénique. En même temps que ce vaste effondrement, la côte orientale de la Méditerranée fut considérablement surélevée. Telle fut la fin de la plus belle création naturelle qu’Urantia ait jamais abritée. L’enfoncement ne fut pas soudain ; il fallut plusieurs centaines d’années pour submerger complètement la totalité de la péninsule.[^5]
 
 [\[Image 5\]](#Garden_of_Eden_fig_5) et [\[Image 6\]](#Garden_of_Eden_fig_6) sont fournies avec l'aimable autorisation de Robert Sarmast.[^10] Elles ont été créées à partir des relevés du sonar russe effectués en 1989. La couleur rouge indique où commence le littoral ; les tons terreux représentent la terre. Les zones du fond de l'océan représentées en turquoise et en bleu indiquent une profondeur de 4 000 à 5 000 pieds. Les flèches noires dans [\[Image 5\]](#Garden_of_Eden_fig_5) et [\[Image 6\]](#Garden_of_Eden_fig_6) indiquent une distance de vingt-sept milles. Ces flèches sont incluses car, selon *Le Livre d'Urantia*, « le bras de mer reliant le continent n'avait que vingt-sept milles de large au point le plus étroit. » Ces flèches permettent également de mettre en perspective la différence d'échelle qui a dû être utilisée pour la dimension verticale. En observant la brusque chute verticale au large de la côte sud-est de Chypre, nous pouvons voir que cette distance verticale sur la page, représentant environ un mille de profondeur, est environ les deux tiers de la longueur de la flèche noire représentant une distance de vingt-sept milles. Cette différence d'échelle rend les hauteurs plus prononcées.
 
@@ -174,6 +174,21 @@ Pour l'instant, au moins les progrès de la technologie du sonar nous permettent
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 <br>
 

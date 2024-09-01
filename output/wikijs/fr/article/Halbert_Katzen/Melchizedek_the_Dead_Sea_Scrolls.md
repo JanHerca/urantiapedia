@@ -37,7 +37,7 @@ Le mystère de Melchisédek a précédé Jésus. Bien que Jésus ait parlé de s
 
 Quelles que soient les raisons qui ont poussé Jésus à ne pas éclaircir le mystère de Melchizédek, les auteurs du Livre d'Urantia ont clairement l'intention de rétablir la vérité en révélant et en passant en revue l'histoire de Melchizédek. En fait, nous obtenons même un prénom pour distinguer l'individu particulier qui est apparu à l'époque d'Abraham de « l'ordre de Melchizédek ».
 
-Le prénom de Melchizédek est _Machiventa_. J’ai préparé des étymologies de termes inventés du _Livre d’Urantia_ et j’ai également partagé le travail étymologique d’autres personnes sur LUannotated.com. Mais, autant que je sache, personne n’a jamais rien rassemblé auparavant sur _Machiventa_. La recherche ne s’est pas avérée simple en comparaison de mes efforts précédents. Elle est donc devenue à la fois une [Annexe](https://ubannotated.com/main-menu/animated/topical-studies/machiventa-melchizedek/machiventa-etymology/) pour ce rapport et une étude thématique à part entière.
+Le prénom de Melchizédek est _Machiventa_. J’ai préparé des étymologies de termes inventés du _Livre d’Urantia_ et j’ai également partagé le travail étymologique d’autres personnes sur LUannotated.com. Mais, autant que je sache, personne n’a jamais rien rassemblé auparavant sur _Machiventa_. La recherche ne s’est pas avérée simple en comparaison de mes efforts précédents. Elle est donc devenue à la fois une [Annexe](/fr/article/Halbert_Katzen/Machiventa_etymology) pour ce rapport et une étude thématique à part entière.
 
 De plus, je pense qu'il est préférable d'expliquer dès le début que ce rapport UBtheNEWS s'écarte considérablement de la nature des autres rapports UBtheNEWS de plusieurs manières importantes :
 
@@ -45,13 +45,13 @@ De plus, je pense qu'il est préférable d'expliquer dès le début que ce rappo
 
 2) En général, une nouvelle découverte ou un progrès scientifique qui soutient le Livre d’Urantia n’apparaît pas sur une période prolongée qui s’étend autour de la date de publication du Livre d’Urantia en 1955. Le Manuscrit de la Mer Morte sur Melchizédek (11Q13, également connu sous le nom de 11QMel ou 11QMelch) a été découvert en 1956. Cette partie n’a donc pas besoin d’explications supplémentaires. Mais la plupart des Manuscrits de la Mer Morte ont été découverts entre novembre 1946 et février 1947. Certains éléments de ces manuscrits se rapportent à un Jubilé des Jubilés et l’associent à une figure du Messie, ce qui, à son tour, porte sur les interprétations concernant la nature et le rôle futur de Melchizédek.
 
-	Heureusement, même ces Manuscrits de la Mer Morte ont été découverts plusieurs années après que les plaques pour l'impression du Livre d'Urantia aient été commandées. _Le Livre d'Urantia_ fournit environ 45 pages d'histoire et de perspective directement axées sur Melchizédek. Ces informations sont étroitement liées à la cosmologie présentée dans le reste de ses 2097 pages. De nombreux documents historiques sont disponibles pour prouver que ce matériel a été écrit et préparé pour la composition bien avant la découverte des Manuscrits de la Mer Morte. Voici un [document](https://ubhs.hosted-by-files.com/docs/U/uk19410628_kelloggw_03.pdf) montrant que des dispositions ont été prises en 1941 pour la publication du Livre d'Urantia.
+	Heureusement, même ces Manuscrits de la Mer Morte ont été découverts plusieurs années après que les plaques pour l'impression du Livre d'Urantia aient été commandées. _Le Livre d'Urantia_ fournit environ 45 pages d'histoire et de perspective directement axées sur Melchizédek. Ces informations sont étroitement liées à la cosmologie présentée dans le reste de ses 2097 pages. De nombreux documents historiques sont disponibles pour prouver que ce matériel a été écrit et préparé pour la composition bien avant la découverte des Manuscrits de la Mer Morte. Voici un [document](https://ubhs.hosted-by-files.com/docs/U/uk19410628_kelloggw_03.pdf) montrant que des dispositions ont été prises en 1941 pour la publication du _Livre d'Urantia_.
 
 3) Une nouvelle découverte ou une avancée scientifique qui soutient _Le Livre d'Urantia_ doit être quelque peu imprévisible ou contraire aux opinions savantes prédominantes de 1955, si l'information doit être crédible en comparaison. De plus, la force d'une corroboration est directement liée à la fourniture d'informations incontestées et objectivement vérifiables. La date de découverte des Manuscrits de la Mer Morte est suffisamment objective et vérifiable. La façon d'interpréter des fragments de lettres est sujette à débat. Interpréter puis traduire ce que disent les Manuscrits est subjectif et est souvent étroitement lié à des convictions religieuses profondément ancrées. Ainsi, afin de trouver quelque chose de corroborant, il faut prendre des précautions particulières et ajuster les attentes par rapport aux autres rapports d'UBtheNEWS.
 
-4) Ce rapport d'UBtheNEWS est thématiquement lié à une série d'aides à l'étude sur la prophétie et les signes des temps. Il convient de noter en particulier que deux éclipses solaires totales, à environ sept ans d'intervalle, ont des trajectoires qui se croisent au-dessus de la Croix de la Paix de Bald Knob. Ces éclipses se produisent le 21 août 2017 et le 8 avril 2024. _Le Livre d'Urantia_ dit que l'anniversaire de Jésus est le 21 août et que le 8 avril est la date entre la crucifixion et la résurrection. Pour une perspective supplémentaire sur la façon dont cela se rapporte à la prophétie et aux enseignements du _Livre d'Urantia_, voir [Les éclipses l'emportent sur les érudits en matière de prophétie](https://ubannotated.com/main-menu/animated/more-about-and-by-halbert-katzen/eclipses-trump-prophecy-scholars/), [La prophétie et les « signes des temps »](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/) et [Le Messie juif est Melchizédek!?!](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/the-jewish-messiah-is-melchizedek/)
+4) Ce rapport d'UBtheNEWS est thématiquement lié à une série d'aides à l'étude sur la prophétie et les signes des temps. Il convient de noter en particulier que deux éclipses solaires totales, à environ sept ans d'intervalle, ont des trajectoires qui se croisent au-dessus de la Croix de la Paix de Bald Knob. Ces éclipses se produisent le 21 août 2017 et le 8 avril 2024. _Le Livre d'Urantia_ dit que l'anniversaire de Jésus est le 21 août et que le 8 avril est la date entre la crucifixion et la résurrection. Pour une perspective supplémentaire sur la façon dont cela se rapporte à la prophétie et aux enseignements du _Livre d'Urantia_, voir [Les éclipses l'emportent sur les érudits en matière de prophétie](/fr/article/Halbert_Katzen/Eclipses_Trump_Prophecy_Scholars), [La prophétie et les « signes des temps »](/fr/article/Halbert_Katzen/Prophecy_and_signs_of_the_times) et [Le Messie juif est Melchizédek!?!](/fr/article/Halbert_Katzen/The_Jewish_Messiah_is_Melchizedek)
 
-La rédaction de ce rapport a commencé le 21 décembre 2020. Les déclarations faites dans _Le_ _Livre d'Urantia_ indiquent que 2021 est le 4000e anniversaire du jour où Machiventa Melchizédek s'est incarné et a commencé à enseigner pendant la période abrahamique. Veuillez apprécier ce rapport comme une célébration de la transition millénaire 2020/2021 !
+La rédaction de ce rapport a commencé le 21 décembre 2020. Les déclarations faites dans _Le Livre d'Urantia_ indiquent que 2021 est le 4000e anniversaire du jour où Machiventa Melchizédek s'est incarné et a commencé à enseigner pendant la période abrahamique. Veuillez apprécier ce rapport comme une célébration de la transition millénaire 2020/2021 !
 
 ## Melchisédek et les Manuscrits de la Mer Morte Résumé
 
@@ -74,7 +74,7 @@ La chronologie de la prise de conscience du monde moderne est la suivante :
 La quantité limitée d'informations dans l'Ancien et le Nouveau Testament conduit à des interprétations divergentes sur la nature de Melchisédek. Ce rapport se concentre sur deux des questions soulevées :
 
 1. Melchisédek avait-il une origine purement humaine ou était-il une sorte d'ange incarné ou une préincarnation de Jésus ?
-2. Melchisédek doit-il revenir à l'occasion d'un Jour du Jugement et/ou d'un Jubilé des Jubilés ? (Voir également Étude thématique : [Y a-t-il un jugement imminent des vivants ?](https://ubannotated.com/main-menu/animated/topical-studies/impending-judgement-of-the-living/))
+2. Melchisédek doit-il revenir à l'occasion d'un Jour du Jugement et/ou d'un Jubilé des Jubilés ? (Voir également Étude thématique : [Y a-t-il un jugement imminent des vivants ?](/fr/article/Halbert_Katzen/A_Global_Catastrophic_Crisis_Event))
 
 _Le Livre d'Urantia_ offre une cinquantaine de pages consacrées directement à l'éclaircissement du mystère de Melchizédek. Ces enseignements comprennent :
 
@@ -90,7 +90,7 @@ Il est intéressant de noter que le Manuscrit de la Mer Morte qui élargit parti
 
 Etant donné les déclarations de l'Ancien et du Nouveau Testament sur Melchizédek et la profondeur des connaissances sur les différentes formes de pensée juive qui existaient dans les siècles précédant l'avènement du christianisme, les auteurs du Livre d'Urantia n'ont pas pris beaucoup de risques en matière de crédibilité avec leur description de Melchizédek de Machiventa. Néanmoins, les Manuscrits de la Mer Morte (théoriquement et hypothétiquement) auraient pu fournir une perspective contraire à ce qu'enseigne le Livre d'Urantia. Ainsi, même s'il n'y a pas d'angle de crédibilité à cela de l'ordre de grandeur associé à d'autres rapports d'UBtheNEWS, néanmoins, les Manuscrits de la Mer Morte apparaissent après la publication du Livre d'Urantia avec des informations sur Melchizédek qui soutiennent le récit du Livre d'Urantia.
 
-Français On dit que Jésus a dit : « Quand le monde aura traversé le long hiver de la mentalité matérialiste et que vous discernerez la venue du printemps spirituel d’une nouvelle dispensation, sachez que l’été d’une nouvelle visitation approche. » ([LU 176:2.6](/fr/The_Urantia_Book/176#p2_6)) Et concernant la mentalité matérialiste, _Le Livre d’Urantia_ enseigne : « Au moment où j’écris ces lignes \[qui se réfère probablement à l’époque de « l’accusation » du milieu des années 1930, et non à sa date de publication de 1955\], le pire de l’âge matérialiste est passé ; le jour d’une meilleure compréhension commence déjà à poindre. » ([LU 195:6.4](/fr/The_Urantia_Book/195#p6_4)) Peut-être devrions-nous prendre note du fait que presque immédiatement après la publication du _Livre d’Urantia_, une découverte a été faite d’une importance historique et religieuse extraordinaire qui se rapporte particulièrement à la compréhension de la cosmologie du _Livre d’Urantia_ et des enseignements sur l’avenir, même la période dans laquelle nous nous trouvons actuellement.
+On dit que Jésus a dit : « Quand le monde aura passé par le long hiver de la mentalité matérialiste et que vous discernerez la venue du printemps spirituel d’une nouvelle dispensation, vous devriez savoir que l’été d’une nouvelle visitation approche. » ([LU 176:2.6](/fr/The_Urantia_Book/176#p2_6)) Et concernant la mentalité matérialiste, _Le Livre d’Urantia_ enseigne : « À l’époque du présent écrit \[qui se réfère probablement à l’époque de « l’accusation » du milieu des années 1930, et non à sa date de publication de 1955\], les pires moments de l’âge matérialiste sont passés ; l’aube d’une meilleure compréhension commence déjà à poindre. » ([LU 195:6.4](/fr/The_Urantia_Book/195#p6_4)) Peut-être devrions-nous prendre note du fait que presque immédiatement après la publication du _Livre d’Urantia_, une découverte a été faite d’une importance historique et religieuse extraordinaire qui se rapporte particulièrement à la compréhension de la cosmologie du _Livre d’Urantia_ et des enseignements sur l’avenir, même la période dans laquelle nous nous trouvons actuellement.
 
 ## Critique de Melchisédek et des Manuscrits de la Mer Morte
 
@@ -98,7 +98,7 @@ L'analyse commence par une sélection de passages du Livre d'Urantia sur Melchiz
 
 ### Extrait du _Livre d'Urantia_
 
-En plus des quatre Fascicules (Chapitres) qui se concentrent directement sur lui, des références à Melchizédek apparaissent tout au long du Livre d’Urantia. Naturellement, une lecture séquentielle des Fascicules fournit une base solide pour la perspective du Livre d’Urantia. Les Fascicules de Melchizédek comptent environ 45 pages au total. Le premier Fascicule – [Fascicule 93 : Melchizédek Machiventa](https://ubannotated.com/ubthenews/urantiabook/papers/p093/) – est le plus important par rapport à ce rapport. En plus d’expliquer la relation de Melchizédek avec Abraham, il passe également en revue son statut actuel et considère les possibilités futures concernant son retour apparemment inévitable. Les trois autres Fascicules sont :
+En plus des quatre Fascicules (Chapitres) qui se concentrent directement sur lui, des références à Melchizédek apparaissent tout au long du Livre d’Urantia. Naturellement, une lecture séquentielle des Fascicules fournit une base solide pour la perspective du Livre d’Urantia. Les Fascicules de Melchizédek comptent environ 45 pages au total. Le premier Fascicule – [Fascicule 93 : Melchizédek Machiventa](/fr/The_Urantia_Book/93) – est le plus important par rapport à ce rapport. En plus d’expliquer la relation de Melchizédek avec Abraham, il passe également en revue son statut actuel et considère les possibilités futures concernant son retour apparemment inévitable. Les trois autres Fascicules sont :
 
 - [Document 94 : Les enseignements de Melchisédek en Orient](/fr/The_Urantia_Book/94),
 - [Document 95 : Les enseignements de Melchisédek au Levant](/fr/The_Urantia_Book/95),
@@ -116,9 +116,9 @@ Voici quelques références choisies pour résumer le sujet. Les passages extér
 
 > Environ cent ans avant l’époque de Jésus et de Jean, une nouvelle école d’éducateurs religieux apparut en Palestine, celle des apocalyptistes. Ces nouveaux éducateurs élaborèrent un système de croyance qui expliquait les souffrances et les humiliations des Juifs par le motif qu’ils payaient les conséquences des péchés de la nation. Ils retombaient sur les raisons bien connues destinées à expliquer leur captivité antérieure à Babylone et ailleurs. Mais, enseignaient les apocalyptistes, Israël devait reprendre courage ; les temps de son affliction étaient à peu près passés ; le châtiment disciplinaire du peuple élu de Dieu touchait à sa fin ; la patience de Dieu envers les étrangers Gentils était presque à bout. La fin de la souveraineté romaine était synonyme de la fin de l’âge et, dans un certain sens, de la fin du monde. Ces nouveaux éducateurs s’appuyaient fortement sur les prédictions de Daniel et enseignaient avec persistance que la création était sur le point d’arriver à son stade final ; les royaumes de ce monde étaient sur le point de devenir le royaume de Dieu. Tel était, pour les penseurs juifs de cette époque, le sens de l’expression « le royaume des cieux » constamment employé dans les enseignements de Jean et de Jésus. Pour les Juifs de Palestine, les mots « royaume des cieux » n’avaient qu’une seule signification : un État absolument juste dans lequel Dieu (le Messie) gouvernerait les nations de la terre avec la même perfection de pouvoir qu’il gouvernait dans le ciel — « Que ta volonté soit faite sur la terre comme au ciel. » ([LU 135:5.2](/fr/The_Urantia_Book/135#p5_2))
 
-> Quand cette ère sera atteinte sur votre planète, il n’y a pas de doute que Machiventa Melchizédek, présentement Prince Planétaire vice-gérant d’Urantia, occupera le siège du Souverain Planétaire ; et, sur Jérusem, on suppose depuis longtemps qu’il sera accompagné par un fils et une fille de l’Adam et de l’Ève d’Urantia qui sont présentement retenus sur Édentia comme pupilles des Très Hauts de Norlatiadek. Ces enfants d’Adam pourraient servir ainsi sur Urantia en association avec le Souverain Melchizédek, car ils ont été privés de leur pouvoir procréateur il y a près de 37 000 ans lorsqu’ils ont abandonné leur corps matériel sur Urantia pour préparer leur transit sur Édentia. ([LU 55:7.3](/fr/The_Urantia_Book/55#p7_3))
+> Quand cette ère sera atteinte sur votre planète, il n’y a pas de doute que Machiventa Melchizédek, présentement Prince Planétaire vice-gérant d’Urantia, occupera le siège du Souverain Planétaire ; et, sur Jérusem, on suppose depuis longtemps qu’il sera accompagné par un fils et une fille de l’Adam et de l’Ève d’Urantia qui sont présentement retenus sur Édentia comme pupilles des Très Hauts de Norlatiadek. Ces enfants d’Adam pourraient servir ainsi sur Urantia en association avec le Souverain Melchizédek, **car ils ont été privés de leur pouvoir procréateur** il y a près de 37 000 ans lorsqu’ils ont abandonné leur corps matériel sur Urantia pour préparer leur transit sur Édentia. \[Gras adjouté\] ([LU 55:7.3](/fr/The_Urantia_Book/55#p7_3))
 
-> Toutes ces spéculations associées à la certitude que des Fils Magistraux et des Fils Instructeurs de la Trinité apparaitront dans l’avenir, en liaison avec la promesse explicite du Fils Créateur de revenir un jour, font d’Urantia une planète à l’avenir incertain et la rendent une des sphères les plus intéressantes et les plus mystérieuses de l’univers de Nébadon. Il est tout à fait possible que, dans un âge futur où Urantia s’approchera de l’ère de lumière et de vie, après que les affaires de la rébellion de Lucifer et de la sécession de Caligastia auront été définitivement jugées, nous puissions y observer la présence simultanée de Machiventa, d’Adam et d’Ève, de Christ Micaël, ainsi que d’un Fils Magistral ou même de Fils Instructeurs de la Trinité. ([LU 93:10.8](/fr/The_Urantia_Book/93#p10_8))
+> ...Il est tout à fait possible que, dans un âge futur où Urantia s’approchera de l’ère de lumière et de vie, après que les affaires de la rébellion de Lucifer ... auront été définitivement jugées, nous puissions y observer la présence simultanée de Machiventa, d’Adam et d’Ève, de Christ Micaël, \[Jésus\] ([LU 93:10.8](/fr/The_Urantia_Book/93#p10_8))
 
 > L’autorité de vice-gérant pour agir à la place de Micaël comme Prince Planétaire a été récemment conférée à Machiventa Melchizédek, mais ce Fils de l’univers local n’a pas pris la moindre mesure pour modifier le régime planétaire actuel des administrations successives des gouverneurs généraux résidents.
 > 
@@ -132,35 +132,35 @@ Voici des références de l'Ancien Testament à Melchisédek, ainsi qu'une séle
 
 **[Genèse 14](/fr/Bible/Genesis/14):**
 
-**<sup>14</sup>** Et quand Abram apprit que son frère avait été emmené captif, il arma ses serviteurs expérimentés, nés dans sa maison, au nombre de trois cent dix-huit, et les poursuivit jusqu'à Dan.
+**<sup><small>14</small></sup>** Et quand Abram apprit que son frère avait été emmené captif, il arma ses serviteurs expérimentés, nés dans sa maison, au nombre de trois cent dix-huit, et les poursuivit jusqu'à Dan.
 
-**<sup>15</sup>** Et il se divisa contre eux, lui et ses serviteurs, pendant la nuit, et les frappa, et les poursuivit jusqu'à Hobah, qui est à gauche de Damas.
+**<sup><small>15</small></sup>** Et il se divisa contre eux, lui et ses serviteurs, pendant la nuit, et les frappa, et les poursuivit jusqu'à Hobah, qui est à gauche de Damas.
 
-**<sup>16</sup>** Et il ramena tous les biens, et ramena aussi son frère Lot, et ses biens, et aussi les femmes et le peuple.
+**<sup><small>16</small></sup>** Et il ramena tous les biens, et ramena aussi son frère Lot, et ses biens, et aussi les femmes et le peuple.
 
-**<sup>17</sup>** Et le roi de Sodome sortit à sa rencontre, après son retour de la défaite de Kedorlaomer et des rois qui étaient avec lui, dans la vallée de Shaveh, qui est la vallée du roi.
+**<sup><small>17</small></sup>** Et le roi de Sodome sortit à sa rencontre, après son retour de la défaite de Kedorlaomer et des rois qui étaient avec lui, dans la vallée de Shaveh, qui est la vallée du roi.
 
-**<sup>18</sup>** Et Melchisédek, roi de Salem, fit apporter du pain et du vin; et il était sacrificateur du Dieu Très-Haut.
+**<sup><small>18</small></sup>** Et Melchisédek, roi de Salem, fit apporter du pain et du vin; et il était sacrificateur du Dieu Très-Haut.
 
-**<sup>19</sup>** Et il le bénit, et dit : Béni soit Abram par le Dieu Très-Haut, maître du ciel et de la terre !
+**<sup><small>19</small></sup>** Et il le bénit, et dit : Béni soit Abram par le Dieu Très-Haut, maître du ciel et de la terre !
 
-**<sup>20</sup>** Et béni soit le Dieu Très-Haut, qui a livré tes ennemis entre tes mains, et il lui a donné la dîme de tout.
+**<sup><small>20</small></sup>** Et béni soit le Dieu Très-Haut, qui a livré tes ennemis entre tes mains, et il lui a donné la dîme de tout.
 
-**<sup>21</sup>** Et le roi de Sodome dit à Abram : Donne-moi les personnes, et prends pour toi les biens.
+**<sup><small>21</small></sup>** Et le roi de Sodome dit à Abram : Donne-moi les personnes, et prends pour toi les biens.
 
 **[Psaume 110](/fr/Bible/Psalms/110):**
 
-**<sup>1</sup>** Le Seigneur a dit à mon Seigneur : Assieds-toi à ma droite, jusqu'à ce que je fasse de tes ennemis ton marchepied.
+**<sup><small>1</small></sup>** Le Seigneur a dit à mon Seigneur : Assieds-toi à ma droite, jusqu'à ce que je fasse de tes ennemis ton marchepied.
 
-**<sup>2</sup>** L'Éternel étendra de Sion la verge de ta force; Domine au milieu de tes ennemis.
+**<sup><small>2</small></sup>** L'Éternel étendra de Sion la verge de ta force; Domine au milieu de tes ennemis.
 
-**<sup>3</sup>** Ton peuple sera plein de bonté au jour de ta puissance, dans les beautés de la sainteté dès le sein de l'aurore; tu as la rosée de ta jeunesse.
+**<sup><small>3</small></sup>** Ton peuple sera plein de bonté au jour de ta puissance, dans les beautés de la sainteté dès le sein de l'aurore; tu as la rosée de ta jeunesse.
 
-**<sup>4</sup>** Le Seigneur l'a juré, et il ne s'en repentira pas : Tu es sacrificateur pour toujours, Selon l'ordre de Melchisédek.
+**<sup><small>4</small></sup>** Le Seigneur l'a juré, et il ne s'en repentira pas : Tu es sacrificateur pour toujours, Selon l'ordre de Melchisédek.
 
-**<sup>5</sup>** L'Éternel, à ta droite, frappera des rois au jour de sa colère.
+**<sup><small>5</small></sup>** L'Éternel, à ta droite, frappera des rois au jour de sa colère.
 
-**<sup>6</sup>** Il jugera parmi les nations, il remplira les lieux de cadavres, il blessera les têtes dans plusieurs pays.
+**<sup><small>6</small></sup>** Il jugera parmi les nations, il remplira les lieux de cadavres, il blessera les têtes dans plusieurs pays.
 
 ### Du Nouveau Testament
 
@@ -168,94 +168,94 @@ Voici les principaux passages du Nouveau Testament, qui ajoutent de nouvelles in
 
 **[Hébreux 5](/fr/Bible/Hebrews/5):**
 
-**<sup>5</sup>** De même, Christ ne s'est pas glorifié lui-même en devenant souverain sacrificateur, mais il s'est glorifié lui-même en lui disant : Tu es mon Fils, je t'ai engendré aujourd'hui.
+**<sup><small>5</small></sup>** De même, Christ ne s'est pas glorifié lui-même en devenant souverain sacrificateur, mais il s'est glorifié lui-même en lui disant : Tu es mon Fils, je t'ai engendré aujourd'hui.
 
-**<sup>6</sup>** Comme il le dit aussi ailleurs : Tu es prêtre pour toujours, selon l'ordre de Melchisédek.
+**<sup><small>6</small></sup>** Comme il le dit aussi ailleurs : Tu es prêtre pour toujours, selon l'ordre de Melchisédek.
 
-**<sup>7</sup>** Qui, durant les jours de sa chair, ayant offert avec de grands cris et avec larmes des prières et des supplications à celui qui pouvait le sauver de la mort, et ayant été exaucé à cause de sa crainte,
+**<sup><small>7</small></sup>** Qui, durant les jours de sa chair, ayant offert avec de grands cris et avec larmes des prières et des supplications à celui qui pouvait le sauver de la mort, et ayant été exaucé à cause de sa crainte,
 
-**<sup>8</sup>** Quoiqu'il fût Fils, il apprit l'obéissance par les choses qu'il souffrit,
+**<sup><small>8</small></sup>** Quoiqu'il fût Fils, il apprit l'obéissance par les choses qu'il souffrit,
 
-**<sup>9</sup>** Et après avoir été élevé à la perfection, il est devenu pour tous ceux qui lui obéissent l'auteur d'un salut éternel,
+**<sup><small>9</small></sup>** Et après avoir été élevé à la perfection, il est devenu pour tous ceux qui lui obéissent l'auteur d'un salut éternel,
 
-**<sup>10</sup>** Appelé par Dieu grand prêtre selon l'ordre de Melchisédek.
+**<sup><small>10</small></sup>** Appelé par Dieu grand prêtre selon l'ordre de Melchisédek.
 
-**<sup>11</sup>** Nous avons beaucoup de choses à dire à leur sujet, et des choses difficiles à exprimer, parce que vous êtes lents à entendre.
+**<sup><small>11</small></sup>** Nous avons beaucoup de choses à dire à leur sujet, et des choses difficiles à exprimer, parce que vous êtes lents à entendre.
 
 **[Hébreux 6](/fr/Bible/Hebrews/6):**
 
-**<sup>19</sup>** Cette espérance, nous la tenons comme une ancre de l'âme, à la fois sûre et inébranlable, et qui pénètre au-delà du voile ;
+**<sup><small>19</small></sup>** Cette espérance, nous la tenons comme une ancre de l'âme, à la fois sûre et inébranlable, et qui pénètre au-delà du voile ;
 
-**<sup>20</sup>** Là où est entré pour nous Jésus, précurseur, fait souverain sacrificateur pour toujours selon l'ordre de Melchisédek.
+**<sup><small>20</small></sup>** Là où est entré pour nous Jésus, précurseur, fait souverain sacrificateur pour toujours selon l'ordre de Melchisédek.
 
 **[Hébreux 7](/fr/Bible/Hebrews/7):**
 
 **L'Ordre Sacerdotal de Melchisédek**
 
-**<sup>1</sup>** Ce « roi Melchisédek de Salem, prêtre du Dieu Très-Haut, rencontra Abraham alors qu’il revenait de la défaite des rois et le bénit » ;
+**<sup><small>1</small></sup>** Ce « roi Melchisédek de Salem, prêtre du Dieu Très-Haut, rencontra Abraham alors qu’il revenait de la défaite des rois et le bénit » ;
 
-**<sup>2</sup>** et Abraham lui donna « la dîme de tout ». Son nom, en premier lieu, signifie « roi de justice » ; ensuite, il est aussi roi de Salem, c’est-à-dire « roi de paix ».
+**<sup><small>2</small></sup>** et Abraham lui donna « la dîme de tout ». Son nom, en premier lieu, signifie « roi de justice » ; ensuite, il est aussi roi de Salem, c’est-à-dire « roi de paix ».
 
-**<sup>3</sup>** Sans père, sans mère, sans généalogie, n'ayant ni commencement de jours ni fin de vie, mais ressemblant au Fils de Dieu, il demeure prêtre pour toujours.
+**<sup><small>3</small></sup>** Sans père, sans mère, sans généalogie, n'ayant ni commencement de jours ni fin de vie, mais ressemblant au Fils de Dieu, il demeure prêtre pour toujours.
 
-**<sup>4</sup>** Voyez comme il est grand ! Même Abraham, le patriarche, lui a donné la dîme du butin.
+**<sup><small>4</small></sup>** Voyez comme il est grand ! Même Abraham, le patriarche, lui a donné la dîme du butin.
 
-**<sup>5</sup>** Et ces descendants de Lévi qui reçoivent la fonction sacerdotale ont un commandement dans la loi de percevoir la dîme du peuple, c'est-à-dire de leur parenté, bien qu'eux aussi soient descendants d'Abraham.
+**<sup><small>5</small></sup>** Et ces descendants de Lévi qui reçoivent la fonction sacerdotale ont un commandement dans la loi de percevoir la dîme du peuple, c'est-à-dire de leur parenté, bien qu'eux aussi soient descendants d'Abraham.
 
-**<sup>6</sup>** Mais cet homme, qui n'appartient pas à leur lignée, a perçu la dîme d'Abraham et a béni celui qui avait reçu les promesses.
+**<sup><small>6</small></sup>** Mais cet homme, qui n'appartient pas à leur lignée, a perçu la dîme d'Abraham et a béni celui qui avait reçu les promesses.
 
-**<sup>7</sup>** Il est incontestable que l'inférieur est béni par le supérieur.
+**<sup><small>7</small></sup>** Il est incontestable que l'inférieur est béni par le supérieur.
 
-**<sup>8</sup>** Dans un cas, les dîmes sont reçues par ceux qui sont mortels ; dans l'autre, par l'un d'entre eux dont il est attesté qu'il vit.
+**<sup><small>8</small></sup>** Dans un cas, les dîmes sont reçues par ceux qui sont mortels ; dans l'autre, par l'un d'entre eux dont il est attesté qu'il vit.
 
-**<sup>9</sup>** On pourrait même dire que Lévi lui-même, qui reçoit la dîme, a payé la dîme par l’intermédiaire d’Abraham,
+**<sup><small>9</small></sup>** On pourrait même dire que Lévi lui-même, qui reçoit la dîme, a payé la dîme par l’intermédiaire d’Abraham,
 
-**<sup>10</sup>** car il était encore dans les reins de son ancêtre lorsque Melchisédek le rencontra.
+**<sup><small>10</small></sup>** car il était encore dans les reins de son ancêtre lorsque Melchisédek le rencontra.
 
 **Un autre prêtre, comme Melchisédek**
 
-**<sup>11</sup>** Or, si la perfection avait pu être obtenue par le sacerdoce lévitique — car c'est sous ce sacerdoce que le peuple a reçu la loi — quel besoin y aurait-il encore eu de parler d'un autre sacrificateur selon l'ordre de Melchisédek, plutôt que d'un autre selon l'ordre d'Aaron ?
+**<sup><small>11</small></sup>** Or, si la perfection avait pu être obtenue par le sacerdoce lévitique — car c'est sous ce sacerdoce que le peuple a reçu la loi — quel besoin y aurait-il encore eu de parler d'un autre sacrificateur selon l'ordre de Melchisédek, plutôt que d'un autre selon l'ordre d'Aaron ?
 
-**<sup>12</sup>** Car lorsqu'il y a changement dans le sacerdoce, il y a nécessairement aussi changement dans la loi.
+**<sup><small>12</small></sup>** Car lorsqu'il y a changement dans le sacerdoce, il y a nécessairement aussi changement dans la loi.
 
-**<sup>13</sup>** Or, celui dont ces choses sont dites appartenait à une autre tribu, dont aucun membre n'a jamais servi à l'autel.
+**<sup><small>13</small></sup>** Or, celui dont ces choses sont dites appartenait à une autre tribu, dont aucun membre n'a jamais servi à l'autel.
 
-**<sup>14</sup>** Car il est évident que notre Seigneur est issu de Juda, et à propos de cette tribu Moïse n'a rien dit au sujet des prêtres.
+**<sup><small>14</small></sup>** Car il est évident que notre Seigneur est issu de Juda, et à propos de cette tribu Moïse n'a rien dit au sujet des prêtres.
 
-**<sup>15</sup>** Cela est encore plus évident lorsqu’un autre prêtre surgit, ressemblant à Melchisédek,
+**<sup><small>15</small></sup>** Cela est encore plus évident lorsqu’un autre prêtre surgit, ressemblant à Melchisédek,
 
-**<sup>16</sup>** celui qui est devenu prêtre, non pas par une exigence légale concernant la descendance physique, mais par la puissance d'une vie indestructible.
+**<sup><small>16</small></sup>** celui qui est devenu prêtre, non pas par une exigence légale concernant la descendance physique, mais par la puissance d'une vie indestructible.
 
-**<sup>17</sup>** Car il est attesté de lui,
+**<sup><small>17</small></sup>** Car il est attesté de lui,
 
 « Tu es prêtre pour toujours,
 selon l'ordre de Melchisédek.
 
-**<sup>18</sup>** Il y a, d’une part, l’abrogation d’un commandement antérieur parce qu’il était faible et inefficace
+**<sup><small>18</small></sup>** Il y a, d’une part, l’abrogation d’un commandement antérieur parce qu’il était faible et inefficace
 
-**<sup>19</sup>** (car la loi n'a rien amené à la perfection) ; il y a, d'autre part, l'introduction d'une meilleure espérance, par laquelle nous nous approchons de Dieu.
+**<sup><small>19</small></sup>** (car la loi n'a rien amené à la perfection) ; il y a, d'autre part, l'introduction d'une meilleure espérance, par laquelle nous nous approchons de Dieu.
 
-**<sup>20</sup>** Cela a été confirmé par un serment ; car d’autres qui sont devenus prêtres ont pris leur charge sans serment,
+**<sup><small>20</small></sup>** Cela a été confirmé par un serment ; car d’autres qui sont devenus prêtres ont pris leur charge sans serment,
 
-**<sup>21</sup>** mais celui-ci est devenu prêtre avec serment, à cause de celui qui lui avait dit :
+**<sup><small>21</small></sup>** mais celui-ci est devenu prêtre avec serment, à cause de celui qui lui avait dit :
 
 « Le Seigneur a juré
 et ne changera pas d'avis,
 « Tu es prêtre pour toujours » —
 
-**<sup>22</sup>** ainsi Jésus est devenu aussi le garant d'une meilleure alliance.
+**<sup><small>22</small></sup>** ainsi Jésus est devenu aussi le garant d'une meilleure alliance.
 
-**<sup>23</sup>** De plus, les anciens prêtres étaient nombreux, car la mort les empêchait de continuer à exercer leur charge ;
+**<sup><small>23</small></sup>** De plus, les anciens prêtres étaient nombreux, car la mort les empêchait de continuer à exercer leur charge ;
 
-**<sup>24</sup>** mais il détient son sacerdoce de façon permanente, parce qu'il demeure éternellement.
+**<sup><small>24</small></sup>** mais il détient son sacerdoce de façon permanente, parce qu'il demeure éternellement.
 
-**<sup>25</sup>** C'est pourquoi il peut sauver pour toujours ceux qui s'approchent de Dieu par lui, étant toujours vivant pour intercéder en leur faveur.
+**<sup><small>25</small></sup>** C'est pourquoi il peut sauver pour toujours ceux qui s'approchent de Dieu par lui, étant toujours vivant pour intercéder en leur faveur.
 
-**<sup>26</sup>** Car il convenait que nous ayons un tel souverain sacrificateur, saint, irrépréhensible, sans tache, séparé des pécheurs, et élevé au-dessus des cieux.
+**<sup><small>26</small></sup>** Car il convenait que nous ayons un tel souverain sacrificateur, saint, irrépréhensible, sans tache, séparé des pécheurs, et élevé au-dessus des cieux.
 
-**<sup>27</sup>** Contrairement aux autres grands prêtres, il n'a pas besoin d'offrir des sacrifices jour après jour, d'abord pour ses propres péchés, puis pour ceux du peuple ; il l'a fait une fois pour toutes en s'offrant lui-même.
+**<sup><small>27</small></sup>** Contrairement aux autres grands prêtres, il n'a pas besoin d'offrir des sacrifices jour après jour, d'abord pour ses propres péchés, puis pour ceux du peuple ; il l'a fait une fois pour toutes en s'offrant lui-même.
 
-**<sup>28</sup>** Car la loi établit souverains sacrificateurs ceux qui sont sujets à la faiblesse, mais la parole du serment, postérieure à la loi, établit le Fils qui a été rendu parfait pour l'éternité.
+**<sup><small>28</small></sup>** Car la loi établit souverains sacrificateurs ceux qui sont sujets à la faiblesse, mais la parole du serment, postérieure à la loi, établit le Fils qui a été rendu parfait pour l'éternité.
 
 ### Extrait du Manuscrit de la Mer Morte 11Q13
 

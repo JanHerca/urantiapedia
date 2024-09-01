@@ -40,13 +40,13 @@ Document 43 : Les Constellations ; Section 5. Les Pères d'Edentia depuis la ré
 
 > La permutation des Très Hauts sur Édentia fut suspendue lors de la rébellion de Lucifer. Ceux qui nous dirigent aujourd’hui sont les mêmes qui étaient en place alors. Nous en inférons que ces dirigeants ne seront pas changés avant que le cas de Lucifer et de ses associés ait été définitivement réglé.
 >
-> Le présent gouvernement de la constellation a toutefois été élargi pour inclure douze Fils de l’ordre des Vorondadeks. Ces douze sont les suivants : … ([LU 43:5.1-2](/fr/The_Urantia_Book/43#p5_1))
-
-> 8. Le Très Haut administrateur d’urgence, le Fils Vorondadek chargé d’adapter les **lois d’exception** de la législature de Norlatiadek aux mondes de Satania isolés par la rébellion. ([LU 43:5.10](/fr/The_Urantia_Book/43#p5_10))
-
-> 10. Le Très Haut juge-avocat, chef du **tribunal d’exception** consacré au règlement des problèmes spéciaux de Norlatiadek résultant de la confusion consécutive à la rébellion de Satania. ([LU 43:5.12](/fr/The_Urantia_Book/43#p5_12))
-
-> 12. Le Très Haut directeur, président du **conseil d’urgence** sur Édentia. Toutes les personnalités affectées à Norlatiadek à cause de l’insurrection de Satania constituent le conseil d’urgence, et le délégué qui les préside est un Fils Vorondadek extraordinairement expérimenté. ([LU 43:5.14](/fr/The_Urantia_Book/43#p5_14))
+> Le présent gouvernement de la constellation a toutefois été élargi pour inclure douze Fils de l’ordre des Vorondadeks. Ces douze sont les suivants :
+> 
+> 8. Le Très Haut administrateur d’urgence, le Fils Vorondadek chargé d’adapter les **lois d’exception** de la législature de Norlatiadek aux mondes de Satania isolés par la rébellion.
+> 
+> 10. Le Très Haut juge-avocat, chef du **tribunal d’exception** consacré au règlement des problèmes spéciaux de Norlatiadek résultant de la confusion consécutive à la rébellion de Satania.
+> 
+> 12. Le Très Haut directeur, président du **conseil d’urgence** sur Édentia. Toutes les personnalités affectées à Norlatiadek à cause de l’insurrection de Satania constituent le conseil d’urgence, et le délégué qui les préside est un Fils Vorondadek extraordinairement expérimenté. ([LU 43:5.1-14](/fr/The_Urantia_Book/43#p5_1))
 
 > Ce groupe exécutif de sept Lanonandeks constitue **l’administration d’urgence élargie rendue nécessaire pour faire face à la situation critique liée à la rébellion de Lucifer**. Il n’y a que des tribunaux mineurs sur Jérusem, puisque le système est l’unité administrative et non judiciaire, mais l’administration Lanonandek est soutenue par le conseil exécutif de Jérusem, corps consultatif suprême de Satania. Ce conseil est composé de douze membres : ([LU 45:3.9](/fr/The_Urantia_Book/45#p3_9))
 

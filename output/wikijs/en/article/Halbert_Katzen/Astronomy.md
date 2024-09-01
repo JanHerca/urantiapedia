@@ -508,13 +508,13 @@ The black dot in the center of this cosmological Maltese cross is approximately 
 
 <br style="clear:both;"/>
 
-> Practically all of the starry realms visible to the naked eye on Urantia belong to the seventh section of the grand universe, the superuniverse of Orvonton. The vast Milky Way starry system represents the central nucleus of Orvonton, being largely beyond the borders of your local universe. This great aggregation of suns, dark islands of space, double stars, globular clusters, star clouds, spiral and other nebulae, together with myriads of individual planets, forms a **watchlike, elongated-circular grouping** of about one seventh of the inhabited evolutionary universes. ([UB 15:3.1](/en/The_Urantia_Book/15#p3_1)
+> Practically all of the starry realms visible to the naked eye on Urantia belong to the seventh section of the grand universe, the superuniverse of Orvonton. The vast Milky Way starry system represents the central nucleus of Orvonton, being largely beyond the borders of your local universe. This great aggregation of suns, dark islands of space, double stars, globular clusters, star clouds, spiral and other nebulae, together with myriads of individual planets, forms a **watchlike, elongated-circular grouping** of about one seventh of the inhabited evolutionary universes. ([UB 15:3.1](/en/The_Urantia_Book/15#p3_1))
 
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Astronomy/universe-sideTM.jpg">
 </figure>
 
-> From the astronomical position of Urantia, as you look through the cross section of near-by systems to the great Milky Way, you observe that the spheres of Orvonton are traveling in a vast **elongated plane**, the breadth being far greater than the thickness and the length far greater than the breadth. ([UB 15:3.2](/en/The_Urantia_Book/15#p3_2)
+> From the astronomical position of Urantia, as you look through the cross section of near-by systems to the great Milky Way, you observe that the spheres of Orvonton are traveling in a vast **elongated plane**, the breadth being far greater than the thickness and the length far greater than the breadth. ([UB 15:3.2](/en/The_Urantia_Book/15#p3_2))
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Astronomy/1st-Outer-Space.jpg">

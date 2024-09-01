@@ -209,7 +209,7 @@ Considérez le paragraphe ci-dessus ainsi que cette déclaration de Jésus :
 
 > Mais le christianisme paganisé et socialisé a besoin d’un nouveau contact avec les enseignements sans compromis de Jésus ; il languit faute d’une vision neuve de la vie du Maitre sur terre. Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. ([LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
 
-Considérez que la culture du Livre d'Urantia est également devenue divisée en sectes en conséquence de l'échec à préserver la relation organisationnelle originale entre la Fondation Urantia et la Urantia Brotherhood. Considérez le [Traité d'Unité](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/#unity) comme une expression de la gravité de ce problème et comment la date limite pour restaurer la relation est la date de la première éclipse solaire totale sur Bald Knob Cross of Peace.
+Considérez que la culture du Livre d'Urantia est également devenue divisée en sectes en conséquence de l'échec à préserver la relation organisationnelle originale entre la Fondation Urantia et la Urantia Brotherhood. Considérez le [Traité d'Unité](/fr/article/Halbert_Katzen/Prophecy_and_signs_of_the_times) comme une expression de la gravité de ce problème et comment la date limite pour restaurer la relation est la date de la première éclipse solaire totale sur Bald Knob Cross of Peace.
 
 > À mesure que les enseignements originels de Jésus pénétrèrent l’Occident, ils furent occidentalisés et, à mesure qu’ils furent occidentalisés, ils commencèrent à perdre leur potentiel d’attrait universel pour toutes les races et toutes les sortes d’hommes. **Aujourd’hui, le christianisme est devenu une religion bien adaptée aux mœurs sociales, économiques et politiques des races blanches. Il a cessé, depuis longtemps, d’être la religion de Jésus**, bien qu’il dépeigne toujours vaillamment une belle religion à propos de Jésus aux personnes qui cherchent sincèrement à suivre la voie de son enseignement. Le christianisme a glorifié Jésus en tant que Christ, l’oint messianique de Dieu, mais il a grandement oublié l’évangile personnel du Maitre : la Paternité de Dieu et la fraternité universelle de tous les hommes. ([LU 98:7.11](/fr/The_Urantia_Book/98#p7_11))
 
@@ -243,15 +243,15 @@ Document 43 : Les Constellations ; Section 5. Les Pères d'Edentia depuis la ré
 
 > La permutation des Très Hauts sur Édentia fut suspendue lors de la rébellion de Lucifer. Ceux qui nous dirigent aujourd’hui sont les mêmes qui étaient en place alors. Nous en inférons que ces dirigeants ne seront pas changés avant que le cas de Lucifer et de ses associés ait été définitivement réglé.
 > 
-> La permutation des Très Hauts sur Édentia fut suspendue lors de la rébellion de Lucifer. Ceux qui nous dirigent aujourd’hui sont les mêmes qui étaient en place alors. Nous en inférons que ces dirigeants ne seront pas changés avant que le cas de Lucifer et de ses associés ait été définitivement réglé. ([LU 43:5.1](/fr/The_Urantia_Book/43#p5_1))
-
+> Le présent gouvernement de la constellation a toutefois été élargi pour inclure douze Fils de l’ordre des Vorondadeks. Ces douze sont les suivants :
+> 
 > 8. Le Très Haut **administrateur d’urgence**, le Fils Vorondadek chargé d’adapter les lois d’exception de la législature de Norlatiadek aux mondes de Satania isolés par la rébellion.
->
+> 
 > . . .
->
+> 
 > 10. Le Très Haut juge-avocat, chef du **tribunal d’exception** consacré au règlement des problèmes spéciaux de Norlatiadek résultant de la confusion consécutive à la rébellion de Satania.
->
-> 12. Le Très Haut directeur, président du **conseil d’urgence** sur Édentia. Toutes les personnalités affectées à Norlatiadek à cause de l’insurrection de Satania constituent le conseil d’urgence, et le délégué qui les préside est un Fils Vorondadek extraordinairement expérimenté. [LU 43:5.10-14](/fr/The_Urantia_Book/43#p5_10)
+> 
+> 12. Le Très Haut directeur, président du **conseil d’urgence** sur Édentia. Toutes les personnalités affectées à Norlatiadek à cause de l’insurrection de Satania constituent le conseil d’urgence, et le délégué qui les préside est un Fils Vorondadek extraordinairement expérimenté. [LU 43:5.1-14](/fr/The_Urantia_Book/43#p5_1)
 
 ### Archanges
 

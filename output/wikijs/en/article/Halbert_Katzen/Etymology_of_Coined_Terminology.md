@@ -816,9 +816,9 @@ _\-ing_: \[Old English _\-ung, -ing_\] (1) action, process (preying, wading); (2
 ### Celestial Types and Orders
 
 - [**agondonters**](#agondonters)
-- [**Avonal**](#Avonal)
-- [**Lanonandek**](#Lanonandek)
-- [**Vorondadek**](#Vorondadek)
+- [**Avonal**](#avonal)
+- [**Lanonandek**](#lanonandek)
+- [**Vorondadek**](#vorondadek)
 
 ### Human genetic types, sequentially organized
 

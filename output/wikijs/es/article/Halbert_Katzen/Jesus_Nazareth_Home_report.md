@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet tema--gris claro aclarar-3 px-2">© 2022 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Por Halbert Katzen J.D._
 
@@ -33,14 +48,14 @@ Afortunadamente, las preocupaciones políticas han ido disminuyendo con el tiemp
 <figcaption>Casa de una sola habitación, hogar a la izquierda. Además, eventualmente, la ampliación a través de la puerta para un taller y un dormitorio.</figcaption>
 </figure>
 
-Sin embargo, en 2000, el arqueólogo aficionado Stephen Shanahan, utilizando las descripciones de El libro de Urantia sobre la ubicación de la casa de Jesús, descubrió que el sitio del convento de las Hermanas de Nazaret era el más adecuado. Y lo que es más importante, pudo identificar dos losas de piedra en el sitio que son consistentes con la descripción de El libro de Urantia de la mesa del comedor familiar en la casa de Nazaret.
+Sin embargo, en 2000, el arqueólogo aficionado Stephen Shanahan, utilizando las descripciones de _El Libro de Urantia_ sobre la ubicación de la casa de Jesús, descubrió que el sitio del convento de las Hermanas de Nazaret era el más adecuado. Y lo que es más importante, pudo identificar dos losas de piedra en el sitio que son consistentes con la descripción de _El Libro de Urantia_ de la mesa del comedor familiar en la casa de Nazaret.
 
 Al parecer, la naturaleza de las losas de piedra (grandes y sencillas) las ayudó a sobrevivir y permanecer más o menos in situ. No se podían quitar fácilmente y su importancia histórica no es evidente. Aun así, la colocación de una de las losas en una tumba sugiere que se consideraba un artefacto importante.
 
-Por lo general, UBtheNEWS informa sobre nuevos descubrimientos que respaldan las afirmaciones realizadas en El libro de Urantia. En este caso, el sitio arqueológico de las Hermanas de Nazaret no solo le da credibilidad a El libro de Urantia, sino que también ayuda a identificar cuál de los sitios arqueológicos es el mejor candidato para la aparición de Gabriel a María.
+Por lo general, UBtheNEWS informa sobre nuevos descubrimientos que respaldan las afirmaciones realizadas en El libro de Urantia. En este caso, el sitio arqueológico de las Hermanas de Nazaret no solo le da credibilidad a _El libro de Urantia_, sino que también ayuda a identificar cuál de los sitios arqueológicos es el mejor candidato para la aparición de Gabriel a María.
 
 (Muchas gracias al reverendo Robert Crickett, quien se puso en contacto conmigo en respuesta a la publicación de este informe. Ha viajado muchas veces a Israel y se ha alojado regularmente con las Hermanas de Nazaret en esos viajes. La información y las imágenes que proporcionó se presentan nuevamente al final de este informe.)
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## Ubicación del convento de las Hermanas de Nazaret
 
@@ -71,14 +86,14 @@ Un [artículo, basado en el libro de Dark](https://bibleinterp.arizona.edu/artic
 
 El trabajo de Dark con el Proyecto Arqueológico de Nazaret es notable por el esfuerzo profesional que aporta al estudio del sitio. Antes de que comenzaran esos trabajos, el sitio no estaba completamente cerrado a los turistas. De hecho, en ocasiones se han ofrecido servicios de hotel y turistas y, en ocasiones, se han recibido visitas guiadas.
 
-En 2000, envalentonados por la afirmación de El libro de Urantia de que sus «hechos históricos… permanecerán en los registros de las eras venideras», Stephen Shanahan y Martin McBurney se embarcaron en una expedición arqueológica laica a Israel. La casa de Jesús en Nazaret y la tumba funeraria estaban en lo más alto de la lista. [Providence & the Secret of Nazareth](https://ubannotated.com/wp-content/uploads/2021/06/Providence__the_secretreduced.pdf) de Stephen Shanahan ofrece un relato de primera mano de su estancia en Nazaret, como invitado en el convento de las Hermanas de Nazaret. Además, contrataron los servicios de la Dra. Joanna Kujawa, «autora, erudita y detective espiritual», para que hiciera una crónica de sus esfuerzos. Recibió su licenciatura y maestría del Pontificio Instituto de Estudios Medievales de la Universidad de Toronto, Canadá, y su doctorado de la Universidad de Monash, Melbourne, Australia. El Dr. Kujawa publicó _[Jerusalén](https://www.amazon.com/Jerusalem-Diary-Searching-House-Jesus/dp/145250637X) [Diario: En busca de la tumba y la casa de Jesús](https://www.amazon.com/Jerusalem-Diary-Searching-House-Jesus/dp/145250637X)_ en 2012. ([Ver extracto](http://1god.com/2016/11/26/the-nazareth-house/).)
+En 2000, envalentonados por la afirmación de _El Libro de Urantia_ de que sus «hechos históricos… permanecerán en los registros de las eras venideras», Stephen Shanahan y Martin McBurney se embarcaron en una expedición arqueológica laica a Israel. La casa de Jesús en Nazaret y la tumba funeraria estaban en lo más alto de la lista. [Providence & the Secret of Nazareth](https://ubannotated.com/wp-content/uploads/2021/06/Providence__the_secretreduced.pdf) de Stephen Shanahan ofrece un relato de primera mano de su estancia en Nazaret, como invitado en el convento de las Hermanas de Nazaret. Además, contrataron los servicios de la Dra. Joanna Kujawa, «autora, erudita y detective espiritual», para que hiciera una crónica de sus esfuerzos. Recibió su licenciatura y maestría del Pontificio Instituto de Estudios Medievales de la Universidad de Toronto, Canadá, y su doctorado de la Universidad de Monash, Melbourne, Australia. El Dr. Kujawa publicó _[Jerusalén](https://www.amazon.com/Jerusalem-Diary-Searching-House-Jesus/dp/145250637X) [Diario: En busca de la tumba y la casa de Jesús](https://www.amazon.com/Jerusalem-Diary-Searching-House-Jesus/dp/145250637X)_ en 2012. ([Ver extracto](http://1god.com/2016/11/26/the-nazareth-house/).)
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Halbert_Katzen/Jesus_Nazareth_Home_report/Dining-Table-300x276.jpg">
 <figcaption>Primer plano de la mesa de piedra después de que fue colocada en el hogar.</figcaption>
 </figure>
 
-El libro de Urantia enseña que María y José tuvieron ocho hijos más después de Jesús, lo que hizo necesario ampliar la mesa original. Las cuatro referencias a una «mesa de piedra» en El libro de Urantia se utilizan para identificar la mesa familiar en la casa de Nazaret:
+_El Libro de Urantia_ enseña que María y José tuvieron ocho hijos más después de Jesús, lo que hizo necesario ampliar la mesa original. Las cuatro referencias a una «mesa de piedra» en _El Libro de Urantia_ se utilizan para identificar la mesa familiar en la casa de Nazaret:
 
 Una tarde, al anochecer, antes de que José hubiera regresado a casa, Gabriel se le apareció a María junto a una mesa baja de piedra y, después de que ella recuperó la compostura, le dijo: "Vengo por orden de aquel que es mi Maestro y a quien amarás y cuidarás. A ti, María, te traigo buenas nuevas al anunciarte que la concepción dentro de ti está ordenada por el cielo, y que a su debido tiempo serás madre de un hijo; lo llamarás Josué, y él inaugurará el reino de los cielos en la tierra y entre los hombres. No hables de este asunto sino a José y a Isabel, tu pariente, a quienes también me he aparecido, y que pronto también dará a luz un hijo, cuyo nombre será Juan, y que preparará el camino para el mensaje de liberación que tu hijo proclamará a los hombres con gran poder y profunda convicción. Y no dudes de mi palabra, María, porque este hogar ha sido elegido como el hábitat mortal del hijo del destino. Mi bendición reposa sobre ti, el poder de los Altísimos te fortalecerá, y el Señor de toda la tierra te cubrirá con su sombra.” [LU 122:3.1](/es/The_Urantia_Book/122#p3_1)
 
@@ -108,8 +123,8 @@ Jesús continuó creciendo física, intelectual, social y espiritualmente. Sus v
 <img src="/image/article/Halbert_Katzen/Jesus_Nazareth_Home_report/Jesus-Game-Board-300x298.jpg">
 </figure>
 
-Con suerte, el profesor Ken Dark y el Proyecto Arqueológico de Nazaret continuarán sus esfuerzos para profundizar en el misterio que rodea la ubicación de la casa de Jesús en Nazaret y llegar a algo definitivo. Por ahora, El libro de Urantia aparentemente se mantiene como la mejor fuente para limitar la búsqueda a la ubicación del convento de las Hermanas de Nazaret.
-<br estilo=«claro:ambos;»/>
+Con suerte, el profesor Ken Dark y el Proyecto Arqueológico de Nazaret continuarán sus esfuerzos para profundizar en el misterio que rodea la ubicación de la casa de Jesús en Nazaret y llegar a algo definitivo. Por ahora, _El Libro de Urantia_ aparentemente se mantiene como la mejor fuente para limitar la búsqueda a la ubicación del convento de las Hermanas de Nazaret.
+<br style="clear:both;"/>
 
 ## Del reverendo Robert Crickett
 
@@ -177,7 +192,7 @@ Lo siguiente es una re-presentación de comunicaciones, imágenes y artículos p
 </figure>
 
 «En las paredes exteriores de la casa de la sagrada familia hay escaleras de piedra que se elevan hasta donde una vez estuvo el techo. La hermana Margareta comentó que estos escalones fueron construidos al estilo de las Cruzadas y no habrían sido originales de la casa de la sagrada familia. Aun así, tenemos presente cómo José construyó escaleras hasta el techo donde los varones de la familia dormían en las noches calurosas, y todavía lo hacen en el Medio Oriente, y donde durante el día María le enseñó a Jesús con el cajón de arena... y cómo un día, en una tormenta de arena, Jesús se cayó por las escaleras... probablemente hechas de madera... y cómo los ángeles que cuidaban de Jesús no fueron negligentes con su cuidado porque la tormenta era impredecible y repentina».
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## Enlaces externos
 
@@ -187,3 +202,18 @@ Lo siguiente es una re-presentación de comunicaciones, imágenes y artículos p
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

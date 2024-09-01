@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet tema--gris claro aclarar-3 px-2">© 2019 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Contenido
 
@@ -36,17 +51,17 @@ El Libro de Urantia afirma que los «cuerpos» responsables de esta sensibilidad
 
 Además, «en la década de 1960, el paleoecologista de Caltech Heinz Lowenstam sorprendió a biólogos y geólogos por igual con el descubrimiento de que muchos animales hacen lo que la ciencia convencional había considerado imposible: fabrican sustancias como el mineral que contiene hierro magnetita [el mineral más sensible magnéticamente en la Tierra] dentro de sus cuerpos. Del trabajo de Lowenstam surgió el hallazgo más reciente de que muchos animales migratorios, incluidos los pájaros, las abejas y las ballenas, generan magnetita dentro de sus cuerpos y pueden deber sus extraños instintos de orientación a la presencia de esta «brújula interna» que les permite navegar por medio del campo magnético de la Tierra». Hoy en día, se han descubierto varios mecanismos biológicos que juegan un papel en permitir que muchos tipos diferentes de animales sean sensibles al campo magnético de la Tierra.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## Revisión de sensibilidad magnética
 
-Antes de abordar los avances científicos particulares que se han ido produciendo a raíz de las declaraciones de El libro de Urantia sobre la sensibilidad de los seres humanos y otros organismos al campo magnético de la Tierra, es necesario proporcionar algún contexto con respecto a las afirmaciones hechas por los autores de El libro de Urantia sobre las limitaciones y permisos que se les impusieron al preparar el material científico para el libro. Por un lado, El libro de Urantia dice:
+Antes de abordar los avances científicos particulares que se han ido produciendo a raíz de las declaraciones de _El Libro de Urantia_ sobre la sensibilidad de los seres humanos y otros organismos al campo magnético de la Tierra, es necesario proporcionar algún contexto con respecto a las afirmaciones hechas por los autores de _El Libro de Urantia_ sobre las limitaciones y permisos que se les impusieron al preparar el material científico para el libro. Por un lado, _El Libro de Urantia_ dice:
 
 > Puesto que vuestro mundo ignora generalmente el origen de las cosas, incluso de las cosas físicas, ha parecido sabio proporcionarle de vez en cuando conocimientos de cosmología. Esto siempre ha causado problemas para el futuro. Las leyes de la revelación nos obstaculizan enormemente porque prohíben comunicar conocimientos inmerecidos o prematuros. Toda cosmología presentada como parte de una religión revelada está destinada a quedarse atrás en muy poco tiempo. Por consiguiente, los estudiosos futuros de esa revelación se sienten tentados a desechar cualquier elemento de verdad religiosa auténtica que pueda contener, porque descubren errores a primera vista en las cosmologías asociadas que se presentan en ella.
 > 
 > La humanidad debería comprender que nosotros, que participamos en la revelación de la verdad, estamos muy rigurosamente limitados por las instrucciones de nuestros superiores. No tenemos libertad para anticipar los descubrimientos científicos que se producirán en mil años. Los reveladores deben actuar con arreglo a las instrucciones que forman parte del mandato de revelar. No vemos ninguna manera de salvar esta dificultad, ni ahora ni en ningún momento del futuro. Sabemos muy bien que los hechos históricos y las verdades religiosas de esta serie de presentaciones revelatorias permanecerán en los anales de las épocas venideras, pero dentro de pocos años muchas de nuestras afirmaciones relacionadas con las ciencias físicas necesitarán una revisión a consecuencia de los desarrollos científicos adicionales y de los nuevos descubrimientos. Estos nuevos desarrollos los prevemos incluso desde ahora, pero se nos prohíbe incluir en nuestros escritos revelatorios esos hechos aún no descubiertos por la humanidad. Que quede muy claro que las revelaciones no son necesariamente inspiradas. La cosmología que figura en estas revelaciones *no es inspirada*. Está limitada por el permiso que nos han concedido para coordinar y clasificar el conocimiento de hoy en día. Aunque la perspicacia divina o espiritual sea un don, *la sabiduría humana tiene que evolucionar*. ([LU 101:4.1-2](/es/The_Urantia_Book/101#p4_1))
 
-Por otro lado, El libro de Urantia dice:
+Por otro lado, _El Libro de Urantia_ dice:
 
 > La humanidad debería comprender que nosotros, que participamos en la revelación de la verdad, estamos muy rigurosamente limitados por las instrucciones de nuestros superiores. No tenemos libertad para anticipar los descubrimientos científicos que se producirán en mil años. Los reveladores deben actuar con arreglo a las instrucciones que forman parte del mandato de revelar. No vemos ninguna manera de salvar esta dificultad, ni ahora ni en ningún momento del futuro. Sabemos muy bien que los hechos históricos y las verdades religiosas de esta serie de presentaciones revelatorias permanecerán en los anales de las épocas venideras, pero dentro de pocos años muchas de nuestras afirmaciones relacionadas con las ciencias físicas necesitarán una revisión a consecuencia de los desarrollos científicos adicionales y de los nuevos descubrimientos. Estos nuevos desarrollos los prevemos incluso desde ahora, pero se nos prohíbe incluir en nuestros escritos revelatorios esos hechos aún no descubiertos por la humanidad. Que quede muy claro que las revelaciones no son necesariamente inspiradas. La cosmología que figura en estas revelaciones *no es inspirada*. Está limitada por el permiso que nos han concedido para coordinar y clasificar el conocimiento de hoy en día. Aunque la perspicacia divina o espiritual sea un don, *la sabiduría humana tiene que evolucionar*.
 > 
@@ -55,7 +70,7 @@ Por otro lado, El libro de Urantia dice:
 > A fin de cuentas, la religión ha de ser juzgada por sus frutos, con arreglo a la manera y a la amplitud en que manifiesta su propia excelencia inherente y divina.
 > La verdad puede ser sólo relativamente inspirada, aunque la revelación sea invariablemente un fenómeno espiritual. Las afirmaciones referentes a la cosmología nunca son inspiradas, pero estas revelaciones tienen un inmenso valor ya que al menos clarifican transitoriamente los conocimientos mediante: ([LU 101:4.2-5](/es/The_Urantia_Book/101#p4_2))
 
-Lograr un equilibrio entre no «anticipar los descubrimientos de mil años» y «la coordinación de hechos y observaciones conocidos o por conocerse» es algo que se tendría que haber hecho con respecto a la cuestión de la sensibilidad biológica al campo magnético de la Tierra. Las fases iniciales del estudio científico sobre este tema ciertamente comenzaron antes de que se publicara El libro de Urantia, y hoy la opinión científica sobre el tema todavía carece de un amplio consenso. No obstante, el patrón de la ciencia emergente está bien alineado con las afirmaciones de El libro de Urantia sobre este tema. La investigación temprana que se realizó antes de la publicación de El libro de Urantia ha avanzado significativamente en las últimas décadas.
+Lograr un equilibrio entre no «anticipar los descubrimientos de mil años» y «la coordinación de hechos y observaciones conocidos o por conocerse» es algo que se tendría que haber hecho con respecto a la cuestión de la sensibilidad biológica al campo magnético de la Tierra. Las fases iniciales del estudio científico sobre este tema ciertamente comenzaron antes de que se publicara _El libro de Urantia_, y hoy la opinión científica sobre el tema todavía carece de un amplio consenso. No obstante, el patrón de la ciencia emergente está bien alineado con las afirmaciones de _El Libro de Urantia_ sobre este tema. La investigación temprana que se realizó antes de la publicación de _El Libro de Urantia_ ha avanzado significativamente en las últimas décadas.
 
 La cuestión de si los seres humanos pueden ser conscientemente sensibles al campo magnético de la Tierra no es una cuestión resuelta en la ciencia. Sin embargo, las investigaciones en curso en este campo apuntan en esa dirección de la misma manera que la aguja de una brújula apunta al norte. Algunos investigadores ya concluyen que existen pruebas suficientes para afirmar que los seres humanos tienen esta capacidad en cierto grado.
 
@@ -63,13 +78,13 @@ Wikipedia proporciona una breve descripción del tema y una rápida apreciación
 
 > La magnetocepción (o «magnetorecepción») es la capacidad de detectar cambios en un campo magnético para percibir la dirección o la altitud e incluso se ha postulado como un método para que los animales desarrollen mapas regionales. Se observa más comúnmente en las aves, aunque también se ha observado en muchos otros animales, incluidas las abejas y las tortugas. Los investigadores han identificado un probable sensor en las palomas: una región pequeña (enana) y muy inervada del cráneo, que contiene magnetita biológica. Los humanos tienen un depósito de magnetita similar en el hueso etmoides de la nariz. Aunque no hay disputa sobre la existencia de un sentido magnético en muchas aves (es esencial para las habilidades de navegación de las aves migratorias), es un fenómeno controvertido y no muy bien comprendido. . . En las abejas, se ha observado que la magnetita está incrustada en la membrana celular de un pequeño grupo de neuronas; la teoría es que cuando la magnetita se alinea con el campo magnético de la Tierra, la inducción hace que una corriente atraviese la membrana que despolariza la célula. [^1]
 
-> Los siete espíritus ayudantes de la mente{7} son la creación de la Ministra Divina de un universo local. Estos espíritus de la mente tienen caracteres similares pero poderes diferentes, y todos comparten de la misma manera la naturaleza del Espíritu del Universo, aunque difícilmente son considerados como personalidades, salvo por su Madre Creadora. Los siete ayudantes han recibido los nombres siguientes: el espíritu de *sabiduría*, el espíritu de *adoración*, el espíritu de *consejo*, el espíritu de *conocimiento*, el espíritu de *valentía*, el espíritu de *comprensión* y el espíritu de *intuición* —de percepción rápida. ([LU 34:4.10](/es/The_Urantia_Book/34#p4_10))
+> Los siete espíritus ayudantes de la mente son la creación de la Ministra Divina de un universo local. Estos espíritus de la mente tienen caracteres similares pero poderes diferentes, y todos comparten de la misma manera la naturaleza del Espíritu del Universo, aunque difícilmente son considerados como personalidades, salvo por su Madre Creadora. Los siete ayudantes han recibido los nombres siguientes: el espíritu de *sabiduría*, el espíritu de *adoración*, el espíritu de *consejo*, el espíritu de *conocimiento*, el espíritu de *valentía*, el espíritu de *comprensión* y el espíritu de *intuición* —de percepción rápida. ([LU 34:4.10](/es/The_Urantia_Book/34#p4_10))
 
 _El libro de Urantia_ afirma que su contenido fue proporcionado a mediados de la década de 1930; sin embargo, no se publicó hasta 1955. Aunque la fecha de publicación es una cuestión universalmente indiscutible, la afirmación de que el contenido de _El libro de Urantia_ fue proporcionado a mediados de la década de 1930 es una cuestión que atrae a una gama más amplia de opiniones y no es tan fácil de verificar como la fecha de publicación del libro.
 
 A pesar de que existen diversas formas de evidencia que apoyan la fecha de mediados de la década de 1930, la exactitud de esta fecha no es lo que está en cuestión aquí. La fecha es relevante porque proporciona una manera de investigar la coherencia interna de El libro de Urantia. Debido a que el texto se refiere al «tiempo de esta narración», presumiblemente la fecha de mediados de la década de 1930, y no la fecha de publicación, refleja el significado pretendido.
 
-Si no hubiera evidencia del descubrimiento a mediados de los años 30 de «cuerpos» sensibles al campo magnético de la Tierra, esta falta de evidencia tendría que pesar en contra de la credibilidad de El libro de Urantia. Pero ese no es el caso. Sin embargo, para crédito de El libro de Urantia, las observaciones de mediados de los años 30, como se mostrará, no fueron en absoluto concluyentes sobre la sensibilidad al campo magnético de la Tierra. Simplemente encontraron un mecanismo en los tiburones que era altamente sensible a los campos electromagnéticos. Por lo tanto, los autores de El libro de Urantia corrieron el riesgo de perder credibilidad si las observaciones de mediados de los años 30 no se vinculaban más tarde con cuestiones relacionadas con la sensibilidad al campo magnético de la Tierra.
+Si no hubiera evidencia del descubrimiento a mediados de los años 30 de «cuerpos» sensibles al campo magnético de la Tierra, esta falta de evidencia tendría que pesar en contra de la credibilidad de El libro de Urantia. Pero ese no es el caso. Sin embargo, para crédito de _El libro de Urantia_, las observaciones de mediados de los años 30, como se mostrará, no fueron en absoluto concluyentes sobre la sensibilidad al campo magnético de la Tierra. Simplemente encontraron un mecanismo en los tiburones que era altamente sensible a los campos electromagnéticos. Por lo tanto, los autores de _El Libro de Urantia_ corrieron el riesgo de perder credibilidad si las observaciones de mediados de los años 30 no se vinculaban más tarde con cuestiones relacionadas con la sensibilidad al campo magnético de la Tierra.
 
 Sin embargo, antes de revisar los descubrimientos científicos sobre este tema, es importante proporcionar primero alguna información general sobre la relación entre la electricidad y el magnetismo. Esto es necesario para entender por qué la jerga en este tema cambia de «electrorreceptores» a «magnetoreceptores».
 
@@ -79,7 +94,7 @@ Sin embargo, antes de revisar los descubrimientos científicos sobre este tema, 
 > 
 > Un campo magnético cambiante produce un campo eléctrico (este es el fenómeno de la inducción electromagnética, la base del funcionamiento de los generadores eléctricos, los motores de inducción y los transformadores). De manera similar, un campo eléctrico cambiante genera un campo magnético. Debido a esta interdependencia de los campos eléctrico y magnético, tiene sentido considerarlos como una única entidad coherente: el campo electromagnético. [^2]
 
-Con esa comprensión, ahora podemos proceder a apreciar los avances científicos que son armoniosos con la afirmación de El libro de Urantia de que se hicieron observaciones a mediados de la década de 1930 relacionadas con mecanismos biológicos que más tarde se descubriría que eran sensibles al campo magnético de la Tierra.
+Con esa comprensión, ahora podemos proceder a apreciar los avances científicos que son armoniosos con la afirmación de _El Libro de Urantia_ de que se hicieron observaciones a mediados de la década de 1930 relacionadas con mecanismos biológicos que más tarde se descubriría que eran sensibles al campo magnético de la Tierra.
 
 En la sección **Historia de los electrorreceptores** del artículo de Faramarz Samie titulado _Electrorrecepción en elasmobranquios_, afirma:
 
@@ -99,11 +114,11 @@ El artículo _Shark's Electric Sense_ en la edición de agosto de 2007 de Scient
 > 
 Sorprendentemente, Murray determinó que los órganos podían responder a campos tan débiles como una millonésima de voltio aplicados a través de un centímetro de agua de mar. Este efecto es equivalente a la intensidad del gradiente de voltaje que se produciría en el mar al conectar una batería AA de 1,5 voltios con un polo sumergido en el estrecho de Long Island y el otro polo en las aguas de Jacksonville, Florida. En teoría, un tiburón que nadara entre estos puntos podría saber cuándo la batería estaba encendida o apagada.
 
-Este descubrimiento a mediados de la década de 1930 de algunas de las características funcionales de las ampollas de Lorenzini está en armonía con la declaración de El libro de Urantia de que «los cuerpos fueron observados por primera vez en Urantia en la época de esta narración». También es coherente con la afirmación de El libro de Urantia de que sus autores «no tienen libertad para anticipar... descubrimientos científicos», que no se menciona la presencia de magnetita en organismos biológicos, ya que esto no se descubrió hasta después de la publicación de El libro de Urantia en 1955.[^4] Se hicieron descubrimientos adicionales dentro de los diez años posteriores a la publicación de El libro de Urantia que llevaron este tipo de investigación al siguiente nivel. La conclusión sobre la sensibilidad magnética la da El libro de Urantia, pero se retienen los detalles. Este podría ser el tipo de conocimiento a punto de ser descubierto que los autores indican que está dentro del rango permisible de proporcionar información reveladora.
+Este descubrimiento a mediados de la década de 1930 de algunas de las características funcionales de las ampollas de Lorenzini está en armonía con la declaración de _El Libro de Urantia_ de que «los cuerpos fueron observados por primera vez en Urantia en la época de esta narración». También es coherente con la afirmación de _El Libro de Urantia_ de que sus autores «no tienen libertad para anticipar... descubrimientos científicos», que no se menciona la presencia de magnetita en organismos biológicos, ya que esto no se descubrió hasta después de la publicación de _El Libro de Urantia_ en 1955.[^4] Se hicieron descubrimientos adicionales dentro de los diez años posteriores a la publicación de _El Libro de Urantia_ que llevaron este tipo de investigación al siguiente nivel. La conclusión sobre la sensibilidad magnética la da _El libro de Urantia_, pero se retienen los detalles. Este podría ser el tipo de conocimiento a punto de ser descubierto que los autores indican que está dentro del rango permisible de proporcionar información reveladora.
 
 > En la década de 1960, el paleoecologista de Caltech Heinz Lowenstam sorprendió a biólogos y geólogos por igual con el descubrimiento de que muchos animales hacen lo que la ciencia convencional había considerado imposible: fabrican sustancias como el mineral que contiene hierro magnetita dentro de sus cuerpos. Del trabajo de Lowenstam surgió el hallazgo más reciente de que muchos animales migratorios, incluidos los pájaros, las abejas y las ballenas, generan magnetita dentro de sus cuerpos y pueden deber sus extraños instintos de orientación a la presencia de esta «brújula interna» que les permite navegar por medio del campo magnético de la Tierra. [^5]
 
-El descubrimiento de magnetita en numerosas especies migratorias apoya la afirmación de El libro de Urantia de que existe una capacidad general para detectar la dirección en todo el espectro de los organismos biológicos.
+El descubrimiento de magnetita en numerosas especies migratorias apoya la afirmación de _El Libro de Urantia_ de que existe una capacidad general para detectar la dirección en todo el espectro de los organismos biológicos.
 
 La magnetita es la sustancia más magnética del mundo. En el artículo Biomagnetismo y bioelectromagnetismo: la base de la vida, el Dr. H. Coetzee explica con más detalle la importancia de este descubrimiento.
 
@@ -153,7 +168,7 @@ En el estudio, Thorsten Ritz, profesor adjunto de física y astronomía, y sus c
 > 
 Ahora, nuestro estudio indica que debemos buscar un sustrato molecular para ciertas reacciones químicas. Es decir, podemos descartar los materiales magnéticos presentes en los picos de las aves y en otros lugares como posibles candidatos. Sin embargo, la magnetita presente en los picos puede desempeñar un papel en la detección de la fuerza, pero no de la dirección del campo magnético de la Tierra.
 
-Aunque obviamente no se ha dicho la última palabra sobre el tema de la megnetorecepción, algunas cosas han quedado bien establecidas. Una de ellas es que muchos animales son sensibles al campo magnético de la Tierra y pueden utilizar esta sensibilidad para orientarse. Estos hallazgos respaldan cada vez más la afirmación de El libro de Urantia de que todos los organismos tienen esta capacidad en algún grado. Además, aunque la sensibilidad humana al campo magnético de la Tierra sigue siendo una cuestión abierta, hay pruebas indiscutibles de la presencia en el cuerpo humano de magnetita y otros mecanismos que parecen ser paralelos a los encontrados en animales que sí muestran sensibilidad al campo magnético de la Tierra. Asimismo, la forma en que se ha estado desarrollando la investigación es coherente con la afirmación de El libro de Urantia de que la información específica que proporciona debe limitarse con respecto a lo que ya se ha descubierto, aunque se les da a los autores libertad para prever la «coordinación de hechos y observaciones conocidos o por conocerse». [^10]
+Aunque obviamente no se ha dicho la última palabra sobre el tema de la megnetorecepción, algunas cosas han quedado bien establecidas. Una de ellas es que muchos animales son sensibles al campo magnético de la Tierra y pueden utilizar esta sensibilidad para orientarse. Estos hallazgos respaldan cada vez más la afirmación de _El Libro de Urantia_ de que todos los organismos tienen esta capacidad en algún grado. Además, aunque la sensibilidad humana al campo magnético de la Tierra sigue siendo una cuestión abierta, hay pruebas indiscutibles de la presencia en el cuerpo humano de magnetita y otros mecanismos que parecen ser paralelos a los encontrados en animales que sí muestran sensibilidad al campo magnético de la Tierra. Asimismo, la forma en que se ha estado desarrollando la investigación es coherente con la afirmación de _El Libro de Urantia_ de que la información específica que proporciona debe limitarse con respecto a lo que ya se ha descubierto, aunque se les da a los autores libertad para prever la «coordinación de hechos y observaciones conocidos o por conocerse». [^10]
 
 
 
@@ -195,11 +210,11 @@ http://icb.oxfordjournals.org/cgi/content/abstract/31/1/169
 
 **Libro de Urantia: 36:5.2,5,5**
 
-> Los siete espíritus ayudantes de la mente{2} reciben nombres que equivalen a las designaciones siguientes: intuición, comprensión, valentía, conocimiento, consejo, adoración y sabiduría. Estos espíritus de la mente envían su influencia a todos los mundos habitados como un impulso diferencial, buscando cada uno de ellos la capacidad de recepción para manifestarse, independientemente por completo del grado de receptividad y de la oportunidad para funcionar que hayan conseguido sus compañeros.
+> Los siete espíritus ayudantes de la mente reciben nombres que equivalen a las designaciones siguientes: intuición, comprensión, valentía, conocimiento, consejo, adoración y sabiduría. Estos espíritus de la mente envían su influencia a todos los mundos habitados como un impulso diferencial, buscando cada uno de ellos la capacidad de recepción para manifestarse, independientemente por completo del grado de receptividad y de la oportunidad para funcionar que hayan conseguido sus compañeros.
 > 
-> Los siete espíritus ayudantes de la mente{2} reciben nombres que equivalen a las designaciones siguientes: intuición, comprensión, valentía, conocimiento, consejo, adoración y sabiduría. Estos espíritus de la mente envían su influencia a todos los mundos habitados como un impulso diferencial, buscando cada uno de ellos la capacidad de recepción para manifestarse, independientemente por completo del grado de receptividad y de la oportunidad para funcionar que hayan conseguido sus compañeros.
+> Los siete espíritus ayudantes de la mente reciben nombres que equivalen a las designaciones siguientes: intuición, comprensión, valentía, conocimiento, consejo, adoración y sabiduría. Estos espíritus de la mente envían su influencia a todos los mundos habitados como un impulso diferencial, buscando cada uno de ellos la capacidad de recepción para manifestarse, independientemente por completo del grado de receptividad y de la oportunidad para funcionar que hayan conseguido sus compañeros.
 > 
-> Los siete espíritus ayudantes de la mente{2} reciben nombres que equivalen a las designaciones siguientes: intuición, comprensión, valentía, conocimiento, consejo, adoración y sabiduría. Estos espíritus de la mente envían su influencia a todos los mundos habitados como un impulso diferencial, buscando cada uno de ellos la capacidad de recepción para manifestarse, independientemente por completo del grado de receptividad y de la oportunidad para funcionar que hayan conseguido sus compañeros. ([LU 36:5.2,5](/es/The_Urantia_Book/36#p5_2))
+> Los siete espíritus ayudantes de la mente reciben nombres que equivalen a las designaciones siguientes: intuición, comprensión, valentía, conocimiento, consejo, adoración y sabiduría. Estos espíritus de la mente envían su influencia a todos los mundos habitados como un impulso diferencial, buscando cada uno de ellos la capacidad de recepción para manifestarse, independientemente por completo del grado de receptividad y de la oportunidad para funcionar que hayan conseguido sus compañeros. ([LU 36:5.2,5](/es/The_Urantia_Book/36#p5_2))
 
 ### Recursos adicionales
 
@@ -303,6 +318,21 @@ http://www.biophysics.uwa.edu.au/magnetite.html
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 <br>
 
@@ -311,11 +341,11 @@ http://www.biophysics.uwa.edu.au/magnetite.html
 [^1]: http://en.wikipedia.org/wiki/Magnetoception
 [^2]: http://en.wikipedia.org/wiki/Electromagnetism
 [^3]: http://wrt-intertext.syr.edu/ll2/samie.html
-[^4]: El libro de Urantia [LU 101:4.2](/es/The_Urantia_Book/101#p4_2)
+[^4]: _El Libro de Urantia_ [LU 101:4.2](/es/The_Urantia_Book/101#p4_2)
 [^5]: http://www.admissions.caltech.edu/about/milestones
 [^6]: http://www.affs.org/html/biomagnetism.html
 [^7]: http://www.abc.net.au/science/news/stories/s154625.htm
 [^8]: Howard C. Hughes: Sensory Exotica: un mundo más allá de la experiencia humana; 1999, cap. 10
 [^9]: http://www.abc.net.au/science/news/stories/s154625.htm
-[^10]: El libro de Urantia 101:4.5 [LU 101:4.5](/es/The_Urantia_Book/101#p4_5)
+[^10]: _El Libro de Urantia_ 101:4.5 [LU 101:4.5](/es/The_Urantia_Book/101#p4_5)
 

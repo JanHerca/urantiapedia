@@ -209,7 +209,7 @@ Consider the paragraph above along with this declaration by Jesus:
 
 > But paganized and socialized Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master’s life on earth. A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment. ([UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
 
-Consider that _Urantia Book_ culture has also become sect divided as a consequence of the failure to preserve the original organizational relationship between Urantia Foundation and Urantia Brotherhood. Consider the [Unity Treatise](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/#unity) as an expression of the seriousness of this problem and how the cutoff date for restoring the relationship is the date of the first full solar eclipse over Bald Knob Cross of Peace.
+Consider that _Urantia Book_ culture has also become sect divided as a consequence of the failure to preserve the original organizational relationship between Urantia Foundation and Urantia Brotherhood. Consider the [Unity Treatise](/en/article/Halbert_Katzen/Prophecy_and_signs_of_the_times) as an expression of the seriousness of this problem and how the cutoff date for restoring the relationship is the date of the first full solar eclipse over Bald Knob Cross of Peace.
 
 > As the original teachings of Jesus penetrated the Occident, they became Occidentalized, and as they became Occidentalized, they began to lose their potentially universal appeal to all races and kinds of men. **Christianity, today, has become a religion well adapted to the social, economic, and political mores of the white races. It has long since ceased to be the religion of Jesus**, although it still valiantly portrays a beautiful religion about Jesus to such individuals as sincerely seek to follow in the way of its teaching. It has glorified Jesus as the Christ, the Messianic anointed one from God, but has largely forgotten the Master’s personal gospel: the Fatherhood of God and the universal brotherhood of all men. ([UB 98:7.11](/en/The_Urantia_Book/98#p7_11))
 
@@ -243,15 +243,15 @@ Paper 43: The Constellations; Section 5. The Edentia Fathers since the Lucifer R
 
 > The rotation of the Most Highs on Edentia was suspended at the time of the Lucifer rebellion. We now have the same rulers who were on duty at that time. We infer that no change in these rulers will be made until Lucifer and his associates are finally disposed of.
 > 
-> The present government of the constellation, however, has been expanded to include twelve Sons of the Vorondadek order. These twelve are as follows: … ([UB 43:5.1](/en/The_Urantia_Book/43#p5_1))
-
+> The present government of the constellation, however, has been expanded to include twelve Sons of the Vorondadek order. These twelve are as follows: …
+> 
 > 8. The Most High emergency administrator, the Vorondadek Son charged with the task of adapting the **emergency enactments** of the Norlatiadek legislature to the rebellion-isolated worlds of Satania.
->
+> 
 > . . .
->
+> 
 > 10. The Most High judge-advocate, the head of the **emergency tribunal** devoted to the adjustment of the special problems of Norlatiadek growing out of the confusion consequent upon the Satania rebellion.
 >
-> 12. The Most High director, the president of the **emergency council** of Edentia. All personalities assigned to Norlatiadek because of the Satania upheaval constitute the emergency council, and their presiding officer is a Vorondadek Son of extraordinary experience. [UB 43:5.10-14](/en/The_Urantia_Book/43#p5_10)
+> 12. The Most High director, the president of the **emergency council** of Edentia. All personalities assigned to Norlatiadek because of the Satania upheaval constitute the emergency council, and their presiding officer is a Vorondadek Son of extraordinary experience. [UB 43:5.1-14](/en/The_Urantia_Book/43#p5_1)
 
 ### Archangels
 

@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet tema--gris claro aclarar-3 px-2">© 2009 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Preparado por Halbert Katzen, J.D. con la ayuda de Chris Halvorson, Ph.D.
 [Actualizado 4/10/09]
@@ -19,15 +34,15 @@ Preparado por Halbert Katzen, J.D. con la ayuda de Chris Halvorson, Ph.D.
 <img src="/image/article/Halbert_Katzen/Tychos_Nova/nova.jpg">
 </figure>
 
-El libro de Urantia afirma que «la más reciente de las grandes erupciones cósmicas... fue la extraordinaria explosión de una estrella doble, cuya luz llegó a la Tierra en el año 1572 d. C. Esta conflagración fue tan intensa que la explosión fue claramente visible a plena luz del día». La explosión a la que se refiere El libro de Urantia se conoce como la Nova de Tycho Brahe. No fue hasta varias décadas después de la publicación de El libro de Urantia que los astrónomos determinaron que, con toda probabilidad, una relación estelar doble (o binaria), en la que una estrella acaba acrecentando una cantidad crítica de materia de la otra estrella, es responsable de la explosión de esta supernova. En 2004, los investigadores anunciaron que creían haber descubierto el remanente de la estrella compañera que dio origen a esta explosión.
+_El Libro de Urantia_ afirma que «la más reciente de las grandes erupciones cósmicas... fue la extraordinaria explosión de una estrella doble, cuya luz llegó a la Tierra en el año 1572 d. C. Esta conflagración fue tan intensa que la explosión fue claramente visible a plena luz del día». La explosión a la que se refiere _El Libro de Urantia_ se conoce como la Nova de Tycho Brahe. No fue hasta varias décadas después de la publicación de _El Libro de Urantia_ que los astrónomos determinaron que, con toda probabilidad, una relación estelar doble (o binaria), en la que una estrella acaba acrecentando una cantidad crítica de materia de la otra estrella, es responsable de la explosión de esta supernova. En 2004, los investigadores anunciaron que creían haber descubierto el remanente de la estrella compañera que dio origen a esta explosión.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## Descripción general de Nova de Tycho
 
 El 11 de noviembre de 1572, el científico danés Tycho Brahe estaba estudiando el cielo nocturno cuando notó algo extraño: una estrella que brillaba más que Venus. Durante un período de meses, esta estrella aumentó lentamente su brillo, incluso durante un período fue visible en el cielo diurno, y luego comenzó a menguar. Finalmente, después de un año y medio, esta inusual estrella ya no era visible a simple vista. A fines del siglo XIX, los científicos pudieron determinar a partir de los registros que Brahe hizo de sus observaciones que este patrón inusual de luminosidad se debía a una supernova, la explosión masiva de una estrella. Sin embargo, hasta la década de 1970 hubo un conocimiento limitado de los orígenes de este evento de supernova, a menudo denominado Nova de Tycho, que ocurrió en 1572.
 
-El libro de Urantia, publicado en 1955, hace una afirmación muy específica sobre la Nova de Tycho en relación con un tema sobre el que los astrónomos aún no habían comenzado a especular: sus orígenes. El libro de Urantia afirma en una sección titulada Nuestros asociados estelares:
+El libro de Urantia, publicado en 1955, hace una afirmación muy específica sobre la Nova de Tycho en relación con un tema sobre el que los astrónomos aún no habían comenzado a especular: sus orígenes. _El Libro de Urantia_ afirma en una sección titulada Nuestros asociados estelares:
 
 > Cuando los soles demasiado grandes son expulsados de una rueda nebular madre, pronto se desintegran o forman estrellas dobles. Todos los soles son originalmente verdaderamente gaseosos, aunque más tarde pueden existir transitoriamente en un estado semilíquido. Cuando su sol alcanzó este estado cuasi-líquido de presión de supergas, no era lo suficientemente grande como para dividirse ecuatorialmente, siendo este un tipo de formación de estrellas dobles.
 > 
@@ -52,7 +67,7 @@ El Libro de Urantia se adelantó a la ciencia más de una década cuando afirmó
 
 ## Informe Nova de Tycho
 
-La mayoría de los informes de UBtheNEWS implican corroboraciones de información encontrada en el tercio medio de El libro de Urantia, La historia de Urantia [Tierra], donde se relata la historia de nuestro planeta. Este informe, sin embargo, se relaciona con un comentario hecho anteriormente en el libro, que describe extensamente aspectos de nuestro «universo local», nuestra sección local de la galaxia. El capítulo 41, Aspectos físicos del universo local, hace los siguientes comentarios sobre los soles en la sección 3, Nuestros asociados estelares:
+La mayoría de los informes de UBtheNEWS implican corroboraciones de información encontrada en el tercio medio de _El libro de Urantia_, La historia de Urantia [Tierra], donde se relata la historia de nuestro planeta. Este informe, sin embargo, se relaciona con un comentario hecho anteriormente en el libro, que describe extensamente aspectos de nuestro «universo local», nuestra sección local de la galaxia. El capítulo 41, Aspectos físicos del universo local, hace los siguientes comentarios sobre los soles en la sección 3, Nuestros asociados estelares:
 
 > Cuando una rueda madre nebular expulsa soles demasiado grandes, éstos se rompen pronto o forman estrellas dobles. Todos los soles son al principio verdaderamente gaseosos, aunque más tarde pueden existir transitoriamente en estado semilíquido. Cuando vuestro Sol alcanzó este estado casi líquido de presión supergaseosa, no era lo suficientemente grande como para partirse por el ecuador, siendo éste un tipo de formación de las estrellas dobles.
 > 
@@ -60,7 +75,7 @@ La mayoría de los informes de UBtheNEWS implican corroboraciones de informació
 > 
 > Entre las mayores erupciones cósmicas de Orvonton, la más reciente fue la explosión extraordinaria de una estrella doble, cuya luz llegó a Urantia en el año 1572. Esta conflagración fue tan intensa que la explosión era claramente visible en pleno día. ([LU 41:3.3-5](/es/The_Urantia_Book/41#p3_3))
 
-Para apreciar cómo esta declaración, publicada en El libro de Urantia en 1955, se adelantó a la ciencia, es necesario adquirir tanto una comprensión general de cómo se ha desarrollado la ciencia en relación con las supernovas como una comprensión específica de cómo esta historia de la ciencia se relaciona con la Nova de Tycho, la explosión de supernova de 1572 a la que se refiere El libro de Urantia. Pero, antes de aprender sobre la historia de las supernovas en general y la Nova de Tycho en particular, comenzaremos por definir qué es una estrella doble. Las siguientes citas de Wikipedia proporcionan una descripción básica de una estrella doble e indican cómo «doble» y «binario» se usan indistintamente en referencia a este suceso:
+Para apreciar cómo esta declaración, publicada en _El Libro de Urantia_ en 1955, se adelantó a la ciencia, es necesario adquirir tanto una comprensión general de cómo se ha desarrollado la ciencia en relación con las supernovas como una comprensión específica de cómo esta historia de la ciencia se relaciona con la Nova de Tycho, la explosión de supernova de 1572 a la que se refiere El libro de Urantia. Pero, antes de aprender sobre la historia de las supernovas en general y la Nova de Tycho en particular, comenzaremos por definir qué es una estrella doble. Las siguientes citas de Wikipedia proporcionan una descripción básica de una estrella doble e indican cómo «doble» y «binario» se usan indistintamente en referencia a este suceso:
 
 > Una estrella doble es cuando dos estrellas aparecen cerca una de la otra como se ve desde la Tierra.
 > 
@@ -151,7 +166,7 @@ En octubre de 2004, una carta en Nature informó del descubrimiento de una estre
 <figcaption>Imagen de rayos X de la SN 1572, el remanente de la Nova de Tycho</figcaption>
 </figure>
 
-Los informes de investigación de 2004 y 2005 indican que los astrónomos creen haber encontrado a la compañera. Estos recientes avances, casi cincuenta años después de la afirmación de El libro de Urantia de que la Nova de Tycho se originó como una estrella doble, brindan apoyo adicional a la creencia previa y ampliamente sostenida por los astrónomos de que la Nova de Tycho de hecho tuvo un origen estelar doble.
+Los informes de investigación de 2004 y 2005 indican que los astrónomos creen haber encontrado a la compañera. Estos recientes avances, casi cincuenta años después de la afirmación de _El Libro de Urantia_ de que la Nova de Tycho se originó como una estrella doble, brindan apoyo adicional a la creencia previa y ampliamente sostenida por los astrónomos de que la Nova de Tycho de hecho tuvo un origen estelar doble.
 
 Los investigadores del Grupo Isaac Newton explican los nuevos hallazgos de esta manera:
 
@@ -175,7 +190,7 @@ Los investigadores del Grupo Isaac Newton explican los nuevos hallazgos de esta 
 > 
 > Los resultados de esta investigación, liderada por Pilar Ruiz-Lapuente de la Universidad de Barcelona, se publicaron en el número del 28 de octubre de Nature. Los coautores son Fernando Comeron (ESO), Javier Méndez (Universidad de Barcelona e ING), Ramón Canal (Universidad de Barcelona), Stephen Smartt (IoA, Cambridge), Alex Filippenko (Universidad de California, Berkeley), Robert Kurucz (Centro Harvard-Smithsonian de Astrofísica), Ryan Chornock y Ryan Foley (Universidad de California, Berkeley), Vallery Stanishev (Universidad de Estocolmo) y Rodrigo Ibata (Observatorio de Estrasburgo). [^14]
 
-La afirmación de El libro de Urantia en 1955 sobre el origen estelar doble de SN 1572, la Nova de Tycho, se adelantó casi veinte años a la apreciación contemporánea de la comunidad científica de que las supernovas de este tipo se originan como estrellas dobles. La investigación publicada en 2004 y 2005 establece además que la Nova de Tycho ha sido identificada apropiadamente como una supernova de Tipo Ia.
+La afirmación de _El Libro de Urantia_ en 1955 sobre el origen estelar doble de SN 1572, la Nova de Tycho, se adelantó casi veinte años a la apreciación contemporánea de la comunidad científica de que las supernovas de este tipo se originan como estrellas dobles. La investigación publicada en 2004 y 2005 establece además que la Nova de Tycho ha sido identificada apropiadamente como una supernova de Tipo Ia.
 
 ## Tycho's Nova Enlaces adicionales
 
@@ -220,6 +235,21 @@ Citas del libro de Urantia:
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 <br>
 

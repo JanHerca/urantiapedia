@@ -29,7 +29,7 @@ _By Halbert Katzen J.D._
 
 ## Introductory Remarks
 
-This inquiry explores the relationship between Melchizedek and the Jewish Messiah, particularly with respect to how _Jewish Messiah_ is used in _The Urantia Book_. Passages from the Bible, the Book of Enoch, and the Dead Sea Scrolls are brought together to facilitate this study.![](/wp-content/uploads/2021/03/AriseShine-1024x653.jpeg)
+This inquiry explores the relationship between Melchizedek and the Jewish Messiah, particularly with respect to how _Jewish Messiah_ is used in _The Urantia Book_. Passages from the Bible, the Book of Enoch, and the Dead Sea Scrolls are brought together to facilitate this study.
 
 This subTopical Study continues work I started in 2017, which led to creating the Topical Study: [Prophecy and “signs of the times,”](/en/article/Halbert_Katzen/Prophecy_and_signs_of_the_times) Research and perspectives published by Ernest Moyer inspired this more recent effort. While Ernest’s personal perspective on the topic is just that, his research and structuring of questions certainly did make my work easier and more enjoyable. Some of that material is referenced in the Additional Resources section.
 
@@ -171,7 +171,7 @@ The whole section on The Second Isaiah is, of course, very much worth reviewing.
 
 [**Daniel 7:13,14**](/en/Bible/Daniel/7#v13)
 
-> 13 “In my vision at night I looked, and there before me was one like a son of man, coming with the clouds of heaven. He approached the Ancient of Days and was led into his presence. 14 He was given authority, glory and sovereign power; all nations and peoples of every language worshiped him. His dominion is an everlasting dominion that will not pass away, and his kingdom is one that will never be destroyed.
+> <sup><small>13</sup></small> “In my vision at night I looked, and there before me was one like a son of man, coming with the clouds of heaven. He approached the Ancient of Days and was led into his presence. 14 He was given authority, glory and sovereign power; all nations and peoples of every language worshiped him. His dominion is an everlasting dominion that will not pass away, and his kingdom is one that will never be destroyed.
 
 [**Daniel 12:1-4**](/en/Bible/Daniel/12#v1)
 
@@ -190,7 +190,7 @@ The whole section on The Second Isaiah is, of course, very much worth reviewing.
 > And those who turn many to righteousness
 > Like the stars forever and ever.
 
-[**Mark 13:24-27**](/en/Bible/Matthew/13#v24)
+[**Mark 13:24-27**](/en/Bible/Mark/13#v24)
 
 > <sup><small>24</sup></small>  “But in those days, following that distress, “ ‘the sun will be darkened, and the moon will not give its light;
 > 

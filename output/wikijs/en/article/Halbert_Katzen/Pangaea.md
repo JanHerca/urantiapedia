@@ -69,7 +69,7 @@ _The Urantia Book_ states:
 > 700,000,000 years ago Urantia was approaching the ripening of conditions suitable for the support of life. The continental land drift continued; increasingly the ocean penetrated the land as long fingerlike seas providing those shallow waters and sheltered bays which are so suitable as a habitat for marine life.
 > 
 > 650,000,000 years ago witnessed the further separation of the land masses and, in consequence, a further extension of the continental seas. And these waters were rapidly attaining that degree of saltiness which was essential to Urantia life. (<a id="a70_245"></a>[UB 57:8.23-25](/en/The_Urantia_Book/57#p8_23))
-> 
+
 > 500,000,000 years ago [ 1 billion years ago based on current radiometric dating] primitive marine vegetable life was well established on Urantia. Greenland and the arctic land mass, together with North and South America, were beginning their long and slow westward drift. **Africa moved slightly south, creating an east and west trough, the Mediterranean basin, between itself and the mother body. Antarctica, Australia, and the land indicated by the islands of the Pacific broke away on the south and east and have drifted far away since that day.** (<a id="a72_554"></a>[UB 58:4.3](/en/The_Urantia_Book/58#p4_3))
 
 > **The Continental Drift**
@@ -204,7 +204,7 @@ _The Urantia Book_ provides the following description of the Garden of Eden and 
 
 > [A]lmost four thousand years after Adam left the Garden . ..., in connection with the violent activity of the surrounding volcanoes and the submergence of the Sicilian land bridge to Africa, the eastern floor of the Mediterranean Sea sank, carrying down beneath the waters the whole of the Edenic peninsula. Concomitant with this vast submergence the coast line of the eastern Mediterranean was greatly elevated. And this was the end of the most beautiful natural creation that Urantia has ever harbored. The sinking was not sudden, several hundred years being required completely to submerge the entire peninsula. (<a id="a204_618"></a>[UB 73:7.1](/en/The_Urantia_Book/73#p7_1))
 
-> The Adamic family grounds embraced a little over five square miles. Immediately surrounding this homesite, provision had been made for the care of more than three hundred thousand of the pure-line offspring. (UB 74:6.1 <a id="a206_221"></a>[UB 74:6.1](/en/The_Urantia_Book/74#p6_1))
+> The Adamic family grounds embraced a little over five square miles. Immediately surrounding this homesite, provision had been made for the care of more than three hundred thousand of the pure-line offspring. (<a id="a206_221"></a>[UB 74:6.1](/en/The_Urantia_Book/74#p6_1))
 
 [Figure 1](#Figure_1) shows that there is only one location along the eastern Mediterranean that could fit this description. Figure 2 reveals details that more fully demonstrate how well this area matches up to _The Urantia Book_'s description of the peninsula. The area to consider is, of course, between Cyprus and the eastern coast of the Mediterranean. The raised areas correspond to the description of the mountains that surrounded the coastline of the peninsula. See the Garden of Eden Report for a full analysis of how well this area matches up in terms of size and distance with _The Urantia Book_'s description.
 

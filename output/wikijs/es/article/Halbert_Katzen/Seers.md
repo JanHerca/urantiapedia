@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet tema--gris claro aclarar-3 px-2">© 2023 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Por Halbert Katzen J.D._
 
@@ -16,7 +31,7 @@ _Seer_ y _seers_ se utilizan cinco veces cada uno. A diferencia de los usos en
 
 ## Vidente
 
-> El antiguo vidente dijo: «¡He aquí!, camina a mi lado, y no lo veo; continúa también su camino, pero no lo percibo»{21}. Podemos observar constantemente las obras de Dios, podemos ser muy conscientes de las pruebas materiales de su comportamiento majestuoso, pero raras veces podemos contemplar la manifestación visible de su divinidad, y ni siquiera percibir la presencia de su espíritu delegado que reside en los hombres. ([LU 1:3.2](/es/The_Urantia_Book/1#p3_2))
+> El antiguo vidente dijo: «¡He aquí!, camina a mi lado, y no lo veo; continúa también su camino, pero no lo percibo». Podemos observar constantemente las obras de Dios, podemos ser muy conscientes de las pruebas materiales de su comportamiento majestuoso, pero raras veces podemos contemplar la manifestación visible de su divinidad, y ni siquiera percibir la presencia de su espíritu delegado que reside en los hombres. ([LU 1:3.2](/es/The_Urantia_Book/1#p3_2))
 
 > [**Job 9**](/es/Bible/Job/9) Entonces Job respondió y dijo:
 > <sup><small>2</small></sup> Sé que es así en verdad: pero ¿cómo podría el hombre ser justo con Dios?
@@ -30,7 +45,7 @@ _Seer_ y _seers_ se utilizan cinco veces cada uno. A diferencia de los usos en
 > <sup><small>10</small></sup> El cual hace cosas grandes e inescrutables, y maravillas sin número.
 > <sup><small>11</small></sup> He aquí, él pasa junto a mí, y no lo veo; él también pasa, pero yo no lo percibo.
 
-> Hacéis bien en amarlos, pero no debéis adorarlos; los ángeles no son objetos de adoración. Cuando vuestro vidente «se postró a los pies del ángel para adorarlo», el gran serafín Loyalatia le dijo: «Procura no hacerlo; soy un servidor como tú y los de tus razas, y todos habéis recibido el mandato de adorar a Dios»{6}. ([LU 38:2.5](/es/The_Urantia_Book/38#p2_5))
+> Hacéis bien en amarlos, pero no debéis adorarlos; los ángeles no son objetos de adoración. Cuando vuestro vidente «se postró a los pies del ángel para adorarlo», el gran serafín Loyalatia le dijo: «Procura no hacerlo; soy un servidor como tú y los de tus razas, y todos habéis recibido el mandato de adorar a Dios». ([LU 38:2.5](/es/The_Urantia_Book/38#p2_5))
 
 > [**Apocalipsis 19:**](/es/Bible/Revelation/19)
 > _Las bodas del Cordero_
@@ -44,7 +59,7 @@ _Seer_ y _seers_ se utilizan cinco veces cada uno. A diferencia de los usos en
 > <sup><small>8</small></sup> Yo, Juan, vi y oí estas cosas. Y cuando oí y vi, me postré para adorar a los pies del ángel que me mostraba estas cosas.
 > <sup><small>9</small></sup> Entonces me dijo: «Mira, no hagas eso. Porque yo soy consiervo tuyo, y de tus hermanos los profetas, y de los que guardan las palabras de este libro. Adora a Dios.»  <sup><small>10</small></sup> Y me dijo: «No selles las palabras de la profecía de este libro, porque el tiempo está cerca.  <sup><small>11</small></sup> El que es injusto, sea injusto todavía; el que es inmundo, sea inmundo todavía; el que es justo, practique la justicia todavía; el que es santo, santifíquese todavía.»
 
-> Ésta es la misma Tierra renovada, el avanzado estado planetario, que el antiguo vidente imaginó cuando escribió: «‘Porque igual que los nuevos cielos y la nueva Tierra que yo crearé perdurarán ante mí, así sobreviviréis vosotros y vuestros hijos; y sucederá que, desde una Luna nueva hasta la otra y desde un sábado hasta el otro, todo el género humano vendrá a postrarse en adoración ante mí’, dice el Señor»{14}. ([LU 52:7.12](/es/The_Urantia_Book/52#p7_12))
+> Ésta es la misma Tierra renovada, el avanzado estado planetario, que el antiguo vidente imaginó cuando escribió: «‘Porque igual que los nuevos cielos y la nueva Tierra que yo crearé perdurarán ante mí, así sobreviviréis vosotros y vuestros hijos; y sucederá que, desde una Luna nueva hasta la otra y desde un sábado hasta el otro, todo el género humano vendrá a postrarse en adoración ante mí’, dice el Señor». ([LU 52:7.12](/es/The_Urantia_Book/52#p7_12))
 
 > [**Isaías 66:**](/es/Bible/Isaiah/66)
 > <sup><small>7</small></sup> “Antes de que ella estuviera de parto, dio a luz;
@@ -87,7 +102,7 @@ _Seer_ y _seers_ se utilizan cinco veces cada uno. A diferencia de los usos en
 
 De [Wiki](https://en.wikipedia.org/wiki/Instruction_of_Amenemope):
 
-> _**Instrucción de Amenemope**_ (también llamada _Instrucciones de Amenemopet_, _Sabiduría de Amenemopet_) es una obra literaria compuesta en el Antiguo Egipto, muy probablemente durante el Período Ramesida (ca. 1300–1075 a. C.); contiene treinta capítulos de consejos para una vida exitosa, aparentemente escritos por el escriba [Amenemope hijo de Kanakht](https://en.wikipedia.org/wiki/Amenemope_(author) «Amenemope (autor)») como legado para su hijo. Un producto característico de la «Era de la Piedad Personal» del Imperio Nuevo, la obra reflexiona sobre las cualidades internas, las actitudes y los comportamientos necesarios para una vida feliz frente a circunstancias sociales y económicas cada vez más difíciles. Es ampliamente considerada como una de las obras maestras de la literatura de sabiduría del antiguo Cercano Oriente y ha sido de particular interés para los eruditos modernos debido a su relación con el [Libro de Proverbios](https://en.wikipedia.org/wiki/Book_of_Proverbs «Libro de Proverbios» bíblico.   …
+> _**Instrucción de Amenemope**_ (también llamada _Instrucciones de Amenemopet_, _Sabiduría de Amenemopet_) es una obra literaria compuesta en el Antiguo Egipto, muy probablemente durante el Período Ramesida (ca. 1300–1075 a. C.); contiene treinta capítulos de consejos para una vida exitosa, aparentemente escritos por el escriba [Amenemope hijo de Kanakht](https://en.wikipedia.org/wiki/Amenemope_(author) "Amenemope (autor)") como legado para su hijo. Un producto característico de la «Era de la Piedad Personal» del Imperio Nuevo, la obra reflexiona sobre las cualidades internas, las actitudes y los comportamientos necesarios para una vida feliz frente a circunstancias sociales y económicas cada vez más difíciles. Es ampliamente considerada como una de las obras maestras de la literatura de sabiduría del antiguo Cercano Oriente y ha sido de particular interés para los eruditos modernos debido a su relación con el [Libro de Proverbios](https://en.wikipedia.org/wiki/Book_of_Proverbs "Libro de Proverbios").   …
 > 
 > Fue \[Adolph\] Erman quien usó _Amenemope_ para corregir una lectura difícil en el texto de Proverbios 22:20, donde la palabra hebrea _shilshom_ («hace tres días») parecía ser un error de copista que podía traducirse significativamente solo con dificultad. Erman señaló que sustituir la palabra similar _sheloshim_ («treinta») no solo tenía sentido en el contexto, sino que producía el siguiente paralelo cercano entre los dos textos, con los ahora restaurados «treinta dichos» en Proverbios 22:20 correspondientes exactamente a los treinta capítulos numerados en _Amenemope_:
 > 
@@ -107,7 +122,7 @@ Cabe destacar una publicación de 1933 de James Henry Breasted titulada El amane
 > 
 > «El contraste es obviamente entre ‘las palabras de los hombres’ y ‘los actos de Dios’, y cuando se afirma que ambos ‘divergen’ el significado evidentemente es ‘el uno del otro’. Así pues, tenemos aquí en su forma más antigua el proverbio mundial: ‘El hombre propone, Dios dispone’». (págs. 320-330)
 
-> Pero quinientos años de soberanía por parte de unos gobernantes extranjeros eran demasiados incluso para los pacientes y resignados judíos. Los profetas y los sacerdotes empezaron a exclamar: «¿Hasta cuándo, oh Señor, hasta cuándo?»{79} Cuando los judíos honrados indagaban en las Escrituras, su confusión se volvía aún más profunda. Un antiguo vidente había prometido que Dios protegería y liberaría a su «pueblo elegido»{80}. Amós había amenazado con que Dios abandonaría a Israel a menos que restablecieran sus criterios de rectitud nacional{81}. El escriba del Deuteronomio había descrito la Gran Elección —entre el bien y el mal, entre la bendición y la maldición{82}. El primer Isaías había predicado sobre un rey liberador benéfico{83}. Jeremías había proclamado una era de rectitud interior —la alianza escrita en las tablillas del corazón{84}. El segundo Isaías había hablado de la salvación por medio del sacrificio y la redención{85}. Ezequiel había proclamado la liberación a través del servicio consagrado{86}, y Esdras había prometido la prosperidad mediante la observancia de la ley{87}. Pero a pesar de todo esto, continuaban siendo esclavos y la liberación se retrasaba. Daniel presentó entonces el drama de la «crisis» inminente —la destrucción de la gran estatua y el establecimiento inmediato del reinado perpetuo de la rectitud, el reino mesiánico{88}. ([LU 97:8.3](/es/The_Urantia_Book/97#p8_3))
+> Pero quinientos años de soberanía por parte de unos gobernantes extranjeros eran demasiados incluso para los pacientes y resignados judíos. Los profetas y los sacerdotes empezaron a exclamar: «¿Hasta cuándo, oh Señor, hasta cuándo?» Cuando los judíos honrados indagaban en las Escrituras, su confusión se volvía aún más profunda. Un antiguo vidente había prometido que Dios protegería y liberaría a su «pueblo elegido». Amós había amenazado con que Dios abandonaría a Israel a menos que restablecieran sus criterios de rectitud nacional. El escriba del Deuteronomio había descrito la Gran Elección —entre el bien y el mal, entre la bendición y la maldición. El primer Isaías había predicado sobre un rey liberador benéfico. Jeremías había proclamado una era de rectitud interior —la alianza escrita en las tablillas del corazón. El segundo Isaías había hablado de la salvación por medio del sacrificio y la redención. Ezequiel había proclamado la liberación a través del servicio consagrado, y Esdras había prometido la prosperidad mediante la observancia de la ley. Pero a pesar de todo esto, continuaban siendo esclavos y la liberación se retrasaba. Daniel presentó entonces el drama de la «crisis» inminente —la destrucción de la gran estatua y el establecimiento inmediato del reinado perpetuo de la rectitud, el reino mesiánico. ([LU 97:8.3](/es/The_Urantia_Book/97#p8_3))
 
 > **La visión de Daniel del Anciano de Días**
 > <sup><small>9</small></sup> Estuve mirando hasta que fueron puestos tronos, y se sentó un Anciano de días, cuyo vestido era blanco como la nieve, y el pelo de su cabeza como lana limpia; su trono como llama de fuego, y las ruedas de su cabeza, fuego ardiente.  <sup><small>10</small></sup> Un río de fuego procedía y salía de delante de él; millares de millares le servían, y millones de millones asistían delante de él; el juez se sentó, y los libros fueron abiertos.
@@ -134,7 +149,7 @@ Español> <sup><small>19</small></sup> Entonces tuve deseo de saber la verdad ac
 
 ### Historia evolutiva: curanderos vs. sacerdotes vs. artes negras
 
-> El chamán era el curandero de mayor categoría, el hombre fetiche de las ceremonias y la personalidad central en todas las prácticas de la religión evolutiva. En muchos grupos, el chamán estaba jerárquicamente por encima del jefe militar, señalando el comienzo del dominio de la iglesia sobre el Estado. El chamán actuaba a veces como sacerdote{0} e incluso como sacerdote-rey. Algunas tribus posteriores tuvieron al mismo tiempo a los chamanes-curanderos (videntes{1}) iniciales y a los chamanes-sacerdotes que aparecieron después. En muchos casos, el cargo de chamán se volvió hereditario. ([LU 90:1.1](/es/The_Urantia_Book/90#p1_1))
+> El chamán era el curandero de mayor categoría, el hombre fetiche de las ceremonias y la personalidad central en todas las prácticas de la religión evolutiva. En muchos grupos, el chamán estaba jerárquicamente por encima del jefe militar, señalando el comienzo del dominio de la iglesia sobre el Estado. El chamán actuaba a veces como sacerdote e incluso como sacerdote-rey. Algunas tribus posteriores tuvieron al mismo tiempo a los chamanes-curanderos (videntes) iniciales y a los chamanes-sacerdotes que aparecieron después. En muchos casos, el cargo de chamán se volvió hereditario. ([LU 90:1.1](/es/The_Urantia_Book/90#p1_1))
 
 > La antigua magia negra, tanto religiosa como laica, se llamaba magia blanca cuando la practicaban los sacerdotes, los videntes, los chamanes o los curanderos. Los que practicaban la magia negra eran calificados de brujos, magos, hechiceros, brujas, encantadores, nigromantes, prestidigitadores y adivinos. A medida que pasó el tiempo, todos estos pretendidos contactos con lo sobrenatural fueron clasificados como brujería o bien como chamanismo. ([LU 90:2.2](/es/The_Urantia_Book/90#p2_2))
 
@@ -153,3 +168,18 @@ Español> <sup><small>19</small></sup> Entonces tuve deseo de saber la verdad ac
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

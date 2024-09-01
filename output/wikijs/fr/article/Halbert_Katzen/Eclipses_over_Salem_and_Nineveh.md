@@ -212,7 +212,7 @@ Est-il temps de remplacer l'équipe ? Lucifer et Satan n'auraient pas pu exercer
 > 
 > Tous les mondes de Satania peuvent partager l’espérance de celui qui écrivit : « Néanmoins et selon Sa promesse, nous attendons de nouveaux cieux et une nouvelle terre où habite la droiture. Ainsi donc, bienaimés, voyant que vous espérez ces choses, veillez à ce qu’Il vous trouve en paix, sans tache et irréprochables. » ([LU 52:7.11-15](/fr/The_Urantia_Book/52#p7_11))
 
-> « « Toutefois, l’époque de la réapparition du Fils de l’Homme n’est connue que dans les conseils du Paradis. Les anges du ciel eux-mêmes ne savent pas quand elle aura lieu. Cependant, vous devriez comprendre ceci : quand l’évangile du royaume aura été proclamé dans le monde entier pour le salut de tous les peuples, et quand l’âge aura atteint sa plénitude, le Père vous enverra une autre effusion dispensationnelle, ou bien, alors, le Fils de l’Homme reviendra pour adjuger l’âge. » ([LU 176:2.5](/fr/The_Urantia_Book/176#p2_5))
+> « « Toutefois, l’époque de la réapparition du Fils de l’Homme n’est connue que dans les conseils du Paradis. Les anges du ciel eux-mêmes ne savent pas quand elle aura lieu. Cependant, vous devriez comprendre ceci : quand l’évangile du royaume aura été proclamé dans le monde entier pour le salut de tous les peuples, et **quand l’âge aura atteint sa plénitude, le Père vous enverra une autre effusion dispensationnelle, ou bien, alors, le Fils de l’Homme reviendra pour adjuger l’âge.** » ([LU 176:2.5](/fr/The_Urantia_Book/176#p2_5))
 
 ## Liens externes
 

@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet tema--gris claro aclarar-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 La ruta directa para abordar esta etimología es circular. Por supuesto, debemos comenzar por el principio, pero solo con el propósito de explicar por qué debemos comenzar por el final. Si no comenzamos con una comprensión de hacia dónde nos lleva esto, entonces el viaje al principio no será tan divertido. Quiero inspirar preguntas divertidas, no preguntas como «¿Ya nos estamos divirtiendo?» o «¿Cuándo llegaremos allí? ¡Tengo hambre!»
 
@@ -16,9 +31,9 @@ Así que, tomen este momento, mis benditos bebés, y amamante ustedes mismos en 
 
 > [ta:](https://www.etymonline.com/word/ta#etymonline_v_4287) 1772, «sonido infantil natural de gratitud».
 
-A modo de contexto, considere cómo El libro de Urantia hace referencia a Isaías 66 y luego lo que se dice poco antes de lo que se hace referencia:
+A modo de contexto, considere cómo _El Libro de Urantia_ hace referencia a Isaías 66 y luego lo que se dice poco antes de lo que se hace referencia:
 
-> Ésta es la misma Tierra renovada, el avanzado estado planetario, que el antiguo vidente imaginó cuando escribió: «‘Porque igual que los nuevos cielos y la nueva Tierra que yo crearé perdurarán ante mí, así sobreviviréis vosotros y vuestros hijos; y sucederá que, desde una Luna nueva hasta la otra y desde un sábado hasta el otro, todo el género humano vendrá a postrarse en adoración ante mí’, dice el Señor»{14}. ([LU 52:7.12](/es/The_Urantia_Book/52#p7_12))
+> Ésta es la misma Tierra renovada, el avanzado estado planetario, que el antiguo vidente imaginó cuando escribió: «‘Porque igual que los nuevos cielos y la nueva Tierra que yo crearé perdurarán ante mí, así sobreviviréis vosotros y vuestros hijos; y sucederá que, desde una Luna nueva hasta la otra y desde un sábado hasta el otro, todo el género humano vendrá a postrarse en adoración ante mí’, dice el Señor». ([LU 52:7.12](/es/The_Urantia_Book/52#p7_12))
 
 Ahora considere estos pasajes anteriores de Isaías 66:
 
@@ -90,3 +105,18 @@ Cuando se necesita más que un esfuerzo hecho por el hombre, cuando el equipo ne
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet tema--gris claro aclarar-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Melquisedec y los Rollos del Mar Muerto Prefacio
 
@@ -16,11 +31,11 @@ El idioma hebreo proporciona el terreno para las raíces etimológicas de _Melqu
 
 _Urantia_ significa Tierra. Etimológicamente, significa «Conocido en los cielos como (Uran) el “Mundo de la Cruz» (t, ia)”. Consideremos los orígenes de _Urano_: primer planeta descubierto que no era conocido en la antigüedad, llamado así por el dios del Cielo, esposo de Gea, la Tierra, del latín _Uranus_, del griego _Ouranos_ literalmente «cielo, el firmamento»; en la cosmología griega, el dios que personifica los cielos, padre de los titanes.
 
-Explicar las raíces etimológicas de Urantia no es la forma habitual de presentar un informe de UBtheNEWS. Pero, en este caso, el informe tiene todo que ver con la comprensión de nuestro lugar en los cielos. En concreto, El libro de Urantia dice que Melquisedec encarnó para fomentar el desarrollo evolutivo progresivo del monoteísmo en este mundo y para preparar mejor a la humanidad para la encarnación de Jesús, que aportaría una comprensión aún más avanzada de nuestro Padre Celestial.
+Explicar las raíces etimológicas de Urantia no es la forma habitual de presentar un informe de UBtheNEWS. Pero, en este caso, el informe tiene todo que ver con la comprensión de nuestro lugar en los cielos. En concreto, _El Libro de Urantia_ dice que Melquisedec encarnó para fomentar el desarrollo evolutivo progresivo del monoteísmo en este mundo y para preparar mejor a la humanidad para la encarnación de Jesús, que aportaría una comprensión aún más avanzada de nuestro Padre Celestial.
 
 El misterio de Melquisedec precedió a Jesús. Aunque Jesús habló de su propia naturaleza en un esfuerzo por aclarar malentendidos sobre sí mismo, nunca abordó el misterio de Melquisedec. Tal vez deberíamos preguntarnos por qué. Tal vez esta sea una pregunta extremadamente importante y oportuna.
 
-Cualesquiera que sean las razones que tuvo Jesús para no aclarar el misterio de Melquisedec, los autores de El libro de Urantia claramente tienen la intención de aclarar las cosas al revelar y revisar extensamente la historia de Melquisedec. De hecho, incluso tenemos un nombre de pila para distinguir al individuo en particular que apareció durante los tiempos de Abraham del «orden de Melquisedec».
+Cualesquiera que sean las razones que tuvo Jesús para no aclarar el misterio de Melquisedec, los autores de _El Libro de Urantia_ claramente tienen la intención de aclarar las cosas al revelar y revisar extensamente la historia de Melquisedec. De hecho, incluso tenemos un nombre de pila para distinguir al individuo en particular que apareció durante los tiempos de Abraham del «orden de Melquisedec».
 
 El primer nombre de Melquisedec es _Maquiventa_. He preparado etimologías de términos acuñados en _El libro de Urantia_ y también he compartido el trabajo etimológico de otros en LUannotated.com. Pero, hasta donde yo sé, nadie ha reunido nada antes sobre _Maquiventa_. La investigación no resultó sencilla en comparación con mis esfuerzos anteriores. Por lo tanto, se convirtió en un [Apéndice](https://ubannotated.com/main-menu/animated/topical-studies/machiventa-melchizedek/machiventa-etymology/) para este informe y un Estudio Temático en su propio rito.
 
@@ -30,13 +45,13 @@ Además, creo que es mejor explicar desde el principio que este informe de UBthe
 
 2) Por lo general, un nuevo descubrimiento o avance científico que apoya a _El libro de Urantia_ no aparece durante un período prolongado de tiempo que abarca la fecha de publicación de _El libro de Urantia_ en 1955. El Rollo del Mar Muerto sobre Melquisedec (11Q13, también conocido como 11QMel o 11QMelch) fue descubierto en 1956. Por lo tanto, esa parte no necesita más explicación. Pero la mayoría de los Rollos del Mar Muerto fueron descubiertos entre noviembre de 1946 y febrero de 1947. Parte del material de estos rollos se relaciona con un Jubileo de Jubileos y lo asocia con una figura del Mesías, lo que, a su vez, influye en las interpretaciones sobre la naturaleza y el papel futuro de Melquisedec.
 
-	Afortunadamente, incluso estos Rollos del Mar Muerto fueron descubiertos varios años después de que se encargaran las planchas para imprimir El libro de Urantia. El libro de Urantia ofrece alrededor de 45 páginas de historia y perspectiva directamente centradas en Melquisedec. Esta información está entrelazada con la cosmología presentada en el resto de sus 2097 páginas. Hay numerosos registros históricos disponibles para corroborar que este material fue escrito y preparado para la composición tipográfica mucho antes del descubrimiento de los Rollos del Mar Muerto. Aquí hay un [documento](https://ubhs.hosted-by-files.com/docs/U/uk19410628_kelloggw_03.pdf) que muestra que se hicieron arreglos en 1941 para la publicación de El libro de Urantia.
+	Afortunadamente, incluso estos Rollos del Mar Muerto fueron descubiertos varios años después de que se encargaran las planchas para imprimir El libro de Urantia. _El Libro de Urantia_ ofrece alrededor de 45 páginas de historia y perspectiva directamente centradas en Melquisedec. Esta información está entrelazada con la cosmología presentada en el resto de sus 2097 páginas. Hay numerosos registros históricos disponibles para corroborar que este material fue escrito y preparado para la composición tipográfica mucho antes del descubrimiento de los Rollos del Mar Muerto. Aquí hay un [documento](https://ubhs.hosted-by-files.com/docs/U/uk19410628_kelloggw_03.pdf) que muestra que se hicieron arreglos en 1941 para la publicación de El libro de Urantia.
 
 3) Un nuevo descubrimiento o avance científico que apoye a _El libro de Urantia_ debe ser algo impredecible o contrario a las opiniones académicas predominantes sostenidas en 1955, si la información ha de resultar creíble en comparación. Además, la fuerza de una corroboración está directamente relacionada con proporcionar información indiscutible y objetivamente verificable. Cuándo se descubrieron los Rollos del Mar Muerto es suficientemente objetivo y verificable. Cómo interpretar fragmentos de cartas es discutible. Interpretar y luego traducir lo que dicen los Rollos es subjetivo y a menudo está entrelazado con convicciones religiosas profundamente arraigadas. Por lo tanto, para encontrar algo corroborativo, se debe tener especial cuidado y las expectativas deben ajustarse en comparación con otros informes de UBtheNEWS.
 
 4) Este informe de UBtheNEWS está relacionado temáticamente con una serie de ayudas de estudio sobre profecía y señales de los tiempos. Cabe destacar que dos eclipses solares completos, con una diferencia de aproximadamente siete años, tienen trayectorias que se cruzan sobre la Cruz de la Paz de Bald Knob. Estos eclipses ocurren el 21 de agosto de 2017 y el 8 de abril de 2024. _El Libro de Urantia_ dice que el cumpleaños de Jesús es el 21 de agosto y que el 8 de abril es la fecha entre la crucifixión y la resurrección. Para una perspectiva adicional sobre cómo esto se relaciona con la profecía y las enseñanzas de _El Libro de Urantia_, vea [Los eclipses triunfan sobre los académicos de la profecía](https://ubannotated.com/main-menu/animated/more-about-and-by-halbert-katzen/eclipses-trump-prophecy-scholars/), [La profecía y las «señales de los tiempos»](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/) y [¡¿El Mesías judío es Melquisedec?!](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/the-jewish-messiah-is-melchizedek/)
 
-La redacción de este informe comenzó el 21 de diciembre de 2020. Las declaraciones realizadas en El libro de Urantia indican que 2021 es el 4000 aniversario de la encarnación de Maquiventa Melquisedec y su inicio para enseñar durante el período abrahámico. ¡Disfrute de este informe como una celebración de la transición milenaria 2020/2021!
+La redacción de este informe comenzó el 21 de diciembre de 2020. Las declaraciones realizadas en _El Libro de Urantia_ indican que 2021 es el 4000 aniversario de la encarnación de Maquiventa Melquisedec y su inicio para enseñar durante el período abrahámico. ¡Disfrute de este informe como una celebración de la transición milenaria 2020/2021!
 
 ## Melquisedec y los Rollos del Mar Muerto Resumen
 
@@ -61,25 +76,25 @@ La cantidad limitada de información en el Antiguo y el Nuevo Testamento lleva a
 1. ¿Melquisedec tuvo un origen puramente humano en lugar de ser algún tipo de ángel encarnado o pre-encarnación de Jesús?
 2. ¿Melquisedec regresará en relación con un Día del Juicio y/o Jubileo de Jubileos? (Véase también Estudio Temático: [¿Hay un juicio inminente de los vivos?](https://ubannotated.com/main-menu/animated/topical-studies/impending-judgement-of-the-living/))
 
-El libro de Urantia ofrece unas cincuenta páginas centradas directamente en aclarar el misterio de Melquisedec. Estas enseñanzas incluyen:
+_El Libro de Urantia_ ofrece unas cincuenta páginas centradas directamente en aclarar el misterio de Melquisedec. Estas enseñanzas incluyen:
 
 - Durante los tiempos de Abraham, un miembro de una orden de seres celestiales, que se decía que servía en tiempos de crisis o emergencia planetaria, encarnó durante 94 años y llegó a ser conocido como Melquisedec. (Melquisedec se refiere a la orden de seres celestiales; _Maquiventa_ es el nombre del ser específico que encarnó.)
 - Maquiventa Melquisedec encarnó para promover el monoteísmo, en general, y para ayudar a preparar a la humanidad para la llegada de Jesús. Y la encarnación de Jesús fue planeada con respecto a dónde se estaba desarrollando mejor la cultura monoteísta y qué tan bien podría propagarse desde un lugar determinado.
-- Maquiventa continuó trabajando con profetas y videntes después de su encarnación de 94 años, aunque El libro de Urantia no explica exactamente cómo se hizo esto.
+- Maquiventa continuó trabajando con profetas y videntes después de su encarnación de 94 años, aunque _El Libro de Urantia_ no explica exactamente cómo se hizo esto.
 - Las profecías del Antiguo Testamento se relacionan tanto con el advenimiento de un Mesías Maestro (Jesús) como con el advenimiento de un Mesías Gobernante: el regreso de Maquiventa Melquisedec. Su regreso marcará una restauración más completa de la administración celestial para nuestro planeta, planes que fueron interrumpidos por la rebelión de Lucifer. (Esto se relaciona con las enseñanzas del Antiguo Testamento acerca de un Día del Juicio y un Jubileo de Jubileos).
 - Lo que se presenta como conversaciones entre Dios y Abraham son en realidad un relato de la relación de Melquisedec con Abraham. Pero, en un esfuerzo por promover el nacionalismo judío, los líderes judíos emprendieron un proceso de edición de las referencias a Melquisedec, lo que condujo a gran parte de la confusión que tenemos hoy sobre este tema.
 
-El material sobre Melquisedec en los Rollos del Mar Muerto apoya interpretaciones que son generalmente consistentes con lo que enseña El libro de Urantia, y van más allá de lo que se ofrece en el Nuevo Testamento, que todavía deja espacio para que los eruditos especulen sobre el origen, la naturaleza y el destino de Maquiventa Melquisedec.
+El material sobre Melquisedec en los Rollos del Mar Muerto apoya interpretaciones que son generalmente consistentes con lo que enseña _El libro de Urantia_, y van más allá de lo que se ofrece en el Nuevo Testamento, que todavía deja espacio para que los eruditos especulen sobre el origen, la naturaleza y el destino de Maquiventa Melquisedec.
 
-Curiosamente, el Rollo del Mar Muerto que amplía especialmente la perspectiva sobre Melquisedec (11Q13 o 11QMelch) no hace referencia a los pasajes sobre él en Génesis y Salmos. Más bien, hace referencia a Isaías y Daniel y apoya la visión de él como un ser mesiánico asociado con un Día del Juicio y un Jubileo de Jubileos. Al hacerlo, 11Q13 aparece como generalmente consistente con la representación de Melquisedec en El libro de Urantia y apoya la idea de que él continuó trabajando con profetas y videntes.
+Curiosamente, el Rollo del Mar Muerto que amplía especialmente la perspectiva sobre Melquisedec (11Q13 o 11QMelch) no hace referencia a los pasajes sobre él en Génesis y Salmos. Más bien, hace referencia a Isaías y Daniel y apoya la visión de él como un ser mesiánico asociado con un Día del Juicio y un Jubileo de Jubileos. Al hacerlo, 11Q13 aparece como generalmente consistente con la representación de Melquisedec en _El Libro de Urantia_ y apoya la idea de que él continuó trabajando con profetas y videntes.
 
-Dadas las afirmaciones del Antiguo y Nuevo Testamento sobre Melquisedec y la profundidad de la erudición sobre las variedades del pensamiento judío que existían en los siglos anteriores al advenimiento del cristianismo, los autores de El libro de Urantia no tomaron mucho riesgo de credibilidad con su descripción de Maquiventa Melquisedec. No obstante, los Rollos del Mar Muerto (teórica e hipotéticamente) podrían haber proporcionado una perspectiva contraria a lo que enseña El libro de Urantia. Por lo tanto, incluso si no hay un ángulo de credibilidad en esto en el orden de magnitud asociado con otros informes de UBtheNEWS, no obstante, los Rollos del Mar Muerto aparecen después de que se publicara El libro de Urantia con información sobre Melquisedec que respalda el relato del Libro de Urantia.
+Dadas las afirmaciones del Antiguo y Nuevo Testamento sobre Melquisedec y la profundidad de la erudición sobre las variedades del pensamiento judío que existían en los siglos anteriores al advenimiento del cristianismo, los autores de _El Libro de Urantia_ no tomaron mucho riesgo de credibilidad con su descripción de Maquiventa Melquisedec. No obstante, los Rollos del Mar Muerto (teórica e hipotéticamente) podrían haber proporcionado una perspectiva contraria a lo que enseña El libro de Urantia. Por lo tanto, incluso si no hay un ángulo de credibilidad en esto en el orden de magnitud asociado con otros informes de UBtheNEWS, no obstante, los Rollos del Mar Muerto aparecen después de que se publicara _El Libro de Urantia_ con información sobre Melquisedec que respalda el relato del Libro de Urantia.
 
 Se dice que Jesús dijo: «Cuando el mundo haya pasado por el largo invierno de la mentalidad materialista y disciernas la llegada de la primavera espiritual de una nueva dispensación, ¿deberías saber que se acerca el verano de una nueva visitación?» ([LU 176:2.6](/es/The_Urantia_Book/176#p2_6)) Y con respecto a la mentalidad materialista, _El libro de Urantia_ enseña: «En el momento de escribir esto [que probablemente se refiere a mediados de la década de 1930, el momento de la “acusación», no a su fecha de publicación de 1955] lo peor de la era materialista ya ha pasado; el día de una mejor comprensión ya está comenzando a amanecer”. ([LU 195:6.4](/es/The_Urantia_Book/195#p6_4)) Tal vez deberíamos tomar nota del hecho de que casi inmediatamente después de la publicación de _El libro de Urantia_, se hizo un descubrimiento de extraordinaria importancia histórica y religiosa que se relaciona especialmente con la comprensión de la cosmología de _El libro de Urantia_ y las enseñanzas sobre el futuro, incluso el período en el que nos encontramos ahora.
 
 ## Melquisedec y los Rollos del Mar Muerto Reseña
 
-La revisión comienza con una selección de pasajes de El libro de Urantia sobre Melquisedec. Estos crearán el contexto para revisar el material de la Biblia y los Rollos del Mar Muerto. A esto le sigue una sección de discusión que incorpora cómo otros eruditos enmarcan los temas y extraen sus conclusiones.
+La revisión comienza con una selección de pasajes de _El Libro de Urantia_ sobre Melquisedec. Estos crearán el contexto para revisar el material de la Biblia y los Rollos del Mar Muerto. A esto le sigue una sección de discusión que incorpora cómo otros eruditos enmarcan los temas y extraen sus conclusiones.
 
 ### De _El libro de Urantia_
 
@@ -99,7 +114,7 @@ A continuación se presentan algunas referencias seleccionadas para resumir el t
 
 > Unos seiscientos años antes de la llegada de Miguel, Melquisedek, que se había ido de este mundo hacía mucho tiempo, tuvo la impresión de que la pureza de su enseñanza en la Tierra se encontraba indebidamente en peligro a causa de su absorción general por las creencias más antiguas de Urantia. Durante un tiempo pareció que su misión como precursor de Miguel podía estar en peligro de fracaso. Y en el siglo sexto antes de Cristo, gracias a una coordinación excepcional de influencias espirituales, que ni siquiera los supervisores planetarios llegan a comprender plenamente, Urantia fue testigo de una presentación sumamente inhabitual de una verdad religiosa variada. Por mediación de diversos educadores humanos, el evangelio de Salem fue expuesto de nuevo y revitalizado, y una gran parte de lo que se presentó entonces ha sobrevivido hasta la época del presente escrito. ([LU 94:6.1](/es/The_Urantia_Book/94#p6_1))
 
-> Unos cien años antes de los tiempos de Jesús y de Juan, una nueva escuela de educadores religiosos había surgido en Palestina, la de los apocalípticos. Estos nuevos instructores desarrollaron un sistema de creencias que explicaba los sufrimientos y la humillación de los judíos sobre la base de que estaban pagando las consecuencias de los pecados de la nación. Recurrían a las razones bien conocidas destinadas a explicar la cautividad en Babilonia y en otros lugares en tiempos pasados. Pero, según enseñaban los apocalípticos, Israel debía recobrar el ánimo; los días de su aflicción casi habían terminado; el castigo disciplinario del pueblo elegido de Dios estaba llegando a su fin; la paciencia de Dios con los extranjeros gentiles se estaba agotando. El final del poder de Roma era sinónimo del final de la era y, en cierto sentido, del fin del mundo. Estos nuevos educadores se apoyaban ampliamente en las predicciones de Daniel, y en consecuencia enseñaban que la creación estaba a punto de entrar en su etapa final; los reinos de este mundo estaban a punto de convertirse en el reino de Dios. Para la mente de los judíos de aquella época, éste era el significado de la expresión «el reino de los cielos» que figura en todas las enseñanzas de Juan y de Jesús. Para los judíos de Palestina, la frase «el reino de los cielos» sólo tenía un significado: un estado absolutamente justo en el que Dios (el Mesías) gobernaría las naciones de la Tierra con la misma perfección de poder con que gobernaba en el cielo{13} —«Hágase tu voluntad en la Tierra como en el cielo». ([LU 135:5.2](/es/The_Urantia_Book/135#p5_2))
+> Unos cien años antes de los tiempos de Jesús y de Juan, una nueva escuela de educadores religiosos había surgido en Palestina, la de los apocalípticos. Estos nuevos instructores desarrollaron un sistema de creencias que explicaba los sufrimientos y la humillación de los judíos sobre la base de que estaban pagando las consecuencias de los pecados de la nación. Recurrían a las razones bien conocidas destinadas a explicar la cautividad en Babilonia y en otros lugares en tiempos pasados. Pero, según enseñaban los apocalípticos, Israel debía recobrar el ánimo; los días de su aflicción casi habían terminado; el castigo disciplinario del pueblo elegido de Dios estaba llegando a su fin; la paciencia de Dios con los extranjeros gentiles se estaba agotando. El final del poder de Roma era sinónimo del final de la era y, en cierto sentido, del fin del mundo. Estos nuevos educadores se apoyaban ampliamente en las predicciones de Daniel, y en consecuencia enseñaban que la creación estaba a punto de entrar en su etapa final; los reinos de este mundo estaban a punto de convertirse en el reino de Dios. Para la mente de los judíos de aquella época, éste era el significado de la expresión «el reino de los cielos» que figura en todas las enseñanzas de Juan y de Jesús. Para los judíos de Palestina, la frase «el reino de los cielos» sólo tenía un significado: un estado absolutamente justo en el que Dios (el Mesías) gobernaría las naciones de la Tierra con la misma perfección de poder con que gobernaba en el cielo —«Hágase tu voluntad en la Tierra como en el cielo». ([LU 135:5.2](/es/The_Urantia_Book/135#p5_2))
 
 > Cuando vuestro mundo alcance esta era, no hay duda de que Maquiventa Melquisedek, ahora Príncipe Planetario vicegerente de Urantia, ocupará el asiento del Soberano Planetario; y en Jerusem se ha supuesto desde hace mucho tiempo que estará acompañado por un hijo y una hija del Adán y la Eva de Urantia, hijos actualmente retenidos en Edentia como pupilos de los Altísimos de Norlatiadek. Estos hijos de Adán podrían servir así en Urantia en asociación con el Soberano Melquisedek, pues fueron privados de sus poderes procreadores hace cerca de 37.000 años cuando dejaron sus cuerpos materiales en Urantia como preparación para ser trasladados a Edentia. ([LU 55:7.3](/es/The_Urantia_Book/55#p7_3))
 
@@ -349,9 +364,9 @@ La asociación de Melquisedec, el Mesías (como Jesús) y Miguel también se hac
 
 Desde la perspectiva del Libro de Urantia, el momento en que aparecen los Rollos del Mar Muerto es fortuito porque nos permite considerarlo como un texto que no fue influenciado por los Rollos del Mar Muerto. El Rollo del Mar Muerto más relevante para Melquisedec, 11Q13, fue descubierto inmediatamente después de la publicación de El Libro de Urantia y el resto, aunque descubiertos antes de la publicación, no aparecieron hasta después de que se hubiera comenzado el trabajo de creación de las planchas de impresión.
 
-En general, el material relevante al misterio de Melquisedec que se encuentra en los Rollos del Mar Muerto lleva la conversación de los eruditos bíblicos directamente en la dirección de las enseñanzas del Libro de Urantia sobre Maquiventa Melquisedec desde una perspectiva cosmológica. Además, los Rollos del Mar Muerto respaldan la afirmación desde una perspectiva histórica basada en la fe de que Maquiventa continuó trabajando con videntes y profetas. Pero esto todavía nos deja con dos preguntas obvias. ¿Por qué estos esfuerzos durante los últimos dos mil años no han hecho más para aclarar el misterio de Melquisedec? Y nuevamente, ¿por qué es que el registro del Nuevo Testamento no incluye una explicación de Jesús?
+En general, el material relevante al misterio de Melquisedec que se encuentra en los Rollos del Mar Muerto lleva la conversación de los eruditos bíblicos directamente en la dirección de las enseñanzas del _Libro de Urantia_ sobre Maquiventa Melquisedec desde una perspectiva cosmológica. Además, los Rollos del Mar Muerto respaldan la afirmación desde una perspectiva histórica basada en la fe de que Maquiventa continuó trabajando con videntes y profetas. Pero esto todavía nos deja con dos preguntas obvias. ¿Por qué estos esfuerzos durante los últimos dos mil años no han hecho más para aclarar el misterio de Melquisedec? Y nuevamente, ¿por qué es que el registro del Nuevo Testamento no incluye una explicación de Jesús?
 
-Por intrigantes que puedan ser esas preguntas, tal vez no sean tan actuales e importantes como la pregunta que enfrentamos ahora mismo. ¿Por qué es oportuno que El libro de Urantia resuelva el misterio de Maquiventa Melquisedec?
+Por intrigantes que puedan ser esas preguntas, tal vez no sean tan actuales e importantes como la pregunta que enfrentamos ahora mismo. ¿Por qué es oportuno que _El Libro de Urantia_ resuelva el misterio de Maquiventa Melquisedec?
 
 ## Apéndices
 
@@ -382,3 +397,18 @@ Por intrigantes que puedan ser esas preguntas, tal vez no sean tan actuales e im
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

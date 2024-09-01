@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet tema--gris claro aclarar-3 px-2">© 2012 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 Preparado por Halbert Katzen, J.D. con agradecimientos especiales a Chris Halvorson, Ph.D., Chris Riggio y Matthew Block [Actualizado el 15/8/09]
@@ -19,13 +34,13 @@ Preparado por Halbert Katzen, J.D. con agradecimientos especiales a Chris Halvor
 <img src="/image/article/Halbert_Katzen/Inner_Ionosphere/rays.jpg">
 </figure>
 
-Al hablar de la atmósfera de la Tierra, El libro de Urantia afirma lo siguiente: «Las cinco o seis millas inferiores de la atmósfera de la Tierra son la troposfera; ésta es la región de los vientos y las corrientes de aire que proporcionan los fenómenos meteorológicos. Por encima de esta región está la ionosfera interior y, a continuación, la estratosfera». Tanto los entusiastas como los críticos del Libro de Urantia han considerado durante mucho tiempo que esta afirmación es un error porque la comprensión de larga data de la atmósfera de la Tierra ha sido que la ionosfera existe por encima de la estratosfera.
+Al hablar de la atmósfera de la Tierra, _El Libro de Urantia_ afirma lo siguiente: «Las cinco o seis millas inferiores de la atmósfera de la Tierra son la troposfera; ésta es la región de los vientos y las corrientes de aire que proporcionan los fenómenos meteorológicos. Por encima de esta región está la ionosfera interior y, a continuación, la estratosfera». Tanto los entusiastas como los críticos del _Libro de Urantia_ han considerado durante mucho tiempo que esta afirmación es un error porque la comprensión de larga data de la atmósfera de la Tierra ha sido que la ionosfera existe por encima de la estratosfera.
 
-Sin embargo, a finales de los años 1980 y principios de los 1990, más de treinta años después de la publicación de El libro de Urantia, la observación de «chorros azules» se documentó de manera concluyente y se aceptó como una condición atmosférica. A pesar de que este fenómeno aún no se entiende bien, lo que se ha aprendido sobre los chorros azules indica que debe haber una capa ionosférica debajo de la estratosfera. Los chorros azules se forman por encima de las nubes de tormenta y a menudo alcanzan una altura de aproximadamente 25 millas sobre el nivel del mar. La ionosfera reconocida desde hace mucho tiempo, que existe por encima de la estratosfera, comienza a aproximadamente 30 millas sobre el nivel del mar.
+Sin embargo, a finales de los años 1980 y principios de los 1990, más de treinta años después de la publicación de _El libro de Urantia_, la observación de «chorros azules» se documentó de manera concluyente y se aceptó como una condición atmosférica. A pesar de que este fenómeno aún no se entiende bien, lo que se ha aprendido sobre los chorros azules indica que debe haber una capa ionosférica debajo de la estratosfera. Los chorros azules se forman por encima de las nubes de tormenta y a menudo alcanzan una altura de aproximadamente 25 millas sobre el nivel del mar. La ionosfera reconocida desde hace mucho tiempo, que existe por encima de la estratosfera, comienza a aproximadamente 30 millas sobre el nivel del mar.
 
 Cálculos basados en videos tomados de chorros azules, así como otras investigaciones asociadas, indican que la condición iónica necesaria para crear su calidad luminiscente no podría tener su origen en las nubes de tormenta sobre las que se producen.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## Interior Lonosfera Descripción general
 
@@ -43,19 +58,19 @@ Este fenómeno de relámpagos ascendentes fue predicho teóricamente por primera
 
 Los aviones que volaban a gran altura finalmente filmaron el fenómeno a principios de la década de 1990.
 
-Los científicos aún no comprenden por qué se forman los chorros azules. Sin embargo, lo que están viendo es totalmente coherente con la presencia de una ionosfera interior en esta región. Una región que contenga iones libres es lo que se necesita para crear la firma visual difusa de los chorros azules. Y los chorros azules se producen exactamente donde El libro de Urantia afirma que hay una ionosfera interior.
+Los científicos aún no comprenden por qué se forman los chorros azules. Sin embargo, lo que están viendo es totalmente coherente con la presencia de una ionosfera interior en esta región. Una región que contenga iones libres es lo que se necesita para crear la firma visual difusa de los chorros azules. Y los chorros azules se producen exactamente donde _El Libro de Urantia_ afirma que hay una ionosfera interior.
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Inner_Ionosphere/atmosphere2.jpg">
 </figure>
 
-Para aumentar la intriga de este asunto, los autores de El libro de Urantia afirman que tenían muchas restricciones en cuanto a la transmisión de conocimiento científico no ganado y que harían uso de las fuentes humanas existentes al expresar conceptos. Por otro lado, hay un poco de flexibilidad en el sentido de que también afirma que los autores tenían permiso para integrar «hechos y observaciones que estaban a punto de conocerse». Estos comentarios inspiraron la búsqueda de fuentes humanas que pudieran haber sido utilizadas por los autores de El libro de Urantia. Uno de los paralelismos más fuertes que se han encontrado entre El libro de Urantia y otros escritos se refiere a una descripción de la atmósfera escrita en la primera mitad del siglo XX por Harlen Stetson. Lo interesante de esta comparación es que los autores de El libro de Urantia claramente parecieron utilizar la organización y la elección de palabras empleadas en el artículo de Stetson, pero luego se apartaron de su sustancia al inyectar una afirmación sobre la existencia de una ionosfera interior.
+Para aumentar la intriga de este asunto, los autores de _El Libro de Urantia_ afirman que tenían muchas restricciones en cuanto a la transmisión de conocimiento científico no ganado y que harían uso de las fuentes humanas existentes al expresar conceptos. Por otro lado, hay un poco de flexibilidad en el sentido de que también afirma que los autores tenían permiso para integrar «hechos y observaciones que estaban a punto de conocerse». Estos comentarios inspiraron la búsqueda de fuentes humanas que pudieran haber sido utilizadas por los autores de El libro de Urantia. Uno de los paralelismos más fuertes que se han encontrado entre _El Libro de Urantia_ y otros escritos se refiere a una descripción de la atmósfera escrita en la primera mitad del siglo XX por Harlen Stetson. Lo interesante de esta comparación es que los autores de _El Libro de Urantia_ claramente parecieron utilizar la organización y la elección de palabras empleadas en el artículo de Stetson, pero luego se apartaron de su sustancia al inyectar una afirmación sobre la existencia de una ionosfera interior.
 
-Aunque la ciencia todavía no acepta específicamente la afirmación de El libro de Urantia de que existe una «ionosfera interior» entre la troposfera y la estratosfera, ahora se reconoce ampliamente que la actividad iónica ocurre regularmente en esta región. Los autores de El libro de Urantia no necesitaban afirmar la existencia de una ionosfera interior, algo que claramente pondría en duda la credibilidad del libro por parte de la comunidad científica. Podrían haber omitido esa información y evitado todo el asunto. Hoy, lo que una vez puso en duda su credibilidad, ahora lo hace parecer especialmente creíble debido a la voluntad de romper con lo que era una opinión científica firmemente sostenida en el momento de la publicación.
+Aunque la ciencia todavía no acepta específicamente la afirmación de _El Libro de Urantia_ de que existe una «ionosfera interior» entre la troposfera y la estratosfera, ahora se reconoce ampliamente que la actividad iónica ocurre regularmente en esta región. Los autores de _El Libro de Urantia_ no necesitaban afirmar la existencia de una ionosfera interior, algo que claramente pondría en duda la credibilidad del libro por parte de la comunidad científica. Podrían haber omitido esa información y evitado todo el asunto. Hoy, lo que una vez puso en duda su credibilidad, ahora lo hace parecer especialmente creíble debido a la voluntad de romper con lo que era una opinión científica firmemente sostenida en el momento de la publicación.
 
 ## Revisión de la lonosfera interior
 
-Este tema se ocupa de la afirmación de El libro de Urantia de que existe una «ionosfera interior» entre la troposfera y la estratosfera. La troposfera es aproximadamente las primeras seis millas (9 a $10 \mathrm{~km}$ ) sobre el nivel del mar donde tenemos una experiencia directa de las condiciones climáticas. Actualmente, los científicos delimitan la región de la tropopausa como la siguiente milla o dos de temperatura constante antes del comienzo de la estratosfera. Desde antes de que se publicara El libro de Urantia en 1955, la creencia generalizada ha sido y sigue siendo que no existen condiciones entre la troposfera y la estratosfera para sustentar el tipo de actividad iónica necesaria para crear fenómenos eléctricos visibles. A fines de la década de 1980 y principios de la de 1990, la documentación de tales fenómenos visibles comenzó a plantear preguntas y a cambiar este paradigma de larga data con respecto a la naturaleza de la Tierra.
+Este tema se ocupa de la afirmación de _El Libro de Urantia_ de que existe una «ionosfera interior» entre la troposfera y la estratosfera. La troposfera es aproximadamente las primeras seis millas (9 a $10 \mathrm{~km}$ ) sobre el nivel del mar donde tenemos una experiencia directa de las condiciones climáticas. Actualmente, los científicos delimitan la región de la tropopausa como la siguiente milla o dos de temperatura constante antes del comienzo de la estratosfera. Desde antes de que se publicara _El Libro de Urantia_ en 1955, la creencia generalizada ha sido y sigue siendo que no existen condiciones entre la troposfera y la estratosfera para sustentar el tipo de actividad iónica necesaria para crear fenómenos eléctricos visibles. A fines de la década de 1980 y principios de la de 1990, la documentación de tales fenómenos visibles comenzó a plantear preguntas y a cambiar este paradigma de larga data con respecto a la naturaleza de la Tierra.
 
 Las siguientes ilustraciones (_y anteriores_) brindan una apreciación general de la comprensión actual de las diferentes regiones atmosféricas y sus características.
 
@@ -76,7 +91,7 @@ En consecuencia, la ciencia aún se encuentra en una etapa de desarrollo. En est
 
 El grado en que la ciencia actual corrobora la existencia de actividad iónica entre la troposfera y la estratosfera será, por supuesto, el foco principal de este informe. Se revisará la historia de las observaciones relacionadas con la actividad iónica como parte de la explicación dada sobre el estado actual de los avances científicos. Pero esto se abordará después de crear algún contexto para este tema en lo que se refiere a la cuestión del uso de «fuentes humanas».
 
-La cuestión de las fuentes humanas en la creación de El libro de Urantia surge porque El libro de Urantia afirma haber sido escrito por ángeles. El libro de Urantia explica la sabiduría que guía los permisos y limitaciones impuestos a los autores angélicos con respecto a la presentación de la información. Las siguientes citas son pertinentes a este aspecto de El libro de Urantia:
+La cuestión de las fuentes humanas en la creación de _El Libro de Urantia_ surge porque _El Libro de Urantia_ afirma haber sido escrito por ángeles. _El Libro de Urantia_ explica la sabiduría que guía los permisos y limitaciones impuestos a los autores angélicos con respecto a la presentación de la información. Las siguientes citas son pertinentes a este aspecto de El libro de Urantia:
 
 > Se nos ha ordenado introducir nuevos términos sólo cuando el concepto que se pretende representar no encuentra terminología en inglés que pueda emplearse para transmitir dicho nuevo concepto parcialmente o incluso con más o menos distorsión del significado." ([Urantia Book: Forward, paragraph 2](/es/The_Urantia_Book/0#p2))
 > 
@@ -92,15 +107,15 @@ La cuestión de las fuentes humanas en la creación de El libro de Urantia surge
 > 4. El suministro de información que llenará lagunas vitales en el conocimiento adquirido de otro modo.
 > 5. Presentar datos cósmicos de tal manera que ilumine las enseñanzas espirituales contenidas en la revelación que lo acompaña." ([Urantia Book 101:4](/es/The_Urantia_Book/101#p4))[^1]
 
-Las declaraciones citadas anteriormente inspiraron a Matthew Block a buscar material de fuentes científicas que existían antes de la publicación de El libro de Urantia que habrían dado forma a los límites de qué información podría impartirse de manera permisible, dada la afirmación de la autoría angelical. Su creencia subyacente es que, si tales proscripciones deben tomarse en serio, entonces una persona debería poder descubrir los escritos que existían durante el período de tiempo en el que se creó El libro de Urantia que formaron los parámetros de tales limitaciones reveladoras. O, si El libro de Urantia no es lo que afirma ser en cuanto a su autoría, incluso así, tales fuentes humanas de las comprensiones entonces actuales de las cuestiones científicas deberían ser descubribles. Mantiene un sitio web donde publica su investigación sobre este tema. [^2]
+Las declaraciones citadas anteriormente inspiraron a Matthew Block a buscar material de fuentes científicas que existían antes de la publicación de _El Libro de Urantia_ que habrían dado forma a los límites de qué información podría impartirse de manera permisible, dada la afirmación de la autoría angelical. Su creencia subyacente es que, si tales proscripciones deben tomarse en serio, entonces una persona debería poder descubrir los escritos que existían durante el período de tiempo en el que se creó _El Libro de Urantia_ que formaron los parámetros de tales limitaciones reveladoras. O, si _El Libro de Urantia_ no es lo que afirma ser en cuanto a su autoría, incluso así, tales fuentes humanas de las comprensiones entonces actuales de las cuestiones científicas deberían ser descubribles. Mantiene un sitio web donde publica su investigación sobre este tema. [^2]
 
-Con respecto a la sección de El libro de Urantia que afirma la existencia de una ionosfera interior, Block descubrió en el número de junio de 1942 de Scientific Monthly un artículo titulado La radiación solar y el estado de la atmósfera, de Harlan True Stetson. [^3] La sección de El libro de Urantia que menciona la existencia de una ionosfera interior es muy similar y coherente con este artículo de Stetson en la mayoría de los aspectos durante varios párrafos. Sin embargo, con respecto a la cuestión de la existencia de una ionosfera interior, El libro de Urantia se aparta del artículo de Stetson.
+Con respecto a la sección de _El Libro de Urantia_ que afirma la existencia de una ionosfera interior, Block descubrió en el número de junio de 1942 de Scientific Monthly un artículo titulado La radiación solar y el estado de la atmósfera, de Harlan True Stetson. [^3] La sección de _El Libro de Urantia_ que menciona la existencia de una ionosfera interior es muy similar y coherente con este artículo de Stetson en la mayoría de los aspectos durante varios párrafos. Sin embargo, con respecto a la cuestión de la existencia de una ionosfera interior, _El Libro de Urantia_ se aparta del artículo de Stetson.
 
 El artículo de Stetson afirma: «Si observamos una sección transversal de la atmósfera terrestre, se puede dividir por conveniencia en tres zonas o capas en las que la estratosfera ocupa el punto medio. La región debajo de la estratosfera es la que está en contacto con nuestro entorno inmediato y proporciona los vientos y las corrientes atmosféricas, dando lugar a todo nuestro clima. Llamamos a esta región inferior que comprende quizás las primeras 5 o 6 millas la troposfera. La región por encima de la estratosfera es la ionosfera».
 
 _El Libro de Urantia_ dice: "Las cinco o seis millas inferiores de la atmósfera de la Tierra son la troposfera. ([LU 58:2.6](/es/The_Urantia_Book/58#p2_6))
 
-Debido a que la sección de El libro de Urantia sobre la atmósfera es tan similar al artículo de Stetson, generalmente se acepta como material de referencia para establecer los parámetros de la discusión de El libro de Urantia sobre este tema. Naturalmente, para aquellos que aceptan la afirmación de El libro de Urantia sobre la autoría angelical, este material de referencia generalmente se conoce como material de «fuente humana». Debido a la diferencia entre el artículo de Stetson y El libro de Urantia sobre la ionosfera interior, ha habido un espectro de opiniones sobre esta diferencia en función del sistema de creencias de cada persona. Para aquellos que no creen que El libro de Urantia es lo que pretende ser, esto se ha utilizado como evidencia no solo de la autoría humana, sino también de la falibilidad humana. Para aquellos que creen que El libro de Urantia es lo que pretende ser, hasta hace poco, esta cuestión ha dado lugar a varios tipos de respuestas «apologéticas» y defensivas, que van desde «El libro de Urantia no pretende ser un documento perfecto» hasta «tal vez algún día se descubra que es exacto».
+Debido a que la sección de _El Libro de Urantia_ sobre la atmósfera es tan similar al artículo de Stetson, generalmente se acepta como material de referencia para establecer los parámetros de la discusión de _El Libro de Urantia_ sobre este tema. Naturalmente, para aquellos que aceptan la afirmación de _El Libro de Urantia_ sobre la autoría angelical, este material de referencia generalmente se conoce como material de «fuente humana». Debido a la diferencia entre el artículo de Stetson y _El Libro de Urantia_ sobre la ionosfera interior, ha habido un espectro de opiniones sobre esta diferencia en función del sistema de creencias de cada persona. Para aquellos que no creen que _El Libro de Urantia_ es lo que pretende ser, esto se ha utilizado como evidencia no solo de la autoría humana, sino también de la falibilidad humana. Para aquellos que creen que _El Libro de Urantia_ es lo que pretende ser, hasta hace poco, esta cuestión ha dado lugar a varios tipos de respuestas «apologéticas» y defensivas, que van desde «El libro de Urantia no pretende ser un documento perfecto» hasta «tal vez algún día se descubra que es exacto».
 
 «Quizás algún día» puede estar en camino.
 
@@ -110,7 +125,7 @@ En general, se cree que la luminiscencia atmosférica se produce en relación co
 
 Antes de la documentación videográfica de estos TLE, se habían reportado avistamientos de ellos. Pero fueron muy descartados debido a la falta de documentación. Conocido como The Weather Doctor, Keith C. Heidorn, PhD escribe en un artículo del 1 de noviembre de 2005, «Aunque se informó por primera vez en 1886 como rarezas no identificadas, no fue hasta la última década que la comunidad meteorológica aceptó su existencia». [^5] El Instituto Geofísico de la Universidad de Alaska Fairbanks publicó en un informe del 15 de mayo de 1995 que «Durante el siglo pasado ha habido relatos anecdóticos dispersos de pilares azules o verdes, columnas o fenómenos ópticos similares a cohetes sobre tormentas eléctricas [Corliss, 1977, 1983; Wilson, 1956; Malan, 1937; Ashmore 1950; Wright, 1951].”[^6] El sesgo contra la aceptación de este fenómeno en la comunidad científica se refleja en un artículo de National Geographic del 23 de junio de 2003 que afirma: «Los pilotos de aviones han detectado »eventos luminosos transitorios« desde los albores de la aviación, »pero muchos tenían miedo de informar sobre los [destellos de luz] debido a su naturaleza elusiva", comentó Victor P. Pasko en el Laboratorio de Ciencias Espaciales y de Comunicaciones de la Universidad Estatal de Pensilvania en University Park». [^7]
 
-Si los starters azules y los chorros azules se aceptan como indicaciones de una ionosfera interior que existe entre la troposfera y la estratosfera, entonces El libro de Urantia está al menos varias décadas por delante de la corroboración científica. Parte del problema de hacer declaraciones definitivas sobre este tema es que los científicos simplemente no están seguros de cómo interpretar lo que están viendo.
+Si los starters azules y los chorros azules se aceptan como indicaciones de una ionosfera interior que existe entre la troposfera y la estratosfera, entonces _El Libro de Urantia_ está al menos varias décadas por delante de la corroboración científica. Parte del problema de hacer declaraciones definitivas sobre este tema es que los científicos simplemente no están seguros de cómo interpretar lo que están viendo.
 
 El informe de la Universidad de Alaska Fairbanks de 1995 afirmaba: «Especulamos sobre posibles mecanismos, pero ninguno parece muy satisfactorio». 8 «Desde 1990, estos fenómenos han sido intensamente fotografiados y estudiados desde observatorios en las cimas de las montañas, satélites y el transbordador espacial, pero el origen y los mecanismos de estos fenómenos siguen siendo algo misteriosos». [^9] Uno de los estudios más completos sobre chorros azules y estrellas fugaces azules se puede encontrar en un informe de 2002 de la Universidad Estatal de Pensilvania. [^10] Se trata de un informe técnico y detallado llamado Modelado tridimensional de chorros azules y estrellas fugaces azules. Citar este informe directamente requeriría educar ampliamente al lector sobre aspectos altamente técnicos de este campo. Si este campo de la ciencia se entendiera mejor, se llegaría tan lejos. Debido a que se trata de un área relativamente nueva de la ciencia que probablemente evolucionará en un futuro relativamente cercano, este tipo de análisis extenso no se realizará en este informe en este momento. La teoría básica de esa investigación sugiere que la presencia iónica necesaria para la luminiscencia de los chorros azules y los iniciadores azules se deriva de actividades dentro de las nubes de tormenta que envían un campo iónico a la región por encima de las nubes de tormenta.
 
@@ -122,7 +137,7 @@ A medida que se documentaron mayores ocurrencias de chorros azules, también se 
 
 Los arrancadores azules y los chorros azules, al producirse en la región entre la troposfera y la ionosfera, indican que esta región es una parte importante del panorama cuando se trata de entender cómo viajan las corrientes eléctricas a nivel global. National Geographic News publicó un artículo el 25 de junio de 2003 en el que se afirmaba que «los científicos saben que el circuito eléctrico global está alimentado por tormentas eléctricas, dos mil de las cuales azotan la superficie de la Tierra en un momento dado. Estas tormentas actúan como un generador, impulsando la carga eléctrica hacia arriba...» [^15] Aunque los científicos atmosféricos aún no están preparados para identificar la región entre la troposfera y la estratosfera como una «ionosfera interior», los estudios actuales apuntan cada vez más en esta dirección. Sea cual sea el nombre, ahora se acepta ampliamente que en esta región se produce regularmente alguna forma de actividad iónica, lo que crea un vínculo que trabaja continuamente para equilibrar las cargas eléctricas que se desarrollan en nuestra atmósfera.
 
-No importa lo que uno crea acerca de los orígenes de El libro de Urantia, su afirmación de que existe una ionosfera interior parece cada vez más coherente con la ciencia emergente sobre el tema. O bien los autores angélicos sabían de lo que estaban hablando y determinaron que los avistamientos y las teorías existentes antes de la publicación del libro eran suficientes para mantenerlos dentro de las limitaciones que se les impusieron con respecto a la revelación de conocimiento no ganado. O bien los autores humanos tomaron una extraordinaria oportunidad al afirmar una posición que no estaba en absoluto corroborada por la ciencia en el momento de la publicación. En cualquier caso, la afirmación de El libro de Urantia sobre la existencia de una ionosfera interior está siendo cada vez más apoyada por el avance de la investigación científica, mientras que la posición de que esta afirmación es un error está viendo rápidamente erosionarse su fundamento.
+No importa lo que uno crea acerca de los orígenes de _El libro de Urantia_, su afirmación de que existe una ionosfera interior parece cada vez más coherente con la ciencia emergente sobre el tema. O bien los autores angélicos sabían de lo que estaban hablando y determinaron que los avistamientos y las teorías existentes antes de la publicación del libro eran suficientes para mantenerlos dentro de las limitaciones que se les impusieron con respecto a la revelación de conocimiento no ganado. O bien los autores humanos tomaron una extraordinaria oportunidad al afirmar una posición que no estaba en absoluto corroborada por la ciencia en el momento de la publicación. En cualquier caso, la afirmación de _El Libro de Urantia_ sobre la existencia de una ionosfera interior está siendo cada vez más apoyada por el avance de la investigación científica, mientras que la posición de que esta afirmación es un error está viendo rápidamente erosionarse su fundamento.
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Halbert_Katzen/Inner_Ionosphere/blue_jets.jpg">
@@ -131,7 +146,7 @@ No importa lo que uno crea acerca de los orígenes de El libro de Urantia, su af
 
 Los chorros azules son uno de los muchos tipos de descargas eléctricas de la atmósfera superior, o «eventos luminosos transitorios» que actualmente están siendo estudiados por científicos en Asia y América del Norte. Las imágenes de arriba fueron capturadas usando cámaras de bajo nivel de luz, ya que la mayoría de los fenómenos aparecen y desaparecen demasiado rápido para que el ojo humano los capte.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Inner_Ionosphere/red_sprite.jpg">
@@ -172,6 +187,21 @@ Este gran chorro azul, que se elevó desde lo alto de una tormenta, alcanzó una
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 <br>
 

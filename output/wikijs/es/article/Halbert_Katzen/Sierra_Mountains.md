@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet tema--gris claro aclarar-3 px-2">© 2008 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Preparado por Halbert Katzen, J.D. con la ayuda de Chris Halvorson, Ph.D. [Actualizado el 11/07/2009]
 
@@ -18,17 +33,17 @@ Preparado por Halbert Katzen, J.D. con la ayuda de Chris Halvorson, Ph.D. [Actua
 <img src="/image/article/Halbert_Katzen/Sierra_Mountains/Sierra.jpg">
 </figure>
 
-Desde hace mucho tiempo existe una controversia sobre cuándo se formaron las montañas de Sierra. Se han desarrollado dos escuelas de pensamiento, conocidas como las teorías de las Sierras Antiguas y las de las Sierras Nuevas. La teoría de las Sierras Antiguas sostiene que las montañas de Sierras se formaron hace unos 50 millones de años; la teoría de las Sierras Nuevas afirma que tienen sólo unos 5 millones de años. Aunque la controversia no ha sido totalmente zanjada por la investigación publicada en 2006, este nuevo enfoque para datar las montañas emplea una tecnología que es mucho más específica que las metodologías anteriores y ha sido ampliamente aceptada como confiable cuando se utiliza en otras aplicaciones. Los resultados son armoniosos con la teoría de las Sierras Antiguas y lo que se afirmó en El libro de Urantia en 1955.
+Desde hace mucho tiempo existe una controversia sobre cuándo se formaron las montañas de Sierra. Se han desarrollado dos escuelas de pensamiento, conocidas como las teorías de las Sierras Antiguas y las de las Sierras Nuevas. La teoría de las Sierras Antiguas sostiene que las montañas de Sierras se formaron hace unos 50 millones de años; la teoría de las Sierras Nuevas afirma que tienen sólo unos 5 millones de años. Aunque la controversia no ha sido totalmente zanjada por la investigación publicada en 2006, este nuevo enfoque para datar las montañas emplea una tecnología que es mucho más específica que las metodologías anteriores y ha sido ampliamente aceptada como confiable cuando se utiliza en otras aplicaciones. Los resultados son armoniosos con la teoría de las Sierras Antiguas y lo que se afirmó en _El Libro de Urantia_ en 1955.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## Descripción general de las montañas Sierra
 
 Existe una controversia de larga data en torno a la edad de la cordillera de Sierra. La Nueva teoría de la Sierra, presentada por primera vez en la década de 1880, afirma que las montañas de la Sierra tienen alrededor de cinco millones de años. En contraste, la Vieja teoría de la Sierra, publicada en 1911, postula que la cordillera de la Sierra tiene entre 40 y 50 millones de años. Los académicos discutieron sobre los méritos de estas dos teorías a lo largo del siglo XX, sin llegar a un consenso, pero la Nueva teoría de la Sierra se hizo más popular y se enseñó ampliamente en las escuelas primarias.
 
-En contra de la opinión popular de la época, El libro de Urantia, publicado en 1955, afirma que hace unos cuarenta millones de años las áreas terrestres de América del Norte estaban elevadas, lo que es consistente con la teoría de la Sierra Vieja. Además, El libro de Urantia afirma que la cordillera de la Sierra ha estado elevándose durante los últimos veinticinco millones de años.
+En contra de la opinión popular de la época, _El libro de Urantia_, publicado en 1955, afirma que hace unos cuarenta millones de años las áreas terrestres de América del Norte estaban elevadas, lo que es consistente con la teoría de la Sierra Vieja. Además, _El Libro de Urantia_ afirma que la cordillera de la Sierra ha estado elevándose durante los últimos veinticinco millones de años.
 
-Recientemente, han salido a la luz nuevas evidencias que apoyan la postura adoptada por El libro de Urantia y la teoría de la Sierra Vieja. En 2006, un trío de científicos de Stanford publicó una investigación que databa la formación de la cordillera de Sierra Nevada hace cincuenta millones de años. Estos científicos de Stanford, Andreas Mulch, Stephan A. Graham y C. Page Chamberlain, utilizaron una técnica innovadora que implicaba el estudio de la precipitación atrapada en antiguos lechos de arcilla.
+Recientemente, han salido a la luz nuevas evidencias que apoyan la postura adoptada por _El Libro de Urantia_ y la teoría de la Sierra Vieja. En 2006, un trío de científicos de Stanford publicó una investigación que databa la formación de la cordillera de Sierra Nevada hace cincuenta millones de años. Estos científicos de Stanford, Andreas Mulch, Stephan A. Graham y C. Page Chamberlain, utilizaron una técnica innovadora que implicaba el estudio de la precipitación atrapada en antiguos lechos de arcilla.
 
 Nada de esto habría sido posible sin un poco de casualidad histórica. Para estudiar estas antiguas gotas de lluvia, el equipo de Stanford necesitaba depósitos del mineral caolinita. Este mineral se forma en algunos suelos cuando el agua de lluvia se combina con arcilla y mantiene intacta la composición química del agua de lluvia. Normalmente, estos depósitos de caolinita habrían estado enterrados en las profundidades de las montañas, cubiertos por millones de años de acumulación sedimentaria, pero en las Sierras la caolinita se encuentra descubierta en muchos campamentos mineros de oro abandonados del siglo XIX. Mulch, Graham y Chamberlain pudieron datar la caolinita entre cuarenta y cincuenta millones de años atrás, luego todo lo que tuvieron que hacer fue comparar las composiciones químicas de las diversas muestras de caolinita para determinar la altura de la Sierra Nevada en ese momento.
 
@@ -40,11 +55,11 @@ Mulch, Graham y Chamberlain descubrieron que la cordillera se elevó hace unos c
 
 A pesar de la sólida base científica de esta investigación, no ha acabado por completo con la discusión entre la Sierra Vieja y la Sierra Nueva. Dado que esta técnica de comparación de isótopos nunca se ha utilizado antes para determinar la edad y la altura de las montañas, algunos partidarios de la Sierra Nueva sostienen que el método tiene algún fallo que aún no comprendemos. Sin embargo, la relativa simplicidad del método y su fiabilidad cuando se utiliza en otros campos hacen que sea muy difícil atacarlo. De hecho, ningún científico ha sido capaz de encontrar todavía un fallo específico en la investigación.
 
-Mulch, Graham y Chamberlain parecen haber determinado por fin científicamente lo que El libro de Urantia afirmó en 1955: la Sierra Nevada La cadena montañosa tiene al menos entre 40 y 50 millones de años.
+Mulch, Graham y Chamberlain parecen haber determinado por fin científicamente lo que _El Libro de Urantia_ afirmó en 1955: la Sierra Nevada La cadena montañosa tiene al menos entre 40 y 50 millones de años.
 
 ## Reseña de las montañas Sierra
 
-Desde hace mucho tiempo existe una controversia sobre cuándo se formaron las montañas de la Sierra. Se han desarrollado dos escuelas de pensamiento, conocidas como las teorías de las Sierras Antiguas y las de las Sierras Nuevas. La teoría de las Sierras Antiguas sostiene que las montañas de la Sierra se formaron hace unos 40 a 50 millones de años; la teoría de las Sierras Nuevas afirma que tienen sólo unos 5 millones de años. Aunque la controversia no ha sido totalmente zanjada por la investigación publicada en 2006, este nuevo enfoque para datar las montañas emplea una tecnología que es mucho más específica que las metodologías anteriores y ha sido ampliamente aceptada como fiable cuando se utiliza en otras aplicaciones. Los resultados son armoniosos con lo que se afirmó en El libro de Urantia en 1955.
+Desde hace mucho tiempo existe una controversia sobre cuándo se formaron las montañas de la Sierra. Se han desarrollado dos escuelas de pensamiento, conocidas como las teorías de las Sierras Antiguas y las de las Sierras Nuevas. La teoría de las Sierras Antiguas sostiene que las montañas de la Sierra se formaron hace unos 40 a 50 millones de años; la teoría de las Sierras Nuevas afirma que tienen sólo unos 5 millones de años. Aunque la controversia no ha sido totalmente zanjada por la investigación publicada en 2006, este nuevo enfoque para datar las montañas emplea una tecnología que es mucho más específica que las metodologías anteriores y ha sido ampliamente aceptada como fiable cuando se utiliza en otras aplicaciones. Los resultados son armoniosos con lo que se afirmó en _El Libro de Urantia_ en 1955.
 
 _El Libro de Urantia_ afirma:
 
@@ -52,13 +67,13 @@ _El Libro de Urantia_ afirma:
 
 > Hace *25.000.000* de años que se produjo una ligera inmersión terrestre después de una larga época de elevación continental. La región de las Montañas Rocosas permaneció muy elevada, de manera que los materiales de erosión continuaron depositándose en todas las tierras bajas del este. Las Sierras volvieron a levantarse mucho; de hecho, han continuado elevándose desde entonces. La gran falla vertical de seis kilómetros y medio de la región de California data de estos tiempos. ([LU 61:3.3](/es/The_Urantia_Book/61#p3_3))
 
-La afirmación de El libro de Urantia de que estas montañas se originaron hace 40 millones de años y han estado elevándose durante los últimos 25 millones de años entra en conflicto con la teoría de las Nuevas Sierras. Obviamente, si han estado elevándose durante los últimos 25 millones de años, entonces la teoría de que han estado elevándose durante los últimos cinco millones de años no está completamente fuera de base; la evidencia que apoya que han estado elevándose durante los últimos cinco millones de años tiene un grado limitado de consistencia con lo que El libro de Urantia dice sobre ellas «elevándose desde» hace 25 millones de años. De hecho, incluso esta nueva técnica de investigación indica que las montañas se estaban elevando ligeramente hace cinco millones de años. Pero la teoría de que estas montañas se formaron fundamentalmente hace unos cinco millones de años está fundamentalmente en conflicto con El libro de Urantia. El libro de Urantia afirma, y el nuevo estudio publicado en 2006 apoya, la opinión de que esta cordillera existía y ha mantenido su estatura desde entonces, mucho antes de hace cinco millones de años.
+La afirmación de _El Libro de Urantia_ de que estas montañas se originaron hace 40 millones de años y han estado elevándose durante los últimos 25 millones de años entra en conflicto con la teoría de las Nuevas Sierras. Obviamente, si han estado elevándose durante los últimos 25 millones de años, entonces la teoría de que han estado elevándose durante los últimos cinco millones de años no está completamente fuera de base; la evidencia que apoya que han estado elevándose durante los últimos cinco millones de años tiene un grado limitado de consistencia con lo que _El Libro de Urantia_ dice sobre ellas «elevándose desde» hace 25 millones de años. De hecho, incluso esta nueva técnica de investigación indica que las montañas se estaban elevando ligeramente hace cinco millones de años. Pero la teoría de que estas montañas se formaron fundamentalmente hace unos cinco millones de años está fundamentalmente en conflicto con El libro de Urantia. _El Libro de Urantia_ afirma, y el nuevo estudio publicado en 2006 apoya, la opinión de que esta cordillera existía y ha mantenido su estatura desde entonces, mucho antes de hace cinco millones de años.
 
 La revista Science publicó un informe sobre esta nueva investigación el 7 de julio de 2006. El informe, Isótopos de hidrógeno en gravas de ríos del Eoceno y paleoelevación de Sierra Nevada, escrito por Andreas Mulch, Stephan A. Graham y C. Page Chamberlain, resume los hallazgos de esta manera:
 
 > Determinamos la paleoelevación [elevación antigua] de Sierra Nevada, California, mediante el seguimiento del efecto de la topografía en la precipitación, como se registra en los isótopos de hidrógeno de la caolinita expuestos en depósitos fluviales auríferos del río Yuba del Eoceno. Los datos, comparados con la composición isotópica moderna de la precipitación, muestran que hace unos 40 a 50 millones de años Sierra Nevada era alta (2200 metros), un resultado en conflicto con el levantamiento superficial joven propuesto por el forzamiento tectónico y climático, pero consistente con que Sierra Nevada represente el borde de una meseta continental pre-Eoceno [antes de hace aproximadamente 55 millones de años]. [^3]
 
-(La palabra «Urantia», que denota Tierra, es una palabra acuñada en _El libro de Urantia_, con el significado etimológico «(tu) lugar en los cielos». _El libro de Urantia_ da una extensa historia tanto de la evolución geofísica del planeta como del desarrollo evolutivo de la vida. En general, las fechas dadas en _El libro de Urantia_ con respecto a los desarrollos evolutivos de los últimos 35 millones de años corresponden con las fechas producidas por la datación radiométrica. Entre 35 millones y 450 millones de años atrás, las fechas radiométricas se inflan por un factor promedio de 1,5, con el factor aumentando ligeramente desde las fechas más tardías a las más recientes, seguido de una disminución más rápida a 1,0. Hacia atrás, de 450 a 550 millones de años atrás, el factor aumenta de 1,4 a 4,0. Hacia atrás, desde hace 550 millones de años, las fechas radiométricas se inflan constantemente por un factor de 4,0 en comparación con las fechas de _El libro de Urantia_. _El libro de Urantia El libro dice que hace 550 millones de años se implantó la vida eucariota (evolutiva) en el planeta, que hace 450 millones de años se marca la aparición de los protozoos, y que hace 35 millones de años se inicia la era de los mamíferos avanzados. El físico Chris Halvorson, Ph.D., piensa -basándose, por ejemplo, en las implicaciones del descubrimiento de cantidades masivas de tecnecio y prometio «inestables» en las atmósferas de algunas estrellas- que la tasa de desintegración radiactiva puede ser alterada por el medio ambiente, específicamente, que el medio ambiente espacial ha sido regulado como parte del control divino de la evolución de la vida en este planeta. Tomada a la luz de esto, la teoría de que las Sierras se desarrollaron hace unos 50 millones de años es coherente con la afirmación de El libro de Urantia de que se desarrollaron hace unos 40 millones de años.)
+(La palabra «Urantia», que denota Tierra, es una palabra acuñada en _El libro de Urantia_, con el significado etimológico «(tu) lugar en los cielos». _El libro de Urantia_ da una extensa historia tanto de la evolución geofísica del planeta como del desarrollo evolutivo de la vida. En general, las fechas dadas en _El libro de Urantia_ con respecto a los desarrollos evolutivos de los últimos 35 millones de años corresponden con las fechas producidas por la datación radiométrica. Entre 35 millones y 450 millones de años atrás, las fechas radiométricas se inflan por un factor promedio de 1,5, con el factor aumentando ligeramente desde las fechas más tardías a las más recientes, seguido de una disminución más rápida a 1,0. Hacia atrás, de 450 a 550 millones de años atrás, el factor aumenta de 1,4 a 4,0. Hacia atrás, desde hace 550 millones de años, las fechas radiométricas se inflan constantemente por un factor de 4,0 en comparación con las fechas de _El libro de Urantia_. _El libro de Urantia El libro dice que hace 550 millones de años se implantó la vida eucariota (evolutiva) en el planeta, que hace 450 millones de años se marca la aparición de los protozoos, y que hace 35 millones de años se inicia la era de los mamíferos avanzados. El físico Chris Halvorson, Ph.D., piensa -basándose, por ejemplo, en las implicaciones del descubrimiento de cantidades masivas de tecnecio y prometio «inestables» en las atmósferas de algunas estrellas- que la tasa de desintegración radiactiva puede ser alterada por el medio ambiente, específicamente, que el medio ambiente espacial ha sido regulado como parte del control divino de la evolución de la vida en este planeta. Tomada a la luz de esto, la teoría de que las Sierras se desarrollaron hace unos 50 millones de años es coherente con la afirmación de _El Libro de Urantia_ de que se desarrollaron hace unos 40 millones de años.)
 
 Por lo general, los informes de UBtheNEWS citan la investigación original en la que se basan lo más extensamente posible. Esto se hace para que los lectores de estos informes no tengan que confiar en la interpretación del autor o autores de los informes científicos que corroboran la información de El libro de Urantia. En este caso, la investigación es especialmente técnica y se necesitarían miles de palabras para explicar y definir la terminología utilizada en el informe original. Afortunadamente, Brittany Grayson, una pasante de la revista Discover, escribió un artículo llamado El enigma de Sierra Nevada. Este artículo no solo cubre las conclusiones e implicaciones de la investigación realizada por Mulch, Graham y Chamberlain, sino que también proporciona una historia de la controversia que rodea este tema y cómo se ha recibido esta nueva investigación. Por lo tanto, con mucho agradecimiento a la Sra. Grayson, su artículo será citado extensamente como un medio eficiente de proporcionar la sustancia del Informe de Sierra Nevada de una fuente independiente. El material extraño se edita en aras de la brevedad.
 
@@ -74,7 +89,7 @@ Desde El Enigma de Sierra Nevada:
 
 _El Libro de Urantia_ no sólo dice que las Sierras fueron «bien reelevadas» y han estado elevándose durante los últimos 25 millones de años, rechazando la teoría de que sólo tienen unos 5 millones de años, pero también contiene afirmaciones que son armoniosas con los hallazgos de Mulch, Graham y Chamberlain de que las Sierras fueron elevadas hace 45 millones de años.
 
-Refiriéndose al período anterior y que terminó hace unos 50 a 60 millones de años, El libro de Urantia afirma: «Las montañas más jóvenes están en el sistema de las Montañas Rocosas, donde, durante siglos, se habían producido elevaciones de tierra que luego fueron cubiertas sucesivamente por el mar, aunque algunas de las tierras más altas permanecieron como islas... Se elevó una verdadera meseta montañosa que estaba destinada, posteriormente, a ser tallada en las Montañas Rocosas actuales por el arte combinado de los elementos de la naturaleza». [^5]
+Refiriéndose al período anterior y que terminó hace unos 50 a 60 millones de años, _El Libro de Urantia_ afirma: «Las montañas más jóvenes están en el sistema de las Montañas Rocosas, donde, durante siglos, se habían producido elevaciones de tierra que luego fueron cubiertas sucesivamente por el mar, aunque algunas de las tierras más altas permanecieron como islas... Se elevó una verdadera meseta montañosa que estaba destinada, posteriormente, a ser tallada en las Montañas Rocosas actuales por el arte combinado de los elementos de la naturaleza». [^5]
 
 En el siguiente capítulo dice: «Hace 45.000.000 de años las columnas vertebrales continentales se elevaron en asociación con un hundimiento muy general de las líneas costeras.»[^6]
 
@@ -185,7 +200,7 @@ Revisar el relato de Grayson de la historia de la posición de Young Sierras ayu
 
 Una vez que las mentes científicas toman una posición, entran en juego tanto consideraciones de ego como financieras. ¿Se requieren más pruebas para refutar una teoría que las que se necesitaban para establecerla en primer lugar? Un análisis imparcial exige que no se dé preferencia a qué teoría surgió primero; si queremos dar crédito a la idea de que la ciencia está progresando, entonces se debe dar más credibilidad a las técnicas de análisis más nuevas, más avanzadas y menos subjetivas que a los enfoques más obsoletos y subjetivos del pasado.
 
-Abordado desde esta perspectiva, el informe de 2006 preparado por Mulch, Graham y Chamberlain no sólo refuerza la posición de Old Sierras, sino que también da credibilidad a la historia geológica proporcionada en El libro de Urantia en 1955.
+Abordado desde esta perspectiva, el informe de 2006 preparado por Mulch, Graham y Chamberlain no sólo refuerza la posición de Old Sierras, sino que también da credibilidad a la historia geológica proporcionada en _El Libro de Urantia_ en 1955.
 
 ## Enlaces externos
 
@@ -213,18 +228,33 @@ Abordado desde esta perspectiva, el informe de 2006 preparado por Mulch, Graham 
 
 **Phil Calabrese artículo:**
 
-**Edad de la cordillera de Sierra Nevada.** Como otro ejemplo de la asombrosa capacidad de El libro de Urantia para evitar el error y proporcionar la verdad, los geólogos de la Universidad de Stanford pudieron determinar una edad mínima para la cordillera de Sierra Nevada examinando la lluvia que cayó allí hace 45 millones de años que quedó atrapada en grava empapada. Descubrieron que cayó a altitudes similares a la lluvia que cae allí ahora. (La lluvia que cae a altitudes más bajas contiene un mayor porcentaje de deuterio (hidrógeno pesado) que la lluvia que cae a grandes altitudes). Según Kathy A Svitil de Discover Magazine, esto «resolvió una disputa de larga data sobre la edad de la cordillera de Sierra Nevada» en la que «la mayoría de los científicos habían situado la edad de la Sierra en menos de 5 millones de años». [10]
+**Edad de la cordillera de Sierra Nevada.** Como otro ejemplo de la asombrosa capacidad de _El Libro de Urantia_ para evitar el error y proporcionar la verdad, los geólogos de la Universidad de Stanford pudieron determinar una edad mínima para la cordillera de Sierra Nevada examinando la lluvia que cayó allí hace 45 millones de años que quedó atrapada en grava empapada. Descubrieron que cayó a altitudes similares a la lluvia que cae allí ahora. (La lluvia que cae a altitudes más bajas contiene un mayor porcentaje de deuterio (hidrógeno pesado) que la lluvia que cae a grandes altitudes). Según Kathy A Svitil de Discover Magazine, esto «resolvió una disputa de larga data sobre la edad de la cordillera de Sierra Nevada» en la que «la mayoría de los científicos habían situado la edad de la Sierra en menos de 5 millones de años». [10]
 
 En cambio, el Libro de Urantia de 1955 [11] explica completamente y con gran detalle todo el proceso de formación de las montañas (todavía en gran parte desconocido) incluyendo cómo las Sierras se formaron inicialmente al final del período Crustáceo (hace 144 a 65 millones de años, [12]) durante el choque continental occidental contra una obstrucción en el fondo del océano Pacífico que puso fin a la deriva hacia el oeste de los continentes de América del Norte y del Sur. Las Sierras se desgastaron posteriormente y se sumergieron, pero luego volvieron a elevarse por la acción volcánica en curso. La historia es complicada.
 
 «Hace 25.000.000 de años hubo una ligera inmersión de la tierra después de la larga época de elevación de la tierra. . Las Sierras fueron bien reelevadas; de hecho, han estado elevándose desde entonces.» [13]
 
-Si los autores del Libro de Urantia de 1955 no hubieran sabido más que la mayoría de los geólogos que viven en 2006, probablemente habrían dado un relato erróneo de cómo se formaron las Sierras Nevadas hace menos de 5 millones de años.
+Si los autores del _Libro de Urantia_ de 1955 no hubieran sabido más que la mayoría de los geólogos que viven en 2006, probablemente habrían dado un relato erróneo de cómo se formaron las Sierras Nevadas hace menos de 5 millones de años.
 
-**Comentario sobre el artículo de Phil**: Afirma: «Las Sierras [sic] se formaron inicialmente al final del período Crustáceo [sic] (hace 144 a 65 millones de años)». Según El libro de Urantia, el período Cretácico es de hace 100 a 50 millones de años, y las Sierras comenzaron a formarse cerca del comienzo de este período geológico. Las fechas de Phil reflejan la datación radiométrica.
+**Comentario sobre el artículo de Phil**: Afirma: «Las Sierras [sic] se formaron inicialmente al final del período Crustáceo [sic] (hace 144 a 65 millones de años)». Según _El libro de Urantia_, el período Cretácico es de hace 100 a 50 millones de años, y las Sierras comenzaron a formarse cerca del comienzo de este período geológico. Las fechas de Phil reflejan la datación radiométrica.
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 <br>
 

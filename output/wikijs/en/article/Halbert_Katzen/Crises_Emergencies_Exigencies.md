@@ -41,12 +41,12 @@ Paper 43: The Constellations; Section 5. The Edentia Fathers since the Lucifer R
 > The rotation of the Most Highs on Edentia was suspended at the time of the Lucifer rebellion. We now have the same rulers who were on duty at that time. We infer that no change in these rulers will be made until Lucifer and his associates are finally disposed of.
 > 
 > The present government of the constellation, however, has been expanded to include twelve Sons of the Vorondadek order. These twelve are as follows: … ([UB 43:5.1-2](/en/The_Urantia_Book/43#p5_1))
-
+> 
 > 8. The Most High emergency administrator, the Vorondadek Son charged with the task of adapting the **emergency enactments** of the Norlatiadek legislature to the rebellion-isolated worlds of Satania. ([UB 43:5.10](/en/The_Urantia_Book/43#p5_10))
-
+> 
 > 10. The Most High judge-advocate, the head of the **emergency tribunal** devoted to the adjustment of the special problems of Norlatiadek growing out of the confusion consequent upon the Satania rebellion. ([UB 43:5.12](/en/The_Urantia_Book/43#p5_12))
-
-> 12. The Most High director, the president of the **emergency council** of Edentia. All personalities assigned to Norlatiadek because of the Satania upheaval constitute the emergency council, and their presiding officer is a Vorondadek Son of extraordinary experience. ([UB 43:5.14](/en/The_Urantia_Book/43#p5_14))
+> 
+> 12. The Most High director, the president of the **emergency council** of Edentia. All personalities assigned to Norlatiadek because of the Satania upheaval constitute the emergency council, and their presiding officer is a Vorondadek Son of extraordinary experience. ([UB 43:5.1-14](/en/The_Urantia_Book/43#p5_1))
 
 > This executive group of seven Lanonandeks constitutes the **expanded emergency administration made necessary by the exigencies of the Lucifer rebellion**. There are only minor courts on Jerusem since the system is the unit of administration, not adjudication, but the Lanonandek administration is supported by the Jerusem executive council, the supreme advisory body of Satania. This council consists of twelve members: ([UB 45:3.9](/en/The_Urantia_Book/45#p3_9))
 

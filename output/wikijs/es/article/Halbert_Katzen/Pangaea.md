@@ -269,7 +269,7 @@ La interpretación de los detalles de cómo este área podría haberse hundido e
 
 ## Notas al pie
 
-[^1]: Las citas de El libro de Urantia se presentan en esta forma. En el caso presente, (UB 101:4.2) significa el Capítulo 101, sección 4, párrafo 2. El libro de Urantia en realidad utiliza el término “Documentos” para referirse a los capítulos.
+[^1]: Las citas de _El Libro de Urantia_ se presentan en esta forma. En el caso presente, (UB 101:4.2) significa el Capítulo 101, sección 4, párrafo 2. _El Libro de Urantia_ en realidad utiliza el término “Documentos” para referirse a los capítulos.
 
 [^2]: http://en.wikipedia.org/wiki/Plate_tectonics
 

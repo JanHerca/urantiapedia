@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet tema--gris claro aclarar-3 px-2">© 2008 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Preparado por Halbert Katzen, J.D. con especial agradecimiento a Chris Halvorson, Ph.D.
 [Actualizado 8/10/08]
@@ -19,15 +34,15 @@ Preparado por Halbert Katzen, J.D. con especial agradecimiento a Chris Halvorson
 <img src="/image/article/Halbert_Katzen/Mercurys_Rotation/mercury.jpg">
 </figure>
 
-El libro de Urantia afirma que la fricción de las mareas hace que la rotación axial de los cuerpos celestes se desacelere hasta detenerse (en relación con el cuerpo alrededor del cual giran) y cita a Mercurio y la Luna como ejemplos. Desde hace mucho tiempo se ha establecido que la rotación de la Luna se ha detenido, y también se creía en el momento de la publicación (1955) que la rotación de Mercurio había cesado. Aunque la creencia generalizada en el momento de la publicación de El libro de Urantia era que Mercurio había dejado de girar, cuando El libro de Urantia abordó el tema de la fricción de las mareas que ralentizaba los cuerpos en órbita hasta detenerlos, no afirmó que Mercurio se hubiera detenido y solo describió a la Luna como un cuerpo que había dejado de girar debido a la fricción de las mareas. En 1965 supimos que Mercurio tiene una rotación lenta. El libro de Urantia evitó la trampa de estar de acuerdo con la ciencia que estaba equivocada, pero que era ampliamente aceptada, en el momento de su publicación.
+_El Libro de Urantia_ afirma que la fricción de las mareas hace que la rotación axial de los cuerpos celestes se desacelere hasta detenerse (en relación con el cuerpo alrededor del cual giran) y cita a Mercurio y la Luna como ejemplos. Desde hace mucho tiempo se ha establecido que la rotación de la Luna se ha detenido, y también se creía en el momento de la publicación (1955) que la rotación de Mercurio había cesado. Aunque la creencia generalizada en el momento de la publicación de _El Libro de Urantia_ era que Mercurio había dejado de girar, cuando _El Libro de Urantia_ abordó el tema de la fricción de las mareas que ralentizaba los cuerpos en órbita hasta detenerlos, no afirmó que Mercurio se hubiera detenido y solo describió a la Luna como un cuerpo que había dejado de girar debido a la fricción de las mareas. En 1965 supimos que Mercurio tiene una rotación lenta. _El Libro de Urantia_ evitó la trampa de estar de acuerdo con la ciencia que estaba equivocada, pero que era ampliamente aceptada, en el momento de su publicación.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## Revisión de la rotación de Mercurio
 
-Este informe es diferente a la mayoría de los demás informes de UBtheNEWS. La mayoría de los informes tratan sobre cómo los avances científicos están corroborando información histórica y científica que no estaba respaldada en 1955, cuando se publicó El libro de Urantia. Este es un ejemplo de cómo El libro de Urantia evitó el escollo de estar de acuerdo con una ciencia que era inexacta en el momento de la publicación. Este es el nivel más bajo de corroboración y podría haber sido simplemente ignorado por completo, si no fuera por los malentendidos sobre este tema tanto dentro como fuera de la comunidad de lectores de El libro de Urantia.
+Este informe es diferente a la mayoría de los demás informes de UBtheNEWS. La mayoría de los informes tratan sobre cómo los avances científicos están corroborando información histórica y científica que no estaba respaldada en 1955, cuando se publicó El libro de Urantia. Este es un ejemplo de cómo _El Libro de Urantia_ evitó el escollo de estar de acuerdo con una ciencia que era inexacta en el momento de la publicación. Este es el nivel más bajo de corroboración y podría haber sido simplemente ignorado por completo, si no fuera por los malentendidos sobre este tema tanto dentro como fuera de la comunidad de lectores de El libro de Urantia.
 
-Los malentendidos se relacionan con el uso de la terminología y la construcción gramatical de la oración relevante para este tema. Los malentendidos sobre estos temas han hecho que lectores y no lectores de El libro de Urantia concluyan que se trata de un caso de inexactitud en El libro de Urantia. Esta historia de malentendidos hace que el tema sea importante para ser cubierto por UBtheNEWS, aunque la credibilidad que el tema proporciona a El libro de Urantia es considerablemente menor que los informes sobre conflictos que se han convertido en corroboraciones. En este caso, nunca hubo un conflicto real entre El libro de Urantia y la ciencia de 1955, excepto en las mentes de aquellos que leyeron mal y/o malinterpretaron lo que dice.
+Los malentendidos se relacionan con el uso de la terminología y la construcción gramatical de la oración relevante para este tema. Los malentendidos sobre estos temas han hecho que lectores y no lectores de _El Libro de Urantia_ concluyan que se trata de un caso de inexactitud en El libro de Urantia. Esta historia de malentendidos hace que el tema sea importante para ser cubierto por UBtheNEWS, aunque la credibilidad que el tema proporciona a _El Libro de Urantia_ es considerablemente menor que los informes sobre conflictos que se han convertido en corroboraciones. En este caso, nunca hubo un conflicto real entre _El Libro de Urantia_ y la ciencia de 1955, excepto en las mentes de aquellos que leyeron mal y/o malinterpretaron lo que dice.
 
 Debido a la controversia histórica relacionada con este tema, este informe abordará primero las cuestiones de terminología e interpretación antes de entrar en el fondo del asunto. Para proporcionar algo de contexto, a continuación se presentan las dos frases pertinentes de El libro de Urantia:
 
@@ -43,11 +58,11 @@ La cuestión de la terminología tiene que ver con definir qué significa que ce
 >
 > El señor Manierre se equivoca en su suposición sobre lo que sucedería si la Tierra desapareciera de repente. Supongamos que esto ocurriera en el instante en que la Luna está en oposición. Entonces continuaría su trayectoria elíptica alrededor del Sol, presentándole constantemente la cara que siempre estuvo expuesta a la Tierra. Si, por el contrario, ésta desapareciera en el momento de la conjunción, la Luna oscilaría gradualmente 180 grados y, después de varias oscilaciones, volvería a girar con la misma cara hacia el Sol. En ambos casos no habría cambios periódicos, sino día y noche eternos, respectivamente, en los lados orientados hacia y desde el astro. [^4]
 
-Claramente, Tesla tenía una actitud crítica hacia las habilidades analíticas de quienes rechazaban su definición, menospreciando tales posiciones al estatus de lo que se «define despreocupadamente en los diccionarios». Sin embargo, el punto aquí no es que El libro de Urantia y Tesla tengan «razón» sobre cómo se define el término y que todas las demás definiciones sean «incorrectas». Muy al contrario, como indican las críticas formuladas contra El libro de Urantia, las definiciones conflictivas todavía están con nosotros casi cien años después de que Tesla escribiera sobre este tema. Intentar una definición autorizada del término sería exagerado y contraproducente. Al discernir el significado de la escritura, los lectores tienen la obligación proactiva, si van a tener integridad intelectual, de dar libertad a los autores con respecto a la definición de la terminología. Cualquiera que abra un diccionario descubre fácilmente que las definiciones múltiples son un aspecto fundamental del lenguaje. Y, como en el caso instantáneo, ocasionalmente estas definiciones múltiples pueden incluso estar en desacuerdo entre sí.
+Claramente, Tesla tenía una actitud crítica hacia las habilidades analíticas de quienes rechazaban su definición, menospreciando tales posiciones al estatus de lo que se «define despreocupadamente en los diccionarios». Sin embargo, el punto aquí no es que _El Libro de Urantia_ y Tesla tengan «razón» sobre cómo se define el término y que todas las demás definiciones sean «incorrectas». Muy al contrario, como indican las críticas formuladas contra _El libro de Urantia_, las definiciones conflictivas todavía están con nosotros casi cien años después de que Tesla escribiera sobre este tema. Intentar una definición autorizada del término sería exagerado y contraproducente. Al discernir el significado de la escritura, los lectores tienen la obligación proactiva, si van a tener integridad intelectual, de dar libertad a los autores con respecto a la definición de la terminología. Cualquiera que abra un diccionario descubre fácilmente que las definiciones múltiples son un aspecto fundamental del lenguaje. Y, como en el caso instantáneo, ocasionalmente estas definiciones múltiples pueden incluso estar en desacuerdo entre sí.
 
-La definición utilizada por El libro de Urantia es completamente razonable y resiste las críticas que se le han hecho, que afirman que ha definido el término «erróneamente». Crear controversia sobre la definición de los términos simplemente evita considerar seriamente los conceptos sustantivos que se expresan. Quienes deseen abordar cuestiones de fondo, en lugar de plantear argumentos «falsos», tienen la obligación de hacer el máximo esfuerzo por discernir el significado sustantivo pretendido de una afirmación, sin importar cómo el autor elija definir los términos. Lo que quiere decir El libro de Urantia cuando afirma «cesa la revolución axial» no solo queda muy claro en el contexto en el que aparece la frase, sino que también es muy útil con la definición utilizada por el famoso Nikola Tesla. Así se demuestra que las críticas que se han lanzado contra El libro de Urantia por la forma en que utiliza la terminología no sólo reflejan un interés en evitar las cuestiones sustanciales, sino que también se muestran como poco investigadas y menos sofisticadas en cuanto al uso del lenguaje con respecto a este tema.
+La definición utilizada por _El Libro de Urantia_ es completamente razonable y resiste las críticas que se le han hecho, que afirman que ha definido el término «erróneamente». Crear controversia sobre la definición de los términos simplemente evita considerar seriamente los conceptos sustantivos que se expresan. Quienes deseen abordar cuestiones de fondo, en lugar de plantear argumentos «falsos», tienen la obligación de hacer el máximo esfuerzo por discernir el significado sustantivo pretendido de una afirmación, sin importar cómo el autor elija definir los términos. Lo que quiere decir _El Libro de Urantia_ cuando afirma «cesa la revolución axial» no solo queda muy claro en el contexto en el que aparece la frase, sino que también es muy útil con la definición utilizada por el famoso Nikola Tesla. Así se demuestra que las críticas que se han lanzado contra _El Libro de Urantia_ por la forma en que utiliza la terminología no sólo reflejan un interés en evitar las cuestiones sustanciales, sino que también se muestran como poco investigadas y menos sofisticadas en cuanto al uso del lenguaje con respecto a este tema.
 
-Con respecto a la cuestión de la interpretación de la frase de El libro de Urantia sobre la rotación de Mercurio (o la falta de ella), algunas personas han sugerido que El libro de Urantia dice que la revolución axial de Mercurio se ha detenido y que, por lo tanto, El libro de Urantia es incorrecto. Esta opinión surge de extraer las siguientes frases de la oración en la que aparecen: «dejando un hemisferio del planeta siempre girado hacia el sol o un cuerpo más grande, como lo ilustra el planeta Mercurio».
+Con respecto a la cuestión de la interpretación de la frase de _El Libro de Urantia_ sobre la rotación de Mercurio (o la falta de ella), algunas personas han sugerido que _El Libro de Urantia_ dice que la revolución axial de Mercurio se ha detenido y que, por lo tanto, _El Libro de Urantia_ es incorrecto. Esta opinión surge de extraer las siguientes frases de la oración en la que aparecen: «dejando un hemisferio del planeta siempre girado hacia el sol o un cuerpo más grande, como lo ilustra el planeta Mercurio».
 
 Este es un análisis defectuoso de las frases porque se las analiza sin tener en cuenta las frases anteriores y la oración anterior. La relación de las frases en cuestión con el resto de la oración y la oración anterior es necesaria para una comprensión adecuada del significado pretendido.
 
@@ -65,9 +80,9 @@ Luego viene la siguiente aclaración separada por comas: «como lo ilustra el pl
 
 La última frase aclaratoria se relaciona naturalmente con la frase que la precede y que distingue a la luna de Mercurio. Fácilmente podría haber dicho algo como, «ambos ahora giran el mismo hemisferio hacia el cuerpo alrededor del cual orbitan». Pero no lo hace. En cambio, distingue estos dos cuerpos entre sí al abordar únicamente el estado de la luna. Al distinguir las dos esferas entre sí, deja a Mercurio solo como un ejemplo del tema principal de la oración, es decir, que la fricción de las mareas ralentiza los planetas, finalmente hasta detenerlos, y afecta primero a los planetas más cercanos al sol.
 
-Por lo tanto, se puede ver en un análisis minucioso y gramatical de la oración que no hace ningún comentario sobre si Mercurio ha dejado de rotar. Sabiamente, El libro de Urantia evita este tema por completo.
+Por lo tanto, se puede ver en un análisis minucioso y gramatical de la oración que no hace ningún comentario sobre si Mercurio ha dejado de rotar. Sabiamente, _El Libro de Urantia_ evita este tema por completo.
 
-Habiendo abordado las cuestiones relacionadas con la definición de la terminología y la interpretación de la oración, ahora podemos centrar nuestra atención en la historia de nuestro (mal)entendido sobre la rotación de Mercurio y cómo esto se relaciona con las declaraciones hechas en El libro de Urantia sobre este tema.
+Habiendo abordado las cuestiones relacionadas con la definición de la terminología y la interpretación de la oración, ahora podemos centrar nuestra atención en la historia de nuestro (mal)entendido sobre la rotación de Mercurio y cómo esto se relaciona con las declaraciones hechas en _El Libro de Urantia_ sobre este tema.
 
 Wikipedia.com proporciona el siguiente comentario:
 
@@ -75,9 +90,9 @@ Wikipedia.com proporciona el siguiente comentario:
 
 Este descubrimiento se realizó diez años después de la publicación de El libro de Urantia.
 
-A pesar de que El libro de Urantia evitó el escollo de estar de acuerdo con la ciencia que estaba equivocada en el momento de su publicación, existe un desacuerdo real (en contraste con los malentendidos que ya se abordaron) entre El libro de Urantia y la ciencia contemporánea. Mientras que El libro de Urantia dice que la fricción de las mareas hace que «un planeta gire cada vez más lento hasta que cesa la revolución axial», la ciencia contemporánea generalmente apoya la noción de que Mercurio tiene una resonancia de giro-órbita estable de 3:2.
+A pesar de que _El Libro de Urantia_ evitó el escollo de estar de acuerdo con la ciencia que estaba equivocada en el momento de su publicación, existe un desacuerdo real (en contraste con los malentendidos que ya se abordaron) entre _El Libro de Urantia_ y la ciencia contemporánea. Mientras que _El Libro de Urantia_ dice que la fricción de las mareas hace que «un planeta gire cada vez más lento hasta que cesa la revolución axial», la ciencia contemporánea generalmente apoya la noción de que Mercurio tiene una resonancia de giro-órbita estable de 3:2.
 
-Aún es una pregunta abierta si las investigaciones futuras armonizarán con la afirmación de El libro de Urantia de que la fricción de las mareas hará que el planeta deje de girar. Y es dudoso que tal armonía ocurra pronto porque las observaciones actuales sugieren que su resonancia de giro-órbita 3:2 es estable. No obstante, observaciones adicionales aún pueden revelar que la rotación axial de Mercurio tiene una medida de inestabilidad que eventualmente lo sacará de lo que actualmente parece a los astrónomos como una resonancia de giro-órbita 3:2 estable.
+Aún es una pregunta abierta si las investigaciones futuras armonizarán con la afirmación de _El Libro de Urantia_ de que la fricción de las mareas hará que el planeta deje de girar. Y es dudoso que tal armonía ocurra pronto porque las observaciones actuales sugieren que su resonancia de giro-órbita 3:2 es estable. No obstante, observaciones adicionales aún pueden revelar que la rotación axial de Mercurio tiene una medida de inestabilidad que eventualmente lo sacará de lo que actualmente parece a los astrónomos como una resonancia de giro-órbita 3:2 estable.
 
 Mercurio es conocido por tener una órbita «excéntrica». Wikipedia.com afirma: «La órbita de Mercurio es la más excéntrica de los planetas principales, con una distancia del planeta al Sol que oscila entre 46.000.000 y 70.000.000 kilómetros». Esta excentricidad crea variaciones en la velocidad de su órbita. La fricción de las mareas, que es un proceso continuo, puede provocar un cambio tanto en la órbita como en la rotación axial de Mercurio.
 
@@ -87,7 +102,7 @@ Algunas investigaciones han ido en la dirección de calcular tal probabilidad/po
 
 Esto deja la cuestión un poco abierta al indicar que existían otras posibilidades. Sin embargo, la gran mayoría de las investigaciones sobre el tema no abordan otras posibilidades de la forma en que se habla de ellas en el artículo anterior y parece haber una aceptación bastante uniforme de la noción de que la rotación es estable en el futuro previsible. Incluso este artículo sugiere que las otras posibilidades se referían a cosas que podrían haber sucedido durante las etapas iniciales del desarrollo de Mercurio, no a desarrollos futuros.
 
-Sin embargo, aunque las opiniones entre los astrónomos sobre este tema hoy en día son tan estables como parece serlo la resonancia 3:2 actual de Mercurio, esta sigue siendo un área de investigación en curso. Las sondas satelitales y las observaciones terrestres siguen proporcionando nuevos datos que aún pueden revelar un grado de inestabilidad. Así como los astrónomos se sorprendieron en la década de 1960 con el descubrimiento de que Mercurio no está en una resonancia 1:1 con el Sol, los avances tecnológicos pueden proporcionar de nuevo una imagen más precisa que nos permita predecir una futura resonancia 1:1. En cualquier caso, El libro de Urantia no se equivocó al afirmar que Mercurio ha dejado de rotar porque simplemente no hace esta afirmación. Muy por el contrario, hizo un buen trabajo al evitar la ciencia errónea en el momento de la publicación.
+Sin embargo, aunque las opiniones entre los astrónomos sobre este tema hoy en día son tan estables como parece serlo la resonancia 3:2 actual de Mercurio, esta sigue siendo un área de investigación en curso. Las sondas satelitales y las observaciones terrestres siguen proporcionando nuevos datos que aún pueden revelar un grado de inestabilidad. Así como los astrónomos se sorprendieron en la década de 1960 con el descubrimiento de que Mercurio no está en una resonancia 1:1 con el Sol, los avances tecnológicos pueden proporcionar de nuevo una imagen más precisa que nos permita predecir una futura resonancia 1:1. En cualquier caso, _El Libro de Urantia_ no se equivocó al afirmar que Mercurio ha dejado de rotar porque simplemente no hace esta afirmación. Muy por el contrario, hizo un buen trabajo al evitar la ciencia errónea en el momento de la publicación.
 
 
 
@@ -109,6 +124,21 @@ Sin embargo, aunque las opiniones entre los astrónomos sobre este tema hoy en d
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 <br>
 
@@ -116,7 +146,7 @@ Sin embargo, aunque las opiniones entre los astrónomos sobre este tema hoy en d
 
 [^1]: [LU 57:6.2](/es/The_Urantia_Book/57#p6_2) Este modo de citar _El libro de Urantia_ proporciona el capítulo (denominado «Documentos» en _El libro de Urantia_), luego la sección, seguida del número de párrafo. «Urantia» es una palabra acuñada con el significado etimológico «(tu) lugar en el cielo».
 
-[^2]: Las convenciones de la física con respecto al uso de los términos «rotación» y «revolución» han gravitado hacia el uso de la palabra «rotar» para hacer referencia a lo que una esfera puede hacer con respecto a su propio eje, mientras que «revolución» se utiliza para hacer referencia a lo que un cuerpo de este tipo puede hacer al orbitar alrededor de otro cuerpo. Al utilizar los términos como sinónimos, El libro de Urantia claramente no sigue esta convención. Esto no hace ninguna diferencia en los temas en cuestión y nunca ha sido un punto de discordia sin importar la posición que la gente haya tenido sobre este tema.
+[^2]: Las convenciones de la física con respecto al uso de los términos «rotación» y «revolución» han gravitado hacia el uso de la palabra «rotar» para hacer referencia a lo que una esfera puede hacer con respecto a su propio eje, mientras que «revolución» se utiliza para hacer referencia a lo que un cuerpo de este tipo puede hacer al orbitar alrededor de otro cuerpo. Al utilizar los términos como sinónimos, _El Libro de Urantia_ claramente no sigue esta convención. Esto no hace ninguna diferencia en los temas en cuestión y nunca ha sido un punto de discordia sin importar la posición que la gente haya tenido sobre este tema.
 
 [^3]: Definición de Vis viva: [L.] (Mec.), fuerza viva; la fuerza de un cuerpo que se mueve contra resistencia, o que realiza trabajo, a diferencia de vis mortua, o fuerza muerta; la energía cinética de un cuerpo en movimiento; la capacidad de un cuerpo en movimiento para realizar trabajo por el hecho de estar en movimiento. [1913 Webster]
 

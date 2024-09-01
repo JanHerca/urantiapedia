@@ -208,7 +208,6 @@ La asociación de la talla del hombre sin cabeza erecto en lo que parece ser la 
 <figcaption><em>Detalles de Gobekli Tepe</em></figcaption>
 </figure>
 
-
 Las obras de arte de Gobekli Tepe son razonablemente consistentes con el relato de *El Libro de Urantia* sobre la desafortunada partida de Adán y Eva del Jardín del Edén. Al carecer de evidencias de un animal tótem específico y dada la variedad de animales peligrosos, las tallas pueden interpretarse como que reflejar el trauma de tener que abandonar su jardín original protegido.
 
 Otro aspecto digno de mención del arte y la arquitectura se refiere a la colocación de piedras y las marcas en ellos que indican que representan personas. Las habitaciones son redondas y cuentan con dos piedras más grandes en el centro. Considere esta configuración a la luz de los siguientes dos extractos sobre la relación entre Adán y Eva y las prácticas familiares de sus descendientes, los anditas.
@@ -231,7 +230,6 @@ En la [\[Figura 12\]](#Gobekli_Tepe_fig_12) de la estatuilla con la vista fronta
 <img src="/image/article/Halbert_Katzen/Gobekli_Tepe/Gobekli-sperm.jpg" width="1400" heigth="520">
 <figcaption><em>A la izquierda una estatuilla mostrando lo que parecen espematozoides individuales. En la más a la derecha parecen ser muchos nadando en paralelo.</em></figcaption>
 </figure>
-
 
 En la [\[Figura 12\]](#Gobekli_Tepe_fig_12) de uno de los pilares con los dedos alrededor de las esquinas, observe la parte de la talla que parece dos semicírculos con una «H» en el medio. Dada la información sobre Adán enseñando a la gente acerca de «los factores de la vida que se unen para formar un nuevo ser», ¿cómo podríamos interpretar este símbolo consistente con lo que sabemos hoy sobre biología?
 
@@ -347,6 +345,8 @@ El relato de *El Libro de Urantia* sobre el destino de los adamitas ayuda mucho 
     </tbody>
   </table>
 </figure>
+
+<br>
 
 ## Referencias
 
