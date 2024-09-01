@@ -142,7 +142,7 @@ Michelle Klimesh, coordinadora de oleoductos
 
 ## Esto y aquello…
 
-Tweets espirituales... ¡Tenga en cuenta que las citas del Libro de Urantia se tuitean a diario! Puede seguirlos en Twitter en Urantiabookquot (menos la e) o ReflectiveSon. Estas citas también se pueden seguir en Facebook @Urantia Book Society of Greater New York. Ayúdenos a construir estas comunidades de redes sociales.
+Tweets espirituales... ¡Tenga en cuenta que las citas del _Libro de Urantia_ se tuitean a diario! Puede seguirlos en Twitter en Urantiabookquot (menos la e) o ReflectiveSon. Estas citas también se pueden seguir en Facebook @Urantia Book Society of Greater New York. Ayúdenos a construir estas comunidades de redes sociales.
 
 Saskia Raevouri revisó The Abridged Urantia Papers de Meredith Sprunger y lo puso a disposición como libro Kindle: http://www.amazon.com/dp/B007R9G786. El precio es de $ 3.99 y todas las ganancias se destinarán a FreeSchools World Literacy, por acuerdo con Meredith, quien le dio los derechos de autor a Square Circles.
 

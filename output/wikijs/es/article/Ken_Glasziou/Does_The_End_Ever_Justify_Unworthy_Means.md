@@ -49,7 +49,7 @@ El «camino» que Jesús nos mostró fue, por supuesto, su vida y su forma de vi
 
 Al parecer, el apóstol Felipe carecía especialmente de espiritualidad y necesitaba alguna instrucción adicional. Después de que Jesús resucitado le dijo a Felipe que eventualmente sería bendecido con visión espiritual y haría un gran trabajo, le dio a Felipe esta amonestación:
 
-> «_Mientras tanto, sé como un niño pequeño en el reino del espíritu y permíteme, como espíritu del nuevo instructor, conducirte hacia adelante en el reino espiritual{53}. De esta manera podré hacer por ti muchas cosas que no he podido realizar mientras vivía contigo como un mortal del reino. Y recuerda siempre, Felipe, que el que me ha visto ha visto al Padre»{54}._» (<a id="a51_372"></a>[LU 181:2.20](/es/The_Urantia_Book/181#p2_20))
+> «_Mientras tanto, sé como un niño pequeño en el reino del espíritu y permíteme, como espíritu del nuevo instructor, conducirte hacia adelante en el reino espiritual. De esta manera podré hacer por ti muchas cosas que no he podido realizar mientras vivía contigo como un mortal del reino. Y recuerda siempre, Felipe, que el que me ha visto ha visto al Padre»._» (<a id="a51_372"></a>[LU 181:2.20](/es/The_Urantia_Book/181#p2_20))
 
 La visión espiritual de Felipe llegaría sólo después de que recibiera el Espíritu de la Verdad.
 

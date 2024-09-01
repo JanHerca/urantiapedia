@@ -80,7 +80,7 @@ Por supuesto, como todos, yo también tengo miedos y dudas. Estuve aterrorizada 
 
 Esta autocrítica me motiva en la lucha por el mandamiento de Dios: «sed perfectos como yo soy perfecto». Es fácil volverse complaciente con el estado de las cosas y seguir ciegamente las normas de la sociedad. La gente suele utilizar la afectación para enmascarar su pasividad y complacencia. Te animo a romper el molde, a hacer lo que te asusta y a desarrollar tu potencial. Sigue esforzándote; si no para ti, para la niña de Guatemala que sólo puede esperar un futuro lavando ropa a mano y volteando tortillas para una familia de seis.
 
-> _Micah Kruger tiene 25 años y vive en Boulder, Colorado. Pertenece a una nueva generación de lectores del Libro de Urantia que crecieron con el Libro. Micah no lo reveló en su artículo, pero uno de los proyectos de servicio en el que está involucrado ahora es la formación de un Grupo de Jóvenes Urantia en Boulder. Puede comunicarse con Micah en krugermquat@hotmail.com_
+> _Micah Kruger tiene 25 años y vive en Boulder, Colorado. Pertenece a una nueva generación de lectores del _Libro de Urantia_ que crecieron con el Libro. Micah no lo reveló en su artículo, pero uno de los proyectos de servicio en el que está involucrado ahora es la formación de un Grupo de Jóvenes Urantia en Boulder. Puede comunicarse con Micah en krugermquat@hotmail.com_
 {.is-info}
 
 

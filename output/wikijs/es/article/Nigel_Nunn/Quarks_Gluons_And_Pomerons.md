@@ -89,7 +89,7 @@ En HERA ha estado sucediendo algo extraño en aproximadamente una décima parte 
 
 Una posible explicación involucra un objeto casi olvidado llamado «pomeron». La idea de un objeto de este tipo fue planteada por primera vez por el físico ruso Isaac Pomeranchuk en 1958. Predijo la existencia de un objeto que no tiene propiedades excepto energía y momento. Se especula que en el diez por ciento de las colisiones inusuales registradas en HERA se desprende un objeto de este tipo.
 
-¿Podemos los lectores del Libro de Urantia especular que en realidad se trata de un ultimáton que se está desprendiendo?
+¿Podemos los lectores del _Libro de Urantia_ especular que en realidad se trata de un ultimáton que se está desprendiendo?
 
 ¿Ha detectado la raza humana su primer ultimáton aislado?
 

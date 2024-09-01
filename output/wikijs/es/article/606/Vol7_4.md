@@ -80,9 +80,9 @@ Academia de Arte y Pensamiento, 178 Marine Pde, Cottesloe, WA 6011.
 
 ## Comentario sobre declaraciones científicas en _El libro de Urantia_
 
-Uno de nuestros lectores en Clifton, Queensland, ha estado recopilando detalles sobre el contenido científico del Libro de Urantia durante muchos años. Ken Glasziou ha hecho esto más o menos de forma aislada, sin acceso a bibliotecas, revistas científicas y sin el beneficio de la discusión.
+Uno de nuestros lectores en Clifton, Queensland, ha estado recopilando detalles sobre el contenido científico del _Libro de Urantia_ durante muchos años. Ken Glasziou ha hecho esto más o menos de forma aislada, sin acceso a bibliotecas, revistas científicas y sin el beneficio de la discusión.
 
-Le gustaría invitar a otros lectores del Libro de Urantia con algún tipo de formación científica a unirse a él en un esfuerzo por producir mejores comentarios y también actualizarlos continuamente. Ken agradecería las críticas y cualquier adición a su primer esfuerzo y también le gustaría tener el beneficio de la discusión. Su experiencia es en bioquímica y biología y es una tarea difícil para él intentar hacer un comentario universal.
+Le gustaría invitar a otros lectores del _Libro de Urantia_ con algún tipo de formación científica a unirse a él en un esfuerzo por producir mejores comentarios y también actualizarlos continuamente. Ken agradecería las críticas y cualquier adición a su primer esfuerzo y también le gustaría tener el beneficio de la discusión. Su experiencia es en bioquímica y biología y es una tarea difícil para él intentar hacer un comentario universal.
 
 Six-0-Six Newsletter publicará una serie de artículos de Ken durante los próximos meses.
 
@@ -152,7 +152,7 @@ Para obtener más información, llame a Geof Harpur. Telf. 911176 Atherton.
 
 ## Mapa de lectores australianos
 
-El boletín de febrero fue hermoso. Ver ese mapa y la ubicación de los otros lectores del Libro de Urantia en relación con mi hogar fue muy reconfortante. Un sentido de hermandad irradiaba de ese mapa. Me encontré preguntándome cómo el mapa afectaba a todos los demás y llegué a la conclusión de que la mayoría de nosotros habríamos sentido lo mismo.
+El boletín de febrero fue hermoso. Ver ese mapa y la ubicación de los otros lectores del _Libro de Urantia_ en relación con mi hogar fue muy reconfortante. Un sentido de hermandad irradiaba de ese mapa. Me encontré preguntándome cómo el mapa afectaba a todos los demás y llegué a la conclusión de que la mayoría de nosotros habríamos sentido lo mismo.
 
 Por favor, transmita mi agradecimiento a su creador.
 

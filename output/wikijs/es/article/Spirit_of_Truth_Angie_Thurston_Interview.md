@@ -58,7 +58,7 @@ Estamos invitados a contribuir, nos dice, ¡y es divertido poner las enseñanzas
 
 Vea las entrevistas de Spirit of Truth y la
 
-Vídeos de la Red del Libro de Urantia en: 
+Vídeos de la Red del _Libro de Urantia_ en: 
 
 https://www.youtube.com/c/URANTIABOOKNETWORK/videos
 

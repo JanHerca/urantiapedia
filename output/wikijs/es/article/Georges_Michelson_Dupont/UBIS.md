@@ -72,7 +72,7 @@ Si tienen alguna pregunta o interés, contacten por favor a Dorothy Elder en [de
 <figcaption><em>Dorothy Elder</em></figcaption>
 </figure>
 
-> «Es crucial exponer las enseñanzas del Libro de Urantia a los diferentes países y culturas del mundo para expandir la conciencia cósmica.»
+> «Es crucial exponer las enseñanzas del _Libro de Urantia_ a los diferentes países y culturas del mundo para expandir la conciencia cósmica.»
 
 > «El profesor puede ayudar a buscar el lecho del río espiritual, pero el río debe fluir desde Dios hacia el hombre.»
 

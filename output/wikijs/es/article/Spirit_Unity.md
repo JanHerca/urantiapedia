@@ -49,7 +49,7 @@ La mayoría de las comparaciones son realmente relativas: dulce o amargo, frío 
 
 ¡La moderación puede estar acercándose sigilosamente a nosotros! Entre los varios comentarios en una edición reciente de una Biblia Católica Romana, y atribuida a un Papa «infalible» Pío XII, ¡hay una declaración de que la Biblia contiene la palabra de Dios en las palabras de los hombres!
 
-¿Cuánto tardarán los fundamentalistas del Libro de Urantia en admitir que esta «revelación» también contiene la palabra divina en las palabras de seres inferiores, incluidos los hombres?
+¿Cuánto tardarán los fundamentalistas del _Libro de Urantia_ en admitir que esta «revelación» también contiene la palabra divina en las palabras de seres inferiores, incluidos los hombres?
 
 Tal vez nuestra propensión a abrazar los extremos se deriva de los restos del tribalismo y el instinto de rebaño que hierven a fuego lento en nuestro subconsciente y se elevan a la conciencia como un abrumador deseo de «pertenecer».
 

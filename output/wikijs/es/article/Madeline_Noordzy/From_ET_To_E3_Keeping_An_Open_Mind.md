@@ -95,7 +95,7 @@ Ha sido interesante observar que otros lectores en Australia tuvieron ideas prec
 
 Sé que ninguna de las personas de nuestro grupo se arrepintió ni por un momento de haberlos escuchado. Todos estuvieron de acuerdo: era un hermoso mensaje de fe, esperanza y amor. Pero la verdad es relativa. Incluso si estas cintas contienen algún error, cada maestro tiene algo de verdad, ninguno la tiene toda. Ni siquiera _El Libro de URANTIA_. ¿No es siempre progresiva la revelación?
 
-Muchas veces en el pasado he sido testigo de la frustración de los lectores del Libro de Urantia con la actitud de los fundamentalistas de ciertas denominaciones cristianas, quienes, porque la Biblia dice que no se debe agregar nada, cierran sus mentes a la luz de nuevas verdades. Ciertamente no quiero convertirme en un fundamentalista del Libro de URANTIA.
+Muchas veces en el pasado he sido testigo de la frustración de los lectores del _Libro de Urantia_ con la actitud de los fundamentalistas de ciertas denominaciones cristianas, quienes, porque la Biblia dice que no se debe agregar nada, cierran sus mentes a la luz de nuevas verdades. Ciertamente no quiero convertirme en un fundamentalista del Libro de URANTIA.
 
 _El Libro de URANTIA_ por ejemplo dice que las comunicaciones con los muertos no están permitidas en esta dispensación. Sin embargo, parece que se están acumulando pruebas de que se envían mensajes desde el más allá. En casos como ese simplemente me gusta mantener la mente abierta al respecto. Quizás hayamos entrado en una nueva dispensación donde está permitido. ¿Quién sabe?
 

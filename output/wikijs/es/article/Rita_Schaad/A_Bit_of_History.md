@@ -156,7 +156,7 @@ _Por Marion Steward, Auckland:_
 
 «En _El Libro de Urantia_ se nos anima a conocer otras religiones y a aprovechar lo mejor de todas ellas, pero ¿hacemos esto en el contexto de un grupo de estudio o es mejor hacerlo individualmente? Agradeceríamos cualquier comentario al respecto.
 
-Nuestra reunión prosiguió hasta el almuerzo del domingo, seguido de una breve discusión sobre aspectos multiculturales y multilingües, y terminó con un acuerdo general de que el fin de semana había sido muy exitoso y ¡debemos hacerlo nuevamente pronto! Con suerte, la próxima vez nos uniremos al grupo de Hamilton y comenzaremos a sembrar las semillas de una fraternidad del Libro de Urantia en Nueva Zelanda.»_
+Nuestra reunión prosiguió hasta el almuerzo del domingo, seguido de una breve discusión sobre aspectos multiculturales y multilingües, y terminó con un acuerdo general de que el fin de semana había sido muy exitoso y ¡debemos hacerlo nuevamente pronto! Con suerte, la próxima vez nos uniremos al grupo de Hamilton y comenzaremos a sembrar las semillas de una fraternidad del _Libro de Urantia_ en Nueva Zelanda.»_
 
 (fin del artículo de Marion)
 

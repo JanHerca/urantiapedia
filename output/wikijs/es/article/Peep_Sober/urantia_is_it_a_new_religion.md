@@ -57,7 +57,7 @@ La palabra _religión_ en si misma es de origen latino, en la que significaba re
 
 William S. Sadler mencionó:
 
-> Se nos ordenó abstenernos de debatir sobre la identidad de la personalidad de contacto y, tras la publicación del libro, no hacer declaraciones en ningún momento sobre si el «sujeto» seguía vivo o había fallecido. … Nuestros problemas serán mucho menores si evitamos toda discusión sobre el origen del libro. Deberíamos estar decididos a saber solo una cosa: el mensaje salvador del alma del libro (El plan para la revelación de El libro de Urantia, de Carolyn B. Kendall – miembro del Foro 1951-1956, esposa de Thomas A. Kendall, presidente de la Fundación Urantia 1973-1983.) [^1]
+> Se nos ordenó abstenernos de debatir sobre la identidad de la personalidad de contacto y, tras la publicación del libro, no hacer declaraciones en ningún momento sobre si el «sujeto» seguía vivo o había fallecido. … Nuestros problemas serán mucho menores si evitamos toda discusión sobre el origen del libro. Deberíamos estar decididos a saber solo una cosa: el mensaje salvador del alma del libro (El plan para la revelación de _El libro de Urantia_, de Carolyn B. Kendall – miembro del Foro 1951-1956, esposa de Thomas A. Kendall, presidente de la Fundación Urantia 1973-1983.) [^1]
 
 En consecuencia, no debato sobre la identidad de esta persona, solo considero el movimiento Urantia que surgió después de que se publicara el libro y su conexión con la religión.
 

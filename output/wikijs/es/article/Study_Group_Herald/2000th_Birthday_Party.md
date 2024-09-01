@@ -45,9 +45,9 @@ La celebración del bimilenario en Chile consistió en una vigilia que duró tod
 
 ## Noroeste de Colorado
 
-El fin de semana del 21 de agosto de 1994, los lectores del Libro de Urantia se reunieron en las montañas del noroeste de Colorado para un campamento y una fiesta de cumpleaños. Disfrutamos de la adoración y el compañerismo bajo los susurrantes pinos y las estrellas brillantes para desearle a nuestro amado Jesús un más sincero feliz cumpleaños número 2000.
+El fin de semana del 21 de agosto de 1994, los lectores del _Libro de Urantia_ se reunieron en las montañas del noroeste de Colorado para un campamento y una fiesta de cumpleaños. Disfrutamos de la adoración y el compañerismo bajo los susurrantes pinos y las estrellas brillantes para desearle a nuestro amado Jesús un más sincero feliz cumpleaños número 2000.
 
-Se leyeron pasajes del Libro de Urantia cuando comenzó el servicio de adoración vespertino y honramos al Espíritu de la Verdad con una cena conmemorativa. Luego compartimos un pastel de cumpleaños con grandes círculos concéntricos azules en el glaseado y le deseamos a Michael un muy feliz cumpleaños.
+Se leyeron pasajes del _Libro de Urantia_ cuando comenzó el servicio de adoración vespertino y honramos al Espíritu de la Verdad con una cena conmemorativa. Luego compartimos un pastel de cumpleaños con grandes círculos concéntricos azules en el glaseado y le deseamos a Michael un muy feliz cumpleaños.
 
 Mientras el sol se abría paso detrás de la división continental y las estrellas comenzaban a brillar, nos reunimos alrededor de la gran fogata y cantamos villancicos y otras canciones festivas. Los niños más pequeños estaban metidos en sus sacos de dormir y la mayoría de los adultos se reunieron alrededor de la fogata mientras la noche se hacía fría y esperaban la hora designada (las 2 a.m.) para desearle a Jesús un feliz cumpleaños a la hora exacta de las 12 del mediodía en Israel, donde casi 100 lectores del _Libro de Urantia_ se reunieron en Shepherd's Field. Fue una adoración maravillosa, cada uno de nosotros, en silencio y al unísono, uniendo nuestros corazones al de tantos de nuestros hermanos y hermanas en todo el mundo. Con las estrellas como dosel, sentimos la realidad de nuestra familia global.
 
@@ -75,7 +75,7 @@ Disfrutamos de una maravillosa celebración del 2000 aniversario de Michael en u
 
 ## Alaska
 
-Cerca de 40 lectores del Libro de Urantia se reunieron en Willow para una cena conmemorativa y un picnic compartido. Habían pasado muchos años desde que todas las personas de todo el estado se habían reunido, y el cumpleaños de Jesús fue la ocasión perfecta para reunir a viejos amigos y conocer otros nuevos.
+Cerca de 40 lectores del _Libro de Urantia_ se reunieron en Willow para una cena conmemorativa y un picnic compartido. Habían pasado muchos años desde que todas las personas de todo el estado se habían reunido, y el cumpleaños de Jesús fue la ocasión perfecta para reunir a viejos amigos y conocer otros nuevos.
 
 Willow es una pequeña comunidad a dos horas al norte de Anchorage. Lectores dedicados viajaron desde lugares tan lejanos como Homer, ocho horas, y Fairbanks, cinco horas, para asistir. El grupo de Anchorage alquiló una furgoneta para viajar juntos durante el día. Cuando todos llegaron, desempaquetaron la comida y la colocaron en varias mesas de picnic, y comenzó el banquete y las visitas. Los niños estaban muy contentos de estar en el campo y observaron de cerca la gran tarta de cumpleaños de Cristo Miguel.
 

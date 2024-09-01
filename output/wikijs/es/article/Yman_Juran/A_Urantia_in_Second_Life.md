@@ -48,7 +48,7 @@ Inicialmente te unes al mundo virtual creándote a ti mismo como un avatar, cual
 
 Quería crear una compañía de circo, con un mensaje de sabiduría, paz, iluminación y amor, para animar a la comunidad y la cultura de SecondLife ofreciendo espectáculos con actuaciones que enriquezcan y eleven el alma y el espíritu de los presentes. Quería crear una impresión espiritual en la mente de la audiencia.
 
-Dentro de SL he creado una patria, mi base donde se puede ofrecer y compartir una versión virtual del Libro de Urantia de 2100 páginas de forma gratuita al hacer clic en un proveedor. Siempre abro mi programa diciendo: "Les damos la bienvenida a una actuación realizada en inspiración y agradecimiento a The Mighty Acts of The Gods que apoyan a la humanidad en su futuro progresivo de creatividad y cultura aquí en SL, así como en la realidad..."
+Dentro de SL he creado una patria, mi base donde se puede ofrecer y compartir una versión virtual del _Libro de Urantia_ de 2100 páginas de forma gratuita al hacer clic en un proveedor. Siempre abro mi programa diciendo: "Les damos la bienvenida a una actuación realizada en inspiración y agradecimiento a The Mighty Acts of The Gods que apoyan a la humanidad en su futuro progresivo de creatividad y cultura aquí en SL, así como en la realidad..."
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/006.jpg">

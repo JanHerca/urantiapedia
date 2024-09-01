@@ -281,7 +281,7 @@ Neil Francey, Queensland
 
 En esta colección de artículos breves, el estudio de la ética se lleva a un nivel universal. Se aplican a las formas más elevadas de comportamiento en relación con el progreso de cada uno de nosotros en los ámbitos venideros. Van más allá de la aplicación de la ética al nivel mortal de funcionamiento donde son la base de nuestra forma de vida.
 
-Seleccionando citas apropiadas del Libro de Urantia y dirigiendo el estudio a un tema particular, se puede abordar un aspecto de las naturalezas mortal y espiritual del hombre. Al estudiar extractos cuidadosamente seleccionados, se pueden formular nuevas ideas y conocimientos relacionados. Se pueden generar nuevos entendimientos.
+Seleccionando citas apropiadas del _Libro de Urantia_ y dirigiendo el estudio a un tema particular, se puede abordar un aspecto de las naturalezas mortal y espiritual del hombre. Al estudiar extractos cuidadosamente seleccionados, se pueden formular nuevas ideas y conocimientos relacionados. Se pueden generar nuevos entendimientos.
 
 La ética espiritual y la ética posmortal afectan universalmente la vida mortal de manera transformadora para la sociedad y el individuo. La ética más elevada, como verdad, impacta en los hábitos y comportamientos personales y grupales. Y como tales, contribuyen a las costumbres y potencialmente marcan el comienzo de niveles elevados de la sociedad civil.
 
@@ -336,7 +336,7 @@ Roberto Venosa
 <img src="/image/article/The_Arena/Astral-Circus-226x300.jpg" alt="Astral Circus">
 </figure>
 
-_(Robert Venosa (1936 -2011) fue un artista y también lector del Libro de Urantia que vivió y trabajó en Boulder, EE. UU. y España. Este poema fue tomado de su libro Noospheres 1991)_
+_(Robert Venosa (1936 -2011) fue un artista y también lector del _Libro de Urantia_ que vivió y trabajó en Boulder, EE. UU. y España. Este poema fue tomado de su libro Noospheres 1991)_
 
 Una Luz eterna de la fuente infinita
 Una idea en movimiento en un curso infinito.
@@ -360,9 +360,9 @@ Administrador de Anzura
 <img src="/image/article/The_Arena/Aust-NZ-snip-300x207.jpg" alt="Arena newsletter">
 </figure>
 
-La Asociación Urantia de Australia y Nueva Zelanda (ANZURA) está formada por personas que desean ayudar a fomentar el estudio del Libro de Urantia y la difusión de sus enseñanzas en toda Australia y Nueva Zelanda. Busca hacer esto proporcionando entornos de aprendizaje interactivos en los que los estudiantes puedan profundizar y ampliar su conocimiento del libro y disfrutar de la interacción y el intercambio de ideas con sus compañeros.
+La Asociación Urantia de Australia y Nueva Zelanda (ANZURA) está formada por personas que desean ayudar a fomentar el estudio del _Libro de Urantia_ y la difusión de sus enseñanzas en toda Australia y Nueva Zelanda. Busca hacer esto proporcionando entornos de aprendizaje interactivos en los que los estudiantes puedan profundizar y ampliar su conocimiento del libro y disfrutar de la interacción y el intercambio de ideas con sus compañeros.
 
-Nuestra intención es no obstaculizar nuestro trabajo de difusión del Libro de Urantia y sus enseñanzas con la iglesia, el templo u otras instituciones espirituales. Nuestros miembros han llegado a reconocer la importancia del libro y la belleza integrada de sus enseñanzas supremas que nos animan a desarrollar nuestra propia filosofía a través del estudio, la experiencia, las decisiones y las acciones. Sin embargo, mantenemos la opinión y reconocemos que colectivamente hay muchos proyectos y programas valiosos que podemos emprender juntos para lograr nuestros objetivos.
+Nuestra intención es no obstaculizar nuestro trabajo de difusión del _Libro de Urantia_ y sus enseñanzas con la iglesia, el templo u otras instituciones espirituales. Nuestros miembros han llegado a reconocer la importancia del libro y la belleza integrada de sus enseñanzas supremas que nos animan a desarrollar nuestra propia filosofía a través del estudio, la experiencia, las decisiones y las acciones. Sin embargo, mantenemos la opinión y reconocemos que colectivamente hay muchos proyectos y programas valiosos que podemos emprender juntos para lograr nuestros objetivos.
 
 [Leer más](https://anzura.urantia-association.org/2022/01/01/about-anzura/#more-1383)
 <br style="clear:both;"/>
@@ -394,7 +394,7 @@ Administrador de Anzura
 <img src="/image/article/The_Arena/UB-Endeavour-Logo-and-text-screenshot-190x300.jpg" alt="UB Endeavour">
 </figure>
 
-La misión de ANZURA es _fomentar el estudio en profundidad_ del Libro de Urantia _y difundir sus enseñanzas_.
+La misión de ANZURA es _fomentar el estudio en profundidad_ del _Libro de Urantia_ _y difundir sus enseñanzas_.
 
 El _LU Endeavour_ es una iniciativa de recaudación de fondos para que ANZURA nos ayude a difundir _El Libro de Urantia_ y sus enseñanzas en toda la región de Australia, Nueva Zelanda y el Pacífico Sur.
 

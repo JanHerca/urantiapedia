@@ -65,7 +65,7 @@ Una red de liderazgo espiritual interesada en _El libro de Urantia_ como recurso
 
 1. Lea todo el _Libro de Urantia_ para obtener su amplia visión universal de la realidad. Muchos de nosotros comenzamos a leer el libro en la Parte IV, La vida y las enseñanzas de Jesús. Si desea obtener una visión general rápida del libro, puede leer «El regalo de la revelación», un resumen de veintidós páginas de los hechos y verdades básicos de _El Libro de Urantia_.
 2. Tenga disponible el _Concordex_ de _El Libro de Urantia_ para ayudarle a investigar los temas sobre los que está predicando o enseñando.
-3. Utilice el _Paramony_, que es un paralelo y una armonía de la Biblia y _El Libro de Urantia_, para localizar material del Libro de Urantia en el texto bíblico que está utilizando en la preparación del sermón.
+3. Utilice el _Paramony_, que es un paralelo y una armonía de la Biblia y _El Libro de Urantia_, para localizar material del _Libro de Urantia_ en el texto bíblico que está utilizando en la preparación del sermón.
 
 ## _Spiritual Fellowship Journal_
 
@@ -122,7 +122,7 @@ Copyright © 1992, Todos los derechos reservados.
 - **La Segunda Ilustración: Liberalismo y Religión**
 	El liberalismo, con su énfasis en la tolerancia y la libertad individual, ha triunfado en la economía y la política. Estamos avanzando hacia una época en la que finalmente triunfará también en el ámbito de la religión.
 - **Conceptos de salvación: La Biblia y_El Libro de Urantia_ Comparados**
-	Los conceptos bíblicos y del Libro de Urantia son simbióticos y se refuerzan mutuamente. La visión histórica de Ireneo y muchas teologías contemporáneas encajan con _El Libro de Urantia_.
+	Los conceptos bíblicos y del _Libro de Urantia_ son simbióticos y se refuerzan mutuamente. La visión histórica de Ireneo y muchas teologías contemporáneas encajan con _El Libro de Urantia_.
 
 ***Columnas***
 

@@ -210,7 +210,7 @@ Nuestros dos patrocinadores han indicado su interés en repetir nuevamente el pr
 
 Los miembros y amigos de la Sociedad Urantia del Gran Nueva York se reunieron en el Centro de conferencias de Warwick en Nueva York en octubre para participar en «Un curso de formación espiritual» dirigido por Marvin Gawryn. El programa titulado «Una forma de vida en la familia de Dios» fue una muestra del curso de nueve semanas de Marvin. En sus palabras, su propósito es profundizar en esta forma superior de vida en la familia espiritual y cada una de las siete verdades que forman parte de ella: la relación espiritual padre-hijo, la relación espiritual hermana-hermano, el espíritu interior, la Voluntad de Dios, la Vida Eterna y la Fe.
 
-El fin de semana comenzó con un tiempo de adoración «... el más alto privilegio y el primer deber de todas las inteligencias creadas». Marvin presentó la «Oración Centrante» y concluimos el viernes por la noche con un momento de tranquilidad para centrarnos en el abrazo de nuestro Padre. El sábado y el domingo disfrutamos de tiempo para socializar con viejos y nuevos amigos. Pasamos el resto de nuestro tiempo considerando citas del Libro de Urantia y preguntas relacionadas para debatir sobre cada una de las siete verdades. Marvin espera que el programa sea una forma no solo de ayudar a los lectores a vivir estas verdades a través de la fe y la transformación espiritual, sino también de llevar la verdad de _El Libro de Urantia_ a una audiencia más amplia que no lee.
+El fin de semana comenzó con un tiempo de adoración «... el más alto privilegio y el primer deber de todas las inteligencias creadas». Marvin presentó la «Oración Centrante» y concluimos el viernes por la noche con un momento de tranquilidad para centrarnos en el abrazo de nuestro Padre. El sábado y el domingo disfrutamos de tiempo para socializar con viejos y nuevos amigos. Pasamos el resto de nuestro tiempo considerando citas del _Libro de Urantia_ y preguntas relacionadas para debatir sobre cada una de las siete verdades. Marvin espera que el programa sea una forma no solo de ayudar a los lectores a vivir estas verdades a través de la fe y la transformación espiritual, sino también de llevar la verdad de _El Libro de Urantia_ a una audiencia más amplia que no lee.
 
 ### El estudio intensivo continúa en 2017 en First Society
 
@@ -243,7 +243,7 @@ La sociedad se volvió 'virtual' realizando reuniones de negocios utilizando con
 
 La Sociedad de Orvonton está viva de nuevo y su membresía está creciendo. Tres de sus miembros ahora se desempeñan como presidentes de comités y en el comité ejecutivo de la Fellowship, y la sociedad organizó una conferencia regional del medio oeste en Indianápolis en 2016.
 
-### Sociedad del Libro de Urantia del Gran Cañón
+### Sociedad del _Libro de Urantia_ del Gran Cañón
 
 Celebración del cumpleaños de Jesús el 19 de agosto en la casa de Lyle Brown en Cottonwood, AZ.
 

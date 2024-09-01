@@ -118,7 +118,7 @@ Cuando ANZURA organiza un Día Internacional de Estudio, la esperanza es brindar
 
 No se debe subestimar el valor de reunirnos con otros lectores; después de todo, nuestro crecimiento personal y nuestras experiencias religiosas se fomentan mejor cuando nos relacionamos (interactuamos) con otras personalidades (¡otras personas!).
 
-¡De esta manera, ANZURA intenta fomentar un sentido de pertenencia y cohesión entre los lectores del Libro de Urantia en todos los vastos océanos! Es muy importante que tales eventos también puedan fomentar el liderazgo y la extensión, ya que la participación práctica en grupos de estudio puede fortalecer nuestra determinación y dedicación para cumplir el mandato de difundir la revelación Urantia con un enfoque personal.
+¡De esta manera, ANZURA intenta fomentar un sentido de pertenencia y cohesión entre los lectores del _Libro de Urantia_ en todos los vastos océanos! Es muy importante que tales eventos también puedan fomentar el liderazgo y la extensión, ya que la participación práctica en grupos de estudio puede fortalecer nuestra determinación y dedicación para cumplir el mandato de difundir la revelación Urantia con un enfoque personal.
 
 Los grupos se reunieron durante el fin de semana del 1<sup>st</sup> de junio para estudiar el **Documento 9: La relación del Espíritu Infinito con el Universo**_._ Los siguientes artículos contienen algunas reflexiones de algunos de los que se reunieron.
 
@@ -290,7 +290,7 @@ Grupo de servicios de publicaciones
 <img src="/image/article/The_Arena/From-the-Internet-300x169.jpg" alt="Stars">
 </figure>
 
-_(**Nota del editor**: Hay muchas personas interesantes que están apareciendo en Internet y que están dando conferencias a través de videos y podcasts de YouTube. Los editores de Arena han decidido crear una sección en este boletín para compartir algunas de las «Perlas de Wisdom» que circula por todo el mundo y que puede ser de interés. Uno de esos individuos que ha captado la atención de muchos lectores del Libro de Urantia es Jordan Peterson. Pero primero... **¿Quién es Jordan Peterson?...**)_.
+_(**Nota del editor**: Hay muchas personas interesantes que están apareciendo en Internet y que están dando conferencias a través de videos y podcasts de YouTube. Los editores de Arena han decidido crear una sección en este boletín para compartir algunas de las «Perlas de Wisdom» que circula por todo el mundo y que puede ser de interés. Uno de esos individuos que ha captado la atención de muchos lectores del _Libro de Urantia_ es Jordan Peterson. Pero primero... **¿Quién es Jordan Peterson?...**)_.
 
 El Dr. Jordan B. Peterson es profesor de psicología en la Universidad de Toronto, psicólogo clínico y autor del bestseller multimillonario [12 reglas para la vida: un antídoto contra el caos](https://www.jordanbpeterson.com/12-rules-for-life/).
 
@@ -375,7 +375,7 @@ Administrador de Anzura
 <img src="/image/article/The_Arena/UB-Endeavour-Logo-and-text-screenshot-190x300.jpg" alt="UB Endeavour">
 </figure>
 
-La misión de ANZURA es _fomentar el estudio en profundidad_ del Libro de Urantia _y difundir sus enseñanzas_.
+La misión de ANZURA es _fomentar el estudio en profundidad_ del _Libro de Urantia_ _y difundir sus enseñanzas_.
 
 El _LU Endeavour_ es una iniciativa de recaudación de fondos para que ANZURA nos ayude a difundir _El Libro de Urantia_ y sus enseñanzas en toda la región de Australia, Nueva Zelanda y el Pacífico Sur.
 

@@ -62,7 +62,7 @@ Gardner dice que la sección de Jesús de _El Libro de Urantia_ es impresionante
 
 Si bien Gardner está impresionado con los documentos de Jesús, no cree que sean la verdad revelada. Su teoría es que esta sección de *El Libro de Urantia* fue escrita por el Dr. Sadler con quizás algo de ayuda de la Dra. Lena Sadler, su esposa.
 
-## La ciencia y la eugenesia del Libro de Urantia reciben una paliza
+## La ciencia y la eugenesia del _Libro de Urantia_ reciben una paliza
 
 Gardner es el más crítico de la ciencia de _El Libro de Urantia_, especialmente de la eugenesia. Vincula la eugenesia del libro con el interés y los escritos del Dr. Sadler sobre la eugenesia. De hecho, la ciencia y la eugenesia son dos áreas en las que el libro es más vulnerable al ataque de los críticos.
 

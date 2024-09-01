@@ -196,7 +196,7 @@ Islas Canarias | Francia | Irán | Palestina | Tailandia |
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/Miguel_Anoba.jpg">
 </figure>
 
-**Miguel Anoba** es nativo de Raleigh, NC, y es un cantante y músico que ahora vive en el área de Boulder, CO. Lector del Libro de Urantia durante más de diez años, Miguel es presidente de la Fellowship Espiritual de las Montañas Rocosas y se unió al Consejo General. Le encanta el mandato de la Unidad Espiritual y ha unido fuerzas con los YaYA y otros grupos fantásticos de la Fellowship para ayudar a difundir esta asombrosa revelación a todos. Actualmente está trabajando con la comunidad de Brighton, CO para alimentar y albergar a los pobres mientras crea un Centro Comunitario Urantia para todas las personas. Comuníquese con Miguel para cualquier ayuda necesaria y para servicios voluntarios para otros, en miguelanoba@gmail.com.
+**Miguel Anoba** es nativo de Raleigh, NC, y es un cantante y músico que ahora vive en el área de Boulder, CO. Lector del _Libro de Urantia_ durante más de diez años, Miguel es presidente de la Fellowship Espiritual de las Montañas Rocosas y se unió al Consejo General. Le encanta el mandato de la Unidad Espiritual y ha unido fuerzas con los YaYA y otros grupos fantásticos de la Fellowship para ayudar a difundir esta asombrosa revelación a todos. Actualmente está trabajando con la comunidad de Brighton, CO para alimentar y albergar a los pobres mientras crea un Centro Comunitario Urantia para todas las personas. Comuníquese con Miguel para cualquier ayuda necesaria y para servicios voluntarios para otros, en miguelanoba@gmail.com.
 
 <figure id="Figure_10" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/Sean_Privitera.jpg">
@@ -317,7 +317,7 @@ Todavía se están recopilando encuestas y resúmenes para ayudar al UCPNW a pla
 
 ¡Aquí en el Inland Northwest estamos realmente emocionados de anunciar que este septiembre catorce miembros del Comité Ejecutivo de la Fellowship y alrededor de veinticinco creyentes locales pasaron la noche finalmente inaugurando nuestra sociedad recién formada! Fue una velada increíble en la que compartimos tiempo juntos en compañerismo con un sentimiento palpable de esperanza y entusiasmo por el futuro.
 
-Todo esto fue posible gracias a los esfuerzos combinados de muchos lectores del Libro de Urantia aquí en nuestra área. Nuestra Sociedad Uranita del Noroeste del Interior intentará ser un faro de innovación y progreso para el modelo de sociedad de la Fellowship.
+Todo esto fue posible gracias a los esfuerzos combinados de muchos lectores del _Libro de Urantia_ aquí en nuestra área. Nuestra Sociedad Uranita del Noroeste del Interior intentará ser un faro de innovación y progreso para el modelo de sociedad de la Fellowship.
 
 ## SSS 15 y Celebración del 60 Aniversario de la Primera Imprenta
 

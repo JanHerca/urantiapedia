@@ -47,7 +47,7 @@ Además de los esfuerzos inspiradores sobre los que leerá a continuación, el C
 
 - explorar formas de apoyar a la comunidad local y en línea
 - el rediseño de nuestro sitio web
-- impresión de la próxima edición del Libro de Urantia de Uversa Press
+- impresión de la próxima edición del _Libro de Urantia_ de Uversa Press
 - sobre una visión para esta organización que eleva la verdad viva y la transformación espiritual que se encuentra en El libro de Urantia
 
 Esta organización cuenta con un increíble equipo de voluntarios y personal que se dedica apasionadamente a compartir esta revelación que cambia la vida.

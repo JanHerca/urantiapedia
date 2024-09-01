@@ -190,7 +190,7 @@ Algunas bibliotecas todavía incluyen incorrectamente _El Libro de URANTIA_ bajo
 
 ## Simposio interreligioso
 
-El Grupo de Estudio del Libro de Urantia de Indianápolis celebró un simposio interreligioso en julio pasado. Se invitó a oradores de diferentes religiones, entre ellos algunos de: fe bahá'í, budismo tibetano, catolicismo romano, hinduismo, islam, judaísmo, lakota-sioux (iglesia nativa americana de Indiana), sikh y taoísmo. Nuestra amiga Dana Poole informó que fue un verdadero éxito.
+El Grupo de Estudio del _Libro de Urantia_ de Indianápolis celebró un simposio interreligioso en julio pasado. Se invitó a oradores de diferentes religiones, entre ellos algunos de: fe bahá'í, budismo tibetano, catolicismo romano, hinduismo, islam, judaísmo, lakota-sioux (iglesia nativa americana de Indiana), sikh y taoísmo. Nuestra amiga Dana Poole informó que fue un verdadero éxito.
 
 ## Noticias de Seattle
 
@@ -200,7 +200,7 @@ Fue una ocasión especial, aunque su paciencia, tolerancia y nervios fueron real
 
 ## Noticias de Canadá
 
-El pasado mes de junio se celebró en Orillia la octava Conferencia del Parque de Ginebra, cerca del lago Couchiching. Los lectores del Libro de Urantia en Ontario habían redactado un borrador de una constitución para la propuesta Sociedad Couchiching Urantia de Ontario, que fue adoptada en la conferencia de junio. También se eligieron funcionarios ejecutivos y presidentes de comités. El tema de la conferencia fue: «El servicio, nuestro motivo más elevado».
+El pasado mes de junio se celebró en Orillia la octava Conferencia del Parque de Ginebra, cerca del lago Couchiching. Los lectores del _Libro de Urantia_ en Ontario habían redactado un borrador de una constitución para la propuesta Sociedad Couchiching Urantia de Ontario, que fue adoptada en la conferencia de junio. También se eligieron funcionarios ejecutivos y presidentes de comités. El tema de la conferencia fue: «El servicio, nuestro motivo más elevado».
 
 La Conferencia de Quebec
 

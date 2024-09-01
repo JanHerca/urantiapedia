@@ -38,7 +38,7 @@ dateCreated: 2022-09-26T00:53:24.466Z
 
 La clave de si la afirmación de _El Libro de Urantia_ (a continuación) sobre la producción de nuevos elementos de número atómico mayor que 100 es la palabra «naturalmente». Los nuevos elementos se forman «naturalmente» en condiciones de alta temperatura y presión. Las condiciones de laboratorio pueden ser muy diferentes. Hasta la fecha, el mendelevio 258 es el único elemento producido artificialmente que tiene un grado razonable de estabilidad: vida media de 54 días. Pero si esperabas construir una vivienda con mendelevio, dentro de dos años, casi todo tu nuevo hogar se habría degradado a otra cosa. Todos los demás «artificiales» tienen tiempos de vida minúsculos.
 
-Sin embargo, la mayoría de los lectores nuevos y conocedores sabrán sobre la producción de nuevos elementos pero tendrán poca información sobre la estabilidad. Así que probablemente considerará que el comentario del Libro de Urantia está equivocado.
+Sin embargo, la mayoría de los lectores nuevos y conocedores sabrán sobre la producción de nuevos elementos pero tendrán poca información sobre la estabilidad. Así que probablemente considerará que el comentario del _Libro de Urantia_ está equivocado.
 
 ## Contenido
 

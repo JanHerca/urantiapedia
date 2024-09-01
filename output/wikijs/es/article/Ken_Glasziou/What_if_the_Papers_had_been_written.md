@@ -35,7 +35,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 ¿Qué pasaría si los Documentos de Urantia hubieran sido escritos por un comité humano empeñado en salvar el mundo? Dicho comité tendría que haber incluido un conocimiento experto de la Biblia, la arqueología y la historia del área palestina del primer siglo, un conocimiento sustancial del mundo romano, además de experiencia en química, geología, historia, física y ciencia general.
 
-La redacción del Libro de Urantia de 2000 páginas habría requerido una enorme cantidad de tiempo y esfuerzo. Por lo tanto, sería lógico que los autores hayan sido muy selectivos al hacer conjeturas sobre descubrimientos futuros que podrían estar dentro del alcance de la «información faltante» permitida por el mandato. El material que requiere un grado de experiencia para apreciar ya ha sido cubierto. Más discusión de parte de esta supuesta «brecha faltante», inmerecida, pero sigue información profética.
+La redacción del _Libro de Urantia_ de 2000 páginas habría requerido una enorme cantidad de tiempo y esfuerzo. Por lo tanto, sería lógico que los autores hayan sido muy selectivos al hacer conjeturas sobre descubrimientos futuros que podrían estar dentro del alcance de la «información faltante» permitida por el mandato. El material que requiere un grado de experiencia para apreciar ya ha sido cubierto. Más discusión de parte de esta supuesta «brecha faltante», inmerecida, pero sigue información profética.
 
 ## Contenido
 

@@ -59,7 +59,7 @@ Idealmente, las tres principales religiones del mundo que nacieron de las enseñ
 <figcaption><en>Diseño del panel del stand de Urantia por Gary Tonge</en></figcaptionn>
 </figure>
 
-Estamos organizando un stand conjunto de El libro de Urantia con la Fundación Urantia, Urantia Book Fellowship, Urantia Association International y Truthbook. Hasta el momento, hay más de 60 estudiantes de los documentos de Urantia asistiendo al Parlamento. Los materiales del stand incluirán hermosas postales con citas del Libro de Urantia, marcadores, las Parábolas de Jesús, un folleto sobre el UB y una copia del Libro de Urantia en todos los idiomas que hemos traducido. ¡Habrá muchos libros de Urantia en inglés y francés si los necesita! Para obtener más información sobre el registro del Parlamento de las Religiones del Mundo, puede visitar su sitio web: https:// parlamentoofreligions.org/parliament/2018-toronto/2018-powr
+Estamos organizando un stand conjunto de El libro de Urantia con la Fundación Urantia, Urantia Book Fellowship, Urantia Association International y Truthbook. Hasta el momento, hay más de 60 estudiantes de los documentos de Urantia asistiendo al Parlamento. Los materiales del stand incluirán hermosas postales con citas del Libro de Urantia, marcadores, las Parábolas de Jesús, un folleto sobre el UB y una copia del _Libro de Urantia_ en todos los idiomas que hemos traducido. ¡Habrá muchos libros de Urantia en inglés y francés si los necesita! Para obtener más información sobre el registro del Parlamento de las Religiones del Mundo, puede visitar su sitio web: https:// parlamentoofreligions.org/parliament/2018-toronto/2018-powr
 
 Gracias al lector local de Urantia, Serge Jusyp, se hizo una reserva para 12 el 31 de octubre para una cena previa al parlamento a las 7 p. m., 312 Yonge St, Toronto, ON M5B 1R4, Canadá. Comuníquese con Serge Jusyp si desea unirse a nosotros al (416) 435-4918 o sjusyp@gmail.com
 
@@ -90,7 +90,7 @@ Integración
 Sheila Keene Lund
 Habitación 603
 
-A través del trabajo que estamos haciendo con la clase de Capacitación interreligiosa con la Universidad de Urantia, se creará un cuaderno que compare las religiones del mundo con el Libro de Urantia. Estará disponible en el stand conjunto de El libro de Urantia, para cuando necesite un cuadro comparativo con una fe o religión y el Libro de Urantia.
+A través del trabajo que estamos haciendo con la clase de Capacitación interreligiosa con la Universidad de Urantia, se creará un cuaderno que compare las religiones del mundo con el Libro de Urantia. Estará disponible en el stand conjunto de _El libro de Urantia_, para cuando necesite un cuadro comparativo con una fe o religión y el Libro de Urantia.
 
 Además, si desea mejorar su conocimiento interreligioso, hay una capacitación interreligiosa gratuita a través de la Universidad de Urantia del 30 de septiembre al 20 de octubre.
 

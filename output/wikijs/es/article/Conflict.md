@@ -34,7 +34,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 </figure>
 
 
-«Todo conflicto es malo». (<a id="a36_27"></a>[LU 111:4.11](/es/The_Urantia_Book/111#p4_11)) Así anuncia la Quinta Revelación de Época. Sin embargo, a nuestro alrededor, observamos a los devotos del Libro de Urantia en conflicto.
+«Todo conflicto es malo». (<a id="a36_27"></a>[LU 111:4.11](/es/The_Urantia_Book/111#p4_11)) Así anuncia la Quinta Revelación de Época. Sin embargo, a nuestro alrededor, observamos a los devotos del _Libro de Urantia_ en conflicto.
 
 «Bueno», podemos decir, «tenemos que corregir a los equivocados. Y mantenerlos a raya cuando no están de acuerdo con nosotros».
 

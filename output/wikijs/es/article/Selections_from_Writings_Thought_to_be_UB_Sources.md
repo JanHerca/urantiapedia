@@ -53,7 +53,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
     - Para biografías e historias profesionales de personas que se cree que son autores de materiales utilizados por los reveladores en los Documentos 99 a 103, véase Manning, J., «_Source Authors of The Urantia Book,_» 1999. Disponible en [Square Circles Publishing](http://www.squarecircles.com/)
     - Ver también: «[¿Qué dice El Libro de Urantia sobre su origen y propósito?](/es/article/David_Kantor/What_UB_Says_About_Its_Origin_and_Purpose)» por David Kantor
     - Ver también: [Declaración jurada de la Dra. Meredith J. Sprunger sobre el origen del Libro de Urantia](/es/article/Meredith_Sprunger/Affidavit)
-    - Para conocer los antecedentes sobre el estado general de la teología cristiana en el momento de la publicación de El libro de Urantia, véase:
+    - Para conocer los antecedentes sobre el estado general de la teología cristiana en el momento de la publicación de _El libro de Urantia_, véase:
         - Niebuhr, H. Richard, «Teología, Historia y Cultura» (New Haven: Yale University Press, 1996), cap. 1, _«Próximos pasos en teología.»_
         - Niebuhr, H. Richard, «El significado de la revelación» (Nueva York: Collier Books, 1941.)
         - Tillich, Paul, «The Religion Situation» (Nueva York: Living Age Books, 1956.) \[Nota: Este libro es un recurso excelente. Contiene un análisis de la situación religiosa actual (1956) en los ámbitos de la ciencia, el arte, la metafísica, la política y la ética. También examina la situación actual de la religión misma con capítulos sobre el desarrollo del misticismo fuera de las iglesias, los movimientos escatológicos y la situación religiosa general en las iglesias. Escrito por uno de los teólogos más respetados de mediados de siglo.\]

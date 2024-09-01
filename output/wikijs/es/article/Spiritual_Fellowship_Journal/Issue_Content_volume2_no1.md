@@ -114,7 +114,7 @@ Copyright © 1992, Todos los derechos reservados.
 - **Resistencia a la verdad espiritual**
 	Las autoridades religiosas suelen ser las personas más difíciles de presentar a la nueva verdad espiritual.
 - **_El Libro de Urantia_ Fundamentalismo**
-	Muchos estudiantes del Libro de Urantia albergan las mismas ilusiones que los fundamentalistas bíblicos.
+	Muchos estudiantes del _Libro de Urantia_ albergan las mismas ilusiones que los fundamentalistas bíblicos.
 - **El futuro de la religión**
 	El malestar religioso y la búsqueda espiritual actuales presagian un importante punto de inflexión en nuestra historia religiosa.
 

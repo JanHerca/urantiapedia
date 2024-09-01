@@ -104,7 +104,7 @@ El liderazgo no es algo que se aprende en un seminario de fin de semana, aunque 
 - _Liderazgo heroico... Mejores prácticas de una empresa de 450 años que cambió el mundo_ por Chris Lowney, Loyola Press, 2003
 - _El arte del liderazgo_ por J. Donald Walters, MJF Books, Nueva York, NY, 1987
 
-> _Merlyn Cox se jubiló recientemente como pastor de la Conferencia de la Iglesia Metodista Unida del Norte de Indiana. Ha sido lector del Libro de Urantia durante 18 años, trabajó con Meredith Sprunger en la iniciación de The Spiritual Fellowship Journal en 1991 y trabajó durante diez años como editor asociado. Es miembro de la junta y presidente del equipo educativo de The Spiritual Fellowship._
+> _Merlyn Cox se jubiló recientemente como pastor de la Conferencia de la Iglesia Metodista Unida del Norte de Indiana. Ha sido lector del _Libro de Urantia_ durante 18 años, trabajó con Meredith Sprunger en la iniciación de The Spiritual Fellowship Journal en 1991 y trabajó durante diez años como editor asociado. Es miembro de la junta y presidente del equipo educativo de The Spiritual Fellowship._
 {.is-info}
 
 

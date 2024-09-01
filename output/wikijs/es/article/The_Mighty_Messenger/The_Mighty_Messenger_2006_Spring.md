@@ -209,7 +209,7 @@ El proyecto de grupo de estudio hermano empareja a cada nuevo grupo de estudio c
 
 Durante finales de 2005 y principios de 2006, Agustín viajó mucho por todo México, así como por Perú, Bolivia, Guatemala, Honduras, Panamá, El Salvador y Belice. En los próximos meses viajará a España, Francia, Italia y República Checa para continuar con su trabajo. La tercera «Conferencia de las Tres Américas» anual tendrá lugar este mayo en Guayaquil, Ecuador. Las conferencias en Chile y Argentina están previstas para el otoño.
 
-Agustín es miembro general y consejero general de la Fellowship. Es el fundador del Grupo Orvonton, una organización nacional que sirve a los lectores del Libro de Urantia en México. A pesar de lo importantes que pueden ser estas afiliaciones para él, tiene claro que el Grupo Orvonton, y cualquier grupo con el que trabaje en América Latina, puede desarrollarse de manera independiente y adecuada a la cultura del país.
+Agustín es miembro general y consejero general de la Fellowship. Es el fundador del Grupo Orvonton, una organización nacional que sirve a los lectores del _Libro de Urantia_ en México. A pesar de lo importantes que pueden ser estas afiliaciones para él, tiene claro que el Grupo Orvonton, y cualquier grupo con el que trabaje en América Latina, puede desarrollarse de manera independiente y adecuada a la cultura del país.
 
 ## Si no eres tú, ¿entonces quién?
 

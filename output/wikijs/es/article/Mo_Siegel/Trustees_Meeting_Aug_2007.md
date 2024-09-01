@@ -68,7 +68,7 @@ Como siempre, dedicamos mucho tiempo a hablar sobre las ventas de libros. Cuando
 
 ## Rusia y Europa del Este
 
-Los problemas políticos, económicos y logísticos de distribución en Rusia y Europa del Este siguen desafiando al equipo editorial de la oficina central. La demanda de _El Libro de Urantia_ sigue siendo fuerte, pero el coste de hacer negocios hace que el precio de venta al público del libro sea demasiado caro. Además, la Fundación Urantia a menudo experimenta el problema de no recibir pago por los libros enviados a distribuidores de libros en esos países. La Junta pidió a Gard Jameson que coordinara un esfuerzo para investigar la impresión de traducciones del Libro de Urantia en Rusia y Europa del Este.
+Los problemas políticos, económicos y logísticos de distribución en Rusia y Europa del Este siguen desafiando al equipo editorial de la oficina central. La demanda de _El Libro de Urantia_ sigue siendo fuerte, pero el coste de hacer negocios hace que el precio de venta al público del libro sea demasiado caro. Además, la Fundación Urantia a menudo experimenta el problema de no recibir pago por los libros enviados a distribuidores de libros en esos países. La Junta pidió a Gard Jameson que coordinara un esfuerzo para investigar la impresión de traducciones del _Libro de Urantia_ en Rusia y Europa del Este.
 
 > «Más del 95\% de todos los libros distribuidos desde la primera publicación han sido comprados, no regalados."
 

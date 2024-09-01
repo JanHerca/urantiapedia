@@ -35,7 +35,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 
-> _Esta es una declaración de un lector de mucho tiempo del Libro de Urantia que fue desafiado por este pastor a escribir su punto de vista sobre el propósito de la iglesia._
+> _Esta es una declaración de un lector de mucho tiempo del _Libro de Urantia_ que fue desafiado por este pastor a escribir su punto de vista sobre el propósito de la iglesia._
 
 Creo que la iglesia tiene un propósito elevado y noble. Para realizar este propósito, cada uno de nosotros tiene que encontrar una perspectiva que se centre simultáneamente en los detalles de la tarea que tenemos ante nosotros y en el gran marco cósmico creativo dentro del cual vivimos, nos movemos y tenemos nuestro ser. Debemos entender el propósito y la filosofía de la iglesia y cómo se aplica al trabajo en cuestión.
 

@@ -74,7 +74,7 @@ En esa revisión extremadamente breve, hemos cubierto los requisitos principales
 > 
 > «***Amad a vuestros enemigos*** —recordad las demandas morales de la fraternidad humana.»
 > 
-> «***La futilidad del mal***: _un agravio no se repara con la venganza{67}. No cometáis el error de combatir el mal con sus propias armas._»
+> «***La futilidad del mal***: _un agravio no se repara con la venganza. No cometáis el error de combatir el mal con sus propias armas._»
 > 
 > «***Tened fe*** —tened confianza en el triunfo final de la justicia divina y de la bondad eterna.» (<a id="a78_102"></a>[LU 140:8.4-8](/es/The_Urantia_Book/140#p8_4))
 
@@ -114,7 +114,7 @@ Primero, Jesús nos mostró un nuevo camino y luego puso a nuestra disposición 
 
 Eso es poder en verdad, y está disponible para todos nosotros, con sólo pedirlo. El libro nos dice...
 
-> «_...El espíritu nunca crea una conciencia de sí mismo, sino sólo una conciencia de Miguel, el Hijo. Desde el principio, Jesús enseñó que el espíritu no hablaría de sí mismo{8}. Por consiguiente, la prueba de vuestra comunión con el Espíritu de la Verdad no se puede encontrar en vuestra conciencia de este espíritu, sino más bien en vuestra experiencia de una elevada comunión con Miguel._» (<a id="a116_395"></a>[LU 194:2.4](/es/The_Urantia_Book/194#p2_4))
+> «_...El espíritu nunca crea una conciencia de sí mismo, sino sólo una conciencia de Miguel, el Hijo. Desde el principio, Jesús enseñó que el espíritu no hablaría de sí mismo. Por consiguiente, la prueba de vuestra comunión con el Espíritu de la Verdad no se puede encontrar en vuestra conciencia de este espíritu, sino más bien en vuestra experiencia de una elevada comunión con Miguel._» (<a id="a116_395"></a>[LU 194:2.4](/es/The_Urantia_Book/194#p2_4))
 
 Dado que se nos ha dicho que «_todas las influencias espirituales son una en función_»(<a id="a118_87"></a>[LU 34:6.2](/es/The_Urantia_Book/34#p6_2)), no es difícil sumar dos y dos para llegar a la conclusión de que a nosotros, los urantianos genética y espiritualmente deficientes, se nos ha dado una situación muy camino especial para compensar nuestras desventajas mediante una transformación virtualmente milagrosa que puede llevarnos a una comunión mucho más estrecha con nuestros Ajustadores del Pensamiento. Ese camino es a través de Jesús y su Espíritu de Verdad.
 
@@ -146,7 +146,7 @@ A menos que seamos completamente sinceros acerca de lo que nos estamos convirtie
 
 Quizás uno de los mayores problemas que tenemos para ser lo que deberíamos ser es esa característica tan humana del resentimiento. ¿Qué sentimos cuando aparece un hermano o hermana para devolvernos nuestro amor en la cara? Si nuestra respuesta es la ira y el resentimiento, entonces no tenemos ninguna esperanza de permitir que nuestro amor ayude a iluminar el camino para esa persona. Si vamos a «ser» antes de poder «hacer», lo esencial es que ya habremos ofrecido nuestra voluntad a Dios incondicionalmente, porque a menos que abracemos y utilicemos el poder espiritual disponible para nosotros, el fracaso es virtualmente inevitable. Jesús dijo una vez: «_Nadie tiene mayor amor que este, que ofrezca su vida por un amigo_». Dios ya es dueño de nuestra vida. Por lo tanto, el único regalo posible que podemos hacer a Dios y que es de verdadero valor para nuestro Padre Paradisiaco es la consagración de nuestra voluntad a él. El libro nos informa:
 
-> «_La dedicación afectuosa de la voluntad humana a hacer la voluntad del Padre es el regalo más selecto que el hombre puede hacerle a Dios; de hecho, una consagración así de la voluntad de la criatura constituye ***el único obsequio posible de verdadero valor*** que el hombre puede hacerle al Padre Paradisiaco. En Dios, el hombre vive, se mueve y tiene su existencia{5}; no hay nada que el hombre pueda darle a Dios, salvo esta elección de someterse a la voluntad del Padre,_» (<a id="a148_481"></a>[LU 1:1.2](/es/The_Urantia_Book/1#p1_2))
+> «_La dedicación afectuosa de la voluntad humana a hacer la voluntad del Padre es el regalo más selecto que el hombre puede hacerle a Dios; de hecho, una consagración así de la voluntad de la criatura constituye ***el único obsequio posible de verdadero valor*** que el hombre puede hacerle al Padre Paradisiaco. En Dios, el hombre vive, se mueve y tiene su existenciao hay nada que el hombre pueda darle a Dios, salvo esta elección de someterse a la voluntad del Padre,_» (<a id="a148_481"></a>[LU 1:1.2](/es/The_Urantia_Book/1#p1_2))
 
 Por extraño que parezca, sólo cuando consagramos así nuestra voluntad somos finalmente bendecidos con la verdadera libertad. Quizás eso necesite explicación. A Ganid, Jesús le dijo:
 

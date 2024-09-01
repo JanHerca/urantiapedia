@@ -53,7 +53,7 @@ La paz y el progreso genuinos sólo se producirán cuando las viejas creencias s
 
 A veces nos sentimos como visitantes de otra época cuando vemos tanta intolerancia, barbarie e ignorancia a nuestro alrededor. Pero la verdad es que la mayoría de la gente quiere la paz. Lo que pasa es que la religión, las creencias y la cultura actuales no son suficientes por sí solas para prevenir este tipo de situación y mucho menos remediarla. Cada sociedad tiene sus graves problemas, en cuyo centro se encuentra una cultura y una filosofía tan superficiales que es un milagro que la humanidad haya progresado hasta donde lo ha hecho. La sociedad se ha estancado y en algunos casos ha comenzado a degenerar. Por lo tanto, el regalo de _El Libro de Urantia_ al mundo puede considerarse oportuno y necesario para todos nosotros.
 
-Los problemas particulares de Irlanda del Norte nos han llevado a examinar cuidadosamente cuál debería ser nuestra actitud ante la violencia. ¿Existen circunstancias en las que se puede utilizar la violencia? Los siguientes pasajes del Libro de Urantia indican una respuesta:
+Los problemas particulares de Irlanda del Norte nos han llevado a examinar cuidadosamente cuál debería ser nuestra actitud ante la violencia. ¿Existen circunstancias en las que se puede utilizar la violencia? Los siguientes pasajes del _Libro de Urantia_ indican una respuesta:
 
 &nbsp; | &nbsp;
 --- | ---

@@ -36,7 +36,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Andrés Rodriguez, Colombia
 
-Recientemente se inauguró el Foro-Escuela, la versión española de la UBIS. Se puede encontrar en el sitio web del Libro de Urantia recientemente creado en español. Foro-Escuela está autorizado y respaldado por la Fundación Urantia y está disponible para todos aquellos que quieran estudiar _El Libro de Urantia_ en español. La dirección es www.urantia-latina.org. Este sitio web es administrado desde Chile por Mario Casassus, utilizando las últimas técnicas e instalaciones disponibles en Internet.
+Recientemente se inauguró el Foro-Escuela, la versión española de la UBIS. Se puede encontrar en el sitio web del _Libro de Urantia_ recientemente creado en español. Foro-Escuela está autorizado y respaldado por la Fundación Urantia y está disponible para todos aquellos que quieran estudiar _El Libro de Urantia_ en español. La dirección es www.urantia-latina.org. Este sitio web es administrado desde Chile por Mario Casassus, utilizando las últimas técnicas e instalaciones disponibles en Internet.
 
 Este proyecto surge como respuesta a una necesidad expresada de que diferentes personas y diferentes maneras faciliten el estudio y la comprensión más profunda de nuestro libro, resolviendo los problemas de distancia, tiempo y falta de recursos. Este proyecto de la Fundación Urantia surge de la nueva experiencia del sitio web de urantia-latina y la ausencia de un espacio para el trabajo y estudio de estas características en la red mundial en español.
 

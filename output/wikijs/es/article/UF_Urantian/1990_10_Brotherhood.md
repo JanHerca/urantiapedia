@@ -75,7 +75,7 @@ En comparación con su predecesora, la Asociación de la Hermandad Urantia tendr
 
 ## Horizontes y Vistas
 
-Con todo esto en mente, los Fideicomisarios de la Fundación Urantia confían en que la Asociación de la Hermandad Urantia proporcionará un foro social y fraternal en el que las personas puedan servirse, animarse e inspirarse mutuamente, llamando la atención sobre las enseñanzas supremas del Libro de Urantia y beneficiándose de ellas. 
+Con todo esto en mente, los Fideicomisarios de la Fundación Urantia confían en que la Asociación de la Hermandad Urantia proporcionará un foro social y fraternal en el que las personas puedan servirse, animarse e inspirarse mutuamente, llamando la atención sobre las enseñanzas supremas del _Libro de Urantia_ y beneficiándose de ellas. 
 
 El (<a id="a79_4"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)), los intermedios nos dicen que «Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual». Creemos que los miembros de la Asociación de la Hermandad Urantia, actuando con una mayor comprensión del propósito evolutivo del Ser Supremo en un universo dominado por el amor, harán contribuciones notables a ese resultado. Al ayudarse mutuamente a comprender y apreciar las enseñanzas de _El Libro de Urantia_, los miembros de la Asociación de la Hermandad Urantia crearán un nuevo clima espiritual que fomente el crecimiento de su personalidad total y aumente dramáticamente su utilidad potencial para toda la humanidad.
 

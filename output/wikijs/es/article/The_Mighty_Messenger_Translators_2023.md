@@ -63,7 +63,7 @@ Como parte del Comité Internacional de Becas, Jack es cofundador del Subcomité
 
 Felipe Arrigorriaga
 
-En 2004 participé un par de veces en un grupo de estudio de El libro de Urantia, sin saber qué libro era ni nada al respecto; luego el grupo se disolvió. Pasó el tiempo y comencé a ver la [señal 11:11](https://en.wikipedia.org/wiki/11:11_(numerology)). Yo tampoco sabía nada al respecto, hasta que se repitió muchas veces y pensé: «Esto es raro, no es una coincidencia». Busqué «11:11» usando Google y la primera página era del [Grupo de Progreso 11:11] (https://www.1111angels.net/).
+En 2004 participé un par de veces en un grupo de estudio de _El libro de Urantia_, sin saber qué libro era ni nada al respecto; luego el grupo se disolvió. Pasó el tiempo y comencé a ver la [señal 11:11](https://en.wikipedia.org/wiki/11:11_(numerology)). Yo tampoco sabía nada al respecto, hasta que se repitió muchas veces y pensé: «Esto es raro, no es una coincidencia». Busqué «11:11» usando Google y la primera página era del [Grupo de Progreso 11:11] (https://www.1111angels.net/).
 
 A partir de ese momento mi vida empezó a cambiar. Luego conocí a Flor Robles en Santiago y participé en su grupo de estudio. Hoy no puedo concebir mi vida sin la revelación de _El Libro de Urantia_. Al comprender todo mejor, veo la vida con otros ojos y busco oportunidades para servir a mis hermanos y hacer la Voluntad del Padre. En 2023 comencé como Coordinador de Área[^l] para Chile y asistente de _The Urantia Book_ Fellowship en español, ayudando a Geoff Theiss en su gran trabajo.
 

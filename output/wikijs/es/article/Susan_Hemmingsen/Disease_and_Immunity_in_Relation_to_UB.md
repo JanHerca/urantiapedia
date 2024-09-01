@@ -41,7 +41,7 @@ Por Susan Hemmingsen, Nueva Zelanda
 <img src="/image/article/The_Arena/Covid-19-1-570x193.jpg" alt="Covid-19">
 </figure>
 
-Siendo este el tema del momento, decidí reunir algunas citas del Libro de Urantia para ver qué se dijo sobre la salud, la enfermedad, lo que sucedió en el pasado, cómo esto se refleja en lo que está sucediendo hoy y qué se puede esperar en el futuro. Los he clasificado en cuatro categorías diferentes:
+Siendo este el tema del momento, decidí reunir algunas citas del _Libro de Urantia_ para ver qué se dijo sobre la salud, la enfermedad, lo que sucedió en el pasado, cómo esto se refleja en lo que está sucediendo hoy y qué se puede esperar en el futuro. Los he clasificado en cuatro categorías diferentes:
 
 - La ayuda celestial disponible ahora.
 - Cómo el hombre antiguo enfrentaba las enfermedades.

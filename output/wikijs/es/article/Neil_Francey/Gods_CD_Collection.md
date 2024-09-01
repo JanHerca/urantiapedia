@@ -18,7 +18,7 @@ Tales reflexiones están en buena compañía, como en numerosas ocasiones en las
 
 La inmensidad del universo maestro es casi inmensurable, sin embargo, los reveladores lo describen como dentro de un límite. ¿Se extiende entonces el infinito más allá de esa dimensión, hacia una oscuridad insondable? ¿Podría haber otros universos maestros ubicados más allá de las capacidades de poder, comunicación y viaje del que se nos presenta?
 
-Teniendo en cuenta esta idea, aquí se utilizan ampliamente citas de El libro de Urantia, con muy poca narrativa que las acompañe. Y con esta primera cita, considerada en tres segmentos, los reveladores describen de manera concisa el entorno actual y proporciona una base para la especulación general:
+Teniendo en cuenta esta idea, aquí se utilizan ampliamente citas de _El libro de Urantia_, con muy poca narrativa que las acompañe. Y con esta primera cita, considerada en tres segmentos, los reveladores describen de manera concisa el entorno actual y proporciona una base para la especulación general:
 
 > _El universo central es la creación de la eternidad; los siete superuniversos son las creaciones del tiempo; los cuatro niveles del espacio exterior están destinados sin duda a desarrollar-existenciar la ultimidad de la creación._
 > 

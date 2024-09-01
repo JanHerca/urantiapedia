@@ -99,7 +99,7 @@ Se pide a los voluntarios que mantengan el stand atractivo y ordenado durante su
 
 Los líderes de capacitación de nuestro stand son David Linthicum y Alain Cyr. Se requiere una capacitación de cabina de una hora para todos los voluntarios en la Cabina de El libro de Urantia en el Parlamento en Toronto 2018.
 
-Para todos los que deseen participar como facilitadores conjuntos del stand de El libro de Urantia, tengan en cuenta que se requerirá una breve sesión de capacitación y se les invitará a iniciar sesión en una sesión de la sala de reuniones Zoom de su elección.
+Para todos los que deseen participar como facilitadores conjuntos del stand de _El libro de Urantia_, tengan en cuenta que se requerirá una breve sesión de capacitación y se les invitará a iniciar sesión en una sesión de la sala de reuniones Zoom de su elección.
 
 https://zoom.us/j/7644783460
 

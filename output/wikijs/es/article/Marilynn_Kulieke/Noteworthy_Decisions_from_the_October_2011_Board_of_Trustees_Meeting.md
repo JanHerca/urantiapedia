@@ -78,7 +78,7 @@ La Junta vio las dos versiones de la nueva edición Leather-Soft &trade; (en pie
 
 Estos libros serán unos maravillosos regalos navideños. Hasta el 18 de diciembre, pueden comprarse a 24,95 $ más gastos de envío, comparado con el precio normal de 39,95 $. Los grupos de estudio que aparecen en el Portal de Grupos de Estudio de El libro de Urantia pueden comprar cinco libros por 99,88 $ más gastos de envío. Este precio tiene un 50% de descuento. Haga [clic](http://www.urantia.org/products) [aquí](http://www.urantia.org/products) para comprar.
 
-Si su grupo de estudio no aparece en el Portal de Grupos de Estudio de El libro de Urantia, regístrelo en [http://urantiastudygroup.org](http://urantiastudygroup.org/).
+Si su grupo de estudio no aparece en el Portal de Grupos de Estudio de _El libro de Urantia_, regístrelo en [http://urantiastudygroup.org](http://urantiastudygroup.org/).
 
 ## 5. Traducciones: la Junta aprobó las siguientes resoluciones respecto al trabajo de traducción
 

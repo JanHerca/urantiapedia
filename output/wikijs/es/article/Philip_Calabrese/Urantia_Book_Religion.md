@@ -204,7 +204,7 @@ El INFINITO existe; El INFINITO existe en Nosotros; Y Nosotros existimos en el I
 
 Intentemos satisfacer las restricciones generadas por los conjuntos de todas las afirmaciones anteriores del LIBRO DE URANTIA y veamos qué tipo de estructura social puede satisfacerlas todas.
 
-Algunos de los postulados, como los puntos 7) a) a h), pueden imaginarse fácilmente satisfechos en casi cualquier buena religión del Libro de Urantia (UBR). Otros de estos postulados como 7) i) a r) y especialmente j) imponen mayores restricciones que parecen incluso eliminar algunos marcos sociales para una religión del _Libro de Urantia_: La UBR debe basarse en el "significado biológico, sociológico y religioso de la hogar. ¿Cómo se puede satisfacer eso? ¿Una iglesia cristiana satisface automáticamente este postulado? Probablemente no.
+Algunos de los postulados, como los puntos 7) a) a h), pueden imaginarse fácilmente satisfechos en casi cualquier buena religión del _Libro de Urantia_ (UBR). Otros de estos postulados como 7) i) a r) y especialmente j) imponen mayores restricciones que parecen incluso eliminar algunos marcos sociales para una religión del _Libro de Urantia_: La UBR debe basarse en el "significado biológico, sociológico y religioso de la hogar. ¿Cómo se puede satisfacer eso? ¿Una iglesia cristiana satisface automáticamente este postulado? Probablemente no.
 
 Los postulados enumerados bajo 8) son aún más restrictivos, especialmente q) y r): Para satisfacer q) el ritual UBR (satisfacer el simbolismo) debe ser tal que un individuo pueda llevarlo a cabo y también disfrutar haciéndolo con otros miembros de la iglesia.
 

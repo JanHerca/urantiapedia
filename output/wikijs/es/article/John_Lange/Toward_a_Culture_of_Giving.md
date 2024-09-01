@@ -37,7 +37,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 _por John Lange_
 
-A medida que nos acercamos a los setenta años desde la publicación de El libro de Urantia, nos damos cuenta de que la Revelación de Urantia no ha tomado al planeta por sorpresa. De la misma manera que Miguel trae luz y vida a Nebadon conquistando un planeta a la vez, la Revelación Urantia tendrá un impacto duradero en los asuntos mundiales cuando se consiga una masa crítica de creyentes conquistando un alma a la vez. Y así nuestro romance con El Libro de Urantia entra en la corriente de la evolución espiritual planetaria.
+A medida que nos acercamos a los setenta años desde la publicación de _El libro de Urantia_, nos damos cuenta de que la Revelación de Urantia no ha tomado al planeta por sorpresa. De la misma manera que Miguel trae luz y vida a Nebadon conquistando un planeta a la vez, la Revelación Urantia tendrá un impacto duradero en los asuntos mundiales cuando se consiga una masa crítica de creyentes conquistando un alma a la vez. Y así nuestro romance con El Libro de Urantia entra en la corriente de la evolución espiritual planetaria.
 
 Nuestra búsqueda exitosa de este largo juego de mayordomía y devoción se caracterizará por una cultura de dar. Incluso ahora existe una mayor necesidad de recursos a medida que continuamos expandiéndonos globalmente, tenemos una mayor presencia social y en los medios y fomentamos mayores conexiones personales a través de servicios de lectura y nuevos proyectos innovadores.
 
@@ -80,7 +80,7 @@ Finalmente, este es un momento de emoción cuando se pasa la antorcha a una nuev
 
 Nos gustaría agradecer a todos aquellos miembros que han contribuido a lo largo de los años para asegurar a la Comunidad _El Libro de Urantia_ un firme control de la vida.
 
-Durante su estancia en Urantia, Michael analizó treinta y cinco parábolas y una tercera parte trató sobre la relación adecuada del hombre con el dinero. Y así, la gran aventura es una paradoja en el sentido de que arrebatamos a nuestra vida material los medios para llevar las enseñanzas del Libro de Urantia al mundo: algo más importante que el dinero y algo que el dinero no puede comprar.
+Durante su estancia en Urantia, Michael analizó treinta y cinco parábolas y una tercera parte trató sobre la relación adecuada del hombre con el dinero. Y así, la gran aventura es una paradoja en el sentido de que arrebatamos a nuestra vida material los medios para llevar las enseñanzas del _Libro de Urantia_ al mundo: algo más importante que el dinero y algo que el dinero no puede comprar.
 
 Si está interesado en explorar estos conceptos de donación, comuníquese con john.lange@urantiabook.org o larry.geis@urantiabook.org o con cualquier miembro del Comité de Finanzas que conozca bien.
 

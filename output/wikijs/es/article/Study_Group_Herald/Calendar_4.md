@@ -41,7 +41,7 @@ Canciones para el renacimiento espiritual
 
 Necesitamos tu ayuda. Estamos en el proceso de compilar canciones para un cancionero para lectores de _El Libro de Urantia_ y necesitamos su ayuda para seleccionar las canciones apropiadas.
 
-Un grupo de lectores ya ha comenzado el proceso de recopilar canciones que son las favoritas de los lectores del Libro de Urantia en todo el mundo. Si tiene canciones favoritas que tienen un tema espiritual y pueden ser cantadas por grupos de personas, háganos saber el título, el autor y el editor, si es posible. Nos haremos cargo del resto.
+Un grupo de lectores ya ha comenzado el proceso de recopilar canciones que son las favoritas de los lectores del _Libro de Urantia_ en todo el mundo. Si tiene canciones favoritas que tienen un tema espiritual y pueden ser cantadas por grupos de personas, háganos saber el título, el autor y el editor, si es posible. Nos haremos cargo del resto.
 
 Este cancionero será publicado por Highreach Press y estará disponible a través de Jesusonian en aproximadamente un año. Por favor ayúdanos enviando tus canciones favoritas.
 

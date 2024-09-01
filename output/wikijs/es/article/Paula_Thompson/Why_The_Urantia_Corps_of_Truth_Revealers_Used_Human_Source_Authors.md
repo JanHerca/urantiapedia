@@ -40,7 +40,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 _por Paula Thompson_
 
-Como nuevo lector de El libro de Urantia, es posible que haya leído u oído hablar del uso que hace el autor de «fuentes humanas». Escribo este artículo con la intención de arrojar algo de luz sobre por qué las fuentes humanas que los autores utilizaron en El Libro de Urantia fueron vitales para que pudiéramos comprenderlo. Este artículo se basa en mis conclusiones y especulaciones después de décadas de reflexionar sobre este asunto.
+Como nuevo lector de _El libro de Urantia_, es posible que haya leído u oído hablar del uso que hace el autor de «fuentes humanas». Escribo este artículo con la intención de arrojar algo de luz sobre por qué las fuentes humanas que los autores utilizaron en El Libro de Urantia fueron vitales para que pudiéramos comprenderlo. Este artículo se basa en mis conclusiones y especulaciones después de décadas de reflexionar sobre este asunto.
 
 El Libro de Urantia afirma ser una revelación de la verdad; no pretende ser una revelación de hecho. Dice: «Uno puede estar técnicamente en lo cierto en cuanto a los hechos y eternamente equivocado en la verdad (<a id="a44_212"></a>[LU 48:6.33](/es/The_Urantia_Book/48#p6_33))». Esta es una afirmación que invita a la reflexión y que incluso puede resultar desconcertante porque nuestra cultura científica parece dictar que la verdad y los hechos son esencialmente la misma cosa. Sin embargo, ¿lo son? Reflexioné sobre esta afirmación y le pedí a Dios que me mostrara un ejemplo práctico de ella, una metáfora que me ayudara a entenderla. Luego, encontré varios ejemplos de esto dentro del propio libro.
 

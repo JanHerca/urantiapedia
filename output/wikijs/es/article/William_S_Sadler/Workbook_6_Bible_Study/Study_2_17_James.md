@@ -85,7 +85,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 3. En muchas de las primeras versiones de Santiago, aparece como una «carta a Jacob».
 4. En el siglo III, tanto Orígenes como Eusebio reconocieron a Santiago como «escritura».
 5. La organización de la iglesia estaba muy avanzada cuando se escribió Santiago. Pero los ancianos no se habían convertido en sacerdotes.
-6. Santiago presenta un plan definido para «ungir a los enfermos». Esta es la práctica anterior de los discípulos de Juan el Bautista. (Ver El libro de Urantia, p. 1678.)
+6. Santiago presenta un plan definido para «ungir a los enfermos». Esta es la práctica anterior de los discípulos de Juan el Bautista. (Ver _El libro de Urantia_, p. 1678.)
 7. Esta unción de los enfermos con aceite de oliva puro todavía la practica una rama de la Iglesia Ortodoxa Griega.
 8. Lo más probable es que de esta «unción» de ungir a los enfermos se derivara el rito posterior de ungir a los moribundos: la «extremaunción».
 9. Aún hoy muchos «curanderos divinos» ungen a sus súbditos con aceite.

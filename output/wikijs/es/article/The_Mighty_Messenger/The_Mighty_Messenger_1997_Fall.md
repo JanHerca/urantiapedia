@@ -71,7 +71,7 @@ Las opiniones objetivas sobre la compleja relación entre la Fellowship y la Fun
 
 ## Estrenos del boletín informativo GLAD
 
-El primer número de GLAD (Gay & Lesbian AgonDonters), el boletín de la Asociación de Lectores del Libro de Urantia para gays y lesbianas, vio la luz en octubre. Según el fundador y editor, Nick Curto, las solicitudes para el boletín llegaron de lugares tan lejanos como Finlandia y México en respuesta al anuncio de la publicación en el Mighty Messenger anterior. Curto añadió que «padres homosexuales, activistas y lectores del Libro de Urantia que nunca antes habían tenido la oportunidad de comunicarse con otros lectores homosexuales del Libro de Urantia nos han escrito desde todo el mundo».
+El primer número de GLAD (Gay & Lesbian AgonDonters), el boletín de la Asociación de Lectores del _Libro de Urantia_ para gays y lesbianas, vio la luz en octubre. Según el fundador y editor, Nick Curto, las solicitudes para el boletín llegaron de lugares tan lejanos como Finlandia y México en respuesta al anuncio de la publicación en el Mighty Messenger anterior. Curto añadió que «padres homosexuales, activistas y lectores del _Libro de Urantia_ que nunca antes habían tenido la oportunidad de comunicarse con otros lectores homosexuales del _Libro de Urantia_ nos han escrito desde todo el mundo».
 
 GLAD ahora está aceptando artículos, historias, poesía y obras de arte para la próxima edición del boletín. Para envíos o información de membresía, escriba a: GLAD, c/o Nick Curto, PO Box 387, New York, NY 10028, o llame/fax: 212/289-1741.
 

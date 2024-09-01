@@ -140,7 +140,7 @@ Como sustantivo, esta palabra se refiere a una persona inmoral. Como verbo todav
 
 **Posible efecto en la divulgación del Libro de Urantia**
 
-Cuando los lectores del Libro de Urantia presentan el libro e interactúan con nuevos lectores, a menudo se les hacen preguntas sobre estas y otras palabras que consideran ofensivas. Esto es algo común y lo han abordado muchas veces escritores de artículos en revistas del Libro de Urantia y presentadores en conferencias. Tengo un texto bastante extenso sobre «La raza y _El libro de Urantia_», y recientemente encontré un vídeo de YouTube en el que el orador condenaba enérgicamente _El libro de Urantia_ como un libro de «eugenesia racista».
+Cuando los lectores del _Libro de Urantia_ presentan el libro e interactúan con nuevos lectores, a menudo se les hacen preguntas sobre estas y otras palabras que consideran ofensivas. Esto es algo común y lo han abordado muchas veces escritores de artículos en revistas del _Libro de Urantia_ y presentadores en conferencias. Tengo un texto bastante extenso sobre «La raza y _El libro de Urantia_», y recientemente encontré un vídeo de YouTube en el que el orador condenaba enérgicamente _El libro de Urantia_ como un libro de «eugenesia racista».
 
 Puede ser un desafío explicar algunos de los conceptos más polémicos, particularmente cuando palabras como las descritas anteriormente y otras han hecho que alguien se sienta ofendido y herido.
 

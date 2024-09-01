@@ -48,15 +48,15 @@ No es una tarea fácil.
 
 En _El Libro de Urantia_ se nos recuerda cómo «Un grupo social de seres humanos en armonía y trabajo coordinado representa una fuerza mucho mayor que la simple suma de sus partes». (<a id="a48_182"></a>[LU 133:5.6](/es/The_Urantia_Book/133#p5_6)) La armonía de nuestros esfuerzos juntos _exige_ coordinación. _Requiere_ trabajo. Y ese esfuerzo sostenido te necesita.
 
-La Fellowship del Libro de Urantia (también conocida como la Comunidad) invierte importantes recursos en trabajar a través de todas las fronteras (internacionales y organizativas) para esforzarse por alcanzar los valores más elevados de colaboración eficaz. Necesitamos su apoyo para aprovechar estas increíbles oportunidades y desarrollar aún más nuestras asociaciones dentro del movimiento más amplio del Libro de Urantia, con los siguientes objetivos compartidos para 2024:
+La Fellowship del _Libro de Urantia_ (también conocida como la Comunidad) invierte importantes recursos en trabajar a través de todas las fronteras (internacionales y organizativas) para esforzarse por alcanzar los valores más elevados de colaboración eficaz. Necesitamos su apoyo para aprovechar estas increíbles oportunidades y desarrollar aún más nuestras asociaciones dentro del movimiento más amplio del Libro de Urantia, con los siguientes objetivos compartidos para 2024:
 
 <br style="clear:both;"/>
 
 - La Fellowship y el Grupo Orvonton de México: Lanzar un sitio web dedicado a la comunidad en español.
-- La Fellowship y la Fundación Urantia: ampliar la distribución del Libro de Urantia en áreas remotas, aumentar el apoyo a los grupos de estudio y desarrollar nuevos trabajos secundarios traducidos.
+- La Fellowship y la Fundación Urantia: ampliar la distribución del _Libro de Urantia_ en áreas remotas, aumentar el apoyo a los grupos de estudio y desarrollar nuevos trabajos secundarios traducidos.
 - La Fellowship y el Instituto Universitario Urantia: Desarrollar un nuevo plan de estudios educativo y ampliar los recursos educativos del ministerio penitenciario.
 - La Fellowship y la Asociación Urantia Internacional: patrocinan conferencias y actividades comunitarias conjuntas, aumentan el apoyo a los grupos de estudio y colaboran para ampliar los servicios a los lectores.
-- La Fellowship y el Centro Cristo Miguel en Nigeria: ampliar la colocación del Libro de Urantia en África y asociarse para publicar _El Libro de Urantia_ en Nigeria.
+- La Fellowship y el Centro Cristo Miguel en Nigeria: ampliar la colocación del _Libro de Urantia_ en África y asociarse para publicar _El Libro de Urantia_ en Nigeria.
 - Y muchos más objetivos compartidos.
 
 Tener más de doscientos voluntarios nos ha permitido lograr bastante con un presupuesto relativamente pequeño, pero a medida que se difunde la revelación, también lo hacen las exigencias sobre nuestros recursos financieros.

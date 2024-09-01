@@ -62,7 +62,7 @@ Los programas de traducción e impresión de libros de la Fundación Urantia est
 <img src="/image/article/UF_News_Online/2022_10/008.jpg">
 </figure>
 
-## Número de traducciones del Libro de Urantia impresas entre 1955 y 2022
+## Número de traducciones del _Libro de Urantia_ impresas entre 1955 y 2022
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2022_10/007.jpg">

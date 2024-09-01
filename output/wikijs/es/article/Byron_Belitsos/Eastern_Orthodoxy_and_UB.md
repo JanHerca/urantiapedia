@@ -67,7 +67,7 @@ La iglesia oriental heredó la plenitud de la tradición de la «espiritualidad 
 
 ## La base doctrinal para el diálogo
 
-Un punto de partida para el diálogo sería la doctrina ortodoxa oriental. Puede sorprender a muchos creyentes ortodoxos descubrir que las doctrinas de los «Padres» de la Iglesia (o «Patrística») que requirieron siglos para evolucionar son afirmadas como generalmente correctas en _El Libro de Urantia_. Este fuerte vínculo a nivel doctrinal significa para mí que tanto los creyentes ortodoxos como los seguidores del Libro de Urantia tienen mucho que compartir y mucho que aprender unos de otros.
+Un punto de partida para el diálogo sería la doctrina ortodoxa oriental. Puede sorprender a muchos creyentes ortodoxos descubrir que las doctrinas de los «Padres» de la Iglesia (o «Patrística») que requirieron siglos para evolucionar son afirmadas como generalmente correctas en _El Libro de Urantia_. Este fuerte vínculo a nivel doctrinal significa para mí que tanto los creyentes ortodoxos como los seguidores del _Libro de Urantia_ tienen mucho que compartir y mucho que aprender unos de otros.
 
 > _Un punto de partida para el diálogo sería la doctrina ortodoxa oriental. Puede sorprender a muchos creyentes ortodoxos descubrir que las doctrinas de los «Padres» de la Iglesia (o «Patrística») que requirieron siglos para evolucionar son afirmadas como generalmente correctas en _El Libro de Urantia_.
 
@@ -105,7 +105,7 @@ La liturgia de la Iglesia oriental crea un teatro cósmico para la adoración de
 
 ## Dos visiones de la salvación
 
-Pocos cristianos se dan cuenta de que existe una amplia divergencia entre la iglesia antigua y sus iglesias sucesoras en Occidente (tanto católicas como protestantes) en la comprensión de cómo se salva el hombre. Del mismo modo, pocos lectores del Libro de Urantia se dan cuenta de que la soteriología de la iglesia oriental está más cerca en espíritu del Libro de Urantia que la de la iglesia occidental.
+Pocos cristianos se dan cuenta de que existe una amplia divergencia entre la iglesia antigua y sus iglesias sucesoras en Occidente (tanto católicas como protestantes) en la comprensión de cómo se salva el hombre. Del mismo modo, pocos lectores del _Libro de Urantia_ se dan cuenta de que la soteriología de la iglesia oriental está más cerca en espíritu del _Libro de Urantia_ que la de la iglesia occidental.
 
 Las diferencias entre Oriente y Occidente se pueden resumir de la siguiente manera: La tradición occidental es esencialmente la visión jurídica agustiniana de que, dado que la voluntad humana está encadenada por el pecado original, sólo podemos salvarnos mediante actos inmerecidos de la gracia divina que, en última instancia, están predestinados. El calvinismo es quizás su forma más extrema, pero esta enseñanza agustiniana (junto con la doctrina estrechamente aliada de la expiación con sangre cuyas raíces están en Pablo) ha perdurado en todas las ramas del cristianismo occidental. Los teólogos protestantes tradicionales sólo recientemente han abandonado las premisas agustinianas del pecado original y la expiación.
 
@@ -235,7 +235,7 @@ Quizás si se pudiera inducir a la Iglesia Oriental a ver a Jesús una vez más 
 
 > El Jesús vivo es la única esperanza de una posible unificación del cristianismo. La verdadera iglesia —la fraternidad de Jesús— es invisible, espiritual y está caracterizada por la *unidad*, pero no necesariamente por la *uniformidad*. La uniformidad es la marca distintiva del mundo físico de naturaleza mecanicista. La unidad espiritual es el fruto de la unión por la fe con el Jesús vivo. La iglesia visible debería negarse a continuar obstaculizando el progreso de la fraternidad invisible y espiritual del reino de Dios. Esta fraternidad está destinada a convertirse en un *organismo viviente*, en contraste con una organización social institucionalizada. Puede utilizar muy bien estas organizaciones sociales, pero no debe ser sustituida por ellas. (<a id="a235_758"></a>[LU 195:10.11](/es/The_Urantia_Book/195#p10_11))
 
-> _Byron ha sido periodista y productor de televisión y actualmente es consultor en la industria de las telecomunicaciones. Es un lector veterano del Libro de Urantia y miembro de la Iglesia Ortodoxa Oriental.
+> _Byron ha sido periodista y productor de televisión y actualmente es consultor en la industria de las telecomunicaciones. Es un lector veterano del _Libro de Urantia_ y miembro de la Iglesia Ortodoxa Oriental.
 {.is-info}
 
 

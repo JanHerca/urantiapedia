@@ -62,7 +62,7 @@ De ahí que todos los objetos y personas que observamos a nuestro alrededor sean
 
 Así como la física convencional tiene el principio de conservación de la energía (la energía-materia no se puede crear ni destruir), también la filosofía materialista o de la sustancia tiene una base estática. Pero la filosofía del proceso pone su énfasis en el devenir dinámico.
 
-De importancia para los lectores del Libro de Urantia son las similitudes de muchas de las enseñanzas del libro con las de la filosofía y la teología del proceso.
+De importancia para los lectores del _Libro de Urantia_ son las similitudes de muchas de las enseñanzas del libro con las de la filosofía y la teología del proceso.
 
 Por ejemplo, una piedra de tropiezo en las religiones monoteístas es la coexistencia de los conceptos mutuamente excluyentes de la trascendencia y la inmanencia de Dios. ¿Cómo puede Dios ser trascendente, más allá del tiempo y del espacio, y al mismo tiempo ser inmanente, presente en el mundo?
 
@@ -72,7 +72,7 @@ La solución de Whitehead al problema de la trascendencia-inmanencia fue hacer a
 
 En el esquema de Whitehead, la naturaleza primordial de Dios se toma como fuente de «objetos eternos» a partir de los cuales Dios ofrece objetivos particulares a cada entidad (incluidos nosotros) al comienzo de nuestro período de crecimiento. Sin embargo, somos libres de aceptar o rechazar el plan de Dios para nosotros, siendo su acción en el mundo siempre persuasiva y nunca coercitiva.
 
-Los lectores del Libro de Urantia pueden notar las similitudes de la naturaleza primordial de Dios con aspectos de la deidad existencial como se propone en los Documentos de Urantia y la consiguiente naturaleza de Dios que está inmerso en el mundo y tiene similitudes con el Dios Supremo como se describe en los Documentos.
+Los lectores del _Libro de Urantia_ pueden notar las similitudes de la naturaleza primordial de Dios con aspectos de la deidad existencial como se propone en los Documentos de Urantia y la consiguiente naturaleza de Dios que está inmerso en el mundo y tiene similitudes con el Dios Supremo como se describe en los Documentos.
 
 En el esquema de Whitehead, en su naturaleza primordial, Dios tiene una visión de todas las potencialidades y un plan sobre cómo cada individuo puede usarlas mejor para su crecimiento. Los Documentos de Urantia nos informan que «Hay en la mente de Dios un plan que abarca a todas las criaturas de todos sus vastos dominios» (<a id="a76_325"></a>[LU 32:5.7](/es/The_Urantia_Book/32#p5_7)) y que nuestros Ajustadores del Pensamiento hacer planes para nuestras carreras eternas (<a id="a76_456"></a>[LU 107:7.3](/es/The_Urantia_Book/107#p7_3)).
 

@@ -45,7 +45,7 @@ La validez de la revelación está determinada por la calidad de su iluminación
 
 > _La evaluación académica muestra que el fundamentalismo del_ Libro de Urantia _es tan insostenible como el fundamentalismo bíblico. De la misma manera que la alta crítica estableció bases sólidas para los estudios bíblicos, la erudición crítica debe preparar el camino para el estudio creativo de_ El Libro de Urantia.
 
-La evaluación académica muestra que el fundamentalismo del Libro de Urantia es tan insostenible como el fundamentalismo bíblico. De la misma manera que la alta crítica estableció bases sólidas para los estudios bíblicos, la erudición crítica debe preparar el camino para el estudio creativo de _El Libro de Urantia_. Liberados así de cualquier ilusión sobre su infalibilidad literal, nos liberamos de actitudes fundamentalistas y defensivas y estamos abiertos a evaluar sus conocimientos espirituales, su cosmología, su teología y su visión de los orígenes, el desarrollo y el destino humanos. En esta capacidad, sus potenciales no tienen paralelo en la escena humana.
+La evaluación académica muestra que el fundamentalismo del _Libro de Urantia_ es tan insostenible como el fundamentalismo bíblico. De la misma manera que la alta crítica estableció bases sólidas para los estudios bíblicos, la erudición crítica debe preparar el camino para el estudio creativo de _El Libro de Urantia_. Liberados así de cualquier ilusión sobre su infalibilidad literal, nos liberamos de actitudes fundamentalistas y defensivas y estamos abiertos a evaluar sus conocimientos espirituales, su cosmología, su teología y su visión de los orígenes, el desarrollo y el destino humanos. En esta capacidad, sus potenciales no tienen paralelo en la escena humana.
 
 
 

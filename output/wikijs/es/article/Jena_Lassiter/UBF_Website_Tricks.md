@@ -39,7 +39,7 @@ por _Jena Lassiter_, UrantiaBook.org
 
 Como muchos de ustedes ya saben, en noviembre pasado, el Equipo del sitio web, aprovechando años de trabajo previo de personas dedicadas, introdujo mejoras significativas y nuevas capacidades en el sitio web de la Fraternidad.
 
-Los principales objetivos de este sitio web recientemente rediseñado son: facilidad de uso y características para localizar rápidamente recursos de interés (como artículos relacionados con El libro de Urantia, ayudas para el estudio, publicaciones de Urantia Book Fellowship, videos, grabaciones de audio, folletos, libros $e$ descargables versiones del Libro de Urantia en inglés y otros idiomas, y más).
+Los principales objetivos de este sitio web recientemente rediseñado son: facilidad de uso y características para localizar rápidamente recursos de interés (como artículos relacionados con _El libro de Urantia_, ayudas para el estudio, publicaciones de Urantia Book Fellowship, videos, grabaciones de audio, folletos, libros $e$ descargables versiones del _Libro de Urantia_ en inglés y otros idiomas, y más).
 
 Esta columna pretende describir algunas de esas funciones y cómo acceder a ellas.
 

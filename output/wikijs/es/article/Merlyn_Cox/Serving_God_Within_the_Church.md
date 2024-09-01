@@ -39,7 +39,7 @@ Para aquellos criados en la iglesia, e incluso identificando el Reino de Dios co
 
 Hay quienes señalan, creo que correctamente, la identificación demasiado fácil de la iglesia con el Reino de Dios, y sienten que la institución a menudo se interpone en el camino de servir a Dios tanto como ayuda. Muchas personas que han sido criadas y nutridas en la comunidad de la iglesia sienten sus fallas con tanta fuerza que han abandonado en gran medida la religión organizada.
 
-Para quienes están en el Movimiento Urantia, existe la frustración añadida del rechazo y la sospecha. No muchos lectores del Libro de Urantia pueden comunicarse fácil y abiertamente sobre el libro con sus compañeros de la iglesia. Muchos descubrieron _El Libro de Urantia_ después de una búsqueda que los alejó de la iglesia institucional. Habiéndolo descubierto, sólo pareció reforzar su prejuicio contra el cristianismo tradicional.
+Para quienes están en el Movimiento Urantia, existe la frustración añadida del rechazo y la sospecha. No muchos lectores del _Libro de Urantia_ pueden comunicarse fácil y abiertamente sobre el libro con sus compañeros de la iglesia. Muchos descubrieron _El Libro de Urantia_ después de una búsqueda que los alejó de la iglesia institucional. Habiéndolo descubierto, sólo pareció reforzar su prejuicio contra el cristianismo tradicional.
 
 > _Muchos descubrieron_ El Libro de Urantia _después de una búsqueda que los alejó de la iglesia institucional. Habiéndolo descubierto, sólo pareció reforzar su prejuicio contra el cristianismo tradicional._
 

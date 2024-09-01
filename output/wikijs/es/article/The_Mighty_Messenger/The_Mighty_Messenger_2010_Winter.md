@@ -112,7 +112,7 @@ Las clases de **Adoración a través de las artes** pueden ser: mandalas, cánti
 
 Por _Daniel Love Glazer_
 
-¿Se han vuelto complacientes los lectores del Libro de Urantia con la Quinta Revelación de Época? ¿Necesitamos una llamada de atención que nos estimule a difundir la Buena Nueva? Los 120 lectores que asistieron a la sesión de estudio de verano de la Fellowship de _El Libro de Urantia_ en el centro de conferencias Techny Towers en Northbrook, Illinois, recibieron una enfática llamada de atención a las 3:00 am del domingo 25 de julio, el último día de la conferencia. Fue entonces cuando la alarma contra incendios en Techny Towers se disparó con un chillido que podría levantar a los muertos, aunque no lo suficientemente fuerte como para despertar a Lila Dogim o Julie O'Connor, quienes comulgaron soñolientas con sus Ajustadores del Pensamiento durante todo el episodio.
+¿Se han vuelto complacientes los lectores del _Libro de Urantia_ con la Quinta Revelación de Época? ¿Necesitamos una llamada de atención que nos estimule a difundir la Buena Nueva? Los 120 lectores que asistieron a la sesión de estudio de verano de la Fellowship de _El Libro de Urantia_ en el centro de conferencias Techny Towers en Northbrook, Illinois, recibieron una enfática llamada de atención a las 3:00 am del domingo 25 de julio, el último día de la conferencia. Fue entonces cuando la alarma contra incendios en Techny Towers se disparó con un chillido que podría levantar a los muertos, aunque no lo suficientemente fuerte como para despertar a Lila Dogim o Julie O'Connor, quienes comulgaron soñolientas con sus Ajustadores del Pensamiento durante todo el episodio.
 
 <figure id="Figure_4" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2010_Winter/005736.jpg">
@@ -148,7 +148,7 @@ Norman Ingram es el primer ganador del Premio David Zebedee otorgado por la Fell
 <img src="/image/article/The_Mighty_Messenger/2010_Winter/005740.jpg">
 </figure>
 
-El Premio David Zebedee se concibió por primera vez durante el Parlamento de las Religiones del Mundo en Melbourne en diciembre de 2009. A una reunión de lectores del Libro de Urantia se les preguntó: «¿Quién es su apóstol favorito?» Steve Rohrbach dijo que el suyo no era un apóstol, sino David Zebedee, porque apoyó el trabajo entre bastidores sin el elogio de ser uno de los apóstoles.
+El Premio David Zebedee se concibió por primera vez durante el Parlamento de las Religiones del Mundo en Melbourne en diciembre de 2009. A una reunión de lectores del _Libro de Urantia_ se les preguntó: «¿Quién es su apóstol favorito?» Steve Rohrbach dijo que el suyo no era un apóstol, sino David Zebedee, porque apoyó el trabajo entre bastidores sin el elogio de ser uno de los apóstoles.
 
 Ese parecía un título apropiado para este premio de servicio, especialmente considerando lo que David Zebedeo le dijo a Jesús:
 

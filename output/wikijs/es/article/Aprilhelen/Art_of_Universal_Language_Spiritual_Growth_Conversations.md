@@ -42,7 +42,7 @@ _por Aprilhelen Lovesyou_
 
 El Comité de Jóvenes y Adultos Jóvenes de la Comunidad _El Libro de Urantia_ y el Programa Paso a Paso lo invitan a participar en la exploración del arte del lenguaje universal.
 
-El deseo de una comunidad significativa es innato en nuestro prejuicio humano. Todos deseamos estar seguros, escuchados y amados. Ya sea dentro de nuestra comunidad del Libro de Urantia o en cualquier otro lugar, nos sentimos más aceptados cuando aumentamos nuestra verdad, belleza y bondad en las relaciones. Para ayudarnos unos a otros a mejorar nuestras habilidades comunicativas, hemos desarrollado una plataforma para debates virtuales que exploran el _Arte del Lenguaje Universal_.
+El deseo de una comunidad significativa es innato en nuestro prejuicio humano. Todos deseamos estar seguros, escuchados y amados. Ya sea dentro de nuestra comunidad del _Libro de Urantia_ o en cualquier otro lugar, nos sentimos más aceptados cuando aumentamos nuestra verdad, belleza y bondad en las relaciones. Para ayudarnos unos a otros a mejorar nuestras habilidades comunicativas, hemos desarrollado una plataforma para debates virtuales que exploran el _Arte del Lenguaje Universal_.
 
 Al conocer la dirección en la que se dirige Urantia hacia la inevitable era de luz y vida, desde muy joven fantaseé con todas las correcciones que la humanidad deberá atravesar en las generaciones venideras. La «propuesta de un solo idioma» (ver <a id="a46_246"></a>[LU 55:3.1](/es/The_Urantia_Book/55#p3_1)) ocupa un lugar destacado en esa lista. Esta cita del _Libro de Urantia_ habla de la promoción del uso de un solo dialecto:
 
@@ -60,7 +60,7 @@ Durante mis años escolares, tuve una mayor convicción de que el mensaje de Ura
 
 > El espíritu de la religión es eterno, pero la forma de expresarlo debe ser expuesta de nuevo cada vez que se revise el diccionario de la lengua humana. (<a id="a60_155"></a>[LU 99:1.6](/es/The_Urantia_Book/99#p1_6))
 
-Una de esas reformulaciones de las enseñanzas son los _Buscadores de la Verdad_, que fueron el primer grupo de estudiantes del Libro de Urantia con el que realmente resoné. Este grupo es una creación de los lectores veteranos del Libro de Urantia, Tom Choquette y Fred Harris. Aunque nuestros hermanos llevan de todo corazón la fe de la Revelación Urantia, son muy conscientes de la necesidad de un lenguaje universal. Su prioridad es dar lecciones sobre cómo cultivar valores y ampliar el significado de la vida a los más jóvenes, en lugar de evangelizar _El Libro de Urantia_. Una de sus razones es por esta verdad reveladora:
+Una de esas reformulaciones de las enseñanzas son los _Buscadores de la Verdad_, que fueron el primer grupo de estudiantes del _Libro de Urantia_ con el que realmente resoné. Este grupo es una creación de los lectores veteranos del Libro de Urantia, Tom Choquette y Fred Harris. Aunque nuestros hermanos llevan de todo corazón la fe de la Revelación Urantia, son muy conscientes de la necesidad de un lenguaje universal. Su prioridad es dar lecciones sobre cómo cultivar valores y ampliar el significado de la vida a los más jóvenes, en lugar de evangelizar _El Libro de Urantia_. Una de sus razones es por esta verdad reveladora:
 
 > Y ahora que el Maestro se ha ido personalmente de este mundo, envía en su lugar a su Espíritu de la Verdad, que está destinado a vivir en el hombre y a exponer de nuevo el mensaje de Jesús para cada nueva generación. Así, cada nuevo grupo de mortales que aparezca sobre la faz de la Tierra tendrá una versión nueva y actualizada del evangelio, precisamente esa iluminación personal y esa guía colectiva que resultará ser una solución eficaz para las dificultades espirituales, siempre nuevas y variadas, del hombre. (<a id="a64_519"></a>[LU 194:2.1](/es/The_Urantia_Book/194#p2_1))
 
@@ -113,7 +113,7 @@ Además, junto con estas técnicas para compartir su perspectiva con éxito, cad
 
 Darla Hughes y yo comenzamos a realizar exploraciones en línea para presentar el _Arte del lenguaje universal_, y recientemente realicé un taller en la Sesión de estudio de verano de 2022 de la Fellowship. Nuestra descripción actualmente es:
 
-> Una aventura colaborativa para estudiantes del Libro de Urantia en el arte de comunicar realidades espirituales superiores. Descubriremos métodos de conversación efectivos que permitirán a los participantes ser capaces de impartir y encarnar verdades reveladoras con el fin de interactuar dinámicamente con la audiencia más amplia posible.
+> Una aventura colaborativa para estudiantes del _Libro de Urantia_ en el arte de comunicar realidades espirituales superiores. Descubriremos métodos de conversación efectivos que permitirán a los participantes ser capaces de impartir y encarnar verdades reveladoras con el fin de interactuar dinámicamente con la audiencia más amplia posible.
 
 Yo agregaría que es un curso de expresión de valores espirituales con la intención de una transformación social global.
 

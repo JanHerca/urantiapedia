@@ -55,7 +55,7 @@ Sin embargo, debemos ser conscientes de lo largo y lento que será el proceso. M
 
 Necesitamos sentar las bases y establecer metas con respecto a las cosas sobre las que tenemos control, y estar preparados para aprender y adaptarnos a medida que avanzamos. Pero el verdadero trabajo no nos corresponde a nosotros. Eso debería liberarnos para invertir nuestros esfuerzos con alegría y esperanza, mientras oramos para que aquellos en los reinos superiores utilicen nuestros esfuerzos para el mayor bien y gloria de la obra del Padre.
 
-> _Merlyn Cox es pastor y sirve en la Conferencia de la Iglesia Metodista Unida del Norte de Indiana. Ha sido lector del Libro de Urantia durante 18 años y trabajó con Meredith Sprunger en la iniciación de The Spiritual Fellowship Journal en 1991, y trabajó durante diez años como editor asociado. Actualmente es presidente del Equipo Educativo de The Spiritual Fellowship._
+> _Merlyn Cox es pastor y sirve en la Conferencia de la Iglesia Metodista Unida del Norte de Indiana. Ha sido lector del _Libro de Urantia_ durante 18 años y trabajó con Meredith Sprunger en la iniciación de The Spiritual Fellowship Journal en 1991, y trabajó durante diez años como editor asociado. Actualmente es presidente del Equipo Educativo de The Spiritual Fellowship._
 {.is-info}
 
 

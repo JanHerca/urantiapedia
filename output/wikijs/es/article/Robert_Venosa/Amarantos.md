@@ -36,7 +36,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 <img src="/image/article/The_Arena/Astral-Circus-226x300.jpg" alt="Astral Circus">
 </figure>
 
-_(Robert Venosa (1936 -2011) fue un artista y también lector del Libro de Urantia que vivió y trabajó en Boulder, EE. UU. y España. Este poema fue tomado de su libro Noospheres 1991)_
+_(Robert Venosa (1936 -2011) fue un artista y también lector del _Libro de Urantia_ que vivió y trabajó en Boulder, EE. UU. y España. Este poema fue tomado de su libro Noospheres 1991)_
 
 Una Luz eterna de la fuente infinita
 Una idea en movimiento en un curso infinito

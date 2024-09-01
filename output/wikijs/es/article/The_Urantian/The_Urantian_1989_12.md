@@ -31,7 +31,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Prefacio
 
-Los grupos de estudio de _El Libro de Urantia_ son asociaciones familiares informales de lectores del Libro de Urantia que se unen para compartir y nutrir su experiencia de la quinta revelación de época a través del compañerismo, el servicio y el estudio. Aunque estas asociaciones han sido llamadas tradicionalmente «grupos de estudio», y el estudio en grupo de _El Libro de Urantia_ es la característica principal, no es la única. El intercambio de experiencias e inquietudes religiosas y el compañerismo son a menudo funciones igualmente importantes. Este folleto aborda principalmente el componente de estudio de la función del grupo de estudio.
+Los grupos de estudio de _El Libro de Urantia_ son asociaciones familiares informales de lectores del _Libro de Urantia_ que se unen para compartir y nutrir su experiencia de la quinta revelación de época a través del compañerismo, el servicio y el estudio. Aunque estas asociaciones han sido llamadas tradicionalmente «grupos de estudio», y el estudio en grupo de _El Libro de Urantia_ es la característica principal, no es la única. El intercambio de experiencias e inquietudes religiosas y el compañerismo son a menudo funciones igualmente importantes. Este folleto aborda principalmente el componente de estudio de la función del grupo de estudio.
 
 Este folleto ofrece ideas y sugerencias que pueden mejorar su experiencia en el grupo de estudio. Las prácticas descritas representan una recopilación de formas en que muchos, pero no todos, los grupos exitosos han informado que llevan a cabo sus actividades de grupo de estudio. Estas sugerencias no pretenden restringir la experimentación ni establecer reglas, sino que se ofrecen como un posible punto de partida. Los grupos exitosos han utilizado técnicas bastante diferentes a las sugeridas. Su grupo desarrollará métodos de estudio y compañerismo que se adapten a sus miembros, y así es como debe ser.
 
@@ -44,7 +44,7 @@ Estados Unidos de América
 
 ## ¿Por qué son importantes los grupos de estudio?
 
-A nivel personal, la importancia de los grupos de estudio del Libro de Urantia deriva de nuestra necesidad de comprender mejor las enseñanzas y de compartir nuestra experiencia espiritual, amistad, aliento y refuerzo mediante la asociación con otros lectores. La participación en un grupo de estudio de _El Libro de Urantia_ puede servir para mejorar el crecimiento espiritual personal, permitir un estudio en profundidad de _El Libro de Urantia_ con otros y reunir a los lectores para el compañerismo y el servicio.
+A nivel personal, la importancia de los grupos de estudio del _Libro de Urantia_ deriva de nuestra necesidad de comprender mejor las enseñanzas y de compartir nuestra experiencia espiritual, amistad, aliento y refuerzo mediante la asociación con otros lectores. La participación en un grupo de estudio de _El Libro de Urantia_ puede servir para mejorar el crecimiento espiritual personal, permitir un estudio en profundidad de _El Libro de Urantia_ con otros y reunir a los lectores para el compañerismo y el servicio.
 
 ### Consejos de Rodan y Jesús
 
@@ -54,7 +54,7 @@ Rodan de Alejandría habló extensamente sobre los beneficios de la asociación 
 
 Rodan añadió que, a través de la asociación, los hombres enriquecen sus almas al poner en común sus respectivas posesiones espirituales, evitando la siempre presente tendencia a ser víctimas de la distorsión de la visión, el prejuicio del punto de vista y la estrechez de juicio; que el miedo, la envidia y la vanidad se previenen mediante el contacto íntimo con otras mentes. Además, Rodan declaró: «_La asociación entre personalidades y el afecto mutuo son un seguro eficaz contra el mal... Hay una fuerza positiva en el conocimiento de que vivís para el bienestar de los demás, y que los demás viven igualmente para vuestro bienestar y vuestro progreso. El hombre languidece en el aislamiento._» (<a id="a54_700"></a>[LU 160:2.9](/es/The_Urantia_Book/160#p2_9))
 
-Durante la última aparición de Jesús en Jerusalén, les dijo a los apóstoles: «_...deseo que os améis y confiéis los unos en los otros{44}. Judas ya no está con vosotros porque su amor se enfrió y porque se negó a confiar en vosotros, sus leales hermanos. ¿No habéis leído en las Escrituras el pasaje que dice: ‘No es bueno que el hombre esté solo. Nadie vive para sí mismo’?...¿Y no os envié a enseñar de dos en dos{48} para que no os sintierais solos y no cayerais en los perjuicios y las desgracias del aislamiento?... Confiad, pues, y confiad unos en otros._» (<a id="a56_564"></a>[LU 193:3.2](/es/The_Urantia_Book/193#p3_2)). También puede haber un propósito Supremo en la actividad del grupo de estudio. Como escribió un Poderoso Mensajero al describir al Supremo, «_El hombre puede descubrir al Padre en su corazón, pero tendrá que buscar al Supremo en los corazones de otros hombres..._» (<a id="a56_876"></a>[LU 117:6.23](/es/The_Urantia_Book/117#p6_23))
+Durante la última aparición de Jesús en Jerusalén, les dijo a los apóstoles: «_...deseo que os améis y confiéis los unos en los otros. Judas ya no está con vosotros porque su amor se enfrió y porque se negó a confiar en vosotros, sus leales hermanos. ¿No habéis leído en las Escrituras el pasaje que dice: ‘No es bueno que el hombre esté solo. Nadie vive para sí mismo’?...¿Y no os envié a enseñar de dos en dos para que no os sintierais solos y no cayerais en los perjuicios y las desgracias del aislamiento?... Confiad, pues, y confiad unos en otros._» (<a id="a56_564"></a>[LU 193:3.2](/es/The_Urantia_Book/193#p3_2)). También puede haber un propósito Supremo en la actividad del grupo de estudio. Como escribió un Poderoso Mensajero al describir al Supremo, «_El hombre puede descubrir al Padre en su corazón, pero tendrá que buscar al Supremo en los corazones de otros hombres..._» (<a id="a56_876"></a>[LU 117:6.23](/es/The_Urantia_Book/117#p6_23))
 
 ### Bloques de construcción del reino
 
@@ -114,7 +114,7 @@ Un método diferente de oración grupal es que el moderador ore primero e indiqu
 
 Si algunas de las personas de su grupo tienen inclinaciones musicales, la inclusión de canciones espirituales en el programa puede resultar especialmente satisfactoria.
 
-Algunos grupos de estudio prosperan con la adoración en grupo, pero otros no. Su grupo debe abordar el tema con franqueza y llegar a un consenso. Al examinar el concepto de adoración en grupo expresado en _El Libro de Urantia_, su grupo tal vez desee reflexionar sobre el establecimiento por parte de Jesús de la cena conmemorativa como único sacramento de la comunión divina para sus seguidores, sobre el hecho asociado de la presencia divina y sobre la La explicación del Libro de Urantia sobre la relación entre comunión y adoración. «_...la comunión...es el preludio de la verdadera adoración —la práctica de la presencia de Dios, que conduce a la aparición de la fraternidad de los hombres._» (<a id="a116_699"></a>[LU 103:4.1](/es/The_Urantia_Book/103#p4_1))
+Algunos grupos de estudio prosperan con la adoración en grupo, pero otros no. Su grupo debe abordar el tema con franqueza y llegar a un consenso. Al examinar el concepto de adoración en grupo expresado en _El Libro de Urantia_, su grupo tal vez desee reflexionar sobre el establecimiento por parte de Jesús de la cena conmemorativa como único sacramento de la comunión divina para sus seguidores, sobre el hecho asociado de la presencia divina y sobre la La explicación del _Libro de Urantia_ sobre la relación entre comunión y adoración. «_...la comunión...es el preludio de la verdadera adoración —la práctica de la presencia de Dios, que conduce a la aparición de la fraternidad de los hombres._» (<a id="a116_699"></a>[LU 103:4.1](/es/The_Urantia_Book/103#p4_1))
 
 ### El moderador
 
@@ -158,7 +158,7 @@ Después de leer cada sección en voz alta, el moderador puede estimular la disc
 
 El moderador debe alentar a los nuevos lectores a contribuir con sus opiniones. Sus ideas pueden ser tan interesantes y valiosas como las de las personas que han estado leyendo _El Libro de Urantia_ durante años. La discusión y la interacción en grupo a menudo pueden ayudar a superar los problemas a la hora de comprender selecciones de _El Libro de Urantia_. Incluso en grupos principiantes, los aportes compartidos pueden generar preguntas que a su vez estimulan un estudio y una comprensión más profundos.
 
-Debido a que muchos temas del Libro de Urantia parecen fundamentalmente intelectuales, a veces el moderador puede desear dirigir la discusión en líneas que fomenten el intercambio de experiencias espirituales personales, lo cual es un beneficio importante de asistir a un grupo de estudio. Estas preguntas revelan los efectos de la verdad en nuestra vida personal y, por tanto, tratan tanto de sentimientos como de hechos.
+Debido a que muchos temas del _Libro de Urantia_ parecen fundamentalmente intelectuales, a veces el moderador puede desear dirigir la discusión en líneas que fomenten el intercambio de experiencias espirituales personales, lo cual es un beneficio importante de asistir a un grupo de estudio. Estas preguntas revelan los efectos de la verdad en nuestra vida personal y, por tanto, tratan tanto de sentimientos como de hechos.
 
 Existen técnicas específicas que pueden utilizarse para promover el debate:
 
@@ -177,7 +177,7 @@ Leer una sección en voz alta establece el tono y el estado de ánimo de la disc
 
 ### Desviándose
 
-Los grupos de estudio del Libro de Urantia generalmente no estudian nada excepto _El Libro de Urantia_. A veces, las breves selecciones de material de referencia relacionado contribuyen a la discusión, pero aquellos que deseen estudiar intensivamente algún otro libro deben formar su propio grupo separado. La mayoría de los grupos han descubierto que el estudio parece más productivo si cada persona no siente la necesidad de defender un punto de vista particular, sino que simplemente lo ofrece al grupo para su consideración.
+Los grupos de estudio del _Libro de Urantia_ generalmente no estudian nada excepto _El Libro de Urantia_. A veces, las breves selecciones de material de referencia relacionado contribuyen a la discusión, pero aquellos que deseen estudiar intensivamente algún otro libro deben formar su propio grupo separado. La mayoría de los grupos han descubierto que el estudio parece más productivo si cada persona no siente la necesidad de defender un punto de vista particular, sino que simplemente lo ofrece al grupo para su consideración.
 
 Si una respuesta o comentario es obviamente incorrecto, una buena técnica del moderador es preguntarle al orador cómo el pasaje leído respalda la visión presentada. (Esto es mejor y más discreto que una refutación directa.) Si se plantea una pregunta que no es relevante para el tema en cuestión, el moderador podría decir que no encaja en ese punto y ofrecerse a discutirla después del final de la reunión con cualquier persona que pueda estar interesada.
 
@@ -191,7 +191,7 @@ La reunión debe cultivar un espíritu de tolerancia y respeto por las opiniones
 
 ### Unidad espiritual
 
-La búsqueda de Dios es lo importante; No siempre es necesario que estemos de acuerdo en los detalles de cómo lo hacemos. La mayoría cree que, para ser coherentes con las enseñanzas, los grupos de estudio del Libro de Urantia deberían valorar la diversidad de opiniones. Encontramos unidad espiritual en nuestro amor mutuo por Dios, no en la uniformidad intelectual. Nada es más importante que ser uno, espiritualmente. «_...Amaos unos a otros como yo os he amado. Y en esto conocerán todos que sois mis discípulos, si así os amáis unos a otros._» (<a id="a193_548"></a>[LU 180:1.1](/es/The_Urantia_Book/180#p1_1))
+La búsqueda de Dios es lo importante; No siempre es necesario que estemos de acuerdo en los detalles de cómo lo hacemos. La mayoría cree que, para ser coherentes con las enseñanzas, los grupos de estudio del _Libro de Urantia_ deberían valorar la diversidad de opiniones. Encontramos unidad espiritual en nuestro amor mutuo por Dios, no en la uniformidad intelectual. Nada es más importante que ser uno, espiritualmente. «_...Amaos unos a otros como yo os he amado. Y en esto conocerán todos que sois mis discípulos, si así os amáis unos a otros._» (<a id="a193_548"></a>[LU 180:1.1](/es/The_Urantia_Book/180#p1_1))
 
 ### Mantener la asistencia
 
@@ -203,7 +203,7 @@ Es importante asegurar que cada miembro activo tenga una voz significativa en la
 
 El servicio de los miembros de un grupo de estudio puede ser de gran ayuda para el crecimiento individual y grupal. Los proyectos de servicio brindan una oportunidad especial para reclutar e involucrar a nuevos miembros para reemplazar a aquellos que de otro modo se perderían debido al desgaste normal.
 
-Todos los grupos de estudio, nuevos y antiguos, pueden beneficiarse si prestan atención al ministerio de servicio. Los grupos orientados hacia adentro tienden a debilitarse, mientras que los grupos dirigidos hacia afuera parecen florecer. Un ministerio de servicio atractivo para los grupos de estudio del Libro de Urantia es compartir _El Libro de Urantia_ con otros para que puedan beneficiarse de la misma revelación liberadora de nuestro Padre que nosotros hemos disfrutado. Otra es apoyar la experiencia de compañerismo de nuevos lectores y lectores necesitados.
+Todos los grupos de estudio, nuevos y antiguos, pueden beneficiarse si prestan atención al ministerio de servicio. Los grupos orientados hacia adentro tienden a debilitarse, mientras que los grupos dirigidos hacia afuera parecen florecer. Un ministerio de servicio atractivo para los grupos de estudio del _Libro de Urantia_ es compartir _El Libro de Urantia_ con otros para que puedan beneficiarse de la misma revelación liberadora de nuestro Padre que nosotros hemos disfrutado. Otra es apoyar la experiencia de compañerismo de nuevos lectores y lectores necesitados.
 
 El crecimiento de la membresía proviene del contacto de servicio amoroso, no de ilusiones. Si un grupo de estudio tiene pocos asistentes, es posible que sus miembros no hayan estado activos en acercarse e invitar a nuevas personas a asistir. Por supuesto, no todos los invitados vendrán, pero a menos que se extienda una invitación, nadie lo sabrá jamás.
 
@@ -229,7 +229,7 @@ El [_Study Group Herald_](/es/index/articles_study_group_herald), una nueva revi
 
 Esta nueva revista incluirá noticias del movimiento Urantia; las acciones de los lectores; artículos sobre cómo organizar grupos de estudio eficaces; ayudas de estudio tópico; una sección dedicada a los intereses de los jóvenes; compartir experiencias espirituales; artículos que arrojan luz sobre la revelación misma; ideas de divulgación; anuncios clasificados; un tablero de anuncios comunitario; calendarios de eventos; y listados de grupos de estudio y coordinadores de área.
 
-_Study Group Herald_ será una revista semestral de veinticuatro páginas. Se enviará por correo a los miembros de los grupos de estudio y a los lectores individuales del Libro de Urantia en todo el mundo.
+_Study Group Herald_ será una revista semestral de veinticuatro páginas. Se enviará por correo a los miembros de los grupos de estudio y a los lectores individuales del _Libro de Urantia_ en todo el mundo.
 
 Los Coordinadores de Área desarrollarán la mayor parte del _Study Group Herald_. Visitan y nutren grupos de estudio regionales y utilizarán la publicación como herramienta para establecer redes de información, ideas e inspiración que surjan de las bases del movimiento de grupos de estudio.
 

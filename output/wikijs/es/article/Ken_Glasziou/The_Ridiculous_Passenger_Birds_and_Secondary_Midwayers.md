@@ -52,7 +52,7 @@ Los resultados deben haberlo asombrado. Las parejas pudieron reproducirse cada s
 
 Estos descendientes inusuales fueron llamados intermedios secundarios. Aunque son incapaces de procrear, no tienen necesidad de dormir ni de alimento material terrenal, siendo energizados por «emanaciones espaciales» que son un misterio para nosotros los humanos. ¡Y son inmortales! (<a id="a52_284"></a>[LU 77:6.1](/es/The_Urantia_Book/77#p6_1))
 
-Si los lectores del Libro de Urantia leyeran este tipo de material en la Biblia o el Corán, probablemente se derrumbarían a carcajadas. Así que seguramente estos dos ejemplos deben obligarnos a considerar si los reveladores han desafiado repetidamente nuestros intelectos, rogándonos virtualmente que nos abstengamos de convertir su preciosa revelación en un ícono infalible.
+Si los lectores del _Libro de Urantia_ leyeran este tipo de material en la Biblia o el Corán, probablemente se derrumbarían a carcajadas. Así que seguramente estos dos ejemplos deben obligarnos a considerar si los reveladores han desafiado repetidamente nuestros intelectos, rogándonos virtualmente que nos abstengamos de convertir su preciosa revelación en un ícono infalible.
 
 > Que quede claro que las revelaciones no son necesariamente inspiradas. La cosmología de estas revelaciones no es inspirada. Está limitado por nuestro permiso para la coordinación y clasificación del conocimiento actual. (<a id="a56_223"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
 

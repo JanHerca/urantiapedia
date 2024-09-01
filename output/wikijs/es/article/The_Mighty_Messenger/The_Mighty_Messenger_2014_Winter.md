@@ -110,7 +110,7 @@ También, gracias a aquellos que donan a la Fellowship y así ayudan a patrocina
 
 Con amor de,
 
-Algunos lectores del Libro de Urantia de Oregón
+Algunos lectores del _Libro de Urantia_ de Oregón
 
 ## ¡Feliz cumpleaños Jesús!
 
@@ -130,7 +130,7 @@ Un proyecto que comenzó en 2009 para construir un sitio web donde los lectores 
 
 Un lector que visite urantiastudygroup.org puede especificar un país, ciudad o código postal y se le presentará una lista de grupos de estudio que cumplen con sus criterios de búsqueda. Suena bastante simple, pero el camino hacia esta sencilla interfaz estuvo lejos de ser fácil. Cuestiones tales como qué constituye un grupo de estudio, cómo administrar el directorio de manera justa, cómo tratar con grupos de estudio inactivos o errantes, y docenas de otras cuestiones espinosas han sido el desafío del equipo de gestión de ocho personas que ha trabajado en estas preocupaciones.
 
-El directorio está gestionado por un equipo cuyos miembros proceden de las tres organizaciones patrocinadoras: la Fundación Urantia, la Fellowship de _El Libro de Urantia_ y Urantia Association International. Los presidentes de cada organización patrocinadora son miembros de oficio de la junta directiva, mientras que los otros cinco miembros funcionan como un equipo para gestionar los asuntos cotidianos. Bajo el liderazgo de Barry Clark de Nueva Jersey, EE. UU., el equipo comenzó a desarrollar un modelo de gobierno que proporcionaría un conjunto justo y sólido de principios y pautas operativas para satisfacer los intereses de las organizaciones patrocinadoras, sin favoritismos, y para servir a los intereses de los lectores del Libro de Urantia de todo el mundo.
+El directorio está gestionado por un equipo cuyos miembros proceden de las tres organizaciones patrocinadoras: la Fundación Urantia, la Fellowship de _El Libro de Urantia_ y Urantia Association International. Los presidentes de cada organización patrocinadora son miembros de oficio de la junta directiva, mientras que los otros cinco miembros funcionan como un equipo para gestionar los asuntos cotidianos. Bajo el liderazgo de Barry Clark de Nueva Jersey, EE. UU., el equipo comenzó a desarrollar un modelo de gobierno que proporcionaría un conjunto justo y sólido de principios y pautas operativas para satisfacer los intereses de las organizaciones patrocinadoras, sin favoritismos, y para servir a los intereses de los lectores del _Libro de Urantia_ de todo el mundo.
 
 El equipo del directorio se reúne con frecuencia por teleconferencia para administrar y trabajar en el directorio. Hoy, el UBSGD es un directorio independiente administrado por este equipo de voluntarios con fondos de programación continuos donados por las tres organizaciones patrocinadoras.
 

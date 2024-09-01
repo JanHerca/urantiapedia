@@ -63,7 +63,7 @@ Entonces, el deseo de hacer la voluntad de Dios equivale a buscar ser como Dios.
 
 El «ser» debe preceder al «hacer». ¡Harás la voluntad de Dios siempre y cuando seas como Dios! Pero ¿qué es semejante a Dios?
 
-> «_Entonces Jesús dijo: «Pero vais a tropezar con mis enseñanzas porque estáis acostumbrados a interpretar mi mensaje literalmente; sois lentos en discernir el espíritu de mi enseñanza. Debéis recordar otra vez que sois mis mensajeros; estáis obligados a vivir vuestra vida como yo he vivido la mía en espíritu. Sois mis representantes personales; pero no cometáis el error de esperar que todos los hombres vivan como vosotros en todos los aspectos. También debéis recordar que tengo ovejas que no pertenecen a este rebaño, y que también estoy en deuda con ellos, ya que he de proporcionarles el modelo para hacer la voluntad de Dios, mientras vivo la vida de la naturaleza mortal»{57}._» (<a id="a65_691"></a>[LU 140:6.8](/es/The_Urantia_Book/140#p6_8))
+> «_Entonces Jesús dijo: «Pero vais a tropezar con mis enseñanzas porque estáis acostumbrados a interpretar mi mensaje literalmente; sois lentos en discernir el espíritu de mi enseñanza. Debéis recordar otra vez que sois mis mensajeros; estáis obligados a vivir vuestra vida como yo he vivido la mía en espíritu. Sois mis representantes personales; pero no cometáis el error de esperar que todos los hombres vivan como vosotros en todos los aspectos. También debéis recordar que tengo ovejas que no pertenecen a este rebaño, y que también estoy en deuda con ellos, ya que he de proporcionarles el modelo para hacer la voluntad de Dios, mientras vivo la vida de la naturaleza mortal»._» (<a id="a65_691"></a>[LU 140:6.8](/es/The_Urantia_Book/140#p6_8))
 
 En LU 153:3.2 Jesús dice:
 

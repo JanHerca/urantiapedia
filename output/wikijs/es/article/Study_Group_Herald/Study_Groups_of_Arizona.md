@@ -39,7 +39,7 @@ _Saludos, compañeros lectores de la Quinta Revelación de Época. Con esta edic
 
 ## Grupo de Estudio del Valle de la Luna
 
-PHOENIX — El Grupo de Estudio del Libro de Urantia del Valle de la Luna está ubicado en el norte de Phoenix, en la casa de Sue Smith. Las reuniones se realizan todos los martes a las 19:30 horas, con compañerismo y refrigerio hasta las 20:00 horas. El estudio finaliza a las 21:30 horas.
+PHOENIX — El Grupo de Estudio del _Libro de Urantia_ del Valle de la Luna está ubicado en el norte de Phoenix, en la casa de Sue Smith. Las reuniones se realizan todos los martes a las 19:30 horas, con compañerismo y refrigerio hasta las 20:00 horas. El estudio finaliza a las 21:30 horas.
 
 A veces comenzamos con oración o música meditativa, pero no es un ritual.
 
@@ -75,7 +75,7 @@ PHOENIX — El Grupo de Estudio de West Phoenix se ha estado reuniendo desde que
 
 Durante el verano todo parece ralentizarse en el desierto. Hace dos semanas nadie se presentó a la reunión. Esa fue la primera vez para nosotros. Quizás tuvo algo que ver con las finales de la NBA.
 
-Por lo general, asisten de cinco a siete personas de forma regular, pero nunca son las mismas personas, excepto un núcleo de cuatro. Ellos son: Arley, estudiante del Libro de Urantia durante siete años; Rhonda, lectora del Libro de Urantia desde hace dos años; Marc Neubauer, estudiante del Libro de Urantia durante cinco años, y Robert Terhune, lector del Libro de Urantia que encontró el libro a principios de los años setenta.
+Por lo general, asisten de cinco a siete personas de forma regular, pero nunca son las mismas personas, excepto un núcleo de cuatro. Ellos son: Arley, estudiante del _Libro de Urantia_ durante siete años; Rhonda, lectora del _Libro de Urantia_ desde hace dos años; Marc Neubauer, estudiante del _Libro de Urantia_ durante cinco años, y Robert Terhune, lector del _Libro de Urantia_ que encontró el libro a principios de los años setenta.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Moon_Valley.jpg">

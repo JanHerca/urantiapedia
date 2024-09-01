@@ -35,9 +35,9 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 
-Uno de nuestros lectores en Clifton, Queensland, ha estado recopilando detalles sobre el contenido científico del Libro de Urantia durante muchos años. Ken Glasziou ha hecho esto más o menos de forma aislada, sin acceso a bibliotecas, revistas científicas y sin el beneficio de la discusión.
+Uno de nuestros lectores en Clifton, Queensland, ha estado recopilando detalles sobre el contenido científico del _Libro de Urantia_ durante muchos años. Ken Glasziou ha hecho esto más o menos de forma aislada, sin acceso a bibliotecas, revistas científicas y sin el beneficio de la discusión.
 
-Le gustaría invitar a otros lectores del Libro de Urantia con algún tipo de formación científica a unirse a él en un esfuerzo por producir mejores comentarios y también actualizarlos continuamente. Ken agradecería las críticas y cualquier adición a su primer esfuerzo y también le gustaría tener el beneficio de la discusión. Su experiencia es en bioquímica y biología y es una tarea difícil para él intentar hacer un comentario universal.
+Le gustaría invitar a otros lectores del _Libro de Urantia_ con algún tipo de formación científica a unirse a él en un esfuerzo por producir mejores comentarios y también actualizarlos continuamente. Ken agradecería las críticas y cualquier adición a su primer esfuerzo y también le gustaría tener el beneficio de la discusión. Su experiencia es en bioquímica y biología y es una tarea difícil para él intentar hacer un comentario universal.
 
 Six-0-Six Newsletter publicará una serie de artículos de Ken durante los próximos meses.
 

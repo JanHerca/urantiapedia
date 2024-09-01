@@ -91,7 +91,7 @@ Mucha gente se ha sentido intensamente agradecida por leer _El Libro de Urantia_
 
 Lo que muchas personas pensantes necesitan hoy no es simplemente una simple reiteración de la proclamación de la paternidad de Dios y nuestra relación familiar con nuestros semejantes. Necesitan y anhelan una elaboración nueva y mejorada de las verdades simples del evangelio, adaptadas a los horizontes ampliados de la era moderna. _El Libro de Urantia_ llegó a este mundo para satisfacer esta necesidad, para responder preguntas con amplitud y autoridad divinas, a fin de proporcionar un contexto que arroje luz cósmica sobre las verdades simples del evangelio.
 
-Una de nuestras principales tareas como lectores experimentados del Libro de Urantia es agudizar nuestra comprensión de las enseñanzas del libro y encontrar multitud de maneras de llegar a las personas con estas verdades.
+Una de nuestras principales tareas como lectores experimentados del _Libro de Urantia_ es agudizar nuestra comprensión de las enseñanzas del libro y encontrar multitud de maneras de llegar a las personas con estas verdades.
 
 Puesto que está manifiestamente claro que: (1) muchas personas inteligentes y sinceras (no sólo «las pocas inusuales») están equipadas para beneficiarse de un estudio de las enseñanzas multifacéticas de _El Libro de Urantia_ y (2) el libro aborda y estaba destinado a ser aplicable Hasta el siglo XX, no veo ninguna buena razón para concentrarse en el evangelio a expensas de centrarse en todo el cuerpo de enseñanzas de _El Libro de Urantia_.
 

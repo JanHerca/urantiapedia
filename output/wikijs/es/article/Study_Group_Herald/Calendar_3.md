@@ -84,7 +84,7 @@ por Clyde Bedell
 Nuestra ayuda de estudio número uno más vendida, El Concordex, es un libro de tapa dura duradero lleno de referencias de actualidad. Es indispensable como complemento índice de _El Libro de Urantia_ y puede acompañarle fácilmente a todas partes.
 
 **Hay vida después de la muerte** \$3.95/ud.
-Una de nuestras ayudas de divulgación más populares, esta revista a todo color ofrece una visión integral de la carrera de la ascensión y la realidad de la vida eterna al sintetizar conceptos del Libro de Urantia junto con arte hermoso y original.
+Una de nuestras ayudas de divulgación más populares, esta revista a todo color ofrece una visión integral de la carrera de la ascensión y la realidad de la vida eterna al sintetizar conceptos del _Libro de Urantia_ junto con arte hermoso y original.
 
 **Las cartas Mota** \$3.50 / juego
 Nuestro nuevo producto favorito contiene 28 tarjetas tamaño billetera en 28 colores pastel. Cada tarjeta tiene una declaración única de la filosofía humana en el frente y una breve descripción de Mota, además de un lugar para su nombre y número de teléfono en el reverso. Úselo como tarjetas de lecciones, tarjetas de amistad o tarjetas de presentación personales.

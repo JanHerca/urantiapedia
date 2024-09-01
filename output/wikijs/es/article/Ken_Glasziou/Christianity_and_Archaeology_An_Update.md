@@ -113,7 +113,7 @@ El evangelio de Marcos al menos tenía algo de correcto cuando hizo que los áng
 - Finkelstein, I. y NA Silberman (2002). _La Biblia descubierta_. Libros Touchstone, Simon and Schuster, Nueva York
 - Herzog, Ze'ev, (Profesor de Arqueología, Universidad de Tel Aviv) en Ha'aetz Magazine, octubre de 1999.
 
-[Nota: A partir de los comentarios anteriores, y particularmente de las referencias de Finkelstein y Silberman, y Herzog, los lectores del Libro de Urantia verán que, más allá de toda duda racional, cualquier interpretación literal de la Biblia ahora es insostenible].
+[Nota: A partir de los comentarios anteriores, y particularmente de las referencias de Finkelstein y Silberman, y Herzog, los lectores del _Libro de Urantia_ verán que, más allá de toda duda racional, cualquier interpretación literal de la Biblia ahora es insostenible].
 
 Pero esto también indica que una interpretación literal de secciones de los Documentos de Urantia también es insostenible, lo cual está de acuerdo con lo que nos dicen los reveladores:
 
@@ -121,7 +121,7 @@ Pero esto también indica que una interpretación literal de secciones de los Do
 
 Una declaración clave del artículo de **AA** es: «Dado lo que sabemos, los cristianos en el siglo XXI deben entender a Dios y a Jesús lo mejor que podamos»._
 
-¿Qué saben los lectores del Libro de Urantia que ayudará a dar sentido a Dios y Jesús? Hay un elemento crítico de conocimiento que los cristianos ya conocían bien en el primer siglo EC, pero que desde entonces han perdido, a pesar de que hay más de veinte versículos del Nuevo Testamento para recordárselos.
+¿Qué saben los lectores del _Libro de Urantia_ que ayudará a dar sentido a Dios y Jesús? Hay un elemento crítico de conocimiento que los cristianos ya conocían bien en el primer siglo EC, pero que desde entonces han perdido, a pesar de que hay más de veinte versículos del Nuevo Testamento para recordárselos.
 
 En la actualidad, desde el punto de vista de la humanidad, el elemento de conocimiento más importante que existe en nuestro planeta se refiere a los hechos del cómo, qué y por qué de nuestra morada por el espíritu mismo de nuestro Dios Padre. Y debido a que se pierde u olvida en casi todas partes, por defecto, dicho conocimiento está cerca de convertirse en posesión exclusiva de los devotos del Libro de Urantia.
 

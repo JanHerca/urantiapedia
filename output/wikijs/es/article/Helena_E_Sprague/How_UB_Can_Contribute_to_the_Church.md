@@ -54,7 +54,7 @@ En su notable diversidad, _El Libro de Urantia_ ayuda a llevar verdades eternas 
 
 El buscador ferviente pregunta: «¿Cómo puedo conocer a Dios? ¿Qué es el espíritu? ¿Son reales los ángeles? ¿Quién es Jesús para mí? ¿Qué estoy haciendo aquí? ¿A dónde voy? Si hay vida eterna, ¿qué sobrevive? La inestimable guía de la Biblia para estos asuntos tiene una aplicación amplia y relativamente breve. _El Libro de Urantia_ los aborda en detalle y de una manera coherente con los avances de finales del siglo XX en ciencia, filosofía y religión.
 
-Jesús enseñó hábilmente al nivel de sus oyentes, quienes eran recién llegados a la idea de que el «espíritu interior» es la chispa de Dios que reside en cada mente humana: eterna, cercana, no coercitiva y amorosa. Los lectores del Libro de Urantia suelen decir que, después de la vida y las enseñanzas del Hijo del Hombre, la descripción del origen, naturaleza, función y destino de este fragmento de Dios dentro de nosotros es la sección más valiosa.
+Jesús enseñó hábilmente al nivel de sus oyentes, quienes eran recién llegados a la idea de que el «espíritu interior» es la chispa de Dios que reside en cada mente humana: eterna, cercana, no coercitiva y amorosa. Los lectores del _Libro de Urantia_ suelen decir que, después de la vida y las enseñanzas del Hijo del Hombre, la descripción del origen, naturaleza, función y destino de este fragmento de Dios dentro de nosotros es la sección más valiosa.
 
 El libro relata la experiencia «ordinaria» de los «años ocultos» de Jesús, su familia, educación, amistades y trabajo. Estos detalles brindan inspiración y consuelo al describir cómo enfrentó las luchas, las decepciones y la muerte con perdón y el gozo primordial de la fe completa en su Padre.
 

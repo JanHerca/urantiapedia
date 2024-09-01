@@ -261,7 +261,7 @@ Administrador de Anzura
 <img src="/image/article/The_Arena/UB-Endeavour-Logo-and-text-screenshot-190x300.jpg" alt="UB Endeavour">
 </figure>
 
-La misión de ANZURA es _fomentar el estudio en profundidad_ del Libro de Urantia _y difundir sus enseñanzas_.
+La misión de ANZURA es _fomentar el estudio en profundidad_ del _Libro de Urantia_ _y difundir sus enseñanzas_.
 
 El _LU Endeavour_ es una iniciativa de recaudación de fondos para que ANZURA nos ayude a difundir _El Libro de Urantia_ y sus enseñanzas en toda la región de Australia, Nueva Zelanda y el Pacífico Sur.
 

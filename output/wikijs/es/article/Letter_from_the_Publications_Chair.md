@@ -55,7 +55,7 @@ _The Urantia Book_ Fellowship tiene un nuevo comité dirigido por Sue Snider Sec
 <figcaption><em>Michelle Klimesh</em></figcaption>
 </figure>
 
-Además, pregunté a la gente de nuestra comunidad qué están haciendo inspirados por las enseñanzas del Libro de Urantia que contribuye a los Ángeles del Progreso. La creatividad en nuestra comunidad siempre me sorprende. Mi amiga Michelle Klimesh descubrió que solo hay unas pocas citas que mencionan a los Ángeles del Progreso, por lo que tenemos mucho que aprender sobre ellos.
+Además, pregunté a la gente de nuestra comunidad qué están haciendo inspirados por las enseñanzas del _Libro de Urantia_ que contribuye a los Ángeles del Progreso. La creatividad en nuestra comunidad siempre me sorprende. Mi amiga Michelle Klimesh descubrió que solo hay unas pocas citas que mencionan a los Ángeles del Progreso, por lo que tenemos mucho que aprender sobre ellos.
 
 ## Ángeles del Progreso Citas del Libro de Urantia
 

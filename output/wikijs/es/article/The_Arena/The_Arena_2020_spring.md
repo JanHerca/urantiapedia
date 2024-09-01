@@ -304,7 +304,7 @@ Administrador de Anzura
 
 La Asociación Urantia de Australia y Nueva Zelanda (ANZURA) está formada por personas que desean ayudar a fomentar el estudio de _El Libro de Urantia_ y la difusión de sus enseñanzas en toda Australia y Nueva Zelanda. Busca hacer esto proporcionando entornos de aprendizaje interactivos en los que los estudiantes puedan profundizar y ampliar su conocimiento del libro y disfrutar de la interacción y el intercambio de ideas con sus compañeros.
 
-Nuestra intención es no obstaculizar nuestro trabajo de difusión del Libro de Urantia y sus enseñanzas con la iglesia, el templo u otras instituciones espirituales. Nuestros miembros han llegado a reconocer la importancia del libro y la belleza integrada de sus enseñanzas supremas que nos animan a desarrollar nuestra propia filosofía a través del estudio, la experiencia, las decisiones y las acciones. Sin embargo, mantenemos la opinión y reconocemos que colectivamente hay muchos proyectos y programas valiosos que podemos emprender juntos para lograr nuestros objetivos.
+Nuestra intención es no obstaculizar nuestro trabajo de difusión del _Libro de Urantia_ y sus enseñanzas con la iglesia, el templo u otras instituciones espirituales. Nuestros miembros han llegado a reconocer la importancia del libro y la belleza integrada de sus enseñanzas supremas que nos animan a desarrollar nuestra propia filosofía a través del estudio, la experiencia, las decisiones y las acciones. Sin embargo, mantenemos la opinión y reconocemos que colectivamente hay muchos proyectos y programas valiosos que podemos emprender juntos para lograr nuestros objetivos.
 
 [Leer más](https://anzura.urantia-association.org/2022/01/01/about-anzura/#more-1383)
 <br style="clear:both;"/>
@@ -336,7 +336,7 @@ Administrador de Anzura
 <img src="/image/article/The_Arena/UB-Endeavour-Logo-and-text-screenshot-190x300.jpg" alt="UB Endeavour">
 </figure>
 
-La misión de ANZURA es _fomentar el estudio en profundidad_ del Libro de Urantia _y difundir sus enseñanzas_.
+La misión de ANZURA es _fomentar el estudio en profundidad_ del _Libro de Urantia_ _y difundir sus enseñanzas_.
 
 El _LU Endeavour_ es una iniciativa de recaudación de fondos para que ANZURA nos ayude a difundir _El Libro de Urantia_ y sus enseñanzas en toda la región de Australia, Nueva Zelanda y el Pacífico Sur.
 

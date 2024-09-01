@@ -165,7 +165,7 @@ Su compromiso siempre es bienvenido en el proceso de evolución de la cultura de
 
 ***Puede que no exista un «camino» hacia la paz. ¡La paz es el camino!***
 
-> _Anton Schmalz ha sido estudiante de _El Libro de Urantia_ desde 1975. Le gusta aplicar las ideas del Libro de Urantia a cuestiones de paz mundial. Anton ha sido un escritor profesional en todos los medios. Ha ayudado a desarrollar estrategias importantes y ha preparado declaraciones políticas para cuatro presidentes de Estados Unidos. Puede comunicarse con él en: 390 W. Calle de las Flores, Green Valley, AZ 85614_
+> _Anton Schmalz ha sido estudiante de _El Libro de Urantia_ desde 1975. Le gusta aplicar las ideas del _Libro de Urantia_ a cuestiones de paz mundial. Anton ha sido un escritor profesional en todos los medios. Ha ayudado a desarrollar estrategias importantes y ha preparado declaraciones políticas para cuatro presidentes de Estados Unidos. Puede comunicarse con él en: 390 W. Calle de las Flores, Green Valley, AZ 85614_
 {.is-info}
 
 

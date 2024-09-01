@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-Las actitudes de muchos lectores del Libro de Urantia hacia la cena del recuerdo adolece de un precondicionamiento derivado de la asociación de la cena de la iglesia cristiana con su doctrina del perdón de los pecados a través de la muerte sacrificial de Jesús. Pero los autores de los Documentos de Urantia, aunque plenamente conscientes de esta dificultad, ponen gran énfasis en el significado simbólico de la última cena para todos los que siguen a Jesús.
+Las actitudes de muchos lectores del _Libro de Urantia_ hacia la cena del recuerdo adolece de un precondicionamiento derivado de la asociación de la cena de la iglesia cristiana con su doctrina del perdón de los pecados a través de la muerte sacrificial de Jesús. Pero los autores de los Documentos de Urantia, aunque plenamente conscientes de esta dificultad, ponen gran énfasis en el significado simbólico de la última cena para todos los que siguen a Jesús.
 
 Cuando Jesús entregó la «copa de bendición» a sus discípulos, dijo: «_Tomad todos esta copa, y bebed de ella. Ésta será la copa de mi recuerdo. Ésta es la copa de la bendición de una nueva dispensación de gracia y de verdad. Será para vosotros el ***emblema de la donación y del ministerio del Espíritu divino de la Verdad***._» (<a id="a38_330"></a>[LU 179:5.1](/es/The_Urantia_Book/179#p5_1))
 
@@ -58,7 +58,7 @@ En lo que sigue se utiliza una forma imperativa de tratamiento. Se nos dice que 
 
 > «_Tú ***debes*** permanecer en mí y yo en ti», dice Jesús, «el sarmiento muere si se le separa de la vid._» (<a id="a58_111"></a>[LU 180:2.1](/es/The_Urantia_Book/180#p2_1))
 
-Ese comentario merece nuestro pensamiento y reflexión concentrados. Parece que los lectores del Libro de Urantia son patos muertos si ignoran la palabra de Jesús; vea:
+Ese comentario merece nuestro pensamiento y reflexión concentrados. Parece que los lectores del _Libro de Urantia_ son patos muertos si ignoran la palabra de Jesús; vea:
 
 > «_Si los creyentes declarados no dan estos frutos del espíritu divino en sus vidas, ***están muertos***._» (<a id="a62_110"></a>[LU 193:2.2](/es/The_Urantia_Book/193#p2_2))
 

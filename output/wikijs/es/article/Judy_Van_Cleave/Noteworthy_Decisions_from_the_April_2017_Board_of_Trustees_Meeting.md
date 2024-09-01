@@ -62,7 +62,7 @@ A la luz del entorno cambiante con las redes sociales y el uso cada vez mayor de
 ## 4. Se aprobó una traducción al tagalo (filipino)
 
 Gracias a un dedicado grupo de lectores filipinos, la junta aprobó la creación de una traducción al tagalo del _El libro de Urantia_. Una traducción de esta complejidad probablemente tardará al menos diez años en completarse antes de su publicación. Con una población de más de 100 millones de personas y un 92\% de cristianos, pocos lugares en el mundo tienen un suelo espiritual tan rico como Filipinas. Si bien el número de cristianos en un país no es garantía de que el libro sea aceptado por los primeros adaptadores, una población cristiana activa y buscadora ha sido un determinante clave de
-Aceptación del Libro de Urantia hasta el momento.
+Aceptación del _Libro de Urantia_ hasta el momento.
 
 ## 5. Publicación de una réplica conmemorativa de la primera impresión de _El Libro de Urantia_
 

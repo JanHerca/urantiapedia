@@ -52,7 +52,7 @@ Después de revisar los asuntos pendientes del equipo europeo, la Junta autoriz�
 
 La Junta nombró a seis miembros del Comité de Traducciones. El Comité está presidido por Seppo Kanerva y los demás miembros son Gábor Cseh (Budapest, Hungría), Michael MacIsaac (Estocolmo, Suecia), Georges Michelson-Dupont (Recloses, Francia), David Kantor (Colorado, EE.UU.) y Neal Waldrop (Maryland , EE.UU). La principal tarea de este comité será proporcionar a la Junta recomendaciones sobre los costos y cronogramas para las traducciones en curso y futuras. La principal tarea de este comité será proporcionar a la Junta recomendaciones sobre los costos y cronogramas para las traducciones en curso y futuras.
 
-## Nuevas sobrecubiertas del Libro de Urantia para el mercado del libro de EE. UU.
+## Nuevas sobrecubiertas del _Libro de Urantia_ para el mercado del libro de EE. UU.
 
 En abril de 2007, la Junta contrató a tres empresas de diseño de portadas de libros de talla mundial para rediseñar la portada de los libros en inglés de la Fundación Urantia para las librerías estadounidenses y el mercado de Internet. Después de un extenso trabajo de diseño por parte de los tres equipos, se seleccionaron los diseños más bellos y apropiados para investigarlos y perfeccionarlos.
 

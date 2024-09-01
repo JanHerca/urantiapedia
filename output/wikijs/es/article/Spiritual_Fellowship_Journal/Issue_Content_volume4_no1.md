@@ -130,7 +130,7 @@ Copyright © 1994, Todos los derechos reservados.
 
 - ***Interfaz***: La Iglesia en el próximo siglo
 - **Encuentro _El Libro de Urantia_**
-    El descubrimiento del Libro de Urantia por parte de un ministro canadiense ha sido tan gratificante que se refiere a él como su «tercer renacimiento».
+    El descubrimiento del _Libro de Urantia_ por parte de un ministro canadiense ha sido tan gratificante que se refiere a él como su «tercer renacimiento».
 - **Cultura y Valores**
     Un nuevo comienzo para la unidad mundial (Parte 1)
 - **Adoración y Sociedad**

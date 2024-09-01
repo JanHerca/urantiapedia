@@ -35,7 +35,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Seppo Kanerva, Helsinki, Finlandia
 
-> «Habéis recibido gratuitamente, dad gratuitamente»{86}.» (<a id="a37_60"></a>[LU 140:9.2](/es/The_Urantia_Book/140#p9_2))
+> «Habéis recibido gratuitamente, dad gratuitamente».» (<a id="a37_60"></a>[LU 140:9.2](/es/The_Urantia_Book/140#p9_2))
 
 > «Os lo digo a todos: Habéis recibido generosamente las cosas buenas del reino; dad pues generosamente a vuestros compañeros de la Tierra» (<a id="a39_141"></a>[LU 159:1.5](/es/The_Urantia_Book/159#p1_5))
 

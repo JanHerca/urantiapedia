@@ -152,7 +152,7 @@ Por ejemplo, «Melchizedek» tiene más de 100 referencias de índice desde Maqu
 
 El índice es una biblioteca de referencia muy útil para _El Libro de Urantia_. Y se espera que el precio del libro con el índice incluido sea de unos veinte dólares... un verdadero logro para el hombre y la maquinaria. Gracias a todos por su excelente trabajo.
 
-> ¿Alguna vez ha oído hablar de un niño en crecimiento que no tenía hambre? La creciente Fellowship del Libro de Urantia necesita el sustento que ustedes pueden proporcionar. es nuestro tiempo
+> ¿Alguna vez ha oído hablar de un niño en crecimiento que no tenía hambre? La creciente Fellowship del _Libro de Urantia_ necesita el sustento que ustedes pueden proporcionar. es nuestro tiempo
 
 ## Vamos mamás y papás
 

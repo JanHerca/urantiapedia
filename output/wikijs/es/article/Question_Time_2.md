@@ -36,7 +36,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 Hágase esta pregunta, reflexionando detenidamente antes de responder:
 
-Primero, **suponga** que ha absorbido las enseñanzas del Libro de Urantia y aceptado el llamado para intentar vivir su vida como Jesús vivió la suya.
+Primero, **suponga** que ha absorbido las enseñanzas del _Libro de Urantia_ y aceptado el llamado para intentar vivir su vida como Jesús vivió la suya.
 
 Sin embargo, después de tomar esa decisión, los mejores científicos presentaron evidencia completamente convincente de que el universo y la vida son accidentes aleatorios que simplemente tenían que ocurrir, y la hipótesis de que Dios los creó no es válida.
 

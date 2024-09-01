@@ -271,7 +271,7 @@ Luego están los planes que parecen razonables pero son superficiales, ya que no
 
 Aquí nuevamente se hace referencia a los dos caminos. El éxito o el fracaso material no es necesariamente un indicador del destino espiritual.
 
-> Una ambición enérgica, un juicio inteligente y una sabiduría madura son los factores esenciales para conseguir el éxito material. Las dotes de mando dependen de la aptitud natural, la discreción, el poder de la voluntad y la determinación. El destino espiritual depende de la fe, el amor y la devoción a la verdad —el hambre y la sed de rectitud—{26} el deseo entusiasta de encontrar a Dios y parecerse a él. (<a id="s273_412"></a>[LU 156:5.7](/es/The_Urantia_Book/156#p5_7))
+> Una ambición enérgica, un juicio inteligente y una sabiduría madura son los factores esenciales para conseguir el éxito material. Las dotes de mando dependen de la aptitud natural, la discreción, el poder de la voluntad y la determinación. El destino espiritual depende de la fe, el amor y la devoción a la verdad —el hambre y la sed de rectitud— el deseo entusiasta de encontrar a Dios y parecerse a él. (<a id="s273_412"></a>[LU 156:5.7](/es/The_Urantia_Book/156#p5_7))
 
 > No os desaniméis por el descubrimiento de que sois humanos. La naturaleza humana puede tender hacia el mal, pero no es pecaminosa de manera inherente. No os sintáis abatidos por vuestra incapacidad para olvidar completamente algunas de vuestras experiencias más lamentables. Los errores que no consigáis olvidar en el tiempo, serán olvidados en la eternidad. Aligerad las cargas de vuestra alma mediante la rápida adquisición de una visión a largo plazo de vuestro destino, de una expansión de vuestra carrera en el universo. (<a id="s275_529"></a>[LU 156:5.8](/es/The_Urantia_Book/156#p5_8))
 
@@ -458,7 +458,7 @@ Esta es una referencia a una de las muchas parábolas contadas en la revelación
 
 Esta parábola trata sobre el mayordomo astuto. Se da en un contexto empresarial y habla de diligencia y previsión. Está hábilmente expresado, aunque es una historia intransigente, de nuevo con un mensaje central.
 
-> Una tarde, al comentar una de las declaraciones de Jesús, Simón Celotes{22} dijo: «Maestro, ¿qué has querido decir hoy cuando has afirmado que muchos hijos del mundo son más sensatos en su generación que los hijos del reino, puesto que tienen la habilidad de hacer amigos con las riquezas conseguidas injustamente?» Jesús respondió: (<a id="s460_336"></a>[LU 169:2.1](/es/The_Urantia_Book/169#p2_1))
+> Una tarde, al comentar una de las declaraciones de Jesús, Simón Celotes dijo: «Maestro, ¿qué has querido decir hoy cuando has afirmado que muchos hijos del mundo son más sensatos en su generación que los hijos del reino, puesto que tienen la habilidad de hacer amigos con las riquezas conseguidas injustamente?» Jesús respondió: (<a id="s460_336"></a>[LU 169:2.1](/es/The_Urantia_Book/169#p2_1))
 
 > _«Antes de entrar en el reino, algunos de vosotros erais muy astutos en el trato con vuestros asociados en los negocios. Si erais injustos y a menudo desleales, sin embargo erais prudentes y previsores, en el sentido de que realizabais vuestros negocios con el ojo puesto únicamente en vuestro beneficio presente y en vuestra seguridad futura. Del mismo modo, ahora deberíais ordenar vuestra vida en el reino de tal manera que os proporcione la alegría en el presente y os asegure también el disfrute futuro de los tesoros acumulados en el cielo. Si erais tan diligentes en la obtención de ganancias para vosotros mismos cuando estabais al servicio del ego, ¿por qué tendríais que mostrar menos diligencia en ganar almas para el reino, puesto que ahora sois los servidores de la fraternidad de los hombres y los administradores de Dios?»_ (<a id="s462_842"></a>[LU 169:2.2](/es/The_Urantia_Book/169#p2_2))
 
@@ -481,9 +481,9 @@ Los negocios provocan discusiones y resentimientos, pueden alterar a las familia
 
 > En el estudio de la técnica para *recibir* el perdón de Dios es donde se encuentra revelada la obtención de la rectitud del reino. La fe es el precio que pagáis por entrar en la familia de Dios; pero el perdón es el acto de Dios que acepta vuestra fe como precio de admisión. Y la recepción del perdón de Dios por parte de un creyente en el reino implica una experiencia precisa y real, que consiste en las cuatro etapas siguientes, las etapas del reino de la rectitud interior:
 > 
-> 1. El hombre dispone realmente del perdón de Dios, y lo experimenta personalmente, en la medida exacta en que perdona a sus semejantes{37}.
+> 1. El hombre dispone realmente del perdón de Dios, y lo experimenta personalmente, en la medida exacta en que perdona a sus semejantes.
 > 2. El hombre no perdona de verdad a sus semejantes a menos que los ame como a sí mismo.
-> 3. Amar así al prójimo como a sí mismo{38} *es* la ética más elevada.
+> 3. Amar así al prójimo como a sí mismo *es* la ética más elevada.
 > 4. La conducta moral, la verdadera rectitud, se convierte entonces en el resultado natural de ese amor. (<a id="s486_107"></a>[LU 170:3.3-7](/es/The_Urantia_Book/170#p3_3))
 
 > Por eso es evidente que la verdadera religión interior del reino tiende a manifestarse infaliblemente, y cada vez más, en las vías prácticas del servicio social. Jesús enseñó una religión viva que impulsaba a sus creyentes a dedicarse a realizar un servicio amoroso. Pero Jesús no puso la ética en el lugar de la religión. Enseñó la religión como causa, y la ética como resultado. (<a id="s488_384"></a>[LU 170:3.8](/es/The_Urantia_Book/170#p3_8))
@@ -595,7 +595,7 @@ Estas citas se incluyen por su valor universal más que por una relevancia corpo
 
 > El secreto de una civilización mejor está encerrado en las enseñanzas del Maestro sobre la fraternidad de los hombres, la buena voluntad del amor y de la confianza mutua. (<a id="s595_174"></a>[LU 194:3.12](/es/The_Urantia_Book/194#p3_12))
 
-> La religión de Jesús es la influencia unificadora{28} más poderosa que el mundo ha conocido jamás. (<a id="s597_102"></a>[LU 194:3.17](/es/The_Urantia_Book/194#p3_17))
+> La religión de Jesús es la influencia unificadora más poderosa que el mundo ha conocido jamás. (<a id="s597_102"></a>[LU 194:3.17](/es/The_Urantia_Book/194#p3_17))
 
 > Pentecostés estaba destinado a disminuir la presunción de las personas, los grupos, las naciones y las razas. La tensión de este espíritu de presunción es la que se acrecienta tanto que periódicamente se desata en guerras destructivas. La humanidad sólo puede unificarse mediante el acercamiento espiritual, y el Espíritu de la Verdad es una influencia mundial común para todos. (<a id="s599_382"></a>[LU 194:3.18](/es/The_Urantia_Book/194#p3_18))
 

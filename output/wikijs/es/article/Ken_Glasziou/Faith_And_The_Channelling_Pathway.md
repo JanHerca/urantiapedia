@@ -71,7 +71,7 @@ _El Libro de URANTIA_ tiene mucho que decir sobre la necesidad de entrar al rein
 
 Hay muchísimo más sobre la fe en el libro, pero me gusta este:
 
-> «_Sólo hay una lucha que tienen que sostener los que entran en el reino, y es el buen combate de la fe. El creyente sólo tiene que librar una batalla, y es contra la duda —contra la incredulidad{18}._» (<a id="a73_205"></a>[LU 159:3.8](/es/The_Urantia_Book/159#p3_8))
+> «_Sólo hay una lucha que tienen que sostener los que entran en el reino, y es el buen combate de la fe. El creyente sólo tiene que librar una batalla, y es contra la duda —contra la incredulidad._» (<a id="a73_205"></a>[LU 159:3.8](/es/The_Urantia_Book/159#p3_8))
 
 Otros dos que no puedo omitir son:
 

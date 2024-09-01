@@ -99,7 +99,7 @@ Por _Michelle Klimesh_, coordinadora de oleoductos
 
 Durante el tercer trimestre de 2007, Pipeline of Light Volunteers colocó un total de 111 copias de traducciones de _El Libro de Urantia_ en doce países, incluidos libros en la península del Sinaí en Egipto, Nigeria, Ecuador, Zambia, Lituania, Francia, Colombia, Perú y Alemania, Turquía, Argentina y Costa Rica.
 
-Mi historia favorita este trimestre fue un informe sobre una mujer en Florida que trabaja para un periódico en español. Se interesó por _El Libro de Urantia_ después de leer un artículo en su periódico. ¡El artículo fue escrito por la evangelista del Libro de Urantia y voluntaria de Pipeline Nelida Oliver de Ecuador! Las colocaciones de este trimestre elevan nuestros totales históricos de Pipeline a mil doscientos cuatro libros colocados en cincuenta y ocho países de todo el mundo. Agradecemos profundamente su continua ayuda financiera. Si desea contribuir a este trabajo, puede realizar donaciones en: www.urantiabook.org/support o por correo postal a:
+Mi historia favorita este trimestre fue un informe sobre una mujer en Florida que trabaja para un periódico en español. Se interesó por _El Libro de Urantia_ después de leer un artículo en su periódico. ¡El artículo fue escrito por la evangelista del _Libro de Urantia_ y voluntaria de Pipeline Nelida Oliver de Ecuador! Las colocaciones de este trimestre elevan nuestros totales históricos de Pipeline a mil doscientos cuatro libros colocados en cincuenta y ocho países de todo el mundo. Agradecemos profundamente su continua ayuda financiera. Si desea contribuir a este trabajo, puede realizar donaciones en: www.urantiabook.org/support o por correo postal a:
 
 La Fellowship del Libro de Urantia
 9190 Oeste 90 Lugar
@@ -172,7 +172,7 @@ Hay dos formas principales en las que los miembros de la comunidad de estudiante
 
 ### El futuro
 
-El movimiento interreligioso está preparando el suelo de este mundo para la implantación del _El Libro de Urantia_ en un consejo, entonces eso es ideal, pero los consejos interreligiosos a menudo limitan su membresía a las tradiciones religiosas más antiguas. En ese caso, tal vez haya una forma de prestar servicio en conjunto con las actividades interreligiosas locales. Haga contribuciones financieras o ofrezca su tiempo como voluntario para ayudar con actividades interreligiosas, semillas de una comprensión religiosa más profunda. El objetivo del Comité Interreligioso de la Fellowship del Libro de Urantia y sus adjuntos es ser parte de ese movimiento. Todos creemos que definitivamente podemos ayudar.
+El movimiento interreligioso está preparando el suelo de este mundo para la implantación del _El Libro de Urantia_ en un consejo, entonces eso es ideal, pero los consejos interreligiosos a menudo limitan su membresía a las tradiciones religiosas más antiguas. En ese caso, tal vez haya una forma de prestar servicio en conjunto con las actividades interreligiosas locales. Haga contribuciones financieras o ofrezca su tiempo como voluntario para ayudar con actividades interreligiosas, semillas de una comprensión religiosa más profunda. El objetivo del Comité Interreligioso de la Fellowship del _Libro de Urantia_ y sus adjuntos es ser parte de ese movimiento. Todos creemos que definitivamente podemos ayudar.
 
 > «En realidad, cada ser humano define la religión desde el punto de vista de su propia interpretación experiencial de los impulsos divinos...» <a id="a176_144"></a>[[LU 103:1.1](/es/The_Urantia_Book/103#p1_1)]
 

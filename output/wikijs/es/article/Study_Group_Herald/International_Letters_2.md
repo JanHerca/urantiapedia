@@ -140,7 +140,7 @@ _Dr. R. A. Quaynor es miembro de la Hermandad Urantia Nazareth y se le puede con
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Quaynor2.jpg">
-<figcaption><em>A la izquierda, el Dr. Quaynor posa con algunos lectores del Libro de Urantia que son empleados del Centro Radiónico y de Curación Natural de Agrata en Accra.</em></figcaption>
+<figcaption><em>A la izquierda, el Dr. Quaynor posa con algunos lectores del _Libro de Urantia_ que son empleados del Centro Radiónico y de Curación Natural de Agrata en Accra.</em></figcaption>
 </figure>
 
 

@@ -175,7 +175,7 @@ No juzgar significa que debemos ser cautelosos a la hora de emitir juicios sobre
 
 Ser crítico es ser rápido para condenar, rápido para asignar motivos, rápido para asumir una moralidad superior; rápido para chismear, rápido para desconfiar. Creo que todos podemos imaginar que la vida en el cosmos no puede desarrollarse sobre esta base. Por lo tanto, es mejor que comencemos a aprender la lección ahora, que comencemos a darle un alto valor a la _precisión_. Dar a otros el beneficio de la duda. Abordar situaciones de la vida con una actitud sin prejuicios.
 
-A veces lo que crees que ves no es en absoluto lo que estás viendo. El retrato del Libro de Urantia de nuestro gruñón ancestro primitivo frente a un tigre dientes de sable es sólo uno de los innumerables ejemplos que podríamos utilizar. Lo que se nos ordena buscar es el contenido de verdad en lo que está sucediendo.
+A veces lo que crees que ves no es en absoluto lo que estás viendo. El retrato del _Libro de Urantia_ de nuestro gruñón ancestro primitivo frente a un tigre dientes de sable es sólo uno de los innumerables ejemplos que podríamos utilizar. Lo que se nos ordena buscar es el contenido de verdad en lo que está sucediendo.
 
 Aquí está uno de mis ejemplos favoritos. [^41] Hace unos mil años, el rey Canuto el Grande unió Dinamarca, Noruega, el sur de Suecia e Inglaterra en un imperio vikingo. Los libros de historia que probablemente leíste te dijeron que Canuto tenía un ego enorme y estaba tan ebrio de poder que hizo algo extraño. Llevó su trono hasta la orilla del mar y ordenó a las olas que se detuvieran. Esta es la historia del falso historiador.
 

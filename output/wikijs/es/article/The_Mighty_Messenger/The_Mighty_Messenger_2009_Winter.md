@@ -292,7 +292,7 @@ Agradecemos profundamente su continua ayuda financiera. Si desea contribuir a es
 
 ## Actividades internacionales de la Fellowship
 
-**Corea del Sur**: La Feria Internacional del Libro de Seúl 2009, del 13 al 17 de mayo, se llevó a cabo en un centro de conferencias del centro con más de 211 puestos representados por autores, impresores y distribuidores. El lector local Sy Young Chang fue el responsable de organizar, planificar y montar el puesto, y contó con la ayuda de Barry Clark de la Sociedad del Libro de Urantia del Gran Nueva York y el presidente del Comité Internacional, Buck Weimer.
+**Corea del Sur**: La Feria Internacional del Libro de Seúl 2009, del 13 al 17 de mayo, se llevó a cabo en un centro de conferencias del centro con más de 211 puestos representados por autores, impresores y distribuidores. El lector local Sy Young Chang fue el responsable de organizar, planificar y montar el puesto, y contó con la ayuda de Barry Clark de la Sociedad del _Libro de Urantia_ del Gran Nueva York y el presidente del Comité Internacional, Buck Weimer.
 
 Desde el principio, el stand se planeó y diseñó como un esfuerzo conjunto entre la Fellowship y la Fundación debido a las dos traducciones diferentes de _El Libro de Urantia_ al idioma coreano, y expresó nuestro deseo de un esfuerzo conjunto para presentar el libro no solo a el pueblo coreano, sino a los muchos visitantes internacionales que asisten a la feria del libro.
 

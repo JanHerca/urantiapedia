@@ -28,7 +28,7 @@ Querido amigo, este homenaje a ti se lo hemos ganado hasta un punto que no podem
 
 Nosotros, los abajo firmantes, enfrentados por primera vez a una temporada de asociación independiente entre nosotros, con usted y con los documentos de Urantia, nos hemos visto impulsados ​​a evaluar nuevamente la situación en la que nos encontramos, y en la que finalmente podemos encontrarnos, en relación con la Revelación Urantia.
 
-Como tenemos una responsabilidad con el Cuerpo Revelador, vemos el futuro con seriedad y anhelo de una introducción auspiciosa del Libro de Urantia al mundo. En muy pocos años, tal vez sea posible contemplar el Libro impreso que hemos seguido durante tanto tiempo en forma manuscrita con una mezcla de asombro, reverencia y acción de gracias.
+Como tenemos una responsabilidad con el Cuerpo Revelador, vemos el futuro con seriedad y anhelo de una introducción auspiciosa del _Libro de Urantia_ al mundo. En muy pocos años, tal vez sea posible contemplar el Libro impreso que hemos seguido durante tanto tiempo en forma manuscrita con una mezcla de asombro, reverencia y acción de gracias.
 
 Sabemos que el plan de los Documentos de Urantia ha estado gestándose durante muchos años. Sabemos que ha evolucionado y cambiado, a veces radicalmente, en el pasado. Sabemos que las opiniones sostenidas por los Comisionados de Contacto en el pasado, en ocasiones han sido alteradas o modificadas bajo una nueva luz y en nuevas circunstancias.
 

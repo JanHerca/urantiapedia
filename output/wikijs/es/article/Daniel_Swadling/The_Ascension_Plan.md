@@ -76,7 +76,7 @@ Si sabes cuál es tu objetivo en la vida, puedes vivir tu vida con el propósito
 
 Entonces, el Paraíso es la meta principal, la meta más grande que jamás se pueda fijar en toda nuestra vida, superando con creces cualquier meta que podamos tener en nuestra vida laboral, familiar o social. Y para alcanzar una meta tan estupenda y de largo alcance se necesitará una planificación significativa y un compromiso genuino de nuestra parte para conducir nuestras vidas de acuerdo con ese plan.
 
-Estos Documentos del Libro de Urantia describen ese plan. Los Documentos nos dicen que existe un plan universal para ayudarnos a lograr este objetivo, si así lo elegimos, y todo comienza aquí en nuestras vidas aparentemente insignificantes. ¡Esto es un gran alivio! El libro transmite _con certeza_ que hay un propósito en esta vida, que no somos simplemente un accidente aleatorio de elementos espaciales errantes, que venimos de la nada y van a ninguna parte.
+Estos Documentos del _Libro de Urantia_ describen ese plan. Los Documentos nos dicen que existe un plan universal para ayudarnos a lograr este objetivo, si así lo elegimos, y todo comienza aquí en nuestras vidas aparentemente insignificantes. ¡Esto es un gran alivio! El libro transmite _con certeza_ que hay un propósito en esta vida, que no somos simplemente un accidente aleatorio de elementos espaciales errantes, que venimos de la nada y van a ninguna parte.
 
 _El plan es:_ transformarnos de trozos materiales de materia, en incrementos cada vez más espirituales, en «personalidades supermateriales», «almas inmortales», seres puramente espirituales. ¿Por qué? Bueno, reflexiona sobre esto:
 <br style="clear:both;"/>

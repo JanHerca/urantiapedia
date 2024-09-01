@@ -77,7 +77,7 @@ Sólo a aquellos con un conocimiento y una comprensión adecuados de la vida de 
 
 > «De todos los conocimientos humanos, el que tiene mayor valor es conocer la vida religiosa de Jesús y cómo la vivió». (<a id="a77_121"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
 
-Si Jesús pudiera hacer una aparición al estilo morontial en una reunión de lectores del Libro de Urantia hoy, ¿qué les diría? Seguramente incluiría: «Tu misión en el mundo consistirá en la vida que vivirás entre los hombres».
+Si Jesús pudiera hacer una aparición al estilo morontial en una reunión de lectores del _Libro de Urantia_ hoy, ¿qué les diría? Seguramente incluiría: «Tu misión en el mundo consistirá en la vida que vivirás entre los hombres».
 
 [Tenga en cuenta que, en esta última oración, el uso de las palabrasyes estrictamente gramatical. «Shall» es un imperativo. Efectivamente significa «debe».]
 

@@ -58,7 +58,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 ---
 
-**DESARROLLANDO UNA TEOLOGÍA PERSONAL Y AMOROSA DE DIOS**, para fundamentalistas cristianos en recuperación, cristianos tradicionales cruzados y aquellos cansados de tener una relación codependiente con el concepto tradicional de Dios de «dios enojado». (p. 142) Envíe \$7,00 a: NBHCO, PO Box 12883, Salem, OR 97309. (Escrito por un lector del Libro de Urantia desde hace 20 años)
+**DESARROLLANDO UNA TEOLOGÍA PERSONAL Y AMOROSA DE DIOS**, para fundamentalistas cristianos en recuperación, cristianos tradicionales cruzados y aquellos cansados de tener una relación codependiente con el concepto tradicional de Dios de «dios enojado». (p. 142) Envíe \$7,00 a: NBHCO, PO Box 12883, Salem, OR 97309. (Escrito por un lector del _Libro de Urantia_ desde hace 20 años)
 
 ---
 
@@ -98,7 +98,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 ---
 
-**PARA AQUELLOS QUE LIDIAN CON LA MUERTE**: hermosa e inspiradora revista que analiza la promesa del Libro de Urantia de que la fe en Dios garantiza la vida eterna en un universo amoroso y ordenado. Prensa de buena alegría, P.O. Caja 18764, Boulder, CO 80301
+**PARA AQUELLOS QUE LIDIAN CON LA MUERTE**: hermosa e inspiradora revista que analiza la promesa del _Libro de Urantia_ de que la fe en Dios garantiza la vida eterna en un universo amoroso y ordenado. Prensa de buena alegría, P.O. Caja 18764, Boulder, CO 80301
 
 ---
 

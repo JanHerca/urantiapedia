@@ -41,7 +41,7 @@ Lo sorprendente es que los teólogos progresistas y liberales del siglo XX hayan
 
 > _No es sorprendente que muchos de nuestros jóvenes que viven en el contexto de nuestra impresionante cosmología material contemporánea no se inspiren en nuestra anticuada cosmología espiritual._
 
-Aquí, como en tantas otras áreas de la iluminación espiritual, _El Libro de Urantia_ presenta una visión ampliada de la realidad espiritual. La cosmología espiritual de la Quinta Revelación de Época eclipsa incluso la gigantesca cosmología material de la astronomía contemporánea. A medida que el conocimiento de la cosmología espiritual infinita del Libro de Urantia se infiltre en nuestro mundo, traerá nuevo significado y propósito a toda la vida. Los jóvenes una vez más se sentirán emocionados por el desafío del crecimiento y los logros espirituales, mientras que los de edad avanzada se sentirán inspirados por el potencial de la aventura más allá de la tumba.
+Aquí, como en tantas otras áreas de la iluminación espiritual, _El Libro de Urantia_ presenta una visión ampliada de la realidad espiritual. La cosmología espiritual de la Quinta Revelación de Época eclipsa incluso la gigantesca cosmología material de la astronomía contemporánea. A medida que el conocimiento de la cosmología espiritual infinita del _Libro de Urantia_ se infiltre en nuestro mundo, traerá nuevo significado y propósito a toda la vida. Los jóvenes una vez más se sentirán emocionados por el desafío del crecimiento y los logros espirituales, mientras que los de edad avanzada se sentirán inspirados por el potencial de la aventura más allá de la tumba.
 
 
 

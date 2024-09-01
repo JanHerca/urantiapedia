@@ -49,7 +49,7 @@ En la base de todo esto están nuestros instintos animales de rebaño de dominio
 
 Probablemente solo hay una forma posible en la que el virus del amor puede dominar al del odio, y es a través de su presencia demostrada en la vida personal de aquellos que han optado por seguir a Jesús.
 
-Pero incluso esta última esperanza no puede funcionar a menos que el Dios que se convierte en el centro de nuestras vidas sea el Padre-Dios de Jesús. Sólo un remanente de ese Dios se manifiesta en la vida de la mayoría de los cristianos. E incluso los lectores dedicados del Libro de Urantia aún tienen que aprender a cambiar su punto focal del libro para centrarse en Dios.
+Pero incluso esta última esperanza no puede funcionar a menos que el Dios que se convierte en el centro de nuestras vidas sea el Padre-Dios de Jesús. Sólo un remanente de ese Dios se manifiesta en la vida de la mayoría de los cristianos. E incluso los lectores dedicados del _Libro de Urantia_ aún tienen que aprender a cambiar su punto focal del libro para centrarse en Dios.
 
 Pero no dejes que la fe sea vencida. Más bien, que prevalezca esta seguridad: «_El amor es contagioso, y cuando la devoción humana es inteligente y sabia, el amor es más contagioso que el odio. Pero sólo el amor auténtico y desinteresado es verdaderamente contagioso. Si tan sólo cada mortal pudiera convertirse en un foco de afecto dinámico, este virus benigno del amor pronto impregnaría la corriente de emoción sentimental de la humanidad hasta tal punto que toda la civilización quedaría envuelta en el amor, y ésta sería la realización de la fraternidad de los hombres._» <a id="a53_577"></a>[LU 100:4.6](/es/The_Urantia_Book/100#p4_6)
 

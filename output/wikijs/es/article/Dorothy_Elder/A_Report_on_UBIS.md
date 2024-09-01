@@ -40,7 +40,7 @@ El primer semestre de la Escuela de Internet El Libro de Urantia (LUIS) finaliz�
 
 Comentarios de _Al Lockett_ del curso de Ajustador del Pensamiento de la LUIS.
 
-«La Escuela de Internet del Libro de Urantia (LUIS) ofrece una oportunidad real de estudiar en profundidad un tema concreto del Libro de Urantia, más allá del marco habitual de los grupos de estudio. Presenta a los nuevos lectores, así como a aquellos con mayor experiencia, un medio más completo para obtener una comprensión más profunda de una variedad de temas. Con la guía de un docente-facilitador experimentado, las preguntas que invitan a la reflexión y la atmósfera colaborativa del aula permiten a la LUIS proporcionar recursos y medios de expresión muy valiosos para todos. los lectores.
+«La Escuela de Internet del _Libro de Urantia_ (LUIS) ofrece una oportunidad real de estudiar en profundidad un tema concreto del Libro de Urantia, más allá del marco habitual de los grupos de estudio. Presenta a los nuevos lectores, así como a aquellos con mayor experiencia, un medio más completo para obtener una comprensión más profunda de una variedad de temas. Con la guía de un docente-facilitador experimentado, las preguntas que invitan a la reflexión y la atmósfera colaborativa del aula permiten a la LUIS proporcionar recursos y medios de expresión muy valiosos para todos. los lectores.
 
 «Los nuevos lectores se beneficiaron de la percepción y el conocimiento aportados al debate por lectores experimentados que habían vivido más tiempo en contacto con el Libro. Los lectores experimentados han obtenido nuevas perspectivas y una forma de expresar su comprensión del texto, y les proporciona un contexto con el que medir su nivel actual de conocimiento.
 

@@ -62,7 +62,7 @@ Ian Esmore, Melbourne
 
 ## Pautas para el progreso
 
-Berkeley Elliott, presidente del Comité Internacional de Becas, nos envió una copia de las «Directrices para el progreso». «Se supone», como dice Berkeley, «ser como una mano amiga que se tiende unos a otros, en todo el mundo». Todos los lectores internacionales del Libro de Urantia están invitados a compartir sus aportes y opiniones. Si tiene algún comentario o idea sobre cambios, aprobación o desaprobación, escriba a Six-0-Six y los publicaremos en nuestro boletín.
+Berkeley Elliott, presidente del Comité Internacional de Becas, nos envió una copia de las «Directrices para el progreso». «Se supone», como dice Berkeley, «ser como una mano amiga que se tiende unos a otros, en todo el mundo». Todos los lectores internacionales del _Libro de Urantia_ están invitados a compartir sus aportes y opiniones. Si tiene algún comentario o idea sobre cambios, aprobación o desaprobación, escriba a Six-0-Six y los publicaremos en nuestro boletín.
 
 ## Objetivo
 
@@ -148,7 +148,7 @@ La dirección postal de la comunidad es: Hermandad Universal P.0. Box 21, Baling
 
 Es literalmente cierto: «Las cosas humanas deben ser conocidas para ser amadas, pero las divinas deben ser amadas para ser conocidas». (<a id="a148_136"></a>[LU 102:1.1](/es/The_Urantia_Book/102#p1_1))
 
-Cuando Iris Eckersley llamó a uno de los miembros del equipo 6-0-6 el mes pasado y sugirió incluir la hermosa cita del Libro de Urantia en la p. 383B sobre el Espíritu de la Verdad en la edición de marzo de nuestro Boletín, estuvimos encantados de poder hacerlo.
+Cuando Iris Eckersley llamó a uno de los miembros del equipo 6-0-6 el mes pasado y sugirió incluir la hermosa cita del _Libro de Urantia_ en la p. 383B sobre el Espíritu de la Verdad en la edición de marzo de nuestro Boletín, estuvimos encantados de poder hacerlo.
 
 No todos nos sentimos lo suficientemente seguros como para tomar nuestro bolígrafo y escribir un artículo, pero si encuentras una cita que te resulta particularmente inspiradora, anótala en una hoja de papel, envíala al 6-0-6 y nosotros Lo compartiremos con nuestros lectores de todo el mundo en nuestra nueva sección: PENSAMIENTO DEL MES.
 

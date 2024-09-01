@@ -110,7 +110,7 @@ A fin de cuentas, la posibilidad de que los universos se generen a sí mismos y 
 
 > «Durante la vida física, el yo material, la entidad-ego de la identidad humana, depende del funcionamiento continuo del vehículo vital material, de la existencia continua del equilibrio inestable entre las energías y el **intelecto**, a lo que se le ha **dado el nombre de vida** en Urantia». (<a id="a110_296"></a>[LU 112:2.20](/es/The_Urantia_Book/112#p2_20))
 
-Hubo un tiempo en el que podíamos juntar estas dos declaraciones muy separadas y afirmar que significan que los autores del Libro de Urantia solo lo clasifican como «vida» si un organismo tiene el potencial para desarrollar el intelecto. Aceptando esta definición, podríamos vivir con la evidencia indiscutible de que lo que habitualmente llamamos «vida» existió hace casi 4 mil millones de años.
+Hubo un tiempo en el que podíamos juntar estas dos declaraciones muy separadas y afirmar que significan que los autores del _Libro de Urantia_ solo lo clasifican como «vida» si un organismo tiene el potencial para desarrollar el intelecto. Aceptando esta definición, podríamos vivir con la evidencia indiscutible de que lo que habitualmente llamamos «vida» existió hace casi 4 mil millones de años.
 
 Las siguientes citas anulan esa interpretación.
 

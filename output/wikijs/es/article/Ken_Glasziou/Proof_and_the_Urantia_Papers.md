@@ -40,7 +40,7 @@ Platón asumió este desafío, concentrando su atención en lo que él considera
 
 Platón utilizó la analogía de los «prisioneros en una cueva» para llamar la atención sobre el hecho de que no podemos garantizar que el concepto de la realidad de un objeto que generamos a partir de nuestras percepciones sensoriales sea lo que realmente es ese objeto. Y, de hecho, Platón pensó que todos los objetos que percibimos son en realidad copias imperfectas yde patrones maestros que son inmutables y eternos.
 
-Las «formas eternas e inmutables» de Platón son interesantes para los lectores del Libro de Urantia incluso en esta era dura de una ciencia basada casi por completo en observaciones empíricas. Los Documentos nos dicen que básicamente Platón tenía razón, que todas las posibilidades y potenciales, tanto en la realidad trascendente como en la finita, ya existen con los Absolutos del Infinito.
+Las «formas eternas e inmutables» de Platón son interesantes para los lectores del _Libro de Urantia_ incluso en esta era dura de una ciencia basada casi por completo en observaciones empíricas. Los Documentos nos dicen que básicamente Platón tenía razón, que todas las posibilidades y potenciales, tanto en la realidad trascendente como en la finita, ya existen con los Absolutos del Infinito.
 
 Aparentemente nos engañamos siempre que consideramos que hemos tenido un concepto original. Lo que realmente hemos hecho al formular nuestro concepto es elegir entre las alternativas que nos llegan del Absoluto a través del Ser Supremo.
 

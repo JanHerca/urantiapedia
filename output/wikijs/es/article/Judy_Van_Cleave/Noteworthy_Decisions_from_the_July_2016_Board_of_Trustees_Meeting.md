@@ -86,7 +86,7 @@ La junta recibió los siguientes informes: 1) informe del presidente, 2) informe
 - Todas las traducciones y revisiones de traducciones están avanzando según lo previsto. Se hace un especial hincapié en la revisión al español y en la traducción al chino.
 - La educación – concretamente la Escuela de _El libro de Urantia_ en Internet – se está convirtiendo en una componente más fuerte de los servicios de la Fundación Urantia.
 - Nuestro equipo externo de inversiones está gestionando con prudencia los fondos de donantes durante estos tiempos tan inciertos económicamente.
-- _Las parábolas de Jesús – Enseñanzas completas de_ El libro de Urantia, de Urantia Press, estará disponible a mediados de septiembre.
+- _Las parábolas de Jesús – Enseñanzas completas de_ _El libro de Urantia_, de Urantia Press, estará disponible a mediados de septiembre.
 - Se ha construido la nueva biblioteca de educación de «fuentes secundarias» del sótano, y gracias a una donación generosa, están en la colección cientos de libros relevantes para el desarrollo de _El libro de Urantia_.
 
 <figure id="Figure_3" class="image urantiapedia">

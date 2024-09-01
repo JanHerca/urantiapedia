@@ -185,7 +185,7 @@ Su boletín circula por nuestros Incendiarios (grupo de estudio local) y a veces
 
 Le agradecería más de lo que puedo decir si pudiera fotocopiar los números anteriores con la información sobre la reencarnación y enviármelos. Edición de verano u otoño de 1987, creo. Gracias.
 
-Aprecio especialmente la inclusión en su artículo de algunos de los artículos más destacados de otros boletines del Libro de Urantia de todo el mundo.
+Aprecio especialmente la inclusión en su artículo de algunos de los artículos más destacados de otros boletines del _Libro de Urantia_ de todo el mundo.
 
 Adjunto se incluye una cosita para ayudar a sufragar los costos de envío. ¡Aprovecho tanto su boletín que ciertamente quiero asegurarme de que continúe recibiéndolo!
 

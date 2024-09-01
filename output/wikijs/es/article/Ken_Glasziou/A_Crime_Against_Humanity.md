@@ -86,7 +86,7 @@ Incluso pensar que los reveladores no sabían que ese sería el caso es lanzar c
 
 En esta sección, se nos dice que tomemos el mensaje de los Documentos y lo presentemos de una manera aceptable para todo tipo de hombres.
 
-Un hecho inquietante es que muchos lectores del Libro de Urantia transmiten una actitud antagónica hacia el cristianismo y las iglesias, junto con una actitud de «no me importa» que los cristianos no acepten El Libro de Urantia.
+Un hecho inquietante es que muchos lectores del _Libro de Urantia_ transmiten una actitud antagónica hacia el cristianismo y las iglesias, junto con una actitud de «no me importa» que los cristianos no acepten El Libro de Urantia.
 
 Pero el Documento 196 dice: «Qué trascendente servicio si, a través de esta revelación, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional y fuera presentado como el Jesús viviente a la iglesia que lleva su nombre, y a todas las demás religiones. » **Obviamente a los reveladores les importa.**
 

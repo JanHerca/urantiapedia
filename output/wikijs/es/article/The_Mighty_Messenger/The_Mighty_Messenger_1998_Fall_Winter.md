@@ -63,7 +63,7 @@ Los panelistas contribuyentes y sus áreas de especialización son Joan Wentwort
 
 Alison Gardner agradece los aportes y el interés de otros lectores a medida que avanza este trabajo. Puede ponerse en contacto con ella a través de la oficina de la Fellowship.
 
-## Colocación del Libro de Urantia en alta mar
+## Colocación del _Libro de Urantia_ en alta mar
 
 por _Jerry Pando_
 

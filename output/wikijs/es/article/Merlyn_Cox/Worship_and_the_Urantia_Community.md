@@ -46,7 +46,7 @@ Uno de ellos está en adoración. Qué pedestre, pretencioso o simplemente incó
 
 Debido a que es tan importante, haríamos bien en escuchar las ideas de la comunidad cristiana histórica, incluso mientras buscamos nuevas vías de expresión. El año pasado leí y releí muchas partes de un libro sobre adoración de Marva Dawn titulado «Reaching Out Without Dumbing Down». [^1] Es un análisis de la adoración en nuestra cultura contemporánea y las idolatrías y conceptos erróneos populares que «tontanizan» y adormecen nuestra capacidad para la adoración trascendente.
 
-Es, en mi opinión, el libro sobre adoración más revelador y útil que jamás haya leído. La mayoría de sus afirmaciones básicas reflejan las del Libro de Urantia. Creo que este es un recurso para el diálogo con las mejores ideas de la tradición cristiana, una tradición cuyos tesoros no deben ignorarse. Insto a todos los lectores del Libro de Urantia a entrar en ese diálogo y a utilizar el libro de Marva Dawn como uno de los recursos.
+Es, en mi opinión, el libro sobre adoración más revelador y útil que jamás haya leído. La mayoría de sus afirmaciones básicas reflejan las del Libro de Urantia. Creo que este es un recurso para el diálogo con las mejores ideas de la tradición cristiana, una tradición cuyos tesoros no deben ignorarse. Insto a todos los lectores del _Libro de Urantia_ a entrar en ese diálogo y a utilizar el libro de Marva Dawn como uno de los recursos.
 
 
 

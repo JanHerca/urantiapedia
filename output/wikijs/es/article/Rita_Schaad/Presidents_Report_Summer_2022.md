@@ -68,7 +68,7 @@ Siempre me sentí reacio a proclamar algo en voz alta y verbal en las calles, pe
 
 En la Asamblea General Anual durante la conferencia de hace un par de meses, surgió exactamente esta pregunta sobre el compromiso. La mayoría de los miembros de ANZURA han sido un grupo estable y activo durante más de 30 años y se reúnen en las conferencias anuales con gran alegría. La junta directiva ha dado a muchos de ellos la oportunidad de tomar posición y guiar a los grupos de lectores a lo largo de las décadas. Pero cuando miramos a nuestro alrededor en el círculo, vemos casi las mismas caras.
 
-¿Cómo vamos a atraer a otros lectores del Libro de Urantia a esta familia? ¿Y dónde están los jóvenes estudiantes y creyentes de este libro? ¿Cómo es que hoy en día tanta gente no está interesada en involucrarse en un grupo como el nuestro? ¿Dónde está el compromiso a largo plazo?
+¿Cómo vamos a atraer a otros lectores del _Libro de Urantia_ a esta familia? ¿Y dónde están los jóvenes estudiantes y creyentes de este libro? ¿Cómo es que hoy en día tanta gente no está interesada en involucrarse en un grupo como el nuestro? ¿Dónde está el compromiso a largo plazo?
 
 Como sabrá, recibimos muchas consultas de lectores durante el año, incluso solicitudes de membresía, pero lamentablemente rara vez se responden o duran poco. ¿Cómo es posible que nuestro deseo de comunidad y de contacto humano _real_ no se comparta más ampliamente? ¿Cómo es que hoy en día hablar de nuestras experiencias personales con _El Libro de Urantia_ está relegado principalmente al intercambio digital y a las redes sociales? No es necesario apego, no se requiere compromiso a largo plazo, no se requiere participación activa.
 

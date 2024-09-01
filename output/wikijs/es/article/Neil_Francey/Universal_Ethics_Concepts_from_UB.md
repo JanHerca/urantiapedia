@@ -43,7 +43,7 @@ Por Neil Francey, Queensland
 
 En esta colección de artículos breves, el estudio de la ética se lleva a un nivel universal. Se aplican a las formas más elevadas de comportamiento en relación con el progreso de cada uno de nosotros en los ámbitos venideros. Van más allá de la aplicación de la ética al nivel mortal de funcionamiento donde son la base de nuestra forma de vida.
 
-Seleccionando citas apropiadas del Libro de Urantia y dirigiendo el estudio a un tema particular, se puede abordar un aspecto de las naturalezas mortal y espiritual del hombre. Al estudiar extractos cuidadosamente seleccionados, se pueden formular nuevas ideas y conocimientos relacionados. Se pueden generar nuevos entendimientos.
+Seleccionando citas apropiadas del _Libro de Urantia_ y dirigiendo el estudio a un tema particular, se puede abordar un aspecto de las naturalezas mortal y espiritual del hombre. Al estudiar extractos cuidadosamente seleccionados, se pueden formular nuevas ideas y conocimientos relacionados. Se pueden generar nuevos entendimientos.
 
 La ética espiritual y la ética posmortal afectan universalmente la vida mortal de manera transformadora para la sociedad y el individuo. La ética más elevada, como verdad, impacta en los hábitos y comportamientos personales y grupales. Y como tales, contribuyen a las costumbres y potencialmente marcan el comienzo de niveles elevados de la sociedad civil.
 

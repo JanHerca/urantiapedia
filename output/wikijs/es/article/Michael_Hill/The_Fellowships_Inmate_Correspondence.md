@@ -43,7 +43,7 @@ Entre los cuatro pusimos fondos para comprar los libros. A principios de este a�
 
 Desde que asumimos el envío de los libros por correo en diciembre, hemos enviado más de 170 libros. Todos los libros se envían por correo prioritario y también nos hacemos cargo del costo; el correo prioritario asegura que el recluso reciba el libro. Todas las cartas obtienen una respuesta, y se han desarrollado algunas relaciones de amigos por correspondencia muy gratificantes como resultado de esa primera respuesta a su carta original. A veces, una vez que el libro llega a un recluso, él o ella lo comparte con otro recluso y el amigo de ese recluso nos escribe directamente para pedirnos su propia copia, que le enviamos de inmediato.
 
-Haga una pausa por un momento e imagine a un preso, uno que se ha desviado de la verdad, que está dentro de una prisión, que ha visto el libro y se ha tomado el tiempo de escribir una carta pidiendo la mejor fuente de verdad del planeta. Qué mejor servicio hay que proporcionar una copia del Libro de Urantia a esa alma que se esfuerza por encontrar la verdad.
+Haga una pausa por un momento e imagine a un preso, uno que se ha desviado de la verdad, que está dentro de una prisión, que ha visto el libro y se ha tomado el tiempo de escribir una carta pidiendo la mejor fuente de verdad del planeta. Qué mejor servicio hay que proporcionar una copia del _Libro de Urantia_ a esa alma que se esfuerza por encontrar la verdad.
 
 Le escribo para informarle sobre este maravilloso ministerio y para solicitar su apoyo financiero para ayudarnos a continuar con este trabajo. Una caja de seis libros nos cuesta alrededor de $72.00. Si este esfuerzo lo conmueve y su tesoro personal es saludable, envíe su cheque a la Fraternidad con la mención _The Urantia Book_ Fellowship, PO Box 6631, Broomfield, CO 80021.
 
@@ -54,7 +54,7 @@ Aquí hay una carta reciente que acabamos de recibir:
 Gracias por tu consideración,
 Michael Hill para el equipo ICP
 
-> Qué mejor servicio hay que proporcionar una copia del Libro de Urantia a esa alma que se esfuerza por encontrar la verdad.
+> Qué mejor servicio hay que proporcionar una copia del _Libro de Urantia_ a esa alma que se esfuerza por encontrar la verdad.
 
 ## Enlaces externos
 

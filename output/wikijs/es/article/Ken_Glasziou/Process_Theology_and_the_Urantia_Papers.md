@@ -38,7 +38,7 @@ Cuando las visitas a nuestro sitio web, que tiene el título anterior, comenzaro
 
 No es que nos hayamos sorprendido tanto, ya que el lector, el Dr. Jim Mills, ahora fallecido, había dedicado los últimos años de su vida a transmitir ese mismo mensaje a los lectores de _El Libro de Urantia_, y había presentado incansablemente sus ideas sobre la teología del proceso a grupos de estudio durante varios años. un largo período Pero para Jim, el medio de Internet y la red mundial no estaban disponibles, y los libros publicados a un gran costo eran la única alternativa poco realista.
 
-Es el poder puro de este nuevo medio el que ahora presenta a los lectores del Libro de Urantia una oportunidad de oro para compartir las enseñanzas de los Documentos con los cristianos de hoy en día que, sin saberlo, tienen conceptos básicos casi idénticos sobre la deidad y el significado de la cuarta revelación de época. como se presentan en la Quinta.
+Es el poder puro de este nuevo medio el que ahora presenta a los lectores del _Libro de Urantia_ una oportunidad de oro para compartir las enseñanzas de los Documentos con los cristianos de hoy en día que, sin saberlo, tienen conceptos básicos casi idénticos sobre la deidad y el significado de la cuarta revelación de época. como se presentan en la Quinta.
 
 La virtud de este hecho recientemente descubierto es que «aquellos hombres y mujeres de perspicacia espiritual que miran hacia el futuro y que miran hacia el futuro» y que también poseen un don dado por Dios que les permite dominar tanto el lenguaje oscuro como las ideas de la filosofía y la teología tradicionales, y el ideas más esotéricas sobre la deidad y la realidad tal como se presentan en los Documentos de Urantia, tienen ahora una oportunidad notable, única e inesperada.
 
@@ -98,7 +98,7 @@ Junto con su visiónde Dios, Hartshorne también se convirtió en uno de los pri
 
 ## El futuro
 
-Parece haber un campo de actividad provechoso en el uso de los recursos de Internet para fomentar el debate de los puntos de vista compartidos por los seguidores del Libro de Urantia y por aquellos interesados ​​en la teología del proceso sobre la naturaleza de la deidad y la naturaleza de la revelación de Dios por parte de Jesús.
+Parece haber un campo de actividad provechoso en el uso de los recursos de Internet para fomentar el debate de los puntos de vista compartidos por los seguidores del _Libro de Urantia_ y por aquellos interesados ​​en la teología del proceso sobre la naturaleza de la deidad y la naturaleza de la revelación de Dios por parte de Jesús.
 
 El enorme potencial de esta actividad podría surgir en un futuro distante cuando los conceptos discutidos y las conclusiones alcanzadas en los seminarios teológicos penetren gradualmente a través del cristianismo en su conjunto.
 

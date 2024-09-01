@@ -61,7 +61,7 @@ Para incluir un grupo de estudio en el Directorio, debe asegurar su grupo de est
 - se centra en el estudio de _El Libro de Urantia_
 - está abierto a todos los lectores
 - es de naturaleza apolítica
-- está libre de cualquier actividad que pueda distraer a los estudiantes de las enseñanzas de _El Libro de Urantia_. Los grupos de estudio son reuniones autónomas de estudiantes de El libro de Urantia, lo que significa que el grupo en sí no está afiliado a ninguna organización, aunque las organizaciones que patrocinan el Directorio los fomentan y los apoyan, y a menudo asisten a los grupos miembros de varias organizaciones Urantia o no miembros.
+- está libre de cualquier actividad que pueda distraer a los estudiantes de las enseñanzas de _El Libro de Urantia_. Los grupos de estudio son reuniones autónomas de estudiantes de _El libro de Urantia_, lo que significa que el grupo en sí no está afiliado a ninguna organización, aunque las organizaciones que patrocinan el Directorio los fomentan y los apoyan, y a menudo asisten a los grupos miembros de varias organizaciones Urantia o no miembros.
 
 ## Estadísticas del directorio
 

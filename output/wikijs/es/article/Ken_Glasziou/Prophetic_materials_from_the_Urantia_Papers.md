@@ -72,9 +72,9 @@ En el momento de recibir los Documentos de Urantia y hasta la década de 1990 es
 <figcaption><em>Los rayos gamma mapeados sobre el plano de nuestra galaxia, la Vía Láctea, se derivan de la colisión y aniquilación de electrones y positrones.</em>  © <a href="https://www.nasa.gov/mission_pages/GLAST/news/new-structure.html"></a>NASA</figcaption>
 </figure>
 
-La declaración del Libro de Urantia siguió sin tener sentido hasta la década de 1990, cuando el ganador del premio Nobel, Hans Dehmelt, encontró una manera de confinar un solo electrón en una trampa de forma semipermanente. Este logro permitió realizar mediciones reales que asignaron el radio del electrón a caer en el rango de 10^-19^ m a 10^-22^ m.
+La declaración del _Libro de Urantia_ siguió sin tener sentido hasta la década de 1990, cuando el ganador del premio Nobel, Hans Dehmelt, encontró una manera de confinar un solo electrón en una trampa de forma semipermanente. Este logro permitió realizar mediciones reales que asignaron el radio del electrón a caer en el rango de 10^-19^ m a 10^-22^ m.
 
-Esta estimación fue notada por el físico Stefan Talqvist, un estudiante de El Libro de Urantia que previamente había verificado el cálculo usando la versión del Libro de Urantia del trabajo anterior de Swann. Unos años más tarde, en el laboratorio de Dehmelt[^1], el perfeccionamiento de sus técnicas les permitió conformarse con un radio de electrones del orden de 10^-22^ m, por lo que se acerca aún más al 2 x 10^-21^ que se calcula para la versión modificada de los Documentos de Urantia de la comparación de Swann.
+Esta estimación fue notada por el físico Stefan Talqvist, un estudiante de El Libro de Urantia que previamente había verificado el cálculo usando la versión del _Libro de Urantia_ del trabajo anterior de Swann. Unos años más tarde, en el laboratorio de Dehmelt[^1], el perfeccionamiento de sus técnicas les permitió conformarse con un radio de electrones del orden de 10^-22^ m, por lo que se acerca aún más al 2 x 10^-21^ que se calcula para la versión modificada de los Documentos de Urantia de la comparación de Swann.
 
 Había una segunda parte de la comparación de Swann que decía:
 

@@ -100,7 +100,7 @@ _Venecia, Florida_
 
 ---
 
-Estoy interesado en mantener correspondencia con lectores del Libro de Urantia que estén interesados en discutir el Documento 49, Los mundos habitados, con especial énfasis en la parte 3, Mundos de los que no respiran.
+Estoy interesado en mantener correspondencia con lectores del _Libro de Urantia_ que estén interesados en discutir el Documento 49, Los mundos habitados, con especial énfasis en la parte 3, Mundos de los que no respiran.
 
 Se nos dice que hay tres mundos habitables en nuestro sistema solar y que existe un planeta del orden de los que no respiran en «muy cerca» de Urantia. También se nos dice en la página 330 que los reveladores retienen información para proporcionar un «estímulo a la especulación creativa».
 

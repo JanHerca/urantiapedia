@@ -36,7 +36,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 
-Las tres organizaciones centrales del movimiento Urantia (la Fundación Urantia, la Fellowship del Libro de Urantia y la Asociación Urantia Internacional) han declarado repetidamente que no son organizaciones religiosas. Con la continua participación de la Fundación en juicios contra estudiantes de _El Libro de Urantia_ y su reciente amenaza contra la Fellowship del Libro de Urantia, uno se pregunta si estas organizaciones seculares son la égida adecuada para la difusión de las enseñanzas de la Quinta Revelación de Época.
+Las tres organizaciones centrales del movimiento Urantia (la Fundación Urantia, la Fellowship del _Libro de Urantia_ y la Asociación Urantia Internacional) han declarado repetidamente que no son organizaciones religiosas. Con la continua participación de la Fundación en juicios contra estudiantes de _El Libro de Urantia_ y su reciente amenaza contra la Fellowship del Libro de Urantia, uno se pregunta si estas organizaciones seculares son la égida adecuada para la difusión de las enseñanzas de la Quinta Revelación de Época.
 
 Ante la incapacidad de estas organizaciones centrales para trabajar juntas armoniosamente y su fracaso para iniciar una misión de extensión dinámica, ¿es hora de organizar organizaciones verdaderamente religiosas en el movimiento Urantia? Históricamente, sólo las instituciones religiosas han podido culturizar la sociedad. Sin duda esto será cierto en el futuro. El Dr. Sadler y yo imaginamos el advenimiento de tales organizaciones religiosas.
 

@@ -102,7 +102,7 @@ Definitivamente no se basó en los puntos que el autor planteó en su carta cert
 
 La carta escrita al Doctor, que el Autor llama petición, no tiene ningún parecido con la carta certificada del Autor, y las dos NO mencionan NINGÚN ASUNTO en común. Las cartas tienen un contenido tan diferente que la tergiversación debe ser deliberada.
 
-(4) Si bien el Autor tiene motivos comerciales no ocultos en todos sus escritos, lo que aparentemente llevó a su decisión de tratar de ganar influencia, si no dominio, en la publicación de _El Libro de Urantia_, debe saber que nadie relacionado con el Foro, ni el Dr. Sadler ni su familia, ni ningún urantiano, que yo sepa, han obtenido jamás ningún beneficio del Libro de Urantia o del movimiento Urantia. (Eso incluye mi Concordex).
+(4) Si bien el Autor tiene motivos comerciales no ocultos en todos sus escritos, lo que aparentemente llevó a su decisión de tratar de ganar influencia, si no dominio, en la publicación de _El Libro de Urantia_, debe saber que nadie relacionado con el Foro, ni el Dr. Sadler ni su familia, ni ningún urantiano, que yo sepa, han obtenido jamás ningún beneficio del _Libro de Urantia_ o del movimiento Urantia. (Eso incluye mi Concordex).
 
 Los miembros del Foro dieron y contribuyeron con el dinero para imprimir el Libro de URAINTIA de 2.100 páginas y pagaron las costosas planchas de impresión de cobre originales. Luego, los miembros se suscribieron para recibir suficientes libros para asegurar el éxito de la primera impresión. Incluso hoy en día, la frugal Fundación cuenta en gran medida con el apoyo de contribuyentes urantianos, por lo que el Libro puede seguir vendiéndose a un precio que lo convierte en una de las mayores gangas de libros del mundo. Las implicaciones en contrario del autor son descaradas y sin fundamento.
 
@@ -178,7 +178,7 @@ El Autor demuestra que no conoce ni _El Libro de Urantia_ ni a sus creyentes. Lo
 
 (19) El Autor irresponsable dice: "Ahora, treinta años después, mientras vemos las desafortunadas consecuencias, no conozco a ningún urantiano del Foro de hace 30 años (o de cualquier período) que esté descontento con su Libro de Urantia o sus enseñanzas. Y todavía hay bastantes miembros antiguos por aquí. Lo contrario es cierto.
 
-Los únicos descontentos que conozco son un foro y dos forasteros que intentaron violar los derechos de autor — que intentaron utilizar el texto legítimamente protegido del Libro de Urantia para sus fines personales — ¡Y EL AUTOR!
+Los únicos descontentos que conozco son un foro y dos forasteros que intentaron violar los derechos de autor — que intentaron utilizar el texto legítimamente protegido del _Libro de Urantia_ para sus fines personales — ¡Y EL AUTOR!
 
 ¿«Consecuencias tristes»? Quizás haya sido eso para el Autor que rechazó la maravillosa Revelación Urantia por su desorden psíquico de médiums, proyecciones astrales, sesiones de espiritismo, tablas Ouija, escritura automática, enredos psíquicos y, como él dice, «todo tipo de influencias de naturaleza desencarnada». con el que está salpicado su pequeño libro de bolsillo. Para UrantiaNS, veteranos y recién llegados — hablo desde un amplio conocimiento y con todo el corazón — las «consecuencias» han sido calurosamente gratificantes en satisfacciones espirituales e intelectuales, y en amistad y asociación invaluables.
 

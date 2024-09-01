@@ -262,7 +262,7 @@ Por _Barry Clark_
 
 Basado en la mejor investigación disponible, la revelación apareció por primera vez en Corea del Sur alrededor de 1970. One Choi, Il, artista, poeta y autor de varias publicaciones, descubrió el libro de Urantia [en inglés] en una librería de Seúl y continúa pasando sus días promoviendo silenciosamente sus ideas desde las afueras de Seúl. Ello, como lo conocen sus amigos, «todavía recuerda el momento en que abrió por primera vez _El Libro de Urantia_».
 
-Algunos años más tarde, se supo que Rob Reno, lector del Libro de Urantia y asignado militar a Corea del Sur a mediados de los años 80, organizó el primer grupo de estudio del Libro de Urantia durante su breve asignación allí.
+Algunos años más tarde, se supo que Rob Reno, lector del _Libro de Urantia_ y asignado militar a Corea del Sur a mediados de los años 80, organizó el primer grupo de estudio del _Libro de Urantia_ durante su breve asignación allí.
 
 En 1989, una historia de amor precipitó la primera traducción del la revelación al idioma nativo de Corea. Y las maravillosas luchas sobre la ‘mejor’ manera de hacer esto se produjeron cuando Kwan Choi comenzó otra traducción alrededor de 1995. Estas maravillosas luchas continúan hasta el día de hoy a medida que personas notables avanzan en los procesos de traducción y difusión en Corea.
 

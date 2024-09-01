@@ -51,13 +51,13 @@ Los tres nuevos Consejeros son Karen Larsen, Albert Einstein Lassiter y Sue Snid
 
 ## Karen Larsen
 
-Como lectora de segunda generación, Karen, que vive en Goshen, Nueva York, ha sido lectora del Libro de Urantia durante 23 años. Ha estado activa en grupos de estudio desde 1999, año en que asistió a su primera conferencia internacional UBF (Vancouver). Desde entonces, ha asistido a todas las conferencias de becarios posteriores y numerosas sesiones de estudio de verano.
+Como lectora de segunda generación, Karen, que vive en Goshen, Nueva York, ha sido lectora del _Libro de Urantia_ durante 23 años. Ha estado activa en grupos de estudio desde 1999, año en que asistió a su primera conferencia internacional UBF (Vancouver). Desde entonces, ha asistido a todas las conferencias de becarios posteriores y numerosas sesiones de estudio de verano.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/012.jpg">
 </figure>
 
-Karen anteriormente fue miembro de la Sociedad Urantia del Gran Nueva York (USGNY) y fue presidenta de su comité de miembros durante varios años. Actualmente es miembro del Cuerpo de Servicio del Libro de Urantia de Nueva Inglaterra (UBSCONE) y es su tesorera. Ha sido delegada de TDA de ambas Sociedades. Durante casi 20 años ha asistido, apoyado y presentado en retiros anuales en Angel House en Massachusetts. Asistió a tres Parlamentos de las Religiones del Mundo y ha creado varias páginas de Facebook y grupos de estudio en línea. La vida profesional de Karen ha sido como especialista en pares, especialista en desarrollo familiar y gerente de operaciones de DC.
+Karen anteriormente fue miembro de la Sociedad Urantia del Gran Nueva York (USGNY) y fue presidenta de su comité de miembros durante varios años. Actualmente es miembro del Cuerpo de Servicio del _Libro de Urantia_ de Nueva Inglaterra (UBSCONE) y es su tesorera. Ha sido delegada de TDA de ambas Sociedades. Durante casi 20 años ha asistido, apoyado y presentado en retiros anuales en Angel House en Massachusetts. Asistió a tres Parlamentos de las Religiones del Mundo y ha creado varias páginas de Facebook y grupos de estudio en línea. La vida profesional de Karen ha sido como especialista en pares, especialista en desarrollo familiar y gerente de operaciones de DC.
 
 ## Albert Einstein Lassiter
 
@@ -77,7 +77,7 @@ Las décadas de experiencia de Albert en investigación y desarrollo y control d
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/014.jpg">
 </figure>
 
-Sue es una de varios hijos de Mary y el difunto Paul Snider, quien fue el primer presidente de la antigua Hermandad Urantia fuera de Illinois. Sue y todos sus hermanos se criaron con las enseñanzas del Libro de Urantia y cada uno ha contribuido al movimiento Urantia de alguna manera. Su hermana Cayce sirvió brevemente en el Consejo General la década pasada.
+Sue es una de varios hijos de Mary y el difunto Paul Snider, quien fue el primer presidente de la antigua Hermandad Urantia fuera de Illinois. Sue y todos sus hermanos se criaron con las enseñanzas del _Libro de Urantia_ y cada uno ha contribuido al movimiento Urantia de alguna manera. Su hermana Cayce sirvió brevemente en el Consejo General la década pasada.
 
 Sue vive en Naperville, en los suburbios de Chicago, es miembro general y ha sido líder de un grupo de estudio desde 2008. En la sesión de estudio de verano de 2018, dirigió una sesión de trabajo sobre Durante los últimos nueve años ha estado dirigiendo un grupo comunitario de mujeres en una megaiglesia sin denominación.
 

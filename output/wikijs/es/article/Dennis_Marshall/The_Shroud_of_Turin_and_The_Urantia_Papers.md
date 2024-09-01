@@ -75,7 +75,7 @@ Consejo de Emmanuel a Miguel (Jesús)
 
 ### La Crucifixión
 
-> ...Mientras tanto, los cuatro soldados asignados a la crucifixión del Maestro se habían repartido, como era costumbre, sus vestidos entre ellos{18}; uno había cogido las sandalias, otro el turbante, otro el cinturón y el cuarto el manto. Sólo quedaba la túnica, el vestido sin costuras que llegaba hasta cerca de las rodillas, que iba a ser cortada en cuatro pedazos, pero cuando los soldados vieron que se trataba de una prenda tan insólita, decidieron echarla a suertes. Jesús los miraba desde arriba mientras se repartían sus vestiduras y la multitud irreflexiva se burlaba de él.
+> ...Mientras tanto, los cuatro soldados asignados a la crucifixión del Maestro se habían repartido, como era costumbre, sus vestidos entre ellos; uno había cogido las sandalias, otro el turbante, otro el cinturón y el cuarto el manto. Sólo quedaba la túnica, el vestido sin costuras que llegaba hasta cerca de las rodillas, que iba a ser cortada en cuatro pedazos, pero cuando los soldados vieron que se trataba de una prenda tan insólita, decidieron echarla a suertes. Jesús los miraba desde arriba mientras se repartían sus vestiduras y la multitud irreflexiva se burlaba de él.
 >
 > Fue una suerte que los soldados romanos se apropiaran de las ropas del Maestro. De lo contrario, si sus seguidores hubieran conseguido estas vestimentas, hubieran tenido la tentación de utilizar estas reliquias para adorarlas de manera supersticiosa. El Maestro deseaba que sus seguidores no tuvieran ningún objeto material que pudiera asociarse con su vida en la Tierra. Quería dejar a la humanidad únicamente el recuerdo de una vida humana dedicada al alto ideal espiritual de estar consagrado a hacer la voluntad del Padre. (énfasis mío) <a id="a79_543"></a>[[LU 187:2.8-9](/es/The_Urantia_Book/187#p2_8)]
 
@@ -89,7 +89,7 @@ Los lectores de _El Libro de Urantia_ encontrarán en el libro doce menciones de
 
 ### El entierro de Jesús
 
-> Transportaron el cuerpo hasta el sepulcro, una cámara cuadrada de unos tres metros de lado, donde lo prepararon rápidamente para sepultarlo. En realidad, los judíos no enterraban a sus muertos; los embalsamaban. José y Nicodemo habían traído **grandes cantidades de mirra y áloes**, y entonces envolvieron el cuerpo con unos vendajes empapados en estas soluciones{3}. Cuando terminaron de embalsamarlo, ataron un paño alrededor de la cara, **envolvieron el cuerpo en una sábana de lino** y lo depositaron respetuosamente en una plataforma del sepulcro. (énfasis mío) <a id="a91_569"></a>[[LU 188:1.4](/es/The_Urantia_Book/188#p1_4)]
+> Transportaron el cuerpo hasta el sepulcro, una cámara cuadrada de unos tres metros de lado, donde lo prepararon rápidamente para sepultarlo. En realidad, los judíos no enterraban a sus muertos; los embalsamaban. José y Nicodemo habían traído **grandes cantidades de mirra y áloes**, y entonces envolvieron el cuerpo con unos vendajes empapados en estas soluciones. Cuando terminaron de embalsamarlo, ataron un paño alrededor de la cara, **envolvieron el cuerpo en una sábana de lino** y lo depositaron respetuosamente en una plataforma del sepulcro. (énfasis mío) <a id="a91_569"></a>[[LU 188:1.4](/es/The_Urantia_Book/188#p1_4)]
 
 ### El Cuerpo Material de Jesús
 

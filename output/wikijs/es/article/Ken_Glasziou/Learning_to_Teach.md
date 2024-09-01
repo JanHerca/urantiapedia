@@ -42,7 +42,7 @@ Se asigna una alta prioridad a hacer que el cristianismo regrese de su estado ac
 
 > «En verdad, el cristianismo ha hecho un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres...»(<a id="a42_292"></a>[LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
 
-Los lectores del Libro de Urantia que ya se han tomado esta tarea en serio han aprendido mucho sobre lo que es poco probable que logre mucho en el camino del éxito a largo plazo.
+Los lectores del _Libro de Urantia_ que ya se han tomado esta tarea en serio han aprendido mucho sobre lo que es poco probable que logre mucho en el camino del éxito a largo plazo.
 
 Un historiador comentó que la asombrosa rapidez con la que el cristianismo paulino se extendió por todo el Imperio Romano se debió al increíble alivio que trajo a las personas que sufrían una culpa abrumadora y el miedo al castigo por el pecado. Aparentemente este síndrome era endémico y particular entre los muchos seguidores del mitraísmo.
 
@@ -50,7 +50,7 @@ Hoy persiste en la forma de la doctrina de la expiación. Se sostiene con tanta 
 
 Casi todos los cristianos que son firmes en la expiación no hacen ninguna conexión entre lo que puede decir acerca de un Dios que es amor y un Dios que exige la muerte de su Hijo antes de perdonar a sus hijos terrenales por sus pecados. Viven felices con la contradicción de que Dios es amor perfecto y que Jesús demostró el amor de Dios al morir como propiciación por nuestros pecados.
 
-Entonces, ¿qué pueden hacer los lectores del Libro de Urantia para ayudar a los cristianos a recuperar una religión del espíritu? Un buen comienzo es tomar nota de lo que Jesús nos dijo:
+Entonces, ¿qué pueden hacer los lectores del _Libro de Urantia_ para ayudar a los cristianos a recuperar una religión del espíritu? Un buen comienzo es tomar nota de lo que Jesús nos dijo:
 
 > "He aquí el método que utilizó (Jesús) para instruirlos: ni una sola vez atacó sus errores **ni tampoco mencionó nunca los defectos de sus enseñanzas**. En cada caso seleccionaba la verdad que había en lo que enseñaban, y luego procedía a embellecer e iluminar esta verdad en sus mentes de tal manera que en muy poco tiempo este realzamiento de la verdad desplazaba eficazmente el error que la acompañaba; (<a id="a54_409"></a>[LU 132:0.4](/es/The_Urantia_Book/132#p0_4))
 

@@ -50,7 +50,7 @@ En los últimos años, distribuir $L e$ Livre d'Urantia en Francia ha sido cada 
 
 Hace unos años, impulsada por el fideicomisario emérito Neal Waldrop, los fideicomisarios aprobaron una política de no intervención en los asuntos internos de organizaciones implicadas en _El Libro de Urantia_. Tras adoptar esta importante política, la Junta decidió colocar un aviso aclaratorio en el sitio web de la Fundación. Este aviso aclara que la Fundación Urantia no es responsable de los actos de lectores individuales, grupos religiosos u organizaciones sociales implicadas en el libro. El aviso se lee así:
 
-_La Fundación Urantia fue creada en 1950 para custodiar el texto íntegro del Libro de Urantia y para asegurar que las enseñanzas del libro se divulgan, con ayuda de lectores y organizaciones fraternales, a todo el mundo. Este sitio fue creado como un servicio a la comunidad de lectores del Libro de Urantia pero en ningún caso implica responsabilidad sobre las acciones de lectores individuales, grupos religiosos u organizaciones sociales._
+_La Fundación Urantia fue creada en 1950 para custodiar el texto íntegro del _Libro de Urantia_ y para asegurar que las enseñanzas del libro se divulgan, con ayuda de lectores y organizaciones fraternales, a todo el mundo. Este sitio fue creado como un servicio a la comunidad de lectores del _Libro de Urantia_ pero en ningún caso implica responsabilidad sobre las acciones de lectores individuales, grupos religiosos u organizaciones sociales._
 
 
 
@@ -101,7 +101,7 @@ La Junta decidió en principio incrementar la cooperación con las organizacione
 
 A medida que la Fundación Urantia ha ido publicando más traducciones y las ventas de libros han aumentado globalmente, la Fundación ha considerado deseable proporcionar a los lectores de cierta parte del mundo un libro que tenga el tamaño, apariencia y formato que ellos prefieran.
 
-La Junta discutió incrementar el tamaño de la fuente y las dimensiones del Libro de Urantia en inglés. El Comité del Libro enviará sus recomendaciones.
+La Junta discutió incrementar el tamaño de la fuente y las dimensiones del _Libro de Urantia_ en inglés. El Comité del Libro enviará sus recomendaciones.
 
 En respuesta a las peticiones de los lectores alemanes, la Junta decidió incrementar el tamaño de la fuente y las dimensiones de Das Urantia Buch. Estos cambios se harán esta primavera en la segunda edición de Das Urantia Buch. Las dimensiones serán de 16 x 24 cm. y el tamaño de la fuente será más grande para facilitar la lectura.
 <br style="clear:both;"/>

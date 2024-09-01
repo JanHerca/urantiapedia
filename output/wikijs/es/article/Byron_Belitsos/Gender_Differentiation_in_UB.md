@@ -104,7 +104,7 @@ A lo largo de la historia de los sexos se han sucedido reacciones y contrarreacc
 
 > Pero si las mujeres alguna vez llegan a creer que... ser madre es de alguna manera inferior a ser una mujer profesional, se habrán traicionado a sí mismas y revelarán cuán profundamente les han lavado el cerebro para que acepten la mitología que los hombres les han impuesto. Porque la verdad es que ser madre es la carrera más importante que cualquiera puede seguir. (pág.187)
 
-Sin embargo, la presentación del Libro de Urantia es más sutil que esta formulación. El Libro reconoce que el trabajo de la mujer en el hogar (convenientemente delegado en ella porque es allí donde están sus hijos) no es nada menos que un trabajo pesado doméstico.
+Sin embargo, la presentación del _Libro de Urantia_ es más sutil que esta formulación. El Libro reconoce que el trabajo de la mujer en el hogar (convenientemente delegado en ella porque es allí donde están sus hijos) no es nada menos que un trabajo pesado doméstico.
 
 > _El Libro reconoce que el trabajo de la mujer en el hogar -convenientemente delegado en ella porque es allí donde están sus hijos- no es nada menos que un trabajo pesado doméstico._
 

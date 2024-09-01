@@ -62,7 +62,7 @@ Además de los frutos bíblicos (amor, alegría, paz, paciencia, gentileza, bond
 
 El crecimiento religioso -el desarrollo de la relación de uno con Dios- también se ve favorecido por: «la coordinación de las tendencias naturales, el ejercicio de la curiosidad y el placer de las aventuras razonables, el experimentar sentimientos de satisfacción, el funcionamiento del miedo para estimular la atención y la conciencia, la atracción de lo maravilloso, y una conciencia normal de nuestra pequeñez, la humildad. El crecimiento también está basado en el descubrimiento del yo, acompañado de autocrítica —de conciencia— pues la conciencia es realmente la crítica de uno mismo por nuestra propia escala de valores, los ideales personales. (<a id="a62_652"></a>[LU 100:1.5](/es/The_Urantia_Book/100#p1_5)).»
 
-La próxima vez que estés en una librería, lee El libro de Urantia, «Documento 1. El Padre Universal». Está lleno de revelación.
+La próxima vez que estés en una librería, lee _El libro de Urantia_, «Documento 1. El Padre Universal». Está lleno de revelación.
 
 Michael Hill vive en una pequeña granja en Alsea, Oregón.
 

@@ -57,7 +57,7 @@ La propia Renn fue vicepresidenta de los Setenta en 1953. Posteriormente sirvió
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Renn1.jpg">
-<figcaption><em>Grupo de estudio juvenil del Libro de Urantia de Ruth Renn, junio de 1960. Primera fila (de izquierda a derecha): Randy, David y Corlin Renn; Jack Harris y Steve Stirling. Segunda fila: John Burton, Ruth Renn, Tim Renn, Denny Rowley y Chuck Burton. Arriba a la izquierda: Adele Harris.</em></figcaption>
+<figcaption><em>Grupo de estudio juvenil del _Libro de Urantia_ de Ruth Renn, junio de 1960. Primera fila (de izquierda a derecha): Randy, David y Corlin Renn; Jack Harris y Steve Stirling. Segunda fila: John Burton, Ruth Renn, Tim Renn, Denny Rowley y Chuck Burton. Arriba a la izquierda: Adele Harris.</em></figcaption>
 </figure>
 
 

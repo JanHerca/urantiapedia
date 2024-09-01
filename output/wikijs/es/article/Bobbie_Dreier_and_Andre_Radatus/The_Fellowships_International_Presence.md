@@ -46,7 +46,7 @@ Presidido por Pablo Segovia con el secretario Jack Holloway, el LASC trabaja par
 Arellano, ofrecen una programación de veinticuatro horas con música, arte, entrevistas, enseñanza y grupos de estudio. Culturalmente, las familias latinoamericanas participan juntas y la actividad multigeneracional sugiere que _El Libro de Urantia_ y sus enseñanzas pueden conservarse y transmitirse mejor en este tipo de cultura.
 
 
-También hay muchos lectores de El libro de Urantia en Filipinas gracias a los esfuerzos de base allí. Varios grupos de estudio se reúnen periódicamente y, en noviembre de 2019, la Fraternidad patrocinó la primera conferencia nacional de Urantia en Filipinas. André Radatus, actual presidente de la IFC, estuvo presente en representación de la Fraternidad. Al igual que en América Latina, la cultura filipina del Libro de Urantia es multigeneracional y está orientada a la familia.
+También hay muchos lectores de El libro de Urantia en Filipinas gracias a los esfuerzos de base allí. Varios grupos de estudio se reúnen periódicamente y, en noviembre de 2019, la Fraternidad patrocinó la primera conferencia nacional de Urantia en Filipinas. André Radatus, actual presidente de la IFC, estuvo presente en representación de la Fraternidad. Al igual que en América Latina, la cultura filipina del _Libro de Urantia_ es multigeneracional y está orientada a la familia.
 
 
 La Fraternidad también envía libros y apoya ferias de libros, conferencias y grupos de estudio en muchas otras partes del mundo. Aquí hay unos ejemplos:

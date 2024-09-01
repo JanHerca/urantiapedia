@@ -141,7 +141,7 @@ _Mo Siegel_ y _Barry Clark_, presidentes de la mesa redonda de TI
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/Paul_Klaver.jpg">
 </figure>
 
-El canadiense **Paul Klaver** descubrió _El Libro de Urantia_ a la edad de 21 años y estableció el grupo de estudio Kitchener-Waterloo en 2002. Actualmente es el presidente de la «Organización de Divulgación _El Libro de Urantia_», que espera que presente el libro a diez millones de personas en diez años. Está produciendo y publicitando cortos animados y publicitarios sobre la vida y las enseñanzas de Jesús. También combina citas atemporales del Libro de Urantia con imágenes intrigantes, todas las cuales se publican en la página de Facebook de TUBOO y reciben una atención considerable. Paul ha leído el libro al menos veinte veces y espera aprender y ayudar a la Fellowship a alcanzar sus metas durante su mandato de 9 años en el consejo.
+El canadiense **Paul Klaver** descubrió _El Libro de Urantia_ a la edad de 21 años y estableció el grupo de estudio Kitchener-Waterloo en 2002. Actualmente es el presidente de la «Organización de Divulgación _El Libro de Urantia_», que espera que presente el libro a diez millones de personas en diez años. Está produciendo y publicitando cortos animados y publicitarios sobre la vida y las enseñanzas de Jesús. También combina citas atemporales del _Libro de Urantia_ con imágenes intrigantes, todas las cuales se publican en la página de Facebook de TUBOO y reciben una atención considerable. Paul ha leído el libro al menos veinte veces y espera aprender y ayudar a la Fellowship a alcanzar sus metas durante su mandato de 9 años en el consejo.
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/David_Kulieke.jpg">
@@ -153,7 +153,7 @@ El canadiense **Paul Klaver** descubrió _El Libro de Urantia_ a la edad de 21 a
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/Arlene_Weimer.jpg">
 </figure>
 
-**Arlene Weimer** nació en Brooklyn, Nueva York, de padres judíos que emigraron de Polonia. Estudió ciencias y filosofía en el Brooklyn College antes de descubrir _El Libro de Urantia_ hace cuarenta años. Es miembro fundador de la Sociedad Urantia de las Montañas Rocosas de Denver (actualmente la Fellowship Espiritual de las Montañas Rocosas) y ha sido anfitriona de un grupo de estudio de Urantia en Pueblo, CO, desde 1975. A Arlene le gustaría ayudar a todos los lectores del Libro de Urantia a encontrar respeto mutuo y también para difundir la enseñanza de _El Libro de Urantia_. Ha acompañado con entusiasmo a su esposo Buck en muchos viajes internacionales a lugares como India y África para compartir la revelación.
+**Arlene Weimer** nació en Brooklyn, Nueva York, de padres judíos que emigraron de Polonia. Estudió ciencias y filosofía en el Brooklyn College antes de descubrir _El Libro de Urantia_ hace cuarenta años. Es miembro fundador de la Sociedad Urantia de las Montañas Rocosas de Denver (actualmente la Fellowship Espiritual de las Montañas Rocosas) y ha sido anfitriona de un grupo de estudio de Urantia en Pueblo, CO, desde 1975. A Arlene le gustaría ayudar a todos los lectores del _Libro de Urantia_ a encontrar respeto mutuo y también para difundir la enseñanza de _El Libro de Urantia_. Ha acompañado con entusiasmo a su esposo Buck en muchos viajes internacionales a lugares como India y África para compartir la revelación.
 
 <figure id="Figure_10" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/Teuvo_Orjala.jpg">
@@ -188,7 +188,7 @@ Por _Buck Weimer_
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/005803.jpg">
 </figure>
 
-Nuestra persistente presencia en la Feria Internacional del Libro de Seúl en Corea del Sur durante los últimos cuatro años está produciendo señales de una creciente comunidad del Libro de Urantia allí.
+Nuestra persistente presencia en la Feria Internacional del Libro de Seúl en Corea del Sur durante los últimos cuatro años está produciendo señales de una creciente comunidad del _Libro de Urantia_ allí.
 
 La feria de este año se llevó a cabo del 20 al 24 de junio en el centro de convenciones COEX. Una vez más, Sy Chang fue la persona de contacto que coordinó el evento; y representando a la Fellowship estábamos Tim Hobbs, Arlene Weimer y yo. Un mes antes de la feria le enviamos a Sy un caso (18) de Jesús, una nueva revelación en inglés porque la mayoría de los coreanos quieren aprender inglés. Tenía las tres copias de la traducción coreana claramente expuestas y un montón de Fundamentos del libro de Urantia de Mary Ebben a mano. Nuestros dedos se adaptaron rápidamente a rodar Vitaminas Espirituales.
 
