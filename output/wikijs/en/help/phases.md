@@ -34,8 +34,6 @@ To create the *Topic Index*, the index created by the *Urantia Fellowship* for i
 
 https://urantia-book.org/urantiabook/topical_index/index.htm
 
-This milestone is expected to be reached in Q2 2022.
-
 
 Tasks | Where | Who
 --- | --- | ---
@@ -52,8 +50,6 @@ In this milestone the content of the Urantiapedia is expanded with three major a
 - Books beyond the *Bible* suspected to be books used by revelators in parts of *The Urantia Book*. For example, Matthew Block is a reader who has done a great job finding this material. https://urantiabooksources.com/
 - Articles, study aids and schemas of *The Urantia Book*. There are many of them on the [Urantia Foundation](https://www.urantia.org/) website, in the [Fellowship](https://urantiabook.org/), in Urantia associations and on individual websites. No content will be published without the express permission of the authors whenever it is possible to locate them. The content can be uploaded in two ways: public edition (any editor can improve it), and closed edition (only the author or users authorized by the author are able to modify it). Articles may also include images.
 - Indexes, which are either pages with lists of links, or pages themselves that summarize a topic.
-
-This milestone is expected to be reached in Q2 2023.
 
 
 Tasks | Where | Who
@@ -81,8 +77,6 @@ In this milestone only development will be undertaken. Two new tools will be add
 - A new type of editor on web pages that allows displaying two languages ​​at the same time and carrying out an assisted translation, so that on one side content is displayed as a guide, and in parallel you can see translation suggestions and the final translation saved. It will also have functionality that allows knowing the progress that the user has made in their translation work and coordinating with other users who are also translating in the same language.
 - A new type of content viewer that allows viewing content in a double column, showing two of the available languages ​​at the same time. A good use of this is to be able to view the English original of *The Urantia Book* and another language, but this would work for any page and any language pair.
 - An option will also be added to be able to select the desired translation into Spanish since there are three official translations of *The Urantia Book* into Spanish. Only one will be the default translation to which the links from other pages will be connected, but when showing the pages of the book in Spanish, an option will be added that allows switching from the default translation to the others.
-
-This milestone is expected to be achieved in Q1 2024.
 
 
 Tasks | Where | Who
@@ -112,8 +106,6 @@ The developments that will be needed in *Wiki.js* are:
 - A client-side map editor that uses existing 2D and 3D map APIs (such as [Google Maps](https://www.google.com/maps) and [Google Earth](https://www.google.com/intl/en/earth/)) and allows you to create the map in the standard.
 - A server-side renderer that converts the standard into a web viewer that renders the created map.
 - The web viewer that presents the created map on the client side, a simplified version (without editing tools) of the map editor.
-
-This milestone is expected to be reached in Q2 2024.
 
 
 Tasks | Where | Who
@@ -169,8 +161,6 @@ The format is widely used and supported in many applications, and there are alre
 The developments that will be necessary in Wiki.js are:
 - Integrate into Wiki.js a glTF scene editor (using one of the above) on the client side. glTF uses a JSON format.
 - A server-side renderer that converts the glTF JSON into a web viewer that displays the created 3D scene. The viewer used will be the one related with the selected editor.
-
-This milestone is expected for Q2 2026.
 
 
 Tasks | Where | Who

@@ -34,8 +34,6 @@ Pour créer l'*Index des sujets*, l'index créé par la *Communauté Urantia* po
 
 https://urantia-book.org/urantiabook/topical_index/index.htm
 
-Ce jalon devrait être atteint au deuxième trimestre 2022.
-
 
 Tâches | Où | Qui
 --- | --- | ---
@@ -52,8 +50,6 @@ Dans cette étape importante, le contenu d'Urantiapedia est élargi avec trois d
 - Des livres au-delà de la *Bible* suspectés d'être des livres utilisés par des révélateurs dans des parties du *Livre d'Urantia*. Par exemple, Matthew Block est un lecteur qui a fait un excellent travail pour trouver ce matériel. https://urantiabooksources.com/
 - Articles, aides à l'étude et schémas du *Livre d'Urantia*. Il y en a beaucoup sur le site Web de la [Fondation Urantia](https://www.urantia.org/), dans la [Fellowship](https://urantiabook.org/), dans les associations Urantia et sur des sites Web individuels. Aucun contenu ne sera publié sans l'autorisation expresse des auteurs dès lors qu'il est possible de les localiser. Le contenu peut être téléchargé de deux manières: édition publique (tout éditeur peut l'améliorer) et édition fermée (seuls l'auteur ou les utilisateurs autorisés par l'auteur peuvent le modifier). Les articles peuvent également inclure des images.
 - Les index, qui sont soit des pages avec des listes de liens, soit des pages elles-mêmes qui résument un sujet.
-
-Ce jalon devrait être atteint au deuxième trimestre 2023.
 
 
 Tâches | Où | Qui
@@ -81,8 +77,6 @@ Dans cette étape, seul le développement sera entrepris. Deux nouveaux outils s
 - Un nouveau type d'éditeur sur les pages web qui permet d'afficher deux langues en même temps et d'effectuer une traduction assistée, de sorte que d'un côté le contenu s'affiche comme un guide, et en parallèle on peut voir les suggestions de traduction et la finale traduction enregistrée. Il disposera également d'une fonctionnalité permettant de connaître les progrès réalisés par l'utilisateur dans son travail de traduction et de se coordonner avec d'autres utilisateurs qui traduisent également dans la même langue.
 - Un nouveau type de visualiseur de contenu qui permet de visualiser le contenu dans une double colonne, montrant deux des langues disponibles en même temps. Une bonne utilisation de ceci est de pouvoir voir l'original anglais du *Livre d'Urantia* et une autre langue, mais cela fonctionnerait pour n'importe quelle page et n'importe quelle paire de langues.
 - Une option sera également ajoutée pour pouvoir sélectionner la traduction souhaitée en espagnol puisqu'il existe trois traductions officielles du *Livre d'Urantia* en espagnol. Une seule sera la traduction par défaut à laquelle les liens des autres pages seront connectés, mais lors de l'affichage des pages du livre en espagnol, une option sera ajoutée qui permettra de passer de la traduction par défaut aux autres.
-
-Cette étape devrait être franchie au premier trimestre 2024.
 
 
 Tâches | Où | Qui
@@ -113,8 +107,6 @@ Les développements qui seront nécessaires dans *Wiki.js* sont:
 - Un moteur de rendu côté serveur qui convertit la norme en une visionneuse Web qui rend la carte créée.
 - Le visualiseur Web qui présente la carte créée côté client, une version simplifiée (sans outils d'édition) de l'éditeur de carte.
 
-Ce jalon devrait être atteint au deuxième trimestre 2024.
-
 
 Tâches | Où | Qui
 --- | --- | ---
@@ -139,8 +131,6 @@ Les développements qui seront nécessaires dans *Wiki.js* sont:
 - Un éditeur de présentation côté client qui utilise les API existantes et permet de créer la présentation dans un format standard tel que Markdown.
 - Un moteur de rendu côté serveur qui convertit la norme en un visualiseur Web qui affiche la présentation créée.
 - Le visualiseur Web qui affiche la présentation côté client, une version simplifiée (sans outils d'édition) de l'éditeur de présentation.
-
-Ce jalon est attendu pour le deuxième trimestre 2025.
 
 
 Tâches | Où | Qui
@@ -169,8 +159,6 @@ Le format est largement utilisé et pris en charge dans de nombreuses applicatio
 Les développements qui seront nécessaires dans Wiki.js sont:
 - Intégrez dans Wiki.js un éditeur de scène glTF (utilisant l'un des éléments ci-dessus) côté client. glTF utilise un format JSON.
 - Un moteur de rendu côté serveur qui convertit le glTF JSON en une visionneuse Web qui affiche la scène 3D créée. Le visualiseur utilisé sera celui associé à l'éditeur sélectionné.
-
-Ce jalon est attendu pour le deuxième trimestre 2026.
 
 
 Tâches | Où | Qui

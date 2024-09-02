@@ -29,7 +29,6 @@ Neste marco é adicionado o conteúdo considerado mínimo para iniciar a *Uranti
 Para criar os links para a *Bíblia*, está sendo usado o Paramony de Duane L. Faw, que é um arquivo com referências cruzadas entre a *Bíblia* e o *Livro de Urântia*.
 
 https://urantia-book.org/urantiabook/paramony/
-
 Para criar o *Topic Index*, o índice criado pela *Urantia Fellowship* para sua edição em inglês do *O Livro de Urântia* está sendo usado como orientação. Este índice, por conter apenas breves anotações, está sendo expandido para se tornar um texto completo que servirá como a versão inicial para cada página de tópico.
 
 https://urantia-book.org/urantiabook/topical_index/index.htm
@@ -52,8 +51,6 @@ Neste marco, o conteúdo da Urantiapedia é expandido com três áreas principai
 - Livros além da *Bíblia* suspeitos de serem livros usados ​​por reveladores em partes do *Livro de Urântia*. Por exemplo, Matthew Block é um leitor que fez um ótimo trabalho encontrando este material. https://urantiabooksources.com/
 - Artigos, auxílios de estudo e esquemas do *O Livro de Urântia*. Há muitos deles no site da [Fundação Urântia](https://www.urantia.org/), na [Fellowship](https://urantiabook.org/), nas associações de Urantia e em sites individuais. Nenhum conteúdo será publicado sem a autorização expressa dos autores sempre que for possível localizá-los. O conteúdo pode ser carregado de duas formas: edição pública (qualquer editor pode aprimorá-lo) e edição fechada (somente o autor ou usuários autorizados pelo autor podem modificá-lo). Os artigos também podem incluir imagens.
 - Índices, que são páginas com listas de links ou páginas que resumem um tópico.
-
-Espera-se que este marco seja alcançado no segundo trimestre de 2023.
 
 
 Tarefas | Onde | Quem
@@ -81,8 +78,6 @@ Neste marco apenas o desenvolvimento será realizado. Duas novas ferramentas ser
 - Um novo tipo de editor em páginas da web que permite exibir dois idiomas ao mesmo tempo e realizar uma tradução assistida, para que de um lado o conteúdo seja exibido como guia e, em paralelo, você possa ver sugestões de tradução e o final tradução salva. Também terá funcionalidades que permitem conhecer o progresso que o usuário fez em seu trabalho de tradução e coordenar com outros usuários que também estão traduzindo no mesmo idioma.
 - Um novo tipo de visualizador de conteúdo que permite visualizar o conteúdo em uma coluna dupla, mostrando dois dos idiomas disponíveis ao mesmo tempo. Um bom uso disso é poder ver o original em inglês do *O Livro de Urântia* e outro idioma, mas isso funcionaria para qualquer página e qualquer par de idiomas.
 - Uma opção também será adicionada para poder selecionar a tradução desejada para o espanhol, uma vez que existem três traduções oficiais de *O Livro de Urântia* para o espanhol. Apenas uma será a tradução padrão à qual os links de outras páginas serão conectados, mas ao mostrar as páginas do livro em espanhol, será adicionada uma opção que permite alternar da tradução padrão para as demais.
-
-Espera-se que este marco seja alcançado no primeiro trimestre de 2024.
 
 
 Tarefas | Onde | Quem
@@ -113,8 +108,6 @@ Os desenvolvimentos que serão necessários no *Wiki.js* são:
 - Um renderizador do lado do servidor que converte o padrão em um visualizador da web que renderiza o mapa criado.
 - O visualizador web que apresenta o mapa criado no lado do cliente, uma versão simplificada (sem ferramentas de edição) do editor de mapas.
 
-Espera-se que este marco seja alcançado no segundo trimestre de 2024.
-
 
 Tarefas | Onde | Quem
 --- | --- | ---
@@ -139,8 +132,6 @@ Os desenvolvimentos que serão necessários no *Wiki.js* são:
 - Um editor de apresentação do lado do cliente que usa APIs existentes e permite criar a apresentação em um formato padrão, como Markdown.
 - Um renderizador do lado do servidor que converte o padrão em um visualizador da Web que exibe a apresentação criada.
 - O visualizador da web que exibe a apresentação no lado do cliente, uma versão simplificada (sem ferramentas de edição) do editor de apresentações.
-
-Este marco é esperado para o segundo trimestre de 2025.
 
 
 Tarefas | Onde | Quem
@@ -169,8 +160,6 @@ O formato é amplamente utilizado e suportado em muitas aplicações, e já exis
 Os desenvolvimentos que serão necessários no Wiki.js são:
 - Integrar no Wiki.js um editor de cena glTF (usando um dos acima) no lado do cliente. glTF usa um formato JSON.
 - Um renderizador do lado do servidor que converte o glTF JSON em um visualizador da Web que exibe a cena 3D criada. O visualizador utilizado será aquele relacionado com o editor selecionado.
-
-Este marco é esperado para o segundo trimestre de 2026.
 
 
 Tarefas | Onde | Quem
