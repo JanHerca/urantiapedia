@@ -131,7 +131,7 @@ La presentación cosmológica a nivel macro que se encuentra en _El Libro de Ura
 
 ## Paso 1: Permisos revelatorios y limitaciones
 
-[Permisos y limitaciones revelatorios](/es/article/Halbert_Katzen/Revelation_Permissions_and_Limitations) plantea cuestiones que van más allá de una discusión sobre astronomía. Por lo tanto, se creó como un estudio temático independiente. Después de redactarlo, tal vez se hagan aquí algunos comentarios adicionales que sean específicos de la astronomía.
+[Permisos y limitaciones revelatorios](/es/article/Halbert_Katzen/Revelatory_Permissions_and_Limitations) plantea cuestiones que van más allá de una discusión sobre astronomía. Por lo tanto, se creó como un estudio temático independiente. Después de redactarlo, tal vez se hagan aquí algunos comentarios adicionales que sean específicos de la astronomía.
 
 ## Paso 2: Análisis de cuatro esquinas
 

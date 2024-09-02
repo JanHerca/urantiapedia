@@ -308,7 +308,7 @@ El _Turin Shroud Center of Colorado_ tiene un sitio web [www.Shroudofturin.com](
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Shroud_of_Turin/Shroud_img_0.jpg">
-<figcaption><b>Figura 1 (izquierda): fotografía normal en blanco y negro del Santo Sudario. <b>Figura 2 (derecha): imagen en negativo del Santo Sudario.</figcaption>
+<figcaption><b>Figura 1 (izquierda)</b>: fotografía normal en blanco y negro del Santo Sudario. <b>Figura 2 (derecha)</b>: imagen en negativo del Santo Sudario.</figcaption>
 </figure>
 
 Este mismo artículo continúa diciendo:

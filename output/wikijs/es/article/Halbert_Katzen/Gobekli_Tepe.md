@@ -57,7 +57,7 @@ Las teorías sobre la historia de la civilización humana se basan en evidencias
 
 *El Libro de Urantia* proporciona una historia de la humanidad que se armoniza perfectamente con los descubrimientos que se realizan en Gobekli Tepe. Presenta una explicación de los misterios de Gobekli Tepe en términos de una historia de Adán y Eva que varía significativamente del registro del Antiguo Testamento, pero que, según afirman los autores, es la base de muchos de nuestros mitos y tradiciones religiosas sobre los orígenes de la humanidad. No es de extrañar, debido a la naturaleza inusual y la edad de este sitio arqueológico, que los expertos rápidamente comenzaran a especular sobre cómo se podría relacionar con las tradiciones religiosas acerca de Adán y Eva. Entonces, en cierto sentido, la explicación de *El Libro de Urantia* encaja bien con las especulaciones académicas sobre la importancia de Gobekli Tepe. Aún así, mientras se demuestran paralelismos claros, los aspectos únicos de la historia de Adán y Eva que se encuentran en *El Libro de Urantia*, sin duda, también plantearán muchas preguntas.
 
-Este informe no intentará proporcionar todas las respuestas. Se pueden encontrar algunas explicaciones leyendo el informe [Adán y Eva](/es/article/Halbert_Katzen/Adam_and_Eve) y el informe [El Jardín del Edén](/es/article/Halbert_Katzen/Garden_of_Eden). Para una comprensión más completa, lea los documentos 73 a 80 en *El Libro de Urantia*. Además, es posible que desee revisar el informe [Eugenesia, razas y El Libro de Urantia](/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index). En enero de 2011, UBtheNEWS preparó y publicó la primera y única revisión exhaustiva de este tema.
+Este informe no intentará proporcionar todas las respuestas. Se pueden encontrar algunas explicaciones leyendo el informe [Adán y Eva](/es/article/Halbert_Katzen/Adam_and_Eve) y el informe [El Jardín del Edén](/es/article/Halbert_Katzen/Garden_of_Eden). Para una comprensión más completa, lea los documentos 73 a 80 en *El Libro de Urantia*. Además, es posible que desee revisar el informe [Eugenesia, razas y El Libro de Urantia](/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book#índice). En enero de 2011, UBtheNEWS preparó y publicó la primera y única revisión exhaustiva de este tema.
 
 <figure id="Gobekli_Tepe_fig_3" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Gobekli_Tepe/gobeklitepe03.jpg" width="700" heigth="410">
@@ -303,7 +303,7 @@ Para una excelente comprensión de cómo este tema se relaciona con el desarroll
 
 ## Conclusión
 
-El relato de *El Libro de Urantia* sobre el destino de los adamitas ayuda mucho a explicar lo que es tan terriblemente confuso sobre Gobekli Tepe para los antropólogos y arqueólogos. Y cuando se considera junto con el informe de [Adán y Eva](/es/article/Halbert_Katzen/Adam_and_Eve) y el informe [El Jardín del Edén](/es/article/Halbert_Katzen/Garden_of_eden), ¡la forma en que *El Libro de Urantia* explica los misterios multifacéticos de Gobekli Tepe es aún más impresionante!
+El relato de *El Libro de Urantia* sobre el destino de los adamitas ayuda mucho a explicar lo que es tan terriblemente confuso sobre Gobekli Tepe para los antropólogos y arqueólogos. Y cuando se considera junto con el informe de [Adán y Eva](/es/article/Halbert_Katzen/Adam_and_Eve) y el informe [El Jardín del Edén](/es/article/Halbert_Katzen/Garden_of_Eden), ¡la forma en que *El Libro de Urantia* explica los misterios multifacéticos de Gobekli Tepe es aún más impresionante!
 
 ## Enlaces
 

@@ -27,7 +27,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Por Halbert Katzen JD
 
-> Este estudio de referencia cruzada fue creado para apoyar el desarrollo posterior de los Estudios Temáticos: [¿Hay un juicio inminente de los vivos?](/es/article/Halbert_Katzen/Un_evento_de_crisis_catastrófica_global) y [Un nuevo cielo y una nueva tierra](/es/article/Halbert_Katzen/Un_nuevo_cielo_y_una_nueva_tierra).
+> Este estudio de referencia cruzada fue creado para apoyar el desarrollo posterior de los Estudios Temáticos: [¿Hay un juicio inminente de los vivos?](/es/article/Halbert_Katzen/A_Global_Catastrophic_Crisis_Event) y [Un nuevo cielo y una nueva tierra](/es/article/Halbert_Katzen/A_New_Heaven_And_A_New_Earth).
 {.is-info}
 
 ## Historia

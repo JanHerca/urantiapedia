@@ -43,7 +43,7 @@ Je fais référence à cette planète comme étant connue sous le nom de « Mond
 
 ## Toutes les étymologies classées par ordre alphabétique
 
-### abandonneurs
+### abandontaires
 
 [LU 37:9.12](/fr/The_Urantia_Book/37#p9_12) Ces citoyens de premier ordre (a) sont complètement dévoués à (abandonnent) à la perfection magistrale (don) de leur rôle (ers).
 
@@ -57,7 +57,7 @@ _t:_ Mettre les points sur les i pour être exact est attesté depuis 1849. L'ex
 
 _\-er : terminaison de nom d'agent anglais, correspondant au latin _\-or_. Dans les mots indigènes, elle représente le vieil anglais _\-ere_ (le vieux northumbrien aussi _\-are_) « homme qui a affaire à », du proto-germanique _\-ari_ (apparentés : allemand _\-er_, suédois _\-are_, danois _\-ere_), du proto-germanique _\-arjoz_. Certains pensent que cette racine est identique au latin _\-arius_, et peut-être un emprunt à celui-ci (voir _\-ary_).
 
-### agondonteurs
+### agondontaires
 
 [LU 50:7.2](/fr/The_Urantia_Book/50#p7_2) Tout est question de lutte mentale pour la victoire (agon) au niveau des maîtres (don)(t) pour ces « gamers » (ters).
 
@@ -70,7 +70,7 @@ La lettre « t » symbolise la croix.
 
 _\-er : terminaison de nom d'agent anglais, correspondant au latin _\-or_. Dans les mots indigènes, elle représente le vieil anglais _\-ere_ (le vieux northumbrien aussi _\-are_) « homme qui a affaire à », du proto-germanique _\-ari_ (apparentés : allemand _\-er_, suédois _\-are_, danois _\-ere_), du proto-germanique _\-arjoz_. Certains pensent que cette racine est identique au latin _\-arius_, et peut-être un emprunt à celui-ci (voir _\-ary_).
 
-### Alvorisme
+### Alvoring
 
 [LU 32:2.12](/fr/The_Urantia_Book/32#p2_12) L'un des sept univers locaux les plus proches.
 L'endroit où (A) ils nourrissent la croissance (Al) avec une attitude proactive (vor) (ing).
@@ -182,7 +182,7 @@ _don (n.) :_ titre de respect, années 1520, de l’espagnol ou du portugais _Do
 
 _\-ite_ : élément formant un mot indiquant l'origine ou la dérivation de, du français –_ite_ et directement du latin –_ita_, du grec -ites (fém. –_itis_), élément formant un mot constituant des adjectifs et des noms signifiant « relié à ou appartenant à ». Utilisé notamment à l'époque classique pour former des désignations ethniques et locales (par exemple dans les traductions de la Septante des noms hébreux en –_i_) et pour les noms de pierres précieuses et de minéraux.
 
-### Caligastie
+### Caligastia
 
 Celui dont l'obscurité (calig) le transforme entièrement (as) en une non-personne (-_tia_, généralement utilisé pour les noms impersonnels, au lieu de –_ia_, qui serait généralement utilisé pour un nom personnel).
 
@@ -192,7 +192,7 @@ _caliginous (adj.) :_ « sombre, obscur, obscur », années 1540, du latin _cali
 
 _as (adv., conj., pron.) :_ vers 1200, forme usée du vieil anglais _alswa_ « tout à fait ainsi, entièrement ainsi », littéralement « tout ainsi » (voir aussi), pleinement établie vers 1400. Équivalent à so ; toute distinction en usage est purement idiomatique. Apparenté à l'allemand _als_ « comme, que », du moyen haut-allemand _also_. L'expression _as well_ « tout autant » est attestée à partir de la fin du XVe s. ; l'expression peut aussi impliquer « aussi bien que non », « aussi bien que n'importe quoi d'autre ». L'expression _as if_, dans la métaphysique kantienne (traduisant l'allemand _als ob_), introduisant une supposition à ne pas prendre au pied de la lettre, date de 1892 ; comme interjection d'incrédulité (_as if !_ ; c'est-à-dire « comme si cela pouvait vraiment arriver ») est attestée à partir de 1995. Elle reproduit le latin quasi. L'expression _as it were_ « comme si c'était ainsi » est attestée à la fin du 14e siècle.
 
-### Daligastie
+### Daligastia
 
 Le disciple qui vient après celui (« D » après « C ») dont l'obscurité le transforme entièrement en une non-personne. Voir Caligastia.
 
@@ -385,9 +385,9 @@ Celui qui (M) se présente courageusement (Man) en remplacement (suro) quand les
 
 _mansurus :_ participe futur actif de _maneō_ (« je reste, demeure »).
 
-_man (v.) : _ du moyen anglais _mannen_, de l'ancien anglais _mannian_ « équiper (un fort, un navire, etc.) d'une compagnie d'hommes », de _man_ (n.). Le sens de « prendre une position désignée sur un navire » est mentionné pour la première fois dans les années 1690. Le sens de « se comporter comme un homme, se préparer de manière virile, agir avec courage » est daté de 1400 environ. To _man (something) out_ « jouer un rôle d'homme, se comporter avec courage et audace » est daté des années 1660.
+_man (v.) :_ du moyen anglais _mannen_, de l'ancien anglais _mannian_ « équiper (un fort, un navire, etc.) d'une compagnie d'hommes », de _man_ (n.). Le sens de « prendre une position désignée sur un navire » est mentionné pour la première fois dans les années 1690. Le sens de « se comporter comme un homme, se préparer de manière virile, agir avec courage » est daté de 1400 environ. To _man (something) out_ « jouer un rôle d'homme, se comporter avec courage et audace » est daté des années 1660.
 
-_subrogate (n.) : début du XVe siècle, du latin _surrogatus_, participe passé de _surrogare_/_subrogare_ « mettre à la place d’un autre, substituer », de la forme assimilée de _sub_ « à la place de, sous » (voir _sub-_) + _rogare_ « demander, proposer », apparemment une utilisation figurative d’un verbe PIE signifiant littéralement « tendre (la main) », de la racine _reg-_ « se déplacer en ligne droite ». Le sens de « femme enceinte de l’ovule fécondé d’une autre femme » est attesté depuis 1978 (depuis 1972 pour les animaux ; _mère porteuse_ dans un sens psychologique est de 1971). Comme adjectif des années 1630.
+_subrogate (n.)_ : début du XVe siècle, du latin _surrogatus_, participe passé de _surrogare_/_subrogare_ « mettre à la place d’un autre, substituer », de la forme assimilée de _sub_ « à la place de, sous » (voir _sub-_) + _rogare_ « demander, proposer », apparemment une utilisation figurative d’un verbe PIE signifiant littéralement « tendre (la main) », de la racine _reg-_ « se déplacer en ligne droite ». Le sens de « femme enceinte de l’ovule fécondé d’une autre femme » est attesté depuis 1978 (depuis 1972 pour les animaux ; _mère porteuse_ dans un sens psychologique est de 1971). Comme adjectif des années 1630.
 
 La lettre « T » symbolise la croix.
 [LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
@@ -815,7 +815,7 @@ Votre monde, Urantia, est l'une des nombreuses planètes habitées semblables qu
 
 ### Types et ordres célestes
 
-- [**agondonters**](#agondonters)
+- [**agondontaires**](#agondontaires)
 - [**Avonal**](#Avonal)
 - [**Lanonandek**](#Lanonandek)
 - [**Vorondadek**](#Vorondadek)

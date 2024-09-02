@@ -143,7 +143,7 @@ Muy recomendable: Una demanda por violación de derechos de autor y marca regist
 
 [Cómo surgieron los documentos de Urantia](https://ubannotated.com/wp-content/uploads/2018/01/Stafford-retyped-1952.pdf) de Webster Stafford, reescrito en 1952 (más fácil de leer), e incluye una nota a Harold Sherman sobre sus esfuerzos de cooperación.
 
-«[La historicidad de _El libro de Urantia_](/es/article/Meredith_Sprunger/The_Historicity_of_LU)» (1986, revisado en 1998) por Meredith J. Sprunger.
+«[La historicidad de _El libro de Urantia_](/es/article/Meredith_Sprunger/The_Historicity_of_UB)» (1986, revisado en 1998) por Meredith J. Sprunger.
 
 [El nacimiento de una revelación divina](https://ubannotated.com/wp-content/uploads/2021/02/MoyerBirthRev.pdf) (2000) de Ernest P. Moyer.
 

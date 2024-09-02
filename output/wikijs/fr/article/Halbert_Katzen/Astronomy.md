@@ -131,7 +131,7 @@ La présentation cosmologique au niveau macro que l'on trouve dans le Livre d'Ur
 
 ## Étape 1 : Autorisations et limitations révélatrices
 
-[Autorisations et limitations révélatrices](/fr/article/Halbert_Katzen/Revelation_Permissions_and_Limitations) soulève des questions qui vont au-delà d'une discussion sur l'astronomie. C'est pourquoi elle a été créée en tant qu'étude thématique distincte. Une fois rédigée, des commentaires supplémentaires seront peut-être ajoutés ici, qui sont spécifiques à l'astronomie.
+[Autorisations et limitations révélatrices](/fr/article/Halbert_Katzen/Revelatory_Permissions_and_Limitations) soulève des questions qui vont au-delà d'une discussion sur l'astronomie. C'est pourquoi elle a été créée en tant qu'étude thématique distincte. Une fois rédigée, des commentaires supplémentaires seront peut-être ajoutés ici, qui sont spécifiques à l'astronomie.
 
 ## Étape 2 : Analyse des quatre coins
 

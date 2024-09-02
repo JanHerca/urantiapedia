@@ -231,7 +231,7 @@ Ushki (7) | 14300 | Â± | 200 | GIN- | Mochanov 1978:62 |
 
 ## Enlaces
 
-* [Raza roja](es/topic/red_race)
+* [Raza roja](/es/topic/red_race)
 * [Norteamérica](/es/topic/North_America)
 * [Centroamérica](/es/topic/Central_America)
 * [Sudamérica](/es/topic/South_America)
