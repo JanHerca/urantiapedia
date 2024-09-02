@@ -39,7 +39,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <br>
 <b>CONFÉRENCE GÉNÉRALE DE 1990</b><br>
 <br>
-<b style=« font-size: 2em; »>MARCHE AVEC DIEU</b><br>
+<b style="font-size: 2em;">MARCHE AVEC DIEU</b><br>
 <br>
 <b>SNOWMASS/ASPEN, COLORADO États-Unis</b><br>
 <br>
