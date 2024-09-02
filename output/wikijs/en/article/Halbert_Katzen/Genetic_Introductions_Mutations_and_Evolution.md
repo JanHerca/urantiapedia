@@ -37,13 +37,13 @@ _By Halbert Katzen J.D._
 > Racial differences blend into oneness.  
 > Children becoming adults combines an enduring and an evolving aspect of life’s relationships.
 >
->Life works best when we make the most of enduring and disappearing differences.
+> Life works best when we make the most of enduring and disappearing differences.
 >
->Love is about wisely harmonizing these three fundamental differences—gender, >race, and parent-child.
+> Love is about wisely harmonizing these three fundamental differences—gender, >race, and parent-child.
 >
->Please pass the love.
+> Please pass the love.
 >
->—Halbert Katzen
+> —Halbert Katzen
 {.is-info}
 
 ## Introduction
@@ -193,7 +193,7 @@ All of these races had sufficient intelligence to support the development of civ
 
 > On those worlds having all six evolutionary races the superior peoples are the first, third, and fifth races—the red, the yellow, and the blue. The evolutionary races thus alternate in capacity for intellectual growth and spiritual development, the second, fourth, and sixth \[orange, green, and indigo\] being somewhat less endowed. ([UB 51:4.3](/en/The_Urantia_Book/51#p4_3))
 
-The use of “red _man_” in comparison to “indigo—black—_race”_ is not the only example of using synonyms for making comparative references to the six Sangik races. This is also done with a description of all six races at [64:6](https://ubannotated.com/ubthenews/urantiabook/papers/p064/#U64_6_0). Why do you think the authors do this?
+The use of “red _man_” in comparison to “indigo—black—_race”_ is not the only example of using synonyms for making comparative references to the six Sangik races. This is also done with a description of all six races at [64:6](/en/The_Urantia_Book/64#p6). Why do you think the authors do this?
 
 **_Homo sapiens secundarius:_ secondary Sangik.**  Originating 500,000 years ago. Mutation.
 

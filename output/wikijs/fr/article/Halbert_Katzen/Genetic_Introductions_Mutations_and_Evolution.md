@@ -193,7 +193,7 @@ Toutes ces races possédaient une intelligence suffisante pour soutenir le déve
 
 > Sur les mondes qui contiennent les six races évolutionnaires, les peuples supérieurs sont la première, la troisième et la cinquième race — la rouge, la jaune et la bleue. Les races évolutionnaires alternent ainsi dans leur aptitude à la croissance intellectuelle et au développement spirituel, la deuxième, la quatrième et la sixième \[orange, verte et indigo\] étant un peu moins bien dotées. ([LU 51:4.3](/fr/The_Urantia_Book/51#p4_3))
 
-L’utilisation de « l’homme rouge » en comparaison de « la race indigo-noire » n’est pas le seul exemple d’utilisation de synonymes pour faire des références comparatives aux six races Sangik. Cela est également fait avec une description des six races à [64:6](https://ubannotated.com/ubthenews/urantiabook/papers/p064/#U64_6_0). Pourquoi pensez-vous que les auteurs font cela ?
+L’utilisation de « l’homme rouge » en comparaison de « la race indigo-noire » n’est pas le seul exemple d’utilisation de synonymes pour faire des références comparatives aux six races Sangik. Cela est également fait avec une description des six races à [64:6](/fr/The_Urantia_Book/64#p6). Pourquoi pensez-vous que les auteurs font cela ?
 
 **_Homo sapiens secundaria :_ Sangik secondaire.** Originaire d'il y a 500 000 ans. Mutation.
 

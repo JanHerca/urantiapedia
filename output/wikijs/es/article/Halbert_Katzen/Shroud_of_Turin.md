@@ -1,4 +1,4 @@
-—
+---
 title: "La síndone de Turín"
 description: 
 published: true
@@ -6,7 +6,7 @@ date: 2021-11-28T14:02:03.086Z
 tags: Jesus, Jesus life, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
-—
+---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Halbert Katzen, JD</p>
 <figure class="table chapter-navigator">
@@ -355,7 +355,7 @@ Siguiendo con el informe sobre la hipótesis de formación de la imagen a partir
 
 Observe cómo estos últimos comentarios con respecto a la putrefacción son consistentes con lo que dice _El Libro de Urantia_ sobre este tema, específicamente, «una disolución especial y excepcional, una vuelta del «polvo al polvo», sin la intervención del paso del tiempo y sin el funcionamiento de los procesos ordinarios y visibles de la descomposición mortal y la corrupción material» [^36]
 
-La afirmación de _El Libro de Urantia_ de que «los restos mortales de Jesús sufrieron el mismo proceso natural de desintegración elemental que caracteriza a todos los cuerpos humanos en la Tierra, excepto que, en lo que se refiere al tiempo, este modo natural de disolución fue enormemente acelerado, apresurado hasta tal punto que se volvió casi instantáneo»\footnote{LU 189:2.8.}, al menos es sugestivo de algún tipo de proceso que involucra energía eléctrica. La «desintegración elemental» presumiblemente involucraría algún tipo de descarga eléctrica o aplicación de corriente eléctrica para acelerar la disolución del cuerpo.
+La afirmación de _El Libro de Urantia_ de que «los restos mortales de Jesús sufrieron el mismo proceso natural de desintegración elemental que caracteriza a todos los cuerpos humanos en la Tierra, excepto que, en lo que se refiere al tiempo, este modo natural de disolución fue enormemente acelerado, apresurado hasta tal punto que se volvió casi instantáneo», al menos es sugestivo de algún tipo de proceso que involucra energía eléctrica. [^37] La «desintegración elemental» presumiblemente involucraría algún tipo de descarga eléctrica o aplicación de corriente eléctrica para acelerar la disolución del cuerpo.
 
 ### Medicina nuclear
 
@@ -396,7 +396,7 @@ Varios aspectos de la fisiología son igualmente aparentes. «En sexto lugar, el
 <figcaption><b>Figura 10 (izquierda):</b> Imagen nuclear (Observe los huesos metacarpianos y las falanges que se observan en ambas imágenes).<b>Figura 11 (derecha):</b> Imagen del Sudario</figcaption>
 </figure>
 
-Una de las similitudes más sorprendentes se demuestra en la figura~\ref{fig:Shroud_img_7}. «Novena, la proyección isométrica (VP-8) de nuestras imágenes generadas, produjo una sorprendente similitud con la imagen VP-8 de la Síndone en la caída de los dedos izquierdos. Sabiendo que esto se debe a una caída de 75-80\% en la intensidad de la señal en nuestra imagen, no debe pasarse por alto su relevancia para el mismo fenómeno en la Síndone y se debe considerar seriamente que es una función de un efecto similar, es decir, una caída repentina dosimétrica de la señal o radiación».[^44]
+Una de las similitudes más sorprendentes se demuestra en las figuras 12 y 13. «Novena, la proyección isométrica (VP-8) de nuestras imágenes generadas, produjo una sorprendente similitud con la imagen VP-8 de la Síndone en la caída de los dedos izquierdos. Sabiendo que esto se debe a una caída de 75-80\% en la intensidad de la señal en nuestra imagen, no debe pasarse por alto su relevancia para el mismo fenómeno en la Síndone y se debe considerar seriamente que es una función de un efecto similar, es decir, una caída repentina dosimétrica de la señal o radiación».[^44]
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Shroud_of_Turin/Shroud_img_7.jpg">
@@ -421,9 +421,9 @@ En su «Lista de hechos y observaciones», estas investigaciones clasifican el m
 
 La lista está subdividida en cuatro tipos diferentes de evidencias:
 
-- El _tipo A_ se refiere a las observaciones incuestionables hechas en la Sábana Santa numeradas como «An» donde n es el número de evidencia;
-- El _tipo B_ se refiere a observaciones o conclusiones confirmadas basadas en una prueba hecha en referencia a estudios de la Sábana Santa y se numeran como «Bn»;
-- El _tipo C_ se refiere a hechos u observaciones que fueron evidenciados por algunos investigadores pero que no son aceptados universalmente y están numerados como «Cn»;
+- El **tipo A** se refiere a las observaciones incuestionables hechas en la Sábana Santa numeradas como «An» donde n es el número de evidencia;
+- El **tipo B** se refiere a observaciones o conclusiones confirmadas basadas en una prueba hecha en referencia a estudios de la Sábana Santa y se numeran como «Bn»;
+- El **tipo C** se refiere a hechos u observaciones que fueron evidenciados por algunos investigadores pero que no son aceptados universalmente y están numerados como «Cn»;
 - Suponiendo que la Sábana Santa es en realidad el entierro de Jesús de Nazaret, tiene sentido incluir las Escrituras en esta discusión, no a nivel teológico, sino describir algunas cosas que podrían tener un impacto en la Sábana Santa; por esta razón, el _tipo D_ se refiere a las correspondencias con aquellas descritas en los textos sagrados y se numeran como «Dn».
 
 Los siguientes son extractos seleccionados de esta lista. Debido a que este informe se centra en la formación de la imagen en la Sábana Santa, parte del material se deja fuera, sobre todo lo que se refiere a las correlaciones con respecto a la Sábana Santa que se utiliza en relación con alguien que fue azotado y crucificado. _El Libro de Urantia_ proporciona muchos detalles sobre estos eventos que se correlacionan con la Sábana Santa, pero abordarlos alargaría significativamente el informe sin aumentar verdaderamente el nivel de intriga.
