@@ -311,7 +311,7 @@ class Articles {
 			"'": ""
 		};
 		const correction2 = {
-			"[\\.,–\\(\\)—\\-]": "",
+			"[\\.,–\\(\\)—\\-/]": "",
 			"( +)": "-"
 		};
 		return new Promise((resolve, reject) => {

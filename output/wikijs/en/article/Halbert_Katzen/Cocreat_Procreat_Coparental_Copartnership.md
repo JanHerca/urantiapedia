@@ -3,7 +3,7 @@ title: "Cocreat- Procreat- Coparental (Co)partnership with God"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Gender, article
+tags: Gender, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---

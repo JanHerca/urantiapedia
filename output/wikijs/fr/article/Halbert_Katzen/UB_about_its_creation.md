@@ -3,7 +3,7 @@ title: "Que dit Le Livre d’Urantia à propos de sa création et de la période
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: The Urantia Book, The Urantia Book—Authorship, article
+tags: The Urantia Book, The Urantia Book—Authorship, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---

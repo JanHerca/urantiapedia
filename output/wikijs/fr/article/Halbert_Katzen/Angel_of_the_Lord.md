@@ -3,7 +3,7 @@ title: "Ange du Seigneur"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Angels and midwayers, Celestial beings, article
+tags: Angels and midwayers, Celestial beings, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---

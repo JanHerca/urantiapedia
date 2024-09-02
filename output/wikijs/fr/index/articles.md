@@ -430,8 +430,11 @@ Il convient de rappeler que les articles de toutes ces publications contiennent 
 				<div><small>Sources: <a href="https://ubannotated.com/main-menu/animated/Topical%20Studies/"><em>UB Annotated</em> topical studies</a>, <a href="https://ubannotated.com/ubthenews/reports_list/">Archives de <em>UBTheNews</em></a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Bientôt</strong></div></span>
+				<a href="/fr/index/articles_ubannotated" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/ub%20annotated" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
 				</a>
 			</div>
 		</div>

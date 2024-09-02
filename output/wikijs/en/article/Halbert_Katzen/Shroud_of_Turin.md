@@ -3,7 +3,7 @@ title: "Shroud of Turin Report"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Jesus, Jesus life, article
+tags: Jesus, Jesus life, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---

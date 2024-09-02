@@ -3,7 +3,7 @@ title: "Is The Urantia Book “gay friendly?”"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Gender, LGBT, The Urantia Book, article
+tags: Gender, LGBT, The Urantia Book, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---

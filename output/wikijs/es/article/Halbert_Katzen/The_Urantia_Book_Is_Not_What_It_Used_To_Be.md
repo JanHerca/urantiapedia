@@ -3,7 +3,7 @@ title: "El Libro de Urantia ya no es lo que solía ser"
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z
-tags: The Urantia Book, The Urantia Book—Errors, Science, Fellowship Herald, article
+tags: The Urantia Book, The Urantia Book—Errors, Science, Fellowship Herald, UB annotated, article
 editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---

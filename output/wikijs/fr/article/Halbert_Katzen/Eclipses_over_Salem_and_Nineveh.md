@@ -3,7 +3,7 @@ title: "Éclipses sur Salem et Ninive"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Bible, Astronomy, article
+tags: Bible, Astronomy, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---

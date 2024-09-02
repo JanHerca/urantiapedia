@@ -3,7 +3,7 @@ title: "Frases para cautivar al lector"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: The Urantia Book, article
+tags: The Urantia Book, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---

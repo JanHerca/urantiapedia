@@ -3,7 +3,7 @@ title: "Moïse a tué Ramsès III"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Bible, History, article
+tags: Bible, History, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---

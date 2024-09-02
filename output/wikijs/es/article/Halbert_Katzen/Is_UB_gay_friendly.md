@@ -1,9 +1,9 @@
 ---
-title: "¿Es El Libro de Urantia “amigable con los gays”?"
+title: "¿Es El Libro de Urantia «amigable con los gays»?"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Gender, LGBT, The Urantia Book, article
+tags: Gender, LGBT, The Urantia Book, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---

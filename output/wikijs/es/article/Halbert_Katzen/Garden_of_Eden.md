@@ -3,7 +3,7 @@ title: "El Jardín del Edén"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Geology, article
+tags: Geology, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
