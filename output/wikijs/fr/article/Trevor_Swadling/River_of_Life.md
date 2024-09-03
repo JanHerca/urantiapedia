@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Trevor Swadling<br>© 2019 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Nigel_Nunn/The_Inner_World_of_Mankind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le monde intérieur de l'humanité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Trevor Swadling
@@ -51,3 +72,25 @@ Dit le Très-Haut et le Saint
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2019/12/16/river-of-life)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Nigel_Nunn/The_Inner_World_of_Mankind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le monde intérieur de l'humanité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/Presidents_Report_Winter_2022">
+          <span class="pr-2">Rapport du président – Hiver 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -297,3 +318,25 @@ Certains groupes d'études incluent la participation virtuelle via Zoom si vous 
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/newsletter/arena-winter-2022/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/Presidents_Report_Winter_2022">
+          <span class="pr-2">Rapport du président – Hiver 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

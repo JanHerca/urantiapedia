@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Kathleen Swadling<br>© 2021 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/2022_Anzura_Annual_Conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence annuelle d'Anzura 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nigel_Nunn/We_Are_Because_I_AM">
+          <span class="pr-2">Nous sommes, parce que je suis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Kathleen Swadling, Sydney NSW
@@ -47,3 +71,28 @@ Merci à tous les travailleurs silencieux qui ont permis à cet événement d'av
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2022/01/01/2021-anzura-virtual-conference-report)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/2022_Anzura_Annual_Conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence annuelle d'Anzura 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nigel_Nunn/We_Are_Because_I_AM">
+          <span class="pr-2">Nous sommes, parce que je suis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

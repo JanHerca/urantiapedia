@@ -73,7 +73,7 @@ La plupart des rapports d'UBtheNEWS corroborent des informations trouvées dans 
 > 
 > Quand les sphères ignées ont moins du dixième de la taille de votre soleil, elles se contractent, se condensent et se refroidissent rapidement. Quand les soleils ont plus de trente fois sa taille — ou plutôt trente fois son contenu global de matériaux effectifs — ces soleils se scindent promptement en deux corps séparés qui peuvent soit devenir les centres de nouveaux systèmes, soit rester dans l’emprise de leur champ de gravité réciproque et tourner autour d’un centre commun, conformément à un type d’étoiles doubles.
 > 
-> La plus récente des éruptions cosmiques majeures dans Orvonton fut l’extraordinaire explosion d’une étoile double dont la lumière atteignit Urantia en 1572. La conflagration fut si intense que l’explosion était clairement visible en plein jour. ([LU 41:3.3-5](/fr/The_Urantia_Book/41#p3_3)) [^1]
+> La plus récente des éruptions cosmiques majeures dans Orvonton fut l’extraordinaire explosion d’une étoile double dont la lumière atteignit Urantia en 1572. La conflagration fut si intense que l’explosion était clairement visible en plein jour. (<a id="a75_248"></a>[LU 41:3.3-5](/fr/The_Urantia_Book/41#p3_3)) [^1]
 
 Pour apprécier à quel point cette déclaration, publiée dans _Le Livre d'Urantia_ en 1955, était en avance sur la science, il faut acquérir à la fois une compréhension générale de la façon dont la science s'est développée concernant les supernovae et une compréhension spécifique de la façon dont cette histoire de la science se rapporte à la Nova de Tycho, l'explosion de supernovae de 1572 à laquelle _Le Livre d'Urantia_ fait référence. Mais, avant d'apprendre l'histoire des supernovae en général et de la Nova de Tycho en particulier, nous commencerons par définir ce qu'est une étoile double. Les citations suivantes de Wikipédia fournissent une description de base d'une étoile double et indiquent comment « double » et « binaire » sont utilisés de manière interchangeable en référence à cet événement :
 
@@ -200,7 +200,7 @@ Citations du Livre d'Urantia :
 > 
 > Quand les sphères ignées ont moins du dixième de la taille de votre soleil, elles se contractent, se condensent et se refroidissent rapidement. Quand les soleils ont plus de trente fois sa taille — ou plutôt trente fois son contenu global de matériaux effectifs — ces soleils se scindent promptement en deux corps séparés qui peuvent soit devenir les centres de nouveaux systèmes, soit rester dans l’emprise de leur champ de gravité réciproque et tourner autour d’un centre commun, conformément à un type d’étoiles doubles.
 > 
-> La plus récente des éruptions cosmiques majeures dans Orvonton fut l’extraordinaire explosion d’une étoile double dont la lumière atteignit Urantia en 1572. La conflagration fut si intense que l’explosion était clairement visible en plein jour. ([LU 41:3.3-5](/fr/The_Urantia_Book/41#p3_3))
+> La plus récente des éruptions cosmiques majeures dans Orvonton fut l’extraordinaire explosion d’une étoile double dont la lumière atteignit Urantia en 1572. La conflagration fut si intense que l’explosion était clairement visible en plein jour. (<a id="a202_248"></a>[LU 41:3.3-5](/fr/The_Urantia_Book/41#p3_3))
 
 - http://www.nature.com/nature/journal/v431/n7012/abs/nature03006.html (Bref résumé)
 - http://www.solstation.com/x-objects/tycho-s.htm (meilleur résumé et lien ressource)

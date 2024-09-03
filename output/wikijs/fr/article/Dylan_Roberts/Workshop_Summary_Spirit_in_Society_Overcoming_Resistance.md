@@ -9,6 +9,30 @@ dateCreated: 2023-11-05T01:11:28.972Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Dylan Roberts<br>© 2020 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Virtual_Study_Groups_and_Conferences">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Groupes d'étude et conférences virtuelles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'arène-automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Arène – Automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nigel_Nunn/Other_and_Higher_Frames">
+          <span class="pr-2">Autres cadres et cadres supérieurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Dylan Roberts, ACT
@@ -82,3 +106,28 @@ Canberra
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2019/11/21/workshop-summary-spirit-society-overcoming-resistance)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Virtual_Study_Groups_and_Conferences">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Groupes d'étude et conférences virtuelles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'arène-automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Arène – Automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nigel_Nunn/Other_and_Higher_Frames">
+          <span class="pr-2">Autres cadres et cadres supérieurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

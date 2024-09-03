@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Marion Steward<br>© 2020 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/Presidents_Report_Summer_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du président – Été 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Norman_Weiss_and_Diana_Whakapapa/Post_Covid_19_Spirituality">
+          <span class="pr-2">Spiritualité post-Covid 19</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Marion Steward, Nouvelle-Zélande
@@ -124,11 +148,11 @@ Une approche pourrait être de souligner la chronologie du livre et de souligner
 
 En ce qui concerne l'utilisation d'un langage insensible, le livre dit ceci, à partir du document 81, Développement de la civilisation moderne :
 
-> _L’efficacité du langage. ... Des langues qui vivent et qui s’enrichissent assurent l’expansion de la pensée et des projets civilisés. Durant les âges primitifs, d’importants progrès furent apportés au langage. Aujourd’hui, il y a grand besoin d’un développement linguistique additionnel pour faciliter l’expression de la pensée en évolution._ (<a id="a126_347"></a>[LU 81:6.16](/fr/The_Urantia_Book/81#p6_16))
+> _L’efficacité du langage. ... Des langues qui vivent et qui s’enrichissent assurent l’expansion de la pensée et des projets civilisés. Durant les âges primitifs, d’importants progrès furent apportés au langage. Aujourd’hui, il y a grand besoin d’un développement linguistique additionnel pour faciliter l’expression de la pensée en évolution._ (<a id="a150_347"></a>[LU 81:6.16](/fr/The_Urantia_Book/81#p6_16))
 
 J'ajouterais que l'utilisation croissante d'un langage inclusif et non discriminatoire améliore également la manière dont les personnes handicapées sont perçues et traitées. Jésus a démontré son point de vue à ce sujet lors de la purification du Temple, comme décrit ci-dessous :
 
-> _Au moment où Jésus allait commencer son allocution, deux incidents se produisirent qui attirèrent son attention. Au comptoir d’un changeur voisin, une discussion violente et animée s’était élevée à propos d’une commission trop élevée demandée à un Juif d’Alexandrie, et, au même instant, l’air était déchiré par les beuglements d’une centaine de bœufs que l’on transférait d’une section du parc à bestiaux à une autre. Tandis que Jésus s’arrêtait en contemplant silencieusement, mais méditativement, cette scène de commerce et de confusion, **il aperçut près de lui un candide Galiléen à qui il avait parlé à Iron, et que des Judéens, arrogants et se prétendant supérieurs, ridiculisaient et bousculaient**. Tout ceci se conjugua dans l’âme de Jésus pour provoquer l’un de ces étranges accès d’indignation émotive qui le prenaient périodiquement._ (<a id="a130_852"></a>[LU 173:1.6](/fr/The_Urantia_Book/173#p1_6))
+> _Au moment où Jésus allait commencer son allocution, deux incidents se produisirent qui attirèrent son attention. Au comptoir d’un changeur voisin, une discussion violente et animée s’était élevée à propos d’une commission trop élevée demandée à un Juif d’Alexandrie, et, au même instant, l’air était déchiré par les beuglements d’une centaine de bœufs que l’on transférait d’une section du parc à bestiaux à une autre. Tandis que Jésus s’arrêtait en contemplant silencieusement, mais méditativement, cette scène de commerce et de confusion, **il aperçut près de lui un candide Galiléen à qui il avait parlé à Iron, et que des Judéens, arrogants et se prétendant supérieurs, ridiculisaient et bousculaient**. Tout ceci se conjugua dans l’âme de Jésus pour provoquer l’un de ces étranges accès d’indignation émotive qui le prenaient périodiquement._ (<a id="a154_852"></a>[LU 173:1.6](/fr/The_Urantia_Book/173#p1_6))
 
 En fin de compte, la communication se fait principalement entre individus, et je pense qu'ici nous devons simplement prêter attention à ce que Jésus a ressenti lorsqu'il a observé comment cette personne a été traitée, et nous assurer de traiter chaque personne, quel que soit son niveau de capacité, comme une sœur ou un frère spirituel, et choisir nos mots avec soin afin de ne pas causer de tort.
 
@@ -148,3 +172,28 @@ En fin de compte, la communication se fait principalement entre individus, et je
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2021/02/10/language-matters)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/Presidents_Report_Summer_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du président – Été 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Norman_Weiss_and_Diana_Whakapapa/Post_Covid_19_Spirituality">
+          <span class="pr-2">Spiritualité post-Covid 19</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

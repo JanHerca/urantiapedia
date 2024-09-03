@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/Sydney_Conference_Reminder_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rappel de la conférence de Sydney – 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Arena/Mining_the_Archives">
+          <span class="pr-2">Exploitation des archives</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -30,11 +54,11 @@ Ils qualifient le matériel disponible de « pauvre », bien qu’ils conviennen
 
 > _…« Comme il est pur et beau, comme il est profond et insondable, l’Ancêtre céleste de toutes choses ! »_
 > 
-> _« L’Infini est le plus excellent en ce qu’il se communique aux hommes… »_ <a id="a32_77"></a>[LU 2:1.2](/fr/The_Urantia_Book/2#p1_2)
+> _« L’Infini est le plus excellent en ce qu’il se communique aux hommes… »_ <a id="a56_77"></a>[LU 2:1.2](/fr/The_Urantia_Book/2#p1_2)
 > 
-> _…Le Père Universel ne se repent pas de ses desseins originels de sagesse et de perfection. Ses plans sont inébranlables, ses conseils immuables, tandis que ses actes sont divins et infaillibles_. <a id="a34_199"></a>[LU 2:2.2](/fr/The_Urantia_Book/2#p2_2)
+> _…Le Père Universel ne se repent pas de ses desseins originels de sagesse et de perfection. Ses plans sont inébranlables, ses conseils immuables, tandis que ses actes sont divins et infaillibles_. <a id="a58_199"></a>[LU 2:2.2](/fr/The_Urantia_Book/2#p2_2)
 > 
-> _Quelle futilité de faire des appels puérils à un tel Dieu pour qu'il modifie ses décrets immuables afin que nous puissions éviter les justes conséquences de l'application de ses sages lois naturelles et de ses justes mandats spirituels ! « Ne vous y trompez pas : on ne se moque pas de Dieu, car ce qu'un homme aura semé, il le moissonnera aussi. »_ <a id="a36_353"></a>[LU 2:3.2](/fr/The_Urantia_Book/2#p3_2)
+> _Quelle futilité de faire des appels puérils à un tel Dieu pour qu'il modifie ses décrets immuables afin que nous puissions éviter les justes conséquences de l'application de ses sages lois naturelles et de ses justes mandats spirituels ! « Ne vous y trompez pas : on ne se moque pas de Dieu, car ce qu'un homme aura semé, il le moissonnera aussi. »_ <a id="a60_353"></a>[LU 2:3.2](/fr/The_Urantia_Book/2#p3_2)
 
 Ils répètent sans cesse que leurs efforts pour transmettre ces concepts élevés sont entravés par la capacité limitée de notre esprit, le langage inadéquat pour décrire les valeurs divines, etc. Les révélateurs doivent savoir que nous sommes impressionnés par ce qu'ils ont trouvé. Leurs efforts sont totalement appréciés !
 
@@ -46,11 +70,11 @@ L’un de nos petits groupes – André – nous a rappelé que Jésus avait –
 
 En tout cas, nous saluons la gaieté avec laquelle le Divin Conseiller a exécuté son mandat, ainsi que sa façon de « nous tirer vers le haut » en disant :
 
-> ***Combien vous êtes déraisonnables*** _de ne pas adorer Dieu parce que les limitations de la nature humaine et les handicaps de votre création matérielle vous empêchent de le voir. ... arrêtez-vous et méditez le fait solennel que Dieu vit en vous. À sa propre manière, il a déjà jeté un pont sur l’abime. Il a envoyé quelque chose de lui, son esprit, pour vivre en vous et peiner avec vous pendant que vous poursuivez votre carrière éternelle dans l’univers._ (<a id="a48_464"></a>[LU 2:5.6](/fr/The_Urantia_Book/2#p5_6))
+> ***Combien vous êtes déraisonnables*** _de ne pas adorer Dieu parce que les limitations de la nature humaine et les handicaps de votre création matérielle vous empêchent de le voir. ... arrêtez-vous et méditez le fait solennel que Dieu vit en vous. À sa propre manière, il a déjà jeté un pont sur l’abime. Il a envoyé quelque chose de lui, son esprit, pour vivre en vous et peiner avec vous pendant que vous poursuivez votre carrière éternelle dans l’univers._ (<a id="a72_464"></a>[LU 2:5.6](/fr/The_Urantia_Book/2#p5_6))
 
 Et nous poursuivrons notre carrière éternelle, en gardant à l'esprit l'importance primordiale en ce moment, de montrer au monde un tel équilibre dans notre vie quotidienne qui, en plus de nos mandats moraux, soulignerait…
 
-> _...une considération égale aux vérités de la science, de la philosophie et de l’expérience spirituelle, aux beautés de la création physique, au charme de l’art intellectuel et à la grandeur de l’accomplissement d’authentiques caractères._ (<a id="a52_243"></a>[LU 2:7.9](/fr/The_Urantia_Book/2#p7_9))
+> _...une considération égale aux vérités de la science, de la philosophie et de l’expérience spirituelle, aux beautés de la création physique, au charme de l’art intellectuel et à la grandeur de l’accomplissement d’authentiques caractères._ (<a id="a76_243"></a>[LU 2:7.9](/fr/The_Urantia_Book/2#p7_9))
 
 Ce ne serait pas fabuleux !
 
@@ -102,43 +126,43 @@ La nature de Dieu est énoncée dans le premier paragraphe et établie comme la 
 La manifestation la plus profonde de Dieu – lorsque Dieu devient homme – cet homme est Jésus.
 <br style="clear:both;"/>
 
-> _...la plus illuminante et la plus spirituellement édifiante en comprenant la vie religieuse de Jésus de Nazareth avant et après qu’il eut atteint la pleine conscience de sa divinité._ (<a id="a104_188"></a>[LU 2:0.2](/fr/The_Urantia_Book/2#p0_2))
+> _...la plus illuminante et la plus spirituellement édifiante en comprenant la vie religieuse de Jésus de Nazareth avant et après qu’il eut atteint la pleine conscience de sa divinité._ (<a id="a128_188"></a>[LU 2:0.2](/fr/The_Urantia_Book/2#p0_2))
 
 L’Apocalypse nous enseigne à chacun que Dieu est devenu l’un de nous et a vécu une vie mortelle comme nous tous, a atteint la perfection jusqu’à l’épuisement des potentiels de suprématie comme c’est ouvert à tous ceux qui choisissent de vivre par la foi au Père Universel. Consécration totale de la volonté à l’accomplissement de la volonté du Père – **consécration du choix**.
 
-> ***La foi emmène bien volontiers*** _la raison aussi loin que la raison peut aller ; la foi continue ensuite son chemin avec la sagesse jusqu’à sa pleine limite philosophique ; après cela, elle ose se lancer dans le voyage sans limites et sans fin de l’univers, en seule compagnie de la VÉRITÉ._ (<a id="a108_299"></a>[LU 103:9.7](/fr/The_Urantia_Book/103#p9_7))
+> ***La foi emmène bien volontiers*** _la raison aussi loin que la raison peut aller ; la foi continue ensuite son chemin avec la sagesse jusqu’à sa pleine limite philosophique ; après cela, elle ose se lancer dans le voyage sans limites et sans fin de l’univers, en seule compagnie de la VÉRITÉ._ (<a id="a132_299"></a>[LU 103:9.7](/fr/The_Urantia_Book/103#p9_7))
 
 Cet article s’efforce d’élargir le concept humain de Dieu du lecteur en employant le mécanisme brut des symboles de mots, _«… les symboles de mots humains certaines idées et idéaux concernant la nature divine… »_ pour gagner en enregistrement dans l’esprit du lecteur. Après tout, la réponse de reconnaissance dépend de la diminution de la résistance à l’appel de l’esprit intérieur – un exercice de foi. Le Conseiller Divin agissant par l’autorité des Anciens des Jours sur Uversa, qui est l’auteur de cet article, est conscient des limites mortelles – la tentative de transmettre la vérité à une créature du statut le **plus bas** de l’univers avec la capacité de comprendre Dieu – un mortel d’origine animale – mais qui est toujours principalement de nature animale. Le Conseiller Divin déclare franchement,
 
-> _...Toutes nos tentatives pour amplifier le concept humain de Dieu seraient à peu près futiles si le mental humain n’était pas habité par l’Ajusteur effusé par le Père Universel et s’il n’était pas pénétré par l’Esprit de Vérité du Fils Créateur...._ (<a id="a112_254"></a>[LU 2:0.3](/fr/The_Urantia_Book/2#p0_3))
+> _...Toutes nos tentatives pour amplifier le concept humain de Dieu seraient à peu près futiles si le mental humain n’était pas habité par l’Ajusteur effusé par le Père Universel et s’il n’était pas pénétré par l’Esprit de Vérité du Fils Créateur...._ (<a id="a136_254"></a>[LU 2:0.3](/fr/The_Urantia_Book/2#p0_3))
 
-> _...des populations ***d’origine animale***. Une fois seulement dans sa carrière septuple de Fils d’effusion, un Micaël du Paradis nait de femme comme dans votre histoire du nouveau-né de Bethléem. Il ne vit et ne meurt qu’une fois comme membre du ***plus humble*** ordre de créatures évolutionnaires douées de volonté._ (<a id="a114_324"></a>[LU 21:4.3](/fr/The_Urantia_Book/21#p4_3))
+> _...des populations ***d’origine animale***. Une fois seulement dans sa carrière septuple de Fils d’effusion, un Micaël du Paradis nait de femme comme dans votre histoire du nouveau-né de Bethléem. Il ne vit et ne meurt qu’une fois comme membre du ***plus humble*** ordre de créatures évolutionnaires douées de volonté._ (<a id="a138_324"></a>[LU 21:4.3](/fr/The_Urantia_Book/21#p4_3))
 
 En effet, comme le dit le contenu de cet article, l’acceptation humble de la filiation est une condition préalable à l’illumination :
 
-> « _« Le royaume de Dieu est en vous. » C’est probablement ***la plus grande proclamation*** que Jésus ait jamais faite, après la déclaration que son Père est un esprit vivant et aimant._ » (<a id="a118_192"></a>[LU 195:10.4](/fr/The_Urantia_Book/195#p10_4))
+> « _« Le royaume de Dieu est en vous. » C’est probablement ***la plus grande proclamation*** que Jésus ait jamais faite, après la déclaration que son Père est un esprit vivant et aimant._ » (<a id="a142_192"></a>[LU 195:10.4](/fr/The_Urantia_Book/195#p10_4))
 
 Sur une telle base, le Divin Conseiller poursuit _joyeusement_ sa tentative d'éclairer l'esprit du lecteur
 
-> « _...j’entreprends allègrement d’exécuter mon mandat d’essayer de dépeindre plus complètement la nature de Dieu au mental humain._ » (<a id="a122_137"></a>[LU 2:0.3](/fr/The_Urantia_Book/2#p0_3))
+> « _...j’entreprends allègrement d’exécuter mon mandat d’essayer de dépeindre plus complètement la nature de Dieu au mental humain._ » (<a id="a146_137"></a>[LU 2:0.3](/fr/The_Urantia_Book/2#p0_3))
 
 Ce qui suit éclaire les caractéristiques suivantes de la nature divine :
 
 **Infini de Dieu**
 
-> « _Il est le commencement et la fin, le Père de tout dessein bon et parfait. » « Avec Dieu, toutes choses sont possibles. L’éternel Créateur est la cause des causes._ » (<a id="a128_172"></a>[LU 2:1.2](/fr/The_Urantia_Book/2#p1_2))
+> « _Il est le commencement et la fin, le Père de tout dessein bon et parfait. » « Avec Dieu, toutes choses sont possibles. L’éternel Créateur est la cause des causes._ » (<a id="a152_172"></a>[LU 2:1.2](/fr/The_Urantia_Book/2#p1_2))
 
 **Perfection de Dieu**
 
 > « _...Dieu est littéralement et éternellement présent dans son univers des univers. Il habite le moment présent avec toute sa majesté absolue et sa grandeur éternelle_”. “_Le Père a la vie en lui-même, et cette vie est la vie éternelle.” Tout au long des âges éternels, c’est le Père qui “donne à tous la vie_”. _“…La perfection de la divinité et la grandeur de l’éternité sont à jamais au-delà de la pleine compréhension de l’esprit circonscrit de l’homme mortel…_ »
 > 
-> _C’est là le véritable sens de ce commandement divin : « Soyez parfaits comme je suis parfait », qui pousse toujours l’homme mortel en avant et l’invite à se tourner vers l’intérieur dans cette longue et fascinante lutte pour atteindre des niveaux de plus en plus élevés de valeurs spirituelles et de véritables significations de l’univers. Cette sublime quête du Dieu des univers est l’aventure suprême des habitants de tous les mondes du temps et de l’espace._ (<a id="a134_466"></a>[LU 1:0.6](/fr/The_Urantia_Book/1#p0_6))
+> _C’est là le véritable sens de ce commandement divin : « Soyez parfaits comme je suis parfait », qui pousse toujours l’homme mortel en avant et l’invite à se tourner vers l’intérieur dans cette longue et fascinante lutte pour atteindre des niveaux de plus en plus élevés de valeurs spirituelles et de véritables significations de l’univers. Cette sublime quête du Dieu des univers est l’aventure suprême des habitants de tous les mondes du temps et de l’espace._ (<a id="a158_466"></a>[LU 1:0.6](/fr/The_Urantia_Book/1#p0_6))
 
 **Justice et droiture de Dieu**
 
 > « _…La justice du Père Universel ne peut être influencée par les actes et les performances de ses créatures, « car il n’y a pas d’iniquité chez le Seigneur notre Dieu, ni acception de personnes, ni acceptation de dons. »_ »
 > 
-> _La justice suprême est dominée par un amour de Père, et c’est pourquoi la justice ne détruira jamais ce ***que la miséricorde*** peut sauver. Le temps nécessaire pour accepter le salut est accordé à tout malfaiteur._ (<a id="a140_221"></a>[LU 54:5.3](/fr/The_Urantia_Book/54#p5_3))
+> _La justice suprême est dominée par un amour de Père, et c’est pourquoi la justice ne détruira jamais ce ***que la miséricorde*** peut sauver. Le temps nécessaire pour accepter le salut est accordé à tout malfaiteur._ (<a id="a164_221"></a>[LU 54:5.3](/fr/The_Urantia_Book/54#p5_3))
 
 **La miséricorde de Dieu**
 
@@ -148,7 +172,7 @@ Ce qui suit éclaire les caractéristiques suivantes de la nature divine :
 
 > « _…L’expérience d’aimer est en grande partie une réponse directe à l’expérience d’être aimé. Savoir que Dieu m’aime… » _ _« … **Dieu est amour**, mais l’amour n’est pas Dieu._
 > 
-> _L’***amour*** infini de Dieu ***tient la première*** place dans la nature divine._ (<a id="a150_87"></a>[LU 188:4.8](/fr/The_Urantia_Book/188#p4_8))
+> _L’***amour*** infini de Dieu ***tient la première*** place dans la nature divine._ (<a id="a174_87"></a>[LU 188:4.8](/fr/The_Urantia_Book/188#p4_8))
 
 **La bonté de Dieu**
 
@@ -156,13 +180,38 @@ Ce qui suit éclaire les caractéristiques suivantes de la nature divine :
 
 **Vérité et Beauté Divines**
 
-> ***Toute vérité*** — _matérielle, philosophique ou spirituelle — est à la fois belle et bonne. ***Toute beauté réelle*** — art matériel ou symétrie spirituelle — est à la fois vraie et bonne. ***Toute bonté authentique*** — qu’il s’agisse de moralité personnelle, d’équité sociale ou de ministère divin — est également vraie et belle. Santé physique, santé mentale et bonheur sont des intégrations de vérité, de beauté et de bonté fondues dans l’expérience humaine. Ces niveaux de vie efficace s’atteignent en unifiant les systèmes d’énergie, les systèmes d’idées et les systèmes d’esprit._ (<a id="a158_594"></a>[LU 2:7.11](/fr/The_Urantia_Book/2#p7_11))
+> ***Toute vérité*** — _matérielle, philosophique ou spirituelle — est à la fois belle et bonne. ***Toute beauté réelle*** — art matériel ou symétrie spirituelle — est à la fois vraie et bonne. ***Toute bonté authentique*** — qu’il s’agisse de moralité personnelle, d’équité sociale ou de ministère divin — est également vraie et belle. Santé physique, santé mentale et bonheur sont des intégrations de vérité, de beauté et de bonté fondues dans l’expérience humaine. Ces niveaux de vie efficace s’atteignent en unifiant les systèmes d’énergie, les systèmes d’idées et les systèmes d’esprit._ (<a id="a182_594"></a>[LU 2:7.11](/fr/The_Urantia_Book/2#p7_11))
 
 La lecture de cet article a été une _éducation_
 
-> _Le véritable but de toute ***éducation*** dans l’univers est de mieux coordonner les enfants isolés des mondes avec les plus grandes réalités de leur expérience croissante. La réalité est finie au niveau humain, elle est infinie et éternelle aux niveaux supérieurs et divins._ (<a id="a162_281"></a>[LU 2:7.12](/fr/The_Urantia_Book/2#p7_12))
+> _Le véritable but de toute ***éducation*** dans l’univers est de mieux coordonner les enfants isolés des mondes avec les plus grandes réalités de leur expérience croissante. La réalité est finie au niveau humain, elle est infinie et éternelle aux niveaux supérieurs et divins._ (<a id="a186_281"></a>[LU 2:7.12](/fr/The_Urantia_Book/2#p7_12))
 
 ## Références
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2021/07/29/study-day-2021-reflections)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/Sydney_Conference_Reminder_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rappel de la conférence de Sydney – 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Arena/Mining_the_Archives">
+          <span class="pr-2">Exploitation des archives</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

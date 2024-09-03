@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/Presidents_Report_Summer_2020">
+          <span class="pr-2">Rapport du président – Été 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -85,12 +106,12 @@ Nous vous invitons à nous rejoindre à la conférence annuelle 2021 de l'ANZURA
 
 ### À propos du thème
 
-> _La vérité est cohérente, la beauté est attrayante, la bonté est stabilisante. Et, quand ces trois valeurs de la réalité sont coordonnées dans l’expérience d’une personnalité, il en résulte une haute qualité d’amour, conditionnée par la sagesse et qualifiée par la loyauté._ (<a id="a87_278"></a>[LU 2:7.12](/fr/The_Urantia_Book/2#p7_12))
+> _La vérité est cohérente, la beauté est attrayante, la bonté est stabilisante. Et, quand ces trois valeurs de la réalité sont coordonnées dans l’expérience d’une personnalité, il en résulte une haute qualité d’amour, conditionnée par la sagesse et qualifiée par la loyauté._ (<a id="a108_278"></a>[LU 2:7.12](/fr/The_Urantia_Book/2#p7_12))
 
 Lorsque nous nous lançons dans la quête de la plus haute valeur et éliminons les aspects égoïstes de l'amour, nous avons le potentiel de contribuer à la création d'une réalité finie à notre manière incroyablement unique. Lorsque nous devenons plus réels, plus équilibrés dans nos personnalités, nous nous rapprochons de la compréhension que la clé de voûte de la réalité est la plus haute valeur de toutes : la bonté de l'amour.
 
 
-> _...Si donc l’homme veut s’approcher de Dieu aussi près et aussi affectueusement que possible, il doit le faire par l’amour, car Dieu est amour._ (<a id="a92_149"></a>[LU 3:4.7](/fr/The_Urantia_Book/3#p4_7))
+> _...Si donc l’homme veut s’approcher de Dieu aussi près et aussi affectueusement que possible, il doit le faire par l’amour, car Dieu est amour._ (<a id="a113_149"></a>[LU 3:4.7](/fr/The_Urantia_Book/3#p4_7))
 
 ### Lieu
 
@@ -193,7 +214,7 @@ _(Présenté lors de la conférence en ligne ANZURA d'octobre 2020)_
 
 Le COVID-19 a mis le monde entier à rude épreuve. L’une des raisons pour lesquelles un virus comme celui-ci est si difficile à gérer est qu’il affecte la vie des gens de manière très mortelle. La menace de mourir soudainement suscite une profonde anxiété chez les gens. Ils se demandent : suis-je prêt ? Suis-je préparé ? Qu’en est-il de ceux que je laisse derrière moi ? Ai-je fait assez pour mériter ma place dans le plan d’ascension ? Alors que d’autres s’inquiètent davantage des sanctions restrictives imposées par leur gouvernement à leur liberté. Ils s’inquiètent également de l’impact des confinements prolongés sur notre vie économique.
 
-En bref, cet épisode de COVID 19 a menacé la société moderne avec les **incertitudes de la vie**. _Le Livre d'Urantia_ nous dit que, _Toute vie de créature est assaillie par certaines inévitabilités._ (<a id="a195_202"></a>[LU 3:5.5](/fr/The_Urantia_Book/3#p5_5)) Nous ne pouvons éviter les vicissitudes de l'existence, ni les incertitudes de la vie.
+En bref, cet épisode de COVID 19 a menacé la société moderne avec les **incertitudes de la vie**. _Le Livre d'Urantia_ nous dit que, _Toute vie de créature est assaillie par certaines inévitabilités._ (<a id="a216_202"></a>[LU 3:5.5](/fr/The_Urantia_Book/3#p5_5)) Nous ne pouvons éviter les vicissitudes de l'existence, ni les incertitudes de la vie.
 
 Nous vivons dans un monde imparfait et parfois de mauvaises choses arrivent, mais le Livre d'Urantia nous dit que ces incertitudes et ces vicissitudes nous offrent, à nous les mortels, l'occasion de développer des qualités telles que le courage, l'espoir, la foi, l'idéalisme, la loyauté et l'altruisme. Des temps difficiles comme ceux-ci peuvent souvent faire mûrir en nous les « fruits de l'Esprit ». J'aimerais donc que vous considériez qu'en raison de la COVID 19, nous avons la possibilité de mettre en œuvre des changements pour un avenir meilleur une fois que tout cela sera passé.
 
@@ -243,7 +264,7 @@ Une cosmologie imprégnée de sens et de valeur, éclipsant dans sa portée notr
 Mais, juste après avoir ainsi remué nos âmes, ces auteurs jettent de l'eau froide sur nos attentes. Extrait de la section 4 du devoir 101 :
 <br style="clear:both;"/>
 
-> _...beaucoup de nos affirmations concernant les sciences physiques auront besoin d’être revues, à la suite de développements scientifiques additionnels et de découvertes nouvelles._ (<a id="a245_185"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2))
+> _...beaucoup de nos affirmations concernant les sciences physiques auront besoin d’être revues, à la suite de développements scientifiques additionnels et de découvertes nouvelles._ (<a id="a266_185"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2))
 
 « Il faudra la réviser ». Comparée à la cosmologie consensuelle actuelle, selon laquelle l’univers est jeune et commence par un Big Bang chaud, la cosmologie du Livre d’Urantia est si peu orthodoxe et si apparemment fausse que certains étudiants de ces fascicules voient maintenant cette cosmologie comme un simple ornement pour les thèmes plus importants du livre : ses révélations spirituelles et philosophiques. Mais jetez un autre coup d’œil à ces « Limitations de la révélation » discutées dans le Fascicule 101. Immédiatement après avoir déclaré que, en ce qui concerne les faits scientifiques, ils étaient limités dans ce qu’ils pouvaient révéler, ils continuent en énumérant un certain nombre de choses qu’ils étaient autorisés à faire. La première d’entre elles est particulièrement intéressante. Encore une fois, d’après la section 4 du Fascicule 101 :
 
@@ -275,7 +296,7 @@ Cécilia Ann Bendall, TAS
 <img src="/image/article/The_Arena/Cecilia-Ann-Bendall-249x300.jpg" alt="Cecilia Ann Bendall">
 </figure>
 
-L'un des rares sujets qui, nous dit-on, a poussé Jésus à être _agité dans son esprit_ était la conclusion que nous devrions tous voir de la même manière. Lorsque Jacques Zébédée lui a demandé _Maître, comment allons-nous apprendre à voir de la même manière et ainsi profiter d'une plus grande harmonie entre nous ?_ (<a id="a277_317"></a>[LU 141:5.1](/fr/The_Urantia_Book/141#p5_1)) Jésus a répondu :
+L'un des rares sujets qui, nous dit-on, a poussé Jésus à être _agité dans son esprit_ était la conclusion que nous devrions tous voir de la même manière. Lorsque Jacques Zébédée lui a demandé _Maître, comment allons-nous apprendre à voir de la même manière et ainsi profiter d'une plus grande harmonie entre nous ?_ (<a id="a298_317"></a>[LU 141:5.1](/fr/The_Urantia_Book/141#p5_1)) Jésus a répondu :
 <br style="clear:both;"/>
 
 > _« Jacques, Jacques, quand vous ai-je enseigné que vous devriez tous voir de la même manière ? Je suis venu dans le monde pour proclamer la liberté spirituelle afin que les mortels puissent être habilités à vivre une vie individuelle d’originalité et de liberté devant Dieu. Je ne désire pas que l’harmonie sociale et la paix fraternelle soient achetées par le sacrifice d’une personnalité libre et d’une originalité spirituelle. Ce que j’exige de vous, mes apôtres, c’est l’unité spirituelle – et que vous puissiez en faire l’expérience dans la joie de votre dévouement unifié à l’accomplissement sans réserve de la volonté de mon Père céleste. Vous n’avez pas besoin de voir de la même manière, de ressentir de la même manière ou même de penser de la même manière pour être spirituellement semblables. L’unité spirituelle découle de la conscience que chacun de vous est habité et de plus en plus dominé par le don spirituel du Père céleste. Votre harmonie apostolique doit naître du fait que l’espérance spirituelle de chacun de vous est identique en origine, en nature et en destinée._
@@ -298,7 +319,7 @@ Chris Moseley, Angleterre
 Le concept d’« esprit » en lui-même, dans le sens abstrait et illimité du terme, n’implique pas le libre arbitre, mais l’esprit individuel, l’esprit mortel, possède le libre arbitre comme élément indissociable et déterminant. Dans le passage de la page 1216 intitulé _L’arène mentale du choix_, on trouve une phrase frappante qui exprime presque le noyau de toute la condition humaine :
 <br style="clear:both;"/>
 
-> _La conscience humaine repose doucement sur le mécanisme électrochimique sous-jacent, et touche délicatement le système énergétique morontiel-spirituel sur-jacent._ (<a id="a300_168"></a>[LU 111:1.5](/fr/The_Urantia_Book/111#p1_5))
+> _La conscience humaine repose doucement sur le mécanisme électrochimique sous-jacent, et touche délicatement le système énergétique morontiel-spirituel sur-jacent._ (<a id="a321_168"></a>[LU 111:1.5](/fr/The_Urantia_Book/111#p1_5))
 
 Vu sous cet angle, l’être humain semble être une créature parfaitement équilibrée ; l’existence quotidienne est mystérieusement fragile ; et les graves responsabilités qu’impliquent tous les choix que nous faisons sont nombreuses !
 
@@ -407,3 +428,25 @@ Certains groupes d’étude incluent une participation virtuelle via Zoom si vou
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/newsletter/arena-summer-2020/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/Presidents_Report_Summer_2020">
+          <span class="pr-2">Rapport du président – Été 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

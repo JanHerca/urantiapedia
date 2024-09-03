@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 William Wentworth<br>© 2019 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_New_Approach_to_Revelation_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une nouvelle approche de la révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jordan_B_Peterson/Existentialism_in_Australia_and_New_Zealand">
+          <span class="pr-2">L'existentialisme en Australie et en Nouvelle-Zélande</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par William Wentworth, Australie
@@ -46,7 +70,7 @@ Nébadon, et peut-être Orvonton et le Grand Univers tout entier, appliquent ce 
 En fait, il ne sert à rien d’attendre les mondes des maisons, car les mêmes efforts nous seront probablement demandés là-bas. Nous n’apprenons rien simplement en étant morontiens. Nous devons encore apprendre à faire ce que nous ne pouvons pas faire en le faisant, en apprenant de nos erreurs et en développant une capacité accrue à apprendre en essayant. Nous lutterons toujours pour comprendre ce qui nous dépasse en tant que morontiens, et probablement aussi en tant qu’esprits dans le superunivers, et peut-être même en tant que finalitaires, et la méthode est toujours la même. Essayez de comprendre, et l’effort d’essayer augmente la capacité de comprendre. Alors, nous pourrions aussi bien commencer maintenant, sans oublier que…
 <br style="clear:both;"/>
 
-> _En liaison avec Dieu, rien — absolument rien — n’est impossible._ (<a id="a48_70"></a>[LU 26:5.3](/fr/The_Urantia_Book/26#p5_3))
+> _En liaison avec Dieu, rien — absolument rien — n’est impossible._ (<a id="a72_70"></a>[LU 26:5.3](/fr/The_Urantia_Book/26#p5_3))
 
 Il semble clair qu’un cadre de référence planétaire commun est fondamental pour le progrès planétaire futur. Le thème de la conférence, « Les échos de l’Éden », a pour but de stimuler la réflexion sur les cultures existantes d’Urantia et leurs hypothèses sous-jacentes. Nous invitons les participants à la conférence à essayer d’imaginer les implications de la greffe d’une perspective de Jérusem sur ces cultures existantes.
 
@@ -56,3 +80,28 @@ Bien que nous ne puissions pas parvenir à des conclusions, nous espérons étab
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2019/07/31/conference-2004-echoes-eden)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_New_Approach_to_Revelation_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une nouvelle approche de la révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jordan_B_Peterson/Existentialism_in_Australia_and_New_Zealand">
+          <span class="pr-2">L'existentialisme en Australie et en Nouvelle-Zélande</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

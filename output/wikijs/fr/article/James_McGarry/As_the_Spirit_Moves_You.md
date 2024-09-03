@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 James McGarry<br>© 2019 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Julian_McGarry/Mind_Over_Matter_Spirit_Over_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'esprit sur la matière – L'esprit sur l'esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Daniel_Swadling/The_Ascension_Plan">
+          <span class="pr-2">Le plan d'ascension</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par James McGarry, Hobart - Présenté à la conférence de Canberra le 27 septembre 2019
@@ -77,3 +101,28 @@ Cela m'a aidé à intégrer tous les enseignements spirituels/religieux précéd
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2019/09/27/as-spirit-moves-you)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Julian_McGarry/Mind_Over_Matter_Spirit_Over_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'esprit sur la matière – L'esprit sur l'esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Daniel_Swadling/The_Ascension_Plan">
+          <span class="pr-2">Le plan d'ascension</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

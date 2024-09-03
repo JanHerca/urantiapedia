@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Julian McGarry<br>© 2022 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/2023_Annual_Conference_in_Sydney">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence annuelle 2023 à Sydney</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Julian_McGarry/Walking_the_R_O_P_E">
+          <span class="pr-2">Marcher sur la R.O.P.E – Une invitation à l’intimité avec Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Julian McGarry, Hobart TAS
@@ -17,7 +41,7 @@ Par Julian McGarry, Hobart TAS
 <img src="/image/article/The_Arena/22-Conf.-logo.jpg" alt="2022 ANZURA Annual Conference">
 </figure>
 
-> _Il est grand temps que les hommes aient une expérience religieuse si personnelle et si sublime qu’elle ne puisse se concevoir et se manifester que par des « sentiments trop profonds pour s’exprimer par des mots »._ (<a id="a19_219"></a>[LU 99:5.9](/fr/The_Urantia_Book/99#p5_9))
+> _Il est grand temps que les hommes aient une expérience religieuse si personnelle et si sublime qu’elle ne puisse se concevoir et se manifester que par des « sentiments trop profonds pour s’exprimer par des mots »._ (<a id="a43_219"></a>[LU 99:5.9](/fr/The_Urantia_Book/99#p5_9))
 
 Les conférences annuelles sont toujours le point culminant de l’année pour les membres de l’ANZURA, mais cette année a été particulièrement remarquable car c’était la première fois en trois ans que nous avions une conférence en face à face en raison de la pandémie. Confortablement hébergés au magnifique Stewarts Bay Lodge, qui se trouve à seulement quelques pas du site historique de Port Arthur, nous nous sommes réunis pour nous concentrer sur l’expérience personnelle ultime – une relation personnelle et intime avec la Première Source et le Centre de l’univers des univers, notre Père Universel.
 
@@ -55,3 +79,28 @@ Julien McGarry
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2023/01/06/2022-anzura-annual-conference-report)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/2023_Annual_Conference_in_Sydney">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence annuelle 2023 à Sydney</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Julian_McGarry/Walking_the_R_O_P_E">
+          <span class="pr-2">Marcher sur la R.O.P.E – Une invitation à l’intimité avec Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

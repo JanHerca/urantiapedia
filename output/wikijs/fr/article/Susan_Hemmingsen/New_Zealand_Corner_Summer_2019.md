@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Susan Hemmingsen<br>© 2019 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Daniel_Swadling/The_Ascension_Plan">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le plan d'ascension</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nigel_Nunn/The_Inner_World_of_Mankind">
+          <span class="pr-2">Le monde intérieur de l'humanité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Susan Hemmingsen, Kirikiriroa, Nouvelle-Zélande
@@ -61,3 +85,28 @@ Diana souhaite créer un groupe « face à face » à Gisborne où les participa
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2019/12/16/new-zealand-corner-summer-2019)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Daniel_Swadling/The_Ascension_Plan">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le plan d'ascension</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nigel_Nunn/The_Inner_World_of_Mankind">
+          <span class="pr-2">Le monde intérieur de l'humanité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

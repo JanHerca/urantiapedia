@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Rita Schaad<br>© 2022 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/The_Arena_2022_summer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Aréna – Été 2022 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Arena/2023_Annual_Conference_in_Sydney">
+          <span class="pr-2">Conférence annuelle 2023 à Sydney</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Rita Schaad, Newcastle NSW
@@ -26,7 +50,7 @@ Et Seigneur des seigneurs……… allélouia ……
 Et il régnera pour toujours et à jamais….
 <br style="clear:both;"/>
 
-> _Jamais sur aucun monde de notre univers, ni dans la vie d’aucun mortel particulier, Dieu ne devint une telle *réalité vivante* que dans l’expérience humaine de Jésus de Nazareth._ (<a id="a28_184"></a>[LU 196:0.3](/fr/The_Urantia_Book/196#p0_3))
+> _Jamais sur aucun monde de notre univers, ni dans la vie d’aucun mortel particulier, Dieu ne devint une telle *réalité vivante* que dans l’expérience humaine de Jésus de Nazareth._ (<a id="a52_184"></a>[LU 196:0.3](/fr/The_Urantia_Book/196#p0_3))
 
 Jamais sur aucun autre monde parmi les nombreux systèmes et constellations – même dans l'univers entier de Nébadon – ce qui est arrivé sur le nôtre, la première et la seule planète humble à avoir eu l'honneur d'accueillir le Christ Michael s'incarnant en Jésus. Nous sommes connus comme « le monde de la croix » – le sanctuaire sentimental de tout Nébadon – nous sommes connus dans tout le royaume pour son passé (et son présent) déchiré par les conflits et ses mortels rebelles. Et cela encore, même après 2000 ans d'Ajusteur dans la plupart des habitants !
 
@@ -36,7 +60,7 @@ _Notre monde_ héberge un être céleste aussi élevé. WOW! D'autres mondes doi
 
 Nous avons accueilli le Créateur dans sa noble quête pour simplement :
 
-> _...c’est plutôt pour gagner tous les hommes à la reconnaissance de l’amour du Père et à la réalisation de leur filiation avec Dieu. »_ (<a id="a38_139"></a>[LU 98:7.1](/fr/The_Urantia_Book/98#p7_1))
+> _...c’est plutôt pour gagner tous les hommes à la reconnaissance de l’amour du Père et à la réalisation de leur filiation avec Dieu. »_ (<a id="a62_139"></a>[LU 98:7.1](/fr/The_Urantia_Book/98#p7_1))
 
 Lorsque l'ampleur de ce don pénètre suffisamment profondément, nous sommes forcément touchés d'une manière qui nous incite à _….aller dans toutes les nations proclamer la bonne nouvelle_ ! Cela nous pousse à rechercher une forme d'engagement pour tenter de répondre à la charge de diffuser la vérité de cette déclaration incroyable.
 
@@ -50,7 +74,7 @@ Comme vous le savez peut-être, nous recevons de nombreuses demandes de renseign
 
 Qu'est-ce qui manque ici ?
 
-> _Si l’Église chrétienne osait seulement adopter le programme du Maitre, des milliers de jeunes, apparemment indifférents, se précipiteraient pour s’enrôler dans une telle entreprise spirituelle et n’hésiteraient pas à aller jusqu’au bout dans cette grande aventure._ (<a id="a52_270"></a>[LU 195:10.10](/fr/The_Urantia_Book/195#p10_10))
+> _Si l’Église chrétienne osait seulement adopter le programme du Maitre, des milliers de jeunes, apparemment indifférents, se précipiteraient pour s’enrôler dans une telle entreprise spirituelle et n’hésiteraient pas à aller jusqu’au bout dans cette grande aventure._ (<a id="a76_270"></a>[LU 195:10.10](/fr/The_Urantia_Book/195#p10_10))
 
 Pourrait-on aussi lire ceci comme : « Si **nous** osions seulement adhérer au programme de Master… » ? Quel est ce programme ?
 
@@ -69,3 +93,28 @@ Président de l'ANZURA
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2023/01/06/presidents-report-3)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/The_Arena_2022_summer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Aréna – Été 2022 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Arena/2023_Annual_Conference_in_Sydney">
+          <span class="pr-2">Conférence annuelle 2023 à Sydney</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

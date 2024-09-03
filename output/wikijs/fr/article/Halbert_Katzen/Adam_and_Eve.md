@@ -632,43 +632,43 @@ Naturellement, en nous basant sur la tendance générale vers la corroboration d
 
 [^2]: Les langues tonales, par opposition aux langues non tonales, sont celles qui utilisent des tons ou des points tournants différents pour distinguer le sens de mots qui, autrement, sonneraient de manière identique. L'exemple le plus clair est la Chine. https://en.wikipedia.org/wiki/Tone_(linguistics)
 
-[^3]: [LU 62:5.1](/fr/The_Urantia_Book/62#p5_1) Année 991 485 av. J.-C. *Le Livre d'Urantia* donne de nombreuses dates relatives à l'année 1934 car bien qu'il ait été publié pour la première fois en 1955, il a été terminé bien plus tôt, en 1934.
+[^3]: <a id="a634_6"></a>[LU 62:5.1](/fr/The_Urantia_Book/62#p5_1) Année 991 485 av. J.-C. *Le Livre d'Urantia* donne de nombreuses dates relatives à l'année 1934 car bien qu'il ait été publié pour la première fois en 1955, il a été terminé bien plus tôt, en 1934.
 
-[^4]: [LU 74:0.1](/fr/The_Urantia_Book/74#p0_1) Année 35 914 av. J.-C.
+[^4]: <a id="a636_6"></a>[LU 74:0.1](/fr/The_Urantia_Book/74#p0_1) Année 35 914 av. J.-C.
 
-[^5]: [LU 76:1.3](/fr/The_Urantia_Book/76#p1_3)
+[^5]: <a id="a638_6"></a>[LU 76:1.3](/fr/The_Urantia_Book/76#p1_3)
 
-[^6]: [LU 81:5.1](/fr/The_Urantia_Book/81#p5_1)
+[^6]: <a id="a640_6"></a>[LU 81:5.1](/fr/The_Urantia_Book/81#p5_1)
 
-[^7]: [LU 52:3.6](/fr/The_Urantia_Book/52#p3_6)
+[^7]: <a id="a642_6"></a>[LU 52:3.6](/fr/The_Urantia_Book/52#p3_6)
 
-[^8]: [LU 76:4.7](/fr/The_Urantia_Book/76#p4_7)
+[^8]: <a id="a644_6"></a>[LU 76:4.7](/fr/The_Urantia_Book/76#p4_7)
 
-[^9]: [LU 78:5.7](/fr/The_Urantia_Book/78#p5_7)
+[^9]: <a id="a646_6"></a>[LU 78:5.7](/fr/The_Urantia_Book/78#p5_7)
 
-[^10]: [LU 78:5.5](/fr/The_Urantia_Book/78#p5_5)
+[^10]: <a id="a648_7"></a>[LU 78:5.5](/fr/The_Urantia_Book/78#p5_5)
 
-[^11]: [LU 78:5.3](/fr/The_Urantia_Book/78#p5_3)
+[^11]: <a id="a650_7"></a>[LU 78:5.3](/fr/The_Urantia_Book/78#p5_3)
 
 [^12]: Un haplogroupe, ou ensemble d'haplotypes, est en génétique un grand groupe de combinaisons de gènes qui sont transmises ensemble à la progéniture. https://en.wikipedia.org/wiki/Haplogroup
 
 [^13]: Un clade est ce qu'on appelle en biologie chacune des branches obtenues après avoir fait une seule coupe dans l'arbre phylogénétique. Il commence par un ancêtre commun et se compose de tous ses descendants, qui forment une seule branche sur l'arbre de la vie. https://en.wikipedia.org/wiki/Clade
 
-[^14]: [LU 81:5.1](/fr/The_Urantia_Book/81#p5_1)
+[^14]: <a id="a656_7"></a>[LU 81:5.1](/fr/The_Urantia_Book/81#p5_1)
 
-[^15]: [LU 78:4.5](/fr/The_Urantia_Book/78#p4_5)
+[^15]: <a id="a658_7"></a>[LU 78:4.5](/fr/The_Urantia_Book/78#p4_5)
 
-[^16]: [LU 78:4.6](/fr/The_Urantia_Book/78#p4_6)
+[^16]: <a id="a660_7"></a>[LU 78:4.6](/fr/The_Urantia_Book/78#p4_6)
 
-[^17]: [LU 65:5.2](/fr/The_Urantia_Book/65#p5_2)
+[^17]: <a id="a662_7"></a>[LU 65:5.2](/fr/The_Urantia_Book/65#p5_2)
 
-[^18]: [LU 65:5.2](/fr/The_Urantia_Book/65#p5_2)
+[^18]: <a id="a664_7"></a>[LU 65:5.2](/fr/The_Urantia_Book/65#p5_2)
 
-[^19]: [LU 65:5.2](/fr/The_Urantia_Book/65#p5_2)
+[^19]: <a id="a666_7"></a>[LU 65:5.2](/fr/The_Urantia_Book/65#p5_2)
 
-[^20]: [LU 76:4.7](/fr/The_Urantia_Book/76#p4_7)
+[^20]: <a id="a668_7"></a>[LU 76:4.7](/fr/The_Urantia_Book/76#p4_7)
 
-[^21]: [LU 51:1.3](/fr/The_Urantia_Book/51#p1_3)
+[^21]: <a id="a670_7"></a>[LU 51:1.3](/fr/The_Urantia_Book/51#p1_3)
 
 [^22]: *Le cerveau humain est toujours en évolution*, *Howard Hugues Medical Institute*, sept. 2005, http://www.hhmi.org/news/lahn4.html [article LAHN]
 
@@ -684,55 +684,55 @@ Naturellement, en nous basant sur la tendance générale vers la corroboration d
 
 [^28]: Patrick D. Evans, Nitzan Mekel-Bobrov, Eric J. Vallender, Richard R. Hudson et Bruce T. Lahn; *Preuve que l'allèle adaptatif du gène de la taille du cerveau microcéphaline est introgressé chez Homo sapiens à partir d'une lignée Homo archaïque*, *Actes de l'Académie nationale des sciences* (PNAS); http://www.pnas.org/content/103/48/18178.full, [article PNAS]
 
-[^29]: [LU 74:0.1](/fr/The_Urantia_Book/74#p0_1)
+[^29]: <a id="a686_7"></a>[LU 74:0.1](/fr/The_Urantia_Book/74#p0_1)
 
-[^30]: [LU 62:5.1](/fr/The_Urantia_Book/62#p5_1)
+[^30]: <a id="a688_7"></a>[LU 62:5.1](/fr/The_Urantia_Book/62#p5_1)
 
-[^31]: [LU 63:1.1](/fr/The_Urantia_Book/63#p1_1)
+[^31]: <a id="a690_7"></a>[LU 63:1.1](/fr/The_Urantia_Book/63#p1_1)
 
-[^32]: [LU 51:1.3](/fr/The_Urantia_Book/51#p1_3)
+[^32]: <a id="a692_7"></a>[LU 51:1.3](/fr/The_Urantia_Book/51#p1_3)
 
 [^33]: Bruce T. Lahn; *Le croisement entre les humains et les Néandertaliens aurait-il pu conduire à un cerveau humain amélioré ?*; Howard Hughes Medical Institute, 11/06/2006, http://www.hhmi.org/news/lahn20061006.html [article LAHN2]
 
-[^34]: [LU 78:3.2](/fr/The_Urantia_Book/78#p3_2)
+[^34]: <a id="a696_7"></a>[LU 78:3.2](/fr/The_Urantia_Book/78#p3_2)
 
-[^35]: [LU 78:3.3](/fr/The_Urantia_Book/78#p3_3)
+[^35]: <a id="a698_7"></a>[LU 78:3.3](/fr/The_Urantia_Book/78#p3_3)
 
-[^36]: [LU 78:3.5](/fr/The_Urantia_Book/78#p3_5)
+[^36]: <a id="a700_7"></a>[LU 78:3.5](/fr/The_Urantia_Book/78#p3_5)
 
-[^37]: [LU 78:2.5](/fr/The_Urantia_Book/78#p2_5)
+[^37]: <a id="a702_7"></a>[LU 78:2.5](/fr/The_Urantia_Book/78#p2_5)
 
-[^38]: [LU 78:5.7](/fr/The_Urantia_Book/78#p5_7)
+[^38]: <a id="a704_7"></a>[LU 78:5.7](/fr/The_Urantia_Book/78#p5_7)
 
-[^39]: [LU 64:6.26](/fr/The_Urantia_Book/64#p6_26)
+[^39]: <a id="a706_7"></a>[LU 64:6.26](/fr/The_Urantia_Book/64#p6_26)
 
-[^40]: [LU 78:5.5](/fr/The_Urantia_Book/78#p5_5)
+[^40]: <a id="a708_7"></a>[LU 78:5.5](/fr/The_Urantia_Book/78#p5_5)
 
-[^41]: [LU 78:5.8](/fr/The_Urantia_Book/78#p5_8)
+[^41]: <a id="a710_7"></a>[LU 78:5.8](/fr/The_Urantia_Book/78#p5_8)
 
-[^42]: [LU 76:1.1](/fr/The_Urantia_Book/76#p1_1)
+[^42]: <a id="a712_7"></a>[LU 76:1.1](/fr/The_Urantia_Book/76#p1_1)
 
-[^43]: [LU 76:1.3](/fr/The_Urantia_Book/76#p1_3)
+[^43]: <a id="a714_7"></a>[LU 76:1.3](/fr/The_Urantia_Book/76#p1_3)
 
-[^44]: [LU 78:0.1](/fr/The_Urantia_Book/78#p0_1)
+[^44]: <a id="a716_7"></a>[LU 78:0.1](/fr/The_Urantia_Book/78#p0_1)
 
-[^45]: [LU 78:1.3](/fr/The_Urantia_Book/78#p1_3)
+[^45]: <a id="a718_7"></a>[LU 78:1.3](/fr/The_Urantia_Book/78#p1_3)
 
-[^46]: [LU 62:4.3](/fr/The_Urantia_Book/62#p4_3)
+[^46]: <a id="a720_7"></a>[LU 62:4.3](/fr/The_Urantia_Book/62#p4_3)
 
-[^47]: [LU 81:5.1](/fr/The_Urantia_Book/81#p5_1)
+[^47]: <a id="a722_7"></a>[LU 81:5.1](/fr/The_Urantia_Book/81#p5_1)
 
-[^48]: [LU 76:6.4](/fr/The_Urantia_Book/76#p6_4)
+[^48]: <a id="a724_7"></a>[LU 76:6.4](/fr/The_Urantia_Book/76#p6_4)
 
-[^49]: [LU 73:7.3](/fr/The_Urantia_Book/73#p7_3)
+[^49]: <a id="a726_7"></a>[LU 73:7.3](/fr/The_Urantia_Book/73#p7_3)
 
-[^50]: [LU 73:7.4](/fr/The_Urantia_Book/73#p7_4)
+[^50]: <a id="a728_7"></a>[LU 73:7.4](/fr/The_Urantia_Book/73#p7_4)
 
-[^51]: [LU 76:4.8](/fr/The_Urantia_Book/76#p4_8)
+[^51]: <a id="a730_7"></a>[LU 76:4.8](/fr/The_Urantia_Book/76#p4_8)
 
-[^52]: [LU 78:1.3](/fr/The_Urantia_Book/78#p1_3)
+[^52]: <a id="a732_7"></a>[LU 78:1.3](/fr/The_Urantia_Book/78#p1_3)
 
-[^53]: [LU 78:5.1-3](/fr/The_Urantia_Book/78#p5_1)
+[^53]: <a id="a734_7"></a>[LU 78:5.1-3](/fr/The_Urantia_Book/78#p5_1)
 
 [^54]: Une population panmictique est une population où tous les individus sont des partenaires potentiels. Cela suppose qu'il n'y a aucune restriction d'accouplement, ni génétique ni comportementale, sur la population, et que par conséquent toute recombinaison est possible. http://en.wikipedia.org/wiki/Panmictic
 
@@ -742,14 +742,14 @@ Naturellement, en nous basant sur la tendance générale vers la corroboration d
 
 [^57]: Dan Dediu et D. Robert Ladd, *Le ton linguistique est lié à la fréquence de population des haplogroupes adaptatifs de deux gènes de taille du cerveau, ASPM et Microcephalin*, *PNAS*, juin 2007, http://www.pnas.org/content/104/26/10944.full.pdf, [article PNAS2]
 
-[^58]: [LU 78:5.3](/fr/The_Urantia_Book/78#p5_3)
+[^58]: <a id="a744_7"></a>[LU 78:5.3](/fr/The_Urantia_Book/78#p5_3)
 
-[^59]: [LU 52:3.6](/fr/The_Urantia_Book/52#p3_6)
+[^59]: <a id="a746_7"></a>[LU 52:3.6](/fr/The_Urantia_Book/52#p3_6)
 
-[^60]: [LU 81:5.1](/fr/The_Urantia_Book/81#p5_1)
+[^60]: <a id="a748_7"></a>[LU 81:5.1](/fr/The_Urantia_Book/81#p5_1)
 
 [^61]: Antonio Regalado, *L'étude des gènes du cerveau par un scientifique déclenche une réaction négative*, *Wall Street Journal*, 6/6/2006, https://www.wsj.com/articles/SB115040765329081636
 
-[^62]: [LU 85:5.1](/fr/The_Urantia_Book/85#p5_1)
+[^62]: <a id="a752_7"></a>[LU 85:5.1](/fr/The_Urantia_Book/85#p5_1)
 
-[^63]: [LU 101:4.2](/fr/The_Urantia_Book/101#p4_2)
+[^63]: <a id="a754_7"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2)

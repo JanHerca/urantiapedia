@@ -63,9 +63,9 @@ Une controverse de longue date existe sur la date de formation des montagnes de 
 
 _Le Livre d'Urantia_ déclare :
 
-> *Il y a 40 millions d’années,* les zones terrestres de l’hémisphère nord commencèrent à s’élever ; ce phénomène fut suivi par de nouvelles et vastes sédimentations, et par d’autres activités terrestres comprenant des coulées de lave, des gauchissements, des formations lacustres et des érosions. ([LU 61:1.11](/fr/The_Urantia_Book/61#p1_11))
+> *Il y a 40 millions d’années,* les zones terrestres de l’hémisphère nord commencèrent à s’élever ; ce phénomène fut suivi par de nouvelles et vastes sédimentations, et par d’autres activités terrestres comprenant des coulées de lave, des gauchissements, des formations lacustres et des érosions. (<a id="a65_299"></a>[LU 61:1.11](/fr/The_Urantia_Book/61#p1_11))
 
-> *Il y a 25 millions d’années,* une légère immersion des terres se produisit après une longue époque d’émersion. La région des montagnes Rocheuses resta très élevée, de sorte que des matériaux d’érosion continuèrent à se déposer vers l’est, sur l’ensemble des basses terres. Les Sierras furent de nouveau exhaussées ; en fait, elles n’ont pas cessé de s’élever depuis lors. La grande faille verticale californienne de six kilomètres et demi date de ce temps-là. ([LU 61:3.3](/fr/The_Urantia_Book/61#p3_3))
+> *Il y a 25 millions d’années,* une légère immersion des terres se produisit après une longue époque d’émersion. La région des montagnes Rocheuses resta très élevée, de sorte que des matériaux d’érosion continuèrent à se déposer vers l’est, sur l’ensemble des basses terres. Les Sierras furent de nouveau exhaussées ; en fait, elles n’ont pas cessé de s’élever depuis lors. La grande faille verticale californienne de six kilomètres et demi date de ce temps-là. (<a id="a67_464"></a>[LU 61:3.3](/fr/The_Urantia_Book/61#p3_3))
 
 L'affirmation du Livre d'Urantia selon laquelle ces montagnes sont apparues il y a 40 millions d'années et se sont élevées pendant les 25 derniers millions d'années est en conflit avec la théorie de New Sierras. De toute évidence, si elles se sont élevées pendant les 25 derniers millions d'années, alors la théorie selon laquelle elles se sont élevées pendant les cinq derniers millions d'années n'est pas complètement fausse ; les preuves qui soutiennent qu'elles se sont élevées pendant les cinq derniers millions d'années ont un degré limité de cohérence avec ce que le Livre d'Urantia dit à propos de leur « élévation depuis » il y a 25 millions d'années. En fait, même cette nouvelle technique de recherche indique que les montagnes se sont légèrement élevées il y a cinq millions d'années. Mais la théorie selon laquelle ces montagnes se sont fondamentalement formées il y a environ cinq millions d'années est fondamentalement en conflit avec le Livre d'Urantia. _Le Livre d'Urantia_ affirme, et la nouvelle étude publiée en 2006 le soutient, que cette chaîne de montagnes existait et a maintenu sa stature depuis bien avant cinq millions d'années.
 
@@ -215,9 +215,9 @@ Abordé sous cet angle, le rapport de 2006 préparé par Mulch, Graham et Chambe
 <img src="/image/article/Halbert_Katzen/Sierra_Mountains/timetable.jpg">
 </figure>
 
-> *Il y a 40 millions d’années,* les zones terrestres de l’hémisphère nord commencèrent à s’élever ; ce phénomène fut suivi par de nouvelles et vastes sédimentations, et par d’autres activités terrestres comprenant des coulées de lave, des gauchissements, des formations lacustres et des érosions. ([LU 61:1.11](/fr/The_Urantia_Book/61#p1_11))
+> *Il y a 40 millions d’années,* les zones terrestres de l’hémisphère nord commencèrent à s’élever ; ce phénomène fut suivi par de nouvelles et vastes sédimentations, et par d’autres activités terrestres comprenant des coulées de lave, des gauchissements, des formations lacustres et des érosions. (<a id="a217_299"></a>[LU 61:1.11](/fr/The_Urantia_Book/61#p1_11))
 
-> *Il y a 25 millions d’années,* une légère immersion des terres se produisit après une longue époque d’émersion. La région des montagnes Rocheuses resta très élevée, de sorte que des matériaux d’érosion continuèrent à se déposer vers l’est, sur l’ensemble des basses terres. Les Sierras furent de nouveau exhaussées ; en fait, elles n’ont pas cessé de s’élever depuis lors ([LU 61:3.3](/fr/The_Urantia_Book/61#p3_3))
+> *Il y a 25 millions d’années,* une légère immersion des terres se produisit après une longue époque d’émersion. La région des montagnes Rocheuses resta très élevée, de sorte que des matériaux d’érosion continuèrent à se déposer vers l’est, sur l’ensemble des basses terres. Les Sierras furent de nouveau exhaussées ; en fait, elles n’ont pas cessé de s’élever depuis lors (<a id="a219_375"></a>[LU 61:3.3](/fr/The_Urantia_Book/61#p3_3))
 
 - http://www.sciencemag.org/cgi/content/full/313/5783/87 article de recherche primaire Science 7 juillet 2006 : Vol. 313. no. 5783, pp. 87 - 89 DOI : 10.1126/science.1125986
 - http://scicom.ucsc.edu/SciNotes/0701/sierra/index.html L'énigme de la Sierra Nevada, article largement cité pour Sierra Report
@@ -260,17 +260,17 @@ Si les auteurs du Livre d'Urantia de 1955 n'en savaient pas plus que la plupart 
 
 ## Notes de bas de page
 
-[^1]: [LU 61:1.6](/fr/The_Urantia_Book/61#p1_6) Ce mode de citation du _Livre d'Urantia_ fournit le chapitre (appelé « Fascicules » dans _Le Livre d'Urantia_), puis la section, suivie du numéro de paragraphe.
+[^1]: <a id="a262_6"></a>[LU 61:1.6](/fr/The_Urantia_Book/61#p1_6) Ce mode de citation du _Livre d'Urantia_ fournit le chapitre (appelé « Fascicules » dans _Le Livre d'Urantia_), puis la section, suivie du numéro de paragraphe.
 
-[^2]: [LU 61:3.3](/fr/The_Urantia_Book/61#p3_3)
+[^2]: <a id="a264_6"></a>[LU 61:3.3](/fr/The_Urantia_Book/61#p3_3)
 
 [^3]: http://www.sciencemag.org/cgi/content/full/313/5783/87
 
 [^4]: http://scicom.ucsc.edu/SciNotes/0701/sierra/index.html
 
-[^5]: [LU 60:4.3](/fr/The_Urantia_Book/60#p4_3)
+[^5]: <a id="a270_6"></a>[LU 60:4.3](/fr/The_Urantia_Book/60#p4_3)
 
-[^6]: [LU 61:1.4](/fr/The_Urantia_Book/61#p1_4)
+[^6]: <a id="a272_6"></a>[LU 61:1.4](/fr/The_Urantia_Book/61#p1_4)
 
 [^7]: Science 7 juillet 2006 : Vol. 313. no. 5783, pp. 87 - 89, http://www.sciencemag.org/cgi/content/full/313/5783/87
 
@@ -280,13 +280,13 @@ Si les auteurs du Livre d'Urantia de 1955 n'en savaient pas plus que la plupart 
 
 [^10]: « Une pluie ancienne marque l'âge de la Sierra », Kathy A. Svitil, Discover Magazine, janvier 2007, p. 53
 
-[^11]: [LU 60:3](/fr/The_Urantia_Book/60#p3_par); [LU 60:4](/fr/The_Urantia_Book/60#p4); [LU 59:5.20](/fr/The_Urantia_Book/59#p5_20)
+[^11]: [LU 60:3](/fr/The_Urantia_Book/60#p3_par); <a id="a282_50"></a>[LU 60:4](/fr/The_Urantia_Book/60#p4); <a id="a282_89"></a>[LU 59:5.20](/fr/The_Urantia_Book/59#p5_20)
 
 [^12]: http://www.ucmp.berkeley.edu/mesozoic/cretaceous/cretaceous.html
 
-[^13]: [LU 61:3.3](/fr/The_Urantia_Book/61#p3_3)
+[^13]: <a id="a286_7"></a>[LU 61:3.3](/fr/The_Urantia_Book/61#p3_3)
 
-[^14]: [LU 61:7.11](/fr/The_Urantia_Book/61#p7_11)
+[^14]: <a id="a288_7"></a>[LU 61:7.11](/fr/The_Urantia_Book/61#p7_11)
 
 
 

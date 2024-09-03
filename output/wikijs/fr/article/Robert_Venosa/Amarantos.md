@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Robert Venosa<br>© 2020 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Moseley/The_Mind_Arena_of_Choice">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'arène mentale du choix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -64,3 +85,25 @@ Qu'en amour il retourne au coeur de son sire.
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/newsletter/arena-summer-2020/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Moseley/The_Mind_Arena_of_Choice">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'arène mentale du choix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

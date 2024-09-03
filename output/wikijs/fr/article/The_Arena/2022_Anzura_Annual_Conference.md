@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/Presidents_Report_Summer_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du président – Été 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/ANZURA_Virtual_Conference_Report">
+          <span class="pr-2">Rapport de la conférence virtuelle ANZURA 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par le Comité de Conférence
@@ -29,7 +53,7 @@ Le « ROPE » dans le titre du thème est un acronyme pour la **R**eligion**de**
 
 _Le Livre d'Urantia_ est rempli de citations impressionnantes nous rappelant que la communion personnelle et intime avec Dieu est à la portée de nous tous !
 
-> _Il est grand temps que les hommes aient une expérience religieuse si personnelle et si sublime qu’elle ne puisse se concevoir et se manifester que par des « sentiments trop profonds pour s’exprimer par des mots »._ (<a id="a31_219"></a>[LU 99:5.9](/fr/The_Urantia_Book/99#p5_9))
+> _Il est grand temps que les hommes aient une expérience religieuse si personnelle et si sublime qu’elle ne puisse se concevoir et se manifester que par des « sentiments trop profonds pour s’exprimer par des mots »._ (<a id="a55_219"></a>[LU 99:5.9](/fr/The_Urantia_Book/99#p5_9))
 
 ## Lieu
 
@@ -108,3 +132,28 @@ E-mail : [anzura.urantia@gmail.com](mailto:anzura.urantia@gmail.com)
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2022/01/01/2022-anzura-annual-conference)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/Presidents_Report_Summer_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du président – Été 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/ANZURA_Virtual_Conference_Report">
+          <span class="pr-2">Rapport de la conférence virtuelle ANZURA 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

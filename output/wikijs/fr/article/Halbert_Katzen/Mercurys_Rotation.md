@@ -108,7 +108,7 @@ Cependant, même si les opinions des astronomes sur ce sujet sont aujourd'hui au
 
 ## Liens supplémentaires sur la rotation de Mercure
 
-- [LU 57:6.2](/fr/The_Urantia_Book/57#p6_2)
+- <a id="a110_2"></a>[LU 57:6.2](/fr/The_Urantia_Book/57#p6_2)
 - Article de 1976 sur ce sujet par Charles (Chick) Montgomery : http://www.ubhistory.org/Documents/PA19761201_Agondonter_04.pdf
 - http://en.wikipedia.org/wiki/Planet_Mercury
 - http://www.obspm.fr/actual/nouvelle/jul04/merc.en.shtml
@@ -144,7 +144,7 @@ Cependant, même si les opinions des astronomes sur ce sujet sont aujourd'hui au
 
 ## Notes de bas de page :
 
-[^1]: [LU 57:6.2](/fr/The_Urantia_Book/57#p6_2) Ce mode de citation du _Livre d'Urantia_ fournit le chapitre (appelé « Fascicules » dans _Le Livre d'Urantia_), puis la section, suivie du numéro de paragraphe. « Urantia » est un mot inventé dont le sens étymologique est « (votre) place au ciel ».
+[^1]: <a id="a146_6"></a>[LU 57:6.2](/fr/The_Urantia_Book/57#p6_2) Ce mode de citation du _Livre d'Urantia_ fournit le chapitre (appelé « Fascicules » dans _Le Livre d'Urantia_), puis la section, suivie du numéro de paragraphe. « Urantia » est un mot inventé dont le sens étymologique est « (votre) place au ciel ».
 
 [^2]: Les conventions de physique concernant l'utilisation des termes « rotation » et « révolution » ont évolué vers l'utilisation du mot « tourner » pour faire référence à ce qu'une sphère peut faire par rapport à son propre axe, tandis que « révolution » est utilisé pour faire référence à ce qu'un tel corps peut faire en orbitant autour d'un autre corps. En utilisant ces termes comme synonymes, _Le Livre d'Urantia_ ne suit clairement pas cette convention. Cela ne change rien aux problèmes en jeu et n'a jamais été un point de discorde, quelle que soit la position des gens sur ce sujet.
 

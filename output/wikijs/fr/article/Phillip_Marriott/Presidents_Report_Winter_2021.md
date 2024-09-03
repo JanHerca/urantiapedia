@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Phillip Marriott<br>© 2021 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/The_Arena_2021_winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Aréna – Hiver 2021 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Arena/Sydney_Conference_Reminder_2021">
+          <span class="pr-2">Rappel de la conférence de Sydney – 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Phillip Marriott, Adélaïde, SA
@@ -53,3 +77,28 @@ J'espère que vous apprécierez ce numéro de l'Arena. Merci à tous et allez en
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2021/07/29/presidents-report-winter-2021)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/The_Arena_2021_winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Aréna – Hiver 2021 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Arena/Sydney_Conference_Reminder_2021">
+          <span class="pr-2">Rappel de la conférence de Sydney – 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

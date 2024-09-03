@@ -139,17 +139,17 @@ La vue optique la plus profonde et la plus détaillée de l'univers, offerte par
 
 ## Notes de bas de page :
 
-[^1]: Livre d'Urantia [LU 12:2.3](/fr/The_Urantia_Book/12#p2_3) Les références au _Livre d'Urantia_ sont formatées en fonction du chapitre (appelé « Fascicules » dans _Le Livre d'Urantia_), de la section et du paragraphe. Dans cet exemple, 12:2.3 fait référence au Fascicule 12, section 2, paragraphe 3. Le mot « Urantia », désignant la Terre, est un mot inventé dans _Le Livre d'Urantia_, avec la signification étymologique de « (votre) place au ciel ».
+[^1]: Livre d'Urantia <a id="a141_22"></a>[LU 12:2.3](/fr/The_Urantia_Book/12#p2_3) Les références au _Livre d'Urantia_ sont formatées en fonction du chapitre (appelé « Fascicules » dans _Le Livre d'Urantia_), de la section et du paragraphe. Dans cet exemple, 12:2.3 fait référence au Fascicule 12, section 2, paragraphe 3. Le mot « Urantia », désignant la Terre, est un mot inventé dans _Le Livre d'Urantia_, avec la signification étymologique de « (votre) place au ciel ».
 [^2]: Michael J. Disney, « Cosmologie moderne : science ou conte populaire ? », _American Scientist_, septembre-octobre 2007, 385 .
 [^3]: http://klima-luft.de/steinicke/Deep-Sky/deep-sky_e.htm
 [^4]: http://www.urantiabook.org/archive/science/milkyway.htm
 [^5]: Morrison, David, Sidney Wolff \& Andrew Fraknoi. Exploration de l'Univers, 7e éd. Philadelphie : Saunders, 1995 : 7.
 [^6] : _Encyclopédie mondiale du livre_. Chicago : World Book, 1997 : 205
 [^7]: http://www.astro.uu.nl/ strous/AA/fr/antwoorden/melkwegstelsels.htm|\#13
-[^8]: Livre d'Urantia [LU 15:3.1](/fr/The_Urantia_Book/15#p3_1)
-[^9]: Livre d'Urantia [LU 12:1.3](/fr/The_Urantia_Book/12#p1_3)
-[^10]: Livre d'Urantia [LU 12:1.8,9](/fr/The_Urantia_Book/12#p1_8)
-[^11]: Livre d'Urantia [LU 12:4.14,15](/fr/The_Urantia_Book/12#p4_14)
-[^12]: Livre d'Urantia [LU 12:2.3](/fr/The_Urantia_Book/12#p2_3)
+[^8]: Livre d'Urantia <a id="a148_22"></a>[LU 15:3.1](/fr/The_Urantia_Book/15#p3_1)
+[^9]: Livre d'Urantia <a id="a149_22"></a>[LU 12:1.3](/fr/The_Urantia_Book/12#p1_3)
+[^10]: Livre d'Urantia <a id="a150_23"></a>[LU 12:1.8,9](/fr/The_Urantia_Book/12#p1_8)
+[^11]: Livre d'Urantia <a id="a151_23"></a>[LU 12:4.14,15](/fr/The_Urantia_Book/12#p4_14)
+[^12]: Livre d'Urantia <a id="a152_23"></a>[LU 12:2.3](/fr/The_Urantia_Book/12#p2_3)
 [^13]: http://en.wikipedia.org/wiki/Galaxy
 

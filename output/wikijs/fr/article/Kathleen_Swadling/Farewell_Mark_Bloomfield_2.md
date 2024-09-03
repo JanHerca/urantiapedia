@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Kathleen Swadling<br>© 2019 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Susan_Hemmingsen/New_Zealand_Corner_Winter_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coin de la Nouvelle-Zélande – Hiver 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Elders/Our_Educational_Imperative_A_Strategy">
+          <span class="pr-2">Notre impératif éducatif – Une stratégie pour les décennies à venir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Kathleen Swadling, Nouvelle-Galles du Sud
@@ -76,7 +100,7 @@ Ben Bowler, qui a repris le travail de Marks dans les écoles gratuites en Thaï
 
 ## 2006 En Australie
 
-Certains d’entre nous se souviendront de Mark lors de la conférence internationale de l’Association Urantia de 2006 qui s’est tenue au Women’s College de Sydney. Notre thème était intitulé « Les récompenses de l’isolement – de petites équipes dans des eaux profondes ». Mark a fait une présentation passionnée et inspirante sur la nature et la mission de la révélation d’Urantia. Un aspect de son discours m’a beaucoup impressionné ; il a contesté la partie « petites équipes dans des eaux profondes » du titre de notre thème en inversant complètement le sens en disant, avec toute la puissance de l’univers derrière nous, comment pouvons-nous nous appeler ainsi. Il préférerait plutôt nous considérer comme de « grandes équipes dans de petites flaques » ! En soulignant l’ampleur de la mission de la cinquième révélation d’époque, les masses d’amis célestes invisibles qui se battent pour notre succès et la puissance de notre foi, nous devrions avoir plus de confiance et de courage pour oser aller de l’avant _… en seule compagnie de la VÉRITÉ._ <a id="a78_1049"></a>[[LU 103:9.7](/fr/The_Urantia_Book/103#p9_7)]
+Certains d’entre nous se souviendront de Mark lors de la conférence internationale de l’Association Urantia de 2006 qui s’est tenue au Women’s College de Sydney. Notre thème était intitulé « Les récompenses de l’isolement – de petites équipes dans des eaux profondes ». Mark a fait une présentation passionnée et inspirante sur la nature et la mission de la révélation d’Urantia. Un aspect de son discours m’a beaucoup impressionné ; il a contesté la partie « petites équipes dans des eaux profondes » du titre de notre thème en inversant complètement le sens en disant, avec toute la puissance de l’univers derrière nous, comment pouvons-nous nous appeler ainsi. Il préférerait plutôt nous considérer comme de « grandes équipes dans de petites flaques » ! En soulignant l’ampleur de la mission de la cinquième révélation d’époque, les masses d’amis célestes invisibles qui se battent pour notre succès et la puissance de notre foi, nous devrions avoir plus de confiance et de courage pour oser aller de l’avant _… en seule compagnie de la VÉRITÉ._ <a id="a102_1049"></a>[[LU 103:9.7](/fr/The_Urantia_Book/103#p9_7)]
 
 Nos sincères condoléances et nos prières vont à la famille de Mark et à tous ceux qui l’ont bien connu et qui l’appelaient « ami » et « frère ». Que sa résurrection sur les Mondes des Maisons soit joyeuse et compense la manière tragique de son départ prématuré de ce monde.
 
@@ -90,3 +114,28 @@ _Voici quelques bons souvenirs de la visite de Mark en Australie pour la Confér
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2019/07/31/farewell-mark-bloomfield)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Susan_Hemmingsen/New_Zealand_Corner_Winter_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coin de la Nouvelle-Zélande – Hiver 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Elders/Our_Educational_Imperative_A_Strategy">
+          <span class="pr-2">Notre impératif éducatif – Une stratégie pour les décennies à venir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

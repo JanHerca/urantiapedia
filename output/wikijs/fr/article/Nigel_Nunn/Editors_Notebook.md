@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Nigel Nunn<br>© 2020 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marion_Steward/Where_are_the_Daughters_of_God_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Où sont les Filles de Dieu ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Temple_Deep_Clean">
+          <span class="pr-2">Nettoyage en profondeur du temple</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Nigel Nunn, Canberra
@@ -33,3 +57,28 @@ Dans le groupe d’étude et au moyen du Livre d’Urantia, ils ont mis en place
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2020/09/07/editors-notebook)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marion_Steward/Where_are_the_Daughters_of_God_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Où sont les Filles de Dieu ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Temple_Deep_Clean">
+          <span class="pr-2">Nettoyage en profondeur du temple</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Julian McGarry<br>© 2019 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/The_Arena_2019_summer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Aréna – Été 2019 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Arena/Annual_Conference_Auckland_New_Zealand_2020">
+          <span class="pr-2">Conférence annuelle Auckland Nouvelle-Zélande 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Julian McGarry, TAS
@@ -44,9 +68,9 @@ Bien sûr, je ne saurais que trop bien remercier le duo dynamique d’ANZURA, Ka
 
 Il est presque impossible de lire _Le Livre d'Urantia_ sans être interpellé par ses messages extraordinaires. En voici quelques-uns que je trouve personnellement convaincants :
 
-> _N’oubliez jamais que la seule aventure plus satisfaisante et plus passionnante que la tentative de découvrir la volonté du Dieu vivant, c’est l’expérience suprême de tâcher honnêtement de faire cette volonté divine. Rappelez-vous toujours que, dans toute occupation terrestre, on peut faire la volonté de Dieu. Il n’y a pas des métiers saints et des métiers profanes. Toutes choses sont sacrées dans la vie de ceux qui sont guidés par l’esprit, c’est-à-dire subordonnés à la vérité, ennoblis par l’amour, dominés par la miséricorde et tempérés par l’équité — par la justice. L’esprit, que mon Père et moi nous enverrons dans le monde, n’est pas seulement l’Esprit de Vérité, mais aussi l’esprit de beauté idéaliste._ <a id="a46_720"></a>[[LU 155:6.11](/fr/The_Urantia_Book/155#p6_11)]
+> _N’oubliez jamais que la seule aventure plus satisfaisante et plus passionnante que la tentative de découvrir la volonté du Dieu vivant, c’est l’expérience suprême de tâcher honnêtement de faire cette volonté divine. Rappelez-vous toujours que, dans toute occupation terrestre, on peut faire la volonté de Dieu. Il n’y a pas des métiers saints et des métiers profanes. Toutes choses sont sacrées dans la vie de ceux qui sont guidés par l’esprit, c’est-à-dire subordonnés à la vérité, ennoblis par l’amour, dominés par la miséricorde et tempérés par l’équité — par la justice. L’esprit, que mon Père et moi nous enverrons dans le monde, n’est pas seulement l’Esprit de Vérité, mais aussi l’esprit de beauté idéaliste._ <a id="a70_720"></a>[[LU 155:6.11](/fr/The_Urantia_Book/155#p6_11)]
 > 
-> _Souvenez-vous que vous êtes mandatés pour prêcher cet évangile du royaume — le désir suprême de faire la volonté du Père, doublé de la joie suprême de réaliser, par la foi, la filiation avec Dieu. Rien ne doit détourner votre consécration à cet unique devoir. Que toute l’humanité bénéficie du débordement de votre affectueux ministère spirituel, de votre communion intellectuelle qui apporte la lumière et de votre service social exaltant. Mais il ne faut permettre à aucun de ces travaux humanitaires, ni à leur ensemble, de remplacer la proclamation de l’évangile. Ces puissants ministères sont les sous-produits sociaux des ministères et des transformations encore plus puissants et sublimes accomplis dans le cœur du croyant au royaume par le vivant Esprit de Vérité et par la réalisation personnelle du fait que la foi d’un homme né d’esprit lui confère l’assurance d’une communion vivante avec le Dieu éternel._ <a id="a48_922"></a>[[LU 178:1.11](/fr/The_Urantia_Book/178#p1_11)]
+> _Souvenez-vous que vous êtes mandatés pour prêcher cet évangile du royaume — le désir suprême de faire la volonté du Père, doublé de la joie suprême de réaliser, par la foi, la filiation avec Dieu. Rien ne doit détourner votre consécration à cet unique devoir. Que toute l’humanité bénéficie du débordement de votre affectueux ministère spirituel, de votre communion intellectuelle qui apporte la lumière et de votre service social exaltant. Mais il ne faut permettre à aucun de ces travaux humanitaires, ni à leur ensemble, de remplacer la proclamation de l’évangile. Ces puissants ministères sont les sous-produits sociaux des ministères et des transformations encore plus puissants et sublimes accomplis dans le cœur du croyant au royaume par le vivant Esprit de Vérité et par la réalisation personnelle du fait que la foi d’un homme né d’esprit lui confère l’assurance d’une communion vivante avec le Dieu éternel._ <a id="a72_922"></a>[[LU 178:1.11](/fr/The_Urantia_Book/178#p1_11)]
 
 Enfin, au nom du conseil d'administration d'ANZURA, je vous encourage tous à nous faire savoir s'il existe une façon de mieux vous servir. Les critiques ou commentaires constructifs sont toujours les bienvenus. Nous serions ravis d'avoir de vos nouvelles !
 
@@ -61,3 +85,28 @@ Président, ANZURA
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2019/12/16/presidents-report-december-2019)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/The_Arena_2019_summer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Aréna – Été 2019 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Arena/Annual_Conference_Auckland_New_Zealand_2020">
+          <span class="pr-2">Conférence annuelle Auckland Nouvelle-Zélande 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

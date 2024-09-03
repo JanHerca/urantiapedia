@@ -31,13 +31,13 @@ _Par Halbert Katzen J.D._
 
 Avant d'aborder l'étymologie du _Livre d'Urantia_, un exemple de phraséologie du _Livre d'Urantia_ mérite l'attention. L'expression _monde de la croix_ apparaît quatre fois. Notez qu'entre les guillemets et les problèmes de majuscules, elle n'est jamais utilisée deux fois de la même manière. Pourquoi ?
 
-> Lorsque les Fils d’effusion, Créateurs ou Magistraux, franchissent les portes de la mort, ils réapparaissent le troisième jour. Mais vous ne devriez pas entretenir l’idée qu’ils subissent toujours la fin tragique rencontrée par le Fils Créateur qui a séjourné sur votre monde il y a dix-neuf-cents ans. L’expérience extraordinaire et anormalement cruelle par laquelle a passé Jésus de Nazareth a valu à Urantia d’être appelée localement « le monde de la croix ». Il n’est pas nécessaire qu’un traitement aussi inhumain soit infligé à un Fils de Dieu, et la grande majorité des planètes leur a offert une réception plus respectueuse leur permettant de finir leur carrière mortelle, de terminer l’âge, de juger les survivants endormis et d’inaugurer une nouvelle dispensation sans leur infliger une mort violente. Il faut qu’un Fils d’effusion rencontre la mort, qu’il passe par toute l’expérience effective des mortels des royaumes, mais le plan divin n’exige nullement que cette mort soit violente ou anormale. ([LU 20:6.6](/fr/The_Urantia_Book/20#p6_6))
+> Lorsque les Fils d’effusion, Créateurs ou Magistraux, franchissent les portes de la mort, ils réapparaissent le troisième jour. Mais vous ne devriez pas entretenir l’idée qu’ils subissent toujours la fin tragique rencontrée par le Fils Créateur qui a séjourné sur votre monde il y a dix-neuf-cents ans. L’expérience extraordinaire et anormalement cruelle par laquelle a passé Jésus de Nazareth a valu à Urantia d’être appelée localement « le monde de la croix ». Il n’est pas nécessaire qu’un traitement aussi inhumain soit infligé à un Fils de Dieu, et la grande majorité des planètes leur a offert une réception plus respectueuse leur permettant de finir leur carrière mortelle, de terminer l’âge, de juger les survivants endormis et d’inaugurer une nouvelle dispensation sans leur infliger une mort violente. Il faut qu’un Fils d’effusion rencontre la mort, qu’il passe par toute l’expérience effective des mortels des royaumes, mais le plan divin n’exige nullement que cette mort soit violente ou anormale. (<a id="a33_1014"></a>[LU 20:6.6](/fr/The_Urantia_Book/20#p6_6))
 
-> C’est à cette époque qu’Urantia fut rattachée au système de Satania pour son administration planétaire et inscrite sur le registre de vie de la constellation de Norlatiadek. Alors commença la reconnaissance administrative de la petite sphère insignifiante destinée à devenir la planète sur laquelle Micaël se lancerait ultérieurement dans sa prodigieuse entreprise d’effusion de mortel et participerait aux expériences qui, depuis lors, ont fait connaitre localement Urantia sous le nom de « monde de la croix ». ([LU 57:8.6](/fr/The_Urantia_Book/57#p8_6))
+> C’est à cette époque qu’Urantia fut rattachée au système de Satania pour son administration planétaire et inscrite sur le registre de vie de la constellation de Norlatiadek. Alors commença la reconnaissance administrative de la petite sphère insignifiante destinée à devenir la planète sur laquelle Micaël se lancerait ultérieurement dans sa prodigieuse entreprise d’effusion de mortel et participerait aux expériences qui, depuis lors, ont fait connaitre localement Urantia sous le nom de « monde de la croix ». (<a id="a35_516"></a>[LU 57:8.6](/fr/The_Urantia_Book/57#p8_6))
 
-> Urantia est le sanctuaire sentimental de tout Nébadon ; la plus importante de dix-millions de planètes habitées, la demeure humaine de Christ Micaël, souverain de tout Nébadon, ministre Melchizédek auprès des royaumes, sauveur systémique, rédempteur adamique, compagnon séraphique, associé des esprits ascendants, progresseur morontiel, Fils de l’Homme dans la similitude de la chair mortelle et Prince Planétaire d’Urantia. Et vos Écritures disent la vérité en affirmant que ce même Jésus a promis de revenir, un jour, sur le monde de son effusion terminale, le Monde de la Croix. ([LU 119:8.8](/fr/The_Urantia_Book/119#p8_8))
+> Urantia est le sanctuaire sentimental de tout Nébadon ; la plus importante de dix-millions de planètes habitées, la demeure humaine de Christ Micaël, souverain de tout Nébadon, ministre Melchizédek auprès des royaumes, sauveur systémique, rédempteur adamique, compagnon séraphique, associé des esprits ascendants, progresseur morontiel, Fils de l’Homme dans la similitude de la chair mortelle et Prince Planétaire d’Urantia. Et vos Écritures disent la vérité en affirmant que ce même Jésus a promis de revenir, un jour, sur le monde de son effusion terminale, le Monde de la Croix. (<a id="a37_585"></a>[LU 119:8.8](/fr/The_Urantia_Book/119#p8_8))
 
-> Bien que Jésus n’ait pas enduré cette mort sur la croix pour expier la culpabilité raciale de l’homme mortel, ni pour procurer une sorte d’accès effectif auprès d’un Dieu par ailleurs offensé et implacable ; même si le Fils de l’Homme ne s’est pas offert en sacrifice pour apaiser le courroux de Dieu et ouvrir aux pécheurs la voie du salut ; et en dépit du fait que toutes ces idées d’expiation et de propitiation soient erronées, il ne faudrait néanmoins pas négliger certaines significations attachées à la mort de Jésus sur la croix. Il est de fait que, sur d’autres planètes habitées voisines, on appelle Urantia le « Monde de la Croix ». ([LU 188:4.1](/fr/The_Urantia_Book/188#p4_1))
+> Bien que Jésus n’ait pas enduré cette mort sur la croix pour expier la culpabilité raciale de l’homme mortel, ni pour procurer une sorte d’accès effectif auprès d’un Dieu par ailleurs offensé et implacable ; même si le Fils de l’Homme ne s’est pas offert en sacrifice pour apaiser le courroux de Dieu et ouvrir aux pécheurs la voie du salut ; et en dépit du fait que toutes ces idées d’expiation et de propitiation soient erronées, il ne faudrait néanmoins pas négliger certaines significations attachées à la mort de Jésus sur la croix. Il est de fait que, sur d’autres planètes habitées voisines, on appelle Urantia le « Monde de la Croix ». (<a id="a39_647"></a>[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1))
 
 Je fais référence à cette planète comme étant connue sous le nom de « Monde de la Croix » dans mon étymologie d'Urantia et à propos de nombreux autres mots inventés. Si une telle référence n'est pas incluse, cela ne doit pas être considéré comme une omission intentionnelle. D'une manière générale, nous pouvons toujours considérer cela comme une expression étymologique, compte tenu du contexte.
 
@@ -45,7 +45,7 @@ Je fais référence à cette planète comme étant connue sous le nom de « Mond
 
 ### abandontaires
 
-[LU 37:9.12](/fr/The_Urantia_Book/37#p9_12) Ces citoyens de premier ordre (a) sont complètement dévoués à (abandonnent) à la perfection magistrale (don) de leur rôle (ers).
+<a id="a47_0"></a>[LU 37:9.12](/fr/The_Urantia_Book/37#p9_12) Ces citoyens de premier ordre (a) sont complètement dévoués à (abandonnent) à la perfection magistrale (don) de leur rôle (ers).
 
 _a : premier ordre ; première lettre de l'alphabet romain, basée sur l'alpha grec (voir alpha).
 
@@ -59,20 +59,20 @@ _\-er : terminaison de nom d'agent anglais, correspondant au latin _\-or_. Dans 
 
 ### agondontaires
 
-[LU 50:7.2](/fr/The_Urantia_Book/50#p7_2) Tout est question de lutte mentale pour la victoire (agon) au niveau des maîtres (don)(t) pour ces « gamers » (ters).
+<a id="a61_0"></a>[LU 50:7.2](/fr/The_Urantia_Book/50#p7_2) Tout est question de lutte mentale pour la victoire (agon) au niveau des maîtres (don)(t) pour ces « gamers » (ters).
 
 _agonie_ : fin du XIVe siècle, « souffrance mentale » (en particulier celle du Christ au jardin de Gethsémani), de l'ancien français agonie, agoine « angoisse, terreur, agonie de la mort » (XIVe siècle), et directement du latin agonia, du grec agonia « une lutte (mentale) pour la victoire », à l'origine « une lutte pour la victoire dans les jeux », de agon « assemblée pour une compétition », de agein « diriger » (voir acte (n.)). Sens de « souffrance physique extrême » enregistré pour la première fois vers 1600.
 
 _don:_ (nom) : années 1520, de l'esp. ou du port. don, titre de respect, du latin dominus « seigneur, maître ». Le sens universitaire est vers 1660, à l'origine argot étudiant ; le sens souterrain est 1952, de l'italien don, de L.L. domnus, de L. dominus (voir domaine). La forme fém. est Dona (espagnol/portugais), Donna (italien).
 
 La lettre « t » symbolise la croix.
-[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
+<a id="a68_0"></a>[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
 
 _\-er : terminaison de nom d'agent anglais, correspondant au latin _\-or_. Dans les mots indigènes, elle représente le vieil anglais _\-ere_ (le vieux northumbrien aussi _\-are_) « homme qui a affaire à », du proto-germanique _\-ari_ (apparentés : allemand _\-er_, suédois _\-are_, danois _\-ere_), du proto-germanique _\-arjoz_. Certains pensent que cette racine est identique au latin _\-arius_, et peut-être un emprunt à celui-ci (voir _\-ary_).
 
 ### Alvoring
 
-[LU 32:2.12](/fr/The_Urantia_Book/32#p2_12) L'un des sept univers locaux les plus proches.
+<a id="a74_0"></a>[LU 32:2.12](/fr/The_Urantia_Book/32#p2_12) L'un des sept univers locaux les plus proches.
 L'endroit où (A) ils nourrissent la croissance (Al) avec une attitude proactive (vor) (ing).
 
 _Al\-:_ Racine proto-indo-européenne signifiant « faire pousser, nourrir ».
@@ -132,13 +132,13 @@ _dovish (adj.) : _des années 1530, « comme une colombe, innocente », de _dove
 _on (prép., adv.) : _ « dans une position au-dessus et en contact avec ; dans une position telle qu'il soit soutenu par ; » notant également le but vers lequel une action est ou a été dirigée ; « à propos de, concernant, concernant ; en mesure de couvrir ; » comme adverbe, « dans ou dans une position en contact avec et soutenu par le sommet ou la partie supérieure de quelque chose ; dans ou dans un endroit ; en place pour une utilisation ou une action ; dans un mouvement ou une action ; en opération, » vieil anglais _on_, variante non accentuée de _an_ « dans, sur, dans, » du proto-germanique _\*ana_ « sur » (source aussi du néerlandais _aan_, de l'allemand _an_, du gothique _ana_ « sur, sur »), de la racine PIE _\*an-_ (1) « sur » (source aussi de l'avestan _ana_ « sur », du grec _ana_ « sur, sur », du latin _an-_, du vieux slavon _na_, du lituanien _nuo_ « en bas de »).
 
 La lettre « T » symbolise la croix.
-[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
+<a id="a134_0"></a>[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
 
 _\-ia : élément de formation de mots dans les noms de pays, de maladies et de fleurs, du latin et du grec. _\-ia_, terminaison nominale, en grec particulièrement utilisée pour former des noms abstraits (typiquement de genre féminin).
 
 ### Assuntia
 
-[LU 41:2.1](/fr/The_Urantia_Book/41#p2_1) Une constellation voisine.
+<a id="a140_0"></a>[LU 41:2.1](/fr/The_Urantia_Book/41#p2_1) Une constellation voisine.
 Tout illuminés (As), c’est comme ça qu’ils sont (sunt) à cet endroit (ia).
 
 _as-_ également _es-_, racine proto-indo-européenne signifiant « brûler, briller ». La source/preuve hypothétique de son existence est fournie par : le sanskrit _asah_ « cendres, poussière » ; _āra_ « autel, foyer ».
@@ -149,7 +149,7 @@ _\-ia:_ élément de formation de mots dans les noms de pays, de maladies et de 
 
 ### Avalon
 
-[LU 32:2.12](/fr/The_Urantia_Book/32#p2_12) L'un des sept univers locaux les plus proches. Peut-être s'agit-il du premier univers local créé dans ce secteur mineur ou majeur ?
+<a id="a151_0"></a>[LU 32:2.12](/fr/The_Urantia_Book/32#p2_12) L'un des sept univers locaux les plus proches. Peut-être s'agit-il du premier univers local créé dans ce secteur mineur ou majeur ?
 Un lieu qui a commencé (A) ce précieux processus (val) de création de la vie (sur).
 
 _A_ : premier ordre ; première lettre de l'alphabet romain, basé sur l'alpha grec (voir alpha).
@@ -160,7 +160,7 @@ _\-on:_ élément génétique de base.
 
 ### Avonal
 
-[LU 20:4.5](/fr/The_Urantia_Book/20#p4_5) Celui qui est une version archétypale (A) et autorisée (A.V.) de l'expression divine (on) (al).
+<a id="a162_0"></a>[LU 20:4.5](/fr/The_Urantia_Book/20#p4_5) Celui qui est une version archétypale (A) et autorisée (A.V.) de l'expression divine (on) (al).
 
 _A_ : premier ordre ; première lettre de l'alphabet romain, basé sur l'alpha grec (voir alpha).
 
@@ -209,7 +209,7 @@ Le nom de notre secteur mineur.
 
 ### Fanoving
 
-[LU 32:2.12](/fr/The_Urantia_Book/32#p2_12) L'un des sept univers locaux les plus proches.
+<a id="a211_0"></a>[LU 32:2.12](/fr/The_Urantia_Book/32#p2_12) L'un des sept univers locaux les plus proches.
 Là où être au service (Fa) des serviteurs de Dieu (nov) est ce qui se passe (ing).
 
 _fa :_ quatrième note de l'échelle guidonienne. Utilisée à partir du XIIIe siècle en ancien français. Elle représente la première syllabe du latin famulus. _famulus_ (nom) ; assistant ou serviteur, en particulier celui qui travaille pour un magicien ou un érudit.
@@ -237,7 +237,7 @@ _\-ant_ : suffixe d'agent ou instrumental, de l'ancien français et du français
 
 ### Glantonia
 
-[LU 41:2.1](/fr/The_Urantia_Book/41#p2_1) Une constellation voisine. La façon dont un petit gland ne tombe pas loin de l'arbre et grandit ensuite pour devenir un puissant chêne (Glan) est ce dont ils chantent (ton) ici (ia).
+<a id="a239_0"></a>[LU 41:2.1](/fr/The_Urantia_Book/41#p2_1) Une constellation voisine. La façon dont un petit gland ne tombe pas loin de l'arbre et grandit ensuite pour devenir un puissant chêne (Glan) est ce dont ils chantent (ton) ici (ia).
 
 _glan :_ du proto-italique _glānts_, du proto-indo-européen _gelh-_ (« gland »).
 
@@ -274,7 +274,7 @@ _\-ard :_ du vieux français -ard, de l'allemand -hard, -hart « robuste », for
 
 ### Henselon
 
-[LU 32:2.12](/fr/The_Urantia_Book/32#p2_12) L'un des sept univers locaux les plus proches.
+<a id="a276_0"></a>[LU 32:2.12](/fr/The_Urantia_Book/32#p2_12) L'un des sept univers locaux les plus proches.
 Cette maison est jugée (Hen) de manière évidente (sel) conforme à sa conception originale, comme prévu (0n).
 
 _Henri_ : nom propre masc., du français _Henri_, du latin tardif _Henricus_, de l'allemand _Heinrich_, du vieux haut allemand _Heimerich_, littéralement « le chef de la maison », de _heim_ « foyer » (voir _home_ (n.)) + _rihhi_ « dirigeant » (de la racine PIE _reg_**–** « se déplacer en ligne droite », avec des dérivés signifiant « diriger en ligne droite », donc « diriger, gouverner »). L'un des noms normands les plus populaires après la conquête. En relation : _Henrician_.
@@ -286,7 +286,7 @@ _\-on:_ élément génétique de base.
 
 ### Holdant
 
-[LU 45:3.5](/fr/The_Urantia_Book/45#p3_5) 4. _Le gardien du système—_Holdant …
+<a id="a288_0"></a>[LU 45:3.5](/fr/The_Urantia_Book/45#p3_5) 4. _Le gardien du système—_Holdant …
 « Il a le monde entier entre ses mains. »
 
 _hold (n.) :_ vers 1100, « action de tenir » ; vers 1200, « saisir, empoigner », du vieil anglais _geheald_ (anglien _gehald_) « garder, garder, surveiller, protéger, gardien », de _hold_ (v.).
@@ -297,7 +297,7 @@ _\-ant_ : suffixe d'agent ou instrumental, de l'ancien français et du français
 
 ### Jerusem
 
-[LU 15:7.5](/fr/The_Urantia_Book/15#p7_5) _Jérusem_, le siège de votre système local de Satania, a ses sept mondes de culture de transition, chacun d’eux étant entouré de sept satellites, parmi lesquels se trouvent les sept mondes des maisons de détention morontielle, la première résidence post-mortelle de l’homme. Comme le terme ciel a été utilisé sur Urantia, il a parfois signifié ces sept mondes des maisons, le premier monde des maisons étant appelé le premier ciel, et ainsi de suite jusqu’au septième.
+<a id="a299_0"></a>[LU 15:7.5](/fr/The_Urantia_Book/15#p7_5) _Jérusem_, le siège de votre système local de Satania, a ses sept mondes de culture de transition, chacun d’eux étant entouré de sept satellites, parmi lesquels se trouvent les sept mondes des maisons de détention morontielle, la première résidence post-mortelle de l’homme. Comme le terme ciel a été utilisé sur Urantia, il a parfois signifié ces sept mondes des maisons, le premier monde des maisons étant appelé le premier ciel, et ainsi de suite jusqu’au septième.
 
 Étymologie par Chris Halvorson : « la « nouvelle Jérusalem » ([Ap:21.2](/fr/Bible/Revelation/21#v2)).
 
@@ -317,7 +317,7 @@ _forge_ (v) : 1769 (avec une utilisation apparemment isolée dans les années 16
 
 Le dirigeant céleste terrestre (Lan) (on) est désigné comme chef-enseignant (an) en fonction de ses accomplissements méritoires (dek).
 
-[LU 35:9.1](/fr/The_Urantia_Book/35#p9_1) Les Lanonandeks sont les dirigeants permanents des planètes et les souverains tournants des systèmes. Un tel Fils règne désormais sur Jérusalem, le siège de votre système local de mondes habités.
+<a id="a319_0"></a>[LU 35:9.1](/fr/The_Urantia_Book/35#p9_1) Les Lanonandeks sont les dirigeants permanents des planètes et les souverains tournants des systèmes. Un tel Fils règne désormais sur Jérusalem, le siège de votre système local de mondes habités.
 
 _landed_ (adj.) : « possédé de terres », ancien anglais tardif _gelandod._
 
@@ -336,7 +336,7 @@ Cette étymologie a [sa propre page](/fr/article/Halbert_Katzen/Machiventa_etymo
 
 ### Majeston
 
-[LU 17:2.3](/fr/The_Urantia_Book/17#p2_3) Majeston est une vraie personne, le centre personnel et infaillible des phénomènes de réflectivité dans les sept superunivers du temps et de l'espace.
+<a id="a338_0"></a>[LU 17:2.3](/fr/The_Urantia_Book/17#p2_3) Majeston est une vraie personne, le centre personnel et infaillible des phénomènes de réflectivité dans les sept superunivers du temps et de l'espace.
 Celui (M) qui est le plus grand (Maj) de tous les conteurs (jest) résonne avec (ton) nos expériences passées (on).
 
 _majesté_ (n.) : vers 1300, _mageste_, « grandeur ou grandeur d'un rang ou d'un caractère élevé, hauteur imposante, majesté, qualités appropriées au règne », de l'ancien français _majeste_ « grandeur, noblesse » (12e siècle), du latin _maiestatem_ (nominatif _maiestas_) « grandeur, dignité, élévation, honneur, excellence », de la racine de _maior_ (neutre _maius_), comparatif de _magnus_ « grand, large, gros » (de taille), « abondant » (de quantité), « grand, considérable » (de valeur), « fort, puissant » (de force) ; des personnes, « aîné, âgé », également, au sens figuré, « grand, puissant, grandiose, important », de la forme suffixée de la racine PIE _meg-_ « grand ».
@@ -354,7 +354,7 @@ _on_ (prép., adv.) : « dans une position au-dessus et en contact avec ; dans u
 ### Malavatia
 
 Malavatia Melchizadek n'apparaît qu'une seule fois dans _Le Livre d'Urantia_, en tant que « sponsor » du Fascicule 43 : Les Constellations.
-[LU 43:9.6](/fr/The_Urantia_Book/43#p9_6) \[Sponsorisé par Malavatia Melchizedek.\]
+<a id="a356_0"></a>[LU 43:9.6](/fr/The_Urantia_Book/43#p9_6) \[Sponsorisé par Malavatia Melchizedek.\]
 Celui qui (M) agit comme messager dans la lignée révélatrice judéo-chrétienne d’Urantia (Mala) et qui, agissant comme devin, est un individu (ia) particulièrement poétique (vat).
 
 _Mala_ = Malachie : nom propre masculin, nom de l’A.T. du \*\*dernier dans l’ordre\*\* des douze prophètes, de l’hébreu Mal’akhi, lit. « mon messager », de mal’akh « messager », de la base sémitique l-‘-k (cf. arabe la’aka « il a envoyé »).
@@ -363,13 +363,13 @@ _vat_ = Vates : années 1620, « poète ou barde », spécifiquement « poète c
 apaiser = adj. signifiant vrai ou réel et comme nom signifiant vérité ou réalité.
 
 La lettre « T » symbolise la croix.
-[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
+<a id="a365_0"></a>[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
 
 _\-ia_ : élément de formation de mots dans les noms de pays, de maladies et de fleurs, du latin et du grec. _\-ia_, terminaison nominale, en grec particulièrement utilisée pour former des noms abstraits (typiquement de genre féminin).
 
 ### mansonia
 
-[LU 47:4.6](/fr/The_Urantia_Book/47#p4_6) … Arrêtez-vous pour réfléchir : Maisonnia numéro un est une sphère très matérielle, présentant les prémices du régime morontiel. Vous êtes encore un être humain proche et pas très éloigné des points de vue limités de la vie mortelle …
+<a id="a371_0"></a>[LU 47:4.6](/fr/The_Urantia_Book/47#p4_6) … Arrêtez-vous pour réfléchir : Maisonnia numéro un est une sphère très matérielle, présentant les prémices du régime morontiel. Vous êtes encore un être humain proche et pas très éloigné des points de vue limités de la vie mortelle …
 Où (m) les âmes courageuses (man) renaissent (son) dans le monde spirituel (ia).
 
 _man_ (n.) : vieil anglais homme, mann « être humain, personne (homme ou femme) ; homme courageux, héros »
@@ -380,7 +380,7 @@ _\-ia_ : élément formant des mots dans les noms de pays, de maladies et de fle
 
 ### Mansurotia
 
-[LU 45:3.3](/fr/The_Urantia_Book/45#p3_3) Le premier assistant souverain, numéro 17 841 des Lanonandeks tertiaires.
+<a id="a382_0"></a>[LU 45:3.3](/fr/The_Urantia_Book/45#p3_3) Le premier assistant souverain, numéro 17 841 des Lanonandeks tertiaires.
 Celui qui (M) se présente courageusement (Man) en remplacement (suro) quand les choses tournent mal (T) ici (ia).
 
 _mansurus :_ participe futur actif de _maneō_ (« je reste, demeure »).
@@ -390,13 +390,13 @@ _man (v.) :_ du moyen anglais _mannen_, de l'ancien anglais _mannian_ « équipe
 _subrogate (n.)_ : début du XVe siècle, du latin _surrogatus_, participe passé de _surrogare_/_subrogare_ « mettre à la place d’un autre, substituer », de la forme assimilée de _sub_ « à la place de, sous » (voir _sub-_) + _rogare_ « demander, proposer », apparemment une utilisation figurative d’un verbe PIE signifiant littéralement « tendre (la main) », de la racine _reg-_ « se déplacer en ligne droite ». Le sens de « femme enceinte de l’ovule fécondé d’une autre femme » est attesté depuis 1978 (depuis 1972 pour les animaux ; _mère porteuse_ dans un sens psychologique est de 1971). Comme adjectif des années 1630.
 
 La lettre « T » symbolise la croix.
-[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
+<a id="a392_0"></a>[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
 
 _\-ia_ : élément de formation de mots dans les noms de pays, de maladies et de fleurs, du latin et du grec. _\-ia_, terminaison nominale, en grec particulièrement utilisée pour former des noms abstraits (typiquement de genre féminin).
 
 ### Mantutia
 
-[LU 56:10.23](/fr/The_Urantia_Book/56#p10_23) [LU 119:8.9](/fr/The_Urantia_Book/119#p8_9) Les articles des parties II et III ont été fournis sous la direction de Mantutia Melchizedek.
+<a id="a398_0"></a>[LU 56:10.23](/fr/The_Urantia_Book/56#p10_23) <a id="a398_46"></a>[LU 119:8.9](/fr/The_Urantia_Book/119#p8_9) Les articles des parties II et III ont été fournis sous la direction de Mantutia Melchizedek.
 Un cinquième directeur de révélation d'époque nommé et présidant de distinction pour le Monde de la Croix.
 
 _man_ : « serviteur, vassal, homme adulte considéré comme sous le contrôle d'une autre personne », du proto-germanique \*mann-, possible origine sanskrite.
@@ -408,7 +408,7 @@ _utmost_ (adj.) : le double superlatif de ut « out », signifiant « être du p
 _utter_ (adj.) : « parler, dire », vers 1400, en partie du moyen néerlandais uteren ou du moyen bas allemand utern « exprimer, montrer, parler », de uter « extérieur ». En partie du verbe moyen anglais outen « révéler », du vieil anglais utan « éteindre ». À comparer à l'allemand äussern « prononcer, exprimer ».
 
 La lettre « T » symbolise la croix.
-[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
+<a id="a410_0"></a>[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
 
 _\-ia_ : élément de formation de mots dans les noms de pays, de maladies et de fleurs, du latin et du grec. _\-ia_, terminaison nominale, en grec particulièrement utilisée pour former des noms abstraits (typiquement de genre féminin).
 
@@ -424,7 +424,7 @@ _monseigneur_ (n.) : titre honorifique français donné aux princes, évêques e
 _mamma_ (n.) : « mère », mot utilisé surtout par les enfants et les nourrissons, dans les années 1570, représentant la forme native de la duplication de _ma-_ qui est presque universelle parmi les langues indo-européennes (grec _mamme_ « mère, grand-mère », latin _mamma_, persan _mama_, russe et lituanien _mama_ « mère », allemand _Muhme_ « sœur de la mère », français _maman_, gallois _mam_ « mère »).
 
 La lettre « T » symbolise la croix.
-[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
+<a id="a426_0"></a>[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
 
 _\-ia_ : élément formant des mots dans les noms de pays, de maladies et de fleurs, du latin et du grec. _\-ia_, terminaison nominale, en grec particulièrement utilisée pour former des noms abstraits (typiquement de genre féminin)
 
@@ -468,7 +468,7 @@ _normalité_ (n.) : « caractère ou état d'être en accord avec une règle ou 
 _law_ (n.) : vieil anglais _lagu_ (pluriel _laga_, forme combinée _lah-_) « ordonnance, règle prescrite par l'autorité, règlement ; district régi par les mêmes lois » ; parfois aussi « droit, privilège légal », du vieux norrois _lagu_ « loi », pluriel collectif de _lag_ « couche, mesure, trait », littéralement « quelque chose de posé, ce qui est fixe ou établi » du proto-germanique _lagam_ « poser, poser », de la racine PIE _legh-_ « mentir, poser » (de la racine PIE _legh_– « se coucher, poser »). Identique à _lay_ (n) comme « ce qui est établi ou établi ».
 
 La lettre « T » symbolise la croix.
-[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
+<a id="a470_0"></a>[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
 
 _\-ia_ : élément formant des mots dans les noms de pays, de maladies et de fleurs, du latin et du grec. _\-ia_, terminaison nominale, en grec particulièrement utilisée pour former des noms abstraits (typiquement de genre féminin)
 
@@ -481,7 +481,7 @@ La source/preuve hypothétique de son existence est fournie par : le sanskrit _d
 
 ### Orvonton
 
-[LU 0:0.5](/fr/The_Urantia_Book/0#p0_5) Orvonton est l'un des sept superunivers évolutifs du temps et de l'espace qui entourent la création sans commencement ni fin de la perfection divine — l'univers central de _Havona_.
+<a id="a483_0"></a>[LU 0:0.5](/fr/The_Urantia_Book/0#p0_5) Orvonton est l'un des sept superunivers évolutifs du temps et de l'espace qui entourent la création sans commencement ni fin de la perfection divine — l'univers central de _Havona_.
 Le lieu pour (O) « se lever et briller » (Ou) avec une victoire dans la foi (v) qui « surmonte le monde » (on) et s'harmonise avec tous ceux « qui ont des oreilles pour entendre. » (ton).
 
 _orior :_ latin : (infinitif présent _orīrī_, parfait actif _ortus sum_) ; troisième conjugaison _iō-variante_, déponent
@@ -505,7 +505,7 @@ Le lieu (\-tia) qui voit tout (pan-). (Littéralement, les Panoptiens sont « ce
 
 ### Porogia
 
-[LU 41:2.1](/fr/The_Urantia_Book/41#p2_1) Une constellation voisine.
+<a id="a507_0"></a>[LU 41:2.1](/fr/The_Urantia_Book/41#p2_1) Une constellation voisine.
 Boire l'expérience (Po) de la supplication solennelle (rog) est ce qui caractérise cet endroit (ia).
 
 _pō(i)-_ Racine proto-indo-européenne signifiant « boire ».
@@ -519,7 +519,7 @@ _\-ia_ : élément de formation de mots dans les noms de pays, de maladies et de
 
 ### Portalon
 
-[LU 32:2.12](/fr/The_Urantia_Book/32#p2_12) L'un des sept univers locaux les plus proches.
+<a id="a521_0"></a>[LU 32:2.12](/fr/The_Urantia_Book/32#p2_12) L'un des sept univers locaux les plus proches.
 L'endroit qui (P) fournit une passerelle (Portail) vers la vie (sur).
 
 _Portal-:_ portail (n.) fin du 14e siècle, « porte, passage », du vieux français _portal_ « porte » (français moderne _portail_) et directement du latin médiéval _portale_ « porte de ville, porche », du neutre de _portalis_ (adj.) « d'une porte », du latin _porta_ « porte », du PIE _\*prta-_, forme suffixée de la racine PIE \*per- (2) « conduire, passer par-dessus ».
@@ -528,7 +528,7 @@ _\-on:_ élément génétique de base
 
 ### Rantulia
 
-[LU 41:2.1](/fr/The_Urantia_Book/41#p2_1) Pas besoin de religion de seconde main ici (Rant) ; ils ont tout ce dont ils ont besoin et sont bien au-delà de cela (ul) dans ces parties de l'univers (ia).
+<a id="a530_0"></a>[LU 41:2.1](/fr/The_Urantia_Book/41#p2_1) Pas besoin de religion de seconde main ici (Rant) ; ils ont tout ce dont ils ont besoin et sont bien au-delà de cela (ul) dans ces parties de l'univers (ia).
 
 Extrait de Wikipédia : Les Ranters étaient l’un des nombreux groupes dissidents qui ont émergé à l’époque du Commonwealth anglais (1649-1660). C’étaient en grande partie des gens ordinaires et il existe de nombreuses preuves que le mouvement était répandu dans toute l’Angleterre, bien qu’ils n’étaient pas organisés et n’avaient pas de chef. … Les Ranters niaient l’autorité des églises, des écritures, du ministère actuel et des services, appelant plutôt les hommes à écouter le divin en eux. À bien des égards, ils ressemblent aux Frères du Libre Esprit du 14e siècle. En fait, ils suscitaient une telle controverse qu’au début des années 1650, de nombreux pamphlets anti-Ranters circulaient dans toute la Grande-Bretagne.
 
@@ -576,14 +576,14 @@ _satiate (v.) :_ milieu du 15e siècle, du latin _satiatus_, participe passé de
 
 ### Sandmatia
 
-[LU 41:2.1](/fr/The_Urantia_Book/41#p2_1) Les bords rugueux sont poncés (Sable), car le processus de maturation perfectionne les âmes testées par le temps (mat) de ce système (ia).
+<a id="a578_0"></a>[LU 41:2.1](/fr/The_Urantia_Book/41#p2_1) Les bords rugueux sont poncés (Sable), car le processus de maturation perfectionne les âmes testées par le temps (mat) de ce système (ia).
 
 _sable (v.) :_ fin du 14e siècle, signifiant « meuler ou polir avec du sable » date de 1858. En relation : _poncé_ ; _ponçage_.
 
 _mature (v.) :_ vers 1400, _maturen_, « encourager la suppuration » ; milieu du 15e siècle, des plantes, « faire mûrir, amener à maturité », du latin _mātūrare_ « mûrir, amener à maturité », de _mātūrus_ « mûr, opportun, tôt », apparenté à _māne_ « tôt, du matin », du PIE _meh-tu-_ « maturité ». De Vaan écrit que « la racine est probablement la même que dans _mānus_ “bon ».” Le sens intransitif de « arriver à un état de maturité, devenir mûr ou parfait » date des années 1650.
 
 La lettre « T » symbolise la croix.
-[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
+<a id="a585_0"></a>[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
 
 _\-ia_ : élément de formation de mots dans les noms de pays, de maladies et de fleurs, du latin et du grec. _\-ia_, terminaison nominale, en grec particulièrement utilisée pour former des noms abstraits (typiquement de genre féminin).
 
@@ -599,7 +599,7 @@ _\-ic :_ du moyen anglais _\-ik_, _\-ick_, élément constitutif des adjectifs, 
 
 ### Sanselon
 
-[LU 32:2.12](/fr/The_Urantia_Book/32#p2_12) L'un des sept univers locaux les plus proches.
+<a id="a601_0"></a>[LU 32:2.12](/fr/The_Urantia_Book/32#p2_12) L'un des sept univers locaux les plus proches.
 Le lieu où (S) la sainteté (San) se développe chez les individus (sel) par conception (on).
 
 _San- :_ saint ou saint comme dans sangrail—Saint Graal.
@@ -611,13 +611,13 @@ _\-on:_ élément génétique de base
 
 ### Satania
 
-[LU 15:7.5](/fr/The_Urantia_Book/15#p7_5) _Jérusem_, le siège de votre système local de Satania, a ses sept mondes de culture de transition, chacun d’eux étant entouré de sept satellites, parmi lesquels se trouvent les sept mondes des maisons de détention morontielle, la première résidence post-mortelle de l’homme. Comme le terme ciel a été utilisé sur Urantia, il a parfois signifié ces sept mondes des maisons, le premier monde des maisons étant appelé le premier ciel, et ainsi de suite jusqu’au septième.
+<a id="a613_0"></a>[LU 15:7.5](/fr/The_Urantia_Book/15#p7_5) _Jérusem_, le siège de votre système local de Satania, a ses sept mondes de culture de transition, chacun d’eux étant entouré de sept satellites, parmi lesquels se trouvent les sept mondes des maisons de détention morontielle, la première résidence post-mortelle de l’homme. Comme le terme ciel a été utilisé sur Urantia, il a parfois signifié ces sept mondes des maisons, le premier monde des maisons étant appelé le premier ciel, et ainsi de suite jusqu’au septième.
 
 Le lieu originel, archétypique (S) de l'adversité (satan) qui transforme l'impersonnel en personnel, l'animal en humain, la poussière morte en vie robuste. (-ia, au lieu de –tia).
 
 ### Serapatatia
 
-[LU 75:2.4](/fr/The_Urantia_Book/75#p2_4) Eve avait scrupuleusement suivi ces instructions pendant plus de cent ans, et il ne lui était pas venu à l'esprit qu'un quelconque danger pourrait être lié aux visites de plus en plus privées et confidentielles qu'elle recevait d'un certain chef nodite nommé Serapatatia.
+<a id="a619_0"></a>[LU 75:2.4](/fr/The_Urantia_Book/75#p2_4) Eve avait scrupuleusement suivi ces instructions pendant plus de cent ans, et il ne lui était pas venu à l'esprit qu'un quelconque danger pourrait être lié aux visites de plus en plus privées et confidentielles qu'elle recevait d'un certain chef nodite nommé Serapatatia.
 Il (S) a une attitude « Que sera sera » (Sera) concernant la paternité (pat) avec ses proches (at) (ia).
 
 _sera:_ « Que sera sera. » Vraiisme français signifiant : Ce qui doit arriver arrivera.
@@ -634,7 +634,7 @@ Celui qui (S) joue le sage (solon) dans la vie (ia).
 
 ### Sortoria
 
-[LU 41:2.1](/fr/The_Urantia_Book/41#p2_1) Une constellation voisine.
+<a id="a636_0"></a>[LU 41:2.1](/fr/The_Urantia_Book/41#p2_1) Une constellation voisine.
 Il y a un destin (en quelque sorte) pour ce qui est né (sur) ici (ia).
 
 _sort (n.)_ : fin du XIVe siècle, « groupe de personnes, d'animaux, etc. ; genre ou variété de personne ou d'animal », du vieux français _sorte_ « classe, genre », du latin _sortem_ (nominatif _sors_) « sort ; sort, destinée ; part, portion ; rang, catégorie ; sexe, classe, réponse oraculaire, prophétie », de la racine PIE _ser-_ (2) « aligner ». _Out of sorts_ « pas en bon état habituel » est attesté à partir des années 1620, avec le sens littéral de « en rupture de stock ».
@@ -654,7 +654,7 @@ _\-ia_ : élément de formation de mots dans les noms de pays, de maladies et de
 
 Le lieu axé sur l'explication complète des choses (Splan) est soumis à la règle paternelle (don).
 
-[LU 18:4.8](/fr/The_Urantia_Book/18#p4_8) Le travail des pèlerins du temps sur les mondes entourant le siège d'un secteur majeur est principalement de nature intellectuelle, en contraste avec le caractère plus physique et matériel de la formation sur les sept sphères éducatives d'un secteur mineur et avec les entreprises spirituelles sur les quatre cent quatre-vingt-dix mondes universitaires du siège d'un superunivers.
+<a id="a656_0"></a>[LU 18:4.8](/fr/The_Urantia_Book/18#p4_8) Le travail des pèlerins du temps sur les mondes entourant le siège d'un secteur majeur est principalement de nature intellectuelle, en contraste avec le caractère plus physique et matériel de la formation sur les sept sphères éducatives d'un secteur mineur et avec les entreprises spirituelles sur les quatre cent quatre-vingt-dix mondes universitaires du siège d'un superunivers.
 
 Considérez, lorsque vous lisez les notes suivantes, comment nous en sommes venus à utiliser des expressions telles que « se mettre sur un pied d’égalité » et « aplanir les choses ».
 
@@ -670,7 +670,7 @@ _don (n.) :_ titre de respect, années 1520, de l’espagnol ou du portugais _Do
 
 ### Tabamantia
 
-[LU 49:5.12](/fr/The_Urantia_Book/49#p5_12) Un tabulateur (Tab) du premier ordre (a), qui évalue de manière exhaustive les potentiels futurs (mant) d'un monde (ia) brûlé par la rébellion (T).
+<a id="a672_0"></a>[LU 49:5.12](/fr/The_Urantia_Book/49#p5_12) Un tabulateur (Tab) du premier ordre (a), qui évalue de manière exhaustive les potentiels futurs (mant) d'un monde (ia) brûlé par la rébellion (T).
 
 Tabamantia, superviseur souverain de la série des mondes décimaux ou expérimentaux, vint inspecter la planète et, après son examen du progrès racial, recommanda dûment qu'on accorde à Urantia des Fils Matériels. Un peu moins de cent ans après cette inspection, Adam et Eve, un Fils et une Fille Matériels du système local, arrivèrent et commencèrent la tâche difficile de tenter de démêler les affaires confuses d'une planète retardée par la rébellion et reposant sous l'interdiction de l'isolement spirituel.
 
@@ -683,7 +683,7 @@ mantic (adj.) : 1850, du grec mantikos « prophétique, oraculaire, de ou pour u
 manta : raie de très grande taille (appelée aussi diable de mer), 1760, de l'espèce manta « couverture » (qui est attestée en anglais dès 1748 dans ce sens, spécifiquement en référence à un type de cape ou de manteau porté par les Espagnols), de L.L. mantum « manteau », formation dorsale de L. mantellum « manteau » (voir manteau (n.)). La raie est ainsi appelée « parce qu'elle est large et longue comme une courtepointe » \[Jorge Juan et Antonio de Ulloa, « Un voyage en Amérique du Sud »\].
 
 La lettre « T » symbolise la croix.
-[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
+<a id="a685_0"></a>[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
 
 _\-ia_ : élément de formation de mots dans les noms de pays, de maladies et de fleurs, du latin et du grec. _\-ia_, terminaison nominale, en grec particulièrement utilisée pour former des noms abstraits (typiquement de genre féminin).
 
@@ -701,7 +701,7 @@ _uranien (adj.) : Uranie_ « Céleste » (grec _Ourania_) étant une épithète 
 _Urania_ : nom de la Muse de l'astronomie et des forces célestes, du latin _Urania_, du grec _Ourania_, fém. de _ouranios_, littéralement « céleste », de _ouranos_
 
 La lettre « T » symbolise la croix.
-[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
+<a id="a703_0"></a>[LU 188:4.1](/fr/The_Urantia_Book/188#p4_1) C'est un fait qu'Urantia est devenue connue parmi les autres planètes habitées voisines sous le nom de « Monde de la Croix ».
 
 _\-ia_ : élément de formation de mots dans les noms de pays, de maladies et de fleurs, du latin et du grec. _\-ia_, terminaison nominale, en grec particulièrement utilisée pour former des noms abstraits (typiquement de genre féminin).
 
@@ -715,7 +715,7 @@ La capitale du superunivers d'Orvonton. Étymologie de Chris Halvorson :
 
 ### Veluntia
 
-[LU 41:4.6](/fr/The_Urantia_Book/41#p4_6) Le soleil massif de Veluntia, l'un des plus grands d'Orvonton…
+<a id="a717_0"></a>[LU 41:4.6](/fr/The_Urantia_Book/41#p4_6) Le soleil massif de Veluntia, l'un des plus grands d'Orvonton…
 
 ### Vevona
 
@@ -730,7 +730,7 @@ Na : symbole chimique du sodium, du latin natrium
 
 ### Vilton
 
-[LU 45:3.6](/fr/The_Urantia_Book/45#p3_6) 5. _L'enregistreur système—_Vilton …
+<a id="a732_0"></a>[LU 45:3.6](/fr/The_Urantia_Book/45#p3_6) 5. _L'enregistreur système—_Vilton …
 Celui qui garde les archives (V) pour ce groupe de planètes (Vil) résonne avec (ton) nos expériences passées (on).
 
 _villa (n.) :_ années 1610, « manoir de campagne des anciens Romains », de l'italien _villa_ « maison de campagne, villa, ferme », du latin _villa_ « maison de campagne, ferme », apparenté à _vicus_ « village, groupe de maisons », du PIE _weik-sla-_, forme suffixée de la racine _weik-_ « clan ».
@@ -762,7 +762,7 @@ C'est la source/preuve hypothétique de son existence qui est fournie par : le s
 
 ### Wolvering
 
-[LU 32:2.12](/fr/The_Urantia_Book/32#p2_12) L'un des sept univers locaux les plus proches.
+<a id="a764_0"></a>[LU 32:2.12](/fr/The_Urantia_Book/32#p2_12) L'un des sept univers locaux les plus proches.
 Le lieu où (W) l'harmonie entre les aspects spirituels et matériels de la vie (Wol) expérimente le renouveau (ver) comme un mode de vie (ing).
 
 _Wol-:_ Sol (n.) « le soleil personnifié », milieu du XVe siècle (également en vieil anglais), du latin sol « le soleil, la lumière du soleil », du PIE \*s(e)wol-, variante de la racine \*sawel- « le soleil ». Le français soleil (Xe s.) vient du latin vulgaire \*soliculus, diminutif de sol ; en latin vulgaire, les diminutifs avaient le sens complet de leurs principaux mots. \[Wikipedia: [Vulgar Latin](https://en.wikipedia.org/wiki/Vulgar_Latin). Ceci est une étude remarquable en soi. Les spéculations sur la façon dont cela se rapporte au contexte donné sont les bienvenues.\]

@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Julian_McGarry/Presidents_Report_December_2019">
+          <span class="pr-2">Rapport du Président – Décembre 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -172,7 +193,7 @@ Je voudrais tout d'abord remercier le groupe de Canberra pour cette conférence 
 Ce fut un jour historique lorsque Jésus déposa ses outils de menuiserie dans le hangar à bateaux pour la dernière fois, après avoir entendu que Jean-Baptiste avait été arrêté, et entra dans le temple pour commencer son ministère d'enseignement public et prêcha sur le « royaume intérieur » où il dit :
 <br style="clear:both;"/>
 
-> _« Ce royaume est un empire perpétuel. Ceux qui entrent dans le royaume monteront jusqu’à mon Père ; ils atteindront certainement sa droite en gloire au Paradis. Tous ceux qui entrent dans le royaume des cieux deviendront fils de Dieu, et, dans les temps à venir aussi, ils s’élèveront jusqu’au Père. Je ne suis pas venu appeler les prétendus justes, mais les pécheurs et tous ceux qui ont faim et soif de la droiture de la perfection divine._ (<a id="a174_447"></a>[LU 137:8.16](/fr/The_Urantia_Book/137#p8_16))
+> _« Ce royaume est un empire perpétuel. Ceux qui entrent dans le royaume monteront jusqu’à mon Père ; ils atteindront certainement sa droite en gloire au Paradis. Tous ceux qui entrent dans le royaume des cieux deviendront fils de Dieu, et, dans les temps à venir aussi, ils s’élèveront jusqu’au Père. Je ne suis pas venu appeler les prétendus justes, mais les pécheurs et tous ceux qui ont faim et soif de la droiture de la perfection divine._ (<a id="a195_447"></a>[LU 137:8.16](/fr/The_Urantia_Book/137#p8_16))
 
 Je reviendrai sur ce sujet mais avant (puisque c'est le jour de la grande finale de foot !) je veux parler un peu des buts.
 
@@ -220,7 +241,7 @@ _(Note de l’éditeur : **Mining the Archives** est un recueil d’articles qui
 
 **Le monde intérieur de l'humanité : à la recherche d'une description pour la cinquième époque**
 
-_Les avancées de la véritable civilisation naissent toutes dans ce monde intérieur de l'humanité._ <a id="a222_99"></a>[[LU 111:4.3](/fr/The_Urantia_Book/111#p4_3)]
+_Les avancées de la véritable civilisation naissent toutes dans ce monde intérieur de l'humanité._ <a id="a243_99"></a>[[LU 111:4.3](/fr/The_Urantia_Book/111#p4_3)]
 
 L'humanité n'a pas encore partagé de monde intérieur. Jusqu'à présent, les mondes intérieurs de nos tribus et de nos nations ont été fragmentés et locaux. Au lieu d'une riche tapisserie de vérité et de faits, les toiles de fond de ces mondes intérieurs partiels ont été des collages plus ou moins grossiers, tissés de rêves, de peurs et d'ambitions, parfois parsemés de joyaux disloqués de révélation.
 
@@ -320,3 +341,25 @@ Certains groupes d'études incluent la participation virtuelle via Zoom si vous 
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/newsletter/arena-summer-2019/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Julian_McGarry/Presidents_Report_December_2019">
+          <span class="pr-2">Rapport du Président – Décembre 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

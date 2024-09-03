@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/Presidents_Report_Winter_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du président – Hiver 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Arena/Study_Day_2021_Reflections">
+          <span class="pr-2">Journée d'étude 2021 – Réflexions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -27,7 +51,7 @@ Mais qu’est-ce qu’une clé de voûte ? Dans la construction d’une arche, l
 
 L'équipe de planification de la conférence s'est efforcée de produire un programme qui aborde en profondeur des sujets qui nous tiennent à cœur, tout en laissant beaucoup de temps à la discussion. Notre objectif est de trouver et de décortiquer les éléments – ou les qualités – nécessaires pour constituer notre clé de voûte.
 
-> _La vérité est cohérente, la beauté est attrayante, la bonté est stabilisante. Et, quand ces trois valeurs de la réalité sont coordonnées dans l’expérience d’une personnalité, il en résulte une haute qualité d’amour, conditionnée par la sagesse et qualifiée par la loyauté. Le véritable but de toute éducation dans l’univers est de mieux coordonner les enfants isolés des mondes avec les plus grandes réalités de leur expérience croissante. La réalité est finie au niveau humain, elle est infinie et éternelle aux niveaux supérieurs et divins._ (<a id="a29_548"></a>[LU 2:7.12](/fr/The_Urantia_Book/2#p7_12))
+> _La vérité est cohérente, la beauté est attrayante, la bonté est stabilisante. Et, quand ces trois valeurs de la réalité sont coordonnées dans l’expérience d’une personnalité, il en résulte une haute qualité d’amour, conditionnée par la sagesse et qualifiée par la loyauté. Le véritable but de toute éducation dans l’univers est de mieux coordonner les enfants isolés des mondes avec les plus grandes réalités de leur expérience croissante. La réalité est finie au niveau humain, elle est infinie et éternelle aux niveaux supérieurs et divins._ (<a id="a53_548"></a>[LU 2:7.12](/fr/The_Urantia_Book/2#p7_12))
 
 En avant-première, voici une liste des présentations et des présentateurs :
 
@@ -56,3 +80,28 @@ Téléphone : 0431 285 943
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2021/07/29/sydney-conference-reminder-2021)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/Presidents_Report_Winter_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du président – Hiver 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Arena/Study_Day_2021_Reflections">
+          <span class="pr-2">Journée d'étude 2021 – Réflexions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

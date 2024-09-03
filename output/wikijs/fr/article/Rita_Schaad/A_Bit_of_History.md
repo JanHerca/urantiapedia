@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Rita Schaad<br>© 2020 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Norman_Weiss_and_Diana_Whakapapa/Post_Covid_19_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritualité post-Covid 19</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nigel_Nunn/Ancient_Orvonton_and_a_Young_Cosmic_Web">
+          <span class="pr-2">L'ancien Orvonton et une jeune toile cosmique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Rita Schaad, Nouvelle-Galles du Sud
@@ -149,3 +173,28 @@ Rita Schaad, Newcastle Nouvelle-Galles du Sud
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2021/02/10/a-bit-of-history)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Norman_Weiss_and_Diana_Whakapapa/Post_Covid_19_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritualité post-Covid 19</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nigel_Nunn/Ancient_Orvonton_and_a_Young_Cosmic_Web">
+          <span class="pr-2">L'ancien Orvonton et une jeune toile cosmique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

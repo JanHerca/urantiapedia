@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rita_Schaad/Presidents_Report_Winter_2023">
+          <span class="pr-2">Rapport du président – Hiver 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -96,7 +117,7 @@ L'une des conférences les plus riches en événements de la soirée d'Amathus f
 
 « … Ce que j’exige de vous, mes apôtres, c’est **l’unité spirituelle** — et que vous puissiez en faire l’expérience dans la joie de votre dévouement unifié à l’accomplissement sans réserve de la volonté de mon Père céleste. »
 
-« Vous n’avez pas besoin de voir ou de ressentir la même chose ou même de penser de la même façon pour être spirituellement semblables. » (<a id="a98_139"></a>[LU 141:5.1-4](/fr/The_Urantia_Book/141#p5_1))
+« Vous n’avez pas besoin de voir ou de ressentir la même chose ou même de penser de la même façon pour être spirituellement semblables. » (<a id="a119_139"></a>[LU 141:5.1-4](/fr/The_Urantia_Book/141#p5_1))
 
 L'unité de l'esprit est quelque chose pour laquelle il faut travailler et s'efforcer, elle ne vient pas automatiquement, elle doit être pensée et organisée consciemment.
 
@@ -146,7 +167,7 @@ _(Il s'agit d'un dialogue entre Jeff et Mathab qui a été présenté via Zoom l
 
 **Discours de Mathab :**
 
-« Dans sa véritable essence, la religion est une foi-confiance en la bonté de Dieu ». (<a id="a148_87"></a>[LU 2:6.1](/fr/The_Urantia_Book/2#p6_1)) Un récent problème de santé m'a fait me demander à quel point cette affirmation est vraie dans ma propre expérience personnelle.
+« Dans sa véritable essence, la religion est une foi-confiance en la bonté de Dieu ». (<a id="a169_87"></a>[LU 2:6.1](/fr/The_Urantia_Book/2#p6_1)) Un récent problème de santé m'a fait me demander à quel point cette affirmation est vraie dans ma propre expérience personnelle.
 
 Un matin, je me suis réveillée avec la gorge enflée et j’arrivais à peine à avaler ma salive. Pendant les jours qui ont suivi, j’ai essayé de manger de petites bouchées en espérant que cela passerait en un jour ou deux. Ce n’était pas le cas et, en fait, les choses ont empiré. Peu à peu, j’ai commencé à avoir du mal à parler et j’ai commencé à perdre ma voix, suivie d’une perte de poids importante. Après avoir consulté quelques spécialistes, j’ai reçu un diagnostic de reflux laryngopharyngé pathologique ou RLP. Il m’a fallu un certain temps pour comprendre que cela pouvait devenir une maladie chronique. J’avais peur, car rien ne semblait m’aider, et je cherchais désespérément une explication à ce qui avait provoqué mes symptômes en premier lieu.
 
@@ -234,7 +255,7 @@ L’hiver est bel et bien là dans notre partie du monde, et nous avons profité
 
 J’ai réfléchi à l’encouragement du Livre d’Urantia à « se régaler d’incertitude » !
 
-_…bien avant d'atteindre Havona, ces enfants ascendants du temps ont appris à se repaître d'incertitude, à s'engraisser de déception, à s'enthousiasmer face à une défaite apparente, à se revigorer en présence de difficultés, à faire preuve d'un courage indomptable face à l'immensité, et à exercer une foi invincible lorsqu'ils sont confrontés au défi de l'inexplicable_. (<a id="a236_373"></a>[LU 26:5.3](/fr/The_Urantia_Book/26#p5_3)).
+_…bien avant d'atteindre Havona, ces enfants ascendants du temps ont appris à se repaître d'incertitude, à s'engraisser de déception, à s'enthousiasmer face à une défaite apparente, à se revigorer en présence de difficultés, à faire preuve d'un courage indomptable face à l'immensité, et à exercer une foi invincible lorsqu'ils sont confrontés au défi de l'inexplicable_. (<a id="a257_373"></a>[LU 26:5.3](/fr/The_Urantia_Book/26#p5_3)).
 
 Nous avons certainement de nombreuses occasions de mettre cela en pratique – le temps est très incertain, le Covid n’a pas disparu, et nous commençons maintenant à vivre les premières phases de nos élections nationales, dont le résultat est également assez incertain, mais pourrait apporter beaucoup de changements.
 
@@ -302,3 +323,25 @@ Pour voir les numéros actuels et passés de l'_Arena_ [cliquez ici](https://anz
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/newsletter/arena-winter-2023/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rita_Schaad/Presidents_Report_Winter_2023">
+          <span class="pr-2">Rapport du président – Hiver 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

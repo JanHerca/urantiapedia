@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Vern_Verass/Conference_Reminder_Time_to_Register">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rappel de la conférence – Il est temps de s’inscrire !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Susan_Hemmingsen/New_Zealand_Corner_Winter_2019">
+          <span class="pr-2">Coin de la Nouvelle-Zélande – Hiver 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par le groupe de service de la journée d'étude
@@ -41,7 +65,7 @@ Des membres réguliers du groupe d'étude de Sydney ainsi que des voyageurs de W
 Après plus d’une demi-heure de lecture, nous avons remarqué que nous n’avions même pas encore tourné la page. Le premier paragraphe du document 9, qui commence par la phrase d’ouverture : _Une chose étrange s’est produite_… nous a vraiment laissés perplexes. Comment quelque chose dans la « maison » du Paradis peut-il être imprévu ou imprévisible ? Que pouvions-nous faire d’autre que de nous interroger sur les _prérogatives uniques de la synthèse_.
 <br style="clear:both;"/>
 
-> _...la Source-Centre Troisième est l’unificateur universel des multiples énergies et des diverses créations qui sont apparues comme conséquences du plan divin et du dessein éternel du Père Universel._ (<a id="a43_204"></a>[LU 9:0.2](/fr/The_Urantia_Book/9#p0_2))
+> _...la Source-Centre Troisième est l’unificateur universel des multiples énergies et des diverses créations qui sont apparues comme conséquences du plan divin et du dessein éternel du Père Universel._ (<a id="a67_204"></a>[LU 9:0.2](/fr/The_Urantia_Book/9#p0_2))
 
 Le Dieu de l'Esprit est également proche de nos cœurs. Nous chérissons vraiment notre esprit, notre conscience, notre santé mentale. Comment pourrions-nous autrement être capables de penser, de faire des choix, de créer et d'entretenir des relations, de réfléchir et de projeter des idées et des idéaux ? La Troisième Source et le Troisième Centre sont la raison même pour laquelle nous pouvons réellement étudier ces concepts élevés qui nous font tourner la tête. C'est vraiment impressionnant !
 
@@ -88,45 +112,45 @@ Suite à la Journée d’étude internationale de cette année, la discussion en
 En tant que Source et Centre à la fois pour (a) l'ingénierie matérielle et (b) le ministère spirituel personnel, l'Esprit Infini non seulement crée l'arène dans laquelle nous vivons, mais rend également possible notre progression dans cette arène. Il est crucial pour un tel progrès d'accepter (et de gérer !) le phénomène du _changement_. Pour nous, humains, l'un des changements les plus intéressants est le déplacement de notre siège d'identité, de l'association matérielle à l'identification morontielle :
 <br style="clear:both;"/>
 
-> _Ce transfert effectif d’une association matérielle à une identification morontielle s’effectue par la sincérité, la persistance et la fermeté des décisions de la créature humaine dans sa recherche de Dieu._ (<a id="a90_211"></a>[LU 112:2.20](/fr/The_Urantia_Book/112#p2_20))
+> _Ce transfert effectif d’une association matérielle à une identification morontielle s’effectue par la sincérité, la persistance et la fermeté des décisions de la créature humaine dans sa recherche de Dieu._ (<a id="a114_211"></a>[LU 112:2.20](/fr/The_Urantia_Book/112#p2_20))
 
 Ce qui nous a conduit à nous interroger sur les différents systèmes mentaux nécessaires pour rendre possible une telle transformation. Par exemple, concernant notre premier type d'esprit, dans la section 5 du document 117, l'auteur écrit :
 
-> _Dans l’expérience du mortel, l’intellect humain réside dans les pulsations rythmiques des esprits-mentaux adjuvats ; il met en actes ses décisions dans le cadre produit par sa mise en circuit dans ce ministère._ (<a id="a94_216"></a>[LU 117:5.7](/fr/The_Urantia_Book/117#p5_7))
+> _Dans l’expérience du mortel, l’intellect humain réside dans les pulsations rythmiques des esprits-mentaux adjuvats ; il met en actes ses décisions dans le cadre produit par sa mise en circuit dans ce ministère._ (<a id="a118_216"></a>[LU 117:5.7](/fr/The_Urantia_Book/117#p5_7))
 
-Plus tôt, dans le document 36, section 5, ce même système d'adjuvants est décrit comme «… un niveau de conscience du Ministre Divin… » (<a id="a96_136"></a>[LU 36:5.4](/fr/The_Urantia_Book/36#p5_4)), exposant l'intimité de notre relation avec cette « représentation de l'Esprit Infini dans l'univers local ». Mais l'intrigue s'épaissit. Plus tard dans la même section, nous lisons à propos des « cycles spirituels de l'Esprit Mère de l'univers local », ainsi que l'idée d'une « dotation supramentale » :
+Plus tôt, dans le document 36, section 5, ce même système d'adjuvants est décrit comme «… un niveau de conscience du Ministre Divin… » (<a id="a120_136"></a>[LU 36:5.4](/fr/The_Urantia_Book/36#p5_4)), exposant l'intimité de notre relation avec cette « représentation de l'Esprit Infini dans l'univers local ». Mais l'intrigue s'épaissit. Plus tard dans la même section, nous lisons à propos des « cycles spirituels de l'Esprit Mère de l'univers local », ainsi que l'idée d'une « dotation supramentale » :
 
-> _Lorsque la sensibilité spirituelle de l’intellect des créatures apparait, le mental créé devient aussitôt **supermental** et se trouve immédiatement encircuité dans les cycles spirituels de l’Esprit-Mère de l’univers local._ (<a id="a98_229"></a>[LU 36:5.15](/fr/The_Urantia_Book/36#p5_15))
+> _Lorsque la sensibilité spirituelle de l’intellect des créatures apparait, le mental créé devient aussitôt **supermental** et se trouve immédiatement encircuité dans les cycles spirituels de l’Esprit-Mère de l’univers local._ (<a id="a122_229"></a>[LU 36:5.15](/fr/The_Urantia_Book/36#p5_15))
 
 Devenir supramental et « instantanément en circuit dans les cycles spirituels de l'Esprit-Mère de l'univers local » soulève de nombreuses questions. Heureusement, notre contributeur le plus expérimenté du forum était là pour nous guider dans ces relations de super-adjuvant. Plus important encore, notre relation avec la présence personnelle du Ministre Divin, « le Saint-Esprit » :
 
-> _...l’esprit de la présence personnelle de la Divine Ministre, le Saint-Esprit des mondes habités ; ..._ (<a id="a102_108"></a>[LU 36:5.16](/fr/The_Urantia_Book/36#p5_16))
+> _...l’esprit de la présence personnelle de la Divine Ministre, le Saint-Esprit des mondes habités ; ..._ (<a id="a126_108"></a>[LU 36:5.16](/fr/The_Urantia_Book/36#p5_16))
 
-> _Le Saint-Esprit — c’est le premier don supramental, et il apparait infailliblement chez toutes les personnalités humaines de bonne foi. Son ministère auprès d’un mental affamé d’adoration et assoiffé de sagesse crée la capacité de comprendre par soi-même le postulat de la survie humaine, à la fois comme concept théologique et comme expérience personnelle actuelle et factuelle._ (<a id="a104_385"></a>[LU 92:0.4](/fr/The_Urantia_Book/92#p0_4))
+> _Le Saint-Esprit — c’est le premier don supramental, et il apparait infailliblement chez toutes les personnalités humaines de bonne foi. Son ministère auprès d’un mental affamé d’adoration et assoiffé de sagesse crée la capacité de comprendre par soi-même le postulat de la survie humaine, à la fois comme concept théologique et comme expérience personnelle actuelle et factuelle._ (<a id="a128_385"></a>[LU 92:0.4](/fr/The_Urantia_Book/92#p0_4))
 
-> _La première dotation supramentale de l’homme est la mise en circuit de sa personnalité dans le Saint-Esprit de l’Esprit Créatif de l’univers ; ..._ (<a id="a106_152"></a>[LU 103:0.1](/fr/The_Urantia_Book/103#p0_1))
+> _La première dotation supramentale de l’homme est la mise en circuit de sa personnalité dans le Saint-Esprit de l’Esprit Créatif de l’univers ; ..._ (<a id="a130_152"></a>[LU 103:0.1](/fr/The_Urantia_Book/103#p0_1))
 
 Bonita a expliqué en détail comment et pourquoi le Saint-Esprit est, pour nous les humains, le plus accessible et le plus personnel de ces « cycles spirituels de l'Esprit-Mère de l'univers local ». Ce fut une vision profonde et émouvante de notre relation personnelle avec l'Esprit Infini, via sa fille créatrice de l'univers local. Mais ce qui était vraiment fascinant, c'était le rôle que joue son Saint-Esprit pour nous libérer de la dépendance à son système mental adjuvant initial.
 
-> _Le Saint-Esprit — c’est le premier don supramental, et il apparait infailliblement chez toutes les personnalités humaines de bonne foi. Son ministère auprès d’un mental affamé d’adoration et assoiffé de sagesse crée la capacité de comprendre par soi-même le postulat de la survie humaine, à la fois comme concept théologique et comme expérience personnelle actuelle et factuelle._ (<a id="a110_385"></a>[LU 92:0.4](/fr/The_Urantia_Book/92#p0_4))
+> _Le Saint-Esprit — c’est le premier don supramental, et il apparait infailliblement chez toutes les personnalités humaines de bonne foi. Son ministère auprès d’un mental affamé d’adoration et assoiffé de sagesse crée la capacité de comprendre par soi-même le postulat de la survie humaine, à la fois comme concept théologique et comme expérience personnelle actuelle et factuelle._ (<a id="a134_385"></a>[LU 92:0.4](/fr/The_Urantia_Book/92#p0_4))
 
 En apprenant à orchestrer ces « pulsations rythmiques des esprits adjuvats », en maîtrisant la « prise de décision » et en ajustant notre esprit adjuvat pour qu'il soit « avide d'adoration et désireux de sagesse », le Saint-Esprit nous a déjà embrassés. Ainsi, nous bénéficions du double ministère de notre Ministre Divin de l'univers local : les impulsions de ses sept adjuvats d'en bas, plus les « leurres de maturité » murmurés par son Saint-Esprit d'en haut.
 
 Alors, qu'est-ce que cela a à voir avec la création de notre âme ?
 
-En faisant référence à la description des Médians de l’âme humaine comme « esprit moyen » (<a id="a116_91"></a>[LU 111:2.8](/fr/The_Urantia_Book/111#p2_8)), Bonita a fait valoir que notre âme émerge, naturellement et automatiquement, dans le cadre de notre encircuitement par le Saint-Esprit.
+En faisant référence à la description des Médians de l’âme humaine comme « esprit moyen » (<a id="a140_91"></a>[LU 111:2.8](/fr/The_Urantia_Book/111#p2_8)), Bonita a fait valoir que notre âme émerge, naturellement et automatiquement, dans le cadre de notre encircuitement par le Saint-Esprit.
 
-D'autres ont fait référence à <a id="a118_30"></a>[Paper 40:5.4-7](/fr/The_Urantia_Book/40#p5_4), qui décrit la repersonnalisation des survivants humains sur les mondes des maisons. Dans chaque cas, l'âme du survivant éveillé avait été associée - de manière transitoire ou permanente - à un Ajusteur :
+D'autres ont fait référence à <a id="a142_30"></a>[Paper 40:5.4-7](/fr/The_Urantia_Book/40#p5_4), qui décrit la repersonnalisation des survivants humains sur les mondes des maisons. Dans chaque cas, l'âme du survivant éveillé avait été associée - de manière transitoire ou permanente - à un Ajusteur :
 
 > _L'identification à l'esprit constitue le secret de la survie personnelle et détermine le destin de l'ascension spirituelle. Et puisque les Ajusteurs de Pensée sont les seuls esprits de potentiel de fusion à être identifiés à l'homme pendant la vie dans la chair, les mortels du temps et de l'espace sont principalement classés en fonction de leur relation à ces dons divins, les Moniteurs de Mystère intérieurs. Cette classification est la suivante :_
 
 > _1. Mortels chez qui le séjour de l’Ajusteur est passager ou expérientiel._
 > _2. Mortels du type qui ne fusionne pas avec les Ajusteurs._
-> _3. Mortels ayant le potentiel de fusionner avec leur Ajusteur._ (<a id="a124_68"></a>[LU 40:5.4-7](/fr/The_Urantia_Book/40#p5_4))
+> _3. Mortels ayant le potentiel de fusionner avec leur Ajusteur._ (<a id="a148_68"></a>[LU 40:5.4-7](/fr/The_Urantia_Book/40#p5_4))
 
-Cette section suggère que la création d'une âme nécessite une action de la part d'un Ajusteur. Cependant, Bonita nous a indiqué le document 108, section 2, « Conditions préalables à la présence d'un Ajusteur ». Pour Bonita, cette section implique qu'à l'époque précédant l'effusion de l'Esprit de Vérité, peu de mortels auraient satisfait à la liste des « influences et conditions » requises pour recevoir un Ajusteur. Mais si cette liste concernait une association permanente entre l'Ajusteur et l'humain, alors la porte reste ouverte pour tous les humains normaux en ces temps pré-effusion (qui montrent cette « lueur de foi la plus faible », (<a id="a126_646"></a>[LU 155:6.17](/fr/The_Urantia_Book/155#p6_17)) pour survivre via la fusion spirituelle, comme indiqué dans <a id="a126_753"></a>[LU 63:7.2](/fr/The_Urantia_Book/63#p7_2)(/fr/The_Urantia_Book/63#p7_2)),
+Cette section suggère que la création d'une âme nécessite une action de la part d'un Ajusteur. Cependant, Bonita nous a indiqué le document 108, section 2, « Conditions préalables à la présence d'un Ajusteur ». Pour Bonita, cette section implique qu'à l'époque précédant l'effusion de l'Esprit de Vérité, peu de mortels auraient satisfait à la liste des « influences et conditions » requises pour recevoir un Ajusteur. Mais si cette liste concernait une association permanente entre l'Ajusteur et l'humain, alors la porte reste ouverte pour tous les humains normaux en ces temps pré-effusion (qui montrent cette « lueur de foi la plus faible », (<a id="a150_646"></a>[LU 155:6.17](/fr/The_Urantia_Book/155#p6_17)) pour survivre via la fusion spirituelle, comme indiqué dans <a id="a150_753"></a>[LU 63:7.2](/fr/The_Urantia_Book/63#p7_2)(/fr/The_Urantia_Book/63#p7_2)),
 
-> _Andon et Fonta fusionnèrent sur Jérusem avec leur Ajusteur de Pensée, comme le firent plusieurs de leurs enfants dont Sontad, mais la majorité de leurs descendants, même immédiats, n’atteignit que la fusion avec l’Esprit._ (<a id="a128_227"></a>[LU 63:7.2](/fr/The_Urantia_Book/63#p7_2))
+> _Andon et Fonta fusionnèrent sur Jérusem avec leur Ajusteur de Pensée, comme le firent plusieurs de leurs enfants dont Sontad, mais la majorité de leurs descendants, même immédiats, n’atteignit que la fusion avec l’Esprit._ (<a id="a152_227"></a>[LU 63:7.2](/fr/The_Urantia_Book/63#p7_2))
 
 Si la majorité de ces « descendants immédiats » d’Andon et Fonta « parvenaient à la fusion spirituelle », cela résoudrait le problème de la survie humaine à l’époque précédant l’effusion de l’Esprit de Vérité par Michael. Des millions de survivants de l’époque pré-effusion auraient pu accueillir des Ajusteurs vierges, dont le premier acte dans leur acquisition d’expérience est d’initier une âme dans un être humain destiné à réaliser la fusion spirituelle.
 
@@ -136,29 +160,29 @@ D'autre part, Bonita a clarifié son point de vue sur le rôle du Saint-Esprit d
 
 J'ai répondu : « Bonita, merci d'avoir affiné la question ! C'est précisément cet « événement cocréatif qui donne naissance à l'âme morontielle » qui nous interrogeait. Concernant la naissance ou la création de nos âmes humaines, voici un échantillon rapide de citations soigneusement sélectionnées. À la fin, je soulève la question sur laquelle nous nous sommes heurtés.
 
-> _À mesure que l’âme, ***créée*** conjointement par le mental et l’Ajusteur, affirme progressivement son existence,..._ (<a id="a138_122"></a>[LU 5:2.5](/fr/The_Urantia_Book/5#p2_5))
+> _À mesure que l’âme, ***créée*** conjointement par le mental et l’Ajusteur, affirme progressivement son existence,..._ (<a id="a162_122"></a>[LU 5:2.5](/fr/The_Urantia_Book/5#p2_5))
 
-> _La présence intérieure du Moniteur de Mystère inaugure et rend possible le potentiel de ***croissance*** et de survie de l’âme immortelle._ (<a id="a140_144"></a>[LU 5:5.13](/fr/The_Urantia_Book/5#p5_13)) gras adjuté
+> _La présence intérieure du Moniteur de Mystère inaugure et rend possible le potentiel de ***croissance*** et de survie de l’âme immortelle._ (<a id="a164_144"></a>[LU 5:5.13](/fr/The_Urantia_Book/5#p5_13)) gras adjuté
 
-> _Un mental humain, discernant le bien et le mal, possédant la capacité d’adorer Dieu, en union avec un Ajusteur divin, représente pour un mortel tout ce qui est exigé pour déclencher et favoriser la production de son âme immortelle avec ses qualités de survie à condition qu’un tel individu doté d’esprit cherche Dieu, désire sincèrement d’être semblable à lui, et choisisse honnêtement de faire la volonté du Père qui est aux cieux._ (<a id="a142_438"></a>[LU 5:5.14](/fr/The_Urantia_Book/5#p5_14))
+> _Un mental humain, discernant le bien et le mal, possédant la capacité d’adorer Dieu, en union avec un Ajusteur divin, représente pour un mortel tout ce qui est exigé pour déclencher et favoriser la production de son âme immortelle avec ses qualités de survie à condition qu’un tel individu doté d’esprit cherche Dieu, désire sincèrement d’être semblable à lui, et choisisse honnêtement de faire la volonté du Père qui est aux cieux._ (<a id="a166_438"></a>[LU 5:5.14](/fr/The_Urantia_Book/5#p5_14))
 
-> _Cette personnalité matérielle et cette prépersonnalité spirituelle sont capables d’unir leurs attributs créateurs de manière ***à faire naitre*** l’identité survivante de l’âme immortelle._ (<a id="a144_194"></a>[LU 5:6.7](/fr/The_Urantia_Book/5#p6_7))
+> _Cette personnalité matérielle et cette prépersonnalité spirituelle sont capables d’unir leurs attributs créateurs de manière ***à faire naitre*** l’identité survivante de l’âme immortelle._ (<a id="a168_194"></a>[LU 5:6.7](/fr/The_Urantia_Book/5#p6_7))
 
-> _Durant ce séjour provisoire, les Ajusteurs stimulent l’évolution d’une âme immortelle exactement comme ils le font chez les êtres avec lesquels ils espèrent fusionner, ..._ (<a id="a146_177"></a>[LU 37:5.1](/fr/The_Urantia_Book/37#p5_1))
+> _Durant ce séjour provisoire, les Ajusteurs stimulent l’évolution d’une âme immortelle exactement comme ils le font chez les êtres avec lesquels ils espèrent fusionner, ..._ (<a id="a170_177"></a>[LU 37:5.1](/fr/The_Urantia_Book/37#p5_1))
 
-> _Pendant ce séjour temporaire, les Ajusteurs bâtissent la même contrepartie spirituelle de la nature mortelle — l’âme — que celle qu’ils bâtissent pour les candidats à la fusion avec eux._ (<a id="a148_192"></a>[LU 40:9.2](/fr/The_Urantia_Book/40#p9_2))
+> _Pendant ce séjour temporaire, les Ajusteurs bâtissent la même contrepartie spirituelle de la nature mortelle — l’âme — que celle qu’ils bâtissent pour les candidats à la fusion avec eux._ (<a id="a172_192"></a>[LU 40:9.2](/fr/The_Urantia_Book/40#p9_2))
 
-> _Vous devriez comprendre que la vie morontielle d’un mortel ascendant commence réellement sur les mondes habités lors de la ***conception*** de l’âme, ***au moment où*** le mental d’une créature de statut moral est habité par l’Ajusteur spirituel._ (<a id="a150_252"></a>[LU 48:6.2](/fr/The_Urantia_Book/48#p6_2)) gras adjuté
+> _Vous devriez comprendre que la vie morontielle d’un mortel ascendant commence réellement sur les mondes habités lors de la ***conception*** de l’âme, ***au moment où*** le mental d’une créature de statut moral est habité par l’Ajusteur spirituel._ (<a id="a174_252"></a>[LU 48:6.2](/fr/The_Urantia_Book/48#p6_2)) gras adjuté
 
-> _À mesure que la civilisation progresse, ces concepts superstitieux sont détruits, et l’homme dépend entièrement de la révélation et de l’expérience religieuse personnelle pour se faire une nouvelle idée de l’âme ***en tant que création conjointe*** du mental humain connaissant Dieu et de l’esprit divin qui l’habite, l’Ajusteur de Pensée._ (<a id="a152_345"></a>[LU 86:5.2](/fr/The_Urantia_Book/86#p5_2))
+> _À mesure que la civilisation progresse, ces concepts superstitieux sont détruits, et l’homme dépend entièrement de la révélation et de l’expérience religieuse personnelle pour se faire une nouvelle idée de l’âme ***en tant que création conjointe*** du mental humain connaissant Dieu et de l’esprit divin qui l’habite, l’Ajusteur de Pensée._ (<a id="a176_345"></a>[LU 86:5.2](/fr/The_Urantia_Book/86#p5_2))
 
-> _Le ***mental matériel*** de l’homme mortel est le métier cosmique qui porte le tissu morontiel ***sur lequel l’Ajusteur de Pensée intérieur brode*** les modèles spirituels d’un caractère universel possesseur de valeurs durables et de significations divines — une âme survivante à destinée ultime et à carrière sans fin, un finalitaire potentiel._ (<a id="a154_351"></a>[LU 111:2.2](/fr/The_Urantia_Book/111#p2_2))
+> _Le ***mental matériel*** de l’homme mortel est le métier cosmique qui porte le tissu morontiel ***sur lequel l’Ajusteur de Pensée intérieur brode*** les modèles spirituels d’un caractère universel possesseur de valeurs durables et de significations divines — une âme survivante à destinée ultime et à carrière sans fin, un finalitaire potentiel._ (<a id="a178_351"></a>[LU 111:2.2](/fr/The_Urantia_Book/111#p2_2))
 
-> _Les erreurs du mental mortel et les dérèglements de la conduite humaine peuvent notablement retarder l’évolution de l’âme. Toutefois, ils ne sauraient inhiber ce phénomène morontiel une fois qu’il a été ***déclenché*** par l’Ajusteur intérieur avec le consentement de la volonté de la créature._ (<a id="a156_300"></a>[LU 111:3.1](/fr/The_Urantia_Book/111#p3_1)) gras adjuté
+> _Les erreurs du mental mortel et les dérèglements de la conduite humaine peuvent notablement retarder l’évolution de l’âme. Toutefois, ils ne sauraient inhiber ce phénomène morontiel une fois qu’il a été ***déclenché*** par l’Ajusteur intérieur avec le consentement de la volonté de la créature._ (<a id="a180_300"></a>[LU 111:3.1](/fr/The_Urantia_Book/111#p3_1)) gras adjuté
 
-> _Cette entité nouvellement apparue est l’âme, et elle survit à la mort de votre corps physique aussi bien qu’à celle de votre mental matériel. Cette entité est ***l’enfant conjoint*** de la vie et des efforts conjugués du ***vous humain*** en liaison avec le ***vous divin***, l’Ajusteur. Cet enfant d’ascendance humaine et divine constitue l’élément survivant d’origine terrestre ; c’est le moi morontiel, l’âme immortelle._ (<a id="a158_429"></a>[LU 112:5.12](/fr/The_Urantia_Book/112#p5_12)) gras adjuté
+> _Cette entité nouvellement apparue est l’âme, et elle survit à la mort de votre corps physique aussi bien qu’à celle de votre mental matériel. Cette entité est ***l’enfant conjoint*** de la vie et des efforts conjugués du ***vous humain*** en liaison avec le ***vous divin***, l’Ajusteur. Cet enfant d’ascendance humaine et divine constitue l’élément survivant d’origine terrestre ; c’est le moi morontiel, l’âme immortelle._ (<a id="a182_429"></a>[LU 112:5.12](/fr/The_Urantia_Book/112#p5_12)) gras adjuté
 
-> _L’immortelle âme évoluante de l’homme, création conjointe du ***mental matériel*** et de ***l’Ajusteur***, ...._ (<a id="a160_117"></a>[LU 117:5.3](/fr/The_Urantia_Book/117#p5_3)) gras adjuté
+> _L’immortelle âme évoluante de l’homme, création conjointe du ***mental matériel*** et de ***l’Ajusteur***, ...._ (<a id="a184_117"></a>[LU 117:5.3](/fr/The_Urantia_Book/117#p5_3)) gras adjuté
 
 **Alors voici la question** : étant donné tout ce qui précède, un Ajusteur est-il **nécessaire** pour créer une âme humaine ?
 
@@ -170,9 +194,9 @@ Pour la réponse de Bonita et l’intégralité de l’excellente discussion, vo
 <img src="/image/article/The_Arena/Online-SD-Discussion-570x345.jpg" alt="Sydney Study Day">
 </figure>
 
-Une âme émerge. _« Découvrir, reconnaître, interpréter et choisir. »_ <a id="a172_70"></a>[[LU 196:3.10](/fr/The_Urantia_Book/196#p3_10)]
+Une âme émerge. _« Découvrir, reconnaître, interpréter et choisir. »_ <a id="a196_70"></a>[[LU 196:3.10](/fr/The_Urantia_Book/196#p3_10)]
 
-> « _Maintenant, ne vous y trompez pas, mon Père répondra toujours à la plus faible lueur de foi. Il prend note des émotions physiques et superstitieuses de l’homme primitif. Et, avec ces âmes honnêtes mais craintives, dont la foi est si faible qu’elle ne représente guère plus qu’un conformisme intellectuel à une attitude passive d’assentiment aux religions d’autorité, le Père est toujours vigilant pour honorer et soutenir même toutes ces faibles tentatives pour l’atteindre. Mais pour vous, qui avez été tirés des ténèbres et appelés dans la lumière, on s’attend que vous croyiez de tout cœur ; votre foi dominera les attitudes conjuguées du corps, du mental et de l’esprit._ » (<a id="a174_684"></a>[LU 155:6.17](/fr/The_Urantia_Book/155#p6_17))
+> « _Maintenant, ne vous y trompez pas, mon Père répondra toujours à la plus faible lueur de foi. Il prend note des émotions physiques et superstitieuses de l’homme primitif. Et, avec ces âmes honnêtes mais craintives, dont la foi est si faible qu’elle ne représente guère plus qu’un conformisme intellectuel à une attitude passive d’assentiment aux religions d’autorité, le Père est toujours vigilant pour honorer et soutenir même toutes ces faibles tentatives pour l’atteindre. Mais pour vous, qui avez été tirés des ténèbres et appelés dans la lumière, on s’attend que vous croyiez de tout cœur ; votre foi dominera les attitudes conjuguées du corps, du mental et de l’esprit._ » (<a id="a198_684"></a>[LU 155:6.17](/fr/The_Urantia_Book/155#p6_17))
 
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Arena/2019-SD-Screenshot-570x354.jpg" alt="Sydney Study Day">
@@ -182,3 +206,28 @@ Une âme émerge. _« Découvrir, reconnaître, interpréter et choisir. »_ <a 
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2019/07/31/study-day-2019-reflections)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Vern_Verass/Conference_Reminder_Time_to_Register">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rappel de la conférence – Il est temps de s’inscrire !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Susan_Hemmingsen/New_Zealand_Corner_Winter_2019">
+          <span class="pr-2">Coin de la Nouvelle-Zélande – Hiver 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

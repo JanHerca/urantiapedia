@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Ann Bendall<br>© 2020 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Neil_Francey/Universal_Ethics_Concepts_from_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éthique universelle – Concepts du Livre d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Moseley/The_Mind_Arena_of_Choice">
+          <span class="pr-2">L'arène mentale du choix</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Cecilia Ann Bendall, TAS
@@ -23,11 +47,11 @@ L'un des rares sujets qui, nous dit-on, ont poussé Jésus à être _agité dans
 > 
 > « _De cette manière, vous pouvez faire l’expérience d’une unité parfaite d’intention d’esprit et de compréhension d’esprit provenant de la conscience mutuelle de l’identité de chacun des esprits du ***Paradis*** qui vous habitent ; et vous pouvez jouir de la totalité de cette profonde unité spirituelle même devant la plus extrême diversité de vos attitudes individuelles dans les domaines de la réflexion intellectuelle, des sentiments innés et de la conduite sociale. Vos personnalités peuvent avoir une plaisante diversité et des différences marquées, en même temps que vos natures spirituelles et les fruits spirituels de votre adoration divine et de votre amour fraternel peuvent être si bien unifiés que tous ceux qui observent votre vie prendront certainement acte de cette identité d’esprit et de cette unité d’âme. Ils reconnaitront que vous avez vécu auprès de moi et que vous avez ainsi appris à faire d’une manière acceptable la volonté du Père qui est aux cieux. Vous pouvez atteindre l’unité dans le service de Dieu, même pendant que vous accomplissez ce service selon la technique de vos propres dons originaux de mental, de corps et d’âme._ »
 > 
-> « _Votre unité spirituelle implique deux facteurs qui s’harmonisent toujours dans la vie individuelle des croyants : premièrement, vous possédez un motif commun pour une vie de service ; chacun de vous désire par-dessus tout faire la volonté du Père qui est aux cieux. Et, deuxièmement, vous avez tous un but commun d’existence ; vous avez tous le dessein de trouver le Père qui est aux cieux, et de prouver, par là, à l’univers que vous êtes devenus semblables à lui._ » (<a id="a25_475"></a>[LU 141:5.1-3](/fr/The_Urantia_Book/141#p5_1))
+> « _Votre unité spirituelle implique deux facteurs qui s’harmonisent toujours dans la vie individuelle des croyants : premièrement, vous possédez un motif commun pour une vie de service ; chacun de vous désire par-dessus tout faire la volonté du Père qui est aux cieux. Et, deuxièmement, vous avez tous un but commun d’existence ; vous avez tous le dessein de trouver le Père qui est aux cieux, et de prouver, par là, à l’univers que vous êtes devenus semblables à lui._ » (<a id="a49_475"></a>[LU 141:5.1-3](/fr/The_Urantia_Book/141#p5_1))
 
 Il semble que Jésus ait eu du mal à faire passer ce message aux apôtres :
 
-> _Jésus revint bien des fois sur ce thème durant l’éducation des douze. À maintes reprises, il leur répéta qu’il ne désirait pas voir ceux qui croyaient en lui devenir dogmatiques et uniformisés conformément aux interprétations religieuses, même des gens de bien. Il ne cessa de mettre ses apôtres en garde contre l’élaboration de crédos et l’établissement de traditions comme moyen de guider et de contrôler les croyants dans l’évangile du royaume._ (<a id="a29_453"></a>[LU 141:5.4](/fr/The_Urantia_Book/141#p5_4))
+> _Jésus revint bien des fois sur ce thème durant l’éducation des douze. À maintes reprises, il leur répéta qu’il ne désirait pas voir ceux qui croyaient en lui devenir dogmatiques et uniformisés conformément aux interprétations religieuses, même des gens de bien. Il ne cessa de mettre ses apôtres en garde contre l’élaboration de crédos et l’établissement de traditions comme moyen de guider et de contrôler les croyants dans l’évangile du royaume._ (<a id="a53_453"></a>[LU 141:5.4](/fr/The_Urantia_Book/141#p5_4))
 
 Il y a quelque chose de très confortable à être avec des gens qui semblent penser comme nous. Et avec les connaissances glanées dans le Livre d’Urantia, nous savons que le message de Jésus à tout l’univers local était le message de son évangile – Dieu est notre Père Universel et nous sommes tous ses enfants, l’obtention du salut se fait par la foi, et la foi seule. De plus, le désir de Dieu est que nous apprenions tous à aimer comme Jésus l’a fait et à accorder notre volonté à sa volonté pour nous – être parfait comme notre Père Universel bien-aimé est illustré par Jésus en tant que Fils de l’Homme – notre inspiration quant à ce que peut devenir un être humain totalement engagé à faire la volonté de Dieu.
 
@@ -39,7 +63,7 @@ Nous semblons également ressentir que nous devons, (a) supprimer nos points de 
 
 En tant que sujet principal de mes recherches sur la façon dont l’être humain pense, je m’observe, encore et encore, en écoutant le point de vue d’un autre sur un sujet « religieux/spirituel », la certitude ou la conviction dans leur ton qu’ils disent une vérité universelle, suivi de mon opinion par rapport à un sujet. Sur un sujet passionné comme la religion, à de nombreuses occasions, la discussion dégénère rapidement en un débat important sur qui a « raison » et qui a « tort », avec une tendance à ne montrer absolument aucun respect pour la réalité actuelle de l’autre, dans notre besoin de l’éduquer dans l’erreur de sa croyance.
 
-Et ce, même si Jésus n'a jamais fait cela. Pour lui, «_… le véritable enseignant maintient son intégrité intellectuelle en restant toujours un apprenant._ » (<a id="a41_158"></a>[LU 130:3.7](/fr/The_Urantia_Book/130#p3_7))
+Et ce, même si Jésus n'a jamais fait cela. Pour lui, «_… le véritable enseignant maintient son intégrité intellectuelle en restant toujours un apprenant._ » (<a id="a65_158"></a>[LU 130:3.7](/fr/The_Urantia_Book/130#p3_7))
 
 Je m’étonne de la rapidité avec laquelle je peux m’attacher émotionnellement à mon point de vue et rejeter l’opinion divergente d’autrui comme étant le fruit de l’ignorance, accompagnée d’un penchant de ma part à le leur inférer.
 
@@ -47,11 +71,11 @@ Et pourtant, s’ils formulent une opinion sur un sujet quelconque comme un « t
 
 Un bel exemple de cette tendance humaine est fourni par Simon lorsqu'il interagit initialement avec Teherma qu'il considère comme un « adorateur du feu », bien que Teherma ait pris grand soin d'expliquer que le feu n'était que le symbole visible du Pur et du Saint. Dans mon interprétation actuelle du Livre d'Urantia, il semble que Simon n'était pas convaincu ou que Teherma ne pensait pas qu'il l'était.
 
-C'est pourquoi, plus tard, Simon demanda à Jésus pourquoi Téherma lui avait résisté, mais qu'après avoir parlé avec Jésus… _signifia son intention de rester plusieurs jours pour entendre l'enseignement et écouter la prédication._ (<a id="a49_231"></a>[LU 141:6.1](/fr/The_Urantia_Book/141#p6_1))
+C'est pourquoi, plus tard, Simon demanda à Jésus pourquoi Téherma lui avait résisté, mais qu'après avoir parlé avec Jésus… _signifia son intention de rester plusieurs jours pour entendre l'enseignement et écouter la prédication._ (<a id="a73_231"></a>[LU 141:6.1](/fr/The_Urantia_Book/141#p6_1))
 
 Jésus répondit :
 
-> « _Simon, Simon, combien de fois t’ai-je recommandé de t’abstenir de tout effort pour *retirer* quelque chose du cœur de ceux qui cherchent le salut ? Combien de fois je t’ai dit de ne travailler que pour faire *pénétrer* quelque chose dans ces âmes assoiffées. Conduis les hommes dans le royaume, et ensuite les grandes vérités vivantes du royaume ne tarderont pas à éliminer toute erreur sérieuse. Une fois que tu as annoncé à un mortel la bonne nouvelle que Dieu est son Père, tu peux d’autant plus facilement le persuader qu’il est en réalité un fils de Dieu. Ayant fait cela, tu as apporté la lumière du salut à un être plongé dans les ténèbres. Simon, la première fois que le Fils de l’Homme est venu vers toi, a-t-il condamné Moïse et les prophètes pour proclamer une nouvelle et meilleure manière de vivre ? Non. Je ne suis pas venu pour enlever ce que vous tenez de vos ancêtres, mais pour vous montrer la vision plus complète de ce que vos pères n’ont vu qu’en partie._ » (<a id="a53_985"></a>[LU 141:6.2](/fr/The_Urantia_Book/141#p6_2))
+> « _Simon, Simon, combien de fois t’ai-je recommandé de t’abstenir de tout effort pour *retirer* quelque chose du cœur de ceux qui cherchent le salut ? Combien de fois je t’ai dit de ne travailler que pour faire *pénétrer* quelque chose dans ces âmes assoiffées. Conduis les hommes dans le royaume, et ensuite les grandes vérités vivantes du royaume ne tarderont pas à éliminer toute erreur sérieuse. Une fois que tu as annoncé à un mortel la bonne nouvelle que Dieu est son Père, tu peux d’autant plus facilement le persuader qu’il est en réalité un fils de Dieu. Ayant fait cela, tu as apporté la lumière du salut à un être plongé dans les ténèbres. Simon, la première fois que le Fils de l’Homme est venu vers toi, a-t-il condamné Moïse et les prophètes pour proclamer une nouvelle et meilleure manière de vivre ? Non. Je ne suis pas venu pour enlever ce que vous tenez de vos ancêtres, mais pour vous montrer la vision plus complète de ce que vos pères n’ont vu qu’en partie._ » (<a id="a77_985"></a>[LU 141:6.2](/fr/The_Urantia_Book/141#p6_2))
 
 Après avoir lu _Le Livre d’Urantia_, j’ai apprécié combien il était important de respecter et de m’efforcer de comprendre la philosophie religieuse de mes frères et sœurs, comme le recommande _Le Livre d’Urantia_.
 
@@ -69,3 +93,28 @@ d'autres articles de Cecilia Ann Bendall peuvent être trouvés dans les archive
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2021/02/10/think-alike-necessary-or-unnecessary)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Neil_Francey/Universal_Ethics_Concepts_from_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éthique universelle – Concepts du Livre d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Moseley/The_Mind_Arena_of_Choice">
+          <span class="pr-2">L'arène mentale du choix</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Regina Williamson<br>© 2022 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/Urantia_Book_Presentation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Présentation du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neil_Francey/Doing_According_to_the_Urantia_Papers">
+          <span class="pr-2">Agir selon les Livres d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Regina Williamson, VIC
@@ -43,3 +67,28 @@ Nous avons conclu que des expositions comme celle-ci étaient une excellente id�
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2022/07/26/reflections-body-mind-psychic-expo)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/Urantia_Book_Presentation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Présentation du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neil_Francey/Doing_According_to_the_Urantia_Papers">
+          <span class="pr-2">Agir selon les Livres d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

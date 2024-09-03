@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Vern Verass<br>© 2019 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Julian_McGarry/President_Report_Winter_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du Président – Hiver 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Arena/Study_Day_2019_Reflections">
+          <span class="pr-2">Journée d'étude 2019 – Réflexions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Vern Verass, ACT
@@ -28,7 +52,7 @@ Notre conférence à Canberra aura lieu dans seulement quelques mois, du 27 au 3
 Le thème de **L'esprit sur la matière ~ L'esprit sur l'esprit** donne amplement l'occasion de réfléchir au fait que
 
 
-> _...Les causes d’univers ne peuvent être inférieures aux effets d’univers. Il faut que la source des courants de la vie universelle et du mental cosmique soit au-dessus des niveaux de leur manifestation. On ne peut expliquer logiquement le mental humain en termes des ordres d’existence inférieurs. On ne peut vraiment comprendre le mental humain qu’en reconnaissant la réalité d’ordres supérieurs de pensée et de volonté intentionnelle._ (<a id="a30_442"></a>[LU 3:6.3](/fr/The_Urantia_Book/3#p6_3))
+> _...Les causes d’univers ne peuvent être inférieures aux effets d’univers. Il faut que la source des courants de la vie universelle et du mental cosmique soit au-dessus des niveaux de leur manifestation. On ne peut expliquer logiquement le mental humain en termes des ordres d’existence inférieurs. On ne peut vraiment comprendre le mental humain qu’en reconnaissant la réalité d’ordres supérieurs de pensée et de volonté intentionnelle._ (<a id="a54_442"></a>[LU 3:6.3](/fr/The_Urantia_Book/3#p6_3))
 
 Nous, mortels évolutionnaires, avons tendance à considérer le mental comme une médiation cosmique entre l'esprit et la matière, car c'est en effet le principal ministère du mental tel que nous le discernons. Pourtant, l'Ajusteur de Pensée est un pur esprit qui est volontaire et actif dans le mental. Votre Ajusteur de Pensée attend toujours d'agir de manière décisive en accord avec votre choix humain, et tous ces choix sont des réactions hautement volontaires. Dans toutes les situations qui ne concernent pas le domaine de la volonté humaine, cet Esprit Divin manifeste incontestablement une conduite qui dénote l'exercice de pouvoirs dans tous les sens du terme, l'équivalent de la volonté, la décision maximisée.
 
@@ -54,3 +78,28 @@ Pour plus d'informations et pour connaître les modalités d'inscription, vous p
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2019/07/31/conference-reminder-register)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Julian_McGarry/President_Report_Winter_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du Président – Hiver 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Arena/Study_Day_2019_Reflections">
+          <span class="pr-2">Journée d'étude 2019 – Réflexions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

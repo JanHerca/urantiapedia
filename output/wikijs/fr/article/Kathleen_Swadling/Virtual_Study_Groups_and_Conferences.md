@@ -9,6 +9,30 @@ dateCreated: 2023-11-05T01:11:28.972Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Kathleen Swadling<br>© 2020 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Julian_McGarry/Presidents_Report_Autumn_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du Président – Automne 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'arène-automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Arène – Automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dylan_Roberts/Workshop_Summary_Spirit_in_Society_Overcoming_Resistance">
+          <span class="pr-2">Résumé de l'atelier : L'esprit dans la société, vaincre la résistance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Kathleen Swadling, Sydney
@@ -42,11 +66,36 @@ https://www.youtube.com/channel/UC_a2gwYGKpctnii4_nx8_vA/
 
 Plusieurs groupes d’étude réguliers en Australie et en Nouvelle-Zélande sont devenus virtuels en raison des règles d’isolement, ce qui permet à un plus grand nombre de personnes de se joindre à nous alors qu’auparavant elles ne pouvaient pas se déplacer pour se rendre à un groupe. Pour plus d’informations sur les groupes d’étude dans notre région, consultez la [Liste de contacts des groupes d’étude](https://anzura.urantia-association.org/find-study-groups/) sur le site Web de l’ANZURA.
 
-> _La personnalité agit difficilement dans l’isolement. L’homme est, par naissance, une créature sociable ; il est dominé par un désir ardent d’appartenance. Il est littéralement vrai « qu’aucun homme ne vit pour lui-même »._ (<a id="a44_227"></a>[LU 112:1.16](/fr/The_Urantia_Book/112#p1_16))
+> _La personnalité agit difficilement dans l’isolement. L’homme est, par naissance, une créature sociable ; il est dominé par un désir ardent d’appartenance. Il est littéralement vrai « qu’aucun homme ne vit pour lui-même »._ (<a id="a68_227"></a>[LU 112:1.16](/fr/The_Urantia_Book/112#p1_16))
 
-> _De courtes périodes où l’on se retire de la scène active de la vie peuvent ne pas présenter de dangers sérieux, mais l’isolement prolongé de la personnalité est fort indésirable._ (<a id="a46_184"></a>[LU 100:5.8](/fr/The_Urantia_Book/100#p5_8))
+> _De courtes périodes où l’on se retire de la scène active de la vie peuvent ne pas présenter de dangers sérieux, mais l’isolement prolongé de la personnalité est fort indésirable._ (<a id="a70_184"></a>[LU 100:5.8](/fr/The_Urantia_Book/100#p5_8))
 
 ## Références
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2020/05/10/virtual-study-groups-conferences)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Julian_McGarry/Presidents_Report_Autumn_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du Président – Automne 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'arène-automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Arène – Automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dylan_Roberts/Workshop_Summary_Spirit_in_Society_Overcoming_Resistance">
+          <span class="pr-2">Résumé de l'atelier : L'esprit dans la société, vaincre la résistance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

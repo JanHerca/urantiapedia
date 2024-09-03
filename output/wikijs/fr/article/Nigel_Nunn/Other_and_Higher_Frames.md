@@ -9,6 +9,30 @@ dateCreated: 2023-11-05T01:11:28.972Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Nigel Nunn<br>© 2020 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dylan_Roberts/Workshop_Summary_Spirit_in_Society_Overcoming_Resistance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Résumé de l'atelier : L'esprit dans la société, vaincre la résistance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'arène-automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Arène – Automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Susan_Hemmingsen/Disease_and_Immunity_in_Relation_to_UB">
+          <span class="pr-2">Maladie et immunité en relation avec le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Nigel Nunn, VIC
@@ -17,7 +41,7 @@ Par Nigel Nunn, VIC
 <img src="/image/article/The_Arena/Nigels-Video2-1-570x318.jpg" alt="Nigel Nunn">
 </figure>
 
-> _La foi emmène bien volontiers la ***raison*** aussi loin que la raison peut aller ; la foi continue ensuite son chemin avec la ***sagesse*** jusqu’à sa pleine limite philosophique ; après cela, elle ose se lancer dans le voyage sans limites et sans fin de l’univers, en seule compagnie de la VÉRITÉ._ (<a id="a19_305"></a>[LU 103:9.7](/fr/The_Urantia_Book/103#p9_7))
+> _La foi emmène bien volontiers la ***raison*** aussi loin que la raison peut aller ; la foi continue ensuite son chemin avec la ***sagesse*** jusqu’à sa pleine limite philosophique ; après cela, elle ose se lancer dans le voyage sans limites et sans fin de l’univers, en seule compagnie de la VÉRITÉ._ (<a id="a43_305"></a>[LU 103:9.7](/fr/The_Urantia_Book/103#p9_7))
 
 La « raison » a aidé les scientifiques à écrire des récits fascinants sur l'histoire de l'univers : big bangs inflationnistes, collisions de branes, multivers. Le problème est que chacune de ces histoires implique des hypothèses qui dépassent notre capacité à les réfuter. Ces histoires ont cependant toutes une caractéristique commune : une tentative de remplacer la foi par des faits dans leurs hypothèses.
 
@@ -28,7 +52,7 @@ La « raison » a aidé les scientifiques à écrire des récits fascinants sur 
 C'est là qu'ils se heurtent tous à un mur. Les faits à portée de main – comme les décalages vers le rouge et les rotations des galaxies, comme l'interaction quantifiée des particules – se révèlent inadéquats pour expliquer ce que les astronomes commencent à observer. À mesure que nos outils et nos techniques s'améliorent, les hypothèses qui étayent nos cosmologies actuellement concurrentes sont devenues de plus en plus tendues – contraintes par des faits de plus en plus gênants. Ainsi, la « sagesse » (et le bon sens) exigent que nous révisions ces hypothèses. Mais la sagesse est également limitée par les cadres dans lesquels nous pensons. C'est là qu'intervient le Livre d'Urantia :
 <br style="clear:both;"/>
 
-> _...L’homme est obligé de penser dans un cadre universel de mortel, mais cela ne signifie pas qu’il ne puisse imaginer d’autres cadres plus élevés, à l’intérieur desquels la pensée peut avoir lieu._ (<a id="a30_202"></a>[LU 115:1.2](/fr/The_Urantia_Book/115#p1_2))
+> _...L’homme est obligé de penser dans un cadre universel de mortel, mais cela ne signifie pas qu’il ne puisse imaginer d’autres cadres plus élevés, à l’intérieur desquels la pensée peut avoir lieu._ (<a id="a54_202"></a>[LU 115:1.2](/fr/The_Urantia_Book/115#p1_2))
 
 « D’autres cadres plus élevés… » Au moment même où Schrödinger et Dirac, Heisenberg et Pauli se débattaient avec la mécanique quantifiée, alors que Lemaitre et Hubble tentaient de cartographier le mouvement dans le cosmos, _Le Livre d’Urantia_ était présenté – un aperçu d’un « autre cadre plus élevé ». Cet aperçu comprend des idées visant à déplacer nos modèles standards actuels – de physique et de cosmologie – au-delà de la confusion dans laquelle ils sont maintenant coincés.
 
@@ -70,3 +94,28 @@ _**Le Livre d'Urantia**_ – un cadeau pour les âmes futures qui oseront se lan
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2019/10/31/other-higher-frames)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dylan_Roberts/Workshop_Summary_Spirit_in_Society_Overcoming_Resistance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Résumé de l'atelier : L'esprit dans la société, vaincre la résistance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'arène-automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Arène – Automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Susan_Hemmingsen/Disease_and_Immunity_in_Relation_to_UB">
+          <span class="pr-2">Maladie et immunité en relation avec le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -335,27 +335,27 @@ Les extraits du *Livre d’Urantia* fournis dans ce rapport fournissent une base
 
 [^1]: Avec des remerciements particuliers à Chris Halvorson, Ph.D., Fred Harris, J.D., et Donna Whelan
 
-[^2]: [LU 64:1.6](/fr/The_Urantia_Book/64#p1_6)
+[^2]: <a id="a337_6"></a>[LU 64:1.6](/fr/The_Urantia_Book/64#p1_6)
 
-[^3]: [LU 64:1.5](/fr/The_Urantia_Book/64#p1_5)
+[^3]: <a id="a339_6"></a>[LU 64:1.5](/fr/The_Urantia_Book/64#p1_5)
 
-[^4]: [LU 64:2.1-6](/fr/The_Urantia_Book/64#p2_1)
+[^4]: <a id="a341_6"></a>[LU 64:2.1-6](/fr/The_Urantia_Book/64#p2_1)
 
-[^5]: [LU 64:4.6](/fr/The_Urantia_Book/64#p4_6)
+[^5]: <a id="a343_6"></a>[LU 64:4.6](/fr/The_Urantia_Book/64#p4_6)
 
 [^6]: Projet AHOB, https://www.ahobproject.org/ et https://www.ahobproject.org/AHOBI/index_2.html
 
-[^7]: [64:1.5 - 64:2.6](/fr/The_Urantia_Book/64#p1_5)
+[^7]: <a id="a347_6"></a>[64:1.5 - 64:2.6](/fr/The_Urantia_Book/64#p1_5)
 
-[^8]: [LU 64:7.16-17](/fr/The_Urantia_Book/64#p7_16). Ces deux dernières phrases sont tirées d'une section relative à la période d'environ 500 000 à 80 000 ans.
+[^8]: <a id="a349_6"></a>[LU 64:7.16-17](/fr/The_Urantia_Book/64#p7_16). Ces deux dernières phrases sont tirées d'une section relative à la période d'environ 500 000 à 80 000 ans.
 
 [^9]: M.J. White, et S.J. Plunkett, *Mlle Layard fouille : un site paléolithique à Foxhall Road, Ipswich, 1903-1905*. Bristol : WASP, 2004.
 
 [^10]: Extrait de Wikipedia.com : « Le Paléolithique inférieur (ou Paléolithique inférieur) est la première subdivision du Paléolithique ou de l'Âge de la pierre ancienne. Il s'étend de 2,5 millions d'années environ, lorsque les premières preuves de l'artisanat et de l'utilisation d'outils en pierre par les hominidés apparaissent dans les archives archéologiques actuelles, jusqu'à il y a environ 100 000 ans, lorsque d'importants changements évolutifs et technologiques (modernité comportementale) ont inauguré le Paléolithique moyen. » https://en.wikipedia.org/wiki/Lower_Paleolithic
 
-[^11]: [LU 64:3.1,4-5](/fr/The_Urantia_Book/64#p3_1)
+[^11]: <a id="a355_7"></a>[LU 64:3.1,4-5](/fr/The_Urantia_Book/64#p3_1)
 
-[^12]: [LU 64:4.1-11](/fr/The_Urantia_Book/64#p4_1)
+[^12]: <a id="a357_7"></a>[LU 64:4.1-11](/fr/The_Urantia_Book/64#p4_1)
 
 [^13]: Les Arvicolinae sont une sous-famille de rongeurs qui comprend les campagnols, les lemmings et les rats musqués. https://en.wikipedia.org/wiki/Arvicolinae
 
@@ -365,11 +365,11 @@ Les extraits du *Livre d’Urantia* fournis dans ce rapport fournissent une base
 
 [^16]: Jonathan Leake, *Premier Néandertalien retrouvé à Torquay*, *The Sunday Times*, octobre 2006, https://www.thetimes.co.uk/article/first-neanderthal-tracked-to-torquay-th0zg0rl2ch [Lien nécessitant un abonnement] http://www.archaeology.ws/2006-10-3.htm [Lien avec le nouveau]
 
-[^17]: [LU 64:2.5](/fr/The_Urantia_Book/64#p2_5)
+[^17]: <a id="a367_7"></a>[LU 64:2.5](/fr/The_Urantia_Book/64#p2_5)
 
-[^18]: [LU 64:7.18](/fr/The_Urantia_Book/64#p7_18)
+[^18]: <a id="a369_7"></a>[LU 64:7.18](/fr/The_Urantia_Book/64#p7_18)
 
-[^19]: [LU 64:7.16](/fr/The_Urantia_Book/64#p7_16)
+[^19]: <a id="a371_7"></a>[LU 64:7.16](/fr/The_Urantia_Book/64#p7_16)
 
 [^20]: Le chron est une unité de temps, la plus courte utilisée en géochronologie pour désigner les périodes géologiques. La durée de chaque cron est variable. L'allongement d'un chron est fréquemment lié aux inversions du champ magnétique terrestre qui enregistrent le début et la fin de la période dans la roche. https://en.wikipedia.org/wiki/Magnetostratigraphy#Chron
 

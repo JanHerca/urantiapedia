@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/ANZURAs_Conference_Canberra_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence ANZURA Canberra 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'arène-automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Arène – Automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Graeme_C/On_the_Cosmic_Background">
+          <span class="pr-2">Sur le fond cosmique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par le conseil d'administration d'ANZURA
@@ -21,7 +45,7 @@ La Journée nationale d’étude de cette année, où vous pourrez participer à
 
 <br style="clear:both;"/>
 
-> _L’Esprit Infini, le Créateur Conjoint, est un ministre divin et universel. L’Esprit dispense sans cesse la miséricorde du Fils et l’amour du Père, en harmonie même avec la justice stable, invariante et droite de la Trinité du Paradis. Son influence et ses personnalités sont toujours proches de vous ; elles vous connaissent réellement et vous comprennent vraiment._ (<a id="a23_371"></a>[LU 9:0.3](/fr/The_Urantia_Book/9#p0_3))
+> _L’Esprit Infini, le Créateur Conjoint, est un ministre divin et universel. L’Esprit dispense sans cesse la miséricorde du Fils et l’amour du Père, en harmonie même avec la justice stable, invariante et droite de la Trinité du Paradis. Son influence et ses personnalités sont toujours proches de vous ; elles vous connaissent réellement et vous comprennent vraiment._ (<a id="a47_371"></a>[LU 9:0.3](/fr/The_Urantia_Book/9#p0_3))
 
 Nous avons une fois de plus invité le lectorat international à se joindre à nous afin que nous puissions être unis en Esprit avec les étudiants du _Livre d'Urantia_ à travers le monde entier.
 
@@ -39,3 +63,28 @@ Pour plus d'informations sur les groupes d'étude virtuels, contactez ANZURA en 
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2019/03/25/2019-national-study-day)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/ANZURAs_Conference_Canberra_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence ANZURA Canberra 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'arène-automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Arène – Automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Graeme_C/On_the_Cosmic_Background">
+          <span class="pr-2">Sur le fond cosmique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

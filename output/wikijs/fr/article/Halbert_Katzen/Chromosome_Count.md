@@ -116,15 +116,15 @@ Ainsi, lors de sa publication en 1955, les auteurs du Livre d'Urantia ont fait u
 
 ## Notes de bas de page :
 
-[^1]: [LU 36:2.4](/fr/The_Urantia_Book/36#p2_4) Les citations du _Livre d'Urantia_ sont fournies sous forme d'Article:Section.Paragraphe. Les « Articles » peuvent être considérés comme des « Chapitres ». « Urantia » est un mot inventé dont le sens étymologique est « (votre) place dans les cieux ».
+[^1]: <a id="a118_6"></a>[LU 36:2.4](/fr/The_Urantia_Book/36#p2_4) Les citations du _Livre d'Urantia_ sont fournies sous forme d'Article:Section.Paragraphe. Les « Articles » peuvent être considérés comme des « Chapitres ». « Urantia » est un mot inventé dont le sens étymologique est « (votre) place dans les cieux ».
 
-[^2]: [LU 101:4.2](/fr/The_Urantia_Book/101#p4_2)
+[^2]: <a id="a120_6"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2)
 
-[^3]: [LU 101:4.5](/fr/The_Urantia_Book/101#p4_5)
+[^3]: <a id="a122_6"></a>[LU 101:4.5](/fr/The_Urantia_Book/101#p4_5)
 
 [^4]: http://www.answers.com/topic/cosmology
 
-[^5]: [LU 77:2.5](/fr/The_Urantia_Book/77#p2_5)
+[^5]: <a id="a126_6"></a>[LU 77:2.5](/fr/The_Urantia_Book/77#p2_5)
 
 [^6]: http://en.wikipedia.org/wiki/Cytogenetics
 

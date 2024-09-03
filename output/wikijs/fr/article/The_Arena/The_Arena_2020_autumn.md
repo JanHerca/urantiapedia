@@ -9,6 +9,27 @@ dateCreated: 2023-11-05T01:11:28.972Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'arène-automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Arène – Automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Julian_McGarry/Presidents_Report_Autumn_2020">
+          <span class="pr-2">Rapport du Président – Automne 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -98,7 +119,7 @@ Nigel Nunn, Victoria
 <img src="/image/article/The_Arena/Nigels-Video2-1-570x318.jpg" alt="Nigel Nunn">
 </figure>
 
-> _La foi emmène bien volontiers la ***raison*** aussi loin que la raison peut aller ; la foi continue ensuite son chemin avec la ***sagesse*** jusqu’à sa pleine limite philosophique ; après cela, elle ose se lancer dans le voyage sans limites et sans fin de l’univers, en seule compagnie de la VÉRITÉ._ (<a id="a100_305"></a>[LU 103:9.7](/fr/The_Urantia_Book/103#p9_7))
+> _La foi emmène bien volontiers la ***raison*** aussi loin que la raison peut aller ; la foi continue ensuite son chemin avec la ***sagesse*** jusqu’à sa pleine limite philosophique ; après cela, elle ose se lancer dans le voyage sans limites et sans fin de l’univers, en seule compagnie de la VÉRITÉ._ (<a id="a121_305"></a>[LU 103:9.7](/fr/The_Urantia_Book/103#p9_7))
 
 La « raison » a aidé les scientifiques à écrire des récits fascinants sur l'histoire de l'univers : big bangs inflationnistes, collisions de branes, multivers. Le problème est que chacune de ces histoires implique des hypothèses qui dépassent notre capacité à les réfuter. Ces histoires ont cependant toutes une caractéristique commune : une tentative de remplacer la foi par des faits dans leurs hypothèses.
 
@@ -130,7 +151,7 @@ Julian McGarry – Hobart, Tasmanie
 
 (Il s'agit d'une présentation qui a été donnée lors de l'événement Urantia en ligne de 24 heures le 21 mars 2020)
 
-> _Rares sont les personnes qui vivent à la hauteur de la foi qu’elles possèdent réellement. La peur irraisonnée est une fraude intellectuelle maitresse pratiquée sur l’âme mortelle en évolution._ (<a id="a132_198"></a>[LU 48:7.4](/fr/The_Urantia_Book/48#p7_4))
+> _Rares sont les personnes qui vivent à la hauteur de la foi qu’elles possèdent réellement. La peur irraisonnée est une fraude intellectuelle maitresse pratiquée sur l’âme mortelle en évolution._ (<a id="a153_198"></a>[LU 48:7.4](/fr/The_Urantia_Book/48#p7_4))
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Julian-McGarry-ANZURA.jpg" alt="Julian McGarry">
@@ -282,3 +303,25 @@ Certains groupes d'études incluent la participation virtuelle via Zoom si vous 
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/newsletter/arena-autumn-2020/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'arène-automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Arène – Automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Julian_McGarry/Presidents_Report_Autumn_2020">
+          <span class="pr-2">Rapport du Président – Automne 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

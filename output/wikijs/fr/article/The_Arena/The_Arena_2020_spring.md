@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Julian_McGarry/Presidents_Report_Spring_2020">
+          <span class="pr-2">Rapport du président – Printemps 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -82,11 +103,11 @@ Groupe d'étude en ligne du mercredi soir
 Dans le document 151, **Hébergement et enseignement au bord de la mer**, Jésus a commencé à changer ses méthodes d'enseignement en utilisant des paraboles pour transmettre les vérités qu'il voulait transmettre. Les apôtres ont tous essayé d'interpréter la parabole du semeur et ont fini par avoir des interprétations très différentes. Puis, à la fin de la section 3 (Plus d'informations sur les paraboles), Jésus dit aux apôtres :
 
 
-> « _Avant de congédier le groupe pour la nuit, Jésus dit : « Maintenant, je vais vous raconter la fin de la parabole du semeur. Je veux vous éprouver pour savoir comment vous accepterez ceci : le royaume des cieux ressemble aussi à un homme qui a semé du bon grain sur la terre ; pendant qu’il dormait la nuit et vaquait à ses affaires le jour, le grain germa et grandit, et, sans qu’il sache comment, la plante arriva à maturité. Elle fut d’abord en herbe, puis il y eut l’épi, puis la plénitude du grain dans l’épi. Et, quand le grain fut mûr, l’homme prit sa faucille et ce fut la fin de la moisson. Que celui qui a une oreille pour entendre entende. »_ » (<a id="a84_661"></a>[LU 151:3.15](/fr/The_Urantia_Book/151#p3_15))
+> « _Avant de congédier le groupe pour la nuit, Jésus dit : « Maintenant, je vais vous raconter la fin de la parabole du semeur. Je veux vous éprouver pour savoir comment vous accepterez ceci : le royaume des cieux ressemble aussi à un homme qui a semé du bon grain sur la terre ; pendant qu’il dormait la nuit et vaquait à ses affaires le jour, le grain germa et grandit, et, sans qu’il sache comment, la plante arriva à maturité. Elle fut d’abord en herbe, puis il y eut l’épi, puis la plénitude du grain dans l’épi. Et, quand le grain fut mûr, l’homme prit sa faucille et ce fut la fin de la moisson. Que celui qui a une oreille pour entendre entende. »_ » (<a id="a105_661"></a>[LU 151:3.15](/fr/The_Urantia_Book/151#p3_15))
 
 Dans le paragraphe suivant, on nous dit :
 
-> _Les apôtres retournèrent maintes fois ces paroles dans leur mental, mais le Maitre ne mentionna plus jamais cette addition à la parabole du semeur._ (<a id="a88_153"></a>[LU 151:3.16](/fr/The_Urantia_Book/151#p3_16))
+> _Les apôtres retournèrent maintes fois ces paroles dans leur mental, mais le Maitre ne mentionna plus jamais cette addition à la parabole du semeur._ (<a id="a109_153"></a>[LU 151:3.16](/fr/The_Urantia_Book/151#p3_16))
 
 Dans le groupe d'étude, nous avons décidé d'expérimenter cet exercice d'interprétation des paraboles en essayant de trouver le sens de ce que Jésus voulait dire par cette dernière parabole du semeur. Chacun de nous s'y est essayé et voici ce que nous avons partagé la semaine suivante :
 
@@ -154,9 +175,9 @@ George Park, États-Unis
 <img src="/image/article/The_Arena/DIVINE-SPARK-By-Kim-S.-MacKenzie-223x300.jpg" alt="Divine Spark">
 </figure>
 
-_La manière dont le Père Universel séjourne avec les créatures du temps est le plus profond de tous les mystères de l'univers ; la présence divine dans l'esprit de l'homme est le mystère des mystères._ <a id="a156_202"></a>[[LU 1:4.1](/fr/The_Urantia_Book/1#p4_1)]
+_La manière dont le Père Universel séjourne avec les créatures du temps est le plus profond de tous les mystères de l'univers ; la présence divine dans l'esprit de l'homme est le mystère des mystères._ <a id="a177_202"></a>[[LU 1:4.1](/fr/The_Urantia_Book/1#p4_1)]
 
-La technique par laquelle l'Ajusteur de Pensée est capable de faire connaître sa présence éternelle au mental matériel est un mystère. La méthode par laquelle l'esprit enregistre la réalité de l'éternité dans le mental matériel comme une expérience du « présent éternel » est un miracle philosophique au-delà de notre compréhension. (<a id="a158_334"></a>[LU 118:1.1](/fr/The_Urantia_Book/118#p1_1)) Cependant, la technique utilisée par le mental matériel pour atteindre le haut et l'intérieur pour l'expérience de la présence de Dieu, le comportement psychologique du mental humain pour favoriser sa propre spiritualisation, n'est pas complètement hors de notre portée.
+La technique par laquelle l'Ajusteur de Pensée est capable de faire connaître sa présence éternelle au mental matériel est un mystère. La méthode par laquelle l'esprit enregistre la réalité de l'éternité dans le mental matériel comme une expérience du « présent éternel » est un miracle philosophique au-delà de notre compréhension. (<a id="a179_334"></a>[LU 118:1.1](/fr/The_Urantia_Book/118#p1_1)) Cependant, la technique utilisée par le mental matériel pour atteindre le haut et l'intérieur pour l'expérience de la présence de Dieu, le comportement psychologique du mental humain pour favoriser sa propre spiritualisation, n'est pas complètement hors de notre portée.
 
 [Lire la suite](/fr/article/George_Park/Creative_Imagination_in_Prayer_and_Worship)
 <br style="clear:both;"/>
@@ -350,3 +371,25 @@ Certains groupes d'études incluent la participation virtuelle via Zoom si vous 
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/newsletter/arena-spring-2020/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Julian_McGarry/Presidents_Report_Spring_2020">
+          <span class="pr-2">Rapport du président – Printemps 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

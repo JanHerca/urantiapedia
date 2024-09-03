@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 John Hay, David Elders, Robert J. Schuer, David Glass, Francyl Streano Gawryn, Beth Bartley, Meredith Sprunger, Carolyn Kendall, Lynne Kulieke, Eileen Laurence, Patrick Yesh, James G. Johnston, Marilynn Kulieke, Brent St. Denis, William Wentworth, Arlene et Buck Weimer, Larry Mullins<br>© 1990 La Fellowship du Livre d'Urantia (anciennement Fraternité Urantia)<br> /p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 John Hay, David Elders, Robert J. Schuer, David Glass, Francyl Streano Gawryn, Beth Bartley, Meredith Sprunger, Carolyn Kendall, Lynne Kulieke, Eileen Laurence, Patrick Yesh, James G. Johnston, Marilynn Kulieke, Brent St. Denis, William Wentworth, Arlene et Buck Weimer, Larry Mullins<br>© 1990 La Fellowship du Livre d'Urantia (anciennement Fraternité Urantia)<br></p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

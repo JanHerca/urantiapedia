@@ -54,7 +54,7 @@ Le jeudi six avril dernier, lors du Souper de la Souvenance, j'ai eu le plaisir 
 
 «Souvenons-nous de l'ensemble de la vie et des enseignements de Jésus, imitons sa foi, produisons les fruits de l'Esprit, aimons-nous les uns les autres comme il nous a aimés! »
 
-Et finalement, tirée du _Livre d'Urantia_ : « L'impulsion vers le progrès spirituel est la force motrice la plus puissante présente dans le monde. Les croyants qui apprennent la vérité sont les seules âmes progressives et dynamiques sur terre. » Fascicule <a id="a52_256"></a>[LU 194:3.4](/fr/The_Urantia_Book/194#p3_4)
+Et finalement, tirée du _Livre d'Urantia_ : « L'impulsion vers le progrès spirituel est la force motrice la plus puissante présente dans le monde. Les croyants qui apprennent la vérité sont les seules âmes progressives et dynamiques sur terre. » Fascicule <a id="a56_256"></a>[LU 194:3.4](/fr/The_Urantia_Book/194#p3_4)
 
 Bref, des citations inspirantes qui à travers nos discussions ont élevé le niveau de nos échanges et de notre communion. Personnellement, cela m'a fait beaucoup de bien. Je me suis senti grandi, confirmé dans ma foi en réalisant mon appartenance à une fraternité dynamique, vivante, que j'oserais même qualifier... d'éternelle. Je suis retourné chez moi en ayant la nette impression d'avoir vécu un événement singulier très beau et grand de sens. Cette connexion spirituelle qui se développe sera pour moi et notre fraternité «comme un pont jeté sur l'espace et le temps »! Un moment qui marquera la continuité d'une filiation qui poursuivra sa croissance et perdurera longuement.
 

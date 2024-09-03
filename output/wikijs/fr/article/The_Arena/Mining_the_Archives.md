@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/Study_Day_2021_Reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journée d'étude 2021 – Réflexions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/Application_of_Scientific_Thinking">
+          <span class="pr-2">Application de la pensée scientifique…</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _(Note de l’éditeur : **Mining the Archives** est un recueil d’articles qui ont été publiés dans divers bulletins d’information au fil des ans et qui sont restés enfouis dans les archives. Une équipe de bénévoles a « exploité les archives » pour en extraire les trésors, nous pouvons donc maintenant les mettre en lumière pour les partager en utilisant la technologie moderne. **Celui-ci est tiré du bulletin d’information Innerface, septembre 2002.** Note supplémentaire : les deux prochains articles de ce numéro d’Arena-Winter 2021 de William Wentworth et Nigel Nunn sont des réflexions inspirées par cet article de 2002 du général Glasziou.)_
@@ -18,7 +42,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 
 _Le regretté Ken Glasziou, Qld_
 
-> _Au stade mortel, rien ne peut être prouvé absolument ; la science et la religion sont toutes deux fondées sur des hypothèses._ (<a id="a20_131"></a>[LU 103:7.10](/fr/The_Urantia_Book/103#p7_10))
+> _Au stade mortel, rien ne peut être prouvé absolument ; la science et la religion sont toutes deux fondées sur des hypothèses._ (<a id="a44_131"></a>[LU 103:7.10](/fr/The_Urantia_Book/103#p7_10))
 > 
 > En 1935, une telle déclaration n’aurait pu être faite avec assurance que par une poignée de nos hommes les plus érudits.
 
@@ -50,3 +74,28 @@ _Il existe une théorie selon laquelle si quelqu’un découvre exactement à qu
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2021/07/29/mining-archives-glasziou)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/Study_Day_2021_Reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journée d'étude 2021 – Réflexions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/Application_of_Scientific_Thinking">
+          <span class="pr-2">Application de la pensée scientifique…</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

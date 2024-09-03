@@ -198,19 +198,19 @@ Pour l'instant, au moins les progrès de la technologie du sonar nous permettent
 
 [^2]: Les recherches des dernières années, retraçant une évolution spécifique de l'histoire génétique des êtres humains, apportent également un puissant soutien au récit du *Livre d'Urantia* sur l'histoire d'Adam et Ève. Voir [Adam et Ève](/fr/article/Halbert_Katzen/Adam_and_Eve).
 
-[^3]: [LU 74:0.1](/fr/The_Urantia_Book/74#p0_1)
+[^3]: <a id="a200_6"></a>[LU 74:0.1](/fr/The_Urantia_Book/74#p0_1)
 
-[^4]: [LU 73:3.1](/fr/The_Urantia_Book/73#p3_1)
+[^4]: <a id="a202_6"></a>[LU 73:3.1](/fr/The_Urantia_Book/73#p3_1)
 
-[^5]: [LU 73:7.1](/fr/The_Urantia_Book/73#p7_1)
+[^5]: <a id="a204_6"></a>[LU 73:7.1](/fr/The_Urantia_Book/73#p7_1)
 
 [^6]: [LU 73-78](/fr/The_Urantia_Book/73)
 
 [^7]: *Atlas illustré du monde*, magazine *Life* et Randy McNally, 1961.
 
-[^8]: [LU 73:3.1-4](/fr/The_Urantia_Book/73#p3_1)
+[^8]: <a id="a210_6"></a>[LU 73:3.1-4](/fr/The_Urantia_Book/73#p3_1)
 
-[^9]: [LU 73:5.1](/fr/The_Urantia_Book/73#p5_1)
+[^9]: <a id="a212_6"></a>[LU 73:5.1](/fr/The_Urantia_Book/73#p5_1)
 
 [^10]: Les recherches de Robert Sarmast, publiées dans Discovery of Atlantis, l'ont amené à conclure qu'il existe un lien entre la mythologie de l'Atlantide et les récits religieux liés à Adam et Eve. Il pense que l'histoire de l'Atlantide s'est développée parce qu'une nouvelle tribu de personnes est venue occuper la péninsule édénique architecturalement développée après qu'Adam, Eve et leur progéniture aient abandonné cette région. Au moment où la péninsule a coulé, environ 4 000 ans après le départ d'Adam et Eve, elle s'était dissociée de la civilisation qu'ils avaient fondée. Selon les recherches de Sarmast, le lien entre le jardin d'Eden et l'Atlantide est qu'ils avaient la même situation géographique, mais ont été associés à deux cultures différentes. Sarmast a tenté de trouver des vestiges de civilisation humaine à cet endroit entre Chypre et la Syrie. Vous pouvez en apprendre davantage sur son travail en allant sur http://discoveryofatlantis.com/. Un grand merci à lui pour avoir permis au projet UBtheNEWS d'utiliser les images qui ont été créées en relation avec son travail.
 

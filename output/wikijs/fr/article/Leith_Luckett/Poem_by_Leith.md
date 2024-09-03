@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Leith Luckett<br>© 2019 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Martin_McBurney/Urantia_Towards_Light_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia vers la lumière et la vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'arène-automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Arène – Automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Leith Luckett, Victoria
@@ -53,3 +74,25 @@ Pour saisir, apprécier et embrasser tous mes liens
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2019/05/02/poem-leith)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Martin_McBurney/Urantia_Towards_Light_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia vers la lumière et la vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'arène-automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Arène – Automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

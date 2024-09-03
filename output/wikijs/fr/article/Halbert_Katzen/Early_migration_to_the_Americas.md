@@ -298,7 +298,7 @@ Ouchki (7) | 14300 | ± | 200 | GIN- | Mochanov 1978 : 62 |
 
 ## Références
 
-[^1]: [LU 64:6.5](/fr/The_Urantia_Book/64#p6_5)
+[^1]: <a id="a300_6"></a>[LU 64:6.5](/fr/The_Urantia_Book/64#p6_5)
 
 [^2]: Consultez les [documents 62](/fr/The_Urantia_Book/62), [63](/fr/The_Urantia_Book/63) et [64](/fr/The_Urantia_Book/64) du *Livre d'Urantia* pour une description complète de ces événements.
 
@@ -308,13 +308,13 @@ Ouchki (7) | 14300 | ± | 200 | GIN- | Mochanov 1978 : 62 |
 
 [^5]: *Origines paléoaméricaines* (*Orígenes paleoamericanos*), Smithsonian, Paleoamerican Origins, 1999. https://web.archive.org/web/20090628145147/http://www.si.edu/Encyclopedia_SI/nmnh/origin.htm [Lien vers l'original]
 
-[^6]: [LU 64:6.4-8](/fr/The_Urantia_Book/64#p6_4)
+[^6]: <a id="a310_6"></a>[LU 64:6.4-8](/fr/The_Urantia_Book/64#p6_4)
 
-[^7]: [LU 64:7.4,5,7](/fr/The_Urantia_Book/64#p7_4)
+[^7]: <a id="a312_6"></a>[LU 64:7.4,5,7](/fr/The_Urantia_Book/64#p7_4)
 
-[^8]: [LU 64:7.17-19](/fr/The_Urantia_Book/64#p7_17)
+[^8]: <a id="a314_6"></a>[LU 64:7.17-19](/fr/The_Urantia_Book/64#p7_17)
 
-[^9]: [LU 78:5.7](/fr/The_Urantia_Book/78#p5_7)
+[^9]: <a id="a316_6"></a>[LU 78:5.7](/fr/The_Urantia_Book/78#p5_7)
 
 [^10]: *Une découverte pourrait réécrire la préhistoire des Amériques*, par Curt Suplee, Washington Post, 11 février 1997. Article sur le site de Monte Verde, au Chili, vieux de 33 000 ans. http://www.washingtonpost.com/wp-srv/inatl/americas/feb/17/artifact.htm
 

@@ -9,6 +9,30 @@ dateCreated: 2023-11-05T01:11:28.972Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Susan Hemmingsen<br>© 2020 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Julian_McGarry/Fear_Not">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">N'ayez pas peur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'arène-automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Arène – Automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ari_Majurinen/The_Apostle_Matthew">
+          <span class="pr-2">L'apôtre Matthieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Susan Hemmingsen, Nouvelle-Zélande
@@ -28,15 +52,15 @@ Me voilà donc temporairement seule, dans un petit studio, sans tout ce dont j�
 J’ai depuis longtemps la chance de savoir que Dieu est toujours avec moi et pour moi et qu’Il m’aime. Il y a quelques années, pendant plusieurs mois, j’ai eu des crises de panique et à un moment où je sentais que je ne tenais que par un fil et que je pensais que mon cerveau allait exploser, j’ai entendu une voix intérieure me dire qu’il y avait quelque chose en moi qui m’empêcherait toujours de dépasser les bornes. À l’époque, j’étais agnostique (avant le Livre d’Urantia) et je ne croyais pas en un Dieu personnel, mais maintenant je sais que c’était mon Ajusteur de Pensée aimant qui me poussait vers la raison.
 <br style="clear:both;"/>
 
-> _Mais nul mortel connaissant Dieu ne peut jamais être solitaire dans son voyage à travers le cosmos, car il sait que le Père fait, à ses côtés, chaque pas du chemin, tandis que la route même qu’il poursuit est la présence du Suprême._ (<a id="a30_238"></a>[LU 117:6.27](/fr/The_Urantia_Book/117#p6_27))
+> _Mais nul mortel connaissant Dieu ne peut jamais être solitaire dans son voyage à travers le cosmos, car il sait que le Père fait, à ses côtés, chaque pas du chemin, tandis que la route même qu’il poursuit est la présence du Suprême._ (<a id="a54_238"></a>[LU 117:6.27](/fr/The_Urantia_Book/117#p6_27))
 
 et
 
-> _Les bâtisseurs du royaume, les citoyens accrédités des mondes célestes, ne doivent pas être dérangés par des bouleversements temporels ou perturbés par des cataclysmes terrestres._ (<a id="a34_185"></a>[LU 176:3.2](/fr/The_Urantia_Book/176#p3_2))
+> _Les bâtisseurs du royaume, les citoyens accrédités des mondes célestes, ne doivent pas être dérangés par des bouleversements temporels ou perturbés par des cataclysmes terrestres._ (<a id="a58_185"></a>[LU 176:3.2](/fr/The_Urantia_Book/176#p3_2))
 
 Malheureusement, ce fait n’est pas universellement connu, car beaucoup ne croient pas du tout en Dieu. Il y a aussi ceux qui croient que Dieu punit l’humanité pour ses indiscrétions passées et qui ne réalisent pas que Dieu vit avec eux et qu’ils peuvent être contactés personnellement. Ils peuvent aussi croire que la communication avec Dieu nécessite l’interprétation d’une tierce personne. Je suis reconnaissant de pouvoir parler à Dieu, mon père aimant, quand je me sens un peu seul, et je le fais assez souvent, en plus de prier plus que d’habitude.
 
-> _L’expérience religieuse personnelle, spirituelle, résout efficacement la plupart des difficultés des mortels ; elle sélectionne, évalue et ajuste efficacement tous les problèmes humains. La religion n’écarte ni ne supprime les ennuis humains, mais elle les dissout, les absorbe, les illumine et les transcende. La véritable religion unifie la personnalité pour qu’elle s’ajuste efficacement à toutes les nécessités des mortels. La foi religieuse — la gouverne positive de la divine présence intérieure — permet infailliblement à l’homme qui connait Dieu de jeter un pont sur l’abime qui existe entre d’une part la logique intellectuelle qui reconnait la Cause Première Universelle comme étant *Cela,* et d’autre part les affirmations positives de l’âme qui déclarent que cette Première Cause est *Lui,* le Père céleste de l’évangile de Jésus, le Dieu personnel du salut humain._ (<a id="a38_883"></a>[LU 196:3.1](/fr/The_Urantia_Book/196#p3_1))
+> _L’expérience religieuse personnelle, spirituelle, résout efficacement la plupart des difficultés des mortels ; elle sélectionne, évalue et ajuste efficacement tous les problèmes humains. La religion n’écarte ni ne supprime les ennuis humains, mais elle les dissout, les absorbe, les illumine et les transcende. La véritable religion unifie la personnalité pour qu’elle s’ajuste efficacement à toutes les nécessités des mortels. La foi religieuse — la gouverne positive de la divine présence intérieure — permet infailliblement à l’homme qui connait Dieu de jeter un pont sur l’abime qui existe entre d’une part la logique intellectuelle qui reconnait la Cause Première Universelle comme étant *Cela,* et d’autre part les affirmations positives de l’âme qui déclarent que cette Première Cause est *Lui,* le Père céleste de l’évangile de Jésus, le Dieu personnel du salut humain._ (<a id="a62_883"></a>[LU 196:3.1](/fr/The_Urantia_Book/196#p3_1))
 
 Il se passe tellement de choses dans le monde que cela m’occupe l’esprit et l’une des choses qui m’intéresse particulièrement est le leadership dans les différents pays du monde et la façon dont ces différents dirigeants réagissent à la pandémie.
 
@@ -58,3 +82,28 @@ Suzanne Hemmingsen
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2020/05/10/new-zealand-corner)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Julian_McGarry/Fear_Not">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">N'ayez pas peur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'arène-automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Arène – Automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ari_Majurinen/The_Apostle_Matthew">
+          <span class="pr-2">L'apôtre Matthieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

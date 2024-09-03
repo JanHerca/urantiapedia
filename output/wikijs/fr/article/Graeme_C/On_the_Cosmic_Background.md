@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Graeme C<br>© 2019 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/2019_National_Study_Day">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journée nationale d'étude 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'arène-automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Arène – Automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neil_Francey/Living_the_Ascension_Plan_in_Terrestrial_Human_Experience">
+          <span class="pr-2">Vivre le Plan d'Ascension dans l'Expérience Humaine Terrestre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Graeme C
@@ -90,3 +114,28 @@ Je sais que ces idées sont trop générales pour inspirer directement, donc je 
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2018/10/30/on-cosmic-background)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/2019_National_Study_Day">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journée nationale d'étude 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'arène-automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Arène – Automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neil_Francey/Living_the_Ascension_Plan_in_Terrestrial_Human_Experience">
+          <span class="pr-2">Vivre le Plan d'Ascension dans l'Expérience Humaine Terrestre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

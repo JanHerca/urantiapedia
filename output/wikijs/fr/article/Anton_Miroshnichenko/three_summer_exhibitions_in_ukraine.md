@@ -41,6 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 </figure>
 
 Des lecteurs ont présenté le _Livre d'Urantia_, l’été dernier, à trois événements qui ont eu lieu en Ukraine.
+<br style="clear:both;"/>
 
 ## Le festival du « Pays des Rêves »
 

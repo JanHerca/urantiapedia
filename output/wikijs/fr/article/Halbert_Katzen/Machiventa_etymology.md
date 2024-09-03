@@ -33,7 +33,7 @@ Alors, prenez ce moment, mes bébés bénis, et nourrissez-vous de l'étymologie
 
 En guise de contexte, considérez comment _Le Livre d'Urantia_ fait référence à Ésaïe 66 et ensuite ce qui est dit peu de temps avant ce à quoi il est fait référence :
 
-> C’est la même terre rénovée, le stade planétaire avancé, dont le voyant ancien avait la vision lorsqu’il écrivit : « Car de même que les nouveaux cieux et la nouvelle terre que je ferai subsisteront devant moi, de même vous survivrez, vous et vos enfants ; et il adviendra que, d’une nouvelle lune à une autre et de sabbat en sabbat, toute chair viendra se prosterner devant moi, dit le Seigneur. » ([LU 52:7.12](/fr/The_Urantia_Book/52#p7_12))
+> C’est la même terre rénovée, le stade planétaire avancé, dont le voyant ancien avait la vision lorsqu’il écrivit : « Car de même que les nouveaux cieux et la nouvelle terre que je ferai subsisteront devant moi, de même vous survivrez, vous et vos enfants ; et il adviendra que, d’une nouvelle lune à une autre et de sabbat en sabbat, toute chair viendra se prosterner devant moi, dit le Seigneur. » (<a id="a35_402"></a>[LU 52:7.12](/fr/The_Urantia_Book/52#p7_12))
 
 Considérez maintenant ces passages antérieurs d’Isaïe 66 :
 
@@ -41,9 +41,9 @@ Considérez maintenant ces passages antérieurs d’Isaïe 66 :
 
 Notez comment les passages ci-dessus d'Isaïe ajoutent encore plus d'intrigue à ces déclarations du _Livre d'Urantia_ :
 
-> ... Il est tout à fait possible que, dans un âge futur où Urantia s’approchera de l’ère de lumière et de vie, après que les affaires de la rébellion de Lucifer ... auront été définitivement jugées, nous puissions y observer la présence simultanée de Machiventa, d’Adam et d’Ève, de Christ Micaël, ainsi que d’un Fils Magistral ou même de Fils Instructeurs de la Trinité. ([LU 93:10.8](/fr/The_Urantia_Book/93#p10_8))
+> ... Il est tout à fait possible que, dans un âge futur où Urantia s’approchera de l’ère de lumière et de vie, après que les affaires de la rébellion de Lucifer ... auront été définitivement jugées, nous puissions y observer la présence simultanée de Machiventa, d’Adam et d’Ève, de Christ Micaël, ainsi que d’un Fils Magistral ou même de Fils Instructeurs de la Trinité. (<a id="a43_374"></a>[LU 93:10.8](/fr/The_Urantia_Book/93#p10_8))
 
-> Quand cette ère sera atteinte sur votre planète, il n’y a pas de doute que Machiventa Melchizédek, présentement Prince Planétaire vice-gérant d’Urantia, occupera le siège du Souverain Planétaire ; et, sur Jérusem, on suppose depuis longtemps qu’il sera accompagné par un fils et une fille de l’Adam et de l’Ève d’Urantia qui sont présentement retenus sur Édentia comme pupilles des Très Hauts de Norlatiadek. Ces enfants d’Adam pourraient servir ainsi sur Urantia en association avec le Souverain Melchizédek, **car ils ont été privés de leur pouvoir procréateur** il y a près de 37 000 ans lorsqu’ils ont abandonné leur corps matériel sur Urantia pour préparer leur transit sur Édentia. \[Gras adjouté.\] ([LU 55:7.3](/fr/The_Urantia_Book/55#p7_3))
+> Quand cette ère sera atteinte sur votre planète, il n’y a pas de doute que Machiventa Melchizédek, présentement Prince Planétaire vice-gérant d’Urantia, occupera le siège du Souverain Planétaire ; et, sur Jérusem, on suppose depuis longtemps qu’il sera accompagné par un fils et une fille de l’Adam et de l’Ève d’Urantia qui sont présentement retenus sur Édentia comme pupilles des Très Hauts de Norlatiadek. Ces enfants d’Adam pourraient servir ainsi sur Urantia en association avec le Souverain Melchizédek, **car ils ont été privés de leur pouvoir procréateur** il y a près de 37 000 ans lorsqu’ils ont abandonné leur corps matériel sur Urantia pour préparer leur transit sur Édentia. \[Gras adjouté.\] (<a id="a45_709"></a>[LU 55:7.3](/fr/The_Urantia_Book/55#p7_3))
 
 Similaire à _\-ta_ mais avec une superposition beaucoup moins infantile est la signification de _ven_ :
 

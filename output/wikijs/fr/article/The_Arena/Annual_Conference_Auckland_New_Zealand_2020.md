@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Julian_McGarry/Presidents_Report_December_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du Président – Décembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Arena/Canberra_2019_Conference_Report">
+          <span class="pr-2">Compte-rendu de la conférence de Canberra 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par le Comité de Conférence
@@ -62,3 +86,28 @@ Surveillez cet espace pour plus d'informations au fur et à mesure que les plans
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2019/12/16/annual-conference-auckland-new-zealand-2020)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Julian_McGarry/Presidents_Report_December_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du Président – Décembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Arena/Canberra_2019_Conference_Report">
+          <span class="pr-2">Compte-rendu de la conférence de Canberra 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

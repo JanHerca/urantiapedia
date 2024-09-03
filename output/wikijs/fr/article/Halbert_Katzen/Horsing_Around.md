@@ -39,17 +39,17 @@ Les auteurs du Livre d'Urantia entrent dans un certain degré de détail concern
 
 <br style="clear:both;"/>
 
-> « Les trois dernières vagues d’Andites ont déferlé sur la Mésopotamie entre 8000 et 6000 av. J.-C. Ces trois grandes vagues de culture ont été chassées de Mésopotamie par la pression des tribus des collines à l’est et le harcèlement des hommes des plaines à l’ouest. » [LU 78:6.1](/fr/The_Urantia_Book/78#p6_1)
+> « Les trois dernières vagues d’Andites ont déferlé sur la Mésopotamie entre 8000 et 6000 av. J.-C. Ces trois grandes vagues de culture ont été chassées de Mésopotamie par la pression des tribus des collines à l’est et le harcèlement des hommes des plaines à l’ouest. » <a id="a41_271"></a>[LU 78:6.1](/fr/The_Urantia_Book/78#p6_1)
 > 
-> « Le cheval a donné aux Andites en dispersion l'avantage jusqu'alors inexistant de la mobilité, permettant aux derniers groupes de cavaliers andites de progresser rapidement... » [LU 80:4.4](/fr/The_Urantia_Book/80#p4_4)
+> « Le cheval a donné aux Andites en dispersion l'avantage jusqu'alors inexistant de la mobilité, permettant aux derniers groupes de cavaliers andites de progresser rapidement... » <a id="a43_181"></a>[LU 80:4.4](/fr/The_Urantia_Book/80#p4_4)
 > 
-> « Dix pour cent de ces Andites en fuite ont traversé l’Arabie et sont entrés en Égypte. » [LU 78:6.5](/fr/The_Urantia_Book/78#p6_5)
+> « Dix pour cent de ces Andites en fuite ont traversé l’Arabie et sont entrés en Égypte. » <a id="a45_92"></a>[LU 78:6.5](/fr/The_Urantia_Book/78#p6_5)
 > 
-> « Soixante-cinq pour cent sont entrés en Europe par la route de la mer Caspienne... » [LU 78:6.2](/fr/The_Urantia_Book/78#p6_2)
+> « Soixante-cinq pour cent sont entrés en Europe par la route de la mer Caspienne... » <a id="a47_88"></a>[LU 78:6.2](/fr/The_Urantia_Book/78#p6_2)
 > 
-> « Dix pour cent… se sont déplacés vers l’est à travers les hautes terres élamites jusqu’au plateau iranien et au Turkestan. » [LU 78:6.3](/fr/The_Urantia_Book/78#p6_3)
+> « Dix pour cent… se sont déplacés vers l’est à travers les hautes terres élamites jusqu’au plateau iranien et au Turkestan. » <a id="a49_128"></a>[LU 78:6.3](/fr/The_Urantia_Book/78#p6_3)
 > 
-> « La civilisation du Turkestan a été constamment ravivée et rafraîchie par les nouveaux venus de Mésopotamie, en particulier par les cavaliers andites ultérieurs. » [LU 78:5.3](/fr/The_Urantia_Book/78#p5_3)
+> « La civilisation du Turkestan a été constamment ravivée et rafraîchie par les nouveaux venus de Mésopotamie, en particulier par les cavaliers andites ultérieurs. » <a id="a51_167"></a>[LU 78:5.3](/fr/The_Urantia_Book/78#p5_3)
 
 Un article de Reuters de 2011, couvrant une découverte archéologique faite en Arabie saoudite, rapportait : « La civilisation de Maqar est une civilisation très avancée de la période néolithique. Ce site nous montre clairement les racines de la domestication des chevaux il y a 9 000 ans. »
 
@@ -239,18 +239,18 @@ Pour une perspective relativement rapide du Livre d'Urantia sur le développemen
 
 ## Notes de bas de page :
 
-[^1]: Livre d'Urantia [LU 80:4.1](/fr/The_Urantia_Book/80#p4_1)
-[^2]: Livre d'Urantia [LU 80:4.3,4](/fr/The_Urantia_Book/80#p4_3)
-[^3]: Livre d'Urantia [LU 78:6.1-3,5](/fr/The_Urantia_Book/78#p6_1)
+[^1]: Livre d'Urantia <a id="a241_22"></a>[LU 80:4.1](/fr/The_Urantia_Book/80#p4_1)
+[^2]: Livre d'Urantia <a id="a242_22"></a>[LU 80:4.3,4](/fr/The_Urantia_Book/80#p4_3)
+[^3]: Livre d'Urantia <a id="a243_22"></a>[LU 78:6.1-3,5](/fr/The_Urantia_Book/78#p6_1)
 [^4]: http://www.reuters.com/article/2011/08/25/uk-saudi-archaeology-idUSLNE77001R20110825
 [^5]: http://www.bbc.co.uk/news/world-middle-east-14658678
 [^6]: http://www.middle-east-online.com/english/?id=47796
-[^7]: Livre d'Urantia [LU 78:5.2](/fr/The_Urantia_Book/78#p5_2)
-[^8]: Livre d'Urantia [LU 76:3.6](/fr/The_Urantia_Book/76#p3_6)
-[^9]: Livre d'Urantia [LU 76:3.8](/fr/The_Urantia_Book/76#p3_8)
-[^10]: Livre d'Urantia [LU 78:5.2,3](/fr/The_Urantia_Book/78#p5_2)
-[^11]: Livre d'Urantia [LU 80:4.5](/fr/The_Urantia_Book/80#p4_5)
-[^12]: Livre d'Urantia [LU 81:2.8](/fr/The_Urantia_Book/81#p2_8)
+[^7]: Livre d'Urantia <a id="a247_22"></a>[LU 78:5.2](/fr/The_Urantia_Book/78#p5_2)
+[^8]: Livre d'Urantia <a id="a248_22"></a>[LU 76:3.6](/fr/The_Urantia_Book/76#p3_6)
+[^9]: Livre d'Urantia <a id="a249_22"></a>[LU 76:3.8](/fr/The_Urantia_Book/76#p3_8)
+[^10]: Livre d'Urantia <a id="a250_23"></a>[LU 78:5.2,3](/fr/The_Urantia_Book/78#p5_2)
+[^11]: Livre d'Urantia <a id="a251_23"></a>[LU 80:4.5](/fr/The_Urantia_Book/80#p4_5)
+[^12]: Livre d'Urantia <a id="a252_23"></a>[LU 81:2.8](/fr/The_Urantia_Book/81#p2_8)
 [^13]: http://www.sciencemag.org/content/323/5919/1332
 [^14]: http://www.reuters.com/article/2009/03/05/us-horses-history-idUSTRE5246HI20090305
 [^15]: http://arstechnica.com/science/news/2009/03/domesticating-the-horse.ars

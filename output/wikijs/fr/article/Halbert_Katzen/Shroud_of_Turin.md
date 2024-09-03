@@ -84,7 +84,7 @@ Le nom Michael est utilisé pour désigner Jésus dans son statut avant son inca
 
 Cela étant dit, les personnes qui ne connaissent pas _Le Livre d'Urantia_ devraient être plus ou moins préparées à comprendre raisonnablement les sélections suivantes liées à l'enterrement de Jésus et au sort de son corps physique :
 
-> Entretemps, Joseph d’Arimathie, accompagné de Nicodème, était allé trouver Pilate pour lui demander que le corps de Jésus leur fût remis pour lui assurer une inhumation décente. Il n’était pas rare que les amis des personnes crucifiées offrent des pots-de-vin aux autorités romaines pour avoir le privilège d’entrer en possession des corps. Joseph se présenta devant Pilate avec une forte somme d’argent pour le cas où il aurait été nécessaire d’acheter l’autorisation de transporter le corps de Jésus dans un caveau funéraire privé. Mais Pilate ne voulut pas accepter d’argent pour cela. Après avoir entendu la requête, il signa rapidement l’ordre qui permettait à Joseph de se rendre au Golgotha et d’y prendre immédiatement pleine et entière possession du corps du Maitre. ([LU 188:0.3](/fr/The_Urantia_Book/188#p0_3))
+> Entretemps, Joseph d’Arimathie, accompagné de Nicodème, était allé trouver Pilate pour lui demander que le corps de Jésus leur fût remis pour lui assurer une inhumation décente. Il n’était pas rare que les amis des personnes crucifiées offrent des pots-de-vin aux autorités romaines pour avoir le privilège d’entrer en possession des corps. Joseph se présenta devant Pilate avec une forte somme d’argent pour le cas où il aurait été nécessaire d’acheter l’autorisation de transporter le corps de Jésus dans un caveau funéraire privé. Mais Pilate ne voulut pas accepter d’argent pour cela. Après avoir entendu la requête, il signa rapidement l’ordre qui permettait à Joseph de se rendre au Golgotha et d’y prendre immédiatement pleine et entière possession du corps du Maitre. (<a id="a86_779"></a>[LU 188:0.3](/fr/The_Urantia_Book/188#p0_3))
 
 > Un crucifié ne pouvait être enterré dans un cimetière juif ; une loi l’interdisait strictement. Joseph et Nicodème connaissaient cette loi et, en allant au Golgotha, ils avaient décidé d’ensevelir Jésus dans le nouveau caveau de famille de Joseph, creusé en plein roc et situé à proximité, au nord du Golgotha, de l’autre côté de la route conduisant à Samarie. Nul n’avait jamais été couché dans ce tombeau, et ils jugèrent opportun que le Maitre y reposa. ...
 > 
@@ -94,11 +94,11 @@ Cela étant dit, les personnes qui ne connaissent pas _Le Livre d'Urantia_ devra
 >
 > Après cette mise au tombeau, le centurion fit signe à ses soldats d’aider à rouler la pierre de fermeture devant l’entrée du tombeau
 > 
-> Pendant le déroulement de toutes ces opérations, les femmes étaient dissimulées à proximité, de sorte qu’elles virent tout et observèrent l’endroit où le Maitre avait été couché. Elles s’étaient ainsi cachées parce qu’il n’était pas permis aux femmes de s’associer aux hommes en de pareils moments. Ces femmes jugèrent que le corps de Jésus n’avait pas été préparé convenablement pour être enseveli. Elles se mirent d’accord pour retourner chez Joseph, s’y reposer jusqu’au lendemain du sabbat, préparer des aromates et des onguents, et revenir, le dimanche matin, embaumer le corps du Maitre comme il convenait en vue du repos mortuaire. Voici les noms des femmes qui s’attardèrent ainsi près du tombeau ce vendredi soir : Marie-Madeleine, Marie la femme de Clopas, Marthe (une autre sœur de la mère de Jésus) et Rébecca de Sepphoris. » <a id="a96_700"></a>[LU 188:1.2-7](/fr/The_Urantia_Book/188#p1_2) [^5]
+> Pendant le déroulement de toutes ces opérations, les femmes étaient dissimulées à proximité, de sorte qu’elles virent tout et observèrent l’endroit où le Maitre avait été couché. Elles s’étaient ainsi cachées parce qu’il n’était pas permis aux femmes de s’associer aux hommes en de pareils moments. Ces femmes jugèrent que le corps de Jésus n’avait pas été préparé convenablement pour être enseveli. Elles se mirent d’accord pour retourner chez Joseph, s’y reposer jusqu’au lendemain du sabbat, préparer des aromates et des onguents, et revenir, le dimanche matin, embaumer le corps du Maitre comme il convenait en vue du repos mortuaire. Voici les noms des femmes qui s’attardèrent ainsi près du tombeau ce vendredi soir : Marie-Madeleine, Marie la femme de Clopas, Marthe (une autre sœur de la mère de Jésus) et Rébecca de Sepphoris. » <a id="a96_840"></a>[LU 188:1.2-7](/fr/The_Urantia_Book/188#p1_2) [^5]
 
-> Après que Jésus ressuscité eut émergé de son tombeau, le corps de chair, dans lequel il avait vécu et travaillé sur terre durant près de trente-six ans, gisait encore là dans la niche du sépulcre, intact et enveloppé dans le drap de lin, exactement tel qu’il y avait été couché le vendredi après-midi par Joseph et ses compagnons. La pierre fermant l’entrée du tombeau n’avait pas subi le moindre déplacement ; le sceau de Pilate était intact ; les soldats montaient toujours la garde. Les gardes du temple avaient veillé sans interruption ; la garde romaine avait été changée à minuit. Aucun de ces veilleurs ne soupçonnait que l’objet de leur vigile s’était élevé à une forme d’existence nouvelle et supérieure, ni que le corps qu’ils gardaient n’était plus qu’une enveloppe extérieure abandonnée, désormais sans connexion avec la personnalité morontielle délivrée et ressuscitée de Jésus. ([LU 189:1.2](/fr/The_Urantia_Book/189#p1_2))
+> Après que Jésus ressuscité eut émergé de son tombeau, le corps de chair, dans lequel il avait vécu et travaillé sur terre durant près de trente-six ans, gisait encore là dans la niche du sépulcre, intact et enveloppé dans le drap de lin, exactement tel qu’il y avait été couché le vendredi après-midi par Joseph et ses compagnons. La pierre fermant l’entrée du tombeau n’avait pas subi le moindre déplacement ; le sceau de Pilate était intact ; les soldats montaient toujours la garde. Les gardes du temple avaient veillé sans interruption ; la garde romaine avait été changée à minuit. Aucun de ces veilleurs ne soupçonnait que l’objet de leur vigile s’était élevé à une forme d’existence nouvelle et supérieure, ni que le corps qu’ils gardaient n’était plus qu’une enveloppe extérieure abandonnée, désormais sans connexion avec la personnalité morontielle délivrée et ressuscitée de Jésus. (<a id="a98_895"></a>[LU 189:1.2](/fr/The_Urantia_Book/189#p1_2))
 
-> Son corps matériel ou physique ne faisait pas partie de sa personnalité ressuscitée. Lorsque Jésus sortit du tombeau, son corps de chair resta intact dans le sépulcre. Le Maitre émergea du tombeau sans déplacer les pierres qui en bouchaient l’entrée et sans briser les sceaux de Pilate. ([LU 189:1.7](/fr/The_Urantia_Book/189#p1_7))
+> Son corps matériel ou physique ne faisait pas partie de sa personnalité ressuscitée. Lorsque Jésus sortit du tombeau, son corps de chair resta intact dans le sépulcre. Le Maitre émergea du tombeau sans déplacer les pierres qui en bouchaient l’entrée et sans briser les sceaux de Pilate. (<a id="a100_290"></a>[LU 189:1.7](/fr/The_Urantia_Book/189#p1_7))
 
 > **LE CORPS MATÉRIEL DE JÉSUS**
 > 
@@ -116,7 +116,7 @@ Cela étant dit, les personnes qui ne connaissent pas _Le Livre d'Urantia_ devra
 > 
 > Le tombeau de Joseph était vide, non parce que le corps de Jésus avait été ranimé ou ressuscité, mais parce que les armées célestes avaient reçu l’autorisation demandée de lui faire subir une dissolution spéciale et exceptionnelle, un retour « de la poussière à la poussière », sans l’intervention des délais du temps et sans la mise en œuvre des processus ordinaires et visibles de décomposition mortelle et de putréfaction matérielle.
 > 
-> La dépouille mortelle de Jésus a subi le processus naturel de désintégration élémentale qui caractérise tous les corps humains sur terre, sauf qu’au point de vue du facteur temps, ce mode de dissolution naturelle fut considérablement accéléré, et hâté au point de devenir presque instantané. » <a id="a118_289"></a>[LU 189:2.1-8](/fr/The_Urantia_Book/189#p2_1) [^9]
+> La dépouille mortelle de Jésus a subi le processus naturel de désintégration élémentale qui caractérise tous les corps humains sur terre, sauf qu’au point de vue du facteur temps, ce mode de dissolution naturelle fut considérablement accéléré, et hâté au point de devenir presque instantané. » <a id="a118_296"></a>[LU 189:2.1-8](/fr/The_Urantia_Book/189#p2_1) [^9]
 
 > Un peu avant trois heures ce dimanche matin, quand les premiers signes de l’aube apparurent à l’orient, cinq des femmes partirent pour la tombe de Jésus. Elles avaient préparé en abondance des onguents spéciaux pour l’embaumement, et emportaient de nombreuses bandelettes de lin. Elles avaient l’intention de mieux embaumer le corps de Jésus et de l’envelopper plus soigneusement dans les nouvelles bandelettes. [UB 189:4.3](/en/The_Urantia_Book/189#p4_3)
 
@@ -132,13 +132,13 @@ Cela étant dit, les personnes qui ne connaissent pas _Le Livre d'Urantia_ devra
 > 
 > Les cinq femmes s’assirent alors sur la pierre près de l’entrée et discutèrent la situation. Il ne leur était pas encore venu à l’idée que Jésus était ressuscité. Elles n’avaient vu personne durant le sabbat et supposaient que le corps avait été transporté dans un autre lieu de repos. Mais, en réfléchissant à cette solution de leur dilemme, elles furent embarrassées pour expliquer l’arrangement ordonné des linges mortuaires. Comment le corps aurait-il pu être enlevé, puisque les bandelettes mêmes dans lesquelles il était enveloppé avaient été laissées en place, apparemment intactes, sur le rayon mortuaire ?
 > 
-> Tandis que ces femmes étaient assises là, aux premières heures de l’aurore de ce nouveau jour, elles regardèrent de côté et virent un étranger silencieux et immobile. Pendant un moment, elles eurent de nouveau peur, mais Marie-Madeleine se précipita vers lui comme si elle le prenait pour le jardinier et lui dit : « Où avez-vous emmené le Maitre ? Où l’ont-ils couché ? Dis-le-nous pour que nous allions le prendre. » Voyant que l’étranger ne lui répondait pas, Marie se mit à pleurer. Alors, Jésus parla aux femmes et leur dit : « Qui cherchez-vous ? » Marie répondit : « Nous cherchons Jésus qui a été enseveli dans le tombeau de Joseph, mais il n’y est plus. Sais-tu où il a été emporté ? » Alors, Jésus dit : « Ce Jésus ne vous a-t-il pas dit, même en Galilée, qu’il mourrait, mais qu’il ressusciterait ? » Ces mots stupéfièrent les femmes, mais le Maitre était tellement changé qu’elles ne le reconnurent pas encore dans la faible lueur du contrejour. Tandis qu’elles méditaient ses paroles, il s’adressa à Madeleine d’une voix familière en disant « Marie. » En entendant ce mot de sympathie bien connue et de salutation affectueuse, elle sut que c’était la voix du Maitre et se précipita pour s’agenouiller à ses pieds en s’écriant : « Mon Seigneur et mon Maitre ! » Toutes les autres femmes reconnurent que c’était bien le Maitre qui se tenait devant elles dans une forme glorifiée, et elles s’agenouillèrent aussitôt devant lui. ([LU 189:4.4-10](/fr/The_Urantia_Book/189#p4_4))
+> Tandis que ces femmes étaient assises là, aux premières heures de l’aurore de ce nouveau jour, elles regardèrent de côté et virent un étranger silencieux et immobile. Pendant un moment, elles eurent de nouveau peur, mais Marie-Madeleine se précipita vers lui comme si elle le prenait pour le jardinier et lui dit : « Où avez-vous emmené le Maitre ? Où l’ont-ils couché ? Dis-le-nous pour que nous allions le prendre. » Voyant que l’étranger ne lui répondait pas, Marie se mit à pleurer. Alors, Jésus parla aux femmes et leur dit : « Qui cherchez-vous ? » Marie répondit : « Nous cherchons Jésus qui a été enseveli dans le tombeau de Joseph, mais il n’y est plus. Sais-tu où il a été emporté ? » Alors, Jésus dit : « Ce Jésus ne vous a-t-il pas dit, même en Galilée, qu’il mourrait, mais qu’il ressusciterait ? » Ces mots stupéfièrent les femmes, mais le Maitre était tellement changé qu’elles ne le reconnurent pas encore dans la faible lueur du contrejour. Tandis qu’elles méditaient ses paroles, il s’adressa à Madeleine d’une voix familière en disant « Marie. » En entendant ce mot de sympathie bien connue et de salutation affectueuse, elle sut que c’était la voix du Maitre et se précipita pour s’agenouiller à ses pieds en s’écriant : « Mon Seigneur et mon Maitre ! » Toutes les autres femmes reconnurent que c’était bien le Maitre qui se tenait devant elles dans une forme glorifiée, et elles s’agenouillèrent aussitôt devant lui. (<a id="a134_1441"></a>[LU 189:4.4-10](/fr/The_Urantia_Book/189#p4_4))
 
 > Tandis que Marie cherchait à embrasser ses pieds, Jésus dit : « Ne me touche pas, Marie, car je ne suis pas tel que tu m’as connu dans la chair. Sous cette forme, je resterai un temps avec vous avant de monter auprès du Père. Allez toutes maintenant, et dites à mes apôtres — et à Pierre — que je suis ressuscité et que vous m’avez parlé.
 > 
 > Quand ces femmes se furent remises du choc de leur stupéfaction, elles retournèrent en hâte à la ville et chez Élie Marc, où elles racontèrent aux dix apôtres tout ce qui leur était arrivé ; mais les apôtres n’étaient pas disposés à les croire. Ils pensèrent d’abord que les femmes avaient eu une vision, mais, lorsque Marie-Madeleine répéta les paroles que Jésus leur avait adressées et que Pierre entendit son nom, il sortit précipitamment de la salle du haut, suivi de près par Jean, pour arriver au tombeau aussi vite que possible et voir les choses par lui-même.
 > 
-> Les femmes répétèrent aux autres apôtres l’histoire de leur entretien avec Jésus, mais ils ne voulaient pas croire, et ils ne voulaient pas aller se rendre compte par eux-mêmes comme Pierre et Jean. ([LU 189:4.12-14](/fr/The_Urantia_Book/189#p4_12))
+> Les femmes répétèrent aux autres apôtres l’histoire de leur entretien avec Jésus, mais ils ne voulaient pas croire, et ils ne voulaient pas aller se rendre compte par eux-mêmes comme Pierre et Jean. (<a id="a140_202"></a>[LU 189:4.12-14](/fr/The_Urantia_Book/189#p4_12))
 
 > **PIERRE ET JEAN AU TOMBEAU**
 > 
@@ -150,11 +150,11 @@ Cela étant dit, les personnes qui ne connaissent pas _Le Livre d'Urantia_ devra
 > 
 > Tandis que Marie s’attardait après le départ de Pierre et de Jean, le Maitre lui apparut de nouveau en disant : « Ne reste pas dans le doute ; aie le courage de croire ce que tu as vu et entendu. Retourne auprès de mes apôtres et dis-leur de nouveau que je suis ressuscité, que je leur apparaitrai et que bientôt je les précèderai en Galilée comme je leur ai promis.
 > 
-> Marie se hâta de revenir à la maison de Marc et raconta aux apôtres qu’elle s’était de nouveau entretenue avec Jésus, mais ils refusèrent de la croire. Toutefois, après le retour de Pierre et de Jean, ils cessèrent de se moquer et furent remplis de crainte et d’appréhension. » <a id="a152_228"></a>[LU 189:5.1-5](/fr/The_Urantia_Book/189#p5_1) [^10]
+> Marie se hâta de revenir à la maison de Marc et raconta aux apôtres qu’elle s’était de nouveau entretenue avec Jésus, mais ils refusèrent de la croire. Toutefois, après le retour de Pierre et de Jean, ils cessèrent de se moquer et furent remplis de crainte et d’appréhension. » <a id="a152_280"></a>[LU 189:5.1-5](/fr/The_Urantia_Book/189#p5_1) [^10]
 
-> De sa manière caractéristique, Pierre oscilla émotivement toute la journée entre la foi et le doute au sujet de la résurrection du Maitre. Pierre ne pouvait se détacher de la vision des linges funéraires disposés dans le tombeau comme si le corps de Jésus s’était évaporé de leur intérieur. ([LU 191:0.4](/fr/The_Urantia_Book/191#p0_4))
+> De sa manière caractéristique, Pierre oscilla émotivement toute la journée entre la foi et le doute au sujet de la résurrection du Maitre. Pierre ne pouvait se détacher de la vision des linges funéraires disposés dans le tombeau comme si le corps de Jésus s’était évaporé de leur intérieur. (<a id="a154_294"></a>[LU 191:0.4](/fr/The_Urantia_Book/191#p0_4))
 
-> Devant le refus des apôtres de croire au récit des cinq femmes qui affirmaient avoir vu Jésus et lui avoir parlé, Marie-Madeleine retourna au tombeau, et ses compagnes retournèrent chez Joseph, où elles relatèrent leurs expériences à sa fille et aux autres femmes. Et les femmes crurent à leur récit. Peu après six heures, la fille de Joseph d’Arimathie et les quatre femmes qui avaient vu Jésus se rendirent chez Nicodème, où elles racontèrent tous ces évènements à Joseph, Nicodème, David Zébédée et aux autres hommes réunis là. Nicodème et les autres doutèrent de l’histoire, doutèrent que Jésus fût ressuscité d’entre les morts ; ils supposèrent que les Juifs avaient enlevé le corps. Joseph et David étaient disposés à croire au rapport, de sorte qu’ils se hâtèrent d’aller inspecter le tombeau, et ils trouvèrent tout exactement dans l’état que les femmes avaient décrit. Ils furent les derniers à voir ainsi le sépulcre, car le grand-prêtre envoya le capitaine des gardes du temple au tombeau, à sept heures et demie, pour enlever les linges funéraires. Le capitaine les enveloppa dans le drap de lin et les jeta par-dessus le bord d’une falaise voisine. ([LU 190:1.2](/fr/The_Urantia_Book/190#p1_2))
+> Devant le refus des apôtres de croire au récit des cinq femmes qui affirmaient avoir vu Jésus et lui avoir parlé, Marie-Madeleine retourna au tombeau, et ses compagnes retournèrent chez Joseph, où elles relatèrent leurs expériences à sa fille et aux autres femmes. Et les femmes crurent à leur récit. Peu après six heures, la fille de Joseph d’Arimathie et les quatre femmes qui avaient vu Jésus se rendirent chez Nicodème, où elles racontèrent tous ces évènements à Joseph, Nicodème, David Zébédée et aux autres hommes réunis là. Nicodème et les autres doutèrent de l’histoire, doutèrent que Jésus fût ressuscité d’entre les morts ; ils supposèrent que les Juifs avaient enlevé le corps. Joseph et David étaient disposés à croire au rapport, de sorte qu’ils se hâtèrent d’aller inspecter le tombeau, et ils trouvèrent tout exactement dans l’état que les femmes avaient décrit. Ils furent les derniers à voir ainsi le sépulcre, car le grand-prêtre envoya le capitaine des gardes du temple au tombeau, à sept heures et demie, pour enlever les linges funéraires. Le capitaine les enveloppa dans le drap de lin et les jeta par-dessus le bord d’une falaise voisine. (<a id="a156_1165"></a>[LU 190:1.2](/fr/The_Urantia_Book/190#p1_2))
 
 ## Datation du Suaire de Turin
 
@@ -302,7 +302,7 @@ Avec toutes ces questions et qualifications à l'esprit, tournons maintenant not
 
 ### Aspects fondamentaux de l'image
 
-Le Centre du Suaire de Turin, au Colorado, a un site Internet [www.Shroudofturin.com](https://www.shroudofturin.com/) sur lequel est publié un article intitulé Le Suaire et la science moderne – Un essai. Cet article met en évidence certaines des caractéristiques clés du Suaire qui sont généralement compatibles avec l'hypothèse de la « décharge corona » pour la création d'images. Les décharges corona sont de nature électrique et sont directement liées à la création d'images photocopiées. Espérons que les lecteurs ne trouveront pas exagéré de suggérer que la déclaration du Livre d'Urantia [LU 189:2.8](/fr/The_Urantia_Book/189#p2_8), « Les restes mortels de Jésus ont subi le même processus naturel de désintégration élémentaire qui caractérise tous les corps humains sur terre, sauf qu'avec le temps, ce mode naturel de dissolution a été grandement accéléré, hâté jusqu'à devenir presque instantané », signifie probablement qu'un certain type d'activité électrique était associé à ce processus. Après avoir examiné certains des points saillants de Le Suaire et la science moderne – Un essai, nous examinerons de plus près l'hypothèse de la décharge corona.
+Le Centre du Suaire de Turin, au Colorado, a un site Internet [www.Shroudofturin.com](https://www.shroudofturin.com/) sur lequel est publié un article intitulé Le Suaire et la science moderne – Un essai. Cet article met en évidence certaines des caractéristiques clés du Suaire qui sont généralement compatibles avec l'hypothèse de la « décharge corona » pour la création d'images. Les décharges corona sont de nature électrique et sont directement liées à la création d'images photocopiées. Espérons que les lecteurs ne trouveront pas exagéré de suggérer que la déclaration du Livre d'Urantia <a id="a304_594"></a>[LU 189:2.8](/fr/The_Urantia_Book/189#p2_8), « Les restes mortels de Jésus ont subi le même processus naturel de désintégration élémentaire qui caractérise tous les corps humains sur terre, sauf qu'avec le temps, ce mode naturel de dissolution a été grandement accéléré, hâté jusqu'à devenir presque instantané », signifie probablement qu'un certain type d'activité électrique était associé à ce processus. Après avoir examiné certains des points saillants de Le Suaire et la science moderne – Un essai, nous examinerons de plus près l'hypothèse de la décharge corona.
 
 > La découverte de Pia [la première personne à photographier le TS] a une double portée scientifique. D'abord, l'ombrage de l'image corporelle du Suaire est comme un négatif, où les nuances de lumière et d'obscurité sont inversées par rapport à la façon dont elles apparaissent normalement dans l'expérience visuelle ordinaire. C'est-à-dire que nous sommes habitués à voir des personnes avec des reflets clairs et des ombres sombres. Mais sur le Suaire, cette convention d'ombrage est inversée. La question immédiate qui surgit de ce résultat est de savoir comment le Suaire pourrait raisonnablement être l'œuvre d'un artiste ou d'un artisan. Une telle personne travaillant au Moyen Âge ou avant aurait apparemment dû travailler avec une structure d'ombrage absolument inconnue et non naturelle avant l'avènement de la photographie. Le deuxième aspect important de la découverte de Pia est que la densité d'information (ou la corrélation avec les subtilités anatomiques d'un corps humain) est extrêmement élevée, dépassant largement celle attendue des rendus artistiques normaux de la forme humaine. C'est pour cette raison que l'image du Suaire a été comparée à une photographie. [^28]
 
@@ -486,13 +486,13 @@ Si c'était un écart intentionnel par rapport au plan original, ce ne serait pa
 
 Il faut se poser la question : « Pourquoi les anges ont-ils laissé ces reliques derrière eux ? » Et pas seulement les ont laissées derrière eux. Ils les ont pliées et placées. Et apparemment, les anges ont fait quelque chose de mystérieux en relation avec les bandages, car Le Livre d'Urantia, un livre connu pour être à la fois précis dans son langage et cohérent en son sein, fait référence deux fois aux bandages comme « apparemment intacts » et aussi une fois comme simplement « intacts ».
 
-> Dans le renfoncement de pierre où Jésus avait été couché, Marie ne vit que la serviette pliée sur laquelle sa tête avait reposé et les bandelettes avec lesquelles il avait été enveloppé, gisant intactes telles qu’elles avaient été posées sur la pierre avant que les armées célestes n’eussent enlevé le corps. Le linceul gisait au pied de la niche mortuaire. ([LU 189:4.6](/fr/The_Urantia_Book/189#p4_6))
+> Dans le renfoncement de pierre où Jésus avait été couché, Marie ne vit que la serviette pliée sur laquelle sa tête avait reposé et les bandelettes avec lesquelles il avait été enveloppé, gisant intactes telles qu’elles avaient été posées sur la pierre avant que les armées célestes n’eussent enlevé le corps. Le linceul gisait au pied de la niche mortuaire. (<a id="a488_361"></a>[LU 189:4.6](/fr/The_Urantia_Book/189#p4_6))
 
-> Les cinq femmes ... supposaient que le corps avait été transporté dans un autre lieu de repos. Mais, en réfléchissant à cette solution de leur dilemme, elles furent embarrassées pour expliquer l’arrangement ordonné des linges mortuaires. Comment le corps aurait-il pu être enlevé, puisque les bandelettes mêmes dans lesquelles il était enveloppé avaient été laissées en place, apparemment intactes, sur le rayon mortuaire ? [LU 189:4.9](/fr/The_Urantia_Book/189#p4_9)
+> Les cinq femmes ... supposaient que le corps avait été transporté dans un autre lieu de repos. Mais, en réfléchissant à cette solution de leur dilemme, elles furent embarrassées pour expliquer l’arrangement ordonné des linges mortuaires. Comment le corps aurait-il pu être enlevé, puisque les bandelettes mêmes dans lesquelles il était enveloppé avaient été laissées en place, apparemment intactes, sur le rayon mortuaire ? <a id="a490_426"></a>[LU 189:4.9](/fr/The_Urantia_Book/189#p4_9)
 
-> Simon Pierre arriva bientôt après en courant, entra dans le tombeau et vit ce même tombeau vide avec les linges funéraires disposés d’une façon si particulière. ([LU 189:5.2](/fr/The_Urantia_Book/189#p5_2))
+> Simon Pierre arriva bientôt après en courant, entra dans le tombeau et vit ce même tombeau vide avec les linges funéraires disposés d’une façon si particulière. (<a id="a492_164"></a>[LU 189:5.2](/fr/The_Urantia_Book/189#p5_2))
 
-> Pierre suggéra d’abord que le tombeau avait été violé, que des ennemis avaient volé le corps et peut-être soudoyé les gardes. Mais Jean conclut que le sépulcre n’aurait pas été laissé en aussi bon ordre si le corps avait été volé. Il souleva également la question de savoir comment les bandelettes avaient pu être laissées sur place et apparemment intactes. Ils retournèrent tous deux dans le caveau pour examiner de plus près les linges funéraires. ([LU 189:5.3](/fr/The_Urantia_Book/189#p5_3))
+> Pierre suggéra d’abord que le tombeau avait été violé, que des ennemis avaient volé le corps et peut-être soudoyé les gardes. Mais Jean conclut que le sépulcre n’aurait pas été laissé en aussi bon ordre si le corps avait été volé. Il souleva également la question de savoir comment les bandelettes avaient pu être laissées sur place et apparemment intactes. Ils retournèrent tous deux dans le caveau pour examiner de plus près les linges funéraires. (<a id="a494_453"></a>[LU 189:5.3](/fr/The_Urantia_Book/189#p5_3))
 
 Peut-être que tous ces mystères font partie du plan. Peut-être que les bandages ont été laissés intacts pour rendre la scène impossible à expliquer. Peut-être que la serviette pour le visage et le tissu funéraire ont été pliés et séparés l'un de l'autre pour s'assurer que les différents morceaux de tissu soient distinguables et plus facilement remarqués afin que 2000 ans plus tard nous éveillions notre curiosité, pour encourager l'intérêt et l'intrigue.
 
@@ -559,23 +559,23 @@ Selon Le Livre d'Urantia, « de toutes les connaissances humaines, celle qui a l
 	4) Établir des corrélations entre les questions scientifiques liées au TS et les déclarations faites dans _Le Livre d'Urantia_ concernant les morceaux de tissu liés à l'enterrement de Jésus.
 	Il faut souligner que le type de corrélations établies dans ce rapport entre ce que dit le Livre d'Urantia et les diverses études scientifiques qui ont été développées en relation avec le TS ne répondent pas aux normes utilisées pour les autres rapports d'UBtheNEWS. La norme pour ce rapport est beaucoup plus spéculative. Le matériel présenté dans ce rapport est proposé parce qu'il est intrigant. Contrairement aux autres rapports d'UBtheNEWS où les corrélations doivent être corroboratives, les corrélations ici sont établies sur la base d'éléments raisonnablement associés.
 
-[^4]: [LU 188:0.3](/fr/The_Urantia_Book/188#p0_3) Les références aux documents du _Livre d'Urantia_ sont fournies sous la forme qui vient d'être donnée. Le premier numéro indique le chapitre (appelé dans _Le Livre d'Urantia_ « Fascicules ») ; le numéro de section est donné en deuxième ; et le troisième numéro fait référence au(x) paragraphe(s). Un zéro à la position du chapitre indique que la citation provient de l'Avant-propos. Un zéro à la position de la section indique qu'elle provient des remarques introductives de ce chapitre.
+[^4]: <a id="a561_6"></a>[LU 188:0.3](/fr/The_Urantia_Book/188#p0_3) Les références aux documents du _Livre d'Urantia_ sont fournies sous la forme qui vient d'être donnée. Le premier numéro indique le chapitre (appelé dans _Le Livre d'Urantia_ « Fascicules ») ; le numéro de section est donné en deuxième ; et le troisième numéro fait référence au(x) paragraphe(s). Un zéro à la position du chapitre indique que la citation provient de l'Avant-propos. Un zéro à la position de la section indique qu'elle provient des remarques introductives de ce chapitre.
 
-[^5]: [LU 188:1.2-5,7](/fr/The_Urantia_Book/188#p1_2)
+[^5]: <a id="a563_6"></a>[LU 188:1.2-5,7](/fr/The_Urantia_Book/188#p1_2)
 
-[^6]: « Morontia est un terme désignant un vaste niveau intervenant entre le matériel et le spirituel. Il peut désigner des réalités personnelles ou impersonnelles, des énergies vivantes ou non vivantes. La chaîne de la morontia est spirituelle ; sa trame est physique. » [LU 0:5.12](/fr/The_Urantia_Book/0#p5_12)
+[^6]: « Morontia est un terme désignant un vaste niveau intervenant entre le matériel et le spirituel. Il peut désigner des réalités personnelles ou impersonnelles, des énergies vivantes ou non vivantes. La chaîne de la morontia est spirituelle ; sa trame est physique. » <a id="a565_272"></a>[LU 0:5.12](/fr/The_Urantia_Book/0#p5_12)
 
-[^7]: [LU 189:1.2](/fr/The_Urantia_Book/189#p1_2)
+[^7]: <a id="a567_6"></a>[LU 189:1.2](/fr/The_Urantia_Book/189#p1_2)
 
-[^8]: [LU 189:1.7](/fr/The_Urantia_Book/189#p1_7)
+[^8]: <a id="a569_6"></a>[LU 189:1.7](/fr/The_Urantia_Book/189#p1_7)
 
-[^9]: [LU 189:2.1-8](/fr/The_Urantia_Book/189#p2_1)
+[^9]: <a id="a571_6"></a>[LU 189:2.1-8](/fr/The_Urantia_Book/189#p2_1)
 
-[^10]: [LU 189:4.3-10,12-14](/fr/The_Urantia_Book/189#p4_3); [LU 189:5.1-5](/fr/The_Urantia_Book/189#p5_1)
+[^10]: <a id="a573_7"></a>[LU 189:4.3-10,12-14](/fr/The_Urantia_Book/189#p4_3); <a id="a573_61"></a>[LU 189:5.1-5](/fr/The_Urantia_Book/189#p5_1)
 
-[^11]: [LU 191:0.4](/fr/The_Urantia_Book/191#p0_4)
+[^11]: <a id="a575_7"></a>[LU 191:0.4](/fr/The_Urantia_Book/191#p0_4)
 
-[^12]: [LU 190:1.2](/fr/The_Urantia_Book/190#p1_2)
+[^12]: <a id="a577_7"></a>[LU 190:1.2](/fr/The_Urantia_Book/190#p1_2)
 
 [^13]: http://en.wikipedia.org/wiki/Shroud_of_turin\#cite_note-rogers-3
 
@@ -587,25 +587,25 @@ Selon Le Livre d'Urantia, « de toutes les connaissances humaines, celle qui a l
 
 [^17]: http://www.Shroud.com/guscin.htm
 
-[^18]: [LU 188:1.4](/fr/The_Urantia_Book/188#p1_4)
+[^18]: <a id="a589_7"></a>[LU 188:1.4](/fr/The_Urantia_Book/188#p1_4)
 
 [^19]: http://www.Shroud.com/guscin.htm
 
-[^20]: [LU 188:1.4](/fr/The_Urantia_Book/188#p1_4)
+[^20]: <a id="a593_7"></a>[LU 188:1.4](/fr/The_Urantia_Book/188#p1_4)
 
 [^21]: http://www.Shroud.com/guscin.htm
 
-[^22]: [LU 188:1.4](/fr/The_Urantia_Book/188#p1_4)
+[^22]: <a id="a597_7"></a>[LU 188:1.4](/fr/The_Urantia_Book/188#p1_4)
 
-[^23]: [LU 189:2.1](/fr/The_Urantia_Book/189#p2_1)
+[^23]: <a id="a599_7"></a>[LU 189:2.1](/fr/The_Urantia_Book/189#p2_1)
 
-[^24]: [LU 189:2.4](/fr/The_Urantia_Book/189#p2_4)
+[^24]: <a id="a601_7"></a>[LU 189:2.4](/fr/The_Urantia_Book/189#p2_4)
 
-[^25]: [LU 189:2.7,8](/fr/The_Urantia_Book/189#p2_7)
+[^25]: <a id="a603_7"></a>[LU 189:2.7,8](/fr/The_Urantia_Book/189#p2_7)
 
-[^26]: [LU 189:4.6](/fr/The_Urantia_Book/189#p4_6)
+[^26]: <a id="a605_7"></a>[LU 189:4.6](/fr/The_Urantia_Book/189#p4_6)
 
-[^27]: [LU 189:4.9](/fr/The_Urantia_Book/189#p4_9)
+[^27]: <a id="a607_7"></a>[LU 189:4.9](/fr/The_Urantia_Book/189#p4_9)
 
 [^28]: http://www.Shroudofturin.com/Science1.html
 
@@ -623,9 +623,9 @@ Selon Le Livre d'Urantia, « de toutes les connaissances humaines, celle qui a l
 
 [^35]: http://www.dim.unipd.it/fanti/corona.pdf
 
-[^36]: [LU 189:2.7](/fr/The_Urantia_Book/189#p2_7)
+[^36]: <a id="a625_7"></a>[LU 189:2.7](/fr/The_Urantia_Book/189#p2_7)
 
-[^37]: [LU 189:2.8](/fr/The_Urantia_Book/189#p2_8)
+[^37]: <a id="a627_7"></a>[LU 189:2.8](/fr/The_Urantia_Book/189#p2_8)
 
 [^38]: http://www.shroud.com/pdfs/accett2.pdf
 
@@ -647,17 +647,17 @@ Selon Le Livre d'Urantia, « de toutes les connaissances humaines, celle qui a l
 
 [^47]: http://Shroud.com/pdfs/doclist.pdf
 
-[^48]: [LU 120:3.7](/fr/The_Urantia_Book/120#p3_7)
+[^48]: <a id="a649_7"></a>[LU 120:3.7](/fr/The_Urantia_Book/120#p3_7)
 
-[^51]: Livre d'Urantia [LU 189:4.9](/fr/The_Urantia_Book/189#p4_9)
+[^51]: Livre d'Urantia <a id="a651_23"></a>[LU 189:4.9](/fr/The_Urantia_Book/189#p4_9)
 
-[^52]: Livre d'Urantia [LU 189:5.2](/fr/The_Urantia_Book/189#p5_2)
+[^52]: Livre d'Urantia <a id="a653_23"></a>[LU 189:5.2](/fr/The_Urantia_Book/189#p5_2)
 
-[^53]: Livre d'Urantia [LU 189:5.3](/fr/The_Urantia_Book/189#p5_3)
+[^53]: Livre d'Urantia <a id="a655_23"></a>[LU 189:5.3](/fr/The_Urantia_Book/189#p5_3)
 
-[^54]: Livre d'Urantia [LU 196:3.30](/fr/The_Urantia_Book/196#p3_30)
+[^54]: Livre d'Urantia <a id="a657_23"></a>[LU 196:3.30](/fr/The_Urantia_Book/196#p3_30)
 
-[^55]: Livre d'Urantia [LU 196:1.3](/fr/The_Urantia_Book/196#p1_3)
+[^55]: Livre d'Urantia <a id="a659_23"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3)
 
 
 

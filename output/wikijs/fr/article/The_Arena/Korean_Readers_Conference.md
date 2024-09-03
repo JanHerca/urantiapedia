@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Marion Steward<br>© 2023 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marion_Steward/New_Zealand_Corner_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coin de la Nouvelle-Zélande</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Administrateur d'ANZURA
@@ -48,3 +69,25 @@ Site Web de la conférence : [https://urantiaforum.modoo.at/](https://urantiafor
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2023/06/25/korean-readers-conference)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marion_Steward/New_Zealand_Corner_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coin de la Nouvelle-Zélande</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

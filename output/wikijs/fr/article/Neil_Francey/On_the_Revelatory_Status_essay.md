@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Neil Francey<br>© 2023 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/Activity_Report_from_a_UB_Student">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport d'activité d'un étudiant du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marion_Steward/New_Zealand_Corner_3">
+          <span class="pr-2">Coin de la Nouvelle-Zélande</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Neil Francey, Queensland
@@ -36,3 +60,28 @@ Ces circonstances passées et les défis actuels sont ensuite projetés dans un 
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/newsletter/arena-winter-2023/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/Activity_Report_from_a_UB_Student">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport d'activité d'un étudiant du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marion_Steward/New_Zealand_Corner_3">
+          <span class="pr-2">Coin de la Nouvelle-Zélande</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

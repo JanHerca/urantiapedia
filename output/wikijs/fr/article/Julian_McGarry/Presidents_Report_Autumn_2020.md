@@ -9,6 +9,30 @@ dateCreated: 2023-11-05T01:11:28.972Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Julian McGarry<br>© 2020 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/The_Arena_2020_autumn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Arène – Automne 2020 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'arène-automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Arène – Automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Virtual_Study_Groups_and_Conferences">
+          <span class="pr-2">Groupes d'étude et conférences virtuelles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Julian McGarry, Hobart
@@ -32,7 +56,7 @@ J'espère que vous apprécierez tous l'Arena d'automne ! Un grand merci à tous 
 À l'approche de l'hiver, je tiens à vous encourager tous à rester en sécurité et en bonne santé ! Et puis-je conclure avec ce rappel opportun :
 <br style="clear:both;"/>
 
-> _Le Père Universel est la seule personnalité dans tout l’univers qui connaisse effectivement le nombre des étoiles et des planètes de l’espace. Dieu a constamment dans sa conscience tous les mondes de chaque univers. Il dit aussi : « J’ai certes vu l’affliction de mon peuple, j’ai entendu ses plaintes et je connais ses souffrances. » Car « le Seigneur contemple depuis les cieux, il voit tous les fils des hommes et il regarde du lieu de sa demeure tous les habitants de la terre ». Tout enfant de la création peut dire en vérité : « Il connait le chemin que je prends et, lorsqu’il m’aura éprouvé, j’en sortirai comme de l’or. » « Dieu connait nos levers et nos couchers, il comprend nos pensées de loin et toutes nos voies lui sont familières. » « Toutes choses sont nues et ouvertes aux yeux de celui à qui nous avons à faire. » Et tout être humain devrait être réellement consolé en comprenant qu’« il connait votre structure, il se souvient que vous êtes poussière ». Parlant du Dieu vivant, Jésus a dit : « Votre Père sait ce dont vous avez besoin avant même que vous le lui demandiez. »_ (<a id="a34_1100"></a>[LU 3:3.2](/fr/The_Urantia_Book/3#p3_2))
+> _Le Père Universel est la seule personnalité dans tout l’univers qui connaisse effectivement le nombre des étoiles et des planètes de l’espace. Dieu a constamment dans sa conscience tous les mondes de chaque univers. Il dit aussi : « J’ai certes vu l’affliction de mon peuple, j’ai entendu ses plaintes et je connais ses souffrances. » Car « le Seigneur contemple depuis les cieux, il voit tous les fils des hommes et il regarde du lieu de sa demeure tous les habitants de la terre ». Tout enfant de la création peut dire en vérité : « Il connait le chemin que je prends et, lorsqu’il m’aura éprouvé, j’en sortirai comme de l’or. » « Dieu connait nos levers et nos couchers, il comprend nos pensées de loin et toutes nos voies lui sont familières. » « Toutes choses sont nues et ouvertes aux yeux de celui à qui nous avons à faire. » Et tout être humain devrait être réellement consolé en comprenant qu’« il connait votre structure, il se souvient que vous êtes poussière ». Parlant du Dieu vivant, Jésus a dit : « Votre Père sait ce dont vous avez besoin avant même que vous le lui demandiez. »_ (<a id="a58_1100"></a>[LU 3:3.2](/fr/The_Urantia_Book/3#p3_2))
 
 Paix et amour!
 
@@ -43,3 +67,28 @@ Président, ANZURA
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2020/05/10/presidents-report)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/The_Arena_2020_autumn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Arène – Automne 2020 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'arène-automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Arène – Automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Virtual_Study_Groups_and_Conferences">
+          <span class="pr-2">Groupes d'étude et conférences virtuelles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

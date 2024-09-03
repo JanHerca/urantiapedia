@@ -1,5 +1,5 @@
 ---
-title: "L'Aréna – Été 2020 — Newsletter"
+title: "L'Aréna – Été 2021 — Newsletter"
 description: 
 published: true
 date: 2023-11-04T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/Presidents_Report_Summer_2021">
+          <span class="pr-2">Rapport du président – Été 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -130,7 +151,7 @@ En d’autres termes, « Nous sommes parce que JE SUIS. »
 
 Bien sûr, cela n'est pas du tout simple et nécessite quelque chose appelé « l'Âge du Maître Univers ». Mais pour le Père, le résultat final est une famille presque infinie d'Êtres comme lui, et donc une garantie que l'Éternité sera presque infiniment intéressante. Quant à la façon dont notre Père « fait en sorte que cela se produise », les auteurs du Livre d'Urantia révèlent que cette infinie extériorisation, cette embellissement de l'éternité, est motivée et médiatisée par l'Amour, le moteur principal, la motivation essentielle et impérieuse.
 
-Remarquez, tout ceci est très profondément personnel. « **JE SUIS** » n’est pas seulement notre « premier postulat philosophique » <a id="a132_131"></a>[[LU 105:1.3](/fr/The_Urantia_Book/105#p1_3)], c’est aussi l’expérience la plus personnelle possible : JE SUIS. Nous Sommes. De ce point de vue, l’univers devient _une affaire de famille_. Nous y reviendrons. Mais pour l’instant, je veux juste mettre en place cette idée, que l’Amour est le motivateur, le médiateur, littéralement la _Lumière et la Vie_ de toutes les interactions qui se déroulent dans le domaine personnel du Père.
+Remarquez, tout ceci est très profondément personnel. « **JE SUIS** » n’est pas seulement notre « premier postulat philosophique » <a id="a153_131"></a>[[LU 105:1.3](/fr/The_Urantia_Book/105#p1_3)], c’est aussi l’expérience la plus personnelle possible : JE SUIS. Nous Sommes. De ce point de vue, l’univers devient _une affaire de famille_. Nous y reviendrons. Mais pour l’instant, je veux juste mettre en place cette idée, que l’Amour est le motivateur, le médiateur, littéralement la _Lumière et la Vie_ de toutes les interactions qui se déroulent dans le domaine personnel du Père.
 
 [Lire la suite](/fr/article/Nigel_Nunn/We_Are_Because_I_AM)
 <br style="clear:both;"/>
@@ -165,7 +186,7 @@ William Wentworth, Territoire de la capitale australienne (ACT)
 
 Récemment, un article du Mighty Messenger du printemps 2021 a attiré mon attention. Écrit par Gary Tonge, un lecteur américain, il soulignait que la rébellion de Lucifer n'avait revendiqué aucune des personnalités ascendantes qui étaient citoyens de Jérusalem à l'époque. Ces dernières étaient au nombre de 187 432 811.
 
-_Il s'écoula plus de deux ans dans le système depuis le début de la « guerre dans le ciel » jusqu'à l'installation du successeur de Lucifer. Mais enfin le nouveau Souverain arriva, atterrissant sur la mer de verre avec son bâton. J'étais parmi les réserves mobilisées sur Edentia par Gabriel, et je me souviens bien du premier message de Lanaforge au Père de la Constellation de Norlatiadek. Il disait : « Pas un seul citoyen de Jérusalem n'a été perdu. Chaque mortel ascendant a survécu à l'épreuve ardente et est sorti triomphant et totalement victorieux de l'épreuve cruciale. » Et à Salvington, Uversa et au Paradis est allé ce message d'assurance que l'expérience de survie de l'ascension mortelle est la plus grande sécurité contre la rébellion et la plus sûre protection contre le péché. Cette noble bande de mortels fidèles de Jérusalem comptait seulement 187 432 811._ <a id="a167_878"></a>[[LU 53:7.12](/fr/The_Urantia_Book/53#p7_12)]
+_Il s'écoula plus de deux ans dans le système depuis le début de la « guerre dans le ciel » jusqu'à l'installation du successeur de Lucifer. Mais enfin le nouveau Souverain arriva, atterrissant sur la mer de verre avec son bâton. J'étais parmi les réserves mobilisées sur Edentia par Gabriel, et je me souviens bien du premier message de Lanaforge au Père de la Constellation de Norlatiadek. Il disait : « Pas un seul citoyen de Jérusalem n'a été perdu. Chaque mortel ascendant a survécu à l'épreuve ardente et est sorti triomphant et totalement victorieux de l'épreuve cruciale. » Et à Salvington, Uversa et au Paradis est allé ce message d'assurance que l'expérience de survie de l'ascension mortelle est la plus grande sécurité contre la rébellion et la plus sûre protection contre le péché. Cette noble bande de mortels fidèles de Jérusalem comptait seulement 187 432 811._ <a id="a188_878"></a>[[LU 53:7.12](/fr/The_Urantia_Book/53#p7_12)]
 
 [Lire la suite](/fr/article/William_Wentworth/Where_Are_They_All)
 <br style="clear:both;"/>
@@ -185,7 +206,7 @@ Une cosmologie imprégnée de sens et de valeur, éclipsant dans sa portée notr
 Cependant, juste après avoir ainsi remué nos âmes, les auteurs jettent de l'eau froide sur nos attentes.
 <br style="clear:both;"/>
 
-> _...beaucoup de nos affirmations concernant les sciences physiques auront besoin d’être revues, à la suite de développements scientifiques additionnels et de découvertes nouvelles._ (<a id="a187_185"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2))
+> _...beaucoup de nos affirmations concernant les sciences physiques auront besoin d’être revues, à la suite de développements scientifiques additionnels et de découvertes nouvelles._ (<a id="a208_185"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2))
 
 « Il faudra la réviser. » Comparée à la cosmologie consensuelle actuelle d’un jeune univers commençant par un Big Bang chaud, la cosmologie du Livre d’Urantia est si peu orthodoxe et si apparemment fausse que certains étudiants de ces fascicules voient maintenant cette cosmologie comme un simple ornement pour les thèmes plus importants du livre : ses révélations spirituelles et philosophiques. Mais jetez un autre coup d’œil aux « Limitations de la révélation » discutées dans le fascicule 101. Immédiatement après avoir déclaré qu’ils étaient limités dans les faits scientifiques qu’ils pouvaient révéler, ils continuent à énumérer un certain nombre de choses qu’ils étaient autorisés à faire. La première d’entre elles est particulièrement intéressante.
 
@@ -311,3 +332,25 @@ Certains groupes d'études incluent la participation virtuelle via Zoom si vous 
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/newsletter/arena-summer-2021/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/Presidents_Report_Summer_2021">
+          <span class="pr-2">Rapport du président – Été 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

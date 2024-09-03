@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/Annual_Conference_Auckland_New_Zealand_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence annuelle Auckland Nouvelle-Zélande 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/Growing_the_Supreme">
+          <span class="pr-2">Cultiver le suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par un participant à la conférence
@@ -72,3 +96,28 @@ Profitez de cette galerie de photos de quelques clichés pris lors de la confér
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2019/12/16/canberra-2019-conference-report)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/Annual_Conference_Auckland_New_Zealand_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence annuelle Auckland Nouvelle-Zélande 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/Growing_the_Supreme">
+          <span class="pr-2">Cultiver le suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

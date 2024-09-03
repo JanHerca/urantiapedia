@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Martin McBurney<br>© 2019 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Matt_Hall/New_Zealand_Corner_Autumn_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coin de la Nouvelle-Zélande – Automne 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'arène-automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Arène – Automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Leith_Luckett/Poem_by_Leith">
+          <span class="pr-2">Poème de Leith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Martin McBurney, VIC
@@ -35,3 +59,28 @@ Il y a l'histoire d'un pêcheur australien qui a trouvé un moyen simple d'attra
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2019/05/05/urantia-towards-light-life)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Matt_Hall/New_Zealand_Corner_Autumn_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coin de la Nouvelle-Zélande – Automne 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'arène-automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Arène – Automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Leith_Luckett/Poem_by_Leith">
+          <span class="pr-2">Poème de Leith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

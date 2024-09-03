@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/Presidents_Report_Winter_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du président – Hiver 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Arena/National_Study_Day_Reflections">
+          <span class="pr-2">Réflexions sur la Journée nationale d'étude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -32,7 +56,7 @@ Le « ROPE » dans le titre du thème est un acronyme pour la **R**eligion**de**
 
 _Le Livre d'Urantia_ est rempli de citations impressionnantes nous rappelant que la communion personnelle et intime avec Dieu est à la portée de nous tous !
 
-> _Il est grand temps que les hommes aient une expérience religieuse si personnelle et si sublime qu’elle ne puisse se concevoir et se manifester que par des « sentiments trop profonds pour s’exprimer par des mots »._ (<a id="a34_219"></a>[LU 99:5.9](/fr/The_Urantia_Book/99#p5_9))
+> _Il est grand temps que les hommes aient une expérience religieuse si personnelle et si sublime qu’elle ne puisse se concevoir et se manifester que par des « sentiments trop profonds pour s’exprimer par des mots »._ (<a id="a58_219"></a>[LU 99:5.9](/fr/The_Urantia_Book/99#p5_9))
 
 ## PROGRAMME
 
@@ -161,3 +185,28 @@ Courriel : [anzura.urantia](mailto:anzura.urantia@gmail.com)@kathleen
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2022/07/26/countdown-tassie-conference)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Phillip_Marriott/Presidents_Report_Winter_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du président – Hiver 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Arena/National_Study_Day_Reflections">
+          <span class="pr-2">Réflexions sur la Journée nationale d'étude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

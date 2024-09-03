@@ -9,17 +9,41 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/Virtual_ANZURA_Annual_Conference_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence annuelle virtuelle de l'ANZURA 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marion_Steward/Where_are_the_Daughters_of_God_2">
+          <span class="pr-2">Où sont les Filles de Dieu ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par le groupe d'étude en ligne du mercredi soir
 
 Dans le document 151, **Hébergement et enseignement au bord de la mer**, Jésus a commencé à changer ses méthodes d'enseignement en utilisant des paraboles pour transmettre les vérités qu'il voulait transmettre. Les apôtres ont tous essayé d'interpréter la parabole du semeur et ont fini par avoir des interprétations très différentes. Puis, à la fin de la section 3 (Plus d'informations sur les paraboles), Jésus dit aux apôtres :
 
-> « _Avant de congédier le groupe pour la nuit, Jésus dit : « Maintenant, je vais vous raconter la fin de la parabole du semeur. Je veux vous éprouver pour savoir comment vous accepterez ceci : le royaume des cieux ressemble aussi à un homme qui a semé du bon grain sur la terre ; pendant qu’il dormait la nuit et vaquait à ses affaires le jour, le grain germa et grandit, et, sans qu’il sache comment, la plante arriva à maturité. Elle fut d’abord en herbe, puis il y eut l’épi, puis la plénitude du grain dans l’épi. Et, quand le grain fut mûr, l’homme prit sa faucille et ce fut la fin de la moisson. Que celui qui a une oreille pour entendre entende. »_ » (<a id="a17_661"></a>[LU 151:3.15](/fr/The_Urantia_Book/151#p3_15))
+> « _Avant de congédier le groupe pour la nuit, Jésus dit : « Maintenant, je vais vous raconter la fin de la parabole du semeur. Je veux vous éprouver pour savoir comment vous accepterez ceci : le royaume des cieux ressemble aussi à un homme qui a semé du bon grain sur la terre ; pendant qu’il dormait la nuit et vaquait à ses affaires le jour, le grain germa et grandit, et, sans qu’il sache comment, la plante arriva à maturité. Elle fut d’abord en herbe, puis il y eut l’épi, puis la plénitude du grain dans l’épi. Et, quand le grain fut mûr, l’homme prit sa faucille et ce fut la fin de la moisson. Que celui qui a une oreille pour entendre entende. »_ » (<a id="a41_661"></a>[LU 151:3.15](/fr/The_Urantia_Book/151#p3_15))
 
 Dans le paragraphe suivant, on nous dit :
 
-> _Les apôtres retournèrent maintes fois ces paroles dans leur mental, mais le Maitre ne mentionna plus jamais cette addition à la parabole du semeur._ (<a id="a21_153"></a>[LU 151:3.16](/fr/The_Urantia_Book/151#p3_16))
+> _Les apôtres retournèrent maintes fois ces paroles dans leur mental, mais le Maitre ne mentionna plus jamais cette addition à la parabole du semeur._ (<a id="a45_153"></a>[LU 151:3.16](/fr/The_Urantia_Book/151#p3_16))
 
 Dans le groupe d'étude, nous avons décidé d'expérimenter cet exercice d'interprétation des paraboles en essayant de trouver le sens de ce que Jésus voulait dire par cette dernière parabole du semeur. Chacun de nous s'y est essayé et voici ce que nous avons partagé la semaine suivante :
 
@@ -62,7 +86,7 @@ Pour moi, le message de la parabole est que l'évangile que Jésus est venu proc
 
 > _Après avoir entendu des objections similaires contre l’évangile du royaume présentées par Thomas, Nathanael, Simon Zélotès et Matthieu, Jésus dit aux douze :_
 > 
-> « _« Je suis venu dans ce monde pour faire la volonté de mon Père et pour révéler, à toute l’humanité, son caractère aimant. Cela, mes frères, c’est ma mission, et cette chose-là, je la ferai sans me soucier que mes enseignements risquent d’être mal compris par les Juifs et les Gentils de notre époque ou d’une autre génération. Il ne devrait pas vous échapper que même l’amour divin a ses disciplines sévères. L’amour d’un père pour son fils oblige souvent le père à mettre un frein aux activités malencontreuses de son rejeton étourdi. L’enfant ne comprend pas toujours les motifs sages et affectueux de la discipline restrictive du père. Mais je vous déclare que mon Père au Paradis gouverne effectivement un univers d’univers par le pouvoir contraignant de son amour. L’amour est la plus grande de toutes les réalités spirituelles. La vérité est une révélation libératrice, mais l’amour est la relation suprême. Quelles que soient les bévues de vos contemporains dans l’administration actuelle de leur monde, l’évangile que je vous proclame gouvernera ce même monde dans un âge à venir. Le but ultime du progrès humain consiste à reconnaitre respectueusement la paternité de Dieu et à matérialiser avec amour la fraternité des hommes._ » (<a id="a64_1246"></a>[LU 143:1.3-4](/fr/The_Urantia_Book/143#p1_3))
+> « _« Je suis venu dans ce monde pour faire la volonté de mon Père et pour révéler, à toute l’humanité, son caractère aimant. Cela, mes frères, c’est ma mission, et cette chose-là, je la ferai sans me soucier que mes enseignements risquent d’être mal compris par les Juifs et les Gentils de notre époque ou d’une autre génération. Il ne devrait pas vous échapper que même l’amour divin a ses disciplines sévères. L’amour d’un père pour son fils oblige souvent le père à mettre un frein aux activités malencontreuses de son rejeton étourdi. L’enfant ne comprend pas toujours les motifs sages et affectueux de la discipline restrictive du père. Mais je vous déclare que mon Père au Paradis gouverne effectivement un univers d’univers par le pouvoir contraignant de son amour. L’amour est la plus grande de toutes les réalités spirituelles. La vérité est une révélation libératrice, mais l’amour est la relation suprême. Quelles que soient les bévues de vos contemporains dans l’administration actuelle de leur monde, l’évangile que je vous proclame gouvernera ce même monde dans un âge à venir. Le but ultime du progrès humain consiste à reconnaitre respectueusement la paternité de Dieu et à matérialiser avec amour la fraternité des hommes._ » (<a id="a88_1246"></a>[LU 143:1.3-4](/fr/The_Urantia_Book/143#p1_3))
 
 ## William Wentworth, Canberra
 
@@ -94,3 +118,28 @@ Je pense qu’il s’agit de la mission de Jésus de semer les graines – l’�
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2020/09/07/parable-of-sower)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Arena/Virtual_ANZURA_Annual_Conference_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence annuelle virtuelle de l'ANZURA 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marion_Steward/Where_are_the_Daughters_of_God_2">
+          <span class="pr-2">Où sont les Filles de Dieu ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

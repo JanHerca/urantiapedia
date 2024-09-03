@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rita_Schaad/Presidents_Report_Summer_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du président – Été 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Julian_McGarry/2022_ANZURA_Annual_Conference_Report">
+          <span class="pr-2">Rapport de la conférence annuelle ANZURA 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par le Comité de Conférence
@@ -31,13 +55,13 @@ Nous avons entre les mains une version actualisée des révélations présentée
 
 Cette année, nous espérons pouvoir exploiter et partager cette immense réserve de connaissances, de compréhension et de talents qui existe au sein de la communauté des lecteurs. Rejoignez-nous pour étudier les principes fondamentaux des enseignements du livre et développer des outils pratiques et des moyens attrayants de parler de cette révélation sur la sauvegarde de la planète avec les personnes que nous rencontrons dans notre vie quotidienne.
 
-> « Personne n’allume une lampe pour la couvrir d’un boisseau ou la mettre sous son lit : on met sa lampe sur un piédestal où tous peuvent voir la lumière. Permettez-moi de vous dire que, dans le royaume des cieux, il n’y a rien de caché qui ne doive être manifesté, point de secrets qui ne doivent finalement être connus. Toutes choses finiront par être éclairées. » (<a id="a33_369"></a>[LU 151:3.1](/fr/The_Urantia_Book/151#p3_1))
+> « Personne n’allume une lampe pour la couvrir d’un boisseau ou la mettre sous son lit : on met sa lampe sur un piédestal où tous peuvent voir la lumière. Permettez-moi de vous dire que, dans le royaume des cieux, il n’y a rien de caché qui ne doive être manifesté, point de secrets qui ne doivent finalement être connus. Toutes choses finiront par être éclairées. » (<a id="a57_369"></a>[LU 151:3.1](/fr/The_Urantia_Book/151#p3_1))
 
-> « On ne peut rester stagnant dans les affaires du royaume éternel. Mon Père demande à tous ses enfants de croitre en grâce et dans la connaissance de la vérité. Vous, qui connaissez ces vérités, devez produire l’accroissement des fruits de l’esprit et manifester un dévouement croissant au service désintéressé de vos compagnons qui servent avec vous. Souvenez-vous que, dans la mesure où vous servez le plus humble de mes frères, c’est à moi que vous rendez service. » (<a id="a35_473"></a>[LU 176:3.5](/fr/The_Urantia_Book/176#p3_5))
+> « On ne peut rester stagnant dans les affaires du royaume éternel. Mon Père demande à tous ses enfants de croitre en grâce et dans la connaissance de la vérité. Vous, qui connaissez ces vérités, devez produire l’accroissement des fruits de l’esprit et manifester un dévouement croissant au service désintéressé de vos compagnons qui servent avec vous. Souvenez-vous que, dans la mesure où vous servez le plus humble de mes frères, c’est à moi que vous rendez service. » (<a id="a59_473"></a>[LU 176:3.5](/fr/The_Urantia_Book/176#p3_5))
 
-> « Vous avez reçu libéralement la vérité du ciel ; vous devriez donc la donner libéralement et, par ce don, cette vérité se multipliera et annoncera la lumière croissante de la grâce qui sauve, dès le moment où vous la dispenserez. » (<a id="a37_236"></a>[LU 176:3.10](/fr/The_Urantia_Book/176#p3_10))
+> « Vous avez reçu libéralement la vérité du ciel ; vous devriez donc la donner libéralement et, par ce don, cette vérité se multipliera et annoncera la lumière croissante de la grâce qui sauve, dès le moment où vous la dispenserez. » (<a id="a61_236"></a>[LU 176:3.10](/fr/The_Urantia_Book/176#p3_10))
 
-> L’acte est à nous, ses conséquences appartiennent à Dieu. (<a id="a39_61"></a>[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13))
+> L’acte est à nous, ses conséquences appartiennent à Dieu. (<a id="a63_61"></a>[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13))
 
 ## Lieu
 
@@ -102,3 +126,28 @@ Adresse postale : BP 1581, Warriewood NSW 2102
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2023/01/06/2023-annual-conference-sydney)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rita_Schaad/Presidents_Report_Summer_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du président – Été 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Julian_McGarry/2022_ANZURA_Annual_Conference_Report">
+          <span class="pr-2">Rapport de la conférence annuelle ANZURA 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

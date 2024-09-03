@@ -142,7 +142,7 @@ C'est ce que vous croyez plutôt que ce que vous savez qui détermine ce que vou
 Tout comme il existe des lois naturelles de la science, il existe des lois surnaturelles de l'Esprit. L'une de ces lois immuables est que ni Dieu ni aucun de ses assistants célestes n'essaieront jamais de vous changer ou de vous recréer sans votre consentement explicite. Le Créateur d'un univers veut que vous veniez à lui, mais seulement si vous voulez venir de votre plein gré.
 <br style="clear:both;"/>
 
-> Le Créateur refuse d'exercer une contrainte sur le libre arbitre spirituel de ses créatures matérielles ou de le forcer à se soumettre. <a id="a143_138"></a>[LU 1:1.2](/fr/The_Urantia_Book/1#p1_2)
+> Le Créateur refuse d'exercer une contrainte sur le libre arbitre spirituel de ses créatures matérielles ou de le forcer à se soumettre. <a id="a144_138"></a>[LU 1:1.2](/fr/The_Urantia_Book/1#p1_2)
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/2024_06/007.jpg">
@@ -161,7 +161,7 @@ Il est impossible d'atteindre l'harmonie spirituelle et l'unité divine par le s
 
 Vivre votre foi valide votre conviction que vous êtes une vraie fille ou un véritable fils d'un Dieu Père-Mère affectueux et compatissant. Revigorés par la même foi, vos convictions et vos idéaux deviennent des réalités dans votre vie. Ceci, à son tour, ouvre la porte à un potentiel encore plus grand de conscience spirituelle et de vie spirituelle, qui s'enrichit encore davantage chaque fois que vous aidez les autres.
 
-> Les convictions concernant Dieu peuvent être obtenues grâce à un raisonnement sage, mais l'individu ne connaît Dieu que par la foi, par l'expérience personnelle. <a id="a162_164"></a>[LU 102:6.5](/fr/The_Urantia_Book/102#p6_5)
+> Les convictions concernant Dieu peuvent être obtenues grâce à un raisonnement sage, mais l'individu ne connaît Dieu que par la foi, par l'expérience personnelle. <a id="a163_164"></a>[LU 102:6.5](/fr/The_Urantia_Book/102#p6_5)
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Reflectivite/2024_06/007.jpg">
@@ -170,9 +170,9 @@ Vivre votre foi valide votre conviction que vous êtes une vraie fille ou un vé
 Vivre sa foi est un privilège divin. C'est une entreprise heureuse réalisée avec enthousiasme et amour ; c'est relever les défis quotidiens avec vigueur et inspiration ; c'est rester intrépide face à toutes les déceptions et à tous les échecs ; et c'est cultiver un esprit indomptable qui persévère quelles que soient les difficultés et les luttes de la vie.
 <br style="clear:both;"/>
 
-> 4\. La foi — l'affirmation suprême de la pensée humaine — est-elle désirable ? Alors, il faut que le mental de l'homme se retrouve dans cette situation embarrassante où il en sait toujours moins que ce qu'il peut croire. <a id="a171_223"></a>[LU 3:5.9](/fr/The_Urantia_Book/3#p5_9)
+> 4\. La foi — l'affirmation suprême de la pensée humaine — est-elle désirable ? Alors, il faut que le mental de l'homme se retrouve dans cette situation embarrassante où il en sait toujours moins que ce qu'il peut croire. <a id="a172_223"></a>[LU 3:5.9](/fr/The_Urantia_Book/3#p5_9)
 
-> La conscience d'avoir mené une vie victorieuse sur la terre nait de la foi d'une créature confrontée au terrible spectacle des limitations humaines, lorsqu'à chaque épisode récurrent de son existence et sans jamais faillir, elle ose proclamer ce défi : Même si je ne peux pas faire cette chose, quelqu'un vit en moi qui peut la faire et la fera, une fraction de l'Absolu-Père de l'univers des univers. C'est cela « la victoire qui triomphe du monde, votre foi elle-même. <a id="a173_473"></a>[LU 4:4.9](/fr/The_Urantia_Book/4#p4_9)
+> La conscience d'avoir mené une vie victorieuse sur la terre nait de la foi d'une créature confrontée au terrible spectacle des limitations humaines, lorsqu'à chaque épisode récurrent de son existence et sans jamais faillir, elle ose proclamer ce défi : Même si je ne peux pas faire cette chose, quelqu'un vit en moi qui peut la faire et la fera, une fraction de l'Absolu-Père de l'univers des univers. C'est cela « la victoire qui triomphe du monde, votre foi elle-même. <a id="a174_473"></a>[LU 4:4.9](/fr/The_Urantia_Book/4#p4_9)
 
 ## Références
 

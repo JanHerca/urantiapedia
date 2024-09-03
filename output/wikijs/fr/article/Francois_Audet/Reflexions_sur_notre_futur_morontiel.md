@@ -78,17 +78,17 @@ Il n'y a pas de bonheur sans progrès, et pour progresser il faut faire des effo
 
 Inutile de rêver du futur！Mieux vaut vivre intensément chaque jour, et ne pas remettre à plus tard ce que l'on peut faire aujourd'hui. Voici quelques citations qui appuient ce conseil :
 
-> « Les choses que vous auriez pu apprendre sur terre, mais que vous n'y avez pas apprises, doivent être assimilées... ». (<a id="a76_123"></a>[LU 48:5.7](/fr/The_Urantia_Book/48#p5_7))
+> « Les choses que vous auriez pu apprendre sur terre, mais que vous n'y avez pas apprises, doivent être assimilées... ». (<a id="a80_123"></a>[LU 48:5.7](/fr/The_Urantia_Book/48#p5_7))
 
-> « La vie dans maisonnia apprend de bonne heure aux jeunes élèves morontiels qu'en aucune manière, on n'évite une chose en l'ajournant. Après la vie charnelle, on ne dispose plus du temps comme technique pour esquiver des situations ou se soustraire à des obligations désagréables. » (<a id="a78_286"></a>[LU 48:5.8](/fr/The_Urantia_Book/48#p5_8))
+> « La vie dans maisonnia apprend de bonne heure aux jeunes élèves morontiels qu'en aucune manière, on n'évite une chose en l'ajournant. Après la vie charnelle, on ne dispose plus du temps comme technique pour esquiver des situations ou se soustraire à des obligations désagréables. » (<a id="a82_286"></a>[LU 48:5.8](/fr/The_Urantia_Book/48#p5_8))
 
-> « Le travail de préparation pour la prochaine sphère plus élevée est fort important, mais rien n'est aussi important que de travailler dans le monde sur lequel vous vivez actuellement.» (<a id="a80_189"></a>[LU 48:6.37](/fr/The_Urantia_Book/48#p6_37))
+> « Le travail de préparation pour la prochaine sphère plus élevée est fort important, mais rien n'est aussi important que de travailler dans le monde sur lequel vous vivez actuellement.» (<a id="a84_189"></a>[LU 48:6.37](/fr/The_Urantia_Book/48#p6_37))
 
-> « Tout gain humain contribue directement à enrichir les premiers stades de l'expérience de survie immortelle.» (<a id="a82_114"></a>[LU 103:5.7](/fr/The_Urantia_Book/103#p5_7))
+> « Tout gain humain contribue directement à enrichir les premiers stades de l'expérience de survie immortelle.» (<a id="a86_114"></a>[LU 103:5.7](/fr/The_Urantia_Book/103#p5_7))
 
-> «Les faibles se complaisent à des résolutions, mais les forts agissent. La vie n'est que le travail d'un jour exécutez-le bien. L'acte est à nous, ses conséquences appartiennent à Dieu.» (<a id="a84_190"></a>[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13))
+> «Les faibles se complaisent à des résolutions, mais les forts agissent. La vie n'est que le travail d'un jour exécutez-le bien. L'acte est à nous, ses conséquences appartiennent à Dieu.» (<a id="a88_190"></a>[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13))
 
-> « Vivez loyalement aujourd'hui — croissez — et demain prendra soin de lui-même. La manière la plus rapide pour un têtard de devenir une grenouille est de vivre loyalement chaque instant comme un têtard.» <a id="a86_206"></a>[LU 100:1.4](/fr/The_Urantia_Book/100#p1_4)
+> « Vivez loyalement aujourd'hui — croissez — et demain prendra soin de lui-même. La manière la plus rapide pour un têtard de devenir une grenouille est de vivre loyalement chaque instant comme un têtard.» <a id="a90_206"></a>[LU 100:1.4](/fr/The_Urantia_Book/100#p1_4)
 
 L'aventure éternelle est déjà en cours pour celles et ceux qui sont à la recherche de Dieu. La mort n'est qu'une simple transition vers une continuité.
 

@@ -46,7 +46,7 @@ Lors de notre groupe d'étude, nous avons réalisé que nul enseignement sophist
 C'est que dans les révélations d'Urantia nous pouvons déduire plusieurs raisons pour justifier les révélations d'époque :
 <br style="clear:both;"/>
 
-1\. Pour étendre notre conscience cosmique et rehausser notre perception spirituelle <a id="a48_84"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2).
+1\. Pour étendre notre conscience cosmique et rehausser notre perception spirituelle <a id="a48_85"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2).
 2\. Les religions institutionnelles actuellement sur notre planète possèdent très peu des caractéristiques souhaitables décrites au fascicule 99.
 3\.
 

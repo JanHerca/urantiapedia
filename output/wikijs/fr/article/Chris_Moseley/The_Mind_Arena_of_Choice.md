@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Chris Moseley<br>© 2020 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Think_Alike_Necessary_or_Unnecessary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Penser de la même façon : nécessaire ou inutile ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Venosa/Amarantos">
+          <span class="pr-2">Amarante</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Chris Moseley, Angleterre
@@ -24,11 +48,11 @@ Par Chris Moseley, Angleterre
 
 Le concept d’« esprit » en lui-même, dans le sens abstrait et illimité du mot, n’implique pas le libre arbitre, mais l’esprit individuel, l’esprit mortel, a le libre arbitre comme composante inséparable et déterminante. Dans le passage de la page 1216 intitulé _L’arène mentale du choix_, il y a une phrase frappante qui exprime presque le noyau de toute la condition humaine :
 
-> _La conscience humaine repose doucement sur le mécanisme électrochimique sous-jacent, et touche délicatement le système énergétique morontiel-spirituel sur-jacent._ (<a id="a26_168"></a>[LU 111:1.5](/fr/The_Urantia_Book/111#p1_5))
+> _La conscience humaine repose doucement sur le mécanisme électrochimique sous-jacent, et touche délicatement le système énergétique morontiel-spirituel sur-jacent._ (<a id="a50_168"></a>[LU 111:1.5](/fr/The_Urantia_Book/111#p1_5))
 
 Vu sous cet angle, à quel point l'être humain semble être une créature finement réglée, à quelle mystérieuse fragilité est associée l'existence quotidienne, et à quelles graves responsabilités sont associées tous les choix que nous faisons !
 
-Qu'il soit indifférencié, au sens d'esprit infini ou absolu, ou fini, agissant par le ministère des esprits mentaux adjuvats, tout esprit peut être « _superposé à l'énergie_ ». (<a id="a30_178"></a>[LU 9:4.2](/fr/The_Urantia_Book/9#p4_2)) en d'autres termes, l'esprit peut diriger les énergies par ses propres choix. L'esprit ajoute du sens à l'énergie.
+Qu'il soit indifférencié, au sens d'esprit infini ou absolu, ou fini, agissant par le ministère des esprits mentaux adjuvats, tout esprit peut être « _superposé à l'énergie_ ». (<a id="a54_178"></a>[LU 9:4.2](/fr/The_Urantia_Book/9#p4_2)) en d'autres termes, l'esprit peut diriger les énergies par ses propres choix. L'esprit ajoute du sens à l'énergie.
 
 Une autre chose que nous pouvons dire à propos de tout esprit est qu'il provient de la Troisième Source et du Troisième Centre, la Troisième Personne de la Déité. Mais cela ne signifie pas que l'esprit soit intrinsèquement divin. S'il l'était, il serait probablement exempt d'erreurs et de mauvais jugements, et ne serait pas non plus déformé par la peur et les préjugés.
 
@@ -38,11 +62,11 @@ Les êtres matériels sont les plus familiers avec le fonctionnement de la gravi
 
 Nos choix en tant que mortels ne sont donc pas aussi libres que nous pourrions l'imaginer, à cause de cette attraction gravitationnelle invisible, tout comme les marées sont affectées par l'attraction de la lune.
 
-Nous devons nous rappeler que les Ajusteurs ont leur propre esprit (<a id="a40_68"></a>[LU 107:5.1](/fr/The_Urantia_Book/107#p5_1)), mais n’exercent pas leur libre arbitre ; c’est la prérogative des créatures de volonté dans lesquelles ils habitent (<a id="a40_231"></a>[LU 107:7.2](/fr/The_Urantia_Book/107#p7_2)).
+Nous devons nous rappeler que les Ajusteurs ont leur propre esprit (<a id="a64_68"></a>[LU 107:5.1](/fr/The_Urantia_Book/107#p5_1)), mais n’exercent pas leur libre arbitre ; c’est la prérogative des créatures de volonté dans lesquelles ils habitent (<a id="a64_231"></a>[LU 107:7.2](/fr/The_Urantia_Book/107#p7_2)).
 
 Ils nous ont habités par un acte de volonté, mais leur libre arbitre est sacrifié au nôtre. Le prépersonnel est à la disposition du personnel. Et c'est pourquoi il est si dangereux d'attribuer automatiquement nos choix et décisions moraux à la guidance de l'ajusteur. La direction de l'ajusteur peut être ressentie à long terme, et peut-être vue avec le recul, mais, nous dit le livre (p.1207), il est plus sage et plus sûr d'attribuer nos pensées, nos choix et nos décisions à une activité purement mentale.
 
-Nous arrivons donc au cœur du problème. Ce que j’ai dit n’est qu’une tentative de préparation à la lecture de _The Mind Arena of Choice_. \*(Voir l’annexe à la fin de cet article pour lire la section entière de <a id="a44_211"></a>[LU 111:1.1](/fr/The_Urantia_Book/111#p1_1))
+Nous arrivons donc au cœur du problème. Ce que j’ai dit n’est qu’une tentative de préparation à la lecture de _The Mind Arena of Choice_. \*(Voir l’annexe à la fin de cet article pour lire la section entière de <a id="a68_211"></a>[LU 111:1.1](/fr/The_Urantia_Book/111#p1_1))
 _
 
 Essayons de commenter chaque paragraphe.
@@ -57,7 +81,7 @@ Le quatrième paragraphe réintroduit et réaffirme le concept selon lequel il s
 
 J’ai déjà commenté le magnifique résumé de la condition humaine que nous trouvons au cœur du cinquième paragraphe. Mais revenons au message qui le renforce :
 
-> _...Ce qui assure la survie n’est pas tellement ce que le mental comprend, mais plutôt ce que le mental cherche à comprendre._ (<a id="a59_130"></a>[LU 111:1.5](/fr/The_Urantia_Book/111#p1_5))
+> _...Ce qui assure la survie n’est pas tellement ce que le mental comprend, mais plutôt ce que le mental cherche à comprendre._ (<a id="a83_130"></a>[LU 111:1.5](/fr/The_Urantia_Book/111#p1_5))
 
 Le sixième paragraphe nous montre les dangers et les responsabilités d’avoir un véhicule mental emprunté. Les choix de libre arbitre sont faits de façon routinière avec en tête les gains à court terme pour soi-même. Mais la dure leçon, peut-être la plus difficile à apprendre, est de savoir comment abandonner cette volonté à celle de Dieu.
 
@@ -67,7 +91,7 @@ Le huitième paragraphe réaffirme la relation de l'esprit avec l'Ajusteur, c'es
 
 Et le dernier paragraphe contient de magnifiques vérités qui ne peuvent être résumées en quelques mots :
 
-> _Le mental est votre navire, l’Ajusteur est votre pilote, la volonté humaine est le capitaine._ (<a id="a69_99"></a>[LU 111:1.9](/fr/The_Urantia_Book/111#p1_9))
+> _Le mental est votre navire, l’Ajusteur est votre pilote, la volonté humaine est le capitaine._ (<a id="a93_99"></a>[LU 111:1.9](/fr/The_Urantia_Book/111#p1_9))
 
 L'imagerie du naufrage et du péril en mer nous rappelle encore une fois la lourde responsabilité qui incombe aux êtres mortels de faire les bons choix guidés par l'Ajusteur.
 
@@ -97,10 +121,35 @@ _Voir la newsletter complète sur :_
 > 
 > ^111:1.8^ Toutefois, l’homme n’abandonne pas servilement et passivement sa volonté à l’Ajusteur. Il choisit plutôt activement, positivement et coopérativement de suivre les directives de l’Ajusteur, quand il a conscience que ces directives diffèrent des désirs et impulsions du mental mortel naturel. Les Ajusteurs manipulent le mental de l’homme, mais ne le dominent jamais contre sa volonté. Pour les Ajusteurs, la volonté de l’homme est suprême. C’est ainsi qu’ils la considèrent et la respectent, tandis qu’ils s’efforcent d’atteindre les buts spirituels d’ajustement de la pensée et de transformation du caractère dans le cadre à peu près illimité de l’intellect humain en évolution.
 > 
-> ^111:1.9^ Le mental est votre navire, l’Ajusteur est votre pilote, la volonté humaine est le capitaine. Le maitre du vaisseau mortel devrait avoir la sagesse de se fier au divin pilote pour conduire l’âme ascendante dans les havres morontiels de la survie éternelle. C’est seulement par égoïsme, par paresse et par le péché que la volonté de l’homme peut rejeter la gouverne d’un pilote aussi aimant et de naufrager finalement la carrière du mortel sur les dangereux écueils du refus de la miséricorde et sur les récifs de la pratique du péché. Avec votre consentement, ce fidèle pilote vous fera traverser en sécurité les obstacles du temps et les handicaps de l’espace, jusqu’à la source même du mental divin et aller même au-delà, jusqu’au Père des Ajusteurs au Paradis. (<a id="a99_777"></a>[LU 111:1.1-9](/fr/The_Urantia_Book/111#p1_1))
+> ^111:1.9^ Le mental est votre navire, l’Ajusteur est votre pilote, la volonté humaine est le capitaine. Le maitre du vaisseau mortel devrait avoir la sagesse de se fier au divin pilote pour conduire l’âme ascendante dans les havres morontiels de la survie éternelle. C’est seulement par égoïsme, par paresse et par le péché que la volonté de l’homme peut rejeter la gouverne d’un pilote aussi aimant et de naufrager finalement la carrière du mortel sur les dangereux écueils du refus de la miséricorde et sur les récifs de la pratique du péché. Avec votre consentement, ce fidèle pilote vous fera traverser en sécurité les obstacles du temps et les handicaps de l’espace, jusqu’à la source même du mental divin et aller même au-delà, jusqu’au Père des Ajusteurs au Paradis. (<a id="a123_777"></a>[LU 111:1.1-9](/fr/The_Urantia_Book/111#p1_1))
 
 
 ## Références
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2021/02/10/mining-archives-mind-arena)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Think_Alike_Necessary_or_Unnecessary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Penser de la même façon : nécessaire ou inutile ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-été-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Été 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Venosa/Amarantos">
+          <span class="pr-2">Amarante</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

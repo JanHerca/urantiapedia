@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Ken Glasziou<br>© 2019 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/Proclaiming_the_Gospel_with_Power">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Proclamer l'Évangile avec puissance au 21e siècle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/Conference_2004_Preamble_Echoes_of_Eden">
+          <span class="pr-2">Préambule de la conférence 2004 – Les échos de l'Eden</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Ken Glasziou, Sunshine Coast Queensland
@@ -30,11 +54,11 @@ Certains d'entre nous apprennent rapidement que lorsqu'on présente le Livre d'U
 _Le Livre d'Urantia_ présente à l'humanité une compréhension nouvelle et éminemment raisonnable de la révélation. Même la révélation d'époque n'est pas infaillible.
 <br style="clear:both;"/>
 
-> _Toutefois, jamais aucune révélation ne peut être complète avant d’atteindre le Père Universel. Tous les autres ministères célestes ne sont que partiels, transitoires et pratiquement adaptés aux conditions locales dans le temps et l’espace. Il est possible qu’en admettant cela, on amoindrisse la force et l’autorité immédiates de toutes les révélations, mais l’heure est arrivée sur Urantia où il est opportun de faire ces franches déclarations, même au risque d’affaiblir l’influence et l’autorité du présent ouvrage qui représente la révélation la plus récente de la vérité aux races mortelles d’Urantia._ (<a id="a32_612"></a>[LU 92:4.9](/fr/The_Urantia_Book/92#p4_9))
+> _Toutefois, jamais aucune révélation ne peut être complète avant d’atteindre le Père Universel. Tous les autres ministères célestes ne sont que partiels, transitoires et pratiquement adaptés aux conditions locales dans le temps et l’espace. Il est possible qu’en admettant cela, on amoindrisse la force et l’autorité immédiates de toutes les révélations, mais l’heure est arrivée sur Urantia où il est opportun de faire ces franches déclarations, même au risque d’affaiblir l’influence et l’autorité du présent ouvrage qui représente la révélation la plus récente de la vérité aux races mortelles d’Urantia._ (<a id="a56_612"></a>[LU 92:4.9](/fr/The_Urantia_Book/92#p4_9))
 
-De plus, une grande partie du matériel textuel du Livre d'Urantia existe déjà quelque part dans les archives écrites de notre monde. À la fin de l'Avant-propos (<a id="a34_161"></a>[LU 0:12.12](/fr/The_Urantia_Book/0#p12_12)) on nous dit que plus d'un millier des concepts humains les plus élevés ont été rassemblés pour produire la première partie du livre. Le Médian (auteur) responsable de la préparation de la quatrième partie, le récit de la vie et des enseignements de Jésus, a utilisé des joyaux de pensée et des concepts supérieurs rassemblés à partir de…
+De plus, une grande partie du matériel textuel du Livre d'Urantia existe déjà quelque part dans les archives écrites de notre monde. À la fin de l'Avant-propos (<a id="a58_161"></a>[LU 0:12.12](/fr/The_Urantia_Book/0#p12_12)) on nous dit que plus d'un millier des concepts humains les plus élevés ont été rassemblés pour produire la première partie du livre. Le Médian (auteur) responsable de la préparation de la quatrième partie, le récit de la vie et des enseignements de Jésus, a utilisé des joyaux de pensée et des concepts supérieurs rassemblés à partir de…
 
-> « _...de plus de deux-mille êtres humains qui ont vécu sur terre depuis l’époque de Jésus jusqu’au jour où furent rédigées les présentes révélations, ou plus exactement ces réexposés. ... À bien des égards, j’ai davantage joué le rôle de collectionneur et d’éditeur que celui de narrateur original._ » (<a id="a36_305"></a>[LU 121:8.13](/fr/The_Urantia_Book/121#p8_13))
+> « _...de plus de deux-mille êtres humains qui ont vécu sur terre depuis l’époque de Jésus jusqu’au jour où furent rédigées les présentes révélations, ou plus exactement ces réexposés. ... À bien des égards, j’ai davantage joué le rôle de collectionneur et d’éditeur que celui de narrateur original._ » (<a id="a60_305"></a>[LU 121:8.13](/fr/The_Urantia_Book/121#p8_13))
 
 Les sources révélatrices surhumaines n'étaient utilisées que lorsque les Médians Unis pouvaient témoigner qu'ils n'avaient pas réussi à trouver l'expression conceptuelle requise dans des sources purement humaines.
 
@@ -44,3 +68,28 @@ A mesure que de plus en plus de gens dans notre société comprendront l'ouvertu
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2019/07/31/new-approach-to-revelation)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/Proclaiming_the_Gospel_with_Power">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Proclamer l'Évangile avec puissance au 21e siècle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/Conference_2004_Preamble_Echoes_of_Eden">
+          <span class="pr-2">Préambule de la conférence 2004 – Les échos de l'Eden</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

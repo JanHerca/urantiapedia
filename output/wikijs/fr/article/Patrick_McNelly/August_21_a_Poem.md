@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Patrick McNelly<br>© 2020 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Neil_Francey/Business_on_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les affaires sur Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Barry_Culligan/The_Stillness_a_Poem">
+          <span class="pr-2">Le silence – un poème</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Patrick McNelly, États-Unis
@@ -66,3 +90,28 @@ La Fraternité de chaque homme
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/newsletter/arena-spring-2020/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Neil_Francey/Business_on_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les affaires sur Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Barry_Culligan/The_Stillness_a_Poem">
+          <span class="pr-2">Le silence – un poème</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Pádraig Ó Tuama<br>© 2019 ANZURA, Association Urantia Australie et Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jordan_B_Peterson/Existentialism_in_Australia_and_New_Zealand">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'existentialisme en Australie et en Nouvelle-Zélande</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Padraig Ó Tuama
@@ -62,3 +83,25 @@ Alors dirigez-vous.
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2019/07/31/shaking-hands-poem)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jordan_B_Peterson/Existentialism_in_Australia_and_New_Zealand">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'existentialisme en Australie et en Nouvelle-Zélande</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

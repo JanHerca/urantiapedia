@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Phillip Marriott<br>© 2023 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Coenraads/Spiritual_Practices">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pratiques spirituelles – une invitation à l’intimité avec Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neil_Francey/On_the_Revelatory_Status_essay">
+          <span class="pr-2">Sur le statut révélateur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Phillip Marriott, SA
@@ -62,3 +86,28 @@ En dehors de mes études personnelles, je continue à gérer mon entreprise et �
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2023/06/25/activity-report-from-a-urantia-book-student-2)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Coenraads/Spiritual_Practices">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pratiques spirituelles – une invitation à l’intimité avec Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_arena#l'aréna-hiver-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">L'Aréna – Hiver 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neil_Francey/On_the_Revelatory_Status_essay">
+          <span class="pr-2">Sur le statut révélateur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
