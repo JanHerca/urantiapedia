@@ -18,7 +18,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Livre d'Urantia</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/fr/Le_Urantia_Book" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/fr/The_Urantia_Book" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>

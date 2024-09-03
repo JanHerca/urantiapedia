@@ -77,7 +77,7 @@ Se ofrece un listado de referencias a los conceptos señalados[^1]:
 
 ## Enlaces externos
 
-* Este informe en el sitio web UBTheNews: http://ubannotated.com/ubthenews/Eugenics_Race_Urantia_Book/
+* [Este informe en el sitio web UBTheNews](http://ubannotated.com/ubthenews/Eugenics_Race_Urantia_Book/)
 
 ## Notas y Referencias
 

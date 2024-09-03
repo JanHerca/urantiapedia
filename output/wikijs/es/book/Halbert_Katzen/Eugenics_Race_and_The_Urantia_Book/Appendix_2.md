@@ -55,7 +55,7 @@ En general, las enseñanzas de *El Libro de Urantia* sobre la relación entre tr
 > El trabajo, los esfuerzos creativos, distinguen al hombre de la bestia, cuyos esfuerzos son ampliamente instintivos. La necesidad de trabajar es la bendición suprema del hombre. Todo el estado mayor del Príncipe trabajaba; contribuyeron mucho a ennoblecer el trabajo físico en Urantia. Adán fue horticultor; el Dios de los hebreos trabajaba —era el creador y el sostén de todas las cosas. Los hebreos fueron la primera tribu que dio un valor supremo a la industria; fueron el primer pueblo que decretó que «el que no trabaje no comerá». Pero muchas religiones del mundo volvieron al ideal primitivo de la ociosidad. Júpiter era un juerguista y Buda se convirtió en un partidario meditabundo del ocio.[^5]
 > 
 > 1. *Hacer la voluntad del Padre*. La enseñanza de Jesús sobre confiar en los cuidados del Padre celestial no era un fatalismo ciego y pasivo. Aquella tarde citó, dándolo por bueno, un viejo refrán hebreo: «El que no trabaje no comerá». [...] [^6]
-> 
+
 > Aunque el ideal de la sociedad sea la libertad universal, la ociosidad no debería tolerarse nunca. Todas las personas sanas deberían ser *obligadas* a realizar una cantidad de trabajo que al menos les permita vivir. [^7]
 
 ## Clasificación de los tres tipos de capacidades mentales: supernormal, normal y subnormal
@@ -153,25 +153,25 @@ El término «gente común» se usa una vez, traducido en la versión europea de
 Considere cuánto sentido tienen las siguientes citas y cuán fácil es entenderlas cuando se considera que la «gente común» es una forma de distinguir a las personas con mentalidad subnormal y normal de las personas con mentalidad supernormal.
 
 > [...] Incluso la gente corriente era capaz de considerar el concepto maduro de Yahvé como un Padre, si no del individuo, al menos de la raza. [^19]
-> 
+
 > [...] La gente común y corriente deseaba ardientemente promesas de salvación —un consuelo religioso para hoy y las seguridades de una esperanza de inmortalidad para después de la muerte. [^20]
-> 
+
 > Estas filosofías eran semi-religiosas; muchas veces eran fortificantes, éticas y ennoblecedoras, pero normalmente estaban por encima del alcance de la gente común. Con la posible excepción del cinismo, se trataba de filosofías para los fuertes y los sabios, no de religiones de salvación destinadas incluso a los pobres y los débiles. [^21]
-> 
+
 > [...]  Los ascendientes próximos de José eran artesanos: constructores, carpinteros, albañiles y herreros. El mismo José era carpintero, y más tarde fue contratista. Su familia pertenecía a una larga e ilustre línea de notables del pueblo [común], realzada de vez en cuando por la aparición de personalidades excepcionales que se habían distinguido en el ámbito de la evolución de la religión en Urantia. [^22]
-> 
+
 > De todas las parejas que vivían en Palestina en la época para la que se había proyectado la donación de Miguel, José y María poseían la combinación más ideal de vastos vínculos raciales y de dotaciones de personalidad superiores a la media. *El plan de Miguel era aparecer en la Tierra como un hombre ordinario, para que la gente común pudiera comprenderlo y recibirlo*; por eso Gabriel eligió a unas personas como José y María para ser los padres de la donación. [^23]
-> 
+
 > La gente corriente escuchaba a Jesús con placer, y responderán de nuevo a la presentación de su vida humana sincera de motivación religiosa consagrada, si estas verdades se proclaman de nuevo en el mundo. La gente lo escuchaba con placer porque era uno de ellos, un laico sin pretensiones; el instructor religioso más grande del mundo fue en verdad un laico. [^24]
-> 
+
 > La gente corriente se maravillaba con las enseñanzas y el ministerio de Jesús y sus apóstoles. Los rabinos habían enseñado durante mucho tiempo a los judíos que los ignorantes no podían ser ni piadosos ni justos. Pero los apóstoles de Jesús eran piadosos y justos, y sin embargo ignoraban alegremente una gran parte de la erudición de los rabinos y de la sabiduría del mundo. [^25]
-> 
+
 > Las multitudes de gente común y corriente se sentían muy estimuladas al ver a dos personas como ellas honradas con un puesto entre los apóstoles. Mediante su admisión como apóstoles, estos gemelos mediocres fueron el medio de atraer al reino a numerosos creyentes pusilánimes. Además, la gente común y corriente aceptaba mejor la idea de ser conducida y dirigida por unos celadores oficiales que se parecían mucho a ellos mismos. [^26]
-> 
+
 > [...] Debido principalmente a esta necesidad de una súplica sencilla para la gente corriente, Jesús consintió entonces en enseñarles, en respuesta a la petición de Tomás, una forma sugerente de oración. [...] [^27]
-> 
+
 > En aquel momento concreto, la fama de Jesús se basaba principalmente en su reputación como sanador [...] Pero eran las curaciones físicas las que ejercían el atractivo más directo e inmediato sobre la gente común. [...] [^28]
-> 
+
 > Los apóstoles de Jesús, sin contar a la gente común y corriente, no podían comprender la naturaleza y los atributos de este Dios-hombre. Ninguna generación posterior tampoco ha sido capaz de evaluar lo que sucedió en la Tierra en la persona de Jesús de Nazaret. [...] [^29]
 
 ## «Subnormal» no significa «subhumano»
@@ -223,13 +223,13 @@ En *El Libro de Urantia* se dice «ven el rostro de las huestes celestiales». L
 El ejército de los EE.UU. no acepta a nadie con un coeficiente intelectual inferior a 83 porque terminará requiriendo más cuidado y supervisión de lo que puede producir en beneficio. Teniendo en cuenta que la agricultura no es un tipo de actividad militar, considere los siguientes pasajes.
 
 > Desde el punto de vista mundial, la superpoblación nunca ha sido un grave problema en el pasado, pero si las guerras disminuyen y la ciencia controla cada vez más las enfermedades humanas, puede convertirse en un problema serio en el futuro cercano. En ese momento se presentará la gran prueba de sabiduría para los dirigentes del mundo. Los gobernantes de Urantia ¿tendrán la perspicacia y la valentía de fomentar la multiplicación de los seres humanos de tipo medio o estabilizados, en lugar de favorecer la de los grupos extremos compuestos por los que son superiores a la normalidad y por los grupos cada vez más grandes de seres inferiores a la normalidad? Se debería fomentar el hombre normal; él es la espina dorsal de la civilización y la fuente de los genios mutantes de la raza. El hombre inferior a la normalidad debería estar sujeto al control de la sociedad; no se deberían tener más de los que se necesitan para atender los niveles inferiores de la industria, aquellas tareas que requieren una inteligencia por encima del nivel animal, pero que precisan unos esfuerzos tan pequeños que resultan una verdadera esclavitud y una servidumbre para los tipos superiores de la humanidad. [^33]
-> 
+
 > [En un planeta vecino a Urantia] A los débiles mentales sólo se les enseña la agricultura y la ganadería, y son internados de por vida en unas colonias tutelares especiales, donde se les separa por sexos para impedir la procreación, que está prohibida para todos los subnormales. Estas medidas restrictivas están en vigor desde hace setenta y cinco años; las sentencias de reclusión son promulgadas por los tribunales de padres. [^34]
 
 ¿Qué relación podrían tener los siguientes párrafos con las consideraciones sobre los subnormales antes y después de Pentecostés (y tal vez en presencia de Jesús)?:
 
 > La cultura presupone la calidad de mente; la cultura no puede mejorar a menos que se eleve la mente. Un intelecto superior buscará una cultura noble y encontrará alguna manera de alcanzar esa meta. Las mentes inferiores despreciarán la cultura más elevada, aunque se la presenten ya hecha. También depende mucho de las misiones sucesivas de los Hijos divinos y del grado de iluminación que reciben las épocas de sus dispensaciones respectivas. [^35]
-> 
+
 > La estancia en Atenas fue agradable y provechosa, pero no particularmente fructífera en contactos humanos. Demasiados atenienses de aquellos tiempos, o estaban intelectualmente orgullosos de su reputación del pasado, o eran mentalmente estúpidos e ignorantes, pues descendían de los esclavos inferiores traídos en épocas anteriores, cuando había gloria en Grecia y sabiduría en la mente de sus habitantes. Sin embargo, aún se podían encontrar muchas mentes agudas entre los ciudadanos de Atenas. [^36]
 
 ¿Pueden los subnormales fusionarse con el Padre? ¿Fusionarse con el Espíritu?
@@ -272,7 +272,7 @@ El ejército de los EE.UU. no acepta a nadie con un coeficiente intelectual infe
 
 ## Enlaces externos
 
-* Este informe en el sitio web UBTheNews: http://ubannotated.com/ubthenews/Eugenics_Race_Urantia_Book/
+* [Este informe en el sitio web UBTheNews](http://ubannotated.com/ubthenews/Eugenics_Race_Urantia_Book/)
 
 ## Notas y Referencias
 
