@@ -1,14 +1,12 @@
 ---
-title: Libros
+title: "La Biblioteca de Urantiapedia"
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: book
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
-
-## La Biblioteca Urantiapedia
 
 Urantiapedia va a contener una biblioteca de libros sobre espiritualidad, religión, filosofía y ciencia, siempre que consideremos que tengan alguna relación de interés para los lectores de _El Libro de Urantia_, y siempre que podamos obtener una versión libre de derechos de autor. 
 
@@ -31,6 +29,11 @@ Al incorporar estos libros a Urantiapedia se va a proceder del mismo modo que co
 ## Listado de libros
 
 - [Índice de todos los grupos de libros](/es/index/books)
+
+<figure id="Sample_fig_1" class="image urantiapedia">
+<img src="/image/sample_page_book.png">
+<figcaption><em>Ejemplo de visualización de un libro.</em></figcaption>
+</figure>
 
 ## Referencias
 

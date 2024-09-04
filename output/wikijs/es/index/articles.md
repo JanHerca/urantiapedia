@@ -478,29 +478,3 @@ Originales: Ver [Referencias](#referencias)
 - [Historia del Movimiento Urantia](/es/article/William_S_Sadler/A_History_of_the_Urantia_Movement), William S. Sadler. (The Urantia Book, The Urantia Book—Authorship)
 
 <small>1- Este artículo es una actualización de 2017 del artículo original publicado en Fellowship Herald, Vol 2. No. 1 y 2</small>
-
-## Otras fuentes
-
-Más contenido que se considerará para el futuro:
-
-- Asociaciones Urantia:
-  - Australia & New Zealand Urantia Association (ANZURA): https://anzura.urantia-association.org/topical-index-study-aids/
-  - Canada Urantia Association: https://canada.urantia-association.org/urantia-related-writtings/
-  - Asociación Urantia de España: https://aue.urantia-association.org/study/
-  - Urantia Asociación de Argentina: https://argentina.urantia-association.org/trabajos-secundarios/
-  - Urantia Asociación de México: https://www.urantia-mexico.org.mx/index_archivos/Page1438.htm
-  - Agrupación Autónoma Urantia Chile: http://www.urantiachile.org/?modulo=articulos
-  - Urantia Associação do Brasil: https://urantia.com.br/arquivos/category/blog-artigos
-  - Estados Unidos, Great Lake Michigan Urantia Association: https://glmua.urantia-association.org/library/
-  - Asociación Urantia de Costa Rica: https://cr.urantia-association.org/publicaciones/
-  - Asociación Urantia de Cali: https://uracali.urantia-association.org/
-  - Urantia Deutschland, Österreich und Scheweiz: https://dach.urantia-association.org/blog/
-  - Suomen Urantia-seura: https://finland.urantia-association.org/category/vastauksia-kysymyksiin/
-- Revistas sobre _El Libro de Urantia_:
-  - Recopilaciones:
-    - https://urantia-book.org/archive/newsletters/
-    - https://urantiabook.org/Urantia-Book-Paper-Focused-Resources
-  - http://www.encyclopediaurantia.org/
-  - https://www.squarecircles.com/
-- Ensayos de Meredith J. Sprunger: https://urantiabook.org/Christianity-and-The-Urantia-Book-The-Meredith-J-Sprunger-Essays
-- Otros en español: https://urantiabook.org/Estudios_Espanol

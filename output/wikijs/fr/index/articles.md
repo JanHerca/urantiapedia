@@ -481,29 +481,3 @@ Sources : Voir [Références](#références)
 - [Une histoire du Mouvement Urantia](/en/article/William_S_Sadler/A_History_of_the_Urantia_Movement), William S. Sadler. (Le Livre d'Urantia, Le Livre d'Urantia—Paternité)
 
 <small>1 - Cet article est une mise à jour de 2017 de l'article original publié dans Fellowship Herald, Vol 2. N° 1 et 2</small>
-
-## Autres sources
-
-Plus de contenu envisagé pour l’avenir :
-
-- Associations Urantia :
-   - Association Urantia d'Australie et de Nouvelle-Zélande (ANZURA) : https://anzura.urantia-association.org/topical-index-study-aids/
-   - Association Urantia Canada : https://canada.urantia-association.org/urantia-rated-writtings/
-   - Asociación Urantia de España : https://aue.urantia-association.org/study/
-   - Urantia Asociación de Argentina : https://argentina.urantia-association.org/trabajos-secundarios/
-   - Urantia Association de México : https://www.urantia-mexico.org.mx/index_archivos/Page1438.htm
-   - Agrupación Autónoma Urantia Chili : http://www.urantiachile.org/?modulo=articulos
-   - Urantia Associação do Brasil : https://urantia.com.br/arquivos/category/blog-artigos
-   - États-Unis, Association Urantia des Grands Lacs Michigan : https://glmua.urantia-association.org/library/
-   - Association Urantia de Costa Rica : https://cr.urantia-association.org/publicaciones/
-   - Association Urantia de Cali : https://uracali.urantia-association.org/
-   - Urantia Allemagne, Autriche et Suisse : https://dach.urantia-association.org/blog/
-   - Suomen Urantia-seura : https://finland.urantia-association.org/category/vastauksia-kysymyksiin/
-- Revues du Livre d'Urantia :
-   - Compilations :
-     - https://urantia-book.org/archive/newsletters/
-     - https://urantiabook.org/Urantia-Book-Paper-Focused-Resources
-   - http://www.encyclopediaurantia.org/
-   - https://www.squarecircles.com/
-- Les essais de Meredith J. Sprunger : https://urantiabook.org/Christianity-and-The-Urantia-Book-The-Meredith-J-Sprunger-Essays
-- Autre en espagnol : https://urantiabook.org/Estudios_Espanol

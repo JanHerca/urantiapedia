@@ -27,7 +27,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Table des matières
 
-- [Chapitre 1 - Objectif et paramètres](/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/1)
+- [Chapitre 1 - Objectif et paramètres](/fr/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/1)
 - [Chapitre 2. Établir la norme](/fr/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/2)
 - [Chapitre 3. Terminologie](/fr/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/3)
 - [Chapitre 4. Droits de l'homme](/fr/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/4)
