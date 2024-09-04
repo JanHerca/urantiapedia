@@ -30,6 +30,7 @@ Pour en savoir plus sur la manière dont l'Encyclopédie est organisée dans le 
 <figure id="Sample_fig_1" class="image urantiapedia">
 <img src="/image/sample_page_topic.png">
 <figcaption><em>Exemple d'affichage d'un terme de l'Encyclopédie.</em></figcaption>
+</figure>
 
 ## Références
 

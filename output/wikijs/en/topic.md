@@ -29,7 +29,7 @@ To learn more about how the Encyclopedia is being organized in the project, cons
 
 <figure id="Sample_fig_1" class="image urantiapedia">
 <img src="/image/sample_page_topic.png">
-<figcaption><em>Example of display of an Encyclopedia term.</em></figcaption>
+<figcaption><em>Example of display of an Encyclopedia topic.</em></figcaption>
 </figure>
 
 ## References
