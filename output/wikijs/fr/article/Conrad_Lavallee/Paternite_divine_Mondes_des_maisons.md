@@ -88,7 +88,7 @@ Personne ne connaît l'emplacement de nos personnalités entre le moment de notr
 
 ## La nature insondable du circuit de personnalité de notre Père Universel
 
-— <a id="a90_2"></a>[LU 12:3.2](/fr/The_Urantia_Book/12#p3_2), également <a id="a90_55"></a>[LU 115:5.15](/fr/The_Urantia_Book/115#p5_15).
+— <a id="a90_2"></a>[LU 12:3.2](/fr/The_Urantia_Book/12#p3_2), également <a id="a90_55"></a>[LU 115:5.1](/fr/The_Urantia_Book/115#p5_1).
 
 Une personnalité absolue, et absolument parfaite !
 
@@ -377,7 +377,7 @@ _Acuité sensorielle de loin supérieure_ <a id="a375_40"></a>[LU 46:5.10](/fr/T
 
 Nos sens sont considérablement plus affinés et développés que dans nos sens humains terrestres.
 
-_Un équipement psychique de loin supérieur_ <a id="a379_44"></a>[LU 103:6.7](/fr/The_Urantia_Book/103#p6_7), <a id="a379_89"></a>[LU 101:3.13](/fr/The_Urantia_Book/101#p3_13), <a id="a379_136"></a>[LU 46:6.28](/fr/The_Urantia_Book/46#p6_28).
+_Un équipement psychique de loin supérieur_ <a id="a379_44"></a>[LU 103:6.7](/fr/The_Urantia_Book/103#p6_7), <a id="a379_89"></a>[LU 101:3.13](/fr/The_Urantia_Book/101#p3_13), <a id="a379_136"></a>[LU 46:6.2](/fr/The_Urantia_Book/46#p6_2).
 
 Nous serons dotés d'une pensée morontielle, donc d'un type de cerveau considérablement plus avancé que notre cerveau matériel.
 

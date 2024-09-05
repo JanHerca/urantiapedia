@@ -121,7 +121,7 @@ Ces quatre segments des cercles psychiques concernent toujours la progression me
 
 ## Niveaux Cosmiques des Cercles Psychiques
 
-_Le Messager Solitaire_ mentionne également: « Peut-être vaudrait-il mieux que ces cercles psychiques de progression des mortels soient dénommés _niveaux cosmiques_ » <a id="a123_167"></a>[[LU 110:6.161](/fr/The_Urantia_Book/110#p6_161)] Les cercles psychiques s'adressent directement à la personnalité et sont des niveaux de progression individuelle impliquant son évolution cosmique à l'intérieur des cercles en concordant trois aspects différents: l'accord avec son Ajusteur de Pensée, l'évolution de son âme morontielle et la réalité de sa personnalité.
+_Le Messager Solitaire_ mentionne également: « Peut-être vaudrait-il mieux que ces cercles psychiques de progression des mortels soient dénommés _niveaux cosmiques_ » <a id="a123_167"></a>[[LU 110:6.16](/fr/The_Urantia_Book/110#p6_16)] Les cercles psychiques s'adressent directement à la personnalité et sont des niveaux de progression individuelle impliquant son évolution cosmique à l'intérieur des cercles en concordant trois aspects différents: l'accord avec son Ajusteur de Pensée, l'évolution de son âme morontielle et la réalité de sa personnalité.
 
 1. **Accord avec l’Ajusteur**. «En se spiritualisant, le mental s'approche de la présence de l'Ajusteur proportionnellement au franchissement des cercles. » <a id="a125_157"></a>[[LU 110:6.8](/fr/The_Urantia_Book/110#p6_8)]
 2. **Évolution de l'âme**. «L'émergence de l'âme morontielle indique l'étendue et la profondeur de la maîtrise des cercles. » <a id="a126_126"></a>[[LU 110:6.9](/fr/The_Urantia_Book/110#p6_9)]

@@ -61,7 +61,7 @@ Le service fait partie de notre évolution spirituelle ; servir c'est vouloir fa
 
 Un jour nous serons tous réunis quelque part sur un des mondes des maisons ou sur Jérusem et nous contemplerons ensemble notre vie antérieure sur Urantia, et nos aides célestes nous ferons constater les nombreuses expériences de croissance que nous avons vécu qui nous ont fait grandir et celles que nous avons laissé passer. Fournissons un effort sincère pour accumuler le plus d'expériences de croissance possible avant de quitter ce monde, laissons un peu plus que ce que nous avons reçu, participons à la seconde lieue, c'est ce que Jésus nous demande.
 
-> « _Pour gagner des âmes au Maitre, ce n'est pas la première lieue parcourue par obligation, devoir ou convention qui transformera l'homme et son monde, mais plutôt la seconde lieue de service libre et de dévotion aimant la liberté ; elle dénote que le jésusonien a tendu la main à la manière de Jésus pour saisir son frère avec amour et l'amener, sous gouverne spirituelle, vers le but supérieur et divin de l'existence de mortel._ » <a id="a63_436"></a>[LU 95:10.5](/fr/The_Urantia_Book/95#p10_5)
+> « _Pour gagner des âmes au Maitre, ce n'est pas la première lieue parcourue par obligation, devoir ou convention qui transformera l'homme et son monde, mais plutôt la seconde lieue de service libre et de dévotion aimant la liberté ; elle dénote que le jésusonien a tendu la main à la manière de Jésus pour saisir son frère avec amour et l'amener, sous gouverne spirituelle, vers le but supérieur et divin de l'existence de mortel._ » <a id="a63_436"></a>[LU 195:10.5](/fr/The_Urantia_Book/195#p10_5)
 
 Aimer c'est servir
 
