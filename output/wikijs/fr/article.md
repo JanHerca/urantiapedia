@@ -1,5 +1,5 @@
 ---
-title: "La Bibliothèque de Journaux Urantiapedia"
+title: "La Hémérothèque Urantiapedia"
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
-Chez Urantiapedia, nous créons une bibliothèque de journaux, une grande archive d'articles créés par des lecteurs qui couvrent tous les sujets d'intérêt qui apparaissent dans _Le Livre d'Urantia_. Actuellement, la liste des articles prévus approche les 5 000.
+Chez Urantiapedia, nous créons une hémérothèque, une grande archive d'articles créés par des lecteurs qui couvrent tous les sujets d'intérêt qui apparaissent dans _Le Livre d'Urantia_. Actuellement, la liste des articles prévus approche les 5 000.
 
 Nous n'ajoutons pas les articles au format PDF ou Word, ni sous forme de liens vers d'autres sites. Lorsqu'un article est ajouté, il devient sa propre page Web dans Urantiapedia et est catalogué par auteur et par sujet. La conversion corrige les références au _Le Livre d'Urantia_ et à d'autres livres pour tenter d'établir un lien direct avec le reste de l'Urantiapedia, comme expliqué dans [Système de référence global unique pour le Livre d'Urantia](/fr/help/links#système-de-référence-mondial-unique-pour-le-livre-durantia). De cette façon, les articles sont beaucoup plus utiles car ils permettent la navigation entre eux et le reste du contenu, en particulier _Le Livre d'Urantia_, ils permettent des recherches à l'intérieur de ceux-ci et sont davantage intégrés au reste du site Web.
 
