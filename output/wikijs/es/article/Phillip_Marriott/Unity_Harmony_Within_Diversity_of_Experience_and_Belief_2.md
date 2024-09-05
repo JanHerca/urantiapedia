@@ -103,7 +103,7 @@ Entonces podremos permitir que existan opiniones y creencias diferentes, dentro 
 
 El libro lo resume mejor con estos artículos finales:
 
-> Pentecostés fue el llamamiento a la unidad espiritual entre los creyentes en el evangelio. Cuando el espíritu descendió sobre los discípulos en Jerusalén, lo mismo sucedió en Filadelfia, en Alejandría y en todos los demás lugares donde vivían los creyentes sinceros. Fue literalmente cierto que «había un solo corazón y una sola alma entre la multitud de creyentes». La religión de Jesús es la influencia unificadora más poderosa que el mundo ha conocido jamás. (<a id="a105_469"></a>[LU 194:3.17](/es/The_Urantia_Book/194#p3_17))
+> Pentecostés fue el llamamiento a la unidad espiritual entre los creyentes en el evangelio. Cuando el espíritu descendió sobre los discípulos en Jerusalén, lo mismo sucedió en Filadelfia, en Alejandría y en todos los demás lugares donde vivían los creyentes sinceros. Fue literalmente cierto que «había un solo corazón y una sola alma entre la multitud de creyentes». La religión de Jesús es la influencia unificadora más poderosa que el mundo ha conocido jamás. (<a id="a105_465"></a>[LU 194:3.17](/es/The_Urantia_Book/194#p3_17))
 
 > El cristianismo se enfrenta seriamente con la sentencia incluida en uno de sus propios lemas: «Una casa dividida contra sí misma no puede subsistir». El mundo no cristiano difícilmente capitulará ante una cristiandad dividida en sectas. El Jesús vivo es la única esperanza de una posible unificación del cristianismo. (<a id="a107_321"></a>[LU 195:10.11](/es/The_Urantia_Book/195#p10_11))
 

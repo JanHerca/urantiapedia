@@ -196,19 +196,19 @@ Por ahora, al menos los avances en la tecnología de sonar nos permiten ver una 
 
 [^2]: La investigación de los últimos años, que rastrea una actualización específica en la historia genética de los seres humanos, también brinda un poderoso apoyo la narración de la historia de Adán y Eva en *El Libro de Urantia*. Véase el informe [Adán y Eva](/es/article/Halbert_Katzen/Adam_and_Eve)
 
-[^3]: <a id="a166_6"></a>[LU 74:0.1](/es/The_Urantia_Book/74#p0_1)
+[^3]: <a id="a198_6"></a>[LU 74:0.1](/es/The_Urantia_Book/74#p0_1)
 
-[^4]: <a id="a168_6"></a>[LU 73:3.1](/es/The_Urantia_Book/73#p3_1)
+[^4]: <a id="a200_6"></a>[LU 73:3.1](/es/The_Urantia_Book/73#p3_1)
 
-[^5]: <a id="a170_6"></a>[LU 73:7.1](/es/The_Urantia_Book/73#p7_1)
+[^5]: <a id="a202_6"></a>[LU 73:7.1](/es/The_Urantia_Book/73#p7_1)
 
 [^6]: [LU 73-78](/es/The_Urantia_Book/73)
 
 [^7]: El *Atlas Ilustrado del Mundo de Life* (*Life Pictorial Atlas of the World*), Revista *Life* y Randy McNally, 1961. Se han convertido las millas cuadradas a km^2^.
 
-[^8]: <a id="a176_6"></a>[LU 73:3.1-4](/es/The_Urantia_Book/73#p3_1)
+[^8]: <a id="a208_6"></a>[LU 73:3.1-4](/es/The_Urantia_Book/73#p3_1)
 
-[^9]: <a id="a178_6"></a>[LU 73:5.1](/es/The_Urantia_Book/73#p5_1)
+[^9]: <a id="a210_6"></a>[LU 73:5.1](/es/The_Urantia_Book/73#p5_1)
 
 [^10]: La investigación de Robert Sarmast, publicada en *Discovery of Atlantis* (*First Source Publications*, 2006), lo llevó a concluir que existe un vínculo entre la mitología de la Atlántida y los relatos religiosos relacionados con Adán y Eva. Él cree que la historia de la Atlántida se desarrolló porque una nueva tribu de personas llegó a ocupar la península edénica desarrollada arquitectónicamente después de que Adán, Eva y su progenie abandonaran este área. Cuando la península se hundió, unos 4.000 años después de que Adán y Eva se fueran, se había disociado con la civilización que habían comenzado. Según la investigación de Sarmast, la conexión entre el Jardín del Edén y la Atlántida es que tenían la misma ubicación geográfica, pero se asociaron con dos culturas diferentes. Sarmast intentó encontrar vestigios de civilización humana en este lugar entre Chipre y Siria. Se puede aprender más sobre su trabajo visitando https://web.archive.org/web/20180417053508/http://discoveryofatlantis.com/ (el enlace original está roto). Muchas gracias a él por permitir que el proyecto UBtheNEWS use las imágenes que se crearon en relación con su trabajo.
 

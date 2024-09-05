@@ -88,7 +88,7 @@ Por las tardes habrá dos salidas de campo para los niños grandes y adolescente
 
 Si ya están inscritos en la conferencia, asegúrense de decirnos que traen a sus hijos. Envíennos un correo a [uausconference2024@gmail.com](mailto:uausconference2024@gmail.com) si tienen preguntas. 
 
-> _La mente es vuestro buque, el Ajustador es vuestro piloto, la voluntad humana es el capitán. El dueño del navío mortal debería tener la sabiduría de confiar en el piloto divino para guiar al alma ascendente hasta los puertos de la supervivencia eterna de la morontia._ [LU 111:1.9](/es/The_Urantia_Book/111#p1_9)
+> _La mente es vuestro buque, el Ajustador es vuestro piloto, la voluntad humana es el capitán. El dueño del navío mortal debería tener la sabiduría de confiar en el piloto divino para guiar al alma ascendente hasta los puertos de la supervivencia eterna de la morontia._ <a id="a90_272"></a>[LU 111:1.9](/es/The_Urantia_Book/111#p1_9)
 
 **¡Vengan y zarpen con nosotros!** 
 

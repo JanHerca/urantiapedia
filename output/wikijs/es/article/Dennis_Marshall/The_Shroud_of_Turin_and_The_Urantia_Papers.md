@@ -89,7 +89,7 @@ Los lectores de _El Libro de Urantia_ encontrarán en el libro doce menciones de
 
 ### El entierro de Jesús
 
-> Transportaron el cuerpo hasta el sepulcro, una cámara cuadrada de unos tres metros de lado, donde lo prepararon rápidamente para sepultarlo. En realidad, los judíos no enterraban a sus muertos; los embalsamaban. José y Nicodemo habían traído **grandes cantidades de mirra y áloes**, y entonces envolvieron el cuerpo con unos vendajes empapados en estas soluciones. Cuando terminaron de embalsamarlo, ataron un paño alrededor de la cara, **envolvieron el cuerpo en una sábana de lino** y lo depositaron respetuosamente en una plataforma del sepulcro. (énfasis mío) <a id="a91_569"></a>[[LU 188:1.4](/es/The_Urantia_Book/188#p1_4)]
+> Transportaron el cuerpo hasta el sepulcro, una cámara cuadrada de unos tres metros de lado, donde lo prepararon rápidamente para sepultarlo. En realidad, los judíos no enterraban a sus muertos; los embalsamaban. José y Nicodemo habían traído **grandes cantidades de mirra y áloes**, y entonces envolvieron el cuerpo con unos vendajes empapados en estas soluciones. Cuando terminaron de embalsamarlo, ataron un paño alrededor de la cara, **envolvieron el cuerpo en una sábana de lino** y lo depositaron respetuosamente en una plataforma del sepulcro. (énfasis mío) <a id="a91_566"></a>[[LU 188:1.4](/es/The_Urantia_Book/188#p1_4)]
 
 ### El Cuerpo Material de Jesús
 

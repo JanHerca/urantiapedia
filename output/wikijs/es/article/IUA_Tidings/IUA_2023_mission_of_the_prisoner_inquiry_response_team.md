@@ -52,11 +52,11 @@ Es evidente que las verdades transformadoras reveladas en _El libro de Urantia_ 
 
 Por favor, consideren unirse a nosotros en el esfuerzo de atender a los más humildes de nuestros hermanos de Urantia. El equipo del PIRT necesita más voluntarios y estará encantado de saber de ustedes y responder a cualquier pregunta que puedan tener. Pueden contactar con el PIRT por correo en prt@urantia-association.org 
 
-> _Y recordad que en la medida en que sirváis al más humilde de mis hermanos me habréis servido a mí._ [LU 176:3.5](/es/The_Urantia_Book/176#p3_5)
+> _Y recordad que en la medida en que sirváis al más humilde de mis hermanos me habréis servido a mí._ <a id="a54_103"></a>[LU 176:3.5](/es/The_Urantia_Book/176#p3_5)
 
-> _Y este reino incluirá a las almas adoradoras de judíos y gentiles, de ricos y pobres, de libres y esclavos, pues mi Padre no hace acepción de personas; su amor y su misericordia están sobre todos._ [LU 137:8.6](/es/The_Urantia_Book/137#p8_6)
+> _Y este reino incluirá a las almas adoradoras de judíos y gentiles, de ricos y pobres, de libres y esclavos, pues mi Padre no hace acepción de personas; su amor y su misericordia están sobre todos._ <a id="a56_201"></a>[LU 137:8.6](/es/The_Urantia_Book/137#p8_6)
 
-> _Como Jesús tenía a los hombres en tan alta estima, estaba dispuesto a entregarse incansablemente al servicio a la humanidad._  [LU 196:2.10](/es/The_Urantia_Book/196#p2_10)
+> _Como Jesús tenía a los hombres en tan alta estima, estaba dispuesto a entregarse incansablemente al servicio a la humanidad._  <a id="a58_130"></a>[LU 196:2.10](/es/The_Urantia_Book/196#p2_10)
 
 ## Referencias
 

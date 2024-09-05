@@ -46,7 +46,7 @@ Un magnífico centro confortable con piscina cubierta, 232 habitaciones, 55 sala
 
 El nombre _Maritime_ (marítimo), que hace referencia a todo lo náutico, ha inspirado a más de un lector en la siguiente cita de _El libro de Urantia_:
 
-> La mente es vuestro buque, el Ajustador es vuestro piloto, la voluntad humana es el capitán. El dueño del navío mortal debería tener la sabiduría de confiar en el piloto divino para guiar al alma ascendente hasta los puertos de la supervivencia eterna de la morontia. [LU 111:1.9](/es/The_Urantia_Book/111#p1_9)
+> La mente es vuestro buque, el Ajustador es vuestro piloto, la voluntad humana es el capitán. El dueño del navío mortal debería tener la sabiduría de confiar en el piloto divino para guiar al alma ascendente hasta los puertos de la supervivencia eterna de la morontia. <a id="a48_270"></a>[LU 111:1.9](/es/The_Urantia_Book/111#p1_9)
 
 Los dos días estuvieron ocupados por un programa muy bien orquestado. Me gustó el formato que se adoptó. En el auditorio se realizaban cuatro presentaciones al día con una duración máxima de 20 minutos, por lo que no había tiempo para conciliar el sueño. Aunque hubo algunos problemas técnicos, se proporcionó un enlace para la traducción simultánea al francés, inglés, español y portugués.
 

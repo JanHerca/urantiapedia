@@ -47,7 +47,7 @@ _Nota de la redacción: el quinto retiro anual de mujeres, que se celebró del 1
 
 El segundo piso del 533 fue bendecido con oraciones, risas y lágrimas de las participantes del retiro _Bailar con Dios_, facilitado por Carrie Prentice, Doreen Heyne, Katharina Becker y Line St-Pierre, el equipo de las «Hijas de Dios».
 
-Como _El libro de Urantia_ nos recuerda, «El hombre no se une con el Supremo y sumerge su identidad personal, pero las repercusiones universales de la experiencia de todos los hombres forman una parte de la experimentación divina del Supremo. «El acto es nuestro, pero sus consecuencias pertenecen a Dios»» <a id="a48_307"></a>[LU 117:5.5](/es/The_Urantia_Book/117#p5_5)
+Como _El libro de Urantia_ nos recuerda, «El hombre no se une con el Supremo y sumerge su identidad personal, pero las repercusiones universales de la experiencia de todos los hombres forman una parte de la experimentación divina del Supremo. «El acto es nuestro, pero sus consecuencias pertenecen a Dios»» <a id="a49_307"></a>[LU 117:5.5](/es/The_Urantia_Book/117#p5_5)
 
 Entre el grupo de 14 mujeres tuvimos el inmenso placer de recibir a una invitada que vino de Sudáfrica para comprobar textualmente «si la Fundación Urantia era real». Qué contenta estuvo de descubrir no solo que la Fundación era real, sino que muchos estudiantes de esta revelación vivían con valentía el amor de Dios en el mundo incluso en medio de retos y crisis vitales, que eran el tema secundario del retiro.
 

@@ -16,7 +16,7 @@ Cerca del emplazamiento de las ruinas actuales existe un poblado llamado Mukawer
 
 Esta fortaleza fue uno de los enclaves defensivos más estratégicos del estado judío en la zona de Perea en el límite con el reino nabateo. El lugar fue erigido por el asmoneo Alejandro Janeo en el 90 a.C. (BJ VII 6:2). En el 57 a.C. fue destruido una primera vez por el gobernador de Siria, Gabinio, quien fue enviado por Pompeyo para sofocar una revuelta del asmoneo Aristóbulo II. La construcción fue arrasada hasta el nivel del suelo.
 
-El palacio fue reconstruido por Herodes el Grande a partir del 30 a.C. (BJ VII 6:2-3). Después de la muerte de Herodes, su hijo Antipas lo heredó como parte de la región de Perea. En la fortaleza fue donde Juan Bautista fue encarcelado y fue matado (AJ XVIII 5:1-2,18:109-119; [Mt 14:1-12](/es/Bible/Matthew/14#v1); [Mc 6:14-29](/es/Bible/Mark/6#v14); [Lc 9:7-9](/es/Bible/Luke/9#v7); [LU 135:12.1](/es/The_Urantia_Book/135#p12_1)). Tras la muerte del rey Agripa I (44 d.C.), la fortaleza cayó bajo la directa administración de la prefectura romana.
+El palacio fue reconstruido por Herodes el Grande a partir del 30 a.C. (BJ VII 6:2-3). Después de la muerte de Herodes, su hijo Antipas lo heredó como parte de la región de Perea. En la fortaleza fue donde Juan Bautista fue encarcelado y fue matado (AJ XVIII 5:1-2,18:109-119; [Mt 14:1-12](/es/Bible/Matthew/14#v1); [Mc 6:14-29](/es/Bible/Mark/6#v14); [Lc 9:7-9](/es/Bible/Luke/9#v7); <a id="a18_385"></a>[LU 135:12.1](/es/The_Urantia_Book/135#p12_1)). Tras la muerte del rey Agripa I (44 d.C.), la fortaleza cayó bajo la directa administración de la prefectura romana.
 
 Cuando se desencadenó la revuelta judía (66 d.C.) los romanos abandonaron el fuerte en manos de los rebeldes (BJ II 18:6), quienes permanecieron allí hasta el 72 d.C., en que Maqueronte fue destruida por los romanos después de un largo asedio. La primera parte del asedio fue dirigido por el general Cereale, y después el mando pasó a Lucilio Basso. Cuando las legiones terminaron el muro (_vallus_) y la rampa de ataque (_agger_), algunos celotes traicionaron a sus compañeros y entregaron la fortaleza a los romanos (BJ VII 6).
 
@@ -25,7 +25,7 @@ Las fuentes bibliográficas bizantinas posteriores tan sólo mencionan un peque�
 La colina aislada sobre la cual se asienta la fortaleza se sitúa a 700 m sobre el nivel del mar y está localizada al final de un espigón entre el _wadi_ Zerqa Ma'in al norte y el _wadi_ Heidan-Mujib (el río Arnón) al sur. La montaña, aislada por profundas cárcavas, forma dos collados en el sudeste y noroeste. Se puede acceder desde el mar Muerto en el oeste o desde la región de Madaba en el este.
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Ja_Herca/Machaerus/maqueronte.jpg">
+<img src="/image/article/Jan_Herca/Machaerus/maqueronte.jpg">
 <figcaption>Fig. 1. — Maqueronte</figcaption>
 </figure>
 

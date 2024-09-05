@@ -71,7 +71,7 @@ Parece que no, porque al describir a esos seconofines secundarios llamados Disce
 
 Un poco más adelante concluye:
 
-> «_Esto mismo sucede con el hombre mortal: el Espíritu Madre de Salvington os conoce plenamente, porque el Espíritu Santo que está en vuestro mundo «sondea todas las cosas», y todo lo que el Espíritu divino sabe sobre vosotros está inmediatamente disponible cada vez que los discernidores secoráficos reflejan con el Espíritu aquello que el Espíritu conoce de vosotros._» (<a id="a73_377"></a>[LU 28:5.22](/es/The_Urantia_Book/28#p5_22))
+> «_Esto mismo sucede con el hombre mortal: el Espíritu Madre de Salvington os conoce plenamente, porque el Espíritu Santo que está en vuestro mundo «sondea todas las cosas», y todo lo que el Espíritu divino sabe sobre vosotros está inmediatamente disponible cada vez que los discernidores secoráficos reflejan con el Espíritu aquello que el Espíritu conoce de vosotros._» (<a id="a73_374"></a>[LU 28:5.22](/es/The_Urantia_Book/28#p5_22))
 
 En otras palabras, nada, absolutamente nada, puede ocultarse.
 

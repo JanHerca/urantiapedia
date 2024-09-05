@@ -93,7 +93,7 @@ El grado en que la ciencia actual corrobora la existencia de actividad iónica e
 
 La cuestión de las fuentes humanas en la creación de _El Libro de Urantia_ surge porque _El Libro de Urantia_ afirma haber sido escrito por ángeles. _El Libro de Urantia_ explica la sabiduría que guía los permisos y limitaciones impuestos a los autores angélicos con respecto a la presentación de la información. Las siguientes citas son pertinentes a este aspecto de El libro de Urantia:
 
-> Se nos ha ordenado introducir nuevos términos sólo cuando el concepto que se pretende representar no encuentra terminología en inglés que pueda emplearse para transmitir dicho nuevo concepto parcialmente o incluso con más o menos distorsión del significado. ([Urantia Book: Forward, paragraph 2](/es/The_Urantia_Book/0#p2))
+> Se nos ha ordenado introducir nuevos términos sólo cuando el concepto que se pretende representar no encuentra terminología en inglés que pueda emplearse para transmitir dicho nuevo concepto parcialmente o incluso con más o menos distorsión del significado. (<a id="a95_261"></a>[Urantia Book: Forward, paragraph 2](/es/The_Urantia_Book/0#p2))
 > 
 > Puesto que vuestro mundo ignora generalmente el origen de las cosas, incluso de las cosas físicas, ha parecido sabio proporcionarle de vez en cuando conocimientos de cosmología. Esto siempre ha causado problemas para el futuro. Las leyes de la revelación nos obstaculizan enormemente porque prohíben comunicar conocimientos inmerecidos o prematuros. Toda cosmología presentada como parte de una religión revelada está destinada a quedarse atrás en muy poco tiempo. Por consiguiente, los estudiosos futuros de esa revelación se sienten tentados a desechar cualquier elemento de verdad religiosa auténtica que pueda contener, porque descubren errores a primera vista en las cosmologías asociadas que se presentan en ella.
 > 
@@ -105,7 +105,7 @@ La cuestión de las fuentes humanas en la creación de _El Libro de Urantia_ sur
 > 2. La coordinación de los hechos y de las observaciones conocidos o a punto de ser conocidos.
 > 3. El restablecimiento de importantes fragmentos de conocimientos perdidos relacionados con acontecimientos históricos del pasado lejano.
 > 4. El suministro de una información que colma las lagunas vitales existentes en los conocimientos adquiridos de otras maneras.
-> 5. La presentación de unos datos cósmicos de tal forma que ilumine las enseñanzas espirituales contenidas en la revelación que las acompaña. ([Urantia Book 101:4](/es/The_Urantia_Book/101#p4))[^1]
+> 5. La presentación de unos datos cósmicos de tal forma que ilumine las enseñanzas espirituales contenidas en la revelación que las acompaña. (<a id="a107_144"></a>[Urantia Book 101:4](/es/The_Urantia_Book/101#p4))[^1]
 
 Las declaraciones citadas anteriormente inspiraron a Matthew Block a buscar material de fuentes científicas que existían antes de la publicación de _El Libro de Urantia_ que habrían dado forma a los límites de qué información podría impartirse de manera permisible, dada la afirmación de la autoría angelical. Su creencia subyacente es que, si tales proscripciones deben tomarse en serio, entonces una persona debería poder descubrir los escritos que existían durante el período de tiempo en el que se creó _El Libro de Urantia_ que formaron los parámetros de tales limitaciones reveladoras. O, si _El Libro de Urantia_ no es lo que afirma ser en cuanto a su autoría, incluso así, tales fuentes humanas de las comprensiones entonces actuales de las cuestiones científicas deberían ser descubribles. Mantiene un sitio web donde publica su investigación sobre este tema. [^2]
 
@@ -113,7 +113,7 @@ Con respecto a la sección de _El Libro de Urantia_ que afirma la existencia de 
 
 El artículo de Stetson afirma: «Si observamos una sección transversal de la atmósfera terrestre, se puede dividir por conveniencia en tres zonas o capas en las que la estratosfera ocupa el punto medio. La región debajo de la estratosfera es la que está en contacto con nuestro entorno inmediato y proporciona los vientos y las corrientes atmosféricas, dando lugar a todo nuestro clima. Llamamos a esta región inferior que comprende quizás las primeras 5 o 6 millas la troposfera. La región por encima de la estratosfera es la ionosfera».
 
-_El Libro de Urantia_ dice: «Los ocho o diez primeros kilómetros de la atmósfera terrestre constituyen la troposfera.» ([LU 58:2.6](/es/The_Urantia_Book/58#p2_6))
+_El Libro de Urantia_ dice: «Los ocho o diez primeros kilómetros de la atmósfera terrestre constituyen la troposfera.» (<a id="a115_120"></a>[LU 58:2.6](/es/The_Urantia_Book/58#p2_6))
 
 Debido a que la sección de _El Libro de Urantia_ sobre la atmósfera es tan similar al artículo de Stetson, generalmente se acepta como material de referencia para establecer los parámetros de la discusión de _El Libro de Urantia_ sobre este tema. Naturalmente, para aquellos que aceptan la afirmación de _El Libro de Urantia_ sobre la autoría angelical, este material de referencia generalmente se conoce como material de «fuente humana». Debido a la diferencia entre el artículo de Stetson y _El Libro de Urantia_ sobre la ionosfera interior, ha habido un espectro de opiniones sobre esta diferencia en función del sistema de creencias de cada persona. Para aquellos que no creen que _El Libro de Urantia_ es lo que pretende ser, esto se ha utilizado como evidencia no solo de la autoría humana, sino también de la falibilidad humana. Para aquellos que creen que _El Libro de Urantia_ es lo que pretende ser, hasta hace poco, esta cuestión ha dado lugar a varios tipos de respuestas «apologéticas» y defensivas, que van desde «El libro de Urantia no pretende ser un documento perfecto» hasta «tal vez algún día se descubra que es exacto».
 
@@ -165,7 +165,7 @@ Este gran chorro azul, que se elevó desde lo alto de una tormenta, alcanzó una
 - [Este informe en UBTheNews](https://ubannotated.com/ubthenews/topics/ionosphere/)
 - [Otros informes en la página web de UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
 - [Estudios temáticos en la página web de UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
-- [Urantia Book 58:2](/es/The_Urantia_Book/58#p2)
+- <a id="a167_2"></a>[Urantia Book 58:2](/es/The_Urantia_Book/58#p2)
 - http://physicsweb.org/articles/news/6/3/9
 - http://news.nationalgeographic.com/news/2003/06/0625_030625_atmospherethunder.html
 - http://adsabs.harvard.edu/abs/2000PhDT29H

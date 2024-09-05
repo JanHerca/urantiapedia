@@ -12,7 +12,7 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 El nombre de Queresa resulta muy confuso. Esta población aparece en diferentes fuentes bajo nombres muy diversos: en ocasiones aparece traducido como Jeresa, Gergesa, pero desde tiempos más recientes como Kursi o Chorsia. Estos últimos recuerdan más a la transcripción en inglés de Queresa, que es _Kheresa_.
 
-Sea como fuere el origen de este emplazamiento hay que buscarlo en [Mt 8:28-34](/es/Bible/Matthew/8#v28) ([LU 151:6.1](/es/The_Urantia_Book/151#p6_1)). Aquí nos dice el evangelista: «Al llegar a la otra orilla, a la región de los gadarenos, salieron a su encuentro de entre los sepulcros dos endemoniados». Luego relata el conocido milagro de Jesús en el que expulsa a una legión de demonios y los introduce en una piara de cerdos, que se precipitan al lago.
+Sea como fuere el origen de este emplazamiento hay que buscarlo en [Mt 8:28-34](/es/Bible/Matthew/8#v28) (<a id="a14_106"></a>[LU 151:6.1](/es/The_Urantia_Book/151#p6_1)). Aquí nos dice el evangelista: «Al llegar a la otra orilla, a la región de los gadarenos, salieron a su encuentro de entre los sepulcros dos endemoniados». Luego relata el conocido milagro de Jesús en el que expulsa a una legión de demonios y los introduce en una piara de cerdos, que se precipitan al lago.
 
 Sin embargo, en los relatos paralelos de [Mc 1:5-20](/es/Bible/Mark/1#v5) y [Lc 8:26-39](/es/Bible/Luke/8#v26) se dice «_gerasenos_» en lugar de «_gadarenos_», abriendo la posibilidad de lugares a tres: Gadara, actual Hammat Gader, una población alejada unos pocos kilómetros al sureste del lago, sobre una elevación; Gerasa, la Jerash actual, situada en el interior de Jordania; y por último Kursi, un emplazamiento situado seis kilómetros al norte del kibbutz En Gev, en la orilla oriental del mar de Galilea.
 
@@ -55,9 +55,9 @@ Un aspecto algo extraño del relato evangélico es la precisión con la que se c
 
 _El Libro de Urantia_ incide todavía más en la idea de que hubo un precipicio que caía sobre las aguas:
 
-> Aunque la mayor parte de la cercana ribera oriental del lago subía en pendiente suave hasta las tierras altas que estaban detrás, en este lugar concreto había una ladera empinada donde, en algunos puntos, la costa descendía de golpe hasta el lago. [LU 151:6.1](/es/The_Urantia_Book/151#p6_1)
+> Aunque la mayor parte de la cercana ribera oriental del lago subía en pendiente suave hasta las tierras altas que estaban detrás, en este lugar concreto había una ladera empinada donde, en algunos puntos, la costa descendía de golpe hasta el lago. <a id="a57_250"></a>[LU 151:6.1](/es/The_Urantia_Book/151#p6_1)
 
-> Mientras los porqueros se precipitaban hacia el pueblo para divulgar la noticia de que el lunático había sido domado, los perros cargaron contra una pequeña piara de unos treinta cerdos que habían quedado abandonados, y empujaron a la mayoría por encima de un precipicio hasta el mar. [LU 151:6.6](/es/The_Urantia_Book/151#p6_6)
+> Mientras los porqueros se precipitaban hacia el pueblo para divulgar la noticia de que el lunático había sido domado, los perros cargaron contra una pequeña piara de unos treinta cerdos que habían quedado abandonados, y empujaron a la mayoría por encima de un precipicio hasta el mar. <a id="a59_287"></a>[LU 151:6.6](/es/The_Urantia_Book/151#p6_6)
 
 Todo parece indicar que sin duda alguna las olas del lago rompían en algún punto de la costa contra un cortado de desnivel casi vertical. Aunque resulta sorprendente si contemplamos la orografía actual. Además, de ser así, el borde oriental tan sólo podría ser flanqueado subiendo por un zigzagueante camino hasta la cumbre, para luego descender en el otro lado del precipicio. Si de verdad existió este barranco, debió de cortar cualquier posible calzada que uniera la costa oriental.
 

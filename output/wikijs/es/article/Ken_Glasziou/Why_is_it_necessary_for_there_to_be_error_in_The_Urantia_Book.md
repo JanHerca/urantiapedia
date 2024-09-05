@@ -56,7 +56,7 @@ La ciencia moderna dice que en ese momento, la velocidad a la que los meteoritos
 
 > «Hace 2.500.000.000 de años, el tamaño de los planetas había aumentado inmensamente. Urantia era una esfera bien desarrollada; tenía aproximadamente **una décima parte de su masa actual** y continuaba aumentando rápidamente por acreción meteórica.». <a id="a56_252"></a>[LU 57:6.10](/es/The_Urantia_Book/57#p6_10)
 
-Y en la parte superior de la página del _Libro de Urantia_ <a id="a58_57"></a>[LU 57:7.2](/es/The_Urantia_Book/57#p7_2) se afirma:
+Y en la parte superior de la página del _Libro de Urantia_ <a id="a58_59"></a>[LU 57:7.2](/es/The_Urantia_Book/57#p7_2) se afirma:
 
 > «Hace 2.000.000.000 de años, **la Tierra empezó a ganarle terreno decididamente a la Luna**. El planeta siempre había sido más grande que su satélite, pero **no había habido mucha diferencia de tamaño hasta esta época**, durante la cual la Tierra capturó enormes cuerpos espaciales. Urantia tenía entonces aproximadamente **una quinta parte de su tamaño actual**».
 
@@ -81,7 +81,7 @@ Por último, en <a id="a79_15"></a>[LU 57:8.1](/es/The_Urantia_Book/57#p8_1) ten
 
 > «Hace 1.000.000.000 de años comienza realmente la historia de Urantia. El planeta había alcanzado aproximadamente su tamaño actual».
 
-La declaración del _Libro de Urantia_ en <a id="a83_39"></a>[LU 57:5.4](/es/The_Urantia_Book/57#p5_4) de que nuestro sistema planetario evolucionó por primera vez hace 4.500.000.000 de años está notablemente cerca de la deducción a partir de datos radiométricos realizada en 1955 por C.C. Patterson utilizando los isótopos de plomo en materiales meteóricos condríticos que sitúan su edad en 4.500 millones de años. Posteriormente, Patterson también fijó la edad de nuestro planeta en 4.560 millones de años.
+La declaración del _Libro de Urantia_ en <a id="a83_41"></a>[LU 57:5.4](/es/The_Urantia_Book/57#p5_4) de que nuestro sistema planetario evolucionó por primera vez hace 4.500.000.000 de años está notablemente cerca de la deducción a partir de datos radiométricos realizada en 1955 por C.C. Patterson utilizando los isótopos de plomo en materiales meteóricos condríticos que sitúan su edad en 4.500 millones de años. Posteriormente, Patterson también fijó la edad de nuestro planeta en 4.560 millones de años.
 
 Se verificó que la figura de Patterson se acercaba a la realidad cuando se aplicaron las últimas técnicas radiométricas a los 382 kilogramos de rocas lunares compuestas por 2415 muestras individuales traídas por el programa Apolo a la luna desde 1969 en adelante. También estaban disponibles más muestras del programa lunar ruso. Se encontró que la roca lunar más antigua entre estas muestras tiene casi 4.600 millones de años, que es casi tan antigua como las rocas terrestres más antiguas. Estos estudios incluyeron el uso de proporciones de isótopos de oxígeno en rocas lunares y terrestres que demostraron que la Tierra y su luna tienen un ancestro común, es decir, están construidas a partir del mismo conjunto de materiales de origen.
 

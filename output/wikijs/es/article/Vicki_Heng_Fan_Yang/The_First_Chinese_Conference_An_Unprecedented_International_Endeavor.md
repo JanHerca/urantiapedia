@@ -150,7 +150,7 @@ Este es el mensaje de _El libro de Urantia_ para la próxima edad, los ideales q
 
 Quizá algún día visite Taipei de nuevo, con un ejemplar de la traducción al chino que fue posible gracias a los traductores infatigables e increíblemente entregados que han llevado a cabo esta inmensa y difícil tarea.
 
-> La estabilidad y la persistencia asombrosas de la cultura china son una consecuencia de la posición suprema en que sitúan a la familia, porque la civilización depende directamente del funcionamiento eficaz de la familia. La familia alcanzó en China una importancia social, e incluso un significado religioso, que muy pocos pueblos han sabido alcanzar. <a id="a150_354"></a>[LU 79:8.9](/es/The_Urantia_Book/79#p8_9)
+> La estabilidad y la persistencia asombrosas de la cultura china son una consecuencia de la posición suprema en que sitúan a la familia, porque la civilización depende directamente del funcionamiento eficaz de la familia. La familia alcanzó en China una importancia social, e incluso un significado religioso, que muy pocos pueblos han sabido alcanzar. <a id="a152_354"></a>[LU 79:8.9](/es/The_Urantia_Book/79#p8_9)
 
 ## Georges Michelson-Dupont
 

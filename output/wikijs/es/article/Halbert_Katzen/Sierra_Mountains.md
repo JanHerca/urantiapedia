@@ -63,9 +63,9 @@ Desde hace mucho tiempo existe una controversia sobre cuándo se formaron las mo
 
 _El Libro de Urantia_ afirma:
 
-> Hace *40.000.000* de años, las regiones terrestres del hemisferio norte empezaron a elevarse, lo que produjo nuevos y extensos sedimentos y otras actividades terrestres, incluyendo corrientes de lava, deformaciones, formaciones lacustres y erosiones. ([LU 61:1.11](/es/The_Urantia_Book/61#p1_11))
+> Hace *40.000.000* de años, las regiones terrestres del hemisferio norte empezaron a elevarse, lo que produjo nuevos y extensos sedimentos y otras actividades terrestres, incluyendo corrientes de lava, deformaciones, formaciones lacustres y erosiones. (<a id="a65_254"></a>[LU 61:1.11](/es/The_Urantia_Book/61#p1_11))
 
-> Hace *25.000.000* de años que se produjo una ligera inmersión terrestre después de una larga época de elevación continental. La región de las Montañas Rocosas permaneció muy elevada, de manera que los materiales de erosión continuaron depositándose en todas las tierras bajas del este. Las Sierras volvieron a levantarse mucho; de hecho, han continuado elevándose desde entonces. La gran falla vertical de seis kilómetros y medio de la región de California data de estos tiempos. ([LU 61:3.3](/es/The_Urantia_Book/61#p3_3))
+> Hace *25.000.000* de años que se produjo una ligera inmersión terrestre después de una larga época de elevación continental. La región de las Montañas Rocosas permaneció muy elevada, de manera que los materiales de erosión continuaron depositándose en todas las tierras bajas del este. Las Sierras volvieron a levantarse mucho; de hecho, han continuado elevándose desde entonces. La gran falla vertical de seis kilómetros y medio de la región de California data de estos tiempos. (<a id="a67_483"></a>[LU 61:3.3](/es/The_Urantia_Book/61#p3_3))
 
 La afirmación de _El Libro de Urantia_ de que estas montañas se originaron hace 40 millones de años y han estado elevándose durante los últimos 25 millones de años entra en conflicto con la teoría de las Nuevas Sierras. Obviamente, si han estado elevándose durante los últimos 25 millones de años, entonces la teoría de que han estado elevándose durante los últimos cinco millones de años no está completamente fuera de base; la evidencia que apoya que han estado elevándose durante los últimos cinco millones de años tiene un grado limitado de consistencia con lo que _El Libro de Urantia_ dice sobre ellas «elevándose desde» hace 25 millones de años. De hecho, incluso esta nueva técnica de investigación indica que las montañas se estaban elevando ligeramente hace cinco millones de años. Pero la teoría de que estas montañas se formaron fundamentalmente hace unos cinco millones de años está fundamentalmente en conflicto con El libro de Urantia. _El Libro de Urantia_ afirma, y el nuevo estudio publicado en 2006 apoya, la opinión de que esta cordillera existía y ha mantenido su estatura desde entonces, mucho antes de hace cinco millones de años.
 
@@ -215,9 +215,9 @@ Abordado desde esta perspectiva, el informe de 2006 preparado por Mulch, Graham 
 <img src="/image/article/Halbert_Katzen/Sierra_Mountains/timetable.jpg">
 </figure>
 
-> Hace 40.000.000 de años, las regiones terrestres del hemisferio norte empezaron a elevarse, lo que produjo nuevos y extensos sedimentos y otras actividades terrestres, incluyendo corrientes de lava, deformaciones, formaciones lacustres y erosiones. [LU 61:1.11](/es/The_Urantia_Book/61#p1_11)
+> Hace 40.000.000 de años, las regiones terrestres del hemisferio norte empezaron a elevarse, lo que produjo nuevos y extensos sedimentos y otras actividades terrestres, incluyendo corrientes de lava, deformaciones, formaciones lacustres y erosiones. <a id="a217_251"></a>[LU 61:1.11](/es/The_Urantia_Book/61#p1_11)
 
-> Hace *25.000.000* de años que se produjo una ligera inmersión terrestre después de una larga época de elevación continental. La región de las Montañas Rocosas permaneció muy elevada, de manera que los materiales de erosión continuaron depositándose en todas las tierras bajas del este. Las Sierras volvieron a levantarse mucho; de hecho, han continuado elevándose desde entonces. La gran falla vertical de seis kilómetros y medio de la región de California data de estos tiempos. ([LU 61:3.3](/es/The_Urantia_Book/61#p3_3))
+> Hace *25.000.000* de años que se produjo una ligera inmersión terrestre después de una larga época de elevación continental. La región de las Montañas Rocosas permaneció muy elevada, de manera que los materiales de erosión continuaron depositándose en todas las tierras bajas del este. Las Sierras volvieron a levantarse mucho; de hecho, han continuado elevándose desde entonces. La gran falla vertical de seis kilómetros y medio de la región de California data de estos tiempos. (<a id="a219_483"></a>[LU 61:3.3](/es/The_Urantia_Book/61#p3_3))
 
 - http://www.sciencemag.org/cgi/content/full/313/5783/87 artículo de investigación primaria Science 7 de julio de 2006: Vol. 313. núm. 5783, págs. 87 - 89 DOI: 10.1126/science.1125986
 - http://scicom.ucsc.edu/SciNotes/0701/sierra/index.html El enigma de Sierra Nevada, artículo muy citado para Sierra Report
@@ -260,17 +260,17 @@ Si los autores del _Libro de Urantia_ de 1955 no hubieran sabido más que la may
 
 ## Notas al pie
 
-[^1]: [LU 61:1.6](/es/The_Urantia_Book/61#p1_6) Este modo de citar _El libro de Urantia_ proporciona el capítulo (denominado «Documentos» en _El libro de Urantia_), luego la sección, seguida del número de párrafo.
+[^1]: <a id="a262_6"></a>[LU 61:1.6](/es/The_Urantia_Book/61#p1_6) Este modo de citar _El libro de Urantia_ proporciona el capítulo (denominado «Documentos» en _El libro de Urantia_), luego la sección, seguida del número de párrafo.
 
-[^2]: [LU 61:3.3](/es/The_Urantia_Book/61#p3_3)
+[^2]: <a id="a264_6"></a>[LU 61:3.3](/es/The_Urantia_Book/61#p3_3)
 
 [^3]: http://www.sciencemag.org/cgi/content/full/313/5783/87
 
 [^4]: http://scicom.ucsc.edu/SciNotes/0701/sierra/index.html
 
-[^5]: [LU 60:4.3](/es/The_Urantia_Book/60#p4_3)
+[^5]: <a id="a270_6"></a>[LU 60:4.3](/es/The_Urantia_Book/60#p4_3)
 
-[^6]: [LU 61:1.4](/es/The_Urantia_Book/61#p1_4)
+[^6]: <a id="a272_6"></a>[LU 61:1.4](/es/The_Urantia_Book/61#p1_4)
 
 [^7]: Science 7 de julio de 2006: Vol. 313. núm. 5783, págs. 87 - 89, http://www.sciencemag.org/cgi/content/full/313/5783/87
 
@@ -280,13 +280,13 @@ Si los autores del _Libro de Urantia_ de 1955 no hubieran sabido más que la may
 
 [^10]: «La lluvia antigua determina la edad de Sierra», Kathy A. Svitil, Discover Magazine, enero de 2007, pág. 53
 
-[^11]: [LU 60:3](/es/The_Urantia_Book/60#p3_par); [LU 60:4](/es/The_Urantia_Book/60#p4); [LU 59:5.20](/es/The_Urantia_Book/59#p5_20)
+[^11]: [LU 60:3](/es/The_Urantia_Book/60#p3_par); <a id="a282_50"></a>[LU 60:4](/es/The_Urantia_Book/60#p4); <a id="a282_89"></a>[LU 59:5.20](/es/The_Urantia_Book/59#p5_20)
 
 [^12]: http://www.ucmp.berkeley.edu/mesozoic/cretaceous/cretaceous.html
 
-[^13]: [LU 61:3.3](/es/The_Urantia_Book/61#p3_3)
+[^13]: <a id="a286_7"></a>[LU 61:3.3](/es/The_Urantia_Book/61#p3_3)
 
-[^14]: [LU 61:7.11](/es/The_Urantia_Book/61#p7_11)
+[^14]: <a id="a288_7"></a>[LU 61:7.11](/es/The_Urantia_Book/61#p7_11)
 
 
 

@@ -53,7 +53,7 @@ En _A Passion for the Possible: A Message for U.S. Churches_, William Sloane Cof
 
 >  Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista. Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual.... La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables. (<a id="a53_512"></a>[LU 195:9.2-4](/es/The_Urantia_Book/195#p9_2))
 
-> Algún día, una reforma en la iglesia cristiana podría causar un impacto lo suficientemente profundo como para regresar a las enseñanzas religiosas puras de Jesús, el autor y consumador de nuestra fe. Podéis *predicar* una religión *acerca de* Jesús, pero la religión *de* Jesús, forzosamente, tenéis que *vivirla*. (<a id="a55_322"></a>[LU 196:2.1](/es/The_Urantia_Book/196#p2_1))
+> Algún día, una reforma en la iglesia cristiana podría causar un impacto lo suficientemente profundo como para regresar a las enseñanzas religiosas puras de Jesús, el autor y consumador de nuestra fe. Podéis *predicar* una religión *acerca de* Jesús, pero la religión *de* Jesús, forzosamente, tenéis que *vivirla*. (<a id="a55_318"></a>[LU 196:2.1](/es/The_Urantia_Book/196#p2_1))
 
 Cualquier libro que contenga las ideas y verdades espirituales de _El Libro de Urantia_ merece una lectura y evaluación exhaustivas por parte de los hombres y mujeres pensantes de hoy. Que tengas el coraje de leer y estudiar este gran libro.
 

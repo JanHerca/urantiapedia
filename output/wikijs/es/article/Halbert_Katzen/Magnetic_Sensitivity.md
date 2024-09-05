@@ -59,7 +59,7 @@ Antes de abordar los avances científicos particulares que se han ido produciend
 
 > Las leyes de la revelación nos obstaculizan enormemente porque prohíben comunicar conocimientos inmerecidos o prematuros. ...
 > 
-> La humanidad debería comprender que nosotros, que participamos en la revelación de la verdad, estamos muy rigurosamente limitados por las instrucciones de nuestros superiores. No tenemos libertad para anticipar los descubrimientos científicos que se producirán en mil años. ([LU 101:4.1-2](/es/The_Urantia_Book/101#p4_1))
+> La humanidad debería comprender que nosotros, que participamos en la revelación de la verdad, estamos muy rigurosamente limitados por las instrucciones de nuestros superiores. No tenemos libertad para anticipar los descubrimientos científicos que se producirán en mil años. (<a id="a61_277"></a>[LU 101:4.1-2](/es/The_Urantia_Book/101#p4_1))
 
 Por otro lado, _El Libro de Urantia_ dice:
 
@@ -68,7 +68,7 @@ Por otro lado, _El Libro de Urantia_ dice:
 > Las afirmaciones referentes a la cosmología nunca son inspiradas, pero estas revelaciones tienen un inmenso valor ya que al menos clarifican transitoriamente los conocimientos mediante:
 > 
 > 1. La reducción de la confusión, eliminando con autoridad los errores.
-> 2. La coordinación de los hechos y de las observaciones conocidos o a punto de ser conocidos. ([LU 101:4.2-5](/es/The_Urantia_Book/101#p4_2))
+> 2. La coordinación de los hechos y de las observaciones conocidos o a punto de ser conocidos. (<a id="a70_97"></a>[LU 101:4.2-5](/es/The_Urantia_Book/101#p4_2))
 
 Lograr un equilibrio entre no «anticipar los descubrimientos de mil años» y «la coordinación de hechos y observaciones conocidos o por conocerse» es algo que se tendría que haber hecho con respecto a la cuestión de la sensibilidad biológica al campo magnético de la Tierra. Las fases iniciales del estudio científico sobre este tema ciertamente comenzaron antes de que se publicara _El libro de Urantia_, y hoy la opinión científica sobre el tema todavía carece de un amplio consenso. No obstante, el patrón de la ciencia emergente está bien alineado con las afirmaciones de _El Libro de Urantia_ sobre este tema. La investigación temprana que se realizó antes de la publicación de _El Libro de Urantia_ ha avanzado significativamente en las últimas décadas.
 
@@ -78,7 +78,7 @@ Wikipedia proporciona una breve descripción del tema y una rápida apreciación
 
 > La magnetocepción (o «magnetorecepción») es la capacidad de detectar cambios en un campo magnético para percibir la dirección o la altitud e incluso se ha postulado como un método para que los animales desarrollen mapas regionales. Se observa más comúnmente en las aves, aunque también se ha observado en muchos otros animales, incluidas las abejas y las tortugas. Los investigadores han identificado un probable sensor en las palomas: una región pequeña (enana) y muy inervada del cráneo, que contiene magnetita biológica. Los humanos tienen un depósito de magnetita similar en el hueso etmoides de la nariz. Aunque no hay disputa sobre la existencia de un sentido magnético en muchas aves (es esencial para las habilidades de navegación de las aves migratorias), es un fenómeno controvertido y no muy bien comprendido. . . En las abejas, se ha observado que la magnetita está incrustada en la membrana celular de un pequeño grupo de neuronas; la teoría es que cuando la magnetita se alinea con el campo magnético de la Tierra, la inducción hace que una corriente atraviese la membrana que despolariza la célula. [^1]
 
-> Los siete espíritus ayudantes de la mente son la creación de la Ministra Divina de un universo local. Estos espíritus de la mente tienen caracteres similares pero poderes diferentes, y todos comparten de la misma manera la naturaleza del Espíritu del Universo, aunque difícilmente son considerados como personalidades, salvo por su Madre Creadora. Los siete ayudantes han recibido los nombres siguientes: el espíritu de *sabiduría*, el espíritu de *adoración*, el espíritu de *consejo*, el espíritu de *conocimiento*, el espíritu de *valentía*, el espíritu de *comprensión* y el espíritu de *intuición* —de percepción rápida. ([LU 34:4.10](/es/The_Urantia_Book/34#p4_10))
+> Los siete espíritus ayudantes de la mente son la creación de la Ministra Divina de un universo local. Estos espíritus de la mente tienen caracteres similares pero poderes diferentes, y todos comparten de la misma manera la naturaleza del Espíritu del Universo, aunque difícilmente son considerados como personalidades, salvo por su Madre Creadora. Los siete ayudantes han recibido los nombres siguientes: el espíritu de *sabiduría*, el espíritu de *adoración*, el espíritu de *consejo*, el espíritu de *conocimiento*, el espíritu de *valentía*, el espíritu de *comprensión* y el espíritu de *intuición* —de percepción rápida. (<a id="a80_629"></a>[LU 34:4.10](/es/The_Urantia_Book/34#p4_10))
 
 _El libro de Urantia_ afirma que su contenido fue proporcionado a mediados de la década de 1930; sin embargo, no se publicó hasta 1955. Aunque la fecha de publicación es una cuestión universalmente indiscutible, la afirmación de que el contenido de _El libro de Urantia_ fue proporcionado a mediados de la década de 1930 es una cuestión que atrae a una gama más amplia de opiniones y no es tan fácil de verificar como la fecha de publicación del libro.
 
@@ -214,7 +214,7 @@ http://icb.oxfordjournals.org/cgi/content/abstract/31/1/169
 > 
 > Los siete espíritus ayudantes de la mente acompañan siempre a los Portadores de Vida a un nuevo planeta, pero no deben ser considerados como entidades; se parecen más a unos circuitos. Los espíritus de los siete ayudantes del universo no funcionan como personalidades separadamente de la presencia universal de la Ministra Divina; son de hecho un nivel de conciencia de la Ministra Divina, y siempre están subordinados a la acción y a la presencia de su madre creadora.
 > 
-> 1. El espíritu de intuición —de percepción rápida, los instintos reflejos físicos primitivos e inherentes, la dotación direccional y otros instintos de conservación que poseen todas las creaciones mentales; el único ayudante que funciona tan ampliamente en las órdenes inferiores de vida animal, y el único que establece un extenso contacto funcional con los niveles no enseñables de la mente maquinal. ([LU 36:5.2,5](/es/The_Urantia_Book/36#p5_2))
+> 1. El espíritu de intuición —de percepción rápida, los instintos reflejos físicos primitivos e inherentes, la dotación direccional y otros instintos de conservación que poseen todas las creaciones mentales; el único ayudante que funciona tan ampliamente en las órdenes inferiores de vida animal, y el único que establece un extenso contacto funcional con los niveles no enseñables de la mente maquinal. (<a id="a216_406"></a>[LU 36:5.2,5](/es/The_Urantia_Book/36#p5_2))
 
 ### Recursos adicionales
 
@@ -341,11 +341,11 @@ http://www.biophysics.uwa.edu.au/magnetite.html
 [^1]: http://en.wikipedia.org/wiki/Magnetoception
 [^2]: http://en.wikipedia.org/wiki/Electromagnetism
 [^3]: http://wrt-intertext.syr.edu/ll2/samie.html
-[^4]: _El Libro de Urantia_ [LU 101:4.2](/es/The_Urantia_Book/101#p4_2)
+[^4]: _El Libro de Urantia_ <a id="a343_28"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2)
 [^5]: http://www.admissions.caltech.edu/about/milestones
 [^6]: http://www.affs.org/html/biomagnetism.html
 [^7]: http://www.abc.net.au/science/news/stories/s154625.htm
 [^8]: Howard C. Hughes: Sensory Exotica: un mundo más allá de la experiencia humana; 1999, cap. 10
 [^9]: http://www.abc.net.au/science/news/stories/s154625.htm
-[^10]: _El Libro de Urantia_ 101:4.5 [LU 101:4.5](/es/The_Urantia_Book/101#p4_5)
+[^10]: _El Libro de Urantia_ 101:4.5 <a id="a349_37"></a>[LU 101:4.5](/es/The_Urantia_Book/101#p4_5)
 

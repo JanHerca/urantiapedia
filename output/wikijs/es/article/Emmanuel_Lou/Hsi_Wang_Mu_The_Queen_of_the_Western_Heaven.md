@@ -101,7 +101,7 @@ Los primeros taoístas habían investigado mucho para identificar a Hsi Wang Mu.
 
 Una hipótesis es la siguiente: las tradiciones sobre Eva se introdujeron a través del culto a la madre.
 
-> «El *culto a la madre* de los descendientes de Caín alcanzó su apogeo en Creta durante esta época. Este culto glorificaba a Eva en la adoración de la «gran madre». Había imágenes de Eva por todas partes. Se erigieron miles de santuarios públicos por toda Creta y Asia Menor.» (<a id="a103_282"></a>[LU 80:7.7](/es/The_Urantia_Book/80#p7_7))
+> «El *culto a la madre* de los descendientes de Caín alcanzó su apogeo en Creta durante esta época. Este culto glorificaba a Eva en la adoración de la «gran madre». Había imágenes de Eva por todas partes. Se erigieron miles de santuarios públicos por toda Creta y Asia Menor.» (<a id="a103_279"></a>[LU 80:7.7](/es/The_Urantia_Book/80#p7_7))
 
 <figure id="Figure_3" class="image urantiapedia" alt="Hsi Wang Mu">
 <img src="/image/article/606/Hsi_Wang_Mu.jpg">

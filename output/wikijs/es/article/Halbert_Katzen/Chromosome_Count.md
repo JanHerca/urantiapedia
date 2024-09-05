@@ -115,15 +115,15 @@ Por lo tanto, cuando se publicó en 1955, los autores de _El Libro de Urantia_ h
 
 ## Notas al pie:
 
-[^1]: [LU 36:2.4](/es/The_Urantia_Book/36#p2_4) Las citas de _El libro de Urantia_ se proporcionan como Documento:Sección.Párrafo. Los «documentos» pueden considerarse como «capítulos». «Urantia» es una palabra acuñada con el significado etimológico «(tu) lugar en los cielos».
+[^1]: <a id="a117_6"></a>[LU 36:2.4](/es/The_Urantia_Book/36#p2_4) Las citas de _El libro de Urantia_ se proporcionan como Documento:Sección.Párrafo. Los «documentos» pueden considerarse como «capítulos». «Urantia» es una palabra acuñada con el significado etimológico «(tu) lugar en los cielos».
 
-[^2]: [LU 101:4.2](/es/The_Urantia_Book/101#p4_2)
+[^2]: <a id="a119_6"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2)
 
-[^3]: [LU 101:4.5](/es/The_Urantia_Book/101#p4_5)
+[^3]: <a id="a121_6"></a>[LU 101:4.5](/es/The_Urantia_Book/101#p4_5)
 
 [^4]: http://www.answers.com/topic/cosmology
 
-[^5]: [LU 77:2.5](/es/The_Urantia_Book/77#p2_5)
+[^5]: <a id="a125_6"></a>[LU 77:2.5](/es/The_Urantia_Book/77#p2_5)
 
 [^6]: http://en.wikipedia.org/wiki/Cytogenetics
 

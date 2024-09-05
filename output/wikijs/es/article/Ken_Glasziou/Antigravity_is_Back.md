@@ -39,7 +39,7 @@ dateCreated: 2022-9-9T8:13:39Z
 > La descripción física del Libro de la mansión y los mundos superiores también debe ser una adaptación de la realidad, pero sin duda la realidad será un avance sobre la descripción que se nos da.
 {.is-info}
 
-¿Tiene problemas para imaginar el universo de cuatro dimensiones de la relatividad? Luego imagine la dificultad que enfrentaron los reveladores del _Libro de Urantia_ para transmitirnos un concepto mental de un universo de siete dimensiones. (<a id="a41_241"></a>[LU 130:7.6](/es/The_Urantia_Book/130#p7_6)) Este problema fue destacado por el lector australiano, Nigel Nunn, quien comenta que la descripción toroidal que se nos da para el Universo Maestro debe ser algún tipo de proyección geométrica. o la representación vista desde una dimensión superior en lugar de ser la realidad.
+¿Tiene problemas para imaginar el universo de cuatro dimensiones de la relatividad? Luego imagine la dificultad que enfrentaron los reveladores del _Libro de Urantia_ para transmitirnos un concepto mental de un universo de siete dimensiones. (<a id="a41_243"></a>[LU 130:7.6](/es/The_Urantia_Book/130#p7_6)) Este problema fue destacado por el lector australiano, Nigel Nunn, quien comenta que la descripción toroidal que se nos da para el Universo Maestro debe ser algún tipo de proyección geométrica. o la representación vista desde una dimensión superior en lugar de ser la realidad.
 
 Los reveladores también hablan de la antigravedad como un medio por el cual los Directores de Poder controlan la distribución de energía y masa. Pero durante un período considerable, el concepto de antigravedad no tuvo cabida entre nuestros físicos y cosmólogos.
 

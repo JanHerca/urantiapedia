@@ -73,7 +73,7 @@ La mayoría de los informes de UBtheNEWS implican corroboraciones de informació
 > 
 > Cuando estas esferas llameantes tienen menos de una décima parte el tamaño de vuestro Sol, se contraen, se condensan y se enfrían rápidamente. Cuando tienen más de treinta veces el tamaño del Sol —o más bien treinta veces su contenido bruto en materia real— los soles se parten rápidamente en dos cuerpos separados y se convierten o bien en los centros de nuevos sistemas, o bien permanecen dentro de la atracción gravitatoria del otro sol, girando alrededor de un centro común como un tipo de estrella doble.
 > 
-> Entre las mayores erupciones cósmicas de Orvonton, la más reciente fue la explosión extraordinaria de una estrella doble, cuya luz llegó a Urantia en el año 1572. Esta conflagración fue tan intensa que la explosión era claramente visible en pleno día. ([LU 41:3.3-5](/es/The_Urantia_Book/41#p3_3))
+> Entre las mayores erupciones cósmicas de Orvonton, la más reciente fue la explosión extraordinaria de una estrella doble, cuya luz llegó a Urantia en el año 1572. Esta conflagración fue tan intensa que la explosión era claramente visible en pleno día. (<a id="a75_255"></a>[LU 41:3.3-5](/es/The_Urantia_Book/41#p3_3))
 
 Para apreciar cómo esta declaración, publicada en _El Libro de Urantia_ en 1955, se adelantó a la ciencia, es necesario adquirir tanto una comprensión general de cómo se ha desarrollado la ciencia en relación con las supernovas como una comprensión específica de cómo esta historia de la ciencia se relaciona con la Nova de Tycho, la explosión de supernova de 1572 a la que se refiere El libro de Urantia. Pero, antes de aprender sobre la historia de las supernovas en general y la Nova de Tycho en particular, comenzaremos por definir qué es una estrella doble. Las siguientes citas de Wikipedia proporcionan una descripción básica de una estrella doble e indican cómo «doble» y «binario» se usan indistintamente en referencia a este suceso:
 
@@ -200,7 +200,7 @@ Citas del libro de Urantia:
 > 
 > Cuando estas esferas llameantes tienen menos de una décima parte el tamaño de vuestro Sol, se contraen, se condensan y se enfrían rápidamente. Cuando tienen más de treinta veces el tamaño del Sol —o más bien treinta veces su contenido bruto en materia real— los soles se parten rápidamente en dos cuerpos separados y se convierten o bien en los centros de nuevos sistemas, o bien permanecen dentro de la atracción gravitatoria del otro sol, girando alrededor de un centro común como un tipo de estrella doble.
 > 
-> Entre las mayores erupciones cósmicas de Orvonton, la más reciente fue la explosión extraordinaria de una estrella doble, cuya luz llegó a Urantia en el año 1572. Esta conflagración fue tan intensa que la explosión era claramente visible en pleno día. ([LU 41:3.3-5](/es/The_Urantia_Book/41#p3_3))
+> Entre las mayores erupciones cósmicas de Orvonton, la más reciente fue la explosión extraordinaria de una estrella doble, cuya luz llegó a Urantia en el año 1572. Esta conflagración fue tan intensa que la explosión era claramente visible en pleno día. (<a id="a202_255"></a>[LU 41:3.3-5](/es/The_Urantia_Book/41#p3_3))
 
 - http://www.nature.com/nature/journal/v431/n7012/abs/nature03006.html (Breve resumen)
 - http://www.solstation.com/x-objects/tycho-s.htm (mejor resumen y enlace de recursos)

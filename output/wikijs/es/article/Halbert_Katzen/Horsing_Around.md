@@ -39,17 +39,17 @@ Los autores de _El Libro de Urantia_ entran en un cierto grado de detalle con re
 
 <br style="clear:both;"/>
 
-> Las tres últimas oleadas de anditas salieron en masa de Mesopotamia entre los años 8000 y 6000 a. de J.C. Estas tres grandes oleadas culturales fueron forzadas a salir de Mesopotamia a causa de la presión de las tribus de las colinas del este y al hostigamiento de los hombres de las llanuras del oeste. [LU 78:6.1](/es/The_Urantia_Book/78#p6_1)
+> Las tres últimas oleadas de anditas salieron en masa de Mesopotamia entre los años 8000 y 6000 a. de J.C. Estas tres grandes oleadas culturales fueron forzadas a salir de Mesopotamia a causa de la presión de las tribus de las colinas del este y al hostigamiento de los hombres de las llanuras del oeste. <a id="a41_306"></a>[LU 78:6.1](/es/The_Urantia_Book/78#p6_1)
 > 
-> El caballo proporcionó a los anditas en plena dispersión la ventaja hasta entonces inexistente de la movilidad, permitiendo a los últimos grupos de jinetes anditas avanzar rápidamente. [...] [LU 80:4.4](/es/The_Urantia_Book/80#p4_4)
+> El caballo proporcionó a los anditas en plena dispersión la ventaja hasta entonces inexistente de la movilidad, permitiendo a los últimos grupos de jinetes anditas avanzar rápidamente. [...] <a id="a43_193"></a>[LU 80:4.4](/es/The_Urantia_Book/80#p4_4)
 > 
-> El diez por ciento de estos anditas que huían atravesaron Arabia y entraron en Egipto. [LU 78:6.5](/es/The_Urantia_Book/78#p6_5)
+> El diez por ciento de estos anditas que huían atravesaron Arabia y entraron en Egipto. <a id="a45_89"></a>[LU 78:6.5](/es/The_Urantia_Book/78#p6_5)
 > 
->  El sesenta y cinco por ciento entró en Europa por la ruta del Mar Caspio. [...] [LU 78:6.2](/es/The_Urantia_Book/78#p6_2)
+>  El sesenta y cinco por ciento entró en Europa por la ruta del Mar Caspio. [...] <a id="a47_83"></a>[LU 78:6.2](/es/The_Urantia_Book/78#p6_2)
 > 
->  El diez por ciento [...] se dirigió hacia el este a través de las tierras altas elamitas hasta la meseta iraní y el Turquestán. [LU 78:6.3](/es/The_Urantia_Book/78#p6_3)
+>  El diez por ciento [...] se dirigió hacia el este a través de las tierras altas elamitas hasta la meseta iraní y el Turquestán. <a id="a49_131"></a>[LU 78:6.3](/es/The_Urantia_Book/78#p6_3)
 > 
->  La civilización del Turquestán se avivaba y renovaba constantemente gracias a la gente que llegaba de Mesopotamia, y principalmente a los jinetes anditas posteriores.[LU 78:5.3](/es/The_Urantia_Book/78#p5_3)
+>  La civilización del Turquestán se avivaba y renovaba constantemente gracias a la gente que llegaba de Mesopotamia, y principalmente a los jinetes anditas posteriores.<a id="a51_169"></a>[LU 78:5.3](/es/The_Urantia_Book/78#p5_3)
 
 Una historia de 2011 de Reuters, que cubre un descubrimiento arqueológico realizado en Arabia Saudita, nos informa: «La civilización Maqar es una civilización muy avanzada del período neolítico. Este sitio nos muestra claramente las raíces de la domesticación de caballos hace 9.000 años».
 
@@ -241,18 +241,18 @@ Para una perspectiva relativamente rápida de _El Libro de Urantia_ sobre el des
 
 ## Notas:
 
-[^1]: El Libro de Urantia <a id="a239_19"></a>[LU 80:4.1](/es/The_Urantia_Book/80#p4_1)
-[^2]: El Libro de Urantia <a id="a240_19"></a>[LU 80:4.3,4](/es/The_Urantia_Book/80#p4_3)
-[^3]: El Libro de Urantia <a id="a241_19"></a>[LU 78:6.1-3,5](/es/The_Urantia_Book/78#p6_1)
+[^1]: El Libro de Urantia <a id="a243_26"></a>[LU 80:4.1](/es/The_Urantia_Book/80#p4_1)
+[^2]: El Libro de Urantia <a id="a244_26"></a>[LU 80:4.3,4](/es/The_Urantia_Book/80#p4_3)
+[^3]: El Libro de Urantia <a id="a245_26"></a>[LU 78:6.1-3,5](/es/The_Urantia_Book/78#p6_1)
 [^4]: http://www.reuters.com/article/2011/08/25/uk-saudi-archaeology-idUSLNE77001R20110825
 [^5]: http://www.bbc.co.uk/news/world-middle-east-14658678
 [^6]: http://www.middle-east-online.com/english/?id=47796
-[^7]: El Libro de Urantia <a id="a245_19"></a>[LU 78:5.2](/es/The_Urantia_Book/78#p5_2)
-[^8]: El Libro de Urantia <a id="a246_19"></a>[LU 76:3.6](/es/The_Urantia_Book/76#p3_6)
-[^9]: El Libro de Urantia <a id="a247_19"></a>[LU 76:3.8](/es/The_Urantia_Book/76#p3_8)
-[^10]: El Libro de Urantia  <a id="a248_21"></a>[LU 78:5.2,3](/es/The_Urantia_Book/78#p5_2)
-[^11]: El Libro de Urantia <a id="a249_20"></a>[LU 80:4.5](/es/The_Urantia_Book/80#p4_5)
-[^12]: El Libro de Urantia <a id="a250_20"></a>[LU 81:2.8](/es/The_Urantia_Book/81#p2_8)
+[^7]: El Libro de Urantia <a id="a249_26"></a>[LU 78:5.2](/es/The_Urantia_Book/78#p5_2)
+[^8]: El Libro de Urantia <a id="a250_26"></a>[LU 76:3.6](/es/The_Urantia_Book/76#p3_6)
+[^9]: El Libro de Urantia <a id="a251_26"></a>[LU 76:3.8](/es/The_Urantia_Book/76#p3_8)
+[^10]: El Libro de Urantia  <a id="a252_28"></a>[LU 78:5.2,3](/es/The_Urantia_Book/78#p5_2)
+[^11]: El Libro de Urantia <a id="a253_27"></a>[LU 80:4.5](/es/The_Urantia_Book/80#p4_5)
+[^12]: El Libro de Urantia <a id="a254_27"></a>[LU 81:2.8](/es/The_Urantia_Book/81#p2_8)
 [^13]: http://www.sciencemag.org/content/323/5919/1332
 [^14]: http://www.reuters.com/article/2009/03/05/us-horses-history-idUSTRE5246HI20090305
 [^15]: http://arstechnica.com/science/news/2009/03/domesticating-the-horse.ars

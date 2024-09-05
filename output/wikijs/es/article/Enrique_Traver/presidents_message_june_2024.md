@@ -42,11 +42,11 @@ _Enrique Traver, Brasil_
 
 Queridos hermanos y hermanas:
 
-Si leemos sobre el viaje de Jesús de regreso de Roma con Gonod y Ganid en el documento 133, desde [LU 133:4.1](/es/The_Urantia_Book/133#p4_1) a [LU 133:4.12](/es/The_Urantia_Book/133#p4_12), Jesús conoce a varias personas, profesionales de diferentes áreas de actividad o trabajo y les aconseja cómo llevar a cabo su trabajo diario para revelar a Dios y hacer su voluntad. Puede que lo que Jesús nos esté diciendo en estos párrafos es que siempre, sea cual sea la actividad u ocupación que realicemos, podemos servir a Dios con los que nos rodean y revelar la verdad, la bondad, la belleza, la justicia y la rectitud.
+Si leemos sobre el viaje de Jesús de regreso de Roma con Gonod y Ganid en el documento 133, desde <a id="a44_98"></a>[LU 133:4.1](/es/The_Urantia_Book/133#p4_1) a <a id="a44_144"></a>[LU 133:4.12](/es/The_Urantia_Book/133#p4_12), Jesús conoce a varias personas, profesionales de diferentes áreas de actividad o trabajo y les aconseja cómo llevar a cabo su trabajo diario para revelar a Dios y hacer su voluntad. Puede que lo que Jesús nos esté diciendo en estos párrafos es que siempre, sea cual sea la actividad u ocupación que realicemos, podemos servir a Dios con los que nos rodean y revelar la verdad, la bondad, la belleza, la justicia y la rectitud.
 
 Hay un pasaje que llamó mi atención y me hizo reflexionar profundamente, que fue precisamente la conversación de Jesús con la dueña de una posada griega, a la que dijo:
 
-> A la dueña de la posada griega le dijo: «**Dispensa tu hospitalidad como quien recibe a los hijos del Altísimo**. Eleva la pesadez de tu faena diaria hasta el nivel de un arte mediante la consciencia creciente de que **sirves a Dios en las personas en cuyo interior mora su espíritu, que ha descendido a vivir dentro del corazón de los hombres** para transformar su mente y llevar su alma a conocer al Padre del Paraíso de todos estos dones otorgados del espíritu divino». [LU 133:4.8](/es/The_Urantia_Book/133#p4_8) \[negrita añadida\]
+> A la dueña de la posada griega le dijo: «**Dispensa tu hospitalidad como quien recibe a los hijos del Altísimo**. Eleva la pesadez de tu faena diaria hasta el nivel de un arte mediante la consciencia creciente de que **sirves a Dios en las personas en cuyo interior mora su espíritu, que ha descendido a vivir dentro del corazón de los hombres** para transformar su mente y llevar su alma a conocer al Padre del Paraíso de todos estos dones otorgados del espíritu divino». <a id="a48_475"></a>[LU 133:4.8](/es/The_Urantia_Book/133#p4_8) \[negrita añadida\]
 
 Cada uno somos una posada. Albergamos a Dios mismo en nuestro interior. ¿Podríamos tener un huésped más ilustre o importante? ¿Algún invitado Altísimo?
 

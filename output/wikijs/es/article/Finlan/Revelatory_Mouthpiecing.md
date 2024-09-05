@@ -58,7 +58,7 @@ Necesitamos continuar y preguntarnos si el mandato revelador de utilizar portavo
 
 Sin embargo, es un descubrimiento sorprendente (para mí, de todos modos) encontrar que el uso de los comerciantes humanos es tan crucial, que se considera aceptable permitir que la revelación esté fuertemente teñida por los puntos de vista de las fuentes humanas. Los reveladores tienen que usar portavoces humanos: _«Las leyes de la revelación nos obstaculizan enormemente_…» <a id="a58_377"></a>[[LU 101:4.1](/es/The_Urantia_Book/101#p4_1)] Esto significa que la revelación está matizada o sesgada por algunos puntos de vista de principios del siglo XX, así como el evangelio fue sazonado y sesgado por los puntos de vista del primer siglo. Pero cuando se trata de cosas de primera importancia, como la actitud del Padre, los autores son nítidos y sin distorsiones.
 
-Aún así, parece que los lectores del _Libro de Urantia_ necesitan tener la experiencia que muchos cristianos han tenido: darse cuenta de la falibilidad de nuestras escrituras: «..._nada que la naturaleza humana haya tocado puede considerarse infalible._» <a id="a60_253"></a>[[LU 159:4.8](/es/The_Urantia_Book/159#p4_8)]
+Aún así, parece que los lectores del _Libro de Urantia_ necesitan tener la experiencia que muchos cristianos han tenido: darse cuenta de la falibilidad de nuestras escrituras: «..._nada que la naturaleza humana haya tocado puede considerarse infalible._» <a id="a60_255"></a>[[LU 159:4.8](/es/The_Urantia_Book/159#p4_8)]
 
 ## Actualizando
 

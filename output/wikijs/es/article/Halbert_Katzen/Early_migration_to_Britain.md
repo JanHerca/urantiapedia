@@ -333,27 +333,27 @@ Las selecciones de *El Libro de Urantia* proporcionadas en este informe ofrecen 
 
 [^1]: Halbert Katzen, con agradecimiento especial a Chris Halvorson, Ph.D., Fred Harris, J.D., y Donna Whelan.
 
-[^2]: <a id="a298_6"></a>[LU 64:1.6](/es/The_Urantia_Book/64#p1_6)
+[^2]: <a id="a335_6"></a>[LU 64:1.6](/es/The_Urantia_Book/64#p1_6)
 
-[^3]: <a id="a300_6"></a>[LU 64:1.5](/es/The_Urantia_Book/64#p1_5)
+[^3]: <a id="a337_6"></a>[LU 64:1.5](/es/The_Urantia_Book/64#p1_5)
 
-[^4]: <a id="a302_6"></a>[LU 64:2.1-6](/es/The_Urantia_Book/64#p2_1)
+[^4]: <a id="a339_6"></a>[LU 64:2.1-6](/es/The_Urantia_Book/64#p2_1)
 
-[^5]: <a id="a304_6"></a>[LU 64:4.6](/es/The_Urantia_Book/64#p4_6)
+[^5]: <a id="a341_6"></a>[LU 64:4.6](/es/The_Urantia_Book/64#p4_6)
 
 [^6]: Proyecto AHOB, https://www.ahobproject.org/ y https://www.ahobproject.org/AHOBI/index_2.html
 
-[^7]: <a id="a308_6"></a>[64:1.5 - 64:2.6](/es/The_Urantia_Book/64#p1_5)
+[^7]: <a id="a345_6"></a>[64:1.5 - 64:2.6](/es/The_Urantia_Book/64#p1_5)
 
-[^8]: <a id="a310_6"></a>[LU 64:7.16-17](/es/The_Urantia_Book/64#p7_16). Estas frases están sacadas de una sección que relata el período de tiempo comprendido aproximadamente entre 500.000 a 80.000 años atrás.
+[^8]: <a id="a347_6"></a>[LU 64:7.16-17](/es/The_Urantia_Book/64#p7_16). Estas frases están sacadas de una sección que relata el período de tiempo comprendido aproximadamente entre 500.000 a 80.000 años atrás.
 
 [^9]: M.J. White, y S.J. Plunkett, *Miss Layard excavates: a Palaeolithic site at Foxhall Road, Ipswich, 1903-1905*. Bristol: WASP, 2004.
 
 [^10]: De la Wikipedia: «El Paleolítico Inferior es la subdivisión más temprana del Paleolítico o Edad de Piedra Antigua. Se extiende desde hace unos 2,5 millones de años cuando aparece en el registro arqueológico la primera evidencia de artesanía y uso de herramientas de piedra por parte de los homínidos, hasta hace unos 100.000 años cuando importantes cambios evolutivos y tecnológicos (modernidad conductual) dieron paso al Paleolítico Medio». https://en.wikipedia.org/wiki/Lower_Paleolithic
 
-[^11]: <a id="a316_7"></a>[LU 64:3.1,4-5](/es/The_Urantia_Book/64#p3_1)
+[^11]: <a id="a353_7"></a>[LU 64:3.1,4-5](/es/The_Urantia_Book/64#p3_1)
 
-[^12]: <a id="a318_7"></a>[LU 64:4.1-11](/es/The_Urantia_Book/64#p4_1)
+[^12]: <a id="a355_7"></a>[LU 64:4.1-11](/es/The_Urantia_Book/64#p4_1)
 
 [^13]: El arvicolino es una subfamilia de roedores que incluye a los campañoles, topillos, ratas de agua, lemmings y ratas almizcleras. https://es.wikipedia.org/wiki/Arvicolinae
 
@@ -363,11 +363,11 @@ Las selecciones de *El Libro de Urantia* proporcionadas en este informe ofrecen 
 
 [^16]: Jonathan Leake, *First Neanderthal tracked to Torquay*, *The Sunday Times*, octubre 2006, https://www.thetimes.co.uk/article/first-neanderthal-tracked-to-torquay-th0zg0rl2ch [Enlace accesible bajo subscripción] http://www.archaeology.ws/2006-10-3.htm [Enlace que recopila la noticia]
 
-[^17]: <a id="a328_7"></a>[LU 64:2.5](/es/The_Urantia_Book/64#p2_5)
+[^17]: <a id="a365_7"></a>[LU 64:2.5](/es/The_Urantia_Book/64#p2_5)
 
-[^18]: <a id="a330_7"></a>[LU 64:7.18](/es/The_Urantia_Book/64#p7_18)
+[^18]: <a id="a367_7"></a>[LU 64:7.18](/es/The_Urantia_Book/64#p7_18)
 
-[^19]: <a id="a332_7"></a>[LU 64:7.16](/es/The_Urantia_Book/64#p7_16)
+[^19]: <a id="a369_7"></a>[LU 64:7.16](/es/The_Urantia_Book/64#p7_16)
 
 [^20]: El cron es una unidad de tiempo, la más corta usada en geocronología para referirse a periodos geológicos. La duración de cada cron es variable. La extensión de un cron está frecuentemente ligada a inversiones del campo magnético terrestre que registran en la roca el comienzo y el final del periodo. https://en.wikipedia.org/wiki/Magnetostratigraphy#Chron
 

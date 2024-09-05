@@ -193,7 +193,7 @@ En primer lugar, me gustaría agradecer al grupo de Canberra por esta conferenci
 Fue un día histórico cuando Jesús dejó sus herramientas de carpintería en el cobertizo para botes por última vez, después de escuchar que Juan el Bautista había sido arrestado, y entró en el templo para comenzar su ministerio de enseñanza pública y predicó sobre el 'reino interior'. donde dijo:
 <br style="clear:both;"/>
 
-> _«Este reino es un dominio perpetuo. Los que entren en el reino ascenderán hasta mi Padre; alcanzarán ciertamente la diestra de su gloria en el Paraíso. Todos los que entren en el reino de los cielos se convertirán en los hijos de Dios, y en la era venidera ascenderán hasta el Padre. No he venido a llamar a los supuestos justos, sino a los pecadores y a todos los que tienen hambre y sed de la rectitud de la perfección divina»._ (<a id="a195_439"></a>[[LU 137:8.16](/es/The_Urantia_Book/137#p8_16))
+> _«Este reino es un dominio perpetuo. Los que entren en el reino ascenderán hasta mi Padre; alcanzarán ciertamente la diestra de su gloria en el Paraíso. Todos los que entren en el reino de los cielos se convertirán en los hijos de Dios, y en la era venidera ascenderán hasta el Padre. No he venido a llamar a los supuestos justos, sino a los pecadores y a todos los que tienen hambre y sed de la rectitud de la perfección divina»._ (<a id="a195_435"></a>[[LU 137:8.16](/es/The_Urantia_Book/137#p8_16))
 
 Volveré a esto, pero primero (¡ya que es el día de las Grandes Finales de fútbol!) quiero hablar un poco sobre los objetivos.
 

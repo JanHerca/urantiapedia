@@ -108,7 +108,7 @@ Si recurrimos a otros principios de unidad que apoyan una mayor unidad espiritua
 
 > Así como se mueve la parte se mueve el todo. (<a id="a108_48"></a>[LU 12:7.11](/es/The_Urantia_Book/12#p7_11))
 
-> En todo el universo, cada unidad está considerada como una parte del todo. La supervivencia de la parte depende de su cooperación con el plan y la intención del todo, del deseo sincero y del consentimiento perfecto de hacer la voluntad divina del Padre. (<a id="a110_261"></a>[LU 3:5.15](/es/The_Urantia_Book/3#p5_15))
+> En todo el universo, cada unidad está considerada como una parte del todo. La supervivencia de la parte depende de su cooperación con el plan y la intención del todo, del deseo sincero y del consentimiento perfecto de hacer la voluntad divina del Padre. (<a id="a110_257"></a>[LU 3:5.15](/es/The_Urantia_Book/3#p5_15))
 
 La voluntad del Padre también puede verse como un principio en sí mismo. A partir de la definición anterior, la voluntad del Padre puede reconocerse claramente como una «verdad fundamental» y una «proposición que sirve como fundamento de creencias, valores, comportamiento y cadenas de razonamiento».
 

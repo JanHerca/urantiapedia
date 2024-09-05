@@ -84,7 +84,7 @@ El nombre de Michael (Miguel en español) se usa en _El Libro de Urantia_ para d
 
 Dicho esto, las personas que no están familiarizadas con _El Libro de Urantia_ deben estar más o menos preparadas para entender razonablemente las siguientes citas selecciones relacionadas con el entierro de Jesús y su resurrección en una nueva forma de existencia:
 
-> Mientras tanto, José de Arimatea, acompañado de Nicodemo, había ido a ver a Pilatos para pedirle que les entregara el cuerpo de Jesús a fin de enterrarlo adecuadamente. No era raro que los amigos de las personas crucificadas ofrecieran sobornos a las autoridades romanas para obtener el privilegio de disponer de los cuerpos. José se presentó ante Pilatos con una gran suma de dinero, por si era necesario pagar la autorización de trasladar el cuerpo de Jesús a un sepulcro privado. Pero Pilatos no quiso aceptar dinero por esto. Cuando escuchó la petición, firmó rápidamente la orden que autorizaba a José a dirigirse al Gólgota y tomar inmediatamente plena posesión del cuerpo del Maestro. [...]. [LU 188:0.3](/es/The_Urantia_Book/188#p0_3) [^4]
+> Mientras tanto, José de Arimatea, acompañado de Nicodemo, había ido a ver a Pilatos para pedirle que les entregara el cuerpo de Jesús a fin de enterrarlo adecuadamente. No era raro que los amigos de las personas crucificadas ofrecieran sobornos a las autoridades romanas para obtener el privilegio de disponer de los cuerpos. José se presentó ante Pilatos con una gran suma de dinero, por si era necesario pagar la autorización de trasladar el cuerpo de Jesús a un sepulcro privado. Pero Pilatos no quiso aceptar dinero por esto. Cuando escuchó la petición, firmó rápidamente la orden que autorizaba a José a dirigirse al Gólgota y tomar inmediatamente plena posesión del cuerpo del Maestro. [...]. <a id="a86_701"></a>[LU 188:0.3](/es/The_Urantia_Book/188#p0_3) [^4]
 
 > Una persona crucificada no podía ser enterrada en un cementerio judío; había una ley que prohibía estrictamente esta manera de proceder. José y Nicodemo conocían esta ley, y en el camino hacia el Gólgota habían decidido enterrar a Jesús en el nuevo sepulcro de la familia de José, tallado en la roca maciza y situado a corta distancia al norte del Gólgota, al otro lado de la carretera que conducía a Samaria. Nadie había sido nunca enterrado en este sepulcro, y consideraron apropiado que el Maestro reposara allí. [...]
 > 
@@ -94,11 +94,11 @@ Dicho esto, las personas que no están familiarizadas con _El Libro de Urantia_ 
 > 
 > Después de colocar el cuerpo en la tumba, el centurión hizo señas a sus soldados para que ayudaran a rodar la piedra de cierre delante de la entrada del sepulcro.[...]
 > 
-> Mientras sucedía todo esto, las mujeres estaban ocultas cerca de allí, de manera que lo vieron todo y observaron el lugar donde había sido enterrado el Maestro. Se habían escondido así porque a las mujeres no les estaba permitido asociarse con los hombres en momentos como éste. Estas mujeres pensaban que Jesús no había sido preparado adecuadamente para ser enterrado, y se pusieron de acuerdo para regresar a la casa de José, descansar el sábado, preparar los aromas y los ung\"uentos, y volver el domingo por la mañana para preparar convenientemente el cuerpo del Maestro para el descanso de la muerte. Las mujeres que permanecieron así cerca de la tumba este viernes por la noche fueron: María Magdalena, María la mujer de Clopas, Marta (otra hermana de la madre de Jesús) y Rebeca de Séforis.[LU 188:1.2-7](/es/The_Urantia_Book/188#p1_2) [^5]
+> Mientras sucedía todo esto, las mujeres estaban ocultas cerca de allí, de manera que lo vieron todo y observaron el lugar donde había sido enterrado el Maestro. Se habían escondido así porque a las mujeres no les estaba permitido asociarse con los hombres en momentos como éste. Estas mujeres pensaban que Jesús no había sido preparado adecuadamente para ser enterrado, y se pusieron de acuerdo para regresar a la casa de José, descansar el sábado, preparar los aromas y los ung\"uentos, y volver el domingo por la mañana para preparar convenientemente el cuerpo del Maestro para el descanso de la muerte. Las mujeres que permanecieron así cerca de la tumba este viernes por la noche fueron: María Magdalena, María la mujer de Clopas, Marta (otra hermana de la madre de Jesús) y Rebeca de Séforis.<a id="a96_799"></a>[LU 188:1.2-7](/es/The_Urantia_Book/188#p1_2) [^5]
 
-> Cuando el Jesús resucitado emergió de su tumba, el cuerpo de carne en el que había vivido y trabajado en la Tierra durante cerca de treinta y seis años yacía todavía allí en el nicho del sepulcro, intacto y envuelto en la sábana de lino, tal como había sido colocado para su descanso el viernes por la tarde por José y sus compañeros. La piedra que tapaba la entrada de la tumba tampoco había sido alterada para nada; el sello de Pilatos permanecía aún intacto; los soldados continuaban de guardia. Los guardias del templo habían estado de servicio sin interrupción; la guardia romana había sido cambiada a medianoche. Ninguno de estos vigilantes sospechaba que el objeto de su desvelo se había elevado a una forma de existencia nueva y superior, y que el cuerpo que estaban custodiando era ahora una envoltura exterior desechada, sin ninguna conexión con la personalidad morontial [^6] liberada y resucitada de Jesús.[LU 189:1.2](/es/The_Urantia_Book/189#p1_2) [^7]
+> Cuando el Jesús resucitado emergió de su tumba, el cuerpo de carne en el que había vivido y trabajado en la Tierra durante cerca de treinta y seis años yacía todavía allí en el nicho del sepulcro, intacto y envuelto en la sábana de lino, tal como había sido colocado para su descanso el viernes por la tarde por José y sus compañeros. La piedra que tapaba la entrada de la tumba tampoco había sido alterada para nada; el sello de Pilatos permanecía aún intacto; los soldados continuaban de guardia. Los guardias del templo habían estado de servicio sin interrupción; la guardia romana había sido cambiada a medianoche. Ninguno de estos vigilantes sospechaba que el objeto de su desvelo se había elevado a una forma de existencia nueva y superior, y que el cuerpo que estaban custodiando era ahora una envoltura exterior desechada, sin ninguna conexión con la personalidad morontial [^6] liberada y resucitada de Jesús.<a id="a98_920"></a>[LU 189:1.2](/es/The_Urantia_Book/189#p1_2) [^7]
 
-> Su cuerpo material o físico no formaba parte de la personalidad resucitada. Cuando Jesús salió de la tumba, su cuerpo de carne permaneció intacto en el sepulcro. Emergió de la tumba sin desplazar las piedras que cerraban la entrada y sin romper los sellos de Pilatos. [LU 189:1.7](/es/The_Urantia_Book/189#p1_7) [^8]
+> Su cuerpo material o físico no formaba parte de la personalidad resucitada. Cuando Jesús salió de la tumba, su cuerpo de carne permaneció intacto en el sepulcro. Emergió de la tumba sin desplazar las piedras que cerraban la entrada y sin romper los sellos de Pilatos. <a id="a100_270"></a>[LU 189:1.7](/es/The_Urantia_Book/189#p1_7) [^8]
 
 > **El cuerpo material de Jesús**
 > 
@@ -116,9 +116,9 @@ Dicho esto, las personas que no están familiarizadas con _El Libro de Urantia_ 
 > 
 > La tumba de José estaba vacía, no porque el cuerpo de Jesús había sido rehabilitado o resucitado, sino porque las huestes celestiales habían recibido el permiso solicitado para aplicarle una disolución especial y excepcional, una vuelta del «polvo al polvo», sin la intervención del paso del tiempo y sin el funcionamiento de los procesos ordinarios y visibles de la descomposición mortal y la corrupción material.
 > 
-> Los restos mortales de Jesús sufrieron el mismo proceso natural de desintegración elemental que caracteriza a todos los cuerpos humanos en la Tierra, excepto que, en lo que se refiere al tiempo, este modo natural de disolución fue enormemente acelerado, apresurado hasta tal punto que se volvió casi instantáneo.[LU 189:2.1-8](/es/The_Urantia_Book/189#p2_1) [^9]
+> Los restos mortales de Jesús sufrieron el mismo proceso natural de desintegración elemental que caracteriza a todos los cuerpos humanos en la Tierra, excepto que, en lo que se refiere al tiempo, este modo natural de disolución fue enormemente acelerado, apresurado hasta tal punto que se volvió casi instantáneo.<a id="a118_314"></a>[LU 189:2.1-8](/es/The_Urantia_Book/189#p2_1) [^9]
 
-> Un poco antes de las tres de este domingo por la mañana, cuando los primeros signos del amanecer empezaron a aparecer hacia el este, cinco de estas mujeres partieron hacia la tumba de Jesús. Habían preparado en abundancia unas lociones especiales para embalsamar, y llevaban consigo numerosos vendajes de lino. Tenían la intención de aplicar con más esmero los ungüentos fúnebres en el cuerpo de Jesús y de envolverlo más cuidadosamente en los nuevos vendajes. [LU 189:4.3](/es/The_Urantia_Book/189#p4_3)
+> Un poco antes de las tres de este domingo por la mañana, cuando los primeros signos del amanecer empezaron a aparecer hacia el este, cinco de estas mujeres partieron hacia la tumba de Jesús. Habían preparado en abundancia unas lociones especiales para embalsamar, y llevaban consigo numerosos vendajes de lino. Tenían la intención de aplicar con más esmero los ungüentos fúnebres en el cuerpo de Jesús y de envolverlo más cuidadosamente en los nuevos vendajes. <a id="a120_463"></a>[LU 189:4.3](/es/The_Urantia_Book/189#p4_3)
 
 > Las mujeres que salieron con esta misión de ungir el cuerpo de Jesús fueron: María Magdalena, María la madre de los gemelos Alfeo, Salomé la madre de los hermanos Zebedeo, Juana la mujer de Chuza y Susana la hija de Ezra de Alejandría.
 > 
@@ -132,13 +132,13 @@ Dicho esto, las personas que no están familiarizadas con _El Libro de Urantia_ 
 > 
 > Las cinco mujeres se sentaron entonces en la piedra cerca de la entrada y discutieron la situación. Aún no se les había ocurrido que Jesús había sido resucitado. Habían estado solas todo el sábado, y suponían que el cuerpo había sido trasladado a otro lugar de descanso. Pero cuando reflexionaban sobre esta solución a su dilema, no acertaban a explicarse la colocación ordenada de los lienzos fúnebres; ¿cómo podían haber sacado el cuerpo, si los mismos vendajes en los que estaba envuelto habían sido dejados en la misma posición, y aparentemente intactos, en la plataforma fúnebre?
 > 
-> Mientras estas mujeres estaban sentadas allí a primeras horas del amanecer de este nuevo día, miraron hacia un lado y observaron a un desconocido silencioso e inmóvil. Por un momento se asustaron de nuevo, pero María Magdalena se precipitó hacia él y, pensando que podría ser el jardinero, le dijo: «¿Dónde habéis llevado al Maestro? ¿Dónde lo han enterrado? Dínoslo para poder ir a buscarlo». Como el desconocido no le contestaba a María, ésta empezó a llorar. Entonces Jesús les habló, diciendo: «¿A quién buscáis?» María dijo: «Buscamos a Jesús, que fue enterrado en la tumba de José, pero ya no está. ¿Sabes dónde lo han llevado?» Entonces dijo Jesús: «¿No os dijo este Jesús, incluso en Galilea, que moriría pero que resucitaría de nuevo?» Estas palabras asustaron a las mujeres, pero el Maestro estaba tan cambiado que aún no lo reconocían a la tenue luz del contraluz. Mientras meditaban sus palabras, Jesús se dirigió a Magdalena con una voz familiar, diciendo: «María». Cuando ella escuchó esta palabra de simpatía bien conocida y de saludo afectuoso, supo que era la voz del Maestro, y se precipitó para arrodillarse a sus pies, exclamando: «¡Mi Señor y Maestro!» Todas las demás mujeres reconocieron que era el Maestro el que se encontraba delante de ellas con una forma glorificada, y rápidamente se arrodillaron delante de él. [LU 189:4.4-10](/es/The_Urantia_Book/189#p4_4)
+> Mientras estas mujeres estaban sentadas allí a primeras horas del amanecer de este nuevo día, miraron hacia un lado y observaron a un desconocido silencioso e inmóvil. Por un momento se asustaron de nuevo, pero María Magdalena se precipitó hacia él y, pensando que podría ser el jardinero, le dijo: «¿Dónde habéis llevado al Maestro? ¿Dónde lo han enterrado? Dínoslo para poder ir a buscarlo». Como el desconocido no le contestaba a María, ésta empezó a llorar. Entonces Jesús les habló, diciendo: «¿A quién buscáis?» María dijo: «Buscamos a Jesús, que fue enterrado en la tumba de José, pero ya no está. ¿Sabes dónde lo han llevado?» Entonces dijo Jesús: «¿No os dijo este Jesús, incluso en Galilea, que moriría pero que resucitaría de nuevo?» Estas palabras asustaron a las mujeres, pero el Maestro estaba tan cambiado que aún no lo reconocían a la tenue luz del contraluz. Mientras meditaban sus palabras, Jesús se dirigió a Magdalena con una voz familiar, diciendo: «María». Cuando ella escuchó esta palabra de simpatía bien conocida y de saludo afectuoso, supo que era la voz del Maestro, y se precipitó para arrodillarse a sus pies, exclamando: «¡Mi Señor y Maestro!» Todas las demás mujeres reconocieron que era el Maestro el que se encontraba delante de ellas con una forma glorificada, y rápidamente se arrodillaron delante de él. <a id="a134_1342"></a>[LU 189:4.4-10](/es/The_Urantia_Book/189#p4_4)
 
 > Cuando María intentó abrazar sus pies, Jesús le dijo: «No me toques, María, porque no soy como me has conocido en la carne. Con esta forma permaneceré con vosotros algún tiempo antes de ascender hacia el Padre. Pero id todas ahora y decid a mis apóstoles —y a Pedro— que he resucitado y que habéis hablado conmigo».
 > 
 > Después de que estas mujeres se hubieron recobrado del impacto de su asombro, se apresuraron a regresar a la ciudad y a la casa de Elías Marcos, donde contaron a los diez apóstoles todo lo que les había sucedido; pero los apóstoles no estaban dispuestos a creerlas. Al principio pensaron que las mujeres habían visto una visión, pero cuando María Magdalena repitió las palabras que Jesús les había dicho, y cuando Pedro escuchó su nombre, salió precipitadamente de la habitación de arriba, seguido de cerca por Juan, para llegar a la tumba lo más rápidamente posible y ver estas cosas por sí mismo.
 > 
-> Las mujeres repitieron a los otros apóstoles la historia de su conversación con Jesús, pero no querían creer; y no quisieron ir a averiguarlo por sí mismos como hicieron Pedro y Juan.[LU 189:4.12-14](/es/The_Urantia_Book/189#p4_12)
+> Las mujeres repitieron a los otros apóstoles la historia de su conversación con Jesús, pero no querían creer; y no quisieron ir a averiguarlo por sí mismos como hicieron Pedro y Juan.<a id="a140_185"></a>[LU 189:4.12-14](/es/The_Urantia_Book/189#p4_12)
 
 > **Pedro y Juan en la tumba**
 >
@@ -150,11 +150,11 @@ Dicho esto, las personas que no están familiarizadas con _El Libro de Urantia_ 
 > 
 > Mientras María permanecía allí después de la partida de Pedro y Juan, el Maestro se le apareció de nuevo, diciendo: «No dudes; ten el valor de creer en lo que has visto y oído. Vuelve a donde están mis apóstoles y diles de nuevo que he resucitado, que me apareceré a ellos, y que pronto los precederé en Galilea como les prometí».
 > 
-> María se apresuró a volver a la casa de Marcos y contó a los apóstoles que había hablado de nuevo con Jesús, pero no quisieron creerla. Sin embargo, cuando Pedro y Juan regresaron, dejaron de burlarse y se llenaron de temor y de aprensión. [LU 189:5.1-5](/es/The_Urantia_Book/189#p5_1) [^10]
+> María se apresuró a volver a la casa de Marcos y contó a los apóstoles que había hablado de nuevo con Jesús, pero no quisieron creerla. Sin embargo, cuando Pedro y Juan regresaron, dejaron de burlarse y se llenaron de temor y de aprensión. <a id="a152_242"></a>[LU 189:5.1-5](/es/The_Urantia_Book/189#p5_1) [^10]
 
-> Como ya era típico en él, Pedro vaciló emocionalmente todo el día entre la fe y la duda con respecto a la resurrección del Maestro. Pedro no podía olvidar la visión de los lienzos fúnebres que yacían allí en la tumba como si el cuerpo de Jesús se hubiera evaporado desde dentro. [...] [LU 191:0.4](/es/The_Urantia_Book/191#p0_4) [^11]
+> Como ya era típico en él, Pedro vaciló emocionalmente todo el día entre la fe y la duda con respecto a la resurrección del Maestro. Pedro no podía olvidar la visión de los lienzos fúnebres que yacían allí en la tumba como si el cuerpo de Jesús se hubiera evaporado desde dentro. [...] <a id="a154_287"></a>[LU 191:0.4](/es/The_Urantia_Book/191#p0_4) [^11]
 
-> Cuando los apóstoles se negaron a creer en el relato de las cinco mujeres que manifestaban que habían visto a Jesús y hablado con él, María Magdalena regresó al sepulcro, y las demás volvieron a la casa de José, donde relataron sus experiencias a la hija de José y a las otras mujeres. Y las mujeres creyeron en sus declaraciones. Poco después de las seis, la hija de José de Arimatea y las cuatro mujeres que habían visto a Jesús fueron a la casa de Nicodemo, donde contaron todos estos sucesos a José, Nicodemo, David Zebedeo y a los otros hombres que estaban allí reunidos. Nicodemo y los demás dudaron de esta historia, dudaron de que Jesús hubiera resucitado de entre los muertos; supusieron que los judíos habían trasladado el cuerpo. José y David estaban dispuestos a creer en el relato, de tal manera que se apresuraron a ir a inspeccionar la tumba, y lo encontraron todo tal como las mujeres lo habían descrito. Fueron los últimos en ver así el sepulcro, porque a las siete y media el sumo sacerdote envió al capitán de los guardias del templo a la tumba para que se llevara los lienzos fúnebres. El capitán los envolvió en la sábana de lino y los tiró por un barranco cercano.[LU 190:1.2](/es/The_Urantia_Book/190#p1_2) [^12]
+> Cuando los apóstoles se negaron a creer en el relato de las cinco mujeres que manifestaban que habían visto a Jesús y hablado con él, María Magdalena regresó al sepulcro, y las demás volvieron a la casa de José, donde relataron sus experiencias a la hija de José y a las otras mujeres. Y las mujeres creyeron en sus declaraciones. Poco después de las seis, la hija de José de Arimatea y las cuatro mujeres que habían visto a Jesús fueron a la casa de Nicodemo, donde contaron todos estos sucesos a José, Nicodemo, David Zebedeo y a los otros hombres que estaban allí reunidos. Nicodemo y los demás dudaron de esta historia, dudaron de que Jesús hubiera resucitado de entre los muertos; supusieron que los judíos habían trasladado el cuerpo. José y David estaban dispuestos a creer en el relato, de tal manera que se apresuraron a ir a inspeccionar la tumba, y lo encontraron todo tal como las mujeres lo habían descrito. Fueron los últimos en ver así el sepulcro, porque a las siete y media el sumo sacerdote envió al capitán de los guardias del templo a la tumba para que se llevara los lienzos fúnebres. El capitán los envolvió en la sábana de lino y los tiró por un barranco cercano.<a id="a156_1188"></a>[LU 190:1.2](/es/The_Urantia_Book/190#p1_2) [^12]
 
 ## Datación de la Síndone de Turín
 
@@ -302,7 +302,7 @@ Con todas estas preguntas y calificaciones en mente, pasemos ahora nuestra atenc
 
 ### Aspectos fundamentales de la imagen
 
-El _Turin Shroud Center of Colorado_ tiene un sitio web [www.Shroudofturin.com](https://www.shroudofturin.com/) en el que se publica un artículo titulado _The Shroud and Modern Science - An Essa_y (_La Síndone y la ciencia moderna - Un ensayo_). Este artículo destaca algunas de las características clave del lienzo que son generalmente compatibles con la hipótesis del «efecto corona» para la creación de imágenes. El «efecto corona» es de naturaleza eléctrico y está directamente relacionado con la creación de imágenes de las fotocopias. Con suerte, los lectores no considerarán que sea demasiado exagerado sugerir que la declaración de _El Libro de Urantia_ sobre «la disolución casi instantánea del cuerpo de Jesús» [LU 189:2.8](/es/The_Urantia_Book/189#p2_8). «Los restos mortales de Jesús sufrieron el mismo proceso natural de desintegración elemental que caracteriza a todos los cuerpos humanos en la Tierra, excepto que, en lo que se refiere al tiempo, este modo natural de disolución fue enormemente acelerado, apresurado hasta tal punto que se volvió casi instantáneo». probablemente signifique que algún tipo de actividad eléctrica se asoció con este proceso. Después de revisar algunos de los puntos destacados de _The Shroud and Modern Science - An Essay_, veremos más de cerca la hipótesis del «efecto corona».
+El _Turin Shroud Center of Colorado_ tiene un sitio web [www.Shroudofturin.com](https://www.shroudofturin.com/) en el que se publica un artículo titulado _The Shroud and Modern Science - An Essa_y (_La Síndone y la ciencia moderna - Un ensayo_). Este artículo destaca algunas de las características clave del lienzo que son generalmente compatibles con la hipótesis del «efecto corona» para la creación de imágenes. El «efecto corona» es de naturaleza eléctrico y está directamente relacionado con la creación de imágenes de las fotocopias. Con suerte, los lectores no considerarán que sea demasiado exagerado sugerir que la declaración de _El Libro de Urantia_ sobre «la disolución casi instantánea del cuerpo de Jesús» <a id="a304_721"></a>[LU 189:2.8](/es/The_Urantia_Book/189#p2_8). «Los restos mortales de Jesús sufrieron el mismo proceso natural de desintegración elemental que caracteriza a todos los cuerpos humanos en la Tierra, excepto que, en lo que se refiere al tiempo, este modo natural de disolución fue enormemente acelerado, apresurado hasta tal punto que se volvió casi instantáneo». probablemente signifique que algún tipo de actividad eléctrica se asoció con este proceso. Después de revisar algunos de los puntos destacados de _The Shroud and Modern Science - An Essay_, veremos más de cerca la hipótesis del «efecto corona».
 
 > El significado científico del descubrimiento de Pia [la primera persona en fotografiar la Sábana Santa] es doble. Primero, el sombreado de la imagen corporal de la Sábana Santa es como un negativo, donde los tonos de luz y oscuridad se invierten respeto de la forma en que normalmente aparecen en la experiencia visual ordinaria. Es decir, estamos acostumbrados a ver personas con reflejos claros y sombras oscuras. Pero en la Sábana Santa, esta convención de sombreado se invierte. La pregunta inmediata que surge de este resultado es cómo podría ser la Síndone sensiblemente el trabajo de un artista o un artesano. Una persona que trabajara en la Edad Media o antes, aparentemente tendría que trabajar con una estructura de sombreado absolutamente poco familiar y antinatural antes del advenimiento de la fotografía. El segundo aspecto significativo del descubrimiento de Pia es que la densidad de la información (o la correlación con las sutilezas anatómicas de un cuerpo humano) es extremadamente alta, superando con creces la esperada de las interpretaciones artísticas normales de la forma humana. Es por esta razón que la imagen de la Sábana Santa se ha comparado con una fotografía.  [^28]
 
@@ -486,13 +486,13 @@ Si esto fuera una desviación intencional del plan original, no sería el primer
 
 La pregunta que debe hacerse es «¿por qué los ángeles dejarían estas reliquias atrás?» Y no sólo dejarlas atrás. Las doblaron y las colocaron. Y aparentemente, los ángeles hicieron algo misterioso en relación con los vendajes porque _El Libro de Urantia_, un libro conocido por ser preciso con el lenguaje y coherente internamente, se refiere dos veces a los vendajes como «_aparentemente intactos_» y también se refiere a ellos una vez como simplemente «_intactos_».
 
-> En el nicho de piedra donde habían puesto a Jesús, María sólo vio el paño doblado donde había reposado su cabeza y los vendajes con los que había sido envuelto, que yacían intactos y tal como habían descansado en la piedra antes de que las huestes celestiales sacaran el cuerpo. La sábana que lo cubría yacía a los pies del nicho fúnebre.[LU 189:4.6](/es/The_Urantia_Book/189#p4_6) [^50]
+> En el nicho de piedra donde habían puesto a Jesús, María sólo vio el paño doblado donde había reposado su cabeza y los vendajes con los que había sido envuelto, que yacían intactos y tal como habían descansado en la piedra antes de que las huestes celestiales sacaran el cuerpo. La sábana que lo cubría yacía a los pies del nicho fúnebre.<a id="a488_340"></a>[LU 189:4.6](/es/The_Urantia_Book/189#p4_6) [^50]
 
-> Las cinco mujeres [...] suponían que el cuerpo había sido trasladado a otro lugar de descanso. Pero cuando reflexionaban sobre esta solución a su dilema, no acertaban a explicarse la colocación ordenada de los lienzos fúnebres; ¿cómo podían haber sacado el cuerpo, si los mismos vendajes en los que estaba envuelto habían sido dejados en la misma posición, y aparentemente intactos, en la plataforma fúnebre?[LU 189:4.6](/es/The_Urantia_Book/189#p4_6) [^51]
+> Las cinco mujeres [...] suponían que el cuerpo había sido trasladado a otro lugar de descanso. Pero cuando reflexionaban sobre esta solución a su dilema, no acertaban a explicarse la colocación ordenada de los lienzos fúnebres; ¿cómo podían haber sacado el cuerpo, si los mismos vendajes en los que estaba envuelto habían sido dejados en la misma posición, y aparentemente intactos, en la plataforma fúnebre?<a id="a490_410"></a>[LU 189:4.6](/es/The_Urantia_Book/189#p4_6) [^51]
 
-> Simón Pedro llegó corriendo poco después, entró, y vio la misma tumba vacía con los lienzos fúnebres dispuestos de manera tan particular.[LU 189:5.2](/es/The_Urantia_Book/189#p5_2) [^52]
+> Simón Pedro llegó corriendo poco después, entró, y vio la misma tumba vacía con los lienzos fúnebres dispuestos de manera tan particular.<a id="a492_139"></a>[LU 189:5.2](/es/The_Urantia_Book/189#p5_2) [^52]
 
-> Pedro sugirió al principio que la tumba había sido saqueada, que los enemigos habían robado el cuerpo, y quizás sobornado a los guardias. Pero Juan razonó que la tumba no habría sido dejada de manera tan ordenada si hubieran robado el cuerpo, y también planteó la cuestión de cómo podía ser que los vendajes hubieran sido dejados atrás, y aparentemente tan intactos. Y los dos volvieron a entrar en el sepulcro para examinar más atentamente los lienzos fúnebres.[LU 189:5.3](/es/The_Urantia_Book/189#p5_3) [^53]
+> Pedro sugirió al principio que la tumba había sido saqueada, que los enemigos habían robado el cuerpo, y quizás sobornado a los guardias. Pero Juan razonó que la tumba no habría sido dejada de manera tan ordenada si hubieran robado el cuerpo, y también planteó la cuestión de cómo podía ser que los vendajes hubieran sido dejados atrás, y aparentemente tan intactos. Y los dos volvieron a entrar en el sepulcro para examinar más atentamente los lienzos fúnebres.<a id="a494_464"></a>[LU 189:5.3](/es/The_Urantia_Book/189#p5_3) [^53]
 
 Quizás todos estos misterios sean parte del plan. Tal vez las vendas quedaron aparentemente intactas para hacer que toda la escena fuera imposible de explicar. Tal vez el sudario y el lienzo del entierro se doblaron y separaron entre sí para ayudar a asegurar que las distintas piezas de tela fueran distinguibles y se notaran más fácilmente, de modo que, 2000 años después, despertemos nuestra curiosidad para fomentar el interés y la intriga.
 
@@ -559,23 +559,23 @@ Según _El Libro de Urantia_, «de todos los conocimientos humanos, el que posee
 	4) Las correlaciones entre temas científicos relacionados con la Síndone y declaraciones hechas en _El Libro de Urantia_ sobre las piezas de tela relacionadas con el entierro de Jesús
 	Se debe enfatizar que el tipo de correlaciones que se hacen en este informe entre _El Libro de Urantia_ y varios estudios que se han desarrollado en relación con la Sábana Santa no cumplen con los estándares que se utilizan para cualquiera de los otros informes. El estándar para este informe es mucho más especulativo. El material presentado en este informe se ofrece simplemente porque es intrigante. A diferencia de otros informes donde las correlaciones deben ser corroboradas, las correlaciones aquí se muestran basándose en cosas que están razonablemente asociadas.
 
-[^4]: <a id="a559_6"></a>[LU 188:0.3](/es/The_Urantia_Book/188#p0_3) Las referencias a material de _El libro de Urantia_ se proporcionan en la forma que se acaba de dar. El primer número indica el capítulo (al que en _El libro de Urantia_ se hace referencia como “Documentos”); el número de sección se da en segundo lugar; y el(los) tercer(os) número(s) hace(n) referencia(s) a párrafo(s). Un cero en la posición del capítulo indica que la cita proviene del prólogo. Un cero en la posición de la sección indica que proviene de las observaciones introductorias de ese capítulo.
+[^4]: <a id="a561_6"></a>[LU 188:0.3](/es/The_Urantia_Book/188#p0_3) Las referencias a material de _El libro de Urantia_ se proporcionan en la forma que se acaba de dar. El primer número indica el capítulo (al que en _El libro de Urantia_ se hace referencia como “Documentos”); el número de sección se da en segundo lugar; y el(los) tercer(os) número(s) hace(n) referencia(s) a párrafo(s). Un cero en la posición del capítulo indica que la cita proviene del prólogo. Un cero en la posición de la sección indica que proviene de las observaciones introductorias de ese capítulo.
 
-[^5]: <a id="a561_6"></a>[LU 188:1.2-5,7](/es/The_Urantia_Book/188#p1_2)
+[^5]: <a id="a563_6"></a>[LU 188:1.2-5,7](/es/The_Urantia_Book/188#p1_2)
 
-[^6]: «Morontia» es un término que designa un vasto nivel que interviene entre lo material y lo espiritual. Puede designar realidades personales o impersonales, energías vivas o no vivas. La urdimbre de morontia es espiritual; su trama es física. <a id="a563_242"></a>[LU 0:5.12](/es/The_Urantia_Book/0#p5_12)
+[^6]: «Morontia» es un término que designa un vasto nivel que interviene entre lo material y lo espiritual. Puede designar realidades personales o impersonales, energías vivas o no vivas. La urdimbre de morontia es espiritual; su trama es física. <a id="a565_247"></a>[LU 0:5.12](/es/The_Urantia_Book/0#p5_12)
 
-[^7]: <a id="a565_6"></a>[LU 189:1.2](/es/The_Urantia_Book/189#p1_2)
+[^7]: <a id="a567_6"></a>[LU 189:1.2](/es/The_Urantia_Book/189#p1_2)
 
-[^8]: <a id="a567_6"></a>[LU 189:1.7](/es/The_Urantia_Book/189#p1_7)
+[^8]: <a id="a569_6"></a>[LU 189:1.7](/es/The_Urantia_Book/189#p1_7)
 
-[^9]: <a id="a569_6"></a>[LU 189:2.1-8](/es/The_Urantia_Book/189#p2_1)
+[^9]: <a id="a571_6"></a>[LU 189:2.1-8](/es/The_Urantia_Book/189#p2_1)
 
-[^10]: <a id="a571_7"></a>[LU 189:4.3-10,12-14](/es/The_Urantia_Book/189#p4_3); <a id="a571_61"></a>[LU 189:5.1-5](/es/The_Urantia_Book/189#p5_1)
+[^10]: <a id="a573_7"></a>[LU 189:4.3-10,12-14](/es/The_Urantia_Book/189#p4_3); <a id="a573_61"></a>[LU 189:5.1-5](/es/The_Urantia_Book/189#p5_1)
 
-[^11]: <a id="a573_7"></a>[LU 191:0.4](/es/The_Urantia_Book/191#p0_4)
+[^11]: <a id="a575_7"></a>[LU 191:0.4](/es/The_Urantia_Book/191#p0_4)
 
-[^12]: <a id="a575_7"></a>[LU 190:1.2](/es/The_Urantia_Book/190#p1_2)
+[^12]: <a id="a577_7"></a>[LU 190:1.2](/es/The_Urantia_Book/190#p1_2)
 
 [^13]: http://en.wikipedia.org/wiki/Shroud_of_turin\#cite_note-rogers-3
 
@@ -587,25 +587,25 @@ Según _El Libro de Urantia_, «de todos los conocimientos humanos, el que posee
 
 [^17]: http://www.Shroud.com/guscin.htm
 
-[^18]: <a id="a587_7"></a>[LU 188:1.4](/es/The_Urantia_Book/188#p1_4)
+[^18]: <a id="a589_7"></a>[LU 188:1.4](/es/The_Urantia_Book/188#p1_4)
 
 [^19]: http://www.Shroud.com/guscin.htm
 
-[^20]: <a id="a591_7"></a>[LU 188:1.4](/es/The_Urantia_Book/188#p1_4)
+[^20]: <a id="a593_7"></a>[LU 188:1.4](/es/The_Urantia_Book/188#p1_4)
 
 [^21]: http://www.Shroud.com/guscin.htm
 
-[^22]: <a id="a595_7"></a>[LU 188:1.4](/es/The_Urantia_Book/188#p1_4)
+[^22]: <a id="a597_7"></a>[LU 188:1.4](/es/The_Urantia_Book/188#p1_4)
 
-[^23]: <a id="a597_7"></a>[LU 189:2.1](/es/The_Urantia_Book/189#p2_1)
+[^23]: <a id="a599_7"></a>[LU 189:2.1](/es/The_Urantia_Book/189#p2_1)
 
-[^24]: <a id="a599_7"></a>[LU 189:2.4](/es/The_Urantia_Book/189#p2_4)
+[^24]: <a id="a601_7"></a>[LU 189:2.4](/es/The_Urantia_Book/189#p2_4)
 
-[^25]: <a id="a601_7"></a>[LU 189:2.7,8](/es/The_Urantia_Book/189#p2_7)
+[^25]: <a id="a603_7"></a>[LU 189:2.7,8](/es/The_Urantia_Book/189#p2_7)
 
-[^26]: <a id="a603_7"></a>[LU 189:4.6](/es/The_Urantia_Book/189#p4_6)
+[^26]: <a id="a605_7"></a>[LU 189:4.6](/es/The_Urantia_Book/189#p4_6)
 
-[^27]: <a id="a605_7"></a>[LU 189:4.9](/es/The_Urantia_Book/189#p4_9)
+[^27]: <a id="a607_7"></a>[LU 189:4.9](/es/The_Urantia_Book/189#p4_9)
 
 [^28]: http://www.Shroudofturin.com/Science1.html
 
@@ -623,9 +623,9 @@ Según _El Libro de Urantia_, «de todos los conocimientos humanos, el que posee
 
 [^35]: http://www.dim.unipd.it/fanti/corona.pdf
 
-[^36]: UB <a id="a623_10"></a>[LU 189:2.7](/es/The_Urantia_Book/189#p2_7)
+[^36]: UB <a id="a625_10"></a>[LU 189:2.7](/es/The_Urantia_Book/189#p2_7)
 
-[^37]: UB <a id="a625_10"></a>[LU 189:2.8](/es/The_Urantia_Book/189#p2_8)
+[^37]: UB <a id="a627_10"></a>[LU 189:2.8](/es/The_Urantia_Book/189#p2_8)
 
 [^38]: http://www.shroud.com/pdfs/accett2.pdf
 
@@ -647,17 +647,17 @@ Según _El Libro de Urantia_, «de todos los conocimientos humanos, el que posee
 
 [^47]: http://Shroud.com/pdfs/doclist.pdf
 
-[^48]: UB <a id="a647_10"></a>[LU 120:3.7](/es/The_Urantia_Book/120#p3_7)
+[^48]: UB <a id="a649_10"></a>[LU 120:3.7](/es/The_Urantia_Book/120#p3_7)
 
-[^51]: Urantia Book <a id="a649_20"></a>[LU 189:4.9](/es/The_Urantia_Book/189#p4_9)
+[^51]: Urantia Book <a id="a651_20"></a>[LU 189:4.9](/es/The_Urantia_Book/189#p4_9)
 
-[^52]: Urantia Book <a id="a651_20"></a>[LU 189:5.2](/es/The_Urantia_Book/189#p5_2)
+[^52]: Urantia Book <a id="a653_20"></a>[LU 189:5.2](/es/The_Urantia_Book/189#p5_2)
 
-[^53]: Urantia Book <a id="a653_20"></a>[LU 189:5.3](/es/The_Urantia_Book/189#p5_3)
+[^53]: Urantia Book <a id="a655_20"></a>[LU 189:5.3](/es/The_Urantia_Book/189#p5_3)
 
-[^54]: Urantia Book <a id="a655_20"></a>[LU 196:3.30](/es/The_Urantia_Book/196#p3_30)
+[^54]: Urantia Book <a id="a657_20"></a>[LU 196:3.30](/es/The_Urantia_Book/196#p3_30)
 
-[^55]: Urantia Book <a id="a657_20"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3)
+[^55]: Urantia Book <a id="a659_20"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3)
 
 
 

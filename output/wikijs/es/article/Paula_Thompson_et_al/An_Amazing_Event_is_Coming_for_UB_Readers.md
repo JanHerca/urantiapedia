@@ -44,7 +44,7 @@ El 21 de agosto de 2017, Estados Unidos experimentó un eclipse solar muy poco c
 
 ¿Les resultan familiares estas fechas a los lectores del Libro de Urantia?
 
-Según El Libro de Urantia, el 21 de agosto de 7 a. C. fue la fecha del nacimiento de Jesús (<a id="a46_92"></a>[LU 122:8.1](/es/The_Urantia_Book/122#p8_1)) y el 8 de abril de 30 a. C. es el único día completo en que el cuerpo mortal de Jesús permaneció en la tumba después de su muerte en la cruz (<a id="a46_279"></a>[LU 188:0.1](/es/The_Urantia_Book/188#p0_1)). La comunidad del _Libro de Urantia_ comúnmente conoce esta fecha como el único día completo del «tiempo de la tumba» (<a id="a46_441"></a>[LU 188:0.1](/es/The_Urantia_Book/188#p0_1)).
+Según El Libro de Urantia, el 21 de agosto de 7 a. C. fue la fecha del nacimiento de Jesús (<a id="a46_92"></a>[LU 122:8.1](/es/The_Urantia_Book/122#p8_1)) y el 8 de abril de 30 a. C. es el único día completo en que el cuerpo mortal de Jesús permaneció en la tumba después de su muerte en la cruz (<a id="a46_279"></a>[LU 188:0.1](/es/The_Urantia_Book/188#p0_1)). La comunidad del _Libro de Urantia_ comúnmente conoce esta fecha como el único día completo del «tiempo de la tumba» (<a id="a46_443"></a>[LU 188:0.1](/es/The_Urantia_Book/188#p0_1)).
 
 Sería muy interesante que ocurriera un eclipse solar total en cualquier parte del planeta en cualquiera de estas dos fechas importantes. Sin embargo, que estos _dos_ eclipses ocurran sobre los Estados Unidos en _fechas y horas_ significativas cerca de un _lugar importante_ es mucho más que interesante. Algunos dirían que esto es sólo una coincidencia, y tal vez sea cierto, pero ¿podría ser más? ¿No podría servir también como una llamada de atención para los seguidores de _El Libro de Urantia_?
 
