@@ -88,7 +88,7 @@ MAPS_PUBLIC | Mapa (1) editable por cualquiera | ADMIN | EDITOR | ADMIN | /en/ma
 3DMODEL_PUBLIC | Un modelo 3D | ADMIN | EDITOR | ADMIN (2) | /en/3dmodel/3dmodel_name
 IMAGE | Una imagen, bien un dibujo o esquema o ilustración | EDITOR | EDITOR | EDITOR (3) | /en/image/image_name
 
-1. Los mapas pueden ser 2D o 3D y pueen contener:
+1. Los mapas pueden ser 2D o 3D y pueden contener:
    - Marcas puntuales con mensajes emergentes mostrando localizaciones. Los mensajes pueden tener enlaces a la Wiki o externos.
    - Itinerarios: varios puntos de paso con mensajes emergentes en cada uno mostrando el viaje de una persona o un pueblo. Estos itinerarios se pueden mostrar como animaciones.
    - Áreas: polígonos mostrando localizaciones de algo sin una localización específica como imperios o naciones.

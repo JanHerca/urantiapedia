@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
-At Urantiapedia we are creating a Newspaper Library, a large archive of reader-created articles covering all topics of interest that appear in _The Urantia Book_. Currently the list of planned articles exceeds 4,000.
+At Urantiapedia we are creating a Newspaper Library, a large archive of reader-created articles covering all topics of interest that appear in _The Urantia Book_. Currently the list of planned articles is close to 5,000.
 
 We are not adding articles in PDF or Word format, or as links to other sites. When an article is added, it becomes its own web page within Urantiapedia and is cataloged by author and topic. In the conversion, references to _The Urantia Book_ and other books are corrected to try to link directly to the rest of Urantiapedia, as explained in [Unique Global Reference System for The Urantia Book](/en/help/links#unique-global-reference-system-for-the-urantia-book). This makes articles much more useful because they allow you to navigate between them and the rest of the content, especially _The Urantia Book_, they allow you to search within them, and they are more integrated with the rest of the website.
 

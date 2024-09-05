@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
-En Urantiapedia estamos creando una Hemeroteca, un gran archivo de artículos creados por los lectores que abarcan todos los temas de interés que aparecen _El Libro de Urantia_. Actualmente el listado de artículos previstos supera los 4.000.
+En Urantiapedia estamos creando una Hemeroteca, un gran archivo de artículos creados por los lectores que abarcan todos los temas de interés que aparecen en _El Libro de Urantia_. Actualmente el listado de artículos previstos se acerca a los 5.000.
 
 No estamos añadiendo los artículos en formato PDF o Word, o como enlaces a otros sitios. Cuando un artículo se añade, se convierte en una página web propia dentro de Urantiapedia y se cataloga por autor y por temática. En la conversión se corrigen las referencias a _El Libro de Urantia_ y a otros libros para tratar de enlazar directamente con el resto de la Urantiapedia, tal como se explica en [Sistema global único de referencias de El Libro de Urantia](/es/help/links#sistema-global-único-de-referencias-de-el-libro-de-urantia). De este modo los artículos son mucho más útiles porque permiten navegar entre ellos y el resto del contenido, especialmente _El Libro de Urantia_, permiten búsquedas dentro de ellos y están más integrados con el resto sitio web.
 
