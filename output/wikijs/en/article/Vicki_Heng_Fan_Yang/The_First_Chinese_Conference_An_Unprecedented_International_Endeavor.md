@@ -146,7 +146,7 @@ This is the message of _The Urantia Book_ for the next age—the ideals that wil
 
 Perhaps one day I will visit Taipei once again—with a copy of the Chinese translation, made possible by the tireless and incredibly dedicated translators who have undertaken this immense and difficult task!
 
-> The amazing stability and persistence of Chinese culture is a consequence of the paramount position accorded the family, for civilization is directly dependent on the effective functioning of the family; and in China the family attained a social importance, even a religious significance, approached by few other peoples. <a id="a146_324"></a>[UB 79:8.9](/en/The_Urantia_Book/79#p8_9)
+> The amazing stability and persistence of Chinese culture is a consequence of the paramount position accorded the family, for civilization is directly dependent on the effective functioning of the family; and in China the family attained a social importance, even a religious significance, approached by few other peoples. <a id="a148_324"></a>[UB 79:8.9](/en/The_Urantia_Book/79#p8_9)
 
 ## Georges Michelson-Dupont
 

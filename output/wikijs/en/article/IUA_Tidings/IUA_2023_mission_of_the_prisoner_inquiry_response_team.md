@@ -52,11 +52,11 @@ Clearly the transformative truths revealed within _The Urantia Book_ are infiltr
 
 Please consider joining us as we seek to minister to the least of our brethren on Urantia. The PIRT team is in need of additional volunteers and would be glad to hear from you and answer any questions that you may have. You may contact PIRT by emailing: prt@urantia-association.org
 
-> _And remember that, inasmuch as you minister to one of the least of my brethren, you have done this service to me._ [UB 176:3.5](/en/The_Urantia_Book/176#p3_5)
+> _And remember that, inasmuch as you minister to one of the least of my brethren, you have done this service to me._ <a id="a54_118"></a>[UB 176:3.5](/en/The_Urantia_Book/176#p3_5)
 
-> _And this kingdom shall include the worshiping souls of Jew and gentile, rich and poor, free and bond, for my Father is no_ _respecter_ _of_ _persons__; his love and his mercy are over all._ [UB 137:8.6](/en/The_Urantia_Book/137#p8_6)
+> _And this kingdom shall include the worshiping souls of Jew and gentile, rich and poor, free and bond, for my Father is no_ _respecter_ _of_ _persons__; his love and his mercy are over all._ <a id="a56_193"></a>[UB 137:8.6](/en/The_Urantia_Book/137#p8_6)
 
-> _Because of this_ _high_ _estimate_ _which Jesus placed upon men, he was willing to spend himself in the unremitting service of humankind._  [UB 196:2.10](/en/The_Urantia_Book/196#p2_10)
+> _Because of this_ _high_ _estimate_ _which Jesus placed upon men, he was willing to spend himself in the unremitting service of humankind._  <a id="a58_143"></a>[UB 196:2.10](/en/The_Urantia_Book/196#p2_10)
 
 ## References
 

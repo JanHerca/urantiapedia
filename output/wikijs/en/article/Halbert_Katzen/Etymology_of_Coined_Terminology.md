@@ -31,13 +31,13 @@ _By Halbert Katzen J.D._
 
 Before getting into _Urantia Book_ etymology, an instance of _Urantia Book_ phraseology merits attention. The phrase _world of the cross_ appears four times. Note that between quotation marks and capitalization issues, it is never used the same way twice. Why?
 
-> When the bestowal Sons, Creator or Magisterial, enter the portals of death, they reappear on the third day. But you should not entertain the idea that they always meet with the tragic end encountered by the Creator Son who sojourned on your world nineteen hundred years ago. The extraordinary and unusually cruel experience through which Jesus of Nazareth passed has caused Urantia to become locally known as “the world of the cross.” It is not necessary that such inhuman treatment be accorded a Son of God, and the vast majority of planets have afforded them a more considerate reception, allowing them to finish their mortal careers, terminate the age, adjudicate the sleeping survivors, and inaugurate a new dispensation, without imposing a violent death. A bestowal Son must encounter death, must pass through the whole of the actual experience of mortals of the realms, but it is not a requirement of the divine plan that this death be either violent or unusual. [UB 20:6.6](/en/The_Urantia_Book/20#p6_6)
+> When the bestowal Sons, Creator or Magisterial, enter the portals of death, they reappear on the third day. But you should not entertain the idea that they always meet with the tragic end encountered by the Creator Son who sojourned on your world nineteen hundred years ago. The extraordinary and unusually cruel experience through which Jesus of Nazareth passed has caused Urantia to become locally known as “the world of the cross.” It is not necessary that such inhuman treatment be accorded a Son of God, and the vast majority of planets have afforded them a more considerate reception, allowing them to finish their mortal careers, terminate the age, adjudicate the sleeping survivors, and inaugurate a new dispensation, without imposing a violent death. A bestowal Son must encounter death, must pass through the whole of the actual experience of mortals of the realms, but it is not a requirement of the divine plan that this death be either violent or unusual. <a id="a33_971"></a>[UB 20:6.6](/en/The_Urantia_Book/20#p6_6)
 
-> It was at about this time that Urantia was assigned to the system of Satania for planetary administration and was placed on the life registry of Norlatiadek. Then began the administrative recognition of the small and insignificant sphere which was destined to be the planet whereon Michael would subsequently engage in the stupendous undertaking of mortal bestowal, would participate in those experiences which have since caused Urantia to become locally known as the “world of the cross.” [UB 57:8.6](/en/The_Urantia_Book/57#p8_6)
+> It was at about this time that Urantia was assigned to the system of Satania for planetary administration and was placed on the life registry of Norlatiadek. Then began the administrative recognition of the small and insignificant sphere which was destined to be the planet whereon Michael would subsequently engage in the stupendous undertaking of mortal bestowal, would participate in those experiences which have since caused Urantia to become locally known as the “world of the cross.” <a id="a35_492"></a>[UB 57:8.6](/en/The_Urantia_Book/57#p8_6)
 
-> Urantia is the sentimental shrine of all Nebadon, the chief of ten million inhabited worlds, the mortal home of Christ Michael, sovereign of all Nebadon, a Melchizedek minister to the realms, a system savior, an Adamic redeemer, a seraphic fellow, an associate of ascending spirits, a morontia progressor, a Son of Man in the likeness of mortal flesh, and the Planetary Prince of Urantia. And your record tells the truth when it says that this same Jesus has promised sometime to return to the world of his terminal bestowal, the World of the Cross. [UB 119:8.8](/en/The_Urantia_Book/119#p8_8)
+> Urantia is the sentimental shrine of all Nebadon, the chief of ten million inhabited worlds, the mortal home of Christ Michael, sovereign of all Nebadon, a Melchizedek minister to the realms, a system savior, an Adamic redeemer, a seraphic fellow, an associate of ascending spirits, a morontia progressor, a Son of Man in the likeness of mortal flesh, and the Planetary Prince of Urantia. And your record tells the truth when it says that this same Jesus has promised sometime to return to the world of his terminal bestowal, the World of the Cross. <a id="a37_552"></a>[UB 119:8.8](/en/The_Urantia_Book/119#p8_8)
 
-> Although Jesus did not die this death on the cross to atone for the racial guilt of mortal man nor to provide some sort of effective approach to an otherwise offended and unforgiving God; even though the Son of Man did not offer himself as a sacrifice to appease the wrath of God and to open the way for sinful man to obtain salvation; notwithstanding that these ideas of atonement and propitiation are erroneous, nonetheless, there are significances attached to this death of Jesus on the cross which should not be overlooked. It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.” [UB 188:4.1](/en/The_Urantia_Book/188#p4_1)
+> Although Jesus did not die this death on the cross to atone for the racial guilt of mortal man nor to provide some sort of effective approach to an otherwise offended and unforgiving God; even though the Son of Man did not offer himself as a sacrifice to appease the wrath of God and to open the way for sinful man to obtain salvation; notwithstanding that these ideas of atonement and propitiation are erroneous, nonetheless, there are significances attached to this death of Jesus on the cross which should not be overlooked. It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.” <a id="a39_644"></a>[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)
 
 I make reference to this planet being known as the “World of the Cross” in my etymology of _Urantia_ and with respect to many other coined words. If such a reference is not included, this should not be taken as an intentional omission. Generally speaking, perhaps, we can always consider this as an etymological expression, given the context.
 
@@ -45,7 +45,7 @@ I make reference to this planet being known as the “World of the Cross” in m
 
 ### abandonters
 
-[UB 37:9.12](/en/The_Urantia_Book/37#p9_12) These first order citizens (a) are completely devoted to (abandon) to the masterful (don) perfection (t) of their role (ers).
+<a id="a47_0"></a>[UB 37:9.12](/en/The_Urantia_Book/37#p9_12) These first order citizens (a) are completely devoted to (abandon) to the masterful (don) perfection (t) of their role (ers).
 
 _a:_ first order; first letter of the Roman alphabet, based on Greek alpha (see alpha).
 
@@ -59,20 +59,20 @@ _\-er:_ English agent noun ending, corresponding to Latin _\-or_. In native word
 
 ### agondonters
 
-[UB 50:7.2](/en/The_Urantia_Book/50#p7_2) It’s all about the mental struggle for victory (agon) at the masters level (don)(t) for these “gamers” (ters).
+<a id="a61_0"></a>[UB 50:7.2](/en/The_Urantia_Book/50#p7_2) It’s all about the mental struggle for victory (agon) at the masters level (don)(t) for these “gamers” (ters).
 
 _agony:_ late 14c., “mental suffering” (especially that of Christ in the Garden of Gethsemane), from O.Fr. agonie, agoine “anguish, terror, death agony” (14c.), and directly from L.L. agonia, from Gk. agonia “a (mental) struggle for victory,” originally “a struggle for victory in the games,” from agon “assembly for a contest,” from agein “to lead” (see act (n.)). Sense of “extreme bodily suffering” first recorded c.1600.
 
 _don:_ (noun): 1520s, from Sp. or Port. don, title of respect, from L. dominus “lord, master.” The university sense is c.1660, originally student slang; underworld sense is 1952, from It. don, from L.L. domnus, from L. dominus (see domain). The fem. form is Dona (Spanish/Portuguese), Donna (Italian).
 
 The letter “t” symbolizes the cross.
-[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)  It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.”
+<a id="a68_0"></a>[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)  It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.”
 
 _\-er:_ English agent noun ending, corresponding to Latin _\-or_. In native words it represents Old English _\-ere_ (Old Northumbrian also _\-are_) “man who has to do with,” from Proto-Germanic _\-ari_ (cognates: German _\-er_, Swedish _\-are_, Danish _\-ere_), from Proto-Germanic _\-arjoz_. Some believe this root is identical with, and perhaps a borrowing of, Latin _\-arius_ (see _\-ary_).
 
 ### Alvoring
 
-[UB 32:2.12](/en/The_Urantia_Book/32#p2_12) One of the seven closest Local Universes.
+<a id="a74_0"></a>[UB 32:2.12](/en/The_Urantia_Book/32#p2_12) One of the seven closest Local Universes.
 The place where (A) they nourish growth (Al) with a proactive (vor) attitude (ing).
 
 _Al\-:_ Proto-Indo-European root meaning “to grow, nourish.”
@@ -117,7 +117,7 @@ _\-ite:_ word-forming element indicating origin or derivation from, from French 
 
 ### Andovontia
 
-[UB 37:8.3](/en/The_Urantia_Book/37#p8_3)  Andovontia is the name of the tertiary _Universe Circuit Supervisor_ stationed in our local universe. He is concerned only with spirit and morontia circuits, not with those under the jurisdiction of the power directors. It was he who isolated Urantia at the time of the Caligastia betrayal of the planet during the testing seasons of the Lucifer rebellion. In sending greetings to the mortals of Urantia, he expresses pleasure in the anticipation of your sometime restoration to the universe circuits of his supervision.
+<a id="a119_0"></a>[UB 37:8.3](/en/The_Urantia_Book/37#p8_3)  Andovontia is the name of the tertiary _Universe Circuit Supervisor_ stationed in our local universe. He is concerned only with spirit and morontia circuits, not with those under the jurisdiction of the power directors. It was he who isolated Urantia at the time of the Caligastia betrayal of the planet during the testing seasons of the Lucifer rebellion. In sending greetings to the mortals of Urantia, he expresses pleasure in the anticipation of your sometime restoration to the universe circuits of his supervision.
 
 The individual (An) who acts (do) for the innocent (dov) and with authority from a higher level, in bringing mercy and justice to the “world of the cross” (T) with a personalized touch (ia).
 
@@ -132,13 +132,13 @@ _dovish (adj.):_ 1530s, “like a dove, innocent,” from _dove_ + –_ish_. The
 _on (prep., adv.):_ “in a position above and in contact with; in such a position as to be supported by;” also noting the goal to which some action is or has been directed; “about, concerning, regarding; in a position to cover;” as an adverb, “in or into a position in contact with and supported by the top or upper part of something; in or into place; in place for use or action; into movement or action; in operation,” Old English _on_, unstressed variant of _an_ “in, on, into,” from Proto-Germanic _\*ana_ “on” (source also of Dutch _aan_, German _an_, Gothic _ana_ “on, upon”), from PIE root _\*an-_ (1) “on” (source also of Avestan _ana_ “on,” Greek _ana_ “on, upon,” Latin _an-_, Old Church Slavonic _na_, Lithuanian _nuo_“down from”).
 
 The letter “T” symbolizes the cross.
-[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)  It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.”
+<a id="a134_0"></a>[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)  It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.”
 
 _\-ia:_ Word-forming element in names of countries, diseases, and flowers, from Latin and Greek. _\-ia_, noun ending, in Greek especially used in forming abstract nouns (typically of feminine gender).
 
 ### Assuntia
 
-[UB 41:2.1](/en/The_Urantia_Book/41#p2_1) A neighboring constellation.
+<a id="a140_0"></a>[UB 41:2.1](/en/The_Urantia_Book/41#p2_1) A neighboring constellation.
 All aglow (As), that’s just how they are (sunt) at this place (ia).
 
 _as-_ also _es-_, Proto-Indo-European root meaning “to burn, glow.” It is the hypothetical source of/evidence for its existence is provided by: Sanskrit _asah_ “ashes, dust;” _āra_ “altar, hearth.”
@@ -149,7 +149,7 @@ _\-ia:_ Word-forming element in names of countries, diseases, and flowers, from 
 
 ### Avalon
 
-[UB 32:2.12](/en/The_Urantia_Book/32#p2_12) One of the seven closest Local Universes. Perhaps this is the first Local Universe created in this Minor or Major sector?
+<a id="a151_0"></a>[UB 32:2.12](/en/The_Urantia_Book/32#p2_12) One of the seven closest Local Universes. Perhaps this is the first Local Universe created in this Minor or Major sector?
 A place that started (A) this valuable process (val) of creating life (on).
 
 _A:_ first order; first letter of the Roman alphabet, based on Greek alpha (see alpha).
@@ -160,7 +160,7 @@ _\-on:_ basic genetic element.
 
 ### Avonal
 
-[UB 20:4.5](/en/The_Urantia_Book/20#p4_5) One who is an archetypal (A) and Authorized Version (A.V.) of divine (on) expression (al).
+<a id="a162_0"></a>[UB 20:4.5](/en/The_Urantia_Book/20#p4_5) One who is an archetypal (A) and Authorized Version (A.V.) of divine (on) expression (al).
 
 _A:_ first order; first letter of the Roman alphabet, based on Greek alpha (see alpha).
 
@@ -209,7 +209,7 @@ Etymology by Chris Halvorson: “-a = L. noun suffix (first declensiion, nominat
 
 ### Fanoving
 
-[UB 32:2.12](/en/The_Urantia_Book/32#p2_12) One of the seven closest Local Universes.
+<a id="a211_0"></a>[UB 32:2.12](/en/The_Urantia_Book/32#p2_12) One of the seven closest Local Universes.
 Where being of service (Fa) to the servants of God (nov) is what goes on (ing).
 
 _fa:_ fourth note in Guidonian scale. Used from 13c. in Old French. It represents the first syllable in Latin famulus. _famulus_ (noun); assistant or servant, especially one working for a magician or scholar.
@@ -237,7 +237,7 @@ _\-ant:_ agent or instrumental suffix, from Old French and French -ant, from Lat
 
 ### Glantonia
 
-[UB 41:2.1](/en/The_Urantia_Book/41#p2_1) A neighboring constellation.The way a tiny acorn does not fall far from the tree and then grows into being a might oak (Glan) is what they sing about (ton) here (ia).
+<a id="a239_0"></a>[UB 41:2.1](/en/The_Urantia_Book/41#p2_1) A neighboring constellation.The way a tiny acorn does not fall far from the tree and then grows into being a might oak (Glan) is what they sing about (ton) here (ia).
 
 _glan:_ From Proto-Italic _glānts_, from Proto-Indo-European _gelh-_ (“acorn”).
 
@@ -247,7 +247,7 @@ _\-ia:_ Word-forming element in names of countries, diseases, and flowers, from 
 
 ### Grandfanda
 
-[UB 24:6.8](/en/The_Urantia_Book/24#p6_8)  The name of this pilgrim discoverer of Havona is _Grandfanda,_ and he hailed from planet 341 of system 84 in constellation 62 of local universe 1,131 situated in superuniverse number one. His arrival was the signal for the establishment of the broadcast service of the universe of universes. Theretofore only the broadcasts of the superuniverses and the local universes had been in operation, but the announcement of the arrival of Grandfanda at the portals of Havona signalized the inauguration of the “space reports of glory,” so named because the initial universe broadcast reported the Havona arrival of the first of the evolutionary beings to attain entrance upon the goal of ascendant existence.
+<a id="a249_0"></a>[UB 24:6.8](/en/The_Urantia_Book/24#p6_8)  The name of this pilgrim discoverer of Havona is _Grandfanda,_ and he hailed from planet 341 of system 84 in constellation 62 of local universe 1,131 situated in superuniverse number one. His arrival was the signal for the establishment of the broadcast service of the universe of universes. Theretofore only the broadcasts of the superuniverses and the local universes had been in operation, but the announcement of the arrival of Grandfanda at the portals of Havona signalized the inauguration of the “space reports of glory,” so named because the initial universe broadcast reported the Havona arrival of the first of the evolutionary beings to attain entrance upon the goal of ascendant existence.
 
 Etymology by Chris Halvorson: “the ancestor (grand-) \[of all who\] seek (fand) \[the Father\].”
 
@@ -274,7 +274,7 @@ Etymology by Chris Halvorson:
 
 ### Henselon
 
-[UB 32:2.12](/en/The_Urantia_Book/32#p2_12) One of the seven closest Local Universes.
+<a id="a276_0"></a>[UB 32:2.12](/en/The_Urantia_Book/32#p2_12) One of the seven closest Local Universes.
 This house is ruled (Hen) self-evidently (sel) consistent with its original design, as intended (0n).
 
 _Henry:_ masc. proper name, from French _Henri_, from Late Latin _Henricus_, from German _Heinrich_, from Old High German _Heimerich_, literally “the ruler of the house,” from _heim_ “home” (see _home_ (n.)) + _rihhi_ “ruler” (from PIE root _reg_**–** “move in a straight line,” with derivatives meaning “to direct in a straight line,” thus “to lead, rule”). One of the most popular Norman names after the Conquest. Related: _Henrician_.
@@ -286,7 +286,7 @@ _\-on:_ basic genetic element.
 
 ### Holdant
 
-[UB 45:3.5](/en/The_Urantia_Book/45#p3_5)  4. _The custodian of the system—_Holdant …
+<a id="a288_0"></a>[UB 45:3.5](/en/The_Urantia_Book/45#p3_5)  4. _The custodian of the system—_Holdant …
 “He’s got the whole world in his hands.”
 
 _hold (n.):_ c. 1100, “act of holding;” c. 1200, “grasp, grip,” from Old English _geheald_ (Anglian _gehald_) “keeping, custody, guard; watch, protector, guardian,” from _hold_ (v.).
@@ -297,7 +297,7 @@ _\-ant:_ agent or instrumental suffix, from Old French and French -ant, from Lat
 
 ### Jerusem
 
-[UB 15:7.5](/en/The_Urantia_Book/15#p7_5)  _Jerusem,_ the headquarters of your local system of Satania, has its seven worlds of transition culture, each of which is encircled by seven satellites, among which are the seven mansion worlds of morontia detention, man’s first postmortal residence. As the term heaven has been used on Urantia, it has sometimes meant these seven mansion worlds, the first mansion world being denominated the first heaven, and so on to the seventh.
+<a id="a299_0"></a>[UB 15:7.5](/en/The_Urantia_Book/15#p7_5)  _Jerusem,_ the headquarters of your local system of Satania, has its seven worlds of transition culture, each of which is encircled by seven satellites, among which are the seven mansion worlds of morontia detention, man’s first postmortal residence. As the term heaven has been used on Urantia, it has sometimes meant these seven mansion worlds, the first mansion world being denominated the first heaven, and so on to the seventh.
 
 Etymology by Chris Halvorson: “the “new Jerusalem” ([Rev:21.2](/en/Bible/Revelation/21#v2)).
 
@@ -317,7 +317,7 @@ _forge (v):_ 1769 (with an apparent isolated use from 1610s), “make way, move 
 
 The terrestrial (Lan) celestial ruler (on) designated as leader-teacher (an) based on meritorious accomplishment (dek).
 
-[UB 35:9.1](/en/The_Urantia_Book/35#p9_1)  The Lanonandeks are the continuous rulers of the planets and the rotating sovereigns of the systems. Such a Son now rules on Jerusem, the headquarters of your local system of inhabited worlds.
+<a id="a319_0"></a>[UB 35:9.1](/en/The_Urantia_Book/35#p9_1)  The Lanonandeks are the continuous rulers of the planets and the rotating sovereigns of the systems. Such a Son now rules on Jerusem, the headquarters of your local system of inhabited worlds.
 
 _landed (adj.):_ “possessed of land,” late Old English _gelandod._
 
@@ -336,7 +336,7 @@ This etymology has [its own page](/en/article/Halbert_Katzen/Machiventa_etymolog
 
 ### Majeston
 
-[UB 17:2.3](/en/The_Urantia_Book/17#p2_3) Majeston is a true person, the personal and infallible center of reflectivity phenomena in all seven superuniverses of time and space.
+<a id="a338_0"></a>[UB 17:2.3](/en/The_Urantia_Book/17#p2_3) Majeston is a true person, the personal and infallible center of reflectivity phenomena in all seven superuniverses of time and space.
 The one (M) who is the greatest (Maj) of all story tellers (jest) resonates with (ton) our past experiences (on).
 
 _majesty (n.):_c. 1300, _mageste_, “greatness or grandeur of exalted rank or character, imposing loftiness, stateliness, qualities appropriate to rulership,” from Old French _majeste_ “grandeur, nobility” (12c.), from Latin _maiestatem_ (nominative _maiestas_) “greatness, dignity, elevation, honor, excellence,” from stem of _maior_ (neuter _maius_), comparative of _magnus_ “great, large, big” (of size), “abundant” (of quantity), “great, considerable” (of value), “strong, powerful” (of force); of persons, “elder, aged,” also, figuratively, “great, mighty, grand, important,” from suffixed form of PIE root _meg-_ “great.”
@@ -354,7 +354,7 @@ _on (prep., adv.):_ “in a position above and in contact with; in such a positi
 ### Malavatia
 
 Malavatia Melchizadek appears just once in _The Urantia Book_, as the “sponsor” of Paper 43: The Constellations.
-[UB 43:9.6](/en/The_Urantia_Book/43#p9_6)  \[Sponsored by Malavatia Melchizedek.\]
+<a id="a356_0"></a>[UB 43:9.6](/en/The_Urantia_Book/43#p9_6)  \[Sponsored by Malavatia Melchizedek.\]
 The one who (M) acts as a messenger in Urantia’s Judeo-Christian revelatory lineage (Mala) and who, acting as a sooth-sayer, is a particularly poetic (vat) individual (ia).
 
 _Mala_ = Malachi: masc. proper name, O.T. name of the \*\*last in order\*\* of the Twelve Prophets, from Heb. Mal’akhi, lit. “my messenger,” from mal’akh “messenger,” from Semitic base l-‘-k (cf. Arabic la’aka “he sent”).
@@ -363,13 +363,13 @@ _vat_ = Vates: 1620s, “poet or bard,” specifically “Celtic divinely inspir
 sooth = adj. meaning true or real and as a noun meaning truth or reality.
 
 The letter “T” symbolizes the cross.
-[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)  It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.”
+<a id="a365_0"></a>[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)  It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.”
 
 _\-ia:_ Word-forming element in names of countries, diseases, and flowers, from Latin and Greek. _\-ia_, noun ending, in Greek especially used in forming abstract nouns (typically of feminine gender).
 
 ### mansonia
 
-[UB 47:4.6](/en/The_Urantia_Book/47#p4_6)  … Pause to consider: Mansonia number one is a very material sphere, presenting the early beginnings of the morontia regime. You are still a near human and not far removed from the limited viewpoints of mortal life …
+<a id="a371_0"></a>[UB 47:4.6](/en/The_Urantia_Book/47#p4_6)  … Pause to consider: Mansonia number one is a very material sphere, presenting the early beginnings of the morontia regime. You are still a near human and not far removed from the limited viewpoints of mortal life …
 Where (m) courageous souls (man) are reborn (son) in the spirit world (ia).
 
 _man (n.):_ Old English man, mann “human being, person (male or female); brave man, hero”
@@ -380,7 +380,7 @@ _\-ia:_ Word-forming element in names of countries, diseases, and flowers, from 
 
 ### Mansurotia
 
-[UB 45:3.3](/en/The_Urantia_Book/45#p3_3) The first assistant Sovereign, number 17,841 of the tertiary Lanonandeks.
+<a id="a382_0"></a>[UB 45:3.3](/en/The_Urantia_Book/45#p3_3) The first assistant Sovereign, number 17,841 of the tertiary Lanonandeks.
 The one who (M) courageously steps up (Man) as a replacement (suro) when things go wrong (T) around here (ia).
 
 _mansurus:_ Future active participle of _maneō_ (“I stay, remain”).
@@ -390,13 +390,13 @@ _man (v.):_ Middle English _mannen_, from Old English _mannian_ “to furnish (a
 _surrogate (n.):_ early 15c., from Latin _surrogatus_, past participle of _surrogare_/_subrogare_ “put in another’s place, substitute,” from assimilated form of _sub_ “in the place of, under” (see _sub-_) + _rogare_ “to ask, propose,” apparently a figurative use of a PIE verb meaning literally “to stretch out (the hand),” from root _reg-_ “move in a straight line.” Meaning “woman pregnant with the fertilized egg of another woman” is attested from 1978 (from 1972 of animals; _surrogate mother_ in a psychological sense is from 1971). As an adjective from 1630s.
 
 The letter “T” symbolizes the cross.
-[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)  It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.”
+<a id="a392_0"></a>[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)  It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.”
 
 _\-ia:_ Word-forming element in names of countries, diseases, and flowers, from Latin and Greek. _\-ia_, noun ending, in Greek especially used in forming abstract nouns (typically of feminine gender).
 
 ### Mantutia
 
-[UB 56:10.23](/en/The_Urantia_Book/56#p10_23) [UB 119:8.9](/en/The_Urantia_Book/119#p8_9) Papers in Part II and Part III were provided under the direction of Mantutia Melchizedek.
+<a id="a398_0"></a>[UB 56:10.23](/en/The_Urantia_Book/56#p10_23) <a id="a398_46"></a>[UB 119:8.9](/en/The_Urantia_Book/119#p8_9) Papers in Part II and Part III were provided under the direction of Mantutia Melchizedek.
 An appointed and presiding fifth epochal revelation director of distinction for the World of the Cross.
 
 _man:_ “servant, vassal, adult male considered as under the control of another person,” from Proto-Germanic \*mann-, possible Sanskrit origin.
@@ -408,7 +408,7 @@ _utmost (adj.):_ double superlative of ut “out,” meaning “being of the gre
 _utter (adj.):_ “speak, say,” c. 1400, in part from Middle Dutch uteren or Middle Low German utern “to turn out, show, speak,” from uter “outer.” In part from Middle English verb outen “to disclose,” from Old English utan “to put out.” Compare to German äussern “to utter, express.”
 
 The letter “T” symbolizes the cross.
-[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)  It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.”
+<a id="a410_0"></a>[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)  It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.”
 
 _\-ia:_ Word-forming element in names of countries, diseases, and flowers, from Latin and Greek. _\-ia_, noun ending, in Greek especially used in forming abstract nouns (typically of feminine gender).
 
@@ -424,7 +424,7 @@ _monseigneur (n.):_ French title of honor given to princes, bishops, and other d
 _mamma (n.):_ “mother,” a word used especially by children and infants, 1570s, representing the native form of the reduplication of _ma-_ that is nearly universal among the Indo-European languages (Greek _mamme_ “mother, grandmother,” Latin _mamma_, Persian _mama_, Russian and Lithuanian _mama_ “mother,” German _Muhme_ “mother’s sister,” French _maman_, Welsh _mam_ “mother”).
 
 The letter “T” symbolizes the cross.
-[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)  It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.”
+<a id="a426_0"></a>[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)  It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.”
 
 _\-ia:_ Word-forming element in names of countries, diseases, and flowers, from Latin and Greek. _\-ia_, noun ending, in Greek especially used in forming abstract nouns (typically of feminine gender)
 
@@ -468,7 +468,7 @@ _normality (n.):_ “character or state of being in accordance with rule or stan
 _law (n.):_ Old English _lagu_ (plural _laga_, combining form _lah-_) “ordinance, rule prescribed by authority, regulation; district governed by the same laws;” also sometimes “right, legal privilege,” from Old Norse _lagu_ “law,” collective plural of _lag_ “layer, measure, stroke,” literally “something laid down, that which is fixed or set” from Proto-Germanic _lagam_ “put, lay,” from PIE root _legh-_“to lie, lay” (from PIE root _legh_– “to lie down, lay”). Identical with _lay_ (n) as “that which is set or established.”
 
 The letter “T” symbolizes the cross.
-[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)  It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.”
+<a id="a470_0"></a>[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)  It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.”
 
 _\-ia:_ Word-forming element in names of countries, diseases, and flowers, from Latin and Greek. _\-ia_, noun ending, in Greek especially used in forming abstract nouns (typically of feminine gender)
 
@@ -481,7 +481,7 @@ Etymology by Chris Halvorson: “the northern (nor) law (la) place (-tia) with M
 
 ### Orvonton
 
-[UB 0:0.5](/en/The_Urantia_Book/0#p0_5)  Orvonton is one of the seven evolutionary superuniverses of time and space which circle the never-beginning, never-ending creation of divine perfection—the central universe of _Havona_.
+<a id="a483_0"></a>[UB 0:0.5](/en/The_Urantia_Book/0#p0_5)  Orvonton is one of the seven evolutionary superuniverses of time and space which circle the never-beginning, never-ending creation of divine perfection—the central universe of _Havona_.
 The place to (O) “arise and shine” (Or) with a victory in faith (v) that “overcomes the world” (on) and harmonizes with all those “who have ears to hear.” (ton).
 
 _orior:_ Latin: (present infinitive _orīrī_, perfect active _ortus sum_); third conjugation _iō-variant_, deponent
@@ -505,7 +505,7 @@ The all (pan-) – seeing (op-) place (\-tia). (Literally, the Panoptians are �
 
 ### Porogia
 
-[UB 41:2.1](/en/The_Urantia_Book/41#p2_1) A neighboring constellation.
+<a id="a507_0"></a>[UB 41:2.1](/en/The_Urantia_Book/41#p2_1) A neighboring constellation.
 Drinking in the experience (Po) of solemn supplication (rog) is what this place is all about (ia).
 
 _pō(i)-_ Proto-Indo-European root meaning “to drink.”
@@ -519,7 +519,7 @@ _\-ia:_ Word-forming element in names of countries, diseases, and flowers, from 
 
 ### Portalon
 
-[UB 32:2.12](/en/The_Urantia_Book/32#p2_12) One of the seven closest Local Universes.
+<a id="a521_0"></a>[UB 32:2.12](/en/The_Urantia_Book/32#p2_12) One of the seven closest Local Universes.
 The place that (P) provides a gateway (Portal) to life (on).
 
 _Portal-:_ portal (n.) late 14c., “gate, gateway,” from Old French _portal_ “gate” (Modern French _portail_) and directly from Medieval Latin _portale_ “city gate, porch,” from neuter of _portalis_ (adj.) “of a gate,” from Latin _porta_ “gate,” from PIE _\*prta-_, suffixed form of PIE root \*per- (2) “to lead, pass over.”
@@ -528,7 +528,7 @@ _\-on:_ basic genetic element
 
 ### Rantulia
 
-[UB 41:2.1](/en/The_Urantia_Book/41#p2_1) No need for secondhand religion here (Rant); they have all they need and are way beyond that (ul) in these parts of the universe (ia).
+<a id="a530_0"></a>[UB 41:2.1](/en/The_Urantia_Book/41#p2_1) No need for secondhand religion here (Rant); they have all they need and are way beyond that (ul) in these parts of the universe (ia).
 
 From Wikipedia: The Ranters were one of a number of dissenting groups that emerged around the time of the English Commonwealth (1649–1660). They were largely common people and there is plenty of evidence that the movement was widespread throughout England, though they were not organised and had no leader. … The Ranters denied the authority of churches, of scripture, of the current ministry and of services, instead calling on men to listen to the divine within them. In many ways they resemble the 14th century Brethren of the Free Spirit. In fact, they were causing such controversy, that by the early 1650’s multiple anti-Ranter pamphlets were circulating throughout Britain.
 
@@ -564,7 +564,7 @@ _ibid.:_ “in the same place.”
 
 ### Salsatia
 
-[UB 37:8.4](/en/The_Urantia_Book/37#p8_4)  The Nebadon _Census Director,_ Salsatia, maintains headquarters within the Gabriel sector of Salvington. He is automatically cognizant of the birth and death of will and currently registers the exact number of will creatures functioning in the local universe. He works in close association with the personality recorders domiciled on the record worlds of the archangels.
+<a id="a566_0"></a>[UB 37:8.4](/en/The_Urantia_Book/37#p8_4)  The Nebadon _Census Director,_ Salsatia, maintains headquarters within the Gabriel sector of Salvington. He is automatically cognizant of the birth and death of will and currently registers the exact number of will creatures functioning in the local universe. He works in close association with the personality recorders domiciled on the record worlds of the archangels.
 The one (S) aware of salvation (Sal) satiation (satia).
 
 _salvation (n.):_ c. 1200, originally in the Christian sense, “the saving of the soul,” from Old French _salvaciun_ and directly from Late Latin _salvationem_ (nominative _salvatio_, a Church Latin translation of Greek _soteria_), noun of action from past-participle stem of _salvare_ “to save” (see save (v.)).
@@ -576,14 +576,14 @@ _satiate (v.):_ mid-15c., from Latin _satiatus_, past participle of _satiare_ �
 
 ### Sandmatia
 
-[UB 41:2.1](/en/The_Urantia_Book/41#p2_1) The rough edges get sanded down (Sand), as the process of maturing perfects the time tested souls (mat) of this system (ia).
+<a id="a578_0"></a>[UB 41:2.1](/en/The_Urantia_Book/41#p2_1) The rough edges get sanded down (Sand), as the process of maturing perfects the time tested souls (mat) of this system (ia).
 
 _sand (v.):_ late 14c., Meaning “to grind or polish with sand” is from 1858. Related: _Sanded_; _sanding_.
 
 _mature (v.):_ c. 1400, _maturen_, “encourage suppuration;” mid-15c., of plants, “cause to ripen, bring to maturity,” from Latin _mātūrare_ “to ripen, bring to maturity,” from _mātūrus_ “ripe, timely, early,” related to _māne_“early, of the morning,” from PIE _meh-tu-_ “ripeness.” De Vaan writes that “The root is probably the same as in _mānus_ ‘good’.” Intransitive sense of “come to a state of ripeness, become ripe or perfect” is from 1650s.
 
 The letter “T” symbolizes the cross.
-[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)  It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.”
+<a id="a585_0"></a>[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)  It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.”
 
 _\-ia:_ Word-forming element in names of countries, diseases, and flowers, from Latin and Greek. _\-ia_, noun ending, in Greek especially used in forming abstract nouns (typically of feminine gender).
 
@@ -599,7 +599,7 @@ _\-ic:_ Middle English _\-ik_, _\-ick_, word-forming element making adjectives, 
 
 ### Sanselon
 
-[UB 32:2.12](/en/The_Urantia_Book/32#p2_12) One of the seven closest Local Universes.
+<a id="a601_0"></a>[UB 32:2.12](/en/The_Urantia_Book/32#p2_12) One of the seven closest Local Universes.
 The place where (S) holiness (San) develops in individuals (sel) by design (on).
 
 _San-:_ holy or saintly as in sangrail—Holy Grail.
@@ -611,13 +611,13 @@ _\-on:_ basic genetic element
 
 ### Satania
 
-[UB 15:7.5](/en/The_Urantia_Book/15#p7_5)  _Jerusem,_ the headquarters of your local system of Satania, has its seven worlds of transition culture, each of which is encircled by seven satellites, among which are the seven mansion worlds of morontia detention, man’s first postmortal residence. As the term heaven has been used on Urantia, it has sometimes meant these seven mansion worlds, the first mansion world being denominated the first heaven, and so on to the seventh.
+<a id="a613_0"></a>[UB 15:7.5](/en/The_Urantia_Book/15#p7_5)  _Jerusem,_ the headquarters of your local system of Satania, has its seven worlds of transition culture, each of which is encircled by seven satellites, among which are the seven mansion worlds of morontia detention, man’s first postmortal residence. As the term heaven has been used on Urantia, it has sometimes meant these seven mansion worlds, the first mansion world being denominated the first heaven, and so on to the seventh.
 
 The original, archetypal (S) place of adversity (satan) that turns the impersonal into the personal, the animal into a human, the dead dust into robust life. (-ia, instead of –tia).
 
 ### Serapatatia
 
-[UB 75:2.4](/en/The_Urantia_Book/75#p2_4)  Eve had most scrupulously carried out these instructions for more than one hundred years, and it did not occur to her that any danger would attach to the increasingly private and confidential visits she was enjoying with a certain Nodite leader named Serapatatia.
+<a id="a619_0"></a>[UB 75:2.4](/en/The_Urantia_Book/75#p2_4)  Eve had most scrupulously carried out these instructions for more than one hundred years, and it did not occur to her that any danger would attach to the increasingly private and confidential visits she was enjoying with a certain Nodite leader named Serapatatia.
 He (S) has a “Que sera sera” attitude (Sera) regarding fatherhood (pat) with those close to (at) him (ia).
 
 _sera:_ “Que sera sera.” French truism meaning: Whatever will be will be.
@@ -634,7 +634,7 @@ The one who (S) plays the sage (solon) in life (ia).
 
 ### Sortoria
 
-[UB 41:2.1](/en/The_Urantia_Book/41#p2_1) A neighboring constellation.
+<a id="a636_0"></a>[UB 41:2.1](/en/The_Urantia_Book/41#p2_1) A neighboring constellation.
 There is a destiny (Sort) for what originated (on) here (ia).
 
 _sort (n.):_ late 14c., “group of people, animals, etc.; kind or variety of person or animal,” from Old French _sorte_ “class, kind,” from Latin _sortem_ (nominative _sors_) “lot; fate, destiny; share, portion; rank, category; sex, class, oracular response, prophecy,” from PIE root _ser-_ (2) “to line up.” _Out of sorts_ “not in usual good condition” is attested from 1620s, with literal sense of “out of stock.”
@@ -654,7 +654,7 @@ _\-ia:_ Word-forming element in names of countries, diseases, and flowers, from 
 
 The place focused on getting things fully explained (Splan) is subject to fatherly rule (don).
 
-[UB 18:4.8](/en/The_Urantia_Book/18#p4_8)  The work of the pilgrims of time on the worlds surrounding a major sector headquarters is chiefly of an intellectual nature in contrast with the more physical and material character of the training on the seven educational spheres of a minor sector and with the spiritual undertakings on the four hundred ninety university worlds of a superuniverse headquarters.
+<a id="a656_0"></a>[UB 18:4.8](/en/The_Urantia_Book/18#p4_8)  The work of the pilgrims of time on the worlds surrounding a major sector headquarters is chiefly of an intellectual nature in contrast with the more physical and material character of the training on the seven educational spheres of a minor sector and with the spiritual undertakings on the four hundred ninety university worlds of a superuniverse headquarters.
 
 Consider when reviewing the following notes how we have come to use phrases like, “get on a level playing field” and “smooth things out.”
 
@@ -670,9 +670,9 @@ _don (n.):_ title of respect, 1520s, from Spanish or Portuguese _Don_, a title o
 
 ### Tabamantia
 
-[UB 49:5.12](/en/The_Urantia_Book/49#p5_12) A tabulator (Tab) of the first order (a), who comprehensively evaluates future potentials (mant) of a rebellion seared (T) world (ia).
+<a id="a672_0"></a>[UB 49:5.12](/en/The_Urantia_Book/49#p5_12) A tabulator (Tab) of the first order (a), who comprehensively evaluates future potentials (mant) of a rebellion seared (T) world (ia).
 
-[UB 73:0.3](/en/The_Urantia_Book/73#p0_3)  Tabamantia, sovereign supervisor of the series of decimal or experimental worlds, came to inspect the planet and, after his survey of racial progress, duly recommended that Urantia be granted Material Sons. In a little less than one hundred years from the time of this inspection, Adam and Eve, a Material Son and Daughter of the local system, arrived and began the difficult task of attempting to untangle the confused affairs of a planet retarded by rebellion and resting under the ban of spiritual isolation.
+<a id="a674_0"></a>[UB 73:0.3](/en/The_Urantia_Book/73#p0_3)  Tabamantia, sovereign supervisor of the series of decimal or experimental worlds, came to inspect the planet and, after his survey of racial progress, duly recommended that Urantia be granted Material Sons. In a little less than one hundred years from the time of this inspection, Adam and Eve, a Material Son and Daughter of the local system, arrived and began the difficult task of attempting to untangle the confused affairs of a planet retarded by rebellion and resting under the ban of spiritual isolation.
 
 _tab (noun):_ “account, bill, check,” 1888, American English colloquial, probably a shortened form of tabulation or of tablet in the sense “a sheet for writing on.” Figurative phrase keep a tab on is recorded from 1890.
 
@@ -683,7 +683,7 @@ mantic (adj.): 1850, from Gk. mantikos “prophetic, oracular, of or for a sooth
 manta: very large ray (also called devilfish), 1760, from Sp. manta “blanket” (which is attested in English from 1748 in this sense, specifically in reference to a type of wrap or cloak worn by Spaniards), from L.L. mantum “cloak,” back formation from L. mantellum “cloak” (see mantle (n.)). The ray so called “for being broad and long like a quilt” \[Jorge Juan and Antonio de Ulloa, “A Voyage to South America”\].
 
 The letter “T” symbolizes the cross.
-[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)  It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.”
+<a id="a685_0"></a>[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)  It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.”
 
 _\-ia:_ Word-forming element in names of countries, diseases, and flowers, from Latin and Greek. _\-ia_, noun ending, in Greek especially used in forming abstract nouns (typically of feminine gender).
 
@@ -701,7 +701,7 @@ _uranian (adj.): Urania_ “Heavenly” (Greek _Ourania_) being an epithet of Ap
 _Urania:_ name of the Muse of astronomy and celestial forces, from Latin _Urania_, from Greek _Ourania_, fem. of _ouranios_, literally “heavenly,” from _ouranos_
 
 The letter “T” symbolizes the cross.
-[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)  It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.”
+<a id="a703_0"></a>[UB 188:4.1](/en/The_Urantia_Book/188#p4_1)  It is a fact that Urantia has become known among other neighboring inhabited planets as the “World of the Cross.”
 
 _\-ia:_ Word-forming element in names of countries, diseases, and flowers, from Latin and Greek. _\-ia_, noun ending, in Greek especially used in forming abstract nouns (typically of feminine gender).
 
@@ -715,11 +715,11 @@ The capital of the superuniverse of _Orvonton_. Etymology by Chris Halvorson:
 
 ### Veluntia
 
-[UB 41:4.6](/en/The_Urantia_Book/41#p4_6)  The massive sun of Veluntia, one of the largest in Orvonton …
+<a id="a717_0"></a>[UB 41:4.6](/en/The_Urantia_Book/41#p4_6)  The massive sun of Veluntia, one of the largest in Orvonton …
 
 ### Vevona
 
-[UB 39:5.5](/en/The_Urantia_Book/39#p5_5)  3. _The Souls of Peace._ … Although these angels were largely thwarted in their early efforts on Urantia, Vevona, chief of the souls of peace in Adam’s day, was left on Urantia and is now attached to the staff of the resident governor general. And it was this same Vevona who, when Michael was born, heralded to the worlds, as the leader of the angelic host, “Glory to God in Havona and on earth peace and good will among men.”
+<a id="a721_0"></a>[UB 39:5.5](/en/The_Urantia_Book/39#p5_5)  3. _The Souls of Peace._ … Although these angels were largely thwarted in their early efforts on Urantia, Vevona, chief of the souls of peace in Adam’s day, was left on Urantia and is now attached to the staff of the resident governor general. And it was this same Vevona who, when Michael was born, heralded to the worlds, as the leader of the angelic host, “Glory to God in Havona and on earth peace and good will among men.”
 This living outpost of peace (Ve), who is consecrated in God’s service (vo), is the salt of heaven on earth (na).
 
 vedette (n.) “mounted sentinel placed in advance of an outpost,” from Latin videre “to see” or else from Latin vigil “watchful, awake,” from PIE root \*weg- “to be strong, be lively.”
@@ -730,7 +730,7 @@ Na: chemical symbol for sodium, from Latin natrium
 
 ### Vilton
 
-[UB 45:3.6](/en/The_Urantia_Book/45#p3_6)  5. _The system recorder—_Vilton …
+<a id="a732_0"></a>[UB 45:3.6](/en/The_Urantia_Book/45#p3_6)  5. _The system recorder—_Vilton …
 The one keeping records (V) for this group of planets (Vil) resonates with (ton) our past experiences (on).
 
 _villa (n.):_ 1610s, “country mansion of the ancient Romans,” from Italian _villa_ “country house, villa, farm,” from Latin _villa_ “country house, farm,” related to _vicus_ “village, group of houses,” from PIE _weik- sla-_, suffixed form of root _weik-_ “clan.”
@@ -743,7 +743,7 @@ _on (prep., adv.):_ “in a position above and in contact with; in such a positi
 
 Created prior to (Vor) the celestial terrestrial ruler (on) as a fatherly ruler (da) based on meritorious accomplishment (dek).
 
-[UB 35:5.1](/en/The_Urantia_Book/35#p5_1)  After the creation of the personal aids and the first group of the versatile Melchizedeks, the Creator Son and the local universe Creative Spirit planned for, and brought into existence, the second great and diverse order of universe sonship, the Vorondadeks. They are more generally known as Constellation Fathers because a Son of this order is uniformly found at the head of each constellation government in every local universe.
+<a id="a745_0"></a>[UB 35:5.1](/en/The_Urantia_Book/35#p5_1)  After the creation of the personal aids and the first group of the versatile Melchizedeks, the Creator Son and the local universe Creative Spirit planned for, and brought into existence, the second great and diverse order of universe sonship, the Vorondadeks. They are more generally known as Constellation Fathers because a Son of this order is uniformly found at the head of each constellation government in every local universe.
 
 _vor:_ German, “before, in front of”
 
@@ -762,7 +762,7 @@ It is the hypothetical source of/evidence for its existence is provided by: Sans
 
 ### Wolvering
 
-[UB 32:2.12](/en/The_Urantia_Book/32#p2_12) One of the seven closest Local Universes.
+<a id="a764_0"></a>[UB 32:2.12](/en/The_Urantia_Book/32#p2_12) One of the seven closest Local Universes.
 The place where (W) harmony betweem the spiritual and the material aspects of life (Wol) experiences renewal (ver) as a way of life (ing).
 
 _Wol-:_ Sol (n.)”the sun personified,” mid-15c. (also in Old English), from Latin sol “the sun, sunlight,” from PIE \*s(e)wol-, variant of root \*sawel- “the sun.” French soleil (10c.) is from Vulgar Latin \*soliculus, diminutive of sol; in Vulgar Latin diminutives had the full meaning of their principal words. \[Wikipedia: [Vulgar Latin](https://en.wikipedia.org/wiki/Vulgar_Latin). This is its own noteworthy study. Speculations on how this relates to the given context are welcomed.\]
@@ -776,7 +776,7 @@ _\-ing_: \[Old English _\-ung, -ing_\] (1) action, process (preying, wading); (2
 
 ### Astronomy
 
-[UB 0:0.5](/en/The_Urantia_Book/0#p0_5) Your world, Urantia, is one of many similar inhabited planets which comprise the local universe of _Nebadon._ This universe, together with similar creations, makes up the superuniverse of _Orvonton,_ from whose capital, Uversa, our commission hails. Orvonton is one of the seven evolutionary superuniverses of time and space which circle the never-beginning, never-ending creation of divine perfection—the central universe of _Havona._ At the heart of this eternal and central universe is the stationary Isle of Paradise, the geographic center of infinity and the dwelling place of the eternal God.
+<a id="a778_0"></a>[UB 0:0.5](/en/The_Urantia_Book/0#p0_5) Your world, Urantia, is one of many similar inhabited planets which comprise the local universe of _Nebadon._ This universe, together with similar creations, makes up the superuniverse of _Orvonton,_ from whose capital, Uversa, our commission hails. Orvonton is one of the seven evolutionary superuniverses of time and space which circle the never-beginning, never-ending creation of divine perfection—the central universe of _Havona._ At the heart of this eternal and central universe is the stationary Isle of Paradise, the geographic center of infinity and the dwelling place of the eternal God.
 
 - Paradise astronomy
 	- [**Havona**](#havona)

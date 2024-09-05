@@ -139,17 +139,17 @@ Mankind's deepest, most detailed optical view of the universe - provided courtes
 
 ## Footnotes:
 
-[^1]: Urantia Book <a id="a139_19"></a>[UB 12:2.3](/en/The_Urantia_Book/12#p2_3) References to _The Urantia Book_ are formatted with respect to chapter (referred to as “Papers” in _The Urantia Book_), section, and paragraph. In this example, 12:2.3 refers to Paper 12, section 2, paragraph 3. The word “Urantia,” denoting Earth, is a coined word in _The Urantia Book_, with the etymological meaning “(y)our place in heaven.”
+[^1]: Urantia Book <a id="a141_19"></a>[UB 12:2.3](/en/The_Urantia_Book/12#p2_3) References to _The Urantia Book_ are formatted with respect to chapter (referred to as “Papers” in _The Urantia Book_), section, and paragraph. In this example, 12:2.3 refers to Paper 12, section 2, paragraph 3. The word “Urantia,” denoting Earth, is a coined word in _The Urantia Book_, with the etymological meaning “(y)our place in heaven.”
 [^2]: Michael J. Disney, “Modern Cosmology: Science or Folktale?”, _American Scientist_, SeptemberOctober 2007,385 .
 [^3]: http://klima-luft.de/steinicke/Deep-Sky/deep-sky_e.htm
 [^4]: http://www.urantiabook.org/archive/science/milkyway.htm
 [^5]: Morrison, David, Sidney Wolff \& Andrew Fraknoi. Exploration of the Universe, 7th ed. Philadelphia: Saunders, 1995: 7.
 [^6]: _World Book Encyclopedia_. Chicago: World Book, 1997: 205
 [^7]: http://www.astro.uu.nl/ strous/AA/en/antwoorden/melkwegstelsels.htm|\#13
-[^8]: Urantia Book <a id="a146_19"></a>[UB 15:3.1](/en/The_Urantia_Book/15#p3_1)
-[^9]: Urantia Book <a id="a147_19"></a>[UB 12:1.3](/en/The_Urantia_Book/12#p1_3)
-[^10]: Urantia Book <a id="a148_20"></a>[UB 12:1.8,9](/en/The_Urantia_Book/12#p1_8)
-[^11]: Urantia Book <a id="a149_20"></a>[UB 12:4.14,15](/en/The_Urantia_Book/12#p4_14)
-[^12]: Urantia Book <a id="a150_20"></a>[UB 12:2.3](/en/The_Urantia_Book/12#p2_3)
+[^8]: Urantia Book <a id="a148_19"></a>[UB 15:3.1](/en/The_Urantia_Book/15#p3_1)
+[^9]: Urantia Book <a id="a149_19"></a>[UB 12:1.3](/en/The_Urantia_Book/12#p1_3)
+[^10]: Urantia Book <a id="a150_20"></a>[UB 12:1.8,9](/en/The_Urantia_Book/12#p1_8)
+[^11]: Urantia Book <a id="a151_20"></a>[UB 12:4.14,15](/en/The_Urantia_Book/12#p4_14)
+[^12]: Urantia Book <a id="a152_20"></a>[UB 12:2.3](/en/The_Urantia_Book/12#p2_3)
 [^13]: http://en.wikipedia.org/wiki/Galaxy
 

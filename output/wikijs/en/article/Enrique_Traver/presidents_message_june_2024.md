@@ -42,11 +42,11 @@ _Enrique Traver, Brésil_
 
 Dear Brothers and Sisters
 
-Reading about Jesus' journey back from Rome with Gonod and Ganid, papers [UB 133:4.1](/en/The_Urantia_Book/133#p4_1) up to [UB 133:4.12](/en/The_Urantia_Book/133#p4_12), Jesus meets several people, professionals in different areas of human activity or work and advises them on how they should carry out their daily work to reveal God and do his will. Perhaps, in these papers what Jesus is telling us is that always, in whatever activity or occupation we have, we can minister God to the people around us, revealing truth, goodness, beauty, justice and righteousness.
+Reading about Jesus' journey back from Rome with Gonod and Ganid, papers <a id="a44_73"></a>[UB 133:4.1](/en/The_Urantia_Book/133#p4_1) up to <a id="a44_123"></a>[UB 133:4.12](/en/The_Urantia_Book/133#p4_12), Jesus meets several people, professionals in different areas of human activity or work and advises them on how they should carry out their daily work to reveal God and do his will. Perhaps, in these papers what Jesus is telling us is that always, in whatever activity or occupation we have, we can minister God to the people around us, revealing truth, goodness, beauty, justice and righteousness.
 
 One passage caught my attention and caused me deep reflection, and that was precisely Jesus' conversation with the owner of a Greek inn to whom he said:
 
-To the mistress of the Greek inn he said: **“Minister your hospitality as one who entertains the children of the Most High**. Elevate the drudgery of your daily toil to the high levels of a fine art through the increasing realization that **you minister to God in the persons whom he indwells by his spirit which has descended to live within the hearts of men**, thereby seeking to transform their minds and lead their souls to the knowledge of the Paradise Father of all these bestowed gifts of the divine spirit. [UB 133:4.8](/en/The_Urantia_Book/133#p4_8) \[emphasis added\]
+To the mistress of the Greek inn he said: **“Minister your hospitality as one who entertains the children of the Most High**. Elevate the drudgery of your daily toil to the high levels of a fine art through the increasing realization that **you minister to God in the persons whom he indwells by his spirit which has descended to live within the hearts of men**, thereby seeking to transform their minds and lead their souls to the knowledge of the Paradise Father of all these bestowed gifts of the divine spirit. <a id="a48_515"></a>[UB 133:4.8](/en/The_Urantia_Book/133#p4_8) \[emphasis added\]
 
 Each one of us is an inn. We host God himself within us. Could we have a more illustrious or important guest? Some Most High guest?
 

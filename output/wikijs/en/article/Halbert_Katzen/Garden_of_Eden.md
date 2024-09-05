@@ -198,19 +198,19 @@ For now, at least advances in sonar technology allow us to see a topography betw
 
 [^2]: Research from the last several years, tracing a specific upgrade in the genetic history of human beings, also lends powerful support to *The Urantia Book*'s recounting of the story of Adam and Eve. See [Adam and Eve](/en/article/Halbert_Katzen/Adam_and_Eve).
 
-[^3]: <a id="a203_6"></a>[UB 74:0.1](/en/The_Urantia_Book/74#p0_1)
+[^3]: <a id="a200_6"></a>[UB 74:0.1](/en/The_Urantia_Book/74#p0_1)
 
-[^4]: <a id="a205_6"></a>[UB 73:3.1](/en/The_Urantia_Book/73#p3_1)
+[^4]: <a id="a202_6"></a>[UB 73:3.1](/en/The_Urantia_Book/73#p3_1)
 
-[^5]: <a id="a207_6"></a>[UB 73:7.1](/en/The_Urantia_Book/73#p7_1)
+[^5]: <a id="a204_6"></a>[UB 73:7.1](/en/The_Urantia_Book/73#p7_1)
 
 [^6]: [UB 73-78](/en/The_Urantia_Book/73)
 
 [^7]: *Life Pictorial Atlas of the World*, *Life* magazine and Randy McNally, 1961.
 
-[^8]: <a id="a213_6"></a>[UB 73:3.1-4](/en/The_Urantia_Book/73#p3_1)
+[^8]: <a id="a210_6"></a>[UB 73:3.1-4](/en/The_Urantia_Book/73#p3_1)
 
-[^9]: <a id="a215_6"></a>[UB 73:5.1](/en/The_Urantia_Book/73#p5_1)
+[^9]: <a id="a212_6"></a>[UB 73:5.1](/en/The_Urantia_Book/73#p5_1)
 
 [^10]: Robert Sarmast's research, published in Discovery of Atlantis, led him to conclude that there is link between the mythology of Atlantis and the religious accounts related to Adam and Eve. He believes that the story of Atlantis developed because a new tribe of people came to occupy the architecturally developed Edenic peninsula after Adam, Eve, and their progeny abandoned this area. By the time the peninsula sank, some 4,000 years after Adam and Eve left, it had become disassociated with the civilization they had started. According to Sarmast's research, the connection between Garden of Eden and Atlantis is that they had the same geographic location, but became associated with two different cultures. Sarmast attempted to find vestiges of human civilization at this location between Cyprus and Syria. More can be learned about his work by going to http://discoveryofatlantis.com/. Much thanks goes to him for allowing the UBtheNEWS project to use the images that were created in connection with his work.
 

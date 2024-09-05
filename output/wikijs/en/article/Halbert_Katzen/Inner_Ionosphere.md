@@ -93,7 +93,7 @@ The degree to which current science corroborates the existence of ionic activity
 
 The issue of human sources in the creation of _The Urantia Book_ comes up because _The Urantia Book_ claims to have been written by angels. _The Urantia Book_ explains the wisdom guiding the permissions and limitations placed on the angelic authors with regard to the presentation of information. The following quotes are germane to this aspect of _The Urantia Book_:
 
-> We have been instructed to introduce new terms only when the concept to be portrayed finds no terminology in English which can be employed to convey such a new concept partially or even with more or less distortion of meaning. (<a id="a95_231"></a>[Urantia Book: Forward, paragraph 2](/en/The_Urantia_Book/0#p2))
+> We have been instructed to introduce new terms only when the concept to be portrayed finds no terminology in English which can be employed to convey such a new concept partially or even with more or less distortion of meaning. (<a id="a95_230"></a>[Urantia Book: Forward, paragraph 2](/en/The_Urantia_Book/0#p2))
 
 > Because your world is generally ignorant of origins, even of physical origins, it has appeared to be wise from time to time to provide instruction in cosmology. And always has this made trouble for the future. The laws of revelation hamper us greatly by their proscription of the impartation of unearned or premature knowledge. Any cosmology presented as a part of revealed religion is destined to be outgrown in a very short time. Accordingly, future students of such a revelation are tempted to discard any element of genuine religious truth it may contain because they discover errors on the face of the associated cosmologies therein presented.
 > 
@@ -165,7 +165,7 @@ This large blue jet, shooting upwards from a thunderstorm's top, reached an uppe
 - [This report in UBTheNews](https://ubannotated.com/ubthenews/topics/ionosphere/)
 - [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
 - [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
-- <a id="a165_2"></a>[Urantia Book 58:2](/en/The_Urantia_Book/58#p2)
+- <a id="a167_2"></a>[Urantia Book 58:2](/en/The_Urantia_Book/58#p2)
 - http://physicsweb.org/articles/news/6/3/9
 - http://news.nationalgeographic.com/news/2003/06/0625_030625_atmospherethunder.html
 - http://adsabs.harvard.edu/abs/2000PhDT29H

@@ -46,7 +46,7 @@ A superb, comfortably appointed center, with indoor pool, 232 rooms, 55 meeting 
 
 The name Maritime, referring to all that is nautical, has inspired more than one reader on the following quote from _The Urantia Book_:
 
-> The mind is your ship, the Adjuster is your pilot, the human will is the captain. The master of the mortal vessel should have the wisdom to trust the divine pilot to lead the ascending soul into the morontia havens of eternal survival. [UB 111:1.9](/en/The_Urantia_Book/111#p1_9)
+> The mind is your ship, the Adjuster is your pilot, the human will is the captain. The master of the mortal vessel should have the wisdom to trust the divine pilot to lead the ascending soul into the morontia havens of eternal survival. <a id="a48_238"></a>[UB 111:1.9](/en/The_Urantia_Book/111#p1_9)
 
 The two days were occupied by a very well-orchestrated program. I liked the format adopted. In the auditorium, there were four presentations a day lasting a maximum of 20 minutes, so there was no time to fall asleep. Although there were some technical glitches, a link was provided for simultaneous translation into French, English, Spanish and Portuguese.
 

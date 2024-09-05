@@ -88,7 +88,7 @@ In the afternoons there will be two field trips for the Big Kids and Teens. Loca
 
 If you are already registered for the conference, be sure to tell us that your kids are coming. Email us at [uausconference2024@gmail.com](mailto:uausconference2024@gmail.com) with any questions.
 
-> _Mind is your ship, the Adjuster is your pilot, the human will is captain. The master of the mortal vessel should have the wisdom to trust the divine pilot to guide the ascending soul into the morontia harbors of eternal_ _survival._ [UB 111:1.9](/en/The_Urantia_Book/111#p1_9)
+> _Mind is your ship, the Adjuster is your pilot, the human will is captain. The master of the mortal vessel should have the wisdom to trust the divine pilot to guide the ascending soul into the morontia harbors of eternal_ _survival._ <a id="a90_236"></a>[UB 111:1.9](/en/The_Urantia_Book/111#p1_9)
 
 **Come and set sail with us!**
 

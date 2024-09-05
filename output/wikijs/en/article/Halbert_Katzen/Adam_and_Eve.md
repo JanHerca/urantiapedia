@@ -632,43 +632,43 @@ Naturally, based on the overall trend toward corroborations of historical and sc
 
 [^2]: Tonal languages, as opposed to non-tonal languages, are those that use different tones or turning points to distinguish meanings in words that would otherwise sound identical. The clearest example is China. https://en.wikipedia.org/wiki/Tone_(linguistics)
 
-[^3]: <a id="a633_6"></a>[UB 62:5.1](/en/The_Urantia_Book/62#p5_1) Year 991,485 B.C. *The Urantia Book* gives many dates relative to the year 1934 because although it was first published in 1955, it was finished much earlier, in 1934.
+[^3]: <a id="a634_6"></a>[UB 62:5.1](/en/The_Urantia_Book/62#p5_1) Year 991,485 B.C. *The Urantia Book* gives many dates relative to the year 1934 because although it was first published in 1955, it was finished much earlier, in 1934.
 
-[^4]: <a id="a635_6"></a>[UB 74:0.1](/en/The_Urantia_Book/74#p0_1) Year 35,914 B.C.
+[^4]: <a id="a636_6"></a>[UB 74:0.1](/en/The_Urantia_Book/74#p0_1) Year 35,914 B.C.
 
-[^5]: <a id="a637_6"></a>[UB 76:1.3](/en/The_Urantia_Book/76#p1_3)
+[^5]: <a id="a638_6"></a>[UB 76:1.3](/en/The_Urantia_Book/76#p1_3)
 
-[^6]: <a id="a639_6"></a>[UB 81:5.1](/en/The_Urantia_Book/81#p5_1)
+[^6]: <a id="a640_6"></a>[UB 81:5.1](/en/The_Urantia_Book/81#p5_1)
 
-[^7]: <a id="a641_6"></a>[UB 52:3.6](/en/The_Urantia_Book/52#p3_6)
+[^7]: <a id="a642_6"></a>[UB 52:3.6](/en/The_Urantia_Book/52#p3_6)
 
-[^8]: <a id="a643_6"></a>[UB 76:4.7](/en/The_Urantia_Book/76#p4_7)
+[^8]: <a id="a644_6"></a>[UB 76:4.7](/en/The_Urantia_Book/76#p4_7)
 
-[^9]: <a id="a645_6"></a>[UB 78:5.7](/en/The_Urantia_Book/78#p5_7)
+[^9]: <a id="a646_6"></a>[UB 78:5.7](/en/The_Urantia_Book/78#p5_7)
 
-[^10]: <a id="a647_7"></a>[UB 78:5.5](/en/The_Urantia_Book/78#p5_5)
+[^10]: <a id="a648_7"></a>[UB 78:5.5](/en/The_Urantia_Book/78#p5_5)
 
-[^11]: <a id="a649_7"></a>[UB 78:5.3](/en/The_Urantia_Book/78#p5_3)
+[^11]: <a id="a650_7"></a>[UB 78:5.3](/en/The_Urantia_Book/78#p5_3)
 
 [^12]: A haplogroup, or set of haplotypes, is in genetics a large group of gene combinations that are passed on to offspring together. https://en.wikipedia.org/wiki/Haplogroup
 
 [^13]: A clade is what is called in biology each of the branches that are obtained after making a single cut in the phylogenetic tree. It begins with a common ancestor and consists of all its descendants, which form a single branch on the tree of life. https://en.wikipedia.org/wiki/Clade
 
-[^14]: <a id="a655_7"></a>[UB 81:5.1](/en/The_Urantia_Book/81#p5_1)
+[^14]: <a id="a656_7"></a>[UB 81:5.1](/en/The_Urantia_Book/81#p5_1)
 
-[^15]: <a id="a657_7"></a>[UB 78:4.5](/en/The_Urantia_Book/78#p4_5)
+[^15]: <a id="a658_7"></a>[UB 78:4.5](/en/The_Urantia_Book/78#p4_5)
 
-[^16]: <a id="a659_7"></a>[UB 78:4.6](/en/The_Urantia_Book/78#p4_6)
+[^16]: <a id="a660_7"></a>[UB 78:4.6](/en/The_Urantia_Book/78#p4_6)
 
-[^17]: <a id="a661_7"></a>[UB 65:5.2](/en/The_Urantia_Book/65#p5_2)
+[^17]: <a id="a662_7"></a>[UB 65:5.2](/en/The_Urantia_Book/65#p5_2)
 
-[^18]: <a id="a663_7"></a>[UB 65:5.2](/en/The_Urantia_Book/65#p5_2)
+[^18]: <a id="a664_7"></a>[UB 65:5.2](/en/The_Urantia_Book/65#p5_2)
 
-[^19]: <a id="a665_7"></a>[UB 65:5.2](/en/The_Urantia_Book/65#p5_2)
+[^19]: <a id="a666_7"></a>[UB 65:5.2](/en/The_Urantia_Book/65#p5_2)
 
-[^20]: <a id="a667_7"></a>[UB 76:4.7](/en/The_Urantia_Book/76#p4_7)
+[^20]: <a id="a668_7"></a>[UB 76:4.7](/en/The_Urantia_Book/76#p4_7)
 
-[^21]: <a id="a669_7"></a>[UB 51:1.3](/en/The_Urantia_Book/51#p1_3)
+[^21]: <a id="a670_7"></a>[UB 51:1.3](/en/The_Urantia_Book/51#p1_3)
 
 [^22]: *Human Brain Is Still Evolving*, *Howard Hugues Medical Institute*, sept. 2005, http://www.hhmi.org/news/lahn4.html [LAHN article]
 
@@ -684,55 +684,55 @@ Naturally, based on the overall trend toward corroborations of historical and sc
 
 [^28]: Patrick D. Evans, Nitzan Mekel-Bobrov, Eric J. Vallender, Richard R. Hudson, y Bruce T. Lahn; *Evidence that the adaptive allele of the brain size gene microcephalin introgressed into Homo sapiens from an archaic Homo lineage*, *Proceedings of the National Academy of Sciences* (PNAS); http://www.pnas.org/content/103/48/18178.full, [PNAS article]
 
-[^29]: <a id="a685_7"></a>[UB 74:0.1](/en/The_Urantia_Book/74#p0_1)
+[^29]: <a id="a686_7"></a>[UB 74:0.1](/en/The_Urantia_Book/74#p0_1)
 
-[^30]: <a id="a687_7"></a>[UB 62:5.1](/en/The_Urantia_Book/62#p5_1)
+[^30]: <a id="a688_7"></a>[UB 62:5.1](/en/The_Urantia_Book/62#p5_1)
 
-[^31]: <a id="a689_7"></a>[UB 63:1.1](/en/The_Urantia_Book/63#p1_1)
+[^31]: <a id="a690_7"></a>[UB 63:1.1](/en/The_Urantia_Book/63#p1_1)
 
-[^32]: <a id="a691_7"></a>[UB 51:1.3](/en/The_Urantia_Book/51#p1_3)
+[^32]: <a id="a692_7"></a>[UB 51:1.3](/en/The_Urantia_Book/51#p1_3)
 
 [^33]: Bruce T. Lahn; *Could Interbreeding Between Humans and Neanderthals Have Led to an Enhanced Human Brain?*; Howard Hughes Medical Institute, 6/11/2006, http://www.hhmi.org/news/lahn20061006.html [LAHN2 article]
 
-[^34]: <a id="a695_7"></a>[UB 78:3.2](/en/The_Urantia_Book/78#p3_2)
+[^34]: <a id="a696_7"></a>[UB 78:3.2](/en/The_Urantia_Book/78#p3_2)
 
-[^35]: <a id="a697_7"></a>[UB 78:3.3](/en/The_Urantia_Book/78#p3_3)
+[^35]: <a id="a698_7"></a>[UB 78:3.3](/en/The_Urantia_Book/78#p3_3)
 
-[^36]: <a id="a699_7"></a>[UB 78:3.5](/en/The_Urantia_Book/78#p3_5)
+[^36]: <a id="a700_7"></a>[UB 78:3.5](/en/The_Urantia_Book/78#p3_5)
 
-[^37]: <a id="a701_7"></a>[UB 78:2.5](/en/The_Urantia_Book/78#p2_5)
+[^37]: <a id="a702_7"></a>[UB 78:2.5](/en/The_Urantia_Book/78#p2_5)
 
-[^38]: <a id="a703_7"></a>[UB 78:5.7](/en/The_Urantia_Book/78#p5_7)
+[^38]: <a id="a704_7"></a>[UB 78:5.7](/en/The_Urantia_Book/78#p5_7)
 
-[^39]: <a id="a705_7"></a>[UB 64:6.26](/en/The_Urantia_Book/64#p6_26)
+[^39]: <a id="a706_7"></a>[UB 64:6.26](/en/The_Urantia_Book/64#p6_26)
 
-[^40]: <a id="a707_7"></a>[UB 78:5.5](/en/The_Urantia_Book/78#p5_5)
+[^40]: <a id="a708_7"></a>[UB 78:5.5](/en/The_Urantia_Book/78#p5_5)
 
-[^41]: <a id="a709_7"></a>[UB 78:5.8](/en/The_Urantia_Book/78#p5_8)
+[^41]: <a id="a710_7"></a>[UB 78:5.8](/en/The_Urantia_Book/78#p5_8)
 
-[^42]: <a id="a711_7"></a>[UB 76:1.1](/en/The_Urantia_Book/76#p1_1)
+[^42]: <a id="a712_7"></a>[UB 76:1.1](/en/The_Urantia_Book/76#p1_1)
 
-[^43]: <a id="a713_7"></a>[UB 76:1.3](/en/The_Urantia_Book/76#p1_3)
+[^43]: <a id="a714_7"></a>[UB 76:1.3](/en/The_Urantia_Book/76#p1_3)
 
-[^44]: <a id="a715_7"></a>[UB 78:0.1](/en/The_Urantia_Book/78#p0_1)
+[^44]: <a id="a716_7"></a>[UB 78:0.1](/en/The_Urantia_Book/78#p0_1)
 
-[^45]: <a id="a717_7"></a>[UB 78:1.3](/en/The_Urantia_Book/78#p1_3)
+[^45]: <a id="a718_7"></a>[UB 78:1.3](/en/The_Urantia_Book/78#p1_3)
 
-[^46]: <a id="a719_7"></a>[UB 62:4.3](/en/The_Urantia_Book/62#p4_3)
+[^46]: <a id="a720_7"></a>[UB 62:4.3](/en/The_Urantia_Book/62#p4_3)
 
-[^47]: <a id="a721_7"></a>[UB 81:5.1](/en/The_Urantia_Book/81#p5_1)
+[^47]: <a id="a722_7"></a>[UB 81:5.1](/en/The_Urantia_Book/81#p5_1)
 
-[^48]: <a id="a723_7"></a>[UB 76:6.4](/en/The_Urantia_Book/76#p6_4)
+[^48]: <a id="a724_7"></a>[UB 76:6.4](/en/The_Urantia_Book/76#p6_4)
 
-[^49]: <a id="a725_7"></a>[UB 73:7.3](/en/The_Urantia_Book/73#p7_3)
+[^49]: <a id="a726_7"></a>[UB 73:7.3](/en/The_Urantia_Book/73#p7_3)
 
-[^50]: <a id="a727_7"></a>[UB 73:7.4](/en/The_Urantia_Book/73#p7_4)
+[^50]: <a id="a728_7"></a>[UB 73:7.4](/en/The_Urantia_Book/73#p7_4)
 
-[^51]: <a id="a729_7"></a>[UB 76:4.8](/en/The_Urantia_Book/76#p4_8)
+[^51]: <a id="a730_7"></a>[UB 76:4.8](/en/The_Urantia_Book/76#p4_8)
 
-[^52]: <a id="a731_7"></a>[UB 78:1.3](/en/The_Urantia_Book/78#p1_3)
+[^52]: <a id="a732_7"></a>[UB 78:1.3](/en/The_Urantia_Book/78#p1_3)
 
-[^53]: <a id="a733_7"></a>[UB 78:5.1-3](/en/The_Urantia_Book/78#p5_1)
+[^53]: <a id="a734_7"></a>[UB 78:5.1-3](/en/The_Urantia_Book/78#p5_1)
 
 [^54]: A panmictic population is one where all individuals are potential partners. This assumes that there are no mating restrictions, neither genetic or behavioural, upon the population, and that therefore all recombination is possible. http://en.wikipedia.org/wiki/Panmictic
 
@@ -742,14 +742,14 @@ Naturally, based on the overall trend toward corroborations of historical and sc
 
 [^57]: Dan Dediu y D. Robert Ladd, *Linguistic tone is related to the population frequency of the adaptive haplogroups of two brain size genes, ASPM and Microcephalin*, *PNAS*, june 2007, http://www.pnas.org/content/104/26/10944.full.pdf, [PNAS2 article]
 
-[^58]: <a id="a743_7"></a>[UB 78:5.3](/en/The_Urantia_Book/78#p5_3)
+[^58]: <a id="a744_7"></a>[UB 78:5.3](/en/The_Urantia_Book/78#p5_3)
 
-[^59]: <a id="a745_7"></a>[UB 52:3.6](/en/The_Urantia_Book/52#p3_6)
+[^59]: <a id="a746_7"></a>[UB 52:3.6](/en/The_Urantia_Book/52#p3_6)
 
-[^60]: <a id="a747_7"></a>[UB 81:5.1](/en/The_Urantia_Book/81#p5_1)
+[^60]: <a id="a748_7"></a>[UB 81:5.1](/en/The_Urantia_Book/81#p5_1)
 
 [^61]: Antonio Regalado, *Scientist's Study Of Brain Genes Sparks a Backlash*, *Wall Street Journal*, 6/6/2006, https://www.wsj.com/articles/SB115040765329081636
 
-[^62]: <a id="a751_7"></a>[UB 85:5.1](/en/The_Urantia_Book/85#p5_1)
+[^62]: <a id="a752_7"></a>[UB 85:5.1](/en/The_Urantia_Book/85#p5_1)
 
-[^63]: <a id="a753_7"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2)
+[^63]: <a id="a754_7"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2)

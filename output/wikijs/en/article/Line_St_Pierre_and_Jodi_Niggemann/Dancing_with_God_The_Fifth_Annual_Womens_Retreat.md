@@ -47,7 +47,7 @@ _Editor's Note: The fifth annual women's retreat, held September 13-16, at 533 W
 
 The second floor of 533 was blessed with prayers, laughter, and tears by participants in the Dancing with God retreat, facilitated by Carrie Prentice, Doreen Heyne, Katharina Becker, and Line St-Pierre—the “Daughters of God” team.
 
-As _The Urantia Book_ reminds us, “Man does not unite with the Supreme and submerge his personal identity, but the universe repercussions of the experience of all men do thus form a part of the divine experiencing of the Supreme. ‘The act is ours, the consequences God's.’” <a id="a48_274"></a>[UB 117:5.5](/en/The_Urantia_Book/117#p5_5)
+As _The Urantia Book_ reminds us, “Man does not unite with the Supreme and submerge his personal identity, but the universe repercussions of the experience of all men do thus form a part of the divine experiencing of the Supreme. ‘The act is ours, the consequences God's.’” <a id="a49_274"></a>[UB 117:5.5](/en/The_Urantia_Book/117#p5_5)
 
 Among our group of 14 women, we had the immense pleasure of hosting a guest who came from South Africa to literally “see if Urantia Foundation was real.” How delighted she was to find out that not only was the Foundation real, but many students of this revelation were courageously living God's love around them in the world even amidst challenges and life crises, which was the subtheme of the retreat.
 

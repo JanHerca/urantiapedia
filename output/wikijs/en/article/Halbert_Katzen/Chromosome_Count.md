@@ -115,15 +115,15 @@ Therefore, when it was published in 1955, the authors of _The Urantia Book_ made
 
 ## Footnotes:
 
-[^1]: <a id="a115_6"></a>[UB 36:2.4](/en/The_Urantia_Book/36#p2_4) Citations to _The Urantia Book_ are provided as Paper:Section.Paragraph. “Papers” can be thought of as “Chapters.” “Urantia” is a coined word with the etymological meaning “(y)our place in the heavens.”
+[^1]: <a id="a117_6"></a>[UB 36:2.4](/en/The_Urantia_Book/36#p2_4) Citations to _The Urantia Book_ are provided as Paper:Section.Paragraph. “Papers” can be thought of as “Chapters.” “Urantia” is a coined word with the etymological meaning “(y)our place in the heavens.”
 
-[^2]: <a id="a117_6"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2)
+[^2]: <a id="a119_6"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2)
 
-[^3]: <a id="a119_6"></a>[UB 101:4.5](/en/The_Urantia_Book/101#p4_5)
+[^3]: <a id="a121_6"></a>[UB 101:4.5](/en/The_Urantia_Book/101#p4_5)
 
 [^4]: http://www.answers.com/topic/cosmology
 
-[^5]: <a id="a123_6"></a>[UB 77:2.5](/en/The_Urantia_Book/77#p2_5)
+[^5]: <a id="a125_6"></a>[UB 77:2.5](/en/The_Urantia_Book/77#p2_5)
 
 [^6]: http://en.wikipedia.org/wiki/Cytogenetics
 

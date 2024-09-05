@@ -68,7 +68,7 @@ Our cultures may be different, but women are the same and have the same concerns
 
 This trip was meant for me to meet people on spiritual ground where bonding in action can expand. Just like a spiral that starts with one idea or concept and is elevated by something more, it continues on as the spiral grows wider and higher. While they inspired me in 2010, when I returned to share my project on educating women, they told me that I was an inspiration to them through what I do. We do not always realize the extent of our actions.
 
-> The God-knowing man describes his spiritual experiences, not to convince unbelievers, but for the edification and mutual satisfaction of believers. <a id="a72_150"></a>[UB 1:6.6](/en/The_Urantia_Book/1#p6_6)
+> The God-knowing man describes his spiritual experiences, not to convince unbelievers, but for the edification and mutual satisfaction of believers. <a id="a70_150"></a>[UB 1:6.6](/en/The_Urantia_Book/1#p6_6)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2013_06/048.jpg">
