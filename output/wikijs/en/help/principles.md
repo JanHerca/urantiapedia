@@ -83,6 +83,9 @@ Let's see this principles in more detail.
 
 ## Principle I. Multi-language
 
+> We want all knowledge about *The Urantia Book* to be available in all possible languages ​​so that these difficult revelations can be *natively* understood by the largest possible population.
+{.is-info}
+
 [Urantia Foundation](https://www.urantia.org/) and associations has done a great job in translations of *The Urantia Book*, but we need to go beyond that.
 
 Consider this facts about translations:
@@ -124,6 +127,9 @@ If anyone says: Do we all have to start learning a second language now to be pro
 
 ## Principle II. Multi-collaborative
 
+> We want this work of gathering content about *The Urantia Book* to be done collaboratively and without risks, as part of a team effort.
+{.is-info}
+
 There are many websites about *Urantia Book*, we have seen them, and we don't know of a single one that is a Wiki with the capacity to be updated without risk by dozens of users at the same time.
 
 Pages from Associations and others are actually blogs where if you want to collaborate with secondary works you have to send them to the site administrator. There is no agility, there is no collaboration, there are no mechanisms that allow several people to work “at the same time” on the same content safely.
@@ -151,7 +157,10 @@ The important thing is not who writes what, but how many people can be reached w
 
 Of course *Urantiapedia* is designed to have permissions. Users that wants to upload content in which they are the only allowed ones to change can do that. We can set permissions in a folder for only one user or a few users so they are the only ones that can update the pages inside that folder. A common scenario is a user that wants to upload articles or study aids to *Urantiapedia* but doesn’t want to allow anybody to change them. We can do that of course. Although we encourage all users to let the community to update anything.
 
-## Principle III. Selflessness 
+## Principle III. Selflessness
+
+> We want this project to be one of altruistic service to others, especially to future generations.
+{.is-info}
 
 We need more tan anything inspired people, not money.
 
@@ -162,6 +171,9 @@ We need more tan anything inspired people, not money.
 * The costs will be always maintained as low as possible. The most costly part is creation of content and that part will always be selfless and voluntary.
 
 ## Principle IV. Completeness
+
+> We want this website to be a center open to all revelation and to all readers, a place to find all the thoughts and ideas of those who have preceded us.
+{.is-info}
 
 *Urantiapedia* aims to comprise everything related to whole *Urantia Book*, not just parts of it.
 

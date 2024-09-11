@@ -83,6 +83,9 @@ Vamos ver esses princípios com mais detalhes.
 
 ## Princípio I. Multilíngue
 
+> Queremos que todo o conhecimento sobre *O Livro de Urântia* esteja disponível em todas as línguas possíveis, para que estas difíceis revelações possam ser compreendidas *nativamente* pela maior população.
+{.is-info}
+
 A [Fundação Urântia](https://www.urantia.org/) e associações fizeram um ótimo trabalho nas traduções do *O Livro de Urântia*, mas precisamos ir além disso.
 
 Considere estes fatos sobre traduções:
@@ -124,6 +127,9 @@ Se alguém disser: Todos nós temos que começar a aprender uma segunda língua 
 
 ## Princípio II. Multi-colaborativo
 
+> Queremos que este trabalho de recolha de conteúdos sobre *O Livro de Urântia* seja feito de forma colaborativa e sem riscos, como parte do trabalho de equipa.
+{.is-info}
+
 Existem muitos sites sobre *Urântia Book*, nós os vimos, e não conhecemos um único que seja um Wiki com a capacidade de ser atualizado sem risco por dezenas de usuários ao mesmo tempo.
 
 Páginas de Associações e outros são na verdade blogs onde se você quiser colaborar com trabalhos secundários você deve enviá-los ao administrador do site. Não há agilidade, não há colaboração, não há mecanismos que permitam que várias pessoas trabalhem “ao mesmo tempo” no mesmo conteúdo com segurança.
@@ -153,6 +159,9 @@ Claro que *Urantiapedia* foi projetado para ter permissões. Os usuários que de
 
 ## Princípio III. Altruísmo
 
+> Queremos que este projecto seja um projecto de serviço altruísta para com os outros, especialmente para com as gerações futuras.
+{.is-info}
+
 Precisamos de mais pessoas inspiradas em qualquer coisa, não de dinheiro.
 
 * Pessoas inspiradas, pessoas altruístas que querem colaborar e servir sem esperar recompensa são as pessoas que trazem o melhor trabalho. Precisamos antes de tudo desse tipo de colaboradores.
@@ -162,6 +171,9 @@ Precisamos de mais pessoas inspiradas em qualquer coisa, não de dinheiro.
 * Os custos serão sempre mantidos o mais baixo possível. A parte mais cara é a criação de conteúdo e essa parte sempre será altruísta e voluntária.
 
 ## Princípio IV. Completude
+
+> Queremos que este site seja um centro aberto a todas as revelações e a todos os leitores, um lugar para encontrar todos os pensamentos e ideias daqueles que nos antecederam.
+{.is-info}
 
 *Urântiapédia* visa abranger tudo relacionado ao *Livro de Urântia* inteiro, não apenas partes dele.
 

@@ -83,6 +83,9 @@ Veamos estos principios en más detalle.
 
 ## Principio I. Multi-idioma
 
+> Queremos que todo el conocimiento sobre *El Libro de Urantia* esté disponible en todos los idiomas posibles para que estas difíciles revelaciones puedan ser comprendidas *nativamente* por la mayor cantidad de población.
+{.is-info}
+
 La [Fundación Urantia](https://www.urantia.org/) y las asociaciones han hecho un gran trabajo en la traducción de *El libro de Urantia*, pero hay que ir más allá de eso.
 
 Considera estos hechos acerca de las traducciones:
@@ -124,6 +127,9 @@ Si alguien dice: ¿Todos tenemos que empezar a aprender una segunda lengua ahora
 
 ## Principio II. Multi-colaboración
 
+> Queremos que este trabajo de recopilación de contenidos acerca de *El Libro de Urantia* se haga de forma colaborativa y sin riesgos, como parte de un trabajo en equipo.
+{.is-info}
+
 Hay muchas webs sobre *El libro de Urantia*, las hemos visto, y no conocemos ninguna que sea una Wiki con la capacidad de ser actualizada sin riesgo por decenas de usuarios al mismo tiempo.
 
 Las páginas de las Asociaciones y otras son en realidad blogs donde si quieres colaborar con trabajos secundarios tienes que enviárselos al administrador del sitio. No hay agilidad, no hay colaboración, no hay mecanismos que permitan a varias personas trabajar «al mismo tiempo» en un mismo contenido de forma segura.
@@ -154,6 +160,9 @@ Por supuesto, *Urantiapedia* está diseñada para tener permisos. Los usuarios q
 
 ## Principio III. Voluntariado
 
+> Queremos que este proyecto sea uno de servicio altruista hacia los demás, especialmente hacia las futuras generaciones.
+{.is-info}
+
 Necesitamos más que nada personas inspiradas, no dinero.
 
 * Las personas inspiradas, las personas desinteresadas que quieren colaborar y servir sin esperar una recompensa son las personas que aportan el mejor trabajo. Necesitamos ante todo ese tipo de colaboradores.
@@ -163,6 +172,9 @@ Necesitamos más que nada personas inspiradas, no dinero.
 * Los costes se mantendrán siempre lo más bajos posible. La parte más costosa es la creación de contenido y esa parte siempre será desinteresada y voluntaria.
 
 ## Principio IV. Completitud
+
+> Queremos que este sitio web sea un centro abierto a toda la revelación y a todos los lectores, un lugar donde encontrar todos los pensamientos e ideas de cuantos nos han precedido.
+{.is-info}
 
 *Urantiapedia* tiene el objetivo de comprender lo relacionado con todo *El libro de Urantia*, no únicamente con partes de él.
 

@@ -83,6 +83,9 @@ Voyons ces principes plus en détail.
 
 ## Principe I. Multilingue
 
+> Nous voulons que toutes les connaissances sur *Le Livre d'Urantia* soient disponibles dans toutes les langues possibles afin que ces révélations difficiles puissent être comprises *nativement* par la plus grande population.
+{.is-info}
+
 [La Fondation Urantia](https://www.urantia.org/) et les associations ont fait un excellent travail dans les traductions du *Livre d'Urantia*, mais nous devons aller au-delà.
 
 Considérez ces faits sur les traductions:
@@ -124,6 +127,9 @@ Si quelqu'un dit: Devons-nous tous commencer à apprendre une seconde langue mai
 
 ## Principe II. Multi-collaboratif
 
+> Nous voulons que ce travail de collecte de contenu sur *Le Livre d'Urantia* se fasse de manière collaborative et sans risques, dans le cadre d'un travail d'équipe.
+{.is-info}
+
 Il existe de nombreux sites Web sur le *Livre d'Urantia*, nous les avons vus, et nous n'en connaissons pas un seul qui soit un Wiki pouvant être mis à jour sans risque par des dizaines d'utilisateurs en même temps.
 
 Les pages d'associations et autres sont en fait des blogs où si vous souhaitez collaborer avec des œuvres secondaires, vous devez les envoyer à l'administrateur du site. Il n'y a pas d'agilité, il n'y a pas de collaboration, il n'y a pas de mécanismes permettant à plusieurs personnes de travailler « en même temps » sur le même contenu en toute sécurité.
@@ -153,6 +159,9 @@ Bien sûr, *Urantiapedia* est conçu pour avoir des permissions. Les utilisateur
 
 ## Principe III. Altruisme
 
+> Nous voulons que ce projet soit un projet de service altruiste envers les autres, notamment envers les générations futures.
+{.is-info}
+
 Nous avons besoin de plus de gens inspirés, pas d'argent.
 
 * Des personnes inspirées, des personnes désintéressées qui veulent collaborer et servir sans attendre de récompense sont les personnes qui apportent le meilleur travail. Nous avons d'abord besoin de ce type de collaborateurs.
@@ -162,6 +171,9 @@ Nous avons besoin de plus de gens inspirés, pas d'argent.
 * Les coûts seront toujours maintenus aussi bas que possible. La partie la plus coûteuse est la création de contenu et cette partie sera toujours désintéressée et volontaire.
 
 ## Principe IV. Complétude
+
+> Nous voulons que ce site soit un centre ouvert à toute révélation et à tous les lecteurs, un lieu où retrouver toutes les pensées et idées de ceux qui nous ont précédés.
+{.is-info}
 
 *Urantiapedia* vise à comprendre tout ce qui est lié à l'ensemble du *Livre d'Urantia*, pas seulement des parties de celui-ci.
 
