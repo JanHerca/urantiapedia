@@ -128,6 +128,8 @@ There are many websites about *Urantia Book*, we have seen them, and we don't kn
 
 Pages from Associations and others are actually blogs where if you want to collaborate with secondary works you have to send them to the site administrator. There is no agility, there is no collaboration, there are no mechanisms that allow several people to work “at the same time” on the same content safely.
 
+> One of the most important lessons to be learned during your mortal career is *teamwork*. [UB 28:5.14](/es/The_Urantia_Book/28#p5_14)
+
 *Urantiapedia* is designed to encourage collaboration from the start:
 * *Urantiapedia* is a Wiki, with proven software, called [Wiki.js](https://js.wiki/).
 * Anyone can contribute having their own user account after passing some validation steps.
@@ -168,6 +170,16 @@ There are a number of websites that focuses only in part IV of *The Urantia Book
 > . . . Living truth teaches the truth seeker aright only when it is embraced in **wholeness** . . . [UB 195:5.2](/en/The_Urantia_Book/195#p5_2)
 
 *Urantiapedia* goal is to help in the understanding of all the content in *The Urantia Book*, and to help in the creation of a single store for linking and gathering all the available knowledge. This is important specially for spreading the revelations in Eastern countries, in which Christ and Jesus are not usual concepts to approach religion and divinity.
+
+On *Urantiapedia* all ideas are welcome, all readers are welcome, all those who work to disseminate and understand *The Urantia Book* are welcome.
+
+Since this project was launched a few years ago, it has happened on several occasions that certain readers have contacted us to ask us to limit the content of *Urantiapedia*. To censor certain writings and to ignore the work of some people. This has not happened once or twice. This situation is beginning to occur with some frequency.
+
+Urantiapedia wants to be a compendium of knowledge about *The Urantia Book*. To achieve this we cannot censor or ignore anyone or anything. If we did that we would deprive future generations of the lessons learned by all readers and students of *The Urantia Book*, whether they were right or wrong in their conclusions or in the content of their work. It is up to each generation, based on its lights and understanding, to filter out from this website those contents that are on the right path, and to praise those parts, criticizing with a constructive critical approach the less fortunate parts.
+
+It is worth remembering the event that took place in Gamala, during Jesus' preaching tour through the Decapolis. John had been in Ashtaroth and had forbidden a man to continue preaching in the name of the Master because he had never been ordained as a preacher by Jesus. And Jesus' response is well known: “He who is not against us is for us.” [UB 159:2.1](/en/The_Urantia_Book/159#p2_1)
+
+In *Urantiapedia* this is going to be one of our essential principles. The content of this website will seek completeness, and will NOT accept censorship, prejudice, fanaticism or arrogance. We will not accept silencing certain readers because they write things that may not be to the general taste or acceptance. We will not agree to exclude certain religious writings from *Urantiapedia* because they are from religions that certain readers despise. We will not agree to limit content because some people believe that its content is false and believe themselves to be in possession of the only truth. We will not do content curation either. We want *Urantiapedia* to be a site open to all reflections that have existed to date on the *Fifth Revelation that marks an epoch*.
 
 ## External links
 

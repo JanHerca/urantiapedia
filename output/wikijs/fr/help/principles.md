@@ -128,6 +128,8 @@ Il existe de nombreux sites Web sur le *Livre d'Urantia*, nous les avons vus, et
 
 Les pages d'associations et autres sont en fait des blogs où si vous souhaitez collaborer avec des œuvres secondaires, vous devez les envoyer à l'administrateur du site. Il n'y a pas d'agilité, il n'y a pas de collaboration, il n'y a pas de mécanismes permettant à plusieurs personnes de travailler « en même temps » sur le même contenu en toute sécurité.
 
+> L’une des plus importantes leçons à apprendre pendant votre carrière mortelle est celle du *travail en équipe.* [LU 28:5.14](/fr/The_Urantia_Book/28#p5_14)
+
 *Urantiapedia* est conçu pour encourager la collaboration dès le départ:
 * *Urantiapedia* est un Wiki, avec un logiciel éprouvé, appelé [Wiki.js](https://js.wiki/).
 * N'importe qui peut contribuer en ayant son propre compte utilisateur après avoir passé quelques étapes de validation.
@@ -168,6 +170,16 @@ Il existe un certain nombre de sites Web qui se concentrent uniquement sur la pa
 > . . . La vérité vivante ne donne au chercheur un enseignement valable que si elle est embrassée dans sa **totalité**. . . [LU 195:5.2](/fr/The_Urantia_Book/195#p5_2)
 
 Le but de *Urantiapedia* est d'aider à la compréhension de tout le contenu du *Livre d'Urantia*, et d'aider à la création d'un magasin unique pour relier et rassembler toutes les connaissances disponibles. Ceci est particulièrement important pour diffuser les révélations dans les pays de l'Est, dans lesquels Christ et Jésus ne sont pas des concepts habituels pour aborder la religion et la divinité.
+
+Sur *Urantiapedia*, toutes les idées sont les bienvenues, tous les lecteurs sont les bienvenus, tous ceux qui travaillent à la diffusion et à la compréhension du *Le Livre d'Urantia* sont les bienvenus.
+
+Depuis le lancement de ce projet il y a quelques années, il est arrivé à plusieurs reprises que certains lecteurs nous contactent pour nous demander de limiter le contenu de *Urantiapedia*. Que nous censurons certains écrits et ignorons les œuvres de certaines personnes. Cela ne s'est pas produit une ou deux fois. Cette situation commence à se produire avec une certaine fréquence.
+
+Urantiapedia veut être un recueil de connaissances sur le *Livre d'Urantia*. Pour y parvenir, nous ne pouvons censurer ou ignorer qui que ce soit ou quoi que ce soit. Si nous faisions cela, nous priverions les générations futures des leçons tirées par tous les lecteurs et étudiants du *Livre d'Urantia*, qu'ils aient eu raison ou tort dans leurs conclusions ou dans le contenu de leurs travaux. Il appartient à chaque génération, en fonction de ses lumières et de sa compréhension, de filtrer de ce site les contenus qui sont sur la bonne voie et de louer ces parties, en critiquant les parties les moins chanceuses avec un caractère critique constructif.
+
+Il convient de rappeler l'événement qui s'est produit à Gamala, lors de la tournée de prédication de Jésus dans la Décapole. Jean avait été à Ashtaroth et avait interdit à un homme de continuer à prêcher au nom du Maître parce qu'il n'avait jamais été ordonné prédicateur par Jésus. Et la réponse de Jésus est bien connue : « Quiconque n’est pas contre nous est avec nous. » [LU 159:2.1](/fr/The_Urantia_Book/159#p2_1)
+
+Chez *Urantiapedia*, cela sera l'un de nos principes essentiels. Le contenu de ce site Web cherchera à être complet et n'acceptera PAS la censure, les préjugés, le fanatisme ou l'arrogance. Nous n’accepterons pas de faire taire certains lecteurs parce qu’ils écrivent des choses qui ne sont peut-être pas du goût ou de l’acceptation générale. Nous n'accepterons pas d'exclure d'*Urantiapedia* certains écrits religieux parce qu'ils proviennent de religions que certains lecteurs méprisent. Nous n’accepterons pas de limiter le contenu car il y a ceux qui croient que son contenu est faux et croient détenir la seule vérité. Nous ne ferons pas non plus de curation de contenu (*Content curation*). Nous voulons que *Urantiapédia* soit un site ouvert à toutes les réflexions qui ont existé jusqu'à présent sur la *Cinquième Révélation qui marque une époque*.
 
 ## Liens externes
 

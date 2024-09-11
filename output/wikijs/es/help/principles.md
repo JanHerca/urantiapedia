@@ -128,6 +128,8 @@ Hay muchas webs sobre *El libro de Urantia*, las hemos visto, y no conocemos nin
 
 Las páginas de las Asociaciones y otras son en realidad blogs donde si quieres colaborar con trabajos secundarios tienes que enviárselos al administrador del sitio. No hay agilidad, no hay colaboración, no hay mecanismos que permitan a varias personas trabajar «al mismo tiempo» en un mismo contenido de forma segura.
 
+> Una de las lecciones más importantes que tenéis que aprender durante vuestra carrera mortal es la del *trabajo en equipo.* [LU 28:5.14](/es/The_Urantia_Book/28#p5_14)
+
 *Urantiapedia* está diseñada para fomentar la colaboración desde el primer momento:
 * *Urantiapedia* es una wiki, con un software probado, llamado [Wiki.js](https://js.wiki/).
 * Cualquiera puede contribuir teniendo su propia cuenta de usuario después de pasar algunos criterios de validación.
@@ -169,6 +171,16 @@ Hay varios sitios web que se centran únicamente en la parte IV de *El libro de 
 > ... La verdad viviente sólo enseña bien al buscador de la verdad cuando es abrazada en su **totalidad** ... [LU 195:5.2](/es/The_Urantia_Book/195#p5_2)
 
 El objetivo de *Urantiapedia* es ayudar en la comprensión de todo el contenido de *El Libro de Urantia* y ayudar en la creación de un almacén único para vincular y recopilar todo el conocimiento disponible. Esto es importante especialmente para la difusión de las revelaciones en los países orientales, en los que Cristo y Jesús no son conceptos habituales para acercarse a la religión y la divinidad.
+
+En *Urantiapedia* todas las ideas son bienvenidas, todos los lectores son bienvenidos, todos los que trabajan en la difusión y comprensión de *El Libro de Urantia* son bienvenidos.
+
+Desde que este proyecto se puso en marcha hace unos años ya ha ocurrido en varias ocasiones que ciertos lectores se han puesto en contacto con nosotros para solicitarnos que limitemos los contenidos de *Urantiapedia*. Que censuremos ciertos escritos y que ignoremos los trabajos de algunas personas. Esto no ha pasado una o dos veces. Esta situación empieza a producirse con cierta frecuencia.
+
+Urantiapedia quiere ser un compendio de conocimiento sobre *El Libro de Urantia*. Para lograr eso no podemos censurar ni ignorar a nadie ni a nada. Si hiciéramos eso privaríamos a las generaciones futuras de las lecciones alcanzadas por todos los lectores y estudiantes de *El Libro de Urantia*, hayan estado acertados o equivocados en sus concluciones o en el contenido de sus trabajos. Corresponde a cada generación, en base a sus luces y entendimiento, filtrar de este sitio web aquellos contenidos que están en el camino correcto, y ensalzar esas partes, criticando con un carácter crítico constructivo las partes menos afortunadas.
+
+Conviene recordar el suceso que tuvo lugar en Gamala, durante la gira de predicación de Jesús por la Decápolis. Juan había estado en Astarot y había prohibido a un hombre que continuara predicando en nombre del Maestro porque nunca había sido ordenado como predicador por Jesús. Y la respuesta de Jesús es bien conocida: « Quien no está contra nosotros está a nuestro favor. » [LU 159:2.1](/es/The_Urantia_Book/159#p2_1)
+
+En *Urantiapedia* este va a ser uno de nuestros principios esenciales. El contenido de este sitio web buscará la completitud, y NO aceptará la censura, los prejuicios, el fanatismo ni la soberbia. No aceptaremos silenciar a ciertos lectores porque escriban cosas que puedan no ser del gusto o aceptación general. No aceptaremos excluir de *Urantiapedia* ciertos escritos religiosos porque son de religiones que ciertos lectores desprecian. No aceptaremos limitar los contenidos porque haya quien crea que su contenido es falso y se crea en posesión de la única verdad. Tampoco haremos curación de contenido (*Content curation*). Queremos que *Urantiapedia* sea un sitio abierto a todas las reflexiones que hayan existido hasta la fecha sobre la *Quinta Revelación que marca una época*.
 
 ## Enlaces externos
 
