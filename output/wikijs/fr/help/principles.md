@@ -22,7 +22,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 > La facilité avec laquelle les résidents du Paradis peuvent consulter cette vaste **réserve de connaissance** est uniquement due aux efforts **volontaires** et sages des gardiens de la connaissance. [LU 27:5.5](/fr/The_Urantia_Book/27#p5_5)
 
-La citation précédente est inspirante et contient la motivation que nous voulons promouvoir *Urantiapedia*. *Urantiapedia* veut être une grande réserve de connaissances sur *Le Livre d'Urantia*. L'objectif est de créer une encyclopédie en ligne qui permet la diffusion des connaissances sur *Le Livre d'Urantia*, et qui est basée sur des principes comme la mondialisation, la collaboration, l'altruisme et l'exhaustivité.
+La citation précédente est inspirante et contient la motivation que nous voulons promouvoir *Urantiapedia*. *Urantiapedia* veut être une grande réserve de connaissances sur *Le Livre d'Urantia*. L'objectif est de créer une vaste bibliothèque en ligne qui permet la diffusion des connaissances sur *Le Livre d'Urantia*, et qui est basée sur des principes comme la mondialisation, la collaboration, l'altruisme et l'exhaustivité.
 
 ## Pourquoi Urantiapédia
 

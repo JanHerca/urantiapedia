@@ -22,7 +22,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 > The facility with which the residents of Paradise can consult this vast **store of knowledge** is solely due to the **voluntary** and wise efforts of the custodians of knowledge. [UB 27:5.5](/en/The_Urantia_Book/27#p5_5)
 
-The previous quote is inspiring and contains the motivation that we want to promote *Urantiapedia*. *Urantiapedia* wants to be a great store of knowledge about *The Urantia Book*. The objective is to create an online encyclopedia that allows the dissemination of knowledge about *The Urantia Book*, and that is based on principles like globalization, collaboration, selflessness and completeness.
+The previous quote is inspiring and contains the motivation that we want to promote *Urantiapedia*. *Urantiapedia* wants to be a great store of knowledge about *The Urantia Book*. The objective is to create a vast online library that allows the dissemination of knowledge about *The Urantia Book*, and that is based on principles like globalization, collaboration, selflessness and completeness.
 
 ## Why Urantiapedia
 

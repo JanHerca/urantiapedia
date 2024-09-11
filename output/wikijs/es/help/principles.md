@@ -22,7 +22,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 > La facilidad con que los residentes del Paraíso pueden consultar esta inmensa **reserva de conocimientos** se debe únicamente a los esfuerzos **voluntarios** y sabios de los custodios del conocimiento. [LU 27:5.5](/es/The_Urantia_Book/27#p5_5)
 
-La cita previa resulta inspiradora y contiene la motivación que queremos que impulse la *Urantiapedia*. *Urantiapedia* quiere ser un gran almacén de conocimientos acerca de *El Libro de Urantia*. El objetivo es crear una enciclopedia en línea que permita la diseminación del conocimiento acerca de *El Libro de Urantia*, y que se base en unos principios de globalización, colaboración, voluntariado y completitud.
+La cita previa resulta inspiradora y contiene la motivación que queremos que impulse la *Urantiapedia*. *Urantiapedia* quiere ser un gran almacén de conocimientos acerca de *El Libro de Urantia*. El objetivo es crear una vasta biblioteca en línea que permita la diseminación del conocimiento acerca de *El Libro de Urantia*, y que se base en unos principios de globalización, colaboración, voluntariado y completitud.
 
 ## Por qué la Urantiapedia
 
