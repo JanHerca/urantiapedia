@@ -110,7 +110,7 @@ Pero esta estrategia necesita ser actualizada. Dos tercios de los habitantes del
 <figcaption><em>Porcentaje de lectores potenciales de trabajos secundarios en el mundo en su idioma nativo (julio 2022). En azul la proporción que está disponible. La mayoría de los lectores potenciales de estos trabajos son hablantes de inglés.</em></figcaption>
 </figure>
 
-Si hacemos los mismos cálculos para los trabajos secundarios, la situación es aún peor. Hay muy poca preocupación sobre la traducción de Obras Secundarias. Están principalmente en inglés, con alguna pequeña producción en español o francés. Pero no hay intercambio de ideas de las entre comunidades de diferentes idiomas a través de traducciones, y una gran parte del movimiento Urantia no sabe nada acerca de las Obras Secundarias porque sólo están en inglés. 
+Si hacemos los mismos cálculos para los trabajos secundarios, la situación es aún peor. Hay muy poca preocupación sobre la traducción de Obras Secundarias. Están principalmente en inglés, con alguna pequeña producción en español o francés. Pero no hay intercambio de ideas entre comunidades de diferentes idiomas a través de traducciones, y una gran parte del movimiento Urantia no sabe nada acerca de las Obras Secundarias porque sólo están en inglés. 
 
 Conviene recordar esta cita de *El Libro de Urantia*:
 
