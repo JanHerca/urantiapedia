@@ -1,5 +1,5 @@
 ---
-title: "Une simplification de l'avant propos du _Livre d'Urantia_ (suite)"
+title: "Une simplification de l'avant propos du Livre d'Urantia (suite)"
 description: "Thématique"
 published: true
 date: 2023-09-29T14:02:03.086Z
@@ -48,7 +48,7 @@ Sainte-Julie
 
 Bonjour chers lecteurs et chères lectrices!
 
-Le texte qui va suivre est la suite de l'article publié dans le numéro précédent du Réflectivité. Pour ceux qui voudrait consulter le texte original en anglais, vous le trouverai à cette [adresse Web](https://urantiapedia.org/en/article/William_S_Sadler_Jr/A_Simplification_of_the_Foreword_to_The_Urantia_Book).
+Le texte qui va suivre est la suite de l'article publié dans le numéro précédent du Réflectivité. Pour ceux qui voudrait consulter le texte original en anglais, vous le trouverai à cette [adresse Web](/en/article/William_S_Sadler_Jr/A_Simplification_of_the_Foreword_to_The_Urantia_Book).
 
 Je vous souhaite une bonne lecture !
 <br style="clear:both;"/>

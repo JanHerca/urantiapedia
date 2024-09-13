@@ -56,7 +56,7 @@ Il est évident que Jésus, un Fils divin créateur, détient de par sa nature e
 
 ## Les apôtres échouent dans leur tentative !
 
-Nous savons par le récit qui nous est fait au fascicule <a id="a58_56"></a>[LU 158:4.6](/fr/The_Urantia_Book/158#p4_6) et 7 que les apôtres Simon Zélotes, Judas Iscariot et André échouèrent dans leur tentative pour chasser un démon du fils de Jacques de Safed. Comment se fait-il que Jésus pût chasser les démons et que ses apôtres échouassent lamentablement? La réponse se trouve dans l'allocution qu'il leur adressa le soir même dans le jardin de Celsus :
+Nous savons par le récit qui nous est fait au fascicule <a id="a58_56"></a>[LU 158:4.6-7](/fr/The_Urantia_Book/158#p4_6) que les apôtres Simon Zélotes, Judas Iscariot et André échouèrent dans leur tentative pour chasser un démon du fils de Jacques de Safed. Comment se fait-il que Jésus pût chasser les démons et que ses apôtres échouassent lamentablement? La réponse se trouve dans l'allocution qu'il leur adressa le soir même dans le jardin de Celsus :
 
 > «... On ne peut pas non plus accomplir une œuvre spirituelle en l'absence de pouvoir spirituel. Même si ces possibilités sont potentiellement présentes, on ne peut les réaliser sans l'existence d'un troisième facteur humain essentiel, l'expérience personnelle de posséder une foi vivante...» <a id="a60_294"></a>[LU 158:6.4](/fr/The_Urantia_Book/158#p6_4)
 
@@ -75,7 +75,7 @@ C'est précisément ce qui se passa en haut lieu, car il est écrit que Satan, l
 <figcaption>Jésus chassant les démons. Saint-Martin de Zillis.</figcaption>
 </figure>
 
-Deux autres citations relatent cette chute de Satan ainsi que, sans aucun doute, la disgrâce de Caligastia et de Lucifer voir 53:8:3 et 163:6:2
+Deux autres citations relatent cette chute de Satan ainsi que, sans aucun doute, la disgrâce de Caligastia et de Lucifer voir [LU 53:8.3](/fr/The_Urantia_Book/53#p8_3) et [LU 163:6.2](/fr/The_Urantia_Book/163#p6_2)
 
 ## Alors, comment les messagers ont-ils réussi là où les apôtres ont échoué ?
 

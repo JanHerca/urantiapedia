@@ -40,7 +40,7 @@ Sainte-Julie
 
 Suite à l'excellente conférence de Gaétan Charland donnée le 19 mars 2023 et ayant pour titre « _La pensée luciférienne, la révélation et nous_ », je partage avec vous mes commentaires !
 
-Selon ma conception, liberté et démocratie véritable sont intimement reliées puisque la liberté des indivi- dus est inclusive dans ce système gouvernemental. Selon le Melchizédek de Nébadon en <a id="a42_193"></a>[LU 71:2.1](/fr/The_Urantia_Book/71#p2_1) (801.13) il est dit : « _Bien que la démocratie soit un idéal, elle est le produit de la civilisation et non de l'évolution._ »
+Selon ma conception, liberté et démocratie véritable sont intimement reliées puisque la liberté des indivi- dus est inclusive dans ce système gouvernemental. Selon le Melchizédek de Nébadon en <a id="a42_193"></a>[LU 71:2.1](/fr/The_Urantia_Book/71#p2_1) il est dit : « _Bien que la démocratie soit un idéal, elle est le produit de la civilisation et non de l'évolution._ »
 
 Alors, puisque la démocratie est un idéal, que nous offre-telle comme avantages sur les autres formes de gouvernement? Selon Wikipédia, la démocratie est un système politique qui garantit la souveraineté aux citoyens qui l'exerce de façon directe à travers le droit de vote. Ces valeurs concernent le respect de la Constitution et de la primauté de droit, le respect de l'autorité légitime des ministres, la défense des droits et libertés de la personne qui constitue le fondement d'une société démocratique et l'acception de la responsabilité de favoriser le développement social et économique. La démocratie repose sur les libertés politiques, syndicales et de la liberté de culte.
 

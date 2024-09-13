@@ -1,4 +1,4 @@
--
+---
 title: "Apéndices al «Estudio del Universo Maestro» — Índice"
 description: 
 published: true
@@ -6,9 +6,9 @@ date: 2022-10-08T14:02:03.086Z
 tags: astronomy, cosmology, study aid, bill sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
--
+---
 
-## Índice de los Apéndices al Estudio Índice de los Apéndices al Estudi)
+## Índice de los Apéndices al «Estudio del Universo Maestro»
 
 * [Apéndice I Antecedentes del universo maestro](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1)
     1. [La Primera Era del Universo](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1#h-1-la-primera-era-del-universo)

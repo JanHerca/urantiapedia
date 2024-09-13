@@ -147,9 +147,7 @@ Le don de la personnalité est inclus dans le circuit mental reçu de la Divine 
 
 Puisqu'il est l'origine et la source de toutes personnalités, il est concevable que ce soit lui le donateur de la personnalité.
 
-> L'attribution de la personnalité est la fonction exclusive du Père Universel, elle consiste en la personnalisation des systèmes énergétiques vivants auxquels il confère les attributs d'une conscience créative relative et le contrôle par libre arbitre de ces attributs. Nulle <a id="a149_277"></a>[LU 5:6.4](/fr/The_Urantia_Book/5#p6_4)
-
-personnalité n'est séparée de Dieu le Père, et nulle n'existe sinon pour Dieu le Père. Les attributs fondamentaux de l'individualité humaine ainsi que l'Ajusteur absolu, noyau de la personnalité humaine, sont conférés par le Père Universel agissant dans son domaine exclusivement personnel de ministère cosmique.
+> L'attribution de la personnalité est la fonction exclusive du Père Universel, elle consiste en la personnalisation des systèmes énergétiques vivants auxquels il confère les attributs d'une conscience créative relative et le contrôle par libre arbitre de ces attributs. Nulle personnalité n'est séparée de Dieu le Père, et nulle n'existe sinon pour Dieu le Père. Les attributs fondamentaux de l'individualité humaine ainsi que l'Ajusteur absolu, noyau de la personnalité humaine, sont conférés par le Père Universel agissant dans son domaine exclusivement personnel de ministère cosmique. <a id="a149_277"></a>[LU 5:6.4](/fr/The_Urantia_Book/5#p6_4)
 
 **5. Dieu est le dispensateur et le conservateur de chaque personnalité.**
 
@@ -204,9 +202,7 @@ Tout homme motivé par la sagesse recherchera la source de la perfection sous le
 
 Voilà une citation qui en dit long sur la nature de notre personnalité en nous faisant prendre conscience du mystère profond qu'elle représente !
 
-> La personnalité humaine est l'ombre-image projetée dans l'espace-temps par la personnalité du divin <a id="a206_102"></a>[LU 1:6.1](/fr/The_Urantia_Book/1#p6_1)
-
-Créateur. Or, nulle actualité ne saurait être comprise convenablement par l'examen de son ombre. Il faudrait interpréter les ombres en fonction de la vraie substance.
+> La personnalité humaine est l'ombre-image projetée dans l'espace-temps par la personnalité du divin Créateur. Or, nulle actualité ne saurait être comprise convenablement par l'examen de son ombre. Il faudrait interpréter les ombres en fonction de la vraie substance. <a id="a206_102"></a>[LU 1:6.1](/fr/The_Urantia_Book/1#p6_1)
 
 **6. Reconnaissance de la personnalité par les directeurs de recensement.**
 

@@ -302,9 +302,9 @@ Par son amour et sa bonté, le Père n'oublie pas les enfants morts en bas âge 
 > 
 > Des nurseries probatoires similaires sont entretenues sur les sphères finalitaires des constellations et du siège de l'univers pour les enfants dépourvus d'Ajusteur et appartenant aux ordres modifiés primaires et secondaires d'ascendeurs. <a id="a302_241"></a>[LU 49:6.12-14](/fr/The_Urantia_Book/49#p6_14)
 
-**5- L'expérience parentale est requise pour tous les as**
+**5- L'expérience parentale est requise pour tous les ascenseurs.**
 
-censeurs.L'expérience parentale est essentielle dans notre parcours vers le Paradis et le Père.
+L'expérience parentale est essentielle dans notre parcours vers le Paradis et le Père.
 
 > Sur les sept mondes des maisons, d'amples occasions sont fournies aux mortels ascendants pour compenser toutes les frustrations expérientielles qu'ils ont subies sur leurs mondes d'origine, qu'elles soient dues à l'hérédité, au milieu ou à une malheureuse fin de carrière prématurée dans la chair. Ceci est exact sous tous les rapports, sauf pour la vie sexuelle terrestre et les ajustements qui les accompagnent. Des milliers de mortels arrivent sur les mondes des maisons sans avoir particulièrement bénéficié des disciplines dérivant de relations sexuelles normalement moyennes sur leur sphère natale. L'expérience du monde des maisons n'offre guère de chances de compenser ces frustrations très personnelles. Au sens physique, l'expérience sexuelle appartient au passé pour ces ascendeurs. Mais, en association étroite avec les Fils et les Filles Matériels, à la fois individuellement et comme membres de leurs familles, ces mortels sexuellement déficients sont mis à même de compenser les aspects sociaux, intellectuels, émotionnels et spirituels de leurs carences. Ainsi, pour tous ceux que les circonstances ou leur mauvais jugement ont privé du bénéfice d'associations sexuelles avantageuses sur les mondes évolutionnaires, les capitales systémiques offrent toutes les chances d'acquérir ces expériences de mortels essentielles en association étroite et affectueuse avec les célestes créatures sexuées de l'ordre adamique qui ont leur résidence permanente sur les capitales systémiques.
 > 
