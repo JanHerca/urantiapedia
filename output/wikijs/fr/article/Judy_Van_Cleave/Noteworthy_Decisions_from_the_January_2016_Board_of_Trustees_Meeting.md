@@ -90,7 +90,7 @@ De temps en temps, la Fondation Urantia a besoin de trustees associés, de membr
 </figure>
 
 > De temps en temps, la Fondation Urantia a besoin d’administrateurs associés, de membres de comités, de facilitateurs UBIS, de personnel et de bénévoles.
-{is-info}
+{.is-info}
 
 
 ## Références

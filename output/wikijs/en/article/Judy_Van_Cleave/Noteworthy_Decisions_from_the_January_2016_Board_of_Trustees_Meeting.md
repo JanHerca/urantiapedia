@@ -86,7 +86,7 @@ From time to time, Urantia Foundation is in need of associate trustees, committe
 </figure>
 
 > From time to time, Urantia Foundation is in need of associate trustees, committee members, UBIS facilitators, staff, and volunteers.
-{is-info}
+{.is-info}
 
 
 ## References

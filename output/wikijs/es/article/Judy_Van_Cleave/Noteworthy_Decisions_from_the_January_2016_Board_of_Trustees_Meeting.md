@@ -86,7 +86,7 @@ De vez en cuando, la Fundación Urantia necesita fideicomisarios asociados, miem
 </figure>
 
 > De vez en cuando, la Fundación Urantia necesita fideicomisarios asociados, miembros de comités, facilitadores, personal y voluntarios de la UBIS.
-{is-info}
+{.is-info}
 
 
 ## Referencias
