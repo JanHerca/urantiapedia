@@ -1,5 +1,5 @@
 ---
-title: "Pourquoi étudier _Le Livre d'Urantia_ ?"
+title: "Pourquoi étudier Le Livre d'Urantia ?"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
