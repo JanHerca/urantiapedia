@@ -77,9 +77,9 @@ Dans l'introduction du _Livre d'Urantia_, les révélateurs nous informent de l'
 
 Qui d'entre nous n'a pas rencontré de difficulté à comprendre ce que nous disait ce Conseiller Divin dans l'Introduction du _Livre d'Urantia_ ? Qui d'entre nous, après plusieurs lectures, n'éprouve pas encore certaines difficultés à comprendre intellectuellement certains concepts, sans parler de l'appropriation des vérités spirituelles ?
 
-Les révélateurs ont également donné certaines directives pour mieux encadrer la dissémination sage et progressive de la révélation. Voici deux de ces directives données dans le Mandat de Publication :
+Les révélateurs ont également donné certaines directives pour mieux encadrer la dissémination sage et progressive de la révélation. Voici deux de ces directives données dans le [Mandat de Publication](/fr/article/The_Publication_Mandate) :
 
-«Ce Livre est donné à ceux qui sont prêts pour lui, longtemps avant le jour de sa mission mondiale. Des milliers de groupes d'étude doivent être mis sur pied et le Livre doit être traduit en plusieurs langues. C'est alors que le Livre sera disponible lorsque la bataille de l'homme pour sa liberté sera gagnée et que le monde sera une fois de plus rendu plus fertile pour la religion de Jésus et pour la liberté de l'humanité » (10.5).
+> «Ce Livre est donné à ceux qui sont prêts pour lui, longtemps avant le jour de sa mission mondiale. Des milliers de groupes d'étude doivent être mis sur pied et le Livre doit être traduit en plusieurs langues. C'est alors que le Livre sera disponible lorsque la bataille de l'homme pour sa liberté sera gagnée et que le monde sera une fois de plus rendu plus fertile pour la religion de Jésus et pour la liberté de l'humanité » (10.5).
 
 ## Pourquoi des milliers de groupes d'étude?
 

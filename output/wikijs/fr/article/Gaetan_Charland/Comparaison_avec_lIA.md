@@ -1,5 +1,5 @@
 ---
-title: "Comparaison avec I'IA !"
+title: "Comparaison avec l'IA !"
 description: "Thématique"
 published: true
 date: 2023-09-29T14:02:03.086Z
