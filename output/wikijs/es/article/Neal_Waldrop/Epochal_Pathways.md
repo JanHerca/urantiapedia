@@ -87,7 +87,7 @@ Neal Waldrop
 12 de enero de 2019
 
 > Neal Waldrop ha estado leyendo _El Libro de Urantia_ con convicción y compromiso desde noviembre de 1973. Sirvió durante tres años como fideicomisario de la Fundación Urantia (1989-1992) y en 2003 fue nombrado fideicomisario emérito. Sus esfuerzos actuales se centran en el trabajo del Comité de Global Endeavor (http://www.globalendeavor.net), que él preside. En julio de 2016 completó su detallado documento de debate Revelación revelada, un texto de más de 200 páginas que destaca muchos aspectos de la quinta revelación de época que, en su opinión, aún no han recibido la atención que merecen. Para este propósito, preside una serie continua de seminarios web que se pueden ver en YouTube: paneles de discusión durante los cuales los participantes analizan y comentan segmentos cortos del documento extenso. En términos profesionales, estuvo cinco años como oficial en EE.UU. Navy, luego más de 27 años como Oficial del Servicio Exterior empleado por el Departamento de Estado de los Estados Unidos (diplomático de carrera). Desde noviembre de 2006, ha estado trabajando para una rama del Departamento de Justicia de los Estados Unidos como traductor a tiempo parcial (francés a inglés e inglés a francés).
-> {.is-info}
+{.is-info}
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Neal_Waldrop/Epochal_Pathways/004151.jpg">

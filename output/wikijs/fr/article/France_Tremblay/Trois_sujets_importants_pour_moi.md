@@ -62,7 +62,7 @@ ce projet va remplir cette promesse... ce dont nous avons grandement besoin pour
 
 Ce projet grandiose a besoin de support financier pour prendre son envol. Ils ont trouvé un moyen qui me semble astucieux pour y arriver. Ils utilisent un truc tout simple inventé par un enfant de 6 ans qui consiste à payer au suivant c.-à-d. trouver 3 personnes qui accepteront de trouver chacune 3 autres personnes, etc.
 
-Ce qu'ils demandent est une contribution volontaire récurrente de $25 \$$ par mois. Quand on pense qu'une simple commande chez A\&W pour de la malbouffe dépasse souvent ce prix, je crois que cela n'est pas trop demander pour faire connaître la vie de Jésus ! Encore là, je vous invite à oser.
+Ce qu'ils demandent est une contribution volontaire récurrente de 25$ par mois. Quand on pense qu'une simple commande chez A\&W pour de la malbouffe dépasse souvent ce prix, je crois que cela n'est pas trop demander pour faire connaître la vie de Jésus ! Encore là, je vous invite à oser.
 
 Voici les coordonnées pour en savoir plus :
 

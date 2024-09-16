@@ -91,7 +91,7 @@ Estimados caballeros,
 
 Le agradezco su carta del 13 de noviembre y lamento no haber sabido de su existencia en 1954, cuando pasé varios días en Chicago como invitado de su gobierno en misión económica. Me hubiera gustado tener contacto directo.
 
-Tal como están las cosas, por favor envíenme dos copias de _El Libro de Urantia_. Adjunto un cheque por $20 \$$, según lo solicitado.
+Tal como están las cosas, por favor envíenme dos copias de _El Libro de Urantia_. Adjunto un cheque por 20$, según lo solicitado.
 
 En cuanto al índice, que será de gran valor para los lectores serios, y aún más para los profesores dispuestos a enseñar estas trascendentales lecciones, avíseme cuándo estará listo. Siento que pretendes redactarlo con el mismo extraordinario cuidado que el Libro mismo. Obviamente necesitas mucho tiempo. Estoy esperando impaciente el resultado.
 

@@ -42,7 +42,7 @@ este proyecto cumplirá esta promesa... ¡que tanto necesitamos para rejuvenecer
 
 Este grandioso proyecto necesita apoyo financiero para despegar. Encontraron una manera que me parece inteligente de lograrlo. Utilizan un sencillo truco inventado por un niño de 6 años que consiste en devolverlo, es decir, adelantarlo. encuentre 3 personas que estén de acuerdo en encontrar otras 3 personas, etc.
 
-Lo que piden es un aporte voluntario recurrente de $25 \$$ mensual. Cuando piensas que un simple pedido en A\&W de comida chatarra muchas veces excede este precio, ¡creo que no es demasiado pedir para dar a conocer la vida de Jesús! Nuevamente te invito a atreverte.
+Lo que piden es un aporte voluntario recurrente de 25$ mensual. Cuando piensas que un simple pedido en A\&W de comida chatarra muchas veces excede este precio, ¡creo que no es demasiado pedir para dar a conocer la vida de Jesús! Nuevamente te invito a atreverte.
 
 Aquí tienes los datos de contacto para saber más:
 

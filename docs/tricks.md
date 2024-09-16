@@ -92,6 +92,7 @@ LaTeX | Markdown
 `\\par ` | `\n`
 `\\textit\{([^\}]+)\}` | `_$1_`
 `\\bigbreak` | ``
+`"\+--` | `—`
 `\\section\*\{([^\}]+)\}` | `## $1`
 `\\noindent \\textsc\{([^\}]+)\}` | `<span style="font-variant:small-caps;">$1</span>`
 `\\begin\{itemize\}` | ``

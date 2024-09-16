@@ -87,7 +87,7 @@ Neal Waldrop
 January 12, 2019 
 
 > Neal Waldrop has been reading _The Urantia Book_ with conviction and commitment ever since November 1973. He served for three years as a Trustee of Urantia Foundation (1989-1992) and in 2003 was appointed as a Trustee Emeritus. His current efforts center on the work of the Committee for the Global Endeavor ( http://www.globalendeavor.net ), which he chairs. In July 2016 he completed his detailed discussion document Revelation Revealed, a text of over 200 pages highlighting many aspects of the fifth epochal revelation that, in his view, have not yet received the attention they deserve. For this purpose he chairs an ongoing series of webinars that can be viewed in YouTube — panel discussions during which participants analyze and comment on short segments of the long document. In professional terms, he spent five years as an officer in the U.S. Navy, then over 27 years as a Foreign Service Officer employed by the U.S. Department of State (career diplomat). Since November 2006, he has been working for a branch of the U.S. Department of Justice as a part-time translator (French to English and English to French).
-> {.is-info} 
+{.is-info} 
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Neal_Waldrop/Epochal_Pathways/004151.jpg">

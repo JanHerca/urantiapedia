@@ -70,7 +70,7 @@ En los 15 años que llevamos siguiendo el rastro de los envíos de Pipeline, en 
 <br style="clear:both;"/>
 
 > La traducción al español del libro, _El libro de Urantia_, siempre ha sido la más solicitada en Pipeline.
-> {.is-info}
+{.is-info}
 
 
 ## Referencias

@@ -114,7 +114,7 @@ Chers Messieurs,
 
 Je vous remercie de votre lettre du 13 novembre et regrette de n'avoir pas connu votre existence en 1954 alors que je passais plusieurs jours à Chicago comme invité de votre gouvernement pour une mission économique. Il m'aurait été agréable d'établir un contact direct.
 
-Dans l'état actuel des choses, je vous prie de m'envoyer deux exemplaires du _Livre d'Urantia_. Je joins un chèque de $20 \$$, comme vous le demandez.
+Dans l'état actuel des choses, je vous prie de m'envoyer deux exemplaires du _Livre d'Urantia_. Je joins un chèque de 20$, comme vous le demandez.
 
 Quant à l'index, qui aura une grande valeur pour les lecteurs sérieux, et encore plus pour les enseignants volontaires de ces leçons capitales, veuillez me faire savoir quand il sera prêt. Je sens que vous avez l'intention de le composer avec le même soin extraordinaire que le Livre lui-même. Il est donc évident que vous avez besoin de beaucoup de temps. J'attends le résultat avec impatience.
 

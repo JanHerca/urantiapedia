@@ -72,7 +72,7 @@ La traduction espagnole du _Livre d’Urantia, El Libro de Urantia,_ a toujours 
 <br style="clear:both;"/>
 
 > La traduction espagnole du _Livre d’Urantia_, _El Libro de Urantia,_ a toujours été le livre de notre pipeline le plus demandé.
-> {.is-info}
+{.is-info}
 
 
 ## Références

@@ -88,7 +88,7 @@ Neal Waldrop
 12 janvier 2019 
 
 > Neal Waldrop lit _Le Livre d'Urantia_ avec conviction et engagement depuis novembre 1973. Il a servi pendant trois ans comme administrateur de la Fondation Urantia (1989-1992) et en 2003 a été nommé administrateur émérite. Ses efforts actuels se concentrent sur les travaux du Comité pour l'effort mondial ( http://www.globalendeavor.net ), qu'il préside. En juillet 2016, il a terminé son document de discussion détaillé Révélation révélée, un texte de plus de 200 pages mettant en évidence de nombreux aspects de la cinquième révélation d'époque qui, à son avis, n'ont pas encore reçu l'attention qu'ils méritent. À cette fin, il préside une série continue de webinaires qui peuvent être visionnés sur YouTube : des tables rondes au cours desquelles les participants analysent et commentent de courts segments du long document. Sur le plan professionnel, il a passé cinq ans comme officier dans la marine américaine, puis plus de 27 ans comme officier du service extérieur employé par le Département d'État américain (diplomate de carrière). Depuis novembre 2006, il travaille pour une branche du ministère américain de la Justice en tant que traducteur à temps partiel (du français vers l'anglais et de l'anglais vers le français).
-> {.is-info} 
+{.is-info} 
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Neal_Waldrop/Epochal_Pathways/004151.jpg">

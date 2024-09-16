@@ -70,7 +70,7 @@ In the 15 years that we have kept track of Pipeline placements, as of June 2021,
 <br style="clear:both;"/>
 
 > The Spanish translation of _The Urantia Book_, El Libro de Urantia, has always been our most requested Pipeline book.
-> {.is-info}
+{.is-info}
 
 
 ## References
