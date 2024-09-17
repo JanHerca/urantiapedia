@@ -1,30 +1,78 @@
 {
-    "git.ignoreLimitWarning": true,
-    "editor.wordWrap": "wordWrapColumn",
-    "editor.wrappingIndent": "indent",
-    "editor.snippetSuggestions": "top",
-    "[markdown]":  {
-        "editor.quickSuggestions": {
-          "comments": "on",
-          "strings": "on",
-          "other": "on"
-        },
-        "editor.wordWrap": "wordWrapColumn"
+  "git.ignoreLimitWarning": true,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wrappingIndent": "indent",
+  "editor.snippetSuggestions": "top",
+  "[markdown]":  {
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
     },
-    "markdown.suggest.paths.enabled": false,
-    "editor.wordWrapColumn": 80,
-    "prettier.proseWrap": "always",
-    "svg.preview.background": "editor",
-    "markdown.styles": [
-      "css\\markdown.css",
-      "css\\markdown_theme.css",
-      "css\\markdown_app.css"
-    ],
-    "editor.fontSize": 12,
-    "markdown.preview.fontSize": 14,
-    "markdown.preview.lineHeight": 1.4,
-    "spellright.language": [
-      "es"
-    ],
-    "spellright.documentTypes": []
+    "editor.wordWrap": "wordWrapColumn",
+  },
+  "markdown.suggest.paths.enabled": false,
+  "editor.wordWrapColumn": 80,
+  "prettier.proseWrap": "always",
+  "svg.preview.background": "editor",
+  "markdown.styles": [
+    "css\\markdown.css",
+    "css\\markdown_theme.css",
+    "css\\markdown_app.css"
+  ],
+  "editor.fontSize": 12,
+  "markdown.preview.fontSize": 14,
+  "markdown.preview.lineHeight": 1.4,
+  "spellright.language": [
+    "es"
+  ],
+  "spellright.documentTypes": [],
+  "editor.tokenColorCustomizations": {
+    "[Default Dark Modern]": {
+        "textMateRules": [
+          {
+              "scope": [
+                "punctuation.definition.string.begin.html", 
+                "punctuation.definition.string.end.html"
+              ],
+              "settings": {
+                  "foreground": "#ffd866",
+                  "fontStyle": ""
+              }
+          },
+          {
+            "scope": [
+              "heading.2.markdown entity.name.section.markdown", 
+              "heading.2.markdown punctuation.definition.heading.markdown",
+            ],
+            "settings": {
+                "foreground": "#29dada",
+            }
+          },
+          {
+            "scope": [
+              "markup.italic.markdown"
+            ],
+            "settings": {
+                "foreground": "#9ce3ff",
+            }
+          },
+          {
+            "scope": "markup.bold.markdown markup.italic.markdown",
+            "settings": {
+                "foreground": "#569CD6",
+                "fontStyle": "italic bold",
+            }
+           },
+        ]
+    }
+  },
+  "highlight.regexes": {
+    "([“|”|«|»|‘|’|\\.|\\!|\\?|;|:])": {
+      "filterLanguageRegex": "markdown",
+      "decorations": [
+        { "color": "#ffd866" }
+      ],
+    }
+  },
 }

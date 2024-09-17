@@ -155,7 +155,7 @@ On peut adorer 2-3 minutes ici, 2-3 minutes là. Ce que j'appelle des microadora
 
 Dans l'adoration le libre arbitre est à l'œuvre ; il faut décider de le faire.
 
-Dans la pratique de l'adoration, on ne doit pas se préoccuper si l'on réussit. $99 \%$ de la réussite est de le faire.
+Dans la pratique de l'adoration, on ne doit pas se préoccuper si l'on réussit. 99% de la réussite est de le faire.
 
 La pratique de l'adoration n'est pas nécessairement synonyme d'état de plénitude ou de grâce, bien que cala puisse arriver.
 

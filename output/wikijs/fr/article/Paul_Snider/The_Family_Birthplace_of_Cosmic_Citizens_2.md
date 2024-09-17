@@ -126,7 +126,7 @@ Il y a une phrase, juste la partie d'une phrase dans Le Livre d'Urantia, qui ens
 
 Je pense que c'est une phrase très puissante dans Le Livre d'Urantia. Elle dit que Jésus différait toujours son plus petit désir à la volonté du Père qui est aux cieux.
 
-Pour le mental désinvolte [^32], l'implication à ce niveau - le niveau $100 \%$ - pourrait être très restrictif, comme une camisole de force. Cela nous transformerait en zombies spirituels. Le fait est, que cela nous conduirait tout juste à l'opposé. La volonté du Père est la plus grande force libératrice dans l'univers. Jésus prouva cela encore et encore au cours de sa vie. Et plus nous progressons en tant que citoyens cosmiques plus nous nous rapprocherons réellement de l'expérience de la vérité de cette déclaration.
+Pour le mental désinvolte [^32], l'implication à ce niveau - le niveau 100% - pourrait être très restrictif, comme une camisole de force. Cela nous transformerait en zombies spirituels. Le fait est, que cela nous conduirait tout juste à l'opposé. La volonté du Père est la plus grande force libératrice dans l'univers. Jésus prouva cela encore et encore au cours de sa vie. Et plus nous progressons en tant que citoyens cosmiques plus nous nous rapprocherons réellement de l'expérience de la vérité de cette déclaration.
 
 La deuxième action est de **rester détendu**.
 

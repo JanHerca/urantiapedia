@@ -371,7 +371,7 @@ Puisque nous ne sommes plus des êtres reproducteurs, ce nouveau corps est dépo
 
 _Pas d'organes d'excrétion_ <a id="a371_28"></a>[LU 43:6.6](/fr/The_Urantia_Book/43#p6_6).
 
-Les aliments morontiels y sont absorbés à $100 \%$, ce qui fait que nous n'avons pas non plus d'organes d'excrétion.
+Les aliments morontiels y sont absorbés à 100%, ce qui fait que nous n'avons pas non plus d'organes d'excrétion.
 
 _Acuité sensorielle de loin supérieure_ <a id="a375_40"></a>[LU 46:5.10](/fr/The_Urantia_Book/46#p5_10).
 
@@ -425,7 +425,7 @@ _Demeures transparentes et sans toits._
 
 Nos habitations, nos demeures morontielles seront taillées dans des blocs de cristaux tout à fait transparents — puisque nous n'avons plus d'organes reproducteurs, la notion de vie privée prend une toute nouvelle signification. Les murs opaques comme tels ne sont plus nécessaires.
 
-En plus, nos habitations n'auront plus de toits, elles seront donc à ciel ouvert, ce qui devient tout à fait compréhensible du fait que le climat est parfaitement maîtrisé et contrôlé dans ces environnements. Il n'y aura plus de gros systèmes d'égouts comme on en retrouve dans nos villes terrestres, puisque nous absorbons $100 \%$ de nos aliments, qui sont, en fait, de pures croissances d'énergie.
+En plus, nos habitations n'auront plus de toits, elles seront donc à ciel ouvert, ce qui devient tout à fait compréhensible du fait que le climat est parfaitement maîtrisé et contrôlé dans ces environnements. Il n'y aura plus de gros systèmes d'égouts comme on en retrouve dans nos villes terrestres, puisque nous absorbons 100% de nos aliments, qui sont, en fait, de pures croissances d'énergie.
 
 _Transports rapides — et oiseaux transporteurs._
 

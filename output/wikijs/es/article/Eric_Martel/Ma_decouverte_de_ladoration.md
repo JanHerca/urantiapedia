@@ -132,7 +132,7 @@ Podemos amar 2-3 minutos aquí, 2-3 minutos allá. Lo que yo llamo microadoracio
 
 En la adoración actúa el libre albedrío; tienes que decidir hacerlo.
 
-En la práctica de la adoración, uno no debe preocuparse por si tendrá éxito. $99 \%$ del éxito es hacerlo.
+En la práctica de la adoración, uno no debe preocuparse por si tendrá éxito. 99% del éxito es hacerlo.
 
 La práctica de la adoración no necesariamente equivale a un estado de plenitud o gracia, aunque eso puede suceder.
 

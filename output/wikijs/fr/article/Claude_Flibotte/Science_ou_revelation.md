@@ -50,7 +50,7 @@ Ces étrangers, ils les identifient comme étant Homo heidelbergensis arrivant d
 
 ## La deuxième influence
 
-Toujours selon l'auteur, Homo Sapiens, l'homme moderne serait né en Afrique il y a 300 000 ans. Il aurait émigré en Europe il y a 70000 ans pour finalement arriver en France en provenance du Proche-Orient il y a 40000 ans. Ce sont des chasseurs-cueilleurs. L'ADN des Français contiendrait en moyenne $10 \%$ de séquences de cet homme moderne.
+Toujours selon l'auteur, Homo Sapiens, l'homme moderne serait né en Afrique il y a 300 000 ans. Il aurait émigré en Europe il y a 70000 ans pour finalement arriver en France en provenance du Proche-Orient il y a 40000 ans. Ce sont des chasseurs-cueilleurs. L'ADN des Français contiendrait en moyenne 10% de séquences de cet homme moderne.
 
 ## La troisième influence
 

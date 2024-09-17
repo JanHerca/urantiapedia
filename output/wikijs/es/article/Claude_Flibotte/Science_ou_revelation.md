@@ -27,7 +27,7 @@ Estos extranjeros los identifican como Homo heidelbergensis llegados de África,
 
 ## La segunda influencia
 
-Según el autor Homo Sapiens, el hombre moderno nació en África hace 300.000 años. Habría emigrado a Europa hace 70.000 años y finalmente llegó a Francia desde Oriente Medio hace 40.000 años. Son cazadores-recolectores. El ADN de los franceses contendría en promedio $10 \%$ secuencias de este hombre moderno.
+Según el autor Homo Sapiens, el hombre moderno nació en África hace 300.000 años. Habría emigrado a Europa hace 70.000 años y finalmente llegó a Francia desde Oriente Medio hace 40.000 años. Son cazadores-recolectores. El ADN de los franceses contendría en promedio 10% secuencias de este hombre moderno.
 
 ## La tercera influencia
 

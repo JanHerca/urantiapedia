@@ -348,7 +348,7 @@ Como ya no somos seres reproductivos, este nuevo cuerpo carece de órganos repro
 
 _Sin órganos de excreción_ [LU 43:6.6](/es/The_Urantia_Book/43#p6_6).
 
-Los alimentos morontiales se absorben al $100 \%$, lo que significa que tampoco tenemos órganos excretores.
+Los alimentos morontiales se absorben al 100%, lo que significa que tampoco tenemos órganos excretores.
 
 _Agudeza sensorial muy superior_ [LU 46:5.10](/es/The_Urantia_Book/46#p5_10).
 
@@ -402,7 +402,7 @@ _Residencias transparentes y sin techo._
 
 Nuestros hogares, nuestras moradas morontiales, estarán tallados en bloques de cristales completamente transparentes; dado que ya no tenemos órganos reproductivos, la noción de privacidad adquiere un significado completamente nuevo. Las paredes opacas como tales ya no son necesarias.
 
-Además, nuestras casas ya no tendrán tejados, por lo que estarán abiertas al cielo, lo que resulta completamente comprensible teniendo en cuenta que el clima está perfectamente controlado y controlado en estos entornos. Ya no habrá grandes sistemas de alcantarillado como los que se encuentran en nuestras ciudades terrenales, ya que absorbemos $100 \%$ de nuestros alimentos, que es, de hecho, puro crecimiento de energía.
+Además, nuestras casas ya no tendrán tejados, por lo que estarán abiertas al cielo, lo que resulta completamente comprensible teniendo en cuenta que el clima está perfectamente controlado y controlado en estos entornos. Ya no habrá grandes sistemas de alcantarillado como los que se encuentran en nuestras ciudades terrenales, ya que absorbemos 100% de nuestros alimentos, que es, de hecho, puro crecimiento de energía.
 
 _Transportes rápidos y pájaros portadores._
 
