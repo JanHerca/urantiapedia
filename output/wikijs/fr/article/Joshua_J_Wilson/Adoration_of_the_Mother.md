@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Joshua Wilson<br>© 2020 Elianne Obadia, pour l'édition<br>© 2020 La Fellowship du Livre d'Urantia</ p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Joshua Wilson<br>© 2020 Elianne Obadia, pour l'édition<br>© 2020 La Fellowship du Livre d'Urantia</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
