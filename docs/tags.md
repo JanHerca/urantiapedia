@@ -229,6 +229,7 @@ Place
 Planetary government
 Podcast
 Poetry
+Politics
 Prayer
 Presentation
 Prophecy
@@ -260,6 +261,7 @@ Study Groups
 Suffering
 Sufism
 Teaching Methods
+Teamwork
 The Arena
 The Publication Mandate
 The Supreme
