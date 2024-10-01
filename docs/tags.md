@@ -168,6 +168,7 @@ History of Urantia
 History of Urantia Foundation
 History of Urantia Movement
 Hope
+Humor
 Index
 Inner Life
 Innerface International
