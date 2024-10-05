@@ -23,7 +23,7 @@ Esta y otra información sobre cómo están organizados los artículos en el pro
 - [Índice de todos los artículos organizados por publicaciones](/es/index/articles)
 
 <figure id="Sample_fig_1" class="image urantiapedia">
-<img src="/image/sample_page_article.png">
+<img src="/image/help/sample_page_article.png">
 <figcaption><em> Ejemplo de visualización de un artículo.</em></figcaption>
 </figure>
 

@@ -238,7 +238,7 @@ Para acessá-lo:
 2. Duas janelas se abrem. ignore a instância do Dev Tools. Está lá para depuração.
 3. Selecione *Editar Índice de Tópicos* no painel lateral.
 
-![](/image/uptools_topic_editor.png)
+![](/image/help/uptools_topic_editor.png)
 
 O *Editor de Índice de Tópicos* tem quatro áreas principais:
 - no lado esquerdo a lista de tópicos.
@@ -262,13 +262,13 @@ Para usar o *Topic Index Editor* siga estas instruções:
 
 Uma das funcionalidades úteis do *Topic Index Editor* é que ele mostra os erros encontrados nos tópicos. Por exemplo, no instantâneo abaixo foi encontrado um link para um tópico não existente. Agora podemos ir ao VS Code e verificar o arquivo com o erro e corrigi-lo.
 
-![](/image/uptools_topic_editor_2.png)
+![](/image/help/uptools_topic_editor_2.png)
 
 Outra funcionalidade útil é que o nome do tópico é destacado no texto do *Livro de Urântia*. Por exemplo, no instantâneo abaixo o tópico, `brotherhood of man` em inglês e `hermandad de los hombres` em espanhol, foi encontrado no texto em inglês, mas não em espanhol. Você pode verificar e ver que em espanhol o *Livro de Urântia* diz `fraternidad de los hombres` em vez de `hermandad de los hombres`, que significa o mesmo. Então, para corrigir isso, precisamos adicionar `fraternidad de los hombres` como um alias no tópico.
 
 Também uma funcionalidade útil é que a linha curta selecionada, que diz `civilization encompased by love` em inglês e `civilización rodeada por el amor` em espanhol, foi encontrada no parágrafo *Livro de Urântia* que é referenciado para a linha do tópico. A frase no parágrafo que melhor corresponde à linha é destacada em negrito e um botão Copiar aparece na parte inferior. Você pode usar esse botão para copiar a frase para a área de transferência e colar no VS Code, melhorando o texto do tópico com um texto mais explicativo.
 
-![](/image/uptools_topic_editor_3.png)
+![](/image/help/uptools_topic_editor_3.png)
 
 ## Links externos
 

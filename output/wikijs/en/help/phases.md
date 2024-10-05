@@ -62,7 +62,7 @@ Addition of indexes of people, beings, places, *The Bible*, references, quotes, 
 Bulk load of files in Wiki.js format | GitHub | Administrators
 
 <figure id="Sample_fig_1" class="image urantiapedia">
-<img src="/image/sample_page_article.png">
+<img src="/image/help/sample_page_article.png">
 <figcaption><em> Sample of rendering an article.</em></figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Development in *Wiki.js* of a new dual mode viewer for *The Urantia Book* in pai
 Development in Wiki.js of a preference selector in the translation to use of *The Urantia Book* (for languages like Spanish with several) | GitHub | Developers
 
 <figure id="Sample_fig_2" class="image urantiapedia">
-<img src="/image/sample_page_side_by_side.png">
+<img src="/image/help/sample_page_side_by_side.png">
 <figcaption><em> Sample of rendering The Urantia Book side by side.</em></figcaption>
 </figure>
 
@@ -114,7 +114,7 @@ Development in *Wiki.js* of an interactive map editor, the format and the render
 Addition of a set of sample interactive maps, about race migrations, historical facts and Jesus voyages | GitHub | Editors-in-Chief
 
 <figure id="Sample_fig_3" class="image urantiapedia">
-<img src="/image/sample_page_map.jpg">
+<img src="/image/help/sample_page_map.jpg">
 <figcaption><em> Sample of rendering an interactive map.</em></figcaption>
 </figure>
 
@@ -142,7 +142,7 @@ Development in *Wiki.js* of a slides editor, with its format and renderer | GitH
 Addition of a set of slides using available ones in the association’s sites | GitHub | Editors-in-Chief
 
 <figure id="Sample_fig_4" class="image urantiapedia">
-<img src="/image/sample_page_slides.png">
+<img src="/image/help/sample_page_slides.png">
 <figcaption><em> Sample of rendering a presentation.</em></figcaption>
 </figure>
 
@@ -170,7 +170,7 @@ Development in Wiki.js for a 3D interactive model creator/editor, its format and
 Addition of a set of 3D models about Paradise, architectural spheres, Garden of Eden and the like | GitHub | Editors-in-Chief
 
 <figure id="Sample_fig_5" class="image urantiapedia">
-<img src="/image/sample_page_3d.jpg">
+<img src="/image/help/sample_page_3d.jpg">
 <figcaption><em> Sample of rendering a 3D model.</em></figcaption>
 </figure>
  

@@ -62,7 +62,7 @@ Ajout d'index de personnes, d'êtres, de lieux, *La Bible*, références, citati
 Chargement en masse de fichiers au format Wiki.js | GitHub | Administrateurs
 
 <figure id="Sample_fig_1" class="image urantiapedia">
-<img src="/image/sample_page_article.png">
+<img src="/image/help/sample_page_article.png">
 <figcaption><em> Exemple de rendu d'un article.</em></figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Développement en *Wiki.js* d'un nouveau visualiseur en mode double pour *Le Liv
 Développement dans Wiki.js d'un sélecteur de préférence dans la traduction à l'usage du *Livre d'Urantia* (pour des langues comme l'espagnol avec plusieurs) | GitHub | Développeurs
 
 <figure id="Sample_fig_2" class="image urantiapedia">
-<img src="/image/sample_page_side_by_side.png">
+<img src="/image/help/sample_page_side_by_side.png">
 <figcaption><em> Exemple de rendu du Livre d'Urantia côte à côte.</em></figcaption>
 </figure>
 
@@ -114,7 +114,7 @@ Développement en *Wiki.js* d'un éditeur de carte interactif, du format et du r
 Ajout d'un ensemble d'exemples de cartes interactives, sur les migrations raciales, les faits historiques et les voyages de Jésus | GitHub | Rédacteurs en chef
 
 <figure id="Sample_fig_3" class="image urantiapedia">
-<img src="/image/sample_page_map.jpg">
+<img src="/image/help/sample_page_map.jpg">
 <figcaption><em> Exemple de rendu d'une carte interactive.</em></figcaption>
 </figure>
 
@@ -140,7 +140,7 @@ Développement en *Wiki.js* d'un éditeur de slides, avec son format et son rend
 Ajout d'un jeu de diapositives en utilisant celles disponibles sur les sites de l'association | GitHub | Rédacteurs en chef
 
 <figure id="Sample_fig_4" class="image urantiapedia">
-<img src="/image/sample_page_slides.png">
+<img src="/image/help/sample_page_slides.png">
 <figcaption><em> Exemple de rendu d'une présentation.</em></figcaption>
 </figure>
 
@@ -168,7 +168,7 @@ Développement en Wiki.js pour un créateur/éditeur de modèle interactif 3D, s
 Ajout d'un ensemble de modèles 3D sur le Paradis, les sphères architecturales, le Jardin d'Eden et autres | GitHub | Rédacteurs en chef
 
 <figure id="Sample_fig_5" class="image urantiapedia">
-<img src="/image/sample_page_3d.jpg">
+<img src="/image/help/sample_page_3d.jpg">
 <figcaption><em> Exemple de rendu d'un modèle 3D.</em></figcaption>
 </figure>
  

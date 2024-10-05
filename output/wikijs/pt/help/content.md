@@ -195,7 +195,7 @@ Esteja ciente de que o propósito do *Urantipedia* é permitir um conteúdo mult
 Este tipo de conteúdo inclui também esquemas ou desenhos com esquemas. Existem várias tecnologias que permitem a criação fácil de diagramas e gráficos que são atualmente suportados em *Urantiapedia*: [Kroki](https://kroki.io/), [Mermaid](http://mermaid-js.github.io/mermaid/#/) e [PlantUML](https://plantuml.com/). Se os geradores de diagramas anteriores não forem suficientes para os propósitos do *O Livro de Urântia* (porque eles são principalmente para desenvolvimento de software) é possível usar qualquer conteúdo em [formato SVG](https://developer.mozilla.org/en-US/docs/Web/SVG), que é o melhor formato recomendado para criar diagramas, esquemas ou gráficos.
 
 <figure id="Sample_fig_1" class="image urantiapedia">
-<img src="/image/sample_page_article.png">
+<img src="/image/help/sample_page_article.png">
 <figcaption><em> Exemplo de renderização de um artigo.</em></figcaption>
 </figure>
 
@@ -273,7 +273,7 @@ E duas maneiras de abrir este mapa centrado em Ramah seriam:
 Os nomes dos mapas em URL já foram explicados que é necessário estar em inglês.
 
 <figure id="Sample_fig_3" class="image urantiapedia">
-<img src="/image/sample_page_map.jpg">
+<img src="/image/help/sample_page_map.jpg">
 <figcaption><em> Exemplo de renderização de um mapa interativo.</em></figcaption>
 </figure>
 
@@ -289,7 +289,7 @@ O padrão de URL para slides é:
 As URLs terão um parâmetro para abrir em um determinado slide.
 
 <figure id="Sample_fig_4" class="image urantiapedia">
-<img src="/image/sample_page_slides.png">
+<img src="/image/help/sample_page_slides.png">
 <figcaption><em> Exemplo de renderização de uma apresentação.</em></figcaption>
 </figure>
 
@@ -305,7 +305,7 @@ O padrão de URL para modelos 3D é:
 Assim como os mapas, os modelos 3D suportarão a centralização em um item usando um nome, como: `https://urantiapedia.org/en/3dmodel/Jerusem?name=Mansonia_7`
 
 <figure id="Sample_fig_5" class="image urantiapedia">
-<img src="/image/sample_page_3d.jpg">
+<img src="/image/help/sample_page_3d.jpg">
 <figcaption><em> Exemplo de renderização de um modelo 3D.</em></figcaption>
 </figure>
 

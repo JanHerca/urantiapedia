@@ -9,7 +9,7 @@ dateCreated: 2022-10-16T13:55:38.362Z
 ---
 
 <figure id="Sample_fig_5" class="image urantiapedia">
-<img src="/image/sample_page_3d.jpg">
+<img src="/image/help/sample_page_3d.jpg">
 <figcaption><em> Sample of rendering a 3D model.</em></figcaption>
 </figure>
 

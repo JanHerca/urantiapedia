@@ -63,7 +63,7 @@ Adición de índices de personas, seres, lugares, bíblicos, de referencias, de 
 Carga masiva de los archivos en formato Wiki.js | GitHub | Administradores
 
 <figure id="Sample_fig_1" class="image urantiapedia">
-<img src="/image/sample_page_article.png">
+<img src="/image/help/sample_page_article.png">
 <figcaption><em> Ejemplo de visualización de un artículo.</em></figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Desarrollo en Wiki.js de un modo de visualización de *El Libro de Urantia* y cu
 Desarrollo en Wiki.js de un selector de preferencia en la traducción a usar de *El Libro de Urantia* (para idiomas como español con varias) | GitHub | Desarrolladores
 
 <figure id="Sample_fig_2" class="image urantiapedia">
-<img src="/image/sample_page_side_by_side.png">
+<img src="/image/help/sample_page_side_by_side.png">
 <figcaption><em> Ejemplo de visualización lado a lado de El Libro de Urantia.</em></figcaption>
 </figure>
 
@@ -115,7 +115,7 @@ Desarrollo en *Wiki.js* un editor de mapas interactivos, su formato y su renderi
 Adición de una colección de mapas interactivos de ejemplo sobre migraciones de razas, hechos históricos y viajes de Jesús de Nazaret | GitHub | Editores Jefe
 
 <figure id="Sample_fig_3" class="image urantiapedia">
-<img src="/image/sample_page_map.jpg">
+<img src="/image/help/sample_page_map.jpg">
 <figcaption><em> Ejemplo de visualización de un mapa interactivo.</em></figcaption>
 </figure>
 
@@ -141,7 +141,7 @@ Desarrollo en *Wiki.js* de un editor de presentaciones, su formato y su renderiz
 Adición de una colección de presentaciones usando disponibles en algunos sitios web de asociaciones | GitHub | Editores Jefe
 
 <figure id="Sample_fig_4" class="image urantiapedia">
-<img src="/image/sample_page_slides.png">
+<img src="/image/help/sample_page_slides.png">
 <figcaption><em> Ejemplo de visualización de una presentación.</em></figcaption>
 </figure>
 
@@ -169,7 +169,7 @@ Desarrollo en *Wiki.js* un editor de modelos 3D interactivos, su formato y su re
 Adición de una colección de modelos 3D, como la Isla del Paraíso, las esferas arquitectónicas, o el Jardín del Eden | GitHub | Editores Jefe
 
 <figure id="Sample_fig_5" class="image urantiapedia">
-<img src="/image/sample_page_3d.jpg">
+<img src="/image/help/sample_page_3d.jpg">
 <figcaption><em> Ejemplo de visualización de un modelo 3D.</em></figcaption>
 </figure>
 

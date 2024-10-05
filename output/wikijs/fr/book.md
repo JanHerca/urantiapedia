@@ -31,7 +31,7 @@ En ajoutant ces livres dans Urantiapedia, nous allons procéder de la même mani
 - [Index de tous les groupes de livres](/fr/index/books)
 
 <figure id="Sample_fig_1" class="image urantiapedia">
-<img src="/image/sample_page_book.png">
+<img src="/image/help/sample_page_book.png">
 <figcaption><em>Exemple de présentation d'un livre.</em></figcaption>
 </figure>
 

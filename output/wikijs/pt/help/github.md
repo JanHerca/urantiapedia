@@ -54,7 +54,7 @@ O processo para um “Editor Chefe” será o seguinte:
 6. Esses *pull requests* de “Editores-chefes” são revisados ​​por “Administrators”, que são responsáveis ​​por fazer um *merge* com o branch principal (master) de todas as mudanças que estiverem corretas. Quaisquer alterações que não estejam corretas serão rejeitadas e os “Editores Chefes” serão notificados para corrigi-las.
 7. Quando as alterações estão OK um “Administrador” faz uma *merge* delas e elas são carregadas automaticamente para a web. Eles geralmente estão disponíveis em alguns minutos, dependendo do número de alterações e do tipo.
 
-![](/image/github_workflow_version_2.png)
+![](/image/help/github_workflow_version_2.png)
 
 ## Configurando o projeto *Urantiapedia*
 
@@ -81,7 +81,7 @@ Para saber sobre os marcos do projeto, consulte [Milestones of Urantiapedia](/pt
 
 Atualmente todas as tarefas, exceto 2, foram concluídas.
 
-![](/image/formats.png)
+![](/image/help/formats.png)
 
 ### Marco II: Livros, artigos, auxílios de estudo, esquemas e índices
 

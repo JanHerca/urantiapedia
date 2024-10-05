@@ -31,7 +31,7 @@ When adding these books into Urantiapedia we are going to proceed in the same wa
 - [Index of all groups of books](/en/index/books)
 
 <figure id="Sample_fig_1" class="image urantiapedia">
-<img src="/image/sample_page_book.png">
+<img src="/image/help/sample_page_book.png">
 <figcaption><em>Example of a book visualization.</em></figcaption>
 </figure>
 

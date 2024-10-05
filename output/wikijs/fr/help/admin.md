@@ -56,7 +56,7 @@ Le processus sera le suivant :
 7. Lorsque les modifications sont correctes et que «l'administrateur» a effectué la fusion, toutes les modifications apportées au projet *Urantiapedia-backup* sont automatiquement synchronisées avec le site Web. Désormais, les modifications sont visibles par tous, afin de vérifier et valider qu'elles sont correctes.
 8. Le processus est répété autant de fois que nécessaire, en revenant au point 2.
 
-![](/image/github_workflow_version_2.png)
+![](/image/help/github_workflow_version_2.png)
 
 ## Mise en place du projet *Urantiapedia*
 
@@ -83,7 +83,7 @@ Une fois que nous avons l'entrée dans les bons dossiers, pour chaque langue, le
 
 Les *rédacteurs en chef* et les *rédacteurs adjoints* effectuent les tâches 1 à 3. *Les administrateurs* effectuent les tâches 4 à 9.
 
-![](/image/formats.png)
+![](/image/help/formats.png)
 
 ## Liens externes
 

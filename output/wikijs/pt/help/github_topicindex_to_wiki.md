@@ -30,7 +30,7 @@ Para converter esses arquivos TXT para o formato Wiki.js, siga estas etapas:
 - Clique em *Executar*.
 - Se tudo estiver correto aparecerá *Conversão executada com sucesso*. Em caso de erros, a lista de erros aparecerá. Neste caso, é aconselhável notificar um dos usuários *desenvolvedores* sobre o erro.
 
-![](/image/upt_txt_wiki.png)
+![](/image/help/upt_txt_wiki.png)
 
 Os arquivos de saída têm formato HTML. Um arquivo será gerado para cada tópico.
 

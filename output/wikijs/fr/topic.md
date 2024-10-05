@@ -28,7 +28,7 @@ Pour en savoir plus sur la manière dont l'Encyclopédie est organisée dans le 
 - [Index des religions, cultes, croyances](/fr/index/religions)
 
 <figure id="Sample_fig_1" class="image urantiapedia">
-<img src="/image/sample_page_topic.png">
+<img src="/image/help/sample_page_topic.png">
 <figcaption><em>Exemple d'affichage d'un terme de l'Encyclopédie.</em></figcaption>
 </figure>
 

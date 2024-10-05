@@ -56,7 +56,7 @@ The process will be as follows:
 7. When changes that are OK and "Administrator" has done the merge, any changes to the *Urantiapedia-backup* project are automatically synchronized with the website. Now changes are visible to all, in order to check and validate that they are correct.
 8. The process is repeated as many times as needed, returning to point 2.
 
-![](/image/github_workflow_version_2.png)
+![](/image/help/github_workflow_version_2.png)
 
 ## Setting up the *Urantiapedia* project
 
@@ -83,7 +83,7 @@ Once we have the input in the correct folders, for each language, the steps to t
 
 *Editors-in-Chief* and *Assistant Editors* perform tasks 1-3. *Admins* perform tasks 4-9.
 
-![](/image/formats.png)
+![](/image/help/formats.png)
 
 ## External links
 

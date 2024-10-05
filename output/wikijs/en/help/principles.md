@@ -95,7 +95,7 @@ Consider this facts about translations:
 * Less than 1% of secondary works have a translation in other languages, and 99% are only in English.
 
 <figure id="Principles_fig_1" class="image urantiapedia">
-<img src="/image/UB_potential_readers_by_native_speakers.png">
+<img src="/image/help/UB_potential_readers_by_native_speakers.png">
 <figcaption><em>Percentage of potential Urantia Book readers in the world in their first language (July 2022). In blue languages with available official translation, total 32.61%. That means 2/3 of world inhabitants cannot read the book in their first language.</em></figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ But this strategy needs to be updated. Two-thirds of world inhabitants cannot re
 > . . . it was regrettable that there was no one like Peter to go into **China**, or like Paul to enter **India** . . . [UB 130:2.3](/en/The_Urantia_Book/130#p2_3)
 
 <figure id="Principles_fig_2" class="image urantiapedia">
-<img src="/image/UB_secondary_works_potential_readers_by_native_speakers.png">
+<img src="/image/help/UB_secondary_works_potential_readers_by_native_speakers.png">
 <figcaption><em>Percentage of potential Secondary Work’s readers in the world in their first-language (July 2022). In blue proportion available. Potential readers in first-language of Secondary Works are mainly English speakers.</em></figcaption>
 </figure>
 

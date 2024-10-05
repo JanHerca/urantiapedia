@@ -24,7 +24,7 @@ This and other information about how articles are organized in the project can b
 
 
 <figure id="Sample_fig_1" class="image urantiapedia">
-<img src="/image/sample_page_article.png">
+<img src="/image/help/sample_page_article.png">
 <figcaption><em> Example of an article display.</em></figcaption>
 </figure>
 

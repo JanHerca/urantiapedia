@@ -23,7 +23,7 @@ Ces informations ainsi que d'autres sur la manière dont les articles du projet 
 - [Index de tous les articles organisés par publications](/fr/index/articles)
 
 <figure id="Sample_fig_1" class="image urantiapedia">
-<img src="/image/sample_page_article.png">
+<img src="/image/help/sample_page_article.png">
 <figcaption><em>Exemple d'affichage d'un article.</em></figcaption>
 </figure>
 

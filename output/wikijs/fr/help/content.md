@@ -195,7 +195,7 @@ Sachez que le but de *Urantiapedia* est de permettre un contenu multilingue pour
 Ce type de contenu comprend également des schémas ou des dessins avec des schémas. Il existe un certain nombre de technologies qui permettent de créer facilement des diagrammes et des graphiques qui sont actuellement pris en charge dans *Urantiapedia* : [Kroki](https://kroki.io/), [Mermaid](http://mermaid-js.github.io/mermaid/#/) et [PlantUML](https://plantuml.com/). Si les générateurs de diagrammes précédents ne suffisent pas pour les besoins du *Livre d'Urantia* (car ils sont principalement destinés au développement de logiciels), il est possible d'utiliser n'importe quel contenu au [format SVG](https://developer.mozilla.org/en-US/docs/Web/SVG), c'est le meilleur format recommandé pour créer des diagrammes, des schémas ou des graphiques.
 
 <figure id="Sample_fig_1" class="image urantiapedia">
-<img src="/image/sample_page_article.png">
+<img src="/image/help/sample_page_article.png">
 <figcaption><em> Exemple de rendu d'un article.</em></figcaption>
 </figure>
 
@@ -273,7 +273,7 @@ Et deux façons d'ouvrir cette carte centrée sur Ramah seraient :
 Les noms des cartes en URL ont déjà été expliqués qu'il faut être en anglais.
 
 <figure id="Sample_fig_3" class="image urantiapedia">
-<img src="/image/sample_page_map.jpg">
+<img src="/image/help/sample_page_map.jpg">
 <figcaption><em> Exemple de rendu d'une carte interactive.</em></figcaption>
 </figure>
 
@@ -289,7 +289,7 @@ Le modèle d'URL pour les diapositives est :
 Les URL auront un paramètre pour s'ouvrir sur une diapositive donnée.
 
 <figure id="Sample_fig_4" class="image urantiapedia">
-<img src="/image/sample_page_slides.png">
+<img src="/image/help/sample_page_slides.png">
 <figcaption><em> Exemple de rendu d'une présentation.</em></figcaption>
 </figure>
 
@@ -305,7 +305,7 @@ Le modèle d'URL pour les modèles 3D est :
 Comme les cartes, les modèles 3D prendront en charge le centrage sur un élément en utilisant un nom, tel que : `https://urantiapedia.org/en/3dmodel/Jerusem?name=Mansonia_7`
 
 <figure id="Sample_fig_5" class="image urantiapedia">
-<img src="/image/sample_page_3d.jpg">
+<img src="/image/help/sample_page_3d.jpg">
 <figcaption><em> Exemple de rendu d'un modèle 3D.</em></figcaption>
 </figure>
 

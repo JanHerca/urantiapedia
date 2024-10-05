@@ -32,7 +32,7 @@ Para converter esses arquivos LaTeX para o formato Wiki.js, siga estas etapas:
 - Clique em *Executar*.
 - Se tudo estiver correto aparecerá *Conversão executada com sucesso*. Em caso de erros, a lista de erros aparecerá. Neste caso, é aconselhável notificar um dos usuários *desenvolvedores* sobre o erro.
 
-![](/image/upt_tex_wiki.png)
+![](/image/help/upt_tex_wiki.png)
 
 Os arquivos de saída têm formato HTML. Será gerado um arquivo para cada capítulo da Bíblia.
 

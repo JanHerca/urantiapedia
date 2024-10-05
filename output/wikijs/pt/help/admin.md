@@ -56,7 +56,7 @@ O processo será o seguinte:
 7. Quando as alterações estiverem OK e o "Administrador" fizer a mesclagem, todas as alterações no projeto *Urantiapedia-backup* serão automaticamente sincronizadas com o site. Agora as alterações são visíveis para todos, para verificar e validar se estão corretas. 
 8. O processo é repetido quantas vezes forem necessárias, retornando ao ponto 2. 
 
-![](/image/github_workflow_version_2.png)
+![](/image/help/github_workflow_version_2.png)
 
 ## Configurando o projeto *Urantiapedia*
 
@@ -83,7 +83,7 @@ Uma vez que tenhamos a entrada nas pastas corretas, para cada idioma, os passos 
 
 *Editores Chefes* e *Editores Assistentes* realizam as tarefas 1-3. *Admins* executam tarefas 4-9. 
 
-![](/image/formats.png) 
+![](/image/help/formats.png) 
 
 ## Links externos 
 

@@ -195,7 +195,7 @@ Be aware that the purpose of *Urantiapedia* is allow a multi-language content fo
 This type of content includes also schemas or drawings with schematics. The are a number of technologies that allow easy creation of diagrams and charts that are currently supported in *Urantiapedia*: [Kroki](https://kroki.io/), [Mermaid](http://mermaid-js.github.io/mermaid/#/) and [PlantUML](https://plantuml.com/). If previous diagram generators are not enough for *The Urantia Book* purposes (because they are mainly for software development) it is possible to use any content in [SVG format](https://developer.mozilla.org/en-US/docs/Web/SVG), that is the best recommended format to create diagrams, schemas or charts.
 
 <figure id="Sample_fig_1" class="image urantiapedia">
-<img src="/image/sample_page_article.png">
+<img src="/image/help/sample_page_article.png">
 <figcaption><em> Sample of rendering an article.</em></figcaption>
 </figure>
 
@@ -273,7 +273,7 @@ And two ways to open this map centered on Ramah would be:
 The names of the maps in URL have already been explained that it is needed to be in English.
 
 <figure id="Sample_fig_3" class="image urantiapedia">
-<img src="/image/sample_page_map.jpg">
+<img src="/image/help/sample_page_map.jpg">
 <figcaption><em> Sample of rendering an interactive map.</em></figcaption>
 </figure>
 
@@ -289,7 +289,7 @@ The URL pattern for slides is:
 The URLs will have a parameter to open on a given slide.
 
 <figure id="Sample_fig_4" class="image urantiapedia">
-<img src="/image/sample_page_slides.png">
+<img src="/image/help/sample_page_slides.png">
 <figcaption><em> Sample of rendering a presentation.</em></figcaption>
 </figure>
 
@@ -305,7 +305,7 @@ The URL pattern for 3D models is:
 Like maps, 3D models will support centering on an item using a name, such as: `https://urantiapedia.org/en/3dmodel/Jerusem?name=Mansonia_7`
 
 <figure id="Sample_fig_5" class="image urantiapedia">
-<img src="/image/sample_page_3d.jpg">
+<img src="/image/help/sample_page_3d.jpg">
 <figcaption><em> Sample of rendering a 3D model.</em></figcaption>
 </figure>
 

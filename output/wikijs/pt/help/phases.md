@@ -63,7 +63,7 @@ Adição de índices de pessoas, seres, lugares, *A Bíblia*, referências, cita
 Carregamento em massa de arquivos no formato Wiki.js | GitHub | Administradores
 
 <figure id="Sample_fig_1" class="image urantiapedia">
-<img src="/image/sample_page_article.png">
+<img src="/image/help/sample_page_article.png">
 <figcaption><em> Exemplo de renderização de um artigo.</em></figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Desenvolvimento em *Wiki.js* de um novo visualizador de modo duplo para *O Livro
 Desenvolvimento em Wiki.js de um seletor de preferência na tradução para uso do *Livro de Urântia* (para idiomas como o espanhol com vários) | GitHub | Desenvolvedores
 
 <figure id="Sample_fig_2" class="image urantiapedia">
-<img src="/image/sample_page_side_by_side.png">
+<img src="/image/help/sample_page_side_by_side.png">
 <figcaption><em> Amostra de renderização do Livro de Urântia lado a lado.</em></figcaption>
 </figure>
 
@@ -115,7 +115,7 @@ Desenvolvimento em *Wiki.js* de um editor de mapas interativo, o formato e o ren
 Adição de um conjunto de mapas interativos de amostra, sobre migrações de raça, fatos históricos e viagens de Jesus | GitHub | Editores-chefes
 
 <figure id="Sample_fig_3" class="image urantiapedia">
-<img src="/image/sample_page_map.jpg">
+<img src="/image/help/sample_page_map.jpg">
 <figcaption><em> Exemplo de renderização de um mapa interativo.</em></figcaption>
 </figure>
 
@@ -141,7 +141,7 @@ Desenvolvimento em *Wiki.js* de um editor de slides, com seu formato e renderiza
 Adição de um conjunto de diapositivos utilizando os disponíveis nos sites da associação | GitHub | Editores-chefes
 
 <figure id="Sample_fig_4" class="image urantiapedia">
-<img src="/image/sample_page_slides.png">
+<img src="/image/help/sample_page_slides.png">
 <figcaption><em> Exemplo de renderização de uma apresentação.</em></figcaption>
 </figure>
 
@@ -169,7 +169,7 @@ Desenvolvimento em Wiki.js para um criador/editor de modelo interativo 3D, seu f
 Adição de um conjunto de modelos 3D sobre o Paraíso, esferas arquitetônicas, Jardim do Éden e similares | GitHub | Editores-chefes
 
 <figure id="Sample_fig_5" class="image urantiapedia">
-<img src="/image/sample_page_3d.jpg">
+<img src="/image/help/sample_page_3d.jpg">
 <figcaption><em> Exemplo de renderização de um modelo 3D.</em></figcaption>
 </figure>
  

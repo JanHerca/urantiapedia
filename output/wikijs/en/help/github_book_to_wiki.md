@@ -33,7 +33,7 @@ To convert these JSON files to Wiki.js format, follow these steps:
 - Click on *Execute*.
 - If everything is correct *Conversion executed successfully* will appear. In case of errors, the list of errors will appear. In this case, it is advisable to notify one of the *developer* users the error.
 
-![](/image/upt_json_wiki.png)
+![](/image/help/upt_json_wiki.png)
 
 Output files have HTML format. 197 files will be generated, one for each paper of *The Urantia Book*.
 

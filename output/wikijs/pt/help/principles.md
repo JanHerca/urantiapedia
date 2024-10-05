@@ -95,7 +95,7 @@ Considere estes fatos sobre traduções:
 * Menos de 1% dos trabalhos secundários têm tradução em outros idiomas e 99% são apenas em inglês.
 
 <figure id="Principles_fig_1" class="image urantiapedia">
-<img src="/image/UB_potential_readers_by_native_speakers.png">
+<img src="/image/help/UB_potential_readers_by_native_speakers.png">
 <figcaption><em>Porcentagem de leitores potenciais do Livro de Urântia no mundo em sua primeira língua (julho de 2022). Nas línguas azuis com tradução oficial disponível, totalizam 32,61%. Isso significa que 2/3 dos habitantes do mundo não podem ler o livro em sua primeira língua.</em></figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ Mas essa estratégia precisa ser atualizada. Dois terços dos habitantes do mund
 > ...  lamentável é que não tivesse havido ninguém como Pedro, para ir à **China**, ou como Paulo, para ir à **Índia**,... [LU 130:2.3](/pt/The_Urantia_Book/130#p2_3)
 
 <figure id="Principles_fig_2" class="image urantiapedia">
-<img src="/image/UB_secondary_works_potential_readers_by_native_speakers.png">
+<img src="/image/help/UB_secondary_works_potential_readers_by_native_speakers.png">
 <figcaption><em>Porcentagem de leitores potenciais de Obra Secundária no mundo em sua primeira língua (julho de 2022). Na proporção azul disponível. Os leitores potenciais em primeira língua de obras secundárias são principalmente falantes de inglês.</em></figcaption>
 </figure>
 

@@ -31,7 +31,7 @@ Al incorporar estos libros a Urantiapedia se va a proceder del mismo modo que co
 - [Índice de todos los grupos de libros](/es/index/books)
 
 <figure id="Sample_fig_1" class="image urantiapedia">
-<img src="/image/sample_page_book.png">
+<img src="/image/help/sample_page_book.png">
 <figcaption><em>Ejemplo de visualización de un libro.</em></figcaption>
 </figure>
 

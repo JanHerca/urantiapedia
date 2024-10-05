@@ -28,7 +28,7 @@ Para saber más sobre cómo está organizando la Enciclopedia en el proyecto con
 - [Índice de religiones, cultos, creencias](/es/index/religions)
 
 <figure id="Sample_fig_1" class="image urantiapedia">
-<img src="/image/sample_page_topic.png">
+<img src="/image/help/sample_page_topic.png">
 <figcaption><em>Ejemplo de visualización de un término de la Enciclopedia.</em></figcaption>
 </figure>
 
