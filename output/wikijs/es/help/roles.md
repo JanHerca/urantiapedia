@@ -20,18 +20,18 @@ dateCreated: 2021-11-28T13:55:38.362Z
   </table>
 </figure>
 
-En caso de querer colaborar en este proyecto el mejor medio de contacto es registrarse en la web [Blue Fields](https://blue-fields.netlify.app/), que es una web que ha sido creada para unir y organizar a lectores de *El Libro de Urantia* que desean participar en proyectos inteligentes, propositados y altruistas en todo el mundo. Una vez registrado el equipo del proyecto se pondrá en contacto contigo.
+En caso de querer colaborar en este proyecto el mejor medio de contacto es el correo electrónico urantiapedia@gmail.com. Envía un mensaje comentando tu interés en el proyecto y los Administradores se encargarán de darte acceso.
 
-El proyecto Urantiapedia en Blue Fields se accede aquí: [Urantiapedia en Blue Fields](https://blue-fields.netlify.app/projects/292396532506821125).
+Otra forma que estará disponible pronto será a través del registro en la web [Blue Fields](https://blue-fields.netlify.app/), que es una web que ha sido creada para unir y organizar a lectores de *El Libro de Urantia* que desean participar en proyectos inteligentes, propositados y altruistas en todo el mundo. Una vez registrado el equipo del proyecto se pondrá en contacto contigo. El proyecto Urantiapedia en Blue Fields se accede aquí: [Urantiapedia en Blue Fields](https://blue-fields.netlify.app/projects/292396532506821125). Sin embargo, esta web no está operativa al 100% por lo que se recomienda el contacto a través del correo electrónico.
 
 Los perfiles que estamos buscando para colaborar son estos:
 
 ## Perfil de «Administrador»
 
-Los *Administradores* se encargan del mantenimiento del servidor web, la página, la carga masiva de datos, y son los únicos con permiso para editar *El Libro de Urantia*, *La Biblia* y otro contenido específico. Leer más aquí: [Manual para Administradores](/es/help/admin).
+Los *Administradores* se encargan del mantenimiento del servidor web, la configuración de la página web y la carga masiva de datos. Son los únicos con permiso para editar todo, incluyendo *El Libro de Urantia*, *La Biblia* y otro contenido específico. Leer más aquí: [Manual para Administradores](/es/help/admin).
 
 * Tienen una cuenta en esta web con permisos de administración, y una cuenta en [GitHub](https://github.com/).
-* Aportan contenido a los dos proyectos de Urantiapedia en GitHub: [Urantiapedia](https://github.com/JanHerca/urantiapedia) y [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). Pueden hacer cambios de forma masiva usando el segundo proyecto.
+* Pueden añadir contenido tanto a través de esta web (sin restricciones) así como a través de los dos proyectos de Urantiapedia en GitHub: [Urantiapedia](https://github.com/JanHerca/urantiapedia) y [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). Pueden hacer cambios de forma masiva usando el segundo proyecto.
 * El cometido será gestionar el servidor y la página web.
 * Se necesitará un buen conocimiento de Linux, [Docker](https://www.docker.com/), [Kubernetes](https://es.wikipedia.org/wiki/Kubernetes), [Git](https://git-scm.com/) y [GitHub](https://github.com/).
 * Será importante tener aptitud para trabajar en equipo en entornos opensource.
@@ -39,27 +39,27 @@ Los *Administradores* se encargan del mantenimiento del servidor web, la página
 
 ## Perfil de «Editor Jefe»
 
-Los *Editores Jefe* también pueden aportar contenido a través de GitHub, como los Administradores, incluso de forma masiva. No gestionan la web pero tienen todas las capacidades de edición de un Administrador, con la excepción de *El Libro de Urantia*, *La Biblia* y algún otro contenido sensible. Consultar: [Manual para Editores Jefe](/es/help/github).
+Los *Editores Jefe* también pueden aportar contenido a través de esta web y de GitHub, como los Administradores. Sin embargo, no gestionan la web, no tienen todas las capacidades de edición de un Administrador, como *El Libro de Urantia*, *La Biblia* y algún otro contenido sensible, y a través de GitHub sólo pueden hacer solicitudes de cambios, nunca cambios directos. Consultar: [Manual para Editores Jefe](/es/help/github).
 
 * Tienen una cuenta en esta web con permisos de edición, y una cuenta en [GitHub](https://github.com/).
-* Aportan contenido a los dos proyectos de Urantiapedia en GitHub: [Urantiapedia](https://github.com/JanHerca/urantiapedia) y [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). Pueden hacer cambios de forma masiva usando el segundo proyecto.
+* Pueden modificar el contenido a través de esta web (con restricciones) así como a través de los dos proyectos de Urantiapedia en GitHub: [Urantiapedia](https://github.com/JanHerca/urantiapedia) y [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). Sin embargo, a través de estos proyectos sólo pueden hacer solicitudes de cambios. Los cambios en GitHub a contenido no autorizado serán rechazados al hacer la solitud.
 * Necesitan un buen conocimiento de *El Libro de Urantia* al menos en un idioma, pero mejor si es inglés y en un segundo idioma en el que esté traducido el libro.
 * Es importante tener aptitud para escribir bien y con corrección.
-* Ayuda tener ganas de dedicar tiempo, paciencia y constancia.
+* Ayuda el tener ganas de dedicar tiempo, paciencia y constancia.
 * Es importante tener un buen conocimiento de uso de [Git](https://git-scm.com/) y [GitHub](https://github.com/).
-
-## Perfil de «Editor Asistente»
-
-Los *Editores Asistentes* pueden editar ciertas secciones de la web para las que se les proporcione permisos. También pueden enviar revisiones y traducciones por correo para que los *Administradores* o *Editores Jefe* las carguen de forma masiva, lo que facilita el trabajo a este tipo de colaboradores. Consultar: [Manual para Editores Asistente](/es/help/github_assistant).
-
-* Tienen una cuenta en esta web con permisos de edición. No usan GitHub, y para hacer adiciones o bien las envían por correo o bien las hacen directamente en esta web.
-* Necesitan un buen conocimiento de *El Libro de Urantia* al menos en un idioma, pero mejor si es inglés y en un segundo idioma en el que esté traducido el libro.
-* Es importante tener aptitud para escribir bien y con corrección.
-* No es necesario ningún conocimiento informático especial pues el principal trabajo se hace a través de esta web o del email.
 
 ## Perfil de «Autor»
 
-Los *Autores* son *Editores Asistentes* que aparte de poder editar lo que cualquier *Editor Asistente* también son los únicos editores con permiso para editar ciertos contenidos de los cuales ellos son autores.
+Los *Autores* son *Editores Jefes* que aparte de poder editar lo que cualquier *Editor Jefe* también son los únicos editores con permiso para editar ciertos contenidos de los cuales ellos son autores.
+
+## Perfil de «Editor Asistente»
+
+Los *Editores Asistentes* utilizan únicamente GitHub para enviar solicitudes de cambios. No tienen cuenta en esta web. Para facilitarles el trabajo, también pueden enviar sus cambios por correo electrónico a urantiapedia@gmail.com, y los *Administradores* se encargarán de subir estos cambios. Consultar: [Manual para Editores Asistente](/es/help/github_assistant).
+
+* No tienen una cuenta en esta web. Sólo pueden usar GitHub o el correo electrónico para enviar solicitudes de cambios.
+* Necesitan un buen conocimiento de *El Libro de Urantia* al menos en un idioma, pero mejor si es inglés y en un segundo idioma en el que esté traducido el libro.
+* Es importante tener aptitud para escribir bien y con corrección.
+* No es necesario ningún conocimiento informático especial pues el principal trabajo se hace a través de la web de GitHub o del email.
 
 ## Perfil de «Desarrollador»
 
@@ -73,9 +73,10 @@ Los *Desarrolladores* desarrollan la funcionalidad de las [Urantiapedia Tools](h
 
 ## Perfil de «Revisor»
 
-* La tarea es garantizar la corrección de los usuarios y el contenido. Los revisores tienen permisos para bloquear usuarios o contenidos que no cumplan con las políticas y buenas prácticas de la web.
+* La tarea de los *Revisores* es garantizar la corrección del contenido. No necesitan de ninguna cuenta ni en esta web ni en GitHub. Revisan el contenido existente y si encuentran errores los notifican a través del correo electrónico urantiapedia@gmail.com.
 * Es necesario un buen conocimiento del *Libro de Urantia* en al menos un idioma, pero mejor si es inglés y un segundo idioma al que se traduce el libro.
-* No es necesario conocimientos informáticos especiales ya que el trabajo principal se realiza a través de la web.
+* No es necesario conocimientos informáticos especiales ya que el trabajo principal se realiza a través del correo.
+* Se recomienda incluir un extracto del texto que se ha encontrado erróneo, indicando las palabras incorrectas y cómo deberían estar bien. Se puede incluir también la dirección web de la página con el fallo, pero es opcional.
 
 ## Enlaces externos
 

@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_setting">Configurar el proyecto de GitHub</a></td>
+        <td><a href="/es/help/github_edit_local">Trabajar localmente en el PC</a></td>
         <td><a href="/es/help">Índice</a></td>
         <td><a href="/es/help/github_paramony">Traducción del Paramony</a></td>
       </tr>

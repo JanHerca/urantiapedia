@@ -1,5 +1,5 @@
 ---
-title: Urantiapedia - Configurar el proyecto de GitHub
+title: "Urantiapedia - Configurar el proyecto de GitHub"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/web_html_editor">Uso del editor HTML</a></td>
+        <td><a href="/es/help/github_edit_on_web">Trabajar directamente desde la web de GitHub</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_content">Contenido del proyecto de GitHub</a></td>
+        <td><a href="/es/help/github_edit_local">Trabajar localmente en el PC</a></td>
       </tr>
     </tbody>
   </table>
@@ -160,14 +160,14 @@ En resumen, el proceso en GitHub es el siguiente (ver el diagrama):
 - [Wiki.js](https://js.wiki/)
 
 <br>
- 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/web_html_editor">Uso del editor HTML</a></td>
+        <td><a href="/es/help/github_edit_on_web">Trabajar directamente desde la web de GitHub</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_content">Contenido del proyecto de GitHub</a></td>
+        <td><a href="/es/help/github_edit_local">Trabajar localmente en el PC</a></td>
       </tr>
     </tbody>
   </table>

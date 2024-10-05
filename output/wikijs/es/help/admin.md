@@ -24,21 +24,25 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 [Urantiapedia](https://urantiapedia.org) es una web colaborativa basada en [Wiki.js](https://js.wiki/) con el propósito de servir de centro unificado de difusión de todo el conocimiento relativo a *El Libro de Urantia*.
 
-## Acerca de Blue Fields
+## Acerca del registro en Urantiapedia y Blue Fields
 
-[Blue Fields](https://blue-fields.netlify.app/) es una web que ha sido creada para unir y organizar a lectores de *El Libro de Urantia* que desean participar en proyectos inteligentes, propositados y altruistas en todo el mundo. Es el sitio web que gestiona el registro y la colaboración entre los voluntarios de *Urantiapedia*.
+En caso de querer colaborar en este proyecto el mejor medio de contacto es el correo electrónico urantiapedia@gmail.com. Envía un mensaje comentando tu interés en el proyecto y los Administradores se encargarán de darte acceso.
+
+Otra forma que estará disponible pronto será a través del registro en la web [Blue Fields](https://blue-fields.netlify.app/), que es una web que ha sido creada para unir y organizar a lectores de *El Libro de Urantia* que desean participar en proyectos inteligentes, propositados y altruistas en todo el mundo. Una vez registrado el equipo del proyecto se pondrá en contacto contigo. El proyecto Urantiapedia en Blue Fields se accede aquí: [Urantiapedia en Blue Fields](https://blue-fields.netlify.app/projects/292396532506821125). Sin embargo, esta web no está operativa al 100% por lo que se recomienda el contacto a través del correo electrónico.
 
 ## Acerca de GitHub
 
-El proyecto *Urantiapedia* en GitHub (https://github.com/JanHerca/urantiapedia) es un proyecto creado para servir de procedimiento rápido de creación inicial de la *Urantiapedia*. Contiene unos archivos en ciertos formatos y un software que ayudan a automatizar la creación de un contenido inicial.
+[GitHub](https://github.com/) es una plataforma para el control de versiones en proyectos colaborativos, especialmente en proyectos de código o de contenido web.
+
+El proyecto *Urantiapedia* en GitHub (https://github.com/JanHerca/urantiapedia) es un proyecto que contiene todo el contenido del sitio web, además de una aplicación (*Urantiapedia Tools*) para ayudar a automatizar la creación de contenido. El proyecto *Urantiapedia-backup* (https://github.com/JanHerca/urantiapedia-backup) es el mecanismo usado para poder realizar subidas masivas de contenido.
 
 ## A quién va dirigido este manual
 
 Este manual va dirigido a los usuarios *administradores*, o *admins*, es decir:
-- usuarios registrados en [Blue Fields](https://blue-fields.netlify.app/) y en [GitHub](https://github.com/).
-- usuarios autorizados como *admins* por el equipo que dirige el proyecto en la plataforma [Blue Fields](https://blue-fields.netlify.app/).
-- usuarios registrados en [Urantiapedia](https://urantiapedia.org). Sólo otro usuario *admin* puede registrar a un usuario como *admin*.
-- usuarios con conocimientos de manejo de Git y GitHub.
+- usuarios registrados en [GitHub](https://github.com/).
+- usuarios autorizados como *admins* por el equipo que dirige el proyecto Urantiapedia.
+- usuarios registrados en Urantiapedia. Sólo otro usuario *admin* puede registrar a un usuario como *admin*.
+- usuarios con conocimientos de manejo de Linux, [Docker](https://www.docker.com/), [Kubernetes](https://es.wikipedia.org/wiki/Kubernetes), [Git](https://git-scm.com/) y [GitHub](https://github.com/).
 - usuarios con conocimientos de *El Libro de Urantia* al menos en un idioma en los que está publicado, y preferiblemente con un buen nivel de la versión en inglés.
 - usuarios que desean colaborar de forma desinteresada en la incorporación de información relativa a *El Libro de Urantia* en la *Urantiapedia*.
 
@@ -46,9 +50,14 @@ Los administradores de la web son los únicos encargados de subir cambios masivo
 
 ## Procedimiento de trabajo en GitHub
 
-El proceso a seguir será el siguiente:
-1. El «Editor Jefe» crea un *fork* (una copia en su propia cuenta) del proyecto de la *Urantiapedia* en GitHub (https://github.com/JanHerca/urantiapedia) y del proyecto *Urantia-backup* en GitHub (https://github.com/JanHerca/urantiapedia-backup). El primero es un proyecto que contiene todos los archivos. El segundo contiene sólo los archivos que se sincronizan la página web de *Urantiapedia*.
-2. El «Editor Jefe» crea una copia local de los dos proyecto en su PC. La copia local debe ser de la última versión del contenido de la *Urantiapedia* (la rama master). Esto se hace primero con una acción *clone* y luego con acciones *pull* contra el proyecto, lo que descarga cualquier cambio a nuestra copia local.
+El proceso de trabajo en GitHub se detalla en el Manual de uso de los proyectos de Urantiapedia en GitHub. Se debería empezar echando un vistazo a los [Primeros pasos en GitHub](/es/help/github_fork.md) y luego continuar desde ahí con el resto de pasos a dar y las distintas opciones que hay para trabajar en GitHub.
+
+
+
+
+### Trabajar localmente en el PC
+
+El «Editor Jefe» crea una copia local de los dos proyecto en su PC. La copia local debe ser de la última versión del contenido de la *Urantiapedia* (la rama master). Esto se hace primero con una acción *clone* y luego con acciones *pull* contra el proyecto, lo que descarga cualquier cambio a nuestra copia local.
 3. El «Editor Jefe» realiza los cambios que desea en la copia local a los archivos que se indican en este manual y del modo en como se indica. Realiza *commits* a su copia local.
 4. El «Editor Jefe» envía cambios a su cuenta de GitHub mediante acciones *push*.
 5. El «Editor Jefe» realiza un *pull request* desde la web de GitHub a los proyectos originales. 
