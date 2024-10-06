@@ -29,7 +29,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-## Oh ma conscience divine !
+## Oh ma conscience divine !
 
 **Séance d'étude 2009**
 
@@ -41,12 +41,12 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 L’ensemble des enseignements est détenu dans les bras de la conscience divine. À chaque niveau de notre progrès, c’est cet effort continu pour repousser l’enveloppe de la conscience de soi, de l’âme et de l’esprit qui constitue la conscience de Dieu. C'est l’expérience et le fait de devenir plus réel.
 
-Vous sentez-vous plus réel aujourd’hui qu’hier ? Soyez réaliste. Venez à la nouvelle session d'étude 2009, « La conscience de Dieu – Une université vivante », du vendredi 31 juillet au dimanche 2 août, à l’Université dominicaine de River Forest, Illinois. Les activités pré-conférence se dérouleront du mercredi 29 juillet au jeudi 30 juillet. Cette séance explorera les moyens d'atteindre des états accrus de conscience de Dieu, quel que soit le « niveau » que nous sommes ou pensons être, notamment :
+Vous sentez-vous plus réel aujourd’hui qu’hier ? Soyez réaliste. Venez à la nouvelle session d'étude 2009, « La conscience de Dieu – Une université vivante », du vendredi 31 juillet au dimanche 2 août, à l’Université dominicaine de River Forest, Illinois. Les activités pré-conférence se dérouleront du mercredi 29 juillet au jeudi 30 juillet. Cette séance explorera les moyens d'atteindre des états accrus de conscience de Dieu, quel que soit le « niveau » que nous sommes ou pensons être, notamment :
 - Des méthodes d'apprentissage inspirées de la révélation, une étude par l’action et vous donnent la possibilité d'appliquer immédiatement ce que vous avez appris.
 - Journée pré-conférence élargie : choix entre (1) retraite spirituelle, (2) atelier sur la préparation des enseignants et des dirigeants, ou (3) Art in Chicago – visites de la « ville de cette visite ».
 - Lancement d'un programme continu d'étude approfondie des enseignements qui commence par un nouveau programme passionnant de pré-étude pour la réunion de 2009.
 
-Les détails de l’inscription et du programme seront bientôt disponibles sur le site Web de la bourse. Pour proposer une présentation ou un atelier, contactez Barbara Newsom, présidente du programme de la conférence, session d'étude 2009, barbnewsom@aol.com ou d'autres membres du comité d'éducation : Gary Deinstadt, président, gdeinstadt@gmail.com ; Katharina Becker, Lila Dogim, Charles Olivea, Cayce Snider, Nick Stefero et Phil Taylor.
+Les détails de l’inscription et du programme seront bientôt disponibles sur le site Web de la bourse. Pour proposer une présentation ou un atelier, contactez Barbara Newsom, présidente du programme de la conférence, session d'étude 2009, barbnewsom@aol.com ou d'autres membres du comité d'éducation : Gary Deinstadt, président, gdeinstadt@gmail.com ; Katharina Becker, Lila Dogim, Charles Olivea, Cayce Snider, Nick Stefero et Phil Taylor.
 
 ## Rapport du président 2008
 
@@ -62,15 +62,15 @@ La meilleure nouvelle, c’est que la diffusion est en marche ! Le livre se retr
 
 Uversa Press : En septembre, nous avons pris livraison de 10 000 exemplaires de la prochaine impression du _Le Livre d'Urantia_. Deux mille de ces livres sont livrés sans jaquette et seront destinés à une distribution internationale. Ces livres incluent des copies du DVD audio gratuit. 
 
-L'année dernière, trois livres audio de haute qualité contenant divers articles de la partie IV ont été publiés. Une version électronique du livre a été publiée pour le lecteur Kindle d’Amazon et est également adaptable à d’autres lecteurs de livres électroniques. Plus de 25 % de nos commandes de livres proviennent désormais d’Internet, ce qui nous permet de saisir le nom, l’adresse et d’autres informations de contact de l’acheteur. Les ventes de livres dans tous les formats s'élèvent désormais en moyenne à 300 par mois et ce nombre triple presque lorsque nous incluons les téléchargements des versions texte et audio du livre à partir de notre site Web. Cela ne prend pas en compte les traductions LU vendues via notre boutique en ligne. 
+L'année dernière, trois livres audio de haute qualité contenant divers articles de la partie IV ont été publiés. Une version électronique du livre a été publiée pour le lecteur Kindle d’Amazon et est également adaptable à d’autres lecteurs de livres électroniques. Plus de 25 % de nos commandes de livres proviennent désormais d’Internet, ce qui nous permet de saisir le nom, l’adresse et d’autres informations de contact de l’acheteur. Les ventes de livres dans tous les formats s'élèvent désormais en moyenne à 300 par mois et ce nombre triple presque lorsque nous incluons les téléchargements des versions texte et audio du livre à partir de notre site Web. Cela ne prend pas en compte les traductions LU vendues via notre boutique en ligne. 
 
-IC08 : À tous égards, IC08 restera dans les mémoires comme un merveilleux succès. Les projections initiales prévoyaient 700 participants, mais des changements importants dans l’économie ont entraîné une réduction de 200 participants. Malgré cela, le travail d’équipe et la planification nécessaires pour s’adapter à cette situation ont été inspirants et ont abouti à une réelle réussite sociale. 
+IC08 : À tous égards, IC08 restera dans les mémoires comme un merveilleux succès. Les projections initiales prévoyaient 700 participants, mais des changements importants dans l’économie ont entraîné une réduction de 200 participants. Malgré cela, le travail d’équipe et la planification nécessaires pour s’adapter à cette situation ont été inspirants et ont abouti à une réelle réussite sociale. 
 
-Le programme de débit automatique : notre programme de débit automatique en pleine croissance offre une stabilité financière croissante avec environ 120 contributeurs mensuels fournissant \$7,000 per month toward our operating expenses— \$84 000 par an. De plus, les contributions de Pipeline of Light dépassent en moyenne 600 \$ par mois, ce qui permet de placer des livres dans plus de 60 pays à travers le monde. Pour faire un don en ligne, rendez-vous sur http://urantiabook.org/support.htm 
+Le programme de débit automatique : notre programme de débit automatique en pleine croissance offre une stabilité financière croissante avec environ 120 contributeurs mensuels fournissant \$7,000 per month toward our operating expenses— \$84 000 par an. De plus, les contributions de Pipeline of Light dépassent en moyenne 600 \$ par mois, ce qui permet de placer des livres dans plus de 60 pays à travers le monde. Pour faire un don en ligne, rendez-vous sur http://urantiabook.org/support.htm 
 
 Publications : L'immensément populaire « Herald » continue d'être publié avec la prochaine édition contenant 40 pages d'articles rédigés par des lecteurs. La newsletter Mighty Messenger atteint également l’ensemble de notre liste de diffusion, et la newsletter électronique Community Update s'adresse désormais à plus de 2 000 abonnés. 
 
-Sensibilisation : En plus des foires et des expositions, le comité de sensibilisation développe le programme Cosmic Café et des ressources éducatives vidéo. Le nouveau programme des ambassadeurs propose une formation à l’expression orale. Le _Urantia Book Club_ sur les campus universitaires se développe grâce aux efforts gérés par Don Green qui expose l’LU à l’Université du Colorado depuis 25 ans. 
+Sensibilisation : En plus des foires et des expositions, le comité de sensibilisation développe le programme Cosmic Café et des ressources éducatives vidéo. Le nouveau programme des ambassadeurs propose une formation à l’expression orale. Le _Urantia Book Club_ sur les campus universitaires se développe grâce aux efforts gérés par Don Green qui expose l’LU à l’Université du Colorado depuis 25 ans. 
 
 Pour soutenir un projet lancé par les lecteurs, nous avons récemment envoyé 900 livres à des unités militaires déployées dans le monde entier.
 
@@ -82,19 +82,19 @@ Bourse internationale : Cette année, nous avons participé à la Foire du livre
 
 Nous avons participé à la foire du livre de Buenos Aires en Argentine, un projet commun partagé avec la Fondation Urantia et l’AUI. Un travail important est également réalisé en Colombie, au Costa Rica, au Salvador, au Mexique et au Nicaragua grâce aux efforts inébranlables d’Agustin Arellano, le représentant espagnol des services aux lecteurs de la Fellowship.
 
-Interconfessionnel : Le Comité interconfessionnel entretient des contacts avec des lecteurs dévoués qui travaillent au sein du mouvement interconfessionnel. Le travail actuel comprend l’élaboration d’un programme pour une retraite annuelle d’étude des religions du monde. Ce programme comprendra à terme des éléments de formation à la participation au dialogue interreligieux. Nous aimerions faire notre quatrième apparition au Parlement des Religions du Monde à Melbourne, en Australie, en 2009. Le Parlement de 2004 a accueilli plus de 50 participants urantiens. 
+Interconfessionnel : Le Comité interconfessionnel entretient des contacts avec des lecteurs dévoués qui travaillent au sein du mouvement interconfessionnel. Le travail actuel comprend l’élaboration d’un programme pour une retraite annuelle d’étude des religions du monde. Ce programme comprendra à terme des éléments de formation à la participation au dialogue interreligieux. Nous aimerions faire notre quatrième apparition au Parlement des Religions du Monde à Melbourne, en Australie, en 2009. Le Parlement de 2004 a accueilli plus de 50 participants urantiens. 
 
 Relations avec la Fondation Urantia : Grâce au travail de notre président de liaison, Marvin Gawryn, une planification à long terme est en place pour réduire la duplication des efforts, améliorer les communications et faciliter une approche intégrée des efforts de diffusion partagés par toutes les organisations Urantia. La Bourse a été autorisée à publier les traductions de la Fondation sur son site Web et à vendre des traductions via notre boutique en ligne. 
 
-Adhésion : Le comité des adhésions contacte personnellement tous les non-membres de la Fellowship figurant dans notre base de données. Cela revient à contacter quelque 5 000 lecteurs afin de susciter une plus grande implication.  L’objectif est de constituer un corps de bénévoles plus solide pour poursuivre davantage d’opportunités de sensibilisation. 
+Adhésion : Le comité des adhésions contacte personnellement tous les non-membres de la Fellowship figurant dans notre base de données. Cela revient à contacter quelque 5 000 lecteurs afin de susciter une plus grande implication.  L’objectif est de constituer un corps de bénévoles plus solide pour poursuivre davantage d’opportunités de sensibilisation. 
 
-Site Web/informatique : le site Web en anglais continue de connaître un taux de croissance annuel d'utilisateurs de 25 à 30 %, y compris les visites de chercheurs de vérité de plus de 80 pays. Le site Web est en train de subir une refonte complète et un certain nombre de nouveaux services ont été lancés, y compris l’étude en ligne du _Le Livre d'Urantia_ avec des liens vers les versions audio de chaque section, vers l’index thématique, le Paramony et un résumé de chaque article basé sur sur L'histoire de tout de Michelle Klimesh. Le Polygloss, créé par Troy Bishop, permet l’affichage simultané de deux traductions, un outil inestimable pour les traducteurs. 
+Site Web/informatique : le site Web en anglais continue de connaître un taux de croissance annuel d'utilisateurs de 25 à 30 %, y compris les visites de chercheurs de vérité de plus de 80 pays. Le site Web est en train de subir une refonte complète et un certain nombre de nouveaux services ont été lancés, y compris l’étude en ligne du _Le Livre d'Urantia_ avec des liens vers les versions audio de chaque section, vers l’index thématique, le Paramony et un résumé de chaque article basé sur sur L'histoire de tout de Michelle Klimesh. Le Polygloss, créé par Troy Bishop, permet l’affichage simultané de deux traductions, un outil inestimable pour les traducteurs. 
 
 Les œuvres secondaires sont en cours de formatage et mises à disposition en téléchargement. L'annuaire des groupes d'étude offre la possibilité d'effectuer des recherches de proximité : indiquez votre code postal, spécifiez une plage de distance et vous pourrez trouver tous les groupes d'étude dans cette plage. 
 
 Le comité informatique continue de travailler au développement de la base de données, en plaçant les informations sur le lectorat dans un système unifié pour améliorer les efforts de diffusion mondiale. Le « mouvement » Urantia est le premier mouvement religieux majeur à émerger à l’ère du cyberespace. Au lieu d'investir dans l’immobilier, les temples ou les bureaux, nous avons choisi d'être une organisation « virtuelle » qui permet de consacrer un plus grand pourcentage de nos revenus directement aux programmes de diffusion.
 
-L'essentiel : Ceci est un aperçu limité de tout ce que la Fellowship accomplit grâce aux efforts de nos bénévoles et d'une poignée de travailleurs dévoués. Nous avons une présence interreligieuse croissante et plus de gens que jamais ont entendu parler du _Livre d'Urantia_. Nous aidons les communautés de lecteurs à se développer à l’échelle internationale et 900 Livres d’Urantia ont été distribués aux unités militaires du monde entier. Nous organisons des rassemblements sociaux annuels, grands et petits, parrainés par la Fellowship et ses sociétés. Le Pipeline of Light envoie des livres à des personnes dans de nombreux pays qui n'ont pas les moyens d'acheter le livre. Des informations pédagogiques détaillées sont accessibles aux personnes du monde entier dans plusieurs langues via notre site Web. Des livres dans toutes les langues traduites sont disponibles à la vente ou en révision sur notre site Web. Les téléchargements audio du livre depuis notre site Web sont devenus extrêmement populaires. 
+L'essentiel : Ceci est un aperçu limité de tout ce que la Fellowship accomplit grâce aux efforts de nos bénévoles et d'une poignée de travailleurs dévoués. Nous avons une présence interreligieuse croissante et plus de gens que jamais ont entendu parler du _Livre d'Urantia_. Nous aidons les communautés de lecteurs à se développer à l’échelle internationale et 900 Livres d’Urantia ont été distribués aux unités militaires du monde entier. Nous organisons des rassemblements sociaux annuels, grands et petits, parrainés par la Fellowship et ses sociétés. Le Pipeline of Light envoie des livres à des personnes dans de nombreux pays qui n'ont pas les moyens d'acheter le livre. Des informations pédagogiques détaillées sont accessibles aux personnes du monde entier dans plusieurs langues via notre site Web. Des livres dans toutes les langues traduites sont disponibles à la vente ou en révision sur notre site Web. Les téléchargements audio du livre depuis notre site Web sont devenus extrêmement populaires. 
 
 C’est grâce à vous, à votre temps bénévole et à votre contribution à nos efforts. Restons tous concentrés sur l’œuvre de notre Père !
 
@@ -175,17 +175,17 @@ Lorsque vous vous inscrivez pour \$30 per month (\$1 par jour) ou plus, vous rec
 
 Bien sûr, vous êtes plus que bienvenu pour contribuer en nous envoyant simplement un chèque à Urantia Book Fellowship, PO Box 4583, Grand Central Station, New York, NY 10163. 
 
-Vous vous demandez peut-être : « À quoi servira ma contribution ? » 
+Vous vous demandez peut-être : « À quoi servira ma contribution ? » 
 
 Rien que l’année dernière, notre distribution du _Livre d'Urantia_ a augmenté de plus de 20 % par rapport à l’année dernière. Cela n'inclut pas tous les livres qui ont été distribués grâce à un certain nombre de merveilleux projets, comme les 900 livres qui ont été distribués aux troupes combattantes au Moyen-Orient cet été, et ceux qui ont été distribués en Amérique centrale et en Amérique du Sud. à travers un programme conjoint avec la Fondation Urantia, ainsi que les 1000 livres qui sont réservés à l’Inde en 2009. Nous devons remercier Buck Weimer, Susan Ransbottom, Agustin Arellano et l’ensemble du Comité International de la Fraternité et bien d'autres pour avoir fait des percées extraordinaires dans ces domaines. de nouveaux pâturages. 
 
 Ensuite, il y a les projets informatiques et de sites Web ahurissants de David Kantor. Voici ce qui se passe là-bas. 
 
-La croissance de l’utilisation internationale de notre ressource Web continue de se développer. Que recherchent les gens qui les amènent à notre site Web ? D'où viennent-ils ? 
+La croissance de l’utilisation internationale de notre ressource Web continue de se développer. Que recherchent les gens qui les amènent à notre site Web ? D'où viennent-ils ? 
 
 Les moteurs de recherche Internet, tels que Google et Yahoo, constituent de loin la première source de visiteurs. Sur un total de 3 698 053 demandes validées de pages Web entre janvier et septembre 2008, incroyablement 582 440 concernaient des fichiers audio - principalement le téléchargement de la version audio du Livre d'Urantia, mais il y avait aussi des demandes pour les enregistrements de Bill Sadler et plus de 10 000 demandes pour le Dr Chris. Le groupe d'étude de Halvorson parle. 
 
-Notre site Web (www.urantiabook.org) est visité par des individus de pratiquement tous les pays de la planète, les principaux emplacements (en dehors de l’Amérique du Nord) étant : la Russie, 115 075 ; Mexique, 106 039 ; Espagne, 34 125 ; Colombie, 30 193 ; Australie, 29 736 ; l’Argentine, 23 608, et la France, 20 058, pour n'en nommer que quelques-unes ; et la liste comprend des entrées aussi intéressantes que l’Afrique du Sud, 5 071 ; Philippines, 1 269 ; Militaires américains, 3 259 ; Cuba, 146 ; Arabie Saoudite, 80 ; et Ouzbékistan, 15. 
+Notre site Web (www.urantiabook.org) est visité par des individus de pratiquement tous les pays de la planète, les principaux emplacements (en dehors de l’Amérique du Nord) étant : la Russie, 115 075 ; Mexique, 106 039 ; Espagne, 34 125 ; Colombie, 30 193 ; Australie, 29 736 ; l’Argentine, 23 608, et la France, 20 058, pour n'en nommer que quelques-unes ; et la liste comprend des entrées aussi intéressantes que l’Afrique du Sud, 5 071 ; Philippines, 1 269 ; Militaires américains, 3 259 ; Cuba, 146 ; Arabie Saoudite, 80 ; et Ouzbékistan, 15. 
 
 Il s'agit clairement d'une ressource puissante dans l’effort visant à s'engager dans la diffusion mondiale du _Le Livre d'Urantia_. L'année prochaine, un nouvel effort de marketing unique sera entrepris pour capitaliser sur les progrès réalisés grâce à Internet au cours de la dernière décennie. 
 
@@ -215,7 +215,7 @@ Au moment d'écrire ces lignes, le Pipeline a distribué mille huit cent quatre-
 
 Pamela L. Burr, une lieutenant-colonelle à la retraite de l’US Air Force et une lectrice de l’LU qui vit à Jacksonville, en Floride, a récemment lancé « l’Opération Reach-back », un projet visant à placer les Livres d'Urantia entre les mains de militaires américains dans les unités militaires déployées. autour du monde. La bourse a approuvé son soutien au projet en août, a collecté des fonds pour compenser les frais d'expédition et a alloué les 900 livres nécessaires au projet à partir de son inventaire.
 
-Lorsqu’on lui a demandé ce qui l’avait poussée à lancer ce projet, Pamela a répondu : 
+Lorsqu’on lui a demandé ce qui l’avait poussée à lancer ce projet, Pamela a répondu : 
 
 «J'avais prié le Père et lui avais demandé de me montrer comment je pourrais le mieux lui être utile lorsque j'aurais reçu sa mission…. c'est-à-dire « exercer un ministère de sensibilisation auprès des hommes et des femmes des militaires dans les lieux de déploiement ». Étant moi-même militaire à la retraite et ayant soutenu des opérations militaires dans le désert, j’ai compris les besoins de ces jeunes militaires qui risquent leur vie pour que nous puissions profiter des libertés qui nous permettent de vivre.
 
@@ -293,7 +293,7 @@ Dans la nuit du samedi 27 octobre, plus de 50 membres et amis de la Société Ur
 
 La Société Urantia du Grand New York se réunit régulièrement depuis 20 ans pour mener des affaires, proposer des programmes d'études, camarader et se rassembler pour l’adoration. Leurs membres votants comptent en moyenne 25 lecteurs, et la plupart participent activement à certains aspects du fonctionnement de la société. La société a organisé de nombreuses réunions régionales et retraites au printemps et à l’automne.
 
-L'USGNY dispose d'un programme de sensibilisation local actif présidé par Robin Jorgensen. Le comité a produit un diaporama « Introduction au _Livre d'Urantia_ », des boutons LU, et assure également une présence à une variété de foires et d'événements locaux, participe à au moins deux expositions par an et maintient le site Web de la société www.urantia- nyc.org.
+L'USGNY dispose d'un programme de sensibilisation local actif présidé par Robin Jorgensen. Le comité a produit un diaporama « Introduction au _Livre d'Urantia_ », des boutons LU, et assure également une présence à une variété de foires et d'événements locaux, participe à au moins deux expositions par an et maintient le site Web de la société www.urantia- nyc.org.
 
 Les traductions russes et coréennes du Livre d'Urantia par la société ont été réalisées grâce au temps et aux efforts dévoués de Lila Dogim (russe) et de Kay et Barry Clark (coréen). La lettre de félicitations et de gratitude de l’affilié coréen de la Fellowship à la société pour la traduction a été lue au groupe. Le site Web de Barry, www.theuniversalfather.org, héberge des versions téléchargeables de la plupart des traductions du Livre d'Urantia.
 
@@ -354,7 +354,7 @@ N’oubliez pas de nous informer de vos changements d’adresse postale et d’a
 ## Personnel du « The Mighty Messenger »
 
 Publié par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship.
-Membres : Linda Buselli, présidente Lynda D'Arcangelo, David Glass, Nancy Johnson, Avi Dogim, Sage Waitts
+Membres : Linda Buselli, présidente Lynda D'Arcangelo, David Glass, Nancy Johnson, Avi Dogim, Sage Waitts
 877.288.3772
 bourse@urantiabook.org
 www.urantiabook.org

@@ -43,13 +43,13 @@ Je souhaite me concentrer sur quelques attitudes pratiques de la vie quotidienne
 
 ## « C » — Chances
 
-Il n’y a rien de ce qui peut nous « arriver » au cours de cette vie terrestre qui, en soi, puisse entraver de quelque manière que ce soit notre progrès spirituel. En fait, c'est l'inverse. Les événements de la vie sont des opportunités de croissance. C'est notre attitude face aux soi-disant problèmes de la vie qui déterminent leur potentiel de croissance pour nous. Le progrès spirituel est entièrement entre nos mains. Pouvez-vous imaginer faire des progrès sans difficultés ?
+Il n’y a rien de ce qui peut nous « arriver » au cours de cette vie terrestre qui, en soi, puisse entraver de quelque manière que ce soit notre progrès spirituel. En fait, c'est l'inverse. Les événements de la vie sont des opportunités de croissance. C'est notre attitude face aux soi-disant problèmes de la vie qui déterminent leur potentiel de croissance pour nous. Le progrès spirituel est entièrement entre nos mains. Pouvez-vous imaginer faire des progrès sans difficultés ?
 
 ## « H » – Habitudes
 
 Les habitudes, même inconsciemment prises, peuvent être utilisées pour nous aider dans la quête de l’épanouissement spirituel personnel. Je crois que nous pouvons établir des voies neuronales de réponse positive aux stimuli externes qui favoriseront la croissance. Notre Père céleste n’a pas conçu un plan d’ascension intégrant des boucles de rétroaction négatives. Le contraire est vrai si nous choisissons de les rechercher.
 
-## « A » – Alerte
+## « A » – Alerte
 
 Nous pouvons demander à notre Ajusteur de Pensée de nous aider à être attentifs aux opportunités dans lesquelles la croissance est possible. On nous enseigne que c'est notre propre libre arbitre qui règne en maître dans la prise de choix spirituels, mais j'ai conclu que nous pouvons chacun faire un choix pré-fusion pour accorder à nos Ajusteurs de Pensée le droit d'intervenir afin de nous rappeler ce qui est vraiment important à ce moment-là.
 
@@ -59,7 +59,7 @@ Je ne peux pas trouver Dieu demain, et je ne le trouverai pas non plus hier. Je 
 
 ## « G » – La volonté de Dieu
 
-Je suis convaincu que le _Livre d'Urantia_ a raison lorsqu'il déclare que « l'accomplissement de la volonté de Dieu n'est rien de plus ou de moins qu'une démonstration de la volonté d'une créature de partager sa vie intérieure avec Dieu - avec le Dieu même qui a créé une telle créature. vie de sens-valeur intérieure possible. (<a id="a61_329"></a>[LU 111:5.1](/fr/The_Urantia_Book/111#p5_1)) Je tiens à souligner pour vous les mots « volonté de création ».
+Je suis convaincu que le _Livre d'Urantia_ a raison lorsqu'il déclare que « l'accomplissement de la volonté de Dieu n'est rien de plus ou de moins qu'une démonstration de la volonté d'une créature de partager sa vie intérieure avec Dieu - avec le Dieu même qui a créé une telle créature. vie de sens-valeur intérieure possible. (<a id="a61_329"></a>[LU 111:5.1](/fr/The_Urantia_Book/111#p5_1)) Je tiens à souligner pour vous les mots « volonté de création ».
 
 ## « E » – Ego
 
@@ -69,7 +69,7 @@ Notre ego peut gravement altérer notre capacité à voir la lumière qui brille
 
 _Le Livre d'Urantia_ nous enseigne que les mondes des maisons ressemblent davantage à des écoles de formation. Il me vient à l’esprit que le séjour terrestre n’en est pas moins une école ! J'ai trouvé utile de considérer les événements de la vie comme des tâches conçues pour servir un objectif dans cette vie et dans la suivante, comme des opportunités et des expériences éducatives. Les missions ignorées ou accomplies sans enthousiasme sont des opportunités perdues auxquelles nous pouvons regretter d'avoir manqué lorsque, dans le futur, nous ferons partie d'une équipe d'ascendeurs chargés de réaliser un projet à Orvonton.
 
-Avant de continuer, je voudrais résumer ces CHANGEMENTS :
+Avant de continuer, je voudrais résumer ces CHANGEMENTS :
 
 - Les événements de C(hance)-Life sont des opportunités de croissance.
 - H(abits) — Des habitudes de croissance peuvent être développées.
@@ -101,7 +101,7 @@ En général, nous n’associons pas les habitudes comme étant utiles au dével
 
 Par expérience personnelle, je peux vous dire que l'année qui a précédé ma découverte du _Livre d'Urantia_ a été une année pendant laquelle il m'a été demandé de dire le Notre Père chaque matin. En tant que professeur principal dans un lycée public en Jamaïque, il était de ma responsabilité de diriger ma classe chaque matin pendant quelques instants de prière, car c'était la pratique culturelle dans les écoles publiques jamaïcaines à cette époque. En dehors de cette exigence, ma vie était spirituellement dépourvue de beaucoup de plaisir et dépourvue de prière. Mais ces quelques minutes de prière formelle requise cinq matins par semaine pendant dix mois ont eu un impact. Même si quinze ans se sont écoulés depuis cette période, je me souviens clairement d'un éveil de la conscience spirituelle cette année-là qui a été une expérience décisive pour moi. Je n'ai pas regardé en arrière depuis. Cette habitude matinale semblait agir comme un petit marteau dans mon esprit qui a fini par briser un refus par ailleurs obstiné de me réveiller et de sentir le café spirituel qui se préparait juste sous mon nez.
 
-Une habitude simple que vous pourriez essayer est celle-ci : juste avant de fermer les yeux le soir, peut-être, mais pas nécessairement dans le cadre de votre « réveil », demandez simplement que vos premières pensées du lendemain matin soient très positives. . Être spécifique. Choisissez quelque chose comme une belle scène ou une phrase telle que « merci pour une autre journée d'école ».
+Une habitude simple que vous pourriez essayer est celle-ci : juste avant de fermer les yeux le soir, peut-être, mais pas nécessairement dans le cadre de votre « réveil », demandez simplement que vos premières pensées du lendemain matin soient très positives. . Être spécifique. Choisissez quelque chose comme une belle scène ou une phrase telle que « merci pour une autre journée d'école ».
 
 ## Alerte
 
@@ -112,7 +112,7 @@ Je n'ai aucun doute que nos Ajusteurs de Pensée peuvent et vont nous aider à r
 
 ## Dieu maintenant
 
-Faut-il être évident qu’on ne peut trouver Dieu que dans le présent ? Après tout, y a-t-il quelque chose de mal à planifier quelque chose demain ? Non bien sûr que non! Mais le fait est que votre plan n’est rien de plus que cela jusqu’à ce que demain arrive pour devenir aujourd’hui et que vous mettiez votre plan à exécution. Vous avez sans doute tous entendu l'expression « la route de l'enfer est pavée de bonnes intentions ». Je suggère que nos projets pour demain relèvent du domaine matériel et que c’est le moment présent qui est important. Je préfère dire : « Procrastinez demain ».
+Faut-il être évident qu’on ne peut trouver Dieu que dans le présent ? Après tout, y a-t-il quelque chose de mal à planifier quelque chose demain ? Non bien sûr que non! Mais le fait est que votre plan n’est rien de plus que cela jusqu’à ce que demain arrive pour devenir aujourd’hui et que vous mettiez votre plan à exécution. Vous avez sans doute tous entendu l'expression « la route de l'enfer est pavée de bonnes intentions ». Je suggère que nos projets pour demain relèvent du domaine matériel et que c’est le moment présent qui est important. Je préfère dire : « Procrastinez demain ».
 
 Vos expériences de nature spirituelle que vous avez vécues hier constitueront des souvenirs valables et importants dont vous pourrez vous souvenir pour vous encourager et vous amuser au fil des moments. Mais même en tant que souvenirs, c'est leur rappel dans le présent qui procure un plaisir et un rafraîchissement spirituels.
 
@@ -142,7 +142,7 @@ Pourquoi considérer la vie terrestre comme du temps passé à l’école ? Simp
 
 Je crois que lorsque j'aurai finalement repris conscience sur les mondes des maisons et que j'aurai ravivé les souvenirs de la vie terrestre, j'éprouverai un certain regret de ne pas avoir davantage profité des opportunités d'apprentissage offertes par la vie dans la chair. Il s’agit d’un sentiment naturel auquel beaucoup d’entre nous peuvent s’identifier lorsque nous nous souvenons de nos propres années de lycée. Nous nous demandons : et si j'avais changé de cours alors qu'on me le proposait ? pourquoi ai-je passé autant de temps dans la salle de billard après l'école ? Nous nous attardons rarement négativement sur ces souvenirs, mais nous avons parfois le sentiment qu’une meilleure utilisation du temps aurait pu s’avérer très utile. Nous n'utiliserons pas notre temps ici de manière idéale, mais il est important de rester conscient de la valeur du temps passé dans la chair, car il offre d'infinies occasions bénéfiques d'affiner nos compétences spirituelles.
 
-Dans mon partage avec vous aujourd’hui, je voulais mettre l’accent sur quelques choses pratiques que chacun d’entre nous pourrait utiliser à son avantage spirituel. J'espère que vous garderez le document que je vous ai remis et que vous chercherez chacun votre propre ensemble d'attitudes de vie uniques qui vous aideront à optimiser les opportunités spirituelles qu'offre ce court séjour sur terre. J'aime appeler cet ensemble d'attitudes « Be-Attitudes ». Parce que la recherche de Dieu doit être entreprise dans le présent, si chacun de nous peut vivre sa vie humblement, courageusement et joyeusement conscient qu'en étant conscient :
+Dans mon partage avec vous aujourd’hui, je voulais mettre l’accent sur quelques choses pratiques que chacun d’entre nous pourrait utiliser à son avantage spirituel. J'espère que vous garderez le document que je vous ai remis et que vous chercherez chacun votre propre ensemble d'attitudes de vie uniques qui vous aideront à optimiser les opportunités spirituelles qu'offre ce court séjour sur terre. J'aime appeler cet ensemble d'attitudes « Be-Attitudes ». Parce que la recherche de Dieu doit être entreprise dans le présent, si chacun de nous peut vivre sa vie humblement, courageusement et joyeusement conscient qu'en étant conscient :
 
 - que ce moment a une grande valeur potentielle dans l'éternité ;
 - que la volonté de partager la vie intérieure avec Dieu est sa volonté ;

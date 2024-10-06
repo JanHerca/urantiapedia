@@ -25,7 +25,7 @@ dateCreated: 2023-6-21T8:13:38Z
         </td>
         <td>
         <a href="/es/article/Aprilhelen/The_First_Urantia_Book_Conference_in_Uganda">
-          <span class="pr-2">La Primera Conferencia del Libro de Urantia en Uganda: Una Visión Personal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">La Primera Conferencia del _Libro de Urantia_ en Uganda: Una Visión Personal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -87,7 +87,7 @@ Con una cultura en constante evolución en la vida familiar, las mujeres siguen 
         </td>
         <td>
         <a href="/es/article/Aprilhelen/The_First_Urantia_Book_Conference_in_Uganda">
-          <span class="pr-2">La Primera Conferencia del Libro de Urantia en Uganda: Una Visión Personal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">La Primera Conferencia del _Libro de Urantia_ en Uganda: Una Visión Personal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

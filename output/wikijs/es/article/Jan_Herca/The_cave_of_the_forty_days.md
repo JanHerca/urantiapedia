@@ -3,17 +3,16 @@ title: "La cueva de los cuarenta días"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Jesus, Jesus times, place
+tags: Jesus, Jesus times, place, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
-
 A veces hay referencias en _El Libro de Urantia_ que llaman la atención por su exactitud y concreción. Parecen colocadas ahí para que alguien se moleste en verificarlas, o quizá con alguna oculta intención que yo no alcanzo todavía a comprender. Pero cuando comencé a escribir el capítulo sobre el período de aislamiento de Jesús después de su bautismo, los famosos «cuarenta días», no pude escapar a la tentación de investigar sobre el paradero de Jesús durante ese período.
 
-> Durante estos días extraordinarios, Jesús vivió en una antigua caverna rocosa, un refugio en la ladera de las colinas, cerca de una aldea llamada en otro tiempo Beit Adis. Bebía del pequeño manantial que brotaba en la falda de la colina cerca de este refugio rocoso. <a id="a15_269"></a>[[LU 136:4.12](/es/The_Urantia_Book/136#p4_12)]
+> Durante estos días extraordinarios, Jesús vivió en una antigua caverna rocosa, un refugio en la ladera de las colinas, cerca de una aldea llamada en otro tiempo Beit Adis. Bebía del pequeño manantial que brotaba en la falda de la colina cerca de este refugio rocoso. <a id="a14_269"></a>[[LU 136:4.12](/es/The_Urantia_Book/136#p4_12)]
 
 Este pasaje de _El Libro de Urantia_ resultaba tan llamativo que parecía estar pidiendo a gritos que lo investigara.
 
@@ -27,7 +26,7 @@ La página web contiene mapas escaneados a escala 1:50.000, los mejores que he e
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Jan_Herca/The_cave_of_the_forty_days/jordan_map.jpg">
-<figcaption>En rojo, las ruinas de la antigua Pella. En amarillo, el posible camino que siguió Jesús. En azul, Beit Adis y en el rectángulo la posible ubicación de la cueva. En violeta, el posible precipicio donde Jesús reflexionó. (Abra la imagen o descárguela para poder hacer zoom y tener más detalle).</figcapton>
+<figcaption>En rojo, las ruinas de la antigua Pella. En amarillo, el posible camino que siguió Jesús. En azul, Beit Adis y en el rectángulo la posible ubicación de la cueva. En violeta, el posible precipicio donde Jesús reflexionó. (Abra la imagen o descárguela para poder hacer zoom y tener más detalle).</figcaption>
 </figure>
 
 Se pueden apreciar, en la proximidad, que vienen anotadas en el mapa dos posiciones con ruinas (Ruins). Son los restos de la antigua Pella.

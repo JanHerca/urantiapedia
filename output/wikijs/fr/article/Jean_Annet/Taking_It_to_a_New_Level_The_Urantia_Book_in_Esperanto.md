@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-2-july-2021">
+        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-2-juillet-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 2, July 2021 — Table des matières</span>
         </a>
         </td>
@@ -51,9 +51,9 @@ _Par Jean Annet, Namur, Belgique, et Martin Benoit, Québec, Canada_
 
 Puisque le _Livre d’Urantia_ a déjà été traduit en plus de 20 langues, il est temps maintenant de le traduire en Espéranto, la langue construite la plus importante de notre monde. Cela fait déjà plus d’un an que nous avons reçu l’approbation de la Fondation de le faire et nous avons entrepris cette énorme tâche qui nous occupera pour des années venir.
 
-## Qu’est-ce que la langue Espéranto ?
+## Qu’est-ce que la langue Espéranto ?
 
-L’Espéranto est une langue construite, crée au dix-neuvième siècle par L.L. Zamenhof, un ophtalmologue de Pologne, cette dernière faisait partie de l’Empire russe, en ce temps-là. Lorsqu’il était jeune, il fit l’expérience de l’hostilité omniprésente entre les quatre peuples vivant à Bialystok : les Russes, les Polonais, les Juifs et les Allemands. S’apercevant que c’était dû en partie à la barrière linguistique, il décida de créer une langue internationale qui serait utilisée comme une langue neutre entre toutes les nations sur Terre. Son livre fut publié pour la première fois en 1887. Les racines de l’Espéranto sont fortement influencées par les langues européennes, alors que sa grammaire — simple, régulière et expressive — ressemble plus à celle des autres familles linguistiques. La grammaire de l’Espéranto fut conçue pour être facile à apprendre, ce qui rend la langue 10 fois plus rapide à apprendre que les langues européennes.
+L’Espéranto est une langue construite, crée au dix-neuvième siècle par L.L. Zamenhof, un ophtalmologue de Pologne, cette dernière faisait partie de l’Empire russe, en ce temps-là. Lorsqu’il était jeune, il fit l’expérience de l’hostilité omniprésente entre les quatre peuples vivant à Bialystok : les Russes, les Polonais, les Juifs et les Allemands. S’apercevant que c’était dû en partie à la barrière linguistique, il décida de créer une langue internationale qui serait utilisée comme une langue neutre entre toutes les nations sur Terre. Son livre fut publié pour la première fois en 1887. Les racines de l’Espéranto sont fortement influencées par les langues européennes, alors que sa grammaire — simple, régulière et expressive — ressemble plus à celle des autres familles linguistiques. La grammaire de l’Espéranto fut conçue pour être facile à apprendre, ce qui rend la langue 10 fois plus rapide à apprendre que les langues européennes.
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2021_07/003.jpg">
@@ -66,7 +66,7 @@ Cent trente ans plus tard, le mouvement Espéranto comprend des dizaines de mill
 
 Au début des années 2000, un français JeanMarie Chaise, termina la traduction en Espéranto du _Livre d’Urantia_ dans sa totalité. Toutefois, il décéda subitement et sa traduction resta sur les étagères pendant des années. Mais il y avait des problèmes avec sa version : elle était calquée sur la traduction française et avait besoin de nombreuses améliorations. Elle n’avait pas seulement besoin de révisions mais sa terminologie devait être harmonisée. Il faudrait beaucoup de travail pour la terminer.
 
-Au début de 2020, une nouvelle équipe internationale fut créée pour participer à ce projet colossal. Permettez-moi maintenant de vous présenter l’équipe :
+Au début de 2020, une nouvelle équipe internationale fut créée pour participer à ce projet colossal. Permettez-moi maintenant de vous présenter l’équipe :
 
 - Yves Nevelsteen, de Belgique, ancien président de l’Association Flamande Espéranto des Jeunes, qui créa le Komputeko, une terminologie d’ordinateur dans le cadre de l’E@I (Espéranto sur Internet), et qui est actif comme éditeur pour le _Wikipedia Ésperanto._
 - Lucas Perrier, vice-président de l’AFFLU (l’association des lecteurs francophones), qui a déjà révisé 18 fascicules du livre.
@@ -74,15 +74,15 @@ Au début de 2020, une nouvelle équipe internationale fut créée pour particip
 - Martin Benoit du Canada, qui a corrigé un fascicule du livre, a commencé à créer un glossaire des néologismes du _Livre d’Urantia_ et parle Espéranto depuis près de 20 ans.
 - Jean Annet, de Belgique, ancien président de l’Association Urantia Belgique, qui reçu directement de JeanMarie Chaise, la traduction du livre en Espéranto.
 
-## Pourquoi traduire le _Livre d’Urantia_ en Espéranto ?
+## Pourquoi traduire le _Livre d’Urantia_ en Espéranto ?
 
-On peut se demander : pourquoi traduire le livre en Espéranto ? À quoi cela servira et surtout à qui ? Comme nous l’avons vu, L’Espéranto fut créer par un polonais qui voulait promouvoir la fraternité humaine. Et comme il était juif et croyant, il était convaincu que si tous les hommes sur terre étaient frères, ils ne pouvaient provenir que d’un seul Père et cela signifiait qu’il n’y avait qu’un seul Dieu. Donc, il y avait derrière l’Espéranto, une idée internationale (la interna idéo) de la fraternité humaine sous la Paternité de Dieu. Si tous les Espérantistes acceptent l’idée de la fraternité humaine, même s’il n’en est pas de même pour la Paternité de Dieu, _l’interna ideo_ est implicite dans la langue et tous les Espérantistes la comprennent. Le monde espérantiste est donc un public ciblé idéal pour transmettre les enseignements du _Livre d’Urantia._
+On peut se demander : pourquoi traduire le livre en Espéranto ? À quoi cela servira et surtout à qui ? Comme nous l’avons vu, L’Espéranto fut créer par un polonais qui voulait promouvoir la fraternité humaine. Et comme il était juif et croyant, il était convaincu que si tous les hommes sur terre étaient frères, ils ne pouvaient provenir que d’un seul Père et cela signifiait qu’il n’y avait qu’un seul Dieu. Donc, il y avait derrière l’Espéranto, une idée internationale (la interna idéo) de la fraternité humaine sous la Paternité de Dieu. Si tous les Espérantistes acceptent l’idée de la fraternité humaine, même s’il n’en est pas de même pour la Paternité de Dieu, _l’interna ideo_ est implicite dans la langue et tous les Espérantistes la comprennent. Le monde espérantiste est donc un public ciblé idéal pour transmettre les enseignements du _Livre d’Urantia._
 
-L’Espéranto et _Le Livre d’Urantia_ ont de nombreuses similitudes significatives :
+L’Espéranto et _Le Livre d’Urantia_ ont de nombreuses similitudes significatives :
 
 - Ils ont tous deux commencé à peu près au début du vingtième siècle.
 - Ils n’appartiennent à personne, à aucun peuple, pays, association ou religion.
-- Ils sont disséminés par leurs « utilisateurs »
+- Ils sont disséminés par leurs « utilisateurs »
 - Ils ont tous deux leurs opposants et leurs fervents partisans.
 - Ils organisent tous deux des réunions nationales et des conférences internationales.
 - ils sont tous deux en avance sur leur époque et décolleront seulement dans le futur.
@@ -93,7 +93,7 @@ L’Espéranto et _Le Livre d’Urantia_ ont de nombreuses similitudes significa
 </figure>
 
 - Il est difficile de déterminer le nombre de ses followers. Il y a ceux qui sont absolument convaincus (qui le parlent, le lisent, l’étudient). Il y a ceux qui l’approchent de plus loin, et il y a ceux qui connaissent simplement son existence.
-- Et par-dessus tout, ils portent tous deux le même message : la fraternité humaine.
+- Et par-dessus tout, ils portent tous deux le même message : la fraternité humaine.
 
 Au lieu de communiquer le livre à un pays dans sa langue natale, la traduction Espéranto le portera à une population unique au niveau mondial, celle qui partage (au niveau interne et avec la révélation) le même idéal de la fraternité humaine. Avoir _Le Livre d’Urantia_ en Espéranto sera d’avoir finalement, la religion universelle rendue dans la langue universelle.
 <br style="clear:both;"/>
@@ -118,7 +118,7 @@ Au lieu de communiquer le livre à un pays dans sa langue natale, la traduction 
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-2-july-2021">
+        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-2-juillet-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 2, July 2021 — Table des matières</span>
         </a>
         </td>

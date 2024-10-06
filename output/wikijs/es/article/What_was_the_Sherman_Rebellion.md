@@ -22,11 +22,11 @@ Un grupo de historiadores urantianos ha editado el capítulo de Sherman para que
 <img src="/image/article/David_Kantor/Historic_Timeline_in_Revelation/sherman_photos.jpg">
 </figura>
 
-Los dirigentes de Chicago reaccionaron fuertemente ante el supuesto ataque de Sherman a la integridad del Libro de Urantia y el Foro.
+Los dirigentes de Chicago reaccionaron fuertemente ante el supuesto ataque de Sherman a la integridad del _Libro de Urantia_ y el Foro.
 
 Meredith Sprunger, en ese momento presidenta de la Hermandad Urantia, escribió inmediatamente una refutación de las afirmaciones de Sherman en un artículo titulado «Una respuesta a lo que parece ser un comentario sobre el movimiento Urantia en un libro titulado ‘Cómo saber qué creer’.», págs. 58-96 [Ver el artículo de Meredith](/es/article/Meredith_Sprunger/A_Response_to_How_to_Know_What_to_Believe)
 
-El domingo 5 de septiembre de 1976, Clyde Bedell pronunció una apasionada defensa del Libro de Urantia ante los miembros de la Primera Sociedad Urantia de Oklahoma. A Clyde le molestó especialmente que Sherman hubiera aprovechado sus preocupaciones sobre la estructura organizativa y las hubiera presentado al público como relacionadas de algún modo con la falta de información psíquica y paranormal en El libro de Urantia. Esta presentación en Oklahoma fue un clásico de Clyde y la transcripción de esta charla proporciona una visión maravillosa del carácter dinámico y apasionado de Clyde. [Ver los comentarios de Clyde](/es/article/Clyde_Bedell/A_Response_to_a_Thinly_Disguised_Attack_on_UB)
+El domingo 5 de septiembre de 1976, Clyde Bedell pronunció una apasionada defensa del _Libro de Urantia_ ante los miembros de la Primera Sociedad Urantia de Oklahoma. A Clyde le molestó especialmente que Sherman hubiera aprovechado sus preocupaciones sobre la estructura organizativa y las hubiera presentado al público como relacionadas de algún modo con la falta de información psíquica y paranormal en El libro de Urantia. Esta presentación en Oklahoma fue un clásico de Clyde y la transcripción de esta charla proporciona una visión maravillosa del carácter dinámico y apasionado de Clyde. [Ver los comentarios de Clyde](/es/article/Clyde_Bedell/A_Response_to_a_Thinly_Disguised_Attack_on_UB)
 
 Clyde también escribió una defensa mucho más breve para su distribución general a los fideicomisarios y directores de la Fundación Urantia y la Hermandad Urantia, así como a cualquiera que tuviera preguntas sobre el material de Sherman. [Ver la defensa más corta de Clyde](/es/article/Clyde_Bedell/A_Response_to_a_Thinly_Disguised_Attack_on_UB_2)
 

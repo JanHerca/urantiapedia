@@ -43,7 +43,7 @@ De nouveaux développements combinés à des activités traditionnelles accrues 
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/flower.jpg">
-<figcaption><em>« La beauté triomphe toujours de la laideur dans le cœur de tous ceux qui sont illuminés par l’amour de la vérité. » (<a id="a45_134"></a>[LU 156:5.5](/fr/The_Urantia_Book/156#p5_5)) Photographie de Carol Herron.</em></figcapton>
+<figcaption><em>« La beauté triomphe toujours de la laideur dans le cœur de tous ceux qui sont illuminés par l’amour de la vérité. » (<a id="a45_134"></a>[LU 156:5.5](/fr/The_Urantia_Book/156#p5_5)) Photographie de Carol Herron.</em></figcaption>
 </figure>
 
 

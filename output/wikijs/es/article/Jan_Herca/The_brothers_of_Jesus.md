@@ -3,13 +3,12 @@ title: "Los hermanos de Jesús"
 description: 
 published: true
 date: 2023-09-28T14:02:03.086Z
-tags: Jesus, Jesus times, place
+tags: Jesus, Jesus times, Jesus followers, article
 editor: markdown
 dateCreated: 2023-09-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
-
 
 Este asunto es uno de los que vienen causando más controversia y polémica durante los siglos de existencia del cristianismo. Debido a ciertas menciones que se hacen en el Nuevo Testamento surge una pregunta: ¿tuvo Jesús más hermanos? ¿O fue hijo único?
 
@@ -22,7 +21,6 @@ En primer lugar hay que decir que no existen pruebas concluyentes y definitivas 
 Básicamente en el tema existen dos posturas y lo que voy a hacer es examinar las evidencias que cada una de ella aporta como argumentos en su favor.
 
 ## Postura A: Jesús no tuvo hermanos, fue hijo único
-
 
 Las pruebas presentadas más importantes se resumen así:
 
@@ -49,7 +47,6 @@ Estos pasajes y otros parecen establecer que al pie de la cruz estuvieron un gru
 - Juana, mujer de Cusa, administrador de Herodes,
 - Salomé, mujer de Zebedeo, la madre de los apóstoles Santiago y Juan,
 - posiblemente también estaba Susana, una seguidora de Jesús mencionada en [Lc 8:2](/es/Bible/Luke/8#v2).
-
 
 Parecen unos candidatos idóneos Cleofás y María como los tíos de Jesús cuyos hijos son con quienes se confundió a hermanos de Jesús. Por lo que se nos dice, su madre, María, acompañaba a Jesús frecuentemente, y esto hace pensar que sus hijos fueran también un poco seguidores de Jesús.
 
@@ -105,7 +102,6 @@ Esta postura demuestra bastante bien que la teoría de los «primos» carece de 
 
 ## ¿Por cuál decantarse?
 
-
 Sin más pruebas documentales resulta del todo improcedente decir que el asunto está zanjado y que las pruebas apuntan en una sola dirección. Personalmente me he inclinado por la solución «hermanos carnales» porque la otra da la sensación de ser un postulado posterior en el cristianismo para demostrar la virginidad de María. El documento más antiguo que narra de forma explícita que María fue una segunda esposa de un José anciano es el [Protoevangelio de Santiago](/es/Bible/Protoevangelium_of_James), que fue escrito mucho después de los evangelios canónicos. Además, si se lee este protoevangelio, se verá que la historia del casamiento de José con María viene precedida por la narración del nacimiento de María y de su infancia como «virgen en el templo». Todo parece querer ahondar en la idea de que María era una mujer especial. Su concepción fue anunciada a sus padres de un modo similar a como luego Jesús fue anunciado a ella. Se quiere establecer por parte del autor un paralelismo entre María, el prototipo femenino cristiano, y Jesús, el masculino. Esto se constata por el hecho de que José, en toda esta historia, parece un personaje totalmente secundario, algo impropio de la costumbre judía, pero más del gusto de gentiles cristianos.
 
 En definitiva, creo que toda la discusión, en realidad, es una discusión sobre el eterno dilema de si María, la madre de Jesús, fue esa persona «tan especial» que han venerado y veneran muchos cristianos devotos, y sobre la cual se han aprobado por parte de la iglesia católica hasta cinco dogmas, o por el contrario fue una mujer normal y corriente de su tiempo. Pero no continuaremos por este camino porque ya habrá tiempo de tratarlo en otros artículos.
@@ -117,7 +113,6 @@ Pero si reflexionamos e intentamos imaginar cuáles fueron los motivos de Jesús
 ## Enlaces externos
 
 * [Artículo original](https://buscandoajesus.wordpress.com/articulos/los-hermanos-de-jesus/)
-
 
 ## Referencias
 

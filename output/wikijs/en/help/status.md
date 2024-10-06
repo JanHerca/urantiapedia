@@ -151,30 +151,28 @@ The table below is not completed. There are more websites that we are considerin
 | - News Flash                 |  24        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | - Urantian                   |  63        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Fellowship                   |            |                    |                    |                    |
-| - Fellowship Herald          | 232        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| - Fellowship Herald          | 263        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | - Mighty Messenger           | 218        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | - Study Group Herald         | 129        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | - The Urantian               | 264        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | IUA                          |            |                    |                    |                    |
-| - Journal                    |  99        | :heavy_check_mark: | :heavy_check_mark: |                    |
-| - Tidings                    | 364        | :heavy_check_mark: | :heavy_check_mark: |                    |
+| - Journal                    | 216        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| - Tidings                    | 389        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Innerface International      | 568        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Spiritual Fellowship Journal | 400        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Spain Association            |            |                    |                    |                    |
 | - Luz y Vida                 | 337        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| - Website                    | 100        |                    |                    |                    |
 | ANZURA Association           |            |                    |                    |                    |
 | - 6-0-6                      | 257        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| - The Arena                  | 108        | :heavy_check_mark: | :heavy_check_mark: |                    |
+| - The Arena                  | 108        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | French Association           |            |                    |                    |                    |
-| - CERDH - The Letter         | 90         |                    |                    |                    |
-| - Le Lien                    | 600        |                    |                    |                    |
+| - CERDH - The Letter         | 90         | :clock2:           | :clock2:           | :clock2:           |
+| - Le Lien                    | 500        | :clock2:           | :clock2:           | :clock2:           |
 | Quebec Association           |            |                    |                    |                    |
-| - Reflectivite               | 143        |                    |                    |                    |
-| - Website                    | 116        |                    |                    |                    |
-| UB Annotated                 |  20        | :heavy_check_mark: | :clock2:           |                    |
-| Jan Herca articles           |  41        | :clock2:           | :clock2:           |                    |
-| **TOTAL**                    | **4813**   |                    |                    |                    |
+| - Reflectivite               | 401        | :clock2:           | :clock2:           | :clock2:           |
+| UB Annotated                 |  56        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Jan Herca articles           |  71        | :clock2:           | :clock2:           | :clock2:           |
+| **TOTAL**                    | **4994**   |                    |                    |                    |
 
 </div>
 

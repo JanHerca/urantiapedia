@@ -82,7 +82,7 @@ _Otra luz brillante se ha apagado en nuestro mundo. Que Dios te acompañe, buen
 
 ---
 
-_Siento lo de David, pero me alegro de que su futuro eterno sea tan brillante. Probablemente todos nos despedimos de David a nuestra manera. Aunque nuestros pensamientos y oraciones iban con él, todos compartiremos el sentimiento común de saber que se ha ido y de echar de menos la amplitud de la huella de su vida. Nuestra copa (la del PIRT que David nos envió) sigue rebosando de libertad espiritual, como era la intención de todos nosotros al compartir las buenas noticias con los que buscan _con ahínco__ _la verdad. Has hecho un buen trabajo, David. Ahora, ¡adelante con tu próxima misión! Con todo nuestro amor…_  – Maramis Choufani
+_Siento lo de David, pero me alegro de que su futuro eterno sea tan brillante. Probablemente todos nos despedimos de David a nuestra manera. Aunque nuestros pensamientos y oraciones iban con él, todos compartiremos el sentimiento común de saber que se ha ido y de echar de menos la amplitud de la huella de su vida. Nuestra copa (la del PIRT que David nos envió) sigue rebosando de libertad espiritual, como era la intención de todos nosotros al compartir las buenas noticias con los que buscan _con ahínco__ _la verdad. Has hecho un buen trabajo, David. Ahora, ¡adelante con tu próxima misión! Con todo nuestro amor…_ – Maramis Choufani
 
 ---
 

@@ -74,7 +74,7 @@ Lo que comenzó como un poco de trabajo de servicio y muchos de nosotros cambiam
 
 Comenzamos a ver surgir «Lecciones espirituales» en lugar de la autoindulgencia. Hay tantos proyectos en marcha que no podemos hacerles justicia aquí. No temas, se está trabajando en una solución.
 
-__Ingrediente #5: ¡Los lectores del Libro de Urantia están marcando la diferencia!__
+__Ingrediente #5: ¡Los lectores del _Libro de Urantia_ están marcando la diferencia!__
 
 Con los ojos muy abiertos por el asombro, les decimos a nuestros amigos, nuevos y viejos, un adiós momentáneo. Ahora me dirigía a un pequeño pueblo en las afueras de Pittsburgh donde Jan, un lector de _El Libro de Urantia_ y amigo de Tampa, se alojaba temporalmente. Su madre murió recientemente y literalmente estaba limpiando la casa de su infancia, en virtud de su cuerpo, mente y espíritu. De hecho, está considerando esta «limpieza profunda» como el tema de su próximo libro. Aun así, encontró tiempo para criar individual y colectivamente a los niños que vivían en el barrio. Cuando nos reunimos con Jan y los niños una tarde, experimentamos lo alegres, receptivos e inocentes que pueden ser. Recordamos que Jesús siempre hizo tiempo para los niños.
 
@@ -112,7 +112,7 @@ __Ingrediente # 13: La belleza no es suficiente, aunque la variedad ayuda.__
 
 Pueblo, Colorado Springs, Boulder; estos no solo son focos de actividades de Urantia, sino que también están llenos de hijos e hijas de Dios que han hecho compromisos y los han cumplido. Están haciendo algo. En Colorado Springs, Lynn G. hizo los arreglos para que visitáramos a un grupo de lectores en su mayoría nuevos. Allí se está elaborando un libro de trabajo detallado del Prólogo. Vaya, ¿cómo es eso de hacer algo? En Pueblo, nos invitaron a una reunión de oración y meditación en casa de Joanne y luego fuimos honrados con una comida compartida de tres grupos de estudio organizada por Lynn C. También nos pidió que hiciéramos una presentación sobre algunas de las actividades que se llevan a cabo en _El Libro de Urantia_ comunidad y facilitar un ejercicio de retiro. Hermanos de Pueblo, gracias por su hospitalidad y oportunidades.
 
-__Ingrediente n.º 14: Los lectores del Libro de Urantia son tan adorables que nos enseñan a abrir el corazón a todos.__
+__Ingrediente n.º 14: Los lectores del _Libro de Urantia_ son tan adorables que nos enseñan a abrir el corazón a todos.__
 
 Una de las reuniones semanales del grupo de estudio de Boulder pone énfasis en el crecimiento personal. Otro tiene un grupo de jóvenes. Un lector experimentado ha logrado conseguir un stand de libros en el campus universitario. Errol & Rochelle estuvo en la ciudad durante unos días realizando algunas de sus famosas parodias en una iglesia local. También pudimos ver algunos nuevos. ¿Estás a punto de comprometerte a servir y solo estás esperando que se presente la oportunidad? No busque más. Le acaban de informar de una pareja que no solo se dedica a tender la mano con amor a los demás, sino que también tiene un programa para implementar el verdadero servicio en su vida.
 

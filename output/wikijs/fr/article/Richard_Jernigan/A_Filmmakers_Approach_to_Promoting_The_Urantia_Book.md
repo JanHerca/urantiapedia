@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-4-dec-2013">
+        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-4-décembre-2013">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 4, Déc. 2013 — Table des matières</span>
         </a>
         </td>
@@ -45,6 +45,12 @@ Durant toute ma vie d'adulte, j'ai été un cinéaste et un lecteur du _Livre d'
 Avec mon deuxiéme effort, je visais bref et concis. Les lecteurs du _Livre d'Urantia_ parlent directement à la caméra sur un fond blanc et répondent aux questions de base, comme: Qu'aimez-vous dans de ce livre ? Qu'est-ce qui vous a convaincu que ce livre est ce qu'il prétend être ? Sur quels sections ou passages retournez -vous encore et encore ? Quel trait de Jésus vous séduit le plus ? Comment ces enseignements ont-ils changé vos relations ? 
 
 Dans un effort d'attirer les non-lecteurs, j'ai encouragé les personnes interrogées à décrire les idées et concepts du livre avec leurs propres mots. Certaines des personnes interrogées ont répondu tres simplement, d'autres sont allées trés en profondeur. 
+<br style="clear:both;"/>
+
+<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<img src="/image/article/UF_News_Online/2013_12/021.jpg">
+<figcaption><em>Janelle Mazza parle du Livre d'Urantia</em></figcaption>
+</figure>
 
 Au départ, j'avais l'intention de créer une courte vidéo d'environ trois minutes, mais parce que les témoignages des lecteurs étaient si riches et si réfléchis, il y aura plusieurs vidéos. Certains d'entre eux se concentreront sur un lecteur individuel, d'autres seront sur un théme, comme les lecteurs qui parlent de Jésus, de la présence intérieure de Dieu, et de la vie aprés la mort. 
 
@@ -75,7 +81,7 @@ Les vidéos peuvent être consultées à http://www.urantia.orq/urantia-book-vid
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-4-dec-2013">
+        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-4-décembre-2013">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 4, Déc. 2013 — Table des matières</span>
         </a>
         </td>

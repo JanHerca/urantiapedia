@@ -30,7 +30,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Vers la conscience cosmique
 
-La Fellowship du Livre d'Urantia tiendra sa session d'étude d'été 2010 du 21 au 26 juillet à Techny Towers, un centre de conférence et de retraite situé sur la côte nord de Chicago. Le thème de la conférence, « Conscience divine et moralité cosmique : vivre l’Évangile », a déjà attiré l’attention d'un certain nombre de lecteurs expérimentés du _Livre d'Urantia_ qui se sont portés volontaires pour diriger des ateliers qui fourniront aux participants l’occasion de s'engager dans une discussion approfondie sur sujets liés à ce thème. Le comité d’éducation du Fellowship, responsable de l’organisation de l’événement, promet de perpétuer la tradition d’études de haute qualité vécue l’été dernier. 
+La Fellowship du Livre d'Urantia tiendra sa session d'étude d'été 2010 du 21 au 26 juillet à Techny Towers, un centre de conférence et de retraite situé sur la côte nord de Chicago. Le thème de la conférence, « Conscience divine et moralité cosmique : vivre l’Évangile », a déjà attiré l’attention d'un certain nombre de lecteurs expérimentés du _Livre d'Urantia_ qui se sont portés volontaires pour diriger des ateliers qui fourniront aux participants l’occasion de s'engager dans une discussion approfondie sur sujets liés à ce thème. Le comité d’éducation du Fellowship, responsable de l’organisation de l’événement, promet de perpétuer la tradition d’études de haute qualité vécue l’été dernier. 
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2010_Spring/005726.jpg">
@@ -64,9 +64,9 @@ En janvier, le Conseil Général de la Fellowship du Livre d'Urantia s'est réun
 
 Lorsque le conseil s'est réuni pour partager les résultats de notre vision, j'ai remarqué que deux idées revenaient à plusieurs reprises dans la discussion. La première était la nécessité de rester à la pointe des tendances en matière de technologie et de communication. « À la pointe de la technologie », « s'adapter constamment », « innover continuellement », « rester à la pointe de la technologie » sont quelques-unes des expressions utilisées.
 
-Cela m’a fait réfléchir. Comment pouvons-nous intégrer une amélioration perpétuelle dans le système de bourses ? Comment pouvons-nous maintenir la Fraternité à la pointe d’un bassin de potentiels en constante évolution ? Comment rester fidèles à nos valeurs communes qui ne doivent jamais changer, tout en acceptant le changement constant dont nous avons besoin pour rester viables et pertinents dans les décennies à venir ?
+Cela m’a fait réfléchir. Comment pouvons-nous intégrer une amélioration perpétuelle dans le système de bourses ? Comment pouvons-nous maintenir la Fraternité à la pointe d’un bassin de potentiels en constante évolution ? Comment rester fidèles à nos valeurs communes qui ne doivent jamais changer, tout en acceptant le changement constant dont nous avons besoin pour rester viables et pertinents dans les décennies à venir ?
 
-Je sais comment concevoir une entreprise qui s'en tient aux principes fondamentaux tout en favorisant l’expérimentation et les nouvelles idées, mais comment pouvons-nous intégrer cela dans la Fellowship ? Je vous invite à prier sur ce sujet avec moi dans les mois à venir.
+Je sais comment concevoir une entreprise qui s'en tient aux principes fondamentaux tout en favorisant l’expérimentation et les nouvelles idées, mais comment pouvons-nous intégrer cela dans la Fellowship ? Je vous invite à prier sur ce sujet avec moi dans les mois à venir.
 
 Le deuxième thème qui a intéressé beaucoup de nos petits groupes était l’idée d'impliquer les jeunes dans la révélation. Le sujet des jeunes a été abordé lors des délibérations du Conseil plus tard au cours de la séance, lorsque nous avons approuvé à l’unanimité la formation d'un comité ad hoc pour les jeunes. Le président du comité, Tom Choquette, a l’intention de faire de ce comité un comité permanent. Tom s'efforce depuis longtemps d'amener les jeunes à l’amour de la vérité ; son implication dans la Fellowship est une bénédiction à plusieurs niveaux.
 
@@ -82,9 +82,9 @@ Deux de nos lecteurs les plus actifs d'Amérique Latine, Agustin Arellano du Mex
 
 L'un des principaux organisateurs de la conférence, Jaime Rodriguez, est un lecteur du Livre d'Urantia très impliqué dans les groupes OVNI et qui a parrainé des programmes de radio sur la révélation. Les présentations d’Agustin et de Nelida ont été très bien accueillies avec de nombreuses questions sur la relation entre _Le Livre d’Urantia_ et la vie sur d’autres planètes. Ceux qui ont assisté à la conférence étaient très intéressés à en savoir plus sur les différentes formes de vie dans les univers et sur les changements que nous, en tant qu’humains, rencontrerions à mesure que nous progressons dans la vie suivante, et ils ont profité de l’occasion pour organiser et tenir un stand Urantia avec le l’aide des lecteurs locaux.
 
-Au stand, ils ont distribué trente livres d'Urantia, des exemplaires en espagnol des « Bases du Livre d'Urantia », des vitamines spirituelles, des épinglettes, des affiches et des autocollants. De plus, plus de 1 000 brochures, CD et DVD ont été distribués. Grâce à cette forme de sensibilisation, quatre nouveaux groupes d'étude ont été formés, deux dans la région de Guayaquil pour les lecteurs généraux et, pour la première fois, un groupe de jeunes lecteurs pour les 17 à 29 ans dirigé par Fernando Delgado, un -vieux lecteur. Un autre groupe se réunira dans la région de Sierra, près de Quito.
+Au stand, ils ont distribué trente livres d'Urantia, des exemplaires en espagnol des « Bases du Livre d'Urantia », des vitamines spirituelles, des épinglettes, des affiches et des autocollants. De plus, plus de 1 000 brochures, CD et DVD ont été distribués. Grâce à cette forme de sensibilisation, quatre nouveaux groupes d'étude ont été formés, deux dans la région de Guayaquil pour les lecteurs généraux et, pour la première fois, un groupe de jeunes lecteurs pour les 17 à 29 ans dirigé par Fernando Delgado, un -vieux lecteur. Un autre groupe se réunira dans la région de Sierra, près de Quito.
 
-D'autres activités en Équateur incluent la collecte de $400 of the $600 nécessaires pour payer les frais juridiques de constitution de la nouvelle Association Salvington Urantia Équateur. Les lecteurs ont également créé un fonds pour payer les dépenses des groupes d'étude locaux. Des plans sont en cours d'élaboration pour accueillir une conférence internationale multilingue dans un avenir proche. Nelida a lancé et administre les sites Web suivants :
+D'autres activités en Équateur incluent la collecte de $400 of the $600 nécessaires pour payer les frais juridiques de constitution de la nouvelle Association Salvington Urantia Équateur. Les lecteurs ont également créé un fonds pour payer les dépenses des groupes d'étude locaux. Des plans sont en cours d'élaboration pour accueillir une conférence internationale multilingue dans un avenir proche. Nelida a lancé et administre les sites Web suivants :
 
 www.urantiaecuador.com/
 www.urantiasalvington.ning.com/
@@ -94,13 +94,13 @@ www.zoomblog.com/blog/urantiamapadecaminos/
 
 ## Le Mexique accueille une conférence nationale
 
-Le Mexique sera le pays hôte de la 10e Conférence nationale à Mazatlan, Sinaloa, du 7 au 9 mai 2010. Le rassemblement a été organisé par le Grupo Orvonton, A.C. et les lecteurs de la Fellowship du Livre d'Urantia. Le thème sera « l’Esprit Mère de l’Univers Local » et la conférence sera multilingue, en anglais, espagnol, français et portugais. La présidente du CN10 est Dulce M. Aguirre.
+Le Mexique sera le pays hôte de la 10e Conférence nationale à Mazatlan, Sinaloa, du 7 au 9 mai 2010. Le rassemblement a été organisé par le Grupo Orvonton, A.C. et les lecteurs de la Fellowship du Livre d'Urantia. Le thème sera « l’Esprit Mère de l’Univers Local » et la conférence sera multilingue, en anglais, espagnol, français et portugais. La présidente du CN10 est Dulce M. Aguirre.
 
 Il s'agit de la 9ème réunion des Lecteurs du Livre d'Urantia des 3 Amériques, et les conférenciers représenteront un certain nombre de nations. Parmi eux figurent Maria Aguirre, Augustin Arellano Tirado, Isabel Carmona, Angelica Talamantes, Ricardo Van Dyck et David Martinez, tous originaires du Mexique. Les autres présentateurs sont Nelida Oliver (Équateur), Rafael Fco. Arlas (Costa Rica), Elyr Silva (Brésil.), membres du Comité international de la Fellowship, Buck Weimer, Charlene Morrow et Dolores Nice feront également des présentations.
 
 De plus amples informations peuvent être obtenues en appelant (cellulaire) 0052 1 8115002958, (bureau) 0052 81 88802105 ou en envoyant un e-mail à Agustin Arellano Tirado à orvonton@gmail.com. 
 
-## Les comités de bourses ont besoin de vous !
+## Les comités de bourses ont besoin de vous !
 
 Si vous êtes membre de la Fellowship du Livre d'Urantia et que vous souhaitez faire partie d'un comité, voici quelques opportunités. Même si vous n'êtes pas membre officiel de la Fellowship, vous pouvez siéger au sein d'un comité en tant que membre adjoint.
 
@@ -111,13 +111,13 @@ Voici quelques ouvertures :
 
 ### Nous avons besoin de votre adresse e-mail
 
-Nous voulons garder la communauté Urantia informée mais nous voulons aussi être verts. Les communications par courrier électronique nous offrent une merveilleuse occasion de faire les deux. Nous publions une newsletter en ligne intéressante et informative intitulée « The Community Update ». Il paraît plus fréquemment que nos publications imprimées, couvre nos activités récentes et comprend des histoires et des photos intéressantes. Et parce qu’il est publié sur Internet, il nous aide à préserver de précieuses ressources matérielles. Pour recevoir cette superbe publication en ligne, veuillez transmettre votre adresse e-mail à : Fellowship@Urantiabook.org. Pour consulter les éditions récentes, visitez www.UrantiaBook.org et sélectionnez « Quoi de neuf ».
+Nous voulons garder la communauté Urantia informée mais nous voulons aussi être verts. Les communications par courrier électronique nous offrent une merveilleuse occasion de faire les deux. Nous publions une newsletter en ligne intéressante et informative intitulée « The Community Update ». Il paraît plus fréquemment que nos publications imprimées, couvre nos activités récentes et comprend des histoires et des photos intéressantes. Et parce qu’il est publié sur Internet, il nous aide à préserver de précieuses ressources matérielles. Pour recevoir cette superbe publication en ligne, veuillez transmettre votre adresse e-mail à : Fellowship@Urantiabook.org. Pour consulter les éditions récentes, visitez www.UrantiaBook.org et sélectionnez « Quoi de neuf ».
 
 ### Plus d’opportunités de service disponibles…
 
 Une « Liste d'opportunités de service » a maintenant été mise à disposition, détaillant certains domaines de besoin actuel de service au sein des lecteurs d'Urantia. Les détails peuvent être téléchargés sur : www. urantia.info/service/ServiceOpportunities.pdf. 
 
-Cette liste décrit les possibilités pour les non-informaticiens ainsi que pour celles nécessitant une gamme d'expertise informatique. Veuillez consulter cette liste et envisager d'aider ; ou, si vous connaissez quelqu’un qui pourrait vous aider, veuillez nous le faire savoir. 
+Cette liste décrit les possibilités pour les non-informaticiens ainsi que pour celles nécessitant une gamme d'expertise informatique. Veuillez consulter cette liste et envisager d'aider ; ou, si vous connaissez quelqu’un qui pourrait vous aider, veuillez nous le faire savoir. 
 
 Et un grand merci à ceux qui se sont déjà portés volontaires !
 
@@ -144,14 +144,14 @@ Par _Cristina Seaborn_
 
 « Faire un monde de différence : s'entendre les uns les autres, guérir la Terre » était le thème du Parlement mondial des religions qui s'est tenu à Melbourne, en Australie, du 3 au 9 décembre 2009. L'accent était mis sur les perspectives spirituelles des peuples indigènes, indigènes et peuple aborigène. Avec 7 000 personnes présentes, 355 religions représentées et 500 ateliers, ce fut une fête interconfessionnelle !
 
-Il s'agit de la quatrième législature à laquelle le Fellowship participe. Les législatures précédentes ont eu lieu à Chicago en 1993 ; Le Cap, Afrique du Sud 1999 ; et Barcelone, Espagne 2004. Les lecteurs australiens et néo-zélandais, ANZURA, ont parrainé et organisé astucieusement le stand du Livre d'Urantia, que la Fraternité, la Fondation Urantia et l’AUI ont co-financé.
+Il s'agit de la quatrième législature à laquelle le Fellowship participe. Les législatures précédentes ont eu lieu à Chicago en 1993 ; Le Cap, Afrique du Sud 1999 ; et Barcelone, Espagne 2004. Les lecteurs australiens et néo-zélandais, ANZURA, ont parrainé et organisé astucieusement le stand du Livre d'Urantia, que la Fraternité, la Fondation Urantia et l’AUI ont co-financé.
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2010_Spring/005727.jpg">
 </figure>
 
 Rangée du haut : Cristina Seaborn, Paula Thompson, Buck Weimer, William Wentworth, Kathleen Swadling, Marvin Gawryn, Trevor Swadling, Jeff Cantin, Verner Verass, James Woodward, Verner Sutter Rangée 2 : Susan Wentworth, Arlene Weimer, Francyl Gawryn, Doug Childers
-Rangée du bas : Meredith Tenney, Ed Harrigan d'Alaska, Larry Geis 
+Rangée du bas : Meredith Tenney, Ed Harrigan d'Alaska, Larry Geis 
 
 Vingt-cinq lecteurs d'Urantia ont assisté à la conférence. Voici quelques-uns de leurs commentaires : 
 
@@ -169,15 +169,15 @@ Mon atelier préféré était « Le paradis n’est pas le dernier arrêt » de 
 <img src="/image/article/The_Mighty_Messenger/2010_Spring/005728.jpg">
 </figure>
 
-Après cet atelier, nous avons rencontré le révérend Peter Ravikumar de Madurai, en Inde, qui enseigne dans une école pour intouchables, le Tamil Nadu Theological Seminary. Son école pourrait devenir un lieu de contact pour le Comité international de sensibilisation en Inde. L’un de mes moments préférés a été de jouer de la musique avec Francyl Gawryn pendant deux heures dans le couloir. Un autochtone assis derrière nous recevait un flot de visiteurs qui recevaient leurs moments de sagesse d'un sage. Je voudrais également recommander les nombreuses photos de Steve Rohrbach disponibles sur le site Web du Parlement, ainsi que Larry Geis en tant que coordinateur de la suite d'accueil pour tout événement !
+Après cet atelier, nous avons rencontré le révérend Peter Ravikumar de Madurai, en Inde, qui enseigne dans une école pour intouchables, le Tamil Nadu Theological Seminary. Son école pourrait devenir un lieu de contact pour le Comité international de sensibilisation en Inde. L’un de mes moments préférés a été de jouer de la musique avec Francyl Gawryn pendant deux heures dans le couloir. Un autochtone assis derrière nous recevait un flot de visiteurs qui recevaient leurs moments de sagesse d'un sage. Je voudrais également recommander les nombreuses photos de Steve Rohrbach disponibles sur le site Web du Parlement, ainsi que Larry Geis en tant que coordinateur de la suite d'accueil pour tout événement !
 
-Paula, Buck et moi avons décidé d'organiser un atelier sur Jésus en dehors du contexte du christianisme traditionnel lors de la prochaine législature après avoir remarqué que des centaines de personnes avaient été refoulées faute de place lors d'un atelier intitulé « Vie de Jésus : perspectives non chrétiennes. '. Buck a donné des livres à deux religieuses qui avaient été refoulées.
+Paula, Buck et moi avons décidé d'organiser un atelier sur Jésus en dehors du contexte du christianisme traditionnel lors de la prochaine législature après avoir remarqué que des centaines de personnes avaient été refoulées faute de place lors d'un atelier intitulé « Vie de Jésus : perspectives non chrétiennes. '. Buck a donné des livres à deux religieuses qui avaient été refoulées.
 
 Gard Jameson a été invité en Iran pour prendre la parole. L’offre a été faite lors de la Conférence mondiale de philosophie du Parlement à Téhéran, à l’été 2010. Il a déclaré : « Des membres du ministère du Tourisme iranien nous ont vus au stand et ont découvert que j’enseignais la philosophie à l’Université du Nevada. Nous attendons d'entendre. En fin de compte, _Le Livre d'Urantia_ a beaucoup à offrir à toutes les traditions de la planète. Sa clarification de certaines idées religieuses est éclairante. L’opportunité d’interagir avec les membres de la communauté chiite a été des plus instructives et enrichissantes. Une telle interaction interreligieuse aide à souligner la valeur de la perspective du _Livre d'Urantia_, son esprit œcuménique. Le Parlement a été une immense bénédiction pour nous tous qui y avons participé. J'espère que d'autres membres de la communauté nous rejoindront la prochaine fois. Les Australiens ont fait un travail absolument magnifique en présentant _Le Livre d'Urantia_ aux participants qui ont rempli l’atelier intitulé Les Cahiers d'Urantia - « Qu'est-ce que l’amour va faire avec ça. »
 
 Marvin Gawryn a déclaré au Conseil général que « beaucoup de gens ont travaillé très dur au Parlement en faveur des relations interconfessionnelles. _Le Livre d'Urantia_ est très respecté de manière discrète et est connu sous le nom de tradition d'Urantia. Il y a un échange d’idées étonnant. La qualité des conversations que vous avez au Parlement ne ressemble à aucune autre. Nous connaissons Jésus allant à l’école à Ourmia. C’est l’ambiance à mesure que le Parlement avançait dans le temps, cette camaraderie selon laquelle nous sommes tous pareils. Nous sommes encouragés à emprunter un chemin différent avec le sentiment que nous avons une grande unité.
 
-La chose la plus puissante que j’ai entendue au Parlement était « Exploitez la révolution spirituelle dans votre communauté ! » Chacun de nous peut définir cela à sa manière selon le lieu où il vit, puis agir selon son élan spirituel. Soutenons la traduction créative de la Cinquième Révélation d’Époque pour élever les gens avec une conscience cosmique !
+La chose la plus puissante que j’ai entendue au Parlement était « Exploitez la révolution spirituelle dans votre communauté ! » Chacun de nous peut définir cela à sa manière selon le lieu où il vit, puis agir selon son élan spirituel. Soutenons la traduction créative de la Cinquième Révélation d’Époque pour élever les gens avec une conscience cosmique !
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2010_Spring/005729.jpg">
@@ -195,9 +195,9 @@ Au cours des prochains mois, le comité de planification va se concentrer sur le
 
 Le premier segment à aborder en tant que comité de planification est le message et la manière dont il sera transmis pour qu’il soit le plus efficace possible. Nous devons développer des outils de marketing, une interface informatique, des programmes et des formations pour les dirigeants, des projets et des modèles spécifiques qui peuvent être introduits de manière durable dans n'importe quelle communauté. Ce que nous produisons doit pouvoir être facilement reproduit dans n’importe quelle zone locale bénéficiant du soutien d’une communauté Urantia (Terre), quelles que soient ses affiliations. 
 
-Je termine ceci en promettant de vous tenir au courant de nos progrès. Si l’un d'entre vous qui lit ceci se sent poussé par l’esprit de participer ou d'aider de quelque manière que ce soit, veuillez me contacter à : tomchoquette@aol.com. Les jeunes de notre planète doivent savoir qu’ils ont une valeur infinie. Ils ont besoin de connaître la vérité sur leur héritage divin. Ils ont besoin d’aide pour reconnaître qu’ils sont les fondateurs d’un monde nouveau. Et nous pouvons vous aider – n'est-ce pas cool ? Amour, Tom
+Je termine ceci en promettant de vous tenir au courant de nos progrès. Si l’un d'entre vous qui lit ceci se sent poussé par l’esprit de participer ou d'aider de quelque manière que ce soit, veuillez me contacter à : tomchoquette@aol.com. Les jeunes de notre planète doivent savoir qu’ils ont une valeur infinie. Ils ont besoin de connaître la vérité sur leur héritage divin. Ils ont besoin d’aide pour reconnaître qu’ils sont les fondateurs d’un monde nouveau. Et nous pouvons vous aider – n'est-ce pas cool ? Amour, Tom
 
-> **Êtes-vous membre de la _Fambourg du Livre d'Urantia_ ?**
+> **Êtes-vous membre de la _Fambourg du Livre d'Urantia_ ?**
 > 
 > Les membres bénéficient d'avantages tels que des réductions importantes sur les livres d'Urantia et les ouvrages secondaires, mais plus important encore, ils augmentent leurs opportunités de partager et d'étudier la révélation. Devenez membre de l’organisation sociale fraternelle originale des croyants de la Cinquième Révélation d’Époque. Rejoignez la bourse. C'est facile et gratuit. http://www.urantiabook.org/Admin_Public/LUF_App_for_Individual_Membership.pdf
 {.is-info}
@@ -235,12 +235,12 @@ Nous livrons, nous avons visionné, nous avons socialisé, nous avons adoré
 - **1−5 juillet 2010** - Festival des Familles Unies Urantia, Montréal, PQ, Canada. Pour plus d’informations, allez sur www.urantiafamily.org.
 - **21−26 juillet 2010** - Session d'étude d'été de la Fellowship du Livre d'Urantia, Chicago, IL. Pour plus d’informations, contactez Lara Amyx à lara10@bellsouth.net. Attention : formulaire d'inscription dans ce numéro.
 - **29 juillet − août**. 1er janvier 2010 - LU The News Conference, « Education for Outreach » Boulder, CO Pour plus d'informations, www.ubthenews.com/Education_for_Outreach.htm.
-- **Août. 20−22, 2010** - Retraite « Cœur des montagnes », Valle Crucis, Caroline du Nord, près de Boone. Pour plus d’informations, rendez-vous à seretreat2010@yahoo.com.
+- **Août. 20−22, 2010** - Retraite « Cœur des montagnes », Valle Crucis, Caroline du Nord, près de Boone. Pour plus d’informations, rendez-vous à seretreat2010@yahoo.com.
 
 ## Personnel du « The Mighty Messenger »
 
 Publié par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship.
-Membres : Linda Buselli, présidente Cece Forrester David Glass, Nancy Johnson, Sage Waitts
+Membres : Linda Buselli, présidente Cece Forrester David Glass, Nancy Johnson, Sage Waitts
 877.288.3772
 bourse@urantiabook.org
 www.urantiabook.org

@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-Durante mucho tiempo ha habido un grupo de lectores del Libro de Urantia que han reflexionado sobre el problema de por qué el libro se ha escrito de una manera tan extraña.
+Durante mucho tiempo ha habido un grupo de lectores del _Libro de Urantia_ que han reflexionado sobre el problema de por qué el libro se ha escrito de una manera tan extraña.
 
 Un ejemplo es que se llama a sí mismo la Quinta Revelación de Época, elevando así las expectativas del lector principiante. Pero luego presenta una gran cantidad de material científico desactualizado como si fuera una revelación, dejándolo hasta la página 1109 antes de informarnos que las lo que significa que su contenido científico es anterior a mediados de la década de 1930.
 

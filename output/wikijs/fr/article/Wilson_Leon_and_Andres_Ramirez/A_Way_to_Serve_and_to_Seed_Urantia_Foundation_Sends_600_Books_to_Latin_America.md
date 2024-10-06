@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-3-oct-2018">
+        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-3-octobre-2018">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 3, Oct. 2018 — Table des matières</span>
         </a>
         </td>
@@ -34,17 +34,17 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-9left">
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2018_10/002.jpg">
 </figure>
 
 _Par Wilson Leõn et Andrés Ramírez, Bogotá, Colombie_
 
-_Note de l’éditeur : Les membres de l’Association Urantia de Colombie ont approché le conseil d’administration des Trustees, en avril, pour demander d’envoyer des Livres d’Urantia en espagnol aux différents groupes d’Amérique Latine. La Fondation travaille continuellement pour créer des réseaux de distribution fiables et dans certains pays cela marche très bien. Mais dans d’autres, il n’y a aucune distribution ou les livres sont trop chers. Notre prix de vente moyen aux distributeurs d’Amérique Latine est d’à peu près neuf dollars par livre. Mais lorsque les distributeurs ont payés les frais de transport et les frais de douanes, souvent le même livre est vendu dans les librairies pour $50 à $70._
+_Note de l’éditeur : Les membres de l’Association Urantia de Colombie ont approché le conseil d’administration des Trustees, en avril, pour demander d’envoyer des Livres d’Urantia en espagnol aux différents groupes d’Amérique Latine. La Fondation travaille continuellement pour créer des réseaux de distribution fiables et dans certains pays cela marche très bien. Mais dans d’autres, il n’y a aucune distribution ou les livres sont trop chers. Notre prix de vente moyen aux distributeurs d’Amérique Latine est d’à peu près neuf dollars par livre. Mais lorsque les distributeurs ont payés les frais de transport et les frais de douanes, souvent le même livre est vendu dans les librairies pour $50 à $70._
 
 _Afin de distribuer des livres dans les endroits en ayant besoin, la Fondation Urantia s’associa avec l’Association de Colombie et envoya 600 Livres d’Urantia en espagnol dans divers pays. Le coût des livres, plus le transport, fut de $12,000. Pour le financement, le lectorat fut sollicité et la générosité fut énorme ! En trois semaines, tous les fonds furent levés, les livres envoyés et les enseignements sont maintenant entre les mains de chercheurs de vérité, très reconnaissants._
 
-_À tous ceux qui ont contribué à ce projet, nous envoyons nos remerciements et notre profonde reconnaissance !_
+_À tous ceux qui ont contribué à ce projet, nous envoyons nos remerciements et notre profonde reconnaissance !_
 <br style="clear:both;"/>
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
@@ -52,7 +52,7 @@ _À tous ceux qui ont contribué à ce projet, nous envoyons nos remerciements e
 <figcaption><em>Groupe de lecture à Barranquilla, Colombia</em></figcaption>
 </figure>
 
-Les 600 Livres d’Urantia en espagnol, furent envoyés en petits lots pour éviter les réglementations douanières très onéreuses, de chaque pays. Avec l’aide d’un coordinateur international, les livres furent distribués aux Associations Urantia et aux autres leaders des endroits suivants : Argentine, Bolivie, Chili, Colombie, Costa Rica, Cuba, Ecuador, El Salvador, Guatemala, Pérou et Venezuela.
+Les 600 Livres d’Urantia en espagnol, furent envoyés en petits lots pour éviter les réglementations douanières très onéreuses, de chaque pays. Avec l’aide d’un coordinateur international, les livres furent distribués aux Associations Urantia et aux autres leaders des endroits suivants : Argentine, Bolivie, Chili, Colombie, Costa Rica, Cuba, Ecuador, El Salvador, Guatemala, Pérou et Venezuela.
 
 Il y a encore des groupes, dans d’autres pays, qui attendent des livres, c’est pourquoi nous avons fait en sorte que des personnes voyageant vers ces endroits, emportent une boite de livres avec eux. Cet extra bagage coûte beaucoup moins cher que les frais de transport.
 
@@ -60,7 +60,7 @@ Les livres sont placés dans les bibliothèques, les universités, les groupes d
 
 Le résultat de cette expérience servira de connaissance pour trouver la meilleure manière, d’apporter des livres dans chaque pays d’Amérique Latine. Nous espérons que cela nous apportera une manière stable et éprouvée pour que les livres arrivent à leur destination finale.
 
-Nous sommes très reconnaissants à la Fondation Urantia pour son aide, apportée aux Associations d’Amérique Latine, pendant toutes ces années !
+Nous sommes très reconnaissants à la Fondation Urantia pour son aide, apportée aux Associations d’Amérique Latine, pendant toutes ces années !
 <br style="clear:both;"/>
 
 
@@ -85,7 +85,7 @@ Nous sommes très reconnaissants à la Fondation Urantia pour son aide, apporté
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-3-oct-2018">
+        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-3-octobre-2018">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 3, Oct. 2018 — Table des matières</span>
         </a>
         </td>

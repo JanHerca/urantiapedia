@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-4-dec-2013">
+        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-4-décembre-2013">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 4, Déc. 2013 — Table des matières</span>
         </a>
         </td>
@@ -72,7 +72,7 @@ L’équipe de révision espagnole composée de Víctor García-Bory, Carmelo Ma
 
 ## Rénovation du troisième étage, du grenier, et de la remise**
 
-Une nouvelle plomberie et de nouveaux câblages électriques ont été installés au troisième étage. De nouveaux planchers de chêne ont été posés, des plaques de plâtre plaquées, les salles de bains reconstruites ou ajoutées et la cuisine entièrement rénovée. La rénovation du troisième étage sera terminée d’ici la fin de décembre afin de le louer en janvier ou en février. La rénovation de la remise ( autrement connue comme le garage et l’appartement garage ) a commencé et devrait être terminée d’ici la fin février.
+Une nouvelle plomberie et de nouveaux câblages électriques ont été installés au troisième étage. De nouveaux planchers de chêne ont été posés, des plaques de plâtre plaquées, les salles de bains reconstruites ou ajoutées et la cuisine entièrement rénovée. La rénovation du troisième étage sera terminée d’ici la fin de décembre afin de le louer en janvier ou en février. La rénovation de la remise ( autrement connue comme le garage et l’appartement garage ) a commencé et devrait être terminée d’ici la fin février.
 
 ## Administrateurs associés élus pour un autre mandat
 
@@ -110,7 +110,7 @@ Les administrateurs associés sont réélus chaque année. Nous sommes heureux d
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-4-dec-2013">
+        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-4-décembre-2013">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 4, Déc. 2013 — Table des matières</span>
         </a>
         </td>

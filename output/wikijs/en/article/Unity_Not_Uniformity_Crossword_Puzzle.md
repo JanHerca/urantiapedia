@@ -96,7 +96,7 @@ Adjunct:
 
 ## Last page
 
-> Someday religionists will get together and actually effect co operation on the basis of unity of ideals and purposes rather than attempting to do so on the basis of psychological opinions and theological beliefs. The Urantia Book, <a id="a77_233"></a>[UB 99:5.7](/en/The_Urantia_Book/99#p5_7)
+> Someday religionists will get together and actually effect co operation on the basis of unity of ideals and purposes rather than attempting to do so on the basis of psychological opinions and theological beliefs. The Urantia Book, <a id="a98_233"></a>[UB 99:5.7](/en/The_Urantia_Book/99#p5_7)
 
 
 <figure id="Figure_2" class="image urantiapedia">

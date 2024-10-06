@@ -86,7 +86,7 @@ Cuestiono que nadie, excepto Dios, pueda ser totalmente objetivo porque él es e
 Así que tal vez sería prudente contentarnos con la conciencia de que somos casi totalmente subjetivos y dedicamos más tiempo a convertir lo negativo en positivo. Esa es probablemente la clave para discernir las verdades y volverse objetivo, de todos modos.
 
 > Nancy Johnson es una persona enigmática que ha trabajado extensamente con el texto de _El Libro de Urantia_ durante 27 años. Mecanografió el texto del libro en un formato electrónico en 1981 y lo indexó electrónicamente en 1990. Nancy ha compuesto las dos ediciones de Uversa Press de _El Libro de Urantia_. Como miembro del Comité de Publicaciones de la Fraternidad, también compone el _Mighty Messenger_.
-> {.is-info}
+{.is-info}
 >
 > ## Referencias
 

@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-2-july-2021">
+        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-2-juillet-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 2, July 2021 — Table des matières</span>
         </a>
         </td>
@@ -40,24 +40,24 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Lourdes Burga-Cisneros, présidente de l’Association Urantia du Pérou_
 
-_Note de l’éditeur : La Fondation Urantia a eu le plaisir de sponsoriser et de participer à la 11<sup>ième</sup> Conférence Internationale, accueillie par l’Association Urantia du Pérou. Un panel des membres de l’équipe de la révision espagnole animèrent un atelier le dimanche pour annoncer la nouvelle révision de_ El libro de Urantia. _Lourdes décrit ci-dessous les courageux efforts de l’équipe pour orchestrer cet événement extraordinaire._
+_Note de l’éditeur : La Fondation Urantia a eu le plaisir de sponsoriser et de participer à la 11<sup>ième</sup> Conférence Internationale, accueillie par l’Association Urantia du Pérou. Un panel des membres de l’équipe de la révision espagnole animèrent un atelier le dimanche pour annoncer la nouvelle révision de_ El libro de Urantia. _Lourdes décrit ci-dessous les courageux efforts de l’équipe pour orchestrer cet événement extraordinaire._
 
 La 11<sup>ième</sup> Conférence Internationale de l’Association Urantia se tint du 24 au 25 avril 2021. Malheureusement, à cause de la pandémie, les participants ne purent venir à Cusco, au Pérou, mais Cusco vint à eux par une expérience virtuelle inoubliable.
 
-D’abord, nous fûmes très déçus de ne pas avoir cet événement sur place. L’idée de le faire à Cusco débuta en 2015, nous avons commencé à y travailler en 2017, et après trois ans de dur travail, nous avons dû tout annuler ! Mais, à un certain moment, nous avons pensé : Il faut le faire quand même !
+D’abord, nous fûmes très déçus de ne pas avoir cet événement sur place. L’idée de le faire à Cusco débuta en 2015, nous avons commencé à y travailler en 2017, et après trois ans de dur travail, nous avons dû tout annuler ! Mais, à un certain moment, nous avons pensé : Il faut le faire quand même !
 
-Après avoir générer de l’enthousiasme et avoir consacré nos volontés à faire quelque chose à la gloire du Père, nous n’allions pas abandonner. Pas question ! Donc, nous avons décidé de nous adapter et d’être persévérants. Nous nous sommes rendus compte que nous pouvions toucher non seulement de nombreux lecteurs du _Livre d’Urantia_ dans le monde entier, mais aussi de nouveaux lecteurs et des chercheurs de vérité qui pourraient apprécier les enseignements du _Livre d’Urantia._
+Après avoir générer de l’enthousiasme et avoir consacré nos volontés à faire quelque chose à la gloire du Père, nous n’allions pas abandonner. Pas question ! Donc, nous avons décidé de nous adapter et d’être persévérants. Nous nous sommes rendus compte que nous pouvions toucher non seulement de nombreux lecteurs du _Livre d’Urantia_ dans le monde entier, mais aussi de nouveaux lecteurs et des chercheurs de vérité qui pourraient apprécier les enseignements du _Livre d’Urantia._
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2021_07/031.jpg">
 <figcaption><em>Machu Picchu, Peru</em></figcaption>
 </figure>
 
-Planifier une conférence virtuelle représentait certainement un immense défi. Nous avions à travailler sur un contenu de qualité pour chaque type de public, pour que ces concepts, idées et vérités puissent être comprises par tous. Nous devions aussi trouver un programme qui ne serait pas ennuyeux à cause de sa virtualité ; qui aurait un degré d’interaction ; qui comprendrait des images de Cusco et offrirait l’opportunité d’en explorer ses quartiers ; qui envisagerait des orateurs de tout âge représentant presque tous les continents ; qui aurait des présentations motivantes et des ateliers pratiques ; qui pourrait être traduit en quatre langues (anglais, français, portugais et espagnol) ; et qui réduirait notre programme originel de trois à deux jours. Et tout cela dans le but qu’un tel événement soit vraiment une unique possibilité d’organiser et d’unir. C’est pourquoi nous avons choisi le thème, « Vers la Citoyenneté Cosmique. »
+Planifier une conférence virtuelle représentait certainement un immense défi. Nous avions à travailler sur un contenu de qualité pour chaque type de public, pour que ces concepts, idées et vérités puissent être comprises par tous. Nous devions aussi trouver un programme qui ne serait pas ennuyeux à cause de sa virtualité ; qui aurait un degré d’interaction ; qui comprendrait des images de Cusco et offrirait l’opportunité d’en explorer ses quartiers ; qui envisagerait des orateurs de tout âge représentant presque tous les continents ; qui aurait des présentations motivantes et des ateliers pratiques ; qui pourrait être traduit en quatre langues (anglais, français, portugais et espagnol) ; et qui réduirait notre programme originel de trois à deux jours. Et tout cela dans le but qu’un tel événement soit vraiment une unique possibilité d’organiser et d’unir. C’est pourquoi nous avons choisi le thème, « Vers la Citoyenneté Cosmique. »
 
 Il y avait beaucoup d’organisation et de travail technique. Heureusement, nous avons été aidé par plus de cent volontaires. À la fin, nous avons surpassé nos prévisions initiales. Il y eut 1967 personnes enregistrées. Environ 500 d’entre elles étaient des nouveaux lecteurs. Près de 1000 étaient des orateurs Latino-américains et Espagnols, mais il y avait aussi des personnes de presque tous les coins du monde.
 
-La conférence virtuelle établit un précédent pour les événements futurs en ligne. Bien sûr, il y eut des erreurs, mais en fin de compte, nous pouvons dire que ce fut un bon travail d’équipe !
+La conférence virtuelle établit un précédent pour les événements futurs en ligne. Bien sûr, il y eut des erreurs, mais en fin de compte, nous pouvons dire que ce fut un bon travail d’équipe !
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2021_07/032.jpg">
@@ -65,11 +65,11 @@ La conférence virtuelle établit un précédent pour les événements futurs en
 
 ## L’Art Concret de la Citoyenneté Cosmique
 
-_Note de l’éditeur : voici un extrait de l’une des présentations donnée, le premier jour, par Jeffrey Wattles, Ohio, États-Unis._
+_Note de l’éditeur : voici un extrait de l’une des présentations donnée, le premier jour, par Jeffrey Wattles, Ohio, États-Unis._
 
 Dieu est esprit, mais le Créateur fonctionne aussi sur les niveaux matériels et intellectuels. _Le Livre d’Urantia_ nous montre beaucoup de manières de coordonner, d’intégrer et d’unifier ces niveaux. Ma présentation de la conférence aborde les concepts du mental cosmique, de la vérité cosmique et de l’importance de comprendre comment appliquer efficacement ces concepts aux faits concrets de la vie quotidienne.
 
-Les citoyens cosmiques établissent des objectifs spirituels comme priorités principales. Je présente ces objectifs comme suit :
+Les citoyens cosmiques établissent des objectifs spirituels comme priorités principales. Je présente ces objectifs comme suit :
 
 1. Devenir et être comme Dieu
 
@@ -79,9 +79,9 @@ Les citoyens cosmiques établissent des objectifs spirituels comme priorités pr
 
 4. L’unité dans le service aimant avec d’autres adeptes de Jésus
 
-Un bon citoyen est un membre responsable d’une communauté organisée par des lois. Un bon citoyen cosmique est un membre de la famille universelle, dont le Père aimant et miséricordieux en est aussi le législateur souverain. Son amour et sa miséricorde apporte de la joie ; ses lois enseigne la discipline. Cette joie place chaque émotion conflictuelle en retrait !
+Un bon citoyen est un membre responsable d’une communauté organisée par des lois. Un bon citoyen cosmique est un membre de la famille universelle, dont le Père aimant et miséricordieux en est aussi le législateur souverain. Son amour et sa miséricorde apporte de la joie ; ses lois enseigne la discipline. Cette joie place chaque émotion conflictuelle en retrait !
 
-Vous pouvez en lire plus à propos de Jeffrey sur son dernier blog, « La Valeur de Survie à la conférence du Pérou » sur [https://urantiabookprojects.org/](https://urantiabookprojects.org/)
+Vous pouvez en lire plus à propos de Jeffrey sur son dernier blog, « La Valeur de Survie à la conférence du Pérou » sur [https://urantiabookprojects.org/](https://urantiabookprojects.org/)
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2021_07/033.jpg">
@@ -89,7 +89,7 @@ Vous pouvez en lire plus à propos de Jeffrey sur son dernier blog, « La Valeu
 
 ## Une Vision de Longue Portée
 
-_Note de l’éditeur : ce qui suit reflète les pensées d’un membre fondateur de l’Association Urantia Internationale et participante à la conférence, Marian Hughes, Hawaï, États-Unis._
+_Note de l’éditeur : ce qui suit reflète les pensées d’un membre fondateur de l’Association Urantia Internationale et participante à la conférence, Marian Hughes, Hawaï, États-Unis._
 
 Mon mari et moi, nous nous sommes enregistrés pour cet événement , dès qu’il a été possible. Nous étions impatients de rayer de notre liste les endroits à visiter comme Cusco et le Manchu Picchu. Le moment serait parfait pour nous arrêter au Pérou sur le chemin du retour de notre maison secondaire, au sud du Chili. Nous avions pensé qu’il serait amusant de faire l’expérience et d’en apprendre plus sur le parcours de la migration andite au Pérou et sur l’implantation de leurs sièges religieux à Rapa Nui (Île de Pâques). Puisque la pandémie n’avait pas encore pris racine, nous avons commencé notre voyage.
 
@@ -131,7 +131,7 @@ Les voyageurs andites aux embarcations ouvertes, prirent de nombreuses années p
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-2-july-2021">
+        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-2-juillet-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 2, July 2021 — Table des matières</span>
         </a>
         </td>

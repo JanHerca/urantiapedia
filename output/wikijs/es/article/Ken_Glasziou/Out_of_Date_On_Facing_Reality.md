@@ -36,7 +36,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 > «**Sabemos muy bien** que los hechos históricos y las verdades religiosas de esta serie de presentaciones revelatorias permanecerán en los anales de las épocas venideras, pero dentro de pocos años muchas de nuestras **afirmaciones relacionadas con las ciencias físicas necesitarán una revisión** a consecuencia de los desarrollos científicos adicionales y de los nuevos descubrimientos. Estos nuevos desarrollos los prevemos incluso desde ahora, pero **se nos prohíbe incluir en nuestros escritos revelatorios esos hechos aún no descubiertos** por la humanidad. Que quede muy claro que las revelaciones no son necesariamente inspiradas. **La cosmología que figura en estas revelaciones no es inspirada.** Está limitada por el permiso que nos han concedido para coordinar y clasificar el conocimiento de **hoy en día**. Aunque la perspicacia divina o espiritual sea un don, la sabiduría humana tiene que evolucionar». (<a id="a36_920"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
 
-Que quede claro. Fuimos advertidos. Pero, de una forma u otra, los fundamentalistas del Libro de Urantia han sido capaces de tergiversar los comentarios obligatorios de los reveladores para que escuchen lo que tan desesperadamente quieren escuchar: una revelación que proporciona la certeza que tantos han anhelado. Sin embargo, esa es una certeza que estaba específicamente prohibida a los reveladores.
+Que quede claro. Fuimos advertidos. Pero, de una forma u otra, los fundamentalistas del _Libro de Urantia_ han sido capaces de tergiversar los comentarios obligatorios de los reveladores para que escuchen lo que tan desesperadamente quieren escuchar: una revelación que proporciona la certeza que tantos han anhelado. Sin embargo, esa es una certeza que estaba específicamente prohibida a los reveladores.
 
 > La salvación es la recompensa de la fe; la fe, la fe sencilla como la de un niño, es la clave; la fe es el precio que pagas por la entrada; por la fe sois salvos; **sólo la fe** os hará pasar por sus portales; el logro de la salvación es por fe, y por **fe sola**; el individuo se vuelve conocedor de Dios **solo por la fe**. (<a id="a40_329"></a>[LU 141:7.6](/es/The_Urantia_Book/141#p7_6))
 
@@ -68,7 +68,7 @@ Pero, con certeza, no hubo una plétora de señales visibles sobresalientes entr
 
 El ideal para nosotros se expone en la p. 2044. «Os amaréis los unos a los otros con un afecto nuevo y sorprendente. Servirás a la humanidad con una devoción nueva y asombrosa, tal como yo te he servido a ti. Y cuando los hombres vean que los amáis tanto, y cuando vean con qué fervor los servís, percibirán que os habéis hecho compañeros de fe del reino de los cielos, y seguirán el Espíritu de Verdad que ven en vuestras vidas**, al hallazgo de la salvación eterna.»
 
-Parece bastante probable que los seguidores del Libro de Urantia no produzcan este tipo de fruto espiritual hasta que se establezcan organizaciones de servicio reales que, al mismo tiempo, den testimonio de la revelación de Urantia.
+Parece bastante probable que los seguidores del _Libro de Urantia_ no produzcan este tipo de fruto espiritual hasta que se establezcan organizaciones de servicio reales que, al mismo tiempo, den testimonio de la revelación de Urantia.
 
 Quienes estén familiarizados con la escena de laconocerán bien la frase Tal vez habrá poco progreso con la revelación de Urantia hasta quetambién se vuelva familiar entre aquellos que lo necesitan desesperadamente.
 

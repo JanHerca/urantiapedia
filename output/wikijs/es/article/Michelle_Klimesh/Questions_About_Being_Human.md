@@ -83,7 +83,7 @@ Entonces la pregunta se convierte en: «¿Cómo llegamos allí desde aquí?»
 
 Como puedes imaginar, Jesús tiene algo que decir al respecto:
 
-> Uno de los grupos de fariseos se adelantó entonces para hacerle preguntas embarazosas; el portavoz hizo señas a Jesús, y dijo: «Maestro, soy jurista, y me gustaría preguntarte cuál es, en tu opinión, el mandamiento más grande»{34}. Jesús respondió: «No hay más que un solo mandamiento, que es el más grande de todos, y ese mandamiento es: ‘Escucha, oh Israel, al Señor nuestro Dios; el Señor es uno; y amarás al Señor tu Dios con todo tu corazón y con toda tu alma, con toda tu mente y con todas tus fuerzas.’{35} Éste es el primer gran mandamiento. Y el segundo mandamiento se parece a este primero; en efecto, proviene directamente de él, y dice: ‘Amarás a tu prójimo como a ti mismo.’{36} No hay otros mandamientos más grandes que estos; en estos dos mandamientos se apoyan toda la ley y los profetas». <a id="a85_808"></a>[[LU 174:4.2](/es/The_Urantia_Book/174#p4_2)]
+> Uno de los grupos de fariseos se adelantó entonces para hacerle preguntas embarazosas; el portavoz hizo señas a Jesús, y dijo: «Maestro, soy jurista, y me gustaría preguntarte cuál es, en tu opinión, el mandamiento más grande». Jesús respondió: «No hay más que un solo mandamiento, que es el más grande de todos, y ese mandamiento es: ‘Escucha, oh Israel, al Señor nuestro Dios; el Señor es uno; y amarás al Señor tu Dios con todo tu corazón y con toda tu alma, con toda tu mente y con todas tus fuerzas.’ Éste es el primer gran mandamiento. Y el segundo mandamiento se parece a este primero; en efecto, proviene directamente de él, y dice: ‘Amarás a tu prójimo como a ti mismo.’ No hay otros mandamientos más grandes que estos; en estos dos mandamientos se apoyan toda la ley y los profetas». <a id="a85_796"></a>[[LU 174:4.2](/es/The_Urantia_Book/174#p4_2)]
 
 La noche antes de que lo mataran, Jesús modificó su instrucción:
 
@@ -101,7 +101,7 @@ La única forma en que vamos a activar el «virus benigno» es salir de nuestras
 
 Los humanos resolveremos estos problemas tan pronto como aprendamos a amarnos tanto que el mundo entero se infecte con el contagioso virus del amor. Obviamente es más fácil decirlo que hacerlo. Bien podemos empezar.
 
-_Este artículo es un reflejo escrito de una presentación dada a la Sociedad del Libro de Urantia de Los Ángeles en septiembre de 2016._
+_Este artículo es un reflejo escrito de una presentación dada a la Sociedad del _Libro de Urantia_ de Los Ángeles en septiembre de 2016._
 
 ## Referencias
 

@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-10-numéro-4-dec-2016">
+        <a href="/fr/index/articles_uf_news_online#volume-10-numéro-4-décembre-2016">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 4, Déc. 2016 — Table des matières</span>
         </a>
         </td>
@@ -48,19 +48,19 @@ Actuellement, en Russie et dans d’autres pays parlant russe, il y a beaucoup d
 
 Tout ce temps, il n’y avait pas d’organisation nationale de lecteurs en Russie pour organiser une conférence. Donc, je décidai de le faire, même si je vis en Colombie, Amérique du Sud, depuis trente ans. Je sentis que c’était ma responsabilité parce que je suis née en Union Soviétique à Baku, Azerbaijan, et j’ai passé dix ans à Moscou pour un doctorat en physique. J’étudie _LeLivre d’Urantia_ depuis vingt ans en Colombie et ai visité des groupes d’étude durant mes voyages à Moscou. J’ai aussi rencontré beaucoup de lecteurs russes sur internet.
 
-Ce fut un défi de préparer la conférence et cela prit environ huit mois de planification. Ma première tâche fut de faire une liste de tous les lecteurs parlant russe en Russie et autres pays. Ensuite, avec l’aide d’une personne qui n’était pas un lecteur, je trouvais un emplacement : l’hôtel Novahoff Géo Spa près de Moscou. Plus tard, je fus aidée par un lecteur, Ekaterina Aleksandrova, qui vit à Moscou.
+Ce fut un défi de préparer la conférence et cela prit environ huit mois de planification. Ma première tâche fut de faire une liste de tous les lecteurs parlant russe en Russie et autres pays. Ensuite, avec l’aide d’une personne qui n’était pas un lecteur, je trouvais un emplacement : l’hôtel Novahoff Géo Spa près de Moscou. Plus tard, je fus aidée par un lecteur, Ekaterina Aleksandrova, qui vit à Moscou.
 
 Depuis la Colombie, je parlai à chaque personne sur la liste et les encourageai à participer à la conférence. Il y eut quatre annonces successives à propos de la conférence, apportant des détails supplémentaires et des mises à jour sur l’événement.
 
-Nous avons choisi « La Spiritualité » comme thème de la conférence. Les présentations furent discutées avec certains des présentateurs par Skype. Le logo de la conférence et le programme des présentations et des ateliers furent préparés en Colombie.
+Nous avons choisi « La Spiritualité » comme thème de la conférence. Les présentations furent discutées avec certains des présentateurs par Skype. Le logo de la conférence et le programme des présentations et des ateliers furent préparés en Colombie.
 
 La conférence se tint du 9 au 11 septembre 2016, à l’hôtel Novahoff Géo Spa. Vingt cinq personnes y participèrent, venues de différentes villes de Russie, ainsi que d’Ukraine, de Finlande et des États-Unis. La Russie est un grand pays et les distances entre les villes peuvent être énormes. Un lecteur, Sergey Chupin, voyagea huit heures de Vladivostok à Moscou.
 
 Les présentations et les discussions à la conférence apportèrent un haut niveau de qualité éducative à l’étude du livre. Des directives pour les ateliers furent données à chaque coordinateur avec des suggestions de thèmes. On demanda aux coordinateurs de guider la discussion vers un haut niveau intellectuel et de donner à chaque participant le même temps de parole sans imposer ses points de vue aux autres.
 
-Les matinées étaient dédiées aux présentations et les après-midi aux ateliers en groupe de cinq à sept personnes. Les sujets des présentations incluaient « La Cosmologie du _Livre d’Urantia_ », « La Vie de Jésus »: « un Exemple pour l’Humanité ». Les suggestions de thèmes allaient de : « Définitions : Vérité, Beauté, Bonté, » à « Le Monde, La Société et la Civilisation, » et « Jean le Baptiste ».
+Les matinées étaient dédiées aux présentations et les après-midi aux ateliers en groupe de cinq à sept personnes. Les sujets des présentations incluaient « La Cosmologie du _Livre d’Urantia_ », « La Vie de Jésus »: « un Exemple pour l’Humanité ». Les suggestions de thèmes allaient de : « Définitions : Vérité, Beauté, Bonté, » à « Le Monde, La Société et la Civilisation, » et « Jean le Baptiste ».
 
-L’annonce de la conférence stipulait que son but était de « rencontrer, de fraterniser et de nous aimer les uns les autres ». Les participants étaient heureux de l’occasion de se rassembler et ils ressentirent un esprit d’unité et de camaraderie. Des réunions sociales inclurent des sessions informelles de narration d’histoire et de poésie, de musique, de danse et le dîner du samedi soir.
+L’annonce de la conférence stipulait que son but était de « rencontrer, de fraterniser et de nous aimer les uns les autres ». Les participants étaient heureux de l’occasion de se rassembler et ils ressentirent un esprit d’unité et de camaraderie. Des réunions sociales inclurent des sessions informelles de narration d’histoire et de poésie, de musique, de danse et le dîner du samedi soir.
 
 Après le succès de la conférence, un comité de lecteurs fut formé pour planifier la seconde conférence russe Urantia qui se tiendra en septembre 2017. De plus, ils planifient de dessiner un nouveau site web et de commencer une association russe de l’Association Urantia Internationale.
 
@@ -85,7 +85,7 @@ Après le succès de la conférence, un comité de lecteurs fut formé pour plan
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-10-numéro-4-dec-2016">
+        <a href="/fr/index/articles_uf_news_online#volume-10-numéro-4-décembre-2016">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 4, Déc. 2016 — Table des matières</span>
         </a>
         </td>

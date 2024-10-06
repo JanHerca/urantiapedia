@@ -63,7 +63,7 @@ Fray Mark se había vaciado de sí mismo para convertirse en el recipiente a tra
 
 Que se crea en la transubstanciación, como los católicos, o en la consubstanciación, como los anglicanos y episcopalianos, o (véase el documento 179, sección 5) que el pan y el vino son símbolos, es un debate para otro día. Jesús dijo que él es «el pan de vida», pero nada de que el pan se convirtiera en su cuerpo. Tampoco dijo nada sobre la sangre. En cualquier caso, estar en lugar de Cristo y ofrecer los sacramentos consagrados a una congregación es una posición impresionante en la que encontrarse. No impresionante en la forma en que la gente lanza la palabra en torno a casi todo, pero verdaderamente impresionante. Especialmente cuando uno ha sido bendecido por haberlo visto, como creo que yo lo he sido.
 
-Pero, ¿cómo sucedió y qué vi realmente? Según se relata en El libro de Urantia, Jesús le dice a Tomás: «Benditos los que en tiempos venideros crean sin haber visto con los ojos de la carne ni oído con oído mortal» (<a id="a65_215"></a>[LU 191:5.5](/es/The_Urantia_Book/191#p5_5), énfasis añadido).
+Pero, ¿cómo sucedió y qué vi realmente? Según se relata en _El libro de Urantia_, Jesús le dice a Tomás: «Benditos los que en tiempos venideros crean sin haber visto con los ojos de la carne ni oído con oído mortal» (<a id="a65_217"></a>[LU 191:5.5](/es/The_Urantia_Book/191#p5_5), énfasis añadido).
 
 Por lo tanto, no vi a Jesús en el cuerpo físico que habitó durante su estancia en Urantia, a pesar de la creencia de la Iglesia en la resurrección del cuerpo (véase el Credo de los Apóstoles en el Libro de Oración Común). Vi lo que Jesús dijo a sus apóstoles que verían las generaciones futuras: «Me veis ahora… en la carne, pero cuando vuelva será en el espíritu». Jesús explicó: «Los ojos de la carne ven al Hijo del Hombre en la carne, pero solo los ojos del espíritu podrán ver al Hijo del Hombre… cuando aparezca en la tierra…» (<a id="a67_534"></a>[LU 176:2.4](/es/The_Urantia_Book/176#p2_4)). Así, lo que vi durante un milisegundo fue el espíritu, que se me reveló bajo la apariencia de un par de sandalias.
 
@@ -75,7 +75,7 @@ Aún más asombroso, por si eso no fuera poco, Jesús dijo en más de una ocasi�
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2023/?lang=es)
 - [Este artículo](https://urantia-association.org/senor-mio-y-dios-mio/?lang=es)
 

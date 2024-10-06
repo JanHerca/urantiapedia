@@ -51,21 +51,21 @@ Nuestro mayor evento de cada año es la celebración del cumpleaños de Jesús e
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/Sweden02.jpg">
-<figcaption><em>Celebración del cumpleaños de Jesús</em></figcapton>
+<figcaption><em>Celebración del cumpleaños de Jesús</em></figcaption>
 </figure>
 
 
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/Sweden01-e1648080437697.jpg">
-<figcaption><em>Celebración del cumpleaños de Jesús</em></figcapton>
+<figcaption><em>Celebración del cumpleaños de Jesús</em></figcaption>
 </figure>
 
 
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/Sweden03.jpg">
-<figcaption><em>Riitta Tuori</em></figcapton>
+<figcaption><em>Riitta Tuori</em></figcaption>
 </figure>
 
 <br style="clear:both;"/>

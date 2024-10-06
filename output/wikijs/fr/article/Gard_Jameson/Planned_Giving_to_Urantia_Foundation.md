@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-5-numéro-3-sept-2011">
+        <a href="/fr/index/articles_uf_news_online#volume-5-numéro-3-septembre-2011">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 3, Sept. 2011 — Table des matières</span>
         </a>
         </td>
@@ -46,7 +46,7 @@ L’École Internet du _Livre d’Urantia_ entre dans une autre phase en offrant
 
 Nous continuerons à avoir des forums éducatifs à 533, Diversey Parkway pour promouvoir en profondeur la compréhension et l’appréciation des enseignements du _Livre d’Urantia_.
 
-Une partie des charges des Trustees est de s’assurer que leur “trust” est stable financièrement. Pour cet effet, les Trustees ont initié un programme conçu pour inviter à faire des dons planifiés pour ceux qui partagent la vision de semer la cinquième révélation d’époque à travers le monde. Comme Ralph Zehr, un lecteur de longue date, demandait, “ quel plus grand don et quelle plus grande opportunité, avons-nous ?”
+Une partie des charges des Trustees est de s’assurer que leur “trust” est stable financièrement. Pour cet effet, les Trustees ont initié un programme conçu pour inviter à faire des dons planifiés pour ceux qui partagent la vision de semer la cinquième révélation d’époque à travers le monde. Comme Ralph Zehr, un lecteur de longue date, demandait, “ quel plus grand don et quelle plus grande opportunité, avons-nous ?”
 
 Les dons planifiés représentent la distribution responsable d’une fortune importante pendant notre vie ou au moment de passer aux mondes morontiels. Une fortune importante correspond à tout montant au-dessus de 1000 $. Les dons planifiés peuvent être inclus dans un testament ou dans un fonds, très simplement par un texte légal. Il y a une variété de formats de fonds qui peuvent fournir un soutien financier continu pour le donateur tout en offrant un don significatif à son décès. La Fondation Urantia possède quelques informations utiles pour faire des dons planifiés.
 
@@ -71,7 +71,7 @@ Nous vous incitons à penser à faire un don planifié pour le bénéfice de la 
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-5-numéro-3-sept-2011">
+        <a href="/fr/index/articles_uf_news_online#volume-5-numéro-3-septembre-2011">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 3, Sept. 2011 — Table des matières</span>
         </a>
         </td>

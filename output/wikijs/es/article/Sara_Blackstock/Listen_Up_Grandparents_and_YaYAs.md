@@ -53,7 +53,7 @@ Incluso una breve respuesta a las siguientes preguntas podría ser instructiva:
 Gracias en nombre de los padres actuales y futuros padres por su tiempo y sus respuestas. Envíelos a Sara Blackstock blackstocksara7@gmail.com y con la guía del Equipo de vida familiar (Richard Daunt, Riula Deoto, Miranda Clendening, Tony Finstad, Angie Thurston y Janet Farrington, nuestra sabia mentora) los compilará para compartirlos. en el próximo número de Fellowship Herald y en el sitio web de Family Life: [http://www.urantiafamilylife.org](http://www.urantiafamilylife.org) y en el sitio web de Fellowship [http://www.urantiabook.org.](http://www.urantiabook.org.) Si lo desea, sus respuestas pueden ser anónimas.
 
 > **Sara Blackstock** siente que ha tenido el privilegio de trabajar con niños en edad escolar durante casi 50 años como maestra y administradora. Coordinó tres Mercados de Jerusalén en tres Conferencias Internacionales patrocinadas por la Fraternidad, y ahora es la coordinadora interina del Equipo de Vida Familiar de la Fraternidad.
-> {.is-info}
+{.is-info}
 
 ## Referencias
 

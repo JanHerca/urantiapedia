@@ -114,7 +114,7 @@ Copyright © 1995, Todos los derechos reservados.
 ***Artículos***
 
 - **La Ortodoxia Oriental y _El Libro de Urantia_**
-	Se examinan los paralelos entre la ortodoxia oriental y la teología del Libro de Urantia junto con cuestiones relativas a la unidad de la iglesia.
+	Se examinan los paralelos entre la ortodoxia oriental y la teología del _Libro de Urantia_ junto con cuestiones relativas a la unidad de la iglesia.
 - **¿Una Iglesia Urantia?**
 	_El Libro de Urantia_ presenta una de las imágenes más completas de teología y religión a la humanidad. Muchos estudiantes del libro se refieren a sus enseñanzas como su religión. Cada vez más surge la pregunta: «¿El Libro de Urantia inspirará la organización de nuevas instituciones religiosas?»
 - **La ciencia de la serendipia**

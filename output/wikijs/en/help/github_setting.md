@@ -95,7 +95,7 @@ It is recommended the use of Visual Studio Code.
 5. The project is set up with a default launch configuration. Press F5 to execute or in the terminal execute `npm run start`.
 6. The application opens. By default a Dev Tools window is opened for debugging. You can ignore it or close it if not developing.
 
-![](/image/uptools.png)
+![](/image/help/uptools.png)
 
 ## Commit and push changes
 
@@ -149,7 +149,7 @@ In summary, the process in GitHub is as follows (see the diagram):
 6. This *pull requests* of “Editors-in-Chief” are reviewed by “Administrators”, who are in charge of doing a *merge* with the main branch (master) of all those changes that are correct. Any changes that are not correct will be rejected and “Editors-in-Chief” will be notified to fix them.
 7. When changes are OK an “Administrator” do a *merge* of them and they are synchronized automatically to the web.
 
-![](/image/github_workflow_version_2.png)
+![](/image/help/github_workflow_version_2.png)
 
 ## External links
 

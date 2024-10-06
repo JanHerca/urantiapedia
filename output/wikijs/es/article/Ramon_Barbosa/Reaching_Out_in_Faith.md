@@ -51,7 +51,7 @@ Esta revelación no es exclusivamente la guía para aquellos que ya están dentr
 
 El uso que Jesús hizo de parábolas como método de enseñanza en su ministerio no pretendía ocultar enseñanzas a nadie. Sus enseñanzas fueron para todos, incluso para todas las generaciones en todos los mundos. Pero sólo aquellos que buscaban sinceramente podían percibir el significado de sus parábolas. Su intención no era ni es excluir a nadie.
 
-La presentación del Libro de Urantia no debe retenerse hasta que uno haya presumido juzgar que el individuo a quien se lo va a presentar está dispuesto a creer que es una revelación. Semejante actitud es arrogante y huele a elitismo. Hay muchos estudiantes del libro desde hace mucho tiempo que lo tienen en alta estima, pero no lo aceptan como una revelación. Tal revelación no debería escandalizar ni ofender a nadie.
+La presentación del _Libro de Urantia_ no debe retenerse hasta que uno haya presumido juzgar que el individuo a quien se lo va a presentar está dispuesto a creer que es una revelación. Semejante actitud es arrogante y huele a elitismo. Hay muchos estudiantes del libro desde hace mucho tiempo que lo tienen en alta estima, pero no lo aceptan como una revelación. Tal revelación no debería escandalizar ni ofender a nadie.
 
 Lo que más importa es que las enseñanzas reveladoras de _El Libro de Urantia_ están trayendo la presión espiritual de la iluminación a la corriente de pensamiento de la conciencia religiosa humana.
 

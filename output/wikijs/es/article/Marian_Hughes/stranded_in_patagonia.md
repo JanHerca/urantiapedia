@@ -37,7 +37,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Patagonia-e1616728727111.jpg">
-<figcaption><em>Crédito de la foto: EcoCamp Patagonia</em></figcapton>
+<figcaption><em>Crédito de la foto: EcoCamp Patagonia</em></figcaption>
 </figure>
 
 ¿Cómo nos quedamos varados en Chile? Primero un poco de contexto. Siempre me ha gustado conocer gente nueva y experimentar nuevos paisajes, así que cuando tenía 16 años me uní a un grupo de estudiantes de intercambio internacional y viví con una familia en Colombia (Sudamérica). Fue una experiencia maravillosa formar parte de una nueva familia y una buena manera de mejorar mi español de secundaria. Me enamoré de la cultura latina. Estaba muy emocionada de poder volver a Colombia para la conferencia de la Asociación Internacional Urantia de 2012 en Medellín. La ciudad había crecido y cambiado mucho desde que estuve allí en 1961.

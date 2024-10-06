@@ -74,7 +74,7 @@ A promise of life in abundance for “whosoever will.”
 
 ## References
 
-- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-december-2015/)
 - [This article](https://urantia-association.org/the-door-is-open)
 

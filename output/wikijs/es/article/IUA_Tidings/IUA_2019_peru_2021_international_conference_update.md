@@ -151,15 +151,15 @@ RESERVAS: [reservas@hotelcasonayucay.com](mailto:reservas@hotelcasonayucay.com)�
 
 [**Hostal Yucay Plaza Inn**](https://www.facebook.com/pg/yucayplaza/photos/?ref=page_internal)
 17,50 USD$ por persona en habitación doble
-RESERVAS:  [reservas@yucayplazainn.com](mailto:reservas@yucayplazainn.com)
+RESERVAS: [reservas@yucayplazainn.com](mailto:reservas@yucayplazainn.com)
 
 [**Hostal Ttito**](https://www.facebook.com/pages/category/Hostel/TTITO-319178695329013/)
 12,00 USD$ por persona en habitación doble
-RESERVAS:  [tuliattito@gmail.com](mailto:tuliattito@gmail.com)
+RESERVAS: [tuliattito@gmail.com](mailto:tuliattito@gmail.com)
 
 [**Hostal Yucay Lodge I**](https://www.yucaylodge.com/)
 7,00 USD$ por persona en habitación triple
-RESERVAS:  [yucaylodge@gmail.com](mailto:yucaylodge@gmail.com)
+RESERVAS: [yucaylodge@gmail.com](mailto:yucaylodge@gmail.com)
 
 Si planea asistir a la Conferencia Internacional de la Asociación Urantia en Urubamba-Perú, le recomendamos que se registre y reserve su alojamiento en el hotel AHORA, utilizando nuestro [enlace] de registro (https://cvent.me/kMVko7)
 

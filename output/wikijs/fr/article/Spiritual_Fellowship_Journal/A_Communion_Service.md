@@ -115,7 +115,7 @@ Lorsque Jésus eut terminé sa vie terrestre, le nom du Père avait été tellem
 > 
 > Je suis la porte ouverte au salut éternel.
 > 
-> Je suis le lien vivant entre le temps et l’éternité. ([LU 182:1.10-25](/fr/The_Urantia_Book/182#p1_10), adapted)
+> Je suis le lien vivant entre le temps et l’éternité. (<a id="a117_56"></a>[LU 182:1.10-25](/fr/The_Urantia_Book/182#p1_10), adapted)
 
 _Quand les huissiers seront revenus, le ministre levant le pain, pourra dire :_
 

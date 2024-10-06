@@ -45,7 +45,7 @@ Lors de l’Assemblée triennale des délégués en juillet à Techny Towers dan
 
 Au total, la TDA a élu 18 candidats pour 19 postes. Les titulaires réélus étaient Lara Amyx, Emilio Coppola, Avi Dogim, John Hales, Diane Labrecque, Derek Samaras, Cristina Seaborn et Geoff Taylor. Le poste vacant restant sera comblé par le Conseil lors de sa réunion d'hiver. 
 
-Lors de la réunion du Conseil qui a suivi la session d'étude d'été, le comité exécutif nouvellement réorganisé a été élu. Auparavant, le CE était composé de 14 membres : cinq dirigeants et neuf présidents de comité. Afin de réduire la nécessité de déplacer autant de personnes pour assister à quatre réunions par an, trois nouveaux postes ont été créés pour superviser les comités et les représenter aux réunions du CE. Ces trois chefs d'équipe de service rejoignent les cinq officiers pour constituer le nouveau CE.
+Lors de la réunion du Conseil qui a suivi la session d'étude d'été, le comité exécutif nouvellement réorganisé a été élu. Auparavant, le CE était composé de 14 membres : cinq dirigeants et neuf présidents de comité. Afin de réduire la nécessité de déplacer autant de personnes pour assister à quatre réunions par an, trois nouveaux postes ont été créés pour superviser les comités et les représenter aux réunions du CE. Ces trois chefs d'équipe de service rejoignent les cinq officiers pour constituer le nouveau CE.
 
 Le seul nouveau dirigeant est la présidente, **Dana Bredemeyer. Michael Challis** a quitté son poste de président pour devenir vice-président. **Steven Dreier, Emilio Coppola et Larry Bowman** ont été réélus respectivement secrétaire, trésorier et secrétaire général. 
 

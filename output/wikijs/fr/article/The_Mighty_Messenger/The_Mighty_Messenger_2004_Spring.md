@@ -28,7 +28,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-## Célébrez avec nous à l’IC 05 !
+## Célébrez avec nous à l’IC 05 !
 
 Joignez-vous à nous pour célébrer le 50e anniversaire de la publication du _Le Livre d'Urantia_ lors de la Conférence internationale de la Fellowship du Livre d'Urantia, « MAKING SPIRIT MATTER : The Next 50 Years », qui se tiendra à l’Université Villanova près de Philadelphie du 30 juillet au 4 août 2005. La conférence a pour but de célébrer cet anniversaire important alors que nous envisageons avec impatience les cinquante prochaines années.
 
@@ -58,19 +58,19 @@ Les membres de « l’Ashram Urantia » à Moscou étaient extrêmement heureux 
 
 Je suis très optimiste quant à ma capacité à mettre en contact les dirigeants de ces différents groupes et à établir, dans les deux prochaines années, une œuvre sociale productive en Europe de l’Est (qui inclut les lecteurs de Leningrad) semblable à celle que nous avons. J’ai pu m’implanter en Amérique Latine. Si les choses se passent bien à Leningrad l’année prochaine, nous verrons peut-être d'ici là une conférence sur l’Europe de l’Est organisée par des groupes indépendants.
 
-## Lettre du comité exécutif : développements récents
+## Lettre du comité exécutif : développements récents
 
 Chers amis:
 
 Le but de cette lettre est de vous tenir informé des développements récents au sein de la Fellowship. La plupart des informations contenues dans cette lettre proviennent du travail effectué par le Conseil général et le Comité exécutif de l’Association au cours des premiers mois de 2004.
 
-**Décentralisation et vente du bâtiment :** Le bâtiment de Chicago, qui servait depuis 1989 de bureau à la Fellowship, a été vendu en février dernier. La Fellowship a pris des mesures au cours des dernières années pour décentraliser ses opérations et renforcer sa capacité à mener une grande partie de ses activités quotidiennes via Internet. Ces efforts se sont considérablement accélérés au cours des quelques mois précédant la vente de l’immeuble et se sont avérés assez efficaces. John Hales, directeur résident de la Fellowship depuis près de trente ans, continue d'exercer ce rôle hors de chez lui. Ces développements constituent les éléments les plus visibles des efforts continus de la Fellowship pour éliminer les coûts inutiles tout en augmentant l’efficacité.
+**Décentralisation et vente du bâtiment :** Le bâtiment de Chicago, qui servait depuis 1989 de bureau à la Fellowship, a été vendu en février dernier. La Fellowship a pris des mesures au cours des dernières années pour décentraliser ses opérations et renforcer sa capacité à mener une grande partie de ses activités quotidiennes via Internet. Ces efforts se sont considérablement accélérés au cours des quelques mois précédant la vente de l’immeuble et se sont avérés assez efficaces. John Hales, directeur résident de la Fellowship depuis près de trente ans, continue d'exercer ce rôle hors de chez lui. Ces développements constituent les éléments les plus visibles des efforts continus de la Fellowship pour éliminer les coûts inutiles tout en augmentant l’efficacité.
 
-**Nouveau président du comité interconfessionnel :** À la suite de la démission de Rebecca Kantor de la présidence du comité interreligieux, Bill Rocap du Connecticut a été nommé par le comité exécutif lors de sa réunion d'avril pour occuper le poste à titre intérimaire. Conformément aux statuts du Fellowship, le Conseil général procédera à des élections pour le poste lors de sa prochaine réunion en septembre. Le comité exécutif remercie Rebecca pour ses contributions aux comités interreligieux et exécutif et est heureux d'accueillir Bill. 
+**Nouveau président du comité interconfessionnel :** À la suite de la démission de Rebecca Kantor de la présidence du comité interreligieux, Bill Rocap du Connecticut a été nommé par le comité exécutif lors de sa réunion d'avril pour occuper le poste à titre intérimaire. Conformément aux statuts du Fellowship, le Conseil général procédera à des élections pour le poste lors de sa prochaine réunion en septembre. Le comité exécutif remercie Rebecca pour ses contributions aux comités interreligieux et exécutif et est heureux d'accueillir Bill. 
 
-**Poste vacant au Conseil :** Le Conseil général tiendra également des élections lors de sa réunion de septembre pour le siège du Conseil libéré par Rebecca Kantor. Les candidatures peuvent être soumises à tout moment avant la réunion du Conseil. 
+**Poste vacant au Conseil :** Le Conseil général tiendra également des élections lors de sa réunion de septembre pour le siège du Conseil libéré par Rebecca Kantor. Les candidatures peuvent être soumises à tout moment avant la réunion du Conseil. 
 
-**Retraite du Conseil Général :** Le Conseil Général a tenu une retraite informelle d'une journée avant sa réunion de mi-année en février dernier, au cours de laquelle il a examiné des questions concernant la diffusion mondiale du _Le Livre d'Urantia_ et ses enseignements, créant des opportunités de camaraderie pour les lecteurs et améliorant communication entre le Feliowship et le lectorat. Les recommandations suivantes sont sélectionnées et non contraignantes dans le résumé de la retraite. (Pour afficher le résumé complet, accédez à http://www.urantiabook.org/admin/2004_retreat_summ.htm.)
+**Retraite du Conseil Général :** Le Conseil Général a tenu une retraite informelle d'une journée avant sa réunion de mi-année en février dernier, au cours de laquelle il a examiné des questions concernant la diffusion mondiale du _Le Livre d'Urantia_ et ses enseignements, créant des opportunités de camaraderie pour les lecteurs et améliorant communication entre le Feliowship et le lectorat. Les recommandations suivantes sont sélectionnées et non contraignantes dans le résumé de la retraite. (Pour afficher le résumé complet, accédez à http://www.urantiabook.org/admin/2004_retreat_summ.htm.)
 
 _Structure et organisation_
 
@@ -108,7 +108,7 @@ _Communication_
 _Appel aux jeunes de notre mouvement_
 
 - Développer des programmes conçus pour impliquer nos jeunes dans une diffusion mondiale.
-- Communiquer la vision autant que possible et inciter nos jeunes compatriotes à apporter leur richesse supplémentaire ; puis avancez avec la vision.
+- Communiquer la vision autant que possible et inciter nos jeunes compatriotes à apporter leur richesse supplémentaire ; puis avancez avec la vision.
 - Développer un environnement spirituel favorable où la croissance spirituelle est favorisée. Les familles doivent réseauter avec d'autres familles de la communauté pour partager des idées. 
 
 _Créer/améliorer les opportunités de bourses_
@@ -118,9 +118,9 @@ _Créer/améliorer les opportunités de bourses_
 - Afficher plus de soutien aux conférences régionales.
 - Encourager les sociétés et les groupes d'étude à inciter leurs membres à s'impliquer dans des projets de service. 
 
-**Suivi de la retraite :** Comme suite à la retraite, le Comité judiciaire a été chargé par le Comité exécutif, lors de la réunion du CE d'avril, de revoir la constitution du Fellowship et de faire des recommandations pour d'éventuelles révisions afin de mieux aligner la structure sur fonction. En outre, le Conseil général devrait examiner lors de sa réunion de septembre la mise en œuvre d'un certain nombre de recommandations formulées lors de la retraite.
+**Suivi de la retraite :** Comme suite à la retraite, le Comité judiciaire a été chargé par le Comité exécutif, lors de la réunion du CE d'avril, de revoir la constitution du Fellowship et de faire des recommandations pour d'éventuelles révisions afin de mieux aligner la structure sur fonction. En outre, le Conseil général devrait examiner lors de sa réunion de septembre la mise en œuvre d'un certain nombre de recommandations formulées lors de la retraite.
 
-**Appel à bénévoles :** Comme la retraite du Conseil général l’a amplement démontré, les dirigeants de la Fraternité ne manquent pas de vision ou d'imagination. Une fois que le Conseil aura officiellement adopté des politiques et des actions basées sur certaines des recommandations de la retraite, de nombreuses mains seront nécessaires pour les mettre en œuvre. En effet, des mains secourables sont nécessaires en ce moment. Pensez à retrousser vos manches et à prêter les nôtres.
+**Appel à bénévoles :** Comme la retraite du Conseil général l’a amplement démontré, les dirigeants de la Fraternité ne manquent pas de vision ou d'imagination. Une fois que le Conseil aura officiellement adopté des politiques et des actions basées sur certaines des recommandations de la retraite, de nombreuses mains seront nécessaires pour les mettre en œuvre. En effet, des mains secourables sont nécessaires en ce moment. Pensez à retrousser vos manches et à prêter les nôtres.
 
 ## Nous avançons. Rejoignez-nous!
 
@@ -175,21 +175,21 @@ Le nouveau portail est une entreprise artistique, créée par la participation d
 
 Les ateliers sont souvent intégrés aux Expos et offrent un lieu dans lequel les concepts sont présentés aux personnes intéressées par un sujet annoncé. **Oui, « Les expositions vendent des livres, mais les ateliers sont l’attraction. »** 
 
-« L'une des rares vérités marketing que je connais est la suivante : les gens n'achètent pas des choses, ils achètent des avantages. » —Jo Ann Wiedrnan 
+« L'une des rares vérités marketing que je connais est la suivante : les gens n'achètent pas des choses, ils achètent des avantages. » —Jo Ann Wiedrnan 
 
 ## Puissant messager 
 
 Publié par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship 
-Membres : Linda Buselli, présidente Nancy Johnson, Sage Waitts, Gary Deinstadt, Joe Liszka, Lynda D'Arcangelo 
+Membres : Linda Buselli, présidente Nancy Johnson, Sage Waitts, Gary Deinstadt, Joe Liszka, Lynda D'Arcangelo 
 Téléphone sans frais : 877-288-3772 
 email : Fellowship@urantiabook.org 
-site Web : http://www.urantiabook.org
+site Web : http://www.urantiabook.org
 
 
 
 ## Liens externes
 
-* Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
+* Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
 
 
 

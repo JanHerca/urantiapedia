@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-3-sept-2014">
+        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-3-septembre-2014">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 3, Sept. 2014 — Table des matières</span>
         </a>
         </td>
@@ -47,7 +47,7 @@ Mark Bloomfield, du Royaume-Uni, est venu au Guatemala et a voyagé à travers l
 Récemment, des lecteurs ont participé à deux salons du livre, aidés par Tamara Strumfeld de la Fondation Urantia ainsi que de Buck Weimer et d’Agustin Arellano de la Fellowship du Livre d’Urantia. Ils nous ont beaucoup aidés à la foire du livre, et nous leur en sommes très reconnaissants.
 
 Aujourd’hui, de nombreux Guatémaltèques sont intéressés par _Le Livre d’Urantia._ Peu à peu, le livre parle pour lui-même. Et nous constatons que les Guatémaltèques dans un certain segment de la société sont prêts à recevoir les grands enseignements de la révélation Urantia.  
-\\pard line Dans l’avenir, le livre pourrait être bien connu et largement accepté, mais du temps doit s’écouler. En attendant, nous allons « prendre nos âmes en patience », sachant « qu’une croissance trop rapide serait suicidaire » et que « le livre est donné à ceux qui sont prêts, bien avant le jour de sa mission dans le monde entier ».
+\\pard line Dans l’avenir, le livre pourrait être bien connu et largement accepté, mais du temps doit s’écouler. En attendant, nous allons « prendre nos âmes en patience », sachant « qu’une croissance trop rapide serait suicidaire » et que « le livre est donné à ceux qui sont prêts, bien avant le jour de sa mission dans le monde entier ».
 
 La paix soit avec vous.
 <br style="clear:both;"/>
@@ -84,7 +84,7 @@ La paix soit avec vous.
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-3-sept-2014">
+        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-3-septembre-2014">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 3, Sept. 2014 — Table des matières</span>
         </a>
         </td>

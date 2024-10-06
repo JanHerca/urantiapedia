@@ -44,7 +44,7 @@ En contraste, en su libro, _Las religiones del hombre_, Houston Smith escribe:
 
 Pregunta 1: Cuando en algún momento futuro, los estudiantes de historia religiosa formulen su opinión sobre _El Libro de Urantia_ y sus adherentes, ¿van a concluir que debido a que el mismo tipo de idolatría se había arraigado en ese libro, los Documentos deben haber sido la obra? de protestantes desencantados?
 
-Pregunta 2: ¿En qué medida han influido las actitudes de los lectores del Libro de Urantia por el pensamiento protestante de sus antepasados?
+Pregunta 2: ¿En qué medida han influido las actitudes de los lectores del _Libro de Urantia_ por el pensamiento protestante de sus antepasados?
 
 Pregunta 3: ¿Qué efecto tendrán algunas actitudes actuales sobre la aceptación del libro por parte de las generaciones futuras?
 

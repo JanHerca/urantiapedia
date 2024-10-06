@@ -48,7 +48,7 @@ _Indianapolis, Indiana_
 
 ## Pensez à....
 
-À part Jésus, quelle est votre personnalité humaine préférée dans _Le Livre d'URANTIA_ ? Pourquoi? Ce mortel a-t-il fait quelque chose qui vous a poussé à prendre une décision difficile à un moment de votre vie ? La loyauté d'Amadon vous a-t-elle aidé à approfondir votre engagement à faire la volonté du Père ? Ressentez-vous une admiration particulière pour les qualités de l'un des apôtres : le leadership discret d'André, l'enthousiasme de Pierre, la foi des jumeaux Alphée malgré leur incapacité à vraiment comprendre tout ce qui est impliqué, la recherche intellectuelle de Thomas ? Même les faiblesses de tant de mortels vous aident-elles à mieux vous comprendre ?
+À part Jésus, quelle est votre personnalité humaine préférée dans _Le Livre d'URANTIA_ ? Pourquoi? Ce mortel a-t-il fait quelque chose qui vous a poussé à prendre une décision difficile à un moment de votre vie ? La loyauté d'Amadon vous a-t-elle aidé à approfondir votre engagement à faire la volonté du Père ? Ressentez-vous une admiration particulière pour les qualités de l'un des apôtres : le leadership discret d'André, l'enthousiasme de Pierre, la foi des jumeaux Alphée malgré leur incapacité à vraiment comprendre tout ce qui est impliqué, la recherche intellectuelle de Thomas ? Même les faiblesses de tant de mortels vous aident-elles à mieux vous comprendre ?
 
 Nous aimerions planifier un prochain numéro du Journal URANTIEN sur ce sujet. Si vous avez une personnalité humaine préférée, autre que Jésus, et que vous envisagez de rédiger un article, nous aimerions avoir votre avis.
 

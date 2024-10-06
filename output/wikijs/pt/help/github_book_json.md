@@ -47,7 +47,7 @@ Para converter arquivos de HTML para JSON sem notas de rodapé, siga estas etapa
 - Clique em *Executar*.
 - Se tudo estiver correto aparecerá *Conversão executada com sucesso*. Em caso de erros, a lista de erros aparecerá. Neste caso, é aconselhável notificar um dos usuários *desenvolvedores* sobre o erro.
 
-![](/image/upt_html_json.png)
+![](/image/help/upt_html_json.png)
 
 Os arquivos resultantes no formato JSON serão salvos na pasta `input/json/book-xx`, onde `xx` são as duas letras do idioma (`es` = espanhol, `en` = inglês, etc.)
 

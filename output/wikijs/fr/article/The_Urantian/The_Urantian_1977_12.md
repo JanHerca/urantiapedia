@@ -36,7 +36,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Le temps est à nouveau venu où la plupart des chrétiens du monde célèbrent la naissance traditionnelle de Jésus-Christ. Le simple fait d’y penser suffit à générer un spectre d’émotions mitigées. Beaucoup d’entre nous pourraient juger nécessaire de se préparer au commercialisme grossier stimulé par la recherche infiltrante du profit. Il y a toujours le stress et l’écrasement de ces derniers jours, et au moins une semaine de récupération. Et d'autres encore peuvent espérer retrouver leurs proches - pour avoir l'occasion de voir et de toucher de vieux amis - tout en échangeant des cadeaux. Mais Noël a-t-il un sens dans l’ordre universel des choses ? Et quelle est son importance ? Comment un Puissant Messager rapporterait-il le spectacle de Noël en relation avec le Suprême ?
 
-Un Puissant Messager diffuserait les événements de Noël en relation avec le Suprême parce que nous vivons actuellement à l'ère du Suprême, du point de vue du temps universel. Les nutritions nécessaires à cette croissance fœtale du Suprême sont enrichies des expériences des créatures du temps et de l’espace. La récompense de tout cela est que le Suprême deviendra la première divinité _expérientielle_ du Créateur ; qui doit être un complément à la trinité de la divinité _existentielle_.
+Un Puissant Messager diffuserait les événements de Noël en relation avec le Suprême parce que nous vivons actuellement à l'ère du Suprême, du point de vue du temps universel. Les nutritions nécessaires à cette croissance fœtale du Suprême sont enrichies des expériences des créatures du temps et de l’espace. La récompense de tout cela est que le Suprême deviendra la première divinité _expérientielle_ du Créateur ; qui doit être un complément à la trinité de la divinité _existentielle_.
 
 [Lire la suite](/fr/article/Arlene_and_Buck_Weimer/Christmas_And_The_Supreme)
 
@@ -46,7 +46,7 @@ Un Puissant Messager diffuserait les événements de Noël en relation avec le S
 
 Il existe un plan divin pour chaque révélation. Les révélateurs viennent sur terre en mission et dans un but précis, mais il existe un plan primordial, une manière ordonnée de mener à bien ces missions de nouvelle vérité. Quel est le plan divin pour « notre » révélation ?
 
-Nous pouvons être assurés que le plan divin qui opérait pour Caligastia, Adam, Machiventa et Jésus est à nouveau en vigueur pour nous. Ce plan global pour les planètes, les révélateurs et les mortels pourrait être énoncé ainsi :
+Nous pouvons être assurés que le plan divin qui opérait pour Caligastia, Adam, Machiventa et Jésus est à nouveau en vigueur pour nous. Ce plan global pour les planètes, les révélateurs et les mortels pourrait être énoncé ainsi :
 
 L'évolution planétaire est établie. Il est renforcé par des révélations périodiques transmises par des techniques évolutives construites sur des fondations existantes et autorisées à se développer naturellement.
 
@@ -81,7 +81,7 @@ Premièrement, la peur est une expérience universelle des créatures du temps e
 
 Récemment, un étudiant du Livre d'Urantia a attiré mon attention lorsqu'il a demandé : « Comment puis-je vivre une révélation ? L'enquête a immobilisé le groupe ; on pouvait percevoir toutes sortes de non-réponses se rassembler pour attaquer la question que personne n'avait entendue. Il a été demandé au demandeur de répéter sa question, éventuellement avec quelques précisions. Il était accompagné d’une forte emphase vocale et d’un phrasé actif : « Comment _viver_ une révélation ? Je tiens entre mes mains une révélation d’époque de 2097 pages. Je veux faire quelque chose de plus que le _lire_, je ressens la responsabilité de le _vivre_. Quelle merveilleuse déclaration ! Heureusement, personne n'a proposé de réponse « voilà comme ça, c'est ce que vous faites », ni aucune de ces phrases claires et nettes qui claquent la porte de la discussion.
 
-J'ai réfléchi à l'énoncé de la question pendant plusieurs jours ; ensuite, avant que je commence à en percevoir la poussée, et seulement après que je me sois posé la question. En effet, comment _je le vis_ ? Me voici dans un état extraordinaire de bouleversement dynamique – une révélation d’époque s’est affrontée à un mortel inerte du royaume ; une force irrésistible rencontre un objet immobile à la puissance 10 ! J'ai commencé la recherche d'une réponse future en posant une autre question ; « Comment est-ce que je veux vivre, temporellement et éternellement ? » Maintenant que les vannes du choix étaient ouvertes, les sacs de sable sont sortis – mon réflexe face à une pléthore de choix.
+J'ai réfléchi à l'énoncé de la question pendant plusieurs jours ; ensuite, avant que je commence à en percevoir la poussée, et seulement après que je me sois posé la question. En effet, comment _je le vis_ ? Me voici dans un état extraordinaire de bouleversement dynamique – une révélation d’époque s’est affrontée à un mortel inerte du royaume ; une force irrésistible rencontre un objet immobile à la puissance 10 ! J'ai commencé la recherche d'une réponse future en posant une autre question ; « Comment est-ce que je veux vivre, temporellement et éternellement ? » Maintenant que les vannes du choix étaient ouvertes, les sacs de sable sont sortis – mon réflexe face à une pléthore de choix.
 
 [Lire la suite](/fr/article/Ron_Schweitzer/The_Unquestioned_Answer)
 

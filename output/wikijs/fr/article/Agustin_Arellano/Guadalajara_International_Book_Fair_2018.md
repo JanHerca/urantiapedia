@@ -54,17 +54,17 @@ Expo Guadalajara
 Un V. Mariano Otero 1499,
 Colonia Verte Vallée
 Guadalajara, Jalisco, Mexique
-Pour plus d'informations, rendez-vous sur :
+Pour plus d'informations, rendez-vous sur :
 
-https://fil.com.mx/ingles/default.asp (Cliquez sur le bouton anglais à droite !)
+https://fil.com.mx/ingles/default.asp (Cliquez sur le bouton anglais à droite !)
 
 La Foire internationale du livre de Guadalajara est le rassemblement d'édition le plus important d'Amérique latine. C'est aussi un festival culturel étonnant. Créée il y a 32 ans par l’Université de Guadalajara, la Foire s'adresse aussi bien aux professionnels qu’au grand public, une caractéristique qui la distingue des autres foires du livre dans le monde. Avec les affaires comme l’un de ses principaux objectifs, c'est aussi un festival culturel dans lequel la littérature joue un rôle majeur, avec un programme auquel participent des auteurs de tous les continents et de toutes les langues, et un forum pour la discussion académique sur les questions. Pendant neuf jours, les gens font volontiers la queue pour écouter leurs auteurs préférés. L'industrie du livre fait de Guadalajara son cœur battant et toute la ville regorge de musique, d'arts, de cinéma et de théâtre. 
 
-Souhaitez-vous votre Mighty Messenger et Fellowship Herald en format imprimé ou électronique ?
+Souhaitez-vous votre Mighty Messenger et Fellowship Herald en format imprimé ou électronique ?
 
-Faites-le-nous savoir en répondant à cette enquête d'une minute :
+Faites-le-nous savoir en répondant à cette enquête d'une minute :
 https://www.surveymonkey.com/r/T5LFL86
-Ou appelez-nous au : 303-467-7858
+Ou appelez-nous au : 303-467-7858
 
 ## Liens externes
 

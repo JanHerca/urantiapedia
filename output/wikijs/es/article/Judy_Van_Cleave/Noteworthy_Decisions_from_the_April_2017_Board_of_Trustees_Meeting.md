@@ -62,7 +62,7 @@ A la luz del entorno cambiante con las redes sociales y el uso cada vez mayor de
 ## 4. Se aprobó una traducción al tagalo (filipino)
 
 Gracias a un dedicado grupo de lectores filipinos, la junta aprobó la creación de una traducción al tagalo del _El libro de Urantia_. Una traducción de esta complejidad probablemente tardará al menos diez años en completarse antes de su publicación. Con una población de más de 100 millones de personas y un 92\% de cristianos, pocos lugares en el mundo tienen un suelo espiritual tan rico como Filipinas. Si bien el número de cristianos en un país no es garantía de que el libro sea aceptado por los primeros adaptadores, una población cristiana activa y buscadora ha sido un determinante clave de
-Aceptación del Libro de Urantia hasta el momento.
+Aceptación del _Libro de Urantia_ hasta el momento.
 
 ## 5. Publicación de una réplica conmemorativa de la primera impresión de _El Libro de Urantia_
 
@@ -89,9 +89,9 @@ Se están desarrollando planes para el lanzamiento de una recaudación de fondos
 
 Los auditores independientes de la Fundación Urantia presentaron los resultados de su auditoría de 2016 al Comité de Finanzas y a la junta. La junta aprobó la auditoría. Para leer el documento 990 de la Fundación Urantia, haga clic en este enlace: http://www.urantia.org/urantia-foundation/form-990.
 
-## 9. Line St-Pierre elegida fideicomisaria asociada emérita con Line St-Pierre's
+## 9. Line St-Pierre elegida fideicomisaria asociada emérita
 
-El mandato de fideicomisaria asociada expira ahora, la junta de fideicomisarios la nombró fideicomisaria asociada emérita y la invitó a continuar dirigiendo seminarios para mujeres en la Fundación Urantia. Gracias, Line, por tus cinco años de servicio en la junta directiva de la Fundación.
+Al expirar ahora el mandato de Line St-Pierre como fideicomisaria asociada, la junta de fideicomisarios la nombró fideicomisaria asociada emérita y la invitó a continuar dirigiendo seminarios para mujeres en la Fundación Urantia. Gracias, Line, por tus cinco años de servicio en la junta directiva de la Fundación.
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2017_06/015.jpg">

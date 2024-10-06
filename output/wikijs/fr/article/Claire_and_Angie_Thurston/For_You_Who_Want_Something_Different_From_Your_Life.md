@@ -41,7 +41,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 par _Claire et Angie Thurston_
 
-> Note des auteurs : Cette pièce a été écrite à l’origine pour des personnes d’une vingtaine d’années en recherche spirituelle. Dès les premières semaines de confinement dû au COVID en mars 2020, nous avons passé deux années complètes à travailler avec les membres de cette population via Zoom, les aidant à apprendre à se connecter avec leur Esprit intérieur et à exprimer leurs valeurs spirituelles dans leur vie. Ce qui suit est une tentative de communiquer l’essence de notre message, afin qu’il puisse être partagé. De plus, nous utilisons le nom propre « Esprit » pour désigner la présence vivante, aimante et créatrice au cœur de toutes choses.
+> Note des auteurs : Cette pièce a été écrite à l’origine pour des personnes d’une vingtaine d’années en recherche spirituelle. Dès les premières semaines de confinement dû au COVID en mars 2020, nous avons passé deux années complètes à travailler avec les membres de cette population via Zoom, les aidant à apprendre à se connecter avec leur Esprit intérieur et à exprimer leurs valeurs spirituelles dans leur vie. Ce qui suit est une tentative de communiquer l’essence de notre message, afin qu’il puisse être partagé. De plus, nous utilisons le nom propre « Esprit » pour désigner la présence vivante, aimante et créatrice au cœur de toutes choses.
 {.is-info}
 
 «_C'est comme si j'avais passé ma vie sur un chemin que d’autres personnes avaient tracé pour moi._
@@ -66,7 +66,7 @@ _Je veux trouver un terrain solide et une connexion authentique_
 _Je peux compter sur._»
 
 
-**À vous nous disons :**
+**À vous nous disons :**
 
 **Confiance**
 
@@ -76,31 +76,31 @@ _Je peux compter sur._»
 
 Ces désirs viennent d’un endroit très réel à l’intérieur de vous. Ils sont fondamentalement dignes de confiance et bons. Mais si le monde extérieur n’accorde pas de crédit à votre connaissance intérieure, vous pouvez finir par sombrer dans le doute. Finalement, vous pourriez vous poser des questions telles que
 
-**Pourquoi ne suis-je jamais satisfait ?**
+**Pourquoi ne suis-je jamais satisfait ?**
 
-<p style="margin-left:30px;"><b>Qu'est-ce qui ne va pas chez moi ?</b></p>
+<p style="margin-left:30px;"><b>Qu'est-ce qui ne va pas chez moi ?</b></p>
 
-<p style="margin-left:60px;"><b>Pourquoi est-ce que je me sens si perdu, anxieux et seul ?</b></p>
+<p style="margin-left:60px;"><b>Pourquoi est-ce que je me sens si perdu, anxieux et seul ?</b></p>
 
 Et puis, au bout d’un moment,
 
 **Dans quel but?**
 
-<p style="margin-left:30px;"><b>Est-ce que je compte vraiment ?</b></p>
+<p style="margin-left:30px;"><b>Est-ce que je compte vraiment ?</b></p>
 
-<p style="margin-left:60px;"><b>Pourquoi devrais-je vivre ?</b></p>
+<p style="margin-left:60px;"><b>Pourquoi devrais-je vivre ?</b></p>
 
 Aussi dévastatrice que puisse paraître cette dernière question, elle est en réalité parfaitement raisonnable. Le fait que vous posiez la question est le signe le plus sûr que vous voulez vraiment savoir. Alors commençons par là.
 
-**Pourquoi devrais-je vivre ?**
+**Pourquoi devrais-je vivre ?**
 
-Nous pouvons décomposer votre question en trois parties :
+Nous pouvons décomposer votre question en trois parties :
 
 **Qui suis je?**
 
-<p style="margin-left:30px;"><b>Qu'est-ce que vivre ?</b></p>
+<p style="margin-left:30px;"><b>Qu'est-ce que vivre ?</b></p>
 
-<p style="margin-left:60px;"><b>Pourquoi devrais-je le faire ?</b></p>
+<p style="margin-left:60px;"><b>Pourquoi devrais-je le faire ?</b></p>
 
 Tout d’abord.
 
@@ -118,7 +118,7 @@ Et votre caractère unique a un but. En tant qu’enfant unique de l’Esprit, v
 
 Vous êtes donc doté d’un ***corps***, d’un moi physique, qui vous permet d’agir dans le monde. Vous disposez d’un ***esprit***, un système énergétique personnel, vous permettant d’avoir des idées et de prendre des décisions. Et ***Esprit*** vous habite, un pilote aimant disponible à tout moment pour guider votre expérience de l’intérieur.
 
-C'est vrai, l’Esprit ne vit pas seulement au centre de toutes choses. L’Esprit vit au centre de VOUS. Pas étonnant que vous souhaitiez quelque chose de différent de votre vie !
+C'est vrai, l’Esprit ne vit pas seulement au centre de toutes choses. L’Esprit vit au centre de VOUS. Pas étonnant que vous souhaitiez quelque chose de différent de votre vie !
 
 Lorsque vous êtes venu dans ce monde, une belle et toute nouvelle personne, l’Esprit a vu qui vous deviendriez et a dit OUI. Je te veux. Je veux partager tous les aspects de chaque expérience que vous vivrez. Je veux m'associer à vous dans tout. Je veux vous remplir d’amour dans votre être même.
 
@@ -134,7 +134,7 @@ Et plus vous commencez à trouver ce que vous cherchez.
 
 Le véritable voyage de la vie est le voyage de croissance de l’âme tout au long de votre vie. Le but de votre vie est de grandir spirituellement. Vous faites cela en apprenant à connaître et à aimer l’Esprit en vous, et en apprenant également à connaître et à aimer les autres en tant que porteurs de l’Esprit. 
 
-Vous pouvez visualiser ce voyage comme une boucle infinie :
+Vous pouvez visualiser ce voyage comme une boucle infinie :
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Summer/011.jpg">
@@ -263,13 +263,13 @@ La clé de l’expérience spirituelle personnelle réside dans les valeurs viva
 
 <span style="color:	indianred"><b>Le service</b></span> est l’expression des valeurs de l’Esprit dans une action aimante envers les autres.
 
-L’esprit, en tant que source de valeurs, peut vous aider à prendre des décisions et à entreprendre des actions qui donnent vie aux valeurs. Lorsque vous allez à l’intérieur, c'est-à-dire lorsque vous passez du temps dans votre monde intérieur, vous pouvez demander à l’Esprit de vous aider à les exprimer :
+L’esprit, en tant que source de valeurs, peut vous aider à prendre des décisions et à entreprendre des actions qui donnent vie aux valeurs. Lorsque vous allez à l’intérieur, c'est-à-dire lorsque vous passez du temps dans votre monde intérieur, vous pouvez demander à l’Esprit de vous aider à les exprimer :
 
 «_Esprit, s'il te plaît, aide-moi à pardonner à mon frère._»
 
-<p style="margin-left:30px;"><em>« Ouvre mon cœur à ma patronne et aide-moi à comprendre pourquoi elle agit ainsi. »</em></p>
+<p style="margin-left:30px;"><em>« Ouvre mon cœur à ma patronne et aide-moi à comprendre pourquoi elle agit ainsi. »</em></p>
 
-« _Montrez-moi comment servir mes nouveaux colocataires._
+« _Montrez-moi comment servir mes nouveaux colocataires._
 _Je veux qu’ils se sentent chez eux._»
 
 <p style="margin-left:30px;"><em>« Esprit, aide-moi à ressentir ta compassion pour moi. Je veux être gentil avec moi-même et je ne sais pas comment.</em></p>
@@ -278,7 +278,7 @@ L’Esprit que vous portez n’est pas destiné à une gratification personnelle
 
 Devenir plus proche de l’Esprit et davantage guidé par les valeurs de l’Esprit dans votre vie : tel est le but de la vie.
 
-## Pourquoi devrais-je le faire ?
+## Pourquoi devrais-je le faire ?
 
 Plus vous exprimez des valeurs, plus vous découvrez ce qu’elles signifient. Avec le temps, cela donne un sens à votre vie. Vous faites l’expérience de plus en plus de profondeur de pardon, de respect et d’amour dans votre vie, plus vous pratiquez le pardon, le respect et l’amour. Et en partageant votre vie intérieure avec l’Esprit, vous commencez à découvrir votre **vraie voix** : votre expression unique de l’Esprit dans le monde.
 
@@ -288,7 +288,7 @@ Il est naturel de penser à nos actions ayant un impact sur le monde visible que
 
 ## D'accord, mais comment ? Comment puis-je faire cela concrètement ?
 
-Oui, excellente question. Vous pouvez aborder la vie de cette façon depuis la direction intérieure ou extérieure et idéalement depuis les deux à la fois ! Le travail intérieur vous connecte à la source de l’amour en vous, tandis que le travail extérieur vous donne l’expérience de mettre cet amour en action.
+Oui, excellente question. Vous pouvez aborder la vie de cette façon depuis la direction intérieure ou extérieure et idéalement depuis les deux à la fois ! Le travail intérieur vous connecte à la source de l’amour en vous, tandis que le travail extérieur vous donne l’expérience de mettre cet amour en action.
 
 Examinons d’abord l’approche intérieure.
 
@@ -297,13 +297,13 @@ Examinons d’abord l’approche intérieure.
 <figcaption><em>Approche intérieure</em></figcaption>
 </figure>
 
-Respirez. Prenez un moment pour vérifier votre vie intérieure. Nous entendons par là toute la gamme de vos expériences. Tournez-vous vers l’intérieur et remarquez simplement : qu’est-ce qui est dans votre conscience en ce moment ? Y a-t-il des pensées ? Des sensations ? Sentiments? Qu’en est-il des peurs ou des jugements ?
+Respirez. Prenez un moment pour vérifier votre vie intérieure. Nous entendons par là toute la gamme de vos expériences. Tournez-vous vers l’intérieur et remarquez simplement : qu’est-ce qui est dans votre conscience en ce moment ? Y a-t-il des pensées ? Des sensations ? Sentiments? Qu’en est-il des peurs ou des jugements ?
 
 Souvenirs? Des envies ? Et qu’est-ce que ça fait d’être en soi ? Est-ce un endroit où vous souhaitez séjourner ?
 
 Ce que vous venez de faire – regarder à l’intérieur – est une chose difficile pour beaucoup d’entre nous. Vous ne vous sentez peut-être pas encore en sécurité ou à l’aise dans votre monde intérieur, ou vous pensez peut-être que vous avez la permission d’y passer du temps. C'est tout à fait normal ! Il existe de forts courants culturels qui s’opposent à la découverte du pouvoir que vous portez. Il faudra probablement du temps et de la pratique avant de commencer à vous détendre et à profiter de la vie intérieure, et encore moins à vous y sentir chez vous.
 
-Ces trois étapes peuvent vous aider à vous sentir plus à l’aise pour vous introspecter et inviter l’Esprit dans votre vie :
+Ces trois étapes peuvent vous aider à vous sentir plus à l’aise pour vous introspecter et inviter l’Esprit dans votre vie :
 
 ## 1. Donnez-vous la permission de vous connecter
 
@@ -330,9 +330,9 @@ Une étincelle d’Esprit pur vit dans votre esprit, toujours disponible et plus
 
 À quoi ressemble une conversation avec Spirit ? C'est aussi simple que de partager tout ce que vous avez en tête avec l’Esprit, ce qui signifie que cela peut paraître différent à chaque fois. Vous pouvez partager en silence ou à voix haute. Parler, écrire, chanter. Assis, debout, marchant, courant, dansant. Vous pouvez le faire différemment chaque jour ou trouver une approche plus cohérente. Quelle que soit la forme qu’elle prend, assurez-vous simplement qu’elle vous semble authentique. L'Esprit est là pour vous accompagner dans le fond de votre quotidien : vos décisions difficiles, vos questions relationnelles, vos défis créatifs, vos réflexions philosophiques, vos douleurs, vos peurs, vos aspirations secrètes, vos plus hauts, vos plus bas, vos projets. pour votre journée et votre avenir. Vous le nommez, l’Esprit veut le partager avec vous.
 
-Un mot d’encouragement : après avoir essayé cela une ou deux fois, vous pourriez être tenté d’abandonner si cela vous semble gênant ou si votre esprit est trop confus ou gêné par des blocages comme l’anxiété, un discours intérieur négatif ou un jugement. Faites de votre mieux pour vous y tenir, même si ce n’est que trois minutes par jour. Une stratégie consiste à aborder directement votre lutte avec l’Esprit. Dites à l’Esprit : « Je ne peux même pas vous parler parce que ma critique intérieure est trop forte ! » Continuez à partager votre lutte spécifique avec l’Esprit chaque jour et voyez ce qui se passe.
+Un mot d’encouragement : après avoir essayé cela une ou deux fois, vous pourriez être tenté d’abandonner si cela vous semble gênant ou si votre esprit est trop confus ou gêné par des blocages comme l’anxiété, un discours intérieur négatif ou un jugement. Faites de votre mieux pour vous y tenir, même si ce n’est que trois minutes par jour. Une stratégie consiste à aborder directement votre lutte avec l’Esprit. Dites à l’Esprit : « Je ne peux même pas vous parler parce que ma critique intérieure est trop forte ! » Continuez à partager votre lutte spécifique avec l’Esprit chaque jour et voyez ce qui se passe.
 
-Comment l’Esprit pourrait-il réagir à votre partage ? Même si vous avez envie d’aller et venir dans une conversation humaine, c’est rarement cela. Le plus souvent, cela se présentera sous la forme de nouvelles pensées, sentiments et façons de penser et de ressentir. Vous pourriez ressentir la présence de l’Esprit dans des mouvements calmes ou profonds de votre cœur, une légèreté et une force vitale inattendues, des imaginations ou des idées surprenantes, des schémas de pensée nouveaux et plus matures, ou un sens intuitif plus profond de ce qui vous semble juste ou de ce que quelque chose signifie. Souvent, l’Esprit répond sous la forme d’une ***perspicacité***. (Insight. Littéralement, voir de l’intérieur !) Très probablement, une perspicacité spirituelle :
+Comment l’Esprit pourrait-il réagir à votre partage ? Même si vous avez envie d’aller et venir dans une conversation humaine, c’est rarement cela. Le plus souvent, cela se présentera sous la forme de nouvelles pensées, sentiments et façons de penser et de ressentir. Vous pourriez ressentir la présence de l’Esprit dans des mouvements calmes ou profonds de votre cœur, une légèreté et une force vitale inattendues, des imaginations ou des idées surprenantes, des schémas de pensée nouveaux et plus matures, ou un sens intuitif plus profond de ce qui vous semble juste ou de ce que quelque chose signifie. Souvent, l’Esprit répond sous la forme d’une ***perspicacité***. (Insight. Littéralement, voir de l’intérieur !) Très probablement, une perspicacité spirituelle :
 
 - apporte une nouvelle possibilité dans votre esprit qui vous convient,
 - résonne d’une manière qui vous appelle vers votre potentiel,
@@ -342,7 +342,7 @@ Comment l’Esprit pourrait-il réagir à votre partage ? Même si vous avez env
 
 Plus vous partagez avec l’Esprit et vous accordez à la perspicacité de l’Esprit, plus vous créez des conditions dans votre vie intérieure pour que la **volonté** de l’Esprit - à savoir ce que l’Esprit désire pour vous - émerge. Au fil du temps, vous commencez à cultiver la réceptivité, la patience et l’ouverture de cœur pour écouter l’Esprit, non seulement pendant votre temps réservé, mais aussi dans toutes les autres parties de votre journée. Vous ne savez jamais quand quelqu’un dira quelque chose, ou si vous verrez, lirez ou expérimenterez quelque chose, qui suscitera soudainement un aperçu d’une question que vous exploriez avec l’Esprit.
 
-Surtout, au début, il peut être difficile de faire la différence entre les pensées humaines quotidiennes, même celles qui semblent importantes, et la véritable contribution de l’Esprit. En fin de compte, il vous appartient de discerner si une idée ou une impulsion dans votre vie intérieure provient d’une source divine. Si cela évoque la vérité, la beauté, la bonté et l’amour, vous êtes probablement sur la bonne voie ! Plus vous passez du temps avec votre Esprit intérieur, plus ce discernement devient facile. Mais en cas de doute, il est préférable de pécher par excès de rejet de la perspicacité de l’Esprit en supposant qu’il s’agit d’une perspicacité purement humaine, plutôt que d’attribuer des origines divines au fonctionnement de votre esprit. Vous pouvez être sûr que l’Esprit trouvera un autre moyen de partager tout ce qu’il est important que vous sachiez. L’Esprit travaillera par tous les moyens nécessaires pour vous aider à grandir spirituellement, à condition que vous soyez un participant volontaire.
+Surtout, au début, il peut être difficile de faire la différence entre les pensées humaines quotidiennes, même celles qui semblent importantes, et la véritable contribution de l’Esprit. En fin de compte, il vous appartient de discerner si une idée ou une impulsion dans votre vie intérieure provient d’une source divine. Si cela évoque la vérité, la beauté, la bonté et l’amour, vous êtes probablement sur la bonne voie ! Plus vous passez du temps avec votre Esprit intérieur, plus ce discernement devient facile. Mais en cas de doute, il est préférable de pécher par excès de rejet de la perspicacité de l’Esprit en supposant qu’il s’agit d’une perspicacité purement humaine, plutôt que d’attribuer des origines divines au fonctionnement de votre esprit. Vous pouvez être sûr que l’Esprit trouvera un autre moyen de partager tout ce qu’il est important que vous sachiez. L’Esprit travaillera par tous les moyens nécessaires pour vous aider à grandir spirituellement, à condition que vous soyez un participant volontaire.
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Summer/011.jpg">
@@ -351,7 +351,7 @@ Surtout, au début, il peut être difficile de faire la différence entre les pe
 
 Que vous vous sentiez prêt ou non à tenter l’approche intérieure, l’approche extérieure est facilement accessible et tout aussi profonde. Ici, vous cultivez une connexion avec l’Esprit en exprimant les valeurs de l’Esprit au service des autres. **Le service** - lorsqu’il est librement choisi et non forcé - est le moyen le plus sûr d’activer la présence de l’Esprit en vous et d’apprendre à établir des relations avec les autres comme étant également habités par l’Esprit.
 
-Vous pouvez considérer le service comme quelque chose que vous faites par l’intermédiaire d’une organisation bénévole, ce qui est tout à fait possible. Mais ici, nous l’utiliserons comme un terme plus large pour désigner le bien aux autres à votre manière personnelle. N’oubliez pas que vous êtes unique et que votre expression personnelle des valeurs de l’Esprit le sera également. En regardant la liste de valeurs ci-dessus, vous pouvez vous demander :
+Vous pouvez considérer le service comme quelque chose que vous faites par l’intermédiaire d’une organisation bénévole, ce qui est tout à fait possible. Mais ici, nous l’utiliserons comme un terme plus large pour désigner le bien aux autres à votre manière personnelle. N’oubliez pas que vous êtes unique et que votre expression personnelle des valeurs de l’Esprit le sera également. En regardant la liste de valeurs ci-dessus, vous pouvez vous demander :
 
 « _Comment puis-je exprimer ma générosité envers les gens de ma vie ?_ »
 
@@ -359,20 +359,20 @@ Vous pouvez considérer le service comme quelque chose que vous faites par l’i
 
 « _Où pourrais-je apporter plus de compassion aux besoins des autres ?_ »
 
-<p style="margin-left:30px;"><em>« Comment puis-je devenir plus fiable envers ceux qui comptent sur moi ? »</em></p>
+<p style="margin-left:30px;"><em>« Comment puis-je devenir plus fiable envers ceux qui comptent sur moi ? »</em></p>
 
 
 Comme vous pouvez l’imaginer, votre vie de service pourrait prendre des formes presque illimitées, à mesure que vous découvrirez de plus en plus de façons d’exprimer des combinaisons de valeurs de l’Esprit dans un nombre croissant de vos relations. Cela pourrait ressembler à exprimer une rancune contre un ami proche pour être à ses côtés lorsque son père commence la chimiothérapie, se présenter à l’arrêt de bus scolaire tous les jours pour récupérer votre voisin de troisième année dont les parents travaillent jusqu’à cinq heures, ou diriger le discuter à une bouée de sauvetage pour la prévention du suicide.
 
-Si vous vous demandez par où commencer, l’option la plus immédiate pourrait être de vous adresser aux personnes les plus proches de vous, surtout si vous vous sentez seul et sans amis. Dans ces moments où vous demandez :
+Si vous vous demandez par où commencer, l’option la plus immédiate pourrait être de vous adresser aux personnes les plus proches de vous, surtout si vous vous sentez seul et sans amis. Dans ces moments où vous demandez :
 
-**Pourquoi suis-je si seul ?**
+**Pourquoi suis-je si seul ?**
 
-<p style="margin-left:30px;"><b>Pourquoi ne puis-je pas communiquer avec les gens ?</b></p>
+<p style="margin-left:30px;"><b>Pourquoi ne puis-je pas communiquer avec les gens ?</b></p>
 
 <p style="margin-left:60px;"><b>Pourquoi je n’ai pas d’amis ?</b></p>
 
-Vous pouvez retourner le scénario et demander : « Comment l’Esprit pourrait-il m’aider à découvrir ce que quelqu’un dans ma vie a besoin de moi et comment je peux le lui donner au mieux ? » Il y a de fortes chances que vous vous retrouviez à exprimer les valeurs de l’Esprit en répondant aux besoins de l’autre personne. Dans ces moments-là, non seulement l’Esprit est à l’œuvre en vous, mais vous servez l’Esprit, qui vit là à l’intérieur de cette autre personne. Vous pouvez commencer à reconnaître la présence de l’Esprit dans ces cas-là, par le sentiment que vous ressentez dans votre cœur lorsque vous êtes véritablement en service.
+Vous pouvez retourner le scénario et demander : « Comment l’Esprit pourrait-il m’aider à découvrir ce que quelqu’un dans ma vie a besoin de moi et comment je peux le lui donner au mieux ? » Il y a de fortes chances que vous vous retrouviez à exprimer les valeurs de l’Esprit en répondant aux besoins de l’autre personne. Dans ces moments-là, non seulement l’Esprit est à l’œuvre en vous, mais vous servez l’Esprit, qui vit là à l’intérieur de cette autre personne. Vous pouvez commencer à reconnaître la présence de l’Esprit dans ces cas-là, par le sentiment que vous ressentez dans votre cœur lorsque vous êtes véritablement en service.
 
 Très probablement, vous servez déjà dans votre vie de tous les jours, en répondant en temps réel aux besoins des autres. Mais la beauté de reconnaître la présence de l’Esprit est que vous pouvez apporter une intention et un but au développement de votre capacité à travailler avec l’Esprit comme mode de vie. Une façon d’y parvenir est de fixer des ***objectifs spirituels***. Un objectif spirituel est tout objectif personnel, grand ou petit, qui fait progresser votre expression de valeurs spirituelles. Lorsque vous commencez à compter sur l’Esprit pour des consultations stratégiques et la résolution de problèmes en vue d’atteindre vos objectifs spirituels, vous rassemblez alors les approches intérieures et extérieures de la croissance de l’âme.
 
@@ -388,7 +388,7 @@ Enfin, en spiritualisant votre pensée à travers vos propres choix et réorient
 
 Lorsque vous consacrez votre volonté à accomplir la volonté de l’Esprit, lorsque vous donnez tout ce que vous avez, alors vous devenez plus que vous n’êtes. 
 
-## Où puis-je trouver d’autres personnes vivant de cette façon ?
+## Où puis-je trouver d’autres personnes vivant de cette façon ?
 
 C'est une question tellement importante ! Même si votre vie intérieure est personnelle, elle est destinée à être partagée. Se réunir avec d’autres pour partager le chemin de la croissance spirituelle peut être l’une des expériences d’appartenance les plus puissantes que vous puissiez vivre. Cela peut également vous nourrir et vous catalyser à mesure que vous grandissez, vous donnant le courage d’agir sur de grandes décisions et d’établir de nouveaux précédents pour votre vie.
 

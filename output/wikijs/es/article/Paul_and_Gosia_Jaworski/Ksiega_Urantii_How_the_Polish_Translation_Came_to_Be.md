@@ -73,7 +73,14 @@ Hace dos años nos dimos cuenta de la necesidad de tener vídeos en línea como 
 <img src="/image/article/UF_News_Online/2022_03/009.jpg">
 </figure>
 
-Pero junto con la popularidad creciente del libro, también ha habido muchos vídeos sobre el libro hechos por personas que claramente no lo han leído. Para contrarrestar esa información engañosa decidimos subir a YouTube algunos vídeos nuestros. Hasta la fecha hemos hecho 16. Si están interesados, pueden encontrarlos aquí: [https://www.youtube.com/playlist?list=PLYOtSFuyXLrEwh4s\_po8se3nZfQvyQljF](https://www.youtube.com/playlist?list=PLYOtSFuyXLrEwh4s_po8se3nZfQvyQljF).
+Pero junto con la popularidad creciente del libro, también ha habido muchos vídeos sobre el libro hechos por personas que claramente no lo han leído. Para contrarrestar esa información engañosa decidimos subir a YouTube algunos vídeos nuestros. Hasta la fecha hemos hecho 16. Si están interesados, pueden encontrarlos aquí:
+<br style="clear:both;"/>
+
+<a href="https://bit.ly/4dumFhA">
+<figure id="Figure_4" class="image urantiapedia">
+<img src="/image/article/UF_News_Online/2022_03/060.jpg">
+</figure>
+</a>
 
 Mientras estábamos con la traducción, Gosia solía comentar que nuestro trabajo merecía la pena, aunque solo ayudara a una persona. Paul dice que es adicto al libro. Los dos podemos decir que nuestra vida cambió a mejor cuando supimos de _El libro de Urantia_.
 <br style="clear:both;"/>

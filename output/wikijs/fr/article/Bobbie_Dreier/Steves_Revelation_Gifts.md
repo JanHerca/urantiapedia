@@ -25,7 +25,7 @@ dateCreated: 2023-6-21T8:13:38Z
         </td>
         <td>
         <a href="/fr/article/Gard_Jameson/Sources_of_Revelatory_Insight_A_Meditation_on_Human_Sources">
-          <span class="pr-2">Sources de perspicacité révélatrice : une méditation sur les « sources humaines »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Sources de perspicacité révélatrice : une méditation sur les « sources humaines »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -49,7 +49,7 @@ Lorsque Matthew Block a révélé sa découverte des livres sources, Steve les a
 
 Gard Jameson avait très tôt présenté à Matthew certaines sources (par exemple concernant Morontia Mota), ce qui avait allumé le feu de la découverte de Matthew. Gard commença par la suite à étudier sérieusement ces livres. Steve a trouvé une âme sœur dans le Gard et ils ont partagé de nombreuses heures de discussions enrichissantes. 
 
-La dernière source d'intérêt de Steve consistait à comparer les références bibliques de la quatrième partie aux versions de l’Ancien et du Nouveau Testament. Il a partagé son analyse de [« Les femmes adultères »](https://en.wikipedia.org/wiki/Jesus_and_the_woman_taken_in_adultery) avec Angie Thurston lors d'une réunion de la New York Society. En guise de condoléances, Angie a écrit à Steve : 
+La dernière source d'intérêt de Steve consistait à comparer les références bibliques de la quatrième partie aux versions de l’Ancien et du Nouveau Testament. Il a partagé son analyse de [« Les femmes adultères »](https://en.wikipedia.org/wiki/Jesus_and_the_woman_taken_in_adultery) avec Angie Thurston lors d'une réunion de la New York Society. En guise de condoléances, Angie a écrit à Steve : 
 
 Je serai toujours reconnaissant pour ma dernière interaction avec Steve sur Urantia, qui a eu lieu il y a quelques mois à peine, lors de la réunion de la New York Society. Il m'a donné de précieux encouragements pour quelque chose de nouveau sur lequel je travaille. Ensuite, je lui ai posé des questions sur l’étude détaillée qu’il avait faite du *Livre d'Urantia*, de la Bible et d'autres textes sources que j'ai toujours admirés. Il a dit que son étude l’avait aidé à mieux comprendre la révélation et à mieux connaître le Maître. Il a donné l’exemple de « La femme adultère ». Dans la Bible, il est dit : 
 
@@ -87,7 +87,7 @@ J'espère que les essais suivants, qui sont le fruit des idées des études de G
         </td>
         <td>
         <a href="/fr/article/Gard_Jameson/Sources_of_Revelatory_Insight_A_Meditation_on_Human_Sources">
-          <span class="pr-2">Sources de perspicacité révélatrice : une méditation sur les « sources humaines »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Sources de perspicacité révélatrice : une méditation sur les « sources humaines »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

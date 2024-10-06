@@ -55,7 +55,7 @@ Si nous parvenons à séparer clairement les moyens et les fins, si nous pouvons
 
 —_William S. Sadler, Jr._
 
-_(Remarque : William S. Sadler, Jr, a été président de la Fraternité URANTIA pendant les trois premières années de son existence, 1955-1957. Ceci est un extrait de son premier rapport à l'Assemblée triennale des délégués.)_
+_(Remarque : William S. Sadler, Jr, a été président de la Fraternité URANTIA pendant les trois premières années de son existence, 1955-1957. Ceci est un extrait de son premier rapport à l'Assemblée triennale des délégués.)_
 
 
 

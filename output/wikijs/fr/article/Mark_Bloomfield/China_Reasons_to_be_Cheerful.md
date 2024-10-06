@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Mark Philip Bloomfield<br>© 1999 Association Urantia Internationale (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Moseley/The_Mind_Arena_of_Choice_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le cadre mental du choix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-septembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septembre 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/UB_in_the_Muslim_World">
+          <span class="pr-2">Le Livre d'Urantia dans le Monde Islamique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Mark Philip Bloomfield, Royaume-Uni 
 
@@ -21,3 +45,27 @@ En conjonction avec l'attention que nous apportons à nos familles immédiates, 
 Comment pouvons-nous être déprimés, lorsque nous sommes confrontés à de telles magnifiques opportunités pour un service palpitant? Comment des ténèbres transitoires peuvent-elles nous démoraliser ou nous dissuader lorsque de telles opportunités s'offrent à nous?
 
 Allons, les amis, unissons-nous dans le service, car notre temps sur cette Terre est court, et les besoins actuels très grands. Ensemble, frères et sœurs, en dépit de ce que chacun de nous à déjà apporté, agissons d'un commun accord, car c'est à nous de jouer maintenant; des jours dont nous nous souviendront dans tous les temps futurs.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Moseley/The_Mind_Arena_of_Choice_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le cadre mental du choix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-septembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septembre 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/UB_in_the_Muslim_World">
+          <span class="pr-2">Le Livre d'Urantia dans le Monde Islamique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-11-numéro-4-dec-2017">
+        <a href="/fr/index/articles_uf_news_online#volume-11-numéro-4-décembre-2017">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 4, Déc. 2017 — Table des matières</span>
         </a>
         </td>
@@ -38,7 +38,7 @@ _Par Ramón Franco, Floride, États-Unis_
 
 Sous les palmiers oscillants et les auvents au couleurs d’arc en ciel, mon groupe d’étude du _Livre d’Urantia_ et moi-même, avons répandu la parole de la cinquième révélation d’époque, à la Foire du Livre de Miami en novembre 2017. Je suis un lecteur de Colombie qui vit maintenant à Miami et mon équipe a animé le stand, sponsorisé par l’Association Urantia Internationale. La Fondation Urantia envoya vingt cinq exemplaires en anglais et de même en espagnol.
 
-La foire du livre de Miami fêtait ses trente quatre ans d’existence, et sa déclaration de mission dit qu’elle veut promouvoir la lecture et l’écriture et cherche à rehausser « une prise de conscience d’alphabétisation et des arts littéraires dans notre communauté ethnique multiple. » La foire se tient chaque année à l’université du Collège Dade de Miami au centre de Miami et attire plus de 250,000 visiteurs et auteurs du monde entier.
+La foire du livre de Miami fêtait ses trente quatre ans d’existence, et sa déclaration de mission dit qu’elle veut promouvoir la lecture et l’écriture et cherche à rehausser « une prise de conscience d’alphabétisation et des arts littéraires dans notre communauté ethnique multiple. » La foire se tient chaque année à l’université du Collège Dade de Miami au centre de Miami et attire plus de 250,000 visiteurs et auteurs du monde entier.
 
 Les auteurs présentés cette année, incluaient l’ancien vice-président Joe Biden, Isabel Allende, Salman Rushdie, les sœurs Bush, Lawrence O’Donnell, George Saunders et beaucoup d’autres. Cet événement commença le 13 novembre et dura jusqu’au 19 novembre avec des lectures et des discours donnés par les auteurs chaque jour, elle se termine dans la Foire de rue, du vendredi au dimanche où les éditeurs et les libraires montrent leur marchandises.
 
@@ -77,7 +77,7 @@ Notre groupe comprenait Angela Alvarez, Jeannette Francis, Eva Castel, Luis Beta
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-11-numéro-4-dec-2017">
+        <a href="/fr/index/articles_uf_news_online#volume-11-numéro-4-décembre-2017">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 4, Déc. 2017 — Table des matières</span>
         </a>
         </td>

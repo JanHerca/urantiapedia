@@ -9,13 +9,37 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 James Woodward<br>© 1999 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeff_Wattles/Struggle_and_Peace_with_the_Fatherhood_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lucha y Paz con la Paternidad de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jerry_Prentice/Education_and_Family">
+          <span class="pr-2">Educación y familia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 James Woodward
 California, Estados Unidos
 
 Una ocasión muy agradable marcó recientemente la refrescante transición en nuestro progreso hacia mejores relaciones entre las dos organizaciones del Libro de Urantia. Este crecimiento continuo tiene su origen en una reunión vital celebrada hace seis meses. En abril de 1998, los líderes de la IUA y la Fraternidad se reunieron en Chicago para discutir abiertamente los temas en cuestión. Había un aire de anticipación entre los participantes, atenuado por los compromisos con las filosofías, pero alimentado por el deseo de restaurar el tejido de la cooperación humana en el trabajo de ambos grupos. La reunión principal incluyó declaraciones de visión y estructura organizacional, que resaltaron diferencias notables en el enfoque de la agenda. Sin embargo, un orador de la Fraternidad proporcionó una piedra de toque para el objetivo común, que encontró un acuerdo general inmediato y unido. Sara Blackstock, abuela trabajadora, maestra y administradora de escuela primaria, habló sobre un proyecto que ella preside, el Comité de Vida Familiar. Los dirigentes de las dos organizaciones dedicadas a presentar la Quinta Revelación al mundo no pudieron encontrar lugar para el desacuerdo cuando Sara leyó su declaración.
 
-Jesús dijo: «_La gente de otra época comprenderá mejor el evangelio del reino cuando éste sea presentado en unos términos que expresen la relación familiar —cuando el hombre comprenda la religión como la enseñanza de la paternidad de Dios y la fraternidad de los hombres, la filiación con Dios._»” [[LU 142:7.4](/es/The_Urantia_Book/142#p7_4)]
+Jesús dijo: «_La gente de otra época comprenderá mejor el evangelio del reino cuando éste sea presentado en unos términos que expresen la relación familiar —cuando el hombre comprenda la religión como la enseñanza de la paternidad de Dios y la fraternidad de los hombres, la filiación con Dios._»” <a id="a41_298"></a>[[LU 142:7.4](/es/The_Urantia_Book/142#p7_4)]
 
 Como «hombres de otra época», aceptamos el desafío de Jesús de presentar el evangelio "en términos que expresen las relaciones familiares", para ello debemos comprometernos a fortalecer el ideal de «la familia», fomentando la cultura espiritual de la familia. y empoderando a los padres para que revelen el amor de Dios a sus hijos, a través de los recursos acumulados, ofreciendo a la familia programas y servicios específicos para la FAMILIA en todos los niveles.
 
@@ -37,4 +61,28 @@ La última actividad fue otro ejercicio práctico de creatividad, esta vez con c
 
 Este evento demuestra todo lo bueno de los lectores de El libro de Urantia y sirve como modelo inspirado para quienes participan en este servicio voluntario continuo. Esto confirma que las personalidades, cuando verdaderamente desean evolucionar en gracia, encuentran posible elevarse por encima de los programas preestablecidos. Los grupos motivados de todas partes podrían buscar formas de promover la participación mutua en actividades positivas; y el aspecto familiar es el que ofrece grandes promesas. Este es un momento bendito para reflexionar sobre el futuro del movimiento unificado en sus esfuerzos espirituales de largo alcance.
 
-> _El mismo amor de Dios por el individuo engendra la familia divina de todos los individuos, la fraternidad universal de los hijos del Padre Paradisiaco dotados de libre albedrío._ [[LU 12:7.10](/es/The_Urantia_Book/12#p7_10)]
+> _El mismo amor de Dios por el individuo engendra la familia divina de todos los individuos, la fraternidad universal de los hijos del Padre Paradisiaco dotados de libre albedrío._ <a id="a63_182"></a>[[LU 12:7.10](/es/The_Urantia_Book/12#p7_10)]
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeff_Wattles/Struggle_and_Peace_with_the_Fatherhood_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lucha y Paz con la Paternidad de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jerry_Prentice/Education_and_Family">
+          <span class="pr-2">Educación y familia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

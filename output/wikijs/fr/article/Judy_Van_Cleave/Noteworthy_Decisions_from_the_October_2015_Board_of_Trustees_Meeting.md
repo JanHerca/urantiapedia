@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-4-dec-2015">
+        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-4-décembre-2015">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 4, Déc. 2015 — Table des matières</span>
         </a>
         </td>
@@ -43,7 +43,7 @@ _Par Judy Van Cleave, trustee de la Fondation Urantia, Idaho, États-Unis_
 
 ## Finances
 
-C’est le moment de la collecte de fonds à égalisation d’hiver. Le but est $190 000. Un petit groupe de donateurs a promis $190 000 à condition que nous collections un autre $190 000 avant la fin de l’année. Pour chaque dollar donné, ces donateurs en donneront un autre. Vos donations payeront directement pour les traductions, les révisions de traduction, l’impression du livre et sa distribution, les activités du site web, la sensibilisation et l’éducation. Aidez-nous s’il vous plait !
+C’est le moment de la collecte de fonds à égalisation d’hiver. Le but est $190 000. Un petit groupe de donateurs a promis $190 000 à condition que nous collections un autre $190 000 avant la fin de l’année. Pour chaque dollar donné, ces donateurs en donneront un autre. Vos donations payeront directement pour les traductions, les révisions de traduction, l’impression du livre et sa distribution, les activités du site web, la sensibilisation et l’éducation. Aidez-nous s’il vous plait !
 
 Le Conseil d’Administration a approuvé le budget préliminaire de 2016. Le budget est en-dessous des dépenses normales des derniers cinq ans. Pour le dire autrement, le budget de 2016 est moindre que les dépenses des années 2011, 2012, 2013, et 2014. Dépenser l’argent des donateurs aussi sagement que possible est la priorité la plus importante. Si nous engagions un directeur exécutif, les dépenses croîtraient, mais pour 2016, nous pourrons minimiser les dépenses.
 
@@ -51,7 +51,7 @@ Le Conseil d’Administration a approuvé le budget préliminaire de 2016. Le bu
 
 La Fondation Urantia, L’Association Urantia Internationale et la Fellowship du Livre d’Urantia ont tenu un stand au Parlement des Religions du Monde à Salt Lake City, Utah, en octobre. Des membres des trois organisations tinrent le stand, faisant connaître à beaucoup de visiteurs _Le Livre d’Urantia_, ils donnèrent de la documentation, vendirent des livres et animèrent plusieurs ateliers et présentations. Le succès de cette expérience devrait faire grandir notre optimisme sur la paix et la bonne volonté, ceci devenant la conduite standard entre les lecteurs du livre et des organisations engagées avec _Le Livre d’Urantia._ La coopération s’améliore et le futur apparaît brillant.
 
-Le trustee associé Richard Jernigan, a créé une magnifique vidéo sur _Le Livre d’Urantia_ qui débuta à la présentation de Gard Jameson au Parlement. Cliquez ici pour le voir : [https://www.urantia.org/urantia-book-video](https://www.urantia.org/urantia-book-video).
+Le trustee associé Richard Jernigan, a créé une magnifique vidéo sur _Le Livre d’Urantia_ qui débuta à la présentation de Gard Jameson au Parlement. Cliquez ici pour le voir : [https://www.urantia.org/urantia-book-video](https://www.urantia.org/urantia-book-video).
 
 ## Ventes de livres
 
@@ -63,7 +63,7 @@ Encore plus remarquable, ce fut la rapidité du mouvement vers les appareils mob
 
 ## Corps Exécutif de service
 
-Les six derniers mois, un groupe d’exécutifs retraités, caritatif et non caritatif, ont travaillé avec la Fondation Urantia pour créer un plan sur cinq ans. Ils ont interrogé 25 personnes à l’intérieur et à l’extérieur de l’organisation. Ils en ont conclu que quatre zones stratégiques avaient besoin d’attention de planning pour le futur. Elles étaient 1) la succession du comité d’administration et ses devoirs, 2) le personnel, 3) les finances et 4) apporter le livre et ses enseignements à travers le monde. Lors de la réunion du comité d’administration d’octobre, nous avons passé une demi- journée à écouter leurs découvertes et à parler des buts pour cinq ans et des priorités. Finalement, un plan d’action détaillé sera implémenté qui comprendra des buts à atteindre, des priorités, des sujets d’action, des responsabilités et certaines dates.
+Les six derniers mois, un groupe d’exécutifs retraités, caritatif et non caritatif, ont travaillé avec la Fondation Urantia pour créer un plan sur cinq ans. Ils ont interrogé 25 personnes à l’intérieur et à l’extérieur de l’organisation. Ils en ont conclu que quatre zones stratégiques avaient besoin d’attention de planning pour le futur. Elles étaient 1) la succession du comité d’administration et ses devoirs, 2) le personnel, 3) les finances et 4) apporter le livre et ses enseignements à travers le monde. Lors de la réunion du comité d’administration d’octobre, nous avons passé une demi- journée à écouter leurs découvertes et à parler des buts pour cinq ans et des priorités. Finalement, un plan d’action détaillé sera implémenté qui comprendra des buts à atteindre, des priorités, des sujets d’action, des responsabilités et certaines dates.
 
 ## Traductions et Révisions
 
@@ -73,7 +73,7 @@ En dehors des activités de traductions et de révisions, des progrès ont été
 
 L’École Internet du Livre d’Urantia (UBIS) propose des cours en portugais pour la première fois ce trimestre d’automne. Les classes furent remplies en 48h, UBIS offre maintenant des classes en anglais, espagnol, français et portugais. Le conseil d’administration d’UBIS s’est réuni au début de novembre au bureau de la Fondation pour s’attaquer à un agenda rigoureux pour l’année à venir. L’équipe des volontaires d’UBIS a fait un travail magnifique d’apport des enseignements de la Révélation Urantia aux étudiants intéressés.
 
-Le Comité d’Éducation a fait part de trois séminaires éducatifs : « Danser avec Dieu », « Vivre une Vie de Compassion », et un « Symposium Scientifique ».
+Le Comité d’Éducation a fait part de trois séminaires éducatifs : « Danser avec Dieu », « Vivre une Vie de Compassion », et un « Symposium Scientifique ».
 
 ## Le Label d’Impression
 
@@ -96,7 +96,7 @@ En 2014 la Fondation Urantia, a créé un label d’impression pour publier des 
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-4-dec-2015">
+        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-4-décembre-2015">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 4, Déc. 2015 — Table des matières</span>
         </a>
         </td>

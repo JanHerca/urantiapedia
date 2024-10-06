@@ -20,7 +20,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-![help_html_editor.png](/image/help_html_editor.png){.radius-5 .decor-shadow}
+![](/image/help/help_html_editor.png){.radius-5 .decor-shadow}
 
 Este editor de HTML destina-se a contribuidores com conhecimento de HTML. Não permite ter uma pré-visualização e destina-se principalmente a poder ver o código HTML interno de uma página, uma vez que todas as páginas, independentemente do editor que as gerou, produzem código HTML no final.
 

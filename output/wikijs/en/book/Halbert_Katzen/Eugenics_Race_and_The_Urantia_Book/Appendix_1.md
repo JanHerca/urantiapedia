@@ -309,7 +309,7 @@ Within *The Urantia Book*’s framework for defining humanity, the essential hum
 
 ## External links
 
-* This report in UBTheNews webpage: http://ubannotated.com/ubthenews/Eugenics_Race_Urantia_Book/
+* [This report in UBTheNews webpage](http://ubannotated.com/ubthenews/Eugenics_Race_Urantia_Book/)
 
 ## Footnotes & References
 

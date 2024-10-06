@@ -25,7 +25,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </td>
         <td>
         <a href="/es/article/Luz_y_Vida/Encuentro_de_Lectores_del_Libro_de_Urantia_6">
-          <span class="pr-2">VI Encuentro de Lectores del Libro de Urantia en España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">VI Encuentro de Lectores del _Libro de Urantia_ en España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -62,7 +62,7 @@ Publicado en el [no 31 del boletín «Le Lien Urantien»](/fr/article/Chris_Rage
         </td>
         <td>
         <a href="/es/article/Luz_y_Vida/Encuentro_de_Lectores_del_Libro_de_Urantia_6">
-          <span class="pr-2">VI Encuentro de Lectores del Libro de Urantia en España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">VI Encuentro de Lectores del _Libro de Urantia_ en España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

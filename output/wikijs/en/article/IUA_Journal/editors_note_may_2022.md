@@ -53,7 +53,7 @@ Our final article, _Why Participate in a Study Group?_ by Gaétan Charland, is a
 
 ## References
 
-- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-may-2022/)
 - [This article](https://urantia-association.org/editors-note-may-2022)
 

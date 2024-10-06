@@ -80,7 +80,7 @@ Découvrez cette jolie carte des endroits où nous voulons aller pour répandre 
 
 (Pour voir la grande carte interactive, allez sur : www.urantiabook.org/outreach/map)
 
-Dans quelle mesure êtes-vous ravi d'avoir _Le Livre d'Urantia_ ? Nous avons besoin de votre aide pour continuer ce travail et diffuser cette révélation dans le monde ! Nous avons une très bonne équipe cette année avec le comité de sensibilisation. Il y a 7 bénévoles qui sont en train de diffuser les grandes vérités trouvées dans _Le Livre d'Urantia_ aux gens à travers le pays !
+Dans quelle mesure êtes-vous ravi d'avoir _Le Livre d'Urantia_ ? Nous avons besoin de votre aide pour continuer ce travail et diffuser cette révélation dans le monde ! Nous avons une très bonne équipe cette année avec le comité de sensibilisation. Il y a 7 bénévoles qui sont en train de diffuser les grandes vérités trouvées dans _Le Livre d'Urantia_ aux gens à travers le pays !
 
 La carte devient interactive lorsque vous cliquez dessus. Vous pouvez faire un don pour aider à n’importe quel événement dans n’importe quelle ville de votre choix en cliquant sur cette ville ou simplement en allant sur www.urantiabook.org et en cliquant sur FAIRE UN DON dans la barre de menu supérieure.
 
@@ -134,7 +134,7 @@ L'équipe continue de planifier de nouvelles fonctionnalités et d'apporter les 
 
 Un défi des plus redoutables consiste à maintenir la base de données à jour et à garantir que seuls les groupes d'études actifs soient répertoriés dans l’annuaire. À cette fin, une campagne a débuté ce printemps pour contacter tous les hôtes de groupes d'étude et leur demander de valider les informations de leur groupe d'étude.
 
-REMARQUE SPÉCIALE : Les groupes d'étude qui ne répondent pas peuvent être supprimés du répertoire ! Étonnamment, amener tous les groupes d’étude répertoriés à vérifier périodiquement leurs informations actuelles s’est avéré être l’un des plus grands, parmi les nombreux grands défis, auquel l’équipe de l’LUSGD a été confrontée au cours de ces premières années.
+REMARQUE SPÉCIALE : Les groupes d'étude qui ne répondent pas peuvent être supprimés du répertoire ! Étonnamment, amener tous les groupes d’étude répertoriés à vérifier périodiquement leurs informations actuelles s’est avéré être l’un des plus grands, parmi les nombreux grands défis, auquel l’équipe de l’LUSGD a été confrontée au cours de ces premières années.
 
 Un autre développement intéressant et important ces dernières années a été la croissance des groupes d'étude virtuels via l’utilisation de Skype, FaceTime et d'autres outils de communication permettant aux groupes d'étude locaux d'inclure des invités virtuels. L'LUSGD s'efforce d'intégrer des groupes d'étude virtuels dans les routines de recherche.
 
@@ -144,7 +144,7 @@ Veuillez visiter le site et inscrire votre groupe d'étude. Si votre groupe d'é
 
 Aidez-nous à faire évoluer cette précieuse ressource et à maintenir son contenu à la fois pertinent et précis.
 
-Les membres actuels de l’équipe LUSGD sont : Bill Beasley, Scott Brooks, Barry Clark, Jacquelyn Koury et Tamara Strumfeld.
+Les membres actuels de l’équipe LUSGD sont : Bill Beasley, Scott Brooks, Barry Clark, Jacquelyn Koury et Tamara Strumfeld.
 
 ## Mise à jour du projet Joshua ben Joseph
 
@@ -196,7 +196,7 @@ S'il vous plaît laissez-nous savoir si vous souhaitez faire du bénévolat pend
 ## Personnel du « The Mighty Messenger »
 
 Publié par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship.
-Membres : Linda Buselli, présidente Cece Forrester, David Glass, Nancy Johnson, Sage Waitts
+Membres : Linda Buselli, présidente Cece Forrester, David Glass, Nancy Johnson, Sage Waitts
 877.288.3772
 bourse@urantiabook.org
 www.urantiabook.org

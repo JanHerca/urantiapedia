@@ -45,7 +45,7 @@ _Par Judy Van Cleave, secrétaire de la Fondation Urantia, Idaho, Ètats-Unis_
 
 ## 1. Les améliorations apportées au site de la Fondation Urantia
 
-Le conseil d’administration a approuvé la mise à jour du « look » du site web de la Fondation Urantia. Le nouveau look rend la navigation sur le site plus facile pour les visiteurs internationaux. Le conseil d’administration a également approuvé une équipe de gestion de nouveau contenu de réseau, responsable de garder urantia.org et les médias sociaux actuels et intéressants.
+Le conseil d’administration a approuvé la mise à jour du « look » du site web de la Fondation Urantia. Le nouveau look rend la navigation sur le site plus facile pour les visiteurs internationaux. Le conseil d’administration a également approuvé une équipe de gestion de nouveau contenu de réseau, responsable de garder urantia.org et les médias sociaux actuels et intéressants.
 
 ## 2. Parrainage de la conférence internationale de l’AUI de juillet 2015, au Québec, Canada
 

@@ -3,7 +3,7 @@ title: "La fiesta del Perdón"
 description: 
 published: true
 date: 2023-09-28T14:02:03.086Z
-tags: Jesus, Jesus times
+tags: Jesus, Jesus times, Judaism, religion, article
 editor: markdown
 dateCreated: 2023-09-28T14:02:03.086Z
 ---

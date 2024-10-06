@@ -39,7 +39,7 @@ Vallée de Chino, Arizona, États-Unis
 
 L'organigramme qui l'accompagne est présenté pour stimuler la réflexion et la discussion parmi les étudiants intéressés par _Le Livre d'URANTIA_. Il représente la tentative d'un de ces étudiants d'intégrer ce que le livre semble dire sur la personnalité. Il semble y avoir quelques incohérences dans le texte, mais il faut se rappeler, premièrement, que différents auteurs sont susceptibles d'énoncer les choses différemment, et deuxièmement, les auteurs eux-mêmes admettent ne pas comprendre complètement la nature de la personnalité.
 
-Ce qui suit aidera à expliquer le contenu du graphique, de haut en bas et de gauche à droite :
+Ce qui suit aidera à expliquer le contenu du graphique, de haut en bas et de gauche à droite :
 
 La moitié gauche du tableau représente le contenu du « soi » total sur Urantia. La moitié droite représente la même chose après la transition de la mort.
 

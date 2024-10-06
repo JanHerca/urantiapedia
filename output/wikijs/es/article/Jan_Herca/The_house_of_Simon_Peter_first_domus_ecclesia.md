@@ -3,7 +3,7 @@ title: "La «casa de Simón Pedro», ¿primera domus-ecclesia?"
 description: 
 published: true
 date: 2023-09-28T14:02:03.086Z
-tags: Jesus, Jesus times, place
+tags: Jesus, Jesus times, place, article
 editor: markdown
 dateCreated: 2023-09-28T14:02:03.086Z
 ---
@@ -79,7 +79,6 @@ Y antes de terminar dejo aquí una anécdota interesante para los lectores de _E
 ## Enlaces externos
 
 * [Artículo original](https://buscandoajesus.wordpress.com/articulos/la-casa-de-simon-pedro-primera-domus-ecclesia/)
-
 
 ## Referencias
 

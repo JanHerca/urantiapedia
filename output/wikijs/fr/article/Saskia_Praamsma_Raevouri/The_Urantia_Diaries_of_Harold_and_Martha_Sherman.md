@@ -46,9 +46,9 @@ Pour ceux qui s'intéressent à l’histoire du mouvement Urantia, [Square Circl
 
 Ces livres sont une révision des cinq volumes _Sherman Diaries_, que certains d'entre vous ont peut-être achetés il y a plusieurs années, mais contiennent du matériel supplémentaire, un certain nombre de corrections et un index. Ils totalisent environ 2 500 pages. Quelle que soit votre opinion sur Harold Sherman, vous ne trouverez nulle part ailleurs cinq années consécutives -- 1942-1947 -- d'activités détaillées et de témoins oculaires de l’activité du Forum Urantia, ainsi qu’une correspondance en coulisses avec les Forumites avec lesquels ils se sont liés d'amitié après avoir quitté Chicago en 1947. jusqu’à la publication du livre en 1955 .
 
-Pour une description et des informations d'achat, veuillez cliquer ici : https://squarecircles.com/the-urantia-diaries/
+Pour une description et des informations d'achat, veuillez cliquer ici : https://squarecircles.com/the-urantia-diaries/
 
-Pour avoir une idée du contenu, voici un lien vers l’index que Matthieu a minutieusement compilé : https://squarecircles.com/index-to-the-urantia-diaries/
+Pour avoir une idée du contenu, voici un lien vers l’index que Matthieu a minutieusement compilé : https://squarecircles.com/index-to-the-urantia-diaries/
 
 Nous travaillons actuellement sur le Volume Six (1955-1987) qui contient de nombreuses communications inédites entre les Sherman et les Forumites, et révèle « l’autre côté » des questions controversées, dans les lettres à Harold Sherman de ceux qui se sentaient été injustement traité par le « siège » - Robert Burton et Jacques Weiss pour n’en citer que deux. Les Sherman ont quitté Chicago, mais ils n’ont jamais vraiment sorti « Urantia » de leur système et ont suivi les événements de près jusqu’au jour de leur mort.
 

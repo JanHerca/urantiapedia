@@ -3,12 +3,29 @@ title: Gobekli Tepe
 description: 
 published: true
 date: 2021-11-28T11:16:41.388Z
-tags: 
+tags: Anthropology, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
-Autor: **Halbert Katzen J.D.** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+_Por Halbert Katzen J.D._
 
 <figure id="Gobekli_Tepe_fig_1" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Gobekli_Tepe/gobeklitepe01.jpg" width="1200" heigth="996">
@@ -40,7 +57,7 @@ Las teorías sobre la historia de la civilización humana se basan en evidencias
 
 *El Libro de Urantia* proporciona una historia de la humanidad que se armoniza perfectamente con los descubrimientos que se realizan en Gobekli Tepe. Presenta una explicación de los misterios de Gobekli Tepe en términos de una historia de Adán y Eva que varía significativamente del registro del Antiguo Testamento, pero que, según afirman los autores, es la base de muchos de nuestros mitos y tradiciones religiosas sobre los orígenes de la humanidad. No es de extrañar, debido a la naturaleza inusual y la edad de este sitio arqueológico, que los expertos rápidamente comenzaran a especular sobre cómo se podría relacionar con las tradiciones religiosas acerca de Adán y Eva. Entonces, en cierto sentido, la explicación de *El Libro de Urantia* encaja bien con las especulaciones académicas sobre la importancia de Gobekli Tepe. Aún así, mientras se demuestran paralelismos claros, los aspectos únicos de la historia de Adán y Eva que se encuentran en *El Libro de Urantia*, sin duda, también plantearán muchas preguntas.
 
-Este informe no intentará proporcionar todas las respuestas. Se pueden encontrar algunas explicaciones leyendo el informe [Adán y Eva](/es/article/Halbert_Katzen/Adam_and_Eve) y el informe [El Jardín del Edén](/es/article/Halbert_Katzen/Garden_of_Eden). Para una comprensión más completa, lea los documentos 73 a 80 en *El Libro de Urantia*. Además, es posible que desee revisar el informe [Eugenesia, razas y El Libro de Urantia](/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index). En enero de 2011, UBtheNEWS preparó y publicó la primera y única revisión exhaustiva de este tema.
+Este informe no intentará proporcionar todas las respuestas. Se pueden encontrar algunas explicaciones leyendo el informe [Adán y Eva](/es/article/Halbert_Katzen/Adam_and_Eve) y el informe [El Jardín del Edén](/es/article/Halbert_Katzen/Garden_of_Eden). Para una comprensión más completa, lea los documentos 73 a 80 en *El Libro de Urantia*. Además, es posible que desee revisar el informe [Eugenesia, razas y El Libro de Urantia](/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book#índice). En enero de 2011, UBtheNEWS preparó y publicó la primera y única revisión exhaustiva de este tema.
 
 <figure id="Gobekli_Tepe_fig_3" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Gobekli_Tepe/gobeklitepe03.jpg" width="700" heigth="410">
@@ -191,7 +208,6 @@ La asociación de la talla del hombre sin cabeza erecto en lo que parece ser la 
 <figcaption><em>Detalles de Gobekli Tepe</em></figcaption>
 </figure>
 
-
 Las obras de arte de Gobekli Tepe son razonablemente consistentes con el relato de *El Libro de Urantia* sobre la desafortunada partida de Adán y Eva del Jardín del Edén. Al carecer de evidencias de un animal tótem específico y dada la variedad de animales peligrosos, las tallas pueden interpretarse como que reflejar el trauma de tener que abandonar su jardín original protegido.
 
 Otro aspecto digno de mención del arte y la arquitectura se refiere a la colocación de piedras y las marcas en ellos que indican que representan personas. Las habitaciones son redondas y cuentan con dos piedras más grandes en el centro. Considere esta configuración a la luz de los siguientes dos extractos sobre la relación entre Adán y Eva y las prácticas familiares de sus descendientes, los anditas.
@@ -214,7 +230,6 @@ En la [\[Figura 12\]](#Gobekli_Tepe_fig_12) de la estatuilla con la vista fronta
 <img src="/image/article/Halbert_Katzen/Gobekli_Tepe/Gobekli-sperm.jpg" width="1400" heigth="520">
 <figcaption><em>A la izquierda una estatuilla mostrando lo que parecen espematozoides individuales. En la más a la derecha parecen ser muchos nadando en paralelo.</em></figcaption>
 </figure>
-
 
 En la [\[Figura 12\]](#Gobekli_Tepe_fig_12) de uno de los pilares con los dedos alrededor de las esquinas, observe la parte de la talla que parece dos semicírculos con una «H» en el medio. Dada la información sobre Adán enseñando a la gente acerca de «los factores de la vida que se unen para formar un nuevo ser», ¿cómo podríamos interpretar este símbolo consistente con lo que sabemos hoy sobre biología?
 
@@ -288,7 +303,7 @@ Para una excelente comprensión de cómo este tema se relaciona con el desarroll
 
 ## Conclusión
 
-El relato de *El Libro de Urantia* sobre el destino de los adamitas ayuda mucho a explicar lo que es tan terriblemente confuso sobre Gobekli Tepe para los antropólogos y arqueólogos. Y cuando se considera junto con el informe de [Adán y Eva](/es/article/Halbert_Katzen/Adam_and_Eve) y el informe [El Jardín del Edén](/es/article/Halbert_Katzen/Garden_of_eden), ¡la forma en que *El Libro de Urantia* explica los misterios multifacéticos de Gobekli Tepe es aún más impresionante!
+El relato de *El Libro de Urantia* sobre el destino de los adamitas ayuda mucho a explicar lo que es tan terriblemente confuso sobre Gobekli Tepe para los antropólogos y arqueólogos. Y cuando se considera junto con el informe de [Adán y Eva](/es/article/Halbert_Katzen/Adam_and_Eve) y el informe [El Jardín del Edén](/es/article/Halbert_Katzen/Garden_of_Eden), ¡la forma en que *El Libro de Urantia* explica los misterios multifacéticos de Gobekli Tepe es aún más impresionante!
 
 ## Enlaces
 
@@ -301,41 +316,55 @@ El relato de *El Libro de Urantia* sobre el destino de los adamitas ayuda mucho 
 
 ## Enlaces externos
 
-* Este informe en el sitio web de UBTheNews: https://ubannotated.com/main-menu/animated/topical-studies/gobekli-tepe/
-
+* [Este informe en el sitio web UBTheNews](https://ubannotated.com/main-menu/animated/topical-studies/gobekli-tepe/)
+* [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios Temáticos en el sitio UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 * Wikipedia: https://es.wikipedia.org/wiki/G%C3%B6bekli_Tepe
-
 * Sitio web de Andrew Collins sobre Gobekli Tepe: http://www.andrewcollins.com/page/articles/Gobekli.htm
-
 * Shaena Montanari, *Hints of Skull Cult Found at World's Oldest Temple*, National Geographic, junio 2017. https://www.nationalgeographic.com/news/2017/06/skulls-cult-turkey-archaeology-neolithic-gobekli/. Trata las marcas de cráneos de Gobekli Tepe.
-
 * John Hurd y Dan Thompson, *Preliminary Site Conservation Inspection and First Mortar and Plaster Documentation Report, Göbekli Tepe, Turkey*, *Global Heritage Fund*, septiembre 2011. http://ghn.globalheritagefund.com/uploads/documents/document_2018.pdf. Gobekli Tepe tiene la evidencia más temprana para el desarrollo del cemento.
-
 * Byron Belitsos organizó una conferencia sobre «Revelación evolutiva» en junio de 2014. Esta presentación de Halbert Katzen aborda cuestiones relacionadas con la aceptación progresiva de la revelación de Urantia, ya que esto se relaciona con cómo los nuevos descubrimientos y avances científicos respaldan cada vez más la historia en _El Libro de Urantia_. Una revisión del informe *Gobekli Tepe* es parte de esta presentación. https://www.youtube.com/watch?v=Q1zX_iog1SM
-
 * Martin Robinson, *Piles of ancient rubbish could prove incredible temple that's 6,500 years older than Stonehenge was actually a house*, Daily Mail, octubre 2011. https://www.dailymail.co.uk/news/article-2050908/Gobekli-Tepe-Temple-thats-6-500-years-older-Stonehenge-house.html. Artículo que especula sobre Gobekli Tepe y el Jardín del Edén.
-
 * Andrew Curry, *Gobekli Tepe: The World’s First Temple?*, *Smithsonian Magazine*, noviembre 2008. https://www.smithsonianmag.com/history/gobekli-tepe-the-worlds-first-temple-83613665/, artículo del Smithsonian.
-
 * *Göbekli Tepe in Turkey: A 12,000-year-old Temple Complex*, Red Ice.TV, http://www.redicecreations.com/article.php?id=3487, con algunas buenas imágenes.
+
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+<br>
 
 ## Referencias
 
-[^1]: La genética dispone de un tipo genes que cumplen esta forma de actuación, y se llaman genes recesivos. Por ejemplo, los ojos azules, que aparecen por un gen recesivo, se cuenta en *El Libro de Urantia* que surgieron en el mundo porque Adán y Eva los tenían así y los transmitieron al mundo a través de su descendencia. <a id="a323_325"></a>[LU 76:4.1](/es/The_Urantia_Book/76#p4_1)
+[^1]: La genética dispone de un tipo genes que cumplen esta forma de actuación, y se llaman genes recesivos. Por ejemplo, los ojos azules, que aparecen por un gen recesivo, se cuenta en *El Libro de Urantia* que surgieron en el mundo porque Adán y Eva los tenían así y los transmitieron al mundo a través de su descendencia. <a id="a352_325"></a>[LU 76:4.1](/es/The_Urantia_Book/76#p4_1)
 
-[^2]: <a id="a325_6"></a>[LU 101:4.8-9](/es/The_Urantia_Book/101#p4_8)
+[^2]: <a id="a354_6"></a>[LU 101:4.8-9](/es/The_Urantia_Book/101#p4_8)
 
-[^3]: <a id="a327_6"></a>[LU 76:3.8](/es/The_Urantia_Book/76#p3_8)
+[^3]: <a id="a356_6"></a>[LU 76:3.8](/es/The_Urantia_Book/76#p3_8)
 
-[^4]: <a id="a329_6"></a>[LU 76:4.3](/es/The_Urantia_Book/76#p4_3)
+[^4]: <a id="a358_6"></a>[LU 76:4.3](/es/The_Urantia_Book/76#p4_3)
 
-[^5]: <a id="a331_6"></a>[LU 76:4.5](/es/The_Urantia_Book/76#p4_5)
+[^5]: <a id="a360_6"></a>[LU 76:4.5](/es/The_Urantia_Book/76#p4_5)
 
-[^6]: <a id="a333_6"></a>[LU 78:3.1](/es/The_Urantia_Book/78#p3_1)
+[^6]: <a id="a362_6"></a>[LU 78:3.1](/es/The_Urantia_Book/78#p3_1)
 
-[^7]: <a id="a335_6"></a>[LU 78:5.2](/es/The_Urantia_Book/78#p5_2)
+[^7]: <a id="a364_6"></a>[LU 78:5.2](/es/The_Urantia_Book/78#p5_2)
 
-[^8]: <a id="a337_6"></a>[LU 78:6.1](/es/The_Urantia_Book/78#p6_1)
+[^8]: <a id="a366_6"></a>[LU 78:6.1](/es/The_Urantia_Book/78#p6_1)
 
 [^9]: *Which came first, monumental building projects or farming?* (*¿Que apareció primero, los edificios monumentales o la agricultura?*), Archaeo News, diciembre 2008. http://www.stonepages.com/news/archives/003061.html
 
@@ -347,41 +376,41 @@ El relato de *El Libro de Urantia* sobre el destino de los adamitas ayuda mucho 
 
 [^13]: Sean Thomas, *Gobekli Tepe – Paradise Regained?* (*Gobekli Tepe – ¿La recuperación del Paraíso?*), ForteanTimes, marzo 2007. https://web.archive.org/web/20100604191934/http://www.forteantimes.com/features/articles/449/gobekli_tepe_paradise_regained.html [Enlace original requiere ahora de subscripción]
 
-[^14]: <a id="a349_7"></a>[LU 78:2.4](/es/The_Urantia_Book/78#p2_4)
+[^14]: <a id="a378_7"></a>[LU 78:2.4](/es/The_Urantia_Book/78#p2_4)
 
-[^15]: <a id="a351_7"></a>[LU 76:3.8](/es/The_Urantia_Book/76#p3_8)
+[^15]: <a id="a380_7"></a>[LU 76:3.8](/es/The_Urantia_Book/76#p3_8)
 
 [^16]: Austrian Times, artículo de 25 de febrero de 2011
 
-[^17]: <a id="a355_7"></a>[LU 74:3.4](/es/The_Urantia_Book/74#p3_4)
+[^17]: <a id="a384_7"></a>[LU 74:3.4](/es/The_Urantia_Book/74#p3_4)
 
-[^18]: <a id="a357_7"></a>[LU 52:1.5](/es/The_Urantia_Book/52#p1_5)
+[^18]: <a id="a386_7"></a>[LU 52:1.5](/es/The_Urantia_Book/52#p1_5)
 
-[^19]: <a id="a359_7"></a>[LU 66:5.6](/es/The_Urantia_Book/66#p5_6)
+[^19]: <a id="a388_7"></a>[LU 66:5.6](/es/The_Urantia_Book/66#p5_6)
 
-[^20]: <a id="a361_7"></a>[LU 73:4.1](/es/The_Urantia_Book/73#p4_1)
+[^20]: <a id="a390_7"></a>[LU 73:4.1](/es/The_Urantia_Book/73#p4_1)
 
-[^21]: <a id="a363_7"></a>[LU 84:7.29](/es/The_Urantia_Book/84#p7_29)
+[^21]: <a id="a392_7"></a>[LU 84:7.29](/es/The_Urantia_Book/84#p7_29)
 
-[^22]: <a id="a365_7"></a>[LU 74:7.22](/es/The_Urantia_Book/74#p7_22)
+[^22]: <a id="a394_7"></a>[LU 74:7.22](/es/The_Urantia_Book/74#p7_22)
 
 [^23]: La inspiración para interpretar la «H» surgió de un informe genético, que me envió Luis Marco, que brinda un apoyo notable a la datación de *El Libro de Urantia* de las razas sangik y los neandertales. Consulte la página de investigación *Doble origen dual del hombre moderno y hombre premoderno* para seguir este informe de investigación de 2019 de UC Davis. http://ubannotated.com/ubthenews/topics/Modern_Man_Origin/
 
-[^24]: <a id="a369_7"></a>[LU 78:5.4](/es/The_Urantia_Book/78#p5_4)
+[^24]: <a id="a398_7"></a>[LU 78:5.4](/es/The_Urantia_Book/78#p5_4)
 
-[^25]: <a id="a371_7"></a>[LU 78:5.7-8](/es/The_Urantia_Book/78#p5_7)
+[^25]: <a id="a400_7"></a>[LU 78:5.7-8](/es/The_Urantia_Book/78#p5_7)
 
 [^26]: Hay programado un estudio temático sobre este tema: *Sombreros con cabeza de pez*, http://ubannotated.com/main-menu/animated/topical-studies/fish-head-hats/
 
-[^27]: <a id="a375_7"></a>[LU 76:4.8](/es/The_Urantia_Book/76#p4_8)
+[^27]: <a id="a404_7"></a>[LU 76:4.8](/es/The_Urantia_Book/76#p4_8)
 
-[^28]: <a id="a377_7"></a>[LU 78:3.6](/es/The_Urantia_Book/78#p3_6)
+[^28]: <a id="a406_7"></a>[LU 78:3.6](/es/The_Urantia_Book/78#p3_6)
 
-[^29]: <a id="a379_7"></a>[LU 78:6.5](/es/The_Urantia_Book/78#p6_5)
+[^29]: <a id="a408_7"></a>[LU 78:6.5](/es/The_Urantia_Book/78#p6_5)
 
-[^30]: <a id="a381_7"></a>[LU 78:6.8](/es/The_Urantia_Book/78#p6_8)
+[^30]: <a id="a410_7"></a>[LU 78:6.8](/es/The_Urantia_Book/78#p6_8)
 
-[^31]: <a id="a383_7"></a>[LU 49:5.19](/es/The_Urantia_Book/49#p5_19)
+[^31]: <a id="a412_7"></a>[LU 49:5.19](/es/The_Urantia_Book/49#p5_19)
 
 [^32]: https://en.wikipedia.org/wiki/Pineal_gland
 

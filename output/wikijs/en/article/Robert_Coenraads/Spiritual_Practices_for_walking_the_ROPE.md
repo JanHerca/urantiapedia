@@ -403,7 +403,7 @@ Each of the distinct meditative practices we have considered here activate and s
 > *Talk entitled Spiritual Practices for Walking the ROPE, presented at the 2022 ANZURA Annual Conference, Walking the ‘ROPE’ Invitation to Intimacy with God, held at Port Arthur, Tasmania, 21-24 October 2022.
 > 
 > This presentation about Religion of Personal Experience (ROPE) focuses on the practical techniques or tools for maintaining a state of mindful worship, a feeling of contentment and relaxation/calmness/oneness with one's physical surrounds and a feeling of love and tolerance for one's fellows, and developing a meaningful connection the God within.
-{is-info}
+{.is-info}
 
 ## References
 

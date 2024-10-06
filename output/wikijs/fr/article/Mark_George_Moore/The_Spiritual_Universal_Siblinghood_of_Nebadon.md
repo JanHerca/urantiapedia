@@ -41,7 +41,7 @@ _par Mark George Moore/Framy Mâs_
 <br>
 Des sentiers heureux<br>
 Amour Divin<br>
-Prenez soin de vous, frères et sœurs ; soyez de bonne humeur.<br>
+Prenez soin de vous, frères et sœurs ; soyez de bonne humeur.<br>
 La vie est trop précieuse pour s'inquiéter et avoir peur.<br>
 Sachez simplement que vous êtes aimé pour toujours, si cher.<br>
 Fils de marin sur le navire mère,<br>

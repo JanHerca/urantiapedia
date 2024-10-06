@@ -41,7 +41,7 @@ Les personnalités modèles semblent être les premières de leur ordre - comme 
 
 Les personnalités de la même _série_, _ordre_, _type_ ou modèle seront similaires, mais jamais exactement identiques. Les personnalités sur Urantia fonctionnent dans un cadre de superunivers, d'univers locaux et de séries planétaires, d'ordre, de type et de modèle de personnalité, il doit donc y avoir une ressemblance entre les personnalités d'Urantia, par rapport aux autres planètes, aux univers locaux et même aux superunivers. Bien qu'il puisse y avoir des similitudes, chacune est exclusive et est en outre qualifiée par les énergies matérielles, mentales et spirituelles auxquelles la personnalité est conférée.
 
-Les personnalités peuvent suivre des séries, des types, des ordres et des modèles, mais chacune est unique, unique en son genre. Il n'y en a pas deux pareils, ils ne l'ont jamais été et ne le seront jamais ! La personnalité est l'identité d'un individu pour l'éternité.
+Les personnalités peuvent suivre des séries, des types, des ordres et des modèles, mais chacune est unique, unique en son genre. Il n'y en a pas deux pareils, ils ne l'ont jamais été et ne le seront jamais ! La personnalité est l'identité d'un individu pour l'éternité.
 
 Chaque personnalité a une ligne directe avec le Père Universel à travers le circuit de la personnalité, en plus de la conscience de soi et du don inestimable de la volonté de l'arbre. Puisque chaque personnalité sur Urantia (et dans tout l’univers de Dieu) est originale, il s’ensuit que chacune pourrait être considérée comme un « modèle de personnalité ».
 

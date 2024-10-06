@@ -46,7 +46,7 @@ Ce qui m’a toujours le plus convaincu a été cette idée de croissance spirit
 
 Certains des efforts d'Angie pour étudier la croissance spirituelle en tant qu'être humain incluent des études à la [Harvard Divinity School](https://en.wikipedia.org/wiki/Harvard_Divinity_School), cinq ans en tant que Ministry Innovation Fellow, la co-fondatrice du [Sacred Design Lab](https://sacred.design/) (un laboratoire de recherche et développement centré sur l'âme) et collaboration avec sa mère, Claire Thurston, dirigeant un programme appelé Inner Sourcing permettant aux jeunes adultes de se connecter avec leur âme. Ces distinctions ont vécu parallèlement à ses efforts dans la communauté du Livre d'Urantia où elle a aidé à former le comité des jeunes et des jeunes adultes de la Communauté du Livre d'Urantia au milieu des années 2000.
 
-Il y a quelques années à peine, en avril 2017, Angie et ses deux sœurs spirituelles, Liz Craig et Mae Thompson, ont reçu le coup de pouce céleste d'imaginer à quoi cela ressemblerait de mettre en pratique ce que cela signifie, comme on nous le demande dans le « Document 4 : La relation de Dieu avec l'univers » du _Le Livre d'Urantia_, « Ne pouvez-vous pas avancer dans votre conception de la relation de Dieu avec [l'humanité] jusqu'à ce niveau où vous reconnaissez que le mot d'ordre de l'univers est _progrès_ ? <a id="a48_516"></a>[LU 4:1.1](/fr/The_Urantia_Book/4#p1_1) Ils ont donc décidé de prendre le modèle trinitaire du cosmos et de piloter une expérience d'un petit groupe axée sur la croissance spirituelle personnelle.
+Il y a quelques années à peine, en avril 2017, Angie et ses deux sœurs spirituelles, Liz Craig et Mae Thompson, ont reçu le coup de pouce céleste d'imaginer à quoi cela ressemblerait de mettre en pratique ce que cela signifie, comme on nous le demande dans le « Document 4 : La relation de Dieu avec l'univers » du _Le Livre d'Urantia_, « Ne pouvez-vous pas avancer dans votre conception de la relation de Dieu avec [l'humanité] jusqu'à ce niveau où vous reconnaissez que le mot d'ordre de l'univers est _progrès_ ? <a id="a48_516"></a>[LU 4:1.1](/fr/The_Urantia_Book/4#p1_1) Ils ont donc décidé de prendre le modèle trinitaire du cosmos et de piloter une expérience d'un petit groupe axée sur la croissance spirituelle personnelle.
 
 Au cours de leurs réunions bimensuelles, Angie, Liz et Mae ont animé à tour de rôle une vidéoconférence de quatre-vingt-dix minutes. Ils ont passé leur temps à partager en communion, ce qui comprenait la pratique de prières à voix haute devant le groupe. Ils ont chacun pris connaissance de leur vie quotidienne, ont occupé un espace sacré pour faire face aux inévitables défis de la vie qui se présentaient et ont été les pom-pom girls spirituelles les unes des autres, partageant leurs victoires personnelles. Au cours des semaines entre les appels, ils se sont encouragés mutuellement à pratiquer la communion quotidienne avec Dieu, à tenir un journal et à atteindre les objectifs spirituels qu'ils se sont fixés chacun. Toutes ces activités se sont révélées progressives.
 
@@ -57,7 +57,7 @@ Au cours de leurs réunions bimensuelles, Angie, Liz et Mae ont animé à tour d
 
 Après un an de rencontre, les trois sœurs étaient toujours si enthousiastes à propos de leur chemin de progrès qu'elles ont commencé à se demander comment construire une communauté de personnes partageant la même intention de croissance spirituelle. Ils ont déterminé que le but du Projet Progress était d'approfondir les relations personnelles avec le créateur de l'humanité, de partager leur vie intérieure et de se soutenir mutuellement dans leurs objectifs spirituels à travers des relations intentionnelles. Ils étaient prêts à demander à trois autres de les rejoindre. En 2018, Geoff Theiss, Missy Theiss et Aprilhelen ont été invités à devenir la deuxième triade du Progress Project. Les six progressistes ont alors entrepris de conceptualiser un réseau plus large et ont demandé à l'[Institut universitaire d'Urantia](https://urantiauniversity.org/) (UUI) de soutenir la vision spirituelle.
 
-Le semestre d'automne 2020, comme nous le savons tous bien, était parfaitement programmé pour nous lancer dans notre premier cours Progress Project visant à accueillir de nouvelles triades dans le giron. La devise a été créée pour répondre à l'intention « Ensemble dans la croissance spirituelle » de magnétiser ceux qui avaient une admiration mutuelle pour le progrès personnel et global. C'est confirmé; au sein du Progress Project, il existe des triades individuelles de trois membres. Chaque nouvelle triade peut établir et façonner ses propres attentes, langages, objectifs et normes de groupe (avec le soutien des modèles, outils et triades existants, si nécessaire). Toutes les triades du Progress Project partagent trois pratiques cohérentes :
+Le semestre d'automne 2020, comme nous le savons tous bien, était parfaitement programmé pour nous lancer dans notre premier cours Progress Project visant à accueillir de nouvelles triades dans le giron. La devise a été créée pour répondre à l'intention « Ensemble dans la croissance spirituelle » de magnétiser ceux qui avaient une admiration mutuelle pour le progrès personnel et global. C'est confirmé; au sein du Progress Project, il existe des triades individuelles de trois membres. Chaque nouvelle triade peut établir et façonner ses propres attentes, langages, objectifs et normes de groupe (avec le soutien des modèles, outils et triades existants, si nécessaire). Toutes les triades du Progress Project partagent trois pratiques cohérentes :
 
 <br style="clear:both;"/>
 
@@ -67,29 +67,29 @@ Le semestre d'automne 2020, comme nous le savons tous bien, était parfaitement 
 
 En tant que nouveau membre du Progress Project, vous pouvez vous attendre à être accueilli dans une communauté et à vous fournir un ensemble d'outils pour vous aider à poursuivre votre développement spirituel personnel. La triade de trois membres sera une source de responsabilité et de soutien, et vous ferez également partie du plus grand écosystème de toutes les autres triades. Les outils auxquels vous aurez accès sont des applications numériques gratuites que tous les membres du Progress Project utilisent. Ces outils numériques ont été choisis pour créer un sentiment de communauté même lorsque les fuseaux horaires sont étendus. Lorsque vous rejoignez une triade, vous contribuez à façonner une culture unique à vos trois membres. Chaque triade diffère dans la manière dont elle suit ses pratiques de vie intérieure, la fréquence de ses vidéoconférences et le format de chaque réunion.
 
-Le Projet de Progrès, c'est un engagement ! Il est reconnu que le succès de l’ensemble dépend de l’engagement des parties. En vous joignant, vous vous engagez à approfondir votre relation avec votre créateur et à vous présenter à un petit groupe d'autres personnes qui font de même. Pour rejoindre le Progress Project, vous devez :
+Le Projet de Progrès, c'est un engagement ! Il est reconnu que le succès de l’ensemble dépend de l’engagement des parties. En vous joignant, vous vous engagez à approfondir votre relation avec votre créateur et à vous présenter à un petit groupe d'autres personnes qui font de même. Pour rejoindre le Progress Project, vous devez :
 
 1. **Donner la priorité au temps de participation** Les triades réussissent lorsque les membres individuels sont activement engagés dans la promotion de leur développement spirituel et s'engagent à soutenir leurs pairs tout au long du voyage. Se présenter à votre pratique personnelle et aux réunions régulières de la triade est la condition minimale pour réussir.
 2. **Découvrez la culture des autres triades du Progress Project** Chaque triade est unique car les groupes évoluent de cette façon. Les participants potentiels sont invités à notre cours de douze semaines ou à rejoindre des réunions de différentes triades fonctionnelles avant de se lancer seuls. Cela permet à l'espace de ressentir la diversité qui complète l'unité d'esprit de ce projet.
 3. **Terminez une nouvelle orientation triade**. Il est naturel que les groupes personnalisent l'expérience du Progress Project, mais de nouvelles triades sont invitées à suivre le cours de douze semaines afin de partager un socle commun d'expérience pour les différents participants au programme. Un membre d'une triade existante se joindra à ces séances pour vous aider à vous orienter.
 
-Bien que certains détails puissent changer, il s'agit d'un arc général du temps passé ensemble dans le cours Progress Project :
+Bien que certains détails puissent changer, il s'agit d'un arc général du temps passé ensemble dans le cours Progress Project :
 
-- **Semaine 0 : Orientation** Une introduction au cours avec des informations clés, des questions et réponses et un appel à l'engagement.
-- **Semaine 1 : Croissance spirituelle trinitisée** Un aperçu du projet Progress, du rôle des triades et du modèle universel de la Trinité. Rencontrez votre triade pour la première fois !
+- **Semaine 0 : Orientation** Une introduction au cours avec des informations clés, des questions et réponses et un appel à l'engagement.
+- **Semaine 1 : Croissance spirituelle trinitisée** Un aperçu du projet Progress, du rôle des triades et du modèle universel de la Trinité. Rencontrez votre triade pour la première fois !
 - **Semaine 2 : Partager la vie intérieure** Sur l'importance de partager votre vie intérieure avec Dieu, votre triade et la classe.
-- **Semaine 3 : Connexion avec Dieu** Explorez les techniques de connexion spirituelle intérieure tout en vous rappelant nos nombreux aides spirituelles.
-- **Semaine 4 : Communion avec Dieu** Apprenez des autres sur leurs pratiques de communion et développez et approfondissez les vôtres.
+- **Semaine 3 : Connexion avec Dieu** Explorez les techniques de connexion spirituelle intérieure tout en vous rappelant nos nombreux aides spirituelles.
+- **Semaine 4 : Communion avec Dieu** Apprenez des autres sur leurs pratiques de communion et développez et approfondissez les vôtres.
 - **Semaine 5 : La pratique** Sur la patience, l'adaptation et le pouvoir du libre arbitre alors que nous poursuivons notre voyage de discipline spirituelle.
-- **Semaine 6 : Conscience de soi** Découvrez des techniques et des ressources pour cultiver la conscience de soi.
+- **Semaine 6 : Conscience de soi** Découvrez des techniques et des ressources pour cultiver la conscience de soi.
 - **Semaine 7 : Vivre avec un but** Sur l'art de vivre spirituellement : cultiver des habitudes quotidiennes et un rythme de vie.
 - **Semaine 8 : Dons de Dieu** Sur le don de la personnalité, la consécration du choix et la transformation à travers les difficultés.
 - **Semaine 9 : Progrès de la personnalité** Commencez à reconnaître votre capacité croissante à porter les fruits de l'esprit.
 - **Semaine 10 : Servir Dieu** Sur le service aimant et la découverte de votre vraie voix et de votre objectif spirituel.
 - **Semaine 11 : Transformation** Sur la croissance des sens et la réalisation des valeurs dans votre vie.
-- **Semaine 12 : Aller de l'avant** Célébrez nos progrès personnels et collectifs et nos visions de l'avenir.
+- **Semaine 12 : Aller de l'avant** Célébrez nos progrès personnels et collectifs et nos visions de l'avenir.
 
-Voici ce que disent certains anciens élèves :
+Voici ce que disent certains anciens élèves :
 
 > Ce cours a initié pour moi une nouvelle dimension de croissance spirituelle ! — Ann, États-Unis
 
@@ -105,11 +105,11 @@ Voici ce que disent certains anciens élèves :
 
 Ayant désormais animé deux cours Progress Project, la communauté grandissante s'est étendue des deux triades originales à environ une douzaine de triades actives. Il existe des membres à l'échelle internationale avec une participation à des degrés divers. Le cours d'automne 2022, étant la troisième itération sur le campus virtuel de l'UUI, représentera un autre niveau avancé de la communauté en expansion soutenue et responsabilisée alors que nous vivons notre vie de progrès. Lors du premier cours, les nouvelles triades étaient soutenues par plusieurs des membres originaux. Ce système de soutien s'est élargi au cours du deuxième cours via un petit groupe de « bergers » (anciens élèves du premier cours) qui ont aidé les participants individuellement et en triades. Au printemps 2022, Angie et Aprilhelen ont développé et animé un nouveau cours pour préparer le Progress Project Service Corps. Cet effort est une collaboration avec l'UUI et la Fondation Crestwood à travers laquelle la curiosité est portée à l'investigation de l'expression des valeurs spirituelles dans un leadership orienté vers le serviteur. Le leadership serviteur est un leadership dans lequel le service à l’humanité dans l’intention de transformation personnelle, sociale et globale est la priorité, le plus grand bien pour le plus grand nombre de personnes et pour la plus longue période !
 
-Le cours Service Corps examine ces aspects du fait d'être guidé par l'esprit dans le leadership :
+Le cours Service Corps examine ces aspects du fait d'être guidé par l'esprit dans le leadership :
 
-- Semaine 1 : Introduire les valeurs spirituelles dans le leadership
-- Semaine 2 : Votre système de soutien spirituel en tant que serveur
-- Semaine 3 : Garder un espace sacré pour la croissance spirituelle des autres
+- Semaine 1 : Introduire les valeurs spirituelles dans le leadership
+- Semaine 2 : Votre système de soutien spirituel en tant que serveur
+- Semaine 3 : Garder un espace sacré pour la croissance spirituelle des autres
 - Semaine 4 : Communiquer au service du progrès
 - Semaine 5 : Relever les défis interpersonnels en tant que serveur
 - Semaine 6 : Les valeurs spirituelles en action
@@ -118,7 +118,7 @@ L'aventure continue ! Nous sommes ravis de partager le Progress Project avec le 
 
 Êtes-vous intéressé à rejoindre le Projet Progress ? La prochaine séance aura lieu le 13 octobre 2022 et le 19 janvier 2023, les jeudis de 17h30 à 19h00. Temps Pacifique. Notez que le cours dure douze semaines, à l'exclusion du 24 novembre, du 22 décembre et du 29 décembre, pour les jours fériés. Une orientation obligatoire aura lieu le jeudi 22 septembre.
 
-Visitez http://theProgressProject.info pour plus d'informations, pour vous inscrire à l'orientation et pour vous inscrire sur une liste d'attente pour les futurs cours. Vous pouvez contacter les six membres originaux à tout moment via cet e-mail : hello@progressproject.info. Nous serions ravis d’être avec vous ensemble dans votre croissance spirituelle !
+Visitez http://theProgressProject.info pour plus d'informations, pour vous inscrire à l'orientation et pour vous inscrire sur une liste d'attente pour les futurs cours. Vous pouvez contacter les six membres originaux à tout moment via cet e-mail : hello@progressproject.info. Nous serions ravis d’être avec vous ensemble dans votre croissance spirituelle !
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Aprilhelen/35.jpg">

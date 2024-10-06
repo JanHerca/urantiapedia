@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Une philosophie de fraternité
 
-Il est évident pour beaucoup d'entre nous que le vent de l'esprit élève l'esprit des autres ainsi que celui des étudiants du Livre d'URANTIA. Une nouvelle philosophie se développe, celle du « J'aime, donc je suis » ; et bien qu'une compréhension intellectuelle de l'exactitude cosmique de cette prémisse ne soit pas universelle parmi ceux qui aiment, la signification spirituelle personnelle et expérientielle de cette vérité est reconnue par tous ceux qui vivent sciemment en Dieu, et est ressentie par beaucoup de ceux qui ne réalisent pas encore qu'Il est, et en est conscient, et est leur amour même :
+Il est évident pour beaucoup d'entre nous que le vent de l'esprit élève l'esprit des autres ainsi que celui des étudiants du Livre d'URANTIA. Une nouvelle philosophie se développe, celle du « J'aime, donc je suis » ; et bien qu'une compréhension intellectuelle de l'exactitude cosmique de cette prémisse ne soit pas universelle parmi ceux qui aiment, la signification spirituelle personnelle et expérientielle de cette vérité est reconnue par tous ceux qui vivent sciemment en Dieu, et est ressentie par beaucoup de ceux qui ne réalisent pas encore qu'Il est, et en est conscient, et est leur amour même :
 
 **Concentrez-vous sur l'amour**
 
@@ -48,7 +48,7 @@ Nous ne dénigrons en aucun cas, ni n'imposons aux gens ce message qui a changé
 
 ## Quelques principes de croissance
 
-Chers amis, je voudrais partager avec vous mes réflexions sur la croissance future de la Fraternité URANTIA. Ces idées reflètent mon interprétation de certaines idées expérientielles et révélatrices, je les appelle « principes de croissance » pour les organisations spirituelles :
+Chers amis, je voudrais partager avec vous mes réflexions sur la croissance future de la Fraternité URANTIA. Ces idées reflètent mon interprétation de certaines idées expérientielles et révélatrices, je les appelle « principes de croissance » pour les organisations spirituelles :
 
 1. **Nous devons nous saturer de patience**. Il semble y avoir une tendance naturelle chez beaucoup d’entre nous à être trop excités par la perspective continue de diffuser le Livre d’URANTIA et ses enseignements. Je pense que le modeste têtard nous donne l’exemple le plus sage : le moyen le plus rapide et le plus efficace pour un têtard d’atteindre le statut expérientiel de grenouille est de vivre de manière compétente et loyale comme un têtard. L'évolution a son propre calendrier. Plus le rythme est lent, moins le risque d’erreur est grand.
 2. **Collectivement/individuellement, notre ministère privé doit précéder notre ministère public**. Nous devons devenir intérieurement mûrs avant de pouvoir devenir extérieurement efficaces. Pouvons-nous enseigner la vérité, discerner la beauté et démontrer la bonté à moins que nos vies ne soient d’abord véridiques, belles et bonnes ? Jésus a enseigné et vécu selon la proposition spirituelle selon laquelle la véritable mesure de notre justice est le degré auquel les gens sont attirés vers nous sans que nous publiions notre message.
@@ -92,7 +92,7 @@ Sur le chemin de l'éternité... David et Sue Kantor annoncent l'association d'u
 
 Les générations de l'humanité
 Jamais aller et venir,
-Toucher la terre ne serait-ce qu'un instant ;
+Toucher la terre ne serait-ce qu'un instant ;
 Les réalités du monde matériel
 Assumez leurs formes enchanteresses
 Pour une saison seulement,

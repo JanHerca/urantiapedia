@@ -44,7 +44,7 @@ Esa palabra «sólo» es tremendamente importante. Implica que si Caligastia, qu
 
 Este no es un pensamiento reconfortante para quienes se entregan al fenómeno llamado «canalización». Puede significar que los espíritus «buenos» sólo pueden comunicarse con nosotros indirectamente a través de nuestro Ajustador del Pensamiento, pero que los espíritus «desagradables» pueden llegar a nosotros directamente.
 
-Ernest Moyer, en su Boletín Urantia nº 2, destacó la posibilidad de que muchos lectores sinceros del Libro de Urantia hayan invitado sin saberlo a Caligastia a sus vidas.
+Ernest Moyer, en su Boletín Urantia nº 2, destacó la posibilidad de que muchos lectores sinceros del _Libro de Urantia_ hayan invitado sin saberlo a Caligastia a sus vidas.
 
 Si afrontamos los hechos, el movimiento Urantia es un fracaso estrepitoso. ¿Podría Ernest tener razón? ¿Caligastia tiene el movimiento por la garganta y, de ser así, cómo sucedió? No conozco a ningún lector que, a sabiendas, invitara a Caligastia a sus vidas, ni siquiera algunos cuyas acciones (en mi opinión) hayan sido enormemente perturbadoras y dañinas. Entonces, ¿cómo pudo haber sucedido? Esa pregunta me llevó de regreso a la sección de El Libro de URANTIA sobre cómo Caligastia logró llegar a Eva.
 

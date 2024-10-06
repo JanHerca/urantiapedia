@@ -95,7 +95,11 @@ Hemos recibido ejemplares de muestra y escuchado reseñas positivas de buscadore
 
 Las páginas de este libro están llenas de pasajes que declaran que el mundo está listo para revivir la verdadera religión de Jesús. Aunque la diseminación de la revelación en sí ha sido formal y mesurada, podemos proclamar a Jesús desde los tejados.
 
-https://youtu.be/PeOLg8YSdC4
+<a href="https://bit.ly/4cvclEB">
+<figure id="Figure_4" class="image urantiapedia">
+<img src="/image/article/UF_News_Online/2019_04/047.jpg">
+</figure>
+</a>
 
 ## Referencias
 

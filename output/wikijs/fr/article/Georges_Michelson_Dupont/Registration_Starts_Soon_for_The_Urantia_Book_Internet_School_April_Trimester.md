@@ -40,17 +40,17 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Georges Michelson-Dupont, directeur, Recloses, France_
 
-L’École Internet du Livre d’urantia (UBIS), a le plaisir d ‘annoncer que le trimestre d’avril commence maintenant et nous voulons que vous nous rejoignez !
+L’École Internet du Livre d’urantia (UBIS), a le plaisir d ‘annoncer que le trimestre d’avril commence maintenant et nous voulons que vous nous rejoignez !
 
 L’inscription commence le lundi 4 avril et dure deux semaines jusqu’au dimanche 17 avril. Les cours gratuits en ligne commence le lundi 18 avril et dureront 10 semaines.
 
-Vous pouvez visiter : [https://www.urantia.org/eduation/course-schedule-and-registration-information](https://www.urantia.org/eduation/course-schedule-and-registration-information)
+Vous pouvez visiter : [https://www.urantia.org/eduation/course-schedule-and-registration-information](https://www.urantia.org/eduation/course-schedule-and-registration-information)
 
 Pour regarder les cours et les Enseignants/Animateurs. Vous pouvez aussi visiter new.ubis.urantia.org et sélectionner la langue voulue pour voir le choix.
 
-Si vous n’êtes pas un étudiant d’UBIS, c’est facile de vous inscrire. Allez simplement à new.ubis.urantia.org et cliquez sur **Login** en haut sur le coté droit de la page. Regardez : **Est-ce** **votre première fois ici** ? Suivez ensuite les directives, cliquez sur **Créer un nouveau compte**. Vous recevrez un mail.
+Si vous n’êtes pas un étudiant d’UBIS, c’est facile de vous inscrire. Allez simplement à new.ubis.urantia.org et cliquez sur **Login** en haut sur le coté droit de la page. Regardez : **Est-ce** **votre première fois ici** ? Suivez ensuite les directives, cliquez sur **Créer un nouveau compte**. Vous recevrez un mail.
 
-Ce trimestre nous offrons un total de treize cours, six en anglais, trois en français, trois en espagnol et un en portugais. Les classes d’UBIS ne sont pas à une heure fixe. Nos classes virtuelles sont ouvertes 7/24, pour que les étudiants puissent participer selon leur propre emploi du temps. Les places sont limitées, donc n’attendez pas trop longtemps pour vous inscrire !
+Ce trimestre nous offrons un total de treize cours, six en anglais, trois en français, trois en espagnol et un en portugais. Les classes d’UBIS ne sont pas à une heure fixe. Nos classes virtuelles sont ouvertes 7/24, pour que les étudiants puissent participer selon leur propre emploi du temps. Les places sont limitées, donc n’attendez pas trop longtemps pour vous inscrire !
 
 Pour toutes questions ou informations supplémentaires à propos des cours, écrivez, s’il vous plait, à [Joanne@urantia.org](mailto:Joanne@urantia.org)
 

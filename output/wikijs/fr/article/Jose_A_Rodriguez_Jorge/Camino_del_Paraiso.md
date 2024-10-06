@@ -39,7 +39,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 Je vais avec ta main<br>
 Chemin vers le paradis<br>
 Même si mes pas<br> 
-Continuez sur terre ;<br>
+Continuez sur terre ;<br>
 Heureux, souriant<br>
 Je me tourne vers toi<br>
 Mon père<br>
@@ -53,7 +53,7 @@ Je ne doute pas, mais j'ai confiance
 
 ## Références
 
-- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
 
 

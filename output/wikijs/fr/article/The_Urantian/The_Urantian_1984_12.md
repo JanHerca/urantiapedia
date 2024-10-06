@@ -49,7 +49,7 @@ _Chicago, Illinois_
 
 ## De la part des éditeurs
 
-Au cours des huit dernières années de publication du Journal URANTIEN de la Fraternité URANTIA, nous avons de temps en temps suggéré des sujets pour de futurs numéros afin de stimuler les écrivains de notre communauté à proposer leur travail pour publication. Une fois de plus, nous aimerions stimuler votre imagination et votre traitement de texte en vous demandant de participer activement au Journal dans les mois à venir. Voici notre question, basée sur la citation suivante du fascicule I du _Livre d'URANTIA_ :
+Au cours des huit dernières années de publication du Journal URANTIEN de la Fraternité URANTIA, nous avons de temps en temps suggéré des sujets pour de futurs numéros afin de stimuler les écrivains de notre communauté à proposer leur travail pour publication. Une fois de plus, nous aimerions stimuler votre imagination et votre traitement de texte en vous demandant de participer activement au Journal dans les mois à venir. Voici notre question, basée sur la citation suivante du fascicule I du _Livre d'URANTIA_ :
 
 > « _La consécration aimante de la volonté humaine à l’exécution de la volonté du Père est le don le plus précieux de l’homme à Dieu. En fait, une telle consécration de la volonté de la créature constitue le seul don réellement valable qu’il soit possible à l’homme de faire au Père du Paradis._ » (<a id="a53_299"></a>[LU 1:1.2](/fr/The_Urantia_Book/1#p1_2))
 

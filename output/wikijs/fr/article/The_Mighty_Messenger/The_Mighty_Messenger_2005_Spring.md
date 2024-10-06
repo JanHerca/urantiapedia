@@ -120,7 +120,7 @@ LA COMMUNAUTÉ DU LIVRE D'URANTIA :
 - Par la diffusion, le service, l’étude et la socialisation, nous avons consacré nos efforts au service de la révélation et de tous ceux qui la servent.
 - Nous représentons une culture qui valorise la sagesse de groupe et s'efforce d'évoluer.
 
-RÉALISATIONS :
+RÉALISATIONS :
 
 - Éditeurs du Livre d'Urantia imprimé le plus convivial pour l’étude et de nombreux outils d'étude et ouvrages de soutien efficaces.
 - Des périodiques toujours excellents envoyés gratuitement à la communauté Urantia.
@@ -134,7 +134,7 @@ Bien que le logo, l’identifiant et la déclaration de souche n'expriment qu’
 
 ## Papparazzi nécessaire
 
-Emportez-vous un appareil photo partout avec vous ? Votre expression préférée est-elle « Souriez, tout le monde ! » ? Aimez-vous réaliser un enregistrement photographique des personnes et des événements de votre société ou de votre groupe d'étude ? Alors le Mighty Messenger a besoin de vous ! 
+Emportez-vous un appareil photo partout avec vous ? Votre expression préférée est-elle « Souriez, tout le monde ! » ? Aimez-vous réaliser un enregistrement photographique des personnes et des événements de votre société ou de votre groupe d'étude ? Alors le Mighty Messenger a besoin de vous ! 
 
 Le nouveau format de ce bulletin d'information est grandement amélioré par des photographies ainsi que par des nouvelles sur vos activités Urantia. Nous savons qu’il se passe beaucoup de choses ; mais à moins que vous nous en parliez, et mieux encore, que vous en incluiez des photographies, les lecteurs ne sauront peut-être jamais à quel point vous êtes créatif, aimant et orienté vers le service. Inspirez-nous des expériences et des idées de votre groupe.
 
@@ -197,7 +197,7 @@ Je me consacre à améliorer la coordination et la coopération des lecteurs à 
 
 Sur le marché de Jérusalem à l’IC '05, les enfants découvriront les images, les sons et les odeurs que Jésus a pu rencontrer lors de son passage. Peut-être qu’il visitera le marché de Villanova ! Si vous souhaitez partager votre temps ou votre talent pour donner vie au marché, rejoignez-nous dans cette communauté d'apprentissage. 
 
-Des bénévoles sont nécessaires pour aider à gérer les petits magasins. Vous pouvez vous inscrire pour une heure, une matinée, une soirée ou plus. Nous vous fournissons des instructions simples sur ce que vous créez ; et comment il aurait pu être utilisé à l’époque de Jésus. Sara, Wendy ou le personnel seront toujours présents pour superviser les enfants, et vous aiderez simplement avec le bricolage ou les activités de votre magasin. 
+Des bénévoles sont nécessaires pour aider à gérer les petits magasins. Vous pouvez vous inscrire pour une heure, une matinée, une soirée ou plus. Nous vous fournissons des instructions simples sur ce que vous créez ; et comment il aurait pu être utilisé à l’époque de Jésus. Sara, Wendy ou le personnel seront toujours présents pour superviser les enfants, et vous aiderez simplement avec le bricolage ou les activités de votre magasin. 
 
 Le travail du cuir, la poterie, la menuiserie, la bijouterie, la vannerie et la fabrication de cordes sont quelques-uns des magasins que nous prévoyons. Nous avons également des fournitures pour le feutrage et le filage à la main si vous avez des compétences dans ces domaines. 
 
@@ -205,7 +205,7 @@ Une autre façon de contribuer à l’animation du marché est de partager vos t
 
 Alors, si vous souhaitez partager votre temps et participer à cette aventure du marché, contactez Wendy Anderson à wintergarden@gci. net ou appelez sans frais le (888) 456-3440.
 
-## Êtes-vous prêt à devenir une personne de contact LU ?
+## Êtes-vous prêt à devenir une personne de contact LU ?
 
 De temps en temps, la Fellowship reçoit des appels de personnes souhaitant rencontrer d'autres lecteurs. Il existe souvent un groupe d’étude dans leur région, mais ce n’est souvent pas le cas. Nous avons besoin de personnes disposées à connaître les lecteurs de leur région et à s'engager activement à rassembler les lecteurs en créant des opportunités d'étude et de socialisation, tout en étant simplement là pour parler à quelqu’un. Si vous êtes intéressé, faites-le nous savoir en envoyant vos coordonnées personnelles à : 
 
@@ -216,7 +216,7 @@ PO Box 4583 Grand Central Station New York, NY 10163 Ou appelez le 1.877.288.377
 
 L'adoration est une expérience unique et transcendante dans laquelle la créature à personnalité limitée et à volonté s'approche et atteint finalement la présence de la personnalité infinie de notre Père. Dans l’adoration, nous ne demandons rien et n’attendons rien. Nous choisissons, volontairement, d’exprimer notre amour et notre dévotion pour notre Père pour tout ce que nous sommes capables de comprendre qu’il est. 
 
-Les créatures à volonté humaine semblent aborder l’expérience d'adoration de différentes manières en réponse à l’apprentissage, au tempérament, au contexte culturel, au contexte religieux et à d'autres facteurs. Lors de l’IC 05, nous avons prévu un programme qui se concentrera sur quatre voies menant à l’expérience d'adoration. Ces quatre voies ont été choisies parce qu’elles constituent des capacités humaines essentielles et communes dérivées directement de la manière dont le plan du Père pour les créatures volontaires se manifeste en nous : stimulation sensorielle, contemplation et méditation, service désintéressé et niveaux de valeur progressifs. Ces quatre voies ne sont pas seulement au cœur de l’expérience ascendante de la vie humaine, elles sont aussi les facultés mêmes que nous utilisons pour chercher Dieu, faire sa volonté et atteindre la porte de l’expérience d’adoration.
+Les créatures à volonté humaine semblent aborder l’expérience d'adoration de différentes manières en réponse à l’apprentissage, au tempérament, au contexte culturel, au contexte religieux et à d'autres facteurs. Lors de l’IC 05, nous avons prévu un programme qui se concentrera sur quatre voies menant à l’expérience d'adoration. Ces quatre voies ont été choisies parce qu’elles constituent des capacités humaines essentielles et communes dérivées directement de la manière dont le plan du Père pour les créatures volontaires se manifeste en nous : stimulation sensorielle, contemplation et méditation, service désintéressé et niveaux de valeur progressifs. Ces quatre voies ne sont pas seulement au cœur de l’expérience ascendante de la vie humaine, elles sont aussi les facultés mêmes que nous utilisons pour chercher Dieu, faire sa volonté et atteindre la porte de l’expérience d’adoration.
 
 ## Dons en ligne
 
@@ -224,9 +224,9 @@ Faites un don en ligne. Allez simplement sur www.urantiabook.org et sur le côt�
 
 Nous ne sommes que des milliers pour le moment. Chaque dollar que vous donnez nous aide à accroître la sensibilisation à la révélation et à ses enseignements. De plus, tout ce que nous faisons améliore les chances des générations futures d'apprendre et de vivre les enseignements que nous avons trouvés dans _Le Livre d'Urantia_. Les conséquences appartiennent à Dieu, mais le Père exige que nous agissions, que nous fassions, que nous accomplissions et que nous expérimentions ! 
 
-Vous pouvez faire un don unique, ou nous vous demandons d'envisager un don mensuel automatique. Quoi qu’il en soit, sachez que votre contribution est profondément appréciée. ET POUR UN PEU D'INCITATION SUPPLÉMENTAIRE, CHAQUE PARTENAIRE QUI FAIT UN DON DE 20 $ OU PLUS PAR MOIS PAR DÉBIT AUTOMATIQUE RECEVRA UNE ÉDITION UVERSA PRESSE RELIÉE EN CUIR DU 50E ANNIVERSAIRE DU LIVRE D'URANTIA. Cette offre se termine le 30 juillet 2005. 
+Vous pouvez faire un don unique, ou nous vous demandons d'envisager un don mensuel automatique. Quoi qu’il en soit, sachez que votre contribution est profondément appréciée. ET POUR UN PEU D'INCITATION SUPPLÉMENTAIRE, CHAQUE PARTENAIRE QUI FAIT UN DON DE 20 $ OU PLUS PAR MOIS PAR DÉBIT AUTOMATIQUE RECEVRA UNE ÉDITION UVERSA PRESSE RELIÉE EN CUIR DU 50E ANNIVERSAIRE DU LIVRE D'URANTIA. Cette offre se termine le 30 juillet 2005. 
 
-Plus de 99 pour cent de tout le travail effectué pour la révélation est effectué par des bénévoles, des gens comme vous qui sont engagés et qui ont pris le temps d'appliquer leurs capacités à cette révélation. Ils ont besoin de votre soutien financier. Si vous préférez envoyer un don par la poste, envoyez-le à : 
+Plus de 99 pour cent de tout le travail effectué pour la révélation est effectué par des bénévoles, des gens comme vous qui sont engagés et qui ont pris le temps d'appliquer leurs capacités à cette révélation. Ils ont besoin de votre soutien financier. Si vous préférez envoyer un don par la poste, envoyez-le à : 
 
 _La bourse du Livre d'Urantia_ 
 P.O. Boîte postale 4583, gare Grand Central, New York, NY 10163 
@@ -239,20 +239,20 @@ Sincèrement,
 
 Robert Burns, président des finances
 
-## De l’art, de l’art et encore de l’art !
+## De l’art, de l’art et encore de l’art !
 
 De magnifiques et passionnantes peintures à l’huile, aquarelles, dessins graphiques, céramiques, sculptures sur différents supports, mobiles et bien plus encore seront exposées à la galerie d'art de la conférence internationale _The Urantia Book_ Fellowship qui se tiendra à l’Université Villanova près de Philadelphie du 30 juillet au 4 août. 2005. Les thèmes liés au _Le Livre d'Urantia_ sont particulièrement encouragés, mais tous les sujets sont les bienvenus. Un formulaire spécial d'exposition d'artistes doit être rempli par tous les artistes qui souhaitent exposer leurs œuvres. Les places sont limitées et les exposants potentiels sont priés de postuler dès que possible auprès de Nick Curto, à nicknyny@nyc.rr.com ou d'appeler le (917) 701-9033 de 19h à 21h. HNE. 
 
 ## IC05 Enchères-Rama 
 
-Faites bon usage de ces reliques urantiennes. Le produit des enchères sera utilisé pour les dépenses de la conférence. Contactez Lenny Cowles : 303.258.0504 ou envoyez un e-mail à Lighting@indra.com.
-Reliques de vente aux enchères nécessaires :
-- Livres : 1ère et 2ème édition des Livres d'Urantia
+Faites bon usage de ces reliques urantiennes. Le produit des enchères sera utilisé pour les dépenses de la conférence. Contactez Lenny Cowles : 303.258.0504 ou envoyez un e-mail à Lighting@indra.com.
+Reliques de vente aux enchères nécessaires :
+- Livres : 1ère et 2ème édition des Livres d'Urantia
 - Livres du Dr Sadler
 - Livres de lecteurs faisant référence à Urantia
 - Art Urantia
 - Céramiques, vitraux Bijoux, vêtements
-- Aventures de vacances : de vrais billets d'avion, des privilèges de chambre d'hôtes dans la maison d'un véritable Urantien vivant.
+- Aventures de vacances : de vrais billets d'avion, des privilèges de chambre d'hôtes dans la maison d'un véritable Urantien vivant.
 
 ## Évènements à venir…
 
@@ -270,7 +270,7 @@ Nous sommes actuellement occupés à concevoir un programme qui non seulement ab
 ## Personnel du « The Mighty Messenger »
 
 Publié par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship.
-Membres : Linda Buselli, présidente Lynda D'Arcangelo, Laura Hay, Nancy Johnson, Joe Liszka, Sage Waitts
+Membres : Linda Buselli, présidente Lynda D'Arcangelo, Laura Hay, Nancy Johnson, Joe Liszka, Sage Waitts
 877.288.3772
 bourse@urantiabook.org
 www.urantiabook.org

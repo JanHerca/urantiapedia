@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-3-sept-2015">
+        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-3-septembre-2015">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 3, Sept. 2015 — Table des matières</span>
         </a>
         </td>
@@ -55,7 +55,7 @@ Luiz anima et participa aux groupes d’étude à São Paulo et à Belo Horizont
 <img src="/image/article/UF_News_Online/2015_09/017.jpg">
 </figure>
 
-Honneur à son nom !
+Honneur à son nom !
 
 ## Références
 
@@ -73,7 +73,7 @@ Honneur à son nom !
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-3-sept-2015">
+        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-3-septembre-2015">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 3, Sept. 2015 — Table des matières</span>
         </a>
         </td>

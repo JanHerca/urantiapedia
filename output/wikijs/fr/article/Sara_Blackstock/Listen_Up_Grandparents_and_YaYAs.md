@@ -54,7 +54,7 @@ Même une réponse courte aux questions suivantes pourrait être instructive :
 Merci au nom des parents actuels et futurs parents pour votre temps et vos réponses. Veuillez les envoyer à Sara Blackstock blackstocksara7@gmail.com et, avec les conseils de l'équipe de vie familiale (Richard Daunt, Riula Deoto, Miranda Clendening, Tony Finstad, Angie Thurston et Janet Farrington, notre sage mentor), nous les compilerons pour les partager. dans le prochain numéro du Fellowship Herald et mis sur le site Web Family Life : [http://www.urantiafamilylife.org](http://www.urantiafamilylife.org) et sur le site Web du Fellowship [http://www.urantiabook.org.](http://www.urantiabook.org.) Si vous le souhaitez, vos réponses peuvent être anonymes. 
 
 > **Sara Blackstock** estime qu'elle a eu le privilège de travailler avec des enfants d'âge scolaire pendant près de 50 ans en tant qu'enseignante et administratrice. Elle a coordonné trois marchés de Jérusalem lors de trois conférences internationales parrainées par la Fellowship, et est maintenant la coordinatrice par intérim de l'équipe de vie familiale de la Fellowship.
-> {.is-info}
+{.is-info}
 
 ## Références
 

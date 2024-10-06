@@ -207,7 +207,7 @@ Escrito por un agondontero americano para beneficio de todos los compañeros ura
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-december-2015/)
 - [Este artículo](https://urantia-association.org/respecto-a-la-adversidad/?lang=es)
 

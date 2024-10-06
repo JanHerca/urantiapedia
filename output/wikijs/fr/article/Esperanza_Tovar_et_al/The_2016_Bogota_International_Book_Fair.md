@@ -58,11 +58,11 @@ Les volontaires parlèrent directement avec plus de deux mille personnes _d’_E
 
 Des noms, des numéros de téléphone et des adresses mail furent recueillis de 305 personnes intéressées à acheter le livre, à recevoir Le bulletin de l’association ou à participer à des évènements, des exposés ou à des conférences futures.
 
-Durant la foire, il y eut trois exposés pour introduire_Le Livre d’Urantia_ et un atelier intitulé « Épigénétiques d’Urantia » auquel assistèrent plus de trente personnes.
+Durant la foire, il y eut trois exposés pour introduire _Le Livre d’Urantia_ et un atelier intitulé « Épigénétiques d’Urantia » auquel assistèrent plus de trente personnes.
 
 La place du stand était parfaite, en relation avec le grand flux de personnes qui y vinrent, en particulier les jeunes gens. Le stand était attrayant et comprenait un comptoir, des livres en exposition, deux tables avec des chaises pour les visiteurs, un ordinateur pour prendre des informations et un lecteur de cartes bancaires pour les paiements par carte de crédit. Les murs étaient décorés avec de grands posters du livre, de Jésus et du Maître Univers.
 
-Nous avons acquis une grande satisfaction de nos efforts, et cela de différentes manières : en rencontrant de nouveaux lecteurs, en contactant des lecteurs de longue date, en particulier des lecteurs indépendants du _Livre d’Urantia_, et surtout en aidant de nombreuses personnes à découvrir la révélation Urantia. Nous sommes aussi satisfaits que ce projet ait ouvert la voie et donne l’exemple aux lecteurs dans d’autres endroits du monde qui pourraient être encourager à entreprendre des projets de service similaire.
+Nous avons acquis une grande satisfaction de nos efforts, et cela de différentes manières : en rencontrant de nouveaux lecteurs, en contactant des lecteurs de longue date, en particulier des lecteurs indépendants du _Livre d’Urantia_, et surtout en aidant de nombreuses personnes à découvrir la révélation Urantia. Nous sommes aussi satisfaits que ce projet ait ouvert la voie et donne l’exemple aux lecteurs dans d’autres endroits du monde qui pourraient être encourager à entreprendre des projets de service similaire.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2016_06/046.jpg">

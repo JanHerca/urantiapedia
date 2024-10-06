@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-4-dec-2013">
+        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-4-décembre-2013">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 4, Déc. 2013 — Table des matières</span>
         </a>
         </td>
@@ -34,9 +34,9 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
-_Note de l’éditeur : La “First Society” de la Fellowship du Livre d’Urantia, l’Association du Greater Lake Michigan de l’Association Urantia Internationale et la Fondation Urantia ont tenu leur fête annuelle de fin d’année, le samedi soir du 7 décembre. La fête commença avec un bref programme dirigé par Carolynn Kendall. Elle demanda aux participants de lire des citations choisies à propos de Dieu le Père, de l’amour de Dieu, de la bonté de Dieu, sur la miséricorde et la justice de Dieu, sur la vigilance de Dieu, la lumière de la présence de Dieu, l’Être Suprême et l’amour humain et la dévotion._
+_Note de l’éditeur : La “First Society” de la Fellowship du Livre d’Urantia, l’Association du Greater Lake Michigan de l’Association Urantia Internationale et la Fondation Urantia ont tenu leur fête annuelle de fin d’année, le samedi soir du 7 décembre. La fête commença avec un bref programme dirigé par Carolynn Kendall. Elle demanda aux participants de lire des citations choisies à propos de Dieu le Père, de l’amour de Dieu, de la bonté de Dieu, sur la miséricorde et la justice de Dieu, sur la vigilance de Dieu, la lumière de la présence de Dieu, l’Être Suprême et l’amour humain et la dévotion._
 
-_Joanne Srobel prépara et servit un délicieux repas, les enfants couraient un peu partout et s’amusaient et des amitiés se raffermirent. Ce fut une soirée d’amusement et de camaraderie partagée par tous. Peut-être projetez-vous d’y participer l’année prochaine !_
+_Joanne Srobel prépara et servit un délicieux repas, les enfants couraient un peu partout et s’amusaient et des amitiés se raffermirent. Ce fut une soirée d’amusement et de camaraderie partagée par tous. Peut-être projetez-vous d’y participer l’année prochaine !_
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2013_12/040.jpg">
@@ -59,7 +59,7 @@ _Joanne Srobel prépara et servit un délicieux repas, les enfants couraient un 
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-4-dec-2013">
+        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-4-décembre-2013">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 4, Déc. 2013 — Table des matières</span>
         </a>
         </td>

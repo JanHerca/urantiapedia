@@ -37,7 +37,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Il existe un plan divin pour chaque révélation. Les révélateurs viennent sur terre en mission et dans un but précis, mais il existe un plan primordial, une manière ordonnée de mener à bien ces missions de nouvelle vérité. Quel est le plan divin pour « notre » révélation ?
 
-Nous pouvons être assurés que le plan divin qui opérait pour Caligastia, Adam, Machiventa et Jésus est à nouveau en vigueur pour nous. Ce plan global pour les planètes, les révélateurs et les mortels pourrait être énoncé ainsi :
+Nous pouvons être assurés que le plan divin qui opérait pour Caligastia, Adam, Machiventa et Jésus est à nouveau en vigueur pour nous. Ce plan global pour les planètes, les révélateurs et les mortels pourrait être énoncé ainsi :
 
 L'évolution planétaire est établie. Il est renforcé par des révélations périodiques transmises par des techniques évolutives construites sur des fondations existantes et autorisées à se développer naturellement.
 

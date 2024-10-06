@@ -51,7 +51,7 @@ Ou appelez le bureau au (303) 467-7858 et Paula Thompson ou Derek Samaras vous e
 
 Il y a un total de 36 sièges au Conseil général (GC) et 1 de ces sièges sera ouvert cet hiver. Pour être éligible, une personne doit être membre de la Communauté, soit un membre général, soit un membre régional de la Société Urantia. De plus, la constitution de la Communauté exige que vous ayez lu le Livre d'Urantia dans son intégralité, au moins une fois, comme autre condition préalable au service.
 
-Vous pouvez en savoir plus sur le Conseil général dans nos statuts, ici : http://
+Vous pouvez en savoir plus sur le Conseil général dans nos statuts, ici : http://
 www.urantia-book.org/fellowship-admin/Constitution Urantia-Book-Fellowship.pdf 
 
 L'adhésion au GC implique d'assister à deux réunions par an. Les réunions ont lieu pendant une fin de semaine dans divers endroits en Amérique du Nord. Les réunions ont généralement lieu en février (dans un climat chaud) et à nouveau à la fin et conjointement avec la conférence d'été de la Fellowship. Les réunions commencent généralement le vendredi soir à 19 heures et durent 4 heures, puis reprennent le samedi pendant 8 heures et le dimanche pendant 4 heures, se terminant à midi. Le samedi soir est généralement ouvert à une soirée sociale avec les lecteurs de la zone où se tient la réunion. Nous varions le lieu des réunions pour permettre ce temps social et pour permettre aux lecteurs locaux de faire connaissance avec les dirigeants de la Fellowship. Cet événement est souvent un moment fort des réunions du Conseil. Parfois, une autre journée peut être ajoutée à la réunion du CG pour une retraite.

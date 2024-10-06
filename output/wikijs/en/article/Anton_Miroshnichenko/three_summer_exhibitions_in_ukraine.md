@@ -40,8 +40,10 @@ dateCreated: 2023-9-16T10:55:6Z
 </figure>
 
 This summer readers presented _The Urantia Book_ at the following three events that were held in the Ukraine:
+<br style="clear:both;"/>
 
-The “Country of Dreams” Festival  
+## The “Country of Dreams” Festival
+
 This festival was held in Kiev at the Country Museum “Pyrogovo” on 20 to 21 June. We presented the Russian and English versions of _The Urantia Book_ at the literary festival site there. Many visitors passed our table and received a brochure with general information about the book. They could also treat themselves to candy and pull out a special quotation from _The Urantia Book._ People who were interested in the book stopped at our table to talk and ask questions. We were very pleased to introduce the book to festival goers and we hope that some of them who received information will become readers in the future. Overall we were left with a good impression of the event.
 <br style="clear:both;"/>
 

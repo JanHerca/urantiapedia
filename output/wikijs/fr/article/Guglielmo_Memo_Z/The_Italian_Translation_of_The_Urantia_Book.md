@@ -38,7 +38,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2015_06/002.jpg">
 </figure>
 
-_Par Guglielmo « Memo » Zago, Vérone, Italie_
+_Par Guglielmo « Memo » Zago, Vérone, Italie_
 
 _Le Livre d’Urantia_ fut traduit en italien après une série d’évènements apparemment fortuits.
 
@@ -46,11 +46,11 @@ En 1980, j’étais employé par une grande entreprise locale. J’étais un mar
 
 Mais les choses commencèrent à changer, à aller mal. Tout alla de mal en pis sans que je puisse y remédier et je me sentis déprimé, sans espoir et désespéré de trouver une issue.
 
-Grâce à l’invitation d’un ami, j’assistais à quelques réunions d’une association ésotérique où j’y rencontrai Giuseppe Zecchinato qui m’introduisit au _Livre d’Urantia,_ qu’il avait découvert en France lors d’une réunion ( concernant la fusion à froid ) avec Jacques Weiss, le chef traducteur de la traduction française du _Livre d’Urantia._
+Grâce à l’invitation d’un ami, j’assistais à quelques réunions d’une association ésotérique où j’y rencontrai Giuseppe Zecchinato qui m’introduisit au _Livre d’Urantia,_ qu’il avait découvert en France lors d’une réunion ( concernant la fusion à froid ) avec Jacques Weiss, le chef traducteur de la traduction française du _Livre d’Urantia._
 
 Zecchinato s’en procura une copie qu’il commença à lire immédiatement après son retour en Italie.
 
-Suivant l’exemple de Zecchinato, quelques années après, j’achetai un exemplaire de la traduction française du _Livre d’Urantia._ Ma lecture de la traduction française était un challenge car cela faisait des années que j’avais étudié le français à l’école. Mais j’ai persévéré et je lus le livre dans son intégralité. Ensuite, je voulus le traduire en italien, ce que je fis, en utilisant la traduction française comme texte « original » car je ne connaissais pas l’anglais. La traduction me prit plus de cinq ans. Lorsque j’informai Zecchinato de ce que j’avais fait, il me dit qu’il avait commencé une traduction italienne du livre mais qu’il n’y avait plus travaillé depuis quelques années.
+Suivant l’exemple de Zecchinato, quelques années après, j’achetai un exemplaire de la traduction française du _Livre d’Urantia._ Ma lecture de la traduction française était un challenge car cela faisait des années que j’avais étudié le français à l’école. Mais j’ai persévéré et je lus le livre dans son intégralité. Ensuite, je voulus le traduire en italien, ce que je fis, en utilisant la traduction française comme texte « original » car je ne connaissais pas l’anglais. La traduction me prit plus de cinq ans. Lorsque j’informai Zecchinato de ce que j’avais fait, il me dit qu’il avait commencé une traduction italienne du livre mais qu’il n’y avait plus travaillé depuis quelques années.
 
 Il voulait informer la Fondation Urantia qu’il avait traduit le livre en italien, mais je l’ai convaincu de ne pas le faire car je questionnais la qualité de ma traduction et surtout parce que j’avais traduit la traduction française et non le texte anglais, en italien.
 

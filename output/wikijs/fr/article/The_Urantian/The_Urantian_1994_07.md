@@ -55,25 +55,25 @@ Publié semestriellement par le comité des publications de THE FELLOWSHIP
 529, avenue Wrightwood
 Chicago, IIlinois 60614
 
-Prix d'abonnement : 8,00 $ par an
-(Les abonnés internationaux ajoutent 1,00 $ pour les frais de port)
+Prix d'abonnement : 8,00 $ par an
+(Les abonnés internationaux ajoutent 1,00 $ pour les frais de port)
 
 - Rédacteur en chef : David Kulleke
 - Comité de planification : Scott Forsythe, Lynne Kulieke
-- Editeur d'essais : Bob Buselli
+- Editeur d'essais : Bob Buselli
 - Editeur de poésie : Byron Belitsos
-- Éditeur artistique et conception de la plaque signalétique : Clen Thorsander
-- Graphiques et composition : Nancy Johnson
+- Éditeur artistique et conception de la plaque signalétique : Clen Thorsander
+- Graphiques et composition : Nancy Johnson
 
 Toutes les citations contenues dans ce journal, sauf indication contraire, proviennent de The Unantin Book, &copy; 1955 par la Fondation URANTIA, tous droits réservés.
 
 Dans la mesure où il n'y a pas d'interprétation officielle des enseignements du _Livre d'Urantia_, les opinions exprimées ici sont entièrement basées sur la compréhension et l'expérience religieuse personnelle de chaque auteur.
 
-Droit d'auteur et copie ; 1994 par La Bourse. Tous droits réservés.
+Droit d'auteur et copie ; 1994 par La Bourse. Tous droits réservés.
 Imprimé aux États-Unis
 
 
-## Illustration de couverture :
+## Illustration de couverture :
 
 Cette œuvre unique a été créée par les Silent Artists. À travers l'art, ce groupe d'artistes se consacre à parvenir à une meilleure compréhension de qui et de ce que nous sommes par rapport à l'univers. Il représente l'univers entier tel que décrit dans _Le Livre d'Urantia_ publié par la Fondation Urantia située à Chicago, Illinois. Cette perspective unique sur la religion, la philosophie et la science a inspiré les artistes silencieux à entreprendre cette entreprise unique en son genre. Le tableau a été réalisé grâce aux compétences et aux efforts de quelque 25 artistes individuels. Ce projet est dédié aux lecteurs du _Le Livre d'Urantia_.
 

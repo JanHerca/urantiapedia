@@ -133,7 +133,7 @@ Phillip Marriott, Adelaida, SA
 
 **Exposición de cuerpo, mente y física de Adelaida**
 
-La Exposición Mente, Cuerpo y Física de Adelaida se celebró del 28 al 29 de mayo de 2022 y decidimos reservar un stand para exhibir _El libro de Urantia_. Esta fue una nueva aventura para mí; Había estado haciendo promociones en puestos del Libro de Urantia en mis mercados locales durante varios años y tuve un éxito muy limitado; últimamente la respuesta fue pobre. Muy pocas almas fueron lo suficientemente valientes como para echar un vistazo al libro, y la mayoría de los que miraban mientras pasaban eran más bien conejitos asustados y se alejaban corriendo si me atrevía a saludar. Entonces, después de abandonar esos esfuerzos, decidí que necesitaba encontrar un barril diferente con más peces hambrientos.
+La Exposición Mente, Cuerpo y Física de Adelaida se celebró del 28 al 29 de mayo de 2022 y decidimos reservar un stand para exhibir _El libro de Urantia_. Esta fue una nueva aventura para mí; Había estado haciendo promociones en puestos del _Libro de Urantia_ en mis mercados locales durante varios años y tuve un éxito muy limitado; últimamente la respuesta fue pobre. Muy pocas almas fueron lo suficientemente valientes como para echar un vistazo al libro, y la mayoría de los que miraban mientras pasaban eran más bien conejitos asustados y se alejaban corriendo si me atrevía a saludar. Entonces, después de abandonar esos esfuerzos, decidí que necesitaba encontrar un barril diferente con más peces hambrientos.
 
 Fue entonces cuando investigué el tipo de mente, cuerpo, psíquico o espíritu de las ferias y exposiciones. Después de encontrar uno aquí en Adelaide, reservé un stand y comencé a organizarme. Al principio, no estaba seguro de si sucedería ya que todavía estábamos lidiando con las restricciones de Covid, pero finalmente sucedió y asistimos al evento. Como duró dos días, sentí que no podía hacerlo solo, así que pedí ayuda. Regina Williamson y Beavan James de Melbourne tuvieron la amabilidad de ofrecer su ayuda y acepté con entusiasmo.
 
@@ -196,7 +196,7 @@ Rita Schaad, Newcastle
 <img src="/image/article/The_Arena/Dreams-within-Orvonton-300x280.jpg" alt="Dreams within Orvonton">
 </figure>
 
-Descubrí una música bellamente inspiradora que me gustaría compartir contigo. Me topé con él mientras navegaba por el sitio web Urantia DACH, que presta servicios a lectores de habla alemana del Libro de Urantia en Alemania, Austria y Suiza.
+Descubrí una música bellamente inspiradora que me gustaría compartir contigo. Me topé con él mientras navegaba por el sitio web Urantia DACH, que presta servicios a lectores de habla alemana del _Libro de Urantia_ en Alemania, Austria y Suiza.
 
 En mayo de 2020, Nicky Bendix, un talentoso compositor de música ambiental de Dinamarca, publicó su álbum inspirado en _El Libro de Urantia_ titulado «Dreams Within Orvonton». Las composiciones inspiradoras parecen ser su especialidad y aunque a veces complejas, también son sencillas y relajantes. Dejan que «los oyentes se embarquen en un viaje acústico a través del Universo». Considero que la música de Nick es muy adecuada como fondo para el estudio de _El Libro de Urantia_.
 
@@ -253,7 +253,7 @@ Administrador de Anzura
 
 La Asociación Urantia de Australia y Nueva Zelanda (ANZURA) está formada por personas que desean ayudar a fomentar el estudio de _El Libro de Urantia_ y la difusión de sus enseñanzas en toda Australia y Nueva Zelanda. Busca hacer esto proporcionando entornos de aprendizaje interactivos en los que los estudiantes puedan profundizar y ampliar su conocimiento del libro y disfrutar de la interacción y el intercambio de ideas con sus compañeros.
 
-Nuestra intención es no obstaculizar nuestro trabajo de difusión del Libro de Urantia y sus enseñanzas con la iglesia, el templo u otras instituciones espirituales. Nuestros miembros han llegado a reconocer la importancia del libro y la belleza integrada de sus enseñanzas supremas que nos alientan a desarrollar nuestra propia filosofía a través del estudio, la experiencia, las decisiones y las acciones. Sin embargo, mantenemos la opinión y reconocemos que colectivamente hay muchos proyectos y programas valiosos que podemos emprender juntos para lograr nuestros objetivos.
+Nuestra intención es no obstaculizar nuestro trabajo de difusión del _Libro de Urantia_ y sus enseñanzas con la iglesia, el templo u otras instituciones espirituales. Nuestros miembros han llegado a reconocer la importancia del libro y la belleza integrada de sus enseñanzas supremas que nos alientan a desarrollar nuestra propia filosofía a través del estudio, la experiencia, las decisiones y las acciones. Sin embargo, mantenemos la opinión y reconocemos que colectivamente hay muchos proyectos y programas valiosos que podemos emprender juntos para lograr nuestros objetivos.
 
 [Leer más](https://anzura.urantia-association.org/2022/01/01/about-anzura/#more-1383)
 <br style="clear:both;"/>
@@ -285,7 +285,7 @@ Administrador de Anzura
 <img src="/image/article/The_Arena/UB-Endeavour-Logo-and-text-screenshot-190x300.jpg" alt="UB Endeavour">
 </figure>
 
-La misión de ANZURA es _fomentar el estudio en profundidad_ del Libro de Urantia _y difundir sus enseñanzas_.
+La misión de ANZURA es _fomentar el estudio en profundidad_ del _Libro de Urantia_ _y difundir sus enseñanzas_.
 
 El _LU Endeavour_ es una iniciativa de recaudación de fondos para que ANZURA nos ayude a difundir _El Libro de Urantia_ y sus enseñanzas en toda la región de Australia, Nueva Zelanda y el Pacífico Sur.
 

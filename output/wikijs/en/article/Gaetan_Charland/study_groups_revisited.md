@@ -109,7 +109,7 @@ Let us all remember that we need to be the change that we want to see in the wor
 
 ## References
 
-- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-november-2019/)
 - [This article](https://urantia-association.org/study-groups-revisited)
 

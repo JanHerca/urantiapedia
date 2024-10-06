@@ -39,25 +39,25 @@ Il est encore temps de s'inscrire à la Conférence internationale de la Urantia
 
 **Une retraite des filles de dieu**
 
-Annonce de la prochaine session de notre série en continu de retraites de femmes à la Fondation Urantia : l’équipe animatrice des Filles de Dieu (Katharina Becker, Doreen Heyne, Carolyn Prentice et Line St-Pierre), vous invitent à un week-end agréable, intime et expérimental.
+Annonce de la prochaine session de notre série en continu de retraites de femmes à la Fondation Urantia : l’équipe animatrice des Filles de Dieu (Katharina Becker, Doreen Heyne, Carolyn Prentice et Line St-Pierre), vous invitent à un week-end agréable, intime et expérimental.
 
-Lors de notre prochaine retraite, « Danser avec Dieu : Émerger dans la Sagesse, » quatre Filles de Dieu ont conçu un programme dans lequel nous créeront ensemble un environnement de confiance dans un cercle spirituel, afin d’explorer ensemble des questions comme :
+Lors de notre prochaine retraite, « Danser avec Dieu : Émerger dans la Sagesse, » quatre Filles de Dieu ont conçu un programme dans lequel nous créeront ensemble un environnement de confiance dans un cercle spirituel, afin d’explorer ensemble des questions comme :
 
-- Qu’est-ce que signifie pour vous cette déclaration « Jésus ne manqua jamais d’exalter le caractère sacré de l’individu ? » <a id="a45_125"></a>[LU 170:3.10](/fr/The_Urantia_Book/170#p3_10)
-- « Les anges n’envahissent jamais le sanctuaire de l’esprit humain ». <a id="a46_71"></a>[LU 113:5.1](/fr/The_Urantia_Book/113#p5_1)
-- Comment prenez-vous conscience du sacré dans le travail fastidieux de la vie quotidienne ?
+- Qu’est-ce que signifie pour vous cette déclaration « Jésus ne manqua jamais d’exalter le caractère sacré de l’individu ? » <a id="a45_125"></a>[LU 170:3.10](/fr/The_Urantia_Book/170#p3_10)
+- « Les anges n’envahissent jamais le sanctuaire de l’esprit humain ». <a id="a46_71"></a>[LU 113:5.1](/fr/The_Urantia_Book/113#p5_1)
+- Comment prenez-vous conscience du sacré dans le travail fastidieux de la vie quotidienne ?
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2017_06/052.jpg">
 </figure>
 
-**La Mission des Filles de Dieu :** Valoriser le statut d’être une femme dédiée à la croissance spirituelle, à l’avancement intellectuel et au progrès moral.
+**La Mission des Filles de Dieu :** Valoriser le statut d’être une femme dédiée à la croissance spirituelle, à l’avancement intellectuel et au progrès moral.
 
-**La Vision des Filles de Dieu :** Toucher le cœur des femmes en explorant la dignité d’être le Filles de Dieu en honorant leur valeur et leur importance et en coopérant avec l’esprit divin pour produire la moisson magnifique des fruits de l’esprit.
+**La Vision des Filles de Dieu :** Toucher le cœur des femmes en explorant la dignité d’être le Filles de Dieu en honorant leur valeur et leur importance et en coopérant avec l’esprit divin pour produire la moisson magnifique des fruits de l’esprit.
 
-Le coût de ces trois jours sera de **240.00 $** et inclut tous les repas, le logis partagé sur la base du premier arrivé, premier servi. La retraite commence avec un dîner, le jeudi soir et finit le dimanche après le déjeuner.
+Le coût de ces trois jours sera de **240.00 $** et inclut tous les repas, le logis partagé sur la base du premier arrivé, premier servi. La retraite commence avec un dîner, le jeudi soir et finit le dimanche après le déjeuner.
 
-Si vous voulez participer à cet événement, à la Fondation Urantia, 533 W. Diversey Parkway à Chicago, contactez Joanne Strobel à [joanne@urantia.org](mailto:joanne@urantia.org).
+Si vous voulez participer à cet événement, à la Fondation Urantia, 533 W. Diversey Parkway à Chicago, contactez Joanne Strobel à [joanne@urantia.org](mailto:joanne@urantia.org).
 
 
 

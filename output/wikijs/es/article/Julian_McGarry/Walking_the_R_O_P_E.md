@@ -115,7 +115,7 @@ El fragmento de Dios que habita dentro de nosotros trabaja incansablemente para 
 
 ¿Cuánto estaríamos dispuestos a pagar por la mayor experiencia de la existencia humana? ¿Quizás nuestro tiempo, algunas de nuestras posesiones mundanas o nuestro estatus social? Recuerde, cualquiera que sea nuestro tesoro, ese será el contenido del deseo de nuestro corazón. (<a id="a115_276"></a>[LU 165:5.4](/es/The_Urantia_Book/165#p5_4)) Jesús aludió a esto en una de sus parábolas más breves sobre el reino:
 
-> «_«El reino de los cielos se parece también a un comerciante que busca perlas finas; y habiendo encontrado una perla de gran valor, salió a vender todo lo que poseía para poder comprar la perla extraordinaria»{16}._» (<a id="a117_220"></a>[LU 151:4.5](/es/The_Urantia_Book/151#p4_5))
+> «_«El reino de los cielos se parece también a un comerciante que busca perlas finas; y habiendo encontrado una perla de gran valor, salió a vender todo lo que poseía para poder comprar la perla extraordinaria»._» (<a id="a117_216"></a>[LU 151:4.5](/es/The_Urantia_Book/151#p4_5))
 
 El comerciante encontró algo que era tan valioso para él que estuvo dispuesto a vender todo lo que tenía para poder comprarlo. Encontrar a Dios, conocer a Dios, experimentar a Dios íntimamente es el propósito último de la vida y, por lo tanto, vale la pena dedicar todos nuestros recursos a realizarlo personalmente.
 

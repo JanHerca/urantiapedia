@@ -22,7 +22,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </td>
         <td>
         <a href="/fr/article/Henry_Begemann/Springtime_A_study_of_the_future_3">
-          <span class="pr-2">Printemps : une étude du futur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Printemps : une étude du futur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -32,9 +32,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-_Note de l'éditeur : Cet article est apparu dans d'autres publications écrites par des lecteurs du Livre d'URANTIA. Il est reproduit ici avec la permission de l'auteur._
+_Note de l'éditeur : Cet article est apparu dans d'autres publications écrites par des lecteurs du Livre d'URANTIA. Il est reproduit ici avec la permission de l'auteur._
 
-## Printemps : une étude du futur
+## Printemps : une étude du futur
 
 Puisque les lecteurs du _Livre d'URANTIA_ sont sûrement intéressés par le sujet de la prophétie, il peut être opportun et utile d'étudier plus en profondeur ce que dit notre livre à propos d'un avenir relativement proche.
 
@@ -49,7 +49,7 @@ _Wassenaar, Pays-Bas_
 
 _Note de l'éditeur : Les paroles suivantes d'engagement profond de sa vie envers notre Père ont été découvertes dans les papiers personnels de l'auteur après son départ pour commencer sa carrière éternelle._
 
-> « Dans la Sainte Omniprésence de Dieu, je me remets aujourd'hui, ainsi que mes projets, mes idées et toutes les affaires de ma vie. J'habite dans le lieu secret du Très-Haut, et sa présence éclipsante veille sur moi, ma famille, mes affaires et tout ce qui me concerne. Dieu marche et parle en moi, et partout où je vais, son amour m'accompagne. Ses dons spirituels me parviennent sans cesse et sans cesse. Je parcours la terre avec la louange de Dieu pour toujours sur mes lèvres.
+> « Dans la Sainte Omniprésence de Dieu, je me remets aujourd'hui, ainsi que mes projets, mes idées et toutes les affaires de ma vie. J'habite dans le lieu secret du Très-Haut, et sa présence éclipsante veille sur moi, ma famille, mes affaires et tout ce qui me concerne. Dieu marche et parle en moi, et partout où je vais, son amour m'accompagne. Ses dons spirituels me parviennent sans cesse et sans cesse. Je parcours la terre avec la louange de Dieu pour toujours sur mes lèvres.
 
 _Bill Keeler_
 _Bartlesville, Oklahoma_
@@ -75,7 +75,7 @@ _Bartlesville, Oklahoma_
         </td>
         <td>
         <a href="/fr/article/Henry_Begemann/Springtime_A_study_of_the_future_3">
-          <span class="pr-2">Printemps : une étude du futur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Printemps : une étude du futur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

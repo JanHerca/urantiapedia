@@ -170,7 +170,7 @@ que puede aguantar a Dios.»
 
 Si alguien dice: «Amo a Dios», pero odia a su hermano, es un mentiroso. Porque no puede amar a Dios, a quien no ha visto, si no ama a su hermano, a quien ha visto.
 
-«_El Maestro ha enseñado a los apóstoles que son hijos de Dios{13}. Los ha llamado hermanos, y ahora, antes de irse, los llama sus amigos._» (<a id="a172_142"></a>[LU 180:1.6](/es/The_Urantia_Book/180#p1_6)) En el evangelio que llamamos Juan: «Ya no os llamo siervos, porque el siervo no Sé lo que hace su amo; en cambio, os llamo amigos.»
+«_El Maestro ha enseñado a los apóstoles que son hijos de Dios. Los ha llamado hermanos, y ahora, antes de irse, los llama sus amigos._» (<a id="a172_138"></a>[LU 180:1.6](/es/The_Urantia_Book/180#p1_6)) En el evangelio que llamamos Juan: «Ya no os llamo siervos, porque el siervo no Sé lo que hace su amo; en cambio, os llamo amigos.»
 
 P. George Ninteman, un predicador dominicano, escribe: «Cada encuentro de personas es el intercambio de regalos, pero un regalo sin un donante no es un regalo, es algo desprovisto de relación. La amistad es una relación entre personas que se ven a sí mismas como realmente son; dones del Padre unos a otros para los demás... hermanos. Un amigo es un regalo no sólo para mí, sino para los demás a través de mí... Cuando conservo a mi amigo, lo poseo, lo destruyo como «regalo». Si salvo su vida para mí, la pierdo para los demás. Las personas son dones, dones recibidos y dones dados, como el Hijo, como el Espíritu, dones _del_ Padre. La amistad es la respuesta de las personas...»
 

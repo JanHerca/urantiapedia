@@ -46,7 +46,7 @@ Ser estudiante de _El Libro de Urantia_ me ha inspirado a pensar en formas en la
 
 ## 1\. Promoción regular de libros
 
-Organizo un stand de promoción regular del Libro de Urantia en los mercados; a la que suelo asistir es _La Feria Psíquica de la Reina de Bastos_.
+Organizo un stand de promoción regular del _Libro de Urantia_ en los mercados; a la que suelo asistir es _La Feria Psíquica de la Reina de Bastos_.
 
 Esta feria se celebra una vez al mes y cada vez se traslada a un lugar diferente, por lo que siempre hay variedad de personas que vienen a visitarla. A mí particularmente me gustan este tipo de eventos porque la gente está un poco más abierta a discutir cosas de carácter esotérico. No huyen como conejos asustados si les menciono la palabra Dios, Ángeles, Espíritus o Universal, etc.
 

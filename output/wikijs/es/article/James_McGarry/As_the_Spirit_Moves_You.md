@@ -65,7 +65,7 @@ Al llegar a la edad adulta, al cumplir los veintiún años, sentí una gran nece
 - La personalidad de Dios no se presenta como un gran misterio que sólo unos pocos pueden descubrir: cualquiera puede llegar a conocer y amar a Dios a través de su propia capacidad de recibirlo.
 - Dios nos ama incondicionalmente; no tenemos que demostrarle que somos dignos de su amor. Tampoco hace acepción de personas (el amor de Dios es universal). También es fácil para Dios perdonar: misericordia infinita.
 - Se nos enseña que la salvación se basa únicamente en la fe (incluso un pequeño destello), no en la conformidad con dogmas o credos. Además, según _El Libro de Urantia_, se ha demostrado que el concepto de que el infierno es un lugar real es falso, ya que sería una contradicción con la naturaleza amorosa de Dios.
-- Dios no se enoja ni se enoja. El Dios del Libro de Urantia está completamente más allá del nivel humano, por lo que, naturalmente, no es razonable que Dios tenga emociones humanas negativas. El afecto divino es lo que debemos esperar únicamente de Dios.
+- Dios no se enoja ni se enoja. El Dios del _Libro de Urantia_ está completamente más allá del nivel humano, por lo que, naturalmente, no es razonable que Dios tenga emociones humanas negativas. El afecto divino es lo que debemos esperar únicamente de Dios.
 
 **Los documentos del Ajustador del Pensamiento porque:**
 

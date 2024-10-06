@@ -41,7 +41,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _De Patricia Jordan Snyder, California (Estados Unidos)_
 
-_Nota de la redacción: el artículo celebra la vida de Cathy Jones (9 de abril de 1925, 17 de septiembre de 2016) y sus aportaciones a la comunidad de lectores de_ El libro de Urantia_._
+_Nota de la redacción: el artículo celebra la vida de Cathy Jones (9 de abril de 1925, 17 de septiembre de 2016) y sus aportaciones a la comunidad de lectores de_ El libro de Urantia.
 
 La gracia parecía surgir de manera natural de «nuestra Cathy». Fluía con una calma que seguía siendo verdadera incluso en las horas oscuras de la prueba física que habría sacado lo peor de la mayoría de la gente. Mantuvo su fuerza de carácter, su humor, su fe y su amor.
 

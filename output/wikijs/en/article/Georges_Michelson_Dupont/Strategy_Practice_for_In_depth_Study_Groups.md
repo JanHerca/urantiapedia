@@ -321,7 +321,7 @@ The following quote from the Bible contains an error. _“It is_ by _the Son_ th
 
 It is authoritatively corrected by the following sentence: “. . . It is by the Sons of God that the universes were made. . . ". <a id="s321_128"></a>[UB 1:0.1](/en/The_Urantia_Book/1#p0_1)
 
-> “The barbarous idea of appeasing an angry God, of propitiating an offended Lord, of winning the favor of Deity through sacrifices and penance and even by the shedding of blood, represents a religion wholly puerile and primitive, a philosophy unworthy of an enlightened age of science and truth.” [UB 4:5.4](/en/The_Urantia_Book/4#p5_4)
+> “The barbarous idea of appeasing an angry God, of propitiating an offended Lord, of winning the favor of Deity through sacrifices and penance and even by the shedding of blood, represents a religion wholly puerile and primitive, a philosophy unworthy of an enlightened age of science and truth.” <a id="s323_298"></a>[UB 4:5.4](/en/The_Urantia_Book/4#p5_4)
 
 The Divine Counselor here denounces the Christian dogma of the death of Christ on the cross for the remission of the sins of men.
 

@@ -3,7 +3,7 @@ title: "Propuesta de calendario judío de tiempos de Jesús"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Jesus, Jesus times
+tags: Jesus, Jesus times, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -31,7 +31,6 @@ Las fiestas que aparecen resaltadas en negrita en el calendario son:
 El proceso de creación de este calendario se detalla en este artículo: [El calendario judío de la época de Jesús](/es/article/Jan_Herca/The_Jewish_calendar_on_Jesus_times).
 
 Una cronología resumida que incluye sólo el calendario gregoriano se puede encontrar en este artículo: [Cronología de la vida de Jesús según El Libro de Urantia](/es/article/Jan_Herca/Chronology)
-
 
 ## Año 25 d.C.
 

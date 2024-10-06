@@ -83,7 +83,7 @@ Je suis censé vous dire « comment faire », mais je ne vous dis pas comment. J
 
 Le « comment » — je ne vous dirais pas comment vous devriez actualiser votre foi dans le contexte de votre propre individualité. Nous _aurons_ du contenu social. Nous ne verrons pas, ne ressentirons pas, ne penserons pas et n’agirons pas de la même manière. Notre relation à Dieu est déterminante quant à la réalité de nos actions, je ne veux pas me concentrer sur la technique par relation – notre relation à Dieu et les uns aux autres.
 
-Réfléchissez à vos professeurs préférés. Vous souvenez-vous du tableau des éléments que votre professeur de chimie préféré vous a fait mémoriser ? Vous souvenez-vous des poèmes mémorisés en anglais ? Vous souvenez-vous de l’intégralité du discours de Gettysburg sur l’histoire américaine ? Non, vous vous souvenez du professeur, de la personne, de la relation.
+Réfléchissez à vos professeurs préférés. Vous souvenez-vous du tableau des éléments que votre professeur de chimie préféré vous a fait mémoriser ? Vous souvenez-vous des poèmes mémorisés en anglais ? Vous souvenez-vous de l’intégralité du discours de Gettysburg sur l’histoire américaine ? Non, vous vous souvenez du professeur, de la personne, de la relation.
 
 A l’inverse, si l’Église vous a laissé un mauvais goût dans la bouche… est-ce à cause des choses « irréligieuses » qui vous ont été enseignées par un professeur ou un pasteur de l’école du dimanche ? C'est probablement à cause de l'attitude de cette personne. Ce n'étaient pas les superbes enseignements ou les actions merveilleuses de Jésus qui unissaient les apôtres ensemble, mais les sentiments humains d'amitié. Ce n’était pas de la technique ; c'était une relation. Chaque apôtre considérait Jésus comme le meilleur _ami_ qu'il avait au monde.
 
@@ -133,10 +133,10 @@ Ils se regardent avec incrédulité,
 haletant et crachant,
 « Après tous les ennuis que j’ai traversés !
 « Si seulement j'avais su ça... »
-« Je n'arrive pas à m'en remettre ! »
+« Je n'arrive pas à m'en remettre ! »
 
 Exaspérés, ils se mettent en colère 
-et commencez à maudire Dieu ;
+et commencez à maudire Dieu ;
 et à cet instant même [ils ne survivent pas],
 
 C’était le jugement final, voyez-vous.

@@ -74,7 +74,7 @@ Une autre cérémonie est prévue pour IC14. Et tout enfant de plus de cinq ans 
 
 Après de nombreuses années de réunions et de conférences annuelles depuis 1976, un groupe de lecteurs de Floride est devenu la 28ème société de la Fraternité du Livre d'Urantia à être agréée. La cérémonie de charte a eu lieu au domicile de Riula et Willy Deoto à Wellington, en Floride, le samedi 22 mars. Plus de 20 lecteurs ont rejoint les Deoto et leurs enfants, Solonia et Gabriel pour une journée de partage et de camaraderie. Les Floridiens ont été rejoints par Avi et Lila Dogim ainsi que Bobbie et Steve Dreier de la New York Society.
 
-Daniel Amyx, le premier président de la société, a conçu un certificat de charte qui comprenait les noms et signatures des membres fondateurs et fondateurs. Des certificats distincts ont été créés pour les membres fondateurs et les enfants des Deoto, Solonia et Gabriel. Chaque membre a reçu une copie du certificat après un toast au champagne pour célébrer l’occasion. Les festivités, qui ont duré de 13h à 18h, comprenaient une variété infinie de délices faits maison. La nouvelle société organisera la soirée d’ouverture de l’IC’14. N'oubliez pas de venir rencontrer les nouveaux membres de la Fellowship !
+Daniel Amyx, le premier président de la société, a conçu un certificat de charte qui comprenait les noms et signatures des membres fondateurs et fondateurs. Des certificats distincts ont été créés pour les membres fondateurs et les enfants des Deoto, Solonia et Gabriel. Chaque membre a reçu une copie du certificat après un toast au champagne pour célébrer l’occasion. Les festivités, qui ont duré de 13h à 18h, comprenaient une variété infinie de délices faits maison. La nouvelle société organisera la soirée d’ouverture de l’IC’14. N'oubliez pas de venir rencontrer les nouveaux membres de la Fellowship !
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2014_Spring/005837.jpg">
@@ -90,15 +90,15 @@ Les gens languissent pour la VÉRITÉ.
 
 Nous l’avons! Ce livre a été offert parce que nous avons une urgence philosophique sur ce monde ! Le livre doit être vu par ceux qui trouveront la nourriture en lui et continueront à la diffuser, tout comme nous le faisons. Ce ministère se déroule de la même manière que Jésus a fait son travail. Nous parlons à chaque personne individuellement. Nous les rencontrons là où ils en sont dans leur voyage. Nous allons dans des endroits où nous pensons trouver des chercheurs ouverts d’esprit et sincères.
 
-VOUS POUVEZ NOUS AIDER ! Voyager dans ces villes, louer le stand, expédier les livres, imprimer le matériel et travailler le week-end pour parler de ce livre aux gens est ce que fait le comité de sensibilisation, ainsi que de nombreux autres projets. Nous sommes tous bénévoles et nous faisons ce travail merveilleux parce que nous croyons en ce que nous faisons.
+VOUS POUVEZ NOUS AIDER ! Voyager dans ces villes, louer le stand, expédier les livres, imprimer le matériel et travailler le week-end pour parler de ce livre aux gens est ce que fait le comité de sensibilisation, ainsi que de nombreux autres projets. Nous sommes tous bénévoles et nous faisons ce travail merveilleux parce que nous croyons en ce que nous faisons.
 
 Atteindre de nouveaux lecteurs ici en Amérique du Nord et partout dans le monde pour diffuser le _Livre d’Urantia_ est l’un des projets les plus réussis de la Fellowship. L'année dernière, nos infatigables membres du Comité de sensibilisation, accompagnés de nombreux bénévoles, se sont rendus dans 19 villes différentes pour faire passer le message. Aucun de ces gens n’est payé et ils font ce travail merveilleux uniquement par bonté de cœur et par amour pour la révélation. Toutes les villes et événements auxquels ils sont allés l’année dernière et où ils espèrent se rendre en 2014 figurent dans le tableau de droite.
 
-Si vous souhaitez contribuer à soutenir ces efforts de sensibilisation et tous les autres excellents travaux réalisés par la Fellowship, veuillez vous rendre sur notre site Web www.urantiabook.org et cliquer sur la section « Faire un don » en haut de la page d'accueil. et plusieurs choix apparaîtront. Choisissez simplement celui que vous aimez et suivez les instructions. Personnellement, j’ai choisi le « Don mensuel par prélèvement automatique » car il me permet de faire un petit don chaque mois directement depuis ma carte de crédit/débit. C’est le cadeau qui continue d’être offert. En tant que nouveau donateur par débit automatique de 20 $ ou plus par mois, vous recevrez gratuitement un magnifique Livre d'Urantia relié en cuir, à la feuille d'or, comme notre façon de vous remercier pour votre soutien.
+Si vous souhaitez contribuer à soutenir ces efforts de sensibilisation et tous les autres excellents travaux réalisés par la Fellowship, veuillez vous rendre sur notre site Web www.urantiabook.org et cliquer sur la section « Faire un don » en haut de la page d'accueil. et plusieurs choix apparaîtront. Choisissez simplement celui que vous aimez et suivez les instructions. Personnellement, j’ai choisi le « Don mensuel par prélèvement automatique » car il me permet de faire un petit don chaque mois directement depuis ma carte de crédit/débit. C’est le cadeau qui continue d’être offert. En tant que nouveau donateur par débit automatique de 20 $ ou plus par mois, vous recevrez gratuitement un magnifique Livre d'Urantia relié en cuir, à la feuille d'or, comme notre façon de vous remercier pour votre soutien.
 
 N’oubliez pas qu’il existe d’autres façons de donner que de simplement donner de l’argent. Si vous souhaitez faire du bénévolat lorsque les gens de sensibilisation viennent dans votre région ou pour d'autres causes, veuillez nous le faire savoir. Envoyez simplement un e-mail à Andrea ou Paula à volontaire@urantiabook.org et dites-nous comment vous aimeriez servir. Nous reviendrons vers vous pour discuter des façons dont vous pouvez aider. Ou vous pouvez nous appeler ici aux États-Unis au 303-467-7858. Nous aimerions recevoir de vos nouvelles.
 
-Pour information, les membres du comité de sensibilisation qui participent aux événements sur la gauche sont : Andrea Barnes-Chair, Lynn Goodwin, Thomas Orjala, Mary Jo Garascia, Paula Thompson et Dave Tucker.
+Pour information, les membres du comité de sensibilisation qui participent aux événements sur la gauche sont : Andrea Barnes-Chair, Lynn Goodwin, Thomas Orjala, Mary Jo Garascia, Paula Thompson et Dave Tucker.
 Cordialement,
 
 John Hay, président, Robert Burns, Barry Clark, Don Green, Paul Klaver, Cayce Snyder, Geoffrey Theiss
@@ -131,7 +131,7 @@ TOTAUX | 734 | 642 | 83 120
 
 2014<br>Villes événementielles | Coût | HNE. Événement<br>Participation
 --- | --- | ---
-RELÂCHÉ | 1 000 $ | 5500
+RELÂCHÉ | 1 000 $ | 5500
 Congrès des ovnis de Phoenix | 350 $ | 1000
 Campus de l’ASU, Tempe, Arizona | 300 $ | 1500
 Irvine | 250 $ | 1500
@@ -168,7 +168,7 @@ Par _David Kulieke_,
 
 _Ce qui suit est une conférence d'introduction donnée lors de la session d'études d'été 2013_ 
 
-Permettez-moi de lire quelque chose d'un de mes livres préférés : 
+Permettez-moi de lire quelque chose d'un de mes livres préférés : 
 
 « Ce ne sont pas des livres dont vous avez besoin, ce sont certaines des choses qui [sont]… dans les livres. … La magie réside uniquement dans ce que disent les livres, dans la manière dont ils assemblent les pièces de l’univers en un seul vêtement. 
 
@@ -189,11 +189,11 @@ Un autre problème est reconnu dans le deuxième paragraphe du livre et à de no
 Alors, comment peut-on aborder le _Livre d'Urantia_ avec de telles contraintes apparentes ? Il faut être prêt à l’étudier en profondeur. 
 - Cela signifie que même s'il peut y avoir des faits dans le _Le Livre d'Urantia_, nous ne pouvons pas lire le livre littéralement. Nous devons accepter qu’on nous donne des cadres de compréhension et, comme nous le dit l’une des références les plus importantes du livre, « … de tels cadres universels pour la pensée des créatures sont indispensables aux opérations intellectuelles rationnelles, mais, sans aucune exception, ils sont erronés à un plus ou moins haut degré._ » <a id="a189_476"></a>[[LU 115:1.1](/fr/The_Urantia_Book/115#p1_1)] 
 - Nous devons être disposés à lire le livre au sens figuré et philosophique, ce qui nécessite une approche rigoureuse de l’étude. 
-- Malgré les limites de la forme, nous devons reconnaître que les Révélateurs nous ont donné un livre, une forme qui implique le processus de médiation mentale. Entre autres choses, cela signifie que nous devrions étudier la sagesse humaine en dehors du _Livre d'Urantia_. Y a-t-il jamais eu une source d’inspiration pour s’instruire soi-même comme le _Livre d’Urantia_ ? Nous devons être prêts à lire les choses plusieurs fois, souvent en préparation d'un groupe. Et nous devons être prêts à faire des références croisées. Voici une application pratique, utilisant une idée énoncée deux fois. 
+- Malgré les limites de la forme, nous devons reconnaître que les Révélateurs nous ont donné un livre, une forme qui implique le processus de médiation mentale. Entre autres choses, cela signifie que nous devrions étudier la sagesse humaine en dehors du _Livre d'Urantia_. Y a-t-il jamais eu une source d’inspiration pour s’instruire soi-même comme le _Livre d’Urantia_ ? Nous devons être prêts à lire les choses plusieurs fois, souvent en préparation d'un groupe. Et nous devons être prêts à faire des références croisées. Voici une application pratique, utilisant une idée énoncée deux fois. 
 - (Mota 11) : _Les faibles se complaisent à des résolutions, mais les forts agissent. La vie n’est que le travail d’un jour — exécutez-le bien. L’acte est à nous, ses conséquences appartiennent à Dieu._ <a id="a192_203"></a>[[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13)] 
 - _L’homme ne s’unit pas avec le Suprême et ne fond pas en lui son identité personnelle, mais les répercussions universelles de l’expérience de tous les hommes forment bel et bien une partie de l’expérimentation divine du Suprême. « L’acte est à nous, les conséquences sont à Dieu. »_ <a id="a193_285"></a>[[LU 117:5.5](/fr/The_Urantia_Book/117#p5_5)] 
   Je crois que le premier usage de « _L'acte est le nôtre ; les conséquences appartiennent à Dieu..._ » est l’une des idées les plus souvent mal interprétées dans le livre. Cela suggère qu’une fois que nous avons agi, nous pouvons nous laver les mains des conséquences et les remettre à Dieu. Mais la deuxième utilisation de l’idée montre que même si les conséquences résident effectivement en Dieu le Suprême, nous devons également partager la responsabilité des conséquences de nos décisions. Le _Livre d'Urantia_ nécessite très souvent le contexte de plusieurs références pour avoir une perspective. 
-- Nous devons essayer d'étudier en groupe. Outre les aspects encore plus importants de la socialisation et de la création de relations avec d'autres personnalités, l’étude en groupe élargit et fait fermenter la compréhension. Combien d’entre nous ont vécu le phénomène « Quand nous lisons à l’avance, cela répond à ce dont nous venons de discuter » ? Ce n'est pas un accident. Ce n'est pas une redondance. C’est un enrichissement. 
+- Nous devons essayer d'étudier en groupe. Outre les aspects encore plus importants de la socialisation et de la création de relations avec d'autres personnalités, l’étude en groupe élargit et fait fermenter la compréhension. Combien d’entre nous ont vécu le phénomène « Quand nous lisons à l’avance, cela répond à ce dont nous venons de discuter » ? Ce n'est pas un accident. Ce n'est pas une redondance. C’est un enrichissement. 
 - Et il faut savoir que comprendre un peu mieux n'est pas une fin en soi. 
 - La connaissance porte sur des faits ; la sagesse, avec les relations, la vérité, avec les valeurs de la réalité. 
 
@@ -203,7 +203,7 @@ En décrivant les objectifs de ces sessions d'étude, je m'en voudrais de ne pas
 
 Le mandat du Comité d’Éducation est de « favoriser l’étude approfondie du _Livre d’Urantia_… » Nous sommes donc un peu partiaux. Mais nous reconnaissons également la valeur de concilier études, service et détente. On nous dit qu’à Jérusem, les activités d'un tel monde sont de trois variétés distinctes : le travail, le progrès et le jeu. En d’autres termes, ce sont : le service, l’étude et la détente. Les activités composites comprennent les relations sociales, les divertissements de groupe et le culte divin. Il y a une grande valeur éducative à se mêler à divers groupes de personnalités, d’ordres très différents de ses propres semblables._ <a id="a203_648"></a>[[LU 46:5.29](/fr/The_Urantia_Book/46#p5_29)]. 
 
-Nous espérons que votre expérience lors des sessions d’études d’été améliorera ces trois éléments !
+Nous espérons que votre expérience lors des sessions d’études d’été améliorera ces trois éléments !
 
 ## Rapport du Congrès international sur les ovnis
 
@@ -217,21 +217,21 @@ Une femme d'Afrique du Sud a acheté 5 livres pour ses amis à la maison et elle
 
 Nous avons eu un vrai régal lorsque nous avons rencontré George. Il lisait tout seul depuis 20 ans, n'ayant jamais rencontré un autre lecteur depuis tout ce temps et il était bien informé, familier avec le site Web et les pages Facebook et amoureux de l’Apocalypse. A tel point qu’il l’a partagé avec son fils de 11 ans ! Il est revenu plusieurs fois et nous avons aimé partager des histoires et faire connaissance. 
 
-Nous avons également obtenu les coordonnées de 5 lecteurs de longue date qui seront ajoutées à la base de données afin qu’ils reçoivent les messages de la Fellowship. Je viens de terminer la compilation de la liste de contacts et j'ai envoyé une lettre de « salutation » à tous avec des liens vers les groupes d'étude et une invitation à participer à la nouvelle réunion d'étude en ligne d'Andreas du lundi. Et je viens de recevoir une réponse de 2 personnes sur la liste ! Sensibilisation très excitante, ces personnes sont des chercheurs sérieux et nous avons aimé partager la Révélation Urantia avec chacun. 
+Nous avons également obtenu les coordonnées de 5 lecteurs de longue date qui seront ajoutées à la base de données afin qu’ils reçoivent les messages de la Fellowship. Je viens de terminer la compilation de la liste de contacts et j'ai envoyé une lettre de « salutation » à tous avec des liens vers les groupes d'étude et une invitation à participer à la nouvelle réunion d'étude en ligne d'Andreas du lundi. Et je viens de recevoir une réponse de 2 personnes sur la liste ! Sensibilisation très excitante, ces personnes sont des chercheurs sérieux et nous avons aimé partager la Révélation Urantia avec chacun. 
 
 Merci aux lecteurs de la Grand Canyon Society et à la Fellowship d'avoir rendu tout cela possible !
 
 ## Évènements à venir…
 
 - 17 mai 2014 : Première mini-conférence de la Société Urantia, Université DePaul, Campus O'Hare, Chicago, IL, « Unité spirituelle ». Pour plus d'informations, contactez Ken Keyser, 773-338-1127.
-- 11 - 15 juin 2014 : Symposium du groupe d'étude de l’AUI, Edgewood College, Madison, WI. www.urantiausaorg.
+- 11 - 15 juin 2014 : Symposium du groupe d'étude de l’AUI, Edgewood College, Madison, WI. www.urantiausaorg.
 - 27 - 29 juin 2014 : Conférence Urantia Madison, « Les Paraboles de Jésus », Edgewood College, Madison, WI. www.urantiausa.org.
 - 23 - 27 juillet 2014 : Conférence internationale de la Urantia Book Fellowship 2014, Université du Massachusetts, Amherst, MA. www.IC14.org. 
 
 ## Personnel du « The Mighty Messenger »
 
 Publié par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship.
-Membres : Linda Buselli, présidente Cece Forrester, David Glass, Merritt Horn, Nancy Johnson, Sage Waitts
+Membres : Linda Buselli, présidente Cece Forrester, David Glass, Merritt Horn, Nancy Johnson, Sage Waitts
 877.288.3772
 bourse@urantiabook.org
 www.urantiabook.org

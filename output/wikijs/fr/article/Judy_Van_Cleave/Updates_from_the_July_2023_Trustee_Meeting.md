@@ -48,7 +48,7 @@ Les ventes du _Livre d'Urantia_ ont connu un ralentissement cette année. Alors 
 
 ## Projet d’habilitation de livres audio
 
-Sous la direction de Marcel Peereboom, trustee associé, dont la gestion pratique a été déterminante, nous avons fait des progrès importants dans le cadre du projet « d’habilitation audio. »
+Sous la direction de Marcel Peereboom, trustee associé, dont la gestion pratique a été déterminante, nous avons fait des progrès importants dans le cadre du projet « d’habilitation audio. »
 
 Au deuxième trimestre, Marcel a recueilli les commentaires de plus d'une douzaine de volontaires qui ont écouté des voix synthétiques en six langues. L'objectif était d'identifier des voix agréables et sans accent pour les livres audio. En outre, la qualité de notre livre audio en anglais a été améliorée. Il s'agissait de remasteriser les voix humaines afin d'en améliorer la fidélité et de s'assurer qu'elles étaient lues à la bonne vitesse.
 
@@ -66,9 +66,9 @@ Au cours du deuxième trimestre, 3 000 livres anglais reliés et 2 000 livres br
 <img src="/image/article/UF_News_Online/2023_10/026.jpg">
 </figure>
 
-- Le trimestre d'avril de l'Ecole Internationale du Livre d'Urantia (UBIS) s'est terminé le 2 juillet. 17 classes en ligne ont été proposées à 215 étudiants inscrits. Les cours en sept langues ont été animés par 20 enseignants-facilitateurs bénévoles. En plus des cours en ligne réguliers, UBIS a poursuivi la nouvelle série Coup de Projecteur. Au total, 18 sessions (6 chacune) ont été proposées par les branches anglaise, française et espagnole. Elles reprendront en octobre.
+- Le trimestre d'avril de l'Ecole Internationale du Livre d'Urantia (UBIS) s'est terminé le 2 juillet. 17 classes en ligne ont été proposées à 215 étudiants inscrits. Les cours en sept langues ont été animés par 20 enseignants-facilitateurs bénévoles. En plus des cours en ligne réguliers, UBIS a poursuivi la nouvelle série Coup de Projecteur. Au total, 18 sessions (6 chacune) ont été proposées par les branches anglaise, française et espagnole. Elles reprendront en octobre.
 - Le Comité d’Éducation a annoncé le projet d'un Symposium sur le mariage et la famille qui se tiendra les vendredi 14 et samedi 15 juin 2024. L'événement se déroulera en direct sur Zoom Events et les présentations seront élaborées par une équipe de planification. Bill et Share Beasley seront les maîtres de cérémonie. Pour plus d'informations, contactez [joanne@urantia.org](mailto:joanne@urantia.org).
-- Les membres du Comité du Répertoire des Groupes d’Étude Urantia sont entrés avec enthousiasme dans une nouvelle ère de nettoyage de la base de données ! Le processus a été automatisé, soulageant l'équipe d'un travail manuel qui prenait beaucoup de temps. Comme toujours, l'équipe a exprimé sa gratitude envers les trois organisations qui la parrainent : La Fellowship du Livre d’Urantia représentée par Jackie Koury ; L’Association Urantia Internationale, représentée par Rick Lyon ; et la Fondation Urantia, représentée par Tamara Strumfeld. Bill Beasley est le président du comité et Scott Brooks gère le site web.
+- Les membres du Comité du Répertoire des Groupes d’Étude Urantia sont entrés avec enthousiasme dans une nouvelle ère de nettoyage de la base de données ! Le processus a été automatisé, soulageant l'équipe d'un travail manuel qui prenait beaucoup de temps. Comme toujours, l'équipe a exprimé sa gratitude envers les trois organisations qui la parrainent : La Fellowship du Livre d’Urantia représentée par Jackie Koury ; L’Association Urantia Internationale, représentée par Rick Lyon ; et la Fondation Urantia, représentée par Tamara Strumfeld. Bill Beasley est le président du comité et Scott Brooks gère le site web.
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2023_10/014.jpg">
@@ -89,7 +89,7 @@ Au cours du deuxième trimestre, 3 000 livres anglais reliés et 2 000 livres br
 <img src="/image/article/UF_News_Online/2023_10/016.jpg">
 </figure>
 
-Le deuxième et dernier tour du Programme de Subventions de la Graine de Moutarde (MSGP) 2023 a été lancé le lundi 10 juillet. Le MSGP prévoit de financer des projets d'un montant total de 44 000 dollars pour cette série , ce qui porte le total cumulé des séries 1 et 2 à 100 000 dollars. Les candidats individuels peuvent demander jusqu'à 7 500 dollars. Le créneau de candidature s'est refermée le 21 août, et les annonces d'attribution sont prévues pour le 24 octobre 2023. Pour plus d'informations, consultez le site [https://www.urantia.org/fr/la-fondation-urantia/programme-de-subventions-de-la-graine-de-moutarde](https://www.urantia.org/fr/la-fondation-urantia/programme-de-subventions-de-la-graine-de-moutarde)
+Le deuxième et dernier tour du Programme de Subventions de la Graine de Moutarde (MSGP) 2023 a été lancé le lundi 10 juillet. Le MSGP prévoit de financer des projets d'un montant total de 44 000 dollars pour cette série , ce qui porte le total cumulé des séries 1 et 2 à 100 000 dollars. Les candidats individuels peuvent demander jusqu'à 7 500 dollars. Le créneau de candidature s'est refermée le 21 août, et les annonces d'attribution sont prévues pour le 24 octobre 2023. Pour plus d'informations, consultez le site [https://www.urantia.org/fr/la-fondation-urantia/programme-de-subventions-de-la-graine-de-moutarde](https://www.urantia.org/fr/la-fondation-urantia/programme-de-subventions-de-la-graine-de-moutarde)
 
 Le conseil d'administration exprime sa profonde gratitude :
 

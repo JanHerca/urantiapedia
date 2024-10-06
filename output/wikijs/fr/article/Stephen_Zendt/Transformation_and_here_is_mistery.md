@@ -1,5 +1,5 @@
 ---
-title: "Transformation : et voici le mystère"
+title: "Transformation : et voici le mystère"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -41,13 +41,13 @@ Le grand philosophe et religieux danois Kierkegaard a déclaré : « La plupart 
 
 Je commence à penser que l’acte de transformation personnelle consiste à amener nos horloges intérieures au point où elles indiquent l’heure vraie.
 
-Le _Webster's Ninth Collegiate Dictionary_ définit la transformation de la manière suivante : « Changer de caractère, se convertir. » Il y a un commentaire supplémentaire qui dit : « La transformation implique un changement majeur dans la forme, la nature ou la fonction. » Certes, la transformation spirituelle implique les trois, à la fois temporellement et éternellement.
+Le _Webster's Ninth Collegiate Dictionary_ définit la transformation de la manière suivante : « Changer de caractère, se convertir. » Il y a un commentaire supplémentaire qui dit : « La transformation implique un changement majeur dans la forme, la nature ou la fonction. » Certes, la transformation spirituelle implique les trois, à la fois temporellement et éternellement.
 
 Je crois que les bonnes personnes qui m'ont demandé de parler aujourd'hui ont estimé que j'avais une certaine connaissance de la transformation personnelle. Au cours de ma carrière d'acteur, je me suis parfois transformé huit fois par semaine. En plus de cela, au fil des années, je suis passé d'un hippie maigre et fumeur de drogue à un homme d'affaires en surpoids et stressé approchant de la crise de la quarantaine. Mais pour revenir un instant au théâtre, il appartient à l'acteur de se motiver à se comporter comme s'il était une autre personne, afin d'atteindre le sens voulu par le dramaturge, en suivant les instructions du metteur en scène, tout en portant les créations du costumier. On n’agit tout simplement pas comme soi-même lorsque le rideau se lève.
 
 Quelle surprise cela doit être pour les chercheurs spirituels sincères qui deviennent des étudiants de la cinquième révélation d'époque d'apprendre que nous sommes censés choisir d'écrire notre propre partie du Drame Cosmique et d'agir selon les idéaux les plus élevés pour le bénéfice de nos semblables mortels. . Surtout, devenir vraiment et sincèrement réel.
 
-Sur LU 117 :4.12 du _Livre d'URANTIA_, un Puissant Messager nous dit : « _L’homme a reçu en garde non seulement la présence de l’Ajusteur du Père du Paradis, mais aussi le contrôle sur la destinée d’une fraction infinitésimale de l’avenir du Suprême. Car, de même que l’homme atteint sa destinée humaine, de même le Suprême accomplit sa destinée sur les niveaux de déité._ » (<a id="a49_376"></a>[LU 117:4.12](/fr/The_Urantia_Book/117#p4_12)) « _Et voici un mystère : Plus un homme approche Dieu de près par l’amour, plus la réalité — l’actualité — de cet homme est grande._" (<a id="a49_557"></a>[LU 117:4.14](/fr/The_Urantia_Book/117#p4_14))
+Sur LU 117 :4.12 du _Livre d'URANTIA_, un Puissant Messager nous dit : « _L’homme a reçu en garde non seulement la présence de l’Ajusteur du Père du Paradis, mais aussi le contrôle sur la destinée d’une fraction infinitésimale de l’avenir du Suprême. Car, de même que l’homme atteint sa destinée humaine, de même le Suprême accomplit sa destinée sur les niveaux de déité._ » (<a id="a49_376"></a>[LU 117:4.12](/fr/The_Urantia_Book/117#p4_12)) « _Et voici un mystère : Plus un homme approche Dieu de près par l’amour, plus la réalité — l’actualité — de cet homme est grande._" (<a id="a49_557"></a>[LU 117:4.14](/fr/The_Urantia_Book/117#p4_14))
 
 Voilà donc notre motivation en tant qu'acteurs de cet immense théâtre de l'univers : aimer comme Jésus nous aime.
 
@@ -59,7 +59,7 @@ Ainsi, à mesure que nous transformons notre vie personnelle grâce à la croiss
 
 Lorsque nous regardons de plus près le processus de transformation personnelle, nous abordons la vie intérieure, ce lieu singulier le plus intime en nous, où nous choisissons la volonté du Père. C'est l'endroit où nous nous rapprochons le plus du Dieu qui est à l'intérieur.
 
-Maître Eckhart, le grand mystique allemand, a écrit un jour : « La semence de Dieu est en nous. Étant donné un agriculteur intelligent et travailleur, il prospérera et grandira jusqu'à Dieu, dont il est la semence ; et par conséquent, ses fruits seront la nature divine. Les graines de poire poussent en poiriers, les graines de noix en arbres à noix et les graines de Dieu en Dieu. Cette déclaration d’une simplicité trompeuse contient pour moi la réalisation étonnante que nous transformons notre nature mortelle en vases d’amour clarifiés. Et nous savons que cet amour vient de Dieu et vient de Dieu, et qu’il nous conduira finalement à la présence du Père lui-même, qui est amour vivant.
+Maître Eckhart, le grand mystique allemand, a écrit un jour : « La semence de Dieu est en nous. Étant donné un agriculteur intelligent et travailleur, il prospérera et grandira jusqu'à Dieu, dont il est la semence ; et par conséquent, ses fruits seront la nature divine. Les graines de poire poussent en poiriers, les graines de noix en arbres à noix et les graines de Dieu en Dieu. Cette déclaration d’une simplicité trompeuse contient pour moi la réalisation étonnante que nous transformons notre nature mortelle en vases d’amour clarifiés. Et nous savons que cet amour vient de Dieu et vient de Dieu, et qu’il nous conduira finalement à la présence du Père lui-même, qui est amour vivant.
 
 Alors comment le fait-on? Comment accomplissons-nous l’acte de transformation sur nous-mêmes ? Notre vingtième siècle a vu le développement d’une pléthore de cultes, d’«ismes» et d’«ologies», tous reflétant le besoin profond que ressentent de nombreuses personnes en matière de techniques et de formation à l’illumination. Mais le _Livre d'URANTIA_ indique que nos esprits humains paresseux veulent que tout ce qui est complexe soit rendu simple. Nous choisissons un statut secondaire, soutenant la prêtrise de tous côtés, pour nous montrer comment devenir pleinement conscients. Cela doit être une étape dans notre développement évolutif, et cela nous amène une grande variété de fous et de saints potentiels emballant leur propre marque de sagesse développementale. De Shirley McLaine au Maharishi en passant par Jim et Tammy Bakker, nous avons un assortiment de bons et de mauvais conseils.
 

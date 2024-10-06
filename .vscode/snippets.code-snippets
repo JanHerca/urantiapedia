@@ -51,6 +51,12 @@
 		"body": "[UB ${1:paper}:${2:section}.${3:par}](/en/The_Urantia_Book/${1:paper}#p${2:section}_${3:par})",
 		"description": "Insert a Markdown link"
 	},
+	"Markdown Urantia Book link french": {
+		"scope": "markdown",
+		"prefix": "ubef",
+		"body": "[LU ${1:paper}:${2:section}.${3:par}](/fr/The_Urantia_Book/${1:paper}#p${2:section}_${3:par})",
+		"description": "Insert a Markdown link"
+	},
 	"Page ID": {
 		"scope": "markdown",
 		"prefix": "pp",
@@ -60,7 +66,19 @@
 	"Figure": {
 		"scope": "markdown",
 		"prefix": "fig",
-		"body": "<figure id=\"Figure_${1:number}\" class=\"image urantiapedia\">\n<img src=\"/image/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/${2:string}.jpg\">\n<figcaption>Fig. ${1:number}. — ${3:string}</figcapton>\n</figure>",
+		"body": "<figure id=\"Figure_${1:number}\" class=\"image urantiapedia\">\n<img src=\"/image/article/Reflectivite/2024_01/${2:string}.jpg\">\n<figcaption>Fig. ${1:number}. — ${3:string}</figcaption>\n</figure>",
+		"description": "Figure as HTML - Requires to update the link"
+	},
+	"Figure Right": {
+		"scope": "markdown",
+		"prefix": "figr",
+		"body": "<figure id=\"Figure_${1:number}\" class=\"image urantiapedia image-style-align-right\">\n<img src=\"/image/article/Reflectivite/2024_01/${2:string}.jpg\">\n<figcaption>Fig. ${1:number}. — ${3:string}</figcaption>\n</figure>",
+		"description": "Figure as HTML - Requires to update the link"
+	},
+	"Figure Left": {
+		"scope": "markdown",
+		"prefix": "figl",
+		"body": "<figure id=\"Figure_${1:number}\" class=\"image urantiapedia image-style-align-left\">\n<img src=\"/image/article/Reflectivite/2024_01/${2:string}.jpg\">\n<figcaption>Fig. ${1:number}. — ${3:string}</figcaption>\n</figure>",
 		"description": "Figure as HTML - Requires to update the link"
 	},
 	"HTML Ins": {

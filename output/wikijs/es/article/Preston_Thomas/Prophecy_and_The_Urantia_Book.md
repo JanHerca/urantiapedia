@@ -114,7 +114,7 @@ _El Libro de Urantia_ _en sí mismo se dedica a la profecía y contiene numerosa
 
 > Este nuevo orden social que se aproxima no se establecerá afablemente durante un milenio. <a id="a114_92"></a>[[LU 99:1.1](/es/The_Urantia_Book/99#p1_1)]
 
-## La profecía del Libro de Urantia y el conflicto secular-espiritual
+## La profecía del _Libro de Urantia_ y el conflicto secular-espiritual
 
 Si estamos abiertos a la profecía y leemos _El Libro de Urantia_ con atención al contenido profético, podemos aprender mucho sobre nuestro futuro. Por ejemplo, considere el surgimiento del secularismo moderno y su conflicto con la religión. ¿Qué podemos aprender sobre el futuro de esta lucha y cuál será su resultado final?
 

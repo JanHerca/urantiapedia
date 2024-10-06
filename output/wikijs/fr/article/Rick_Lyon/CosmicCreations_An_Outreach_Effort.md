@@ -44,7 +44,7 @@ CosmicCreations n’est pas affilié à aucune organisation de lecteurs, mais es
 <img src="/image/article/UF_News_Online/2016_06/047.jpg">
 </figure>
 
-Le but de cette boutique en ligne est triple : Premièrement, en affichant les cercles concentriques, les gens curieux pourraient demander : « Qu’est-ce-qu’Urantia ? » ou « Que représentent ces cercles ? » Peut-être cela vous ouvrira des portes pour partager les enseignements du _Livre d’Urantia_, avec une nouvelle personne.
+Le but de cette boutique en ligne est triple : Premièrement, en affichant les cercles concentriques, les gens curieux pourraient demander : « Qu’est-ce-qu’Urantia ? » ou « Que représentent ces cercles ? » Peut-être cela vous ouvrira des portes pour partager les enseignements du _Livre d’Urantia_, avec une nouvelle personne.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2016_06/050.jpg">
@@ -53,13 +53,13 @@ Le but de cette boutique en ligne est triple : Premièrement, en affichant les 
 
 Deuxièmement, vous pourriez trouver des personnes pensant comme vous, dans votre entourage que vous n’auriez pas rencontré auparavant. Peut-être, vous vous seriez manqués, ne réalisant pas que vous étiez similaires.
 
-Lorsqu’ils voient votre T-shirt ou polo, votre chapeau ou collier avec les cercles concentriques, ils reconnaissent immédiatement que vous êtes un « lecteur ». Alors cela peut découler en amitié et éventuellement à former un groupe d’étude dans votre région.
+Lorsqu’ils voient votre T-shirt ou polo, votre chapeau ou collier avec les cercles concentriques, ils reconnaissent immédiatement que vous êtes un « lecteur ». Alors cela peut découler en amitié et éventuellement à former un groupe d’étude dans votre région.
 
-Et troisièmement, à chaque fois que vous utilisez votre gobelet à café Urantia, votre étiquette à bagages à l’aéroport ou votre porte-clé lorsque vous allez en voiture au travail, vous vous rappellerez que vous faites partie du plus important projet de la planète, aujourd’hui. Vous vous souviendrez quotidiennement que (reprenant les termes du Mandat de Publication), « vous participez à la naissance d’un âge nouveau de religion sur ce monde ».
+Et troisièmement, à chaque fois que vous utilisez votre gobelet à café Urantia, votre étiquette à bagages à l’aéroport ou votre porte-clé lorsque vous allez en voiture au travail, vous vous rappellerez que vous faites partie du plus important projet de la planète, aujourd’hui. Vous vous souviendrez quotidiennement que (reprenant les termes du Mandat de Publication), « vous participez à la naissance d’un âge nouveau de religion sur ce monde ».
 
-CosmicCreations a bien été reçu et de nombreux commentaires positifs ont été postés sur le site web, eBay et Facebook. Susan Grzeskowiak, l’artiste et la dessinatrice des produits et moi-même sont heureux de dire que nous avons des contacts avec beaucoup de lecteurs inconnus jusque là ; quelques uns n’ont jamais contacté d’autres lecteurs ou participé à un événement.
+CosmicCreations a bien été reçu et de nombreux commentaires positifs ont été postés sur le site web, eBay et Facebook. Susan Grzeskowiak, l’artiste et la dessinatrice des produits et moi-même sont heureux de dire que nous avons des contacts avec beaucoup de lecteurs inconnus jusque là ; quelques uns n’ont jamais contacté d’autres lecteurs ou participé à un événement.
 
-Un représentant de CosmicCreations a été présent à plusieurs réunions des lecteurs du Livre d’Urantia : un événement pour les lecteurs du livre en Alabama ; une conférence Urantia Internationale au Canada ; une conférence régionale sponsorisée par la Société Orvonton de la Fellowship à Indianapolis ; et à San Antonio à une conférence sponsorisée conjointement par l’Association Urantia des États-Unis, la Fellowship du Livre d’Urantia et la Fondation Urantia en juin 2016. Nous serons présents aux conférences futures et espérons que vous vous arrêterez à notre stand.
+Un représentant de CosmicCreations a été présent à plusieurs réunions des lecteurs du Livre d’Urantia : un événement pour les lecteurs du livre en Alabama ; une conférence Urantia Internationale au Canada ; une conférence régionale sponsorisée par la Société Orvonton de la Fellowship à Indianapolis ; et à San Antonio à une conférence sponsorisée conjointement par l’Association Urantia des États-Unis, la Fellowship du Livre d’Urantia et la Fondation Urantia en juin 2016. Nous serons présents aux conférences futures et espérons que vous vous arrêterez à notre stand.
 
 En attendant, visitez notre boutique à [www.CosmicCreations.biz](https://cosmiccreations.biz/)
 

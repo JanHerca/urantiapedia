@@ -25,7 +25,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </td>
         <td>
         <a href="/fr/article/Jim_McNelly/Evolving_a_personal_religious_experience">
-          <span class="pr-2">Faire évoluer une expérience religieuse personnelle : de la croyance à la foi en vérité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Faire évoluer une expérience religieuse personnelle : de la croyance à la foi en vérité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -37,7 +37,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Il peut y avoir une grande différence entre agir selon de bonnes motivations humaines et faire la volonté du Père. La moralité, et ses motivations corrélées, est avant tout un phénomène évolutif. Il s’agit alors d’un « super-animal, mais sous-spirituel ». La moralité dérivée de ce niveau n’est pas une activité spirituelle, mais une activité dérivée du sens du devoir. La moralité telle que Jésus l'a enseignée est plus qu'évolutive, elle est révélatrice, car son origine se trouve dans la relation père-enfant. Cette relation vécue a pour conséquence une moralité renforcée qui transcende le devoir. « _La caractéristique majeure de l’enseignement de Jésus était que la moralité de sa philosophie dérivait des relations personnelles entre l’individu et Dieu — précisément cette relation d’enfant à père._ » (<a id="a37_810"></a>[LU 140:10.5](/fr/The_Urantia_Book/140#p10_5))
 
-Nous pouvons intellectuellement l’accepter, le croire, mais cela n’est pas suffisant, ce n’est pas la réalité. _Le Livre d'URANTIA_ met continuellement et systématiquement l'accent sur le fait qu'une telle relation devrait être une réalité pour nous. La première phase du royaume est décrite comme : «_L’expérience personnelle et intérieure de la vie spirituelle du croyant communiant individuellement avec Dieu le Père._» (<a id="a39_424"></a>[LU 170:4.2](/fr/The_Urantia_Book/170#p4_2)) Ensuite, la deuxième phase du royaume résulte comme « _La croissance de la fraternité des croyants à l’évangile, les aspects sociaux de la morale supérieure et de l’éthique vivifiée résultant du règne de l’esprit de Dieu dans le cœur des croyants individuels._ » (<a id="a39_733"></a>[LU 170:4.3](/fr/The_Urantia_Book/170#p4_3))
+Nous pouvons intellectuellement l’accepter, le croire, mais cela n’est pas suffisant, ce n’est pas la réalité. _Le Livre d'URANTIA_ met continuellement et systématiquement l'accent sur le fait qu'une telle relation devrait être une réalité pour nous. La première phase du royaume est décrite comme : «_L’expérience personnelle et intérieure de la vie spirituelle du croyant communiant individuellement avec Dieu le Père._» (<a id="a39_424"></a>[LU 170:4.2](/fr/The_Urantia_Book/170#p4_2)) Ensuite, la deuxième phase du royaume résulte comme « _La croissance de la fraternité des croyants à l’évangile, les aspects sociaux de la morale supérieure et de l’éthique vivifiée résultant du règne de l’esprit de Dieu dans le cœur des croyants individuels._ » (<a id="a39_733"></a>[LU 170:4.3](/fr/The_Urantia_Book/170#p4_3))
 
 Avoir vécu une fois ce contact avec le Père n'implique pas que ce contact soit désormais une relation factuelle établie. Trop souvent et trop facilement, nous nous éloignons de ce contact vivant. Notre moralité n’est alors plus enracinée dans cette expérience de communion et redescend au niveau évolutif du devoir, même si nos buts et nos desseins peuvent théoriquement rester les mêmes. Nous agissons alors comme des fils de Dieu (au mieux), mais pas dans une filiation _avec_ Dieu. Et nos bons motifs et intentions sont donc humains, et non divins, bien qu'ils puissent être nos _concepts_ humains (et non notre expérience) de la volonté du Père.
 
@@ -47,7 +47,7 @@ Connaître la volonté du Père nécessite un contact réel et vivant avec lui, 
 
 La volonté du Père est la voie du Père. Ses voies sont caractérisées par la beauté, la bonté, la vérité, la miséricorde, l'équité, la grandeur, la noblesse, etc. Et si nous désirons faire la volonté du Père, nos voies doivent refléter ces mêmes valeurs, même si nécessairement de manière incomplète et finie. montrer les fruits de l’esprit. Et c'est par ces fruits que nous serons jugés. Personne ne peut juger le contact de quelqu'un d'autre avec le Père. Mais un bon arbre produira de bons fruits, et un mauvais arbre de mauvais fruits.
 
-Le Père, en général, ne nous dit pas quoi faire, mais comment agir. S'il disait : faites ceci, faites cela, il ne nous traiterait pas comme des fils, mais comme des serviteurs. Le Père nous respecte trop pour cela. Mais il a toujours envie de nous montrer comment nous devons agir. «_La volonté du Père est manifeste dans tous les univers»,_ Ses attributs sont ; et nous les connaissons comme des valeurs spirituelles.
+Le Père, en général, ne nous dit pas quoi faire, mais comment agir. S'il disait : faites ceci, faites cela, il ne nous traiterait pas comme des fils, mais comme des serviteurs. Le Père nous respecte trop pour cela. Mais il a toujours envie de nous montrer comment nous devons agir. «_La volonté du Père est manifeste dans tous les univers»,_ Ses attributs sont ; et nous les connaissons comme des valeurs spirituelles.
 
 Ainsi, lorsque nous devons prendre une décision ou que nous avons un problème, nous ne devons pas nous soumettre à notre esprit humain qui veut s’attaquer au problème lui-même. La solution d’un problème ne réside pas dans ce problème, elle doit être trouvée à un niveau supérieur. Nous devrions détourner le regard du problème et faire comme Jésus : concentrer notre esprit sur les attributs du Père. Alors nous nous rendons vite compte que toutes les solutions au problème qui ne reflètent pas, ou à peine, ces attributs, ne sont pas la voie du Père. Cela nous fait déjà changer d’avis. Et lorsque nous commençons à ressentir la vérité, la beauté et la bonté dans notre esprit méditatif, cet esprit s’éclaire et se spiritualise. Et le _foi_ sait que le _quoi_ de la volonté du Père se déroulera maintenant que nous commençons à voir le comment de sa volonté.
 
@@ -78,7 +78,7 @@ _Wassenaar, Pays-Bas_
         </td>
         <td>
         <a href="/fr/article/Jim_McNelly/Evolving_a_personal_religious_experience">
-          <span class="pr-2">Faire évoluer une expérience religieuse personnelle : de la croyance à la foi en vérité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Faire évoluer une expérience religieuse personnelle : de la croyance à la foi en vérité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

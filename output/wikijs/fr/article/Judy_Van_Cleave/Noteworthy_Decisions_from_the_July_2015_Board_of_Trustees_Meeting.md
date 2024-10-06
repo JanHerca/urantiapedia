@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-3-sept-2015">
+        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-3-septembre-2015">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 3, Sept. 2015 — Table des matières</span>
         </a>
         </td>
@@ -61,15 +61,15 @@ Gard Jameson, fit un rapport sur le Parlement des Religions du Monde se tenant e
 
 ## Livres
 
-Comme d’habitude, le Comité du Livre décrivit l’actualité de la distribution mondiale des livres d’Urantia. Nous avons aussi passé en revue les nouvelles impressions de livres en anglais, espagnol et portugais. Le nouveau livre anglais en Simili Cuir British Tan, a reçu de bonnes critiques des lecteurs de longue date et est disponible sur Amazon à : [https://amzn.to/1JflEty](https://amzn.to/1JflEty)
+Comme d’habitude, le Comité du Livre décrivit l’actualité de la distribution mondiale des livres d’Urantia. Nous avons aussi passé en revue les nouvelles impressions de livres en anglais, espagnol et portugais. Le nouveau livre anglais en Simili Cuir British Tan, a reçu de bonnes critiques des lecteurs de longue date et est disponible sur Amazon à : [https://amzn.to/1JflEty](https://amzn.to/1JflEty)
 
-L’une des plus importantes choses que vous puissiez faire pour le projet du Livre d’Urantia, est de poster un court commentaire à propos du _Livre d’Urantia_ sur Amazon. Partager avec d’autres, comment et pourquoi, cette révélation a changé votre vie, pourrait faire une différence convaincante concernant leurs décisions de lire le livre. En ce moment, 460 personnes ont donné leur avis avec une moyenne de 4.4 sur 5.0. Plus il y aura de commentaires, mieux ce sera ! Nous espérons atteindre 500 commentaires à la fin de l’année. Voici le lien : [https://amzn.to/1UFu2Vh](https://amzn.to/1UFu2Vh). Et pendant que vous y êtes, si vous avez le temps, ajouter votre commentaire, s’il vous plait, sur les livres en cuir souple de la Fondation. Les liens sont/ [https://amzn.to/1TwvzQh](https://amzn.to/1TwvzQh) et [https://amzn.to/1JfnKcU](https://amzn.to/1JfnKcU)
+L’une des plus importantes choses que vous puissiez faire pour le projet du Livre d’Urantia, est de poster un court commentaire à propos du _Livre d’Urantia_ sur Amazon. Partager avec d’autres, comment et pourquoi, cette révélation a changé votre vie, pourrait faire une différence convaincante concernant leurs décisions de lire le livre. En ce moment, 460 personnes ont donné leur avis avec une moyenne de 4.4 sur 5.0. Plus il y aura de commentaires, mieux ce sera ! Nous espérons atteindre 500 commentaires à la fin de l’année. Voici le lien : [https://amzn.to/1UFu2Vh](https://amzn.to/1UFu2Vh). Et pendant que vous y êtes, si vous avez le temps, ajouter votre commentaire, s’il vous plait, sur les livres en cuir souple de la Fondation. Les liens sont/ [https://amzn.to/1TwvzQh](https://amzn.to/1TwvzQh) et [https://amzn.to/1JfnKcU](https://amzn.to/1JfnKcU)
 
-Pour ceux qui commandent les livres directement à la Fondation, nous vous encourageons à les acheter directement sur Amazon, à la place ; lorsque vous achetez sur Amazon, vous avantagez tout le monde parce que vous gardez le livre dans les canaux commerciaux de la distribution de livre.
+Pour ceux qui commandent les livres directement à la Fondation, nous vous encourageons à les acheter directement sur Amazon, à la place ; lorsque vous achetez sur Amazon, vous avantagez tout le monde parce que vous gardez le livre dans les canaux commerciaux de la distribution de livre.
 
 ## Trustees associés
 
-Guy Perron de Montréal, Canada, a été élu pour servir une période de trois ans comme trustee associé ; Guy a été un enseignant d’UBIS très apprécié et nous lui souhaitons la bienvenue dans notre équipe. En même temps, Sandra Burga-Cisneros a résigné du comité d’administration. Nous la remercions profondément pour son temps et son service parmi nous comme trustee associé.
+Guy Perron de Montréal, Canada, a été élu pour servir une période de trois ans comme trustee associé ; Guy a été un enseignant d’UBIS très apprécié et nous lui souhaitons la bienvenue dans notre équipe. En même temps, Sandra Burga-Cisneros a résigné du comité d’administration. Nous la remercions profondément pour son temps et son service parmi nous comme trustee associé.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2015_09/012.jpg">
@@ -100,7 +100,7 @@ L’édition en cuir souple British Tan du Livre d’Urantia, dans sa boite
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-3-sept-2015">
+        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-3-septembre-2015">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 3, Sept. 2015 — Table des matières</span>
         </a>
         </td>

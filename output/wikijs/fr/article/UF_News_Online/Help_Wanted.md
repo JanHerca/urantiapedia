@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-3-sept-2013">
+        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-3-septembre-2013">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 3, Sept. 2013 — Table des matières</span>
         </a>
         </td>
@@ -33,14 +33,14 @@ dateCreated: 2023-8-29T10:55:6Z
 
 ## Hébreu
 
-La Fondation Urantia et les traducteurs du _Livre d’Urantia_ en hébreu besoin d’aide avec ce qui suit :
+La Fondation Urantia et les traducteurs du _Livre d’Urantia_ en hébreu besoin d’aide avec ce qui suit :
 
 - Pour discuter de la terminologie de la théologie et des nombreux concepts du _Livre d’Urantia._
 - Pour le financement de la traduction en hébreu.
 
 Si votre langue maternelle est l’hébreu et si vous souhaitez lire les premiers jets de la traduction en hébreu ou participer à un groupe d’étude ou les deux, veuillez contacter Tamara à [tamara@urantia.org](mailto:tamara@urantia.org) ou Georges Michelson-Dupont, directeur des traductions pour la Fondation Urantia, à [georges.michelson-dupont@wanadoo.fr](mailto:georges.michelson-dupont@wanadoo.fr)
 
-אם עברית היא שפת אימכם ואם תרצו לעיין בטיוטת התרגום, להשתתף בקבוצת לימוד או שניהם, נא צרו קשר עם תמרה ב [tamara@urantia.org](mailto:tamara@urantia.org) או עם ג׳ורג׳ מיכלסון-דופונט, מנהל פרוייקטי התרגום של נאמנות אורנטיה ב  [georges.michelson-dupont@wanadoo.fr](mailto:georges.michelson-dupont@wanadoo.fr).
+אם עברית היא שפת אימכם ואם תרצו לעיין בטיוטת התרגום, להשתתף בקבוצת לימוד או שניהם, נא צרו קשר עם תמרה ב [tamara@urantia.org](mailto:tamara@urantia.org) או עם ג׳ורג׳ מיכלסון-דופונט, מנהל פרוייקטי התרגום של נאמנות אורנטיה ב  [georges.michelson-dupont@wanadoo.fr](mailto:georges.michelson-dupont@wanadoo.fr).
 
 ## Chinois
 
@@ -94,7 +94,7 @@ S’il vous plaît contacter la Fondation Urantia à [tamara@urantia.org.](mailt
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-3-sept-2013">
+        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-3-septembre-2013">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 3, Sept. 2013 — Table des matières</span>
         </a>
         </td>

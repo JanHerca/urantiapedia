@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-5-numéro-3-sept-2011">
+        <a href="/fr/index/articles_uf_news_online#volume-5-numéro-3-septembre-2011">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 3, Sept. 2011 — Table des matières</span>
         </a>
         </td>
@@ -55,7 +55,7 @@ La recherche en cours pour trouver de jeunes leaders et des volontaires, continu
 
 ## Impression de livres, ventes et distribution :
 
-1. _Augmenter les ventes de livre et la distribution en 2011 de sept pour cent sur les 20 000 livres distribués en 2010_. _Les améliorations ciblées pour les ventes et la distribution, comprenant les e-books, l’audio, les ventes dans les librairies et les téléchargements sur le web_.
+1. _Augmenter les ventes de livre et la distribution en 2011 de sept pour cent sur les 20 000 livres distribués en 2010_. _Les améliorations ciblées pour les ventes et la distribution, comprenant les e-books, l’audio, les ventes dans les librairies et les téléchargements sur le web_.
 
 Les ventes de livres en papier de la Fondation Urantia pour le premier trimestre 2011 étaient légèrement en hausse. Les librairies en Amérique du Nord continuent à lutter contre la compétition des ventes sur internet et des livres numériques. Les téléchargements du _Livre d’Urantia_ augmentent d’une façon spectaculaire, l’objectif sera atteint mais l’industrie du livre reste un challenge.
 
@@ -91,17 +91,17 @@ Un logiciel de traduction, comme support des projets de traduction et des projet
 
 1. _Maintenir l’objectif de créer 1000 groupes d’étude pour 2025, coopérer avec leslecteurs etl_es _organisations en soutenant un portail centralisé de groupes d’étude, participer à l’initiative de groupes d’étudeet pourvoir àune formation d’enseignants et de leaders pour les groupes d’étude_.
 
-La Fellowship du _Livre d’Urantia_, L’Association Urantia Internationnale ( AUI ) et la Fondation Urantia ont lancé un portail de groupes d’étude, global et apolitique, prévu comme le dépositaire de tous les groupes d’étude du _Livre d’Urantia_ enregistrés publiquement dans le monde.
+La Fellowship du _Livre d’Urantia_, L’Association Urantia Internationnale ( AUI ) et la Fondation Urantia ont lancé un portail de groupes d’étude, global et apolitique, prévu comme le dépositaire de tous les groupes d’étude du _Livre d’Urantia_ enregistrés publiquement dans le monde.
 
 Si vous ne l’avez pas encore fait, enregistrez, s’il vous plait, votre groupe d’étude sur: https://www.urantiastudygroup.org/
 
 Un grand merci à Scott Brooks et son équipe pour tout le travail qu’ils ont fait en créant ce site. Ensemble nous pouvons aider les groupes d’études à croître de 450 groupes approximativement à 1000 groupes en 2025.
 
-2. _Soutenir les efforts de l’École Internet du_ Livre d’Urantia ( UBIS ) pour doubler le nombre de classes offertes, et commencer à offrir des cours en espagnol et en portugais.
+2. _Soutenir les efforts de l’École Internet du_ Livre d’Urantia ( UBIS ) pour doubler le nombre de classes offertes, et commencer à offrir des cours en espagnol et en portugais.
 
 Le trimestre d’automne d’UBIS incluait plus de cours que jamais auparavant. Les inscriptions furent complètes en trois jours. Pour plus d’informations, s’il vous plait, visitez https://www.urantia.org/education/course-schedule-and-registration-information. Le site web d’UBIS en espagnol est en cours de développement avec le site web en portugais qui suivra.
 
-3. _Étudier la mise en œuvre d’hébergement de forums d’étude, de blogs de groupes d’étude et de webinaires ( séminaires de web ) interactifs de groupes d’étude à 533, Diversey Parkway._
+3. _Étudier la mise en œuvre d’hébergement de forums d’étude, de blogs de groupes d’étude et de webinaires ( séminaires de web ) interactifs de groupes d’étude à 533, Diversey Parkway._
 
 Le Comité d’Éducation fait des plans pour héberger des forums et des ateliers interactifs dans un futur proche.
 
@@ -114,7 +114,7 @@ Les membres du Comité d’Administration Élargi de la Fondation Urantia, assis
 
 1. _Rester dans le budget en vigueur approuvé pour 2011 qui est moins que celui de 2010._
 
-En raison de perspectives supplémentaires de service survenues en 2011, le Conseil d’Administration des Trustees approuva de nouvelles dépenses pour l’année. Notre budget de 2011 sera comparable à celui de 2010. Les frais annuels pour le fonctionnement de la Fondation Urantia continuent de se situer autour de 800 000 $.
+En raison de perspectives supplémentaires de service survenues en 2011, le Conseil d’Administration des Trustees approuva de nouvelles dépenses pour l’année. Notre budget de 2011 sera comparable à celui de 2010. Les frais annuels pour le fonctionnement de la Fondation Urantia continuent de se situer autour de 800 000 $.
 
 2. _Augmenter les donations et le nombre de donateurs de dix pour cent en 2010._
 
@@ -173,7 +173,7 @@ Avec la croissance globale des médias sociaux, le Conseil d’Administration ap
 
 5. _L’histoire de la révélation_
 
-Il y a des décennies, Emma Christensen, une fille “ adoptée ” par Dr. Sadler, commença une histoire sur _Le Livre d’Urantia_ qui ne fut pas terminée. La Fondation Urantia travaille avec l’historien, Dr Sioux Oliva, pour faciliter la production d’une histoire du Livre d’Urantia du début des années 1900 jusqu’au moment de la publication en 1955. D’autres membres du Comité d’Éducation contribuent à ce projet d’histoire.
+Il y a des décennies, Emma Christensen, une fille “ adoptée ” par Dr. Sadler, commença une histoire sur _Le Livre d’Urantia_ qui ne fut pas terminée. La Fondation Urantia travaille avec l’historien, Dr Sioux Oliva, pour faciliter la production d’une histoire du Livre d’Urantia du début des années 1900 jusqu’au moment de la publication en 1955. D’autres membres du Comité d’Éducation contribuent à ce projet d’histoire.
 
 6. _Agrandir l’équipe de planification de la Fondation Urantia_
 
@@ -188,7 +188,7 @@ La réunion de janvier de planification comprendra des anciens membres du Consei
 
 ## Mes commentaires
 
-En seulement 56 ans, la révélation Urantia s’est étendue d’une petite poignée de croyants à Chicago aux lecteurs du monde entier. La lumière révélatrice luit maintenant virtuellement sur chaque continent de la planète. Nous venons de loin, étant partis de la vente de trois livres en 1957 et ayant maintenant 710 000 livres en papier imprimés.
+En seulement 56 ans, la révélation Urantia s’est étendue d’une petite poignée de croyants à Chicago aux lecteurs du monde entier. La lumière révélatrice luit maintenant virtuellement sur chaque continent de la planète. Nous venons de loin, étant partis de la vente de trois livres en 1957 et ayant maintenant 710 000 livres en papier imprimés.
 
 L’équipe de la Fondation Urantia apprécie extrêmement votre soutien continuel. Grâce à vos généreux dons de prière, d’amour, de temps et d’argent, le travail de la Fondation Urantia avance. Puissions-nous travailler ensemble pour servir cette révélation merveilleuse destinée à apporter à notre monde, un âge nouveau d’amour et de bonté.
 
@@ -210,7 +210,7 @@ L’équipe de la Fondation Urantia apprécie extrêmement votre soutien continu
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-5-numéro-3-sept-2011">
+        <a href="/fr/index/articles_uf_news_online#volume-5-numéro-3-septembre-2011">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 3, Sept. 2011 — Table des matières</span>
         </a>
         </td>

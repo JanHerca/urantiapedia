@@ -145,7 +145,7 @@ Mon intelligence répugne à cette idée peut-être pour une seule raison, que j
 
 Il me semble bien plus plausible qu'une Intelligence sans cause invente et crée l'univers, que que l'univers surgisse spontanément (je ne sais d'où) et crée ensuite l'intelligence.
 
-Comme le dit le LU : _La science suppose que les dons intellectuels et philosophiques de l'homme sont nés d'intelligences de plus en plus décroissantes à mesure qu'elles s'éloignent dans le passé, trouvant finalement leur origine dans la vie primitive qui était totalement dépourvue de toute pensée et de tout sentiment._ ([LU 102:6.8](/fr/The_Urantia_Book/102#p6_8))
+Comme le dit le LU : _La science suppose que les dons intellectuels et philosophiques de l'homme sont nés d'intelligences de plus en plus décroissantes à mesure qu'elles s'éloignent dans le passé, trouvant finalement leur origine dans la vie primitive qui était totalement dépourvue de toute pensée et de tout sentiment._ (<a id="a147_323"></a>[LU 102:6.8](/fr/The_Urantia_Book/102#p6_8))
 
 _Le matérialisme scientifique fait faillite quand il persiste, en face de chaque phénomène universel récurrent, à réfuter les objections courantes en rattachant ce qui est reconnu comme supérieur à ce qui est reconnu comme inférieur._ (<a id="a149_236"></a>[LU 102:6.9](/fr/The_Urantia_Book/102#p6_9)).
 

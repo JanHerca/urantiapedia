@@ -56,13 +56,13 @@ Los equipos de China y Filipinas están trabajando diligentemente en sus traducc
 
 Los programas de traducción e impresión de libros de la Fundación Urantia están financiados al 100% por las generosas donaciones de los lectores. En nombre de todo el equipo, les agradecemos su continuo apoyo para promover la misión de sembrar _El libro de Urantia_ y sus enseñanzas por todo el mundo.
 
-## The Number of English Urantia Books Printed between 1955 and 2022
+## Número de libros de Urantia en inglés impresos entre 1955 y 2022
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2022_10/008.jpg">
 </figure>
 
-## The Number of Urantia Book Translations Printed between 1955 and 2022
+## Número de traducciones del _Libro de Urantia_ impresas entre 1955 y 2022
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2022_10/007.jpg">

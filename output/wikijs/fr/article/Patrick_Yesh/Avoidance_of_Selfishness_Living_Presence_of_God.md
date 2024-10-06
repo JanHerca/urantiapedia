@@ -1,5 +1,5 @@
 ---
-title: "Éviter l’égoïsme : vivre comme en présence de Dieu"
+title: "Éviter l’égoïsme : vivre comme en présence de Dieu"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -37,7 +37,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Introduction
 
-En tant qu'éducateur, l'objectif principal derrière tout ce que j'enseigne, qu'il s'agisse de l'art, du programme scolaire ou des enseignements d'Urantia, doit refléter le but suprême de l'éducation tel qu'énoncé dans _Le Livre d'Urantia_ :
+En tant qu'éducateur, l'objectif principal derrière tout ce que j'enseigne, qu'il s'agisse de l'art, du programme scolaire ou des enseignements d'Urantia, doit refléter le but suprême de l'éducation tel qu'énoncé dans _Le Livre d'Urantia_ :
 
 > « ...à entretenir et à poursuivre le dessein suprême de la vie, le développement d’une personnalité pleine de majesté et bien équilibrée. » (<a id="a41_143"></a>[LU 195:10.17](/fr/The_Urantia_Book/195#p10_17))
 
@@ -53,19 +53,19 @@ Pour éviter l’égoïsme, vivez comme si vous étiez en présence de Dieu – 
 
 ## Définitions et concepts
 
-Du Webster's Collegiate :
+Du Webster's Collegiate :
 
 - Éviter = quitter, éviter, annuler, empêcher l'apparition ou l'efficacité de.
 - Évitement = action de vider, de dégager ou de quitter.
 - Égoïste = préoccupé excessivement ou exclusivement par soi-même ; rechercher ou se concentrer sur son propre avantage, son plaisir ou son bien-être sans se soucier des autres ; égocentrique.
 
-Extrait du _Le Livre d'Urantia_ :
+Extrait du _Le Livre d'Urantia_ :
 
 - Égoïsme = « Une volonté propre débridée et une expression de soi non réglementée équivalent à un égoïsme absolu, le summum de l'impiété. La liberté sans la conquête de soi associée et toujours croissante est le produit de l’imagination égoïste des mortels. (<a id="a63_260"></a>[LU 54:1.5](/fr/The_Urantia_Book/54#p1_5))
 - Vraie liberté = « La vraie liberté est associée au respect de soi, fruit de la maîtrise de soi, et conduit au service altruiste. » (<a id="a64_134"></a>[LU 54:1.6](/fr/The_Urantia_Book/54#p1_6))
 - Soi. Le soi tout entier, le soi tout entier, est matériel, intellectuel et spirituel. Ces trois pouvoirs, matériel, physique et spirituel, doivent être en trinité de développement pour qu'un maximum de lumière et de vérité soit transmis avec un risque minimal pour la croissance équilibrée de la personnalité. Votre esprit doit être parfaitement équilibré, hébergé dans un corps d’habitudes propres, d’énergies neuronales stabilisées et de fonctions chimiques équilibrées. (<a id="a65_476"></a>[LU 110:6.4](/fr/The_Urantia_Book/110#p6_4)) [Et ce n'est pas facile, car cela demande une maîtrise de soi robuste, et cela signifie généralement un changement de comportement et une transformation de la personnalité.]
 
-D’autres références au soi dans les fascicules d’Urantia incluent :
+D’autres références au soi dans les fascicules d’Urantia incluent :
 
 > Les cercles psychiques ne sont ni exclusivement intellectuels ni entièrement morontiels ; ils concernent le statut de personnalité, les accomplissements mentaux, la croissance de l’âme et l’accord avec l’Ajusteur. La traversée réussie de ces niveaux exige le fonctionnement harmonieux de la *personnalité entière,* et non simplement d’une de ses phases. La croissance des parties n’équivaut pas à la vraie maturation du tout ; en réalité, les parties croissent proportionnellement à l’expansion de l’ensemble du moi — du moi tout entier — matériel, intellectuel et spirituel. (<a id="a69_579"></a>[LU 110:6.3](/fr/The_Urantia_Book/110#p6_3))
 
@@ -89,13 +89,13 @@ Selon les citations ci-dessus, une méthode pour changer notre comportement cons
 
 Rodan a déclaré que les préjugés sont indissociables de l’égoïsme. Les préjugés ne peuvent être éliminés qu'en abandonnant la recherche de soi et en y substituant la quête de la satisfaction du service d'une cause qui est non seulement plus grande que soi, mais qui est encore plus grande que toute l'humanité - la recherche de Dieu, l'atteinte de la divinité (voir <a id="a89_366"></a>[LU 160:1.13](/fr/The_Urantia_Book/160#p1_13)).
 
-Une méthode essentielle pour établir une image de soi suprême ainsi qu’un minimum de maîtrise de soi est contenue dans la citation suivante :
+Une méthode essentielle pour établir une image de soi suprême ainsi qu’un minimum de maîtrise de soi est contenue dans la citation suivante :
 
 > Durant la vie physique, le moi matériel, l’égo-entité de l’identité humaine, ... Mais l’individualité ayant valeur de survie, l’individualité qui peut transcender l’expérience de la mort, ne se constitue qu’en établissant un transfert potentiel du siège de l’identité de la personnalité évoluante, depuis le véhicule de la vie transitoire — le corps matériel — jusqu’à l’âme morontielle de nature plus durable et immortelle, ... (<a id="a93_432"></a>[LU 112:2.20](/fr/The_Urantia_Book/112#p2_20))
 
 Certains mots clés ici sont « entité du moi » de l’identité humaine, l’expression « âme morontielle » et le qualificatif « potentiel ».
 
-_Le Livre d'Urantia_ est venu dans le domaine de la théorie psychanalytique, qui utilise le concept d'ego. Une définition populaire du « moi » paraphrasée à partir de textes psychologiques est la suivante :
+_Le Livre d'Urantia_ est venu dans le domaine de la théorie psychanalytique, qui utilise le concept d'ego. Une définition populaire du « moi » paraphrasée à partir de textes psychologiques est la suivante :
 
 EGO = [Id-Ego-Superego ] L'ego est notre transformateur conscient qui s'occupe des exigences de notre réalité extérieure et de notre réalité intérieure. L'ego coordonne nos pulsions instinctives inconscientes, qui recherchent une gratification immédiate, avec notre surmoi, qui est notre intériorisation de la morale et des normes de nos parents et de la société.
 
@@ -114,7 +114,7 @@ Passons en revue quelques concepts psychologiques contemporains combinés aux id
 - Pratique de transformation en visualisant votre image morontielle de soi
 - Créer et définir des affirmations spirituelles personnelles aux niveaux intellectuel, émotionnel et pratique de la personnalité. [Connaître, ressentir et faire sont le fondement de notre programme de formation éducative cosmique.]
 
-Comment pouvons-nous effectuer un changement permanent dans nos attitudes, nos comportements et nos processus mentaux ? Si nous devons passer du statut d'individus égoïstes à celui de serviteurs altruistes de la fraternité des hommes (nos frères et sœurs spirituels), ne nous attaquons-nous pas à l'une des tâches les plus difficiles qu'un être humain puisse entreprendre : le changement personnel, la maîtrise de soi robuste et la maîtrise de soi ? -la maîtrise?
+Comment pouvons-nous effectuer un changement permanent dans nos attitudes, nos comportements et nos processus mentaux ? Si nous devons passer du statut d'individus égoïstes à celui de serviteurs altruistes de la fraternité des hommes (nos frères et sœurs spirituels), ne nous attaquons-nous pas à l'une des tâches les plus difficiles qu'un être humain puisse entreprendre : le changement personnel, la maîtrise de soi robuste et la maîtrise de soi ? -la maîtrise?
 
 Vous devez d’abord prendre un profond engagement personnel pour entamer le processus de maîtrise de soi. Veuillez prendre cet engagement. Fais le maintenant.
 
@@ -124,15 +124,15 @@ Fermez les yeux, détendez-vous et respirez profondément ; Jésus nous a demand
 
 Veuillez prendre un moment pour visualiser dans votre esprit votre conception actuelle de vous-même. Quelles sont vos images de vous-même ?
 
-Comment pensez-vous que vous êtes perçu par les membres de votre famille... par vos amis... et dans votre communauté ?
+Comment pensez-vous que vous êtes perçu par les membres de votre famille... par vos amis... et dans votre communauté ?
 
 ... Faites une pause et réfléchissez-y.
 
 Que pensez-vous de chacune de vos images de vous-même ?
 
-En interne, avez-vous une haute estime de vous-même ?
+En interne, avez-vous une haute estime de vous-même ?
 
-Vous aimez-vous en tant que parent, conjoint, ami, collègue, patron ou membre de la communauté ?
+Vous aimez-vous en tant que parent, conjoint, ami, collègue, patron ou membre de la communauté ?
 
 ... Faites une pause et réfléchissez-y.
 
@@ -142,7 +142,7 @@ Contrairement à votre identité humaine et à vos images de vous-même, concent
 
 Les yeux fermés et votre esprit concentré vers l’intérieur, imaginez simplement votre moi-âme morontiel déjà existant. Il est né lorsque votre Ajusteur de Pensée est arrivé et n’a cessé de grandir depuis.
 
-Il a cinq ans de moins que votre être humain. C’est cette partie de vous qui désire infailliblement faire la volonté de Dieu le Père, et cette partie de vous qui fait avec joie la volonté du Père. Ressentez la présence de votre âme morontielle associée, qui est la double création de votre Ajusteur de Pensée et de vous. Pendant que vous visualisez votre âme prémorontielle, soyez conscient de la citation paraphrasée suivante de la section Ajusteur de Pensée :
+Il a cinq ans de moins que votre être humain. C’est cette partie de vous qui désire infailliblement faire la volonté de Dieu le Père, et cette partie de vous qui fait avec joie la volonté du Père. Ressentez la présence de votre âme morontielle associée, qui est la double création de votre Ajusteur de Pensée et de vous. Pendant que vous visualisez votre âme prémorontielle, soyez conscient de la citation paraphrasée suivante de la section Ajusteur de Pensée :
 
 Au cours de la vie dans la chair, l'âme en évolution est habilitée à renforcer les décisions supramatérielles de l'esprit mortel. L'âme, étant supramatérielle, ne fonctionne pas d'elle-même au niveau matériel de l'expérience humaine... [cependant, avec la collaboration de l'Ajusteur de Pensée ou d'un esprit de Déité, cette âme subspirituelle (votre âme morontielle)] peut même fonctionner au-dessus. le niveau morontiel.
 
@@ -150,7 +150,7 @@ Cette âme morontielle peut prendre des décisions finales tout en étant en ass
 
 ... Faites une pause et réfléchissez-y.
 
-C'EST UNE DÉCLARATION ÉTONNANTE ! ILS DISENT QUE VOUS POUVEZ DÉLÉGUER L'AUTORITÉ À VOTRE ÂME POUR PRENDRE TOUTE DÉCISION FINALE À TOUT MOMENT DE VOTRE VIE. Personnellement, je définis une décision finale comme signifiant tout ce qui concerne le bien-être de mon existence spirituelle, et cela peut être à peu près n'importe quoi.
+C'EST UNE DÉCLARATION ÉTONNANTE ! ILS DISENT QUE VOUS POUVEZ DÉLÉGUER L'AUTORITÉ À VOTRE ÂME POUR PRENDRE TOUTE DÉCISION FINALE À TOUT MOMENT DE VOTRE VIE. Personnellement, je définis une décision finale comme signifiant tout ce qui concerne le bien-être de mon existence spirituelle, et cela peut être à peu près n'importe quoi.
 
 Si vous vous identifiez dans cette vie uniquement à votre conception de l'ego humain et à votre moi matériel - comme on le fait normalement, alors vous ne transcenderez jamais vos problèmes, vous n'aurez ni la santé, ni la tranquillité, ni l'efficacité, et vous ne pourrez pas non plus être un être humain. personnalité pleinement fonctionnelle, et vous ne commencerez pas non plus à parcourir les sept cercles d’accomplissement spirituel disponibles pour nous tous ici sur Urantia.
 
@@ -160,7 +160,7 @@ La section Ajusteurs de Pensée est remplie de psychologie spirituelle du XXIe s
 
 ## Notre âme Prémorontia
 
-Un Messager Solitaire d'Orvonton dit que « Pendant la vie, la volonté mortelle, le pouvoir de décision de la personnalité réside dans les circuits mentaux matériels ; à mesure que progresse la croissance des mortels terrestres, ce soi, avec ses pouvoirs de choix inestimables, s'identifie de plus en plus à l'entité émergente de l'âme morontielle ; après et après la résurrection du monde des maisons, la personnalité humaine est complètement identifiée avec le soi morontiel. L'âme est donc l'embryon ou le futur véhicule morontiel de l'identité de la personnalité. L'âme participe aux qualités à la fois de l'esprit humain et de l'esprit divin, mais évolue constamment vers une augmentation du contrôle spirituel et de la domination divine à travers la promotion d'un esprit. fonction dont les significations cherchent à se coordonner avec la véritable valeur spirituelle.... La carrière mortelle, l'évolution de l'âme, n'est pas tant une probation qu'une éducation [dans la foi en la survie des valeurs suprêmes ; l'union des valeurs suprêmes et des significations cosmiques comme réalisation de la réalité universelle] ». (<a id="a162_1127"></a>[LU 111:3.2-5](/fr/The_Urantia_Book/111#p3_2))
+Un Messager Solitaire d'Orvonton dit que « Pendant la vie, la volonté mortelle, le pouvoir de décision de la personnalité réside dans les circuits mentaux matériels ; à mesure que progresse la croissance des mortels terrestres, ce soi, avec ses pouvoirs de choix inestimables, s'identifie de plus en plus à l'entité émergente de l'âme morontielle ; après et après la résurrection du monde des maisons, la personnalité humaine est complètement identifiée avec le soi morontiel. L'âme est donc l'embryon ou le futur véhicule morontiel de l'identité de la personnalité. L'âme participe aux qualités à la fois de l'esprit humain et de l'esprit divin, mais évolue constamment vers une augmentation du contrôle spirituel et de la domination divine à travers la promotion d'un esprit. fonction dont les significations cherchent à se coordonner avec la véritable valeur spirituelle.... La carrière mortelle, l'évolution de l'âme, n'est pas tant une probation qu'une éducation [dans la foi en la survie des valeurs suprêmes ; l'union des valeurs suprêmes et des significations cosmiques comme réalisation de la réalité universelle] ». (<a id="a162_1127"></a>[LU 111:3.2-5](/fr/The_Urantia_Book/111#p3_2))
 
 ## Les niveaux qualitatifs et quantitatifs de la croissance de l'âme
 
@@ -178,7 +178,7 @@ Ressentez votre moi morontiel. Peu importe la légèreté avec laquelle vous res
 
 Profitez de cette occasion pour déléguer, dès maintenant, volontairement et librement à votre âme morontielle associée, le droit de prendre les décisions finales sur n'importe quelle question de votre vie. Votre âme morontielle est cette partie de vous qui est essentiellement ce que vous êtes réellement – cette partie de vous à laquelle vous pouvez faire confiance pour accomplir sans faille la volonté de Dieu.
 
-...Pause pour la méditation ; dédicaces :
+...Pause pour la méditation ; dédicaces :
 
 Profitez de cette occasion pour faire l’affirmation suivante.
 
@@ -189,7 +189,7 @@ Profitez de cette occasion pour faire l’affirmation suivante.
 - J'apporte une coopération accrue à la mission spirituelle de mon Ajusteur de Pensée.
 - Je permets à mon Ajusteur de Pensée de compléter l'association de mon identité humaine avec mon âme morontielle.
 
-Je ressens la présence aimante de Dieu. Je ressens mon amour pour lui. ... Faites une pause silencieusement ; adorez avec votre âme.
+Je ressens la présence aimante de Dieu. Je ressens mon amour pour lui. ... Faites une pause silencieusement ; adorez avec votre âme.
 
 Après la méditation et la communion avec vous-même et après l’adoration commune du Père, revenez doucement à votre conscience terrestre et à votre conscience normale.
 
@@ -205,7 +205,7 @@ Pour vous sentir plus à l’aise dans l’accomplissement d’une tâche aussi 
 - Ce que vous êtes aujourd'hui n'est pas aussi important que ce que vous devenez jour après jour et dans l'éternité. (<a id="a204_118"></a>[LU 111:1.5](/fr/The_Urantia_Book/111#p1_5))
 - Faire la volonté de Dieu n'est rien de plus ou de moins qu'une démonstration de la volonté de la créature de partager sa vie intérieure avec Dieu - avec le Dieu même qui a rendu possible une telle vie de créature dotée d'une valeur et d'un sens intérieurs. Le partage est divin, divin. (<a id="a205_289"></a>[LU 111:5.1](/fr/The_Urantia_Book/111#p5_1))
 
-N’oubliez pas non plus que vous n’êtes pas seul dans cette lutte pour la maîtrise de soi et pour éviter l’égoïsme. Vous bénéficiez d'une compagnie très utile, à savoir :
+N’oubliez pas non plus que vous n’êtes pas seul dans cette lutte pour la maîtrise de soi et pour éviter l’égoïsme. Vous bénéficiez d'une compagnie très utile, à savoir :
 
 - Votre Ajusteur de Pensée.
 - Les dons de votre propre personnalité créatrice, de votre âme, de votre volonté et de votre foi, plus votre conscience de votre conscience qui, je suppose, est vraiment tout ce qu'il y a que nous pouvons vraiment qualifier de « je ». Votre conscience de votre conscience peut également exercer votre volonté ; votre superconscient a accès à une incroyable volonté. Votre âme a de la volonté.
@@ -219,11 +219,11 @@ Enfin, en considérant la difficulté du changement personnel d'un comportement 
 
 Quelle est cette partie de l’image de soi que nous devons prendre au sérieux ? Je pense que c'est notre moi morontiel survivant, le moi non égoïste, en sécurité dans l'emprise de la miséricorde aimante du Père, cette partie de nous-mêmes qui déborde d'amour et du désir ardent de servir.
 
-## Résumé : Méthodes pour vaincre l'égoïsme
+## Résumé : Méthodes pour vaincre l'égoïsme
 
 1. Devenez de plus en plus occupé par le travail de service désintéressé envers vos frères et sœurs au sein et à l'extérieur de la fraternité spirituelle 50, vous n'aurez pas trop de temps pour penser à vous-même.
 2. Pratique quotidienne portant les fruits de l'esprit. Jésus a dit : « …les fruits de l’esprit sont l’essence du type le plus élevé de maîtrise de soi agréable et ennoblissante, même les sommets de l’accomplissement mortel terrestre – la véritable maîtrise de soi. » (<a id="a224_269"></a>[LU 143:2.8](/fr/The_Urantia_Book/143#p2_8))
-3. Apprenez à résoudre des problèmes selon les méthodes de Rodan et du Christ. Étudiez les enseignements ; devenir un connaisseur. ([LU 160:0.1](/es/The_Urantia_Book/160#p0_1)) Marchez comme si vous étiez en présence de Dieu, en résolvant vos problèmes avec un œil uniquement tourné vers la gloire de Dieu. Prenez le temps quotidiennement de créer des liens fréquents avec lui à travers une adoration joyeuse et une communion afin de gagner en force pour vos luttes d'autodiscipline et de résolution de problèmes : et soumettez et abandonnez sèchement votre volonté de créature à sa volonté, consacrant et perfectionnant ainsi votre volonté humaine.
+3. Apprenez à résoudre des problèmes selon les méthodes de Rodan et du Christ. Étudiez les enseignements ; devenir un connaisseur. (<a id="a225_132"></a>[LU 160:0.1](/fr/The_Urantia_Book/160#p0_1)) Marchez comme si vous étiez en présence de Dieu, en résolvant vos problèmes avec un œil uniquement tourné vers la gloire de Dieu. Prenez le temps quotidiennement de créer des liens fréquents avec lui à travers une adoration joyeuse et une communion afin de gagner en force pour vos luttes d'autodiscipline et de résolution de problèmes : et soumettez et abandonnez sèchement votre volonté de créature à sa volonté, consacrant et perfectionnant ainsi votre volonté humaine.
 4. Lorsque vous adorez Dieu et créez des liens avec Dieu, faites-le au niveau des sentiments pour apporter des changements qualitatifs à votre personnalité. Devenez un enfant sensible de Dieu – ressentez son amour – ressentez votre amour pour lui sans cesse croissant.
 5. Entrez rapidement dans une relation intime avec quelqu'un, trouvez un partenaire, mariez-vous, côtoyez beaucoup d'enfants, rejoignez un club de service, devenez un faiseur d'amour. Ne soyez pas seul dans votre réflexion ou votre vie. Une association intime avec vos semblables, votre famille et votre communauté vous aide à éviter les poursuites égoïstes. La vie solitaire est fatale au bonheur ; même les familles et les nations profiteront davantage de la vie si elles la partagent avec d’autres. (<a id="a227_503"></a>[LU 160:2.8](/fr/The_Urantia_Book/160#p2_8))
 6. Et Jésus dit : « Pour vous, le secret de la maitrise de soi est lié à votre foi en l’esprit qui vous habite et qui opère toujours par amour. Et même cette foi qui sauve, vous ne l’avez pas par vous-mêmes ; elle aussi est un don de Dieu. Si vous êtes les enfants de cette foi vivante, vous n’êtes plus les esclaves du moi, mais plutôt les maitres triomphants de vous-mêmes, les fils [et filles] de Dieu affranchis. (<a id="a228_418"></a>[LU 143:2.7](/fr/The_Urantia_Book/143#p2_7))

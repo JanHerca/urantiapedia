@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-3-july-2022">
+        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-3-juillet-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 3, July 2022 — Table des matières</span>
         </a>
         </td>
@@ -44,13 +44,13 @@ Depuis 1999, l’École Internet du _Livre d’Urantia_ (UBIS) a offert des clas
 
 Durant les deux dernières années, la technologie de vidéo conférence est passée des bureaux haute gamme à une caractéristique de routine journalière de travail, avec des activités sociales et toutes formes d’éducation. C’est même devenu banal de délivrer des services de soins de santé—sans mentionner presque toutes les formes de commerce. L’utilisation des plateformes comme Zoom, Google Meet, Microsoft Teams, et d’innombrables autres plateformes, est devenue si ordinaire (si non plus ordinaire qu’) un coup de fil.
 
-Pour de nombreux lecteurs du _Livre d’Urantia_, la pandémie du Covid-19 et l’adoption rapide de ces nouvelles technologies ont changé la façon de lire, d’étudier et de partager les pensées et les questions à propos du livre. Le traditionnel groupe d’étude, une fois par semaine, en personne, a été forcé de se mettre en ligne. Et bien que la convivialité en personne nous manque, cela n’était plus possible, il ne fait aucun doute que « la nouvelle normalité » a facilité pour beaucoup la participation aux groupes d’étude ou aux autres événements interactifs. Même avec l’assouplissement des restrictions formelles et informelles sur les rassemblements, c’est toujours la règle plutôt que l’exception.
+Pour de nombreux lecteurs du _Livre d’Urantia_, la pandémie du Covid-19 et l’adoption rapide de ces nouvelles technologies ont changé la façon de lire, d’étudier et de partager les pensées et les questions à propos du livre. Le traditionnel groupe d’étude, une fois par semaine, en personne, a été forcé de se mettre en ligne. Et bien que la convivialité en personne nous manque, cela n’était plus possible, il ne fait aucun doute que « la nouvelle normalité » a facilité pour beaucoup la participation aux groupes d’étude ou aux autres événements interactifs. Même avec l’assouplissement des restrictions formelles et informelles sur les rassemblements, c’est toujours la règle plutôt que l’exception.
 
-Bien que le format écrit, asynchrone des cours d’UBIS n’ait pas changé, beaucoup de TFs ont ajouté des sessions Zoom à leurs cours. L’occasion de rencontrer d’autres lecteurs (virtuellement) et d’engager une conversation en temps réel a produit uniformément des ressentis positifs. Nous voulons donc faire le teste d’offrir quelque chose (un groupe d’étude) ? qui se passera entièrement par Zoom. Cependant, nous n’avons pas voulu simplement faire passer nos questions d’étude dans une classe virtuelle en temps réel.
+Bien que le format écrit, asynchrone des cours d’UBIS n’ait pas changé, beaucoup de TFs ont ajouté des sessions Zoom à leurs cours. L’occasion de rencontrer d’autres lecteurs (virtuellement) et d’engager une conversation en temps réel a produit uniformément des ressentis positifs. Nous voulons donc faire le teste d’offrir quelque chose (un groupe d’étude) ? qui se passera entièrement par Zoom. Cependant, nous n’avons pas voulu simplement faire passer nos questions d’étude dans une classe virtuelle en temps réel.
 
-Nos cours standards utilisent une approche qui demande de l’étude et de la réflexion, donc nous nous sommes mis à tester les eaux interactives avec un groupe d’étude pour « lire et discuter. » Nous avons décidé de créer un groupe d’étude pour les nouveaux lecteurs, qui venaient peut-être à UBIS plus avec un désir d’explorer plutôt qu’avec le souhait d’étudier un texte avec lequel ils étaient déjà familiers.
+Nos cours standards utilisent une approche qui demande de l’étude et de la réflexion, donc nous nous sommes mis à tester les eaux interactives avec un groupe d’étude pour « lire et discuter. » Nous avons décidé de créer un groupe d’étude pour les nouveaux lecteurs, qui venaient peut-être à UBIS plus avec un désir d’explorer plutôt qu’avec le souhait d’étudier un texte avec lequel ils étaient déjà familiers.
 
-En janvier, cette année, nous avons enregistré 11 étudiants des États-Unis, du Canada, d’Allemagne et de l’Afrique du Sud dans un groupe intitulé « Le Père Universel. » Avec une seule exception, ils étaient tous novices à UBIS. Durant le cours de huit sessions hebdomadaires de deux heures par Zoom, nous avons lu et discuté les Fascicules 1 au 5 du _Livre d’Urantia._ En tant qu’animateur du groupe, j’ai trouvé personnellement que d’entendre les pensées et les questions de ces étudiants curieux et réfléchis était une expérience incroyable et épanouissante.
+En janvier, cette année, nous avons enregistré 11 étudiants des États-Unis, du Canada, d’Allemagne et de l’Afrique du Sud dans un groupe intitulé « Le Père Universel. » Avec une seule exception, ils étaient tous novices à UBIS. Durant le cours de huit sessions hebdomadaires de deux heures par Zoom, nous avons lu et discuté les Fascicules 1 au 5 du _Livre d’Urantia._ En tant qu’animateur du groupe, j’ai trouvé personnellement que d’entendre les pensées et les questions de ces étudiants curieux et réfléchis était une expérience incroyable et épanouissante.
 
 Comme beaucoup d’entre vous le savent bien, les fascicules d’introduction du _Livre d’Urantia_ nous présentent non seulement Dieu comme un père aimant, mais aussi les vérités centrales de notre univers et de notre existence—des concepts puissants et passionnants qui mettent en lumière les fascicules de la révélation qui suivent. Quelle joie de voir et de partager avec ces étudiants l’expérience de lire et de discuter avec soin, ce texte pour la première fois.
 
@@ -89,7 +89,7 @@ Avec le succès du premier groupe d’étude de l’école, nous en proposerons 
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-3-july-2022">
+        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-3-juillet-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 3, July 2022 — Table des matières</span>
         </a>
         </td>

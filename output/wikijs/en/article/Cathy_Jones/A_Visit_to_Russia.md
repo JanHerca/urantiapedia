@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Cathy Jones<br>© 1999 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/1999_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — September 1999 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peep_Sober/The_Future_of_our_Planet_as_a_Known_and_Unknown_Reality_2">
+          <span class="pr-2">The Future of Our Planet As a “Known” and “Unknown” Reality — Part II & III</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Cathy Jones, IUA Administrator
 
@@ -44,7 +68,7 @@ Sometimes their meetings are held daily. After achieving a firm understanding of
 
 Throughout these soul-baring stories I was reminded of this quote:
 
-> _Religion is so vital that it persists in the absence of learning. It lives in spite of its contamination with erroneous cosmologies and false philosophies; it survives even the confusion of metaphysics. In and through all the historic vicissitudes of religion there ever persists that which is indispensable to human progress and survival: the ethical conscience and moral consciousness_ [UB 101:3.1](/en/The_Urantia_Book/101#p3_1)
+> _Religion is so vital that it persists in the absence of learning. It lives in spite of its contamination with erroneous cosmologies and false philosophies; it survives even the confusion of metaphysics. In and through all the historic vicissitudes of religion there ever persists that which is indispensable to human progress and survival: the ethical conscience and moral consciousness_ <a id="a70_391"></a>[UB 101:3.1](/en/The_Urantia_Book/101#p3_1)
 
 In a demonstration how they contact their Thought Adjusters, we stood in a circle, holding hands, shoulder-to-shoulder, with Irina praying the most beautiful prayer I have ever heard. The feeling that was present in the room was beyond description.
 
@@ -53,3 +77,27 @@ In conversing with Irina, I learned that she holds Masters Degrees in Philosophy
 I made a promise they **would** have an IUA in May 2000 .
 
 In parting, I told the group: Lenin attempted to conquer the world **without** God. The people of Russia **will conquer** the world **for God** through love.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/1999_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — September 1999 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peep_Sober/The_Future_of_our_Planet_as_a_Known_and_Unknown_Reality_2">
+          <span class="pr-2">The Future of Our Planet As a “Known” and “Unknown” Reality — Part II & III</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

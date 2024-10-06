@@ -41,11 +41,11 @@ dateCreated: 2023-6-21T8:13:38Z
 
 par _Zshonette Reed_
 
-TheChristExperiment est un ministère basé sur le Livre d'Urantia qui « ose dépendre uniquement de Jésus et de ses enseignements incomparables » (LU 195 :9.4) pour diffuser le message de la paternité de Dieu et de la fraternité des hommes. Nous invitons tous les lecteurs du Livre d'Urantia à s'unir dans un projet d'unité mondiale pour favoriser la religion DE Jésus et nous conduire à la lumière et à la vie.
+TheChristExperiment est un ministère basé sur le Livre d'Urantia qui « ose dépendre uniquement de Jésus et de ses enseignements incomparables » (LU 195 :9.4) pour diffuser le message de la paternité de Dieu et de la fraternité des hommes. Nous invitons tous les lecteurs du Livre d'Urantia à s'unir dans un projet d'unité mondiale pour favoriser la religion DE Jésus et nous conduire à la lumière et à la vie.
 
 Apprenez-en davantage sur TheChristExperiment et ce projet d’unité dans la vidéo ci-dessous.
 
-Vidéo : Honorer Jésus en tant que famille unie
+Vidéo : Honorer Jésus en tant que famille unie
 
 En plus de son ministère phare, [www.TheChristExperiment.Org](https://thechristexperiment.org/), nous menons également plusieurs autres ministères ayant le même objectif :
 

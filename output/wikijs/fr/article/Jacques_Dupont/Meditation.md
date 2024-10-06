@@ -57,7 +57,7 @@ Et il en va de même pour la jeune femme qui traverse ce processus avec des rés
 
 Ainsi, d’une part :
 
-> _Il existe un don originel d’adaptation chez les êtres vivants. Dans chaque cellule végétale ou animale *vivante,* dans chaque organisme *vivant —* matériel ou spirituel — existe un désir insatiable d’atteindre une perfection toujours accrue d’ajustement au milieu ambiant, d’adaptation de l’organisme et de réalisation de vie accrue. Ces efforts interminables de toutes les créatures vivantes prouvent chez elles l’existence d’une recherche innée de la perfection._ ([LU 65:6.2](/fr/The_Urantia_Book/65#p6_2))
+> _Il existe un don originel d’adaptation chez les êtres vivants. Dans chaque cellule végétale ou animale *vivante,* dans chaque organisme *vivant —* matériel ou spirituel — existe un désir insatiable d’atteindre une perfection toujours accrue d’ajustement au milieu ambiant, d’adaptation de l’organisme et de réalisation de vie accrue. Ces efforts interminables de toutes les créatures vivantes prouvent chez elles l’existence d’une recherche innée de la perfection._ (<a id="a59_470"></a>[LU 65:6.2](/fr/The_Urantia_Book/65#p6_2))
 
 D'un autre côté, Notre Père a envoyé un fragment de lui-même pour demeurer dans l'esprit humain en tant que professeur particulier. Cette « vraie lumière qui illumine tout homme qui vient au monde », également appelée « étincelle divine », « guide divin » est notre Ajusteur de Pensée.
 
@@ -71,15 +71,15 @@ Le 17 mai 1994, Mireille Nègre déclarait : « J'aime quelqu'un, j'aime Dieu et
 
 Mais rappelons-nous que nous réaliserons tous notre rêve d'amour avec notre guide divin ; rarement au cours de cette vie, mais généralement dans l'au-delà. Alors nous serons pour toujours un avec Celui qui sait tout.
 
-Il nous appartient donc, pour nous rapprocher de ce guide parfait, de cultiver la perfection dans toutes nos attitudes – donc pour nous rapprocher de ce guide divin, il nous appartient de rechercher la perfection à travers nos actions. Là, notre libre arbitre est confronté à ce choix : écouter, ou ne pas écouter, cette petite voix qui, à tout carrefour, nous dit : « C'est ainsi qu'il faut aller » ; — la voie de l'amour — qui fait mûrir les fruits spirituels qui sont : _service aimant, dévouement désintéressé, fidélité courageuse, équité sincère, honnêteté éclairée, espoir vivace, confiance sans soupçons, ministère miséricordieux, bonté inaltérable, tolérance indulgente et paix durable_. [LU 193:2.2](/fr/The_Urantia_Book/193#p2_2)
+Il nous appartient donc, pour nous rapprocher de ce guide parfait, de cultiver la perfection dans toutes nos attitudes – donc pour nous rapprocher de ce guide divin, il nous appartient de rechercher la perfection à travers nos actions. Là, notre libre arbitre est confronté à ce choix : écouter, ou ne pas écouter, cette petite voix qui, à tout carrefour, nous dit : « C'est ainsi qu'il faut aller » ; — la voie de l'amour — qui fait mûrir les fruits spirituels qui sont : _service aimant, dévouement désintéressé, fidélité courageuse, équité sincère, honnêteté éclairée, espoir vivace, confiance sans soupçons, ministère miséricordieux, bonté inaltérable, tolérance indulgente et paix durable_. <a id="a73_696"></a>[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2)
 
-« Le royaume de Dieu est en vous », a déclaré Jésus, et puisque Dieu est amour, il est évident que _[L]'amour est la motivation la plus élevée que l'homme puisse utiliser dans son ascension vers l'univers_. [LU 196:3.29](/fr/The_Urantia_Book/196#p3_29)
+« Le royaume de Dieu est en vous », a déclaré Jésus, et puisque Dieu est amour, il est évident que _[L]'amour est la motivation la plus élevée que l'homme puisse utiliser dans son ascension vers l'univers_. <a id="a75_207"></a>[LU 196:3.29](/fr/The_Urantia_Book/196#p3_29)
 
 « La véritable religion est une aventure vécue personnellement et difficile à transmettre par les mots. C'est l'histoire d'amour entre la créature et son Créateur... Finalement une religion n'est que l'esquisse du chemin parcouru par une âme vers sa vérité. (Citation d'un auteur inconnu.)
 
-> _Ni l’Ajusteur ni le mortel ne peuvent atteindre ce but unique sans la pleine coopération et la fidèle entraide de l’autre. Cette association extraordinaire est l’un des phénomènes cosmiques les plus passionnants et les plus stupéfiants du présent âge de l’univers._ ([LU 112:7.11](/fr/The_Urantia_Book/112#p7_11))
+> _Ni l’Ajusteur ni le mortel ne peuvent atteindre ce but unique sans la pleine coopération et la fidèle entraide de l’autre. Cette association extraordinaire est l’un des phénomènes cosmiques les plus passionnants et les plus stupéfiants du présent âge de l’univers._ (<a id="a79_270"></a>[LU 112:7.11](/fr/The_Urantia_Book/112#p7_11))
 
-Le besoin de participer et d'appartenance, qui est un besoin naturel, se poursuit tout au long de notre vie : on appartient d'abord à sa famille, puis à un conjoint, à un groupe social et à la société dans son ensemble. Mais même dans le meilleur des cas, le besoin d’appartenance n’est jamais pleinement satisfait. Nous ferions mieux de prendre conscience que nous appartenons exclusivement à Dieu seul. _... en lui nous vivons, bougeons et avons tous notre être._ [[LU 1:5.16](/fr/The_Urantia_Book/1#p5_16); [LU 2:1.11](/fr/The_Urantia_Book/2#p1_11); [LU 105:2.11](/fr/The_Urantia_Book/105#p2_11)]
+Le besoin de participer et d'appartenance, qui est un besoin naturel, se poursuit tout au long de notre vie : on appartient d'abord à sa famille, puis à un conjoint, à un groupe social et à la société dans son ensemble. Mais même dans le meilleur des cas, le besoin d’appartenance n’est jamais pleinement satisfait. Nous ferions mieux de prendre conscience que nous appartenons exclusivement à Dieu seul. _... en lui nous vivons, bougeons et avons tous notre être._ <a id="a81_466"></a>[[LU 1:5.16](/fr/The_Urantia_Book/1#p5_16); <a id="a81_510"></a>[LU 2:1.11](/fr/The_Urantia_Book/2#p1_11); <a id="a81_553"></a>[LU 105:2.11](/fr/The_Urantia_Book/105#p2_11)]
 
 Notre rêve dans cette vie est néanmoins de réaliser ce rêve avec notre partenaire de vie, mais aucun partenaire humain ne pourra jamais rivaliser avec la présence divine intérieure, notre Ajusteur de Pensée, qui individualise pour toujours l'amour de notre Père : il est Dieu.
 
@@ -89,9 +89,9 @@ Il y a aussi des désaccords, des doutes, des compromis et des inquiétudes...
 
 Dans l'association des Ajusteurs, le fait d'aimer Dieu et de se sentir aimé de Dieu n'est pas sensuel, il est spirituel : c'est l'âme qui ressent et aime. Tout ce que l’esprit peut faire, c’est découvrir, reconnaître, interpréter et choisir.
 
-> _Tout véritable amour vient de Dieu, et l’homme reçoit l’affection divine dans la mesure où lui-même effuse cet amour sur ses compagnons. L’amour est dynamique. On ne peut jamais le capturer ; il est vivant, libre, passionnant et toujours en mouvement. L’homme ne peut jamais saisir l’amour du Père pour l’emprisonner dans son cœur. L’amour du Père ne peut devenir réel pour l’homme mortel qu’en passant par sa personnalité, alors qu’à son tour lui-même effuse cet amour sur ses compagnons._ ([LU 117:6.10](/fr/The_Urantia_Book/117#p6_10))
+> _Tout véritable amour vient de Dieu, et l’homme reçoit l’affection divine dans la mesure où lui-même effuse cet amour sur ses compagnons. L’amour est dynamique. On ne peut jamais le capturer ; il est vivant, libre, passionnant et toujours en mouvement. L’homme ne peut jamais saisir l’amour du Père pour l’emprisonner dans son cœur. L’amour du Père ne peut devenir réel pour l’homme mortel qu’en passant par sa personnalité, alors qu’à son tour lui-même effuse cet amour sur ses compagnons._ (<a id="a91_495"></a>[LU 117:6.10](/fr/The_Urantia_Book/117#p6_10))
 
-Jésus répondit à Jean : _Vous apprendrez à aimer davantage vos frères lorsque vous apprendrez d'abord à aimer davantage leur Père céleste.._. [LU 181:2.5](/fr/The_Urantia_Book/181#p2_5)
+Jésus répondit à Jean : _Vous apprendrez à aimer davantage vos frères lorsque vous apprendrez d'abord à aimer davantage leur Père céleste.._. <a id="a93_142"></a>[LU 181:2.5](/fr/The_Urantia_Book/181#p2_5)
 
 L’amour est un courant courant qui prend sa source dans le guide divin qui habite notre esprit, générant un sentiment vivant d’appartenance à Dieu – une confiance sans limites – une paix dans l’esprit et des fruits cœur-esprit tout au long de nos relations. Même la mort a perdu son aspect négatif.
 
@@ -103,19 +103,19 @@ Entre mari et femme, outre leurs échanges émotionnels, chacun se positionnerai
 
 Dans une telle relation, la gratification sexuelle atteint son point culminant car cette communion physique est le point culminant de la communion mentale et de la communion spirituelle antérieures.
 
-> _Le mariage qui s’épanouit en un foyer est, en vérité, la plus sublime institution humaine, mais il est essentiellement humain ; on n’aurait jamais dû le qualifier de sacrement._ [LU 83:8.1](/fr/The_Urantia_Book/83#p8_1). _De telles croyances conduisent directement au concept de l’indissolubilité du lien conjugal sans souci des circonstances ou des désirs des parties contractantes._ [LU 83:8.4](/fr/The_Urantia_Book/83#p8_4)
+> _Le mariage qui s’épanouit en un foyer est, en vérité, la plus sublime institution humaine, mais il est essentiellement humain ; on n’aurait jamais dû le qualifier de sacrement._ <a id="a105_181"></a>[LU 83:8.1](/fr/The_Urantia_Book/83#p8_1). _De telles croyances conduisent directement au concept de l’indissolubilité du lien conjugal sans souci des circonstances ou des désirs des parties contractantes._ <a id="a105_388"></a>[LU 83:8.4](/fr/The_Urantia_Book/83#p8_4)
 
-> _Deux jeunes gens dorlotés et gâtés, élevés en comptant sur toutes les indulgences et sur la pleine satisfaction de leur égo et de leur vanité, ne peuvent guère espérer une grande réussite dans le mariage et l’édification d’un foyer — une association pour toute une vie d’abnégation, de compromis, de dévouement et de consécration généreuse à la culture des enfants._ ([LU 83:7.6](/fr/The_Urantia_Book/83#p7_6))
+> _Deux jeunes gens dorlotés et gâtés, élevés en comptant sur toutes les indulgences et sur la pleine satisfaction de leur égo et de leur vanité, ne peuvent guère espérer une grande réussite dans le mariage et l’édification d’un foyer — une association pour toute une vie d’abnégation, de compromis, de dévouement et de consécration généreuse à la culture des enfants._ (<a id="a107_371"></a>[LU 83:7.6](/fr/The_Urantia_Book/83#p7_6))
 
-> _Dans la mesure où le groupe social ne parvient pas à préparer les jeunes au mariage, il faut que le divorce fonctionne comme soupape de sureté sociale pour empêcher des situations encore pires au cours des âges de développement rapide des mœurs en évolution._ ([LU 83:7.8](/fr/The_Urantia_Book/83#p7_8))
+> _Dans la mesure où le groupe social ne parvient pas à préparer les jeunes au mariage, il faut que le divorce fonctionne comme soupape de sureté sociale pour empêcher des situations encore pires au cours des âges de développement rapide des mœurs en évolution._ (<a id="a109_264"></a>[LU 83:7.8](/fr/The_Urantia_Book/83#p7_8))
 
-> _Le mariage, avec ses multiples relations, est le mieux conçu pour faire naitre les précieuses impulsions et les motifs supérieurs indispensables au développement d’un caractère fort._ ([LU 160:2.6](/fr/The_Urantia_Book/160#p2_6))
+> _Le mariage, avec ses multiples relations, est le mieux conçu pour faire naitre les précieuses impulsions et les motifs supérieurs indispensables au développement d’un caractère fort._ (<a id="a111_188"></a>[LU 160:2.6](/fr/The_Urantia_Book/160#p2_6))
 
 Malheureusement, trop de personnes échouent dans cette tâche et doivent recourir à des croyances imaginaires et à des substituts.
 
-> _... l’amour est la relation majeure dans le monde — dans l’univers — de même que la vérité est la plus grande proclamation de l’observance de ces relations divines._ ([LU 143:6.4](/fr/The_Urantia_Book/143#p6_4))
+> _... l’amour est la relation majeure dans le monde — dans l’univers — de même que la vérité est la plus grande proclamation de l’observance de ces relations divines._ (<a id="a115_170"></a>[LU 143:6.4](/fr/The_Urantia_Book/143#p6_4))
 
-C'est ainsi que _...mon Père gouverne un univers d'univers par le pouvoir irrésistible de son amour._ [LU 143:1.4](/fr/The_Urantia_Book/143#p1_4)
+C'est ainsi que _...mon Père gouverne un univers d'univers par le pouvoir irrésistible de son amour._ <a id="a117_102"></a>[LU 143:1.4](/fr/The_Urantia_Book/143#p1_4)
 
 C’est pourquoi le grand commandement nous invite à aimer Dieu d’abord de tout notre cœur, de toutes nos forces et de toute notre intelligence, et ensuite à aimer notre prochain comme nous-mêmes.
 

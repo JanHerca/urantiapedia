@@ -39,7 +39,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 «...si doy mi vida, la tomaré de nuevo.** »
 
-**En el año 30 d.C. (Documentos del Libro de Urantia 178 - 194)**
+**En el año 30 d.C. (Documentos del _Libro de Urantia_ 178 - 194)**
 
 Mes | Día | Día de la semana | Descripción |
 --- | --- | --- | --- |

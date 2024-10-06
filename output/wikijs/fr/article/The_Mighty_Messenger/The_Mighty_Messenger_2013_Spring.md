@@ -50,7 +50,7 @@ Si vous souhaitez donner un atelier, veuillez contacter Nick Stefero à nstefero
 
 Les sessions d'études d'été offrent toujours des opportunités d'étude approfondie, d'inspiration et de camaraderie. De plus, le programme de cet été, axé sur le « Service envers le Suprême », comprendra un volet « service » comprenant des ateliers avec des applications pratiques pour la sensibilisation également. Entre autres, il y aura un atelier sur la façon d'utiliser Internet pour accroître votre service à la révélation, un atelier utilisant des idées testées et créatives pour introduire le _Livre d'Urantia_, et un conclave de groupe d'étude pour explorer les moyens d'enrichir les groupes d'étude et de construire un communauté de révélation vitale.
 
-Êtes-vous intéressé par les différentes manières, y compris les moteurs de recherche et les glossaires, d’utiliser Internet au service de la révélation ? Avez-vous besoin de nouvelles idées fraîches sur la manière de présenter le _Livre d'Urantia_ ? Avez-vous un proche qui aimerait découvrir le livre ? Souhaitez-vous participer à une démarche visant à améliorer la qualité de l’étude dans les groupes d’étude et à redynamiser votre communauté de groupes d’étude ? 
+Êtes-vous intéressé par les différentes manières, y compris les moteurs de recherche et les glossaires, d’utiliser Internet au service de la révélation ? Avez-vous besoin de nouvelles idées fraîches sur la manière de présenter le _Livre d'Urantia_ ? Avez-vous un proche qui aimerait découvrir le livre ? Souhaitez-vous participer à une démarche visant à améliorer la qualité de l’étude dans les groupes d’étude et à redynamiser votre communauté de groupes d’étude ? 
 
 Si tel est le cas, rejoignez vos collègues révélateurs cet été à Techny Towers, du 11 au 14 juillet.
 
@@ -60,7 +60,7 @@ Les sessions d'études d'été de cette année, parrainées par le comité de fo
 
 **Animateurs d'atelier recherchés**
 
-Le comité d'éducation est à la recherche d'animateurs d'ateliers. Veuillez demander aux membres de votre groupe d’envisager de soumettre une proposition pour faire une telle présentation dans le cadre du thème de cette année « Notre don à Dieu le Père : Service au Suprême ». Le thème se concentre sur notre partenariat avec Dieu le Père, une relation rendue possible grâce au fragment de Dieu intérieur, renforcée par le service et facilitée sous les auspices de l’Être Suprême émergent. Les propositions d'ateliers doivent être envoyées par courrier électronique à Nick Stefero : nstefero@cox.net.
+Le comité d'éducation est à la recherche d'animateurs d'ateliers. Veuillez demander aux membres de votre groupe d’envisager de soumettre une proposition pour faire une telle présentation dans le cadre du thème de cette année « Notre don à Dieu le Père : Service au Suprême ». Le thème se concentre sur notre partenariat avec Dieu le Père, une relation rendue possible grâce au fragment de Dieu intérieur, renforcée par le service et facilitée sous les auspices de l’Être Suprême émergent. Les propositions d'ateliers doivent être envoyées par courrier électronique à Nick Stefero : nstefero@cox.net.
 
 **L'Assemblée triennale des délégués se réunira à nouveau**
 
@@ -70,7 +70,7 @@ Il est également rappelé aux sociétés que l’Assemblée triennale des dél�
 
 Un nouvel événement lors des séminaires de cette année sera un conclave de groupe d’étude. Il s’agira d’une réunion à laquelle les dirigeants et les participants des groupes d’étude seront invités. Il se réunira pendant les heures d'atelier le samedi matin 13 juillet. Ce premier conclave de groupe d'étude sera une réunion quelque peu ouverte qui débutera par les commentaires de trois présidents du comité de la Fellowship : Lara Amyx de Membership, Andrea Barnes de Outreach et David Kulieke de Éducation. Ils discuteront tous brièvement de la manière dont leurs comités peuvent aider les groupes d'étude et de la manière dont ils envisagent de futurs moyens de soutenir et d'élargir les groupes d'étude, toujours en gardant à l’esprit le désir du groupe d'étude d'une telle assistance. Ensuite, la parole sera ouverte aux idées. Les participants auront la possibilité de soumettre d'autres réflexions pour l’aide des groupes d'étude ainsi que des idées sur la manière d'organiser les futurs conclaves des groupes d'étude. Les comités espèrent que les suggestions deviendront une activité continue.
 
-Veuillez contacter : david.kulieke@gmail.com pour toute question ou suggestion.
+Veuillez contacter : david.kulieke@gmail.com pour toute question ou suggestion.
 
 ## Rassemblement historique de l’U AI, de l’LUF et de l’UF
 
@@ -84,7 +84,7 @@ Gaétan Charland, James Woodward et Chris Wood représentaient l’AUI. Lila Dog
 
 Les bases d’une nouvelle ère de confiance et de respect mutuel ont été jetées lors de ce rassemblement historique. Tous les participants espéraient qu’avec un leadership continu, une bonne volonté partagée et une exécution réfléchie des projets convenus lors de la réunion, les résultats de la réunion profiteraient à l’ensemble de la communauté.
 
-Il a été proposé que les dirigeants et représentants des trois organisations conviennent de ce qui suit :
+Il a été proposé que les dirigeants et représentants des trois organisations conviennent de ce qui suit :
 1. Participer de manière coopérative aux salons du livre aux États-Unis et dans le monde.
 2. Travailler en coopération concernant les séminaires éducatifs et les retraites spirituelles du Livre d'Urantia. Les participants ont reconnu que la formation des enseignants et des dirigeants est une priorité. À cette fin, il a été convenu que les présidents des comités d'éducation de chaque organisation, à savoir Sheila Keene-Lund, David Kulieke et Gard Jameson, discuteraient des séminaires éducatifs et des retraites spirituelles, en soumettant toute proposition relative à la coopération aux conseils d'administration de leurs organisations respectives. .
 3. Poursuivre la coopération sur le répertoire des groupes d'études internationaux. Un comité a travaillé ensemble pour améliorer le répertoire.
@@ -117,7 +117,7 @@ Le Comité de Vie Familiale est un complément du Comité permanent des Jeunes e
 
 De plus, nous ajouterons de nouveaux programmes et matériels dès qu’ils seront disponibles. Il y aura une option de menu pour les nouveaux programmes et nous espérons que les parents essaieront de nouvelles idées et donneront leur avis pour améliorer le matériel. 
 
-Enfin, le Comité Vie Familiale sera impliqué dans le volet « Bring the Kids » à l’IC14. Nous espérons avoir un petit marché de Jérusalem et proposer quelques ateliers pour soutenir la parentalité et la vie familiale, tels que des réunions familiales et des stratégies parentales basées sur les valeurs. Veuillez transmettre vos demandes et/ou idées à Janet Graham à : jfarrg@gmail.com. Nous espérons voir beaucoup d’enfants et leurs parents à la Conférence internationale 2014 de la Fellowship.
+Enfin, le Comité Vie Familiale sera impliqué dans le volet « Bring the Kids » à l’IC14. Nous espérons avoir un petit marché de Jérusalem et proposer quelques ateliers pour soutenir la parentalité et la vie familiale, tels que des réunions familiales et des stratégies parentales basées sur les valeurs. Veuillez transmettre vos demandes et/ou idées à Janet Graham à : jfarrg@gmail.com. Nous espérons voir beaucoup d’enfants et leurs parents à la Conférence internationale 2014 de la Fellowship.
 
 Merci au Comité YaYA pour avoir parrainé le comité auxiliaire Vie Familiale.  Restez à l’écoute pour des nouvelles plus passionnantes alors que nous intégrons la vie de famille dans l’étude et le service de la révélation.
 
@@ -135,7 +135,7 @@ La réunion du Conseil général de la Fellowship à Los Angeles du 6 au 10 fév
 
 ## Présentation du programme Study Buddy
 
-Vous souvenez-vous de la première fois où vous avez découvert _Le Livre d'Urantia_ ?
+Vous souvenez-vous de la première fois où vous avez découvert _Le Livre d'Urantia_ ?
 
 Vous souvenez-vous de la façon dont tant de choses sont devenues soudainement claires ?
 
@@ -147,7 +147,7 @@ Et votre relation avec Dieu a-t-elle changé : désormais « plus proche de cett
 
 Quelle expérience transformatrice d'apprendre que nous vivons dans un univers amical et qu’il n'y a rien à craindre… jamais… de notre Père aimant, Dieu.
 
-Était-ce parfois difficile de lire _Le Livre d'Urantia_ seul, les yeux écarquillés, rempli d'espoir et de joie ? A quel point aviez-vous envie de passer du temps avec quelqu’un qui avait un cadre conceptuel et un vocabulaire communs ? Est-ce que, comme moi, vous chérissez l’expérience de rencontrer de « nouveaux lecteurs du Livre d'Urantia » en partie parce que vous avez la chance de partager ces premiers moments d'étonnement et de profond enthousiasme ?
+Était-ce parfois difficile de lire _Le Livre d'Urantia_ seul, les yeux écarquillés, rempli d'espoir et de joie ? A quel point aviez-vous envie de passer du temps avec quelqu’un qui avait un cadre conceptuel et un vocabulaire communs ? Est-ce que, comme moi, vous chérissez l’expérience de rencontrer de « nouveaux lecteurs du Livre d'Urantia » en partie parce que vous avez la chance de partager ces premiers moments d'étonnement et de profond enthousiasme ?
 
 Alors c’est votre jour de chance… Il y a des opportunités pour vous !
 
@@ -162,16 +162,16 @@ Par _Andrea Barnes_
 
 En cherchant des moyens intéressants et non menaçants de présenter le Livre d'Urantia à des milliers de chercheurs de vérité affamés qui aspirent à une si belle révélation, j'ai eu une idée à laquelle nous pouvons tous participer.
 
-C'est une idée qui a commencé il y a 25 ans lorsque j'ai fait installer une ligne téléphonique supplémentaire dans ma maison et que j'ai acheté un répondeur pour que les gens puissent appeler et entendre un message enregistré de deux minutes sur _Le Livre d'Urantia_. Au fil des années, des centaines, voire des milliers de personnes ont écouté ce message grâce à une simple annonce que je publiais chaque semaine dans un journal local. Les petites publicités disaient des choses comme :
-- Athées ! Défiez vos croyances !
+C'est une idée qui a commencé il y a 25 ans lorsque j'ai fait installer une ligne téléphonique supplémentaire dans ma maison et que j'ai acheté un répondeur pour que les gens puissent appeler et entendre un message enregistré de deux minutes sur _Le Livre d'Urantia_. Au fil des années, des centaines, voire des milliers de personnes ont écouté ce message grâce à une simple annonce que je publiais chaque semaine dans un journal local. Les petites publicités disaient des choses comme :
+- Athées ! Défiez vos croyances !
 - Un paradis pour les chercheurs de vérité !
-- La religion, la science et la philosophie peuvent être harmonisées !
+- La religion, la science et la philosophie peuvent être harmonisées !
 - Libérez-vous de la peur !
 - Vous pouvez survivre à la mort !
 - Avez-vous spirituellement faim et cherchez-vous toujours ?
 - Jésus, un nouveau look 2 000 ans plus tard.
 
-Tous ont été suivis de « Pour un message enregistré gratuit sur _Le Livre d'Urantia_, appelez \*\*\*-\*\*\*\* »
+Tous ont été suivis de « Pour un message enregistré gratuit sur _Le Livre d'Urantia_, appelez \*\*\*-\*\*\*\* »
 
 Mo Siegel et Paula Thompson ont repris cette idée et l’ont utilisée pour créer une campagne dans la région de Denver/Boulder qui a été vue par des milliers de personnes.
 
@@ -179,7 +179,7 @@ Aujourd’hui, nous avons tellement de nouveaux outils à notre disposition et i
 
 Donc, ce que j'ai fait, c'est répertorier une annonce sur Craigslist dans la section « général » qui se trouve sous « Communauté ». C'est très simple de placer une annonce sur Craigslist.org. Si vous souhaitez essayer cela dans votre région et avez besoin d'aide, contactez-moi. Dans l’objet de l’annonce, je dis simplement « Vous pouvez survivre à la mort ! » ou une autre doublure que vous aimez. Qu’est-ce qui va les attirer et leur donner envie de cliquer sur ce lien ?
 
-Ensuite, j'ai mis dans le corps de l’annonce ce qui suit :
+Ensuite, j'ai mis dans le corps de l’annonce ce qui suit :
 
 Pour un message enregistré gratuit sur _Le Livre d'Urantia_, appelez le 800-288-3772 ou lisez-le ici :
 
@@ -219,15 +219,15 @@ Voici quelques autres idées de one-liners à mettre dans votre « ligne d'objet
 - Synthétiser la science et la religion
 - Prière efficace
 - Les anges : leur but et leur fonction
-- Priorités primaires dans la vie : l’art de vivre
-- Les relations sont des choses éternelles : elles se terminent en elles-mêmes
+- Priorités primaires dans la vie : l’art de vivre
+- Les relations sont des choses éternelles : elles se terminent en elles-mêmes
 - Le phénomène de l’esprit et sa relation avec la spiritualité
-- Mariage et famille : partenariat avec le sexe opposé et choix du partenaire
-- Éducation : quelles devraient être nos priorités au XXIe siècle et au-delà
+- Mariage et famille : partenariat avec le sexe opposé et choix du partenaire
+- Éducation : quelles devraient être nos priorités au XXIe siècle et au-delà
 - La vie et les enseignements de Jésus : quel est son VRAI ÉVANGILE ?
-- L'avenir : à quoi s'attendre
+- L'avenir : à quoi s'attendre
 
-Cela peut également être utilisé sur Facebook en mettant simplement les « lignes uniques », puis en leur donnant le numéro de téléphone pour appeler et écouter un enregistrement enregistré de 3 minutes sur ce livre étonnant qui change la vie appelé _Le Livre d'Urantia_.
+Cela peut également être utilisé sur Facebook en mettant simplement les « lignes uniques », puis en leur donnant le numéro de téléphone pour appeler et écouter un enregistrement enregistré de 3 minutes sur ce livre étonnant qui change la vie appelé _Le Livre d'Urantia_.
 
 Bonne chance et contactez-moi si vous avez besoin d'aide.
 
@@ -260,15 +260,15 @@ Le temps doit être considéré comme notre « serviteur » et non comme notre �
 Encore une fois, pour nous, cela signifie un désir intelligent d’écouter et de partager avec des esprits et des âmes semblables. La croissance personnelle nécessite tôt ou tard une interaction sociale. Une personne peut étudier seule, mais pour vraiment grandir, vos pouvoirs mentaux et spirituels doivent interagir (éventuellement) avec les autres de manière fraternelle ou fraternelle. Rappelez-vous que les relations entre personnalités – humaines ou divines – sont des fins en elles-mêmes ; tout le reste est secondaire. <a id="a259_525"></a>[[LU 112:2.4](/fr/The_Urantia_Book/112#p2_4)] Soyons à jamais inspirés par la grande déclaration : « L'univers entier est une vaste école ». <a id="a259_666"></a>[[LU 37:6.2](/fr/The_Urantia_Book/37#p6_2)]
 
 
-## Réservez la date pour IC'14 !
+## Réservez la date pour IC'14 !
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2013_Spring/005817.jpg">
 </figure>
 
-Marquez vos calendriers et prévoyez d’amener toute la famille à la prochaine conférence internationale de The Fellowship ! IC'14 se tiendra du mercredi 23 juillet au dimanche 27 juillet 2014 à l’Université du Massachusetts, Amherst.
+Marquez vos calendriers et prévoyez d’amener toute la famille à la prochaine conférence internationale de The Fellowship ! IC'14 se tiendra du mercredi 23 juillet au dimanche 27 juillet 2014 à l’Université du Massachusetts, Amherst.
 
-Le thème de l’IC'14 est Grandir vers Dieu, et le programme célèbre nos nombreuses approches de la croissance spirituelle. IC'14 est conçu comme une communauté de croyants du monde entier et de toutes générations : parents et enfants, grands-parents et petits-enfants, jeunes adultes et adolescents, lecteurs de longue date du _Le Livre d'Urantia_ et amis et parents spirituellement curieux qui veulent comprendre de quoi il s'agit. à propos de.
+Le thème de l’IC'14 est Grandir vers Dieu, et le programme célèbre nos nombreuses approches de la croissance spirituelle. IC'14 est conçu comme une communauté de croyants du monde entier et de toutes générations : parents et enfants, grands-parents et petits-enfants, jeunes adultes et adolescents, lecteurs de longue date du _Le Livre d'Urantia_ et amis et parents spirituellement curieux qui veulent comprendre de quoi il s'agit. à propos de.
 
 Apprenez-en davantage sur la conférence sur ic14.org et soumettez une proposition d'atelier ou d'activité avant le 1er janvier 2014.
 
@@ -276,7 +276,7 @@ Obtenez les dernières informations en aimant la page Facebook IC’14.
 
 Des informations sur l’inscription, les forfaits tarifaires et les bourses seront disponibles cet été. Nous savons que les conférences peuvent coûter cher, c'est pourquoi nous élaborons autant d'options que possible pour rendre IC'14 abordable pour vous, vos amis et votre famille.
 
-Continuez à consulter le site Web pour des mises à jour passionnantes sur notre nouveau programme flexible de conférences, notre festival du film YouTube, l’impressionnant programme Truthseekers, la participation de toutes les sociétés, notre journée sociale spéciale du dimanche et bien plus encore ! 
+Continuez à consulter le site Web pour des mises à jour passionnantes sur notre nouveau programme flexible de conférences, notre festival du film YouTube, l’impressionnant programme Truthseekers, la participation de toutes les sociétés, notre journée sociale spéciale du dimanche et bien plus encore ! 
 
 Une équipe formidable travaille à créer une conférence dynamique, pertinente, amusante, révélatrice et puissante pour nous tous. Contactez Angela Thurston, présidente de la conférence, à chair@ic14.org pour nous contacter.
 
@@ -301,7 +301,7 @@ La brochure classique « Extraits sélectionnés » a été reformatée par Paul
 ## Personnel du « The Mighty Messenger »
 
 Publié par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship.
-Membres : Linda Buselli, présidente Cece Forrester, David Glass, Merritt Horn, Nancy Johnson, Sage Waitts
+Membres : Linda Buselli, présidente Cece Forrester, David Glass, Merritt Horn, Nancy Johnson, Sage Waitts
 877.288.3772
 bourse@urantiabook.org
 www.urantiabook.org

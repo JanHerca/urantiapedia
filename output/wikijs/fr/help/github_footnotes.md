@@ -34,7 +34,7 @@ Pour ajouter des notes de bas de page aux fichiers JSON, procédez comme suit :
 - Cliquez sur *Exécuter*.
 - Si tout est correct, *Conversion exécutée avec succès* apparaîtra. En cas d'erreurs, la liste des erreurs apparaîtra. Dans ce cas, il est conseillé de signaler l'erreur à l'un des utilisateurs *développeurs*.
 
-![](/image/upt_json_json.png)
+![](/image/help/upt_json_json.png)
 
 Les fichiers de sortie sont différents des fichiers d'entrée pour éviter qu'en cas de problème ils soient inutilisables. La sortie est enregistrée dans les dossiers `input / json / book-xx-footnotes`, où `xx` est le code de langue égal à celui utilisé comme dossier d'entrée.
 

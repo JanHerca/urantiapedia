@@ -86,7 +86,7 @@ I question that anyone but God can ever be totally objective because he's the on
 So maybe we would be wise to content ourselves with the awareness that we're almost totally subjective and spend more time converting negatives to positives. That's probably the key to discerning truths and becoming objective, anyway.
 
 > Nancy Johnson is a puzzle person who has worked extensively with the text of _The Urantia Book_ for 27 years. She typed the text of the book into an electronic format in 1981, and she indexed it electronically in 1990. Nancy has typeset both Uversa Press editions of _The Urantia Book_. As a member of the Fellowship's Publications Committee, she also typesets the _Mighty Messenger_.
-> {.is-info}
+{.is-info}
 >
 > ## References
 

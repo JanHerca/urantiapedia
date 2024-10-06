@@ -38,7 +38,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2021_09/043.jpg">
 </figure>
 
-Todos somos peregrinos en el camino de la vida y la verdad. Mi camino se iluminó cuando descubrí El libro de Urantia, ¡o más bien cuando me encontró a mí! Me hallaba entonces en medio de una convulsión religiosa y espiritual, ya que mis investigaciones científicas, arqueológicas e históricas habían sacudido mis convicciones basadas en una interpretación literal de la Biblia.
+Todos somos peregrinos en el camino de la vida y la verdad. Mi camino se iluminó cuando descubrí _El libro de Urantia_, ¡o más bien cuando me encontró a mí! Me hallaba entonces en medio de una convulsión religiosa y espiritual, ya que mis investigaciones científicas, arqueológicas e históricas habían sacudido mis convicciones basadas en una interpretación literal de la Biblia.
 
 Durante décadas, había depositado una confianza ciega en una institución religiosa, única poseedora de «la verdad», pero que en realidad la distorsionaba añadiendo reglas y dogmas interpretativos. Estos descubrimientos progresivos provocaron en mí estados de conciencia dolorosos: amargura, indignación, vergüenza, tristeza, desánimo e incluso depresión.
 

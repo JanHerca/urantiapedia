@@ -15,7 +15,7 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/fr/article/Stevie_Shaefer/Commonality_Among_Faiths">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Projet « Commonalité entre les confessions » du Comité interconfessionnel</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Projet « Commonalité entre les confessions » du Comité interconfessionnel</span>
         </a>
         </td>
         <td>
@@ -93,7 +93,7 @@ Si vous êtes intéressé par le rapport complet de l’enquête et sa discussio
       <tr>
         <td>
         <a href="/fr/article/Stevie_Shaefer/Commonality_Among_Faiths">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Projet « Commonalité entre les confessions » du Comité interconfessionnel</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Projet « Commonalité entre les confessions » du Comité interconfessionnel</span>
         </a>
         </td>
         <td>

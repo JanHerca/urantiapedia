@@ -77,7 +77,7 @@ And it calls it a new epoch. An epoch seems to be the time from one Son to anoth
 
 Does that mean that we're soon to have another Son? Maybe a Magisterial Son? Many things seem to point that way.
 
-On <a id="a79_3"></a>[UB 99:1.3](/en/The_Urantia_Book/99#p1_3) the Book states: “Urantia society can never hope to settle down as in ages past. The social ship has steamed out of the sheltered bays of established tradition and has begun its cruise upon the high seas of evolutionary destiny.” And up above that it says: “Mankind is on the march toward a new and unrevealed planetary destiny.” [UB 99:1.1](/en/The_Urantia_Book/99#p1_1)
+On <a id="a79_3"></a>[UB 99:1.3](/en/The_Urantia_Book/99#p1_3) the Book states: “Urantia society can never hope to settle down as in ages past. The social ship has steamed out of the sheltered bays of established tradition and has begun its cruise upon the high seas of evolutionary destiny.” And up above that it says: “Mankind is on the march toward a new and unrevealed planetary destiny.” <a id="a79_375"></a>[UB 99:1.1](/en/The_Urantia_Book/99#p1_1)
 
 On <a id="a81_3"></a>[UB 114:4.4](/en/The_Urantia_Book/114#p4_4) we read: “A Most High observer is empowered, at his discretion, to seize the planetary government in times of grave planetary crises, and it is of record that this has happened thirty-three times in the history of Urantia.” (Pages <a id="a81_278"></a>[UB 43:5.17](/en/The_Urantia_Book/43#p5_17) and <a id="a81_326"></a>[UB 175:1.8](/en/The_Urantia_Book/175#p1_8) seem to tell us two of those times.)
 

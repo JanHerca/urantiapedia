@@ -1,5 +1,5 @@
 ---
-title: "Principes d'unité : la clé de l'unité dynamique"
+title: "Principes d'unité : la clé de l'unité dynamique"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z
@@ -25,7 +25,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
         </td>
         <td>
         <a href="/fr/article/Ann_Bendall/Think_Alike_Necessary_or_Unnecessary_2">
-          <span class="pr-2">Pensez-y : nécessaire ou inutile ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Pensez-y : nécessaire ou inutile ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -44,20 +44,20 @@ Comment parvenir à l’unité spirituelle sans tomber dans le piège de l’uni
 
 La différence essentielle, je pense, entre l’unité spirituelle et l’uniformité sociale se voit mieux dans les qualités contrastées de l’interaction personnelle qui sont associées à chacune. L'unité est un principe qui régit les interactions dynamiques, tandis que l'uniformité décrit une condition statique de similitude. L’unité spirituelle nourrit la liberté créatrice de l’individu et libère « l’amitié spontanée, généreuse et sincère qui caractérise les fils nés de l’esprit du Dieu vivant ». (<a id="a44_498"></a>[LU 180:5.12](/fr/The_Urantia_Book/180#p5_12))
 
-Avant de continuer, examinons quelques définitions importantes :
+Avant de continuer, examinons quelques définitions importantes :
 
 <br style="clear:both;"/>
 
 - Principe : Vérité ou proposition fondamentale qui sert de fondement à un système de croyances, de valeurs, de comportement ou à une chaîne de raisonnement.
 - Condition : L'état d'une chose ou d'une circonstance en ce qui concerne son apparence, sa qualité, sa fonction ou son état de fonctionnement.
 - Unité : Unis ou réunis dans un tout, complet en soi. Unité, accord, harmonie, accord.
-- Uniformité : La qualité ou le fait d'être identique ; ou de ne pas changer ; ou être différent de quelque manière que ce soit, similitude globale, homogénéité ou régularité.
+- Uniformité : La qualité ou le fait d'être identique ; ou de ne pas changer ; ou être différent de quelque manière que ce soit, similitude globale, homogénéité ou régularité.
 - Norme : Un idéal ou un ensemble de critères qui établissent un niveau de qualité ou de réalisation, qui peut ensuite être utilisé à des fins d'évaluation.
-- Pratique : exécution ou application réelle d'une idée, d'une croyance ou d'un principe, par opposition aux théories qui s'y rapportent. Un acte ou une méthode suivie avec régularité.
+- Pratique : exécution ou application réelle d'une idée, d'une croyance ou d'un principe, par opposition aux théories qui s'y rapportent. Un acte ou une méthode suivie avec régularité.
 - Vertu : Excellence morale, bonté ou droiture. Conduite inspirée par des principes moraux et éthiques, la droiture ou la droiture.
 - Ethos : L'esprit caractéristique d'une culture, d'une époque ou d'une communauté tel qu'il se manifeste dans ses croyances, ses principes et ses aspirations en matière de valeurs.
 
-Les principes reçoivent une grande importance dans _Le Livre d'Urantia_ :
+Les principes reçoivent une grande importance dans _Le Livre d'Urantia_ :
 
 > De nouveaux systèmes de valeurs voient à présent le jour ; _de nouvelles formulations de principes et de critères s’établissent_ ; les habitudes et les idéaux sont remodelés ; ... (soulignon ajoutée) (<a id="a61_203"></a>[LU 101:7.3](/fr/The_Urantia_Book/101#p7_3))
 
@@ -154,7 +154,7 @@ Bien d’autres pourraient être ajoutés à cette liste, mais nous espérons qu
         </td>
         <td>
         <a href="/fr/article/Ann_Bendall/Think_Alike_Necessary_or_Unnecessary_2">
-          <span class="pr-2">Pensez-y : nécessaire ou inutile ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Pensez-y : nécessaire ou inutile ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

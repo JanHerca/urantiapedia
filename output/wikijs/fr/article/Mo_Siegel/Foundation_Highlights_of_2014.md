@@ -47,7 +47,7 @@ Pour tous ceux qui se demandent ce qui se passe à la Fondation Urantia, voici q
 
 - Les visites uniques sur urantia.org ont totalisé 701 405, en hausse de 17,5 % par rapport à 2013. Les cinq premiers pays d’où des personnes visitèrent le site sont: 1. États-Unis, 2. Brésil, 3. Mexique, 4. Colombie et 5. Canada.
 - Conversion du site pour être réactif au téléphone portable.
-- Amélioration de la participation des médias sociaux avec Facebook « aime » en hausse de 25 %.
+- Amélioration de la participation des médias sociaux avec Facebook « aime » en hausse de 25 %.
 
 ## Finances
 
@@ -81,7 +81,7 @@ Pour tous ceux qui se demandent ce qui se passe à la Fondation Urantia, voici q
 
 ## Communauté
 
-- Seize groupes hébergés, plus un groupe d’étude hebdomadaire à 533 au cours de 2014. Inclus, quatre réunions du Conseil d’administration des trustees, de l’Association Urantia du Grand lac Michigan ( GLMUA ), l’assemblée annuelle et un groupe d’étude, deux réunions du Comité exécutif de la Fellowship du Livre d’Urantia, des sessions de planification de la Retraite pour les femmes et un séminaire conjoint du Comité d’éducation. Nous avons également accueilli des visiteurs internationaux après le Symposium des groupes d’étude de l’AUI à Madison, Wisconsin, et nous avons organisé la réunion du Conseil international de service de l’AUI, une Retraite de femmes, un atelier sur « l’Âme », la réunion annuelle des directeurs de l’École internet du Livre d’Urantia ( UBIS ), la fête de fin d’année annuelle coparrainée par GLMUA et la First Society, et un atelier du samedi parrainé par la First Society.
+- Seize groupes hébergés, plus un groupe d’étude hebdomadaire à 533 au cours de 2014. Inclus, quatre réunions du Conseil d’administration des trustees, de l’Association Urantia du Grand lac Michigan ( GLMUA ), l’assemblée annuelle et un groupe d’étude, deux réunions du Comité exécutif de la Fellowship du Livre d’Urantia, des sessions de planification de la Retraite pour les femmes et un séminaire conjoint du Comité d’éducation. Nous avons également accueilli des visiteurs internationaux après le Symposium des groupes d’étude de l’AUI à Madison, Wisconsin, et nous avons organisé la réunion du Conseil international de service de l’AUI, une Retraite de femmes, un atelier sur « l’Âme », la réunion annuelle des directeurs de l’École internet du Livre d’Urantia ( UBIS ), la fête de fin d’année annuelle coparrainée par GLMUA et la First Society, et un atelier du samedi parrainé par la First Society.
 - Des conférences parrainées financièrement par l’AUI et la Fellowship. Des Livres d’Urantia furent vendus dans les deux.
 - Envoie de quatre éditions trimestrielles des _Nouvelles en ligne de_ la _Fondation Urantia,_ trois bulletins UBIS, le rapport annuel de 2013 et deux lettres de collecte de fonds.
 

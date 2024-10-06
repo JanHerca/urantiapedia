@@ -43,7 +43,7 @@ Chers amis de la Communauté du Livre d'Urantia,
 
 Parce que la relation entre les étudiants du Livre d'Urantia est au centre de ce qui constitue cette communauté, nous travaillons sur des façons créatives de nous engager, de nous soutenir, de nous connecter, de nous inspirer, d'apprendre les uns des autres, de nous enseigner et de nous servir les uns les autres.
 
-Outre les efforts inspirants que vous découvrirez ci-dessous, le comité exécutif a travaillé cet été sur les projets suivants :
+Outre les efforts inspirants que vous découvrirez ci-dessous, le comité exécutif a travaillé cet été sur les projets suivants :
 
 - explorer les moyens de soutenir la communauté locale et en ligne
 - la refonte de notre site internet
@@ -52,7 +52,7 @@ Outre les efforts inspirants que vous découvrirez ci-dessous, le comité exécu
 
 Cette organisation dispose d’une équipe extraordinaire de bénévoles et d’employés passionnément engagés dans le partage de cette révélation qui change la vie.
 
-Veuillez profiter d'une mise à jour de certains membres de notre équipe !
+Veuillez profiter d'une mise à jour de certains membres de notre équipe !
 
 ## Liens externes
 

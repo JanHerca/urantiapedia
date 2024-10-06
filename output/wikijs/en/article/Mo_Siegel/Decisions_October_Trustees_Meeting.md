@@ -41,6 +41,7 @@ dateCreated: 2023-8-29T10:55:6Z
 _By Mo Siegel, Secretary Urantia Foundaion_ 
 
 The Extended Board of Urantia Foundation met in Chicago for the October Quarterly meeting of 2007. Some of the areas of discussion and decision making included: 
+<br style="clear:both;"/>
 
 ## Europe 
 

@@ -59,7 +59,7 @@ Más allá de todo lo demás, simplemente no son lo suficientemente simples como
 
 En las páginas 7 a 13 hemos utilizado un ataque combinado, primero invocando el principio de la navaja de Occam de eliminar todas las hipótesis innecesarias. ¿Es este el tipo de cosas que sugieren los reveladores?
 
-Casi todos los comentarios del Libro de Urantia producidos hasta la fecha han sido de carácter promocional. Si bien es meritorio, eso no es lo que se nos desafía a hacer en esa referencia de la página 43.
+Casi todos los comentarios del _Libro de Urantia_ producidos hasta la fecha han sido de carácter promocional. Si bien es meritorio, eso no es lo que se nos desafía a hacer en esa referencia de la página 43.
 
 Tal vez deberíamos promover la verdad, la belleza y la bondad divinas requeridas en folletos, folletos, artículos, sitios web personales, etc., y, de acuerdo con el espíritu de nuestra p. 43 instrucciones, sin mencionar los Documentos de Urantia como nuestra fuente.
 

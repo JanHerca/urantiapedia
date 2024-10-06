@@ -70,7 +70,7 @@ Le but du groupe est d'encourager et de soutenir chacun d'entre nous
 
 ## Des lignes directrices
 
-Ce qui suit est une modification des lignes directrices du Center for Attitudinal Healing :
+Ce qui suit est une modification des lignes directrices du Center for Attitudinal Healing :
 
 1. Nous voulons apprendre l’être et l’interaction positifs.
 2. Notre objectif est de travailler sur nous-mêmes, de nous soutenir mutuellement et de pratiquer une écoute et un partage sans jugement de nos propres expériences.

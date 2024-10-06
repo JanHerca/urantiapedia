@@ -1,9 +1,9 @@
 ---
-title: Books
-description: "The Urantiapedia Library"
+title: "The Urantiapedia Library"
+description:
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: book
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -30,6 +30,10 @@ When adding these books into Urantiapedia we are going to proceed in the same wa
 
 - [Index of all groups of books](/en/index/books)
 
+<figure id="Sample_fig_1" class="image urantiapedia">
+<img src="/image/help/sample_page_book.png">
+<figcaption><em>Example of a book visualization.</em></figcaption>
+</figure>
 
 ## References
 

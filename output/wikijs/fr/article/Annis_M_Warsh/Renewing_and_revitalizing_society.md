@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-Sur LU 195 :9.2 du _Le Livre d'URANTIA_, il est dit :
+Sur LU 195 :9.2 du _Le Livre d'URANTIA_, il est dit :
 
 > « _Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle._ » (<a id="a39_184"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
 
@@ -63,7 +63,7 @@ Marilyn Ferguson, dans « The Aquarian Conspiracy », un livre que vous devez li
 
 « Ce phénomène semble mystique uniquement parce que nous ne le comprenons pas. Mais il existe d’innombrables indices disponibles, à condition d’avoir le bon état d’esprit – l’ouverture et la disponibilité pour synthétiser les indices dans l’ensemble.
 
-Je n'ai jamais oublié le coup de lune lorsque j'ai entendu un compte à rebours qui passait de 10 à 3 et se terminait ensuite par les mots « le guidage est interne ».
+Je n'ai jamais oublié le coup de lune lorsque j'ai entendu un compte à rebours qui passait de 10 à 3 et se terminait ensuite par les mots « le guidage est interne ».
 
 En effet, ça l'est. Un sondage Gallup de 1978 indiquait que dix millions d’Américains étaient engagés dans certains aspects de la religion orientale et neuf millions dans la guérison spirituelle. L’aspect principal dans lequel la plupart étaient probablement engagés était une forme de méditation – même comme moi. Pour moi, c'était une idée que j'avais glanée dans _Le Livre d'URANTIA_, et non dans n'importe quelle discipline orientale.
 

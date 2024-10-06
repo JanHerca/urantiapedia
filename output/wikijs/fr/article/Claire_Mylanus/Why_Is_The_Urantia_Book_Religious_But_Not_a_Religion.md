@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-2-numéro-3-sept-2008">
+        <a href="/fr/index/articles_uf_news_online#volume-2-numéro-3-septembre-2008">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 3, Sept. 2008 — Table des matières</span>
         </a>
         </td>
@@ -50,7 +50,7 @@ Tout d’abord, _Le Livre d’Urantia_ ne dissocie pas la religion de la science
 
 Etre religieux est essayer d’atteindre Dieu, essayer de comprendre les valeurs et les significations universelles et de les intégrer dans notre vie quotidienne. Jésus parlait souvent du « royaume de Dieu en vous ». _Le Livre d’Urantia_ met l’accent sur le fait d’entrer en « association avec Dieu ». Le contact personnel avec le fragment divin en nous est le contact avec Dieu le Père. C’est fraterniser avec Dieu et cela consiste en une expérience religieuse personnelle basée sur la foi. La croissance spirituelle, la conscience de Dieu toujours croissante, est une processus qui prend place entre le moniteur divin et nous-mêmes. C’est individuel et cela s’exprime dans notre vie quotidienne à travers nos actions et nos choix. D’abord au niveau du mental et ensuite au niveau de la chair.
 
-C’est pourquoi, je croix, que_Le Livre d’Urantia_ présente un concept nouveau et original dont chacun de nous peut en faire l’expérience dans sa vie. Ce concept et l’expérience qui suit, sont religieux, mais ne constituent pas une religion.
+C’est pourquoi, je croix, que _Le Livre d’Urantia_ présente un concept nouveau et original dont chacun de nous peut en faire l’expérience dans sa vie. Ce concept et l’expérience qui suit, sont religieux, mais ne constituent pas une religion.
 
 > « Vous devez mettre de côté beaucoup de vos idées concernant la religion. »
 
@@ -71,7 +71,7 @@ C’est pourquoi, je croix, que_Le Livre d’Urantia_ présente un concept nouve
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-2-numéro-3-sept-2008">
+        <a href="/fr/index/articles_uf_news_online#volume-2-numéro-3-septembre-2008">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 3, Sept. 2008 — Table des matières</span>
         </a>
         </td>

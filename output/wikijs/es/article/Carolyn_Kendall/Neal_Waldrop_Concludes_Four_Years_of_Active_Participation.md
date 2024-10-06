@@ -37,7 +37,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Por Carolyn Kendall Illinois, EE.UU._
 
-_Nota: El número anterior de Urantia Online hizo una crónica de las contribuciones de Patricia Mundelius. La reunión de agosto de 2007 en la que los Fideicomisarios de la Fundación se despidieron de Patricia también marcó el final de la participación activa de Neal Waldrop.
+_Nota: El número anterior de Urantia Online hizo una crónica de las contribuciones de Patricia Mundelius. La reunión de agosto de 2007 en la que los Fideicomisarios de la Fundación se despidieron de Patricia también marcó el final de la participación activa de Neal Waldrop._
 
 Neal Waldrop encontró _El Libro de Urantia_ en 1973 y lo leyó de principio a fin en sólo cuatro semanas. Se desempeñó como Síndico de 1989 a 1992, cuando circunstancias prácticas hicieron necesaria su renuncia. Como funcionario de carrera del Servicio Exterior empleado por el Departamento de Estado de los Estados Unidos, fue trasladado de Washington, D.C. a la Embajada de los Estados Unidos en Canberra, Australia. A esa distancia no habría podido hacer justicia a sus deberes como Síndico.
 

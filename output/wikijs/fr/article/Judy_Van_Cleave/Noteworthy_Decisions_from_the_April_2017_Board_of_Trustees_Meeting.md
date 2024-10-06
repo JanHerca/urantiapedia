@@ -43,7 +43,7 @@ _Par Judy Van Cleave, trustee, secrétaire de la Fondation Urantia, Idaho, État
 
 ## 1. Travail à 533
 
-Le travail de la Fondation s’est bien déroulé au 1<sup>er</sup> trimestre 2017. Beaucoup de travail journalier routinier fut accompli. Avec la coopération de volontaires, d’une équipe de travailleurs contractuels, du conseil d’administration, des comités, des traducteurs, des réviseurs, des enseignants et de l’équipe de la dissémination du livre, notre maigre et généreux personnel a fait avancer un nombre de projets importants. Pour en mentionner quelques uns : le nouvel index de la Fondation Urantia est bientôt terminé ; le rapport annuel fut publié ; des séminaires furent reçus dans le bâtiment ; une large recherche préliminaire des marques déposées a été compilé pour le conseil d’administration ; 2000 livres portugais ont été imprimés ; la révision russe a été évaluée et tant d’autres choses encore.
+Le travail de la Fondation s’est bien déroulé au 1<sup>er</sup> trimestre 2017. Beaucoup de travail journalier routinier fut accompli. Avec la coopération de volontaires, d’une équipe de travailleurs contractuels, du conseil d’administration, des comités, des traducteurs, des réviseurs, des enseignants et de l’équipe de la dissémination du livre, notre maigre et généreux personnel a fait avancer un nombre de projets importants. Pour en mentionner quelques uns : le nouvel index de la Fondation Urantia est bientôt terminé ; le rapport annuel fut publié ; des séminaires furent reçus dans le bâtiment ; une large recherche préliminaire des marques déposées a été compilé pour le conseil d’administration ; 2000 livres portugais ont été imprimés ; la révision russe a été évaluée et tant d’autres choses encore.
 
 ## 2. Points importants des finances et des ventes de livres au 1er trimestre 2017
 
@@ -61,7 +61,7 @@ Suite au changement d’environnement des réseaux sociaux et de l’usage crois
 
 ## 4. Une traduction Tagalog (en Philippin) approuvée
 
-Grâce à un groupe dévoué de lecteurs philippins, le conseil d’administration a approuvé la création d’une traduction Tagalog du _Livre d’Urantia._ Une traduction de cette complexité prendra au moins dix ans de travail avant sa publication. Avec une population de près de 100 millions d’habitants et 92 % de chrétiens, très peu d’endroits dans le monde ont un terrain si riche spirituellement que celui des Philippines. Bien que le nombre de chrétiens d’un pays ne soit pas une garantie pour que le livre soit accepté par de nouveaux adeptes, une population chrétienne active et chercheuse a été un facteur déterminant d’acceptation du _Livre d’Urantia_ jusqu’à maintenant.
+Grâce à un groupe dévoué de lecteurs philippins, le conseil d’administration a approuvé la création d’une traduction Tagalog du _Livre d’Urantia._ Une traduction de cette complexité prendra au moins dix ans de travail avant sa publication. Avec une population de près de 100 millions d’habitants et 92 % de chrétiens, très peu d’endroits dans le monde ont un terrain si riche spirituellement que celui des Philippines. Bien que le nombre de chrétiens d’un pays ne soit pas une garantie pour que le livre soit accepté par de nouveaux adeptes, une population chrétienne active et chercheuse a été un facteur déterminant d’acceptation du _Livre d’Urantia_ jusqu’à maintenant.
 
 ## 5. Publication d’une réplique commémorative de la première édition du _Livre d’Urantia_
 
@@ -73,7 +73,7 @@ Grâce à un groupe dévoué de lecteurs philippins, le conseil d’administrati
 
 ## 6. La révision du texte standard de référence (SRT)
 
-Le Comité SRT a présenté une révision de la méthodologie utilisée pour déterminer quelles erreurs de typographie devaient être corrigées depuis la première édition du texte en 1995. Un petit nombre d’erreurs avaient été commises dans la première édition, qui ont été ensuite découvertes et corrigées. La Fondation Urantia et l’Uversa Press impriment maintenant le SRT pour assurer aux lecteurs que le texte du _Livre d’Urantia,_ avec le moins d’erreurs possible_,_ soit préservé inviolé, distribué largement et protégé fidèlement. Pour voir quelles erreurs furent corrigées et pourquoi elles le furent, cliquez sur ce lien : [https://bit.ly/2qTs2zL](https://bit.ly/2qTs2zL).
+Le Comité SRT a présenté une révision de la méthodologie utilisée pour déterminer quelles erreurs de typographie devaient être corrigées depuis la première édition du texte en 1995. Un petit nombre d’erreurs avaient été commises dans la première édition, qui ont été ensuite découvertes et corrigées. La Fondation Urantia et l’Uversa Press impriment maintenant le SRT pour assurer aux lecteurs que le texte du _Livre d’Urantia,_ avec le moins d’erreurs possible_,_ soit préservé inviolé, distribué largement et protégé fidèlement. Pour voir quelles erreurs furent corrigées et pourquoi elles le furent, cliquez sur ce lien : [https://bit.ly/2qTs2zL](https://bit.ly/2qTs2zL).
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2017_06/020.jpg">
@@ -81,11 +81,11 @@ Le Comité SRT a présenté une révision de la méthodologie utilisée pour dé
 
 ## 7. Collecte de fonds participative approuvée
 
-Des plans sont développés pour lancer une collecte de fonds limitée, dans le but unique de financer les phases finales de la traduction chinoise. Nous pensons avoir besoin 135.000 $ pour finir une traduction chinoise de haute qualité durant les cinq prochaines années. Cette traduction a été extrêmement difficile à cause de la différence de langues entre l’anglais et le chinois mandarin. Ceci dit, nous avons à peu près 50 % de terminé. Avec plus d’un 1,3 millions de personnes vivant en Chine et la montée rapide de la Chrétienté là-bas, c’est une traduction vitale pour la transformation spirituelle de l’Asie. Lorsque cette Collecte de fonds participative sera lancée, investissez généreusement dans le bien-être spirituel du peuple chinois.
+Des plans sont développés pour lancer une collecte de fonds limitée, dans le but unique de financer les phases finales de la traduction chinoise. Nous pensons avoir besoin 135.000 $ pour finir une traduction chinoise de haute qualité durant les cinq prochaines années. Cette traduction a été extrêmement difficile à cause de la différence de langues entre l’anglais et le chinois mandarin. Ceci dit, nous avons à peu près 50 % de terminé. Avec plus d’un 1,3 millions de personnes vivant en Chine et la montée rapide de la Chrétienté là-bas, c’est une traduction vitale pour la transformation spirituelle de l’Asie. Lorsque cette Collecte de fonds participative sera lancée, investissez généreusement dans le bien-être spirituel du peuple chinois.
 
 ## 8. Audit 2016 approuvé
 
-Les auditeurs indépendants de la Fondation Urantia ont présenté leurs résultats d’audit 2016 au Comité des Finances et au conseil d’administration. Le conseil d’administration l’a approuvé. Pour lire le 990 de la Fondation Urantia, cliquez, s’il vous plaît, sur ce lien : [https://www.urantia.org/urantia-foundation/form-990](https://www.urantia.org/urantia-foundation/form-990).
+Les auditeurs indépendants de la Fondation Urantia ont présenté leurs résultats d’audit 2016 au Comité des Finances et au conseil d’administration. Le conseil d’administration l’a approuvé. Pour lire le 990 de la Fondation Urantia, cliquez, s’il vous plaît, sur ce lien : [https://www.urantia.org/urantia-foundation/form-990](https://www.urantia.org/urantia-foundation/form-990).
 
 ## 9. Line St-Pierre élue comme trustee associé émérite
 

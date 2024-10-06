@@ -130,7 +130,7 @@ Ahora que los reveladores han realzado enormemente la verdad disponible para la 
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2017/?lang=es)
 - [Este artículo](https://urantia-association.org/las-repercusiones-del-aleluya/?lang=es)
 

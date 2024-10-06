@@ -72,7 +72,7 @@ Cette technique rend possible la religion de l'esprit que nous enseigne Jésus, 
 > 
 > que se passe-t-il lorsque nous adorons ?
 > 
-> - Lors de l'adoration, nous accordons une grande valeur à une ou plusieurs caractéristiques divines et cela nous amène naturellement, consciemment ou inconsciemment, à nous transformer en personnes plus proches de cet idéal, à nous identifier à lui. <a id="a74_252"></a>[LU 143:7.5](/fr/The_Urantia_Book/143#p7_5) ; <a id="a74_298"></a>[LU 143:7.6](/fr/The_Urantia_Book/143#p7_6); <a id="a74_343"></a>[LU 92:0.4](/fr/The_Urantia_Book/92#p0_4) ; [LU 5:4.5](/fr/The_Urantia_Book/5#p4_5) [LU 36:5.17](/fr/The_Urantia_Book/36#p5_17) [LU 160:5.3](/fr/The_Urantia_Book/160#p5_3); <a id="a74_399"></a>[LU 91:5.1](/fr/The_Urantia_Book/91#p5_1); <a id="a74_443"></a>[LU 196:3.22](/fr/The_Urantia_Book/196#p3_22); <a id="a74_490"></a>[LU 102:4.5](/fr/The_Urantia_Book/102#p4_5) ; <a id="a74_536"></a>[LU 146:2.17](/fr/The_Urantia_Book/146#p2_17) Jésus a enseigné que l'adoration rend l'adorateur de plus en plus semblable à l'être qu'il adore (FOI ??)
+> - Lors de l'adoration, nous accordons une grande valeur à une ou plusieurs caractéristiques divines et cela nous amène naturellement, consciemment ou inconsciemment, à nous transformer en personnes plus proches de cet idéal, à nous identifier à lui. <a id="a74_252"></a>[LU 143:7.5](/fr/The_Urantia_Book/143#p7_5) ; <a id="a74_298"></a>[LU 143:7.6](/fr/The_Urantia_Book/143#p7_6); <a id="a74_343"></a>[LU 92:0.4](/fr/The_Urantia_Book/92#p0_4) ; <a id="a74_387"></a>[LU 5:4.5](/fr/The_Urantia_Book/5#p4_5) <a id="a74_427"></a>[LU 36:5.17](/fr/The_Urantia_Book/36#p5_17) <a id="a74_471"></a>[LU 160:5.3](/fr/The_Urantia_Book/160#p5_3); <a id="a74_516"></a>[LU 91:5.1](/fr/The_Urantia_Book/91#p5_1); <a id="a74_559"></a>[LU 196:3.22](/fr/The_Urantia_Book/196#p3_22); <a id="a74_606"></a>[LU 102:4.5](/fr/The_Urantia_Book/102#p4_5) ; <a id="a74_652"></a>[LU 146:2.17](/fr/The_Urantia_Book/146#p2_17) Jésus a enseigné que l'adoration rend l'adorateur de plus en plus semblable à l'être qu'il adore (FOI ??)
 > - Capacité distinctive vis-à-vis des animaux, d'être coureur du
 > - Éviter le mal, prévenir le péché + Sauver l'action des dangers du matérialisme
 {.is-info}
@@ -83,11 +83,11 @@ Cette technique rend possible la religion de l'esprit que nous enseigne Jésus, 
 > **Autres notes**
 > 
 > 
-> - Libre arbitre : rien ne nous empêche d’adorer et de réaliser les idéaux divins d’une manière ou d’une autre
+> - Libre arbitre : rien ne nous empêche d’adorer et de réaliser les idéaux divins d’une manière ou d’une autre
 > - Point de départ avant le culte : détente + tout autre contact avec l'esprit <a id="a86_80"></a>[LU 103:4.1](/fr/The_Urantia_Book/103#p4_1); <a id="a86_125"></a>[LU 160:3.1](/fr/The_Urantia_Book/160#p3_1)
 > - L'iniquité coupe cette forme de contact ainsi que d'autres formes de contact avec l'esprit. <a id="a87_96"></a>[LU 146:2.2](/fr/The_Urantia_Book/146#p2_2)
 > - Plus nous le connaissons, meilleure est la qualité de l’adoration. <a id="a88_71"></a>[LU 27:7.1](/fr/The_Urantia_Book/27#p7_1); <a id="a88_114"></a>[LU 144:3.23](/fr/The_Urantia_Book/144#p3_23)
-> - Vue large : Nous adorons Dieu lorsque nous faisons sa volonté <a id="a89_66"></a>[LU 131:5.3](/fr/The_Urantia_Book/131#p5_3); <a id="a89_111"></a>[LU 131:10.5](/fr/The_Urantia_Book/131#p10_5)
+> - Vue large : Nous adorons Dieu lorsque nous faisons sa volonté <a id="a89_66"></a>[LU 131:5.3](/fr/The_Urantia_Book/131#p5_3); <a id="a89_111"></a>[LU 131:10.5](/fr/The_Urantia_Book/131#p10_5)
 {.is-info}
 
 Il existe d’autres formes de contact avec l’esprit dans l’esprit liées à l’adoration. Tout d’abord, la prière d’action de grâce est présentée comme la prière idéale ou autre forme de culte, en l’assimilant à elle. Et enfin, nous avons la méditation réflexive et vénérable.

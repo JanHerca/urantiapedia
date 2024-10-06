@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-3-sept-2014">
+        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-3-septembre-2014">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 3, Sept. 2014 — Table des matières</span>
         </a>
         </td>
@@ -58,7 +58,7 @@ L’évangile est si simple et pourtant si puissant qu’il touche le cœur des 
 
 Aujourd’hui, la majorité des Indonésiens sont musulmans, dont environ la moitié, sont modérés. Et ces modérés sont ouverts à de nouveaux enseignements qui montrent de meilleures façons de vivre. Lentement mais sûrement, _Le Livre d’Urantia,_ sera accepté.
 
-Nous, traducteurs de la traduction indonésienne, avons des difficultés avec le nom à utiliser pour Jésus. Dans l’islam, Jésus est un prophète pour la tribu d’Israël et est appelé « Isa » ( « Eashoa » \[prononcée EE-shoh\], « Jésus » en araméen), et les musulmans croient que Mahomet est le successeur d’Isa pour toutes les nations. Si nous utilisons le nom Isa, les musulmans ne peuvent pas l’accepter comme le Fils de Dieu Créateur. Mais si nous utilisons « Jésus », ils pensent que _Le Livre d’Urantia_ est un livre chrétien et ne l’accepteront pas.
+Nous, traducteurs de la traduction indonésienne, avons des difficultés avec le nom à utiliser pour Jésus. Dans l’islam, Jésus est un prophète pour la tribu d’Israël et est appelé « Isa » ( « Eashoa » \[prononcée EE-shoh\], « Jésus » en araméen), et les musulmans croient que Mahomet est le successeur d’Isa pour toutes les nations. Si nous utilisons le nom Isa, les musulmans ne peuvent pas l’accepter comme le Fils de Dieu Créateur. Mais si nous utilisons « Jésus », ils pensent que _Le Livre d’Urantia_ est un livre chrétien et ne l’accepteront pas.
 
 L’introduction plus large et la propagation des enseignements _du Livre d’Urantia_ doivent attendre la fin de la traduction indonésienne.
 
@@ -79,7 +79,7 @@ L’introduction plus large et la propagation des enseignements _du Livre d’Ur
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-3-sept-2014">
+        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-3-septembre-2014">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 3, Sept. 2014 — Table des matières</span>
         </a>
         </td>

@@ -34,7 +34,7 @@ To add footnotes to JSON files, follow these steps:
 - Click *Execute*.
 - If everything is correct *Conversion executed successfully* will appear. In case of errors, the list of errors will appear. In this case, it is advisable to notify one of the *developer* users the error.
 
-![](/image/upt_json_json.png)
+![](/image/help/upt_json_json.png)
 
 The output files are different from the input files to avoid that if there is any problem they are unusable. The output is saved in `input / json / book-xx-footnotes` folders, where `xx` is the language code equal to the one used as the input folder.
 

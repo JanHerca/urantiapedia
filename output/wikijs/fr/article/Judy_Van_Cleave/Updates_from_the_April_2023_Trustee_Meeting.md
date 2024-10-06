@@ -59,7 +59,7 @@ _Par Judy Van Cleave, secrétaire, Fondation Urantia, Idaho, États-Unis_
 - En plus des cours réguliers, UBIS a lancé la nouvelle série Coup de Projecteur. Ce programme innovant propose des présentations en direct de 90 minutes sur des sujets d'actualité et est proposé chaque mois par les sections anglaise, française et espagnole.
 - Le Comité d’Éducation discuta d’un projet de Symposium sur le mariage et la famille. Cet événement se déroulera en ligne, comme le Symposium de la Science de 2022. Les présentations seront élaborées par une équipe de planification. De plus amples informations seront disponibles en juillet.
 - Dr.Jameson et Dr. Kulieke sont heureux d'annoncer que "Une Narration de l’Histoire du _Livre_ _d’Urantia_" est entré dans la phase finale d'édition et de production. Ils attendent avec impatience de partager ce travail d'amour avec nous bientôt.
-- Les membres du Comité du Répertoire des groupes d'étude sont tous satisfaits des améliorations apportées au site en 2022. Le processus permettant de s'assurer que tous les groupes sont à jour a été automatisé avec succès. De plus, un processus de messagerie texte a été mis en place afin que tout animateur qui ne répond pas aux courriels reçoive une dernière demande de mise à jour de ses informations. Les membres de la commission n'ont donc plus besoin de téléphoner. Les modalités de mise en œuvre à l'échelle internationale seront examinées en 2023. Comme toujours, l'équipe - Bill Beasley, Scott Brooks, Jackie Koury, Rick Lyon et Tamara Strumfeld - prend plaisir à travailler ensemble et est reconnaissante du soutien des trois organisations sponsors. C'est un excellent exemple de coopération !
+- Les membres du Comité du Répertoire des groupes d'étude sont tous satisfaits des améliorations apportées au site en 2022. Le processus permettant de s'assurer que tous les groupes sont à jour a été automatisé avec succès. De plus, un processus de messagerie texte a été mis en place afin que tout animateur qui ne répond pas aux courriels reçoive une dernière demande de mise à jour de ses informations. Les membres de la commission n'ont donc plus besoin de téléphoner. Les modalités de mise en œuvre à l'échelle internationale seront examinées en 2023. Comme toujours, l'équipe - Bill Beasley, Scott Brooks, Jackie Koury, Rick Lyon et Tamara Strumfeld - prend plaisir à travailler ensemble et est reconnaissante du soutien des trois organisations sponsors. C'est un excellent exemple de coopération !
 
 ## Collecte de fonds et finances
 
@@ -73,71 +73,71 @@ _Par Judy Van Cleave, secrétaire, Fondation Urantia, Idaho, États-Unis_
 
 Le Programme de Subventions de la Graine de Moutarde a achevé sa première série de financement et l'équipe du MSGP a fait un excellent travail. Malgré la courbe d'apprentissage inévitable au cours des six premiers mois, chaque membre du comité a travaillé sans relâche, analysant et évaluant équitablement chaque demande. Nous remercions vivement Sherry Cathcart Chavis, Minoo Claire, Gary Deinstadt, Geri Johnson, Tamara Strumfeld et Chris Wood.
 
-Sept subventions ont été annoncées le 15 mars. Félicitations aux lauréats de la première série de subventions de la Graine de Moutarde !
+Sept subventions ont été annoncées le 15 mars. Félicitations aux lauréats de la première série de subventions de la Graine de Moutarde !
 
 ### 1. Programme de formation des enseignants du _Livre d'Urantia_
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+<figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 
 _Un projet de six mois pour développer un programme de formation des enseignants afin de préparer des étudiants motivés à présenter efficacement les idées et les idéaux de la Révélation d'Urantia à des personnes de toutes les cultures._
 
 - Elisabeth Callahan pour l'Université d'Urantia, États-Unis
-- Domaine d'intérêt : Programme éducatif, Centres, Écoles
+- Domaine d'intérêt : Programme éducatif, Centres, Écoles
 <br style="clear:both;"/>
 
 ### 2. École de sagesse divine et progressive
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 
 Un projet d'un an pour fournir une assistance technique aux enseignants/animateurs afin de continuer à promouvoir une méthode d'enseignement pédagogique, permettant une meilleure compréhension et une large diffusion des vérités du _Livre d'Urantia_.
 
 - Moustapha Ndiaye, Sénégal
-- Domaine d'intérêt : Interreligieux/Educatif
+- Domaine d'intérêt : Interreligieux/Educatif
 <br style="clear:both;"/>
 
 ### 3. Conférences Urantia au Nigeria
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-left">
+<figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 
 _Un projet de six mois pour accueillir une conférence annuelle à Lagos, au Nigéria, dans le but de consolider la base de lecteurs au Nigéria et d'encourager les chercheurs de vérité à rencontrer les lecteurs du _Livre d'Urantia_._
 
 - Emeka Anazodo, Nigeria
-- Domaine d'intérêt : Programmes éducatifs, centres, écoles
+- Domaine d'intérêt : Programmes éducatifs, centres, écoles
 <br style="clear:both;"/>
 
 ### 4. Living Bridge Productions
 
-<figure id="Figure_5" class="image urantiapedia image-style-align-left">
+<figure id="Figure_5" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 
 _Un projet d'un an pour produire deux vidéos de haute qualité pour diffuser le_ Livre d'Urantia _et ses enseignements._
 
 - Gary Tonge, Canada
-- Domaine d'intérêt : Audiovisuel/Sensibilisation Numérique
+- Domaine d'intérêt : Audiovisuel/Sensibilisation Numérique
 <br style="clear:both;"/>
 
 ### 5. Répandre la bonne nouvelle
 
-<figure id="Figure_6" class="image urantiapedia image-style-align-left">
+<figure id="Figure_6" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 
 _Projet d'un mois visant à proclamer, promouvoir et diffuser la révélation par le biais d'une tournée de ministère basée sur la musique (11 concerts) dans toute la Californie, dans des zones proches des groupes d'étude existants._
 
 - Pato Banton, États-Unis
-- Domaine d'intérêt : Musique, art et cinéma
+- Domaine d'intérêt : Musique, art et cinéma
 <br style="clear:both;"/>
 
 ### 6. Urantiapedia
 
-<figure id="Figure_7" class="image urantiapedia image-style-align-left">
+<figure id="Figure_7" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 
@@ -145,19 +145,19 @@ _Projet de deux ans visant à développer une encyclopédie en ligne à source o
 
 - José Antonio Hernández, Espagne
 
-- Domaine d'intérêt : Ouvrages secondaires
+- Domaine d'intérêt : Ouvrages secondaires
 <br style="clear:both;"/>
 
 ### 7. FER UB
 
-<figure id="Figure_8" class="image urantiapedia image-style-align-left">
+<figure id="Figure_8" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 
 _Un projet d'un an pour financer des connexions Internet plus solides pour les membres de groupes d'étude du _Livre d'Urantia_ et pour réaliser et mettre en ligne quatre courtes vidéos de sensibilisation._
 
 - Maricor Doctor, Philippines
-- Domaine d'intérêt : Programme éducatif, centres, écoles
+- Domaine d'intérêt : Programme éducatif, centres, écoles
 <br style="clear:both;"/>
 
 ## Traductions et révisions

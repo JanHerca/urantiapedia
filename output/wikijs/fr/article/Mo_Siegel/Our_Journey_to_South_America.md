@@ -68,7 +68,7 @@ Après la visite des magasins, nous sommes allés chez Sabino et avons passé du
 
 Il y a aujourd’hui, au Brésil, 57 groupes d’étude actifs. Nous avons entendu des histoires extraordinaires rapportant comment les gens avaient trouvé le _Livre d’Urantia_, au Brésil. Presque la moitié d’entre eux, nous dirent que les écrits de J. J. Benítez les incitèrent à chercher le livre. Dans sa saga en plusieurs volumes, _Le Cheval de Troie,_ Benítez s’est généreusement servi dans les enseignements de la Partie IV du _Livre d’Urantia._
 
-Une chose est tout à fait  évidente : Susana fut une influence unificatrice et  coordinatrice pour les lecteurs brésiliens. Elle possède une force remarquable d’énergie aimante et de coordination sociale.
+Une chose est tout à fait  évidente : Susana fut une influence unificatrice et  coordinatrice pour les lecteurs brésiliens. Elle possède une force remarquable d’énergie aimante et de coordination sociale.
 
 Si vous voulez en apprendre plus sur les activités au Brésil, allez sur [www.urantia.org.br](http://www.urantia.org.br/) et [www.elub.com.br](http://www.elub.com.br/) . De plus, il y a Facebook et Orkut ( [www.orkut.com](http://www.orkut.com/) ), réseaux sociaux des groupes Urantia.
 
@@ -95,7 +95,7 @@ Lors de notre deuxième jour en Argentine, nous avons rendu visite au nouveau di
 
 ## L’Uruguay
 
-Nous avons quitté Buenos Aires et nous dirigeâmes vers Punta del Este, en Uruguay. À cette magnifique station balnéaire, nous avons rencontré Alberto et Horacio Brupbacher, des adeptes de longue date de la Fondation Urantia. Nous avons passé une charmante après-midi à discuter avec eux des enseignements du _Livre d’Urantia_, des groupes d’étude et de la distribution du livre. Alberto et Horacio nous firent voir des sites internet intéressants  qu’ils utilisent pour leur étude personnelle et les introductions au livre. Ils nous informèrent de leur projet d’organiser une réunion de 80 lecteurs du _Livre d’Urantia_. Maintenant, quand c’est possible, ils organisent des séminaires d’introduction pour les nouveaux lecteurs. Il n’y a pas de groupe d’étude actif à Punta del Este et on ne trouve pas le livre facilement. Ils trouvèrent un livre dans une ville éloignée d’environ 25 miles. Le prix de 100 $ est le prix courant pour les livres d’Urantia en Uruguay.
+Nous avons quitté Buenos Aires et nous dirigeâmes vers Punta del Este, en Uruguay. À cette magnifique station balnéaire, nous avons rencontré Alberto et Horacio Brupbacher, des adeptes de longue date de la Fondation Urantia. Nous avons passé une charmante après-midi à discuter avec eux des enseignements du _Livre d’Urantia_, des groupes d’étude et de la distribution du livre. Alberto et Horacio nous firent voir des sites internet intéressants  qu’ils utilisent pour leur étude personnelle et les introductions au livre. Ils nous informèrent de leur projet d’organiser une réunion de 80 lecteurs du _Livre d’Urantia_. Maintenant, quand c’est possible, ils organisent des séminaires d’introduction pour les nouveaux lecteurs. Il n’y a pas de groupe d’étude actif à Punta del Este et on ne trouve pas le livre facilement. Ils trouvèrent un livre dans une ville éloignée d’environ 25 miles. Le prix de 100 $ est le prix courant pour les livres d’Urantia en Uruguay.
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2012_03/015.jpg">
@@ -107,11 +107,11 @@ Nous avons quitté Buenos Aires et nous dirigeâmes vers Punta del Este, en Urug
 <figcaption><em>Jennifer avec Jon DeToy et Pradhana Fuchs</em></figcaption>
 </figure>
 
-Nous avons aimé passé du temps avec les frères Brupbacher. Ces jumeaux identiques vivent dans la même maison, ont épousé des s?urs et sont ensemble les patrons d’une entreprise de meubles.  Le fils d’Alberto riait lorsqu’il racontait à Jen que les frères prenaient souvent leur petit déjeuner portant les mêmes vêtements. Jen disait que les frères ressemblaient à des stars du rock ou des vedettes de cinéma dans un film de surf. Je me sentis béni d’avoir passé une après-midi avec ces compagnons chercheurs de vérité. Après notre retour à Boulder, nous sommes allés au groupe d’étude et avons lu sur l’univers local. J’ai fermé les yeux et j’imaginais Alberto et Horacio dans l’autre moitié du monde, lisant les mêmes descriptions à couper le souffle, de Nébadon.
+Nous avons aimé passé du temps avec les frères Brupbacher. Ces jumeaux identiques vivent dans la même maison, ont épousé des s?urs et sont ensemble les patrons d’une entreprise de meubles.  Le fils d’Alberto riait lorsqu’il racontait à Jen que les frères prenaient souvent leur petit déjeuner portant les mêmes vêtements. Jen disait que les frères ressemblaient à des stars du rock ou des vedettes de cinéma dans un film de surf. Je me sentis béni d’avoir passé une après-midi avec ces compagnons chercheurs de vérité. Après notre retour à Boulder, nous sommes allés au groupe d’étude et avons lu sur l’univers local. J’ai fermé les yeux et j’imaginais Alberto et Horacio dans l’autre moitié du monde, lisant les mêmes descriptions à couper le souffle, de Nébadon.
 
 ## Le Cap Horn, Ushuaia, le Détroit de Magellan et les fjords chiliens
 
-Très souvent, il existe une contradiction entre la réalité et nos rêves. Pour moi, le voyage autour du Cap Horn fut l’une de ces situations. Traverser les eaux que Magellan, sir Francis Drake et le capitaine Cook naviguèrent ressemblait à une aventure romantique. La réalité fut pour moi, six jours de mal de mer. On dit que ces eaux sont les plus agitées du monde ;  donc j’aurais dû m’en douter. Néanmoins, je suis heureux d’avoir fait ce voyage.
+Très souvent, il existe une contradiction entre la réalité et nos rêves. Pour moi, le voyage autour du Cap Horn fut l’une de ces situations. Traverser les eaux que Magellan, sir Francis Drake et le capitaine Cook naviguèrent ressemblait à une aventure romantique. La réalité fut pour moi, six jours de mal de mer. On dit que ces eaux sont les plus agitées du monde ;  donc j’aurais dû m’en douter. Néanmoins, je suis heureux d’avoir fait ce voyage.
 
 ## Le Chili
 
@@ -137,7 +137,7 @@ Jon DeToy vint nous chercher à Valparaíso et nous conduisit à la communauté 
 
 Flor et George Robles organisaient une réunion des lecteurs de Santiago de 13h30 à 20h. Flor et George offrirent gracieusement un déjeuner et un dîner pour tous. C’était un dimanche après-midi, chaud et estival et la réunion était agréablement informelle. Nous avons bavardé, lu le livre et mangé pendant que les enfants nageaient dans la piscine.
 
-Nous avons appris de nombreuses choses durant cette réunion. Il y a à peu près trois cent lecteurs actifs à Santiago et six groupes d’étude. Les livres sont chers. Les couvertures souples se vendent 70 à 80 $. Le groupe parlait beaucoup des prix élevés et pensait que le prix devrait être entre  30 et 40 $. Ils expliquèrent que le prix était élevé à cause de 19 % de TVA et 9 % de douane. Je leur expliquais que la Fondation Urantia voulait des prix équitables et vendait les couvertures souples pour 10 $, à notre distributeur d’Amérique Latine.
+Nous avons appris de nombreuses choses durant cette réunion. Il y a à peu près trois cent lecteurs actifs à Santiago et six groupes d’étude. Les livres sont chers. Les couvertures souples se vendent 70 à 80 $. Le groupe parlait beaucoup des prix élevés et pensait que le prix devrait être entre  30 et 40 $. Ils expliquèrent que le prix était élevé à cause de 19 % de TVA et 9 % de douane. Je leur expliquais que la Fondation Urantia voulait des prix équitables et vendait les couvertures souples pour 10 $, à notre distributeur d’Amérique Latine.
 
 <figure id="Figure_12" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2012_03/028.jpg">

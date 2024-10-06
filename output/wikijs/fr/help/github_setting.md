@@ -95,7 +95,7 @@ Il est recommandé d'utiliser Visual Studio Code.
 5. Le projet est configuré avec une configuration de lancement par défaut. Appuyez sur F5 pour exécuter ou dans le terminal, exécutez `npm run start`.
 6. L'application s'ouvre. Par défaut, une fenêtre Dev Tools est ouverte pour le débogage. Vous pouvez l'ignorer ou le fermer s'il ne se développe pas.
 
-![](/image/uptools.png)
+![](/image/help/uptools.png)
 
 ## Valider et pousser les modifications
 
@@ -149,7 +149,7 @@ En résumé, le processus dans GitHub est le suivant (voir le schéma):
 6. Ces *pull requests* des «éditeurs en chef» sont examinées par des «administrateurs», qui sont chargés de faire une *merge* avec la branche principale (maître) de tous les changements qui sont corrects. Toutes les modifications qui ne sont pas correctes seront rejetées et les «éditeurs en chef» seront avertis de les corriger.
 7. Lorsque les modifications sont correctes, un «administrateur» en fait une *merge* et elles sont automatiquement synchronisées avec le Web.
 
-![](/image/github_workflow_version_2.png)
+![](/image/help/github_workflow_version_2.png)
 
 ## Liens externes
 

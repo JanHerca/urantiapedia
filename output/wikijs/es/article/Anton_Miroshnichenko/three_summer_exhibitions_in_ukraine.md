@@ -41,8 +41,9 @@ dateCreated: 2023-9-16T10:55:6Z
 </figure>
 
 Este verano, algunos lectores presentaron _El libro de Urantia_ en los tres acontecimientos siguientes celebrados en Ucrania:
+<br style="clear:both;"/>
 
-El festival «Campo de sueños»
+## El festival «Campo de sueños»
 
 Este festival se celebró en Kiev en el Museo «Pyrogovo» del 20 al 21 de junio. Presentamos las versiones inglesa y rusa de _El libro de Urantia_ en el festival literario que hubo allí. Muchos visitantes pasaron por nuestra mesa y recibieron un folleto con información general sobre el libro. También pudieron tomar caramelos y extraer una cita especial de _El libro de Urantia_. Las personas que estaban interesadas en el libro se paraban en nuestra mesa para hablar y hacernos preguntas. Tuvimos un gran placer en presentar el libro a los asistentes al festival y esperamos que algunos de los que recibieron la información lleguen a ser lectores en el futuro. En general el acontecimiento nos dejó una buena impresión.
 <br style="clear:both;"/>

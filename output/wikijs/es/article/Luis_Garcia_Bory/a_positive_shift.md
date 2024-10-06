@@ -102,7 +102,7 @@ Me gustaría terminar con estos dos extractos inspiradores de _El libro de Urant
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2020/?lang=es)
 - [Este artículo](https://urantia-association.org/un-cambio-positivo-en-la-consciencia-planetaria/?lang=es)
 

@@ -122,7 +122,7 @@ Los lectores del área de Santa Cruz se reunieron en la casa de Elizabeth y Larr
 
 Los lectores del área de la Bahía de San Francisco se reunieron el sábado 20 de agosto en Mercy Center en Burlingame. Su tema fue «Un día con Jesús» e incluyó oración y una meditación caminando seguida de una cena recordatoria. (Sin fotografía)
 
-El domingo 21 de agosto, un ministro interreligioso y lector del Libro de Urantia dirigió un servicio de adoración basado en el libro en Unity Church of the Valley en Vacaville. El servicio incluyó oración, meditación y música, y fue seguido por una cena compartida.
+El domingo 21 de agosto, un ministro interreligioso y lector del _Libro de Urantia_ dirigió un servicio de adoración basado en el libro en Unity Church of the Valley en Vacaville. El servicio incluyó oración, meditación y música, y fue seguido por una cena compartida.
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2005_Winter/005615.jpg">
@@ -158,7 +158,7 @@ Entonces, una vez más, desde el fondo de mi corazón, así como de los innumera
 
 ## ¡Feliz cumpleaños Meredith!
 
-En abril de 2005, la Sociedad del Libro de Urantia de Fort Wayne celebró el 90 cumpleaños de Meredith Sprunger. Aquí en Fort Wayne verdaderamente hemos sido bendecidos por tener el conocimiento y la perspicacia de Meredith e Irene Sprunger como parte regular de nuestro estudio de _El Libro de Urantia_.
+En abril de 2005, la Sociedad del _Libro de Urantia_ de Fort Wayne celebró el 90 cumpleaños de Meredith Sprunger. Aquí en Fort Wayne verdaderamente hemos sido bendecidos por tener el conocimiento y la perspicacia de Meredith e Irene Sprunger como parte regular de nuestro estudio de _El Libro de Urantia_.
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2005_Winter/005617.jpg">
@@ -196,7 +196,7 @@ y adoramos... juntos.
 
 _Bobbie Dreier_
 
-Espero conferencias internacionales. Reúnen a cientos de lectores del Libro de Urantia y la energía espiritual es palpable cuando compartimos nuestro deseo de hacer la voluntad de Dios. Este año hubo lectores de trece países.
+Espero conferencias internacionales. Reúnen a cientos de lectores del _Libro de Urantia_ y la energía espiritual es palpable cuando compartimos nuestro deseo de hacer la voluntad de Dios. Este año hubo lectores de trece países.
 
 Los planificadores del programa ofrecieron una variedad de presentaciones y talleres de alta calidad que se adhirieron estrechamente a los temas de El Libro de Urantia. Había tres pistas simultáneas (Ciencia, Filosofía/Religión y Espiritualidad Experiencial) y era difícil tomar decisiones. Me uní al seminario intensivo de ocho sesiones de Moussa N'Dyiaye «¿Cómo funciona Dios dentro de nosotros?» lo que hizo necesario faltar a algunos talleres a los que tenía planeado asistir, pero este taller fue una experiencia transformadora.
 

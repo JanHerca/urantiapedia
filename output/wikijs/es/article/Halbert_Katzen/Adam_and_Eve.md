@@ -1,14 +1,31 @@
 ---
-title: Adán y Eva
+title: "Adán y Eva"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: Anthropology, Biology, Genetics, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Halbert Katzen J.D.** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+_Por Halbert Katzen J.D._
 
 ## Resumen
 
@@ -18,7 +35,7 @@ De acuerdo con *El Libro de Urantia*, que fue publicado en 1955, los primeros se
 
 A partir de 2004, numerosos informes comenzaron a publicarse en relación con partes del cromosoma Y y el gen microcefalina[^1]. El gen microcefalina juega un papel crítico en el crecimiento del cerebro. Los resultados de la investigación se correlacionan estrechamente con lo que dice *El Libro de Urantia* sobre la difusión de las contribuciones genéticas y culturales de Adán y Eva. La investigación sobre la microcefalina indica que se introdujo nuevo material genético en este gen hace unos 37.000 años y que el resto del gen microcefalina tenía aproximadamente 990.000 años. Ninguna de las explicaciones de cómo se pudo haber introducido el nuevo material encaja bien con los resultados de la investigación. Además, los análisis parecen indicar que este nuevo gen se extendió luego a la mayoría de la población humana con bastante rapidez, a excepción del África subsahariana. De manera similar, los estudios relacionados con el cromosoma Y también documentan cómo se produjeron algunos tipos de mutaciones u otros cambios hace unos 40.000 años, que se originaron en la región de Mesopotamia y se extendieron rápidamente a la mayoría de la humanidad, con excepción del África subsahariana.
 
-La investigación subsiguiente que comparó la propagación de la nueva adición al gen microcefalina con el uso de lenguajes no tonales[^2] también mostró una fuerte correlación positiva. Estas correlaciones también siguen bien con las migraciones de los descendientes de Adán y Eva que detalla *El Libro de Urantia*. Bruce Lahn, del Instituto Médico Howard Hughes de la Universidad de Chicago y el investigador principal responsable de los estudios sobre el gen microcefalina, ya no trabaja en este área, ya que se desanimó porque los resultados de la investigación y su interpretación inflamaron aún más lo que ya de por sí es un tema controvertido. Véase el informe [Eugenesia, razas y El Libro de Urantia](/es/article/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book) para una revisión completa de las declaraciones de *El Libro de Urantia* sobre este tema. También hay documentación que apoya la historia de *El Libro de Urantia* sobre Adán y Eva en el informe [El Jardín del Edén](/es/article/Halbert_Katzen/Garden_of_Eden) y en el informe [Gobekli Tepe](/es/article/Halbert_Katzen/Gobekli_Tepe).
+La investigación subsiguiente que comparó la propagación de la nueva adición al gen microcefalina con el uso de lenguajes no tonales[^2] también mostró una fuerte correlación positiva. Estas correlaciones también siguen bien con las migraciones de los descendientes de Adán y Eva que detalla *El Libro de Urantia*. Bruce Lahn, del Instituto Médico Howard Hughes de la Universidad de Chicago y el investigador principal responsable de los estudios sobre el gen microcefalina, ya no trabaja en este área, ya que se desanimó porque los resultados de la investigación y su interpretación inflamaron aún más lo que ya de por sí es un tema controvertido. Véase el informe [Eugenesia, razas y El Libro de Urantia](/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book) para una revisión completa de las declaraciones de *El Libro de Urantia* sobre este tema. También hay documentación que apoya la historia de *El Libro de Urantia* sobre Adán y Eva en el informe [El Jardín del Edén](/es/article/Halbert_Katzen/Garden_of_Eden) y en el informe [Gobekli Tepe](/es/article/Halbert_Katzen/Gobekli_Tepe).
 
 ## Visión general
 
@@ -383,7 +400,6 @@ La afirmación de *El Libro de Urantia* de que Adán y Eva vinieron de la nada y
 
 A raíz de la investigación de la microcefalina dirigida por Lahn, se desarrolló un interés para determinar si la difusión de la microcefalina haplogrupo D se puede seguir con cualquier otra cosa relacionada con la función cerebral. Esta investigación llevó a la documentación de una fuerte relación con el uso de las lenguas no tonales. Un artículo de mayo de 2007, titulado *¿Hablando en tonos? La culpa es de sus genes*, resume el asunto de esta manera:
 
-> 
 > Las diferencias genéticas entre poblaciones humanas pueden haber influido en los idiomas que se hablan en el mundo de hoy, según ha sugerido una investigación.
 > 
 > Las personas portadoras de determinadas variantes de dos genes implicados en el desarrollo del cerebro tienden a hablar idiomas no tonales como el inglés, mientras que aquellos con un perfil genético diferente son más propensos a hablar lenguas tonales, como el chino.
@@ -489,7 +505,9 @@ Naturalmente, basándonos en la tendencia general hacia corroboraciones de infor
 
 ## Enlaces externos
 
-* Este informe en el sitio web UBTheNews: http://ubannotated.com/ubthenews/topics/adam_and_eve/
+* [Este informe en el sitio web UBTheNews](http://ubannotated.com/ubthenews/topics/adam_and_eve/)
+* [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios Temáticos en el sitio UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 ### Problemas políticos
 
@@ -588,49 +606,67 @@ Naturalmente, basándonos en la tendencia general hacia corroboraciones de infor
 	
 	http://hmg.oxfordjournals.org/cgi/content/full/13/11/1139
 
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Referencias
 
 [^1]: https://es.wikipedia.org/wiki/Microcefalina
 
 [^2]: Las lenguas tonales, a diferencia de las no tonales, son aquellas que usan diferentes tonos o puntos de inflexión para distinguir significados en palabras que de otro modo sonarían idénticas. El ejemplo más claro es el chino. https://es.wikipedia.org/wiki/Lengua_tonal
 
-[^3]: <a id="a596_6"></a>[LU 62:5.1](/es/The_Urantia_Book/62#p5_1) Año 991.485 a.C. *El Libro de Urantia* da muchas fechas relativas al año 1934 porque aunque se publicó por primera vez en 1955 se terminó de escribir mucho antes, en 1934.
+[^3]: <a id="a632_6"></a>[LU 62:5.1](/es/The_Urantia_Book/62#p5_1) Año 991.485 a.C. *El Libro de Urantia* da muchas fechas relativas al año 1934 porque aunque se publicó por primera vez en 1955 se terminó de escribir mucho antes, en 1934.
 
-[^4]: <a id="a598_6"></a>[LU 74:0.1](/es/The_Urantia_Book/74#p0_1) Año 35.914 a.C.
+[^4]: <a id="a634_6"></a>[LU 74:0.1](/es/The_Urantia_Book/74#p0_1) Año 35.914 a.C.
 
-[^5]: <a id="a600_6"></a>[LU 76:1.3](/es/The_Urantia_Book/76#p1_3)
+[^5]: <a id="a636_6"></a>[LU 76:1.3](/es/The_Urantia_Book/76#p1_3)
 
-[^6]: <a id="a602_6"></a>[LU 81:5.1](/es/The_Urantia_Book/81#p5_1)
+[^6]: <a id="a638_6"></a>[LU 81:5.1](/es/The_Urantia_Book/81#p5_1)
 
-[^7]: <a id="a604_6"></a>[LU 52:3.6](/es/The_Urantia_Book/52#p3_6)
+[^7]: <a id="a640_6"></a>[LU 52:3.6](/es/The_Urantia_Book/52#p3_6)
 
-[^8]: <a id="a606_6"></a>[LU 76:4.7](/es/The_Urantia_Book/76#p4_7)
+[^8]: <a id="a642_6"></a>[LU 76:4.7](/es/The_Urantia_Book/76#p4_7)
 
-[^9]: <a id="a608_6"></a>[LU 78:5.7](/es/The_Urantia_Book/78#p5_7)
+[^9]: <a id="a644_6"></a>[LU 78:5.7](/es/The_Urantia_Book/78#p5_7)
 
-[^10]: <a id="a610_7"></a>[LU 78:5.5](/es/The_Urantia_Book/78#p5_5)
+[^10]: <a id="a646_7"></a>[LU 78:5.5](/es/The_Urantia_Book/78#p5_5)
 
-[^11]: <a id="a612_7"></a>[LU 78:5.3](/es/The_Urantia_Book/78#p5_3)
+[^11]: <a id="a648_7"></a>[LU 78:5.3](/es/The_Urantia_Book/78#p5_3)
 
 [^12]: Un haplogrupo, o conjunto de haplotipos, es en genética un grupo grande de combinaciones de genes que se transmiten juntas a la descendencia. https://es.wikipedia.org/wiki/Haplogrupo
 
 [^13]: Un clado es como se denomina en biología a cada una de las ramificaciones que se obtiene después de hacer un único corte en el árbol filogenético. Empieza con un antepasado común y consta de todos sus descendientes, que forman una única rama en el árbol de la vida. https://es.wikipedia.org/wiki/Clado
 
-[^14]: <a id="a618_7"></a>[LU 81:5.1](/es/The_Urantia_Book/81#p5_1)
+[^14]: <a id="a654_7"></a>[LU 81:5.1](/es/The_Urantia_Book/81#p5_1)
 
-[^15]: <a id="a620_7"></a>[LU 78:4.5](/es/The_Urantia_Book/78#p4_5)
+[^15]: <a id="a656_7"></a>[LU 78:4.5](/es/The_Urantia_Book/78#p4_5)
 
-[^16]: <a id="a622_7"></a>[LU 78:4.6](/es/The_Urantia_Book/78#p4_6)
+[^16]: <a id="a658_7"></a>[LU 78:4.6](/es/The_Urantia_Book/78#p4_6)
 
-[^17]: <a id="a624_7"></a>[LU 65:5.2](/es/The_Urantia_Book/65#p5_2)
+[^17]: <a id="a660_7"></a>[LU 65:5.2](/es/The_Urantia_Book/65#p5_2)
 
-[^18]: <a id="a626_7"></a>[LU 65:5.2](/es/The_Urantia_Book/65#p5_2)
+[^18]: <a id="a662_7"></a>[LU 65:5.2](/es/The_Urantia_Book/65#p5_2)
 
-[^19]: <a id="a628_7"></a>[LU 65:5.2](/es/The_Urantia_Book/65#p5_2)
+[^19]: <a id="a664_7"></a>[LU 65:5.2](/es/The_Urantia_Book/65#p5_2)
 
-[^20]: <a id="a630_7"></a>[LU 76:4.7](/es/The_Urantia_Book/76#p4_7)
+[^20]: <a id="a666_7"></a>[LU 76:4.7](/es/The_Urantia_Book/76#p4_7)
 
-[^21]: <a id="a632_7"></a>[LU 51:1.3](/es/The_Urantia_Book/51#p1_3)
+[^21]: <a id="a668_7"></a>[LU 51:1.3](/es/The_Urantia_Book/51#p1_3)
 
 [^22]: «El cerebro humano todavía está evolucionando» (*Human Brain Is Still Evolving*), *Howard Hugues Medical Institute*, sep. 2005, http://www.hhmi.org/news/lahn4.html [Artículo LAHN]
 
@@ -646,55 +682,55 @@ Naturalmente, basándonos en la tendencia general hacia corroboraciones de infor
 
 [^28]: Patrick D. Evans, Nitzan Mekel-Bobrov, Eric J. Vallender, Richard R. Hudson, y Bruce T. Lahn; *Evidence that the adaptive allele of the brain size gene microcephalin introgressed into Homo sapiens from an archaic Homo lineage*, *Proceedings of the National Academy of Sciences* (PNAS); http://www.pnas.org/content/103/48/18178.full, [Artículo PNAS]
 
-[^29]: <a id="a648_7"></a>[LU 74:0.1](/es/The_Urantia_Book/74#p0_1)
+[^29]: <a id="a684_7"></a>[LU 74:0.1](/es/The_Urantia_Book/74#p0_1)
 
-[^30]: <a id="a650_7"></a>[LU 62:5.1](/es/The_Urantia_Book/62#p5_1)
+[^30]: <a id="a686_7"></a>[LU 62:5.1](/es/The_Urantia_Book/62#p5_1)
 
-[^31]: <a id="a652_7"></a>[LU 63:1.1](/es/The_Urantia_Book/63#p1_1)
+[^31]: <a id="a688_7"></a>[LU 63:1.1](/es/The_Urantia_Book/63#p1_1)
 
-[^32]: <a id="a654_7"></a>[LU 51:1.3](/es/The_Urantia_Book/51#p1_3)
+[^32]: <a id="a690_7"></a>[LU 51:1.3](/es/The_Urantia_Book/51#p1_3)
 
 [^33]: Bruce T. Lahn; *Could Interbreeding Between Humans and Neanderthals Have Led to an Enhanced Human Brain?*; Howard Hughes Medical Institute, 6/11/2006, http://www.hhmi.org/news/lahn20061006.html [Artículo LAHN2]
 
-[^34]: <a id="a658_7"></a>[LU 78:3.2](/es/The_Urantia_Book/78#p3_2)
+[^34]: <a id="a694_7"></a>[LU 78:3.2](/es/The_Urantia_Book/78#p3_2)
 
-[^35]: <a id="a660_7"></a>[LU 78:3.3](/es/The_Urantia_Book/78#p3_3)
+[^35]: <a id="a696_7"></a>[LU 78:3.3](/es/The_Urantia_Book/78#p3_3)
 
-[^36]: <a id="a662_7"></a>[LU 78:3.5](/es/The_Urantia_Book/78#p3_5)
+[^36]: <a id="a698_7"></a>[LU 78:3.5](/es/The_Urantia_Book/78#p3_5)
 
-[^37]: <a id="a664_7"></a>[LU 78:2.5](/es/The_Urantia_Book/78#p2_5)
+[^37]: <a id="a700_7"></a>[LU 78:2.5](/es/The_Urantia_Book/78#p2_5)
 
-[^38]: <a id="a666_7"></a>[LU 78:5.7](/es/The_Urantia_Book/78#p5_7)
+[^38]: <a id="a702_7"></a>[LU 78:5.7](/es/The_Urantia_Book/78#p5_7)
 
-[^39]: <a id="a668_7"></a>[LU 64:6.26](/es/The_Urantia_Book/64#p6_26)
+[^39]: <a id="a704_7"></a>[LU 64:6.26](/es/The_Urantia_Book/64#p6_26)
 
-[^40]: <a id="a670_7"></a>[LU 78:5.5](/es/The_Urantia_Book/78#p5_5)
+[^40]: <a id="a706_7"></a>[LU 78:5.5](/es/The_Urantia_Book/78#p5_5)
 
-[^41]: <a id="a672_7"></a>[LU 78:5.8](/es/The_Urantia_Book/78#p5_8)
+[^41]: <a id="a708_7"></a>[LU 78:5.8](/es/The_Urantia_Book/78#p5_8)
 
-[^42]: <a id="a674_7"></a>[LU 76:1.1](/es/The_Urantia_Book/76#p1_1)
+[^42]: <a id="a710_7"></a>[LU 76:1.1](/es/The_Urantia_Book/76#p1_1)
 
-[^43]: <a id="a676_7"></a>[LU 76:1.3](/es/The_Urantia_Book/76#p1_3)
+[^43]: <a id="a712_7"></a>[LU 76:1.3](/es/The_Urantia_Book/76#p1_3)
 
-[^44]: <a id="a678_7"></a>[LU 78:0.1](/es/The_Urantia_Book/78#p0_1)
+[^44]: <a id="a714_7"></a>[LU 78:0.1](/es/The_Urantia_Book/78#p0_1)
 
-[^45]: <a id="a680_7"></a>[LU 78:1.3](/es/The_Urantia_Book/78#p1_3)
+[^45]: <a id="a716_7"></a>[LU 78:1.3](/es/The_Urantia_Book/78#p1_3)
 
-[^46]: <a id="a682_7"></a>[LU 62:4.3](/es/The_Urantia_Book/62#p4_3)
+[^46]: <a id="a718_7"></a>[LU 62:4.3](/es/The_Urantia_Book/62#p4_3)
 
-[^47]: <a id="a684_7"></a>[LU 81:5.1](/es/The_Urantia_Book/81#p5_1)
+[^47]: <a id="a720_7"></a>[LU 81:5.1](/es/The_Urantia_Book/81#p5_1)
 
-[^48]: <a id="a686_7"></a>[LU 76:6.4](/es/The_Urantia_Book/76#p6_4)
+[^48]: <a id="a722_7"></a>[LU 76:6.4](/es/The_Urantia_Book/76#p6_4)
 
-[^49]: <a id="a688_7"></a>[LU 73:7.3](/es/The_Urantia_Book/73#p7_3)
+[^49]: <a id="a724_7"></a>[LU 73:7.3](/es/The_Urantia_Book/73#p7_3)
 
-[^50]: <a id="a690_7"></a>[LU 73:7.4](/es/The_Urantia_Book/73#p7_4)
+[^50]: <a id="a726_7"></a>[LU 73:7.4](/es/The_Urantia_Book/73#p7_4)
 
-[^51]: <a id="a692_7"></a>[LU 76:4.8](/es/The_Urantia_Book/76#p4_8)
+[^51]: <a id="a728_7"></a>[LU 76:4.8](/es/The_Urantia_Book/76#p4_8)
 
-[^52]: <a id="a694_7"></a>[LU 78:1.3](/es/The_Urantia_Book/78#p1_3)
+[^52]: <a id="a730_7"></a>[LU 78:1.3](/es/The_Urantia_Book/78#p1_3)
 
-[^53]: <a id="a696_7"></a>[LU 78:5.1-3](/es/The_Urantia_Book/78#p5_1)
+[^53]: <a id="a732_7"></a>[LU 78:5.1-3](/es/The_Urantia_Book/78#p5_1)
 
 [^54]: Una población panmíctica es una donde todos los individuos son socios potenciales. Esto supone que no hay restricciones de acoplamiento, ni genético o de comportamiento, sobre la población, y que por tanto todas las combinaciones son posibles. http://en.wikipedia.org/wiki/Panmictic
 
@@ -704,14 +740,14 @@ Naturalmente, basándonos en la tendencia general hacia corroboraciones de infor
 
 [^57]: Dan Dediu y D. Robert Ladd, «El tono lingüístico está relacionado con la frecuencia de la población de los haplogrupos adaptativos de dos genes del tamaño del cerebro, ASPM y Microcefalina» (*Linguistic tone is related to the population frequency of the adaptive haplogroups of two brain size genes, ASPM and Microcephalin*), *PNAS*, junio 2007, http://www.pnas.org/content/104/26/10944.full.pdf, [Artículo PNAS2]
 
-[^58]: <a id="a706_7"></a>[LU 78:5.3](/es/The_Urantia_Book/78#p5_3)
+[^58]: <a id="a742_7"></a>[LU 78:5.3](/es/The_Urantia_Book/78#p5_3)
 
-[^59]: <a id="a708_7"></a>[LU 52:3.6](/es/The_Urantia_Book/52#p3_6)
+[^59]: <a id="a744_7"></a>[LU 52:3.6](/es/The_Urantia_Book/52#p3_6)
 
-[^60]: <a id="a710_7"></a>[LU 81:5.1](/es/The_Urantia_Book/81#p5_1)
+[^60]: <a id="a746_7"></a>[LU 81:5.1](/es/The_Urantia_Book/81#p5_1)
 
 [^61]: Antonio Regalado, «El estudio científico de los genes cerebrales provoca una reacción violenta» (*Scientist's Study Of Brain Genes Sparks a Backlash*, *Wall Street Journal*), 6/6/2006, https://www.wsj.com/articles/SB115040765329081636
 
-[^62]: <a id="a714_7"></a>[LU 85:5.1](/es/The_Urantia_Book/85#p5_1)
+[^62]: <a id="a750_7"></a>[LU 85:5.1](/es/The_Urantia_Book/85#p5_1)
 
-[^63]: <a id="a716_7"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2)
+[^63]: <a id="a752_7"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2)

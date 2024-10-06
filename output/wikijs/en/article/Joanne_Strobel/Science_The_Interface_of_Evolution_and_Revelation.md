@@ -57,49 +57,49 @@ Nine presenters were invited to join Margie, with seven months to complete their
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2022_07/001.jpg">
-<figcaption><a href="https://www.youtube.com/watch?v=5hPLfDR82IE&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=2">A New Model of the Universe by George Park</a></figcaption>
+<figcaption>A New Model of the Universe by George Park <br> <a href="https://www.youtube.com/watch?v=5hPLfDR82IE&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=2"></a></figcaption>
 </figure>
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2022_07/004.jpg">
-<figcaption><a href="https://www.youtube.com/watch?v=FIoV_IweOAY&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=3">A Unifying Theory of Physical Interactions by Philippe Hatt</a></figcaption>
+<figcaption>A Unifying Theory of Physical Interactions by Philippe Hatt <br> <a href="https://www.youtube.com/watch?v=FIoV_IweOAY&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=3"></a></figcaption>
 </figure>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2022_07/005.jpg">
-<figcaption><a href="https://www.youtube.com/watch?v=rOYjFmFx7tI&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=4">Explaining Large Doppler Redshifts Without a Big Bang by Philip G. Calabrese, PhD </a></figcaption>
+<figcaption>Explaining Large Doppler Redshifts Without a Big Bang by Philip G. Calabrese, PhD <br> <a href="https://www.youtube.com/watch?v=rOYjFmFx7tI&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=4"> </a></figcaption>
 </figure>
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2022_07/013.jpg">
-<figcaption><a href="https://www.youtube.com/watch?v=UkBDgwRSKTw&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=5">The Fractal Nature of Urantia Book Concepts: Surprising Properties and Possibilities by Conrad Lavallée</a></figcaption>
+<figcaption>The Fractal Nature of Urantia Book Concepts: Surprising Properties and Possibilities by Conrad Lavallée <br> <a href="https://www.youtube.com/watch?v=UkBDgwRSKTw&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=5"></a></figcaption>
 </figure>
 <br style="clear:both;"/>
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2022_07/018.jpg">
-<figcaption><a href="https://www.youtube.com/watch?v=-E_9CyKpGOY&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=6">Understanding Revealed Cosmology through Visualization by David Neufer and Marjorie Ray</a></figcaption>
+<figcaption>Understanding Revealed Cosmology through Visualization by David Neufer and Marjorie Ray <br> <a href="https://www.youtube.com/watch?v=-E_9CyKpGOY&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=6"></a></figcaption>
 </figure>
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2022_07/023.jpg">
-<figcaption><a href="https://www.youtube.com/watch?v=5P7nVvVUlJ8&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=7">Dynamic Developments in Epigenetics by Ralph Zehr, MD</a></figcaption>
+<figcaption>Dynamic Developments in Epigenetics by Ralph Zehr, MD <br> <a href="https://www.youtube.com/watch?v=5P7nVvVUlJ8&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=7"></a></figcaption>
 </figure>
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2022_07/016.jpg">
-<figcaption><a href="https://www.youtube.com/watch?v=ASMiOVihPck&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=9">Evolution and Revelation: The Question of Race by Gard Jameson, PhD</a></figcaption>
+<figcaption>Evolution and Revelation: The Question of Race by Gard Jameson, PhD <br> <a href="https://www.youtube.com/watch?v=ASMiOVihPck&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=9"></a></figcaption>
 </figure>
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2022_07/017.jpg">
-<figcaption><a href="https://www.youtube.com/watch?v=y7mamu4HKJ4&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=9">The Problem of “Natural Evil” in Biological Evolution: How the Revelation Solves a Theological Predicament by Byron Belitsos</a></figcaption>
+<figcaption>The Problem of “Natural Evil” in Biological Evolution: How the Revelation Solves a Theological Predicament by Byron Belitsos <br> <a href="https://www.youtube.com/watch?v=y7mamu4HKJ4&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=9"></a></figcaption>
 </figure>
 <br style="clear:both;"/>
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2022_07/015.jpg">
-<figcaption><a href="https://www.youtube.com/watch?v=-BF8O9NbQws&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=10">Science and Thought Adjuster<br>Fusion by Jenny Martin, EdD</a></figcaption>
+<figcaption>Science and Thought Adjuster<br>Fusion by Jenny Martin, EdD <br> <a href="https://www.youtube.com/watch?v=-BF8O9NbQws&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=10"></a></figcaption>
 </figure>
 <br style="clear:both;"/>
 

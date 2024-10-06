@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-10-numéro-4-dec-2016">
+        <a href="/fr/index/articles_uf_news_online#volume-10-numéro-4-décembre-2016">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 4, Déc. 2016 — Table des matières</span>
         </a>
         </td>
@@ -33,7 +33,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 **Announcement**
 
-_Note de l’éditeur : Les Paraboles de Jésus, Enseignements Complets du Livre d’Urantia, _est la première publication du label d’impression de la Fondation Urantia, Urantia Press. Le livre contient les paraboles comme Jésus les enseigna, mot pour mot, en Partie IV du_ Livre d’Urantia. _Ce livre est magnifiquement illustré, sert d’excellent guide d’étude et est un cadeau parfait. Nous espérons que vous aimerez cet ensemble des plus grandes histoires jamais racontées!_
+_Note de l’éditeur : Les Paraboles de Jésus, Enseignements Complets du Livre d’Urantia, _est la première publication du label d’impression de la Fondation Urantia, Urantia Press. Le livre contient les paraboles comme Jésus les enseigna, mot pour mot, en Partie IV du_ Livre d’Urantia. _Ce livre est magnifiquement illustré, sert d’excellent guide d’étude et est un cadeau parfait. Nous espérons que vous aimerez cet ensemble des plus grandes histoires jamais racontées!_
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2016_12/044.jpg">
@@ -56,7 +56,7 @@ _Note de l’éditeur : Les Paraboles de Jésus, Enseignements Complets du Livr
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-10-numéro-4-dec-2016">
+        <a href="/fr/index/articles_uf_news_online#volume-10-numéro-4-décembre-2016">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 4, Déc. 2016 — Table des matières</span>
         </a>
         </td>

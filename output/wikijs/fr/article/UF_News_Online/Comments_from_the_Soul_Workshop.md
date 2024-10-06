@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-4-dec-2014">
+        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-4-décembre-2014">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 4, Déc. 2014 — Table des matières</span>
         </a>
         </td>
@@ -45,7 +45,7 @@ _Note de l'éditeur: Fin octobre 2014, Marta Elders anima un atelier sur l'âme.
 <img src="/image/article/UF_News_Online/2014_12/034.jpg" class="align-center">
 </figure>
 
-Un Conseiller Divin fit des commentaires sur les défis auxquels le corps des révélateurs de vérité d’Orvonton eurent à faire face « Dans notre effort pour étendre la conscience cosmique et rehausser la perception spirituelle. » <a id="a47_228"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2). C’est une étape naturelle de conclure que ce but d'élargir la conscience cosmique et de rehausser également la perception spirituelle est un objectif louable pour tout séminaire consacré à l'approfondissement embrassant du matériel révélateur dans le _Livre d'Urantia._
+Un Conseiller Divin fit des commentaires sur les défis auxquels le corps des révélateurs de vérité d’Orvonton eurent à faire face « Dans notre effort pour étendre la conscience cosmique et rehausser la perception spirituelle. » <a id="a47_228"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2). C’est une étape naturelle de conclure que ce but d'élargir la conscience cosmique et de rehausser également la perception spirituelle est un objectif louable pour tout séminaire consacré à l'approfondissement embrassant du matériel révélateur dans le _Livre d'Urantia._
 
 Au cours du week-end du 31 octobre, douze personnes se sont réunies pour partager leurs points de vue et leur compréhension à un séminaire sur l'âme comme révélé dans le _Livre d'Urantia._ Cette étude eût lieu à 533 W. Diversey Parkway, Chicago, et fut parrainé par le Comité d’Éducation de la Fondation Urantia. Nous avons pris en considération l'origine, la nature et la destinée de l'âme avec chaque participant en préparant un court document (de 3 à 5 pages) et en conduisant une pratique expérientielle (méditation, adoration, poésie, idées de Web, imagerie guidée, etc.). Ce fut remarquable d’expérimenter la magie et le mystère qui évoluent et se déroulent quand, ensemble et séparément, nous touchons corps et âme au plus élevé et au plus profond.
 
@@ -57,7 +57,7 @@ Marta Elders, animatrice de l’atelier, Connecticut, États-Unis
 
 L'atelier de l'âme a été phénoménal. Nous avons partagé des connaissances, des sentiments, des opinions, de l'énergie, de l'admiration et de l'information.
 
-Nous nous sommes réunis pour apprendre et collaborer en ce qui concernait l'âme: Qu’est-ce-que c’est ? Où est-elle ? Comment se développe-t-elle ? Et comment est-elle liée au mental, à l'esprit et à Dieu.
+Nous nous sommes réunis pour apprendre et collaborer en ce qui concernait l'âme: Qu’est-ce-que c’est ? Où est-elle ? Comment se développe-t-elle ? Et comment est-elle liée au mental, à l'esprit et à Dieu.
 
 Nous avons tous quitté l'atelier avec beaucoup plus de compréhension et d'appréciation pour nos âmes et pour le fait que nous sommes tous connectés en mental, corps et esprit.
 
@@ -77,11 +77,11 @@ Je me sens très reconnaissant envers les présentateurs et mes camarades étudi
 <img src="/image/article/UF_News_Online/2014_12/036.jpg" class="align-center">
 </figure>
 
-Avant mon arrivée à l'atelier sur l'âme, Joanne m’avait dit que les participants étaient des étudiants du _Livre d'Urantia_ depuis de nombreuses années, et après avoir entendu cela, mon épouse et mon fils pensèrent tous deux, que je serais « totalement soufflé » par leur expérience et leurs connaissances. Le groupe me regarderait comme la nouvelle recrue.
+Avant mon arrivée à l'atelier sur l'âme, Joanne m’avait dit que les participants étaient des étudiants du _Livre d'Urantia_ depuis de nombreuses années, et après avoir entendu cela, mon épouse et mon fils pensèrent tous deux, que je serais « totalement soufflé » par leur expérience et leurs connaissances. Le groupe me regarderait comme la nouvelle recrue.
 
-J’ai été surpris de voir que nous avions tous les mêmes antécédents dans notre recherche de la vérité et avec le livre. Comme mon nouvel ami Jan, de Pologne, me dit « Sans le _Livre d'Urantia,_ ce serait comme l'aveugle conduisant l’aveugle. »
+J’ai été surpris de voir que nous avions tous les mêmes antécédents dans notre recherche de la vérité et avec le livre. Comme mon nouvel ami Jan, de Pologne, me dit « Sans le _Livre d'Urantia,_ ce serait comme l'aveugle conduisant l’aveugle. »
 
-Nous étions tous au deuxième étage, en chambre partagée, et avons été traités comme des rois. La nourriture de Mike était imbattable !
+Nous étions tous au deuxième étage, en chambre partagée, et avons été traités comme des rois. La nourriture de Mike était imbattable !
 
 Étant un lecteur depuis deux ans, j’étais très curieux de connaître les gens et leurs histoires sur la façon dont ils ont découvert le _Livre d'Urantia_ et en particulier leurs histoires sur la vie, l'amour, et les peines.
 
@@ -95,7 +95,7 @@ Ma nourriture du weekend préférée à emporter fut le temps passé à parler �
 <img src="/image/article/UF_News_Online/2014_12/037.jpg" class="align-center">
 </figure>
 
-Beaucoup de sujets furent couverts et de nombreuses questions furent posées. Qu'est-ce que l'âme ? De quoi est faite l’âme ? Sommes-nous nés avec une âme ? Existe-t-il des âmes jeunes ou vieilles ? Être né de l’esprit est-il la même chose que la naissance de l'âme ?
+Beaucoup de sujets furent couverts et de nombreuses questions furent posées. Qu'est-ce que l'âme ? De quoi est faite l’âme ? Sommes-nous nés avec une âme ? Existe-t-il des âmes jeunes ou vieilles ? Être né de l’esprit est-il la même chose que la naissance de l'âme ?
 
 Quelle bénédiction, d'avoir les enseignements de la Cinquième Révélation d'Époque entre nos mains, pour trouver les réponses à ces questions et pour mieux comprendre l'âme.
 
@@ -109,7 +109,7 @@ En tant que nouveau lecteur du _Livre d'Urantia,_ j’étais particulièrement i
 
 Notre temps ensemble fut animé et riche, nous avons partagé des expériences, des questions et des peines. Être ensemble, comme un petit groupe pendant trois jours, créa un lien intime en nous ouvrant à l'autre et à la sagesse collective. Marta et Gard Jameson ont amené, tous deux, des compétences en tant qu’animateurs et des perspectives inestimables en tant que lecteurs de longue date qui ont intégré les enseignements du _Livre d'Urantia_ dans leur compréhension large et miséricordieuse. C’était comme si mon approche du _Livre d'Urantia_ avait mûrie, en un très bref laps de temps, en participant à cet atelier.
 
-Mike Wood procura des repas merveilleux et Joanne et lui, nous ont fait nous sentir si à l'aise et comme chez nous. J’espère revenir à 533 W. Diversey Parkway, pour plus encore !
+Mike Wood procura des repas merveilleux et Joanne et lui, nous ont fait nous sentir si à l'aise et comme chez nous. J’espère revenir à 533 W. Diversey Parkway, pour plus encore !
 
 ~ _Betsy Millard, Nouveau-Mexique, États-Unis_
 
@@ -130,7 +130,7 @@ Mike Wood procura des repas merveilleux et Joanne et lui, nous ont fait nous sen
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-4-dec-2014">
+        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-4-décembre-2014">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 4, Déc. 2014 — Table des matières</span>
         </a>
         </td>

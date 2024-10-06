@@ -9,12 +9,33 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Michael MacIsaac<br>© 1999 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Van_Woert/IUA_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diseminación de la AIU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Michael MacIsaac, Estocolmo, Suecia
 
 Este es un informe sobre el progreso reciente del trabajo que he estado realizando para ayudar a la generación más joven de lectores de todo el mundo. Espero no centrarme demasiado en mí mismo, sino más bien en el trabajo.
 
-> _Aprenderéis que aumentáis vuestras cargas y disminuís la posibilidad del éxito tomándoos demasiado en serio. Nada puede tener prioridad sobre el trabajo de la esfera en la que estáis —este mundo o el siguiente. El trabajo de preparación para la siguiente esfera más elevada es muy importante, pero nada es más importante que el trabajo para el mundo en el que estáis viviendo realmente. Pero aunque el *trabajo* es importante, el *yo* no lo es. Cuando os sentís importantes, perdéis vuestra energía deteriorando la dignidad de vuestro ego, de manera que queda poca energía para hacer el trabajo. El engreimiento, no la importancia del trabajo, agota a las criaturas inmaduras; el elemento yo es el que agota, y no el esfuerzo por alcanzar los objetivos. Podéis hacer un trabajo importante si no os volvéis engreídos; podéis hacer diversas cosas tan fácilmente como una sola si dejáis fuera a vuestro yo. La variedad es relajante; la monotonía es la que desgasta y agota. Día tras día es lo mismo —o bien la vida, o la alternativa de la muerte._ ([LU 48:6.37](/es/The_Urantia_Book/48#p6_37))
+> _Aprenderéis que aumentáis vuestras cargas y disminuís la posibilidad del éxito tomándoos demasiado en serio. Nada puede tener prioridad sobre el trabajo de la esfera en la que estáis —este mundo o el siguiente. El trabajo de preparación para la siguiente esfera más elevada es muy importante, pero nada es más importante que el trabajo para el mundo en el que estáis viviendo realmente. Pero aunque el *trabajo* es importante, el *yo* no lo es. Cuando os sentís importantes, perdéis vuestra energía deteriorando la dignidad de vuestro ego, de manera que queda poca energía para hacer el trabajo. El engreimiento, no la importancia del trabajo, agota a las criaturas inmaduras; el elemento yo es el que agota, y no el esfuerzo por alcanzar los objetivos. Podéis hacer un trabajo importante si no os volvéis engreídos; podéis hacer diversas cosas tan fácilmente como una sola si dejáis fuera a vuestro yo. La variedad es relajante; la monotonía es la que desgasta y agota. Día tras día es lo mismo —o bien la vida, o la alternativa de la muerte._ (<a id="a37_1049"></a>[LU 48:6.37](/es/The_Urantia_Book/48#p6_37))
 
 ## Trasfondo
 
@@ -28,7 +49,7 @@ Después de mi primera conferencia comencé a buscar otros lectores jóvenes y a
 
 Esta base de datos necesita mucho trabajo de actualización y desearía tener más tiempo para ayudar a los lectores jóvenes de todo el mundo como grupo y como individuos. La lista de direcciones de lectores jóvenes ha aumentado a más de 300 jóvenes de 23 países diferentes.
 
-Mientras el tiempo lo permita, sigo buscando lectores de mi generación, así que si alguno de ustedes conoce a lectores jóvenes (de 30 años o menos), por favor háblenles sobre el sitio web o háblenme sobre ellos. Acabo de encontrar más lectores jóvenes a través del sitio web de LURON (Red de Lectores del Libro de Urantia en Línea) (http://origin.org/ub.cfm). Revisé las listas de miembros y leí sobre lectores de todo el mundo. Mientras pasaba horas revisando las aproximadamente 500 páginas de miembros donde algunas personas revelaban sus fechas de nacimiento, fue una prisa total ya que encontré más y más lectores jóvenes que se habían unido al sitio. Al final recopilé información sobre 30 lectores jóvenes recién descubiertos. ¡Solo deseaba haberlos encontrado antes, ya que encontré uno que vive en una ciudad de Inglaterra que visité hace apenas seis semanas! Ahora estoy emocionado de comenzar a escribirles a esos 30 aproximadamente.
+Mientras el tiempo lo permita, sigo buscando lectores de mi generación, así que si alguno de ustedes conoce a lectores jóvenes (de 30 años o menos), por favor háblenles sobre el sitio web o háblenme sobre ellos. Acabo de encontrar más lectores jóvenes a través del sitio web de LURON (Red de Lectores del _Libro de Urantia_ en Línea) (http://origin.org/ub.cfm). Revisé las listas de miembros y leí sobre lectores de todo el mundo. Mientras pasaba horas revisando las aproximadamente 500 páginas de miembros donde algunas personas revelaban sus fechas de nacimiento, fue una prisa total ya que encontré más y más lectores jóvenes que se habían unido al sitio. Al final recopilé información sobre 30 lectores jóvenes recién descubiertos. ¡Solo deseaba haberlos encontrado antes, ya que encontré uno que vive en una ciudad de Inglaterra que visité hace apenas seis semanas! Ahora estoy emocionado de comenzar a escribirles a esos 30 aproximadamente.
 
 ## Conferencias
 
@@ -69,3 +90,24 @@ Actualmente existen dos listas de discusión por correo electrónico para lector
 Es fantástico que los jóvenes se conecten entre sí, pero también tenemos mucho que aprender al asociarnos con los lectores mayores. Espero que cuando veas lectores jóvenes en conferencias no tengas miedo de acercarte a ellos.
 
 Quiero enviar muchas gracias a todos los que me habéis ayudado a mí y a todos los demás lectores jóvenes con nuestros objetivos y esfuerzos.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Van_Woert/IUA_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diseminación de la AIU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

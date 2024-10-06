@@ -77,7 +77,13 @@ From Friday morning, April 12, until Sunday afternoon, April 14, the event was l
 - Anton Miroshnichenko—Ukraine
 - Claire Mylanus—Europe
 
-NOTE: A recording of the full presentations may be seen on the YouTube channel of Urantia Foundation. Go to https://www.youtube.com/channel/UC3z3tEociOK5VVU1DNLgWOQ/videos.
+NOTE: A recording of the full presentations may be seen on the YouTube channel of Urantia Foundation. Go to
+
+<a href="https://bit.ly/3Xb7fco">
+<figure id="Figure_2" class="image urantiapedia">
+<img src="/image/article/UF_News_Online/2019_07/062.jpg">
+</figure>
+</a>
 
 Please watch them. They are educational and interesting—an open door to the rest of the world!
 
@@ -89,16 +95,16 @@ We give special thanks to Jennifer for serving memorable meals with her unique a
 
 Finally, a big THANK YOU to each of the participants who traveled great distances to share their personal experiences of living and disseminating the teachings of the revelation!
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2019_07/011.jpg">
 </figure>
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2019_07/026.jpg">
 <figcaption><em><b>Back:</b> Khatukhira Bernard, Anton Miroshnichenko, Ade Awoyinka, Gard Jameson, Sandra Burga-Cisneros, Claire Mylanus, Gabriel Rymberg, Mo Siegel, Eugene Asidao, Chris Wood, David Kulieke, Enrique Traver, Suely Traver, Mark Khoury, Judy Van Cleave, Line St-Pierre, Marta Elders, Gaétan Charland, Widi Nugroho<br><b>Front:</b> Henk Mylanus, Geraldo Queiroz, Marilynn Kulieke, Belen Asidao, Jennifer Siegel, Joanne Strobel</em></figcaption>
 </figure>
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2019_07/027.jpg">
 </figure>
 

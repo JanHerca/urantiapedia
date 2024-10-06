@@ -15,7 +15,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
       <tr>
         <td>
         <a href="/fr/article/Ann_Bendall/Think_Alike_Necessary_or_Unnecessary_2">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pensez-y : nécessaire ou inutile ?</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pensez-y : nécessaire ou inutile ?</span>
         </a>
         </td>
         <td>
@@ -40,11 +40,11 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 _par Aprilhelen_
 
-« L'unité » enflamme immédiatement en moi une passion excitée pour l'Être suprême, qui fut le premier aspect de Dieu que j'ai vraiment compris quand j'étais enfant. Comme c’est fabuleux que nous participions chacun à la collaboration de son évolution ! Voici une courte liste d’idées d’actions possibles dans lesquelles on peut s’engager pour ajouter de la valeur à l’Être Suprême.
+« L'unité » enflamme immédiatement en moi une passion excitée pour l'Être suprême, qui fut le premier aspect de Dieu que j'ai vraiment compris quand j'étais enfant. Comme c’est fabuleux que nous participions chacun à la collaboration de son évolution ! Voici une courte liste d’idées d’actions possibles dans lesquelles on peut s’engager pour ajouter de la valeur à l’Être Suprême.
 
 **Adorez Dieu.** Vivez dans la crainte et l'émerveillement. Chantez, louez et aimez.
 
-**Connaissez Dieu.** Comprenez les attributs de Dieu : omniprésence, toute-puissance, omniscience, illimitée, règle suprême et primauté.
+**Connaissez Dieu.** Comprenez les attributs de Dieu : omniprésence, toute-puissance, omniscience, illimitée, règle suprême et primauté.
 
 **Devenez de plus en plus comme Dieu.** Étudiez la vie et les enseignements de Jésus et soyez davantage comme lui.
 
@@ -52,11 +52,11 @@ _par Aprilhelen_
 
 **Connais-toi toi-même.** Faites le travail intérieur pour vous rappeler qui vous êtes vraiment par l'observation, l'acceptation, la patience et la relaxation.
 
-**Soyez sûr que vous seul pouvez faire ce que vous pouvez faire.** Connaissez votre valeur unique ; utilisez vos talents pour servir l’humanité.
+**Soyez sûr que vous seul pouvez faire ce que vous pouvez faire.** Connaissez votre valeur unique ; utilisez vos talents pour servir l’humanité.
 
 **Profitez des défis et des peurs.** Soyez enthousiasmé par la gratitude pour l'opportunité de résoudre des problèmes sur le chemin de l'expérience.
 
-**Faites preuve de créativité et amusez-vous.** Vivez dans la curiosité, marchez dans le bonheur et faites l'absurde ! Continuez tout au long de votre vie à essayer de nouvelles choses, à étudier d’autres genres et à prendre une route différente.
+**Faites preuve de créativité et amusez-vous.** Vivez dans la curiosité, marchez dans le bonheur et faites l'absurde ! Continuez tout au long de votre vie à essayer de nouvelles choses, à étudier d’autres genres et à prendre une route différente.
 
 **Utilisez l'humour comme un super pouvoir.** Soyez l'artiste qui trouve les mots justes pour appuyer sur la valve de libération du stress et de la tension. Laissez votre rire rugir et votre sourire contagieux !
 
@@ -82,7 +82,7 @@ _par Aprilhelen_
       <tr>
         <td>
         <a href="/fr/article/Ann_Bendall/Think_Alike_Necessary_or_Unnecessary_2">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pensez-y : nécessaire ou inutile ?</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pensez-y : nécessaire ou inutile ?</span>
         </a>
         </td>
         <td>

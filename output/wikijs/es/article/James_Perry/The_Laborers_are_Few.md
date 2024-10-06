@@ -56,7 +56,7 @@ Es imperativo que todos reflexionemos sobre nuestras razones para comprometernos
 
 <br style="clear:both;"/>
 
-> Podéis hacer un trabajo importante si no os volvéis engreídos; podéis hacer diversas cosas tan fácilmente como una sola si dejáis fuera a vuestro yo. (<a id="a34_153"></a>[LU 48:6.37](/es/The_Urantia_Book/48#p6_37))
+> Podéis hacer un trabajo importante si no os volvéis engreídos; podéis hacer diversas cosas tan fácilmente como una sola si dejáis fuera a vuestro yo. (<a id="a58_153"></a>[LU 48:6.37](/es/The_Urantia_Book/48#p6_37))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/James_Perry/37.jpg">

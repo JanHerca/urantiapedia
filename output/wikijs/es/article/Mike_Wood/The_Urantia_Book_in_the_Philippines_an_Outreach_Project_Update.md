@@ -67,8 +67,8 @@ Su servicio de asistencia me trae a la mente una de mis afirmaciones de mota fav
 
 ## Referencias
 
-- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/es/news/2014-03/el-libro-de-urantia-en-filipinas-novedades-del-proyecto-de-asistencia)
+- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [Este artículo](https://www.urantia.org/news/2014-03/urantia-book-in-philippines-outreach-project-update)
 
 <figure class="table chapter-navigator">
   <table>

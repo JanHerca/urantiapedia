@@ -40,7 +40,7 @@ dateCreated: 2023-9-16T10:55:6Z
 Emmanuel Lou
 Tahiti
 
-> _Y la tradición china preserva el registro borroso del pasado evolutivo._ [LU 79:8.15](/es/The_Urantia_Book/79#p8_15) 
+> _Y la tradición china preserva el registro borroso del pasado evolutivo._ <a id="a42_76"></a>[LU 79:8.15](/es/The_Urantia_Book/79#p8_15) 
 
 Uno de los dioses de la tradición china es el Dios de la Longevidad. El pueblo chino tiene un ardiente deseo de longevidad, cuya divinidad, Shou Lao, o Shou Hsing, reside en la estrella Canopus en la constelación de Argo. 
 
@@ -54,13 +54,13 @@ El emperador Ch'in Shih Huang Ti (246 a. C.), después de haber unificado China,
 
 Tengo varias estatuas del Dios de la Longevidad en mi casa desde hace mucho tiempo. Un día, de repente, me apresuré a buscar en mi Libro de Urantia esta frase: 
 
-> _Cuando estalló la rebelión, Van y sus asociados lo hicieron crecer de nuevo [el árbol de la vida], a partir de su núcleo central, en su campamento provisional. Este arbusto de Edentia fue trasladado posteriormente a su refugio en las tierras altas, donde sirvió a Van y Amadón durante más de ciento cincuenta mil años._ [LU 73:6.5](/es/The_Urantia_Book/73#p6_5)
+> _Cuando estalló la rebelión, Van y sus asociados lo hicieron crecer de nuevo [el árbol de la vida], a partir de su núcleo central, en su campamento provisional. Este arbusto de Edentia fue trasladado posteriormente a su refugio en las tierras altas, donde sirvió a Van y Amadón durante más de ciento cincuenta mil años._ <a id="a56_323"></a>[LU 73:6.5](/es/The_Urantia_Book/73#p6_5)
 
 De repente me di cuenta de que el palo que sostiene el dios de la longevidad es el arbusto del árbol de la vida que debe volver a crecer, y que el melocotón de la inmortalidad es el fruto del árbol de la vida. La leyenda china dice que es una divinidad estelar de Canopus que desciende a la Tierra en forma humana. ¿Canopus significaba Jerusalén? ¿ 
 
 Quién podría personificar mejor la longevidad que Van, que permaneció en nuestro planeta durante más de 450.000 años? Me inclino a concluir que el dios de la longevidad es una representación de Van. Si pasas por delante de una tienda de regalos china, pídele al tendero que te muestre al dios de la longevidad y recuerda la fabulosa historia de “Van el Inquebrantable”. 
 
-Fueron los taoístas del siglo III a. C. quienes honraron al dios de la longevidad. Los lectores de _El libro de Urantia_ saben que los taoístas, y especialmente Lao-tse, habían basado sus enseñanzas directamente en los conceptos de las tradiciones de Salem. ([LU 94:6.3](/es/The_Urantia_Book/94#p6_3)) 
+Fueron los taoístas del siglo III a. C. quienes honraron al dios de la longevidad. Los lectores de _El libro de Urantia_ saben que los taoístas, y especialmente Lao-tse, habían basado sus enseñanzas directamente en los conceptos de las tradiciones de Salem. (<a id="a62_259"></a>[LU 94:6.3](/es/The_Urantia_Book/94#p6_3)) 
 
 Un día, mientras volaba en avión hacia Europa, estaba leyendo un anuncio sobre las computadoras Wang, cuando de repente comprendí que tenía que pronunciar «Van» como «Wang». La explicación llegó lentamente después de que mi mente se iluminara. «Wang» significa en chino «Rey». Wang se entiende como una función, un mediador entre el Cielo y la Tierra, entre Dios y la humanidad. Tenemos la confirmación en el ideograma: 
 
@@ -72,13 +72,13 @@ La línea horizontal superior es el símbolo del Cielo, la segunda representa a 
 
 Desde la rebelión planetaria hasta la llegada de Adán y Eva, los asuntos de Urantia fueron administrados durante mucho tiempo por un consejo de síndicos planetarios. 
 
-> _Urantia fue gobernada y administrada de esta manera hasta la llegada de Adán._ [LU 67:6.5](/es/The_Urantia_Book/67#p6_5) 
+> _Urantia fue gobernada y administrada de esta manera hasta la llegada de Adán._ <a id="a74_82"></a>[LU 67:6.5](/es/The_Urantia_Book/67#p6_5) 
 
-> _Los doce síndicos Melquisedeks de Urantia realizaron una labor heroica. Preservaron los restos de la civilización y su política planetaria fue ejecutada fielmente por Van._ [LU 67:6.6](/es/The_Urantia_Book/67#p6_6)
+> _Los doce síndicos Melquisedeks de Urantia realizaron una labor heroica. Preservaron los restos de la civilización y su política planetaria fue ejecutada fielmente por Van._ <a id="a76_176"></a>[LU 67:6.6](/es/The_Urantia_Book/67#p6_6)
 
 La función de Van en la Tierra durante varios miles de años fue el prototipo de un rey que funcionaba tal como se entiende idealmente en la tradición china: ¡el Rey es «Van» (o Wang)! No hay mejor designación para «Rey» que el nombre del hombre que ejecutó fielmente las políticas planetarias del Cielo. 
 
-> _...Van los proclamó gobernadores de Urantia, renunciando así a la autoridad nominal que había tenido durante más de ciento cincuenta mil años en virtud de una decisión de los síndicos Melquisedeks._ [LU 74:2.6](/es/The_Urantia_Book/74#p2_6)
+> _...Van los proclamó gobernadores de Urantia, renunciando así a la autoridad nominal que había tenido durante más de ciento cincuenta mil años en virtud de una decisión de los síndicos Melquisedeks._ <a id="a80_202"></a>[LU 74:2.6](/es/The_Urantia_Book/74#p2_6)
 
 Entonces, ¿cómo se pronuncia «Van»? Me gustaría sugerir una pronunciación que puede tener una base lingüística e histórica. Ahora digo Van como Wang. 
 

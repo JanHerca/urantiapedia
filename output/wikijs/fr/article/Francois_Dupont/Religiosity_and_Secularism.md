@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 François Dupont<br>© 1999 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Peep_Sober/The_Future_of_our_Planet_as_a_Known_and_Unknown_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Avenir de notre Planète Comme Réalité « Connue» et «Inconnue»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Travis_Binion/Decisions_The_Human_Process">
+          <span class="pr-2">Les Décisions — Le processus humain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 François Dupont
 Bruxelles, Belgique
@@ -166,3 +190,27 @@ d'aimer ses semblables.
 Tout cela est l'évidence même, mais nous ne le disons pas assez, nous ne le montrons pas assez, et nous n'agissons pas assez.
 
 Tout ceci n'est peut être qu'une beau rêve, mais, paraît-il, les plus beaux rêves peuvent se réaliser avec l'aide du temps, beaucoup de temps!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Peep_Sober/The_Future_of_our_Planet_as_a_Known_and_Unknown_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Avenir de notre Planète Comme Réalité « Connue» et «Inconnue»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Travis_Binion/Decisions_The_Human_Process">
+          <span class="pr-2">Les Décisions — Le processus humain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

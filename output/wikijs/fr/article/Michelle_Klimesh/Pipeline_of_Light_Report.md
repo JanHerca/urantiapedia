@@ -43,9 +43,9 @@ par _Michelle Klimesh_
 
 Au cours des six derniers mois, nos bénévoles du « Pipeline of Light » ont placé deux cent quatorze exemplaires du _Le Livre d'Urantia_ dans neuf pays. Vos dons au Pipeline nous ont aidé à livrer des livres à des lecteurs et à des groupes d'étude au Mexique, au Canada, aux États-Unis, en Ukraine, au Chili, en Allemagne, au Cameroun, en Argentine et dans un nouveau pays sur notre liste, les Bermudes.
 
-Les livres envoyés au cours de cette période comprennent cent quatre-vingt-un livres en anglais, quinze traductions en espagnol, cinq livres en français, dix en allemand et quatre en russe. L'effort actuel porte le total historique de notre Pipeline à neuf mille six cent quatre-vingt-douze exemplaires du _Le Livre d'Urantia_ répartis dans quatre-vingt-onze pays à travers le monde. Un grand merci aux merveilleux bénévoles qui font circuler ce flux de livres dans le monde pour nous !
+Les livres envoyés au cours de cette période comprennent cent quatre-vingt-un livres en anglais, quinze traductions en espagnol, cinq livres en français, dix en allemand et quatre en russe. L'effort actuel porte le total historique de notre Pipeline à neuf mille six cent quatre-vingt-douze exemplaires du _Le Livre d'Urantia_ répartis dans quatre-vingt-onze pays à travers le monde. Un grand merci aux merveilleux bénévoles qui font circuler ce flux de livres dans le monde pour nous !
 
-Nous apprécions profondément les contributions de nos bénévoles et de nos donateurs. Si vous souhaitez contribuer à ce travail, les dons peuvent être effectués en ligne à l’adresse suivante :
+Nous apprécions profondément les contributions de nos bénévoles et de nos donateurs. Si vous souhaitez contribuer à ce travail, les dons peuvent être effectués en ligne à l’adresse suivante :
 
 http://urantiabook.org/urantia-book-store/contributions
 

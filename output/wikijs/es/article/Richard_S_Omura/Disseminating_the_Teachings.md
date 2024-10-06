@@ -40,7 +40,7 @@ Difundir la enseñanza de la Quinta Revelación de Época es una misión _espiri
 
 ## La búsqueda de una organización espiritual
 
-El mensaje más destacado de _El Libro de Urantia_ es espiritual. Y, sin embargo, no hay grupos u organizaciones representativos que hayan establecido unidad espiritual entre los lectores/creyentes del Libro de Urantia basándose en las enseñanzas de la Quinta Revelación de Época. Los lectores/creyentes tienen hambre de expresión espiritual grupal basada en las enseñanzas en las que creen. La naturaleza aborrece el vacío. Cuando no existían tales vías de expresión espiritual grupal, surgió una: la Misión de Enseñanza. Pero este fenómeno espontáneo no atrae a la mayor parte de los lectores y creyentes del Libro de Urantia, y no es una organización religiosa genuina, por lo que el vacío en gran medida está vacío.
+El mensaje más destacado de _El Libro de Urantia_ es espiritual. Y, sin embargo, no hay grupos u organizaciones representativos que hayan establecido unidad espiritual entre los lectores/creyentes del _Libro de Urantia_ basándose en las enseñanzas de la Quinta Revelación de Época. Los lectores/creyentes tienen hambre de expresión espiritual grupal basada en las enseñanzas en las que creen. La naturaleza aborrece el vacío. Cuando no existían tales vías de expresión espiritual grupal, surgió una: la Misión de Enseñanza. Pero este fenómeno espontáneo no atrae a la mayor parte de los lectores y creyentes del Libro de Urantia, y no es una organización religiosa genuina, por lo que el vacío en gran medida está vacío.
 
 > _La historia demuestra que sólo las organizaciones religiosas, la religión institucional, son eficaces a la hora de infundir enseñanzas espirituales en la civilización y la cultura._
 

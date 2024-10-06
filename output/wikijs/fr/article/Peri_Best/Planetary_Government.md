@@ -47,9 +47,9 @@ Nous sommes témoins d’événements sans précédent qui se déroulent dans le
 
 Personnellement, je crois que la racine du mal-être est au sein de la famille et particulièrement dans la relation homme/femme déséquilibrée et incomprise. Mais nous laisserons cette exploration pour un autre jour. Aujourd’hui, je propose que nous examinions le soin excessif que nos amis célestes accordent à notre monde et que nous recherchions des suggestions sur la manière dont nous pourrions aider.
 
-Lecture suggérée : [Fascicule 114](/fr/The_Urantia_Book/114) et pour avoir un aperçu de l’administration compatissante face à la rébellion, consultez le [Fascicule 119](/fr/The_Urantia_Book/119) - Les effusions de Christ Michel. <a id="a49_229"></a>[LU 114:0.4](/fr/The_Urantia_Book/114#p0_4) Urantia n'est pas sans une supervision appropriée et efficace de la part des dirigeants du système, de la constellation et de l’univers. Mais le gouvernement planétaire ne ressemble à aucun autre monde dans le système de Satania, même dans tout Nébadon.
+Lecture suggérée : [Fascicule 114](/fr/The_Urantia_Book/114) et pour avoir un aperçu de l’administration compatissante face à la rébellion, consultez le [Fascicule 119](/fr/The_Urantia_Book/119) - Les effusions de Christ Michel. <a id="a49_229"></a>[LU 114:0.4](/fr/The_Urantia_Book/114#p0_4) Urantia n'est pas sans une supervision appropriée et efficace de la part des dirigeants du système, de la constellation et de l’univers. Mais le gouvernement planétaire ne ressemble à aucun autre monde dans le système de Satania, même dans tout Nébadon.
 
-Ce caractère unique de votre plan de supervision est dû à un certain nombre de circonstances inhabituelles :
+Ce caractère unique de votre plan de supervision est dû à un certain nombre de circonstances inhabituelles :
 
 1. Le statut de modification de vie d’Urantia.
 2. Les exigences de la rébellion de Lucifer.

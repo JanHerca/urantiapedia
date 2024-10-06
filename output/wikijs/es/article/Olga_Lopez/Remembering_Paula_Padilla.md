@@ -51,7 +51,7 @@ Tuve la oportunidad de conocerla en persona durante la conferencia de lectores l
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/013.jpg">
-<figcaption><em>Paula Padilla</em></figcapton>
+<figcaption><em>Paula Padilla</em></figcaption>
 </figure>
 
 Como prueba de la gran huella que dejó en la UBIS, me gustaría compartir algunas palabras de algunos de sus compañeros profesores-facilitadores:

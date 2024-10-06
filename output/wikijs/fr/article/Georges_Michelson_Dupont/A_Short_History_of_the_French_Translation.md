@@ -58,9 +58,7 @@ Mr Weiss commença à traduire _Le Livre d’Urantia_ fin 1956 ou début 1957. L
 
 Dans ce paragraphe, Mr Weiss énumère quelques challenges et difficultés expérimentés par tous les traducteurs. Non seulement, un traducteur traduit des idées et non des mots, mais, dans le cas du _Livre d’ Urantia_, de nouveaux concepts doivent être compris clairement et doivent être traduits avec précision.
 
-Mr Weiss engagea plusieurs personnes pour terminer la traduction et son résultat fut un effort d’équipe. Les noms suivants apparaissent sur la première édition du livre :
-
-> Lysie Guionic et Simone Leclerc. Mme Guionic était en charge de la syntaxe française et de la ponctuation, tandis que Simone Leclerc qui ne parlait pas l’anglais, était impliquée dans le parfum spirituel de la traduction.
+Mr Weiss engagea plusieurs personnes pour terminer la traduction et son résultat fut un effort d’équipe. Les noms suivants apparaissent sur la première édition du livre : Lysie Guionic et Simone Leclerc. Mme Guionic était en charge de la syntaxe française et de la ponctuation, tandis que Simone Leclerc qui ne parlait pas l’anglais, était impliquée dans le parfum spirituel de la traduction.
 <br style="clear:both;"/>
 
 <figure id="Figure_3" class="image urantiapedia">

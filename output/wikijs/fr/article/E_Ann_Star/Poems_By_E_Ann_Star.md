@@ -33,7 +33,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 Les anges sont à cette heure matinale
-Venez m'appeler avant de vous coucher :
+Venez m'appeler avant de vous coucher :
 Les Anges de l'Amour, de la Vérité, du Courage, de la Beauté,
 Et les anges du but, de la liberté et de la spontanéité —
 Tous les Sept m'enveloppent dans leur Amour,
@@ -52,7 +52,7 @@ Un lieu sacré seulement Dieu
 Il a réservé cet endroit, 
 &nbsp; &nbsp; où lui et moi pouvons nous rencontrer
 Pour des discussions tranquilles sur mes blessures 
-&nbsp; &nbsp; et les besoins ;
+&nbsp; &nbsp; et les besoins ;
 Un endroit où tout ce que j'ai été 
 &nbsp; &nbsp; est vu ou entendu uniquement avec 
 &nbsp; &nbsp; ma permission.
@@ -92,11 +92,11 @@ Au sommet d'une montagne ou au fond d'une vallée,
 Tu demeures avec moi.
 
 Le soleil brille en toi,
-Tout comme il brille sur Terre ;
+Tout comme il brille sur Terre ;
 Nourrir la vie avec sa chaleur.
 
 Il en va de même pour votre soleil intérieur
-Nourrissez vos pensées et vos paroles ;
+Nourrissez vos pensées et vos paroles ;
 Reflété dans chaque action.
 Quotidiennement, à laquelle vous donnez naissance.
 

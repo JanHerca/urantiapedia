@@ -16,7 +16,7 @@ dateCreated: 2023-8-29T10:55:6Z
         <td>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-5-dec-2022">
+        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-5-décembre-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 5, Déc. 2022 — Table des matières</span>
         </a>
         </td>
@@ -116,7 +116,7 @@ Ceci est une publication &reg;  «Urantian».
         <td>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-5-dec-2022">
+        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-5-décembre-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 5, Déc. 2022 — Table des matières</span>
         </a>
         </td>

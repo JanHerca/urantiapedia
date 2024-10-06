@@ -53,7 +53,7 @@ Even a short answer to the following questions could be instructive:
 Thank you on behalf of the current parents and parents-to-be for your time and responses. Please send them to Sara Blackstock blackstocksara7@gmail.com and with the guidance of the Family Life Team (Richard Daunt, Riula Deoto, Miranda Clendening, Tony Finstad, Angie Thurston, and Janet Farrington, our wise mentor) will compile them to be shared in the next issue of the Fellowship Herald and put on the Family Life website: [http://www.urantiafamilylife.org](http://www.urantiafamilylife.org) and the Fellowship web site [http://www.urantiabook.org.](http://www.urantiabook.org.) If you so wish, your replies can be anonymous. 
 
 > **Sara Blackstock** feels she has had the privilege of working with school-age children for almost 50 years as a teacher and administrator. She coordinated three Jerusalem Marketplaces at three International Conferences sponsored by the Fellowship, and is now the interim coordinator of the Family Life Team of the Fellowship.
-> {.is-info}
+{.is-info}
 
 ## References
 

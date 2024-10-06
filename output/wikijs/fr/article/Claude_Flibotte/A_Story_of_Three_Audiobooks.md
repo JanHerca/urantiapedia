@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-1-april-2020">
+        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-1-avril-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 1, April 2020 — Table des matières</span>
         </a>
         </td>
@@ -58,7 +58,7 @@ Marc Belleau
 
 C’est l’histoire de la manière dont la traduction française du _Livre d’Urantia, Une Étude du Maître Univers et Appendices à une Étude du Maître Univers_ furent enregistrés en français.
 
-L’aventure de la création de l’enregistrement audio débuta, si mes souvenirs sont bons en 2007. En ce temps là, je savais qu’un certain Mr Richard Lachance de Québec City, avait engagé un lecteur professionnel pour enregistrer la quatrième partie du _Livre d’Urantia,_ « La Vie et les Enseignements de Jésus ». Je trouvais dommage que la totalité du livre ne soit pas disponible en format audio et je me suis donné comme objectif de produire les trois autres parties.
+L’aventure de la création de l’enregistrement audio débuta, si mes souvenirs sont bons en 2007. En ce temps là, je savais qu’un certain Mr Richard Lachance de Québec City, avait engagé un lecteur professionnel pour enregistrer la quatrième partie du _Livre d’Urantia,_ « La Vie et les Enseignements de Jésus ». Je trouvais dommage que la totalité du livre ne soit pas disponible en format audio et je me suis donné comme objectif de produire les trois autres parties.
 
 Je formai une équipe de volontaires. Marc Belleau, Roselyne de Baets et Guy Vachon répondirent à l’appel de rejoindre votre humble serviteur en s’acquittant de la tâche. Le rôle du défunt Alcide Paradis était d’écouter les documents et de m’indiquer les erreurs de prononciation. Mon rôle initial était de coordonner tout le monde, de contrôler les enregistrements, de faire les corrections, d’améliorer le son et de produire un document final en format mp3. La quatrième partie ne fut pas enregistrée à nouveau, mais je retravaillai la qualité du son de l’enregistrement existant.
 
@@ -76,7 +76,7 @@ Quant à moi, je commençai à travailler sur les enregistrements de l’_Append
 
 J’espère que ces livres audio seront un moyen supplémentaire pour maîtriser l’apprentissage de ces révélations afin d’élargir la conscience cosmique et d’augmenter la perception spirituelle.
 
-Bonne Écoute !
+Bonne Écoute !
 
 
 ## Références
@@ -95,7 +95,7 @@ Bonne Écoute !
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-1-april-2020">
+        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-1-avril-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 1, April 2020 — Table des matières</span>
         </a>
         </td>

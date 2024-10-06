@@ -59,7 +59,7 @@ Que Dios nos fortalezca y nos dé la gracia para hacer todo esto.
 
 
 
-> _Merlyn Cox es pastor y sirve en la Conferencia de la Iglesia Metodista Unida del Norte de Indiana. Ha sido lector del Libro de Urantia durante 18 años, trabajó con Meredith Sprunger en la iniciación de The Spiritual Fellowship Journal en 1991 y trabajó durante diez años como editor asociado. Actualmente es presidente del Equipo Educativo de The Spiritual Fellowship._
+> _Merlyn Cox es pastor y sirve en la Conferencia de la Iglesia Metodista Unida del Norte de Indiana. Ha sido lector del _Libro de Urantia_ durante 18 años, trabajó con Meredith Sprunger en la iniciación de The Spiritual Fellowship Journal en 1991 y trabajó durante diez años como editor asociado. Actualmente es presidente del Equipo Educativo de The Spiritual Fellowship._
 {.is-info}
 
 

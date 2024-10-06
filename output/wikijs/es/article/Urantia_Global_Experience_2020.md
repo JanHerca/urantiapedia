@@ -116,7 +116,7 @@ Si tienes un proyecto y te gustaría ser considerado para una plaza en la UGE 20
 
 ### Participación versus Presentación
 
-La intención de estas exploraciones visionarias es tener participación y discusión grupal, en lugar de solo hacer una presentación al grupo. Los lectores del Libro de Urantia tienen una buena educación y experiencia. La idea es solicitar información valiosa de los participantes para comprender mejor las posibilidades y los peligros de los proyectos propuestos o activos. Se espera que las personas interesadas quieran seguir involucradas después de la UGE 2020 para dar seguimiento a sus ideas o proyectos.
+La intención de estas exploraciones visionarias es tener participación y discusión grupal, en lugar de solo hacer una presentación al grupo. Los lectores del _Libro de Urantia_ tienen una buena educación y experiencia. La idea es solicitar información valiosa de los participantes para comprender mejor las posibilidades y los peligros de los proyectos propuestos o activos. Se espera que las personas interesadas quieran seguir involucradas después de la UGE 2020 para dar seguimiento a sus ideas o proyectos.
 
 ### Ajuste y función
 

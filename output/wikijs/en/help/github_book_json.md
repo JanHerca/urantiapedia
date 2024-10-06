@@ -47,7 +47,7 @@ To convert files from HTML to JSON without footnotes, follow these steps:
 - Click *Execute*.
 - If everything is correct *Conversion executed successfully* will appear. In case of errors, the list of errors will appear. In this case, it is advisable to notify one of the *developer* users the error.
 
-![](/image/upt_html_json.png)
+![](/image/help/upt_html_json.png)
 
 The resulting files in JSON format will be saved in the `input / json / book-xx` folder, where` xx` are the two letters of the language (`es` = Spanish, `en` = English, etc.)
 

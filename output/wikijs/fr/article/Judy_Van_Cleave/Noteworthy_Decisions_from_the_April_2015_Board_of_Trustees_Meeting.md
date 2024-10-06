@@ -45,11 +45,11 @@ _Par Judy Van Cleave, trustee, Idaho, États-Unis_
 
 ## 1. Collecte de fonds
 
-Le comité de collecte de fonds a décrit ses plans pour lancer le « Pont de la révélation » un nouveau fonds de dons planifiés, destiné à générer vingt-cinq millions de dollars pour protéger la révélation Urantia de 2015 à 2050. Aujourd’hui, presque tous les dons proviennent des personnes âgées d’Amérique du Nord. Nous entrons dans une phase où le plus grand transfert de richesse de l’histoire du monde prend place lorsque les baby boomers de l’Amérique du Nord lèguent leur richesse. Parce que la prochaine génération de lecteurs n’est pas prête financièrement à assumer les dépenses croissantes d’éducation, de sensibilisation, des traductions et de la distribution du livre, les baby boomers vieillissants doivent construire le « Pont de la Révélation » de leur génération à la prochaine. C’est exactement ce que les premiers fondateurs ont fait pour les générations futures, et maintenant les baby boomers doivent faire de même. Nous serions très heureux d’aider quiconque voulant faire un don pour le « Pont de la Révélation ». Appeler, s’il vous plaît, Joanne Strobel au +1 773 525 3319 ou allez sur : [urantia.plannedgiving.org](https://urantia.plannedgiving.org/)
+Le comité de collecte de fonds a décrit ses plans pour lancer le « Pont de la révélation » un nouveau fonds de dons planifiés, destiné à générer vingt-cinq millions de dollars pour protéger la révélation Urantia de 2015 à 2050. Aujourd’hui, presque tous les dons proviennent des personnes âgées d’Amérique du Nord. Nous entrons dans une phase où le plus grand transfert de richesse de l’histoire du monde prend place lorsque les baby boomers de l’Amérique du Nord lèguent leur richesse. Parce que la prochaine génération de lecteurs n’est pas prête financièrement à assumer les dépenses croissantes d’éducation, de sensibilisation, des traductions et de la distribution du livre, les baby boomers vieillissants doivent construire le « Pont de la Révélation » de leur génération à la prochaine. C’est exactement ce que les premiers fondateurs ont fait pour les générations futures, et maintenant les baby boomers doivent faire de même. Nous serions très heureux d’aider quiconque voulant faire un don pour le « Pont de la Révélation ». Appeler, s’il vous plaît, Joanne Strobel au +1 773 525 3319 ou allez sur : [urantia.plannedgiving.org](https://urantia.plannedgiving.org/)
 
 ## 2. Traductions, révisions et fichiers d’or
 
-A. Le trustee et directeur des traductions, Georges Michelson-Dupont fit un rapport sur les progrès de chacune des traductions et révisions en cours. Même si une traduction ou une révision peut prendre une décennie ou deux pour être terminée, dans un avenir proche la plupart des gens sur terre pourront lire _Le Livre d’Urantia_ dans leur propre langue. Nous sommes vraiment bénis par le service de chaque traducteur et réviseur ! Nous sommes tout particulièrement reconnaissant à Georges pour son bénévolat et ses ressources et pour la coordination de cette noble entreprise. Un grand merci à Marilynn Kulieke, Georges Michelson-Dupont, Jay Peregrine, Henk Mylanus et Tamara Strumeld pour leur excellent travail au comité de traduction.
+A. Le trustee et directeur des traductions, Georges Michelson-Dupont fit un rapport sur les progrès de chacune des traductions et révisions en cours. Même si une traduction ou une révision peut prendre une décennie ou deux pour être terminée, dans un avenir proche la plupart des gens sur terre pourront lire _Le Livre d’Urantia_ dans leur propre langue. Nous sommes vraiment bénis par le service de chaque traducteur et réviseur ! Nous sommes tout particulièrement reconnaissant à Georges pour son bénévolat et ses ressources et pour la coordination de cette noble entreprise. Un grand merci à Marilynn Kulieke, Georges Michelson-Dupont, Jay Peregrine, Henk Mylanus et Tamara Strumeld pour leur excellent travail au comité de traduction.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2015_06/009.jpg">
@@ -69,7 +69,7 @@ La plupart des traductions et des révisions exigent des dizaines de milliers d�
 
 ## 3. Éducation
 
-Georges Michelson-Dupont et Ralph Zehr ont rapporté que l’intérêt pour et la participation aux classes de l’École internet du Livre d’Urantia ( UBIS ), explosent. Jusqu’ici, plus de 1050 étudiants ont pris des cours depuis la création d’UBIS. Les participants viennent de plus de 176 pays répartis sur cinq continents. Les cours sont disponibles en anglais, espagnol et français, avec le portugais pour bientôt.
+Georges Michelson-Dupont et Ralph Zehr ont rapporté que l’intérêt pour et la participation aux classes de l’École internet du Livre d’Urantia ( UBIS ), explosent. Jusqu’ici, plus de 1050 étudiants ont pris des cours depuis la création d’UBIS. Les participants viennent de plus de 176 pays répartis sur cinq continents. Les cours sont disponibles en anglais, espagnol et français, avec le portugais pour bientôt.
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2015_06/008.jpg">
@@ -85,7 +85,7 @@ Gard Jameson, président du comité d’éducation, a rapporté deux événement
 
 ## 4. Livres
 
-Tamara Strumfeld et Henk Mylanus donnèrent les derniers chiffres définitifs des ventes de 2014. Les ventes de livres ont augmenté de 7 %, les plus fortes hausses venant d’Amérique Latine.
+Tamara Strumfeld et Henk Mylanus donnèrent les derniers chiffres définitifs des ventes de 2014. Les ventes de livres ont augmenté de 7 %, les plus fortes hausses venant d’Amérique Latine.
 
 Cet été, la Fondation imprimera 27 000 Livres d’Urantia en anglais, espagnol, portugais et allemand. Les lecteurs de longue date, anglophones, devraient apprécier cette nouvelle édition car nous y avons ajouté une élégante version en cuir souple, en édition limitée. Ces livres seront présentés dans un joli coffret cadeau, ce qui fera un magnifique présent à offrir à vos proches ou à un nouveau lecteur.
 
@@ -104,7 +104,7 @@ Richard Jernigan, donna une présentation sur un guide de style que la Fondation
 
 Gard Jameson présenta des plans architecturaux pour le sous-sol de la Fondation, qui pourrait être converti en bibliothèque et en centre d’apprentissage. Une possible étude est conduite pour en déterminer les possibilités, le calendrier et le coût associés à ce projet.
 
-## 7. La marque d’éditeur : Urantia Press
+## 7. La marque d’éditeur : Urantia Press
 
 Le conseil d’administration vota en faveur de la création de la première marque d’éditeur de la Fondation Urantia. Les marques d’éditeurs sont des outils utilisés par les organisations pour distinguer les documents spéciaux publiés, des publications normales. Dans ce cas, les futurs livres, les vidéos et audios seront publiés sous la marque d’éditeur et non sous le nom Fondation Urantia.
 
@@ -116,7 +116,7 @@ Le Conseil d’administration approuva le plan d’élaboration d’organisation
 
 ## 9. Consignes pour le texte standard de référence
 
-Il y a quelques années, sous la direction de Seppo Kanerva, un groupe d’étudiants universitaires du _Livre d’Urantia_ ont formé le comité du texte standard de référence, qui a des représentants des deux organisations qui publient le livre, actuellement. Le comité a examiné tous les changements jamais effectués dans _Le Livre d’Urantia_ et ont recommandé le « texte standard de référence » ( SRT ) qui servirait comme le texte inviolé du _Livre d’Urantia_ pour les générations futures. Les deux éditeurs actuels ont convenu de n’imprimer que le SRT.
+Il y a quelques années, sous la direction de Seppo Kanerva, un groupe d’étudiants universitaires du _Livre d’Urantia_ ont formé le comité du texte standard de référence, qui a des représentants des deux organisations qui publient le livre, actuellement. Le comité a examiné tous les changements jamais effectués dans _Le Livre d’Urantia_ et ont recommandé le « texte standard de référence » ( SRT ) qui servirait comme le texte inviolé du _Livre d’Urantia_ pour les générations futures. Les deux éditeurs actuels ont convenu de n’imprimer que le SRT.
 
 Récemment, le comité a trouvé cinq erreurs mineures de grammaire et de ponctuation dans le texte et demandé qu’elles soient corrigées et incluses dans le SRT. Le Conseil d’administration a approuvé ces changements qui seront inclus dans les impressions futures du texte anglais.
 

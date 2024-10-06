@@ -1,14 +1,31 @@
 ---
-title: Primera migración a las Américas
+title: "Primera migración a las Américas"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: Anthropology, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Halbert Katzen J.D.** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+_Por Halbert Katzen J.D._
 
 ## Resumen
 
@@ -214,15 +231,17 @@ Ushki (7) | 14300 | Â± | 200 | GIN- | Mochanov 1978:62 |
 
 ## Enlaces
 
-* [Raza roja](es/topic/red_race)
+* [Raza roja](/es/topic/red_race)
 * [Norteamérica](/es/topic/North_America)
 * [Centroamérica](/es/topic/Central_America)
 * [Sudamérica](/es/topic/South_America)
 
 ## Enlaces externos
 
-* Este informe en el sitio web UBTheNews: https://ubannotated.com/wp-content/uploads/2018/03/Americas.pdf
-* *El Libro de Urantia*: <a id="a224_25"></a>[LU 64:6](/es/The_Urantia_Book/64#p6)
+* [Este informe en el sitio web UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Americas.pdf)
+* [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios Temáticos en el sitio UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
+* *El Libro de Urantia*: <a id="a243_25"></a>[LU 64:6](/es/The_Urantia_Book/64#p6)
 * *Paleoamerican Origins* (*Orígenes paleoamericanos*), Smithsonian, Paleoamerican Origins, 1999.
 	 
 	https://web.archive.org/web/20090628145147/http://www.si.edu/Encyclopedia_SI/nmnh/origin.htm [Enlace original roto]
@@ -257,9 +276,27 @@ Ushki (7) | 14300 | Â± | 200 | GIN- | Mochanov 1978:62 |
 	 
 	http://www.jqjacobs.net/anthro/paleoamericans.html
 
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Referencias
 
-[^1]: <a id="a261_6"></a>[LU 64:6.5](/es/The_Urantia_Book/64#p6_5)
+[^1]: <a id="a298_6"></a>[LU 64:6.5](/es/The_Urantia_Book/64#p6_5)
 
 [^2]: Véase los [documentos 62](/es/The_Urantia_Book/62), [63](/es/The_Urantia_Book/63) y [64](/es/The_Urantia_Book/64) de *El Libro de Urantia* para una completa descripción de estos eventos.
 
@@ -269,13 +306,13 @@ Ushki (7) | 14300 | Â± | 200 | GIN- | Mochanov 1978:62 |
 
 [^5]: *Paleoamerican Origins* (*Orígenes paleoamericanos*), Smithsonian, Paleoamerican Origins, 1999. https://web.archive.org/web/20090628145147/http://www.si.edu/Encyclopedia_SI/nmnh/origin.htm [Enlace original roto]
 
-[^6]: <a id="a271_6"></a>[LU 64:6.4-8](/es/The_Urantia_Book/64#p6_4)
+[^6]: <a id="a308_6"></a>[LU 64:6.4-8](/es/The_Urantia_Book/64#p6_4)
 
-[^7]: <a id="a273_6"></a>[LU 64:7.4,5,7](/es/The_Urantia_Book/64#p7_4)
+[^7]: <a id="a310_6"></a>[LU 64:7.4,5,7](/es/The_Urantia_Book/64#p7_4)
 
-[^8]: <a id="a275_6"></a>[LU 64:7.17-19](/es/The_Urantia_Book/64#p7_17)
+[^8]: <a id="a312_6"></a>[LU 64:7.17-19](/es/The_Urantia_Book/64#p7_17)
 
-[^9]: <a id="a277_6"></a>[LU 78:5.7](/es/The_Urantia_Book/78#p5_7)
+[^9]: <a id="a314_6"></a>[LU 78:5.7](/es/The_Urantia_Book/78#p5_7)
 
 [^10]: *Find May Rewrite Americas' Prehistory* (*Hallazgo podría reescribir la prehistoria americana*), por Curt Suplee, Washington Post, 11 febrero 1997. Artículo acerca de Monte Verde, yacimiento de Chile, de 33.000 años de antigüedad. http://www.washingtonpost.com/wp-srv/inatl/americas/feb/17/artifact.htm
 

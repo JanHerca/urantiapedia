@@ -3,7 +3,7 @@ title: "La ciudad perdida de Betsaida"
 description: 
 published: true
 date: 2023-09-28T14:02:03.086Z
-tags: Jesus, Jesus times, place
+tags: Jesus, Jesus times, place, article
 editor: markdown
 dateCreated: 2023-09-28T14:02:03.086Z
 ---
@@ -143,7 +143,6 @@ Mendel Nun asegura que el-Araj, que es apenas una franja delgada delante de la c
 
 ## Teorías de los expertos
 
-
 Los emplazamientos de et-Tell y de el-Araj son de sobras conocidos desde los años de auje de la arqueología bíblica, a principios del siglo XIX. ¿Qué dijeron los más célebres arqueólogos sobre este dudoso asunto de Betsaida?
 
 Edward Robinson, considerado uno de los padres de la arqueología bíblica, en 1838, identificó et-Tell como Betsaida Julias, pero también mantuvo firmemente la existencia de una segunda Betsaida galilea en ¡Tabgha! ¿De dónde le pudo venir la idea de Tabgha? Muy probablemente, Robinson daba por buenos los cuatro relatos evangélicos, y por eso apoyó la teoría de las dos Betsaidas.
@@ -192,7 +191,7 @@ Entonces, ¿qué hay en et-Tell? Pues en mi opinión, lo menos importante de tod
 
 ¿Y _El Libro de Urantia_? Multitud de pasajes de _El Libro de Urantia_, aunque hay que tener cuidado y localizarlos con esmero, ofrecen una visión sobre la localización de Betsaida. Y coinciden completamente con mis conclusiones.
 
-Según <a id="a194_6"></a>[LU 129:1.4](/es/The_Urantia_Book/129#p1_4) «Zebedeo era un hombre medianamente adinerado; sus astilleros se encontraban al borde del lago al sur de Cafarnaúm y su casa estaba situada a la orilla del lago cerca del centro de pesca de Betsaida». En <a id="a194_254"></a>[LU 139:1.1](/es/The_Urantia_Book/139#p1_1) el padre de Andrés, «ya fallecido, había sido socio de Zebedeo en un negocio de desecación de pescado en Betsaida, el puerto pesquero de Cafarnaúm». En <a id="a194_450"></a>[LU 139:3.1](/es/The_Urantia_Book/139#p3_1) Santiago «estaba casado, tenía cuatro hijos, y vivía cerca de sus padres en Betsaida, en las afueras de Cafarnaúm». Además, cuando _El Libro de Urantia_ menciona una Betsaida y la otra no hay dudas pues utiliza Betsaida para designar la situada al oeste (<a id="a194_749"></a>[LU 129:1.2](/es/The_Urantia_Book/129#p1_2), <a id="a194_794"></a>[LU 129:1.4](/es/The_Urantia_Book/129#p1_4), <a id="a194_839"></a>[LU 129:3.3](/es/The_Urantia_Book/129#p3_3), <a id="a194_884"></a>[LU 129:3.4](/es/The_Urantia_Book/129#p3_4), <a id="a194_929"></a>[LU 137:2.3](/es/The_Urantia_Book/137#p2_3), <a id="a194_974"></a>[LU 137:5.1](/es/The_Urantia_Book/137#p5_1), <a id="a194_1019"></a>[LU 137:5.2](/es/The_Urantia_Book/137#p5_2), y otras) y Betsaida-Julias para designar la situada al este (<a id="a194_1125"></a>[LU 138:9.3](/es/The_Urantia_Book/138#p9_3), <a id="a194_1170"></a>[LU 149:0.1](/es/The_Urantia_Book/149#p0_1), <a id="a194_1215"></a>[LU 152:2.1](/es/The_Urantia_Book/152#p2_1), <a id="a194_1260"></a>[LU 152:2.4](/es/The_Urantia_Book/152#p2_4) y otras). La proximidad entre Betsaida y Cafarnaúm explica, por otra parte, la continua utilización a lo largo de _El Libro de Urantia_ de los términos Cafarnaúm y Betsaida de forma indistinta, algo que ya hemos visto que también parecían hacer los evangelistas.
+Según <a id="a193_6"></a>[LU 129:1.4](/es/The_Urantia_Book/129#p1_4) «Zebedeo era un hombre medianamente adinerado; sus astilleros se encontraban al borde del lago al sur de Cafarnaúm y su casa estaba situada a la orilla del lago cerca del centro de pesca de Betsaida». En <a id="a193_254"></a>[LU 139:1.1](/es/The_Urantia_Book/139#p1_1) el padre de Andrés, «ya fallecido, había sido socio de Zebedeo en un negocio de desecación de pescado en Betsaida, el puerto pesquero de Cafarnaúm». En <a id="a193_450"></a>[LU 139:3.1](/es/The_Urantia_Book/139#p3_1) Santiago «estaba casado, tenía cuatro hijos, y vivía cerca de sus padres en Betsaida, en las afueras de Cafarnaúm». Además, cuando _El Libro de Urantia_ menciona una Betsaida y la otra no hay dudas pues utiliza Betsaida para designar la situada al oeste (<a id="a193_749"></a>[LU 129:1.2](/es/The_Urantia_Book/129#p1_2), <a id="a193_794"></a>[LU 129:1.4](/es/The_Urantia_Book/129#p1_4), <a id="a193_839"></a>[LU 129:3.3](/es/The_Urantia_Book/129#p3_3), <a id="a193_884"></a>[LU 129:3.4](/es/The_Urantia_Book/129#p3_4), <a id="a193_929"></a>[LU 137:2.3](/es/The_Urantia_Book/137#p2_3), <a id="a193_974"></a>[LU 137:5.1](/es/The_Urantia_Book/137#p5_1), <a id="a193_1019"></a>[LU 137:5.2](/es/The_Urantia_Book/137#p5_2), y otras) y Betsaida-Julias para designar la situada al este (<a id="a193_1125"></a>[LU 138:9.3](/es/The_Urantia_Book/138#p9_3), <a id="a193_1170"></a>[LU 149:0.1](/es/The_Urantia_Book/149#p0_1), <a id="a193_1215"></a>[LU 152:2.1](/es/The_Urantia_Book/152#p2_1), <a id="a193_1260"></a>[LU 152:2.4](/es/The_Urantia_Book/152#p2_4) y otras). La proximidad entre Betsaida y Cafarnaúm explica, por otra parte, la continua utilización a lo largo de _El Libro de Urantia_ de los términos Cafarnaúm y Betsaida de forma indistinta, algo que ya hemos visto que también parecían hacer los evangelistas.
 
 ## Descubrimientos futuros
 
@@ -201,7 +200,6 @@ En resumen, tal y como lo veo, las dos Betsaidas, y no una, que seguramente exis
 Curiosamente, de mis conclusiones extraigo la circunstancia de que la Betsaida de Jesús, la que visitó con más frecuencia, ni siquiera es preocupación a día de hoy de los arqueólogos. Toda la discusión actual se centra en determinar si el correcto emplazamiento es et-Tell o el-Araj. Pero la teoría de las dos Betsaidas, que fue ampliamente aceptada por los investigadores iniciales, ahora parece olvidarse sin que se hayan excavado a fondo todos los posibles emplazamientos. Aunque existen unas ruinas de un muelle delante de Tabgha, nadie parece haberse molestado en realizar una prospección de ruinas de edificaciones por los alrededores. Todas las excavaciones arqueológicas en Tabgha se ciñen a los cimientos de las iglesias existentes, por lo que he podido leer.
 
 Pero estoy seguro de que algún día, nuevos hallazgos, determinarán finalmente quién tenía la razón en toda esta polémica...
-
 
 ## Addendum: el-Araj Excavation Project
 
@@ -215,7 +213,6 @@ Cuando este artículo fue publicado por primera vez en 2006 no tenía ninguna du
 </figure>
 
 ## Referencias
-
 
 - Rami Arav y Richard A. Freund, _Bethsaida, a city by the north shore of the Sea of Galilee_, Truman State University Press, dos volúmenes y un CD, 1999.
 

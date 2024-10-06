@@ -240,7 +240,7 @@ Thank you so much for your attention.
 
 ## References
 
-- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-february-2016/)
 - [This article](https://urantia-association.org/reflections-for-teachers-and-believers)
 

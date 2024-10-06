@@ -45,7 +45,7 @@ avoir froid et humide à Toronto! Nous avons loué deux maisons et il y avait un
 
 L’année dernière a commencé la planification d’un grand projet qui a abouti à un voyage en Estonie pour une retraite co-organisée par YaYA/UYAI (Urantia Youth Association International) en juillet dernier. Il y avait un groupe d’Américains et d’Européens venus de partout. Cette retraite a conduit à la conférence plus large de Tallinn. Nous avons loué une chambre géante de 20 lits dans une auberge, en plein cœur de la ville et la retraite s'est déroulée 3 jours avant la conférence.
 
-L’objectif pour le reste de 2019 et 2020 est de poursuivre les retraites et de renforcer la communauté au niveau régional. Si vous avez une idée ou souhaitez organiser une retraite pour les jeunes près de chez vous, contactez-nous ! Le prochain grand événement sera une pré-retraite avant la conférence de Vancouver en Colombie-Britannique en juillet 2020. L'objectif à plus long terme est d'aller au Pérou en 2021 !
+L’objectif pour le reste de 2019 et 2020 est de poursuivre les retraites et de renforcer la communauté au niveau régional. Si vous avez une idée ou souhaitez organiser une retraite pour les jeunes près de chez vous, contactez-nous ! Le prochain grand événement sera une pré-retraite avant la conférence de Vancouver en Colombie-Britannique en juillet 2020. L'objectif à plus long terme est d'aller au Pérou en 2021 !
 
 ## Liens externes
 

@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-2-numéro-4-dec-2008">
+        <a href="/fr/index/articles_uf_news_online#volume-2-numéro-4-décembre-2008">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 4, Déc. 2008 — Table des matières</span>
         </a>
         </td>
@@ -42,7 +42,7 @@ _Par Irmeli Ivalo-Sjölie, Trustee Associé, Helsinki, Finland & Werner Sutter, 
 
 _Le Livre d’Urantia_ a été introduit pour la première fois en Autriche . Il était disponible en Allemagne et en Suisse depuis la première édition en 2006. Il y a des groupes d’étude et beaucoup de lecteurs intéressés dans ces deux pays.
 
-Cependant, n’ayant aucun lecteur en Autriche, nous décidâmes de participer à une « Foire Esoterique » à Vienne, en octobre dernier, afin de faire connaître_Le Livre d’Urantia_ . La deuxième édition de la traduction allemande vient d’être imprimée et c’est vraiment beau . Les caractères d’imprimerie sont plus grands et le texte est plus facile à lire.
+Cependant, n’ayant aucun lecteur en Autriche, nous décidâmes de participer à une « Foire Esoterique » à Vienne, en octobre dernier, afin de faire connaître _Le Livre d’Urantia_ . La deuxième édition de la traduction allemande vient d’être imprimée et c’est vraiment beau . Les caractères d’imprimerie sont plus grands et le texte est plus facile à lire.
 
 A la foire, nous étions heureux de constater qu’il y avait un mouvement continu de gens qui s’arrêtaient à notre stand . Beaucoup d’entre eux s’assirent et parlèrent des enseignements avec Werner . Quelques uns avaient lu _Das Urantia Buch_ sur l’internet et en connaissaient déjà bien les enseignements .
 
@@ -69,7 +69,7 @@ Nous avons le sentiment que ce fut un effort qui en valait la peine, que des gro
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-2-numéro-4-dec-2008">
+        <a href="/fr/index/articles_uf_news_online#volume-2-numéro-4-décembre-2008">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 4, Déc. 2008 — Table des matières</span>
         </a>
         </td>

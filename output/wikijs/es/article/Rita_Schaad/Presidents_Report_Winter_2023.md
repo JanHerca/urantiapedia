@@ -47,7 +47,7 @@ _ANZURA está diseñado para fomentar el estudio de_ _El Libro de Urantia_ _y ay
 
 Esto es lo que pretendemos al fomentar y promover las Jornadas de Estudio regionales, conferencias y grupos de estudio semanales o mensuales presenciales y en línea. El boletín _Arena_ es a la vez una herramienta de información sobre estas actividades y un archivo histórico.
 
-Otras actividades en las que pueden participar los lectores del Libro de Urantia en Australia y Nueva Zelanda son una amplia gama de opciones ofrecidas por otras asociaciones constituyentes de la Asociación Urantia Internacional de todo el mundo. Internet lo está haciendo todo posible.
+Otras actividades en las que pueden participar los lectores del _Libro de Urantia_ en Australia y Nueva Zelanda son una amplia gama de opciones ofrecidas por otras asociaciones constituyentes de la Asociación Urantia Internacional de todo el mundo. Internet lo está haciendo todo posible.
 
 Me gustaría anunciar los resultados de las elecciones para la junta directiva de ANZURA que se llevaron a cabo en la Asamblea General Anual de la conferencia del año pasado. (De alguna manera nos perdimos esto al informar sobre la Asamblea General Anual en la última Arena). El tablero completo ahora es:
 
@@ -74,7 +74,7 @@ Los últimos trabajos subidos al sitio son de Neil Francey – [_On the Claim of
 
 En la conferencia de este año estará disponible un catálogo detallado de las obras secundarias que compramos el año pasado. Algunas de estas publicaciones son artísticamente hermosas, mientras que otras son intelectualmente estimulantes y espiritualmente edificantes, haciendo que algunos de los conceptos más difíciles de _El Libro de Urantia_ sean un poco más claros en nuestras mentes. El último libro que es un buen ejemplo de esto es The God Experience, escrito por Mark Bonair de Canadá.
 
-Además, un recordatorio de que convertirse en miembro de ANZURA es como decir: «Pertenezco a esta familia de lectores del Libro de Urantia en Australia y Nueva Zelanda». ¡Le daremos una calurosa bienvenida! ☺. (Contáctenos sobre cómo convertirse en miembro o visite el sitio web en [https://anzura.urantia-association.org/membership/](https://anzura.urantia-association.org/membership/).)
+Además, un recordatorio de que convertirse en miembro de ANZURA es como decir: «Pertenezco a esta familia de lectores del _Libro de Urantia_ en Australia y Nueva Zelanda». ¡Le daremos una calurosa bienvenida! ☺. (Contáctenos sobre cómo convertirse en miembro o visite el sitio web en [https://anzura.urantia-association.org/membership/](https://anzura.urantia-association.org/membership/).)
 
 Un saludo y mantente abrigado este invierno.
 

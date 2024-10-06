@@ -28,7 +28,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-## C'est un univers convivial : servir avec notre famille céleste
+## C'est un univers convivial : servir avec notre famille céleste
 
 **Séance d'étude d'été du 19 au 22 juillet 2018**
 **Centre de conférence et de retraite Techny Towers**
@@ -47,7 +47,7 @@ Une retraite pré-conférence, animée par Gard Jameson et ses amis, proposera �
 <img src="/image/article/The_Mighty_Messenger/2018_Summer/005930.jpg">
 </figure>
 
-Les participants peuvent s'attendre à une variété d'ateliers de haute qualité pour les lecteurs avancés et nouveaux. Un échantillon comprend un atelier de David Glass, qui sera un atelier participatif dans lequel les participants partageront certaines des façons dont leur foi en un univers convivial les a aidés dans leur séjour planétaire jusqu’à présent. Il posera la question « Comment la foi de Jésus en un univers amical recadre-t-elle ou éclaire-t-elle notre compréhension de sa réponse à certaines de ses crises de vie les plus éprouvantes ? »
+Les participants peuvent s'attendre à une variété d'ateliers de haute qualité pour les lecteurs avancés et nouveaux. Un échantillon comprend un atelier de David Glass, qui sera un atelier participatif dans lequel les participants partageront certaines des façons dont leur foi en un univers convivial les a aidés dans leur séjour planétaire jusqu’à présent. Il posera la question « Comment la foi de Jésus en un univers amical recadre-t-elle ou éclaire-t-elle notre compréhension de sa réponse à certaines de ses crises de vie les plus éprouvantes ? »
 
 L'atelier de Gard Jameson s'intitule « **Expérimenter notre univers amical grâce à un service compatissant.** » Cet atelier se concentrera sur les huit béatitudes comme modèle pour expérimenter notre univers amical.
 
@@ -57,9 +57,9 @@ L'atelier de Paula Thompson se concentrera sur l’aspect du thème qui **explor
 
 ### Atelier d'étude approfondie de 3ème année
 
-**Famille spirituelle : La Trinité comme source de la famille**, vendredi 20 juillet 2018
+**Famille spirituelle : La Trinité comme source de la famille**, vendredi 20 juillet 2018
 
-**Annonce anticipée !**
+**Annonce anticipée !**
 
 Le sous-comité d’étude approfondie du Fellowship Education Committee écrit :
 
@@ -67,9 +67,9 @@ C'est notre plaisir et notre honneur de participer avec vous à une expérience 
 
 Une étude approfondie des Écritures et de la révélation (ou de la philosophie, de la littérature, de la science, etc.) peut être profondément transformatrice, facilitant une interaction créative entre l’adoration, l’étude, le service et les loisirs rafraîchissants. Nous espérons qu’ensemble, nous pourrons créer un milieu spirituel dans lequel nos âmes se sentent en sécurité pour être touchées et communier. Une étude approfondie exige un processus plus lent et une réflexion approfondie. Nous pouvons souvent avoir du mal à trouver les mots et à communiquer clairement entre nous au cours d’une conversation d’étude approfondie. Une étude approfondie et transformante nous conduit à une communion nouvelle ou renouvelée avec le Père céleste et le divin intérieur.
 
-Prévoyez de passer une journée complète avec nous à réfléchir en profondeur sur le sujet de cette année : **Famille spirituelle : La Trinité comme source de la famille**. Au cours de cet atelier, nous réfléchirons et discuterons en profondeur de la façon dont chaque enfant de Dieu est directement connecté à la trinité ; comment la Trinité modèle pour les mortels finis les valeurs de la vie familiale ; quelles sont certaines des valeurs et significations spirituelles les plus importantes que nous pouvons appliquer à la vie de famille ; et comment les rôles et fonctions des membres de la famille diffèrent et se chevauchent. Nous passerons en revue certaines techniques utilisées par Jésus pour élever sa famille et contemplerons l’amitié/la convivialité d’un point de vue spirituel.
+Prévoyez de passer une journée complète avec nous à réfléchir en profondeur sur le sujet de cette année : **Famille spirituelle : La Trinité comme source de la famille**. Au cours de cet atelier, nous réfléchirons et discuterons en profondeur de la façon dont chaque enfant de Dieu est directement connecté à la trinité ; comment la Trinité modèle pour les mortels finis les valeurs de la vie familiale ; quelles sont certaines des valeurs et significations spirituelles les plus importantes que nous pouvons appliquer à la vie de famille ; et comment les rôles et fonctions des membres de la famille diffèrent et se chevauchent. Nous passerons en revue certaines techniques utilisées par Jésus pour élever sa famille et contemplerons l’amitié/la convivialité d’un point de vue spirituel.
 
-Tous les participants sont les bienvenus. Veuillez considérer si vous êtes prêt à :
+Tous les participants sont les bienvenus. Veuillez considérer si vous êtes prêt à :
 - Pré-inscription à l’atelier
 - Compléter les lectures pré-atelier (20-25 pages d'extraits du _Le Livre d'Urantia_, à envoyer début juin)
 - Lisez les articles 6 à 10 et soyez prêt à discuter des questions
@@ -85,7 +85,7 @@ Nous espérons que vous nous rejoindrez dans cette activité !
 
 ### Culte
 
-Le thème du culte pour SSS’18 est la relation entre culte et service. « L'adoration est la technique qui consiste à se tourner vers l’Un pour trouver l’inspiration au service du plus grand nombre » (<a id="a87_199"></a>[LU 143:7.6](/fr/The_Urantia_Book/143#p7_6)). Le Comité du Culte a prévu plusieurs événements afin de créer un moment « imprégné d’une atmosphère de communion ». Vous pouvez assister chaque jour à une méditation contemplative tranquille dans la chapelle africaine avant le petit-déjeuner et le dîner ; rassemblez-vous pour contempler ensemble notre Père céleste avant les séances plénières. Dimanche, nous nous rassemblerons et partagerons une matinée spéciale de culte avec des activités connexes.
+Le thème du culte pour SSS’18 est la relation entre culte et service. « L'adoration est la technique qui consiste à se tourner vers l’Un pour trouver l’inspiration au service du plus grand nombre » (<a id="a87_199"></a>[LU 143:7.6](/fr/The_Urantia_Book/143#p7_6)). Le Comité du Culte a prévu plusieurs événements afin de créer un moment « imprégné d’une atmosphère de communion ». Vous pouvez assister chaque jour à une méditation contemplative tranquille dans la chapelle africaine avant le petit-déjeuner et le dîner ; rassemblez-vous pour contempler ensemble notre Père céleste avant les séances plénières. Dimanche, nous nous rassemblerons et partagerons une matinée spéciale de culte avec des activités connexes.
 
 ### C'est un Gala de l’Univers Convivial
 
@@ -93,7 +93,7 @@ Samedi soir, nous nous retrouverons pour célébrer notre univers convivial. Le 
 
 ### Expédition à Eden
 
-Au cours de notre soirée sociale du vendredi soir, les parties intéressées peuvent choisir de prendre un verre, puis rejoindre le commodore Robert Bates dans une salle adjacente pour présenter « Expédition vers Eden : une mise à jour spéciale sur la recherche archéologique en cours pour le premier jardin ». Il partagera sa nouvelle interprétation des données. Vous savez peut-être que le « Capitaine Bates » était le chef d'expédition et partenaire de Robert Sarmast en 2004 puis en 2006.
+Au cours de notre soirée sociale du vendredi soir, les parties intéressées peuvent choisir de prendre un verre, puis rejoindre le commodore Robert Bates dans une salle adjacente pour présenter « Expédition vers Eden : une mise à jour spéciale sur la recherche archéologique en cours pour le premier jardin ». Il partagera sa nouvelle interprétation des données. Vous savez peut-être que le « Capitaine Bates » était le chef d'expédition et partenaire de Robert Sarmast en 2004 puis en 2006.
 
 ### La vie de famille
 Le programme de cet été comprendra également une table ronde sur la vie familiale conçue pour éduquer, soutenir et encourager la participation des familles aux activités de révélation. De nombreux documents d'inspiration spirituelle ont été créés et seront mis à la disposition des participants.
@@ -120,13 +120,13 @@ Des bénévoles sur place seront nécessaires pour aider à l’inscription, à 
 
 Le comité de planification a prévu de nombreuses autres présentations et activités engageantes pour favoriser la croissance et une camaraderie réconfortante.
 
-L’heure de la session d’études d’été approche ! Êtes-vous inscrit? Vous pouvez vous inscrire à la conférence et à la retraite sur www.regonline.com/Urantia_Fellowship_SSS18
+L’heure de la session d’études d’été approche ! Êtes-vous inscrit? Vous pouvez vous inscrire à la conférence et à la retraite sur www.regonline.com/Urantia_Fellowship_SSS18
 
 Veuillez contacter Paula Thompson au 303-467-7858 pour toute question concernant l’inscription.
 
 ## Ouvertures du GC
 
-Il y a un total de 36 sièges au Conseil général (GC) et au moins 12 de ces sièges seront ouverts aux élections cet été. Pour être éligible, une personne doit être membre de la Fellowship, soit un membre ordinaire, soit un membre de la société. La constitution de la Communauté exige que vous ayez lu _Le Livre d'Urantia_ dans son intégralité, au moins une fois, comme autre condition préalable au service. Pour en savoir plus sur le Conseil Général à partir de notre Constitution, rendez-vous ici : http://www.urantia-book.org/Constitution/Constitution2013-02-09.pdf
+Il y a un total de 36 sièges au Conseil général (GC) et au moins 12 de ces sièges seront ouverts aux élections cet été. Pour être éligible, une personne doit être membre de la Fellowship, soit un membre ordinaire, soit un membre de la société. La constitution de la Communauté exige que vous ayez lu _Le Livre d'Urantia_ dans son intégralité, au moins une fois, comme autre condition préalable au service. Pour en savoir plus sur le Conseil Général à partir de notre Constitution, rendez-vous ici : http://www.urantia-book.org/Constitution/Constitution2013-02-09.pdf
 
 Les conseillers généraux sont généralement élus par l’Assemblée triennale des délégués (TDA). Tous les trois ans, les représentants des sociétés régionales d'Urantia se réunissent avec la tâche de sélectionner ou de réélire 12 conseillers à mandat complet. Un mandat complet dure 9 ans. Il arrive parfois que quelqu’un démissionne avant la fin de son mandat. Le GC occupe ce siège temporairement jusqu’à ce que la TDA puisse élire quelqu’un pour terminer le reste de son mandat.
 
@@ -138,11 +138,11 @@ Il est important de noter que les conseillers doivent être en mesure de couvrir
 
 Faire partie du Conseil général du Fellowship est une expérience incroyable. Certains conseillers généraux ont servi pendant 2, 3 et 4 mandats de 9 ans. Des amitiés durables s'établissent et la beauté de la délibération, de la sagesse de groupe et du travail d'équipe est mise en lumière de manière remarquable et inspirante.
 
-Si, après avoir lu ceci et pris contact avec notre Père, vous sentez que vous aimeriez rejoindre la longue liste des Conseillers Généraux qui ont servi fidèlement le mouvement Urantia pendant 62 ans, remplissez le formulaire de candidature à : http://www.urantiabook.org/Default.aspx?PageID=14753845&A=SearchResult&SearchID=15288748&ObjectID=14753845&ObjectType=1 ou recherchez « Application for Organizational Seervice ».
+Si, après avoir lu ceci et pris contact avec notre Père, vous sentez que vous aimeriez rejoindre la longue liste des Conseillers Généraux qui ont servi fidèlement le mouvement Urantia pendant 62 ans, remplissez le formulaire de candidature à : http://www.urantiabook.org/Default.aspx?PageID=14753845&A=SearchResult&SearchID=15288748&ObjectID=14753845&ObjectType=1 ou recherchez « Application for Organizational Seervice ».
 
 ## Répandre la joie de la révélation
 
-Vous êtes-vous déjà demandé à quoi aurait ressemblé votre vie sans _Le Livre d'Urantia_ ? Au sein de la Fellowship, nous nous sommes posés cette question et nous constatons que nous ne pouvons pas imaginer la vie sans la révélation ; et cela a profondément déterminé nos efforts constants pour diffuser la révélation dans le monde.
+Vous êtes-vous déjà demandé à quoi aurait ressemblé votre vie sans _Le Livre d'Urantia_ ? Au sein de la Fellowship, nous nous sommes posés cette question et nous constatons que nous ne pouvons pas imaginer la vie sans la révélation ; et cela a profondément déterminé nos efforts constants pour diffuser la révélation dans le monde.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2018_Summer/005931.jpg">
@@ -154,12 +154,12 @@ Au cours du premier trimestre 2018 seulement, le Pipeline a placé 456 exemplair
 
 Depuis trois décennies, le comité de sensibilisation de la Fellowship a été très actif de diverses manières. Se concentrant particulièrement aux États-Unis, ce comité envoie des volontaires dans des salons du livre, sur des campus universitaires et dans d'autres lieux pour présenter le Livre d'Urantia à des personnes de tous horizons. La plupart d’entre eux n’ont jamais entendu parler du livre auparavant. Les lecteurs intéressés par ces présentations peuvent également recevoir un Livre d'Urantia gratuit sur demande en remplissant une carte fournie par le représentant de la Fraternité. Grâce au Comité de sensibilisation, les Livres d'Urantia atteignent désormais de nouveaux lecteurs à travers le pays via un programme de livres de prison. La réponse dans ce domaine est encourageante.
 
-Pour tenir tous nos lecteurs informés des activités de développement de la communauté de la Fellowship, le comité des publications produit trois types de communications différents : un bulletin d'information mensuel en ligne, le Mini Messenger, un Mighty Messenger imprimé semestriel avec des nouvelles des événements à venir, et le Fellowship Herald présentant les meilleures pensées et idées de personnes qui ont été inspirées par la révélation. Ce ne sont là que quelques-uns des projets auxquels participent les membres de la Fellowship depuis plus de 60 ans, mais les coûts, les besoins et les opportunités n’ont cessé d'augmenter. Vous avez contribué à de merveilleuses réalisations dans le passé, mais nous pouvons et devons faire bien davantage pour apporter cette révélation au monde.
+Pour tenir tous nos lecteurs informés des activités de développement de la communauté de la Fellowship, le comité des publications produit trois types de communications différents : un bulletin d'information mensuel en ligne, le Mini Messenger, un Mighty Messenger imprimé semestriel avec des nouvelles des événements à venir, et le Fellowship Herald présentant les meilleures pensées et idées de personnes qui ont été inspirées par la révélation. Ce ne sont là que quelques-uns des projets auxquels participent les membres de la Fellowship depuis plus de 60 ans, mais les coûts, les besoins et les opportunités n’ont cessé d'augmenter. Vous avez contribué à de merveilleuses réalisations dans le passé, mais nous pouvons et devons faire bien davantage pour apporter cette révélation au monde.
 
 Veuillez faire un don à la Fellowship.
-Appelez-nous au 1-877-288-3772 ou envoyez un chèque par la poste à :
+Appelez-nous au 1-877-288-3772 ou envoyez un chèque par la poste à :
 Bourse _Le Livre d'Urantia_, PO Box 6631, Broomfield, CO 80021
-Ou allez en ligne sur www.urantiabook.org et choisissez « faire un don » dans la barre de navigation centrale principale. Merci, nous apprécions profondément votre soutien et votre service affectueux !
+Ou allez en ligne sur www.urantiabook.org et choisissez « faire un don » dans la barre de navigation centrale principale. Merci, nous apprécions profondément votre soutien et votre service affectueux !
 
 
 > **Rassemblements - Nord-Ouest**
@@ -190,7 +190,7 @@ Les deux principaux projets de notre Société sont le parrainage de « 2x2=More
 
 UCNOW, la communauté régionale des étudiants du Livre d'Urantia du Nord-Ouest, est composée de lecteurs de l’Alaska, de la Colombie-Britannique, de l’Idaho, de l’Oregon et de Washington. Nous attirons également souvent des amis des États ou provinces voisins. Nous organiserons notre deuxième rassemblement régional au lac Wallowa, situé dans le coin nord-est de l’Oregon, à l’extérieur de la belle et pittoresque ville de Joseph, dans l’Oregon. Le rassemblement au lac Wallowa aura lieu du 6 au 9 septembre. Nous accueillerons 80 à 100 personnes de notre région et quelques-unes de régions plus éloignées. Notre rassemblement de 2015 a eu lieu au Mont Hood dans l’Oregon et s’intitulait Gathering at the Hood. Ce fut un grand succès et très agréable, nous attendons donc avec impatience le prochain événement. Notre thème pour ce rassemblement d’automne est « Relations croissantes : humain + divin ». Pour plus d’informations sur le rassemblement, veuillez visiter ucnow.net.
 
-Les Alaskiens adorent voyager, tout comme nous aimons découvrir le monde ! Beaucoup de nos membres ont pris leur retraite dans des climats plus chauds, mais continuent de participer et de soutenir nos projets. Nos dirigeants comprennent : le président ; Barbara Maier, vice-présidente ; Anthony Finstad, secrétaire ; Randy Tomson, trésorier ; Jackie Koury
+Les Alaskiens adorent voyager, tout comme nous aimons découvrir le monde ! Beaucoup de nos membres ont pris leur retraite dans des climats plus chauds, mais continuent de participer et de soutenir nos projets. Nos dirigeants comprennent : le président ; Barbara Maier, vice-présidente ; Anthony Finstad, secrétaire ; Randy Tomson, trésorier ; Jackie Koury
 
 > **Rassemblements - Midwest**
 {.is-info}
@@ -226,7 +226,7 @@ Dîner-partage • Programme de célébration de l’anniversaire de Jésus • 
 
 Le Tennis Shelter est sur Sugar Creek et pourra accueillir jusqu’à 96 personnes à l’intérieur (en cas d'intempéries). Cheminée et 2 barbecues, nombreux parkings, toilettes à proximité, piscine extérieure, centre nature, courts de tennis, sentiers de randonnée, centre équestre, accessible aux personnes handicapées, camping, tubing, canoë, golf et karting sont également disponibles à quelques minutes seulement du refuge. Pour ceux qui souhaitent un séjour plus long, des chalets et des lodges sont disponibles avec un restaurant à service complet, une piscine intérieure et une salle de jeux.
 
-C'est le pays des ponts couverts - pittoresque et magnifique et il y a beaucoup à faire pour divertir toute la famille ! Les frais d'entrée au parc d'État s'élèvent à \$7 per car for Indiana residents / \$9 par voiture pour les résidents de l’extérieur de l’État / 2 \$ par personne pour les vélos/bus.
+C'est le pays des ponts couverts - pittoresque et magnifique et il y a beaucoup à faire pour divertir toute la famille ! Les frais d'entrée au parc d'État s'élèvent à \$7 per car for Indiana residents / \$9 par voiture pour les résidents de l’extérieur de l’État / 2 \$ par personne pour les vélos/bus.
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2018_Summer/005935.jpg">
@@ -331,14 +331,14 @@ Si vous êtes nouveau dans _Le Livre d'Urantia_, vous voudrez peut-être consult
 
 Urantia Speaks est un nouveau format original et une assemblée virtuelle de participants à l’LU, dans un cercle de camaraderie, nous sommes réunis dans l’étude de ce chef-d'œuvre de révélation spirituelle, réunis dans une expérience partagée de ministère d'amour, de récitation contemplative et d'apprentissage cosmique supérieur. des enseignements sublimes du matériel Urantia.
 
-Nous explorons, partageons et réalisons de manière réfléchie dans ces récits exaltés, des vérités divines, découvertes dans ces extraordinaires et plus belles révélations de la 5e époque ; nous nous ouvrons à une nouvelle illumination expérientielle des Créateurs Universels, Éternels et Infinis, de leurs associés divins, de la famille cosmique lointaine de la création, de l’origine, de la nature et de la destinée d'innombrables ordres de personnalité, de la structure et de l’organisation du vaste univers d'univers, et une présentation révélatrice spectaculaire et complète de la vie et des enseignements de Christ Michael. Tout au long des Cahiers d'Urantia, nous trouvons une révélation profonde de l’évolution, du but et du plan pour chaque personne, l’humanité et notre monde Urantia englobant le cercle sans fin des âges éternels ! Urantia Speaks Podcast, diffusé tous les dimanches, vous pouvez accéder au podcast et aux archives ici : https://nadum.podb
+Nous explorons, partageons et réalisons de manière réfléchie dans ces récits exaltés, des vérités divines, découvertes dans ces extraordinaires et plus belles révélations de la 5e époque ; nous nous ouvrons à une nouvelle illumination expérientielle des Créateurs Universels, Éternels et Infinis, de leurs associés divins, de la famille cosmique lointaine de la création, de l’origine, de la nature et de la destinée d'innombrables ordres de personnalité, de la structure et de l’organisation du vaste univers d'univers, et une présentation révélatrice spectaculaire et complète de la vie et des enseignements de Christ Michael. Tout au long des Cahiers d'Urantia, nous trouvons une révélation profonde de l’évolution, du but et du plan pour chaque personne, l’humanité et notre monde Urantia englobant le cercle sans fin des âges éternels ! Urantia Speaks Podcast, diffusé tous les dimanches, vous pouvez accéder au podcast et aux archives ici : https://nadum.podb
 
 ## Évènements à venir
 
-- **Session d'études d'été de la bourse**, du 19 au 22 juillet « It's a Friendly Universe », Techny Towers Conference Center, Northbrook, Illinois. Inscrivez-vous sur : www.regonline.com/Urantia_Fellowship_SSS18. Pour toute question concernant l’inscription, contactez Paula Thompson au 303-467-7858. Pour plus d'informations, visitez : http://www.urantiabook.org/announcements/urantia-conference-summer-study-session-northbrook-il
-- **Conférence régionale du Midwest**, Madison, WI, du 22 au 24 juin 2018 Living the Teachings – Families in Action Inscription et informations complémentaires : https://sites.google.com/view/urantiawisconsin/home
+- **Session d'études d'été de la bourse**, du 19 au 22 juillet « It's a Friendly Universe », Techny Towers Conference Center, Northbrook, Illinois. Inscrivez-vous sur : www.regonline.com/Urantia_Fellowship_SSS18. Pour toute question concernant l’inscription, contactez Paula Thompson au 303-467-7858. Pour plus d'informations, visitez : http://www.urantiabook.org/announcements/urantia-conference-summer-study-session-northbrook-il
+- **Conférence régionale du Midwest**, Madison, WI, du 22 au 24 juin 2018 Living the Teachings – Families in Action Inscription et informations complémentaires : https://sites.google.com/view/urantiawisconsin/home
 - **Urantian Communities Northwest (UCNOW)** Rassemblement 2018 au camp de Wallowa Lake, Joseph, OR, du 6 au 9 septembre 2018 « Cultiver des relations éternelles » Pour information : inscription2018@ucnow.net.
-- **Fête d'anniversaire de Jésus**, Turkey Run State Park, Indiana – dimanche. 19 août, 11 h HAE. Abri de tennis sur Sugar Creek. Pour plus d'informations : https://www.turkeyrunstatepark.com/ ou http://www.in.gov/dnr/parklake/2964.htm lecteurs LU des États voisins sont les bienvenus.
+- **Fête d'anniversaire de Jésus**, Turkey Run State Park, Indiana – dimanche. 19 août, 11 h HAE. Abri de tennis sur Sugar Creek. Pour plus d'informations : https://www.turkeyrunstatepark.com/ ou http://www.in.gov/dnr/parklake/2964.htm lecteurs LU des États voisins sont les bienvenus.
 
 ## Personnel du « The Mighty Messenger »
 

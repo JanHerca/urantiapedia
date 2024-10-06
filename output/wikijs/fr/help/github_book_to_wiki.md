@@ -33,7 +33,7 @@ Pour convertir ces fichiers JSON au format Wiki.js, suivez ces étapes :
 - Cliquez sur *Exécuter*.
 - Si tout est correct, *Conversion exécutée avec succès* apparaîtra. En cas d'erreurs, la liste des erreurs apparaîtra. Dans ce cas, il est conseillé de signaler l'erreur à l'un des utilisateurs *développeurs*.
 
-![](/image/upt_json_wiki.png)
+![](/image/help/upt_json_wiki.png)
 
 Les fichiers de sortie sont au format HTML. 197 fichiers seront générés, un pour chaque article du *Livre d'Urantia*.
 

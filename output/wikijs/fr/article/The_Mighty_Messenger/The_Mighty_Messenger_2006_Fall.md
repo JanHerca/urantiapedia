@@ -130,7 +130,7 @@ Dire au revoir à quelqu’un comme John Hales, qui a été notre directeur au c
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/Al_Lockett.jpg">
 </figure>
 
-**Al Lockett** est un religieux dévoué et un lecteur et étudiant du _Livre d'Urantia_ depuis 34 ans. Il a été l’un des premiers enseignants de l’École Internet du Livre d'Urantia (LUIS) et un ancien membre du conseil d'administration. Il est musicien, compositeur et possède une vaste expérience en tant que conférencier sur des sujets tels que : les bénédictions déguisées, prêcher par l’exemple, quand la croyance devient foi, l’expérience suprême de la vie et l’esprit de Jésus. Al est titulaire d'un B.A. en psychologie, M.Ed. en technologie de l’enseignement et termine actuellement un doctorat en technologie éducative et développement cognitif.
+**Al Lockett** est un religieux dévoué et un lecteur et étudiant du _Livre d'Urantia_ depuis 34 ans. Il a été l’un des premiers enseignants de l’École Internet du Livre d'Urantia (LUIS) et un ancien membre du conseil d'administration. Il est musicien, compositeur et possède une vaste expérience en tant que conférencier sur des sujets tels que : les bénédictions déguisées, prêcher par l’exemple, quand la croyance devient foi, l’expérience suprême de la vie et l’esprit de Jésus. Al est titulaire d'un B.A. en psychologie, M.Ed. en technologie de l’enseignement et termine actuellement un doctorat en technologie éducative et développement cognitif.
 
 **Durée de trois ans**
 
@@ -144,7 +144,7 @@ Dire au revoir à quelqu’un comme John Hales, qui a été notre directeur au c
 
 Partout sur cette planète, des gens s'efforcent de faire de l’amour de notre Père une réalité en s'associant avec d'autres pour accomplir de bonnes œuvres et apporter des changements positifs et durables dans un service aimant et dirigé par l’esprit. Nous aimerions entendre parler de vos aventures de service ou de celles d’autres personnes que vous connaissez.
 
-Beaucoup de membres de notre famille Urantia sont également dans les tranchées pour faire le travail de notre Père du Paradis et de notre Mère Spirituelle. Une partie de ce travail représente un effort important, d’autres à plus petite échelle. Les exemples sont :
+Beaucoup de membres de notre famille Urantia sont également dans les tranchées pour faire le travail de notre Père du Paradis et de notre Mère Spirituelle. Une partie de ce travail représente un effort important, d’autres à plus petite échelle. Les exemples sont :
 - Notre ministère personnel auprès des boursiers - vivre une vie de service dirigé par l’esprit dans notre vie quotidienne.
 - Le Pipeline de Lumière - distribue les Livres d'Urantia partout dans le monde
 - Écoles gratuites - Offre une éducation gratuite aux jeunes filles pauvres en Inde
@@ -159,12 +159,12 @@ Beaucoup de membres de notre famille Urantia sont également dans les tranchées
 - Conférences Offrir un lieu et un moment permettant aux gens de socialiser et d'apprendre.
 - Tout service pour lequel nous sommes conduits par l’esprit à servir.
 
-Comme vous pouvez le constater, le thème des conférences de 2008 est « Le frisson du service aimant ». Notre objectif est d’élargir notre compréhension de ce que signifie être au service et de la manière dont nous sommes guidés par l’esprit pour trouver ces opportunités. Nous avons besoin de votre aide. Envisageriez-vous de partager avec nous le travail de service que vous effectuez ? Partager votre travail nous aidera à organiser les ateliers et les conférenciers de la conférence et nous donnera un meilleur aperçu du chemin du service spirituel.
+Comme vous pouvez le constater, le thème des conférences de 2008 est « Le frisson du service aimant ». Notre objectif est d’élargir notre compréhension de ce que signifie être au service et de la manière dont nous sommes guidés par l’esprit pour trouver ces opportunités. Nous avons besoin de votre aide. Envisageriez-vous de partager avec nous le travail de service que vous effectuez ? Partager votre travail nous aidera à organiser les ateliers et les conférenciers de la conférence et nous donnera un meilleur aperçu du chemin du service spirituel.
 
 Nous avons une vision précise pour cette conférence et partager votre travail nous aidera à intégrer votre expérience et votre sagesse dans la conférence. Nous l’apprécions tellement. Veuillez répondre le plus tôt possible en nous faisant savoir ce que vous faites ou ce que vous désirez faire. La planification est actuellement en cours.
 
 Si vous avez des questions à ce sujet, veuillez nous contacter à IC08@urantiabook.org
-Si vous devez nous joindre par courrier ordinaire, veuillez l’envoyer à :
+Si vous devez nous joindre par courrier ordinaire, veuillez l’envoyer à :
 Susan Cook
 415, avenue Shannon
 Smithville, MO 64089
@@ -182,7 +182,7 @@ Comment faisons-nous ça? Toutes les manières auxquelles nous pouvons penser. P
 
 Nous avons expérimenté ces derniers mois de nouvelles idées. Nous envoyons des cartes postales échangeables contre un livre aux bénévoles de Pipeline lorsqu’ils voyagent, afin qu’ils n'aient pas à emballer autant de caisses de vrais livres. Aux États-Unis, nous avions un lecteur créatif qui achetait lui-même un livre et l’envoyait directement à un étudiant du séminaire en Zambie. Au fil du temps, je suis sûr que nous trouverons de nombreuses façons de maintenir le flux de la révélation vers le monde.
 
-Votre soutien au Pipeline de Lumière permet à la révélation de circuler vers ces coins proverbiaux de la terre. Aidez nous s'il vous plaît! Les dons sont acceptés en ligne à http://urantiabook.org./support.htm ou par courrier à : _The Urantia Book_ Fellowship, P.O. Boîte postale 4583, Grand Central Station, New York, N Y. 10163.
+Votre soutien au Pipeline de Lumière permet à la révélation de circuler vers ces coins proverbiaux de la terre. Aidez nous s'il vous plaît! Les dons sont acceptés en ligne à http://urantiabook.org./support.htm ou par courrier à : _The Urantia Book_ Fellowship, P.O. Boîte postale 4583, Grand Central Station, New York, N Y. 10163.
 
 > Le navire social est sorti des havres abrités de la tradition établie ; il a commencé sa croisière sur les hautes mers de la destinée évolutionnaire. ... (<a id="a186_157"></a>[LU 99:1.3](/fr/The_Urantia_Book/99#p1_3))
 
@@ -190,11 +190,11 @@ Votre soutien au Pipeline de Lumière permet à la révélation de circuler vers
 
 Notre bon navire « Urantia » a quitté le port !
 
-Alimentez ses moteurs avec vos dollars !
+Alimentez ses moteurs avec vos dollars !
 
 Veuillez promettre une heure de gains par mois à la Fellowship du Livre d'Urantia.
 
-Sa mission est claire, alors cliquez ici ! https://urantiabook.sitespace.com/support
+Sa mission est claire, alors cliquez ici ! https://urantiabook.sitespace.com/support
 
 Notre page de contributions en ligne est simple, rapide et sécurisée. Une magnifique édition spéciale du Livre d'Urantia en cuir sera envoyée à toute personne qui s'inscrit pour une contribution mensuelle de débit automatique de 20,00 $. Vous pouvez également faire un don unique dans l’enveloppe fournie.
 
@@ -216,7 +216,7 @@ L’expérience n’a pas de prix quand on y ajoute les amitiés créées dans c
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/005640.jpg">
 </figure>
 
-## Merci, John Hales !
+## Merci, John Hales !
 
 <figure id="Figure_12" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/005641.jpg">
@@ -289,7 +289,7 @@ Certains souvenirs impérissables étaient le fait d'être à 15 000 pieds d'alt
 
 ## Liens externes
 
-* Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
+* Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
 
 
 

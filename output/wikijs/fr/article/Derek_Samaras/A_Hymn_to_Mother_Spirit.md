@@ -54,7 +54,7 @@ Oh! Grand Esprit de tous !
 
 Vous êtes le premier et le dernier. Vous seul êtes la source de tout ce qui est vrai, beau et bon. Merci en ce jour de la mère. Merci pour la mère. Que tous les êtres de votre création divine l’aident dans le service sublime qu’elle exécute si magistralement pour ses enfants de l’espace et du temps. Aide-nous, père, à être courageux dans notre honnêteté et compatissant dans notre caractère. S'il te plaît, père, rafraîchis nos esprits et renouvelle nos esprits. Aide-nous à être conscients de nous-mêmes et des autres. Aide-nous à renouer avec la personnalité éternelle et aimante qui est notre mère à tous.
 
-Oh, sois bénie, Mère !
+Oh, sois bénie, Mère !
 
 Ma douce rivière de tolérance, Ma Montagne de miséricorde, Mon champ infini de compréhension bienveillante. Vos vents chantent l’inspiration. Votre beauté perce la brume de l’indécision comme la colombe s'envole gracieusement à travers le ciel rempli d'aube, se découpant à jamais dans le cœur de son public affectueux. 
 

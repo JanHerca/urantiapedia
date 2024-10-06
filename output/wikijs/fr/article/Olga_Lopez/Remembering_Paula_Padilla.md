@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Olga López, trustee , Fondation Urantia, Vilanova i la Geltrú, Espagne_
 
-_Note de l'éditeur : Paula était un membre bien-aimé de l'École internationale du Livre d'Urantia (UBIS). Elle a rejoint l’équipe espagnole en juin 2020 et a commencé à animer des cours en avril 2021._
+_Note de l'éditeur : Paula était un membre bien-aimé de l'École internationale du Livre d'Urantia (UBIS). Elle a rejoint l’équipe espagnole en juin 2020 et a commencé à animer des cours en avril 2021._
 
 Paula Padilla, une lectrice très active du _Livre d'Urantia_ dans la communauté latino-américaine et résidant à Cancun, au Mexique, a poursuivi son voyage vers le Paradis le vendredi 12 mai. Psychologue de profession, bien que retraitée depuis quelques années, elle était une étudiante exceptionnelle de la branche espagnole d'UBIS.
 
@@ -52,10 +52,10 @@ J'ai eu l'occasion de la rencontrer en personne lors de la conférence des lecte
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/013.jpg">
-<figcaption><em>Paula Padilla</em></figcapton>
+<figcaption><em>Paula Padilla</em></figcaption>
 </figure>
 
-Pour témoigner de la grande empreinte qu'elle a laissée à l'UBIS, j'aimerais partager quelques mots de certains de ses collègues enseignants-animateurs :
+Pour témoigner de la grande empreinte qu'elle a laissée à l'UBIS, j'aimerais partager quelques mots de certains de ses collègues enseignants-animateurs :
 
 **_Ulises Pedrique (États-Unis)_**
 
@@ -79,11 +79,11 @@ Paula a fidèlement démontré son esprit de coopération, elle avait une tactiq
 
 Coordinatrice pratique et organisée, Paula était efficace dans son travail avec le comité des professeurs, ainsi qu'en tant que formatrice d'enseignants-animateurs. Sa bonne humeur et son bon caractère étaient toujours au rendez-vous, et elle aimait manifestement ce qu'elle faisait. Sa présence et sa persévérance ont contribué à générer le nombre nécessaire de cours d'espagnol.
 
-Je me souviendrai toujours avec affection du dévouement de Paula, de sa manière ferme mais pleine de tact de traiter notre groupe, de sa formidable organisation et de sa joie !
+Je me souviendrai toujours avec affection du dévouement de Paula, de sa manière ferme mais pleine de tact de traiter notre groupe, de sa formidable organisation et de sa joie !
 
 **_Wanda Veloz (République dominicaine)_**
 
-Paula, avec sa douceur, mais aussi avec sa fermeté, a réussi à trouver des volontaires pour animer des cours d'une manière très fluide et magnifique. Elle était extrêmement organisée, et lorsqu'elle nous invitait à nous rencontrer pour parler des cours à donner, elle venait préparée ! Elle réussissait également à recruter des mentors pour les nouveaux animateurs. Qui pouvait dire non à Paula quand elle vous abordait avec autant d'enthousiasme, de ferme subtilité et de joie ?
+Paula, avec sa douceur, mais aussi avec sa fermeté, a réussi à trouver des volontaires pour animer des cours d'une manière très fluide et magnifique. Elle était extrêmement organisée, et lorsqu'elle nous invitait à nous rencontrer pour parler des cours à donner, elle venait préparée ! Elle réussissait également à recruter des mentors pour les nouveaux animateurs. Qui pouvait dire non à Paula quand elle vous abordait avec autant d'enthousiasme, de ferme subtilité et de joie ?
 
 Parfois, je me demande comment nous allons faire sans ses conseils. Mais je réalise qu'elle nous a montré par son grand exemple comment continuer et maintenir vivant le bel héritage qu'elle nous a laissé - son sourire, sa sagesse et son grand cœur.
 

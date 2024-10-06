@@ -59,7 +59,7 @@ So again, thanks so much for the love, support, and generosity. God bless you al
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2023_06/023.jpg">
-<figcaption><em>“Spreading the Good News” Tour - Pato Banton</em></figcapton>
+<figcaption><em>“Spreading the Good News” Tour - Pato Banton</em></figcaption>
 </figure>
 
 ## References

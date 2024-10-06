@@ -40,7 +40,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 &nbsp; | &nbsp;
 --- | ---
-27-29 DE MARZO | La Fellowship de Lectores del Libro de Urantia de Arkansas presenta el tema: «Amor: divino y dinámico». Eureka Springs, Arkansas. Comuníquese con John Lange (501) 782-3263 o escriba a AR Fellowship \#5 Wynona Dr. Ft. Herrero AR 72901.
+27-29 DE MARZO | La Fellowship de Lectores del _Libro de Urantia_ de Arkansas presenta el tema: «Amor: divino y dinámico». Eureka Springs, Arkansas. Comuníquese con John Lange (501) 782-3263 o escriba a AR Fellowship \#5 Wynona Dr. Ft. Herrero AR 72901.
 17-19 DE ABRIL | «Mudarse al Campamento Powell» La Sociedad del Gran Cañón está patrocinando una vida en un campamento junto al mar muy parecida a la que vivió Jesús con sus apóstoles. En Lake Powell, escriba a Crystal Harris, P.O. Caja 2621, Scottsdale, AZ 85251. (602) 934-7906
 8-10 DE MAYO | Retiro de aventuras en la vida espiritual cerca de Vancouver B.C. Canadá. Comuníquese con Gwen/Norm Knighton (604) 534-1178 o Alice/Eef Hoedemaker (604) 856-8323
 22-25 DE MAYO | Conferencia estatal de Florida. Tema: «Transformación Personal». Comuníquese con Bill Rand, 903 Lakeshore Drive \#301, Lake Park, FL, 33403 o llame a Dan Amyx (813) 835-4517.
@@ -49,7 +49,7 @@ dateCreated: 2023-10-23T10:55:6Z
 12-14 DE JUNIO | Conferencia Regional Noreste en Simon's Rock College. Tema «Compartiendo el viaje». Gran Barrington, Massachusetts. Contacto, Sandy Rogers (508) 432-4999.
 17-19 DE JULIO | Retiro de fin de semana para Descanso y Renovación Espiritual. Tema: «Practicando la Presencia». Valle de Canaán, WV. Comuníquese con Buddy Roogow (301) 461-9603.
 28 DE JUNIO AL 2 DE JULIO | El seminario intensivo de verano de la ISS de 1992 en Lake Forest, IL. Póngase en contacto con la Fellowship para obtener más detalles.
-1-8 DE AGOSTO | Tercer Encuentro Internacional de Lectores del Libro de Urantia en Francia, Maison Saint Gerard, Haguenau Francia. Tema: «Tener - Ser - Hacer». Comuníquese con Georges o Marlene Dupont, \#3 Bis Grande Rue, 77940 Blennes, Francia. Telf. 64.31 .0221 .
+1-8 DE AGOSTO | Tercer Encuentro Internacional de Lectores del _Libro de Urantia_ en Francia, Maison Saint Gerard, Haguenau Francia. Tema: «Tener - Ser - Hacer». Comuníquese con Georges o Marlene Dupont, \#3 Bis Grande Rue, 77940 Blennes, Francia. Telf. 64.31 .0221 .
 7-9 DE AGOSTO | Centro St. Benedict de la Conferencia del Medio Oeste, Madison, WI. Tema: «Prerrogativas de poder, planetarias y personales». Comuníquese con Dennis/Susan Brodsky (800) 872-6842
 20-23 DE AGOSTO | Un retiro familiar/celebración del cumpleaños de Jesús, Mt. Rainier Ashford, WA. Con el apoyo de: Pilot Light Society. Llame a Tony Finstad (206) 485-8266.
 21 DE AGOSTO | Una tradición anual para la Sociedad de Oklahoma, Celebración del Cumpleaños de Jesús. Comuníquese con Jeralie Scanlan (405) 691-8142
@@ -60,7 +60,7 @@ dateCreated: 2023-10-23T10:55:6Z
 9-12 DE OCTUBRE | Conferencia australiana. Centro de conferencias Elanora-Sidney. Tema: «La naturaleza humana y los Doce Apóstoles». Comuníquese con Trevor y Kathleen Swadling (02) 9137893.
 16-18 DE OCTUBRE | Conferencia anual y reunión de negocios de la Sociedad de Ontario para Lectores de _El Libro de Urantia_. Guelph, Ontario. Contacto: Bob Jones (519) 657-8080.
 16-18 DE OCTUBRE | Aventuras en la vida espiritual, en MO Ranch Conference Center, Hunt, TX (cerca de San Antonio) Contacto: Skip/Carol Weatherford (713) 363-1652
-24 DE OCTUBRE | Evento de cosecha de otoño en Austin, TX, patrocinado por el Grupo de Estudio del Libro de Urantia de Austin. Contacto: Tim/Kitty Traylor, 100 W Odell, Austin, TX 78752 (512) 451-9479.
+24 DE OCTUBRE | Evento de cosecha de otoño en Austin, TX, patrocinado por el Grupo de Estudio del _Libro de Urantia_ de Austin. Contacto: Tim/Kitty Traylor, 100 W Odell, Austin, TX 78752 (512) 451-9479.
 7-8 DE NOVIEMBRE | Primer Foro de Otoño de la Sociedad de Oklahoma. Contacto: Warren Litchfield (405) 794-2978
 
 

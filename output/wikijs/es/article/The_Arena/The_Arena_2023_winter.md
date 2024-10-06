@@ -69,7 +69,7 @@ _ANZURA está diseñado para fomentar el estudio de_ _El Libro de Urantia_ _y ay
 
 Esto es lo que pretendemos al fomentar y promover las Jornadas de Estudio regionales, conferencias y grupos de estudio semanales o mensuales presenciales y en línea. El boletín _Arena_ es a la vez una herramienta de información sobre estas actividades y un archivo histórico.
 
-Otras actividades en las que pueden participar los lectores del Libro de Urantia en Australia y Nueva Zelanda son una amplia gama de opciones ofrecidas por otras asociaciones constituyentes de la Asociación Urantia Internacional de todo el mundo. Internet lo está haciendo todo posible.
+Otras actividades en las que pueden participar los lectores del _Libro de Urantia_ en Australia y Nueva Zelanda son una amplia gama de opciones ofrecidas por otras asociaciones constituyentes de la Asociación Urantia Internacional de todo el mundo. Internet lo está haciendo todo posible.
 
 [Leer más](/es/article/Rita_Schaad/Presidents_Report_Winter_2023)
 <br style="clear:both;"/>
@@ -210,7 +210,7 @@ Ser estudiante de _El Libro de Urantia_ me ha inspirado a pensar en formas en la
 
 **1\. Promoción regular de libros**
 
-Organizo un stand de promoción regular del Libro de Urantia en los mercados; a la que suelo asistir es _La Feria Psíquica de la Reina de Bastos_.
+Organizo un stand de promoción regular del _Libro de Urantia_ en los mercados; a la que suelo asistir es _La Feria Psíquica de la Reina de Bastos_.
 
 Esta feria se celebra una vez al mes y cada vez se traslada a un lugar diferente, por lo que siempre hay variedad de personas que vienen a visitarla. A mí particularmente me gustan este tipo de eventos porque la gente está un poco más abierta a discutir cosas de carácter esotérico. No huyen como conejos asustados si les menciono la palabra Dios, Ángeles, Espíritus o Universal, etc.
 
@@ -253,7 +253,7 @@ Marion Steward, Nueva Zelanda
 
 El invierno ya está aquí en nuestra parte del mundo, y hemos estado disfrutando tanto de días soleados como de noches bastante frías durante las últimas semanas. En Auckland, especialmente, los días soleados han sido un cambio bienvenido con respecto a la ronda aparentemente interminable de fuertes lluvias y tormentas que nos han afligido desde finales de enero. No ha habido suficiente tiempo entre estos eventos climáticos para limpiar después de las inundaciones y reparar carreteras, etc., y en este momento es muy difícil para muchas personas en diferentes partes de la Isla Norte.
 
-¡He estado reflexionando sobre el estímulo del Libro de Urantia a «deleitarnos con la incertidumbre»!
+¡He estado reflexionando sobre el estímulo del _Libro de Urantia_ a «deleitarnos con la incertidumbre»!
 
 _...mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a deleitarse con la incertidumbre, a engordar con la desilusión, a entusiasmarse con la aparente derrota, a vigorizarse en presencia de las dificultades, a exhibir un coraje indomable frente a la inmensidad y a ejercer una fe invencible ante el desafío de lo inexplicable_. (<a id="a257_360"></a>[LU 26:5.3](/es/The_Urantia_Book/26#p5_3)).
 
@@ -274,9 +274,9 @@ Administrador
 <img src="/image/article/The_Arena/Korea-23-logo-150x150.jpg" alt="Korea 23 logo">
 </figure>
 
-Hay un número sustancial de lectores del Libro de Urantia en Corea que han estado estudiando la traducción coreana durante muchos años. Como son nuestro vecino más cercano de lectores en la región de Asia, queríamos compartir con ustedes sus últimas noticias sobre una próxima conferencia. Esta es la segunda conferencia celebrada por el Foro Urantia de Corea (UKF) y se llevará a cabo el 20 de agosto de 2023 en el Auditorio Forum Lotte Tower Sky 31 (el edificio más alto de Seúl, Corea). Tiene vista al panorama de Seúl y el río Han.
+Hay un número sustancial de lectores del _Libro de Urantia_ en Corea que han estado estudiando la traducción coreana durante muchos años. Como son nuestro vecino más cercano de lectores en la región de Asia, queríamos compartir con ustedes sus últimas noticias sobre una próxima conferencia. Esta es la segunda conferencia celebrada por el Foro Urantia de Corea (UKF) y se llevará a cabo el 20 de agosto de 2023 en el Auditorio Forum Lotte Tower Sky 31 (el edificio más alto de Seúl, Corea). Tiene vista al panorama de Seúl y el río Han.
 
-Les deseamos una conferencia muy exitosa y rezamos para que ayude a los estudiantes a profundizar su comprensión de los principios y valores del Libro de Urantia con la esperanza de difundir la revelación en su país.
+Les deseamos una conferencia muy exitosa y rezamos para que ayude a los estudiantes a profundizar su comprensión de los principios y valores del _Libro de Urantia_ con la esperanza de difundir la revelación en su país.
 
 Esto es lo que está previsto:
 

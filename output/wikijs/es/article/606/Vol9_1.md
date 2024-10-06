@@ -125,7 +125,7 @@ Cualquiera que haya abrazado totalmente _El Libro de URANTIA_, estoy seguro de q
 
 [Leer más](/es/article/Kathleen_Swadling/The_Urantia_Book_In_200_Years_Time)
 
-## Australia dio la bienvenida al primer lector del Libro de Urantia procedente de Finlandia
+## Australia dio la bienvenida al primer lector del _Libro de Urantia_ procedente de Finlandia
 
 A principios de diciembre de 187 llegó a Melbourne un enérgico joven lapón procedente de Finlandia. Torsti Äärelä, estudiante de teología en la universidad de Helsinki, estaba viajando por Australia tratando de aprender todo lo que pudiera sobre nosotros, los australianos. Después de seis semanas encontró el número de un grupo de estudio de El Libro de URANTIA que figuraba en el directorio telefónico de Melbourne. Después de una semana de ver los lugares de interés aquí y conocer a algunos lectores, partió de nuevo, ansioso por experimentar nuevas aventuras.
 

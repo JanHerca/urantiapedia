@@ -48,7 +48,7 @@ Podemos preguntar, «_¿Por qué es así? ¿Qué hace que ser el anfitrión de u
 
 «_El Ajustador es la realidad universal divina que convierte en un hecho la verdad de que Dios es el Padre del hombre._» <a id="a48_121"></a>[[LU 107:0.6](/es/The_Urantia_Book/107#p0_6)] Es sólo en este sentido espiritual que Dios es el Padre del hombre. Todos sabemos que los hijos e hijas de un padre comienzan la vida como niños, y todos somos «_hijos de Dios._» Dios nos ama como a sus hijos, y podemos amar a Dios de manera similar —como lo hizo Jesús— con «_hijos_ » confianza y cariño.
 
-Muchos de nosotros, quizás la mayoría, hemos sido estudiantes del Libro de Urantia durante algún tiempo y es posible que hayamos alcanzado un cierto nivel de sofisticación espiritual e intelectual. Y tal vez deberíamos darnos crédito por haber respondido a la revelación en la medida en que lo hemos hecho.
+Muchos de nosotros, quizás la mayoría, hemos sido estudiantes del _Libro de Urantia_ durante algún tiempo y es posible que hayamos alcanzado un cierto nivel de sofisticación espiritual e intelectual. Y tal vez deberíamos darnos crédito por haber respondido a la revelación en la medida en que lo hemos hecho.
 
 Sin embargo, también podemos recordar que todo el crecimiento mortal y los logros finitos son relativos. Podríamos recordar que, en nuestra comunión de oración ante Miguel, el Soberano de Nebadon, o en nuestra adoración reverente del Dios infinito, nuestro Padre, encontramos que nosotros también somos simplemente sus «hijitos», mirando maravillados a los rasgos expresivos de su rostro animado y escuchando sus intrigantes historias cósmicas.
 

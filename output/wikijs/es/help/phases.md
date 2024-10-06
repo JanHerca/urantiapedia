@@ -30,11 +30,9 @@ Para crear los enlaces a la *Biblia* se está utilizando el *Paramony*, de Duane
 
 https://urantia-book.org/urantiabook/paramony/
 
-Para crear el *Índice de Términos* se está utilizando con guía el índice creado por la *Urantia Fellowship* para su edición de *El Libro de Urantia* en inglés. Este índice, como contiene sólo anotaciones breves se está expandiendo para convertirlo en un texto completo que sirva de versión inicial para cada página de cada término.
+Para crear el *Índice de Términos* se está utilizando como guía el índice creado por la *Urantia Fellowship* para su edición de *El Libro de Urantia* en inglés. Este índice, como contiene sólo anotaciones breves, se está expandiendo para convertirlo en un texto completo que sirva de versión inicial para cada página de cada término.
 
 https://urantia-book.org/urantiabook/topical_index/index.htm
-
-Esta fase se espera que termine en el Q2 2022.
 
 
 Tareas | Dónde | Quién
@@ -54,8 +52,6 @@ Esta fase expande el contenido de la *Urantiapedia* con tres grandes áreas:
 - Artículos, ayudas de estudio y esquemas de *El Libro de Urantia*. Existen multitud de ellos en las webs de la [Fundación Urantia](https://www.urantia.org/), la [Fellowship](https://urantiabook.org/), las asociaciones Urantia y en webs de particulares. Ningún contenido se publicará sin permiso expreso de los autores siempre que sea posible localizarlos. El contenido podrá subirse en dos modos: edición pública (cualquier editor puede mejorarlo), y edición cerrada (sólo el autor o personas autorizadas por el autor pueden modificarlo). Los artículos podrán incluir también imágenes.
 - Índices, que son o bien páginas con listas de enlaces, o bien páginas en sí mismas que resuman un tema.
 
-Esta fase se espera que termine en el Q2 2023.
-
 
 Tareas | Dónde | Quién
 --- | --- | ---
@@ -67,7 +63,7 @@ Adición de índices de personas, seres, lugares, bíblicos, de referencias, de 
 Carga masiva de los archivos en formato Wiki.js | GitHub | Administradores
 
 <figure id="Sample_fig_1" class="image urantiapedia">
-<img src="/image/sample_page_article.png">
+<img src="/image/help/sample_page_article.png">
 <figcaption><em> Ejemplo de visualización de un artículo.</em></figcaption>
 </figure>
 
@@ -83,8 +79,6 @@ Esta fase es únicamente de desarrollo. En ella se incorporarán dos herramienta
 - Un nuevo tipo de visor de contenidos que permita ver un contenido a doble columna, mostrando dos idiomas de los disponibles al mismo tiempo. Una buena utilidad de esto es poder ver el original en inglés de *El Libro de Urantia* y otro idioma, pero esto serviría para cualquier página y cualquier par de idiomas.
 - También se añadirá una opción para poder seleccionar la traducción deseada al español puesto que hay tres traducciones oficiales de *El Libro de Urantia* al español. Sólo una será la traducción por defecto con la que conectarán los vínculos de otras páginas, pero al mostrar las páginas del libro en español se añadirá una opción que permita pasar de la traducción por defecto a las otras.
 
-Esta fase se espera que termine en Q1 2024.
-
 
 Tareas | Dónde | Quién
 --- | --- | ---
@@ -95,7 +89,7 @@ Desarrollo en Wiki.js de un modo de visualización de *El Libro de Urantia* y cu
 Desarrollo en Wiki.js de un selector de preferencia en la traducción a usar de *El Libro de Urantia* (para idiomas como español con varias) | GitHub | Desarrolladores
 
 <figure id="Sample_fig_2" class="image urantiapedia">
-<img src="/image/sample_page_side_by_side.png">
+<img src="/image/help/sample_page_side_by_side.png">
 <figcaption><em> Ejemplo de visualización lado a lado de El Libro de Urantia.</em></figcaption>
 </figure>
 
@@ -114,8 +108,6 @@ Los desarrollos que se serán necesarios en *Wiki.js* son:
 - Un renderizador en el lado del servidor que convierta el estándar en un visor web que presente el mapa creado.
 - El visor web que presenta el mapa creado en el lado del cliente, una versión simplificada (sin herramientas de edición) del editor de mapas.
 
-Esta fase se espera que finalice en el Q2 2024.
-
 
 Tareas | Dónde | Quién
 --- | --- | ---
@@ -123,7 +115,7 @@ Desarrollo en *Wiki.js* un editor de mapas interactivos, su formato y su renderi
 Adición de una colección de mapas interactivos de ejemplo sobre migraciones de razas, hechos históricos y viajes de Jesús de Nazaret | GitHub | Editores Jefe
 
 <figure id="Sample_fig_3" class="image urantiapedia">
-<img src="/image/sample_page_map.jpg">
+<img src="/image/help/sample_page_map.jpg">
 <figcaption><em> Ejemplo de visualización de un mapa interactivo.</em></figcaption>
 </figure>
 
@@ -141,8 +133,6 @@ Los desarrollos que serán necesarios en *Wiki.js* son:
 - Un renderizador en el lado del servidor que convierta el estándar en un visor web que muestre la presentación creada.
 - El visor web que muestra la presentación en el lado del cliente, una versión simplificada (sin herramientas de edición) del editor de presentaciones.
 
-Esta fase está prevista que finalice en Q2 2025.
-
 
 Tareas | Dónde | Quién
 --- | --- | ---
@@ -151,7 +141,7 @@ Desarrollo en *Wiki.js* de un editor de presentaciones, su formato y su renderiz
 Adición de una colección de presentaciones usando disponibles en algunos sitios web de asociaciones | GitHub | Editores Jefe
 
 <figure id="Sample_fig_4" class="image urantiapedia">
-<img src="/image/sample_page_slides.png">
+<img src="/image/help/sample_page_slides.png">
 <figcaption><em> Ejemplo de visualización de una presentación.</em></figcaption>
 </figure>
 
@@ -171,8 +161,6 @@ Los desarrollos que se serán necesarios en *Wiki.js* son:
 - Integrar en *Wiki.js* un editor de escenas glTF (usando alguno de los anteriores) en el lado del cliente. glTF utiliza JSON como formato.
 - Un renderizador en el lado del servidor que convierta el glTF JSON en un visor web que muestre la escena 3D creada. El visor usado será el correspondiente al editor seleccionado.
 
-Esta fase está prevista que finalice en el Q2 2026.
-
 
 Tareas | Dónde | Quién
 --- | --- | ---
@@ -181,7 +169,7 @@ Desarrollo en *Wiki.js* un editor de modelos 3D interactivos, su formato y su re
 Adición de una colección de modelos 3D, como la Isla del Paraíso, las esferas arquitectónicas, o el Jardín del Eden | GitHub | Editores Jefe
 
 <figure id="Sample_fig_5" class="image urantiapedia">
-<img src="/image/sample_page_3d.jpg">
+<img src="/image/help/sample_page_3d.jpg">
 <figcaption><em> Ejemplo de visualización de un modelo 3D.</em></figcaption>
 </figure>
 

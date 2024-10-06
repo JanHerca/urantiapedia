@@ -38,7 +38,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2022_10/039.jpg">
 </figure>
 
-_De Joanne Strobel, directora ejecutiva de la Escuela Internacional de_ El libro de Urantia_, Georgia (Estados Unidos)_
+_De Joanne Strobel, directora ejecutiva de la Escuela Internacional de_ _El libro de Urantia_, _Georgia (Estados Unidos)_
 
 Al igual que la Fundación Urantia hace crecer las traducciones por amor a la revelación, el fideicomisario Georges Michelson-Dupont ha pasado los últimos 22 años cultivando un programa de educación virtual. La Escuela de _El libro de Urantia_ en Internet (UBIS) ha renovado recientemente su nombre, manteniendo el acrónimo familiar. Con cursos que ahora se ofrecen en siete idiomas, el programa se ha ganado el apelativo de Escuela Internacional de _El libro de Urantia_.
 

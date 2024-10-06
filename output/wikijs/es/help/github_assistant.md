@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## A quién va dirigido este manual
 
-Este manual va dirigido a los usuarios denominados «Editores Asistente», es decir, aquellos usuarios que cumplen los siguientes requisitos:
+Este manual va dirigido a los usuarios denominados «Editores Asistentes», es decir, aquellos usuarios que cumplen los siguientes requisitos:
 - Tienen un cuenta en esta web con permisos de edición. Es la única cuenta necesaria.
 - Tienen un buen conocimiento de *El Libro de Urantia* al menos en un idioma en los que está publicado, pero mejor si es inglés y en un segundo idioma en el que esté traducido el libro.
 - Desean colaborar de forma desinteresada en la incorporación de información relativa a *El Libro de Urantia* en la *Urantiapedia*.

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2024-03-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 <br>
 <div class="urantiapedia-book-front urantiapedia-book-readers">
@@ -398,7 +398,7 @@ dateCreated: 2024-03-28T14:02:03.086Z
 
 ## Prólogo
 
-* [Prólogo de la obra](/es/book/Jan_Herca/Jesus_of_Nazareth_Foreword)
+- [Prólogo de la obra](/es/book/Jan_Herca/Jesus_of_Nazareth_Foreword)
 
 ## Enlaces
 

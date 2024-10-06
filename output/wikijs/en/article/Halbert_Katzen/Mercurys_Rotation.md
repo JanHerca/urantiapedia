@@ -3,7 +3,7 @@ title: "Mercury’s Rotation Report"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Astronomy
+tags: Astronomy, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -118,7 +118,9 @@ Still, even though opinions among astronomers on this subject today are about as
 
 ## External links
 
-* This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/Mercury.pdf
+* [This report in UBTheNews webpage](https://ubannotated.com/wp-content/uploads/2018/03/Mercury.pdf)
+* [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
@@ -142,7 +144,7 @@ Still, even though opinions among astronomers on this subject today are about as
 
 ## Footnotes:
 
-[^1]: <a id="a144_6"></a>[UB 57:6.2](/en/The_Urantia_Book/57#p6_2) This mode of citation to _The Urantia Book_ provides the chapter (referred to as “Papers” in _The Urantia Book_), then the section, followed by the paragraph number. “Urantia” is a coined word with the etymological meaning “(y)our place in heaven.”
+[^1]: <a id="a146_6"></a>[UB 57:6.2](/en/The_Urantia_Book/57#p6_2) This mode of citation to _The Urantia Book_ provides the chapter (referred to as “Papers” in _The Urantia Book_), then the section, followed by the paragraph number. “Urantia” is a coined word with the etymological meaning “(y)our place in heaven.”
 
 [^2]: Physics conventions regarding the use of the terms “rotation” and “revolution” have gravitated toward using the word “rotate” to reference what a sphere may do with respect to its own axis, while “revolution” is used to reference what such a body may do by way of orbiting around another body. Using the terms synonymously, _The Urantia Book_ clearly does not follow this convention. This makes no difference to the issues at hand and has never been a point of contention no matter what position people have had on this topic.
 

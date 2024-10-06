@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-3-july-2022">
+        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-3-juillet-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 3, July 2022 — Table des matières</span>
         </a>
         </td>
@@ -35,7 +35,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 La Fondation Urantia à maintenant une page Facebook en hongrois.
 
-Visitez, s’il vous plaît, et « Aimez » la page.
+Visitez, s’il vous plaît, et « Aimez » la page.
 
 Si vous aimez ce que vous voyez, partagez les messages avec vos amis.
 
@@ -53,7 +53,7 @@ Nous sommes ravis d’annoncer que la traduction en arabe est maintenant disponi
 
 Notre équipe arabe aimerait avoir votre ressenti sur ce travail.
 
-Aidez, s’il vous plaît, à passer l’information à tous les lecteurs que vous connaissez, encouragez-les à visiter le site, et à envoyer leur ressenti à [tamara@urantia.org](mailto:tamara@urantia.org). Merci !
+Aidez, s’il vous plaît, à passer l’information à tous les lecteurs que vous connaissez, encouragez-les à visiter le site, et à envoyer leur ressenti à [tamara@urantia.org](mailto:tamara@urantia.org). Merci !
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2022_07/065.jpg">
@@ -78,7 +78,7 @@ Aidez, s’il vous plaît, à passer l’information à tous les lecteurs que vo
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-3-july-2022">
+        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-3-juillet-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 3, July 2022 — Table des matières</span>
         </a>
         </td>

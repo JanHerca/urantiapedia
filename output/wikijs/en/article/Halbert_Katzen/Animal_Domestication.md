@@ -3,7 +3,7 @@ title: "Animal Domestication Report (preliminary information)"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Archaeology, Anthropology
+tags: Archaeology, Anthropology, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -34,7 +34,7 @@ Identifying topics that need to have reports written about them takes a lot less
 
 > 2. The board of animal domestication and utilization. This council was dedicated to the task of selecting and breeding those animals best adapted to help human beings in bearing burdens and transporting themselves, to supply food, and later on to be of service in the cultivation of the soil. This able corps was directed by Bon.
 > 
-> Several types of useful animals, now extinct, were tamed, together with some that have continued as domesticated animals to the present day. Man had long lived with the dog, and the blue man had already been successful in taming the elephant. The cow was so improved by careful breeding as to become a valuable source of food; butter and cheese became common articles of human diet. Men were taught to use oxen for burden bearing, but the horse was not domesticated until a later date. The members of this corps first taught men to use the wheel for the facilitation of traction. <a id="a36_582"></a>[UB 66:5.5](/en/The_Urantia_Book/66#p5_5)
+> Several types of useful animals, now extinct, were tamed, together with some that have continued as domesticated animals to the present day. Man had long lived with the dog, and the blue man had already been successful in taming the elephant. The cow was so improved by careful breeding as to become a valuable source of food; butter and cheese became common articles of human diet. Men were taught to use oxen for burden bearing, but the horse was not domesticated until a later date. The members of this corps first taught men to use the wheel for the facilitation of traction.
 > 
 > It was in these days that carrier pigeons were first used, being taken on long journeys for the purpose of sending messages or calls for help. Bon's group were successful in training the great fandors as passenger birds, but they became extinct more than thirty thousand years ago. <a id="a38_284"></a>[UB 66:5.4-6](/en/The_Urantia_Book/66#p5_4)
 
@@ -88,13 +88,17 @@ Identifying topics that need to have reports written about them takes a lot less
 
 ## External Links
 
-- This report in UBTheNews: https://ubannotated.com/wp-content/uploads/2018/03/Animal-Domestication.pdf
+- [This report in UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Animal-Domestication.pdf)
+- [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+- [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 - http://ngm.nationalgeographic.com/2011/03/taming-wild-animals/ratliff-text
 - http://www.nature.com/nature/journal/v418/n6898/full/nature01019.html
-- http://archaeology.about.com/od/dterms/a/domestication.htm chart for various animals http://hcs.osu.edu/hcs/tmi/hcs210/hortorigins/BrDomestic.html Britannica 1990
+- http://archaeology.about.com/od/dterms/a/domestication.htm chart for various animals
+-  http://hcs.osu.edu/hcs/tmi/hcs210/hortorigins/BrDomestic.html Britannica 1990
 - http://darwin-online.org.uk/pdf/1868_Variation_F877.1.pdf
 - http://rspb.royalsocietypublishing.org/content/272/1577/2211.short
-- http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1559946/ 2005 three maternal lineages for sheep http://en.wikipedia.org/wiki/History_of_sheep
+- http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1559946/ 2005 three maternal lineages for sheep 
+- http://en.wikipedia.org/wiki/History_of_sheep
 
 <br>
 

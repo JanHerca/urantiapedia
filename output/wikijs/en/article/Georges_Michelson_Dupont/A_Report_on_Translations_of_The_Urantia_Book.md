@@ -86,7 +86,7 @@ The first step with Déjà Vu was creating exhaustive lists of English terms fou
 
 7. **Biblical Hebrew Names and Places.** There are 288 terms found in _The Urantia Book_. Example: Abila—a city in the Decapolis. In addition, the meaning (when possible), the Hebrew spelling, and references from the Bible and _The Urantia Book_ are included.
 
-8. **Other Historical Names and Places.** There are 89 terms found in _The Urantia Book_. Example: Agni—the Rig Vedic three-headed fire god.In addition, the meaning (when possible), the Greek name (when necessary), references from the Bible and _The Urantia Book_, and a reference to another source are included: wikipedia.org/ wiki/Agni.
+8. **Other Historical Names and Places.** There are 89 terms found in _The Urantia Book_. Example: Agni—the Rig Vedic three-headed fire god.In addition, the meaning (when possible), the Greek name (when necessary), references from the Bible and _The Urantia Book_, and a reference to another source are included: [wikipedia.org/wiki/Agni](https://en.wikipedia.org/wiki/Agni).
 
 These term lists are necessary for translators and excellent study tools for scholars and students of _The Urantia Book_. These lists total 1,351 terms. When the translation of these lists are complete and uploaded to Déjà Vu, translators and revisers will no longer have to worry about these terms because they will automatically “pop up” when the translator is working in the software system. This assures the consistent use of terms throughout the entire text.
 

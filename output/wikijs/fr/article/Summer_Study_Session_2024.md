@@ -39,7 +39,7 @@ _par l'équipe de planification SSS24_
 
 Marquez dès maintenant vos calendriers pour la session d’études d’été 2024, qui sera une conférence pas comme les autres !
 
-Du 24 au 27 juillet 2024, la _The Urantia Book Fellowship_ présentera « Enflammer la Parole : Enseigner les vérités du _Livre d'Urantia_ » à Unity Village, juste à l'extérieur de Kansas City, Missouri, États-Unis.
+Du 24 au 27 juillet 2024, la _The Urantia Book Fellowship_ présentera « Enflammer la Parole : Enseigner les vérités du _Livre d'Urantia_ » à Unity Village, juste à l'extérieur de Kansas City, Missouri, États-Unis.
 
 Unity Village est un centre de conférence inspirant, avec une auberge récemment rénovée sur place, un bel auditorium, des espaces de restauration et de convivialité élégants, des salles de réunion high-tech, une promenade dans la nature, des jardins exquis, des chapelles intimes, un labyrinthe et de nombreux espaces de réflexion. , la communion et l'établissement de relations. Nous avons des traiteurs qui font la queue pour nous préparer des plats savoureux. Et les soirées sociales réserveront quelques surprises amusantes (très pédagogiques, on vous l'assure).
 

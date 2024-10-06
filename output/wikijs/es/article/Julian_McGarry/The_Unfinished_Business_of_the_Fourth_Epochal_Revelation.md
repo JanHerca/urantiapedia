@@ -133,7 +133,7 @@ A pesar de los persistentes intentos de Jesús de mantener el enfoque y la purez
 
 > _El jueves por la noche, los apóstoles tuvieron una maravillosa reunión en esta habitación de arriba, y todos se comprometieron a salir a predicar públicamente el nuevo evangelio del Señor resucitado, excepto Tomás, Simón Celotes y los gemelos Alfeo. <ins>Ya se estaban dando los primeros pasos para sustituir el evangelio del reino</ins> —la filiación con Dios y la fraternidad con los hombres— por la proclamación de la resurrección de Jesús. Natanael se opuso a este cambio en la esencia de su mensaje público, pero no pudo oponerse a la elocuencia de Pedro ni pudo vencer el entusiasmo de los discípulos, especialmente de las mujeres creyentes._
 > 
-> Y así, bajo la vigorosa dirección de Pedro, y antes de que el Maestro ascendiera hacia el Padre, sus representantes bien intencionados emprendieron este proceso sutil de <ins>sustituir de manera gradual y segura la religión *de* Jesús por una forma nueva y modificada de religión *acerca de* Jesús</ins>. [LU 192:4.6-8](/es/The_Urantia_Book/192#p4_6) énfasis añadido
+> Y así, bajo la vigorosa dirección de Pedro, y antes de que el Maestro ascendiera hacia el Padre, sus representantes bien intencionados emprendieron este proceso sutil de <ins>sustituir de manera gradual y segura la religión *de* Jesús por una forma nueva y modificada de religión *acerca de* Jesús</ins>. <a id="s135_307"></a>[LU 192:4.6-8](/es/The_Urantia_Book/192#p4_6) énfasis añadido
 
 Después del derramamiento del Espíritu de Verdad en Pentecostés, los apóstoles quedaron imbuidos de gozo, confianza y entusiasmo renovados por el reino. Sin embargo, ¡su mensaje había cambiado!
 

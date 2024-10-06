@@ -88,7 +88,7 @@ MAPS_PUBLIC | Mapa (1) editable por cualquiera | ADMIN | EDITOR | ADMIN | /en/ma
 3DMODEL_PUBLIC | Un modelo 3D | ADMIN | EDITOR | ADMIN (2) | /en/3dmodel/3dmodel_name
 IMAGE | Una imagen, bien un dibujo o esquema o ilustración | EDITOR | EDITOR | EDITOR (3) | /en/image/image_name
 
-1. Los mapas pueden ser 2D o 3D y pueen contener:
+1. Los mapas pueden ser 2D o 3D y pueden contener:
    - Marcas puntuales con mensajes emergentes mostrando localizaciones. Los mensajes pueden tener enlaces a la Wiki o externos.
    - Itinerarios: varios puntos de paso con mensajes emergentes en cada uno mostrando el viaje de una persona o un pueblo. Estos itinerarios se pueden mostrar como animaciones.
    - Áreas: polígonos mostrando localizaciones de algo sin una localización específica como imperios o naciones.
@@ -195,7 +195,7 @@ Ten en cuenta que el propósito de la *Urantipedia* es permitir un contenido en 
 Este tipo de contenido incluye también esquemas o dibujos con esquemas. Hay una serie de tecnologías que permiten la creación sencilla de diagramas y gráficos que actualmente son compatibles con *Urantiapedia*: [Kroki](https://kroki.io/), [Mermaid](http://mermaid-js.github.io/mermaid/#/) y [PlantUML](https://plantuml.com/). Si los generadores de diagramas anteriores no son suficientes para los propósitos de *El libro de Urantia* (porque son principalmente para el desarrollo de software) es posible utilizar cualquier contenido en [formato SVG](https://developer.mozilla.org/es/docs/Web/SVG), que es el formato más recomendado para crear diagramas, esquemas o gráficos.
 
 <figure id="Sample_fig_1" class="image urantiapedia">
-<img src="/image/sample_page_article.png">
+<img src="/image/help/sample_page_article.png">
 <figcaption><em> Ejemplo de visualización de un artículo.</em></figcaption>
 </figure>
 
@@ -273,7 +273,7 @@ Y dos formas de abrir este mapa centrado en Ramá sería:
 Los nombres de los mapas ya se ha explicado que es necesario en la URL que estén en inglés.
 
 <figure id="Sample_fig_3" class="image urantiapedia">
-<img src="/image/sample_page_map.jpg">
+<img src="/image/help/sample_page_map.jpg">
 <figcaption><em> Ejemplo de visualización de un mapa interactivo.</em></figcaption>
 </figure>
 
@@ -288,7 +288,7 @@ El patrón de la URL para presentaciones es:
 Las URL dispondrán de un parámetro para abrise en una determinada diapositiva.
 
 <figure id="Sample_fig_4" class="image urantiapedia">
-<img src="/image/sample_page_slides.png">
+<img src="/image/help/sample_page_slides.png">
 <figcaption><em> Ejemplo de visualización de una presentación.</em></figcaption>
 </figure>
 
@@ -304,7 +304,7 @@ El patrón de la URL para modelos 3D es:
 Al igual que los mapas, los modelos 3D admitirán el centrado en un elemento usando un nombre, como: `https://urantiapedia.org/en/3dmodel/Jerusem?name=Mansonia_7`
 
 <figure id="Sample_fig_5" class="image urantiapedia">
-<img src="/image/sample_page_3d.jpg">
+<img src="/image/help/sample_page_3d.jpg">
 <figcaption><em> Ejemplo de visualización de un modelo 3D.</em></figcaption>
 </figure>
 

@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 La Asociación Urantia de Bogotá Urantia les invita a la I Conferencia Urantia Latinoamericana del 14 al 17 de octubre en Bogotá (Colombia), en el hotel Lancaster House.
 
-El nombre y el tema de la conferencia serán _El maestro y el discípulo_. Este tema se desarrollará a partir de preguntas tales como: ¿Qué significa ser  instructor en nuestra comunidad? ¿Qué significa ser instructor en el ámbito local, para los estudiantes avanzados, para los nuevos lectores, para los que nunca han oído hablar del libro y no les importa saber de él? ¿Cómo podemos hablar sobre las enseñanzas del libro sin mencionar el libro? ¿Cómo enseñaba Jesús a los diferentes públicos que se encontró? ¿Qué podemos aprender de los métodos de enseñanza de las diferentes ‘escuelas’ que se describen en el libro (escuelas Melquisedec, escuelas de Edentia, Dalamatia, Salem, Urmia)? ¿Cómo se capacitó a los instructores en revelaciones anteriores?
+El nombre y el tema de la conferencia serán _El maestro y el discípulo_. Este tema se desarrollará a partir de preguntas tales como: ¿Qué significa ser instructor en nuestra comunidad? ¿Qué significa ser instructor en el ámbito local, para los estudiantes avanzados, para los nuevos lectores, para los que nunca han oído hablar del libro y no les importa saber de él? ¿Cómo podemos hablar sobre las enseñanzas del libro sin mencionar el libro? ¿Cómo enseñaba Jesús a los diferentes públicos que se encontró? ¿Qué podemos aprender de los métodos de enseñanza de las diferentes ‘escuelas’ que se describen en el libro (escuelas Melquisedec, escuelas de Edentia, Dalamatia, Salem, Urmia)? ¿Cómo se capacitó a los instructores en revelaciones anteriores?
 
 **Del 14 al 17 de octubre de 2016**
 
@@ -61,7 +61,7 @@ La inscripción debe hacerse no más tarde del 7 de octubre de 2016. El paquete 
 
 [Inscríbanse ahora](https://www.regonline.com/Register/Checkin.aspx?EventId=1847691)
 
-Para preguntas relacionadas con la inscripción, manden un correo a  [latinamericanconference@urantia-association.org](mailto:latinamericanconference@urantia-association.org)
+Para preguntas relacionadas con la inscripción, manden un correo a [latinamericanconference@urantia-association.org](mailto:latinamericanconference@urantia-association.org)
 
 **TRASLADOS**
 

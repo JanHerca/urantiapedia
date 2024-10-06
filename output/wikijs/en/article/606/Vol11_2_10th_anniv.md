@@ -736,7 +736,7 @@ _And they did tool Peter managed to come to the 1987 conference in Narrabeen and
 
 <figure id="Figure_9" class="image urantiapedia" alt="booth">
 <img src="/image/article/606/booth.jpg">
-<figcaption>URANTIA Book Booth, Perth, January 1987.</figcapton>
+<figcaption>URANTIA Book Booth, Perth, January 1987.</figcaption>
 </figure>
 
 They also helped organise the first Australian bookbooth in January 1987 in Perth, and last August they held a weekend get-together which was attended by eleven people, which resulted in renewed intentions to hold more regular study groups.

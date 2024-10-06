@@ -293,7 +293,7 @@ C’est en plus de leur travail de stabilisation dans le micro-monde subatomique
 
 L'INFINI inclut évidemment la possibilité de choses et d'êtres finis puisque nous, les êtres finis, existons et pouvons toujours reconnaître et approcher l'INFINI de diverses manières. L'INFINI doit empiéter sur le domaine fini de manière notable. Il ne peut pas être totalement absent. Où INFINITY pourrait-il être situé (caché) par rapport à l'espace ? Et quel est le lien entre l’INFINI et l’esprit et le mouvement ?
 
-L'INFINI doit être d'une manière ou d'une autre isolé des choses et des êtres finis, de peur qu'ils ne soient « éblouis par la luminosité », pour ainsi dire, et rendus ainsi incapables de « voir ». Que voyons-nous de notre monde qui ressemble à une isolation contre la lumière brillante d’INFINITY ?
+L'INFINI doit être d'une manière ou d'une autre isolé des choses et des êtres finis, de peur qu'ils ne soient « éblouis par la luminosité », pour ainsi dire, et rendus ainsi incapables de « voir ». Que voyons-nous de notre monde qui ressemble à une isolation contre la lumière brillante d’INFINITY ?
 
 Par exemple, notez qu’il n’existe pas de plus grand nombre entier. Si un candidat donné pour être le « plus grand nombre entier » est proposé, alors ce nombre plus 1 est un candidat encore plus grand. Il n’existe donc pas de plus grand nombre entier. Le « nombre » ou plus exactement la _cardinalité_ de l'ensemble de tous les nombres entiers n'est pas fini. C'est _infini_. Par conséquent, l’Infini peut être approché depuis l’esprit dans le concept numérique.
 
@@ -305,7 +305,7 @@ L'INFINI est également potentiellement présent entre les points de la ligne eu
 
 Le concept d’espace semble maximal sur le plan matériel puisque toute matière est dans l’espace et inclut l’espace. Par rapport à la totalité de l’espace, INFINITY peut être situé à des distances infinies au-delà de l’espace.
 
-La « surface à l'INFINI » inclut la « surface » limite des trois dimensions euclidiennes à des distances infinies dans toutes les directions. Cette surface attenante contient l'INFINI. C'est un quartier topologique d'INFINITY. Dans cette topologie, INFINITY est _dans_ cette « Surface à INFINITY » périphérique.
+La « surface à l'INFINI » inclut la « surface » limite des trois dimensions euclidiennes à des distances infinies dans toutes les directions. Cette surface attenante contient l'INFINI. C'est un quartier topologique d'INFINITY. Dans cette topologie, INFINITY est _dans_ cette « Surface à INFINITY » périphérique.
 
 Par rapport à la fois à l’extérieur (à des distances infinies dans toutes les directions) et à l’intérieur (des ordres de petitesses potentiellement infinis à l’intérieur), chaque particule matérielle est un « quartier de l’Infini ».
 
@@ -353,7 +353,7 @@ Le mouvement n'est défini que par rapport à quelque chose qui est considéré 
 
 Les scientifiques ont d’abord commis l’erreur d’imaginer un modèle centré sur la Terre du Soleil, de la Lune et d’autres planètes, mais ont ensuite reconnu l’importance de la position centrale du Soleil. De même, en abandonnant nos préjugés géocentriques concernant le mouvement et la gravité, nous devrions trouver un remplacement digne, et non imaginer un univers complètement non centriste, sans masse centrale, sans cadre de référence fixe comme le présume la relativité restreinte d’Einstein.
 
-C’est comme essayer d’imaginer la Terre, le Soleil et les planètes sans un corps central pour maintenir le système ensemble. Les scientifiques contemporains reconnaissent que les étoiles ne sont, après tout, pas distribuées de manière aléatoire (comme Einstein le pensait initialement), mais sont généralement organisées en galaxies à rotation très rapide et avec des centres denses. Au-delà de la Voie lactée, notre groupe local de galaxies, d’immenses vides existent entre les « murs » des galaxies de l’espace.
+C’est comme essayer d’imaginer la Terre, le Soleil et les planètes sans un corps central pour maintenir le système ensemble. Les scientifiques contemporains reconnaissent que les étoiles ne sont, après tout, pas distribuées de manière aléatoire (comme Einstein le pensait initialement), mais sont généralement organisées en galaxies à rotation très rapide et avec des centres denses. Au-delà de la Voie lactée, notre groupe local de galaxies, d’immenses vides existent entre les « murs » des galaxies de l’espace.
 
 ## Le plan physique de l'univers
 
@@ -375,7 +375,7 @@ Les cycles de mouvement spatial peuvent être considérés comme périodiques, t
 
 > Toutes les unités d’énergie cosmique sont en rotation primaire, engagées dans l’exécution de leur mission tandis qu’elles tournent autour de l’orbite universelle. Les univers de l’espace ainsi que les systèmes et mondes qui les composent sont tous des sphères en rotation se déplaçant le long des circuits sans fin des niveaux d’espace du maitre univers. Il n’y a absolument rien de stationnaire dans le maitre univers excepté le centre même de Havona, l’éternelle Ile du Paradis, le centre de gravité. <a id="a375_505"></a>[[LU 12:4.1](/fr/The_Urantia_Book/12#p4_1)] 
 
-Si _toutes_ les unités d'énergie cosmique ont une révolution primaire tout en se balançant également autour de l'orbite universelle, alors toutes ces unités d'énergie ont trois composants essentiels : 1) quelque chose qui tourne et également en orbite, 2) un noyau autour duquel quelque chose tourne et orbite, et 3) espace contenant le mouvement de rotation et d’orbite. L'espace à l'intérieur d'un corps en mouvement est une propriété du corps et se déplace avec lui. Cela implique que la notion d’« unité énergétique unique », une particule, n’est pas vraiment un tout individuel ! Il doit déjà comporter les trois éléments essentiels listés ci-dessus. Les unités ultimes ont le même noyau intérieur et le même centre orbital extérieur. Dans deux mouvements différents, ils tournent et tournent autour du Paradis. En vérité, en Dieu, qui est Esprit, toutes choses consistent et ont leur être.
+Si _toutes_ les unités d'énergie cosmique ont une révolution primaire tout en se balançant également autour de l'orbite universelle, alors toutes ces unités d'énergie ont trois composants essentiels : 1) quelque chose qui tourne et également en orbite, 2) un noyau autour duquel quelque chose tourne et orbite, et 3) espace contenant le mouvement de rotation et d’orbite. L'espace à l'intérieur d'un corps en mouvement est une propriété du corps et se déplace avec lui. Cela implique que la notion d’« unité énergétique unique », une particule, n’est pas vraiment un tout individuel ! Il doit déjà comporter les trois éléments essentiels listés ci-dessus. Les unités ultimes ont le même noyau intérieur et le même centre orbital extérieur. Dans deux mouvements différents, ils tournent et tournent autour du Paradis. En vérité, en Dieu, qui est Esprit, toutes choses consistent et ont leur être.
 
 ### La forme des unités ultimes de masse-énergie
 
@@ -407,7 +407,7 @@ Suivant cette image de lumière propagée dans l'espace à partir d'un immense l
 
 > C’est seulement par l’ubiquité que la Déité a pu unifier les manifestations de l’espace-temps pour les conceptions finies, car le temps est une succession d’instants, tandis que l’espace est un système de points associés. Après tout, vous percevez le temps par analyse et l’espace par synthèse. Vous coordonnez et vous associez ces deux conceptions dissemblables par la perspicacité intégratrice de la personnalité. Dans le monde animal, l’homme est seul à posséder cette faculté de percevoir l’espace-temps. Pour un animal, le mouvement a une signification, mais il ne prend une valeur que pour une créature ayant statut de personnalité. <a id="a407_641"></a>[[LU 118:3.1](/fr/The_Urantia_Book/118#p3_1)] 
 
-## Réalité mathématique versus réalité volitive : choix dans le cosmos
+## Réalité mathématique versus réalité volitive : choix dans le cosmos
 
 Le _phénomène du choix_[^14] dans le cosmos est un profond embarras pour les scientifiques et les philosophes ayant des théories complètement mécanistes de notre cosmos. Ces scientifiques et philosophes affirment qu’il n’est pas nécessaire d’avoir un postulat scientifique qui ne soit pas totalement matériel. Ils nient toute nécessité d’un plan non matériel dans le cosmos. Ils estiment que ce choix est un mythe.
 
@@ -447,7 +447,7 @@ Il s’agit donc d’une interface principale entre la réalité spirituelle et 
 
 Le choix dans le cosmos nécessite le postulat selon lequel il existe quelque chose d’autre, appelé « vie », ainsi que de la matière, lui conférant des options « d’individualité » par rapport à la matière. Mais l’énergie nécessaire pour faire avancer la matière dans un choix personnel doit provenir d’un endroit extérieur aux relations énergétiques antérieures, strictement mécaniques, y compris celles du cerveau ou du corps physique qui sont supposées être déterminées par une causalité antérieure. Si cette énergie postulée était déjà incluse dans le système, alors, par la conservation de l'énergie-matière, il n'y aurait aucun moyen de modifier sa trajectoire prédéterminée ou celle du reste du système.
 
-D'où cette énergie choisir ? Il doit y avoir un certain domaine d’énergie disponible pour choisir les êtres, qui n’est pas complètement déterminé à l’avance. Ce royaume et cette capacité de choisir doivent avoir été dans le cosmos depuis toujours, car s'ils disparaissaient un jour, ils ne pourraient pas surgir (« émerger ») du mécanisme par la suite sans cause.
+D'où cette énergie choisir ? Il doit y avoir un certain domaine d’énergie disponible pour choisir les êtres, qui n’est pas complètement déterminé à l’avance. Ce royaume et cette capacité de choisir doivent avoir été dans le cosmos depuis toujours, car s'ils disparaissaient un jour, ils ne pourraient pas surgir (« émerger ») du mécanisme par la suite sans cause.
 
 La capacité des êtres vivants à choisir actuellement en fonction de valeurs subjectives et à changer le monde objectif doit être postulée comme une caractéristique originale du cosmos, une hypothèse évidente de l'esprit. "Je sais que je peux choisir et agir."
 
@@ -455,7 +455,7 @@ L’imprévisibilité des performances des particules subatomiques individuelles
 
 ## Note de fin
 
-_Le Livre d'Urantia_ qualifie ainsi sa révélation extrêmement précieuse sur la cosmologie :
+_Le Livre d'Urantia_ qualifie ainsi sa révélation extrêmement précieuse sur la cosmologie :
 
 > La vérité peut n’être inspirée que relativement, bien que la révélation soit invariablement un phénomène spirituel. Les exposés se référant à la cosmologie ne sont jamais inspirés, mais de telles révélations ont une immense valeur, en ce sens qu’elles clarifient au moins provisoirement les connaissances :
 > 
@@ -473,7 +473,7 @@ _Le Livre d'Urantia_ qualifie ainsi sa révélation extrêmement précieuse sur 
 
 __Annexe 1.__ Calcul du temps de Hubble T = 1/H~0~. La « constante » H~0~ de Hubble est actuellement estimée à environ 72 km/s en vitesse de récession supplémentaire pour chaque million de parsecs de distance supplémentaire. Un parsec = 3,262 années-lumière.
 
-Avec une précision à 3 chiffres, il y a 60 * 60 * 24 * 365,25 = 31 556 736 = 3,16\*10^7^ secondes en 1 an (an).
+Avec une précision à 3 chiffres, il y a 60 * 60 * 24 * 365,25 = 31 556 736 = 3,16\*10^7^ secondes en 1 an (an).
 
 Notez également que 72 km/sec = 72 km/sec \* (3.16\*10^7^ sec/yr) = (3.16\*10^7^) (72 km/yr). Autrement dit, un objet allant à 72 km/sec va (3.16\*10^7^) (72) km/yr. 
 
@@ -509,11 +509,11 @@ T = 1/H~0~ = [(3.262) \* (3.00) \* 10^11^ yr / 72] = 1.36 \* 10^10^ yr = 13.6 mi
 
 [^3] : _Le Livre d'Urantia_, ÉNERGIE—ESPRIT ET MATIÈRE : Fascicule 42, Sec 2, Para 1. noté [[LU 42:2.1](/fr/The_Urantia_Book/ 42#p2_1)]
 
-[^4] : « Un exemple d'un nouveau type de solutions cosmologiques des équations de gravitation de champ d'Einstein », Kurt Gödel, Reviews of Modern Physics, Vol. 21, numéro 3, juillet 1949 .
+[^4] : « Un exemple d'un nouveau type de solutions cosmologiques des équations de gravitation de champ d'Einstein », Kurt Gödel, Reviews of Modern Physics, Vol. 21, numéro 3, juillet 1949 .
 
-[^5] : Utilisation d'étoiles variables céphéides pour mesurer indépendamment les distances
+[^5] : Utilisation d'étoiles variables céphéides pour mesurer indépendamment les distances
 
-[^6] : Voir l'annexe 1 pour le calcul de 1/H~0~
+[^6] : Voir l'annexe 1 pour le calcul de 1/H~0~
 
 [^7] : Voir « The Hubble Constant », John P. Huchra, 2008, pour un bon aperçu des estimations dispersées de H0 qui varient sur un ordre de grandeur complet. https://www.cfa.harvard.edu/~dfabricant/huchra/hubble/
 
@@ -521,15 +521,15 @@ T = 1/H~0~ = [(3.262) \* (3.00) \* 10^11^ yr / 72] = 1.36 \* 10^10^ yr = 13.6 mi
 
 [^9] : Connu comme le « grand attracteur » http://www.world-science.net/exclusives/060419_attractorfrm.htm
 
-[^10] : John S Bell, « Sur le problème des variables cachées en mécanique quantique » Rev. Modern Phys. 38 1966 447 –45 2. N. David Mermin, « Variables cachées et les deux théorèmes de John Bell » Rev. Modern Phys. 65 (1993), non. 3, partie 1, 803-815.
+[^10] : John S Bell, « Sur le problème des variables cachées en mécanique quantique » Rev. Modern Phys. 38 1966 447 –45 2. N. David Mermin, « Variables cachées et les deux théorèmes de John Bell » Rev. Modern Phys. 65 (1993), non. 3, partie 1, 803-815.
 
-[^11] : Théorie de Broglie-Bohm, modèle d'onde pilote, interprétation causale de la mécanique quantique http://plato.stanford.edu/entries/qm-bohm/
+[^11] : Théorie de Broglie-Bohm, modèle d'onde pilote, interprétation causale de la mécanique quantique http://plato.stanford.edu/entries/qm-bohm/
 
-[^12] : David Bohm, La plénitude et l'ordre implicite, 1980
+[^12] : David Bohm, La plénitude et l'ordre implicite, 1980
 
 [^13] : Sheldon Goldstein, « Bohmian Mechanics », octobre 2001 ; révisé le 19 mai 2006. Stanford Encyclopedia of Philosophy, http://plato.stanford.edu/entries/qm-bohm/
 
-[^14] : Les termes « choix » et « volition » sont ici utilisés comme synonymes par opposition au niveau mathématique de la réalité qui est logiquement déterminé et non une question de choix.
+[^14] : Les termes « choix » et « volition » sont ici utilisés comme synonymes par opposition au niveau mathématique de la réalité qui est logiquement déterminé et non une question de choix.
 
 
 <figure class="table chapter-navigator">

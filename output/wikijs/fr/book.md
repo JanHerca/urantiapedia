@@ -1,9 +1,9 @@
 ---
-title: Livres
-description: "La Bibliothèque Urantiapédia"
+title: "La Bibliothèque Urantiapédia"
+description:
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: book
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -30,8 +30,12 @@ En ajoutant ces livres dans Urantiapedia, nous allons procéder de la même mani
 
 - [Index de tous les groupes de livres](/fr/index/books)
 
+<figure id="Sample_fig_1" class="image urantiapedia">
+<img src="/image/help/sample_page_book.png">
+<figcaption><em>Exemple de présentation d'un livre.</em></figcaption>
+</figure>
 
-## Les références
+## Références
 
 - [Livres libres de droits](https://archive.org/)
 - [Études sur les livres soi-disant utilisés par les révélateurs](https://urantiabooksources.com/)

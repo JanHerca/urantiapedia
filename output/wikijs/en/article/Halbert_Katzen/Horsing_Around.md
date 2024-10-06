@@ -3,7 +3,7 @@ title: "Horsing Around Report"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Anthropology, Biology, Genetics
+tags: Anthropology, Biology, Genetics, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -166,9 +166,9 @@ In covering the _Science_ report, a Reuters article contextualized the research 
 > “If it was happening this early, then you've got to think about those forces for social and economic change happening earlier too-and it is possible that there are yet earlier sites we haven't found.” [How prophetic!]
 > 
 > Archaeologists have suspected for some time that the Botai people were the world's first horsemen but previous sketchy evidence has been disputed, with some arguing that the Botai simply hunted horses.[^14]
-> 
-> In an article for Ars Technica, Chris Lee contextualizes and summarizes the findings in the original research report as follows:
-> 
+
+In an article for Ars Technica, Chris Lee contextualizes and summarizes the findings in the original research report as follows:
+
 > A recent publication in Science takes a fresh look at the domestication of the horse. The authors show that the horse is likely to have been domesticated independently of other animals, in areas outside of the fertile crescent. ...
 >
 > . . .
@@ -197,7 +197,9 @@ For a relatively quick Urantia Book perspective on the development of civilizati
 
 ## External Links
 
-- This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/Horsing_Around.pdf
+- [This report in UBTheNews webpage](https://ubannotated.com/wp-content/uploads/2018/03/Horsing_Around.pdf)
+- [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+- [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 - http://www.sciencedaily.com/releases/2009/03/090305141627.htm
 - http://www.geosociety.org/news/pr/06-49.htm
 - http://en.wikipedia.org/wiki/Domestication_of_the_horse
@@ -237,18 +239,18 @@ For a relatively quick Urantia Book perspective on the development of civilizati
 
 ## Footnotes:
 
-[^1]: Urantia Book <a id="a239_19"></a>[UB 80:4.1](/en/The_Urantia_Book/80#p4_1)
-[^2]: Urantia Book <a id="a240_19"></a>[UB 80:4.3,4](/en/The_Urantia_Book/80#p4_3)
-[^3]: Urantia Book <a id="a241_19"></a>[UB 78:6.1-3,5](/en/The_Urantia_Book/78#p6_1)
+[^1]: Urantia Book <a id="a241_19"></a>[UB 80:4.1](/en/The_Urantia_Book/80#p4_1)
+[^2]: Urantia Book <a id="a242_19"></a>[UB 80:4.3,4](/en/The_Urantia_Book/80#p4_3)
+[^3]: Urantia Book <a id="a243_19"></a>[UB 78:6.1-3,5](/en/The_Urantia_Book/78#p6_1)
 [^4]: http://www.reuters.com/article/2011/08/25/uk-saudi-archaeology-idUSLNE77001R20110825
 [^5]: http://www.bbc.co.uk/news/world-middle-east-14658678
 [^6]: http://www.middle-east-online.com/english/?id=47796
-[^7]: Urantia Book <a id="a245_19"></a>[UB 78:5.2](/en/The_Urantia_Book/78#p5_2)
-[^8]: Urantia Book <a id="a246_19"></a>[UB 76:3.6](/en/The_Urantia_Book/76#p3_6)
-[^9]: Urantia Book <a id="a247_19"></a>[UB 76:3.8](/en/The_Urantia_Book/76#p3_8)
-[^10]: Urantia Book  <a id="a248_21"></a>[UB 78:5.2,3](/en/The_Urantia_Book/78#p5_2)
-[^11]: Urantia Book <a id="a249_20"></a>[UB 80:4.5](/en/The_Urantia_Book/80#p4_5)
-[^12]: Urantia Book <a id="a250_20"></a>[UB 81:2.8](/en/The_Urantia_Book/81#p2_8)
+[^7]: Urantia Book <a id="a247_19"></a>[UB 78:5.2](/en/The_Urantia_Book/78#p5_2)
+[^8]: Urantia Book <a id="a248_19"></a>[UB 76:3.6](/en/The_Urantia_Book/76#p3_6)
+[^9]: Urantia Book <a id="a249_19"></a>[UB 76:3.8](/en/The_Urantia_Book/76#p3_8)
+[^10]: Urantia Book  <a id="a250_21"></a>[UB 78:5.2,3](/en/The_Urantia_Book/78#p5_2)
+[^11]: Urantia Book <a id="a251_20"></a>[UB 80:4.5](/en/The_Urantia_Book/80#p4_5)
+[^12]: Urantia Book <a id="a252_20"></a>[UB 81:2.8](/en/The_Urantia_Book/81#p2_8)
 [^13]: http://www.sciencemag.org/content/323/5919/1332
 [^14]: http://www.reuters.com/article/2009/03/05/us-horses-history-idUSTRE5246HI20090305
 [^15]: http://arstechnica.com/science/news/2009/03/domesticating-the-horse.ars

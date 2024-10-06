@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-1-april-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-1-avril-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 1, April 2019 — Table des matières</span>
         </a>
         </td>
@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Michael Zehr, administrateur du site Web UBIS, Floride, États-Unis_
 
-_Note de l’éditeur : pour en apprendre plus sur UBIS, cliquez ici, s’il vous plaît. Si vous avez des questions, prenez contact avec la directrice de l’école, Joanne, à [joanne@urantia.org](mailto:joanne@urantia.org)._
+_Note de l’éditeur : pour en apprendre plus sur UBIS, cliquez ici, s’il vous plaît. Si vous avez des questions, prenez contact avec la directrice de l’école, Joanne, à [joanne@urantia.org](mailto:joanne@urantia.org)._
 
 Beaucoup d’entres vous connaissent l’École Internet du Livre d’Urantia (UBIS) en tant qu’étudiant et en ont vu son côté public. Mais aujourd’hui, j’aimerais vous accueillir pour un tour dans les coulisses de notre école.
 
@@ -50,7 +50,7 @@ Pendant les mois précédents de chaque trimestre, les éducateurs/animateurs (T
 
 Lorsque les cours sont approuvés, ils sont mis sur urantia.org dans leur langue respective, anglais, français, et espagnole ( portugais si disponible), avec les dates importantes et les liens au site d’UBIS. Les annonces par mail dans ces langues sont ensuite envoyées à des milliers de lecteurs à travers le monde.
 
-Quand les cours ont été mis sur Urantia.org, cela provoque un nombre d’opérations de mon côté. Je crée une structure vide pour chaque cours en mettant en place les 10 blocs hebdomadaires des opérations désignées. Les TFs peuvent alors « remplir les vides » en téléchargeant leurs documents personnalisés des cours.
+Quand les cours ont été mis sur Urantia.org, cela provoque un nombre d’opérations de mon côté. Je crée une structure vide pour chaque cours en mettant en place les 10 blocs hebdomadaires des opérations désignées. Les TFs peuvent alors « remplir les vides » en téléchargeant leurs documents personnalisés des cours.
 
 Lorsque les structures des cours sont terminées, je contacte chaque TF pour leur faire savoir que leur modèles sont disponibles. Je programme alors, un apprentissage vidéo pour les nouveaux TFs et des mises à niveau pour ceux qui n’ont pas donné de cours depuis longtemps. Enfin, je commence à configurer l’enregistrement en ligne.
 
@@ -66,9 +66,9 @@ Après les adieux faits, mon travail continue. Conclure comprend des télécharg
 
 La samedi à la fin de chaque trimestre, je participe aux réunions de suivi avec les TFs et les membres du conseil d’administration d’UBIS.
 
-Non seulement ce cycle se répète trois fois par an, mais nous le faisons en quatre langues !
+Non seulement ce cycle se répète trois fois par an, mais nous le faisons en quatre langues !
 
-J’espère que vous avez aimé cette vue dans les coulisses de notre école. La période d’enregistrement pour le nouveau trimestre commence le 15 avril. Au plaisir de vous voir bientôt !
+J’espère que vous avez aimé cette vue dans les coulisses de notre école. La période d’enregistrement pour le nouveau trimestre commence le 15 avril. Au plaisir de vous voir bientôt !
 
 
 ## Références
@@ -87,7 +87,7 @@ J’espère que vous avez aimé cette vue dans les coulisses de notre école. La
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-1-april-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-1-avril-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 1, April 2019 — Table des matières</span>
         </a>
         </td>

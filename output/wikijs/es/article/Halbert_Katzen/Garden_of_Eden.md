@@ -1,14 +1,31 @@
 ---
-title: El Jardín del Edén
+title: "El Jardín del Edén"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: Geology, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Halbert Katzen J.D.**[^1] | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+_Por Halbert Katzen J.D._[^1]
 
 En *El Libro de Urantia* se proporciona una descripción de la ubicación y las características físicas del Jardín del Edén. Se dice que la ubicación fue en una península larga y estrecha que se extendía frente a la costa oriental del mar Mediterráneo. De acuerdo con *El Libro de Urantia*, Adán y Eva vivieron en este lugar hace unos 38.000 años, y afirma además que esta península se hundió en el mar Mediterráneo hace aproximadamente 34.000 años. La topografía del fondo marino en un área entre Chipre y la costa siria se ajusta a la descripción y parece ser el único área que podría hacerlo. Hoy, este área frente a la costa oriental del mar Mediterráneo cae de forma abrupta, alcanzando rápidamente una profundidad de casi 1.600 metros.
 
@@ -101,7 +118,7 @@ Con estas fuerzas en mente, ahora considere en la [\[Figura 5\]](#Garden_of_Eden
 
 Además, observe cómo en el lado occidental la línea elevada del norte se rompe y reaparece más al sur a medida que se acerca al extremo sureste de Chipre. También, en su mayor parte, esta cresta norte está menos definida que la cordillera sur. Según la posición de la línea que separa las placas tectónicas en la [\[Figura 8\]](#Garden_of_Eden_fig_8), parece que el lado norte de lo que sería la península ahora sumergida está situado más directamente sobre la convergencia de las placas. Esto se puede apreciar al notar que el lugar donde la línea de la placa tectónica rompe en la orilla también es la ubicación del extremo más al norte en la línea con dos flechas que se ve en la [\[Figura 5\]](#Garden_of_Eden_fig_5) y [\[Figura 6\]](#Garden_of_Eden_fig_6).
 
-La descripción del Libro de Urantia de lo que sucedió con el Jardín del Edén es consistente con:
+La descripción del _Libro de Urantia_ de lo que sucedió con el Jardín del Edén es consistente con:
 1. La topografía más suave asociada con la cadena norte de colinas,
 2. La forma en que el borde occidental de esta cadena aparece desplazado hacia el sur, y
 3. La convergencia más estrecha de cuarenta y tres kilómetros en la costa con las depresiones a cada lado asociadas con un descenso más accidentado frente a la costa en esa área.
@@ -146,17 +163,32 @@ Por ahora, al menos los avances en la tecnología de sonar nos permiten ver una 
 
 ## Enlaces externos
 
-* Este informe en el sitio web UBTheNews: http://ubannotated.com/ubthenews/topics/ubthenews-garden-of-eden-report/
-
+* [Este informe en el sitio web UBTheNews](http://ubannotated.com/ubthenews/topics/ubthenews-garden-of-eden-report/)
+* [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios Temáticos en el sitio UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 * *Atlas Ilustrado del Mundo de Life* (*Life Pictorial Atlas of the World*), Revista *Life* y Randy McNally, 1961.
-
 * Robert Sarmast,*Discovery of Atlantis*, *First Source Publications*, 2006.
-
 * Shimon Wdowinski, Zvi Ben-Avraham, Ronald Arvidsson, Goran Ekström, *Seismotectonics of the Cyprian Arc*, enero 2006, *Geophysical Journal International*, https://academic.oup.com/gji/article/164/1/176/2071574
-
 * Mart, Y.; Ryan, W., *The tectonics of Cyprus Arc: a model of complex continental collision*, https://ui.adsabs.harvard.edu/abs/2003EAEJA.....2282M/abstract
-
 * Ergün, M.; Okay, S.; Sari, C.; Oral, E. Z., *Gravity and magnetic anomalies of the Cyprus arc and tectonic implications*, https://ui.adsabs.harvard.edu/abs/2003EAEJA.....1663E/abstract
+
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 
@@ -164,19 +196,19 @@ Por ahora, al menos los avances en la tecnología de sonar nos permiten ver una 
 
 [^2]: La investigación de los últimos años, que rastrea una actualización específica en la historia genética de los seres humanos, también brinda un poderoso apoyo la narración de la historia de Adán y Eva en *El Libro de Urantia*. Véase el informe [Adán y Eva](/es/article/Halbert_Katzen/Adam_and_Eve)
 
-[^3]: <a id="a166_6"></a>[LU 74:0.1](/es/The_Urantia_Book/74#p0_1)
+[^3]: <a id="a198_6"></a>[LU 74:0.1](/es/The_Urantia_Book/74#p0_1)
 
-[^4]: <a id="a168_6"></a>[LU 73:3.1](/es/The_Urantia_Book/73#p3_1)
+[^4]: <a id="a200_6"></a>[LU 73:3.1](/es/The_Urantia_Book/73#p3_1)
 
-[^5]: <a id="a170_6"></a>[LU 73:7.1](/es/The_Urantia_Book/73#p7_1)
+[^5]: <a id="a202_6"></a>[LU 73:7.1](/es/The_Urantia_Book/73#p7_1)
 
 [^6]: [LU 73-78](/es/The_Urantia_Book/73)
 
 [^7]: El *Atlas Ilustrado del Mundo de Life* (*Life Pictorial Atlas of the World*), Revista *Life* y Randy McNally, 1961. Se han convertido las millas cuadradas a km^2^.
 
-[^8]: <a id="a176_6"></a>[LU 73:3.1-4](/es/The_Urantia_Book/73#p3_1)
+[^8]: <a id="a208_6"></a>[LU 73:3.1-4](/es/The_Urantia_Book/73#p3_1)
 
-[^9]: <a id="a178_6"></a>[LU 73:5.1](/es/The_Urantia_Book/73#p5_1)
+[^9]: <a id="a210_6"></a>[LU 73:5.1](/es/The_Urantia_Book/73#p5_1)
 
 [^10]: La investigación de Robert Sarmast, publicada en *Discovery of Atlantis* (*First Source Publications*, 2006), lo llevó a concluir que existe un vínculo entre la mitología de la Atlántida y los relatos religiosos relacionados con Adán y Eva. Él cree que la historia de la Atlántida se desarrolló porque una nueva tribu de personas llegó a ocupar la península edénica desarrollada arquitectónicamente después de que Adán, Eva y su progenie abandonaran este área. Cuando la península se hundió, unos 4.000 años después de que Adán y Eva se fueran, se había disociado con la civilización que habían comenzado. Según la investigación de Sarmast, la conexión entre el Jardín del Edén y la Atlántida es que tenían la misma ubicación geográfica, pero se asociaron con dos culturas diferentes. Sarmast intentó encontrar vestigios de civilización humana en este lugar entre Chipre y Siria. Se puede aprender más sobre su trabajo visitando https://web.archive.org/web/20180417053508/http://discoveryofatlantis.com/ (el enlace original está roto). Muchas gracias a él por permitir que el proyecto UBtheNEWS use las imágenes que se crearon en relación con su trabajo.
 

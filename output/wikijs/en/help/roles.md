@@ -20,18 +20,18 @@ dateCreated: 2021-11-28T13:55:38.362Z
   </table>
 </figure>
 
-To collaborate with the project best way is sign up in [Blue Fields](https://blue-fields.netlify.app/) webpage, that is a site created to join and organize *Urantia Book* readers worldwide that want to participate in smart projects, with a good purpose and altruism. Once registered the project team will contact you.
+If you want to collaborate on this project, the best way to contact us is by email at urantiapedia@gmail.com. Send a message stating your interest in the project and the Administrators will give you access.
 
-The Urantiapedia project in Blue Fields has this link: [Urantiapedia in Blue Fields](https://blue-fields.netlify.app/projects/292396532506821125).
+Another way that will be available soon is through registration on the website [Blue Fields](https://blue-fields.netlify.app/), which is a website that has been created to unite and organize readers of *The Urantia Book* who wish to participate in intelligent, purposeful, and altruistic projects around the world. Once registered, the project team will contact you. The Urantiapedia project on Blue Fields can be accessed here: [Urantiapedia on Blue Fields](https://blue-fields.netlify.app/projects/292396532506821125). However, this website is not 100% operational, so contact via email is recommended.
 
 The profiles we are looking for to collaborate are these:
 
 ## “Administrator” profile
 
-*Administrators* are in charge of maintenance of the web server, the page, bulk load of data, and they are the only ones with permission to edit *The Urantia Book*, *The Bible* and future specific contents. Check more in [Admin help](/en/help/admin).
+*Administrators* are responsible for maintaining the web server, configuring the website, and bulk uploading data. They are the only ones allowed to edit everything, including *The Urantia Book*, *The Bible*, and other specific content. Check more in [Admin help](/en/help/admin).
 
 * They have an account in this with admin permissions, and another in [GitHub](https://github.com/).
-* They add content to both Urantiapedia projects in GitHub: [Urantiapedia](https://github.com/JanHerca/urantiapedia) and [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). They can do bulk load of changes using the second project.
+* They can add content both through this website (without restrictions) as well as through the two Urantiapedia projects on GitHub: [Urantiapedia](https://github.com/JanHerca/urantiapedia) and [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). They can do bulk load of changes using the second project.
 * The task will be to manage the server and the website.
 * Good knowledge of Linux, [Docker](https://www.docker.com/), [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes), [Git](https://git-scm.com/) and [GitHub](https://github.com/) will be needed.
 * It will be important to have the aptitude to work in a team in open source environments.
@@ -39,27 +39,27 @@ The profiles we are looking for to collaborate are these:
 
 ## “Editor-in-Chief” Profile
 
-*Editors-in-Chief* can also contribute content via GitHub, just like Admins, even in bulk loads. They do not manage the website but have all the editing capabilities of an Administrator, with the exception of *The Urantia Book*, *The Bible* and some other sensitive content. Check [Editors-in-Chief help](/en/help/github).
+*Editors-in-Chief* can also contribute content through this site and GitHub, just like Administrators. However, they do not manage the site, they do not have all the editing capabilities of an Administrator, such as *The Urantia Book*, *The Bible*, and some other sensitive content, and through GitHub they can only make pull requests, never direct changes. Check [Editors-in-Chief help](/en/help/github).
 
 * They have an account in this with editing permissions, and another in [GitHub](https://github.com/).
-* They add content to both Urantiapedia projects in GitHub: [Urantiapedia](https://github.com/JanHerca/urantiapedia) and [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). They can do bulk load of changes using the second project.
+* They can modify the content through this website (with restrictions) as well as through the two Urantiapedia projects on GitHub: [Urantiapedia](https://github.com/JanHerca/urantiapedia) and [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). However, only pull requests can be made through these projects. Changes to unauthorized content on GitHub will be rejected upon submission.
 * A good knowledge of *The Urantia Book* is needed in at least one language, but better if it is English and a second language on which the book is translated.
 * It is important to have the ability to write well and correctly.
 * It helps to have personal availability, patience and perseverance.
 * It is important to have a good working knowledge of [Git](https://git-scm.com/) and [GitHub](https://github.com/).
 
-## “Assistant Editor” profile
-
-*Assistant Editors* can edit certain sections of the website for which they are given permissions. They can also email revisions and translations for *Admins* or *Editors-in-Chief* to bulk upload, making the job easier for this type of contributors. Check [Assistant Editors help](/en/help/github_assistant).
-
-* They have an account on this website with editing permissions. They do not use GitHub, and make additions either by sending through email or by editing directly on this website.
-* A good knowledge of *The Urantia Book* is needed in at least one language, but better if it is English and a second language on which the book is translated.
-* It is important to have the ability to write well and correctly.
-* No special computer knowledge is necessary as the main job is done through the web or by email.
-
 ## “Author” profile
 
-Authors are *Assistant Editors* who, apart from being able to edit what any *Assistant Editor* can, are also only editors with permission to edit certain content of which they are authors.
+*Authors* are *Editors-in-Chief* who, apart from being able to edit what any *Editor-in-Chief* can, are also the only editors with permission to edit certain content of which they are the authors.
+
+## “Assistant Editor” profile
+
+*Assistant Editors* only use GitHub to submit change requests. They do not have an account on this site. To make their work easier, they can also send their changes by email to urantiapedia@gmail.com, and the *Administrators* will take care of uploading these changes. See: [Manual for Assistant Editors](/en/help/github_assistant).
+
+* They do not have an account on this site. They can only use GitHub or email to send change requests.
+* They need a good knowledge of *The Urantia Book* in at least one language, but preferably English and a second language in which the book is translated.
+* It is important to have the ability to write well and correctly.
+* No special computer knowledge is necessary as the main work is done through the GitHub website or email.
 
 ## “Developer” profile
 
@@ -73,9 +73,10 @@ Authors are *Assistant Editors* who, apart from being able to edit what any *Ass
 
 ## “Reviewer” profile
 
-* The task is to ensure the correctness of users and content. Reviewers have permissions to block users or content that do not comply with policies and fair use of the web.
-* A good knowledge of *The Urantia Book* is needed in at least one language, but better if it is English and a second language on which the book is translated.
-* No special computer knowledge is necessary as the main job is done through the web.
+* The job of *Reviewers* is to ensure the correctness of the content. They do not need an account on this website or on GitHub. They review the existing content and if they find errors, they notify them via email at urantiapedia@gmail.com.
+* A good knowledge of the *Urantia Book* in at least one language is required, but it is better if it is English and a second language into which the book is translated.
+* Special computer skills are not necessary since the main work is done via email.
+* It is recommended to include an excerpt of the text that has been found to be incorrect, indicating the incorrect words and how they should be correct. The web address of the page with the error can also be included, but it is optional.
 
 ## External links
 

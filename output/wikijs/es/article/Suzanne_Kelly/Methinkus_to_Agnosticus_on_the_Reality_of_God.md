@@ -151,7 +151,7 @@ _¿Es ***lealtad***—devoción al deber más elevado—deseable?_
 
 Finalmente debo admitir que el hombre adora primero a Dios porque es grande. A medida que su conocimiento evoluciona, adora a Dios porque descubre una parte de Dios en sí mismo. Y por último adora a Dios porque está en Dios.
 
-(Las partes en cursiva de este documento son citas directas de _El Libro de URANTIA_: [LU 0:3.23](/es/The_Urantia_Book/0#p3_23); [LU 0:3.25](/es/The_Urantia_Book/0#p3_25); [LU 3:5.5](/es/The_Urantia_Book/3#p5_5); [LU 3:5.7](/es/The_Urantia_Book/3#p5_7))
+(Las partes en cursiva de este documento son citas directas de _El Libro de URANTIA_: <a id="a153_86"></a>[LU 0:3.23](/es/The_Urantia_Book/0#p3_23); <a id="a153_129"></a>[LU 0:3.25](/es/The_Urantia_Book/0#p3_25); <a id="a153_172"></a>[LU 3:5.5](/es/The_Urantia_Book/3#p5_5); <a id="a153_213"></a>[LU 3:5.7](/es/The_Urantia_Book/3#p5_7))
 
 <figure class="table chapter-navigator">
   <table>

@@ -24,23 +24,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 [Urantiapedia](https://urantiapedia.org) é um site colaborativo baseado em [Wiki.js](https://js.wiki/) com o propósito de ser um centro unificado para a disseminação de todo o conhecimento sobre *O Livro de Urântia*. 
 
-## Sobre o Blue Fields 
+## Sobre o Registo da Urantiapedia e Blue Fields
 
-[Blue Fields](https://blue-fields.netlify.app/) é um site que foi criado para juntar e organizar os leitores do *O Livro de Urântia* que desejam colaborar de forma inteligente, projetos altruístas em todo o mundo. É o site que gerencia o cadastro e a colaboração entre os voluntários da *Urantiapedia*. 
+Se pretende colaborar neste projeto, o melhor meio de contacto é urantiapedia@gmail.com. Envie uma mensagem a comentar o seu interesse no projeto e os Administradores encarregar-se-ão de lhe dar acesso.
+
+Outra forma que estará disponível em breve será através do registo no site [Blue Fields](https://blue-fields.netlify.app/), que é um site que foi criado para unir e organizar os leitores de *O Livro de Urântia* que desejam participar em projetos inteligentes, intencionais e altruístas em todo o mundo. Uma vez registado, a equipa do projeto entrará em contacto consigo. O projeto Urantiapedia em Blue Fields é acedido aqui: [Urantiapedia on Blue Fields](https://blue-fields.netlify.app/projects/292396532506821125). No entanto, este website não se encontra 100% operacional pelo que se recomenda o contacto via email.
 
 ## Sobre o GitHub
 
-O projeto [Urantiapedia](https://github.com/JanHerca/urantiapedia) no GitHub é um projeto criado para servir como um procedimento de inicialização rápida para *Urantiapedia*. Ele contém arquivos em determinados formatos e softwares que ajudam a automatizar a criação do conteúdo inicial. 
+[GitHub](https://github.com/) é uma plataforma para controlo de versões em projetos colaborativos, especialmente em projetos de código ou conteúdo web.
+
+O projeto *Urantiapedia* no GitHub (https://github.com/JanHerca/urantiapedia) é um projeto que contém todo o conteúdo do site, bem como uma aplicação (*Urantiapedia Tools*) para ajudar a automatizar a criação de conteúdo. O projeto *Urantiapedia-backup* (https://github.com/JanHerca/urantiapedia-backup) é o mecanismo utilizado para fazer uploads massivos de conteúdos.
 
 ## Para quem é este manual? 
 
 Este manual destina-se a usuários chamados *administradores*, ou *administradores*, abreviados, usuários que atendem aos seguintes requisitos: 
-- usuários registrados com uma conta em [Blue Fields](https://blue-fields.netlify.app/) e no [GitHub](https://github.com/). 
-- usuários que foram autorizados como *administradores* do projeto pela equipe que lidera o projeto na plataforma [Blue Fields](https://blue-fields.netlify.app/).
-- usuários registrados com uma conta na [Urantiapedia](https://urantiapedia.org). Apenas outro usuário *admin* pode registrar um usuário como um novo usuário *admin*.  
-- usuários com bom conhecimento sobre o uso do Git e GitHub.
-- usuários com bom conhecimento do *O Livro de Urântia* em pelo menos um idioma no qual ele é publicado, e preferencialmente com um bom nível da versão em inglês. 
-- usuários que desejam colaborar de forma altruísta na adição de conteúdo relacionado ao *O Livro de Urântia* na *Urantiapedia*. 
+- utilizadores registados no [GitHub](https://github.com/).
+- utilizadores autorizados como *admins* pela equipa que gere o projeto Urantiapedia.
+- utentes inscritos na Urântiapedia. Apenas outro utilizador *admin* pode registar um utilizador como *admin*.
+- utilizadores com conhecimentos de Linux, [Docker](https://www.docker.com/), [Kubernetes](https://es.wikipedia.org/wiki/Kubernetes), [Git](https:// git-scm.com/) e [GitHub](https://github.com/).
+- utilizadores com conhecimentos do *Livro de Urântia* em pelo menos uma língua em que é publicado, e de preferência com um bom nível da versão inglesa.
+- utilizadores que pretendam colaborar desinteressadamente na incorporação de informação relacionada com o *Livro de Urântia* na *Urantiapédia*.
 
 Os usuários *Admin* são os únicos responsáveis ​​pelo upload em massa das alterações no site *Urantiapedia* durante cada etapa do projeto. Mais sobre os marcos do projeto em [Help start](/pt/help/phases). 
 
@@ -56,7 +60,7 @@ O processo será o seguinte:
 7. Quando as alterações estiverem OK e o "Administrador" fizer a mesclagem, todas as alterações no projeto *Urantiapedia-backup* serão automaticamente sincronizadas com o site. Agora as alterações são visíveis para todos, para verificar e validar se estão corretas. 
 8. O processo é repetido quantas vezes forem necessárias, retornando ao ponto 2. 
 
-![](/image/github_workflow_version_2.png)
+![](/image/help/github_workflow_version_2.png)
 
 ## Configurando o projeto *Urantiapedia*
 
@@ -83,7 +87,7 @@ Uma vez que tenhamos a entrada nas pastas corretas, para cada idioma, os passos 
 
 *Editores Chefes* e *Editores Assistentes* realizam as tarefas 1-3. *Admins* executam tarefas 4-9. 
 
-![](/image/formats.png) 
+![](/image/help/formats.png) 
 
 ## Links externos 
 

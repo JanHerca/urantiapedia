@@ -37,7 +37,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 par _Cristina Seaborn et Stephen Sawyer_
 
-Le Conseil général a eu une élection vacante pour trois sièges vacants le 20 février 2021. Les nouveaux conseillers généraux sont :
+Le Conseil général a eu une élection vacante pour trois sièges vacants le 20 février 2021. Les nouveaux conseillers généraux sont :
 
 ## Sally Anabella de Seattle, Washington
 
@@ -51,17 +51,17 @@ Sally a fait du bénévolat de plusieurs manières pour la Fellowship, elle est 
 
 J’espère qu’il deviendra bien connu comme source d’inspiration et accepté comme vérité dans le monde entier. J'ai des idées de travaux secondaires.
 
-**Quels sont vos espoirs et vos idées pour The Fellowship ?**
+**Quels sont vos espoirs et vos idées pour The Fellowship ?**
 
-Je veux connaître la Communauté à un niveau plus profond et aider à diffuser les enseignements du _Livre d'Urantia_ en travaillant avec des âmes partageant les mêmes idées. En fait, travailler avec des âmes qui ne partagent pas les mêmes idées est également une bonne chose, une bonne chose pour grandir. Deux esprits ou plus valent toujours mieux qu’un ! Je n'ai pas d'idées pour la bourse pour le moment, mais je suis sûr que je le ferai si/quand je serai plus impliqué et que j'y penserai.
+Je veux connaître la Communauté à un niveau plus profond et aider à diffuser les enseignements du _Livre d'Urantia_ en travaillant avec des âmes partageant les mêmes idées. En fait, travailler avec des âmes qui ne partagent pas les mêmes idées est également une bonne chose, une bonne chose pour grandir. Deux esprits ou plus valent toujours mieux qu’un ! Je n'ai pas d'idées pour la bourse pour le moment, mais je suis sûr que je le ferai si/quand je serai plus impliqué et que j'y penserai.
 
 > Travailler avec des âmes qui ne partagent pas les mêmes idées, c'est bien aussi, c'est bon pour grandir.
 
-**Pourquoi recherchez-vous du service dans la Communauté ?**
+**Pourquoi recherchez-vous du service dans la Communauté ?**
 
 J’apprécie et respecte le travail accompli par la Fellowship et j’aspire à être plus utile. Je veux connaître plus intimement mes frères et sœurs et j’aimerais travailler pour accéder à une position de leadership.
 
-**Comment pensez-vous que vos compétences et/ou votre expérience vous qualifient pour servir ?**
+**Comment pensez-vous que vos compétences et/ou votre expérience vous qualifient pour servir ?**
 
 J'ai joué le rôle de trésorier de la Pilot Light Society de Seattle et celui de secrétaire d'autres organisations. J'étais membre du comité des musiciens pour aider à organiser l’IC17 à Denver et j'y ai également animé un atelier d'art.
 
@@ -77,15 +77,15 @@ Toni est un homme véritablement dévoué et doté d'une joie profonde qui souha
 
 Être capable de le présenter de manière à ce que les enfants puissent recevoir efficacement le message.
 
-**Quels sont vos espoirs et vos idées pour The Fellowship ?**
+**Quels sont vos espoirs et vos idées pour The Fellowship ?**
 
 Une communauté sans frontières atteignant toutes les religions, races et langues. 
 
-**Pourquoi recherchez-vous du service dans la Communauté ?**
+**Pourquoi recherchez-vous du service dans la Communauté ?**
 
 Je veux vraiment servir. J'ai grandement bénéficié de la bourse et du livre. Je crois que j'ai des connaissances et de l’expérience à partager et à contribuer. Je considère le service comme la prochaine étape de mon parcours.
 
-**Comment pensez-vous que vos compétences et/ou votre expérience vous qualifient pour servir ?**
+**Comment pensez-vous que vos compétences et/ou votre expérience vous qualifient pour servir ?**
 
 Je suis pasteur et j'occupe des postes ministériels depuis plus de 15 ans. Je suis très engagé dans l’étude du _Livre d'Urantia_, la dévotion personnelle et la croissance personnelle. J'ai d'excellentes compétences pédagogiques et administratives, et je suis également à l’aise avec les états financiers. J'ai également une bonne exposition et une bonne compréhension des autres religions.
 
@@ -101,15 +101,15 @@ Al faisait auparavant partie du Conseil général. Il travaille comme tuteur pou
 
 Qu'il continue son rôle important en tant que 5ème Révélation d'Époque dans l’élévation spirituelle de la planète et qu’il fournisse une satisfaction spirituelle et un refuge aux chercheurs de vérité du monde entier.
 
-**Quels sont vos espoirs et vos idées pour The Fellowship ?**
+**Quels sont vos espoirs et vos idées pour The Fellowship ?**
 
 Que sa présence et son influence continuent de croître physiquement en nombre, intellectuellement en sagesse et spirituellement dans l’unité collective de la foi.
 
-**Pourquoi recherchez-vous du service dans la Communauté ?**
+**Pourquoi recherchez-vous du service dans la Communauté ?**
 
 Parce que j'ai le temps, l’expérience et le désir de servir et d'assumer un rôle plus important au sein du Fellowship.
 
-**Comment pensez-vous que vos compétences et/ou votre expérience vous qualifient pour servir ?**
+**Comment pensez-vous que vos compétences et/ou votre expérience vous qualifient pour servir ?**
 
 J'étudie le livre depuis 1972. J'ai été l’un des premiers instructeurs de ce qui était alors l’inauguration de l’École Internet du Livre d'Urantia. J'ai donné de nombreux ateliers, présenté des discours d'actualité lors de conférences, servi comme ministre et enseignant pour les services du dimanche, fait des interviews à la radio et à la télévision au nom de la Fraternité, travaillé à des salons du livre, participé à plus de cinq groupes d'étude, partagé et discuté du _Livre d'Urantia_. avec des centaines de lecteurs et de chercheurs de vérité, a publié plusieurs articles et a déjà siégé au Conseil général de la Fraternité.
 

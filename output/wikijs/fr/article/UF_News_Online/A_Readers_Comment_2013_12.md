@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-4-dec-2013">
+        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-4-décembre-2013">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 4, Déc. 2013 — Table des matières</span>
         </a>
         </td>
@@ -53,11 +53,11 @@ C’est étrange comme nous aspirons à quelque chose, sans même savoir ce que 
 
 Mes amis ne pouvaient pas comprendre mon manque de passion et mon mécontentement pour l’église et certaines écritures de la religion avec lesquels nous avions grandi. Je voulais davantage et avais confiance que notre Père céleste me conduirait à des vérités supérieures.
 
-Enfin, un samedi soir je rencontrai un ami au supermarché. Nous partagions la même passion pour la vérité, et il me demanda ce que je cherchais dans la vie ? Il me testait pour savoir si j’étais ouverte pour _Le Livre d’Urantia._
+Enfin, un samedi soir je rencontrai un ami au supermarché. Nous partagions la même passion pour la vérité, et il me demanda ce que je cherchais dans la vie ? Il me testait pour savoir si j’étais ouverte pour _Le Livre d’Urantia._
 
 Lorsque j’eus partagé avec lui mes pensées, mes sentiments et ma quête de vérité, il dit qu’il comprenait ce que je vivais. Il dit qu’il connaissait le livre parfait pour moi.
 
-J’étais excitée, mais aussi lassée de trouver encore un autre livre qui dansait autour de la vérité, qui parlait de choses qui étaient en désaccord avec mon cœur. Mais je le commandai, et quand il arriva, je fus comme une enfant la veille de noël. Je déchirai la boîte et fut surprise de son épaisseur. Alors que j’en feuilletai les pages, je m’aperçus que je tenais en fait ce que je cherchais. Je trouvai confirmation après confirmation sur toutes les choses que je connaissais clairement dans mon cœur. Plusieurs fois, lors de la lecture du _Livre d’Urantia,_ je criai : « je le savais, je le savais !» Parfois, j’avais envie de rire aux éclats de pur plaisir.
+J’étais excitée, mais aussi lassée de trouver encore un autre livre qui dansait autour de la vérité, qui parlait de choses qui étaient en désaccord avec mon cœur. Mais je le commandai, et quand il arriva, je fus comme une enfant la veille de noël. Je déchirai la boîte et fut surprise de son épaisseur. Alors que j’en feuilletai les pages, je m’aperçus que je tenais en fait ce que je cherchais. Je trouvai confirmation après confirmation sur toutes les choses que je connaissais clairement dans mon cœur. Plusieurs fois, lors de la lecture du _Livre d’Urantia,_ je criai : « je le savais, je le savais !» Parfois, j’avais envie de rire aux éclats de pur plaisir.
 
 Vraiment, pour la première fois, je me sentais changer d’une manière que les mots ne pourront jamais exprimer. C’était comme si « j’ingérais » la vie elle-même. Chaque jour il devint plus facile de faire la chose « juste ».
 
@@ -65,7 +65,7 @@ Je suis plus heureuse maintenant, plus en paix.
 
 Je développe un amour profond et indicible pour le Père, pour moi, et pour mon prochain. Je construis vraiment une relation personnelle avec le Père et une compréhension personnelle, privée, et puissante de la Paternité de Dieu et de la fraternité des hommes.
 
-Toute ma vie je fus un grand point d’interrogation. Maintenant, plus je comprends les enseignements du _Livre d’Urantia,_ plus il est facile d’être celle que Dieu veut que je sois. Être plus comme le Père est à ma portée. Ce n’est pas toujours facile, mais plus je comprends la vérité, plus j’ai de force. Pour la première fois, je peux dire que je suis vraiment libre !
+Toute ma vie je fus un grand point d’interrogation. Maintenant, plus je comprends les enseignements du _Livre d’Urantia,_ plus il est facile d’être celle que Dieu veut que je sois. Être plus comme le Père est à ma portée. Ce n’est pas toujours facile, mais plus je comprends la vérité, plus j’ai de force. Pour la première fois, je peux dire que je suis vraiment libre !
 
 
 
@@ -86,7 +86,7 @@ Toute ma vie je fus un grand point d’interrogation. Maintenant, plus je compre
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-4-dec-2013">
+        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-4-décembre-2013">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 4, Déc. 2013 — Table des matières</span>
         </a>
         </td>

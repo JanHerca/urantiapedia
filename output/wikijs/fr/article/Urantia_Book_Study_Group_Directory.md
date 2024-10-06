@@ -25,7 +25,7 @@ dateCreated: 2023-6-21T8:13:38Z
         </td>
         <td>
         <a href="/fr/article/Stevie_Shaefer/Commonality_Among_Faiths">
-          <span class="pr-2">Projet « Commonalité entre les confessions » du Comité interconfessionnel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Projet « Commonalité entre les confessions » du Comité interconfessionnel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -57,7 +57,7 @@ En 2018, la fonctionnalité Répertoire a été mise à jour pour inclure la pos
 
 Les groupes virtuels permettent à ceux qui vivent dans des régions où il y a peu d'étudiants du Livre d'Urantia d'étudier avec d'autres, même s'ils se trouvent dans d'autres pays. L'annuaire peut également vous aider à trouver des groupes d'étude à visiter lorsque vous voyagez. Les groupes d’étude peuvent utiliser l’annuaire pour trouver un groupe « sœur » avec lequel partager leurs études en ligne. L'Annuaire est le meilleur outil disponible pour connecter des personnes à des groupes d'étude au niveau local ou dans le monde.
 
-Pour inscrire un groupe d'étude dans l’Annuaire, vous devez assurer votre groupe d'étude :
+Pour inscrire un groupe d'étude dans l’Annuaire, vous devez assurer votre groupe d'étude :
 - se concentre sur l’étude du _Le Livre d'Urantia_
 - est ouvert à tous les lecteurs
 - est de nature apolitique
@@ -71,7 +71,7 @@ Depuis sa création, l’annuaire est multilingue, affichant toutes les informat
 
 Les cinquante États des États-Unis sont représentés dans 227 groupes en personne et 46 groupes d'étude virtuels. À l’échelle internationale, il existe 162 groupes en personne et 84 groupes virtuels répertoriés. Certains groupes sont à la fois en personne et virtuels. À quelques points de pourcentage en constante évolution, ce sont des groupes d’étude actifs et confirmés !
 
-Nous encourageons tous les hôtes à inscrire votre groupe dans l’LUSGD. www.UrantiaStudyGroup.org Il existe, bien sûr, de nombreux groupes d'étude dans le monde qui ne sont pas répertoriés dans le Répertoire. La liste de votre groupe vous aidera à trouver de nouveaux membres. Et en retour, cela aidera les étudiants du _Livre d'Urantia_ à trouver des familles de groupes d'étude et contribuera à augmenter le nombre de groupes d'étude disponibles. La valeur d’héberger ou de participer à un groupe est inestimable !
+Nous encourageons tous les hôtes à inscrire votre groupe dans l’LUSGD. www.UrantiaStudyGroup.org Il existe, bien sûr, de nombreux groupes d'étude dans le monde qui ne sont pas répertoriés dans le Répertoire. La liste de votre groupe vous aidera à trouver de nouveaux membres. Et en retour, cela aidera les étudiants du _Livre d'Urantia_ à trouver des familles de groupes d'étude et contribuera à augmenter le nombre de groupes d'étude disponibles. La valeur d’héberger ou de participer à un groupe est inestimable !
 
 Seuls les hôtes de groupes d'étude peuvent répertorier leur groupe ou mettre à jour leurs informations. L'équipe de l’annuaire n'ajoute aucun groupe, même si nous sommes toujours prêts à aider quiconque à activer une liste ou à maintenir ses informations à jour. Rejoignez la liste croissante d’enseignants et de dirigeants organisant des groupes d’étude au service de cette révélation ! Explorez le site Web du Répertoire pour découvrir ses nombreuses fonctions faciles à utiliser ainsi que ses informations et ressources utiles. Chaque organisation a publié son guide de groupe d'étude pour vous aider à créer un groupe d'étude ou à améliorer le groupe que vous avez. Pour plus d'informations, vous pouvez contacter l’équipe de l’annuaire à : team@urantiastudygroup.org
 
@@ -103,7 +103,7 @@ Dans un service joyeux,
         </td>
         <td>
         <a href="/fr/article/Stevie_Shaefer/Commonality_Among_Faiths">
-          <span class="pr-2">Projet « Commonalité entre les confessions » du Comité interconfessionnel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Projet « Commonalité entre les confessions » du Comité interconfessionnel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

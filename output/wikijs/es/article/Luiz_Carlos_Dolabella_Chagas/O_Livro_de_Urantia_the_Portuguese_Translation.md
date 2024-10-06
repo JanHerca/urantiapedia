@@ -55,7 +55,7 @@ Estoy familiarizado con la versatilidad y mente abierta de los hablantes de port
 
 ## ¿Cuáles son sus expectativas para _El libro de Urantia_ en las zonas donde se habla portugués?
 
-Espero que _El libro de Urantia_ sea adoptado por las personas de todo el mundo. Las enseñanzas de este libro nos ayudarán a acercarnos a Dios. "…cuando la personalidad de un mortal ascendente se sintoniza finalmente con las directrices divinas de su Ajustador interior, entonces la manifestación del Supremo se vuelve un grado más real en los universos; la divinidad de la Supremacía ha avanzado entonces un paso más hacia su realización cósmica" (1278.3) 117:0.3.
+Espero que _El libro de Urantia_ sea adoptado por las personas de todo el mundo. Las enseñanzas de este libro nos ayudarán a acercarnos a Dios. «…cuando la personalidad de un mortal ascendente se sintoniza finalmente con las directrices divinas de su Ajustador interior, entonces la manifestación del Supremo se vuelve un grado más real en los universos; la divinidad de la Supremacía ha avanzado entonces un paso más hacia su realización cósmica» <a id="a57_448"></a>[LU 117:0.3](/es/The_Urantia_Book/117#p0_3).
 
 ## ¿Cómo se ha recibido _El libro de Urantia_ en Brasil y en Portugal?
 

@@ -15,7 +15,7 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/fr/article/Joshua_J_Wilson/Checkmate_The_Progress_Angels">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Échec et mat : les anges du progrès et les gardiens religieux en jeu</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Échec et mat : les anges du progrès et les gardiens religieux en jeu</span>
         </a>
         </td>
         <td>
@@ -65,7 +65,7 @@ Cependant, conformément au thème de ne pas perdre ce qui est essentiel et bon 
 
 > Il y a un but réel dans la socialisation de la religion. Les activités religieuses collectives ont pour but de mettre en scène la fidélité envers la religion ; de magnifier les attraits de la vérité, de la beauté et de la bonté ; d’entretenir l’attirance des valeurs suprêmes ; d’amplifier le service de fraternité désintéressé ; de glorifier les potentiels de la vie de famille ; de promouvoir l’éducation religieuse ; de fournir de sages conseils et des directives spirituelles et d’encourager le culte en commun. Toutes les religions vivantes encouragent l’amitié humaine, préservent la moralité, favorisent le bienêtre du voisinage et facilitent la diffusion de l’évangile essentiel de leurs messages respectifs de salut éternel. (<a id="a65_737"></a>[LU 99:6.2](/fr/The_Urantia_Book/99#p6_2))
 
-Certains de ces idéaux peuvent être atteints en ligne ; c'est une bénédiction de vivre à une époque où les relations peuvent être entretenues virtuellement. Mais nous avons également constaté la nécessité d’une entreprise en face à face lors de la récente mise en quarantaine pandémique. Le mouvement Urantia a besoin de communautés locales saines ainsi que d’une perspective mondiale. Nous devons chercher à « maintenir les idéaux de ce qui a survécu dans l’intérêt du transit sûr des valeurs morales », tout en cherchant à « faire des choses ce qu’elles devraient être ».
+Certains de ces idéaux peuvent être atteints en ligne ; c'est une bénédiction de vivre à une époque où les relations peuvent être entretenues virtuellement. Mais nous avons également constaté la nécessité d’une entreprise en face à face lors de la récente mise en quarantaine pandémique. Le mouvement Urantia a besoin de communautés locales saines ainsi que d’une perspective mondiale. Nous devons chercher à « maintenir les idéaux de ce qui a survécu dans l’intérêt du transit sûr des valeurs morales », tout en cherchant à « faire des choses ce qu’elles devraient être ».
 
 En plus des sessions d'étude régulières d'été, des efforts pour visiter et soutenir les groupes locaux (informez le comité si vous souhaitez un présentateur invité) et des forums d'ateliers en ligne, le comité cherche, grâce à ses ressources, à combiner « ce qui devrait être » avec progrès. La page Web du comité existera bientôt sur le nouveau site Web de la Fellowship, tout comme elle l’était auparavant. En attendant, bon nombre de nos ressources téléchargeables sont disponibles à https://urantiabook.org/EducationCommittee-Resources.
 
@@ -85,7 +85,7 @@ Le comité a hâte de vous voir en ligne et à SSS21, toutes les questions d'iso
       <tr>
         <td>
         <a href="/fr/article/Joshua_J_Wilson/Checkmate_The_Progress_Angels">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Échec et mat : les anges du progrès et les gardiens religieux en jeu</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Échec et mat : les anges du progrès et les gardiens religieux en jeu</span>
         </a>
         </td>
         <td>

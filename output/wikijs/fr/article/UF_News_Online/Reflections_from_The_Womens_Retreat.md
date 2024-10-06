@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-4-dec-2014">
+        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-4-décembre-2014">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 4, Déc. 2014 — Table des matières</span>
         </a>
         </td>
@@ -41,7 +41,7 @@ _Note de l'éditeur: En octobre 2014, la Retraite pour les Femmes a eu lieu à l
 <figcaption><em>Alice Wood, Wisconsin, United States</em></figcaption>
 </figure>
 
-Après m’être inscrite pour participer au weekend de la Retraite pour les Femmes, mon mari plaisanta à plusieurs reprises, disant que j’allais à un cercle de tricot. Quand il me demanda de quoi il était vraiment question, je ne pus que répondre, que c’était à propos des femmes et que ce serait merveilleux. Même après le premier jour de la retraite, j’avais du mal à donner une bonne description de la retraite. J’écrivis une note dans mon journal qui disait: « Nous ne parlons pas du _Livre d'Urantia._ Nous ne parlons pas de l'Esprit Mère. Nous partageons. Nous allons à l’encontre d’accentuer l’intellectuel qui est si souvent dominant parmi les lecteurs du _Livre d'Urantia_ » .
+Après m’être inscrite pour participer au weekend de la Retraite pour les Femmes, mon mari plaisanta à plusieurs reprises, disant que j’allais à un cercle de tricot. Quand il me demanda de quoi il était vraiment question, je ne pus que répondre, que c’était à propos des femmes et que ce serait merveilleux. Même après le premier jour de la retraite, j’avais du mal à donner une bonne description de la retraite. J’écrivis une note dans mon journal qui disait: « Nous ne parlons pas du _Livre d'Urantia._ Nous ne parlons pas de l'Esprit Mère. Nous partageons. Nous allons à l’encontre d’accentuer l’intellectuel qui est si souvent dominant parmi les lecteurs du _Livre d'Urantia_ » .
 
 Bien sûr, nous avons parlé _du Livre d'Urantia_ et de l'Esprit Mère ainsi que des forces féminines d'émotions, d'intuition et de moralité. Mais ce n’était pas le point central. L'accent fut mis sur la façon dont ces choses fonctionnent au sein de nos vies. Nous en avons toutes retiré quelque chose de différent. J’en ai rapporté une plus grande confiance dans la valeur de mes émotions et de mon intuition. Trop souvent, j’ai ressenti que ces traits devaient être supprimés, mais de plus en plus, je vois qu'ils ajoutent quelque chose à un environnement plus sain et plus équilibré.
 
@@ -77,7 +77,7 @@ Doreen Heyne, Floride, États-unis
 <figcaption><em>Carrie Prentice, South Dakota, United States</em></figcaption>
 </figure>
 
-Le dimanche, j’ai conduit le groupe à examiner ce que le _Livre d'Urantia_ disait explicitement sur ​​les différences entre les hommes et les femmes, en prenant en compte que la Révélation Urantia était adressée à un public du début du 20 ième siècle. Par exemple, nous avons pris en considération l'importance de cette déclaration: « Toutefois, les femmes, ont toujours été les porte-drapeau de la morale et les directrices spirituelles de l'humanité. » <a id="a79_455"></a>[LU 84:6.4](/fr/The_Urantia_Book/84#p6_4)
+Le dimanche, j’ai conduit le groupe à examiner ce que le _Livre d'Urantia_ disait explicitement sur ​​les différences entre les hommes et les femmes, en prenant en compte que la Révélation Urantia était adressée à un public du début du 20 ième siècle. Par exemple, nous avons pris en considération l'importance de cette déclaration: « Toutefois, les femmes, ont toujours été les porte-drapeau de la morale et les directrices spirituelles de l'humanité. » <a id="a79_455"></a>[LU 84:6.4](/fr/The_Urantia_Book/84#p6_4)
 
 Le groupe a également examiné la mise en place du corps des femmes de Jésus, qui accompagnait les apôtres durant le troisième tour de prédication.
 
@@ -117,7 +117,7 @@ Line St-Pierre, Québec, Canada
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-4-dec-2014">
+        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-4-décembre-2014">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 4, Déc. 2014 — Table des matières</span>
         </a>
         </td>

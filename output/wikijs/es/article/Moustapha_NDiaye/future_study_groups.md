@@ -95,7 +95,7 @@ Junto con el Hijo Maestro, el Dios que está dentro de nosotros y el Supremo que
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2019/?lang=es)
 - [Este artículo](https://urantia-association.org/que-futuro-les-espera-a-los-grupos-de-estudio/?lang=es)
 

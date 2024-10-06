@@ -36,9 +36,9 @@ _Por Simone Cox, Sudáfrica_
 
 _Nota de Tamara Wood Coordinadora de la Fundación Urantia para la Iniciativa Sudafricana:_
 
-_Muchas personas de la comunidad de lectores han patrocinado un proyecto para colocar más de 1.000 libros de Urantia en el sur de África y lo ha llevado a cabo Mark Bloomfield. El proyecto comenzó en junio cuando Mark recibió el primer envío de 500 libros en Port Elizabeth, Sudáfrica. Desde entonces, 700 libros han sido aceptados con gratitud por bibliotecas públicas, universidades e instituciones religiosas, como lo indican las numerosas cartas de agradecimiento que ha recibido la Fundación Urantia.
+_Muchas personas de la comunidad de lectores han patrocinado un proyecto para colocar más de 1.000 libros de Urantia en el sur de África y lo ha llevado a cabo Mark Bloomfield. El proyecto comenzó en junio cuando Mark recibió el primer envío de 500 libros en Port Elizabeth, Sudáfrica. Desde entonces, 700 libros han sido aceptados con gratitud por bibliotecas públicas, universidades e instituciones religiosas, como lo indican las numerosas cartas de agradecimiento que ha recibido la Fundación Urantia._
 
-_Mark ha cubierto mucho territorio dentro de Sudáfrica y también ha colocado libros en Namibia y Botswana. Actualmente, se encuentra en camino a Mombassa, Kenia, donde llegarán 300 libros para su colocación adicional en la biblioteca. Después de esta ronda, Mark regresará a Sudáfrica para recibir un envío más de 300 libros para completar esta fase de su misión.
+_Mark ha cubierto mucho territorio dentro de Sudáfrica y también ha colocado libros en Namibia y Botswana. Actualmente, se encuentra en camino a Mombassa, Kenia, donde llegarán 300 libros para su colocación adicional en la biblioteca. Después de esta ronda, Mark regresará a Sudáfrica para recibir un envío más de 300 libros para completar esta fase de su misión._
 
 _Los Fideicomisarios y el personal extienden su agradecimiento a la comunidad de lectores por participar en este servicio de hacer que nuestro preciado texto esté disponible para tantas personas en todo el sur de África._
 

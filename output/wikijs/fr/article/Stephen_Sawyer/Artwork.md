@@ -43,7 +43,7 @@ Cela a toujours été un plaisir de dire oui à Cristina pour les couvertures de
 
 Les originaux sont à vendre et il existe également une série de tirages en édition très limitée.
 
-Pour plus d'informations sur leur disponibilité et la part qui sera reversée à la Fellowship, vous pouvez visiter mon site Web :
+Pour plus d'informations sur leur disponibilité et la part qui sera reversée à la Fellowship, vous pouvez visiter mon site Web :
 
 [www.ART4GOD.com](https://www.art4god.com/).
 

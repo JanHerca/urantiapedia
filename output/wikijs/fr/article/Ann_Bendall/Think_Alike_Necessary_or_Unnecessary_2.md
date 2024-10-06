@@ -1,5 +1,5 @@
 ---
-title: "Pensez-y : nécessaire ou inutile ?"
+title: "Pensez-y : nécessaire ou inutile ?"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z
@@ -15,7 +15,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
       <tr>
         <td>
         <a href="/fr/article/Chuck_Thurston/Unity_Principles_The_Key_to_Dynamic_Oneness">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principes d'unité : la clé de l'unité dynamique</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principes d'unité : la clé de l'unité dynamique</span>
         </a>
         </td>
         <td>
@@ -65,10 +65,10 @@ Notre expérience devient parfois inconfortable lorsque nous découvrons que les
 
 C'est comme si nous devenions émotionnellement et intellectuellement attachés à nos définitions, et que nous voulions ensuite les imposer aux autres comme _la vérité_, plutôt que comme notre vérité, à ce moment précis. Nous avons besoin de qualifier leurs points de vue divergents de _faux_ ou _naïfs_ ou de devenir incertains quant à la possibilité que les nôtres soient _faux_.
 
-Nous semblons également sentir que nous devons :
+Nous semblons également sentir que nous devons :
 
-1. supprimer nos points de vue comme prix à payer pour parvenir à l’harmonie avec eux ;
-2. convertissez-les ; ou
+1. supprimer nos points de vue comme prix à payer pour parvenir à l’harmonie avec eux ;
+2. convertissez-les ; ou
 3. rejeter l’interaction avec eux, la reléguant au rang de sans valeur.
 
 En tant que sujet principal de mes recherches sur la façon dont l'être humain pense, je m'observe, encore et encore, écouter le point de vue d'une autre personne sur un sujet religieux ou spirituel – la certitude ou la conviction dans son ton qu'elle dit une _vérité universelle_, suivie en exprimant mon opinion sur un sujet. Sur un sujet passionné comme la religion, la discussion se transforme souvent rapidement en un débat important sur qui a raison et qui a tort, avec la tendance à ne montrer absolument aucun respect pour la réalité actuelle de l'autre, basé sur notre besoin de l'éduquer à l'erreur. de leur croyance.
@@ -107,7 +107,7 @@ Et le fait que j'apprends continuellement et que je ne connaîtrai jamais la vé
 
 ## Remarques
 
-[^1] : pour plus d'informations, voir https://en.wikipedia.org/wiki/Thomas_Merton.
+[^1] : pour plus d'informations, voir https://en.wikipedia.org/wiki/Thomas_Merton.
 
 <figure class="table chapter-navigator">
   <table>
@@ -115,7 +115,7 @@ Et le fait que j'apprends continuellement et que je ne connaîtrai jamais la vé
       <tr>
         <td>
         <a href="/fr/article/Chuck_Thurston/Unity_Principles_The_Key_to_Dynamic_Oneness">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principes d'unité : la clé de l'unité dynamique</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principes d'unité : la clé de l'unité dynamique</span>
         </a>
         </td>
         <td>

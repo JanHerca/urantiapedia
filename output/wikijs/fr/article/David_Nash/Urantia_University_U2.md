@@ -94,7 +94,7 @@ La structure du corps professoral est simple. Deux enseignants (niveau 1) se qua
 Les enseignants des trois niveaux seront affectés à d'autres épreuves/groupes d'épreuves (en fonction de leur prédilection) selon un calendrier convenu afin de garder l'enseignement frais et dynamique. Les enseignants des niveaux Master et Elder seront également tenus d'enseigner une seule épreuve, de fournir un soutien aux enseignants et aux étudiants et d'offrir un contexte plus large pour faciliter une compréhension plus approfondie du contenu de chaque épreuve. 
 
 > David Nash est un lecteur du _Livre d'Urantia_ depuis 1974. Il est un spécialiste/consultant professionnel en planification générale qui a personnellement travaillé avec des centaines de grandes entreprises et est le fondateur de la National Association for Shiftwork Health, qui est en outre soutenue par le gouvernement des États-Unis. David détient également les droits de PRISM, un programme modulaire qui capture les personnes à risque et prévient les accidents. 
-{is-info}
+{.is-info}
 
 > Correction : 
 > 

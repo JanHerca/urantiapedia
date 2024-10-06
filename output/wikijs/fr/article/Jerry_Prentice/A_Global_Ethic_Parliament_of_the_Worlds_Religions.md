@@ -42,7 +42,7 @@ par Jerry Prentice L'unité est également une préoccupation mondiale. Et si no
 
 
 
-**NOUS DÉCLARONS :**
+**NOUS DÉCLARONS :**
 
 Nous sommes interdépendants. Chacun de nous dépend du bien-être de l’ensemble, c’est pourquoi nous respectons la communauté des êtres vivants, des personnes, des animaux et des plantes, ainsi que la préservation de la Terre, de l’air, de l’eau et du sol.
 
@@ -62,7 +62,7 @@ Nous invitons tout le monde, qu’il soit religieux ou non, à faire de même.
 
 <br style="clear:both;"/>
 
-Pour en savoir plus sur l’éthique mondiale du Parlement des religions du monde, rendez-vous sur :
+Pour en savoir plus sur l’éthique mondiale du Parlement des religions du monde, rendez-vous sur :
 
 https://parliamentofreligions.org/wp-content/uploads/2023/05/Global-Ethic-PDF-2020-Update.pdf
 

@@ -43,7 +43,7 @@ Los nuevos desarrollos combinados con el aumento de las actividades tradicionale
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/flower.jpg">
-<figcaption><em>«La belleza siempre triunfa sobre la fealdad en el corazón de todos los que están iluminados por el amor de la verdad». (<a id="a45_137"></a>[LU 156:5.5](/es/The_Urantia_Book/156#p5_5)) Fotografía de Carol Herron.</em></figcapton>
+<figcaption><em>«La belleza siempre triunfa sobre la fealdad en el corazón de todos los que están iluminados por el amor de la verdad». (<a id="a45_137"></a>[LU 156:5.5](/es/The_Urantia_Book/156#p5_5)) Fotografía de Carol Herron.</em></figcaption>
 </figure>
 
 

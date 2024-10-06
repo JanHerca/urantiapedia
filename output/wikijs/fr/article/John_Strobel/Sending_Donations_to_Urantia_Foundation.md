@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-11-numéro-4-dec-2017">
+        <a href="/fr/index/articles_uf_news_online#volume-11-numéro-4-décembre-2017">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 4, Déc. 2017 — Table des matières</span>
         </a>
         </td>
@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par John Strobel, Illinois, États-Unis_
 
-Avez-vous déjà fait un don caritatif, pour découvrir ensuite que le PDG se faisait des millions, ou qu’il en dépensait un important pourcentage en « marketing » ? Vous pouvez penser que votre argent est gaspillé ou dépensé pour d’autres choses que sa mission caritative. Et bien, vous pouvez être sûr que votre argent donné à la Fondation Urantia, est dépensé sagement, pour propager _Le Livre d’Urantia_ et ses enseignements à travers le monde.
+Avez-vous déjà fait un don caritatif, pour découvrir ensuite que le PDG se faisait des millions, ou qu’il en dépensait un important pourcentage en « marketing » ? Vous pouvez penser que votre argent est gaspillé ou dépensé pour d’autres choses que sa mission caritative. Et bien, vous pouvez être sûr que votre argent donné à la Fondation Urantia, est dépensé sagement, pour propager _Le Livre d’Urantia_ et ses enseignements à travers le monde.
 
 Bonjour, je m’appelle John Strobel et je suis sûr que vous connaissez ma femme Joanne, qui a servi la Révélation Urantia depuis six ans, ici à Chicago. Bien que je ne passe que lorsque on a besoin de moi, à 533, j’ai passé assez de temps là-bas pour savoir que chaque dollar est vraiment apprécié, judicieusement budgété et géré frugalement. Lorsque l’on discute des frais (que ce soit pour acheter de nouveaux équipements ou juste pour remplir la réserve de café), j’ai souvent entendu le personnel s’avertir les uns les autres, du fait que c’est l’argent des donateurs que l’on dépense. Étant moi-même un donateur mensuel, cela m’a toujours fait du bien de savoir que mes contributions temporelles et financières étaient réellement respectées.
 
@@ -69,7 +69,7 @@ Bonjour, je m’appelle John Strobel et je suis sûr que vous connaissez ma femm
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-11-numéro-4-dec-2017">
+        <a href="/fr/index/articles_uf_news_online#volume-11-numéro-4-décembre-2017">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 4, Déc. 2017 — Table des matières</span>
         </a>
         </td>

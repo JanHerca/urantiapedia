@@ -57,13 +57,13 @@ Comment puis-je connaître toutes ces informations ? J'ai demandé à Seppo Kane
 
 Faits, significations et valeurs est le thème général de cette conférence internationale. Une autre triple association de mots importante et connexe est Origine, Histoire et Destin. Alors que toute la conférence sera consacrée au thème général, j'aimerais profiter des 30 prochaines minutes pour parler de l'origine et du développement des Cahiers d'Urantia dans les premiers jours, pour présenter la Fondation Urantia dans ce contexte historique, sa confiance , responsabilités et programmes et, à partir de là, j'essaierai d'expliquer comment nous nous comportons pour atteindre ce but et la direction que prend la Fondation Urantia pour l'avenir.
 
-## La Cinquième Révélation d'Époque : _Le Livre d'Urantia_
+## La Cinquième Révélation d'Époque : _Le Livre d'Urantia_
 
 Concernant la succession des Révélations Épochales, on nous dit qu’Urantia est une planète décimale et sujette à des expérimentations. On nous dit également que notre malheureux monde a souffert de trahison, d'impatience et de quarantaine et par conséquent nous savons que _« Urantia ne procède pas dans l'ordre normal. »_ <a id="a61_323"></a>[[LU 52:6.1](/fr/The_Urantia_Book/52#p6_1)].
 
-Je suppose que les êtres spirituels chargés du bien-être de notre planète ont été confrontés au problème suivant : quelle sorte de révélation d'époque offriraient-ils à Urantia en tant que cinquième, en gardant à l'esprit que les deux premières ont échoué, que la troisième était une révélation d'urgence, et le quatrième est mort sur la croix avec les enseignements de Jésus et est devenu quelque peu déformé et occidentalisé.
+Je suppose que les êtres spirituels chargés du bien-être de notre planète ont été confrontés au problème suivant : quelle sorte de révélation d'époque offriraient-ils à Urantia en tant que cinquième, en gardant à l'esprit que les deux premières ont échoué, que la troisième était une révélation d'urgence, et le quatrième est mort sur la croix avec les enseignements de Jésus et est devenu quelque peu déformé et occidentalisé.
 
-Comme on le voit, ils ont choisi un livre. Et bien sûr, nous pouvons conjecturer sur les nombreuses raisons qui justifient un tel choix. En voici deux qui me paraissent importants :
+Comme on le voit, ils ont choisi un livre. Et bien sûr, nous pouvons conjecturer sur les nombreuses raisons qui justifient un tel choix. En voici deux qui me paraissent importants :
 
 1. Un livre est un véhicule moderne parfait pour transmettre des informations et des concepts aux gens. Ainsi, tout individu, ainsi que chaque famille, peut y être exposé. Il peut également être traduit et largement diffusé à faible coût dans le monde entier. Mais il existe également certains dangers : par exemple, le texte peut être modifié, altéré, simplifié, digéré et/ou démembré. Tout cela diminuerait la force et l’efficacité de la révélation. Il pourrait tout simplement être détruit ou perdu si une quantité insuffisante du texte intégral était diffusée. La qualité et l'exactitude des traductions seront un facteur déterminant de son succès dans tous les pays non anglophones.
 2. Un livre est un défi intellectuel lancé à l'esprit humain. Nous avons eu l’élévation physique de l’humanité avec Adam et Ève. Nous avons eu une élévation spirituelle avec Jésus et ses enseignements incomparables. Nous avons maintenant l'élévation intellectuelle avec _Le Livre d'Urantia_. Il est donc important que l'intégrité et l'intégralité du texte, ainsi que la qualité des traductions, soient respectées et diffusées dans leur ensemble, afin d'être en sécurité et de continuer, siècle après siècle, à défier l'esprit humain.
@@ -74,13 +74,13 @@ Finalement, ils ont élaboré un plan holistique que l'on peut diviser en trois 
 
 **Première étape : Préparation et réception des Papiers Urantia (début 1910-1937).** (grossesse) À un moment donné au cours du processus, certains humains seraient impliqués.
 
-**Deuxième étape : organisation, planification, lancement et développement précoce. (1938-2030)** (Naissance et enfance de la révélation.) A cette époque, une organisation sera créée avec pour mission de diffuser, de produire des traductions et de protéger. En outre, une sorte de corps social de croyants, en tant que progéniture naturelle du Forum, aurait lieu.
+**Deuxième étape : organisation, planification, lancement et développement précoce. (1938-2030)** (Naissance et enfance de la révélation.) A cette époque, une organisation sera créée avec pour mission de diffuser, de produire des traductions et de protéger. En outre, une sorte de corps social de croyants, en tant que progéniture naturelle du Forum, aurait lieu.
 
 **Troisième étape : L'époque complète de la révélation (2036-prochaine Révélation)**, (l'âge adulte de la révélation) le temps de la maturité. Le texte serait dans le domaine public, les traductions seraient disponibles dans la plupart des langues du monde, se diffuseraient à l'échelle mondiale et constitueraient le levé et l'épanouissement évolutif de la révélation parmi le peuple d'Urantia.
 
 Dans la présentation d'aujourd'hui, je traiterai principalement des étapes un et deux.
 
-## _ÉTAPE UN :_ Préparation et réception des Cahiers d'Urantia (Début 1910-1937)
+## _ÉTAPE UN :_ Préparation et réception des Cahiers d'Urantia (Début 1910-1937)
 
 ### Le passé
 
@@ -118,13 +118,13 @@ Un intéressant document non publié écrit par le Docteur William S. Sadler, qu
 
 Le Dr Sadler décrit avec quelle minutie et quelle intensité son groupe a été formé pendant vingt ans en guise de pré-éducation avant le début des Cahiers. Nous lisons dans son histoire :
 
-> _« Au cours de ces premières années, nous avons été initiés à de nombreux concepts nouveaux et quelque peu étranges sur l'univers des univers et en ce qui concerne l'homme et sa vie sur terre. »_
+> _« Au cours de ces premières années, nous avons été initiés à de nombreux concepts nouveaux et quelque peu étranges sur l'univers des univers et en ce qui concerne l'homme et sa vie sur terre. »_
 
 Le Dr Sadler continue en énumérant de nombreuses idées de cosmologie et de philosophie qui ont été introduites à cette époque ; de nouveaux concepts tels que le cosmos lointain, des millions d'autres mondes habités, des dizaines de personnalités célestes différentes, la confirmation de l'origine évolutive de l'humanité, un univers évolutif, de multiples divinités créatrices, Havona, des superunivers, l'Être Suprême, etc.
 
 Le Dr Sadler a écrit :
 
-> _« Nos amis surhumains ont passé plus de deux décennies à étendre nos horizons cosmiques, à élargir nos concepts théologiques et à élargir notre philosophie globale._
+> _« Nos amis surhumains ont passé plus de deux décennies à étendre nos horizons cosmiques, à élargir nos concepts théologiques et à élargir notre philosophie globale._
 > 
 > _« Nous n'avions jamais réalisé à quel point notre pensée religieuse avait été élargie jusqu'à ce que les fascicules commencent à arriver. Au fur et à mesure que la révélation progressait, nous sommes parvenus à mieux comprendre à quel point nous avions été préparés/ou la vaste aberration de nos croyances religieuses par ces contacts préliminaires s'étendant sur une période de vingt ans de pré-éducation._
 > 
@@ -140,7 +140,7 @@ Le document raconte les premiers pas du petit groupe de chercheurs de vérité. 
 > 
 > _« Ce fut la procédure suivie tout au long des nombreuses années de réception des Cahiers d'Urantia. Pas de questions - pas de papiers. »_
 > 
-> _« C'était le plan : on lisait un article un dimanche après-midi et le dimanche suivant les nouvelles questions seraient présentées à nouveau, celles-ci seraient triées, classées, etc. Ce programme s'étalait sur plusieurs années et aboutissait finalement au présentation des 196 communications telles qu'on les trouve maintenant dans_Le Livre d'Urantia_. »_
+> _« C'était le plan : on lisait un article un dimanche après-midi et le dimanche suivant les nouvelles questions seraient présentées à nouveau, celles-ci seraient triées, classées, etc. Ce programme s'étalait sur plusieurs années et aboutissait finalement au présentation des 196 communications telles qu'on les trouve maintenant dans _Le Livre d'Urantia_. »_
 
 ### Le Forum et la Commission de Contact deviennent deux groupes distincts
 
@@ -152,7 +152,7 @@ Puis, on nous raconte qu'en septembre 1928, le Dr Sadler et son groupe de contac
 > 
 > _« Durant la période de réception des Cahiers d'Urantia, plus de 300 personnes différentes ont participé à poser ces questions génétiques. À quelques exceptions près, tous les fascicules d'Urantia ont été donnés en réponse à de telles questions. »_
 > 
-> _« Les personnes chargées de rassembler les questions et de comparer le texte dactylographié avec le manuscrit original manuscrit étaient désormais connues sous le nom de commissaires de contact. » À partir de cette date, seuls ces commissaires de contact ont assisté aux « contacts » et ont reçu des communications écrites par l'intermédiaire de la personnalité de contact. »_
+> _« Les personnes chargées de rassembler les questions et de comparer le texte dactylographié avec le manuscrit original manuscrit étaient désormais connues sous le nom de commissaires de contact. » À partir de cette date, seuls ces commissaires de contact ont assisté aux « contacts » et ont reçu des communications écrites par l'intermédiaire de la personnalité de contact. »_
 
 Voici une autre déclaration intéressante du docteur Sadler :
 
@@ -162,11 +162,11 @@ Ces déclarations montrent très clairement que les Révélateurs étaient préo
 
 En fait, la Fondation Urantia a écrit des documents montrant que dès octobre 1932, M. Wilfred Kellogg, l'un des commissaires de contact, fut chargé de la responsabilité d'examiner les droits d'auteur internationaux pour le _Livre d'Urantia_. Je crois comprendre que les auteurs recherchaient déjà la protection du livre bien avant qu'il ne soit terminé.
 
-Le Dr Sadler a également déclaré :
+Le Dr Sadler a également déclaré :
 
-> _« Il nous a été enjoint de nous abstenir de discuter de l'identité de la personnalité de contact et, après la publication du livre, de faire toute déclaration à tout moment quant à savoir si le « sujet » était toujours en vie ou était décédé »_
+> _« Il nous a été enjoint de nous abstenir de discuter de l'identité de la personnalité de contact et, après la publication du livre, de faire toute déclaration à tout moment quant à savoir si le « sujet » était toujours en vie ou était décédé »_
 
-## _ÉTAPE DEUX :_ Préparation, organisation, lancement et développement précoce de la révélation : les Temps Présents
+## _ÉTAPE DEUX :_ Préparation, organisation, lancement et développement précoce de la révélation : les Temps Présents
 
 ### Préparation
 
@@ -178,7 +178,7 @@ De plus, le corps social était en phase de préparation et fut formé en 1955 s
 
 ### Le mandat de publication
 
-Le Dr Sadler a déclaré :
+Le Dr Sadler a déclaré :
 
 > _« Enfin, la permission de publier les Cahiers d'Urantia a été accordée. L'introduction de ce mandat se lit comme suit_ \[et nous acceptons ce qui suit comme étant des mots directs des révélateurs\] :
 > 
@@ -186,7 +186,7 @@ Le Dr Sadler a déclaré :
 > > 
 > > _‘Mais la publication du livre n’a pas été reportée à cette date (peut-être) quelque peu lointaine. Une publication anticipée du livre a été prévue afin qu'il puisse être utilisé pour la formation des dirigeants et des enseignants. Sa présence est également requise pour attirer l’attention des personnes ayant les moyens qui pourraient ainsi fournir des fonds pour la traduction dans d’autres langues.’_
 > 
-> _« Dès réception de ces instructions, les commissaires de contact se sont mis à la tâche de publier_ le Livre d'Urantia _et de préparer les plans pour sa distribution. "_
+> _« Dès réception de ces instructions, les commissaires de contact se sont mis à la tâche de publier_ le Livre d'Urantia _et de préparer les plans pour sa distribution. "_
 
 ## Objectif de la Fondation Urantia
 
@@ -216,7 +216,7 @@ Leur soi-disant « liberté » est plus importante pour eux que leur obligation 
 
 Cette responsabilité sociale et historique exercée par la Fondation Urantia n’empiète pas sur les droits religieux des individus, ni ne s’y oppose. Le livre nous dit que _la religion est purement et entièrement une question d'expérience personnelle._ <a id="a216_251"></a>[[LU 138:2.1](/fr/The_Urantia_Book/138#p2_1)] La Fondation Urantia a toujours encouragé et encouragera toujours tous les individus à expérimenter, dans leur vie intérieure, les enseignements du _Le Livre d'Urantia_.
 
-Mais des situations de conflit social potentiel surviennent lorsque les individus placent l’importance de leur propre liberté avant celle de leurs semblables :
+Mais des situations de conflit social potentiel surviennent lorsque les individus placent l’importance de leur propre liberté avant celle de leurs semblables :
 
 > « _La liberté soumise à des règles collectives est le but légitime de l’évolution sociale. La liberté sans restrictions est le rêve chimérique et vain du mental d’humains instables et superficiels._ » (<a id="a220_204"></a>[LU 81:5.7](/fr/The_Urantia_Book/81#p5_7))
 
@@ -238,35 +238,35 @@ En fait, ce document formalise la Fondation Urantia comme propriétaire légal d
 
 Bien que cette _Déclaration de confiance_ soit un document typique, habituel et classique de la Fondation 19S0, les articles n° I, 2 et 3 sont inspirés, voire rédigés par les révélateurs eux-mêmes. Ces articles sont très spécifiques et précis : ils décrivent pourquoi la Fondation Urantia est créée et quels sont les devoirs des administrateurs.
 
-**_Le PRÉAMBULE et l'ARTICLE I de la Dédation de Confiance créent et instituent la Fondation Urantia en tant que propriétaire \[légal\] du \[texte\] du Livre d'Urantia :_**
+**_Le PRÉAMBULE et l'ARTICLE I de la Dédation de Confiance créent et instituent la Fondation Urantia en tant que propriétaire \[légal\] du \[texte\] du Livre d'Urantia :_**
 
 Nous lisons:
 
-PRÉAMBULE : Attendu que les Contributeurs, désireux que leur identité reste inconnue afin que la création d'une telle fondation ne soit pas limitée en raison de son association avec leurs noms, coïncidant avec la signature de la présente Déclaration de Fiducie et en toute connaissance et en considération de ceux-ci, ont fait livrer et remettre au soussigné lesdites planches pour l'impression et la reproduction du _Le Livre d'Urantia_, qui seront tenues en fiducie pour rendre possible l'accomplissement et la réalisation de tels désirs et pour réaliser et perpétuer les objets. exprimé ici ; et
+PRÉAMBULE : Attendu que les Contributeurs, désireux que leur identité reste inconnue afin que la création d'une telle fondation ne soit pas limitée en raison de son association avec leurs noms, coïncidant avec la signature de la présente Déclaration de Fiducie et en toute connaissance et en considération de ceux-ci, ont fait livrer et remettre au soussigné lesdites planches pour l'impression et la reproduction du _Le Livre d'Urantia_, qui seront tenues en fiducie pour rendre possible l'accomplissement et la réalisation de tels désirs et pour réaliser et perpétuer les objets. exprimé ici ; et
 
-> « 1.1. CRÉATION : Nous, soussignés, pour et au nom des contributeurs et de ceux dont les inspirations ont été conçues, par cette déclaration de confiance, créons, fondons et établissons par la présente cette Fondation qui sera connue sous le nom de « FONDATION URANTIA ».
+> « 1.1. CRÉATION : Nous, soussignés, pour et au nom des contributeurs et de ceux dont les inspirations ont été conçues, par cette déclaration de confiance, créons, fondons et établissons par la présente cette Fondation qui sera connue sous le nom de « FONDATION URANTIA ».
 > 
-> « 1.2. ACCEPTATION ET DÉCLARATION : Nous, soussignés, pour nous-mêmes et nos successeurs en fiducie tels que définis ci-après, reconnaissons par la présente qu'ils nous ont été transférés et livrés environ deux mille deux cents (2 200) plaques stéréotypées nickelées d'épaisseur de base brevetée préparées du manuscrit du _Le Livre d'Urantia_ pour l'impression et la reproduction de celui-ci... »
+> « 1.2. ACCEPTATION ET DÉCLARATION : Nous, soussignés, pour nous-mêmes et nos successeurs en fiducie tels que définis ci-après, reconnaissons par la présente qu'ils nous ont été transférés et livrés environ deux mille deux cents (2 200) plaques stéréotypées nickelées d'épaisseur de base brevetée préparées du manuscrit du _Le Livre d'Urantia_ pour l'impression et la reproduction de celui-ci... »
 
-**L'ARTICLE II _assigne les buts et objectifs de la Fondation Urantia/ou la diffusion et la protection des enseignements du_ Livre d'Urantia_ :_**
+**L'ARTICLE II _assigne les buts et objectifs de la Fondation Urantia/ou la diffusion et la protection des enseignements du_ Livre d'Urantia_ :_**
 
 > Article II : 2.1 OBJET PRINCIPAL : L'objet pour lequel cette fondation est créée est la promotion, l'amélioration et l'expansion parmi les peuples du monde de la compréhension et de la compréhension de la Cosmologie et de la relation de la planète sur laquelle nous vivons avec l'Univers. , de la genèse et de la destinée de l'Homme et de sa relation avec Dieu, et des véritables enseignements de Jésus-Christ ; et pour l'inculcation et l'encouragement de la réalisation et de l'appréciation de la paternité de Dieu et de la fraternité de l'homme afin d'augmenter et d'améliorer le confort, le bonheur et le bien-être de l'homme, en tant qu'individu et en tant que membre de la société, à travers l'encouragement d'une religion, d'une philosophie et d'une cosmologie à la mesure du développement intellectuel et culturel de l'Homme.
 > 
-> 2.2. OBJETS CONCORDANTS : Les objets concordants pour lesquels la Fondation est créée sont de préserver perpétuellement inviolé le texte du _Le Livre d'Urantia_ et de diffuser les principes, les enseignements et les doctrines du _Le Livre d'Urantia_.
+> 2.2. OBJETS CONCORDANTS : Les objets concordants pour lesquels la Fondation est créée sont de préserver perpétuellement inviolé le texte du _Le Livre d'Urantia_ et de diffuser les principes, les enseignements et les doctrines du _Le Livre d'Urantia_.
 
-**ARTICLE III : _donne au plan/ou aux fiduciaires de remplir leur confiance et d'accomplir leur mission :_**
+**ARTICLE III : _donne au plan/ou aux fiduciaires de remplir leur confiance et d'accomplir leur mission :_**
 
-> 3.1 PRÉSERVATION DU TEXTE DU LIVRE D'URANTIA : Ce sera le devoir principal des Administrateurs de préserver perpétuellement inviolé le texte du _Livre d'Urantia_, et les Administrateurs utiliseront et emploieront les moyens, méthodes et installations et appliqueront et dépenseront comme une grande partie du patrimoine fiduciaire, selon le jugement des fiduciaires, sera nécessaire, appropriée ou appropriée, pour la préservation et la garde des copies du texte original du _Le Livre d'Urantia_, dûment authentifié par les fiduciaires, contre la perte, les dommages ou destruction et contre l’altération, la modification, la révision ou le changement de quelque manière ou de quelque manière que ce soit.
+> 3.1 PRÉSERVATION DU TEXTE DU LIVRE D'URANTIA : Ce sera le devoir principal des Administrateurs de préserver perpétuellement inviolé le texte du _Livre d'Urantia_, et les Administrateurs utiliseront et emploieront les moyens, méthodes et installations et appliqueront et dépenseront comme une grande partie du patrimoine fiduciaire, selon le jugement des fiduciaires, sera nécessaire, appropriée ou appropriée, pour la préservation et la garde des copies du texte original du _Le Livre d'Urantia_, dûment authentifié par les fiduciaires, contre la perte, les dommages ou destruction et contre l’altération, la modification, la révision ou le changement de quelque manière ou de quelque manière que ce soit.
 > 
-> 3.2 RÉALISATION DE L'OBJET PRINCIPAL : Il sera du devoir des fiduciaires d'utiliser et d'employer les moyens et méthodes qu'ils concevront et développeront de temps à autre et d'appliquer et de dépenser le patrimoine fiduciaire pour promouvoir et réaliser les objectifs généraux énoncés. au paragraphe 2.1.
+> 3.2 RÉALISATION DE L'OBJET PRINCIPAL : Il sera du devoir des fiduciaires d'utiliser et d'employer les moyens et méthodes qu'ils concevront et développeront de temps à autre et d'appliquer et de dépenser le patrimoine fiduciaire pour promouvoir et réaliser les objectifs généraux énoncés. au paragraphe 2.1.
 > 
-> 3.3 PRÉSERVATION ET CONTRÔLE DE LA REPRODUCTION DU LIVRE D'URANTIA : Il sera du devoir des Administrateurs de conserver le contrôle absolu et inconditionnel de toutes les plaques et autres supports pour l'impression et la reproduction du _Le Livre d'Urantia_ et toute traduction de celui-ci, de faire ou de faire en sorte que faire des plaques supplémentaires et d'autres supports qui seront de temps à autre nécessaires pour imprimer et reproduire le _Le Livre d'Urantia_ et toutes ses traductions, pour conserver le contrôle absolu et inconditionnel de la possession, de la garde, de l'utilisation et de la disposition de toutes ces plaques et autres médias pour l'impression et la reproduction du _Le Livre d'Urantia_ et sa traduction, et pour appliquer et utiliser le patrimoine fiduciaire à cet effet.
+> 3.3 PRÉSERVATION ET CONTRÔLE DE LA REPRODUCTION DU LIVRE D'URANTIA : Il sera du devoir des Administrateurs de conserver le contrôle absolu et inconditionnel de toutes les plaques et autres supports pour l'impression et la reproduction du _Le Livre d'Urantia_ et toute traduction de celui-ci, de faire ou de faire en sorte que faire des plaques supplémentaires et d'autres supports qui seront de temps à autre nécessaires pour imprimer et reproduire le _Le Livre d'Urantia_ et toutes ses traductions, pour conserver le contrôle absolu et inconditionnel de la possession, de la garde, de l'utilisation et de la disposition de toutes ces plaques et autres médias pour l'impression et la reproduction du _Le Livre d'Urantia_ et sa traduction, et pour appliquer et utiliser le patrimoine fiduciaire à cet effet.
 
 C'est ma compréhension, ma croyance et ma conviction que tant que nous suivons les instructions de la _Déclaration_ de _Confiance_ créant la _Fondation Urantia_, nous respectons le plan des Révélateurs et donc nous sommes en partenariat avec les Révélateurs. Nous coopérons avec eux et notre voie est sûre et juste. Nous sommes des serviteurs fidèles.
 
 S’écarter de cette voie peut être très simple. Parfois, certaines personnes peuvent être tentées de s'écarter de la ligne de conduite initiale lorsqu'un argument ou la formulation d'un nouveau plan subtil est attrayant et présenté d'une manière qui fait appel aux émotions, ou est présenté d'une manière amicale et apparemment logique. Souvent, ces arguments ne tiennent pas compte du contexte historique. Mais nous sommes sur cette planète pour tester notre loyauté, notre foi et notre fiabilité.
 
-> _La loyauté – le dévouement au devoir le plus élevé – est-elle souhaitable ? Alors l’homme doit continuer au milieu des possibilités de trahison et de désertion. La valeur du dévouement consiste dûment dans le danger implicite de défaut._ (<a id="a268_242"></a>[LU 3:5.12](/fr/The_Urantia_Book/3#p5_12))
+> _La loyauté – le dévouement au devoir le plus élevé – est-elle souhaitable ? Alors l’homme doit continuer au milieu des possibilités de trahison et de désertion. La valeur du dévouement consiste dûment dans le danger implicite de défaut._ (<a id="a268_242"></a>[LU 3:5.12](/fr/The_Urantia_Book/3#p5_12))
 > 
 > _À première vue, il pourrait sembler qu'Urantia et ses mondes isolés associés sont très malchanceux d'être privés de la présence bienfaisante et de l'influence de personnalités surhumaines telles qu'un Prince Planétaire et un Fils et une Fille Matériels. Mais l'isolement de ces sphères offre à leurs races une opportunité unique d'exercer leur foi et de développer une qualité particulière de confiance dans la fiabilité cosmique qui ne dépend pas de la vue ou de toute autre considération matérielle. Il se pourrait qu'à terme, les créatures mortelles originaires des mondes mis en quarantaine à la suite d'une rébellion soient extrêmement chanceuses. Nous avons découvert que ces ascendants se voient très tôt confier de nombreuses missions spéciales dans des entreprises cosmiques où une foi incontestée et une confiance sublime sont essentielles à la réussite._ <a id="a270_869"></a>[[LU 50:7.1](/fr/The_Urantia_Book/50#p7_1)]
 
@@ -314,7 +314,7 @@ Une autre bonne raison d'avoir le droit d'auteur en vigueur est que la Fondation
 
 Il est de la plus haute importance de s'assurer que les traductions reflètent, aussi fidèlement que possible, le texte anglais afin que les significations originales ne soient pas compromises ou déformées pour les personnes non anglophones.
 
-L'expérience passée montre que des conditions spécifiques sont requises pour traduire le _Livre d'Urantia_ d'une manière qui répondra aux critères de qualité, de cohérence et d'exactitude. Parmi ces qualités et conditions, les traducteurs doivent posséder les suivantes :
+L'expérience passée montre que des conditions spécifiques sont requises pour traduire le _Livre d'Urantia_ d'une manière qui répondra aux critères de qualité, de cohérence et d'exactitude. Parmi ces qualités et conditions, les traducteurs doivent posséder les suivantes :
 
 Amoureux de la révélation, être des lecteurs de longue date, disposés à travailler en équipe, ne sont pas limités par des délais, sont disponibles, dévoués, coopératifs et disposés à travailler sans récompense ni reconnaissance. Ce sont autant de conditions que l’on ne retrouve pas chez les cabinets de traduction commerciaux et professionnels dont les conditions sont purement économiques et les résultats purement financiers. Comment pourrions-nous attendre d’un traducteur professionnel qu’il consacre deux, voire trois jours, à une phrase, en essayant d’être cohérent avec d’autres idées et concepts exprimés ailleurs dans le livre ? À moins que le traducteur ne soit amoureux de la révélation, comment peut-il être sensible et réceptif aux messages spirituels du livre ?
 
@@ -326,7 +326,7 @@ La Fondation Urantia, étant responsable de la diffusion de la révélation, exe
 
 Nous devons comprendre et reconnaître que la lutte actuelle entre nos groupes de lecteurs est une lutte entre les forces de la patience et les forces de l'impatience, les forces de la coopération et les forces de la compétition. Une coopération intelligente et fraternelle entre groupes religieux conduit à l’unité spirituelle, tandis que la compétition conduit à la désunion et à l’échec.
 
-Le livre nous enseigne ce qui suit sur la concurrence :
+Le livre nous enseigne ce qui suit sur la concurrence :
 
 > _Dans les âges primitifs de tous les mondes, la compétition est indispensable au progrès de la civilisation. À mesure que l’évolution des hommes progresse, la coopération devient de plus en plus effective ; dans les civilisations avancées, elle est plus efficace que la compétition. Les hommes primitifs sont stimulés par la compétition. L’évolution primitive est caractérisée par la survie des êtres biologiquement valides, mais la meilleure manière de promouvoir les civilisations ultérieures est la coopération intelligente, la confrérie compréhensive et la fraternité spirituelle._ (<a id="a330_589"></a>[LU 71:5.3](/fr/The_Urantia_Book/71#p5_3))
 
@@ -336,7 +336,7 @@ Nous comprenons que les gens sont touchés par les enseignements du livre et veu
 
 Les lecteurs et les groupes peuvent faire beaucoup, beaucoup, pour diffuser les enseignements, sans avoir besoin de violer les droits d'auteur et les marques déposées.
 
-### Les marques déposées : le symbole des trois cercles concentriques et le mot « Urantia »
+### Les marques déposées : le symbole des trois cercles concentriques et le mot « Urantia »
 
 Une autre question que je voudrais aborder aujourd’hui est celle des marques déposées – le symbole des trois cercles concentriques et les noms « Urantia » et « Urantian » – en particulier le symbole des trois cercles concentriques.
 
@@ -432,9 +432,9 @@ Nous observons et expérimentons tous que, pour le moment, _Le Livre d'Urantia_ 
 
 Par conséquent et une fois de plus, la Fondation Urantia est disposée à coopérer avec tous les individus et groupes orientés vers le service partout dans le monde qui réalisent l'importance d'un tel projet, qui comprennent la nécessité d'une coopération amicale et d'une loyauté envers le plan des révélateurs, et d'établir une une base solide et stable pour le temps à venir où les enseignements seront acceptés à une plus grande échelle.
 
-À cette occasion, je voudrais citer un de mes prédécesseurs au sein de Trust :
+À cette occasion, je voudrais citer un de mes prédécesseurs au sein de Trust :
 
-> « Nous devons être des exemples vivants de cette nouvelle révélation, individuellement et collectivement. » Et en conclusion, la citation suivante tirée du _Livre d'Urantia_ :
+> « Nous devons être des exemples vivants de cette nouvelle révélation, individuellement et collectivement. » Et en conclusion, la citation suivante tirée du _Livre d'Urantia_ :
 > 
 > _« Ce que vos yeux aperçoivent maintenant, ce petit début de douze hommes ordinaires, se multipliera et croitra jusqu’à ce que, finalement, toute la terre soit remplie des louanges de mon Père. C’est moins par les paroles que vous prononcerez, mais plutôt par la vie que vous vivrez, que les hommes sauront que vous avez été avec moi et que vous avez appris les réalités du royaume. Je ne voudrais imposer à votre mental aucun fardeau trop lourd, mais je vais charger vos âmes de la responsabilité solennelle de me représenter dans le monde quand je vous quitterai bientôt, de même que je représente mon Père dans ma présente vie incarnée. »_ (<a id="a438_646"></a>[LU 140:1.7](/fr/The_Urantia_Book/140#p1_7))
 

@@ -168,6 +168,7 @@ History of Urantia
 History of Urantia Foundation
 History of Urantia Movement
 Hope
+Humor
 Index
 Inner Life
 Innerface International
@@ -229,6 +230,7 @@ Place
 Planetary government
 Podcast
 Poetry
+Politics
 Prayer
 Presentation
 Prophecy
@@ -238,6 +240,7 @@ Questions and answers
 Race
 Realities
 Rebellion
+Reflectivite
 Religion
 Revelation
 Science
@@ -259,6 +262,7 @@ Study Groups
 Suffering
 Sufism
 Teaching Methods
+Teamwork
 The Arena
 The Publication Mandate
 The Supreme

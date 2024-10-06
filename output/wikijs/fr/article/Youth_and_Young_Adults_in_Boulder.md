@@ -15,7 +15,7 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/fr/article/Dancing_with_God_Retreat_2019">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Danser avec Dieu : retraites spirituelles pour femmes</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Danser avec Dieu : retraites spirituelles pour femmes</span>
         </a>
         </td>
         <td>
@@ -55,7 +55,7 @@ Veuillez contacter Sean Privitera pour plus d'informations à sprivitera@gmail.c
 
 Financé par la _The Urantia Book_ Fellowship et hébergé par la Rocky Mountain Spiritual Fellowship. http://www.urantiabook.org/announcements/yaya-regional-gathering-in-boulder-co-april-25-28
 
-Inscrivez-vous en ligne : https://urantiabook.wildapricot.org/event-3231574/Registration
+Inscrivez-vous en ligne : https://urantiabook.wildapricot.org/event-3231574/Registration
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/009.jpg">
@@ -80,7 +80,7 @@ Coopération sincère, endurance joyeuse, suivi fidèle, persévérance patiente
       <tr>
         <td>
         <a href="/fr/article/Dancing_with_God_Retreat_2019">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Danser avec Dieu : retraites spirituelles pour femmes</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Danser avec Dieu : retraites spirituelles pour femmes</span>
         </a>
         </td>
         <td>

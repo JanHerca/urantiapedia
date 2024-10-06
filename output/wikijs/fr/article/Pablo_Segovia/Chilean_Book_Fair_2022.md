@@ -53,7 +53,7 @@ Quelques jours avant l’ouverture de la foire, la Chambre chilienne du livre, o
 
 Suivant cette tradition annuelle, ceux qui ont visité le parc des expositions pendant les dix jours que durait ce festival littéraire et culturel, ont pu parcourir 115 stands, avec la présence de vingt et une universités et plus de trois cents maisons d'édition. Cet effort combiné a mis à la disposition des lecteurs les dernières nouvelles littéraires, livres pour enfants et jeunes, poésie, romans, essais, sciences et sciences humaines, spiritualité, livres d'auto-assistance, bandes dessinées, illustrations, classiques de la littérature chilienne et universelle, entre autres thèmes et genres. 
 
-La Chambre chilienne du livre a décerné la Reconnaissance du patrimoine littéraire et culturel du Salon du livre à : 
+La Chambre chilienne du livre a décerné la Reconnaissance du patrimoine littéraire et culturel du Salon du livre à : 
 - la poète, chroniqueuse et plasticienne Carmen Berenguer ; 
 - Luis Alarcón, acteur et metteur en scène ; 
 - l’écrivain, poète et lauréat du Prix National de Littérature Hernán Rivera Letelier ; 
@@ -73,7 +73,7 @@ La Chambre chilienne du livre a déclaré :
 
 Notre organisation ne pouvait pas laisser passer cette grande opportunité de diffuser et de diffuser les enseignements contenus dans _Le Livre d'Urantia_. Felipe Arrigorriaga, notre coordinateur régional pour le Chili, a mis les idées en action, créant ainsi une autre histoire de réussite au cours de cette saison 2022 de présence de la _La Fellowship du Livre d'Urantia_ (alias la Communauté) aux salons du livre. Bravo Felipe!
 
-Même si le stand était petit, il avait un très, très grand cœur. Il a été joliment décoré, avec l’aide de plusieurs lecteurs locaux du Livre d’Urantia. Felipe n'avait pas plus tôt lancé l’appel « À la Foire du livre de Santiago ! » lorsqu’il a été immédiatement rejoint par les bénévoles Lissette Mansilla, Rafael Avaria, Oly Tartakowsky, Yesica Ariaran et son mari Rafael, ainsi que Kenya et Jon DeToy, qui sont tous profondément appréciés pour leur temps et leur dévouement. Outre ces aides locales, nous avons eu la chance de compter sur la présence de Pablo Segovia, le bien-aimé président du Sous-comité de la Fellowship pour l’Amérique Latine (LASC) (qui représente le secteur hispanophone du Comité International de la Fellowship), qui a fait une présentation totalement improvisée. Même si ce n'était pas dans ses plans – il sentait que c'était dans les plans de son Père – Pablo s'est montré à la hauteur en tant que fils fidèle de Dieu, surmontant tous les obstacles et préjugés personnels pour comparaître devant un groupe de chercheurs de vérité et avec l’approbation de tous. Bravo Pablo! Toutes nos félicitations! (Ci-dessous dans cet article, nous partageons son expérience.) 
+Même si le stand était petit, il avait un très, très grand cœur. Il a été joliment décoré, avec l’aide de plusieurs lecteurs locaux du Livre d’Urantia. Felipe n'avait pas plus tôt lancé l’appel « À la Foire du livre de Santiago ! » lorsqu’il a été immédiatement rejoint par les bénévoles Lissette Mansilla, Rafael Avaria, Oly Tartakowsky, Yesica Ariaran et son mari Rafael, ainsi que Kenya et Jon DeToy, qui sont tous profondément appréciés pour leur temps et leur dévouement. Outre ces aides locales, nous avons eu la chance de compter sur la présence de Pablo Segovia, le bien-aimé président du Sous-comité de la Fellowship pour l’Amérique Latine (LASC) (qui représente le secteur hispanophone du Comité International de la Fellowship), qui a fait une présentation totalement improvisée. Même si ce n'était pas dans ses plans – il sentait que c'était dans les plans de son Père – Pablo s'est montré à la hauteur en tant que fils fidèle de Dieu, surmontant tous les obstacles et préjugés personnels pour comparaître devant un groupe de chercheurs de vérité et avec l’approbation de tous. Bravo Pablo! Toutes nos félicitations! (Ci-dessous dans cet article, nous partageons son expérience.) 
 
 Felipe Arrigorriaga nous dit : 
 
@@ -109,7 +109,7 @@ Felipe Arrigorriaga a déclaré :
 
 Les livres ne pouvaient pas être vendus sur notre stand, car nous n'avions pas les documents légaux nécessaires ni l’enregistrement auprès du ministère chilien des recettes. Quoi qu’il en soit, quelques objets ont été vendus, de nombreux livres ont été offerts et quelque chose de très important s'est produit : ils ont réussi à ajouter de nombreux futurs lecteurs potentiels du livre à leur base de données.
 
-Statistiques globales :
+Statistiques globales :
 - Quarante-sept nouveaux contacts 
 - Vingt livres offerts 
 - Trois livres vendus 

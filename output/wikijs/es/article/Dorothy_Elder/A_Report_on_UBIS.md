@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Dorothy Elder<br>© 1999 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bhagavan_Buritz/The_Delhi_Book_Fair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Feria del Libro de Delhi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Van_Woert/IUA_Outreach">
+          <span class="pr-2">Diseminación de la AIU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El primer semestre de la Escuela de Internet El Libro de Urantia (LUIS) finalizó el 6 de diciembre de 1999, habiendo presentado ocho clases a lectores que hablaban o entendían inglés en muchos países alrededor del mundo. Mi primera valoración del primer semestre del programa de la LUIS es que fue un gran éxito. Tuvimos el 100% de inscritos en todas las clases. Una planificación cuidadosa y mucha atención a los detalles técnicos fueron beneficiosas para las inscripciones. Se ha desarrollado un sistema operativo eficiente y ésta es la piedra angular del éxito del programa. Desde el principio, los lectores le han otorgado gran interés. Recibí consultas casi todos los días. Nuestros cursos se han impartido a estudiantes de Sudamérica, Canadá, Nueva Zelanda, Gran Bretaña y, en particular, a un joven lector de Moscú en Rusia.
 
@@ -16,7 +40,7 @@ El primer semestre de la Escuela de Internet El Libro de Urantia (LUIS) finaliz�
 
 Comentarios de _Al Lockett_ del curso de Ajustador del Pensamiento de la LUIS.
 
-«La Escuela de Internet del Libro de Urantia (LUIS) ofrece una oportunidad real de estudiar en profundidad un tema concreto del Libro de Urantia, más allá del marco habitual de los grupos de estudio. Presenta a los nuevos lectores, así como a aquellos con mayor experiencia, un medio más completo para obtener una comprensión más profunda de una variedad de temas. Con la guía de un docente-facilitador experimentado, las preguntas que invitan a la reflexión y la atmósfera colaborativa del aula permiten a la LUIS proporcionar recursos y medios de expresión muy valiosos para todos. los lectores.
+«La Escuela de Internet del _Libro de Urantia_ (LUIS) ofrece una oportunidad real de estudiar en profundidad un tema concreto del Libro de Urantia, más allá del marco habitual de los grupos de estudio. Presenta a los nuevos lectores, así como a aquellos con mayor experiencia, un medio más completo para obtener una comprensión más profunda de una variedad de temas. Con la guía de un docente-facilitador experimentado, las preguntas que invitan a la reflexión y la atmósfera colaborativa del aula permiten a la LUIS proporcionar recursos y medios de expresión muy valiosos para todos. los lectores.
 
 «Los nuevos lectores se beneficiaron de la percepción y el conocimiento aportados al debate por lectores experimentados que habían vivido más tiempo en contacto con el Libro. Los lectores experimentados han obtenido nuevas perspectivas y una forma de expresar su comprensión del texto, y les proporciona un contexto con el que medir su nivel actual de conocimiento.
 
@@ -55,3 +79,27 @@ Estamos programados para comenzar el otoño de 2000 con un núcleo de 16 profeso
 El método socrático comenzará a desarrollarse lentamente. De esta manera inculcará en toda nuestra comunidad de lectores una relación más agradable y eficaz entre profesores y lectores. El método socrático preserva mejor el camino del Maestro, y aquellos que han estado sujetos a este método lograrán mucho mejor la difusión mundial de sus enseñanzas. Nuestro proyecto LUIS puede ser el primer paso en la dirección correcta hacia este futuro.
 
 _El Libro de Urantia_ Internet School es un proyecto cuyo servicio se dedica exclusivamente al estudio del _Libro de Urantia_. Os invitamos a leer más sobre sus objetivos y filosofía en el sitio web de la Fundación Urantia, www.urantia.org, y esperamos que muchos de vosotros os unáis a nosotros en este proyecto. Si es un lector veterano con experiencia docente (formal o informal), si tiene tiempo libre y habilidades en Internet, comuníquese con _Dorothy Elder_ en delder03@sprynet.com si desea postularse como maestro-facilitador. Esperamos tener . de tus noticias.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bhagavan_Buritz/The_Delhi_Book_Fair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Feria del Libro de Delhi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Van_Woert/IUA_Outreach">
+          <span class="pr-2">Diseminación de la AIU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

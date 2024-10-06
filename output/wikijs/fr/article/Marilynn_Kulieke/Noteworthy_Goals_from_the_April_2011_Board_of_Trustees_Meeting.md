@@ -51,7 +51,7 @@ Les bulletins sont envoyés par trimestre et les membres du personnel du bureau 
 <figcaption><em>Tamara Strumfeld</em></figcaption>
 </figure>
 
-Les portes du 533 sont ouvertes aux organisations du _Livre d’Urantia_ ayant besoin d’endroits pour se réunir pour du travail se rattachant au _ Livre d’Urantia_. Pour plus d’informations, contactez, s’il vous plait, Tamara Strumfeld à [tamara@urantia.org](mailto:tamara@urantia.org)
+Les portes du 533 sont ouvertes aux organisations du _Livre d’Urantia_ ayant besoin d’endroits pour se réunir pour du travail se rattachant au _ Livre d’Urantia_. Pour plus d’informations, contactez, s’il vous plait, Tamara Strumfeld à [tamara@urantia.org](mailto:tamara@urantia.org)
 
 3. _Impliquer les jeunes lecteurs dans le travail de la révélation Urantia._
 
@@ -59,7 +59,7 @@ Le travail en cours pour trouver de jeunes leaders et des volontaires, continue.
 
 ## Impression de livres, ventes et distribution :
 
-1. _Augmenter les ventes de livre et la distribution en 2011 de sept pour cent sur les 20 000 livres distribués en 2010_.
+1. _Augmenter les ventes de livre et la distribution en 2011 de sept pour cent sur les 20 000 livres distribués en 2010_.
 
 Les améliorations ciblées pour les ventes et la distribution, comprenant les e-books, l’audio, les ventes dans les librairies et les téléchargements sur le web. Les ventes de livres de la Fondation Urantia étaient en augmentation de 21 % au premier trimestre 2011.
 
@@ -67,7 +67,7 @@ Les améliorations ciblées pour les ventes et la distribution, comprenant les e
 
 La distribution du livre continue à croitre bien que les librairies fassent face à de sérieux défis. Grâce au travail de Henk et Claire Mylanus en Europe et de celui de l’équipe du 533 à Chicago, la révélation Urantia continue son lent et constant mouvement à travers le monde.
 
-Après avoir imprimé 25 000 livres en 2010, incluant quatre nouvelles traductions, les besoins d’impression pour 2011, comprennent approximativement 22 000 livres: 1200 exemplaires des traductions espagnole, portugaise et polonaise qui viennent d’être imprimées et 10 000 exemplaires de l’édition anglaise qui sera imprimée cet automne.
+Après avoir imprimé 25 000 livres en 2010, incluant quatre nouvelles traductions, les besoins d’impression pour 2011, comprennent approximativement 22 000 livres: 1200 exemplaires des traductions espagnole, portugaise et polonaise qui viennent d’être imprimées et 10 000 exemplaires de l’édition anglaise qui sera imprimée cet automne.
 
 3. _Développer la version audio du_ Livre d’Urantia _dans toutes les traductions existantes._
 
@@ -103,7 +103,7 @@ Cette volonté demande la coopération des lecteurs et des organisations en sout
 
 Le site web d’UBIS en espagnol est en cours de développement. Il est prévu de lancer UBIS en espagnol à la fin de 2011 ou au début de 2012. Des fonds supplémentaires furent ajoutés au budget de 2011. Cinq cours furent proposés durant le trimestre d’avril 2011.
 
-3. _étudier la mise en œuvre de forums d’étude à 533 W  Diversey Parkway._Cette volonté comprendra des blogs de groupes d’étude et des webinaires ( séminaires sur le web ) interactifs de groupes d’étude.
+3. _étudier la mise en œuvre de forums d’étude à 533 W  Diversey Parkway._Cette volonté comprendra des blogs de groupes d’étude et des webinaires ( séminaires sur le web ) interactifs de groupes d’étude.
 
 4. _Coopérer avec d’autres personnes et organisations dont l’objectif est d’instruire les autres sur_ Le Livre d’Urantia _et ses enseignements._
 
@@ -113,7 +113,7 @@ Cette volonté comprendra de travailler ensemble sur des programmes éducatifs.
 
 1. _S’en tenir au budget de fonctionnement approuvé de 2011 qui est moins important que celui de 2010._
 
-Bien que le budget ait été approuvé, cinq projets importants se sont développés qui nécessitent des fonds supplémentaires de 80 000 $. Ces projets sont: a ) le plan de la révision espagnole ; b ) le nouveau logiciel d’ordinateur nécessaire pour les traductions coréenne, japonaise et chinoise ; c ) les dépenses imprévues de l’impression de livres ; d ) les besoins du site web d’UBIS en espagnol ; et e ) les nouvelles tâches administratives nécessaires pour couvrir ces coûts.
+Bien que le budget ait été approuvé, cinq projets importants se sont développés qui nécessitent des fonds supplémentaires de 80 000 $. Ces projets sont: a ) le plan de la révision espagnole ; b ) le nouveau logiciel d’ordinateur nécessaire pour les traductions coréenne, japonaise et chinoise ; c ) les dépenses imprévues de l’impression de livres ; d ) les besoins du site web d’UBIS en espagnol ; et e ) les nouvelles tâches administratives nécessaires pour couvrir ces coûts.
 
 2. _Augmenter les donations et le nombre de donateurs de 10 % depuis 2010._
 
@@ -131,7 +131,7 @@ La Fondation continuera de construire une trésorerie forte qui pourra résister
 
 Ce centre de téléchargement offrira aux lecteurs l’édition anglaise du _Livre d’Urantia_ et toutes les traductions formatées, en conformité avec le système standard de référence.
 
-2. _Mettre au point une base de données électronique du livre qui synchronisera,  coordonnera et sauvegardera sans redondance – le processus nécessaire pour créer des livres imprimés sans erreur, des e-books, des textes en ligne, des outils pour les traducteurs et toute autre forme de média._
+2. _Mettre au point une base de données électronique du livre qui synchronisera,  coordonnera et sauvegardera sans redondance – le processus nécessaire pour créer des livres imprimés sans erreur, des e-books, des textes en ligne, des outils pour les traducteurs et toute autre forme de média._
 
 Durant des années, la Fondation Urantia a fait face au défi rapidement croissant de la prolifération des langues numériques utilisées en édition, par les e-books, par l’internet et toute autre forme de média numérique.
 
@@ -145,7 +145,7 @@ Cela comprend de mettre presque tous les documents essentiels de la Fondation su
 
 La Fondation fournira la formation pour l’équipe au 533 W Diversey Parkway.
 
-La Fondation a aussi remplaçé  trois ordinateurs désuets.
+La Fondation a aussi remplaçé  trois ordinateurs désuets.
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2011_06/022.jpg">

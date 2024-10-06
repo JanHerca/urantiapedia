@@ -57,7 +57,7 @@ En termes simples, cela semble dire que nous souffrons parce que nous vivons dan
 —_Dick Bain_
 _St. Petersburg, Floride_
 
-## Pourquoi de mauvaises choses arrivent-elles aux bonnes personnes ?
+## Pourquoi de mauvaises choses arrivent-elles aux bonnes personnes ?
 
 Pourquoi Dieu laisse-t-il tant de gens souffrir et pourquoi permet-il que le péché se produise ?
 

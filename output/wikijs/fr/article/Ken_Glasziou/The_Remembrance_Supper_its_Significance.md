@@ -75,7 +75,7 @@ Ne serait-il pas merveilleux si la scène décrite par la suite pouvait un jour 
 
 Correctement utilisé lors de réunions de groupe, le souper du souvenir pourrait être d’une grande aide pour cimenter les relations amoureuses. De plus, cela peut rappeler aux individus la nécessité de devenir conscients de l'esprit afin que de telles occasions symboliques assurent la présence réelle de Michael dont l'esprit (Esprit de Vérité) est alors capable de fraterniser avec notre propre fragment de Père intérieur. (<a id="a75_425"></a>[LU 179:5.6](/fr/The_Urantia_Book/179#p5_6))
 
-> L'auteur de l'article termine la section avec ces mots : « _En fait, le sarment n’existe que pour porter des fruits et ne peut rien faire d’autre que produire des raisins. De même, le vrai croyant n’existe que pour porter les fruits de l’esprit, qui consistent à aimer les hommes comme lui-même a été aimé par Dieu — à s’aimer les uns les autres comme Jésus nous a aimés._ » (<a id="a77_378"></a>[LU 180:2.5](/fr/The_Urantia_Book/180#p2_5))
+> L'auteur de l'article termine la section avec ces mots : « _En fait, le sarment n’existe que pour porter des fruits et ne peut rien faire d’autre que produire des raisins. De même, le vrai croyant n’existe que pour porter les fruits de l’esprit, qui consistent à aimer les hommes comme lui-même a été aimé par Dieu — à s’aimer les uns les autres comme Jésus nous a aimés._ » (<a id="a77_378"></a>[LU 180:2.5](/fr/The_Urantia_Book/180#p2_5))
 
 Le message de ces dernières paroles de Jésus à ceux qui le suivraient pourrait être résumé ainsi : Mettez de l’ordre dans vos priorités. Sachez que vous existez dans un seul but : produire des fruits spirituels. C’est désormais le seul but de votre être.
 

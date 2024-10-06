@@ -35,11 +35,11 @@ dateCreated: 2023-8-29T10:55:6Z
 
 
 
-**Le but : 1000 commentaires positifs sur Amazon !**
+**Le but : 1000 commentaires positifs sur Amazon !**
 
 Voici une chance d’exprimer votre gratitude et votre amour pour le _Livre d’Urantia._ Lorsque des personnes surfent sur Internet pour des produits ou des services, rien n’attire plus l’attention ou donne de la confiance que de nombreuses notations cinq étoiles sur les articles regardés. Plus les notations sont hautes, plus une personne aura confiance.
 
-Aujourd’hui, _Le Livre d’Urantia_ a 31 commentaires sur Amazon. Le but de la Fondation est d’atteindre 1000 commentaires le 31 décembre 2018. Si vous n’avez pas encore écrit un commentaire, prenez, s’il vous plaît, vingt minutes et dites comment cette révélation a transformé votre vie. Même si Amazon vous demande d’acheter un livre pour pouvoir écrire un commentaire, le prix aujourd’hui est seulement de $ 15,79. C’est un petit prix à payer pour un livre et c’est une occasion de servir et de rendre quelque chose à la révélation !
+Aujourd’hui, _Le Livre d’Urantia_ a 31 commentaires sur Amazon. Le but de la Fondation est d’atteindre 1000 commentaires le 31 décembre 2018. Si vous n’avez pas encore écrit un commentaire, prenez, s’il vous plaît, vingt minutes et dites comment cette révélation a transformé votre vie. Même si Amazon vous demande d’acheter un livre pour pouvoir écrire un commentaire, le prix aujourd’hui est seulement de $ 15,79. C’est un petit prix à payer pour un livre et c’est une occasion de servir et de rendre quelque chose à la révélation !
 
 **Commentaires des acheteurs**
 
@@ -57,7 +57,7 @@ Voir tous les commentaires des acheteurs Partager vos pensées avec d’autres a
 
 Si vous vous sentez très inspirés, vous pouvez laisser le même commentaire chez Barnes and Noble à [http://bit.Iy/2Ez7G8N](http://bit.iy/2Ez7G8N) et chez Goodreads à [www.goodreads.com](https://www.goodreads.com/).
 
-Merci !
+Merci !
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2018_03/039.jpg">

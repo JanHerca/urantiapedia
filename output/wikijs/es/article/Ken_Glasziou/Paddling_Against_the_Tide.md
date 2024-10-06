@@ -31,7 +31,7 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-Los lectores del Libro de Urantia con una inclinación científica pueden haber notado un tipo de fenómeno de la Ley de Murphy en la revisión de los medios de comunicación sobre temas científicos. Básicamente se reduce a y tiene el efecto de que, independientemente de lo que pueda indicar un conjunto de resultados experimentales, se debe encontrar una manera de hacer que se ajusten a cualquiera que sea la línea actual.
+Los lectores del _Libro de Urantia_ con una inclinación científica pueden haber notado un tipo de fenómeno de la Ley de Murphy en la revisión de los medios de comunicación sobre temas científicos. Básicamente se reduce a y tiene el efecto de que, independientemente de lo que pueda indicar un conjunto de resultados experimentales, se debe encontrar una manera de hacer que se ajusten a cualquiera que sea la línea actual.
 
 Un buen ejemplo se encuentra en el Journal of the American Association for the Advancement of Science y dice:
 

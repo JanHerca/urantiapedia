@@ -63,7 +63,7 @@ Judy comenzó a leer _El libro de Urantia_ en 1973 después de que se lo diera a
 Judy y su marido Wayne viven en Boise (Idaho), donde tienen un negocio de calefacción y aire acondicionado, que crearon en 1976. Mientras criaba a sus dos hijos, un hijo y una hija, Judy trabajó voluntaria regularmente durante años en sus escuelas y sirvió como miembro de la Organización de Padres y Profesores (PTO) Entrenó a los equipos de fútbol de su hijo durante tres temporadas, y tanto ella como su marido participaron en actividades relacionadas con la brigada de boy scout de su hijo y su Pequeña Liga y equipos de baseball del instituto. Tiene tres nietos, de los que disfruta y a los que prodiga tiempo y afecto.
 <br style="clear:both;"/>
 
-> «Me siento realmente privilegiada y humilde al aceptar esta oportunidad de servir con lectores del Libro de Urantia tan capaces y dedicados encargados de la Fundación Urantia y con la responsabilidad de asegurar la disponibilidad del Libro de Urantia y sus verdades transformadoras en todo el mundo. Estoy deseando servir junto a ellos con entusiasmo en los próximos años.» — Judy Van Cleave, 25 de enero de 2008
+> «Me siento realmente privilegiada y humilde al aceptar esta oportunidad de servir con lectores del _Libro de Urantia_ tan capaces y dedicados encargados de la Fundación Urantia y con la responsabilidad de asegurar la disponibilidad del _Libro de Urantia_ y sus verdades transformadoras en todo el mundo. Estoy deseando servir junto a ellos con entusiasmo en los próximos años.» — Judy Van Cleave, 25 de enero de 2008
 
 
 

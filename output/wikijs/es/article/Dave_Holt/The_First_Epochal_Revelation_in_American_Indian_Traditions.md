@@ -214,7 +214,7 @@ Tal conocimiento mejorado podría contribuir a una comprensión más compasiva d
 Los Hopi y otras tribus nativas americanas tienen una profecía más moderna que se hace eco de la memoria de los Sangiks, las tribus del arcoíris. «Cuando la tierra esté muriendo surgirá una nueva tribu de todos los colores y todos los credos. Esta tribu se llamará _Los Guerreros del Arco Iris_ y pondrá su fe en las acciones, no en las palabras.»[^11]
 
 > Dave Holt nació en Toronto, Ontario, Canadá, de ascendencia irlandesa, inglesa e india ojibway (chippewa). Presentado a _El Libro de Urantia_ en 1976, se unió a la Fundación Familia de Dios y ahora se desempeña como vicepresidente de la Sociedad del Círculo Golden Gate. Dave, un escritor y poeta galardonado, vive en Concord, CA, con su esposa Chappell, y tiene una hija, Kelsey, que ahora tiene 21 años.
-> {.is-info}
+{.is-info}
 
 ## Referencias
 

@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-10-numéro-4-dec-2016">
+        <a href="/fr/index/articles_uf_news_online#volume-10-numéro-4-décembre-2016">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 4, Déc. 2016 — Table des matières</span>
         </a>
         </td>
@@ -40,9 +40,9 @@ dateCreated: 2023-8-29T10:55:6Z
 
 Par Olga López, Vilanova í la Geltrú, Barcelone, Espagne
 
-Une conférence de lecteurs du _Livre d’Urantia_ d’Amérique Latine, se tint du 14 au 17 octobre 2016, à l’hôtel Lancaster House à Bogota en Colombie. Plus de 110 lecteurs des Amériques et d’Europe vinrent pour participer à cette conférence, qui était sponsorisée conjointement par l’Association Urantia Internationale, la Fellowship du Livre d’Urantia et la Fondation Urantia. Cet événement fut très bien organisé par l’Association Urantia de Colombie. Mes profonds remerciements à tous ceux qui ont travaillé diligemment à faire un succès de cet événement !
+Une conférence de lecteurs du _Livre d’Urantia_ d’Amérique Latine, se tint du 14 au 17 octobre 2016, à l’hôtel Lancaster House à Bogota en Colombie. Plus de 110 lecteurs des Amériques et d’Europe vinrent pour participer à cette conférence, qui était sponsorisée conjointement par l’Association Urantia Internationale, la Fellowship du Livre d’Urantia et la Fondation Urantia. Cet événement fut très bien organisé par l’Association Urantia de Colombie. Mes profonds remerciements à tous ceux qui ont travaillé diligemment à faire un succès de cet événement !
 
-Le thème de cette conférence était « L’enseignant et l’Élève, » Jésus étant l’enseignant et les participants à la conférence, les élèves. Il y eut plus de quinze présentations proposées à cette conférence. Quelques uns des titres étaient entre autres : « Le Développement du Leadership de Jésus dans son ministère personnel, » « La Vie de Jésus est un Exemple pour l’Humanité, » « Jésus l’Homme, » « L’Esprit de Vérité, » « Les Lectures d’Urmia, » « De l’Élève à l’Enseignant et Puis à L’Élève, » et quelques autres de plus.
+Le thème de cette conférence était « L’enseignant et l’Élève, » Jésus étant l’enseignant et les participants à la conférence, les élèves. Il y eut plus de quinze présentations proposées à cette conférence. Quelques uns des titres étaient entre autres : « Le Développement du Leadership de Jésus dans son ministère personnel, » « La Vie de Jésus est un Exemple pour l’Humanité, » « Jésus l’Homme, » « L’Esprit de Vérité, » « Les Lectures d’Urmia, » « De l’Élève à l’Enseignant et Puis à L’Élève, » et quelques autres de plus.
 
 Tous les orateurs nous aidèrent à accroître notre compréhension du Maître et de ses enseignements. Les présentateurs venaient de beaucoup de pays différents, y compris de l’Argentine, du Brésil, du Chili, de Colombie, de l’Équateur, du Guatemala, du Mexique, du Pérou, des États-Unis, de l’ Uruguay et du Vénézuela. Et il y avait encore d’autres pays représentés parmi les participants incluant la Bolivie, le Canada, la Costa Rica, les Pays-Bas, l’Espagne et d’autres.
 
@@ -52,9 +52,9 @@ Les organisateurs colombiens offrirent aux participants de nombreuses occasions 
 
 Personnellement, j’aimerai dire que les organisateurs et les participants m’ont fait me sentir à l’aise et parmi de vieux amis. La bonne atmosphère est une constante des rassemblements Urantia, mais cette fois c’était spécial. Pas seulement à cause de la langue espagnole comme langue principale, ma langue maternelle, mais aussi car les lecteurs latino-américains sont des personnes particulièrement ouvertes et aimantes, avec un enthousiasme contagieux pour la Cinquième Révélation. C’est vraiment enrichissant de voir les différentes manières par lesquelles les lecteurs du _Livre d’Urantia_ du monde entier partagent leurs expériences de vie des enseignements.
 
-Je suis tellement reconnaissante d’avoir eu l’occasion d’être là et d’avoir partagé avec toutes ces belles âmes ! J’attends avec impatience la prochaine conférence latino-américaine.
+Je suis tellement reconnaissante d’avoir eu l’occasion d’être là et d’avoir partagé avec toutes ces belles âmes ! J’attends avec impatience la prochaine conférence latino-américaine.
 
-Je suis tellement reconnaissante d’avoir eu l’occasion d’être là et d’avoir partagé avec toutes ces belles âmes !
+Je suis tellement reconnaissante d’avoir eu l’occasion d’être là et d’avoir partagé avec toutes ces belles âmes !
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2016_12/026.jpg">
@@ -77,7 +77,7 @@ Je suis tellement reconnaissante d’avoir eu l’occasion d’être là et d’
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-10-numéro-4-dec-2016">
+        <a href="/fr/index/articles_uf_news_online#volume-10-numéro-4-décembre-2016">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 4, Déc. 2016 — Table des matières</span>
         </a>
         </td>

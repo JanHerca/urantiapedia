@@ -49,7 +49,7 @@ Un poco más adelante esa se­mana, Nemias se unió a nosotros en Sao Paulo, y R
 
 El sábado disfrutamos con las presentaciones de Nemias, Irmeli y Clebson. Por la noche tuvimos una fiesta deliciosa y bailamos con música brasileña en vivo. En domingo, tras un paseo matutino por la montaña, di una corta charla y respondí pregun­tas. Entonces, tras el almuerzo, nos dirigimos de vuelta al aero­puerto, donde tomé mi vuelo para el viaje nocturno de re­greso a Chicago.
 
-Guardo como un tesoro las amistades que hice en Brasil. Sé por experiencias pasadas que, debido a que se han ini­ciado en la lectura y la discusión de El libro de Urantia, muchas de esas relaciones durarán toda la vida y más allá.
+Guardo como un tesoro las amistades que hice en Brasil. Sé por experiencias pasadas que, debido a que se han ini­ciado en la lectura y la discusión de _El libro de Urantia_, muchas de esas relaciones durarán toda la vida y más allá.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2008_12/029.jpg">

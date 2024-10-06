@@ -45,9 +45,9 @@ Depuis que nous avons pris en charge l’envoi des livres en décembre, nous avo
 
 Arrêtez-vous un instant et imaginez un détenu qui s'est éloigné de la vérité, qui se trouve dans une prison, qui a vu le livre et a pris le temps d'écrire une lettre demandant la meilleure source de vérité sur la planète. Quel meilleur service y a-t-il que de fournir une copie du Livre d'Urantia à cette âme qui s'efforce de trouver la vérité.
 
-Je vous écris pour vous faire connaître ce merveilleux ministère et vous demander votre soutien financier pour nous aider à poursuivre ce travail. Une caisse de six livres nous coûte environ 72,00 $. Si cet effort vous touche et que votre trésor personnel est en bonne santé, veuillez envoyer votre chèque à la Communauté en y indiquant « Pour ICP » : _The Urantia Book_ Fellowship, P.O. Boîte postale 6631, Broomfield, CO 80021.
+Je vous écris pour vous faire connaître ce merveilleux ministère et vous demander votre soutien financier pour nous aider à poursuivre ce travail. Une caisse de six livres nous coûte environ 72,00 $. Si cet effort vous touche et que votre trésor personnel est en bonne santé, veuillez envoyer votre chèque à la Communauté en y indiquant « Pour ICP » : _The Urantia Book_ Fellowship, P.O. Boîte postale 6631, Broomfield, CO 80021.
 
-Voici une lettre récente que nous venons de recevoir : 
+Voici une lettre récente que nous venons de recevoir : 
 
 > Je m'appelle XXXXXXX. Je suis détenu au CCADC en attendant d'être condamné et probablement à vie. Je suis au 4ème étage et mon père est au 3ème étage et il devrait rentrer chez lui cette année. Richard Bain et vous de l’LU lui ont envoyé, ainsi que quelques autres, l’LU et c'est tout ce dont j'entends parler le 3. J'ai besoin de ressentir la même chose qu’eux. Pourriez-vous s'il vous plaît m'envoyer une copie de l’U.B. Merci. XXXXXXX
 

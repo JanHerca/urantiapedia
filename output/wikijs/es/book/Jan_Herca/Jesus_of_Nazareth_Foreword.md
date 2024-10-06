@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2024-03-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 ## PRÓLOGO
 
@@ -24,4 +24,8 @@ Aunque esta novela utiliza libremente la edición en inglés de _El Libro de Ura
 
 En esta novela descubrirás un punto de vista nuevo y conciliador entre todas las posturas, una posibilidad que nadie había considerado hasta ahora. Jesús vivió como un hombre normal y corriente de su tiempo, pero bajo esa apariencia humana se escondía en realidad un ser sobrenatural, aunque no exactamente el Dios cristiano. La originalidad de _El Libro de Urantia_ estriba en presentar a Jesús como un ser celestial pero subordinado al Padre; es un ser divino, pero sus prerrogativas divinas son inferiores a las absolutas del Padre. Y esto, como se verá, tiene unas implicaciones cósmicas importantes. Jesús no sería el creador de todo el universo, sino sólo de una parte de él, el equivalente a un cúmulo estelar dentro de una galaxia; y hay otros muchos seres como Jesús, creadores a su vez de sus propios cúmulos estelares. Dios el Padre, por tanto, es el creador indirecto de toda la creación, pues delegó su poder en manos de otros seres parecidos a él, sus «Hijos divinos».
 
-¿Y sus enseñanzas? ¿Nos han sido transmitidas fielmente? No es el momento de adelantar las muchas novedades que esta novela ofrece, pero sí podemos anticipar que Jesús nunca pretendió crear una institución religiosa, ni una nueva religión, ni vetó a las mujeres como predicadoras de su mensaje, ni pretendió modificar los rituales judíos y suplantarlos por otros nuevos, ni predicó algunas enseñanzas cristianas acerca del divorcio, del destino del hombre tras la muerte, del perdón de los pecados y otros temas tal y como nos han llegado. El mensaje de Jesús, como podrás leer, era una enseñanza mucho más optimista y esperanzadora que los oscuros preceptos que ha transmitido durante siglos la cristiandad.
+¿Y sus enseñanzas? ¿Nos han sido transmitidas fielmente? No es el momento de adelantar las muchas novedades que esta novela ofrece, pero sí podemos anticipar que Jesús nunca pretendió crear una institución religiosa, ni una nueva religión, ni vetó a las mujeres como predicadoras de su mensaje, ni pretendió modificar los rituales judíos y suplantarlos por otros nuevos, ni predicó algunas enseñanzas cristianas acerca del divorcio, del destino del hombre tras la muerte, del perdón de los pecados y de otros temas tal y como nos han llegado. El mensaje de Jesús, como podrás leer, era una enseñanza mucho más optimista y esperanzadora que los oscuros preceptos que ha transmitido durante siglos la cristiandad.
+
+Y ya sin más, espero que esta breve introducción haya desatado la mayor de tus curiosidades. Pero recuerda, querido lector, esto que vas a leer no es _la verdad_, es algo que busca y persigue la verdad, y como todo en este mundo, está sujeto al error y a la indudable mejora. Que tus lecturas te lleven por esos senderos de Galilea en pos de la fuente de la verdad tanto como me han llevado a mí, y me llevarán.
+
+[Volver a la página inicial](/es/book/Jan_Herca/Jesus_of_Nazareth)

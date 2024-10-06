@@ -40,7 +40,7 @@ _L'un des objectifs importants de la révélation, nous dit-on dans les Fascicul
 > « Aucune erreur n’est plus courante et plus stupide que de faire appel à la logique dans des cas qui dépassent sa compétence. »
 > — Samuel Butler, écrivain (1835-1902)
 
-> _Il est à peu près impossible à la logique humaine et à la raison finie d’harmoniser le concept de l’immanence divine, un Dieu intérieur faisant partie de chaque individu, avec l’idée de la transcendance de Dieu, la domination divine de l’univers des univers._ (<a id="a42_265"></a>[LU 5:5.6](/fr/The_Urantia_Book/5#p5_6))
+> _Il est à peu près impossible à la logique humaine et à la raison finie d’harmoniser le concept de l’immanence divine, un Dieu intérieur faisant partie de chaque individu, avec l’idée de la transcendance de Dieu, la domination divine de l’univers des univers._ (<a id="a42_264"></a>[LU 5:5.6](/fr/The_Urantia_Book/5#p5_6))
 
 ---
 

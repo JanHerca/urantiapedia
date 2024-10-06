@@ -42,9 +42,9 @@ _por Gard Jameson_
 
 Hay muy pocas frases en _El Libro de Urantia_ que contengan sólo tres palabras.
 
-En catorce citas, escuchamos: **«Dios es amor».** En el «Documento 56, Unidad Universal», nos dice «un Mensajero Poderoso. . . , _a petición_ del Cuerpo Revelador de Nebadón y _en colaboración con_ un tal Melquisedec, _el vicegerente Príncipe Planetario de Urantia_» en la apertura del artículo: **«Dios es unidad.»** (énfasis añadido, <a id="a20_336"></a>[LU 56:10.22](/es/The_Urantia_Book/56#p10_22))
+En catorce citas, escuchamos: **«Dios es amor».** En el «Documento 56, Unidad Universal», nos dice «un Mensajero Poderoso. . . , _a petición_ del Cuerpo Revelador de Nebadón y _en colaboración con_ un tal Melquisedec, _el vicegerente Príncipe Planetario de Urantia_» en la apertura del artículo: **«Dios es unidad.»** (énfasis añadido, <a id="a44_336"></a>[LU 56:10.22](/es/The_Urantia_Book/56#p10_22))
 
-En el «Documento 115, El Ser Supremo», escuchamos a un Mensajero Poderoso, quizás el mismo: «Mientras que el infinito es, por un lado, **UNIDAD**, por el otro es **DIVERSIDAD** sin fin ni límite." (<a id="a22_198"></a>[LU 115:3.4](/es/The_Urantia_Book/115#p3_4)) Esas palabras, “UNIDAD» y «DIVERSIDAD», fueron capitalizadas por la dirección de la comisión reveladora.
+En el «Documento 115, El Ser Supremo», escuchamos a un Mensajero Poderoso, quizás el mismo: «Mientras que el infinito es, por un lado, **UNIDAD**, por el otro es **DIVERSIDAD** sin fin ni límite." (<a id="a46_198"></a>[LU 115:3.4](/es/The_Urantia_Book/115#p3_4)) Esas palabras, “UNIDAD» y «DIVERSIDAD», fueron capitalizadas por la dirección de la comisión reveladora.
 
 El mensaje no podría ser más claro: las realidades divinas buscan mayores grados de UNIDAD.
 

@@ -50,7 +50,7 @@ Después de años de intentar comprender por qué los teólogos son tan reacios 
 3. La posibilidad de una nueva «fuente» es una amenaza para sus carreras profesionales.
 4. Finalmente, detecto un miedo subyacente, consciente o inconsciente, a involucrarme en cualquier cosa que pretenda ser una «nueva revelación».
 
-A pesar de estas comprensibles reservas, y debido al tremendo potencial para el bien de la Iglesia -así como de todo el planeta-, creo que una evaluación seria del Libro de Urantia es el gran desafío teológico de nuestros tiempos. El artículo de David Kantor «_El libro de Urantia_: Hacia un contexto para la evaluación teológica» en este número de la Revista describe algunos de los parámetros de dicho proyecto teológico.
+A pesar de estas comprensibles reservas, y debido al tremendo potencial para el bien de la Iglesia -así como de todo el planeta-, creo que una evaluación seria del _Libro de Urantia_ es el gran desafío teológico de nuestros tiempos. El artículo de David Kantor «_El libro de Urantia_: Hacia un contexto para la evaluación teológica» en este número de la Revista describe algunos de los parámetros de dicho proyecto teológico.
 
 
 

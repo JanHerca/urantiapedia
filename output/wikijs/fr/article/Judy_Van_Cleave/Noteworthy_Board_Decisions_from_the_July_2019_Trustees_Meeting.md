@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-3-oct-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-3-octobre-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 3, Oct. 2019 — Table des matières</span>
         </a>
         </td>
@@ -41,11 +41,11 @@ dateCreated: 2023-8-29T10:55:6Z
 _Par Judy Van Cleave, secrétaire de la Fondation Urantia, Idaho, États-Unis_
 <br style="clear:both;"/>
 
-## 1.  L’École Internet du Livre d’Urantia
+## 1.  L’École Internet du Livre d’Urantia
 
 Récemment arrivée à ses 20 ans d’existence, l’École Internet du Livre d’Urantia (UBIS) est l’école pour les lecteurs la plus pérenne. L’enregistrement du trimestre de Septembre ouvrit le 9 septembre et les inscriptions furent fortes. Des volontaires dirigent des classes en anglais (6), espagnol (4), français (3), et portugais (1) qui commencèrent le lundi 23. Cliquez ici pour plus d’informations.
 
-Pour vous donnez une impression du programme, voici quelques exemples des classes proposées :
+Pour vous donnez une impression du programme, voici quelques exemples des classes proposées :
 
 1. Un voyage vers le Paradis et une exploration de l’Univers des Univers
 2. Les Esprits tutélaires de l’Univers local
@@ -76,16 +76,16 @@ Le conseil d’administration a revu a) un rapport du président et de la direct
 
 ## 6. Relations de Communautés
 
-La Fondation Urantia aimerait de la bonne volonté entre la communauté du lectorat. Pour cela, les leaders de L’Association Urantia Internationale ( AUI), la Fellowship du Livre d’Urantia et la l’Université Urantia ont participé à la réunion du conseil d’administration de juillet, par Zoom. Les invités et les présentateurs étaient : Chris Wood, président de l’AUI ; Lara Amyx, présidente des finances et Emilio Coppola, trésorier de la Fellowship ; et Elisabeth Callahan, directrice exécutive de l’Université Urantia.
+La Fondation Urantia aimerait de la bonne volonté entre la communauté du lectorat. Pour cela, les leaders de L’Association Urantia Internationale ( AUI), la Fellowship du Livre d’Urantia et la l’Université Urantia ont participé à la réunion du conseil d’administration de juillet, par Zoom. Les invités et les présentateurs étaient : Chris Wood, président de l’AUI ; Lara Amyx, présidente des finances et Emilio Coppola, trésorier de la Fellowship ; et Elisabeth Callahan, directrice exécutive de l’Université Urantia.
 
 Chaque groupe, ainsi que la Fondation Urantia présentèrent leurs programmes et leurs vues pour le futur. Il y eut assez de temps pour les questions et réponses des participants. Comme mentionné dans _Le Livre d’Urantia_, vous ne pouvez vous empêcher d’aimer quelqu’un lorsque vous le comprenez. Ce premier échange fut productif et ouvrit la porte à des conversations futures.
 
 ## 7. Séminaires et Événements à 533
 
-Les événements suivants se tiendront à 533 Diversey, cet automne :
+Les événements suivants se tiendront à 533 Diversey, cet automne :
 
-- Du 11 au 13 octobre : Réunion administrative annuelle du conseil d’administration d’UBIS
-- Novembre 2019 : Symposium II de la Science ( enregistré en live)
+- Du 11 au 13 octobre : Réunion administrative annuelle du conseil d’administration d’UBIS
+- Novembre 2019 : Symposium II de la Science ( enregistré en live)
 
 > Les dirigeants de l'Association Urantia Internationale (AUI), de l'Urantia Book Fellowship et de l'UrantiaUniversity ont assisté à la réunion du conseil d'administration de la Fondation Urantia en juillet via Zoom.
 {.is-info}
@@ -107,7 +107,7 @@ Les événements suivants se tiendront à 533 Diversey, cet automne :
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-3-oct-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-3-octobre-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 3, Oct. 2019 — Table des matières</span>
         </a>
         </td>

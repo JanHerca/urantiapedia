@@ -41,8 +41,7 @@ Entonces no se pierda esta ocasión trascendental, del 27 al 30 de marzo de 2015
 
 ¡¡¡BUENAS NOTICIAS!!! ¡Hemos extendido nuestro descuento por reserva anticipada por una semana más hasta el viernes 12 de diciembre, para permitir que todos los que deseen asistir al Retiro tengan una oportunidad más de registrarse temprano y ahorrar! Puede registrarse ahora y reservar su espacio hoy visitando nuestra página de registro de eventos RegOnline.
 
-Para obtener más información, por favor visite nuestro sitio web: [http://tuuff.com/Easter%20Retreats/LosGatos\_2015/home.html](http://tuuff.com/Easter%20Retreats/LosGatos_2015/home.html)[
-](http://www.tuuff.com/Easter20Retreats/LosGatos_2015)
+Para obtener más información, por favor visite nuestro sitio web: [http://tuuff.com/Easter%20Retreats/LosGatos\_2015/home.html](http://tuuff.com/Easter%20Retreats/LosGatos_2015/home.html)
 
 La Familia Urantia Unida y las Artes Sagradas Urantia
 

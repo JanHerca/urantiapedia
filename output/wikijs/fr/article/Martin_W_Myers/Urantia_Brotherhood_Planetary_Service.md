@@ -53,15 +53,15 @@ Nous sommes au début d’une nouvelle ère. Alors que nous examinons le large p
 
 ## Rôle organisationnel
 
-En essayant d'évaluer quel genre d'organisation est la Fraternité URANTIA, ou quel genre d'organisation nous aimerions voir la Fraternité URANTIA devenir, considérons ce que _Le Livre URANTIA_ observe dans LU 118 :1.5 :
+En essayant d'évaluer quel genre d'organisation est la Fraternité URANTIA, ou quel genre d'organisation nous aimerions voir la Fraternité URANTIA devenir, considérons ce que _Le Livre URANTIA_ observe dans LU 118 :1.5 :
 
 > « _À mesure que le moi murit, il recourt pour son expérience à un passé de plus en plus lointain, tandis que ses prévisions de sagesse cherchent à pénétrer de plus en plus profondément dans l’avenir inconnu. Et, à mesure que le moi qui conçoit étend davantage sa portée dans le passé et le futur, son jugement dépend de moins en moins du présent momentané. La décision-action commence ainsi à échapper aux liens du présent en mouvement, tandis qu’elle revêt progressivement les aspects de la signification passé-futur._ » (<a id="a57_525"></a>[LU 118:1.5](/fr/The_Urantia_Book/118#p1_5))
 
-Examinons maintenant le passé immédiat de ces événements et de la philosophie qui a suggéré et guidé la formation de la Fraternité URANTIA. Alors regardons dans le passé plus profond en préparation pour faire une « prévision de sagesse » quant à l'avenir de la Fraternité URANTIA, échappant ainsi « _... aux entraves du présent en mouvement… _ » afin de mieux acquérir une vision plus large. , perspective plus sûre «_...sur les aspects de signification passé-futur._» (LU 118 : 1.5)
+Examinons maintenant le passé immédiat de ces événements et de la philosophie qui a suggéré et guidé la formation de la Fraternité URANTIA. Alors regardons dans le passé plus profond en préparation pour faire une « prévision de sagesse » quant à l'avenir de la Fraternité URANTIA, échappant ainsi « _... aux entraves du présent en mouvement… _ » afin de mieux acquérir une vision plus large. , perspective plus sûre «_...sur les aspects de signification passé-futur._» (LU 118 : 1.5)
 
 En considérant l'opportunité – et même la nécessité – d'une organisation telle que la Fraternité URANTIA, les dirigeants originaux ont vu que si l'institutionnalisation, si elle était poussée à l'extrême, pouvait cristalliser une religion en de simples formes mortes – un squelette de son moi autrefois dynamique, ils ont également vu que sans une organisation à laquelle aucune religion ne pourrait survivre.
 
-Comme le dit _Le Livre d'URANTIA_ :
+Comme le dit _Le Livre d'URANTIA_ :
 
 > « _Il est difficile à une religion de survivre en tant que pratique personnelle d’individus isolés. Les chefs religieux ont toujours commis l’erreur suivante : apercevant les maux de la religion institutionnelle, ils cherchent à détruire la technique de fonctionnement collectif._ » (<a id="a65_286"></a>[LU 97:10.7](/fr/The_Urantia_Book/97#p10_7))
 
@@ -73,7 +73,7 @@ L'organisation minimale prévue dans la Constitution de la Fraternité URANTIA f
 
 Les grands principes directeurs qui gouvernent de manière informelle notre structure matérielle évolutive sont exposés dans un discours prononcé dans les premiers jours de notre mouvement URANTIA. Dans ce discours, William S, Sadler, Jr., premier président de la Fraternité URANTIA, dans son premier rapport triennal du président au Conseil général de la Fraternité URANTIA, a exposé ce qui est maintenant devenu l'exposé classique de la vaste mission de la Fraternité URANTIA.
 
-1. « Dieu est la seule vraie fin ; toutes les autres choses sont secondaires et subordonnées à la réalisation de la filiation ou de la filiation avec Dieu. »
+1. « Dieu est la seule vraie fin ; toutes les autres choses sont secondaires et subordonnées à la réalisation de la filiation ou de la filiation avec Dieu. »
 
 2. « _Le Livre d'URANTIA_ lui-même n'est pas une fin bien qu'il soit un moyen très important pour atteindre une fin. Nous pouvons servir nos frères spirituellement affamés avec ou sans l'aide du _Livre d'URANTIA_. Mais si jamais le Livre devient obligatoire dans notre ministère, alors nous deviendrons véritablement sectaires. Notre objectif premier est le service de Dieu, et le Livre est un moyen important pour atteindre ce grand but. »
 
@@ -95,7 +95,7 @@ Il y a environ 200 000 ans, notre Prince Planétaire a uni ses forces avec Lucif
 
 Et nous savons également qu'il y a environ quarante mille ans – ou environ cent soixante mille ans après la rébellion de Lucifer – et alors que notre planète était encore coupée et isolée par la quarantaine planétaire, nous avons reçu comme promis, les élévateurs biologiques (Adam et Ève). ), notre Mère et Père Planétaire. _Le Livre d'URANTIA_ nous dit :
 
-> “_Ces êtres uniques et merveilleusement utiles sont le chainon qui relie les mondes physiques aux mondes spirituels. ... Contrairement aux autres Fils créés qui servent sur les planètes, les Fils de l’ordre matériel de filiation ne sont pas, par nature, invisibles aux créatures matérielles telles que les habitants d’Urantia. Ces Fils de Dieu peuvent être vus et compris par les créatures du temps, et à leur tour se mêler effectivement à elles. Ils pourraient même procréer avec elles, bien que le rôle d’élévation biologique incombe en général à la progéniture des Adams Planétaires._”([LU 51:1.6-7](/fr/The_Urantia_Book/51#p1_6))
+> “_Ces êtres uniques et merveilleusement utiles sont le chainon qui relie les mondes physiques aux mondes spirituels. ... Contrairement aux autres Fils créés qui servent sur les planètes, les Fils de l’ordre matériel de filiation ne sont pas, par nature, invisibles aux créatures matérielles telles que les habitants d’Urantia. Ces Fils de Dieu peuvent être vus et compris par les créatures du temps, et à leur tour se mêler effectivement à elles. Ils pourraient même procréer avec elles, bien que le rôle d’élévation biologique incombe en général à la progéniture des Adams Planétaires._”(<a id="a97_591"></a>[LU 51:1.6-7](/fr/The_Urantia_Book/51#p1_6))
 
 > « _Chez ces immortels Fils et Filles Matériels, nous rencontrons le dernier chainon indispensable qui relie Dieu à l’homme, qui jette un pont sur l’abime presque infini entre le Créateur éternel et les plus humbles personnalités finies du temps. Voici des êtres de haute origine qui sont physiques, matériels, et même sexués comme les mortels d’Urantia, qui peuvent voir et comprendre l’invisible Prince Planétaire et s’en faire les interprètes auprès des créatures mortelles du royaume, car les Fils et Filles Matériels sont capables de voir tous les êtres spirituels des ordres inférieurs ; ils visualisent le Prince Planétaire et tout son état-major visible et invisible._ » (<a id="a99_681"></a>[LU 51:6.5](/fr/The_Urantia_Book/51#p6_5))
 

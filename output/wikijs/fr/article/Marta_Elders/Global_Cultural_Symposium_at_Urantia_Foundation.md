@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-1-april-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-1-avril-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 1, April 2019 — Table des matières</span>
         </a>
         </td>
@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Marta Elders, trustee associé, de la Fondation Urantia, Connecticut, États-Unis_
 
-_Note de l’éditeur : Claire Mylanus, présidente du Symposium, Marta Elders et Marilynn Kulieke ont planifié cette réunion durant ces dernières années pour supporter les efforts internationaux de la Fondation Urantia. Nous sommes reconnaissants du temps et de l’énergie déployés par les participants pour faire vivre cette événement mémorable !_
+_Note de l’éditeur : Claire Mylanus, présidente du Symposium, Marta Elders et Marilynn Kulieke ont planifié cette réunion durant ces dernières années pour supporter les efforts internationaux de la Fondation Urantia. Nous sommes reconnaissants du temps et de l’énergie déployés par les participants pour faire vivre cette événement mémorable !_
 
 Le Comité d’Éducation de la Fondation Urantia est heureuse d’annoncer un symposium culturel qui se tiendra à la Fondation du 11 au 15 avril.
 
@@ -82,9 +82,9 @@ Chaque participant fut invité à donner une présentation sur les aspects cultu
 
 Nous sommes ravis d’accueillir nos frères et sœurs de toute la planète qui se réuniront pour partager leurs expériences avec la cinquième révélation d’époque et de pouvoir percevoir plus largement son potentiel dans le monde.
 
-Cet événement sera enregistré en direct, donc essayez de nous rejoindre en ligne. Voici le lien pour le canal de la diffusion en ligne : www.ustrem.tv/Channel/5XYGg5rDqWB
+Cet événement sera enregistré en direct, donc essayez de nous rejoindre en ligne. Voici le lien pour le canal de la diffusion en ligne : www.ustrem.tv/Channel/5XYGg5rDqWB
 
-Notez le dans votre agenda, s’il vous plaît !
+Notez le dans votre agenda, s’il vous plaît !
 <br style="clear:both;"/>
 
 Tous les horaires énoncés ci-dessous sont ceux de l’heure avancée du centre (CDT), des États-Unis.
@@ -123,7 +123,7 @@ Tous les horaires énoncés ci-dessous sont ceux de l’heure avancée du centre
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-1-april-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-1-avril-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 1, April 2019 — Table des matières</span>
         </a>
         </td>

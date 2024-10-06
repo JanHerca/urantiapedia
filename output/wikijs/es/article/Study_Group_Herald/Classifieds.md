@@ -43,7 +43,7 @@ _The STUDY GROUP HERALD no acepta responsabilidad por los productos o servicios 
 
 **¡NUESTRO producto MÁS POPULAR**! Presentamos 12 semillas de mostaza completamente diferentes. Fragmentos del tamaño de un marcador de libro de poderosas verdades del Libro de Urantia. Excelente para difundir la verdad. Prensa de buena alegría, Boulder, CO 80301.
 
-**PARA AQUELLOS QUE LIDIAN CON LA MUERTE** - Una hermosa e inspiradora revista que analiza la promesa del Libro de Urantia de que la fe en Dios garantiza la vida eterna en un universo amoroso, ordenado e inteligente. Prensa de buena alegría, Boulder, CO 80301.
+**PARA AQUELLOS QUE LIDIAN CON LA MUERTE** - Una hermosa e inspiradora revista que analiza la promesa del _Libro de Urantia_ de que la fe en Dios garantiza la vida eterna en un universo amoroso, ordenado e inteligente. Prensa de buena alegría, Boulder, CO 80301.
 
 **NUEVO**: Evolución del alma, por el Dr. William Sadler, padre del movimiento Urantia. Ángeles a nuestro alrededor Libro para colorear para niños. Para obtener un catálogo gratuito, escriba a Good Cheer Press.
 
@@ -57,7 +57,7 @@ _The STUDY GROUP HERALD no acepta responsabilidad por los productos o servicios 
 
 **EL SISTEMA EDUCATIVO DEL GRAN UNIVERSO**. Traza nuestro desarrollo intelectual y espiritual desde este planeta hasta el Paraíso. 21 páginas. Inglés. \$2.50 (franqueo incluido). Lee J. Cook, 2513 25th St., Lubbock, TX 79410. Tel: (806)744-2664.
 
-**LOS CÍRCULOS**. Revista de 24 páginas sobre la vida espiritual basada en los principios del Libro de Urantia (3 números/año). Envíe la muestra a: Sample of Circles, Dallas Fellowship, Inc. P.O. Caja 1203, Arlington, TX 76004-1203
+**LOS CÍRCULOS**. Revista de 24 páginas sobre la vida espiritual basada en los principios del _Libro de Urantia_ (3 números/año). Envíe la muestra a: Sample of Circles, Dallas Fellowship, Inc. P.O. Caja 1203, Arlington, TX 76004-1203
 
 **AMISTAD CON DIOS**. Libro de Kaye y Bill Cooper sobre cómo sentir la presencia de Dios y conocerlo como un amigo. $11.95 (incluye envío). Latham Publishing, P.O. Caja 680857-H, Houston, TX 77268-0857.
 

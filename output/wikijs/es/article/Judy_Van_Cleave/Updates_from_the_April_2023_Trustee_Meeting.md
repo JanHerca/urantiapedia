@@ -91,7 +91,7 @@ El 15 de marzo se anunciaron siete subvenciones. ¡Enhorabuena a los beneficiari
 
 ### 1. Programa de formación de profesores de _El libro de Urantia_
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+<figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 
@@ -103,7 +103,7 @@ _Proyecto de seis meses para desarrollar un programa de formación de profesores
 
 ### 2. Escuela de Sabiduría Divina y Progresiva
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 
@@ -115,7 +115,7 @@ _Proyecto de un año para proporcionar asistencia técnica a profesores/facilita
 
 ### 3. Conferencias Urantia en Nigeria
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-left">
+<figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 
@@ -127,7 +127,7 @@ _Proyecto de seis meses para celebrar una conferencia anual en Lagos (Nigeria), 
 
 ### 4. Producciones Living Bridge
 
-<figure id="Figure_5" class="image urantiapedia image-style-align-left">
+<figure id="Figure_5" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 
@@ -139,7 +139,7 @@ _Proyecto de un año para producir dos vídeos de alta calidad con el fin de dif
 
 ### 5. Difundir la buena nueva
 
-<figure id="Figure_6" class="image urantiapedia image-style-align-left">
+<figure id="Figure_6" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 
@@ -151,7 +151,7 @@ _Proyecto de un mes de duración para proclamar, promover y difundir la revelaci
 
 ### 6. Urantiapedia
 
-<figure id="Figure_7" class="image urantiapedia image-style-align-left">
+<figure id="Figure_7" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 
@@ -163,7 +163,7 @@ _Proyecto de dos años para desarrollar una enciclopedia en línea de código ab
 
 ### 7. FER UB
 
-<figure id="Figure_8" class="image urantiapedia image-style-align-left">
+<figure id="Figure_8" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/006.jpg">
 </figure>
 

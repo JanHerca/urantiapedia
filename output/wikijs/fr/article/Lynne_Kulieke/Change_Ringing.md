@@ -64,11 +64,11 @@ sans aller à la chasse.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Urantian/By_Marion_Rowley.jpg">
-<figcaption><em>Photographe : Marian Rowley</em></figcaption>
+<figcaption><em>Photographe : Marian Rowley</em></figcaption>
 </figure>
 
 
-Remarque : Dans la sonnerie de changement de cloche d'église, le but est de jouer différentes combinaisons et permutations d'un ensemble de cloches, et non de jouer une mélodie. « Partir à la chasse » signifie le mouvement d'une cloche individuelle dans la séquence.
+Remarque : Dans la sonnerie de changement de cloche d'église, le but est de jouer différentes combinaisons et permutations d'un ensemble de cloches, et non de jouer une mélodie. « Partir à la chasse » signifie le mouvement d'une cloche individuelle dans la séquence.
 
 <figure class="table chapter-navigator">
   <table>

@@ -1,5 +1,5 @@
 ---
-title: "Cercles de confiance : une expérience de partage d'âme"
+title: "Cercles de confiance : une expérience de partage d'âme"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z

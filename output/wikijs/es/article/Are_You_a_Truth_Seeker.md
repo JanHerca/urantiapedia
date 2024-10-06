@@ -42,7 +42,7 @@ Dirigiéndose a los creyentes durante su aparición resucitada en Fenicia, Jesú
 
 Con qué facilidad pasamos por alto las frases y cláusulas condicionales, solo escuchando lo que queremos escuchar.
 
-Durante veinte siglos, los cristianos han anunciado «cree y serás salvo», y las almas crédulas han respondido: «Creo», y luego han seguido adelante con su vida diaria, como antes. Los creyentes del Libro de Urantia también han leído la frase, «el más leve destello de fe» como portador de la seguridad de su salvación y la garantía de su inmortalidad, independientemente.
+Durante veinte siglos, los cristianos han anunciado «cree y serás salvo», y las almas crédulas han respondido: «Creo», y luego han seguido adelante con su vida diaria, como antes. Los creyentes del _Libro de Urantia_ también han leído la frase, «el más leve destello de fe» como portador de la seguridad de su salvación y la garantía de su inmortalidad, independientemente.
 
 Los abogados a menudo emiten recordatorios de la necesidad de leer la letra pequeña antes de firmar un contrato legal, porque lo que está en esa letra pequeña es legalmente vinculante, aunque no se haya leído ni hecho.
 

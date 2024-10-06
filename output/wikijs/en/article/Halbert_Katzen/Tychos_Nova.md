@@ -3,7 +3,7 @@ title: "Tycho’s Nova Report"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Astronomy
+tags: Astronomy, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -229,7 +229,9 @@ Urantia Book quotes:
 
 ## External links
 
-* This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/tychos-nova.pdf
+* [This report in UBTheNews webpage](https://ubannotated.com/wp-content/uploads/2018/03/tychos-nova.pdf)
+* [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

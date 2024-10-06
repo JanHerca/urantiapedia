@@ -34,7 +34,7 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
-Note de l’éditrice : Félicitations à Share Beasley et Line St-Pierre qui ont accepté l’invitation à rejoindre le Conseil d’Administration Élargi de la Fondation Urantia. Bienvenue mesdames !
+Note de l’éditrice : Félicitations à Share Beasley et Line St-Pierre qui ont accepté l’invitation à rejoindre le Conseil d’Administration Élargi de la Fondation Urantia. Bienvenue mesdames !
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2012_06/053.jpg">
@@ -51,7 +51,7 @@ Share Beasley vit à Brandon, en Floride avec son mari Bill. Elle est maman et g
 
 **Line St-Pierre**
 
-Line St-Pierre est québécoise, née à Laval, au Québec, Canada. Elle est mariée, mère de deux fils et grand-mère de deux petites filles. Line est une lectrice du _Livre d’Urantia_ depuis 1996. Elle décrit son expérience de faire confiance aux vérités de la révélation Urantia comme « le jour où elle ressentit Dieu dans son âme, me transformant et me donnant un sens profond et un but à ma vie. Le service fut le mot clé et c’est là que commença mon voyage conscient. » Line est impliquée dans le mouvement Urantia depuis 2001 et a servi dans beaucoup de fonctions dans la communauté des lecteurs du Livre d’Urantia du Canada. Aujourd’hui, Line est vice-présidente de l’Association Canadienne Urantia et est activement engagée à la coordination et à l’animation d’ateliers, de conférences et de groupes d’étude du Livre d’Urantia.
+Line St-Pierre est québécoise, née à Laval, au Québec, Canada. Elle est mariée, mère de deux fils et grand-mère de deux petites filles. Line est une lectrice du _Livre d’Urantia_ depuis 1996. Elle décrit son expérience de faire confiance aux vérités de la révélation Urantia comme « le jour où elle ressentit Dieu dans son âme, me transformant et me donnant un sens profond et un but à ma vie. Le service fut le mot clé et c’est là que commença mon voyage conscient. » Line est impliquée dans le mouvement Urantia depuis 2001 et a servi dans beaucoup de fonctions dans la communauté des lecteurs du Livre d’Urantia du Canada. Aujourd’hui, Line est vice-présidente de l’Association Canadienne Urantia et est activement engagée à la coordination et à l’animation d’ateliers, de conférences et de groupes d’étude du Livre d’Urantia.
 <br style="clear:both;"/>
 
 ## Références

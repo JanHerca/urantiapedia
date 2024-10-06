@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-2-july-2018">
+        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-2-juillet-2018">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 2, July 2018 — Table des matières</span>
         </a>
         </td>
@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Compilation de différentes provenances_
 
-_Note de l’éditeur : Richard Keeler est le trustee ayant servi la Fondation, le plus longtemps et fut un important contributeur au projet du Livre d’Urantia durant des décennies. Tout le conseil d’administration et beaucoup d’autres de la communauté urantienne lui sont reconnaissants pour son dévouement, sa générosité et sa bonne volonté. Nous sommes heureux que Richard continue sa fonction comme trustee émérite._
+_Note de l’éditeur : Richard Keeler est le trustee ayant servi la Fondation, le plus longtemps et fut un important contributeur au projet du Livre d’Urantia durant des décennies. Tout le conseil d’administration et beaucoup d’autres de la communauté urantienne lui sont reconnaissants pour son dévouement, sa générosité et sa bonne volonté. Nous sommes heureux que Richard continue sa fonction comme trustee émérite._
 
 À l’automne 1959, Richard Keeler récemment élu gouverneur par ses pairs de Oklahoma Boys State (un projet de formation de responsables) quitta Bartlesville, Oklahoma, et suivit les traces de nombreux membres de sa famille en rejoignant l’Université de Kansas. Comme ses proches avant lui, Richard s’engagea dans la Fraternité Sigma Chi, où il rencontra un nouvel engagé, Vern Grimsley.
 
@@ -48,7 +48,7 @@ Vern venait de suivre un cours, enseigné par Meredith Sprunger. À la fin du co
 
 En quelques années, Richard voyagea à Chicago pour visiter la Fondation Urantia à 533 W. Diversey Parkway et rencontra Dr. William Sadler, E. L. Christensen (Christy) et d’autres. Ils furent immédiatement acceptés dans ce groupe de premiers lecteurs et apprirent l’histoire et la culture des deux organisations qui avaient été créées pour disséminer _Le Livre d’Urantia_ et ses enseignement, la Fondation Urantia et la Brotherhood Urantia.
 
-L’un des documents auquel Richard fut exposé, durant son éducation première, fut le Mandat de Publication. Une phrase attira particulièrement l’attention de Richard : « mais la publication du livre n’a pas été remise à cette éventuelle (possible) date lointaine. » une publication anticipée du livre fut prévue afin d’être mise à disposition pour la formation d’enseignants et de responsables. Sa disponibilité fut aussi requise pour attirer l’attention de personnes fortunées qui pourraient fournir des fonds pour les traductions en d’autres langues.
+L’un des documents auquel Richard fut exposé, durant son éducation première, fut le Mandat de Publication. Une phrase attira particulièrement l’attention de Richard : « mais la publication du livre n’a pas été remise à cette éventuelle (possible) date lointaine. » une publication anticipée du livre fut prévue afin d’être mise à disposition pour la formation d’enseignants et de responsables. Sa disponibilité fut aussi requise pour attirer l’attention de personnes fortunées qui pourraient fournir des fonds pour les traductions en d’autres langues.
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2018_07/008.jpg">
@@ -70,9 +70,9 @@ Richard voyagea énormément pour étendre les activités de la Fondation Uranti
 
 Richard, merci pour tout ce que tu as fait et pour qui tu es à l'intérieur ! Tu nous manques et tu nous aimes... surtout comment tu nous as fait rire, danser et nous joindre à tes célèbres chants de banjo !
 
-Une déclaration faite par Richard lorsqu’il était président de la Fondation, concrétise comment il servit : « puissions-nous rejoindre notre Père Céleste, notre Fils Créateur, ainsi que nos frères et sœurs, visibles et invisibles, pour participer en coopération patiente et en service désintéressé à notre jeune mouvement. Puissions- nous être si saturés d’amour, de vérité et de bonté de Dieu que toutes les personnes entrant en contact avec nous, saurons par notre comportement que nous sommes des chercheurs de vérité et des explorateurs spirituels, dévoués à la tâche céleste de faire la volonté de notre Père Céleste. »
+Une déclaration faite par Richard lorsqu’il était président de la Fondation, concrétise comment il servit : « puissions-nous rejoindre notre Père Céleste, notre Fils Créateur, ainsi que nos frères et sœurs, visibles et invisibles, pour participer en coopération patiente et en service désintéressé à notre jeune mouvement. Puissions- nous être si saturés d’amour, de vérité et de bonté de Dieu que toutes les personnes entrant en contact avec nous, saurons par notre comportement que nous sommes des chercheurs de vérité et des explorateurs spirituels, dévoués à la tâche céleste de faire la volonté de notre Père Céleste. »
 
-Amen !
+Amen !
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2018_07/014.jpg">
@@ -98,7 +98,7 @@ Amen !
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-2-july-2018">
+        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-2-juillet-2018">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 2, July 2018 — Table des matières</span>
         </a>
         </td>

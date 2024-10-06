@@ -1,5 +1,5 @@
 ---
-title: Urantiapedia - Configurar el proyecto de GitHub
+title: "Urantiapedia - Configurar el proyecto de GitHub"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/web_html_editor">Uso del editor HTML</a></td>
+        <td><a href="/es/help/github_edit_on_web">Trabajar directamente desde la web de GitHub</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_content">Contenido del proyecto de GitHub</a></td>
+        <td><a href="/es/help/github_edit_local">Trabajar localmente en el PC</a></td>
       </tr>
     </tbody>
   </table>
@@ -94,7 +94,7 @@ Las *Urantiapedia Tools* es una aplicación de escritorio desarrollada en JavaSc
 5. El proyecto se configura con una configuración de ejecución por defecto. Presiona F5 para ejecutar la aplicación o en el terminal ejecuta `npm run start`.
 6. La aplicación se abre. Por defecto se abre una ventana Dev Tools para poder depurar. Si no estás desarrollando puedes ignorarla o cerrarla.
 
-![](/image/uptools.png)
+![](/image/help/uptools.png)
 
 ## Hacer commit y push de cambios
 
@@ -149,7 +149,7 @@ En resumen, el proceso en GitHub es el siguiente (ver el diagrama):
 6. Estos *pull requests* de los «Editores Jefe» son revisados por un «Administrador», quien se encargan de hacer un *merge* con la rama principal (master) de todos aquellos cambios que sean correctos. Cualquier cambio que no sea correcto será rechazado y se notificará a los «Editores Jefe» para que los corrijan.
 7. Cuando los cambios son correctos, el «Administrador» hace un *merge* de ellos y se sincronizan automáticamente con la web.
 
-![](/image/github_workflow_version_2.png)
+![](/image/help/github_workflow_version_2.png)
 
 ## Enlaces externos
 
@@ -160,14 +160,14 @@ En resumen, el proceso en GitHub es el siguiente (ver el diagrama):
 - [Wiki.js](https://js.wiki/)
 
 <br>
- 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/web_html_editor">Uso del editor HTML</a></td>
+        <td><a href="/es/help/github_edit_on_web">Trabajar directamente desde la web de GitHub</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_content">Contenido del proyecto de GitHub</a></td>
+        <td><a href="/es/help/github_edit_local">Trabajar localmente en el PC</a></td>
       </tr>
     </tbody>
   </table>

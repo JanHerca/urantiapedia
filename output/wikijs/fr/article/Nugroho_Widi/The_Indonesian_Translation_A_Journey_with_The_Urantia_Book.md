@@ -42,9 +42,9 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Nugroho Widi, Jakarta, Indonésie_
 
-_Note de l’éditeur : la traduction indonésienne fut publiée en avril 2020, sur le site de la Fondation. Widi, le chef de l’équipe de traduction, partage avec nous son récit du projet._
+_Note de l’éditeur : la traduction indonésienne fut publiée en avril 2020, sur le site de la Fondation. Widi, le chef de l’équipe de traduction, partage avec nous son récit du projet._
 
-La traduction indonésienne est enfin terminée et a été publiée ici : [urantia.org/id/buku-urantia](https://www.urantia.org/id/buku-urantia). Je la conçois comme la première étape de mon récit— il y en aura encore.
+La traduction indonésienne est enfin terminée et a été publiée ici : [urantia.org/id/buku-urantia](https://www.urantia.org/id/buku-urantia). Je la conçois comme la première étape de mon récit— il y en aura encore.
 
 Mais maintenant, j’en partage avec vous la première partie.
 
@@ -68,7 +68,7 @@ Pour moi, sa vérité est à la fois cohérente pour la tête et le cœur. Ce te
 
 La majorité des Musulmans que j’ai contacté n’ont pas réagi. Il y a un petit nombre de musulmans qui sont intéressés par le New Âge et la métaphysique et j’en ai rencontré quelques uns qui étaient intéressés à le lire. Ils me demandaient continuellement de le traduire. Lorsque le projet débuta, quelques uns rejoignirent l’équipe en corrigeant mon travail.
 
-Cette aventure fut un appel clair, et je contactais la Fondation Urantia. J’eus l’accord de Seppo Kanerva, en 2000, qui était le directeur des Traductions de la Fondation Urantia, en ce temps là, mais je n’avançai pas vite à cause de mon incapacité d’épauler le projet en solitaire. Cela changea en 2013, lorsque Georges Michelson-Dupont (qui est le Directeur actuel des Traductions) me rendit visite chez moi et rencontra notre petit groupe : Yusuf, Yntan et Rahman. Nous avons reçu un nouveau contrat, de la supervision et assez d’aide pour continuer l’aventure.
+Cette aventure fut un appel clair, et je contactais la Fondation Urantia. J’eus l’accord de Seppo Kanerva, en 2000, qui était le directeur des Traductions de la Fondation Urantia, en ce temps là, mais je n’avançai pas vite à cause de mon incapacité d’épauler le projet en solitaire. Cela changea en 2013, lorsque Georges Michelson-Dupont (qui est le Directeur actuel des Traductions) me rendit visite chez moi et rencontra notre petit groupe : Yusuf, Yntan et Rahman. Nous avons reçu un nouveau contrat, de la supervision et assez d’aide pour continuer l’aventure.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2020_06/009.jpg">

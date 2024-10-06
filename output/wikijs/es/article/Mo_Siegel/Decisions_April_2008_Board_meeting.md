@@ -40,7 +40,7 @@ En relación con el artículo «La Revelación entra en el siglo XXI», el infor
 
 ## El libro físico
 
-Durante los últimos cinco años, las ventas de la edición inglesa del Libro de Urantia publicado por la Fundación Urantia han ido decayendo constantemente. Atribuimos este descenso en las ventas al creciente acceso por Internet a las enseñanzas, la desaparición de muchos minoristas de libros especializados, la competición creciente por un hueco en las estanterías con niveles de inventario decrecientes en las cadenas de librerías, editoriales de muchos títulos, las jóvenes generaciones que prefieren lo multimedia a los libros, y la necesidad de hacer nuestra portada más atractiva a los vendedores de libros espirituales que no conocen el libro. Durante 2006 y 2007, la bajada de nuestras ventas fue lo bastante sustancial como para que la junta decidiera realizar mejoras para mantener nuestro liderazgo en las librerías minoristas y simultáneamente aumentar nuestras ventas en los proveedores de libros de Internet.
+Durante los últimos cinco años, las ventas de la edición inglesa del _Libro de Urantia_ publicado por la Fundación Urantia han ido decayendo constantemente. Atribuimos este descenso en las ventas al creciente acceso por Internet a las enseñanzas, la desaparición de muchos minoristas de libros especializados, la competición creciente por un hueco en las estanterías con niveles de inventario decrecientes en las cadenas de librerías, editoriales de muchos títulos, las jóvenes generaciones que prefieren lo multimedia a los libros, y la necesidad de hacer nuestra portada más atractiva a los vendedores de libros espirituales que no conocen el libro. Durante 2006 y 2007, la bajada de nuestras ventas fue lo bastante sustancial como para que la junta decidiera realizar mejoras para mantener nuestro liderazgo en las librerías minoristas y simultáneamente aumentar nuestras ventas en los proveedores de libros de Internet.
 
 ## Nuevas portadas
 
@@ -55,6 +55,7 @@ Se pidió a unos 700 compradores de libros de mente abierta, cultos, de edad ade
 Dado que las dos portadas funcionaron tan bien, decidimos usar las dos, la más popular para la edición blanda y la portada ligeramente exclusiva para el libro de tapas duras. Ambos libros, diseñados específicamente para el mercado norteamericano, estarán disponibles en junio de 2008. Aquellos que prefieran la portada actual todavía la tienen disponible para su adquisición.
 
 La Junta decidió usar las nuevas portadas en todas las futuras ediciones de las traducciones, a no ser que los representantes de un país en concreto prefirieran otra distinta.
+<br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2008_06/014.jpg">

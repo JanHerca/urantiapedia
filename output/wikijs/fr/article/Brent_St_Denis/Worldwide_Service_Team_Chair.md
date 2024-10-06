@@ -41,7 +41,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 par _Brent St. Denis_
 
-En tant que président de l’équipe de service mondiale, j'ai le plaisir de représenter au comité exécutif les comités permanents suivants de la Fellowship :
+En tant que président de l’équipe de service mondiale, j'ai le plaisir de représenter au comité exécutif les comités permanents suivants de la Fellowship :
 
 1. Interconfessionnel (président, Geoff Taylor)
 2. Sensibilisation (présidente, Paula Thompson)
@@ -54,7 +54,7 @@ Le Comité international m'a inclus dans ses réunions Zoom régulières, j'ai d
 
 Interfaith a démontré une compréhension approfondie de son rôle en tâtant le terrain dans différents lieux « spirituels et religieux » afin de trouver les bons endroits pour présenter le Livre d'Urantia à ceux qui recherchent la vérité partout où ils peuvent la trouver.
 
-YaYA a déployé des efforts exemplaires pour parrainer ou participer à des rassemblements de jeunes et, ce faisant, nos jeunes lecteurs peuvent se sentir les bienvenus dans le mouvement ; ce sont nos futurs dirigeants.
+YaYA a déployé des efforts exemplaires pour parrainer ou participer à des rassemblements de jeunes et, ce faisant, nos jeunes lecteurs peuvent se sentir les bienvenus dans le mouvement ; ce sont nos futurs dirigeants.
 
 Et Outreach a été infatigable pour s'assurer que le Livre d'Urantia soit exposé et que des bénévoles soient disponibles dans autant de foires du livre et autres événements que possible. Ce travail est essentiel.
 

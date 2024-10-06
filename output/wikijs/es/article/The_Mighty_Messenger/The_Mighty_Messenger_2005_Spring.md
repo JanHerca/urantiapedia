@@ -128,7 +128,7 @@ LA CONFRATERNIDAD DEL LIBRO DE URANTIA:
 
 LOGROS:
 
-- Editores del Libro de Urantia impreso más fácil de estudiar y numerosas ayudas de estudio eficaces y obras de apoyo.
+- Editores del _Libro de Urantia_ impreso más fácil de estudiar y numerosas ayudas de estudio eficaces y obras de apoyo.
 - Publicaciones periódicas consistentemente excelentes enviadas gratuitamente a la comunidad Urantia.
 - Conferencias Internacionales Trienales destacadas desde 1967.
 - Un sitio web que es una completa biblioteca de recursos de 50 años de la Fellowship de El Libro de Urantia.

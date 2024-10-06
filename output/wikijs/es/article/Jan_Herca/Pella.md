@@ -3,7 +3,7 @@ title: "Pella"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Jesus, Jesus times
+tags: Jesus, Jesus times, place, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---

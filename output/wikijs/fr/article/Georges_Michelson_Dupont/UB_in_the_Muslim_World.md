@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 George Michelson-Dupont<br>© 1999 Association Urantia Internationale (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Bloomfield/China_Reasons_to_be_Cheerful">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Chine—des raisons pour se réjouir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-septembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septembre 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Seeing_Scientists_As_Partners">
+          <span class="pr-2">Voir les Scientifiques comme des Partenaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Extraits d'un rapport par
 
@@ -42,7 +66,7 @@ Moussa entraina aussi ses étudiants à devenir enseignants. Il leur demandait d
 
 Les révélateurs ont conseillé aux premiers dirigeants, dans les années 1950 de former des milliers de groupes d'étude d'où sortiraient des dirigeants et des enseignants, nous faisons maintenant l'expérience de la sagesse et de la perspicacité d'une telle méthode. Deux facteurs contribuent au succès :L'un est la présence d'un dirigeant habité par l'Esprit, quelqu'un de sage, patient, persévérant, éduqué, respecté et qui respecte l'autre, quelqu'un d'aimant, qui produit les fruits de l'esprit dans sa vie quotidienne et qui est mû par un désir de service altruiste. L'autre est la pratique d'une méthode sage fondée sur les méthodes de Jésus pour introduire de nouvelles vérités auprès d'un individu. C'est le respect du croyant individuel, une approche positive et aimante, une expansion méthodique de la compréhension, une présentation pas à pas, qui montre la nouvelle lumière avec 'sagesse et discrétion'.
 
-Jésus dit à ses apôtres: « _Mes bien-aimés, il faut toujours différencier votre enseignement de manière à adapter votre présentation de la vérité au mental et au coeur de ceux qui vous écoutent._ » [UB 151:3.1](/fr/The_Urantia_Book/151#p3_1).
+Jésus dit à ses apôtres: « _Mes bien-aimés, il faut toujours différencier votre enseignement de manière à adapter votre présentation de la vérité au mental et au coeur de ceux qui vous écoutent._ » <a id="a68_198"></a>[LU 151:3.1](/fr/The_Urantia_Book/151#p3_1).
 
 ## Le voyage au Sénégal
 
@@ -50,7 +74,7 @@ Georges Michelson-Dupont, sa femme Marlène et Richard Keeler ayant entendu parl
 
 «Les trois jours suivants furent merveilleux. Nous avons eu plusieurs réunions, conversations et groupes d'étude avec différentes personnes et nous avons rendu visite à des familles. Nous avons écouté des individus témoigner de leur vie religieuse et nous avons partagé notre compréhension des enseignements du Livre d'Urantia. Très vite j'en suis venu à la conclusion qu'ils vivaient tous les enseignements du livre et il devenait évident qu'ils produisaient tous les fruits de l'esprit. J'ai alors immédiatement ressenti ce même sentiment indescriptible d'appartenance à la famille de Dieu dont j'avais fait l'expérience à Nashville. Marlène et Richard ressentirent la même chose. Tout au cours de notre séjour une atmosphère de compréhension et d'amour fut omniprésente. Au delà de nos différences de culture et de couleur de peau il était évident qu'il n'y avait qu'une seule race humaine, les enfants de Dieu.
 
-Avant ce voyage à Dakar je croyais que le monde musulman serait le dernier à accepter les enseignements du Livre d'Urantia. Je me demandais aussi comment les illettrés (plus de $60 \%$ de la population mondiale) pourraient avoir accès à ces enseignements. Il me paraît maintenant clair que le plan des Révélateurs, la pratique de la méthode de Jésus et la vérité contenue dans les enseignements du Livre d'Urantia contribuent tous au succès de la Cinquième Révélation d'Epoque.
+Avant ce voyage à Dakar je croyais que le monde musulman serait le dernier à accepter les enseignements du Livre d'Urantia. Je me demandais aussi comment les illettrés (plus de 60% de la population mondiale) pourraient avoir accès à ces enseignements. Il me paraît maintenant clair que le plan des Révélateurs, la pratique de la méthode de Jésus et la vérité contenue dans les enseignements du Livre d'Urantia contribuent tous au succès de la Cinquième Révélation d'Epoque.
 
 Les étudiants de Moussa n'avaient pas d'aptitudes particulières pour enseigner les concepts du Livre d'Urantia, bien qu'il y ait quelques concepts et méthodes d'apprentissage de base. Ils furent plutôt transformés en vivant les enseignements dans leur vie quotidienne, et, de ce fait ils étaient attrayants car ils produisaient les fruits de l'esprit : le service aimant et altruiste ainsi que le ministère plein de tact auprès des autres. Au moment de notre voyage, selon Moussa, plus de mille individus, au Sénégal, ont reçu un enseignement concernant les nouvelles vérités et Le Livre d'Urantia.
 
@@ -63,3 +87,27 @@ Le monde musulman de même que d'autres cultures, lentement mais sûrement, j'en
 On ne peut forcer un cheval à boire mais on peut faire qu'il ait soif, dit le sage. Par notre parfum spirituel nous pouvons attirer nos concitoyens vers de nouvelles vérités.
 
 Nous plantons des graines, mais nous ne devrions pas nous attendre à récolter, car c'est là un privilège de Dieu et son grand ravissement, et si nous l'aimons nous voulons qu'il soit ravi. »
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Bloomfield/China_Reasons_to_be_Cheerful">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Chine—des raisons pour se réjouir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-septembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septembre 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Seeing_Scientists_As_Partners">
+          <span class="pr-2">Voir les Scientifiques comme des Partenaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

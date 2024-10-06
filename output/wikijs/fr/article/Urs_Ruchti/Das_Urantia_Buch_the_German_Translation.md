@@ -14,12 +14,12 @@ dateCreated: 2023-8-29T10:55:6Z
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Paul_and_Gosia_Jaworski/Księga_Urantii_The_Polish_Translation_Has_Reached_the_Readers">
+        <a href="/fr/article/Paul_and_Gosia_Jaworski/Ksiega_Urantii_The_Polish_Translation_Has_Reached_the_Readers">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Księga Urantii – La Traduction Polonaise Est Parvenue Aux Lecteurs</span>
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-4-numéro-4-dec-2010">
+        <a href="/fr/index/articles_uf_news_online#volume-4-numéro-4-décembre-2010">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 4, Déc. 2010 — Table des matières</span>
         </a>
         </td>
@@ -69,12 +69,12 @@ _Das Urantia Buch_ se vend assez bien. Les lecteurs se rencontrent à Francfort,
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Paul_and_Gosia_Jaworski/Księga_Urantii_The_Polish_Translation_Has_Reached_the_Readers">
+        <a href="/fr/article/Paul_and_Gosia_Jaworski/Ksiega_Urantii_The_Polish_Translation_Has_Reached_the_Readers">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Księga Urantii – La Traduction Polonaise Est Parvenue Aux Lecteurs</span>
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-4-numéro-4-dec-2010">
+        <a href="/fr/index/articles_uf_news_online#volume-4-numéro-4-décembre-2010">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 4, Déc. 2010 — Table des matières</span>
         </a>
         </td>

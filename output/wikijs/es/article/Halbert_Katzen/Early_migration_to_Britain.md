@@ -1,14 +1,31 @@
 ---
-title: Primera migración a Bretaña
+title: "Primera migración a Bretaña"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: Anthropology, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Halbert Katzen J.D.**[^1] | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+_Por Halbert Katzen J.D._[^1]
 
 ## Resumen
 
@@ -176,7 +193,7 @@ El anuncio revisado por expertos de 2005 en la revista *Nature* deja claro que l
 
 Hay abundante literatura sobre estos nuevos descubrimientos por el proyecto AHOB y otros. En aras de la brevedad y para evitar redundancias, estas no se incluirán en este informe. Además, como se prevé que este informe deberá actualizarse en numerosas ocasiones en los próximos años, una revisión exhaustiva del material relevante no es oportuna. Sin embargo, se puede acceder fácilmente a numerosos enlaces a este material en la sección *Enlaces externos*. Algunos de estos enlaces se refieren a cuestiones relacionadas con el puente de tierra que solía conectar Inglaterra y Francia.
 
-Las selecciones de *El Libro de Urantia* proporcionadas en este informe ofrecen una base para comenzar a apreciar la descripción completa, aunque condensada y detallada, de la historia humana primitiva. Los hechos de la existencia humana temprana son una cuestión de historia; pero nuestro conocimiento de lo que ocurrió todavía es muy limitado. Los nuevos descubrimientos arqueológicos, así como los avances en el campo de la genética y otras ciencias, revelan cada vez más una imagen más clara. Junto con el informe [Adán y Eva](/es/article/Halbert_Katzen/Adam_and_eve), el informe [Los Vikingos](/es/article/Halbert_Katzen/Vikings) y el informe [La migración temprana a las Américas](/es/article/Halbert_Katzen/Early_migration_to_the_Americas), este informe evidencia aún más el patrón en auge que sigue *El Libro de Urantia* de hacer afirmaciones sobre la historia humana antes de su verificación.
+Las selecciones de *El Libro de Urantia* proporcionadas en este informe ofrecen una base para comenzar a apreciar la descripción completa, aunque condensada y detallada, de la historia humana primitiva. Los hechos de la existencia humana temprana son una cuestión de historia; pero nuestro conocimiento de lo que ocurrió todavía es muy limitado. Los nuevos descubrimientos arqueológicos, así como los avances en el campo de la genética y otras ciencias, revelan cada vez más una imagen más clara. Junto con el informe [Adán y Eva](/es/article/Halbert_Katzen/Adam_and_Eve), el informe [Los Vikingos](/es/article/Halbert_Katzen/Vikings) y el informe [La migración temprana a las Américas](/es/article/Halbert_Katzen/Early_migration_to_the_Americas), este informe evidencia aún más el patrón en auge que sigue *El Libro de Urantia* de hacer afirmaciones sobre la historia humana antes de su verificación.
 
 ## Links
 
@@ -189,7 +206,9 @@ Las selecciones de *El Libro de Urantia* proporcionadas en este informe ofrecen 
 
 ## Enlaces externos
 
-* Este informe en el sitio web UBTheNews: http://ubannotated.com/ubthenews/topics/foxhall_1/
+* [Este informe en el sitio web UBTheNews](http://ubannotated.com/ubthenews/topics/foxhall_1/)
+* [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Estudios Temáticos en el sitio UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 * *Britain's drowned world*, *Channel 4*, abril 2007. Excelente artículo de resumen de 2007 con fechas y lugares del descubrimiento, mangos de hachas, avance y retroceso de hielo.
 	 
 	https://web.archive.org/web/20090619033218/http://www.channel4.com/history/microsites/T/timeteam/2007_dogger_ancient.html [Enlace original roto]
@@ -292,31 +311,49 @@ Las selecciones de *El Libro de Urantia* proporcionadas en este informe ofrecen 
 	https://web.archive.org/web/20061006165154/http://www.waspress.co.uk/publications/layard.html [Enlace original roto]
 * Wikipedia sobre Nina Frances Layard: http://en.wikipedia.org/wiki/Nina_Frances_Layard
 
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Referencias
 
 [^1]: Halbert Katzen, con agradecimiento especial a Chris Halvorson, Ph.D., Fred Harris, J.D., y Donna Whelan.
 
-[^2]: <a id="a298_6"></a>[LU 64:1.6](/es/The_Urantia_Book/64#p1_6)
+[^2]: <a id="a335_6"></a>[LU 64:1.6](/es/The_Urantia_Book/64#p1_6)
 
-[^3]: <a id="a300_6"></a>[LU 64:1.5](/es/The_Urantia_Book/64#p1_5)
+[^3]: <a id="a337_6"></a>[LU 64:1.5](/es/The_Urantia_Book/64#p1_5)
 
-[^4]: <a id="a302_6"></a>[LU 64:2.1-6](/es/The_Urantia_Book/64#p2_1)
+[^4]: <a id="a339_6"></a>[LU 64:2.1-6](/es/The_Urantia_Book/64#p2_1)
 
-[^5]: <a id="a304_6"></a>[LU 64:4.6](/es/The_Urantia_Book/64#p4_6)
+[^5]: <a id="a341_6"></a>[LU 64:4.6](/es/The_Urantia_Book/64#p4_6)
 
 [^6]: Proyecto AHOB, https://www.ahobproject.org/ y https://www.ahobproject.org/AHOBI/index_2.html
 
-[^7]: <a id="a308_6"></a>[64:1.5 - 64:2.6](/es/The_Urantia_Book/64#p1_5)
+[^7]: <a id="a345_6"></a>[64:1.5 - 64:2.6](/es/The_Urantia_Book/64#p1_5)
 
-[^8]: <a id="a310_6"></a>[LU 64:7.16-17](/es/The_Urantia_Book/64#p7_16). Estas frases están sacadas de una sección que relata el período de tiempo comprendido aproximadamente entre 500.000 a 80.000 años atrás.
+[^8]: <a id="a347_6"></a>[LU 64:7.16-17](/es/The_Urantia_Book/64#p7_16). Estas frases están sacadas de una sección que relata el período de tiempo comprendido aproximadamente entre 500.000 a 80.000 años atrás.
 
 [^9]: M.J. White, y S.J. Plunkett, *Miss Layard excavates: a Palaeolithic site at Foxhall Road, Ipswich, 1903-1905*. Bristol: WASP, 2004.
 
 [^10]: De la Wikipedia: «El Paleolítico Inferior es la subdivisión más temprana del Paleolítico o Edad de Piedra Antigua. Se extiende desde hace unos 2,5 millones de años cuando aparece en el registro arqueológico la primera evidencia de artesanía y uso de herramientas de piedra por parte de los homínidos, hasta hace unos 100.000 años cuando importantes cambios evolutivos y tecnológicos (modernidad conductual) dieron paso al Paleolítico Medio». https://en.wikipedia.org/wiki/Lower_Paleolithic
 
-[^11]: <a id="a316_7"></a>[LU 64:3.1,4-5](/es/The_Urantia_Book/64#p3_1)
+[^11]: <a id="a353_7"></a>[LU 64:3.1,4-5](/es/The_Urantia_Book/64#p3_1)
 
-[^12]: <a id="a318_7"></a>[LU 64:4.1-11](/es/The_Urantia_Book/64#p4_1)
+[^12]: <a id="a355_7"></a>[LU 64:4.1-11](/es/The_Urantia_Book/64#p4_1)
 
 [^13]: El arvicolino es una subfamilia de roedores que incluye a los campañoles, topillos, ratas de agua, lemmings y ratas almizcleras. https://es.wikipedia.org/wiki/Arvicolinae
 
@@ -326,11 +363,11 @@ Las selecciones de *El Libro de Urantia* proporcionadas en este informe ofrecen 
 
 [^16]: Jonathan Leake, *First Neanderthal tracked to Torquay*, *The Sunday Times*, octubre 2006, https://www.thetimes.co.uk/article/first-neanderthal-tracked-to-torquay-th0zg0rl2ch [Enlace accesible bajo subscripción] http://www.archaeology.ws/2006-10-3.htm [Enlace que recopila la noticia]
 
-[^17]: <a id="a328_7"></a>[LU 64:2.5](/es/The_Urantia_Book/64#p2_5)
+[^17]: <a id="a365_7"></a>[LU 64:2.5](/es/The_Urantia_Book/64#p2_5)
 
-[^18]: <a id="a330_7"></a>[LU 64:7.18](/es/The_Urantia_Book/64#p7_18)
+[^18]: <a id="a367_7"></a>[LU 64:7.18](/es/The_Urantia_Book/64#p7_18)
 
-[^19]: <a id="a332_7"></a>[LU 64:7.16](/es/The_Urantia_Book/64#p7_16)
+[^19]: <a id="a369_7"></a>[LU 64:7.16](/es/The_Urantia_Book/64#p7_16)
 
 [^20]: El cron es una unidad de tiempo, la más corta usada en geocronología para referirse a periodos geológicos. La duración de cada cron es variable. La extensión de un cron está frecuentemente ligada a inversiones del campo magnético terrestre que registran en la roca el comienzo y el final del periodo. https://en.wikipedia.org/wiki/Magnetostratigraphy#Chron
 

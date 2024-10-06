@@ -77,7 +77,7 @@ Chaque personne qui a déjà parcouru ou marchera un jour sur cette planète a u
 
 Lorsque je regarde une autre personne pour la toute première fois, je n’ai aucun moyen de savoir qui elle est. Je ne vois pas ce qui s'est passé avant. Je ne peux pas voir l’historique.
 
-Au fur et à mesure que je commence à nouer une relation avec lui (ou elle), je parviendrai peut-être à le comprendre un peu mieux ; mais je ne connaîtrai cette personne que dans la mesure où elle veut bien me révéler son histoire et dans la mesure où je suis capable d'en comprendre les effets.
+Au fur et à mesure que je commence à nouer une relation avec lui (ou elle), je parviendrai peut-être à le comprendre un peu mieux ; mais je ne connaîtrai cette personne que dans la mesure où elle veut bien me révéler son histoire et dans la mesure où je suis capable d'en comprendre les effets.
 
 C’est l’une des principales raisons pour lesquelles je n’ai le droit de juger personne. Je ne connais pas le chemin qu’ils ont parcouru et ce qui les a influencés à devenir ce qu’ils sont. Je ne peux pas comprendre pleinement leurs actions parce que je n’ai pas vécu leur voyage. Il ne me reste plus qu’à les aimer, car c'est mon métier. Je n'ai pas été mis ici pour soigner les autres. J'ai été mis ici pour me perfectionner et partager avec mes frères et sœurs le don de l’amour du Père.
 

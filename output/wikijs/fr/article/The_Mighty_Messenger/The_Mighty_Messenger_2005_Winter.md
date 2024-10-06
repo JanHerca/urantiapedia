@@ -50,7 +50,7 @@ Pour plus d’informations ou de précisions, veuillez contacter le Fellowship-o
 
 La Réunion Annuelle du Conseil Général de la Fellowship du Livre d'Urantia a eu lieu le vendredi 5 août 2005 sur le campus de l’Université Villanova, Villanova, Pennsylvanie, suite à la conclusion de l’IC '05. 
 
-Un certain nombre de postes vacants au sein des comités permanents ont été comblés. Dale Sztjenberg a été élu pour un mandat de 6 ans ; Bob Buselli pour un mandat de 6 ans dans le domaine judiciaire ; Chick Montgomery pour un mandat de 6 ans sur des projets spéciaux ; Buck pour un mandat de 6 ans en bourse internationale ; Bobbie Dreier pour un mandat de 6 ans en sensibilisation ; Charlene Morrow pour un mandat de 6 ans sur Interfaith ; Peter Laurence à un poste vacant sur Interfaith ; Laura Hay pour un mandat de 6 ans dans le domaine des publications. Des postes restent vacants au sein des comités des finances et de l’éducation.
+Un certain nombre de postes vacants au sein des comités permanents ont été comblés. Dale Sztjenberg a été élu pour un mandat de 6 ans ; Bob Buselli pour un mandat de 6 ans dans le domaine judiciaire ; Chick Montgomery pour un mandat de 6 ans sur des projets spéciaux ; Buck pour un mandat de 6 ans en bourse internationale ; Bobbie Dreier pour un mandat de 6 ans en sensibilisation ; Charlene Morrow pour un mandat de 6 ans sur Interfaith ; Peter Laurence à un poste vacant sur Interfaith ; Laura Hay pour un mandat de 6 ans dans le domaine des publications. Des postes restent vacants au sein des comités des finances et de l’éducation.
 
 Le vice-président, Marvin Gawryn, a rendu compte de ses efforts pour intéresser l’IUA à organiser une conférence internationale conjointe avec The Fellowship à l’été 2008. La réponse finale à ces efforts est venue dans une lettre de juillet du président de l’IUA, Gaetan Charland, à M. Gawryn, indiquant que, pour un certain nombre de raisons, l’IUA ne peut pas envisager une conférence conjointe avec The Fellowship pour le moment. Une longue discussion sur les relations avec la Fellowship IUA s'ensuit, la plupart des conseillers exprimant l’espoir qu’avec le temps, les voix les plus modérées au sein de l’IUA prévaudront et que des projets communs entre les deux organisations seront possibles.
 
@@ -88,7 +88,7 @@ Ici aux États-Unis, où la plupart d’entre nous peuvent acheter des livres qu
 
 Le projet « Pipeline of Light » fournit un flux de livres donnés dans toutes les langues disponibles vers des régions où les lecteurs ne peuvent autrement que rêver de posséder une copie personnelle de la révélation. Au cours de l’année écoulée, des livres Pipeline ont été livrés en Pologne, en Lituanie, en Russie, en Ukraine, en Inde, au Nigéria, au Sénégal, au Mexique, au Costa Rica, au Pakistan, en Palestine et dans toute l’Amérique du Sud. Agustin Arellano Tirado (qui a distribué 4 500 _Livres d'Urantia_ au cours des cinq dernières années, souvent en utilisant ses propres fonds) a prévu des voyages de plantation de livres à travers l’Amérique Latine au cours des dix prochains mois. Sur ce seul continent, Agustin compte répondre à près de 500 demandes de livres cette année.
 
-Aidez nous s'il vous plaît! Affectez vos dons, quel que soit le montant, au projet « Pipeline of Light » à :
+Aidez nous s'il vous plaît! Affectez vos dons, quel que soit le montant, au projet « Pipeline of Light » à :
 _La bourse du Livre d'Urantia_
 P.O. 20, boîte postale 4583
 grande gare centrale
@@ -114,7 +114,7 @@ Les membres de la Première Société et de la Société Urantia de Greatet Lake
 
 Les lecteurs de la région de Santa Cruz se sont rencontrés au domicile d'Elizabeth et Larry Jones. Leur souper du souvenir a été célébré dans le « Angel Grove », une magnifique zone de séquoias décorée d'anges. (Pas de photo)
 
-Les lecteurs de la région de la baie de San Francisco se sont réunis le samedi 20 août au Mercy Center de Burlingame. Leur thème était « Une journée avec Jésus » et comprenait une prière et une marche méditative suivies d'un souper du souvenir. (Pas de photo)
+Les lecteurs de la région de la baie de San Francisco se sont réunis le samedi 20 août au Mercy Center de Burlingame. Leur thème était « Une journée avec Jésus » et comprenait une prière et une marche méditative suivies d'un souper du souvenir. (Pas de photo)
 
 Le dimanche 21 août, un ministre interconfessionnel et lecteur du Livre d'Urantia a dirigé un culte basé sur le livre à l’Église de l’Unité de la Vallée à Vacaville. Le service comprenait de la prière, de la méditation et de la musique, et était suivi d'un dîner-partage.
 
@@ -122,7 +122,7 @@ Le dimanche 21 août, un ministre interconfessionnel et lecteur du Livre d'Urant
 <img src="/image/article/The_Mighty_Messenger/2005_Winter/005615.jpg">
 </figure>
 
-Le 20 août, des lecteurs de l’Indiana, du Kentucky et de l’Ohio ainsi que leurs invités se sont réunis au John Bryan State Park, près de Dayton, dans l’Ohio, pour un barbecue. Le P. Robert Schuer a dirigé un service de culte qui a été suivi d'une séance de groupe d'étude animée dirigée par Jeff Wattles. (Crédit photo : Bob Buselli)
+Le 20 août, des lecteurs de l’Indiana, du Kentucky et de l’Ohio ainsi que leurs invités se sont réunis au John Bryan State Park, près de Dayton, dans l’Ohio, pour un barbecue. Le P. Robert Schuer a dirigé un service de culte qui a été suivi d'une séance de groupe d'étude animée dirigée par Jeff Wattles. (Crédit photo : Bob Buselli)
 
 ## Conférence de Mazatlán
 
@@ -136,7 +136,7 @@ La spontanéité a conduit à des relations personnelles plus étroites entre le
 
 _Robert Brûlures_
 
-Beaucoup de lecteurs de cet article servent la révélation. Nous le faisons, chacun à notre manière. Il est important de prendre un moment de temps en temps pour apprécier le travail des autres. La plupart d’entre nous servent tellement ! Nous servons nos familles, notre travail, nos communautés et cette révélation.
+Beaucoup de lecteurs de cet article servent la révélation. Nous le faisons, chacun à notre manière. Il est important de prendre un moment de temps en temps pour apprécier le travail des autres. La plupart d’entre nous servent tellement ! Nous servons nos familles, notre travail, nos communautés et cette révélation.
 
 La Fellowship compte sur d’innombrables heures d’efforts bénévoles pour son existence même. La plupart de ces heures d’effort passent inaperçues et méconnues. Ces bénévoles ne demandent pas d’appréciation, car cela serait superficiel ? Et pourtant, nous pouvons montrer notre appréciation en leur donnant des fonds qui leur permettent de réaliser leurs projets qui diffusent et socialisent cette révélation d'époque. Pensez-y, la grande partie du monde n'a pas encore pris conscience du _Livre d'Urantia_ ou de ses enseignements, ni même savoir qu’une nouvelle révélation est présente et commence à opérer sur notre monde. Nos bénévoles ont besoin de votre soutien financier, car sans ces ressources, ils ne peuvent pas accomplir leur service, ni avancer. 
 
@@ -150,7 +150,7 @@ Notre travail pour cette révélation rapproche en réalité notre planète de l
 
 Alors, encore une fois, du fond du cœur, ainsi que de la part des innombrables autres personnes dont la vie sera touchée aujourd'hui et dans l’avenir de notre planète, MERCI pour tout votre soutien et votre travail. Veuillez envisager de faire un don généreux à la Fellowship. Mieux encore, effectuez un débit automatique mensuel de 20 $ ou plus et nous vous enverrons l’édition reliée en cuir du _Le Livre d'Urantia_ en guise de témoignage d'appréciation. (http://urantiabook.org/support.htm)
 
-## Joyeux anniversaire Meredith !
+## Joyeux anniversaire Meredith !
 
 En avril 2005, la Fort Wayne _Urantia Book Society_ a célébré le 90ème anniversaire de Meredith Sprunger. Nous, ici à Fort Wayne, avons vraiment eu la chance d'avoir la connaissance et la perspicacité de Meredith et d'Irene Sprunger dans le cadre de notre étude régulière du _Livre d'Urantia_.
 
@@ -166,7 +166,7 @@ Si vous connaissez ou avez un groupe d'étude que vous aimeriez voir répertori�
 
 Photos IC'05 sur le site Web
 
-Les photos prises par un certain nombre de participants à l’IC'05 sont désormais sur le site Web de la Fellowship, http://urantiabook.org/conferences/ic05/Photos/index.htm, ainsi que les portraits pris par un photographe professionnel lors du dîner de gala. Un disque contenant les portraits sera disponible prochainement. Pour commander une copie du disque, contactez la Fellowship sans frais au 1-877-288-3772 ; email : Fellowship@urantiabook.org ou en ligne à : http://urantiabook.org/conferences/ic05/Photos/OrderForm.jpg. Un don de 10 $ est suggéré pour aider à couvrir les frais.
+Les photos prises par un certain nombre de participants à l’IC'05 sont désormais sur le site Web de la Fellowship, http://urantiabook.org/conferences/ic05/Photos/index.htm, ainsi que les portraits pris par un photographe professionnel lors du dîner de gala. Un disque contenant les portraits sera disponible prochainement. Pour commander une copie du disque, contactez la Fellowship sans frais au 1-877-288-3772 ; email : Fellowship@urantiabook.org ou en ligne à : http://urantiabook.org/conferences/ic05/Photos/OrderForm.jpg. Un don de 10 $ est suggéré pour aider à couvrir les frais.
 
 ## Commandez votre propre portrait imprimé au Gala IC '05
 
@@ -186,7 +186,7 @@ Nous avons célébré...
 
 et nous avons adoré... ensemble.
 
-## Making Spirit Matter : Réflexions sur IC 05
+## Making Spirit Matter : Réflexions sur IC 05
 
 _Bobbie Dreier_
 
@@ -220,7 +220,7 @@ _«C'est proche du paradis comme je l’ai été!»_
 
 ## Liens externes
 
-* Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
+* Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
 
 
 

@@ -73,6 +73,8 @@ Since I started the translation in partnership with Urantia Foundation, I have p
 
 As an example of a unique concept from _The Urantia Book_, the ascension plan is little known in eastern culture. Most people still hold old beliefs from traditional religions. I presented an overview of the Paradise ascension journey for human beings, hoping that the details would enlighten the participants about their life purposes and beliefs. The highlights included the origin of Paradise, the perfect central universe, the purpose of the mortal ascension plan, the ascension route to Paradise, and the preparations for ascension in the daily life. The feedback was very positive! Some mentioned that this expanded their vision and gave them better explanations about life purposes. They shared that they would spend more time reading this book and living their lives in a more constructive way.
 
+## Tamara Strumfeld
+
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2020_10/008.jpg">
 <figcaption><em>Tamara Strumfeld</em></figcaption>
@@ -111,7 +113,7 @@ I also want to acknowledge Vicki Yang for her valuable contributions. Her loving
 
 It is our hope that these teachings will help transform a troubled world, and that they will unite us so that we can all grow together towards light and life.
 
----
+## Suzanne Kelly
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2020_10/016.jpg">
@@ -144,7 +146,9 @@ This is the message of _The Urantia Book_ for the next age—the ideals that wil
 
 Perhaps one day I will visit Taipei once again—with a copy of the Chinese translation, made possible by the tireless and incredibly dedicated translators who have undertaken this immense and difficult task!
 
-> The amazing stability and persistence of Chinese culture is a consequence of the paramount position accorded the family, for civilization is directly dependent on the effective functioning of the family; and in China the family attained a social importance, even a religious significance, approached by few other peoples. <a id="a146_324"></a>[UB 79:8.9](/en/The_Urantia_Book/79#p8_9)
+> The amazing stability and persistence of Chinese culture is a consequence of the paramount position accorded the family, for civilization is directly dependent on the effective functioning of the family; and in China the family attained a social importance, even a religious significance, approached by few other peoples. <a id="a148_324"></a>[UB 79:8.9](/en/The_Urantia_Book/79#p8_9)
+
+## Georges Michelson-Dupont
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2020_10/015.jpg">

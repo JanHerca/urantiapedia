@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Peep Sõber<br>© 1999 Association Urantia Internationale (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cathy_Jones/A_Visit_to_Russia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une Visite en Russie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-septembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septembre 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/Contradictions_or_Creative_Tensions_in_UB">
+          <span class="pr-2">Contradictions ou tensions créatrices dans Le Livre d'Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Peep Sõber
 Tallin, Estonie
@@ -18,7 +42,7 @@ Extrait de la Conférence des Lecteurs du Livre d'Urantia à Karepa, Estonie le 
 
 L'gomme moderne a tendance à avoir confiance en la science, par conséquent jetons un coup d'œil aux assertions scientifiques.
 
-Une étude récente des Nations Unies montre que la population mondiale sera de 7,4 milliards en l'an 2050 et de 10,8 milliards en 2150 . C'est là, en fait, une vision très optimiste qui est fondée sur l'hypothèse que chaque femme ne donnerait naissance qu'à deux enfants. Cette vision devient tout à fait différente si l'on considère que le taux de natalité continuera d'être celui qu'il était dans la période 1990 - 1995. Selon ce second scénario la planète aura une population de 269 milliards d'habitants en 2150 , soit environ 20 fois plus que ne le dit l'étude des Nations Unies. Pouvez-vous imaginer les USA avec une population de 12 milliards d'habitants ou notre petite Estonie avec 75 millions d'habitants ? Un autre aspect de la question est qu'en 2150 les pays développés n'abriteront que $10 \%$ de la population mondiale alors qu'ils en abritent présentement $19 \%$. Il ne faut pas être grand clerc pour prédire que le monde sera témoin d'une crise qui ébranlera la planète à un moment situé entre 2030 et 2050 . Notre planète ne peut tout simplement pas entretenir une population aussi importante que celle là. Notre énergie et nos ressources naturelles seront épuisées. La crise écologique d'aujourd'hui apparaitra comme un jeu d'enfant comparée aux problèmes beaucoup plus sérieux d'alors.
+Une étude récente des Nations Unies montre que la population mondiale sera de 7,4 milliards en l'an 2050 et de 10,8 milliards en 2150 . C'est là, en fait, une vision très optimiste qui est fondée sur l'hypothèse que chaque femme ne donnerait naissance qu'à deux enfants. Cette vision devient tout à fait différente si l'on considère que le taux de natalité continuera d'être celui qu'il était dans la période 1990 - 1995. Selon ce second scénario la planète aura une population de 269 milliards d'habitants en 2150 , soit environ 20 fois plus que ne le dit l'étude des Nations Unies. Pouvez-vous imaginer les USA avec une population de 12 milliards d'habitants ou notre petite Estonie avec 75 millions d'habitants ? Un autre aspect de la question est qu'en 2150 les pays développés n'abriteront que 10% de la population mondiale alors qu'ils en abritent présentement 19%. Il ne faut pas être grand clerc pour prédire que le monde sera témoin d'une crise qui ébranlera la planète à un moment situé entre 2030 et 2050 . Notre planète ne peut tout simplement pas entretenir une population aussi importante que celle là. Notre énergie et nos ressources naturelles seront épuisées. La crise écologique d'aujourd'hui apparaitra comme un jeu d'enfant comparée aux problèmes beaucoup plus sérieux d'alors.
 
 Y a-t-il une solution à ces problèmes ? Il me semble que pratiquement rien n'a été fait. La consommation et le marché sont devenus la nouvelle religion. Du point de vue de cette «religion» seul le plaisir présent est réel, le futur n'est compris qu'en termes de technique de production et comportement consumériste de biens matériels en quantité croissante.
 
@@ -27,15 +51,15 @@ pas nous annoncer cette triste nouvelle. Ils savent, mais ne disent pas, qu'au c
 
 Mon propos n'est pas de vous faire peur, ou de lancer une campagne en faveur d'une «amélioration du monde $»$. Je ne fais que vous informer de la précarité de la situation à la quelle nous devons faire face. Cette situation pourrait nous faire croire que les anges du futur, les Melchizédeks, le Christ Micaël et d'autres encore ont une solution pour surmonter la crise. Personnellement, je suis très pessimiste quant aux capacités de l'humanité de contrôler, à elle seule, cette situation et de lui trouver une solution. Que nous dit _Le Livre d'Urantia_?
 
-> _Du point de vue mondial, le surpeuplement n'a jamais posé de question grave dans le passé, mais, si les guerres se raréfient et si la science réussit à maitriser progressivement les maladies bumaines, il peut devenir un problème sérieux dans_ ***un proche avenir*** [c'est moi qui souligne]. _A ce moment-là, la grande épreuve de sagesse dans la conduite du monde se présentera. Les dirigeants d'Urantia auront-ils la clairvoyance et le courage de favoriser la multiplication d'êtres bumains moyens et stabilisés, ou de favoriser celle des groupes extrêmes, d'une part ceux qui dépassent la normale et d'autre part la masse considérablement croissante des êtres inférieurs à la normale?_ [UB 68:6.11](/fr/The_Urantia_Book/68#p6_11)
+> _Du point de vue mondial, le surpeuplement n'a jamais posé de question grave dans le passé, mais, si les guerres se raréfient et si la science réussit à maitriser progressivement les maladies bumaines, il peut devenir un problème sérieux dans_ ***un proche avenir*** [c'est moi qui souligne]. _A ce moment-là, la grande épreuve de sagesse dans la conduite du monde se présentera. Les dirigeants d'Urantia auront-ils la clairvoyance et le courage de favoriser la multiplication d'êtres bumains moyens et stabilisés, ou de favoriser celle des groupes extrêmes, d'une part ceux qui dépassent la normale et d'autre part la masse considérablement croissante des êtres inférieurs à la normale?_ <a id="a53_691"></a>[LU 68:6.11](/fr/The_Urantia_Book/68#p6_11)
 
-> _Vous êtes parfois révoltés par les ravages de la guerre, mais vous devriez reconnaître la nécessité de faire naître un grand nombre de mortels pour fournir d'amples occasions au développement social et moral; mais avec cette fécondité planétaire surgit bientôt le grave problème de la surpopulation. La plupart des mondes habités sont petits. Urantia est dans la moyenne, peutêtre un peu au-dessous. La stabilisation de la population nationale au niveau optimum rehausse la culture et empêche la guerre. Et sage est la nation qui connaît le moment de s'arrêter de croitre._ [UB 81:6.12](/fr/The_Urantia_Book/81#p6_12)
+> _Vous êtes parfois révoltés par les ravages de la guerre, mais vous devriez reconnaître la nécessité de faire naître un grand nombre de mortels pour fournir d'amples occasions au développement social et moral; mais avec cette fécondité planétaire surgit bientôt le grave problème de la surpopulation. La plupart des mondes habités sont petits. Urantia est dans la moyenne, peutêtre un peu au-dessous. La stabilisation de la population nationale au niveau optimum rehausse la culture et empêche la guerre. Et sage est la nation qui connaît le moment de s'arrêter de croitre._ <a id="a55_577"></a>[LU 81:6.12](/fr/The_Urantia_Book/81#p6_12)
 
 Il est naturel que les gens désirent avoir un meilleur niveau de vie. Mais un meilleur niveau de vie ne peut être **l'unique objectif** de notre vie.
 
-> _Au début, la vie était une lutte pour l'existence ; aujourd'hui, c'est une lutte pour le niveau de vie; demain, ce sera une compétition pour la qualité de pensée, prochain but terrestre de l'existence bumaine._ [UB 81:6.28](/fr/The_Urantia_Book/81#p6_28)
+> _Au début, la vie était une lutte pour l'existence ; aujourd'hui, c'est une lutte pour le niveau de vie; demain, ce sera une compétition pour la qualité de pensée, prochain but terrestre de l'existence bumaine._ <a id="a59_214"></a>[LU 81:6.28](/fr/The_Urantia_Book/81#p6_28)
 
-> _Les inventions mécaniques et la dissémination des connaissances sont en train de modifier la civilisation. Certains ajustements économiques et changements sociaux s'imposent si l'on veut éviter un désastre culturel. Ce nouvel ordre social qui approche ne s'installera pas paisiblement pour un millénaire. Il faut que la race bumaine s'adapte à une série de modifications, d'ajustements et de rajustements. L'bumanité est en marche vers une nouvelle destinée planétaire non révélée._ [UB 99:1.1](/fr/The_Urantia_Book/99#p1_1)
+> _Les inventions mécaniques et la dissémination des connaissances sont en train de modifier la civilisation. Certains ajustements économiques et changements sociaux s'imposent si l'on veut éviter un désastre culturel. Ce nouvel ordre social qui approche ne s'installera pas paisiblement pour un millénaire. Il faut que la race bumaine s'adapte à une série de modifications, d'ajustements et de rajustements. L'bumanité est en marche vers une nouvelle destinée planétaire non révélée._ <a id="a61_486"></a>[LU 99:1.1](/fr/The_Urantia_Book/99#p1_1)
 
 Il existe un autre danger sérieux qui menace notre civilisation et qui peut, lui, venir de l'espace. Les astronomes, avec toutes leurs théories des probabilités, furent incapables de prédire bien en avance la chute d'une comète sur Jupiter en 1994. Depuis lors, ils ont fait beaucoup plus attention aux dangers représentés par des comètes et des astéroїdes non découverts. Nous connaissons l'astéroїde 1997 XF 11 qui s'approche régulièrement de l'orbite de la terre. En 2028 cet astéroïde pourrait se rapprocher jusqu'à n'être qu'à 48,000 km de la terre. C'est là le résultat des plus récents calculs. Le diamètre de ce corps n'est que de 1,5 km .
 
@@ -49,7 +73,7 @@ Au cours des cinq dernières années les astronomes ont découvert vingt nouvell
 
 Les croyants peuvent affirmer qu'ils ont confiance en la protection de notre Père aimant. Et nous, lecteurs du Livre d'Urantia pouvons croire que la vie éternelle est notre assurance spirituelle. Mais cette assurance porte-t-elle sur notre vie matérielle sur cette planète ?
 
-> _Le mental bumain peut imaginer immédiatement mille et une choses-événements physiques catastrophiques, accidents épouvantables, désastres horribles, maladies douloureuses et plaies mondiales-et se demander si de telles calamités sont reliées aux manouvres inconnues de ce fonctionnement probable de l'Être Suprême. Franchement, nous ne le savons pas; nous n'en sommes pas réellement sûrs. Mais, à mesure que le temps s'écoule, nous observons que ces situations difficiles et plus on moins mystérieuses se résolvent toujours pour le bien-être et le progrès des univers. Il se peut que les circonstances de l'existence et les vicissitudes inexplicables de la vie soient toutes tissées en un motif significatif de baute valeur par la fonction du Suprême et le supercontrôle de la Trinité._ [UB 10:7.5](/fr/The_Urantia_Book/10#p7_5)
+> _Le mental bumain peut imaginer immédiatement mille et une choses-événements physiques catastrophiques, accidents épouvantables, désastres horribles, maladies douloureuses et plaies mondiales-et se demander si de telles calamités sont reliées aux manouvres inconnues de ce fonctionnement probable de l'Être Suprême. Franchement, nous ne le savons pas; nous n'en sommes pas réellement sûrs. Mais, à mesure que le temps s'écoule, nous observons que ces situations difficiles et plus on moins mystérieuses se résolvent toujours pour le bien-être et le progrès des univers. Il se peut que les circonstances de l'existence et les vicissitudes inexplicables de la vie soient toutes tissées en un motif significatif de baute valeur par la fonction du Suprême et le supercontrôle de la Trinité._ <a id="a75_790"></a>[LU 10:7.5](/fr/The_Urantia_Book/10#p7_5)
 
 Les lecteurs du Livre d'Urantia n'ont aucune raison de croire que la vie sur Terre s'achèvera par quelque cataclysme. D'un autre côté, notre progrès sur Urantia n'a jamais été linéaire. On a observé de nombreuses crises et des changements **soudains**. Comme je l'ai dit précédemment, un astéroїde dangereux découvert **soudainement** peut tomber sur la Terre quelque 25 à 50 jours après avoir été découvert. Nous savons qu'une catastrophe cosmique récente et de grande amplitude a eu lieu en 1908 en Sibérie près de Tunguska. Les astronomes de l'époque n'avaient pas su la prédire.
 
@@ -71,7 +95,7 @@ Le quatrain II 41 peut aussi nous intér-esser : «La grande estoille par sept j
 
 Il est aujourd'hui évident que le point de départ de la façon dont nous comptons le temps traditionnellement (Après JC) est fausse. Nous pourrions peut-être compter les millénaires en partant, non pas de la date de naissance de Jésus, mais de son baptême (ou de l'effusion de l'Esprit de Vérité). Si nous procédions ainsi, le deuxième millénaire deviendrait une chose du passé en 2026 ou 2030 après JC. Ceci est très important si nous lisons le paragraphe suivant dans _Le Livre d'Urantia_:
 
-> _De temps en temps, sur la proposition des autorités planétaires ou des dirigeants du système, des résurrections spéciales de survivants endormis prennent place. Ces résurrections se produisent au moins tous les mille ans du temps planétaire lorsque " beaucoup de ceux qui dorment dans la poussière se réveillent '", mais pas tous. Ces résurrections particulières donnent l'occasion de mobiliser des groupes spéciaux d'ascendeurs pour des services spécifiques dans le plan d'ascension des mortels de l'univers local. Les résurrections spéciales sont motivées à la fois par des raisons pratiques et des associations sentimentales._ [UB 49:6.2](/fr/The_Urantia_Book/49#p6_2)
+> _De temps en temps, sur la proposition des autorités planétaires ou des dirigeants du système, des résurrections spéciales de survivants endormis prennent place. Ces résurrections se produisent au moins tous les mille ans du temps planétaire lorsque " beaucoup de ceux qui dorment dans la poussière se réveillent '", mais pas tous. Ces résurrections particulières donnent l'occasion de mobiliser des groupes spéciaux d'ascendeurs pour des services spécifiques dans le plan d'ascension des mortels de l'univers local. Les résurrections spéciales sont motivées à la fois par des raisons pratiques et des associations sentimentales._ <a id="a97_633"></a>[LU 49:6.2](/fr/The_Urantia_Book/49#p6_2)
 
 On pourrait découvrir des références à quelque événement cosmique dans l'expression «à la fin du temps » de même que dans les écrits des prophètes Daniel et Ezékiel ou dans l'Apocalypse.
 
@@ -91,11 +115,11 @@ Parler de catastrophes naturelles n'est pas populaire. Mais continuer à croire 
 
 Les lecteurs du Livre d'Urantia pourront trouver particulièrement intéressant qu'un prophète irlandais du 11^ème^ siècle, Saint Malachie O'Morgair ait été en possession d'une liste de tous les futurs papes. Selon cette liste il n'y aura plus que deux papes. Il dit aussi qu'après viendrait un jugement. Il est probable que cela veuille dire une nouvelle adjudication dispensationnelle
 
-Le Livre d'Urantia dit : _Il n'y a jamais eu de mission magistrale sur votre monde..._ [UB 49:5.26](/fr/The_Urantia_Book/49#p5_26) Cette anomalie est peut-être due au fait que Caligastia ait rejoint la rébellion de Lucifer, et à la défaillance d'Adam et Ève. La miséricorde divine est conditionnée par la droiture divine. Ceci signifie-t-il que les gens seront jugés en tant que justes ou injustes, en tant que sauvés ou non sauvés. C'est là une question cruciale.
+Le Livre d'Urantia dit : _Il n'y a jamais eu de mission magistrale sur votre monde..._ <a id="a117_87"></a>[LU 49:5.26](/fr/The_Urantia_Book/49#p5_26) Cette anomalie est peut-être due au fait que Caligastia ait rejoint la rébellion de Lucifer, et à la défaillance d'Adam et Ève. La miséricorde divine est conditionnée par la droiture divine. Ceci signifie-t-il que les gens seront jugés en tant que justes ou injustes, en tant que sauvés ou non sauvés. C'est là une question cruciale.
 
 ## Troisième Partie: La Loi de Sept
 
-> _Plus vous connaissez la vérité, plus vous êtes la vérité, mieux vous pouvez comprendre le passé et saisir l'avenir._ [UB 118:3.2](/fr/The_Urantia_Book/118#p3_2)
+> _Plus vous connaissez la vérité, plus vous êtes la vérité, mieux vous pouvez comprendre le passé et saisir l'avenir._ <a id="a121_120"></a>[LU 118:3.2](/fr/The_Urantia_Book/118#p3_2)
 
 Is it possible for us to comprehend the laws of human evolution — what it was, what it is, and what it will be? Do we have the adequate tools for that? Our words and concepts should be abstract, universal, and comprehensive enough.
 
@@ -192,3 +216,27 @@ Et maintenant mon discours s'achève à la fin de l'étape 1. Il est temps de pa
 - Mann, A. (1992) _Millennium Prophecies. Predictions for the Year 2000_. Element Books.
 
 - Veskimäe, R. (Ed.) (1997). _Universum_. Tallinn.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cathy_Jones/A_Visit_to_Russia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une Visite en Russie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-septembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septembre 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/Contradictions_or_Creative_Tensions_in_UB">
+          <span class="pr-2">Contradictions ou tensions créatrices dans Le Livre d'Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

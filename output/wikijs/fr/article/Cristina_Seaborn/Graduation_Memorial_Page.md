@@ -47,11 +47,11 @@ Veuillez soumettre les détails à cristina.seaborn@urantiabook,org
 
 Page commémorative de remise des diplômes https://urantiabook.org/graduation-memorial
 
-De plus, veuillez commenter le Forum commémoratif de remise des diplômes. N'importe qui peut laisser l’histoire d'un diplômé ici : https://urantiabook.org/GraduationMemorial-Forum
+De plus, veuillez commenter le Forum commémoratif de remise des diplômes. N'importe qui peut laisser l’histoire d'un diplômé ici : https://urantiabook.org/GraduationMemorial-Forum
 
-Veuillez envoyer un nom avec une photo et une histoire que vous aimeriez voir ici à : cristina.seaborn7@gmail.com
+Veuillez envoyer un nom avec une photo et une histoire que vous aimeriez voir ici à : cristina.seaborn7@gmail.com
 
-Merci pour votre aide! Nous ne pouvons pas y parvenir seuls !
+Merci pour votre aide! Nous ne pouvons pas y parvenir seuls !
 
 Cristina Seaborn, Joshua Wilson, Jena Lassiter et Richard Daunt
 

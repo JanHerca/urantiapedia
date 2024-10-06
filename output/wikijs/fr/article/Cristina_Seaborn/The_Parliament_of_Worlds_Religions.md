@@ -59,7 +59,7 @@ Idéalement, les trois grandes religions du monde nées des enseignements de Mel
 <figcaption><en>Illustration du panneau du stand Urantia par Gary Tonge</en></figcaptionn>
 </figure>
 
-Nous organisons un stand commun du Livre d'Urantia avec la Fondation Urantia, l’Urantia Book Fellowship, l’Urantia Association International et Truthbook. Jusqu’à présent, plus de 60 étudiants des fascicules d’Urantia assistent au Parlement. Le matériel du stand comprendra de belles cartes postales avec des citations du Livre d'Urantia, des signets, les Paraboles de Jésus, une brochure sur LU et un exemplaire du Livre d'Urantia dans toutes les langues que nous avons traduites. Il y aura beaucoup de livres d'Urantia en anglais et en français si vous en avez besoin ! Pour plus d'informations sur l’inscription au Parlement des religions du monde, vous pouvez consulter leur site Web : https:// parlementofreligions.org/parliament/2018-toronto/2018-powr
+Nous organisons un stand commun du Livre d'Urantia avec la Fondation Urantia, l’Urantia Book Fellowship, l’Urantia Association International et Truthbook. Jusqu’à présent, plus de 60 étudiants des fascicules d’Urantia assistent au Parlement. Le matériel du stand comprendra de belles cartes postales avec des citations du Livre d'Urantia, des signets, les Paraboles de Jésus, une brochure sur LU et un exemplaire du Livre d'Urantia dans toutes les langues que nous avons traduites. Il y aura beaucoup de livres d'Urantia en anglais et en français si vous en avez besoin ! Pour plus d'informations sur l’inscription au Parlement des religions du monde, vous pouvez consulter leur site Web : https:// parlementofreligions.org/parliament/2018-toronto/2018-powr
 
 Grâce au lecteur local d'Urantia Serge Jusyp, une réservation pour 12 personnes a été faite le 31 octobre pour un dîner pré-Parlement à 19h, 312 Yonge St, Toronto, ON M5B 1R4, Canada. Veuillez contacter Serge Jusyp si vous souhaitez nous rejoindre au (416) 435-4918 ou sjusyp@gmail.com
 
@@ -81,7 +81,7 @@ Salle 710
 <ins>Mardi 6 novembre 2018, de 15h15 à 16h00</ins>
 Au-delà des préjugés, des préjugés et de l’intolérance, vers le
 Règle d'or - Camp Anytown
-Gard Jameson :
+Gard Jameson :
 Salle 711
 
 <ins>Mardi 6 novembre 2018 de 18h00 à 19h00.</ins>
@@ -94,25 +94,25 @@ Grâce au travail que nous effectuons avec le cours de formation interconfession
 
 De plus, si vous souhaitez améliorer vos connaissances interconfessionnelles, il existe une formation interconfessionnelle gratuite à l’Université Urantia du 30 septembre au 20 octobre.
 
-<ins>30 septembre - 6 octobre Semaine 1 : Bases interconfessionnelles</ins> 
+<ins>30 septembre - 6 octobre Semaine 1 : Bases interconfessionnelles</ins> 
 
 Peter Laurence, Bettina Gray 
 
-<ins>7 octobre - 13 octobre Semaine 2 : Écoute sacrée</ins> 
+<ins>7 octobre - 13 octobre Semaine 2 : Écoute sacrée</ins> 
 
 Susan Meyers, Geoff Taylor 
 
-<ins>14 octobre - 20 octobre Semaine 3 : Préparez et présentez notre révélation</ins> 
+<ins>14 octobre - 20 octobre Semaine 3 : Préparez et présentez notre révélation</ins> 
 
 Cristina Seaborn, Bruce Jackson 
 
-<ins>Description du cours de formation interconfessionnelle :</ins> 
+<ins>Description du cours de formation interconfessionnelle :</ins> 
 
 https://urantiauniversity.org/page-1803937 
 
 Ou contactez Elisabeth Callahan à elisabeth.callahan@urantiauniversity.org 
 
-<ins>Inscription aux cours de formation interconfessionnelle :</ins> 
+<ins>Inscription aux cours de formation interconfessionnelle :</ins> 
 
 https://urantiauniversity.org/event-3051354 
 
@@ -120,7 +120,7 @@ Merci à Gary Tonge pour le magnifique nouveau design du stand Urantia représen
 
 Conformément à notre politique commune, les quatre organisations doivent être répertoriées sur tout matériel présent sur le stand. Nous souhaitons que le stand soit esthétiquement beau et épuré. Contactez l’une de ces excellentes organisations si vous avez des questions. 
 
-Pour une expérience qui changera votre vie, j'espère vous voir au Parlement ! 
+Pour une expérience qui changera votre vie, j'espère vous voir au Parlement ! 
 
 Cristina Seaborn 
 

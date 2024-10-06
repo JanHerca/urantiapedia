@@ -55,7 +55,7 @@ Alors qu’avons-nous vu ? Qu’ont révélé nos accélérateurs ?
 - Tunnel quantique d'électrons.
 - Des paires quark/antiquark surgissant du vide.
 
-Et que révèle le _Livre d'URANTIA_ ?
+Et que révèle le _Livre d'URANTIA_ ?
 
 - La matière électronique est composée d'ultimatons.
 - Les Ultimatons se regroupent en fonction de leurs vitesses révolutionnaires axiales.
@@ -85,9 +85,9 @@ La théorie et l’expérience nous guident du banal jusqu’aux abysses du doma
 
 ---
 
-_Le Livre d'URANTIA_, en plus de son rôle plus important, peut attiser la curiosité et l'émerveillement de ses lecteurs. Dans de nombreux domaines, cela peut élargir nos connaissances. Dans d'autres, comme la causalité transcendantale, il mentionne simplement que certains phénomènes existent. Sur cette question de Matière, cela apporte un peu de lumière. Mais comme indiqué dans le document 19 :
+_Le Livre d'URANTIA_, en plus de son rôle plus important, peut attiser la curiosité et l'émerveillement de ses lecteurs. Dans de nombreux domaines, cela peut élargir nos connaissances. Dans d'autres, comme la causalité transcendantale, il mentionne simplement que certains phénomènes existent. Sur cette question de Matière, cela apporte un peu de lumière. Mais comme indiqué dans le document 19 :
 
-> _...le mental humain chercherait d’ordinaire à aborder la philosophie cosmique décrite dans ces révélations en procédant du simple et du fini au complexe et à l’infini, des origines humaines aux destinées divines. Mais ce chemin ne conduit pas à la ***sagesse spirituelle.*** C’est la voie la plus facile vers une certaine forme de ***connaissance génétique*** susceptible au mieux de dévoiler simplement l’origine des hommes ; elle ne révèle que peu ou rien sur leur destinée divine._ ([LU 19:1.5](/fr/The_Urantia_Book/19#p1_5))
+> _...le mental humain chercherait d’ordinaire à aborder la philosophie cosmique décrite dans ces révélations en procédant du simple et du fini au complexe et à l’infini, des origines humaines aux destinées divines. Mais ce chemin ne conduit pas à la ***sagesse spirituelle.*** C’est la voie la plus facile vers une certaine forme de ***connaissance génétique*** susceptible au mieux de dévoiler simplement l’origine des hommes ; elle ne révèle que peu ou rien sur leur destinée divine._ (<a id="a89_489"></a>[LU 19:1.5](/fr/The_Urantia_Book/19#p1_5))
 
 Comme suggéré ci-dessus, même si la relation entre les ultimatons et les leptoquarks peut être fascinante et que sa compréhension est d'une grande valeur pour la recherche, et que la curiosité scientifique crée une terrible faim, les détails doivent vraiment passer en second. 
 
@@ -103,31 +103,31 @@ Un tel schéma nécessitait une **séquence**, qui nécessitait un **fini**, qui
 
 Ce schéma rend nécessaire le niveau spatial du superunivers : un nid pour contenir et protéger les finalitaires non formés (les humains) pendant qu'ils acquièrent un degré initial de réalité ; acquérir la constance pour commencer à se maintenir au milieu de la _simultanéité circulaire_ du monde plus vaste. Considérez les remarques suivantes :
 
-> _Le concept du JE SUIS ***existentiel,*** solitaire, prétrinitaire et inaccessible, et le postulat du JE SUIS ***expérientiel,*** postérieur à la Trinité des Trinités et accessible, ne forment qu’une seule et même hypothèse ; aucun changement effectif n’a eu lieu dans l’Infini ; tous les développements apparents sont dus à l’accroissement des capacités de recevoir la réalité et d’apprécier le cosmos._ ([LU 106:9.9](/fr/The_Urantia_Book/106#p9_9))
+> _Le concept du JE SUIS ***existentiel,*** solitaire, prétrinitaire et inaccessible, et le postulat du JE SUIS ***expérientiel,*** postérieur à la Trinité des Trinités et accessible, ne forment qu’une seule et même hypothèse ; aucun changement effectif n’a eu lieu dans l’Infini ; tous les développements apparents sont dus à l’accroissement des capacités de recevoir la réalité et d’apprécier le cosmos._ (<a id="a105_408"></a>[LU 106:9.9](/fr/The_Urantia_Book/106#p9_9))
 
-> _Toutes ces multiples réalités sont unifiées ***absolument*** par les diverses triunités, ***fonctionnellement*** par les Architectes du Maitre Univers et ***relativement*** par les Sept Maitres Esprits, coordonnateurs subsuprêmes de la divinité de Dieu le Septuple._ ([LU 105:7.16](/fr/The_Urantia_Book/105#p7_16))
+> _Toutes ces multiples réalités sont unifiées ***absolument*** par les diverses triunités, ***fonctionnellement*** par les Architectes du Maitre Univers et ***relativement*** par les Sept Maitres Esprits, coordonnateurs subsuprêmes de la divinité de Dieu le Septuple._ (<a id="a107_271"></a>[LU 105:7.16](/fr/The_Urantia_Book/105#p7_16))
 
-> _L’espace lui-même n’est qu’une condition ultime, une condition de qualification ***à l’intérieur*** de l’absoluité relative des zones tranquilles d’espace intermédiaire._ ([LU 106:7.7](/fr/The_Urantia_Book/106#p7_7))
+> _L’espace lui-même n’est qu’une condition ultime, une condition de qualification ***à l’intérieur*** de l’absoluité relative des zones tranquilles d’espace intermédiaire._ (<a id="a109_175"></a>[LU 106:7.7](/fr/The_Urantia_Book/106#p7_7))
 
-> _Parmi toutes les choses non absolues, c’est l’espace qui est le plus proche d’être absolu. En apparence, l’espace est absolument ultime. La réelle difficulté que nous avons à comprendre l’espace sur le niveau matériel provient du fait que les corps matériels existent dans l’espace, mais que l’espace existe aussi dans ces mêmes corps matériels. Nombre de facteurs concernant l’espace sont absolus, mais cela ne signifie pas que l’espace soit absolu._ ([LU 118:3.5](/fr/The_Urantia_Book/118#p3_5))
+> _Parmi toutes les choses non absolues, c’est l’espace qui est le plus proche d’être absolu. En apparence, l’espace est absolument ultime. La réelle difficulté que nous avons à comprendre l’espace sur le niveau matériel provient du fait que les corps matériels existent dans l’espace, mais que l’espace existe aussi dans ces mêmes corps matériels. Nombre de facteurs concernant l’espace sont absolus, mais cela ne signifie pas que l’espace soit absolu._ (<a id="a111_456"></a>[LU 118:3.5](/fr/The_Urantia_Book/118#p3_5))
 
-Les sept superunivers du grand univers sont clairement des intrusions inhabituelles au sein des domaines absonites. Quelles qualifications et restrictions, quels pliages et projections étonnants ont dû être effectués au niveau de l'espace du grand univers pour permettre à une chose aussi « absolument ultime » que l'espace d'accueillir sept nids d'espace-temps ? Quelles astuces de géométrie et de miroirs, quel _tour de passe-passe dimensionnel_ permet aux humains de percevoir et de se déplacer dans la séquence que nous appelons le temps ?
+Les sept superunivers du grand univers sont clairement des intrusions inhabituelles au sein des domaines absonites. Quelles qualifications et restrictions, quels pliages et projections étonnants ont dû être effectués au niveau de l'espace du grand univers pour permettre à une chose aussi « absolument ultime » que l'espace d'accueillir sept nids d'espace-temps ? Quelles astuces de géométrie et de miroirs, quel _tour de passe-passe dimensionnel_ permet aux humains de percevoir et de se déplacer dans la séquence que nous appelons le temps ?
 
-Considérez les paroles de Jésus au prêtre mithraique dans le fascicule 130 :
+Considérez les paroles de Jésus au prêtre mithraique dans le fascicule 130 :
 
-> _Le temps est un nom donné à l’arrangement en succession des évènements, qui permet de les reconnaitre et de les séparer._ ([LU 130:7.4](/fr/The_Urantia_Book/130#p7_4))
+> _Le temps est un nom donné à l’arrangement en succession des évènements, qui permet de les reconnaitre et de les séparer._ (<a id="a117_126"></a>[LU 130:7.4](/fr/The_Urantia_Book/130#p7_4))
 
-> _Ce qui apparaissait précédemment comme une succession d’évènements sera considéré alors comme un cycle complet et parfaitement cohérent. De cette manière, l’ancienne conscience de la séquence linéaire des évènements sera de plus en plus remplacée par la simultanéité circulaire._ ([LU 130:7.5](/fr/The_Urantia_Book/130#p7_5))
+> _Ce qui apparaissait précédemment comme une succession d’évènements sera considéré alors comme un cycle complet et parfaitement cohérent. De cette manière, l’ancienne conscience de la séquence linéaire des évènements sera de plus en plus remplacée par la simultanéité circulaire._ (<a id="a119_284"></a>[LU 130:7.5](/fr/The_Urantia_Book/130#p7_5))
 
-> _Il y a sept conceptions différentes de l’espace tel qu’il est conditionné par le temps. L’espace se mesure par le temps et non le temps par l’espace. ..._ ([LU 130:7.6](/fr/The_Urantia_Book/130#p7_6))
+> _Il y a sept conceptions différentes de l’espace tel qu’il est conditionné par le temps. L’espace se mesure par le temps et non le temps par l’espace. ..._ (<a id="a121_159"></a>[LU 130:7.6](/fr/The_Urantia_Book/130#p7_6))
 
-> _Plus la conscience s’approche de la notion des sept dimensions cosmiques, ..._ ([LU 130:7.6](/fr/The_Urantia_Book/130#p7_6))
+> _Plus la conscience s’approche de la notion des sept dimensions cosmiques, ..._ (<a id="a123_83"></a>[LU 130:7.6](/fr/The_Urantia_Book/130#p7_6))
 
-> _En fin de compte, les mortels survivants parviennent à l’identité dans un univers à sept dimensions._ ([LU 130:7.7](/fr/The_Urantia_Book/130#p7_7))
+> _En fin de compte, les mortels survivants parviennent à l’identité dans un univers à sept dimensions._ (<a id="a125_106"></a>[LU 130:7.7](/fr/The_Urantia_Book/130#p7_7))
 
-> _Quand l’homme atteint le mental intermédiaire entre le plan matériel et le plan spirituel d’existence, ses idées sur l’espace-temps sont considérablement agrandies quant à leur qualité de perception et à leur quantité d’expérience._ ([LU 130:7.8](/fr/The_Urantia_Book/130#p7_8))
+> _Quand l’homme atteint le mental intermédiaire entre le plan matériel et le plan spirituel d’existence, ses idées sur l’espace-temps sont considérablement agrandies quant à leur qualité de perception et à leur quantité d’expérience._ (<a id="a127_237"></a>[LU 130:7.8](/fr/The_Urantia_Book/130#p7_8))
 
-> _À mesure que la personnalité poursuit son chemin vers une conscience plus élevée et plus intérieure jusqu’aux niveaux transcendantaux de ressemblance avec la Déité, le concept d’espace-temps se rapprochera toujours davantage des concepts dépourvus de temps et d’espace des Absolus._ ([LU 130:7.8](/fr/The_Urantia_Book/130#p7_8))
+> _À mesure que la personnalité poursuit son chemin vers une conscience plus élevée et plus intérieure jusqu’aux niveaux transcendantaux de ressemblance avec la Déité, le concept d’espace-temps se rapprochera toujours davantage des concepts dépourvus de temps et d’espace des Absolus._ (<a id="a129_287"></a>[LU 130:7.8](/fr/The_Urantia_Book/130#p7_8))
 
 Ainsi, les Organisateurs de Force Maîtres Événementés Primaires conditionnent une zone de l'absolu pour accueillir l'absonite (maître univers).
 
@@ -137,11 +137,11 @@ Après quoi chacun des sept Directeurs Suprêmes de Pouvoir a conditionné une z
 
 ## Tonification différentielle de chaque superunivers
 
-> _Ces êtres puissants [Directeurs Suprêmes de Pouvoir] sont les ancêtres physiques de la vaste foule des centres de pouvoir et, par leur intermédiaire, des contrôleurs physiques disséminés à travers tous les sept superunivers. Ces organismes subordonnés de contrôle physique sont essentiellement uniformes et identiques, sauf en ce qui concerne la syntonisation différentielle de chaque corps superuniversel. Pour changer de superunivers dans leur service, il leur suffirait de retourner au Paradis pour être réaccordés._ ([LU 29:1.4](/fr/The_Urantia_Book/29#p1_4))
+> _Ces êtres puissants [Directeurs Suprêmes de Pouvoir] sont les ancêtres physiques de la vaste foule des centres de pouvoir et, par leur intermédiaire, des contrôleurs physiques disséminés à travers tous les sept superunivers. Ces organismes subordonnés de contrôle physique sont essentiellement uniformes et identiques, sauf en ce qui concerne la syntonisation différentielle de chaque corps superuniversel. Pour changer de superunivers dans leur service, il leur suffirait de retourner au Paradis pour être réaccordés._ (<a id="a139_524"></a>[LU 29:1.4](/fr/The_Urantia_Book/29#p1_4))
 
 Pouvons-nous spéculer que la **tonification** de chaque superunivers est liée à ce sous-ensemble de dimensions absonites sur lequel repose son économie finie ? Le long duquel de ses axes absonites SON TEMPS VA COURIR ?
 
-> _...Les Messagers Solitaires sont le seul type disponible d’intelligences spirituelles — à part peut-être les Esprits Inspirés de la Trinité — qui puisse être dépêché directement d’un siège de superunivers au siège d’un autre. Toutes les autres personnalités sont contraintes de passer par Havona et les mondes administratifs des Maitres Esprits pour faire de tels déplacements._ ([LU 23:2.15](/fr/The_Urantia_Book/23#p2_15))
+> _...Les Messagers Solitaires sont le seul type disponible d’intelligences spirituelles — à part peut-être les Esprits Inspirés de la Trinité — qui puisse être dépêché directement d’un siège de superunivers au siège d’un autre. Toutes les autres personnalités sont contraintes de passer par Havona et les mondes administratifs des Maitres Esprits pour faire de tels déplacements._ (<a id="a143_383"></a>[LU 23:2.15](/fr/The_Urantia_Book/23#p2_15))
 
 Cela implique-t-il que seules certaines configurations de personnalité/esprit peuvent passer confortablement directement entre les superunivers ? Pourquoi tous les autres doivent-ils entrer dans un superunivers via les salles de projection des Maîtres Esprits et de leurs Directeurs de Pouvoir Suprême ?
 
@@ -151,7 +151,7 @@ Les paragraphes indisciplinés ci-dessus n’impliquent pas de réponses, ni mê
 
 C’est dans ce contexte que se situe la question de la matière.
 
-Ce qui précède a été conçu pour que nous puissions proposer la spéculation suivante :
+Ce qui précède a été conçu pour que nous puissions proposer la spéculation suivante :
 
 Comme tous les Flatlanders le savent, un cube tridimensionnel traversant Flatland bidimensionnel semblera venir de nulle part, agira comme un carré pendant un moment, puis disparaîtra dans un _vide_.
 

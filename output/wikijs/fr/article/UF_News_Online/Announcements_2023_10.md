@@ -50,7 +50,7 @@ Notre objectif est d'offrir une inspiration et des conseils aux personnes et aux
 
 Chaque session durera 30 minutes et sera suivie d'une période de discussion de 30 minutes. Pour donner plus de saveur à l'événement, les animateurs Bill et Share Beasley y ajouteront des brins de sagesse expérimentale et d'humour.
 
-Si vous souhaitez présenter une session lors de cet important symposium, veuillez envoyer vos idées et vos qualifications à [joanne@urantia.org](mailto:joanne@urantia.org). Les couples et les co-présentateurs sont encouragés !
+Si vous souhaitez présenter une session lors de cet important symposium, veuillez envoyer vos idées et vos qualifications à [joanne@urantia.org](mailto:joanne@urantia.org). Les couples et les co-présentateurs sont encouragés !
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2023_10/026.jpg">

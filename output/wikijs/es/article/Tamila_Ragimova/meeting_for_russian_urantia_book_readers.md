@@ -103,7 +103,7 @@ Hotel Novahoff
 
 Enlace al mapa de ruta del lugar: [https://goo.gl/maps/gscqYcwWuj32](https://goo.gl/maps/gscqYcwWuj32)
 
-**_Nota_**_: Esta conferencia está organizada por lectores rusos del Libro de Urantia de todo el mundo_
+**_Nota_**_: Esta conferencia está organizada por lectores rusos del _Libro de Urantia_ de todo el mundo_
 
 [Hagan clic aquí para obtener información en ruso](http://urantia-association.org/2016/07/24/%d0%ba%d0%be%d0%bd%d1%84%d0%b5%d1%80%d0%b5%d0%bd%d1%86%d0%b8%d1%8f-%d0%b2-%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8/?lang=ru)
 

@@ -146,7 +146,7 @@ https://www.youtube.com/watch?v=HaNoYxwje6o&list=PLQYC6XW8Ev1cve2ziCGl7HVidW_cqs
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2018/?lang=es)
 - [Este artículo](https://urantia-association.org/el-cuentagotas-la-cuchara-y-la-pala/?lang=es)
 

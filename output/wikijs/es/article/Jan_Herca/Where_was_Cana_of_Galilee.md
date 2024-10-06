@@ -3,13 +3,12 @@ title: "¿Dónde estaba Caná de Galilea?"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Jesus, Jesus times
+tags: Jesus, Jesus times, place, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
-
 
 Aunque parezca mentira, todavía existen muchos lugares bíblicos de los que se desconoce su localización exacta. En ocasiones no se ha descubierto el emplazamiento, pero en otras existe una multiplicidad de hipótesis que dificultan de igual modo decidir por una ubicación. Este es el caso de Caná de Galilea, la antigua ciudad donde según el evangelio de Juan Jesús realizó su primer milagro, convirtiendo agua en vino.
 
@@ -18,7 +17,6 @@ Muchos autores y estudiosos de la vida de Jesús dan por sentado tan sólo una l
 Examinemos los cuatro posibles yacimientos que se barajan:
 
 ## Kanah
-
 
 **Localización:**
 
@@ -34,7 +32,6 @@ Esta Caná estaría situada en la época de Jesús en Fenicia y no en Galilea, y
 
 ## 'Ain Kanah
 
-
 **Localización:**
 
 Situado a unos dos kilómetros al noroeste de Nazaret, donde existe una fuente con este nombre en un camino que va desde Reinah hacia el monte Tabor.
@@ -48,7 +45,6 @@ Este emplazamiento fue sugerido por C.R. Condor en 1878 porque el nombre actual 
 No existen evidencias ni por parte de la tradición, ni de la arqueología. No se han encontrado ruinas.
 
 ## Kefar Kenna
-
 
 **Localización:**
 
@@ -70,7 +66,7 @@ No se han encontrado restos arqueológicos que se puedan remontar hasta la époc
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Jan_Herca/Where_was_Cana_of_Galilee/cana_kafarkenna.jpg">
-<figcaption>Kefar Kenna en Google Earth</figcapton>
+<figcaption>Kefar Kenna en Google Earth</figcaption>
 </figure>
 
 ## Khirbet Kanah
@@ -89,7 +85,7 @@ También se han encontrado evidencias arqueológicas en este lugar, que indican 
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Jan_Herca/Where_was_Cana_of_Galilee/cana_khirbetkana.jpg">
-<figcaption>Khirbet Kana en Google Earth</figcapton>
+<figcaption>Khirbet Kana en Google Earth</figcaption>
 </figure>
 
 **Argumentos en contra:**
@@ -114,7 +110,7 @@ Pero, ¿significa esto que hemos descubierto la casa en cuestión? Estas vasijas
 
 ## ¿Qué dice _El Libro de Urantia_?
 
-_El Libro de Urantia_ realiza varias menciones a Caná, pero de ninguna de ellas se consigue descifrar cuál es la posición de la localidad. Tan sólo podemos observar que Jesús viaja desde Cafarnaúm a Caná con parte de su familia en un sólo día. Sin embargo, esto no nos dice mucho. Prácticamente todos los enclaves estaban a menos de un día de Cafarnaúm, aunque el que está especialmente cerca es Khirbet Kana (véase <a id="a116_416"></a>[LU 137:3](/es/The_Urantia_Book/137#p3_1)).
+_El Libro de Urantia_ realiza varias menciones a Caná, pero de ninguna de ellas se consigue descifrar cuál es la posición de la localidad. Tan sólo podemos observar que Jesús viaja desde Cafarnaúm a Caná con parte de su familia en un sólo día. Sin embargo, esto no nos dice mucho. Prácticamente todos los enclaves estaban a menos de un día de Cafarnaúm, aunque el que está especialmente cerca es Khirbet Kana (véase <a id="a112_416"></a>[LU 137:3](/es/The_Urantia_Book/137#p3_1)).
 
 Por tanto, ¿por cuál decantarse?
 
@@ -134,7 +130,6 @@ De todo esto, unido al hecho de que ciertamente se han encontrado restos de la �
 
 Pero, una vez decidido que Kefar Kenna no es el correcto emplazamiento, surge otra duda: ¿qué población existió entonces allí cerca de Nazaret en tiempos de Jesús? Evidentemente, habrá que seguir investigando...
 
-
 ## Referencias
 
 - Un [artículo muy bueno](http://www.bibleplaces.com/Identification_of_Cana_of_Galilee,_by_J_Carl_Laney.pdf) que resume toda la cuestión.
@@ -150,7 +145,6 @@ Pero, una vez decidido que Kefar Kenna no es el correcto emplazamiento, surge ot
 - El nuevo hallazgo arqueológico en [Kefar Kana](http://www.foxnews.com/story/0,2933,142234,00.html).
 
 - Un [mapa bastante bueno](http://www.bibleplaces.com/canaswpmap.htm) de la situación de los dos emplazamientos.
-
 
 ## Enlaces externos
 

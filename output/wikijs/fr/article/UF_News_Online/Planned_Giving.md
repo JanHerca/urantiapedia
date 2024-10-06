@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-3-oct-2020">
+        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-3-octobre-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 3, Oct. 2020 — Table des matières</span>
         </a>
         </td>
@@ -44,7 +44,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2020_10/052.jpg">
 </figure>
 
-Beaucoup de gens sont surpris d’apprendre qu’ils peuvent aider à semer le message du _Le Livre d’Urantia_ avec un don bien plus important que ce qu’ils auraient jamais cru être à leur portée. Le message transformateur du _Le Livre d’Urantia_ fait son chemin jusqu’aux coins les plus reculés du globe. Cela se produit grâce au soutien généreux de personnes comme vous !
+Beaucoup de gens sont surpris d’apprendre qu’ils peuvent aider à semer le message du _Le Livre d’Urantia_ avec un don bien plus important que ce qu’ils auraient jamais cru être à leur portée. Le message transformateur du _Le Livre d’Urantia_ fait son chemin jusqu’aux coins les plus reculés du globe. Cela se produit grâce au soutien généreux de personnes comme vous !
 <br style="clear:both;"/>
 
 ## Les dons planifiés rendent cela possible.
@@ -84,7 +84,7 @@ Cliquez ici pour visiter notre nouveau site Web de dons planifiés.
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-3-oct-2020">
+        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-3-octobre-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 3, Oct. 2020 — Table des matières</span>
         </a>
         </td>

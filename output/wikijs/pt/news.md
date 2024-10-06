@@ -12,6 +12,9 @@ dateCreated: 2022 News-07-03T14:02:03.086Z
 
 ## 2024
 
+- [Notícias de setembro de 2024](/pt/news/2024/09)
+- [Notícias de agosto de 2024](/pt/news/2024/08)
+- [Notícias de julho de 2024](/pt/news/2024/07)
 - [Notícias de junho de 2024](/pt/news/2024/06)
 - [Notícias de maio de 2024](/pt/news/2024/05)
 - [Notícias de abril de 2024](/pt/news/2024/04)

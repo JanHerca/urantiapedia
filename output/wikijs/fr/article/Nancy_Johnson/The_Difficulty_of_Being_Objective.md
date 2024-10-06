@@ -87,7 +87,7 @@ Je doute que quiconque, à l'exception de Dieu, puisse être totalement objectif
 Alors peut-être serions-nous sages de nous contenter de la conscience que nous sommes presque totalement subjectifs et de passer plus de temps à convertir les négatifs en positifs. C’est probablement la clé pour discerner les vérités et devenir objectif, de toute façon.
 
 > Nancy Johnson est une spécialiste des puzzles qui a beaucoup travaillé avec le texte du _Livre d'Urantia_ pendant 27 ans. Elle a tapé le texte du livre dans un format électronique en 1981, et l'a indexé électroniquement en 1990. Nancy a composé les deux éditions Uversa Press du _Livre d'Urantia_. En tant que membre du comité des publications de la Fellowship, elle compose également le _Mighty Messenger_.
-> {.is-info}
+{.is-info}
 >
 > ## Références
 

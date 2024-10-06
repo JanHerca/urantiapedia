@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Dorothy Elder<br>© 1999 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bhagavan_Buritz/The_Delhi_Book_Fair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Delhi Book Fair</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Van_Woert/IUA_Outreach">
+          <span class="pr-2">IUA Outreach</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The first semester of the _Urantia Book_ Internet School (UBIS), ended on December 6, 1999, having presented eight classes, to readers speaking or understanding English, many countries around the world. My first assessment of the first semester of the UBIS program is that it was a great success. We had 100% registered in all classes. Careful planning and a lot of attention to technical details were beneficial for registrations. An efficient operating system has been developed, and this is the cornerstone of the program's success. From the beginning, readers have attached great interest to it. I received inquiries almost every day. Our courses have been given to students from South America, Canada, New Zealand, Great Britain and in particular a young Moscow reader in Russia.
 
@@ -55,3 +79,27 @@ We are scheduled to begin fall 2000 with a core of 16 professors, each of whom w
 The Socratic method will slowly begin to develop. In this way, it will instill in our entire community of readers a more pleasant and effective relationship between teachers and readers. The Socratic method better preserves the way of the Master, and a worldwide dissemination of his teachings will be much better accomplished by those who have been subjected to this method. Our UBIS project can be the first step in the right direction towards this future time.
 
 _The Urantia Book_ Internet School is a project whose service is solely dedicated to the study of the _Urantia Book_. We invite you to read more about its goals and philosophy on the Urantia Foundation website, www.urantia.org, and we hope that many of you will join us in this project. If you are a long-time reader with teaching experience (formal or informal), if you have free time and Internet skills, contact _Dorothy Elder_ at delder03@sprynet.com if you would like to apply as a teacher-facilitator We hope to have. of your news.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bhagavan_Buritz/The_Delhi_Book_Fair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Delhi Book Fair</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Van_Woert/IUA_Outreach">
+          <span class="pr-2">IUA Outreach</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

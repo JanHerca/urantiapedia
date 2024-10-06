@@ -53,9 +53,9 @@ In your reflections on this topic, consider the idea that identifying and managi
 On balance, *Urantia Book* teachings about the relationship between working and eating also need to be kept in mind.
 
 > Labor, the efforts of design, distinguishes man from the beast, whose exertions are largely instinctive. The necessity for labor is man's paramount blessing. The Prince's staff all worked; they did much to ennoble physical labor on Urantia. Adam was a gardener; the God of the Hebrews labored—he was the creator and upholder of all things. The Hebrews were the first tribe to put a supreme premium on industry; they were the first people to decree that “he who does not workshall not eat.” But many of the religions of the world reverted to the early ideal of idleness. Jupiter was a reveler, and Buddha became a reflective devotee of leisure.[^5]
-> 
+
 > 1. *Doing the Father's will*. Jesus' teaching to trust in the overcare of the heavenly Father was not a blind and passive fatalism. He quoted with approval, on this afternoon, an old Hebrew saying: “He who will not work shall not eat.” . . . [^6]
-> 
+
 > While the ideal of society is universal freedom, idlenessshould never be tolerated. All able-bodied persons should be *compelled* to do at least a selfsustaining amount of work. [^7]
 
 ## Classification of the three mind types: supernormal, normal, and subnormal
@@ -153,25 +153,25 @@ Common man is used once:
 Consider how much sense the following quotes make and how easy it is to make good sense of them when common people is considered to be a way of distinguishing subnormal and normal minded people from supernormal minded people.
 
 > . . . Even common people were able to regard the matured concept of Yahweh as a Father, if not of the individual, at least of the race. [^19]
-> 
+
 > . . . The common people craved promises of salvation—religious consolation for today and assurances of hope for immortality after death. [^20]
-> 
+
 > These philosophies were semireligious; they were often invigorating, ethical, and ennobling but were usually above the common people. With the possible exception of Cynicism, they were philosophies for the strong and the wise, not religions of salvation for even the poor and the weak. [^21]
-> 
+
 > . . . Joseph's immediate ancestors were mechanics—builders, carpenters, masons, and smiths. Joseph himself was a carpenter and later a contractor. His family belonged to a long and illustrious line of the nobility of the common people, accentuated ever and anon by the appearance of unusual individuals who had distinguished themselves in connection with the evolution of religion on Urantia. [^22]
-> 
+
 > Of all couples living in Palestine at about the time of Michael's projected bestowal, Joseph and Mary possessed the most ideal combination of widespread racial connections and superior average of personality endowments. *It was the plan of Michael to appear on earth as an average man, that the common people might understand him and receive him*; wherefore Gabriel selected just such persons as Joseph and Mary to become the bestowal parents. [^23]
-> 
+
 > The common people heard Jesus gladly, and they will again respond to the presentation of his sincere human life of consecrated religious motivation if such truths shall again be proclaimed to the world. The people heard him gladly because he was one of them, an unpretentious layman; the world's greatest religious teacher was indeed a layman. [^24]
-> 
+
 > The common people marveled at the teaching and ministry of Jesus and his apostles. The rabbis had long taught the Jews that the ignorant could not be pious or righteous. But Jesus' apostles were both pious and righteous; yet they were cheerfully ignorant of much of the learning of the rabbis and the wisdom of the world. [^25]
-> 
+
 > The multitudes of the common people were greatly encouraged to find two like themselves honored with places among the apostles. By their very acceptance as apostles these mediocre twins were the means of bringing a host of fainthearted believers into the kingdom. And, too, the common people took more kindly to the idea of being directed and managed by official ushers who were very much like themselves. [^26]
-> 
+
 > . . . And it was chiefly because of this need for some simple petition for the common people that Jesus at this time consented, in answer to Thomas's request, to teach them a suggestive form of prayer. . . . [^27]
-> 
+
 > While, at that particular time, the fame of Jesus rested chiefly upon his reputation as a healer . . . But it was the physical cures that made the most direct and immediate appeal to the common people. . . . [^28]
-> 
+
 > Jesus' apostles, let alone the common people, could not understand the nature and attributes of this God-man. Neither has any subsequent generation been able to evaluate what took place on earth in the person of Jesus of Nazareth. . . . [^29]
 
 ## Subnormal does not mean subhuman
@@ -223,13 +223,13 @@ What is the significance between using Father vs. heavenly hosts? Should our Fat
 The US military will not take anyone with an IQ below 83 because they end up requiring more care and oversight than what they can produce for benefit. Bearing in mind that agriculture is not a military type of activity, consider the following passages.
 
 > From a world standpoint, overpopulation has never been a serious problem in the past, but if war is lessened and science increasingly controls human diseases, it may become a serious problem in the near future. At such a time the great test of the wisdom of world leadership will present itself. Will Urantia rulers have the insight and courage to foster the multiplication of the average or stabilized human being instead of the extremes of the supernormal and the enormously increasing groups of the subnormal? The normal man should be fostered; he is the backbone of civilization and the source of the mutant geniuses of the race. The subnormal man should be kept under society's control; no more should be produced than are required to administer the lower levels of industry, those tasks requiring intelligence above the animal level but making such low- grade demands as to prove veritable slavery and bondage for the higher types of mankind. [^33]
-> 
+
 > [From Government on a Neighboring Planet:] The feeble-minded are trained only in agriculture and animal husbandry, and are committed for life to special custodial colonies where they are segregated by sex to prevent parenthood, which is denied all subnormals. These restrictive measures have been in operation for seventy-five years; the commitment decrees are handed down by the parental courts. [^34]
 
 What relationship might the following paragraphs have to considerations about subnormals before and after Pentecost (and while in Jesus' presence perhaps)?:
 
 > Culture presupposes quality of mind; culture cannot be enhanced unless mind is elevated. Superior intellect will seek a noble culture and find some way to attain such a goal. Inferior minds will spurn the highest culture even when presented to them ready-made. Much depends, also, upon the successive missions of the divine Sons and upon the extent to which enlightenment is received by the ages of their respective dispensations. [^35]
-> 
+
 > The sojourn in Athens was pleasant and profitable, but it was not particularly fruitful in its human contacts. Too many of the Athenians of that day were either intellectually proud of their reputation of another day or mentally stupid and ignorant, being the offspring of the inferior slaves of those earlier periods when there was glory in Greece and wisdom in the minds of its people. Even then, there were still many keen minds to be found among the citizens of Athens. [^36]
 
 Can subnormals Father-fuse? Spirit-fuse?
@@ -272,7 +272,7 @@ What are the genetic factors related to both temperament and intelligence?
 
 ## External links
 
-* This report in UBTheNews webpage: http://ubannotated.com/ubthenews/Eugenics_Race_Urantia_Book/
+* [This report in UBTheNews webpage](http://ubannotated.com/ubthenews/Eugenics_Race_Urantia_Book/)
 
 ## Footnotes & References
 

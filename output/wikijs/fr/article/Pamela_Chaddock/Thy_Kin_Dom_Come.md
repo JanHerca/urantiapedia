@@ -45,7 +45,7 @@ Aujourd’hui, nous voyons l’Esprit de Vérité s’engager de manière créat
 
 ## Fais-moi sortir d'ici
 
-Ce fut une journée de lutte au milieu de la pandémie lorsqu’elle cherchait une réponse à certaines prières restées sans réponse. Diana a été attirée par la [Cathédrale nationale de Washington](https://en.wikipedia.org/wiki/Washington_National_Cathedral) où l'Amérique se réunit pour être transformée et inspirée. Elle a supplié : « Où es-tu, mon Dieu ? seulement pour voir le silence. Agenouillée devant l'autel de marbre, sous un triptyque complet de Jésus en bleu cobalt entouré d'anges, et levant les yeux intensément, elle demanda à nouveau : « Où es-tu, Dieu ? Soudain, sortant du vide, une voix ordonna : « Sortez-moi d'ici ! » Abasourdie, elle l'entendit à nouveau, toujours plus insistant. « Mais, Seigneur? » » a-t-elle alors demandé.
+Ce fut une journée de lutte au milieu de la pandémie lorsqu’elle cherchait une réponse à certaines prières restées sans réponse. Diana a été attirée par la [Cathédrale nationale de Washington](https://en.wikipedia.org/wiki/Washington_National_Cathedral) où l'Amérique se réunit pour être transformée et inspirée. Elle a supplié : « Où es-tu, mon Dieu ? seulement pour voir le silence. Agenouillée devant l'autel de marbre, sous un triptyque complet de Jésus en bleu cobalt entouré d'anges, et levant les yeux intensément, elle demanda à nouveau : « Où es-tu, Dieu ? Soudain, sortant du vide, une voix ordonna : « Sortez-moi d'ici ! » Abasourdie, elle l'entendit à nouveau, toujours plus insistant. « Mais, Seigneur? » » a-t-elle alors demandé.
 
 [Diana Butler Bass](https://dianabutlerbass.com/) a connu Jésus toute sa vie. Elle a appris à le connaître et à l’aimer en tant que divinité envoyée par Dieu comme une lentille, nous aidant à voir qui est Dieu. Jésus l'appelait Père. Il veut nous montrer Dieu comme Père, parent aimant, guide accessible, accueillant, inclusif et toujours présent.
 
@@ -53,7 +53,7 @@ Dans son dernier livre, [Freeing Jesus](https://www.amazon.com/Freeing-Jesus-Red
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Pamela_Chaddock/5.jpg">
-<figcaption>La nature de la réalité par Flammarion</figcapton>
+<figcaption>La nature de la réalité par Flammarion</figcaption>
 </figure>
 
 Elle demande comment nous pouvons voir clairement le Dieu Père-Créateur si nous avons enchaîné ou piégé son fils, Jésus. Notre Jésus-Dieu est trop petit. Diana veut le libérer pour parcourir le monde. Elle dévoile Jésus comme une révélation aimante de Dieu à l'humanité. À vous de découvrir des détails juteux dans son livre.

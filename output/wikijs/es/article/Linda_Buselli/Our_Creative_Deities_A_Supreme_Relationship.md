@@ -96,7 +96,7 @@ Mientras tanto, aquí en Urantia, mientras vivimos nuestras experiencias mortale
 Estamos experimentando una versión mortal del patrón cósmico establecido por nuestras Deidades Creativas. Para poner eso en la lengua vernácula de nuestra cultura pop, los hombres son de Marte, las mujeres son de Venus... y es un arreglo celestial.
 
 > Linda Buselli ha sido lectora y maestra de _El Libro de Urantia_ desde 1971. Actualmente es miembro del Consejo General y presidenta del Comité de Publicaciones.
-{is-info}
+{.is-info}
 
 ## Referencias
 

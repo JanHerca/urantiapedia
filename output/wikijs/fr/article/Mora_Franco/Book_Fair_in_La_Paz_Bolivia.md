@@ -60,7 +60,7 @@ Ils ont essayé de le faire et ils y sont parvenus. Alejandro, qui est grand et 
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/009.jpg">
-<figcaption><em>Président de la Bolivie : Don Luis Arce Catacora, qui a reçu un Livre d'Urantia offert par Alejandro.</em><figcaption>
+<figcaption><em>Président de la Bolivie : Don Luis Arce Catacora, qui a reçu un Livre d'Urantia offert par Alejandro.</em><figcaption>
 </figure>
 
 Alejandro nous dit : « En vérité, c'est le Père qui m'a motivé à insister et qui m'a donné la détermination nécessaire pour accomplir cette tâche. J'espère que le président, ou quelqu’un de sa famille, pourra profiter des merveilleuses informations révélées dans _Le Livre d'Urantia_.

@@ -3,7 +3,7 @@ title: "Left is Right (Addition to Shroud of Turin Report)"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Jesus, Jesus life
+tags: Jesus, Jesus life, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -148,7 +148,9 @@ Along with opening Christian minds to considering a broader spectrum of possibil
 
 ## External links
 
-* This report in UBTheNews webpage: https://ubannotated.com/ubthenews/topics/shroudturin/left-is-right/
+* [This report in UBTheNews webpage](https://ubannotated.com/ubthenews/topics/shroudturin/left-is-right/)
+* [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

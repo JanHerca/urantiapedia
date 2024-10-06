@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Cathy Jones<br>© 1999 Association Urantia Internationale (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/1999_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Septembre 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-septembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septembre 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peep_Sober/The_Future_of_our_Planet_as_a_Known_and_Unknown_Reality_2">
+          <span class="pr-2">L'Avenir de Notre Planète Comme Réalité «Connue » et «Inconnue» — Partie II et III</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Cathy Jones, Administratrice de l'AUI
 
@@ -44,7 +68,7 @@ Quelques fois leurs rencontres sont quotidiennes. Après avoir acquis une ferme 
 
 En écoutant ces annales mettant à nu les âmes, il me revint en mémoire cette citation :
 
-> _La religion est tellement vitale qu'elle persiste en l'absence de savoir. Elle vit, en dépit de sa contamination par des cosmologies erronées et des fausses philosophies. Elle survit même à la confusion de la métaphysique. A travers toutes les vicissitudes bistoriques de la religion persiste toujours ce qui est indispensable au progrès et à la survie des hommes : la conscience éthique et la conscience morale._ [UB 101:3.1](/fr/The_Urantia_Book/101#p3_1)
+> _La religion est tellement vitale qu'elle persiste en l'absence de savoir. Elle vit, en dépit de sa contamination par des cosmologies erronées et des fausses philosophies. Elle survit même à la confusion de la métaphysique. A travers toutes les vicissitudes bistoriques de la religion persiste toujours ce qui est indispensable au progrès et à la survie des hommes : la conscience éthique et la conscience morale._ <a id="a70_417"></a>[LU 101:3.1](/fr/The_Urantia_Book/101#p3_1)
 
 Au cours d'une démonstration montrant comment ils contactaient leurs Ajusteurs de Pensée, nous nous mîmes debout en cercle, nous tenant les mains, épaule contre épaule, tandis qu'Irina dit la prière la plus magnifique qu'il me fut possible d'entendre. L'émotion présente dans la pièce était au-delà de toute description.
 
@@ -53,3 +77,27 @@ En bavardant avec Irina, j'apprit qu'elle avait une maîtrise en philosophie et 
 Je fis la promesse qu'ils **auraient** une association IUA en mai 2000 .
 
 A moment du départ, je dis au groupe : «Lénine essaya de conquérir le monde **sans** Dieu. Le peuple de Russie fera la **conquête** du monde **pour Dieu** par l'amour».
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/1999_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Septembre 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-septembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septembre 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peep_Sober/The_Future_of_our_Planet_as_a_Known_and_Unknown_Reality_2">
+          <span class="pr-2">L'Avenir de Notre Planète Comme Réalité «Connue » et «Inconnue» — Partie II et III</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

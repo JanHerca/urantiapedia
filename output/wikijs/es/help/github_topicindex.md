@@ -243,7 +243,7 @@ Para acceder:
 2. Se abren dos ventanas. Ignore la instancia de Dev Tools. Está ahí para depuración.
 3. Selecciona *Edit Topic Index* en el panel lateral.
 
-![](/image/uptools_topic_editor.png)
+![](/image/help/uptools_topic_editor.png)
 
 El *Topic Index Editor* tiene cuatro áreas principales:
 - en el lado izquierdo una lista de términos.
@@ -267,13 +267,13 @@ Para utilizar el *Topic Index Editor*, sigue estas instrucciones:
 
 Una de las funcionalidades útiles del *Topic Index Editor* es que muestra los errores encontrados en los términos. Por ejemplo, en la imagen debajo se muestra cómo se ha encontrado un enlace a un término que no existe. Ahora podemos ir a VS Code y verificar el archivo con el error y corregirlo.
 
-![](/image/uptools_topic_editor_2.png)
+![](/image/help/uptools_topic_editor_2.png)
 
 Otra funcionalidad útil es que el nombre del término se resalta en el texto del *Libro de Urantia*. Por ejemplo, en la imagen abajo, con el término `brotherhood of man` en inglés y `hermandad de los hombres` en español, se ha encontrado el nombre en el texto en inglés pero no en español. Puedes comprobar y ver que en español el *Libro de Urantia* dice `fraternidad de los hombres` en lugar de `hermandad de los hombres`, que significa lo mismo. Entonces, para solucionar esto, debemos agregar `fraternidad de los hombres` como alias en el término.
 
 Otra funcionalidad útil es que la línea breve que está seleccionada en el ejemplo debajo, que dice `civilization encompased by love` en inglés y `civilización rodeada por el amor` en español, se ha encontrado en el párrafo del *Libro de Urantia* al que se hace referencia para la línea del término. La oración del párrafo que mejor coincide con la línea se resalta en negrita y aparece un botón Copiar en la parte inferior. Puedes usar ese botón para copiar la oración al portapapeles y pegarla en VS Code, mejorando el texto del término con un texto más explicativo.
 
-![](/image/uptools_topic_editor_3.png)
+![](/image/help/uptools_topic_editor_3.png)
 
 ## Enlaces externos
 

@@ -37,11 +37,11 @@ dateCreated: 2023-6-21T8:13:38Z
 
 En raison de la pandémie mondiale de Covid-19, veuillez contacter le coordinateur de l’événement pour connaître l’état actuel de l’événement.
 
-- **2020-04-19 Premier séminaire spécial du printemps de la société** à Evanston, Illinois de 13 h 00 à 16 h 00 Bibliothèque publique d'Evanston : le sujet et le présentateur restent à déterminer. Contactez David Kulieke pour plus de détails à david.kulieke@gmail.com
+- **2020-04-19 Premier séminaire spécial du printemps de la société** à Evanston, Illinois de 13 h 00 à 16 h 00 Bibliothèque publique d'Evanston : le sujet et le présentateur restent à déterminer. Contactez David Kulieke pour plus de détails à david.kulieke@gmail.com
 
 - **2020-05-07 au 10 Retraite YaYA à Gretna**, Nebraska https://www.facebook.com/ événements/2532911950363799/
 
-- **2020-05-15 18h00 (EDT) U.B.S.C.O.N.E.** Retraite annuelle 2020 ; Camp CONNRI, 28 Happy Hill Lane, Ashford, CT 06278 18h00 (HAE)
+- **2020-05-15 18h00 (EDT) U.B.S.C.O.N.E.** Retraite annuelle 2020 ; Camp CONNRI, 28 Happy Hill Lane, Ashford, CT 06278 18h00 (HAE)
 
 - **2020-05-17 Tolède Espagne Conférence des lecteurs du Livre d'Urantia** https://urantiaassociation.org/event/conference-for-spanishurantia-book-readers-in-spain/
 
@@ -55,7 +55,7 @@ En raison de la pandémie mondiale de Covid-19, veuillez contacter le coordinate
 
 - **2020-09-10 au 13 XXXIII Conférence Internacional Monterrey 2020** ; Monterrey Mexique, Nuevo León, Mexique Hôtel Antaris Cintermex
 
-- **2020-09-25 au 27 Midwest Conference West Chester, Ohio**. Le sujet est « Relations ». Contactez Ted Blaney tblaney@mykrcc.com
+- **2020-09-25 au 27 Midwest Conference West Chester, Ohio**. Le sujet est « Relations ». Contactez Ted Blaney tblaney@mykrcc.com
 
 - **2021-08-18 au 21 Ouganda Conférence Urantia Jinga City, Ouganda** à l’hôtel Jinga City Contactez Paul Kemp à paul.kemp@live.ca pour plus d'informations.
 

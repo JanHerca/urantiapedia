@@ -238,7 +238,7 @@ Pour y accéder :
 2. Deux fenêtres s'ouvrent. ignorez l'instance Dev Tools. Il est là pour le débogage.
 3. Sélectionnez *Modifier l'index des sujets* dans le panneau latéral.
 
-![](/image/uptools_topic_editor.png)
+![](/image/help/uptools_topic_editor.png)
 
 L'*Éditeur d'index thématique* comprend quatre zones principales :
 - sur le côté gauche une liste de sujets.
@@ -262,13 +262,13 @@ Pour utiliser l'*éditeur d'index thématique*, suivez ces instructions :
 
 L'une des fonctionnalités utiles de *Topic Index Editor* est qu'il affiche les erreurs trouvées dans les sujets. Par exemple, dans l'instantané ci-dessous, un lien vers un sujet inexistant a été trouvé. Maintenant, nous pouvons aller dans VS Code et vérifier le fichier avec l'erreur et le corriger.
 
-![](/image/uptools_topic_editor_2.png)
+![](/image/help/uptools_topic_editor_2.png)
 
 Une autre fonctionnalité utile est que le nom du sujet est mis en surbrillance dans le texte du *Livre d'Urantia*. Par exemple, dans l'instantané sous le sujet, « fraternité de l'homme » en anglais et « hermandad de los hombres » en espagnol, a été trouvé dans le texte en anglais mais pas en espagnol. Vous pouvez vérifier et voir qu'en espagnol, le *Livre d'Urantia* dit « fraternidad de los hombres » au lieu de « hermandad de los hombres », ce qui signifie la même chose. Donc, pour résoudre ce problème, nous devons ajouter «fraternidad de los hombres» comme alias dans le sujet.
 
 Une autre fonctionnalité utile est que la ligne courte sélectionnée, qui dit « civilisation entourée d'amour » en anglais et « civilización rodeada por el amor » en espagnol, a été trouvée dans le paragraphe du *Livre d'Urantia* qui est référencé pour la ligne de sujet. La phrase du paragraphe qui correspond le mieux à la ligne est mise en surbrillance en gras et un bouton Copier apparaît en bas. Vous pouvez utiliser ce bouton pour copier la phrase dans le presse-papiers et la coller dans VS Code, en améliorant le texte du sujet avec un texte plus explicatif.
 
-![](/image/uptools_topic_editor_3.png)
+![](/image/help/uptools_topic_editor_3.png)
 
 ## Liens externes
 

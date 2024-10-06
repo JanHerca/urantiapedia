@@ -54,7 +54,7 @@ Le processus pour un «rédacteur en chef» sera le suivant:
 6. Ces *pull requests* des «rédacteurs en chef» sont examinées par des «administrateurs», qui sont chargés de faire une *merge* avec la branche principale (master) de tous les changements qui sont corrects. Toutes les modifications qui ne sont pas correctes seront rejetées et les «rédacteurs en chef» seront avertis de les corriger.
 7. Lorsque les modifications sont correctes, un «administrateur» en fait une *merge* et elles sont automatiquement téléchargées sur le Web. Ils sont généralement disponibles en quelques minutes selon le nombre de changements et leur type.
 
-![](/image/github_workflow_version_2.png)
+![](/image/help/github_workflow_version_2.png)
 
 ## Mise en place du projet *Urantiapedia*
 
@@ -81,7 +81,7 @@ Pour connaître les jalons du projet, consultez [Jalons d'Urantiapedia](/fr/help
 
 Actuellement, toutes les tâches sauf 2 sont terminées.
 
-![](/image/formats.png)
+![](/image/help/formats.png)
 
 ### Milestone II: Livres, articles, aides à l'étude, schémas et index
 

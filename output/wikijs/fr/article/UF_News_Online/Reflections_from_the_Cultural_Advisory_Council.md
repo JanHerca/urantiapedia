@@ -54,6 +54,7 @@ Voici une liste des cinq choses les plus importantes que nos conseillers ont app
 3. J'ai aimé me connecter et travailler en réseau avec une communauté mondiale d'individus qui sont enthousiastes à propos du _Livre d'Urantia_.
 4. Les discussions et la participation aux ateliers m'ont permis de mieux comprendre les enseignements du livre, ce qui m'a conduit à une plus grande perspicacité spirituelle.
 5. Mon expérience au sein de CAC m'a donné un sens plus profond du but à atteindre.
+<br style="clear:both;"/>
 
 ## Krystyna Wardega-Piasecka de Pologne, qui vit et travaille actuellement en Norvège
 
@@ -66,6 +67,7 @@ Voici une liste des cinq choses les plus importantes que nos conseillers ont app
 3. J'ai appris quelques raisons possibles du manque de confiance mutuelle des Polonais et comment cela a probablement conduit à une perception erronée de la Pologne dans d'autres pays.
 4. La révision des points de vue culturellement ancrés par le biais de conversations, d'observations et d'explorations est une étape importante dans le développement d'une personne.
 5. Chacun devrait faire l'expérience de se familiariser avec d'autres cultures et leur perception du contenu du _Livre d'Urantia_.
+<br style="clear:both;"/>
 
 ## Jaime Eduardo Rey Albornoz of Colombia
 
@@ -78,6 +80,7 @@ Voici une liste des cinq choses les plus importantes que nos conseillers ont app
 3. J'ai pris conscience du travail effectué par les lecteurs d'Urantia en Colombie.
 4. Le travail avec le CAC a confirmé l'importance des groupes d'étude Urantia.
 5. J'ai pris conscience des efforts déployés par les différentes cultures pour faire connaître la révélation, et de certains défis communs qui découlent de ces efforts.
+<br style="clear:both;"/>
 
 ## Marcos Dalmolin du Brésil
 

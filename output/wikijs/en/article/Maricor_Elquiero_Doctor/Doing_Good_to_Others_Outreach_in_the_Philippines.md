@@ -49,7 +49,13 @@ This message from _The Urantia Book_ motivated us to apply for funding from the 
 
 For us, doing good to others means sharing the love—the truth, beauty, and goodness—of the fifth epochal revelation. So we thought of a project that could help us share the love, the joy, and the good news with God-seeking people both directly and indirectly: in our neighborhood through in-person study meetings, and across the internet by making _Urantia Book–_inspired video clips.
 
-Because I had a lonely childhood, I enjoy making children happy. After reading about the MSGP in News Online, I seized the chance to apply on behalf of the [FER–UB project](https://www.youtube.com/playlist?list=PLlKoagq_zEu58naR6gXCVJrFh0coM3RSh). I was helped and supported by the entire Urantia Philippines family, and received special encouragement from the amazing Eugene and Belen Asidao.
+Because I had a lonely childhood, I enjoy making children happy. After reading about the MSGP in News Online, I seized the chance to apply on behalf of the FER–UB project. I was helped and supported by the entire Urantia Philippines family, and received special encouragement from the amazing Eugene and Belen Asidao.
+
+<a href="https://bit.ly/4drj2ZR">
+<figure id="Figure_1b" class="image urantiapedia">
+<img src="/image/article/UF_News_Online/2023_12/045.jpg">
+</figure>
+</a>
 
 We hold several weekly study groups. Brother Eugene hosts The Second Milers group every Monday and Thursday. A Friday group is led by Brother Allan Bancairen. This is where between 5 and 20 children, a couple of youths, and several adults gather to hear a reading from _The Untold Story of Jesus_. Urantia Philippines donates funds for snacks and game rewards, making the study more fun and exciting for kids. On the last Friday or Saturday of each month, we celebrate and acknowledge diligent attendees with an array of awards.
 

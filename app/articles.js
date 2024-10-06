@@ -47,7 +47,10 @@ class Articles {
 		'Spiritual Fellowship',
 		'Study Group Herald',
 		'The Arena',
-		'6-0-6'
+		'6-0-6',
+		'Reflectivite',
+		'Le Lien',
+		'La Lettre'
 	];
 
 	createIndexFn = pug.compileFile(path.join(app.getAppPath(), 'app', 'templates', 'articleindex.pug'), {pretty: true});
@@ -297,18 +300,18 @@ class Articles {
 			"é": "e",
 			"è": "e",
 			"í": "i",
+			"ï": "i",
 			"ó": "o",
-			"ú": "u",
-			"ñ": "n",
 			"ö": "o",
 			"õ": "o",
+			"ú": "u",
+			"ñ": "n",
 			"“": "",
 			"”": "",
-			"'": "",
-			"è": "e"
+			"'": ""
 		};
 		const correction2 = {
-			"[\\.,–\\(\\)—\\-]": "",
+			"[\\.,–\\(\\)—\\-/]": "",
 			"( +)": "-"
 		};
 		return new Promise((resolve, reject) => {

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Peep Söber<br>© 1999 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gary_Farr/To_readers_of_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aux lecteurs du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francois_Dupont/Religiosity_and_Secularism">
+          <span class="pr-2">Religiosité et Laïcité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Peep Sõber
 Tallinn, Estonie
@@ -26,13 +50,13 @@ La façon dont l'homme contemple l'avenir peut être très primitive. Si nous d�
 
 Il en va de même en ce qui concerne l'avenir. Nous aboutissons inévitablement en C. Parfois, C peut être identique à B (la prédiction) mais il peut aussi être très différent.
 
-Dans _Le Livre d'Urantia_ ce problème est exprimé en ces mots : «_Dans les âges planétaires plus avancés, ces séraphins [Les Esprits de Confiance] font mieux apprécier aux hommes la vérité que l'incertitude est le secret de la satisfaction dans la continuité. Ils aident les philosophes mortels à comprendre que, dans les circonstances où il est essentiel d'ignorer pour réussir, ce serait une bévue colossale de laisser savoir aux créatures ce qui va arriver. Ils rehaussent le gout des hommes pour la douceur de l'incertitude, pour le romanesque et le charme d'un avenir imprécis et inconnu._ » [[LU 39:5.9](/fr/The_Urantia_Book/39#p5_9)]
+Dans _Le Livre d'Urantia_ ce problème est exprimé en ces mots : «_Dans les âges planétaires plus avancés, ces séraphins [Les Esprits de Confiance] font mieux apprécier aux hommes la vérité que l'incertitude est le secret de la satisfaction dans la continuité. Ils aident les philosophes mortels à comprendre que, dans les circonstances où il est essentiel d'ignorer pour réussir, ce serait une bévue colossale de laisser savoir aux créatures ce qui va arriver. Ils rehaussent le gout des hommes pour la douceur de l'incertitude, pour le romanesque et le charme d'un avenir imprécis et inconnu._ » <a id="a52_597"></a>[[LU 39:5.9](/fr/The_Urantia_Book/39#p5_9)]
 
-Et deux pages plus loin nous lisons à la section 7 : Les Séraphins du Futur: _Ces anges n'exercent guère leur ministère en debors des royaumes les plus anciens et des planètes les plus évoluées de Nébadon. Un grand nombre d'entre eux sont tenus en réserve sur les mondes séraphiques proches de Salvington, où ils s'occupent de recherches en rapport avec l'age de lumière et de vie dont l'aurore apparaîtra un jour pour Nébadon. La fonction de ces séraphins est bel et bien en rapport avec la carrière mortelle-ascendante, mais ils s'occupentpresque exclusivement des mortels survivants de l'un des ordres d'ascension modifiés. Dans la mesure où ces anges ne sont maintenant directement concernés ni par Urantia ni par les Urantiens, nous estimons qu'il est préférable de ne pas décrire leurs passionnantes activités._ [[LU 39:7.1-2](/fr/The_Urantia_Book/39#p7_1)]
+Et deux pages plus loin nous lisons à la section 7 : Les Séraphins du Futur: _Ces anges n'exercent guère leur ministère en debors des royaumes les plus anciens et des planètes les plus évoluées de Nébadon. Un grand nombre d'entre eux sont tenus en réserve sur les mondes séraphiques proches de Salvington, où ils s'occupent de recherches en rapport avec l'age de lumière et de vie dont l'aurore apparaîtra un jour pour Nébadon. La fonction de ces séraphins est bel et bien en rapport avec la carrière mortelle-ascendante, mais ils s'occupentpresque exclusivement des mortels survivants de l'un des ordres d'ascension modifiés. Dans la mesure où ces anges ne sont maintenant directement concernés ni par Urantia ni par les Urantiens, nous estimons qu'il est préférable de ne pas décrire leurs passionnantes activités._ <a id="a54_818"></a>[[LU 39:7.1-2](/fr/The_Urantia_Book/39#p7_1)]
 
 Ces paragraphes expliquent l'absence presque complète, dans _Le Livre d'Urantia_, de prédictions concernant l'avenir de notre planète.
 
-_Ce n'était pas simplement par curiosité que les anciens cherchaient à connaître l'avenir ; ils voulaient esquiver la malchance. La divination était simplement une tentative pour éviter les difflcultés._ [[LU 87:5.14](/fr/The_Urantia_Book/87#p5_14)] Heureusement, nous ne pensons plus comme cela, mais les questions et les problèmes relatifs à l'avenir demeurent.
+_Ce n'était pas simplement par curiosité que les anciens cherchaient à connaître l'avenir ; ils voulaient esquiver la malchance. La divination était simplement une tentative pour éviter les difflcultés._ <a id="a58_204"></a>[[LU 87:5.14](/fr/The_Urantia_Book/87#p5_14)] Heureusement, nous ne pensons plus comme cela, mais les questions et les problèmes relatifs à l'avenir demeurent.
 
 Si Jésus avait dit à ses disciples qu'il reviendrait sur terre, mais que cela n'aurait pas lieu avant au moins 2000 ans, une telle annonce ne les aurait guère encouragés, ni eux, ni les nombreuses générations qui devaient suivre. D'un autre côté, Jésus a parfois levé le voile sur certaines choses du futur. Le Fascicule 176 rapporte, par exemple, qu'il l'a fait parce qu'il désirait sauver les apôtres de la destruction de Jérusalem. Nous pouvons en conclure que la connaissance du futur peut être préjudiciable si nous ne sommes pas prêts. En d'autres cas, cependant, une telle connaissance peut être fort utile. Il ne faut pas que notre attitude envers la connaissance soit monobloc.
 
@@ -54,7 +78,7 @@ Nous lisons que l'Ajusteur de Pensée est conscient du temps d'une manière uniq
 
 S'il y a des Séraphins du futur, il est juste de croire qu'eux aussi peuvent voir le futur ; et parmi les êtres célestes suprềmes il y en a probablement bien d'autres qui peuvent en faire de même.
 
-Mais alors, où est notre libre choix ? Notre logique semble trop primitive. Nous pouvons prétendre créer notre propre destin, mais Dieu est l'ultime arbitre. Nous donnons une raison et Dieu donne le résultat selon notre destinée. Le libre arbitre ne signifie pas la liberté totale de faire n'importe quoi. Il existe plusieurs lois qui, pour sûr, nous imposent des restrictions. _Un Dieu de valeur finale doit être lui-même l'arbitre du destin et le créateur de la destinée._ [[LU 98:1.3](/fr/The_Urantia_Book/98#p1_3)]
+Mais alors, où est notre libre choix ? Notre logique semble trop primitive. Nous pouvons prétendre créer notre propre destin, mais Dieu est l'ultime arbitre. Nous donnons une raison et Dieu donne le résultat selon notre destinée. Le libre arbitre ne signifie pas la liberté totale de faire n'importe quoi. Il existe plusieurs lois qui, pour sûr, nous imposent des restrictions. _Un Dieu de valeur finale doit être lui-même l'arbitre du destin et le créateur de la destinée._ <a id="a80_475"></a>[[LU 98:1.3](/fr/The_Urantia_Book/98#p1_3)]
 
 La mota morontielle échappe probablement à ces contradictions. Nous pouvons de toute façon nous attendre à ce que les êtres supérieurs soient capables de prédire comment, nous, les mortels, allons user de notre liberté de choix dans le futur. Si nous voyons quelqu'un qui court et va tomber et que nous le disions à quelqu'un d'autre, le coureur a encore le choix de le faire ou non.
 
@@ -68,27 +92,27 @@ Mais regardons ce que les révélateurs ont à nous dire sur le temps et l'espac
 > 
 > _Les animaux non spirituels ne connaissent que le passé et vivent dans le présent. Les hommes habités par l'esprit ont des pouvoirs de prévision (clairvoyance); ilpeuvent visualiser l'avenir. Seules les attitudes progressives et orientés en avant sont personnellement réelles. L'éthique statique et la moralité traditionnelle ne dépassent l'animalité que de très peu. Le stoicisme n'est pas non plus une baute réalisation de soi. L'éthique et la morale deviennent vraiment bumaines lorsqu'elles sont dynamiques et progressives, pleines de la réalité universelle._
 > 
-> _La personnalité bumaine n'estpas seulement un accompagnement des événements dans le temps et l'espace; la personnalité bumaine peut aussi agir comme cause cosmique de ces événements._ [[LU 12:5.5-11](/fr/The_Urantia_Book/12#p5_5)]
+> _La personnalité bumaine n'estpas seulement un accompagnement des événements dans le temps et l'espace; la personnalité bumaine peut aussi agir comme cause cosmique de ces événements._ <a id="a94_187"></a>[[LU 12:5.5-11](/fr/The_Urantia_Book/12#p5_5)]
 
 Pouvons-nous voir dans ce qui précède combien précieuses sont nos aperçus du futur?
 
-> Nous savons qu'il est probable que Dieu et les anges prédisent bel et bien l'avenir. _Nous ne savons pas avec une certitude complète si Dieu choisit ou non de connaître d'avance les cas de pécbé. Mais, même si Dieu connaissait d'avance les actes de libre arbitre de ses enfants, sa prescience n'abrogerait nullement leur liberté. Une chose est certaine: Dieu n'est jamais pris au dépourvu._ [[LU 3:3.4](/fr/The_Urantia_Book/3#p3_4)]
+> Nous savons qu'il est probable que Dieu et les anges prédisent bel et bien l'avenir. _Nous ne savons pas avec une certitude complète si Dieu choisit ou non de connaître d'avance les cas de pécbé. Mais, même si Dieu connaissait d'avance les actes de libre arbitre de ses enfants, sa prescience n'abrogerait nullement leur liberté. Une chose est certaine: Dieu n'est jamais pris au dépourvu._ <a id="a98_393"></a>[[LU 3:3.4](/fr/The_Urantia_Book/3#p3_4)]
 
-> _Ils sont les anges des projets, qui prévoient un agge futur et font des plans pour réaliser le meilleur d'une nouvelle dispensation en progrès. Ils sont les architectes des ères successives. Le groupe présentement sur la planète a fonctionné comme tel depuis le commencement de la présente dispensation._ [[LU 114:6.10](/fr/The_Urantia_Book/114#p6_10)]
+> _Ils sont les anges des projets, qui prévoient un agge futur et font des plans pour réaliser le meilleur d'une nouvelle dispensation en progrès. Ils sont les architectes des ères successives. Le groupe présentement sur la planète a fonctionné comme tel depuis le commencement de la présente dispensation._ <a id="a100_308"></a>[[LU 114:6.10](/fr/The_Urantia_Book/114#p6_10)]
 
-> Notre façon de diviser le temps en passé, présent, futur n'est que relativement vrai. _Dans les univers évolutionnaires, l'éternité est la perpétuité temporelle — l'éternel maintenant._ [[LU 118:1.1](/fr/The_Urantia_Book/118#p1_1)]
+> Notre façon de diviser le temps en passé, présent, futur n'est que relativement vrai. _Dans les univers évolutionnaires, l'éternité est la perpétuité temporelle — l'éternel maintenant._ <a id="a102_188"></a>[[LU 118:1.1](/fr/The_Urantia_Book/118#p1_1)]
 
-> Mais comment pouvons-nous parvenir à percevoir l'éternité? Il y a une technique simple pour cela : _choisir de faire la volonté du Père. Cette consécration de la volonté équivaut à la réalisation d'un dessein de réalité éternelle. Cela signifie que le dessein de la créature est devenu invariant par rapport à la succession des instants; ou, en d'autres termes, que les moments qui se succedent ne verront aucun changement dans le dessein de la créature._ [[LU 118:1.2](/fr/The_Urantia_Book/118#p1_2)]
+> Mais comment pouvons-nous parvenir à percevoir l'éternité? Il y a une technique simple pour cela : _choisir de faire la volonté du Père. Cette consécration de la volonté équivaut à la réalisation d'un dessein de réalité éternelle. Cela signifie que le dessein de la créature est devenu invariant par rapport à la succession des instants; ou, en d'autres termes, que les moments qui se succedent ne verront aucun changement dans le dessein de la créature._ <a id="a104_458"></a>[[LU 118:1.2](/fr/The_Urantia_Book/118#p1_2)]
 
-> En fait, la conscience des unités de temps de chacun d'entre nous n'ont pas la même longueur. _Il existe, dans tout intellect donné, une relation directe entre la maturité et la conscience d'une unité de temps. Cette unité de temps peut être un jour, une année ou une période plus longue, mais elle est inévitablement le critère par lequel le moi conscient apprécie les circonstances de la vie et par lequel l'intellect qui concoit mesure et évalue les faits de l'existence temporelle._ [[LU 118:1.3](/fr/The_Urantia_Book/118#p1_3)]
+> En fait, la conscience des unités de temps de chacun d'entre nous n'ont pas la même longueur. _Il existe, dans tout intellect donné, une relation directe entre la maturité et la conscience d'une unité de temps. Cette unité de temps peut être un jour, une année ou une période plus longue, mais elle est inévitablement le critère par lequel le moi conscient apprécie les circonstances de la vie et par lequel l'intellect qui concoit mesure et évalue les faits de l'existence temporelle._ <a id="a106_489"></a>[[LU 118:1.3](/fr/The_Urantia_Book/118#p1_3)]
 
-> _L'expérience, la sagesse et le jugement coüncident avec l'allongement de l'unité de temps dans l'expérience des mortels. Quand le mental bumain remonte dans le passé, il évalue l'expérience antérieure avec le dessein d'influencer une situation présente. Quand le mental s'étend dans l'avenir, il essaye d'évaluer la signification future d'une action possible. Ayant ainsi tenu compte à la fois de l'expérience et de la sagesse, la volonté bumaine prend une décision-jugement dans le présent, et le plan d'action ainsi né du passé et de l'avenir vient à l'existence._ [[LU 118:1.4](/fr/The_Urantia_Book/118#p1_4)]
+> _L'expérience, la sagesse et le jugement coüncident avec l'allongement de l'unité de temps dans l'expérience des mortels. Quand le mental bumain remonte dans le passé, il évalue l'expérience antérieure avec le dessein d'influencer une situation présente. Quand le mental s'étend dans l'avenir, il essaye d'évaluer la signification future d'une action possible. Ayant ainsi tenu compte à la fois de l'expérience et de la sagesse, la volonté bumaine prend une décision-jugement dans le présent, et le plan d'action ainsi né du passé et de l'avenir vient à l'existence._ <a id="a108_570"></a>[[LU 118:1.4](/fr/The_Urantia_Book/118#p1_4)]
 
-> _La patience est pratiquée par les mortels dont les unités de temps sont courtes. La vraie maturité transcende la patience par une longanimité née d'une réelle comprébension._ [[LU 118:1.6](/fr/The_Urantia_Book/118#p1_6)]
+> _La patience est pratiquée par les mortels dont les unités de temps sont courtes. La vraie maturité transcende la patience par une longanimité née d'une réelle comprébension._ <a id="a110_178"></a>[[LU 118:1.6](/fr/The_Urantia_Book/118#p1_6)]
 
-> _Murir, c'est vivre plus intensément dans le présent et en même temps échapper aux limitations du présent. Les plans de maturité, fondés sur l'expérience passée, se réalisent dans le présent de manière à rebausser les valeurs de l'avenir._ [[LU 118:1.7](/fr/The_Urantia_Book/118#p1_7)]
+> _Murir, c'est vivre plus intensément dans le présent et en même temps échapper aux limitations du présent. Les plans de maturité, fondés sur l'expérience passée, se réalisent dans le présent de manière à rebausser les valeurs de l'avenir._ <a id="a112_242"></a>[[LU 118:1.7](/fr/The_Urantia_Book/118#p1_7)]
 
-> _L'unité de temps cher les personnes non müres concentre les significations-valeurs dans le moment présent de telle manière que le présent est dissocié de sa vraie relation avec le non-présent — le passé-futur. L'unité de temps de la maturité à des proportions qui révèent les relations coordonnées du passé-présent-futur de telle manière que le moi commence à pénétrer le sens de l'ensemble des évènements, il commence à apercevoir le paysage du temps sous la perspective panoramique des horizons élargis, et peut-être à soupcoonner le continuum éternel, sans commencement ni fin, dont les fragments s'appellent le temps._ [[LU 118:1.8](/fr/The_Urantia_Book/118#p1_8)]
+> _L'unité de temps cher les personnes non müres concentre les significations-valeurs dans le moment présent de telle manière que le présent est dissocié de sa vraie relation avec le non-présent — le passé-futur. L'unité de temps de la maturité à des proportions qui révèent les relations coordonnées du passé-présent-futur de telle manière que le moi commence à pénétrer le sens de l'ensemble des évènements, il commence à apercevoir le paysage du temps sous la perspective panoramique des horizons élargis, et peut-être à soupcoonner le continuum éternel, sans commencement ni fin, dont les fragments s'appellent le temps._ <a id="a114_626"></a>[[LU 118:1.8](/fr/The_Urantia_Book/118#p1_8)]
 
 Si nous choisissions de vivre avec une conscience du temps plus élargie, il est extrêmement important de comprendre les paragraphes ci-dessus. Parfois le moment présent nous apporte quelque chose de merveilleux : un véritable aperçu du futur. Nous nous sentons heureux en raison de ces rares moments où nous percevons notre existence dans une perspective élargie du temps. A l'opposé, il est de fait que nous ne pouvons jamais ressentir un bonheur véritable si nous avons peur que cet heureux moment ne soit que momentané et s'évanouisse dans la minute qui suit.
 
@@ -115,6 +139,30 @@ Si nous croyons qu'il est impossible de percevoir quoi que ce soit du futur nous
 
 _Le Livre d'Urantia_ nous dit que le temps est le plus grand don qui nous soit offert. Plus nous sommes efficaces et créatifs dans notre façon de l'utiliser et plus nous sommes heureux dans le temps. Si nous nous imaginons vivant dans l'éternité mais que nous passions notre temps à des futilités et des choses vaines il en résultera des déceptions, des accidents et des souffrances de toutes sortes.
 
-> _Sur les niveaux de l'infini et de l'absolu, le moment présent contient tout le passé aussi bien que tout le futur._ [[LU 117:7.7](/fr/The_Urantia_Book/117#p7_7)]
+> _Sur les niveaux de l'infini et de l'absolu, le moment présent contient tout le passé aussi bien que tout le futur._ <a id="a141_119"></a>[[LU 117:7.7](/fr/The_Urantia_Book/117#p7_7)]
 
 Fin de la première partie ; la seconde partie sera publiée dans le numéro suivant.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gary_Farr/To_readers_of_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aux lecteurs du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francois_Dupont/Religiosity_and_Secularism">
+          <span class="pr-2">Religiosité et Laïcité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

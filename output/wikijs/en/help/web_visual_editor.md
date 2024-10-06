@@ -20,7 +20,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-![help_visual_editor.png](/image/help_visual_editor.png){.radius-5 .decor-shadow}
+![](/image/help/help_visual_editor.png){.radius-5 .decor-shadow}
 
 This Visual Editor is a WYSIWYG (What You See Is What You Get) editor based on the popular [CKEditor 5](https://ckeditor.com/).
 

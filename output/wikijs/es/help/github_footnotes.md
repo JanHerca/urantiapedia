@@ -35,7 +35,7 @@ Para añadir las notas al pie en los archivos JSON hay que seguir estos pasos:
 - Si todo está correcto aparecerá *Conversión realizada con éxito*. En caso de errores aparecerá el listado de errores. En este caso conviene avisar a alguno de los usuarios «desarrolladores» por si existe algún problema con el software.
 
 
-![](/image/upt_json_json.png)
+![](/image/help/upt_json_json.png)
 
 Los ficheros de salida son diferentes a los de entrada para evitar que si hay cualquier problema queden inservibles. La salida se guarda en carpetas `input/json/book-xx-footnotes`, donde `xx` es el código de idioma idéntico al usado como carpeta de entrada.
 

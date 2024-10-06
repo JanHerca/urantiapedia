@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-4-dec-2020">
+        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-4-décembre-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 4, Déc. 2020 — Table des matières</span>
         </a>
         </td>
@@ -65,7 +65,7 @@ Pensez, s’il vous plaît, à faire un don à la Fondation Urantia à [urantia.
 
 ## Finances
 
-Les Trustees et le personnel de la Fondation Urantia s’engagent à ajuster les dépenses avec les priorités les plus importantes. À ce jour, nos dépenses ont baissé de 11% depuis 2019 et sont en-dessous de notre budget révisé, de 8%. Nous sommes très reconnaissants à nos généreux donateurs qui nous ont aidé à continuer notre travail durant toute l’année dernière !
+Les Trustees et le personnel de la Fondation Urantia s’engagent à ajuster les dépenses avec les priorités les plus importantes. À ce jour, nos dépenses ont baissé de 11% depuis 2019 et sont en-dessous de notre budget révisé, de 8%. Nous sommes très reconnaissants à nos généreux donateurs qui nous ont aidé à continuer notre travail durant toute l’année dernière !
 
 Le conseil d’administration a approuvé le budget 2021 qui prévoit une année équilibrée. Les recettes prévoient un revenu brut de $785,300 avec des dépenses totales de $785,160. Notre approche prudente de dépenses se concentre sur le financement des projets les plus importants.
 
@@ -79,7 +79,7 @@ Les dons planifiés sont un moyen de supporter les générations futures de lect
 
 ## Ventes de livres
 
-Les ventes à ce jour et celles du troisième trimestre sont excellentes, indiquant une résurgence de la lecture durant le confinement du coronavirus. Voici les chiffres de 2020 comparés à la même période de l’année dernière :
+Les ventes à ce jour et celles du troisième trimestre sont excellentes, indiquant une résurgence de la lecture durant le confinement du coronavirus. Voici les chiffres de 2020 comparés à la même période de l’année dernière :
 
 - Les ventes totales du _Livre d’Urantia_ sont de 17 403, en hausse de 27% depuis 2019.
 - Les ventes en anglais sont de 7819, en hausse de 8%.
@@ -97,12 +97,12 @@ Récemment, Brad Garner, Ashley Parratore et Joanne Strobel ont rejoint Tamara S
 
 ## Programmes éducatifs
 
-Gard Jameson, le président du Comité d’Éducation, a présenté un rapport écrit qui comprenait les mises jour suivantes :
+Gard Jameson, le président du Comité d’Éducation, a présenté un rapport écrit qui comprenait les mises jour suivantes :
 
 - Le Centre d’Education Urantia progresse d’une manière constante. Les membres de l’équipe sont Gard Jameson, David et Marilynn Kulieke, Elisabeth Callahan, Chris Wood, Geri Johnson, et Rob Mastroianni.
 - Une histoire Urantia remarquable, écrite par Gard Jameson et Marilynn Kulieke sera disponible pour la révision en 2021.
-- Danser avec Dieu : Vivre dans l’Amour en ces Temps Difficiles_, une retraite spirituelle virtuelle pour les femmes, qui se tiendra le dimanche 13 décembre.
-- Un Zoom séminaire sur le « Service Aimant » est prévu en février.
+- Danser avec Dieu : Vivre dans l’Amour en ces Temps Difficiles_, une retraite spirituelle virtuelle pour les femmes, qui se tiendra le dimanche 13 décembre.
+- Un Zoom séminaire sur le « Service Aimant » est prévu en février.
 - Un séminaire sur les races est prévu en novembre de l’année en cours.
 
 Pour plus d’informations sur ces programmes éducatifs, contactez Joanne à [joanne@urantia.org](mailto:joanne@urantia.org)
@@ -111,19 +111,19 @@ Pour plus d’informations sur ces programmes éducatifs, contactez Joanne à [j
 
 L’école a connu une croissance significative avec de nouveaux étudiants, prenant leur premier cours dans toutes les branches linguistiques (anglais, français, espagnol et portugais), durant 2019 et 2020. Un total de 472 étudiants ont terminé ces études sur UBIS, cette année. Félicitations au conseil d’administration, aux administrateurs, enseignants-animateurs et étudiants pour avoir rendu cette institution la plus fructueuse, depuis le début de l’apparition de la révélation.
 
-Le conseil d’administration d’UBIS a élu Tim Duffy comme codirecteur, avec le fondateur de l’école Georges Michelson-Dupont. Félicitations, Tim !
+Le conseil d’administration d’UBIS a élu Tim Duffy comme codirecteur, avec le fondateur de l’école Georges Michelson-Dupont. Félicitations, Tim !
 
 Michael Zehr est devenu le directeur de la branche anglaise et Geraldo Queiroz a été nommé pour la branche portugaise. Olga Lõpez Molina continue comme directrice de la branche espagnole et Georges est le directeur provisoire de la branche française.
 
 ## Le Répertoire des Groupes d’Étude du Livre d’Urantia (UBSGD)
 
-La Fondation Urantia en partenariat avec l’Association Urantia Internationale (l’Association) et la Fellowship du Livre d’Urantia (UBF) entretiennent le répertoire des groupes d’étude. Un grand merci pour l’excellent travail de Bill Beasley, président ; Scott Brooks, administrateur du site ; Mark Khoury, UBF ; Rick Lyon, de l’Association ; et Tamara Strumfeld de la Fondation Urantia.
+La Fondation Urantia en partenariat avec l’Association Urantia Internationale (l’Association) et la Fellowship du Livre d’Urantia (UBF) entretiennent le répertoire des groupes d’étude. Un grand merci pour l’excellent travail de Bill Beasley, président ; Scott Brooks, administrateur du site ; Mark Khoury, UBF ; Rick Lyon, de l’Association ; et Tamara Strumfeld de la Fondation Urantia.
 
 Ce trimestre, l’équipe de l’UBSGD a terminé son nettoyage annuel de la base de données, donc tous les groupes listés dans le répertoire existent. Heureusement, le comité a éliminé seulement quelques groupes qui ne répondaient pas aux tentatives récurrentes de contact.
 
-Voici les statistiques des groupes d’étude provenant du répertoire :
+Voici les statistiques des groupes d’étude provenant du répertoire :
 
-- 29 nouveaux groupes d’étude furent ajoutés ; 461 groupes au total dont 187 virtuels ; 356 en personne ; 238 groupes au total aux Etats-Unis dont 80 virtuels ; 223 groupes en dehors des États-Unis ; et des groupes d’étude dans 61 pays.
+- 29 nouveaux groupes d’étude furent ajoutés ; 461 groupes au total dont 187 virtuels ; 356 en personne ; 238 groupes au total aux Etats-Unis dont 80 virtuels ; 223 groupes en dehors des États-Unis ; et des groupes d’étude dans 61 pays.
 - Par ordre numérique, les 10 premiers pays avec des groupes d’étude sont les États-Unis, le Brésil, le Canada, la Colombie, l’Espagne, la France, le Mexique, le Venezuela, l’Australie et la Corée du Sud.
 - Les cinq premières langues sont l’anglais avec 290 groupes, l’espagnol avec 79 groupes, le portugais avec 31 groupes, le français avec 29 groupes et le coréen avec 8 groupes.
 
@@ -137,7 +137,7 @@ Voici les statistiques des groupes d’étude provenant du répertoire :
 
 ## Traductions
 
-Durant les trois derniers mois, les progrès sur les traductions et les révisions sont restés en phase avec nos attentes. Un grand merci au Comité des Traductions constitué par Marilynn Kulieke, présidente ; Georges Michelson-Dupont, directeur des traductions ; Victor García- Bory ; Henk Mylanus ; Jay Peregrine; Tamara Strumfeld et Minoo Claire.
+Durant les trois derniers mois, les progrès sur les traductions et les révisions sont restés en phase avec nos attentes. Un grand merci au Comité des Traductions constitué par Marilynn Kulieke, présidente ; Georges Michelson-Dupont, directeur des traductions ; Victor García- Bory ; Henk Mylanus ; Jay Peregrine; Tamara Strumfeld et Minoo Claire.
 
 - Victor García-Bory est engagé dans notre processus d’assurance de qualité pour la nouvelle révision espagnole. Elle sera disponible sur [urantia.org/es](https://www.urantia.org/es) en mars 2021. Les livres imprimés seront disponibles à l’automne 2021.
 - Gabriel Rymberg communiqua que l’épreuve finale de la traduction hébraïque en est au Fascicule 188 avec sa finalisation prévue pour le 1<sup>er</sup> janvier 2021.
@@ -164,7 +164,7 @@ Grâce à Richard Zhu, le premier jet de la traduction chinoise en est au fascic
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-4-dec-2020">
+        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-4-décembre-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 4, Déc. 2020 — Table des matières</span>
         </a>
         </td>

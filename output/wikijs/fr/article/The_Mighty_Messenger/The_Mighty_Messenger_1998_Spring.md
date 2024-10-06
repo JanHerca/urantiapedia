@@ -46,7 +46,7 @@ Paula Thompson, présidente du comité de vulgarisation domestique, a récemment
 
 Dans sa lettre du 20 février, elle a remercié les coordonnateurs de secteur pour leurs services passés. « Bien sûr, nous voulons servir Dieu en diffusant la bonne nouvelle de la révélation », a-t-elle écrit, « mais nous voulons également servir la fraternité des croyants en favorisant une étude sincère du livre. » Paula a expliqué : « Le programme AC était initialement destiné à mettre en réseau les lecteurs et à soutenir les groupes d'étude. L'idée était de transmettre des références de lecteurs, des idées de sensibilisation et d'autres informations pertinentes aux AC qui, à leur tour, partageraient ces informations avec leurs groupes d'étude régionaux. Nous réalisons maintenant ce service direct aux groupes d'étude. est plus efficace.
 
-Les caractéristiques du nouveau programme ont été décrites :
+Les caractéristiques du nouveau programme ont été décrites :
 
 - Soutien aux conférences régionales des chefs de groupes d'études
 - Ateliers et retraites pour les chefs de groupes d'étude lors de conférences internationales
@@ -73,7 +73,7 @@ C'est ce problème que les délégués triennaux ont abordé à Vancouver l’é
 
 —Carolyn Kendall, avril 1998
 
-## Mighty Messenger fête sa première année ; La bourse lance The Herald
+## Mighty Messenger fête sa première année ; La bourse lance The Herald
 
 Cette édition du _Mighty Messenger_ marque le premier anniversaire du nouveau bulletin d'information de la Fellowship. Il y a un an, la Fraternité a entrepris la publication d'un bulletin d'information expérimental simple pour apporter aux lecteurs du Livre d'Urantia des informations opportunes sur les événements récents, les décisions organisationnelles et les réunions à venir. Depuis lors, le _Mighty Messenger_ a atteint son public cible sur une base trimestrielle, comme prévu.
 
@@ -85,7 +85,7 @@ Le _Herald_ comprendra du matériel lié aux questions familiales et communautai
 
 Comme thème principal, le premier numéro s'inspirera du titre de la publication – The _Fellowship Herald_. Il passera en revue comment la cinquième révélation d'époque a été présentée au monde. Au cours des 43 années qui se sont écoulées depuis la publication du livre, un riche trésor d'expériences et de débats s'est développé sur la manière d'y parvenir de manière efficace et judicieuse.
 
-Nous présenterons certaines idées de dirigeants et de lecteurs, passés et présents, sur la manière dont ils ont partagé le livre et ses enseignements, et sur la manière dont ils pensent qu’il devrait être annoncé au monde. Parmi les sujets à souligner : Le livre se vend-il tout seul ? Les brochures d'introduction et les publications secondaires ont-elles été des supports promotionnels efficaces ? Quel rôle jouent les traductions ? La personne à personne est-elle la meilleure solution ? Pourquoi certaines personnes sont-elles si douées pour présenter le livre aux autres ? Quels sont leurs secrets ? Comment les enseignements ont-ils affecté les religieux professionnels ? Comment les lecteurs qui travaillent dans les médias de divertissement ont-ils influencé le contenu de leurs projets ? Les programmes de messages téléphoniques, les tableaux d’affichage, les stands et les salons du livre ont-ils fonctionné ? Et Internet ? Nos controverses ont-elles aidé ou entravé la diffusion du livre ?
+Nous présenterons certaines idées de dirigeants et de lecteurs, passés et présents, sur la manière dont ils ont partagé le livre et ses enseignements, et sur la manière dont ils pensent qu’il devrait être annoncé au monde. Parmi les sujets à souligner : Le livre se vend-il tout seul ? Les brochures d'introduction et les publications secondaires ont-elles été des supports promotionnels efficaces ? Quel rôle jouent les traductions ? La personne à personne est-elle la meilleure solution ? Pourquoi certaines personnes sont-elles si douées pour présenter le livre aux autres ? Quels sont leurs secrets ? Comment les enseignements ont-ils affecté les religieux professionnels ? Comment les lecteurs qui travaillent dans les médias de divertissement ont-ils influencé le contenu de leurs projets ? Les programmes de messages téléphoniques, les tableaux d’affichage, les stands et les salons du livre ont-ils fonctionné ? Et Internet ? Nos controverses ont-elles aidé ou entravé la diffusion du livre ?
 
 Avec un programme de publications plus ambitieux, le besoin de dons devient évident. Le premier numéro du _Herald_ sera gratuit. Reste à savoir si un abonnement sera nécessaire.
 
@@ -97,7 +97,7 @@ Les activités des Longs Peak Faithers comprenaient l’organisation d'un stand 
 
 Le groupe alterne les lieux de réunion sur une base mensuelle entre Fort Collins et Loveland. Cela permet à tous de réduire le temps de trajet tous les deux mois et a créé un sentiment de camaraderie entre les membres des deux villes.
 
-Les membres prévoient de continuer à partager entre eux leurs idées, leurs découvertes, leurs épreuves et leurs joies. Leur objectif premier est de développer une « affection surprenante » l’un pour l’autre. Ils espèrent apporter au monde ce que le monde a besoin de voir : la vie de Jésus vécue dans leur vie. Ils croient que « une conséquence naturelle de cette affection sera un accord sur des projets sociaux et de service qu’[ils] pourraient s’efforcer de prendre en charge ».
+Les membres prévoient de continuer à partager entre eux leurs idées, leurs découvertes, leurs épreuves et leurs joies. Leur objectif premier est de développer une « affection surprenante » l’un pour l’autre. Ils espèrent apporter au monde ce que le monde a besoin de voir : la vie de Jésus vécue dans leur vie. Ils croient que « une conséquence naturelle de cette affection sera un accord sur des projets sociaux et de service qu’[ils] pourraient s’efforcer de prendre en charge ».
 
 Leur réussite sera une bénédiction pour nous tous.
 
@@ -187,7 +187,7 @@ Publié trimestriellement par Uversa Press pour le comité des publications de T
 
 Pour les lecteurs du _Le Livre d'Urantia_
 
-Membres : Avi Dogim, présidente Nancy Johnson, Carolyn Kendall, Linda Buselli, Geri Johnson
+Membres : Avi Dogim, présidente Nancy Johnson, Carolyn Kendall, Linda Buselli, Geri Johnson
 
 ## Liens externes
 

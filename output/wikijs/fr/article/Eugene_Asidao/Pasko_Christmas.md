@@ -43,7 +43,7 @@ par _Eugène Asidao_
 
 La période de Noël est la période pour offrir et recevoir des cadeaux dans la plupart des familles et populations chrétiennes. 
 
-_La Fellowship du Livre d'Urantia_, par l’intermédiaire de Derek Samaras, a fait don du livre [Jésus — une nouvelle révélation](https://www.amazon.com/Jesus-A-New-Revelation/dp/0966878302) au peuple philippin. Bien qu’expédiés il y a des mois, les livres ont été reçus vers Noël ! Les Philippines sont à quatre-vingt-cinq pour cent chrétiennes et majoritairement catholiques. 
+_La Fellowship du Livre d'Urantia_, par l’intermédiaire de Derek Samaras, a fait don du livre [Jésus — une nouvelle révélation](https://www.amazon.com/Jesus-A-New-Revelation/dp/0966878302) au peuple philippin. Bien qu’expédiés il y a des mois, les livres ont été reçus vers Noël ! Les Philippines sont à quatre-vingt-cinq pour cent chrétiennes et majoritairement catholiques. 
 
 Je crois que les chrétiens devraient connaître la vie disparue de Jésus. Les Philippins accueillent favorablement la nouvelle révélation, notamment sur la vie de Jésus, le Fils Créateur de notre univers.
 

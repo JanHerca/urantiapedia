@@ -47,7 +47,7 @@ Geoff Taylor, presidente interreligioso
 
 ---
 
-El Comité Interreligioso de la Fraternidad del Libro de Urantia está participando en un proyecto en curso titulado «Commonality Among Faiths». Para fomentar la empatía, la comprensión y el diálogo interreligiosos, planeamos compartir uno o dos grupos religiosos principales cada mes, centrándonos en los ideales y propósitos tanto como sea posible, mientras correlacionamos citas de _El Libro de Urantia_ para cada grupo religioso. Comenzaremos con los grupos religiosos que armonizan las religiones en este número, La fe bahá'í (Revelación progresiva y la unidad de la religión) y Sufismo (Un puente entre religiones - Un camino místico que se ramifica desde el Islam).
+El Comité Interreligioso de la Fraternidad del _Libro de Urantia_ está participando en un proyecto en curso titulado «Commonality Among Faiths». Para fomentar la empatía, la comprensión y el diálogo interreligiosos, planeamos compartir uno o dos grupos religiosos principales cada mes, centrándonos en los ideales y propósitos tanto como sea posible, mientras correlacionamos citas de _El Libro de Urantia_ para cada grupo religioso. Comenzaremos con los grupos religiosos que armonizan las religiones en este número, La fe bahá'í (Revelación progresiva y la unidad de la religión) y Sufismo (Un puente entre religiones - Un camino místico que se ramifica desde el Islam).
 
 ## Cuaderno de principios principales de algunas religiones del mundo con pasajes comparativos de _El Libro de Urantia_
 

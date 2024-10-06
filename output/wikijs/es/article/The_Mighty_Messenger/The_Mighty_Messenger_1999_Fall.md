@@ -118,7 +118,7 @@ El Consejo General considera que es muy importante que los miembros y los lector
 
 Durante las últimas semanas, he estado leyendo cuidadosamente los Documentos de Jesús de principio a fin. Ha sido una experiencia esclarecedora e inspiradora. No tengo ninguna duda de que podemos encontrar respuestas a nuestros complejos problemas materiales al contemplar la vida y las enseñanzas de Jesús. Rezo por la sabiduría para comprender la verdad ennoblecedora del Maestro, y por el coraje con el que se debe vivir esta verdad.
 
-## Los lectores del Libro de Urantia invaden la Universidad de Columbia Británica
+## Los lectores del _Libro de Urantia_ invaden la Universidad de Columbia Británica
 
 Novecientos cincuenta habitantes de Urantia de unos 20 países diferentes, 150 de ellos menores de 21 años, se reunieron en el hermoso campus de la Universidad de Columbia Británica durante la primera semana de agosto durante cinco días de estudio, comunión, socialización y diversión. Apodada por sus organizadores «Spirit-Quest 2000», esta última conferencia de la Fellowship del siglo XX fue aclamada por la Presidenta de la Fellowship, Janet Farrington Graham, como «una reunión familiar llena de una efusión de amistad genuina, erudición esclarecedora, adoración inspiradora y entretenimiento energizante.»
 

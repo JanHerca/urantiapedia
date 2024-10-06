@@ -39,11 +39,11 @@ El Consejo de Representantes de la Asociación celebró elecciones en enero de e
 - _Presidente de Miembros:_  Luis García- Bory (sustituye a Anton Miroshnichenko)
 - _Presidente de Conferencias:_ Antonio Schefer (reelegido)
 - _Presidenta de Educación:_ Jeannie Vázquez (sustituye a Sheila Keene-Lund)
-- _Translation Chair:_  Gabriel Rymberg (sustituye a Chris Moseley)
+- _Translation Chair:_ Gabriel Rymberg (sustituye a Chris Moseley)
 
 Los miembros de la JIS recién elegidos asumirán sus cargos a partir del 1 de abril de 2017.
 
-Además de las elecciones de la JIS, Travis Binion fue reelegido como presidente de la Comisión Judicial. El 18 de diciembre de 2016, el CR confirmó  a Joyce Anderson para ocupar la tercera vacante de esta comisión, y se une a Travis y a Benet Rutenberg.
+Además de las elecciones de la JIS, Travis Binion fue reelegido como presidente de la Comisión Judicial. El 18 de diciembre de 2016, el CR confirmó a Joyce Anderson para ocupar la tercera vacante de esta comisión, y se une a Travis y a Benet Rutenberg.
 
 La asociación da la bienvenida a la JIS con orgullo a Luis García Bory, de México y residente en Suiza, a Jeannie Vázquez de Uruguay y a Gabriel Rymberg, que vive en Israel, y les agradece su disposición a servir y su lealtad incansable en el trabajo para la Asociación.
 
@@ -53,17 +53,17 @@ Nuestro agradecimiento de todo corazón y nuestros mejores deseos para los miemb
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/Gabriel_Rymberg-150x150.jpg">
-<figcaption>Gabriel Rymberg</figcapton>
+<figcaption>Gabriel Rymberg</figcaption>
 </figure>
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/Jeannie_Vazquez-150x150.jpg">
-<figcaption>Jeannie Vazquez</figcapton>
+<figcaption>Jeannie Vazquez</figcaption>
 </figure>
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/Luis_Garcia_Bory-150x150.jpg">
-<figcaption>Luis Garcia Bory</figcapton>
+<figcaption>Luis Garcia Bory</figcaption>
 </figure>
 
 <br style="clear:both;"/>

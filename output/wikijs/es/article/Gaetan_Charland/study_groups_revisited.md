@@ -110,7 +110,7 @@ Recordemos que necesitamos ser el cambio que queremos ver en el mundo \[Mahatma 
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2019/?lang=es)
 - [Este artículo](https://urantia-association.org/revision-de-los-grupos-de-estudio/?lang=es)
 

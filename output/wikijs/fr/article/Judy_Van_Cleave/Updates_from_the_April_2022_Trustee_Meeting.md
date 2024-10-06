@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-3-july-2022">
+        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-3-juillet-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 3, July 2022 — Table des matières</span>
         </a>
         </td>
@@ -51,7 +51,7 @@ _Par Judy Van Cleave, secrétaire de la Fondation Urantia, Idaho, États-Unis_
 - La nouvelle application gratuite Android contenant _Le Livre d’Urantia_ en vingt langues sera bientôt lancée.
 - Le Projet d’Activation Audio a commencé. Nous pensons lancer des livres audios en 20 langues début 2023.
 
-Avançant dans le deuxième trimestre, nous mettrons l’accent sur :
+Avançant dans le deuxième trimestre, nous mettrons l’accent sur :
 
 - Résoudre les problèmes restants de l’application Android et promouvoir son lancement sur la Boutique de Jeu Google.
 - Simplifier nos campagnes de pub sur internet.
@@ -83,7 +83,7 @@ Au premier trimestre les dons de succession étaient de $26,122.
 <img src="/image/article/UF_News_Online/2022_07/024.jpg">
 </figure>
 
-- Des progrès constants furent rapportés sur les traductions et révisions suivantes : en chinois, farsi, grec et portugais.
+- Des progrès constants furent rapportés sur les traductions et révisions suivantes : en chinois, farsi, grec et portugais.
 - La traduction en arabe a été publiée sur [urantia.org/ar](https://www.urantia.org/ar).
 <br style="clear:both;"/>
 
@@ -120,7 +120,7 @@ Sue, présidente de la Fellowship du Livre d'Urantia, a partagé une partie de s
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-3-july-2022">
+        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-3-juillet-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 3, July 2022 — Table des matières</span>
         </a>
         </td>

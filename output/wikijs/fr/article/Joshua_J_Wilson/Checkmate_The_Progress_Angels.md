@@ -1,5 +1,5 @@
 ---
-title: "Échec et mat : les anges du progrès et les gardiens religieux en jeu"
+title: "Échec et mat : les anges du progrès et les gardiens religieux en jeu"
 description: "Le Mighty Messenger — Numéro Automne 2020 : Nouvelles et opinions pour les lecteurs du Livre d'Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
@@ -66,7 +66,7 @@ C’est là qu’interviennent la révélation des Cahiers d’Urantia et de ses
 
 > 2. *Les anges du progrès.* Ces séraphins ont la tâche d’inaugurer le progrès évolutionnaire des âges sociaux successifs. Ils encouragent le développement de la tendance au progrès, inhérente aux créatures évolutionnaires. Ils travaillent sans cesse à faire que les choses soient ce qu’elles devraient être. Le groupe présentement en fonction est le deuxième de cet ordre affecté à la planète. (<a id="a66_396"></a>[LU 114:6.6](/fr/The_Urantia_Book/114#p6_6))
 
-Les anges du progrès en groupe sont arrivés sur notre monde le 18 mai 30 après JC au moment de l’effusion de l’Esprit de Vérité (cf. <a id="a68_133"></a>[LU 114:6.1](/fr/The_Urantia_Book/114#p6_1)). Depuis cette époque, il y a eu plusieurs périodes d’évolution sociale éclairante et de renouveau spirituel. La période de progression la plus remarquable s’est produite au cours de notre vie. Cette étonnante ère de progrès a été observée particulièrement depuis les années 1920, lorsque les fascicules d'Urantia ont commencé à paraître. Nous constatons une forte amélioration à l’échelle mondiale dans tous les domaines suivants :
+Les anges du progrès en groupe sont arrivés sur notre monde le 18 mai 30 après JC au moment de l’effusion de l’Esprit de Vérité (cf. <a id="a68_133"></a>[LU 114:6.1](/fr/The_Urantia_Book/114#p6_1)). Depuis cette époque, il y a eu plusieurs périodes d’évolution sociale éclairante et de renouveau spirituel. La période de progression la plus remarquable s’est produite au cours de notre vie. Cette étonnante ère de progrès a été observée particulièrement depuis les années 1920, lorsque les fascicules d'Urantia ont commencé à paraître. Nous constatons une forte amélioration à l’échelle mondiale dans tous les domaines suivants :
 - Durée de vie et nutrition
 - Religion et spiritualité
 - Richesse
@@ -79,7 +79,7 @@ Les anges du progrès en groupe sont arrivés sur notre monde le 18 mai 30 aprè
 
 Vous pouvez étudier ce récital passionnant à travers les graphiques, tableaux, faits et détails présentés dans le livre de Stephen Pinker, Enlightenment Now, et dans The Rational Optimist de Matt Ridley, ainsi que dans mon essai « Notre monde vient de plonger dans une période d'illumination sociale et spirituelle des plus étonnantes : L'avez-vous manqué ? L'essai est disponible en m'écrivant à musical@cox.net.
 
-**Y a-t-il quelqu’un, s'il vous plaît, qui peut poser une main paternelle aimante sur le tableau ?**
+**Y a-t-il quelqu’un, s'il vous plaît, qui peut poser une main paternelle aimante sur le tableau ?**
 
 Oui. Le gouverneur général résident supervise ces corps angéliques pour la plupart, mais l’observateur de Vorondadek (le Très Haut) en période de crise planétaire a et peut à nouveau exercer une autorité absolue.
 
@@ -100,7 +100,7 @@ En tant qu’observateur, le Très-Haut ne s'implique pas dans la gouvernance g�
 
 Les Vorondadeks sont, dirons-nous, rusés. Ils sont sélectifs, sages et parfaitement aptes à prendre la tête d’une constellation, d’un système et certainement d’une planète lorsqu’une crise l’exige. Dans de tels moments charnières, le Vorondadek abandonne son statut d'observateur et devient le régent, le dirigeant de toutes les personnalités ministérielles et administrateurs de la planète, à l’exception des Archanges, qui ne sont pas impliqués dans de telles circonstances car ils s'occupent principalement de questions purement spirituelles, et non de questions spirituelles. les matériels.
 
-Nous savons qu’une telle intervention a eu lieu du vivant d’Abraham. Melchisédek était l’enseignant, le guide et le prêtre d'Abraham, à qui on avait conseillé, au cours de la première période militariste de sa vie, de ne pas s'engager dans des aventures militaires offensives. Mais Abraham, qui avait des aspirations royales, avait l’intention d’aller se battre contre les tribus voisines. Il y a sans aucun doute eu plusieurs batailles au cours desquelles Abraham s’est mis lui-même et ses hommes en danger. Un jour, Abraham et son armée affrontèrent l’ennemi malgré l’avertissement. Melchisédek sortit pour l’en dissuader, mais ne le rattrapa qu’au moment où Abraham revenait de la bataille, victorieux. D’une certaine manière, Melchisédek était au courant des relations entre les Vorondadek et Abraham, comme nous le lisons ici :
+Nous savons qu’une telle intervention a eu lieu du vivant d’Abraham. Melchisédek était l’enseignant, le guide et le prêtre d'Abraham, à qui on avait conseillé, au cours de la première période militariste de sa vie, de ne pas s'engager dans des aventures militaires offensives. Mais Abraham, qui avait des aspirations royales, avait l’intention d’aller se battre contre les tribus voisines. Il y a sans aucun doute eu plusieurs batailles au cours desquelles Abraham s’est mis lui-même et ses hommes en danger. Un jour, Abraham et son armée affrontèrent l’ennemi malgré l’avertissement. Melchisédek sortit pour l’en dissuader, mais ne le rattrapa qu’au moment où Abraham revenait de la bataille, victorieux. D’une certaine manière, Melchisédek était au courant des relations entre les Vorondadek et Abraham, comme nous le lisons ici :
 
 > Lorsque Machiventa Melchizédek exerça son ministère sous forme semi-matérielle sur Urantia, il rendit un respectueux hommage au Très Haut observateur, alors en mission, comme il est écrit : « Et Melchizédek, roi de Salem, était le prêtre du Très Haut. » Melchizédek révéla les relations de ce Très Haut observateur à Abraham lorsqu’il dit : « Et béni soit le Très Haut qui a livré tes ennemis entre tes mains. » (<a id="a104_415"></a>[LU 43:5.17](/fr/The_Urantia_Book/43#p5_17))
 

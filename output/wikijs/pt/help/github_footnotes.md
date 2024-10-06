@@ -34,7 +34,7 @@ Para adicionar notas de rodapé a arquivos JSON, siga estas etapas:
 - Clique em *Executar*.
 - Se tudo estiver correto aparecerá *Conversão executada com sucesso*. Em caso de erros, a lista de erros aparecerá. Neste caso, é aconselhável notificar um dos usuários *desenvolvedores* sobre o erro.
 
-![](/image/upt_json_json.png)
+![](/image/help/upt_json_json.png)
 
 Os arquivos de saída são diferentes dos arquivos de entrada para evitar que, se houver algum problema, eles fiquem inutilizáveis. A saída é salva nas pastas `input / json / book-xx-footnotes`, onde `xx` é o código do idioma igual ao usado como pasta de entrada.
 

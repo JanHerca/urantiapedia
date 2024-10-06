@@ -52,7 +52,7 @@ _(Reimpreso con permiso del autor.)
 
 Es muy fácil tener diversidad, diferencias de opinión y puntos de vista divergentes, porque somos humanos; Nuestras personalidades son únicas y mi experiencia es personal. Puede que pase por un evento o tribulación compartida, pero mi experiencia es mía y sólo mía. Jesús analizó esto en el “Documento 141. Inicio de la obra pública”, en la sección “5”. Unidad espiritual”.
 
-> Una de las conferencias nocturnas más extraordinarias de Amatus fue la sesión en la que se discutió sobre la unidad espiritual. Santiago Zebedeo había preguntado: «Maestro, ¿cómo podemos aprender a tener el mismo punto de vista, y a disfrutar así de una mayor armonía entre nosotros?» ... Jesús ... replicó: «... Lo que yo os pido, a mis apóstoles, es la *unidad espiritual* —y eso lo podéis experimentar en la alegría de vuestra dedicación unida a hacer de todo corazón la voluntad de mi Padre que está en los cielos. No necesitáis tener el mismo punto de vista, sentir de la misma manera o ni siquiera pensar de la misma manera, para *ser iguales* espiritualmente. ...». (<a id="a30_676"></a>[LU 141:5.1](/es/The_Urantia_Book/141#p5_1))
+> Una de las conferencias nocturnas más extraordinarias de Amatus fue la sesión en la que se discutió sobre la unidad espiritual. Santiago Zebedeo había preguntado: «Maestro, ¿cómo podemos aprender a tener el mismo punto de vista, y a disfrutar así de una mayor armonía entre nosotros?» ... Jesús ... replicó: «... Lo que yo os pido, a mis apóstoles, es la *unidad espiritual* —y eso lo podéis experimentar en la alegría de vuestra dedicación unida a hacer de todo corazón la voluntad de mi Padre que está en los cielos. No necesitáis tener el mismo punto de vista, sentir de la misma manera o ni siquiera pensar de la misma manera, para *ser iguales* espiritualmente. ...». (<a id="a54_676"></a>[LU 141:5.1](/es/The_Urantia_Book/141#p5_1))
 
 La unidad espiritual es algo por lo que hay que esforzarse y trabajar; no vendrá automáticamente. Hay que pensarlo y ordenarlo conscientemente.
 
@@ -64,7 +64,7 @@ Intenté señalar que, a menos que pudiéramos llegar a algún tipo de acuerdo, 
 
 Entonces, esto me hizo pensar en mi camino a casa después de la feria: cómo tener unidad espiritual. Necesitaba buscar lo que hay en común entre nosotros. Jesús hizo esto muy bien, particularmente durante sus viajes por el Mediterráneo.
 
-> Seleccionó a cinco dirigentes de los estoicos, a once de los cínicos y a dieciséis jefes del culto de los misterios, y pasó una gran parte de su tiempo libre, durante casi seis meses, en asociación íntima con estos educadores religiosos. He aquí el método que utilizó para instruirlos: ni una sola vez atacó sus errores ni tampoco mencionó nunca los defectos de sus enseñanzas. En cada caso seleccionaba la verdad que había en lo que enseñaban, y luego procedía a embellecer e iluminar esta verdad en sus mentes de tal manera que en muy poco tiempo este realzamiento de la verdad desplazaba eficazmente el error que la acompañaba; (<a id="a42_634"></a>[LU 132:0.4](/es/The_Urantia_Book/132#p0_4))
+> Seleccionó a cinco dirigentes de los estoicos, a once de los cínicos y a dieciséis jefes del culto de los misterios, y pasó una gran parte de su tiempo libre, durante casi seis meses, en asociación íntima con estos educadores religiosos. He aquí el método que utilizó para instruirlos: ni una sola vez atacó sus errores ni tampoco mencionó nunca los defectos de sus enseñanzas. En cada caso seleccionaba la verdad que había en lo que enseñaban, y luego procedía a embellecer e iluminar esta verdad en sus mentes de tal manera que en muy poco tiempo este realzamiento de la verdad desplazaba eficazmente el error que la acompañaba; (<a id="a66_634"></a>[LU 132:0.4](/es/The_Urantia_Book/132#p0_4))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Phillip_Marriott/47.jpg">
@@ -76,7 +76,7 @@ El “Documento 103. La realidad de la experiencia religiosa” explica:
 
 > La unidad de la experiencia religiosa de un grupo social o racial proviene de la naturaleza idéntica del fragmento de Dios que reside en el individuo. ... Un grupo de mortales puede experimentar la unidad espiritual, pero nunca podrá alcanzar la uniformidad filosófica.
 
-> Existe una gran esperanza para toda iglesia que adore al Dios viviente, valide la fraternidad de los hombres y se atreva a suprimir la presión de todo credo entre sus miembros. (<a id="a54_180"></a>[LU 103:5.12](/es/The_Urantia_Book/103#p5_12))
+> Existe una gran esperanza para toda iglesia que adore al Dios viviente, valide la fraternidad de los hombres y se atreva a suprimir la presión de todo credo entre sus miembros. (<a id="a78_180"></a>[LU 103:5.12](/es/The_Urantia_Book/103#p5_12))
 
 A menudo digo que hay tantas religiones como personas sobre la faz de la tierra.
 
@@ -103,9 +103,9 @@ Entonces podremos permitir que existan opiniones y creencias diferentes, dentro 
 
 El libro lo resume mejor con estos artículos finales:
 
-> Pentecostés fue el llamamiento a la unidad espiritual entre los creyentes en el evangelio. Cuando el espíritu descendió sobre los discípulos en Jerusalén, lo mismo sucedió en Filadelfia, en Alejandría y en todos los demás lugares donde vivían los creyentes sinceros. Fue literalmente cierto que «había un solo corazón y una sola alma entre la multitud de creyentes». La religión de Jesús es la influencia unificadora{28} más poderosa que el mundo ha conocido jamás. (<a id="a81_469"></a>[LU 194:3.17](/es/The_Urantia_Book/194#p3_17))
+> Pentecostés fue el llamamiento a la unidad espiritual entre los creyentes en el evangelio. Cuando el espíritu descendió sobre los discípulos en Jerusalén, lo mismo sucedió en Filadelfia, en Alejandría y en todos los demás lugares donde vivían los creyentes sinceros. Fue literalmente cierto que «había un solo corazón y una sola alma entre la multitud de creyentes». La religión de Jesús es la influencia unificadora más poderosa que el mundo ha conocido jamás. (<a id="a105_465"></a>[LU 194:3.17](/es/The_Urantia_Book/194#p3_17))
 
-> El cristianismo se enfrenta seriamente con la sentencia incluida en uno de sus propios lemas: «Una casa dividida contra sí misma no puede subsistir». El mundo no cristiano difícilmente capitulará ante una cristiandad dividida en sectas. El Jesús vivo es la única esperanza de una posible unificación del cristianismo. (<a id="a83_321"></a>[LU 195:10.11](/es/The_Urantia_Book/195#p10_11))
+> El cristianismo se enfrenta seriamente con la sentencia incluida en uno de sus propios lemas: «Una casa dividida contra sí misma no puede subsistir». El mundo no cristiano difícilmente capitulará ante una cristiandad dividida en sectas. El Jesús vivo es la única esperanza de una posible unificación del cristianismo. (<a id="a107_321"></a>[LU 195:10.11](/es/The_Urantia_Book/195#p10_11))
 
 > Phillip Marriott ha sido miembro desde 2012 de ANZURA—Asociación Urantia de Australia y Nueva Zelanda.
 {.is-info}

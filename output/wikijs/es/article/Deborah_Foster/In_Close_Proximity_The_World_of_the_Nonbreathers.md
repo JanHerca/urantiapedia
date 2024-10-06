@@ -74,7 +74,7 @@ Esta luna es Europa, la segunda de cuatro lunas galileanas en rotación ecuatori
 
 Varias características señalan a Europa como el hogar de los que no respiran:
 
-1\. Tamaño. La luna es lo suficientemente pequeña como para no tener una atmósfera apreciable. Este satélite es aproximadamente un 10 por ciento más pequeño que nuestra propia luna, tanto en radio como en densidad. Recientemente, los astrofísicos que utilizaron el telescopio espacial Hubble informaron que midieron las emisiones atómicas de oxígeno de Europa que serían el equivalente a la presión atmosférica a 150 millas sobre la superficie de la Tierra.[^2] Marte, por el contrario, tiene una presión atmosférica similar a la de vivir a 18 millas sobre la tierra.[^3] Esta es una presión con la que los subrespiradores se sentirían cómodos. Europa encaja en la definición del Libro de Urantia de «mundos con poco o ningún aire».
+1\. Tamaño. La luna es lo suficientemente pequeña como para no tener una atmósfera apreciable. Este satélite es aproximadamente un 10 por ciento más pequeño que nuestra propia luna, tanto en radio como en densidad. Recientemente, los astrofísicos que utilizaron el telescopio espacial Hubble informaron que midieron las emisiones atómicas de oxígeno de Europa que serían el equivalente a la presión atmosférica a 150 millas sobre la superficie de la Tierra.[^2] Marte, por el contrario, tiene una presión atmosférica similar a la de vivir a 18 millas sobre la tierra.[^3] Esta es una presión con la que los subrespiradores se sentirían cómodos. Europa encaja en la definición del _Libro de Urantia_ de «mundos con poco o ningún aire».
 
 2\. El satélite estaría ubicado donde existe la posibilidad de que se produzcan «tormentas eléctricas desastrosas».
 

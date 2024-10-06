@@ -102,21 +102,21 @@ Les messages seront archivés afin que ceux qui ne souhaitent pas recevoir d'e-m
 
 Richard Omura demande un volontaire de chaque société pour être responsable des abonnés (ou non) de leur Si aucun n'est trouvé, Richard assumera la fonction « listop » pour les sociétés ainsi que Vous pouvez contacter Richard Omura à : omura@mediaone. filet.
 
-## Quoi de neuf sur notre site Web ? —Histoire et plus encore !
+## Quoi de neuf sur notre site Web ? —Histoire et plus encore !
 
 Les étudiants du _Livre d'Urantia_ trouveront une collection d'examens de l’École de la Fraternité Urantia maintenant publiée sur notre site Web. 
 
-Ces examens sont parfaits pour étudier ou pour des groupes d’étude. Vous pouvez les trouver en visitant la page « Quoi de neuf ? » à l’adresse : http://urantiabook.org/whatsnew.htm 
+Ces examens sont parfaits pour étudier ou pour des groupes d’étude. Vous pouvez les trouver en visitant la page « Quoi de neuf ? » à l’adresse : http://urantiabook.org/whatsnew.htm 
 
 Cette page contiendra toujours des listes des documents publiés les plus récents ainsi que des liens vers les informations du Conseil général et du Comité exécutif destinées au lectorat. 
 
-Une gamme croissante et importante d'informations liées à IC02 peut être consultée sur le site Web : http://urantiabook.org/conferences/ic02. De nouvelles informations seront publiées à cette adresse à mesure que nous nous rapprochons de l’heure de la conférence.
+Une gamme croissante et importante d'informations liées à IC02 peut être consultée sur le site Web : http://urantiabook.org/conferences/ic02. De nouvelles informations seront publiées à cette adresse à mesure que nous nous rapprochons de l’heure de la conférence.
 
 ## De nouvelles options d'adhésion à la bourse sont les bienvenues
 
 Devenir membre de la Fellowship du Livre d'Urantia est maintenant plus facile et plus inclusif que jamais. Depuis 1955, Urantia Brotherhood/The Fellowship attend de ses membres qu’ils aient lu l’intégralité du _Livre d'Urantia_ et la constitution de la Fellowship. Ces conditions ne s'appliquent qu’aux membres du Conseil général et aux membres fondateurs (minimum dix) qui créent une nouvelle société. En conséquence, tout étudiant du _Livre d'Urantia_ qui soutient les objectifs de la Communauté est éligible pour devenir membre.
 
-Une nouvelle catégorie appelée « Membre affilié » est proposée et devrait être adoptée lors de la réunion annuelle du Conseil général en juillet, tout comme le nom du Comité de la Charte, Changement en Comité des membres. Ce changement de nom reflète davantage les fonctions du comité. 
+Une nouvelle catégorie appelée « Membre affilié » est proposée et devrait être adoptée lors de la réunion annuelle du Conseil général en juillet, tout comme le nom du Comité de la Charte, Changement en Comité des membres. Ce changement de nom reflète davantage les fonctions du comité. 
 
 Les membres du groupe affilié à la Fellowship seraient éligibles pour devenir des membres officiellement appelés associés de la Fellowship, ces groupes étant composés d'au moins cinq membres dédiés à la propagation de la révélation Urantia. Ce groupe n'a pas besoin de constitution et ne participe pas non plus à la gouvernance de la Fraternité comme le font les sociétés. 
 
@@ -146,11 +146,11 @@ Par exemple, « Melchizedek » contient plus de 100 références d’index allan
 
 L'index est une bibliothèque de référence très utile pour _Le Livre d'Urantia_. Et le prix du livre avec index inclus devrait être d'environ vingt dollars... un véritable exploit pour l’homme et la machine. Merci à tous pour votre beau travail. 
 
-> Avez-vous déjà entendu parler d'un enfant en pleine croissance qui n'avait pas faim ? La Fellowship du Livre d'Urantia en pleine croissance a besoin de la subsistance que vous pouvez fournir. C'est notre heure.
+> Avez-vous déjà entendu parler d'un enfant en pleine croissance qui n'avait pas faim ? La Fellowship du Livre d'Urantia en pleine croissance a besoin de la subsistance que vous pouvez fournir. C'est notre heure.
 
 ## Allez mamans et papas
 
-**Aidez à rendre IC02 amusant pour les jeunes !**
+**Aidez à rendre IC02 amusant pour les jeunes !**
 
 Sara Blackstock, la « reconstructrice » prééminente et amusante de la Fraternité des temps et des lieux bibliques/Urantia pour les jeunes qui assisteront à IC02, a besoin de votre aide. Vous pouvez l’aider à mettre en place des vignettes simples mais dramatiques décrivant l’environnement de Jésus ou des histoires du _Le Livre d'Urantia_. L'histoire prend vie d'une manière que « de simples mots » ne peuvent pas transmettre. 
 
@@ -158,7 +158,7 @@ Un « marché » d’autrefois est plus qu’amusant. Le réalisme, incluant des
 
 Une autre façon d'aider est d'être bénévole dans l’un des programmes de « soins », des tout-petits aux adolescents. Des guides ou des « anges gardiens » sont nécessaires pour simplement « être là ».
 
-**Contactez ces personnes dévouées avec votre aide :**
+**Contactez ces personnes dévouées avec votre aide :**
 - Sara Blackstock s'occupera du marché de Jérusalem – enfants de 5 ans (slb@linkzone.com)
 - Cady Halverson (mail@solonia.com) et Laura Hay (lhay33@yahoo.com) pour les bébés et les tout-petits
 - Bill Rocap (brocap@aol.dom) pour les 11-14 ans
@@ -168,7 +168,7 @@ Une autre façon d'aider est d'être bénévole dans l’un des programmes de «
 **Soyez un ange, soyez une mère ou un papa,**
 **sois un ami, mais s'il te plaît, sois là.**
 
-## Venez à une fête !
+## Venez à une fête !
 
 Dans le prolongement d'un événement spécial commencé à IC99, nous organiserons à nouveau, à IC02, une fête de « Bienvenue aux Ajusteurs de Pensée » pour les enfants âgés de 5 à 7 ans. La fête a lieu sur la place du marché de Jérusalem, avec les enfants vêtus des costumes de l’époque de Jésus. Il s'agit d'une simple cérémonie de 10 minutes qui reconnaît la présence du Père à l’intérieur. Les familles des enfants participent à la cérémonie, ainsi que les éventuels observateurs. Vous êtes invités à partager cette expérience particulière avec nous. De plus amples informations seront disponibles lors de l’inscription à la conférence.
 
@@ -197,15 +197,15 @@ Tom Orjala, entrepreneur en construction, est marié à Cassandra et père de de
 ## Puissant messager
 
 Publié par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship
-Membres : Linda Buselli, présidente Nancy Johnson, Sage Waitts, Gary Deinstadt, Joe Liszka, Lynda D'Archangelo
+Membres : Linda Buselli, présidente Nancy Johnson, Sage Waitts, Gary Deinstadt, Joe Liszka, Lynda D'Archangelo
 Téléphone : 773-327-0424 • Télécopieur : 773-327-6159
 email : Fellowship@urantiabook.org
-site Web : http://wvw.ubfellowship.org
+site Web : http://wvw.ubfellowship.org
 
 
 ## Liens externes
 
-* Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
+* Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
 
 
 

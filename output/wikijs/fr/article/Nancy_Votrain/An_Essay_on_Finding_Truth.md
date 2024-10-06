@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-4-dec-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-4-décembre-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 4, Déc. 2019 — Table des matières</span>
         </a>
         </td>
@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Nancy Votrain, Oregon, États-Unis_
 
-_Note de l’éditeur_ : _Nancy Votrain et son mari_, _Douglas Parker_, _habitent depuis longtemps à Corvallis en Oregon et sont des étudiants du_ Livre d’Urantia _depuis plus de 45 ans_. _Cet article fut publié initialement dans la rubrique hebdomadaire du_ Interfaith Focus _de la Gazette_\-_Times de Corvallis_. _Nous fûmes tellement impressionnés par la description du livre faite par Nancy que nous avons voulu la partager avec vous_.
+_Note de l’éditeur_ : _Nancy Votrain et son mari_, _Douglas Parker_, _habitent depuis longtemps à Corvallis en Oregon et sont des étudiants du_ Livre d’Urantia _depuis plus de 45 ans_. _Cet article fut publié initialement dans la rubrique hebdomadaire du_ Interfaith Focus _de la Gazette_\-_Times de Corvallis_. _Nous fûmes tellement impressionnés par la description du livre faite par Nancy que nous avons voulu la partager avec vous_.
 
 Même si la religion est une affaire personnelle, il y a beaucoup d’avantages à se familiariser avec de nombreuses religions et autres voies spirituelles. Toutes confessions contiennent de la vérité et il est bénéfique d’étudier et d’assimiler ces vérités.
 
@@ -48,7 +48,7 @@ Lorsque j’étais enfant, je débutai une relation personnelle avec un Dieu aim
 
 Bien que _Le Livre d’Urantia_ ne soit pas en lui-même, une religion, il définit la vraie religion comme étant une expérience personnelle spirituelle. Chacun de nous se trouve personnellement et intimement dans une relation expérimentale et authentique avec son fragment individuel de la Source de Tout. Mais parce que nous sommes tous uniques, inévitablement pas deux humains ne peuvent interpréter les directives de l’esprit divin de la même manière.
 
-La présence divine intérieure est à l’origine de notre désir humain de servir l’humanité, chaque membre de notre famille planétaire. C’est ce don divin qui crée cette soif insatiable d’être le meilleur de nous-mêmes ! Ce partenaire bien-aimé est notre compas cosmique infaillible, toujours disponible à nous aider à prendre les plus hautes décisions morales. La religion de l’esprit, l’expérience spirituelle personnelle nous réunit et nous permet de devenir de plus en plus compréhensifs et compatissants les uns envers les autres.
+La présence divine intérieure est à l’origine de notre désir humain de servir l’humanité, chaque membre de notre famille planétaire. C’est ce don divin qui crée cette soif insatiable d’être le meilleur de nous-mêmes ! Ce partenaire bien-aimé est notre compas cosmique infaillible, toujours disponible à nous aider à prendre les plus hautes décisions morales. La religion de l’esprit, l’expérience spirituelle personnelle nous réunit et nous permet de devenir de plus en plus compréhensifs et compatissants les uns envers les autres.
 
 C’est l’expérience de traverser le paysage accidenté de la vie qui nous pousse à utiliser activement notre mental et notre âme pour décider du choix moral de la plus haute valeur possible. Lorsque notre mental choisit librement la solution la plus éthique, une telle décision devient une expérience religieuse.
 
@@ -77,7 +77,7 @@ Cet article reflète mon interprétation du _Livre d’Urantia_ ainsi que que me
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-4-dec-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-4-décembre-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 4, Déc. 2019 — Table des matières</span>
         </a>
         </td>

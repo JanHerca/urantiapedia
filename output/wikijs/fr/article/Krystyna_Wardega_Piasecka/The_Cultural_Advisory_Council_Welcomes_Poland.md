@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-5-dec-2022">
+        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-5-décembre-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 5, Déc. 2022 — Table des matières</span>
         </a>
         </td>
@@ -44,15 +44,15 @@ Ce fut un honneur pour moi de présenter la Pologne pour le Conseil Consultatif 
 
 On parle souvent de la Pologne comme un pays européen de l’est. Ce terme se rapporte à la nomenclature datant de la Guerre Froide ou d’avant. Suivant le type de critères que l’on prend, le centre géographique de l’Europe est localisé quelque part à l’est de la Pologne.
 
-Les Polonais, comme beaucoup d’autres européens, appartiennent au groupe culturel appelé les slaves, qui réunit beaucoup de groupes ethniques qui partagent les mêmes valeurs, cultures et croyances. Que le comportement slave, qui incarne les valeurs énoncées dans _Le Livre d’Urantia,_ soit communément connu comme : « Un invité chez soi, Dieu chez soi. »
+Les Polonais, comme beaucoup d’autres européens, appartiennent au groupe culturel appelé les slaves, qui réunit beaucoup de groupes ethniques qui partagent les mêmes valeurs, cultures et croyances. Que le comportement slave, qui incarne les valeurs énoncées dans _Le Livre d’Urantia,_ soit communément connu comme : « Un invité chez soi, Dieu chez soi. »
 
 L’histoire européenne, incluant la Pologne, fut agitée. Durant le dernier millénaire, les frontières de la Pologne ont changé de nombreuses fois. Après l’union entre les nations polonaise et lithuanienne, le territoire fut divisé en différentes parties par les pays voisins, trois fois, jusqu’à ce qu’il disparaisse des cartes du monde durant 123 ans. Ensuite, le territoire fut le théâtre de deux guerres mondiales, ainsi que de la Guerre Froide. Ce furent les valeurs communes et les idéaux qui maintinrent la société ensemble et lui permirent de survivre.
 
 Voici une vidéo accélérée qui montre les frontières de la Pologne depuis 990 à nos jours. https://www.youtube.com/watch?v=66y49BnxLfQ
 
-De nombreuses études universitaires sont dédiées au Commonwealth polonais-lituanien. Un centre spécial de recherche dédié à l’héritage historique, social et culturel de cette union a été créée à l’Université d’Aberdeen. Ce Commonwealth, créé en 1569, fut l’un des plus grand — sinon le plus grand — des états européens de son temps. Certains chercheurs constatèrent que cette union était quelque peu différente des précédentes et des suivantes, et l’ont appelé une « union fraternelle de peuples, et non d’états. »
+De nombreuses études universitaires sont dédiées au Commonwealth polonais-lituanien. Un centre spécial de recherche dédié à l’héritage historique, social et culturel de cette union a été créée à l’Université d’Aberdeen. Ce Commonwealth, créé en 1569, fut l’un des plus grand — sinon le plus grand — des états européens de son temps. Certains chercheurs constatèrent que cette union était quelque peu différente des précédentes et des suivantes, et l’ont appelé une « union fraternelle de peuples, et non d’états. »
 
-L’une des caractéristiques interessante à mentionner, est le _liberum veto_ — basé sur la thèse qu’il y aura toujours quelqu’un d’intègre pour dire « je ne suis pas d’accord » — le droit d’un individu de terminer une session du Sejm (la législature nationale). D’autres caractéristiques incluent les premières élections royales libres (1573) ; la fusion de l’Église Orthodoxe avec l’Église Catholique Romaine (1596) ; la première constitution européenne et la seconde constitution mondiale (1791).
+L’une des caractéristiques interessante à mentionner, est le _liberum veto_ — basé sur la thèse qu’il y aura toujours quelqu’un d’intègre pour dire « je ne suis pas d’accord » — le droit d’un individu de terminer une session du Sejm (la législature nationale). D’autres caractéristiques incluent les premières élections royales libres (1573) ; la fusion de l’Église Orthodoxe avec l’Église Catholique Romaine (1596) ; la première constitution européenne et la seconde constitution mondiale (1791).
 
 Le Bureau Général des statistiques montre l’homogénéité des religions. Près de 90% des interrogés déclaraient appartenir à l’Église Catholique Romaine, en 2018. Cependant, il y a eu des changements significatifs ces dernières années. Le Centre de Recherche de l’Opinion Publique (CBOS) montre qu’il y a un déclin général continu de personnes ayant des pratiques religieuses. Plus le groupe est jeune, plus le pourcentage de non pratiquants est élevé. Ce déclin suggère que les Polonais assument leur foi mais s’éloignent des institutions de l’église.
 
@@ -87,7 +87,7 @@ En 2023, les quatre membres du Conseil Consultatif Culturel planifieront des ré
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-5-dec-2022">
+        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-5-décembre-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 5, Déc. 2022 — Table des matières</span>
         </a>
         </td>

@@ -244,7 +244,7 @@ Don't contradict or try to prove it isn't. Don't take aything away from anyone. 
 
 8. Where did the book come from?
 
-Discuss the Adjuster and the soul, and cite passage about the Reserve Corps. Also midwayer paper. Rest your case on the references — beyond that we don't know. Four references on contact personality — [UB 77:8.8](/en/The_Urantia_Book/77#p8_8); [UB 110:5.7](/en/The_Urantia_Book/110#p5_7); [UB 113:2.6](/en/The_Urantia_Book/113#p2_6); [UB 114:7.9](/en/The_Urantia_Book/114#p7_9).
+Discuss the Adjuster and the soul, and cite passage about the Reserve Corps. Also midwayer paper. Rest your case on the references — beyond that we don't know. Four references on contact personality — <a id="a246_201"></a>[UB 77:8.8](/en/The_Urantia_Book/77#p8_8); <a id="a246_244"></a>[UB 110:5.7](/en/The_Urantia_Book/110#p5_7); <a id="a246_289"></a>[UB 113:2.6](/en/The_Urantia_Book/113#p2_6); <a id="a246_334"></a>[UB 114:7.9](/en/The_Urantia_Book/114#p7_9).
 
 9. What shall I do to be saved?
 

@@ -70,7 +70,7 @@ Mon mari et moi, avons parrainé et participé à des groupes d’études à Mal
 
 Depuis 2005, nous avons reçu des groupes de cinq à sept personnes qui viennent des Pays-Bas de trois jours à une semaine. Pendant ces groupes d’étude, nous étudions le livre par thèmes comme manière d’approfondir notre compréhension des concepts de base du livre. Cela donne aux Néerlandais ( et à nous ) l’opportunité d’étudier le livre en profondeur et de découvrir la belle Bretagne, en France, où nous habitons. Ils logent dans les chambres d’hôtes voisines, et nous leur servons un déjeuner fait maison, lors de l’étude en groupe qui s’étend sur toute la journée. Nous sommes une famille spirituelle qui partage de toutes sortes de façons.
 
-C’est un tel joie !C’est à chaque fois, une bénédiction et un honneur d’être ensemble, d’apprendre, et de recevoir tant en retour ! Un groupe d’étude suit l’archétype de l’Univers qui est de partager le savoir et l’expérience_. « On ne possède la connaissance qu’en le partageant ; elle est sauvegardée par la sagesse et rendue sociale par l’amour »._ <a id="a72_352"></a>[[LU 48:7.28](/fr/The_Urantia_Book/48#p7_28)]
+C’est un tel joie ! C’est à chaque fois, une bénédiction et un honneur d’être ensemble, d’apprendre, et de recevoir tant en retour ! Un groupe d’étude suit l’archétype de l’Univers qui est de partager le savoir et l’expérience. _« On ne possède la connaissance qu’en le partageant ; elle est sauvegardée par la sagesse et rendue sociale par l’amour »._ <a id="a72_353"></a>[[LU 48:7.28](/fr/The_Urantia_Book/48#p7_28)]
 
 > «De nombreuses personnes ressentent le besoin de servir, le besoin d'en faire plus, et ils commencent à former leur propre groupe d'étude dans leur région.»
 

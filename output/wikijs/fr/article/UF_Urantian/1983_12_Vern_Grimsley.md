@@ -35,7 +35,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 ## Vern Grimsley
 
-Chers lecteurs du _Le Livre d'Urantia_ :
+Chers lecteurs du _Le Livre d'Urantia_ :
 
 Nous vous écrivons au sujet de certains événements en développement au sein du lectorat du Mouvement Urantia que nous considérons comme de la plus grande gravité et préoccupation.
 

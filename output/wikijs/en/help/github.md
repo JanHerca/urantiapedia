@@ -54,7 +54,7 @@ The process for a “Editor-in-Chief” will be as follows:
 6. This *pull requests* of “Editors-in-Chief” are reviewed by “Administrators”, who are in charge of doing a *merge* with the main branch (master) of all those changes that are correct. Any changes that are not correct will be rejected and “Editors-in-Chief” will be notified to fix them.
 7. When changes are OK an “Administrator” do a *merge* of them and they are uploaded automatically to the web. They are usually available in a few minutes depending on the number of changes and their type.
 
-![](/image/github_workflow_version_2.png)
+![](/image/help/github_workflow_version_2.png)
 
 ## Setting up the *Urantiapedia* project
 
@@ -81,7 +81,7 @@ To know about the milestones of the project check [Milestones of Urantiapedia](/
 
 Currently all tasks except 2 have been completed.
 
-![](/image/formats.png)
+![](/image/help/formats.png)
 
 ### Milestone II: Books, articles, study aids, schemas and indexes
 

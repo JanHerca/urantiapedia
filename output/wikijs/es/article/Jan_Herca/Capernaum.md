@@ -3,7 +3,7 @@ title: "Cafarnaúm"
 description: 
 published: true
 date: 2023-09-28T14:02:03.086Z
-tags: Jesus, Jesus times, place
+tags: Jesus, Jesus times, place, article
 editor: markdown
 dateCreated: 2023-09-28T14:02:03.086Z
 ---
@@ -120,7 +120,6 @@ Estaremos atentos a futuras campañas arqueólogicas en la zona de Cafarnaúm. C
 
 ## La parada de las caravanas
 
-
 Crossan y Reed no mencionan ni de pasada la posibilidad de una parada de caravanas en Cafarnaúm, aun cuando está constatado que una de las calzadas romanas más habituales de los viajeros, la _via Maris_, pasaba por allí. Tampoco los excavadores franciscanos de Cafarnaúm incluyen en sus informes datos que evidencien la existencia de alguna edificación destinada a albergar caravanas.
 
 Resulta sorprendente que ninguna de las fuentes tenga en cuenta que la proximidad de la _via Maris_ supondría un lógico trasiego ingente de caravanas con mercancías y viajeros.
@@ -150,7 +149,6 @@ Las excavaciones arqueológicas y el análisis de los expertos están aclarando 
 - [Yacimientos arqueológicos de Cafarnaúm](http://198.62.75.1/www1/ofm/sites/TScpmain.html). (El enlace original está roto pero se puede acceder a una copia en [Internet Archive](https://web.archive.org/web/20120118210609/http://198.62.75.1/www1/ofm/sites/TScpmenu.html).)
 
 - [La via Maris, Wikipedia](http://en.wikipedia.org/wiki/Via_Maris).
-
 
 ## Notas
 

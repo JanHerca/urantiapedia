@@ -39,7 +39,7 @@ dateCreated: 2023-6-21T8:13:38Z
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/005.jpg">
 </figure>
 
-Les principales tâches du secrétaire consistent à tenir les registres de l’organisation. Ces tâches comprennent : l’enregistrement des procès-verbaux des réunions du Conseil général ; rassembler les informations du recensement de la Fellowship ; et l’enregistrement des procès-verbaux des réunions de la société Fellowship, la Fifth Epochal Fellowship. Le secrétaire est également chargé de tenir à jour les registres des membres de la société.
+Les principales tâches du secrétaire consistent à tenir les registres de l’organisation. Ces tâches comprennent : l’enregistrement des procès-verbaux des réunions du Conseil général ; rassembler les informations du recensement de la Fellowship ; et l’enregistrement des procès-verbaux des réunions de la société Fellowship, la Fifth Epochal Fellowship. Le secrétaire est également chargé de tenir à jour les registres des membres de la société.
 
 Le secrétaire est membre du Conseil général et du Comité exécutif et participe à toutes les discussions et décisions de ces instances. Cela se traduit souvent par des tâches assignées qui nécessitent plus de temps et d'efforts que les tâches principales de tenue de dossiers.
 

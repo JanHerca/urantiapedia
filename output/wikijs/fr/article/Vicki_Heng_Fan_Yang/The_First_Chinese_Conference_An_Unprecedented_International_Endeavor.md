@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-3-oct-2020">
+        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-3-octobre-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 3, Oct. 2020 — Table des matières</span>
         </a>
         </td>
@@ -57,7 +57,7 @@ La logistique de cette réunion en ligne ne fut pas si facile.Les fuseaux horair
 <figcaption><em>Taichung City, Taiwan</em></figcaption>
 </figure>
 
-Nos deux jours furent chargés d’un mélange de présentations reliées au livre d’Urantia et parsemées de prières et de méditation. Les présentations furent données par : Richard Zhu, traducteur du _Livre d’Urantia,_ en chinois ; par Georges Michelson-Dupont, Trustee de la Fondation Urantia et Directeur des Traductions ; par Susanne Kelly de Dallas, Texas, une lectrice de longue date et une très bonne amie ; et par Meifeng, l’un de mes étudiants de Taïwan, qui présenta «  La Gravité Universelle vs. Créer la Réalité par la Croyance. »
+Nos deux jours furent chargés d’un mélange de présentations reliées au livre d’Urantia et parsemées de prières et de méditation. Les présentations furent données par : Richard Zhu, traducteur du _Livre d’Urantia,_ en chinois ; par Georges Michelson-Dupont, Trustee de la Fondation Urantia et Directeur des Traductions ; par Susanne Kelly de Dallas, Texas, une lectrice de longue date et une très bonne amie ; et par Meifeng, l’un de mes étudiants de Taïwan, qui présenta «  La Gravité Universelle vs. Créer la Réalité par la Croyance. »
 
 Je vais maintenant, vous permettre d’entendre directement plusieurs de nos présentateurs estimés.
 
@@ -71,16 +71,16 @@ Dès le commencement de la traduction, en partenariat avec la Fondation, j’ai 
 <img src="/image/article/UF_News_Online/2020_10/009.jpg">
 </figure>
 
-Voici un exemple d’un concept unique du _Livre d’Urantia_, le plan d’ascension, qui est peu connu dans la culture orientale. La plupart des gens s’en tiennent aux anciennes croyances des religions traditionnelles. Je présentai un aperçu du voyage de l’ascension au Paradis, des humains, espérant que les détails éclaireraient les participants sur les buts et croyances de leur vie. Les sujets principaux comprenaient l’origine du Paradis, l’univers central parfait, le but du plan d’ascension mortel, le chemin de l’ascension au Paradis, et la préparation pour l’ascension dans la vie journalière. Le ressenti fut très positif ! Certains ont dit que cela avait élargi leur vision et leur avait donné une meilleure explication du but de la vie. Ils dirent qu’ils passeraient plus de temps à lire le livre et à vivre leurs vies d’une façon plus constructive.
+Voici un exemple d’un concept unique du _Livre d’Urantia_, le plan d’ascension, qui est peu connu dans la culture orientale. La plupart des gens s’en tiennent aux anciennes croyances des religions traditionnelles. Je présentai un aperçu du voyage de l’ascension au Paradis, des humains, espérant que les détails éclaireraient les participants sur les buts et croyances de leur vie. Les sujets principaux comprenaient l’origine du Paradis, l’univers central parfait, le but du plan d’ascension mortel, le chemin de l’ascension au Paradis, et la préparation pour l’ascension dans la vie journalière. Le ressenti fut très positif ! Certains ont dit que cela avait élargi leur vision et leur avait donné une meilleure explication du but de la vie. Ils dirent qu’ils passeraient plus de temps à lire le livre et à vivre leurs vies d’une façon plus constructive.
+
+## Tamara Strumfeld
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2020_10/008.jpg">
 <figcaption><em>Tamara Strumfeld</em></figcaption>
 </figure>
 
-## Tamara Strumfeld
-
-J’ai eu le privilège de représenter la Fondation Urantia et de partager sa mission, sa vision et ses valeurs, avec un groupe d’étudiants chinois qui avait découvert le _Livre d’Urantia_ et ses enseignements. Combien j’aurais voulu être là en personne ! Peut-être, aurons-nous cette possibilité dans le futur.
+J’ai eu le privilège de représenter la Fondation Urantia et de partager sa mission, sa vision et ses valeurs, avec un groupe d’étudiants chinois qui avait découvert le _Livre d’Urantia_ et ses enseignements. Combien j’aurais voulu être là en personne ! Peut-être, aurons-nous cette possibilité dans le futur.
 
 Ma présentation fit connaître à l’auditoire, l’historique du 533 Diversey, la maison natale du projet Urantia. Comme beaucoup de lecteurs le savent déjà, la Fondation fut fondée en 1950, en tant que trust caritatif. Le magnifique bâtiment en grès rose, à Chicago, fut la maison des Docteurs William et Léna Sandler, qui furent tous les deux déterminants, dans les premiers temps. Ce fut Dr.William qui légua le bâtiment à la Fondation en 1969. Nous y sommes toujours depuis.
 
@@ -113,18 +113,16 @@ Je voudrais aussi honorer Vicki Yang pour sa précieuse contribution. Son soutie
 
 Nous espérons que ces enseignements aideront à transformer un monde troublé et qu’ils nous réuniront pour que nous puissions grandir tous ensemble vers la lumière et la vie.
 
----
+## Suzanne Kelly
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2020_10/016.jpg">
 <figcaption><em>Suzanne Kelly</em></figcaption>
 </figure>
 
-## Suzanne Kelly
-
 Depuis 1989, Vicki et moi sommes de très bonnes amies, et ceci dès notre première rencontre en Californie. Un an plus tard, je lui rendis visite à Taipei durant quatre mois. Vicki est une traductrice professionnelle et elle me demanda de lui apporter une Bible pour pouvoir faire des recherches sur Melchizedek. Je lui apportai une ainsi que mon _Livre d’Urantia._
 
-En voyant sa taille, Vicki me demanda de lui lire de vive voix pendant qu’elle traduisait et je le fis avec enthousiasme. Lorsque j’en lisais quelques paragraphes, elle s’exclamait, « c’est formidable, mais l’on ne peut pas le traduire. Peux-tu me l’expliquer d’une autre manière ? » je le fis donc, quelquefois deux ou trois fois, jusqu’à ce que se soit traduisible. J’en ai appris beaucoup plus pendant ces quatre mois à Taipei, qu’en trois ans d’étude et de lecture du livre ! Cela présageait ce qui se développerai plus tard dans l’avenir de Vicki avec le projet de la traduction chinoise.
+En voyant sa taille, Vicki me demanda de lui lire de vive voix pendant qu’elle traduisait et je le fis avec enthousiasme. Lorsque j’en lisais quelques paragraphes, elle s’exclamait, « c’est formidable, mais l’on ne peut pas le traduire. Peux-tu me l’expliquer d’une autre manière ? » je le fis donc, quelquefois deux ou trois fois, jusqu’à ce que se soit traduisible. J’en ai appris beaucoup plus pendant ces quatre mois à Taipei, qu’en trois ans d’étude et de lecture du livre ! Cela présageait ce qui se développerai plus tard dans l’avenir de Vicki avec le projet de la traduction chinoise.
 
 30 ans plus tard, Vicki fut approchée par Richard Zhu, qui avait été engagé par la Fondation pour traduire le _Livre d’Urantia,_ en Chinois Simplifié. Vicki et Richard commencèrent à travailler ensemble en 2016 pour corriger son premier jet afin d’atteindre les standards de publication.
 
@@ -132,9 +130,9 @@ La boucle fut bouclée lorsque Vicki m’appela pour m’inviter à parler à un
 
 La boucle fut bouclée lorsque Vicki m’appela pour m’inviter à parler à une conférence en mars 2019 à Taïwan. À cause de la pandémie, la rencontre se transforma en réunion Zoom. Elle me dit que beaucoup de ses étudiants se demandaient pourquoi ils devaient lire le _Livre d’Urantia._ Ce fut le thème de ma présentation.
 
-Je me mis avec impatiente à rassembler les différentes opinions des étudiants, de toute la planète, du pourquoi il était important, pour de nouveaux étudiants à Taipei et en Chine, de lire le _Livre d’Urantia._ Mon discours comprenait un grand nombre de leurs commentaires, incluant :
+Je me mis avec impatiente à rassembler les différentes opinions des étudiants, de toute la planète, du pourquoi il était important, pour de nouveaux étudiants à Taipei et en Chine, de lire le _Livre d’Urantia._ Mon discours comprenait un grand nombre de leurs commentaires, incluant :
 
-« Vous devriez lire le _Livre d’Urantia_ parce que l’âme crie pour ses vérités. Le peuple chinois a longtemps chéri, élevé et respecté la recherche de la vérité. Les auteurs du _Livre d’Urantia_ déclarent que Lao-Tse et Confucius sont les deux plus grands enseignants de vérité de l’histoire de l’humanité. »
+« Vous devriez lire le _Livre d’Urantia_ parce que l’âme crie pour ses vérités. Le peuple chinois a longtemps chéri, élevé et respecté la recherche de la vérité. Les auteurs du _Livre d’Urantia_ déclarent que Lao-Tse et Confucius sont les deux plus grands enseignants de vérité de l’histoire de l’humanité. »
 <br style="clear:both;"/>
 
 <figure id="Figure_9" class="image urantiapedia">
@@ -142,26 +140,26 @@ Je me mis avec impatiente à rassembler les différentes opinions des étudiants
 <figcaption><em>Langues parlées en Chine</em></figcaption>
 </figure>
 
-« Ça simplifie tellement ce qui serait autrement mystifié. Et cela élargit et présente clairement le message de l’Évangile que Jésus mourut en partageant … validant qu’il y a un Dieu ; et de plus, que cette Déité est actuellement Votre, et mon Parent. »
+« Ça simplifie tellement ce qui serait autrement mystifié. Et cela élargit et présente clairement le message de l’Évangile que Jésus mourut en partageant … validant qu’il y a un Dieu ; et de plus, que cette Déité est actuellement Votre, et mon Parent. »
 
-« Si vous cherchez le pourquoi et les raisons et les causes, le plus haut but et la destinée de la vie, alors lisez le _Livre d’Urantia._ Comprendre le but, l’origine, l’histoire et la destinée de tout humain ou de l’existence mortelle. Si vous voulez connaître votre destinée spirituelle, lisez-le. »
+« Si vous cherchez le pourquoi et les raisons et les causes, le plus haut but et la destinée de la vie, alors lisez le _Livre d’Urantia._ Comprendre le but, l’origine, l’histoire et la destinée de tout humain ou de l’existence mortelle. Si vous voulez connaître votre destinée spirituelle, lisez-le. »
 
 C’est le message du _Livre d’Urantia_ pour le prochain âge – les idéaux qui inspireront la prochaine avancée humaine. On attend de nous, d’être les pionniers de cette avancée – pour nous d’enjamber le fossé que le _Livre d’Urantia_ comble vers le futur, instaurant le royaume dans nos cœurs et devenant les graines pour une société meilleure, une société qui sera un pas plus près, de la perfection de lumière et de vie.
 
-Peut-être, un jour je visiterai Taipei encore une fois – avec un exemplaire de la traduction chinoise, rendue possible par les traducteurs infatigables et incroyablement dévoués qui ont entrepris cette immense tâche difficile !
+Peut-être, un jour je visiterai Taipei encore une fois – avec un exemplaire de la traduction chinoise, rendue possible par les traducteurs infatigables et incroyablement dévoués qui ont entrepris cette immense tâche difficile !
 
-> _La stabilité et la persistance étonnantes dès la culture chinoise sont une conséquence du rôle majeur accordé à la famille, car la civilisation dépend directement du fonctionnement efficace de la famille. En Chine, la famille atteignit une importance sociale, et même une signification religieuse, que peu d’autres peuples approchèrent._ <a id="a152_341"></a>[LU 79:8.9](/fr/The_Urantia_Book/79#p8_9)
+> _La stabilité et la persistance étonnantes dès la culture chinoise sont une conséquence du rôle majeur accordé à la famille, car la civilisation dépend directement du fonctionnement efficace de la famille. En Chine, la famille atteignit une importance sociale, et même une signification religieuse, que peu d’autres peuples approchèrent._ <a id="a150_341"></a>[LU 79:8.9](/fr/The_Urantia_Book/79#p8_9)
+
+## Georges Michelson-Dupont
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2020_10/015.jpg">
 <figcaption><em>Georges Michelson-Dupont</em></figcaption>
 </figure>
 
-## Georges Michelson-Dupont
-
 La présentation de la Révélation Urantia aux étudiants de langue chinoise fut un événement marquant. Après près de 10 ans d’efforts, le résultat est une abondante moisson, due à la relation fructueuse entre Richard Zhu, le traducteur, et la Fondation Urantia. Le potentiel de cette initiative se mesure par le fait que plus d’un milliard d’êtres humains auront bientôt accès à la révélation Urantia, dans leur langue natale. En 2100, 10 pays hébergeront plus de la moitié de la population mondiale, et l’un d’eux parle le chinois mandarin.
 
-Vicki m’a demandé de préparer des sujets spécifiques pour les présenter à la conférence. Le premier était un aperçu du _Livre d’Urantia,_ se concentrant sur la relation de Dieu avec l’homme. Ceci me permit de faire un exposé sur le commandement divin incontournable « soyez parfait comme Dieu est parfait » qui donne un objectif pour chaque être humain. Je révélai aux étudiants avides, le plan de perfection divin, l’habitation du fragment divin et sa contribution, le don de la personnalité et le libre arbitre, le mental, la fondation de la foi, et la poursuite d’idéaux plus élevés.
+Vicki m’a demandé de préparer des sujets spécifiques pour les présenter à la conférence. Le premier était un aperçu du _Livre d’Urantia,_ se concentrant sur la relation de Dieu avec l’homme. Ceci me permit de faire un exposé sur le commandement divin incontournable « soyez parfait comme Dieu est parfait » qui donne un objectif pour chaque être humain. Je révélai aux étudiants avides, le plan de perfection divin, l’habitation du fragment divin et sa contribution, le don de la personnalité et le libre arbitre, le mental, la fondation de la foi, et la poursuite d’idéaux plus élevés.
 
 Mon second discours était à propos de Machiventa Melchizedek et le but de son incarnation sur Urantia. Je présentai ses enseignements, ses missionnaires et leur influence sur les pays d’Asie, spécialement en Chine. Ce sujet intéressa particulièrement l’audience chinoise à cause du caractère familier de son influence à travers Lao-Tse et Confucius.
 
@@ -200,7 +198,7 @@ Un jour additionnel fut passé à répondre aux questions des participants. Je s
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-3-oct-2020">
+        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-3-octobre-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 3, Oct. 2020 — Table des matières</span>
         </a>
         </td>

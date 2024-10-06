@@ -87,7 +87,7 @@ La teoría y el experimento nos llevan hacia el interior desde lo mundano hasta 
 
 _El Libro de URANTIA_, además de su papel más importante, puede encender la curiosidad y el asombro de sus lectores. En muchos campos, puede ampliar nuestro conocimiento. En otros, como la causalidad trascendental, simplemente menciona que existen ciertos fenómenos. Sobre este asunto de la Materia, arroja algo de luz. Pero como se indica en el Documento 19:
 
-> _... la mente humana anhelaría normalmente acercarse a la filosofía cósmica descrita en estas revelaciones procediendo de lo simple y de lo finito a lo complejo y a lo infinito, de los orígenes humanos a los destinos divinos. Pero este camino no conduce a la ***sabiduría espiritual.*** Este procedimiento es el camino más fácil para llegar a cierta forma de ***conocimiento genético,*** que en el mejor de los casos sólo puede revelar el origen del hombre, pero que revela poco o nada sobre su destino divino._ ([LU 19:1.5](/es/The_Urantia_Book/19#p1_5))
+> _... la mente humana anhelaría normalmente acercarse a la filosofía cósmica descrita en estas revelaciones procediendo de lo simple y de lo finito a lo complejo y a lo infinito, de los orígenes humanos a los destinos divinos. Pero este camino no conduce a la ***sabiduría espiritual.*** Este procedimiento es el camino más fácil para llegar a cierta forma de ***conocimiento genético,*** que en el mejor de los casos sólo puede revelar el origen del hombre, pero que revela poco o nada sobre su destino divino._ (<a id="a89_515"></a>[LU 19:1.5](/es/The_Urantia_Book/19#p1_5))
 
 Como se sugirió anteriormente, aunque la relación entre ultimatones y leptoquarks puede ser fascinante, y su comprensión de gran valor para las investigaciones, y a través de la curiosidad científica crea un hambre terrible, los detalles realmente deben pasar a un segundo plano. 
 
@@ -103,31 +103,31 @@ Tal esquema requería una **secuencia**, que requería un **finito**, que requer
 
 Este esquema hace necesario el nivel espacial del superuniverso: un nido para contener y proteger a los finalitarios no formados (humanos) mientras reúnen un grado inicial de realidad; adquirir la constancia para empezar a sostenerse en medio de la _simultaneidad circular_ del mundo más amplio. Considere las siguientes observaciones:
 
-> _El concepto del YO SOY ***existencial***, solitario, pretrinitario e inaccesible, y el postulado del YO SOY ***experiencial***, accesible y posterior a la Trinidad de Trinidades, no son más que una sola y misma hipótesis; ningún cambio real se ha producido en el Infinito; todos los desarrollos aparentes se deben a las capacidades crecientes para abarcar la realidad y para comprender el cosmos._ ([LU 106:9.9](/es/The_Urantia_Book/106#p9_9))
+> _El concepto del YO SOY ***existencial***, solitario, pretrinitario e inaccesible, y el postulado del YO SOY ***experiencial***, accesible y posterior a la Trinidad de Trinidades, no son más que una sola y misma hipótesis; ningún cambio real se ha producido en el Infinito; todos los desarrollos aparentes se deben a las capacidades crecientes para abarcar la realidad y para comprender el cosmos._ (<a id="a105_402"></a>[LU 106:9.9](/es/The_Urantia_Book/106#p9_9))
 
-> _Todas estas múltiples realidades están unificadas ***de manera absoluta*** por las diversas triunidades, ***de manera funcional*** por los Arquitectos del Universo Maestro, y *de manera relativa* por los Siete Espíritus Maestros, los coordinadores subsupremos de la divinidad de Dios Séptuple._ ([LU 105:7.16](/es/The_Urantia_Book/105#p7_16))
+> _Todas estas múltiples realidades están unificadas ***de manera absoluta*** por las diversas triunidades, ***de manera funcional*** por los Arquitectos del Universo Maestro, y *de manera relativa* por los Siete Espíritus Maestros, los coordinadores subsupremos de la divinidad de Dios Séptuple._ (<a id="a107_299"></a>[LU 105:7.16](/es/The_Urantia_Book/105#p7_16))
 
-> _Incluso el espacio mismo no es más que un estado último, un estado atenuado ***dentro*** de la absolutidad relativa de las zonas tranquilas de espacio intermedio._ ([LU 106:7.7](/es/The_Urantia_Book/106#p7_7))
+> _Incluso el espacio mismo no es más que un estado último, un estado atenuado ***dentro*** de la absolutidad relativa de las zonas tranquilas de espacio intermedio._ (<a id="a109_168"></a>[LU 106:7.7](/es/The_Urantia_Book/106#p7_7))
 
-> _De todas las cosas no absolutas, el espacio es el que está más cerca de ser absoluto. El espacio es en apariencia absolutamente último. La verdadera dificultad que tenemos para comprender el espacio en el nivel material se debe al hecho de que, aunque los cuerpos materiales existen en el espacio, el espacio también existe en esos mismos cuerpos materiales. Aunque hay muchas cosas relacionadas con el espacio que son absolutas, eso no quiere decir que el espacio sea absoluto._ ([LU 118:3.5](/es/The_Urantia_Book/118#p3_5))
+> _De todas las cosas no absolutas, el espacio es el que está más cerca de ser absoluto. El espacio es en apariencia absolutamente último. La verdadera dificultad que tenemos para comprender el espacio en el nivel material se debe al hecho de que, aunque los cuerpos materiales existen en el espacio, el espacio también existe en esos mismos cuerpos materiales. Aunque hay muchas cosas relacionadas con el espacio que son absolutas, eso no quiere decir que el espacio sea absoluto._ (<a id="a111_484"></a>[LU 118:3.5](/es/The_Urantia_Book/118#p3_5))
 
 Los siete superuniversos del gran universo son claramente intrusiones inusuales dentro de los dominios absonitos. ¿Qué calificaciones y restricciones, qué sorprendentes pliegues y proyecciones tuvieron que hacerse en el nivel espacial del gran universo para permitir que algo tan «absolutamente último» como el espacio albergara siete nidos de espacio-tiempo? ¿Qué trucos de geometría y espejos, qué juegos de manos dimensionales permiten a los humanos percibir y moverse a través de la secuencia que llamamos tiempo?
 
 Considere las palabras de Jesús al sacerdote mitraico en el Documento 130:
 
-> _El tiempo es un nombre que se ha dado al orden en que suceden los acontecimientos, que permite reconocerlos y separarlos._ ([LU 130:7.4](/es/The_Urantia_Book/130#p7_4))
+> _El tiempo es un nombre que se ha dado al orden en que suceden los acontecimientos, que permite reconocerlos y separarlos._ (<a id="a117_127"></a>[LU 130:7.4](/es/The_Urantia_Book/130#p7_4))
 
-> _Lo que anteriormente aparecía como una sucesión de acontecimientos se verá ahora como un ciclo completo y perfectamente relacionado; de esta manera, la simultaneidad circular desplazará cada vez más a la antigua conciencia de la secuencia lineal de los acontecimientos._ ([LU 130:7.5](/es/The_Urantia_Book/130#p7_5))
+> _Lo que anteriormente aparecía como una sucesión de acontecimientos se verá ahora como un ciclo completo y perfectamente relacionado; de esta manera, la simultaneidad circular desplazará cada vez más a la antigua conciencia de la secuencia lineal de los acontecimientos._ (<a id="a119_275"></a>[LU 130:7.5](/es/The_Urantia_Book/130#p7_5))
 
-> _Hay siete conceptos diferentes del espacio tal como está condicionado por el tiempo. El espacio se mide por el tiempo y no el tiempo por el espacio..._ ([LU 130:7.6](/es/The_Urantia_Book/130#p7_6))
+> _Hay siete conceptos diferentes del espacio tal como está condicionado por el tiempo. El espacio se mide por el tiempo y no el tiempo por el espacio..._ (<a id="a121_156"></a>[LU 130:7.6](/es/The_Urantia_Book/130#p7_6))
 
-> _Cuanto más se aproxima la conciencia a la noción de las siete dimensiones cósmicas, ..._ ([LU 130:7.6](/es/The_Urantia_Book/130#p7_6))
+> _Cuanto más se aproxima la conciencia a la noción de las siete dimensiones cósmicas, ..._ (<a id="a123_93"></a>[LU 130:7.6](/es/The_Urantia_Book/130#p7_6))
 
-> _A fin de cuentas, los mortales sobrevivientes alcanzan la identidad en un universo de siete dimensiones._ ([LU 130:7.7](/es/The_Urantia_Book/130#p7_7))
+> _A fin de cuentas, los mortales sobrevivientes alcanzan la identidad en un universo de siete dimensiones._ (<a id="a125_110"></a>[LU 130:7.7](/es/The_Urantia_Book/130#p7_7))
 
-> _Cuando el hombre alcanza la mente que media entre los planos material y espiritual de existencia, sus ideas del espacio-tiempo se amplían enormemente en cuanto a la calidad de percepción y a la cantidad de experiencia._ ([LU 130:7.8](/es/The_Urantia_Book/130#p7_8))
+> _Cuando el hombre alcanza la mente que media entre los planos material y espiritual de existencia, sus ideas del espacio-tiempo se amplían enormemente en cuanto a la calidad de percepción y a la cantidad de experiencia._ (<a id="a127_224"></a>[LU 130:7.8](/es/The_Urantia_Book/130#p7_8))
 
-> _A medida que la personalidad continúa su camino hacia arriba y hacia el interior hasta los niveles trascendentales de semejanza con la Deidad, el concepto del espacio-tiempo se acercará cada vez más a los conceptos sin tiempo y sin espacio de los Absolutos._ ([LU 130:7.8](/es/The_Urantia_Book/130#p7_8))
+> _A medida que la personalidad continúa su camino hacia arriba y hacia el interior hasta los niveles trascendentales de semejanza con la Deidad, el concepto del espacio-tiempo se acercará cada vez más a los conceptos sin tiempo y sin espacio de los Absolutos._ (<a id="a129_263"></a>[LU 130:7.8](/es/The_Urantia_Book/130#p7_8))
 
 Entonces, los Organizadores Primarios de la Fuerza Maestra Eventualizada condicionan una zona de lo absoluto para acomodar lo absonito (universo maestro).
 
@@ -137,11 +137,11 @@ Luego de lo cual cada uno de los siete Directores Supremos del Poder condicionó
 
 ## Tonificación Diferencial de Cada Superuniverso
 
-> _Estos seres poderosos son los ascendientes físicos de la inmensa multitud de centros del poder y, a través de ellos, de los controladores físicos dispersos por los siete superuniversos. Estos organismos subordinados del control físico son básicamente uniformes, idénticos, salvo en lo que se refiere al tono diferencial de cada cuerpo superuniversal. Con el objeto de cambiar de servicio superuniversal, les bastaría simplemente con regresar al Paraíso para modificar la tonalidad._ ([LU 29:1.4](/es/The_Urantia_Book/29#p1_4))
+> _Estos seres poderosos son los ascendientes físicos de la inmensa multitud de centros del poder y, a través de ellos, de los controladores físicos dispersos por los siete superuniversos. Estos organismos subordinados del control físico son básicamente uniformes, idénticos, salvo en lo que se refiere al tono diferencial de cada cuerpo superuniversal. Con el objeto de cambiar de servicio superuniversal, les bastaría simplemente con regresar al Paraíso para modificar la tonalidad._ (<a id="a139_487"></a>[LU 29:1.4](/es/The_Urantia_Book/29#p1_4))
 
 ¿Podemos especular que la **tonificación** de cada superuniverso está relacionada con ese subconjunto de dimensiones absonitas sobre las que se sustenta su economía finita? ¿Por cuál de sus ejes absonitos CORRERÁ SU TIEMPO?
 
-> _...Los Mensajeros Solitarios son el único tipo disponible de inteligencias espirituales —aparte quizás de los Espíritus Inspirados Trinitarios— que pueden ser enviados directamente desde la sede de un superuniverso hasta la sede de otro. Todas las demás personalidades deben pasar por Havona y los mundos ejecutivos de los Espíritus Maestros para realizar estos viajes._ ([LU 23:2.15](/es/The_Urantia_Book/23#p2_15))
+> _...Los Mensajeros Solitarios son el único tipo disponible de inteligencias espirituales —aparte quizás de los Espíritus Inspirados Trinitarios— que pueden ser enviados directamente desde la sede de un superuniverso hasta la sede de otro. Todas las demás personalidades deben pasar por Havona y los mundos ejecutivos de los Espíritus Maestros para realizar estos viajes._ (<a id="a143_375"></a>[LU 23:2.15](/es/The_Urantia_Book/23#p2_15))
 
 ¿Implica esto que sólo ciertas configuraciones de personalidad/mente pueden pasar cómodamente directamente entre superuniversos? ¿Por qué todos los demás necesitan entrar en un superuniverso a través de las salas de proyección de los Espíritus Rectores y sus Directores Supremos del Poder?
 

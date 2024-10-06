@@ -14,17 +14,17 @@ dateCreated: 2023-8-29T10:55:6Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/Judy_Van_Cleave/Noteworthy_Decisions_from_the_January_2014_Board_of_Trustees_Meeting">
+        <a href="/en/article/Judy_Van_Cleave/Noteworthy_Decisions_from_the_January_2014_Board_of_Trustees_Meeting">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Noteworthy Decisions from the January 2014 Board of Trustees Meeting</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volumen-8-número-1-marzo-2014">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 1, Marzo 2014 — Índice</span>
+        <a href="/en/index/articles_uf_news_online#volume-8-issue-1-march-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Issue 1, March 2014 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/es/article/Joanne_Strobel/Restoring_the_Birthplace_of_the_Fifth_Epochal_Revelation">
+        <a href="/en/article/Joanne_Strobel/Restoring_the_Birthplace_of_the_Fifth_Epochal_Revelation">
           <span class="pr-2">Restoring the Birthplace of the Fifth Epochal Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -67,25 +67,25 @@ Their outreach service brings to mind one of my favorite morontia mota statement
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
-- [Este artículo](https://www.urantia.org/news/2014-03/urantia-book-in-philippines-outreach-project-update)
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/es/news/2014-03/el-libro-de-urantia-en-filipinas-novedades-del-proyecto-de-asistencia)
 
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/Judy_Van_Cleave/Noteworthy_Decisions_from_the_January_2014_Board_of_Trustees_Meeting">
+        <a href="/en/article/Judy_Van_Cleave/Noteworthy_Decisions_from_the_January_2014_Board_of_Trustees_Meeting">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Noteworthy Decisions from the January 2014 Board of Trustees Meeting</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volumen-8-número-1-marzo-2014">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 1, Marzo 2014 — Índice</span>
+        <a href="/en/index/articles_uf_news_online#volume-8-issue-1-march-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Issue 1, March 2014 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/es/article/Joanne_Strobel/Restoring_the_Birthplace_of_the_Fifth_Epochal_Revelation">
+        <a href="/en/article/Joanne_Strobel/Restoring_the_Birthplace_of_the_Fifth_Epochal_Revelation">
           <span class="pr-2">Restoring the Birthplace of the Fifth Epochal Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

@@ -43,7 +43,7 @@ Por Marion Steward, Nueva Zelanda
 
 El invierno ya está aquí en nuestra parte del mundo, y hemos estado disfrutando tanto de días soleados como de noches bastante frías durante las últimas semanas. En Auckland, especialmente, los días soleados han sido un cambio bienvenido con respecto a la ronda aparentemente interminable de fuertes lluvias y tormentas que nos han afligido desde finales de enero. No ha habido suficiente tiempo entre estos eventos climáticos para limpiar después de las inundaciones y reparar carreteras, etc., y en este momento es muy difícil para muchas personas en diferentes partes de la Isla Norte.
 
-¡He estado reflexionando sobre el estímulo del Libro de Urantia a «deleitarnos con la incertidumbre»!
+¡He estado reflexionando sobre el estímulo del _Libro de Urantia_ a «deleitarnos con la incertidumbre»!
 
 > _...Pero mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a deleitarse con las incertidumbres, a enriquecerse con las decepciones, a entusiasmarse con los fracasos aparentes, a estimularse en presencia de las dificultades, a mostrar un valor indomable frente a la inmensidad, y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable._ (<a id="a47_397"></a>[LU 26:5.3](/es/The_Urantia_Book/26#p5_3))
 

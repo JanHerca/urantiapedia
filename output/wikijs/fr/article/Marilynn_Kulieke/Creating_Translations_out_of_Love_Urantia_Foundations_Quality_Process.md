@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-2-july-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-2-juillet-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 2, July 2019 — Table des matières</span>
         </a>
         </td>
@@ -42,7 +42,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Marilynn Kulieke, présidente des traductions, vice-présidente de la Fondation Urantia, Illinois, États-Unis_
 
-_Note de l’éditeur : Durant le Symposium Culturel qui se tint à la Fondation Urantia, en avril dernier, Marilynn donna une excellente et informative présentation sur le processus utilisé pour produire des traductions de qualité. Elle fut enregistrée en vidéo, regardez la, s’il vous plaît, ici. Le résultat final est une appréciation plus intense du travail incroyable requis pour traduire le Livre d’Urantia._
+_Note de l’éditeur : Durant le Symposium Culturel qui se tint à la Fondation Urantia, en avril dernier, Marilynn donna une excellente et informative présentation sur le processus utilisé pour produire des traductions de qualité. Elle fut enregistrée en vidéo, regardez la, s’il vous plaît, ici. Le résultat final est une appréciation plus intense du travail incroyable requis pour traduire le Livre d’Urantia._
 <br style="clear:both;"/>
 
 https://www.youtube.com/watch?v=_ufcn_nmc-A
@@ -53,7 +53,7 @@ Je suis ravie de servir comme présidente du Comité des Traductions. Les autres
 
 Notre but est d’être le producteur de traductions de la plus haute qualité et c’est pourquoi notre comité des traductions créa un processus systématique, basé sur notre amour pour la Révélation Urantia. Le processus de développement débuta en 2006 et est basé sur Le Guide Standard d’Assurance de Qualité pour les Traductions qui fut adopté par ASTM International.
 
-En appliquant ces standards, il devint évident qu’un processus de cinq étapes d’approximativement 40 ans ou plus, était nécessaire pour produire une traduction de haute qualité. Ces étapes sont précisées comme suit :
+En appliquant ces standards, il devint évident qu’un processus de cinq étapes d’approximativement 40 ans ou plus, était nécessaire pour produire une traduction de haute qualité. Ces étapes sont précisées comme suit :
 
 ```mermaid
 flowchart TB
@@ -134,7 +134,7 @@ flowchart TB
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-2-july-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-2-juillet-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 2, July 2019 — Table des matières</span>
         </a>
         </td>

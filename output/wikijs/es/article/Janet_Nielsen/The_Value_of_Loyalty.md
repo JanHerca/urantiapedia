@@ -34,7 +34,7 @@ dateCreated: 2023-9-16T10:55:6Z
 Janet Nielsen
 Portland, Oregón, EE.UU.
 
-**De todas las virtudes humanas, la lealtad es la piedra angular. La lealtad en la decisión humana es un verdadero indicador de integridad espiritual en un individuo. El crecimiento espiritual no puede tener lugar sin su presencia. En la progresión de la personalidad, la lealtad precede incluso al amor. La moral cósmica se funda en la «interacción entre libertad y lealtad» ([LU 39:4.10](/es/The_Urantia_Book/39#p4_10)). Jesús no nos exige sacrificio, pero sí requiere nuestra lealtad.**
+**De todas las virtudes humanas, la lealtad es la piedra angular. La lealtad en la decisión humana es un verdadero indicador de integridad espiritual en un individuo. El crecimiento espiritual no puede tener lugar sin su presencia. En la progresión de la personalidad, la lealtad precede incluso al amor. La moral cósmica se funda en la «interacción entre libertad y lealtad» (<a id="a36_377"></a>[LU 39:4.10](/es/The_Urantia_Book/39#p4_10)). Jesús no nos exige sacrificio, pero sí requiere nuestra lealtad.**
 
 
 ¡Felicitaciones, compañeros miembros de la IUA! Su presencia en esta lista es un testimonio de que su lealtad es sólida y exigente. Su membresía significa que desea cooperar. Aprender «cómo planificar con otros seres más sabios». Que desea dar crédito a quien lo merece. Aunque puede que no haya una recompensa material por su lealtad, en la eternidad, la verdadera libertad es la recompensa de la verdadera lealtad. Durante la última década, todos los lectores sinceros y creyentes del _Libro de URANTIA_ han tenido su fe y su lealtad severamente puestas a prueba. Se nos ha pedido que participemos en muchas empresas dudosas: equipar búnkeres para prepararnos para una catástrofe mundial, escuchar pronunciamientos «canalizados» en las reuniones del grupo de estudio de Urantia, incluso se nos ha pedido que ayudemos a financiar la impresión de versiones no autorizadas del _El Libro de URANTIA_ y ayudemos en el derrocamiento de la posesión por parte de la Fundación UrANTIA de los derechos de autor del texto y los símbolos de la revelación.
@@ -49,9 +49,9 @@ Usted y todos los miembros de la IUA están actuando como un dique contra la deg
 
 Hay muchas citas destacadas enumeradas en la Concordancia bajo «lealtad». Después de leerlos, ¿puede quedar alguna duda de que combinada con el amor, la lealtad es el pegamento del universo?
 
-> _¿Qué es la lealtad? Es el fruto de una apreciación inteligente de la fraternidad universal; uno no puede recibir mucho sin dar nada. A medida que ascendéis la escala de la personalidad, primero aprendéis a ser leales, luego a amar, después a ser filiales, y entonces podréis ser libres; pero hasta que no seáis finalitarios, hasta que no hayáis alcanzado la perfección de la lealtad, no podréis daros cuenta por vosotros mismos de la finalidad de la libertad._ ([LU 39:4.11](/es/The_Urantia_Book/39#p4_11))
+> _¿Qué es la lealtad? Es el fruto de una apreciación inteligente de la fraternidad universal; uno no puede recibir mucho sin dar nada. A medida que ascendéis la escala de la personalidad, primero aprendéis a ser leales, luego a amar, después a ser filiales, y entonces podréis ser libres; pero hasta que no seáis finalitarios, hasta que no hayáis alcanzado la perfección de la lealtad, no podréis daros cuenta por vosotros mismos de la finalidad de la libertad._ (<a id="a51_465"></a>[LU 39:4.11](/es/The_Urantia_Book/39#p4_11))
 
-> _7. *La lealtad* —la devoción al deber más elevado— ¿es deseable? Entonces el hombre debe caminar entre las posibilidades de traición y de deserción. El valor de la devoción al deber consiste en el peligro implícito de incumplirlo._ ([LU 3:5.12](/es/The_Urantia_Book/3#p5_12))
+> _7. *La lealtad* —la devoción al deber más elevado— ¿es deseable? Entonces el hombre debe caminar entre las posibilidades de traición y de deserción. El valor de la devoción al deber consiste en el peligro implícito de incumplirlo._ (<a id="a53_236"></a>[LU 3:5.12](/es/The_Urantia_Book/3#p5_12))
 
 <figure class="table chapter-navigator">
   <table>

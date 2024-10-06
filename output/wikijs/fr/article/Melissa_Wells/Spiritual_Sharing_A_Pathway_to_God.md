@@ -47,7 +47,7 @@ L'importance d'assister à 90 jours consécutifs de réunions des AA réside dan
 
 Je ne suis pas ici pour vendre les AA ; mais j'ai choisi de parler d'une technique fidèlement appliquée par les lauréats des AA et qui est tout à fait pertinente pour notre sujet : le partage spirituel comme chemin vers Dieu. Le but d'une réunion des AA est de permettre aux personnes en convalescence de partager leur expérience, leur force et leur espoir au profit de ceux qui souffrent encore des ravages de l'alcoolisme et de la dépendance.
 
-Participer à une réunion des AA s'apparente à devenir un oracle pour ceux qui ont appris à humilier leur ego et à laisser leur Puissance supérieure parler à travers eux. À chaque réunion, nous lisons un extrait du Gros Livre des Alcooliques anonymes : « N'oubliez pas que nous avons affaire à l'alcool : rusé, déroutant, puissant. Sans aide, c'est trop pour nous. Mais il y a Celui qui a tout pouvoir : celui-là, c’est Dieu. Puissiez-vous Le trouver maintenant ! Les demi-mesures ne nous ont servi à rien. Nous étions à un tournant. Nous avons demandé sa protection et ses soins avec un abandon total.
+Participer à une réunion des AA s'apparente à devenir un oracle pour ceux qui ont appris à humilier leur ego et à laisser leur Puissance supérieure parler à travers eux. À chaque réunion, nous lisons un extrait du Gros Livre des Alcooliques anonymes : « N'oubliez pas que nous avons affaire à l'alcool : rusé, déroutant, puissant. Sans aide, c'est trop pour nous. Mais il y a Celui qui a tout pouvoir : celui-là, c’est Dieu. Puissiez-vous Le trouver maintenant ! Les demi-mesures ne nous ont servi à rien. Nous étions à un tournant. Nous avons demandé sa protection et ses soins avec un abandon total.
 
 Et dans le Gros Livre d'Urantia, Jésus a dit : « _Le salut n’est pas pour ceux qui ne veulent pas payer le prix d’une consécration sincère à faire la volonté de mon Père ... quiconque désire sincèrement trouver la vie éternelle en entrant dans le royaume de Dieu obtiendra certainement le salut éternel... Ceux qui s’empareront ainsi du royaume avec puissance spirituelle et par les assauts persévérants de la foi vivante... pour tous ceux qui ont un cœur honnête et une foi sincère, la citation suivante reste éternellement vraie : « Voici, je me tiens à la porte du cœur des hommes et je frappe ; si quelqu’un veut m’ouvrir, j’entrerai, je souperai avec lui et je le nourrirai du pain de vie ; nous ne ferons qu’un en esprit et n’aurons qu’un dessein ; ainsi nous serons toujours frères...._" (<a id="a51_796"></a>[LU 166:3.4-7](/fr/The_Urantia_Book/166#p3_4))
 
@@ -95,7 +95,7 @@ C'est une joie de découvrir une autre personne qui a de la perspicacité et de 
 
 Le partage intime et spirituel découvert dans le dévouement d’une véritable amitié est l’expérience humaine la plus exaltante et la plus réconfortante. La parentalité – une autre sorte de partage spirituel – figure également au premier rang. Les deux types de relation évoquent les meilleures et les pires qualités de mon caractère. En tant que tels, ils reflètent les parties de moi-même qui sont les plus proches de Dieu et les parties qui seront perdues à mesure que je deviendrai une personne mature. Avec une telle intimité, tout mon être est impliqué. Dans la plupart des situations sociales, je peux contourner les zones inconfortables parce que je sais que la situation sociale va bientôt changer. Il n’en va pas de même pour la relation d’amitié spirituelle et la relation parent-enfant. L’engagement dans ces relations dure toute la vie, et le bon, le mauvais et le laid – ou le partage du flux et du reflux des forces et des faiblesses de la personnalité – sont innés dans notre vie créative.
 
-C'est un défi ; c'est une aventure. Et je ne manquerais pour rien au monde cette riche expérience. Je suis d'accord avec Rodan; il vaut tous les sacrifices requis pour sa possession. Mais pour maintenir ma sobriété émotionnelle dans une telle intimité avec une autre personne, j’ai besoin des fondements d’une autre relation privilégiée.
+C'est un défi ; c'est une aventure. Et je ne manquerais pour rien au monde cette riche expérience. Je suis d'accord avec Rodan; il vaut tous les sacrifices requis pour sa possession. Mais pour maintenir ma sobriété émotionnelle dans une telle intimité avec une autre personne, j’ai besoin des fondements d’une autre relation privilégiée.
 
 Et cela m'amène au prochain aspect du partage spirituel dont j'aimerais discuter.
 
@@ -107,7 +107,7 @@ L'une de mes prières préférées est celle de saint François d'Assise. Le liv
 
 > « Nous voudrons que le bien qui est en nous tous, même chez le pire d'entre nous, fleurisse et grandisse. Nous aurons certainement besoin d’un air vivifiant et d’une nourriture abondante. Mais avant tout, nous aurons besoin de soleil ; rien ne peut pousser dans le noir. La méditation est notre sortie au soleil. Comment alors méditerons-nous ?
 > 
-> « Bon, on pourrait commencer comme ça. Examinons d’abord une très bonne prière. Son auteur était un homme qui, depuis plusieurs centaines d'années, est considéré comme un saint. Nous ne serons pas partiaux ou effrayés par ce fait, car même s'il n'était pas alcoolique, il a, comme nous, traversé une crise émotionnelle. Et alors qu’il sortait de l’autre côté de cette expérience douloureuse, cette prière était son expression de ce qu’il pouvait alors voir, ressentir et souhaiter devenir : »
+> « Bon, on pourrait commencer comme ça. Examinons d’abord une très bonne prière. Son auteur était un homme qui, depuis plusieurs centaines d'années, est considéré comme un saint. Nous ne serons pas partiaux ou effrayés par ce fait, car même s'il n'était pas alcoolique, il a, comme nous, traversé une crise émotionnelle. Et alors qu’il sortait de l’autre côté de cette expérience douloureuse, cette prière était son expression de ce qu’il pouvait alors voir, ressentir et souhaiter devenir : »
 > 
 > « ‘Seigneur, fais de moi un instrument de Ta paix ; là où est la haine, laisse-moi semer l'amour ; là où il y a une blessure, pardon ; là où règne la discorde, l'union ; là où il y a le doute, la foi ; là où règne le désespoir, l'espoir ; là où il y a les ténèbres, la lumière ; Et là où il y a de la tristesse, de la joie.'"
 > 
@@ -115,7 +115,7 @@ L'une de mes prières préférées est celle de saint François d'Assise. Le liv
 > 
 > « Cela nous aiderait si nous parvenions à abandonner toute résistance à ce que dit notre ami. Car dans la méditation, le débat n’a pas sa place. Nous nous reposons tranquillement avec les pensées de quelqu'un qui sait, afin que nous puissions expérimenter et apprendre.
 > 
-> « Soyons disposés à participer et à être fortifiés et élevés par la puissance spirituelle, la beauté et l'amour dont ces magnifiques paroles sont porteuses. »
+> « Soyons disposés à participer et à être fortifiés et élevés par la puissance spirituelle, la beauté et l'amour dont ces magnifiques paroles sont porteuses. »
 
 Et à mesure que nous apprenons à prier et à méditer, à mesure que nous confions notre conscience humaine à Dieu et acceptons sa présence en nous, nous devenons plus que nous ne sommes. « Quand l'homme donne à Dieu tout ce qu'il a, Dieu fait de cet homme plus qu'il n'est », dit le _Livre d'Urantia_. Mon expérience personnelle le confirme. Et je le vois à l’œuvre dans la vie des autres.
 
@@ -125,7 +125,7 @@ Enfin, je souhaite parler d'une de mes personnes préférées et de son approche
 > 
 > « _Jésus n’était jamais pressé. Il avait le temps de réconforter ses semblables « en passant ». Il s’arrangeait toujours pour que ses amis se sentent à l’aise. Il était un auditeur charmant. Il ne tentait jamais de sonder de manière indiscrète l’âme de ses associés. Quand il réconfortait un mental inassouvi et soignait une âme assoiffée, le bénéficiaire de sa miséricorde n’avait pas tellement le sentiment de se confesser *à* lui, mais plutôt de conférer *avec* lui. Ils avaient en lui une confiance illimitée parce qu’ils voyaient qu’il avait tellement foi en eux._”
 > 
-> “_He dispensed health and scattered happiness naturally and gracefully as he journeyed through life. It was literally true, ‘he went about doing good.’ And it behooves the Master's followers in all ages to learn to minister as ‘they pass by’ — to do unselfish good as they go about their daily duties._” ([LU 171:7.1-10](/fr/The_Urantia_Book/171#p7_1))
+> “_He dispensed health and scattered happiness naturally and gracefully as he journeyed through life. It was literally true, ‘he went about doing good.’ And it behooves the Master's followers in all ages to learn to minister as ‘they pass by’ — to do unselfish good as they go about their daily duties._” (<a id="a127_307"></a>[LU 171:7.1-10](/fr/The_Urantia_Book/171#p7_1))
 
 Lorsqu'il s'agit de partage spirituel, rappelez-vous : c'est si simple ; lâchez simplement prise et laissez Dieu.
 

@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Note de l'éditeur
 
-L'article suivant représente une nouvelle approche pour le Journal et naît d'une opportunité d'élargir notre conscience des perspectives multiculturelles sur le _Livre d'URANTIA_. Probal Dasgupta est originaire de Calcutta et a vécu aux États-Unis à deux reprises. Il est maintenant retourné en Inde et enseigne la linguistique à l'Institut d'études supérieures et de recherche du Deccan College à Pune. Le Dr Dasgupta a découvert _Le Livre d'URANTIA_ à la fin des années 1970 alors qu'il étudiait à l'Université de New York. Il a lu le livre dans son intégralité et y apporte un point de vue savant et analytique, ainsi qu'une perspective résolument non occidentale. La critique de livre présentée ici est un prélude à un prochain article dans lequel il promet de partager avec nous ses réactions au _Le Livre d'URANTIA_. Les raisons de cet examen anticipé sont peut-être mieux exprimées dans un extrait de sa correspondance : 
+L'article suivant représente une nouvelle approche pour le Journal et naît d'une opportunité d'élargir notre conscience des perspectives multiculturelles sur le _Livre d'URANTIA_. Probal Dasgupta est originaire de Calcutta et a vécu aux États-Unis à deux reprises. Il est maintenant retourné en Inde et enseigne la linguistique à l'Institut d'études supérieures et de recherche du Deccan College à Pune. Le Dr Dasgupta a découvert _Le Livre d'URANTIA_ à la fin des années 1970 alors qu'il étudiait à l'Université de New York. Il a lu le livre dans son intégralité et y apporte un point de vue savant et analytique, ainsi qu'une perspective résolument non occidentale. La critique de livre présentée ici est un prélude à un prochain article dans lequel il promet de partager avec nous ses réactions au _Le Livre d'URANTIA_. Les raisons de cet examen anticipé sont peut-être mieux exprimées dans un extrait de sa correspondance : 
 
 [Lire la suite](/fr/article/Peter_Laurence/Editors_Note)
 
@@ -43,7 +43,7 @@ _Armonk, New York_
 
 ## Revoir
 
-_Je suis toi : méditations sur la vérité de l'Inde._ Par Ramchandra Gandhi. Pune : Publications trimestrielles philosophiques indiennes (Département de philosophie, Université de Poona). 1984. XII, 311 pages. 15 $.
+_Je suis toi : méditations sur la vérité de l'Inde._ Par Ramchandra Gandhi. Pune : Publications trimestrielles philosophiques indiennes (Département de philosophie, Université de Poona). 1984. XII, 311 pages. 15 $.
 
 Permettez-moi de commencer par citer la page 51 : « L'homme ne vit pas seulement de pain, nous rappelle le Christ, _mais de toute parole qui sort de la bouche de Dieu_, c'est-à-dire de la totalité de la révélation de Dieu à l'humanité, c'est-à-dire au moins de la vérité. dans toutes les religions du monde. Ce livre est une tentative de Ramchandra Gandhi, philosophe formé à Oxford et également petit-fils du Mahatma Gandhi, de fournir une exposition partielle de la vérité de la tradition spirituelle indienne sous une forme qui attire l'attention de tous ceux qui réfléchissent. L’un de ses points principaux est que le Dieu unique, dont l’auto-multiplication – avant l’éternité – est impensable dans la pensée humaine et pourtant réelle, nous est accessible à travers une pluralité nécessaire de révélations. Nous devons assimiler et réconcilier les vérités que nous apprenons de différentes traditions.
 
@@ -74,7 +74,7 @@ _Concord, Californie_
 
 ## De la part des éditeurs
 
-Notre calendrier éditorial est tel que ce numéro du _The Journal_ a été rédigé bien trop tôt pour inclure des réponses à la première question que nous avons soumise à nos lecteurs. Espérons que cette question aura inspiré une réflexion que nous pourrons partager avec vous dans les prochains numéros. En attendant, nous essaierons d'aider à maintenir le flux mental avec une autre question, basée sur la citation suivante du fascicule 2 du _Livre d'URANTIA_ :
+Notre calendrier éditorial est tel que ce numéro du _The Journal_ a été rédigé bien trop tôt pour inclure des réponses à la première question que nous avons soumise à nos lecteurs. Espérons que cette question aura inspiré une réflexion que nous pourrons partager avec vous dans les prochains numéros. En attendant, nous essaierons d'aider à maintenir le flux mental avec une autre question, basée sur la citation suivante du fascicule 2 du _Livre d'URANTIA_ :
 
 > « _Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine,_ » (<a id="a78_308"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
 

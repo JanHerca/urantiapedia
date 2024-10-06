@@ -38,7 +38,7 @@ _Le discours suivant a été présenté à la Conférence générale du Maine, e
 
 Bonjour, frères et sœurs :
 
-Avez-vous aimé avoir une petite conversation avec notre Père céleste ce matin ? Avez-vous été rafraîchi, inspiré et renouvelé ? Etes-vous conscient de sa présence en ce moment ?
+Avez-vous aimé avoir une petite conversation avec notre Père céleste ce matin ? Avez-vous été rafraîchi, inspiré et renouvelé ? Etes-vous conscient de sa présence en ce moment ?
 
 Pendant qu'il vivait sur Urantia, Jésus avait une communion ininterrompue avec notre Père. Le secret de cette intense communion était la prière et l'adoration. Toute la vie manifeste et visible de Jésus était basée sur une méditation reposante ; cela était enraciné dans sa relation forte avec Dieu.
 
@@ -47,7 +47,7 @@ Pendant qu'il vivait sur Urantia, Jésus avait une communion ininterrompue avec 
 _Satu Sihvo_
 _Espoo, Finlande_
 
-## Demander l'Esprit et d'autres bonnes choses !
+## Demander l'Esprit et d'autres bonnes choses !
 
 Il s'agit d'une combinaison d'un cycle de prière de onze jours et d'un partage de mes idées sur la relation entre l'enseignement de l'Église catholique concernant les sept dons du Saint-Esprit (énumérés dans [Isaïe, chapitre 11](/fr/Bible/Isaiah/11)) , l'enseignement du _Le Livre d'URANTIA_ sur les sept esprits mentaux adjoints (<a id="a51_331"></a>[LU 36:5.1-17](/fr/The_Urantia_Book/36#p5_1)), et l'enseignement pentecôtiste sur les dons charismatiques de l'Esprit ([I Corinthiens 12:8-12](/fr/Bible/1_Corinthians/12#v8)). Bien sûr, la relation possible entre les sept dons et les sept adjudants vient à l'esprit puisque les noms sont si proches. L'ajout des cadeaux charismatiques était un bonus de dernière minute. Je ne pensais pas que cela était possible, même si je le voulais. Soudain, ils se sont catégorisés, pour ainsi dire, et se sont glissés dans des endroits inattendus. Ils m'ont pris par surprise !
 

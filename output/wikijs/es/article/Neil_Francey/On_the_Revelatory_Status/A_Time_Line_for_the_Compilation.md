@@ -149,7 +149,7 @@ Por Martín Gardner. 1995.
 
 Esta publicación está mal investigada, contiene errores y desinformación y es un ejemplo de un esfuerzo indigno por desacreditar la revelación.
 
-Varios lectores bien considerados del Libro de Urantia han publicado relatos detallados de la erudición extremadamente pobre mostrada por Gardner.
+Varios lectores bien considerados del _Libro de Urantia_ han publicado relatos detallados de la erudición extremadamente pobre mostrada por Gardner.
 
 ---
 

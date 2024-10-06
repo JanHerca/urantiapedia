@@ -34,7 +34,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 </figure>
 
 
-Un amado erudito del Libro de Urantia y sacerdote ordenado durante 60 años
+Un amado erudito del _Libro de Urantia_ y sacerdote ordenado durante 60 años
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Robert_Schuer/Gems_of_Wisdom_by_Father_Robert_Schuer/004129.jpg">

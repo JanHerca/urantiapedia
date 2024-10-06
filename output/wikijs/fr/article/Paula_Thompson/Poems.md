@@ -101,7 +101,7 @@ et la flamme de l'éternité brûle en toi.
 ## C'est ma prière
 
 Dieu,
-voici ma prière pour vous :
+voici ma prière pour vous :
 Laissez-moi terminer le travail que j'ai à faire.
 Puis quand mon travail sera enfin terminé,
 accorde-moi le reste que j'ai si volontiers gagné.

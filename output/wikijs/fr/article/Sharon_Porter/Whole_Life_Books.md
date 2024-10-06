@@ -25,7 +25,7 @@ dateCreated: 2023-6-21T8:13:38Z
         </td>
         <td>
         <a href="/fr/article/Joshua_J_Wilson/Checkmate_The_Progress_Angels">
-          <span class="pr-2">Échec et mat : les anges du progrès et les gardiens religieux en jeu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Échec et mat : les anges du progrès et les gardiens religieux en jeu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -83,7 +83,7 @@ Un grand merci à Joe Crow, lecteur du Livre d'Urantia et contributeur financier
         </td>
         <td>
         <a href="/fr/article/Joshua_J_Wilson/Checkmate_The_Progress_Angels">
-          <span class="pr-2">Échec et mat : les anges du progrès et les gardiens religieux en jeu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Échec et mat : les anges du progrès et les gardiens religieux en jeu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -137,7 +137,7 @@ Un cuarto recorrido, en barco desde el lago Powell hasta el Gran Cañón (\$80 /
 
 El evento final de IC'96 es una feria rural al estilo de los años 40, que se llevará a cabo en el Bowl del campus. La zona de césped, rodeada de pinos centenarios, se convertirá en un recinto ferial.
 
-La coordinadora Jennifer Siegel, que reside en Boulder, Colorado, imagina a los lectores del Libro de Urantia paseando entre tiendas de campaña, disfrutando de espectáculos musicales, vendedores ambulantes y golosinas como palomitas de maíz y algodón de azúcar.
+La coordinadora Jennifer Siegel, que reside en Boulder, Colorado, imagina a los lectores del _Libro de Urantia_ paseando entre tiendas de campaña, disfrutando de espectáculos musicales, vendedores ambulantes y golosinas como palomitas de maíz y algodón de azúcar.
 
 «Queríamos recrear el sentimiento de comunidad festiva que tenían en los viejos tiempos», dice Siegel. «El Bowl es el lugar perfecto para una feria. Incluso tiene un mirador en el centro».
 

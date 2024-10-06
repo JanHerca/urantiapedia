@@ -36,7 +36,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 De Georges Michelson-Dupont, vicepresidente de la Fundación Urantia, Recloses (Francia)
 
-_Nota de la directora: El fideicomisario Georges Michelson-Dupont ha proporcionado fotografías de la impresión de la nueva edición europea de_ El libro de Urantia, _que se está vendiendo en España. La edición 1993 de_ El libro de Urantia _está actualmente bajo revisión por un equipo de lectores, y se espera esté terminada en un futuro cercano._
+_Nota de la directora: El fideicomisario Georges Michelson-Dupont ha proporcionado fotografías de la impresión de la nueva edición europea de_ _El libro de Urantia_, _que se está vendiendo en España. La edición 1993 de_ El libro de Urantia _está actualmente bajo revisión por un equipo de lectores, y se espera esté terminada en un futuro cercano._
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2009_06/029.jpg">

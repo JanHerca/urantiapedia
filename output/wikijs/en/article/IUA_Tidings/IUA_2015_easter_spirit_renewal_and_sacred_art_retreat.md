@@ -40,8 +40,7 @@ Then don’t miss out on this momentous occasion—March 27th-30th, 2015—as we
 
 GOOD NEWS!!! We have extended our early bird discount for one more week through Friday, December 12th, in order to allow everyone who would like to attend the Retreat one more chance to register early and save! You can sign up now and reserve your space today by visiting our RegOnline Event Registration Page.
 
-For more information, please visit our website: [http://tuuff.com/Easter%20Retreats/LosGatos\_2015/home.html](http://tuuff.com/Easter%20Retreats/LosGatos_2015/home.html)[  
-](http://www.tuuff.com/Easter20Retreats/LosGatos_2015)
+For more information, please visit our website: [http://tuuff.com/Easter%20Retreats/LosGatos\_2015/home.html](http://tuuff.com/Easter%20Retreats/LosGatos_2015/home.html)
 
 The United Urantia Family & Urantia Sacred Arts
 

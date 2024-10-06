@@ -40,21 +40,21 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Gard Jameson, trésorier de la Fondation Urantia, Nevada, États-Unis_
 
-Mon ami Ralph Zehr l’a très bien dit : « Quel meilleur investissement que celui d’une révélation d’époque !»
+Mon ami Ralph Zehr l’a très bien dit : « Quel meilleur investissement que celui d’une révélation d’époque !»
 
-Très souvent, nous nous demandons comment nous devrions allouer nos ressources au moment de notre départ de cette planète. À l’évidence : la famille ! Évidemment, nous devons prendre soin de nos êtres chers. Ensuite, viennent les questions au sujet de buts supérieurs -la famille de Dieu ! Peu de personnes ont l’opportunité d’être impliqué dans une révélation d’époque. En lisant ces mots, vous l’avez !
+Très souvent, nous nous demandons comment nous devrions allouer nos ressources au moment de notre départ de cette planète. À l’évidence : la famille ! Évidemment, nous devons prendre soin de nos êtres chers. Ensuite, viennent les questions au sujet de buts supérieurs -la famille de Dieu ! Peu de personnes ont l’opportunité d’être impliqué dans une révélation d’époque. En lisant ces mots, vous l’avez !
 
-Je vous encourage à réfléchir à faire un certain investissement dans la cinquième révélation d’époque. Regardant en arrière sur votre temps passé sur Urantia, vous serez bénis de savoir que vous avez contribué à la destinée de la Révélation Urantia ! Vous serez bénis de savoir que d’une certaine manière, vous avez donné un coup de pouce à la planète pour avancer vers une période de lumière et de vie !
+Je vous encourage à réfléchir à faire un certain investissement dans la cinquième révélation d’époque. Regardant en arrière sur votre temps passé sur Urantia, vous serez bénis de savoir que vous avez contribué à la destinée de la Révélation Urantia ! Vous serez bénis de savoir que d’une certaine manière, vous avez donné un coup de pouce à la planète pour avancer vers une période de lumière et de vie !
 
 Le meilleur don planifié, qui peut être fait durant votre vie ou au moment de la quitter, est celui vers les fonds non restreints pour l’organisation que vous supportez. Les circonstances changent, et il est préférable de permettre, au vivier de personnalités de sagesse actuelle, d’évaluer l’utilisation avisée de tels fonds.
 
 L’autre atout d’un tel don judicieux, est de le diriger vers un fonds de dotation, qui continuera à donner pendant longtemps. Une dotation générale permet pour les trustees d’en utiliser un petit pourcentage pour des buts non restreints. En ce qui concerne la Fondation Urantia, le Fonds de Dotation du Pont de la Révélation et le Fonds de la Graine de Moutarde sont deux fonds qui permettent sur le long terme la dissémination de la révélation mondialement.
 
-Durant mes années comme trustee de la Fondation Urantia, j’ai été impressionné par la manière efficace dont le conseil d’administration a utilisé ses fonds, d’une façon prudemment réfléchie, guidée par sa mission et visionnaire. Cette manière de guider l’organisation, qui est un trust public, nous a été inculqué. Pour plus de précision, la Fondation Urantia est clairement dans mon plan de fonds de dotation ! Je prie pour que vous puissiez recevoir le don de discernement lors de l’évaluation de votre propre plan.
+Durant mes années comme trustee de la Fondation Urantia, j’ai été impressionné par la manière efficace dont le conseil d’administration a utilisé ses fonds, d’une façon prudemment réfléchie, guidée par sa mission et visionnaire. Cette manière de guider l’organisation, qui est un trust public, nous a été inculqué. Pour plus de précision, la Fondation Urantia est clairement dans mon plan de fonds de dotation ! Je prie pour que vous puissiez recevoir le don de discernement lors de l’évaluation de votre propre plan.
 
 Pour plus d’informations, visitez s’il vous plaît, sur le site de la Fondation, **[la page web Dons Planifiés](https://urantia.plannedgiving.org/)**.
 
-Merci, mes amis, de votre attention et de votre engagement envers la cinquième révélation d’époque !
+Merci, mes amis, de votre attention et de votre engagement envers la cinquième révélation d’époque !
 
 
 ## Références

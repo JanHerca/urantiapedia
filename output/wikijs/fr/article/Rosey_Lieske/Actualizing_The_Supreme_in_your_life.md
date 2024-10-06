@@ -40,11 +40,11 @@ Sa substance nous entoure comme un cocon, influençant pour toujours l’environ
 
 Un jour, le Suprême lui-même sera né – et nous serons là pour assister au grondement du ciel avec la puissance divine alors qu'une expérience finie et un pouvoir infini fusionnent dans l'éternité. Le moment viendra où nous verrons à travers l’œil du Suprême avec la perspicacité de Dieu lui-même.
 
-Il y a beaucoup de belles descriptions du Suprême dans notre livre. Voici cinq exemples succincts :
+Il y a beaucoup de belles descriptions du Suprême dans notre livre. Voici cinq exemples succincts :
 
 « Le Dieu actualisant et évolutif du temps et de l’espace »
 
-« Le reflet spirituel personnel de la Divinité trinitaire du Paradis »
+« Le reflet spirituel personnel de la Divinité trinitaire du Paradis »
 
 « L'âme supérieure du Grand Univers »
 
@@ -84,7 +84,7 @@ Ce potentiel permettra à Dieu, infiniment capable, puissant et brillant, d'actu
 
 Cette réalité de l'expérience – organisée, synthétisée et unifiée dans le Suprême – est dans un double mouvement… intérieur et extérieur. À un niveau plus profond, j'aime y penser comme une intention et une extension divines. Comme la tension est toujours une caractéristique – comme un mécanisme d’horlogerie complexe – qui attire tout en étendant vers l’extérieur cette « piste de réalité actualisée » qui déplace, déplace et affecte la matière ; fusionnant un pouvoir infini avec l'expérience de la personnalité et finalement attirant le Suprême vers l'existence réelle. On dit que grâce à notre longue ascension et à l'atteinte finale du Père, nous n'atteignons qu'une seule chose : la perfection de l'intention. J'aime rêver au moment de l'éternité où le Suprême naît. Peut-être pourrons-nous alors participer, nous aussi, au perfectionnement de l'extension.
 
-Ces relations sont magnifiquement résumées :
+Ces relations sont magnifiquement résumées :
 
 > « _Le Suprême est symétriquement inclusif. La Source-Centre Première est potentielle dans les trois grands Absolus ; elle est actuelle dans le Paradis, dans le Fils et dans l’Esprit ; mais le Suprême est à la fois actuel et potentiel, un être de suprématie personnelle et de pouvoir tout-puissant, sensible à la fois à l’effort des créatures et au dessein du Créateur. Il agit par lui-même sur l’univers et réagit en lui-même à l’ensemble de l’univers ; il est simultanément le créateur suprême et la suprême créature. La Déité de Suprématie exprime ainsi la totalité du fini tout entier._ » (<a id="a88_595"></a>[LU 117:1.9](/fr/The_Urantia_Book/117#p1_9))
 
@@ -136,7 +136,7 @@ Nous actualisons le Suprême grâce à notre expérience avec ces potentiels. Et
 
 ## Vivre les valeurs suprêmes
 
-Une fois de plus, nous avons affaire au double mouvement du Y Suprême, une extension vers l'extérieur de la Volonté Divine mise en évidence par le potentiel de l'univers pour la vérité, la beauté et la bonté, et un mouvement intérieur mis en évidence par le potentiel humain pour les intentions de foi, d'amour et de service. . Avant d'examiner leurs possibilités de coordonnées, nous examinerons leur relation avec nous et avec le Suprême dans la réalité :
+Une fois de plus, nous avons affaire au double mouvement du Y Suprême, une extension vers l'extérieur de la Volonté Divine mise en évidence par le potentiel de l'univers pour la vérité, la beauté et la bonté, et un mouvement intérieur mis en évidence par le potentiel humain pour les intentions de foi, d'amour et de service. . Avant d'examiner leurs possibilités de coordonnées, nous examinerons leur relation avec nous et avec le Suprême dans la réalité :
 
 Rien ne sort plus vite de la langue que la vérité, la beauté et la bonté. Rien n’est plus facile à dire ou à accepter intellectuellement. Mais il est aussi facile de dire à quel point ils sont difficiles à vivre et à quel point ils deviennent dynamiques dans l'expérience.
 
@@ -154,7 +154,7 @@ Examinons maintenant leur relation avec le Suprême dans la Triodité de l'Actua
 
 Ensuite, nous revenons à l'homme – reconnaissant Dieu comme amour, mobilisant le potentiel de Dieu par la foi et le manifestant par le service.
 
-Comme Einstein l'a dit un jour : « Dieu ne joue pas aux dés ». Mais étant un étudiant du Livre d'URANTIA, je connais sa propension aux combinaisons mathématiques, et je me suis amusé une fois que j'ai vu que cela était à nouveau évident dans l'interdépendance des possibilités de valeurs suprêmes. dans notre expérience. Par exemple, vous pouvez expérimenter la vérité dans la foi, la foi dans la bonté et la beauté dans le service. Et nous expérimentons la bonté dans la foi, l'amour dans la beauté, la foi dans l'amour et la vérité dans le service – sans parler du service dans la vérité, de la beauté dans la bonté, de la bonté dans le service et, bien sûr, de la beauté dans l'amour.
+Comme Einstein l'a dit un jour : « Dieu ne joue pas aux dés ». Mais étant un étudiant du Livre d'URANTIA, je connais sa propension aux combinaisons mathématiques, et je me suis amusé une fois que j'ai vu que cela était à nouveau évident dans l'interdépendance des possibilités de valeurs suprêmes. dans notre expérience. Par exemple, vous pouvez expérimenter la vérité dans la foi, la foi dans la bonté et la beauté dans le service. Et nous expérimentons la bonté dans la foi, l'amour dans la beauté, la foi dans l'amour et la vérité dans le service – sans parler du service dans la vérité, de la beauté dans la bonté, de la bonté dans le service et, bien sûr, de la beauté dans l'amour.
 
 Pensez aux variations infinies d’expériences possibles inhérentes à chacune de ces combinaisons. Pensez à vos propres expériences qui reflètent votre foi en l’amour ou, à la lumière de cette révélation, la bonté de la vérité. Les coordonnées des valeurs suprêmes sont infiniment et réellement accessibles à notre expérience – rendues uniques par notre humanité, nos capacités et notre personnalité – avec des significations différentielles inhérentes au temps, au lieu et aux circonstances, et des dénominateurs communs dans les potentiels découlant de conditions planétaires partagées. Le Suprême s’actualise à travers des expériences qui se répercutent harmonieusement sur cette tonalité de valeur.
 
@@ -170,7 +170,7 @@ Ces potentiels de valeurs coordonnées sont tous renforcés par notre situation 
 
 ## Un appel à l'action
 
-Seulement deux des potentiels d’âge planétaire que nous partageons, sachant ce que nous savons ou ce que nous pouvons savoir, créent d’énormes possibilités d’action de notre part pour accroître la souveraineté du Suprême de façon exponentielle au cours de notre vie :
+Seulement deux des potentiels d’âge planétaire que nous partageons, sachant ce que nous savons ou ce que nous pouvons savoir, créent d’énormes possibilités d’action de notre part pour accroître la souveraineté du Suprême de façon exponentielle au cours de notre vie :
 
 Nous connaissons l’histoire de notre planète, ses épreuves et tribulations, ses tensions et ses étranges privilèges. Nous savons également que notre planète est destinée à survivre à toute dévastation apparente pour atteindre un âge de lumière et de vie.
 
@@ -178,16 +178,16 @@ Mais alors que le décor est planté devant nous et que nos frères apocalyptiqu
 
 Les journaux, les magazines et les journaux télévisés diffusent tous des raisons de désespoir et de paranoïa. Mais nous lisons que notre planète « frémit au bord d’un âge spirituel » et nous détenons entre nos mains la preuve d’une nouvelle dispensation. Quel formidable potentiel de service nous avons devant nous.
 
-J'ai mentionné précédemment que le développement d'un point de vue fonctionnel est utile pour travailler efficacement et sans crainte à l'actualisation du Suprême. Il est bon de comprendre nos possibilités avec le Suprême et de les interpréter dans le cadre d'un point de vue qui englobe :
+J'ai mentionné précédemment que le développement d'un point de vue fonctionnel est utile pour travailler efficacement et sans crainte à l'actualisation du Suprême. Il est bon de comprendre nos possibilités avec le Suprême et de les interpréter dans le cadre d'un point de vue qui englobe :
 
 1) Une appréciation du fait que notre planète a été créée à la suite des actions d’un créateur divin mais fini – Christ Michael. Nous devrions considérer les problèmes résultant de notre origine dans le fini comme contenant d’énormes potentiels d’expérience, de prise de décision et de contribution à l’actualisation du Suprême.
 2) Nous devrions comprendre le fait que Christ est notre première révélation du Suprême. Sa vie et ses enseignements sont notre texte pour actualiser le Suprême à ce niveau mortel et particulièrement sur cette planète. L’étude de sa vie est un moyen sûr d’organiser et d’encadrer nos pensées – pour engendrer les modèles de comportement les plus bénéfiques pour le Suprême.
 3) Et nous devrions voir le fait de notre filiation par la foi comme un indice que la qualité spirituelle la plus importante à développer est la foi. Par la foi, nous serons efficaces, particulièrement en réalisant le potentiel de la révélation du Livre d'URANTIA dans nos vies et sur notre planète.
 
-J’ai eu autrefois un ami bien-aimé – un homme grand, imposant et monstrueux que les gens avaient l’habitude de ridiculiser ouvertement en le qualifiant d’arriéré ou de fou. Il a écrit un poème sur sa « folie », qui est probablement l'écrit le plus descriptif sur le potentiel du Suprême que j'ai jamais vu. Cela s’appelait « Madness » et se déroulait comme ceci :
+J’ai eu autrefois un ami bien-aimé – un homme grand, imposant et monstrueux que les gens avaient l’habitude de ridiculiser ouvertement en le qualifiant d’arriéré ou de fou. Il a écrit un poème sur sa « folie », qui est probablement l'écrit le plus descriptif sur le potentiel du Suprême que j'ai jamais vu. Cela s’appelait « Madness » et se déroulait comme ceci :
 
 J'aime l'étoile qu'on ne peut pas voir.
-Mes yeux sont si pleins que je ne peux pas voir !
+Mes yeux sont si pleins que je ne peux pas voir !
 Mais si le rêve des rêves est trouvé
 Il y a longtemps
 Sans un son

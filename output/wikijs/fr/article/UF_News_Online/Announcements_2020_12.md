@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-4-dec-2020">
+        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-4-décembre-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 4, Déc. 2020 — Table des matières</span>
         </a>
         </td>
@@ -37,23 +37,23 @@ dateCreated: 2023-8-29T10:55:6Z
 
 ## Le Finnois ajouté au Livre d’Urantia Multilingue
 
-Avez-vous vu le Livre multilingue sur le site de la Fondation Urantia ?
+Avez-vous vu le Livre multilingue sur le site de la Fondation Urantia ?
 
 Cette option vous permet de voir deux langues côte à côte. Il est rapide et facile de naviguer pour une expérience de visionnage fluide.
 
 La traduction finnoise a été ajoutée récemment, portant le nombre de langues traduites à vingt.
 
-Vous pouvez la trouver ici : [urantia.org/fi/MultiLanguageBook](https://www.urantia.org/fi/MultiLanguageBook).
+Vous pouvez la trouver ici : [urantia.org/fi/MultiLanguageBook](https://www.urantia.org/fi/MultiLanguageBook).
 
 ## Les Pages Facebook indonésienne et russe
 
-La Fondation Urantia possède maintenant des pages en indonésien et en russe. Visitez les, s’il vous plaît, et « Aimez » ces pages. Si vous appréciez ce que vous voyez, partagez, s’il vous plaît, vos messages avec vos amis.
+La Fondation Urantia possède maintenant des pages en indonésien et en russe. Visitez les, s’il vous plaît, et « Aimez » ces pages. Si vous appréciez ce que vous voyez, partagez, s’il vous plaît, vos messages avec vos amis.
 
 [https://www.facebook.com/UrantiaFoundationRussian/](https://www.facebook.com/UrantiaFoundationRussian/)
 
 [https://www.facebook.com/Urantia-Foundation-Indonesia-100892101830378/](https://www.facebook.com/Urantia-Foundation-Indonesia-100892101830378/)
 
-Merci !
+Merci !
 
 
 
@@ -75,7 +75,7 @@ Merci !
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-4-dec-2020">
+        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-4-décembre-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 4, Déc. 2020 — Table des matières</span>
         </a>
         </td>

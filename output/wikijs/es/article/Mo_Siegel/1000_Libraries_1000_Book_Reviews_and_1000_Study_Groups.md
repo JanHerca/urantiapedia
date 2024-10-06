@@ -82,7 +82,7 @@ La primera generación de lectores de El libro de Urantia creía que la forma m�
 
 Para los que acogen o asisten regularmente a grupos de estudio, su implicación en estos grupos desempeña un papel vital. Si no asiste a un grupo de estudio, considere lo valioso que sería que usted y sus compañeros lectores participaran en uno. Haga de los grupos de estudio una parte de su rutina semanal. Si no hay un grupo de estudio en su zona, cree uno.
 
-Para obtener información sobre grupos de estudio de El libro de Urantia, visiten https://www.urantia.org/contact-readers . Para obtener información sobre formar y fomentar grupos de estudio, visiten https://urantia-association.org/study-groups/find-a-study-group/ y https://urantiabook.org/archive/readers/suggestions-for-study-groups.htm.
+Para obtener información sobre grupos de estudio de _El libro de Urantia_, visiten https://www.urantia.org/contact-readers . Para obtener información sobre formar y fomentar grupos de estudio, visiten https://urantia-association.org/study-groups/find-a-study-group/ y https://urantiabook.org/archive/readers/suggestions-for-study-groups.htm.
 
 > «La felicidad y la alegría tienen su origen en la vida interior. No podéis experimentar una verdadera alegría completamente solos. Una vida solitaria es fatal para la felicidad. Incluso las familias y las naciones disfrutarán más de la vida si la comparten con las demás.» <a id="a86_275"></a>[LU 111:4.7](/es/The_Urantia_Book/111#p4_7)
 

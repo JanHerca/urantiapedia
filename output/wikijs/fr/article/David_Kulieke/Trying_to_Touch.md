@@ -39,7 +39,7 @@ Tournant comme du givre entre les arbres
 Me télescopant à tout le reste avec
 L'éternité juste hors de ma portée.
 Mes doigts tendus, pas tout à fait.
-Le toucher ;
+Le toucher ;
 Mais ça m'enveloppe
 Alors que je m'allonge sur le
 Des feuilles et des brindilles jonchent le tapis et

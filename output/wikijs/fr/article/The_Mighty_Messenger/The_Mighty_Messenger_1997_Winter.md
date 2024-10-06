@@ -34,7 +34,7 @@ par _Josephe DeCosmo_, Boynton Beach, Floride
 
 Dans les premiers paragraphes des fascicules d'Urantia, on nous dit que l’anglais a été choisi par la Commission de révélation d'Orvonton comme langue-véhicule pour la cinquième révélation d'époque : « Notre mandat nous exhorte à faire tous les efforts possibles pour transmettre nos significations en utilisant les symboles verbaux. de la langue anglaise » (<a id="a34_359"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2)).
 
-Dans l’article « Sphères de Lumière et de Vie », il est dit : « Aucun monde évolutionnaire ne peut espérer progresser au-delà de la première étape de l’établissement dans la lumière tant qu’il n'a pas atteint une seule langue, une seule religion et une seule philosophie » ([LU 55:3.22](/fr/The_Urantia_Book/55#p3_22)).
+Dans l’article « Sphères de Lumière et de Vie », il est dit : « Aucun monde évolutionnaire ne peut espérer progresser au-delà de la première étape de l’établissement dans la lumière tant qu’il n'a pas atteint une seule langue, une seule religion et une seule philosophie » (<a id="a36_274"></a>[LU 55:3.22](/fr/The_Urantia_Book/55#p3_22)).
 
 Prises ensemble, ces deux déclarations suggèrent fortement que l’anglais pourrait bien être « la langue unique » qui unifiera le monde et permettra à Urantia de progresser vers et à travers les âges de lumière et de vie. L’anglais est déjà la langue internationale du commerce et des voyages aériens et maritimes.
 
@@ -44,7 +44,7 @@ Avec ces faits à l’esprit, je suis convaincu que le mouvement Urantia devrait
 
 Si le Livre d'Urantia devenait plus largement reconnu et accepté comme la cinquième révélation d'époque au monde, davantage de gens seraient incités à apprendre l’anglais. À mesure que de plus en plus de régions du monde maîtrisent l’anglais, le besoin de traductions supplémentaires sera considérablement réduit.
 
-La question à laquelle sont confrontés aujourd'hui les croyants dévoués au Livre d'Urantia est la suivante : devrions-nous travailler à renforcer les barrières linguistiques, ou devrions-nous aider les habitants de la planète à graviter vers une seule langue en présentant les documents originaux d'Urantia comme la communication la plus précise de la vérité par nos supérieurs spirituels ? ? Choisissons avec soin !
+La question à laquelle sont confrontés aujourd'hui les croyants dévoués au Livre d'Urantia est la suivante : devrions-nous travailler à renforcer les barrières linguistiques, ou devrions-nous aider les habitants de la planète à graviter vers une seule langue en présentant les documents originaux d'Urantia comme la communication la plus précise de la vérité par nos supérieurs spirituels ? ? Choisissons avec soin !
 
 ## Déborah Foster (1951-1997)
 
@@ -62,7 +62,7 @@ Debbie a été frappée le week-end de Thanksgiving en 1996 et a passé les six 
 
 Session d'étude d'été du 9 au 12 juillet 1998
 
-« L'art de vivre spirituellement » sera exploré dans le cadre d'une retraite du Mount Vernon College, dans la région de Georgetown, à Washington, DC. Veuillez vous joindre à d'autres Urantiens pour un long week-end rafraîchissant et stimulant de camaraderie, d'étude, d'adoration et de loisirs. Consultez votre boîte mail pour plus d’informations à ce sujet dans les semaines à venir.
+« L'art de vivre spirituellement » sera exploré dans le cadre d'une retraite du Mount Vernon College, dans la région de Georgetown, à Washington, DC. Veuillez vous joindre à d'autres Urantiens pour un long week-end rafraîchissant et stimulant de camaraderie, d'étude, d'adoration et de loisirs. Consultez votre boîte mail pour plus d’informations à ce sujet dans les semaines à venir.
 
 La Heart of America Society, créée en tant que société Fellowship (Frotherhood) le 12 mars 1988, célèbre son dixième anniversaire avec un programme et un dîner le samedi 14 mars 1998. Steve Dreier est le conférencier invité. Pour plus d'informations, laissez un message au (816) 468-4255 ou par e-mail : vrmccarthy@aol.com (les McCarthy).
 
@@ -92,7 +92,7 @@ L'infatigable Norman Ingram a voyagé avec ses compagnons Pradhana (Alejandro) F
 
 En novembre 1997, Norman a entrepris avec Dan Roark une tournée de quatre semaines en Asie, où ils déclarent que « grâce à la bourse, nous avons livré 120 livres à 11 bibliothèques et à au moins autant d'universités ». Ils remercient également la Fondation d'avoir envoyé plus de 20 livres à couverture rigide à des institutions asiatiques similaires. Récemment, Norman a reçu une lettre de l’auteur Arthur C. Clarke le remerciant ainsi que ses amis pour _Le Livre d'Urantia_ qu’ils lui ont donné lors de sa visite au Sri Lanka. Clarke, qui a récemment célébré son 80e anniversaire, réside dans ce pays.
 
-Prochain projet : l’Afrique, en septembre 1998, dit Norman, qui recherche des livres ainsi qu’une aide financière. Pour plus d'informations, contactez Norman Ingram au (562) 698-2122, par fax (562) 698-2122\*51 ou par e-mail : norlastar@aol.com.
+Prochain projet : l’Afrique, en septembre 1998, dit Norman, qui recherche des livres ainsi qu’une aide financière. Pour plus d'informations, contactez Norman Ingram au (562) 698-2122, par fax (562) 698-2122\*51 ou par e-mail : norlastar@aol.com.
 
 ## Église d'Urantia... Pas encore !
 
@@ -114,7 +114,7 @@ Par la présidente de la bourse, _Janet Farrington-Graham_
 
 Au cours du premier week-end de février, le Conseil général de la Fraternité s'est réuni à Oklahoma City pour passer en revue le travail des six derniers mois et planifier l’avenir. Les progrès rapportés par différents membres du Conseil sont le résultat de milliers d'heures de service à la révélation par des lecteurs dévoués. Les comités de bourses sont engagés dans des travaux internationaux et interconfessionnels en plus des projets suivants.
 
-Un groupe local travaille activement à la présentation de la session d'études d'été 1998 prévue du 9 au 12 juillet à Washington, DC. Le thème est « L’art de vivre spirituellement ». Un groupe international de plusieurs dizaines de lecteurs planifie actuellement la prochaine conférence internationale intitulée « Spirit Quest 2000 » qui se tiendra à Vancouver, en Colombie-Britannique, en juillet 1999.
+Un groupe local travaille activement à la présentation de la session d'études d'été 1998 prévue du 9 au 12 juillet à Washington, DC. Le thème est « L’art de vivre spirituellement ». Un groupe international de plusieurs dizaines de lecteurs planifie actuellement la prochaine conférence internationale intitulée « Spirit Quest 2000 » qui se tiendra à Vancouver, en Colombie-Britannique, en juillet 1999.
 
 Le site Web de la Fellowship reçoit de nombreuses lettres réconfortantes de lecteurs nouveaux et de longue date qui sont reconnaissants pour la diversité des informations et les aides à l’étude uniques accessibles via ce nouveau média. Le potentiel de diffusion de la révélation par la communication électronique continue d'étonner et parfois de submerger les membres dévoués qui gèrent ce nouveau service en pleine croissance de la Fraternité.
 
@@ -136,16 +136,16 @@ Le temps est venu! Un tout nouveau répertoire des groupes d’études internati
 
 S'IL TE PLAÎT...
 
-Fournissez des informations actuelles sur le groupe d’étude, notamment :
+Fournissez des informations actuelles sur le groupe d’étude, notamment :
 
 Nom du groupe et nom de l’hôte ou de l’hôtesse 
-Adresse : boîte postale ou rue, ville, état, code postal, pays 
+Adresse : boîte postale ou rue, ville, état, code postal, pays 
 Indicatif régional, numéro de téléphone et e-mail le cas échéant 
 Jour et heure de la réunion.
 
 Si vous connaissez un groupe, êtes impliqué dans un groupe ou souhaitez créer un groupe, veuillez nous fournir les informations demandées ci-dessus ou demander à l’hôte/à l’hôtesse du groupe de nous fournir les informations.
 
-Envoyez toutes les informations par courrier à (ou par téléphone au 1-800-767-5683) :
+Envoyez toutes les informations par courrier à (ou par téléphone au 1-800-767-5683) :
 
 FONDATION JESUSONIENNE c/o Répertoire des groupes d'étude PO Box 18764 Boulder, CO 80308
 
@@ -167,7 +167,7 @@ Je vois cette dynamique se jouer partout ; les libéraux faibles ne peuvent pas 
 
 Le degré auquel nous sommes incapables d'affirmer des valeurs éternelles et transcendantes reflète le degré auquel ces valeurs ne sont pas opérationnelles dans nos vies (ou dont leur fonctionnement est bloqué par ce désir de plaire aux autres). Les croyants qui ont des valeurs transcendantes en vigueur peuvent remplir « le but des activités religieuses de groupe pour... favoriser l’attraction des valeurs suprêmes » (<a id="a167_420"></a>[LU 99:6.2](/fr/The_Urantia_Book/99#p6_2)).
 
-Voici ce que nous devons réaliser : puisque nous ne comptons pas sur une autorité extérieure pour nous concentrer, nous, les libéraux, devons avoir une orientation sur les valeurs vivante dans nos personnages, dans notre expérience, chaque jour. Plus nous exaltons la liberté, plus elle exige notre caractère moral et notre sensibilité spirituelle. Souvent, nous échouons au test. Nous désespérons du monde non éclairé. Nous devenons des ambassadeurs inefficaces, désespérés et vulnérables.
+Voici ce que nous devons réaliser : puisque nous ne comptons pas sur une autorité extérieure pour nous concentrer, nous, les libéraux, devons avoir une orientation sur les valeurs vivante dans nos personnages, dans notre expérience, chaque jour. Plus nous exaltons la liberté, plus elle exige notre caractère moral et notre sensibilité spirituelle. Souvent, nous échouons au test. Nous désespérons du monde non éclairé. Nous devenons des ambassadeurs inefficaces, désespérés et vulnérables.
 
 Une poignée de conservateurs unis peuvent retenir une centaine de libéraux insensés dont le manque de caractère dément leur affirmation selon laquelle on peut leur confier la liberté. Mais les religieux enracinés dans des valeurs éternelles ne sont pas comme des roseaux soufflés par le vent.
 

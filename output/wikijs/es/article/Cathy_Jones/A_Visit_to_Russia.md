@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Cathy Jones<br>© 1999 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/1999_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Septiembre 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Peep_Sober/The_Future_of_our_Planet_as_a_Known_and_Unknown_Reality_2">
+          <span class="pr-2">El futuro de nuestro planeta como una realidad «conocida» y «desconocida» – Partes II y III</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Cathy Jones, administradora de la IUA
 
@@ -44,7 +68,7 @@ A veces sus reuniones se llevan a cabo diariamente. Después de lograr una compr
 
 A lo largo de estas historias desgarradoras, recordé esta cita:
 
-> _La religión es tan vital que sobrevive en ausencia de erudición. Vive a pesar de contaminarse con cosmologías erróneas y falsas filosofías; sobrevive incluso a la confusión de la metafísica. A través de todas las vicisitudes históricas de la religión, siempre sobrevive aquello que es indispensable para el progreso y la supervivencia humanos: la conciencia ética y el conocimiento moral._ ([LU 101:3.1](/es/The_Urantia_Book/101#p3_1))
+> _La religión es tan vital que sobrevive en ausencia de erudición. Vive a pesar de contaminarse con cosmologías erróneas y falsas filosofías; sobrevive incluso a la confusión de la metafísica. A través de todas las vicisitudes históricas de la religión, siempre sobrevive aquello que es indispensable para el progreso y la supervivencia humanos: la conciencia ética y el conocimiento moral._ (<a id="a70_394"></a>[LU 101:3.1](/es/The_Urantia_Book/101#p3_1))
 
 En una demostración de cómo contactan a sus Ajustadores del Pensamiento, nos paramos en círculo, tomados de la mano, hombro con hombro, con Irina rezando la oración más hermosa que jamás haya escuchado. La sensación que estaba presente en la habitación estaba más allá de toda descripción.
 
@@ -53,3 +77,27 @@ Al conversar con Irina, supe que tiene una maestría en Filosofía y Psicología
 Prometí que **tendrían** una IUA en mayo de 2000.
 
 Al despedirme, le dije al grupo: Lenin intentó conquistar el mundo **sin** Dios. El pueblo de Rusia **conquistará** el mundo **para Dios** a través del amor.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/1999_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Septiembre 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Peep_Sober/The_Future_of_our_Planet_as_a_Known_and_Unknown_Reality_2">
+          <span class="pr-2">El futuro de nuestro planeta como una realidad «conocida» y «desconocida» – Partes II y III</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

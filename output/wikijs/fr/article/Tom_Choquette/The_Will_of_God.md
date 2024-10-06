@@ -85,7 +85,7 @@ Avec sa grâce
 
 À M
 
-La Volonté de Dieu, Partie 2 « Miséricorde »… À venir dans une publication près de chez vous cet été.
+La Volonté de Dieu, Partie 2 « Miséricorde »… À venir dans une publication près de chez vous cet été.
 
 > Jésus révéla à ce monde une qualité de droiture supérieure à la justice — simple technique du bien et du mal. L’amour divin ne se borne pas à pardonner les torts ; il les absorbe et les détruit réellement. Le pardon de l’amour transcende de loin le pardon de la miséricorde. La miséricorde met de côté la culpabilité du méfait, mais l’amour détruit définitivement le péché et toutes les faiblesses qui en résultent. Jésus apporta une nouvelle manière de vivre sur Urantia. Il ne nous enseigna pas à résister au mal, mais à trouver à travers lui, Jésus, une bonté qui détruit efficacement le mal. Le pardon de Jésus n’est pas une indulgence ; il sauve de la condamnation. Le salut ne minimise pas les torts, *il les redresse.* Le véritable amour ne comporte ni compromis avec la haine ni indulgence pour elle ; il la détruit. L’amour de Jésus ne se satisfait jamais du simple pardon. L’amour du Maitre implique la réhabilitation, la survie éternelle. Il est parfaitement correct de qualifier le salut de rédemption si l’on veut parler de cette réhabilitation éternelle. (<a id="a89_1072"></a>[LU 188:5.2](/fr/The_Urantia_Book/188#p5_2))
 

@@ -49,7 +49,7 @@ In an effort to appeal to the non-reader, I encouraged interviewees to describe 
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2013_12/021.jpg">
-<figcaption><em>Janelle Mazza talks about _The Urantia Book_</em></figcaption>
+<figcaption><em>Janelle Mazza talks about The Urantia Book</em></figcaption>
 </figure>
 
 Initially, I intended to create one short video about three minutes long, but because the testimonies from readers were so rich and thoughtful, multiple videos will be coming. Some of them will focus on an individual reader; others will be topical, such as readers talking about Jesus, the inner presence of God, and life after death.

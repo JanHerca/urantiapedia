@@ -45,7 +45,7 @@ dateCreated: 2023-8-29T10:55:6Z
 - Mon expérience comme animateur de l’École Internet du Livre d’Urantia
 - La fille en chemisier rose
 - Danser avec Dieu : Naître en caractère sacré , une retraite des filles de Dieu
-- Cercles de confiance : une expérience de partage d'âme
+- Cercles de confiance : une expérience de partage d'âme
 - Les plus grandes histoires jamais racontées
 
 <figure id="Figure_2" class="image urantiapedia">

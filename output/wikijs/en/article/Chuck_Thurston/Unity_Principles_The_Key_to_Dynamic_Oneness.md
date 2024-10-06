@@ -42,7 +42,7 @@ _by Chuck Thurston_
 
 How do we achieve spiritual unity without falling into the trap of social uniformity?
 
-The essential difference, I think, between spiritual unity and social uniformity is best seen in the contrasting qualities of personal interaction that are associated with each. Unity is a principle that governs dynamic interactions, while uniformity describes a static condition of sameness. Spiritual unity nourishes the creative freedom of the individual, and releases the “spontaneous, generous, and sincere friendliness which characterizes the spirit-born sons of the living God.” (<a id="a20_487"></a>[UB 180:5.12](/en/The_Urantia_Book/180#p5_12))
+The essential difference, I think, between spiritual unity and social uniformity is best seen in the contrasting qualities of personal interaction that are associated with each. Unity is a principle that governs dynamic interactions, while uniformity describes a static condition of sameness. Spiritual unity nourishes the creative freedom of the individual, and releases the “spontaneous, generous, and sincere friendliness which characterizes the spirit-born sons of the living God.” (<a id="a44_487"></a>[UB 180:5.12](/en/The_Urantia_Book/180#p5_12))
 
 Before going on, let's look at some important definitions:
 
@@ -59,11 +59,11 @@ Before going on, let's look at some important definitions:
 
 Principles are given great importance in _The Urantia Book_:
 
-> Presently new systems of values come into existence; _new formulations of principles and standards are achieved_; habits and ideals are reshaped. . . (emphasis added) (<a id="a37_170"></a>[UB 101:7.3](/en/The_Urantia_Book/101#p7_3))
+> Presently new systems of values come into existence; _new formulations of principles and standards are achieved_; habits and ideals are reshaped. . . (emphasis added) (<a id="a61_170"></a>[UB 101:7.3](/en/The_Urantia_Book/101#p7_3))
 
-> He told the three apostles that he was concerned _only with the principles_ of man's inner and personal spiritual life. (emphasis added) (<a id="a39_140"></a>[UB 140:8.9](/en/The_Urantia_Book/140#p8_9))
+> He told the three apostles that he was concerned _only with the principles_ of man's inner and personal spiritual life. (emphasis added) (<a id="a63_140"></a>[UB 140:8.9](/en/The_Urantia_Book/140#p8_9))
 
-> His instruction embraces _the ideal principles_ of living near God in all ages and on all worlds. (emphasis added) (<a id="a41_118"></a>[UB 140:8.2](/en/The_Urantia_Book/140#p8_2))
+> His instruction embraces _the ideal principles_ of living near God in all ages and on all worlds. (emphasis added) (<a id="a65_118"></a>[UB 140:8.2](/en/The_Urantia_Book/140#p8_2))
 
 Principles inspire a dynamic sense of possibility and direction, but they don't predetermine outcomes. Rules and laws, on the other hand, are meant to be obeyed. They produce a common ground of enforced predictability where certain behaviors are concerned. This has long been a practical necessity, as can be seen in the moral codes of ancient civilizations.
 
@@ -94,11 +94,11 @@ All types of agreements can create unity, but agreements about values and princi
 
 Love for Jesus is one of our highest levels of value recognition, and this also becomes a powerful unifying influence when it inspires our love for each other.
 
-> Your personalities may be refreshingly diverse and markedly different, while your spiritual natures and spirit fruits of divine worship and brotherly love may be so unified that all who behold your lives will of a surety take cognizance of this spirit identity and soul unity; they will recognize _that you have been with me_ and have thereby learned, and acceptably, how to do the will of the Father in heaven. (emphasis added) (<a id="a72_432"></a>[UB 141:5.2](/en/The_Urantia_Book/141#p5_2))
+> Your personalities may be refreshingly diverse and markedly different, while your spiritual natures and spirit fruits of divine worship and brotherly love may be so unified that all who behold your lives will of a surety take cognizance of this spirit identity and soul unity; they will recognize _that you have been with me_ and have thereby learned, and acceptably, how to do the will of the Father in heaven. (emphasis added) (<a id="a96_432"></a>[UB 141:5.2](/en/The_Urantia_Book/141#p5_2))
 
 Our potential for spiritual unity comes from our individual relationships with God, even though each of these relationships is unique. While our personalities are unique, the Thought Adjuster essence that we see in others is the same spirit presence that we find within ourselves.
 
-> The unity of religious experience among a social or racial group derives from the identical nature of the God fragment indwelling the individual. (<a id="a76_149"></a>[UB 103:1.1](/en/The_Urantia_Book/103#p1_1))
+> The unity of religious experience among a social or racial group derives from the identical nature of the God fragment indwelling the individual. (<a id="a100_149"></a>[UB 103:1.1](/en/The_Urantia_Book/103#p1_1))
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Chuck_Thurston/29.jpg">
@@ -106,9 +106,9 @@ Our potential for spiritual unity comes from our individual relationships with G
 
 If we turn to other unity principles that support greater spiritual unity, near the top of the list would be the principle of individual responsibility for the good of the whole. Anything we can offer that is truly good for the whole will also bring benefit to ourselves and others, and when the individual truly benefits, the whole becomes stronger. Loyal commitment to our relationship with the whole is inherently and profoundly unifying in its implications.
 
-> As moves the part, so moves the whole. (<a id="a84_42"></a>[UB 12:7.11](/en/The_Urantia_Book/12#p7_11))
+> As moves the part, so moves the whole. (<a id="a108_42"></a>[UB 12:7.11](/en/The_Urantia_Book/12#p7_11))
 
-> Throughout the universe, every unit is regarded as a part of the whole. Survival of the part is dependent on cooperation with the plan and purpose of the whole, the wholehearted desire and perfect willingness to do the Father's divine will. (<a id="a86_244"></a>[UB 3:5.15](/en/The_Urantia_Book/3#p5_15))
+> Throughout the universe, every unit is regarded as a part of the whole. Survival of the part is dependent on cooperation with the plan and purpose of the whole, the wholehearted desire and perfect willingness to do the Father's divine will. (<a id="a110_244"></a>[UB 3:5.15](/en/The_Urantia_Book/3#p5_15))
 
 The Father's will can also be seen as a principle unto itself. From the definition above, the Father's will can clearly be recognized as both a “fundamental truth” and a “proposition that serves as the foundation for beliefs, values, behavior, and chains of reasoning.”
 

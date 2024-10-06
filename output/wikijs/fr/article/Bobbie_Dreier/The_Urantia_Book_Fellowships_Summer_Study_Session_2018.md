@@ -38,11 +38,11 @@ _Par Bobbie Dreier, New Jersey, États-Unis_
 
 La session estivale de la Fellowship du Livre d’Urantia de 2018, se tiendra de nouveau cette année, à Techny Towers à Northbrook, Illinois. C’est l’occasion de rejoindre la famille du Livre d’Urantia par l’étude, l’adoration et la fraternité. Comme d’habitude, il y aura des orateurs inspirés qui partageront leurs pensées et des étudiants créatifs qui donneront des ateliers stimulants.
 
-De plus, il y aura chaque jour du temps pour l’adoration contemplative. « L’Adoration _—_ la contemplation du spirituel _—_ doit alterner avec le service, le contact avec la réalité matérielle. » <a id="a40_196"></a>[LU 143:7.3](/fr/The_Urantia_Book/143#p7_3). Nous prendrons du temps de « contempler le spirituel » de façon à mieux _adorer_ et _servir_ avec notre famille céleste.
+De plus, il y aura chaque jour du temps pour l’adoration contemplative. « L’Adoration _—_ la contemplation du spirituel _—_ doit alterner avec le service, le contact avec la réalité matérielle. » <a id="a40_196"></a>[LU 143:7.3](/fr/The_Urantia_Book/143#p7_3). Nous prendrons du temps de « contempler le spirituel » de façon à mieux _adorer_ et _servir_ avec notre famille céleste.
 
 L’une des plus grandes joies de participer à une conférence du Livre d’Urantia est de revoir d’anciens amis et d’en rencontre de nouveaux. La Session d’Étude Estivale permet tous les avantages d’une grande conférence mais offre plus d’occasions pour le partage personnel et les conversations prolongées.
 
-La Session d’Étude Estivale se tiendra du 19 au 22 juillet et sera précédée par deux jours de retraite spirituelle, « Le Cercle de Confiance » commençant le jeudi soir, le 17 juillet.
+La Session d’Étude Estivale se tiendra du 19 au 22 juillet et sera précédée par deux jours de retraite spirituelle, « Le Cercle de Confiance » commençant le jeudi soir, le 17 juillet.
 
 Si vous avez une idée d’atelier se rapportant au thème, « C’est un Univers Amical : Servir avec Notre Famille Céleste », contactez Jackie Koury à [jacquelyn.koury@gmail.com](mailto:jacquelyn.koury@gmail.com) pour demander un formulaire.
 

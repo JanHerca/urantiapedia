@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-2-july-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-2-juillet-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 2, July 2019 — Table des matières</span>
         </a>
         </td>
@@ -44,11 +44,11 @@ Depuis le début de ma recherche jusqu’à la fin du symposium, tout fut une av
 
 Je rencontrai l’équipe assidue de la Fondation Urantia, qui fit tout son possible pour nous faire comprendre l’histoire du _Livre d’Urantia_ ainsi que le travail de la Fondation et comment il est relié aux différents lecteurs dans le monde. Ce que je vis et entendis me fit apprécier leur dévouement et leur détermination pour s’assurer que le livre soit imprimé, distribué et préservé en conséquence.
 
-Le symposium ouvrit mon mental sur la nécessité de respecter et de comprendre la diversité culturelle du monde et les différents défis que cette diversité présente dans la dissémination des enseignements. Des exemples incluaient : la religion institutionnelle, les traditions, la politique, le comportement personnel et les niveaux de lecture.
+Le symposium ouvrit mon mental sur la nécessité de respecter et de comprendre la diversité culturelle du monde et les différents défis que cette diversité présente dans la dissémination des enseignements. Des exemples incluaient : la religion institutionnelle, les traditions, la politique, le comportement personnel et les niveaux de lecture.
 
 Des questions concernant le livre reçurent une réponse consciencieuse de la part de l’équipe de la Fondation et de ses orateurs. Cela inspira la confiance et renforça notre motivation de faire connaître les enseignements du _Livre d’Urantia_ dans nos pays respectifs. Leurs conseils m’ont inspiré pour introduire et promouvoir le livre en Ouganda.
 
-## Leçons apprises personnellement :
+## Leçons apprises personnellement :
 
 - Tout est possible si vous avez la foi et croyez
 - Vous trouverez toujours la vérité si vous la cherchez
@@ -59,9 +59,9 @@ Des questions concernant le livre reçurent une réponse consciencieuse de la pa
 - La méditation et l’expérience partagée des enseignements stimulent la croissance spirituelle expérimentale
 - La Providence, l’orientation et l’amour de Dieu sont partout présents, pour nous tous à étreindre
 
-## Leçons apprises par nous tous sur notre monde culturellement différent :
+## Leçons apprises par nous tous sur notre monde culturellement différent :
 
-- Apprécier chaque culture du monde : elles ont toutes quelque chose d’unique à partager
+- Apprécier chaque culture du monde : elles ont toutes quelque chose d’unique à partager
 - Chacun de nous est unique et fait l’expérience du développement spirituel d’une manière différente
 - Nous sommes mondialement un, mais différents en processus mental et en expérience spirituelle
 - _Le Livre d’Urantia_ n’est pas une religion
@@ -103,7 +103,7 @@ Je remercie tous ceux concernés, de m’avoir donné une expérience du Livre d
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-2-july-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-2-juillet-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 2, July 2019 — Table des matières</span>
         </a>
         </td>

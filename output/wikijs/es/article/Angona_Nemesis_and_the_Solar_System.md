@@ -42,7 +42,7 @@ Según algunos astrónomos, existe evidencia suficiente para postular que los re
 
 La evidencia de estos desastres aparece en la Tierra hace 12, 38, 65, 92 y 125 millones de años, lo que indica un ciclo de unos 28 millones de años. Probablemente el ciclo se remonta a un pasado lejano, pero la evidencia ahora ha sido borrada a través de procesos geológicos naturales.
 
-¿Podría esta estrella colapsada ser Angona, el culpable del Libro de Urantia de la iniciación del sistema solar? Según el relato del libro, la visita de Angona a la vecindad del sol duró unos 500 millones de años, tiempo suficiente para unas veinte visitas de la Estrella de la Muerte Némesis. Supongo que parece poco probable que sean el mismo sistema.
+¿Podría esta estrella colapsada ser Angona, el culpable del _Libro de Urantia_ de la iniciación del sistema solar? Según el relato del libro, la visita de Angona a la vecindad del sol duró unos 500 millones de años, tiempo suficiente para unas veinte visitas de la Estrella de la Muerte Némesis. Supongo que parece poco probable que sean el mismo sistema.
 
 Debido a la evidencia científica que se ha acumulado desde que se recibieron los Documentos en 1934, ahora se necesita una revisión de la cosmología del libro para los orígenes del sistema solar. ¿Estaba destinado a ser tomado como un hecho, o es un relato «lo suficientemente cercano» como para servir como material de relleno de un «marco universal en el que pensar»? (ver <a id="a46_375"></a>[LU 115:1.1](/es/The_Urantia_Book/115#p1_1))
 

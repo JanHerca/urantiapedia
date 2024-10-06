@@ -89,9 +89,9 @@ Plans are being developed for the launch of a restricted fundraiser for the sole
 
 Urantia Foundation's independent auditors submitted their 2016 audit results to the Finance Committee and the board. The board approved the audit. To read Urantia Foundation's 990, please click on this link: http://www.urantia.org/urantia-foundation/form-990.
 
-## 9. Line St-Pierre elected as associate trustee emeritiWith Line St-Pierre's
+## 9. Line St-Pierre elected as associate trustee emeriti
 
-associate trustee term expiring now, the board of trustees appointed her an associate trustee emeritus and invited her to continue conducting seminars for women at Urantia Foundation. Thank you, Line, for your five years of service on the Foundation's board.
+With Line St-Pierre's associate trustee term expiring now, the board of trustees appointed her an associate trustee emeritus and invited her to continue conducting seminars for women at Urantia Foundation. Thank you, Line, for your five years of service on the Foundation's board.
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2017_06/015.jpg">

@@ -3,7 +3,7 @@ title: Early Migration to Britain
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: Anthropology, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -73,7 +73,7 @@ This report focuses on several statements made in *The Urantia Book* about the e
 
 The general model for preparing UBtheNEWS reports is to quote sparingly from *The Urantia Book*, staying narrowly focused on the specific statements that are being corroborated by advances and science and scholarship since its publication. This report departs somewhat from that approach. Because this topic is regularly being advanced with new discoveries and scientific methodologies that provide insights into ancient human history and because *The Urantia Book* provides a selection of specific statements and general commentary relevant to the new discoveries that are being made in this field, this report will provide several pages of material from *The Urantia Book* in order to give readers an appreciation for of both the details and general account that it provides regarding this extensive period of human history that covers hundreds of thousands of years. Given the ongoing nature and progressive development of the AHOB project, there is a reasonable expectation that this report will soon need to be updated with additional evidence of *The Urantia Book*’s accuracy regarding the ancient occupation of Britain by some of the earliest human beings. The broader selection of material offered in this report will also serves as a foreshadowing of the types of discoveries that are being anticipated. 
 
-Readers who are particularly interested in this subject are encouraged to read all of [Chapter 64](/The_Urantia_Book/64) in *The Urantia Book* (about ten pages). Also, the last several sections of [Chapter 62](/The_Urantia_Book/62) and [Chapter 63](/The_Urantia_Book/63) recount the story of the first human beings and provide additional insights about the origins of human life. According to *The Urantia Book*, humanity began nearly 1,000,000 years ago and was marked by the evolution of a species possessing sufficient mental capacity and intellectual sophistication to engage in spiritual thinking and make spiritual choices, to recognize wisdom and strive for ideals. Naturally, such a definition of being human does not lend itself well to scientific investigation. Additionally, as this report demonstrates, archaeologists continue to be surprised by new discoveries; early human history is hardly a settled field of science. So, not surprisingly, there are still many areas of this subject where scholarly opinions and theories are not aligned with *The Urantia Book*. Nonetheless, this report, along with the [Adam and Eve Report](/en/article/Halbert_Katzen/Adam_and_Eve), [Vikings Report](/en/article/Halbert_Katzen/Early_migration_to_the_Americas) and the [Early Migration to the Americas Report](/en/article/Halbert_Katzen/Early_migration_to_the_Americas), are part of an emerging pattern of increased support for *The Urantia Book*’s statements regarding human history. 
+Readers who are particularly interested in this subject are encouraged to read all of [Chapter 64](/en/The_Urantia_Book/64) in *The Urantia Book* (about ten pages). Also, the last several sections of [Chapter 62](/en/The_Urantia_Book/62) and [Chapter 63](/en/The_Urantia_Book/63) recount the story of the first human beings and provide additional insights about the origins of human life. According to *The Urantia Book*, humanity began nearly 1,000,000 years ago and was marked by the evolution of a species possessing sufficient mental capacity and intellectual sophistication to engage in spiritual thinking and make spiritual choices, to recognize wisdom and strive for ideals. Naturally, such a definition of being human does not lend itself well to scientific investigation. Additionally, as this report demonstrates, archaeologists continue to be surprised by new discoveries; early human history is hardly a settled field of science. So, not surprisingly, there are still many areas of this subject where scholarly opinions and theories are not aligned with *The Urantia Book*. Nonetheless, this report, along with the [Adam and Eve Report](/en/article/Halbert_Katzen/Adam_and_Eve), [Vikings Report](/en/article/Halbert_Katzen/Early_migration_to_the_Americas) and the [Early Migration to the Americas Report](/en/article/Halbert_Katzen/Early_migration_to_the_Americas), are part of an emerging pattern of increased support for *The Urantia Book*’s statements regarding human history. 
 
 Some of the challenges associated with reconciling anthropological discoveries with *The Urantia Book* are attributable to its assertion that varying degrees of mating occurred in the early periods of human history between humans and their immediate prehuman predecessors. Aside from not being a “politically correct” topic of discussion, this also makes it extremely difficult for anthropologists to interpret their findings. Even the use of flint and other rudimentary tools is said to have developed among our prehuman ancestors, making it all the more difficult for scholars to correlate the use of tools with the emergence of human beings. 
 
@@ -206,7 +206,9 @@ The selections from *The Urantia Book* provided in this report provide a basis f
 
 ## External links
 
-* This report in UBTheNews webpage: http://ubannotated.com/ubthenews/topics/foxhall_1/
+* [This report in UBTheNews webpage](http://ubannotated.com/ubthenews/topics/foxhall_1/)
+* [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 * *Britain's drowned world*, *Channel 4*, April 2007. Great 2007 summary article with dates and places of discovery, vole clock, axe handles, advancing and retreating ice.
 	 
 	https://web.archive.org/web/20090619033218/http://www.channel4.com/history/microsites/T/timeteam/2007_dogger_ancient.html [Original link broken]
@@ -333,27 +335,27 @@ The selections from *The Urantia Book* provided in this report provide a basis f
 
 [^1]: With special thanks to Chris Halvorson, Ph.D., Fred Harris, J.D., and Donna Whelan
 
-[^2]: <a id="a335_6"></a>[UB 64:1.6](/en/The_Urantia_Book/64#p1_6)
+[^2]: <a id="a337_6"></a>[UB 64:1.6](/en/The_Urantia_Book/64#p1_6)
 
-[^3]: <a id="a337_6"></a>[UB 64:1.5](/en/The_Urantia_Book/64#p1_5)
+[^3]: <a id="a339_6"></a>[UB 64:1.5](/en/The_Urantia_Book/64#p1_5)
 
-[^4]: <a id="a339_6"></a>[UB 64:2.1-6](/en/The_Urantia_Book/64#p2_1)
+[^4]: <a id="a341_6"></a>[UB 64:2.1-6](/en/The_Urantia_Book/64#p2_1)
 
-[^5]: <a id="a341_6"></a>[UB 64:4.6](/en/The_Urantia_Book/64#p4_6)
+[^5]: <a id="a343_6"></a>[UB 64:4.6](/en/The_Urantia_Book/64#p4_6)
 
 [^6]: Proyecto AHOB, https://www.ahobproject.org/ and https://www.ahobproject.org/AHOBI/index_2.html
 
-[^7]: <a id="a345_6"></a>[64:1.5 - 64:2.6](/en/The_Urantia_Book/64#p1_5)
+[^7]: <a id="a347_6"></a>[64:1.5 - 64:2.6](/en/The_Urantia_Book/64#p1_5)
 
-[^8]: <a id="a347_6"></a>[UB 64:7.16-17](/en/The_Urantia_Book/64#p7_16). These last two sentences are taken from a section related to the time period from approximately 500,000 to 80,000 years ago.
+[^8]: <a id="a349_6"></a>[UB 64:7.16-17](/en/The_Urantia_Book/64#p7_16). These last two sentences are taken from a section related to the time period from approximately 500,000 to 80,000 years ago.
 
 [^9]: M.J. White, y S.J. Plunkett, *Miss Layard excavates: a Palaeolithic site at Foxhall Road, Ipswich, 1903-1905*. Bristol: WASP, 2004.
 
 [^10]: From Wikipedia.com: “The Lower Paleolithic (or Lower Palaeolithic) is the earliest subdivision of the Paleolithic or Old Stone Age. It spans the time from around 2.5 million years ago when the first evidence of craft and use of stone tools by hominids appears in the current archaeological record, until around 100,000 years ago when important evolutionary and technological changes (behavioral modernity) ushered in the Middle Paleolithic.” https://en.wikipedia.org/wiki/Lower_Paleolithic
 
-[^11]: <a id="a353_7"></a>[UB 64:3.1,4-5](/en/The_Urantia_Book/64#p3_1)
+[^11]: <a id="a355_7"></a>[UB 64:3.1,4-5](/en/The_Urantia_Book/64#p3_1)
 
-[^12]: <a id="a355_7"></a>[UB 64:4.1-11](/en/The_Urantia_Book/64#p4_1)
+[^12]: <a id="a357_7"></a>[UB 64:4.1-11](/en/The_Urantia_Book/64#p4_1)
 
 [^13]: The Arvicolinae is a subfamily of rodents that includes voles, lemmings, and muskrats. https://en.wikipedia.org/wiki/Arvicolinae
 
@@ -363,11 +365,11 @@ The selections from *The Urantia Book* provided in this report provide a basis f
 
 [^16]: Jonathan Leake, *First Neanderthal tracked to Torquay*, *The Sunday Times*, October 2006, https://www.thetimes.co.uk/article/first-neanderthal-tracked-to-torquay-th0zg0rl2ch [Link requires subscription] http://www.archaeology.ws/2006-10-3.htm [Link with the new]
 
-[^17]: <a id="a365_7"></a>[UB 64:2.5](/en/The_Urantia_Book/64#p2_5)
+[^17]: <a id="a367_7"></a>[UB 64:2.5](/en/The_Urantia_Book/64#p2_5)
 
-[^18]: <a id="a367_7"></a>[UB 64:7.18](/en/The_Urantia_Book/64#p7_18)
+[^18]: <a id="a369_7"></a>[UB 64:7.18](/en/The_Urantia_Book/64#p7_18)
 
-[^19]: <a id="a369_7"></a>[UB 64:7.16](/en/The_Urantia_Book/64#p7_16)
+[^19]: <a id="a371_7"></a>[UB 64:7.16](/en/The_Urantia_Book/64#p7_16)
 
 [^20]: The chron is a unit of time, the shortest used in geochronology to refer to geological periods. The duration of each cron is variable. The extension of a chron is frequently linked to reversals of the Earth's magnetic field that record the beginning and end of the period in the rock. https://en.wikipedia.org/wiki/Magnetostratigraphy#Chron
 

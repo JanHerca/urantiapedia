@@ -214,7 +214,7 @@ Such an improved knowledge might contribute to a more compassionate understandin
 The Hopi and other Native American tribes have a more modern prophecy that echoes the memory of the Sangiks, the rainbow tribes. “When the earth is dying there shall arise a new tribe of all colours and all creeds. This tribe shall be called _The Warriors of the Rainbow_ and it will put its faith in actions not words.”[^11] 
 
 > Dave Holt was born in Toronto, Ontario, Canada, of Irish, English, and Ojibway (Chippewa) Indian ancestry. Introduced to _The Urantia Book_ in 1976, he joined the Family of God Foundation, and is now serving as Vice President of the Golden Gate Circle Society. An award-winning writer and poet, Dave lives in Concord, CA, with his wife Chappell, and he has a daughter, Kelsey, now 21. 
-> {.is-info}
+{.is-info}
 
 ## References
 

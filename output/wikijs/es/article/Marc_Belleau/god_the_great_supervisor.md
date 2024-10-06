@@ -79,7 +79,7 @@ Enseñar que las catástrofes, las enfermedades y cualquier tribulación que nos
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-febrero-2016/?lang=es)
 - [Este artículo](https://urantia-association.org/dios-el-gran-supervisor/?lang=es)
 

@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-3-numéro-3-sept-2009">
+        <a href="/fr/index/articles_uf_news_online#volume-3-numéro-3-septembre-2009">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, numéro 3, Sept. 2009 — Table des matières</span>
         </a>
         </td>
@@ -83,7 +83,7 @@ Le 3 décembre 1970, un tribunal des successions transféra la propriété de Di
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-3-numéro-3-sept-2009">
+        <a href="/fr/index/articles_uf_news_online#volume-3-numéro-3-septembre-2009">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, numéro 3, Sept. 2009 — Table des matières</span>
         </a>
         </td>

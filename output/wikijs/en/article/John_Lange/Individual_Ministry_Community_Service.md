@@ -50,7 +50,7 @@ Throughout _The Urantia Book_ religion is described as this dual experience of l
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Urantian/Supremacy.jpg">
-<figcaption>Figure 1. — Loving God Religious Growth Serving Man</figcapton>
+<figcaption>Figure 1. — Loving God Religious Growth Serving Man</figcaption>
 </figure>
 
 This discussion will focus on the service dimension and will be divided into two parts. Part I, entitled “Individual Ministry,” will undertake six historical character studies and examine their service to humanity as an outgrowth of their religious lives. Part II, entitled “Community Service,” will explore four communities, two historical and two contemporary, whose common bond has given them spiritual unity and enhanced their mission in the world. At the close, applications to our individual and collective spiritual lives will be considered.
@@ -145,7 +145,7 @@ These four communities were chosen because of their unique formation under adver
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Urantian/individual.jpg">
-<figcaption>Figure 2. — Loving God Religious Growth Serving Man</figcapton>
+<figcaption>Figure 2. — Loving God Religious Growth Serving Man</figcaption>
 </figure>
 
 ### The Future

@@ -22,7 +22,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 > La facilité avec laquelle les résidents du Paradis peuvent consulter cette vaste **réserve de connaissance** est uniquement due aux efforts **volontaires** et sages des gardiens de la connaissance. [LU 27:5.5](/fr/The_Urantia_Book/27#p5_5)
 
-La citation précédente est inspirante et contient la motivation que nous voulons promouvoir *Urantiapedia*. *Urantiapedia* veut être une grande réserve de connaissances sur *Le Livre d'Urantia*. L'objectif est de créer une encyclopédie en ligne qui permet la diffusion des connaissances sur *Le Livre d'Urantia*, et qui est basée sur des principes comme la mondialisation, la collaboration, l'altruisme et l'exhaustivité.
+La citation précédente est inspirante et contient la motivation que nous voulons promouvoir *Urantiapedia*. *Urantiapedia* veut être une grande réserve de connaissances sur *Le Livre d'Urantia*. L'objectif est de créer une vaste bibliothèque en ligne qui permet la diffusion des connaissances sur *Le Livre d'Urantia*, et qui est basée sur des principes comme la mondialisation, la collaboration, l'altruisme et l'exhaustivité.
 
 ## Pourquoi Urantiapédia
 
@@ -83,6 +83,9 @@ Voyons ces principes plus en détail.
 
 ## Principe I. Multilingue
 
+> Nous voulons que toutes les connaissances sur *Le Livre d'Urantia* soient disponibles dans toutes les langues possibles afin que ces révélations difficiles puissent être comprises *nativement* par la plus grande population.
+{.is-info}
+
 [La Fondation Urantia](https://www.urantia.org/) et les associations ont fait un excellent travail dans les traductions du *Livre d'Urantia*, mais nous devons aller au-delà.
 
 Considérez ces faits sur les traductions:
@@ -92,7 +95,7 @@ Considérez ces faits sur les traductions:
 * Moins de 1% des œuvres secondaires ont une traduction dans d'autres langues, et 99% sont uniquement en anglais.
 
 <figure id="Principes_fig_1" class="image urantiapedia">
-<img src="/image/UB_potential_readers_by_native_speakers.png">
+<img src="/image/help/UB_potential_readers_by_native_speakers.png">
 <figcaption><em>Pourcentage de lecteurs potentiels du Livre d'Urantia dans le monde dans leur langue maternelle (juillet 2022). En langues bleues avec traduction officielle disponible, total 32,61%. Cela signifie que 2/3 des habitants du monde ne peuvent pas lire le livre dans leur langue maternelle.</em></figcaption>
 </figure>
 
@@ -103,7 +106,7 @@ Mais cette stratégie doit être mise à jour. Les deux tiers des habitants du m
 > . . . il est regrettable qu’il n’y ait eu personne comme Pierre pour aller en **Chine**, ou comme Paul pour pénétrer aux **Indes** . . . [LU 130:2.3](/fr/The_Urantia_Book/130#p2_3)
 
 <figure id="Principes_fig_2" class="image urantiapedia">
-<img src="/image/UB_secondary_works_potential_readers_by_native_speakers.png">
+<img src="/image/help/UB_secondary_works_potential_readers_by_native_speakers.png">
 <figcaption><em>Pourcentage de lecteurs potentiels de Secondary Work dans le monde dans leur langue maternelle (juillet 2022). En proportion bleue disponible. Les lecteurs potentiels en première langue des Œuvres secondaires sont principalement anglophones.</em></figcaption>
 </figure>
 
@@ -124,9 +127,14 @@ Si quelqu'un dit: Devons-nous tous commencer à apprendre une seconde langue mai
 
 ## Principe II. Multi-collaboratif
 
+> Nous voulons que ce travail de collecte de contenu sur *Le Livre d'Urantia* se fasse de manière collaborative et sans risques, dans le cadre d'un travail d'équipe.
+{.is-info}
+
 Il existe de nombreux sites Web sur le *Livre d'Urantia*, nous les avons vus, et nous n'en connaissons pas un seul qui soit un Wiki pouvant être mis à jour sans risque par des dizaines d'utilisateurs en même temps.
 
 Les pages d'associations et autres sont en fait des blogs où si vous souhaitez collaborer avec des œuvres secondaires, vous devez les envoyer à l'administrateur du site. Il n'y a pas d'agilité, il n'y a pas de collaboration, il n'y a pas de mécanismes permettant à plusieurs personnes de travailler « en même temps » sur le même contenu en toute sécurité.
+
+> L’une des plus importantes leçons à apprendre pendant votre carrière mortelle est celle du *travail en équipe.* [LU 28:5.14](/fr/The_Urantia_Book/28#p5_14)
 
 *Urantiapedia* est conçu pour encourager la collaboration dès le départ:
 * *Urantiapedia* est un Wiki, avec un logiciel éprouvé, appelé [Wiki.js](https://js.wiki/).
@@ -151,6 +159,9 @@ Bien sûr, *Urantiapedia* est conçu pour avoir des permissions. Les utilisateur
 
 ## Principe III. Altruisme
 
+> Nous voulons que ce projet soit un projet de service altruiste envers les autres, notamment envers les générations futures.
+{.is-info}
+
 Nous avons besoin de plus de gens inspirés, pas d'argent.
 
 * Des personnes inspirées, des personnes désintéressées qui veulent collaborer et servir sans attendre de récompense sont les personnes qui apportent le meilleur travail. Nous avons d'abord besoin de ce type de collaborateurs.
@@ -161,6 +172,9 @@ Nous avons besoin de plus de gens inspirés, pas d'argent.
 
 ## Principe IV. Complétude
 
+> Nous voulons que ce site soit un centre ouvert à toute révélation et à tous les lecteurs, un lieu où retrouver toutes les pensées et idées de ceux qui nous ont précédés.
+{.is-info}
+
 *Urantiapedia* vise à comprendre tout ce qui est lié à l'ensemble du *Livre d'Urantia*, pas seulement des parties de celui-ci.
 
 Il existe un certain nombre de sites Web qui se concentrent uniquement sur la partie IV du *Livre d'Urantia* et font de Jésus le centre du message d'Urantia. Jésus n'est pas le centre du *Livre d'Urantia*. Jésus est devenu le centre de la [Quatrième révélation](/en/The_Urantia_Book/92#p4_8). Mais il faut éviter cela dans la Cinquième. Le centre devrait maintenant être la révélation complète.
@@ -168,6 +182,16 @@ Il existe un certain nombre de sites Web qui se concentrent uniquement sur la pa
 > . . . La vérité vivante ne donne au chercheur un enseignement valable que si elle est embrassée dans sa **totalité**. . . [LU 195:5.2](/fr/The_Urantia_Book/195#p5_2)
 
 Le but de *Urantiapedia* est d'aider à la compréhension de tout le contenu du *Livre d'Urantia*, et d'aider à la création d'un magasin unique pour relier et rassembler toutes les connaissances disponibles. Ceci est particulièrement important pour diffuser les révélations dans les pays de l'Est, dans lesquels Christ et Jésus ne sont pas des concepts habituels pour aborder la religion et la divinité.
+
+Sur *Urantiapedia*, toutes les idées sont les bienvenues, tous les lecteurs sont les bienvenus, tous ceux qui travaillent à la diffusion et à la compréhension du *Le Livre d'Urantia* sont les bienvenus.
+
+Depuis le lancement de ce projet il y a quelques années, il est arrivé à plusieurs reprises que certains lecteurs nous contactent pour nous demander de limiter le contenu de *Urantiapedia*. Que nous censurons certains écrits et ignorons les œuvres de certaines personnes. Cela ne s'est pas produit une ou deux fois. Cette situation commence à se produire avec une certaine fréquence.
+
+Urantiapedia veut être un recueil de connaissances sur le *Livre d'Urantia*. Pour y parvenir, nous ne pouvons censurer ou ignorer qui que ce soit ou quoi que ce soit. Si nous faisions cela, nous priverions les générations futures des leçons tirées par tous les lecteurs et étudiants du *Livre d'Urantia*, qu'ils aient eu raison ou tort dans leurs conclusions ou dans le contenu de leurs travaux. Il appartient à chaque génération, en fonction de ses lumières et de sa compréhension, de filtrer de ce site les contenus qui sont sur la bonne voie et de louer ces parties, en critiquant les parties les moins chanceuses avec un caractère critique constructif.
+
+Il convient de rappeler l'événement qui s'est produit à Gamala, lors de la tournée de prédication de Jésus dans la Décapole. Jean avait été à Ashtaroth et avait interdit à un homme de continuer à prêcher au nom du Maître parce qu'il n'avait jamais été ordonné prédicateur par Jésus. Et la réponse de Jésus est bien connue : « Quiconque n’est pas contre nous est avec nous. » [LU 159:2.1](/fr/The_Urantia_Book/159#p2_1)
+
+Chez *Urantiapedia*, cela sera l'un de nos principes essentiels. Le contenu de ce site Web cherchera à être complet et n'acceptera PAS la censure, les préjugés, le fanatisme ou l'arrogance. Nous n’accepterons pas de faire taire certains lecteurs parce qu’ils écrivent des choses qui ne sont peut-être pas du goût ou de l’acceptation générale. Nous n'accepterons pas d'exclure d'*Urantiapedia* certains écrits religieux parce qu'ils proviennent de religions que certains lecteurs méprisent. Nous n’accepterons pas de limiter le contenu car il y a ceux qui croient que son contenu est faux et croient détenir la seule vérité. Nous ne ferons pas non plus de curation de contenu (*Content curation*). Nous voulons que *Urantiapédia* soit un site ouvert à toutes les réflexions qui ont existé jusqu'à présent sur la *Cinquième Révélation qui marque une époque*.
 
 ## Liens externes
 

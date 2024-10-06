@@ -66,7 +66,7 @@ Piso 2/ 2-6 Edlington St. Hawthorn, tel. 8186970 Vivienda, 2408021 Trabajo.
 > 
 > «El hombre mortal es una máquina, un mecanismo viviente; sus raíces se encuentran realmente en el mundo físico de la energía. Muchas reacciones humanas son de naturaleza maquinal; una gran parte de la vida se parece a una máquina. Pero el hombre, un mecanismo, es mucho más que una máquina; está dotado de una mente y habitado por un espíritu; y aunque durante toda su vida material no pueda librarse nunca del mecanismo electroquímico de su existencia, puede aprender a subordinar cada vez más esta máquina de vida física a la sabiduría directriz de la experiencia, mediante el proceso de consagrar la mente humana a ejecutar los impulsos espirituales del Ajustador del Pensamiento interior.» (<a id="a66_697"></a>[LU 118:8.1-2](/es/The_Urantia_Book/118#p8_1))
 
-## Comentario sobre declaraciones científicas en El libro de Urantia, Parte II
+## Comentario sobre declaraciones científicas en _El libro de Urantia_, Parte II
 
 **Atmósferas planetarias**
 

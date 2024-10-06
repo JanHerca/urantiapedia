@@ -40,7 +40,7 @@ L'USUA a célébré son premier anniversaire lors de la conférence IUA de 1996 
 
 ## Le messager de l'USUA
 
-Notre newsletter, The USUA Messenger, paraîtra tous les deux mois. Toute personne en dehors des États-Unis souhaitant le recevoir doit contacter **Morris Kaplowitz, 11512 Hearthstone Court, Reston, Virginie 22091, e-mail : mokap@nicom.com**.
+Notre newsletter, The USUA Messenger, paraîtra tous les deux mois. Toute personne en dehors des États-Unis souhaitant le recevoir doit contacter **Morris Kaplowitz, 11512 Hearthstone Court, Reston, Virginie 22091, e-mail : mokap@nicom.com**.
 
 En conclusion, l'USUA a eu la chance de compter de nombreuses personnes qui ont fait des dons et de l'argent pour réserver la conférence. Nous avons largement dépassé nos attentes en matière de collecte de fonds, un effort de collecte de fonds qui ne s'est concrétisé que le deuxième jour du congrès. Quelqu'un s'occupe de nous. Merci! Son amour est sans limites et brille à travers les yeux et vit dans le cœur de nous, humbles mortels.
 

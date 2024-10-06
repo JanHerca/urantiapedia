@@ -181,7 +181,7 @@ Encore une fois, le 2 mai 1955, William Sadler, Jr., prépara un mémorandum pou
 
 ## « La confiance extraordinaire… »
 
- Tout au long de la première période, l'accent a été mis sur une étude sérieuse des fascicules. « En 1939, certains d'entre nous pensaient que le moment était venu où nous devrions former une classe pour nous engager dans l'étude plus sérieuse et plus systématique des Cahiers d'Urantia. Ce projet a été présenté au Forum et lorsqu'on a compté ceux qui souhaitaient rejoindre un tel groupe, il s'est avéré que seulement 70 personnes souhaitaient participer à cette étude. Ainsi, pendant plusieurs années, cette classe fut appelée « les soixante-dix ». Deux ou trois ans avant la formation des Soixante-dix, un groupe informel se réunissait le mercredi soir. 
+Tout au long de la première période, l'accent a été mis sur une étude sérieuse des fascicules. « En 1939, certains d'entre nous pensaient que le moment était venu où nous devrions former une classe pour nous engager dans l'étude plus sérieuse et plus systématique des Cahiers d'Urantia. Ce projet a été présenté au Forum et lorsqu'on a compté ceux qui souhaitaient rejoindre un tel groupe, il s'est avéré que seulement 70 personnes souhaitaient participer à cette étude. Ainsi, pendant plusieurs années, cette classe fut appelée « les soixante-dix ». Deux ou trois ans avant la formation des Soixante-dix, un groupe informel se réunissait le mercredi soir. 
 
 « Les Soixante-Dix ont mené une étude systématique des Cahiers d'Urantia du 5 avril 1939 jusqu'en 1956. Ce fut le précurseur de la dernière « École de la Fraternité Urantia ». 
 
@@ -338,3 +338,4 @@ C'est une erreur de croire que celui qui contrôle le livre contrôle le mouveme
 ## Références
 
 * [Cet article dans les archives de la bourse](https://archive.urantiabook.org/archive/history/carolyns_revelation_plan.htm)
+* [Cet article dans SquareCircles website](https://squarecircles.com/wp-content/uploads/2018/08/PlanForUrantiaBookRevelation.pdf)

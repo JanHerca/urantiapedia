@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-4-oct-2022">
+        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-4-octobre-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 4, Oct. 2022 — Table des matières</span>
         </a>
         </td>
@@ -39,11 +39,11 @@ Un appel à la conscience : Défendre la liberté et les droits de l'homme <br> 
 
 ## Le Parlement des Religions du Monde
 
-En août 2023, le Parlement des Religions du Monde retournera à Chicago, la ville natale du mouvement inter religieux moderne. Le thème sera « Un Appel de Conscience : Défendre la Liberté et les droits de l’homme. »
+En août 2023, le Parlement des Religions du Monde retournera à Chicago, la ville natale du mouvement inter religieux moderne. Le thème sera « Un Appel de Conscience : Défendre la Liberté et les droits de l’homme. »
 
 Quatre organisations Urantia—Truthbook, l’Association Urantia Internationale, la Fellowship du Livre d’Urantia—partagent de nouveau le coût d’un stand double.
 
-Plus d’informations seront disponibles pour les membres du lectorat qui désirent participer et donner de leur temps au stand. Si vous voulez allez plus loin pour assurer que la cinquième révélation soit bien représentée à cet événement, vous pouvez envisager de faire une présentation !
+Plus d’informations seront disponibles pour les membres du lectorat qui désirent participer et donner de leur temps au stand. Si vous voulez allez plus loin pour assurer que la cinquième révélation soit bien représentée à cet événement, vous pouvez envisager de faire une présentation !
 
 Les propositions doivent arriver avant le 4 novembre 2022.
 
@@ -57,7 +57,7 @@ Si vous voulez que _Le Livre d’Urantia_ et des traductions de qualité soient 
 
 Contactez nous, aujourd’hui, pour plus d’informations pour savoir comment faire un don qui perdurera. Nous nous assurerons que votre don soit utilisé comme vous le souhaitez.
 
-Contactez : [tamara@urantia.org](mailto:tamara@urantia.org)
+Contactez : [tamara@urantia.org](mailto:tamara@urantia.org)
 
 
 
@@ -80,7 +80,7 @@ Contactez : [tamara@urantia.org](mailto:tamara@urantia.org)
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-4-oct-2022">
+        <a href="/fr/index/articles_uf_news_online#volume-16-numéro-4-octobre-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 4, Oct. 2022 — Table des matières</span>
         </a>
         </td>

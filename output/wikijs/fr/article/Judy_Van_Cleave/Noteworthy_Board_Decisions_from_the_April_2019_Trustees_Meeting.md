@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-2-july-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-2-juillet-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 2, July 2019 — Table des matières</span>
         </a>
         </td>
@@ -41,27 +41,27 @@ dateCreated: 2023-8-29T10:55:6Z
 _Par Judy Van Cleave, secrétaire de la Fondation Urantia, Idaho, États-Unis_
 <br style="clear:both;"/>
 
-## 1. La Révision espagnole
+## 1. La Révision espagnole
 
 Quand elle sera terminée en 2020, la révision espagnole remplacera les éditions actuelles d’Amérique Latine et Européenne. Après neuf ans de travail, la révision est en phase finale de copie/perfectionnement.
 
 Le processus de traduction et de révision de la Fondation est conçu pour produire les meilleures traductions du texte anglais. Après avoir produit deux traductions espagnoles, nous avons appris qu’une seule traduction de haute qualité est préférable à deux. Des traductions multiples provoquent la confusion dans les groupes d’étude et peuvent avoir pour résultat des litiges comme nous avons pu voir en Corée. Cela provoque aussi de la confusion pour la distribution du livre comme nous en avons fait l’expérience en Russie. Vous pouvez imaginer le chaos si trop de versions du livre en anglais existait.
 
-## 2. Le combat avec la mairie
+## 2. Le combat avec la mairie
 
 Nous continuons le combat contre les 300% d’augmentation de la taxe de Chicago, appliquée à 533 Diversey. Des mesures légales ont été prises pour inverser cette augmentation écrasante de la taxe immobilière de Chicago. Avec optimisme, nous mettons tous nos espoirs dans la correction de cette nouvelle estimation. Dans l’histoire du comté, il y a eu beaucoup d’erreurs commises par le bureau de l’évaluateur du comté. Mais c’est un dur travail légal de convaincre une ville avec des problèmes financiers de baisser ses taxes. 533 est le berceau de la cinquième révélation d’époque et nous avons besoin de votre soutien financier pour _sauvegarder_ ce bâtiment _historique_ pour les générations futures.
 
-## 3. Rapports du conseil d’administration
+## 3. Rapports du conseil d’administration
 
-Le conseil d’administration a revu : a) un rapport du président et de la directrice exécutive, b) un rapport financier et des investissements du trésorier, et c) les rapports des comités suivants : Livre, Éducation, Gouvernance et Nominations, Finances, Collectes de fonds, Sensibilisation et Traductions.
+Le conseil d’administration a revu : a) un rapport du président et de la directrice exécutive, b) un rapport financier et des investissements du trésorier, et c) les rapports des comités suivants : Livre, Éducation, Gouvernance et Nominations, Finances, Collectes de fonds, Sensibilisation et Traductions.
 
-## 4. Parrainage d’activités de la Communauté
+## 4. Parrainage d’activités de la Communauté
 
 Au premier trimestre, nous avons parrainé deux conférences régionales de l’AUI, en Estonie et au Nigeria. Nous sommes aussi préparés à parrainer les efforts du Pipeline de Lumière de la Fellowship en plaçant des Livres d’Urantia en espagnol, en Amérique Latine.
 
-## 5. Élections des officiels de la Fondation Urantia
+## 5. Élections des officiels de la Fondation Urantia
 
-Le conseil d’administration a voté pour les représentants officiels suivants, pour les trois prochaines années : Mo Siegel, président ; Marilynn Kulieke, vice-présidente ; Georges Michelson-Dupont, vice-président européen ; Judy Van Cleave, secrétaire ; et Gard Jameson, trésorier
+Le conseil d’administration a voté pour les représentants officiels suivants, pour les trois prochaines années : Mo Siegel, président ; Marilynn Kulieke, vice-présidente ; Georges Michelson-Dupont, vice-président européen ; Judy Van Cleave, secrétaire ; et Gard Jameson, trésorier
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2019_07/008.jpg">
@@ -86,7 +86,7 @@ Le rapport annuel 2018 est disponible en ligne. [Veuillez cliquer ici pour le li
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-2-july-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-2-juillet-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 2, July 2019 — Table des matières</span>
         </a>
         </td>

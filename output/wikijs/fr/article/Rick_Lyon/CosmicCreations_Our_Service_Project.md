@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-2-july-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-2-juillet-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 2, July 2019 — Table des matières</span>
         </a>
         </td>
@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Rick Lyon, Indiana, États-Unis_
 
-Note de l’éditeur : Après avoir entendu la présentation que Rick donna sur le service et sur CosmicCreations, nous lui avons demandé d’écrire sur le sujet avec l’espoir que vous trouverez ça aussi motivant que nous.
+Note de l’éditeur : Après avoir entendu la présentation que Rick donna sur le service et sur CosmicCreations, nous lui avons demandé d’écrire sur le sujet avec l’espoir que vous trouverez ça aussi motivant que nous.
 
 Le sujet du service semble être dans tous les esprits en ce moment. L’un des projets de service dans lequel ma femme, Susan et moi-même, sommes engagés est CosmicCreation- Une boutique en ligne qui propose des produits dérivés Urantia avec les cercles concentriques, comme des casquettes, des tee-shirts, des mugs à thé, des stylos, des colliers, des broches et de l’art. Nous proposons aussi de la musique et des publications que les lecteurs pourraient aimer.
 <br style="clear:both;"/>
@@ -51,9 +51,9 @@ Le sujet du service semble être dans tous les esprits en ce moment. L’un des 
 <img src="/image/article/UF_News_Online/2019_07/042.jpg">
 </figure>
 
-Nous pensons que notre plus importante contribution est la dissémination des enseignements Urantia. L’utilisation du symbole des cercles concentriques et du mot « Urantia » invite les gens qui ne connaissent rien du _Livre d’Urantia_ à demander : « Qu’est-ce-que représentent ces cercles ? » ou « Qu’est-ce qu’Urantia ? » Nous trouvons que les gens sont plus ouverts à une conversation parce qu’ils nous approchent eux-mêmes, au lieu que ce soit nous.
+Nous pensons que notre plus importante contribution est la dissémination des enseignements Urantia. L’utilisation du symbole des cercles concentriques et du mot « Urantia » invite les gens qui ne connaissent rien du _Livre d’Urantia_ à demander : « Qu’est-ce-que représentent ces cercles ? » ou « Qu’est-ce qu’Urantia ? » Nous trouvons que les gens sont plus ouverts à une conversation parce qu’ils nous approchent eux-mêmes, au lieu que ce soit nous.
 
-Un exemple s’est passé en 2015, au Parlement des Religions du Monde à Salt Lake City. Je portais un teeshirt avec le logo Urantia sur le devant et l’une des citations sur les _inévitabilités de la vie,_ dans le dos. Une ado me tapa sur l’épaule et me demanda, « Monsieur, peut-on prendre votre photo ? » je me retournai, bombai le torse et dis « Certainement ! » Ses amis et elle me répondirent, « Non, le dos de votre teeshirt. Nous aimons vraiment ce qui est écrit dessus . » Le résultat est que trois jeunes apprirent à connaître _Le Livre d’Urantia._ Une fois aussi, alors que nous sortions d’un théâtre portant nos tee-shirts, quelqu’un cria « Urantia » ! Il vint vers moi et me dit, « Je lis ce livre. »
+Un exemple s’est passé en 2015, au Parlement des Religions du Monde à Salt Lake City. Je portais un teeshirt avec le logo Urantia sur le devant et l’une des citations sur les _inévitabilités de la vie,_ dans le dos. Une ado me tapa sur l’épaule et me demanda, « Monsieur, peut-on prendre votre photo ? » je me retournai, bombai le torse et dis « Certainement ! » Ses amis et elle me répondirent, « Non, le dos de votre teeshirt. Nous aimons vraiment ce qui est écrit dessus . » Le résultat est que trois jeunes apprirent à connaître _Le Livre d’Urantia._ Une fois aussi, alors que nous sortions d’un théâtre portant nos tee-shirts, quelqu’un cria « Urantia » ! Il vint vers moi et me dit, « Je lis ce livre. »
 
 Chaque matin, Susan et moi aimons prendre notre café dans l’un de nos mugs et nous réalisons combien nous faisons partie d’un project très important–la cinquième révélation d’époque–un projet du Christ Michaël. Chaque jour, nous nous souvenons que nous pouvons changer le monde en nous changeant nous-mêmes, en étant au service des autres, recherchant la volonté du Père en passant du temps à méditer, à prier et à adorer.
 <br style="clear:both;"/>
@@ -66,13 +66,13 @@ Par CosmicCreations, nous avons encouragé les clients à trouver et à démarre
 
 Nous publions aussi une newsletter pour nos clients. Récemment, nous avons inclus une annonce pour la Conférence Midwest 2019 à venir et il s’est avéré qu’une dame de notre liste d’adresses était une amie proche de la présidente de cet événement, Janet Guaderrama- mais aucune des deux ne savait que l’autre lisait _Le Livre d’Urantia._ Il y a tellement de coïncidences.
 
-## Pourquoi le faisons-nous ?
+## Pourquoi le faisons-nous ?
 
 L’avantage personnel est de partager la fortune gagnée à la tombola spirituelle en trouvant _Le Livre d’Urantia_. CosmicCreations est un projet sur lequel Susan et moi pouvons travailler ensemble et nous nous sentons tellement bénis d’avoir cette possibilité de service.
 
 > Jésus enseignait que le service aux autres est le plus haut concept de la fraternité des croyants spirituels. <a id="a72_112"></a>[LU 188:4.9](/fr/The_Urantia_Book/188#p4_9)
 
-## Où nous trouver ?
+## Où nous trouver ?
 
 Visitez s’il vous plaît, notre site et apprenez-en plus à notre sujet à [CosmicCreations.biz](https://cosmiccreations.biz/)
 
@@ -97,7 +97,7 @@ Visitez s’il vous plaît, notre site et apprenez-en plus à notre sujet à [Co
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-2-july-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-2-juillet-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 2, July 2019 — Table des matières</span>
         </a>
         </td>

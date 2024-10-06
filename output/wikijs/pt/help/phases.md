@@ -29,7 +29,6 @@ Neste marco é adicionado o conteúdo considerado mínimo para iniciar a *Uranti
 Para criar os links para a *Bíblia*, está sendo usado o Paramony de Duane L. Faw, que é um arquivo com referências cruzadas entre a *Bíblia* e o *Livro de Urântia*.
 
 https://urantia-book.org/urantiabook/paramony/
-
 Para criar o *Topic Index*, o índice criado pela *Urantia Fellowship* para sua edição em inglês do *O Livro de Urântia* está sendo usado como orientação. Este índice, por conter apenas breves anotações, está sendo expandido para se tornar um texto completo que servirá como a versão inicial para cada página de tópico.
 
 https://urantia-book.org/urantiabook/topical_index/index.htm
@@ -53,8 +52,6 @@ Neste marco, o conteúdo da Urantiapedia é expandido com três áreas principai
 - Artigos, auxílios de estudo e esquemas do *O Livro de Urântia*. Há muitos deles no site da [Fundação Urântia](https://www.urantia.org/), na [Fellowship](https://urantiabook.org/), nas associações de Urantia e em sites individuais. Nenhum conteúdo será publicado sem a autorização expressa dos autores sempre que for possível localizá-los. O conteúdo pode ser carregado de duas formas: edição pública (qualquer editor pode aprimorá-lo) e edição fechada (somente o autor ou usuários autorizados pelo autor podem modificá-lo). Os artigos também podem incluir imagens.
 - Índices, que são páginas com listas de links ou páginas que resumem um tópico.
 
-Espera-se que este marco seja alcançado no segundo trimestre de 2023.
-
 
 Tarefas | Onde | Quem
 --- | --- | ---
@@ -66,7 +63,7 @@ Adição de índices de pessoas, seres, lugares, *A Bíblia*, referências, cita
 Carregamento em massa de arquivos no formato Wiki.js | GitHub | Administradores
 
 <figure id="Sample_fig_1" class="image urantiapedia">
-<img src="/image/sample_page_article.png">
+<img src="/image/help/sample_page_article.png">
 <figcaption><em> Exemplo de renderização de um artigo.</em></figcaption>
 </figure>
 
@@ -82,8 +79,6 @@ Neste marco apenas o desenvolvimento será realizado. Duas novas ferramentas ser
 - Um novo tipo de visualizador de conteúdo que permite visualizar o conteúdo em uma coluna dupla, mostrando dois dos idiomas disponíveis ao mesmo tempo. Um bom uso disso é poder ver o original em inglês do *O Livro de Urântia* e outro idioma, mas isso funcionaria para qualquer página e qualquer par de idiomas.
 - Uma opção também será adicionada para poder selecionar a tradução desejada para o espanhol, uma vez que existem três traduções oficiais de *O Livro de Urântia* para o espanhol. Apenas uma será a tradução padrão à qual os links de outras páginas serão conectados, mas ao mostrar as páginas do livro em espanhol, será adicionada uma opção que permite alternar da tradução padrão para as demais.
 
-Espera-se que este marco seja alcançado no primeiro trimestre de 2024.
-
 
 Tarefas | Onde | Quem
 --- | --- | ---
@@ -94,7 +89,7 @@ Desenvolvimento em *Wiki.js* de um novo visualizador de modo duplo para *O Livro
 Desenvolvimento em Wiki.js de um seletor de preferência na tradução para uso do *Livro de Urântia* (para idiomas como o espanhol com vários) | GitHub | Desenvolvedores
 
 <figure id="Sample_fig_2" class="image urantiapedia">
-<img src="/image/sample_page_side_by_side.png">
+<img src="/image/help/sample_page_side_by_side.png">
 <figcaption><em> Amostra de renderização do Livro de Urântia lado a lado.</em></figcaption>
 </figure>
 
@@ -113,8 +108,6 @@ Os desenvolvimentos que serão necessários no *Wiki.js* são:
 - Um renderizador do lado do servidor que converte o padrão em um visualizador da web que renderiza o mapa criado.
 - O visualizador web que apresenta o mapa criado no lado do cliente, uma versão simplificada (sem ferramentas de edição) do editor de mapas.
 
-Espera-se que este marco seja alcançado no segundo trimestre de 2024.
-
 
 Tarefas | Onde | Quem
 --- | --- | ---
@@ -122,7 +115,7 @@ Desenvolvimento em *Wiki.js* de um editor de mapas interativo, o formato e o ren
 Adição de um conjunto de mapas interativos de amostra, sobre migrações de raça, fatos históricos e viagens de Jesus | GitHub | Editores-chefes
 
 <figure id="Sample_fig_3" class="image urantiapedia">
-<img src="/image/sample_page_map.jpg">
+<img src="/image/help/sample_page_map.jpg">
 <figcaption><em> Exemplo de renderização de um mapa interativo.</em></figcaption>
 </figure>
 
@@ -140,8 +133,6 @@ Os desenvolvimentos que serão necessários no *Wiki.js* são:
 - Um renderizador do lado do servidor que converte o padrão em um visualizador da Web que exibe a apresentação criada.
 - O visualizador da web que exibe a apresentação no lado do cliente, uma versão simplificada (sem ferramentas de edição) do editor de apresentações.
 
-Este marco é esperado para o segundo trimestre de 2025.
-
 
 Tarefas | Onde | Quem
 --- | --- | ---
@@ -150,7 +141,7 @@ Desenvolvimento em *Wiki.js* de um editor de slides, com seu formato e renderiza
 Adição de um conjunto de diapositivos utilizando os disponíveis nos sites da associação | GitHub | Editores-chefes
 
 <figure id="Sample_fig_4" class="image urantiapedia">
-<img src="/image/sample_page_slides.png">
+<img src="/image/help/sample_page_slides.png">
 <figcaption><em> Exemplo de renderização de uma apresentação.</em></figcaption>
 </figure>
 
@@ -170,8 +161,6 @@ Os desenvolvimentos que serão necessários no Wiki.js são:
 - Integrar no Wiki.js um editor de cena glTF (usando um dos acima) no lado do cliente. glTF usa um formato JSON.
 - Um renderizador do lado do servidor que converte o glTF JSON em um visualizador da Web que exibe a cena 3D criada. O visualizador utilizado será aquele relacionado com o editor selecionado.
 
-Este marco é esperado para o segundo trimestre de 2026.
-
 
 Tarefas | Onde | Quem
 --- | --- | ---
@@ -180,7 +169,7 @@ Desenvolvimento em Wiki.js para um criador/editor de modelo interativo 3D, seu f
 Adição de um conjunto de modelos 3D sobre o Paraíso, esferas arquitetônicas, Jardim do Éden e similares | GitHub | Editores-chefes
 
 <figure id="Sample_fig_5" class="image urantiapedia">
-<img src="/image/sample_page_3d.jpg">
+<img src="/image/help/sample_page_3d.jpg">
 <figcaption><em> Exemplo de renderização de um modelo 3D.</em></figcaption>
 </figure>
  

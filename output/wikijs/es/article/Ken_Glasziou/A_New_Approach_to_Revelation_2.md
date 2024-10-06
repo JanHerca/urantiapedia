@@ -43,7 +43,7 @@ Por Ken Glasziou, Sunshine Coast QLD
 
 **Exploración de los archivos**
 
-_(«Extraído» del [Diario de la Beca del Libro de Urantia 1994](/es/article/Ken_Glasziou/A_New_Approach_to_Revelation))_
+_(«Extraído» del [Diario de la Beca del _Libro de Urantia_ 1994](/es/article/Ken_Glasziou/A_New_Approach_to_Revelation))_
 
 Después de muchos años de presentar _El Libro de Urantia_ tanto a los laicos cristianos como a los ministros, me enfrento cada vez más a la comprensión de que uno de los principales obstáculos que les impide un examen serio del libro es su pretensión de estatus revelador. La mayoría de las personas que crecieron en el cultivo de la fe cristiana han desarrollado consciente o inconscientemente una actitud fundamentalista hacia la Biblia: «Esta es la palabra de Dios y no debe ser cuestionada ni dudada». Esta impresión se ve reforzada en los versos finales del libro, que amenazan con plagas y otras consecuencias terribles a cualquiera que agregue o quite algo del libro. (No es muy conocido que este tipo de amenaza alguna vez fuera muy común, un precursor de lo que ahora conocemos como derechos de autor).
 

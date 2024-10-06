@@ -43,7 +43,7 @@ Le thème de l’été du Fellowship Herald est l’Esprit de vérité et le Sai
 
 Le thème de l’automne de Mighty Messenger est Tremplins vers la Révélation. Ceci est destiné à un individu qui cherche la vérité et qui ne connaît pas le livre d'Urantia - date limite le 10 septembre 2021.
 
-Nous avons la politique de promotion suivante si votre article demande du soutien pour votre projet :
+Nous avons la politique de promotion suivante si votre article demande du soutien pour votre projet :
 
 Politique de promotion des projets
 

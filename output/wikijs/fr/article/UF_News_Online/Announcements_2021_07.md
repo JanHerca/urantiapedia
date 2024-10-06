@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-2-july-2021">
+        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-2-juillet-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 2, July 2021 — Table des matières</span>
         </a>
         </td>
@@ -33,7 +33,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 ## La Traduction Turque Maintenant Disponible En Ligne
 
-La Fondation Urantia a publié en ligne la traduction turque de la Société de New York sur [www.urantia.org/tr](http://www.urantia.org/tr). Le traducteur turque sera heureux de connaître votre retour sur son travail. Aidez-nous, s’il vous plaît, à en parler aux lecteurs que vous connaissez, encouragez les à visiter le site et envoyez leur ressenti à Tamara Strumfeld à [tamara@urantia.org](mailto:tamara@urantia.org). Merci !
+La Fondation Urantia a publié en ligne la traduction turque de la Société de New York sur [www.urantia.org/tr](http://www.urantia.org/tr). Le traducteur turque sera heureux de connaître votre retour sur son travail. Aidez-nous, s’il vous plaît, à en parler aux lecteurs que vous connaissez, encouragez les à visiter le site et envoyez leur ressenti à Tamara Strumfeld à [tamara@urantia.org](mailto:tamara@urantia.org). Merci !
 
 ## Session d'étude d'été
 
@@ -67,7 +67,7 @@ DU JEUDI 16 AU DIMANCHE 19 JUIN 2022
 <img src="/image/article/UF_News_Online/2021_07/055.jpg" class="align-center">
 </figure>
 
-« Tout progrès humain est effectué par une technique conjointe d’_évolution-révélation._ » <a id="a69_91"></a>[LU 196:3.15](/fr/The_Urantia_Book/196#p3_15)
+« Tout progrès humain est effectué par une technique conjointe d’_évolution-révélation._ » <a id="a69_91"></a>[LU 196:3.15](/fr/The_Urantia_Book/196#p3_15)
 
 L’explosion de l’information et des innovations dans les domaines tels que l’anthropologie, l’archéologie, la chimie, la cosmologie, la paléontologie, la physique, la planétologie et la psychologie apportent de nouvelles perspectives à la conscience publique. Ce symposium approfondira les points de vue de la révélation et de la science actuelle relatifs à l’évolution et à ses différentes particularités de race, culture, génétique et de sexe. L’objectif est d’éduquer et de préparer le lectorat à aborder adroitement les questions concernant les sujets sensibles comme révélés dans _Le Livre d’Urantia._
 
@@ -114,7 +114,7 @@ Il comprend de nouvelles cartes du monde dans lequel Jésus a voyagé et vécu, 
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-2-july-2021">
+        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-2-juillet-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 2, July 2021 — Table des matières</span>
         </a>
         </td>

@@ -55,7 +55,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2019_10/001.jpg">
 </figure>
 
-## Volumen 13, Número 3. October 2019
+## Volumen 13, Número 3. Octubre 2019
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2019_10/048.jpg">

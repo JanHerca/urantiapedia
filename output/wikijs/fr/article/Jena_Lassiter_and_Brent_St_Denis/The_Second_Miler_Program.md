@@ -49,7 +49,7 @@ La Fellowship du Livre d'Urantia souhaite faire un rapport sur le « Deuxième p
 
 Depuis l’annonce de notre programme pilote, nous avons reçu et examiné de nombreuses propositions diverses et créatives. Une fois notre projet pilote réussi, nous sommes maintenant sur le point d'ouvrir ce fonds à tous les membres et aux lecteurs et communautés authentiques du Livre d'Urantia dans le monde entier.
 
-Avez-vous une idée de façons nouvelles ou meilleures de partager les enseignements du _Livre d'Urantia_ ?
+Avez-vous une idée de façons nouvelles ou meilleures de partager les enseignements du _Livre d'Urantia_ ?
 
 Qu'il soit grand ou petit, que vous travailliez seul ou avec votre groupe d'étude, votre société ou un groupe informel d'autres lecteurs, vous pouvez demander un soutien financier à notre programme de subventions Second Miler. Allez sur notre site Web, [urantiabook.org/About-The-Urantia-Book-Fellowship#second-miler](https://urantiabook.org/About-The-Urantia-Book-Fellowship#second-miler).
 

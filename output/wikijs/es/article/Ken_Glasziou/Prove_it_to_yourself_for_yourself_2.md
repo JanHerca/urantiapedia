@@ -101,7 +101,7 @@ Otro ejemplo de error en los Documentos que las personas interesadas pueden veri
 
 Esto significa que la distancia a Andrómeda es la distancia recorrida por la luz en un millón de años, y la unidad de distancia se denomina año luz. En 1929, el Hubble publicó su hallazgo de que Andrómeda estaba a un millón de años luz de nosotros, una cifra que tuvo que ser más del doble cuando, en 1951, Walter Baade descubrió un problema en la metodología utilizada por el Hubble.
 
-Recientemente, algunos fundamentalistas del Libro de Urantia han utilizado este hecho para despreciar a la ciencia y a los científicos con el fin de fortalecer su dogma de que cada vez que hay una discrepancia entre lo que afirman los Documentos de Urantia y la opinión científica, es la ciencia la que está equivocada.
+Recientemente, algunos fundamentalistas del _Libro de Urantia_ han utilizado este hecho para despreciar a la ciencia y a los científicos con el fin de fortalecer su dogma de que cada vez que hay una discrepancia entre lo que afirman los Documentos de Urantia y la opinión científica, es la ciencia la que está equivocada.
 
 Para el caso de Andrómeda, justifican su afirmación señalando que las constantes utilizadas por los astrónomos para calcular las distancias a estrellas lejanas mediante métodos esotéricos como el desplazamiento hacia el rojo se conocen de forma muy imprecisa.
 

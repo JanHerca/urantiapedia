@@ -47,7 +47,7 @@ En tant que Sage de Salem, Machiventa Melchizédek portait l’emblème de la Tr
 
 ## Chronologie des ministères de Melchisédek sur Terre
 
-Il y a cinq périodes de ministère à considérer concernant les ministères personnels de Machiventa sur Terre :
+Il y a cinq périodes de ministère à considérer concernant les ministères personnels de Machiventa sur Terre :
 
 a. **Membre des douze Récepteurs Planétaires** installés sur Urantia peu après la sécession de Caligastia, il y a environ deux cent mille ans. Ces fils d’urgence ont habilement guidé les affaires mondiales bouleversées au cours du long et lent développement culturel et éthique qui a suivi. Ils ont aidé Van et Amadon lors de la préparation du jardin d'Eden et étaient en service en tant que gardiens et receveurs alors que la progéniture d'Adam et Ève se dispersait dans leurs migrations mondiales.
 
@@ -60,11 +60,11 @@ Malheureusement, leur message n'est pas resté totalement permanent au milieu de
 <figcaption><em>La rencontre d'Abraham et Melchisédek, par Peter Paul Rubens</em></figcaption>
 </figure>
 
-c. **Ensuite, Machiventa a collaboré avec de nombreux prophètes et voyants** sur Terre, invisiblement présents d'environ 1866 avant JC à 30 après JC, pendant environ 1 900 ans, jusqu’à l’époque de l’arrivée et du ministère du Christ sur Terre.
+c. **Ensuite, Machiventa a collaboré avec de nombreux prophètes et voyants** sur Terre, invisiblement présents d'environ 1866 avant JC à 30 après JC, pendant environ 1 900 ans, jusqu’à l’époque de l’arrivée et du ministère du Christ sur Terre.
 
 > _Durant les dix-neuf siècles suivants, ce Melchizédek collabora d’une façon continue avec de nombreux prophètes et voyants, s’efforçant ainsi de garder vivantes les vérités de Salem jusqu’à la plénitude des temps pour l’apparition de Micaël sur terre._ (<a id="a64_256"></a>[LU 93:10.4](/fr/The_Urantia_Book/93#p10_4))
 
-Au cours de cette période marquante de l’histoire de la Terre, de nombreux prophètes et voyants notables sont entrés en scène. Je suppose qu’il était probable que Melchisédek ait collaboré, de manière invisible, avec beaucoup d’entre eux et ait encouragé leurs efforts, particulièrement en ce qui concerne le concept de Dieu. Les personnes et événements hautement significatifs comprennent :
+Au cours de cette période marquante de l’histoire de la Terre, de nombreux prophètes et voyants notables sont entrés en scène. Je suppose qu’il était probable que Melchisédek ait collaboré, de manière invisible, avec beaucoup d’entre eux et ait encouragé leurs efforts, particulièrement en ce qui concerne le concept de Dieu. Les personnes et événements hautement significatifs comprennent :
 
 Isaac, Jacob, Amenhotep IV (Akhenaton), Moïse, les Anasazi, David, Salomon, Homère, Amos, Osée, Isaïe, Draco d'Athènes, Ésope, Siddhartha Gautama (Bouddha), Confucius, Socrate, Ezra, les Douze Tables écrites par Romains (fondement du droit moderne), fondation de la République romaine, démocratie établie à Athènes, Néhémie, Démocrite, Hippocrate, Platon, Aristote, Théophraste, Andronicus (le premier poète romain) et Virgile.
 
@@ -85,7 +85,7 @@ Nous explorons ici plus en détail cette quatrième période (d), le mandat de c
 - Séparation entre les églises orientales (orthodoxes) et occidentales (romaines), 1054
 - Période Pueblo classique de la culture Anasazi, Amérique du Nord, v. 10h00-13h00
 
-Les bases pour estimer le calendrier du gouverneur général Melchisédek, une période de cent ans, découlent des éléments suivants :
+Les bases pour estimer le calendrier du gouverneur général Melchisédek, une période de cent ans, découlent des éléments suivants :
 
 Les trois premières parties des fascicules d'Urantia furent achevées en 1935 après JC. Pour l’expression « il y a moins de mille ans », j’estime 985 ans, ce qui nous ramène à l’an 950 après JC. À cela j'ajoute cent ans pour la durée du mandat de Melchisédek comme gouverneur général d'Urantia, ce qui nous amène à 1050 après JC.
 
@@ -101,7 +101,7 @@ Fin du mandat
 
 Ainsi, on estime qu’entre 950 et 1050 après JC, Machiventa aurait été invisiblement présent en tant que gouverneur général résident sur Urantia.
 
-## Comment fonctionne un gouverneur général résident ?
+## Comment fonctionne un gouverneur général résident ?
 
 En l’absence d'un prince planétaire résident régulier, condition qui est notre cas depuis longtemps, la gouvernance de notre monde est plutôt menée par un triumvirat composé de :
 

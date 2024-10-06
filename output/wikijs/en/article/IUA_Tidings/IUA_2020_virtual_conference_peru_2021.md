@@ -38,7 +38,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/peru-2912854_1920.jpg">
-<figcaption><em>Image by Carlos Chirinos</em></figcapton>
+<figcaption><em>Image by Carlos Chirinos</em></figcaption>
 </figure>
 
 Image by Carlos Chirinos

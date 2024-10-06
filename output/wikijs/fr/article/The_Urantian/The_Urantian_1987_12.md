@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 **Numéro double de la conférence spéciale**
 
-_NOTE DE L'ÉDITEUR : Ce numéro de L'URANTIEN, Journal de la Fraternité URANTIA, à notre avis, capture l'esprit de la Conférence Générale tenue dans le Maine l'été dernier. Même si nous n'avons pas pu reproduire ici toutes les belles présentations et ateliers qui y ont été proposés, nous sommes heureux de fournir un souvenir à ceux qui y ont assisté et une idée de ce qui s'est passé à ceux qui n'ont pas pu le faire. Tous ces éléments présentés ici pointent clairement vers le thème de la conférence : la transformation personnelle et son pouvoir de transformer le monde. Nous commençons par le discours d'ouverture de Jim Johnston._
+_NOTE DE L'ÉDITEUR : Ce numéro de L'URANTIEN, Journal de la Fraternité URANTIA, à notre avis, capture l'esprit de la Conférence Générale tenue dans le Maine l'été dernier. Même si nous n'avons pas pu reproduire ici toutes les belles présentations et ateliers qui y ont été proposés, nous sommes heureux de fournir un souvenir à ceux qui y ont assisté et une idée de ce qui s'est passé à ceux qui n'ont pas pu le faire. Tous ces éléments présentés ici pointent clairement vers le thème de la conférence : la transformation personnelle et son pouvoir de transformer le monde. Nous commençons par le discours d'ouverture de Jim Johnston._
 
 
 ## Soyez-vous parfait
@@ -61,7 +61,7 @@ _Kansas City Times_
 
 La plupart de ce que j’ai vraiment besoin de savoir sur la façon de vivre, sur ce qu’il faut faire et comment être, je l’ai appris à la maternelle. La sagesse n’était pas au sommet de la montagne des études supérieures mais là, sur le bac à sable de l’école maternelle.
 
-Voici les choses que j'ai apprises : partagez tout. Jouer franc jeu. Ne frappez pas les gens. Remettez les choses là où vous les avez trouvées. Nettoyez votre propre désordre. Ne prenez pas des choses qui ne vous appartiennent pas. Dites que vous êtes désolé lorsque vous avez blessé quelqu'un. Lavez-vous les mains avant de manger. Affleurer. Les biscuits chauds et le lait froid sont bons pour vous. Vivez une vie équilibrée, apprenez et réfléchissez, dessinez, peignez, chantez, dansez, jouez et travaillez tous les jours.
+Voici les choses que j'ai apprises : partagez tout. Jouer franc jeu. Ne frappez pas les gens. Remettez les choses là où vous les avez trouvées. Nettoyez votre propre désordre. Ne prenez pas des choses qui ne vous appartiennent pas. Dites que vous êtes désolé lorsque vous avez blessé quelqu'un. Lavez-vous les mains avant de manger. Affleurer. Les biscuits chauds et le lait froid sont bons pour vous. Vivez une vie équilibrée, apprenez et réfléchissez, dessinez, peignez, chantez, dansez, jouez et travaillez tous les jours.
 
 Faites une sieste tous les après-midi. Lorsque vous parcourez le monde, surveillez la circulation, tenez-vous la main et restez ensemble. Soyez conscient de l’émerveillement. N'oubliez pas la petite graine dans le gobelet en plastique. Les racines descendent et les plantes poussent et personne ne sait vraiment comment ni pourquoi, mais nous sommes tous comme ça.
 
@@ -73,17 +73,17 @@ _Par Curt Cloninger, 17 avril 1986_
 
 Mon Dieu est un danseur de slam sur un sol avec des spectres, 
 lumières psychédéliques;
-et les gens; et des bruits ; et les odeurs ; et des bosses
+et les gens; et des bruits ; et les odeurs ; et des bosses
 et tout ce qu'Il connaît, c'est la musique.
 (Il garde les yeux fermés)
-Mon Dieu bouge comme personne ne peut le faire ;
+Mon Dieu bouge comme personne ne peut le faire ;
 et se brise et se retourne, et se jette comme un magnifique fluide bleu
 en apesanteur.
 Si la musique avait une vie et un corps, elle refléterait les mouvements de mon Dieu, et c'est le cas.
 
 [Lire la suite](/fr/article/Curt_Cloninger/The_square_root_of_nothing)
 
-## Transformation : Et voici le mystère
+## Transformation : Et voici le mystère
 
 Je veux commencer par vous raconter une anecdote sur le célèbre évangéliste américain Billy Graham. Il semble qu'il se trouvait dans une petite communauté où il devait prendre la parole ce soir-là. Pendant la journée, il avait hâte de mettre quelques lettres au courrier et sortait se promener. Il a arrêté un jeune homme dans la rue pour lui demander son chemin vers le bureau de poste local. Après que le jeune lui eut donné l'information, Graham l'invita à sa prédication du soir, lui disant qu'il parlerait sur le thème « Le chemin du ciel ». Mais le jeune homme répondit qu'il ne serait probablement pas là. « Mon Dieu, » dit-il, « tu ne sais même pas comment aller à la poste. »
 

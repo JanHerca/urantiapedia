@@ -66,13 +66,13 @@ Se confirmaron a dos nuevos miembros y se celebró la primera reunión de este c
 
 ## Comité de Comunicaciones – presidenta: Kathleen Swadling
 
-- _Publicaciones_: se publicaron números regulares del _Journal_ y el _Tidings_ en inglés, francés y español, y se revisó la política de suscripciones al _Journal_. Se completó el Informe Anual  2014.
+- _Publicaciones_: se publicaron números regulares del _Journal_ y el _Tidings_ en inglés, francés y español, y se revisó la política de suscripciones al _Journal_. Se completó el Informe Anual 2014.
 - _Sitio web_: continuó la traducción del sitio web al francés, español, portugués, ruso y ucraniano. Dos lectores se han ofrecido para ayudar con la traducción del sitio web al holandés y al finés. Se ha añadido una nueva página de aterrizaje para los eventos, junto con un calendario de eventos. Se está investigando mejorar la velocidad del sitio web. El comité del sitio web ha comenzado a desarrollar un documento de _Política de Control de Acceso_ para garantizar la seguridad de la web.
 - _Relaciones públicas_: se estableció un subcomité de redes sociales para centrarse en Facebook, Twitter y cualquier otro tipo de red social en el que la asociación esté implicada. Antonio Schefer es el nuevo presidente y hay otros miembros que son lectores con experiencia en redes sociales. Comenzaron las conversaciones para revisar el contenido de la página de inicio del sitio web y el comité ayudó con la recaudación de fondos de otoño.
 
 ## Comité de Grupos de Estudio – presidente: Gaétan Charland
 
-Gaétan envió todos los informes y las recomendaciones finales de la Conferencia Internacional  2015. Asistió al Parlamento de las Religiones del Mundo y presentará un plan estratégico para el comité de Grupos de Estudio el cuarto trimestre.
+Gaétan envió todos los informes y las recomendaciones finales de la Conferencia Internacional 2015. Asistió al Parlamento de las Religiones del Mundo y presentará un plan estratégico para el comité de Grupos de Estudio el cuarto trimestre.
 
 ## Comité de Conferencias – presidente: Antonio Schefer
 

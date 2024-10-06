@@ -47,7 +47,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## External links
 
-- This report in UBTheNews webpage: http://ubannotated.com/ubthenews/Eugenics_Race_Urantia_Book/
+- [This report in UBTheNews webpage](http://ubannotated.com/ubthenews/Eugenics_Race_Urantia_Book/)
 
 
 

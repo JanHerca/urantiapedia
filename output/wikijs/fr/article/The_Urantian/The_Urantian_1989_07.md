@@ -31,7 +31,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Suggestions pour partager le Livre d'Urantia
 
-> _Note des éditeurs :_
+> _Note des éditeurs :_
 > 
 > _De nombreux lecteurs du _Livre d'URANTIA_ ont vu leur vie transformée en lisant, en étudiant et en appliquant ses enseignements. Ayant reçu le don de la révélation d’époque, leur amour pour les autres les pousse à servir en mettant sa connaissance et sa perspicacité à la disposition de tous ceux qui la recevront. Ce récit suggère quelques moyens par lesquels les lecteurs peuvent trouver des débouchés efficaces pour cette impulsion amoureuse. En tant que compilation des idées et des expériences de nombreuses personnes, il ne s'agit en aucun cas d'une déclaration officielle, mais représente simplement les opinions personnelles des auteurs et des éditeurs._
 {.is-info}
@@ -44,7 +44,7 @@ Il existe de nombreuses façons de servir l’humanité. Partager Le Livre LIRAN
 
 _Le Livre d'URANTIA_, aussi largement promu soit-il, n'est pas capable de transformer le monde à lui seul. La transformation globale ne se produira que grâce à la transformation spirituelle des individus et ensuite à mesure qu’ils inspireront à leur tour les autres avec lesquels ils entrent en contact. Les individus sont transformés par l’inspiration de l’esprit intérieur pour faire des choix moraux courageux et libres. La perspective révélatrice du _Livre d'URANTIA_ peut ouvrir les niveaux supérieurs de notre intellect pour mieux recevoir ce ministère de l'esprit intérieur.
 
-La prémisse de ce document est que le partage du _Livre d'URANTIA_ et de ses enseignements avec d'autres est la seule forme de service social qui relève de la seule province et responsabilité de ses lecteurs. Il cherche à suggérer certaines approches de partage du livre et de ses enseignements qui ont prouvé leur efficacité au fil des années. Les générations futures de lecteurs découvriront d’autres méthodes de service efficaces ; par conséquent, ces suggestions ne sont en aucun cas complètes ou définitives.
+La prémisse de ce document est que le partage du _Livre d'URANTIA_ et de ses enseignements avec d'autres est la seule forme de service social qui relève de la seule province et responsabilité de ses lecteurs. Il cherche à suggérer certaines approches de partage du livre et de ses enseignements qui ont prouvé leur efficacité au fil des années. Les générations futures de lecteurs découvriront d’autres méthodes de service efficaces ; par conséquent, ces suggestions ne sont en aucun cas complètes ou définitives.
 
 ## Récupérer notre sentiment de respect
 
@@ -148,7 +148,7 @@ Finalement, nous arrivons à la pratique du partage personnel des vérités du _
 
 Nous ne pouvons pas contrôler si un individu en particulier sera réceptif ou non aux enseignements du _Livre d'URANTIA_ tel que nous le présentons. Mais la vérité est puissante, et si nous sommes seulement disposés à contacter suffisamment de personnes qui semblent ouvertes, une partie d’entre elles répondront. L’ampleur réelle de cette fraction est le produit de notre sagesse dans le choix des individus et des méthodes, ainsi que de l’efficacité de notre communication.
 
-Il est devenu évident depuis la publication du _Livre d'URANTIA_ qu'à l'heure actuelle du développement de la conscience spirituelle sur cette planète, il y a relativement peu de personnes dans un groupe particulier qui sont susceptibles d'être intéressées par le contenu du livre, en grande partie je les trouve encore moins agréables. Même avec la sélection la plus minutieuse des candidats probables et la meilleure présentation imaginable, cela ne devrait pas nous surprendre lorsque nous sommes confrontés à de longues périodes d'approche de « bonnes » personnes qui rejettent notre approche.
+Il est devenu évident depuis la publication du _Livre d'URANTIA_ qu'à l'heure actuelle du développement de la conscience spirituelle sur cette planète, il y a relativement peu de personnes dans un groupe particulier qui sont susceptibles d'être intéressées par le contenu du livre, en grande partie je les trouve encore moins agréables. Même avec la sélection la plus minutieuse des candidats probables et la meilleure présentation imaginable, cela ne devrait pas nous surprendre lorsque nous sommes confrontés à de longues périodes d'approche de « bonnes » personnes qui rejettent notre approche.
 
 Puisque l'expérience du rejet est si courante parmi les lecteurs de L'URANTIA Bcok, un grand nombre semblent se lasser de cet exercice exigeant et ne tardent pas à cesser ou à réduire considérablement leurs activités. Le lecteur qui mesure son accomplissement au nombre de convertis recrutés à la cause conclut qu'il n'y a pas de satisfaction s'il n'y a personne qui accepte le message, et que sans satisfaction il vaut peut-être mieux abandonner. Pour certains, la persévérance n’est inspirée que par le « succès ». Pour la plupart d’entre nous, il semble nécessaire de développer une attitude fondée sur la foi, qui prospère dans l’adversité apparente, tout en apprenant à valoriser la qualité de quelques-uns plutôt que la quantité du grand nombre. Ce n’est qu’ainsi que la plupart des lecteurs parviendront à reconnaître la nécessité de persévérer et à grandir spirituellement à partir de l’expérience du service sans gratification immédiate.
 
@@ -183,7 +183,7 @@ Un type de partage plus prétentieux se produisait à l'occasion d'un événemen
 Il existe au moins trois approches que les lecteurs du _Livre d'URANTIA_ peuvent éthiquement employer de diverses manières. Nous pouvons:
 
 - raconter nos compréhensions et expériences de Dieu sans aucune mention du Bool URANTIA ;
-- présenter _Le Livre d'URANTIA_ lui-même ; et
+- présenter _Le Livre d'URANTIA_ lui-même ; et
 - inviter d'autres personnes à assister à des groupes d'étude ou à des conférences.
 
 
@@ -217,7 +217,7 @@ Le cadre de discussion du groupe d'étude donne aux gens la possibilité de part
 
 ## Principes de partage
 
-En résumé, rappelons les principes de base du partage que beaucoup d’entre nous ont appris grâce à leur expérience personnelle et que nous avons tenté de partager dans cette discussion :
+En résumé, rappelons les principes de base du partage que beaucoup d’entre nous ont appris grâce à leur expérience personnelle et que nous avons tenté de partager dans cette discussion :
 
 - **Amour**. Notre amour pour les autres nous oblige à les servir autant que nous le pouvons, et peut-être en partageant le _Livre d'URANTIA_ avec eux.
 - **Amitié**. La relation amoureuse de confiance mutuelle, fondée sur une véritable amitié, fournit l'expérience qui soutient la révélation de la vérité du livre.

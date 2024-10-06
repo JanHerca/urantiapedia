@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Peep Söber<br>© 1999 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gary_Farr/To_readers_of_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">To readers of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Francois_Dupont/Religiosity_and_Secularism">
+          <span class="pr-2">Religiosity and Secularism</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Peep Sober
 Tallinn, Estonia
@@ -26,13 +50,13 @@ Man's way of looking into the future may seem somewhat primitive. If we wanted t
 
 We can discern this same phenomenon with regard to predictions about the future. We inevitably land at point C. Occasionally, C might be identical with B (prediction), but it could also be extremely different.
 
-In The Urantia Book this problem is explained in the following words: _In the more advanced planetary ages these seraphim [the Spirits of Confidence] enhance man’s appreciation of the truth that uncertainty is the secret of contented continuity. They help the mortal philosophers to realize that, when ignorance is essential to success, it would be a colossal blunder for the creature to know the future. They heighten man’s taste for the sweetness of uncertainty, for the romance and charm of the indefinite and unknown future._ [[UB 39:5.9](/en/The_Urantia_Book/39#p5_9)]
+In The Urantia Book this problem is explained in the following words: _In the more advanced planetary ages these seraphim [the Spirits of Confidence] enhance man’s appreciation of the truth that uncertainty is the secret of contented continuity. They help the mortal philosophers to realize that, when ignorance is essential to success, it would be a colossal blunder for the creature to know the future. They heighten man’s taste for the sweetness of uncertainty, for the romance and charm of the indefinite and unknown future._ <a id="a52_530"></a>[[UB 39:5.9](/en/The_Urantia_Book/39#p5_9)]
 
-And just two pages later, in section 7, we read — Seraphim of the Future: _These seraphim do function in connection with the ascendant-mortal career but minister almost exclusively to those mortals who survive by some one of the modified orders of ascension. Inasmuch as these angels are not now directly concerned with either Urantia or Urantians, it is deemed best to withhold the description of their fascinating activities._ [[UB 39:7.1-2](/en/The_Urantia_Book/39#p7_1)]
+And just two pages later, in section 7, we read — Seraphim of the Future: _These seraphim do function in connection with the ascendant-mortal career but minister almost exclusively to those mortals who survive by some one of the modified orders of ascension. Inasmuch as these angels are not now directly concerned with either Urantia or Urantians, it is deemed best to withhold the description of their fascinating activities._ <a id="a54_429"></a>[[UB 39:7.1-2](/en/The_Urantia_Book/39#p7_1)]
 
 These paragraphs explain the almost complete absence of predictions about the future of our planet in _The Urantia Book_.
 
-_It was not merely out of curiosity that the ancients sought to know the future; they wanted to dodge ill luck. Divination was simply an attempt to avoid trouble._ [[UB 87:5.14](/en/The_Urantia_Book/87#p5_14)]. Fortunately, we are not thinking that way, but questions and queries regarding the future still remain.
+_It was not merely out of curiosity that the ancients sought to know the future; they wanted to dodge ill luck. Divination was simply an attempt to avoid trouble._ <a id="a58_164"></a>[[UB 87:5.14](/en/The_Urantia_Book/87#p5_14)]. Fortunately, we are not thinking that way, but questions and queries regarding the future still remain.
 
 Jesus told his disciples that he would return to Earth, but that it would not happen in the next 2000 years, such a kind of announcement could hardly have encouraged them and all the next generations. In another aspect, Jesus occasionally spoke something about the future. Chapter 176 reports, for example, that he did this in his desire to save the apostles from the destruction of Jerusalem. We might conclude: knowledge of the future could be detrimental, if we were not ready for it. However, in other cases such knowledge can be a help. Our attitude towards knowledge of the future should not be one's facet.
 
@@ -54,7 +78,7 @@ We read that the Thought Adjuster is aware of time in a unique manner. The Adjus
 
 Since there are Seraphim of the Future, it is justified to believe that they are also able to see the future; and therefore are many other orders of supreme celestial beings.
 
-But where is our free will? Does our logic appear too primitive? We may claim to have created our own faith, but God is the ultimate arbiter. We give a reason and God gives the result according to our destiny. Freedom does not imply complete freedom to do what we want. There are various laws which do restrict us. _A God of final value must, himself, be the arbiter of fate and the creator of destiny_ [[UB 98:1.3](/en/The_Urantia_Book/98#p1_3)]
+But where is our free will? Does our logic appear too primitive? We may claim to have created our own faith, but God is the ultimate arbiter. We give a reason and God gives the result according to our destiny. Freedom does not imply complete freedom to do what we want. There are various laws which do restrict us. _A God of final value must, himself, be the arbiter of fate and the creator of destiny_ <a id="a80_403"></a>[[UB 98:1.3](/en/The_Urantia_Book/98#p1_3)]
 
 The morontia stage may not come with similar contradictions. If anything, we should expect higher beings to be able to predict how we mortals will use our free will in the future. If we see someone running and falling, and we tell others about it, the runner still retains his freedom of action to behave like that.
 
@@ -68,27 +92,27 @@ But let's take a look at what the revealers have for us about space and time:
 > 
 > _Spirit-indwelt man has powers of prevision (insight); he may visualize the future. Only forward-looking and progressive attitudes are personally real. Static ethics and traditional morality are just slightly superanimal. Nor is stoicism a high order of self-realization. Ethics and morals become truly human when they are dynamic and progressive, alive with universe reality.
 > 
-> The human personality is not merely a concomitant of time-and-space events; the human personality can also act as the cosmic cause of such events. [[UB 12:5.5-11](/en/The_Urantia_Book/12#p5_5)]
+> The human personality is not merely a concomitant of time-and-space events; the human personality can also act as the cosmic cause of such events. <a id="a94_149"></a>[[UB 12:5.5-11](/en/The_Urantia_Book/12#p5_5)]
 
 We can see from the above how valuable our views on the future could be.
 
-> _We are not wholly certain as to whether or not God chooses to foreknow events of sin. But even if God should foreknow the freewill acts of his children, such foreknowledge does not in the least abrogate their freedom. One thing is certain: God is never subjected to surprise._ [[UB 3:3.4](/en/The_Urantia_Book/3#p3_4)]
+> _We are not wholly certain as to whether or not God chooses to foreknow events of sin. But even if God should foreknow the freewill acts of his children, such foreknowledge does not in the least abrogate their freedom. One thing is certain: God is never subjected to surprise._ <a id="a98_280"></a>[[UB 3:3.4](/en/The_Urantia_Book/3#p3_4)]
 
-> _These are the projection angels, who forecast a future age and plan for the realization of the better things of a new and advancing dispensation; they are the architects of the successive eras. The group now on the planet has thus functioned since the beginning of the current dispensation._ [[UB 114:6.10](/en/The_Urantia_Book/114#p6_10)]
+> _These are the projection angels, who forecast a future age and plan for the realization of the better things of a new and advancing dispensation; they are the architects of the successive eras. The group now on the planet has thus functioned since the beginning of the current dispensation._ <a id="a100_295"></a>[[UB 114:6.10](/en/The_Urantia_Book/114#p6_10)]
 
-> Our way of dividing time into past-present-future is only a relative truth. _In the evolutionary universes eternity is temporal everlastingness—the everlasting now._ [[UB 118:1.1](/en/The_Urantia_Book/118#p1_1)]
+> Our way of dividing time into past-present-future is only a relative truth. _In the evolutionary universes eternity is temporal everlastingness—the everlasting now._ <a id="a102_168"></a>[[UB 118:1.1](/en/The_Urantia_Book/118#p1_1)]
 
-> But how could we attempt a perception of eternity? There is a simple technique for this: _Deciding to do the Father's will. This means that the purpose of the creature has become fixed as regards the succession of moments; in other words, the succession of moments will not witness any change in the purpose of the creature._ [[UB 118:1.2](/en/The_Urantia_Book/118#p1_2)]
+> But how could we attempt a perception of eternity? There is a simple technique for this: _Deciding to do the Father's will. This means that the purpose of the creature has become fixed as regards the succession of moments; in other words, the succession of moments will not witness any change in the purpose of the creature._ <a id="a104_328"></a>[[UB 118:1.2](/en/The_Urantia_Book/118#p1_2)]
 
-> At the present time, the perception of the units of time by each of us is not of equal duration. _There is a direct relationship between maturity and the unit of time consciousness in any given intellect. The time unit may be a day, a year, or a longer period, but inevitably it is the criterion by which the conscious self evaluates the circumstances of life, and by which the conceiving intellect measures and evaluates the facts of temporal existence._ [[UB 118:1.3](/en/The_Urantia_Book/118#p1_3)]
+> At the present time, the perception of the units of time by each of us is not of equal duration. _There is a direct relationship between maturity and the unit of time consciousness in any given intellect. The time unit may be a day, a year, or a longer period, but inevitably it is the criterion by which the conscious self evaluates the circumstances of life, and by which the conceiving intellect measures and evaluates the facts of temporal existence._ <a id="a106_458"></a>[[UB 118:1.3](/en/The_Urantia_Book/118#p1_3)]
 
-> _Experience, wisdom, and judgment are the concomitants of the lengthening of the time unit in mortal experience. As the human mind reckons backward into the past, it is evaluating past experience for the purpose of bringing it to bear on a present situation. As mind reaches out into the future, it is attempting to evaluate the future significance of possible action. And having thus reckoned with both experience and wisdom, the human will exercises judgment-decision in the present, and the plan of action thus born of the past and the future becomes existent._ [[UB 118:1.4](/en/The_Urantia_Book/118#p1_4)]
+> _Experience, wisdom, and judgment are the concomitants of the lengthening of the time unit in mortal experience. As the human mind reckons backward into the past, it is evaluating past experience for the purpose of bringing it to bear on a present situation. As mind reaches out into the future, it is attempting to evaluate the future significance of possible action. And having thus reckoned with both experience and wisdom, the human will exercises judgment-decision in the present, and the plan of action thus born of the past and the future becomes existent._ <a id="a108_567"></a>[[UB 118:1.4](/en/The_Urantia_Book/118#p1_4)]
 
-> _Patience is exercised by those mortals whose time units are short; true maturity transcends patience by a forbearance born of real understanding._ [[UB 118:1.6](/en/The_Urantia_Book/118#p1_6)]
+> _Patience is exercised by those mortals whose time units are short; true maturity transcends patience by a forbearance born of real understanding._ <a id="a110_150"></a>[[UB 118:1.6](/en/The_Urantia_Book/118#p1_6)]
 
-> _To become mature is to live more intensely in the present, at the same time escaping from the limitations of the present. The plans of maturity, founded on past experience, are coming into being in the present in such manner as to enhance the values of the future._ [[UB 118:1.7](/en/The_Urantia_Book/118#p1_7)]
+> _To become mature is to live more intensely in the present, at the same time escaping from the limitations of the present. The plans of maturity, founded on past experience, are coming into being in the present in such manner as to enhance the values of the future._ <a id="a112_269"></a>[[UB 118:1.7](/en/The_Urantia_Book/118#p1_7)]
 
-> _The time unit of immaturity concentrates meaning-value into the present moment in such a way as to divorce the present of its true relationship to the not-present—the past-future. The time unit of maturity is proportioned so to reveal the co-ordinate relationship of past-present-future that the self begins to gain insight into the wholeness of events, begins to view the landscape of time from the panoramic perspective of broadened horizons, begins perhaps to suspect the nonbeginning, nonending eternal continuum, the fragments of which are called time._ [[UB 118:1.8](/en/The_Urantia_Book/118#p1_8)]
+> _The time unit of immaturity concentrates meaning-value into the present moment in such a way as to divorce the present of its true relationship to the not-present—the past-future. The time unit of maturity is proportioned so to reveal the co-ordinate relationship of past-present-future that the self begins to gain insight into the wholeness of events, begins to view the landscape of time from the panoramic perspective of broadened horizons, begins perhaps to suspect the nonbeginning, nonending eternal continuum, the fragments of which are called time._ <a id="a114_562"></a>[[UB 118:1.8](/en/The_Urantia_Book/118#p1_8)]
 
 We should therefore choose to live with a broader awareness of time, and the above paragraphs are extremely important to understand. Sometimes the present moment brings something wonderful to us: a true vision of the future! We feel happy in these rare moments when we perceive our existence in a broader perspective of time. The opposite fact is that we will never feel truly happy if we are afraid that the happy moment will only be momentary and will vanish in the next minute.
 
@@ -115,6 +139,30 @@ If we believed that it was impossible to perceive anything of the future, we wou
 
 _The Urantia Book_ instructs us, teaching us that time is the greatest gift ever offered to us. The more effectively and creatively we use this path, the happier we will be in time. If we imagined living in eternity but wasting our time among trivialities and banalities, it would result in inconveniences, accidents, and various sufferings.
 
-> _On the levels of the infinite and the absolute, the present moment contains all of the past, as well as all of the future._ [[UB 117:7.7](/en/The_Urantia_Book/117#p7_7)]
+> _On the levels of the infinite and the absolute, the present moment contains all of the past, as well as all of the future._ <a id="a141_127"></a>[[UB 117:7.7](/en/The_Urantia_Book/117#p7_7)]
 
 End of Part I. Part II will be published in the next volume of the Journal.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gary_Farr/To_readers_of_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">To readers of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Francois_Dupont/Religiosity_and_Secularism">
+          <span class="pr-2">Religiosity and Secularism</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -16,7 +16,7 @@ dateCreated: 2023-8-29T10:55:6Z
         <td>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-3-sept-2013">
+        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-3-septembre-2013">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 3, Sept. 2013 — Table des matières</span>
         </a>
         </td>
@@ -113,7 +113,7 @@ Ceci est une publication &reg;  «Urantian».
         <td>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-3-sept-2013">
+        <a href="/fr/index/articles_uf_news_online#volume-7-numéro-3-septembre-2013">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 3, Sept. 2013 — Table des matières</span>
         </a>
         </td>

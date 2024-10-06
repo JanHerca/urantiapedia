@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-1-april-2020">
+        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-1-avril-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 1, April 2020 — Table des matières</span>
         </a>
         </td>
@@ -52,7 +52,7 @@ La Fondation Urantia a vendu 19 101 Livres d’Urantia et fait don de 400 livres
 
 ## 2. Traductions et Révisions
 
-Le premier jet de la traduction chinoise est terminé jusqu’au fascicule 152 ; 138 fascicules sont terminés pour le premier jet de la traduction en Farsi. Le premier jet de la traduction hébraïque est fini et la révision finale est terminée jusqu’au fascicule 172 ; l’indonésienne en est à sa cinquième révision ; celle en arabe en est à sa deuxième révision ; le premier jet en roumain est en évaluation ; le jet grec est en évaluation ; la traduction en philippin vient de commencer. Le correcteur a terminé la révision de la traduction espagnole jusqu’au fascicule 191 ; la révision finale de la révision portugaise est terminée jusqu’au fascicule 131.
+Le premier jet de la traduction chinoise est terminé jusqu’au fascicule 152 ; 138 fascicules sont terminés pour le premier jet de la traduction en Farsi. Le premier jet de la traduction hébraïque est fini et la révision finale est terminée jusqu’au fascicule 172 ; l’indonésienne en est à sa cinquième révision ; celle en arabe en est à sa deuxième révision ; le premier jet en roumain est en évaluation ; le jet grec est en évaluation ; la traduction en philippin vient de commencer. Le correcteur a terminé la révision de la traduction espagnole jusqu’au fascicule 191 ; la révision finale de la révision portugaise est terminée jusqu’au fascicule 131.
 
 ## 3. L’Ecole Internet du Livre d’Urantia (UBIS) et Éducation
 
@@ -78,15 +78,15 @@ Peut-être, vous souvenez-vous que les taxes foncières avaient augmenté de $20
 
 L’essentiel de la réunion du conseil d’administration de janvier fut consacré à la discussion des objectifs **des cinq prochaines années de la Fondation,** qui avaient été initiée pendant la réunion de planification, d’octobre 2019. Nous avons établi sept objectifs et nous travaillons maintenant à la manière spécifique de les atteindre. Ensuite, nous en estimerons la chronologie, les responsabilités professionnelles et les coûts de leur réalisation.
 
-Voici les objectifs prioritaires sur cinq ans :
+Voici les objectifs prioritaires sur cinq ans :
 
-- **Livres :** Augmentation mondiale des ventes de livres et de la distribution de 7% chaque année.
-- **Collecte de fonds :** Augmenter le fonds de dotation ainsi que le Pont de la Révélation jusqu’à §12,000,000
-- **Initiative mondiale :** Encourager une Fondation Urantia avec une dimension culturelle plus adaptée qui influencera la manière dont nous disséminerons le livre et ses enseignements mondialement.
-- **Traductions :** Amorcer et/ou terminer de nouvelles traductions et des révisions de qualité. Utiliser et peaufiner notre processus de traduction.
-- **Éducation :** Se concentrer sur 1) l’éducation intérieure et l’unité par- la prière, l’adoration et le travail de l’âme, et 2) éducation extérieure- créer des occasions de favoriser la connaissance, renforcer l’appréciation et promouvoir une compréhension inter culturel du _Livre d’Urantia_ parmi les peuples du monde.
-- **Gouvernance et Succession :** Mettre en œuvre un plan de succession pour le Conseil d’Administration des Trustees de la Fondation Urantia. Passage à une organisation plus internationale.
-- **Sensibilisation numérique :** Tripler la présence numérique de la Fondation Urantia dans le monde.
+- **Livres :** Augmentation mondiale des ventes de livres et de la distribution de 7% chaque année.
+- **Collecte de fonds :** Augmenter le fonds de dotation ainsi que le Pont de la Révélation jusqu’à §12,000,000
+- **Initiative mondiale :** Encourager une Fondation Urantia avec une dimension culturelle plus adaptée qui influencera la manière dont nous disséminerons le livre et ses enseignements mondialement.
+- **Traductions :** Amorcer et/ou terminer de nouvelles traductions et des révisions de qualité. Utiliser et peaufiner notre processus de traduction.
+- **Éducation :** Se concentrer sur 1) l’éducation intérieure et l’unité par- la prière, l’adoration et le travail de l’âme, et 2) éducation extérieure- créer des occasions de favoriser la connaissance, renforcer l’appréciation et promouvoir une compréhension inter culturel du _Livre d’Urantia_ parmi les peuples du monde.
+- **Gouvernance et Succession :** Mettre en œuvre un plan de succession pour le Conseil d’Administration des Trustees de la Fondation Urantia. Passage à une organisation plus internationale.
+- **Sensibilisation numérique :** Tripler la présence numérique de la Fondation Urantia dans le monde.
 
 
 ## Références
@@ -105,7 +105,7 @@ Voici les objectifs prioritaires sur cinq ans :
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-1-april-2020">
+        <a href="/fr/index/articles_uf_news_online#volume-14-numéro-1-avril-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 1, April 2020 — Table des matières</span>
         </a>
         </td>

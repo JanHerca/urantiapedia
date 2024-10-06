@@ -38,7 +38,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/merida-David-Mark-from-Pixabay-e1616728759248.jpg">
-<figcaption><em>Merida - Image by David Mark</em></figcapton>
+<figcaption><em>Merida - Image by David Mark</em></figcaption>
 </figure>
 
 Dear Siblings,

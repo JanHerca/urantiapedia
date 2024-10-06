@@ -70,7 +70,7 @@ Nos sentimos aliviados de que _El Libro de Urantia_ finalmente sea de dominio p�
 _GRAMO. & G.M._
 _Kansas City, MO_
 
-Los mensajes y requisitos del Libro de Urantia se han vuelto centrales en mi vida. Me guían como padre de cuatro hijos, como empresario y como consultor empresarial. Tengo la intención de ser cada vez más activo en mi ministerio personal relacionado con Urantia.
+Los mensajes y requisitos del _Libro de Urantia_ se han vuelto centrales en mi vida. Me guían como padre de cuatro hijos, como empresario y como consultor empresarial. Tengo la intención de ser cada vez más activo en mi ministerio personal relacionado con Urantia.
 
 _J.R._
 _Sandstone, Minnesota_

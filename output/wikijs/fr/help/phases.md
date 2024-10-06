@@ -34,8 +34,6 @@ Pour créer l'*Index des sujets*, l'index créé par la *Communauté Urantia* po
 
 https://urantia-book.org/urantiabook/topical_index/index.htm
 
-Ce jalon devrait être atteint au deuxième trimestre 2022.
-
 
 Tâches | Où | Qui
 --- | --- | ---
@@ -53,8 +51,6 @@ Dans cette étape importante, le contenu d'Urantiapedia est élargi avec trois d
 - Articles, aides à l'étude et schémas du *Livre d'Urantia*. Il y en a beaucoup sur le site Web de la [Fondation Urantia](https://www.urantia.org/), dans la [Fellowship](https://urantiabook.org/), dans les associations Urantia et sur des sites Web individuels. Aucun contenu ne sera publié sans l'autorisation expresse des auteurs dès lors qu'il est possible de les localiser. Le contenu peut être téléchargé de deux manières: édition publique (tout éditeur peut l'améliorer) et édition fermée (seuls l'auteur ou les utilisateurs autorisés par l'auteur peuvent le modifier). Les articles peuvent également inclure des images.
 - Les index, qui sont soit des pages avec des listes de liens, soit des pages elles-mêmes qui résument un sujet.
 
-Ce jalon devrait être atteint au deuxième trimestre 2023.
-
 
 Tâches | Où | Qui
 --- | --- | ---
@@ -66,7 +62,7 @@ Ajout d'index de personnes, d'êtres, de lieux, *La Bible*, références, citati
 Chargement en masse de fichiers au format Wiki.js | GitHub | Administrateurs
 
 <figure id="Sample_fig_1" class="image urantiapedia">
-<img src="/image/sample_page_article.png">
+<img src="/image/help/sample_page_article.png">
 <figcaption><em> Exemple de rendu d'un article.</em></figcaption>
 </figure>
 
@@ -82,8 +78,6 @@ Dans cette étape, seul le développement sera entrepris. Deux nouveaux outils s
 - Un nouveau type de visualiseur de contenu qui permet de visualiser le contenu dans une double colonne, montrant deux des langues disponibles en même temps. Une bonne utilisation de ceci est de pouvoir voir l'original anglais du *Livre d'Urantia* et une autre langue, mais cela fonctionnerait pour n'importe quelle page et n'importe quelle paire de langues.
 - Une option sera également ajoutée pour pouvoir sélectionner la traduction souhaitée en espagnol puisqu'il existe trois traductions officielles du *Livre d'Urantia* en espagnol. Une seule sera la traduction par défaut à laquelle les liens des autres pages seront connectés, mais lors de l'affichage des pages du livre en espagnol, une option sera ajoutée qui permettra de passer de la traduction par défaut aux autres.
 
-Cette étape devrait être franchie au premier trimestre 2024.
-
 
 Tâches | Où | Qui
 --- | --- | ---
@@ -94,7 +88,7 @@ Développement en *Wiki.js* d'un nouveau visualiseur en mode double pour *Le Liv
 Développement dans Wiki.js d'un sélecteur de préférence dans la traduction à l'usage du *Livre d'Urantia* (pour des langues comme l'espagnol avec plusieurs) | GitHub | Développeurs
 
 <figure id="Sample_fig_2" class="image urantiapedia">
-<img src="/image/sample_page_side_by_side.png">
+<img src="/image/help/sample_page_side_by_side.png">
 <figcaption><em> Exemple de rendu du Livre d'Urantia côte à côte.</em></figcaption>
 </figure>
 
@@ -113,8 +107,6 @@ Les développements qui seront nécessaires dans *Wiki.js* sont:
 - Un moteur de rendu côté serveur qui convertit la norme en une visionneuse Web qui rend la carte créée.
 - Le visualiseur Web qui présente la carte créée côté client, une version simplifiée (sans outils d'édition) de l'éditeur de carte.
 
-Ce jalon devrait être atteint au deuxième trimestre 2024.
-
 
 Tâches | Où | Qui
 --- | --- | ---
@@ -122,7 +114,7 @@ Développement en *Wiki.js* d'un éditeur de carte interactif, du format et du r
 Ajout d'un ensemble d'exemples de cartes interactives, sur les migrations raciales, les faits historiques et les voyages de Jésus | GitHub | Rédacteurs en chef
 
 <figure id="Sample_fig_3" class="image urantiapedia">
-<img src="/image/sample_page_map.jpg">
+<img src="/image/help/sample_page_map.jpg">
 <figcaption><em> Exemple de rendu d'une carte interactive.</em></figcaption>
 </figure>
 
@@ -140,8 +132,6 @@ Les développements qui seront nécessaires dans *Wiki.js* sont:
 - Un moteur de rendu côté serveur qui convertit la norme en un visualiseur Web qui affiche la présentation créée.
 - Le visualiseur Web qui affiche la présentation côté client, une version simplifiée (sans outils d'édition) de l'éditeur de présentation.
 
-Ce jalon est attendu pour le deuxième trimestre 2025.
-
 
 Tâches | Où | Qui
 --- | --- | ---
@@ -150,7 +140,7 @@ Développement en *Wiki.js* d'un éditeur de slides, avec son format et son rend
 Ajout d'un jeu de diapositives en utilisant celles disponibles sur les sites de l'association | GitHub | Rédacteurs en chef
 
 <figure id="Sample_fig_4" class="image urantiapedia">
-<img src="/image/sample_page_slides.png">
+<img src="/image/help/sample_page_slides.png">
 <figcaption><em> Exemple de rendu d'une présentation.</em></figcaption>
 </figure>
 
@@ -170,8 +160,6 @@ Les développements qui seront nécessaires dans Wiki.js sont:
 - Intégrez dans Wiki.js un éditeur de scène glTF (utilisant l'un des éléments ci-dessus) côté client. glTF utilise un format JSON.
 - Un moteur de rendu côté serveur qui convertit le glTF JSON en une visionneuse Web qui affiche la scène 3D créée. Le visualiseur utilisé sera celui associé à l'éditeur sélectionné.
 
-Ce jalon est attendu pour le deuxième trimestre 2026.
-
 
 Tâches | Où | Qui
 --- | --- | ---
@@ -180,7 +168,7 @@ Développement en Wiki.js pour un créateur/éditeur de modèle interactif 3D, s
 Ajout d'un ensemble de modèles 3D sur le Paradis, les sphères architecturales, le Jardin d'Eden et autres | GitHub | Rédacteurs en chef
 
 <figure id="Sample_fig_5" class="image urantiapedia">
-<img src="/image/sample_page_3d.jpg">
+<img src="/image/help/sample_page_3d.jpg">
 <figcaption><em> Exemple de rendu d'un modèle 3D.</em></figcaption>
 </figure>
  

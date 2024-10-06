@@ -40,7 +40,7 @@ Como mínimo, es necesario tener certeza acerca de la revelación de Urantia, po
 
 Por esta importante razón, primero planteamos la pregunta: ¿hay errores sustanciales en la revelación de Urantia? Y en la siguiente sección presentamos lo que creemos que es evidencia incontrovertible de que existen tales errores, y discutimos las razones por las que están allí.
 
-## El sistema Tierra-Luna: Una comparación de la versión del Libro de Urantia con la de la ciencia moderna
+## El sistema Tierra-Luna: Una comparación de la versión del _Libro de Urantia_ con la de la ciencia moderna
 
 En <a id="a44_3"></a>[LU 57:5.1](/es/The_Urantia_Book/57#p5_1) de _El Libro de Urantia_ leemos:
 
@@ -56,11 +56,11 @@ La ciencia moderna dice que en ese momento, la velocidad a la que los meteoritos
 
 > «Hace 2.500.000.000 de años, el tamaño de los planetas había aumentado inmensamente. Urantia era una esfera bien desarrollada; tenía aproximadamente **una décima parte de su masa actual** y continuaba aumentando rápidamente por acreción meteórica.». <a id="a56_252"></a>[LU 57:6.10](/es/The_Urantia_Book/57#p6_10)
 
-Y en la parte superior de la página del Libro de Urantia <a id="a58_57"></a>[LU 57:7.2](/es/The_Urantia_Book/57#p7_2) se afirma:
+Y en la parte superior de la página del _Libro de Urantia_ <a id="a58_59"></a>[LU 57:7.2](/es/The_Urantia_Book/57#p7_2) se afirma:
 
 > «Hace 2.000.000.000 de años, **la Tierra empezó a ganarle terreno decididamente a la Luna**. El planeta siempre había sido más grande que su satélite, pero **no había habido mucha diferencia de tamaño hasta esta época**, durante la cual la Tierra capturó enormes cuerpos espaciales. Urantia tenía entonces aproximadamente **una quinta parte de su tamaño actual**».
 
-Previamente, los lectores del Libro de Urantia discreparon sobre si estos dos últimos párrafos realmente significan que la Tierra y la Luna tenían aproximadamente el mismo tamaño (masa) hasta hace 2.000.000.000 de años. El análisis isotópico moderno muestra que ambos lados de este desacuerdo eran incorrectos, ya que la Tierra y la Luna habían alcanzado casi su tamaño y masa completos hace unos 4.600.000.000 años.
+Previamente, los lectores del _Libro de Urantia_ discreparon sobre si estos dos últimos párrafos realmente significan que la Tierra y la Luna tenían aproximadamente el mismo tamaño (masa) hasta hace 2.000.000.000 de años. El análisis isotópico moderno muestra que ambos lados de este desacuerdo eran incorrectos, ya que la Tierra y la Luna habían alcanzado casi su tamaño y masa completos hace unos 4.600.000.000 años.
 
 En la siguiente ilustración se proporciona una prueba de que la luna prácticamente había dejado de crecer por completo hace 4 mil millones de años. Más abajo en la página <a id="a64_171"></a>[LU 57:7.4-5](/es/The_Urantia_Book/57#p7_4) está:
 
@@ -81,7 +81,7 @@ Por último, en <a id="a79_15"></a>[LU 57:8.1](/es/The_Urantia_Book/57#p8_1) ten
 
 > «Hace 1.000.000.000 de años comienza realmente la historia de Urantia. El planeta había alcanzado aproximadamente su tamaño actual».
 
-La declaración del Libro de Urantia en <a id="a83_39"></a>[LU 57:5.4](/es/The_Urantia_Book/57#p5_4) de que nuestro sistema planetario evolucionó por primera vez hace 4.500.000.000 de años está notablemente cerca de la deducción a partir de datos radiométricos realizada en 1955 por C.C. Patterson utilizando los isótopos de plomo en materiales meteóricos condríticos que sitúan su edad en 4.500 millones de años. Posteriormente, Patterson también fijó la edad de nuestro planeta en 4.560 millones de años.
+La declaración del _Libro de Urantia_ en <a id="a83_41"></a>[LU 57:5.4](/es/The_Urantia_Book/57#p5_4) de que nuestro sistema planetario evolucionó por primera vez hace 4.500.000.000 de años está notablemente cerca de la deducción a partir de datos radiométricos realizada en 1955 por C.C. Patterson utilizando los isótopos de plomo en materiales meteóricos condríticos que sitúan su edad en 4.500 millones de años. Posteriormente, Patterson también fijó la edad de nuestro planeta en 4.560 millones de años.
 
 Se verificó que la figura de Patterson se acercaba a la realidad cuando se aplicaron las últimas técnicas radiométricas a los 382 kilogramos de rocas lunares compuestas por 2415 muestras individuales traídas por el programa Apolo a la luna desde 1969 en adelante. También estaban disponibles más muestras del programa lunar ruso. Se encontró que la roca lunar más antigua entre estas muestras tiene casi 4.600 millones de años, que es casi tan antigua como las rocas terrestres más antiguas. Estos estudios incluyeron el uso de proporciones de isótopos de oxígeno en rocas lunares y terrestres que demostraron que la Tierra y su luna tienen un ancestro común, es decir, están construidas a partir del mismo conjunto de materiales de origen.
 
@@ -147,7 +147,7 @@ Antes de hace 1000 millones de años, la vida consistía en procariotas, bacteri
 
 Ninguno de estos organismos podría haber sobrevivido a ese intervalo entre hace 1500 y 1000 millones de años cuando El Libro de Urantia dice que el sol no pudo «brillar sobre la superficie de la tierra durante miles de años». Entonces, o este fracaso simplemente no sucedió o la vida fue creada por segunda vez. También la evidencia provista por los estromatolitos para la continuidad de los océanos del mundo desde hace más de 4 mil millones de años es falsa o bien la afirmación del Libro de Urania de que el océano primitivo ocurrió por primera vez hacia la conclusión del intervalo de hace 1.5 a 1.0 mil millones de años es falsa.
 
-Mientras que hay una gran cantidad de evidencia para apoyar la conclusión de que los océanos primitivos existieron hace 4 mil millones de años y para las formas de vida que vivieron en ellos, no hay evidencia física para respaldar la versión del Libro de Urantia del primer océano primitivo que ocurrió hace poco más de mil millones de años. hace ni por la afirmación de que su aparición fue precedida por «miles de años» cuando el «sol nunca brillaba sobre la superficie de la tierra».
+Mientras que hay una gran cantidad de evidencia para apoyar la conclusión de que los océanos primitivos existieron hace 4 mil millones de años y para las formas de vida que vivieron en ellos, no hay evidencia física para respaldar la versión del _Libro de Urantia_ del primer océano primitivo que ocurrió hace poco más de mil millones de años. hace ni por la afirmación de que su aparición fue precedida por «miles de años» cuando el «sol nunca brillaba sobre la superficie de la tierra».
 
 Pedir a los lectores de _El Libro de Urantia_ que crean en esta evidencia sin respaldo frente a la evidencia científica verificada de lo contrario es similar a la demanda de muchos cristianos fundamentalistas de creer que tanto el Antiguo como el Nuevo testamento son la palabra absoluta de Dios y, por lo tanto, que Noé realmente metió un par de todas las especies animales del mundo en su arco, que la ballena realmente se tragó a Jonás y lo vomitó tres días después en tierra firme, que Dios mantuvo el sol estacionario en el cielo proporcionando así la luz que permitió Josué para matar a los amorreos, los enemigos de su pueblo elegido!
 
@@ -175,7 +175,7 @@ El factor limitante para el aumento del oxígeno atmosférico parece haber sido 
 
 En (<a id="a175_4"></a>[LU 57:7.9](/es/The_Urantia_Book/57#p7_9)), El Libro de Urantia dice: «_Incluso en los períodos posteriores, las continuas corrientes de lava y las caídas de meteoros agotaron casi por completo el oxígeno del aire. Incluso los primeros depósitos del océano primitivo que pronto aparecería no contenían ni piedras coloreadas ni esquistos. Durante mucho tiempo después de que este océano apareciera, casi no hubo oxígeno libre en la atmósfera, y no apareció en cantidades significativas hasta que fue generado posteriormente por las algas marinas y otras formas de vida vegetal_».
 
-La ciencia moderna dice que los océanos aparecieron hace unos 4 mil millones de años, y los sedimentos oceánicos de colores desaparecieron hace 1,7 mil millones de años debido a la presencia de oxígeno de la fotosíntesis bacteriana. El relato del Libro de Urantia dice que el primer océano apareció hace entre 1 y 1 500 millones de años y que el oxígeno apareció en nuestra atmósfera solo después de la implantación de formas de vida por parte de los Portadores de vida hace 550 millones de años.
+La ciencia moderna dice que los océanos aparecieron hace unos 4 mil millones de años, y los sedimentos oceánicos de colores desaparecieron hace 1,7 mil millones de años debido a la presencia de oxígeno de la fotosíntesis bacteriana. El relato del _Libro de Urantia_ dice que el primer océano apareció hace entre 1 y 1 500 millones de años y que el oxígeno apareció en nuestra atmósfera solo después de la implantación de formas de vida por parte de los Portadores de vida hace 550 millones de años.
 
 Toda la información contenida hasta ahora en este artículo está disponible en revistas científicas populares actuales, además de ser accesible a través de las funciones de búsqueda en Internet. [^4] [^5]
 
@@ -189,7 +189,7 @@ Una respuesta es que debido a que existen limitaciones definidas para la revelac
 
 > «Puesto que vuestro mundo ignora generalmente el origen de las cosas, incluso de las cosas físicas, ha parecido sabio proporcionarle de vez en cuando conocimientos de cosmología. Esto siempre ha causado problemas para el futuro. Las leyes de la revelación nos obstaculizan enormemente porque prohíben comunicar conocimientos inmerecidos o prematuros. Toda cosmología presentada como parte de una religión revelada está destinada a quedarse atrás en muy poco tiempo. Por consiguiente, los estudiosos futuros de esa revelación se sienten tentados a desechar cualquier elemento de verdad religiosa auténtica que pueda contener, porque descubren errores a primera vista en las cosmologías asociadas que se presentan en ella». (<a id="a189_725"></a>[LU 101:4.1](/es/The_Urantia_Book/101#p4_1))
 
-Si esta declaración se toma exactamente como fue escrita, entonces seguramente ningún lector del Libro de Urantia debería sorprenderse cuando descubre errores en la cosmología del Libro.
+Si esta declaración se toma exactamente como fue escrita, entonces seguramente ningún lector del _Libro de Urantia_ debería sorprenderse cuando descubre errores en la cosmología del Libro.
 
 La revelación continúa con: «_La humanidad debería comprender que nosotros, que participamos en la revelación de la verdad, estamos muy rigurosamente limitados por las instrucciones de nuestros superiores. No tenemos libertad para anticipar los descubrimientos científicos que se producirán en mil años. Los reveladores deben actuar con arreglo a las instrucciones que forman parte del mandato de revelar. No vemos ninguna manera de salvar esta dificultad, ni ahora ni en ningún momento del futuro. Sabemos muy bien que los hechos históricos y las verdades religiosas de esta serie de presentaciones revelatorias permanecerán en los anales de las épocas venideras, **pero dentro de pocos años muchas de nuestras afirmaciones relacionadas con las ciencias físicas necesitarán una revisión a consecuencia de los desarrollos científicos adicionales y de los nuevos descubrimientos**. Estos nuevos desarrollos los prevemos incluso desde ahora, pero se nos prohíbe incluir en nuestros escritos revelatorios esos hechos aún no descubiertos por la humanidad_». (<a id="a193_1055"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
 

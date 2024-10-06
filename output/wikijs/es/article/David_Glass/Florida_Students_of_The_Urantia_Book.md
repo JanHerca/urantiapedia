@@ -45,7 +45,7 @@ _David Glass, Fort Worth, Texas, editor_
 
 A principios de los años 70 había un grupo de estudio en Florida, en Melboume, dirigido por Larry Jones. Se reunieron lectores de dos o tres ciudades vecinas a lo largo de la costa atlántica. Como no es raro entre los grupos de estudio, este primero «se fue a sembrar» y se dispersó por California, Alemania y otros lugares.
 
-En 1975 asistí a una conferencia de lectores del Libro de Urantia en Evanston, Illinois. Parecía sorprendente y divertido en ese momento que varios de nosotros, lectores de Florida, nos conociéramos por primera vez en Illinois, ya que muchos de nosotros vivíamos a poca distancia en automóvil de las casas de los demás en Tampa-St. Área de Petersburgo Sarasota. Poco después, se formaron varios grupos de estudio y los lectores de Florida comenzaron a celebrar conferencias anuales que atrajeron a lectores de todo el estado.
+En 1975 asistí a una conferencia de lectores del _Libro de Urantia_ en Evanston, Illinois. Parecía sorprendente y divertido en ese momento que varios de nosotros, lectores de Florida, nos conociéramos por primera vez en Illinois, ya que muchos de nosotros vivíamos a poca distancia en automóvil de las casas de los demás en Tampa-St. Área de Petersburgo Sarasota. Poco después, se formaron varios grupos de estudio y los lectores de Florida comenzaron a celebrar conferencias anuales que atrajeron a lectores de todo el estado.
 
 Se formaron grupos de estudio en San Petersburgo, en la casa de Richard Bain, en Tampa, donde conocí a Kevin Goodman y Steve Law, y otro en Sarasota. La proximidad de estos grupos entre sí ha contribuido a que mantengan un «supergrupo» espiritual-social que continúa funcionando vibrantemente. Se llevan a cabo reuniones trimestrales en las que se comparten en alegre camaradería programas de estudio y cenas compartidas. Se ha estado desarrollando una asociación más amplia de lectores conocida como «Estudiantes de Florida del Libro de Urantia», que incluye grupos de estudio activos en todo el estado.
 
@@ -62,7 +62,7 @@ _Informe de Chris Johnston, Temple Terrace_
 
 Los lectores del área de Tampa Bay, incluidos los Beasley y Maryanne Uranowski de Brandon, Jim y Chris Johnston de Temple Terrace, Kevin Goodman y Susan Fox de Tampa, han orado y apoyado a la familia Amyx cuya madre, Pat, murió de cáncer.
 
-Este ha sido uno de los grupos más activos en el movimiento de Estudiantes del Libro de Urantia de Florida y sus miembros también han estado activos en la Fellowship y como voluntarios en The Study Group Herald.
+Este ha sido uno de los grupos más activos en el movimiento de Estudiantes del _Libro de Urantia_ de Florida y sus miembros también han estado activos en la Fellowship y como voluntarios en The Study Group Herald.
 
 Como han descubierto muchos grupos de estudio, las reuniones aumentan y disminuyen en asistencia y regularidad, experimentan con diversos modos de estudio, prácticas de hospedaje, enfoques rituales para compartir la experiencia espiritual y, a veces, incluso se preguntan si el grupo mismo sobrevivirá. Con el paso de los años, la membresía puede cambiar; sin embargo, cada paso en el camino es una experiencia profunda de asociación humana y amistad eterna y nunca se olvida. Ésta es la experiencia de los Lectores de Tampa Bay.
 
@@ -78,7 +78,7 @@ Durante más de un año hemos leído y discutido lo siguiente: Serafines, Superv
 
 Hace unos tres años, los miembros del grupo de estudio de _El Libro de Urantia_ revivieron la práctica de celebrar reuniones trimestrales. Estos también se llevan a cabo en la casa de Joycee, que cuenta con una 'sala familiar' suficientemente grande para acomodar a las $20-30$ personas que se presentan para una comida compartida, socialización y una presentación/debate. Los temas de los últimos seis trimestres han sido: Ajustadores del Pensamiento, Manejo del Estrés Moderno, Los Años de Transición, Los Mundos Mansión, Propósito en la Vida y Adoración.
 
-El 7 de marzo hubo una reunión especial para la comunidad del Libro de Urantia del área sobre el tema de la oración y la curación dedicada a la familia Amyx. Pat está luchando contra el cáncer de hígado.
+El 7 de marzo hubo una reunión especial para la comunidad del _Libro de Urantia_ del área sobre el tema de la oración y la curación dedicada a la familia Amyx. Pat está luchando contra el cáncer de hígado.
 
 ## El grupo de estudio de Brandon
 
@@ -148,7 +148,7 @@ Los documentos se leen de forma secuencial y, en ocasiones, los temas de actuali
 
 ## Sarasota
 
-En Sarasota hay dos grupos de estudio del Libro de Urantia dirigidos por Patije Mills: «Los Incendiarios», que se reúnen los lunes por la tarde de 7:15 a 9:30, y «Los Buscadores de la Verdad», los miércoles por la mañana, de 10:00 a 12:00.
+En Sarasota hay dos grupos de estudio del _Libro de Urantia_ dirigidos por Patije Mills: «Los Incendiarios», que se reúnen los lunes por la tarde de 7:15 a 9:30, y «Los Buscadores de la Verdad», los miércoles por la mañana, de 10:00 a 12:00.
 
 «The Inscenders» es básicamente un grupo de estudio temático, pero que se lee secuencialmente cuando no se ha elegido ningún tema especial. El grupo lee y discute aquello que es de interés actual para sus miembros. El tema de discusión podría ser cualquier tema relevante del Libro de Urantia.
 

@@ -22,7 +22,7 @@ dateCreated: 2023-6-21T8:13:38Z
         </td>
         <td>
         <a href="/fr/article/Jena_Lassiter/Introduction_Stepping_Stones_to_Spiritual_Growth">
-          <span class="pr-2">Introduction : Tremplins vers la croissance spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Introduction : Tremplins vers la croissance spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -43,14 +43,14 @@ Illustration de couverture de <figcaption><em>Stepping Stones</em> par Stephen S
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Summer/003.jpg">
-<figcaption>Chuck Thurston Photos : p42. « Le long chemin », p43. Une sculpture photographiée par Chuck Thurston à Burning Man, 2019 : « This is Sacred Grounds » de Michael Benisty. "L'arbre de vie qui fleurit d'une femme." <a href="https://www.michaelbenisty.com/">www.michaelbenisty.com</a></figcaption>
+<figcaption>Chuck Thurston Photos : p42. « Le long chemin », p43. Une sculpture photographiée par Chuck Thurston à Burning Man, 2019 : « This is Sacred Grounds » de Michael Benisty. "L'arbre de vie qui fleurit d'une femme." <a href="https://www.michaelbenisty.com/">www.michaelbenisty.com</a></figcaption>
 </figure>
 
 ## Références au _Le Livre d'Urantia_
 
-Vous pouvez voir des citations dans le texte des citations du Livre d'Urantia dans cette publication qui ressemblent à ceci : (<a id="a50_127"></a>[LU 62:5.1](/fr/The_Urantia_Book/62#p5_1)). La partie « 62 :5.1 » peut être utilisée pour consulter un Livre d'Urantia dans le fascicule 62, section 5, paragraphe 1. La partie « 707.7 » peut être utilisée pour consulter un Livre d'Urantia publié par la Fondation Urantia avant 2009 à la page 707, paragraphe 7. Ces citations peuvent également inclure un lien URL intégré qui peut vous amener à la citation dans _Le Livre d'Urantia_.
+Vous pouvez voir des citations dans le texte des citations du Livre d'Urantia dans cette publication qui ressemblent à ceci : (<a id="a50_127"></a>[LU 62:5.1](/fr/The_Urantia_Book/62#p5_1)). La partie « 62 :5.1 » peut être utilisée pour consulter un Livre d'Urantia dans le fascicule 62, section 5, paragraphe 1. La partie « 707.7 » peut être utilisée pour consulter un Livre d'Urantia publié par la Fondation Urantia avant 2009 à la page 707, paragraphe 7. Ces citations peuvent également inclure un lien URL intégré qui peut vous amener à la citation dans _Le Livre d'Urantia_.
 
-Ces citations montrent que la source de la citation provient du texte de référence standard du Livre d'Urantia. La séquence de notation entière peut être représentée comme (paper:section.paragraph [page.paragraph]). Pour plus d'informations, voir : https://urantiabook.org/what-is-the-standard-reference-text-Urantia-Book et https://urantiabook.org/text-standardization-Urantia-Book
+Ces citations montrent que la source de la citation provient du texte de référence standard du Livre d'Urantia. La séquence de notation entière peut être représentée comme (paper:section.paragraph [page.paragraph]). Pour plus d'informations, voir : https://urantiabook.org/what-is-the-standard-reference-text-Urantia-Book et https://urantiabook.org/text-standardization-Urantia-Book
 
 > **NOTE DES ÉDITEURS D'URANTIAPEDIA**
 > 
@@ -93,7 +93,7 @@ Etats-Unis
         </td>
         <td>
         <a href="/fr/article/Jena_Lassiter/Introduction_Stepping_Stones_to_Spiritual_Growth">
-          <span class="pr-2">Introduction : Tremplins vers la croissance spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Introduction : Tremplins vers la croissance spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

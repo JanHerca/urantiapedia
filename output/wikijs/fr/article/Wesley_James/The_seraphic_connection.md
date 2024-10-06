@@ -49,7 +49,7 @@ Angelo Roncalli a servi le monde en tant que pape Jean XXIII pendant une si brè
 
 Ce ne sont que deux exemples parmi des milliers d’exemples historiques où les résultats ont largement dépassé l’intention initiale. S’agit-il de circonstances, d’un hasard ou d’une coïncidence, ou les séraphins de notre tutelle planétaire ont-ils réussi à intensifier les idéaux supérieurs des personnes impliquées ? Je ne sais pas, mais je crois que les séraphins nous ont aidé à progresser dans ces cas et dans des milliers d'autres. Je crois qu'ils continuent de nous aider d'une manière que nous ne pouvons pas réaliser ou comprendre.
 
-## « Continuez »
+## « Continuez »
 
 En écrivant récemment sur Dieu le Suprême, ma mère a dit un jour que l’important semblait être de « continuer à tenir le coup », en d’autres termes, de s’accrocher, de poursuivre nos meilleurs efforts ou nos idées telles que nous les voyons. Il y a quelque chose dans l’univers, la connexion séraphique, qui, si vous voulez, intensifiera ces efforts et apportera les meilleurs résultats à toutes les personnes concernées. Il se peut que nous ne reconnaissions pas les résultats en tant que tels, ni même que nous vivions pour les voir : mais la foi garantit qu’avec l’aide de nos amis invisibles, les choses s’arrangeront pour le bien. C'est le sens de la mota morontia : « _L'acte est le nôtre ; les conséquences appartiennent à Dieu._” (<a id="a53_739"></a>[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13))
 

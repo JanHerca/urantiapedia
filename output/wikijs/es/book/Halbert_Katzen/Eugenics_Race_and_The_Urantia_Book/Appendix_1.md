@@ -309,7 +309,7 @@ Dentro del marco de *El Libro de Urantia* para definir a la humanidad, la cualid
 
 ## Enlaces externos
 
-* Este informe en el sitio web UBTheNews: http://ubannotated.com/ubthenews/Eugenics_Race_Urantia_Book/
+* [Este informe en el sitio web UBTheNews](http://ubannotated.com/ubthenews/Eugenics_Race_Urantia_Book/)
 
 ## Notas y Referencias
 

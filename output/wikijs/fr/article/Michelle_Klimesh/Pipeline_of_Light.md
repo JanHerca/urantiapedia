@@ -43,9 +43,9 @@ Au cours des trois derniers mois, nos bénévoles du « Pipeline of Light » ont
 
 Les livres envoyés au cours de cette période comprennent cent quatre-vingt-un livres en anglais, quatorze traductions en espagnol et deux livres en français.
 
-L'effort actuel porte le total historique de notre Pipeline à neuf mille quatre cent soixante-dix-huit exemplaires du _Le Livre d'Urantia_ placés dans quatre-vingt-dix pays à travers le monde. Un grand merci aux merveilleux bénévoles qui font circuler ce flux de livres dans le monde pour nous !
+L'effort actuel porte le total historique de notre Pipeline à neuf mille quatre cent soixante-dix-huit exemplaires du _Le Livre d'Urantia_ placés dans quatre-vingt-dix pays à travers le monde. Un grand merci aux merveilleux bénévoles qui font circuler ce flux de livres dans le monde pour nous !
 
-Nous apprécions profondément les contributions de nos bénévoles et de nos donateurs. Si vous souhaitez contribuer à ce travail, les dons peuvent être effectués en ligne à l’adresse suivante :
+Nous apprécions profondément les contributions de nos bénévoles et de nos donateurs. Si vous souhaitez contribuer à ce travail, les dons peuvent être effectués en ligne à l’adresse suivante :
 
 http://urantiabook.org/urantia-book-store/contributions
 

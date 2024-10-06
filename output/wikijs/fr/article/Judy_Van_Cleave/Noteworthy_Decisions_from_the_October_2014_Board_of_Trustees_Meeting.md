@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-4-dec-2014">
+        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-4-décembre-2014">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 4, Déc. 2014 — Table des matières</span>
         </a>
         </td>
@@ -83,7 +83,7 @@ a. Le Conseil d’Administration a approuvé la recommandation du Comité des Fi
 
 b. Le Conseil d’Administration a adopté le budget 2015. Le revenu nécessaire pour 2015 est en hausse de 3% tandis que les dépenses ont augmenté de 1% par rapport à la moyenne des derniers trois ans. Les coûts des programmes (distribution de livres, traductions, révisions, sensibilisation, site web, éducation, et plus) sont en hausse significative alors que les charges administratives sont en baisse, dans le but de mieux utiliser les dons des donateurs, pour payer les programmes liés à la mission.
 
-c. La collecte de fonds à égalisation de fin de l'année a été lancée lors de la réunion d’octobre. Un petit groupe de donateurs ont donné $160 000 à la Fondation Urantia à condition qu’un montant égal puisse être collecté pour égaliser leur don. Ce programme est une merveilleuse façon pour les donateurs de doubler leur don à la Fondation Urantia. Pour chaque dollar donné, jusqu'à $160 000, un dollar sera égalisé. Aidez-nous, s’il vous plaît, à atteindre « l’égalisation, » en envoyant un don à la Fondation Urantia, avant la fin de l'année.
+c. La collecte de fonds à égalisation de fin de l'année a été lancée lors de la réunion d’octobre. Un petit groupe de donateurs ont donné $160 000 à la Fondation Urantia à condition qu’un montant égal puisse être collecté pour égaliser leur don. Ce programme est une merveilleuse façon pour les donateurs de doubler leur don à la Fondation Urantia. Pour chaque dollar donné, jusqu'à $160 000, un dollar sera égalisé. Aidez-nous, s’il vous plaît, à atteindre « l’égalisation, » en envoyant un don à la Fondation Urantia, avant la fin de l'année.
 
 > Un petit groupe de donateurs a donné 160 000 $ à la Fondation Urantia si une somme d'argent égale pouvait être récoltée pour correspondre à leur don.
 
@@ -104,7 +104,7 @@ c. La collecte de fonds à égalisation de fin de l'année a été lancée lors 
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-4-dec-2014">
+        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-4-décembre-2014">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 4, Déc. 2014 — Table des matières</span>
         </a>
         </td>

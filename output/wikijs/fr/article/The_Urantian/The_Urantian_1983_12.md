@@ -52,7 +52,7 @@ C'est du moins ce que pensait Jésus. « Père, je veux que ceux que tu m'as don
 [Lire la suite](/fr/article/George_Ninteman/Persons_are_gifts)
 
 —_Fr. George Ninteman, OP_
-_(Réimprimé de « Familia », paroisse de l'Ascension, Chicago, mensuel familial.)_
+_(Réimprimé de « Familia », paroisse de l'Ascension, Chicago, mensuel familial.)_
 
 ---
 

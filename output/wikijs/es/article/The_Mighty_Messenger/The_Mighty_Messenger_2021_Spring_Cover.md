@@ -60,7 +60,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 DECLARACIÓN DE DESCARGO DE RESPONSABILIDAD
 
-Nos esforzamos por publicar una variedad de puntos de vista, entendiendo que los estudiantes del Libro de Urantia pueden diferir significativamente en sus interpretaciones de las enseñanzas.
+Nos esforzamos por publicar una variedad de puntos de vista, entendiendo que los estudiantes del _Libro de Urantia_ pueden diferir significativamente en sus interpretaciones de las enseñanzas.
 
 Las opiniones y descripciones de los autores no reflejan necesariamente los puntos de vista de la Fellowship o las iniciativas que apoya la Fellowship. Los artículos se publican con el interés de permitir la expresión de una diversidad de puntos de vista dentro de la comunidad de lectores.
 

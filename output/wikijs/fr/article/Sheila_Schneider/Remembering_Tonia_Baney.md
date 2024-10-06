@@ -41,7 +41,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Sheila Schneider, ancien membre du personnel de la Fondation Urantia, Illinois, États-Unis_
 
-_Note de l’éditeur : Tonia Baney servit en tant que directrice exécutive de la Fondation Urantia de 1996 à 2003. Durant son mandat, elle dirigea la Fondation dans une perspective multinationale, qui aida à augmenter la distribution mondialement. Ses compétences et son savoir-faire en affaires dirigèrent la Fondation dans des moments difficiles, et sa cordialité créèrent une atmosphère amicale et familiale à 533. Nous sommes très reconnaissants de son service et lui souhaitons Bonne Chance pour la prochaine étape de sa carrière universelle._
+_Note de l’éditeur : Tonia Baney servit en tant que directrice exécutive de la Fondation Urantia de 1996 à 2003. Durant son mandat, elle dirigea la Fondation dans une perspective multinationale, qui aida à augmenter la distribution mondialement. Ses compétences et son savoir-faire en affaires dirigèrent la Fondation dans des moments difficiles, et sa cordialité créèrent une atmosphère amicale et familiale à 533. Nous sommes très reconnaissants de son service et lui souhaitons Bonne Chance pour la prochaine étape de sa carrière universelle._
 
 J’ai rencontré Tonia pour la première fois lorsqu’elle arriva à la Fondation Urantia , pour la première réunion du Comité Consultatif aux Trustees (ACT). Elle était amicale, en attrayante, dévouée et tout ce que vous attendez de quelqu’un qui doit conseiller les trustees et les aider à créer une nouvelle organisation pour les membres qui lisent _Le Livre d’Urantia._
 
@@ -49,7 +49,7 @@ Tonia et son mari Steve vivaient sur l’ile de Maui à Hawaï. Tonia avait cré
 
 Comme étudiante du _Livre d’Urantia_ de plus de 20 ans, Tonia était enthousiaste et dévouée à propager les enseignements de toutes les manières possibles. En 1996, Tonia devint la directrice exécutive de la Fondation Urantia.
 
-C’était une époque d’expansion et le bureau de la Fondation prit une nouvelle « vibration », si l’on peut dire. J’étais son assistante exécutive et avais servi comme assistante aux deux directeurs exécutifs précédents. Tonia a beaucoup accompli pendant ce temps-là, et ce fut un privilège de servir avec elle. La couverture du _Livre d’Urantia_ fut re-dessiné. La traduction commença en russe, coréen, farsi, portugais, chinois, hindou, allemand et italien. Le programme de livres en bibliothèque s’agrandit pour accueillir un bénévole, Mark Bloomfield, qui voyagea autour de la planète pour fournir des livres aux bibliothèques. Nous ouvrîmes aussi des succursales en Australie, au Canada, en France et en Finlande pour activer la distribution du livre mondiale.
+C’était une époque d’expansion et le bureau de la Fondation prit une nouvelle « vibration », si l’on peut dire. J’étais son assistante exécutive et avais servi comme assistante aux deux directeurs exécutifs précédents. Tonia a beaucoup accompli pendant ce temps-là, et ce fut un privilège de servir avec elle. La couverture du _Livre d’Urantia_ fut re-dessiné. La traduction commença en russe, coréen, farsi, portugais, chinois, hindou, allemand et italien. Le programme de livres en bibliothèque s’agrandit pour accueillir un bénévole, Mark Bloomfield, qui voyagea autour de la planète pour fournir des livres aux bibliothèques. Nous ouvrîmes aussi des succursales en Australie, au Canada, en France et en Finlande pour activer la distribution du livre mondiale.
 
 Tonia initia la tradition annuelle de la fête de fin d’année tenue au siège de la Fondation Urantia. La fête donna à beaucoup de lecteurs l’occasion de visiter Chicago et la Fondation, tout en appréciant les festivités et de rencontrer d’autres lecteurs du _Livre d’Urantia._
 
@@ -69,7 +69,7 @@ Tonia quitta la Fondation Urantia en octobre 2003, retourna à Hawaï et poursui
 
 En 2011, Tonia et Steve retournèrent au Wisconsin où Tonia était née et où presque toute sa famille vivait. Lorsque je reçus ma licence en 2014, ils vinrent le célébrer avec moi. J’étais tellement heureuse qu’ils soient là pour ce moment spécial.
 
-J’ai continué à parler à Tonia et Steve par téléphone et remarquai le moment où Tonia commença à perdre certaines de ses capacités verbales. Après avoir été diagnostiquée avec Alzheimer, j’ai parlé souvent avec Steve, lui apportant du soutien lorsqu’il en avait besoin. Lorsque j’appris la mort de Tonia le 13 février 2023, ma première pensée fut, « Je te reverrai plus tard, mon amie !»
+J’ai continué à parler à Tonia et Steve par téléphone et remarquai le moment où Tonia commença à perdre certaines de ses capacités verbales. Après avoir été diagnostiquée avec Alzheimer, j’ai parlé souvent avec Steve, lui apportant du soutien lorsqu’il en avait besoin. Lorsque j’appris la mort de Tonia le 13 février 2023, ma première pensée fut, « Je te reverrai plus tard, mon amie !»
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2023_03/021.jpg">

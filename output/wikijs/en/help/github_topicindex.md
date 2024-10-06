@@ -238,7 +238,7 @@ To access it:
 2. Two windows opens. ignore the Dev Tools instance. It is there for debugging.
 3. Select *Edit Topic Index* in side panel.
 
-![](/image/uptools_topic_editor.png)
+![](/image/help/uptools_topic_editor.png)
 
 The *Topic Index Editor* has four main areas:
 - on the left side a the list of topics.
@@ -262,13 +262,13 @@ To use the *Topic Index Editor* follow these instructions:
 
 One of the useful functionalities of *Topic Index Editor* is that it shows errors found in topics. For example, in the snapshot below a link to a not existing topic has been found. Now we can go to VS Code and check the file with the error and fix it.
 
-![](/image/uptools_topic_editor_2.png)
+![](/image/help/uptools_topic_editor_2.png)
 
 Another useful functionality is that the name of the topic is highlighted in the *Urantia Book* text. For example in the snapshot below the topic, `brotherhood of man` in English and `hermandad de los hombres` in Spanish, has been found in the text in English but not in Spanish. You can check and see that in Spanish the *Urantia Book* says `fraternidad de los hombres` instead of `hermandad de los hombres`, which means the same. So to fix this we need to add `fraternidad de los hombres` as an alias in the topic.
 
 Also a useful functionality is that the short line selected, that says `civilization encompased by love` in English and `civilización rodeada por el amor` in Spanish, has been found in the *Urantia Book* paragraph that is referenced for the topic line. The sentence in the paragraph that best matches the line is highlighted in bold and a Copy button appears in the bottom. You can use that button to copy the sentence to clipboard and paste in VS Code, improving the text in the topic with a more explanatory text.
 
-![](/image/uptools_topic_editor_3.png)
+![](/image/help/uptools_topic_editor_3.png)
 
 ## External links
 

@@ -42,7 +42,7 @@ Nuestra mayor aventura es crecer hacia Dios esforzándonos por descubrir y hacer
 
 El viaje comienza con un retiro previo a la conferencia llamado Grow Godward: A Circle of Trust. Aquí emprenderemos un viaje hacia Dios en la presencia alentadora y desafiante de otros. El retiro está limitado a 30 participantes y está casi lleno, así que regístrese para asegurar su lugar.
 
-Después de una recepción de celebración en la noche de apertura, daremos inicio a la conferencia en la primera de las cuatro sesiones plenarias de la mañana. Experimente música extraordinaria y adore a nuestro Padre celestial entre cientos de otros lectores del Libro de Urantia de todo el mundo. Tendremos un orador principal cada mañana, cuyos discursos serán seguidos por debates en grupos pequeños sobre algunos de los temas más pertinentes y que invitan a la reflexión que preocupan a nuestra comunidad.
+Después de una recepción de celebración en la noche de apertura, daremos inicio a la conferencia en la primera de las cuatro sesiones plenarias de la mañana. Experimente música extraordinaria y adore a nuestro Padre celestial entre cientos de otros lectores del _Libro de Urantia_ de todo el mundo. Tendremos un orador principal cada mañana, cuyos discursos serán seguidos por debates en grupos pequeños sobre algunos de los temas más pertinentes y que invitan a la reflexión que preocupan a nuestra comunidad.
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2014_Spring/005835.jpg">

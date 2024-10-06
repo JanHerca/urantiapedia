@@ -9,7 +9,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
 <figure id="Sample_fig_3" class="image urantiapedia">
-<img src="/image/sample_page_map.jpg">
+<img src="/image/help/sample_page_map.jpg">
 <figcaption><em> Sample of rendering an interactive map.</em></figcaption>
 </figure>
 

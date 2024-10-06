@@ -42,11 +42,11 @@ J'ai adoré la simplicité de la façon dont les 30 minutes étaient divisées e
 
 Dans les dix dernières minutes, nous avons repris le cours avec le groupe complet de 40 participants. Nous étions tous en sourdine pour que l’un des trois dirigeants puisse dire une prière et répéter le chant d'ouverture. Nous avons soufflé nos bougies et essayé de « capter la fumée » et de la verser sur nos têtes, sans renverser de cire.
 
-Pendant la période sociale, on nous a posé une question générale du type « qu’est-ce qui, selon vous, vous soutient pendant cette période d'isolement ? »
+Pendant la période sociale, on nous a posé une question générale du type « qu’est-ce qui, selon vous, vous soutient pendant cette période d'isolement ? »
 
 Les trois semaines sont maintenant terminées et nous avons tous été chargés de créer nos propres groupes de prière zoom en ligne. Je voudrais recommander leur site Web Sacred Design Lab https://sacred.design/ comme une ressource incroyable. Il semble que nous ayons tous faim de ressources spirituelles ces jours-ci !
 
-Si cela vous intéresse, voici les informations sur Family Chapel du Sacred Design Lab :
+Si cela vous intéresse, voici les informations sur Family Chapel du Sacred Design Lab :
 
 https://docs.google.com/document/d/1TrXiGtEaOpoGpJfG4xdee6TnBwiCYjvD1iu8rMRlM/edit
 

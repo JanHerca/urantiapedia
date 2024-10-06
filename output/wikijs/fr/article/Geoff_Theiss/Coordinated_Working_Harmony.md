@@ -46,9 +46,9 @@ Nous sommes plutôt mis au défi de nous revigorer face aux difficultés et de f
 
 Ce n’est pas une tâche facile.
 
-Le Livre d'Urantia nous rappelle comment « Un groupe social d'êtres humains travaillant en harmonie et de manière coordonnée représente une force bien plus grande que la simple somme de ses parties. » (<a id="a48_202"></a>[LU 133:5.6](/fr/The_Urantia_Book/133#p5_6)) L'harmonie de nos efforts communs _exige_ la coordination. Cela _nécessite_ du travail. Et cet effort soutenu a besoin de vous.
+Le Livre d'Urantia nous rappelle comment « Un groupe social d'êtres humains travaillant en harmonie et de manière coordonnée représente une force bien plus grande que la simple somme de ses parties. » (<a id="a48_202"></a>[LU 133:5.6](/fr/The_Urantia_Book/133#p5_6)) L'harmonie de nos efforts communs _exige_ la coordination. Cela _nécessite_ du travail. Et cet effort soutenu a besoin de vous.
 
-La Urantia Book Fellowship (alias la Fellowship) investit des ressources importantes dans le travail au-delà de toutes les frontières – internationales et organisationnelles – afin de tendre vers les valeurs les plus élevées d’une collaboration efficace. Nous avons besoin de votre soutien pour capitaliser sur ces incroyables opportunités de développer davantage nos partenariats au sein du mouvement plus large du _Livre d'Urantia_, avec les objectifs partagés suivants pour 2024 :
+La Urantia Book Fellowship (alias la Fellowship) investit des ressources importantes dans le travail au-delà de toutes les frontières – internationales et organisationnelles – afin de tendre vers les valeurs les plus élevées d’une collaboration efficace. Nous avons besoin de votre soutien pour capitaliser sur ces incroyables opportunités de développer davantage nos partenariats au sein du mouvement plus large du _Livre d'Urantia_, avec les objectifs partagés suivants pour 2024 :
 
 <br style="clear:both;"/>
 
@@ -56,12 +56,12 @@ La Urantia Book Fellowship (alias la Fellowship) investit des ressources importa
 - La Fellowship et la Fondation Urantia : Étendre la distribution du _Livre d'Urantia_ dans les régions éloignées, augmenter le soutien des groupes d'étude et développer de nouveaux ouvrages secondaires traduits.
 - La Fellowship et l'Institut universitaire Urantia : Développer un nouveau programme éducatif et élargir les ressources éducatives du ministère en prison.
 - La Fellowship et l'Urantia Association International : sponsorisent des activités et des conférences communautaires conjointes, augmentent le soutien des groupes d'étude et collaborent pour étendre les services aux lecteurs.
-- La Fellowship et le Christ Michael Center au Nigeria : étendre le placement du Livre d'Urantia en Afrique et s'associer pour publier _Le Livre d'Urantia_ au Nigeria.
+- La Fellowship et le Christ Michael Center au Nigeria : étendre le placement du Livre d'Urantia en Afrique et s'associer pour publier _Le Livre d'Urantia_ au Nigeria.
 - Et bien d'autres objectifs partagés.
 
 Le fait d'avoir plus de deux cents bénévoles nous a permis d'accomplir beaucoup de choses avec un budget relativement modeste, mais à mesure que la révélation se répand, nos ressources financières sont également sollicitées.
 
-Votre aide nous rendra exponentiellement plus efficaces. Veuillez envisager de faire un don généreux pour soutenir une collaboration spécifique ou pour nous aider à maintenir nos efforts de partenariat en tant que famille révélation :
+Votre aide nous rendra exponentiellement plus efficaces. Veuillez envisager de faire un don généreux pour soutenir une collaboration spécifique ou pour nous aider à maintenir nos efforts de partenariat en tant que famille révélation :
 
 https://urantiabook.org/Donate/
 

@@ -42,7 +42,7 @@ CINQUIÈME COMMUNAUTÉ D'ÉPOQUE
 Chicago, Illinois 60614
 les états-unis d'Amérique
 
-## Pourquoi les groupes d'étude sont-ils importants ?
+## Pourquoi les groupes d'étude sont-ils importants ?
 
 Sur une base personnelle, l'importance des groupes d'étude du _Livre d'Urantia_ découle de notre besoin de mieux comprendre les enseignements et de partager notre expérience spirituelle, notre amitié, nos encouragements et notre renforcement par l'association avec d'autres lecteurs. La participation à un groupe d'étude du _Livre d'Urantia_ peut servir à améliorer la croissance spirituelle personnelle, permettre une étude approfondie du _Le Livre d'Urantia_ avec d'autres et rassembler les lecteurs pour la communion fraternelle et le service.
 
@@ -74,11 +74,11 @@ Pour être le sponsor, vous n'avez pas besoin d'être un expert du _Livre d'Uran
 
 Une discussion sur la manière de trouver d’autres lecteurs pour votre groupe dépasse le cadre de ce livret, mais un bon début serait de dire à vos amis : « Ce livre change ma vie. Viens l’étudier avec moi ! Certaines personnes ont utilisé de petites annonces dans un journal local pour demander s'il y avait des lecteurs du _Livre d'Urantia_ intéressés par une étude en groupe avec d'autres lecteurs.
 
-Un groupe d’étude n’a pas besoin d’être grand et peut être une expérience enrichissante même s’il est petit. Jésus a dit : « …là où deux ou trois croyants sont rassemblés, je suis au milieu d’eux. » (1763.1) Une fois que vous en avez un ou deux autres, l'important n'est pas combien, mais quand. Commencez là où vous êtes, commencez maintenant !
+Un groupe d’étude n’a pas besoin d’être grand et peut être une expérience enrichissante même s’il est petit. Jésus a dit : « …là où deux ou trois croyants sont rassemblés, je suis au milieu d’eux. » (1763.1) Une fois que vous en avez un ou deux autres, l'important n'est pas combien, mais quand. Commencez là où vous êtes, commencez maintenant !
 
 ### Cohérence
 
-Vous devriez essayer d'amener au moins deux personnes supplémentaires à s'engager à assister à pratiquement chaque réunion, afin que les membres fondateurs conviennent que la participation régulière est une priorité absolue. Si les membres les moins réguliers s'y rendent une ou deux fois et ne trouvent personne à l'heure normale de réunion, ils décideront qu'ils préféreront faire autre chose. Il est important que vos réunions se tiennent à une heure constante afin que les gens puissent planifier leur emploi du temps en conséquence. La publication d'un avis de rappel est utile, en particulier si les réunions se déroulent à différents endroits. Si possible, des réunions devraient avoir lieu chaque semaine ; il est beaucoup plus difficile de maintenir l’élan lorsque les réunions ont lieu moins souvent.
+Vous devriez essayer d'amener au moins deux personnes supplémentaires à s'engager à assister à pratiquement chaque réunion, afin que les membres fondateurs conviennent que la participation régulière est une priorité absolue. Si les membres les moins réguliers s'y rendent une ou deux fois et ne trouvent personne à l'heure normale de réunion, ils décideront qu'ils préféreront faire autre chose. Il est important que vos réunions se tiennent à une heure constante afin que les gens puissent planifier leur emploi du temps en conséquence. La publication d'un avis de rappel est utile, en particulier si les réunions se déroulent à différents endroits. Si possible, des réunions devraient avoir lieu chaque semaine ; il est beaucoup plus difficile de maintenir l’élan lorsque les réunions ont lieu moins souvent.
 
 ### Un environnement propice
 
@@ -118,11 +118,11 @@ Certains groupes d’étude prospèrent grâce au culte de groupe, mais d’autr
 
 ### Le modérateur
 
-Presque tous les groupes anciens font en sorte que les fonctions de modérateur soient réparties à tour de rôle entre les membres. Cela amène tout le monde à participer au processus en tant que leader réel ou potentiel ; en outre, cela augmente la diversité et le plaisir de l’étude en groupe. Les groupes peuvent soit se lasser sans cesse de la même personne, soit devenir trop dépendants. Dans le cadre des directives de base que le groupe adopte, le modérateur devrait avoir une latitude raisonnable dans son choix de sujet et d'approche, à condition que la réunion soit centrée sur du matériel contenu dans ou pertinent pour le _Livre d'Urantia_.
+Presque tous les groupes anciens font en sorte que les fonctions de modérateur soient réparties à tour de rôle entre les membres. Cela amène tout le monde à participer au processus en tant que leader réel ou potentiel ; en outre, cela augmente la diversité et le plaisir de l’étude en groupe. Les groupes peuvent soit se lasser sans cesse de la même personne, soit devenir trop dépendants. Dans le cadre des directives de base que le groupe adopte, le modérateur devrait avoir une latitude raisonnable dans son choix de sujet et d'approche, à condition que la réunion soit centrée sur du matériel contenu dans ou pertinent pour le _Livre d'Urantia_.
 
 ### Participation du groupe
 
-N'importe qui peut lire _Le Livre d'URANTIA_ seul ; la tâche du modérateur du groupe d'étude est d'encourager autant de membres que possible à faire part de leurs réflexions, afin que tous les membres grandissent en verbalisant leurs propres opinions et en écoutant celles des autres.
+N'importe qui peut lire _Le Livre d'URANTIA_ seul ; la tâche du modérateur du groupe d'étude est d'encourager autant de membres que possible à faire part de leurs réflexions, afin que tous les membres grandissent en verbalisant leurs propres opinions et en écoutant celles des autres.
 
 Le rôle normal du modérateur est celui d’un leader et non d’un enseignant. Dans la mesure du possible, il est préférable d’éviter toute critique directe des opinions des autres. Des critiques explicites, par exemple, peuvent amener un membre à garder le silence pendant une période prolongée, voire à quitter le groupe. Si le groupe est assez grand (par exemple plus de six participants) ou s'il est composé de personnes qui ne se connaissent pas très bien, il est probablement préférable que le modérateur se concentre sur l'animation de la discussion. Dans ces cas-là, efforcez-vous de limiter vos commentaires personnels.
 
@@ -140,9 +140,9 @@ C'est une bonne idée de garder des copies supplémentaires du _Livre d'Urantia_
 
 ### Aides à l'étude et planification des cours
 
-La plupart des groupes ont développé deux manières fondamentales d'étudier le _Livre d'Urantia_ : papier par papier ou par sujet. Un moyen simple de planifier une étude thématique consiste à utiliser le _Concordex_, le _Key Word Index_ ou la table des matières du livre, chacun donnant des références sur le sujet. En choisissant un sujet (par exemple, la foi, la prière, la liberté, Adam et Ève, la vie familiale) et en recherchant les citations répertoriées, vous pouvez sélectionner celles que vous souhaitez utiliser. Planifier une leçon ou une discussion moyenne peut être une expérience productive et stimulante et doit être partagée entre les membres du groupe.
+La plupart des groupes ont développé deux manières fondamentales d'étudier le _Livre d'Urantia_ : papier par papier ou par sujet. Un moyen simple de planifier une étude thématique consiste à utiliser le _Concordex_, le _Key Word Index_ ou la table des matières du livre, chacun donnant des références sur le sujet. En choisissant un sujet (par exemple, la foi, la prière, la liberté, Adam et Ève, la vie familiale) et en recherchant les citations répertoriées, vous pouvez sélectionner celles que vous souhaitez utiliser. Planifier une leçon ou une discussion moyenne peut être une expérience productive et stimulante et doit être partagée entre les membres du groupe.
 
-Les groupes débutants trouveront peut-être plus facile de sélectionner un article ou un groupe d’articles et de simplement les lire. Le modérateur doit examiner attentivement le matériel à l'avance et concevoir des questions qui encourageront la réflexion sur les points sélectionnés pour la discussion. L'encouragement de points de vue alternatifs est essentiel, car il n'y a pas d'interprétations officielles du _Le Livre d'Urantia_ ; le texte parle de lui-même et la compréhension des enseignements peut être élargie par de nombreux points de vue uniques.
+Les groupes débutants trouveront peut-être plus facile de sélectionner un article ou un groupe d’articles et de simplement les lire. Le modérateur doit examiner attentivement le matériel à l'avance et concevoir des questions qui encourageront la réflexion sur les points sélectionnés pour la discussion. L'encouragement de points de vue alternatifs est essentiel, car il n'y a pas d'interprétations officielles du _Le Livre d'Urantia_ ; le texte parle de lui-même et la compréhension des enseignements peut être élargie par de nombreux points de vue uniques.
 
 Le comité des projets spéciaux de la Fifth Epochal Fellowship développe un guide de ressources d'aides à l'étude que vous souhaiterez peut-être obtenir en contactant notre bureau.
 
@@ -154,18 +154,18 @@ Après une prière pour vous guider (si votre groupe le souhaite), vous pouvez c
 
 ### La bonne question
 
-Après que chaque section a été lue à haute voix, le modérateur peut stimuler la discussion en posant une question qui suscite la réflexion, quelque chose d'un peu plus spécifique que « Que pensez-vous de la section 1 ? Si possible, le modérateur doit préparer une liste de questions à l'avance. Les questions révèlent des faits, explorent les relations entre les faits et les vérités et améliorent notre compréhension de l'impact de ces vérités sur nos vies. Une question factuelle pourrait être : « Combien y a-t-il d'Anciens des Jours ? » Une question analytique pourrait être : « Pourquoi les Anciens des Jours sont-ils à la fois administrateurs et juges ? Cela ne viole-t-il pas le principe de la séparation des pouvoirs en exécutif, législatif ? , et les domaines judiciaires ? »
+Après que chaque section a été lue à haute voix, le modérateur peut stimuler la discussion en posant une question qui suscite la réflexion, quelque chose d'un peu plus spécifique que « Que pensez-vous de la section 1 ? Si possible, le modérateur doit préparer une liste de questions à l'avance. Les questions révèlent des faits, explorent les relations entre les faits et les vérités et améliorent notre compréhension de l'impact de ces vérités sur nos vies. Une question factuelle pourrait être : « Combien y a-t-il d'Anciens des Jours ? » Une question analytique pourrait être : « Pourquoi les Anciens des Jours sont-ils à la fois administrateurs et juges ? Cela ne viole-t-il pas le principe de la séparation des pouvoirs en exécutif, législatif ? , et les domaines judiciaires ? »
 
 Le modérateur doit encourager les nouveaux lecteurs à faire part de leurs réflexions. Leurs idées peuvent être tout aussi intéressantes et précieuses que celles des personnes qui lisent _Le Livre d'Urantia_ depuis des années. La discussion et l'interaction en groupe peuvent souvent aider à surmonter les problèmes de compréhension des sélections du _Livre d'Urantia_. Même dans les groupes débutants, les contributions partagées peuvent conduire à des questions qui, à leur tour, stimulent une étude et une compréhension plus approfondies.
 
 Parce que de nombreux sujets du Livre d'Urantia semblent fondamentalement intellectuels, le modérateur peut parfois souhaiter orienter la discussion dans des directions qui encouragent le partage d'expériences spirituelles personnelles, ce qui est un avantage majeur de participer à un groupe d'étude. De telles questions révèlent les effets de la vérité dans nos vies personnelles et traitent donc aussi bien des sentiments que des faits.
 
-Il existe des techniques spécifiques qui peuvent être utilisées pour promouvoir la discussion :
+Il existe des techniques spécifiques qui peuvent être utilisées pour promouvoir la discussion :
 
-- **Expansion** : demandez à quelqu'un de développer ou d'expliquer plus en détail un commentaire précédent.
+- **Expansion** : demandez à quelqu'un de développer ou d'expliquer plus en détail un commentaire précédent.
 - **Clarification** : demander qu'un commentaire soit reformulé différemment.
 - **Justification** : demandez à quelqu'un d'identifier le matériel dans _Le Livre d'Urantia_ qui semble soutenir son point de vue.
-- **Compréhension élargie** : demandez à quelqu'un d'autre de commenter la remarque précédente.
+- **Compréhension élargie** : demandez à quelqu'un d'autre de commenter la remarque précédente.
 
 Mais le modérateur ne doit pas se limiter à poser des questions ; il est parfois plus approprié de résumer la discussion et de reconnaître les contributions des autres.
 
@@ -227,7 +227,7 @@ De temps en temps, la Fifth Epochal Fellowship publie un répertoire de groupes 
 
 Le [_Study Group Herald_](/fr/index/articles_study_group_herald), un nouveau magazine développé par la Fifth Epochal Fellowship, fera son apparition à l'automne 1990. Sa conception et son objectif sont de favoriser la communication et la croissance au sein du mouvement des groupes d'étude, ainsi que de refléter la joie dans la révélation, le réalisme de la lutte humaine et l'unité des objectifs à mesure qu'ils se développent dans notre association fraternelle.
 
-Ce nouveau magazine présentera des nouvelles du mouvement Urantia ; les actions des lecteurs ; des articles sur la façon d'organiser des groupes d'étude efficaces ; aides à l'étude thématiques; une section consacrée aux intérêts des jeunes ; partage d'expériences spirituelles; des articles mettant en lumière la révélation elle-même ; des idées de sensibilisation ; petites annonces; un babillard communautaire; calendriers d'événements; et les listes des groupes d'étude et des coordonnateurs de zone.
+Ce nouveau magazine présentera des nouvelles du mouvement Urantia ; les actions des lecteurs ; des articles sur la façon d'organiser des groupes d'étude efficaces ; aides à l'étude thématiques; une section consacrée aux intérêts des jeunes ; partage d'expériences spirituelles; des articles mettant en lumière la révélation elle-même ; des idées de sensibilisation ; petites annonces; un babillard communautaire; calendriers d'événements; et les listes des groupes d'étude et des coordonnateurs de zone.
 
 _Study Group Herald_ sera un magazine semestriel de vingt-quatre pages. Il sera envoyé par courrier aux membres des groupes d’étude et aux lecteurs individuels du Livre d’Urantia dans le monde entier.
 
@@ -242,9 +242,9 @@ Les contributions et la participation d'écrivains, d'artistes, de dessinateurs,
 
 ## Une déclaration d'intention volontaire
 
-Un vieux proverbe dit que si vous ne savez pas où vous allez, il y a de fortes chances que vous n’y parveniez pas. Ainsi, votre groupe souhaitera peut-être éventuellement élaborer une déclaration d'intention. Par exemple, vous pouvez commencer par ce qui suit et apporter les modifications que vous jugez appropriées :
+Un vieux proverbe dit que si vous ne savez pas où vous allez, il y a de fortes chances que vous n’y parveniez pas. Ainsi, votre groupe souhaitera peut-être éventuellement élaborer une déclaration d'intention. Par exemple, vous pouvez commencer par ce qui suit et apporter les modifications que vous jugez appropriées :
 
-Nous, membres des groupes d'étude du _Livre d'Urantia_, nous consacrons :
+Nous, membres des groupes d'étude du _Livre d'Urantia_, nous consacrons :
 
 - Au culte de Dieu notre Père,
 - Au service de toute l'humanité, et
@@ -256,7 +256,7 @@ Nos seules exigences pour devenir membre sont un intérêt pour le _Livre d'Uran
 
 En tant qu'individus, nos membres peuvent appartenir et appartiennent effectivement à des groupes politiques, économiques, civiques ou religieux de leur propre choix, mais en tant que groupe, nous choisissons de ne pas nous impliquer dans ce type d'organisations, croyant que les énergies de notre groupe sont mieux dirigées vers notre mission spirituelle. .
 
-Nos dirigeants sont des serviteurs de confiance ; ils ne gouvernent pas. Dieu lui-même est notre seule véritable fin. Bien que nos relations de personnalité avec nos semblables soient aussi des fins en elles-mêmes, l'étude du _Livre d'Urantia_ et nos autres fonctions de groupe sont considérées comme des outils valables et utiles pour atteindre ces fins. Nous ne reconnaissons qu’une seule autorité spirituelle : le Dieu aimant et souverain de toute la création.
+Nos dirigeants sont des serviteurs de confiance ; ils ne gouvernent pas. Dieu lui-même est notre seule véritable fin. Bien que nos relations de personnalité avec nos semblables soient aussi des fins en elles-mêmes, l'étude du _Livre d'Urantia_ et nos autres fonctions de groupe sont considérées comme des outils valables et utiles pour atteindre ces fins. Nous ne reconnaissons qu’une seule autorité spirituelle : le Dieu aimant et souverain de toute la création.
 
 Par-dessus tout, nous aspirons à vivre une vie de foi et de service dévoué dans l'esprit de notre Maître, Jésus de Nazareth, et à continuer sur le chemin de croissance spirituelle éternelle de notre Père vers la perfection.
 

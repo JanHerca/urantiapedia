@@ -38,13 +38,13 @@ dateCreated: 2023-6-21T8:13:38Z
 
 **L'invasion divine de l’esprit**
 
-Un mot de votre responsable des publications :
+Un mot de votre responsable des publications :
 
-Ce Puissant Messager est dédié à « ce que nous faisons » en tant que Communauté du Livre d'Urantia. J'ai demandé à chaque dirigeant et président de comité de soumettre un article. Profitez du service que ces personnes offrent à notre communauté !
+Ce Puissant Messager est dédié à « ce que nous faisons » en tant que Communauté du Livre d'Urantia. J'ai demandé à chaque dirigeant et président de comité de soumettre un article. Profitez du service que ces personnes offrent à notre communauté !
 
 Cristina Seaborn, présidente du comité des publications de la bourse _Le Livre d'Urantia_.
 
-Illustration de couverture :
+Illustration de couverture :
 **« INVASION DIVINE »**
 Utilisé avec autorisation, Stephen Sawyer [www.ART4GOD.com](https://www.art4god.com/)
 

@@ -56,7 +56,7 @@ El sábado por la mañana vimos la película «La cabaña», que estimuló un d
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/The-Race-to-Nebadon-300x225.jpg">
-<figcaption>Race to Nebadon Game</figcapton>
+<figcaption>Race to Nebadon Game</figcaption>
 </figure>
 
 Se celebró un taller sobre «El poder de la oración», en el que los asistentes se agruparon en grupos de cinco o seis personas más un facilitador y compartieron la manera en que oraban y lo beneficiosa que había sido la oración en su vida. Una vez más nos centramos en las experiencias personales.

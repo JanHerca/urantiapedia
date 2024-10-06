@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Meredith Van Woert<br>© 1999 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dorothy_Elder/A_Report_on_UBIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Report on _The Urantia Book_ Internet School</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michael_MacIsaac/A_Report_on_Young_Readers">
+          <span class="pr-2">A Report on Young Readers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Meredith Van Woert
 California, United States
@@ -38,3 +62,27 @@ The results of the outreach are as follows:
 - 1 - Card returned undeliverable
 
 I have received seven letters from individuals. There is a personal story contained in each one. And every conversation reveals the light and shade of a shared landscape we call _The Urantia Book_. IUA outreach is moving forward.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dorothy_Elder/A_Report_on_UBIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Report on _The Urantia Book_ Internet School</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michael_MacIsaac/A_Report_on_Young_Readers">
+          <span class="pr-2">A Report on Young Readers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

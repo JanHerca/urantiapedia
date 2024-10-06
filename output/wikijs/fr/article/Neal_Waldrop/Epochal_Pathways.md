@@ -64,7 +64,7 @@ Cependant, dans le paragraphe qui suit immédiatement, Immanuel clarifie la natu
 <figcaption><em>Rêves</em>, Wassilij Dimitriewitsch Polenow, 1894. Domaine public. <a href="https://commons.wikimedia.org/wiki/File:Polenov_MechtySAR.jpg" target="_blank">Wikipédia</a></figcaption>
 </figure>
 
-Par conséquent, le Christ Micaël de Nébadon, incarné sous la forme humaine de Jésus de Nazareth, a proclamé et promu la religion _personnelle_ (individuelle), comme cela devient clairement clair lorsque nous étudions les discours sur la religion que les révélateurs ont consacrés dans les sections <a id="a66_298"></a>[5](/fr/The_Urantia_Book/155#p5) et [6](/fr/The_Urantia_Book/155#p6) du fascicule 155. Néanmoins, nous finissons avec l'impression que les apôtres et leurs successeurs ont trébuché sur ces enseignements avancés, car ils ont ensuite établi des cadres institutionnels organisés dans lesquels les religieux professionnels donnent des ordres aux croyants et prétendent parler. pour Dieu. Bien entendu, cela était profondément en contradiction avec ce que Jésus enseignait. Après tout, il a déclaré : 
+Par conséquent, le Christ Micaël de Nébadon, incarné sous la forme humaine de Jésus de Nazareth, a proclamé et promu la religion _personnelle_ (individuelle), comme cela devient clairement clair lorsque nous étudions les discours sur la religion que les révélateurs ont consacrés dans les sections <a id="a66_298"></a>[5](/fr/The_Urantia_Book/155#p5) et <a id="a66_334"></a>[6](/fr/The_Urantia_Book/155#p6) du fascicule 155. Néanmoins, nous finissons avec l'impression que les apôtres et leurs successeurs ont trébuché sur ces enseignements avancés, car ils ont ensuite établi des cadres institutionnels organisés dans lesquels les religieux professionnels donnent des ordres aux croyants et prétendent parler. pour Dieu. Bien entendu, cela était profondément en contradiction avec ce que Jésus enseignait. Après tout, il a déclaré : 
 
 > « Je suis venu proclamer la liberté spirituelle, enseigner la vérité éternelle et nourrir la foi vivante. » (<a id="a68_111"></a>[LU 153:2.6](/fr/The_Urantia_Book/153#p2_6))
 
@@ -88,7 +88,7 @@ Neal Waldrop
 12 janvier 2019 
 
 > Neal Waldrop lit _Le Livre d'Urantia_ avec conviction et engagement depuis novembre 1973. Il a servi pendant trois ans comme administrateur de la Fondation Urantia (1989-1992) et en 2003 a été nommé administrateur émérite. Ses efforts actuels se concentrent sur les travaux du Comité pour l'effort mondial ( http://www.globalendeavor.net ), qu'il préside. En juillet 2016, il a terminé son document de discussion détaillé Révélation révélée, un texte de plus de 200 pages mettant en évidence de nombreux aspects de la cinquième révélation d'époque qui, à son avis, n'ont pas encore reçu l'attention qu'ils méritent. À cette fin, il préside une série continue de webinaires qui peuvent être visionnés sur YouTube : des tables rondes au cours desquelles les participants analysent et commentent de courts segments du long document. Sur le plan professionnel, il a passé cinq ans comme officier dans la marine américaine, puis plus de 27 ans comme officier du service extérieur employé par le Département d'État américain (diplomate de carrière). Depuis novembre 2006, il travaille pour une branche du ministère américain de la Justice en tant que traducteur à temps partiel (du français vers l'anglais et de l'anglais vers le français).
-> {.is-info} 
+{.is-info} 
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Neal_Waldrop/Epochal_Pathways/004151.jpg">

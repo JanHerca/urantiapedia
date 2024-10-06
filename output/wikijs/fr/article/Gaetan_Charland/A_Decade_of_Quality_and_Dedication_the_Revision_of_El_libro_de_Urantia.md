@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-3-sept-2021">
+        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-3-septembre-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 3, Sept. 2021 — Table des matières</span>
         </a>
         </td>
@@ -44,7 +44,7 @@ Il y a quelques années, je fus invité à servir dans un nouveau comité charg�
 
 Avec le regard d’un tiers regardant de l’extérieur, je partage mes observations sur ce que je vis, ce dont je fus témoin et ce que j’ai apprécié. Bien que n’étant pas un expert en traduction ou en révision, j’ai fais l’expérience d’étudier et de gérer des groupes d’étude avec des lecteurs qui utilisaient la traduction originale française et ses révisions successives. D’où ma sympathie pour les lecteurs hispanophones, et pour les difficultés auxquelles ils pouvaient s’attendre ou même en faire l’expérience, avec cette nouvelle révision. Mais, soyez assurés qu’un grand soin, des ressources importantes et un savoir-faire inégalé ont été engagés dans ce projet.
 
-La Fondation Urantia prends très sérieusement la responsabilité de ses traductions et révisions. Des articles précédents ont souligné les défis et les subtilités impliqués dans un processus à cinq étapes qui peut prendre des décennies. Vous pouvez en apprendre plus en lisant ceci : [Créer des traductions par amour : Le processus de qualité de la Fondation Urantia](/fr/article/Marilynn_Kulieke/Creating_Translations_out_of_Love_Urantia_Foundations_Quality_Process).
+La Fondation Urantia prends très sérieusement la responsabilité de ses traductions et révisions. Des articles précédents ont souligné les défis et les subtilités impliqués dans un processus à cinq étapes qui peut prendre des décennies. Vous pouvez en apprendre plus en lisant ceci : [Créer des traductions par amour : Le processus de qualité de la Fondation Urantia](/fr/article/Marilynn_Kulieke/Creating_Translations_out_of_Love_Urantia_Foundations_Quality_Process).
 
 De nombreuses étapes furent engagées pour cette révision, dont chacune nécessite un élément d’assurance de qualité. Cela commença avec l’équipe de révision dont les membres provenaient de différents pays hispanophones. Ils avaient tous une compréhension démontrée du texte anglais ainsi qu’une expérience de la langue anglaise. Ils avaient aussi participé à des groupes d’étude pendant plusieurs années.
 
@@ -58,7 +58,7 @@ La prochaine étape de ce long processus demandait une évaluation professionnel
 <img src="/image/article/UF_News_Online/2021_09/014.jpg">
 </figure>
 
-Les standards établis pour ce projet devinrent le fondement sur lequel la révision fut créée : Vérité dans la transmission des concepts ; Beauté dans l’expression de la langue ; et Bonté transformant les perceptions vers de nouveaux niveaux sublimes de compréhension.
+Les standards établis pour ce projet devinrent le fondement sur lequel la révision fut créée : Vérité dans la transmission des concepts ; Beauté dans l’expression de la langue ; et Bonté transformant les perceptions vers de nouveaux niveaux sublimes de compréhension.
 
 Durant mes nombreuses années de service dans la communauté urantienne, je n’ai jamais vu un tel dévouement, une telle coopération et une telle vraie fraternité de la part d’un groupe de lecteurs venant de cultures et d’horizons si différents. J’ai été vraiment inspiré par leur loyauté les uns envers les autres et à ce projet.
 
@@ -81,7 +81,7 @@ Je peux vous dire pour l’avoir vécu, que cette entreprise fut un voyage dans 
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-3-sept-2021">
+        <a href="/fr/index/articles_uf_news_online#volume-15-numéro-3-septembre-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 3, Sept. 2021 — Table des matières</span>
         </a>
         </td>

@@ -151,7 +151,7 @@ Do you see now, Agnosticus, the wherewithal of my faith, source of my happiness 
 
 I must finally concede that man first worships God because he is great. As his knowledge evolves he worships God because he discovers a part of God in himself. And lastly he worships God because he is in God.
 
-(The italicized portions of this paper are direct quotes from _The URANTIA Book_: [UB 0:3.23](/en/The_Urantia_Book/0#p3_23); [UB 0:3.25](/en/The_Urantia_Book/0#p3_25); [UB 3:5.5](/en/The_Urantia_Book/3#p5_5); [UB 3:5.7](/en/The_Urantia_Book/3#p5_7))
+(The italicized portions of this paper are direct quotes from _The URANTIA Book_: <a id="a153_82"></a>[UB 0:3.23](/en/The_Urantia_Book/0#p3_23); <a id="a153_125"></a>[UB 0:3.25](/en/The_Urantia_Book/0#p3_25); <a id="a153_168"></a>[UB 3:5.5](/en/The_Urantia_Book/3#p5_5); <a id="a153_209"></a>[UB 3:5.7](/en/The_Urantia_Book/3#p5_7))
 
 <figure class="table chapter-navigator">
   <table>

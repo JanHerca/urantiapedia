@@ -175,7 +175,7 @@ Se predice que un porcentaje significativo de iglesias cristianas cerrará sus p
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-november-2021/)
 - [Este artículo](https://urantia-association.org/los-mileniales-y-la-iglesia/?lang=es)
 

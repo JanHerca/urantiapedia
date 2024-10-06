@@ -39,7 +39,7 @@ Dès ma première lecture du _Livre d'URANTIA_, j'ai été captivé par le Supr�
 
 Pourquoi sommes-nous si différents ? La page 1250 énumère sept anomalies majeures de ce grain de poussière, et les lecteurs du Livre d'URANTIA peuvent facilement en trouver bien d'autres. Certes, chaque monde, système, constellation, univers local et superunivers est unique. Mais notre développement semble aller bien plus loin que la « normale ». Même le don du _Livre d'URANTIA_ semble présager autre chose que la progression habituelle de l'évolution.
 
-Mes deux puzzles préférés sont-ils liés ? Notre monde est-il différent parce qu’il est spécialement destiné ou destiné à servir de modèle au Suprême ?
+Mes deux puzzles préférés sont-ils liés ? Notre monde est-il différent parce qu’il est spécialement destiné ou destiné à servir de modèle au Suprême ?
 
 On peut penser que toutes les planètes décimales sont des expériences planifiées en biologie et sociologie évolutionniste. Ici, les aspects physiques de la suprématie sont élaborés jusqu'à leur achèvement statistique et leur réplétion dans tous les univers locaux dans l'immense panorama créationnel. Mais n'oubliez pas que l'une des missions de nos Porteurs de Vie était de développer le potentiel de volonté très tôt chez la créature à marche droite de cette planète. Ils ont réussi, et le ministère de l’esprit a été mis au défi de combler le large fossé entre l’animal et la divinité. On nous le dit, mais d’une part, nos esprits en évolution sont le contact le plus difficile dans l’univers de Nébadon. La liste de nos différences et de nos accidents apparents est longue, mais qu’en est-il du plan derrière tout cela ? Qu’en est-il des objectifs divins ?
 
@@ -47,7 +47,7 @@ Nébadon jouit du règne et de la vision créatrice d'un Maître Michel Fils, ce
 
 Y a-t-il d'autres raisons de penser que nous sommes particulièrement un projet suprême ? Eh bien, voyons voir, nous savons que la suprématie est basée sur l'accomplissement expérientiel. Nous savons que « _... sont toutefois les univers locaux qui représentent les vrais laboratoires dans lesquels se réalisent les expérimentations mentales, les aventures galactiques, les développements de la divinité et les progrès de la personnalité. Le total cosmique de ces éléments constitue la base effective sur laquelle le Suprême s’appuie pour achever, dans l’expérience et par l’expérience, l’évolution de la déité._ » (<a id="a47_615"></a>[LU 116:4.7](/fr/The_Urantia_Book/116#p4_7)) Y a-t-il des indications que notre lieu de naissance répond particulièrement à ces exigences ?
 
-Maintenant, nous pouvons certainement additionner les preuves et comprendre que l’expérience suprême est une expérience difficile. Même les Ajusteurs doivent être classés comme « autonomes » ou « suprêmes » en servant dans une période de crise dans l'expérience d'un être humain. Amadon et son esprit intérieur ont sûrement démontré de tels niveaux au moment de la rébellion de Lucifer.
+Maintenant, nous pouvons certainement additionner les preuves et comprendre que l’expérience suprême est une expérience difficile. Même les Ajusteurs doivent être classés comme « autonomes » ou « suprêmes » en servant dans une période de crise dans l'expérience d'un être humain. Amadon et son esprit intérieur ont sûrement démontré de tels niveaux au moment de la rébellion de Lucifer.
 
 ### Latitude personnelle inhabituelle
 

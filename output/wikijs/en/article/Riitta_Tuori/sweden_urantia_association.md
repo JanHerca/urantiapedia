@@ -50,21 +50,21 @@ Our biggest event of each year is the birthday celebration of Jesus on August 21
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/Sweden02.jpg">
-<figcaption><em>Jesus Birthday Celebration</em></figcapton>
+<figcaption><em>Jesus Birthday Celebration</em></figcaption>
 </figure>
 
 
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/Sweden01-e1648080437697.jpg">
-<figcaption><em>Jesus Birthday Celebration</em></figcapton>
+<figcaption><em>Jesus Birthday Celebration</em></figcaption>
 </figure>
 
 
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/Sweden03.jpg">
-<figcaption><em>Riitta Tuori</em></figcapton>
+<figcaption><em>Riitta Tuori</em></figcaption>
 </figure>
 
 <br style="clear:both;"/>

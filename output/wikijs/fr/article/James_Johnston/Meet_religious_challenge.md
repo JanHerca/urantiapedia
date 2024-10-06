@@ -38,7 +38,7 @@ Une fois déterminé qu'une philosophie religieuse de la vie est ce que les aute
 
 La folie d’adhérer strictement à une philosophie de vie non religieuse s’exprime avec force : « _Construire une philosophie de l’univers exclusivement sur le matérialisme, c’est ignorer le fait que toutes les choses matérielles sont initialement conçues comme réelles dans l’expérience de la conscience humaine._” (<a id="a38_315"></a>[LU 112:2.12](/fr/The_Urantia_Book/112#p2_12))
 
-Dans l'article sur « Le gouvernement sur une planète voisine », cela a été jugé suffisamment important pour nous transmettre le point de vue de ceux du continent le plus avancé. « _Dans leur philosophie, la religion est l’effort pour connaitre Dieu et pour manifester de l’amour à ses semblables en les servant..._ » (<a id="a40_318"></a>[LU 72:3.5](/fr/The_Urantia_Book/72#p3_5))
+Dans l'article sur « Le gouvernement sur une planète voisine », cela a été jugé suffisamment important pour nous transmettre le point de vue de ceux du continent le plus avancé. « _Dans leur philosophie, la religion est l’effort pour connaitre Dieu et pour manifester de l’amour à ses semblables en les servant..._ » (<a id="a40_318"></a>[LU 72:3.5](/fr/The_Urantia_Book/72#p3_5))
 
 Ceci est souligné d'une autre manière dans le Sermon de Jésus sur la charge d'ordination de la montagne : « _Une personne se forme une philosophie efficace de la vie en conjuguant la clairvoyance cosmique avec la somme de ses propres réactions émotionnelles envers son entourage social et économique._ » (<a id="a42_305"></a>[LU 140:4.8](/fr/The_Urantia_Book/140#p4_8))
 

@@ -31,7 +31,7 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
-_Note de l’éditeur : Irmeli Ivalo-Sjölie et Werner Sutter ont travaillé inlassablement pour propager_ Le Livre d'Urantia_et ses enseignements en Allemagne et en Suisse. Ils pensent avoir trouvé de jeunes et compétents lecteurs pour continuer à leur place._
+_Note de l’éditeur : Irmeli Ivalo-Sjölie et Werner Sutter ont travaillé inlassablement pour propager_ Le Livre d'Urantia_et ses enseignements en Allemagne et en Suisse. Ils pensent avoir trouvé de jeunes et compétents lecteurs pour continuer à leur place._
 
 Voici le groupe de Karlsruhe, organisé par Erwin van Ghent. C’est un groupe très vivant qui se réunit tous les troisièmes mardi du mois. Un autre groupe d’étude débutera en juillet à Mannheim.
 

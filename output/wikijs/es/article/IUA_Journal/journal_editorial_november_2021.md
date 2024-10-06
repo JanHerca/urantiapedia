@@ -54,7 +54,7 @@ Esperamos que se sientan inspirados por las muchas formas diferentes en que la f
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2021/?lang=es)
 - [Este artículo](https://urantia-association.org/editorial-noviembre-2021/?lang=es)
 

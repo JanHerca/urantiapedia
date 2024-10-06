@@ -1,5 +1,5 @@
 ---
-title: "Danser avec Dieu : retraites spirituelles pour femmes"
+title: "Danser avec Dieu : retraites spirituelles pour femmes"
 description: "Le Mighty Messenger — Numéro du printemps 2019 : Nouvelles et opinions pour les lecteurs du Livre d'Urantia"
 published: true
 date: 2023-6-21T8:13:38Z

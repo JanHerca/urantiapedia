@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-2-numéro-4-dec-2008">
+        <a href="/fr/index/articles_uf_news_online#volume-2-numéro-4-décembre-2008">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 4, Déc. 2008 — Table des matières</span>
         </a>
         </td>
@@ -50,7 +50,7 @@ Le Trustee Georges Michelson-Dupont, Président de la Fondation Urantia Europe, 
 
 ## Réimpression de la Traduction Russe
 
-Le Conseil d'Administration a donné son consentement pour signer un accord pour l'impression et la distribution du livre avec notre partenaire d'affaires actuel « Irena » à St Petersbourg . La quatrième édition de la traduction russe sera faite en Russie, et l'argent pour la quatrième édition viendra des fonds collectés par les ventes du livre Russe
+Le Conseil d'Administration a donné son consentement pour signer un accord pour l'impression et la distribution du livre avec notre partenaire d'affaires actuel « Irena » à St Petersbourg . La quatrième édition de la traduction russe sera faite en Russie, et l'argent pour la quatrième édition viendra des fonds collectés par les ventes du livre Russe
 
 ## Budget 2009
 
@@ -60,23 +60,23 @@ Le Conseil d'Administration changea et ratifia le budget 2009, en incluant l'app
 
 Le Conseil d'Administration a réexaminé les besoins d'UBIS exprimés par Dorothy Elder et Jay Peregrine . Le Conseil d'Administration a exprimé son engagement envers le travail d'UBIS.
 
-Marilynn Kulieke, la rédactrice en chef des Nouvelles en Ligne de la Fondation Urantia, a été prié de trouver des moyens de faire connaître les besoins et les activités d'UBIS .Le Conseil d'Administration fit des suggestions pour les Nouvelles, comme par exemple les histoires des événements en cours d'UBIS, des annonces pour les classes et les éducateurs, et des collectes de fonds qui comporteraient une méthode PayPal afin de pouvoir faire des contributions . Jay exprima son engagement incessant pour garder la meilleure structure du net qui soit bon marché pour UBIS.
+Marilynn Kulieke, la rédactrice en chef des Nouvelles en Ligne de la Fondation Urantia, a été prié de trouver des moyens de faire connaître les besoins et les activités d'UBIS .Le Conseil d'Administration fit des suggestions pour les Nouvelles, comme par exemple les histoires des événements en cours d'UBIS, des annonces pour les classes et les éducateurs, et des collectes de fonds qui comporteraient une méthode PayPal afin de pouvoir faire des contributions . Jay exprima son engagement incessant pour garder la meilleure structure du net qui soit bon marché pour UBIS.
 
 ## Rapport sur le Comité de la Référence Standard
 
 Seppo Kanerva, président du Comité de la Référence Standard du texte, a distribué l'ébauche du rapport du Comité . Il a demandé au Conseil d'Administration de revoir le rapport en préparation pour passer la résolution à la réunion du Conseil d'Administration en janvier 2009 . Le Comité a dédié le rapport à Seppo en reconnaissance à sa contribution inlassable, à sa façon de diriger, à sa maîtrise universitaire de la langue anglaise et sa connaissance du _Livre d'Urantia_ , qui a aidé à créer les résultats de ce rapport.
 
-Le but de ce comité était de revoir les changements apportés au texte du _Livre d'Urantia_ depuis sa première parution en 1955 et de faire une recommandation pour une version anglaise « définitive » . Depuis 1955, des erreurs d'orthographe et de ponctuation ont été corrigées et quelques autres changements ont été faits au texte publié par la Fondation . Maintenant, que l'édition anglaise du _Livre d'Urantia_ n'est plus protégée par le « copyright » et qu'il y a plus d'un éditeur, le Conseil d'Administration a nommé ce comité pour créer un Texte de Référence Standard convenu qui sera utilisé pour toutes les impressions futures . Les membres du comité sont : Merritt Horn, Marvin Gawryn, Nancy Johnson, Seppo Kanerva, Marilynn Kulieke et Jay Peregrine.
+Le but de ce comité était de revoir les changements apportés au texte du _Livre d'Urantia_ depuis sa première parution en 1955 et de faire une recommandation pour une version anglaise « définitive » . Depuis 1955, des erreurs d'orthographe et de ponctuation ont été corrigées et quelques autres changements ont été faits au texte publié par la Fondation . Maintenant, que l'édition anglaise du _Livre d'Urantia_ n'est plus protégée par le « copyright » et qu'il y a plus d'un éditeur, le Conseil d'Administration a nommé ce comité pour créer un Texte de Référence Standard convenu qui sera utilisé pour toutes les impressions futures . Les membres du comité sont : Merritt Horn, Marvin Gawryn, Nancy Johnson, Seppo Kanerva, Marilynn Kulieke et Jay Peregrine.
 
 ## Ediciòn Europea de _El libro de Urantia_
 
-Le Conseil d'Administration réaffirme sa décision d'imprimer l'édition européenne de _El libro de Urantia_ et sa préférence de limiter les ventes, y compris les ventes sur internet, à l'Europe . Le Conseil d'Administration a réexaminé la réalisation logistique de limiter les ventes sur internet ,parce que cela n'est pas faisable ; les ventes sur internet ne peuvent pas être limitées ou contrôlées . Par conséquent, le Conseil d'Administration annula la résolution du 4 juillet 2008, qui limitait les ventes sur internet de _El libro de Urantia_.
+Le Conseil d'Administration réaffirme sa décision d'imprimer l'édition européenne de _El libro de Urantia_ et sa préférence de limiter les ventes, y compris les ventes sur internet, à l'Europe . Le Conseil d'Administration a réexaminé la réalisation logistique de limiter les ventes sur internet ,parce que cela n'est pas faisable ; les ventes sur internet ne peuvent pas être limitées ou contrôlées . Par conséquent, le Conseil d'Administration annula la résolution du 4 juillet 2008, qui limitait les ventes sur internet de _El libro de Urantia_.
 
-Néanmoins, le Conseil d'Administration préfère toujours que les ventes de cette édition soient limitées à l'Europe pour éviter toute confusion avec la traduction couramment distribuée au Mexique et en Amérique Centrale et du Sud 
+Néanmoins, le Conseil d'Administration préfère toujours que les ventes de cette édition soient limitées à l'Europe pour éviter toute confusion avec la traduction couramment distribuée au Mexique et en Amérique Centrale et du Sud 
 
 ## Le Comité d'Education
 
-Gard Jameson rapporta que les personnes du groupe de travail de l'éducation qui avaient participé à la « Recherche d'Appréciation Educative » se réuniront de nouveau du 12 au 14 juin 2009, à Diversey Parkway à Chicago pour continuer leur travail . L'objectif de ce groupe est de recommander des activités éducatives qui ont besoin de l'aide de la Fondation Urantia.
+Gard Jameson rapporta que les personnes du groupe de travail de l'éducation qui avaient participé à la « Recherche d'Appréciation Educative » se réuniront de nouveau du 12 au 14 juin 2009, à Diversey Parkway à Chicago pour continuer leur travail . L'objectif de ce groupe est de recommander des activités éducatives qui ont besoin de l'aide de la Fondation Urantia.
 
 ## Le Comité pour l'Index
 
@@ -94,17 +94,17 @@ Le Conseil d'Administration a réélu Jan Bernard, Marta Elders, Irmeli Ivalo-Sj
 
 ## Principe Général autorisant à Citer
 
-Le Conseil d'Administration décida de mettre à jour les principes de « sécurisation » de 1998 de la Fondation Urantia . « Le Principe Autorisant à Citer pour des Activités Commerciales « , »Le Principe à Copier pur des Buts Educatifs », et « Le Principe Autorisant à Citer pour dés œuvres d'Amour » seront remplacés par le principe suivant :
+Le Conseil d'Administration décida de mettre à jour les principes de « sécurisation » de 1998 de la Fondation Urantia . « Le Principe Autorisant à Citer pour des Activités Commerciales « , »Le Principe à Copier pur des Buts Educatifs », et « Le Principe Autorisant à Citer pour dés œuvres d'Amour » seront remplacés par le principe suivant :
 
 > PRINCIPE GÉNÉRAL AUTORISANT À CITER
 > 
-> La Fondation Urantia autorise toute personne à citer jusqu'à 25,000 mots tirés d'une traduction du _Livre d'Urantia_ publiée par la Fondation Urantia pour quelque activité à but éducatif ou commercial, à condition que :
+> La Fondation Urantia autorise toute personne à citer jusqu'à 25,000 mots tirés d'une traduction du _Livre d'Urantia_ publiée par la Fondation Urantia pour quelque activité à but éducatif ou commercial, à condition que :
 > 
 > L' attribution intellectuelle standard soit rendue au _Livre d'Urantia_ dont la citation est tirée .
 > 
-> L' affirmation suivante du copyright soit imprimée bien en vue sur les quelques premières pages de l'ouvrage :
+> L' affirmation suivante du copyright soit imprimée bien en vue sur les quelques premières pages de l'ouvrage :
 > 
-> Cet ouvrage utilise des citations provenant de la traduction en langue \_\_\_\_\_\_\_\_\_\_\_\_\_ du _Livre d'Urantia_, publié par la Fondation Urantia, ©\_\_\_\_\_\_\_\_\_\_ Fondation Urantia, 533 Diversey Parkway ; Chicago, Illinois 60614, Etats-Unis ; +1(773)525-3319 ; [https://www.urantia.org](https://www.urantia.org/); tous droits réservés .
+> Cet ouvrage utilise des citations provenant de la traduction en langue \_\_\_\_\_\_\_\_\_\_\_\_\_ du _Livre d'Urantia_, publié par la Fondation Urantia, ©\_\_\_\_\_\_\_\_\_\_ Fondation Urantia, 533 Diversey Parkway ; Chicago, Illinois 60614, Etats-Unis ; +1(773)525-3319 ; [https://www.urantia.org](https://www.urantia.org/); tous droits réservés .
 > 
 > Toutes opinions exprimées dans cet ouvrage sont celles de son auteur et ne représentent pas forcément celles de la Fondation ou de ses associations affiliées .
 > 
@@ -172,7 +172,7 @@ Le Conseil d'Administration a élu: Mo Siegel pour servir comme Président du Co
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-2-numéro-4-dec-2008">
+        <a href="/fr/index/articles_uf_news_online#volume-2-numéro-4-décembre-2008">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 4, Déc. 2008 — Table des matières</span>
         </a>
         </td>

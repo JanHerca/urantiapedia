@@ -15,7 +15,7 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/fr/article/Jena_Lassiter/Introduction_Stepping_Stones_to_Spiritual_Growth">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Introduction : Tremplins vers la croissance spirituelle</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Introduction : Tremplins vers la croissance spirituelle</span>
         </a>
         </td>
         <td>
@@ -98,7 +98,7 @@ C'est cette combinaison d'une portée cosmique extraordinaire et d'une qualité 
       <tr>
         <td>
         <a href="/fr/article/Jena_Lassiter/Introduction_Stepping_Stones_to_Spiritual_Growth">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Introduction : Tremplins vers la croissance spirituelle</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Introduction : Tremplins vers la croissance spirituelle</span>
         </a>
         </td>
         <td>

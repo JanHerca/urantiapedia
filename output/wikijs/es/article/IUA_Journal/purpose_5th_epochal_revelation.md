@@ -93,7 +93,7 @@ Así como [el documento 99](/es/The_Urantia_Book/99) abordó los problemas actua
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2018/?lang=es)
 - [Este artículo](https://urantia-association.org/el-proposito-de-la-quinta-revelacion-de-epoca/?lang=es)
 

@@ -62,7 +62,7 @@ _Evanston, Illinois_
 
 ## A venir
 
-Dans les prochains numéros, nous aimerions examiner deux sujets d’intérêt et aimerions recevoir vos contributions si vous avez des idées sur l’un ou l’autre sujet :
+Dans les prochains numéros, nous aimerions examiner deux sujets d’intérêt et aimerions recevoir vos contributions si vous avez des idées sur l’un ou l’autre sujet :
 
 - Le niveau actuel d'expression culturelle (de l'art et de la musique à la vie de famille) sur la planète suggère-t-il que nous progressons vers la réalisation éventuelle de la lumière et de la vie ?
 - Étant donné le niveau de réalisation évolutive (politique, économique, social, etc.) auquel nous nous trouvons, comment pouvons-nous mieux introduire les enseignements pertinents du _Livre d'URANTIA_ dans chaque domaine ou discipline ?

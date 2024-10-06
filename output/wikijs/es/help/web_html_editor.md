@@ -14,13 +14,13 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/es/help/markdown">Ayuda del formato Markdown</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_content">Configurar el proyecto Urantiapedia de GitHub</a></td>
+        <td><a href="/es/help/github_fork">Primeros pasos en GitHub</a></td>
       </tr>
     </tbody>
   </table>
 </figure>
 
-![help_html_editor.png](/image/help_html_editor.png){.radius-5 .decor-shadow}
+![](/image/help/help_html_editor.png){.radius-5 .decor-shadow}
 
 Este editor HTML está pensado para colaboradores con conocimientos en HTML. No permite tener una vista previa y está sobre todo orientado a poder ver el código HTML interno de una página, pues todas las páginas, no importa con qué editor se generen, producen al final código HTML.
 
@@ -51,7 +51,7 @@ En la captura de pantalla se muestran los controles más destacados del Editor H
       <tr>
         <td><a href="/es/help/markdown">Ayuda del formato Markdown</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_content">Configurar el proyecto Urantiapedia de GitHub</a></td>
+        <td><a href="/es/help/github_fork">Primeros pasos en GitHub</a></td>
       </tr>
     </tbody>
   </table>

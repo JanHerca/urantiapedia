@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 David Schlundt, George Park, Eileen Laurence<br>© 1980 La Fellowship du Livre d'Urantia (anciennement Fraternité Urantia)</ p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 David Schlundt, George Park, Eileen Laurence<br>© 1980 La Fellowship du Livre d'Urantia (anciennement Fraternité Urantia)</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -73,7 +73,7 @@ _Hampton, Connecticut_
 
 ## Unité et harmonie
 
-_Le Livre d'URANTIA_ dit que « _L’harmonie est la tonique de l’univers central et un ordre décelable prévaut au Paradis._ » (<a id="a75_125"></a>[LU 27:4.2](/fr/The_Urantia_Book/27#p4_2)) Le mot harmonie est tiré du mot grec « harmos », signifiant un ajustement, un joindre. Il est intéressant de noter qu'un synonyme d'harmonie est « unisson ». En tant que musicien, j'ai souvent réfléchi à cette association entre l'harmonie et l'unité et j'ai passé beaucoup de temps à traiter de l'expérience créative qui mène à ces idéaux.
+_Le Livre d'URANTIA_ dit que « _L’harmonie est la tonique de l’univers central et un ordre décelable prévaut au Paradis._ » (<a id="a75_125"></a>[LU 27:4.2](/fr/The_Urantia_Book/27#p4_2)) Le mot harmonie est tiré du mot grec « harmos », signifiant un ajustement, un joindre. Il est intéressant de noter qu'un synonyme d'harmonie est « unisson ». En tant que musicien, j'ai souvent réfléchi à cette association entre l'harmonie et l'unité et j'ai passé beaucoup de temps à traiter de l'expérience créative qui mène à ces idéaux.
 
 Par exemple, il est fascinant de constater les schémas similaires existant entre le développement de la civilisation sur notre planète et l’évolution de la musique du VIe siècle environ jusqu’à nos jours. Quand Andon et Fonta élevaient leur famille, ils « _... faisaient preuve d’un esprit de clan très marqué ; ils chassaient en groupes et ne s’écartaient jamais très loin du lieu de leur demeure. Ils semblaient se rendre compte qu’ils formaient un groupe isolé et exceptionnel d’êtres vivants et qu’ils devaient, par conséquent, éviter de se séparer._ » (<a id="a77_558"></a>[LU 63:3.3](/fr/The_Urantia_Book/63#p3_3)) Les mots clanique, isolé et unique me rappellent les moines vivant et travaillant dans les monastères. de l'Europe médiévale. En écoutant les chants grégoriens alors composés et chantés, j'imagine une vie de simplicité, de simplicité, un doux flux de communication entre le chanteur et l'auditeur, le créateur et le créé. Il y a donc entre le nouveau-né et ses parents, un pur partage, une unité sympathique, une harmonie. La nourriture et un abri sont nécessaires à la subsistance physique, mais pour que l'âme s'épanouisse, l'amour, les conseils et le soutien doivent toujours être présents. Ces éléments s’emboîtent, s’harmonisent, très efficacement tant qu’il y a coopération ; coopération entre parents et enfants, entre familles, entre Dieu et l'homme.
 

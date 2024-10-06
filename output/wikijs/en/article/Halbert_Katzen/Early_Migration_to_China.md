@@ -3,7 +3,7 @@ title: "Early Migration to China"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Anthropology
+tags: Anthropology, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -37,9 +37,7 @@ About 25 miles southwest of Beijing, China is an archaeological site at Zhoukoud
 
 Accurately dating human fossils from the Zhoukoudian site, however, has been difficult. In 2008 new and more exacting dating techniques were applied to the sediment layers where the bones were found. The results indicate that the fossils are around 200,000 years older than previous estimations of approximately 550,000 years. The new dating places these fossils in a significantly colder environment due to ice age activity that occurred 750,000 years ago.
 
-Additionally, a recent re-evaluation of hand axes found at
-
-the site reveal a higher degree of sophistication in tool making than previously thought. This discovery indicates that these early humans were more skilled at hunting and slaughtering animals than anthropologists originally hypothesized.
+Additionally, a recent re-evaluation of hand axes found at the site reveal a higher degree of sophistication in tool making than previously thought. This discovery indicates that these early humans were more skilled at hunting and slaughtering animals than anthropologists originally hypothesized.
 
 These recent refinements in research technique provide us with an understanding of early migration to China that is more closely aligned with the recounting of early human activity in the region published in 1955 in _The Urantia Book_.
 
@@ -173,7 +171,9 @@ The Movius Line theory, which started in 1948 and has predominated for decades, 
 
 ## External links
 
-- This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/Peking_Man.pdf
+- [This report in UBTheNews webpage](https://ubannotated.com/wp-content/uploads/2018/03/Peking_Man.pdf)
+- [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+- [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 - http://www.greatarchaeology.com/java_man.htm
 - http://en.wikipedia.org/wiki/Homo_erectus_pekinensis
 - http://www.newworldencyclopedia.org/entry/Java_man

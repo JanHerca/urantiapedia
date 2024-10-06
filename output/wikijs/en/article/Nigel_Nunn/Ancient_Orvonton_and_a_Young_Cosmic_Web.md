@@ -71,7 +71,9 @@ Regarding the (missing) final video in this series, the _James Webb Space Telesc
 
 Nigel Nunn
 
-[Presentation](https://www.youtube.com/watch?v=P9neaFSIqhc) of the same name by Nigel Nunn at the Scientific Symposium 2019, Urantia Foundations Headquarters, Chicago, USA
+_Presentation_ of the same name by Nigel Nunn at the Scientific Symposium 2019, Urantia Foundations Headquarters, Chicago, USA
+
+https://www.youtube.com/watch?v=P9neaFSIqhc
 
 ## References
 

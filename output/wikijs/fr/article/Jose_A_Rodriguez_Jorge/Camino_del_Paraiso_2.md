@@ -39,7 +39,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 Je vais avec ta main<br>
 chemin vers le paradis<br>
 même si mes pas <br>
-continuer sur terre ;<br>
+continuer sur terre ;<br>
 heureux, souriant<br>
 Je me tourne vers toi<br>
 Mon père<br>
@@ -57,7 +57,7 @@ Je ne doute pas, mais j'ai confiance.
 
 ## Références
 
-- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
 - [Cette poésie également dans un autre numéro](/fr/article/Jose_A_Rodriguez_Jorge/Camino_del_Paraiso)
 

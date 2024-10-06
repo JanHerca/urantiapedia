@@ -25,7 +25,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </td>
         <td>
         <a href="/fr/article/David_Elders/Personality_and_Will">
-          <span class="pr-2">Personnalité et volonté : accroître la maîtrise des mondes intérieur et extérieur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Personnalité et volonté : accroître la maîtrise des mondes intérieur et extérieur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -108,7 +108,7 @@ Les six œuvres d'art de cette planche font toutes partie d'une série de Judy M
         </td>
         <td>
         <a href="/fr/article/David_Elders/Personality_and_Will">
-          <span class="pr-2">Personnalité et volonté : accroître la maîtrise des mondes intérieur et extérieur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Personnalité et volonté : accroître la maîtrise des mondes intérieur et extérieur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

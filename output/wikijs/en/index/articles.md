@@ -1,12 +1,18 @@
 ---
-title: Index of all article groups
-description:
+title: "The Urantia Book Newsletter's Library"
+description: "Index of publications"
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: index, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
+
+## :page_with_curl: Welcome to The Urantia Book Newsletter's Library!
+
+In this section of Urantiapedia you will find the largest collection of publications related to _The Urantia Book_ that has ever been catalogued on the Web. And we never stop expanding this catalogue every month! Here we have magazines and newsletters from the most prominent Associations of the Urantia movement, as well as an upload of articles contained in some web pages of interest to readers of _The Urantia Book_.
+
+It is worth remembering that the articles in all these publications have the quotes from _The Urantia Book_ connected by links to the book, and vice versa, each document from _The Urantia Book_ contains links to the articles that mention each paragraph in a References section that you will find at the end of each document. In this way you can read _The Urantia Book_ in a much more comprehensive way, because here you have access to the reflections and ideas of hundreds of readers who have studied it to this day.
 
 ## The Urantia Foundation
 
@@ -270,6 +276,72 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	</div>
 </div>
 
+## French Urantia Association
+
+<!-- French Urantia Association -->
+<div class="layout row wrap">
+	<!-- Le Lien -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Le_Lien.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">The Lien Urantien</div>
+			<div class="urantiapedia-card-text">
+				<div><em>Le Lien Urantien</em> (or <em>Le Lien</em> for short) is a quarterly publication of the French Association of The Urantia Book readers (AFLLU for short), published since 1996 to present day. This is the official magazine of the French Association since it was created in that year and contains news and articles in French of interest for French readers.</div>
+				<div><small>Sources: <a href="https://lien.urantia.fr/">Le Lien archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Soon</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<!-- Center of Study and Reflection -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/La_Lettre.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">The Letter</div>
+			<div class="urantiapedia-card-text">
+				<div><em>The Letter</em> is a bimonthly publication of the <em>Center of Study and Reflection in Human Destiny</em> (or CERDH for short), a Study Group of the Urantia Book in France, that was published during the 80s and 90s. It contains articles and news in French and English.</div>
+				<div><small>Sources: <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesPE.html">UBHS archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Soon</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+## Urantia Association of Quebec
+
+<!-- Urantia Association of Quebec -->
+<div class="layout row wrap">
+	<!-- Center of Study and Reflection -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Reflectivite.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Reflectivité</div>
+			<div class="urantiapedia-card-text">
+				<div><em>Reflectivité</em> is a monthly publication of the Urantia Association of Quebec that has been published without interruption since the 80s to present day, which is a huge undertaking. It contains articles and news in French that are of interest not only for readers in Quebec but for all Urantia Book readers in the world.</div>
+				<div><small>Sources: <a href="https://www.urantia-quebec.ca/publications/reflectivite">Index of latest</a>, <a href="https://www.urantia-quebec.ca/publications/reflectivite-archives">Quebec website archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Soon</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
 ## Urantia Association of Spain
 
 <!-- Urantia Association of Spain -->
@@ -407,29 +479,3 @@ Sources: See [References](#references)
 - [A History of the Urantia Movement](/en/article/William_S_Sadler/A_History_of_the_Urantia_Movement), William S. Sadler. (The Urantia Book, The Urantia Book—Authorship)
 
 <small>1 - This article is a 2017 update from original article published in Fellowship Herald, Vol 2. No. 1 and 2</small>
-
-## Other sources
-
-More content considered for the future:
-
-- Urantia Associations:
-  - Australia & New Zealand Urantia Association (ANZURA): https://anzura.urantia-association.org/topical-index-study-aids/
-  - Canada Urantia Association: https://canada.urantia-association.org/urantia-related-writtings/
-  - Asociación Urantia de España: https://aue.urantia-association.org/study/
-  - Urantia Asociación de Argentina: https://argentina.urantia-association.org/trabajos-secundarios/
-  - Urantia Asociación de México: https://www.urantia-mexico.org.mx/index_archivos/Page1438.htm
-  - Agrupación Autónoma Urantia Chile: http://www.urantiachile.org/?modulo=articulos
-  - Urantia Associação do Brasil: https://urantia.com.br/arquivos/category/blog-artigos
-  - United States, Great Lake Michigan Urantia Association: https://glmua.urantia-association.org/library/
-  - Asociación Urantia de Costa Rica: https://cr.urantia-association.org/publicaciones/
-  - Asociación Urantia de Cali: https://uracali.urantia-association.org/
-  - Urantia Deutschland, Österreich und Scheweiz: https://dach.urantia-association.org/blog/
-  - Suomen Urantia-seura: https://finland.urantia-association.org/category/vastauksia-kysymyksiin/
-- _Urantia Book_ magazines:
-  - Compilations:
-    - https://urantia-book.org/archive/newsletters/
-    - https://urantiabook.org/Urantia-Book-Paper-Focused-Resources
-  - http://www.encyclopediaurantia.org/
-  - https://www.squarecircles.com/
-- The Meredith J. Sprunger Essays: https://urantiabook.org/Christianity-and-The-Urantia-Book-The-Meredith-J-Sprunger-Essays
-- Other in spanish: https://urantiabook.org/Estudios_Espanol

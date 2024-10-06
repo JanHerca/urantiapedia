@@ -62,7 +62,7 @@ _Par John Strobel, Chicago, Illinois, Éats-Unis_
 
 Bien que ma femme lisait _Le Livre d’Urantia_ depuis des années, je ne commençais à le lire qu’après la visite d’un grand ami qui avait un flot de questions à poser à Joanne, à propos du livre. Ce furent les réponses réfléchies de Joanne à ces questions qui m’intriguèrent et finalement provoquèrent mon intérêt à le lire. Je lus en premier la Partie IV, la Vie et les enseignements de Jésus. Ensuite, je lus les fascicules sur Adam et Ève, je n’ai toujours pas lu tous les fascicules.
 
-Ce qui me frappa immédiatement fut la perfection du livre ; je n’avais aucun doute quant à son authenticité. Alors que j’avais trouvé que beaucoup de _La Bible_ était de l’interprétation ( de nombreux érudits ont passé leur vie entière à étudier et à interpréter seulement quelques livres de la Bible ), _Le Livre d’Urantia_ est en anglais clair.
+Ce qui me frappa immédiatement fut la perfection du livre ; je n’avais aucun doute quant à son authenticité. Alors que j’avais trouvé que beaucoup de _La Bible_ était de l’interprétation ( de nombreux érudits ont passé leur vie entière à étudier et à interpréter seulement quelques livres de la Bible ), _Le Livre d’Urantia_ est en anglais clair.
 
 Plus je le lis, plus ma reconnaissance et mon désir sont grands de continuer à le lire. Je me suis aperçu que le groupe d’étude auquel je participe a été une aide merveilleuse pour dévoiler les trésors des enseignements du _Livre d’Urantia_.
 

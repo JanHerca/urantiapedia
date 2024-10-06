@@ -66,7 +66,7 @@ A travers le monde, l'industrie du livre a passé une transition dramatique, car
 </figure>
 
 J'ai écrit cet article en espérant remettre dans son contexte les décisions qui ont été prises par la Fondation Urantia ces dernières années. Nos amis invisibles, en lançant la Révélation en 1955, savaient que l'âge numérique était en route. Peut-être que le moment qu’ils ont choisi, était basé sur cette connaissance. Pendant que le travail de la Fondation Urantia continue à une allure tranquille et sans fanfare, nous devrions être confiants en l'idée que ceux qui sont impliqués dans la dissémination de la 5ième Révélation d'Epoque sur notre planète, se sont joyeusement lancés dans les challenges de l'âge numérique du 21<sup>ième</sup> siècle.
-
+<br style="clear:both;"/>
 
 ## Références
 

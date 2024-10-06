@@ -56,7 +56,7 @@ Otro ministro cristiano[^4] especula:
 
 «Ahora, los cristianos en el siglo veintiuno deben dar sentido a Dios y Jesús lo mejor que puedan. Los resultados aún están por verse».
 
-Los lectores del Libro de Urantia no se ven afectados por todo esto. Los Documentos respaldan gran parte de lo que está escrito en el Antiguo Testamento que ahora se rechaza por completo como un error total.
+Los lectores del _Libro de Urantia_ no se ven afectados por todo esto. Los Documentos respaldan gran parte de lo que está escrito en el Antiguo Testamento que ahora se rechaza por completo como un error total.
 
 Acerca de Salomón, los Documentos dicen: «Salomón llevó a la bancarrota a la nación con su lujosa corte y con su elaborado programa de construcción: Estaba la casa del Líbano, el palacio de la hija del faraón, el templo de Yahvé, el palacio del rey y la restauración de la murallas de muchas ciudades. Salomón creó una gran armada hebrea, operada por marineros sirios y comerciando con todo el mundo. Su harén contaba con casi mil.»
 

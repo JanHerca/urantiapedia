@@ -52,17 +52,17 @@ Our heart-felt gratitude and best wishes go to our outgoing members: Anton Miros
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/Gabriel_Rymberg-150x150.jpg">
-<figcaption>Gabriel Rymberg</figcapton>
+<figcaption>Gabriel Rymberg</figcaption>
 </figure>
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/Jeannie_Vazquez-150x150.jpg">
-<figcaption>Jeannie Vazquez</figcapton>
+<figcaption>Jeannie Vazquez</figcaption>
 </figure>
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/Luis_Garcia_Bory-150x150.jpg">
-<figcaption>Luis Garcia Bory</figcapton>
+<figcaption>Luis Garcia Bory</figcaption>
 </figure>
 
 <br style="clear:both;"/>

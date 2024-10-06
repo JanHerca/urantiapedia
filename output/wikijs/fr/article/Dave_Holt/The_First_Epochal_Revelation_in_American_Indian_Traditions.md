@@ -215,7 +215,7 @@ Une telle connaissance améliorée pourrait contribuer à une compréhension plu
 Les Hopi et d’autres tribus amérindiennes ont une prophétie plus moderne qui fait écho à la mémoire des Sangiks, les tribus arc-en-ciel. « Quand la terre sera en train de mourir, une nouvelle tribu surgira de toutes les couleurs et de toutes les croyances. Cette tribu s'appellera _Les Guerriers de l'Arc-en-ciel_ et elle mettra sa foi dans les actions et non dans les mots. »[^11] 
 
 > Dave Holt est né à Toronto, Ontario, Canada, d'ascendance indienne irlandaise, anglaise et ojibway (Chippewa). Présenté au _Livre d'Urantia_ en 1976, il a rejoint la Fondation Family of God et est maintenant vice-président de la Golden Gate Circle Society. Écrivain et poète primé, Dave vit à Concord, en Californie, avec sa femme Chappell, et il a une fille, Kelsey, aujourd'hui âgée de 21 ans. 
-> {.is-info}
+{.is-info}
 
 ## Références
 

@@ -20,7 +20,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-![help_markdown_editor.png](/image/help_markdown_editor.png){.radius-5 .decor-shadow}
+![](/image/help/help_markdown_editor.png){.radius-5 .decor-shadow}
 
 A captura de tela mostra os controles mais importantes do Editor de Markdown:
 1. Título da página

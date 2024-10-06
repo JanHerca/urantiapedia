@@ -350,7 +350,7 @@ _En el número de ***marzo de 1986*** se anunció una reunión internacional:_
 
 _«Rencontre Internationale De Lecteurs Du Livre D'Grantia En France du 3 au 11 Aout 1986.»_
 
-_Este anuncio de una reunión internacional para lectores del Libro de Urantia estuvo acompañado de la siguiente cita:_
+_Este anuncio de una reunión internacional para lectores del _Libro de Urantia_ estuvo acompañado de la siguiente cita:_
 
 > «_En la experiencia de encontrar al Padre que está en los cielos, descubres que todos los hombres son tus hermanos, y ¿no es normal que uno sienta alegría al encontrarse con un hermano recién descubierto?. Conocer a nuestros hermanos y hermanas, comprender sus problemas y aprender a amarlos, es la experiencia suprema de la vida»._» (<a id="a354_337"></a>[LU 130:2.6](/es/The_Urantia_Book/130#p2_6))
 
@@ -486,7 +486,7 @@ La escena en Nueva Zelanda, en lo que respecta a los lectores de El Libro de URA
 
 ---
 
-_En diciembre del año pasado, recibí una pequeña nota a pie de página de Mark, preguntándome si podía incluir nuevamente al Primer Grupo de Estudio del Libro de Urantia de Auckland en nuestra lista de correo. ¡Fue bueno saber que todavía están vivos y coleando!_
+_En diciembre del año pasado, recibí una pequeña nota a pie de página de Mark, preguntándome si podía incluir nuevamente al Primer Grupo de Estudio del _Libro de Urantia_ de Auckland en nuestra lista de correo. ¡Fue bueno saber que todavía están vivos y coleando!_
 
 _Había una invitación de otro vecino del Pacífico, Emmanuel Lou de Papeete en Tahití, en la edición de mayo de 1985, para unirse a él en el Primer Puesto Internacional del Libro de URANTIA, que se instalaría en el Festival de las Artes de Tahití a partir del 29 de junio. al 15 de julio de ese año._
 
@@ -737,7 +737,7 @@ _Y lo hicieron, pero Peter logró asistir a la conferencia de 1987 en Narrabeen 
 
 <figure id="Figure_9" class="image urantiapedia" alt="booth">
 <img src="/image/article/606/booth.jpg">
-<figcaption>Puesto de libros de URANTIA, Perth, enero de 1987.</figcapton>
+<figcaption>Puesto de libros de URANTIA, Perth, enero de 1987.</figcaption>
 </figure>
 
 También ayudaron a organizar el primer stand de libros australiano en enero de 1987 en Perth, y en agosto pasado celebraron una reunión de fin de semana a la que asistieron once personas, lo que dio lugar a renovadas intenciones de celebrar grupos de estudio más regulares.

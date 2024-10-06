@@ -43,7 +43,7 @@ par _Gard Jameson_
 
 \*\*\*
 
-> **(HS)** « Le concept de **relativité** du bien a été une source fertile de scepticisme éthique depuis le début. Bien sûr, il y a des avantages évidents à ce que notre « bien » soit distingué pour nous. Si nous acceptons le bien tel qu’il est défini par l’**environnement** social**, nous sommes sauvés de l’inconfort qui découle du conflit social. « Tout le monde le fait », tel est le mot de passe simple de la **paresse éthique.** 
+> **(HS)** « Le concept de **relativité** du bien a été une source fertile de scepticisme éthique depuis le début. Bien sûr, il y a des avantages évidents à ce que notre « bien » soit distingué pour nous. Si nous acceptons le bien tel qu’il est défini par l’**environnement** social**, nous sommes sauvés de l’inconfort qui découle du conflit social. « Tout le monde le fait », tel est le mot de passe simple de la **paresse éthique.** 
 
 > Si nous acceptons les normes de bonté établies par une **institution religieuse**, nous avons la sauvegarde d'une histoire plus longue et d'objectifs généraux prouvés, et nous sommes à l’abri de l’inconfort d'appliquer des questions éthiques aux actes de la vie.  [[*Personnalité créative* ](https://www.amazon.com/Creative-Personality-Study-Philosophical-Reconciliation/dp/125845114X)(CP) 231]
 
@@ -72,7 +72,7 @@ Est-il possible de voir les deux faces de cette médaille ? Du point de vue de D
 
 \*\*\* 
 
-> **(HS)** « Maintenant, le fait que dans la définition et la réussite humaines réelles, **la bonté est relative** plutôt qu’absolue a été une pierre d'achoppement pour de nombreux esprits. On a avancé que si le bien ne peut être défini de manière absolue une fois pour toutes, s’il doit s’agir d’une réapplication continue de principes à des conditions changeantes, une telle incertitude éthique est trop grande pour que l’individu puisse être guidé. Certains déclarent que dans de telles circonstances, le bien devient impossible pour l’individu. De là, on descend facilement vers toutes sortes de scepticismes et de sophismes, selon lesquels le bien est considéré comme ce qui est le plus utile pour le moment ou l’occasion, ou le plus profitable à l’individu. Ce scepticisme s’est étendu jusqu’à nier l’existence de toute norme morale. » [CP232] 
+> **(HS)** « Maintenant, le fait que dans la définition et la réussite humaines réelles, **la bonté est relative** plutôt qu’absolue a été une pierre d'achoppement pour de nombreux esprits. On a avancé que si le bien ne peut être défini de manière absolue une fois pour toutes, s’il doit s’agir d’une réapplication continue de principes à des conditions changeantes, une telle incertitude éthique est trop grande pour que l’individu puisse être guidé. Certains déclarent que dans de telles circonstances, le bien devient impossible pour l’individu. De là, on descend facilement vers toutes sortes de scepticismes et de sophismes, selon lesquels le bien est considéré comme ce qui est le plus utile pour le moment ou l’occasion, ou le plus profitable à l’individu. Ce scepticisme s’est étendu jusqu’à nier l’existence de toute norme morale. » [CP232] 
 
 \*\*\* 
 
@@ -95,9 +95,9 @@ Dans le domaine spirituel, l’humanité possède le libre arbitre. Nous pouvons
 
 \*\*\* 
 
-> **(HS)** « Nous faisons tout ce que l’institution déclare être bon et nous nous abstenons des actes qu’elle déclare mauvais, mais nous en payons le prix par la **perte de liberté morale**, qui est l’élément suprême de l’action éthique. . Nous faisons quelque chose de similaire lorsque nous épinglons notre définition **servilement à toute autorité écrite** ; car il existe un besoin constant de réinterprétation de l’écrit en termes de vie, dans lequel de nouvelles circonstances appellent l’application de principes vivants. 
+> **(HS)** « Nous faisons tout ce que l’institution déclare être bon et nous nous abstenons des actes qu’elle déclare mauvais, mais nous en payons le prix par la **perte de liberté morale**, qui est l’élément suprême de l’action éthique. . Nous faisons quelque chose de similaire lorsque nous épinglons notre définition **servilement à toute autorité écrite** ; car il existe un besoin constant de réinterprétation de l’écrit en termes de vie, dans lequel de nouvelles circonstances appellent l’application de principes vivants. 
 
-> Nous vivons à la lumière d'une **vérité croissante** et la vie est un réajustement constant à cette **vérité croissante**… **Quel que soit l’autre test que nous appliquons à la bonté**, celui-ci est peut-être le plus essentiel : est-ce bon dans toutes les relations de la vie, et dans la plus grande relation de la vie ? Autrement dit, est-ce bon vu « la fin et le but le plus élevé et le plus complet de l’homme » ? [CP232] 
+> Nous vivons à la lumière d'une **vérité croissante** et la vie est un réajustement constant à cette **vérité croissante**… **Quel que soit l’autre test que nous appliquons à la bonté**, celui-ci est peut-être le plus essentiel : est-ce bon dans toutes les relations de la vie, et dans la plus grande relation de la vie ? Autrement dit, est-ce bon vu « la fin et le but le plus élevé et le plus complet de l’homme » ? [CP232] 
 
 \*\*\* 
 
@@ -118,13 +118,13 @@ Dans ces passages, nous découvrons la nature évolutive de l’expérience des 
 
 \*\*\* 
 
-> **(HS)** « Maintenant, le fait que **dans la définition et la réussite humaines réelles, la bonté est relative** plutôt qu’absolue a été une pierre d'achoppement pour de nombreux esprits. Comme chez Spinoza, le mal est désormais considéré comme moins grave, mais comme une **ombre nécessaire du mal**. » [CP232] 
+> **(HS)** « Maintenant, le fait que **dans la définition et la réussite humaines réelles, la bonté est relative** plutôt qu’absolue a été une pierre d'achoppement pour de nombreux esprits. Comme chez Spinoza, le mal est désormais considéré comme moins grave, mais comme une **ombre nécessaire du mal**. » [CP232] 
 
 \*\*\* 
 
 **(C)** Ces passages sont utiles pour apprécier la nature des valeurs, et de la *bonté* en particulier. La bonté est *vivante, relative, toujours en progression et éternellement corrélée au discernement de la vérité et de la beauté*. La vérité et la beauté fonctionnent de la même manière. Le point important est que même si ces valeurs sont *relatives*, elles n’existent pas en vase clos ; ils existent par rapport à une norme absolue, Dieu qui habite en chacun de nous, une réalité qui n'est que relativement appréciée et comprise par tout être humain particulier. Sans une certaine norme, rien ne permet d'affirmer que le comportement d'un narcissique malin est meilleur ou pire que le comportement d'un géant moral, tel que [Albert Schweitzer](https://en.wikipedia.org/wiki/Albert_Schweitzer) ou [Mahatma Gandhi.](https://en.wikipedia.org/wiki/Mahatma_Gandhi) Si l’on ne comprend pas qu’il existe une norme idéale, la civilisation commence à s’effondrer sous son propre poids. 
 
-C'était la position de [Socrate ](https://en.wikipedia.org/wiki/Socrates)as il a débattu [le point de vue de Thrasymaque ](https://iep.utm.edu/thrasymachus/) selon lequel « [le plus fort rend le bien.](https://en.wikipedia.org/wiki/Might_makes_right) » Le fait que nous expérimentions la nature relative des valeurs ne ne diminue en rien leur caractère existentiel, comme absolu. Comme le dit Socrate dans [le dialogue de Platon *Protagoras*:](https://en.wikipedia.org/wiki/Protagoras_\(dialogue\)) « *Si Protagoras a raison, et la vérité est que les choses sont telles qu’elles apparaissent à n'importe qui, comment certains d'entre nous peuvent-ils être sages. et certains d’entre nous sont stupides* ? » 
+C'était la position de [Socrate ](https://en.wikipedia.org/wiki/Socrates)as il a débattu [le point de vue de Thrasymaque ](https://iep.utm.edu/thrasymachus/) selon lequel « [le plus fort rend le bien.](https://en.wikipedia.org/wiki/Might_makes_right) » Le fait que nous expérimentions la nature relative des valeurs ne ne diminue en rien leur caractère existentiel, comme absolu. Comme le dit Socrate dans [le dialogue de Platon *Protagoras*:](https://en.wikipedia.org/wiki/Protagoras_\(dialogue\)) « *Si Protagoras a raison, et la vérité est que les choses sont telles qu’elles apparaissent à n'importe qui, comment certains d'entre nous peuvent-ils être sages. et certains d’entre nous sont stupides* ? » 
 
 L’amour de la vérité et la volonté d’aller là où cela mène sont-ils souhaitables ? 
 
@@ -195,7 +195,7 @@ Notre volonté morale est indissolublement liée à l’idée d'être *une perso
 
 *Le Livre d'Urantia* désabuse totalement l’illusion d'un tel mal. Le visage du mal apparaît si grand dans l’imagination humaine en raison des événements historiques sur cette planète d’une nature monumentale, peu connus des historiens, des défauts de confiance d’époque qui se sont produits particulièrement sur Urantia. L’effet cumulatif de ces défauts a donné lieu à l’apparition du mal comme un fait littéral, indépendant du choix moral, voire même comme un fait littéral éternel, comme l’Enfer ! 
 
-> *« Toute philosophie doit être testée par sa définition de la réalité. »*
+> *« Toute philosophie doit être testée par sa définition de la réalité. »*
 > - Ralph Tyler Flewelling 
 
 <figure id="Figure_7" class="image urantiapedia">

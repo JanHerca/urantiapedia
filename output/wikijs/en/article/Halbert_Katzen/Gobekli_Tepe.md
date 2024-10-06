@@ -3,7 +3,7 @@ title: Gobekli Tepe
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: Anthropology, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -271,13 +271,13 @@ There are even Egyptian carvings that depict the collection of the semen, which 
 <img src="/image/article/Halbert_Katzen/Gobekli_Tepe/Fishhead-Adam-Eve1.jpg" width="745" heigth="483">
 </figure>
 
-> The cultural age of the second garden was terminated by the increasing infiltration of the surrounding inferior stocks. Civilization moved westward to the Nile and the Mediterranean islands, where it continued to thrive and advance long after its fountainhead in Mesopotamia had deteriorated. And this unchecked influx of inferior peoples prepared the way for the later conquest of all Mesopotamia by the northern barbarians who drove out the residual strains of ability. Even in later years the cultured residue still resented the presence of these ignorant and uncouth invaders.
+> The cultural age of the second garden was terminated by the increasing infiltration of the surrounding inferior stocks. Civilization moved westward to the Nile and the Mediterranean islands, where it continued to thrive and advance long after its fountainhead in Mesopotamia had deteriorated. And this unchecked influx of inferior peoples prepared the way for the later conquest of all Mesopotamia by the northern barbarians who drove out the residual strains of ability. Even in later years the cultured residue still resented the presence of these ignorant and uncouth invaders.[^30]
 
 #### Integrating Scientific Knowledge with Spiritual Practices
 
 There is a paragraph in *The Urantia Book* about how certain glandular activity has an impact on “inherent imagination and spiritual receptivity.”
 
-> [3.] Spirit-reception series.There are three groups of mind design as related to contact with spirit affairs. This classification does not refer to the one-, two-, and three-brained orders of mortals; it refers primarily to gland chemistry, more particularly to the organization of certain glands comparable to the pituitarybodies. The races on some worlds have one gland, on others two, as do Urantians, while on still other spheres the races have three of these unique bodies. The inherent imagination and spiritual receptivity is definitely influenced by this differential chemical endowment.
+> [3.] Spirit-reception series.There are three groups of mind design as related to contact with spirit affairs. This classification does not refer to the one-, two-, and three-brained orders of mortals; it refers primarily to gland chemistry, more particularly to the organization of certain glands comparable to the pituitarybodies. The races on some worlds have one gland, on others two, as do Urantians, while on still other spheres the races have three of these unique bodies. The inherent imagination and spiritual receptivity is definitely influenced by this differential chemical endowment.[^31]
 
 It seems, perhaps in an effort to not provide scientific information that we can figure out for ourselves, the revelators did not specifically mention the pituitary gland, instead using a comparison to the pituitary as part of providing cosmological teachings that are beyond human discovery.
 
@@ -316,22 +316,16 @@ For an excellent understanding of how this topic relates to the development Jude
 
 ## Externals links
 
-* This report in UBTheNews webpage: https://ubannotated.com/main-menu/animated/topical-studies/gobekli-tepe/
-
+* [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/gobekli-tepe/)
+* [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 * Wikipedia: http://en.wikipedia.org/wiki/Gobekli_Tepe
-
 * Andrew Collins page on Gobekli Tepe: http://www.andrewcollins.com/page/articles/Gobekli.htm
-
 * Shaena Montanari, *Hints of Skull Cult Found at World's Oldest Temple*, National Geographic, June 2017. https://www.nationalgeographic.com/news/2017/06/skulls-cult-turkey-archaeology-neolithic-gobekli/. Article on Gobekli Tepe skull markings.
-
 * John Hurd y Dan Thompson, *Preliminary Site Conservation Inspection and First Mortar and Plaster Documentation Report, Göbekli Tepe, Turkey*, *Global Heritage Fund*, september 2011. http://ghn.globalheritagefund.com/uploads/documents/document_2018.pdf. Gobekli Tepe has earliest evidence for development of concrete.
-
 * An “Evolutionary Revelation” conference was hosted by Byron Belitsos in June 2014. This presentation by Halbert Katzen addresses issues related to the Urantia revelation’s progressive acceptance, as this relates to how new discoveries and scientific advances increasingly support history in The Urantia Book. A review of the *Gobekli Tepe Report* is part of this presentation. https://www.youtube.com/watch?v=Q1zX_iog1SM
-
 * Martin Robinson, *Piles of ancient rubbish could prove incredible temple that's 6,500 years older than Stonehenge was actually a house*, Daily Mail, october 2011. https://www.dailymail.co.uk/news/article-2050908/Gobekli-Tepe-Temple-thats-6-500-years-older-Stonehenge-house.html. Article that speculates about Gobekli Tepe and the Garden of Eden.
-
 * Andrew Curry, *Gobekli Tepe: The World’s First Temple?*, *Smithsonian Magazine*, noviembre 2008. https://www.smithsonianmag.com/history/gobekli-tepe-the-worlds-first-temple-83613665/, article from Smithsonian.
-
 * *Göbekli Tepe in Turkey: A 12,000-year-old Temple Complex*, Red Ice.TV, http://www.redicecreations.com/article.php?id=3487, with some good images.
 
 <br>
@@ -356,21 +350,21 @@ For an excellent understanding of how this topic relates to the development Jude
 
 ## References
 
-[^1]: Genetics has a type of genes that comply with this form of action, and they are called recessive genes. For example, blue eyes, which appear due to a recessive gene, are told in *The Urantia Book* that they arose in the world because Adam and Eve had them that way and transmitted them to the world through their offspring. <a id="a358_330"></a>[UB 76:4.1](/en/The_Urantia_Book/76#p4_1)
+[^1]: Genetics has a type of genes that comply with this form of action, and they are called recessive genes. For example, blue eyes, which appear due to a recessive gene, are told in *The Urantia Book* that they arose in the world because Adam and Eve had them that way and transmitted them to the world through their offspring. <a id="a352_330"></a>[UB 76:4.1](/en/The_Urantia_Book/76#p4_1)
 
-[^2]: <a id="a360_6"></a>[UB 101:4.8-9](/en/The_Urantia_Book/101#p4_8)
+[^2]: <a id="a354_6"></a>[UB 101:4.8-9](/en/The_Urantia_Book/101#p4_8)
 
-[^3]: <a id="a362_6"></a>[UB 76:3.8](/en/The_Urantia_Book/76#p3_8)
+[^3]: <a id="a356_6"></a>[UB 76:3.8](/en/The_Urantia_Book/76#p3_8)
 
-[^4]: <a id="a364_6"></a>[UB 76:4.3](/en/The_Urantia_Book/76#p4_3)
+[^4]: <a id="a358_6"></a>[UB 76:4.3](/en/The_Urantia_Book/76#p4_3)
 
-[^5]: <a id="a366_6"></a>[UB 76:4.5](/en/The_Urantia_Book/76#p4_5)
+[^5]: <a id="a360_6"></a>[UB 76:4.5](/en/The_Urantia_Book/76#p4_5)
 
-[^6]: <a id="a368_6"></a>[UB 78:3.1](/en/The_Urantia_Book/78#p3_1)
+[^6]: <a id="a362_6"></a>[UB 78:3.1](/en/The_Urantia_Book/78#p3_1)
 
-[^7]: <a id="a370_6"></a>[UB 78:5.2](/en/The_Urantia_Book/78#p5_2)
+[^7]: <a id="a364_6"></a>[UB 78:5.2](/en/The_Urantia_Book/78#p5_2)
 
-[^8]: <a id="a372_6"></a>[UB 78:6.1](/en/The_Urantia_Book/78#p6_1)
+[^8]: <a id="a366_6"></a>[UB 78:6.1](/en/The_Urantia_Book/78#p6_1)
 
 [^9]: *Which came first, monumental building projects or farming?*, Archaeo News, december 2008. http://www.stonepages.com/news/archives/003061.html
 
@@ -382,41 +376,41 @@ For an excellent understanding of how this topic relates to the development Jude
 
 [^13]: Sean Thomas, *Gobekli Tepe – Paradise Regained?*, ForteanTimes, march 2007. https://web.archive.org/web/20100604191934/http://www.forteantimes.com/features/articles/449/gobekli_tepe_paradise_regained.html [Original link requires now subscription]
 
-[^14]: <a id="a384_7"></a>[UB 78:2.4](/en/The_Urantia_Book/78#p2_4)
+[^14]: <a id="a378_7"></a>[UB 78:2.4](/en/The_Urantia_Book/78#p2_4)
 
-[^15]: <a id="a386_7"></a>[UB 76:3.8](/en/The_Urantia_Book/76#p3_8)
+[^15]: <a id="a380_7"></a>[UB 76:3.8](/en/The_Urantia_Book/76#p3_8)
 
 [^16]: Austrian Times, article from February 25, 2011
 
-[^17]: <a id="a390_7"></a>[UB 74:3.4](/en/The_Urantia_Book/74#p3_4)
+[^17]: <a id="a384_7"></a>[UB 74:3.4](/en/The_Urantia_Book/74#p3_4)
 
-[^18]: <a id="a392_7"></a>[UB 52:1.5](/en/The_Urantia_Book/52#p1_5)
+[^18]: <a id="a386_7"></a>[UB 52:1.5](/en/The_Urantia_Book/52#p1_5)
 
-[^19]: <a id="a394_7"></a>[UB 66:5.6](/en/The_Urantia_Book/66#p5_6)
+[^19]: <a id="a388_7"></a>[UB 66:5.6](/en/The_Urantia_Book/66#p5_6)
 
-[^20]: <a id="a396_7"></a>[UB 73:4.1](/en/The_Urantia_Book/73#p4_1)
+[^20]: <a id="a390_7"></a>[UB 73:4.1](/en/The_Urantia_Book/73#p4_1)
 
-[^21]: <a id="a398_7"></a>[UB 84:7.29](/en/The_Urantia_Book/84#p7_29)
+[^21]: <a id="a392_7"></a>[UB 84:7.29](/en/The_Urantia_Book/84#p7_29)
 
-[^22]: <a id="a400_7"></a>[UB 74:7.22](/en/The_Urantia_Book/74#p7_22)
+[^22]: <a id="a394_7"></a>[UB 74:7.22](/en/The_Urantia_Book/74#p7_22)
 
 [^23]: The inspiration for taking a crack at interpreting the “H” came from a genetics report, sent to me by Luis Marco, that gives noteworthy support to The Urantia Book‘s dating of both the Sangik races and the Neanderthals. See the *Double Dual Origin of Modern Man and pre-Modern Man* Research Page to follow up on this 2019 research report out of UC Davis. http://ubannotated.com/ubthenews/topics/Modern_Man_Origin/
 
-[^24]: <a id="a404_7"></a>[UB 78:5.4](/en/The_Urantia_Book/78#p5_4)
+[^24]: <a id="a398_7"></a>[UB 78:5.4](/en/The_Urantia_Book/78#p5_4)
 
-[^25]: <a id="a406_7"></a>[UB 78:5.7-8](/en/The_Urantia_Book/78#p5_7)
+[^25]: <a id="a400_7"></a>[UB 78:5.7-8](/en/The_Urantia_Book/78#p5_7)
 
 [^26]: There is a Topical Study in development about this matter: *Fish Head Hats*, http://ubannotated.com/main-menu/animated/topical-studies/fish-head-hats/
 
-[^27]: <a id="a410_7"></a>[UB 76:4.8](/en/The_Urantia_Book/76#p4_8)
+[^27]: <a id="a404_7"></a>[UB 76:4.8](/en/The_Urantia_Book/76#p4_8)
 
-[^28]: <a id="a412_7"></a>[UB 78:3.6](/en/The_Urantia_Book/78#p3_6)
+[^28]: <a id="a406_7"></a>[UB 78:3.6](/en/The_Urantia_Book/78#p3_6)
 
-[^29]: <a id="a414_7"></a>[UB 78:6.5](/en/The_Urantia_Book/78#p6_5)
+[^29]: <a id="a408_7"></a>[UB 78:6.5](/en/The_Urantia_Book/78#p6_5)
 
-[^30]: <a id="a416_7"></a>[UB 78:6.8](/en/The_Urantia_Book/78#p6_8)
+[^30]: <a id="a410_7"></a>[UB 78:6.8](/en/The_Urantia_Book/78#p6_8)
 
-[^31]: <a id="a418_7"></a>[UB 49:5.19](/en/The_Urantia_Book/49#p5_19)
+[^31]: <a id="a412_7"></a>[UB 49:5.19](/en/The_Urantia_Book/49#p5_19)
 
 [^32]: https://en.wikipedia.org/wiki/Pineal_gland
 

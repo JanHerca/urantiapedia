@@ -3,7 +3,7 @@ title: "Melchizedek and the Dead Sea Scrolls Report"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Bible, Machiventa
+tags: Bible, Machiventa, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -37,7 +37,7 @@ The Melchizedek mystery preceded Jesus. Though Jesus spoke of his own nature in 
 
 Whatever reasons Jesus had for not clearing up the Melchizedek mystery, the authors of _The Urantia Book_ clearly intend to set the record straight by extensively revealing and reviewing the history of Melchizedek. In fact, we even get a first name to distinguish the particular individual who appeared during the times of Abraham from the “order of Melchizedek.”
 
-Melchizedek’s first name is _Machiventa_. I have prepared etymologies of coined _Urantia Book_ terms and also shared the etymological work of others on UBannotated.com. But, as far as I know, no one has ever put anything together before on _Machiventa_. The research did not turn out to be straight forward in comparison to my previous efforts. So, it turned into both an [Appendix](https://ubannotated.com/main-menu/animated/topical-studies/machiventa-melchizedek/machiventa-etymology/) for this report and a Topical Study in its own rite.
+Melchizedek’s first name is _Machiventa_. I have prepared etymologies of coined _Urantia Book_ terms and also shared the etymological work of others on UBannotated.com. But, as far as I know, no one has ever put anything together before on _Machiventa_. The research did not turn out to be straight forward in comparison to my previous efforts. So, it turned into both an [Appendix](/en/article/Halbert_Katzen/Machiventa_etymology) for this report and a Topical Study in its own rite.
 
 Additionally, I think it is best to explain from the beginning that this UBtheNEWS report departs significantly from the nature of other UBtheNEWS reports in a number of important ways:
 
@@ -49,7 +49,7 @@ Additionally, I think it is best to explain from the beginning that this UBtheNE
 
 3) A new discovery or scientific advance that supports _The Urantia Book_ needs to be somewhat unpredictable or contrary to the predominant scholarly views held in 1955, if the information is to show up credible by comparison. Additionally, the strength of a corroboration is directly related to providing uncontested and objectively verifiable information. When the Dead Sea Scrolls were discovered is sufficiently objective and verifiable. How to interpret fragments of letters is debatable. Interpreting and then translating what the Scrolls say is subjective and is often intertwined with deeply held religious convictions. So, in order to find something corroborative, special care needs to be taken and expectations need to be adjusted in comparison to other UBtheNEWS reports.
 
-4) This UBtheNEWS report is thematically related to a series of study aids about prophecy and signs of the times. Of particular note is that two full solar eclipses, approximately seven years apart, have paths that intersect over the Bald Knob Cross of Peace. These eclipses occur on August 21, 2017 and April 8, 2024. _The Urantia Book_ says that Jesus’ birthday is August 21 and that April 8 is date between crucifixion and resurrection. For additional perspective on how this relates to prophecy and _Urantia Book_ teachings, see [Eclipses Trump Prophecy Scholars](https://ubannotated.com/main-menu/animated/more-about-and-by-halbert-katzen/eclipses-trump-prophecy-scholars/), [Prophecy and “signs of the times”](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/) and [The Jewish Messiah is Melchizedek!?!](https://ubannotated.com/main-menu/animated/topical-studies/prophecy-and-signs-of-the-times/the-jewish-messiah-is-melchizedek/)
+4) This UBtheNEWS report is thematically related to a series of study aids about prophecy and signs of the times. Of particular note is that two full solar eclipses, approximately seven years apart, have paths that intersect over the Bald Knob Cross of Peace. These eclipses occur on August 21, 2017 and April 8, 2024. _The Urantia Book_ says that Jesus’ birthday is August 21 and that April 8 is date between crucifixion and resurrection. For additional perspective on how this relates to prophecy and _Urantia Book_ teachings, see [Eclipses Trump Prophecy Scholars](/en/article/Halbert_Katzen/Eclipses_Trump_Prophecy_Scholars), [Prophecy and “signs of the times”](/en/article/Halbert_Katzen/Prophecy_and_signs_of_the_times) and [The Jewish Messiah is Melchizedek!?!](/en/article/Halbert_Katzen/The_Jewish_Messiah_is_Melchizedek)
 
 Drafting for this report began on December 21, 2020. Statements made in _The_ _Urantia Book_ indicate that 2021 is the 4000<sup>th</sup> anniversary of when Machiventa Melchizedek incarnated and started to teach during the Abrahamic period. Please enjoy this report as a celebration of the 2020/2021 millennial transition!
 
@@ -74,7 +74,7 @@ The chronology for modern world awareness goes:
 The limited amount of information in the Old and New Testaments leads to differing interpretations about the nature of Melchizedek. This report focuses on two of the questions that get raised:
 
 1. Did Melchizedek have a purely human origin vs. being some type of incarnate angel or pre incarnation of Jesus?
-2. Is Melchizedek due to come back in connection with a Judgment Day and/or Jubilee of Jubilees? (See also Topical Study: [Is there an impending judgment of the living?](https://ubannotated.com/main-menu/animated/topical-studies/impending-judgement-of-the-living/))
+2. Is Melchizedek due to come back in connection with a Judgment Day and/or Jubilee of Jubilees? (See also Topical Study: [Is there an impending judgment of the living?](/en/article/Halbert_Katzen/A_Global_Catastrophic_Crisis_Event))
 
 _The Urantia Book_ offers about fifty pages directly focused on clearing up the Melchizedek mystery. These teachings include:
 
@@ -98,7 +98,7 @@ The review starts with a selection of passages from _The Urantia Book_ about Mel
 
 ### From _The Urantia Book_
 
-Along with four Papers (Chapters) that directly focus on him, references to Melchizedek occur throughout _The Urantia Book_. Naturally, a sequential reading of the Papers provides a solid foundation for the _Urantia Book_ perspective. The Melchizedek Papers are about 45 pages in total. The first one—[Paper 93: Machiventa Melchizedek](https://ubannotated.com/ubthenews/urantiabook/papers/p093/)—is the most important one, relative to this report. Along with explaining Melchizedek’s relationship to Abraham, it also reviews his current status and considers future possibilities about his seemingly inevitable return. The other three Papers are:
+Along with four Papers (Chapters) that directly focus on him, references to Melchizedek occur throughout _The Urantia Book_. Naturally, a sequential reading of the Papers provides a solid foundation for the _Urantia Book_ perspective. The Melchizedek Papers are about 45 pages in total. The first one—[Paper 93: Machiventa Melchizedek](/en/The_Urantia_Book/93)—is the most important one, relative to this report. Along with explaining Melchizedek’s relationship to Abraham, it also reviews his current status and considers future possibilities about his seemingly inevitable return. The other three Papers are:
 
 - [Paper 94: The Melchizedek Teachings in the Orient](/en/The_Urantia_Book/94),
 - [Paper 95: The Melchizedek Teachings in the Levant](/en/The_Urantia_Book/95),
@@ -132,35 +132,35 @@ These are Old Testament references to Melchizedek, along with a selection of ass
 
 **[Genesis 14](/en/Bible/Genesis/14):**
 
-**<sup>14</sup>** And when Abram heard that his brother was taken captive, he armed his trained servants, born in his own house, three hundred and eighteen, and pursued them unto Dan.
+**<sup><small>14</small></sup>** And when Abram heard that his brother was taken captive, he armed his trained servants, born in his own house, three hundred and eighteen, and pursued them unto Dan.
 
-**<sup>15</sup>** And he divided himself against them, he and his servants, by night, and smote them, and pursued them unto Hobah, which is on the left hand of Damascus.
+**<sup><small>15</small></sup>** And he divided himself against them, he and his servants, by night, and smote them, and pursued them unto Hobah, which is on the left hand of Damascus.
 
-**<sup>16</sup>** And he brought back all the goods, and also brought again his brother Lot, and his goods, and the women also, and the people.
+**<sup><small>16</small></sup>** And he brought back all the goods, and also brought again his brother Lot, and his goods, and the women also, and the people.
 
-**<sup>17</sup>** And the king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that were with him, at the valley of Shaveh, which is the king’s dale.
+**<sup><small>17</small></sup>** And the king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that were with him, at the valley of Shaveh, which is the king’s dale.
 
-**<sup>18</sup>** And Melchizedek king of Salem brought forth bread and wine: and he was the priest of the most high God.
+**<sup><small>18</small></sup>** And Melchizedek king of Salem brought forth bread and wine: and he was the priest of the most high God.
 
-**<sup>19</sup>** And he blessed him, and said, Blessed be Abram of the most high God, possessor of heaven and earth:
+**<sup><small>19</small></sup>** And he blessed him, and said, Blessed be Abram of the most high God, possessor of heaven and earth:
 
-**<sup>20</sup>** And blessed be the most high God, which hath delivered thine enemies into thy hand. And he gave him tithes of all.
+**<sup><small>20</small></sup>** And blessed be the most high God, which hath delivered thine enemies into thy hand. And he gave him tithes of all.
 
-**<sup>21</sup>** And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.
+**<sup><small>21</small></sup>** And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.
 
 **[Psalm 110](/en/Bible/Psalms/110):**
 
-**<sup>1</sup>** The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
+**<sup><small>1</small></sup>** The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
 
-**<sup>2</sup>** The Lord shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.
+**<sup><small>2</small></sup>** The Lord shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.
 
-**<sup>3</sup>** Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.
+**<sup><small>3</small></sup>** Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.
 
-**<sup>4</sup>** The Lord hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek.
+**<sup><small>4</small></sup>** The Lord hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek.
 
-**<sup>5</sup>** The Lord at thy right hand shall strike through kings in the day of his wrath.
+**<sup><small>5</small></sup>** The Lord at thy right hand shall strike through kings in the day of his wrath.
 
-**<sup>6</sup>** He shall judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries.
+**<sup><small>6</small></sup>** He shall judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries.
 
 ### From the New Testament
 
@@ -168,94 +168,94 @@ These are the primary passages from the New Testament, which add new information
 
 **[Hebrews 5](/en/Bible/Hebrews/5):**
 
-**<sup>5</sup>** So also Christ glorified not himself to be made an high priest; but he that said unto him, Thou art my Son, today have I begotten thee.
+**<sup><small>5</small></sup>** So also Christ glorified not himself to be made an high priest; but he that said unto him, Thou art my Son, today have I begotten thee.
 
-**<sup>6</sup>** As he saith also in another place, Thou art a priest for ever after the order of Melchizedek.
+**<sup><small>6</small></sup>** As he saith also in another place, Thou art a priest for ever after the order of Melchizedek.
 
-**<sup>7</sup>** Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared;
+**<sup><small>7</small></sup>** Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared;
 
-**<sup>8</sup>** Though he were a Son, yet learned he obedience by the things which he suffered;
+**<sup><small>8</small></sup>** Though he were a Son, yet learned he obedience by the things which he suffered;
 
-**<sup>9</sup>** And being made perfect, he became the author of eternal salvation unto all them that obey him;
+**<sup><small>9</small></sup>** And being made perfect, he became the author of eternal salvation unto all them that obey him;
 
-**<sup>10</sup>** Called of God a high priest after the order of Melchizedek.
+**<sup><small>10</small></sup>** Called of God a high priest after the order of Melchizedek.
 
-**<sup>11</sup>** Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing.
+**<sup><small>11</small></sup>** Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing.
 
 **[Hebrews 6](/en/Bible/Hebrews/6):**
 
-**<sup>19</sup>** Which hope we have as an anchor of the soul, both sure and steadfast, and which entereth into that within the veil;
+**<sup><small>19</small></sup>** Which hope we have as an anchor of the soul, both sure and steadfast, and which entereth into that within the veil;
 
-**<sup>20</sup>** Whither the forerunner is for us entered, even Jesus, made a high priest for ever after the order of Melchizedek.
+**<sup><small>20</small></sup>** Whither the forerunner is for us entered, even Jesus, made a high priest for ever after the order of Melchizedek.
 
 **[Hebrews 7](/en/Bible/Hebrews/7):**
 
 **The Priestly Order of Melchizedek**
 
-**<sup>1</sup>** This “King Melchizedek of Salem, priest of the Most High God, met Abraham as he was returning from defeating the kings and blessed him”; 
+**<sup><small>1</small></sup>** This “King Melchizedek of Salem, priest of the Most High God, met Abraham as he was returning from defeating the kings and blessed him”; 
 
-**<sup>2</sup>** and to him Abraham apportioned “one-tenth of everything.” His name, in the first place, means “king of righteousness”; next he is also king of Salem, that is, “king of peace.” 
+**<sup><small>2</small></sup>** and to him Abraham apportioned “one-tenth of everything.” His name, in the first place, means “king of righteousness”; next he is also king of Salem, that is, “king of peace.” 
 
-**<sup>3</sup>** Without father, without mother, without genealogy, having neither beginning of days nor end of life, but resembling the Son of God, he remains a priest forever.
+**<sup><small>3</small></sup>** Without father, without mother, without genealogy, having neither beginning of days nor end of life, but resembling the Son of God, he remains a priest forever.
 
-**<sup>4</sup>** See how great he is! Even Abraham the patriarch gave him a tenth of the spoils. 
+**<sup><small>4</small></sup>** See how great he is! Even Abraham the patriarch gave him a tenth of the spoils. 
 
-**<sup>5</sup>** And those descendants of Levi who receive the priestly office have a commandment in the law to collect tithes from the people, that is, from their kindred, though these also are descended from Abraham. 
+**<sup><small>5</small></sup>** And those descendants of Levi who receive the priestly office have a commandment in the law to collect tithes from the people, that is, from their kindred, though these also are descended from Abraham. 
 
-**<sup>6</sup>** But this man, who does not belong to their ancestry, collected tithes from Abraham and blessed him who had received the promises. 
+**<sup><small>6</small></sup>** But this man, who does not belong to their ancestry, collected tithes from Abraham and blessed him who had received the promises. 
 
-**<sup>7</sup>** It is beyond dispute that the inferior is blessed by the superior. 
+**<sup><small>7</small></sup>** It is beyond dispute that the inferior is blessed by the superior. 
 
-**<sup>8</sup>** In the one case, tithes are received by those who are mortal; in the other, by one of whom it is testified that he lives. 
+**<sup><small>8</small></sup>** In the one case, tithes are received by those who are mortal; in the other, by one of whom it is testified that he lives. 
 
-**<sup>9</sup>** One might even say that Levi himself, who receives tithes, paid tithes through Abraham, 
+**<sup><small>9</small></sup>** One might even say that Levi himself, who receives tithes, paid tithes through Abraham, 
 
-**<sup>10</sup>** for he was still in the loins of his ancestor when Melchizedek met him.
+**<sup><small>10</small></sup>** for he was still in the loins of his ancestor when Melchizedek met him.
 
 **Another Priest, Like Melchizedek**
 
-**<sup>11</sup>** Now if perfection had been attainable through the levitical priesthood—for the people received the law under this priesthood—what further need would there have been to speak of another priest arising according to the order of Melchizedek, rather than one according to the order of Aaron? 
+**<sup><small>11</small></sup>** Now if perfection had been attainable through the levitical priesthood—for the people received the law under this priesthood—what further need would there have been to speak of another priest arising according to the order of Melchizedek, rather than one according to the order of Aaron? 
 
-**<sup>12</sup>** For when there is a change in the priesthood, there is necessarily a change in the law as well. 
+**<sup><small>12</small></sup>** For when there is a change in the priesthood, there is necessarily a change in the law as well. 
 
-**<sup>13</sup>** Now the one of whom these things are spoken belonged to another tribe, from which no one has ever served at the altar. 
+**<sup><small>13</small></sup>** Now the one of whom these things are spoken belonged to another tribe, from which no one has ever served at the altar. 
 
-**<sup>14</sup>** For it is evident that our Lord was descended from Judah, and in connection with that tribe Moses said nothing about priests.
+**<sup><small>14</small></sup>** For it is evident that our Lord was descended from Judah, and in connection with that tribe Moses said nothing about priests.
 
-**<sup>15</sup>** It is even more obvious when another priest arises, resembling Melchizedek, 
+**<sup><small>15</small></sup>** It is even more obvious when another priest arises, resembling Melchizedek, 
 
-**<sup>16</sup>** one who has become a priest, not through a legal requirement concerning physical descent, but through the power of an indestructible life. 
+**<sup><small>16</small></sup>** one who has become a priest, not through a legal requirement concerning physical descent, but through the power of an indestructible life. 
 
-**<sup>17</sup>** For it is attested of him,
+**<sup><small>17</small></sup>** For it is attested of him,
 
 “You are a priest forever, 
 according to the order of Melchizedek.”
 
-**<sup>18</sup>** There is, on the one hand, the abrogation of an earlier commandment because it was weak and ineffectual 
+**<sup><small>18</small></sup>** There is, on the one hand, the abrogation of an earlier commandment because it was weak and ineffectual 
 
-**<sup>19</sup>** (for the law made nothing perfect); there is, on the other hand, the introduction of a better hope, through which we approach God.
+**<sup><small>19</small></sup>** (for the law made nothing perfect); there is, on the other hand, the introduction of a better hope, through which we approach God.
 
-**<sup>20</sup>** This was confirmed with an oath; for others who became priests took their office without an oath, 
+**<sup><small>20</small></sup>** This was confirmed with an oath; for others who became priests took their office without an oath, 
 
-**<sup>21</sup>** but this one became a priest with an oath, because of the one who said to him,
+**<sup><small>21</small></sup>** but this one became a priest with an oath, because of the one who said to him,
 
 “The Lord has sworn 
 and will not change his mind, 
 ‘You are a priest forever’”—
 
-**<sup>22</sup>** accordingly Jesus has also become the guarantee of a better covenant.
+**<sup><small>22</small></sup>** accordingly Jesus has also become the guarantee of a better covenant.
 
-**<sup>23</sup>** Furthermore, the former priests were many in number, because they were prevented by death from continuing in office; 
+**<sup><small>23</small></sup>** Furthermore, the former priests were many in number, because they were prevented by death from continuing in office; 
 
-**<sup>24</sup>** but he holds his priesthood permanently, because he continues forever. 
+**<sup><small>24</small></sup>** but he holds his priesthood permanently, because he continues forever. 
 
-**<sup>25</sup>** Consequently he is able for all time to save those who approach God through him, since he always lives to make intercession for them.
+**<sup><small>25</small></sup>** Consequently he is able for all time to save those who approach God through him, since he always lives to make intercession for them.
 
-**<sup>26</sup>** For it was fitting that we should have such a high priest, holy, blameless, undefiled, separated from sinners, and exalted above the heavens. 
+**<sup><small>26</small></sup>** For it was fitting that we should have such a high priest, holy, blameless, undefiled, separated from sinners, and exalted above the heavens. 
 
-**<sup>27</sup>** Unlike the other high priests, he has no need to offer sacrifices day after day, first for his own sins, and then for those of the people; this he did once for all when he offered himself. 
+**<sup><small>27</small></sup>** Unlike the other high priests, he has no need to offer sacrifices day after day, first for his own sins, and then for those of the people; this he did once for all when he offered himself. 
 
-**<sup>28</sup>** For the law appoints as high priests those who are subject to weakness, but the word of the oath, which came later than the law, appoints a Son who has been made perfect forever.
+**<sup><small>28</small></sup>** For the law appoints as high priests those who are subject to weakness, but the word of the oath, which came later than the law, appoints a Son who has been made perfect forever.
 
 ### From the Dead Sea Scroll 11Q13
 
@@ -391,7 +391,9 @@ As intriguing as those questions might be, perhaps, they are not nearly so timel
 
 ## External Links
 
-* This report in UBTheNews webpage: https://ubannotated.com/ubthenews/topics/melchizedek-and-the-dead-sea-scrolls-report/
+* [This report in UBTheNews webpage](https://ubannotated.com/ubthenews/topics/melchizedek-and-the-dead-sea-scrolls-report/)
+* [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 

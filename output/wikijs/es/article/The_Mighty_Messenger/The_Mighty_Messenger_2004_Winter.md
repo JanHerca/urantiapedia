@@ -100,7 +100,7 @@ Crecí yendo a powwows de nativos americanos, con el propósito de festejar, bai
 <img src="/image/article/The_Mighty_Messenger/2004_Winter/Tom_Allen.jpg">
 </figure>
 
-Criado en Bartlesville, Oklahoma, conocí _El Libro de Urantia_ en 1973 cuando era estudiante universitario. Me convertí en miembro de la Primera Sociedad Urantia de Oklahoma (ahora Sociedad del Libro de Urantia de Oklahoma) en 1974, y participé en muchas, muchas de las primeras actividades relacionadas con Urantia en los años 70 y 80, incluido el servicio en el Consejo General en 1985. Siguiendo a Berkeley La graduación de Elliott, heredé su estudio de los domingos por la noche. Durante los últimos dos años y medio, envío «Comparaciones» diarias a más de 125 suscriptores interesados. Tomo una cita famosa y la comparo con una cita similar en The Urantia. Cualquier persona interesada en suscribirse, escríbame a tommykaren@cox.net.
+Criado en Bartlesville, Oklahoma, conocí _El Libro de Urantia_ en 1973 cuando era estudiante universitario. Me convertí en miembro de la Primera Sociedad Urantia de Oklahoma (ahora Sociedad del _Libro de Urantia_ de Oklahoma) en 1974, y participé en muchas, muchas de las primeras actividades relacionadas con Urantia en los años 70 y 80, incluido el servicio en el Consejo General en 1985. Siguiendo a Berkeley La graduación de Elliott, heredé su estudio de los domingos por la noche. Durante los últimos dos años y medio, envío «Comparaciones» diarias a más de 125 suscriptores interesados. Tomo una cita famosa y la comparo con una cita similar en The Urantia. Cualquier persona interesada en suscribirse, escríbame a tommykaren@cox.net.
 
 **Gene Narducy, Consejero General**
 

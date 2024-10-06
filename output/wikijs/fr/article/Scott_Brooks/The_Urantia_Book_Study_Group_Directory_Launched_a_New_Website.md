@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-3-oct-2018">
+        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-3-octobre-2018">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 3, Oct. 2018 — Table des matières</span>
         </a>
         </td>
@@ -46,7 +46,7 @@ L’une de ces fonctions est le nouveau format qui donne à chaque animateur de 
 
 Plus de 50 pour-cent des 1000 visiteurs mensuels utilisent des appareils mobiles ou tablettes pour accéder au site. Il était donc important de le rendre totalement réactif aux appareils mobiles. Les visiteurs peuvent aussi mentionner leur pays, leur code postal et le nom de l’animateur ou du coordinateur et de la ville. On leur proposera aussi une liste de groupes d’étude incluant une carte qui concordera avec les critères de recherche.
 
-Plus de 400 groupes d’étude représentant 42 pays dans 17 langues sont listés dans le répertoire. Waouh ! Près de 100 d’entre eux sont des groupes virtuels. Il y a environ un an et demi, il n’y avait que quatre groupes virtuels. Une telle croissance est phénoménale ; des gens de partout dans le monde avec un accès internet peuvent participer maintenant à un groupe d’étude.
+Plus de 400 groupes d’étude représentant 42 pays dans 17 langues sont listés dans le répertoire. Waouh ! Près de 100 d’entre eux sont des groupes virtuels. Il y a environ un an et demi, il n’y avait que quatre groupes virtuels. Une telle croissance est phénoménale ; des gens de partout dans le monde avec un accès internet peuvent participer maintenant à un groupe d’étude.
 
 Pour ceux qui ne connaissent pas un groupe virtuel, c’est un groupe d’étude qui est disponible sur internet. Vous pouvez voir, écouter et parler aux autres en utilisant la caméra de votre ordinateur et son micro. Vous devez seulement installer l’application d’ordinateur nécessaire pour accéder à la réunion. Les applications les plus populaires sont Zoom et Skype.
 
@@ -81,7 +81,7 @@ Les membres de l’équipe actuelle sont Bill Beasley, Scott Brooks, Jackie Kour
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-3-oct-2018">
+        <a href="/fr/index/articles_uf_news_online#volume-12-numéro-3-octobre-2018">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 3, Oct. 2018 — Table des matières</span>
         </a>
         </td>

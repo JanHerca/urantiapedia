@@ -9,13 +9,37 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Meredith Van Woert<br>© 1999 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dorothy_Elder/A_Report_on_UBIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un informe sobre la escuela de Internet El Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michael_MacIsaac/A_Report_on_Young_Readers">
+          <span class="pr-2">Un informe sobre los lectores jóvenes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Meredith Van Woert
 California, Estados Unidos
 
 En la portada de cada nuevo _Libro de Urantia_ hay una hoja informativa que se puede enviar a la Fundación Urantia, por correo postal o correo electrónico, para obtener más información. Una persona puede solicitar ser incluido en nuestra lista de correo para recibir noticias sobre la Fundación o sus empresas relacionadas. Esta persona también puede utilizar el «cuadro de permiso» para indicar que le gustaría conectarse con otros lectores que viven cerca.
 
-Como presidente de membresía de SURF (Familia de Lectores del Libro de Urantia del Suroeste), recibo copias de estas hojas informativas de personas que viven en California. Sólo me envían los archivos de aquellos que han dado permiso para contactarlos.
+Como presidente de membresía de SURF (Familia de Lectores del _Libro de Urantia_ del Suroeste), recibo copias de estas hojas informativas de personas que viven en California. Sólo me envían los archivos de aquellos que han dado permiso para contactarlos.
 
 Cathy Jones, Administradora de la AUI, coordina la actividad de divulgación que involucra a todos los grupos de la AUI en todo el mundo. California es sólo una pequeña porción del pastel. A continuación se resume mi experiencia con la propagación.
 
@@ -38,3 +62,27 @@ Los resultados de la divulgación son los siguientes:
 - 1 - Tarjeta devuelta que no se pudo entregar
 
 He recibido siete cartas de particulares. Hay una historia personal contenida en cada uno. Y cada conversación revela las luces y las sombras de un paisaje compartido que llamamos _El Libro de Urantia_. La divulgación de la IUA está avanzando.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dorothy_Elder/A_Report_on_UBIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un informe sobre la escuela de Internet El Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michael_MacIsaac/A_Report_on_Young_Readers">
+          <span class="pr-2">Un informe sobre los lectores jóvenes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -34,7 +34,7 @@ dateCreated: 2023-9-16T10:55:6Z
 Janet Nielsen
 Portland, Oregon, USA
 
-**Of all the human virtues, loyalty is the keystone. Loyalty in human decision is a true indicator of spiritual integrity in an individual. Spiritual growth cannot take place without its presence. In the progression of personality, loyalty precedes even love. Cosmic morality is founded in the “interaction between liberty and loyalty” ([UB 39:4.10](/en/The_Urantia_Book/39#p4_10)). Jesus does not demand sacrifice from us, but he does require our loyalty.**
+**Of all the human virtues, loyalty is the keystone. Loyalty in human decision is a true indicator of spiritual integrity in an individual. Spiritual growth cannot take place without its presence. In the progression of personality, loyalty precedes even love. Cosmic morality is founded in the “interaction between liberty and loyalty” (<a id="a36_337"></a>[UB 39:4.10](/en/The_Urantia_Book/39#p4_10)). Jesus does not demand sacrifice from us, but he does require our loyalty.**
 
 
 Congratulations, fellow IUA members! Your presence on this roster is a testimony that your loyalties are sound and discerning. Your membership signifies that you wish to co-operate. To learn “how to plan with other and wiser beings.” That you wish to give credit where credit is due. Though there may not be material reward for your loyalty, in eternity, true liberty is the reward of true loyalty.During the past decade, all sincere readerbelievers of _The URANTIA Book_ have had their faith and loyalties severely tested. We have been asked to participate in many dubious undertakings: outfitting bunkers to prepare for a worldwide catastrophe, listening to “channeled” pronouncements at Urantia study group meetings, even being asked to help finance the printing of unauthorized versions of _The URANTIA Book_, and assist in the overthrow of the URANTIA Foundation's possession of the copyright of the revelation text and symbols.
@@ -49,9 +49,9 @@ You and all IUA members are acting as a sea wall against the degradation of the 
 
 There are many salient quotes listed in the Concordance under “loyalty.” After reading these, can there be any doubt that combined with love, loyalty is the glue of the universe?
 
-> _What is loyalty? It is the fruit of an intelligent appreciation of universe brotherhood; one could not take so much and give nothing. As you ascend the personality scale, first you learn to be loyal, then to love, then to be filial, and then may you be free; but not until you are a finaliter, not until you have attained perfection of loyalty, can you self-realize finality of liberty._ [UB 39:4.11](/en/The_Urantia_Book/39#p4_11)
+> _What is loyalty? It is the fruit of an intelligent appreciation of universe brotherhood; one could not take so much and give nothing. As you ascend the personality scale, first you learn to be loyal, then to love, then to be filial, and then may you be free; but not until you are a finaliter, not until you have attained perfection of loyalty, can you self-realize finality of liberty._ <a id="a51_391"></a>[UB 39:4.11](/en/The_Urantia_Book/39#p4_11)
 
-> _Is loyalty-devotion to highest duty-desirable? Then must man carry on amid the possibilities of betrayal and desertion. The valor of devotion to duty consists in the implied danger of default._ [UB 3:5.12](/en/The_Urantia_Book/3#p5_12)
+> _Is loyalty-devotion to highest duty-desirable? Then must man carry on amid the possibilities of betrayal and desertion. The valor of devotion to duty consists in the implied danger of default._ <a id="a53_197"></a>[UB 3:5.12](/en/The_Urantia_Book/3#p5_12)
 
 <figure class="table chapter-navigator">
   <table>

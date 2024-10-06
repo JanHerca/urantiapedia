@@ -69,7 +69,7 @@ Je vous ai rappelé jusqu'à présent que les superviseurs célestes d'Urantia m
 
 Et parmi tous les corps d'urgence de sélectionneurs mortels sur Urantia, aucun n'est chargé d'une obligation plus solennelle que notre groupe. Nous avons été appelés à la grande œuvre consistant à faire le premier pas pour offrir à l’homme mortel une nouvelle lumière, une nouvelle révélation de l’amour de Dieu. La religion du jogging et du trot facile d’autrefois ne suffit plus à relever les défis d’aujourd’hui. Suivre le mode de vie de Jésus nécessite un acte d'engagement total, une intention dévouée, un objectif résolu, un appel de la trompette à une vie sans compromis.
 
-Dieu a pourvu à la vision et à l'appel. La réponse doit être la nôtre. Il existe des mesures que nous pouvons prendre pour nous aider à relever ce défi :
+Dieu a pourvu à la vision et à l'appel. La réponse doit être la nôtre. Il existe des mesures que nous pouvons prendre pour nous aider à relever ce défi :
 
 Premièrement, nous devons cultiver le pouvoir d’envisager notre part dans l’amélioration du monde.
 

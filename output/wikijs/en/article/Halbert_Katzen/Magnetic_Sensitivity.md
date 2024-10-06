@@ -3,7 +3,7 @@ title: "Magnetic Sensitivity Report"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Biology, Genetics
+tags: Biology, Genetics, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -312,7 +312,9 @@ http://www.biophysics.uwa.edu.au/magnetite.html
 
 ## External links
 
-* This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/Magnetic.pdf
+* [This report in UBTheNews webpage](https://ubannotated.com/wp-content/uploads/2018/03/Magnetic.pdf)
+* [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
@@ -339,11 +341,11 @@ http://www.biophysics.uwa.edu.au/magnetite.html
 [^1]: http://en.wikipedia.org/wiki/Magnetoception
 [^2]: http://en.wikipedia.org/wiki/Electromagnetism
 [^3]: http://wrt-intertext.syr.edu/ll2/samie.html
-[^4]: Urantia Book <a id="a341_19"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2)
+[^4]: Urantia Book <a id="a343_19"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2)
 [^5]: http://www.admissions.caltech.edu/about/milestones
 [^6]: http://www.affs.org/html/biomagnetism.html
 [^7]: http://www.abc.net.au/science/news/stories/s154625.htm
 [^8]: Howard C. Hughes: Sensory Exotica: a world beyond human experience; 1999, Ch. 10
 [^9]: http://www.abc.net.au/science/news/stories/s154625.htm
-[^10]: Urantia Book 101:4.5 <a id="a347_28"></a>[UB 101:4.5](/en/The_Urantia_Book/101#p4_5)
+[^10]: Urantia Book 101:4.5 <a id="a349_28"></a>[UB 101:4.5](/en/The_Urantia_Book/101#p4_5)
 

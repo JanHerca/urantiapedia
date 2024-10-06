@@ -42,9 +42,9 @@ Administrador
 <img src="/image/article/The_Arena/Korea-23-logo-150x150.jpg" alt="Korea 23 logo">
 </figure>
 
-Hay un número sustancial de lectores del Libro de Urantia en Corea que han estado estudiando la traducción coreana durante muchos años. Como son nuestro vecino más cercano de lectores en la región de Asia, queríamos compartir con ustedes sus últimas noticias sobre una próxima conferencia. Esta es la segunda conferencia celebrada por el Foro Urantia de Corea (UKF) y se llevará a cabo el 20 de agosto de 2023 en el Auditorio Forum Lotte Tower Sky 31 (el edificio más alto de Seúl, Corea). Tiene vista al panorama de Seúl y el río Han.
+Hay un número sustancial de lectores del _Libro de Urantia_ en Corea que han estado estudiando la traducción coreana durante muchos años. Como son nuestro vecino más cercano de lectores en la región de Asia, queríamos compartir con ustedes sus últimas noticias sobre una próxima conferencia. Esta es la segunda conferencia celebrada por el Foro Urantia de Corea (UKF) y se llevará a cabo el 20 de agosto de 2023 en el Auditorio Forum Lotte Tower Sky 31 (el edificio más alto de Seúl, Corea). Tiene vista al panorama de Seúl y el río Han.
 
-Les deseamos una conferencia muy exitosa y rezamos para que ayude a los estudiantes a profundizar su comprensión de los principios y valores del Libro de Urantia con la esperanza de difundir la revelación en su país.
+Les deseamos una conferencia muy exitosa y rezamos para que ayude a los estudiantes a profundizar su comprensión de los principios y valores del _Libro de Urantia_ con la esperanza de difundir la revelación en su país.
 <br style="clear:both;"/>
 
 Esto es lo que está previsto:

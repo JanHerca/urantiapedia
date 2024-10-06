@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Gary Farr<br>© 1999 Urantia Association International (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/1999_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — May 1999 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peep_Sober/The_Future_of_our_Planet_as_a_Known_and_Unknown_Reality">
+          <span class="pr-2">The Future of our Planet as a “Known” and “Unknown” Reality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 It seems to me that once again readers have focused on doing something immediately based on group consensus. Group study and social interaction have been replaced with “we need to do something now to spread the teachings.” In an effort to provide some help and to shed some light on our current situation, I would ask you to consider the following statements.
 
@@ -18,7 +42,7 @@ The new religion is the religion of the spirit of the living God dwelling in the
 
 The driving force behind this new religion is proof. It provides the religionist with indisputable proof of the reality of God.
 
-Our teachers tell us that the religionist “knows and knows now.” [[UB 102:2.4](/en/The_Urantia_Book/102#p2_4)]. The Master taught: “**You shall know** the truth, and the truth shall make you free.” [[UB 141:7.6](/en/The_Urantia_Book/141#p7_6) ; [UB 162:7.2](/en/The_Urantia_Book/162#p7_2); (Emphasis mine)] We are taught that justice is the basis of the divine plan, among others. If you faithfully believe that the Father is, and sincerely desire to do His will, He will reveal to you His present presence. This growing realization of His indwelling and your additional experiences provide proof to the human mind that it cannot be denied. The resulting changes and newly found peace will completely transform you. You will, in fact, be reborn.
+Our teachers tell us that the religionist “knows and knows now.” <a id="a44_65"></a>[[UB 102:2.4](/en/The_Urantia_Book/102#p2_4)]. The Master taught: “**You shall know** the truth, and the truth shall make you free.” <a id="a44_198"></a>[[UB 141:7.6](/en/The_Urantia_Book/141#p7_6) ; <a id="a44_245"></a>[UB 162:7.2](/en/The_Urantia_Book/162#p7_2); (Emphasis mine)] We are taught that justice is the basis of the divine plan, among others. If you faithfully believe that the Father is, and sincerely desire to do His will, He will reveal to you His present presence. This growing realization of His indwelling and your additional experiences provide proof to the human mind that it cannot be denied. The resulting changes and newly found peace will completely transform you. You will, in fact, be reborn.
 
 You will be so changed that everyone you come in contact with will notice and search for what you have that they lack. Through this human contact, and through word, this new religion will spread inexorably throughout the planet. Word is the most effective method of disseminating new ideas and knowledge. Word is the second governing principle of the Urantia Foundation.
 
@@ -31,3 +55,27 @@ If, in the meantime, you wish to do something constructive, pray for the coming 
 Your brother,
 
 **Gary Farr**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/1999_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — May 1999 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-may-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — May 1999 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peep_Sober/The_Future_of_our_Planet_as_a_Known_and_Unknown_Reality">
+          <span class="pr-2">The Future of our Planet as a “Known” and “Unknown” Reality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

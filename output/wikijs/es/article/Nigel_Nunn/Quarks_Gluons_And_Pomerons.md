@@ -39,7 +39,7 @@ Canberra, Australia
 
 > _La energía está estrechamente emparentada con la divinidad cuando es la energía del Paraíso. Nos inclinamos a creer que la monota es la energía viviente y no espiritual del Paraíso —una contrapartida, desde la eternidad, de la energía viviente y espiritual del Hijo Original— ..._
 > 
-> _No podemos diferenciar entre la ***naturaleza*** del espíritu paradisiaco y la de la monota paradisiaca; son aparentemente semejantes. Tienen nombres diferentes, pero difícilmente se os pueden decir muchas cosas sobre una realidad cuyas manifestaciones espirituales y no espirituales sólo se pueden distinguir por el *nombre*._ ([LU 42:2.19-20](/es/The_Urantia_Book/42#p2_19))
+> _No podemos diferenciar entre la ***naturaleza*** del espíritu paradisiaco y la de la monota paradisiaca; son aparentemente semejantes. Tienen nombres diferentes, pero difícilmente se os pueden decir muchas cosas sobre una realidad cuyas manifestaciones espirituales y no espirituales sólo se pueden distinguir por el *nombre*._ (<a id="a41_332"></a>[LU 42:2.19-20](/es/The_Urantia_Book/42#p2_19))
 
 Al proyectar energía del reino absoluto a la región restringida que llamamos universo maestro, surgió la posibilidad de reorganizar esa energía sin cesar. Y durante los últimos cien años, el trabajo importante y cada vez más rentable de los físicos ha sido mapear estos reordenamientos.
 
@@ -67,7 +67,7 @@ Recordemos el documento 42: Energía: mente y materia. En 42:6.4-6, en la secci�
 > 
 > _La atracción mutua mantiene unidos a cien ultimatones en la formación de un electrón_
 > 
-> _Los ultimatones no describen órbitas ni giran en circuitos dentro de los electrones, pero se separan o se agrupan de acuerdo con sus velocidades de rotación axiales, determinando así las dimensiones electrónicas diferenciales. Esta misma velocidad ultimatónica de rotación axial también determina las reacciones positivas o negativas de los diversos tipos de unidades electrónicas. Toda la separación y el agrupamiento de la materia electrónica, junto con la diferenciación eléctrica de los cuerpos negativos y positivos de la energía-materia, son provocados por estas diversas funciones de las interasociaciones ultimatónicas componentes._ ([LU 42:6.4-6](/es/The_Urantia_Book/42#p6_4))
+> _Los ultimatones no describen órbitas ni giran en circuitos dentro de los electrones, pero se separan o se agrupan de acuerdo con sus velocidades de rotación axiales, determinando así las dimensiones electrónicas diferenciales. Esta misma velocidad ultimatónica de rotación axial también determina las reacciones positivas o negativas de los diversos tipos de unidades electrónicas. Toda la separación y el agrupamiento de la materia electrónica, junto con la diferenciación eléctrica de los cuerpos negativos y positivos de la energía-materia, son provocados por estas diversas funciones de las interasociaciones ultimatónicas componentes._ (<a id="a69_645"></a>[LU 42:6.4-6](/es/The_Urantia_Book/42#p6_4))
 
 En estos párrafos, el narrador parece estar insinuando que tanto los electrones como las partículas nucleares (protones y neutrones) comparten la misma naturaleza fundamental, siendo disposiciones de ultimatones. Las diferencias entre las partículas surgen de la diferente disposición de sus componentes. (Tenga en cuenta que los experimentos de HERA investigan el protón. El electrón todavía desafía nuestras sondas).
 
@@ -77,11 +77,11 @@ Los resultados de HERA incluyen mucha discusión y especulación sobre el color,
 
 Sobre la cuestión del mesón/mesotrón, recuerde lo siguiente del Documento 42:
 
-> _Los protones cargados y los neutrones no cargados del núcleo del átomo se mantienen unidos gracias al funcionamiento alternativo del mesotrón, una partícula de materia 180 veces más pesada que el electrón. Sin esta disposición, la carga eléctrica transportada por los protones desorganizaría el núcleo atómico._ ([LU 42:8.3](/es/The_Urantia_Book/42#p8_3))
+> _Los protones cargados y los neutrones no cargados del núcleo del átomo se mantienen unidos gracias al funcionamiento alternativo del mesotrón, una partícula de materia 180 veces más pesada que el electrón. Sin esta disposición, la carga eléctrica transportada por los protones desorganizaría el núcleo atómico._ (<a id="a79_316"></a>[LU 42:8.3](/es/The_Urantia_Book/42#p8_3))
 
-> _El mesotrón hace que la carga eléctrica de las partículas nucleares sea lanzada sin cesar de un sitio para otro entre los protones y los neutrones. Durante una fracción infinitesimal de segundo, una partícula nuclear dada es un protón cargado, y a la fracción siguiente es un neutrón no cargado. Estas alternancias del estado energético son tan increíblemente rápidas que la carga eléctrica no tiene la menor oportunidad de funcionar como influencia disruptiva. El mesotrón funciona así como una partícula «portadora de energía» que contribuye poderosamente a la estabilidad nuclear del átomo._ ([LU 42:8.4](/es/The_Urantia_Book/42#p8_4))
+> _El mesotrón hace que la carga eléctrica de las partículas nucleares sea lanzada sin cesar de un sitio para otro entre los protones y los neutrones. Durante una fracción infinitesimal de segundo, una partícula nuclear dada es un protón cargado, y a la fracción siguiente es un neutrón no cargado. Estas alternancias del estado energético son tan increíblemente rápidas que la carga eléctrica no tiene la menor oportunidad de funcionar como influencia disruptiva. El mesotrón funciona así como una partícula «portadora de energía» que contribuye poderosamente a la estabilidad nuclear del átomo._ (<a id="a81_599"></a>[LU 42:8.4](/es/The_Urantia_Book/42#p8_4))
 
-> _El mesotrón explica ciertas propiedades cohesivas del núcleo atómico, pero no da cuenta de la cohesión entre los protones ni de la adhesión entre los neutrones. La fuerza paradójica y poderosa que asegura la integridad cohesiva atómica es una forma de energía que aún no se ha descubierto en Urantia._ ([LU 42:8.6](/es/The_Urantia_Book/42#p8_6))
+> _El mesotrón explica ciertas propiedades cohesivas del núcleo atómico, pero no da cuenta de la cohesión entre los protones ni de la adhesión entre los neutrones. La fuerza paradójica y poderosa que asegura la integridad cohesiva atómica es una forma de energía que aún no se ha descubierto en Urantia._ (<a id="a83_306"></a>[LU 42:8.6](/es/The_Urantia_Book/42#p8_6))
 
 En HERA ha estado sucediendo algo extraño en aproximadamente una décima parte de sus colisiones de alta energía. Normalmente, un electrón choca con un protón y elimina violentamente un quark, que emerge en forma de un chorro de nuevas partículas. El resto del protón está tan alterado que se rompe, y los quarks y gluones que lo componen se recombinan para formar varias partículas incoloras. Sin embargo, aproximadamente una de cada diez colisiones no produce esta perturbación explosiva. En cambio, lo que parece ser una «isla incolora» (un componente completamente incoloro) se desprende limpiamente del protón.
 
@@ -89,7 +89,7 @@ En HERA ha estado sucediendo algo extraño en aproximadamente una décima parte 
 
 Una posible explicación involucra un objeto casi olvidado llamado «pomeron». La idea de un objeto de este tipo fue planteada por primera vez por el físico ruso Isaac Pomeranchuk en 1958. Predijo la existencia de un objeto que no tiene propiedades excepto energía y momento. Se especula que en el diez por ciento de las colisiones inusuales registradas en HERA se desprende un objeto de este tipo.
 
-¿Podemos los lectores del Libro de Urantia especular que en realidad se trata de un ultimáton que se está desprendiendo?
+¿Podemos los lectores del _Libro de Urantia_ especular que en realidad se trata de un ultimáton que se está desprendiendo?
 
 ¿Ha detectado la raza humana su primer ultimáton aislado?
 

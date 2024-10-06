@@ -49,7 +49,7 @@ We could revise our personal models and join his growing team as best as we can,
 
 ## References
 
-- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [Journal newsletter](https://urantia-association.org/newsletter/ncategory/journal/)
 - [This issue](https://urantia-association.org/newsletter/journal-may-2020/)
 - [This article](https://urantia-association.org/managing-your-model)
 

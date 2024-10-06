@@ -9,8 +9,32 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Dorothy Elder<br>© 1999 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bhagavan_Buritz/The_Delhi_Book_Fair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le salon du livre de New Delhi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-décembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Décembre 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Van_Woert/IUA_Outreach">
+          <span class="pr-2">La propagation de l'AUI</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-Le premier semestre de l'Ecole Internet du _Livre d'Urantia_ (l'EILU; en anglais : UBIS), s'est terminé le 6 décembre 1999, en ayant présenté huit classes, aux lecteurs de langue anglaise ou comprenant l'anglais, de nombreux pays du monde entier. Ma première évaluation du premier semestre du programme EILU, est que ce fut un grand succès. Nous avons eu $100 \%$ d'inscrits dans toutes les classes. Un planning minutieux et beaucoup d'attention donnée aux détails techniques ont été bénéfiques pour les inscriptions. Un système de fonctionnement efficace a été développé, et ceci est la pierre angulaire du succès du programme. Depuis le début, les lecteurs y ont attaché un grand intérêt. J'ai reçu des demandes de renseignements pratiquement tous les jours. Nos cours ont été donnés à des étudiants d'Amérique du Sud, du Canada, de la Nouvelle-Zélande, de Grande Bretagne et en particulier d'un jeune lecteur moscovite en Russie.
+
+Le premier semestre de l'Ecole Internet du _Livre d'Urantia_ (l'EILU; en anglais : UBIS), s'est terminé le 6 décembre 1999, en ayant présenté huit classes, aux lecteurs de langue anglaise ou comprenant l'anglais, de nombreux pays du monde entier. Ma première évaluation du premier semestre du programme EILU, est que ce fut un grand succès. Nous avons eu 100% d'inscrits dans toutes les classes. Un planning minutieux et beaucoup d'attention donnée aux détails techniques ont été bénéfiques pour les inscriptions. Un système de fonctionnement efficace a été développé, et ceci est la pierre angulaire du succès du programme. Depuis le début, les lecteurs y ont attaché un grand intérêt. J'ai reçu des demandes de renseignements pratiquement tous les jours. Nos cours ont été donnés à des étudiants d'Amérique du Sud, du Canada, de la Nouvelle-Zélande, de Grande Bretagne et en particulier d'un jeune lecteur moscovite en Russie.
 
 ## Commentaires de deux des professeurs
 
@@ -57,3 +81,27 @@ Nous devons commencer l'automne 2000 avec un noyau de 16 professeurs, chacun d'e
 La méthode socratique commencera lentement à se développer. De cette manière, elle insufflera dans toute notre communauté de lecteurs une plus agréable et effective relation entre professeurs et lecteurs. La méthode socratique préserve mieux la voie du Maitre, et une dissémination mondiale de ses enseignements sera bien mieux accomplie par ceux ayant été soumis à cette méthode. Notre projet EILU peut être le premier pas dans la bonne direction vers ce temps futur.
 
 L'Ecole Internet du Livre d'Urantia est un projet dont le service est uniquement dédié à l'étude du Livre d'Urantia. Nous vous invitons à en lire davantage à propos de ses buts et de sa philosophie sur le site Web de la Fondation Urantia, www.urantia.org, et nous espérons que vous serez nombreux à nous joindre dans ce projet. Si vous êtes un lecteur de longue date avec une expérience pédagogique (formelle ou informelle), si vous avez du temps libre et des aptitudes avec Internet, contactez Dorothy Elder à delder03@sprynet.com si vous désirez faire candidature en tant que professeur-animateur. Nous espérons avoir de vos nouvelles.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bhagavan_Buritz/The_Delhi_Book_Fair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le salon du livre de New Delhi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-décembre-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Décembre 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Van_Woert/IUA_Outreach">
+          <span class="pr-2">La propagation de l'AUI</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Gary Farr<br>© 1999 Association Internationale Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/1999_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Mai 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peep_Sober/The_Future_of_our_Planet_as_a_Known_and_Unknown_Reality">
+          <span class="pr-2">L'Avenir de notre Planète Comme Réalité « Connue» et «Inconnue»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Une fois de plus, il apparaît que le centre d'intérêt du lectorat est de venu quelque chose immédiatement basé sur le consensus de groupe. L'étude de groupe et l'interaction sociale ont été remplacés par «nous devons faire quelque chose maintenant pour la dissémination des enseignements $»$. Dans un effort pour fournir quelque assistance et éclairer notre situation présente, je voudrais vous demander de considérer les formulations suivantes.
 
@@ -18,7 +42,7 @@ La nouvelle religion est la religion de l'esprit du Dieu vivant qui habite le me
 
 La force active derrière cette nouvelle religion en est la preuve. Elle fournit aux religieux la preuve indéniable de la réalité de Dieu.
 
-Nos instructeurs nous enseignent que le religieux _sait, et il sait maintenant_ [[LU 102:2.4](/fr/The_Urantia_Book/102#p2_4)]. Le Maître enseignait « vous **connaîtrez** la vérité, et la vérité vous affranchira » [[LU 141:7.6](/fr/The_Urantia_Book/141#p7_6) ; [LU 162:7.2](/fr/The_Urantia_Book/162#p7_2); mon choix]. Nous sommes informés que l'équité est la base du plan divin, parmi d'autres. Si vous pensez vraiment que le Père est, et que vous souhaitez sincèrement faire sa volonté, il vous révélera sa présence réelle. Cette réalisation croissante de sa présence intérieure et l'expérience future en fournissent la preuve indéniable au mental humain. Les changements en résultant et la paix nouvellement trouvée vous transformeront complètement. Vous serez en fait né à nouveau.
+Nos instructeurs nous enseignent que le religieux _sait, et il sait maintenant_ <a id="a44_80"></a>[[LU 102:2.4](/fr/The_Urantia_Book/102#p2_4)]. Le Maître enseignait « vous **connaîtrez** la vérité, et la vérité vous affranchira » <a id="a44_213"></a>[[LU 141:7.6](/fr/The_Urantia_Book/141#p7_6) ; <a id="a44_260"></a>[LU 162:7.2](/fr/The_Urantia_Book/162#p7_2); mon choix]. Nous sommes informés que l'équité est la base du plan divin, parmi d'autres. Si vous pensez vraiment que le Père est, et que vous souhaitez sincèrement faire sa volonté, il vous révélera sa présence réelle. Cette réalisation croissante de sa présence intérieure et l'expérience future en fournissent la preuve indéniable au mental humain. Les changements en résultant et la paix nouvellement trouvée vous transformeront complètement. Vous serez en fait né à nouveau.
 
 Vous serez tellement transformés que tous ceux qui seront en contact avec vous, remarquerons et chercherons ce qui est en vous et qu'ils n'ont pas. Par ce contact humain et le bouche à oreille, cette nouvelle religion se répandra inexorablement à travers cette planète. Le bouche à oreille est la méthode la plus effective pour répandre ces idées nouvelles et cette connaissance. Le bouche à oreille est le second de ces principes directeurs de la Fondation Urantia.
 
@@ -31,3 +55,27 @@ Si dans l'intervalle, vous souhaitez faire quelque chose de constructif, priez p
 Votre frère,
 
 **Gary Farr**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/IUA_Journal/1999_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de l'IUA — Mai 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_iua_journal#journal-mai-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mai 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peep_Sober/The_Future_of_our_Planet_as_a_Known_and_Unknown_Reality">
+          <span class="pr-2">L'Avenir de notre Planète Comme Réalité « Connue» et «Inconnue»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

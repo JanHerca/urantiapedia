@@ -28,7 +28,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-## Adoptez la citoyenneté cosmique !
+## Adoptez la citoyenneté cosmique !
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2007_Spring/005648.jpg">
@@ -79,7 +79,7 @@ Nous avons également besoin de meilleurs supports destinés à attirer un nouve
 
 Veuillez écrire et proposer vos suggestions à Don Green à dsgreen1@comcast.net.
 
-Meilleurs vœux du groupe UCB Geezer : Don Green, Stan Hartman, Kristen Michaels, Eric Shaveland et Larry Watkins.
+Meilleurs vœux du groupe UCB Geezer : Don Green, Stan Hartman, Kristen Michaels, Eric Shaveland et Larry Watkins.
 
 ## Un acte de foi
 
@@ -106,7 +106,7 @@ Chers amis,
 Au moment d’écrire ces lignes, 921 livres Pipeline ont été distribués dans 57 pays à travers le monde. Vous apprécierez peut-être de lire les commentaires des personnes qui ont reçu des livres grâce à vos généreux dons au Pipeline of Light.
 - **Italie** : Je suis très, très content de cette nouvelle ! Merci! Hier, j'ai reçu le colis avec le livre. OUAH! Le soir, je le lisais déjà... Merci ! Votre livre est le plus beau cadeau que je puisse recevoir pour Noël !! MERCI!!
 - **Afrique du Sud** : Bonne nouvelle !! Cette semaine, les dix livres donnés par Pipeline of Light et Urantia Fellowship à Johannesburg seront placés dans dix bibliothèques de référence, une dans chacun des dix districts régionaux de la ville. Nous sommes très enthousiasmés par nos progrès et nous ne saurions trop vous remercier. Vous avez été une source d’inspiration et une aide et un soutien si précieux pour nous ici à Johannesburg.
-- **Égypte** : (Il a fallu plusieurs jours pour que le livre qui leur restait soit déposé à la bibliothèque principale, car plusieurs d'entre eux se disputaient pour le consulter.) Veuillez noter que la bibliothèque publique de Moubarak a accepté _Le Le Livre d'Urantia_ et il est maintenant disponible pour le public. Ils vous remercient beaucoup pour ce précieux livre et bien sûr moi, je vous remercie beaucoup. Je reviendrai vers vous prochainement pour quelques questions concernant le livre.
+- **Égypte** : (Il a fallu plusieurs jours pour que le livre qui leur restait soit déposé à la bibliothèque principale, car plusieurs d'entre eux se disputaient pour le consulter.) Veuillez noter que la bibliothèque publique de Moubarak a accepté _Le Le Livre d'Urantia_ et il est maintenant disponible pour le public. Ils vous remercient beaucoup pour ce précieux livre et bien sûr moi, je vous remercie beaucoup. Je reviendrai vers vous prochainement pour quelques questions concernant le livre.
 - **Philippines** : Je viens de recevoir _Le Livre d'Urantia_ que je vous avais demandé et je suis probablement la première et la seule personne dans mon pays à avoir un exemplaire de ce livre. Encore une fois, merci beaucoup d'avoir accordé ma faveur. Que le Père céleste vous accorde davantage de bénédictions.
 - **Zambie** : J'écris pour accuser réception des Livres mentionnés ci-dessus et deuxièmement pour vous remercier de soutenir cette autorité locale et de votre engagement démontré en livrant personnellement les Livres. Veuillez encourager les autres sympathisants à imiter votre bon geste. Nous vous souhaitons les bénédictions de Dieu pour le matériel de lecture éducatif.
 - **République de Guinée** : Le Père Louis vous écrit pour vous remercier tous pour les Ubooks pour N'Zérékoré. Les lecteurs réfugiés de l’LU rentrent chez eux au Libéria et en Sierra Leone depuis la Guinée. Ils diffuseront la bonne nouvelle. Nous vous tiendrons au courant de leurs progrès et prions pour ces frères, sœurs et les orphelins de l’LU.
@@ -129,7 +129,7 @@ La Société du Grand Canyon a organisé une charmante réunion pour le Conseil 
 
 ## Contactez-nous pour la sensibilisation
 
-Le comité de sensibilisation est à la recherche de bénévoles pour aider dans les domaines suivants :
+Le comité de sensibilisation est à la recherche de bénévoles pour aider dans les domaines suivants :
 1. Hôte de sensibilisation du public. Stands aux Expos, salons du livre, campus, etc. Les tâches comprendraient la réservation de l’événement, la conception et la fabrication (ou la demande) d'un stand, l’obtention de matériel de stand tel que des dépliants, des livres, etc., et l’inscription de bénévoles pour aider à l’événement. .
 2. Développer du matériel promotionnel. Êtes-vous un bon écrivain ? Créatif? Bon sur PhotoShop ? Nous pouvons utiliser de nombreux types de matériel d’information pour atteindre une grande variété de personnes qui seraient ouvertes à la révélation.
 3. Bureau des conférenciers. Cela implique un perfectionnement continu des compétences orales et une volonté de parler dans des lieux publics. Un ou plusieurs agents de réservation sont nécessaires pour promouvoir nos conférenciers et trouver des opportunités de parole leur permettant de partager leur message avec un public plus large.
@@ -140,7 +140,7 @@ Pour plus de détails, contactez le président du comité de sensibilisation, Th
 ## Tu devrais savoir …
 
 - Les nouveaux documents sur le site Web incluent la version audio complète du _Le Livre d'Urantia_ tirée du DVD d'Uversa Press. Chaque section du texte en ligne contient un lien vers le fichier audio correspondant qui peut être lu sur votre ordinateur. www.urantiabook.org/newbook/index.html
-- Vous êtes-vous déjà demandé quels étaient les mots étranges créés par les auteurs du _Livre d'Urantia_ ? Chris Halvorson a créé un guide très informatif sur l’étymologie des nouveaux mots utilisés dans _Le Livre d'Urantia_. Accédez à la section « Quoi de neuf ? » page sur le site Web à l’adresse www.urantiabook.org/whatsnew.htm et suivez le lien.
+- Vous êtes-vous déjà demandé quels étaient les mots étranges créés par les auteurs du _Livre d'Urantia_ ? Chris Halvorson a créé un guide très informatif sur l’étymologie des nouveaux mots utilisés dans _Le Livre d'Urantia_. Accédez à la section « Quoi de neuf ? » page sur le site Web à l’adresse www.urantiabook.org/whatsnew.htm et suivez le lien.
 - Si vous modifiez votre adresse e-mail, n'oubliez pas de mettre à jour ces informations pour toutes les listes de diffusion de la Fellowship auxquelles vous pourriez être abonné. Au bas de chaque message que vous recevez de la liste se trouve un lien sur lequel vous pouvez cliquer pour modifier les informations de votre abonnement. Chaque liste est unique, donc si vous vous abonnez à plusieurs listes, par exemple Socadmin et Council, vous devrez modifier les informations de chaque liste séparément.
 - Les Nouvelles d'Urantia par E-mail ? Si vous souhaitez vous abonner à la mise à jour mensuelle de la communauté de la Fellowship contenant des nouvelles de dernière minute sur le travail de la révélation, vous pouvez le faire à http://urantiabook.org/suscribe.htm. Votre adresse e-mail est tout ce dont vous avez besoin pour vous abonner car vous recevez déjà le Mighty Messenger.
 
@@ -148,7 +148,7 @@ Pour plus de détails, contactez le président du comité de sensibilisation, Th
 ## Personnel du « The Mighty Messenger »
 
 Publié par Uversa Press pour le comité des publications de la _The Urantia Book_ Fellowship.
-Membres : Linda Buselli, présidente Lynda D'Arcangelo, Laura Hay, Nancy Johnson, Joe Liszka, Sage Waitts
+Membres : Linda Buselli, présidente Lynda D'Arcangelo, Laura Hay, Nancy Johnson, Joe Liszka, Sage Waitts
 877.288.3772
 bourse@urantiabook.org
 www.urantiabook.org
@@ -156,7 +156,7 @@ www.urantiabook.org
 
 ## Liens externes
 
-* Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
+* Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
 
 
 

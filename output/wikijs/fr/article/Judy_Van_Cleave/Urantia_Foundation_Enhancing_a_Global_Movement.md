@@ -48,11 +48,11 @@ Le conseil d’administration élargi des trustees s’est réuni en octobre pou
 
 Les deux dernières années furent dédiées à la stratégie et à la planification, et nos efforts ont abouti en un Conseil Consultatif Culturel. Ce nouveau conseil sera composé de personnes de différentes cultures du monde, dont chacune est dévouée à l’étude et à la dissémination du _Livre d’Urantia_ et de ses enseignements.
 
-L’objectif de ce conseil est de faciliter la mission de la Fondation Urantia en semant _Le Livre d’Urantia_ et ses enseignements mondialement ; d’augmenter la conscience culturelle, la compassion et la sagesse de nos efforts de dissémination ; de permettre aux membres du conseil de se familiariser avec la Fondation Urantia — sa mission, sa vision et ses valeurs ; de favoriser le partenariat entre les membres du conseil et la Fondation pour aider le lectorat dans leurs cultures respectives ; et de faciliter les relations et la compréhension mutuelle parmi les membres du conseil.
+L’objectif de ce conseil est de faciliter la mission de la Fondation Urantia en semant _Le Livre d’Urantia_ et ses enseignements mondialement ; d’augmenter la conscience culturelle, la compassion et la sagesse de nos efforts de dissémination ; de permettre aux membres du conseil de se familiariser avec la Fondation Urantia — sa mission, sa vision et ses valeurs ; de favoriser le partenariat entre les membres du conseil et la Fondation pour aider le lectorat dans leurs cultures respectives ; et de faciliter les relations et la compréhension mutuelle parmi les membres du conseil.
 
 Le prochain défi était de sélectionner les quatre premiers membres. Nous cherchions des personnes qui démontraient des qualités de leadership potentiel, qui avaient la capacité et la volonté de travailler avec et dans une équipe, et qui parleraient au moins deux langues — si possible incluant l’anglais.
 
-Les personnes suivantes acceptèrent notre invitation à être les premiers membres de ce conseil :
+Les personnes suivantes acceptèrent notre invitation à être les premiers membres de ce conseil :
 
 ![Stephy (Yi-Hsuan) Hsu](http://www.urantia.org/sites/default/files/images/Stephy-Yi-Hsuan-Hsu-350x541.jpg "Stephy (Yi-Hsuan) Hsu")  
 

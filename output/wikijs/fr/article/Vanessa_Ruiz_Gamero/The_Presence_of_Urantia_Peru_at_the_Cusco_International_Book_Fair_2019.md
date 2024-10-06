@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-4-dec-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-4-décembre-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 4, Déc. 2019 — Table des matières</span>
         </a>
         </td>
@@ -44,11 +44,11 @@ Notre participation pour partager les enseignements du _Livre d’Urantia_ au Sa
 
 Dans ce magnifique endroit, nous n’avons pas seulement partagé des informations sur le livre, mais nous avons vraiment vécu l’expérience de créer des liens de fraternité ainsi que des échanges axés culturellement et spirituellement. Nous avons parlé du contenu du livre et ses interprétations avec les artisans de la galerie, avec des exposants du salon du livre et avec des visiteurs locaux, d’Amérique Latine et autres visiteurs internationaux qui étaient curieux. À cet effet, nous n’avions pas seulement des exemplaires du livre en espagnol mais aussi en anglais, portugais, français, allemand et néerlandais.
 
-Nous avons réunis une équipe de personnes qui parlaient non seulement l’espagnol mais aussi l’anglais, le portugais, et un peu d’allemand : Fanny Chuquillin de Trujillo ; Rita Barreda et Alonso Gonzales d’Arequipa ; Rubén Rodriguez de Lima ; Lourdes Burga-Ciceros ( présidente de l’Association Urantia Pérou), qui vit à Cusco ; Gustavo Quimper, aussi de Cusco ; et la rédactrice de cet article, Vanessa Ruiz de Lima.
+Nous avons réunis une équipe de personnes qui parlaient non seulement l’espagnol mais aussi l’anglais, le portugais, et un peu d’allemand : Fanny Chuquillin de Trujillo ; Rita Barreda et Alonso Gonzales d’Arequipa ; Rubén Rodriguez de Lima ; Lourdes Burga-Ciceros ( présidente de l’Association Urantia Pérou), qui vit à Cusco ; Gustavo Quimper, aussi de Cusco ; et la rédactrice de cet article, Vanessa Ruiz de Lima.
 
 Durant la durée de cet événement, les gens venant à notre stand venaient de toutes sortes de pays, incluant les États-Unis, le Canada, l’Espagne, le Portugal, la Colombie, le Brésil, l’Argentine, l’Uruguay, l’Allemagne, la Suède, la Finlande, le Danemark, l’Afrique du Sud, la Chine et le Japon. Nous eûmes aussi des contacts avec des péruviens de différentes provinces comme Huánuco, Huancayo, Puno, Ayacucho et Lima, parmi tant d’autres. Cusco est un endroit cosmopolite qui attire des gens de nombreuses parties du monde en quête de croissance spirituelle.
 
-Cette occasion nous permit de réaliser plusieurs choses : de distribuer des prospectus avec des informations sur _Le Livre d’Urantia_ ; d’avoir des contacts avec des touristes étrangers et péruviens ainsi qu’avec des personnes locales, dont certains étaient des enseignants et des étudiants en sortie pédagogique au salon du livre ; d’introduire le livre et ses enseignements ; et de promouvoir la prochaine conférence de l’Association Urantia Internationale, qui se tiendra dans la Vallée Sacrée des Incas près de Cusco, au Pérou, en Avril 2021.
+Cette occasion nous permit de réaliser plusieurs choses : de distribuer des prospectus avec des informations sur _Le Livre d’Urantia_ ; d’avoir des contacts avec des touristes étrangers et péruviens ainsi qu’avec des personnes locales, dont certains étaient des enseignants et des étudiants en sortie pédagogique au salon du livre ; d’introduire le livre et ses enseignements ; et de promouvoir la prochaine conférence de l’Association Urantia Internationale, qui se tiendra dans la Vallée Sacrée des Incas près de Cusco, au Pérou, en Avril 2021.
 
 Bien sûr, nous avons aussi passé du temps à nous promener et à profiter du soleil et du magnifique ciel andin, et à faire connaissance avec cette ville captivante et magique — la capitale de l’ancien empire des Incas, un site au patrimoine mondial de l’ UNESCO.
 
@@ -75,7 +75,7 @@ Cette expérience nous a motivé à persévérer dans la dissémination des ense
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-4-dec-2019">
+        <a href="/fr/index/articles_uf_news_online#volume-13-numéro-4-décembre-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 4, Déc. 2019 — Table des matières</span>
         </a>
         </td>

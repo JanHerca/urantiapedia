@@ -38,7 +38,7 @@ Vous devez étudier à nouveau l’époque de Jésus sur la terre. Vous devez pr
 
 - De la Fondation Urantia : [Une histoire du mouvement Urantia](https://www.urantia.org/urantia-foundation/history), par le Dr William S. Sadler
 - De [IUA](https://urantia-association.org/a-notre-sujet/gouvernance-et-politiques/le-mandat-de-publication/?lang=fr)
-- Extrait de l'IUA : [Une histoire du mouvement Urantia](https://urantia-association.org/une-histoire-du-mouvement-urantia/?lang=fr), par le Dr William S. Sadler
+- Extrait de l'IUA : [Une histoire du mouvement Urantia](https://urantia-association.org/une-histoire-du-mouvement-urantia/?lang=fr), par le Dr William S. Sadler
 
 [Ce document a été présenté par William S. Sadler Junior au Forum à la date ci-haut mentionnée. Pour l’intelligibilité plus vaste des auditeurs, les pronoms ont été modifiés, C.A.D, nous avons introduit des « nous » au lieu des « vous ». Pour cette raison, nous les avons retournés sous leur forme originale. Des copies de ce document ont été insérées dans le livre des minutes du secrétaire de chaque comité en fonction de la Brotherhood. Les présidents de comités ont reçu des copies.]
 

@@ -92,6 +92,7 @@ LaTeX | Markdown
 `\\par ` | `\n`
 `\\textit\{([^\}]+)\}` | `_$1_`
 `\\bigbreak` | ``
+`"\+--` | `—`
 `\\section\*\{([^\}]+)\}` | `## $1`
 `\\noindent \\textsc\{([^\}]+)\}` | `<span style="font-variant:small-caps;">$1</span>`
 `\\begin\{itemize\}` | ``
@@ -101,6 +102,9 @@ LaTeX | Markdown
 `\\begin\{displayquote\}` | `> `
 `\n\\end\{displayquote\}` | ``
 `\{\\footnotesize (\d+)\}` | `<sup><small>$1</small></sup>`
+`\\hangindent=1\.0cm \{\\small ([^\}]+)\}` | `$1`
+`\{\\url\{([^\}]+)\}\}` | `$1`
+`\{\\myurl\{([^\}]+)\}\}` | `$1`
 
 ### Other replacements
 
@@ -310,6 +314,25 @@ with this:
 </figure>
 ```
 
+Replace this:
+
+`!\[\]\((.+)\)`
+
+with this:
+
+```html
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Reflectivite/2023_12/001.jpg">
+<figcaption>xxxxx</figcaption>
+</figure>
+```
+
+<a href="https://bit.ly/4fSzbc5">
+<figure id="Figure_2" class="image urantiapedia">
+<img src="/image/article/UF_News_Online/2021_04/038.jpg">
+</figure>
+</a>
+
 ## Emojis
 
 - The Urantia Book :blue_book: (`:blue_book:`)
@@ -389,10 +412,13 @@ bourse|Fellowship
 Bourse|Fellowship
 Fraternité|Fellowship
 Communauté|Fellowship
+« clear:les deux; »|"clear:both;"
+( *)(Le )*Livre d['|’]Urantia([ |\.|,|;|:|\?|!])|$1_$2Livre d'Urantia_$3
+`^\[LU (\d{1,3}):(\d{1,2})\.(\d{1,3})\]\(/fr/The_Urantia_Book/(\d{1,3})#p(\d{1,2})_(\d{1,3})\) \(\d{1,4}\.\d{1,2}\) *(.+)`|`> $7 [LU $1:$2.$3](/fr/The_Urantia_Book/$4#p$5_$6)`
 
 **ES**
 
-Wrong | Right
+Wrong | ‘Right
 --- | ---
 ^título:|title:
 ^Título:|title:
@@ -435,3 +461,15 @@ Capernaúm or Capernaum | Cafarnaúm
 Nazareth | Nazaret
 
 &nbsp; 
+
+
+UBTheNews
+
+`\((\d{1,3}):(\d{1,2})\.(\d{1,3})\)  (.+)`
+`> $4 ([UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3))`
+
+`\[\((\d{1,3}):(\d{1,2})\.(\d{1,3})\)\]\((.+)\)  (.+)`
+`> $5 ([UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3))`
+
+`^\[\((\d{1,3}):(\d{1,2})\.(\d{1,3})\)\]\((.+)\)(.+)`
+`> $5 ([UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3))`

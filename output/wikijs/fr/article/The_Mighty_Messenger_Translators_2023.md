@@ -80,7 +80,7 @@ En 2004, j'ai participé à plusieurs reprises à un groupe d'étude du Livre d'
 
 ## Remarques
 
-[^1] : Un coordinateur de zone travaille à introduire _Le Livre d'Urantia_ ou ses concepts dans la société et à favoriser les rassemblements et les activités de tous les lecteurs du Livre d'Urantia dans une zone de leur définition. Ils interagissent également avec d'autres coordinateurs de zone pour créer un réseau. et partager de nouveaux apprentissages et techniques.
+[^1] : Un coordinateur de zone travaille à introduire _Le Livre d'Urantia_ ou ses concepts dans la société et à favoriser les rassemblements et les activités de tous les lecteurs du Livre d'Urantia dans une zone de leur définition. Ils interagissent également avec d'autres coordinateurs de zone pour créer un réseau. et partager de nouveaux apprentissages et techniques.
 
 <figure class="table chapter-navigator">
   <table>

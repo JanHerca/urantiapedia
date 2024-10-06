@@ -15,7 +15,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td>
         <a href="/fr/article/Patrick_Yesh/Avoidance_of_Selfishness_Living_Presence_of_God">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éviter l’égoïsme : vivre comme en présence de Dieu</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éviter l’égoïsme : vivre comme en présence de Dieu</span>
         </a>
         </td>
         <td>
@@ -39,7 +39,7 @@ par James G. Johnston
 
 L'essai suivant a été présenté sous la forme d'un atelier lors de la conférence de 1990. Il s’agit d’un résumé du sujet abordé lors de l’atelier.
 
-« Avertissez tous les croyants de la limite du conflit qui doit être traversée par tous ceux qui passent de la vie telle qu'elle est vécue dans la chair à la vie supérieure telle qu'elle est vécue dans l'esprit. Pour ceux qui vivent entièrement dans l’un ou l’autre domaine, il y a peu de conflits ou de confusion, mais tous sont condamnés à éprouver plus ou moins d’incertitude pendant les périodes de transition entre les deux niveaux de vie.
+« Avertissez tous les croyants de la limite du conflit qui doit être traversée par tous ceux qui passent de la vie telle qu'elle est vécue dans la chair à la vie supérieure telle qu'elle est vécue dans l'esprit. Pour ceux qui vivent entièrement dans l’un ou l’autre domaine, il y a peu de conflits ou de confusion, mais tous sont condamnés à éprouver plus ou moins d’incertitude pendant les périodes de transition entre les deux niveaux de vie.
 
 Il y a la vie dans la chair et il y a la vie dans l'esprit. Le premier représente un égoïsme total, le second un altruisme total. La plupart des gens vivent quelque part entre les deux, dans l’arène controversée du conflit intellectuel, de la confusion et du dilemme moral. Il y a une stabilité intellectuelle complète dans l’un ou l’autre des deux, mais pas dans les deux ensemble. Les personnes purement égoïstes n’ont aucune difficulté à faire des choix moraux : elles choisissent toujours ce qui semble être dans leur meilleur intérêt. Les personnes totalement altruistes n’ont aucun conflit. Ils choisissent toujours ce qui semble être dans le meilleur intérêt des personnes qu’ils aiment, et ils aiment la plupart des gens, et ils aiment la plupart des gens.
 
@@ -87,7 +87,7 @@ L’égoïsme détruira également les familles. La vie de famille exige un serv
 
 S’il se généralise, l’égoïsme détruira la civilisation. La société moderne dépend entièrement de ceux qui servent avec altruisme.
 
-L’illumination spirituelle de Dieu est éclipsée par l’égoïsme. Une personne totalement égoïste ne peut tout simplement pas connaître Dieu. L’un exclut l’autre. En éclipsant la lumière de Dieu, l’âme devient sombre et morte, insensible aux incitations constantes de la Source Première de l’univers, la présence de Dieu. « La lampe du corps, c'est l'œil ; si donc ton œil est généreux, tout ton corps sera plein de lumière. Mais si ton œil est égoïste, tout le corps sera rempli de ténèbres. Si la lumière même qui est en vous se transforme en ténèbres, combien grandes sont ces ténèbres ! »
+L’illumination spirituelle de Dieu est éclipsée par l’égoïsme. Une personne totalement égoïste ne peut tout simplement pas connaître Dieu. L’un exclut l’autre. En éclipsant la lumière de Dieu, l’âme devient sombre et morte, insensible aux incitations constantes de la Source Première de l’univers, la présence de Dieu. « La lampe du corps, c'est l'œil ; si donc ton œil est généreux, tout ton corps sera plein de lumière. Mais si ton œil est égoïste, tout le corps sera rempli de ténèbres. Si la lumière même qui est en vous se transforme en ténèbres, combien grandes sont ces ténèbres ! »
 
 L’amitié avec Dieu n’est pas accessible à celui qui a choisi de se placer en premier. À l’entrée d’un camp de scouts dans le sud du Michigan, il y a un panneau indiquant « Moi troisième ». Il est là pour rappeler à tous ceux qui entrent que leur engagement idéal est envers Dieu en premier, les autres en second et eux-mêmes en troisième. Le moi-ego verrait cet ordre inversé.
 
@@ -113,7 +113,7 @@ La maîtrise de soi est une question de maîtrise d’une dépendance belliqueus
       <tr>
         <td>
         <a href="/fr/article/Patrick_Yesh/Avoidance_of_Selfishness_Living_Presence_of_God">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éviter l’égoïsme : vivre comme en présence de Dieu</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éviter l’égoïsme : vivre comme en présence de Dieu</span>
         </a>
         </td>
         <td>

@@ -54,7 +54,7 @@ El proceso a seguir para el «Editor Jefe» será el siguiente:
 6. Estos *pull request* de los «Editores Jefe» son revisados por los «Administradores», que se encargan de hacer un *merge* con la rama principal (master) de todos aquellos cambios que estén correctos. Cualquier cambio que no esté correcto será rechazado y se notificará a los «Editores Jefe» para que los corrijan.
 7. Cuando los cambios están correctos y el «Administrador» hace un *merge* los cambios se suben automáticamente a la web y suelen estar disponibles en unos minutos dependiendo del número de cambios y su tipo.
 
-![](/image/github_workflow_version_2.png)
+![](/image/help/github_workflow_version_2.png)
 ## Configurar el proyecto Urantiapedia
 
 Antes de cualquier trabajo en la *Urantiapedia* usando GitHub debes configurar todas las herramientas necesarias. Consulta [Configurar el proyecto de GitHub](/es/help/github_setting).
@@ -80,7 +80,7 @@ Sobre las fases del proyecto consulta [Fases de la Urantiapedia](/es/help/phases
 
 Actualmente todas las tareas excepto la 2 han sido completadas.
 
-![](/image/formats.png)
+![](/image/help/formats.png)
 
 ### Fase II: Libros, artículos, ayudas de estudio, diagramas e índices
 

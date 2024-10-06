@@ -113,7 +113,7 @@ Caligastia entonces y ahora busca nada menos que privar a las almas susceptibles
 
 ### Razones del incumplimiento
 
-> _Aunque este proyecto para modificar el plan divino se había concebido y ejecutado con toda sinceridad y únicamente con los móviles más elevados para el bienestar del mundo, constituía un mal porque representaba la manera equivocada de conseguir unos fines justos{5}, porque se apartaba del camino recto, del plan divino._ (<a id="s115_326"></a>[LU 75:4.6](/es/The_Urantia_Book/75#p4_6))
+> _Aunque este proyecto para modificar el plan divino se había concebido y ejecutado con toda sinceridad y únicamente con los móviles más elevados para el bienestar del mundo, constituía un mal porque representaba la manera equivocada de conseguir unos fines justos, porque se apartaba del camino recto, del plan divino._ (<a id="s115_323"></a>[LU 75:4.6](/es/The_Urantia_Book/75#p4_6))
 
 Una vez más se produjo un incumplimiento porque la gente escuchó la insidiosa propaganda de la libertad personal y la libertad de acción planetaria. Y no sólo Eva, sino Serapatatia fue honesta y sincera en sus intenciones. Como él, tal vez no sabríamos que estamos ayudando e instigando a Caligastia. Estará apuntando a sus víctimas una vez más. Y la cita sobre la modificación del plan divino ya se puede aplicar a la quinta gran revelación.
 
@@ -151,7 +151,7 @@ Parece haber una tendencia natural a proteger los intereses creados denigrando a
 
 > «_Durante toda tu donación en Urantia sólo tienes que preocuparte de una sola cosa, de la comunión ininterrumpida entre tú y tu Padre Paradisiaco; la perfección de esa relación permitirá que el mundo de tu donación, e incluso todo el universo creado por ti, contemplen una revelación nueva y más comprensible de tu Padre y de mi Padre, del Padre Universal de todos._» (<a id="s151_371"></a>[LU 120:1.4](/es/The_Urantia_Book/120#p1_4))
 
-> «_La gran misión que debes realizar y experimentar en la encarnación mortal está contenida en tu decisión de vivir una vida totalmente dedicada a hacer la voluntad de tu Padre Paradisiaco{10}, y así *revelar a Dios*, tu Padre, en la carne y especialmente a las criaturas de carne._» (<a id="s153_286"></a>[LU 120:2.8](/es/The_Urantia_Book/120#p2_8))
+> «_La gran misión que debes realizar y experimentar en la encarnación mortal está contenida en tu decisión de vivir una vida totalmente dedicada a hacer la voluntad de tu Padre Paradisiaco, y así *revelar a Dios*, tu Padre, en la carne y especialmente a las criaturas de carne._» (<a id="s153_282"></a>[LU 120:2.8](/es/The_Urantia_Book/120#p2_8))
 
 Desde un punto de vista humano y universal, al considerar estos mandatos, Jesús no faltó en modo alguno a su misión.
 
@@ -191,7 +191,7 @@ El hecho de que la quinta revelación esté escrita presenta una circunstancia i
 
 > _Los autores del Nuevo Testamento y los escritores cristianos posteriores complicaron aún más la deformación de la historia hebrea mediante sus intentos bien intencionados por presentar a los profetas judíos como trascendentes. La historia hebrea ha sido así explotada desastrosamente por los escritores judíos y cristianos a la vez._ (<a id="s191_338"></a>[LU 97:8.6](/es/The_Urantia_Book/97#p8_6))
 
-> _En el entusiasmo de Pentecostés, Pedro inauguró involuntariamente una nueva religión, la religión del Cristo resucitado y glorificado. El apóstol Pablo transformó más tarde este nuevo evangelio en el cristianismo{16}, una religión que incluye sus propias opiniones teológicas y describe su propia *experiencia personal* con el Jesús del camino de Damasco._ (<a id="s193_361"></a>[LU 196:2.1](/es/The_Urantia_Book/196#p2_1))
+> _En el entusiasmo de Pentecostés, Pedro inauguró involuntariamente una nueva religión, la religión del Cristo resucitado y glorificado. El apóstol Pablo transformó más tarde este nuevo evangelio en el cristianismo, una religión que incluye sus propias opiniones teológicas y describe su propia *experiencia personal* con el Jesús del camino de Damasco._ (<a id="s193_357"></a>[LU 196:2.1](/es/The_Urantia_Book/196#p2_1))
 
 ## Apocalipsis 5. Los Documentos de Urantia
 

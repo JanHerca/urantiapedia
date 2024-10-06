@@ -52,7 +52,7 @@ I had the opportunity to meet her in person during the Latin American readers co
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/013.jpg">
-<figcaption><em>Paula Padilla</em></figcapton>
+<figcaption><em>Paula Padilla</em></figcaption>
 </figure>
 
 As proof of the great mark she left on UBIS, I would like to share a few words from some of her fellow teacher-facilitators:

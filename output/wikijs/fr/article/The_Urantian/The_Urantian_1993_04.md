@@ -61,21 +61,21 @@ Publié semestriellement par le comité des publications de THE FELLOWSHIP
 529, avenue Wrightwood
 Chicago, IIlinois 60614
 
-Prix d'abonnement : 8,00 $ par an
-(Les abonnés internationaux ajoutent 1,00 $ pour les frais de port)
+Prix d'abonnement : 8,00 $ par an
+(Les abonnés internationaux ajoutent 1,00 $ pour les frais de port)
 
 - Rédacteur en chef : David Kulleke
 - Comité de planification : Scott Forsythe, Lynne Kulieke
-- Editeur d'essais : Bob Buselli
+- Editeur d'essais : Bob Buselli
 - Editeur de poésie : Byron Belitsos
-- Éditeur artistique et conception de la plaque signalétique : Clen Thorsander
-- Graphiques et composition : Nancy Johnson
+- Éditeur artistique et conception de la plaque signalétique : Clen Thorsander
+- Graphiques et composition : Nancy Johnson
 
 Toutes les citations contenues dans ce journal, sauf indication contraire, proviennent de The Unantin Book, &copy; 1955 par la Fondation URANTIA, tous droits réservés.
 
 Dans la mesure où il n'y a pas d'interprétation officielle des enseignements du _Livre d'Urantia_, les opinions exprimées ici sont entièrement basées sur la compréhension et l'expérience religieuse personnelle de chaque auteur.
 
-Droit d'auteur et copie ; 1993 par La Bourse. Tous droits réservés.
+Droit d'auteur et copie ; 1993 par La Bourse. Tous droits réservés.
 Imprimé aux États-Unis
 
 La photographie de couverture est de Packy Eckola.
@@ -118,7 +118,7 @@ Le fait que de nombreux « fans » du livre semblent déterminés à promouvoir 
 
 — John M. Andrews
 
-### Réponse de l'auteur :
+### Réponse de l'auteur :
 
 John Andrews semble avoir raté le but de mon article. Ce point était simplement que Jésus en savait suffisamment sur la nature humaine pour anticiper la possibilité d’une déviation apostolique de ses instructions et pour préparer un plan de secours. Dans l'article, j'ai émis l'hypothèse que cette éventualité aurait pu être prévue lors de la planification de l'effusion. J'ai fourni la preuve que cette éventualité avait été anticipée par Jésus dans sa manière de traiter les Apôtres après la crise de Capharnaüm. Je pense que tout le monde est d’accord avec M. Andrews sur le fait que la direction prise par les apôtres, en promouvant une religion autour de Jésus, n’était pas le meilleur choix ; cependant, le Livre d'Urantia indique clairement que ce qu'ils ont fait n'était pas non plus le pire choix qu'ils auraient pu faire.
 
@@ -134,7 +134,7 @@ L’ensemble de nos choix individuels détermine la trajectoire sociale de la r�
 
 ### La vérité n'est pas une supercherie
 
-[Il s’agit d’une réponse à « Mais qui dites-vous que je le suis ? » par Dan Massey dans le Journal été/automne 1992. Les références à l'article seront indiquées par numéro de page et de colonne.]
+[Il s’agit d’une réponse à « Mais qui dites-vous que je le suis ? » par Dan Massey dans le Journal été/automne 1992. Les références à l'article seront indiquées par numéro de page et de colonne.]
 
 À ceux d’entre nous qui croient que Jésus était réellement l’accomplissement des plus hautes espérances spirituelles des deux Isaïes, Dan Massey a une réponse acide : la Bible hébraïque est principalement le produit de « générations de parasites sociaux pseudo-religieux », « Il y avait pratiquement rien dans les textes pseudo-sacrés des Hébreux que Michel puisse espérer utiliser efficacement.» (6,2) Et «la version mithriaque était plus proche de la vérité que la conception hébraïque du Messie». (10,1)
 
@@ -144,7 +144,7 @@ Apparemment, le choix des Juifs comme race d'effusion n'était qu'un grand écra
 
 [Lire la suite](/fr/article/Stephen_Finlan/Truth_is_Not_Trickery)
 
-### Réponse de l'auteur :
+### Réponse de l'auteur :
 
 J'ai été très satisfait de l'intérêt porté à mon article : « Mais qui dites-vous que je suis ? a généré parmi les lecteurs de _The Journal_. L'article a été présenté à mi-parcours du programme d'étude du Comité d'Éducation de la Partie IV du _Livre d'Urantia_, et a été conçu comme une contribution au programme d'étude total. Les lecteurs qui ont suivi le développement de ces programmes au fil des années comprennent qu'il y a un objectif multiple : l'étude du livre, l'incitation à étudier le livre et la démonstration de méthodes d'étude et de stimulation. Le fait que de nombreux lecteurs m’aient écrit avec des observations positives sur le journal a été gratifiant.
 
@@ -164,7 +164,7 @@ L'illustration des pages 8 et 9 (ci-dessous) conclut une série de Judy Mace sur
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Urantian/Neba.jpg">
-<figcaption><em>Neba, Mère de l'Univers</em> Artiste : Patrick Yesh</figcaption>
+<figcaption><em>Neba, Mère de l'Univers</em> Artiste : Patrick Yesh</figcaption>
 </figure>
 
 <figure id="Figure_2" class="image urantiapedia">
@@ -184,7 +184,7 @@ L'illustration des pages 8 et 9 (ci-dessous) conclut une série de Judy Mace sur
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/The_Urantian/Oh_Eve.jpg">
-<figcaption><em>« Oh, Ève ! »</em></figcaption>
+<figcaption><em>« Oh, Ève ! »</em></figcaption>
 </figure>
 
 <figure id="Figure_6" class="image urantiapedia">

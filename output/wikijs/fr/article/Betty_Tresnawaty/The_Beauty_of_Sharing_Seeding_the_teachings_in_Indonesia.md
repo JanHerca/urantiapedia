@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-3-sept-2014">
+        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-3-septembre-2014">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 3, Sept. 2014 — Table des matières</span>
         </a>
         </td>
@@ -46,7 +46,7 @@ Les valeurs du _Livre d’Urantia_ sont applicables dans notre vie quotidienne. 
 
 _Le Livre d’Urantia_ a changé ma vie ! Ma vision de la vie n’est plus limitée, ni sceptique. Je suis plus heureuse et je me sens à l’aise pour communiquer et interagir avec des personnes d’horizons différents. Il y a une beauté qui est difficile à décrire. Je sens l’amour de Dieu en moi et je le sens rayonnant autour de moi et depuis moi.
 
-> _« Lève-toi et resplendis, car ta lumière est venue et la gloire du Seigneur s’est levée sur toi. L’obscurité peut couvrir la terre et de profondes ténèbres recouvrir le peuple, mais l'esprit du Seigneur se lèvera sur toi, et l’on verra la gloire divine t’accompagner. Même les Gentils viendront vers cette lumière, et de beaucoup de grands penseurs s’abandonneront à son éclat. »_ <a id="a48_384"></a>[LU 145:2.2](/fr/The_Urantia_Book/145#p2_2)
+> _« Lève-toi et resplendis, car ta lumière est venue et la gloire du Seigneur s’est levée sur toi. L’obscurité peut couvrir la terre et de profondes ténèbres recouvrir le peuple, mais l'esprit du Seigneur se lèvera sur toi, et l’on verra la gloire divine t’accompagner. Même les Gentils viendront vers cette lumière, et de beaucoup de grands penseurs s’abandonneront à son éclat. »_ <a id="a48_384"></a>[LU 145:2.2](/fr/The_Urantia_Book/145#p2_2)
 
 Je pense qu’il est important de le partager, de sorte que d’autres personnes fassent l’expérience des avantages qui en ont découlés pour moi. Combien ce sera merveilleux, lorsque tous les habitants de la Terre absorberont les valeurs du _Livre d’Urantia_ et vivront ses enseignements. Cela rendra la vie plus heureuse, paisible, et meilleure. En outre, si nous partageons ce bonheur avec les autres, il sera ressenti par tous. Les êtres humains ne peuvent pas être heureux tout seuls.
 
@@ -82,7 +82,7 @@ Il y a quelque temps, j’ai reçu une dizaine de livres de la Fondation Urantia
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-3-sept-2014">
+        <a href="/fr/index/articles_uf_news_online#volume-8-numéro-3-septembre-2014">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 3, Sept. 2014 — Table des matières</span>
         </a>
         </td>

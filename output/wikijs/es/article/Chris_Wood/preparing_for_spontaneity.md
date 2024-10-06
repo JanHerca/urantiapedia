@@ -193,7 +193,7 @@ Podría cortar y pegar citas de _El libro de Urantia_ para argumentar que Jesús
 
 ## Referencias
 
-- [El boletín Journal](https://urantia-association.org/journal-online-archives/)
+- [El boletín Journal](https://urantia-association.org/newsletter/ncategory/journal-es/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2021/?lang=es)
 - [Este artículo](https://urantia-association.org/prepararse-para-la-espontaneidad/?lang=es)
 

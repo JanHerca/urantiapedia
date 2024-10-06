@@ -25,7 +25,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </td>
         <td>
         <a href="/fr/article/Neal_Waldrop/Personal_Growth_The_Seven_Psychic_Circles">
-          <span class="pr-2">Croissance personnelle : les sept cercles psychiques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Croissance personnelle : les sept cercles psychiques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -68,7 +68,7 @@ _Chicago, Illinois_
         </td>
         <td>
         <a href="/fr/article/Neal_Waldrop/Personal_Growth_The_Seven_Psychic_Circles">
-          <span class="pr-2">Croissance personnelle : les sept cercles psychiques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Croissance personnelle : les sept cercles psychiques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

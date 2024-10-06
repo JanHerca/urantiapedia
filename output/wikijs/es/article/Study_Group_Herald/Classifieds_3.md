@@ -73,7 +73,7 @@ NACIMIENTO DEL REVELACIÓN, la historia de los Documentos de Urantia ya está di
 
 ---
 
-PARA AQUELLOS QUE LIDIAN CON LA MUERTE Hermosa revista inspiradora que reseña la promesa del Libro de Urantia de que la fe en Dios garantiza la vida eterna en un universo amoroso y ordenado. Prensa de buena alegría, P.O. Caja 18764, Boulder, CO 80308
+PARA AQUELLOS QUE LIDIAN CON LA MUERTE Hermosa revista inspiradora que reseña la promesa del _Libro de Urantia_ de que la fe en Dios garantiza la vida eterna en un universo amoroso y ordenado. Prensa de buena alegría, P.O. Caja 18764, Boulder, CO 80308
 
 ---
 

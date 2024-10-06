@@ -3,7 +3,7 @@ title: "Pangaea to Plate Tectonics"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Geology
+tags: Geology, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -69,7 +69,7 @@ _The Urantia Book_ states:
 > 700,000,000 years ago Urantia was approaching the ripening of conditions suitable for the support of life. The continental land drift continued; increasingly the ocean penetrated the land as long fingerlike seas providing those shallow waters and sheltered bays which are so suitable as a habitat for marine life.
 > 
 > 650,000,000 years ago witnessed the further separation of the land masses and, in consequence, a further extension of the continental seas. And these waters were rapidly attaining that degree of saltiness which was essential to Urantia life. (<a id="a70_245"></a>[UB 57:8.23-25](/en/The_Urantia_Book/57#p8_23))
-> 
+
 > 500,000,000 years ago [ 1 billion years ago based on current radiometric dating] primitive marine vegetable life was well established on Urantia. Greenland and the arctic land mass, together with North and South America, were beginning their long and slow westward drift. **Africa moved slightly south, creating an east and west trough, the Mediterranean basin, between itself and the mother body. Antarctica, Australia, and the land indicated by the islands of the Pacific broke away on the south and east and have drifted far away since that day.** (<a id="a72_554"></a>[UB 58:4.3](/en/The_Urantia_Book/58#p4_3))
 
 > **The Continental Drift**
@@ -166,7 +166,7 @@ _VolcanoWorld_ (A Collaborative Higher Education, K-12, and Public Outreach proj
 > 
 > As Hess formulated his hypothesis, Robert Dietz independently proposed a similar model and called it sea floor spreading. Dietz's model had a significant addition. It
 > 
-> Hess and Dietz succeeded where Wegener had failed. Continents are no longer thought to plow through oceanic crust but are considered to be part of plates that move on the soft, plastic asthenosphere. A driving force, convection currents, moved the plates. Technological advances and detailed studies of the ocean floor, both unavailable during Wegener's time, allowed Hess and Dietz to generate the new hypotheses.[`7]
+> Hess and Dietz succeeded where Wegener had failed. Continents are no longer thought to plow through oceanic crust but are considered to be part of plates that move on the soft, plastic asthenosphere. A driving force, convection currents, moved the plates. Technological advances and detailed studies of the ocean floor, both unavailable during Wegener's time, allowed Hess and Dietz to generate the new hypotheses.[^7]
 
 > The new hypotheses of the early 1960 s explained several puzzling sets of observations. All that remained was a synthesis of these hypotheses.
 > 
@@ -184,7 +184,7 @@ Now having come to the end of the history of the acceptance of continental drift
 > 
 > Even today the continents continue to float upon this noncrystallized cushiony sea of molten basalt. Were it not for this protective condition, the more severe earthquakes would literally shake the world to pieces. Earthquakes are caused by sliding and shifting of the solid outer crust and not by volcanoes. (<a id="a184_312"></a>[UB 58:5.3-4](/en/The_Urantia_Book/58#p5_3))
 
-Phil Calabrese's paper, _The Coming Scientific Validation of The Urantia Book_, (see Null Hypothesis) attributes a percentage to the acceptance to continental drift theory during the time period when _The Urantia Book_ was in the process of being published. Doing so was necessary for the purpose of that paper, namely to estimate the probability of a human being (or group of human beings) being correct on the various issues in _The Urantia Book_ that were disfavored by scientists when the book was published. Assessing the accuracy of that percentage is not the purpose of this report. What is important for the purpose of this report is simply to appreciate that the eventual acceptance of continental drift theory and the later development of the theories of seafloor spreading and plate tectonics all lends credibility to _The Urantia Book_.
+Phil Calabrese's paper, [The Coming Scientific Validation of The Urantia Book](/en/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book), (see Null Hypothesis) attributes a percentage to the acceptance to continental drift theory during the time period when _The Urantia Book_ was in the process of being published. Doing so was necessary for the purpose of that paper, namely to estimate the probability of a human being (or group of human beings) being correct on the various issues in _The Urantia Book_ that were disfavored by scientists when the book was published. Assessing the accuracy of that percentage is not the purpose of this report. What is important for the purpose of this report is simply to appreciate that the eventual acceptance of continental drift theory and the later development of the theories of seafloor spreading and plate tectonics all lends credibility to _The Urantia Book_.
 
 The last issue to address is _The Urantia Book_'s assertion that a peninsula once existed off the eastern coast of the Mediterranean. This topic is more extensively covered in the Garden of Eden section of UBtheNEWS. However, because there are overlaps between that topic and this one, the aspects that deal specifically with plate tectonics are presented here as well.
 
@@ -204,7 +204,7 @@ _The Urantia Book_ provides the following description of the Garden of Eden and 
 
 > [A]lmost four thousand years after Adam left the Garden . ..., in connection with the violent activity of the surrounding volcanoes and the submergence of the Sicilian land bridge to Africa, the eastern floor of the Mediterranean Sea sank, carrying down beneath the waters the whole of the Edenic peninsula. Concomitant with this vast submergence the coast line of the eastern Mediterranean was greatly elevated. And this was the end of the most beautiful natural creation that Urantia has ever harbored. The sinking was not sudden, several hundred years being required completely to submerge the entire peninsula. (<a id="a204_618"></a>[UB 73:7.1](/en/The_Urantia_Book/73#p7_1))
 
-> The Adamic family grounds embraced a little over five square miles. Immediately surrounding this homesite, provision had been made for the care of more than three hundred thousand of the pure-line offspring. (UB 74:6.1 <a id="a206_221"></a>[UB 74:6.1](/en/The_Urantia_Book/74#p6_1))
+> The Adamic family grounds embraced a little over five square miles. Immediately surrounding this homesite, provision had been made for the care of more than three hundred thousand of the pure-line offspring. (<a id="a206_211"></a>[UB 74:6.1](/en/The_Urantia_Book/74#p6_1))
 
 [Figure 1](#Figure_1) shows that there is only one location along the eastern Mediterranean that could fit this description. Figure 2 reveals details that more fully demonstrate how well this area matches up to _The Urantia Book_'s description of the peninsula. The area to consider is, of course, between Cyprus and the eastern coast of the Mediterranean. The raised areas correspond to the description of the mountains that surrounded the coastline of the peninsula. See the Garden of Eden Report for a full analysis of how well this area matches up in terms of size and distance with _The Urantia Book_'s description.
 
@@ -225,7 +225,7 @@ More directly related to this topic is the plate tectonic map shown in [Figure 3
 <figcaption>Figure 3: Tectonic Plates</figcaption>
 </figure>
 
-The geophysics of the eastern Mediterranean basin is unusual as well as being active, both currently and historically. A 2005 article in Geophysics Journal International explains these characteristics to some degree, while also acknowledging that there is still more to learn.(10) This area marks the convergence of three tectonic plates. Plus, Cyprus exhibits independent characteristics. According to the article, “McClusky et al. (2000) present in their maps two arcs, one north and the other south of Cyprus, suggesting that Cyprus behaves as an independent block and moves independently from the Anatolian plate.”
+The geophysics of the eastern Mediterranean basin is unusual as well as being active, both currently and historically. A 2005 article in Geophysics Journal International explains these characteristics to some degree, while also acknowledging that there is still more to learn.([^10]) This area marks the convergence of three tectonic plates. Plus, Cyprus exhibits independent characteristics. According to the article, “McClusky et al. (2000) present in their maps two arcs, one north and the other south of Cyprus, suggesting that Cyprus behaves as an independent block and moves independently from the Anatolian plate.”
 
 From the same article referenced above, one learns that the “Cyprian Arc is subjected to subduction, collision and transcurrent tectonic processes.” Unlike the western side of the arc, where the Nubia plate primarily is experiencing a process of subduction (pushing under the Anatolia plate), the eastern side of the arc is experiencing the full range of forces just mentioned. Of course, a full reading of the article provides a much better understanding of these processes. Nonetheless, the way the direction of the arrows changes in Figure 3 provides a basic appreciation for how this area is subjected to a confluence of forces.
 
@@ -235,7 +235,9 @@ Interpreting the specifics of how this area might have sunk into the Mediterrane
 
 ## External Links
 
-- This report in UBTheNews: https://ubannotated.com/wp-content/uploads/2018/03/Pangaea.pdf
+- [This report in UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Pangaea.pdf)
+- [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+- [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 - _Jack Oliver, Who Proved Continental Drift, Dies at 87_, The New York Times, By Kenneth Chang, 2011. ([Link](https://www.nytimes.com/2011/01/12/science/earth/12oliver.html?_r=4&adxnnl=1&ref=science&adxnnlx=1294851704-aH9bArRuWC6WOqHwEm4ROQ))
 - http://www.sciencedaily.com/releases/2009/02/090211122136.htm
 - http://www.infoplease.com/ce6/sci/A0813370.html

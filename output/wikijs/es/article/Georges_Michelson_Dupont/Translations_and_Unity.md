@@ -115,7 +115,7 @@ Tener traducciones múltiples y competitivas en un idioma no aporta ningún bene
 
 Por el contrario, provoca dificultades reales e innecesarias a corto y largo plazo, tales como:
 
-- Las traducciones de términos y nombres propios específicos del Libro de Urantia son diferentes, lo que provoca malentendidos. Este es el caso entre los lectores coreanos, que cuentan con cinco traducciones, de las cuales dos están publicadas.
+- Las traducciones de términos y nombres propios específicos del _Libro de Urantia_ son diferentes, lo que provoca malentendidos. Este es el caso entre los lectores coreanos, que cuentan con cinco traducciones, de las cuales dos están publicadas.
 - En los grupos de estudio, los estudiantes se confunden al tener textos diferentes, dedican su tiempo a discusiones interminables, crean desacuerdos en lugar de estudiar y compartir.
 - Las traducciones múltiples crean una competencia innecesaria que lleva a la división del público lector.
 

@@ -3,7 +3,7 @@ title: "Shroud of Turin Report"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Jesus, Jesus life
+tags: Jesus, Jesus life, UB annotated, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -118,7 +118,7 @@ That being said, people unfamiliar with _The Urantia Book_ should be more or les
 > 
 > The mortal remains of Jesus underwent the same natural process of elemental disintegration as characterizes all human bodies on earth except that, in point of time, this natural mode of dissolution was greatly accelerated, hastened to that point where it became well-nigh instantaneous. <a id="a118_289"></a>[UB 189:2.1-8](/en/The_Urantia_Book/189#p2_1) [^9]
 
-> A little before three o'clock this Sunday morning, when the first signs of day began to appear in the east, five of the women started out for the tomb of Jesus. They had prepared an abundance of special embalming lotions, and they carried many linen bandages with them. It was their purpose more thoroughly to give the body of Jesus its death anointing and more carefully to wrap it up with the new bandages.  <a id="a120_412"></a>[UB 189:3.1](/en/The_Urantia_Book/189#p3_1)
+> A little before three o'clock this Sunday morning, when the first signs of day began to appear in the east, five of the women started out for the tomb of Jesus. They had prepared an abundance of special embalming lotions, and they carried many linen bandages with them. It was their purpose more thoroughly to give the body of Jesus its death anointing and more carefully to wrap it up with the new bandages. <a id="a120_411"></a>[UB 189:4.3](/en/The_Urantia_Book/189#p4_3)
 
 > The women who went on this mission of anointing Jesus' body were: Mary Magdalene, Mary the mother of the Alpheus twins, Salome the mother of the Zebedee brothers, Joanna the wife of Chuza, and Susanna the daughter of Ezra of Alexandria.
 > 
@@ -302,7 +302,7 @@ With all of these questions and qualifications in mind, let us now turn our atte
 
 ### Fundamental Aspects of the Image
 
-The Turin Shroud Center of Colorado has a website at [www.Shroudofturin.com](https://www.shroudofturin.com/) on which is posted an article called _The Shroud and Modern Science — An Essay_. This article highlights some of the key features of the Shroud that are generally compatible with the “corona discharge” hypothesis for image creation. Corona discharges electrical in nature and are directly related to the creation of photocopy images. Hopefully, readers will not consider it to be too much of stretch to suggest _The Urantia Book_'s statement, “The mortal remains of Jesus underwent the same natural process of elemental disintegration as characterizes all human bodies on earth except that, in point of time, this natural mode of dissolution was greatly accelerated, hastened to that point where it became well-nigh instantaneous,” probably means that some type of electrical activity was associated with this process. After reviewing some of the highlights from _The Shroud and Modern Science — An Essay_, we will look more closely at the corona discharge hypothesis.
+The Turin Shroud Center of Colorado has a website at [www.Shroudofturin.com](https://www.shroudofturin.com/) on which is posted an article called _The Shroud and Modern Science — An Essay_. This article highlights some of the key features of the Shroud that are generally compatible with the “corona discharge” hypothesis for image creation. Corona discharges electrical in nature and are directly related to the creation of photocopy images. Hopefully, readers will not consider it to be too much of stretch to suggest _The Urantia Book_'s statement <a id="a304_551"></a>[UB 189:2.8](/en/The_Urantia_Book/189#p2_8), “The mortal remains of Jesus underwent the same natural process of elemental disintegration as characterizes all human bodies on earth except that, in point of time, this natural mode of dissolution was greatly accelerated, hastened to that point where it became well-nigh instantaneous,” probably means that some type of electrical activity was associated with this process. After reviewing some of the highlights from _The Shroud and Modern Science — An Essay_, we will look more closely at the corona discharge hypothesis.
 
 > The scientific significance of Pia's [the first person to photograph the TS] discovery is twofold. First, the shading of the Shroud body image is like a negative, where shades of light and dark are reversed from the way they normally appear in ordinary visual experience. That is, we are used to seeing people with light highlights and dark shadows. But on the Shroud, this shading convention is reversed. The immediate question that arises from this result is how could the Shroud sensibly be the work of an artist or a craftsman. Such a person working in the Middle Ages or before would apparently have to work with an absolutely unfamiliar and unnatural shading structure before the advent of photography. The second significant aspect of Pia's discovery is that the information density (or correlation with anatomical subtleties of a human body) is exceedingly high, well surpassing that expected of normal artistic renditions of the human form. It is for this reason that the Shroud image has been compared to a photograph. [^28]
 
@@ -396,7 +396,7 @@ Various aspects of physiology are similarly apparent. “Sixth, the fact that so
 <figcaption><b>Figure 10 (left)</b>: Nuclear Image ([N]otice metacarpal bones and phalanges noted in both images.)<b>Figure 11 (right)</b>: Shroud Image</figcaption>
 </figure>
 
-One of the most striking similarities is demonstrated in Figures 12 and 13. “Ninth, isometric projection (V-P-8) of our generated images, yielded a striking similarity to the VP-8 image of the Shroud at the fall off of the left fingers. Knowing this is due to a 75-80% drop in signal intensity on our image, its relevance to the same phenomenon on the Shroud should not be overlooked and seriously considered to be a function of a similar effect i.e. a dosimetric sudden fall off of signal or radiation.” [`44]
+One of the most striking similarities is demonstrated in Figures 12 and 13. “Ninth, isometric projection (V-P-8) of our generated images, yielded a striking similarity to the VP-8 image of the Shroud at the fall off of the left fingers. Knowing this is due to a 75-80% drop in signal intensity on our image, its relevance to the same phenomenon on the Shroud should not be overlooked and seriously considered to be a function of a similar effect i.e. a dosimetric sudden fall off of signal or radiation.” [^44]
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Shroud_of_Turin/Shroud_img_7.jpg">
@@ -488,7 +488,7 @@ The question needs to be asked, “Why would the angels leave these relics behin
 
 > Mary saw only the folded napkin where his head had rested and the bandages wherewith he had been wrapped lying intact and as they had rested on the stone before the celestial hosts removed the body. The covering sheet lay at the foot of the burial niche. <a id="a488_257"></a>[UB 189:4.6](/en/The_Urantia_Book/189#p4_6) [^50]
 
-> [T]hey [the women] conjectured that the body had been moved to another resting place. But when they pondered such a solution of their dilemma, they were at a loss to account for the orderly arrangement of the grave cloths; how could the body have been removed since the very bandages in which it was wrapped were left in position and apparently intact on the burial shelf? <a id="a490_375"></a>[UB 189:4.6](/en/The_Urantia_Book/189#p4_6) [^51]
+> [T]hey [the women] conjectured that the body had been moved to another resting place. But when they pondered such a solution of their dilemma, they were at a loss to account for the orderly arrangement of the grave cloths; how could the body have been removed since the very bandages in which it was wrapped were left in position and apparently intact on the burial shelf? <a id="a490_375"></a>[UB 189:4.9](/en/The_Urantia_Book/189#p4_9) [^51]
 
 > Very soon Simon Peter rushed up and, entering, saw the same empty tomb with the grave cloths so peculiarly arranged. <a id="a492_119"></a>[UB 189:5.2](/en/The_Urantia_Book/189#p5_2) [^52]
 
@@ -508,7 +508,9 @@ According to _The Urantia Book_, “Of all human knowledge, that which is of gre
 
 ## External links
 
-* This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/Shroud.pdf
+* [This report in UBTheNews webpage](https://ubannotated.com/wp-content/uploads/2018/03/Shroud.pdf)
+* [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+* [Topical Studies in UBTheNews webpage](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
@@ -557,23 +559,23 @@ According to _The Urantia Book_, “Of all human knowledge, that which is of gre
 	4) Drawing correlations between scientific issues related the TS and statements made in _The Urantia Book_ regarding the pieces of cloth related to Jesus' burial.
 	It must be emphasized that the type of correlations being made in this report between what _The Urantia Book_ says and various scientific studies that have developed in relation to the TS do not meet the standards that are used for any of the other UBtheNEWS reports. The standard for this report is much more speculative. Material presented in this report is offered because it is intriguing. Unlike other UBtheNEWS reports where correlations need to be corroborative, correlations here are drawn based on things being reasonably associated.
 
-[^4]: <a id="a559_6"></a>[UB 188:0.3](/en/The_Urantia_Book/188#p0_3) References to material from _The Urantia Book_ are provided in the form just given. The first number indicates the chapter (referred to in _The Urantia Book_ as “Papers”); the section number is given second; and the third number(s) reference(s) paragraph(s). A zero in the chapter position indicates the quote comes from the Forward. A zero in the section position indicates it comes from that chapter's introductory remarks.
+[^4]: <a id="a561_6"></a>[UB 188:0.3](/en/The_Urantia_Book/188#p0_3) References to material from _The Urantia Book_ are provided in the form just given. The first number indicates the chapter (referred to in _The Urantia Book_ as “Papers”); the section number is given second; and the third number(s) reference(s) paragraph(s). A zero in the chapter position indicates the quote comes from the Forward. A zero in the section position indicates it comes from that chapter's introductory remarks.
 
-[^5]: <a id="a561_6"></a>[UB 188:1.2-5,7](/en/The_Urantia_Book/188#p1_2)
+[^5]: <a id="a563_6"></a>[UB 188:1.2-5,7](/en/The_Urantia_Book/188#p1_2)
 
-[^6]: “Morontia is a term designating a vast level intervening between the material and the spiritual. It may designate personal or impersonal realities, living or nonliving energies. The warp of morontia is spiritual; its woof is physical.” <a id="a563_242"></a>[UB 0:5.12](/en/The_Urantia_Book/0#p5_12)
+[^6]: “Morontia is a term designating a vast level intervening between the material and the spiritual. It may designate personal or impersonal realities, living or nonliving energies. The warp of morontia is spiritual; its woof is physical.” <a id="a565_242"></a>[UB 0:5.12](/en/The_Urantia_Book/0#p5_12)
 
-[^7]: <a id="a565_6"></a>[UB 189:1.2](/en/The_Urantia_Book/189#p1_2)
+[^7]: <a id="a567_6"></a>[UB 189:1.2](/en/The_Urantia_Book/189#p1_2)
 
-[^8]: <a id="a567_6"></a>[UB 189:1.7](/en/The_Urantia_Book/189#p1_7)
+[^8]: <a id="a569_6"></a>[UB 189:1.7](/en/The_Urantia_Book/189#p1_7)
 
-[^9]: <a id="a569_6"></a>[UB 189:2.1-8](/en/The_Urantia_Book/189#p2_1)
+[^9]: <a id="a571_6"></a>[UB 189:2.1-8](/en/The_Urantia_Book/189#p2_1)
 
-[^10]: <a id="a571_7"></a>[UB 189:4.3-10,12-14](/en/The_Urantia_Book/189#p4_3); <a id="a571_61"></a>[UB 189:5.1-5](/en/The_Urantia_Book/189#p5_1)
+[^10]: <a id="a573_7"></a>[UB 189:4.3-10,12-14](/en/The_Urantia_Book/189#p4_3); <a id="a573_61"></a>[UB 189:5.1-5](/en/The_Urantia_Book/189#p5_1)
 
-[^11]: <a id="a573_7"></a>[UB 191:0.4](/en/The_Urantia_Book/191#p0_4)
+[^11]: <a id="a575_7"></a>[UB 191:0.4](/en/The_Urantia_Book/191#p0_4)
 
-[^12]: <a id="a575_7"></a>[UB 190:1.2](/en/The_Urantia_Book/190#p1_2)
+[^12]: <a id="a577_7"></a>[UB 190:1.2](/en/The_Urantia_Book/190#p1_2)
 
 [^13]: http://en.wikipedia.org/wiki/Shroud_of_turin\#cite_note-rogers-3
 
@@ -585,25 +587,25 @@ According to _The Urantia Book_, “Of all human knowledge, that which is of gre
 
 [^17]: http://www.Shroud.com/guscin.htm
 
-[^18]: <a id="a587_7"></a>[UB 188:1.4](/en/The_Urantia_Book/188#p1_4)
+[^18]: <a id="a589_7"></a>[UB 188:1.4](/en/The_Urantia_Book/188#p1_4)
 
 [^19]: http://www.Shroud.com/guscin.htm
 
-[^20]: <a id="a591_7"></a>[UB 188:1.4](/en/The_Urantia_Book/188#p1_4)
+[^20]: <a id="a593_7"></a>[UB 188:1.4](/en/The_Urantia_Book/188#p1_4)
 
 [^21]: http://www.Shroud.com/guscin.htm
 
-[^22]: <a id="a595_7"></a>[UB 188:1.4](/en/The_Urantia_Book/188#p1_4)
+[^22]: <a id="a597_7"></a>[UB 188:1.4](/en/The_Urantia_Book/188#p1_4)
 
-[^23]: <a id="a597_7"></a>[UB 189:2.1](/en/The_Urantia_Book/189#p2_1)
+[^23]: <a id="a599_7"></a>[UB 189:2.1](/en/The_Urantia_Book/189#p2_1)
 
-[^24]: <a id="a599_7"></a>[UB 189:2.4](/en/The_Urantia_Book/189#p2_4)
+[^24]: <a id="a601_7"></a>[UB 189:2.4](/en/The_Urantia_Book/189#p2_4)
 
-[^25]: <a id="a601_7"></a>[UB 189:2.7,8](/en/The_Urantia_Book/189#p2_7)
+[^25]: <a id="a603_7"></a>[UB 189:2.7,8](/en/The_Urantia_Book/189#p2_7)
 
-[^26]: <a id="a603_7"></a>[UB 189:4.6](/en/The_Urantia_Book/189#p4_6)
+[^26]: <a id="a605_7"></a>[UB 189:4.6](/en/The_Urantia_Book/189#p4_6)
 
-[^27]: <a id="a605_7"></a>[UB 189:4.9](/en/The_Urantia_Book/189#p4_9)
+[^27]: <a id="a607_7"></a>[UB 189:4.9](/en/The_Urantia_Book/189#p4_9)
 
 [^28]: http://www.Shroudofturin.com/Science1.html
 
@@ -621,9 +623,9 @@ According to _The Urantia Book_, “Of all human knowledge, that which is of gre
 
 [^35]: http://www.dim.unipd.it/fanti/corona.pdf
 
-[^36]: UB <a id="a623_10"></a>[UB 189:2.7](/en/The_Urantia_Book/189#p2_7)
+[^36]: UB <a id="a625_10"></a>[UB 189:2.7](/en/The_Urantia_Book/189#p2_7)
 
-[^37]: UB <a id="a625_10"></a>[UB 189:2.8](/en/The_Urantia_Book/189#p2_8)
+[^37]: UB <a id="a627_10"></a>[UB 189:2.8](/en/The_Urantia_Book/189#p2_8)
 
 [^38]: http://www.shroud.com/pdfs/accett2.pdf
 
@@ -645,17 +647,17 @@ According to _The Urantia Book_, “Of all human knowledge, that which is of gre
 
 [^47]: http://Shroud.com/pdfs/doclist.pdf
 
-[^48]: UB <a id="a647_10"></a>[UB 120:3.7](/en/The_Urantia_Book/120#p3_7)
+[^48]: UB <a id="a649_10"></a>[UB 120:3.7](/en/The_Urantia_Book/120#p3_7)
 
-[^51]: Urantia Book <a id="a649_20"></a>[UB 189:4.9](/en/The_Urantia_Book/189#p4_9)
+[^51]: Urantia Book <a id="a651_20"></a>[UB 189:4.9](/en/The_Urantia_Book/189#p4_9)
 
-[^52]: Urantia Book <a id="a651_20"></a>[UB 189:5.2](/en/The_Urantia_Book/189#p5_2)
+[^52]: Urantia Book <a id="a653_20"></a>[UB 189:5.2](/en/The_Urantia_Book/189#p5_2)
 
-[^53]: Urantia Book <a id="a653_20"></a>[UB 189:5.3](/en/The_Urantia_Book/189#p5_3)
+[^53]: Urantia Book <a id="a655_20"></a>[UB 189:5.3](/en/The_Urantia_Book/189#p5_3)
 
-[^54]: Urantia Book <a id="a655_20"></a>[UB 196:3.30](/en/The_Urantia_Book/196#p3_30)
+[^54]: Urantia Book <a id="a657_20"></a>[UB 196:3.30](/en/The_Urantia_Book/196#p3_30)
 
-[^55]: Urantia Book <a id="a657_20"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)
+[^55]: Urantia Book <a id="a659_20"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)
 
 
 

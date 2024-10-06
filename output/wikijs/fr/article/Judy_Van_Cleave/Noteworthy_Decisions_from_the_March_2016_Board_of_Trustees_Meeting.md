@@ -57,11 +57,11 @@ Les ventes de livres en français, polonais et portugais ont été plus importan
 
 La traduction chinoise est en marche depuis des années, ce qui nous a permis d’exercer notre patience. La plupart des traductions demandent dix ans pour être terminées, mais de par la difficulté de traduire l’anglais en chinois, nous estimons que cela prendra plus de temps.
 
-Pour aider la traduction chinoise, le comité d’administration élargi a passé de longues heures, lors de la réunion du comité d’administration d’avril, à interagir, à écouter et à planifier avec l’équipe de traduction. Ses membres en sont, Richard Zhu, traducteur en chef, Vicki Young, éditrice, Neal Waldrop, consultant et Jay Peregrine, coordinateur IT. Ce fut vraiment un weekend productif !
+Pour aider la traduction chinoise, le comité d’administration élargi a passé de longues heures, lors de la réunion du comité d’administration d’avril, à interagir, à écouter et à planifier avec l’équipe de traduction. Ses membres en sont, Richard Zhu, traducteur en chef, Vicki Young, éditrice, Neal Waldrop, consultant et Jay Peregrine, coordinateur IT. Ce fut vraiment un weekend productif !
 
 ## Élection des représentants permanents
 
-Le conseil d’administration a élu les candidats suivants pour les prochains trois ans : Mo Siegel, président, Marilynn Kulieke, vice présidente, Georges Michelson-Dupont, vice président international, Gard Jameson, trésorier et Judy Van Cleave, secrétaire.
+Le conseil d’administration a élu les candidats suivants pour les prochains trois ans : Mo Siegel, président, Marilynn Kulieke, vice présidente, Georges Michelson-Dupont, vice président international, Gard Jameson, trésorier et Judy Van Cleave, secrétaire.
 
 ## Trustees associés
 
@@ -71,7 +71,7 @@ Le comité d’administration a nommé Claire Mylanus comme trustee associé ém
 
 ## Rénovation du sous-sol
 
-Le conseil d’administration a accepté un don restrictif de $ 20000 pour créer un endroit au sous-sol pour les livres archivés et les documents historiques, une partie sera pour l’étude et une partie pour des évènements éducatifs concernant_Le Livre d’Urantia_.
+Le conseil d’administration a accepté un don restrictif de $ 20000 pour créer un endroit au sous-sol pour les livres archivés et les documents historiques, une partie sera pour l’étude et une partie pour des évènements éducatifs concernant _Le Livre d’Urantia_.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2016_06/005.jpg">

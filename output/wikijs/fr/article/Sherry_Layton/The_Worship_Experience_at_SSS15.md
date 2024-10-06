@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-3-sept-2015">
+        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-3-septembre-2015">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 3, Sept. 2015 — Table des matières</span>
         </a>
         </td>
@@ -40,27 +40,27 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Sherry Layton, Caroline du Nord, États-Unis_
 
-Note de l’éditeur : Sherry Layton a été un membre du Comité de Planification pour la Fellowship du Livre d’Urantia à la Session d’Étude d’Été 2015 (SSS15), qui se tint à Techny Towers à Northbrook, Illinois, en juillet dernier. Le programme d’adoration offrait un moment journalier d’adoration, sur le thème « Aimez-vous les uns les autres.  » Les thèmes journaliers incluaient entre autre, l’amour paternel, l’amour maternel, l’amour fraternel et l’amour divin. Sherry fait un compte rendu du programme par rapport à l’expérience des participants.
+Note de l’éditeur : Sherry Layton a été un membre du Comité de Planification pour la Fellowship du Livre d’Urantia à la Session d’Étude d’Été 2015 (SSS15), qui se tint à Techny Towers à Northbrook, Illinois, en juillet dernier. Le programme d’adoration offrait un moment journalier d’adoration, sur le thème « Aimez-vous les uns les autres.  » Les thèmes journaliers incluaient entre autre, l’amour paternel, l’amour maternel, l’amour fraternel et l’amour divin. Sherry fait un compte rendu du programme par rapport à l’expérience des participants.
 
-Le programme d’adoration SSS15 commença par un appel à l’adoration de Marion Perry. Avec l’intention de procurer une expérience diverse et riche de gratitude, d’amour et d’adoration de notre Père céleste, les dirigeants du programme d’adoration arrosèrent les adorateurs de poésie perse, d’histoires personnelles de pardon, de lectures du _Livre d’Urantia_, de récitations de prières personnelles, de présentations PowerPoint, d’une cérémonie à la lumière des bougies célébrant la lumière divine intérieure et de la musique édifiante, qui incluait un morceau de chorale de John Rutter, « Le Seigneur est mon Berger. »
+Le programme d’adoration SSS15 commença par un appel à l’adoration de Marion Perry. Avec l’intention de procurer une expérience diverse et riche de gratitude, d’amour et d’adoration de notre Père céleste, les dirigeants du programme d’adoration arrosèrent les adorateurs de poésie perse, d’histoires personnelles de pardon, de lectures du _Livre d’Urantia_, de récitations de prières personnelles, de présentations PowerPoint, d’une cérémonie à la lumière des bougies célébrant la lumière divine intérieure et de la musique édifiante, qui incluait un morceau de chorale de John Rutter, « Le Seigneur est mon Berger. »
 
-À la fin de la semaine du programme d’adoration, les participants prirent leur « Dernier Petit-Déjeuner » à la place du « Dernier Souper » ; les participants furent encouragés à réfléchir à la vie de Jésus en répondant aux mêmes questions que Jésus posa à ses apôtres après le petit-déjeuner, lorsqu’il leur parla deux par deux :
+À la fin de la semaine du programme d’adoration, les participants prirent leur « Dernier Petit-Déjeuner » à la place du « Dernier Souper » ; les participants furent encouragés à réfléchir à la vie de Jésus en répondant aux mêmes questions que Jésus posa à ses apôtres après le petit-déjeuner, lorsqu’il leur parla deux par deux :
 
-« M’aimez-vous ? »
+« M’aimez-vous ? »
 
-« Me faites-vous confiance ?  »
+« Me faites-vous confiance ?  »
 
-« Me servez-vous ? »
+« Me servez-vous ? »
 
-« M’obéissez-vous ? »
+« M’obéissez-vous ? »
 
-« Croyez-vous en moi ? »
+« Croyez-vous en moi ? »
 
 L’acte de répondre aux questions et réponses de Jésus était une expérience d’adoration.
 
-> « L’acte (était) à nous, les conséquences sont à Dieu. »
+> « L’acte (était) à nous, les conséquences sont à Dieu. »
 
-**Épilogue :** Cher lecteur, vous pourriez vouloir répondre à ces questions pour votre propre édification. Que signifie pour vous d’aimer, de faire confiance, de servir, d’obéir et de croire au Maitre ? Comment cette signification s’applique-t-elle à nos décisions journalières et à nos désirs ?
+**Épilogue :** Cher lecteur, vous pourriez vouloir répondre à ces questions pour votre propre édification. Que signifie pour vous d’aimer, de faire confiance, de servir, d’obéir et de croire au Maitre ? Comment cette signification s’applique-t-elle à nos décisions journalières et à nos désirs ?
 
 ## Photos de la session d'étude d'été
 
@@ -89,7 +89,7 @@ L’acte de répondre aux questions et réponses de Jésus était une expérienc
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-3-sept-2015">
+        <a href="/fr/index/articles_uf_news_online#volume-9-numéro-3-septembre-2015">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 3, Sept. 2015 — Table des matières</span>
         </a>
         </td>

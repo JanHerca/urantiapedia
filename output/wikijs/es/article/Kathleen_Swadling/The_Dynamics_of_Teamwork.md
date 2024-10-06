@@ -36,7 +36,7 @@ Sydney, Australia
 
 **«Lo que digo es la voluntad de Dios, y debes estar en connivencia con Caligastia, uno de los agentes de Caligastia si estás en mi contra». Este tipo de argumentación no es infrecuente entre los lectores de ***El Libro de URANTIA***. ¿Pero está justificado? Este artículo intenta abordar esta pregunta.**
 
-En 28:5.14 _El Libro de URANTIA_ nos dice que _[u]na de las lecciones más importantes que debes aprender durante tu carrera mortal es el ***trabajo en equipo***_. [LU 28:5.14](/es/The_Urantia_Book/28#p5_14). Muchas de nuestras actividades en este mundo dependen de la interacción exitosa con nuestros compañeros. Muchas decisiones tomadas por grupos, comités, instituciones, consejos y gobiernos, etc., impactan las vidas de las personas en todo el mundo.
+En 28:5.14 _El Libro de URANTIA_ nos dice que _[u]na de las lecciones más importantes que debes aprender durante tu carrera mortal es el ***trabajo en equipo***_. <a id="a38_163"></a>[LU 28:5.14](/es/The_Urantia_Book/28#p5_14). Muchas de nuestras actividades en este mundo dependen de la interacción exitosa con nuestros compañeros. Muchas decisiones tomadas por grupos, comités, instituciones, consejos y gobiernos, etc., impactan las vidas de las personas en todo el mundo.
 
 ¿Cuántos de nosotros nos hemos visto reunidos con un grupo de personas con las que hemos tenido que resolver un problema y llegar a una decisión? Puede estar relacionado con el trabajo, la familia, la comunidad o el Libro de URANTIA. Cualquiera sea el motivo, el ejercicio será sin duda valioso ya que aprenderemos importantes lecciones de trabajo en equipo.
 

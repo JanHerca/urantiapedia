@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-[Il s’agit d’une réponse à « Mais qui dites-vous que je le suis ? » par Dan Massey dans le Journal été/automne 1992. Les références à l'article seront indiquées par numéro de page et de colonne.]
+[Il s’agit d’une réponse à « Mais qui dites-vous que je le suis ? » par Dan Massey dans le Journal été/automne 1992. Les références à l'article seront indiquées par numéro de page et de colonne.]
 
 À ceux d’entre nous qui croient que Jésus était réellement l’accomplissement des plus hautes espérances spirituelles des deux Isaïes, Dan Massey a une réponse acide : la Bible hébraïque est principalement le produit de « générations de parasites sociaux pseudo-religieux », « Il y avait pratiquement rien dans les textes pseudo-sacrés des Hébreux que Michel puisse espérer utiliser efficacement.» (6,2) Et «la version mithriaque était plus proche de la vérité que la conception hébraïque du Messie». (10,1)
 
@@ -46,7 +46,7 @@ Commençons par les faits et passons aux valeurs.
 
 ## 1. Le mythe de Mithra
 
-_L'LU_ discute des faits cruciaux sur le Mithraïsme : son rôle en tant que principal culte des mystères à une époque où le salut personnel et l'ascension étaient apparus comme des intentions majeures de la religion (<a id="a48_216"></a>[LU 121:5.8](/fr/The_Urantia_Book/121#p5_8)) ; et son influence sur les enseignements de Paul (en particulier les sacrements : <a id="a48_343"></a>[LU 195:0.11](/fr/The_Urantia_Book/195#p0_11) ; <a id="a48_391"></a>[LU 195:3.6](/fr/The_Urantia_Book/195#p3_6)).
+_L'LU_ discute des faits cruciaux sur le Mithraïsme : son rôle en tant que principal culte des mystères à une époque où le salut personnel et l'ascension étaient apparus comme des intentions majeures de la religion (<a id="a48_216"></a>[LU 121:5.8](/fr/The_Urantia_Book/121#p5_8)) ; et son influence sur les enseignements de Paul (en particulier les sacrements : <a id="a48_343"></a>[LU 195:0.11](/fr/The_Urantia_Book/195#p0_11) ; <a id="a48_391"></a>[LU 195:3.6](/fr/The_Urantia_Book/195#p3_6)).
 
 Pour étoffer l'histoire du mithraïsme, il faut lire la littérature disponible, mais Massey semble n'avoir lu qu'un seul livre : l'ouvrage excentrique de David Ulansey. La thèse d'Ulansey est étroite et « tapageuse », comme la fin rapide d'un pot-chaudière. Il exclut de larges pans de preuves. Il est le seul à nier que le culte soit imputable à la Perse (en contradiction avec <a id="a50_378"></a>[LU 98:5.1](/fr/The_Urantia_Book/98#p5_1)). Il ignore les preuves du mithraïsme dans toute l'Asie Mineure à l'époque hellénistique. Non, tout a commencé en 128 avant JC : inventée par des astrologues/astronomes stoïciens à Tarse — une religion fabriquée par des intellectuels ! Des gens bien plus intelligents qu’« une génération d’adorateurs de totems » (14,2) qui peuvent être amenés à accepter une religion faite pour eux.
 
@@ -68,7 +68,7 @@ Spéculant sur l'étude des religions urantiennes avant l'effusion, Massey dit q
 
 Michael a trouvé des quantités de matière dans les « textes soi-disant sacrés » (6,1) des Juifs qu'il utilisait pour prêcher (certains favoris étaient [Psaume 51.10](/fr/Bible/Psalms/51#v10) et [Osée 6.6](/fr/Bible/Hosea/6#v6)) et pour avoir décrit sa mission sur terre (notamment [Ésaïe 61](/fr/Bible/Isaiah/61)).
 
-Lorsqu'on lui a posé une question sur la colère, il a débité onze citations bibliques consécutives sur le sujet ([LU 149:4.2](/es/The_Urantia_Book/149#p4_2)).
+Lorsqu'on lui a posé une question sur la colère, il a débité onze citations bibliques consécutives sur le sujet (<a id="a70_113"></a>[LU 149:4.2](/fr/The_Urantia_Book/149#p4_2)).
 
 Mais Massey dénigre particulièrement le judaïsme par rapport à son culte mystérieux préféré. Le mithraïsme est « la religion du destin » (10,2), tandis que « les Hébreux souffraient des normes tribales primitives de socialisation ». (6,2)
 
@@ -110,7 +110,7 @@ L’idée la plus folle est que Jésus est responsable de ce que les persécuteu
 
 ## 6. Dernières pensées
 
-Nous avons laissé intactes bon nombre des questions qui ont motivé l'article de Massey : la tendance des humains à idolâtrer et à idolâtrer au lieu d'écouter et d'apprendre ; le degré auquel Jésus aurait pu prévoir une mithraicisation de son message ; l'étendue des éléments persans au sein du christianisme (y compris l'élément de pensée mithraïque impliqué dans la doctrine de l'expiation de Paul). Mais sans une étude solide, cela conduit de toute façon à des spéculations inutiles. En outre, la philosophie doit maintenir une humble reconnaissance de ses dettes envers la religion.
+Nous avons laissé intactes bon nombre des questions qui ont motivé l'article de Massey : la tendance des humains à idolâtrer et à idolâtrer au lieu d'écouter et d'apprendre ; le degré auquel Jésus aurait pu prévoir une mithraicisation de son message ; l'étendue des éléments persans au sein du christianisme (y compris l'élément de pensée mithraïque impliqué dans la doctrine de l'expiation de Paul). Mais sans une étude solide, cela conduit de toute façon à des spéculations inutiles. En outre, la philosophie doit maintenir une humble reconnaissance de ses dettes envers la religion.
 
 Sinon, nous avons la spéculation religieuse, et « la spéculation falsifie invariablement son objet ». (<a id="a114_103"></a>[LU 102:3.2](/fr/The_Urantia_Book/102#p3_2))
 

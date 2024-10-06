@@ -49,7 +49,7 @@ L'équipe ICP est composée de cinq bénévoles qui répondent aux lettres des d
 
 En 2020, nous avons reçu plus de 300 lettres de détenus et leur avons envoyé 300 livres (291 en anglais, huit en espagnol et un en russe). Nous avons envoyé des livres dans 136 prisons à travers le pays. Dans dix-sept d'entre eux, plus d'une douzaine de détenus ont reçu des livres, tandis que dans quelques établissements, nous avons envoyé plus de trente livres !
 
-Voici un échantillon de l’une des belles lettres que nous avons reçues en 2020 :
+Voici un échantillon de l’une des belles lettres que nous avons reçues en 2020 :
 
 > Chère Communauté du Livre d'Urantia,
 > 
