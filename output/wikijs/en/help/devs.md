@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/en/help/github_assistant">Assistant Editors help</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/web_basics">Interface and basic use of Urantiapedia</a></td>
+        <td><a href="/en/help/github_fork">Getting started with GitHub</a></td>
       </tr>
     </tbody>
   </table>
@@ -73,7 +73,7 @@ See https://docs.requarks.io/install/upgrade.
       <tr>
         <td><a href="/en/help/github_assistant">Assistant Editors help</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/web_basics">Interface and basic use of Urantiapedia</a></td>
+        <td><a href="/en/help/github_fork">Getting started with GitHub</a></td>
       </tr>
     </tbody>
   </table>
