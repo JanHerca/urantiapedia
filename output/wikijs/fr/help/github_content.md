@@ -41,7 +41,7 @@ Les dossiers qui composent le projet *Urantiapedia* sur Github sont les suivants
       * **3dmodels_catalog.md** : catalogue de modèles 3D. Le fichier pour la langue anglaise contient les tableaux principaux ; les fichiers d'autres langues ne sont que des traductions.
       * **image_catalog.md** : catalogue d'images. Le fichier pour la langue anglaise contient les tableaux principaux ; les fichiers d'autres langues ne sont que des traductions.
       * **map_catalog.md** : catalogue de cartes. Le fichier pour la langue anglaise contient les tableaux principaux ; les fichiers d'autres langues ne sont que des traductions.
-      * **paralells.md** : catalogue général de parallèles entre _Le Livre d'Urantia_ et le reste du contenu (articles, Bible, autres livres, etc.).
+      * __paralells.md__ : catalogue général de parallèles entre _Le Livre d'Urantia_ et le reste du contenu (articles, Bible, autres livres, etc.).
     * **mediawiki** `DEPRECATED` : dossier avec l'ancien contenu au format Wikitext pour MediaWiki. La première version de *Urantiapedia* a été réalisée avec MediaWiki mais la version actuelle est créée avec *Wiki.js*.
         * **articles-xx** : Dossiers obsolètes avec des exemples d'articles au format Wikitext.
         * **main-pages-xx** : dossiers obsolètes avec du contenu d'aide au format Wikitext.

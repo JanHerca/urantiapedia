@@ -41,7 +41,7 @@ GitHub The folders that make up the *Urantiapedia* project on Github are these:
       * **3dmodels_catalog.md**: 3D models catalog. The English language file contains the main tables; the other language files are just translations. 
       * **image_catalog.md**: Image catalog. The English language file contains the main tables; the other language files are just translations. 
       * **map_catalog.md**: Map catalog. The English language file contains the main tables; the other language files are just translations. 
-      * **paralells.md**: General catalog of parallels between _The Urantia Book_ and the rest of the content (articles, Bible, other books, etc.). 
+      * __paralells.md__ : General catalog of parallels between _The Urantia Book_ and the rest of the content (articles, Bible, other books, etc.). 
     * **mediawiki** `DEPRECATED`: Folder with old content in Wikitext format for MediaWiki. The first version of *Urantiapedia* was made with MediaWiki but the current one is created with *Wiki.js*. 
         * **articles-xx**: Deprecated folders with examples of articles in Wikitext format. 
         * **main-pages-xx**: Deprecated folders with help content in Wikitext format. 

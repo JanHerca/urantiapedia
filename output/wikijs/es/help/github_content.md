@@ -41,7 +41,7 @@ Las carpetas que componen el proyecto de *Urantiapedia* en Github son éstas:
       * **3dmodels_catalog.md**: catálogo de modelos 3D. El fichero para el idioma inglés contiene las tablas principales; los ficheros de otros idiomas son sólo traducciones.
       * **image_catalog.md**: catálogo de imágenes. El fichero para el idioma inglés contiene las tablas principales; los ficheros de otros idiomas son sólo traducciones.
       * **map_catalog.md**: catálogo de mapas. El fichero para el idioma inglés contiene las tablas principales; los ficheros de otros idiomas son sólo traducciones.
-      * **paralells.md**: catálogo general de paralelos entre _El Libro de Urantia_ y el resto de contenidos (artículos, Biblia, otros libros, etc.).
+      * __paralells.md__ : catálogo general de paralelos entre _El Libro de Urantia_ y el resto de contenidos (artículos, Biblia, otros libros, etc.).
     * **mediawiki** `DEPRECATED`: carpeta con contenido antiguo en formato Wikitext para MediaWiki. La primera versión de la *Urantiapedia* se ha hecho con MediaWiki pero la actual está creada con *Wiki.js*.
         * **articles-xx**: carpetas en desuso con ejemplos de artículos en formato Wikitext.
         * **main-pages-xx**: carpetas en desuso con contenido de ayuda en formato Wikitext.

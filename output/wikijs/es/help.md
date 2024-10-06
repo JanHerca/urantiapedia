@@ -34,7 +34,7 @@ Este es el índice principal de documentación sobre Urantiapedia en sí. Por fa
       - [Trabajar localmente en el PC](/es/help/github_edit_local)
   3. [Contenido del proyecto de GitHub](/es/help/github_content)
   4. [Flujo de trabajo para crear el contenido inicial en un idioma](/es/help/github_initial_flow)
-- Edit Urantiapedia through this website
+- Editar Urantiapedia a través de este sitio web
   1. [Interfaz y uso básico de Urantiapedia](/es/help/web_basics)
   2. [Manejo de páginas](/es/help/web_pages)
   3. [Uso de editores](/es/help/web_editors)

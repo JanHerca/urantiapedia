@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/es/help/markdown">Ayuda del formato Markdown</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_fork">Primeros pasos en GitHub</a></td>
+        <td><a href="/es/help/github_paramony">Traducción del Paramony</a></td>
       </tr>
     </tbody>
   </table>
@@ -51,7 +51,7 @@ En la captura de pantalla se muestran los controles más destacados del Editor H
       <tr>
         <td><a href="/es/help/markdown">Ayuda del formato Markdown</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_fork">Primeros pasos en GitHub</a></td>
+        <td><a href="/es/help/github_paramony">Traducción del Paramony</a></td>
       </tr>
     </tbody>
   </table>

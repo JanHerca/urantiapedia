@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_content">Contenido del proyecto de GitHub</a></td>
+        <td><a href="/es/help/web_html_editor">Uso del editor HTML</a></td>
         <td><a href="/es/help">Índice</a></td>
         <td><a href="/es/help/github_topicindex">Traducción y revisión del Índice de términos</a></td>
       </tr>
@@ -92,7 +92,7 @@ Ejemplo de un fragmento:
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_content">Contenido del proyecto de GitHub</a></td>
+        <td><a href="/es/help/web_html_editor">Uso del editor HTML</a></td>
         <td><a href="/es/help">Índice</a></td>
         <td><a href="/es/help/github_topicindex">Traducción y revisión del Índice de términos</a></td>
       </tr>

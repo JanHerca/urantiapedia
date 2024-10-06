@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/en/help/markdown">Markdown format help</a></td>
         <td><a href="/en/help">Índice</a></td>
-        <td><a href="/en/help/github_setting">Setting up GitHub project</a></td>
+        <td><a href="/en/help/github_paramony">Translation of Paramony</a></td>
       </tr>
     </tbody>
   </table>
@@ -51,7 +51,7 @@ The screenshot shows the most prominent controls of the HTML Editor:
       <tr>
         <td><a href="/en/help/markdown">Markdown format help</a></td>
         <td><a href="/en/help">Índice</a></td>
-        <td><a href="/en/help/github_setting">Setting up GitHub project</a></td>
+        <td><a href="/en/help/github_paramony">Translation of Paramony</a></td>
       </tr>
     </tbody>
   </table>

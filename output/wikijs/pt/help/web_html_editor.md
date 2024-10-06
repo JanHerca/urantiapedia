@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/pt/help/markdown">Ajuda do formato de redução</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/github_setting">Configurando o projeto GitHub</a></td>
+        <td><a href="/pt/help/github_paramony">Tradução de Paramony</a></td>
       </tr>
     </tbody>
   </table>
@@ -51,7 +51,7 @@ A captura de tela mostra os controles mais proeminentes do Editor de HTML:
       <tr>
         <td><a href="/pt/help/markdown">Ajuda do formato de redução</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/github_setting">Configurando o projeto GitHub</a></td>
+        <td><a href="/pt/help/github_paramony">Tradução de Paramony</a></td>
       </tr>
     </tbody>
   </table>

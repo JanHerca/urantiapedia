@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/fr/help/markdown">Aide au format Markdown</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
-        <td><a href="/fr/help/github_setting">Configuration du projet GitHub</a></td>
+        <td><a href="/fr/help/github_paramony">Traduction de Paramony</a></td>
       </tr>
     </tbody>
   </table>
@@ -51,7 +51,7 @@ La capture d'écran montre les commandes les plus importantes de l'éditeur HTML
       <tr>
         <td><a href="/fr/help/markdown">Aide au format Markdown</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
-        <td><a href="/fr/help/github_setting">Configuration du projet GitHub</a></td>
+        <td><a href="/fr/help/github_paramony">Traduction de Paramony</a></td>
       </tr>
     </tbody>
   </table>

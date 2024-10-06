@@ -41,7 +41,7 @@ As pastas que compõem o projeto *Urantiapedia* no Github são estas:
       * **3dmodels_catalog.md**: catálogo de modelos 3D. O arquivo para o idioma inglês contém as tabelas principais; arquivos de outros idiomas são apenas traduções. 
       * **image_catalog.md**: catálogo de imagens. O arquivo para o idioma inglês contém as tabelas principais; arquivos de outros idiomas são apenas traduções. 
       * **map_catalog.md**: Catálogo de mapas. O arquivo para o idioma inglês contém as tabelas principais; arquivos de outros idiomas são apenas traduções. 
-      * **paralells.md**: catálogo geral de paralelos entre _O Livro de Urântia_ e o restante do conteúdo (artigos, Bíblia, outros livros, etc.). 
+      * __paralells.md__ : catálogo geral de paralelos entre _O Livro de Urântia_ e o restante do conteúdo (artigos, Bíblia, outros livros, etc.). 
     * **mediawiki** `DEPRECATED`: pasta com conteúdo antigo em formato Wikitexto para MediaWiki. A primeira versão de *Urantiapedia* foi feita com MediaWiki, mas a atual é criada com *Wiki.js*. 
         * **articles-xx**: Pastas obsoletas com exemplos de artigos no formato Wikitexto. 
         * **main-pages-xx**: Pastas obsoletas com conteúdo de ajuda no formato Wikitexto. 
