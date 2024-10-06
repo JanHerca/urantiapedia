@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/devs">Ajuda dos desenvolvedores</a></td>
+        <td><a href="/pt/help/github_initial_flow">Fluxo de trabalho para criar conteúdo inicial em um idioma</a></td>
         <td><a href="/pt/help">Índice</a></td>
         <td><a href="/pt/help/web_pages">Gerenciar páginas</a></td>
       </tr>
@@ -93,7 +93,7 @@ Sua página não é criada até você clicar no botão **Criar** (localizado no 
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/devs">Ajuda dos desenvolvedores</a></td>
+        <td><a href="/pt/help/github_initial_flow">Fluxo de trabalho para criar conteúdo inicial em um idioma</a></td>
         <td><a href="/pt/help">Índice</a></td>
         <td><a href="/pt/help/web_pages">Gerenciar páginas</a></td>
       </tr>

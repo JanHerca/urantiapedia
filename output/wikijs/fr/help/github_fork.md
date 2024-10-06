@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/help/web_html_editor">Utilisation de l'éditeur HTML</a></td>
+        <td><a href="/fr/help/devs">Aide aux développeurs</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github_edit_on_web.md">Travailler directement depuis le site Web GitHub</a></td>
       </tr>

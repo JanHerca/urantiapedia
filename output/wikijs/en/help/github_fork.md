@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/web_html_editor">Using the HTML editor</a></td>
+        <td><a href="/en/help/devs">Developers help</a></td>
         <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/github_edit_on_web.md">Working directly on the GitHub website</a></td>
       </tr>
@@ -68,7 +68,7 @@ You'll need to remember to do this for each project every time you want to start
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/web_html_editor">Using the HTML editor</a></td>
+        <td><a href="/en/help/devs">Developers help</a></td>
         <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/github_edit_on_web.md">Working directly on the GitHub website</a></td>
       </tr>

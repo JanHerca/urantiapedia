@@ -1,6 +1,6 @@
 ---
 title: "Urantiapedia — Administrators help"
-description: 
+description:
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: help
@@ -38,54 +38,72 @@ The *Urantiapedia* project on GitHub (https://github.com/JanHerca/urantiapedia) 
 
 ## Who is this manual for?
 
-This manual is intended for users called *administrators*, or *admins* for short, users who meet the following requirements:
+This manual is intended for users * administrators*, or *admins*, that is:
 - users registered on [GitHub](https://github.com/).
 - users authorized as *admins* by the team that runs the Urantiapedia project.
-- users registered on Urantiapedia. Only another *admin* user can register a user as *admin*.
-- users with knowledge of Linux, [Docker](https://www.docker.com/), [Kubernetes](https://es.wikipedia.org/wiki/Kubernetes), [Git](https://git-scm.com/) and [GitHub](https://github.com/).
-- users with knowledge of *The Urantia Book* at least in one language in which it is published, and preferably with a good level of the English version.
-- users who wish to collaborate selflessly in the incorporation of information related to *The Urantia Book* in *Urantiapedia*.
+- registered users on Urantiapedia. Only another *admin* user can register a user as *admin*.
+- users with knowledge of Linux, [Docker](https://www.docker.com/), [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes), [Git](https://git-scm.com/) and [GitHub](https://github.com/).
+- users with knowledge of *The Urantia Book* in at least one language in which it is published, and preferably with a good command of the English version.
+- users who wish to selflessly collaborate in the incorporation of information related to *The Urantia Book* in *Urantiapedia*.
 
-*Admin* users are the only ones in charge of bulk-uploading changes to the *Urantiapedia* website during each milestone of the project. More about project milestones in [Milestones of the project](/en/help/phases).
+The web administrators are the only ones in charge of uploading massive changes to the *Urantiapedia* website during each of the project phases. More about the project phases at [Help start](/en/help/phases).
 
-## GitHub workflow
+## GitHub Workflow
 
-The process will be as follows:
-1. "Editor-in-Chief" creates a *fork* (a copy in its own account) of *Urantiapedia* project on GitHub (https://github.com/JanHerca/urantiapedia) and *Urantia-backup* project on GitHub (https://github.com/JanHerca/urantiapedia-backup). The first is a project that contains all the files. The second contains only the files that are synchronized with the *Urantiapedia* website.
-2. "Editor-in-Chief" creates a local copy of both projects on PC. The local copy must be of the latest version of *Urantiapedia* content (the master branch). This is done first through a *clone* action and later through *pulls* actions to the project, that downloads any change to the local copy.
-3. "Editor-in-Chief" makes changes in the local copy to the files indicated in this manual and in the way explained. "Editor-in-Chief" makes commmits to the local copy.
-4. "Editor-in-Chief" sends changes to his GitHub account through a *push* action. 
-5. "Editor-in-Chief" performs a *pull request* in GitHub web to the original projects. 
-6. The *pull requests* of "Editors-in-Chief" are reviewed by "Administrators", who are in charge of doing a *merge* with the main branch (master) of all those changes that are correct. Any changes that are not correct will be rejected and "Editors-in-Chief" will be notified to fix them.
-7. When changes that are OK and "Administrator" has done the merge, any changes to the *Urantiapedia-backup* project are automatically synchronized with the website. Now changes are visible to all, in order to check and validate that they are correct.
-8. The process is repeated as many times as needed, returning to point 2.
+The GitHub workflow is detailed in the Urantiapedia GitHub Project User Manual. You should start by taking a look at [Getting started on GitHub](/en/help/github_fork) and then continue from there with the rest of the steps and options for working on GitHub.
 
-![](/image/help/github_workflow_version_2.png)
+This is the complete index of the manual:
+- [Getting started with GitHub](/en/help/github_fork)
+- Working on GitHub:
+  - [Working directly from the GitHub website](/en/help/github_edit_on_web)
+  - Working locally on GitHub:
+    - [Setting up your GitHub project](/en/help/github_setting)
+    - [Working locally on your PC](/en/help/github_edit_local)
+- [GitHub project content](/en/help/github_content)
+- [Workflow for creating initial content in a language](/en/help/github_initial_flow)
 
-## Setting up the *Urantiapedia* project
+## Collaboration through this website
 
-Before any work in *Urantiapedia* using GitHub you must set up all the needed tools. Check [Setting up GitHub project](/en/help/github_setting).
+Due to the risks it entails, this type of collaboration is reserved for *Administrators* and *Editors-in-Chief* users. The former can edit any content; in the case of the latter, they will only have editing access to certain sections.
 
-## Content of Urantiapedia project at GitHub
-
-To know the content of the GitHub project and its structure, check [Content of GitHub project](/en/help/github_content).
+In this case, all tasks are performed through this website. It is necessary to log in with the editing account provided, and follow the manuals on how to make edits:
+- [Urantiapedia Interface and Basic Use](/en/help/web_basics)
+- [Managing Pages](/en/help/web_pages)
+- [Using Editors](/en/help/web_editors)
+  - [Using the Visual Editor](/en/help/web_visual_editor)
+  - [Using the Markdown Editor](/en/help/web_markdown_editor)
+  - [Using the HTML Editor](/en/help/web_html_editor)
 
 ## Tasks
 
-To know about the milestones of the project check [Milestones of Urantiapedia](/en/help/phases).
+For more information on the phases of the project, see [Phases of Urantiapedia](/en/help/phases).
 
-Once we have the input in the correct folders, for each language, the steps to take in Milestone I are:
-1. Translating *Paramony* from English to the target language. Check [Translation of Paramony](/en/help/github_paramony).
-2. Translating and reviewing *Topic Index* from English to the target language. Check [Translation an revision of Topic Index](/en/help/github_topicindex).
-3. Obtaining a public-domain translation of *The Bible* in the target language. Check [Obtaining The Bible](/en/help/github_bible).
-4. Converting *The Urantia Book* from HTML to JSON without footnotes. Check [Conversion to JSON](/en/help/github_book_json).
-5. Adding *Paramony* footnotes to *The Urantia Book* in JSON. Check [Adding Paramony footnotes](/en/help/github_footnotes).
-6. Converting *Topic index* from TXT to Wiki.js. Check [Converting Topic Index](/en/help/github_topicindex_to_wiki).
-7. Converting *The Urantia Book* from JSON with footnotes to Wiki.js including references to topics. Check [Converting The Urantia Book](/en/help/github_book_to_wiki).
-8. Converting *The Bible* from LaTeX to Wiki.js with footnotes. Check [Converting Bible](/en/help/github_bible_to_wiki).
-9. Commiting changes to [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) project. Check [Bulk upload content to Urantiapedia](/en/help/github_upload).
+### Phase I: The Urantia Book, the Bible, and the Index of Terms
 
-*Editors-in-Chief* and *Assistant Editors* perform tasks 1-3. *Admins* perform tasks 4-9.
+Once we have the initial input in the correct folders, following the steps in the manual indicated above, for each language, during Phase I, the steps to take are:
+1. Translation of the *Paramony* from English to the target language. See [Paramony Translation](/en/help/github_paramony).
+2. Translation and revision of the *Index of Terms* from English to the target language. See [Translation and revision of the Index of Terms](/en/help/github_topicindex).
+3. Obtaining a translation of The Bible in the target language. See [Getting the Bible](/en/help/github_bible).
+4. Converting *The Urantia Book* from HTML to JSON without footnotes. See [Conversion to JSON](/en/help/github_book_json).
+5. Adding footnotes to *The Urantia Book* in JSON. See [Adding Footnotes](/help/github_footnotes).
+6. Converting *Term Index* from TXT to Wiki.js. See [Term Index Convert](/help/github_topicindex_to_wiki).
+7. Converting *The Urantia Book* from JSON with footnotes to Wiki.js including references to the terms. See [Urantia Book Convert](/help/github_book_to_wiki).
+8. Converting *The Bible* from LaTeX to Wiki.js with footnotes. See [The Bible Convert](/help/github_bible_to_wiki).
+9. Uploading changes to [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). See [Bulk Upload Content to Urantiapedia](/en/help/github_upload).
+
+Currently all tasks except task 2 have been completed for 25 languages.
+
+### Phase II: Books, Articles, Study Aids, Diagrams, and Indexes
+
+1. Create a catalog of books that are considered sources for *The Urantia Book* or contain interesting parallels. See [Source Books Catalog](/en/help/github_sourcebooks_catalog).
+2. Obtain the above books. See [Get Source Books](/en/help/github_sourcebooks_markdown).
+3. Create a catalog of articles written by readers. See [Articles Catalog](/en/help/github_articles_catalog).
+4. Obtain the articles. See [Get Articles](/en/help/github_articles_markdown).
+5. Create a catalog of study aids.
+6. Get previous study aids. See [Get Study Aids]( /en/help/github_studyaids_markdown).
+7. Create a diagram catalog. See [Diagrams Catalog](/en/help/github_diagrams_catalog).
+8. Get previous diagrams in HTML imagemap format or preferably SVG. See [Get Diagrams](/en/help/github_diagrams_svg).
+9. Create the project's image catalog. See [Image Catalog](/en/help/github_images_catalog).
 
 ![](/image/help/formats.png)
 

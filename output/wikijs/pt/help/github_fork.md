@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/web_html_editor">Usando o editor HTML</a></td>
+        <td><a href="/pt/help/devs">Ajuda dos desenvolvedore</a></td>
         <td><a href="/pt/help">Índice</a></td>
         <td><a href="/pt/help/github_edit_on_web.md">Trabalhe diretamente no site do GitHub</a></td>
       </tr>
@@ -68,7 +68,7 @@ Você precisará se lembrar de fazer isso em cada projeto sempre que quiser inic
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/web_html_editor">Usando o editor HTML</a></td>
+        <td><a href="/pt/help/devs">Ajuda dos desenvolvedore</a></td>
         <td><a href="/pt/help">Índice</a></td>
         <td><a href="/pt/help/github_edit_on_web.md">Trabalhe diretamente no site do GitHub</a></td>
       </tr>

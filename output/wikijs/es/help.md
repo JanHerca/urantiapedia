@@ -25,7 +25,16 @@ Este es el índice principal de documentación sobre Urantiapedia en sí. Por fa
   3. [Manual para Editores Jefe](/es/help/github)
   4. [Manual para Editores Asistentes](/es/help/github_assistant)
   5. [Manual para Desarrolladores](/es/help/devs)
-- Cómo usar esta web
+- Editar Urantiapedia a través de los proyectos en GitHub
+  1. [Primeros pasos en GitHub](/es/help/github_fork)
+  2. Trabajo en GitHub:
+    - [Trabajar directamente desde la web de GitHub](/es/help/github_edit_on_web)
+    - Trabajar localmente en GitHub:
+      - [Configurar el proyecto de GitHub](/es/help/github_setting)
+      - [Trabajar localmente en el PC](/es/help/github_edit_local)
+  3. [Contenido del proyecto de GitHub](/es/help/github_content)
+  4. [Flujo de trabajo para crear el contenido inicial en un idioma](/es/help/github_initial_flow)
+- Edit Urantiapedia through this website
   1. [Interfaz y uso básico de Urantiapedia](/es/help/web_basics)
   2. [Manejo de páginas](/es/help/web_pages)
   3. [Uso de editores](/es/help/web_editors)
@@ -33,9 +42,6 @@ Este es el índice principal de documentación sobre Urantiapedia en sí. Por fa
     - [Uso del editor Markdown](/es/help/web_markdown_editor)
       - [Ayuda del formato Markdown](/es/help/markdown)
     - [Uso del editor HTML](/es/help/web_html_editor)
-- Cómo usar los proyectos de Urantiapedia en GitHub
-  1. [Configurar el proyecto Urantiapedia de GitHub](/es/help/github_setting)
-  2. [Contenido del proyecto Urantiapedia de GitHub](/es/help/github_content)
 - Tareas para colaboradores
   - Fase I: El Libro de Urantia, la Biblia y el Índice de Términos
     1. [Traducción del Paramony](/es/help/github_paramony)

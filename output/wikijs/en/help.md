@@ -25,7 +25,16 @@ This is the main index for documentation on Urantiapedia itself. Please read car
   3. [Chief Editors help](/en/help/github)
   4. [Assistant Editors help](/en/help/github_assistant)
   5. [Developers help](/en/help/devs)
-- How to use this website
+- Editing Urantiapedia through GitHub projects
+  1. [Getting started with GitHub](/en/help/github_fork)
+  2. Working on GitHub:
+    - [Working directly from the GitHub website](/en/help/github_edit_on_web)
+    - Working locally on GitHub:
+      - [Setting up your GitHub project](/en/help/github_setting)
+      - [Working locally on your PC](/en/help/github_edit_local)
+  3. [GitHub project content](/en/help/github_content)
+  4. [Workflow for creating initial content in a language](/en/help/github_initial_flow)
+- Edit Urantiapedia through this website
   1. [Interface and basic use of Urantiapedia](/en/help/web_basics)
   2. [Manage pages](/en/help/web_pages)
   3. [Use of editors](/en/help/web_editors)
@@ -33,9 +42,6 @@ This is the main index for documentation on Urantiapedia itself. Please read car
     - [Using the Markdown editor](/en/help/web_markdown_editor)
       - [Markdown format help](/en/help/markdown)
     - [Using the HTML editor](/en/help/web_html_editor)
-- How to use Urantiapedia projects in GitHub
-  1. [Setting up GitHub project](/en/help/github_setting)
-  2. [Content of GitHub project](/en/help/github_content)
 - Tasks for collaborators
   - Milestone I - The Urantia Book, the Bible and Topic Index
     1. [Translation of Paramony](/en/help/github_paramony)

@@ -25,6 +25,15 @@ C'est l'index principal de la documentation sur Urantiapedia elle-même. Veuille
   3. [Aide des rédacteurs en chef](/fr/help/github)
   4. [Aide des éditeurs adjoints](/fr/help/github_assistant)
   5. [Aide aux développeurs](/fr/help/devs)
+- Editing Urantiapedia through GitHub projects
+  1. [Démarrer sur GitHub](/fr/help/github_fork)
+  2. Travailler sur GitHub :
+    - [Travailler directement depuis le site Web de GitHub](/fr/help/github_edit_on_web)
+    - Travailler localement sur GitHub :
+      - [Configurer le projet GitHub](/fr/help/github_setting)
+      - [Travailler localement sur PC](/fr/help/github_edit_local)
+  3. [Contenu du projet GitHub](/fr/help/github_content)
+  4. [Workflow pour créer contenu initial dans une langue](/fr/help/github_initial_flow)
 - Comment utiliser ce siteweb
   1. [Interface et utilisation de base d'Urantiapedia](/fr/help/web_basics)
   2. [Gérer les pages](/fr/help/web_pages)
@@ -33,9 +42,6 @@ C'est l'index principal de la documentation sur Urantiapedia elle-même. Veuille
     - [Utilisation de l'éditeur Markdown](/fr/help/web_markdown_editor)
       - [Aide au format Markdown](/fr/help/markdown)
     - [Utilisation de l'éditeur HTML](/fr/help/web_html_editor)
-- Comment utiliser les projets Urantiapedia dans GitHub
-  1. [Configuration du projet GitHub](/fr/help/github_setting)
-  2. [Contenu du projet GitHub](/fr/help/github_content)
 - Tâches pour les collaborateurs
   - Jalon I - Le Livre d'Urantia, la Bible et l'index des sujets
     1. [Traduction de Paramony](/fr/help/github_paramony)

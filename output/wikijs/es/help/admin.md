@@ -50,10 +50,10 @@ Los administradores de la web son los únicos encargados de subir cambios masivo
 
 ## Procedimiento de trabajo en GitHub
 
-El proceso de trabajo en GitHub se detalla en el Manual de uso de los proyectos de Urantiapedia en GitHub. Se debería empezar echando un vistazo a los [Primeros pasos en GitHub](/es/help/github_fork.md) y luego continuar desde ahí con el resto de pasos a dar y las distintas opciones que hay para trabajar en GitHub.
+El proceso de trabajo en GitHub se detalla en el Manual de uso de los proyectos de Urantiapedia en GitHub. Se debería empezar echando un vistazo a los [Primeros pasos en GitHub](/es/help/github_fork) y luego continuar desde ahí con el resto de pasos a dar y las distintas opciones que hay para trabajar en GitHub.
 
 Este es el índice completo del manual:
-- [Primeros pasos en GitHub](/es/help/github_fork.md)
+- [Primeros pasos en GitHub](/es/help/github_fork)
 - Trabajo en GitHub:
   - [Trabajar directamente desde la web de GitHub](/es/help/github_edit_on_web)
   - Trabajar localmente en GitHub:

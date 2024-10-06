@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/help/devs">Aide aux développeurs</a></td>
+        <td><a href="/fr/help/github_initial_flow">Workflow pour créer contenu initial dans une langue</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/web_pages">Gérer les pages</a></td>
       </tr>
@@ -93,7 +93,7 @@ Votre page n'est pas créée tant que vous n'avez pas cliqué sur le bouton **Cr
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/help/devs">Aide aux développeurs</a></td>
+        <td><a href="/fr/help/github_initial_flow">Workflow pour créer contenu initial dans une langue</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/web_pages">Gérer les pages</a></td>
       </tr>
