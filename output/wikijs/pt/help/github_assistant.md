@@ -1,5 +1,5 @@
 ---
-title: "Urantiapedia — Ajuda do editor assistente"
+title: "Urantiapedia — Manual para Editores Assistentes"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -12,146 +12,132 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/github">Ajuda dos editores-chefe</a></td>
+        <td><a href="/pt/help/github">Manual para editores-chefes</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/devs">Ajuda dos desenvolvedores</a></td>
+        <td><a href="/pt/help/devs">Manual do desenvolvedor</a></td>
       </tr>
     </tbody>
   </table>
 </figure>
- 
-## Sobre Urantiapedia
 
-[Urantiapedia](https://urantiapedia.org) é um site colaborativo baseado em [Wiki.js](https://js.wiki/) com o propósito de ser um centro unificado para a disseminação de todo o conhecimento sobre *O Livro de Urântia*.
+## Sobre Urantiapedia 
 
-## Sobre os campos azuis
+[Urantiapedia](https://urantiapedia.org) é um site colaborativo baseado em [Wiki.js](https://js .wiki/) com o propósito de servir como um centro unificado para a disseminação de todo o conhecimento relacionado ao *Livro de Urântia*. 
 
-[Blue Fields](https://blue-fields.netlify.app/) é um site que foi criado para juntar e organizar os leitores do *O Livro de Urântia* que desejam colaborar em projetos inteligentes, propositais e altruístas em todo o mundo. mundo. É o site que gerencia o cadastro e a colaboração entre os voluntários da *Urantiapedia*.
+## Sobre inscrição em Urantiapedia e Blue Fields 
 
-## Sobre o GitHub
+Se você deseja colaborar neste projeto, o melhor meio de contato é o email urantiapedia@gmail.com. Envie uma mensagem comentando seu interesse no projeto e os Administradores se encarregarão de lhe dar acesso. 
 
-A Urantiapedia tem dois projetos públicos no GitHub: [Urantiapedia](https://github.com/JanHerca/urantiapedia) e [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) criado para servir como um procedimento de inicialização rápida para conteúdo inicial. Ele contém arquivos em determinados formatos e softwares que ajudam a automatizar a criação do conteúdo inicial.
+Outra forma que estará disponível em breve será através do cadastro no site [Blue Fields](https://blue-fields.netlify.app/), que é um site que foi criado para unir e organizar os leitores de *El Urantia Reserve* que desejam participar de projetos inteligentes, intencionais e altruístas ao redor do mundo. Uma vez registrado, a equipe do projeto entrará em contato com você. O projeto Urantiapedia em Blue Fields é acessado aqui: [Urantiapedia on Blue Fields](https://blue-fields.netlify.app/projects/292396532506821125). No entanto, este website não está 100% operacional pelo que se recomenda o contacto via email. 
 
-## Para quem é este manual?
+## Sobre o GitHub 
 
-Este manual é para usuários chamados “Editores Assistentes”, ou usuários que cumprem com estes requisitos:
-- Eles têm uma conta neste site com permissões de edição. Esta é a única conta necessária.
-- Eles têm um bom conhecimento do *O Livro de Urântia* em pelo menos um idioma no qual ele é publicado, mas melhor se for o inglês e um segundo idioma no qual o livro é traduzido.
-- Eles desejam colaborar de forma altruísta na adição de informações relacionadas ao *O Livro de Urântia* na *Urântiapédia*.
+[GitHub](https://github.com/) é uma plataforma para controle de versão em projetos colaborativos, especialmente projetos de código ou conteúdo web. 
 
-## Duas maneiras de colaborar
+O projeto *Urantiapedia* no GitHub (https://github.com/JanHerca/urantiapedia) é um projeto que contém todo o conteúdo do site, além de um aplicativo (*Urantiapedia Tools*) para ajudar a automatizar a criação de conteúdo. O projeto *Urantiapedia-backup* (https://github.com/JanHerca/urantiapedia-backup) é o mecanismo usado para fazer uploads massivos de conteúdo. 
 
-Os “editores assistentes” podem colaborar de duas maneiras conforme sua conveniência.
-1. Baixando os arquivos do GitHub, fazendo alterações e adições e enviando seu trabalho por e-mail.
-2. Usando este site diretamente.
+## A quem se destina este manual? 
 
-Qualquer um dos métodos é igualmente aceitável. A diferença entre uma ou outra forma de colaboração está detalhada nesta tabela:
+Este manual é destinado a usuários denominados "Editores Assistentes", ou seja, aqueles usuários que atendem aos seguintes requisitos:
+- Eles têm um bom conhecimento do *Livro de Urântia* pelo menos em um idioma em que é publicado, mas é melhor se for o inglês e em um segundo idioma em que o livro é traduzido. 
+- Eles escrevem bem e corretamente. 
+- Não possuem conhecimentos específicos de informática. 
+- Desejam colaborar desinteressadamente na incorporação de informações relacionadas ao *Livro de Urântia* na *Urantiapédia*. 
 
-Modo | Vantagens | Desvantagens
---- | --- | ---
-Por e-mail | Pode trabalhar sem rede <br> O conteúdo é criado mais rápido <br> Arquivos de suporte podem ser editados (pasta `/input`) | O editor não aparece como criador das alterações na web
-Na web | O uso de editores visuais facilita a edição <br> O editor aparece como o criador das alterações | Requer acesso à rede <br> O salvamento é mais lento e você só pode ir página por página <br> Você só pode editar coisas que são páginas da web
+## Duas maneiras de colaborar 
 
-A seguir detalhamos como seriam realizadas as ações necessárias nas duas formas de colaboração.
+“Editores Assistentes” podem colaborar de duas maneiras conforme sua conveniência. 
+1. Trabalhar através da plataforma GitHub, preferencialmente através do próprio site GitHub, fazendo ali alterações e acréscimos. 
+2. Envio do seu trabalho por email. 
 
-## Colaboração por e-mail
+Qualquer um dos métodos é igualmente aceitável. A diferença entre uma ou outra forma de colaboração está detalhada nesta tabela: 
+
+Modo | Vantagens | Desvantagens 
+--- | --- | --- 
+No site GitHub | O editor é registrado como criador das alterações. | Requer acesso à rede. <br> O salvamento é mais lento e você só pode ir página por página. 
+Por e-mail | Você pode trabalhar sem rede. <br> O conteúdo é criado mais rapidamente. | O editor não aparece como o criador das alterações. 
+
+A seguir detalhamos como seriam realizadas as ações necessárias em cada forma de colaboração. 
+
+## Procedimento de trabalho no GitHub 
+
+O processo de trabalho no GitHub é detalhado no Manual do Usuário dos projetos da Urantiapedia no GitHub. Você deve começar dando uma olhada em [Introdução ao GitHub](/pt/help/github_fork) e depois continuar com a etapa de [Trabalhar diretamente no site do GitHub](/pt/help/github_edit_on_web). O restante das páginas deste manual não interessa aos “Editores Assistentes”. 
+
+## Colaboração por e-mail 
+
+Para enviar alterações por e-mail é essencial poder ver o conteúdo atual do projeto Urantiapedia, ter esse conteúdo como referência ao criar um e-mail com conteúdo novo ou modificado. Para isso você tem várias opções que detalhamos a seguir. 
+
+### Consulte o conteúdo da Urantiapedia no GitHub 
+
+Entre no site do projeto Urantiapedia no GitHub: https://github.com/JanHerca/urantiapedia. Essa página é pública e você pode ver que ela imita um Explorador de Arquivos. Você pode clicar nas pastas do projeto e, finalmente, nos arquivos do projeto para visualizar seu conteúdo. Um arquivo Marckdown com um artigo pode ser visualizado no modo _Preview_, para lê-lo com mais conforto, ou no modo _Code_, onde você pode ver o código real do arquivo. 
+
+![](/image/help/github_edit_1.png) 
 
 ### Baixe os arquivos do GitHub
 
-O GitHub é uma página da Web para criação de projetos colaborativos, geralmente sobre desenvolvimento de software. Os arquivos do projeto para *Urantiapedia* estão aqui: [Urantiapedia](https://github.com/JanHerca/urantiapedia).
+Acesse o site do projeto Urantiapedia no GitHub: https://github.com/JanHerca/urantiapedia. Esta página é pública, como já dissemos. Qualquer pessoa pode baixar os arquivos. Você tem duas opções: 
+- Baixar o projeto inteiro. É a melhor opção se você for trabalhar em muitas partes da *Urantiapedia*. 
+- Baixe apenas os arquivos necessários. Esta opção é mais fácil se você for ajudar apenas uma pequena parte. 
 
-Este projeto é público. Qualquer pessoa pode baixar os arquivos. Você tem duas opções:
-- Baixe tudo no projeto. Esta é a melhor opção se você for trabalhar em várias partes da *Urantiapedia*.
-- Baixe apenas os arquivos necessários. Esta opção é mais simples se você for ajudar apenas em uma pequena parte.
+#### Baixe o projeto inteiro 
 
-### Baixando todo o projeto
+Para baixar o projeto inteiro, siga estas etapas: 
 
-Para baixar tudo vá até a página principal do [projeto no GitHub](https://github.com/JanHerca/urantiapedia) e no botão verde que diz *Code*, clique e selecione a opção *Download ZIP*. O navegador começará a baixar um arquivo ZIP com o conteúdo mais atualizado. Salve-o em qualquer pasta ou verifique sua pasta *Downloads* para localizar o arquivo.
+1. Acesse o site do projeto Urantiapedia no GitHub: https://github.com/JanHerca/urantiapedia. 
+2. Clique no botão verde que diz *Código* e selecione a opção *Download ZIP* (*Baixar ZIP*). O navegador começará a baixar o arquivo ZIP com o conteúdo mais atualizado. Salve-o em qualquer pasta ou verifique a pasta *Downloads* para localizar o arquivo. 
 
-Esteja ciente de que pode ser um download longo porque o projeto contém uma boa quantidade de arquivos. Você deve ter pelo menos 2-3 GB de espaço livre em seu computador.
+![](/image/help/github_download_1.png) 
 
-Assim que o download terminar, você terá um arquivo chamado `urantiapedia-master.zip`. Este é um arquivo compactado, portanto, descompacte-o em qualquer pasta. Se você não sabe como descompactar um arquivo ZIP, é muito fácil. No Windows, por exemplo, clique com o botão direito do mouse no arquivo e selecione *Extrair tudo* para abrir a ferramenta de descompactação.
+Observe que o download pode ser longo porque o projeto contém um bom número de arquivos. Você deve ter pelo menos 2 a 3 GB de espaço livre em seu PC. 
 
-Uma vez que os arquivos são descompactados, você está pronto para ir para a próxima etapa com o Editor de Texto.
+Assim que o download for concluído, você terá um arquivo chamado `urantiapedia-master.zip`. Este é um arquivo compactado, então descompacte-o em qualquer pasta. Se você não sabe como descompactar um arquivo ZIP, é muito fácil. No Windows, por exemplo, clique com o botão direito no arquivo e selecione *Extrair tudo* para abrir a ferramenta de descompactação padrão. 
 
-### Baixando apenas os arquivos necessários
+Depois que os arquivos forem descompactados, você poderá visualizá-los. A maioria são arquivos de texto que você pode abrir com o Bloco de Notas ou qualquer outro editor de texto semelhante. 
 
-Caso você não queira baixar todo o projeto, você pode fazer isso.
+#### Baixe apenas os arquivos necessários 
 
-Vá para este URL no navegador: https://github.com/JanHerca/urantiapedia/tree/master/
+Caso não queira baixar o projeto inteiro, você pode fazer o seguinte: 
 
-Este é o caminho com os arquivos. Você pode percorrer as pastas na página do GitHub. Quando precisar de um arquivo, clique com o botão direito do mouse no nome dele e selecione *Salvar link como*. Isso trará a caixa de diálogo para salvar cada arquivo.
+1. Acesse o site do projeto Urantiapedia no GitHub: https://github.com/JanHerca/urantiapedia. 
+2. Esta é a página do GitHub com os arquivos. Você pode navegar pelas pastas na página do GitHub. Quando precisar de um arquivo, insira-o e clique no botão _Download raw file_. Isso abrirá a caixa de diálogo para salvar cada arquivo. 
 
-Dessa forma, você pode escolher quais arquivos deseja baixar, o que é uma opção melhor se você não tiver muito espaço livre no disco rígido ou não precisar do projeto completo.
+![](/image/help/github_download_2.png) 
 
-Agora podemos editá-los em um Editor de Texto.
+Dessa forma, você pode escolher quais arquivos deseja baixar, o que é uma opção melhor se você não tiver muito espaço livre no disco rígido ou não precisar de todo o projeto. 
 
-### Edite os arquivos em um Editor de Texto
+Agora podemos editar os arquivos em um editor de texto. 
 
-Para editar os arquivos podemos usar qualquer ferramenta que possa editar arquivos de texto. No entanto, é altamente recomendável usar um software que possa mostrar caracteres ocultos e espaços em branco. É importante mostrá-los porque esses caracteres extras são usados ​​para criar a estrutura dos arquivos e, se os removermos, podemos corromper os arquivos.
+### Edite os arquivos em um editor de texto 
 
-O software mais recomendado é o *Visual Studio Code*, mas outros podem fazer o trabalho:
-* *Visual Studio Code*: https://code.visualstudio.com/
-* *Notepad++*: https://notepad-plus-plus.org/
-* *Atom*: https://atom.io/
-* *Sublime*: https://www.sublimetext.com/
+Se o que você está fazendo são correções nos arquivos, não é necessário editar os arquivos originais para enviá-los por email. Basta copiar um trecho de um parágrafo que você considera incorreto e apontar o que está errado e o que deve ser visto.
 
-Todos eles são de uso gratuito.
+Se o que você vai enviar por correio é uma modificação importante em um novo arquivo ou arquivos, então para editar esses arquivos é melhor usar uma ferramenta que possa editar arquivos do tipo texto, uma boa recomendação é usar um software que possa exibir arquivos ocultos. caracteres e espaços em branco. É importante exibi-los porque esses caracteres extras são usados ​​para criar a estrutura dos arquivos e se os removermos podemos danificar os arquivos. 
 
-Se você for usar *Visual Studio Code*, as etapas para configurá-lo são estas:
-1. Baixe *Visual Studio Code*. Acesse o site e clique no botão *Download*.
-2. Instale-o. Durante a instalação, é recomendável marcar a opção *Adicionar ação 'Abrir com Code' ao menu de contexto da pasta* se você for um usuário do Windows. Com isso, uma opção será adicionada ao menu de contexto das pastas do Windows para que você possa abrir facilmente o conteúdo de qualquer pasta no editor.
-3. Abra-o. Na primeira vez que é aberto, você pode configurar algumas configurações. Pule todos eles.
-4. Vá para o menu *Arquivo* e selecione *Abrir pasta*. Em seguida, selecione a pasta com o projeto completo ou com os arquivos individuais que você baixou.
-5. Abra qualquer um dos arquivos.
-6. Uma extensão que pode facilitar a vida é *Sync Scroll*. Esta extensão permite rolar em vários arquivos em paralelo, algo que ajuda muito na hora de editar em vários idiomas ao mesmo tempo.
-7. Para instalar a extensão, vá ao painel *Extensões*. Digite *Sync Scroll* na caixa de pesquisa. Clique no botão *Instalar* na extensão. Agora há um botão na barra de status para ativar ou desativar o *Sync Scroll*. É necessário ter vários arquivos abertos em paralelo para ver a opção. Para isso, clique com o botão direito do mouse em qualquer arquivo aberto na lista de arquivos abertos e selecione *Abrir ao lado*.
+O software mais recomendado é o *Visual Studio Code*, mas outros podem fazer o trabalho: 
+* O *Notepad* que vem por padrão com o Windows. 
+* *Código do Visual Studio*: https://code.visualstudio.com/ 
+* *Notepad++*: https://notepad-plus-plus.org/ 
+* *Atom*: https://atom.io/ 
+* *Sublime *: https://www.sublimetext.com/ 
 
-### Conteúdo do projeto Urantiapedia no GitHub
+Todos eles são de uso gratuito. 
 
-Para conhecer o conteúdo do projeto GitHub e sua estrutura, consulte [Content of GitHub project](/pt/help/github_content).
+Se você usa o *Visual Studio Code* aqui estão algumas dicas úteis: 
+- Durante a instalação, é recomendado marcar a opção *Add action 'Open with Code' to folder context menu* (*Adicionar ação 'Abrir com Código' ao menu de contexto da pasta*) se você for um usuário do Windows. Isso adicionará uma opção ao menu de contexto das pastas do Windows para que você possa abrir facilmente o conteúdo de qualquer pasta no editor. Desta forma, se você clicar com o botão direito na pasta *urantiapedia* você pode usar a opção *Open folder* para abrir o projeto diretamente no VS Code. 
+- Uma extensão que pode facilitar sua vida é *Sync Scroll*. Esta extensão permite percorrer vários arquivos em paralelo, o que ajuda muito na hora de editar em vários idiomas ao mesmo tempo. Para instalar a extensão, vá para o painel *Extensões*. Digite *Sync Scroll* na caixa de pesquisa. Clique no botão *Instalar* na extensão. Agora você terá um botão na barra de status para ativar ou desativar *Sync Scroll*. É necessário ter vários arquivos abertos em paralelo para ver esta opção. Para fazer isso, clique com o botão direito em um arquivo aberto na lista de arquivos e selecione *Open to the side* (*Abrir ao lado*). 
 
-### Enviando alterações para administradores
 
-A colaboração por meio do GitHub tem a vantagem de que qualquer coisa pode ser feita facilmente pela web do GitHub. Mas para que os *Assistentes Editores* funcionem bem simples, eles podem enviar os arquivos editados enviando-os por e-mail para qualquer um dos mantenedores do projeto ou para urantiapedia@gmail.com.
+### Enviando alterações aos administradores 
 
-Se você esteve em contato com algum dos administradores do projeto, pode enviar diretamente seu trabalho. Então é muito fácil para os mantenedores atualizarem o site *Urantiapedia* do GitHub com o novo conteúdo e, por meio dele, atualizar o site *Urantiapedia*. Você será notificado quando as alterações forem feitas na web, que geralmente não leva mais de uma hora, para verificar se suas alterações foram atualizadas corretamente.
+Basta enviar um e-mail para urantiapedia@gmail com os arquivos que você modificou ou deseja adicionar. No caso de arquivos a serem adicionados, indique na mensagem de e-mail onde deverão ser adicionados. Se forem correções simples você também pode adicioná-las à mensagem de e-mail, não é necessário inseri-las em um arquivo. 
 
-Lembre-se de que, se você enviar seu trabalho por correio, não será refletido que as alterações enviadas foram feitas por você e, em vez disso, elas aparecerão como alterações feitas pelos administradores. Se você deseja ser marcado como criador das alterações, deve usar a funcionalidade deste site.
+Posteriormente os *administradores* se encarregarão desses envios e atualizarão o site da *Urantiapedia* com as alterações que considerarem corretas. Você será notificado quando as alterações estiverem prontas no site, o que pode levar alguns dias.
 
-## Colaboração através deste site
+Lembre-se que se você enviar por e-mail no site, não refletirá que as alterações enviadas foram feitas por você, mas sim aparecerão como alterações dos *Administradores*. Se quiser uma prova de que fez alterações, você deve usar o procedimento [Trabalhar diretamente no site do GitHub](/pt/help/github_edit_on_web). 
 
-Neste caso, todas as tarefas são realizadas através deste site. Você precisa fazer login com a conta de edição fornecida e seguir os manuais sobre como fazer edições:
-- [Interface e uso básico da Urantiapedia](/pt/help/web_basics)
-- [Gerenciar páginas](/pt/help/web_pages)
-- [Uso de editores](/pt/help/web_editors)
-  - [Usando o editor visual](/pt/help/web_visual_editor)
-  - [Usando o editor Markdown](/pt/help/web_markdown_editor)
-  - [Usando o editor HTML](/pt/help/web_html_editor)
+## Tarefas 
 
-## Tarefas
-
-Para saber sobre os marcos do projeto, consulte [Marcos de Urantiapedia](/pt/help/phases). As tarefas que podem ser realizadas pelos “Editores Assistentes” são as indicadas aqui:
-
-### Marco I: O Livro de Urântia, a Bíblia e o Índice de Tópicos
-
-1. Traduzindo *Paramony* do inglês para o idioma de destino. Verifique [Tradução do Paramony](/pt/help/github_paramony).
-2. Traduzindo e revisando o *Topic Index* do inglês para o idioma de destino. Verifique [Tradução de uma revisão do Índice de tópicos](/pt/help/github_topicindex).
-3. Obter uma tradução de domínio público de *A Bíblia* no idioma de destino. Verifique [Obter a Bíblia](/pt/help/github_bible).
-
-Atualmente as tarefas 1 e 3 foram concluídas.
-
-### Marco II: Livros, artigos, auxílios de estudo, esquemas e índices
-
-1. Crie um catálogo de livros que sejam considerados fontes do *O Livro de Urântia* ou que contenham paralelos interessantes. Consulte [Catálogo de livros de origem](/pt/help/github_sourcebooks_catalog).
-2. Obtenha livros anteriores. Consulte [Obter livros “fonte”](/pt/help/github_sourcebooks_markdown).
-3. Crie um catálogo de artigos escritos por leitores. Consulte [Catálogo de artigos](/pt/help/github_articles_catalog).
-4. Obtenha artigos anteriores. Consulte [Obter artigos](/pt/help/github_articles_markdown).
-5. Crie um catálogo de auxílios de estudo. Veja [Catálogo de Auxílios de Estudo](/pt/help/github_studyaids_catalog).
-6. Obtenha os auxílios de estudo acima. Consulte [Obter auxílios de estudo](/pt/help/github_studyaids_markdown).
-7. Crie um catálogo de diagramas. Consulte [Catálogo de diagramas](/pt/help/github_diagrams_catalog).
-8. Obtenha os diagramas acima em formato de mapa de imagem HTML ou preferencialmente SVG. Consulte [Obter diagramas](/pt/help/github_diagrams_svg).
-9. Crie o catálogo de imagens do projeto. Veja [Catálogo de Imagens](/pt/help/github_images_catalog).
+A lista de tarefas e os manuais de cada tarefa estão indicados no [manual para Administradores](/pt/help/admin). O índice é o mesmo ali indicado, portanto consulte esse manual para mais referências.
 
 ## Links externos
 
@@ -168,9 +154,9 @@ Atualmente as tarefas 1 e 3 foram concluídas.
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/github">Ajuda dos editores-chefe</a></td>
+        <td><a href="/pt/help/github">Manual para editores-chefes</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/devs">Ajuda dos desenvolvedores</a></td>
+        <td><a href="/pt/help/devs">Manual do desenvolvedor</a></td>
       </tr>
     </tbody>
   </table>

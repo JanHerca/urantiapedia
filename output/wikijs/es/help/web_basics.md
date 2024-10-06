@@ -67,7 +67,7 @@ Urantiapedia ofrece varios editores según el tipo de contenido que desees escri
 
 Para obtener una lista completa de editores y cómo usarlos, consulta:
 - [Usando el editor visual](/es/help/web_visual_editor)
-- [Usando el editor Markdown](/en/help/web_markdown_editor)
+- [Usando el editor Markdown](/es/help/web_markdown_editor)
 - [Usando el editor HTML](/es/help/web_html_editor)
 
 ### Introducir metadatos en las página

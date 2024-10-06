@@ -1,5 +1,5 @@
 ---
-title: Urantiapedia - Aide de l'éditeur en chef
+title: "Urantiapedia — Manuel pour les rédacteurs en chef"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/help/admin">Aide des administrateurs</a></td>
+        <td><a href="/fr/help/admin">Manuel pour les administrateurs</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
-        <td><a href="/fr/help/github_assistant">Aide des éditeurs adjoints</a></td>
+        <td><a href="/fr/help/github_assistant">Manuel pour les rédacteurs adjoints</a></td>
       </tr>
     </tbody>
   </table>
@@ -22,78 +22,43 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## À propos d'Urantiapédia
 
-[Urantiapedia](https://urantiapedia.org) est un site Web collaboratif basé sur [Wiki.js](https://js.wiki/) dans le but d'être un centre unifié pour la diffusion de toutes les connaissances concernant *Le Livre d'Urantia*.
+[Urantiapedia](https://urantiapedia.org) est un site Web collaboratif basé sur [Wiki.js](https://js.wiki/) dans le but de servir de centre unifié pour la diffusion de toutes les connaissances liées à *Le Livre d'Urantia*.
 
-## À propos des champs bleus
+## À propos de l'inscription sur Urantiapedia et Blue Fields
 
-[Blue Fields](https://blue-fields.netlify.app/) est un site Web qui a été créé pour rejoindre et organiser les lecteurs du *Livre d'Urantia* qui souhaitent collaborer à des projets intelligents, utiles et altruistes partout dans le monde. monde. C'est le site web qui gère le registre et la collaboration entre les bénévoles d'*Urantiapedia*.
+Si vous souhaitez collaborer à ce projet, le meilleur moyen de contact est urantiapedia@gmail.com. Envoyez un message commentant votre intérêt pour le projet et les Administrateurs se chargeront de vous donner accès.
+
+Un autre moyen qui sera bientôt disponible sera l'inscription sur le site Web [Blue Fields](https://blue-fields.netlify.app/), qui est un site Web qui a été créé pour unir et organiser les lecteurs de *El Urantia. Book* qui souhaitent participer à des projets intelligents, utiles et altruistes à travers le monde. Une fois inscrit, l’équipe du projet vous contactera. Le projet Urantiapedia sur Blue Fields est accessible ici : [Urantiapedia on Blue Fields](https://blue-fields.netlify.app/projects/292396532506821125). Cependant, ce site Web n'est pas opérationnel à 100 %, un contact par e-mail est donc recommandé.
 
 ## À propos de GitHub
 
-Urantiapedia a deux projets publics dans GitHub: [Urantiapedia](https://github.com/JanHerca/urantiapedia) et [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) créés pour servir de procédure de démarrage rapide pour le contenu initial. Il contient des fichiers dans certains formats et des logiciels qui aident à automatiser la création du contenu initial.
+[GitHub](https://github.com/) est une plateforme de contrôle de version dans les projets collaboratifs, notamment dans les projets de code ou de contenu Web.
+
+Le projet *Urantiapedia* sur GitHub (https://github.com/JanHerca/urantiapedia) est un projet qui contient tout le contenu du site Web, plus une application (*Urantiapedia Tools*) pour aider à automatiser la création de contenu. Le projet *Urantiapedia-backup* (https://github.com/JanHerca/urantiapedia-backup) est le mécanisme utilisé pour effectuer des téléchargements massifs de contenu.
 
 ## À qui s'adresse ce manuel ?
 
-Ce manuel est destiné aux utilisateurs appelés «éditeurs en chef», ou aux utilisateurs qui se conforment aux exigences suivantes:
-- Ils ont un compte ici avec des autorisations d'édition, et un autre dans [GitHub](https://github.com/).
-- Ils peuvent ajouter du contenu aux deux projets Urantiapedia dans GitHub: [Urantiapedia](https://github.com/JanHerca/urantiapedia) et [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). Ils peuvent effectuer un chargement en masse des modifications à l'aide du deuxième projet.
-- Ils ont une bonne connaissance de la gestion de Git et GitHub.
-- Ils ont une bonne connaissance du *Livre d'Urantia* dans au moins une langue dans laquelle il est publié, mais mieux s'il s'agit de l'anglais et d'une seconde langue dans laquelle le livre est traduit.
-- Ils souhaitent collaborer de manière désintéressée à l'ajout d'informations relatives au *Livre d'Urantia* dans *Urantiapedia*.
+Ce manuel s'adresse aux utilisateurs appelés « Rédacteurs en chef », c'est-à-dire aux utilisateurs qui répondent aux exigences suivantes :
+- Ils disposent d'un compte sur ce site Web avec des autorisations d'édition et d'un compte sur [GitHub](https://github.com/).
+- Vous pouvez modifier le contenu via ce site Web (avec restrictions) ainsi que via les deux projets Urantiapedia sur GitHub : [Urantiapedia](https://github.com/JanHerca/urantiapedia) et [Urantiapedia-backup]( https:/ /github.com/JanHerca/urantiapedia-backup). Cependant, à travers ces projets, ils ne peuvent faire que des demandes de changement. Les modifications GitHub apportées au contenu non autorisé seront rejetées sur demande.
+- Ils ont une bonne connaissance de Git et GitHub.
+- Ils ont une bonne connaissance du *Le Livre d'Urantia* au moins dans une langue dans laquelle il est publié, mais mieux si c'est l'anglais et dans une seconde langue dans laquelle le livre est traduit.
+- Ils ont les compétences nécessaires pour bien écrire, y consacrer du temps, de la patience et de la persévérance.
+- Ils souhaitent collaborer de manière désintéressée à l'incorporation d'informations liées au *Livre d'Urantia* dans *Urantiapedia*.
 
-## Flux de travail GitHub
+## Procédure de travail sur GitHub
 
-Le processus pour un «rédacteur en chef» sera le suivant:
-1. Crée un *fork* (une copie dans son propre compte) des projets *Urantiapedia* sur GitHub:
-  - https://github.com/JanHerca/urantiapedia
-  - https://github.com/JanHerca/urantiapedia-backup
-2. Crée une copie locale des projets sur PC. La copie locale doit être de la dernière version du contenu *Urantiapedia* (la branche principale). Cela se fait d'abord via une action *clone* et plus tard via des actions *pulls* vers les projets, qui téléchargent toute modification dans la copie locale.
-3. Apporter des modifications dans la copie locale du projet Urantiapedia aux fichiers indiqués dans ce manuel et de la manière expliquée. Il ou elle s'engage sur la copie locale.
-4. Envoie des modifications partielles (non prêtes à être téléchargées sur le Web) au projet *Urantiapedia* dans GitHub via un *push*. Lorsqu'un ensemble de modifications est prêt pour le Web, synchronise le projet local *Urantiapedia* avec le projet local *Urantiapedia-backup* et télécharge les modifications dans GitHub via un *push*.
-5. Crée ensuite une *pull requests* à partir du site Web GitHub pour les deux projets: *Urantiapedia* et *Urantiapedia-backup*.
-6. Ces *pull requests* des «rédacteurs en chef» sont examinées par des «administrateurs», qui sont chargés de faire une *merge* avec la branche principale (master) de tous les changements qui sont corrects. Toutes les modifications qui ne sont pas correctes seront rejetées et les «rédacteurs en chef» seront avertis de les corriger.
-7. Lorsque les modifications sont correctes, un «administrateur» en fait une *merge* et elles sont automatiquement téléchargées sur le Web. Ils sont généralement disponibles en quelques minutes selon le nombre de changements et leur type.
+La procédure de travail dans GitHub est indiquée dans le [manuel pour les administrateurs](/fr/help/admin). L'index est le même que celui indiqué ici, alors consultez ce manuel pour plus de références.
 
-![](/image/help/github_workflow_version_2.png)
+## Collaboration via ce site Web
 
-## Mise en place du projet *Urantiapedia*
+Ce type de collaboration, en raison des risques encourus, est réservé aux utilisateurs *Administrateurs* et *Rédacteurs en chef*. Dans le cas des premiers, ils peuvent modifier n’importe quel contenu ; Dans le cas de ces derniers, ils n’auront accès qu’à l’édition de certaines sections.
 
-Avant tout travail dans *Urantiapedia* en utilisant GitHub, vous devez configurer tous les outils nécessaires. Vérifiez [Configuration du projet GitHub](/fr/help/github_setting).
+La procédure de travail via ce site Web est indiquée dans le [manuel pour les administrateurs](/fr/help/admin). L'index est le même que celui indiqué ici, alors consultez ce manuel pour plus de références.
 
-## Contenu du projet Urantiapedia sur GitHub
-
-Pour connaître le contenu du projet GitHub et sa structure, consultez [Contenu du projet GitHub](/fr/help/github_content).
 ## Tâches
 
-Pour connaître les jalons du projet, consultez [Jalons d'Urantiapedia](/fr/help/phases).
-
-### Étape I: Le Livre d'Urantia, la Bible et l'index des sujets
-
-1. Traduire *Paramony* de l'anglais vers la langue cible. Vérifiez [Traduction de Paramony](/fr/help/github_paramony).
-2. Traduire et réviser *Topic Index* de l'anglais vers la langue cible. Vérifiez [Traduction et révision de Topic Index](/fr/help/github_topicindex).
-3. Obtenir une traduction du domaine public de *La Bible* dans la langue cible. Vérifiez [Obtenir la Bible](/fr/help/github_bible).
-4. Convertir *Le Livre d'Urantia* de HTML en JSON sans notes de bas de page. Vérifiez [Conversion en JSON](/fr/help/github_book_json).
-5. Ajouter des notes de bas de page *Paramony* au *Livre d'Urantia* en JSON. Vérifiez [Ajouter des notes de bas de page Paramony](/fr/help/github_footnotes).
-6. Conversion de *Topic index* de TXT en Wiki.js. Vérifiez [Conversion de l'index de rubrique](/fr/help/github_topicindex_to_wiki).
-7. Convertir *Le Livre d'Urantia* de JSON avec des notes de bas de page en Wiki.js, y compris des références à des sujets. Vérifiez [Convertir Le Livre d'Urantia](/fr/help/github_book_to_wiki).
-8. Convertir *La Bible* de LaTeX en Wiki.js avec des notes de bas de page. Vérifiez [Convertir la Bible](/fr/help/github_bible_to_wiki).
-9. Valider les modifications apportées au projet [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup). Cochez [Télécharger du contenu en masse sur Urantiapedia](/fr/help/github_upload).
-
-Actuellement, toutes les tâches sauf 2 sont terminées.
-
-![](/image/help/formats.png)
-
-### Milestone II: Livres, articles, aides à l'étude, schémas et index
-
-1. Créez un catalogue de livres qui sont considérés comme des sources du *Livre d'Urantia* ou qui contiennent des parallèles intéressants. Voir [Catalogue de livres sources](/fr/help/github_sourcebooks_catalog).
-2. Obtenez les livres précédents. Voir [Obtenir des livres «sources»](/fr/help/github_sourcebooks_markdown).
-3. Créez un catalogue d'articles rédigés par des lecteurs. Voir [Catalogue d'articles](/fr/help/github_articles_catalog).
-4. Obtenez les articles précédents. Voir [Obtenir des articles](/fr/help/github_articles_markdown).
-5. Créer un catalogue d'aides à l'étude. Voir [Catalogue des aides à l'étude](/fr/help/github_studyaids_catalog).
-6. Obtenez les aides à l'étude ci-dessus. Voir [Obtenir des aides à l'étude](/fr/help/github_studyaids_markdown).
-7. Créez un catalogue de diagrammes. Voir [Catalogue de diagrammes](/fr/help/github_diagrams_catalog).
-8. Procurez-vous les diagrammes ci-dessus au format HTML ou, de préférence, SVG. Voir [Obtenir des diagrammes](/fr/help/github_diagrams_svg).
-9. Créez le catalogue d'images du projet. Voir [Catalogue d'images](/fr/help/github_images_catalog).
+La liste des tâches et les manuels pour chaque tâche sont indiqués dans le [manuel pour les administrateurs](/fr/help/admin). L'index est le même que celui indiqué ici, alors consultez ce manuel pour plus de références.
 
 ## Liens externes
 
@@ -109,9 +74,9 @@ Actuellement, toutes les tâches sauf 2 sont terminées.
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/help/admin">Aide des administrateurs</a></td>
+        <td><a href="/fr/help/admin">Manuel pour les administrateurs</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
-        <td><a href="/fr/help/github_assistant">Aide des éditeurs adjoints</a></td>
+        <td><a href="/fr/help/github_assistant">Manuel pour les rédacteurs adjoints</a></td>
       </tr>
     </tbody>
   </table>

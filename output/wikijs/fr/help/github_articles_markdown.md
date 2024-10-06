@@ -26,7 +26,7 @@ Ici, il est décrit comment obtenir les articles de lecteurs liés au _Livre d'U
 
 Tout ce qui a été dit sur les livres dans [Obtenir des livres «sources»](/fr/help/github_sourcebooks_markdown) s'applique également ici. Les articles peuvent être trouvés sous la forme d'une page web qui les héberge déjà, sous forme de PDF sans texte, ou sous forme de PDF avec texte. Ils peuvent également être individuellement ou dans le cadre d'un magazine ou d'une publication conjointe avec d'autres articles. Dans tous les cas, la première étape consiste à convertir ce magazine au format Markdown.
 
-Cette tâche, réalisée avec des logiciels différents selon les cas, a déjà été réalisée en partie avec une bonne collection d'articles, qui sont disponibles sur GitHub dans `/input/markdown/en/Innerface` et `/input/markdown/en/Herald` pour deux publications bien connues liées au _Le Livre d'Urantia_, l'*Innerface International* et le *Fellowship Herald*. Le catalogue d'articles est déjà construit pour ces publications ici: [Articles prévus](/en/index/articles).
+Cette tâche, réalisée avec des logiciels différents selon les cas, a déjà été réalisée en partie avec une bonne collection d'articles, qui sont disponibles sur GitHub dans `/input/markdown/en/Innerface` et `/input/markdown/en/Herald` pour deux publications bien connues liées au _Le Livre d'Urantia_, l'*Innerface International* et le *Fellowship Herald*. Le catalogue d'articles est déjà construit pour ces publications ici: [Articles prévus](/fr/index/articles).
 
 La tâche consiste maintenant à utiliser le contenu des dossiers susmentionnés et à créer les articles individuels, car ces dossiers contiennent des magazines complets.
 
