@@ -61,6 +61,13 @@ The profiles we are looking for to collaborate are these:
 * It is important to have the ability to write well and correctly.
 * No special computer knowledge is necessary as the main work is done through the GitHub website or email.
 
+## “Reviewer” profile
+
+* The job of *Reviewers* is to ensure the correctness of the content. They do not need an account on this website or on GitHub. They review the existing content and if they find errors, they notify them via email at urantiapedia@gmail.com.
+* A good knowledge of the *Urantia Book* in at least one language is required, but it is better if it is English and a second language into which the book is translated.
+* Special computer skills are not necessary since the main work is done via email.
+* It is recommended to include an excerpt of the text that has been found to be incorrect, indicating the incorrect words and how they should be correct. The web address of the page with the error can also be included, but it is optional.
+
 ## “Developer” profile
 
 *Developers* develop the functionality of [Urantiapedia Tools](https://github.com/JanHerca/urantiapedia/tree/master/app) and expand the software [Wiki.js](https://js.wiki/) that Urantiapedia is based on. Check [Developers help](/en/help/devs).
@@ -71,12 +78,47 @@ The profiles we are looking for to collaborate are these:
 * It is important to have the aptitude to work in a team and open source environments.
 * Good level of English as the documentation and code comments are in English.
 
-## “Reviewer” profile
+## “Ambassador” Profile
 
-* The job of *Reviewers* is to ensure the correctness of the content. They do not need an account on this website or on GitHub. They review the existing content and if they find errors, they notify them via email at urantiapedia@gmail.com.
-* A good knowledge of the *Urantia Book* in at least one language is required, but it is better if it is English and a second language into which the book is translated.
-* Special computer skills are not necessary since the main work is done via email.
-* It is recommended to include an excerpt of the text that has been found to be incorrect, indicating the incorrect words and how they should be correct. The web address of the page with the error can also be included, but it is optional.
+*Ambassadors* promote the Urantiapedia project and make it known to associations and the general public. They seek support and collaboration and promote the various uses of Urantiapedia that may be useful to readers of _The Urantia Book_. The ideal requirements for these users are:
+
+* They do not need to have an account on this website or on GitHub.
+* They need to have a good knowledge of _The Urantia Book_, at least in one language, but it is preferable if it is in English and one other language.
+* They need to have a good knowledge of how Urantiapedia is used and its various functionalities.
+* It is important to have the ability to communicate and express oneself in public.
+* Good level of English as many communications in the world are done in English.
+
+## “Video Creator” Profile
+
+*Video Creators* are in charge of creating material for the [Urantiapedia YouTube channel](https://bit.ly/3zOuxvB). This channel uploads explanatory videos about the Urantiapedia project, how to collaborate, and the best ways to get the most out of the website. The recommended requirements are:
+
+* They do not need to have an account on this website or on GitHub.
+* They need their own YouTube account and access to the Urantiapedia YouTube account.
+* Good knowledge of video editing software and YouTube is required.
+* It is important to have the ability to work in a team.
+* Good level of English as many of the videos are published bilingually in English and Spanish.
+
+## Summary
+
+The table summarizes the notable differences between each profile type:
+
+<div class="urantiapedia-table-wrapper">
+
+&nbsp; | Adminis- trator | Editor-in-Chief | Author | Assistant Editor | Reviewer | Deve- loper | Amba- ssador | Video Creator |
+--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+Server Access | :heavy_check_mark: | | | | | | | |
+Page Settings | :heavy_check_mark: | | | | | | | |
+Bulk Upload | :heavy_check_mark: | | | | | | | |
+Full Editing | :heavy_check_mark: | | | | | | | |
+Partial Editing | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | | | | |
+Exclusive Editing | :heavy_check_mark: | | :heavy_check_mark: | | | | | |
+Account on the web | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | | :heavy_check_mark: | | |
+GitHub account | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | :heavy_check_mark: | | |
+Youtube account | :heavy_check_mark: | | | | | | | :heavy_check_mark: |
+Web edition | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | | | | |
+Direct editing on GitHub | :heavy_check_mark: | | | | | | | |
+Submitting changes to GitHub | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | :heavy_check_mark: | | |
+Sending changes by email | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | | |
 
 ## External links
 

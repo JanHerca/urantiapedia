@@ -47,37 +47,41 @@ Pour faciliter l'ajout de contenu, un programme appelé *Urantiapedia Tools* est
 
 Comme dans tout Wiki, le contenu est constitué de pages, chacune ayant une URL unique et un titre. 
 
- Ce sont les contenus principaux attendus :
+Ce sont les contenus principaux attendus :
 
-* Des livres, comme le *Livre d'Urantia*, la *Bible* et d'autres textes liés aux révélations d'Urantia. Chaque chapitre de livre est une page dans *Urantiapedia*.
-* Des sujets sur n'importe quel sujet mentionné dans le *Livre d'Urantia*. Chaque sujet est stocké dans une page.
-* Des articles écrits par des lecteurs, chacun une page.
-* Des images, soit des dessins ou des photographies pour illustrer des concepts du *Livre d'Urantia*, chacune dans sa propre page.
-* Des diagrammes ou des présentations, également dans des pages.
-* Des cartes interactives, soit en 2D, soit en 3D, montrant des lieux ou des voyages décrits dans les révélations d'Urantia. Chaque carte occupe une page. Les cartes peuvent être statiques ou contenir des animations pour créer des survols.
-* Des modèles 3D, chacun dans une page, qui peuvent être statiques ou interactifs comme dans les cartes.
-* 
+* **La Hémérothèque du _Livre d'Urantia_** : contient des articles écrits par des lecteurs dans des publications associatives et privées. Chaque article est publié sur une page. [Lire la suite](/fr/article).
+* **La Bibliothèque Urantienne** : propose des livres, tels que le *Le Livre d'Urantia*, la *Bible*, des livres de toutes les autres grandes religions du monde et d'autres textes liés aux révélations d'Urantia. Il comprendra des livres de lecteurs souhaitant publier ouvertement leurs œuvres. Chaque chapitre de chaque livre est une page de *Urantiapedia*. [Lire la suite](/fr/book).
+* **L'Encyclopédie du _Le Livre d'Urantia_** : est une encyclopédie de chaque sujet d'intérêt ou nom propre mentionné dans *Le Livre d'Urantia*. Chaque sujet est stocké sur une page. Il est parfois appelé sur ce site _Topic Index_, mais c'est bien plus qu'un index. [Lire la suite](/fr/topic).
+* **La Cartothèque du Livre d'Urantia_** : contiendra des cartes interactives, en 2D ou 3D, montrant les lieux ou les voyages décrits dans les révélations d'Urantia ; également des cartes non interactives sous forme de fichiers téléchargeables. Chaque carte fera une page. Les cartes peuvent être statiques ou contenir des animations pour créer des itinéraires animés. [Lire la suite](/fr/map).
+* **La Médiathèque du _Livre d'Urantia_** : sera un référentiel de divers documents audiovisuels, y compris des éléments comme les suivants :
+  * Des images, qu'il s'agisse de dessins ou de photographies de concepts qui illustrent le *Livre d'Urantia*.
+  * Des diagrammes ou schémas, qui tenteront de les rendre interactifs s'ils sont très grands, pour pouvoir les visualiser sur de petits appareils.
+  * Diaporamas.
+  * Des modèles 3D, chacun sur une page, qui peuvent être statiques ou interactifs comme dans les cartes.
+  * Versions audio du _Le Livre d'Urantia_.
+  * Collections de vidéos intégrées dans le site, ou si ce n'est pas possible, liens vers des vidéos, avec des cours ou des explications sur _Le Livre d'Urantia_.
+
 Pour plus d'informations sur le contenu, cliquez ici : [Contenu](/fr/help/content)
 
 ## Étapes du projet
 
 Pour chaque langue à inclure dans l'Urantipedia, toutes les tâches seront effectuées dans des étapes spécifiques :
-1. Étape I - _Le Livre d'Urantia_, la _Bible_ et _l'index des sujets_.
-2. Étape II - Livres, articles, aides à l'étude, diagrammes et index
-3. Étape III - Traducteur
-4. Étape IV - Cartes interactives
-5. Étape V - Diapositives
-6. Étape VI - Modèles interactifs 3D
+1. Étape I - _Le Livre d'Urantia_, la _Bible_ et l'_Encyclopédie du Livre d'Urantia_.
+2. Étape II - Les _Hémérothèque_ et la _Bibliothèque urantienne_ : Articles, livres, aides à l'étude et index.
+3. Étape III - Traducteur. Il ne s'agit pas d'un contenu mais d'une application dans *Urantiapedia Tools* pour permettre des traductions rapides dans chaque langue.
+4. Étape IV - La _Cartothèque_ : Cartes interactives et fichiers téléchargeables.
+5. Étape V - La _Médiathèque_ : Schémas, présentations, audio, vidéo.
+6. Étape VI - La _Médiathèque_ : Modèles 3D interactifs.
 
 Pour en savoir plus sur les étapes du projet, consultez la rubrique[ Étapes du projet](/fr/help/phases).
 
 ## Situation actuelle
 
 Actuellement, *Urantiapedia* se présente comme suit :
-* De nombreux progrès ont été réalisés dans la Phase I. _Le Livre d'Urantia_, la _Bible_ et _Paramony_ (ou des liens entre les deux) sont ajoutés dans toutes les langues prises en charge (25 actuellement). L'_Index des sujets_ est en cours pour l'anglais, l'espagnol et le français.
-* La phase II est en cours en anglais, espagnol et français.
-* Beaucoup de progrès ont été réalisés en phase III, c'est un logiciel de traduction et il n'y a pas de contenu spécifique pour chaque langue.
-* Des phases IV, V et VI, seuls de petits tests ont été réalisés avec certains contenus.
+* De nombreux progrès ont été réalisés dans la Étape I. _Le Livre d'Urantia_, la _Bible_ et _Paramony_ (ou des liens entre les deux) sont ajoutés dans toutes les langues prises en charge (25 actuellement). L'_Encyclopédie du Livre d'Urantia_ est en cours pour l'anglais, l'espagnol et le français.
+* La Étape II est en cours pour l'anglais, l'espagnol et le français.
+* Beaucoup de progrès ont été réalisés en Étape III, c'est un logiciel de traduction et il n'y a pas de contenu spécifique pour chaque langue.
+* Des Étapes IV, V et VI, seuls de petits tests ont été réalisés avec certains contenus.
 
 Pour en savoir plus sur l'avancement actuel du projet, cliquez ici: [Statut](/fr/help/status).
 
@@ -86,17 +90,19 @@ Pour en savoir plus sur l'avancement actuel du projet, cliquez ici: [Statut](/fr
 Urantiapedia n’est pas un site Web dont l’inscription est ouverte à tous. Nous ne fonctionnons pas de la même manière que Wikipédia. La raison en est qu'il existait déjà dans le passé une version d'Urantiapedia qui permettait l'inscription ouverte et qui causait de sérieux problèmes de spam. Sans un bon système de sécurité et une bonne équipe de collaborateurs qui empêchent ces intrusions, les problèmes d'un système de registre ouvert sont difficiles à éviter. Pour cette raison, si quelqu'un souhaite collaborer au niveau de l'administration ou de l'édition, il doit demander à être enregistré. Cependant, il n'est pas nécessaire de s'inscrire sur Urantiapedia pour collaborer si le type de collaboration souhaité est uniquement la réalisation de critiques.
 
 Par conséquent, si vous souhaitez collaborer à ce projet, les meilleurs moyens de contact sont :
-* **Par email**. Envoi d'un e-mail à <a href="mailto:urantiapedia@gmail.com">urantiapedia@gmail.com</a>. Si vous souhaitez être enregistré sur Urantiapedia en tant qu'*Administrateur*, *Rédacteur en chef*, *Éditeur adjoint*, *Auteur* ou *Développeur*, envoyez un e-mail avec votre demande. Si vous souhaitez collaborer en tant que *Réviseur*, envoyez simplement vos suggestions ou corrections au même e-mail. Nous recommandons que les suggestions ou corrections soient envoyées dans le corps du message électronique et non dans un fichier Word, PDF ou similaire.
+* **Par email**. Envoi d'un e-mail à <a href="mailto:urantiapedia@gmail.com">urantiapedia@gmail.com</a>. Si vous souhaitez être enregistré sur Urantiapedia en tant qu'*Administrateur*, *Rédacteur en chef*, *Auteur* ou *Développeur*, envoyez un e-mail avec votre demande. Si vous souhaitez collaborer en tant que *Assistant Editor* ou *Reviewer*, envoyez simplement vos suggestions ou corrections au même e-mail. Nous recommandons que les suggestions ou corrections soient envoyées dans le corps du message électronique et non dans un fichier Word, PDF ou similaire.
 * **Via [GitHub](https://github.com/JanHerca/urantiapedia)**. Comme détaillé dans cette documentation, l'ensemble du projet est ouvert et public sur GitHub. N'importe qui peut s'inscrire sur GitHub, créer un *fork* du projet, ajouter les modifications souhaitées, puis créer une *pull request*, une demande de modification typique de GitHub. Les modifications soumises seront ensuite évaluées par les *Administrateurs* d'Urantiapedia, et pourront être acceptées ou rejetées si cela est jugé nécessaire. Consultez le reste de l’aide pour en savoir plus sur ce mode de collaboration.
 * **Via le site Web [Blue Fields](https://blue-fields.netlify.app/)**, lorsque ce site Web sera terminé et opérationnel. Ce site Web est un projet sans rapport avec Urantiapedia qui a été créé pour unir et organiser les lecteurs du *Livre d'Urantia* qui souhaitent participer à des projets intelligents, déterminés et altruistes à travers le monde. Une fois inscrit sur ce site, l'équipe du projet vous contactera.
 
 Les différents rôles des collaborateurs d'*Urantiapedia* sont :
 * *Administrateurs* : Ils sont responsables de la maintenance du serveur Web, des pages, du chargement en masse des données, et sont les seuls à avoir la permission d'éditer *Le Livre d'Urantia*, *La Bible* et d'autres contenus spécifiques. Il est nécessaire d'envoyer un email à urantiapedia@gmail.com pour être admis comme *Administrateur* après avoir passé les vérifications appropriées. Ces utilisateurs auront à terme un compte sur GitHub et un autre sur Urantiapedia. Pour en savoir plus, cliquez ici : [Manuel pour les administrateurs](/fr/help/admin).
-* *Rédacteurs en chef* : En charge des contributions au projet GitHub en ajoutant des modifications et des traductions qui peuvent ensuite être téléchargées en masse. Les *Rédacteurs en chef* ont également toutes les capacités d'un *Rédacteur adjoint* au sein du site Web Urantiapedia. Il est nécessaire d'envoyer un email à urantiapedia@gmail.com pour être admis comme *Rédacteur en chef* après avoir passé les vérifications appropriées. Ces utilisateurs auront à terme un compte sur GitHub et un autre sur Urantiapedia. Consulter : [Manuel des rédacteurs en chef](/fr/help/github)
-* *Rédacteurs adjoints* : ils ont l'autorisation de modifier certaines sections du site Web telles que l'*Index des termes*, les articles et autres documents non réservés aux *Administrateurs* et aux *Rédacteurs en chef*. Il est nécessaire d'envoyer un email à urantiapedia@gmail.com pour être admis comme *Assistant Editor* après avoir passé les vérifications appropriées. Ces utilisateurs auront éventuellement un compte sur Urantiapedia. Consulter : [Manuel pour les rédacteurs adjoints](/fr/help/github_assistant)
-* *Auteurs* : ce sont des *éditeurs adjoints* qui, en plus de pouvoir éditer ce que n'importe quel *éditeur adjoint*, sont également les seuls éditeurs autorisés à éditer certains contenus dont ils sont les auteurs. Il est nécessaire d'envoyer un email à urantiapedia@gmail.com pour être admis comme *Auteur* après avoir passé les vérifications appropriées. Ces utilisateurs auront éventuellement un compte sur Urantiapedia.
-* *Développeurs* : Ils ont un compte GitHub et sont en charge de développer les fonctionnalités des *Urantiapedia Tools* et *Wiki.js*. Il n'est pas nécessaire d'envoyer un email à urantiapedia@gmail.com pour être admis comme *Développeur* puisque tout se fait via GitHub, mais il est recommandé pour des raisons d'organisation de contacter l'équipe d'Urantiapedia avant de réaliser tout développement. Consultez : [Manuel du développeur](/fr/help/devs).
-* *Réviseurs* : Ils ont pour tâche de garantir l'exactitude du contenu du site, en détectant les erreurs typographiques, de traduction ou de composition qui auraient pu apparaître lors du téléchargement du contenu. Il n'est pas nécessaire d'envoyer un email à urantiapedia@gmail.com pour être admis comme *Reviewer* bien qu'il soit recommandé pour des raisons d'organisation de contacter l'équipe d'Urantiapedia avant d'effectuer tout travail de révision. Pour faire des révisions, il suffit d'envoyer tout groupe de corrections jugées appropriées à urantiapedia@gmail.com. Comme nous l'avons déjà dit, nous recommandons que les suggestions ou corrections soient envoyées dans le corps du message électronique et non dans un fichier Word, PDF ou similaire.
+* *Rédacteurs en chef* : En charge des contributions via ce site Web et le projet GitHub en ajoutant des modifications et des traductions. Il est nécessaire d'envoyer un email à urantiapedia@gmail.com pour être admis comme *Rédacteur en chef* après avoir passé les vérifications appropriées. Ces utilisateurs auront à terme un compte sur GitHub et un autre sur Urantiapedia. Consulter : [Manuel des rédacteurs en chef](/fr/help/github)
+* *Auteurs* : Ce sont des *Rédacteurs en chef* qui, en plus de pouvoir éditer ce que n'importe quel *Rédacteur en chef*, sont également les seuls éditeurs autorisés à éditer certains contenus dont ils sont auteurs. Il est nécessaire d'envoyer un email à urantiapedia@gmail.com pour être admis comme *Auteur* après avoir passé les vérifications appropriées. Ces utilisateurs auront à terme un compte sur GitHub et un autre sur Urantiapedia.
+* *Rédacteurs adjoints* : ils ne peuvent utiliser GitHub que pour soumettre des demandes de modification. Ils n’ont pas de compte sur ce site Web et n’ont donc pas besoin de demander quoi que ce soit ni de passer une quelconque vérification. Ces utilisateurs auront à terme un compte GitHub. Consulter : [Manuel pour les rédacteurs adjoints](/fr/help/github_assistant)
+* *Réviseurs* : Ils ont pour mission de garantir l'exactitude du contenu du site, en détectant les erreurs typographiques, de traduction ou de composition qui auraient pu apparaître lors du téléchargement du contenu. Ils n'ont pas de compte sur GitHub ou sur ce site Web, ils n'ont donc pas besoin de demander quoi que ce soit ni de passer une quelconque vérification. Pour effectuer des révisions, il suffit d'envoyer tout groupe de corrections jugées appropriées à l'e-mail urantiapedia@gmail.com. Comme nous l'avons déjà dit, nous recommandons que les suggestions ou corrections soient envoyées dans le corps du message électronique et non dans un fichier Word, PDF ou similaire.
+* *Développeurs* : Ils ont un compte sur ce site et sur GitHub et sont en charge de développer les fonctionnalités des *Urantiapedia Tools* et *Wiki.js*. Il est nécessaire d'envoyer un email à urantiapedia@gmail.com pour être admis comme *Développeur* après avoir passé les vérifications appropriées. Ces utilisateurs auront éventuellement un compte sur GitHub et un autre sur Urantiapedia Voir : [Manuel du développeur](/fr/help/devs).
+* *Ambassadeurs* : Vous n'avez pas besoin d'avoir de compte sur ce site Web ou sur GitHub. Son but est de diffuser le projet *Urantiapedia* et de le faire connaître auprès des associations et du grand public.
+* *Créateurs de vidéos* : Ils sont responsables de la création du matériel pour la [chaîne YouTube Urantiapedia](https://bit.ly/3zOuxvB). Il est nécessaire d'envoyer un e-mail à urantiapedia@gmail.com pour être admis en tant que *Créateur de vidéo* après avoir passé les vérifications appropriées. L'accès au compte YouTube Urantiapedia sera fourni. Cette chaîne met en ligne des vidéos explicatives sur le projet Urantiapedia, comment collaborer et quelles sont les meilleures façons de tirer le meilleur parti du site Web.
 
 Pour en savoir plus sur les profils avec lesquels nous cherchons à collaborer, consultez [Profils des collaborateurs](/fr/help/roles).
 

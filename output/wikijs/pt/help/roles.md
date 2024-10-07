@@ -49,20 +49,11 @@ Os *editores-chefes* também podem contribuir com conteúdo através deste site 
 * Ajuda a ter disponibilidade pessoal, paciência e perseverança.
 * É importante ter um bom conhecimento prático do [Git](https://git-scm.com/) e do [GitHub](https://github.com/).
 
-## Perfil “Editor Assistente”
-
-*Editores Assistentes* podem editar determinadas seções do site para as quais recebem permissões. Eles também podem enviar por e-mail revisões e traduções para *Administradores* ou *Editores-chefes* para upload em massa, facilitando o trabalho desse tipo de contribuidor. Verifique [ajuda dos Editores Assistentes](/pt/help/github_assistant).
-
-* Eles têm uma conta neste site com permissões de edição. Eles não usam o GitHub e fazem acréscimos enviando por e-mail ou editando diretamente neste site.
-* Um bom conhecimento do *O Livro de Urântia* é necessário em pelo menos um idioma, mas melhor se for o inglês e um segundo idioma no qual o livro é traduzido.
-* É importante ter a capacidade de escrever bem e corretamente.
-* Nenhum conhecimento especial de informática é necessário, pois o trabalho principal é feito pela web ou por e-mail.
-
 ## Perfil “Autor”
 
 Os *Autores* são *Editores-Chefes* que, para além de poderem editar o que qualquer *Editor-Chefe*, são também os únicos editores com permissão para editar determinados conteúdos de que são autores.
 
-## Perfil “Editores Assistentes”
+## Perfil «Editor Assistente»
 
 Os *Editores Assistentes* utilizam o GitHub apenas para enviar pedidos de alteração. Não têm uma conta neste site. Para facilitar o seu trabalho, também pode enviar as suas alterações por e-mail para urantiapedia@gmail.com, e os *Administradores* serão responsáveis ​​pelo carregamento dessas alterações. Consulte: [Manual para Editores Assistentes](/pt/help/github_assistant).
 
@@ -75,8 +66,60 @@ Os *Editores Assistentes* utilizam o GitHub apenas para enviar pedidos de altera
 
 * A tarefa dos *Revisores* é garantir a exatidão do conteúdo. Não precisam de nenhuma conta neste site ou no GitHub. Revêm o conteúdo existente e caso encontrem erros, notificam através do e-mail urantiapedia@gmail.com.
 * É necessário um bom conhecimento do *Livro de Urântia* em pelo menos uma língua, mas é melhor se for o inglês e uma segunda língua para a qual o livro seja traduzido.
-* Não são necessários conhecimentos especiais de informática, uma vez que o trabalho principal é realizado através de correio eletrónico.
+* Não são necessários conhecimentos especiais de informática, uma vez que o trabalho principal é realizado através de correio electrónico.
 * Recomenda-se a inclusão de um excerto do texto considerado erróneo, indicando as palavras incorretas e como devem ser corretas. Também pode incluir o endereço web da página com o erro, mas é opcional.
+
+## Perfil «Desenvolvedor»
+
+Os *Developers* desenvolvem a funcionalidade das [Urantiapedia Tools](https://github.com/JanHerca/urantiapedia/tree/master/app) e expandem o software [Wiki.js](https://js.wiki/) no qual se baseia a Urantiapedia. Consulte: [Manual do Programador](/pt/help/devs).
+
+* Têm conta neste site e no [GitHub](https://github.com/).
+* A tarefa será desenvolver as funcionalidades *Urantiapedia Tools* e *Wiki.js* necessárias para o projeto. As modificações no Wiki.js estão a ser centralizadas aqui: [Wiki.js](https://github.com/JanHerca/wiki), que é um *fork* do projeto original.
+* É necessário ter bons conhecimentos de HTML, CSS, Javascript, [Node.js](https://nodejs.org/pt/), [Git](https://git-scm.com/), [GitHub](https://github.com/), [Bootstrap](https://getbootstrap.com/) e [Vue.js](https://vuejs.org/).
+* É importante ter capacidade de trabalhar em equipa em ambientes opensource.
+* Bom nível de inglês uma vez que toda a documentação e comentários do código estão em inglês.
+
+## Perfil «Embaixador»
+
+Os _Embaixadores_ divulgam o projeto *Urantiapedia* e dão-lhe a conhecer as associações e o público em geral. Procuram apoio e colaborações e promovem os diferentes usos da Urântia que podem ser úteis aos leitores de _O Livro de Urântia_. Os requisitos ideais para estes utilizadores são:
+
+* Não precisa de ter nenhuma conta neste site ou no GitHub.
+* Precisam de ter um bom conhecimento de _O Livro de Urântia_, pelo menos numa língua, mas é preferível que seja em inglês e noutra língua.
+* Necessitam de ter um bom conhecimento de como a Urantiapedia é utilizada e das suas diversas funcionalidades.
+* É importante ter capacidade de comunicar e de se expressar em público.
+* Bom nível de inglês uma vez que muitas comunicações no mundo são feitas em inglês.
+
+## Perfil «Criador de vídeo»
+
+Os _Video Creators_ são responsáveis ​​pela criação de material para o [canal Urantiapedia no YouTube](https://bit.ly/3zOuxvB). Este canal carrega vídeos explicativos sobre o projeto Urantiapedia, como colaborar e quais as melhores formas de tirar o máximo partido do site. Os requisitos recomendados são:
+
+* Não precisa de ter nenhuma conta neste site ou no GitHub.
+* Necessitam da sua própria conta no YouTube e de acesso à conta da Urantiapedia no YouTube.
+* É necessário um bom conhecimento de software de edição de vídeo e YouTube.
+* É importante ter capacidade de trabalhar em equipa.
+* Bom nível de inglês, uma vez que muitos dos vídeos são publicados bilingues em inglês e espanhol.
+
+## Resumo
+
+A tabela resume as diferenças assinaláveis ​​entre cada tipo de perfil:
+
+<div class="urantiapedia-table-wrapper">
+
+&nbsp; | Adminis- trador | Editor-Chefe | Autor | Editor Assistente | Revisor | Desen- volvedor | Embai- xador | Criador de vídeo |
+--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+Acesso ao servidor | :heavy_check_mark: | | | | | | | |
+Definições de página | :heavy_check_mark: | | | | | | | |
+Carregamento em massa | :heavy_check_mark: | | | | | | | |
+Edição total | :heavy_check_mark: | | | | | | | |
+Edição parcial | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | | | | |
+Edição exclusiva | :heavy_check_mark: | | :heavy_check_mark: | | | | | |
+Conta na Web | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | | :heavy_check_mark: | | |
+Conta GitHub | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | :heavy_check_mark: | | |
+Conta YouTube | :heavy_check_mark: | | | | | | | :heavy_check_mark: |
+Edição Web | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | | | | |
+Edição direta no GitHub | :heavy_check_mark: | | | | | | | |
+Envio de alterações ao GitHub | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | :heavy_check_mark: | | |
+Envio de alterações por email | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | | |
 
 ## Links externos
 
