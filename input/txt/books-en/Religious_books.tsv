@@ -1,5 +1,5 @@
 Judeo-Christian religious books (Old Testament)	https://www.e-sword.net/ (American Standard Version, 1901) (King James Version) (Revised Standard Version w/ Apocrypha); The Apocrypha and Pseudepigrapha of the Old Testament, R. H. Charles, Oxford: University Press, 1913; The Forgotten Books of Eden, 1926, Rutherford H. Platt, Jr.; The Third book of Enoch, 1928, Hugo Odeberg; Sibylline Oracles, Milton S. Terry, New York: Eaton & Mains, 1899; The Old Testament Pseudepigrapha, Vol. 1, 1983, James H. Charlesworth; The Old Testament Pseudepigrapha, Vol. 2, 1985, James H. Charlesworth; The Apocalypse of Abraham, 1919, G. H. Box; Nag Hammadi Library, 1981, George W. MacRae; The Forgotten Books of Eden, 1926, Rutherford H. Platt, Jr.; Apocrypha anecdota 2. Texts and Studies, 1897, M. R. James; The Ante-Nicene Fathers, 1885-1903, Arthur Cleveland Coxe & Allan Menzies; Jewish Quarterly Review, 1898, F. C. Conybeare; The Book of the Cave of Treasures, 1927, E. A. Wallis Budge; Joseph and Aseneth, 1918, E. W. Brooks; Biblical Antiquities of Philo, 1917, M. R. James; 4 Baruch, Robert A. Kraft (ed.), University of Pennsylvania, 1987; The Five Books of Maccabees, 1832, Henry Cotton; Some Apocryphal Psalms in Syriac, 1886-7, W. Wright	/en/index/books_judeo_christianism_ot
-Old Testament Canon	<group>
+Old Testament Canon	<group>	
 “Genesis”	/en/Bible/Genesis	OK
 “Exodus”	/en/Bible/Exodus	OK
 “Leviticus”	/en/Bible/Leviticus	OK
@@ -39,7 +39,7 @@ Old Testament Canon	<group>
 “Haggai”	/en/Bible/Haggai	OK
 “Zechariah”	/en/Bible/Zechariah	OK
 “Malachi”	/en/Bible/Malachi	OK
-Old Testament Deuterocanon	<group>
+Old Testament Deuterocanon	<group>	
 “1 Maccabees”	/en/Bible/1_Maccabees	OK
 “2 Maccabees”	/en/Bible/2_Maccabees	OK
 “Sirach (Ecclesiasticus)”	/en/Bible/Sirach	OK
@@ -56,7 +56,7 @@ Old Testament Deuterocanon	<group>
 “Additions to Esther”	/en/Bible/Additions_to_Esther	OK
 “Prayer of Azariah”	/en/Bible/Prayer_of_Azariah	OK
 “Psalm 151”	/en/Bible/Psalm_151	OK
-Old Testament Apocrypha (Pseudepigrapha)	<group>
+Old Testament Apocrypha (Pseudepigrapha)	<group>	
 “First Book of Enoch”	/en/Bible/Book_of_Enoch	OK
 “Second book of Enoch”	/en/Bible/Second_Book_of_Enoch	OK
 “3 Enoch”	/en/Bible/Third_Book_of_Enoch	OK
@@ -73,7 +73,7 @@ Old Testament Apocrypha (Pseudepigrapha)	<group>
 “Apocalypse of Abraham”	/en/Bible/Apocalypse_of_Abraham	OK
 “Apocalypse of Adam”	/en/Bible/Apocalypse_of_Adam	OK
 “Apocalypse of Elijah”	/en/Bible/Apocalypse_of_Elijah	OK
-Testaments (Often with Apocalyptic Sections)	<subgroup>
+Testaments (Often with Apocalyptic Sections)	<subgroup>	
 “Testament of Reuben”	/en/Bible/Testament_of_Reuben	OK
 “Testament of Simeon”	/en/Bible/Testament_of_Simeon	OK
 “Testament of Levi”	/en/Bible/Testament_of_Levi	OK
@@ -93,7 +93,7 @@ Testaments (Often with Apocalyptic Sections)	<subgroup>
 “Assumption of Moses”, also called “Testament of Moses”	/en/Bible/Assumption_of_Moses	OK
 “Testament of Solomon”	/en/Bible/Testament_of_Solomon	OK
 “Testament of Adam”	/en/Bible/Testament_of_Adam	OK
-Expansions of the Old Testament and Legends	<subgroup>
+Expansions of the Old Testament and Legends	<subgroup>	
 “Letter of Aristeas”	/en/Bible/Letter_of_Aristeas	OK
 “Book of Jubilees”	/en/Bible/Book_of_Jubilees	OK
 “Martyrdom of Isaiah”	/en/Bible/Martyrdom_of_Isaiah	OK
@@ -106,20 +106,20 @@ Expansions of the Old Testament and Legends	<subgroup>
 “The Ladder of Jacob”	/en/Bible/Ladder_of_Jacob	OK
 “4 Baruch”	/en/Bible/4_Baruch	OK
 “History of the Rechabites”	/en/Bible/History_of_the_Rechabites	OK
-Wisdom and Philosophical Literature	<subgroup>
+Wisdom and Philosophical Literature	<subgroup>	
 “The Story of Ahikar”	/en/Bible/Story_of_Ahikar	OK
 “3 Maccabees”	/en/Bible/3_Maccabees	OK
 “4 Maccabees”	/en/Bible/4_Maccabees	OK
 “5 Maccabees”	/en/Bible/5_Maccabees	OK
 “Pseudo-Phocylides”	/en/Bible/Pseudo_Phocylides	OK
-Prayers, Psalms, and Odes	<subgroup>
+Prayers, Psalms, and Odes	<subgroup>	
 “Psalms of David”	/en/Bible/Psalms_of_David	OK
 “Psalms of Solomon”	/en/Bible/Psalms_of_Solomon	OK
 “The Odes of Solomon”	/en/Bible/The_Odes_of_Solomon	OK
 “Hellenistic Synagogal Prayers”	/en/Bible/Hellenistic_Synagogal_Prayers	OK
 “Prayer of Jacob”	/en/Bible/Prayer_of_Jacob	OK
 Judeo-Christian religious books (New Testament)	https://www.e-sword.net/ (American Standard Version, 1901); Ante-Nicene Fathers, Vol. 8, 1886, A. Roberts, J. Donaldson, A. Cleveland (ed.); Los Evangelios Apócrifos, 1956, Aurelio de Santos Otero; Evangelios Apócrifos, 1934, Edmundo González-Blanco; Apocryphal New Testament, 1924, M. R. James	/en/index/books_judeo_christianism_nt
-Canon	<group>
+Canon	<group>	
 “Matthew”	/en/Bible/Matthew	OK
 “Mark”	/en/Bible/Mark	OK
 “Luke”	/en/Bible/Luke	OK
@@ -147,485 +147,485 @@ Canon	<group>
 “3 John”	/en/Bible/3_John	OK
 “Jude”	/en/Bible/Jude	OK
 “Revelation”	/en/Bible/Revelation	OK
-Apocrypha	<group>
-“Protevangelium of James”	/en/Bible/Protoevangelium_of_James
+Apocrypha	<group>	
+“Protevangelium of James”	/en/Bible/Protoevangelium_of_James	OK
 “Gospel of Pseudo-Matthew, or The Liber de Infantia”	/en/Bible/Gospel_of_Pseudo_Matthew	OK
 “Book of the birth of Saint Mary, or Libellus de Nativitate Sanctae Mariae”	/en/Bible/Book_of_the_birth_of_Saint_Mary	OK
 “Book about the childhood of the Savior (excerpts), or “Liber de infantia Salvatoris” [cod. Arundel 404 from the British Museum]”	/en/Bible/Latin_Infancy_Gospel	OK
-Gospels of the Infancy of Jesus	<subgroup>
+Gospels of the Infancy of Jesus	<subgroup>	
 “Infancy Gospel of Thomas”	/en/Bible/Infancy_Gospel_of_Thomas	OK
 “Syriac Infancy Gospel”	/en/Bible/Syriac_Infancy_Gospel	OK
 “History of Joseph the Carpenter”	/en/Bible/History_of_Joseph_the_Carpenter	OK
 “Armenian Infancy Gospel”	/en/Bible/Armenian_Infancy_Gospel	OK
 “Book on the childhood of the Savior (excerpts), or «Liber de infantia Salvatoris» [ms. Latin 11867 of the National Library of Paris]”	/en/Bible/Latin_Infancy_Gospel_B	OK
-Gospels of the Passion and Resurrection	<subgroup>
+Gospels of the Passion and Resurrection	<subgroup>	
 “Gospel of Peter [fragm. de Akhmîm]”	/en/Bible/Gospel_of_Peter	OK
 “Acts of Pilate or Gospel of Nicodemus”	/en/Bible/Gospel_of_Nicodemus	OK
 “Other Appendixes to the Acts of Pilate”	/en/Bible/Gospel_of_Nicodemus_B	OK
 “Gospel of Bartholomew”	/en/Bible/Gospel_of_Bartholomew	OK
-Assumptionist Gospels	<subgroup>
+Assumptionist Gospels	<subgroup>	
 “Account of St. John the Theologian”	/en/Bible/Account_of_St_John_the_Theologian	OK
 “Book of John, Archbishop of Thessalonica”	/en/Bible/Book_of_John_Archbishop_of_Thessalonica	OK
 “Narration of the Pseudo Joseph of Arimathea”	/en/Bible/Narration_of_the_Pseudo_Joseph_of_Arimathea	OK
 Religious books of Judaism	https://archive.sacred-texts.com/jud/index.htm	/en/index/books_judaism
-“Tanakh”, Hebrew Bible
-Talmud and Mishna	<group>
-“The Babylonian Talmud”, Translated by M.L. Rodkinson [1918]
-“Eighteen Treatises from the Mishna”, by D. A. Sola and M. J. Raphall [1843]
-“The Wisdom of the Talmud”, by Ben Zion Bokser [1951]
-“The Talmud”, by Joseph Barclay [1878]
-“The Talmud: Selections”, by H. Polano [1876]
-“The Babylonian Talmud in Selection”, by Leo Auerbach [1944]
-“Sayings of the Jewish Fathers” (Pirqe Aboth), tr. by Charles Taylor [1897]
-“Hebraic Literature”, Edited by Maurice Harris [1901]
-“The Wisdom of Israel”, by Edwin Collins [1910]
-“Tractate Sanhedrin”, Mishnah and Tosefta, by Herbert Danby [1919]
-“Tractate Berakoth”, by A. Lukyn Williams [1921]
-Haggada	<group>
-“Legends of the Jews”, by Louis Ginzberg [1909]
-Kabbalah	<group>
-“The Kabbalah Unveiled”, S.L. MacGregor Mathers, Translator. [1912]
-“Sepher Yezirah”, translated by Isidor Kalisch [1877]
-“Kabbalah - Sepher Yetzirah”, W.W. Westcot tr. [1887]
-“The Zohar: Bereshith to Lekh Lekha”, by Nurho de Manhar (pseud.) [1900-14]
-“Jewish Mysticism”, by J. Abelson [1913]
-“The Kabbalah, or the Religious Philosophy of the Hebrews”, by Adolphe Franck [1926]
-“The Cabala”, by Bernhard Pick [1913]
-Midrash	<group>
-“Tales and Maxims from the Midrash”, by Samuel Rapaport [1907]
-“The Sacred Books and Early Literature of the East, Vol. IV: Medieval Hebrew” [1917]
-Midrash Tanhuma
-Haggadah	<group>
-“The Union Haggadah”, ed. by The Central Conference of American Rabbis, illus. Isidore Lipton [1923]
-“Haggada For Pesach According To Chabad-Lubavitch Custom”
-Prayer Books (Siddur)	<group>
-“The Standard Prayer Book”, by Simeon Singer [1915]
-Other texts from late Antiquity and Middle Ages	<group>
-“Antiquities Book”, by Josephus, tr. by William Whiston [1737]
-“Wars Book”, by Josephus, tr. by William Whiston [1737]
-“Philo of Alexandria Texts”
-“The Kitab al Khazari”, of Judah Hallevi, translated by Hartwig Hirschfeld [1905]
-“The Guide for the Perplexed”, by Moses Maimonides, M. Freidländer, tr. (2nd Ed.) [1904]
-“Selected Religious Poems of Solomon ibn Gabirol”, by Solomon ibn Gabirol, tr. by Israel Zangwill [1923]
-“The Fountain of Life”, by Solomon ibn Gabirol, tr. by Harry E. Wedeck [1962]
-“Original Hebrew of a Portion of Ecclesiasticus”, by A.E. Cowley and A. Neubauer [1897]
-Modern	<group>
-“The Duties of the Heart”, by Rabbi Bachye, tr. by Edwin Collins [1909]
-“Ancient Jewish Proverbs”, by Abraham Cohen [1911]
-“Jewish Magic and Superstition: A Study in Folk Religion”, by Joshua Trachtenberg [1939]
-“A Rabbi's Impressions of the Oberammergau Passion Play”, by Joseph Krauskopf [1901]
-“Folk-lore of the Holy Land; Moslem, Christian and Jewish”, by J. E. Hanauer [1907]
-“Jewish Fairy Tales and Legends” by “Aunt Naomi” (Gertrude Landa) [1919]
-“The Great March”, by Rose G. Lurie [1931]
-“The Golden Mountain”, by Meyer Levin [1932]
-“Reform Judaism - 1885 Pittsburgh Conference”
-“Articles of Faith from the Jewish Encyclopedia”
-“The Columbus Platform: The Guiding Principles Of Reform Judaism” [1937]
-“Reform Judaism - A Centenary Perspective”
-“Maimonides: Ani Maamin - I believe...”
-“Solomon Schechter - Studies in Judaism - The Dogmas of Judaism”
-“The Thirteen Wants” by Mordecai M. Kaplan
+“Tanakh”, Hebrew Bible	---	
+Talmud and Mishna	<group>	
+“The Babylonian Talmud”, Translated by M.L. Rodkinson [1918]	---	
+“Eighteen Treatises from the Mishna”, by D. A. Sola and M. J. Raphall [1843]	---	
+“The Wisdom of the Talmud”, by Ben Zion Bokser [1951]	---	
+“The Talmud”, by Joseph Barclay [1878]	---	
+“The Talmud: Selections”, by H. Polano [1876]	---	
+“The Babylonian Talmud in Selection”, by Leo Auerbach [1944]	---	
+“Sayings of the Jewish Fathers” (Pirqe Aboth), tr. by Charles Taylor [1897]	---	
+“Hebraic Literature”, Edited by Maurice Harris [1901]	---	
+“The Wisdom of Israel”, by Edwin Collins [1910]	---	
+“Tractate Sanhedrin”, Mishnah and Tosefta, by Herbert Danby [1919]	---	
+“Tractate Berakoth”, by A. Lukyn Williams [1921]	---	
+Haggada	<group>	
+“Legends of the Jews”, by Louis Ginzberg [1909]	---	
+Kabbalah	<group>	
+“The Kabbalah Unveiled”, S.L. MacGregor Mathers, Translator. [1912]	---	
+“Sepher Yezirah”, translated by Isidor Kalisch [1877]	---	
+“Kabbalah - Sepher Yetzirah”, W.W. Westcot tr. [1887]	---	
+“The Zohar: Bereshith to Lekh Lekha”, by Nurho de Manhar (pseud.) [1900-14]	---	
+“Jewish Mysticism”, by J. Abelson [1913]	---	
+“The Kabbalah, or the Religious Philosophy of the Hebrews”, by Adolphe Franck [1926]	---	
+“The Cabala”, by Bernhard Pick [1913]	---	
+Midrash	<group>	
+“Tales and Maxims from the Midrash”, by Samuel Rapaport [1907]	---	
+“The Sacred Books and Early Literature of the East, Vol. IV: Medieval Hebrew” [1917]	---	
+Midrash Tanhuma	---	
+Haggadah	<group>	
+“The Union Haggadah”, ed. by The Central Conference of American Rabbis, illus. Isidore Lipton [1923]	---	
+“Haggada For Pesach According To Chabad-Lubavitch Custom”	---	
+Prayer Books (Siddur)	<group>	
+“The Standard Prayer Book”, by Simeon Singer [1915]	---	
+Other texts from late Antiquity and Middle Ages	<group>	
+“Antiquities Book”, by Josephus, tr. by William Whiston [1737]	---	
+“Wars Book”, by Josephus, tr. by William Whiston [1737]	---	
+“Philo of Alexandria Texts”	---	
+“The Kitab al Khazari”, of Judah Hallevi, translated by Hartwig Hirschfeld [1905]	---	
+“The Guide for the Perplexed”, by Moses Maimonides, M. Freidländer, tr. (2nd Ed.) [1904]	---	
+“Selected Religious Poems of Solomon ibn Gabirol”, by Solomon ibn Gabirol, tr. by Israel Zangwill [1923]	---	
+“The Fountain of Life”, by Solomon ibn Gabirol, tr. by Harry E. Wedeck [1962]	---	
+“Original Hebrew of a Portion of Ecclesiasticus”, by A.E. Cowley and A. Neubauer [1897]	---	
+Modern	<group>	
+“The Duties of the Heart”, by Rabbi Bachye, tr. by Edwin Collins [1909]	---	
+“Ancient Jewish Proverbs”, by Abraham Cohen [1911]	---	
+“Jewish Magic and Superstition: A Study in Folk Religion”, by Joshua Trachtenberg [1939]	---	
+“A Rabbi's Impressions of the Oberammergau Passion Play”, by Joseph Krauskopf [1901]	---	
+“Folk-lore of the Holy Land; Moslem, Christian and Jewish”, by J. E. Hanauer [1907]	---	
+“Jewish Fairy Tales and Legends” by “Aunt Naomi” (Gertrude Landa) [1919]	---	
+“The Great March”, by Rose G. Lurie [1931]	---	
+“The Golden Mountain”, by Meyer Levin [1932]	---	
+“Reform Judaism - 1885 Pittsburgh Conference”	---	
+“Articles of Faith from the Jewish Encyclopedia”	---	
+“The Columbus Platform: The Guiding Principles Of Reform Judaism” [1937]	---	
+“Reform Judaism - A Centenary Perspective”	---	
+“Maimonides: Ani Maamin - I believe...”	---	
+“Solomon Schechter - Studies in Judaism - The Dogmas of Judaism”	---	
+“The Thirteen Wants” by Mordecai M. Kaplan	---	
 Religious books of Christianity	https://archive.sacred-texts.com/chr/index.htm, https://archive.sacred-texts.com/gno/index.htm	/en/index/books_christianism
-Bible Commentary	<group>
-“The Complete Sayings of Jesus”, by Arthur Hinds, int. by Norman Vincent Peale [1927]
-Gnosticism	<group>
-“Fragments of a Faith Forgotten” by G.R.S. Mead [1900]
-“The Gnostics and Their Remains” by Charles William King [1887]
-“Pistis Sophia”, Translated by G.R.S. Mead [1921]
-“Early Church Fathers”
-Hermetica	<group>
-“Thrice-Greatest Hermes, Vol. 1” by G.R.S. Mead [1906]
-“Thrice-Greatest Hermes, Vol. 2” by G.R.S. Mead [1906]
-“Thrice-Greatest Hermes, Vol. 3” by G.R.S. Mead [1906]
-“The Divine Pymander” of Hermes Mercurius Trismegistus, translated by John Everard [1650]
-“The Virgin of the World” of Hermes Mercurius Trismegistus, translated by Anna Kingsford and Edward Maitland [1885]
-Gnostic Related Texts	<group>
-“The Hymn of Jesus, Echoes from the Gnosis”, tr. by G.R.S. Mead [1907].
-“Gnostic John the Baptizer Selections from the Mandæan John-Book”, tr. by G.R.S. Mead [1924].
-“The Book of Giants”
-“The Gospel of Thomas” [ca. 200 A.D.]
-“Excerpts from the Gospel of Mary”
-Early Christian	<group>
-“The Gospel of Thomas” [ca. 200 C.E.]
-“The Lord's Prayer”, “Hail Mary (Ave Maria)”, “The Apostles' Creed”, “Nicene Creed”, “The Athanasian Creed”
-“Works of St. Augustine”
-“The Confessions of Saint Augustine” (401 C.E.), by St. Augustine, tr. by Edward Bouverie Pusey [1909-14]
-“Writings of the Early Church Fathers”
-“The Works of Dionysius the Areopagite” (ca. 400 C.E.), by Dionysius the Areopagite, tr. by John Parker [1897]
-Eastern Churches	<group>
-The Book of the Bee, Edited and translated by E. A. Wallis Budge [1886]
-The Book of the Cave of Treasures, translated from the Syriac by E. A. Wallis Budge [1927]
-The Kebra Nagast, tr. by E. A. Wallis Budge [1922]
-Mediaeval, Renaissance and Reformation	<group>
-“Bede's Ecclesiastical History of England” (731), by Bede, ed. by A.M. Sellar [1907]
-“Works of St. Anselm” (b. 1033 d. 1109), by St. Anselm of Canterbury, tr. by Sidney Norton Deane [1903]
-“The Love Letters of Abelard and Heloise” (1128), Tr. by Anonymous, edited by Israel Gollancz and Honnor Morten [1901]
-“The Story of My Misfortunes: The Autobiography of Peter Abelard”, Tr. by Henry Adams Bellows [1922]
-“The Writings of St. Francis of Assisi” (b. 1181 d. 1226), by Paschal Robinson [1905]
-“The Little Flowers of St. Francis”, Trans. by W. Heywood [1906]
-“Summa Theologica” (1265-1274), by St. Thomas Aquinas, tr. by The Fathers of the English Dominican Province [1948]
-“The Adornment of the Spiritual Marriage”, by Jan van Ruysbroeck, (b. 1293 d. 1381) tr. by C. A. Wynschenk Dom, ed. by Evelyn Underhill [1916]
-“The Divine Comedy” (1306-21), by Dante Alighieri, tr. by Henry F. Cary, [1888]
-“The Cloud of Unknowing” (ca. 1400), by Anonymous, ed. by Evelyn Underhill [1922]
-“Imitation of Christ” (ca. 1418), by Thomas a Kempis, tr. by William Benham [1886]
-“The Spiritual Exercises of St. Ignatius of Loyola” (composed 1522-1524, published 1548), by St. Ignatius of Loyola, tr. by Elder Mullan [1909]
-“Texts of Martin Luther” (b. 1483 d. 1546)
-“Texts of John Calvin” (b. 1509 d. 1564)
-“Foxe's Book of Martyrs by John Foxe” [ca. 1560]
-“Synod of Dordrecht” [1618-9]
-“Heidelberg Catechism”
-“The Second Helvetic Confession”
-“Church Order” (Reformed Churches of the Netherlands) [1618-9]
-“Liturgy of the Reformed Churches of the Netherlands”
-“Westminster Shorter Catechism” [1674]
-“The Westminster Confession of Faith”
-“Westminster Larger Catechism”
-“The Works of Stephen Charnock”, by Stephen Charnock [1629-1690]
-“Paradise Lost, Paradise Regained”, by John Milton [1667 and 1671]
-“Pilgrim's Progress”, by John Bunyan [1678]
-“Bunyan”, by James Anthony Froude [1901]
-“Selections from The Cherubinic Wanderer”, Angelus Silesius, trans. with intro. by J. E. Crawford Flitch [1932]
-“Alexandrines: translated from the “Cherubinischer Wandersmann””, Angelus Silesius, Julia Bilger [1944]
-“The Interior Castle”, or, The Mansions, by St. Teresa of Avila [1921]
-“Ordinary of the Mass” [1921] [Latin and English]
-Modern	<group>
-“Unitarian Christianity”, By William Ellery Channing [1819]
-“New England Primer” [1843]
-“Evidence from Scripture and History of the Second Coming of Christ”, by William Miller [1842]
-“The Dolorous Passion of Our Lord Jesus Christ”, by Anne Catherine Emmerich [1843]
-“The Great Controversy”, by Ellen G. White [1858]
-“Notes on the Book of the Revelation”, by John Nelson Darby [1876] (2nd ed.)
-“The Man of Sorrows”, by John Nelson Darby [no date (pre-1882)]
-“Hymns of the Eastern Church”, by J. Neale [1884] (5th ed.)
-“Shaker documents”
-“The Unknown Life of Jesus Christ”, by Nicolas Notovitch, trans. by J. H. Connelly and L. Landsberg [1890]
-“The Baltimore (Catholic) Catechism” [1891]
-“Lives of the Saints”, by Alban Butler, John Gilmary Shea (Benziger Bros. ed.) [1894]
-“The Didache”, by Charles H. Hoole [1894]
-“Jesus An Essene”, by Edward Planta Nesbit [1895]
-“The Doctrine of the Last Things”, by W.O.E. Oesterley [1908]
-“The Seeming Unreality of the Spiritual Life”, by Henry Churchill King [1908]
-“Jesus, the Last Great Initiate”, by Edouard Schuré, tr. by F. Rothwell [1908]
-“Folk-lore of the Holy Land”, by J. E. Hanauer [1909]
-“Science and Health with Key to the Scriptures”, by Mary Baker Eddy [1910]
-“John Wesley's Place in History”, by Woodrow Wilson [1915]
-“The Book of Revelation”, by Clarence Larkin [1919]
-“The Aquarian Gospel of Jesus the Christ”, by Levi H. Dowling [1920]
-“The Gist of Swedenborg”, by Julian K. Smyth and William F. Wunsch [1920]
-“The Political Aspects of S. Augustine's ‘City of God’”, by John Neville Figgis [1921]
-“Human Nature in the Bible” by William Lyon Phelps [1922]
-“Pageant of the Popes”, by John Farrow [1942]
-“The Trial of Christ”, by David K. Breed [1948]
-“The Theological Declaration of Barmen” [1934]
-“The (Episcopal) Book of Common Prayer” [1979]
+Bible Commentary	<group>	
+“The Complete Sayings of Jesus”, by Arthur Hinds, int. by Norman Vincent Peale [1927]	---	
+Gnosticism	<group>	
+“Fragments of a Faith Forgotten” by G.R.S. Mead [1900]	---	
+“The Gnostics and Their Remains” by Charles William King [1887]	---	
+“Pistis Sophia”, Translated by G.R.S. Mead [1921]	---	
+“Early Church Fathers”	---	
+Hermetica	<group>	
+“Thrice-Greatest Hermes, Vol. 1” by G.R.S. Mead [1906]	---	
+“Thrice-Greatest Hermes, Vol. 2” by G.R.S. Mead [1906]	---	
+“Thrice-Greatest Hermes, Vol. 3” by G.R.S. Mead [1906]	---	
+“The Divine Pymander” of Hermes Mercurius Trismegistus, translated by John Everard [1650]	---	
+“The Virgin of the World” of Hermes Mercurius Trismegistus, translated by Anna Kingsford and Edward Maitland [1885]	---	
+Gnostic Related Texts	<group>	
+“The Hymn of Jesus, Echoes from the Gnosis”, tr. by G.R.S. Mead [1907].	---	
+“Gnostic John the Baptizer Selections from the Mandæan John-Book”, tr. by G.R.S. Mead [1924].	---	
+“The Book of Giants”	---	
+“The Gospel of Thomas” [ca. 200 A.D.]	---	
+“Excerpts from the Gospel of Mary”	---	
+Early Christian	<group>	
+“The Gospel of Thomas” [ca. 200 C.E.]	---	
+“The Lord's Prayer”, “Hail Mary (Ave Maria)”, “The Apostles' Creed”, “Nicene Creed”, “The Athanasian Creed”	---	
+“Works of St. Augustine”	---	
+“The Confessions of Saint Augustine” (401 C.E.), by St. Augustine, tr. by Edward Bouverie Pusey [1909-14]	---	
+“Writings of the Early Church Fathers”	---	
+“The Works of Dionysius the Areopagite” (ca. 400 C.E.), by Dionysius the Areopagite, tr. by John Parker [1897]	---	
+Eastern Churches	<group>	
+The Book of the Bee, Edited and translated by E. A. Wallis Budge [1886]	---	
+The Book of the Cave of Treasures, translated from the Syriac by E. A. Wallis Budge [1927]	---	
+The Kebra Nagast, tr. by E. A. Wallis Budge [1922]	---	
+Mediaeval, Renaissance and Reformation	<group>	
+“Bede's Ecclesiastical History of England” (731), by Bede, ed. by A.M. Sellar [1907]	---	
+“Works of St. Anselm” (b. 1033 d. 1109), by St. Anselm of Canterbury, tr. by Sidney Norton Deane [1903]	---	
+“The Love Letters of Abelard and Heloise” (1128), Tr. by Anonymous, edited by Israel Gollancz and Honnor Morten [1901]	---	
+“The Story of My Misfortunes: The Autobiography of Peter Abelard”, Tr. by Henry Adams Bellows [1922]	---	
+“The Writings of St. Francis of Assisi” (b. 1181 d. 1226), by Paschal Robinson [1905]	---	
+“The Little Flowers of St. Francis”, Trans. by W. Heywood [1906]	---	
+“Summa Theologica” (1265-1274), by St. Thomas Aquinas, tr. by The Fathers of the English Dominican Province [1948]	---	
+“The Adornment of the Spiritual Marriage”, by Jan van Ruysbroeck, (b. 1293 d. 1381) tr. by C. A. Wynschenk Dom, ed. by Evelyn Underhill [1916]	---	
+“The Divine Comedy” (1306-21), by Dante Alighieri, tr. by Henry F. Cary, [1888]	---	
+“The Cloud of Unknowing” (ca. 1400), by Anonymous, ed. by Evelyn Underhill [1922]	---	
+“Imitation of Christ” (ca. 1418), by Thomas a Kempis, tr. by William Benham [1886]	---	
+“The Spiritual Exercises of St. Ignatius of Loyola” (composed 1522-1524, published 1548), by St. Ignatius of Loyola, tr. by Elder Mullan [1909]	---	
+“Texts of Martin Luther” (b. 1483 d. 1546)	---	
+“Texts of John Calvin” (b. 1509 d. 1564)	---	
+“Foxe's Book of Martyrs by John Foxe” [ca. 1560]	---	
+“Synod of Dordrecht” [1618-9]	---	
+“Heidelberg Catechism”	---	
+“The Second Helvetic Confession”	---	
+“Church Order” (Reformed Churches of the Netherlands) [1618-9]	---	
+“Liturgy of the Reformed Churches of the Netherlands”	---	
+“Westminster Shorter Catechism” [1674]	---	
+“The Westminster Confession of Faith”	---	
+“Westminster Larger Catechism”	---	
+“The Works of Stephen Charnock”, by Stephen Charnock [1629-1690]	---	
+“Paradise Lost, Paradise Regained”, by John Milton [1667 and 1671]	---	
+“Pilgrim's Progress”, by John Bunyan [1678]	---	
+“Bunyan”, by James Anthony Froude [1901]	---	
+“Selections from The Cherubinic Wanderer”, Angelus Silesius, trans. with intro. by J. E. Crawford Flitch [1932]	---	
+“Alexandrines: translated from the “Cherubinischer Wandersmann””, Angelus Silesius, Julia Bilger [1944]	---	
+“The Interior Castle”, or, The Mansions, by St. Teresa of Avila [1921]	---	
+“Ordinary of the Mass” [1921] [Latin and English]	---	
+Modern	<group>	
+“Unitarian Christianity”, By William Ellery Channing [1819]	---	
+“New England Primer” [1843]	---	
+“Evidence from Scripture and History of the Second Coming of Christ”, by William Miller [1842]	---	
+“The Dolorous Passion of Our Lord Jesus Christ”, by Anne Catherine Emmerich [1843]	---	
+“The Great Controversy”, by Ellen G. White [1858]	---	
+“Notes on the Book of the Revelation”, by John Nelson Darby [1876] (2nd ed.)	---	
+“The Man of Sorrows”, by John Nelson Darby [no date (pre-1882)]	---	
+“Hymns of the Eastern Church”, by J. Neale [1884] (5th ed.)	---	
+“Shaker documents”	---	
+“The Unknown Life of Jesus Christ”, by Nicolas Notovitch, trans. by J. H. Connelly and L. Landsberg [1890]	---	
+“The Baltimore (Catholic) Catechism” [1891]	---	
+“Lives of the Saints”, by Alban Butler, John Gilmary Shea (Benziger Bros. ed.) [1894]	---	
+“The Didache”, by Charles H. Hoole [1894]	---	
+“Jesus An Essene”, by Edward Planta Nesbit [1895]	---	
+“The Doctrine of the Last Things”, by W.O.E. Oesterley [1908]	---	
+“The Seeming Unreality of the Spiritual Life”, by Henry Churchill King [1908]	---	
+“Jesus, the Last Great Initiate”, by Edouard Schuré, tr. by F. Rothwell [1908]	---	
+“Folk-lore of the Holy Land”, by J. E. Hanauer [1909]	---	
+“Science and Health with Key to the Scriptures”, by Mary Baker Eddy [1910]	---	
+“John Wesley's Place in History”, by Woodrow Wilson [1915]	---	
+“The Book of Revelation”, by Clarence Larkin [1919]	---	
+“The Aquarian Gospel of Jesus the Christ”, by Levi H. Dowling [1920]	---	
+“The Gist of Swedenborg”, by Julian K. Smyth and William F. Wunsch [1920]	---	
+“The Political Aspects of S. Augustine's ‘City of God’”, by John Neville Figgis [1921]	---	
+“Human Nature in the Bible” by William Lyon Phelps [1922]	---	
+“Pageant of the Popes”, by John Farrow [1942]	---	
+“The Trial of Christ”, by David K. Breed [1948]	---	
+“The Theological Declaration of Barmen” [1934]	---	
+“The (Episcopal) Book of Common Prayer” [1979]	---	
 Islamic religious books	https://archive.sacred-texts.com/isl/index.htm	/en/index/books_islam
-“Qur'an”
-“A Manual of Hadith”, Translated by Maulana Muhammad Ali [1944].
-“Hadith of Bukhari”
-Sufi Texts	<group>
-“The Rubayyat of Omar Khayyam”, by Omar Khayyam, tr. by Edward Fitzgerald [1859].
-“Oriental Mysticism”, by E.H. Palmer [1867]
-“Selections from the Poetry of the Afghans”, by H. G. Raverty [1867]
-“The Kasîdah of Hâjî Abdû El-Yezdî”, by Sir Richard Burton [1880]
-“The Mesnevi” (Book I) of Rumi, with Acts of the Adepts by Eflaki, Translated by James W. Redhouse [1881]
-“Bird Parliament”, by Farid ud-Din Attar, Translated by Edward Fitzgerald [1889]
-“Poems from the Divan of Hafiz”, by Hafiz, tr. by Gertrude Lowthian Bell [1897].
-“The Masnavi of Rumi”, Abridged and Translated by E.H. Whinfield [1898]
-“The Gulistan of Sa'di”, tr. by Edwin Arnold [1899]
-“Salaman and Absal”, by Nur ad-Din Abd ar-Rahman Jami, Translated by Edward Fitzgerald [1904]
-“Sadi's Scroll of Wisdom”, by Sadi, tr. by Arthur N. Wollaston, [1906]
-“The Alchemy of Happiness”, by Al-Ghazzali, tr. by Claud Field [1909].
-“The Enclosed Garden of the Truth”, (The Hadîqatu' l-Haqîqat of Hakîm Abû' L-Majd Majdûd Sanâ'î) tr. by J. Stephenson [1910]
-“The Bustan of Sadi”, by Sadi, tr. by A. Hart Edwards [1911]
-“The Tarjuman al-Ashwaq”, by al-Arabi, tr. by Reynold A. Nicholson. [1911]
-“The Diwan of Zeb-un-Nissa”, by Zeb-un-Nissa, translated by Magan Lal and Duncan Westbrook [1913]
-“The Mystics of Islam”, by Reynold A. Nicholson. [1914]
-“A Sufi Message of Spritual Liberty”, by Pir-o-Murshid Inayat Khan [1914]
-“Songs of Kabîr”, tr. by Rabindranath Tagore, Introduction by Evelyn Underhill; New York, The Macmillan Company; [1915]
-“The Secret Rose Garden of Sa'd Ud Din Mahmud Shabistari”, Translated by Florence Lederer [1920]
-“The Secrets of the Self”, by Muhammad Iqbal, tr. by Reynold A. Nicholson [1920]
-“Studies in Islamic Mysticism”, by Reynold Alleyne Nicholson, [1921]
-“The Mishkât Al-Anwar” (“The Niche for Lights”) by Al-Ghazzali, translated by W.H.T. Gairdner [1924].
-Islamic History and Culture	<group>
-“The Diwan of Abu'l-Ala”, tr. by Henry Baerlein [1911]
-“The Religion of the Koran”, by Arthur N. Wollaston [1911]
-“Arabic Thought and Its Place in History”, by De Lacy O'Leary [1922]
-“The Glory of the Shia World”, by P. M. Sykes and Khan Bhadur Ahmad din Khan [1910]
-“Arabian Poetry”, by W. A. Clouston [1881]
-“The History of Philosophy in Islam”, by T. J. De Boer [1903]
-“Arabian Wisdom”, by John Wortabet [1913]
-“The Maqámát of Badí‘ al-Zamán al-Hamadhání”, translated by W.J. Prendergast [1915]
-“Islam”, by John A. Williams [1962, not renewed]
-“The Philosophy of Alfarabi”, by Robert Hammond [1947]
-“Development of Muslim Theology”, Jurisprudence and Constitutional Theory, by Duncan B. MacDonald [1903]
-“The Bible, The Koran, and the Talmud” or, Biblical Legends of the Mussulmans. By Dr. G. Weil [1863]
-“The Hanged Poems”, Translated by F.E. Johnson and Sheikh Faiz-ullah-bhai [1917]
-“Folk-lore of the Holy Land”, by J. E. Hanauer [1909]
-“Christ In Islâm”, by Rev. James Robson [1929].
-“The Gospel of Barnabas”, trans. Lonsdale and Laura Ragg [1907].
-“Shiite Documents”
-“Ismā‛īlī materials”
+“Qur'an”	---	
+“A Manual of Hadith”, Translated by Maulana Muhammad Ali [1944].	---	
+“Hadith of Bukhari”	---	
+Sufi Texts	<group>	
+“The Rubayyat of Omar Khayyam”, by Omar Khayyam, tr. by Edward Fitzgerald [1859].	---	
+“Oriental Mysticism”, by E.H. Palmer [1867]	---	
+“Selections from the Poetry of the Afghans”, by H. G. Raverty [1867]	---	
+“The Kasîdah of Hâjî Abdû El-Yezdî”, by Sir Richard Burton [1880]	---	
+“The Mesnevi” (Book I) of Rumi, with Acts of the Adepts by Eflaki, Translated by James W. Redhouse [1881]	---	
+“Bird Parliament”, by Farid ud-Din Attar, Translated by Edward Fitzgerald [1889]	---	
+“Poems from the Divan of Hafiz”, by Hafiz, tr. by Gertrude Lowthian Bell [1897].	---	
+“The Masnavi of Rumi”, Abridged and Translated by E.H. Whinfield [1898]	---	
+“The Gulistan of Sa'di”, tr. by Edwin Arnold [1899]	---	
+“Salaman and Absal”, by Nur ad-Din Abd ar-Rahman Jami, Translated by Edward Fitzgerald [1904]	---	
+“Sadi's Scroll of Wisdom”, by Sadi, tr. by Arthur N. Wollaston, [1906]	---	
+“The Alchemy of Happiness”, by Al-Ghazzali, tr. by Claud Field [1909].	---	
+“The Enclosed Garden of the Truth”, (The Hadîqatu' l-Haqîqat of Hakîm Abû' L-Majd Majdûd Sanâ'î) tr. by J. Stephenson [1910]	---	
+“The Bustan of Sadi”, by Sadi, tr. by A. Hart Edwards [1911]	---	
+“The Tarjuman al-Ashwaq”, by al-Arabi, tr. by Reynold A. Nicholson. [1911]	---	
+“The Diwan of Zeb-un-Nissa”, by Zeb-un-Nissa, translated by Magan Lal and Duncan Westbrook [1913]	---	
+“The Mystics of Islam”, by Reynold A. Nicholson. [1914]	---	
+“A Sufi Message of Spritual Liberty”, by Pir-o-Murshid Inayat Khan [1914]	---	
+“Songs of Kabîr”, tr. by Rabindranath Tagore, Introduction by Evelyn Underhill; New York, The Macmillan Company; [1915]	---	
+“The Secret Rose Garden of Sa'd Ud Din Mahmud Shabistari”, Translated by Florence Lederer [1920]	---	
+“The Secrets of the Self”, by Muhammad Iqbal, tr. by Reynold A. Nicholson [1920]	---	
+“Studies in Islamic Mysticism”, by Reynold Alleyne Nicholson, [1921]	---	
+“The Mishkât Al-Anwar” (“The Niche for Lights”) by Al-Ghazzali, translated by W.H.T. Gairdner [1924].	---	
+Islamic History and Culture	<group>	
+“The Diwan of Abu'l-Ala”, tr. by Henry Baerlein [1911]	---	
+“The Religion of the Koran”, by Arthur N. Wollaston [1911]	---	
+“Arabic Thought and Its Place in History”, by De Lacy O'Leary [1922]	---	
+“The Glory of the Shia World”, by P. M. Sykes and Khan Bhadur Ahmad din Khan [1910]	---	
+“Arabian Poetry”, by W. A. Clouston [1881]	---	
+“The History of Philosophy in Islam”, by T. J. De Boer [1903]	---	
+“Arabian Wisdom”, by John Wortabet [1913]	---	
+“The Maqámát of Badí‘ al-Zamán al-Hamadhání”, translated by W.J. Prendergast [1915]	---	
+“Islam”, by John A. Williams [1962, not renewed]	---	
+“The Philosophy of Alfarabi”, by Robert Hammond [1947]	---	
+“Development of Muslim Theology”, Jurisprudence and Constitutional Theory, by Duncan B. MacDonald [1903]	---	
+“The Bible, The Koran, and the Talmud” or, Biblical Legends of the Mussulmans. By Dr. G. Weil [1863]	---	
+“The Hanged Poems”, Translated by F.E. Johnson and Sheikh Faiz-ullah-bhai [1917]	---	
+“Folk-lore of the Holy Land”, by J. E. Hanauer [1909]	---	
+“Christ In Islâm”, by Rev. James Robson [1929].	---	
+“The Gospel of Barnabas”, trans. Lonsdale and Laura Ragg [1907].	---	
+“Shiite Documents”	---	
+“Ismā‛īlī materials”	---	
 Religious books of Buddhism	https://archive.sacred-texts.com/bud/index.htm	/en/index/books_buddhism
-Modern works	<group>
-“The Gospel of Buddha: Compiled from Ancient Records”, by Paul Carus [1909]
-“Buddha, the Word”, by Paul Carus
-“Amitabha”, by Paul Carus [1906]
-“The Buddhist Catechism”, by Henry S. Olcott (42nd. ed.) [1908]
-“The Creed of Buddha”, by Edmond Holmes (2nd. ed.) [1919]
-“The Life of Buddha”, by Andre Ferdinand Herold [1922], tr. by Paul C. Blum [1927]
-“A Buddhist Bible”, by Dwight Goddard (1st ed.) [1932]
-“The Smokey the Bear Sutra”, by Gary Snyder.
-Southern Buddhism	<group>
-The Dhammapada and The Sutta Nipâta (SBE10), Dhammapada tr. by Max Müller; Sutta-Nipâta tr. by V. Fausböll [1881]
-“Buddhist Suttas” (SBE11), Translated from Pâli by T.W. Rhys Davids [1881]
-“Vinaya Texts (3 parts)”, The Pâtimokkha, The Mahâvagga, The Kullavagga (SBE13), Translated from the Pâli by T.W. Rhys Davids and Herman Oldenberg. [1881]
-“The Questions of King Milinda (2 parts)”, translated by T. W. Rhys Davids [1890-94]
-“Dialogues of the Buddha”, (“The Dîgha-Nikâya”), Translated from the Pâli by T.W. Rhys Davids; London, H. Frowde, Oxford University Press [1899]
-“Buddhism in Translations”, by Henry Clarke Warren [1896]
-“The Udâna”, Translated by Dawsonne Melanchthon Strong [1902]
-“Psalms of the Sisters”, by Caroline A. F. Rhys Davids [1909]
-“The Buddha's Way of Virtue”, tr. by W.D.C. Wagiswara and K.J. Saunders [1920]
-“The Jataka (6 volumes)”, tr. by Robert Chalmers ed. E.B. Cowell [1895-1907]
-“Indian Fairy Tales”, by Joseph Jacobs [1912]
-“Jataka Tales”, by Ellen C. Babbit [1912]
-“Buddhist Scriptures”, by E. J. Thomas [1913]
-Northern Buddhism	<group>
-“The Fo-Sho-Hing-Tsan-King” (SBE19) [1883]
-“Buddhist Mahâyâna Texts” (SBE 49) [1894], Translated by E.B. Cowell, F. Max Müller, and J. Kakakusu.
-“Saddharma-pundarîka” (The Lotus Sutra) (SBE 21), tr. by H. Kern [1884]
-“She-rab Dong-bu” (The Tree of Wisdom), by Nagarjuna; edited and translated by W. L. Cambell [1919]
-“Esoteric Teachings of the Tibetan Tantra”, edited and translated by C.A. Musés [1961]
-“Açvaghosha's Discourse on the Awakening of Faith in the Mahâyâna”, tr. by Teitaro Suzuki [1900]
-“The Awakening of Faith of Ashvagosha”, tr. by Timothy Richard [1907]
-“The Path of Light”, tr. by L.D. Barnett [1909]
-“The Gateless Gate”, by Ekai [Huikai], called Mu-mon, tr. by Nyogen Senzaki and Paul Reps [1934]
-“Chinese Buddhism”, by Joseph Edkins [1893]
-“Buddhism In Tibet”, by Emil Schlaginteweit [1863]
-“The Religion of the Samurai”, by Kaiten Nukariya [1913]
-“Shinran and His Work: Studies in Shinshu Theology”, by Arthur Lloyd [1910]
-“The Creed of Half Japan”, by Arthur Lloyd [1911]
-“Principal Teachings of the True Sect of Pure Land”, by Yejitsu Okusa [1915]
-“Buddhist Psalms”, by S. Yamabe and L. Adams Beck [1921]
-“Manual of Zen Buddhism”, by Daisetz Teitaro Suzuki. [1935]
-“Zen for Americans”, by Soyen Shaku, translated by Daisetz Teitaro Suzuki. [1906]
-“Mysticism, Christian and Buddhist”, by Daisetz Teitaro Suzuki. [1957, not renewed]
-“Gleanings In Buddha-Fields”, by Lafcadio Hearn [1897].
-“The Nō Plays of Japan”, by Arthur Waley [1921].
-“Buddhism and Immortality”, by William Sturgis Bigelow [1908].
-“India in Primitive Christianity”, by Arthur Lillie [1909].
-“The Way to Nirvana”, by L. de la Vallée Poussin [1917].
-“The Book of Tea”, by Kakuzo Okakura [1906]
-“The Ideals of the East”, by Kakuzo Okakura [1904]
-“Journal Articles about Buddhism”
-Religious books of Hinduism	https://archive.sacred-texts.com/hin/index.htm
-Vedas: Rig Veda, Sama Veda, Yajur Veda and Atharva Veda	<group>
-“The Rig-Veda”, translated by Ralph Griffith [1896]
-“Vedic Hymns, Part I” (SBE 32), Hymns to the Maruts, Rudra, Vâyu and Vâta, tr. by F. Max Müller [1891]
-“Vedic Hymns, Part II” (SBE 46), Hymns to Agni, tr. by Hermann Oldenberg [1897]
-“A Vedic Reader for Students (excerpts)”, by A.A. Macdonell [1917]
-“The Sama-Veda”, translated by Ralph Griffith [1895]
-“The Yajur Veda (Taittiriya Sanhita)”, translated by Arthur Berriedale Keith [1914]
-“The Texts of the White Yajurveda”, translated by Ralph T.H. Griffith [1899]
-“The Hymns of the Atharvaveda”, translated by Ralph T.H. Griffith [1895-6]
-“The Atharva-Veda”, translated by Maurice Bloomfield [1897]
-Upanishads	<group>
-“The Upanishads, Part I” (SBE 1), Max Müller, translator [1879]
-“The Upanishads, Part II” (SBE 15), Max Müller, translator [1884]
-“Thirty Minor Upanishads”, by K. Narayanasvami Aiyar [1914]
-“From the Upanishads”, Charles Johnston, translator [1889]
-Puranas	<group>
-“The Vishnu Purana”, by H.H. Wilson [1840]
-“The Garuda Purana”, translated by Ernest Wood and S.V. Subrahmanyam [1911]
-“The S'rimad Devî Bhâgawatam”, translated by Swami Vijnanananda (Hari Prasanna Chatterji) [1921]
-“The Devî Gita”, translated by Swami Vijnanananda (Hari Prasanna Chatterji) [1921]
-“The Prem Sagur”, (Prem Sagar) by Lallu Lal, translated by W. Hollings [1848]
-“The Transmigration of the Seven Brahmans”, translated by Henry David Thoreau [1931]
-“Kundalini: The Mother of the Universe”, by Rishi Singh Gherwal [1930]
-Other Primary Texts	<group>
-“The Laws of Manu”, George Bühler, translator [1886] (Sacred Books of the East, vol. 25)
-“The Sacred Laws of the Âryas”, Part I (SBE 2), George Bühler translator [1879] (Sacred Books of the East, Vol. 2)
-“The Sacred Laws of the Âryas”, Part II (SBE 14), George Bühler translator [1879] (Sacred Books of the East, Vol. 14)
-“The Institutes of Vishnu” (SBE 7), Julius Jolly, translator [1880] (Sacred Books of the East, Vol. 7)
-“The Minor Law Books” (SBE 33), Julius Jolly, translator [1880] (Sacred Books of the East, Vol. 33)
-“Satapatha Brahmana, (5 parts)”
-“The Grihya Sutras, (2 parts)”, Hermann Oldenberg, tr. [1886-1892]
-The Epics	<group>
-“Mahabharata”
-“Ramayana”
-“Bhagavad Gita”
-Vedanta	<group>
-“The Vedântâ-Sûtras” (SBE 48), with commentary by Râmânuja, translated by George Thibaut; (Sacred Books of the East, Vol. 48) [1904]
-“The Vedântâ-Sûtras Part I” (SBE 34), with commentary by Sankarâkârya, translated by George Thibaut; (Sacred Books of the East, Vol. 34) [1890]
-“The Vedântâ-Sûtras Part II” (SBE 38), with commentary by Sankarâkârya, translated by George Thibaut; (Sacred Books of the East, Vol. 38) [1896]
-“The Crest-Jewel of Wisdom and other writings of Śankarâchârya”; translation and commentaries by Charles Johnston [1946]
-“Brahma-Knowledge”, by L.D. Barnett [1911]
-“Select Works of Sri Sankaracharya”, tr. by S. Venkataramanan [1921]
-Later Texts	<group>
-“The Yoga Sutras of Patanjali”, by Charles Johnston [1912]
-“The Hatha Yoga Pradipika”, translated by Pancham Sinh [1914]
-“Dakshinamurti Stotra”, translated by Alladi Mahadeva Sastri [1920]
-“The Sánkhya Aphorisms of Kapila”, translated by James R. Ballantyne [1885]
-“Kalidasa: Translations of Shakuntala and Other Works”, by Kalidasa, (fifth century C.E.), tr. by Arthur W. Ryder [1914]
-“The Little Clay Cart”, by Shudraka tr. by Arthur W. Ryder [1905]
-“Verses of Vemana”, by Vemana (17th century), tr. from the Telugu by C.P. Brown [1829]
-“Black Marigolds”, (Caurapañcāśikā) by Bilhana, tr. by Edward Powys Mathers [1919]
-“Vikram and the Vampire”, tr. by Sir Richard Burton. [1870]
-“Hymns of the Tamil Saivite Saints”, tr. by F. Kingsbury and G.P. Phillips [1829]
-“Songs of Kabîr”, Kabir, tr. by Rabindranath Tagore, Introduction by Evelyn Underhill; New York, The Macmillan Company; [1915]
-“Yoga Vashisht or Heaven Found”, by Rishi Singh Gherwal [1930]
-Modern Books	<group>
-“Relax with Yoga”, by Arthur Liebers [1960]
-“Great Systems of Yoga”, by Ernest Wood [1954]
-“Old Deccan Days”, by Mary Frere [1868]
-“Ramakrishna, His Life and Sayings”, by F. Max Müller [1898]
-“The Gospel of Ramakrishna”, by Mahendra Nath Gupta, ed. by Swami Abhedananda [1907]
-“Hindu Mythology”, Vedic and Puranic, by W.J. Wilkins [1900]
-“How To Be A Yogi”, by Swâmi Abhedânanda [1902]
-“Twenty-two Goblins”, by Arthur W. Ryder [1912]
-“Indian Fairy Tales”, by Joseph Jacobs [1912]
-“Indian Myth and Legend”, by Donald A. Mackenzie [1913]
-“Karma-Yoga”, by Swami Vivekananda [1921]
-“Hindu Mysticism”, by S.N. Dasgupta [1927]
-“Kali the Mother”, by Sister Nivedita (Margaret E. Noble) [1900]
-“The Web of Indian Life”, by Sister Nivedita (Margaret E. Noble) [1904]
-“Studies from an Eastern Home”, by Sister Nivedita (Margaret E. Noble) [1913]
-“Gitanjali”, Rabindranath Tagore [1913]
-“Saddhana, The Realisation of Life”, Rabindranath Tagore [1915]
-“The Crescent Moon”, Rabindranath Tagore [1916]
-“Fruit-Gathering”, Rabindranath Tagore [1916]
-“Stray Birds”, Rabindranath Tagore [1916]
-“The Home and the World”, Rabindranath Tagore [1915]
-“Thought Relics”, Rabindranath Tagore [1921]
-“Songs of Kabîr”, Rabindranath Tagore [1915]
+Modern works	<group>	
+“The Gospel of Buddha: Compiled from Ancient Records”, by Paul Carus [1909]	---	
+“Buddha, the Word”, by Paul Carus	---	
+“Amitabha”, by Paul Carus [1906]	---	
+“The Buddhist Catechism”, by Henry S. Olcott (42nd. ed.) [1908]	---	
+“The Creed of Buddha”, by Edmond Holmes (2nd. ed.) [1919]	---	
+“The Life of Buddha”, by Andre Ferdinand Herold [1922], tr. by Paul C. Blum [1927]	---	
+“A Buddhist Bible”, by Dwight Goddard (1st ed.) [1932]	---	
+“The Smokey the Bear Sutra”, by Gary Snyder.	---	
+Southern Buddhism	<group>	
+The Dhammapada and The Sutta Nipâta (SBE10), Dhammapada tr. by Max Müller; Sutta-Nipâta tr. by V. Fausböll [1881]	---	
+“Buddhist Suttas” (SBE11), Translated from Pâli by T.W. Rhys Davids [1881]	---	
+“Vinaya Texts (3 parts)”, The Pâtimokkha, The Mahâvagga, The Kullavagga (SBE13), Translated from the Pâli by T.W. Rhys Davids and Herman Oldenberg. [1881]	---	
+“The Questions of King Milinda (2 parts)”, translated by T. W. Rhys Davids [1890-94]	---	
+“Dialogues of the Buddha”, (“The Dîgha-Nikâya”), Translated from the Pâli by T.W. Rhys Davids; London, H. Frowde, Oxford University Press [1899]	---	
+“Buddhism in Translations”, by Henry Clarke Warren [1896]	---	
+“The Udâna”, Translated by Dawsonne Melanchthon Strong [1902]	---	
+“Psalms of the Sisters”, by Caroline A. F. Rhys Davids [1909]	---	
+“The Buddha's Way of Virtue”, tr. by W.D.C. Wagiswara and K.J. Saunders [1920]	---	
+“The Jataka (6 volumes)”, tr. by Robert Chalmers ed. E.B. Cowell [1895-1907]	---	
+“Indian Fairy Tales”, by Joseph Jacobs [1912]	---	
+“Jataka Tales”, by Ellen C. Babbit [1912]	---	
+“Buddhist Scriptures”, by E. J. Thomas [1913]	---	
+Northern Buddhism	<group>	
+“The Fo-Sho-Hing-Tsan-King” (SBE19) [1883]	---	
+“Buddhist Mahâyâna Texts” (SBE 49) [1894], Translated by E.B. Cowell, F. Max Müller, and J. Kakakusu.	---	
+“Saddharma-pundarîka” (The Lotus Sutra) (SBE 21), tr. by H. Kern [1884]	---	
+“She-rab Dong-bu” (The Tree of Wisdom), by Nagarjuna; edited and translated by W. L. Cambell [1919]	---	
+“Esoteric Teachings of the Tibetan Tantra”, edited and translated by C.A. Musés [1961]	---	
+“Açvaghosha's Discourse on the Awakening of Faith in the Mahâyâna”, tr. by Teitaro Suzuki [1900]	---	
+“The Awakening of Faith of Ashvagosha”, tr. by Timothy Richard [1907]	---	
+“The Path of Light”, tr. by L.D. Barnett [1909]	---	
+“The Gateless Gate”, by Ekai [Huikai], called Mu-mon, tr. by Nyogen Senzaki and Paul Reps [1934]	---	
+“Chinese Buddhism”, by Joseph Edkins [1893]	---	
+“Buddhism In Tibet”, by Emil Schlaginteweit [1863]	---	
+“The Religion of the Samurai”, by Kaiten Nukariya [1913]	---	
+“Shinran and His Work: Studies in Shinshu Theology”, by Arthur Lloyd [1910]	---	
+“The Creed of Half Japan”, by Arthur Lloyd [1911]	---	
+“Principal Teachings of the True Sect of Pure Land”, by Yejitsu Okusa [1915]	---	
+“Buddhist Psalms”, by S. Yamabe and L. Adams Beck [1921]	---	
+“Manual of Zen Buddhism”, by Daisetz Teitaro Suzuki. [1935]	---	
+“Zen for Americans”, by Soyen Shaku, translated by Daisetz Teitaro Suzuki. [1906]	---	
+“Mysticism, Christian and Buddhist”, by Daisetz Teitaro Suzuki. [1957, not renewed]	---	
+“Gleanings In Buddha-Fields”, by Lafcadio Hearn [1897].	---	
+“The Nō Plays of Japan”, by Arthur Waley [1921].	---	
+“Buddhism and Immortality”, by William Sturgis Bigelow [1908].	---	
+“India in Primitive Christianity”, by Arthur Lillie [1909].	---	
+“The Way to Nirvana”, by L. de la Vallée Poussin [1917].	---	
+“The Book of Tea”, by Kakuzo Okakura [1906]	---	
+“The Ideals of the East”, by Kakuzo Okakura [1904]	---	
+“Journal Articles about Buddhism”	---	
+Religious books of Hinduism	https://archive.sacred-texts.com/hin/index.htm	/en/index/books_hinduism
+Vedas: Rig Veda, Sama Veda, Yajur Veda and Atharva Veda	<group>	
+“The Rig-Veda”, translated by Ralph Griffith [1896]	---	
+“Vedic Hymns, Part I” (SBE 32), Hymns to the Maruts, Rudra, Vâyu and Vâta, tr. by F. Max Müller [1891]	---	
+“Vedic Hymns, Part II” (SBE 46), Hymns to Agni, tr. by Hermann Oldenberg [1897]	---	
+“A Vedic Reader for Students (excerpts)”, by A.A. Macdonell [1917]	---	
+“The Sama-Veda”, translated by Ralph Griffith [1895]	---	
+“The Yajur Veda (Taittiriya Sanhita)”, translated by Arthur Berriedale Keith [1914]	---	
+“The Texts of the White Yajurveda”, translated by Ralph T.H. Griffith [1899]	---	
+“The Hymns of the Atharvaveda”, translated by Ralph T.H. Griffith [1895-6]	---	
+“The Atharva-Veda”, translated by Maurice Bloomfield [1897]	---	
+Upanishads	<group>	
+“The Upanishads, Part I” (SBE 1), Max Müller, translator [1879]	---	
+“The Upanishads, Part II” (SBE 15), Max Müller, translator [1884]	---	
+“Thirty Minor Upanishads”, by K. Narayanasvami Aiyar [1914]	---	
+“From the Upanishads”, Charles Johnston, translator [1889]	---	
+Puranas	<group>	
+“The Vishnu Purana”, by H.H. Wilson [1840]	---	
+“The Garuda Purana”, translated by Ernest Wood and S.V. Subrahmanyam [1911]	---	
+“The S'rimad Devî Bhâgawatam”, translated by Swami Vijnanananda (Hari Prasanna Chatterji) [1921]	---	
+“The Devî Gita”, translated by Swami Vijnanananda (Hari Prasanna Chatterji) [1921]	---	
+“The Prem Sagur”, (Prem Sagar) by Lallu Lal, translated by W. Hollings [1848]	---	
+“The Transmigration of the Seven Brahmans”, translated by Henry David Thoreau [1931]	---	
+“Kundalini: The Mother of the Universe”, by Rishi Singh Gherwal [1930]	---	
+Other Primary Texts	<group>	
+“The Laws of Manu”, George Bühler, translator [1886] (Sacred Books of the East, vol. 25)	---	
+“The Sacred Laws of the Âryas”, Part I (SBE 2), George Bühler translator [1879] (Sacred Books of the East, Vol. 2)	---	
+“The Sacred Laws of the Âryas”, Part II (SBE 14), George Bühler translator [1879] (Sacred Books of the East, Vol. 14)	---	
+“The Institutes of Vishnu” (SBE 7), Julius Jolly, translator [1880] (Sacred Books of the East, Vol. 7)	---	
+“The Minor Law Books” (SBE 33), Julius Jolly, translator [1880] (Sacred Books of the East, Vol. 33)	---	
+“Satapatha Brahmana, (5 parts)”	---	
+“The Grihya Sutras, (2 parts)”, Hermann Oldenberg, tr. [1886-1892]	---	
+The Epics	<group>	
+“Mahabharata”	---	
+“Ramayana”	---	
+“Bhagavad Gita”	---	
+Vedanta	<group>	
+“The Vedântâ-Sûtras” (SBE 48), with commentary by Râmânuja, translated by George Thibaut; (Sacred Books of the East, Vol. 48) [1904]	---	
+“The Vedântâ-Sûtras Part I” (SBE 34), with commentary by Sankarâkârya, translated by George Thibaut; (Sacred Books of the East, Vol. 34) [1890]	---	
+“The Vedântâ-Sûtras Part II” (SBE 38), with commentary by Sankarâkârya, translated by George Thibaut; (Sacred Books of the East, Vol. 38) [1896]	---	
+“The Crest-Jewel of Wisdom and other writings of Śankarâchârya”; translation and commentaries by Charles Johnston [1946]	---	
+“Brahma-Knowledge”, by L.D. Barnett [1911]	---	
+“Select Works of Sri Sankaracharya”, tr. by S. Venkataramanan [1921]	---	
+Later Texts	<group>	
+“The Yoga Sutras of Patanjali”, by Charles Johnston [1912]	---	
+“The Hatha Yoga Pradipika”, translated by Pancham Sinh [1914]	---	
+“Dakshinamurti Stotra”, translated by Alladi Mahadeva Sastri [1920]	---	
+“The Sánkhya Aphorisms of Kapila”, translated by James R. Ballantyne [1885]	---	
+“Kalidasa: Translations of Shakuntala and Other Works”, by Kalidasa, (fifth century C.E.), tr. by Arthur W. Ryder [1914]	---	
+“The Little Clay Cart”, by Shudraka tr. by Arthur W. Ryder [1905]	---	
+“Verses of Vemana”, by Vemana (17th century), tr. from the Telugu by C.P. Brown [1829]	---	
+“Black Marigolds”, (Caurapañcāśikā) by Bilhana, tr. by Edward Powys Mathers [1919]	---	
+“Vikram and the Vampire”, tr. by Sir Richard Burton. [1870]	---	
+“Hymns of the Tamil Saivite Saints”, tr. by F. Kingsbury and G.P. Phillips [1829]	---	
+“Songs of Kabîr”, Kabir, tr. by Rabindranath Tagore, Introduction by Evelyn Underhill; New York, The Macmillan Company; [1915]	---	
+“Yoga Vashisht or Heaven Found”, by Rishi Singh Gherwal [1930]	---	
+Modern Books	<group>	
+“Relax with Yoga”, by Arthur Liebers [1960]	---	
+“Great Systems of Yoga”, by Ernest Wood [1954]	---	
+“Old Deccan Days”, by Mary Frere [1868]	---	
+“Ramakrishna, His Life and Sayings”, by F. Max Müller [1898]	---	
+“The Gospel of Ramakrishna”, by Mahendra Nath Gupta, ed. by Swami Abhedananda [1907]	---	
+“Hindu Mythology”, Vedic and Puranic, by W.J. Wilkins [1900]	---	
+“How To Be A Yogi”, by Swâmi Abhedânanda [1902]	---	
+“Twenty-two Goblins”, by Arthur W. Ryder [1912]	---	
+“Indian Fairy Tales”, by Joseph Jacobs [1912]	---	
+“Indian Myth and Legend”, by Donald A. Mackenzie [1913]	---	
+“Karma-Yoga”, by Swami Vivekananda [1921]	---	
+“Hindu Mysticism”, by S.N. Dasgupta [1927]	---	
+“Kali the Mother”, by Sister Nivedita (Margaret E. Noble) [1900]	---	
+“The Web of Indian Life”, by Sister Nivedita (Margaret E. Noble) [1904]	---	
+“Studies from an Eastern Home”, by Sister Nivedita (Margaret E. Noble) [1913]	---	
+“Gitanjali”, Rabindranath Tagore [1913]	---	
+“Saddhana, The Realisation of Life”, Rabindranath Tagore [1915]	---	
+“The Crescent Moon”, Rabindranath Tagore [1916]	---	
+“Fruit-Gathering”, Rabindranath Tagore [1916]	---	
+“Stray Birds”, Rabindranath Tagore [1916]	---	
+“The Home and the World”, Rabindranath Tagore [1915]	---	
+“Thought Relics”, Rabindranath Tagore [1921]	---	
+“Songs of Kabîr”, Rabindranath Tagore [1915]	---	
 Religious books of Taoism	https://archive.sacred-texts.com/tao/index.htm, https://archive.sacred-texts.com/ich/index.htm	/en/index/books_taoism
-“The I Ching”, James Legge, tr., Sacred Books of the East, vol. 16 [1899]
-“Tao-Te Ching”, traducido by James Legge [1891]
-“Taoists Texts, Part I” (SBE 39), Lao Tzu, Chuang Tzu, tr. by Jame Legge [1891]
-“Taoists Texts, Part II” (SBE40), Chuang Tzu, tr. by Jame Legge [1891]
-“The Tao Teh King: A Short Study in Comparative Religion”, Translated with commentary by C. Spurgeon Medhurst [1905]
-“The Canon of Reason and Virtue (Lao-tze's Tao Teh King) Chinese and English”; Translated by D.T. Suzuki and Paul Carus [1913]
-“Taoist Teachings Translated from the Book of Lieh-Tzü” by Lionel Giles [1912].
-“Yang Chu's Garden of Pleasure”, translated by Anton Forke [1912]
-“T'ai Shang Kan-Ying P'ien”, by Teitaro Suzuki and Paul Carus [1906]
-“Yin Chih Wen, The Tract of the Quiet Way”, by Teitaro Suzuki and Paul Carus. [1906].
-“Taoist Texts”, by Frederic Henry Balfour [1884].
-“Tao, The Great Luminant Essays from the Huai Nan Tzu”, by Evan S. Morgan [1933]
-“Laotzu's Tao and Wu Wei”, by Dwight Goddard and Henri Borel [1919]
-“Laotzu's Tao and Wu Wei” (2nd ed.), by Dwight Goddard and Henri Borel [1939]
-“The Sayings of Lao Tzu”, tr. by Lionel Giles [1905]
-“The Art of War, Sun Tzu”, tr. by Lionel Giles [1910]
-“Musings of a Chinese Mystic, Chuang Tzu”, tr. by Lionel Giles [1909]
-“Kung-Fu, or Tauist Medical Gymnastics”, by John Dudgeon [1895]
-“Sacred Places in China”, by Carl F. Kupfer [1911]
+“The I Ching”, James Legge, tr., Sacred Books of the East, vol. 16 [1899]	---	
+“Tao-Te Ching”, traducido by James Legge [1891]	---	
+“Taoists Texts, Part I” (SBE 39), Lao Tzu, Chuang Tzu, tr. by Jame Legge [1891]	---	
+“Taoists Texts, Part II” (SBE40), Chuang Tzu, tr. by Jame Legge [1891]	---	
+“The Tao Teh King: A Short Study in Comparative Religion”, Translated with commentary by C. Spurgeon Medhurst [1905]	---	
+“The Canon of Reason and Virtue (Lao-tze's Tao Teh King) Chinese and English”; Translated by D.T. Suzuki and Paul Carus [1913]	---	
+“Taoist Teachings Translated from the Book of Lieh-Tzü” by Lionel Giles [1912].	---	
+“Yang Chu's Garden of Pleasure”, translated by Anton Forke [1912]	---	
+“T'ai Shang Kan-Ying P'ien”, by Teitaro Suzuki and Paul Carus [1906]	---	
+“Yin Chih Wen, The Tract of the Quiet Way”, by Teitaro Suzuki and Paul Carus. [1906].	---	
+“Taoist Texts”, by Frederic Henry Balfour [1884].	---	
+“Tao, The Great Luminant Essays from the Huai Nan Tzu”, by Evan S. Morgan [1933]	---	
+“Laotzu's Tao and Wu Wei”, by Dwight Goddard and Henri Borel [1919]	---	
+“Laotzu's Tao and Wu Wei” (2nd ed.), by Dwight Goddard and Henri Borel [1939]	---	
+“The Sayings of Lao Tzu”, tr. by Lionel Giles [1905]	---	
+“The Art of War, Sun Tzu”, tr. by Lionel Giles [1910]	---	
+“Musings of a Chinese Mystic, Chuang Tzu”, tr. by Lionel Giles [1909]	---	
+“Kung-Fu, or Tauist Medical Gymnastics”, by John Dudgeon [1895]	---	
+“Sacred Places in China”, by Carl F. Kupfer [1911]	---	
 Shinto religious books	https://archive.sacred-texts.com/shi/index.htm	/es/index/books_shintoism
-Shinto Scripture	<group>
-“The Kojiki”, Basil Hall Chamberlain, tr. [1919]
-“The Nihongi” (excerpts), translated by W.G. Ashton [1896], 4 Parts
-“The Yengishiki or Shinto Rituals”
-“Kogoshui: Gleanings from Ancient Stories”, translated by Genchi Katō and Hikoshirō Hoshino [1926].
-Japanese Culture, Spirituality and Folklore	<group>
-“The Shundai Zatsuwa (A Japanese Philosopher)”, By Kyuso (Muro Naokiyo), translated by George William Knox [1892]
-“Gleanings In Buddha-Fields”, by Lafcadio Hearn [1897].
-“In Ghostly Japan”, by Lafcadio Hearn [1899].
-“Kwaidan”, by Lafcadio Hearn [1904].
-“Japan, An Attempt At Interpretation”, by Lafcadio Hearn [1904]
-“The Ideals of the East”, by Kakuzo Okakura [1904]
-“The Book of Tea”, by Kakuzo Okakura [1906]
-“Genji Monogatari”, by Lady Murasaki Shikibu tr. by Suematsu Kencho [1900]
-“Bushido, The Soul of Japan”, by Inazo Nitobe [1905].
-“A Hundred Verses from Old Japan (the Hyakunin-isshu)”, translated by William N. Porter [1909]
-“Shinran and His Work: Studies in Shinshu Theology”, by Arthur Lloyd [1910]
-“The Creed of Half Japan”, by Arthur Lloyd [1911]
-“Buddhist Psalms”, by S. Yamabe and L. Adams Beck [1921]
-“Japanese Fairy Tales”, Second Series. By Teresa Peirce Williston, Illustrated by Sanchi Ogawa [1911]
-“Principal Teachings of the True Sect of Pure Land”, by Yejitsu Okusa [1915]
-“Ancient Tales and Folk-lore of Japan”, by Richard Gordon Smith [1918]
-“The Nō Plays of Japan”, by Arthur Waley [1921].
-“The Story of Gio” from the Heike Monogatari, retold by Ridgely Torrence [1935]
-“Japanese Haiku”, translated by Peter Beilenson [1955]
-“Ainu Texts”
+Shinto Scripture	<group>	
+“The Kojiki”, Basil Hall Chamberlain, tr. [1919]	---	
+“The Nihongi” (excerpts), translated by W.G. Ashton [1896], 4 Parts	---	
+“The Yengishiki or Shinto Rituals”	---	
+“Kogoshui: Gleanings from Ancient Stories”, translated by Genchi Katō and Hikoshirō Hoshino [1926].	---	
+Japanese Culture, Spirituality and Folklore	<group>	
+“The Shundai Zatsuwa (A Japanese Philosopher)”, By Kyuso (Muro Naokiyo), translated by George William Knox [1892]	---	
+“Gleanings In Buddha-Fields”, by Lafcadio Hearn [1897].	---	
+“In Ghostly Japan”, by Lafcadio Hearn [1899].	---	
+“Kwaidan”, by Lafcadio Hearn [1904].	---	
+“Japan, An Attempt At Interpretation”, by Lafcadio Hearn [1904]	---	
+“The Ideals of the East”, by Kakuzo Okakura [1904]	---	
+“The Book of Tea”, by Kakuzo Okakura [1906]	---	
+“Genji Monogatari”, by Lady Murasaki Shikibu tr. by Suematsu Kencho [1900]	---	
+“Bushido, The Soul of Japan”, by Inazo Nitobe [1905].	---	
+“A Hundred Verses from Old Japan (the Hyakunin-isshu)”, translated by William N. Porter [1909]	---	
+“Shinran and His Work: Studies in Shinshu Theology”, by Arthur Lloyd [1910]	---	
+“The Creed of Half Japan”, by Arthur Lloyd [1911]	---	
+“Buddhist Psalms”, by S. Yamabe and L. Adams Beck [1921]	---	
+“Japanese Fairy Tales”, Second Series. By Teresa Peirce Williston, Illustrated by Sanchi Ogawa [1911]	---	
+“Principal Teachings of the True Sect of Pure Land”, by Yejitsu Okusa [1915]	---	
+“Ancient Tales and Folk-lore of Japan”, by Richard Gordon Smith [1918]	---	
+“The Nō Plays of Japan”, by Arthur Waley [1921].	---	
+“The Story of Gio” from the Heike Monogatari, retold by Ridgely Torrence [1935]	---	
+“Japanese Haiku”, translated by Peter Beilenson [1955]	---	
+“Ainu Texts”	---	
 Religious books of Bahaism	https://archive.sacred-texts.com/bhi/index.htm	/en/index/books_bahaism
-“The Kitab-i-Aqdas”
-“The Kitab-i-Iqan” (Book of Certitude)
-“Epistle to the Son of the Wolf”
-“The Splendour of God”, by Eric Hammond [1909]
-Bab	<group>
-“Selections from the Writings of the Bab”
-Baha'u'llah	<group>
-“The Kitab-i-Aqdas” (The Most Holy Book)
-“Epistle to the Son of the Wolf”
-“Gleanings from the Writings of Baha'u'llah”
-“The Hidden Words of Baha'u'llah”
-“The Kitab-i-Iqan” (The Book of Certitude)
-“Prayers and Meditations”
-“Proclamation of Baha'u'llah”
-“The Seven Valleys and the Four Valleys”
-“Tablets of Baha'u'llah Revealed after the Kitab-i-Aqdas”
-'Abdu'l-Baha	<group>
-“Abdu'l-Baha in London”
-“Foundations of World Unity”
-“Memorials of the Faithful”
-“Paris Talks”
-“The Promulgation of Universal Peace”
-“The Secret of Divine Civilization”
-“Selections from the Writings of `Abdu'l-Baha”
-“Some Answered Questions”
-“Tablets of 'Abdu'l-Baha”
-“Tablet to August Forel”
-“Tablets of the Divine Plan”
-“A Travellers Narrative”
-“The Will and Testament of 'Abdu'l-Baha”
-Shoghi Effendi	<group>
-“The Advent of Divine Justice”
-“Arohanui: Letters to New Zealand”
-“Baha'i Administration”
-“Citadel of Faith”
-“The Dawn of a New Day”
-“Directives from the Guardian”
-“God Passes By”
-“High Endeavours: Messages to Alaska”
-“Letters from the Guardian to Australia and New Zealand”
-“The Light of Divine Guidance (volume 1)”
-“The Light of Divine Guidance (volume 2)”
-“Messages to America”
-“The Promised Day is Come”
-“Unfolding Destiny”
-“The World Order of Baha'u'llah”
-Others	<group>
-“Baha'u'llah and the New Era by Esslemont”
-“The Dawn Breakers by Nabil”
-“Footnotes to French ed. of The Dawn Breakers”
-“The Prosperity of Humankind”
-“Statement on Baha'u'llah”
-Universal House of Justice	<group>
-“The Promise of World Peace”
-Compilations	<group>
-“Baha'i Prayers”
-“Baha'i World Faith”
-“Baha'i Education”
-“Japan Will Turn Ablaze”
-“Peace”
-“Scholarship”
-“Women”
+“The Kitab-i-Aqdas”	---	
+“The Kitab-i-Iqan” (Book of Certitude)	---	
+“Epistle to the Son of the Wolf”	---	
+“The Splendour of God”, by Eric Hammond [1909]	---	
+Bab	<group>	
+“Selections from the Writings of the Bab”	---	
+Baha'u'llah	<group>	
+“The Kitab-i-Aqdas” (The Most Holy Book)	---	
+“Epistle to the Son of the Wolf”	---	
+“Gleanings from the Writings of Baha'u'llah”	---	
+“The Hidden Words of Baha'u'llah”	---	
+“The Kitab-i-Iqan” (The Book of Certitude)	---	
+“Prayers and Meditations”	---	
+“Proclamation of Baha'u'llah”	---	
+“The Seven Valleys and the Four Valleys”	---	
+“Tablets of Baha'u'llah Revealed after the Kitab-i-Aqdas”	---	
+'Abdu'l-Baha	<group>	
+“Abdu'l-Baha in London”	---	
+“Foundations of World Unity”	---	
+“Memorials of the Faithful”	---	
+“Paris Talks”	---	
+“The Promulgation of Universal Peace”	---	
+“The Secret of Divine Civilization”	---	
+“Selections from the Writings of `Abdu'l-Baha”	---	
+“Some Answered Questions”	---	
+“Tablets of 'Abdu'l-Baha”	---	
+“Tablet to August Forel”	---	
+“Tablets of the Divine Plan”	---	
+“A Travellers Narrative”	---	
+“The Will and Testament of 'Abdu'l-Baha”	---	
+Shoghi Effendi	<group>	
+“The Advent of Divine Justice”	---	
+“Arohanui: Letters to New Zealand”	---	
+“Baha'i Administration”	---	
+“Citadel of Faith”	---	
+“The Dawn of a New Day”	---	
+“Directives from the Guardian”	---	
+“God Passes By”	---	
+“High Endeavours: Messages to Alaska”	---	
+“Letters from the Guardian to Australia and New Zealand”	---	
+“The Light of Divine Guidance (volume 1)”	---	
+“The Light of Divine Guidance (volume 2)”	---	
+“Messages to America”	---	
+“The Promised Day is Come”	---	
+“Unfolding Destiny”	---	
+“The World Order of Baha'u'llah”	---	
+Others	<group>	
+“Baha'u'llah and the New Era by Esslemont”	---	
+“The Dawn Breakers by Nabil”	---	
+“Footnotes to French ed. of The Dawn Breakers”	---	
+“The Prosperity of Humankind”	---	
+“Statement on Baha'u'llah”	---	
+Universal House of Justice	<group>	
+“The Promise of World Peace”	---	
+Compilations	<group>	
+“Baha'i Prayers”	---	
+“Baha'i World Faith”	---	
+“Baha'i Education”	---	
+“Japan Will Turn Ablaze”	---	
+“Peace”	---	
+“Scholarship”	---	
+“Women”	---	
 Religious books of Zoroastrianism	https://archive.sacred-texts.com/zor/index.htm	/es/index/books_zoroastrianism
-“The Zend Avesta, (3 parts)”: Vendîdâd (SBE 4), The Sîrôzahs, Yasts and Nyâyis (SBE 23),  The Yasna, Visparad, Âfrînagân, Gâhs and Miscellaneous Fragments(SBE 31), translated by James Darmesteter and L.H. Mills [1880-1887]
-“Pahlavi Texts, (5 parts)”, E.W. West [1880-1905]
-“The Teachings of Zoroaster”, by S.A. Kapadia [1905]
-“The Yatkar-i-Zariran or Memoirs of Zarir”
+“The Zend Avesta, (3 parts)”: Vendîdâd (SBE 4), The Sîrôzahs, Yasts and Nyâyis (SBE 23),  The Yasna, Visparad, Âfrînagân, Gâhs and Miscellaneous Fragments(SBE 31), translated by James Darmesteter and L.H. Mills [1880-1887]	---	
+“Pahlavi Texts, (5 parts)”, E.W. West [1880-1905]	---	
+“The Teachings of Zoroaster”, by S.A. Kapadia [1905]	---	
+“The Yatkar-i-Zariran or Memoirs of Zarir”	---	
 Jain religious books	https://archive.sacred-texts.com/jai/index.htm	/es/index/books_jainism
-“Jaina Sutras, Part I”, (Sacred Books of the East vol. 22), Translated from the Prakrit by Hermann Jacobi, 1884
-“Jaina Sutras, Part II”, (Sacred Books of the East vol. 45), Translated from the Prakrit by Hermann Jacobi, 1884
-“A Treatise on Jainism”
-“Ten Virtues Of Monks”
-“Twelve Reflections or Bhavnas”
-“Twelve Vows Of Layperson”
-“Fourteen Auspicious Dreams”
-“Five Bodies and Eight Vargnas”
-“Five Great Vows (Maha-vratas)”
-“Six Universal Substances (Dravyas)”
-“Meaning Of Ashta Prakari Puja”
-“Nine Tattvas (Principles)”
+“Jaina Sutras, Part I”, (Sacred Books of the East vol. 22), Translated from the Prakrit by Hermann Jacobi, 1884	---	
+“Jaina Sutras, Part II”, (Sacred Books of the East vol. 45), Translated from the Prakrit by Hermann Jacobi, 1884	---	
+“A Treatise on Jainism”	---	
+“Ten Virtues Of Monks”	---	
+“Twelve Reflections or Bhavnas”	---	
+“Twelve Vows Of Layperson”	---	
+“Fourteen Auspicious Dreams”	---	
+“Five Bodies and Eight Vargnas”	---	
+“Five Great Vows (Maha-vratas)”	---	
+“Six Universal Substances (Dravyas)”	---	
+“Meaning Of Ashta Prakari Puja”	---	
+“Nine Tattvas (Principles)”	---	
 Religious books of Sikhism	https://archive.sacred-texts.com/skh/index.htm	/en/index/books_shikhism
-“The Sikh Religion, Volume 1”, by Max Arthur MacAuliffe [1909]
-“The Religion of the Sikhs”, by Dorothy Field [1914]
-“Shri Guru Granth Sahib”, The sacred text of the Sikhs
+“The Sikh Religion, Volume 1”, by Max Arthur MacAuliffe [1909]	---	
+“The Religion of the Sikhs”, by Dorothy Field [1914]	---	
+“Shri Guru Granth Sahib”, The sacred text of the Sikhs	---	
