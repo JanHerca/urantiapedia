@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
- 
+
 Aquí se describe cómo obtener los libros que se suponen fuentes de *El Libro de Urantia* o tienen alguna relación o paralelismo con *El Libro de Urantia*, y que han sido catalogados siguiendo la tarea [Creación de un catálogo de libros «fuente»](/es/help/github_sourcebooks_catalog).
 
 ## Proceso
@@ -30,7 +30,7 @@ Esta tarea consiste en tratar de localizar en Internet una versión digital de c
 - El libro no se ha encontrado en ningún sitio web descargable como digital. Se puede evaluar adquirir un ejemplar en papel si está disponible o tratar de solicitar a alguien que lo obtenga de una biblioteca pública para escanearlo.
 - El libro se ha encontrado pero no está descargable, sólo se puede leer online. Normalmente se pueden realizar capturas de pantalla de cada página o hacer algun hacking de la web para descargar los escaneados.
 - El libro está descargable pero en forma de imágenes o en un PDF donde no hay texto. Será necesario usar un software de reconocimiento de caracteres (OCR).
-- El libro está descargable en forma de PDF con texto o mejor aún en forma de archivo de texto. Este es el ideal de todos los casos.
+- El libro está descargable en forma de PDF con texto o mejor aún en forma de archivo de texto o como página web. Este es el ideal de todos los casos.
 
 Para obtener libros digitales algunas fuentes pueden ser:
 - [Google Libros](https://books.google.es/)
@@ -93,7 +93,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 ```
-Se debe copiar tal cual está aquí y reemplzar tan sólo los valores que van detrás de los dos puntos. El título es mejor que vayan entrecomillado todo él, y debe formarse del título del libro, y separado con un guión, el título del capítulo, incluyendo su número.
+Se debe copiar tal cual está aquí y reemplazar tan sólo los valores que van detrás de los dos puntos. El título es mejor que vayan entrecomillado todo él, y debe formarse del título del libro, y separado con un guión, del título del capítulo, incluyendo su número.
 
 En la descripción no es necesario poner nada.
 
@@ -147,8 +147,9 @@ Como puede verse un asterisco o guión significa cursiva, y dos significan negri
 
 Si el autor cita un texto, debe resaltarse esa cita como sigue:
 
-```wrap
+```
 Como ya dijo el gran Séneca:
+
 > «No hay viento favorable para el que no sabe adónde va».
 ```
 
@@ -156,8 +157,9 @@ Simplemente añadir la marca `>` y separada con un espacio la cita.
 
 Si la cita es extensa y tiene varios párrafos se puede poner así:
 
-```wrap
+```
 En varios lugares lo comenta Cicerón:
+
 > Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 > 
 > At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
@@ -171,7 +173,7 @@ Puesto que al convertir cada capítulo de un libro en una página web perdemos l
 
 La marca de página debe incluirse entre las palabras en las que se pasa de una página a otra como sigue:
 
-```wrap
+```
 Más allá de los asteroides vienen los cuatro grandes planetas Júpiter, Saturno, Urano y Neptuno, todos ellos mucho más grandes que la Tierra. Júpiter, el más grande, tiene, según Sampson, un diámetro de 88.640 millas [142.652 km], o <span id="p18">[<sup><small>p. 18</small></sup>]</span> más de once veces el diámetro de la tierra; mil cuatrocientos cuerpos del tamaño de la Tierra podrían estar empaquetados dentro de Júpiter y dejar espacio de sobra. Saturno, que le sigue en orden, solo es superado por Júpiter en tamaño, con un diámetro de unas 70.000 millas [112.654 km]. Estos dos son, con mucho, los más grandes de los planetas.
 ```
 

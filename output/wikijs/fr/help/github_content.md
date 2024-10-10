@@ -54,6 +54,7 @@ Les dossiers qui composent le projet *Urantiapedia* sur Github sont les suivants
     * **txt** : dossier avec les fichiers en TXT format.
         * **articles-xx** : quelques exemples d'articles au format TXT (`articles-es`, `articles-en`, etc.).
         * **bible-refs-xx** `DEPRECATED` : ancienne version de _Paramony_ (références croisées de la Bible au _Le Livre d'Urantia_) au format TXT (`bible-refs-es`,`bible-refs-en`, etc.).
+        * **books-xx** : Catalogues de livres pour la bibliothèque Urantiapedia.
         * **topic-index-xx** : *Index des termes* traduits dans chaque langue au format TXT (`topic-index-es`, `topic-index-en`, etc.)
 - **output** : dossier contenant les fichiers de sortie qui seront téléchargés en masse sur le site *Urantipedia*.
     * **wikijs** : dossier avec le contenu dans les formats pris en charge par *Wiki.js*.

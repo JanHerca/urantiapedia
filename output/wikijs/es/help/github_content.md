@@ -54,6 +54,7 @@ Las carpetas que componen el proyecto de *Urantiapedia* en Github son éstas:
     * **txt**: carpeta con los archivos en formato TXT.
         * **articles-xx**: algunos artículos de ejemplo en formato TXT (`articles-es`,`articles-en`, etc.).
         * **bible-refs-xx** `DEPRECATED`: versión antigua del _Paramony_ (referencias cruzadas de la Biblia a _El Libro de Urantia_) en formato TXT (`bible-refs-es`,`bible-refs-en`, etc.).
+        * **books-xx** : Catálogos de libros de la Biblioteca Urantiapedia.
         * **topic-index-xx**: *Índice de términos* traducido a cada idioma en formato TXT (`topic-index-es`, `topic-index-en`, etc.)
 - **output**: carpeta con los ficheros de salida que serán subidos en masa a la web *Urantipedia*.
     * **wikijs**: carpeta con el contenido en los formatos soportados por *Wiki.js*.

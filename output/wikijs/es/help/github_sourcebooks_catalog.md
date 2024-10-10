@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
- 
+
 Aquí se describe cómo crear un catálogo de libros que se suponen fuentes de *El Libro de Urantia* o tienen alguna relación o paralelismo con *El Libro de Urantia*.
 
 ## Contexto

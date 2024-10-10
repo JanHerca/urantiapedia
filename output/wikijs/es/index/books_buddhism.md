@@ -209,29 +209,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-buddha urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:9px" x="61" y="60">Budismo</text>
-							<text style="font-size:9px" x="61" y="70">del Sur</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Budismo del Sur</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book"></div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
+</div>
+
+## Budismo meridional
+
+<div class="layout row wrap">
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
@@ -561,7 +543,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	</div>
 </div>
 
-## Budismo del Norte
+## Budismo septentrional
 
 <div class="layout row wrap">
 	<div class="flex xs6 md4 lg3 xl3 d-flex">

@@ -48,7 +48,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jaina Sutras, Parte I, (Libros Sagrados de Oriente vol. 45)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jaina Sutras, Parte II, (Libros Sagrados de Oriente vol. 45)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Prakrit by Hermann Jacobi (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">

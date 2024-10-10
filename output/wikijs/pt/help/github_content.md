@@ -54,6 +54,7 @@ As pastas que compõem o projeto *Urantiapedia* no Github são estas:
     * **txt**: pasta com os arquivos em TXT formatar. 
         * **articles-xx**: alguns exemplos de artigos em formato TXT (`articles-es`, `articles-en`, etc.). 
         * **bible-refs-xx** `DEPRECATED`: versão antiga de _Paramony_ (referências cruzadas da Bíblia para _O Livro de Urântia_) em formato TXT (`bible-refs-es`,`bible-refs-en`, etc.). 
+        * **books-xx** : Catálogos de livros da Biblioteca da Urantiapedia.
         * **topic-index-xx**: *Índice de termos* traduzidos para cada idioma em formato TXT (`topic-index-es`, `topic-index-en`, etc.)  
 - **output**: pasta com os arquivos de saída que serão carregados em massa no site *Urantipedia*. 
     * **wikijs**: pasta com o conteúdo nos formatos suportados pelo *Wiki.js*. 

@@ -54,6 +54,7 @@ GitHub The folders that make up the *Urantiapedia* project on Github are these:
     * **txt**: Folder with files in TXT format. 
         * **articles-xx**: Some sample articles in TXT format (`articles-es`,`articles-en`, etc.). 
         * **bible-refs-xx** `DEPRECATED`: Old version of the _Paramony_ (Bible cross-references to _The Urantia Book_) in TXT format (`bible-refs-es`, `bible-refs-en`, etc.). 
+        * **books-xx** : Catalogs of books for the Urantiapedia Library.
         * **topic-index-xx**: *Index of terms* translated into each language in TXT format (`topic-index-es`, `topic-index-en`, etc.)  
 - **output**: folder with the output files that will be uploaded en masse to the *Urantipedia* website. 
     * **wikijs**: Folder containing content in formats supported by *Wiki.js*. 
