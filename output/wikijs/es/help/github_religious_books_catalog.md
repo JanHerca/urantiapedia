@@ -52,6 +52,9 @@ El contenido de este archivo es muy simple:
 - Un subgrupo tiene: nombre del subgrupo; etiqueta `<subgroup>`; vacío.
 - Un libro tiene: título; ruta en Urantiapedia a ese libro (si existe); OK (si el libro está subido) o vacío (si no lo está).
 
+> Es muy recomendable etitar los archivos TSV con [Visual Studio Code](https://code.visualstudio.com/) añadiéndole la extensión [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), que permite colorear los datos y muchas más cosas.
+{.is-info}
+
 ## Resultado
 
 Con este fichero se ha creado manualmente (mediante _replaces_) el índice de la _Biblioteca Urantiapedia_ y los índices de cada estante. Se puede ver el resultado en el [Índice de todos los grupos de libros](/es/index/books). Esta página está también accesible en esta web, desde el menú lateral a la izquierda, opción `OTROS LIBROS \ Índice`. Por el momento esta página sólo está disponible en inglés, español y francés.

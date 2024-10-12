@@ -126,6 +126,33 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">Thomas C. Chamberlin and Rollin D. Salisbury</text>
+							<text style="font-size:4px" x="61" y="125">New York: Henry Holt and Company, 1930</text>
+							<text style="font-size:9px" x="61" y="60">College Text-book</text>
+							<text style="font-size:9px" x="61" y="70">of Geology,</text>
+							<text style="font-size:9px" x="61" y="80">Part II:</text>
+							<text style="font-size:9px" x="61" y="90">Historical Geology</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">College Text-book of Geology, Part II: Historical Geology, Rewritten and Revised by Rollin T. Chamberlin and Paul MacClintock</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Thomas C. Chamberlin and Rollin D. Salisbury</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Robert Andrews Millikan</text>
 							<text style="font-size:4px" x="61" y="125">The University of Chicago Press, 1935</text>
 							<text style="font-size:9px" x="61" y="60">Electrons + and -,</text>
@@ -998,6 +1025,31 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William S. Sadler</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">William S. Sadler</text>
+							<text style="font-size:4px" x="61" y="125">Funk & Wagnals Company, New York and London, 1929</text>
+							<text style="font-size:9px" x="61" y="60">The Mind</text>
+							<text style="font-size:9px" x="61" y="70">at Mischief,</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Mind at Mischief</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">William S. Sadler, M.D., F.A.C.S.</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/book/William_S_Sadler/The_Mind_at_Mischief" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>

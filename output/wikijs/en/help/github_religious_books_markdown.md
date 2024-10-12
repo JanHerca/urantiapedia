@@ -27,10 +27,10 @@ Aquí se describe cómo obtener los libros de todas las religiones y cómo subir
 ### Descarga de libros
 
 Esta tarea consiste en tratar de localizar en Internet una versión digital de cada libro. Se pueden dar estas situaciones:
-- El libro no se ha encontrado en ningún sitio web descargable como digital. Se puede evaluar adquirir un ejemplar en papel si está disponible o tratar de solicitar a alguien que lo obtenga de una biblioteca pública para escanearlo.
+- El libro no se encuentra en ningún sitio web descargable como digital. Se puede evaluar adquirir un ejemplar en papel si está disponible o tratar de obtenerlo de una biblioteca pública para escanearlo.
 - El libro se ha encontrado pero no está descargable, sólo se puede leer online. Normalmente se pueden realizar capturas de pantalla de cada página o hacer algun hacking de la web para descargar los escaneados.
 - El libro está descargable pero en forma de imágenes o en un PDF donde no hay texto. Será necesario usar un software de reconocimiento de caracteres (OCR).
-- El libro está descargable en forma de PDF con texto o mejor aún en forma de archivo de texto o como página web. Este es el ideal de todos los casos.
+- El libro está descargable en forma de PDF con texto, o mejor aún, en forma de archivo de texto o como página web. Este es el ideal de todos los casos.
 
 Para obtener libros religiosos digitales algunas fuentes pueden ser:
 - [Sacred texts](https://archive.sacred-texts.com)
@@ -40,9 +40,23 @@ Para obtener libros religiosos digitales algunas fuentes pueden ser:
 
 Se cual sea el caso en que nos encontremos, la tarea será anotar la dirección web de donde hemos logrado descargar el libro y descargarlo a nuestro PC. Luego sería conveniente enviar un correo a urantiapedia@gmail.com indicando las direcciones web de todos los libros que se hayan obtenido. Los *Administradores* están creando un almacén en la Nube de todos los archivos de gran tamaño que no tienen cabida en GitHub. Los libros originales, que a veces son PDF muy grandes, se están dejando ahí para evitar problemas si las webs desde donde se descargaron dejan de estar accesibles en un futuro.
 
-Una vez el fichero del libro se ha convertido a un fichero de tipo texto, la tarea consistirá en procesar el libro hasta obtener un conjunto de ficheros en formato [Markdown](/es/help/markdown), un fichero capítulo, prefacio o apéndice del libro.
+Una vez el fichero del libro se ha convertido a un fichero de tipo texto, la tarea consistirá en procesar el libro hasta obtener un conjunto de ficheros en formato [Markdown](/es/help/markdown), un fichero por cada capítulo, prefacio o apéndice del libro.
 
 Para cualquier modificación de carpetas y ficheros en GitHub deberán seguirse las instrucciones proporcionadas para los usuarios [Administradores](/es/help/admin), [Editores Jefe](/es/help/github) o [Editores Asistentes](/es/help/github_assistant).
+
+### Derechos de autor
+
+Los libros que pueden subirse a Urantiapedia han de ser libros libres de derechos de autor, que hayan entrado en el dominio público. Esto significa que ediciones modernas de la Biblia u otros libros religiosos no pueden ser usados. Lamentablemente, estas ediciones reciben mínimas actualizaciones por parte de los editores que suponen una adquisición de derechos, a pesar de que hablamos de textos milenarios o centenarios que jamás han tenido estas limitaciones legales en el pasado.
+
+Esta situación deplorable no debe descuidarse incluso en un sitio web como Urantiapedia que carece de ánimo de lucro. No importa el tipo de proyecto que estamos haciendo. Un autor o editor de una obra puede sentir mermados sus derechos y sus compensaciones económicas y demandar a la dirección de Urantiapedia por un uso indebido de obras.
+
+Los libros pasan a ser de dominio público dependiendo de la legalidad vigente en el país de origen del autor o de la edición. 
+
+En Estados Unidos, todas las obras publicadas o difundidas por primera vez antes del 1 de enero de 1929 han perdido su protección de derechos de autor 95 años después, a partir del 1 de enero de 2024. De la misma manera, las obras publicadas en 1929 pasarán al dominio público a partir del 1 de enero de 2025, y este ciclo se repetirá hasta que las obras publicadas en 1977 pasen al dominio público el 1 de enero de 2073. Las obras de autoría corporativa seguirán cumpliendo el plazo de noventa y cinco años a partir de la fecha de 2073. Según la legislación actual sobre derechos de autor, a partir de 2049, 1978 y más allá, las obras de creadores que fallecieron siete décadas antes expirarán cada año. Por ejemplo, si un creador falleciera en 2002, los derechos de autor de sus obras durarían hasta finales de 2072 y pasarían al dominio público el 1 de enero de 2073. También son de dominio público las obras publicadas sin aviso de derechos de autor antes de 1977, así como las publicadas antes de marzo de 1989 si los derechos de autor no se registraron dentro de los cinco años siguientes a la fecha de publicación, y las publicadas antes de 1964 si los derechos de autor no se renovaron 28 años después.
+
+En España es de 80 años si el autor falleció antes del 7 de diciembre de 1987 o de 70 años si el autor falleció después.
+
+Por norma general, los países tienen entre 50 a 100 años sobre la explotación de los derechos de autor tras el fallecimiento de los mismos, algo que está marcado por el Convenio de Berna.
 
 ### Estructura de un libro en Urantiapedia
 
@@ -60,6 +74,8 @@ Los libros deben guardarse en estas carpetas del proyecto GitHub:
 	- `Bahaism`: para libros del estante «Escritos religiosos del Bahaismo».
 	- `Shikhism`: para libros del estante «Libros religiosos del sijismo».
 	- `Shintoism`: para libros del estante «Libros religiosos sintoístas».
+	- `Zoroastrianism`: para libros del estante «Libros religiosos del zoroastrismo».
+	- `Jainism`: para libros del estante «Libros religiosos del jainismo».
 	- Dentro de las carpetas anteriores haremos como con la Biblia, crearemos una carpeta por cada libro y un archivo Markdown para la portada. Por ejemplo, la carpeta `/output/wikijs/en/book/Islam/Quran` contiene las 114 suras o capítulos del Corán, y el archivo `/output/wikijs/en/book/Islam/Quran.md` la portada del libro del Corán.
 
 Al respecto de los nombres de carpetas deben tenerse en cuenta estas indicaciones:
@@ -97,6 +113,7 @@ De todo el formato [Markdown](/es/help/markdown), que es bastante amplio, un col
 - Imágenes.
 - Referencias a imágenes.
 - Notas al pie de página.
+- Enlaces de navegación.
 
 Parecen muchas cosas pero la verdad es que Markdown es muy sencillo y se pueden aprender en menos de una hora. En los siguientes apartados explicaremos un poco cada una de las cosas de la lista anterior.
 
@@ -222,6 +239,84 @@ Y el ángel del Señor, apareciendo a Eleazar, el Gran Sacerdote, en una visión
 ```
 
 ### Imágenes
+
+Las imágenes deben incluirse así:
+
+```
+<figure id="Figure_01" class="image urantiapedia">
+<img src="/image/book/Islam/Songs_of_Kabir/image_01.png">
+<figcaption><em><b>Figura 1.</b> Dios Está Dentro de Nosotros</em></figcaption>
+</figure>
+```
+
+Se puede copiar el ejemplo anterior donde se necesite una imagen y reemplazar tan sólo lo siguiente:
+- Donde dice `id="Figure_01"` debe ser un identificador único para la imagen. Se puede poner uno cualquiera con tal de que en el mismo fichero de cada capítulo no haya dos iguales.
+- Donde dice `src="..."` debe ir una ruta hasta el fichero de imagen. La ruta debe empezar siempre con `/image/`, que es donde están todas las imágenes, y detrás debería ir una ruta idéntica a la que tenemos para el libro. Es decir, siguiendo el ejemplo, puesto que el libro se encuentra en `/es/book/Islam/Songs_of_Kabir`, las imágenes para ese libro deberían estar en `/image/book/Islam/Songs_of_Kabir`. El nombre de archivo de cada imagen puede ser cualquiera que sea breve, indicando siempre la extensión (`.png` o `.jpg`). Es recomendable que el nombre de archivo no tenga espacios en blanco ni caracteres especiales, apóstrofes o acentos.
+- Si la imagen tiene un pie se debe poner dentro de la etiqueta `figcaption`.
+- Si se quiere alinear la imagen a la izquierda, centro o derecha hay que reemplazar `class="image urantiapedia"` por `class="image urantiapedia image-style-align-left"`, `class="image urantiapedia image-style-align-center"` y `class="image urantiapedia image-style-align-right"`, respectivamente. Unos párrafos más abajo hay que añadir una línea con `<br style="clear:both;"/>` para que la alineación deje de afectar a la colocación del texto.
+
+Puesto que esta tarea de incluir imágenes puede ser tediosa se puede usar un truco como los mencionados antes. Si ninguna imagen va a llevar un pie se podría poner algo como `fff18` (o `fffl18`, `fffc18`, `fffr18`) como manera de simplificar que ahí va una imagen con número 18 (e incluso alineada).
+
+### Referencias a imágenes
+
+Cuando el texto menciona una imagen es buena idea colocar un enlace interno a esa imagen. Por ejemplo, siguiendo con la imagen que se mostraba arriba, para incluir una referencia se pondría así:
+
+```
+... es uno de los temas destacados de esta canción. Kabir restó importancia tanto a los rituales como a la austeridad (ver [Figura 1](#Figure_01)), enseñando que Dios no está confinado en mezquitas, templos o lugares de peregrinación.
+```
+
+La sintaxis `[Figura 1](#Figure_01)` es la forma de añadir hipervínculos en Markdown. Entre corchetes se indica el texto que se muestra, y justo detrás entre paréntesis se indica la ruta web. Cuando la imagen está en el mismo capítulo, basta con poner `#` y luego el identificador. Si la imagen está en otro capítulo la sintaxis debería ser algo como `[Figura 1](/es/book/Islam/Song_of_Kabir/3#Figure_01)`. En este ejemplo apuntamos a la figura 1 que está en el capítulo 3.
+
+### Notas al pie de página
+
+Si el libro tiene notas al pie de página, o notas al final del capítulo, o notas globales que aparecen al final del libro, pero de las cuales se coloca una marca en el libro mediante un número o una indicación, esas marcas de anotación se convertirán en notas a pie de cada capítulo siempre, como sigue:
+
+```
+Lo más importante es que Dios está dentro de nosotros, y es ahí donde debemos mirar si buscamos conocerlo.[^1]
+
+. . . 
+
+## Notas
+
+[^1]: Masterman, David. Kabir dice . Traducido por Tagore, Rabindranath. Three Pigeons Publishing. ISBN 979-8-6501-4828-9.
+```
+
+Las notas al pie se marcan siempre como un número correlativo empezando en 1, y se escriben como `[^1]`, `[^2]`, etc. El carácter `^` se escribe en el teclado usando `Mayús + [` y luego pulsando espacio.
+
+La nota al pie tiene dos partes: una es la indicación, que se pone justo en el texto, y la otra es la nota en sí misma, que se coloca en la parte final, detrás de cualquier otra cosa, del archivo, cada nota con su marca, luego dos puntos, y luego el texto, y cada nota separada entre sí por una línea en blanco. Es conveniente poner una sección `## Notas` para las notas, que como se ha dicho debería ir siempre al final de todo, incluído de los enlaces de navegación.
+
+### Enlaces de navegación
+
+Estos enlaces van en una sencilla tabla al principio y final de cada capítulo, y permiten pasar de un capítulo a otro con facilidad, o ir al índice. Deberán ser como en el ejemplo siguiente:
+
+```
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/book/Islam/Songs_of_Kabir/1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Capítulo I — Dios está dentro de nosotros</span></a>
+        </td>
+        <td>
+        <a href="/es/book/Islam/Songs_of_Kabir#índice">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice </span></a>
+        </td>
+        <td>
+        <a href="/es/book/Islam/Songs_of_Kabir/3">
+          <span class="pr-2">Capítulo III — La insuficiencia del lenguaje</span><span class="mdi mdi-arrow-right-drop-circle"></span></a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+```
+
+Como se ha dicho antes, lo último del archivo siempre debe ser la sección de notas, si es que la hay, incluso debajo de estos enlaces de navegación.
+
+## Envío de solicitudes de cambios
+
+Esto completa todas las cosas a tener en cuenta al añadir libros religiosos a la Biblioteca Urantipedia. Una vez hechos estos cambios en el proyecto GitHub, hay que realizar una solicitud de cambios tal y como se detalla en los manuales para los usuarios [Administradores](/es/help/admin), [Editores Jefe](/es/help/github) o [Editores Asistentes](/es/help/github_assistant). 
 
 <figure class="table chapter-navigator">
   <table>
