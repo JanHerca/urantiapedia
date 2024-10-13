@@ -33,10 +33,10 @@ This is the main index for documentation on Urantiapedia itself. Please read car
 
 1. [Getting started with GitHub](/en/help/github_fork)
 2. Working on GitHub:
-  - [Working directly from the GitHub website](/en/help/github_edit_on_web)
-  - Working locally on GitHub:
-    - [Setting up your GitHub project](/en/help/github_setting)
-    - [Working locally on your PC](/en/help/github_edit_local)
+    - [Working directly from the GitHub website](/en/help/github_edit_on_web)
+    - Working locally on GitHub:
+        - [Setting up your GitHub project](/en/help/github_setting)
+        - [Working locally on your PC](/en/help/github_edit_local)
 3. [GitHub project content](/en/help/github_content)
 4. [Workflow for creating initial content in a language](/en/help/github_initial_flow)
 
@@ -45,10 +45,10 @@ This is the main index for documentation on Urantiapedia itself. Please read car
 1. [Interface and basic use of Urantiapedia](/en/help/web_basics)
 2. [Manage pages](/en/help/web_pages)
 3. [Use of editors](/en/help/web_editors)
-  - [Using the visual editor](/en/help/web_visual_editor)
-  - [Using the Markdown editor](/en/help/web_markdown_editor)
-    - [Markdown format help](/en/help/markdown)
-  - [Using the HTML editor](/en/help/web_html_editor)
+    - [Using the visual editor](/en/help/web_visual_editor)
+    - [Using the Markdown editor](/en/help/web_markdown_editor)
+        - [Markdown format help](/en/help/markdown)
+    - [Using the HTML editor](/en/help/web_html_editor)
 
 ## Tasks for collaborators
 
@@ -66,7 +66,9 @@ This is the main index for documentation on Urantiapedia itself. Please read car
 
 ### Milestone II - Books, articles, study aids, schemas and indexes
 
-1. [“Source” books catalog](/en/help/github_sourcebooks_catalog)
+1. [Creating a catalog of books on all religions](/en/help/github_religious_books_catalog)
+2. [Getting books from all religions](/en/help/github_religious_books_markdown)
+3. [“Source” books catalog](/en/help/github_sourcebooks_catalog)
 2. [Get “source” books](/en/help/github_sourcebooks_markdown)
 3. [Articles catalog](/en/help/github_articles_catalog)
 4. [Get Articles](/en/help/github_articles_markdown)

@@ -59,6 +59,10 @@ El contenido de este archivo es muy simple:
 
 Con este fichero se ha creado manualmente (mediante _replaces_) el índice de la _Biblioteca Urantiapedia_ y los índices de cada estante. Se puede ver el resultado en el [Índice de todos los grupos de libros](/es/index/books). Esta página está también accesible en esta web, desde el menú lateral a la izquierda, opción `OTROS LIBROS \ Índice`. Por el momento esta página sólo está disponible en inglés, español y francés.
 
+## Enlaces externos
+
+- [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

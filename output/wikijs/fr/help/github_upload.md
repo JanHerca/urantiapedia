@@ -14,12 +14,12 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/fr/help/github_bible_to_wiki">Convertir la Bible</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
-        <td><a href="/fr/help/github_sourcebooks_catalog">Catalogue de livres "sources"</a></td>
+        <td><a href="/fr/help/github_religious_books_catalog">Création d'un catalogue de livres de toutes religions</a></td>
       </tr>
     </tbody>
   </table>
 </figure>
- 
+
 Pour valider le contenu sur Urantiapedia, un projet GitHub est utilisé avec une sauvegarde complète du site Web [Urantiapedia](https://urantiapedia.org). Le projet est ici :
 
 [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup)
@@ -49,7 +49,7 @@ Pour valider le contenu, procédez comme suit :
       <tr>
         <td><a href="/fr/help/github_bible_to_wiki">Convertir la Bible</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
-        <td><a href="/fr/help/github_sourcebooks_catalog">Catalogue de livres "sources"</a></td>
+        <td><a href="/fr/help/github_religious_books_catalog">Création d'un catalogue de livres de toutes religions</a></td>
       </tr>
     </tbody>
   </table>

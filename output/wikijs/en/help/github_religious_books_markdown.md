@@ -1,6 +1,6 @@
 ---
-title: "Obtener libros de todas las religiones"
-description: 
+title: "Getting books from all religions"
+description:
 published: true
 date: 2024-10-10T14:02:03.086Z
 tags: help
@@ -12,114 +12,158 @@ dateCreated: 2024-10-10T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_religious_books_catalog">Creación de un catálogo de libros de todas las religiones</a></td>
-        <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_sourcebooks_catalog">Creación de un catálogo de libros «fuente»</a></td>
+        <td><a href="/en/help/github_religious_books_catalog">Creating a catalog of books from all religions</a></td>
+        <td><a href="/en/help">Index</a></td>
+        <td><a href="/en/help/github_sourcebooks_catalog">Creating a catalog of “source” books</a></td>
       </tr>
     </tbody>
   </table>
 </figure>
 
-Aquí se describe cómo obtener los libros de todas las religiones y cómo subirlos a la [Biblioteca Urantiapedia](/es/book). En la tarea previa se creó un catálogo de estos libros para que sirva de guía.
+This describes how to obtain the books of all religions and how to upload them to the [Urantiapedia Library](/en/book). In the previous task, a catalog of these books was created to serve as a guide.
 
-## Proceso
+## Process
 
-### Descarga de libros
+This task consists of trying to locate a digital version of each book on the Internet, downloading it and processing it until obtaining one or more files in [Markdown](/en/help/markdown) format.
 
-Esta tarea consiste en tratar de localizar en Internet una versión digital de cada libro. Se pueden dar estas situaciones:
-- El libro no se encuentra en ningún sitio web descargable como digital. Se puede evaluar adquirir un ejemplar en papel si está disponible o tratar de obtenerlo de una biblioteca pública para escanearlo.
-- El libro se ha encontrado pero no está descargable, sólo se puede leer online. Normalmente se pueden realizar capturas de pantalla de cada página o hacer algun hacking de la web para descargar los escaneados.
-- El libro está descargable pero en forma de imágenes o en un PDF donde no hay texto. Será necesario usar un software de reconocimiento de caracteres (OCR).
-- El libro está descargable en forma de PDF con texto, o mejor aún, en forma de archivo de texto o como página web. Este es el ideal de todos los casos.
+These situations may occur:
+- The book is not available for download on any website as a digital copy. You may consider purchasing a paper copy if available or try to obtain it from a public library to scan it.
+- The book has been found but is not downloadable, it can only be read online. Usually you can take screenshots of each page or do some web hacking to download the scans. We are using the [Greenshot capture software](https://getgreenshot.org/) for this purpose but any other software can be used.
+- The book is downloadable but in the form of images or in a PDF without text. It will be necessary to use character recognition software (OCR). See below.
+- The book is available for download as a PDF with text, or better yet, as a text file or as a web page. This is ideal in all cases. If it is only available as a PDF, it must be converted to text (see below).
 
-Para obtener libros religiosos digitales algunas fuentes pueden ser:
+### Download books
+
+To obtain digital religious books some sources can be:
 - [Sacred texts](https://archive.sacred-texts.com)
-- [Google Libros](https://books.google.es/)
+- [Google Books](https://books.google.es/)
 - [Internet Archive - Books](https://archive.org/details/books)
-- El software [e-Sword](https://www.e-sword.net/)
+- Software [e-Sword](https://www.e-sword.net/)
 
-Se cual sea el caso en que nos encontremos, la tarea será anotar la dirección web de donde hemos logrado descargar el libro y descargarlo a nuestro PC. Luego sería conveniente enviar un correo a urantiapedia@gmail.com indicando las direcciones web de todos los libros que se hayan obtenido. Los *Administradores* están creando un almacén en la Nube de todos los archivos de gran tamaño que no tienen cabida en GitHub. Los libros originales, que a veces son PDF muy grandes, se están dejando ahí para evitar problemas si las webs desde donde se descargaron dejan de estar accesibles en un futuro.
+Whatever the case, the task will be to note down the web address from where we have managed to download the book and download it to our PC. Then it would be convenient to send an email to urantiapedia@gmail.com indicating the web addresses of all the books that have been obtained. The *Administrators* are creating a Cloud storage for all the large files that do not fit on GitHub. The original books, which are sometimes very large PDFs, are being left there to avoid problems if the websites from which they were downloaded are no longer accessible in the future.
 
-Una vez el fichero del libro se ha convertido a un fichero de tipo texto, la tarea consistirá en procesar el libro hasta obtener un conjunto de ficheros en formato [Markdown](/es/help/markdown), un fichero por cada capítulo, prefacio o apéndice del libro.
+Once the book file has been converted to a text file, the task will be to process the book until obtaining a set of files in [Markdown](/en/help/markdown) format, one file for each chapter, preface or appendix of the book.
 
-Para cualquier modificación de carpetas y ficheros en GitHub deberán seguirse las instrucciones proporcionadas para los usuarios [Administradores](/es/help/admin), [Editores Jefe](/es/help/github) o [Editores Asistentes](/es/help/github_assistant).
+For any modification of folders and files on GitHub, you should follow the instructions provided for users [Administrators](/en/help/admin), [Chief Editors](/en/help/github), or [Assistant Editors](/en/help/github_assistant).
 
-### Derechos de autor
+### Copyright
 
-Los libros que pueden subirse a Urantiapedia han de ser libros libres de derechos de autor, que hayan entrado en el dominio público. Esto significa que ediciones modernas de la Biblia u otros libros religiosos no pueden ser usados. Lamentablemente, estas ediciones reciben mínimas actualizaciones por parte de los editores que suponen una adquisición de derechos, a pesar de que hablamos de textos milenarios o centenarios que jamás han tenido estas limitaciones legales en el pasado.
+Books that can be uploaded to Urantiapedia must be free of copyright, and must have entered the [public domain](https://en.wikipedia.org/wiki/Public_domain). This means that modern editions of the Bible or other religious books cannot be used. Unfortunately, these editions receive minimal updates from publishers, which entails an acquisition of rights, even though we are talking about millennia-old or centenary texts that have never had these legal limitations in the past.
 
-Esta situación deplorable no debe descuidarse incluso en un sitio web como Urantiapedia que carece de ánimo de lucro. No importa el tipo de proyecto que estamos haciendo. Un autor o editor de una obra puede sentir mermados sus derechos y sus compensaciones económicas y demandar a la dirección de Urantiapedia por un uso indebido de obras.
+This deplorable situation should not be overlooked even on a website like Urantiapedia, which is not for profit. It does not matter what kind of project we are doing. An author or editor of a work may feel that his rights and financial compensation have been diminished and sue the management of Urantiapedia for improper use of works.
 
-Los libros pasan a ser de dominio público dependiendo de la legalidad vigente en el país de origen del autor o de la edición. 
+Books become public domain depending on the laws in force in the country of origin of the author or the edition.
 
-En Estados Unidos, todas las obras publicadas o difundidas por primera vez antes del 1 de enero de 1929 han perdido su protección de derechos de autor 95 años después, a partir del 1 de enero de 2024. De la misma manera, las obras publicadas en 1929 pasarán al dominio público a partir del 1 de enero de 2025, y este ciclo se repetirá hasta que las obras publicadas en 1977 pasen al dominio público el 1 de enero de 2073. Las obras de autoría corporativa seguirán cumpliendo el plazo de noventa y cinco años a partir de la fecha de 2073. Según la legislación actual sobre derechos de autor, a partir de 2049, 1978 y más allá, las obras de creadores que fallecieron siete décadas antes expirarán cada año. Por ejemplo, si un creador falleciera en 2002, los derechos de autor de sus obras durarían hasta finales de 2072 y pasarían al dominio público el 1 de enero de 2073. También son de dominio público las obras publicadas sin aviso de derechos de autor antes de 1977, así como las publicadas antes de marzo de 1989 si los derechos de autor no se registraron dentro de los cinco años siguientes a la fecha de publicación, y las publicadas antes de 1964 si los derechos de autor no se renovaron 28 años después.
+In the United States, all works first published or distributed before January 1, 1929 have lost their copyright protection 95 years later, effective January 1, 2024. Likewise, works published in 1929 will enter the public domain effective January 1, 2025, and this cycle will repeat until works published in 1977 enter the public domain on January 1, 2073. Corporately authored works will continue to qualify for the ninety-five-year term beginning in 2073. Under current copyright law, beginning in 2049, 1978, and beyond, works by creators who died seven decades earlier will expire annually. For example, if a creator were to die in 2002, the copyright in his or her works would last until the end of 2072 and would enter the public domain on January 1, 2073. Works published without a copyright notice before 1977 are also in the public domain, as are works published before March 1989 if the copyright was not registered within five years of the publication date, and works published before 1964 if the copyright was not renewed 28 years later.
 
-En España es de 80 años si el autor falleció antes del 7 de diciembre de 1987 o de 70 años si el autor falleció después.
+In Spain, it is 80 years if the author died before December 7, 1987, or 70 years if the author died after.
 
-Por norma general, los países tienen entre 50 a 100 años sobre la explotación de los derechos de autor tras el fallecimiento de los mismos, algo que está marcado por el Convenio de Berna.
+As a general rule, countries have between 50 and 100 years to exploit copyright after the death of the author, something that is set out in the Berne Convention.
 
-### Estructura de un libro en Urantiapedia
+### Scanning books with an OCR
 
-Ya indicamos en [la tarea anterior](/es/help/github_religious_books_catalog) cómo se organizan los libros religiosos en estantes, grupos y subgrupos, y dónde se puede consultar el listado de todos los libros previstos.
+Sometimes a particular book is not scanned or converted to text. To do this, follow these steps:
 
-Los libros deben guardarse en estas carpetas del proyecto GitHub:
-- En el caso de que sea un libro de los estantes «Libros religiosos judeo-cristianos (Antiguo Testamento)»  o «Libros religiosos judeo-cristianos (Nuevo Testamento)» los libros deben guardarse en estas carpetas del proyecto GitHub: `/output/wikijs/en/Bible` para libros en inglés, `/output/wikijs/es/Bible` para libros en español, etc. Dentro de estas carpetas crearemos una por cada libro, donde irán los capítulos, y un fichero Markdown con el mismo nombre que la carpeta, donde irá la portada del libro. Por ejemplo, la carpeta `/output/wikijs/en/Bible/Genesis` contiene los 50 capítulos del Génesis, y el fichero `/output/wikijs/en/Bible/Genesis.md` es el de la portada del Génesis.
-- En el caso de que sea un libro del resto de estantes de libros religiosos, los libros deberán guardarse en estas carpetas del proyecto GitHub: `/output/wikijs/en/book` para libros en inglés, `/output/wikijs/es/book` para libros en español, etc. Dentro de estas carpetas crearemos otra, si no existe, con el nombre de cada religión:
-	- `Judaism`: para libros del estante «Libros religiosos del judaísmo».
-	- `Christianism`: para libros del estante «Escritos religiosos cristianos».
-	- `Islam`: para libros del estante «Libros religiosos islámicos».
-	- `Buddhism`: para libros del estante «Escritos religiosos budistas».
-	- `Hinduism`: para libros del estante «Libros religiosos del hinduismo».
-	- `Taoism`: para libros del estante «Libros religiosos taoístas».
-	- `Bahaism`: para libros del estante «Escritos religiosos del Bahaismo».
-	- `Shikhism`: para libros del estante «Libros religiosos del sijismo».
-	- `Shintoism`: para libros del estante «Libros religiosos sintoístas».
-	- `Zoroastrianism`: para libros del estante «Libros religiosos del zoroastrismo».
-	- `Jainism`: para libros del estante «Libros religiosos del jainismo».
-	- Dentro de las carpetas anteriores haremos como con la Biblia, crearemos una carpeta por cada libro y un archivo Markdown para la portada. Por ejemplo, la carpeta `/output/wikijs/en/book/Islam/Quran` contiene las 114 suras o capítulos del Corán, y el archivo `/output/wikijs/en/book/Islam/Quran.md` la portada del libro del Corán.
+1. If the book is available on a site like archive.org, create screenshots of the pages using a tool like [Greenshot](https://getgreenshot.org/), which integrates with the `ImpScreen` button to speed up the creation of a series of snapshots.
+2. Install [TesseractOCR](https://github.com/UB-Mannheim/tesseract/wiki), free and open source.
+3. Install [Visual Studio Code](https://code.visualstudio.com/), adding the [Powershell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) extension.
+4. Create a couple of folders, one with the screenshots and another for the texts.
+5. Open VS Code in root using the _Terminal > New Terminal_ menu and from the **terminal prompt** create a file listing all snapshots: `dir *.* > ocr.ps1`
+6. Edit the ps1 file with the PowerShell editor, so that all the commands are something like this: `& 'c:\Program Files\Tesseract-OCR\tesseract' ".\snapshots\<filename>.png" ".\texts\<filename>.txt"`
+7. Click the `Run All` button in the PowerShell editor. This creates a TXT file for each PNG file scanned.
+8. Make sure you have the [Combine Files](https://marketplace.visualstudio.com/items?itemName=BateleurIO.vscode-combine-scripts) extension in VS Code.
+9. Right-click on the Texts folder and use _Merge Files_. A temporary file is created. Copy all the contents to a permanent TXT file.
 
-Al respecto de los nombres de carpetas deben tenerse en cuenta estas indicaciones:
-- Deben ser únicos dentro de cada carpeta y deben contener siempre tres caracteres o más.
-- Si se prevee que el libro va a formar parte de una colección (volumen 1, 2, etc.), añadir un sufijo `_1`, `_2`, etc (hasta un máximo de 9 volúmenes), o `_01`, `_02` (si se preveen más de 9 volúmenes).
-- El nombre de la carpeta no debe tener espacios en blanco o guiones, que deberán sustituirse por guiones bajos (`_`).
-- El nombre usará el título del libro pero lo más abreviado posible.
-- El nombre siempre será en inglés, de modo que si el libro original no es en inglés se traduce el título.
-- Los caracteres raros como dos puntos, apóstrofes o exclamaciones se quitan.
-- Por ejemplo, si el título de un libro es *Did Jesus exist?* la carpeta de ese libro se llamaría `Did_Jesus_exist`. Si el título fuera *Principios de Teología* (un libro cuyo original fuera en español), la carpeta sería `Principles_of_Theology`.
-- Siempre se usarán los mismos nombres de carpetas para todos los idiomas. Por ejemplo, la carpeta para el Corán en inglés es `/output/wikijs/en/book/Islam/Quran` y para el español es `/output/wikijs/es/book/Islam/Quran` (NO ES ~~`/output/wikijs/es/book/Islam/Corán`~~). Es decir, lo único que cambia en la URL entre diferentes idiomas es el código de lenguaje (`en`, `es`, etc.). Esto facilita muchas operaciones con las rutas en Urantiapedia.
+An easier way for the last steps:
 
-Cada capítulo será un fichero dentro de la carpeta del libro llamado `xx.md` donde `xx` será:
-- Un número de 0 a N con el número del capítulo (sin el título, sólo el número). El cero está reservado a un prólogo o introducción en el que el propio autor no haya usado un número para numerarlo. Si no hay prólogo ni introducción alguna, el primer capítulo será `1.md`, el segundo será `2.md`, etc.
-- `Index` para la página del índice, que quedará como `Index.md`. Esta página a veces puede omitirse si el índice no es muy largo e incluir el índice en la página de la portada.
-- `Preface` para la página con el prefacio, si lo hay, que quedará como `Preface.md`.
-- Los apéndices deberán nombrarse como `Appendix_xx` donde `xx` sigue una numeración 1 a N.
+1. Create a file (`convert.ps1`) with this content:
 
-> En el caso de muchos libros bíblicos los ficheros con los capítulos están en formato HTML y no Markdown porque se han generado a partir de unos archivos en formato LaTeX que se encuentran dentro del proyecto en `/input/tex`. Este automatismo se debe a que muchos de esos libros se han obtenido por exportación desde el software [e-Sword](https://www.e-sword.net/), que genera un contenido parecido a LaTeX. Esta tarea está detallada en la sección del manual [Obtener la Biblia](/es/help/github_bible). Esta tarea ha quedado finalizada para los 25 idiomas soportados actualmente.
-> Los libros extra-bíblicos que no se obtienen de e-Sword se añaden en formato Markdown siguiendo el proceso manual que se detalla en esta página.
-{is-warning}
+```
+Set-Location 'C:\Users\Scan'
+Get-ChildItem -Filter '*.png' | ForEach-Object {
+& 'c:\Program Files\Tesseract-OCR\tesseract.exe' $_.Name ($_.BaseName)
+}
+```
 
-### Formato básico de un libro religioso en Urantiapedia
+2. Replace `C:\Users\Scan` with the actual path to the scanned files.
+3. Proceed as indicated in step 8 above.
 
-El formato a usar es Markdown, que es extremadamente simple para dar formato frente a otras alternativas.
+The end result will be a TXT file with the text of all the screenshot files. The next step will be to convert that TXT file to Markdown (see below).
 
-De todo el formato [Markdown](/es/help/markdown), que es bastante amplio, un colaborador que añada un libro religioso en Urantiapedia seguramente no deberá preocuparse más que de añadir estas cosas (la lista se detalla más abajo):
-- Una cabecera en cada archivo.
-- Secciones dentro de cada capítulo.
-- Párrafos separados correctamente.
-- Indicación y enlace de versículo delante de algunos párrafos.
-- Negritas y cursivas.
-- Citas.
-- Marcas de salto de página en un libro que no use versículos.
-- Imágenes.
-- Referencias a imágenes.
-- Notas al pie de página.
-- Enlaces de navegación.
+### PDF to Markdown conversion
 
-Parecen muchas cosas pero la verdad es que Markdown es muy sencillo y se pueden aprender en menos de una hora. En los siguientes apartados explicaremos un poco cada una de las cosas de la lista anterior.
+When a digital book is already in PDF format, whether it is a PDF with or without text, there are tools that allow direct conversion to Markdown. Some tools we are using, in order of interest, are these:
 
-### Cabecera de cada archivo
+- [Mathpix](https://mathpix.com/). The most powerful tool we have found, as it not only scans text and images and converts them very well to Markdown, but it also scans mathematical tables and equations, making it an ideal tool for scanning scientific or academic books.
+- [pdf-to-markdown](https://pdf2md.morethan.io/) ([GitHub](https://github.com/jzillmann/pdf-to-markdown)). A Javascript API for PDF conversion. There is an example website.
+- [pdf-tools](https://github.com/bsorrentino/pdf-tools). Inspirado en _pdf-to-markdown_.
+- [Aspose DPF to MD](https://products.aspose.app/words/en/conversion/pdf-to-md). This product is also sold as an [API](https://github.com/aspose-words/Aspose.Words-for-.NET). Its documentation is [here](https://reference.aspose.com/words/net/).
+- [An online converter](https://www.onlineocr.net/). Converts not only to text but also to MS Word.
+- [Split PDF by file size](https://deftpdf.com/split-pdf-by-size). Tool to split a PDF into several files by size. Some tools are not able to work on very large PDFs.
 
-Este es un ejemplo de cabecera a añadir:
+
+## Structure of a book on Urantiapedia
+
+We have already indicated in [the previous task](/en/help/github_religious_books_catalog) how religious books are organized into shelves, groups and subgroups, and where the list of all planned books can be consulted.
+
+Books should be saved in these folders of the GitHub project:
+- In the case of a book from the shelves “Judeo-Christian religious books (Old Testament)” or “Judeo-Christian religious books (New Testament)” the books must be saved in these folders of the GitHub project: `/output/wikijs/en/Bible` for books in English, `/output/wikijs/es/Bible` for books in Spanish, etc. Inside these folders we will create one for each book, where the chapters will go, and a Markdown file with the same name as the folder, where the book cover will go. For example, the folder `/output/wikijs/en/Bible/Genesis` contains the 50 chapters of Genesis, and the file `/output/wikijs/en/Bible/Genesis.md` is the file for the cover of Genesis.
+- In the case of a book from the other religious bookshelves, the books must be saved in these folders of the GitHub project: `/output/wikijs/en/book` for books in English, `/output/wikijs/es/book` for books in Spanish, etc. Within these folders we will create another one, if it does not exist, with the name of each religion:
+	- `Judaism`: for books on the “Religious Books on Judaism” shelf.
+	- `Christianity`: for books on the “Christian Religious Writings” shelf.
+	- `Islam`: for books on the “Islamic Religious Books” shelf.
+	- `Buddhism`: for books on the “Buddhist Religious Writings” shelf.
+	- `Hinduism`: for books on the “Hinduism Religious Books” shelf.
+	- `Taoism`: for books on the “Taoist Religious Books” shelf.
+	- `Bahaism`: for the books of the existing “Religious books of Bahaism”.
+	- `Shikhism`: for books on the shelf “Religious Books of Sikhism”.
+	- `Shintoism`: for books on the “Shintoist religious books” shelf.
+	- `Zoroastrianism`: for books on the shelf “Religious books of Zoroastrianism”.
+	- `Jainism`: for books on the shelf “Religious Books of Jainism”.
+	- Inside the previous folders we will do as with the Bible, we will create a folder for each book and a Markdown file for the cover. For example, the folder `/output/wikijs/en/book/Islam/Quran` contains the 114 suras or chapters of the Quran, and the file `/output/wikijs/en/book/Islam/Quran.md` contains the cover of the Quran book.
+
+Regarding folder names, the following guidelines should be taken into account:
+- They must be unique within each folder and must always contain three or more characters.
+- If the book is expected to be part of a collection (volume 1, 2, etc.), add a suffix `_1`, `_2`, etc. (up to a maximum of 9 volumes), or `_01`, `_02` (if more than 9 volumes are planned).
+- The folder name must not contain any spaces or dashes, which should be replaced by underscores (`_`).
+- The name will use the title of the book but as abbreviated as possible.
+- The name will always be in English, so if the original book is not in English the title is translated.
+- Rare characters such as colons, apostrophes or exclamation marks are removed.
+- For example, if the title of a book is *Did Jesus exist?* the folder for that book would be called `Did_Jesus_exist`. If the title were *Principios de Teología* (a book originally written in Spanish), the folder would be `Principles_of_Theology`.
+- The same folder names will always be used for all languages. For example, the folder for the English Quran is `/output/wikijs/en/book/Islam/Quran` and for Spanish it is `/output/wikijs/es/book/Islam/Quran` (IT IS NOT ~~`/output/wikijs/es/book/Islam/Corán`~~). That is, the only thing that changes in the URL between different languages ​​is the language code (`en`, `es`, etc.). This makes many operations with paths on Urantiapedia easier.
+
+Each chapter will be a file inside the book folder called `xx.md` where `xx` will be:
+- A number from 0 to N containing the chapter number (without the title, just the number). Zero is reserved for a prologue or introduction in which the author himself has not used a number to number it. If there is no prologue or introduction, the first chapter will be `1.md`, the second will be `2.md`, etc.
+- `Index` for the index page, which will be left as `Index.md`. This page can sometimes be omitted if the index is not very long and the index can be included on the front page.
+- `Preface` for the page containing the preface, if any, which will be left as `Preface.md`.
+- Appendices should be named `Appendix_xx` where `xx` follows a numbering 1 to N.
+
+> In the case of many Bible books, the files with the chapters are in HTML format and not Markdown because they have been generated from files in LaTeX format that are located within the project in `/input/tex`. This automation is due to the fact that many of these books have been obtained by export from the software [e-Sword](https://www.e-sword.net/), which generates content similar to LaTeX. This task is detailed in the manual section [Getting the Bible](/en/help/github_bible). This task has been completed for the 25 languages ​​currently supported.
+> Extra-biblical books not obtained from e-Sword are added in Markdown format following the manual process detailed on this page.
+{.is-warning}
+
+## Basic format of a religious book on Urantiapedia
+
+The format to use is Markdown, which is extremely simple to format compared to other alternatives.
+
+Of all the [Markdown](/en/help/markdown) formatting, which is quite extensive, a contributor adding a religious book to Urantiapedia will likely need to worry about nothing more than adding these things (the list is detailed below):
+- A header in each file.
+- Sections within each chapter.
+- Paragraphs correctly separated.
+- Verse indication and link before some paragraphs.
+- Bold and italics.
+- Quotes.
+- Page break marks in a book that does not use verses.
+- Images.
+- References to images.
+- Footnotes.
+- Navigation links.
+
+It may seem like a lot of things, but the truth is that Markdown is very simple and can be learned in less than an hour. In the following sections we will explain a little about each of the things on the list above.
+
+### Header of each file
+
+This is an example of a header to add:
 
 ```
 ---
@@ -132,162 +176,163 @@ editor: markdown
 dateCreated: 2024-01-10T13:55:38.362Z
 ---
 ```
-Se debe copiar tal cual está aquí y reemplazar tan sólo los valores que van detrás de los dos puntos. El título es mejor que vayan entrecomillado todo él, y debe formarse del título del libro, y separado con un guión, del título del capítulo, incluyendo su número.
+It should be copied exactly as it is here and only the values ​​that follow the colon should be replaced. The title should be in quotation marks and should be formed from the title of the book, separated by a hyphen from the title of the chapter, including its number.
 
-En la descripción no es necesario poner nada.
+There is no need to put anything in the description.
 
-La fecha de creación y fecha actual deberían ser la fecha de creación del archivo. La hora no es relevante.
+The creation date and current date should be the date the file was created. The time is not relevant.
 
-En _tags_ hay que poner etiquetas, separadas por comas, que se haya establecido para ese libro. Una lista completa de las etiquetas que se están usando en Urantiapedia está disponible aquí: [Tags en Urantiapedia](https://github.com/JanHerca/urantiapedia/blob/master/docs/tags.md?plain=1). Se pueden dejar en blanco porque es muy rápido rellenarlas luego todas a la vez en todos los archivos del libro. Algunas recomendaciones son estas:
-- La etiqueta da igual si está en mayúsculas o minúsculas. `book` y `Book` es la misma etiqueta. De hecho luego todas se muestran en minúsculas en Urantiapedia: [Búsqueda por etiquetas](https://urantiapedia.org/t). En esta página también se muestran todas las etiquetas existentes.
-- Al menos todos los archivos de un libro deberán llevar la etiqueta `book` que indica que es un contenido de la Biblioteca.
-- Al menos deberá llevar una etiqueta de la religión a la que pertenece el libro: `Judaism`, `Christianity`, `Islam`, `Buddhism`, `Hinduism`, `Taoism`, `Bahai`, `Shikhism`, `Shintoism`.
-- Para libros bíblicos y extra-bíblicos hay muchas etiquetas creadas como `Bible`, `Apocrypha OT`, `Apocrypha NT`, `Deuterocanon OT`, `Deuterocanon NT` y otras.
-- Si alguna etiqueta no existe y se desea añadir, basta con añadirla en la cabecera de cualquier archivo y esa etiqueta será creada.
+In _tags_ you should put tags, separated by commas, that have been established for that book. A complete list of the tags that are being used in Urantiapedia is available here: [Tags in Urantiapedia](https://github.com/JanHerca/urantiapedia/blob/master/docs/tags.md?plain=1). They can be left blank because it is very quick to fill them all at once in all the files of the book. Some recommendations are these:
+- Labels must **be in English**. The option for translated labels is not currently available in [Wiki.js](https://js.wiki/), the software that Urantiapedia uses.
+- The tag does not matter if it is in upper or lower case. `book` and `Book` are the same tag. In fact, they are all displayed in lower case on Urantiapedia: [Search by tag](https://urantiapedia.org/t). All existing tags are also displayed on this page.
+- At least all files in a book must be tagged with `book` to indicate that it is Library content.
+- It must at least bear a label of the religion to which the book belongs: `Judaism`, `Christianity`, `Islam`, `Buddhism`, `Hinduism`, `Taoism`, `Bahai`, `Shikhism`, `Shintoism`.
+- For biblical and extra-biblical books there are many tags created such as `Bible`, `Apocrypha OT`, `Apocrypha NT`, `Deuterocanon OT`, `Deuterocanon NT` and others.
+- If a tag does not exist and you want to add it, just add it to the header of any file and that tag will be created.
 
-### Marcas de secciones
+### Section Marks
 
-Si un capítulo tiene secciones deben marcarse, como sigue:
+If a chapter has sections they should be marked as follows:
 
 ```
-## Los siete cielos
+## The seven heavens
 
-### El Primer Cielo
+### The First Heaven
 
-### El Segundo Cielo
+### The Second Heaven
 ```
 
-Las secciones de primer nivel siempre tendrán la marca `##`, las de siguiente nivel `###` y así sucesivamente. No es muy conveniente usar más de cuatro niveles aunque el libro lo haga. Como se puede ver no usamos secciones con la marca `#` porque después crean unos títulos de sección demasiado grandes.
+First level sections will always be marked `##`, next level sections will be marked `###` and so on. It is not very convenient to use more than four levels even if the book does. As you can see we do not use sections with the `#` mark because they then create section titles that are too big.
 
-### Párrafos correctos
+### Correct paragraphs
 
-Un párrafo es una línea dentro del fichero Markdown y debe tener una línea en blanco delante y detrás. Debe garantizarse que eso ocurre en cada párrafo. En caso de que el texto sea poético, las versos de las estrofas pueden mantenerse juntas y sólo tener una línea en blanco delante y detrás de la estrofa.
+A paragraph is a line within a Markdown file and must have a blank line before and after it. This must be guaranteed for each paragraph. In case the text is poetic, the lines of the stanzas can be kept together and only have a blank line before and after the stanza.
 
-### Indicación y enlace de versículo
+### Verse indication and link
 
-En libros que dispongan de una numeración de versículo dentro de cada capítulo, debe incluirse ésta delante de cada párrafo.
+In books that have verse numbers within each chapter, this should be included before each paragraph.
 
-Por ejemplo, en el primer capítulo del libro [«Evangelio armenio de la infancia»](/es/Bible/Armenian_Infancy_Gospel):
+For example, in the first chapter of the book [«Armenian Infancy Gospel»](/es/Bible/Armenian_Infancy_Gospel):
 
 ```
 <span id="v1"><sup><small>1</small></sup></span>  En aquel tiempo, un hombre llamado Joaquín salió su casa, llevando consigo sus rebaños y sus pastores, y fue al desierto, donde fijó su tienda. ...
 <span id="v2"><sup><small>2</small></sup></span>  Y, cuando se acabaron los cuarenta días de ayuno, advino el ángel del Señor, y, colocándose ante Joaquín, le dijo: Joaquín, el Señor ha oído tus plegarias, y ha atendido tus súplicas. ...
 ```
 
-Como puede verse la indicación sigue siempre este patrón:
+As you can see, the indication always follows this pattern:
 
-`<span id="vXXX"><sup><small>XXX</small></sup></span>` y dos espacios en blanco detrás para dar cierta separación. `XXX` puede ser un número, o una letra, o cualquier elemento breve que diferencie claramente cada versículo y sea un modo habitual usado para cada libro.
+`<span id="vXXX"><sup><small>XXX</small></sup></span>` and two spaces after it to give some separation. `XXX` can be a number, or a letter, or any brief element that clearly differentiates each verse and is a standard method used for each book.
 
-> Un truco muy útil para añadir los indicadores es colocar sólo el número delante de cada párrafo con dos espacios en blanco detrás, y luego hacer un reemplazo en todos los archivos usando expresiones regulares. Buscando esto `^(\d+)  ` y reemplazándolo con esto `<span id="v$1"><sup><small>$1</small></sup></span>  `.
+> A very useful trick for adding the indicators is to put just the number in front of each paragraph with two spaces after it, and then do a replacement on all the files using regular expressions. Searching for this `^(\d+)  ` and replacing it with this `<span id="v$1"><sup><small>$1</small></sup></span>  `.
 {.is-info}
 
 
-### Negritas y cursivas
+### Bold and italics
 
-Se añaden como se indica:
-
-```
-Esto es un texto en un párrafo *con algo en cursiva*.
-
-Esto es un **nuevo párrafo** que tiene algo con negrita.
-
-También se puede usar guiones bajos para mostrar _cursiva_ o __negrita__.
-```
-
-Como puede verse un asterisco o guión significa cursiva, y dos significan negrita.
-
-### Citas
-
-Si el autor cita un texto, debe resaltarse esa cita como sigue:
+They are added as indicated:
 
 ```
-Como ya dijo el gran Séneca:
+This is a text in a paragraph *with some italics*.
 
-> «No hay viento favorable para el que no sabe adónde va».
+This is a **new paragraph** that has something in bold.
+
+Underscores can also be used to display _italic_ or __bold__.
 ```
 
-Simplemente añadir la marca `>` y separada con un espacio la cita.
+As you can see, one asterisk or dash means italics, and two means bold.
 
-Si la cita es extensa y tiene varios párrafos se puede poner así:
+### Quotes
+
+If the author quotes a text, the quote should be highlighted as follows:
 
 ```
-En varios lugares lo comenta Cicerón:
+As the great Seneca said:
 
-> Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+> “There is no favorable wind for the one who does not know where he is going.”
+```
+
+Simply add the `>` tag and separate the quote with a space.
+
+If the quote is long and has several paragraphs, you can put it like this:
+
+```
+Cicero comments on this in several places:
+
+> But in order that you may see whence all this born error of those who accuse pleasure and praise pain, I will open up the whole matter, and explain the very things which were said by that discoverer of truth and, as it were, the architect of a happy life.
 > 
-> At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
+> But indeed we both accuse and with just hatred bring those who deserve it who are softened and corrupted by the flattery of present pleasures, blinded by greed for the pains and troubles they are about to experience, and do not provide for them.
 ```
 
-Observa que ponemos un `> ` con un espacio detrás en cada línea de separación de párrafo.
+Notice that we put a `> ` with a space after it on each paragraph separator line.
 
-### Marcas de salto de página
+### Page jump marks
 
-Si el libro no usa versículos necesitamos algún mecanismo para poder referirnos a una posición del texto dentro de cada capítulo. Una opción puede ser usar marcas de página, es decir, una indicación de dónde el libro original pasa de una página a otra.
+If the book does not use verses, we need some mechanism to be able to refer to a position in the text within each chapter. One option may be to use page markers, that is, an indication of where the original book turns from one page to another.
 
-La marca de página debe incluirse entre las palabras en las que se pasa de una página a otra como sigue:
+The page mark must be included between the words where you turn from one page to another as follows:
 
 ```
-Y el ángel del Señor, apareciendo a Eleazar, el Gran Sacerdote, en una visión semejante, le dijo: He aquí que Joaquín viene hacia ti con ofrendas. Recibe sus dones religiosamente y conforme a la ley, como conviene. Porque el Señor ha escuchado sus ruegos, y ha realizado su <span id="p18">[<sup><small>p. 18</small></sup>]</span> demanda. Y el Gran Sacerdote se despertó de su sueño, se levantó, y dio gracias al Altísimo, diciendo: Bendito sea el Señor, Dios de Israel, porque no desdeña a sus servidores que le imploran. Después, el ángel apareció por segunda vez a Ana, y le dijo: He aquí que tu marido llega. Levántate, ve a buscarlo, y recíbelo con alegría. Y Ana se levantó, revistió su atavío nupcial, y fue a buscar a su marido. Y, cuando lo divisó, se prosternó con júbilo ante él, y le echó al cuello los brazos.
+And the angel of the Lord appeared to Eleazar the high priest in a vision, and said to him, Behold, Jehoiachin is coming to you with gifts. Receive his gifts religiously and according to law, as is fitting. For the Lord has heard his prayers, and has performed his <span id="p18">[<sup><small>p. 18</small></sup>]</span> request. And the high priest awoke from his sleep, and stood up, and gave thanks to the Most High, saying, Blessed be the Lord, the God of Israel, for he does not disdain his servants who pray to him. Then the angel appeared to Anna a second time, and said to her, Behold, your husband is coming. Arise, go and seek him, and welcome him with joy. So Anna arose, put on her wedding attire, and went to seek her husband. And when she saw him, she fell prostrate before him with joy, and threw her arms around his neck.
 ```
 
 Se puede ver que la marca es: `<span id="p18">[<sup><small>p. 18</small></sup>]</span>`.
 
-Como esta tarea puede ser tediosa una manera de hacerla más simple puede ser colocar una marca alternativa más corta, como `ppp18` (`ppp` es un texto que sabemos que nunca va a ocurrir), por seguir con el ejemplo anterior. Luego se pueden buscar esas marcas y reemplazarlas por las definitivas de un modo automático como hemos indicado en otro ejemplo más arriba. Es decir, así también valdría:
+Since this task can be tedious, one way to make it simpler is to put a shorter alternative mark, such as `ppp18` (`ppp` is a text that we know will never occur), to continue with the previous example. Then, these marks can be searched and replaced by the definitive ones automatically, as we have indicated in another example above. That is, this would also work:
 
 ```
-Y el ángel del Señor, apareciendo a Eleazar, el Gran Sacerdote, en una visión semejante, le dijo: He aquí que Joaquín viene hacia ti con ofrendas. Recibe sus dones religiosamente y conforme a la ley, como conviene. Porque el Señor ha escuchado sus ruegos, y ha realizado su ppp18 demanda. Y el Gran Sacerdote se despertó de su sueño, se levantó, y dio gracias al Altísimo, diciendo: Bendito sea el Señor, Dios de Israel, porque no desdeña a sus servidores que le imploran. Después, el ángel apareció por segunda vez a Ana, y le dijo: He aquí que tu marido llega. Levántate, ve a buscarlo, y recíbelo con alegría. Y Ana se levantó, revistió su atavío nupcial, y fue a buscar a su marido. Y, cuando lo divisó, se prosternó con júbilo ante él, y le echó al cuello los brazos.
+And the angel of the Lord appeared to Eleazar the high priest in a vision like this and said to him, “Behold, Jehoiachin is coming to you with gifts. Receive his gifts religiously and according to law, as is fitting, for the Lord has heard his prayers and has performed his ppp18 request.” Then the high priest awoke from his sleep and stood up and gave thanks to the Most High, saying, “Blessed be the Lord, the God of Israel, for he does not disdain his servants who pray to him.” Then the angel appeared to Anna a second time and said to her, “Behold, your husband is coming. Arise, go and get him and welcome him with joy.” So Anna got up and put on her wedding attire and went to get her husband. When she saw him, she fell down before him with joy and threw her arms around his neck.
 ```
 
-### Imágenes
+### Images
 
-Las imágenes deben incluirse así:
+Images must be included as follows:
 
 ```
 <figure id="Figure_01" class="image urantiapedia">
 <img src="/image/book/Islam/Songs_of_Kabir/image_01.png">
-<figcaption><em><b>Figura 1.</b> Dios Está Dentro de Nosotros</em></figcaption>
+<figcaption><em><b>Figure 1.</b> God Is Within Us</em></figcaption>
 </figure>
 ```
 
-Se puede copiar el ejemplo anterior donde se necesite una imagen y reemplazar tan sólo lo siguiente:
-- Donde dice `id="Figure_01"` debe ser un identificador único para la imagen. Se puede poner uno cualquiera con tal de que en el mismo fichero de cada capítulo no haya dos iguales.
-- Donde dice `src="..."` debe ir una ruta hasta el fichero de imagen. La ruta debe empezar siempre con `/image/`, que es donde están todas las imágenes, y detrás debería ir una ruta idéntica a la que tenemos para el libro. Es decir, siguiendo el ejemplo, puesto que el libro se encuentra en `/es/book/Islam/Songs_of_Kabir`, las imágenes para ese libro deberían estar en `/image/book/Islam/Songs_of_Kabir`. El nombre de archivo de cada imagen puede ser cualquiera que sea breve, indicando siempre la extensión (`.png` o `.jpg`). Es recomendable que el nombre de archivo no tenga espacios en blanco ni caracteres especiales, apóstrofes o acentos.
-- Si la imagen tiene un pie se debe poner dentro de la etiqueta `figcaption`.
-- Si se quiere alinear la imagen a la izquierda, centro o derecha hay que reemplazar `class="image urantiapedia"` por `class="image urantiapedia image-style-align-left"`, `class="image urantiapedia image-style-align-center"` y `class="image urantiapedia image-style-align-right"`, respectivamente. Unos párrafos más abajo hay que añadir una línea con `<br style="clear:both;"/>` para que la alineación deje de afectar a la colocación del texto.
+You can copy the above example wherever you need an image and replace just the following:
+- Where it says `id="Figure_01"` it must be a unique identifier for the image. You can put any one as long as there are no two identical ones in the same file for each chapter.
+- Where `src="..."` is written, there should be a path to the image file. The path should always start with `/image/`, which is where all the images are, and should be followed by a path identical to the one we have for the book. That is, following the example, since the book is located at `/en/book/Islam/Songs_of_Kabir`, the images for that book should be located at `/image/book/Islam/Songs_of_Kabir`. The filename for each image can be any short filename, as long as it contains the extension (`.png` or `.jpg`). It is recommended that the filename not contain any spaces or special characters, apostrophes or accents.
+- If the image has a caption it must be placed inside the `figcaption` tag.
+- If you want to align the image to the left, center or right, replace `class="image urantiapedia"` with `class="image urantiapedia image-style-align-left"`, `class="image urantiapedia image-style-align-center"` and `class="image urantiapedia image-style-align-right"`, respectively. A few paragraphs below, add a line with `<br style="clear:both;"/>` so that the alignment no longer affects the placement of the text.
 
-Puesto que esta tarea de incluir imágenes puede ser tediosa se puede usar un truco como los mencionados antes. Si ninguna imagen va a llevar un pie se podría poner algo como `fff18` (o `fffl18`, `fffc18`, `fffr18`) como manera de simplificar que ahí va una imagen con número 18 (e incluso alineada).
+Since this task of including images can be tedious, you can use a trick like those mentioned above. If no image is going to have a caption, you could put something like `fff18` (or `fffl18`, `fffc18`, `fffr18`) as a way of simplifying that an image with the number 18 (and even aligned) goes there.
 
-### Referencias a imágenes
+### Image references
 
-Cuando el texto menciona una imagen es buena idea colocar un enlace interno a esa imagen. Por ejemplo, siguiendo con la imagen que se mostraba arriba, para incluir una referencia se pondría así:
-
-```
-... es uno de los temas destacados de esta canción. Kabir restó importancia tanto a los rituales como a la austeridad (ver [Figura 1](#Figure_01)), enseñando que Dios no está confinado en mezquitas, templos o lugares de peregrinación.
-```
-
-La sintaxis `[Figura 1](#Figure_01)` es la forma de añadir hipervínculos en Markdown. Entre corchetes se indica el texto que se muestra, y justo detrás entre paréntesis se indica la ruta web. Cuando la imagen está en el mismo capítulo, basta con poner `#` y luego el identificador. Si la imagen está en otro capítulo la sintaxis debería ser algo como `[Figura 1](/es/book/Islam/Song_of_Kabir/3#Figure_01)`. En este ejemplo apuntamos a la figura 1 que está en el capítulo 3.
-
-### Notas al pie de página
-
-Si el libro tiene notas al pie de página, o notas al final del capítulo, o notas globales que aparecen al final del libro, pero de las cuales se coloca una marca en el libro mediante un número o una indicación, esas marcas de anotación se convertirán en notas a pie de cada capítulo siempre, como sigue:
+When the text mentions an image, it is a good idea to include an internal link to that image. For example, continuing with the image shown above, to include a reference you would put it like this:
 
 ```
-Lo más importante es que Dios está dentro de nosotros, y es ahí donde debemos mirar si buscamos conocerlo.[^1]
-
-. . . 
-
-## Notas
-
-[^1]: Masterman, David. Kabir dice . Traducido por Tagore, Rabindranath. Three Pigeons Publishing. ISBN 979-8-6501-4828-9.
+... is one of the prominent themes of this song. Kabir downplayed both rituals and austerity (see [Figure 1](#Figure_01)), teaching that God is not confined to mosques, temples, or pilgrimage sites.
 ```
 
-Las notas al pie se marcan siempre como un número correlativo empezando en 1, y se escriben como `[^1]`, `[^2]`, etc. El carácter `^` se escribe en el teclado usando `Mayús + [` y luego pulsando espacio.
+The syntax `[Figure 1](#Figure_01)` is the way to add hyperlinks in Markdown. The text to be displayed is indicated in square brackets, and just behind it in parentheses is the web path. When the image is in the same chapter, just put `#` and then the identifier. If the image is in another chapter the syntax should be something like `[Figure 1](/image/book/Islam/Songs_of_Kabir/3#Figure_01)`. In this example we are pointing to figure 1 which is in chapter 3.
 
-La nota al pie tiene dos partes: una es la indicación, que se pone justo en el texto, y la otra es la nota en sí misma, que se coloca en la parte final, detrás de cualquier otra cosa, del archivo, cada nota con su marca, luego dos puntos, y luego el texto, y cada nota separada entre sí por una línea en blanco. Es conveniente poner una sección `## Notas` para las notas, que como se ha dicho debería ir siempre al final de todo, incluído de los enlaces de navegación.
+### Footnotes
 
-### Enlaces de navegación
+If the book has footnotes, or chapter endnotes, or general notes that appear at the end of the book but are marked in the book by a number or an indication, those annotation marks will become footnotes for each chapter always, as follows:
 
-Estos enlaces van en una sencilla tabla al principio y final de cada capítulo, y permiten pasar de un capítulo a otro con facilidad, o ir al índice. Deberán ser como en el ejemplo siguiente:
+```
+The most important thing is that God is within us, and that is where we must look if we seek to know Him.[^1]
+
+. . .
+
+## Notes
+
+[^1]: Masterman, David. Kabir says. Translated by Tagore, Rabindranath. Three Pigeons Publishing. ISBN 979-8-6501-4828-9
+```
+
+Footnotes are always marked as a consecutive number starting at 1, and are written as `[^1]`, `[^2]`, etc. The `^` character is typed on the keyboard using `Shift + [` and then pressing space.
+
+The footnote has two parts: one is the indication, which is placed right in the text, and the other is the note itself, which is placed at the end, behind everything else, of the file, each note with its mark, then a colon, and then the text, and each note separated from each other by a blank line. It is convenient to put a `## Notes` section for the notes, which as has been said should always be at the end of everything, including navigation links.
+
+### Navigation links
+
+These links are placed in a simple table at the beginning and end of each chapter, and allow you to easily move from one chapter to another, or go to the index. They should be like the following example:
 
 ```
 <figure class="table chapter-navigator">
@@ -312,19 +357,86 @@ Estos enlaces van en una sencilla tabla al principio y final de cada capítulo, 
 </figure>
 ```
 
-Como se ha dicho antes, lo último del archivo siempre debe ser la sección de notas, si es que la hay, incluso debajo de estos enlaces de navegación.
+As stated before, the last thing in the file should always be the notes section, if there is one, even below these navigation links.
 
-## Envío de solicitudes de cambios
+## Creating a cover file
 
-Esto completa todas las cosas a tener en cuenta al añadir libros religiosos a la Biblioteca Urantipedia. Una vez hechos estos cambios en el proyecto GitHub, hay que realizar una solicitud de cambios tal y como se detalla en los manuales para los usuarios [Administradores](/es/help/admin), [Editores Jefe](/es/help/github) o [Editores Asistentes](/es/help/github_assistant). 
+The cover, as already mentioned, goes in a Markdown file with the same name as the folder where the chapters are included. For example: the folder `/output/wikijs/en/Bible/Genesis` contains the 50 chapters of Genesis, and the file `/output/wikijs/en/Bible/Genesis.md` is the cover of Genesis. Similarly, the folder `/output/wikijs/en/book/Islam/Quran` contains the 114 suras or chapters of the Quran, and the file `/output/wikijs/en/book/Islam/Quran.md` is the cover of the book of the Quran.
+
+The cover is a Markdown file that must contain these elements:
+- A header in each file.
+- Book cover in SVG format.
+- (Optional) Sections within the cover.
+- (Optional) Index.
+- External links (where it was downloaded from).
+
+The header should follow the same syntax as already indicated for the chapters.
+
+The cover must be in SVG format.
+
+This is the cover of Genesis:
+
+```
+<div class="urantiapedia-book-front urantiapedia-book-bible">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">LA BIBLIA</text>
+		<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:9px" x="61" y="60">Génesis</text>
+	</g>
+</svg>
+</div>
+```
+
+This is the cover of the Quran:
+
+```
+<div class="urantiapedia-book-front urantiapedia-book-islam">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:4px" x="61" y="130">M.M. Pickthall</text>
+		<text style="font-size:3px" x="61" y="135">The Meaning of the Glorious Quran, 1938</text>
+		<text style="font-size:9px" x="61" y="60">Qur'an</text>
+	</g>
+</svg>
+</div>
+```
+
+All the covers for all the intended books are already generated because they are shown in the indexes for each shelf. Therefore, it is enough to go to the [Urantiapedia Library shelves](/en/index/books) index, enter the desired shelf, and copy the necessary cover from there (the content inside the `<svg>...</svg>` tag) by copying it as in the examples above.
+
+If the book has a description, dedications, or other content specific to the introductory pages, it will be added to this cover file, using Markdown sections and formatting as appropriate.
+
+For texts that you want centered, you can use this syntax as in the following example:
+
+```
+<p style="text-align:center;">
+<b>THE MEANING OF THE GLORIOUS QURAN</b><br>
+by Mohammed Marmaduke Pickthall<br>
+Hyderabad-Deccan : Government Central Press [138]
+</p>
+```
+
+If the index is not very extensive, it can be included in a section on the cover page. Alternatively, it can be placed in a separate file called `Index.md` inside the chapters folder, and then a link to it can be included on the cover page.
+
+## Submitting change requests
+
+This completes all the things to consider when adding religious books to the Urantipedia Library. Once these changes have been made to the GitHub project, a pull request must be submitted as detailed in the [Administrators](/en/help/admin), [Chief Editors](/en/help/github) or [Assistant Editors](/en/help/github_assistant) user manuals.
 
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_religious_books_catalog">Creación de un catálogo de libros de todas las religiones</a></td>
-        <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_sourcebooks_catalog">Creación de un catálogo de libros «fuente»</a></td>
+        <td><a href="/en/help/github_religious_books_catalog">Creating a catalog of books from all religions</a></td>
+        <td><a href="/en/help">Index</a></td>
+        <td><a href="/en/help/github_sourcebooks_catalog">Creating a catalog of “source” books</a></td>
       </tr>
     </tbody>
   </table>

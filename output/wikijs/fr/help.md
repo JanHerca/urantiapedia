@@ -33,10 +33,10 @@ C'est l'index principal de la documentation sur Urantiapedia elle-même. Veuille
 
 1. [Démarrer sur GitHub](/fr/help/github_fork)
 2. Travailler sur GitHub :
-  - [Travailler directement depuis le site Web de GitHub](/fr/help/github_edit_on_web)
-  - Travailler localement sur GitHub :
-    - [Configurer le projet GitHub](/fr/help/github_setting)
-    - [Travailler localement sur PC](/fr/help/github_edit_local)
+    - [Travailler directement depuis le site Web de GitHub](/fr/help/github_edit_on_web)
+    - Travailler localement sur GitHub :
+        - [Configurer le projet GitHub](/fr/help/github_setting)
+        - [Travailler localement sur PC](/fr/help/github_edit_local)
 3. [Contenu du projet GitHub](/fr/help/github_content)
 4. [Workflow pour créer contenu initial dans une langue](/fr/help/github_initial_flow)
 
@@ -45,10 +45,10 @@ C'est l'index principal de la documentation sur Urantiapedia elle-même. Veuille
 1. [Interface et utilisation de base d'Urantiapedia](/fr/help/web_basics)
 2. [Gérer les pages](/fr/help/web_pages)
 3. [Utilisation des éditeurs](/fr/help/web_editors)
-  - [Utilisation de l'éditeur visuel](/fr/help/web_visual_editor)
-  - [Utilisation de l'éditeur Markdown](/fr/help/web_markdown_editor)
-    - [Aide au format Markdown](/fr/help/markdown)
-  - [Utilisation de l'éditeur HTML](/fr/help/web_html_editor)
+    - [Utilisation de l'éditeur visuel](/fr/help/web_visual_editor)
+    - [Utilisation de l'éditeur Markdown](/fr/help/web_markdown_editor)
+        - [Aide au format Markdown](/fr/help/markdown)
+    - [Utilisation de l'éditeur HTML](/fr/help/web_html_editor)
 
 ## Tâches pour les collaborateurs
 
@@ -66,8 +66,10 @@ C'est l'index principal de la documentation sur Urantiapedia elle-même. Veuille
 
 ### Jalon II - Livres, articles, aides à l'étude, schémas et index
 
-1. [Catalogue de livres "sources"](/fr/help/github_sourcebooks_catalog)
-2. [Obtenir des livres "sources"](/fr/help/github_sourcebooks_markdown)
+1. [Création d'un catalogue de livres de toutes religions](/fr/help/github_religious_books_catalog)
+2. [Obtenez des livres de toutes les religions](/fr/help/github_religious_books_markdown)
+3. [Catalogue de livres «sources»](/fr/help/github_sourcebooks_catalog)
+2. [Obtenir des livres «sources»](/fr/help/github_sourcebooks_markdown)
 3. [Catalogue d'articles](/fr/help/github_articles_catalog)
 4. [Obtenir des articles](/fr/help/github_articles_markdown)
 5. [Catalogue d'aides à l'étude](/fr/help/github_studyaids_catalog)

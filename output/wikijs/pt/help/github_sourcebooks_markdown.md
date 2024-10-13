@@ -1,5 +1,5 @@
 ---
-title: "Obter livros “fonte”"
+title: "Obter livros «fonte»"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -12,123 +12,152 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/github_sourcebooks_catalog">Criando um catálogo de livros "fonte"</a></td>
+        <td><a href="/pt/help/github_sourcebooks_catalog">Criando um catálogo de livros «fonte»</a></td>
         <td><a href="/pt/help">Índice</a></td>
         <td><a href="/pt/help/github_articles_catalog">Criando catálogo de artigos</a></td>
       </tr>
     </tbody>
   </table>
 </figure>
- 
-Descrito aqui é como obter os livros que supostamente são fontes do *O Livro de Urântia* ou têm qualquer relação ou paralelo com *O Livro de Urântia*, e foram catalogados seguindo a tarefa [Criando um Catálogo de Livros "Fontes"](/pt/help/github_sourcebooks_catalog).
+
+Isto descreve como obter livros que deveriam ser fontes de *O Livro de Urântia* ou que tenham algum relacionamento ou paralelo com *O Livro de Urântia*, e que foram catalogados seguindo a tarefa [Criar um catálogo de livros «fonte»](/pt/help/github_sourcebooks_catalog).
 
 ## Processo
 
-### Download do livro
+Esta tarefa consiste em tentar localizar na Internet uma versão digital de cada livro, baixá-la e processá-la até obter um ou vários arquivos em formato [Markdown](/pt/help/markdown).
 
-Esta tarefa consiste em tentar localizar uma versão digital de cada livro na Internet. Estas situações podem ocorrer:
-- O livro não foi encontrado em nenhum site para download como digital. Você pode considerar comprar uma cópia em papel, se estiver disponível, ou tentar conseguir alguém para obtê-la em uma biblioteca pública para digitalizá-la.
-- O livro foi encontrado mas não está disponível para download, só pode ser lido online. Normalmente você pode tirar screenshots de cada página ou fazer alguns hacks na web para baixar as digitalizações.
-- O livro pode ser baixado, mas na forma de imagens ou em PDF onde não há texto. Você precisará usar o software de reconhecimento de caracteres (OCR).
-- O livro pode ser baixado como PDF com texto, ou melhor ainda, como arquivo de texto. Este é o ideal de todos os casos.
+Estas situações podem ocorrer:
+- O livro não é encontrado em nenhum site para download como digital. Você pode considerar comprar uma cópia em papel, se estiver disponível, ou tentar obtê-la em uma biblioteca pública para digitalizá-la.
+- O livro foi encontrado, mas não pode ser baixado, só pode ser lido online. Normalmente você pode fazer capturas de tela de cada página ou hackear a web para baixar os scans. Estamos usando o [software de captura Greenshot](https://getgreenshot.org/) para essa finalidade, mas qualquer outro software pode ser usado.
+- O livro pode ser baixado, mas em forma de imagens ou em PDF onde não há texto. Você precisará usar um software de reconhecimento de caracteres (OCR). Veja abaixo.
+- O livro pode ser baixado em PDF com texto, ou melhor ainda, como arquivo de texto ou como página da web. Este é o ideal em todos os casos. Se estiver disponível apenas em PDF, deverá ser convertido para texto (veja abaixo).
 
-Para obter livros digitais, algumas fontes podem ser:
+### Baixar livro
+
+Para obter livros digitais algumas fontes podem ser:
 - [Google Livros](https://books.google.es/)
-- [Internet Archive - Books](https://archive.org/details/books)
+- [Internet Archive - Livros](https://archive.org/details/books)
+- [Projeto Gutenberg](https://www.gutenberg.org/)
 
-Seja qual for o caso em que nos encontremos, a tarefa de um “Editor Assistente” será anotar o endereço da web onde conseguimos baixar o livro e baixá-lo em nosso PC. Ambos os itens devem ser enviados para qualquer um dos Administradores de *Urantiapedia* ou para urantiapedia@gmail.com. Os administradores estão criando uma coleção de armazenamento em nuvem de todos os arquivos grandes que não cabem no GitHub.
+Seja qual for o caso em que nos encontremos, a tarefa será anotar o endereço web de onde conseguimos baixar o livro e baixá-lo para o nosso PC. Então seria conveniente enviar um e-mail para urantiapedia@gmail.com indicando os endereços web de todos os livros obtidos. *Administradores* estão criando um repositório na nuvem para todos os arquivos grandes que não têm lugar no GitHub. Os livros originais, que às vezes são PDFs muito grandes, estão sendo deixados lá para evitar problemas caso os sites dos quais foram baixados não estejam mais acessíveis no futuro.
 
-A tarefa é então entregue a um “Editor Chefe”, que processará o livro em um único arquivo Markdown com tudo isso. Este arquivo não está de forma alguma finalizado e o trabalho será limpá-lo e formatá-lo corretamente para que possa ser carregado para *Urantiapedia*. Isto é o que vamos ver como fazer a seguir.
+Uma vez convertido o arquivo do livro em arquivo texto, a tarefa será processar o livro até obter um conjunto de arquivos no formato [Markdown](/pt/help/markdown), um arquivo para cada capítulo, prefácio ou apêndice ao o livro.
 
-### Estrutura de um livro sobre Urantiapedia
+Para qualquer modificação de pastas e arquivos no GitHub, as instruções fornecidas aos usuários [Administradores](/pt/help/admin), [Editores Chefes](/pt/help/github) ou [Editores Assistentes](/pt/help/github_assistant) deve ser seguido.
 
-Se você for um “editor chefe” e estiver usando a plataforma GitHub, os livros devem ser salvos nestas pastas do projeto GitHub: `/output/wikijs/en/book` para livros em inglês, `/output/wikijs/es/book ` para livros em espanhol, etc. Dentro dessas pastas criaremos outra, caso não exista, com o nome do autor (com espaços em branco substituídos por sublinhados). Por fim, dentro da pasta do autor, criaremos uma pasta para cada livro ao qual colocaremos um nome exclusivo seguindo este critério:
-  - O nome usará o título do livro, mas o mais abreviado possível.
-  - O nome estará sempre em inglês, portanto, se o livro original não estiver em inglês, o título será traduzido.
-  - Os espaços em branco são substituídos por sublinhados.
-  - Caracteres especiais como dois pontos ou exclamações são removidos.
-  - Por exemplo, se o título de um livro for *Jesus existiu?*, a pasta desse livro seria chamada `Did_Jesus_exist`. Se o título fosse *Principios de Teología* (espanhol), a pasta seria `Principles_of_Theology`.
+### Direitos autorais
 
-Se você é um “Assistente Editor” e não vai usar a plataforma GitHub para enviar arquivos, basta criar qualquer pasta no seu PC. Então, quando você enviar seu trabalho para um Administrador, ele cuidará de criar as pastas corretas.
+Tudo sobre _Copyright_ na seção [Obtenha livros de todas as religiões](/pt/help/github_religious_books_markdown) deste manual também se aplica aqui.
+
+### Digitalize livros com um OCR
+
+Se você precisar digitalizar um livro, consulte a seção [Obtenha livros de todas as religiões](/pt/help/github_religious_books_markdown) deste manual e siga as mesmas etapas.
+
+### Conversão de PDF para Markdown
+
+Caso seja necessário converter um PDF para Markdown, consulte a seção [Obter livros de todas as religiões](/pt/help/github_religious_books_markdown) deste manual e siga os mesmos passos.
+
+## Estrutura de um livro sobre Urântiapédia
+
+Já indicamos na [tarefa anterior](/pt/help/github_sourcebooks_catalog) como os livros "fonte" estão organizados em estantes e grupos, e onde você pode consultar a lista de todos os livros planejados.
+
+Os livros devem ser salvos nestas pastas de projeto do GitHub: `/output/wikijs/en/book` para livros em inglês, `/output/wikijs/es/book` para livros em espanhol, etc. Dentro dessas pastas criaremos outra, caso não exista, com o nome do autor (com espaços em branco substituídos por sublinhados). Por fim, dentro da pasta do autor, criaremos uma pasta para cada livro, para onde irão os capítulos, e um arquivo Markdown com o mesmo nome da pasta, para onde irá a capa do livro. Por exemplo, a pasta `/output/wikijs/en/book/Sir_James_Jeans/The_Universe_Around_Us` contém os capítulos de um livro sobre astronomia, e o arquivo `/output/wikijs/en/book/Sir_James_Jeans/The_Universe_Around_Us.md` é o de a capa desse livro.
+
+Em relação aos nomes das pastas, estas instruções devem ser levadas em consideração:
+- Devem ser únicos dentro de cada pasta e devem conter sempre três caracteres ou mais.
+- Caso se preveja que o livro fará parte de uma coleção (volume 1, 2, etc.), adicionar o sufixo `_1`, `_2`, etc. (até um máximo de 9 volumes), ou `_01 `, `_02` (se mais de 9 volumes forem planejados).
+- O nome da pasta não deve conter espaços em branco ou hífens, que devem ser substituídos por sublinhados (`_`).
+- O nome utilizará o título do livro, mas o mais abreviado possível.
+- O nome estará sempre em inglês, portanto caso o livro original não esteja em inglês o título é traduzido.
+- Caracteres raros, como dois pontos, apóstrofos ou exclamações, são removidos.
+- Por exemplo, se o título de um livro for *Será que Jesus existiu?* a pasta desse livro se chamaria `Será que Jesus_existiu`. Se o título fosse *Princípios de Teologia* (livro cujo original estava em espanhol), a pasta seria `Princípios_de_Teologia`.
+- Os mesmos nomes de pasta serão sempre usados ​​para todos os idiomas. Por exemplo, a pasta para o exemplo acima em inglês é `/output/wikijs/en/book/Sir_James_Jeans/The_Universe_Around_Us` e para espanhol é `/output/wikijs/es/book/Sir_James_Jeans/The_Universe_Around_Us` (NO ES ~~ `/output/wikijs/es/book/Sir_James_Jeans/El_Universo_que_nos_surdea`~~). Ou seja, a única coisa que muda na URL entre os diferentes idiomas é o código do idioma (`en`, `es`, etc.). Isto facilita muitas operações com as rotas em Urântiapedia.
 
 Cada capítulo será um arquivo dentro da pasta do livro chamado `xx.md` onde `xx` será:
-- Um número de 0 a N com o número do capítulo (sem o título, apenas o número). O zero é reservado para um prólogo ou introdução em que o próprio autor não utilizou um número para numerá-lo. Se não houver prólogo ou introdução, o primeiro capítulo será `1.md`, o segundo será `2.md`, e assim por diante.
-- `Index` para a página de índice, que será deixada como `Index.md`.
-- `Preface` para a página com o prefácio, se houver, que será deixado como `Preface.md`.
+- Um número de 0 a N com o número do capítulo (sem título, apenas o número). O zero é reservado para um prólogo ou introdução em que o próprio autor não tenha utilizado um número para numerá-lo. Se não houver prólogo ou introdução, o primeiro capítulo será `1.md`, o segundo será `2.md`, etc.
+- `Index` para a página de índice, que será `Index.md`. Esta página às vezes pode ser omitida se o índice não for muito longo e incluir o índice na página de rosto.
+- `Preface` para a página com o prefácio, se houver, que permanecerá como `Preface.md`.
+- Os apêndices devem ser nomeados como `Appendix_xx` onde `xx` segue uma numeração de 1 a N.
 
-Um exemplo de um livro finalizado pode ser visto em `/output/wikijs/en/book/Sir_James_Jeans/The_Universe_Around_Us`.
+Um exemplo de livro finalizado pode ser visto em `/output/wikijs/es/book/Sir_James_Jeans/The_Universe_Around_Us`.
 
-### Formato básico de um livro sobre Urantiapedia
+## Formato básico de um livro sobre Urântiapédia
 
-O formato a ser usado é o Markdown, que é extremamente simples para estilizar em comparação com outras alternativas.
+O formato a utilizar é o Markdown, que é extremamente simples de formatar em comparação com outras alternativas.
 
-O “Editor Assistente” deve revisar o texto e adicionar o seguinte (conforme detalhado abaixo):
+De todo o formato [Markdown](/es/help/markdown), que é bastante extenso, um contribuidor que adiciona um livro "fonte" à Urantiapedia certamente não terá que se preocupar com nada além de adicionar essas coisas (a lista é detalhada abaixo) :
 - Um cabeçalho em cada arquivo.
 - Imediatamente abaixo do cabeçalho, indicação do autor.
-- Marcações de seção dentro de cada capítulo.
-- Corrigir parágrafos.
+- Seções dentro de cada capítulo.
+- Parágrafos corretamente separados.
 - Negrito e itálico.
-- Citações.
-- Marcas de quebra de página.
+- Outros.
+- Marcas de salto de página.
 - Imagens.
 - Referências a imagens.
 - Notas de rodapé.
 - Tabelas.
 - Fórmulas matemáticas ou caracteres em notação científica.
+- Links de navegação.
 
-Alguns dos itens acima são complexos e um “Editor Assistente” pode ignorá-los em uma primeira revisão. Você pode simplesmente anotar essas partes com alguma marcação específica para um “Editor Chefe” revisar mais tarde.
+Parece muita coisa, mas a verdade é que o Markdown é muito simples e pode ser aprendido em menos de uma hora. Nas seções seguintes explicaremos um pouco cada uma das coisas da lista anterior.
 
 ### Cabeçalho de cada arquivo
 
-Este é um exemplo de cabeçalho para adicionar:
+Este é um exemplo de cabeçalho a ser adicionado:
 
 ```
 ---
-title: "O universo ao nosso redor - Capítulo I - Explorando o céu"
-description:
+title: "The Universe Around Us — Chapter I — Exploring the Sky"
+description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: Cosmology, Astronomy
-publisher: markdown
+editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 ```
+Deve ser copiado como está aqui e substituir apenas os valores que seguem os dois pontos. O título é melhor colocado entre aspas, e deve ser formado a partir do título do livro, e separado por hífen, do título do capítulo, incluindo seu número.
 
-Deve ser copiado como está aqui e substituir apenas os valores que vierem após os dois pontos. O título deve ser colocado entre aspas em toda a sua extensão, e deve ser formado a partir do título do livro, e separado por hífen, o título do capítulo, incluindo seu número.
+Não é necessário colocar nada na descrição.
 
-Na descrição não é necessário colocar nada.
+A data de criação e a data atual devem ser a data de criação do arquivo. A hora não é relevante.
 
-Coloque a data de criação e a data atual iguais e torne-a a data de criação do arquivo. O tempo não é relevante.
-
-Nas tags você deve colocar as etiquetas, separadas por vírgulas, que foram estabelecidas para aquele livro. Normalmente os “Redatores Chefes” decidem quais são as tags mais apropriadas, para que possam ser deixadas em branco e depois preenchidas de uma só vez em todos os arquivos do livro.
+Em _tags_ você deve colocar tags, separadas por vírgulas, que foram estabelecidas para aquele livro. Uma lista completa de tags usadas na Urantiapedia está disponível aqui: [Tags on Urantiapedia](https://github.com/JanHerca/urantiapedia/blob/master/docs/tags.md?plain=1). Podem ser deixados em branco porque é muito rápido preenchê-los todos de uma vez em todas as fichas do livro. Algumas recomendações são estas:
+- As etiquetas devem ser **obrigatoriamente em inglês**. A opção de tags traduzidas não está atualmente disponível em [Wiki.js](https://js.wiki/), o software usado pela Urantiapedia.
+- O rótulo não importa se está em letras maiúsculas ou minúsculas. `book` e `Book` são a mesma tag. Na verdade, todos eles são mostrados em letras minúsculas na Urantiapedia: [Pesquisar por tags](https://urantiapedia.org/t). Todas as tags existentes também são exibidas nesta página.
+- Pelo menos todos os arquivos de um livro devem ter a tag `book` indicando que se trata de um conteúdo da Biblioteca.
+- Pelo menos um rótulo da estante a que pertence o livro: `Theology`, `Philosophy`, `Science`.
+- Para livros de ciências você pode adicionar mais um rótulo com a disciplina. Alguns dos já criados são: `Anthropology`, `Archaeology`, `Astronomy`, `Biology`, `Chemistry`, `Chronology`, `Cosmology`, `Evolutionism`, `Genetics`, `Geography`, `Geology`, `History`, `Linguistics`, `Mathematics`, `Medicine`, `Paleontology`, `Pedagogy`, `Physics`, `Politics`, `Psychiatry`, `Psychology`, `Sociology`.
+- Caso não exista uma tag e você queira adicioná-la, basta adicioná-la no cabeçalho de qualquer arquivo e essa tag será criada.
 
 ### Autor
 
-Abaixo do cabeçalho, sempre adicione uma assinatura, assim:
+Abaixo do cabeçalho, sempre adicione uma linha de autor, assim:
 
 ```
-Autor: **Sir James Jeans, M. A., D. Sc., Sc. D., LL. D., F.R.S.**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">Sir James Jeans, M. A., D. Sc., Sc. D., LL. D., F. R. S.</p>
 ```
 
-É comum no mundo inglês colocar os títulos acadêmicos do autor após o nome, separados por vírgulas.
+É comum no mundo de língua inglesa colocar os títulos acadêmicos do autor após o nome, separados por vírgulas.
 
 ### Marcas de seção
 
-Se um capítulo tiver seções, elas devem ser marcadas da seguinte forma:
+Se um capítulo tiver seções, elas deverão ser marcadas da seguinte forma:
 
 ```
-## O sistema solar
+## O Sistema Solar
 
-### Sol
+### O Sol
 
-### Os planetas
+### Os Planetas
 ```
 
-As seções de primeiro nível sempre terão a tag `##`, as seções de próximo nível `###` e assim por diante. Não é muito conveniente usar mais de quatro níveis, embora o livro o faça. Como você pode ver, não usamos seções com a marca `#` porque elas criam títulos de seção muito grandes depois.
+As seções de primeiro nível sempre serão marcadas como `##`, as seções de próximo nível como `###` e assim por diante. Não é muito conveniente usar mais de quatro níveis, mesmo que o livro o faça. Como você pode ver, não usamos seções com a marca `#` porque elas criam títulos de seção muito grandes.
 
-### Corrigir parágrafos
+### Parágrafos corretos
 
-Um parágrafo é uma linha dentro do arquivo Markdown e deve ter uma linha em branco antes e depois dele. Deve-se garantir que isso ocorra em cada parágrafo.
+Um parágrafo é uma linha dentro do arquivo Markdown e deve ter uma linha em branco antes e depois. Deve-se garantir que isso ocorra em cada parágrafo. Caso o texto seja poético, os versos das estrofes podem ser mantidos juntos e conter apenas uma linha em branco antes e depois da estrofe.
 
 ### Negrito e itálico
 
@@ -139,49 +168,51 @@ Este é um texto em um parágrafo *com alguns itálicos*.
 
 Este é um **novo parágrafo** que tem algo em negrito.
 
-Os sublinhados também podem ser usados ​​para exibir _italic_ ou __bold__.
+Você também pode usar sublinhados para exibir _itálico_ ou __bold__.
 ```
 
-Como você pode ver, um asterisco ou hífen significa itálico e dois significa negrito.
+Como você pode ver, um asterisco ou travessão significa itálico e dois significa negrito.
 
-### Citações
+### Citaçãos
 
-Se o autor cita um texto, essa citação deve ser destacada da seguinte forma:
+Se o autor citar um texto, essa citação deverá ser destacada da seguinte forma:
 
-```wrap
-Como o grande Sêneca disse uma vez:
-> «There is no favorable wind for those who do not know where they are going».
+```
+Como já disse o grande Sêneca:
+
+> «Não há vento favorável para quem não sabe para onde vai».
 ```
 
 Basta adicionar a marca `>` e separar a citação com um espaço.
 
 Se a citação for longa e tiver vários parágrafos, ela pode ser escrita assim:
 
-```wrap
-Em vários lugares comenta Cícero:
-> Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+```
+Em vários lugares Cícero comenta sobre isso:
+
+> Mas para que vocês possam ver de onde vem todo esse erro nascido daqueles que acusam o prazer e elogiam a dor, vou expor todo o assunto e explicar exatamente as coisas que foram ditas por aquele descobridor da verdade e, por assim dizer, pelo arquiteto. de uma vida feliz.
 > 
-> At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolor et quas discomfort excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
+> Mas, na verdade, ambos acusamos e com justo ódio trazemos aqueles que merecem, que são amolecidos e corrompidos pela lisonja dos prazeres presentes, cegos pela ganância pelas dores e problemas que estão prestes a experimentar, e não os sustentam.
 ```
 
-Observe que colocamos um `> ` com um espaço à direita em cada linha separadora de parágrafo.
+Observe que colocamos um `> ` com um espaço depois em cada linha separadora de parágrafo.
 
-### Marcas de quebra de página
+### Marcas de salto de página
 
-Como ao converter cada capítulo de um livro em uma página da web perdemos a informação de onde passamos de uma página para outra, é conveniente adicionar uma marca que o sinalize, para ter uma maneira de referenciar as páginas de cada livro, visto que esses livros que processamos nesta tarefa não são livros bíblicos, que possuem uma divisão padrão em versículos.
+Como ao converter cada capítulo de um livro em uma página web perdemos a informação de onde ele foi passado de uma página para outra, é conveniente adicionar uma marca que indique isso, para ter uma forma de referenciar as páginas de cada livro , visto que esses livros que processamos nesta tarefa não são livros bíblicos, que possuem uma divisão padrão em versículos.
 
-A marca de página deve ser incluída entre as palavras que vão de uma página para outra da seguinte forma:
+A marca de página deve ser incluída entre as palavras nas quais você passa de uma página para outra da seguinte forma:
 
-```wrap
-Além dos asteróides vêm os quatro grandes planetas Júpiter, Saturno, Urano e Netuno, todos eles muito maiores que a Terra. Júpiter, o maior, tem, segundo Sampson, 142.652 km de diâmetro, ou <span id="p18">[<sup><small>p. 18</small></sup>]</span> mais de onze vezes o diâmetro da Terra; Mil e quatrocentos corpos do tamanho da Terra poderiam ser colocados dentro de Júpiter e deixar espaço de sobra. Saturno, o próximo na ordem, perde apenas para Júpiter em tamanho, com um diâmetro de cerca de 112.654 quilômetros. Estes dois são de longe os maiores dos planetas.
+```
+Além dos asteróides vêm os quatro grandes planetas Júpiter, Saturno, Urano e Netuno, todos eles muito maiores que a Terra. Júpiter, o maior, tem, segundo Sampson, um diâmetro de 88.640 milhas [142.652 km], ou <span id="p18">[<sup><small>p. 18</small></sup>]</span> mais de onze vezes o diâmetro da terra; Mil e quatrocentos corpos do tamanho da Terra poderiam ser acondicionados dentro de Júpiter e deixar espaço de sobra. Saturno, o próximo na ordem, perde apenas para Júpiter em tamanho, com um diâmetro de cerca de 112.654 km. Esses dois são de longe os maiores dos planetas.
 ```
 
-Você pode ver que a marcação é: `<span id="p18">[<sup><small>p. 18</small></sup>]</span>`.
+Você pode ver que a marca é: `<span id="p18">[<sup><small>p. 18</small></sup>]</span>`.
 
-Como essa tarefa pode ser tediosa, uma maneira de simplificar é colocar uma marcação alternativa mais curta, como `ppp18` se estiver usando o exemplo anterior. Então um “Editor Chefe” pode detectar essas marcas e substituí-las pelas definitivas automaticamente. Ou seja, também valeria:
+Como esta tarefa pode ser entediante, uma forma de simplificá-la pode ser colocar uma marca alternativa mais curta, como `ppp18` (`ppp` é um texto que sabemos que nunca acontecerá), para continuar com o exemplo anterior. Depois você pode procurar essas marcas e substituí-las pelas definitivas automaticamente, conforme indicamos em outro exemplo acima. Ou seja, isso também seria válido:
 
-```wrap
-Além dos asteróides vêm os quatro grandes planetas Júpiter, Saturno, Urano e Netuno, todos eles muito maiores que a Terra. Júpiter, o maior, tem, segundo Sampson, um diâmetro de 142.652 quilômetros, ou ppp18, mais de onze vezes o diâmetro da Terra; Mil e quatrocentos corpos do tamanho da Terra poderiam ser colocados dentro de Júpiter e deixar espaço de sobra. Saturno, o próximo na ordem, perde apenas para Júpiter em tamanho, com um diâmetro de cerca de 112.654 quilômetros. Estes dois são de longe os maiores dos planetas.
+```
+Além dos asteróides vêm os quatro grandes planetas Júpiter, Saturno, Urano e Netuno, todos eles muito maiores que a Terra. Júpiter, o maior, tem, segundo Sampson, um diâmetro de 88.640 milhas [142.652 km], ou ppp18, mais de onze vezes o diâmetro da Terra; Mil e quatrocentos corpos do tamanho da Terra poderiam ser acondicionados dentro de Júpiter e deixar espaço de sobra. Saturno, o próximo na ordem, perde apenas para Júpiter em tamanho, com um diâmetro de cerca de 112.654 km. Esses dois são de longe os maiores dos planetas.
 ```
 
 ### Imagens
@@ -191,77 +222,142 @@ As imagens devem ser incluídas assim:
 ```
 <figure id="Universe_plate_01" class="image urantiapedia">
 <img src="/image/book/Sir_James_Jeans/The_Universe_Around_Us/plate_01.png">
-<figcaption><em><b>Placa I.</b> Gráfico de Franklin-Adams, a Via Láctea no bairro do Cruzeiro do Sul</em></figcaption>
+<figcaption><em><b>Lámina I.</b> Carta de Franklin-Adams, La Vía Láctea en el vecindario de la Cruz del Sur</em></figcaption>
 </figure>
 ```
 
-Você pode copiar o exemplo acima onde uma imagem é necessária e substituir apenas o seguinte:
-- Onde diz `id="Universe_plate_01"` é um identificador exclusivo para a imagem. Você pode colocar qualquer um desde que no mesmo arquivo de cada capítulo não haja dois iguais.
-- Onde diz `src="..."` deve haver um caminho para o arquivo de imagem. O caminho deve sempre começar com `/image/`, que é onde estão todas as imagens, e deve ser seguido por um caminho idêntico ao que temos para o livro. Ou seja, seguindo o exemplo, como o livro está em `/en/book/Sir_James_Jeans/The_Universe_Around_Us`, as imagens desse livro devem estar em `/image/book/Sir_James_Jeans/The_Universe_Around_Us`. O nome do arquivo de cada imagem pode ser curto, sempre indicando a extensão (`.png` ou `.jpg`) do arquivo. Se você não tiver o arquivo, o que vai acontecer inicialmente, você pode colocar qualquer nome, e então os “Redatores Chefes” decidirão sobre o nome final e a extensão.
-- Se a imagem tiver uma legenda, ela deve ser colocada dentro da tag `figcaption`.
+Você pode copiar o exemplo anterior onde uma imagem é necessária e substituir apenas o seguinte:
+- Onde diz `id="Universe_plate_01"` deve ser um identificador único para a imagem. Você pode colocar qualquer um, desde que não haja dois idênticos no mesmo arquivo de cada capítulo.
+- Onde diz `src="..."` deve haver um caminho para o arquivo de imagem. O caminho deve sempre começar com `/image/`, que é onde estão todas as imagens, e atrás dele deve haver um caminho idêntico ao que temos para o livro. Ou seja, seguindo o exemplo, como o livro está localizado em `/es/book/Sir_James_Jeans/The_Universe_Around_Us`, as imagens desse livro devem estar em `/image/book/Sir_James_Jeans/The_Universe_Around_Us`. O nome do arquivo de cada imagem pode ser qualquer que seja curto, indicando sempre a extensão (`.png` ou `.jpg`). Recomenda-se que o nome do arquivo não contenha espaços em branco ou caracteres especiais, apóstrofos ou acentos.
+- Se a imagem possuir legenda ela deverá ser colocada dentro da tag `figcaption`.
+- Se você quiser alinhar a imagem à esquerda, centro ou direita você deve substituir `class="image urantiapedia"` por `class="image urantiapedia image-style-align-left"`, `class="image urantiapedia image-style-align-center"` e `class="image urantiapedia image-style-align-right"`, respectivamente. Alguns parágrafos abaixo você deve adicionar uma linha com `<br style="clear:both;"/>` para que o alinhamento não afete mais o posicionamento do texto.
 
-Como essa tarefa de incluir a imagem pode ser tediosa, os “Editores Assistentes” podem simplesmente incluir uma marca indicando que há uma imagem a ser encontrada no arquivo PDF original, algo como `iiii` ou qualquer caractere repetido que nunca ocorrerá em outro parte do texto.
-
+Como essa tarefa de incluir imagens pode ser entediante, você pode usar um truque como os mencionados anteriormente. Se nenhuma imagem tiver rodapé, você pode colocar algo como `fff18` (ou `fffl18`, `fffc18`, `fffr18`) como forma de simplificar que vai uma imagem com o número 18 (e até alinhada ).
 
 ### Referências a imagens
 
-Quando o texto menciona uma imagem, é uma boa ideia colocar um link interno para essa imagem. Por exemplo, continuando com a imagem mostrada acima, para incluir uma referência ela seria colocada assim:
+Quando o texto menciona uma imagem, é uma boa ideia colocar um link interno para essa imagem. Por exemplo, continuando com a imagem mostrada acima, para incluir uma referência ficaria assim:
 
-```wrap
+```
 ...cada um deles muito fraco para ser visto individualmente sem auxílio telescópico (veja [Placa I](#Universe_plate_01)).
 
-...como vimos na [Placa VIII](/pt/book/Sir_James_Jeans/The_Universe_Around_Us/#Universe_plate_01) do capítulo anterior...
+...como já vimos na [Placa VIII](/pt/book/Sir_James_Jeans/The_Universe_Around_Us/#Universe_plate_01) do capítulo anterior...
 ```
 
-A sintaxe `[Placa I](#Universe_plate_01)` é a maneira de adicionar hiperlinks no Markdown. O texto a ser exibido é indicado entre colchetes e o caminho da web é indicado logo atrás entre parênteses. Quando a imagem estiver no mesmo capítulo, basta colocar `#` e depois o identificador. Se a imagem estiver em outro capítulo o caminho deve ser mais longo.
-
-Como essa tarefa de incluir referências de imagem pode ser tediosa, os “Editores Assistentes” podem simplesmente incluir uma marcação indicando que uma referência vai para lá, algo como `rrrr`.
+A sintaxe `[Plate I](#Universe_plate_01)` é a maneira de adicionar hiperlinks no Markdown. O texto exibido é indicado entre colchetes e o caminho da web é indicado logo atrás dele, entre parênteses. Quando a imagem estiver no mesmo capítulo, basta colocar `#` e depois o identificador. Se a imagem estiver em outro capítulo a sintaxe deve ser algo como `[Plate I](/image/book/Sir_James_Jeans/The_Universe_Around_Us/3#Universe_plate_01)`. Neste exemplo apontamos para a figura 1 que está no capítulo 3.
 
 ### Notas de rodapé
 
-Se o livro tiver notas de rodapé, ou notas de fim de capítulo, ou notas gerais que aparecem no final do livro, mas para as quais uma marca é colocada no livro por número ou indicação, essas marcas de nota de rodapé serão sempre convertidas em notas de rodapé, da seguinte forma:
+Se o livro tiver notas de rodapé, ou notas de final de capítulo, ou notas globais que aparecem no final do livro, mas para as quais é colocada uma marca no livro por um número ou indicação, essas marcas de anotação serão sempre convertidas em notas de rodapé de capítulo, conforme segue:
 
-```wrap
+```
 O fato de Altair e Saturno parecerem igualmente brilhantes no céu só pode significar que Altair está 80.000 vezes mais distante que Saturno[^1].
 
 . . .
 
-[^1]: Porque o brilho aparente de um objeto diminui com o inverso do quadrado de sua distância, e o quadrado de 80.000 é aproximadamente igual a 6 bilhões.
+[^1]: Porque o brilho aparente de um objeto cai com o inverso do quadrado de sua distância, e o quadrado de 80.000 é aproximadamente igual a 6 bilhões.
 ```
 
-As notas de rodapé são sempre marcadas como um número corrido começando em 1 e são escritas como `[^1]`, `[^2]`, etc. O caractere `^` é digitado no teclado usando `Shift + [` e depois pressionando espaço.
+As notas de rodapé são sempre marcadas como um número consecutivo começando com 1 e são escritas como `[^1]`, `[^2]`, etc. O caracter `^` é digitado no teclado usando `Shift + [` e pressionando espaço.
 
-A nota de rodapé tem duas partes: uma é a indicação, que é colocada logo no texto, e a outra é a própria nota de rodapé, que é colocada no final, atrás de tudo, do arquivo. Cada nota de rodapé deve ter sua marca, depois dois pontos e depois o texto, com cada nota separada uma da outra por uma linha em branco.
-
-Como essa tarefa de incluir notas de rodapé pode ser tediosa, os “Editores Assistentes” podem simplesmente incluir uma marca indicando que uma nota de rodapé vai para lá, algo como `nnnn`, e então copiar todas as notas de capítulo para o final do arquivo.
+A nota de rodapé tem duas partes: uma é a indicação, que fica logo no texto, e a outra é a nota propriamente dita, que fica no final, atrás de tudo, no arquivo, cada nota com a sua marca, depois uma dois pontos e, em seguida, o texto e cada nota separada uma da outra por uma linha em branco. É conveniente colocar uma seção `## Notas` para as notas, que como já foi dito deve sempre ir no final de tudo, inclusive dos links de navegação.
 
 
 ### Tabelas
 
-Criar tabelas é sempre uma tarefa complexa em qualquer software de escritório. O Markdown facilita a criação de tabelas, mas ainda é uma tarefa complexa quando a tabela possui células aninhadas, texto alinhado etc.
+Criar tabelas é sempre uma tarefa complexa em qualquer software de escritório. Markdown facilita a criação de tabelas, mas ainda é uma tarefa complexa quando a tabela possui células aninhadas, textos alinhados, etc.
 
-Os “Editores Assistentes”, para não perder muito tempo aqui, podem simplesmente marcar onde há tabelas no texto com algo como `tttt`.
+Por exemplo, é muito fácil criar uma tabela com duas colunas simplesmente usando o caractere “barra vertical” (“|”):
 
-Se você quiser saber mais sobre como formatar tabelas no Markdown, confira aqui: [Ajuda de formatação do Markdown](/pt/help/markdown).
+```
+Idades | Tempo
+--- | ---:
+Idade da terra | cerca de 2.000.000.000 de anos
+Idade da vida na terra | „ 300.000.000 „
+Idade do homem na terra | „ 300,000 „
+Era da ciência astronômica | „ 3,000 „
+Era da astronomia telescópica | „ 300 „
+```
+Para alinhar a coluna à esquerda, à direita ou ao centro, basta utilizar os caracteres `---`, `---:` e `:---:`, respectivamente, como visto no exemplo.
+
+Para tabelas que requerem múltiplas linhas por célula, você pode usar `<br>` como separador. Por exemplo:
+
+```
+Comprimentos de onda (cms.) | Natureza da radiação | Efeito no átomo | Temperatura (graus absolutos) | Onde está localizado
+--- | --- | --- | --- | ---
+7500 x 10^-8^<br>a<br>3750 x 10^-8^ | Luz visível | Perturba os elétrons mais externos | 3.850°<br>a<br>7.700° | Atmosferas estelares
+250 x 10^-8^<br>a<br>10^-8^ | radiografias | Perturba elétrons internos | 115.000°<br>a<br>29.000.000° | Interiores estelares
+```
+
+Se quiser saber mais sobre como formatar tabelas no Markdown você pode consultá-lo aqui: [Ajuda de formatação do Markdown](/pt/help/markdown), nas seções _Tabelas_ e _Tabelas Avançadas_. Tabelas complexas podem ser criadas de forma muito simples com Markdown. Se a tabela não puder ser criada em Markdown devido à sua complexidade, ela sempre poderá ser criada usando a sintaxe HTML. Vale lembrar que Markdown é uma forma alternativa de escrever HTML, mas também suporta qualquer conteúdo HTML. Você tem um bom tutorial sobre como criar tabelas HTML no Mozilla Docs: [Noções básicas sobre tabelas HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics).
+
+Vale lembrar que as tabelas são mal lidas em dispositivos móveis quando sua largura é maior que a largura da tela. Para evitar este inconveniente, quando a tabela possui mais de duas colunas, é aconselhável encerrar a tabela em um container com rolagem lateral, conforme mostrado neste exemplo:
+
+```
+<div class="urantiapedia-table-wrapper">
+
+Comprimentos de onda (cms.) | Natureza da radiação | Efeito no átomo | Temperatura (graus absolutos) | Onde está localizado
+--- | --- | --- | --- | ---
+7500 x 10^-8^<br>a<br>3750 x 10^-8^ | Luz visível | Perturba os elétrons mais externos | 3.850°<br>a<br>7.700° | Atmosferas estelares
+250 x 10^-8^<br>a<br>10^-8^ | radiografias | Perturba elétrons internos | 115.000°<br>a<br>29.000.000° | Interiores estelares
+
+</div>
+```
 
 ### Fórmulas matemáticas ou caracteres em notação científica
 
-A criação de fórmulas matemáticas ou o uso de caracteres em notação científica é sempre uma tarefa complexa em qualquer software de escritório. O Markdown facilita a criação, mas ainda é uma tarefa complexa, dependendo das fórmulas ou caracteres a serem usados.
+Criar fórmulas matemáticas ou utilizar caracteres em notação científica é sempre uma tarefa complexa em qualquer software de escritório. O Markdown facilita a sua criação, mas ainda é uma tarefa complexa dependendo das fórmulas ou caracteres a utilizar porque na realidade a sintaxe utilizada é [LaTeX](https://es.wikipedia.org/wiki/LaTeX) através de uma extensão do Markdown chamado [Mathjax](https://www.mathjax.org/).
 
-Os “Editores Assistentes”, para não perder muito tempo aqui, podem simplesmente marcar onde há fórmulas ou notações científicas no texto com algo como `ffff`, para que um “Editor Chefe” possa ir até esses pontos verificar.
+Se quiser saber mais sobre como formatar fórmulas e textos científicos no Markdown você pode consultá-lo aqui: [Ajuda de formatação do Markdown](/pt/help/markdown), na seção _Expressões matemáticas (Mathjax)_.
 
-Se você quiser saber mais sobre como formatar fórmulas e textos científicos no Markdown, confira aqui: [Ajuda de formatação do Markdown](/pt/help/markdown).
+### Links de navegação
 
-## Enviando arquivos
+Esses links estão em uma tabela simples no início e no final de cada capítulo e permitem que você passe facilmente de um capítulo para outro ou vá até o índice. Eles deveriam ser como o exemplo a seguir:
 
-Se você é um “editor-chefe” usando o GitHub, pode enviar os livros que cria conforme detalhado na [Ajuda dos editores-chefe](/pt/help/github); se você for um “Editor Assistente”, você pode simplesmente enviar os arquivos Markdown para o e-mail de qualquer Administrador ou para urantiapedia@gmail.com.
+```
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="/es/book/Sir_James_Jeans/The_Universe_Around_Us/1">
+            <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Capítulo I — Explorando el cielo</span>
+          </a>
+        </td>
+        <td>
+          <a href="/es/book/Sir_James_Jeans/The_Universe_Around_Us#índice">
+            <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+          </a>
+        </td>
+        <td>
+          <a href="/es/book/Sir_James_Jeans/The_Universe_Around_Us/3">
+            <span class="pr-2">Capítulo III — Explorando en el tiempo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+```
+
+Como dito antes, a última coisa no arquivo deve ser sempre a seção de notas, se houver, mesmo abaixo desses links de navegação.
+
+## Criando um arquivo de capa
+
+Para criar o arquivo de capa, é usado tudo o que está indicado na seção [Obter livros de todas as religiões](/pt/help/github_religious_books_markdown) deste manual. Como já dito, a capa será um arquivo Markdown com o mesmo nome da pasta com os capítulos. Por exemplo, a pasta `/output/wikijs/en/book/Sir_James_Jeans/The_Universe_Around_Us` contém os capítulos de um livro sobre astronomia, e o arquivo `/output/wikijs/en/book/Sir_James_Jeans/The_Universe_Around_Us.md` é o de a capa desse livro.
+
+## Envio de solicitações de mudança
+
+Isso completa todas as coisas que você deve ter em mente ao adicionar livros “fonte” à Biblioteca Urantipedia. Depois que essas alterações forem feitas no projeto GitHub, uma solicitação de alteração deverá ser feita conforme detalhado nos manuais para usuários [Administradores](/pt/help/admin), [Editores-chefes](/pt/help/github ) ou [Editores Assistentes](/pt/help/github_assistant).
+
 
 ## Links externos
 
-- [Urantiapedia Tools - projeto GitHub](https://github.com/JanHerca/urantiapedia)
+- [Ferramentas Urantiapedia - projeto no GitHub](https://github.com/JanHerca/urantiapedia)
 - [Google Livros](https://books.google.es/)
-- [Internet Archive - Books](https://archive.org/details/books)
-- [Ajuda do formato Markdown](/pt/help/markdown)
+- [Internet Archive - Livros](https://archive.org/details/books)
+- [Projeto Gutenberg](https://www.gutenberg.org/)
+- [Ajuda do formato Markdown](/es/help/markdown)
 
 <br>
 
@@ -270,7 +366,7 @@ Se você é um “editor-chefe” usando o GitHub, pode enviar os livros que cri
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/github_sourcebooks_catalog">Criando um catálogo de livros "fonte"</a></td>
+        <td><a href="/pt/help/github_sourcebooks_catalog">Criando um catálogo de livros «fonte»</a></td>
         <td><a href="/pt/help">Índice</a></td>
         <td><a href="/pt/help/github_articles_catalog">Criando catálogo de artigos</a></td>
       </tr>

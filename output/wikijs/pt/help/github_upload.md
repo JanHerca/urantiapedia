@@ -14,12 +14,12 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/pt/help/github_bible_to_wiki">Conversão da Bíblia</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/github_sourcebooks_catalog">Criando um catálogo de livros “fonte”</a></td>
+        <td><a href="/pt/help/github_religious_books_catalog">Criação de um catálogo de livros de todas as religiões</a></td>
       </tr>
     </tbody>
   </table>
 </figure>
- 
+
 Para enviar conteúdo para Urantiapedia, é usado um projeto GitHub com um backup completo do site [Urantiapedia](https://urantiapedia.org). O projeto está aqui:
 
 [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup)
@@ -48,7 +48,7 @@ Para enviar conteúdo, siga estas etapas:
       <tr>
         <td><a href="/pt/help/github_bible_to_wiki">Conversão da Bíblia</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/github_sourcebooks_catalog">Criando um catálogo de livros “fonte”</a></td>
+        <td><a href="/pt/help/github_religious_books_catalog">Criação de um catálogo de livros de todas as religiões</a></td>
       </tr>
     </tbody>
   </table>

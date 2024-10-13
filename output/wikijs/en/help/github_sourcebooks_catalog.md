@@ -1,6 +1,6 @@
 ---
-title: "“Source” books catalog"
-description: 
+title: "Creating a catalog of «source» books"
+description:
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: help
@@ -12,41 +12,57 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_upload">Bulk upload content to Urantiapedia</a></td>
+        <td><a href="/en/help/github_religious_books_markdown">Getting books of all religions</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_sourcebooks_markdown">Get “source” books</a></td>
+        <td><a href="/en/help/github_sourcebooks_markdown">Getting «source» books</a></td>
       </tr>
     </tbody>
   </table>
 </figure>
- 
-Here we describe how to create a catalog of books that are supposed to be sources of *The Urantia Book* or have some relationship or parallel to *The Urantia Book*.
+
+> This task is currently finished and closed, although changes can be proposed in the list of books by sending an email to urantiapedia@gmail.com.
+{.is-info}
+
+This describes how to create a catalog of books that are supposed to be sources for *The Urantia Book* or have some relationship or parallel with *The Urantia Book*.
 
 ## Context
 
-*The Urantia Book* itself offers two clear indications about a human material that has been used for its elaboration ([UB 0:12.12](/en/The_Urantia_Book/0#p12_12) and [UB 121:8.13](/en/The_Urantia_Book/121#p8_13)). Added to all this, it should be noted that *The Urantia Book* quotes many times textually or implicitly books from the *Bible*, including extra-canonical books, and others.
+*The Urantia Book* itself offers two clear indications of the human material that has been used in its preparation: ([UB 0:12.12](/en/The_Urantia_Book/0#p12_12) and [UB 121:8.13](/en/The_Urantia_Book/121#p8_13)). In addition to all this, it should be noted that *The Urantia Book* often quotes, either verbatim or implicitly, books from the *Bible*, including extra-canonical books, and others.
 
-Several prominent readers have long compiled these parallels. Reader Duane L. Faw has published an extensive volume entitled [Paramony](https://www.amazon.com/Paramony-Duane-L-Faw/dp/0965197255/ref=sr_1_2?crid=2FCT0LM14FRVT) in which he details some 60,000 parallels between *The Urantia Book* and *The Bible*. Another prominent reader, Matthew Block, has spent years developing [a project of locating parallels](https://urantiabooksources.com/) with non-biblical books written up to the time of conception of *The Urantia Book*, having detected more than a hundred books as potential sources of the authors.
+For some time now, several prominent readers have been doing work compiling these parallels. Reader Duane L. Faw has published a lengthy volume entitled [Paramony](https://www.amazon.com/Paramony-Duane-L-Faw/dp/0965197255/ref=sr_1_2?crid=2FCT0LM14FRVT) in which he details some 60,000 parallels between *The Urantia Book* and *The Bible*. Another prominent reader, Matthew Block, has been developing a [parallel-finding project](https://urantiabooksources.com/) for years with non-Biblical books written up to the time of *The Urantia Book*'s conception, having identified over a hundred books as potential sources for the authors.
 
 ## Process
 
-This task is the creation of a list of all the non-biblical books that have been detected with parallels with *The Urantia Book*. An invaluable source for this listing is to go to Matthew Block's website.
+This assignment will attempt to create a list of all non-Biblical books that have been detected as having parallels to *The Urantia Book*. An invaluable source for obtaining such a list is to go to Matthew Block's old website.
 
-The provisional list of books can be found here: [Books](/en/book).
+The provisional list of books can be found here:
 
-To edit that list, you can do it in two ways:
-- Log in here at *Urantiapedia*. Go to the list of books: [Books](/en/book). Put the page in edition in the menu *Page actions > Edit* in the upper right button panel. A simple Markdown editor will open where you can edit the book listing. (IMPORTANT: to be able to do this you need an Administrator to enable editing permissions on that page.)
-- In the GitHub project, modify this file: `/output/wikijs/en/book.md`. To modify it, you can simply download that file or the entire project from GitHub. See the [Assistant Editors help](/en/help/github_assistant) to learn how to download things from GitHub.
+https://github.com/JanHerca/urantiapedia/blob/master/input/txt/books-en/Source_books.tsv
 
-In either of the two previous cases, the file to be edited is a very simple Markdown file where for each book you must include the title, the author, and the year of the first edition.
+For any modification to this file on GitHub, the instructions provided for [Administrators](/en/help/admin), [Editors-in-Chief](/en/help/github), or [Assistant Editors](/en/help/github_assistant) users should be followed.
 
-If you have modified the listing from the file on GitHub, you have two options for submitting your changes: 1) if you are a “Editor-in-Chief” use GitHub as detailed in [Editors-in-Chief help](/en/help/github); if you are an “Assistant Editor”, you can simply send that modified Markdown file to any Administrator's email or to urantiapedia@gmail.com.
+The content of this file is very simple:
+
+- It is a TSV file, with tab-separated text.
+- Each line represents a shelf of books, or a group within the shelf, or an individual book.
+- The order is important because the listing maintains a hierarchy (shelf, group, book).
+- All lines have six tab-separated data points.
+- A shelf has: name of the shelf; path in Urantiapedia with the index of that shelf; the rest are empty.
+- A group has: name of the group; tag `<group>`; the rest are empty.
+- A book has: author; title (including edition in parentheses); related _The Urantia Book_ documents; name of the folder containing the book in the Cloud storage, or `FAILED` if a digital edition could not be located despite having tried, or empty if a digital edition has not been attempted yet; OK (if a digital copy is available) or empty (otherwise); path in Urantiapedia if it is already uploaded.
+
+> It is highly recommended to edit the TSV files with [Visual Studio Code](https://code.visualstudio.com/) adding the extension [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), which allows coloring the data and many more things.
+{.is-info}
+
+## Result
+
+With this file, the index of the _Urantiapedia Library_ and the indexes of each shelf have been manually created (using _replaces_). The result can be seen in the [Index of all book groups](/en/index/books). This page is also accessible on this website, from the side menu on the left, option `OTHER BOOKS \ Index`. At the moment this page is only available in English, Spanish and French.
 
 ## External links
 
-- [Urantiapedia Tools - project in GitHub](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia Tools - project on GitHub](https://github.com/JanHerca/urantiapedia)
 - [Paramony](https://www.amazon.com/Paramony-Duane-L-Faw/dp/0965197255/ref=sr_1_2?crid=2FCT0LM14FRVT)
-- [“Sources” of The Urantia Book](https://urantiabooksources.com/)
+- [«Sources» for The Urantia Book](https://urantiabooksources.com/)
 
 <br>
 
@@ -55,9 +71,9 @@ If you have modified the listing from the file on GitHub, you have two options f
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/github_upload">Bulk upload content to Urantiapedia</a></td>
+        <td><a href="/en/help/github_religious_books_markdown">Getting books of all religions</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_sourcebooks_markdown">Get “source” books</a></td>
+        <td><a href="/en/help/github_sourcebooks_markdown">Getting «source» books</a></td>
       </tr>
     </tbody>
   </table>

@@ -33,10 +33,10 @@ Este é o principal índice para documentação na própria Urantiapedia. Por fa
 
 1. [Primeiros passos no GitHub](/pt/help/github_fork)
 2. Trabalhe no GitHub:
-  - [Trabalhe diretamente no site do GitHub](/pt/help/github_edit_on_web)
-  - Trabalhe localmente no GitHub:
-    - [Configurar o projeto GitHub](/pt/help/github_setting)
-    - [Trabalhar localmente no PC](/pt/help/github_edit_local)
+    - [Trabalhe diretamente no site do GitHub](/pt/help/github_edit_on_web)
+    - Trabalhe localmente no GitHub:
+        - [Configurar o projeto GitHub](/pt/help/github_setting)
+        - [Trabalhar localmente no PC](/pt/help/github_edit_local)
 3. [conteúdo do projeto GitHub](/pt/help/github_content)
 4. [Fluxo de trabalho para criar conteúdo inicial em um idioma](/pt/help/github_initial_flow)
 
@@ -45,10 +45,10 @@ Este é o principal índice para documentação na própria Urantiapedia. Por fa
 1. [Interface e uso básico da Urantiapedia](/pt/help/web_basics)
 2. [Gerenciar páginas](/pt/help/web_pages)
 3. [Uso de editores](/pt/help/web_editors)
-  - [Usando o editor visual](/pt/help/web_visual_editor)
-  - [Usando o editor Markdown](/pt/help/web_markdown_editor)
-    - [Ajuda do formato Markdown](/pt/help/markdown)
-  - [Usando o editor HTML](/pt/help/web_html_editor)
+    - [Usando o editor visual](/pt/help/web_visual_editor)
+    - [Usando o editor Markdown](/pt/help/web_markdown_editor)
+        - [Ajuda do formato Markdown](/pt/help/markdown)
+    - [Usando o editor HTML](/pt/help/web_html_editor)
 
 ## Tarefas para colaboradores
 
@@ -66,7 +66,9 @@ Este é o principal índice para documentação na própria Urantiapedia. Por fa
 
 ### Marco II - Livros, artigos, auxílios de estudo, esquemas e índices
 
-1. [Catálogo de livros “fonte”](/pt/help/github_sourcebooks_catalog)
+1. [Criação de um catálogo de livros de todas as religiões](/pt/help/github_religious_books_catalog)
+2. [Obtenha livros de todas as religiões](/pt/help/github_religious_books_markdown)
+3. [Catálogo de livros “fonte”](/pt/help/github_sourcebooks_catalog)
 2. [Obter livros “fonte”](/pt/help/github_sourcebooks_markdown)
 3. [Catálogo de artigos](/pt/help/github_articles_catalog)
 4. [Obter artigos](/pt/help/github_articles_markdown)

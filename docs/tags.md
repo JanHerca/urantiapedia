@@ -234,6 +234,7 @@ Politics
 Prayer
 Presentation
 Prophecy
+Psychiatry
 Psychology
 Purpose
 Questions and answers

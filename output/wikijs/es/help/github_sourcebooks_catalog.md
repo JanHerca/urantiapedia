@@ -46,10 +46,10 @@ El contenido de este archivo es muy simple:
 - Se trata de un archivo TSV, con texto separado por tabuladores.
 - Cada línea representa un estante de libros, o bien un grupo dentro del estante, o bien un libro individual.
 - El orden es importante pues el listado mantiene una jerarquía (estante, grupo, libro).
-- Todas las líneas tienen varios datos separados por tabulaciones.
-- Un estante tiene: nombre del estante; ruta en Urantiapedia con el índice de ese estante.
-- Un grupo tiene: nombre del grupo; etiqueta `<group>`.
-- Un libro tiene: autor; título; documentos de El Libro de Urantia relacionados; OK (si se dispone de copia digital) o vacío (en caso contrario); nombre de la carpeta con el libro en el almacenamiento en la Nube.
+- Todas las líneas tienen seis datos separados por tabulaciones.
+- Un estante tiene: nombre del estante; ruta en Urantiapedia con el índice de ese estante; el resto vacíos.
+- Un grupo tiene: nombre del grupo; etiqueta `<group>`; el resto vacíos.
+- Un libro tiene: autor; título (incluyendo la edición entre paréntesis); documentos de _El Libro de Urantia_ relacionados;  nombre de la carpeta con el libro en el almacenamiento en la Nube, o `FAILED` si no ha sido posible localizar una edición digital a pesar de haberlo intentado, o vacío si aún no se ha intentado localizar una edición digital; OK (si se dispone de copia digital) o vacío (en caso contrario); ruta en Urantiapedia si ya está subido.
 
 > Es muy recomendable etitar los archivos TSV con [Visual Studio Code](https://code.visualstudio.com/) añadiéndole la extensión [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), que permite colorear los datos y muchas más cosas.
 {.is-info}

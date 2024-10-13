@@ -24,49 +24,72 @@ Aquí se describe cómo obtener los libros que se suponen fuentes de *El Libro d
 
 ## Proceso
 
-### Descarga de libros
+Esta tarea consiste en tratar de localizar en Internet una versión digital de cada libro, descargarla y procesarla hasta obtener un fichero o varios en formato [Markdown](/es/help/markdown).
 
-Esta tarea consiste en tratar de localizar en Internet una versión digital de cada libro. Se pueden dar estas situaciones:
-- El libro no se ha encontrado en ningún sitio web descargable como digital. Se puede evaluar adquirir un ejemplar en papel si está disponible o tratar de solicitar a alguien que lo obtenga de una biblioteca pública para escanearlo.
-- El libro se ha encontrado pero no está descargable, sólo se puede leer online. Normalmente se pueden realizar capturas de pantalla de cada página o hacer algun hacking de la web para descargar los escaneados.
-- El libro está descargable pero en forma de imágenes o en un PDF donde no hay texto. Será necesario usar un software de reconocimiento de caracteres (OCR).
-- El libro está descargable en forma de PDF con texto o mejor aún en forma de archivo de texto o como página web. Este es el ideal de todos los casos.
+Se pueden dar estas situaciones:
+- El libro no se encuentra en ningún sitio web descargable como digital. Se puede evaluar adquirir un ejemplar en papel si está disponible o tratar de obtenerlo de una biblioteca pública para escanearlo.
+- El libro se ha encontrado pero no está descargable, sólo se puede leer online. Normalmente se pueden realizar capturas de pantalla de cada página o hacer algun hacking de la web para descargar los escaneados. Estamos usando el [software de captura Greenshot](https://getgreenshot.org/) para este propósito pero se puede usar cualquier otro.
+- El libro está descargable pero en forma de imágenes o en un PDF donde no hay texto. Será necesario usar un software de reconocimiento de caracteres (OCR). Ver más adelante.
+- El libro está descargable en forma de PDF con texto, o mejor aún, en forma de archivo de texto o como página web. Este es el ideal de todos los casos. Si sólo está disponible como PDF, hay que convertirlo a texto (ver más adelante).
+
+### Descarga de libros
 
 Para obtener libros digitales algunas fuentes pueden ser:
 - [Google Libros](https://books.google.es/)
 - [Internet Archive - Books](https://archive.org/details/books)
+- [El proyecto Gutemberg](https://www.gutenberg.org/)
 
-Se cual sea el caso en que nos encontremos, la tarea de un «Editor Asistente» será anotar la dirección web donde hemos logrado descargar el libro y descargarlo a nuestro PC. Ambas cosas luego se deben enviar a cualquiera de los Administradores de *Urantiapedia* o bien a urantiapedia@gmail.com. Los Administradores están creando en un almacenamiento en la Nube una colección de todos los archivos de gran tamaño que no tienen cabida en GitHub.
+Sea cual sea el caso en que nos encontremos, la tarea será anotar la dirección web de donde hemos logrado descargar el libro y descargarlo a nuestro PC. Luego sería conveniente enviar un correo a urantiapedia@gmail.com indicando las direcciones web de todos los libros que se hayan obtenido. Los *Administradores* están creando un almacén en la Nube de todos los archivos de gran tamaño que no tienen cabida en GitHub. Los libros originales, que a veces son PDF muy grandes, se están dejando ahí para evitar problemas si las webs desde donde se descargaron dejan de estar accesibles en un futuro.
 
-La tarea entonces pasa a manos de un «Editor Jefe», que procesará el libro hasta obtener un fichero Markdown único con todo él. Este fichero no es en modo alguno definitivo y el trabajo consistirá en limpiarlo y darle el formato adecuado para poder subirlo a *Urantiapedia*. Esto es lo que vamos a ver cómo hacer a continuación.
+Una vez el fichero del libro se ha convertido a un fichero de tipo texto, la tarea consistirá en procesar el libro hasta obtener un conjunto de ficheros en formato [Markdown](/es/help/markdown), un fichero por cada capítulo, prefacio o apéndice del libro.
 
-### Estructura de un libro en Urantiapedia
+Para cualquier modificación de carpetas y ficheros en GitHub deberán seguirse las instrucciones proporcionadas para los usuarios [Administradores](/es/help/admin), [Editores Jefe](/es/help/github) o [Editores Asistentes](/es/help/github_assistant).
 
-Si eres un «Editor Jefe» y vas a usar la plataforma GitHub, los libros deben guardarse en estas carpetas del proyecto GitHub: `/output/wikijs/en/book` para libros en inglés, `/output/wikijs/es/book` para libros en español, etc. Dentro de estas carpetas crearemos otra, si no existe, con el nombre del autor (con los espacios en blanco sustituidos por guiones bajos). Finalmente, dentro de la carpeta del autor, crearemos una carpeta para cada libro a la que pondremos un nombre único siguiendo este criterio:
-  - El nombre usará el título del libro pero lo más abreviado posible.
-  - El nombre siempre será en inglés, de modo que si el libro original no es en inglés se traduce el título.
-  - Los espacios en blanco se reemplazan por guiones bajos.
-  - Los caracteres raros como dos puntos o exclamaciones se quitan.
-  - Por ejemplo, si el título de un libro es *Did Jesus exist?* la carpeta de ese libro se llamaría `Did_Jesus_exist`. Si el título fuera *Principios de Teología*, la carpeta sería `Principles_of_Theology`.
+### Derechos de autor
 
-Si eres un «Editor Asistente» y no vas a usar la plataforma GitHub para el envío de ficheros, simplemente crea una carpeta cualquiera en tu PC. Luego al enviar tu trabajo a un Administrador él se encargará de crear las carpetas correctas.
+Todo lo indicado sobre _Derechos de autor_ en la sección [Obtener libros de todas las religiones](/es/help/github_religious_books_markdown) de este manual también es de aplicación aquí.
+
+### Escanear libros con un OCR
+
+Si resultara necesario escanear un libro, consulta la sección [Obtener libros de todas las religiones](/es/help/github_religious_books_markdown) de este manual y sigue los mismos pasos.
+
+### Conversión de PDF a Markdown
+
+Si resultara necesario convertir un PDF a Markdown, consulta la sección [Obtener libros de todas las religiones](/es/help/github_religious_books_markdown) de este manual y sigue los mismos pasos.
+
+## Estructura de un libro en Urantiapedia
+
+Ya indicamos en [la tarea anterior](/es/help/github_sourcebooks_catalog) cómo se organizan los libros «fuente» en estantes y grupos, y dónde se puede consultar el listado de todos los libros previstos.
+
+Los libros deben guardarse en estas carpetas del proyecto GitHub: `/output/wikijs/en/book` para libros en inglés, `/output/wikijs/es/book` para libros en español, etc. Dentro de estas carpetas crearemos otra, si no existe, con el nombre del autor (con los espacios en blanco sustituidos por guiones bajos). Finalmente, dentro de la carpeta del autor, crearemos una carpeta para cada libro, donde irán los capítulos, y un fichero Markdown con el mismo nombre que la carpeta, donde irá la portada del libro. Por ejemplo, la carpeta `/output/wikijs/en/book/Sir_James_Jeans/The_Universe_Around_Us` contiene los capítulos de un libro sobre astronomía, y el fichero `/output/wikijs/en/book/Sir_James_Jeans/The_Universe_Around_Us.md` es el de la portada de ese libro.
+
+Al respecto de los nombres de carpetas deben tenerse en cuenta estas indicaciones:
+- Deben ser únicos dentro de cada carpeta y deben contener siempre tres caracteres o más.
+- Si se prevee que el libro va a formar parte de una colección (volumen 1, 2, etc.), añadir un sufijo `_1`, `_2`, etc (hasta un máximo de 9 volúmenes), o `_01`, `_02` (si se preveen más de 9 volúmenes).
+- El nombre de la carpeta no debe tener espacios en blanco o guiones, que deberán sustituirse por guiones bajos (`_`).
+- El nombre usará el título del libro pero lo más abreviado posible.
+- El nombre siempre será en inglés, de modo que si el libro original no es en inglés se traduce el título.
+- Los caracteres raros como dos puntos, apóstrofes o exclamaciones se quitan.
+- Por ejemplo, si el título de un libro es *Did Jesus exist?* la carpeta de ese libro se llamaría `Did_Jesus_exist`. Si el título fuera *Principios de Teología* (un libro cuyo original fuera en español), la carpeta sería `Principles_of_Theology`.
+- Siempre se usarán los mismos nombres de carpetas para todos los idiomas. Por ejemplo, la carpeta para el ejemplo anterior en inglés es `/output/wikijs/en/book/Sir_James_Jeans/The_Universe_Around_Us` y para el español es `/output/wikijs/es/book/Sir_James_Jeans/The_Universe_Around_Us` (NO ES ~~`/output/wikijs/es/book/Sir_James_Jeans/El_Universo_que_nos_rodea`~~). Es decir, lo único que cambia en la URL entre diferentes idiomas es el código de lenguaje (`en`, `es`, etc.). Esto facilita muchas operaciones con las rutas en Urantiapedia.
 
 Cada capítulo será un fichero dentro de la carpeta del libro llamado `xx.md` donde `xx` será:
 - Un número de 0 a N con el número del capítulo (sin el título, sólo el número). El cero está reservado a un prólogo o introducción en el que el propio autor no haya usado un número para numerarlo. Si no hay prólogo ni introducción alguna, el primer capítulo será `1.md`, el segundo será `2.md`, etc.
-- `Index` para la página del índice, que quedará como `Index.md`.
+- `Index` para la página del índice, que quedará como `Index.md`. Esta página a veces puede omitirse si el índice no es muy largo e incluir el índice en la página de la portada.
 - `Preface` para la página con el prefacio, si lo hay, que quedará como `Preface.md`.
+- Los apéndices deberán nombrarse como `Appendix_xx` donde `xx` sigue una numeración 1 a N.
 
 Se puede ver un ejemplo de libro ya terminado en `/output/wikijs/es/book/Sir_James_Jeans/The_Universe_Around_Us`.
 
-### Formato básico de un libro en Urantiapedia
+## Formato básico de un libro en Urantiapedia
 
 El formato a usar es Markdown, que es extremadamente simple para dar formato frente a otras alternativas.
 
-El «Editor Asistente» debe revisar el texto y añadir lo siguiente (tal como se detalla más abajo):
+De todo el formato [Markdown](/es/help/markdown), que es bastante amplio, un colaborador que añada un libro «fuente» en Urantiapedia seguramente no deberá preocuparse más que de añadir estas cosas (la lista se detalla más abajo):
 - Una cabecera en cada archivo.
 - Inmediatamente debajo de la cabecera, una indicación del autor.
-- Marcas de secciones dentro de cada capítulo.
-- Párrafos correctos.
+- Secciones dentro de cada capítulo.
+- Párrafos separados correctamente.
 - Negritas y cursivas.
 - Citas.
 - Marcas de salto de página.
@@ -75,8 +98,9 @@ El «Editor Asistente» debe revisar el texto y añadir lo siguiente (tal como s
 - Notas al pie de página.
 - Tablas.
 - Fórmulas matemáticas o caracteres en notación científica.
+- Enlaces de navegación.
 
-Algunas de las modificaciones anteriores son complejas y un «Editor Asistente» podría saltarlas en una primera revisión. Simplemente puede anotar esas partes con alguna marca específica para que un «Editor Jefe» las revise posteriormente.
+Parecen muchas cosas pero la verdad es que Markdown es muy sencillo y se puede aprender en menos de una hora. En los siguientes apartados explicaremos un poco cada una de las cosas de la lista anterior.
 
 ### Cabecera de cada archivo
 
@@ -97,16 +121,22 @@ Se debe copiar tal cual está aquí y reemplazar tan sólo los valores que van d
 
 En la descripción no es necesario poner nada.
 
-La fecha de creación y fecha actual poner la misma y que sea la fecha de creación del archivo. La hora no es relevante.
+La fecha de creación y fecha actual deberían ser la fecha de creación del archivo. La hora no es relevante.
 
-En tags hay que poner etiquetas, separadas por comas, que se haya establecido para ese libro. Normalmente los Editores Jefe deciden cuáles son las etiquetas más apropiadas, por lo que pueden dejarse en blanco para rellenarse luego todas a la vez en todos los archivos del libro. 
+En _tags_ hay que poner etiquetas, separadas por comas, que se haya establecido para ese libro. Una lista completa de las etiquetas que se están usando en Urantiapedia está disponible aquí: [Tags en Urantiapedia](https://github.com/JanHerca/urantiapedia/blob/master/docs/tags.md?plain=1). Se pueden dejar en blanco porque es muy rápido rellenarlas luego todas a la vez en todos los archivos del libro. Algunas recomendaciones son estas:
+- Las etiquetas deben ser **obligatoriamente en inglés**. La opción de etiquetas traducidas no está actualmente disponible en [Wiki.js](https://js.wiki/), el software que utiliza Urantiapedia.
+- La etiqueta da igual si está en mayúsculas o minúsculas. `book` y `Book` es la misma etiqueta. De hecho luego todas se muestran en minúsculas en Urantiapedia: [Búsqueda por etiquetas](https://urantiapedia.org/t). En esta página también se muestran todas las etiquetas existentes.
+- Al menos todos los archivos de un libro deberán llevar la etiqueta `book` que indica que es un contenido de la Biblioteca.
+- Al menos deberá llevar una etiqueta del estante al que pertenece el libro: `Theology`, `Philosophy`, `Science`.
+- Para libros de ciencia se puede añadir una etiqueta más con la disciplina. Algunas ya creadas son: `Anthropology`, `Archaeology`, `Astronomy`, `Biology`, `Chemistry`, `Chronology`, `Cosmology`, `Evolutionism`, `Genetics`, `Geography`, `Geology`, `History`, `Linguistics`, `Mathematics`, `Medicine`, `Paleontology`, `Pedagogy`, `Physics`, `Politics`, `Psychiatry`, `Psychology`, `Sociology`.
+- Si alguna etiqueta no existe y se desea añadir, basta con añadirla en la cabecera de cualquier archivo y esa etiqueta será creada.
 
 ### Autor
 
 Debajo de la cabecera, añadir siempre una línea de autor, como ésta:
 
 ```
-Autor: **Sir James Jeans, M. A., D. Sc., Sc. D., LL. D., F. R. S.**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">Sir James Jeans, M. A., D. Sc., Sc. D., LL. D., F. R. S.</p>
 ```
 
 Es corriente en el mundo anglosajón colocar detrás del nombre, separados por comas, los títulos académicos del autor.
@@ -127,7 +157,7 @@ Las secciones de primer nivel siempre tendrán la marca `##`, las de siguiente n
 
 ### Párrafos correctos
 
-Un párrafo es una línea dentro del fichero Markdown y debe tener una línea en blanco delante y detrás. Debe garantizarse que eso ocurre en cada párrafo.
+Un párrafo es una línea dentro del fichero Markdown y debe tener una línea en blanco delante y detrás. Debe garantizarse que eso ocurre en cada párrafo. En caso de que el texto sea poético, las versos de las estrofas pueden mantenerse juntas y sólo tener una línea en blanco delante y detrás de la estrofa.
 
 ### Negritas y cursivas
 
@@ -179,9 +209,9 @@ Más allá de los asteroides vienen los cuatro grandes planetas Júpiter, Saturn
 
 Se puede ver que la marca es: `<span id="p18">[<sup><small>p. 18</small></sup>]</span>`.
 
-Como esta tarea puede ser tediosa una manera de hacerla más simple puede ser colocar una marca alternativa más corta, como `ppp18`, por seguir con el ejemplo anterior. Luego un «Editor Jefe» puede detectar esas marcas y reemplazarlas por las definitivas de un modo automático. Es decir, así también valdría:
+Como esta tarea puede ser tediosa una manera de hacerla más simple puede ser colocar una marca alternativa más corta, como `ppp18` (`ppp` es un texto que sabemos que nunca va a ocurrir), por seguir con el ejemplo anterior. Luego se pueden buscar esas marcas y reemplazarlas por las definitivas de un modo automático como hemos indicado en otro ejemplo más arriba. Es decir, así también valdría:
 
-```wrap
+```
 Más allá de los asteroides vienen los cuatro grandes planetas Júpiter, Saturno, Urano y Neptuno, todos ellos mucho más grandes que la Tierra. Júpiter, el más grande, tiene, según Sampson, un diámetro de 88.640 millas [142.652 km], o ppp18 más de once veces el diámetro de la tierra; mil cuatrocientos cuerpos del tamaño de la Tierra podrían estar empaquetados dentro de Júpiter y dejar espacio de sobra. Saturno, que le sigue en orden, solo es superado por Júpiter en tamaño, con un diámetro de unas 70.000 millas [112.654 km]. Estos dos son, con mucho, los más grandes de los planetas.
 ```
 
@@ -197,32 +227,30 @@ Las imágenes deben incluirse así:
 ```
 
 Se puede copiar el ejemplo anterior donde se necesite una imagen y reemplazar tan sólo lo siguiente:
-- Donde dice `id="Universe_plate_01"` es un identificador único para la imagen. Se puede poner uno cualquiera con tal de que en el mismo fichero de cada capítulo no haya dos iguales.
-- Donde dice `src="..."` debe ir una ruta hasta el fichero de imagen. La ruta debe empezar siempre con `/image/`, que es donde están todas las imágenes, y detrás debería ir una ruta idéntica a la que tenemos para el libro. Es decir, siguiendo el ejemplo, puesto que el libro se encuentra en `/es/book/Sir_James_Jeans/The_Universe_Around_Us`, las imágenes para ese libro deberían estar en `/image/book/Sir_James_Jeans/The_Universe_Around_Us`. El nombre de archivo de cada imagen puede ser un cualquiera que sea breve, indicando siempre la extensión (`.png` o `.jpg`) del archivo. Si no se tiene el archivo, cosa que inicialmente va a ocurrir, se puede poner un nombre cualquiera, y luego el «Editor Jefe» ya decidirá el nombre y extensión definitivas.
+- Donde dice `id="Universe_plate_01"` debe ser un identificador único para la imagen. Se puede poner uno cualquiera con tal de que en el mismo fichero de cada capítulo no haya dos iguales.
+- Donde dice `src="..."` debe ir una ruta hasta el fichero de imagen. La ruta debe empezar siempre con `/image/`, que es donde están todas las imágenes, y detrás debería ir una ruta idéntica a la que tenemos para el libro. Es decir, siguiendo el ejemplo, puesto que el libro se encuentra en `/es/book/Sir_James_Jeans/The_Universe_Around_Us`, las imágenes para ese libro deberían estar en `/image/book/Sir_James_Jeans/The_Universe_Around_Us`. El nombre de archivo de cada imagen puede ser cualquiera que sea breve, indicando siempre la extensión (`.png` o `.jpg`). Es recomendable que el nombre de archivo no tenga espacios en blanco ni caracteres especiales, apóstrofes o acentos.
 - Si la imagen tiene un pie se debe poner dentro de la etiqueta `figcaption`.
+- Si se quiere alinear la imagen a la izquierda, centro o derecha hay que reemplazar `class="image urantiapedia"` por `class="image urantiapedia image-style-align-left"`, `class="image urantiapedia image-style-align-center"` y `class="image urantiapedia image-style-align-right"`, respectivamente. Unos párrafos más abajo hay que añadir una línea con `<br style="clear:both;"/>` para que la alineación deje de afectar a la colocación del texto.
 
-Puesto que esta tarea de incluir la imagen puede ser tediosa el «Editor Asistente» puede incluir simplemente una marca que indique que ahí va una imagen que debe buscarse en el fichero PDF original, algo como `iiii` o cualquier repetición que nunca va a ocurrir en otra parte del texto.
-
+Puesto que esta tarea de incluir imágenes puede ser tediosa se puede usar un truco como los mencionados antes. Si ninguna imagen va a llevar un pie se podría poner algo como `fff18` (o `fffl18`, `fffc18`, `fffr18`) como manera de simplificar que ahí va una imagen con número 18 (e incluso alineada).
 
 ### Referencias a imágenes
 
 Cuando el texto menciona una imagen es buena idea colocar un enlace interno a esa imagen. Por ejemplo, siguiendo con la imagen que se mostraba arriba, para incluir una referencia se pondría así:
 
-```wrap
+```
 ... cada una de ellas demasiado tenue para ser vistas individualmente sin ayuda telescópica (ver [Lámina I](#Universe_plate_01)).
 
 ... como ya vimos en la [Lámina VIII](/es/book/Sir_James_Jeans/The_Universe_Around_Us/#Universe_plate_01) del capítulo anterior ...
 ```
 
-La sintaxis `[Lámina I](#Universe_plate_01)` es la forma de añadir hipervínculos en Markdown. Entre corchetes se indica el texto que se muestra, y justo detrás entre paréntesis se indica la ruta web. Cuando la imagen está en el mismo capítulo, basta con poner `#` y luego el identificador. Si la imagen está en otro capítulo la ruta debe ser más larga.
-
-Puesto que esta tarea de incluir las referencias a imágenes puede ser tediosa el «Editor Asistente» puede incluir simplemente una marca que indique que ahí va una referencia, algo como `rrrr`.
+La sintaxis `[Lámina I](#Universe_plate_01)` es la forma de añadir hipervínculos en Markdown. Entre corchetes se indica el texto que se muestra, y justo detrás entre paréntesis se indica la ruta web. Cuando la imagen está en el mismo capítulo, basta con poner `#` y luego el identificador. Si la imagen está en otro capítulo la sintaxis debería ser algo como `[Lámina I](/image/book/Sir_James_Jeans/The_Universe_Around_Us/3#Universe_plate_01)`. En este ejemplo apuntamos a la figura 1 que está en el capítulo 3.
 
 ### Notas al pie de página
 
-Si el libro tiene notas al pie de página, o notas al final del capítulo, o notas globales que aparecen al final del libro, pero de las cuales se coloca una marca en el libro mediante un número o una indicación, esas marcas de anotación se convertirán en notas a pie de página siempre, como sigue:
+Si el libro tiene notas al pie de página, o notas al final del capítulo, o notas globales que aparecen al final del libro, pero de las cuales se coloca una marca en el libro mediante un número o una indicación, esas marcas de anotación se convertirán en notas a pie de capítulo siempre, como sigue:
 
-```wrap
+```
 El hecho de que Altair y Saturno parezcan igualmente brillantes en el cielo solo puede significar que Altair está 80.000 veces más lejos que Saturno[^1].
 
 . . . 
@@ -232,36 +260,103 @@ El hecho de que Altair y Saturno parezcan igualmente brillantes en el cielo solo
 
 Las notas al pie se marcan siempre como un número correlativo empezando en 1, y se escriben como `[^1]`, `[^2]`, etc. El carácter `^` se escribe en el teclado usando `Mayús + [` y luego pulsando espacio.
 
-La nota al pie tiene dos partes: una es la indicación, que se pone justo en el texto, y la otra es la nota en sí misma, que se coloca en la parte final, detrás de cualquier otra cosa, del archivo, cada nota con su marca, luego dos puntos, y luego el texto, y cada nota separada entre sí por una línea en blanco.
-
-Puesto que esta tarea de incluir las notas a pie de página puede ser tediosa el «Editor Asistente» puede incluir simplemente una marca que indique que ahí va una referencia, algo como `nnnn`, y luego copiar todas las notas del capítulo en la parte inferior.
+La nota al pie tiene dos partes: una es la indicación, que se pone justo en el texto, y la otra es la nota en sí misma, que se coloca en la parte final, detrás de cualquier otra cosa, del archivo, cada nota con su marca, luego dos puntos, y luego el texto, y cada nota separada entre sí por una línea en blanco. Es conveniente poner una sección `## Notas` para las notas, que como se ha dicho debería ir siempre al final de todo, incluído de los enlaces de navegación.
 
 
 ### Tablas
 
 La creación de tablas siempre es una tarea compleja en cualquier software de ofimática. Markdown facilita la creación de tablas pero aún así es una tarea compleja cuando la tabla tiene celdas anidadas, textos alineados, etc. 
 
-El «Editor Asistente», para no perder demasiado tiempo aquí, puede simplemente marcar dónde hay tablas en el texto con algo como `tttt`.
+Por ejemplo, resulta muy sencillo crear un tabla con dos columnas simplemente usando el carácter «barra vertical» («|»):
 
-Si quieres saber más acerca de cómo formatear tablas en Markdown puedes consultarlo aquí: [Ayuda del formato Markdown](/es/help/markdown).
+```
+Edades | Tiempo
+--- | ---:
+Edad de la tierra | unos 2.000.000.000 años
+Edad de la vida en la tierra | „ 300.000.000 „
+Edad del hombre en la tierra | „ 300,000 „
+Era de la ciencia astronómica | „ 3,000 „
+Era de la astronomía telescópica | „ 300 „
+```
+Para alinear la columna a la izquierda, derecha o centro basta con usar los caracteres `---`, `---:` y `:---:`, respectivamente, como se ve en el ejemplo.
+
+Para tablas que requieran múltiples líneas por celda se puede recurrir a colocar `<br>` como separador. Por ejemplo:
+
+```
+Longitudes de onda (cms.) | Naturaleza de la radiación | Efecto sobre el átomo | Temperatura (grados abs.) | Dónde se encuentra
+--- | --- | --- | --- | ---
+7500 x 10^-8^<br>a<br>3750 x 10^-8^ | Luz visible | Perturba los electrones más externos | 3.850°<br>a<br>7.700° | Atmósferas estelares
+250 x 10^-8^<br>a<br>10^-8^ | rayos X | Perturba los electrones internos | 115.000°<br>a<br>29.000.000° | Interiores estelares
+```
+
+Si quieres saber más acerca de cómo formatear tablas en Markdown puedes consultarlo aquí: [Ayuda del formato Markdown](/es/help/markdown), en las secciones _Tablas_ y _Tablas avanzadas_. Se pueden crear tablas complejas de una forma muy simple con Markdown. Si finalmente la tabla no es posible crearla en Markdown por tener mucha complejidad, siempre se puede crear usando sintaxis HTML. Conviene recordar que Markdown es una manera alternativa de escribir HTML, pero admite también cualquier contenido HTML. Un buen tutorial sobre creación de tablas HTML lo tienes en Mozilla Docs: [HTML table basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics).
+
+Conviene tener presente que las tablas se leen mal en dispositivos móviles cuando su ancho es mayor que el ancho de pantalla. Para evitar este inconveniente, cuando la tabla tiene más de dos columnas, es recomendable encerrar la tabla en un contenedor con desplazamiento lateral, como se muestra en este ejemplo:
+
+```
+<div class="urantiapedia-table-wrapper">
+
+Longitudes de onda (cms.) | Naturaleza de la radiación | Efecto sobre el átomo | Temperatura (grados abs.) | Dónde se encuentra
+--- | --- | --- | --- | ---
+7500 x 10^-8^<br>a<br>3750 x 10^-8^ | Luz visible | Perturba los electrones más externos | 3.850°<br>a<br>7.700° | Atmósferas estelares
+250 x 10^-8^<br>a<br>10^-8^ | rayos X | Perturba los electrones internos | 115.000°<br>a<br>29.000.000° | Interiores estelares
+
+</div>
+```
 
 ### Fórmulas matemáticas o caracteres en notación científica
 
-La creación de fórmulas matemáticas o el uso de caracteres en notación científica siempre es una tarea compleja en cualquier software de ofimática. Markdown facilita su creación pero aún así es una tarea compleja dependiendo de las fórmulas o caracteres a usar. 
+La creación de fórmulas matemáticas o el uso de caracteres en notación científica siempre es una tarea compleja en cualquier software de ofimática. Markdown facilita su creación pero aún así es una tarea compleja dependiendo de las fórmulas o caracteres a usar porque en realidad la sintaxis utilizada es [LaTeX](https://es.wikipedia.org/wiki/LaTeX) a través de una extensión de Markdown llamada [Mathjax](https://www.mathjax.org/).
 
-El «Editor Asistente», para no perder demasiado tiempo aquí, puede simplemente marcar dónde hay fórmulas o notación científica en el texto con algo como `ffff`, de modo que un «Editor Jefe» puede ir a esos puntos a revisar.
+Si quieres saber más acerca de cómo formatear fórmulas y textos científicos en Markdown puedes consultarlo aquí: [Ayuda del formato Markdown](/es/help/markdown), en la sección _Expresiones matemáticas (Mathjax)_.
 
-Si quieres saber más acerca de cómo formatear fórmulas y textos científicos en Markdown puedes consultarlo aquí: [Ayuda del formato Markdown](/es/help/markdown).
+### Enlaces de navegación
 
-## Envío de ficheros
+Estos enlaces van en una sencilla tabla al principio y final de cada capítulo, y permiten pasar de un capítulo a otro con facilidad, o ir al índice. Deberán ser como en el ejemplo siguiente:
 
-Si eres un «Editor Jefe» utilizando GitHub puedes enviar los libros creados por ti tal como se detalla en el [Manual para Editores Jefe](/es/help/github); si eres un «Editor Asistente», puedes simplemente enviar los archivos Markdown al correo de cualquier Administrador o a urantiapedia@gmail.com.
+```
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="/es/book/Sir_James_Jeans/The_Universe_Around_Us/1">
+            <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Capítulo I — Explorando el cielo</span>
+          </a>
+        </td>
+        <td>
+          <a href="/es/book/Sir_James_Jeans/The_Universe_Around_Us#índice">
+            <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+          </a>
+        </td>
+        <td>
+          <a href="/es/book/Sir_James_Jeans/The_Universe_Around_Us/3">
+            <span class="pr-2">Capítulo III — Explorando en el tiempo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+```
+
+Como se ha dicho antes, lo último del archivo siempre debe ser la sección de notas, si es que la hay, incluso debajo de estos enlaces de navegación.
+
+## Creación de un fichero de portada
+
+Para la creación del fichero de portada sirve todo lo indicado en la sección [Obtener libros de todas las religiones](/es/help/github_religious_books_markdown) de este manual. Como ya se ha dicho, la portada será un archivo Markdown con el mismo nombre que la carpeta con los capítulos. Por ejemplo, la carpeta `/output/wikijs/en/book/Sir_James_Jeans/The_Universe_Around_Us` contiene los capítulos de un libro sobre astronomía, y el fichero `/output/wikijs/en/book/Sir_James_Jeans/The_Universe_Around_Us.md` es el de la portada de ese libro.
+
+## Envío de solicitudes de cambios
+
+Esto completa todas las cosas a tener en cuenta al añadir libros «fuente» a la Biblioteca Urantipedia. Una vez hechos estos cambios en el proyecto GitHub, hay que realizar una solicitud de cambios tal y como se detalla en los manuales para los usuarios [Administradores](/es/help/admin), [Editores Jefe](/es/help/github) o [Editores Asistentes](/es/help/github_assistant). 
+
 
 ## Enlaces externos
 
 - [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
 - [Google Libros](https://books.google.es/)
 - [Internet Archive - Books](https://archive.org/details/books)
+- [El proyecto Gutemberg](https://www.gutenberg.org/)
 - [Ayuda del formato Markdown](/es/help/markdown)
 
 <br>
