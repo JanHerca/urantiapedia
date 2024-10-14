@@ -39,7 +39,7 @@ Dans cette tâche, nous essaierons de créer une liste de livres de toutes les r
 
 https://github.com/JanHerca/urantiapedia/blob/master/input/txt/books-en/Religious_books.tsv
 
-Pour toute modification de ce fichier sur GitHub, les instructions fournies aux utilisateurs [Administrateurs](/fr/help/admin), [Rédacteurs en chef](/fr/help/github) ou [Rédacteurs assistants](/fr/help/github_assistantp) doit être suivi.
+Pour toute modification de ce fichier sur GitHub, les instructions fournies aux utilisateurs [Administrateurs](/fr/help/admin), [Rédacteurs en chef](/fr/help/github) ou [Rédacteurs assistants](/fr/help/github_assistant) doit être suivi.
 
 Le contenu de ce fichier est très simple :
 

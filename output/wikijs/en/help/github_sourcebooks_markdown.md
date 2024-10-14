@@ -310,9 +310,9 @@ Creating mathematical formulas or using characters in scientific notation is alw
 
 If you want to know more about how to format scientific formulas and texts in Markdown you can check it out here:[Markdown formatting help](/en/help/markdown), in the _Mathematical expressions (Mathjax)_ section.
 
-### Enlaces de navegación
+### Navigation links
 
-Estos enlaces van en una sencilla tabla al principio y final de cada capítulo, y permiten pasar de un capítulo a otro con facilidad, o ir al índice. Deberán ser como en el ejemplo siguiente:
+These links are placed in a simple table at the beginning and end of each chapter, and allow you to easily move from one chapter to another, or go to the index. They should be like the following example:
 
 ```
 <figure class="table chapter-navigator">
