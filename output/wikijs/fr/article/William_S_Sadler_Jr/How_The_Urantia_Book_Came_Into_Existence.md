@@ -3,7 +3,7 @@ title: "Comment le Livre d'Urantia est entré dans l'existence"
 description: 
 published: true
 date: 2023-11-04T14:02:03.086Z
-tags: The Urantia Book, The Urantia Book—Authorship, article
+tags: The Urantia Book, The Urantia Book—Authorship, Bill Sadler, article
 editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---

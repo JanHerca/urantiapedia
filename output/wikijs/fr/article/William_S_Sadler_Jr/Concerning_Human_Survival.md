@@ -3,7 +3,7 @@ title: Concernant la survie humaine
 description: 
 published: true
 date: 2022-11-28T11:16:41.388Z 
-tags: The Urantia Book, study aid
+tags: The Urantia Book, Bill Sadler, study aid
 editor: markdown 
 dateCreated: 2022-11-28T11:12:37.284Z 
 ---
