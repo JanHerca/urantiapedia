@@ -3,7 +3,7 @@ title: "Quiz maxien n°3 Les réponses"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
-tags: Le Lien, article
+tags: Questions and answers, Le Lien, article
 editor: markdown
 dateCreated: 2024-09-29T14:02:03.086Z
 ---
