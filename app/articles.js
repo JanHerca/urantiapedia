@@ -422,7 +422,7 @@ class Articles {
 									!author.startsWith('-') ? author : ''),
 								authorLink: authorLink,
 								tags: tags ? tags.split(',')
-									.map(t => t.trim().toLowerCase()) : []
+									.map(t => t.trim()/*.toLowerCase()*/) : []
 							};
 							currentIssue.articles.push(currentArticle);
 							this.items.push(currentArticle);
@@ -1281,8 +1281,10 @@ class Articles {
 					reject([this.getError('folder_no_access', baseName)]);
 					return;
 				}
-				var data = [];
-				var issues = [];
+				const data = [];
+				const issues = [];
+				const [title, publisher] = this.index.title.split('|');
+				const writeReferences = this.index.link != '---';
 				this.index.volumes.forEach(volume => {
 					volume.issues.forEach(issue => issues.push(issue));
 				});
@@ -1298,7 +1300,8 @@ class Articles {
 							path: filepath,
 							title: article.title,
 							author: article.author,
-							year: year
+							tags: article.tags,
+							year
 						});
 					});
 				});
@@ -1320,8 +1323,8 @@ class Articles {
 				const tags = this.index.tags.filter(t => {
 					return (t.toLowerCase() != 'index' &&
 						t.toLowerCase() != 'article');
-				}).map(t => t.trim()).join(', ');
-				const name = this.index.title
+				}).map(t => t.trim())/*.join(', ')*/;
+				const name = title
 					.replace('Index of ', '')
 					.replace(' articles', '');
 				const promises = data.map(d => {
@@ -1335,21 +1338,25 @@ class Articles {
 					const author = (d.author != '' ? 
 						`© ${d.year} ${d.author}<br>` : '');
 					
+					
 					let md = `---\r\n` +
 						`title: "${d.title}"\r\n` +
 						`description: \r\n` +
 						`published: true\r\n` +
 						`date: ${datestr}\r\n` +
-						`tags: ${tags + ', article'}\r\n` +
+						`tags: ${[...d.tags, ...tags, 'article'].join(', ')}\r\n` +
 						`editor: markdown\r\n` +
 						`dateCreated: ${datestr}\r\n` +
 						`---\r\n` +
 						`\r\n` +
-						`<p class="${cls}">${author}© ${d.year} ${tags}</p>` +
-						`\r\n\r\n\r\n\r\n\r\n` +
-						`## References\r\n` +
-						`\r\n` +
-						`- ${name}: ${this.index.link}\r\n\r\n`;
+						`<p class="${cls}">${author}© ${d.year} ${publisher}</p>` +
+						(
+							writeReferences ?
+								`\r\n\r\n\r\n\r\n\r\n` +
+								`## References\r\n\r\n` +
+								`- ${name}: ${this.index.link}\r\n\r\n`
+							: '\r\n\r\n'
+						);
 					return reflectPromise(writeFile(d.path, md));
 				});
 				Promise.all(promises).
