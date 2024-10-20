@@ -1796,6 +1796,10 @@ const Strings = {
 		en: "Folder {0} is not accessible",
 		es: "El directorio {0} no está accesible"
 	},
+	"folder_name_invalid": {
+		en: "Folder {0} contains blank spaces or invalid chars",
+		es: "El directorio {0} contiene espacios en blanco o caracteres no válidos",
+	},
 	"folder_not_exists": {
 		en: "Folder {0} not exists",
 		es: "El directorio {0} no existe"

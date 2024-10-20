@@ -421,8 +421,9 @@ class Articles {
 								author: (author != '' && 
 									!author.startsWith('-') ? author : ''),
 								authorLink: authorLink,
-								tags: tags ? tags.split(',')
-									.map(t => t.trim()/*.toLowerCase()*/) : []
+								tags: tags && tags.trim().length > 0 
+									? tags.trim().split(',')
+									.map(t => t.trim()) : []
 							};
 							currentIssue.articles.push(currentArticle);
 							this.items.push(currentArticle);
@@ -1306,14 +1307,20 @@ class Articles {
 					});
 				});
 				const errs = [];
+				const regex = /[áéíóúàèìòùäëïöüâêîôû ÁÉÍÓÚÀÈÌÒÙÄËÏÖÜÂÊÎÔÛ\-]/i;
 				data.forEach(d => {
 					const folder = path.dirname(d.path);
+					const file = path.basename(d.path);
+					if (regex.test(folder) || regex.test(file)) {
+						errs.push(this.getError('folder_name_invalid', d.path));
+						return;
+					}
 					try {
 						if (!fs.existsSync(folder)) {
 							fs.mkdirSync(folder);
 						}
 					} catch (er) {
-						errs.push(this.getError('folder_no_access', folder));
+						errs.push(this.getError('folder_no_access', d.path));
 					}
 				});
 				if (errs.length > 0) {
@@ -1323,7 +1330,7 @@ class Articles {
 				const tags = this.index.tags.filter(t => {
 					return (t.toLowerCase() != 'index' &&
 						t.toLowerCase() != 'article');
-				}).map(t => t.trim())/*.join(', ')*/;
+				}).map(t => t.trim());
 				const name = title
 					.replace('Index of ', '')
 					.replace(' articles', '');
