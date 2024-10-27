@@ -275,6 +275,12 @@ How to preview images in a Markdown: replace `src="/image` with `src="../../../o
 <p style="text-align:center;">
 ```
 
+### Sample to wrap a wide table
+
+```html
+<div class="urantiapedia-table-wrapper">
+```
+
 ### Convert Markdown images to HTML
 
 Replace this:
