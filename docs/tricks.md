@@ -200,6 +200,7 @@ Other special chars:
 - °
 - Superscript: 10^5^
 - Subscript: H~2~O
+- Œ
 
 omissions in quotes:
 * english . . .
