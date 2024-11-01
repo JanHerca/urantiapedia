@@ -40,7 +40,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Chris Moseley, Oxfordshire, Royaume-Uni
 
-En soi, le concept du Mental, dans l'abstrait, et le sens illimité du mot, n'implique pas le libre choix, mais le mental individuel, le mental mortel, possède le libre choix en tant que partie intégrante et définie. A la page 1216 intitulée «Le cadre mental du choix » il y a une phrase saisissante qui exprime la nature de toute la race humaine. _La conscience bumaine repose doucement sur le mécanisme électrochimique sous-jacent et touche délicatement le système énergétique morontiel-spirituel qui la domine._ <a id="a42_514"></a>[LU 111:1.5](/fr/The_Urantia_Book/111#p1_5). Vue en ces termes, que la créature humaine semble être très bien accordée, que l'existence quotidienne semble posséder une mystérieuse fragilité ; et quelles graves responsabilités sont impliquées dans tous les choix que nous faisons!
+En soi, le concept du Mental, dans l'abstrait, et le sens illimité du mot, n'implique pas le libre choix, mais le mental individuel, le mental mortel, possède le libre choix en tant que partie intégrante et définie. A la page 1216 intitulée «Le cadre mental du choix » il y a une phrase saisissante qui exprime la nature de toute la race humaine. _La conscience humaine repose doucement sur le mécanisme électrochimique sous-jacent et touche délicatement le système énergétique morontiel-spirituel qui la domine._ <a id="a42_514"></a>[LU 111:1.5](/fr/The_Urantia_Book/111#p1_5). Vue en ces termes, que la créature humaine semble être très bien accordée, que l'existence quotidienne semble posséder une mystérieuse fragilité ; et quelles graves responsabilités sont impliquées dans tous les choix que nous faisons!
 
 Qu'il soit indifférencié, dans le sens du mental infini ou absolu, ou fini, agissant par le ministère des esprits mentaux adjuvats, tout mental peut se **surimposer à l'énergie** (<a id="a44_180"></a>[LU 9:4.2](/fr/The_Urantia_Book/9#p4_2))—en d'autres termes, le mental peut diriger des énergies par ses propres choix. Le mental ajoute la signification à l'énergie.
 
@@ -72,7 +72,7 @@ Le paragraphe <a id="a70_14"></a>[LU 111:1.7](/fr/The_Urantia_Book/111#p1_7) sem
 
 Le paragraphe <a id="a72_14"></a>[LU 111:1.8](/fr/The_Urantia_Book/111#p1_8) expose de nouveau la relation du mental et de l'Ajusteur. C'est pourquoi ils sont appelés Ajusteurs plutôt que Manipulateurs ou Contrôleurs.
 
-Et le paragraphe final contient de magnifiques vérités qui ne peuvent être distillées sommairement: _Le mental est votre bateau, l'Ajusteur est votre pilote, la volonté bumaine est le capitaine._ <a id="a74_196"></a>[LU 111:1.9](/fr/The_Urantia_Book/111#p1_9). L'image du naufrage et du péril en mer nous rappellent encore la lourde responsabilité qu'ont les êtres mortels de faire les bons choix guidés par l'Ajusteur.
+Et le paragraphe final contient de magnifiques vérités qui ne peuvent être distillées sommairement: _Le mental est votre bateau, l'Ajusteur est votre pilote, la volonté humaine est le capitaine._ <a id="a74_196"></a>[LU 111:1.9](/fr/The_Urantia_Book/111#p1_9). L'image du naufrage et du péril en mer nous rappellent encore la lourde responsabilité qu'ont les êtres mortels de faire les bons choix guidés par l'Ajusteur.
 
 <figure class="table chapter-navigator">
   <table>

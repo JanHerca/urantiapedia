@@ -152,7 +152,7 @@ Indépendamment des influences suprahumaines mentionnées ci-dessus ,il existe u
 
 **La dotation de sensibilité à la réalité**. La Révélation nous montre que l'homme est doté d'un pouvoir de reconnaissance de la réalité, d'un portrait véridique de ce qui existe :
 
-> _Toutes les divisions de la pensée bumaine sont basées sur certaines hypothèses qui, malgré l'absence de preuves, sont acceptées par la sensibilité à la réalité, inbérente aux facultés mentales bumaines._ <a id="a154_207"></a>[LU 103:7.11](/fr/The_Urantia_Book/103#p7_11)
+> _Toutes les divisions de la pensée humaine sont basées sur certaines hypothèses qui, malgré l'absence de preuves, sont acceptées par la sensibilité à la réalité, inbérente aux facultés mentales humaines._ <a id="a154_207"></a>[LU 103:7.11](/fr/The_Urantia_Book/103#p7_11)
 
 **Le désir de savoir**. La Révélation nous fait savoir que la curiosité humaine a un but:
 
@@ -164,11 +164,11 @@ Indépendamment des influences suprahumaines mentionnées ci-dessus ,il existe u
 
 **L'intense désir de survivre**. L'homme a un désir inné de survivre et cela constitue le fondement de sa foi.
 
-> _La meilleure preuve de la réalité et de l'efficacité de la religion consiste dans le fait de l'expérience bumaine. Voici des hommes naturellement craintifs et soupconneux, doués par naissance d'un fort instinct de conservation et ardemment désireux de survivre à la mort; ils acceptent pleinement de confier les plus profonds intérêts de leur présent et de leur avenir à la garde et à la direction du pouvoir et de la personne que leur foi appelle Dieu. Telle est l'unique vérité centrale de toute religion._ <a id="a166_512"></a>[LU 102:8.1](/fr/The_Urantia_Book/102#p8_1)
+> _La meilleure preuve de la réalité et de l'efficacité de la religion consiste dans le fait de l'expérience humaine. Voici des hommes naturellement craintifs et soupconneux, doués par naissance d'un fort instinct de conservation et ardemment désireux de survivre à la mort; ils acceptent pleinement de confier les plus profonds intérêts de leur présent et de leur avenir à la garde et à la direction du pouvoir et de la personne que leur foi appelle Dieu. Telle est l'unique vérité centrale de toute religion._ <a id="a166_512"></a>[LU 102:8.1](/fr/The_Urantia_Book/102#p8_1)
 
 **Les tendances religieuses sont innées**. Il n'est pas nécessaire de créer des tendances religieuses chez un être humain car c'est une inclination naturelle:
 
-> _Les tendances religieuses des races bumaines sont innées ; elles se manifestent universellement et ont une origine apparemment naturelle_ <a id="a170_141"></a>[LU 103:0.2](/fr/The_Urantia_Book/103#p0_2)
+> _Les tendances religieuses des races humaines sont innées ; elles se manifestent universellement et ont une origine apparemment naturelle_ <a id="a170_141"></a>[LU 103:0.2](/fr/The_Urantia_Book/103#p0_2)
 
 Du fait que la religion traite de la spiritualité, de la relation personnelle avec Dieu, il n'y a pas de langage au niveau du mental qui puisse discuter de cette valeur de manière adéquate. C'est là un aspect qu'il faut prendre en compte lorsque l'on s'engage dans la propagation du message. La cinquième révélation d'époque décrit ce paradoxe en ces termes:
 

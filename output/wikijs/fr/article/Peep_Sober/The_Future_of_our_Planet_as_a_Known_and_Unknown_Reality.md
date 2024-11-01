@@ -84,15 +84,15 @@ La mota morontielle échappe probablement à ces contradictions. Nous pouvons de
 
 Mais regardons ce que les révélateurs ont à nous dire sur le temps et l'espace :
 
-> _Le mental bumain est moins lié au temps qu'à l'espace à cause de la nature inbérente au mental. Même pendant les jours de la vie terrestre dans la cbair, bien que le mental bumain soit rigidement lié á l'sspace, l'imagination créatrice bumaine est comparativement libre du temps. Mais le temps lui-même n'est pas génétiquement une qualité du mental. Il y a trois niveaux différents de connaissance du temps._
+> _Le mental bumain est moins lié au temps qu'à l'espace à cause de la nature inbérente au mental. Même pendant les jours de la vie terrestre dans la cbair, bien que le mental bumain soit rigidement lié á l'sspace, l'imagination créatrice humaine est comparativement libre du temps. Mais le temps lui-même n'est pas génétiquement une qualité du mental. Il y a trois niveaux différents de connaissance du temps._
 > 
 > _1. Le temps perçupar le mental-la conscience de la séquence, le mouvement et un sens de durée._
 > _2. Le temps perçu par l'ssprit-la perception du mouvement vers Dieu et la conscience du mouvement ascensionnel vers des niveaux de divinité croissante._
 > _3. La personnalité crée un sens unique du temps par sa pénétration de la Réalité, plus une conscience de présence et une perception de la duréé._
 > 
-> _Les animaux non spirituels ne connaissent que le passé et vivent dans le présent. Les hommes habités par l'esprit ont des pouvoirs de prévision (clairvoyance); ilpeuvent visualiser l'avenir. Seules les attitudes progressives et orientés en avant sont personnellement réelles. L'éthique statique et la moralité traditionnelle ne dépassent l'animalité que de très peu. Le stoicisme n'est pas non plus une baute réalisation de soi. L'éthique et la morale deviennent vraiment bumaines lorsqu'elles sont dynamiques et progressives, pleines de la réalité universelle._
+> _Les animaux non spirituels ne connaissent que le passé et vivent dans le présent. Les hommes habités par l'esprit ont des pouvoirs de prévision (clairvoyance); ilpeuvent visualiser l'avenir. Seules les attitudes progressives et orientés en avant sont personnellement réelles. L'éthique statique et la moralité traditionnelle ne dépassent l'animalité que de très peu. Le stoicisme n'est pas non plus une baute réalisation de soi. L'éthique et la morale deviennent vraiment humaines lorsqu'elles sont dynamiques et progressives, pleines de la réalité universelle._
 > 
-> _La personnalité bumaine n'estpas seulement un accompagnement des événements dans le temps et l'espace; la personnalité bumaine peut aussi agir comme cause cosmique de ces événements._ <a id="a94_187"></a>[[LU 12:5.5-11](/fr/The_Urantia_Book/12#p5_5)]
+> _La personnalité humaine n'estpas seulement un accompagnement des événements dans le temps et l'espace; la personnalité humaine peut aussi agir comme cause cosmique de ces événements._ <a id="a94_187"></a>[[LU 12:5.5-11](/fr/The_Urantia_Book/12#p5_5)]
 
 Pouvons-nous voir dans ce qui précède combien précieuses sont nos aperçus du futur?
 
@@ -106,7 +106,7 @@ Pouvons-nous voir dans ce qui précède combien précieuses sont nos aperçus du
 
 > En fait, la conscience des unités de temps de chacun d'entre nous n'ont pas la même longueur. _Il existe, dans tout intellect donné, une relation directe entre la maturité et la conscience d'une unité de temps. Cette unité de temps peut être un jour, une année ou une période plus longue, mais elle est inévitablement le critère par lequel le moi conscient apprécie les circonstances de la vie et par lequel l'intellect qui concoit mesure et évalue les faits de l'existence temporelle._ <a id="a106_489"></a>[[LU 118:1.3](/fr/The_Urantia_Book/118#p1_3)]
 
-> _L'expérience, la sagesse et le jugement coüncident avec l'allongement de l'unité de temps dans l'expérience des mortels. Quand le mental bumain remonte dans le passé, il évalue l'expérience antérieure avec le dessein d'influencer une situation présente. Quand le mental s'étend dans l'avenir, il essaye d'évaluer la signification future d'une action possible. Ayant ainsi tenu compte à la fois de l'expérience et de la sagesse, la volonté bumaine prend une décision-jugement dans le présent, et le plan d'action ainsi né du passé et de l'avenir vient à l'existence._ <a id="a108_570"></a>[[LU 118:1.4](/fr/The_Urantia_Book/118#p1_4)]
+> _L'expérience, la sagesse et le jugement coüncident avec l'allongement de l'unité de temps dans l'expérience des mortels. Quand le mental bumain remonte dans le passé, il évalue l'expérience antérieure avec le dessein d'influencer une situation présente. Quand le mental s'étend dans l'avenir, il essaye d'évaluer la signification future d'une action possible. Ayant ainsi tenu compte à la fois de l'expérience et de la sagesse, la volonté humaine prend une décision-jugement dans le présent, et le plan d'action ainsi né du passé et de l'avenir vient à l'existence._ <a id="a108_570"></a>[[LU 118:1.4](/fr/The_Urantia_Book/118#p1_4)]
 
 > _La patience est pratiquée par les mortels dont les unités de temps sont courtes. La vraie maturité transcende la patience par une longanimité née d'une réelle comprébension._ <a id="a110_178"></a>[[LU 118:1.6](/fr/The_Urantia_Book/118#p1_6)]
 

@@ -63,7 +63,7 @@ Au sujet de l'éducation et de la famille sur une planète voisine le _Livre d'U
 
 Et au sujet de la famille et de l'éducation en général :
 
-> _Les humains des temps anciens ne possédaient pas une civilisation sociale très riche, mais ils transmettaient fidèlement et efficacement aux générations suivantes celle qu'ils avaient. Il faut reconnaître que la plupart des civilisations du passé ont continué à évoluer avec un strict minimum d'autres influences institutionnelles, parce que les foyers fonctionnaient efficacement. Aujourd'bui, les races bumaines détiennent un riche héritage social et culturel qui devrait être sagement et utilement transmis aux générations suivantes. La famille, en tant qu'institution éducative, doit être maintenue._ <a id="a65_608"></a>[[LU 82:0.3](/fr/The_Urantia_Book/82#p0_3) les caractères gras sont de moi]
+> _Les humains des temps anciens ne possédaient pas une civilisation sociale très riche, mais ils transmettaient fidèlement et efficacement aux générations suivantes celle qu'ils avaient. Il faut reconnaître que la plupart des civilisations du passé ont continué à évoluer avec un strict minimum d'autres influences institutionnelles, parce que les foyers fonctionnaient efficacement. Aujourd'bui, les races humaines détiennent un riche héritage social et culturel qui devrait être sagement et utilement transmis aux générations suivantes. La famille, en tant qu'institution éducative, doit être maintenue._ <a id="a65_608"></a>[[LU 82:0.3](/fr/The_Urantia_Book/82#p0_3) les caractères gras sont de moi]
 
 De ces citations il est clair que la famille devrait être le fondement de l'éducation. Mais comment opérer des changement au niveau de la famille ? Il va falloir faire des efforts à la fois soutenus et progressifs. Nous devons éduquer les parents directement chaque fois que nous le pouvons mais nous devons commencer à éduquer maintenant nos enfants qui sont de futurs parents. Pour ce faire, nous devons changer la méthode d'apprentissage de nos enfants en préparant un nouvel âge d'enseignants, une meilleure façon d'enseigner. Nous devons unifier en un seul processus éducatif: la valeur de la famille, la recherche du savoir, la vie pratique et responsable, la sagesse et la croissance pendant toute la vie et même la croissance éternelle.
 
@@ -71,7 +71,7 @@ De ces citations il est clair que la famille devrait être le fondement de l'éd
 
 Les écoles du Prince Planétaire d'Urantia, d'il y a 500.000 ans nous fournissent quelques exemples de la façon dont pourrait s'accomplir cette unification dans un contexte éducatif. Ces exemples semblent transcender les vicissitudes du temps et de la culture. Bien que le temps et la technologie aient apporté de nombreux changements l'essentiel demeure.
 
-> _Dans l'installation du quartier général sur votre monde, chaque babitation bumaine était entourée de vastes terres. Les tribus lointaines continuaient à s'adonner à la chasse et à la quête de nourriture, tandis que, dans les écoles du Prince, les étudiants et les professeurs étaient tous des agriculteurs et des horticulteurs. Le temps y était à peu près également divisé entre les travaux suivants:_
+> _Dans l'installation du quartier général sur votre monde, chaque babitation humaine était entourée de vastes terres. Les tribus lointaines continuaient à s'adonner à la chasse et à la quête de nourriture, tandis que, dans les écoles du Prince, les étudiants et les professeurs étaient tous des agriculteurs et des horticulteurs. Le temps y était à peu près également divisé entre les travaux suivants:_
 > 
 > _1. Travail physique. La culture du sol associée à la construction et à l'ornement des maisons._
 > _2. Activités sociales. Représentations théâtrales et groupements culturels._
@@ -97,7 +97,7 @@ L'agriculture a été estimée en tant que partie importante de la culture et de
 
 > _Pendant toute la période éducative, on enseigne également l'agriculture et l'borticulture dans les vastes fermes contiguës à chaque école locale._ <a id="a97_150"></a>[[LU 72:4.1](/fr/The_Urantia_Book/72#p4_1)]
 
-> _Le travail de la terre n'est pas une malédiction; c'est plutôt une suprême bénédiction pour tous ceux qui peuvent ainsi se livrer à la plus humaine de toutes les activités bumaines_ <a id="a99_185"></a>[[LU 66:7.19](/fr/The_Urantia_Book/66#p7_19)]
+> _Le travail de la terre n'est pas une malédiction; c'est plutôt une suprême bénédiction pour tous ceux qui peuvent ainsi se livrer à la plus humaine de toutes les activités humaines_ <a id="a99_185"></a>[[LU 66:7.19](/fr/The_Urantia_Book/66#p7_19)]
 
 _Le Livre d'Urantia_ nous présente des idéaux d'éducation qui vont dans le même sens que les efforts du Prince Planétaire qui ont prévalu il y a si longtemps. Dans quelle mesure nos tentatives d'éducation soutiennent-elles la comparaison avec ces idéaux? Nos activités familiales et scolaires permettent-elles que nous impliquions dans cette recherche ? Nos vies sont-elles organisées de façon à unifier la Religion, la Vie de Famille, l'Education et la Carrière de façon à ce que nous et nos enfants ayons ces expériences qui sont si essentielles au développement d'une personnalité harmonieuse.
 
@@ -105,7 +105,7 @@ _Le Livre d'Urantia_ nous présente des idéaux d'éducation qui vont dans le m�
 
 > _L'homme évolutionnaire n'a pas de gout naturel pour les travaux pénibles. Dans la vie expérientielle, pour marcher de pair avec les exigences barcelantes et les besoins pressants d'une expérience religieuse grandissante, il faut une incessante activité dans la croissance spirituelle, l'expansion intellectuelle, le développement factuel et le service social. Il n'y a pas de véritable religion sans une personnalité très active_ <a id="a105_433"></a>[[LU 102:2.7](/fr/The_Urantia_Book/102#p2_7)].
 
-> _L'éducation, c'est l'affaire de to ute la vie ; il faut que l'éducation continue pendant toute la vie, de façon que l'bumanité acquière graduellement l'expérience des niveaux ascendants de la sagesse bumaine, qui sont les suivants._
+> _L'éducation, c'est l'affaire de to ute la vie ; il faut que l'éducation continue pendant toute la vie, de façon que l'bumanité acquière graduellement l'expérience des niveaux ascendants de la sagesse humaine, qui sont les suivants._
 > 
 > _1. La connaissance des choses._
 > _2. La réalisation des significations._
