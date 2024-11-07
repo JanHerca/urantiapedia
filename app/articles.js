@@ -1,4 +1,4 @@
-//Reader/Writer for converting articles to *.wiki
+//Reader/Writer for converting articles to Wiki.js
 
 const {app} = require('electron').remote;
 const markdownIt = require('markdown-it')({

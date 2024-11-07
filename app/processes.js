@@ -466,6 +466,16 @@ const Processes = {
 		paths: [['input', 'txt', 'articles-{0}', 'articles_innerface.tsv'],
 			['tests', 'article']]
 	},
+	"LIBRARY_CREATE_BLANK_FROM_LIST": {
+		active: true,
+		desc: {
+			en: "LIBRARY: Create blank book from an index",
+			es: "LIBRARY: Crear un libro en blanco a partir de un índice"
+		},
+		constrols: ['fnTTextbox', 'dirHTextbox'],
+		paths: [['input', 'txt', 'books-{0}', 'index.md'],
+			['output', 'wikijs', '{0}', 'book']]
+	},
 	"ALL_INDEXES": {
 		active: true,
 		desc: {

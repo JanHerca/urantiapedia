@@ -1827,7 +1827,11 @@ const Strings = {
 	"success": {
 		en: "Conversion executed successfully",
 		es: "Conversión realizada con éxito"
-	}
+	},
+	"library_book_no_lines": {
+		en: "Library book file without lines",
+		es: "Fichero de libro de la Biblioteca sin líneas"
+	},
 }
 
 module.exports = Strings;

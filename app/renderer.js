@@ -13,6 +13,7 @@ const Bible = require('./bible');
 const BibleRef = require('./bibleref');
 const TopicIndex = require('./topicindex');
 const Articles = require('./articles');
+const Library = require('./library');
 const ImageCatalog = require('./imagecatalog');
 const MapCatalog = require('./mapcatalog');
 const Processes = require('./processes');
@@ -42,6 +43,7 @@ const bibleref = new BibleRef();
 const topicindex = new TopicIndex();
 const topicindexEN = new TopicIndex();
 const articles = new Articles();
+const library = new Library();
 const imageCatalog = new ImageCatalog();
 const mapCatalog = new MapCatalog();
 const editAliasDialog = new DialogEditAlias();
@@ -1101,6 +1103,10 @@ const handle_exeButtonClick = () => {
 				.then(() => onSuccess(okMsgs))
 				.catch(onFail);
 		}
+	} else if (process === 'LIBRARY_CREATE_BLANK_FROM_LIST') {
+		//Reads a Book information file
+		//Creates blank files
+
 	} else if (process === 'ALL_INDEXES') {
 		// Creates a page of all indexes
 		getListOfAllIndexes(htmlDir)
