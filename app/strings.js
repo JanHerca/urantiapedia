@@ -1293,8 +1293,8 @@ const Strings = {
 		es: "Ejecutar"
 	},
 	"lblTTextbox": {
-		en: "TXT files:",
-		es: "Ficheros TXT:"
+		en: "TXT/TSV files:",
+		es: "Ficheros TXT/TSV:"
 	},
 	"dirTTextbox": {
 		en: "Browse path",
@@ -1305,8 +1305,8 @@ const Strings = {
 		es: "Seleccionar"
 	},
 	"lblHTextbox": {
-		en: "HTML files:",
-		es: "Ficheros HTML:"
+		en: "HTML/MD files:",
+		es: "Ficheros HTML/MD:"
 	},
 	"dirHTextbox": {
 		en: "Browse path",

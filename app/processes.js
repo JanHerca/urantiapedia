@@ -472,7 +472,7 @@ const Processes = {
 			en: "LIBRARY: Create blank book from an index",
 			es: "LIBRARY: Crear un libro en blanco a partir de un índice"
 		},
-		constrols: ['fnTTextbox', 'dirHTextbox'],
+		controls: ['fnHTextbox', 'dirHTextbox'],
 		paths: [['input', 'txt', 'books-{0}', 'index.md'],
 			['output', 'wikijs', '{0}', 'book']]
 	},

@@ -2,7 +2,9 @@
 
 const fs = require('fs');
 const path = require('path');
-const {writeFile, reflectPromise, getWikijsNavLinks} = require('./utils');
+const {
+	writeFile, reflectPromise, getWikijsNavLinks, getWikijsHeader
+} = require('./utils');
 const Strings = require('./strings');
 
 class Library {
@@ -54,15 +56,24 @@ class Library {
 					} else if (line.startsWith('## links:')) {
 						section = 'links';
 					}
-					if (section === 'cover') {
-						this.book.cover += line + '\r\n';
+					if (section === 'cover' && !line.startsWith('## cover:')) {
+						this.book.cover += line;
 					}
-					if (section === 'index') {
-						this.book.index
-							.push(line.split('|')
-							.map(n => [n[0].trimRight(), n[1].trim()]));
+					if (
+						section === 'index' && 
+						!line.startsWith('## index:') &&
+						line.trim() != ''
+					) {
+						this.book.index.push(
+							line
+								.split('|')
+								.map((n,i) => i === 0 
+									? n.trimRight() 
+									: n.trim()
+								)
+						);
 					}
-					if (section === 'links') {
+					if (section === 'links' && !line.startsWith('## links:')) {
 						this.book.links.push(line);
 					}
 				});
@@ -84,10 +95,11 @@ class Library {
 					return;
 				}
 				const errs = [];
+				const lan = this.language;
 				const {title, folder_name, shelf_name, tag, cover, index, links} = this.book;
 				const folder = path.join(dirPath, folder_name);
-				const indexText = Strings[this.language]['bookIndexName'];
-				const linksText = Strings[this.language]['topic_external_links'];
+				const indexTitle = Strings.bookIndexName[lan];
+				const linksText = Strings.topic_external_links[lan];
 				
 				try {
 					if (!fs.existsSync(folder)) {
@@ -104,26 +116,27 @@ class Library {
 
 				const promises = index.reduce((acc, cur, i, arr) => {
 					if (cur[1].indexOf('#') === -1) {
-						const filePath = path.join(folder, cur[1]);
-						const datestr = this.getDate();
-						const path = `/${this.language}/book/${shelf_name}/${folder_name}`;
+						const filePath = path.join(folder, cur[1] + '.md');
+						const indexPath = 
+							`/${lan}/book/${shelf_name}/${folder_name}`;
 						const navLinks = getWikijsNavLinks({
-							prevTitle: i === 0 ? null : arr[i-1][0],
-							prevPath: i === 0 ? null : `${path}/${arr[i-1][1]}`,
-							nextTitle: i === arr.length - 1 ? null : arr[i+1][0],
-							nextPath: i === arr.length - 1 ? null : `${path}/${arr[i+1][1]}`,
-							indexTitle: indexText,
-							indexPath: path
+							prevTitle: i === 0 
+								? null 
+								: arr[i-1][0],
+							prevPath: i === 0 
+								? null 
+								: `${indexPath}/${arr[i-1][1]}`,
+							nextTitle: i === arr.length - 1 
+								? null 
+								: arr[i+1][0],
+							nextPath: i === arr.length - 1 
+								? null 
+								: `${indexPath}/${arr[i+1][1]}`,
+							indexPath
 						});
-						let md = `---\r\n` +
-							`title: "${cur[0].trim()}"\r\n` +
-							`description: ${title}\r\n` +
-							`published: true\r\n` +
-							`date: ${datestr}\r\n` +
-							`tags: ${[...tags, 'book'].join(', ')}\r\n` +
-							`editor: markdown\r\n` +
-							`dateCreated: ${datestr}\r\n` +
-							`---\r\n` +
+						let md = 
+							getWikijsHeader(cur[0].trim(), [...tags, 'book'],
+								title, 'markdown') +
 							`\r\n` +
 							navLinks +
 							`\r\n` +
@@ -138,37 +151,32 @@ class Library {
 				}, []);
 				promises.push(...[null].map(n => {
 					const filePath = path.join(dirPath, `${folder_name}.md`);
-					const datestr = this.getDate();
 					const indexContent = index.map(i => {
-						const path = `/${this.language}/book/${shelf_name}/${folder_name}/${i[1]}`;
+						const ipath = 
+							`/${lan}/book/${shelf_name}/${folder_name}/${i[1]}`;
 						const tabs = i[0].startsWith('\t')
-							? i[0].match(/\t/g).join('') : '';
-						return `${tabs}- [${i[0].trim()}](${path})\r\n`;
+							? i[0].match(/\t/g).join('') 
+							: '';
+						return `${tabs}- [${i[0].trim()}](${ipath})\r\n`;
 					}).join('');
-					const linksContent = links.map(l => `${l}\r\n`).join('');
-					let md = `---\r\n` +
-							`title: "${title}"\r\n` +
-							`description: \r\n` +
-							`published: true\r\n` +
-							`date: ${datestr}\r\n` +
-							`tags: ${[...tags, 'book'].join(', ')}\r\n` +
-							`editor: markdown\r\n` +
-							`dateCreated: ${datestr}\r\n` +
-							`---\r\n` +
-							`\r\n` +
-							cover +
-							`\r\n` +
-							`## ${indexText}\r\n` +
-							`\r\n` +
-							indexContent +
-							`\r\n` +
-							`## ${linksText}\r\n` +
-							`\r\n` +
-							linksContent;
+					const linksContent = links.map(l => `- ${l}\r\n`).join('');
+					let md = 
+						getWikijsHeader(title, [...tags, 'book'],
+							undefined, 'markdown') +
+						`\r\n` +
+						cover +
+						`\r\n` +
+						`## ${indexTitle}\r\n` +
+						`\r\n` +
+						indexContent +
+						`\r\n` +
+						`## ${linksText}\r\n` +
+						`\r\n` +
+						linksContent;
 					return reflectPromise(writeFile(filePath, md));
 				}));
 				Promise.all(promises)
-					then(objs => {
+					.then(objs => {
 						const er = objs
 							.filter(obj => obj.error != null)
 							.map(obj => obj.error);
@@ -193,16 +201,6 @@ class Library {
 			index: [],
 			links: []
 		}
-	};
-
-	getDate = () => {
-		const date = new Date();
-		const year = date.getFullYear();
-		const month = date.getMonth()+1;
-		const day = date.getDate();
-		const datestr = `${year}-${month}-${day}` +
-			`T${date.getHours()}:${date.getMinutes()}:${date.getSeconds()}Z`;
-		return datestr;
 	};
 
 	/**

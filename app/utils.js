@@ -614,22 +614,25 @@ exports.replaceWords = function(arItems, arReplaces, text, ignoreCase, replaceAl
  * Returns the default header for a Wiki.js page.
  * @param {string} title Title.
  * @param {string[]} tags Tags.
+ * @param {string|undefined} desc Description.
+ * @param {string|undefined} editor Editor. By default is 'ckeditor', but can
+ * be 'markdown'.
  * @return {string}
  */
-exports.getWikijsHeader = (title, tags) => {
+exports.getWikijsHeader = (title, tags, desc, editor) => {
 	const date = new Date();
 	const datestr = 
 		`${date.getFullYear()}-${date.getMonth()+1}-${date.getDate()}` +
 		`T${date.getHours()}:${date.getMinutes()}:${date.getSeconds()}Z`;
-	return `<!--\r\n` +
-		`title: ${title}\r\n` +
-		`description: \r\n` +
+	return `${editor === 'markdown' ? '---' : '<!--'}\r\n` +
+		`title: "${title}"\r\n` +
+		`description: ${desc ? '"' + desc + '"' : ''}\r\n` +
 		`published: true\r\n` +
 		`date: ${datestr}\r\n` +
 		`tags: ${(tags ? tags.join(', ') : '').replace(/, $/, '')}\r\n` +
-		`editor: ckeditor\r\n` +
+		`editor: ${editor ? editor : 'ckeditor'}\r\n` +
 		`dateCreated: ${datestr}\r\n` +
-		`-->\r\n`;
+		`${editor === 'markdown' ? '---' : '-->'}\r\n`;
 };
 
 /**

@@ -234,7 +234,7 @@ const onLoad = () => {
 		[c.dirJButton, 'click', handle_dirButtonClick, c.dirJTextbox],
 		[c.dirWButton, 'click', handle_dirButtonClick, c.dirWTextbox],
 		[c.fnTButton, 'click', handle_fnButtonClick, c.fnTTextbox, 'TXT,TSV'],
-		[c.fnHButton, 'click', handle_fnButtonClick, c.fnHTextbox, 'HTML'],
+		[c.fnHButton, 'click', handle_fnButtonClick, c.fnHTextbox, 'HTML,MD'],
 		[c.exeButton, 'click', handle_exeButtonClick],
 		[c.collapseButton, 'click', handle_collapseButtonClick],
 		[c.drpLanguage, 'change', handle_drpLanguageChange],
@@ -1106,7 +1106,10 @@ const handle_exeButtonClick = () => {
 	} else if (process === 'LIBRARY_CREATE_BLANK_FROM_LIST') {
 		//Reads a Book information file
 		//Creates blank files
-
+		library.readFileFromMarkdown(htmlFile)
+			.then(() => library.createBlankFiles(htmlDir))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
 	} else if (process === 'ALL_INDEXES') {
 		// Creates a page of all indexes
 		getListOfAllIndexes(htmlDir)
