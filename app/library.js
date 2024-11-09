@@ -113,8 +113,9 @@ class Library {
 					return;
 				}
 				const tags = tag.split(',').map(n => n.trim());
+				const subindex = index.filter(i => i[1].indexOf('#') === -1);
 
-				const promises = index.reduce((acc, cur, i, arr) => {
+				const promises = subindex.reduce((acc, cur, i, arr) => {
 					if (cur[1].indexOf('#') === -1) {
 						const filePath = path.join(folder, cur[1] + '.md');
 						const indexPath = 
@@ -122,16 +123,16 @@ class Library {
 						const navLinks = getWikijsNavLinks({
 							prevTitle: i === 0 
 								? null 
-								: arr[i-1][0],
+								: arr[i-1][0].trim(),
 							prevPath: i === 0 
 								? null 
-								: `${indexPath}/${arr[i-1][1]}`,
+								: `${indexPath}/${arr[i-1][1].trim()}`,
 							nextTitle: i === arr.length - 1 
 								? null 
-								: arr[i+1][0],
+								: arr[i+1][0].trim(),
 							nextPath: i === arr.length - 1 
 								? null 
-								: `${indexPath}/${arr[i+1][1]}`,
+								: `${indexPath}/${arr[i+1][1].trim()}`,
 							indexPath
 						});
 						let md = 
@@ -152,12 +153,15 @@ class Library {
 				promises.push(...[null].map(n => {
 					const filePath = path.join(dirPath, `${folder_name}.md`);
 					const indexContent = index.map(i => {
-						const ipath = 
+						const ipath =
 							`/${lan}/book/${shelf_name}/${folder_name}/${i[1]}`;
+						const link = i[1] === '#'
+							? i[0].trim()
+							: `[${i[0].trim()}](${ipath})`;
 						const tabs = i[0].startsWith('\t')
 							? i[0].match(/\t/g).join('') 
 							: '';
-						return `${tabs}- [${i[0].trim()}](${ipath})\r\n`;
+						return `${tabs}- ${link}\r\n`;
 					}).join('');
 					const linksContent = links.map(l => `- ${l}\r\n`).join('');
 					let md = 

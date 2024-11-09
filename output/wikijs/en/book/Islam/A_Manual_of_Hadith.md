@@ -8,7 +8,37 @@ editor: markdown
 dateCreated: 2024-11-8T10:39:35Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Maulana Muhammad Ali (tr.)</text>		<text style="font-size:4px" x="61" y="125">1944</text>		<text style="font-size:9px" x="61" y="60">A Manual</text>		<text style="font-size:9px" x="61" y="70">of Hadith</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">A Manual of Hadith</span><br><span class="text-h5">by Maulana Muhammad Ali, M.A., LL.B.</span><br><br>AUTHOR OF English Translation of the Holy Quran with Commentary and Text. Urdu Translation and Commentary, Muhammad the Prophet, Islām--the Religion of Humanity, The Religion of Islām, Early Caliphate, The Ahmadiyya Movement, The Babi Religion, The New World Order , Etc. Etc.<br><br>THE AHMADIYYA ANJUMAN ISHAAT ISLAM<br><br>LAHORE, PAKISTAN<br><br>1944<br><br>Scanned at sacred-texts.com, 2001. Formatting revised 2004. Thes files are provided for non-commercial research purposes only. Ali, the author died in 1951, this text is now in the public domain in countries where copyrights persist until 50 years after death, such as Australia, Canada and Pakistan. Its copyright status in the United States cannot be determined at this time.</p>The Hadith, second only to the Qur'an in importance and authority, are collections of Islamic traditions and laws (Sunna). This includes traditional sayings of Muhammed and later Islamic sages. By the ninth century over 600,000 Hadith had been recorded; these were later edited down to about 25,000.
+<div class="urantiapedia-book-front urantiapedia-book-islam">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Maulana Muhammad Ali (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1944</text>
+		<text style="font-size:9px" x="61" y="60">A Manual</text>
+		<text style="font-size:9px" x="61" y="70">of Hadith</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">A Manual of Hadith</span><br>
+<span class="text-h5">by Maulana Muhammad Ali, M.A., LL.B.</span><br>
+<br>
+AUTHOR OF English Translation of the Holy Quran with Commentary and Text. Urdu Translation and Commentary, Muhammad the Prophet, Islām--the Religion of Humanity, The Religion of Islām, Early Caliphate, The Ahmadiyya Movement, The Babi Religion, The New World Order , Etc. Etc.<br>
+<br>
+THE AHMADIYYA ANJUMAN ISHAAT ISLAM<br>
+<br>
+LAHORE, PAKISTAN<br>
+<br>
+1944<br>
+<br>
+Scanned at sacred-texts.com, 2001. Formatting revised 2004. Thes files are provided for non-commercial research purposes only. Ali, the author died in 1951, this text is now in the public domain in countries where copyrights persist until 50 years after death, such as Australia, Canada and Pakistan. Its copyright status in the United States cannot be determined at this time.
+</p>
+
+The Hadith, second only to the Qur'an in importance and authority, are collections of Islamic traditions and laws (Sunna). This includes traditional sayings of Muhammed and later Islamic sages. By the ninth century over 600,000 Hadith had been recorded; these were later edited down to about 25,000.
+
+
 ## Index
 
 - [Preface](/en/book/Islam/A_Manual_of_Hadith/Preface)
@@ -52,4 +82,4 @@ dateCreated: 2024-11-8T10:39:35Z
 
 ## External links
 
-- [Sacred texts](/en/book/Islam/Quran/index.htm)
+- [Sacred texts website](https://archive.sacred-texts.com/isl/hadith/index.htm)
