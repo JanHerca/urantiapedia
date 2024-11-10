@@ -28,6 +28,7 @@ class Library {
 	 */
 	readFileFromMarkdown = (filePath) => {
 		return new Promise((resolve, reject) => {
+			this.clear();
 			fs.readFile(filePath, (errFile, buf) => {
 				if (errFile) {
 					reject([errFile]);
@@ -196,7 +197,7 @@ class Library {
 	};
 
 	clear = () => {
-		book = {
+		this.book = {
 			title: null,
 			folder_name: null,
 			shelf_name: null,

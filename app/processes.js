@@ -473,8 +473,8 @@ const Processes = {
 			es: "LIBRARY: Crear un libro en blanco a partir de un índice"
 		},
 		controls: ['fnHTextbox', 'dirHTextbox'],
-		paths: [['input', 'txt', 'books-{0}', 'index.md'],
-			['output', 'wikijs', '{0}', 'book']]
+		paths: [['tests', 'book', 'bookinfo.md'],
+			['tests', 'book_translated']]
 	},
 	"ALL_INDEXES": {
 		active: true,
