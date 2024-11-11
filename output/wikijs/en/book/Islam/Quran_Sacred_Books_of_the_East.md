@@ -8,7 +8,32 @@ editor: markdown
 dateCreated: 2024-11-10T18:38:5Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">E. H. Palmer (tr.)</text>		<text style="font-size:4px" x="61" y="125">1880</text>		<text style="font-size:9px" x="61" y="60">The Qur'ân</text>		<text style="font-size:8px" x="61" y="70">Sacred Books</text>		<text style="font-size:8px" x="61" y="70">of the East</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">THE QUR’ÂN</span><br>Translated by<br><span class="text-h5">E.H. Palmer</span><br><br>Oxford: The Clarendon Press<br>1880<br><br>Scanned at sacred-texts.com, September 2005. Proofed and formatted by John Bruno Hare. This text is in the public domain in the United States because it was published prior to January 1st, 1923. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact in all copies, printed or electronic</p>
+<div class="urantiapedia-book-front urantiapedia-book-islam">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">E. H. Palmer (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1880</text>
+		<text style="font-size:9px" x="61" y="60">The Qur'ân</text>
+		<text style="font-size:8px" x="61" y="70">Sacred Books</text>
+		<text style="font-size:8px" x="61" y="70">of the East</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">THE QUR’ÂN</span><br>
+Translated by<br>
+<span class="text-h5">E.H. Palmer</span><br>
+<br>
+Oxford: The Clarendon Press<br>
+1880<br>
+<br>
+Scanned at sacred-texts.com, September 2005. Proofed and formatted by John Bruno Hare. This text is in the public domain in the United States because it was published prior to January 1st, 1923. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact in all copies, printed or electronic
+</p>
+
+
 ## Index
 
 - PART I
@@ -133,6 +158,5 @@ dateCreated: 2024-11-10T18:38:5Z
 
 ## External links
 
-- [Sacred texts website](https://archive.sacred-texts.com/isl/hadith/index.htm)
-- 
-- 
+- [Sacred texts website Part I](https://archive.sacred-texts.com/isl/sbe06/index.htm)
+- [Sacred texts website Part II](https://archive.sacred-texts.com/isl/sbe09/index.htm)
