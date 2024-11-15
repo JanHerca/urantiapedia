@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Bénédicte Jourgeaud<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Symposium_de_Chicago_2011_Photos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Symposium de Chicago 2011 - Photos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-56-automne-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 56 — Automne 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_07_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°7 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 L'histoire de Tupperware illustre parfaitement le rêve américain : le fameux American way of life. Son fondateur, Earl Tupper, est une personnalité d'origine modeste qui, grâce à une « bonne » idée (le récipient hermétique), va bâtir un empire avec cette notion que **chacun peut réussir à force de volonté** ! Son rêve est de faire gagner du temps aux femmes, c'est toujours — une question centrale pour elles. Dans les années quarante, gagner du temps repose sur une bonne organisation. Les « Bols Merveilleux » et autres récipients Tupperware permettent de conserver les aliments, mais aussi de mieux s'organiser en cuisine. On parle d'« optimiser » son temps. Cela passe par le choix des aliments, leur conservation, leur rangement. Tupperware, c'est **Brownie Wise** également qui, dans l'Amérique des années cinquante, est la preuve qu'une femme peut réussir. En 1954, elle est ainsi la première femme à faire la couverture de Business Week qui la déclare « femme d'affaires de l'année ». Une belle réussite pour cette mère divorcée qui a commencé à vendre des Tupperware afin de payer les factures médicales de son fils malade...
 
@@ -29,3 +53,27 @@ _Selon « Tupperware, la saga française », Le Cherche Midi_
 ***Note de la rédaction*** _(ndlr) : En gommant l'esprit de compétition et par trop mercantile de Tupperware, ne peut-on pas nous inspirer de son leadership et de la mise en action de ses valeurs humaines pour promouvoir l'enseignement des fascicules du LU ? Confier à nos moitiés (féminines) le soin de faire de telles réunions à domicile ?... Pour sûr que cette boutade n'a d'autre utilité que de réfléchir aux préoccupations du moment !_
 
 Bénédicte Jourgeaud
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Symposium_de_Chicago_2011_Photos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Symposium de Chicago 2011 - Photos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-56-automne-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 56 — Automne 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_07_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°7 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

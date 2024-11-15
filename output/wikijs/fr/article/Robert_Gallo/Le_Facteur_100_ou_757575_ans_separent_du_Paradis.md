@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Robert Gallo<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Hubert_Gallet/Lart_de_vivre_selon_Jesus_et_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'art de vivre — selon Jésus et le livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-28-hiver-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 28 — Hiver 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francois_Dupont/Lhumour_le_rire_et_le_sourire_dans_LU">
+          <span class="pr-2">L'humour, le rire et le sourire dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La numérologie du _Livre d'Urantia_ est fidèle et constante à l'égard de certains nombres qui servent incontestablement de base à l'édifice cosmique tant aux plans matériels qu'aux plans spirituels. Tout semble construit autour des nombres 3, 7, 10 (7+3) et les multiples de ce dernier.
 
@@ -40,3 +64,27 @@ Par conséquent, la durée normale pour accéder au Paradis serait de 757575 ans
 Je tenais à livrer cette théorie à la sagacité de chacune et chacun...
 
 Robert Gallo
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Hubert_Gallet/Lart_de_vivre_selon_Jesus_et_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'art de vivre — selon Jésus et le livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-28-hiver-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 28 — Hiver 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francois_Dupont/Lhumour_le_rire_et_le_sourire_dans_LU">
+          <span class="pr-2">L'humour, le rire et le sourire dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

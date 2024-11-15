@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Simon Orsini<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Un_Voyage_Fantastique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un Voyage Fantastique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-93-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 93 — Mars 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Gallo/4000_Ans_De_Machiventa_Melchizedek">
+          <span class="pr-2">4000 Ans De Machiventa Melchizédek</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/053.jpg">
@@ -61,3 +85,27 @@ L'une des causes de la radio activité des atomes fracassés peut se corriger pa
 En conclusion il est important de dire que le salut pour chacun, consiste à spiritualiser sa conscience morale qui acquiert ainsi une valeur de survie. Quand, dans cet immense univers matériel on a la chance d'avoir un moi en conscience, refuser cette chance serait l'inconscience suprême et absolue.
 
 Simon Orsini
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Un_Voyage_Fantastique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un Voyage Fantastique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-93-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 93 — Mars 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Gallo/4000_Ans_De_Machiventa_Melchizedek">
+          <span class="pr-2">4000 Ans De Machiventa Melchizédek</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

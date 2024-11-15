@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Ade Awoyinka<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Rencontre_avec_Ade_Awoyinka">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rencontre avec Ade Awoyinka</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 76 — Décembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_Stephane_Nyasse/LU_au_Cameroun">
+          <span class="pr-2">Le Livre d'Urantia au Cameroun</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Quand je suis devenue une chrétienne nouveau-née dans les années soixantedix en Afrique, je fus élevée dans la peur de deux choses: aller dans le feu de l'enfer et rater la parousie. Il s'y ajoutait d'autres craintes en chemin telles que me souiller par diverses activités avec lesquelles je ne vais pas vous ennuyer, et aussi l'oppression démoniaque. Je refuse de craindre le prétendu pouvoir de la sorcellerie parce que je n'en comprends pas vraiment le mécanisme, mais je comprends bien les effets secondaires de la peur sur le mental d'une personne.
 
@@ -60,3 +84,27 @@ Espérence de vie: 2000 : 47 ans; 2016 : 52 ans; 2050 : 63 ans; 2100 : 72 ans
 Mortalité infantile d'enfant de moins de 5 ans en : 2016 : 18%
 
 Taux d'alphabétisation : 57% en 2005.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Rencontre_avec_Ade_Awoyinka">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rencontre avec Ade Awoyinka</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 76 — Décembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_Stephane_Nyasse/LU_au_Cameroun">
+          <span class="pr-2">Le Livre d'Urantia au Cameroun</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

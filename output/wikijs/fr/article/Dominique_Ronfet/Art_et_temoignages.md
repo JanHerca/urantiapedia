@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Dominique Ronfet<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georgia_Gecht/Le_Supreme_Dieu_le_Septuple_Forces_Energies_et_Controle_Universel_de_Pouvoir_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Suprême, Dieu le Septuple, Forces, Énergies et Contrôle Universel de Pouvoir: 100 Questions et Réponses (1)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-19-automne-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 19 — Automne 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bernard_Dugas/Coin_detente_Poeme">
+          <span class="pr-2">Coin détente Poème</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Une nouvelle rubrique pour vous inviter à faire partager à chacun une musique, un livre, une peinture etc. enfin toute expérience de type « artistique » qui éclairera de manière non intellectuelle un aspect de l'idéal de chacun, un moment dans son parcours, dans sa recherche de Dieu, de lui-même.
 
@@ -53,3 +77,27 @@ Cet effort de l'art pour exprimer l'indicible n'est-elle pas la plus haute forme
 Mais maintenant, c'est à vous.
 
 Dominique Ronfet
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georgia_Gecht/Le_Supreme_Dieu_le_Septuple_Forces_Energies_et_Controle_Universel_de_Pouvoir_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Suprême, Dieu le Septuple, Forces, Énergies et Contrôle Universel de Pouvoir: 100 Questions et Réponses (1)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-19-automne-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 19 — Automne 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bernard_Dugas/Coin_detente_Poeme">
+          <span class="pr-2">Coin détente Poème</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Chris Ragetly<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_Bourhis/Cooperation_avec_lAjusteur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cooperation avec l’Ajusteur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-9-printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 9 — Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anne_Marie_Ronfet/Les_trois_grandes_experiences_de_letre_humain">
+          <span class="pr-2">Les trois grandes experiences de l’etre humain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _(Cet article comporte trois parties)_
 
@@ -67,3 +91,27 @@ Les qualités du caractère de Jésus, telles que les douze apôtres les ont per
 _(Fin de la première partie)_
 
 Chris Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_Bourhis/Cooperation_avec_lAjusteur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cooperation avec l’Ajusteur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-9-printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 9 — Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anne_Marie_Ronfet/Les_trois_grandes_experiences_de_letre_humain">
+          <span class="pr-2">Les trois grandes experiences de l’etre humain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

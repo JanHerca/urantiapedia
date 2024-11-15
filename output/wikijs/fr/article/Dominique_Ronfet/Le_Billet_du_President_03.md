@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Dominique Ronfet<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/L_Eau_Vive_du_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Eau Vive du LU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-49-hiver-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 49 — Hiver 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Philippe_Dubath/Jean_Francois_et_l_hippocampe">
+          <span class="pr-2">Jean-François et l’hippocampe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Les lecteurs du _Livre d'Urantia_ représentent un ensemble composite et bigarré de caractères qui s'appuient sur cette révélation pour élever, synthétiser, et coordonner leurs propres croyances. Devons-nous rechercher l'unité intérieure dans la diversité extérieure ou la confortable conformité?
 
@@ -23,3 +47,27 @@ Par ailleurs, notre association sera en période d'élection, le Président, ain
 Au plaisir de vous y retrouver, en toute fraternité.
 
 Dominique Ronfet
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/L_Eau_Vive_du_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Eau Vive du LU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-49-hiver-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 49 — Hiver 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Philippe_Dubath/Jean_Francois_et_l_hippocampe">
+          <span class="pr-2">Jean-François et l’hippocampe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

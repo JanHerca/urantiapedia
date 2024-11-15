@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Claire Mylanus<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Le_Point_Dinard">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Point: Dinard</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-43-été-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 43 — Été 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Etude_Agondontaires">
+          <span class="pr-2">Etude: Agondontaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Cette fois ci, c'était au tour de notre belle région, la Bretagne !
 
@@ -49,3 +73,27 @@ Les repas furent de bonne qualité, le personnel très sympathique et serviable 
 A bientôt, à Paris !
 
 Claire Mylanus
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Le_Point_Dinard">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Point: Dinard</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-43-été-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 43 — Été 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Etude_Agondontaires">
+          <span class="pr-2">Etude: Agondontaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

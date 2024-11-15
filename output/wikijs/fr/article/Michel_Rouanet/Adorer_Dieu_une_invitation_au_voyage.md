@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Michel Rouanet<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Lhumain_et_son_double">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'humain et son double</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 38 — Hiver 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Mondange/Une_Experience_de_lecteur_une_experience_a_tirer">
+          <span class="pr-2">Une Expérience de lecteur, une experience a tirer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Pourquoi et comment adorer Dieu? Il peut parfois sembler difficile de répondre, simplement, à la question du pourquoi et surtout à celle du comment adorer le Père Universel.
 
@@ -59,3 +83,27 @@ L'âme en adoration est comme la feuille qui s'éclaire, se chauffe et grandit a
 Alors? Quand est-ce qu'on commence ?
 
 Michel R.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Lhumain_et_son_double">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'humain et son double</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 38 — Hiver 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Mondange/Une_Experience_de_lecteur_une_experience_a_tirer">
+          <span class="pr-2">Une Expérience de lecteur, une experience a tirer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

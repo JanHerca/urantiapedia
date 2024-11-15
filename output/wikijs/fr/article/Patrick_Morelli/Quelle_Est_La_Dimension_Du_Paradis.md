@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Patrick Morelli<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Les_Prophetes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Prophètes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-91-septembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 91 — Septembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Evasion_Terrestre">
+          <span class="pr-2">Évasion Terrestre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Patrick Morelli (France)_
 
@@ -61,3 +85,27 @@ En première conclusion, nous pouvons émettre l'hypothèse que la longueur du g
 Si nous retenons une vitesse moindre : 1/100 de la vitesse lumière soir 2998 km / seconde ; alors la longueur du premier circuit n'est plus que de 10 AL , le diamètre de 3,18 AL et le grand axe de l'Ile du Paradis estimé à la distance parcouru par la lumière en 18,9 jours, ce qui reste considérable lorsque l'on sait que le système solaire dans son entier fait 2 à 3 jours/ lumière de diamètre.
 
 En conclusion, dans la logique de cette approche, nous pouvons estimer que la longueur du grand axe du Paradis se situerait entre 0,05 et 0,5 année-lumière.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Les_Prophetes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Prophètes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-91-septembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 91 — Septembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Evasion_Terrestre">
+          <span class="pr-2">Évasion Terrestre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

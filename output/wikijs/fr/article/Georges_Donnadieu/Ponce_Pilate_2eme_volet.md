@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Georges Donnadieu<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_7">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Sept Réalités Fondamentales VII</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-63-été-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 63 — Été 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Naitre_d_esprit">
+          <span class="pr-2">Naître d'esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Ce second article va conforter quelques informations tirées de la « LÉGENDE DORÉE », à propos de Ponce Pilate — et données dans le LIEN nº 62 — avec des informations homologues tirées du Livre d'Urantia d'une part et de l'encyclopédie Larousse (1979) aux mots ***PILAT*** et ***PILATE***. Pour nombre de ses lecteurs, le Livre d'Urantia (LU), donne des informations au « top niveau » de ce qui peut actuellement être révélé aux Urantiens, en conformité avec la réalité divine. Rappelons que la LÉGENDE DORÉE (LD) a été écrite en Italie, au 13 ème siècle, par Jacques de Voragine, né en 1230 à VARAGGIO près de GÊNES, évêque de GENNES en 1292 et mort en 1298._
 
@@ -63,3 +87,27 @@ Nous terminons ce 2ème volet, au titre de divertissement-récréation pour les 
 _P.S. Même les 881 mètres d'altitude du fatidique Mont Garizim ont à voir avec le double carré Barlong: 881 = 8 + 8 + 1 = 17 = 1 + 7 = 8 =_ **4 + 4** !
 
 Georges Donnadieu
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_7">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Sept Réalités Fondamentales VII</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-63-été-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 63 — Été 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Naitre_d_esprit">
+          <span class="pr-2">Naître d'esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

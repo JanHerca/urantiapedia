@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Jean Annet<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Un_Univers_Sans_Big_Bang">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un Univers Sans Big-Bang</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-92-décembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 92 — Décembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/La_personnalite_2">
+          <span class="pr-2">La Personnalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En 2003, JeanMarie Chaise terminait, après 7 ans d'efforts, la traduction du _Livre d'Urantia_ en Espéranto.
 
@@ -87,3 +111,27 @@ Jean ANNET
 Le nombre d'espérantophones est difficile à évaluer. Les estimations varient entre cent mille et dix millions. Deux millions est le nombre le plus couramment repris, voire jusqu'à trois millions. Toutefois, on peut affirmer en 2015 qu'il y a 120 pays dans lesquels se trouvent des espérantophones.
 
 **L'Espérantie** (espéranto : Esperantujo) est le nom donné à la zone linguistique correspondant aux pays du monde où se trouvent des espérantophones, soit un total d'au moins 120 pays 1 du monde, même si elle n'a pas de forme politique2 ni de territoire dédié à la surface de la Terre ; de même on appelle « francophonie » l'ensemble des pays francophones. Par extension, l'Espérantie désigne également la culture générée par les millions d'espérantophones, ainsi que les lieux et institutions où est utilisée la langue.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Un_Univers_Sans_Big_Bang">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un Univers Sans Big-Bang</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-92-décembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 92 — Décembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/La_personnalite_2">
+          <span class="pr-2">La Personnalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

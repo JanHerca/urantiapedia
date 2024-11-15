@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Dolfo-Guzman<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-77-mars-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 77 — Mars 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Recherches_Sur_La_Personnalite">
+          <span class="pr-2">Recherches Sur La Personnalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jésus est, sans conteste, le personnage le plus important qui ait jamais paru dans l'histoire. Malik Charles (1) a dit:
 
@@ -133,3 +157,27 @@ LUCIS TUAE RADIUM. (un rayon de votre lumière)
 2. La 5ème révélation
 3. poète libanais 
 4. réformateur de l'église écossaise Les citations sont tirées du Livre d'Urantia
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-77-mars-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 77 — Mars 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Recherches_Sur_La_Personnalite">
+          <span class="pr-2">Recherches Sur La Personnalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

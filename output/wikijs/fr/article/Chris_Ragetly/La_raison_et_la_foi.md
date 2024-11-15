@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Chris Ragetly<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Devenir_ce_que_JE_SUIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Devenir ce que JE SUIS</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-32-hiver-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 32 — Hiver 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Jugement_hatif">
+          <span class="pr-2">Jugement hâtif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La raison, le raisonnement, est issue du mental. La foi, peut aussi bien se manifester sur le niveau mental que spirituel. «_...La raison crée la probabilité que la foi peut transformer en certitude morale, et même en expérience spirituelle..._ » ([LU 102:6.6](/fr/The_Urantia_Book/102#p6_6)). Cette fonction ou devrait-on dire cette possibilité qu'à la foi de transformer une probabilité (pourvu que celle-ci soit compatible avec les raisonnements divins de l'Ajusteur) en certitude morale ou même en expérience spirituelle, est un des canaux qui permet à notre expérience évolutionnaire spirituelle de progresser.
 
@@ -23,3 +47,27 @@ Mais, ne nous berçons pas trop d'illusions, les efforts que Dieu nous demandera
 «_...On peut connaître Dieu en tant que vérité, mais pour comprendre Dieu — pour l'expliquer — il faut explorer le fait de l'univers des univers..._ » ([LU 102:6.6](/fr/The_Urantia_Book/102#p6_6)) Cette phrase résume en peu de mots la grande difficulté que nous avons à expliquer Dieu une fois que nous le connaissons, ou que nous croyons le connaître. L'exploration de l'univers des univers est l'aventure des aventures, elle se réalise sur les trois niveaux finis évolutionnaires expérientiels (matériel, mental et spirituel) dans lesquels nous existons. À chaque expérience, nous participons à l'évolution de l'Être Suprême, donc à l'évolution du fini. Cette participation à l'évolution du niveau de suprématie nous permet de nous inscrire dans la citoyenneté cosmique, à nous rapprocher du Père un petit peu plus. Ainsi, à chaque nouveau pas nous sommes un peu plus aptes à décrire nos expériences pour la satisfaction et l'édification des personnes qui partagent nos convictions.
 
 Chris. M. Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Devenir_ce_que_JE_SUIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Devenir ce que JE SUIS</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-32-hiver-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 32 — Hiver 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Jugement_hatif">
+          <span class="pr-2">Jugement hâtif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Georges Michelson-Dupont<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Samuel_Ullman/Etre_Jeune">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Etre Jeune</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-52-automne-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 52 — Automne 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Elisabeth_Liswen_Delval/Ma_vie_au_Paradis">
+          <span class="pr-2">Ma vie au Paradis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Beaucoup de lecteurs débutants s'interrogent sur l'origine et la manière dont Le Livre d'Urantia est arrivé sur notre planète. Ces interrogations sont légitimes et nombres de documents ont été publiés sur le sujet. Certains de ces écrits mettent en doute la nature suprahumaine des fascicules ainsi que les faits et vérités qui y sont contenus. Pour autant, il n'en reste pas moins vrai que le lecteur doit évaluer pour lui-même et se faire une opinion personnelle de l'apport et des répercussions que ces enseignements apportent dans sa vie personnelle.
 
@@ -31,3 +55,27 @@ Sincèrement vôtre.
 E.L. Christensen, secrétaire.
 
 Georges Michelson-Dupont
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Samuel_Ullman/Etre_Jeune">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Etre Jeune</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-52-automne-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 52 — Automne 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Elisabeth_Liswen_Delval/Ma_vie_au_Paradis">
+          <span class="pr-2">Ma vie au Paradis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

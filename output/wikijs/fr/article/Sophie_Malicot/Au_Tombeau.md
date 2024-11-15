@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Sophie Malicot<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Relations_Entre_Materiel_Mental_Et_Esprit_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relations entre matériel, mental et esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-101-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 101 — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/Revelation_du_Moyen_Age">
+          <span class="pr-2">Révélation du Moyen Âge</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Sophie Malicot
 
@@ -81,4 +105,28 @@ En infinie gratitude, ses larmes inondées de soleil coulent et se mêlent à la
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/123.jpg">
 <figcaption>Peinture de David Guzman</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Relations_Entre_Materiel_Mental_Et_Esprit_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relations entre matériel, mental et esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-101-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 101 — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/Revelation_du_Moyen_Age">
+          <span class="pr-2">Révélation du Moyen Âge</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

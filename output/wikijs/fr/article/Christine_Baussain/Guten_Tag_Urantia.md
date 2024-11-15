@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Christine Baussain<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/L_Ego_et_le_Moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Ego et le Moi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-46-printemps-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 46 — Printemps 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Alain_Degoumois/Fais_toi">
+          <span class="pr-2">Fais-toi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Les 8 et 9 novembre 2008, à Francfort sur le Main, en Allemagne, a eu lieu la deuxième rencontre des lecteurs allemands du _Livre d'Urantia_.
 
@@ -33,3 +57,27 @@ Pour les germanistes intéressés à participer à la prochaine rencontre, celle
 Jawohl !
 
 Christine Baussain
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/L_Ego_et_le_Moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Ego et le Moi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-46-printemps-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 46 — Printemps 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Alain_Degoumois/Fais_toi">
+          <span class="pr-2">Fais-toi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

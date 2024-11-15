@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Georges Michelson Dupont<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Les_Aleas_D_une_Planete_Decimale">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Aléas D'une Planète Décimale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-98-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 98 — Juin 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/La_Terre_2">
+          <span class="pr-2">La Terre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Du 17 au 19 juin se tiendra en vidéoconférence le Symposium Scientifique 2022 organisé par la Fondation Urantia.
 
@@ -198,6 +222,31 @@ Urantia est une planète décimale sur laquelle des expérimentations ont été 
 
 Indubitablement, Urantia va devenir l'exemple type, la preuve effective de la miséricorde divine et du fonctionnement efficace du plan divin de perfection. Même plongée dans les plus profondes ténèbres spirituelles à cause du dévoiement de ses dirigeants, Urantia sera réhabilité, reconnectée et l'humanité attendra en son temps l'ère de lumière et de vie.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Les_Aleas_D_une_Planete_Decimale">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Aléas D'une Planète Décimale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-98-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 98 — Juin 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/La_Terre_2">
+          <span class="pr-2">La Terre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Karuna Leys<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_7b">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Sept Réalités Fondamentales VII</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-64-automne-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 64 — Automne 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chaz_Wesley/Eveille_a_la_plenitude_de_la_vie">
+          <span class="pr-2">Éveillé à la plénitude de la vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 L'aptitude d'abstraction (la raison) nous permet également d'imaginer des choses dans le **futur**, dans un temps qui n'existe pas encore ! C'est pourquoi, nous les hommes, nous pouvons être préoccupés par le sort des générations qui vont vivre après nous, et nous pouvons entreprendre des choses dont le résultat s'effectuera dans un temps lointain. Les animaux ne peuvent pas faire cela. Seul un être à qui est donné la raison, peut réfléchir sur quelque chose qui va se passer bien avant que cela se passe. Il peut imaginer différents scénarios et réfléchir sur les différents moyens pour atteindre son but. Il peut également réfléchir sur la valeur de ce but. Est-ce que le but a vraiment une valeur ? Est-ce que cela vaut la peine ? II peut donc réfléchir sur l'utilité. Est-ce que cela servira à quelque chose ? Quand un homme ne réfléchit pas sur le but et l'utilité des ses efforts, il vit au niveau des animaux.
 
@@ -31,3 +55,27 @@ Nous sommes tous des petits « je suis » issue de l'Unique **JE SUIS**. Il donn
 Quand notre enfant commence à exercer et à expérimenter sa volonté libre, son libre arbitre, en fait nous devrions être remplis d'égard et de respect au lieu d'être frustrés et impatients. Car à ce moment-là une partie de la nature de l'être divin est donnée à notre enfant. Cette prise de conscience de se trouver devant une réalité divine nous permet de jouer avec notre enfant, de manière intelligente et sereine, le jeu d'exercer sa volonté. Ainsi cette période dans l'éducation devient une période sacrée dans laquelle nous observons avec grande attention et curiosité comment la conscience-de-soi, son sentiment de "je », se révèle, et l'amène ensuite — à un moment donné — à vouloir faire du bien à quelqu'un. Ce moment-là c'est le signe pour les parents que la personnalité s'est maintenant 'installée' complètement. Notre enfant devient maintenant un être moral, un être unique. Il est unique, non seulement au niveau physique, car petit à petit la force motrice intérieure ainsi que les qualités uniques de sa personnalité deviendront visibles. Et plus tard, quand il s'engagera dans des relations complexes, il pourra s'imaginer ce qui est bien ou pas bien pour l'ensemble de plusieurs êtres humains, pour un groupe. Le plus grand bien pour le plus grand nombre, c'est ce que nous appelons l'éthique. Il apprend cela en premier lieu dans la famille. Dans la famille l'enfant devient d'abord un être moral et puis également un être éthique. Cette conscience éthique, quand elle se développe pleinement, peut même vouloir le bien pour l'humanité entière.
 
 Karuna Leys
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_7b">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Sept Réalités Fondamentales VII</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-64-automne-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 64 — Automne 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chaz_Wesley/Eveille_a_la_plenitude_de_la_vie">
+          <span class="pr-2">Éveillé à la plénitude de la vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

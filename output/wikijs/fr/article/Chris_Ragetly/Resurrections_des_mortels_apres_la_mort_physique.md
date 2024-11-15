@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Chris Ragetly<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Edito_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edito</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-68-automne-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 68 — Automne 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_19_Les_questions">
+          <span class="pr-2">Quiz Maxien n°19 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Pour les mortels, il existe plusieurs sortes de résurrections et techniques d'évasion terrestre, voici ce qu'en dit le Livre d'Urantia :
 
@@ -63,4 +87,28 @@ Chris Ragetly
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_01/197.jpg">
 <figcaption>Fig. 3. — string</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Edito_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edito</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-68-automne-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 68 — Automne 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_19_Les_questions">
+          <span class="pr-2">Quiz Maxien n°19 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

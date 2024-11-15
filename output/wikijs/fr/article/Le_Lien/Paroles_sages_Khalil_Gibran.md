@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_9">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Sept Réalités Fondamentales IX</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-66-printemps-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 66 — Printemps 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Le_LU_et_la_science">
+          <span class="pr-2">Le LU et la science</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La pensée est un oiseau d'espace qui dans la cage des mots saura peutêtre déployer les ailes, mais pas voler.
 
@@ -67,3 +91,27 @@ En amitié, toutes pensées, tous désirs, toutes attentes naissent sans parole 
 Les fleurs du printemps sont les rêves de l'hiver racontés, le matin, à la table des anges.
 
 Khalil Gibran
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_9">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Sept Réalités Fondamentales IX</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-66-printemps-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 66 — Printemps 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Le_LU_et_la_science">
+          <span class="pr-2">Le LU et la science</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

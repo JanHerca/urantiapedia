@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jean-Claude Romeuf<br>© 2005 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Explication_theorique_de_la_creation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Explication théorique de la création</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-34-été-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 34 — Été 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Chappuis/Pentecote_de_l_an_30">
+          <span class="pr-2">Pentecôte de l'an 30 : quarante ou cinquante jours après la Pâques ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Nous avons choisi de parler de Dieu l'Absolu car la compréhension toute relative que nous puissions en faire, fait appel aux concepts mentaux les plus difficiles du _Livre d'Urantia_. Nous avons conscience que le mental humain est limité et fini, mais, le but évolutionnaire, n'est-il pas d'atteindre les limites supérieures de la perfection? N'est-ce pas ce but même, que nous nous sommes fixé, qui nous permet d'expérimenter et d'actualiser dans le Suprême, notre divinité potentielle et imparfaite?
 
@@ -57,3 +81,27 @@ Ce Dieu de l'absoluité nous amène déjà, à l'hypothèse d'un Cosmos Infini d
 Dans ce cas, on assisterait à un cataclysme à l'intérieur des Absolus de Potentialité avec personnalisation possible de l'Absolu de Déité et de l'Absolu Universel. Quant à l'Absolu Non Qualifié, il deviendrait inutile car il aurait épuisé son pouvoir d'Univers. On peut alors émettre l'hypothèse que ses deux associés de toujours, devenues maintenant des Déités-Personnalités, le chargeraient d'autres fonctions !
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Explication_theorique_de_la_creation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Explication théorique de la création</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-34-été-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 34 — Été 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Chappuis/Pentecote_de_l_an_30">
+          <span class="pr-2">Pentecôte de l'an 30 : quarante ou cinquante jours après la Pâques ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

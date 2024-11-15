@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Jean Royer<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joseph_Servant/Le_Quatrieme_age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Quatrième age</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-21-printemps-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 21 — Printemps 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Liberte">
+          <span class="pr-2">Liberté</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Morosité, accablement, lamentations, plaintes, jérémiades sont quelques uns des maux dont semble affligée notre époque. _Le Livre d'Urantia_, lui, nous parle de joie. Comme toujours, et mieux que certains magasines, il positive. Le mot joie se trouve 154 fois alors que le mot tristesse ne se trouve que 31 fois.
 
@@ -61,3 +85,27 @@ Il eut été bien étonnant que les révélateurs qui savent bien que toute vert
 Quant à nous, nous ne devrions jamais oublier cette injonction de Jésus à la femme non dénommée : va ton chemin dans la joie et la liberté du royaume
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joseph_Servant/Le_Quatrieme_age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Quatrième age</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-21-printemps-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 21 — Printemps 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Liberte">
+          <span class="pr-2">Liberté</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

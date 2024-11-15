@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Jean-Claude Romeuf<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Le_Livre_et_ses_sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre et ses sources</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-42-printemps-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 42 — Printemps 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Samuel_Heine/Lessentiel">
+          <span class="pr-2">L'essentiel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le vent d'hiver est froid
 Ce soir,
@@ -56,3 +80,27 @@ Et sèmes-en au loin quand passe un météore;
 Je saurai ton chemin et t'aimerai encore.
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Le_Livre_et_ses_sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre et ses sources</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-42-printemps-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 42 — Printemps 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Samuel_Heine/Lessentiel">
+          <span class="pr-2">L'essentiel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

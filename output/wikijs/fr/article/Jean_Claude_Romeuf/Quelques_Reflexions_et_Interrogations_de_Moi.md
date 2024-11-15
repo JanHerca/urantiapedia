@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Jean-Claude Romeuf<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Castel/Lamelioration_biologique_de_lhumanite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'amélioration biologique de l'humanité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-40-automne-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 40 — Automne 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jacques_Dupont/Apres_la_mort_de_son_compagnon_de_vie">
+          <span class="pr-2">Après la mort de son compagnon de vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > « _La conscience de soi consiste à se rendre compte intellectuellement de l'actualité de la personnalité._ » [LU 16:8.6](/fr/The_Urantia_Book/16#p8_6)
 
@@ -43,3 +67,27 @@ A la page [LU 42:12.9](/fr/The_Urantia_Book/42#p12_9) un Puissant Messager nous 
 Jean-Claude Romeuf
 
 15 juillet 2007
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Castel/Lamelioration_biologique_de_lhumanite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'amélioration biologique de l'humanité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-40-automne-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 40 — Automne 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jacques_Dupont/Apres_la_mort_de_son_compagnon_de_vie">
+          <span class="pr-2">Après la mort de son compagnon de vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

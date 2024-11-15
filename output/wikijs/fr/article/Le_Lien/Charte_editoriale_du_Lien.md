@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Editorial_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-71-automne-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 71 — Automne 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Reunion_de_Neyliere">
+          <span class="pr-2">Réunion de Neylière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 DURANT l'Assemblée Générale tenue à Neylière en ce beau mois de juin de l'an de grâce 2015, il a été proposé et approuvé de reformuler la charte éditoriale de notre journal _le Lien_. Rappelons que _le Lien_ est édité trimestriellement depuis le mois de mars 1996, date de la création de notre association, en continuité de _La Lettre_ précédemment publiée par le C.E.R.D.H. dont notre association est une émanation (Voir Art. 1: Constitution des statuts). 
 
@@ -89,3 +113,27 @@ Le partage de points de vue enrichit la vie spirituelle de chacun tout en contri
 L'équipe du Lien vous souhaite de profitables moments de lecture et de réflexions.
 
 ***La rédaction***
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Editorial_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-71-automne-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 71 — Automne 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Reunion_de_Neyliere">
+          <span class="pr-2">Réunion de Neylière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

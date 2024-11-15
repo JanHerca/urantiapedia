@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Pasteur Louis Pernot<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Le_Bahaisme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Bahaïsme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_02_Les_questions">
+          <span class="pr-2">Quiz maxien n°2 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Que ta volonté soit faite sur la Terre comme au Ciel
 
@@ -72,3 +96,27 @@ On pourrait même alors réhabiliter la traduction habituelle que nous critiquio
 La suite de la demande dit elle-même le plus précisément possible ce que nous avions tout juste trouvé. Elle ajoute cependant une précision essentielle : : on peut en effet remarquer que la demande du Notre Père concernant ce mal qui pourrait nous arriver exprime une conviction bien particulière : il ne s'agit en aucun cas de demander qu'il ne nous arrive pas de mal, mais que Dieu nous en libère. L'action de Dieu n'est pas vue comme intervenant sur le mal lui-même, mais sur le croyant.
 
 Pasteur Louis Pernot
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Le_Bahaisme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Bahaïsme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_02_Les_questions">
+          <span class="pr-2">Quiz maxien n°2 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

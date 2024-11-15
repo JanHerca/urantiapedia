@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Anne-Marie Ronfet<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Breve_reflexion_sur_le_mental">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Brève réflexion sur le mental</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-18-été-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 18 — Été 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Verite_et_mensonge">
+          <span class="pr-2">Vérité et mensonge ou Des faits et de la fausseté</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Au cours de la lecture des fascicules, nous voyons vite que nous ne sommes pas les seuls à éprouver des émotions, que ce soit dans les superunivers, mais aussi dans l'univers central. Bien que nous vivions sur un mode mixte et instable entre nos instincts d'origine animale et nos aspirations spirituelles, d'autres êtres semblent éprouver des sentiments plus purs, des sentiments qui n'ont pour origine que la bonté. Un ardent désir semble parcourir le vaste univers, celui d'atteindre Dieu, celui de lui ressembler et de le servir.
 
@@ -75,3 +99,27 @@ Quoi qu'il en soit, les fascicules et notre travail personnel nous permettent de
 > _Les luttes spirituelles du temps et de l'espace concernent l'évolution de la maîtrise de l'esprit sur la matière par la médiation du mental (personnel)... L'évolution totale de l'ensemble du grand univers est une affaire d'unification par la personnalité, du mental contrôlant l'énergie, avec l'intellect coordonné par l'esprit ; elle sera révélée dans la pleine apparition du pouvoir toutpuissant du Suprême._ [LU 116:5.15](/fr/The_Urantia_Book/116#p5_15)
 
 Anne-Marie Ronfet
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Breve_reflexion_sur_le_mental">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Brève réflexion sur le mental</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-18-été-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 18 — Été 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Verite_et_mensonge">
+          <span class="pr-2">Vérité et mensonge ou Des faits et de la fausseté</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

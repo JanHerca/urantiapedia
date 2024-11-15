@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_Poeme_Du_Chat">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Poême Du Chat</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-103-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 103 — Septembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Resurrections_Dispensationnelles_Ages_Planetaires">
+          <span class="pr-2">Résurrections Dispensationnelles — Âges Planétaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > « La création évolutionnaire de cette âme immortelle résulte de trois facteurs, et non de deux. Ces trois antécédents de l'âme morontielle humaine sont les suivants:
 > « 1. Le mental humain et toutes les influences cosmiques qui le précèdent et qui agissent sur lui.
@@ -44,4 +68,28 @@ Ainsi, il le reprit pour le réintégrer à son troupeau, ayant satisfait les te
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/150.jpg">
 <figcaption>Le saeg n'est pas celui qui prêche le bien, mais celui qui le fait. Mocharrafoddin Saadí (1210-1291). Gulistan ou le jardin des roses.</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_Poeme_Du_Chat">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Poême Du Chat</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-103-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 103 — Septembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Resurrections_Dispensationnelles_Ages_Planetaires">
+          <span class="pr-2">Résurrections Dispensationnelles — Âges Planétaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Jean Royer<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Photos_du_21_10_2010_C_Eliane">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Photos du 21.10.2010 C° Eliane</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-52-automne-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 52 — Automne 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Mon_jardin">
+          <span class="pr-2">Mon jardin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La question de réincarnation dans le LU, à l'exception des spornagias (cfr [LU 46:7.5](/fr/The_Urantia_Book/46#p7_5)) : le mot apparaît 8 fois au singulier et 1 fois au pluriel (cfr [LU 46:7.4](/fr/The_Urantia_Book/46#p7_4); [LU 86:4.6](/fr/The_Urantia_Book/86#p4_6); [LU 88:1.4](/fr/The_Urantia_Book/88#p1_4); [LU 94:2.3](/fr/The_Urantia_Book/94#p2_3); [LU 164:3.4](/fr/The_Urantia_Book/164#p3_4) et [LU 94:2.6](/fr/The_Urantia_Book/94#p2_6)), la notion est qualifiée d'absurde et de débilitante. Si les Cent de Caligastia sont bien en quelque sorte réincarnés, aucun d'eux ne vient d'Urantia et sont de plus des surhommes qui ont abandonné leur Ajusteur sur Jérusem. On pourrait aussi dire qu'Adam et Ève, Fils et Fille Matériels sont réincarnés, mais eux aussi venaient de Jérusem et ils n'avaient pas d'Ajusteur, du moins jusqu'après la défaillance. (cfr [LU 76:5.2](/fr/The_Urantia_Book/76#p5_2))
 
@@ -25,3 +49,27 @@ La seule exception que nous ayons est celle de l'Ajusteur de Machiventa Melchiz�
 **La personnalité est unique.** Nous ne savons pas comment Dieu choisit la personnalité qu'il va donner à chacun de ses enfants, nous savons seulement qu'elle est unique et qu'elle va survivre avec l'individu ou, si l'individu ne survit pas, intégrer l'Être Suprême. . Chaque personnalité étant unique elle ne peut logiquement pas être conférée à un autre individu. Pensons qu'un individu est le fruit de la rencontre de gênes spécifiques de deux autres individus.
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Photos_du_21_10_2010_C_Eliane">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Photos du 21.10.2010 C° Eliane</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-52-automne-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 52 — Automne 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Mon_jardin">
+          <span class="pr-2">Mon jardin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

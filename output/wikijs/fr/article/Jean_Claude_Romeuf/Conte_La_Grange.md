@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Jean-Claude Romeuf<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Petite_reflexion_sur_la_puissance_daimer_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Petite réflexion sur la puissance d'aimer (1ère partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 41 — Hiver 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Johanna_Beukers/Rencontre_dautomne_de_lAFLLU_a_AIX_LES_BAINS">
+          <span class="pr-2">Rencontre d'automne de l'AFLLU à AIX-LES-BAINS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Les faits_. En bas coulait une rivière. Him, pour s'être maintes fois baigné sous les cascades, la connaissait bien. Ses gours étaient remplis de poissons exotiques, les mêmes poissons multicolores qui peuplent les atolls des îles tropicales. Bien souvent, il avait été étonné de pouvoir respirer sous l'eau.
 
@@ -58,3 +82,27 @@ Si le Paradis n'avait pas le pouvoir de rencontrer l'espace, s'il était aussi �
 
 Jean-Claude Romeuf
 02 décembre 2007
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Petite_reflexion_sur_la_puissance_daimer_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Petite réflexion sur la puissance d'aimer (1ère partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 41 — Hiver 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Johanna_Beukers/Rencontre_dautomne_de_lAFLLU_a_AIX_LES_BAINS">
+          <span class="pr-2">Rencontre d'automne de l'AFLLU à AIX-LES-BAINS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

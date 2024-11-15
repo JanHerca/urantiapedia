@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Max Masotti<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Murielle_Duchene/Rencontre_du_21_02_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rencontre du 21.02.09</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-47-été-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 47 — Été 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Helene_Guisan/Du_Verbe">
+          <span class="pr-2">Du Verbe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ***Tolérance*** : Du latin tolerare, supporter. Disposition à admettre chez les autres des manières de penser, d'agir, des sentiments différents des nôtres. Dans la vie sociale, la vertu la plus utile est la tolérance. 
 
@@ -80,3 +104,27 @@ Et que lisons-nous au sujet de la tolérance ?
 <br style="clear:both;"/>
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Murielle_Duchene/Rencontre_du_21_02_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rencontre du 21.02.09</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-47-été-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 47 — Été 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Helene_Guisan/Du_Verbe">
+          <span class="pr-2">Du Verbe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

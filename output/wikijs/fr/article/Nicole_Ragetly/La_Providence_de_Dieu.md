@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Nicole Ragetly<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Si">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Si...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-24-hiver-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 24 — Hiver 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Reveil_soudain">
+          <span class="pr-2">Réveil soudain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Beaucoup d'Urantiens se sont mépris sur la Providence de Dieu. Il y a en fait un plan providentiel divin pour notre planète. La Providence de Dieu se traduit en actions combinées des êtres célestes et des esprits divins, qui, en harmonie avec la loi cosmique, travaillent sans cesse pour l'honneur de Dieu et le progrès spirituel de ses enfants de l'univers.
 
@@ -59,3 +83,27 @@ La Providence est en partie le super contrôle du Suprême inachevé manifesté 
 Lorsque nous prions pour une intervention providentielle, la réponse à cette prière se trouve souvent dans nos changements d'attitude vis à vis de l'existence. La Providence n'est ni primesautière, ni fantasque ni magique. Elle est la lente émergence du Tout Puissant Souverain des univers finis, dont les créatures en évolution peuvent occasionnellement détecter la progression. La Providence est la marche certaine des personnalités du temps et des galaxies de l'espace vers les buts de l'éternité, qui sont d'abord le Suprême, puis l'Ultime et peut-être l'Absolu. Nous pensons qu'il existe la même Providence dans l'infinité, et c'est la volonté, les actions et le but de la Trinité du Paradis de motiver le panorama cosmique d'univers en univers.
 
 Nicole Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Si">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Si...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-24-hiver-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 24 — Hiver 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Reveil_soudain">
+          <span class="pr-2">Réveil soudain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

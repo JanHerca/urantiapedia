@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Cyril Causette<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Recherches_Sur_La_Personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Recherches Sur La Personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-77-mars-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 77 — Mars 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_Stephane_Nyasse/De_La_Priere_Primitive_A_La_Priere_Ethique">
+          <span class="pr-2">De La Prière Primitive À La Prière Éthique : mon expérience personnelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 On peut comparer le chemin de la croissance spirituelle à ces cinq fils en âge de quitter le foyer familial et voulant construire leur maison.
 
@@ -26,3 +50,27 @@ Le quatrième construisit une maison de bonne qualité mais toute petite. Par la
 
 
 **Cyril Causette**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Recherches_Sur_La_Personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Recherches Sur La Personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-77-mars-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 77 — Mars 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_Stephane_Nyasse/De_La_Priere_Primitive_A_La_Priere_Ethique">
+          <span class="pr-2">De La Prière Primitive À La Prière Éthique : mon expérience personnelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

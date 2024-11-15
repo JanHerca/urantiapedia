@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jean Royer<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Double_nature">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Double nature</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-37-automne-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 37 — Automne 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Samuel_Heine/La_Foi">
+          <span class="pr-2">« La Foi »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Pourquoi le Livre d'Urantia est-il apparu dans les années 1934 et peutêtre aussi est-il apparu à Chicago? Une réponse possible se trouve dans les faits suivants.
 
@@ -43,3 +67,27 @@ Le Livre d'Urantia rappelle souvent le principe de raisonnement par niveaux. Le 
 Il faudrait une étude sérieuse du « Mental et la santé psychique » (1933) de Korzybski pour se rendre compte que l'évolution des mentalités, au moins chez les chercheurs du 20^ème^ siècle, était une condition sine qua non de la parution du livre. Ceci explique donc peut-être aussi en partie pourquoi il a fallu attendre cette époque pour avoir une révélation préconisée depuis plusieurs siècles par nos amis invisibles.
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Double_nature">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Double nature</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-37-automne-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 37 — Automne 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Samuel_Heine/La_Foi">
+          <span class="pr-2">« La Foi »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

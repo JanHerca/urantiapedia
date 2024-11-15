@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Luc Lachance<br>© 1997 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/George_Michelson_Dupont/La_justice_americaine_en_faveur_du_copyright">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La justice americaine se prononce en appel en faveur du copyright</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-4-été-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 4 — Été 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Deite_et_divinite">
+          <span class="pr-2">Déité et divinité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Est-ce qu'il y a une survie après la mort ?
 
@@ -40,3 +64,27 @@ Quel contraste avec les âges antérieurs où les mortels devaient livrer leurs 
 L'esprit qui imprègne les spectateurs entourant l'être cher sur le point de partir ressemble à celui d'amis et de parents joyeux qui assisteraient aux examens de diplôme d'un candidat de leur groupe, ou qui se réuniraient pour être témoins de l'octroi d'un grand honneur à l'un des leurs. Il serait certainement avantageux que les humains moins évolués d'un monde désordonné et arriéré comme celui de notre planète, apprennent quelque peu à considérer la mort naturelle avec la même sérénité, sinon la même assurance joyeuse.
 
 Luc Lachance
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/George_Michelson_Dupont/La_justice_americaine_en_faveur_du_copyright">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La justice americaine se prononce en appel en faveur du copyright</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-4-été-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 4 — Été 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Deite_et_divinite">
+          <span class="pr-2">Déité et divinité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

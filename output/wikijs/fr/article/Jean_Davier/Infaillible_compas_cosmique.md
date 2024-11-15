@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Jean Davier<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Petite_histoire_a_propos_de_la_personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Petite histoire à propos de la personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-été-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Été 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Reflexion_Ils_nous_disent">
+          <span class="pr-2">Reflexion : Ils nous disent...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Nous avons lu et apprécié l'article de Jacques Tétrault au numéro 100 de « Réflectivité » et intitulé « priorité». Ce texte est fondamental, il se révèle plus qu'une étude ponctuelle sur un sujet souvent vite oublié ou devenu secondaire.
 
@@ -31,3 +55,27 @@ Notre vie est alternative entre semailles et moisson ; travaillons intensément 
 \* _(Cette phrase est empruntée à une correspondance de MG Mayey dont nous apprécions beaucoup l'expérience psychologique)_.
 
 J. Davier
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Petite_histoire_a_propos_de_la_personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Petite histoire à propos de la personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-été-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Été 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Reflexion_Ils_nous_disent">
+          <span class="pr-2">Reflexion : Ils nous disent...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

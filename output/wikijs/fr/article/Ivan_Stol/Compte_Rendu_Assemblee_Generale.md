@@ -9,6 +9,27 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Ivan Stol<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Khatukhira_Bernard/Conference_Urantia_En_Ouganda_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence Urantia En Ouganda 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-100-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 100 — Décembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 29-10-2022
 
@@ -128,3 +149,24 @@ Total : 2770.00 euros A reverser à la Fondation
 - A reverser à l'AUI : Dons 2020: 170.00 + 162.00 (10 \% coti AFLLU ) = + 332.00
 - A reverser à l'AUI : Dons 2021: 40.00 + 124.00 (10 \% coti AFLLU ) = + 164.00
 Total : 1921.00 euros A reverser à l'AUI (le 23/05/2022 1926.69 euros ont été reversé frais Bancaires inclus)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Khatukhira_Bernard/Conference_Urantia_En_Ouganda_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence Urantia En Ouganda 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-100-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 100 — Décembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

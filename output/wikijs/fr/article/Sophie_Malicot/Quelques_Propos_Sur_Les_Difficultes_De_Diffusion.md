@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Sophie Malicot<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pascal_Coulombe/Retour_D_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Retour D'expérience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-103-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 103 — Septembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_Poeme_Du_Chat">
+          <span class="pr-2">Le Poême Du Chat</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Sophie Malicot_
 
@@ -97,3 +121,27 @@ Ces questions, et tant d'autres, sont des sujets que nous côtoyons quotidiennem
 Progressivement, ces nouveaux concepts se répandront, et seront reconnus dans le Livre lorsqu'ils auront été enfouis, préparés, diffusés au préalable, de façon plus ténue, légère, sensible.
 
 **La graine plantée en hiver attend lété pour fructifier.**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pascal_Coulombe/Retour_D_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Retour D'expérience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-103-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 103 — Septembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_Poeme_Du_Chat">
+          <span class="pr-2">Le Poême Du Chat</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Reunion_de_Neyliere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion de Neylière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-71-automne-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 71 — Automne 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Cris_Ragetly/L_inconscient_et_Le_Superconscient">
+          <span class="pr-2">L'inconscient et Le Superconscient</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_02/005.jpg">
@@ -181,3 +205,27 @@ BILAN AU 31/12/2014
 | Compte bancaire | 11201€ | A REVERSER FONDATION / AUI | 120€ |
 | Placements | 9071€ |  |  |
 | TOTAL ACTIF | 20272€ | TOTAL PASSIF | 20272€ |
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Reunion_de_Neyliere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion de Neylière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-71-automne-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 71 — Automne 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Cris_Ragetly/L_inconscient_et_Le_Superconscient">
+          <span class="pr-2">L'inconscient et Le Superconscient</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

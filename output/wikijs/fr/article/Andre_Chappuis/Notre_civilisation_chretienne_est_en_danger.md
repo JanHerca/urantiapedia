@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 André Chappuis<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Priere_du_Matin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prière ... du Matin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-62-printemps-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 62 — Printemps 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_13_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°13 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Le texte qui suit a été composé pour être lu à une assemblée où se retrouveront des paroissiens de l'Église Évangélique Réformée Vaudoise suite à l'adoption par son Conseil synodal et son Synode du principe de préparer un rite de bénédiction pour les couples de même sexe._
 
@@ -47,3 +71,27 @@ Il est horrible de vivre au milieu de cette humanité démente et d'assister, im
 Une civilisation qui s'avère incapable de résoudre les problèmes que suscite son fonctionnement est une civilisation décadente. | _Internet. Aimé Césaire, 1ère phrase de Discours sur le colonialisme, Editions PRÊSENCE AFRICAIN, Paris 1955. Les colonisateurs blancs sont des dominateurs qui considèrent que les autres races doivent être asservies._
 
 André Chappuis
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Priere_du_Matin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prière ... du Matin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-62-printemps-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 62 — Printemps 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_13_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°13 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

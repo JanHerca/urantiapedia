@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Georges Donnadieu<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Sept Réalités Fondamentales VI</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-62-printemps-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 62 — Printemps 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anatole_France/A_la_lumiere">
+          <span class="pr-2">A la lumière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jésus qui est interne à l'école Saint Philippe, rentre à Nazareth avec son bulletin du 2ème trimestre.
 
@@ -39,3 +63,27 @@ Nom de l'élève : Jésus de Nazareth
 Joseph dit que vraiment ça ne peut durer: « Eh bien!Mon petit Jésus, tu peux faire une croix sur tes vacances! »
 
 Georges Donnadieu
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Sept Réalités Fondamentales VI</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-62-printemps-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 62 — Printemps 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anatole_France/A_la_lumiere">
+          <span class="pr-2">A la lumière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Henry Begemann<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/Linvitee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'invité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-44-automne-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 44 — Automne 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eileen_Caddy/Paroles_de_Vie">
+          <span class="pr-2">Paroles de Vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Wassenaar, Pays Bas, « The URANTIAN Journal », « The URANTIA Brotherhood », été 1988 En cherchant parmi les religions différentes aux Pays Bas, Henry Begemann trouva Le Livre d'Urantia au moment où il prenait sa retraite après une carrière dans l'assurance. Se rendant compte de son importance, il commença immédiatement la traduction en hollandais du livre. Sa consécration l'inspira à faciliter l'organisation de groupes d'étude en tant que représentant européen de la Fondation Urantia. Il servit au Conseil Général au sein de la Fraternité (Brotherhood) avant sa mort en 1990._
 
@@ -103,3 +127,27 @@ Il y a tant de choses que nous pouvons faire pour la quatrième phase du royaume
 De cette façon et de beaucoup d'autres nous pourrions nous préparer pour le « prochain âge ». Et ainsi nous coopérons avec nos supérieurs. Si sincèrement nous essayons de réaliser quels sont les changements qui arriveront, cela apportera d'amples opportunités à une pensée constructive. Ce dont nous avons besoin est d'une clairvoyance spirituelle et d'une conscience de l'univers, (qui ne vient qu'après la conscience de Dieu). Mais nous pourrions commencer avec la conscience du mental de l'univers, la volonté de triompher des préjugés de l'inertie et du manque d'imagination. Du manque de croyance dans ce qui nous a déjà été révélé des plans de notre Maître. Dieu et les hommes ont besoin de l'un et
 
 CRM
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gaetan_Charland/Linvitee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'invité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-44-automne-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 44 — Automne 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eileen_Caddy/Paroles_de_Vie">
+          <span class="pr-2">Paroles de Vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

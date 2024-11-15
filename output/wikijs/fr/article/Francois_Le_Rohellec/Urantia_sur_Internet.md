@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 François Le Rohellec<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anne_Marie_Ronfet/Quand_un_peu_de_paix_descend_sur_nous">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quand un peu de paix descend sur nous</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-été-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Été 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **<ins>Information sur le site</ins>**
 
@@ -42,3 +63,24 @@ Son ouverture publique
 Le site francophone n'est pas terminé mais nous envisageons, Georges et moi même, de l'ouvrir au public dès la fin du mois de juillet. Son adresse est : http://www.urantia.org//users/F/France/frn_indx.htm.
 
 François Le Rohellec
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anne_Marie_Ronfet/Quand_un_peu_de_paix_descend_sur_nous">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quand un peu de paix descend sur nous</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-été-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Été 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

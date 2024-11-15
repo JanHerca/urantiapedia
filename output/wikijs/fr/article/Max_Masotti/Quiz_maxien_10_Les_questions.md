@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Max Masotti<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Estime_de_soi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estime de soi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-59-été-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 59 — Été 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_3">
+          <span class="pr-2">Les Sept Réalités Fondamentales (ce qui est donné) partie III</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Superunivers**
 
@@ -45,3 +69,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 19. Jésus abhorrait l'idée des représailles, et celle d'accepter passivement d'être simplement victime des injustices. À cette occasion, il enseigna à ses apôtres trois manières de lutter contre le mal et de lui résister. Vous souvenez -vous de ces 3 méthodes ?
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Estime_de_soi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estime de soi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-59-été-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 59 — Été 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_3">
+          <span class="pr-2">Les Sept Réalités Fondamentales (ce qui est donné) partie III</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

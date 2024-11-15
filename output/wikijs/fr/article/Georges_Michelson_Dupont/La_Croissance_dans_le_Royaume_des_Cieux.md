@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Georges Michelson-Dupont<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Havona_et_le_Paradis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Havona et le Paradis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-87-septembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 87 — Septembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/Etude_Sur_Les_Anges_Gardiens_2">
+          <span class="pr-2">Étude Sur Les Anges Gardiens</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Georges Michelson-Dupont
 
@@ -223,3 +247,27 @@ Adorer c'est nous connecter au grand circuit d'Amour instauré par le Père Univ
 Pour conclure, nous voyons donc que Dieu a pourvu à tout ce qui est nécessaire à l'être humain pour qu'il puisse croitre spirituellement. Il ne reste plus à l'homme qu'à s'éveiller et à vouloir.
 
 > « Quand un homme consacre sa volonté à faire la volonté du Père, quand un homme donne à Dieu tout ce qu'il a, alors Dieu fait de cet homme plus qu'il n'est. » [LU 117:4.14](/fr/The_Urantia_Book/117#p4_14)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Havona_et_le_Paradis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Havona et le Paradis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-87-septembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 87 — Septembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/Etude_Sur_Les_Anges_Gardiens_2">
+          <span class="pr-2">Étude Sur Les Anges Gardiens</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

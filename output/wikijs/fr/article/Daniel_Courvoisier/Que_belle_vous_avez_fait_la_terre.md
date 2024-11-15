@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Daniel Courvoisier<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eileen_Caddy/Paroles_de_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paroles de Vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-44-automne-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 44 — Automne 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Yolanda_Silva_Solano/Molecules_messageres">
+          <span class="pr-2">Molécules messagères</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <p style="text-align:center;">
 Terre de tendresse<br>
@@ -51,3 +75,27 @@ En sa carrière.<br>
 </p>
 
 Daniel Courvoisier
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eileen_Caddy/Paroles_de_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paroles de Vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-44-automne-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 44 — Automne 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Yolanda_Silva_Solano/Molecules_messageres">
+          <span class="pr-2">Molécules messagères</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

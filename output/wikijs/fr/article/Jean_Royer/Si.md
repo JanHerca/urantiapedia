@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Jean Royer<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/La_Personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-24-hiver-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 24 — Hiver 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nicole_Ragetly/La_Providence_de_Dieu">
+          <span class="pr-2">La Providence de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _[Avertissement : Cette réflexion ne saurait être considérée comme une attaque de la Fondation, mais plutôt comme un regret historique allant dans le sens de la remarque faite en 1942 par la commission de révélation à la commission de contact qui disait : Vous n'en avez pas fait assez pour protéger votre nom...] Jean Royer_
 
@@ -19,3 +43,27 @@ Avant le premier congrès espérantiste qui devait se tenir à Boulogne sur Mer 
 Mais on ne refait pas l'histoire, n'est-ce pas ?
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/La_Personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-24-hiver-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 24 — Hiver 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nicole_Ragetly/La_Providence_de_Dieu">
+          <span class="pr-2">La Providence de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

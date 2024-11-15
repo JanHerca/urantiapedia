@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Moustapha NDiaye<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Fantaisie_Sur_Un_Theme_Majeur_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fantaisie Sur Un Thème Majeur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-101-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 101 — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eugene_Asidao/Ministere_Aux_Philippines">
+          <span class="pr-2">Ministère Aux Philippines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Moustapha K. NDIAYE (pour le GSDP)
 
@@ -55,4 +79,28 @@ Le bilan des activités du GSDP, disponible dans le rapport d'activités 2022 se
 <figure id="Figure_11" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/130.jpg">
 <figcaption>Réunion Plénière Zoom du 15 janvier 2023 des femmes et des jeunes.</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Fantaisie_Sur_Un_Theme_Majeur_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fantaisie Sur Un Thème Majeur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-101-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 101 — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eugene_Asidao/Ministere_Aux_Philippines">
+          <span class="pr-2">Ministère Aux Philippines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

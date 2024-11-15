@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Jeanmarie Chaise<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Davier/Dieu_existe_t_il">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu existe-t-il ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-13-printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 13 — Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 « What would Jesus do ?» est le titre d'un bestseller écrit par Charles M. Sheldon, qui répond à la question vitale « What does it really mean to be a Christian ?» et que l'on trouve à peu près partout aux Etats-Unis. Naturellement ici cette petite mais primordiale interrogation est à envisager pour nous sous l'éclairage de notre chère Révélation et non pas selon les concepts devenus traditionnels de nos cultures actuelles occidentales.
 
@@ -67,3 +88,24 @@ Tout ceci nous est amplement expliqué dans le Livre d'Urantia, c'est pourquoi, 
 Voilà ce que j’avais à dire pour répondre à l'invite de Christine Baussain. Le désir de communier ensemble nous est commun à tous, et chacun d'entre nous a à trouver par lui-même ce qu'il doit en être pour lui-même de cette communion qu'il est porté à tant désirer au sortir d'une première lecture du _Livre d'Urantia_. En toutes circonstances, ne devrions-nous pas toujours nous poser la question: « What would Jesus do ?» Avec Christine, donc, j'invite d'autres lecteurs à faire part de leurs réflexions sur ce sujet récurrent et propre à tout lecteur.
 
 Jeanmarie Chaise
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Davier/Dieu_existe_t_il">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu existe-t-il ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-13-printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 13 — Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

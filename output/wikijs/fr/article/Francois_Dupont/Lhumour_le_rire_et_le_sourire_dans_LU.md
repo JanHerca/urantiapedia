@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 François Dupont<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Gallo/Le_Facteur_100_ou_757575_ans_separent_du_Paradis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Facteur 100 ou les 757 575 ans qui nous séparent (peut être) du Paradis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-28-hiver-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 28 — Hiver 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_et_Nicole_Ragetly/Compte_rendu_de_la_reunion_dArmeau">
+          <span class="pr-2">Compte-rendu de la réunion d'Armeau :novembre 2003</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Quelques notes sur le séminaire du 21/23 novembre) à Neuville sur Loin (Armeau)_
 
@@ -71,3 +95,27 @@ Bob Slagle a pensé devoir en ajouter 3. Les voici :
 Voici une triple affirmation selon les modèles du L.U. qui peut servir de fils conducteur pour notre art de vivre: le vrai humour est toujours humain, pardonne toujours et se montre toujours compréhensif à l'égard de ses voisins, amis, connaissances et concitoyens terrestres et extra planétaires!
 
 François Dupont
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Gallo/Le_Facteur_100_ou_757575_ans_separent_du_Paradis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Facteur 100 ou les 757 575 ans qui nous séparent (peut être) du Paradis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-28-hiver-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 28 — Hiver 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_et_Nicole_Ragetly/Compte_rendu_de_la_reunion_dArmeau">
+          <span class="pr-2">Compte-rendu de la réunion d'Armeau :novembre 2003</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Thierry Lepage<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Lebel/Rentrer_chez_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rentrer chez Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-81-mars-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 81 — Mars 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/A_toi_Pere_Universel_A_toi_Mere_Supreme">
+          <span class="pr-2">À toi, Père Universel, À toi Mère Suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Thierry Lepage
 
@@ -59,3 +83,27 @@ Je me consacre à aimer et à servir le Père.
 Je me consacre à aimer et servir mes frères.
 
 Je me consacre à l'établissement du Royaume des Cieux sur terre.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Lebel/Rentrer_chez_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rentrer chez Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-81-mars-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 81 — Mars 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/A_toi_Pere_Universel_A_toi_Mere_Supreme">
+          <span class="pr-2">À toi, Père Universel, À toi Mère Suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

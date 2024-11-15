@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jean-Claude Romeuf<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Samuel_Heine/La_Foi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« La Foi »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-37-automne-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 37 — Automne 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Adolfo_Guzman/Quand_il_passait">
+          <span class="pr-2">Quand il passait</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Il a fallu des millions et des millions d'années d'évolution, pour obtenir une créature aussi belle que moi! Je ne suis pas parfait, je le sais, mais j'y travaille! Depuis que les Porteurs de Vie ont fait le væu de ne plus interférer sur le cours de l'évolution organique de ma planète, je suis responsable de ma destinée. En ce début du $XXI^º$ siècle, il me semble que je suis en train de prendre conscience que ma destinée et celle de l'humanité tout entière se trouvent entre mes mains !
 
@@ -46,3 +70,27 @@ Vous qui êtes déjà au Ciel, vous, toutes les créatures célestes supérieure
 Admirez et protégez en même temps, le petit être que je suis, se débattant dans les incertitudes de ma planète. Admirez-moi, moi qui combats sans cesse pour obtenir mon pain quotidien, c'est à dire ma nourriture physique, mentale et spirituelle, au milieu des misères de la vie planétaire et du mal apparent. Je ne cèderai jamais au désespoir et à la destruction, car je sais que là-haut, vous m'attendez et me tendez la main! Je sais qu'un jour, je confierai les clefs de mon bateau à mon copilote, l'ange gardien, et qu'il me fera accoster sans heurts sur les rives de la mer de cristal, exactement à l'endroit où vous m'attendez. Je sais que là-haut réside mon Espérance. Je sais que là-haut, l'Amour m'attend au milieu de vous!
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Samuel_Heine/La_Foi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« La Foi »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-37-automne-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 37 — Automne 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Adolfo_Guzman/Quand_il_passait">
+          <span class="pr-2">Quand il passait</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

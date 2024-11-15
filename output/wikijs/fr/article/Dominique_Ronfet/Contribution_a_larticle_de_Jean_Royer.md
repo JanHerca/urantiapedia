@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Dominique Ronfet<br>© 1998 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/En_attendant_la_resurrection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En attendant la résurrection</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-6-été-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 6 — Été 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **1) — Point commun entre Frandalanks et Ajusteurs**
 
@@ -58,3 +79,24 @@ Mais revenons déjà à nos incohérences. Il y en a sans doute de plus délicat
 
 Dominique Ronfet
 Dominique.Ronfet@hol.fr
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/En_attendant_la_resurrection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En attendant la résurrection</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-6-été-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 6 — Été 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

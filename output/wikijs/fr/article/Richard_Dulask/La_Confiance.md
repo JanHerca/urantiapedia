@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Richard Dulask<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/La_Neyliere_2012">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Neylière 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-59-été-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 59 — Été 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Le_Souffle_de_Dieu">
+          <span class="pr-2">Le Souffle de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **La confiance : notre arme contre l'inquiétude**
 
@@ -36,3 +60,27 @@ Faisons-en l'expérience. Mettons-en Dieu toute notre confiance et nous verrons 
 _La confiance : notre arme contre l'inquiétude, lettre d'Unity, (UNITY SCHOOL OF CHRISTIANITY, Unity Village, Missouri 64063 USA)_
 
 Richard Dulask
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/La_Neyliere_2012">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Neylière 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-59-été-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 59 — Été 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Le_Souffle_de_Dieu">
+          <span class="pr-2">Le Souffle de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

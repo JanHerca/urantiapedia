@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Jean Yves Vigneron<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/003">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 3 — Hiver 1996 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-3-hiver-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 3 — Hiver 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jacques_Dupont/La_personnalite">
+          <span class="pr-2">La Personnalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dessins réalisés par _Jean Yves Vigneron_ à laide du logiciel « Paint » de Windows&reg; — (Textes tirés du Livre d'URANTIA) (Suite de l'article paru dans Le Lien Nº 2 )
 
@@ -113,3 +137,27 @@ _(suite Lien Urantien Nº 4 — les sept superunivers)_
 
 - [Précédent dans cette série](/fr/article/Jean_Yves_Vigneron/Conception_artistique_du_Maitre_Univers)
 - [Prochain article de cette série](/fr/article/Jean_Yves_Vigneron/Conception_artistique_du_Maitre_Univers_3)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/003">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 3 — Hiver 1996 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-3-hiver-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 3 — Hiver 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jacques_Dupont/La_personnalite">
+          <span class="pr-2">La Personnalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

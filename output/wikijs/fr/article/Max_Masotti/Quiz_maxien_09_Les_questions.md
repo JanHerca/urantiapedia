@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Max Masotti<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sheila_Keenelund/Philosophie_Concepts_fondamentaux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Philosophie Concepts fondamentaux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-58-printemps-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 58 — Printemps 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Scoop_artistique_Interpretation_libre_Adam_Eve">
+          <span class="pr-2">Scoop artistique Interprétation libre «Adam-Ève»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Superunivers**
 
@@ -41,3 +65,28 @@ dateCreated: 2024-09-29T14:02:03.086Z
 18. Jésus donna la vue à Josias à la piscine de Siloé mais, à Jéricho, il guérit un autre aveugle. Quel était son nom ?
 
 Max Masotti
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sheila_Keenelund/Philosophie_Concepts_fondamentaux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Philosophie Concepts fondamentaux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-58-printemps-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 58 — Printemps 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Scoop_artistique_Interpretation_libre_Adam_Eve">
+          <span class="pr-2">Scoop artistique Interprétation libre «Adam-Ève»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

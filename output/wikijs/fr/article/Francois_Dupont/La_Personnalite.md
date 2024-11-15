@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 François Dupont<br>© 1997 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Deite_et_divinite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Déité et divinité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-4-été-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 4 — Été 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Suprematie">
+          <span class="pr-2">Suprématie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La réflexion suivante a pour but d'éclairer le fonctionnement de la personnalité au niveau des différentes réalités cosmiques, universelles et divines. L'article de Jacques Dupont nous offre un large aperçu des caractéristiques de la personnalité.
 
@@ -118,6 +142,31 @@ Entendu le caractère ardu de cette matière et ma petite compréhension finie d
 De toute façon, plus en s'engage dans les broussailles de ce sujet, plus on soulève des questions et des interrogations, où nous sommes libres de hasarder notre réponse imaginative mais jamais décisive. Finalement pour nous, ascendeurs sincères et persévérants, la personnalité gardera encore longtemps ses secrets et son mystère restera peut-être éternellement caché.
 
 François Dupont
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Deite_et_divinite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Déité et divinité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-4-été-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 4 — Été 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Suprematie">
+          <span class="pr-2">Suprématie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

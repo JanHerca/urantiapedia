@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Anne-Marie Ronfet<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Qui_etait_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qui etait Jesus ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-9-printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 9 — Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nicole_Ragetly/La_trinitisation">
+          <span class="pr-2">La trinitisation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _L'article suivant est inspiré de la lecture du « Centre de l'Etre » de K. G. DURCKHEIM [^1], psychothérapeute allemand ayant longtemps vécu au Japon. Disciple de Jung, il tenta de réconcilier la spiritualité occidentale et orientale et soigna uniquement les gens ayant des problèmes psychologiques dus à une recherche spirituelle. En fait, il s'intéressa à ce qui est commun à toutes les religions: une méthode pour aider l'homme à accéder à la « Transcendance »._
 
@@ -49,3 +73,27 @@ _Pour finir :_
 Dürckheim : « _Une objection courante est que la Transcendance est extérieure à l'homme. Cette objection est juste pour celui qui identifie l'homme à son seul ego. Dans ce cas, la transcendance est à une distance infinie de l'homme ...Au Ciel ! Mais ce qui est transcendant pour l'ego peut être une réalité immanente pour l'homme envisagé dans sa totalité. Dans cette vision, la transcendance représente le noyau de la personne._ »
 
 Anne-Marie Ronfet
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Qui_etait_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qui etait Jesus ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-9-printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 9 — Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nicole_Ragetly/La_trinitisation">
+          <span class="pr-2">La trinitisation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

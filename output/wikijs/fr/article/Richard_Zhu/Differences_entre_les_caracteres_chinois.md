@@ -9,6 +9,27 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Richard Zhu<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/La_traduction_chinoise_de_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La traduction chinoise de The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-105-mars-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 105 — Mars 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 RICHARD ZHU
 Traducteur de la version en caractères simplifiés de The Urantia Book
@@ -30,3 +51,24 @@ Au début, les différences entre le chinois traditionnel et le chinois simplifi
 Une simple traduction automatique ne produira pas de résultats acceptables, car ce défi nécessite un traducteur expérimenté pour remarquer certains termes et contextes linguistiques uniques et corriger toutes les erreurs potentielles qu'une traduction caractère par caractère entrainera.
 
 En fait, même dans un document dont les caractères traditionnels ont été parfaitement convertis à partir des caractères simplifiés, un locuteur natif de Taïwan ou de Hong Kong sera en mesure de dire que le document a été simplement converti et qu'il n'a pas été correctement traduit. À l'inverse, une version de traduction en chinois simplifié qui tente d'incorporer les bons aspects de la langue chinoise traditionnelle sera également reconnue par les traducteurs professionnels de chinois simplifié comme n'étant pas compréhensible et de mauvaise qualité.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/La_traduction_chinoise_de_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La traduction chinoise de The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-105-mars-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 105 — Mars 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

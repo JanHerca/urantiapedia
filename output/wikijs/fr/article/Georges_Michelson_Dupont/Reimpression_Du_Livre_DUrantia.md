@@ -9,6 +9,27 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Georges Michelson Dupont<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Dieu_Le_Temps_L_univers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu, Le Temps, L'univers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-95-septembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 95 — Septembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 L'impression de 2019 (2 200 livres) est épuisée. Une nouvelle impression de 2200 exemplaires est programmée pour septembre 2021. Cette édition va être différente dans sa pagination.
 
@@ -37,3 +58,24 @@ En reprenant l'idée initiale de pouvoir facilement comparer une traduction avec
 Amitiés.
 
 G. Michelson Dupont
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Dieu_Le_Temps_L_univers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu, Le Temps, L'univers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-95-septembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 95 — Septembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

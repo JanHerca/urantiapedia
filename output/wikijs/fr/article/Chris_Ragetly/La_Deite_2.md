@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Chris Ragetly<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Sept Réalités Fondamentales X</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-67-été-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 67 — Été 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Helen_Moore_Hopper/La_Serenite_2">
+          <span class="pr-2">La Sérénité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dans le _Livre d'Urantia,_ le terme « Déité » est attribué à des personnalités divines diverses, qu’elles soient seules, associées existentielles ou associées expérientielles, mais ce terme peut aussi se référer à des personnalités non divines. Dans l'introduction, un Conseiller Divin nous indique plusieurs niveaux sur lesquels fonctionne la Déité totale.
 
@@ -59,3 +83,27 @@ Et enfin sur le 3ème circuit de comprendre Dieu le Père.
 Nous aurons ainsi eu la chance de gravir les différents stades de cette Déité septuple qui en fait est là pour notre seul bénéfice.
 
 Chris Ragelty
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Sept Réalités Fondamentales X</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-67-été-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 67 — Été 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Helen_Moore_Hopper/La_Serenite_2">
+          <span class="pr-2">La Sérénité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

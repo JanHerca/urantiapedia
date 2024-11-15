@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Alain Coulombe<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Rouanet/Le_mot_du_President_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du Président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 41 — Hiver 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Petite_reflexion_sur_la_puissance_daimer_1">
+          <span class="pr-2">Petite réflexion sur la puissance d'aimer (1ère partie)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Ce texte a été écrit par mon ancien chef de service, qui fut, pour une longue période, un lecteur très assidu (au moins sept lectures) du LU et que Pascal a bien connu. Si mes souvenirs sont bons, il adressait ce texte aux personnes n'ayant eu aucune connaissance du LU, mais assez "curieuses » pour chercher plus à fond. A vous de voir s'il avait des chances d'atteindre son « but » avec ce texte..._
 
@@ -49,3 +73,27 @@ La puissance et la perfection des créatures spirituelles des univers évolution
 L'injonction du Père Universel aux créatures humaines est simple « Elevez-vous vers moi en progressant dans la voie de perfection ». Et cette injonction se double de celle ci : « _Apportez avec tolérance, patien- ce, intelligence et sagesse, votre aide aux autres créatures humaines et respectez les, car toutes ont le même potentiel d'éternité que vous_ ». Le père Universel n'est toutefois pas personnellement présent dans l'Univers-évolutionnaire pour délivrer ce message, il le fait par l'intermédiaire de ses créatures spirituelles qui veillent à ce que la lumière de la vérité ne s'éteigne jamais entièrement sur les planètes habitées, malgré les drames et les bouleversements qui les perturbent. Mais plus directement encore, le Père universel distille ce message en introduisant dans la pensée humaine un fragment de luimême, sous la forme d'une étincelle de pure spiritualité qui accompagne avec amour et sans défaillance chaque créature humaine dès le jour de son premier choix moral. Rare et difficile se révèle toutefois le contact entre cette présence divine, parfaitement mais exclusivement spirituelle, et une intelligence humaine presque entièrement matérielle, trop souvent égoïste et parfois profondément dévoyée. Comment prêter attention à la minuscule voix intérieure qui dit le juste et le vrai, lorsqu'on se laisse emporter par le torrent des émotions, des fureurs, des envies et des haines et qu'on est poussé vers l'inexorable tourbillon des accomplissements stériles, par les vaines contraintes et les perverses tentations d'un monde irréfléchi.
 
 ***à suivre ***
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Rouanet/Le_mot_du_President_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du Président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 41 — Hiver 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Petite_reflexion_sur_la_puissance_daimer_1">
+          <span class="pr-2">Petite réflexion sur la puissance d'aimer (1ère partie)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

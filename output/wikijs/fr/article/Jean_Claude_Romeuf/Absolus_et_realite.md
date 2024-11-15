@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Jean-Claude Romeuf<br>© 1998 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Castel/Que_se_passe_t_il_apres_la_mort">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Que se passe-t-il apres la mort ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-8-hiver-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 8 — Hiver 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Une des grandes tragédies intellectuelles de l'aventure humaine est de ne pas savoir qui de la poule ou qui de l'œuf est apparu en premier. C'est la question à laquelle nous allons essayer de répondre. Pour cela, plusieurs cheminements de la pensée sont possibles et bien qu'ils puissent paraître en opposition, ils ne sont pourtant pas contradictoires.
 
@@ -63,3 +84,24 @@ On peut modifier à volonté le concept du Je Suis et dire aussi qu'avant l'inst
 La Grande Cause Première est aimée et respectée dans toute l'immense création en tant que Père Universel ; elle est adorée en tant que Déité. Les trois Absolus ne le sont pas. Ils peuvent être considérés comme le désir des Dieux dans l'aboutissement et le bien être des choses et des personnes; ils ne sont pas l'objet d'un culte mais peuvent être l'objet d'une recherche purement mentale.
 
 Au terme de ces pérégrinations intellectuelles, chacun peut maintenant avoir une idée sur l'apparition première de l'œuf ou de la poule. Quant à moi, il y a longtemps que mon opinion est faite. Ayant toujours eu une préférence affective bien plus prononcée pour les poules que pour les œufs, je préfère croire que c'est la poule qui la première fit l'œuf et non le contraire.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Castel/Que_se_passe_t_il_apres_la_mort">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Que se passe-t-il apres la mort ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-8-hiver-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 8 — Hiver 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

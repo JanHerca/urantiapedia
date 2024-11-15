@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Françoise Burniat<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/La_philosophie_qui_sauve">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La philosophie qui sauve</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Octavie_Jung/Leger_leger">
+          <span class="pr-2">Léger, léger !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dans les 7 effusions qu'il fit sur les mondes qu'il avait lui-même créés, Micaël de Nebadon s'est montré un souverain compréhensif et compatissant. Les Melchizédeks, par exemple, ont dit de lui : « _Il nous a aimés, il nous a compris, il a servi avec nous et nous sommes pour toujours ses loyaux et dévoués compagnons._ » ([LU 119:1.5](/fr/The_Urantia_Book/119#p1_5))
 
@@ -81,3 +105,27 @@ Revenons en arrière : Lorsque la compagnie des disciples et des apôtres arriva
 Elle devint l'éducatrice la plus efficace de l'évangile parmi les douze femmes évangélistes. Marie, Rébecca et leurs compagnes travaillèrent fidèlement jusqu'au bout.
 
 Françoise Burniat
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/La_philosophie_qui_sauve">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La philosophie qui sauve</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Octavie_Jung/Leger_leger">
+          <span class="pr-2">Léger, léger !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

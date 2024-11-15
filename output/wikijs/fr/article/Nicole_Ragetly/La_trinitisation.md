@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Nicole Ragetly<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anne_Marie_Ronfet/Les_trois_grandes_experiences_de_letre_humain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les trois grandes experiences de l’etre humain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-9-printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 9 — Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Les_sept_circuits_de_Havona">
+          <span class="pr-2">Les sept circuits de Havona</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La Trinité du Paradis est l'archétype de la Trinitisation.
 
@@ -62,3 +86,27 @@ Lorsque les nouveaux fils trinitisés par des ascendeurs ou par le ParadisHavona
 La trinitisation de la Déité peut accomplir ce qui est autrement irréalisable. Nous pouvons donc postuler l'apparition du SuprêmeUltime en son temps et la possible factualisation-trinitisation de Dieu l'Absolu. ([LU 0:12.8](/fr/The_Urantia_Book/0#p12_8))
 
 Nicole Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anne_Marie_Ronfet/Les_trois_grandes_experiences_de_letre_humain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les trois grandes experiences de l’etre humain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-9-printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 9 — Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Les_sept_circuits_de_Havona">
+          <span class="pr-2">Les sept circuits de Havona</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

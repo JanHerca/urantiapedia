@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Chistine Baussain<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Albert_Samuel/Jesus_et_les_femmes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus et les femmes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-56-automne-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 56 — Automne 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Symposium_de_Chicago_2011_Photos">
+          <span class="pr-2">Symposium de Chicago 2011 - Photos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Quelle représentation de la femme n'a jamais subi une transformation aussi effroyable que celle de la sorcière ? De l'initiée aux sagesses antiques, intime des secrets de guérison et des pratiques divinatoires, de la femme sage à la prêtresse des temps d'avant la dictature du mâle, ne reste plus dans l'imaginaire collectif que la hideuse et méchante souillon qui fait peur aux petits enfants.
 
@@ -29,3 +53,27 @@ Un des plus connus de ceux-ci est la célèbre Charge de la Déesse. Le mot « c
 Il était temps. Bienvenue enfin, divine sorcière.
 
 Chistine Baussain
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Albert_Samuel/Jesus_et_les_femmes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus et les femmes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-56-automne-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 56 — Automne 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Symposium_de_Chicago_2011_Photos">
+          <span class="pr-2">Symposium de Chicago 2011 - Photos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

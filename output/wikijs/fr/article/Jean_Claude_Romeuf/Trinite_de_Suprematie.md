@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Jean-Claude Romeuf<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Castel/Reflexion_sur_linfidelite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexion sur l'infidélité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 41 — Hiver 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_03">
+          <span class="pr-2">Le coin de Frère Dominique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _L'aptitude à comprendre est le passeport des mortels pour le Paradis. Le consentement à croire est la clef de Havona. L'acceptation de la filiation, la coopération avec l'Ajusteur intérieur est le prix de la survie évolutionnaire._ [LU 26:4.15](/fr/The_Urantia_Book/26#p4_15)
 
@@ -60,3 +84,27 @@ Aimer Dieu, ce n'est pas forcément lui dire à tire-larigot « je t'aime ». Co
 
 Jean-Claude Romeuf
 01 janvier 2008
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Castel/Reflexion_sur_linfidelite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexion sur l'infidélité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 41 — Hiver 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_03">
+          <span class="pr-2">Le coin de Frère Dominique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

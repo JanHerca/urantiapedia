@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 William S. Sadler Jr.<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Samuel_Heine/Amour_et_respect_de_la_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amour et respect de la vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-48-automne-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 48 — Automne 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Le_Voilier">
+          <span class="pr-2">Le Voilier</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Traduction de Nicole et Chris Ragetly d'un enregistrement sur cassette fait par Bill Sadler à un groupe d'étude._
 
@@ -49,3 +73,27 @@ J'aime beaucoup celui-ci : « _Il faut de l'intelligence pour s'assurer..._ » I
 > « _La religion de Jésus exige une expérience vivante et spirituelle. D’autres religions peuvent consister en croyances traditionnelles, en sentiments émotifs, en conscience philosophique et tout cela ensemble, mais l'enseignement du Maitre implique qu'il faut effectivement atteindre les niveaux de progression spirituelle réelle._ » [LU 160:5.10-12](/fr/The_Urantia_Book/160#p5_10)
 
 CMR
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Samuel_Heine/Amour_et_respect_de_la_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amour et respect de la vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-48-automne-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 48 — Automne 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Le_Voilier">
+          <span class="pr-2">Le Voilier</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

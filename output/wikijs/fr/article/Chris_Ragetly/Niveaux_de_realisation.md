@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Chris Ragetly<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Samantha_Nior/Linvitee_Association_Urantia_Neerlandaise">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'invitée : Association Urantia Neerlandaise</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-46-printemps-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 46 — Printemps 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/Personal_Growth_Arrival_Mansion_Worlds">
+          <span class="pr-2">Croissance Personnelle - Arrivée Mondes Maisons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 606 Urantia — Satania 24 Jérusem — Norlatiadek 70 Edentia — Nébadon 84 Salvington U Minor la Troisième 3 Ensa — U Majeur la Cinquième 5 Splandon — Orvonton 7 Uversa
 
@@ -65,3 +89,27 @@ C'est grâce à la technique de trinitisation et certaines autres relations entr
 > _2. Les maxima secondaires, la réalité suprêmement rendue parfaite, ***le type superuniversel de créatures et de création***._ [LU 105:5.7-8](/fr/The_Urantia_Book/105#p5_7)
 
 Nous savons que les maxima tertiaires sont, en ce qui nous concerne, des réalités finies qui s'unifient parfaitement dans l'Être Suprême. C'est en quelque sorte l'apparition du **parfait expérientiel coordonné** qui précède (pour nous) le parfait, maxima primaires, et le rendu parfait, maxima secondaires.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Samantha_Nior/Linvitee_Association_Urantia_Neerlandaise">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'invitée : Association Urantia Neerlandaise</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-46-printemps-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 46 — Printemps 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/Personal_Growth_Arrival_Mansion_Worlds">
+          <span class="pr-2">Croissance Personnelle - Arrivée Mondes Maisons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

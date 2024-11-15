@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Joseph Le Dain et Séverin Desbuisson<br>© 1998 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Emergence_et_finalite_de_ladoration">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Emergence et finalite de l’adoration</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-7-automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 7 — Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_01/010.jpg">
@@ -65,3 +86,24 @@ La conférence pris fin le vendredi en début d'après midi. Nous prîmes tous c
 Ces deux rassemblements nous parurent bénéfiques tant par la richesse des discours et des discussions en groupes d'études que par les échanges de points de vues sur nos expériences et nos difficultés dans la compréhension et la mise en œuvre des enseignements du livre. Mais ils étaient également complémentaires car la conférence d'Helsinki nous a donné un premier contact avec cette vaste association mondiale qu'est l'IUA alors que la conférence de Karepa nous a permis d'approfondir les contacts personnels avec ses membres par son coté plus détendu et par le nombre plus réduit de participants. Ces multiples discussions, nous ont sans aucun doute, transformés et nous rappelant chaque jour que nous ne sommes pas seuls à relever cet énorme défi qu'est la révélation de la vérité sur Urantia. C'est ainsi que la motivation de chacun s'est trouvée brillamment régénérée jusqu'à la prochaine réunion mondiale qui devrait se tenir aux États-Unis en l'an 2000.
 
 Joseph et Séverin.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Emergence_et_finalite_de_ladoration">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Emergence et finalite de l’adoration</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-7-automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 7 — Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

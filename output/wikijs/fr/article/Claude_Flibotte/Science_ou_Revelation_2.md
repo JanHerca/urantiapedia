@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Claude Flibotte<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/La_Cosmogonie_dUrantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Cosmogonie d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-95-septembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 95 — Septembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/La_Vie_En_Esprit">
+          <span class="pr-2">La Vie En Esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Claude Flibotte Québec
 
@@ -82,3 +106,27 @@ Par comparaison entre les hypothèses de la science et les révélations contenu
 L'histoire racontée par les révélateurs l'est par ceux-là mêmes qui l'ont amorcée, façonnée, observée et guidée. Ils étaient là depuis le début et sont des témoins infaillibles de son déroulement. Ils sont toujours parmi nous d'ailleurs, ce sont nos frères cosmiques!
 
 J'ai une analogie à vous proposer! L'histoire de l'humanité ressemble à un grand casse-tête de mille morceaux. Les révélateurs ont une vue d'ensemble de ce casse-tête. lls perçoivent même le futur de son expansion. Les scientifiques travaillent sur le même casse-tête, mais ils ne disposent que de quelques dizaines de morceaux avec lesquels ils tentent de reconstituer l'ensemble de l'image. Pourquoi ne regardent-ils pas l'image sur le couvercle de la boite (Le Livre d'Urantia), puis tenter, à partir des morceaux dont ils disposent, de reconstituer correctement et tangiblement notre grande histoire? Nous y découvririons une seule et même grande famille, la famille cosmique urantienne!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/La_Cosmogonie_dUrantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Cosmogonie d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-95-septembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 95 — Septembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/La_Vie_En_Esprit">
+          <span class="pr-2">La Vie En Esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

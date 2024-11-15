@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Patrick Morelli<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_Antequera/Comment_Faire_La_Volonte_Du_Pere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comment Faire La Volonté Du Pére</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-97-mars-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 97 — Mars 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Halvorson/L_histoire_De_La_Vie">
+          <span class="pr-2">L'histoire De La Vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Origine des Maitres Esprits
 
@@ -251,3 +275,27 @@ Cependant dans la capitale de chaque supersunivers, les 7 Esprits Réflectifs ma
 Le point à noter également qui mérite réflexion, est la place de notre Mère Divine, tout aussi centrale dans notre univers local, que celle qu'occupe Jésus notre Fils Créateur. En effet tout au long du L. U., les lectrices en particulier, peuvent noter la part belle faite à l'attribution masculine de beaucoup d'expressions nominatives. Mais en ce qui concerne le sens et les significations de l'Esprit Créatif que sont les Mères Divines, ils redonnent les lettres de noblesse au sens de la Mère tel que chaque mortel peut l'attribuer dans sa vie expérientielle. Pour conclure, simplement une fonction parmi tant d'autres, celle de l'effusion de l'Esprit de Vérité qui est bien souvent attribuée qu'à Jésus, est le fruit de notre Mère Divine également.
 
 Patrick Morelli.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_Antequera/Comment_Faire_La_Volonte_Du_Pere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comment Faire La Volonté Du Pére</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-97-mars-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 97 — Mars 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Halvorson/L_histoire_De_La_Vie">
+          <span class="pr-2">L'histoire De La Vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

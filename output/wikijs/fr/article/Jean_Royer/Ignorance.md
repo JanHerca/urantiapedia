@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Jean Royer<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_Lehee/Approche_de_quelques_aspects_scientifiques_du_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Approche de quelques aspects scientifiques du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-25-printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 25 — Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Joseph_Le_Dain_et_Severin_Desbuisson/Recit_dune_visite">
+          <span class="pr-2">Récit d'une visite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Sommes-nous bien certains comme l'écrivait Shakespeare que Where ignorance is bliss 'tis folly to be wise, c'est à dire, Là où l'ignorance est félicité c'est folie que d'être sage ?Curieusement, un des aspects les plus sympathiques du _Livre d'Urantia_ est l'affirmation de l'ignorance des révélateurs; ignorance temporaire ou ignorance définitive. Ainsi, j'ai relevé 9 occurrences de l'expression « Je ne sais pas » (il y en a d'autres mais qui relèvent du langage courant humain).
 
@@ -57,3 +81,27 @@ C'est pourquoi, l'homme, tout en reconnaissant certaines limites est encouragé 
 Jean Royer
 
 _(bien aidé, il est vrai, par un Conseiller Divin et un Perfecteur de Sagesse)_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_Lehee/Approche_de_quelques_aspects_scientifiques_du_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Approche de quelques aspects scientifiques du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-25-printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 25 — Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Joseph_Le_Dain_et_Severin_Desbuisson/Recit_dune_visite">
+          <span class="pr-2">Récit d'une visite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

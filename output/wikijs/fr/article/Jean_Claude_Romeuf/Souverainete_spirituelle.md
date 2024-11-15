@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jean-Claude Romeuf<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Le_mouvement_urantien">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mouvement urantien</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-36-printemps-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 36 — Printemps 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Samuel_et_Adelaide_Heine/Qui_suis_je_Dou_venons_nous">
+          <span class="pr-2">Qui suis-je ? — D'où venons-nous ? — Où allons — nous ? Quel est le but de la vie ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Aplusieurs endroits dans les fascicules, les auteurs du _Livre d'Urantia_ regrettent que le christianisme primitif ait trouvé ses fondements dans la vie et les enseignements de Jésus plutôt que dans la révélation dont il était désireux de faire profiter les hommes. L'erreur, selon eux, a été de ne pas insister sur le fait que la religion enseignée par Jésus, était basée sur la paternité de Dieu et la fraternité universelle des hommes. « Aimez-vous les uns les autres, comme le Père vous aime » s'est transformé souvent en querelles religieuses, chaque religion, fière de son credo et intransigeante sur la vérité qu'elle détenait ou croyait détenir, a toujours cherché à faire valoir la suprématie de ses idéaux sur ceux des autres.
 
@@ -36,3 +60,27 @@ Ne nous y trompons pas, nous avons un grand avantage par rapport aux autres reli
 Quand les hommes vivront d'amour, c'est qu'ils vivront selon les principes que Jésus enseigna il y a deux mille ans: « Aimezvous les uns les autres, comme je vous ai aimé». Cette phrase est d'actualité et le restera jusqu'à la fin des temps. Le Livre d'Urantia nous le rappelle sans cesse et en rehausse le sens.
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Le_mouvement_urantien">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mouvement urantien</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-36-printemps-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 36 — Printemps 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Samuel_et_Adelaide_Heine/Qui_suis_je_Dou_venons_nous">
+          <span class="pr-2">Qui suis-je ? — D'où venons-nous ? — Où allons — nous ? Quel est le but de la vie ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

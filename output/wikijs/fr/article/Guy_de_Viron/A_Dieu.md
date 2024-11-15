@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Guy de Viron<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Le_billet_du_President_Tous_mes_voeux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le billet du Président Tous mes voeux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-69-hiver-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 69 — Hiver 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_20_Les_questions">
+          <span class="pr-2">Quiz Maxien n°20 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Voici le Lien n69, par lequel je prends congé de son édition.
 
@@ -30,4 +54,28 @@ Guy de Viron
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_01/201.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Le_billet_du_President_Tous_mes_voeux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le billet du Président Tous mes voeux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-69-hiver-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 69 — Hiver 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_20_Les_questions">
+          <span class="pr-2">Quiz Maxien n°20 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

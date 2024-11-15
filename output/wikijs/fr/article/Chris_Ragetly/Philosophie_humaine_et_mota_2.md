@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Chris Ragetly<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/LInvite_Lextraterrestre_Usain_Bolt">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Invité: L’extraterrestre Usain Bolt</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-48-automne-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 48 — Automne 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/L_osteoclaste">
+          <span class="pr-2">L’ostéoclaste</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (suite)
 
@@ -67,3 +91,27 @@ Ces 28 exemples de philosophie humaine qui nous sont enseignés sur le monde nº
 _On peut trouver sur le site de SQUARECIRCLES.COM un essai de Matthew Block intitulé: « Morontia Mota : A New Perspective ». Cet essai traite des sources humaines dont l'auteur du fascicule 48, un Archange de Nébadon, s'est servi pour illustrer la technique dont se servent les instructeurs des mondes des maisons._
 
 CMR
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/LInvite_Lextraterrestre_Usain_Bolt">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Invité: L’extraterrestre Usain Bolt</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-48-automne-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 48 — Automne 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/L_osteoclaste">
+          <span class="pr-2">L’ostéoclaste</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

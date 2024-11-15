@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Joseph Servant<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 22 — Été 2002 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-22-été-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 22 — Été 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Porteurs_de_vie">
+          <span class="pr-2">Porteurs de vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 De toute éternité existe le « JE SUIS », le Dieu infini qui a créé l'univers des univers et l'administre sans cesse. ([LU 195:7.18](/fr/The_Urantia_Book/195#p7_18)) ; II se révèle à nous en tant que Père Universel, un Père-ami. Le centre de l'univers des univers est l'univers central, univers parfait composé du Paradis, entouré de 10 circuits concentriques elliptiques, comprenant plus d'un milliard de sphères habitées par une myriade de personnes créées parfaites. Cet univers central n'a pas eu de commencement, il existe depuis toujours, il est existentiel. Autour de cet univers existentiel, sur des circuits elliptiques successifs, s'est construit expérientiellement, évolutionnairement, le Grand univers, en partant de l'énergie primordiale qui se condense en nébuleuses d'où sont expulsés des soleils, lesquels éjectent des planètes comme la nôtre.
 
@@ -35,3 +59,27 @@ L'Église fut un résultat social, inévitable et utile de la vie et des enseign
 André Malraux a dit « le vingt et unième siècle sera spirituel ou ne sera pas. » Le spirituel c'est l'amour, et l'amour c'est le vrai le beau et le bon, ce sont les vraies valeurs, des valeurs vivantes car « la vérité est cohérente, la beauté est attrayante et la bonté est stabilisante. Et, quand ces trois valeurs de la réalité sont coordonnées dans l'expérience personnelle, il en résulte une haute qualité d'amour, conditionnée par la sagesse et qualifiée par la loyauté» ([LU 2:7.12](/fr/The_Urantia_Book/2#p7_12)). La foi c'est « la croyance humaine aux réalités spirituelles et aux valeurs divines. » ([LU 195:7.1](/fr/The_Urantia_Book/195#p7_1))
 
 Joseph Servant
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 22 — Été 2002 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-22-été-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 22 — Été 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Porteurs_de_vie">
+          <span class="pr-2">Porteurs de vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

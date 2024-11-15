@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Jean Royer<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/La_raison_et_la_foi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La raison et la foi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-32-hiver-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 32 — Hiver 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_ou_la_metaphysique_echoue_totalement">
+          <span class="pr-2">Là où la métaphysique échoue totalement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Il faut se garder d'un jugement hâtif lorsqu'on détecte, ou croit détecter, une erreur dans le LU. Prenons deux exemples :
 
@@ -53,3 +77,27 @@ Jean Royer
 </figure>
 
 <br style="clear:both;"/>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/La_raison_et_la_foi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La raison et la foi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-32-hiver-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 32 — Hiver 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_ou_la_metaphysique_echoue_totalement">
+          <span class="pr-2">Là où la métaphysique échoue totalement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Joseph Le Dain<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Francois_Le_Rohellec/Rencontre_internationale_de_2002_avancement_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rencontre internationale de 2002 État d'avancement nº 3</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-15-automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 15 — Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Nous étions nombreux, ce mercredi 2 août 2000, à rejoindre le collège WAGNER de Staten Island, un des cinq districts de la ville de New York. Ce soir-là, après avoir résolu les problèmes matériels, inévitables dans ce monde, je me suis couché, fatigué par le transport physique indispensable pour participer corps et âme à cette nouvelle conférence internationale de l'IUA.
 
@@ -84,3 +105,24 @@ L'après-midi fut consacrée à différentes activités: l'organisation locale a
 Le soir, après le dîner, nous fûmes conviés à une discussion avec les trustees. Ils nous rappelèrent les traductions en vente, celles à venir, confirmèrent la progression de la révélation et précisèrent le travail exceptionnel au Sénégal et en Russie. Puis, les échanges libres se poursuivrent, souvent très tard, tant les participants avaient soif de se connaître et de partager leurs expériences. Pour ma part, vers $22 h 00$ je rejoignis ma chambre, comme beaucoup d'autres, pour un grand sommeil réparateur.
 
 Joseph Le Dain
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Francois_Le_Rohellec/Rencontre_internationale_de_2002_avancement_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rencontre internationale de 2002 État d'avancement nº 3</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-15-automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 15 — Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

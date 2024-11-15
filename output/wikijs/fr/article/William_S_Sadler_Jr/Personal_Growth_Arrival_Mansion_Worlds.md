@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 William S. Sadler Jr.<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Niveaux_de_realisation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Niveaux de réalisation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-46-printemps-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 46 — Printemps 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/L_Ego_et_le_Moi">
+          <span class="pr-2">L'Ego et le Moi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Traduction d'un enregistrement de Bill Sadler par Chris et Nicole Ragetly (2001)_
 
@@ -101,3 +125,27 @@ Bien, mais où se trouve la personnalité pendant ce laps de temps, personne ne 
 (à suivre)
 
 Bill Sadler
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Niveaux_de_realisation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Niveaux de réalisation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-46-printemps-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 46 — Printemps 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/L_Ego_et_le_Moi">
+          <span class="pr-2">L'Ego et le Moi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

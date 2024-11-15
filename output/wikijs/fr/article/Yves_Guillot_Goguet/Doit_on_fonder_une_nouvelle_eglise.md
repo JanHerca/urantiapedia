@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Yves Guillot-Goguet<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Coup_doeil_sur_lorganisation_generale_du_Maitre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coup d'œil sur l'organisation générale du Maître Univers et théorie de la totalité par les chercheurs d'Uversa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-21-printemps-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 21 — Printemps 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Maia_Neveu/Rotation">
+          <span class="pr-2">Rotation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le numéro de Juin 2001 du « Journal de l'IUA « m'a tout particulièrement plu pour la position équilibrée et tolérante d'Andrès Rodriguez « La virginité de Marie » ; le point de vue est bien argumenté et évite tout excès dans un sens comme dans un autre.Mais c'est surtout l'article de Seppo Kanerva « A propos de la religion doit-on fonder une nouvelle église ? qui m'amène à vous écrire.
 
@@ -100,3 +124,27 @@ que s'il cherche à s'imposer par l'apparition d'un nouveau mouvement spirituel 
 Yves Guillot-Goguet
 
 > _La conscience intellectuelle de soi permet de découvrir la beauté de la vérité et sa qualité spirituelle, non seulement par la cohérence philosophique de ses concepts, mais plus certainement et plus sûrement par la réponse infaillible de l'Esprit de Vérité toujours présent. Le bonheur résulte de la récognition de la vérité, parce qu'elle peut être mise en pratique ; elle peut être vécue. La déception et la tristesse accompagnent l'erreur parce qu'elle n'est pas une réalité et ne peut donc être réalisée en expérience. C'est par sa saveur spirituelle que l'on reconnaît le mieux la vérité divine._ ([LU 2:7.6](/fr/The_Urantia_Book/2#p7_6))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Coup_doeil_sur_lorganisation_generale_du_Maitre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coup d'œil sur l'organisation générale du Maître Univers et théorie de la totalité par les chercheurs d'Uversa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-21-printemps-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 21 — Printemps 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Maia_Neveu/Rotation">
+          <span class="pr-2">Rotation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

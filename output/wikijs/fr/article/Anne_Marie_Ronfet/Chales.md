@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Anne-Marie Ronfet<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/La_confiance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La confiance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Hermetisme_et_Eugenisme">
+          <span class="pr-2">Hermétisme et Eugénisme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Deuxième réunion nationale au pays du Grand Meaulnes** \*
 
@@ -37,3 +61,27 @@ Peut-être y a-t-il un peu de morontiel là dedans ? On l'espère du moins.
 \* _« le Grand Maulnes » : roman d'Alain Fournier_
 
 Anne-Marie Ronfet
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/La_confiance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La confiance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Hermetisme_et_Eugenisme">
+          <span class="pr-2">Hermétisme et Eugénisme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

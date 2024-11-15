@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Halvorson/Lhistoire_de_la_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'histoire de la vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-39-été-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 39 — Été 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Johanna_Beukers/Rencontre_annuelle_a_Notre_Dame_des_Lumieres">
+          <span class="pr-2">Rencontre annuelle à Notre Dame des Lumières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 1978, les plus anciens lecteurs se rappelleront, naissait la première association française de lecteurs, le CERDH (_Centre d'Etude et de Réflexion sur la Destinée Humaine_).
@@ -97,3 +121,27 @@ Et puisqu'il convient bien entendu de commencer par utiliser ce qui existe déj�
 5\. Qu'il nous soit enfin permis pour conclure cette introduction de formuler un souhait: prenons bien garde de ne pas user imprudemment dans un réflexe facile de la terminologie « d'Urantiens »
 - pour cette première et évidente raison qu'au stricte plan étymologique elle recouvre une réalité différente de ce que nous voulons y mettre
 - mais aussi pour celle là, bien plus grave et profonde, que dans un monde qui inlassablement veut classer. étiqueter; dans un monde où émergent si facilement tant de fanatismes, où tant de tendances restent mal dominées où s'observent si fréquemment de véritables fuites en avant dans des activismes stériles, la vocation de rassembleurs que nous avons l'ambition de vivre à la lumière des enseignements du _Livre d'Urantia_ s'accommoderait très mal de tout autre étiquetage que celui de croyants, de Fils de Dieu et frères par la Foi.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Halvorson/Lhistoire_de_la_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'histoire de la vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-39-été-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 39 — Été 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Johanna_Beukers/Rencontre_annuelle_a_Notre_Dame_des_Lumieres">
+          <span class="pr-2">Rencontre annuelle à Notre Dame des Lumières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Dominique Ronfet<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Francois_Dupont/Essais_dexplication_du_concept_de_la_verite_vivante">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Essais d'explication du concept de la vérité vivante</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 38 — Hiver 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michel_Rouanet/Adorer_Dieu_une_invitation_au_voyage">
+          <span class="pr-2">Adorer Dieu ? une invitation au voyage hors de l' espace-temps</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le chapitre « La prière et l'alter ego » (Fasc. 91 Chap. 3) nous ouvre certaines portes sur des modes de fonctionnement de la psychologie humaine.
 
@@ -71,6 +95,31 @@ Nulle doute que ce chemin d'échanges/révélation, continuera bien après notre
 Bon voyage à tous!
 
 Dominique Ronfet
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Francois_Dupont/Essais_dexplication_du_concept_de_la_verite_vivante">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Essais d'explication du concept de la vérité vivante</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 38 — Hiver 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michel_Rouanet/Adorer_Dieu_une_invitation_au_voyage">
+          <span class="pr-2">Adorer Dieu ? une invitation au voyage hors de l' espace-temps</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

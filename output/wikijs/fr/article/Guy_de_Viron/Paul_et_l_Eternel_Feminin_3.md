@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Guy de Viron<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_billet_du_President_Retrouvailles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le billet du Président : Retrouvailles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-58-printemps-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 58 — Printemps 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sheila_Keenelund/Philosophie_Concepts_fondamentaux">
+          <span class="pr-2">Philosophie Concepts fondamentaux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Voici une édition du Lien Urantien un peu particulière puisqu'il n'y a pas de thème majeur mais un melting-pot littéraire sensé vous inspirer et vous divertir à la fois.
 
@@ -29,3 +53,27 @@ Fraternellement vôtre.
 
 Le Rédacteur en Chef
 Guy de Viron
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_billet_du_President_Retrouvailles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le billet du Président : Retrouvailles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-58-printemps-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 58 — Printemps 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sheila_Keenelund/Philosophie_Concepts_fondamentaux">
+          <span class="pr-2">Philosophie Concepts fondamentaux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

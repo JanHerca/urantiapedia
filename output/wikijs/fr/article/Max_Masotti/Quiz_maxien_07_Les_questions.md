@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Max Masotti<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Annet/Symposium_de_Chicago_2011">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Symposium de Chicago 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-56-automne-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 56 — Automne 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Vous_avez_de_la_valeur_a_mes_yeux">
+          <span class="pr-2">Vous avez de la valeur à mes yeux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Superunivers**
 
@@ -40,3 +64,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 17. Á un groupe de pharisiens qui voulait piéger Jésus en lui demandant quel était le plus grand commandement, Jésus leur en indiqua deux. Vous souvenez-vous de ces deux commandements que donna Jésus?
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Annet/Symposium_de_Chicago_2011">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Symposium de Chicago 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-56-automne-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 56 — Automne 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Vous_avez_de_la_valeur_a_mes_yeux">
+          <span class="pr-2">Vous avez de la valeur à mes yeux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

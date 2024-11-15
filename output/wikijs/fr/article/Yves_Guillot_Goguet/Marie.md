@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Yves Guillot-Goguet<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Paul_et_l_Eternel_Feminin_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paul et l’Éternel Féminin (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-57-hiver-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 57 — Hiver 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_08_Les_questions">
+          <span class="pr-2">Quiz Maxien n°8 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Quel merveilleux témoignage ne nous laisse-t-elle pas comme épouse et comme mère ! Quel courage pour avoir su affronter et surmonter bien des difficultés ! En cela, Marie mérite notre admiration. Marie n'était pas un être à part, dotée dès sa naissance de facultés hors du commun des mortels ; elle faisait partie des humains avec toutes leurs faiblesses, mais aussi toutes leurs forces._
 
@@ -71,3 +95,27 @@ _Après la Pâque, Marie retourna à Bethsaide où elle vécut chez Jean durant 
 Selon les instructions de Jésus sur la croix, Marie devait finir sa vie, chez Jean, le fidèle et dévoué ami de Jésus. Nul autre que cet apôtre ne pouvait aussi bien révéler toute la richesse de la mission de Jésus à cette femme qui avait si mal compris son fils. Nul autre que lui ne pouvait convaincre Marie que Jésus lui avait toujours porté un amour filial très vif, alors que bien souvent elle en avait douté. Mais Marie ne devait pas prolonger trop longtemps sa vie dans la demeure de Jean, car « _elle survécut à peine une année à la mort de Jésus_ » ([LU 187:4.7](/fr/The_Urantia_Book/187#p4_7)) Nul doute qu'elle vécut les derniers moments de son vivant dans la paix, assistée de la présence dévouée de Jean.
 
 Yves Guillot-Goguet
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Paul_et_l_Eternel_Feminin_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paul et l’Éternel Féminin (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-57-hiver-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 57 — Hiver 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_08_Les_questions">
+          <span class="pr-2">Quiz Maxien n°8 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

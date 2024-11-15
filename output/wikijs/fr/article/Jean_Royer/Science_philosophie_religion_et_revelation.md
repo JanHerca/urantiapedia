@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jean Royer<br>© 2005 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Comprendre_son_prochain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comprendre son prochain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-35-automnehiver-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 35 — Automne/Hiver 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/De_la_matiere_a_l_esprit_en_passant_par_le_mental">
+          <span class="pr-2">De la matière à l'esprit en passant par le mental</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Introduction :
 
@@ -451,3 +475,27 @@ La vraie science ne peut avoir de querelle durable avec la vraie religion. La «
 99\% de cet essai est une compilation du _Livre d'Urantia_, je n'ai guère fait que modifier l'ordre de présentation.
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Comprendre_son_prochain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comprendre son prochain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-35-automnehiver-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 35 — Automne/Hiver 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/De_la_matiere_a_l_esprit_en_passant_par_le_mental">
+          <span class="pr-2">De la matière à l'esprit en passant par le mental</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

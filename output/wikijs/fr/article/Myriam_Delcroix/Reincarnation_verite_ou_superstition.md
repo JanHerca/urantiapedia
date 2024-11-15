@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Myriam Delcroix<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_version_cachee_de_la_quatrieme_partie_du_Livre_dUrantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La version cachée de la quatrième partie du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-27-automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 27 — Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Doute_et_doutes">
+          <span class="pr-2">Doute et doutes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Parmi toutes les croyances corruptrices susceptibles d'être attachées à ce qui aurait pu être un monothéisme émergent, nulle ne fût plus débilitante que la croyance à la transmigration, à la doctrine de la réincarnation de l'âme, qui venait du DECCAN DRAVIDIEN [[LU 94:2.3-7](/fr/The_Urantia_Book/94#p2_3)].
 
@@ -88,3 +112,27 @@ Mais ceci est un sujet trop complexe pour le résumer en une seule page. Je vous
 P.S. Je ne parviens pas à m'arrêter de fumer : mes chromosomes-mémoires se souviennent — ils d'un ancêtre indien qui fumait plus qu'il ne le fallait le calumet de la paix ?
 
 Myriam Delcroix
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_version_cachee_de_la_quatrieme_partie_du_Livre_dUrantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La version cachée de la quatrième partie du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-27-automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 27 — Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Doute_et_doutes">
+          <span class="pr-2">Doute et doutes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

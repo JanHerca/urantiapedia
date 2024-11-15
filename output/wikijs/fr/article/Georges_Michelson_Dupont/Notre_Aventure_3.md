@@ -9,6 +9,27 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Georges Michelson-Dupont<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claire_Mylanus/Le_Symposium_Culturel_Mondial">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Symposium Culturel Mondial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-86-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 86 — Juin 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ***Voyage à travers les âges du maitre univers***
 
@@ -95,3 +116,24 @@ Les 7 relations primordiales à l'intérieur du JE SUIS
 </figure>
 
 > De même que les triunités s'occupent primordialement d'unifier fonctionnellement l'infinité, de même les triodités sont impliquées dans l'apparition cosmique des Déités expérientielles. Les triunités sont indirectement intéressées par les Déités expérientielles — Suprême, Ultime et Absolue — mais les triodités le sont directement. Elles apparaissent dans la synthèse émergente de personnalité-pouvoir de l'Être Suprême. Et, pour les créatures temporelles de l'espace, l'Être Suprême est une révélation de l'unité du JE SUIS. ([LU 104:5.12](/fr/The_Urantia_Book/104#p5_12))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claire_Mylanus/Le_Symposium_Culturel_Mondial">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Symposium Culturel Mondial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-86-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 86 — Juin 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

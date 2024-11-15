@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Simon Orsini<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patrice_Monsigny/Science_Et_Revelations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science Et Révélations</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-92-décembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 92 — Décembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Annet/Le_Livre_D_urantia_En_Esperanto">
+          <span class="pr-2">Le Livre D'urantia En Espéranto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Comment notre univers a été créé ? Question majeure de l'astrophysique, mais pas des croyants.
 
@@ -77,4 +101,28 @@ https://www.futura-sciences.com/sciences/
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/045.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patrice_Monsigny/Science_Et_Revelations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science Et Révélations</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-92-décembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 92 — Décembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Annet/Le_Livre_D_urantia_En_Esperanto">
+          <span class="pr-2">Le Livre D'urantia En Espéranto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

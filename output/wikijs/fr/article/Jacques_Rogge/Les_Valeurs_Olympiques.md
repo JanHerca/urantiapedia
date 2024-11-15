@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Jacques Rogge<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Armand_Hourtal/Le_Projet_de_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Projet de Vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-66-printemps-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 66 — Printemps 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Les_causes_les_effets_4">
+          <span class="pr-2">Les causes, les effets IV</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Quelques citations du Baron de Coubertin :
 
@@ -89,3 +113,27 @@ C'est officiellement à un religieux que l'Olympisme a emprunté son credo, déc
 Devenu « L'important c'est de participer » pour la vox populi, ce credo a fait l'objet d'une réelle appropriation publique qui témoigne de la diffusion des valeurs olympiques, ici le désintéressement dans l'accomplissement de l'acte sportif.
 
 Jacques Rogge et Internet
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Armand_Hourtal/Le_Projet_de_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Projet de Vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-66-printemps-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 66 — Printemps 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Les_causes_les_effets_4">
+          <span class="pr-2">Les causes, les effets IV</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

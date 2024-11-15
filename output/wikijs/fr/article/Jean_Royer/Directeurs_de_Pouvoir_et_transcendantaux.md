@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Jean Royer<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/BD_humoristique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">BD humoristique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-53-hiver-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 53 — Hiver 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Gliese_581">
+          <span class="pr-2">Gliese 581</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Est-il si étonnant que les humains ne sachent pratiquement rien des Directeurs de Pouvoir? Dans le fascicule qui leur est consacré, le 29, le Censeur Universel avoue son incapacité à nous les décrire et s'il nous indique leur champs d'action c'est d'une manière plutôt vague. Nous sommes là dans une position apophatique, (voir la théologie négative).
 
@@ -49,3 +73,27 @@ Mais qui va expliciter cette belle image de préécho du fini?
 Je crois qu'il va falloir attendre la prochaine révélation d'époque!
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/BD_humoristique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">BD humoristique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-53-hiver-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 53 — Hiver 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Gliese_581">
+          <span class="pr-2">Gliese 581</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

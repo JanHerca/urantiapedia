@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Jean Royer<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joel_Goldsmith/La_nouvelle_Jerusalem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nouvelle Jérusalem</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-68-automne-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 68 — Automne 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Priere">
+          <span class="pr-2">Prière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Certaines femmes s'indignent de ce que la version révisée ait gardé le terme « d'excitées » en [LU 190:2.5](/fr/The_Urantia_Book/190#p2_5) « _II n'a pas été aperçu seulement par des <ins>femmes excitées</ins>; même des hommes courageux ont commencé à le voir. Je m'attends à le voir moi-même._ »
 
@@ -30,3 +54,27 @@ Refuser ***excitées*** serait un peu comme si on refusait le mot 'garce' au tex
 Le texte anglais n'est pas prude. En [LU 147:5.3](/fr/The_Urantia_Book/147#p5_3), il est question de « _brothels_ » c'est à dire de bordels. Le français n'a pas osé le terme et dit maison de prostitution, tout comme les Polonais « _domów publicznych_ » les Roumains « _case de toleranţ̣̆ _» Les Espagnols disent " burdeles » » et les Italiens « bordelli » les Portugais « bordéis » les Allemands « _Edelbordells_ » les Hollandais « _bordelen_ » les Suédois « _bordeller_ » les Estoniens « _bordelli_ ».
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joel_Goldsmith/La_nouvelle_Jerusalem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nouvelle Jérusalem</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-68-automne-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 68 — Automne 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Priere">
+          <span class="pr-2">Prière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

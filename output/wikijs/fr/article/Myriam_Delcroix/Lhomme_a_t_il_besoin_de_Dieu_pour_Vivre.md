@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Myriam Delcroix<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_de_Pailloussas/Missions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Missions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-23-automne-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 23 — Automne 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Les_Directeurs_du_Recensement">
+          <span class="pr-2">Les Directeurs du Recensement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## APPROCHE PERSONNELLE
 
@@ -96,3 +120,27 @@ De même l'humanité, après les angoisses et les soubresauts tâchés de larmes
 Cette ère sera le prélude, si cette humanité le désire, de l'harmonie et de l'entente cordiale entre enfants et parents, c'est-à-dire: le retour de l'homme vers Dieu son Père.
 
 Myriam Delcroix
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_de_Pailloussas/Missions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Missions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-23-automne-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 23 — Automne 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Les_Directeurs_du_Recensement">
+          <span class="pr-2">Les Directeurs du Recensement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

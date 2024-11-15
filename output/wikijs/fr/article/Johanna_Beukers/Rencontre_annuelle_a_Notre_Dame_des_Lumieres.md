@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Johanna Beukers<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Souvenirs_Souvenirs_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Souvenirs Souvenirs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-39-été-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 39 — Été 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marlene_et_Georges_Michelson_Dupont/Reflexions_de_Georges_et_Marlene_01">
+          <span class="pr-2">Réflexions de Georges & Marlene</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Après avoir passé 3 jours à Goult, un séjour où débordait l'amitié, le dynamisme, les retrouvailles, j'ai l'immense plaisir de vous conter à tous, chers membres et lecteurs du Livre d'Urantia, la grande réussite de cette rencontre nationale qui a eu lieu du 10 au 13 mai..
 
@@ -69,3 +93,27 @@ Dimanche matin, la parole a été prise par les 4 rapporteurs qui ont partagé a
 Merci les organisateurs!A très bientôt à Aix-les-Bains en Novembre avec le prochain sujet de discours : « Relation entre l'Ajusteur et l'Individu ».
 
 Johanna Beukers
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Souvenirs_Souvenirs_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Souvenirs Souvenirs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-39-été-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 39 — Été 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marlene_et_Georges_Michelson_Dupont/Reflexions_de_Georges_et_Marlene_01">
+          <span class="pr-2">Réflexions de Georges & Marlene</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

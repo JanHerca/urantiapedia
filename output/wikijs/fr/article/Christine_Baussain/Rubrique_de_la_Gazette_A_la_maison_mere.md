@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Christine Baussain<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sylvette_Perrier/A_mon_ame_immortelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A mon âme immortelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-17-printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 17 — Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_Bourhis/La_petite_bouteille_se_remplit_encore">
+          <span class="pr-2">La petite bouteille se remplit encore</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 C'est en tant que responsable du bureau Urantia de Paris (Urantia France SA) que j’ai eu la chance, fin janvier, d'aller passer une semaine au siège de la Fondation à Chicago. J’ai eu alors la joie de rencontrer personnellement — enfin chacun des membres de l'équipe, dans un rapprochement humain et professionnel qui a insufflé à notre collaboration un élan nouveau. Richard et Colette, du bureau du Québec, qui étaient venus à la même période pour profiter de l'occasion, ont encore ajouté par leur énergie et leur bonne humeur à l'émulation ambiante.
 
@@ -37,3 +61,27 @@ J'ai été très touchée de constater à quel point chacun peut être impliqué
 J'ai eu pendant cette semaine le grand plaisir de pouvoir travailler avec chacun en particulier, ce qui a donné une impulsion nouvelle à mon travail, et à ma relation au mouvement urantien une touche supplémentaire de chaleur humaine. Les besoins de chacun en termes de collaboration et aide réciproque ont pu être clairement définis, de brillantes idées ont jailli, et nul doute que les résultats concrets de cette rencontre ne tarderont pas à se faire sentir sur les résultats du bureau français — je m'y emploierai en tout cas complètement.
 
 Christine Baussain
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sylvette_Perrier/A_mon_ame_immortelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A mon âme immortelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-17-printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 17 — Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_Bourhis/La_petite_bouteille_se_remplit_encore">
+          <span class="pr-2">La petite bouteille se remplit encore</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

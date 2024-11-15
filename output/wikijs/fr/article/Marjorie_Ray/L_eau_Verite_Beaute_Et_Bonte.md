@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Marjorie Ray<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sebastian_Nozzi/Le_Christianisme_Comme_Une_Chance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Christianisme Comme Une Chance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-89-mars-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 89 — Mars 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gard_Jameson/Une_Grande_Confusion_Sur_La_Race">
+          <span class="pr-2">Une Grande Confusion Sur La Race</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Marjorie Ray
 
@@ -214,3 +238,27 @@ Traduction: G. Michelson-Dupont
 31. Henderson, Lawrence Joseph, 1913. The fitness of the environment: an inquiry into the biological significance of the properties of matter, The Macmillan Company.
 32. Wikipedia contributors. « Fine-tuned universe » Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 20 Sept.. 2019. Web. 1 Oct. 2019. https://en.wikipedia.org/w/index.php?title=Fine-tuned_universe\&oldid=916832227
 33. Hawking, Stephen, 1988. A Brief History of Time, Bantam Books.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sebastian_Nozzi/Le_Christianisme_Comme_Une_Chance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Christianisme Comme Une Chance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-89-mars-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 89 — Mars 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gard_Jameson/Une_Grande_Confusion_Sur_La_Race">
+          <span class="pr-2">Une Grande Confusion Sur La Race</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Anne et Thierry Lepage<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Petite_theorie_personnelle_sur_la_preuve_de_lexistence_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Petite théorie personnelle sur la preuve de l'existence de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-26-été-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 26 — Été 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Neveu/La_volonte_de_Dieu_elucubration">
+          <span class="pr-2">« La volonté de Dieu » : élucubration ou Dieu, mon meilleur copain ?!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Nous sommes arrivés ce matin du 26 avril à Notre Dame des Lumières, qui accueille une rencontre nationale de lecteurs du _Livre d'Urantia_ organisée par l'AFLLU. Le lieu, au nom inspirant, est magnifique : la présence d'un cloître, d'une chapelle et de statues religieuses donne à l'endroit une atmosphère sereine. De plus, sa situation dans un cadre naturel très calme enjoint à la méditation.
 
@@ -27,3 +51,27 @@ Ces différentes réunions ont été entrecoupées de repas où l'on a pu faire 
 Fraternellement.
 
 Anne et Thierry Lepage
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Petite_theorie_personnelle_sur_la_preuve_de_lexistence_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Petite théorie personnelle sur la preuve de l'existence de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-26-été-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 26 — Été 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Neveu/La_volonte_de_Dieu_elucubration">
+          <span class="pr-2">« La volonté de Dieu » : élucubration ou Dieu, mon meilleur copain ?!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

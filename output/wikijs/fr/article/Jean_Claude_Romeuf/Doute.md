@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Jean Claude Romeuf<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Doute_et_doutes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Doute et doutes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-27-automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 27 — Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/21_aout_2003">
+          <span class="pr-2">21 août 2003</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 On pense tous de manière différente. J'ai toujours su que Dieu existait, qu'il était bon et que pour cela il voulait notre bonheur. Il m'a fallu pas mal de temps pour accepter l'idée que celui qui disait le contraire n'était pas un menteur !
 
@@ -36,3 +60,27 @@ Assumer sa destinée, c'est assumer les épreuves de chaque jour avec grâce. Il
 _(<ins>Troisième prière</ins>: personnelle et silencieuse: hymne à la joie et à l'amour)_
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Doute_et_doutes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Doute et doutes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-27-automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 27 — Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/21_aout_2003">
+          <span class="pr-2">21 août 2003</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

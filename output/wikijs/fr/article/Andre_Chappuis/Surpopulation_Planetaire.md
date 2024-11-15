@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 André Chappuis<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/UBIS_Le_Cadre_D_etude_La_Pedagogie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">UBIS Le Cadre D'étude — La Pédagogie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-78-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 78 — Juin 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/TUB_Corrections_au_texte_de_1955">
+          <span class="pr-2">The Urantia Book: Corrections au texte de 1955</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/090.jpg">
@@ -57,3 +81,27 @@ Vu ce qui précède, nous ne pouvons que constater qu'il devient urgent que l'ON
 
 27 mars 2017
 André Chappuis
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/UBIS_Le_Cadre_D_etude_La_Pedagogie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">UBIS Le Cadre D'étude — La Pédagogie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-78-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 78 — Juin 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/TUB_Corrections_au_texte_de_1955">
+          <span class="pr-2">The Urantia Book: Corrections au texte de 1955</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

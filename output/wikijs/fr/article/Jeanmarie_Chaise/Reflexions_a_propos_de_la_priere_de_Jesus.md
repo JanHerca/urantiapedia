@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Jeanmarie Chaise<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Qui_etait_Jesus_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qui etait Jesus ? (2ème partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-été-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Été 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Castel/La_mort_de_Joseph_et_le_destin">
+          <span class="pr-2">La mort de Joseph et le destin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dans le nº130 de « Réflectivité » plusieurs réponses ont été apportées à la question posée dans le nº 129. Je remercie personnellement de tout mon cœur leurs auteurs. La question posée faisait état de la prière de Jésus pour sauver Judas, exhortant celui-ci à ne pas se lasser de bien agir, et lui disant: « ***Je t'ai aimé et j'ai prié pour que tu aimes tes frères. Je t'avertis de te méfier de ceux qui font glisser les hommes sur les sentiers de la flatterie et qui les empoisonnent par les flèches du ridicule.*** »
 
@@ -31,3 +55,27 @@ Lorsque Jésus dit à Judas, ou à un autre humain, qu'il prie pour que son atti
 Ainsi, lorsque Jésus dit à Judas qu'll a prié pour qu'il parvienne à aimer ses frères, il ne s'agit manifestement pas d'une prière au sens où nous l'entendons ordinairement, car Jésus nous affirme par ailleurs, que « ***Ce que le vrai fils désire et que le Père Infini veut EST. Une telle prière ne peut rester sans réponse, et nulle autre sorte de requête ne peut être pleinement exaucée*** » [LU 146:2.7](/fr/The_Urantia_Book/146#p2_7)
 
 Jeanmarie Chaise
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Qui_etait_Jesus_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qui etait Jesus ? (2ème partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-été-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Été 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Castel/La_mort_de_Joseph_et_le_destin">
+          <span class="pr-2">La mort de Joseph et le destin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

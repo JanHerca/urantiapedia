@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Pierre Morency<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Pages_Lyriques">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pages Lyriques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-52-automne-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 52 — Automne 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_03_Les_reponses">
+          <span class="pr-2">Quiz maxien n°3 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 « _Ah, si seulement j'avais ceci, si j'étais comme cela, ma vie serait plus agréable._ » Travailler dur, économiser toute sa vie afin de profiter plus tard. Une attitude insensée aux yeux de Pierre Morency, physicien québécois qui écrit des best-sellers de psychologie. Son leitmotiv : demander pour recevoir. Il en a d'ailleurs fait le titre d'un livre, dans lequel il encourage non seulement à demander, mais à demander beaucoup, partant du principe que plus on demande, plus on reçoit.
 
@@ -53,3 +77,27 @@ Le chemin du succès n'est pas uniquement parsemé d'obstacles, il existe des al
 Pierre Morency : « _Demandez et vous recevrez. Apprenez les principes de la réussite pour une vie plus épanouie_ » Leduc.s Editions 2010 www.pierremorency.com
 
 Pierre Morency
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Pages_Lyriques">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pages Lyriques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-52-automne-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 52 — Automne 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_03_Les_reponses">
+          <span class="pr-2">Quiz maxien n°3 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

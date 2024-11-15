@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Jean-François Drouet<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/L_ange">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'ange</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-18-été-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 18 — Été 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Al'intention de ceux qui n'ont pas pu y participer et en ont exprimé le regret, à l'intention de ceux qui n'en ont pas eu l'intention, pour qu'il en aient le regret et à l'intention des participants pour qu'ils se remémorent les moments qu'ils ont aimés.
 
@@ -119,3 +140,24 @@ Puissions-nous tous être au nombre de ceux qui accomplissent cette actualisatio
 <br style="clear:both;"/>
 
 Jean-François Drouet
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/L_ange">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'ange</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-18-été-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 18 — Été 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

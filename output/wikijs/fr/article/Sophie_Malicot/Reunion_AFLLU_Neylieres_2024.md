@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Sophie Malicot<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Reunion_Europeenne_2025">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion Européenne 2025</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-107-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 107 — Septembre 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Raport_de_la_reunion_nationnale_de_L_AFLLU">
+          <span class="pr-2">Raport de la réunion nationnale de L'A.F.L.L.U</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/171.jpg">
@@ -65,3 +89,27 @@ Je reste longtemps à admirer les étoiles, le ciel et son noir profond où se j
 Et là, dans ce jardin empli des lumières de la nuit, j'ai renouvelé mon choix pour la citoyenneté céleste.
 
 <br style="clear:both;"/>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Reunion_Europeenne_2025">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion Européenne 2025</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-107-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 107 — Septembre 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Raport_de_la_reunion_nationnale_de_L_AFLLU">
+          <span class="pr-2">Raport de la réunion nationnale de L'A.F.L.L.U</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

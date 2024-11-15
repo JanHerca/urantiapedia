@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Rosette Poletti et Barbara Dobbs<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/Sur_les_pas_de_Jesus_fiction">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur les pas de Jésus (fiction)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-60-automne-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 60 — Automne 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Annet/Reunion_belge_19_aout_2012">
+          <span class="pr-2">Réunion belge 19 août 2012</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Clarifier la communication externe
 
@@ -93,3 +117,27 @@ Afin de commencer en nous-mêmes le processus de changement et d'augmenter notre
 (à suivre)
 
 Rosette Poletti et Barbara Dobbs
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/Sur_les_pas_de_Jesus_fiction">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur les pas de Jésus (fiction)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-60-automne-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 60 — Automne 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Annet/Reunion_belge_19_aout_2012">
+          <span class="pr-2">Réunion belge 19 août 2012</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

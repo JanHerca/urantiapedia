@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Yolanda Silva Solano<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Daniel_Courvoisier/Que_belle_vous_avez_fait_la_terre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Que belle vous avez fait la terre!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-44-automne-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 44 — Automne 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Aujourd'hui, alors que tout le monde se plaint de tout, les sourcils se froncent et le moral est au plus bas parce que les compétences qu'on nous demande dans tous les milieux est trop élevé, nous qui avons le privilège de connaître les enseignements de Jésus et qui nous efforçons de les vivre, nous devons être les apôtres modernes, par notre joie de vivre, notre sourire spontané et sincère, allons semer les graines de l'amour partout, car « Quand l'homme souhaite modifier la réalité physique, que ce soit lui- même ou son environnement, il y réussit dans la mesure où il a découvert les façons et moyens de contrôler la matière et de diriger l'énergie. Sans aide, le mental est impuissant à influencer quoi que ce soit de matériel, sauf son propre mécanisme physique auquel il est inéluctablement lié. Mais, par l'emploi intelligent du mécanisme corporel, le mental peut créer d'autres mécanismes, même des rapports d'énergies et des relations vivantes, au moyen desquels ce mental peut de mieux en mieux contrôler et même dominer son niveau physique dans l'univers. « La science est la source des faits et le mental ne peut opérer en l'absence de faits. Dans l'édification de la sagesse, les faits sont les pierres de taille réunies par le ciment de l'expérience de la vie » [LU 111:6.6](/fr/The_Urantia_Book/111#p6_6).
 
@@ -47,3 +68,24 @@ Les êtres humains forment un corps mystique, dans lequel ce qui arrive à l'un 
 Cela vaut la peine que nous fassions un arrêt et, en conscience, nous nous demandions : quel rôle suis-je entrain de jouer en ce moment? Est-ce que j'apporte des choses positives ou encore suis-je une charge inerte pour Tous? J'ai conscience que la planète et mon organisme, interagissent entre eux parce que ses pôles établissent une relation d'unité au travers de forces, non seulement gravitationnelle mais aussi émotionnelle et électromagnétique? Je soigne mon organisme de façon à apporter et rendre de l'énergie positive qui aide le macrocosme de la planète? Je me préoccupe de son bien-être ou je pense que cela est le travail des gouvernants et non la mienne ? Concrètement, que suis-je en train de faire pour éviter le réchauffement global de la terre ?
 
 Yolanda Silva Solano- Chile
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Daniel_Courvoisier/Que_belle_vous_avez_fait_la_terre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Que belle vous avez fait la terre!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-44-automne-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 44 — Automne 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

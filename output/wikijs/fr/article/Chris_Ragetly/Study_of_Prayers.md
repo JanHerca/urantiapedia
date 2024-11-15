@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Chris Ragetly<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_01_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quiz maxien n°1 Les questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-50-printemps-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 50 — Printemps 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Swami_Veetamohananda/The_Presence_of_God">
+          <span class="pr-2">La Présence de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Les remarques personnelles sont par définition subjectives, nombre de lecteurs percevront ces prières différemment. Je pense que ces 7 prières, sélectionnées par Jésus, proviennent de planètes de notre système de Satania, à moins que Jésus n'ait puisé dans le vaste réservoir de prières de tout l'univers de Nébadon._
 
@@ -254,3 +278,27 @@ En (3 et 4), nous pensons que l'effusion de l'esprit divin fait allusion au Moni
 > Pendant que vous apprenez à penser en hommes, vous devriez aussi apprendre à prier comme des enfants. [LU 48:6.32](/fr/The_Urantia_Book/48#p6_32)
 
 CMR
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_01_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quiz maxien n°1 Les questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-50-printemps-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 50 — Printemps 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Swami_Veetamohananda/The_Presence_of_God">
+          <span class="pr-2">La Présence de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

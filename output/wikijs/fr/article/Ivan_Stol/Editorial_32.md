@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Ivan Stol<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/103">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 103 — Septembre 2023 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-103-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 103 — Septembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/La_Vie">
+          <span class="pr-2">La Vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bonjour à tous,
 
@@ -21,3 +45,27 @@ C'est cette Sagesse, semblable à une graine originelle, qui donne chez l'Être 
 Cette Sagesse éternelle est pour une personne spirituelle ce que l'eau vivifiante est pour un épi mur de bonne graine. Elle permet de se rendre compte de la racine des problèmes humains et d'améliorer l'atmosphère de sa vie spirituelle. Elle donne les clés principales pour la compréhension de la réalité multicomplexe de l'être humain et du monde, sert de source à la création des conditions uniques pour former une société créatrice Spirituelle par l'être humain, dans un monde cruel de l'intelligence matérielle Animale. La Sagesse Éternelle permet à l'être humain de se transformer spirituellement et de connaitre le sens caché des évènements passés et futurs. Cette Sagesse est bien l'origine créatrice conçue par Lui-même, ouvrant à chacun qui L'ait acceptée la voie vers Son Éternité. »
 
 Donc écrivez, et Bonne lecture !!!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/103">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 103 — Septembre 2023 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-103-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 103 — Septembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/La_Vie">
+          <span class="pr-2">La Vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

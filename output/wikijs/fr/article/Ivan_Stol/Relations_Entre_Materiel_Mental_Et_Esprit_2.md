@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Ivan Stol<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_30">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-101-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 101 — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/Au_Tombeau">
+          <span class="pr-2">Au Tombeau</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Matériel et Mental
 
@@ -93,3 +117,27 @@ Comme vous pouvez le comprendre, il semble que nous ayons la possibilité de sé
 De plus, Bien qu'il soit difficile de faire entrer des concepts purement spirituels dans notre mental, il reste quand même des niveaux à atteindre que peu d'hommes ont atteint ou même ont rêvé d'atteindre ce qui laisse un potentiel expérientiel important.
 
 Partage des réflexions d'Ivan Stol, en toute Fraternité.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_30">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-101-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 101 — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/Au_Tombeau">
+          <span class="pr-2">Au Tombeau</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

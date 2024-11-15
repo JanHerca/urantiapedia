@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Ivan Stol<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Edito_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edito</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-43-été-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 43 — Été 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claire_Mylanus/Rencontre_nationale_du_22_mai_au_25_mai">
+          <span class="pr-2">Rencontre nationale du 22 mai au 25 mai</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 L'étude de la personnalité dans un cadre sympathique et bien organisé (merci Claire).
 
@@ -23,3 +47,27 @@ Le sujet est long, le séjour sembla court. D'autant que, pour revenir sur terre
 <br style="clear:both;"/>
 
 Ivan Stol
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Edito_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edito</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-43-été-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 43 — Été 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claire_Mylanus/Rencontre_nationale_du_22_mai_au_25_mai">
+          <span class="pr-2">Rencontre nationale du 22 mai au 25 mai</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

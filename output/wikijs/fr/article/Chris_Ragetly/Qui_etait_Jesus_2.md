@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Chris Ragetly<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Raymond_Barilari/Levolution_du_fetichisme_et_idoles_livres_sacres">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’evolution du fetichisme et idoles « livres sacres »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-été-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Été 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Reflexions_a_propos_de_la_priere_de_Jesus">
+          <span class="pr-2">Reflexions à propos de la prière de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Apart les apôtres, il y a d'autres personnalités humaines qui ont connu Jésus et donné leur avis sur son caractère et sa personnalité : citons Rébecca: «...attendre l'heure où celui (Jésus) qui était pour elle le plus grand homme qui ait jamais vécu, commencerait sa carrière de maître, enseignant la vérité vivante...Pour elle aussi bien que pour d'innombrables mondes d'en haut, il était: « le seul entièrement digne d'être aimé et le plus grand parmi dix mille »» ([LU 127:5.6](/fr/The_Urantia_Book/127#p5_6)) Certes, Rébecca était amoureuse de Jésus, et son jugement était inévitablement partial, du moins au début, mais elle le suivit tout au long de son ministère public, et était présente quand Jésus fut suspendu à la croix. Je pense que Rébecca doit avoir actuellement un statut tout à fait spécial dans sa carrière morontielle.
 
@@ -31,3 +55,27 @@ Les urantiens ne furent pas les seuls à bénéficier de la présence du Jésus 
 Fin de la deuxième partie
 
 Chris Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Raymond_Barilari/Levolution_du_fetichisme_et_idoles_livres_sacres">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’evolution du fetichisme et idoles « livres sacres »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-été-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Été 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Reflexions_a_propos_de_la_priere_de_Jesus">
+          <span class="pr-2">Reflexions à propos de la prière de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

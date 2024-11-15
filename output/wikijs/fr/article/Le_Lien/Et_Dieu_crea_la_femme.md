@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Lumiere_04_06_mai_2011_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lumière 04-06 mai 2011 (01)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-55-été-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 55 — Été 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marie_Agnes_Lambert/Revue_Theosophique">
+          <span class="pr-2">Revue Théosophique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Il aura fallu au Créateur six longues journées de travail ininterrompu pour créer la femme. Pendant son labeur, un Ange apparut et lui dit « _Pourquoi passez-vous tant de temps sur ceci, mon Dieu?_ »
 
@@ -41,3 +65,27 @@ _Et puis, Ange bien-aimé, en offrant de la tendresse, la femme offrira la lumi�
 Et alors, le Créateur vit que cela était bon.
 
 Auteur Inconnu
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Lumiere_04_06_mai_2011_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lumière 04-06 mai 2011 (01)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-55-été-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 55 — Été 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marie_Agnes_Lambert/Revue_Theosophique">
+          <span class="pr-2">Revue Théosophique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

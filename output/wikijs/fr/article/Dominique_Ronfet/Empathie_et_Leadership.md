@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Dominique Ronfet<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rosette_Poletti_and_Barbara_Dobbs/L_estime_de_soi_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’estime de soi I</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-59-été-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 59 — Été 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_10_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°10 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Jeremy RIFKIN** dans son livre « _Une nouvelle conscience pour un monde en crise_ » développe une théorie basée sur des résultats d'analyse comportementale et de recherche en neurosciences : l'empathie, cette capacité intuitive à reconnaître les sentiments d'autrui est innée. Elle débute bébé mais sera brimée, étouffée par une éducation culpabilisante.
 
@@ -36,4 +60,28 @@ Dominique Ronfet
 
 <figure id="Figure_9" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_01/154.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rosette_Poletti_and_Barbara_Dobbs/L_estime_de_soi_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’estime de soi I</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-59-été-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 59 — Été 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_10_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°10 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

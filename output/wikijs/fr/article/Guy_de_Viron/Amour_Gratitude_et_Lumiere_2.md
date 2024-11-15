@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Guy de Viron<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Le_billet_du_President_Salon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le billet du Président Salon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-64-automne-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 64 — Automne 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Sur_l_Amour_3">
+          <span class="pr-2">Sur l'Amour III</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Voici la rentrée après de somptueuses heures estivales, gorgées de lumière et de chaleur. Temps des récoltes et des saveurs qui nous pousse à provisionner tous les cadeaux de Dame nature. C'est donc un temps de grâce et de reconnaissance avant les prochains frimas. Est-ce pour cela que Dominique se sent frileux à la lecture du Livre d'Urantia, lui qui espérait y trouver un puissant viatique, un modus vivendi, un sésame havonien... ? Sa question a le mérite de nous interpeller.
@@ -30,3 +54,27 @@ Fraternellement vôtre.
 Le Rédacteur en Chef
 
 Guy de Viron
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Le_billet_du_President_Salon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le billet du Président Salon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-64-automne-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 64 — Automne 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Sur_l_Amour_3">
+          <span class="pr-2">Sur l'Amour III</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

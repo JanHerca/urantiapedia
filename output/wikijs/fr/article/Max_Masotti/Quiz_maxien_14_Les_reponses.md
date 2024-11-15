@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Max Masotti<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Mariage_Gay">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mariage Gay</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-63-été-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 63 — Été 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_20">
+          <span class="pr-2">P’tit Coin de Frère Dom’ Un seul Mot !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Superunivers**
 
@@ -46,3 +70,27 @@ dateCreated: 2024-10-17T22:23:59Z
 20. Á la fin du dernier souper, Jésus donna ce nouveau commandement : « Aimez-vous les uns les autres comme je vous ai aimés. Si vous faites cela, si vous vous aimez ainsi les uns les autres, tous les hommes sauront que vous êtes mes disciples. » [LU 180:1.1](/fr/The_Urantia_Book/180#p1_1)
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Mariage_Gay">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mariage Gay</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-63-été-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 63 — Été 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_20">
+          <span class="pr-2">P’tit Coin de Frère Dom’ Un seul Mot !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

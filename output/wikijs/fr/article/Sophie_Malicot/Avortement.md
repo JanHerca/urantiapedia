@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Sophie Malicot<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_34">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-105-mars-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 105 — Mars 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Nouvelles_de_la_Fondation_Urantia_2">
+          <span class="pr-2">Nouvelles de la Fondation Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Sophie Malicot 
 
@@ -178,3 +202,27 @@ Cette intégration de la notion de perte dans le plan divin n'est pas afférente
 > « C'est cette même personnalité spirituelle, sous une forme primitive et embryonnaire qui, en la possession de l'Ajusteur, survit à la mort naturelle dans la chair. » [LU 101:3.3](/fr/The_Urantia_Book/101#p3_3)
 
 Si notre âme et notre personnalité sont des embryons, parviendront-elles à leur plein rayonnement?
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_34">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-105-mars-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 105 — Mars 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Nouvelles_de_la_Fondation_Urantia_2">
+          <span class="pr-2">Nouvelles de la Fondation Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

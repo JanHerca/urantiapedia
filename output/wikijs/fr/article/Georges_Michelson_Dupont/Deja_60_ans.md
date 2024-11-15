@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Georges Michelson-Dupont<br>© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-72-hiver-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 72 — Hiver 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Etude_de_Bill_Sadler_sur_la_synthese">
+          <span class="pr-2">Étude de Bill Sadler sur la synthèse et la coordination fonctionnelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le 12 Octobre 1955 la Fondation Urantia publiait _The Urantia Book_ aux États-Unis à 10 000 exemplaires. L'histoire révèle que ce fut l'aboutissement d'un long travail préparatoire de contact entrepris dès l'année 1911 entre des êtres supra-célestes et un petit groupe de personnes dans la ville de Chicago. Le processus de contact et de transmission aboutit à la matérialisation des fascicules d'Urantia en quatre parties, la première et la deuxième en 1934, la troisième en 1935 et la dernière, la vie de Jésus en 1937. Dans la hiérarchie des révélations urantiennes, c'est la cinquième.
 
@@ -89,3 +113,27 @@ Enfin, l'étude des enseignements du _Livre d'Urantia_ peut s'avérer difficile 
 > « Au commencement, le Père fait tout ; mais, à mesure que le panorama de l'éternité se déroule en réponse à la volonté et aux commandements de l'Infini, il ressort de plus en plus que les créatures, même les hommes, doivent devenir des partenaires de Dieu pour réaliser la finalité de la destinée. Et ceci est vrai même dans la vie dans la chair ; quand l'homme et Dieu entrent en association, on ne peut assigner aucune limite aux possibilités futures de cette association. Quand l'homme se rend compte que le Père Universel est son partenaire dans la progression éternelle, quand il fusionne avec la présence intérieure du Père, il a rompu, en esprit, les entraves du temps et il est déjà entré dans les progressions de l'éternité, à la recherche du Père Universel. » [[LU 118:5.2](/fr/The_Urantia_Book/118#p5_2)]
 
 _Georges Michelson-Dupont. Recloses_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-72-hiver-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 72 — Hiver 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Etude_de_Bill_Sadler_sur_la_synthese">
+          <span class="pr-2">Étude de Bill Sadler sur la synthèse et la coordination fonctionnelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

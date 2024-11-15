@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Meredith J. Sprunger<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_13_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quiz Maxien n°13 Les questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-62-printemps-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 62 — Printemps 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/Bulletin_de_notes_de_Jesus">
+          <span class="pr-2">Bulletin de notes de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## 2. Les guides supports : Faits, significations et valeurs
 
@@ -47,3 +71,27 @@ Lorsque cette base sociale valable pour l'utilisation de l'avis autorisé est ou
 L'autoritarisme religieux est un obstacle majeur à la croissance spirituelle. Pour les institutions religieuses il est très tentant de substituer dans leur théologie les faits historiques et l'autorité sectaire à la place de la vérité spirituelle. Les religieux zélés et pragmatiques traduisent les hautes vérités spirituelles en des règles spécifiques de vie dont la forme légaliste est dépourvue de la vérité et du pouvoir spirituel qui a inspiré leur élaboration. La compréhension de la vérité libère de toute règle légaliste esclavagiste et nous convie par des principes spirituels dans la suprême liberté de la vie.
 
 Meredith J. Sprunger
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_13_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quiz Maxien n°13 Les questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-62-printemps-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 62 — Printemps 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/Bulletin_de_notes_de_Jesus">
+          <span class="pr-2">Bulletin de notes de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

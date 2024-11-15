@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Ganid">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ganid</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-53-hiver-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 53 — Hiver 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Cecile_Denayrouse/Ces_theories_absurdes">
+          <span class="pr-2">Ces théories absurdes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _L'humour, c'est la femme de ménage de l'esprit!_
 
@@ -37,3 +61,27 @@ _Les gens sont prêts à payer plus pour que l'on les amuse que pour qu'on les �
 _La plus courte distance d'une personne à l'autre, c'est le rire!_ Victor Borge
 
 _Je suis persuadé que l'humain réussi là où il s'amuse !_ Greg Norman
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Ganid">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ganid</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-53-hiver-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 53 — Hiver 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Cecile_Denayrouse/Ces_theories_absurdes">
+          <span class="pr-2">Ces théories absurdes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

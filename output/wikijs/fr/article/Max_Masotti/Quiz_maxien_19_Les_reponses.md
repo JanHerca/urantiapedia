@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Max Masotti<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Benoit/Mandela_Gandhi_King_Et_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mandela, Gandhi, M.L. King... Et Jésus ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-68-automne-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 68 — Automne 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_25">
+          <span class="pr-2">P’tit Coin de Frère Dom’ Jouissance !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Jésus**
 
@@ -46,3 +70,27 @@ dateCreated: 2024-10-19T15:5:2Z
 20. La véritable adoration religieuse n'est pas un futile monologue où l'on se trompe soimême. L'adoration est une communion personnelle avec ce qui est divinement réel, avec ce qui est la source même de la réalité. Par l'adoration, l'homme aspire à devenir meilleur et, par elle, il finit par atteindre le meilleur. [LU 196:3.22](/fr/The_Urantia_Book/196#p3_22)
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Benoit/Mandela_Gandhi_King_Et_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mandela, Gandhi, M.L. King... Et Jésus ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-68-automne-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 68 — Automne 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_25">
+          <span class="pr-2">P’tit Coin de Frère Dom’ Jouissance !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Jean Annet<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Les_Impatients">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Impatients</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-58-printemps-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 58 — Printemps 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Mon_attitude">
+          <span class="pr-2">Mon attitude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Le_Lien/images_01/145.jpg">
@@ -39,3 +63,27 @@ Maintenant, nous nous réjouissons qu'il se rapproche encore un peu plus de Dieu
 « La vie humaine continue — survit — parce qu'elle a une fonction dans l'univers, la tâche de trouver Dieu. Animée par la foi, l'âme de l'homme ne peut s'arrêter avant d'avoir atteint ce but de la destinée et, quand elle a atteint ce but divin, elle ne peut plus prendre fin, car elle est devenue semblable à Dieu — éternelle. »
 
 Jean Annet
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Les_Impatients">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Impatients</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-58-printemps-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 58 — Printemps 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Mon_attitude">
+          <span class="pr-2">Mon attitude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

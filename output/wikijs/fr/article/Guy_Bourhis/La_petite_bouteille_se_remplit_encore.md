@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Guy Bourhis<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Christine_Baussain/Rubrique_de_la_Gazette_A_la_maison_mere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rubrique de la Gazette: A la maison-mère</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-17-printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 17 — Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Sur les conseils de Christine (Cf. « Le lien » n¹5 Automne 2000), j'ai relu le chapitre 7 du fascicule 87. Ce faisant, il ne m'est rien arrivé comme l'avait prédit Christine ! — mais j'ai été saisi par la teneur du paragraphe consacré au symbolisme « nouveau ».
 
@@ -28,3 +49,24 @@ Il y a quelque temps, en Bretagne, au cours de vacances, je suis passé devant u
 Un autre membre ou lecteur pourrait-il me relayer à présent pour tenter de rechercher des symboles nouveaux en allant vers l'intérieur ? Merci
 
 Guy Bourhis
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Christine_Baussain/Rubrique_de_la_Gazette_A_la_maison_mere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rubrique de la Gazette: A la maison-mère</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-17-printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 17 — Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

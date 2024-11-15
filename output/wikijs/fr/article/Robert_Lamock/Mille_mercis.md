@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Robert Lamock<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Avoir_du_Ble">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Avoir du Blé</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-47-été-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 47 — Été 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Johanna_Beukers/Faire_la_volonte_du_Pere">
+          <span class="pr-2">Faire la volonté du Père</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Aujourd'hui, j'ai l'intention d'exprimer simplement par le mot « merci », toute ma gratitude. C'est spontané et cela peut avoir des répercutions sur les plans mentaux et spirituels au-delà de ce que l'on pourrait peut-être imaginer.
 
@@ -54,3 +78,27 @@ Pour ce qui est des pensées et idées spirituelles si minimes soient-elles, sel
 Pour conclure, le Livre est un cadeau de Dieu, à nous de nous en montrer digne.
 
 Robert Lamock
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Avoir_du_Ble">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Avoir du Blé</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-47-été-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 47 — Été 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Johanna_Beukers/Faire_la_volonte_du_Pere">
+          <span class="pr-2">Faire la volonté du Père</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Amour_Gratitude_et_Lumiere_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amour, Gratitude et Lumière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-64-automne-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 64 — Automne 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_15_Les_questions">
+          <span class="pr-2">Quiz Maxien n°15 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 6\. ... Depuis un siècle nous avons subi, sans trop nous en rendre compte, une remarquable transformation dans l'ordre intellectuel. Découvrir, savoir, avaient toujours été une tendance profonde de notre nature. Ne la reconnaissons-nous pas déjà dans l'Homme des cavernes ? Mais ce n'est qu'hier que ce besoin essentiel de connaître s'est explicité et mué en une fonction vitale autonome, primant dans nos existences la préoccupation du manger et du boire. Eh bien, si je ne me trompe, ce phénomène d'individualisation de nos fonctions psychologiques les plus hautes, non seulement est loin d'avoir atteint ses limites sur le terrain de la pensée pure, mais encore il tend à se propager sur un domaine voisin, demeuré pratiquement informe et inexploré : la « terra ignota » des puissances affectives et de l'amour.
 
@@ -67,4 +91,28 @@ Teilhard de Chardin
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_01/177.jpg">
 <figcaption>Employer tout son temps à réaliser Que Lumière, tout est lumière et retourne à la lumière!</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Amour_Gratitude_et_Lumiere_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amour, Gratitude et Lumière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-64-automne-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 64 — Automne 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_15_Les_questions">
+          <span class="pr-2">Quiz Maxien n°15 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

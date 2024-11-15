@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Simon Orsini<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/EON_Wikipedia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">EON (Wikipedia)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-97-mars-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 97 — Mars 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Conscience_Et_Superconscience">
+          <span class="pr-2">Conscience Et Superconscience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_03/083.jpg">
@@ -52,3 +76,27 @@ Le troisième millénaire devrait rétablir la confiance dans le monde, car les 
 Croire que c'est notre religion qui décide de la survie est une aberration. La dictature de certains religieux est contraire à la liberté spirituelle, la religion est là pour que les individus prennent conscience de l'existence de Dieu, qu'il y a une survie au bout de la route. Notre religion doit nous préparer aux vicissitudes de la vie, elle ne doit pas nous imposer de contraintes, elle ne doit pas être un soporifique. Toute religion qui pense être suprême, devrait prendre en exemple la vie de Jésus, les responsabilités, les valeurs, l'honnêteté, la sincérité, la droiture. Les fondations éternelles sur lesquelles il faut bâtir sa propre personnalité immortelle devront transcender l'espace et vaincre le temps pour accomplir une destinée éternelle de perfection.
 
 Simon Orsini
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/EON_Wikipedia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">EON (Wikipedia)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-97-mars-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 97 — Mars 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Conscience_Et_Superconscience">
+          <span class="pr-2">Conscience Et Superconscience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

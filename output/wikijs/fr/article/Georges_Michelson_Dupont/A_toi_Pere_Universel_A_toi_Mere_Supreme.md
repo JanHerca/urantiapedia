@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Georges Michelson-Dupont<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Thierry_Lepage/Mon_Mental_est_Pitoyable">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mon Mental est Pitoyable</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-81-mars-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 81 — Mars 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Concepts_Originaux">
+          <span class="pr-2">Concepts Originaux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Georges Michelson-Dupont
 
@@ -42,3 +66,27 @@ Enfin, j'aimerais saluer et honorer notre frère et ami, Jean Royer qui vient de
 Laissons une minute de silence s'écouler et prier pour lui ; pour nous souvenir des bons moments que nous avons passé ensemble.
 
 Père Universel et Mère Suprême, nous vous remercions de votre soutien.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Thierry_Lepage/Mon_Mental_est_Pitoyable">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mon Mental est Pitoyable</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-81-mars-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 81 — Mars 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Concepts_Originaux">
+          <span class="pr-2">Concepts Originaux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

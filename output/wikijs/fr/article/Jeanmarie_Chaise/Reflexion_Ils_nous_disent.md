@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Jeanmarie Chaise<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Davier/Infaillible_compas_cosmique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Infaillible compas cosmique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-été-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Été 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francois_Dupont/LAjusteur_selon_C_G_Jung">
+          <span class="pr-2">L'Ajusteur selon C.G. Jung</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Les rédacteurs du _Livre d'Urantia_ nous disent ne pas être capables de définir la personnalité. Ce n'est donc pas ce but que nous nous donnerons, du moins pas avant que nous ne soyons beaucoup plus avancés dans notre évolution spirituelle. Ils nous disent aussi que même lorsque nous serons parvenus à Sonarington elle restera pour nous une énigme. Pourtant, ils ne cessent pas de nous en parler, et c'est en les lisant et relisant que nous nous ferons progressivement une idée de plus en plus approchée de ce en quoi elle est une réalité, notre réalité, le vrai mystère de notre existence.
 
@@ -25,3 +49,27 @@ J'en déduis que le rôle fondamental de la personnalité auprès de l'individua
 Je suis assez assuré de mon raisonnement mais si quelqu'un y trouve une faille ou trouve à le compléter, je serais assez heureux qu'il veuille bien donner une suite à ma réflexion.
 
 Jeanmarie
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Davier/Infaillible_compas_cosmique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Infaillible compas cosmique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-été-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Été 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francois_Dupont/LAjusteur_selon_C_G_Jung">
+          <span class="pr-2">L'Ajusteur selon C.G. Jung</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

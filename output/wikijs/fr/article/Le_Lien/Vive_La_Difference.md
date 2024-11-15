@@ -9,6 +9,27 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Gallo/Nouvelles_de_la_Fondation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nouvelles de la Fondation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-96-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 96 — Décembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Depuis longtemps je souhaitais participer à un cours dans le cadre de l' U.B.I.S., cette école du _Livre d'URANTIA_ sur internet. Sa pédagogie, fondée sur la maïeutique si chère à Socrate et son principe de fonctionnement sur un cycle de 10 semaines alternant questions et réponses suivies d'un partage était une formule qui me convenait parfaitement, pouvant participer quand j'en avais le temps au cours en question.
 
@@ -28,3 +49,24 @@ Elle est aussi la source de toutes les sortes de temps et de toutes les formes d
 
 
 > **L'unité spirituelle**: Jacques Zébédée avait demandé : « Maitre, comment apprendrons-nous à avoir le même point de vue et à jouir ainsi d'une plus grande harmonie entre nous ? » Lorsque Jésus entendit cette question, son esprit fut tellement ému qu'il répliqua : « Jacques, Jacques, quand t'ai-je enseigné que vous deviez tous avoir le même point de vue? Je suis venu dans le monde pour proclamer la liberté spirituelle afin que les mortels aient le pouvoir de vivre des vies individuelles originales et libres devant Dieu. Je ne désire pas que l'harmonie sociale et la paix fraternelle soient achetées par le sacrifice de la libre personnalité et de l'originalité spirituelle. Ce que je vous demande, mes apôtres, c'est l'unité spirituelle — dont vous pouvez faire l'expérience dans la joie de l'union de votre consécration à faire, de tout cœur, la volonté de mon Père qui est aux cieux. Vous n'avez pas besoin d'avoir le même point de vue, les mêmes sentiments, ni même des pensées semblables, pour être spirituellement semblables. L'unité spirituelle dérive de la conscience que chacun de vous est habité, et de plus en plus dominé, par le don d'esprit du Père céleste. Votre harmonie apostolique doit naitre du fait que l'espoir spirituel de chacun de vous est identique par son origine, sa nature et sa destinée. [LU 141:5.1](/fr/The_Urantia_Book/141#p5_1)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Gallo/Nouvelles_de_la_Fondation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nouvelles de la Fondation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-96-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 96 — Décembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

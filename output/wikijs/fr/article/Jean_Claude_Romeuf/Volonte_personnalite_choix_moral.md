@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Jean Claude Romeuf<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_Flacon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Flacon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-104-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 104 — Décembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Historique_du_journal_Reflectivite">
+          <span class="pr-2">Historique du journal Réflectivité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jean-Claude Romeuf —1er novembre 2023
 
@@ -135,3 +159,27 @@ C'est seulement à travers eux que j'ai poursuivi mes recherches sur Dieu et que
 J'ai fait la connaissance de personnages hors du commun dans ma vie. Mais les plus grands, souvent inconnus du grand public, je les ai rencontrés au sein des lecteurs du _Livre d'Urantia_. Je crains de ne pas m'être toujours conformé à l'idéal de Dieu, car sa volonté n'est pas toujours facile à accomplir, ni d'être totalement sincère lorsque j'écris. J'ai l'excuse de ne pas avoir été créé parfait et de ne pas l'être encore devenu.
 
 Qu'importe！Si je ne suis pas toujours capable de suivre le chemin que Dieu avait prévu pour moi, je tracerai le mien ; l'important c'est d'avancer. Tant pis s'il ne va pas tout droit et se dessine en zigzagant comme les routes sinueuses des Cévennes. Dieu arrivera quand même à me suivre. Et s'il me dépasse, je ne chercherai pas à le rattraper, il m'attendra au dernier tournant !
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_Flacon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Flacon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-104-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 104 — Décembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Historique_du_journal_Reflectivite">
+          <span class="pr-2">Historique du journal Réflectivité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Max Masotti<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pierre_Morency/Reussite_mode_d_emploi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réussite, mode d’emploi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-52-automne-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 52 — Automne 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_10">
+          <span class="pr-2">P’tit Coin de Frère Dom’</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Univers Central**
 
@@ -57,3 +81,27 @@ C'est la présence des sept esprits-mentaux adjuvats sur les mondes primitifs qu
 17. ([LU 119:0.7](/fr/The_Urantia_Book/119#p0_7)).Micaël à commencé l'organisation de notre univers local, il y a environ quatre-cent-milliards d'années. Il s'est préparé à sa première aventure d'effusion à peu près à l'époque où Urantia prenait sa forme actuelle, il y a un milliard d'années.
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pierre_Morency/Reussite_mode_d_emploi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réussite, mode d’emploi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-52-automne-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 52 — Automne 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_10">
+          <span class="pr-2">P’tit Coin de Frère Dom’</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

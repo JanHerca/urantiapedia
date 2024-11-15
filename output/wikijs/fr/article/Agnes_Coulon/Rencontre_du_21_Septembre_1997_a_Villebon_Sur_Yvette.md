@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Agnès Coulon<br>© 1997 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Francois_Le_Rohellec/Conference_Internationale_de_lIUA_a_Helsinki">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence Internationale de l’I.U.A. à Helsinki du 7 au 10 août 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-5-automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 5 — Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francois_Dupont/Pensees_metaphysiques_dun_agnostique">
+          <span class="pr-2">Pensees metaphysiques d’un agnostique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_01/008.jpg">
@@ -65,4 +89,28 @@ Agnès Coulon
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_01/009.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Francois_Le_Rohellec/Conference_Internationale_de_lIUA_a_Helsinki">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence Internationale de l’I.U.A. à Helsinki du 7 au 10 août 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-5-automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 5 — Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francois_Dupont/Pensees_metaphysiques_dun_agnostique">
+          <span class="pr-2">Pensees metaphysiques d’un agnostique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

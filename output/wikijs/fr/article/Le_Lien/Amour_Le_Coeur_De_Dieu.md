@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Les_Agondontaires">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Agondontaires</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-62-printemps-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 62 — Printemps 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/Ponce_Pilate">
+          <span class="pr-2">Ponce Pilate</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dieu est tout amour et bonté. Il est toute clémence et toute charité.
 
@@ -33,3 +57,27 @@ Homme, mon frère, si je descends vers toi porter la lumière, si je subis encor
 _Extrait du livre « La Tombe parle » 1932_
 
 Edgar Cayce
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Les_Agondontaires">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Agondontaires</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-62-printemps-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 62 — Printemps 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/Ponce_Pilate">
+          <span class="pr-2">Ponce Pilate</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

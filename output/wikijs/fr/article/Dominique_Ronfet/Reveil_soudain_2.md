@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Dominique Ronfet<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joseph_Le_Dain_et_Severin_Desbuisson/Recit_dune_visite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Récit d'une visite</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-25-printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 25 — Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Mots_damour">
+          <span class="pr-2">Mots d'amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Je dédicace ce texte à la mémoire de Jacques Dupont qui nous a quitté._
 
@@ -65,3 +89,27 @@ Certains se hasardaient alors vers le temple et partageaient avec des résidents
 ...à suivre....peut-être.
 
 Dominique Ronfet
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joseph_Le_Dain_et_Severin_Desbuisson/Recit_dune_visite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Récit d'une visite</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-25-printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 25 — Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Mots_damour">
+          <span class="pr-2">Mots d'amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

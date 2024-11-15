@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Max Masotti<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Moussa_Ndiaye/La_Nature_Feminine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Nature Féminine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-54-printemps-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 54 — Printemps 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_12">
+          <span class="pr-2">P’tit Coin de Frère Dom’</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Univers Central**
 
@@ -50,3 +74,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 20. [LU 145:3.10](/fr/The_Urantia_Book/145#p3_10). En quelques instants, 683 hommes, femmes et enfants furent guéris, parfaitement guéris de toutes leurs maladies physiques et de leurs autres désordres organiques.
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Moussa_Ndiaye/La_Nature_Feminine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Nature Féminine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-54-printemps-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 54 — Printemps 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_12">
+          <span class="pr-2">P’tit Coin de Frère Dom’</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

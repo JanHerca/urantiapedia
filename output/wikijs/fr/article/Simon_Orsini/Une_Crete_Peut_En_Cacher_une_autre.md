@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Simon Orsini<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Conference_a_Tallinn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence à Tallinn</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-85-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 85 — Mars 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Marie_Chaise/Les_Paraboles_2">
+          <span class="pr-2">Les Paraboles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 1. De l'atome en cellule, de cellule en molécule, chaque cas représente une infinité d'actions et de réactions électrochimiques, parfois magnétiques, avec une possibilité de combinaisons inimaginables grâce à l'organisation maitrisée des électrons et des protons.
 2. On ne peut plus croire que le hasard règne en Maitre, car nous-même faisons partie de cette réalité, elle s'étale sur un nombre infini de mouvements ordonnés, contrôlés dans un espace déterminé, je ne m'étalerai pas sur tout ce qui est en dehors de la matière.
@@ -124,3 +148,27 @@ Ce sont les prochaines générations qui auront soif de justice, de droiture, de
 Notre Père a de la patience, pour nous la patience fonctionne avec le temps, de la tolérance, parce qu'un Père aime ses enfants, mais pour aller vers lui il faut aussi l'aimer.
 
 Simon Orsini
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Conference_a_Tallinn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence à Tallinn</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-85-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 85 — Mars 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Marie_Chaise/Les_Paraboles_2">
+          <span class="pr-2">Les Paraboles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

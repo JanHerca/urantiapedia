@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Arnaud and Jérôme Pingwende Zoungrana<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_Stephane_Nyasse/LU_au_Cameroun">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia au Cameroun</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 76 — Décembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Mondange/Temoignage_de_Cote_d_Ivoire">
+          <span class="pr-2">Témoignage de Côte d'Ivoire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Témoignage de Arnaud et Jérôme Pingwende Zoungrana_
 Octobre 2016; Ouagadougou; Burkina Faso
@@ -73,3 +97,27 @@ Nous le verrons, comme partout ailleurs en Afrique noire, dès que l'on s'éloig
 De nombreuses Églises et sectes sont bien implantées. Elles captent le fidèle en lui faisant miroiter l'amour, l'argent, et la bonne chance puis le tiennent prisonnier par la peur de l'enfer et la malédiction des mauvais esprits.
 
 La diffusion des enseignements du _Livre d'Urantia_ serait tellement libératrice pour toutes ces âmes affamées. La complexité du livre nécessite la formation de facilitateurs africains et la création de groupes d'étude au sein desquels le partage devient plus facile et fraternel constitue la solution.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_Stephane_Nyasse/LU_au_Cameroun">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia au Cameroun</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 76 — Décembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Mondange/Temoignage_de_Cote_d_Ivoire">
+          <span class="pr-2">Témoignage de Côte d'Ivoire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

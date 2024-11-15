@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Johanna Beukers<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Mondange/Une_Experience_de_lecteur_une_experience_a_tirer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une Expérience de lecteur, une experience a tirer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 38 — Hiver 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Samuel_Heine/Partage_sur_les_enseignements_et_dirigeants_spirituels">
+          <span class="pr-2">Partage sur les enseignements et dirigeants spirituels</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En faisant deux fois 650 km en trois jours qui ont été largement récompensés par notre joie de retrouver nos frères et sœurs, nous nous sommes réunis, 8 femmes et vingt hommes, durant une quarantaine d'heures pour approfondir un thème fort intéressant et toujours actuel : « l'Héritage biologique et culturel de l'espèce humaine » lié aux textes du _Livre d'Urantia_.
 
@@ -43,3 +67,27 @@ En transmettant nos meilleurs vœux à l'AFLLU et ses membres pour une nouvelle 
 Fraternellement
 
 Johanna Beukers
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Mondange/Une_Experience_de_lecteur_une_experience_a_tirer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une Expérience de lecteur, une experience a tirer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 38 — Hiver 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Samuel_Heine/Partage_sur_les_enseignements_et_dirigeants_spirituels">
+          <span class="pr-2">Partage sur les enseignements et dirigeants spirituels</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

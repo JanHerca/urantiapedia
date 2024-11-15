@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Georges Michelson Dupont<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eugene_Asidao/Ministere_Aux_Philippines">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ministère Aux Philippines</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-101-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 101 — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Nouvelles_De_La_Fondation_Urantia">
+          <span class="pr-2">Nouvelles De La Fondation Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Rappel de la pédagogie de l'école
 
@@ -44,4 +68,28 @@ Voilà possiblement la question la plus posée par les étudiants de la 5è rév
 <figure id="Figure_15" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/134.jpg">
 <figcaption>Agnès Lazare et Guy Perron</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eugene_Asidao/Ministere_Aux_Philippines">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ministère Aux Philippines</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-101-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 101 — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Nouvelles_De_La_Fondation_Urantia">
+          <span class="pr-2">Nouvelles De La Fondation Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Simon Orsini<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Edito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edito</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-67-été-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 67 — Été 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Philosophie_hindoue_Principes">
+          <span class="pr-2">Philosophie hindoue Principes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Il m'arrive parfois de me demander si nos scientifiques sont vraiment persuadés de leur théorie sur l'univers. Dans les reportages à la télé, à la radio, dans des revues, ou dans l'enseignement on décrit toujours les choses existantes comme étant dues à la sélection naturelle. Il n'y a jamais de doute, l'existence d'un créateur est écartée d'office, pourtant la plus grande partie des 7 milliards d'êtres humains y croient. Leur théorie sur l'univers est la suivante :
 
@@ -66,3 +90,27 @@ L'humanité a besoin de :
 Le principe fondamental du Père Universel c'est la liberté totale de chaque individu. Il refuse de montrer Sa puissance, de manifester Sa présence aux enfants du temps, afin qu'ils puissent déterminer librement leur avenir spirituel ou non.
 
 Simon Orsini
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Edito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edito</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-67-été-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 67 — Été 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Philosophie_hindoue_Principes">
+          <span class="pr-2">Philosophie hindoue Principes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

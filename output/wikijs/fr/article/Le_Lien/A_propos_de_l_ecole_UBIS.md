@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Groupe d 'étude interactif: troisiéme série</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 73 — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Cours_de_UBIS_pour_le_trimestre_d_avril">
+          <span class="pr-2">Cours de l'école UBIS pour le trimestre d'avril</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 À Propos de l'UBIS
 http://ubis.urantia.org/moodle/
@@ -55,3 +79,28 @@ La seconde période dure 4 fois deux semaines, la première semaine le participa
 
 Durant la troisième période d'une semaine, le participant doit écrire un court essai sur une question posée et répondre à un questionnaire de satisfaction qui permet à l'équipe animatrice de perfectionner le service qu'elle propose.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Groupe d 'étude interactif: troisiéme série</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 73 — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Cours_de_UBIS_pour_le_trimestre_d_avril">
+          <span class="pr-2">Cours de l'école UBIS pour le trimestre d'avril</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

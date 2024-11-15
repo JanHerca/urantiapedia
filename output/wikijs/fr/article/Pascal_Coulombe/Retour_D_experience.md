@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Pascal Coulombe<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Fantaisie_Sur_Un_Theme_Majeur_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fantaisie Sur Un Thème Majeure</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-103-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 103 — Septembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/Quelques_Propos_Sur_Les_Difficultes_De_Diffusion">
+          <span class="pr-2">Quelques Propos Sur Les Difficultés De Diffusion De La 5e Révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Pascal Coulombe
 
@@ -65,3 +89,27 @@ Chers frères soyons forts et constants quelles que soit les épreuves, car nous
 <br>
 Fraternellement,<br>
 </p>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Fantaisie_Sur_Un_Theme_Majeur_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fantaisie Sur Un Thème Majeure</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-103-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 103 — Septembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/Quelques_Propos_Sur_Les_Difficultes_De_Diffusion">
+          <span class="pr-2">Quelques Propos Sur Les Difficultés De Diffusion De La 5e Révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

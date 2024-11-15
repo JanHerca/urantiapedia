@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Georges Michelson Dupont<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Approche_philosophique_et_historique_de_la_mecanique_quantique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Approche philosophique et historique de la mécanique quantique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-105-mars-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 105 — Mars 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Richard_Zhu/Differences_entre_les_caracteres_chinois">
+          <span class="pr-2">Différences entre les caractères chinois Simplifiés et Traditionnels</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 VERSION EN CARACTÈRES SIMPLIFIÉS
 VERSION EN CARACTÈRES TRADITIONNELS.
@@ -59,3 +83,27 @@ Les deux versions seront postées en ligne sur le site de la Fondation Urantia e
 **Taïwan et la diaspora chinoise**: Certains membres de la Fondation, dont votre serviteur, vont présenter les deux versions de la traduction chinoise à Taïpei, dans l'ile de Taïwan. La révélation est très attendue par les chercheurs de vérités et nous savons que la traductrice a préparé le « terrain » pour qu’elle soit largement diffusée. Une conférence de 3 jours est organisée au cours de laquelle nous allons présenter, à l'aide de PowerPoints traduits en chinois, certains concepts que l'on nous a demandé de présenter comme, l'Ajusteur de Pensée, la Personnalité, la conscience cosmique ou la vie de Jésus.
 
 Nous attendons un peu plus d'une centaine de participants, des Taïwanais, des Hongkongais mais aussi des habitants de la Chine Continentale.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Approche_philosophique_et_historique_de_la_mecanique_quantique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Approche philosophique et historique de la mécanique quantique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-105-mars-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 105 — Mars 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Richard_Zhu/Differences_entre_les_caracteres_chinois">
+          <span class="pr-2">Différences entre les caractères chinois Simplifiés et Traditionnels</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

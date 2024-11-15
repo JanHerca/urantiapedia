@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Eileen Caddy<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Printemps_etude_du_futur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Printemps : étude du futur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-44-automne-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 44 — Automne 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Daniel_Courvoisier/Que_belle_vous_avez_fait_la_terre">
+          <span class="pr-2">Que belle vous avez fait la terre!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 L'amour divin est impérissable
 et ne peut être affecté par des conditions, des situations,
@@ -57,3 +81,27 @@ décelant cette étincelle divine qui existe en chaque être.
 Regarde avec des yeux qui voient vraiment,
 écoute avec des oreilles qui entendent véritablement
 et remercie éternellement.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Printemps_etude_du_futur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Printemps : étude du futur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-44-automne-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 44 — Automne 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Daniel_Courvoisier/Que_belle_vous_avez_fait_la_terre">
+          <span class="pr-2">Que belle vous avez fait la terre!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

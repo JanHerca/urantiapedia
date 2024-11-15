@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Emmanuel Desurvive<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Petites_bulles_morontielles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Petites bulles morontielles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-40-automne-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 40 — Automne 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Centre d'Etude et de Réflexion
 sur la Destinée Humaine
@@ -171,3 +192,24 @@ Enfin il existe un moyen d'accroître _consciemment_ l'harmonie avec le Père in
 C'est seulement par ce long processus de maturation que l'homme peut arriver à cette « perfection de dessein », qui l'amène à ressembler à Dieu à partager par expérience la perfection éternelle du Père.
 
 Emmanuel Desurvive
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Petites_bulles_morontielles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Petites bulles morontielles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-40-automne-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 40 — Automne 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

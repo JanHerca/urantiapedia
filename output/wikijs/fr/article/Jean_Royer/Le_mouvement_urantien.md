@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jean Royer<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_Trinite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Trinité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-36-printemps-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 36 — Printemps 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Souverainete_spirituelle">
+          <span class="pr-2">Souveraineté spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Nous sommes engagés dans un mouvement et non pas dans une Eglise. Mouvement est apparenté au latin 'movere' qui signifie bouger. Il faut donc que ça bouge!
 
@@ -47,3 +71,27 @@ Un dernier exemple. Ne serait-il pas bon et facile, en ces temps que l'on dit mo
 Il faut abandonner l'anxiété. Les déceptions les plus difficiles à supporter sont celles qui n'arrivent jamais ([LU 48:7.21](/fr/The_Urantia_Book/48#p7_21)) Mais il y en a bien d'autres.
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_Trinite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Trinité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-36-printemps-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 36 — Printemps 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Souverainete_spirituelle">
+          <span class="pr-2">Souveraineté spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

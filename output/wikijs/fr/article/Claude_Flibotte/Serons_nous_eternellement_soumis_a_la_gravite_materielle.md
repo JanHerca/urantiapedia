@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Claude Flibotte<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_33">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-104-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 104 — Décembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/Au_theatre_du_temps">
+          <span class="pr-2">Au théâtre du temps</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Claude Flibotte — Sainte-Julie
 
@@ -43,3 +67,27 @@ Maintenant, la question qui me vient à lesprit est celle-ci : c'est bien de pou
 ## LES BOUCLIERS DES ANGES TRANSPORTEURS
 
 Les révélateurs nous apprennent que les séraphins transporteurs de personnalités doivent endosser des boucliers antifriction, ceux-là mêmes qui ont été confondus avec une paire d'ailes par les humains. Ces fameux boucliers sont des isolateurs d'énergie ([LU 39:5.12](/fr/The_Urantia_Book/39#p5_12)). Ils isolent la personnalité des forts courants dénergie rencontrés par le séraphin dans son périple. Pourquoi utiliser ces boucliers, me direz-vous? Les séraphins sont des esprits, en principe les boucliers ne leur seraient pas nécessaires!À moins quétant des enfants de la Divine Ministre d'un univers local ([LU 26:1.14](/fr/The_Urantia_Book/26#p1_14)), ils ne satisfassent pas tous les critères nécessaires en tant qu'esprit pour s'en passer! Mais qu'en est-il des passagers ? Un être matériel ne peut être transporté ainsi ([LU 51:2.2](/fr/The_Urantia_Book/51#p2_2)). Il n'y a pas de compatibilité entre les deux natures. Ce qui est transportable par les séraphins, ce sont les êtres morontiels à tous les stades et les êtres spirituels n'ayant pas encore atteint le plein statut de citoyenneté paradisiaque. Alors ces types dêtres ont tous besoin d'une protection pour ne pas tout simplement griller en cours de route ! Bref, je vous laisse réfléchir à tout cela !
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_33">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-104-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 104 — Décembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/Au_theatre_du_temps">
+          <span class="pr-2">Au théâtre du temps</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

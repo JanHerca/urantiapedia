@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Jean-Claude Romeuf<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Davier/Coin_detente_Impressions_davenir">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coin détente : Impressions d'avenir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-18-été-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 18 — Été 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Francois_Drouet/Apres_la_rencontre_de_mai_2001_a_ND_des_Lumieres">
+          <span class="pr-2">Aprés la rencontre de mai 2001 à N. D. des Lumiêres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Flora jouait sur la plage, une plage comme toutes les plages : avec la mer devant, bleue ou grise comme on préfère, ça, c'est pas important. Ce qui compte, c'est de s'imaginer la fillette jouant seule sur le sable, au bord de la mer.
 
@@ -25,3 +49,27 @@ Un ange se posa près d'elle. Il y a belle lurette qu'elle connaissait l'existen
 « Je croyais que les anges ne donnaient de conseils que sur demande !...L'ai-je vexé ? Bof ! Il est parti. »
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Davier/Coin_detente_Impressions_davenir">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coin détente : Impressions d'avenir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-18-été-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 18 — Été 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Francois_Drouet/Apres_la_rencontre_de_mai_2001_a_ND_des_Lumieres">
+          <span class="pr-2">Aprés la rencontre de mai 2001 à N. D. des Lumiêres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

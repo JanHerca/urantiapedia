@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Jean Royer<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Lhomme_a_t_il_besoin_de_Dieu_pour_Vivre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'homme a-t-il besoin de Dieu pour Vivre ? Est-ce faiblesse de croire en Dieu?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-23-automne-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 23 — Automne 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Dalamatia_la_cite_des_cents_de_Caligastia">
+          <span class="pr-2">Dalamatia, la cité des cents de Caligastia, Dilmun, la cité des nodites</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Nous avons tous lu le chapitre 2 des pages 266 et 267 , mais qu'en avons-nous retenu? En général, à la première lecture, peu de choses. Pourtant ce chapitre fourmille d'indications intéressantes à condition de pouvoir les corréler. Regardons-le d'un peu plus près.
 
@@ -29,3 +53,27 @@ Il serait intéressant d'analyser cette émergence de la volonté relativement a
 Terminons ce bref aperçu sur ce chapitre par une question: Pourquoi donc les archivistes officiels d'Uversa inscrivent-ils _dans leurs annales la situation du superunivers telle qu'elle ressort des enregistrements sur et dans la personnalité d'Usatia si Ces données du recensement sont propres au superunivers; ces rapports ne sont transmis ni à Havona ni au Paradis ?_ ([LU 24:2.6](/fr/The_Urantia_Book/24#p2_6)) S'agit-il d'évaluer l'évolution propre du superunivers ou bien de faire des comparaisons avec les autres superunivers? Qui peut consulter ces archives?
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Lhomme_a_t_il_besoin_de_Dieu_pour_Vivre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'homme a-t-il besoin de Dieu pour Vivre ? Est-ce faiblesse de croire en Dieu?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-23-automne-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 23 — Automne 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Dalamatia_la_cite_des_cents_de_Caligastia">
+          <span class="pr-2">Dalamatia, la cité des cents de Caligastia, Dilmun, la cité des nodites</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

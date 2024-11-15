@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Robert Gallo<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Conte_des_trois_penseurs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conte des trois penseurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-106-juin-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 106 — Juin 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Duvau/Repersonnalisation">
+          <span class="pr-2">Repersonnalisation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Par Robert Gallo)
 
@@ -53,3 +77,27 @@ On ira tous au Paradis, toi et moi
 Qu'on soit béni ou qu'on soit maudit, on ira ...
 
 > « Dans l'expérience intérieure de l'homme, le mental est joint à la matière. Un tel mental lié à la matière ne peut survivre au décès du mortel. Pour embrasser la technique de la survie, il faut effectuer les ajustements de la volonté humaine et les transformations dans le mental mortel par lesquels un intellect conscient de Dieu se fait enseigner graduellement, et finalement conduire par lesprit. De cette évolution du mental humain allant de lassociation avec la matière à l'union avec l'esprit, il résulte une transmutation des phases potentiellement spirituelles du mental mortel en réalités morontielles de lâme immortelle. Le mental humain soumis à la matière est destiné à devenir de plus en plus matériel et en conséquence à subir finalement l'extinction de la personnalité. Le mental qui s'est laissé dominer par l'esprit est destiné à devenir de plus en plus spirituel et à finalement atteindre l'unité ultime avec l'esprit divin qui survit et le guide, et de cette manière à atteindre la survie et léternité de lexistence de la personnalité. » [[LU 1:3.7](/fr/The_Urantia_Book/1#p3_7)]
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Conte_des_trois_penseurs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conte des trois penseurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-106-juin-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 106 — Juin 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Duvau/Repersonnalisation">
+          <span class="pr-2">Repersonnalisation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Jean Claude Romeuf<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Ajusteur_Absoluite_et_Fusion_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ajusteur, Absoluité et Fusion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-102-juin-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 102 — Juin 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Coeurrier_des_lecteurs_01">
+          <span class="pr-2">Cœurrier des lecteurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jean Claude Romeuf
 Viñales, Cuba
@@ -129,3 +153,27 @@ Je Te la donne, mon Dieu, avec fout l'amour de mon cour parce que je T'aime, et 
 mains; sans inesure avec une infinie confiance, car Tu es mon Père.
 
 Charles de Foucauld.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Ajusteur_Absoluite_et_Fusion_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ajusteur, Absoluité et Fusion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-102-juin-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 102 — Juin 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Coeurrier_des_lecteurs_01">
+          <span class="pr-2">Cœurrier des lecteurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

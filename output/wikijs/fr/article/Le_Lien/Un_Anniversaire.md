@@ -9,6 +9,27 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/3eme_Congres_Europeen_d_Urantia_En_Espagne">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">3ème Congrès Européen D'urantia En Espagne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-99-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 99 — Septembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Chers lecteurs et étudiants de la Cinquième Révélation d'Époque, Le prochain LIEN publié par notre association portera le Nº 100. À raison de 4 numéros par an cela fera sa vingt-cinquième année de parution; &frac14; de siècle !
 
@@ -23,3 +44,24 @@ Dans cette attente je vous souhaite un quatrième trimestre
 Votre frère en esprit
 
 G. Michelson Dupont
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/3eme_Congres_Europeen_d_Urantia_En_Espagne">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">3ème Congrès Européen D'urantia En Espagne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-99-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 99 — Septembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

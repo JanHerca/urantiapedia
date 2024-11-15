@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Ivan Stol<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/Lumieres_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lumières 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-100-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 100 — Décembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Khatukhira_Bernard/Conference_Urantia_En_Ouganda_2022">
+          <span class="pr-2">Conférence Urantia En Ouganda 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_19" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/118.jpg">
@@ -94,3 +118,27 @@ _Partage des réflexions d'Ivan Stol, en toute Fraternité_
 > Population : 47,12 millions (2021) — Langues : Swahili, Anglais
 > Religions : La religion principale en Ouganda est le christianisme, principalement des catholiques et des anglicans, avec une minorité musulmane.
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/Lumieres_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lumières 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-100-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 100 — Décembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Khatukhira_Bernard/Conference_Urantia_En_Ouganda_2022">
+          <span class="pr-2">Conférence Urantia En Ouganda 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Georges Michelson-Dupont<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Tous_ces_voyages_en_Europe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tous ces voyages en Europe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-84-décembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 84 — Décembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Etudier_le_Livre_d_Urantia_Pour_Quoi_Faire">
+          <span class="pr-2">Étudier le Livre d’Urantia. Pour Quoi Faire?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Georges Michelson-Dupont_
 
@@ -268,6 +292,31 @@ Encore une fois, cette diversification du **JE SUIS** est la conséquence du des
 
 Ainsi se termine la première partie de notre exploration des âges du maitre univers. Nous aborderons dans le prochain *LIEN*, les conséquences de la diversification de ce même **JE SUIS** entrainant les relations trines fonctionnelles des Absolus en Trinité, triunités et triodité ; s les fondements de l'univers.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Tous_ces_voyages_en_Europe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tous ces voyages en Europe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-84-décembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 84 — Décembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Etudier_le_Livre_d_Urantia_Pour_Quoi_Faire">
+          <span class="pr-2">Étudier le Livre d’Urantia. Pour Quoi Faire?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

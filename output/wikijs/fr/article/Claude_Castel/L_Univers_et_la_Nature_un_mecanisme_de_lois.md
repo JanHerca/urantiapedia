@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Claude Castel<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Hubaut/L_hymne_a_l_amour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’hymne à l’amour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-56-automne-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 56 — Automne 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/La_Femme">
+          <span class="pr-2">La Femme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Qu'est-ce que la Source Centre Première de toutes les choses et de tous les êtres, que l'on appelle le Dieu Unique ou le Père Universel, ou de tout autre nom. Cette source, c'est l'Esprit qui crée la Nature matérielle et qui est à l'origine de l'Univers vivant. ([LU 1:0.1](/fr/The_Urantia_Book/1#p0_1)). Cet Esprit est une personnalité infinie et créatrice. Il n'est pas limité à une seule forme. C'est l'infiniment subtil (ou l'Absolu), omniprésent, omniscient et tout puissant qui commande son corps : l'Univers, la Nature matérielle (ou le Relatif). Chaque créature, qu'elle soit minérale, végétale, animale ou humaine fait partie de cet ensemble divin.
 
@@ -63,3 +87,27 @@ Comme nous l'avons vu plus haut, yang et yin sont toujours réunis car ils sont 
 Ce texte doit permettre à chacun de comprendre que, même si la vie est parfois décourageante et semée d'embûches, elle tend toujours finalement vers une amélioration, même s'il y a des défaillances et des décadences momentanées ; et que les souffrances humaines peuvent être réduites si l'être humain respecte les lois naturelles et divines, ainsi que toutes les autres créatures. Cette attitude harmonise sa vie avec la Source Centre Première de toutes créatures: le Père Universel. Par ce respect, les maux dont souffre l'humanité peuvent être grandement diminués et la civilisation nettement améliorée pour conduire à un monde meilleur. « _Toutes vos luttes de mortels n'ont pas lieu en vain_ » [LU 32:5.1](/fr/The_Urantia_Book/32#p5_1)
 
 Claude Castel
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Hubaut/L_hymne_a_l_amour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’hymne à l’amour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-56-automne-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 56 — Automne 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/La_Femme">
+          <span class="pr-2">La Femme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

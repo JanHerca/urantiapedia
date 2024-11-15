@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jean-Claude Romeuf<br>© 2005 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/033">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 33 — Printemps 2005 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-33-printemps-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 33 — Printemps 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/L_ami_de_Dieu">
+          <span class="pr-2">L'ami de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La légende raconte que le Docteur Sadler ne crut véritablement en la véracité du LU qu'après la lecture du fascicule 139, traitant du caractère et du tempérament des douze apôtres.
 
@@ -33,3 +57,27 @@ Mais, n'oublions pas que depuis notre humble planète jusqu'aux splendeurs parad
 Vouloir imposer son opinion, que ce soit sur le niveau intellectuel, émotionnel ou spirituel, c'est rechercher un pouvoir de domination immérité sur les autres. C’est pratiquer l'intolérance et par voie de conséquence, c'est rejeter l'amour. La connaissance de la vérité peut s'acquérir par le QI, la sensibilité à la beauté est un fruit du QE et la bonté se développe grâce au QS . Mais, l’harmonie des trois est synonyme de divinité ou d'amour.
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/033">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 33 — Printemps 2005 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-33-printemps-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 33 — Printemps 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/L_ami_de_Dieu">
+          <span class="pr-2">L'ami de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Agnès Lazarre and Guy Perron<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/L_ame_En_Soi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'âme En Soi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-91-septembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 91 — Septembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## 3ème Sommet De Dakar
 
@@ -95,4 +116,25 @@ Filles de Dieu qui s'en vont dans l'espace pour tenter de copier dans le temps l
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/042.jpg">
 <figcaption>Présents: Doudou Diagne, Assane Diagne, Кhatabe Ndiaye, Moustapha K. Ndiaye, Assane Ndiaye, Сheikh Ndiaye, Aurore Hennebert, Guy Perron, Agnès Lazar</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/L_ame_En_Soi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'âme En Soi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-91-septembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 91 — Septembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

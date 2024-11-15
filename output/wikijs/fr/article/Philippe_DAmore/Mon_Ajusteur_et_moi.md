@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Philippe D'Amore<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_centre_de_decision">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le centre de decision</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-hiver-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Hiver 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Comme tous les lecteurs du livre d'Urantia, je tente sans prétention de me rapprocher de mon ajusteur de pensée, de rentrer en contact avec lui, pour cela j'ai ma méthode, je ne sais pas si j'y parviens mais je veux y croire.
 
@@ -42,3 +63,24 @@ Peut-être que Dieu a essaye` de rentrer en contact avec nous mais que l'assidui
 A lire : l'ordre du silence de Gurdjieff à Melchizedek de Robert Pages Edition Robert Lafont
 
 Philippe D'Amore
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_centre_de_decision">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le centre de decision</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-hiver-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Hiver 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

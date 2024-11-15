@@ -9,6 +9,27 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Simon Orsini<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Pour_Les_Geneticiens">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pour Les Généticiens</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-94-juin-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 94 — Juin 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Certains disent que le temps n'existe pas, je suis persuadé du contraire. Le temps n'est certainement pas une chose concrète qu'on peut démontrer par les mathématiques. Cependant le temps peut être la somme de deux ou plusieurs facteurs qui représentent souvent quelque chose de plus que la somme des conséquences prévisibles, nous avons l'exemple de l'eau (hydrogêne plus oxygêne) l'eau éteint le feu.
 
@@ -76,3 +97,24 @@ On peut contrôler les électrons comme négatifs ou positifs, mais à certains 
 
 
 Simon Orsini.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Pour_Les_Geneticiens">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pour Les Généticiens</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-94-juin-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 94 — Juin 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Georges Michelson-Dupont<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Conference_Europeenne_de_Budapest">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence Européenne de Budapest</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 73 — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/A_propos_de_l_ecole_UBIS">
+          <span class="pr-2">À propos de l'école UBIS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Dans la nouvelle édition du Lien, nous vous proposons d'approfondir quelques concepts du _Livre d'Urantia_ d'une manière interactive un peu à la manière d'un groupe d'étude. Des questions sur un thème donné seront posées avec une liste de lectures proposées pour y répondre.
 > 
@@ -60,3 +84,27 @@ Quand nous cherchons à maitriser notre égo revendicateur et nos tentations psy
 **Comment expliquez-vous cette affirmation et quelle leçon en tirez-vous?**
 
 La quatrième période sera publiée dans _le Lien_ Nº 74 de juin 2016
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Conference_Europeenne_de_Budapest">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence Européenne de Budapest</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 73 — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/A_propos_de_l_ecole_UBIS">
+          <span class="pr-2">À propos de l'école UBIS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

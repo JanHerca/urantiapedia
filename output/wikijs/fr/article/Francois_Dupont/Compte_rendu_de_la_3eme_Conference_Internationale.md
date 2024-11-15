@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 François Dupont<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Yves_Vigneron/Conception_artistique_du_Maitre_Univers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conception artistique du Maitre Univers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-2-automne-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 2 — Automne 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/George_Michelson_Dupont/Reunion_des_traducteurs_du_Livre_dURANTIA">
+          <span class="pr-2">Réunion des traducteurs du Livre d’URANTIA organisée par la Fondation URANTIA à PARIS en Avril 1996</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Du 9 au 12 Août 1996 s'est déroulée à Nasville-Tennessee (USA) la 3^ème^ conférence de l'I.U.A. Les associations nationales de différents Etats s'y sont retrouvées.
 
@@ -52,3 +76,27 @@ Notre compréhension de la citoyenneté cosmique ainsi que notre dialogue avec D
 
 François Dupont
 1^er^ Septembre 1996 — BRUXELLES
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Yves_Vigneron/Conception_artistique_du_Maitre_Univers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conception artistique du Maitre Univers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-2-automne-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 2 — Automne 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/George_Michelson_Dupont/Reunion_des_traducteurs_du_Livre_dURANTIA">
+          <span class="pr-2">Réunion des traducteurs du Livre d’URANTIA organisée par la Fondation URANTIA à PARIS en Avril 1996</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

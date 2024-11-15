@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Georges Michelson-Dupont<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Reunion_Annuelle_de_l_AFLLU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion Annuelle de l’AFLLU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-83-septembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 83 — Septembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Thierry_Lepage/Priere_sous_forme_de_Poeme">
+          <span class="pr-2">Prière sous forme de Poème</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le contenu du _Livre d'Urantia_ diffère totalement de n'importe quel autre enseignement, il est _intellectuel_ par l'apport d'informations nouvelles, oubliées où manquantes sur notre planète, _morontiel_ par la présentation de nouveaux concepts sur la Déité et l'organisation de l'univers, et _spirituel_ par une présentation renouvelée de la vérité tout au long du livre et de la vie et des enseignements de Jésus. Les auteurs ont rassemblé dans un livre de plus de 2100 pages une collection de 197 fascicules organisés logiquement depuis le transcendant vers l'immanent, présentés comme des cours traitant à chaque fois de sujets indépendants cependant liés formant un gigantesque puzzle.
 
@@ -256,3 +280,27 @@ Un modérateur est nommé au début de la session. Il est chargé de donner la p
 Ce processus de « lecture-questions-partages » savamment organisé entre participants avec l'aide de l'enseignant est vraiment profitable pour tout le groupe. Une véritable expansion cosmique se produit dans le mental des participants, l'Esprit de Vérité est à l'œuvre pour apporter la certitude spirituelle de la vérité et l'Ajusteur de Pensée se saisit des découvertes pour faire émerger de nouvelles significations de la vérité pour inspirer les participants à vivre les enseignements.
 
 À la fin du groupe deétude, une demi-heure est consacrée à leautoévaluation au cours de laquelle les participants partagent leur expérience de la session, parlent de leur progrès et expriment leur gratitude pour l'assistance spirituelle quìls ont reçue.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Reunion_Annuelle_de_l_AFLLU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion Annuelle de l’AFLLU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-83-septembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 83 — Septembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Thierry_Lepage/Priere_sous_forme_de_Poeme">
+          <span class="pr-2">Prière sous forme de Poème</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

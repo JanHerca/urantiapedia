@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Sylvette Perrier<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_Bourhis/Vivre_la_volonte_de_notre_Pere_une_experience_au_quotidien">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivre la volonté de notre Père : une expérience au quotidien</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-17-printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 17 — Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Francois_Drouet/Coin_detente_Le_macon_et_le_grand_architecte">
+          <span class="pr-2">Coin détente : Le maçon et le grand architecte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Celui qui croit à la 5^ème^ Révélation, qui a eu enfin la grâce de connaître Le Livre d'Urantia, de le lire régulièrement, de faire de son mieux pour assurer sa survie, aller dans la direction du Plan Divin, Qui veut en toutes choses de sa vie faire la Volonté du Père, prie et s'en remet à la gouverne de son Ajusteur. Mais si, apparemment et souvent, dans les situations de la vie de tous les jours, il ne voit pas toujours la ligne à suivre (malgré ses prières et sa bonne volonté) il doit avoir présent à l'esprit « aller dans le sens de la Vérité, La Beauté et la Bonté ». C'est facile à dire, mais pas toujours à faire !
 
@@ -27,3 +51,27 @@ Il agit dans le sens du Bon (il protège son foyer, tout en se faisant du Bien �
 J'ai mon opinion sur tous ces exemples archétypaux, mais je pense qu'elle est bien sure relative. Echanger le mental humain contre celui de Jésus ? Dans ces cas là, qui sont, comme je l'ai dis, des sortes d'archétypes de situations courantes de la vie, cela paraît très abstrait, car Jésus étant Parfait, ne pouvait pas se trouver dans ces cas-là.
 
 Sylvette Perrier
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_Bourhis/Vivre_la_volonte_de_notre_Pere_une_experience_au_quotidien">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivre la volonté de notre Père : une expérience au quotidien</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-17-printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 17 — Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Francois_Drouet/Coin_detente_Le_macon_et_le_grand_architecte">
+          <span class="pr-2">Coin détente : Le maçon et le grand architecte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

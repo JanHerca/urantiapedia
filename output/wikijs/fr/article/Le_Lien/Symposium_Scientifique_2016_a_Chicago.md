@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti_and_Tor_Eriksen/Rapport_de_l_Assemblee_Generale_2016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport de l'Assemblée Générale 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 75 — Septembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ralph_Zehr/Organisme_Unicellulaire_L_explosion_Cambrienne_Nanomachines">
+          <span class="pr-2">Organisme Unicellulaire L'explosion Cambrienne — Nanomachines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Chicago — 2 au 6 juin 2016_
 
@@ -40,3 +64,27 @@ I\. Organismes Unicellulaires — L'explosion Cambrienne — Nanomachines — Ta
 
 6\. Le Cerveau Spirituel: Compréhension Évolutionnaire Et Éclaircissement Révélatoire. — par Marta A Elders [The Spiritual Brain: Evolutionary Understanding and Revelatory Enlightenment. — by Marta A Elders ]
 7\. La nature a-T-Elle un desSEin ? — par Neal Kendal [Is There Design in Nature? — by Neal Kendal]
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti_and_Tor_Eriksen/Rapport_de_l_Assemblee_Generale_2016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport de l'Assemblée Générale 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 75 — Septembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ralph_Zehr/Organisme_Unicellulaire_L_explosion_Cambrienne_Nanomachines">
+          <span class="pr-2">Organisme Unicellulaire L'explosion Cambrienne — Nanomachines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

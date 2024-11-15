@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Simon Orsini<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Thierry_Lepage/Priere_sous_forme_de_Poeme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prière sous forme de Poème</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-83-septembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 83 — Septembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/La_Naissance_de_l_Esprit">
+          <span class="pr-2">La Naissance de l'Esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La vie et la matière sont deux choses différentes dans notre univers. La vie telle que nous la connaissons, ne pourrait pas exister sans la présence de cette matière. Mais la matière par elle-même ne peut pas donner la vie, car sa seule source est celle du Père Universel.
 
@@ -157,3 +181,27 @@ Une âme ne devient pas divine par ce qu'elle fait, mais par ce qu'elle s'efforc
 
 Simon Orsini,
 Carticasi, Corse
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Thierry_Lepage/Priere_sous_forme_de_Poeme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prière sous forme de Poème</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-83-septembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 83 — Septembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/La_Naissance_de_l_Esprit">
+          <span class="pr-2">La Naissance de l'Esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

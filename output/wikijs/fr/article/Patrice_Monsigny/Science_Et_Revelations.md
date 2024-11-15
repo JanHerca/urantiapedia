@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Patrice Monsigny<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Etudier_La_Revelation_Pour_Quoi_Faire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Étudier La Révélation Pour Quoi Faire ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-92-décembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 92 — Décembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Un_Univers_Sans_Big_Bang">
+          <span class="pr-2">Un Univers Sans Big-Bang</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Voici un questionnement intéressant venant de notre ami Patrice Monsigny paru sur le forum de l'AFLLU que nous livrons à la sagacité des lecteurs: Vos commentaires ou réponses argumentées sont les bienvenus à la rédaction, ils pourraient être publiés dans votre prochain LIEN.
 
@@ -46,3 +70,28 @@ Comment admettre que le Christ glorifié n'est pas la 2ème personne de la trini
 
 Amitié fraternelle
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Etudier_La_Revelation_Pour_Quoi_Faire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Étudier La Révélation Pour Quoi Faire ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-92-décembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 92 — Décembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Un_Univers_Sans_Big_Bang">
+          <span class="pr-2">Un Univers Sans Big-Bang</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

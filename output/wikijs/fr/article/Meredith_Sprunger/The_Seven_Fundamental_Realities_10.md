@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Meredith J. Sprunger<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_18_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quiz Maxien n°18 Les questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-67-été-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 67 — Été 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/La_Deite_2">
+          <span class="pr-2">La Déité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## 7. Actions fondamentales : L'amour fraternel, le travail créatif et l'épanouissement dans le service
 
@@ -41,3 +65,27 @@ Suivre la directive de l'esprit n’est jamais facile. Les tâches établies par
 L'aide et le soutien du service sont les principaux objectifs de la psychologie spirituelle. La véritable religion demande de faire quelque chose. Notre Esprit Intérieur a un plan idéal pour notre vie. Les principales exigences de ce plan sont **la fraternité aimante et l'action créative**, toutes deux réalisent leur plus haute expression dans le service. Suivre la directive de l'Esprit n'est jamais facile ; il nous stimule jusqu'à nos limites. Notre responsabilité est d'agir; les conséquences sont établies dans le supercontrôle divin de l'évolution créative. La vérité éternelle, la beauté transcendante, la bonne volonté continuelle et l'amour sans frontières conquerront le monde !
 
 Meredith J. Sprunger
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_18_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quiz Maxien n°18 Les questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-67-été-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 67 — Été 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/La_Deite_2">
+          <span class="pr-2">La Déité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

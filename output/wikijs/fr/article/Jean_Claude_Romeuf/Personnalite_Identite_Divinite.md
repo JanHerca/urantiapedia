@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Jean-Claude Romeuf<br>© 1997 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/LEsprit_de_Verite_pole_unificateur_des_religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Esprit de Verite : pole unificateur des religions ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-5-automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 5 — Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Ceux qui éprouvent un irrésistible attrait pour le mystère, peuvent s'enthousiasmer devant le miracle permanent et journalier du don de la personnalité.
 
@@ -57,3 +78,24 @@ Au fur et à mesure que l'on suit les directives de l'ajusteur, en devenant de p
 La divinité est l’avenir de la personnalité. Sans elle, il n'y pas de croissance possible. La divinité est le miroir réflectif dans lequel s'enflamme la grandeur de la personnalité. L'identité est destinée à être remplacée par la divinité.
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/LEsprit_de_Verite_pole_unificateur_des_religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Esprit de Verite : pole unificateur des religions ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-5-automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 5 — Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

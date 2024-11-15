@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Joseph Folliet<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Chicago_Paul_et_l_Eternel_Feminin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chicago, Paul et l’Éternel Féminin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-56-automne-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 56 — Automne 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Annet/Symposium_de_Chicago_2011">
+          <span class="pr-2">Symposium de Chicago 2011</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **« Pour l'humour de Dieu »**
 
@@ -38,3 +62,27 @@ L'évangile commence à pénétrer votre cour.
 Bienheureux surtout vous qui savez reconnaître le Seigneur en tous ceux que vous rencontrez. Vous avez trouvé la vraie lumière, vous avez trouvé la véritable sagesse.
 
 Joseph Folliet 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Chicago_Paul_et_l_Eternel_Feminin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chicago, Paul et l’Éternel Féminin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-56-automne-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 56 — Automne 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Annet/Symposium_de_Chicago_2011">
+          <span class="pr-2">Symposium de Chicago 2011</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

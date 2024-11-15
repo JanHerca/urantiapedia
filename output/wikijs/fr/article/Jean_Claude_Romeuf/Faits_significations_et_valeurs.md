@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Jean-Claude Romeuf<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Qui_etait_Jesus_fin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qui était Jésus ? (fin)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-automne-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Automne 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Poeme">
+          <span class="pr-2">Poème…</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > « _Pour la science, Dieu est une cause, pour la philosophie, il est une idée et, pour la religion, il est une personne,....._ » [LU 1:6.2](/fr/The_Urantia_Book/1#p6_2)
 
@@ -49,3 +73,27 @@ Il y a des valeurs innées qui sont un don du Père Eternel :
 Il y a aussi des valeurs acquises qui ne sont autres que les significations spiritualisées pendant la vie (les trésors amassés sur terre) et qui seront confiées à la garde séraphique jusqu'à la résurrection. Ces valeurs de Suprématie, issues du bien, de la vérité et de la beauté participent à la croissance de l'âme et ont tendance à se confondre et à s'unifier le long des âges en une qualité d'amour appelée « divinité».
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Qui_etait_Jesus_fin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qui était Jésus ? (fin)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-automne-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Automne 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Poeme">
+          <span class="pr-2">Poème…</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Mamadou Doudou Diagne<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_27">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-98-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 98 — Juin 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/De_L_incompletude_Divine_A_L_aventure_Humaine">
+          <span class="pr-2">De L'incomplétude Divine À L'aventure Humaine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Par
 
@@ -74,3 +98,27 @@ Cést le Dieu du temps et de lespace. Grâce à l'Ajusteur de Pensée nous preno
 Je men vais conclure. Dieu nous créé et nous fait don de la vie, d'un mental et d'une personnalité d'ordre matériels, ensuite il se fait immanent à notre être comme Ajusteur de Pensée. Et cet Esprit Divin veut s'humaniser et cest pour cela que nous sommes là sur la planète. Notre coopération avec l'Ajusteur Divin à pour résultat lâme morontielle progressive ascendante qui satisfait et l'homme et Dieu. Cest pourquoi il semble qu'il est très important de mettre Dieu en question. La question de Dieu inaugure des questions multiples sur Dieu et finalement on parvient à un questionnement, un questionnement quasi infini qui soppose à la dimension du Dieu infini que nous portons sur notre chère planète, Certes enténébrée mais au combien compensée par la 5e révélation du _Livre d'Urantia_.
 
 Je vous remercie de votre attention.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_27">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-98-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 98 — Juin 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/De_L_incompletude_Divine_A_L_aventure_Humaine">
+          <span class="pr-2">De L'incomplétude Divine À L'aventure Humaine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

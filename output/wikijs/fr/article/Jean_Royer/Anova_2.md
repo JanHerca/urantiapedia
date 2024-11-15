@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Jean Royer<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-20-hiver-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 20 — Hiver 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Chappuis/Il_y_a_les_annees_urantiennes_et">
+          <span class="pr-2">Il y a les années urantiennes et...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Nous avons vu dans la première partie le cas d’Anova, première planète habitée de Nébadon et nous avons estimé qu’elle devait maintenant être au septième stade de lumière et de vie. Pouvons-nous étendre nos estimations?
 
@@ -35,3 +59,27 @@ Les 37 Princes rebelles doivent être parmi ceux dont les planètes n'étaient p
 Nous pouvons spéculer un peu plus loin encore et estimer que dans ces conditions les 607 - 37 = 570 mondes restants étaient déjà tous ancrés dans la lumière et dans la vie et que si Satania, le numéro 24 de la 70 ème constellation avait ce contingent c'est aussi que des systèmes complets dans Nébadon pouvaient être ancrés dans la lumière et dans la vie.
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-20-hiver-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 20 — Hiver 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Chappuis/Il_y_a_les_annees_urantiennes_et">
+          <span class="pr-2">Il y a les années urantiennes et...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

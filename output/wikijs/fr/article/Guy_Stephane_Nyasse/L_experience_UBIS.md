@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Guy Stéphane Nyasse<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/La_Croyance_et_la_Foi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Croyance et la Foi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-79-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 79 — Septembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Elders/Nos_imperatifs_d_education">
+          <span class="pr-2">Nos impératifs d'éducation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Le Livre d'Urantia_ m'a été donné en 2012, et je l'ai lu tout seul pendant 3 ans. C'était un choix personnel; je ne voulais pas être influencé par quelqu'un d'autre. Je voulais me faire mon propre point de vue sur ces merveilleux enseignements. Après avoir été convaincu de la valeur de cette révélation, j'ai commencé à rechercher des lecteurs. C’est très curieux que je n'aie jamais vu l'école UBIS car elle est là depuis plusieurs années sur le site de la Fondation.J'ai découvert l’UBIS en 2015 lorsque j'ai lu pour la première fois le livre en version papier car sur la première page du livre il y a une mention du lien internet pour l'école UBIS.
 
@@ -47,3 +71,27 @@ J'ai rencontré un peu plus tard un lecteur Camerounais de longue date, à peu p
 
 Guy Stéphane NYASSE
 Douala, Cameroun
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/La_Croyance_et_la_Foi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Croyance et la Foi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-79-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 79 — Septembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Elders/Nos_imperatifs_d_education">
+          <span class="pr-2">Nos impératifs d'éducation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

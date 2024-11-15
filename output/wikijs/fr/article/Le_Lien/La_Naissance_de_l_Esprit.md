@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Electrons_Neutrons_Protons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Électrons-Neutrons-Protons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-83-septembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 83 — Septembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_Stephane_Nyasse/Nouvelles_du_Cameroun">
+          <span class="pr-2">Nouvelles du Cameroun</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Comment, en vos propres mots, feriez-vous l'analogie entre la naissance d'un humain et la naissance de la religion dans le mental de l'homme et ultimement la naissance de l'esprit?
 
@@ -122,3 +146,27 @@ La naissance de la religion dans le mental humain débute avec l'installation de
 Au-delà de la naissance de l'esprit et comme aboutissement de cette activité, par une activité transformatrice de notre être, nous recevons les fruits de l'esprit de cette recherche. Cela se traduit par le fait que nous cherchons à ressembler à Dieu, à faire en sorte que « ce soit notre volonté que Sa volonté soit faite ».
 
 C'est la sensibilité croissante à l'Esprit de Vérité du Fils qui constitue alors notre Source d'inspiration au quotidien.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Electrons_Neutrons_Protons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Électrons-Neutrons-Protons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-83-septembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 83 — Septembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_Stephane_Nyasse/Nouvelles_du_Cameroun">
+          <span class="pr-2">Nouvelles du Cameroun</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Jean Royer<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Reflexions_a_propos_de_la_priere_de_Jesus_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions à propos de la prière de Jésus (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-14-été-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 14 — Été 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Marie : c'est l'anglais « Mary » mais c'est aussi l'hébreu _Miriam_, ou _Miryam_ ou Myriam. Ce prénom est répandu et peut poser des problèmes d'identification. Le Livre d'Urantia distingue bien Miriam, la sæur de Jésus, de Marie sa mère, (ce qui ne devait pas être le cas en hébreu ou en araméen, à moins de supposer un hypocoristique toujours possible).
 
@@ -35,3 +56,24 @@ Cette phrase semble bien, elle aussi, sous-entendre que Marie, femme de Clopas e
 Pourtant, nous savons que Marie mère de Jésus n'avait que deux sæurs dont l'une était Salomé cf. [LU 122:3.3](/fr/The_Urantia_Book/122#p3_3), si l'autre s'appelait Marthe, comment Marie, femme de Clopas, peut-elle être sœur de Marie mère de Jésus? Mystère. (à suivre)
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Reflexions_a_propos_de_la_priere_de_Jesus_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions à propos de la prière de Jésus (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-14-été-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 14 — Été 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

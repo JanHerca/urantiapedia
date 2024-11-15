@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Marlène et Georges Michelson-Dupont<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Johanna_Beukers/Rencontre_annuelle_a_Notre_Dame_des_Lumieres">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rencontre annuelle à Notre Dame des Lumières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-39-été-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 39 — Été 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Chers amis,
 
@@ -57,3 +78,24 @@ Il est le produit de plusieurs facteurs qui sont : notre milieu familial, notre 
 Deuxième partie dans le prochain lien.
 
 Marlène \& Georges Michelson-Dupont
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Johanna_Beukers/Rencontre_annuelle_a_Notre_Dame_des_Lumieres">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rencontre annuelle à Notre Dame des Lumières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-39-été-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 39 — Été 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

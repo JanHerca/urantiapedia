@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Philip Calabrese and Jean Royer<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeffrey_Wattles/Reveler_Effectivement_La_Verite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Révéler Effectivement La Vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-74-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 74 — Juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Une_autre_vision_de_l_univers_2">
+          <span class="pr-2">Une Autre Vision De L'univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ***en relation avec la résurrection au 3 e jour ou à la 3 e période***
 
@@ -205,3 +229,27 @@ Un dernier argument pourrait être celui du long, long voyage dont il est questi
 En conclusion, je vous donne rendez-vous sur Maisonnia NN1 dans... allez, une petite vingtaine d'années.
 
 _Jean Royer, Le Thor 2009_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeffrey_Wattles/Reveler_Effectivement_La_Verite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Révéler Effectivement La Vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-74-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 74 — Juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Une_autre_vision_de_l_univers_2">
+          <span class="pr-2">Une Autre Vision De L'univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

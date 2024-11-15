@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Claude Castel<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Reflexions_a_propos_de_la_priere_de_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexions à propos de la prière de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-été-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Été 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Une tragédie totalement imprévue et qui bouleverse radicalement ce que l'on croyait être notre vie, cela peut arriver à tout moment. Jésus l'a vécu dans sa 14e année, le jour de la mort accidentelle de son père Joseph. « Juste au moment où les perspectives étaient bonnes et où l'avenir paraissait prometteur, une main apparemment cruelle abattit le chef de famille de Nazareth. » ([LU 126:2.2](/fr/The_Urantia_Book/126#p2_2))
 
@@ -27,3 +48,24 @@ Alors comment l'auteur peut-il dire que cette tragédie non préparée n'était 
 Quand on connait la suite de la vie de Jésus, on saisit mieux pourquoi les événements se sont produits de cette manière-là alors que Joseph aurait pu ne jamais avoir d'accident. S'ils étaient incontestablement cruels pour la famille, l'intention divine ne l'était pas. D'où probablement l'usage de l'expression « apparemment cruelle » par l'auteur du fascicule.
 
 Claude Castel
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Reflexions_a_propos_de_la_priere_de_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexions à propos de la prière de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-été-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Été 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

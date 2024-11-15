@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Georges Michelson-Dupont<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/La_Diffusion_du_LU_Projection_2015_2100">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Diffusion du Livre d'urantia Dans Le Monde Projection 2015-2100</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-74-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 74 — Juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Danielle_La_Scala/Congres_Italo_Franco_Suisse">
+          <span class="pr-2">Congrès Italo-Franco-Suisse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Dans la nouvelle édition du _Lien_, nous vous proposons d'approfondir quelques concepts du _Livre d'Urantia_ d'une manière interactive un peu à la manière d'un groupe d'étude. Des questions sur un thème donné seront posées avec une liste de lectures proposées pour y répondre.
 > 
@@ -59,3 +83,27 @@ Un Messager Solitaire révèle qu'« Il ne faut pas considérer la coopération 
 Dans la section 2 du fascicule 194 le Livre d'Urantia révèle qu' « Ensuite, à mesure que l'homme progresse en s'élevant sur l'échelle de l'intelligence et de la perception spirituelle, sept influences supérieures d'esprit viennent en fin de compte planer au-dessus de lui et habiter en lui. » ([LU 194:2.12](/fr/The_Urantia_Book/194#p2_12))
 
 À l'exception de notre Ajusteur de Pensée et de l'Esprit de Vérité que nous avons vu précédemment, quelles sont les contributions des autres influences spirituelles et comment coopèrent-elles avec nous ?
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/La_Diffusion_du_LU_Projection_2015_2100">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Diffusion du Livre d'urantia Dans Le Monde Projection 2015-2100</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-74-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 74 — Juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Danielle_La_Scala/Congres_Italo_Franco_Suisse">
+          <span class="pr-2">Congrès Italo-Franco-Suisse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

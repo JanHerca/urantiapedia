@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Georges Michelson-Dupont<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_21">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-92-décembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 92 — Décembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrice_Monsigny/Science_Et_Revelations">
+          <span class="pr-2">Science Et Révélations</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > La science est la source des faits et le mental ne peut opérer en l'absence de faits. Dans l'édification de la sagesse, les faits sont les pierres de taille réunies par le ciment de l'expérience de la vie. L'homme peut trouver l'amour de Dieu sans les faits et découvrir les lois de Dieu sans l'amour, mais jamais il ne peut commencer à apprécier la symétrie infinie, l'harmonie céleste et l'exquise plénitude de la nature inclusive de tout de la Source-Centre Première avant d'avoir trouvé la loi divine et l'amour divin, et de les avoir unifiés expérientiellement dans sa propre philosophie cosmique en évolution. [LU 111:6.7](/fr/The_Urantia_Book/111#p6_7)
 
@@ -131,6 +155,31 @@ Georges Michelson Dupont
 Recloses Octobre 2020
 
 > 5. ***Les Fascicules d'Urantia***. Ces exposés, dont le présent fascicule fait partie, constituent la plus récente présentation de la vérité aux mortels d'Urantia. Ils diffèrent de toutes les révélations antérieures, car ils ne sont pas l'oeuvre d'une seule personnalité de l'univers, mais une présentation composite par de nombreux êtres. Toutefois, jamais aucune révélation ne peut être complète avant d'atteindre le Père Universel. Tous les autres ministères célestes ne sont que partiels, transitoires et pratiquement adaptés aux conditions locales dans le temps et l'espace. Il est possible qu'en admettant cela, on amoindrisse la force et l'autorité immédiates de toutes les révélations, mais l'heure est arrivée sur Urantia où il est opportun de faire ces franches déclarations, même au risque d'affaiblir l'influence et l'autorité du présent ouvrage qui représente la révélation la plus récente de la vérité aux races mortelles d'Urantia. [LU 92:4.4](/fr/The_Urantia_Book/92#p4_4)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_21">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-92-décembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 92 — Décembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrice_Monsigny/Science_Et_Revelations">
+          <span class="pr-2">Science Et Révélations</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

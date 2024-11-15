@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Sophie Malicot<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_and_Nicole_Raguetly/Presentation_Du_Livre_DUrantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Présentation Du Livre D’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-94-juin-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 94 — Juin 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/L_experience_De_La_Perfection">
+          <span class="pr-2">L'expérience De La Perfection</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Lorsque **soudain** le regard se décille, les yeux de l'âme voient et les oreilles de l'âme entendent.
 
@@ -61,3 +85,27 @@ La résurrection est au printemps. Dans le nid, l'oisillon a grandi. Il est temp
 Sophie MALICOT
 
 De nombreux termes de ce récit ont été empruntés aux fascicules suivants : [LU 189:4](/fr/The_Urantia_Book/189#p4) // [LU 189:5](/fr/The_Urantia_Book/189#p5) // [LU 190:0](/fr/The_Urantia_Book/190) // [LU 190:2.5](/fr/The_Urantia_Book/190#p2_5) // [LU 193:3.1](/fr/The_Urantia_Book/193#p3_1) // [LU 196:3.34](/fr/The_Urantia_Book/196#p3_34) // [LU 142:2.4](/fr/The_Urantia_Book/142#p2_4)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_and_Nicole_Raguetly/Presentation_Du_Livre_DUrantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Présentation Du Livre D’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-94-juin-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 94 — Juin 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/L_experience_De_La_Perfection">
+          <span class="pr-2">L'expérience De La Perfection</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

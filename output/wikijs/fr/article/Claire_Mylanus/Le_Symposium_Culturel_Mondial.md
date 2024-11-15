@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Claire Mylanus<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Agnes_Lazar/Une_Histoire_D_amour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une Histoire D'amour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-86-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 86 — Juin 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Notre_Aventure_3">
+          <span class="pr-2">Notre Aventure</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_9" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/197.jpg">
@@ -236,4 +260,28 @@ Présidente du Symposium Culturel Mondial
 <figure id="Figure_23" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/211.jpg">
 <figcaption>Les participants regardant une présentation dans la salle du premier étage de la Fondation Urantia, là même où se tenaient les réunions du Forum de février 1923 à mai 1942</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Agnes_Lazar/Une_Histoire_D_amour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une Histoire D'amour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-86-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 86 — Juin 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Notre_Aventure_3">
+          <span class="pr-2">Notre Aventure</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

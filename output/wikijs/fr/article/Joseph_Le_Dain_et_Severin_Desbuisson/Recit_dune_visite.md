@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Joseph Le Dain et Séverin Desbuisson<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Ignorance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ignorance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-25-printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 25 — Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Reveil_soudain_2">
+          <span class="pr-2">Réveil soudain (deuxième partie)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Il y a quelques semaines de mauvaises nouvelles nous étaient parvenues — Jacques était très malade. Souvent à l'approche du départ définitif d'un proche le remord nous prend de ne pas lui avoir rendu visite, ne pas avoir suffisamment fraternisé avec lui, ne pas avoir fait tous ce que nous aurions dû bref ne pas avoir fait ce qu'aurait fait Jésus...
 
@@ -89,3 +113,27 @@ _De cet échange nous n'avons retenu que les expériences et anecdotes propres a
 > « ***Aujourd'hui, mon fils, tu dois naître à nouveau, rétabli en tant qu'homme de foi, de courage et de service dévoué aux hommes pour l'amour de Dieu. Quand tu seras ainsi réadapté en toi-même à la vie, tu seras également réadapté à l'univers ; tu seras né de nouveau né de l'esprit — et désormais toute ta vie ne sera plus qu'un accomplissement victorieux. Les malheurs te fortifieront, les déceptions t'éperonneront, les difficultés te poseront des défis et les obstacles te stimuleront. Lève-toi, jeune homme! Dis adieu à la vie de peur servile et de fuite lâche. Retourne vite à ton devoir et vis ta vie charnelle comme un fils de Dieu, un mortel dévoué au service ennoblissant de l'homme sur la terre et destiné au magnifique et perpétuel service de Dieu dans l'éternité.*** ». ([LU 130:6.4](/fr/The_Urantia_Book/130#p6_4)) Fascicule nº 130 — Sur le Chemin de Rome — Le jeune homme qui avait peur.
 
 Joseph Le Dain et Séverin Desbuisson
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Ignorance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ignorance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-25-printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 25 — Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Reveil_soudain_2">
+          <span class="pr-2">Réveil soudain (deuxième partie)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

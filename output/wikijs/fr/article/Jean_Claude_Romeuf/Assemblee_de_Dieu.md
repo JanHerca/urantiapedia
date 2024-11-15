@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Jean Claude Romeuf<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Troisieme_Congres_des_lecteurs_Italiens">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Troisième Congrès des lecteurs Italiens</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-79-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 79 — Septembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/La_Croyance_et_la_Foi">
+          <span class="pr-2">La Croyance et la Foi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Que ferai-je donc ce dimanche pour passer le temps? C'est la question que je me suis posée ce matin en me réveillant. La première idée que j'ai eue, fut d'aller à une messe malgache pour écouter les magnifiques chants religieux et m'imprégner du folklore traditionnel. En raccompagnant mon amie chez elle qui allait fêter ce jour de fête nationale en famille, je lui annonçai que j'irai à l'église prier pour elle. Car, vous savez tous qu'il est préférable que celui ou celle pour qui l'on prie soit au courant de notre intention de le faire. Mais, me dit-elle, je suis protestante et toi catholique!
 
@@ -41,3 +65,27 @@ Mais surtout, aujourd'hui, j'ai été gratifié de la venue de l'Esprit de Véri
 _Jean-Claude Romeuf_
 
 <br style="clear:both;"/>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Troisieme_Congres_des_lecteurs_Italiens">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Troisième Congrès des lecteurs Italiens</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-79-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 79 — Septembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/La_Croyance_et_la_Foi">
+          <span class="pr-2">La Croyance et la Foi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

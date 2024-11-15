@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Jean-Claude Romeuf<br>© 1998 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/006">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 6 — Été 1998 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-6-été-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 6 — Été 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Contribution_a_larticle_de_Jean_Royer">
+          <span class="pr-2">Contribution à l'article de Jean Royer « Cohérence, ou principe d'évanescence ? » du Lien n5</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## LA PERSONNE
 
@@ -33,3 +57,27 @@ Indépendant de la conscience humaine trois entités indestructibles vont perdur
 Au moment de la résurrection, les séraphins répondront à « la voix de l'archange de Micaël » ([LU 37:3.6](/fr/The_Urantia_Book/37#p3_6)). Les différentes parties restantes de la personne humaine seront assemblées dans les salles de résurrection. L'âme recevra une nouvelle forme morontielle et un nouveau mental que l'ajusteur viendra à nouveau habiter. La personnalité sera à nouveau unificatrice de l'identité et l'âme continuera sa croissance dans les maisons du Père sur la Jérusalem céleste.
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/006">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 6 — Été 1998 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-6-été-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 6 — Été 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Contribution_a_larticle_de_Jean_Royer">
+          <span class="pr-2">Contribution à l'article de Jean Royer « Cohérence, ou principe d'évanescence ? » du Lien n5</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

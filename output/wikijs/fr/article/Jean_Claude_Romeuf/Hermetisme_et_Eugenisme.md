@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Jean-Claude Romeuf<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anne_Marie_Ronfet/Chales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Christian_Boucher/Pages_Lyriques">
+          <span class="pr-2">Pages Lyriques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Je viens de parcourir quelques forums d'Internet dans lesquels les détracteurs du livre d'Urantia, qui sans se soucier de son message réel et de son contenu, lui reprochent principalement deux choses :_
 
@@ -39,3 +63,27 @@ On reproche au _livre d'Urantia_ la question des races de couleur qui date de ci
 Pour parler d'eugénisme, mot qu'on n'ose à peine prononcer à notre époque, je voudrais simplement relater un article paru dans Midi Libre. Une photo y montrait une famille composée d'un homme, de sa femme et de leur fille. L'homme était atteint d'une maladie génétique. Les techniciens avaient éliminé les gamètes responsables de la maladie chromosomique et avaient fécondé artificiellement l'épouse. Une splendide petite fille, pleine de santé souriait sur la photo. Je pose donc deux questions. N'est-ce pas cela l'eugénisme ? Etait-il plus moral pour les parents de se soumettre au hasard (une chance sur deux) plutôt que de faire tout ce qu'ils pouvaient pour palier aux inconvénients de la nature?
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anne_Marie_Ronfet/Chales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Christian_Boucher/Pages_Lyriques">
+          <span class="pr-2">Pages Lyriques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

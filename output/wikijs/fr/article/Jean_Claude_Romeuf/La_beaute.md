@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Jean-Claude Romeuf<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patrick_Beaupre/Le_grand_defi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le grand défi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-30-été-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 30 — Été 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/De_la_matiere_a_lEsprit_en_passant_par_le_mental">
+          <span class="pr-2">De la matière à l'Esprit en passant par le mental</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _La beauté suprême, le summum de l'art fini, est l'épopée de l'unification de l'immensité des extrêmes cosmiques, le Créateur et la créature._
 
@@ -31,3 +55,27 @@ A l'inverse de ses deux compagnes, la bonté est toujours personnelle et reste u
 Un faisceau de lumière part de la terre ; franchissant la voûte céleste, il trace le chemin de la liberté.
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patrick_Beaupre/Le_grand_defi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le grand défi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-30-été-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 30 — Été 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/De_la_matiere_a_lEsprit_en_passant_par_le_mental">
+          <span class="pr-2">De la matière à l'Esprit en passant par le mental</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

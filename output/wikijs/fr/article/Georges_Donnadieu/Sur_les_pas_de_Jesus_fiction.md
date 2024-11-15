@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Georges Donnadieu<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Quelques_passages_du_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelques passages du LU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-60-automne-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 60 — Automne 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rosette_Poletti_and_Barbara_Dobbs/L_estime_de_soi_2">
+          <span class="pr-2">L’estime de soi II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Salut les amis, je vous propose un petit texte sur les pas de Jésus. La fiction est aussi une façon de se relier ā l'esprit de vérité, comme l'ont fait Juan Benitez et Joseph Servant.
 
@@ -27,3 +51,27 @@ Vous êtes donc du signe du Père, ascendant Père car votre destinée est d'asc
 Ce discours contribua beaucoup à fortifier les apôtres et disciples face aux faux enseignements ultérieurs de Kirmeth de Bagdad (p 1666 \& 2).
 
 Georges Donnadieu
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Quelques_passages_du_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelques passages du LU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-60-automne-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 60 — Automne 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rosette_Poletti_and_Barbara_Dobbs/L_estime_de_soi_2">
+          <span class="pr-2">L’estime de soi II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

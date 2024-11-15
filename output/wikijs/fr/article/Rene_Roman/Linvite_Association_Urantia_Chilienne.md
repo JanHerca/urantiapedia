@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 René Roman<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_Billet_du_President_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Billet du Président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-47-été-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 47 — Été 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Philosophie_humaine_et_mota_1">
+          <span class="pr-2">Philosophie humaine et mota</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Chers amis et amis lecteurs du _Livre d'Urantia_ :
 
@@ -43,3 +67,27 @@ Construire un groupe d'étude est un effort qui peut avoir des résultats signif
 > « Clairvoyance spirituelle. Après tout, la fraternité des hommes est basée sur la reconnaissance de la paternité de Dieu. La manière la plus rapide de réaliser la fraternité des hommes sur Urantia est d'effectuer la transformation spirituelle de l'humanité d'aujourd'hui. La seule technique pour accélérer la tendance naturelle de l'évolution sociale consiste à exercer une pression spirituelle par en haut, ce qui augmente la clairvoyance morale tout en rehaussant la capacité de l'âme de tous les hommes à comprendre et à aimer tous leurs semblables. La compréhension mutuelle et l'amour fraternel sont des civilisateurs transcendants et de puissants facteurs pour la réalisation mondiale de la fraternité des hommes ». [LU 52:6.7](/fr/The_Urantia_Book/52#p6_7)
 
 René Roman
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_Billet_du_President_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Billet du Président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-47-été-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 47 — Été 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Philosophie_humaine_et_mota_1">
+          <span class="pr-2">Philosophie humaine et mota</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

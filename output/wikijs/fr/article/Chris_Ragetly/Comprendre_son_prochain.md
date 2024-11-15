@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Chris Ragetly<br>© 2005 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/035">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 35 — Automne/Hiver 2005 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-35-automnehiver-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 35 — Automne/Hiver 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean Royer/Science_philosophie_religion_et_revelation">
+          <span class="pr-2">Science, philosophie, religion et révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «_...Puisque Dieu sait tout ce qui concerne ses enfants, il lui est facile de pardonner. Mieux l'homme comprend son prochain, plus il lui est facile de lui pardonner et même de l'aimer._ » ([LU 2:4.2](/fr/The_Urantia_Book/2#p4_2))
 
@@ -17,3 +41,27 @@ Pour comprendre son prochain, suivons l'exemple de Dieu. D'abord apprenons à le
 C. M. Ragetly
 
 _(Les citations du Livre d'Urantia sont en italiques)_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/035">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 35 — Automne/Hiver 2005 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-35-automnehiver-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 35 — Automne/Hiver 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean Royer/Science_philosophie_religion_et_revelation">
+          <span class="pr-2">Science, philosophie, religion et révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Jean-Claude Romeuf<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Gallo/Les_circuits_des_esprits_mentaux_adjuvats">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les circuits des esprits mentaux adjuvats</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 73 — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Histoire_du_mouvement_francophone_d_Europe">
+          <span class="pr-2">Histoire du mouvement francophone d'Europe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Avant de conter cette histoire, il me revient à la mémoire la mélodie et les paroles d'une magnifique chanson sévillane ayant pour titre El Amigo. Chaque fois qu'un ami s'en va, il laisse derrière lui beaucoup de tristesse et de vide. Alors, lorsqu'on est près de lui à ses dernières heures, on vou drait le retenir encore un peu, juste un petit moment. La chanson dit en espagnol: « Ne t'en va pas encore, attends que ma guitare pleure en te disant adieu ».
 
@@ -39,3 +63,27 @@ Mais je me souviendrai encore longtemps de ces quelques heures passées dans la 
 Bonabo 6 février 2016
 
 ***Jean-Claude Romeuf***
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Gallo/Les_circuits_des_esprits_mentaux_adjuvats">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les circuits des esprits mentaux adjuvats</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 73 — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Histoire_du_mouvement_francophone_d_Europe">
+          <span class="pr-2">Histoire du mouvement francophone d'Europe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

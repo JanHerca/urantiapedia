@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Guy Bourhis<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_democratie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La démocratie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-17-printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 17 — Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sylvette_Perrier/Le_bon_comportement">
+          <span class="pr-2">Le bon comportement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 J'ai été très frappé à la lecture du discours fait par Nicholas W. SCALZO (Etats-Unis) à la conférence internationale de l'IUA en Août 2000 et reproduit dans le dernier numéro du journal de cette association, page 3 (septembre 2000, volume 7 , nº 3 ).
 
@@ -27,3 +51,27 @@ Exemple : lorsqu'un être plus faible (ou en situation de fragilité physique ou
 Vivons la volonté de notre Père dans l'expérience de notre quotidien (au bureau, dans la rue, en famille, en vacances). Si l'esquisse de cette histoire « authentique » a intéressé les lecteurs du livre d'Urantia, je puis ressortir les notes que j'ai prises à son sujet et à l'occasion d'autres expériences. Il y a de quoi faire un vrai petit « condensé».
 
 Guy Bourhis
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_democratie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La démocratie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-17-printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 17 — Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sylvette_Perrier/Le_bon_comportement">
+          <span class="pr-2">Le bon comportement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

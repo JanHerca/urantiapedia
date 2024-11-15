@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Patrick Morelli<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 73 — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Gallo/Les_circuits_des_esprits_mentaux_adjuvats">
+          <span class="pr-2">Les circuits des esprits mentaux adjuvats</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dans la tentative de compréhension du distinguo que l'on peut faire, entre l'Être Suprême, Dieu le Suprême et le Tout-Puissant Suprême, l'Être Suprême a-t-il une seule personnalité ou plusieurs? Les trois dénominations n'ont certainement qu'une seule et même personnalité. La diversité vient probablement du niveau de leur manifestation, le paragraphe 5 de l'introduction du fascicule 116 est évocateur de ce positionnement.
 
@@ -73,3 +97,27 @@ Les Architectes Absonites du Maitre Univers.
 Le multiple unifié dans la Trinité Ultime.
 
 ***Patrick Morelli***
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 73 — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Gallo/Les_circuits_des_esprits_mentaux_adjuvats">
+          <span class="pr-2">Les circuits des esprits mentaux adjuvats</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

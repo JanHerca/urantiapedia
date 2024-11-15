@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 François Dupont<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Rouanet/Le_mot_du_President_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du Président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 38 — Hiver 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Lhumain_et_son_double">
+          <span class="pr-2">L'humain et son double</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## AVANT-PROPOS
 
@@ -121,3 +145,27 @@ Par exemple, pourquoi ne pas essayer des méthodes personnelles pour résoudre e
 Chacun est invité à travailler à sa façon pour que le champ des investigations soit entièrement couvert par les réponses de notre Ajusteur. Réunissons-nous pour affiner l'ensemble des matériaux en sus de ces multiples questions, qui ne tardera pas à s'accumuler avec le temps.
 
 François Dupont
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Rouanet/Le_mot_du_President_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du Président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 38 — Hiver 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Lhumain_et_son_double">
+          <span class="pr-2">L'humain et son double</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

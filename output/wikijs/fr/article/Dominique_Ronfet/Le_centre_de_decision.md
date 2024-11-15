@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Dominique Ronfet<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Raymonde_et_Jean_Davier/A_propos_de_lapotre_Paul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« A propos » de l’apôtre Paul</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-hiver-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Hiver 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Philippe_DAmore/Mon_Ajusteur_et_moi">
+          <span class="pr-2">Mon Ajusteur et moi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 L'idée de cette étude m'est venue suite à une intervention de notre ami Jean Royer sur le forum de discussion électronique. Celui-ci faisait remarquer que certains nombres donnés dans le Livre d'Urantia étaient très étonnants. Par exemple celui approximatif de 187 millions d'ascendeurs présents sur Jérusem ([LU 53:7.12](/fr/The_Urantia_Book/53#p7_12)) au moment de la rébellion. En prenant comme rapport 619 mondes habités et le nombre de personnes décédées sur Terre en 1990, soit 90 millions (source: Quid 1990) се nombre de 187 millions peut paraître en effet insignifiant. Mon propos n'est pas de lever un inutile débat sur le lieu et le pourcentage des survivants lors de leur ascension ainsi que le taux de réussite à la fusion.
 
@@ -149,3 +173,27 @@ Dominique Ronfet
 	- _Apprendre à apprendre_ Editions Le courrier du livre
 	- _Chercheur de vérité_ Editions Albin Michel
 	- _Le soufisme_, voie d'unité Editions Charles Antoni ; l'Originel (compilation de plusieurs auteurs)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Raymonde_et_Jean_Davier/A_propos_de_lapotre_Paul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« A propos » de l’apôtre Paul</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-hiver-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Hiver 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Philippe_DAmore/Mon_Ajusteur_et_moi">
+          <span class="pr-2">Mon Ajusteur et moi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

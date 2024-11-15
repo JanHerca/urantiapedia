@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Georges Michelson Dupont<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/La_personnalite_humaine_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Personnalité Humaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-99-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 99 — Septembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/3eme_Congres_Europeen_d_Urantia_En_Espagne">
+          <span class="pr-2">3ème Congrès Européen D'urantia En Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 10 AOÛt 2022
 
@@ -107,3 +131,27 @@ Contact : Joanne Strobel joanne@urantia.org — 1-773-525-3319 urantia.org
 **2.1. OBJET PRINCIPAL** : L'objet pour lequel cette Fondation est créée est la promotion, l'amélioration et l'expansion parmi les peuples du monde de la compréhension de la Cosmologie et de la relation de la planète sur laquelle nous vivons avec l'Univers, de la genèse et du destin de l'Homme et de sa relation avec Dieu et des véritables enseignements de Jésus-Christ ; et pour inculquer et encourager la réalisation et l'appréciation de la Paternité de Dieu et de la Fraternité de l'Homme — afin d'accroître et d'améliorer le confort, le bonheur et le bien-être de l'Homme, en tant qu'individu et en tant que membre de la société, en favorisant une religion, une philosophie et une cosmologie qui soient à la mesure du développement intellectuel et culturel de l'Homme.
 
 **2.2. OBJETS CONCORDANTS**: Les objets concordants pour lesquels la Fondation est créée sont la préservation perpétuelle et inviolable du texte du LIVRE D'URANTIA et la diffusion des principes, enseignements et doctrines du LIVRE D'URANTIA.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/La_personnalite_humaine_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Personnalité Humaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-99-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 99 — Septembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/3eme_Congres_Europeen_d_Urantia_En_Espagne">
+          <span class="pr-2">3ème Congrès Européen D'urantia En Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

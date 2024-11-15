@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Hubert Gallet<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Carolyn_Kendall_parle_dhistoire_le_facteur_Temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Carolyn Kendall parle d'histoire le facteur Temps</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-28-hiver-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 28 — Hiver 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Gallo/Le_Facteur_100_ou_757575_ans_separent_du_Paradis">
+          <span class="pr-2">Le Facteur 100 ou les 757 575 ans qui nous séparent (peut être) du Paradis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Ce texte est un condensé du discours présenté le 9 août 2003 au Congrès Urantia du Canada, et essaie de donner, à partir de la Vie de Jésus du Livre d'Urantia, **un mode d'emploi de la vie**, conciliant notre soif de spirituel avec nos contraintes matérielles.
 
@@ -81,3 +105,27 @@ Si Jésus était sur terre aujourd'hui, il refuserait certainement de prendre pa
 Et l'on pourrait dire, pour résumer, que l'application de son enseignement au niveau de notre manière de vivre, consiste plutôt à exprimer au mieux l'expérience **spirituelle** intérieure de notre **être**, une fois celui-ci décidé à faire la volonté du Père, en particulier en manifestant une adoration sincère de Dieu et un service aimant à nos prochains.
 
 Hubert Gallet
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Carolyn_Kendall_parle_dhistoire_le_facteur_Temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Carolyn Kendall parle d'histoire le facteur Temps</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-28-hiver-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 28 — Hiver 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Gallo/Le_Facteur_100_ou_757575_ans_separent_du_Paradis">
+          <span class="pr-2">Le Facteur 100 ou les 757 575 ans qui nous séparent (peut être) du Paradis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

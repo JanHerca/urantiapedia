@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Georges Michelson-Dupont<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/A_La_Recherche_De_L_au_Dela">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À La Recherche De L'au-Delả</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-82-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 82 — Juin 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Etre_sensible_au_circuit_de_Personnalite">
+          <span class="pr-2">Être sensible au circuit de Personnalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Georges Michelson-Dupont
 
@@ -136,3 +160,27 @@ Les luttes religieuses pour déterminer le peuple élu.
 Et bien d'autres aspects que cette courte étude aurait pu faire ressortir.
 
 J'invite les lecteurs à méditer sur ces réalités d'aujourd'hui et de mesurer la chance que nous avons d'avoir accès à la révélation et à la vie de Jésus réactualisée.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/A_La_Recherche_De_L_au_Dela">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À La Recherche De L'au-Delả</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-82-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 82 — Juin 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Etre_sensible_au_circuit_de_Personnalite">
+          <span class="pr-2">Être sensible au circuit de Personnalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

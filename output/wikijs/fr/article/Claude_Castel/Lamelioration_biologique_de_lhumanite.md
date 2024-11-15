@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Claude Castel<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Rouanet/Le_mot_du_President_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du Président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-40-automne-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 40 — Automne 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Quelques_Reflexions_et_Interrogations_de_Moi">
+          <span class="pr-2">Quelques Réflexions et Interrogations de Moi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Etude du Livre d'URANTIA \* par Claude Castel
 
@@ -127,3 +151,27 @@ Sur une planète voisine, le gouvernement de celle-ci a déjà pris un certain n
 Que les futurs jeunes parents y pensent et que les gouvernements sachent prendre leurs responsabilités pour arriver à une nette amélioration à long terme !
 
 &copy; 1955 URANTIA Fondation. &copy; 1994 pour l'édition française revue et corrigée. Tous droits réservés. Les matériaux tirés sont utilisés avec autorisation. Les opinions exprimées sont celles de son auteur et ne représentent pas forcément celles de la Fondation URANTIA ou de ses sociétés affiliées.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Rouanet/Le_mot_du_President_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du Président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-40-automne-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 40 — Automne 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Quelques_Reflexions_et_Interrogations_de_Moi">
+          <span class="pr-2">Quelques Réflexions et Interrogations de Moi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

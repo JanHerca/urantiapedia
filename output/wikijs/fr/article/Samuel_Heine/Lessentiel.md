@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Samuel Heine<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Le_vent_dhiver">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le vent d'hiver</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-42-printemps-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 42 — Printemps 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_04">
+          <span class="pr-2">Le coin de Frère Dominique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Puisse chaque lecteur du _Livre d'Urantia_ ne pas s'éloigner de l'essentiel.
 
@@ -51,3 +75,27 @@ Est ce qu'il y a quelque chose dans la conscience de l'être humain qui lui perm
 Tout en nous en la sagesse de Dieu. [ Je ne comprends pas cette formule sans verbe JR]
 
 Samuel Heine
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Le_vent_dhiver">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le vent d'hiver</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-42-printemps-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 42 — Printemps 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_04">
+          <span class="pr-2">Le coin de Frère Dominique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Max Masotti<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/The_Dual_Nature">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La double nature</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-50-printemps-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 50 — Printemps 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_09">
+          <span class="pr-2">P’tit Coin de Frère Dom’</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Univers Central**
 
@@ -92,3 +116,27 @@ Dans ce trio juridique, le Perfecteur de Sagesse serait le « J'étais » et le 
 > Lors de son premier passage à Corinthe, Paul n'avait pas eu l'intention d'y rester longtemps, mais il ne savait pas à quel point le précepteur juif avait bien préparé la voie pour ses travaux. Il découvrit en outre qu'Aquilas et Priscilla avaient déjà suscité un grand intérêt pour sa doctrine. Aquilas était l'un des cyniques avec qui Jésus était entré en contact à Rome ; lui et sa femme étaient des réfugiés juifs de Rome, et ils se rallièrent rapidement aux enseignements de Paul, qui vécut et travailla avec eux, car ils étaient aussi des fabricants de tentes. Ce fut en raison de ces circonstances que Paul prolongea son séjour à Corinthe. [LU 133:3.12](/fr/The_Urantia_Book/133#p3_12)
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/The_Dual_Nature">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La double nature</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-50-printemps-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 50 — Printemps 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_09">
+          <span class="pr-2">P’tit Coin de Frère Dom’</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

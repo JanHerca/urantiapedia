@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Murielle Duchêne<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Philosophie_humaine_et_mota_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Philosophie humaine et mota</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-47-été-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 47 — Été 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/La_Tolerance">
+          <span class="pr-2">La Tolérance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le samedi 21 février 2009, 21 personnes de différents groupes de lecture du _Livre d'Urantia_ se sont réunies à **Liège** à la librairie « Les Arcanes de la Connaissance ». Le thème de la rencontre était « Les Ajusteurs de Pensée ».
 
@@ -27,3 +51,27 @@ Nous avons tous passé une merveilleuse journée ponctuée par un repas convivia
 Nous remercions **Jean** et **Isabelle** Annet pour cette rencontre réussie et espérons d'autres retrouvailles dans la même atmosphère qui permet des échanges enrichissants avec des personnes de différents groupes de lecture.
 
 Murielle Duchêne, une Urantienne convaincue！
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Philosophie_humaine_et_mota_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Philosophie humaine et mota</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-47-été-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 47 — Été 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/La_Tolerance">
+          <span class="pr-2">La Tolérance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

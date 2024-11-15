@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Khatukhira Bernard<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Relations_Entre_Materiel_Mental_Et_Esprit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relations Entre Matériel, Mental Et Esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-100-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 100 — Décembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Compte_Rendu_Assemblee_Generale">
+          <span class="pr-2">Compte Rendu Assemblée Générale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 LA NAISSANCE DE L'ENSEIGNEMENT DU LIVRE URANTIA EN OUGANDA
 
@@ -73,3 +97,27 @@ En vérité, les Ougandais ont soif et faim de vérité et de Dieu. C'est un sol
 ***Khatukhira Bernard***
 
 ***Citoyens Cosmiques en Ouganda***
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Relations_Entre_Materiel_Mental_Et_Esprit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relations Entre Matériel, Mental Et Esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-100-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 100 — Décembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Compte_Rendu_Assemblee_Generale">
+          <span class="pr-2">Compte Rendu Assemblée Générale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

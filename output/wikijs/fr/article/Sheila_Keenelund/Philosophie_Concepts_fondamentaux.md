@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Sheila Keenelund<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Paul_et_l_Eternel_Feminin_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paul et l’Éternel Féminin (3)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-58-printemps-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 58 — Printemps 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_09_Les_questions">
+          <span class="pr-2">Quiz Maxien n°9 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Concepts dans la philosophie de l'univers glanés dans Le Livre d'Urantia
 
@@ -74,4 +98,28 @@ Sheila Keenelund
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_01/141.jpg">
 <figcaption>« Eve se trouve «le» compagnon universel, le miroir! »</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Paul_et_l_Eternel_Feminin_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paul et l’Éternel Féminin (3)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-58-printemps-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 58 — Printemps 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_09_Les_questions">
+          <span class="pr-2">Quiz Maxien n°9 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

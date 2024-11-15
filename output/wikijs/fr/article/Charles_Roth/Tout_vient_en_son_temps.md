@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Charles Roth<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Mon_attitude">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mon attitude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-58-printemps-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 58 — Printemps 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claire_Mylanus/La_Priere_de_Consentement">
+          <span class="pr-2">La Prière de Consentement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Il y a un moment où l'on se dit : « _Me faire du souci ne mène à rien...laissons venir les choses._ » Et , presque miraculeusement, incroyablement, tout s'arrange et se réalise d'une manière calme et harmonieuse. Il s'est passé que nous avons appliqué le principe de « Tout arrive à son temps ».
 
@@ -37,3 +61,27 @@ Laissez venir...lâchez prise, laissez agir Dieu.
 _De UNITY SCHOOL OF CHRISTIANITY, Unity Village, Missouri  USA_
 
 Charles Roth
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Mon_attitude">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mon attitude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-58-printemps-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 58 — Printemps 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claire_Mylanus/La_Priere_de_Consentement">
+          <span class="pr-2">La Prière de Consentement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

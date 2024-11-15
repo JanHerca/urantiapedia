@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Georges Michelson-Dupont<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Nouvelles_De_La_Fondation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nouvelles De La Fondation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-93-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 93 — Mars 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Un_Voyage_Fantastique">
+          <span class="pr-2">Un Voyage Fantastique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Chacun s'accorde à dire que la lecture puis létude du livre en solitaire sont intellectuellement ardues, détournant ainsi beaucoup de lecteurs potentiels du bénéfice qu'ils pourraient tirer de la révélation pour eux-mêmes et pour leur entourage. Nous ne sommes pas là pour porter un jugement mais pour essayer de trouver des solutions.
 
@@ -91,3 +115,27 @@ Nugroho Widi, (Indonésie) Cœurs: l'UN infini. (Septembre 2020)
 > Note : aurons-nous une autre réunion Zoom en ligne pour tous les élèves de la classe ? Je suis désolé de ne pas avoir pu participer à la réunion précédente.
 
 > LA SPIRITUALITÉ INDIQUE IMMÉDIATEMENT VOTRE PROXIMITÉ DE DIEU ET LA MESURE DE VOTRE UTILITÉ POUR VOS COMPAGNONS. LA SPIRITUALITÉ REHAUSSE L'APTITUDE À DÉCOUVRIR LA BEAUTÉ DANS LES CHOSES, À RECONNAITRE LA VÉRITÉ DANS LES SIGNIFICATIONS ET À TROUVER LA BONTÉ DANS LES VALEURS. LE DÉVELOPPEMENT SPIRITUEL EST DÉTERMINÉ PAR CETTE CAPACITÉ ET IL EST DIRECTEMENT PROPORTIONNEL À L'ÉLIMINATION DES ASPECTS ÉGOÏSTES DE L'AMOUR. ([LU 100:2.4](/fr/The_Urantia_Book/100#p2_4))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Nouvelles_De_La_Fondation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nouvelles De La Fondation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-93-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 93 — Mars 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Un_Voyage_Fantastique">
+          <span class="pr-2">Un Voyage Fantastique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Patricia Brambilla<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Humour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Humour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-52-automne-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 52 — Automne 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/La_personnalite">
+          <span class="pr-2">La personnalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Une grande tunisienne blanche et un châle immaculé jeté sur l'épaule gauche. Une croix scintillante autour du cou et deux madones aux oreilles. Elizabeth Sombart apparaît. Comme une vision, sortie de nulle part, soudain elle est là. Elle a le halo d'un ange, mais quand elle parle, sa voix est grave. Des mots pris dans les octaves du bas qui révèlent une immense force intérieure.
 
@@ -43,3 +67,27 @@ Elizabeth Sombart, on doute, ne s'éloigne jamais longtemps de son piano. Juste 
 Elizabeth compare la musique à la cuisine, « cet art qui transforme la matière en quelque chose d'éphémère, qui nous donne le goût de l'éternité. »
 
 Patricia Brambilla
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Humour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Humour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-52-automne-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 52 — Automne 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/La_personnalite">
+          <span class="pr-2">La personnalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

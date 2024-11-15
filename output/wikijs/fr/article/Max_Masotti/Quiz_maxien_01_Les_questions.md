@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Max Masotti<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pasteur_Louis_Pernot/Le_Notre_Pere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le « Notre Père»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-50-printemps-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 50 — Printemps 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Study_of_Prayers">
+          <span class="pr-2">Étude des prières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Univers Central**
 
@@ -41,3 +65,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 15. Le LU nous parle d'une certaine Priscilla, il ne s'agit pas ici de la femme d'Elvis Presley, mais qui était-elle ?
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pasteur_Louis_Pernot/Le_Notre_Pere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le « Notre Père»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-50-printemps-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 50 — Printemps 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Study_of_Prayers">
+          <span class="pr-2">Étude des prières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

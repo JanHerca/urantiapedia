@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Jeanmarie Chaise<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Clarte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Clarté</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-23-automne-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 23 — Automne 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Des amis me demandèrent récemment de leur raconter Dourdan 2002. Voici ce que je leur ai envoyé en fait de compte rendu.
 
@@ -37,3 +58,24 @@ Moussa, lorsqu'il ne travaille pas, car visiblement ces séances sont pour lui u
 J'ai revu Moussa quelques jours plus tard au siège de l'AFFLU avec son fils Mustapha et ses deux nièces Fatou et Monique. J'ai pu là encore apprécier avec une quinzaine d'autres personnes les bienfaits de cette présence que je souhaite à tous de rencontrer un jour, car j'estime que le Livre d'Urantia se complète et se parfait de l'approche d'une telle personnalité qui met réellement et profondément dans sa vie les enseignements de Jésus.
 
 Jeanmarie Chaise
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Clarte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Clarté</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-23-automne-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 23 — Automne 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Jean-François Drouet<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/La_contraction_de_lEspace_Temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La contraction de l'Espace Temps</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-16-hiver-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 16 — Hiver 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Au fond, c'est très simple ; nous n'avons qu'une obligation : conformer toute notre volonté à celle de Dieu ([LU 111:5.2](/fr/The_Urantia_Book/111#p5_2)), ce qui équivaut à suivre le plan divin ([LU 4:1.2](/fr/The_Urantia_Book/4#p1_2)).
 
@@ -67,3 +88,24 @@ Heureusement, le renversement et l'élargissement de perspective permettent, en 
 Le raisonnement global évolutif est plus facilement accepté, qu'une révélation difficilement crédible de prime abord. Il peut constituer une première marche pour accéder à une révélation progressive.
 
 Jean-François Drouet
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/La_contraction_de_lEspace_Temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La contraction de l'Espace Temps</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-16-hiver-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 16 — Hiver 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Simon Orsini<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Essais_De_Definition_De_L_espace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Essais De Définition De L'espace</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-90-juin-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 90 — Juin 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Moustapha_NDiaye/Qui_Suis_Je">
+          <span class="pr-2">Qui Suis-Je?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le cerveau physique et le système nerveux, associés, possèdent une sensibilité innée au ministère de la pensée, exactement comme la pensée qui évolue, possède une aptitude de réceptivité spirituelle.
 
@@ -36,3 +60,27 @@ Quand les valeurs spirituelles reçoivent la considération qui leur est due, le
 Quand j'écris ces quelques lignes, je m'imagine dans une école ou l'on me demande d'analyser dans Le Livre d'Urantia, ce que jai compris de la pensée. Mon analyse correspond plutôt au fond et la forme des enseignements, tandis que pour les matérialistes inconscients qui ont choisi un cadre restrein, la pensée ne pourra jamais s'exprimer dans un cadre universel, car ils sont dans un labyrinthe.
 
 Simon Orsini
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Essais_De_Definition_De_L_espace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Essais De Définition De L'espace</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-90-juin-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 90 — Juin 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Moustapha_NDiaye/Qui_Suis_Je">
+          <span class="pr-2">Qui Suis-Je?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

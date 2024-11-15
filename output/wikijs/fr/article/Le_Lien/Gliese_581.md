@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Directeurs_de_Pouvoir_et_transcendantaux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Directeurs de Pouvoir et transcendantaux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-53-hiver-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 53 — Hiver 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Belgium_08_21_2010">
+          <span class="pr-2">Belgique le 21/08/2010</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Du nouveau autour de l'étoile Gliese 581！
 
@@ -37,3 +61,27 @@ De plus, contrairement à ce qui arrive souvent pour les naines rouges de type M
 Reste que si la vie existe sur Gliese 581 d, les conditions doivent être rudes et elle ne doit donc pas ressembler à la nôtre. On en saura peut-être plus dans quelques années avec la mission Terrestrial Planet Finder (TPF), le projet Darwin n'ayant pas été retenu par l'ESA.
 
 Laurent Sacco, Futura Sciences
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Directeurs_de_Pouvoir_et_transcendantaux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Directeurs de Pouvoir et transcendantaux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-53-hiver-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 53 — Hiver 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Belgium_08_21_2010">
+          <span class="pr-2">Belgique le 21/08/2010</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Eugene Asidao<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Moustapha_NDiaye/Activites_Groupe_De_Dakar">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Activités Groupe De Dakar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-101-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 101 — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Ecole_UBIS">
+          <span class="pr-2">École UBIS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 par Eugene Asidao 11/14/22
 
@@ -97,4 +121,28 @@ Ainsi, ai-je découvert que le livre avait beaucoup plus à offrir, étant le pl
 <figure id="Figure_13" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/132.jpg">
 <figcaption>Peinture de David Guzman</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Moustapha_NDiaye/Activites_Groupe_De_Dakar">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Activités Groupe De Dakar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-101-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 101 — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Ecole_UBIS">
+          <span class="pr-2">École UBIS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

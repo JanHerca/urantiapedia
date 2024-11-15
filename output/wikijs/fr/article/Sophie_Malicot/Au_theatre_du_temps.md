@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Sophie Malicot<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Serons_nous_eternellement_soumis_a_la_gravite_materielle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Serons-nous éternellement soumis à la gravité matérielle?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-104-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 104 — Décembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_Flacon">
+          <span class="pr-2">Le Flacon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/154.jpg">
@@ -93,3 +117,27 @@ Ainsi l'inversion promise est faite : de l'humain serti dans les volutes d'un te
 3. Les choix du temps de la personnalité concernent les valeurs prises comme fondement et but de notre existence, en lien avec la Présence divine. Ce sont les choix de la foi. Ils sont totalement irréversibles.
 
 Ainsi nous vivons le temps sur trois niveaux simultanément. Leur entrelacs donne la direction, le sens et la valeur de notre vie.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Serons_nous_eternellement_soumis_a_la_gravite_materielle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Serons-nous éternellement soumis à la gravité matérielle?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-104-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 104 — Décembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_Flacon">
+          <span class="pr-2">Le Flacon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

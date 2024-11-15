@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Moussa Ndiaye<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Extraits_de_La_Vie_des_Maitres">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Extraits de La Vie des Maîtres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-54-printemps-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 54 — Printemps 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_05_Les_reponses">
+          <span class="pr-2">Quiz maxien n°5 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dans ses séminaires, Moussa Ndiaye a décrit sous toutes les facettes la nature féminine !
 
@@ -61,3 +85,27 @@ La Rédaction
 25. La femme et l'aventure
 
 Moussa  Ndiaye 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Extraits_de_La_Vie_des_Maitres">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Extraits de La Vie des Maîtres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-54-printemps-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 54 — Printemps 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_05_Les_reponses">
+          <span class="pr-2">Quiz maxien n°5 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Jeanmarie Chaise<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jacques_Dupont/Reunion_de_lecteurs_du_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion de lecteurs du LU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-16-hiver-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 16 — Hiver 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Francois_Drouet/Propositions_et_reflexions_sur_la_reunion_de_2002">
+          <span class="pr-2">Propositions et réflexions sur la réunion de 2002</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Il peut se faire que l'homme ait l'impression d'être esclave des contingences matérielles de son environnement. C’est en grande partie exact tant qu'il n'a pas vraiment saisi toutes les données qui lui permettraient dans un premier temps de s'en abstraire, puis de plus en plus s'en détacher pour franchir bientôt les étapes qui vont de la conscience d'un être matériel à la conscience d'un être spirituel. La personnalité humaine n'est pas le jouet des événements dans le temps et l'espace ou, du moins, elle
 
@@ -85,3 +109,27 @@ Ici les voyageurs de l'espace ne parcourent pas le même chemin. **B** se conten
 La contraction du temps, et donc de l'espace parcouru, (ou vice et versa) est une donnée fondamentale et logique de l'organisation universelle.
 
 Jeanmarie Chaise
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jacques_Dupont/Reunion_de_lecteurs_du_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion de lecteurs du LU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-16-hiver-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 16 — Hiver 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Francois_Drouet/Propositions_et_reflexions_sur_la_reunion_de_2002">
+          <span class="pr-2">Propositions et réflexions sur la réunion de 2002</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

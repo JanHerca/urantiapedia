@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Guy Bourhis<br>© 1998 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/007">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 7 — Automne 1998 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-7-automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 7 — Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Emergence_et_finalite_de_ladoration">
+          <span class="pr-2">Emergence et finalite de l’adoration</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Texte d'une conférence donnée par Guy Bourhis à Paris en 1984. Ce texte est une sorte d'introduction pour une étude nettement plus longue sur le même sujet. Cette étude intitulée « Voyage dans le cœur d'un enfant » sera prochainement disponible._
 
@@ -58,3 +82,27 @@ Dans notre recherche, dans notre réflexion, ne négligeons pas nos enfants, les
 Un mot encore : Laurent et Virginie ont fait un émule de leur âge: Tanguy qui, lui aussi, depuis quelques années dialogue avec son don divin
 
 Lui aussi avait 6 ou 7 ans quand il aborda le livre d'Urantia. de leur avis commun, les enfants de leur âge, en 1984, rient et se moquent à l'évocation du rôle de l'Ajusteur. ils en tirent eux-mêmes la conclusion : à 11 ou 12 ans, il **est déjà trop tard...**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/007">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 7 — Automne 1998 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-7-automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 7 — Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Emergence_et_finalite_de_ladoration">
+          <span class="pr-2">Emergence et finalite de l’adoration</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

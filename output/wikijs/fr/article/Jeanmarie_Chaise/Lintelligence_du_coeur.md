@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Jeanmarie Chaise<br>© 1998 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/008">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 8 — Hiver 1998 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-8-hiver-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 8 — Hiver 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Castel/Que_se_passe_t_il_apres_la_mort">
+          <span class="pr-2">Que se passe-t-il apres la mort ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le coté merveilleux de la vie qui nous est offerte, c'est que nous soyons libres de nous unir comme de nous désunir, et de toujours nous apercevoir que, finalement, parce que l'organisation cosmique de Dieu est pyramidale, tout ce qui est union tend vers le Créateur, vers le Père, vers le sommet, alors que tout ce qui est désunion implique la nécessité de nouveaux efforts futurs pour nous unir à nouveau ou nous démettre définitivement du projet divin. Il semble, en effet, que nous ne puissions jamais parvenir à progresser spirituellement si nous laissons derrière nous des inimitiés fondamentales sur lesquels nous ne sachions revenir. Jésus nous a invités à aimer même nos ennemis, n'ayant, en vérité, aucun mérite à n'aimer que ceux qui nous aiment. L'exemple magistral de ceci nous est donné dans le Livre d'Urantia.
 
@@ -29,3 +53,27 @@ Y a-t-il des limites à l'intelligence du cœur ? Force est de répondre par la 
 Telle est l'émergence primordiale à laquelle Jésus nous a tous invité à joyeusement participer. Que tous ceux des hommes et des femmes de ce monde que j'ai pu fâcher pardonnent les travers qu'ils ont pu remarquer en moi et qui leur ont déplu. Je demeure leur serviteur bien intentionné.
 
 Jeanmarie Chaise
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/008">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 8 — Hiver 1998 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-8-hiver-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 8 — Hiver 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Castel/Que_se_passe_t_il_apres_la_mort">
+          <span class="pr-2">Que se passe-t-il apres la mort ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

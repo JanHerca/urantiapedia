@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 René Felix<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_ou_la_metaphysique_echoue_totalement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Là où la métaphysique échoue totalement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-32-hiver-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 32 — Hiver 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Absence">
+          <span class="pr-2">Absence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Qu'est-ce qui fait tenir les couples... ?
 L'AMOUR ? — peut-être.
@@ -64,3 +88,27 @@ Un seul espoir reflète l'esprit actuel imprimé par le cours de notre existence
 C'est là une façon de voir l'avenir à travers l'empreinte d'un passé.
 
 René Felix
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_ou_la_metaphysique_echoue_totalement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Là où la métaphysique échoue totalement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-32-hiver-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 32 — Hiver 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Absence">
+          <span class="pr-2">Absence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Carte_de_la_conscience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Carte de la conscience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-69-hiver-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 69 — Hiver 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/L_equipe_Shamengo">
+          <span class="pr-2">L'équipe Shamengo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le **Mouvement Colibris** tire son nom d'une légende amérindienne : Un jour, dit la légende, il y eut un immense incendie de forêt. Tous les animaux terrifiés, atterrés, observaient impuissants le désastre. Seul le petit colibri s'activait, allant chercher quelques gouttes avec son bec pour les jeter sur le feu. Après un moment, le tatou, agacé par cette agitation dérisoire, lui dit : « Colibri! Tu n'es pas fou ? Ce n'est pas avec ces gouttes d'eau que tu vas éteindre le feu ! »
 
@@ -60,4 +84,28 @@ La Terre a besoin de temps pour renouveler les ressources que nous prélevons et
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_01/206.jpg">
 <figcaption>Fig. 6. — string</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Carte_de_la_conscience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Carte de la conscience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-69-hiver-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 69 — Hiver 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/L_equipe_Shamengo">
+          <span class="pr-2">L'équipe Shamengo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

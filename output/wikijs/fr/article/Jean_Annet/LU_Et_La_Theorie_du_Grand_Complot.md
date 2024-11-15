@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Jean Annet<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/La_Priere_N_en_Etait_Pas_Une">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Priêre N'en Était Pas Une</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-93-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 93 — Mars 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Nouvelles_De_La_Fondation">
+          <span class="pr-2">Nouvelles De La Fondation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La situation tout à fait exceptionnelle que nous traversons actuellement à cause de la COVID 19 máa suscité cette réflexion par rapport au Livre d'Urantia : est-ce que cela a quelque chose à voir avec le livre? Est-ce que la théorie du complot qui alimente très souvent les réflexions par rapport à l'origine du virus est totalement étrangère à l'enseignement du livre?
 
@@ -50,3 +74,27 @@ Jean Annet (Belgique -Janvier 2021)
 > Il y a dans le mental de Dieu un plan incluant toutes les créatures de ses immenses domaines, et ce plan est un dessein éternel d'occasions favorables sans bornes, de progrès illimité et de vie sans fin. Et les trésors infinis de cette carrière incomparable récompensent vos efforts !
 > 
 > Le but de l'éternité est en avant ! L'aventure d'aboutissement à la divinité se présente devant vous ! La course à la perfection est engagée ! Quiconque le veut peut y participer, et une victoire certaine couronnera les efforts de tout être humain désirant courir la course de la foi et de la confiance en s'appuyant à chaque pas sur les directives de l'Ajusteur intérieur et sur la gouverne du bon esprit du Fils de l'Univers, qui a été répandu si libéralement sur toute chair. ([LU 32:5.7-8](/fr/The_Urantia_Book/32#p5_7))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/La_Priere_N_en_Etait_Pas_Une">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Priêre N'en Était Pas Une</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-93-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 93 — Mars 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Nouvelles_De_La_Fondation">
+          <span class="pr-2">Nouvelles De La Fondation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

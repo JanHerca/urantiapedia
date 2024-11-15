@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/Une_soiree_a_la_Neyliere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une soirée à la Neylière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-60-automne-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 60 — Automne 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Quelques_passages_du_LU">
+          <span class="pr-2">Quelques passages du LU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Le simple art de bénir**
 
@@ -43,3 +67,27 @@ Devant une personne en pleurs ou apparemment brisée par la vie, bénissons-la d
 Par-dessus tout, n'oublions pas de bénir cette personne merveilleuse, totalement belle dans sa vraie nature, et si digne d'amour que nous sommes.
 
 Auteurs associés
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/Une_soiree_a_la_Neyliere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une soirée à la Neylière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-60-automne-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 60 — Automne 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Quelques_passages_du_LU">
+          <span class="pr-2">Quelques passages du LU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

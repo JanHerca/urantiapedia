@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Jeanmarie Chaise<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Liberte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Liberté</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-21-printemps-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 21 — Printemps 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Yves_Guillot_Goguet/Doit_on_fonder_une_nouvelle_eglise">
+          <span class="pr-2">Doit-on fonder une nouvelle église ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A l'aide des révélations du _Livre d'Urantia_ et des détails chiffrés qu'il nous donne, nous pouvons sans doute mieux nous représenter comment est organisée la création cosmique de la Déité. La référence première se trouve être tout naturellement le Paradis qui est présenté comme l'archétype de la manifestation qualifiée de Dieu. C'est pourquoi c'est l'organisation fonctionnelle du Paradis que nous devons tout d'abord examiner et seulement l'organisation du Haut Paradis et du Paradis périphérique (Pages [LU 11:2.9](/fr/The_Urantia_Book/11#p2_9) et [LU 11:3.4](/fr/The_Urantia_Book/11#p3_4))
 
@@ -78,3 +102,27 @@ Ainsi la totalité de la gravité spirituelle se trouve présentement accaparée
 Quant à nous, nous pouvons déduire de tout ceci que l'ensemble de la création est sujet à des estimations nombrées, les nombres afférents aux trois domaines, physique, mental et spirituel, se présentant sous la même forme en vertu d'une théorie de la totalité qui, par ailleurs, ne nous est pas dévoilée.
 
 Jeanmarie Chaise
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Liberte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Liberté</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-21-printemps-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 21 — Printemps 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Yves_Guillot_Goguet/Doit_on_fonder_une_nouvelle_eglise">
+          <span class="pr-2">Doit-on fonder une nouvelle église ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

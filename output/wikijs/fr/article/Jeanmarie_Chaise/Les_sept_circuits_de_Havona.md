@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Jeanmarie Chaise<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Nicole_Ragetly/La_trinitisation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La trinitisation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-9-printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 9 — Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 L'une des particularités remarquables, lorsque l'on prend connaissance du LIVRE D'URANTIA, c'est la référence quasiment constante que l'on y trouve dans l'établissement de son organisation selon l'ordonnancement mathématique de ses composantes essentielles. Il apparaît très vite au lecteur que les nombres y jouent un rôle de premier plan, et notamment la décade et surtout l'heptade qui, respectivement, organisent plus que l'espace et la conformation des choses. Et cette constatation apporte une confirmation supplémentaire à l'ordre dans lequel la Déité a voulu unifier et coordonner toute sa création.
 
@@ -52,3 +73,24 @@ Total des mondes des Sept cercles de Havona:
 La proportionnalité entre chaque circuit est donc de l'ordre de un vingt huitième. Il ne fallait pas en attendre moins de la perfection. En effet, juste après l'hexade qui est le premier <ins>chiffre symbole parfait</ins>, 28 (4x7) est le <ins>premier nombre parfait</ins>.
 
 Jeanmarie Chaise
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Nicole_Ragetly/La_trinitisation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La trinitisation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-9-printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 9 — Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Rosette Poletti et Barbara Dobbs<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Le_Souffle_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Souffle de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-59-été-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 59 — Été 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Empathie_et_Leadership">
+          <span class="pr-2">Empathie et Leadership</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Déclaration d'estime de soi
 
@@ -107,3 +131,27 @@ Les messages donnés par les parents et les autres personnes présentes dans l'e
 La première démarche consiste à prendre conscience de cet état de choses, puis à identifier les éléments de ce dialogue intérieur en les notant, par exemple. Alors il devient possible de modifier les éléments de ce dialogue intérieur en se donnant à soi-même des permissions, des messages positifs et encourageants. Au début, cela peut paraître artificiel ! Mais en persévérant, en changeant systématiquement les messages négatifs en permissions constructives, l'estime de soi s'améliore influençant la vie émotionnelle et le comportement de la personne. (à suivre)
 
 Rosette Poletti et Barbara Dobbs
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Le_Souffle_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Souffle de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-59-été-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 59 — Été 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Empathie_et_Leadership">
+          <span class="pr-2">Empathie et Leadership</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

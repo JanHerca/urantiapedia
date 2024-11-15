@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Claire Mylanus<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Roth/Tout_vient_en_son_temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tout vient en son temps</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-58-printemps-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 58 — Printemps 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_premiere_phrase_du_LU">
+          <span class="pr-2">La première phrase du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Séminaire du mois d'août en Bretagne**
 
@@ -54,3 +78,27 @@ Cela vient du _livre d'Urantia_, « Wisdom of the Enneagram 'était très intér
 Cette semaine fut très appréciée par tous, nous avons partagé notre âme, notre fraternité, de belles soirées de discussions, notre bonne humeur, de bons repas, de la joie de vivre et une profonde reconnaissance d'avoir eu le privilège de pouvoir faire cette unique expérience.
 
 Claire Mylanus
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Roth/Tout_vient_en_son_temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tout vient en son temps</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-58-printemps-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 58 — Printemps 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_premiere_phrase_du_LU">
+          <span class="pr-2">La première phrase du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

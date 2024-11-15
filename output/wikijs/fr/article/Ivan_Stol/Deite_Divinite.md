@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Ivan Stol<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Les_causes_les_effets_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les causes, les effets</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-63-été-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 63 — Été 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Regles_pour_etre_humain">
+          <span class="pr-2">Règles pour être humain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Les définitions d'abord (ressenti personnel):
 
@@ -39,3 +63,27 @@ Dans chaque groupe ou service, il y a un « esprit de groupe » qui unit les per
 Voilà comment je vois ces choses à la base, après il faut comprendre chaque service, leurs niveaux de fonctionnalités et les capacités associés.
 
 Ivan Stol
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Les_causes_les_effets_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les causes, les effets</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-63-été-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 63 — Été 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Regles_pour_etre_humain">
+          <span class="pr-2">Règles pour être humain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

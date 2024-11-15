@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Alain Degoumois<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Christine_Baussain/Guten_Tag_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Guten Tag Urantia !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-46-printemps-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 46 — Printemps 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Chappuis/Les_Yeux_Bleus">
+          <span class="pr-2">Les Yeux Bleus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Fais de ta vie une æuvre d'art.
 Que chaque instant de ce présent si précieux,
@@ -45,3 +69,27 @@ Et croit sans hésiter, lentement et sûrement,
 Dans l'Inconditionnel Amour du temps, ton plus beau présent.
 
 Alain Degoumois
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Christine_Baussain/Guten_Tag_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Guten Tag Urantia !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-46-printemps-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 46 — Printemps 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Chappuis/Les_Yeux_Bleus">
+          <span class="pr-2">Les Yeux Bleus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

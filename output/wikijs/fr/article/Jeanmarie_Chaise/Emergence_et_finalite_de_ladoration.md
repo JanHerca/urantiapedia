@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Jeanmarie Chaise<br>© 1998 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_Bourhis/Le_Livre_dUrantia_et_les_enfants">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d’Urantia et les enfants</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-7-automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 7 — Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Joseph_Le_Dain_et_Severin_Desbuisson/Compte_rendu_des_conferences_IUA">
+          <span class="pr-2">Compte rendu des conférences IUA</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Qu'est-ce que la fusion personnelle avec l'Ajusteur)
 
@@ -43,3 +67,27 @@ C'est ici le moment de bien vouloir nous souvenir que grâce à l'exercice de la
 La signification de l'adoration doit être comprise comme le but, comme la finalité de la vie préfusionnelle avec l'Ajusteur, tandis que sa valeur post-fusionnelle est une valeur d'émergence qui doit finalement mener la Personnalité jusqu'à l'état finalitaire au sein de la pensée de Dieu.
 
 Jean-Marie Chaise
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_Bourhis/Le_Livre_dUrantia_et_les_enfants">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d’Urantia et les enfants</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-7-automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 7 — Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Joseph_Le_Dain_et_Severin_Desbuisson/Compte_rendu_des_conferences_IUA">
+          <span class="pr-2">Compte rendu des conférences IUA</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

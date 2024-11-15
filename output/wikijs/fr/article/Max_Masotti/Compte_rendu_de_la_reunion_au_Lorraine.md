@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Max Masotti<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_jeu_du_Je_me_retrouve">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le jeu du « Je me retrouve »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-37-automne-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 37 — Automne 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Les 22, 23, 24 et 25 juin 2006_
 
@@ -109,3 +130,24 @@ Une petite citation du LU pour nous consoler :
 > _Après être partis sur la route de la vie éternelle, après avoir accepté votre mission et reçu vos ordres pour progresser, ne craignez pas les dangers du manque de mémoire des hommes et de l'inconstance des mortels, ne vous laissez pas troubler par des craintes d'échecs ou des confusions déroutantes, ne chancelez pas et ne mettez en doute ni votre statut ni votre position, car, à toutes les heures sombres et à tous les carrefours de la lutte pour le progrès, l'Esprit de Vérité parlera toujours et vous dira « Voilà le chemin »_. ([LU 34:7.8](/fr/The_Urantia_Book/34#p7_8)).
 
 Max Masotti.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_jeu_du_Je_me_retrouve">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le jeu du « Je me retrouve »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-37-automne-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 37 — Automne 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

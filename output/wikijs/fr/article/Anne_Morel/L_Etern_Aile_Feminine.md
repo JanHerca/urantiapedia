@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Anne Morel<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Gallo/Domaine_de_Chales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Domaine de Châles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-57-hiver-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 57 — Hiver 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anne_Muriel_Brouet/Le_boson_de_Higgs">
+          <span class="pr-2">Le boson de Higgs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _NDLR: Il y a des êtres remarquables que nous côtoyions sans en avoir pleinement conscience jusqu'au jour où leur présence éclate en pleine lumière de l'amitié (de la rédaction) . Il en est ainsi d'Anne, jeune femme aussi élégante que brillante et dont la vivacité rayonne de simplicité. Sa force : l'enthousiasme dans le sens le plus noble du terme ! Pleinement femme et si proche de l'Éternel que son témoignage s'en vient clôturer merveilleusement bien le thème de l'Éternel Féminin, sujet qu'elle revisite à sa manière._
 
@@ -33,4 +57,28 @@ Anne Morel
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_01/138.jpg">
 <figcaption>« Le Créateur en ses oeurres »</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Gallo/Domaine_de_Chales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Domaine de Châles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-57-hiver-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 57 — Hiver 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anne_Muriel_Brouet/Le_boson_de_Higgs">
+          <span class="pr-2">Le boson de Higgs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Dominique Ronfet<br>© 1997 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Coherence_ou_principe_devanescence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coherence, ou principe d’evanescence ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-5-automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 5 — Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Personnalite_Identite_Divinite">
+          <span class="pr-2">Personnalite, Identite, Divinite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La quête de la vérité, la recherche de son propre éveil, ne peut se dérouler que par étapes.
 
@@ -60,3 +84,27 @@ _La créature ne sait rien de la divinité. Les voies de l'intellect ordinaire n
 
 Dominique Ronfet
 dominique.ronfet@hol.fr
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Coherence_ou_principe_devanescence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coherence, ou principe d’evanescence ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-5-automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 5 — Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Personnalite_Identite_Divinite">
+          <span class="pr-2">Personnalite, Identite, Divinite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

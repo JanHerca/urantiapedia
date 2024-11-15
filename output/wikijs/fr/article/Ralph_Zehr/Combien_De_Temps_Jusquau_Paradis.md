@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Ralph Zehr<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Marie_Chaise/Les_Paraboles_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Paraboles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-85-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 85 — Mars 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Notre_Aventure_2">
+          <span class="pr-2">Notre aventure</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/179.jpg">
@@ -59,3 +83,27 @@ Il convient également de noter que, au moment de la rébellion de Lucifer, un c
 Il semble que les révélateurs nous ont fourni des pièces adéquates au puzzle, qui nous permet de répondre à la question proposée par l'affirmative. Combien d'autres pièces du puzzle sont encore dispersées dans le Livre d'Urantia en attente de montage, qui une fois réunis, se traduira par de nouveaux concepts, une plus grande compréhension et de nouveaux encouragements à gravir les échelons de la vie au Paradis?
 
 **Ralph Zehr, MD**, (traduit par Guy Perron)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Marie_Chaise/Les_Paraboles_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Paraboles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-85-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 85 — Mars 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Notre_Aventure_2">
+          <span class="pr-2">Notre aventure</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

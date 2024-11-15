@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Jean Royer<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Priere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-68-automne-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 68 — Automne 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michel_Benoit/Mandela_Gandhi_King_Et_Jesus">
+          <span class="pr-2">Mandela, Gandhi, M.L. King... Et Jésus ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Introduction
 
@@ -122,3 +146,28 @@ Un jour, l'homme devra apprendre à jouir de la liberté (liberty) sans licence,
 [LU 71:2.5](/fr/The_Urantia_Book/71#p2_5) 4. Le danger du suffrage universel aux mains de majorités frustes et indolentes.
 [LU 71:2.6](/fr/The_Urantia_Book/71#p2_6) 5. L'obéissance servile à l'opinion publique ; la majorité n'a pas toujours raison.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Priere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-68-automne-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 68 — Automne 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michel_Benoit/Mandela_Gandhi_King_Et_Jesus">
+          <span class="pr-2">Mandela, Gandhi, M.L. King... Et Jésus ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

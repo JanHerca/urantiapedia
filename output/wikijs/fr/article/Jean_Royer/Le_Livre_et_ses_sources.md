@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Jean Royer<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Les_7_jubiles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les 7 jubilés</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-42-printemps-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 42 — Printemps 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Le_vent_dhiver">
+          <span class="pr-2">Le vent d'hiver</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Voici un extrait de texte sur les sources du LU compulsé et analysé par Matthew Block. Le texte est originellement en deux colonnes, ici en quatre pour avoir en même temps l'original et la traduction. La traduction du texte de Bundy est de moi. J'ai tenté de respecter la mise en gras et le soulignage sans y parvenir totalement._
 
@@ -32,4 +56,28 @@ En dépit du fait que la traduction rend le parallèle plus difficile, il semble
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_01/039.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Les_7_jubiles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les 7 jubilés</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-42-printemps-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 42 — Printemps 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Le_vent_dhiver">
+          <span class="pr-2">Le vent d'hiver</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

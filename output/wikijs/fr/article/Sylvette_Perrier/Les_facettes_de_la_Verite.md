@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Sylvette Perrier<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 16 — Hiver 2000 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-16-hiver-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 16 — Hiver 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jacques_Dupont/Reunion_de_lecteurs_du_LU">
+          <span class="pr-2">Réunion de lecteurs du LU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La vérité est comparable à un immense joyau, fait de plusieurs pierres précieuses de diverses couleurs, aussi étincelantes les unes que les autres, taillées en une multitude de facettes miroitantes. Les humains en voient tantôt une facette, tantôt une autre, selon le lieu et l'époque où ils se trouvent. Ils peuvent déformer l'image de ce qu'ils ont vu à cause des effets miroitants, et de la vision propre à celui qui observe. Mais la vérité brille toujours, et un jour peut-être pas avant 200 milliards d'années, nous aurons la vision panoramique complète d'un grand morceau de cette montagne de Diamant qui, pour l'instant, surplombe de très haut nos personnalités grouillantes sur la glèbe urantienne.
 
@@ -37,3 +61,27 @@ La comparaison est saisissante avec les sept mondes des maisons, puis le voyage 
 Quelle chance avons-nous, d'avoir enfin le maximum de Vérité (actuellement) entre nos mains pour abreuver nos âmes, avec notre Cinquième Révélation, offerte dans l'écrin de notre Livre à la couverture couleur de Saphir !
 
 Sylvette Perrier
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 16 — Hiver 2000 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-16-hiver-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 16 — Hiver 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jacques_Dupont/Reunion_de_lecteurs_du_LU">
+          <span class="pr-2">Réunion de lecteurs du LU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

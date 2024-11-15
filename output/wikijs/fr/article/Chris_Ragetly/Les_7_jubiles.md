@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Chris Ragetly<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Petite_reflexion_sur_la_puissance_daimer_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Petite réflexion sur la puissance d'aimer (2ème partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-42-printemps-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 42 — Printemps 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Le_Livre_et_ses_sources">
+          <span class="pr-2">Le Livre et ses sources</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 606 Urantia — Satania 24 Jérusem — Norlatiadek
 70 Edentia — Nébadon 84 Salvington
@@ -121,3 +145,27 @@ Vous commencez par les Instigateurs de Repos (à ne pas confondre avec les Compl
 Et maintenant s'ouvre devant le nouveau finalitaire le service éternel et, lorsqu'un finalitaire atteindra le septième stade de réalisation de l'esprit, cela donnera probablement le signal du ***premier jubilé de l'éternité***. ([LU 27:7.8](/fr/The_Urantia_Book/27#p7_8)) Quelles seront les 6 étapes suivantes des jubilés de l'éternité? Seul les expériences insondables du Cosmos Infini nous l'apprendront sur et dans les niveaux du coabsolu.
 
 CMR
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Petite_reflexion_sur_la_puissance_daimer_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Petite réflexion sur la puissance d'aimer (2ème partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-42-printemps-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 42 — Printemps 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Le_Livre_et_ses_sources">
+          <span class="pr-2">Le Livre et ses sources</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

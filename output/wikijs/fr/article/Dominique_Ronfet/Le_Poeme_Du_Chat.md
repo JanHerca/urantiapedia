@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Dominique Ronfet<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/Quelques_Propos_Sur_Les_Difficultes_De_Diffusion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelques Propos Sur Les Difficultés De Diffusion De La 5e Révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-103-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 103 — Septembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/De_La_Necessaire_Fecondation_De_Notre_Pensee">
+          <span class="pr-2">De La Nécessaire Fécondation De Notre Pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 J'ai demandé m'écrire un poème basé Livre d'Urantia Et c'est ampoulé, des images un bien construit, pour une au Chat [Chat QT] de sur les enseignements du pas mal du tout, un peu peu étranges, mais plutôt machine, n'oublions pas.
 
@@ -65,3 +89,27 @@ Dessin ou image générée par l'intelligence artificielle DallE ayant pour thè
 <em>>Des êtres humains, des mortels sur Terre,</em><br>
 <em>>Cherchant la vérité, l'amour et la lumière.</em><br>
 </p>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/Quelques_Propos_Sur_Les_Difficultes_De_Diffusion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelques Propos Sur Les Difficultés De Diffusion De La 5e Révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-103-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 103 — Septembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/De_La_Necessaire_Fecondation_De_Notre_Pensee">
+          <span class="pr-2">De La Nécessaire Fécondation De Notre Pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

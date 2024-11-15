@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Georges Michelson-Dupont<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cyril_Cosette/L_amitie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'amitié</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-74-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 74 — Juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/La_Diffusion_du_LU_Projection_2015_2100">
+          <span class="pr-2">La Diffusion du Livre d'urantia Dans Le Monde Projection 2015-2100</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **RÉUNION DES TRADUCTEURS À GONESSE (FRANCE) EN 1996**
 
@@ -60,3 +84,27 @@ La deuxième colonne est l'année de publication, la troisième colonne indique 
 | Persian | 2025 | 45 500 000 | 77 500 000 | 1,05 % |
 | Japanese | 2025 | 125 000 000 | 126 000 000 | 1,70 % |
 | TOTAL POPULATION | 2025 | 2 872 780 000 | 603 780 000 | 48,68 % |
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cyril_Cosette/L_amitie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'amitié</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-74-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 74 — Juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/La_Diffusion_du_LU_Projection_2015_2100">
+          <span class="pr-2">La Diffusion du Livre d'urantia Dans Le Monde Projection 2015-2100</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

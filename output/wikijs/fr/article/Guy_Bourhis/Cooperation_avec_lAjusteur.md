@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Guy Bourhis<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/009">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 9 — Printemps 1999 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-9-printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 9 — Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Qui_etait_Jesus">
+          <span class="pr-2">Qui etait Jesus ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Il est très difficile de se rendre compte du travail qu'opère l'Ajusteur dans notre mental, surtout lorsque l'on sait que, le plus souvent, cette « adhésion » de notre part à sa mission n'est pas un processus <ins>conscient</ins> ([LU 110:3.6](/fr/The_Urantia_Book/110#p3_6)).
 
@@ -44,3 +68,27 @@ Attention, cette « manifestation » du travail de l'Ajusteur ne doit pas être 
 Cela démontre à l'évidence que le L.U., 5^ème^ Révélation faite aux hommes de la 606 de Satania, contient en puissance la preuve expérimentale de ce qu'il enseigne (pour éviter toute connotation dogmatique, j'aurais tendance à substituer « renseigne » à « enseigne »...). Mettons-le en pratique sans tarder: nous serons stupéfaits de découvrir en nous la Déité à l'ouvrage. Ceci dit, nous ne saurons jamais quand et comment notre Don divin agit...
 
 Guy Bourhis
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/009">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 9 — Printemps 1999 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-9-printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 9 — Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Qui_etait_Jesus">
+          <span class="pr-2">Qui etait Jesus ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

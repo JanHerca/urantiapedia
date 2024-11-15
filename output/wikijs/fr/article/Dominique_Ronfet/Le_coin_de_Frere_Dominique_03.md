@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Dominique Ronfet<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Trinite_de_Suprematie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trinité de Suprématie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 41 — Hiver 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marlene_et_Georges_Michelson_Dupont/Reflexions_de_Georges_et_Marlene_02">
+          <span class="pr-2">Réflexions de Georges & Marlène</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bonjour,
 
@@ -47,3 +71,27 @@ Voulons-nous la liberté par intégration progressive ou la prison par répétit
 Que voulons nous?
 
 Dominique Ronfet
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Trinite_de_Suprematie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trinité de Suprématie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 41 — Hiver 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marlene_et_Georges_Michelson_Dupont/Reflexions_de_Georges_et_Marlene_02">
+          <span class="pr-2">Réflexions de Georges & Marlène</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

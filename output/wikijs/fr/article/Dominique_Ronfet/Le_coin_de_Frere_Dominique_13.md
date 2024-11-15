@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Dominique Ronfet<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_06_Les_reponses">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quiz maxien n°6 Les réponses</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-55-été-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 55 — Été 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 - Sais-tu qu'un compositeur de musique du 19ème siècle, Gustav MAHLER, a divisé en 2 parties sa 8ème symphonie ? Prenant comme textes chantés d'une part le Veni Creator Spiritus, hymne religieux latin du 9ème siècle et un extrait de la scène finale du Faust de Goethe avec son Eternel Féminin .
 - Ah? Et que penses-tu qu'il ait voulu nous passer comme message ?
@@ -46,3 +67,24 @@ Vers l'En Haut nous attire. »<br>
 - J'aurai pu te le chanter, mais alors ton aspiration serait très vite redescendue.
 
 Dominique Ronfet
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_06_Les_reponses">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quiz maxien n°6 Les réponses</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-55-été-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 55 — Été 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

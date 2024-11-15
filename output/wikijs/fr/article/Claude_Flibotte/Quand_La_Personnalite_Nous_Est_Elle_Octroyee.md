@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Claude Flibotte<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_Antequera/Sur_Les_Premiers_Instants_De_La_Survie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur Les Premiers Instants De La Survie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-88-décembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 88 — Décembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Quand_La_Personnalite_Nous_Est_Elle_Octroyee">
+          <span class="pr-2">Quand La Personnalité Nous Est-Elle Octroyée?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Cette question est souvent revenue dans nos discussions de groupe détude. Nous savons qu'elle est un don de notre Père Céleste ([LU 112:1.1](/fr/The_Urantia_Book/112#p1_1)), affirmation souvent répétée dans le Livre d'Urantia. Mais, à quel moment le Père nous fait-il ce merveilleux cadeau?
 
@@ -51,3 +75,27 @@ Claude Flibotte — Sainte-Julie
 > 
 > S'il vous plaît passez du temps en utilisant les moteurs de recherche et dites-nous ce que vous pensez. Si vous constatez des erreurs, veuillez nous en informer afin que nous puissions les corriger. Vous pouvez envoyer un courriel à Ashley à : ashleyt@urantia.org.
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_Antequera/Sur_Les_Premiers_Instants_De_La_Survie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur Les Premiers Instants De La Survie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-88-décembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 88 — Décembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Quand_La_Personnalite_Nous_Est_Elle_Octroyee">
+          <span class="pr-2">Quand La Personnalité Nous Est-Elle Octroyée?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

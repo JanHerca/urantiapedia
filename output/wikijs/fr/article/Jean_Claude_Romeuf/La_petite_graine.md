@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Jean-Claude Romeuf<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/JE_SUIS_et_le_Principe_de_causalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">JE SUIS et le Principe de causalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-107-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 107 — Septembre 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Reunion_Europeenne_2025">
+          <span class="pr-2">Réunion Européenne 2025</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/170.jpg">
@@ -92,3 +116,27 @@ Elle était contente de savoir que j'avais tenu ma promesse et regrettait de ne 
 J'ai donc laissé la mochilla à la patronne du restaurant, pour qu'elle la lui remette, car j'ai appris qu'elles étaient cousines.
 
 Même si je ne sais pas si les graines que j'avais semées le long de l'Alameda ont poussé, ce dont je suis sûr, c'est qu'une petite graine de Dieu, lorsqu'elle a germé dans le cœur de quelqu'un, elle devient vite une fleur, puis, elle monte jusqu'au Paradis pour l'inonder de son parfum.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/JE_SUIS_et_le_Principe_de_causalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">JE SUIS et le Principe de causalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-107-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 107 — Septembre 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Reunion_Europeenne_2025">
+          <span class="pr-2">Réunion Européenne 2025</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

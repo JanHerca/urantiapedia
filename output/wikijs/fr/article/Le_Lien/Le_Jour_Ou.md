@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Benjamin_Boisson/Jeux_de_mots_sur_le_Christianisme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jeux de mots sur le Christianisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-61-hiver-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 61 — Hiver 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanne_Siaud_Facchin/La_Conscience">
+          <span class="pr-2">La Conscience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le jour où je me suis aimé pour de vrai,
 j'ai compris qu'en toutes circonstances,
@@ -83,3 +107,27 @@ Charlie Chaplin
 _Tout ceci s'appelle_ ***Savoir être — Savoir vivre — Savoir aimer***
 
 Charlie Chaplin
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Benjamin_Boisson/Jeux_de_mots_sur_le_Christianisme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jeux de mots sur le Christianisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-61-hiver-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 61 — Hiver 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanne_Siaud_Facchin/La_Conscience">
+          <span class="pr-2">La Conscience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

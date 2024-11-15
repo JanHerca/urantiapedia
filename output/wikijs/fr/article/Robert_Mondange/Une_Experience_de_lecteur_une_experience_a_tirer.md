@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Robert Mondange<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Rouanet/Adorer_Dieu_une_invitation_au_voyage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adorer Dieu ? une invitation au voyage hors de l' espace-temps</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 38 — Hiver 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Johanna_Beukers/Temoignage_sur_la_rencontre_a_Armeau">
+          <span class="pr-2">Témoignage sur la rencontre à Armeau</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 J'ai rencontré le livre d'Urantia en Provence, il y a fort longtemps, c'était à l'époque des fascicules photocopiés. Les anciens lecteurs sauront ce que cela veut dire. J'ai rencontré le livre parce que j'étais avide de lecture et que je cherchais à lire autre chose que des romans et peut être aussi parce que j'étais en recherche spirituelle. Des amis m'ont parlé, d'un livre qui expliquait l'organisation de l'univers et la place de Dieu dans tout ça. Les premières lectures ont été difficiles et s'il n'y avait pas eu un groupe d'étude, avec des lecteurs « confirmés » j'aurai certainement abandonné.
 
@@ -25,3 +49,27 @@ Dans un ordre d'idée, mais toujours sur le même plan, je suis très impliqué 
 En conclusion, je pense que nous avons besoin de lecteurs qui connaissent parfaitement le livre. Il appartient donc, aux « lecteurs expérimentés » d'aider ce qui ont besoin de mieux connaître le livre soit pour entrer en contact avec les lecteurs isolés, soit pour faire connaître le livre lorsque les circonstances de la vie s'y prêtent, soit pour aller placer un livre en bibliothèque par exemple.
 
 Robert Mondange
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Rouanet/Adorer_Dieu_une_invitation_au_voyage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adorer Dieu ? une invitation au voyage hors de l' espace-temps</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 38 — Hiver 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Johanna_Beukers/Temoignage_sur_la_rencontre_a_Armeau">
+          <span class="pr-2">Témoignage sur la rencontre à Armeau</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

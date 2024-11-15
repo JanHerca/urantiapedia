@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Jean Davier<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Un_feu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un feu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-13-printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 13 — Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Davier/Dieu_existe_t_il">
+          <span class="pr-2">Dieu existe-t-il ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le terme Melchizédek désigne un ordre de fils divins à mi-chemin dans la hiérarchie spirituelle entre Dieu et les hommes. On les appelle aussi fils d'urgence. Après la rébellion du prince planétaire Caligastia et l'échec des fils matériels Adam et Eve, douze Melchizédeks ont assumé la juridiction supra-matérielle de notre planète. Ils peuvent se rendre visible aux créatures matérielles et même s'incarner comme ce fut le cas de Machiventa Melchizédek sur notre terre. Il est intéressant de consulter les chroniques testamentaires et néotestamentaires qui traitent de ce sujet :
 
@@ -46,3 +70,27 @@ Actuellement Machiventa Melchizédek réside sur Jérusem, capitale de notre sys
 L'histoire nous révèle qu'il n'y a pas de « soir des mondes », mais perpétuellement marche des mondes vers plus de perfection. La planète a connu trahison et échec. Des révélations divines ont été altérées, déformées. Une nouvelle intervention suprahumaine nous est parvenue sous forme d'un livre. Nous ne sommes pas seuls, Jésus dit à jean « _Il ne t'est pas demandé de porter le fardeau du Fils de l'Homme; seul le gardien doit veiller pendant que la ville dort en paix_ » ([LU 134:9.5](/fr/The_Urantia_Book/134#p9_5)). Rodan d'Alexandrie l'exprime dans sa philosophie « _Quelle est la meilleure manière pour moi d'éveiller les pouvoirs bénéfiques latents qui dorment dans votre âme_ » ([LU 160:3.1](/fr/The_Urantia_Book/160#p3_1)). Et ainsi aider le Fils de l'Homme dans sa volonté de progrès.
 
 Jean Davier
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Un_feu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un feu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-13-printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 13 — Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Davier/Dieu_existe_t_il">
+          <span class="pr-2">Dieu existe-t-il ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

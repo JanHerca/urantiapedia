@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Jeanmarie Chaise<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Les_Directeurs_du_Recensement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Directeurs du Recensement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-23-automne-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 23 — Automne 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Christine_Baussain/Retraites">
+          <span class="pr-2">Retraites</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _Des années avant que le magnifique quartier général fût englouti par les vagues des mers du sud, les tribus mal dirigées et mal instruites de l'arrière-pays de Dalamatia s'étaient déjà abattues dans un assaut de demi-sauvages sur la cité splendide, chassant vers le nord l'état-major de la sécession et ses associés._ ([LU 67:5.2](/fr/The_Urantia_Book/67#p5_2))
 
@@ -29,3 +53,27 @@ Les travaux archéologiques n'en sont encore qu'à leurs débuts ; cependant on 
 A cela, nous, les lecteurs du Livre d’Urantia, nous avons les réponses. Mais en ce qui concerne la situation de l'ex-Dalamatia, considérons notre carte. Depuis l'île de Bahreïn, traçons les axes nord-sud et est-ouest. Partageons le quartier sud-ouest en deux parties égales. La direction indiquée par cette séparation sud-ouest se dirige droit vers le sud de la mer rouge. Ce qu'il fallait démontrer. C'est une hypothèse !
 
 Jeanmarie Chaise
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Les_Directeurs_du_Recensement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Directeurs du Recensement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-23-automne-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 23 — Automne 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Christine_Baussain/Retraites">
+          <span class="pr-2">Retraites</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

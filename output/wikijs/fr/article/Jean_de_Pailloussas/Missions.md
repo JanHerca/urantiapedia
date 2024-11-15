@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Jean de Pailloussas<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/023">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 23 — Automne 2002 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-23-automne-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 23 — Automne 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Lhomme_a_t_il_besoin_de_Dieu_pour_Vivre">
+          <span class="pr-2">L'homme a-t-il besoin de Dieu pour Vivre ? Est-ce faiblesse de croire en Dieu?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Nous avons tous appris que sur chacun des mondes de Havona nous aurions une mission différente à accomplir. Un milliard de missions! Nous sommes parfois moins conscients que sur cette planète chacun de nous a une mission.
 
@@ -35,3 +59,27 @@ Il ne faudrait cependant pas négliger certaines références telles que :
 En conclusion je dirai que l'idéal serait cet équilibre dont Jésus est le parangon, mais qu'en dehors de l'étude systématique, donc intellectuelle, du livre on ne devrait pas vraiment parler de « groupe d'étude ». On pourrait, pourquoi pas, parler de "communauté», « groupe de fraternité» « groupe de communion » de « groupe de partage » voire pour certains de « groupe d'action ». Chacun doit pouvoir se sentir libre d'adhérer à la forme qui lui convient le plus, mais en prenant bien garde de ne pas entrâ̂ner contre leur gré ceux qui ont fait un choix différent.
 
 Jean De Pailloussas
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/023">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 23 — Automne 2002 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-23-automne-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 23 — Automne 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Lhomme_a_t_il_besoin_de_Dieu_pour_Vivre">
+          <span class="pr-2">L'homme a-t-il besoin de Dieu pour Vivre ? Est-ce faiblesse de croire en Dieu?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

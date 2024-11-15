@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Chris Ragetly<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Porteurs_de_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Porteurs de vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-22-été-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 22 — Été 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Saisons">
+          <span class="pr-2">Saisons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le Livre d'Urantia nous conseille fortement le travail en équipe, et nous prévient que dans le futur nous aurons peu l'occasion de travailler seul. « _L'une des plus importantes leçons à apprendre pendant votre carrière mortelle est celle du travail en équipe. Ceux qui ont dominé cet art de travailler avec d'autres êtres peuplent les sphères de perfection. Il y a peu de tâches dans l'univers pour les serviteurs isolés. Plus vous vous élevez, plus vous devenez isolé lorsque vous êtes temporairement privés de la société de vos compagnons_ ». ([LU 28:5.14](/fr/The_Urantia_Book/28#p5_14))
 
@@ -31,3 +55,27 @@ Ensuite, lorsque de tels groupes (que ce soit sur Urantia, Satania Salvington, e
 Nous pouvons donc en toute tranquillité nous consacrer à travailler en groupe, un groupe de travail ou de lecture. Nous en aurons de plus en plus besoin.
 
 Chris M Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Porteurs_de_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Porteurs de vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-22-été-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 22 — Été 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Saisons">
+          <span class="pr-2">Saisons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

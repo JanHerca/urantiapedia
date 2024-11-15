@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_25">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-96-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 96 — Décembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Le_Progres_par_l_Education">
+          <span class="pr-2">Le Progrès par l'Éducation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Max mon ami.
 
@@ -87,3 +111,27 @@ En tant que secrétaire, il entretenait une base de données de lecteurs impress
 **L'EXPÉRIENCE DE LA MORT AURA-T-ELLE CHANGÉ MAX?**
 
 > « La mort náa rien ajouté aux possessions intellectuelles ni à la dotation spirituelle, mais elle a ajouté au statut expérientiel la conscience de la survie. » « Sur le monde des maisons numéro un (ou sur un autre si votre statut est plus élevé) vous reprendrez votre entrainement intellectuel et votre développement spirituel au niveau exact où il a été interrompu par la mort. [LU 48:7.25](/fr/The_Urantia_Book/48#p7_25)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_25">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-96-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 96 — Décembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Le_Progres_par_l_Education">
+          <span class="pr-2">Le Progrès par l'Éducation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

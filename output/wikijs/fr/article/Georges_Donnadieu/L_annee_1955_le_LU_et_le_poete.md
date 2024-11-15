@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Georges Donnadieu<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Octavie_Jung/La_FEMME">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La F E M M E</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-55-été-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 55 — Été 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Course_a_l_autre_Terre">
+          <span class="pr-2">Course à l’autre Terre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > « Seul un poète peut discerner la poésie dans la prose banale de la vie courante. » [LU 48:7.22](/fr/The_Urantia_Book/48#p7_22).
 
@@ -69,3 +93,27 @@ _Nota 3_: Avis de recherche : merci aux lecteurs chevronnés du LU d'indiquer le
 \* Mercredi : jour de la semaine consacré à Mercure-Hermes, le message des Dieux.
 
 Georges Donnadieu
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Octavie_Jung/La_FEMME">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La F E M M E</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-55-été-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 55 — Été 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Course_a_l_autre_Terre">
+          <span class="pr-2">Course à l’autre Terre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

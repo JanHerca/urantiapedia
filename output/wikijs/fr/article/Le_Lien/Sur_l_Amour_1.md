@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Amour_Gratitude_et_Lumiere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amour, Gratitude et Lumière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-62-printemps-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 62 — Printemps 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Suzanne_Lebesnerais/Le_Semeur">
+          <span class="pr-2">Le Semeur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **1. ...**
 
@@ -37,3 +61,27 @@ Ici apparaît dans son ampleur le rôle cosmique de la sexualité. Et ici, du m�
 (à suivre)
 
 Teilhard de Chardin
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Amour_Gratitude_et_Lumiere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amour, Gratitude et Lumière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-62-printemps-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 62 — Printemps 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Suzanne_Lebesnerais/Le_Semeur">
+          <span class="pr-2">Le Semeur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

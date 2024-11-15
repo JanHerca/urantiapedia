@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Chris Ragetly<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Le_livre_dUrantia_en_Afrique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le livre d’Urantia en Afrique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-automne-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Automne 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Faits_significations_et_valeurs">
+          <span class="pr-2">Faits, significations et valeurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Lorsque les Fils Micaëls sortent du Paradis pour entreprendre la création et l'organisation d'un univers, ils font le serment solennel de ne pas assumer la pleine souveraineté de la nouvelle création avant que sept effusions sous forme de créatures n'aient été achevées avec succès et confirmées par les Anciens des Jours ayant juridiction sur le superunivers intéressé. ([LU 119:0.3](/fr/The_Urantia_Book/119#p0_3))
 
@@ -43,3 +67,27 @@ Le caractère et la personnalité de Micaël sont décrits de façon très succi
 Mais il y a un mystère de plus qui le concerne, le voici [LU 48:6.26](/fr/The_Urantia_Book/48#p6_26) «_...si votre propre mental ne vous sert pas bien, vous pouvez l'échanger contre le mental de Jésus de Nazareth, lequel vous sert toujours bien._ » Peut-on profiter de cet échange étonnant pour garder en nous un peu du caractère de Jésus?
 
 Chris Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Le_livre_dUrantia_en_Afrique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le livre d’Urantia en Afrique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-automne-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Automne 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Faits_significations_et_valeurs">
+          <span class="pr-2">Faits, significations et valeurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

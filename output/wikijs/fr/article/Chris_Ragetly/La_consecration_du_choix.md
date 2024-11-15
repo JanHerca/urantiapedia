@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Chris Ragetly<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Philosophie_bouddhiste_La_pleine_conscience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Philosophie bouddhiste La pleine conscience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-67-été-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 67 — Été 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Petit_kit_philosophique_de_survie">
+          <span class="pr-2">Petit kit philosophique de survie (Alexandra Ahouandjinou)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La consécration du choix d'un mortel ou de toute autre créature n'est rien de plus ou de moins que de montrer son bon vouloir pour partager sa vie intérieure avec Dieu. Voir: ([LU 111:5.1](/fr/The_Urantia_Book/111#p5_1)).
 
@@ -45,3 +69,27 @@ En se consacrant à faire la volonté du Père, la créature se débarrasse des 
 En dernière analyse, le choix individuel entre le bien et le mal, la vérité et l'erreur, le matériel et le spirituel, l'humain et le divin, le temps et l'éternité, est le travail de la clairvoyance spirituelle.
 
 Chris Ragelty
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Philosophie_bouddhiste_La_pleine_conscience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Philosophie bouddhiste La pleine conscience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-67-été-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 67 — Été 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Petit_kit_philosophique_de_survie">
+          <span class="pr-2">Petit kit philosophique de survie (Alexandra Ahouandjinou)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

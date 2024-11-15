@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jean-Claude Romeuf<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/Rodans_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fascicules de Rodan</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-48-automne-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 48 — Automne 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quand_le_vent_souffle_la_nuit">
+          <span class="pr-2">Quand le vent souffle la nuit...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Son bateau s'appelait Edentia._ Faire le tour du monde, voilà quel fut le dernier rêve de Him. Naviguer d'est en ouest et rechercher une île bordée de falaises. "C'est dans une île bordée de falaises que tu trouveras un oiseau » lui avait dit un jour la jeune fille blonde vêtue de blanc. « Cet oiseau est le tien et grâce à lui, tu pourras voler. Il faut que tu partes à sa recherche. Avant de faire réellement sa découverte, il te faudra d'abord gravir sept falaises. » Him n'avait pas compris le sens de ces mots, mais il avait le sentiment que la difficulté serait aussi grande que de ramasser une étoile tombée dans la mer. Pourtant, il savait que la jeune fille ne mentait pas.
 
@@ -43,3 +67,27 @@ La dame blanche se tenait à côté de lui et lui prit la main : « Il te manque
 Him n'était pas toujours capable de saisir la signification des paroles de la fée, mais il gardait une confiance absolue dans son guide. Il plongea sans hésitation, l'oiseau le rattrapa et fusionna avec lui. Him devint sur le champ oiseau et l'oiseau devint homme. Comme un jeune frégate encore maladroite, Him venait de prendre son envol dans l'infinité du ciel étoilé.
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/Rodans_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fascicules de Rodan</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-48-automne-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 48 — Automne 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quand_le_vent_souffle_la_nuit">
+          <span class="pr-2">Quand le vent souffle la nuit...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

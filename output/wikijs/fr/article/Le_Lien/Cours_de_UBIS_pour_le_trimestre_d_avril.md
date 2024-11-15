@@ -9,6 +9,27 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/A_propos_de_l_ecole_UBIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À propos de l'école UBIS</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 73 — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## URANTIA BOOK INTERNET SCHOOL (UBIS) — Trimestre avril 2016 — Cœurs en Français
 
@@ -55,3 +76,24 @@ Ce cours est une étude thématique sur la vie intérieure. Ensemble, nous allon
 **Enseignant-animateur** : ***Guy Perron***
 
 Guy Perron est de Montréal, Canada. Lorsqu'il s'immergea totalement dans les incomparables enseignements du _Livre d'Urantia_ en 2000, il sentit tout de suite qu'il avait été béni et avait entre ses mains un cadeau incroyable, une grande et puissante œuvre d'art sur l'amour de notre Père ...de la véritable nourriture morontielle pour nos âmes, pour son âme.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/A_propos_de_l_ecole_UBIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À propos de l'école UBIS</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 73 — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

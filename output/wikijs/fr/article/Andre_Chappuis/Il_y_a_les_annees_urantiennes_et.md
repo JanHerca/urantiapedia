@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 André Chappuis<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Anova_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Anova (deuxième partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-20-hiver-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 20 — Hiver 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georgia_Gecht/Le_Supreme_Dieu_le_Septuple_Forces_Energies_et_Controle_Universel_de_Pouvoir_2">
+          <span class="pr-2">Le Suprême, Dieu le Septuple, Forces, Énergies et Contrôle Universel de Pouvoir : 100 Questions et Réponses (2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 L'article de M Royer sur Anova dans le Lien N¹9 est intéressant, car il nous permet de nous rendre compte de l'ancienneté de la présence d'êtres humains dans notre région cosmique.
 
@@ -34,3 +58,27 @@ Anova appartient à un système astronomique complexe (voir [LU 49:0.5](/fr/The_
 En faisant partie d'un système triple, Anova est peut-être la planète qui a l'année la plus longue de tout Satania. Vu ce qui précède, je pense qu'il y a moins de 30 millions de nos années qu'elle a atteint le 7^ème^ stade, mais qu'elle y est depuis plusieurs millions d'années. Le mélange des sortes d'années et les approximations données ne permettent pas d'être plus précis.
 
 André Chappuis
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Anova_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Anova (deuxième partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-20-hiver-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 20 — Hiver 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georgia_Gecht/Le_Supreme_Dieu_le_Septuple_Forces_Energies_et_Controle_Universel_de_Pouvoir_2">
+          <span class="pr-2">Le Suprême, Dieu le Septuple, Forces, Énergies et Contrôle Universel de Pouvoir : 100 Questions et Réponses (2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

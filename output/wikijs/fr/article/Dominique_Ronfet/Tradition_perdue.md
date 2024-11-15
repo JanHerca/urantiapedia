@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Dominique Ronfet<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Gallo/Derriere_le_JE_SUIS_qu_est_Ce_Qu_il_y_a">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Derrière le «JE SUIS» qu'est-CeQu'ily a ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-107-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 107 — Septembre 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/JE_SUIS_et_le_Principe_de_causalite">
+          <span class="pr-2">JE SUIS et le Principe de causalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dominique Ronfet
 
@@ -87,3 +111,27 @@ Le soufisme est la voie mystique de l'islam. Les soufis privilégient l'expérie
 Le soufisme ne se pratique jamais seul : celui qui y aspire, le mourid, doit être pris en charge par un maitre, le Shaikh, qui s'occupe de son entrainement spirituel. Cette relation entre le maitre et l'élève permet de perpétuer une chaine de transmission initiatique, qui remonte toujours à Muhammad.
 
 Les soufis croient que le nom de Mahomet est saint et sacré. La dévotion à Mahomet est la pratique la plus forte du soufisme. Les soufis ont toujours vénéré Mahomet comme la principale personnalité de grandeur spirituelle.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Gallo/Derriere_le_JE_SUIS_qu_est_Ce_Qu_il_y_a">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Derrière le «JE SUIS» qu'est-CeQu'ily a ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-107-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 107 — Septembre 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/JE_SUIS_et_le_Principe_de_causalite">
+          <span class="pr-2">JE SUIS et le Principe de causalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

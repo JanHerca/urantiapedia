@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Johanna Beukers<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Lamock/Mille_mercis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mille mercis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-47-été-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 47 — Été 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_06">
+          <span class="pr-2">P’tit Coin de Frère Dominique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jésus exalta l'amour — la vérité, la beauté et la bonté — comme idéal divin et réalité éternelle.
 
@@ -67,3 +91,27 @@ _L'adoration est l'attention sans effort, le vrai repos idéal de l'âme, une fo
 Je prie pour que chacun de nous puisse entrer dans cet univers de vérité, de beauté et de bonté: un univers où le Père attend ses enfants avec impatience et plein d'amour.
 
 Johanna Beukers
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Lamock/Mille_mercis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mille mercis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-47-été-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 47 — Été 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_06">
+          <span class="pr-2">P’tit Coin de Frère Dominique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

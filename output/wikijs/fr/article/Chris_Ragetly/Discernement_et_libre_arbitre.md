@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Chris Ragetly<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/La_Conscience_cosmique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Conscience cosmique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-31-automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 31 — Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Christine_Baussain/Ponts_passerelles_et_echelles_de_corde">
+          <span class="pr-2">Ponts, passerelles et échelles de corde</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Combien de fois n'avons-nous pas entendu cette réflexion: « Je suis très déçu, je parle du _Livre d'Urantia_, de mes expériences spirituelles, je donne des _Livres d'Urantia_, et tout ceci en pure perte, toutes ces personnes ne sont simplement pas intéressées. » C’est la complainte maintes et maintes fois entendue des nouveaux lecteurs du _Livre d'Urantia_. Qui parmi nous n'en a pas fait l'expérience ? Qui n'a pas voulu interpeller le monde entier?
 
@@ -21,3 +45,27 @@ Après la naissance de l'âme qui a lieu en concomitance avec l'arrivée de l'Aj
 (Les citations du _Livre d'Urantia_ sont en italiques, en gras, sont les passages que je mets en exergue)
 
 Chris M. Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/La_Conscience_cosmique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Conscience cosmique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-31-automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 31 — Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Christine_Baussain/Ponts_passerelles_et_echelles_de_corde">
+          <span class="pr-2">Ponts, passerelles et échelles de corde</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

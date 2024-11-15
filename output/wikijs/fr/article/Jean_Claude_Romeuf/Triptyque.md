@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Jean-Claude Romeuf<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Quest_ce_que_les_trous_noirs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'est-ce que les « trous noirs »?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-29-printemps-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 29 — Printemps 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Reflexions">
+          <span class="pr-2">Réflexions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _Mais tous ceux qui le recevront seront illuminés, purifiés et réconfortés._
 
@@ -67,3 +91,27 @@ La bonté nécessite un mental personnel. Seul un mental doté de personnalité 
 Il est très difficile à un être humain de parler de bonté, car il ne peut le faire que de ce qu’il a vécu. Or, la bonté fait partie de son expérience inachevée, de son incomplétude. Elle se concrétise en lui un peu plus chaque jour, tout en glissant entre ses doigts. Mais la comparaison ou la leçon la plus utile et la plus belle qu'il puisse rencontrer se trouve dans le Livre d'Urantia: « _La vraie bonté ressemble à l'eau, en ce sens qu'elle bénit tout et ne nuit à rien._ »
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Quest_ce_que_les_trous_noirs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'est-ce que les « trous noirs »?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-29-printemps-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 29 — Printemps 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Reflexions">
+          <span class="pr-2">Réflexions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

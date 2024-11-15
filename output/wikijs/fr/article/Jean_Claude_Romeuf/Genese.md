@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Jean-Claude Romeuf<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le coin de Frère Dominique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-39-été-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 39 — Été 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/La_Tulipe">
+          <span class="pr-2">La Tulipe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Par un beau jour d'éternité Dieu dit : « _Qu'est-ce qu'on est bien chez soi!_» Mais au bout de quelques milliards d'années, il commença à s'ennuyer. Alors, pour passer le temps, au lieu de faire des mots croisés, Dieu créa le cercle le premier jour.
 
@@ -49,3 +73,27 @@ Puis, Klimt eut un trait de génie！Il peindrait quelque chose symbolisant l'Am
 C'est ainsi que Klimt fit le portrait de Dieu！
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le coin de Frère Dominique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-39-été-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 39 — Été 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/La_Tulipe">
+          <span class="pr-2">La Tulipe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

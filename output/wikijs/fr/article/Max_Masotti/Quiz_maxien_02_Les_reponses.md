@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Max Masotti<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Tanja_Konnerth/Avoir_raison_ou_etre_heureux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Avoir raison ou être heureux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Univers Central**
 
@@ -47,3 +68,24 @@ dateCreated: 2024-09-29T14:02:03.086Z
 Jésus put ainsi observer son propre esprit divin antérieur redescendant vers lui sous forme personnalisée [LU 136:2.3](/fr/The_Urantia_Book/136#p2_3)
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Tanja_Konnerth/Avoir_raison_ou_etre_heureux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Avoir raison ou être heureux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

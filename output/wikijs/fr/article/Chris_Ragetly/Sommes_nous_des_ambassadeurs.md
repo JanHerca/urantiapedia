@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Chris Ragetly<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/La_fraternite_selon_la_Teosophie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La fraternité selon la Téosophie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-53-hiver-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 53 — Hiver 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lino_Olivetta/Le_Monde_des_Maisons">
+          <span class="pr-2">Le Monde des Maisons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Pouvons-nous nous considérer comme des ambassadeurs du royaume comme Jésus l'a annoncé aux douze après leur ordination?
 
@@ -35,3 +59,27 @@ Ces attitudes émotives sont précieuses et indispensables pour comprendre et at
 > _« Heureux les pacificateurs, car ils seront appelés fils de Dieu. »Les auditeurs de Jésus souhaitaient ardemment un libérateur militaire, et non des pacificateurs. Mais la paix de Jésus n'est pas une sorte de pacifisme négatif. Confronté aux épreuves et aux persécutions, il disait: « Je vous laisse ma paix. » « Que votre coeur ne se trouble pas, et n'ayez point de crainte. »Voilà la paix qui empêche les conflits ruineux. La paix personnelle intègre la personnalité. La paix sociale empêche la peur, la convoitise et la colère. La paix politique empêche les antagonismes de race, les suspicions nationales et la guerre. La pacification est la cure de la méfiance et de la suspicion._ La paix telle que Jésus la conçoit est une paix qui se manifeste sur des niveaux multiples, qu'elle soit personnelle, sociale ou politique. Autrement dit la paix doit être exercée sur le plan planétaire, et ce sont les pacificateurs qui en seront les initiateurs. [LU 140:5.18](/fr/The_Urantia_Book/140#p5_18)
 
 Chris Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/La_fraternite_selon_la_Teosophie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La fraternité selon la Téosophie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-53-hiver-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 53 — Hiver 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lino_Olivetta/Le_Monde_des_Maisons">
+          <span class="pr-2">Le Monde des Maisons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

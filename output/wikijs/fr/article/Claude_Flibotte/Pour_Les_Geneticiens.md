@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Claude Flibotte<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/L_experience_De_La_Perfection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'expérience De La Perfection</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-94-juin-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 94 — Juin 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Dieu_Le_Temps_Et_L_univers">
+          <span class="pr-2">Dieu, Le Temps Et L'univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/063.jpg">
@@ -94,3 +118,27 @@ Donc, pour répondre à la question de Pa trice Monsigny, peu importe, le mot ut
 Pour ce qui est des hommes de science, tant et aussi longtemps qu'ils ne voudront pas considérer autre chose que ce qu'ils peuvent voir et manipuler entre leurs mains, la vérité de la réalité leur échappera toujours. L'univers n'est pas seulement matériel!
 
 Claude Flibotte
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/L_experience_De_La_Perfection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'expérience De La Perfection</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-94-juin-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 94 — Juin 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Dieu_Le_Temps_Et_L_univers">
+          <span class="pr-2">Dieu, Le Temps Et L'univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

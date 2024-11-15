@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Claude Flibotte<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Quelle_Est_La_Dimension_Du_Paradis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelle Est La Dimension Du Paradis ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-91-septembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 91 — Septembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/L_ame_En_Soi">
+          <span class="pr-2">L'âme En Soi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Claude Flibotte (Sainte-Julie (Québec))
 
@@ -61,3 +85,27 @@ Ce sont les êtres fumains progressifs des mondes évolutionnaires des phases fi
 Je me souviens, étant jeune garçon élevé dans la religion catholique, mes ensei- gnants m'avaient appris quatre endroits où nous pouvions aller après la mort. Le Paradis, Cieu où les àmes des justes vont jouir de la béatitude éternelle après la mort. Les limbes, un lieu où les àmes des justes se rendaient avant la venue du Christ ainsi que les àmes des enfants morts sans être baptisés. Le purgatoire, Lieu symbofique où les âmes des justes expient leurs fautes avant d'être admises au Paradis. L'enfer, lieu terrible où sont suppliciées Ces âmes des damnées. 主videmment, avec les révélations du Livre d'Urantia, nous savons ceci : Ce Paradis existe bel et bien, c'est la résidence éternelle des Déités et le lieu où nous sommes tous conviés. Les révélateurs ne nous disent rien au sujet des limbes, sans doute une belle invention du catholicisme! Pour ce qui est du purgatoire, il n'est mentionné qu'une seule fois dans le livre afin de nous renseigner sur les croyances des moines tibétains ([LU 94:10.2](/fr/The_Urantia_Book/94#p10_2)). L'enfer n'existe pas. Cette idée date du temps des fommes primitifs qui croyaient aux bons et aux mauvais fantômes ([LU 86:4.7](/fr/The_Urantia_Book/86#p4_7)).
 
 Voilá! J'espère que ce texte vous a été utile pour bien comprendre ce que les révélateurs nous enseignent de ce qui nous attend pour la suite des choses après notre décès. Nous aimerions tous faire partie de l'ordre d'ascension primaire modifié, c'est-à-dire ceux qui fusionnent avec leur Ajusteur durant Ceur vie fumaine. Cela est entièrement sous notre contrôle puisqu'en fonction de nos propres efforts pour franchir les cercles psychiques. N'oubliez pas, nous ne sommes pas seuls, une multitude d'aides célestes nous apporte Ceur ministère pour que ce souhait devienne réalité.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Quelle_Est_La_Dimension_Du_Paradis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelle Est La Dimension Du Paradis ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-91-septembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 91 — Septembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/L_ame_En_Soi">
+          <span class="pr-2">L'âme En Soi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

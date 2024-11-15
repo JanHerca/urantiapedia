@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Georges Michelson-Dupont<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ralph_Zehr/Combien_De_Temps_Jusquau_Paradis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Combien De Temps Jusqu'au Paradis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-85-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 85 — Mars 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Reunion_Annuelle_De_l_AFLLU_A_Notre_Dame_des_Lumieres">
+          <span class="pr-2">Réunion Annuelle De l'AFLLU À Notre Dame des Lumières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Voyage à travers les âges du maitre univers_
 
@@ -439,3 +463,27 @@ La sixième triunité est leeffort de la Déité pour s'actualiser en transcenda
 ***La septième triunité*** est la possibilité de l'unification des réalités spirituelles-personnelles et matérielles-nonpersonnelles. Le mental humain sélève du niveau de l'Esprit par ses choix-décisionsactions quand il cherche à maitriser son égo.
 
 Du point de vue temporel, tout ceci se passe dans léternité passée, avant même la venue du temps et de l'espace. C'est vraiment les prémisses de l'aventure. Je vous invite à continuer notre exploration de léternité passée dans le prochain LIEN N^º 86 en inspectant les triodités, ces associations qui ne comportent plus le Père Universel.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ralph_Zehr/Combien_De_Temps_Jusquau_Paradis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Combien De Temps Jusqu'au Paradis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-85-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 85 — Mars 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Reunion_Annuelle_De_l_AFLLU_A_Notre_Dame_des_Lumieres">
+          <span class="pr-2">Réunion Annuelle De l'AFLLU À Notre Dame des Lumières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

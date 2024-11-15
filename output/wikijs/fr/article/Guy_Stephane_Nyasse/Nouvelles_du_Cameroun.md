@@ -9,6 +9,27 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Guy Stéphane Nyassé<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/La_Naissance_de_l_Esprit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Naissance de l'Esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-83-septembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 83 — Septembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Guy Stéphane NYASSÉ (Douala, Cameroun)
 
@@ -19,3 +40,24 @@ Nous avons partagé 35 livres jusque-là. Carlos, Thierry, Jean et moi-même. No
 Quand nous pensions à la conférence nous nous disons ce serait une opportunité de réunir dans une même salle tous les lecteurs, parce Jean a pu offrir des livres à des personnes d'autres villes du pays, des couples quelques fois. Rappelons-le la conjoncture du pays reste très délicate, les difficultés matérielles préoccupent beaucoup les jeunes, et ce n'est pas facile d'avoir un intéressement spirituel constant de leur part.
 
 Nous pouvons tout de même préparer un rapport avec des noms des personnes qui ont reçu le Livre, cependant celui-ci ne devra pas être utilisé par l'AFFLU dans un premier temps, de peur de décourager ces personnes. Une conférence reste une belle issue pour le mouvement au Cameroun. Jean MASSOMA est en France actuellement, et je prie qu'il revienne avec de bonnes nouvelles.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/La_Naissance_de_l_Esprit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Naissance de l'Esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-83-septembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 83 — Septembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

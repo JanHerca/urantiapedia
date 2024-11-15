@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Claude Flibotte<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/De_L_incompletude_Divine_A_L_aventure_Humaine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De L'incomplétude Divine À L'aventure Humaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-98-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 98 — Juin 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/La_Fondation_Communique_L_avenir_d_Urantia_Elements_De_ReFlexion">
+          <span class="pr-2">La Fondation Communique: L'avenir D'urantia: Éléments De RéFlexion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Claude Flibotte
 Sainte-Julie (Québéc) Canada
@@ -82,3 +106,27 @@ Puisque nous sommes une planète décimale, là où de nouvelles idées peuvent�
 Notre planète a déjà bénéficié de plus diune intervention en dehors des normes universelles. En plus dêtre une sphère décimale ( [LU 36:2.15](/fr/The_Urantia_Book/36#p2_15) ) ; nous avons eu droit à une nature particulière des modèles de vie ( [LU 65:7.3](/fr/The_Urantia_Book/65#p7_3) ) ; nous avons eu une administration Melchizédek avant l'arrivée d'un Prince Planétaire ; puis, le retour de l'administration Melchizédek après l'échec de la mission du Prince ([LU 67:6.5](/fr/The_Urantia_Book/67#p6_5)) ; encore le même scénario se répète après léchec de la mission d'Adam et Ève, nous avons eu droit au retour de l'administration Melchizédek ([LU 75:5.8](/fr/The_Urantia_Book/75#p5_8) et [LU 93:0.2](/fr/The_Urantia_Book/93#p0_2)) ; nous avons eu une mission d'urgence avec Machiventa Melchizédek ([LU 93:1.3](/fr/The_Urantia_Book/93#p1_3)) ; au sixième siècle avant le Christ, une coordination exceptionnelle de facteurs spirituels procura à Urantia une présentation inhabituelle de la vérité religieuse sous des formes multiples (94:6.I) ; nous avons eu un Fils d'effusion bien avant l'ordre normal établi (voir le fascicule 52) ; nous bénéficions de l'administration du groupe des vingt-quatre avec son gouverneur présent sur Urantia ([LU 114:3.5](/fr/The_Urantia_Book/114#p3_5)) ; finalement, nous avons reçu Le Livre d'Urantia. Décidément, notre planète s'avère une excellente candidate pour expérimenter de nouveaux moyens d'exprimer la divinité! Le grand intérêt d'étudier notre histoire planétaire par les estudiantins cosmiques serait-il lié, en plus de l'effusion de Micaël de Nébadon, à ces multiples entorses à la règle généralement admise et les moyens entrepris pour ramener notre pauvre planète bleue sur le droit chemin?
 
 **Je vous laisse méditer sur cette question!**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/De_L_incompletude_Divine_A_L_aventure_Humaine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De L'incomplétude Divine À L'aventure Humaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-98-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 98 — Juin 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/La_Fondation_Communique_L_avenir_d_Urantia_Elements_De_ReFlexion">
+          <span class="pr-2">La Fondation Communique: L'avenir D'urantia: Éléments De RéFlexion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

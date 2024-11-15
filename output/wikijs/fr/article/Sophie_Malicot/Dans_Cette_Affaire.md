@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Sophie Malicot<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Pour_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pour Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-90-juin-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 90 — Juin 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Essais_De_Definition_De_L_espace">
+          <span class="pr-2">Essais De Définition De L'espace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Février 2020)
 
@@ -43,3 +67,27 @@ Vie simple. Simplement être soí, sans facétíe factice. Un silence profond co
 Ce soir, la tempête gronde au-dehors. Le vent emporte tout dans ses bourrasques viólentes. La pluie fouette les vitres de ma cabane et les gouttes y ruissellent en larmes longues. Les arbres s'agitent, l'eau ruisselle du toit en gargouillis contínus. Dedans, les lumières ne marchent plus. Une chandelle sur la table, au centre de la piéce. C'est étrange, malgré les infiltrations d'airs, elle brûle sans osciller, ímmobile.
 
 Sophie MALICOT
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Pour_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pour Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-90-juin-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 90 — Juin 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Essais_De_Definition_De_L_espace">
+          <span class="pr-2">Essais De Définition De L'espace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

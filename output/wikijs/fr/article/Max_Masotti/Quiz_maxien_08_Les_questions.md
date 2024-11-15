@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Max Masotti<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Yves_Guillot_Goguet/Marie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Marie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-57-hiver-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 57 — Hiver 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anne_Muriel_Brouet/Les_exoplanetes">
+          <span class="pr-2">Les exoplanètes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Superunivers**
 
@@ -39,3 +63,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 17. Rodan d'Alexandrie déclama qu'il n'y avait que les mortels n'ont que deux manières de vivre ensemble, lesquelles?
 18. Au camp de Magadan, en l'an 29, un jeune homme riche, faisant partie du sanhédrin, désirait devenir un messager de Jésus ; il ne le devint jamais. Qui était-il ?
 19. La femme de Pierre fut donnée en pâture aux lions à Rome. Vous souvenez-vous de son nom?
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Yves_Guillot_Goguet/Marie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Marie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-57-hiver-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 57 — Hiver 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anne_Muriel_Brouet/Les_exoplanetes">
+          <span class="pr-2">Les exoplanètes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

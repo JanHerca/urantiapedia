@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Jean-Claude Romeuf<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Reflexions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-29-printemps-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 29 — Printemps 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Pour_un_ami">
+          <span class="pr-2">Pour un ami</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En 1767, Georges Louis Leclerc entreprend de dater l'âge de la terre et des planètes. A l'aide de l'expérience en laboratoire sur le refroidissement de ballons incandescents et à l'aide des mathématiques, cet homme de génie, mais plein de buffonneries (sans o ), conclut à un âge de dix millions d'années. _Certains concluent plus vite, c'est une affaire de sentiments et de moyens._
 
@@ -54,3 +78,27 @@ Nous vivons dans un Espace où au moins deux niveaux d'espace cohabitent:
 Il y aurait beaucoup d'autres choses à dire, mais ce ne serait, orgueilleusement parlant, que des bouffonneries !
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Reflexions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-29-printemps-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 29 — Printemps 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Pour_un_ami">
+          <span class="pr-2">Pour un ami</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

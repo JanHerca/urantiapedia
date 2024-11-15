@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Guy Stéphane Nyasse<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cyril_Causette/Parabole_A_la_facon_de_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Parabole «À la façon de Jésus »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-77-mars-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 77 — Mars 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ralph_Zehr/Les_Bienfaits_De_La_Priere_En_Groupe">
+          <span class="pr-2">Les Bienfaits De La Prière En Groupe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## De la prière primitive à la prière éthique man expérience personnelle
 
@@ -93,3 +117,27 @@ Le Lire d'Urantia apportera cette technique supplémentaire en Afrique. Car ici 
 J'espère que ma jeune expérience wous permettra de connaitre plus nos frères et soeurs africains.
 
 Guy Stéphane Nyasse (Douala, Cameroun Févier 2017)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cyril_Causette/Parabole_A_la_facon_de_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Parabole «À la façon de Jésus »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-77-mars-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 77 — Mars 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ralph_Zehr/Les_Bienfaits_De_La_Priere_En_Groupe">
+          <span class="pr-2">Les Bienfaits De La Prière En Groupe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

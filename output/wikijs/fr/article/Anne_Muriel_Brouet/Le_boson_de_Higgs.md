@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Anne-Muriel Brouet<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anne_Morel/L_Etern_Aile_Feminine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Etern-Aile Féminine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-57-hiver-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 57 — Hiver 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/La_Vie_des_Maitres_extraits">
+          <span class="pr-2">La Vie des Maîtres (extraits)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le boson de Higgs tient son nom du physicien britannique Peter Higgs. Beaucoup de particules élémentaires sont des bosons, comme par exemple le photon, la particule de la lumière postulée par Einstein. Celui de Higgs s'avère une pièce maîtresse de la théorie qui décrit l'Univers, connue sous le nom de Modèle Standard (MS). Dans le MS, le boson de Higgs — abrégé Higgs -explique pourquoi des particules fondamentales ont des masses. Durant l'été 1964, Peter Higgs et d'autres physiciens postulent qu'il existe un champ qui emplit tout l'espace. Chaque particule acquiert sa masse propre en interagissant avec ce « champ de Higgs ». Celles qui interagissent fortement avec ce champ ont une plus grande masse que celles qui interagissent faiblement, de la même manière qu'une voiture de course aérodynamique pénètre dans l'air plus facilement qu'un bus. Une particule virtuelle, le boson de Higgs, est associée à ce mécanisme. Mais tout cela reste au conditionnel, car pour l'instant, le boson de Higgs n'existe que sur papier.
 
@@ -41,3 +65,27 @@ La route a été longue, mais on devrait bientôt être fixé sur la question br
 Qu'il existe ou non, la découverte sera majeure et vaudra bien un Prix Nobel.
 
 Anne-Muriel Brouet
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anne_Morel/L_Etern_Aile_Feminine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Etern-Aile Féminine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-57-hiver-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 57 — Hiver 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/La_Vie_des_Maitres_extraits">
+          <span class="pr-2">La Vie des Maîtres (extraits)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

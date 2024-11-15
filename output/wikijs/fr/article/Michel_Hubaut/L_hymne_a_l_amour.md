@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Michel Hubaut<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marc_Benoit/Une_assemblee_merveilleuse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une assemblée merveilleuse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-56-automne-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 56 — Automne 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Castel/L_Univers_et_la_Nature_un_mecanisme_de_lois">
+          <span class="pr-2">L’Univers et la Nature, un mécanisme de lois</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Il est évident que, dans ses Lettres, **Paul** manifeste un souci constant au sujet de la qualité des relations fraternelles au sein de chaque communauté. À l'exemple du Christ lui-même qui met « l'amour de Dieu et des autres » au cœur de son enseignement, Paul répète souvent que l'amour, vécu concrètement, résume et contient tous les autres préceptes de la vie chrétienne. Car la loi tout entière trouve son accomplissement en cette unique parole : « _Tu aimeras ton prochain comme toi-même_ » ([Ga 5,14](/fr/Bible/Galatians/5#v14)). _N'ayez de dettes envers personne, sinon celle de l'amour mutuel Car celui qui aime autrui a pleinement accompli la Loi. L'amour ne fait aucun tort au prochain. L'amour est donc le plein accomplissement de la Loi_ ([Rm 13,8-10](/fr/Bible/Romans/1#v8)).
 
@@ -47,3 +71,27 @@ Et si le Christ nous demande d'aimer nos ennemis -comme lui-même l'a fait — c
 _Selon « Sur les traces de saint Paul », Guide historique et spirituel c/Desclée De Brouwer_
 
 Michel Hubaut
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marc_Benoit/Une_assemblee_merveilleuse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une assemblée merveilleuse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-56-automne-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 56 — Automne 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Castel/L_Univers_et_la_Nature_un_mecanisme_de_lois">
+          <span class="pr-2">L’Univers et la Nature, un mécanisme de lois</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

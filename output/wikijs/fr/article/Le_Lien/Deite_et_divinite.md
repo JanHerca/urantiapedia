@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luc_Lachance/Apres_la_mort">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Après la mort</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-4-été-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 4 — Été 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francois_Dupont/La_Personnalite">
+          <span class="pr-2">La Personnalité (2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Quand la divinité se met à ressembler à l'humanité cette relation comporte en ellemême la possibilité pour l'humanité de devenir divin. [LU 116:3.3](/fr/The_Urantia_Book/116#p3_3)
 
@@ -63,3 +87,27 @@ Pour conclure, on peut dire que pour un mortel « se déclarer divin » peut par
 Le groupe d'Avignon
 
 > _La vérité est cohérente, la beauté est attrayante, la bonté est stabilisante. Et, quand ces trois valeurs de la réalité sont coordonnées dans l'expérience personnelle, il en résulte une baute qualité d'amour, conditionnée par la sagesse et qualifiée par la loyauté. Le véritable but de toute éducation dans l'univers est de mieux coordonner les enfants isolés des mondes avec les plus grandes réalités de leur expérience croissante. La réalité est finie au niveau bumain, elle est infinie et éternelle aux niveaux supérieurs et divins._ [LU 2:7.12](/fr/The_Urantia_Book/2#p7_12)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luc_Lachance/Apres_la_mort">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Après la mort</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-4-été-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 4 — Été 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francois_Dupont/La_Personnalite">
+          <span class="pr-2">La Personnalité (2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Guy de Viron<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/La_Parabole_de_lHuitre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Parabole de l`Huître</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-45-hiver-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 45 — Hiver 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rene_Haldi/Brins_de_Vie">
+          <span class="pr-2">Brins de Vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le moindre que l'on puisse dire de ce week-end qui nous à réunis à Suresnes, c'est que nous avons tous été « déçus en bien » et que nos attentes spirituelles ont été largement comblées!En effet, la petite trentaine de lecteurs que nous étions a été littéralement dynamisée et inspirée par l'Esprit de Vérité tout au long de ce partage fraternel !
 
@@ -27,3 +51,27 @@ C'est donc avec une d'admiration indicible que nous avons relu et commenté les 
 Aujourd'hui, Jésus nous met toujours au défi de le suivre et de pratiquer résolument ses enseignements tout en nous rassurant que l'entreprise n'est pas si périlleuse qu'elle en a l'air pourvu que l'on apprenne à faire la volonté de notre Père. Son esprit nous accompagne sur le sentier de l'éternité et nous assure de la confiance éternelle qu'il a mise en nous.
 
 \* _Les textes peuvent être demandés à leurs auteurs respectifs ou à Max._
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/La_Parabole_de_lHuitre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Parabole de l`Huître</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-45-hiver-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 45 — Hiver 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rene_Haldi/Brins_de_Vie">
+          <span class="pr-2">Brins de Vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

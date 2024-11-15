@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jean Royer<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Connaissance_et_verite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Connaissance et vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-37-automne-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 37 — Automne 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_semantique_generale_et_LU">
+          <span class="pr-2">La sémantique générale et le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dès sa naissance Jésus est à la fois homme et Dieu.
 
@@ -61,3 +85,27 @@ Tout comme Jésus, nous devons maîtriser notre mental et élaborer notre âme, 
 C'est au cours d'une longue période, dont la vie sur terre est le prélude, que notre potentiel de divinité sera actualisé et c'est avec la fusion qu'il sera éternisé. Toutefois c'est bien ici, sur cette planète, que doit commencer ce long voyage et rien ne nous autorise à attendre pour nous mettre en chemin. Il nous faut prendre des décisions, encore des décisions et toujours des décisions, avec sincérité, encore de la sincérité et toujours de la sincérité.
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Connaissance_et_verite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Connaissance et vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-37-automne-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 37 — Automne 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_semantique_generale_et_LU">
+          <span class="pr-2">La sémantique générale et le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

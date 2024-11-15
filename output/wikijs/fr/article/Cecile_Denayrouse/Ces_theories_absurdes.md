@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Cécile Denayrouse<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Traits_dhumour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Traits d’humour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-53-hiver-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 53 — Hiver 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_04_Les_reponses">
+          <span class="pr-2">Quiz maxien n°4 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Ces théories absurdes qui pourrissent notre quotidien ou la loi de l'em... bêtement maximum? C'est le coup de la tartine qui tombe du mauvais côté, ou celui du « jamais deux sans trois ». Retour sur ces préceptes nuisibles.
 
@@ -63,3 +87,27 @@ C'est en constatant cela qu'Edward Murphy prononça sa célèbre phrase: « If t
 Robert Murphy, l'un des fils d'Edward Murphy, nie cette énième version et clame que la phrase était: « S'il existe plusieurs façons de faire un travail, et que l'une d'elles puisse conduire à un désastre, alors il y aura quelqu'un pour procéder de la sorte. ans tous les cas, la phrase a connu la notoriété que l'on sait après une conférence de presse. Lorsque les journalistes demandèrent comment il était possible que personne n'eût été sérieusement blessé durant les tests, le capitaine Stapp répondit qu'ils avaient pris la « loi de Murphy » en considération, loi qu'il expliqua. Un mythe était né.
 
 Cécile Denayrouse
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Traits_dhumour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Traits d’humour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-53-hiver-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 53 — Hiver 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_04_Les_reponses">
+          <span class="pr-2">Quiz maxien n°4 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

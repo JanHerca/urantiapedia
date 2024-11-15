@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Charte_editoriale_du_Lien">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Charte éditoriale du Lien</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-71-automne-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 71 — Automne 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Assemblee_Generale_Extraordinaire">
+          <span class="pr-2">Assemblée Générale Extraordinaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 LA réunion nationale des lecteurs du _Livre d'Urantia_ s'est déroulée cette année 2015 du 18 au 21 juin au domaine de la Neylière près de Lyon.
 
@@ -83,4 +107,28 @@ Une agréable surprise nous attendait lors de ce week end: la venue d'Antonio SC
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/004.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Charte_editoriale_du_Lien">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Charte éditoriale du Lien</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-71-automne-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 71 — Automne 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Assemblee_Generale_Extraordinaire">
+          <span class="pr-2">Assemblée Générale Extraordinaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Anne-Marie Ronfet<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Francois_Dupont/LAjusteur_selon_C_G_Jung">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Ajusteur selon C.G. Jung</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-été-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Été 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francois_Le_Rohellec/Urantia_sur_Internet">
+          <span class="pr-2">Urantia sur Internet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 « Aimer son prochain comme soi-même ».
 
@@ -29,3 +53,27 @@ La conscience effusée à petite dose en nous par l'Esprit nous aide à construi
 Alors quand nous comprenons enfin que la paix nous est offerte à la fois comme un havre apaisant et une force à conquérir, nous avons parfois un élan de gratitude pour celui qui nous y sollicite si instamment....
 
 Anne-Marie Ronfet
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Francois_Dupont/LAjusteur_selon_C_G_Jung">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Ajusteur selon C.G. Jung</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-été-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Été 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francois_Le_Rohellec/Urantia_sur_Internet">
+          <span class="pr-2">Urantia sur Internet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

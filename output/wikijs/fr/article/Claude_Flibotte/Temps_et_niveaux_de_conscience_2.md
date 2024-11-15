@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Claude Flibotte<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_26">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-97-mars-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 97 — Mars 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_Antequera/Comment_Faire_La_Volonte_Du_Pere">
+          <span class="pr-2">Comment Faire La Volonté Du Pére</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/078.jpg">
@@ -64,3 +88,27 @@ Sainte-Julie (Québec) Canada
 > Dans la maturité du moi qui se développe, le passé et lavenir sont réunis pour éclairer la vraie signification du présent. À mesure que le moi murit, il recourt pour son expérience à un passé de plus en plus lointain, tandis que ses prévisions de sagesse cherchent à pénétrer de plus en plus profondément dans lavenir inconnu. Et, à mesure que le moi qui conçoit étend davantage sa portée dans le passé et le futur, son jugement dépend de moins en moins du présent momentané. La décision-action commence ainsi à échapper aux liens du présent en mouvement, tandis queelle revêt progressivement les aspects de la signification passé-futur.
 > 
 > La patience est pratiquée par les mortels dont les unités de temps sont courtes. La vraie maturité transcende la patience par une longanimité née d'une réelle compréhension. [LU 118:1.4](/fr/The_Urantia_Book/118#p1_4)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_26">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-97-mars-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 97 — Mars 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_Antequera/Comment_Faire_La_Volonte_Du_Pere">
+          <span class="pr-2">Comment Faire La Volonté Du Pére</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

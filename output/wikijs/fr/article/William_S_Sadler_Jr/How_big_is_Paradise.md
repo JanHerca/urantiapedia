@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 William S. Sadler Jr.<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Linvitee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'invitée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-45-hiver-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 45 — Hiver 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Le_Moi_et_lEgo">
+          <span class="pr-2">Le Moi et l'Ego</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Traduction d'un enregistrement de Bill Sadler par Chris et Nicole Ragetly (02.2003)
 
@@ -69,3 +93,27 @@ Au troisième paragraphe de la page 137, vous avez un autre commentaire intéres
 L'Absolu de Déité est une réalité spirituelle. Il a peut-être une relation avec l'espace, mais il n'est pas dans l'espace.
 
 Bill Sadler
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Linvitee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'invitée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-45-hiver-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 45 — Hiver 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Le_Moi_et_lEgo">
+          <span class="pr-2">Le Moi et l'Ego</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

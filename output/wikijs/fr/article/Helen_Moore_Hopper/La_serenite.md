@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Helen Moore Hopper<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Le_bonheur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le bonheur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-48-automne-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 48 — Automne 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Samuel_Heine/Amour_et_respect_de_la_vie">
+          <span class="pr-2">Amour et respect de la vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Il est un état d'esprit qui, assurément, nous aidera à recevoir la réponse à nos prières. Quel que soit le problème qui se présentẹ à nous, si grand que soit notre besoin, si urgent, si pressante, si désespérée qu'apparaisse la situation, la sérénité nous sera une aide immédiate. La sérénité c'est l'écoute tranquille et calme de la voix de Dieu, à l'exclusion de toute autre. La sérénité n'est point un état d'esprit statique inactif. C'est un état de paix de l'esprit basé sur la foi absolue en Dieu, en Dieu qui est en nous.
 
@@ -31,3 +55,27 @@ Ce n'est point par la tension ou l'inquiétude d'un esprit possessif que nous no
 Souvenons-vous que Dieu est notre VIE. Dans la sérénité. Mettons-nous à l'écoute de Sa Voix afin de suivre le chemin qu'IL nous indique ; Avançons dans la Foi absolue, dans l'attente du meilleur !
 
 Helen Moore Hopper 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Le_bonheur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le bonheur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-48-automne-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 48 — Automne 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Samuel_Heine/Amour_et_respect_de_la_vie">
+          <span class="pr-2">Amour et respect de la vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

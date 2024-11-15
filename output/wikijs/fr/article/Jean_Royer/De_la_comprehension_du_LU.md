@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Jean Royer<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Lamoureux/L_eloge_de_la_fatigue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’éloge de la fatigue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-54-printemps-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 54 — Printemps 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_resurrection_de_Ganid">
+          <span class="pr-2">La résurrection de Ganid</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 J'ai parcouru un certain nombre de blogs et autres forums sur Internet traitant du _Livre d'Urantia_. Il est remarquable de voir combien peu de gens comprennent ce qu'ils lisent. La plupart se contentent d'y voir ce qu'ils veulent (ou peuvent) y trouver. Je me suis alors rappelé que les apôtres de Jésus ne comprenaient pas la moitié de ce qu'il disait, mais il est vrai que, s'adressant à eux, il parlait en fait à tout un univers. Et je songeais : si ces êtres proches ne le comprenaient pas, que dire des simples disciples ? Il semble bien que cela ne troublait pas Jésus outre mesure et qu'il ait pensé que la foi était suffisante.
 
@@ -27,3 +51,27 @@ Il me semble qu’̉il y a suffisamment de difficultés dans la complexité * de
 Le Livre d'Urantia n'est ni un livre simple ni un livre compliqué, mais c'est un livre complexe.
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Lamoureux/L_eloge_de_la_fatigue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’éloge de la fatigue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-54-printemps-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 54 — Printemps 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_resurrection_de_Ganid">
+          <span class="pr-2">La résurrection de Ganid</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

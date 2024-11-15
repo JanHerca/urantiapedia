@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Guy de Viron<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_Mot_du_President_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prélude: Le Mot du Président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-43-été-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 43 — Été 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Le_Point_Dinard">
+          <span class="pr-2">Le Point: Dinard</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Fraichement désigné rédacteur (en chef) de la revue trimestrielle de l'AFFLU, présentement Le Lien, ma nouvelle tâche consistera pour l'essentiel à le dynamiser un tant soit peu et lui donner les couleurs que les afflutistes en attendent. Comment cela va-t-il se faire ? Eh bien, grâce à vous tous-tes qui allez la lire, la commenter, la nourrir ... ; car seul, c'est mission impossible !
 
@@ -27,3 +51,27 @@ A vous tous-tes, joyeuse lecture, au mieux de vos découvertes respectives et de
 </figure>
 
 Guy
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_Mot_du_President_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prélude: Le Mot du Président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-43-été-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 43 — Été 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Le_Point_Dinard">
+          <span class="pr-2">Le Point: Dinard</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

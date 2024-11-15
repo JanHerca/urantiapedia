@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Michel Rouanet<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/039">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 39 — Été 2007 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-39-été-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 39 — Été 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Sagesse_spirituelle_et_connaissance_genetique">
+          <span class="pr-2">Sagesse spirituelle et connaissance génétique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Une révélation est une communication, un message, un enseignement. Pour celui qui la reçoit, c'est une découverte de la vérité, une connaissance, une nouvelle expérience à vivre et à manifester dans son être. Rarement collective (cinq fois dans l'histoire), elle peut être plus fréquemment individuelle. Le cycle des révélations est permanent. Comment en serait-il autrement? Humains et déités cohabitent, ici et maintenant. Comment ne communiqueraient-ils pas ensemble ? Comment l'homme et la femme ne manifesteraient-ils pas du divin?
 
@@ -35,3 +59,27 @@ Il ne me reste qu'à vous souhaiter de passer un bel été 2007.
 Merci à tous.
 
 Michel R.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/039">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 39 — Été 2007 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-39-été-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 39 — Été 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Sagesse_spirituelle_et_connaissance_genetique">
+          <span class="pr-2">Sagesse spirituelle et connaissance génétique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

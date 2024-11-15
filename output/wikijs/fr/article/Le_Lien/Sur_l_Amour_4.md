@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Amour_encore_et_toujours">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amour, encore et toujours</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-65-hiver-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 65 — Hiver 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_16_Les_questions">
+          <span class="pr-2">Quiz Maxien n°16 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Immédiatement, l'effet de l'amour universel, rendu possible par Oméga, est de sous-tendre à chacune de nos actions une identité foncière d'intérêt et de don passionnés. Quelle va être l'influence de ce fond commun (on pourrait dire : de ce climat nouveau) sur notre vie intérieure? Va-t-il nous dissoudre dans sa douce chaleur? émousser dans une atmosphère de mirage la netteté des objectifs prochains? nous distraire du tangible individuel pour nous absorber dans un sens confus de l'Universel?... — II faudrait, pour le craindre, oublier une fois de plus que, dans la direction de l'esprit, l'union différencie. Il est exact, sans doute, que si j'ai découvert Oméga, toutes choses me deviennent en quelque façon la même chose; en sorte que, quoi que je fasse, je puisse avoir l'impression de faire une même chose. Mais cette unité fondamentale n'a rien de commun avec une dissolution dans l'homogène. En premier lieu, elle accentue, loin de l'affaiblir, le relief des éléments qu'elle rassemble : car Oméga, le seul désiré, ne se forme à nos yeux et ne s'offre à notre contact, que dans la perfection des progrès élémentaires par lesquels se tisse expérimentalement l'Évolution. — Mais il y a plus. L'amour n'imprègne pas seulement l'Univers à la façon d'une huile qui en raviverait les couleurs. Il ne relie pas simplement dans une transparence commune la poussière opaque de nos expériences. C'est une véritable synthèse qu'il opère sur le faisceau groupé de nos facultés. Et voilà en définitive le point qu'il importe de bien comprendre.
 
@@ -63,3 +87,27 @@ Si oui, quelques traces de cette prodigieuse transformation doivent être percep
 (à suivre)
 
 Teilhard de Chardin
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Amour_encore_et_toujours">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amour, encore et toujours</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-65-hiver-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 65 — Hiver 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_16_Les_questions">
+          <span class="pr-2">Quiz Maxien n°16 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

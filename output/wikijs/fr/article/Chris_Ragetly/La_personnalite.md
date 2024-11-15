@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Chris Ragetly<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patricia_Brambilla/Elisabeth_Sombart_la_pianniste_des_Anges">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Elisabeth Sombart, la pianniste des Anges</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-52-automne-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 52 — Automne 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_03_Les_questions">
+          <span class="pr-2">Quiz maxien n°3 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _La personnalité est cette qualité dans la réalité qui est conférée par le Père Universel lui-même, ou par l'Acteur Conjoint agissant pour le Père._ ([LU 112:0.3](/fr/The_Urantia_Book/112#p0_3)) 1.
 
@@ -114,3 +138,27 @@ Il faut bien se garder de ne pas confondre la personnalité avec l'identité.
 Après la mort, les séraphins sont indispensables pour reconstituer la personnalité, c'està-dire réunifier le Moniteur de Mystère, gardien de l'identité, avec la personnalité.
 
 Chris Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patricia_Brambilla/Elisabeth_Sombart_la_pianniste_des_Anges">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Elisabeth Sombart, la pianniste des Anges</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-52-automne-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 52 — Automne 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_03_Les_questions">
+          <span class="pr-2">Quiz maxien n°3 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

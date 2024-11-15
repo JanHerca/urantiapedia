@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Jean Claude Romeuf<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_Joie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Joie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-21-printemps-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 21 — Printemps 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Coup_doeil_sur_lorganisation_generale_du_Maitre">
+          <span class="pr-2">Coup d'œil sur l'organisation générale du Maître Univers et théorie de la totalité par les chercheurs d'Uversa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Page [LU 39:4.11](/fr/The_Urantia_Book/39#p4_11) « _On ne saurait beaucoup prendre sans rien donner. A mesure que vous vous élevez sur l'échelle de la personnalité, vous apprenez <ins>d'abord à être loyal, ensuite à aimer, ensuite à être filial</ins>, et alors vous pouvez être libre_ »
 
@@ -49,3 +73,27 @@ Je suis tenté aussi de croire qu'un chrétien averti et conscient de sa destin�
 Si cet hymne à la liberté est aussi un hymne à l'amour, qu'il pénètre vos cœurs comme une prière monte au Père et se pose sur vos joues comme le baiser d'un frère.
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_Joie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Joie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-21-printemps-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 21 — Printemps 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Coup_doeil_sur_lorganisation_generale_du_Maitre">
+          <span class="pr-2">Coup d'œil sur l'organisation générale du Maître Univers et théorie de la totalité par les chercheurs d'Uversa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

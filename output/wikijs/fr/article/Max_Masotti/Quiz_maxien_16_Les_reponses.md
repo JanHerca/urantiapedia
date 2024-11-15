@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Max Masotti<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/La_mort_n_existe_pas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mort n'existe pas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-65-hiver-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 65 — Hiver 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_22">
+          <span class="pr-2">P’tit Coin de Frère Dom’ Lecture</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Superunivers**
 
@@ -68,3 +92,27 @@ dateCreated: 2024-10-17T22:23:59Z
 20. Peu après une heure de l'après-midi, dans l'obscurité croissante de la violente tempête de sable, Jésus commença à perdre sa conscience humaine. Il avait prononcé ses dernières paroles de miséricorde, de pardon et d'exhortation. Son dernier souhait — concernant le soin de sa mère — avait été exprimé. [LU 187:5.2](/fr/The_Urantia_Book/187#p5_2)
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/La_mort_n_existe_pas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mort n'existe pas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-65-hiver-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 65 — Hiver 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_22">
+          <span class="pr-2">P’tit Coin de Frère Dom’ Lecture</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Max Masotti and Tor Eriksen<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Reunion_Nationale_De_Chales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion Nationale De Chalès</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 75 — Septembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Symposium_Scientifique_2016_a_Chicago">
+          <span class="pr-2">Symposium Scientifique 2016 à Chicago</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## INTRODUCTION
 
@@ -180,3 +204,27 @@ L'AFLLU a peut-être besoin du sang neuf?
 > 
 > À cause des congés des mois de juillet et août, le compte d'exploitation et le bilan de l'association n'étaient pas encore mise en forme à la date de la parution du présent LIEN. Ils seront disponibles dans le prochain numéro.
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Reunion_Nationale_De_Chales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion Nationale De Chalès</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 75 — Septembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Symposium_Scientifique_2016_a_Chicago">
+          <span class="pr-2">Symposium Scientifique 2016 à Chicago</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Patrick Beaupre<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Christine_Baussain/Ponts_passerelles_et_echelles_de_corde">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ponts, passerelles et échelles de corde</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-31-automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 31 — Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Magie">
+          <span class="pr-2">Magie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Seul un poète peut discerner la poésie dans la prose banale de la vie... ([LU 48:7.22](/fr/The_Urantia_Book/48#p7_22))
 
@@ -84,3 +108,27 @@ Il sait aussi que l'on vit mieux quand on sait écouter les grandes voix du sile
 Patrick Beaupre
 
 Merci à tous ces merveilleux êtres invisibles sans qui je ne suis rien.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Christine_Baussain/Ponts_passerelles_et_echelles_de_corde">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ponts, passerelles et échelles de corde</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-31-automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 31 — Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Magie">
+          <span class="pr-2">Magie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

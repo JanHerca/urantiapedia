@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Dominique Ronfet<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Le_Progres_par_l_Education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Progrès par l'Éducation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-96-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 96 — Décembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Une_Vision_Globale">
+          <span class="pr-2">Une Vision Globale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dominique Ronfet
 
@@ -88,3 +112,27 @@ Promets-moi<br>
 **Vérité, Beauté et Bonté Conjuguées**
 
 > « La vérité est cohérente, la beauté est attrayante, la bonté est stabilisante. Et, quand ces trois valeurs de la réalité sont coordonnées dans l'expérience d'une personnalité, il en résulte une haute qualité d'amour, conditionnée par la sagesse et qualifiée par la loyauté. » [LU 2:7.12](/fr/The_Urantia_Book/2#p7_12)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Le_Progres_par_l_Education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Progrès par l'Éducation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-96-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 96 — Décembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Une_Vision_Globale">
+          <span class="pr-2">Une Vision Globale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

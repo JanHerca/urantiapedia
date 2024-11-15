@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Chris Ragetly<br>© 2005 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/034">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 34 — Été 2005 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-34-été-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 34 — Été 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Explication_theorique_de_la_creation">
+          <span class="pr-2">Explication théorique de la création</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «_...Le contact personnel et libérateur du Dieu de perfection couvre de son ombre le coeur de tous les mortels qui se sont élevés jusqu'au niveau universel de discernement moral et met en circuit leur nature..._ » ([LU 2:2.6](/fr/The_Urantia_Book/2#p2_6))
 
@@ -21,3 +45,27 @@ Il faut discerner ce que veut dire: «_...et met en circuit leur nature..._ » I
 «_...La méditation établit le contact du mental avec l'esprit ; la détente détermine la capacité de la réceptivité spirituelle..._ » ([LU 160:3.1](/fr/The_Urantia_Book/160#p3_1)) Il s'agit ici des observations de Rodan. La méditation à laquelle Jésus s'adonne est une méditation active unie à la détente. Lorsque le discernement, la foi et la méditation sont conjugués, ils permettent d'établir un contact avec Dieu, les « yeux » de l'esprit grands ouverts, pour finalement devenir son ami. C'est ainsi que petit à petit nous pouvons vivre une expérience qui, lorsque nous en parlons avec d'autres personnes qui partagent nos convictions, ne peut que les satisfaire et ainsi nous édifier mutuellement.
 
 C. M. Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/034">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 34 — Été 2005 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-34-été-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 34 — Été 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Explication_theorique_de_la_creation">
+          <span class="pr-2">Explication théorique de la création</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

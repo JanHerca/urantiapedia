@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Ivan Stol<br>© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Etude_de_Bill_Sadler_sur_la_synthese">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Étude de Bill Sadler sur la synthèse et la coordination fonctionnelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-72-hiver-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 72 — Hiver 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Conscience_de_soi_Conscience_de_Dieu">
+          <span class="pr-2">Conscience — Conscience de soi & Conscience de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/023.jpg">
@@ -80,3 +104,27 @@ Amitiés fraternelles. Ivan Stol
 </figure>
 
 <br style="clear:both;"/>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Etude_de_Bill_Sadler_sur_la_synthese">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Étude de Bill Sadler sur la synthèse et la coordination fonctionnelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-72-hiver-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 72 — Hiver 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Conscience_de_soi_Conscience_de_Dieu">
+          <span class="pr-2">Conscience — Conscience de soi & Conscience de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

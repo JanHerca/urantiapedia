@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Georges Donnadieu<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/Au_Tombeau">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Au Tombeau</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-101-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 101 — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Agnes_Lazar_and_Guy_Perron/Notre_experience_UBIS">
+          <span class="pr-2">Notre expérience UBIS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Georges Donnadieu
 
@@ -137,3 +161,27 @@ Amis lecteurs, je vous invite à chercher et trouver « le nom de la jeune fille
 Vos noms figureront en prologue à la seconde étape du chemin montrant que le LU est bien un prolongement, citant de façon cachée, cette triple révélation du Moyen-Âge.
 
 > Ni mathématiques, ni logique, ni philosophie ne peuvent saisir la réalité ultime de l'univers, seule peut y parvenir l'expérience personnelle se conformant progressivement à la volonté divine d'un Dieu personnel. Ni science, ni philosophie, ni théologie ne peuvent valider la personnalité de Dieu. Seule l'expérience personnelle des fils du Père céleste par la foi peut amener la réalisation actuelle et spirituelle de la personnalité de Dieu. [[LU 1:7.5](/fr/The_Urantia_Book/1#p7_5)]
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/Au_Tombeau">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Au Tombeau</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-101-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 101 — Mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Agnes_Lazar_and_Guy_Perron/Notre_experience_UBIS">
+          <span class="pr-2">Notre expérience UBIS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

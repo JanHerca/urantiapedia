@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Claude Castel<br>© 1998 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Lintelligence_du_coeur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'intelligence du cœur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-8-hiver-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 8 — Hiver 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Absolus_et_realite">
+          <span class="pr-2">Absolus et realite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Informations tirées du Livre d'Urantia**
 
@@ -32,3 +56,27 @@ Plus tard, une fois sur la capitale du Système astronomique, ils découvriront 
 Ce n'est donc pas encore le Paradis, mais c'est déjà infiniment mieux que sur la Terre !
 
 Claude Castel
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Lintelligence_du_coeur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'intelligence du cœur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-8-hiver-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 8 — Hiver 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Absolus_et_realite">
+          <span class="pr-2">Absolus et realite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Sophie Malicot<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mamadou_Doudou_Diagne/Une_Quete_Spirituelle_Dieu_En_Question">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une Quête Spirituelle: Dieu En Question</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-98-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 98 — Juin 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Les_Aleas_D_une_Planete_Decimale">
+          <span class="pr-2">Les Aléas D'une Planète Décimale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Sophie Malicot
 
@@ -85,3 +109,27 @@ Nos mentalités sont longues à changer et le réajustement que nous propose la 
 Cette nouvelle conception ouvre à une libération de l'humain d'un joug qui pèse lourd et permit / permet bien des abus ; mais elle ouvre aussi à la responsabilité de son évolution à venir. La révélation est donnée pour cet à-venir qui dépend de l'utilisation faite du joyau offert : soi-même.
 
 « Paix sur terre et bonne volonté parmi les hommes », cette bonne volonté qui fait avancer l'humanité en droiture et vérité. Et la terre est pleine de personnes de bonne volonté.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mamadou_Doudou_Diagne/Une_Quete_Spirituelle_Dieu_En_Question">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une Quête Spirituelle: Dieu En Question</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-98-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 98 — Juin 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Les_Aleas_D_une_Planete_Decimale">
+          <span class="pr-2">Les Aléas D'une Planète Décimale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

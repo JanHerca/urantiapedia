@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 François Le Rohellec<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Supremes_elucubrations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Suprêmes élucubrations</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-15-automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 15 — Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Joseph_Le_Dain/Compte_rendu_de_la_reunion_du_CNP_New_York_2000">
+          <span class="pr-2">Compte-rendu de la réunion du CNP à New-York le 2 août 2000</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Cher(e)s ami(e)s,
 
@@ -118,3 +142,27 @@ Les lecteurs souhaitant y prendre part sont priés — à l'approche de la réun
 Bien fraternellement,
 
 François Le Rohellec Président de l'A.F.L.L.U.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Supremes_elucubrations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Suprêmes élucubrations</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-15-automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 15 — Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Joseph_Le_Dain/Compte_rendu_de_la_reunion_du_CNP_New_York_2000">
+          <span class="pr-2">Compte-rendu de la réunion du CNP à New-York le 2 août 2000</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

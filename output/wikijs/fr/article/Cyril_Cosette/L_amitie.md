@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Cyril Cosette<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Une_autre_vision_de_l_univers_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une Autre Vision De L'univers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-74-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 74 — Juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/La_traduction_de_TUB_Etat_Des_Lieux">
+          <span class="pr-2">La traduction de The Urantia Book: État Des Lieux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## JULLOUVILLE 1977
 
@@ -119,3 +143,27 @@ Les lecteurs du livre d'Urantia firent quelques minutes de silence avant de comm
 > « En prêchant l'Évangile du royaume, vous enseignez simplement l'amitié avec Dieu, et cette communion présentera un attrait égal pour les hommes et pour les femmes; tous deux y trouveront ce qui satisfait le plus véritablement leurs désirs et leurs idéaux caractéristiques. » ([LU 159:3.9](/fr/The_Urantia_Book/159#p3_9)).
 
 ***Cyril Cosette***
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Une_autre_vision_de_l_univers_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une Autre Vision De L'univers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-74-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 74 — Juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/La_traduction_de_TUB_Etat_Des_Lieux">
+          <span class="pr-2">La traduction de The Urantia Book: État Des Lieux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

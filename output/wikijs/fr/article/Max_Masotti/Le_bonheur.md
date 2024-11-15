@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Max Masotti<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/L_osteoclaste">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’ostéoclaste</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-48-automne-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 48 — Automne 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Helen_Moore_Hopper/La_serenite">
+          <span class="pr-2">La sérénité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Suivant le dico,le bonheurestunétatde parfaitesatisfactionintérieure. Définirle bonheur n'estpassimple.S'agit-ilde « petitsbonheurs »auquotidienoud'unétatd'espritdurable?
 
@@ -51,3 +75,27 @@ Le bonheur n'est pas une destination, il est une trajectoire. Il n'en faut que s
 Voir le [LU 103:5.5](/fr/The_Urantia_Book/103#p5_5) — [LU 111:4.7](/fr/The_Urantia_Book/111#p4_7) — [LU 131:3.7](/fr/The_Urantia_Book/131#p3_7) — [LU 136:6.10](/fr/The_Urantia_Book/136#p6_10) — [LU 140:4.10](/fr/The_Urantia_Book/140#p4_10) — [LU 140:5.6](/fr/The_Urantia_Book/140#p5_6) — [LU 159:3.10](/fr/The_Urantia_Book/159#p3_10) — [LU 159:3.12](/fr/The_Urantia_Book/159#p3_12) — [LU 171:7.9](/fr/The_Urantia_Book/171#p7_9)
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/L_osteoclaste">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’ostéoclaste</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-48-automne-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 48 — Automne 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Helen_Moore_Hopper/La_serenite">
+          <span class="pr-2">La sérénité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

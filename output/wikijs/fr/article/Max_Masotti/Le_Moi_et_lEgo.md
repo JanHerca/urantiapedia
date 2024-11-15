@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Max Masotti<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/How_big_is_Paradise">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Combien grand le Paradis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-45-hiver-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 45 — Hiver 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/La_Parabole_de_lHuitre">
+          <span class="pr-2">La Parabole de l`Huître</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En psychanalyse, le Moi est l'une des instances de la personnalité, justement celle qui se voudrait représenter l'ensemble de la personne comme unie. De manière générale, la représentation de soi s'appelle l'ego. Qui suis-je donc en tant que sujet conscient? Dans l'attitude naturelle, nous n'avons pas de doute sur l'identité. Nous disons « mais c'est moi !». Nous pointons notre doigt sur notre corps et nous disons « moi ». Mais qu'est-ce que cela le Moi ? Nous sommes prêts alors à dégainer nos papiers d'identité et à énumérer un catalogue de qualités : Je suis Max, né à Marseille, retraité, etc. N'est-ce pas une réponse assez vague que cette énumération?
 
@@ -39,3 +63,27 @@ Il n'y a rien de plus banal que de dire je ou moi et l'emploi quotidien de ces p
 > _Le désintéressement, l'esprit d'oubli de soi, est-il désirable ? Alors il faut que l'homme mortel vive face à face avec les clameurs incessantes d'un moi qui demande inéluctablement reconnaissance et honneur. L'homme ne pourrait choisir dynamiquement la vie divine s'il n'y avait pas une vie du moi à délaisser. L'homme ne pourrait jamais faire jouer la droiture pour son salut s'il n'y avait pas de mal potentiel pour exalter et différencier le bien par contraste._ [LU 3:5.13](/fr/The_Urantia_Book/3#p5_13)
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/How_big_is_Paradise">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Combien grand le Paradis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-45-hiver-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 45 — Hiver 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/La_Parabole_de_lHuitre">
+          <span class="pr-2">La Parabole de l`Huître</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

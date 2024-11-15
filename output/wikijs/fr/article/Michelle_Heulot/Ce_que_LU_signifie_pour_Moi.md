@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Michelle Heulot<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/La_Vie_En_Esprit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Vie En Esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-95-septembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 95 — Septembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Dieu_Le_Temps_L_univers">
+          <span class="pr-2">Dieu, Le Temps, L'univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Michelle heulot
 
@@ -49,3 +73,27 @@ Cette confiance et cette assurance dans les réalités éternelles et univer- se
 Un envol vers la liberté spirituelle et un engagement total à l'amour universel sans frontières ni préjugés, voilà ce que signifie pour moi le livre d'urantia, avec cette injonction de notre Maître christ Jésus imprimée dans mon âme:
 
 «Consacre ta vie à prouver que l'amour est la plus grande chose du monde.» [LU 192:2.1](/fr/The_Urantia_Book/192#p2_1)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/La_Vie_En_Esprit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Vie En Esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-95-septembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 95 — Septembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Dieu_Le_Temps_L_univers">
+          <span class="pr-2">Dieu, Le Temps, L'univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

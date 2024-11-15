@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Johanna Beukers<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Le_sexe_des_Anges">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le sexe des Anges</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-58-printemps-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 58 — Printemps 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Les_Impatients">
+          <span class="pr-2">Les Impatients</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 « _Deviens le changement que tu souhaites voir dans le monde_ », dixit **Gandhi**.
 
@@ -27,3 +51,27 @@ Le National Institut of Mental Health and Neurosciences en Indea examiné les ef
 Un cours « L'Art de Respirer », tel qu'il est mentionné dans cet article aura lieu du 16 au 18 mars 2012 à Sanary-surMer. Informations auprès de : Edith et Henri Coniglio, formateurs Art de Vivre en région PACA. coniglio@club.fr, Tél. : 0442-575236 ; 0632-912191. Pour plus d'info : www.aolresearch.org, www.artofliving.org et www.artdevivre.fr.
 
 Johanna Beukers
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Le_sexe_des_Anges">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le sexe des Anges</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-58-printemps-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 58 — Printemps 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Les_Impatients">
+          <span class="pr-2">Les Impatients</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

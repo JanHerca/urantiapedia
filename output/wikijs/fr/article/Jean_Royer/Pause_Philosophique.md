@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Jean Royer<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Une_Vision_Globale">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une Vision Globale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-96-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 96 — Décembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Gallo/Nouvelles_de_la_Fondation">
+          <span class="pr-2">Nouvelles de la Fondation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/077.jpg">
@@ -78,3 +102,27 @@ Le vieux prof leur dit alors: « quels sont les gros cailloux dans votre vie?»
 « Ce qu'il faut retenir, c'est l'importance de mettre ses GROS CAILLOUX en premier dans sa vie, sinon on risque de ne pas réussir... sa vie.
 
 Si on donne priorité aux peccadilles (le gravier, le sable), on remplira sa vie de peccadilles et on aura plus suffisamment de temps précieux à consacrer aux éléments importants de sa vie.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Une_Vision_Globale">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une Vision Globale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-96-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 96 — Décembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Gallo/Nouvelles_de_la_Fondation">
+          <span class="pr-2">Nouvelles de la Fondation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

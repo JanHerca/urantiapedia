@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/De_la_traduction_revisee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De la traduction révisée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-68-automne-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 68 — Automne 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/De_la_liberte_et_du_mode_d_evolution_de_la_civilisation">
+          <span class="pr-2">De la liberté et du mode d'évolution de la civilisation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **ÉTENDS TA MAIN A TRAVERS LA NUIT**
 
@@ -83,3 +107,27 @@ le meilleur des enseignements reçus de ma mère.
 Avec gratitude, je bénis et célèbre toutes les mères et l'amour qu'elles partagent.
 
 La Parole Quotidienne du 11.05.2014
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/De_la_traduction_revisee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De la traduction révisée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-68-automne-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 68 — Automne 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/De_la_liberte_et_du_mode_d_evolution_de_la_civilisation">
+          <span class="pr-2">De la liberté et du mode d'évolution de la civilisation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

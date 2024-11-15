@@ -9,6 +9,27 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Conscience_Cosmique_et_Perception_Spirituelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conscience Cosmique et Perception Spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-104-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 104 — Décembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Merci pour l'envoi du journal « **Le Lien** »! Je l'ai lu avec grand intérêt, en espérant que tous les lecteurs francophones de par le monde prennent le temps de lire nos publications (Le lien, Réflectivité, etc.) qui prolonge l'étude du _Livre d'Urantia_ en y apportant nos réflexions humaines de significations. J'ai trois observations à formuler aux auteurs de ce numéro 103:
 
@@ -23,3 +44,24 @@ Georges, je te souhaite une bonne continuation dans tous tes projets!
 Fraternellement!
 
 Claude Flibotte
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Conscience_Cosmique_et_Perception_Spirituelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conscience Cosmique et Perception Spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-104-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 104 — Décembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

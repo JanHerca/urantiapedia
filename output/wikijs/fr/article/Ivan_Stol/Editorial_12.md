@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Ivan Stol<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/083">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 83 — Septembre 2018 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-83-septembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 83 — Septembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Reunion_Annuelle_de_l_AFLLU">
+          <span class="pr-2">Réunion Annuelle de l’AFLLU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Chères lectrices et lecteurs, chercheurs de vérité, voici de nouvelles lectures et opinions de quelques-uns d'entre vous. Cet été, après notre rencontre nationale instructive sur nos rapports avec le Suprême dont je vous parlerais plus loin, il y a eu des discussions Zoom intéressantes sur « l'exemple de Jésus » comme type d'homme apte à enseigner ce qu'll avait lui-même appris et surtout compris, puis d'autres sujets tout aussi captivants. Par léchange, nous percevons mieux ce quimplique tolérance, justice, faire la volonté de Dieu.
 
@@ -18,3 +42,27 @@ Bonne lecture et à bientôt sur une onde!
 
 Fraternellement
 Ivan
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/083">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 83 — Septembre 2018 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-83-septembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 83 — Septembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Reunion_Annuelle_de_l_AFLLU">
+          <span class="pr-2">Réunion Annuelle de l’AFLLU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

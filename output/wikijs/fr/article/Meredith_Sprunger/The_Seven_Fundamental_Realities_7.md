@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Meredith J. Sprunger<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_14_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quiz Maxien n°13 Les questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-63-été-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 63 — Été 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/Ponce_Pilate_2eme_volet">
+          <span class="pr-2">Ponce Pilate (2ème volet)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Tests critiques de la vérité
 
@@ -35,3 +59,27 @@ II existe deux types fondamentaux d'expérience religieuse. Les activités relig
 Les tests ordinaires concernant la vérité manquent de validité. La critique scientifique, philosophique et les évaluations religieuses de la vérité sont toutes nécessaires et interdépendantes. La vérité possède une qualité spirituelle dynamique et vivante qui ne peut être captée par un langage impersonnel et des crédos. L'expérience religieuse est un mélange de fonctions intellectuelles-humanistes et d'expérience spirituelle-divine. La psychologie spirituelle s'occupe essentiellement d'expériences spirituelles personnelles. Ceci est la seule expérience religieuse ayant une relation directe avec la Réalité Ultime qui a le pouvoir de transformer la vie et la société.
 
 Meredith J. Sprunger
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_14_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quiz Maxien n°13 Les questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-63-été-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 63 — Été 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/Ponce_Pilate_2eme_volet">
+          <span class="pr-2">Ponce Pilate (2ème volet)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

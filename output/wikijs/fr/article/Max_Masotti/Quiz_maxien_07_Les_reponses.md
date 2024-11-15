@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Max Masotti<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Benedicte_Jourgeaud/La_Saga_Tupperware">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Saga Tupperware</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-56-automne-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 56 — Automne 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Caminante_no_hay_camino">
+          <span class="pr-2">Caminante, no hay camino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Superunivers**
 
@@ -58,3 +82,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 17. Jésus répondit : « _Il n'y a qu'un seul commandement, qui est le plus grand de tous et qui ordonne: le Seigneur est un ; tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme, de toute ta pensée et de toute ta force. ' Ceci est le premier et grand commandement. Et le second lui est semblable ; en vérité, il découle directement du premier et ordonne : Tu aimeras ton prochain comme toi-même. 'Il n'y a en pas d'autres plus grands que ceux-là._ » ([LU 174:4.2](/fr/The_Urantia_Book/174#p4_2)).
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Benedicte_Jourgeaud/La_Saga_Tupperware">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Saga Tupperware</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-56-automne-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 56 — Automne 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Caminante_no_hay_camino">
+          <span class="pr-2">Caminante, no hay camino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

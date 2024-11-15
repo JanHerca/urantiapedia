@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Hubaut/L_hymne_a_l_amour_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’hymne à l’amour (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-57-hiver-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 57 — Hiver 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Emergence_Pro_Machiventa">
+          <span class="pr-2">Émergence - Pro Machiventa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_01/137.jpg">
@@ -27,3 +51,27 @@ Ni dénigrement facile, ni étude approfondie, **David Ratte** offre là une vis
 ***Résumé nº 3 Simon*** : Une fois arrivés à Jérusalem rien ne va plus. Jésus a été arrêté, les apôtres dispersés... et Alphée grièvement blessé. Autant dire que les prochains jours se présentent plutôt mal [...]
 
 David Ratte
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Hubaut/L_hymne_a_l_amour_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’hymne à l’amour (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-57-hiver-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 57 — Hiver 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Emergence_Pro_Machiventa">
+          <span class="pr-2">Émergence - Pro Machiventa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

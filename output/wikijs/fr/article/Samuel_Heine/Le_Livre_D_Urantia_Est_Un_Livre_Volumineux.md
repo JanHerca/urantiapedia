@@ -9,6 +9,27 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Samuel Heine<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Johana_Beukers/Communication_De_Johana_21_Aout_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Communication De Johana 21 Août 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-87-septembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 87 — Septembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Correspondance de Samuel Heine
 
@@ -57,4 +78,25 @@ La Nouvelle-Calédonie est un territoire français constitué de dizaines d'île
 
 <figure id="Figure_9" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/009.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Johana_Beukers/Communication_De_Johana_21_Aout_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Communication De Johana 21 Août 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-87-septembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 87 — Septembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

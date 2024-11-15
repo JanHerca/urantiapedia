@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Max Masotti et Johanna Beukers<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Samuel_Heine/Partage_sur_les_enseignements_et_dirigeants_spirituels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Partage sur les enseignements et dirigeants spirituels</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 38 — Hiver 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Après une courte interruption de la régularité de notre réunion d'automne en Bourgogne, nous avons été heureux de retrouver, du 10 au 12 novembre 2006, le petit village d'Armeau, niché dans une des boucles de l'Yonne.
 
@@ -59,3 +80,24 @@ N'ayant pu clore ce débat par manque de temps, un rendez-vous était pris pour 
 Faisant suite au déjeuner de midi, les préparatifs du départ ont vu de chaleureux au revoir et embrassades diverses entre tous les lecteurs, espérant se revoir encore tous ensemble à notre prochaine réunion en mai à Lumières.
 
 Max Masotti et Johanna Beukers
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Samuel_Heine/Partage_sur_les_enseignements_et_dirigeants_spirituels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Partage sur les enseignements et dirigeants spirituels</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 38 — Hiver 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

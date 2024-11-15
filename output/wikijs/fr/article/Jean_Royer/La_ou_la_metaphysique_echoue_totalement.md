@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Jean Royer<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Jugement_hatif">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jugement hâtif</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-32-hiver-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 32 — Hiver 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rene_Felix/Temoignage_Noces_de_Diamant">
+          <span class="pr-2">Témoignage : Noces de Diamant ou Philosophie souriante d'octogénaires sereins</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _Là où la métaphysique échoue totalement et où la philosophie elle-même échoue partiellement, la révélation réussit : elle affirme que la Cause Première de la science et le Dieu de salut de la religion ne sont qu'une seule et même Déité._ [LU 101:2.7](/fr/The_Urantia_Book/101#p2_7)
 
@@ -75,3 +99,27 @@ Jean Royer
 </figure>
 
 <br style="clear:both;"/>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Jugement_hatif">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jugement hâtif</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-32-hiver-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 32 — Hiver 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rene_Felix/Temoignage_Noces_de_Diamant">
+          <span class="pr-2">Témoignage : Noces de Diamant ou Philosophie souriante d'octogénaires sereins</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Christine Baussain<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Dalamatia_la_cite_des_cents_de_Caligastia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dalamatia, la cité des cents de Caligastia, Dilmun, la cité des nodites</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-23-automne-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 23 — Automne 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Poeme_pour_Jesus">
+          <span class="pr-2">Poème pour Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La campagne est grise sous le ciel tout blanc. À perte de vue, les champs labourés s'offrent à la petite pluie fine, insistante, de fin d'hiver. Il y a beau temps que haies et chemins creux ont perdu la bataille contre le remembrement! À l'orée du village, bien discret derrière le haut mur du jardin, l'ashram silencieux semble désert. Mais il me reconnaît et m'accueille, comme d'habitude, par une grande bouffée de joie et d'amour au fond de la poitrine.
 
@@ -80,3 +104,27 @@ Je reprends la route dans un complet bonheur. Plus de questions, plus d'inquiét
 C'est tellement beau — c'est tellement simple — je souris aux anges.
 
 Christine Baussain
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Dalamatia_la_cite_des_cents_de_Caligastia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dalamatia, la cité des cents de Caligastia, Dilmun, la cité des nodites</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-23-automne-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 23 — Automne 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Poeme_pour_Jesus">
+          <span class="pr-2">Poème pour Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

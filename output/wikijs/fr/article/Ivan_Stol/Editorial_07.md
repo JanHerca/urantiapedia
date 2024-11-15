@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Ivan Stol<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/078">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 78 — Juin 2017 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-78-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 78 — Juin 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/La_Partie_Fait_Progresser_Le_Tout">
+          <span class="pr-2">La Partie Fait Progresser Le Tout</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Notre évolution spirituelle a besoin d'un temps d'expériences et d'un temps de réflexions. L'expérience nous apprend à percevoir, au travers de relations dans l'action, les lois qui régissent la vie sociale et les choix que nous pouvons faire en fonction de notre capacité à servir ou satisfaire nos ambitions. Mais la vraie compréhension de ce que nous faisons ou devons faire ne vient que d'analyses profondes des tenants et aboutissants de nos actes.
 
@@ -20,3 +44,27 @@ Certains pensent que nos réunions sont trop intellectuelles, mais il s'avère s
 
 En toute amitié
 Ivan
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/078">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 78 — Juin 2017 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-78-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 78 — Juin 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/La_Partie_Fait_Progresser_Le_Tout">
+          <span class="pr-2">La Partie Fait Progresser Le Tout</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

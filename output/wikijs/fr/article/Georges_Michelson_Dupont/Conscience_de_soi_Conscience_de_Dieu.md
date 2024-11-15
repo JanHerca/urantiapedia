@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Georges Michelson-Dupont<br>© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Rencontre_Internationale_du_Quebec">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rencontre Internationale du Québec</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-72-hiver-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 72 — Hiver 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Visite_en_Italie">
+          <span class="pr-2">Visite en Italie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Les définitions de « la conscience » que l'on trouve dans les dictionnaires classiques ou philosophiques diffèrent entre elles selon qu'elles proviennent de la philosophie, de la psychologie, de la psychiatrie ou du sens général mais toutes sont plus ou moins floues ou incomplètes, certaines confondant le mental avec l'esprit, d'autres ne faisant aucune différence entre la conscience et la conscience de soi. Le Livre d'Urantia a le mérite de préciser ces notions qui sont si importantes pour comprendre l'origine de ce que l'on appelle « la conscience », le mécanisme évolutif qui nous permet d'appréhender les trois domaines de la réalité matérielle, intellectuelle et spirituelle et le but transcendant de ces dotations qui est de connaitre Dieu, de l'aimer et de chercher à faire sa volonté.
 
@@ -153,3 +177,27 @@ Depuis l'effusion de notre Fils Créateur, tous les urantiens dotés d'un mental
 > « Ces mortels connaissant Dieu possèdent, dans leur expérience personnelle, la seule preuve positive de l'existence du Dieu vivant qu'un être humain puisse offrir à un autre. L'existence de Dieu dépasse complètement toute possibilité de démonstration, si ce nest par le contact entre la conscience de Dieu dans le mental humain et la présence de Dieu de l'Ajusteur de Pensée qui habite l'intellect mortel et qui est effusé sur l'homme à titre de don gratuit du Père Universel. » [[LU 1:2.6](/fr/The_Urantia_Book/1#p2_6)]
 
 _Georges Michelson-Dupont. Recloses_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Rencontre_Internationale_du_Quebec">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rencontre Internationale du Québec</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-72-hiver-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 72 — Hiver 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Visite_en_Italie">
+          <span class="pr-2">Visite en Italie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

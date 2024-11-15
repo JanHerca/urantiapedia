@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Dominique Ronfet<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Johanna_Beukers/Auto_Guerison">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Auto - Guérison</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-46-printemps-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 46 — Printemps 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Faut-il opposer à « l'homme de désir », « l'homme de volonté»?
 
@@ -31,3 +52,24 @@ Comment s'y retrouver puisqu'il nous faut bien faire ce que l'on désire ? Mais 
 \* Editions du Rocher
 
 Dominique Ronfet
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Johanna_Beukers/Auto_Guerison">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Auto - Guérison</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-46-printemps-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 46 — Printemps 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

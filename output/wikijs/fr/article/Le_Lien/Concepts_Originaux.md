@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/A_toi_Pere_Universel_A_toi_Mere_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À toi, Père Universel, À toi Mère Suprême</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-81-mars-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 81 — Mars 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Fernand_de_Vinck/La_mort">
+          <span class="pr-2">La mort</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > ***Note Urantiapedia*** : Cet article de William Sadler est également publié sous forme d'article dans [Fellowship Herald Volume 15, Numéro 1, 2015](/fr/article/William_S_Sadler/Sixty_Four_Original_Urantia_Book_Concepts).
 {.is-info}
@@ -86,3 +110,27 @@ Dr. William Sadler
 **Le concept de la médiation du mental** : Le mental en tant que médiateur entre l'énergie et l'Esprit sur les niveaux subabsolus.
 
 > « Dans notre effort pour étendre la conscience cosmique et rehausser la perception spirituelle, il est extrêmement difficile de présenter des concepts élargis et une vérité avancée alors que nous sommes limités par l'emploi d'un langage restreint du royaume. Cependant, notre mandat nous exhorte à faire tous nos effortspour transmettre nos significations en utilisant les symboles verbaux de la langue anglaise. On nous a recommandé de n'introduire de nouveaux termes que si l'on ne pouvait trouver dans la terminologie anglaise aucune expression propre à illustrer ces nouveaux concepts, fût-ce partiellement ou même en en déformant plus ou moins le sens. » ( [LU 0:0.2](/fr/The_Urantia_Book/0#p0_2))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/A_toi_Pere_Universel_A_toi_Mere_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À toi, Père Universel, À toi Mère Suprême</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-81-mars-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 81 — Mars 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Fernand_de_Vinck/La_mort">
+          <span class="pr-2">La mort</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Max Masotti<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Les_causes_les_effets_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les causes, les effets IV</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-66-printemps-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 66 — Printemps 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_23">
+          <span class="pr-2">P’tit Coin de Frère Dom’ La Question !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Le Maître Univers**
 
@@ -64,3 +88,27 @@ dateCreated: 2024-10-19T15:5:2Z
 20. Après la crucifixion de son fil et, après la Pâque, Marie retourna à Bethsaïde où elle vécut chez Jean durant le reste de sa vie terrestre. Elle survécut à peine une année à la mort de Jésus.
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Les_causes_les_effets_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les causes, les effets IV</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-66-printemps-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 66 — Printemps 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_23">
+          <span class="pr-2">P’tit Coin de Frère Dom’ La Question !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

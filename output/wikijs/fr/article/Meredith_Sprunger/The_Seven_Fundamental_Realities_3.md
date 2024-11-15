@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Meredith J. Sprunger<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_10_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quiz Maxien n°10 Les questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-59-été-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 59 — Été 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Morceaux_choisis">
+          <span class="pr-2">Morceaux choisis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## 5. Réalités personnelles éternelles : notre superconscient, âme et personnalité
 
@@ -51,3 +75,27 @@ La personnalité se développe par expérience, particulièrement dans la croiss
 Dans la psychologie spirituelle, les éléments dominants sont : l'Esprit Intérieur, l'âme évoluante et la personnalité. Parmi les vicissitudes de la vie, nous devons garder en mémoire ces réalités fondamentales et déterminantes de notre destinée. L'Esprit Intérieur est notre guide et notre boussole. Avec notre coopération et notre assertion de la vérité spirituelle notre âme s'actualise. Par la domination de la personnalité, toutes nos possibilités et potentialités sont organisées, intégrées et font preuve de synergie. Ces aspects permanents de notre vie nous préparent pour les luttes du temps et les aventures de l'éternité. (à suivre)
 
 Meredith J. Sprunger
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_10_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quiz Maxien n°10 Les questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-59-été-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 59 — Été 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Morceaux_choisis">
+          <span class="pr-2">Morceaux choisis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

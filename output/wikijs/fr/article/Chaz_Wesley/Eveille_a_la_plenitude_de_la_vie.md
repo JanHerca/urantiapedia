@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Chaz Wesley<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Karuna_Leys/La_Realite_de_la_Personnalite_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Réalité de la Personnalité II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-64-automne-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 64 — Automne 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Les_causes_les_effets_2">
+          <span class="pr-2">Les causes, les effets II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En remplissant chacune des pages du présent recueil, je pourrais peut-être parvenir à décrire les émotions ressenties en entendant « vous êtes atteint d'un cancer ». Il faudrait une centaine d'autres recueils pour contenir mes sentiments au moment où l'on m'a dit « vous êtes aussi atteint de sclérose en plaques ». C'est impossible de décrire les effets sur le corps des ponctions lombaires, des traitements aux stéroïdes et de 49 pilules par jour, ou encore les effets sur le moral de l'anémie grave et de la dépression clinique. Je pourrais vous raconter tout ce qui n'a pas fonctionné, mais quelle histoire ennuyeuse ce serait!
 
@@ -39,3 +63,27 @@ Depuis ce jour pluvieux il y a treize ans où j'ai regardé dans le miroir et é
 _Le Révérend Chaz Wesley, conférencier principal et facilitateur de grand renom, ministre ordonné interconfessionnel, auteur et chroniqueur, fait de l'accompagnement dans le deuil et du coaching transformationnel à Tulsa en Oklahoma. Vous pouvez communiquer avec Chaz à l'adresse suivante_ : http://chazwesley.com
 
 Chaz Wesley
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Karuna_Leys/La_Realite_de_la_Personnalite_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Réalité de la Personnalité II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-64-automne-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 64 — Automne 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Les_causes_les_effets_2">
+          <span class="pr-2">Les causes, les effets II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

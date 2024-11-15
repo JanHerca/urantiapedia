@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Max Masotti<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cecile_Denayrouse/Ces_theories_absurdes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ces théories absurdes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-53-hiver-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 53 — Hiver 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_11">
+          <span class="pr-2">P’tit Coin de Frère Dom’</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Univers Central**
 
@@ -68,3 +92,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 20. Caïn chantait : « Remona, j'ai fait un rêve merveilleux ! Remona, nous étions partis tous les deux. Nous allions lentement loin de tous les regards jaloux. Et jamais deux amants n'avaient connu de soir plus doux. Remona, je pouvais alors me griser de tes yeux, de ton parfum, de tes baisers. Et je donnerais tout pour revivre un jour, Remona, ce rêve d'amour. » [LU 76:2.9](/fr/The_Urantia_Book/76#p2_9)
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cecile_Denayrouse/Ces_theories_absurdes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ces théories absurdes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-53-hiver-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 53 — Hiver 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_11">
+          <span class="pr-2">P’tit Coin de Frère Dom’</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

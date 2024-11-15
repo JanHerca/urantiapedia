@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jean Royer<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Attirance_spirituelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Attirance spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-36-printemps-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 36 — Printemps 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Le_mouvement_urantien">
+          <span class="pr-2">Le mouvement urantien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Les premiers chrétiens n'ont guère cherché à élucider les relations du Père, du Fils et de l'Esprit. Tertullien (150-225) est peut-être le premier à utiliser le terme Trinité. « Dieu est une seule substance en trois personnes cohérentes et inséparables. »
 
@@ -37,3 +61,27 @@ Finis les problèmes d'antécédent et de coéternité du Fils incarné, fini, o
 Il ne nous reste plus qu'à examiner les rapports du Père, du Fils et de l'Esprit dans l'éternité et dans les rapports de la Trinité du Paradis avec la Triunité et avec les Trinités Ultime et Absolue. Mais là, oui, nous sommes aussi devant un grand mystère.
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Attirance_spirituelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Attirance spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-36-printemps-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 36 — Printemps 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Le_mouvement_urantien">
+          <span class="pr-2">Le mouvement urantien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

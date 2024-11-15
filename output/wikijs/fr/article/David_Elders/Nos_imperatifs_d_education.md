@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 David Elders<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_Stephane_Nyasse/L_experience_UBIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'expérience UBIS</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-79-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 79 — Septembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Compte_Rendu_Rencontre_Nationnale_2017">
+          <span class="pr-2">Compte-Rendu Rencontre Nationnale 2017</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Une stratégie pour les décennies à venir_
 
@@ -197,3 +221,27 @@ La méthodologie et la pédagogie de l'école UBIS (Urantia Book Internet school
 Mes excuses à la sagesse de Chris Wood. Humain et les Êtres humains sont utilisés dans tout cet article!
 
 David Elders
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_Stephane_Nyasse/L_experience_UBIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'expérience UBIS</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-79-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 79 — Septembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Compte_Rendu_Rencontre_Nationnale_2017">
+          <span class="pr-2">Compte-Rendu Rencontre Nationnale 2017</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Reconnaissance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reconnaissance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Pasteur_Louis_Pernot/Le_Notre_Pere_2">
+          <span class="pr-2">Le « Notre Père»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_01/093.jpg">
@@ -37,3 +61,27 @@ Un des principes fondamentaux de l'éthique bahaïe est la modération. Bahá'u'
 _Autre défi pour la pensée économique :la crise de l'environnement. Il est aujourd'hui froidement démontré que les théories fondées sur la croyance que la nature possède une capacité illimitée à répondre à toutes les exigences humaines sont fallacieuses. Une culture qui attache une valeur absolue à l'expansion, à l'acquisition et à la satisfaction des besoins se voit confrontée à une évidence : de tels buts ne suffisent pas, en soi, à déterminer une politique cohérente._ (La communauté internationale bahaïe)
 
 Extrait d’une brochure bahaïe
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Reconnaissance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reconnaissance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Pasteur_Louis_Pernot/Le_Notre_Pere_2">
+          <span class="pr-2">Le « Notre Père»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

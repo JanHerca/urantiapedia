@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Guy Antequera<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Temps_et_niveaux_de_conscience_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Temps et Niveaux De Conscience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-97-mars-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 97 — Mars 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Les_Sept_Maitres_Esprits">
+          <span class="pr-2">Les Sept Maitres Esprits</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Guy ANTEQUERA
 
@@ -70,3 +94,27 @@ Un autre domaine inattendu où cette perfection peut s'exercer s'exprime dans le
 Amitiés fraternelles
 
 > Quel service transcendant rendrait la présente révélation si, par elle, le Fils de l'Homme pouvait être retiré de la tombe de la théologie traditionnelle et présenté, en tant que Jésus vivant, à l'Église qui porte son nom et à toutes les autres religions! La communauté chrétienne des croyants n'hésiterait certainement pas à réadapter sa foi et ses habitudes de vie, de manière à pouvoir « suivre » le Maitre dans la démonstration de sa vie réelle de dévotion religieuse à faire la volonté de son Père et de consécration désintéressée au service des hommes. [LU 196:1.2](/fr/The_Urantia_Book/196#p1_2)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Temps_et_niveaux_de_conscience_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Temps et Niveaux De Conscience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-97-mars-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 97 — Mars 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Les_Sept_Maitres_Esprits">
+          <span class="pr-2">Les Sept Maitres Esprits</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Abondance_d_articles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Abondance d'articles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-63-été-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 63 — Été 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_Bourhis/Dieu_donne_l_Ajusteur">
+          <span class="pr-2">Dieu donné l’Ajusteur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La première de ces règles est que l'amour, conformément aux lois générales de l'union créatrice, serve à la différenciation spirituelle des deux êtres qu'il rapproche. Ni donc l'un ne doit absorber l'autre, — ni, moins encore, les deux se perdre dans les jouissances d'une possession corporelle qui signifierait chute dans le plural et retour au néant. Ceci est de l'expérience courante. Mais ceci ne se comprend bien que dans les perspectives de l'Esprit-Matière. L'amour est une aventureuse conquête. Il ne tient, et se développe, comme l'Univers lui-même, que par une perpétuelle découverte. Ceux-là donc seulement s'aiment légitimement que la passion conduit, tous les deux, l'un par l'autre, à une plus haute possession de leur être. Ainsi la gravité des fautes contre l'amour n'est pas d'offenser je ne sais quelle pudeur ou quelle vertu. Elle consiste à gaspiller, par négligence ou par volupté, les réserves de personnalisation de l'Univers. C'est cette déperdition qui explique les désordres de « l'impureté ». Et c'est elle encore qui, à un degré plus haut dans les développements de l'union, fait la matière d'une altération plus subtile de l'amour : je veux dire l'égoïsme à deux.
 
@@ -61,3 +85,27 @@ O Jésus, déchirez les nues de votre éclair! Montrez-vous à nous comme le For
 (à Suivre)
 
 Teilhard de Chardin
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Abondance_d_articles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Abondance d'articles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-63-été-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 63 — Été 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_Bourhis/Dieu_donne_l_Ajusteur">
+          <span class="pr-2">Dieu donné l’Ajusteur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

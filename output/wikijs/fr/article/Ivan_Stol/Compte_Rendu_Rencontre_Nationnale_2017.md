@@ -9,6 +9,27 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Ivan Stol<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Elders/Nos_imperatifs_d_education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nos impératifs d'éducation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-79-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 79 — Septembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Introduction
 
@@ -79,3 +100,24 @@ Mais l'aide matérielle n'est pas ce qui importe le plus. Partout dans le monde,
 Cette réunion a été animée, et quelques points essentiels ont été mis à jour.
 
 L'Europe n'est pas l'Amérique et un lourd passé dont il faut tenir compte retarde nos actions. L'exaltation ne se fait pas ouvertement sentir mais quelque chose de puissant se fait sentir au plus profond de ceux qui ont découvert ce livre laissant présager un éveil plus calme mais plus enraciné si on laisse aux gens le temps de prendre la mesure de cette révélation.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Elders/Nos_imperatifs_d_education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nos impératifs d'éducation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-79-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 79 — Septembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

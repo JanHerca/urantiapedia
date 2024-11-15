@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Myriam Delcroix<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_et_Nicole_Ragetly/Compte_rendu_de_la_reunion_dArmeau">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compte-rendu de la réunion d'Armeau :novembre 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-28-hiver-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 28 — Hiver 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michel_Bezier/Temoignage">
+          <span class="pr-2">Témoignage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Je n'ai plus peur de ces routes lointaines,
 Où les bras de la mort sans cesse me narguaient.
@@ -55,3 +79,27 @@ Mais n'ai rien d'autre à te donner, qu'un simple petit baiser,
 De mon âme qui n'a plus peur d'espérer.
 
 Myriam Delcroix
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_et_Nicole_Ragetly/Compte_rendu_de_la_reunion_dArmeau">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compte-rendu de la réunion d'Armeau :novembre 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-28-hiver-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 28 — Hiver 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michel_Bezier/Temoignage">
+          <span class="pr-2">Témoignage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

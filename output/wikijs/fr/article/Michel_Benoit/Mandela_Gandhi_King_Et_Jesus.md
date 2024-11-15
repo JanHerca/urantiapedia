@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Michel Benoît<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/De_la_liberte_et_du_mode_d_evolution_de_la_civilisation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De la liberté et du mode d'évolution de la civilisation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-68-automne-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 68 — Automne 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_19_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°19 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 L'émotion planétaire à la mort de Nelson Mandela montre combien nous avons besoin de prophètes — combien nous en manquons cruellement. Qu'ils semblent petits à côté d'eux, ces dirigeants politiques à qui nous confions le pouvoir — pour qu'ils en fassent quoi ?
 
@@ -34,4 +58,28 @@ Michel Benoît
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_01/199.jpg">
 <figcaption>« Je bondis avec une foi puissante pour faire les choses qu'il m'appartient de faire!»</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/De_la_liberte_et_du_mode_d_evolution_de_la_civilisation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De la liberté et du mode d'évolution de la civilisation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-68-automne-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 68 — Automne 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_19_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°19 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

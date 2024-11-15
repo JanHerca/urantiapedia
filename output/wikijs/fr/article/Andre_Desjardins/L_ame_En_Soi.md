@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 André Desjardins<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Evasion_Terrestre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Évasion Terrestre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-91-septembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 91 — Septembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Agnes_Lazar_and_Guy_Perron/Y_a_t_il_un_Archetype_pour_Relation_Homme_Femme">
+          <span class="pr-2">Y a-t-il un Archétype, un Modèle Idéal pour la Relation Homme — Femme ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 André Desjardins
 
@@ -56,3 +80,27 @@ Pour contribuer à la croissance de notre âme, il faut se tourner vers la Rév�
 
 Nous pouvons ainsi mieux contribuer à la croissance de notre âme ici même sur notre planète Urantia en produisant des fruits de l'esprit tel que mentionné dans le Livre d'Urantia : [34 : 6.13, 381.7] « car les fruits de l'esprit sont l'amour, la joie, la paix, la longanimité, la bienveillance, la bonté, la foi, la douceur et la tempérance. » Ces habitudes
 de pratiquer notre manière de vivre et de nous comporter avec autrui dans notre vie quotidienne favorisent la croissance de notre âme tout en nous permettant de devenir de meilleurs citoyens de lıunivers en réponse au commandement suprême du Père Universel « d'être parfait comme Lui-Même l'est. e but spirituel de notre vie nous amène à vivre un idéal de vie ici même sur notre planète Urantia et cet idéal est souligné dans un extrait du _Livre d'Urantia_ : [LU 111:1.5](/fr/The_Urantia_Book/111#p1_5) « Ce que vous êtes aujourd'hui n'est pas aussi important que ce que vous devenez jour après jour et dans |'éternité. »
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Evasion_Terrestre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Évasion Terrestre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-91-septembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 91 — Septembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Agnes_Lazar_and_Guy_Perron/Y_a_t_il_un_Archetype_pour_Relation_Homme_Femme">
+          <span class="pr-2">Y a-t-il un Archétype, un Modèle Idéal pour la Relation Homme — Femme ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

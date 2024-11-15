@@ -9,6 +9,27 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Georges Michelson-Dupont<br>© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Visite_en_Italie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Visite en Italie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-72-hiver-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 72 — Hiver 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Dans la nouvelle édition du Lien, nous vous proposons d'approfondir quelques concepts du _Livre d'Urantia_ d'une manière interactive un peu à la manière d'un groupe d'étude. Des questions sur un thème donné seront posées avec une liste de lectures proposées pour y répondre.
 > 
@@ -77,3 +98,24 @@ La première et la deuxième période révèlent finalement que tout ce que nous
 _Pourquoi cette inéluctable injonction est-elle « notre premier devoir et notre plus haute ambition » et quelles sont les répercussions sur le niveau universel._
 
 La troisième période sera publiée dans le Lien Nº 73 de Mars 2016
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Visite_en_Italie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Visite en Italie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-72-hiver-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 72 — Hiver 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

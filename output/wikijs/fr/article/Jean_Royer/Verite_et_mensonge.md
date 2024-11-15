@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Jean Royer<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anne_Marie_Ronfet/Le_role_des_emotions_dans_la_recherche_spirituelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le róle des émotions dans la recherche spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-18-été-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 18 — Été 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Davier/Coin_detente_Impressions_davenir">
+          <span class="pr-2">Coin détente : Impressions d'avenir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _On peut avoir techniquement raison sur les faits et éternellement tort sur la vérité._ [LU 48:6.33](/fr/The_Urantia_Book/48#p6_33)
 
@@ -25,3 +49,27 @@ Mais, qu'en est-il du _Livre d'Urantia_? Nous dit-il toujours la vérité? Certa
 Alors ? Devons-nous en conclure que Le Livre d'Urantia pratique la fausseté ? Bien sûr que non. Il ne s'agit pas ici de tromper le lecteur, mais de lui faire comprendre ce qu'a dit Jésus en langage moderne. Il faut comprendre voilà les idées, voilà la signification générale, voilà les valeurs proposées, alors que dans l'évangile il s'agit d'ajouter une petite touche personnelle. La différence est capitale. Qui a ajouté ces détails ? Nous ne le savons pas. Mais gardons-nous de vouloir promouvoir _Le Livre d'Urantia_ de manière semblable, c'est une tentation à laquelle il est trop facile de succomber.
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anne_Marie_Ronfet/Le_role_des_emotions_dans_la_recherche_spirituelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le róle des émotions dans la recherche spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-18-été-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 18 — Été 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Davier/Coin_detente_Impressions_davenir">
+          <span class="pr-2">Coin détente : Impressions d'avenir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

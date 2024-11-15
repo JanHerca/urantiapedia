@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Jean Davier<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Davier/Melchizedek_ou_la_2eme_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Melchizédek ou la 2ème Révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-13-printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 13 — Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/What_Would_Jesus_do">
+          <span class="pr-2">«What Would Jesus do ?»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Beaucoup d'êtres humains éprouvent de l'indifférence ou font preuve de scepticisme face aux problèmes de l'existence de l'esprit et de la survie éternelle. Nous agitonsnous dans un abîme désespérément clos, sans autre issue que la mort, d'où personne ne revient selon le vieil adage ?
 
@@ -61,3 +85,27 @@ Dans 100.000 ans, la constellation familière de la Grande Ourse nous offrira un
 A tous, Jésus dit: « VIENS ET VOIS ».
 
 Jean Davier
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Davier/Melchizedek_ou_la_2eme_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Melchizédek ou la 2ème Révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-13-printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 13 — Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/What_Would_Jesus_do">
+          <span class="pr-2">«What Would Jesus do ?»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

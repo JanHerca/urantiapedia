@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Jacques Dupont<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Quelques_Reflexions_et_Interrogations_de_Moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelques Réflexions et Interrogations de Moi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-40-automne-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 40 — Automne 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Samuel_Heine/Merci_mon_Dieu">
+          <span class="pr-2">Merci mon Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 - C'est un bouleversement psychologique.
 - On constate que tous ses gestes et décisions étaient conditionnés par la présence et les points de vue de l'autre.
@@ -42,3 +66,27 @@ cette méditation, en particulier, permet de s'approcher des vraies valeurs.
 Mais notre ego matériel s'oppose toujours spontanément et profondément à cette méditation demandée par l'âme.
 
 Jacques Dupont JUIN 1981
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Quelques_Reflexions_et_Interrogations_de_Moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelques Réflexions et Interrogations de Moi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-40-automne-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 40 — Automne 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Samuel_Heine/Merci_mon_Dieu">
+          <span class="pr-2">Merci mon Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

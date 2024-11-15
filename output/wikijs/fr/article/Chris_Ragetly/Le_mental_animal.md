@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Chris Ragetly<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 15 — Automne 2000 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-15-automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 15 — Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Christine_Baussain/Petite_bouteille_bien_pleine">
+          <span class="pr-2">Petite bouteille bien pleine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «...Ganid voulut savoir si le chien avait une âme, s'il avait une volonté. En réponse à ses questions Jésus dit: « Le chien a un mental qui peut connaître l'homme matériel son maître, mais ne peut connaître Dieu qui est Esprit. Le chien ne possède donc pas une nature spirituelle et ne peut goûter une expérience spirituelle. Le chien peut avoir une volonté dérivée de la nature et accrue par l'entraînement, mais ce pouvoir du mental n'est pas une force spirituelle ; il n'est pas non plus comparable à la volonté humaine, attendu qu'il n'est pas _réflexif_ — il ne résulte pas de ce que le chien a discerné des significations supérieures et morales ou choisi des valeurs spirituelles et éternelles. C’est la possession de tels pouvoirs de discrimination spirituelle et de choix de la vérité qui fait de l'homme mortel un être moral, une créature dotée des attributs de la responsabilité spirituelle et du potentiel de survie éternel... ». « A la suite de l'enseignement de cette journée, Ganid ne crut plus jamais à la transmigration des âmes humaines dans les corps d'animaux. » [LU 130:2.8](/fr/The_Urantia_Book/130#p2_8)
 
@@ -87,3 +111,27 @@ Remarque : La zone morale est comme la morontia, un niveau-étape indispensable 
 Remarque : Le physique, le mental et le spirituel sont, chez l'homme, beaucoup plus intimement liés que nous ne le pensons. Des évolutions soudaines du mental sont possibles et arrivent effectivement. Ces évolutions soudaines (ou progressives) arrivent sur tous les niveaux de l'évolution: matériels, morontiels et spirituels, au cours de notre carrière ascendante. Il est à noter que le mental ne cesse jamais de progresser, il est la technique expérientielle du progrès sans fin. ([LU 116:1.5](/fr/The_Urantia_Book/116#p1_5)). Dans le très lointain futur des âges post-ultimes, qui seront sans doute ceux du subabsolu ou même du coabsolu, le mental continuera à progresser toujours.
 
 Chris Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 15 — Automne 2000 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-15-automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 15 — Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Christine_Baussain/Petite_bouteille_bien_pleine">
+          <span class="pr-2">Petite bouteille bien pleine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

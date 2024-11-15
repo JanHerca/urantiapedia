@@ -9,6 +9,27 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Gallo/A_la_decouverte_du_Paradis_et_de_l_Espace_Temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À la découverte du Paradis et de l'Espace-Temps</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-106-juin-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 106 — Juin 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Réunion Européenne pour lecteurs du Livre d'Urantia**
 
@@ -43,3 +64,24 @@ Une grande place sera laissée pour les échanges et la fraternité sociale des 
 **Les prix**. Les prix seront établis définitivement à la fin de septembre 2024. Ils comporteront la pension complète pour la durée du séjour ainsi que l'ensemble des prestations à l'exception des suppléments personnels comme les consommations au bar etc. Les réservations seront ouvertes en octobre ou novembre 2024 et se feront via le site de réservation de l'I.U.A. dont nous donnerons les coordonnées à la fin septembre 2024.
 
 Nous faisons, d'ores et déjà appel aux bonnes volontés pour l'organisation dans les domaines suivants : accueil des participants, traductions, animations. Prendre contact avec Georges: georges.michelsondupont777@gmail.com ou Ivan: ivan.stol.is@gmail.com
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Gallo/A_la_decouverte_du_Paradis_et_de_l_Espace_Temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À la découverte du Paradis et de l'Espace-Temps</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-106-juin-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 106 — Juin 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

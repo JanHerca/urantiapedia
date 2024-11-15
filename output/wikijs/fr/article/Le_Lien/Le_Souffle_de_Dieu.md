@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_Dulask/La_Confiance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Confiance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-59-été-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 59 — Été 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rosette_Poletti_and_Barbara_Dobbs/L_estime_de_soi_1">
+          <span class="pr-2">L’estime de soi I</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _La respiration telle la vague de l'océan_
 _Vient de l'univers et repart au néant._
@@ -58,4 +82,28 @@ Yochin Tarutode
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_01/153.jpg">
 <figcaption>« Fascot! Suffit d'un pen d'équilibre et d'entrainement!»</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_Dulask/La_Confiance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Confiance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-59-été-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 59 — Été 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rosette_Poletti_and_Barbara_Dobbs/L_estime_de_soi_1">
+          <span class="pr-2">L’estime de soi I</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Nicole Ragetly<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georgia_Gecht/Le_Supreme_Dieu_le_Septuple_Forces_Energies_et_Controle_Universel_de_Pouvoir_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Suprême, Dieu le Septuple, Forces, Énergies et Contrôle Universel de Pouvoir : 100 Questions et Réponses (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-20-hiver-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 20 — Hiver 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Il y a quelques jours, il m'était venu l'envie de vous narrer un concert auquel Chris et moi avons assisté l'été dernier, grâce à un couple ami suisse (lui est violoniste dans un groupe de musique de chambre, elle est professeur de chant.) Ce couple, donc a fait la connaissance d'un personnage assez extraordinaire. Il a acheté un immense domaine tout près de chez nous. En se promenant sur ses terres, constituées principalement de garrigues, il a découvert une sorte de grande cave à ciel ouvert dans laquelle il a réussi à descendre et où il a trouvé des restes de colonnes en pierre sculptées. Fortement intrigué et très intéressé, il a fait des recherches approfondies et a découvert que, sur l'emplacement de cette cave, avait existé une chapelle nommée « la chapelle de Pise ». Ses recherches lui ont permis de reconstituer les plans de la chapelle, et il a décidé de la rebâtir sur son lieu d'origine.
 
@@ -31,3 +52,24 @@ Ce fut envoûtant. Nous sommes partis doucement, encore imprégnés de toute cet
 Ce fut une sorte de crémaillère, puisque étant le premier concert donné dans la chapelle, depuis sa restauration.
 
 Nicole Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georgia_Gecht/Le_Supreme_Dieu_le_Septuple_Forces_Energies_et_Controle_Universel_de_Pouvoir_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Suprême, Dieu le Septuple, Forces, Énergies et Contrôle Universel de Pouvoir : 100 Questions et Réponses (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-20-hiver-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 20 — Hiver 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

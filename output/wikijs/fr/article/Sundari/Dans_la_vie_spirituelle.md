@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Sundari<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Yolanda_Silva_Solano/Autres_Brebis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Autres Brebis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-45-hiver-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 45 — Hiver 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La manière la plus sûre et la meilleure d'avancer dans la voie spirituelle, c'est de s'y engager sans fanatisme, sans exaltation... Il ne faut pas s'élancer dans la voie spirituelle avec précipitation, en voulant parcourir de longues distances en peu de temps : à courir ainsi, on finit par s'essouffler, on piétine sur place et, bien souvent, on recule.
 
@@ -37,3 +58,24 @@ A présent, l'heure de Dieu est toujours mon heure... Je Lui dis chaque jour: «
 Le plus grand bonheur que je souhaite à tous mes frères, c'est d'accéder aux voies divines, de s'y installer et de s'y maintenir. C'est alors que pourra s'épanouir en eux la semence de vie éternelle que Dieu a déposée au cœur de tous les hommes.
 
 Sundari
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Yolanda_Silva_Solano/Autres_Brebis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Autres Brebis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-45-hiver-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 45 — Hiver 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

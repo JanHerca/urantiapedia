@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Michel Bezier<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Pour_un_ami">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pour un ami</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-29-printemps-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 29 — Printemps 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eric_Iannucci/Une_vie_doit_mourir">
+          <span class="pr-2">Une vie doit mourir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > « _vous êtes dans ce monde mais vous ne devez pas vivre à sa manière....._ » ([LU 180:3.1](/fr/The_Urantia_Book/180#p3_1))
 
@@ -105,3 +129,27 @@ Ils tournèrent alors leurs faces humaines vers la terre et toute la présence a
 Aujourd'hui j'attends la nuit. Je marche dans une ville qui s'étrangle un peu plus chaque jour. Je marche dans les rues, les boulevards. Vous marchez dans les rues, les boulevards. Comme vous je marche rapidement. Je sais où aller. Nous savons tous où aller. Nous nous reconnaîtrons.
 
 Michel Bézier
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Pour_un_ami">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pour un ami</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-29-printemps-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 29 — Printemps 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eric_Iannucci/Une_vie_doit_mourir">
+          <span class="pr-2">Une vie doit mourir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

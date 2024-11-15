@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Samuel Heine<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Helen_Moore_Hopper/La_serenite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La sérénité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-48-automne-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 48 — Automne 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/Rodans_Papers">
+          <span class="pr-2">Fascicules de Rodan</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bonjour à tous, les amis lecteurs étudiants du livre d'Urantia et à tous les consacrés de façon vivante à Dieu. J'ai tenu à faire ce petit partage pour exprimer à quel point la nature du milieu ambiant qui englobe le minéral, le végétal et l'animal est d'une importance capitale pour la survie de l'humain.
 
@@ -41,3 +65,27 @@ Comme l'a dit un amant de la nature : Heureux celui qui, le soir, couché sur l'
 > « _L'Esprit de Vérité est une influence mondiale universelle. Quand la joie de cet esprit répandu est éprouvée consciemment dans la vie humaine, elle est un tonique pour la santé, un stimulant pour le mental et une énergie inépuisable pour l'âme_ ». ([LU 194:3.18-19](/fr/The_Urantia_Book/194#p3_18))
 
 Samuel Heine
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Helen_Moore_Hopper/La_serenite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La sérénité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-48-automne-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 48 — Automne 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/Rodans_Papers">
+          <span class="pr-2">Fascicules de Rodan</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

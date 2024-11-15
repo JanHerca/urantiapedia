@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Max Masotti<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Le_Moi_et_lEgo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Moi et l'Ego</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-45-hiver-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 45 — Hiver 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Suresnes_21_23_novembre_08">
+          <span class="pr-2">Suresnes 21-23 novembre 08</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Sans ennui, se la coulant douce, une huître valsait au milieu des vagues.
 Filtrant par habitude sa pitance, elle avala par mégarde un grain de sable.
@@ -54,3 +78,27 @@ Gilles Bertrand 1-avril-2003
 <br style="clear:both;"/>
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Le_Moi_et_lEgo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Moi et l'Ego</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-45-hiver-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 45 — Hiver 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Suresnes_21_23_novembre_08">
+          <span class="pr-2">Suresnes 21-23 novembre 08</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

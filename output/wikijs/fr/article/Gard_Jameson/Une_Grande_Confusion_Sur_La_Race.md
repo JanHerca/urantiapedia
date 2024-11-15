@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Gard Jameson<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marjorie_Ray/L_eau_Verite_Beaute_Et_Bonte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'eau : Vérité,Beauté Et Bonté</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-89-mars-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 89 — Mars 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Reunion_Nationale_A_Notre_Dame_Des_Lumieres">
+          <span class="pr-2">Réunion Nationale À Notre Dame Des Lumières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Gard Jameson_
 
@@ -81,3 +105,27 @@ Mon arrière-grand-père, William Henry Jameson, à l'extérieur du temple Tremo
 Je mets chacun au défi de découvrir dans notre aventure personnelle, comment nous pouvons transporter les belles harmonies de l'amour de Dieu, et de revenir avec une appréciation plus complète de notre diversité. Seul l'amour de Dieu et le service de l'humanité, disait Jésus, guériront et transformeront toutes ces blessures. Et ceci, mes amis, est le message du _Livre d'Urantia_. Puissions-nous avoir le courage de boire dans les paroles de Jésus: « Que l'expérience vous enseigne la valeur de la méditation et le pouvoir de la réflexion intelligente » afin que nous puissions partager la bonne nouvelle sans crainte ni hésitation, afin que nous puissions servir nos frères et sæeurs comme Jésus nous a servis, afin que nous puissions célébrer la diversité de l'unité créatrice de Dieu!
 
 Traduction G. Michelson-Dupont
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marjorie_Ray/L_eau_Verite_Beaute_Et_Bonte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'eau : Vérité,Beauté Et Bonté</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-89-mars-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 89 — Mars 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Reunion_Nationale_A_Notre_Dame_Des_Lumieres">
+          <span class="pr-2">Réunion Nationale À Notre Dame Des Lumières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

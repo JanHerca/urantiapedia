@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Guy de Viron<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Murielle_Duchene/Rencontre_du_06_03_2010">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rencontre du 06.03.2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anne_Marie_Ronfet/Chales">
+          <span class="pr-2">Chales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La confiance consiste à adopter cette attitude générale qui déterminera notre comportement sur la base d'un sentiment puis d'un raisonnement et enfin d'un réel partenariat. Elle reste la base de toute relation entre individus, spécifiquement dans les liens familiaux et amicaux, à l'instar du ciment ou de la chaux qui unissent les pierres d'un édifice. De ce fait, elle est omniprésente et indispensable pour notre édification relationnelle.
 
@@ -35,3 +59,27 @@ Jésus nous demande de croire avec lui, comme lui, à la réalité de l'amour de
 (à suivre)
 
 Guy de Viron
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Murielle_Duchene/Rencontre_du_06_03_2010">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rencontre du 06.03.2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anne_Marie_Ronfet/Chales">
+          <span class="pr-2">Chales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

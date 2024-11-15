@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Max Masotti<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marie_Agnes_Lambert/Revue_Theosophique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revue Théosophique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-55-été-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 55 — Été 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_13">
+          <span class="pr-2">P’tit Coin de Frère Dom’</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Univers Central**
 
@@ -55,3 +79,27 @@ Amadonite " est davantage une dénomination culturelle et religieuse qu'un nom r
 17. ([LU 140:10.9](/fr/The_Urantia_Book/140#p10_9)). Jésus répondit : « Le royaume des cieux se compose de trois éléments essentiels : premièrement la reconnaissance du fait de la souveraineté de Dieu; deuxièmement la croyance à la vérité de la filiation avec Dieu ; et troisièmement la foi dans l'efficacité du suprême désir humain de faire la volonté de Dieu — d'être semblable à Dieu. Et voici la bonne nouvelle de l'évangile : par la foi, chaque mortel peut posséder tous ces éléments essentiels du salut. »
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marie_Agnes_Lambert/Revue_Theosophique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revue Théosophique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-55-été-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 55 — Été 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_13">
+          <span class="pr-2">P’tit Coin de Frère Dom’</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Anne-Marie Ronfet<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Etude_Agondontaires">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Etude: Agondontaires</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-43-été-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 43 — Été 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Exposé sur la personnalité — réunion de Dinard, mai 2008
 
@@ -81,4 +102,26 @@ Comme l'univers qui nous entourent, nous réunifions notre personnalité avec so
 <figure id="Figure_7" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/046.jpg">
 <figcaption>Nos idées sont les mèmes</figcaption>
+</figure>
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Etude_Agondontaires">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Etude: Agondontaires</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-43-été-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 43 — Été 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

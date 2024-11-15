@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Dominique Ronfet<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Notre_Aventure">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notre Aventure</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-84-décembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 84 — Décembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/JeanMarie_Chaise/Les_Paraboles">
+          <span class="pr-2">Les Paraboles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dominique Ronfet
 
@@ -121,3 +145,27 @@ Tu viens boire un verre?
 \- D'accord. Je terminerai juste par cet étrange passage qui nous rappelle que l'âme doít prendre le témoín, lorsque l'intellect est allé au bout de ses possibílítés.
 
 > « _Le mental connait la quantité, la réalité, les significations. Mais la qualité — les valeurs — est ressentie. Ce qui ressent est la création conjointe du mental qui connait et de l'esprit associé qui confère la réalité._ » [[LU 111:3.6](/fr/The_Urantia_Book/111#p3_6)]
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Notre_Aventure">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notre Aventure</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-84-décembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 84 — Décembre 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/JeanMarie_Chaise/Les_Paraboles">
+          <span class="pr-2">Les Paraboles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

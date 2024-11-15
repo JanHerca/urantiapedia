@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Simon Orsini<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michelle_Heulot/Ce_que_LU_signifie_pour_Moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ce que Le Livre d'Urantia signifie pour Moi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-95-septembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 95 — Septembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Reimpression_Du_Livre_DUrantia">
+          <span class="pr-2">Réimpression Du Livre D’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Simon Orsini.
 
@@ -71,3 +95,27 @@ Cette influence anonyme semble être une réaction d’espace force de labsolu i
 Si on considère que la vitesse de certains électrons autour du noyau de latome se situe entre 20000 et 30000 tours seconde, il y a des chances qu'un électron indépendant dans son parcours autour du noyau, subisse une forme de circuit variable, laissant penser qu'il y a plusieurs électrons sur son orbite, mais en réalité que ce soit toujours le même électron.
 
 On peut contrôler les électrons comme négatifs ou positifs, mais à certains moments il faut aussi se dire que cest la position qui détermine le positif ou le négatif comme le circuit du proton et du neutron nous le prouve. Le fait est, quen cas de superposition de deux particules on ne peut plus savoir ou est le positif ou le négatif. Si le premier électron est positif, le deuxième est négatif, mais ce nest qu'une hypothèse Lassociation ordonnée et sure de diverses énergies constitue la matière. Les civilisations surgissent et disparaissent, mais la science, la morale, la religion survivent toujours à l'effondrement.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michelle_Heulot/Ce_que_LU_signifie_pour_Moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ce que Le Livre d'Urantia signifie pour Moi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-95-septembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 95 — Septembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Reimpression_Du_Livre_DUrantia">
+          <span class="pr-2">Réimpression Du Livre D’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

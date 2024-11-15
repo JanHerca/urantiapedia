@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Sophie Malicot<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Perry/La_Sagesse_De_Creer_Des_Races_Inegales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Sagesse De Créer Des Races Inégales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-99-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 99 — Septembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Pourquoi_Je_Crois_en_Dieu">
+          <span class="pr-2">Pourquoi Je Crois en Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Sophie Malicot
 
@@ -62,4 +86,28 @@ L'expérience du pardon est sans doute la plus couteuse par laquelle un être pa
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/093.jpg">
 <figcaption>Retour du fils prodigue, par Pompeo Batoni Wikipedia.</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Perry/La_Sagesse_De_Creer_Des_Races_Inegales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Sagesse De Créer Des Races Inégales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-99-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 99 — Septembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Pourquoi_Je_Crois_en_Dieu">
+          <span class="pr-2">Pourquoi Je Crois en Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

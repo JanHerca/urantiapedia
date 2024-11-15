@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Linda Buselli<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Variations_autour_dun_Centre_de_Gravite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Variations autour d'un Centre de Gravité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-14-été-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 14 — Été 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Reflexions_a_propos_de_la_priere_de_Jesus_2">
+          <span class="pr-2">Réflexions à propos de la prière de Jésus (2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 « Pour chaque action il y a une réaction égale et opposée. »
 
@@ -57,6 +81,31 @@ Le Suprême semble croître à partir de tous les points de départ expérientie
 > « LE SUPREME EST LA BONTE DE L’HARMONIE PHYSIQUE, LA VERITE DE LA SIGNIFICATION INTELLECTUELLE ET LA BONTE DE LA VALEUR SPIRITUELLE. IL EST LA DOUCEUR DU VERITABLE SUCCES ET LA JOIE DE L'ACCOMPLISSEMENT PERPETUEL. IL EST LA SURAME DU GRAND UNIVERS, LA CONSCIENCE DU COSMOS FINI, LE PARACHEVEMENT DE LA REALITE FINIE ET LA PERSONNIFICATION DE L'EXPERIENCE CREATEUR-CREATURE. DANS TOUTE L'ETERNITE FUTURE, DIEU LE SUPREME EXPRIMERA LA REALITE DE L'EXPERIENCE VOLITIVE DANS LES RELATIONS TRINITAIRES DE LA DEITE. » ([LU 117:1.1](/fr/The_Urantia_Book/117#p1_1))
 
 Linda Buselli [^1], Dallas, Texas. (Traduction)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Variations_autour_dun_Centre_de_Gravite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Variations autour d'un Centre de Gravité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-14-été-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 14 — Été 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Reflexions_a_propos_de_la_priere_de_Jesus_2">
+          <span class="pr-2">Réflexions à propos de la prière de Jésus (2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

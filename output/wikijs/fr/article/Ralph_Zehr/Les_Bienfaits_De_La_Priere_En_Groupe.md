@@ -9,6 +9,27 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Ralph Zehr<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_Stephane_Nyasse/De_La_Priere_Primitive_A_La_Priere_Ethique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De La Prière Primitive À La Prière Éthique : mon expérience personnelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-77-mars-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 77 — Mars 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La prière en groupe ou en assemblée est fort efficace, en ce sens que ses répercussions accroissent beaucoup la sociabilité. Quand une collectivité s'adonne à une prière en commun pour le relèvement moral et l'élévation spirituelle, ces dévotions réagissent sur les individus qui composent le groupe ; leur participation les rend tous meilleurs. Même toute une ville ou une nation tout entière peuvent être aidées par ces prières dévotionnelles. La confession, le repentir et la prière ont conduit des individus, des villes, des nations et des races entières à de puissants efforts de réforme et à des actes courageux vaillamment accomplis. ([LU 91:5.2](/fr/The_Urantia_Book/91#p5_2))
 
@@ -45,3 +66,24 @@ Et quand nous aurons fini notre travail ici bas, nous espérons continuer là ha
 Nous offrons cette action de grâce et demandons cela avec confiance au nom de Jésus de Nazareth, Maitre Fils et maintenant Souverain Suprême de cet univers local. Qu'il en soit selon ta volonté.
 
 Amen.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_Stephane_Nyasse/De_La_Priere_Primitive_A_La_Priere_Ethique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De La Prière Primitive À La Prière Éthique : mon expérience personnelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-77-mars-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 77 — Mars 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Jean Royer<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 19 — Automne 2001 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-19-automne-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 19 — Automne 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Le_pouvoir_de_choisir">
+          <span class="pr-2">Le pouvoir de choisir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _Le plus ancien monde habité de Satania est le monde numéro un, Anova ... Anova est à un stade avancé de civilisation progressive._ ([LU 49:0.5](/fr/The_Urantia_Book/49#p0_5))
 
@@ -53,3 +77,27 @@ En ajoutant tous ces chiffres cela nous amène à 1690000 ans. Arrondissons à
 Ainsi, Anova aurait atteint le premier stade de lumière et de vie il y a au moins 30 millions d'années. Bien qu'aucun temps ne nous soit précisé pour chacune des étapes, (cf. [LU 55:4.4](/fr/The_Urantia_Book/55#p4_4)) n'est-il pas raisonnable de penser qu'elle doit maintenant avoir atteint le septième stade?
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 19 — Automne 2001 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-19-automne-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 19 — Automne 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Le_pouvoir_de_choisir">
+          <span class="pr-2">Le pouvoir de choisir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

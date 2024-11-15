@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Dominique Ronfet<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/L_enfant_Jesus_et_les_docteurs_de_la_Loi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'enfant Jésus et les docteurs de la Loi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-82-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 82 — Juin 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Linthicum/Le_Compte_Goutte_La_Cuillere_Et_La_Pelle">
+          <span class="pr-2">Le Compte-Goutte, La Cuillère Et La Pelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dominique R.
 
@@ -80,3 +104,27 @@ Enfin c'est mon avis.
 — Pourquoi fais-tu cette tête-là?
 
 — Tu me fais un peu peur. Et je ne comprends rien à ce que tu racontes.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/L_enfant_Jesus_et_les_docteurs_de_la_Loi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'enfant Jésus et les docteurs de la Loi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-82-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 82 — Juin 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Linthicum/Le_Compte_Goutte_La_Cuillere_Et_La_Pelle">
+          <span class="pr-2">Le Compte-Goutte, La Cuillère Et La Pelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

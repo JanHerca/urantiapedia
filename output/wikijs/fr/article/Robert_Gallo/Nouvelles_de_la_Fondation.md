@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Robert Gallo<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Pause_Philosophique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pause Philosophique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-96-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 96 — Décembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Vive_La_Difference">
+          <span class="pr-2">Vive La Différence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La toute dernière édition du _Livre d'Urantia_ (2021) sera disponible :
 
@@ -33,3 +57,27 @@ En lecture sur le site de la fondation à l'adresse suivante :
 	D’autre part, vous avez maintenant la possibilité de comparer la version en langue française avec d'autres langues en cliquant sur le bouton « livre multilingue » puis en sélectionnant la langue cible.
 
 	Enfin, une toute nouvelle version Android de The Urantia Book et ses traductions (avec moteur de recherche, comparaison entre deux langues, copier-coller, et d'autres fonctions intéressantes) incorporant les toutes dernière révisions des traductions en espagnol et en russe, sera disponible dans le courant du premier trimestre 2022.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/Pause_Philosophique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pause Philosophique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-96-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 96 — Décembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Vive_La_Difference">
+          <span class="pr-2">Vive La Différence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Samuel Heine<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_semantique_generale_et_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La sémantique générale et le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-37-automne-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 37 — Automne 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/MOI">
+          <span class="pr-2">MOI!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La foi de Jésus atteignait la pureté d'une confiance d'enfant. ([LU 196:0.12](/fr/The_Urantia_Book/196#p0_12))
 
@@ -47,3 +71,27 @@ Dieu n'abandonne pas les siens.
 > « Voici, la main de l'Eternel n'est pas de- venue trop courte pour délivrer, ni son oreille trop appesantie pour entendre ; mais vos iniquités ont fait séparation entre vous et votre Dieu, et vos péchés ont fait qu'il a caché de vous sa face, pour ne pas écouter. » ([Esaie 59.1](/fr/Bible/Isaiah/59#v1))
 
 Samuel Heine
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_semantique_generale_et_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La sémantique générale et le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-37-automne-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 37 — Automne 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/MOI">
+          <span class="pr-2">MOI!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

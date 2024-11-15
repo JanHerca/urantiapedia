@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Georges Donnadieu<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Dieu_le_Consommateur_de_la_Destinee_Universelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu, le Consommateur de la Destinée Universelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-49-hiver-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 49 — Hiver 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marvin_Gawryn/Our_Emotions">
+          <span class="pr-2">Nos émotions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _« En souvenir de la rencontre nationale des Lecteurs Francophones du Livre d'Urantia, Notre Dame de Lumières du 08 au 11 octobre 2009. »_
 
@@ -61,3 +85,27 @@ Quant à **Philon d'Alexandrie**, autre pythagoricien : « _Parmi les nombreux h
 Qu'il nous soit enfin permis de rendre hommage, avec l'aide de Pythagore, au merveilleux article des pages 18 & 19 du Lien urantien nº 48 automne 09 , portant notamment sur les abeilles et l'apiculture (très en honneur chez les pythagoriciens) : « _Crotoniates ! Abstenezvous de cueillir la fleur où l'abeille s'est posée : attendez que ce laborieux insecte ait achevé sa récolte!_ » (in Biblion de Pythagore — Livre des lois morales et politiques chez Robert Laffont).
 
 Georges Donnadieu alias le sanglier laboureur 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Dieu_le_Consommateur_de_la_Destinee_Universelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu, le Consommateur de la Destinée Universelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-49-hiver-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 49 — Hiver 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marvin_Gawryn/Our_Emotions">
+          <span class="pr-2">Nos émotions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

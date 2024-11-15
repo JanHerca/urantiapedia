@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Guy de Viron<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Le_billet_du_President_Re">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le billet du Président : Re</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-60-automne-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 60 — Automne 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Le_suicide">
+          <span class="pr-2">Le suicide</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Saison estivale oblige, voici une édition simplifiée du Lien avec la reprise de deux textes de Chris Ragetly, spécialement à la demande de notre ami Lucas. Le premier aborde le thème du suicide alors que le deuxième se veut plutôt une suite de courtes réflexions.
 
@@ -32,3 +56,27 @@ Fraternellement vôtre.
 Le Rédacteur en Chef
 
 Guy de Viron
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Le_billet_du_President_Re">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le billet du Président : Re</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-60-automne-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 60 — Automne 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Le_suicide">
+          <span class="pr-2">Le suicide</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

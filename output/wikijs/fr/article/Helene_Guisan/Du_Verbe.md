@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Hélène Guisan<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/La_Tolerance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Tolérance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-47-été-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 47 — Été 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Liswen_Delval/Amour">
+          <span class="pr-2">Amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 «Ô joie irrépressible qui veut jaillir et se répandre comme un rire bienheureux, éclatement de sève, exultation de fleuve, clameur d'alléluia :
 « Je suis ma joie, grande océane, trop pleine éternité, qui se déverse et coule intarissable du sein de mon infinité.
@@ -29,3 +53,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 « Tu chanteras pour que, de cœur en cœur, ta joie rebondissante ébranle l'univers oublieux de mon rire, et s'enlevant au ciel de sa jeune allégresse, banderole, dans l'azur, l'appel de mon amour, tant que la ronde ancienne refleurisse autour de moi, et danse, flamme éclose, auréole de ma joie. »
 
 Hélène Guisan
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/La_Tolerance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Tolérance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-47-été-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 47 — Été 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Liswen_Delval/Amour">
+          <span class="pr-2">Amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

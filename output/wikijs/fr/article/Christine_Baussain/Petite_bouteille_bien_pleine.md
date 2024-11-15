@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Christine Baussain<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Le_mental_animal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mental animal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-15-automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 15 — Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Supremes_elucubrations">
+          <span class="pr-2">Suprêmes élucubrations</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Merci à tous de vos réponses au sujet d'une pratique commune sur la base du _Livre d'Urantia_. La réflexion couvait visiblement, elle s'est donc ouverte, même si elle a été un peu décalée, un peu « off », puisque pour ainsi dire tout s'est passé par téléphone.
 
@@ -41,3 +65,27 @@ Sans oublier de commencer par bien soigner nos relations — intérêt les uns p
 De jolis sujets de réflexion, n'est-ce pas ? En attendant, si vous le voulez bien, que ce débat à peine ouvert se poursuive — sous le signe des deux derniers adjuvats, bien sûr ! — lisons et relisons le chapitre 7 du fascicule 87 , et il ne pourra rien nous arriver. À bientôt j'espère pour d'autres réflexions et/ou suggestions !
 
 Christine Baussain
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Le_mental_animal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mental animal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-15-automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 15 — Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Supremes_elucubrations">
+          <span class="pr-2">Suprêmes élucubrations</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

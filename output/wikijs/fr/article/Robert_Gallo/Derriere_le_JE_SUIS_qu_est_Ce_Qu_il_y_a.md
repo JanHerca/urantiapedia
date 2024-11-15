@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Robert Gallo<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/La_Femme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Femme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-107-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 107 — Septembre 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Tradition_perdue">
+          <span class="pr-2">Tradition perdue</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Robert Gallo
 
@@ -31,3 +55,27 @@ MAIS d'après les révélateurs ([LU 105:2.2](/fr/The_Urantia_Book/105#p2_2) ) l
 A ce stade, la question qui vient immédiatement à l'esprit est « Quelle est cette volonté antérieure qui a conceptualisé le plan ? « Avant même que le JE SUIS exprime sa **première** expression volitive. Me refusant à toutes conjectures en laissant au lecteur le soin d'y réfléchir, je préfère rester sur la pureté de l'interrogation de l'en tête :
 
 **Derrière le « JE SUIS» qu'est qu'il y a ?**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/La_Femme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Femme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-107-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 107 — Septembre 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Tradition_perdue">
+          <span class="pr-2">Tradition perdue</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

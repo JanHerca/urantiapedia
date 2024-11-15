@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Chris Ragetly<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Rouanet/Le_mot_du_President_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du Président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-39-été-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 39 — Été 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_01">
+          <span class="pr-2">Le coin de Frère Dominique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Plourquoi employer... _la technique consistant à aborder l'homme et ses problèmes planétaires, en entreprenant le voyage dans l'espacetemps à partir de l'infini, éternelle et divine Source-Centre Paradisiaque de toute réalité de personnalité et de toute existence cosmique._
 
@@ -45,3 +69,27 @@ Mars 2007
 Chris Ragetly
 
 (Les citations du _Livre d'Urantia_ sont en italiques. Elles sont toutes à la page 215. Les mots en caractères gras sont de mon fait).
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Rouanet/Le_mot_du_President_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du Président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-39-été-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 39 — Été 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_01">
+          <span class="pr-2">Le coin de Frère Dominique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

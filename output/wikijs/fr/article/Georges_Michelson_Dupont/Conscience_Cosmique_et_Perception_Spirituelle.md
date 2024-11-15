@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Georges Michelson Dupont<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Historique_du_journal_Reflectivite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Historique du journal Réflectivité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-104-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 104 — Décembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Coeurrier_des_lecteurs_02">
+          <span class="pr-2">Cœurrier des lecteurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Georges Michelson Dupont
 Recloses Novembre 2023
@@ -129,3 +153,27 @@ Ainsi, nous avons besoin de comprendre la Déité pour mieux aimer Dieu et faire
 
 
 « LES MORTELS D'URANTIA sont en train de passer par une grande ère d'expansion des horizons et d'élargissement des concepts ; il faut que l'évolution de leur philosophie cosmique s'accélère pour marcher de pair avec l'expansion du champ intellectuel de la pensée humaine. À mesure que leur conscience cosmique s'étend, les mortels perçoivent lesrelations réciproques de tout ce qu'ils trouvent dans leur science matérielle, leur philosophie intellectuelle et leur clairvoyance spirituelle. Pourtant, en même temps que toute cette croyance à l'unité du cosmos, tes hommes perçoivent la 露 diversite de toutes les existences. Malgré tóus les concepts concernant Yinvariance de la Déité, les hommes se rendent compte qu'ls, óvent dans un univers en changement constant et en cröissance expérientielle. Indépendamment de la réalisation de la survie des valeurs spirituelles, les hommes doivent toujours compter avee less mathématiques et les prémathématiques de la force, dé énergie et du pouvoir. » [LU 104:3.2](/fr/The_Urantia_Book/104#p3_2)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Historique_du_journal_Reflectivite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Historique du journal Réflectivité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-104-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 104 — Décembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Coeurrier_des_lecteurs_02">
+          <span class="pr-2">Cœurrier des lecteurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

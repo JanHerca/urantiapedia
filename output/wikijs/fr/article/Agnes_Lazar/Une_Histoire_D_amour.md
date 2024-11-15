@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Agnès Lazar<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Le_Temps_l_Energie_et_la_Matiere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Temps, l'Énergie et la Matière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-86-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 86 — Juin 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claire_Mylanus/Le_Symposium_Culturel_Mondial">
+          <span class="pr-2">Le Symposium Culturel Mondial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Agnès Lazar-Belgique
 
@@ -80,4 +104,28 @@ Sans cesse nous sommes face à la nouveauté. Nous accueillons leurs états d'â
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/196.jpg">
 <figcaption>Agnès, Aurore et Guy animent 2 fois par semaine des groupes de discussion et de soutien avec des prisonniers volontaires. <em>Voici le Témoignage d'un prisonnier.</em></figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Le_Temps_l_Energie_et_la_Matiere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Temps, l'Énergie et la Matière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-86-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 86 — Juin 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claire_Mylanus/Le_Symposium_Culturel_Mondial">
+          <span class="pr-2">Le Symposium Culturel Mondial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

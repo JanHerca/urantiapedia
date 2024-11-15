@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Jean Royer<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 20 — Hiver 2001 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-20-hiver-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 20 — Hiver 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Anova_2">
+          <span class="pr-2">Anova (deuxième partie)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Comme tous les grands textes le Livre d'Urantia peut être interprété à différents niveaux.
 
@@ -27,3 +51,27 @@ Nos amis Australiens proposent une troisième hypothèse, celle d'une définitio
 Ces procaryotes, dont la caractéristique est de n'avoir pas un ADN isolé dans les chromosomes d'un noyau cellulaire, n'ont peut-être pas ces potentiels et ne sont peut-être pas alors considérés comme vie véritable, au sens cosmique du terme. Dans ce cas, on pourrait considérer que les révélateurs ont, une fois de plus, omis de nous signaler des choses dont on n'avait pas la moindre idée au moment de la révélation, mais qu'ils ne nous ont pas « menti » délibérément. L'introduction de ces données, à l'époque, n'aurait pu qu'apporter le trouble, alors que maintenant elles nous obligent à revoir notre position en fonction de l'évolution de nos connaissances. Quant à moi, je m'incline devant le génie des révélateurs.
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 20 — Hiver 2001 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-20-hiver-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 20 — Hiver 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Anova_2">
+          <span class="pr-2">Anova (deuxième partie)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

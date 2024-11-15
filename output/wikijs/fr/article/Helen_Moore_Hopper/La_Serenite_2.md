@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Helen Moore Hopper<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/La_Deite_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Déité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-67-été-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 67 — Été 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Philosophie_bouddhiste_La_pleine_conscience">
+          <span class="pr-2">Philosophie bouddhiste La pleine conscience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Il est un état d'esprit qui, assurément, nous aidera à recevoir la réponse à nos prières. Quel que soit le problème qui se présente à nous, si grand que soit notre besoin, si urgent, si pressante, si désespérée qu'apparaisse la situation, la sérénité nous sera une aide immédiate.
 
@@ -43,4 +67,28 @@ Helen Moore Hopper
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_01/194.jpg">
 <figcaption>Un pas à la fois, j'ai confiance en mon guide qui me conduit vers ma maison!</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/La_Deite_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Déité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-67-été-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 67 — Été 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Philosophie_bouddhiste_La_pleine_conscience">
+          <span class="pr-2">Philosophie bouddhiste La pleine conscience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

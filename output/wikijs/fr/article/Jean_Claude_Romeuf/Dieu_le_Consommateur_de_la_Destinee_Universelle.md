@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jean-Claude Romeuf<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Incertitude_et_securite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Incertitude et sécurité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-49-hiver-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 49 — Hiver 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/Les_Apotres_Le_Lion">
+          <span class="pr-2">Les Apôtres – Le Lion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le Consommateur de la Destinée de l'Univers fait partie des Ordres non classifiés et non révélés des Personnalités du Grand Univers. Le nom qui lui a été attribué dans les fascicules du _Livre d'Urantia_ semble pourtant faire penser aux fonctions qu'il occupe dans l'Univers.
 
@@ -39,3 +63,27 @@ Essayer de transformer les concepts humains en réalité tels que nous les conce
 Il s'agit ici du second circuit de Havona. Le pèlerin qui en arrive à ce stade en a terminé avec les incertitudes évolutionnaires, et doit sans aucun doute se retourner avec une sorte de nostalgie vers les expériences du passé, car dorénavant, ce sont les incertitudes de l'éternité qu'il va devoir affronter, l'aventure éternelle.
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Incertitude_et_securite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Incertitude et sécurité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-49-hiver-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 49 — Hiver 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/Les_Apotres_Le_Lion">
+          <span class="pr-2">Les Apôtres – Le Lion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

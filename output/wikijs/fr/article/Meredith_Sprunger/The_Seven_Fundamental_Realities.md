@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Meredith J. Sprunger<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anne_Muriel_Brouet/Les_exoplanetes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les exoplanètes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-57-hiver-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 57 — Hiver 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Genese_Zizi_Ordinateur">
+          <span class="pr-2">Genèse- Zizi - Ordinateur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## 1. L'Essence de la Réalité : Le Père Universel et la Trinité du Paradis
 
@@ -69,3 +93,27 @@ Dans l'expérience humaine, les échanges entre la matière, le mental et l'espr
 Une psychologie spirituelle équilibrée doit tenir compte des aspects physiques, mentaux et spirituels de la réalité. Elle accepte et comprend clairement et d'une manière réaliste la nature matérielle du genre humain, même en réalisant que le bien-être et l'épanouissement de la nature humaine repose sur les perceptions et la guidance de la réalité spirituelle. Cette dichotomie paradoxale est transcendée par la médiation des dynamiques psychologiques du mental.
 
 Meredith J. Sprunger
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anne_Muriel_Brouet/Les_exoplanetes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les exoplanètes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-57-hiver-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 57 — Hiver 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Genese_Zizi_Ordinateur">
+          <span class="pr-2">Genèse- Zizi - Ordinateur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Dominique Ronfet<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/La_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-103-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 103 — Septembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Pascal_Coulombe/Retour_D_experience">
+          <span class="pr-2">Retour D'expérience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Vous trouverez ci-dessous une Fantaisie sur un thème majeur, écrit ces derniers jours mais qui résulte d'une méditation constante sur une forme « d'impermanence » de l'existence.
 > 
@@ -97,3 +121,27 @@ Dominique<br>
 > « Le grand problème de la vie consiste à ajuster les tendances ancestrales de vie aux exigences des impulsions spirituelles provoquées par la présence divine du Moniteur de Mystère. Dans les carrières de l'univers et du superunivers, nul homme ne peut servir deux maitres à la fois, mais, dans la vie que vous vivez présentement sur Urantia, chaque homme est obligé de le faire. Il doit devenir expert dans l'art de pratiquer un compromis humain continu et temporel, tout en n'obéissant spirituellement qu'à un maitre. C'est pourquoi tant de personnes trébuchent et échouent, se fatiguent et succombent sous la tension de la lutte évolutionnaire. » [LU 109:5.4](/fr/The_Urantia_Book/109#p5_4)
 
 > « La vérité divine est une réalité vivante discernée par l'esprit. La vérité n'existe que sur les niveaux spirituels supérieurs de la réalisation de la divinité et de la conscience de la communion avec Dieu. Vous pouvez connaitre la vérité et vous pouvez vivre la vérité ; vous pouvez ex- périmenter la croissance de la vérité dans l'âme, et jouir de la liberté que sa lumière apporte au mental ; mais vous ne pouvez pas emprisonner la vérité dans des formules, des codes, des crédos, ou dans des modèles intellectuels de conduite humaine. Si vous entreprenez de formuler humainement la vérité divine, elle ne tarde pas à mourir. Même en mettant les choses au mieux, le sauvetage posthume de la vérité emprisonnée ne peut aboutir qu'à réaliser une forme particulière de sagesse intellectuelle glorifiée. La vérité statique est une vérité morte, et seule la vérité morte peut être considérée comme une théorie. La vérité vivante est dynamique et ne peut jouir que d'une existence expérientielle dans le mental humain. » [LU 180:5.2](/fr/The_Urantia_Book/180#p5_2)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/La_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-103-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 103 — Septembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Pascal_Coulombe/Retour_D_experience">
+          <span class="pr-2">Retour D'expérience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

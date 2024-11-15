@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Histoire_du_mouvement_francophone_d_Europe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Histoire du mouvement francophone d'Europe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 73 — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bernard_Dugas/Lumen">
+          <span class="pr-2">Lumen</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Quand la personnalité est-elle fonctionnelle?_
 
@@ -226,3 +250,27 @@ Donnons donc le mot de la fin au livre lui-même :
 C'est bien la personnalité telle qu'elle est incluse dans le plan d'aboutissement progressif du Père.
 
 > « _Le plan d'aboutissement progressif_. C'est le plan du Père Universel pour l'ascension par évolution. Ce programme fut accepté sans réserve par le Fils Éternel lorsqu'il concourut à la proposition du Père « Faisons les créatures mortelles à notre propre image. » Ce dispositif pour rehausser les créatures du temps implique que le Père attribue des Ajusteurs de Pensée et dote les créatures mortelles des prérogatives de la personnalité, » ([LU 7:4.4](/fr/The_Urantia_Book/7#p4_4))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Histoire_du_mouvement_francophone_d_Europe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Histoire du mouvement francophone d'Europe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 73 — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bernard_Dugas/Lumen">
+          <span class="pr-2">Lumen</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

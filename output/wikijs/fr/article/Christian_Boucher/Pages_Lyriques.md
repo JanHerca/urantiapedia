@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Christian Boucher<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Hermetisme_et_Eugenisme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hermétisme et Eugénisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Tanja_Konnerth/Avoir_raison_ou_etre_heureux">
+          <span class="pr-2">Avoir raison ou être heureux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Prière de ce jour
 
@@ -73,3 +97,27 @@ _« Le Temps?»_ s'interrogea l'Amour. _« Mais pourquoi le Temps m'a-t-il aidé
 Le Savoir, sourit plein de sagesse, et répondit : _« C'est parce que seul le Temps est capable de comprendre combien l'amour est important dans la Vie. »_
 
 Christian Boucher
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Hermetisme_et_Eugenisme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hermétisme et Eugénisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Tanja_Konnerth/Avoir_raison_ou_etre_heureux">
+          <span class="pr-2">Avoir raison ou être heureux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

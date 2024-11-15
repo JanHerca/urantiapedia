@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Jean Royer<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claire_Mylanus/La_Priere_de_Consentement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Prière de Consentement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-58-printemps-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 58 — Printemps 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_09_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°9 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Dans le mental des mortels d'Urantia — ce nom étant celui de votre monde — il existe une grande confusion quant à la signification des termes tels que Dieu, divinité et déité._
 
@@ -49,3 +73,27 @@ On notera que c'est la troisième fois que l'on trouve le mot expérience et qu'
 Cette première phrase du _Livre d'Urantia_ nous livre amplement matière à réflexion, même si l'on s'arrête au premier niveau, car on voit bien que chaque terme analysé entraîne, si on le désire, vers d'autres termes à analyser. De plus, comme nous l'avons remarqué, l'introduction n'est qu'un guide de définitions et il est évident qu'il est nécessaire de compléter cette approche par un approfondissement que l'on va trouver dans le corps même du livre. C'est une « expérience », matérielle, mentale et spirituelle que chacun doit faire en solitaire mais aussi en groupe d'étude.
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claire_Mylanus/La_Priere_de_Consentement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Prière de Consentement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-58-printemps-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 58 — Printemps 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_09_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°9 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

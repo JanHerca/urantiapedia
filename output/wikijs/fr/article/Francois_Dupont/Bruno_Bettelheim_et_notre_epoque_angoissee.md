@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 François Dupont<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jacques_Dupont/La_personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-3-hiver-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 3 — Hiver 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Les fins de siècle, les fins de millénaire et à plus forte raison les fins de civilisation, ont toujours suscité des réactions de peur, d'angoisse, en face de ce qui allait arriver. C'est comme si chaque transition séculaire de millénaire ne pouvait apporter que des bouleversements profonds et durables. Peut-être que ce que l'on craignait le plus, dans ce changement de l'état des choses, était le fait de ne pouvoir s'y adapter, ou bien l'idée qu'inévitablement, de nouvelles catastrophes allaient surgir de derrière les horizons menaçants de cette fin de période.
 
@@ -43,3 +64,24 @@ Mais je me trompe peut-être. Les prévisions et les problèmes personnels ne se
 Qui accepterait le défi de se lancer à l'eau et de coucher sur le papier ses propres pensées et réactions vis à vis de cette question brûlante ?
 
 François Dupont — Bruxelles
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jacques_Dupont/La_personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-3-hiver-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 3 — Hiver 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Georges Michelson-Dupont<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Compte_Rendu_Rencontre_en_Italie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compte Rendu Rencontre en Italie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 76 — Décembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Rencontre_avec_Ade_Awoyinka">
+          <span class="pr-2">Rencontre avec Ade Awoyinka</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Terres fertiles pour les enseignements du Livre d'Urantia**
 
@@ -77,3 +101,27 @@ _Période 1950 à 2100 — Projections des Nations Unies_
 Explications: Pour la partie démographique, ces statistiques présentent les estimations et les projections probabilistes de la population totale pour les pays ou les zones, les agrégats géographiques et les groupes de revenu de la Banque mondiale tels que définis dans Définition des régions. Les projections démographiques sont fondées sur les projections probabilistes de la fécondité totale et de l'espérance de vie à la naissance, sur la base des estimations de la Révision 2015 de la Perspective mondiale de la population. Ces projections probabilistes de la fécondité totale et de l'espérance de vie à la naissance ont été réalisées avec un modèle hiérarchique bayésien. Les chiffres montrent la médiane probabiliste et les intervalles de prédiction de 80 et 95% des prévisions de population probabilistes, ainsi que le variant (déterministe) élevé et faible (+/- 0,5 enfant) de la Révision 2015 des Perspectives de la population mondiale.
 
 Pour les langues et les religions, ces données proviennent de Wikipedia.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Compte_Rendu_Rencontre_en_Italie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compte Rendu Rencontre en Italie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 76 — Décembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Rencontre_avec_Ade_Awoyinka">
+          <span class="pr-2">Rencontre avec Ade Awoyinka</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

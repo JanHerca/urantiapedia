@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Georges Michelson-Dupont<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/L_afrique_Subsaharienne_les_enseignements_du_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'afrique Subsaharienne, terres fertiles pour les enseignements du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 76 — Décembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ade_Awoyinka/La_Religion_Revelee">
+          <span class="pr-2">La Religion Révélée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ADE AWOYINKA est une Nigérienne de langue anglaise (du Nigeria et non de la république du Niger) émigrée au Royaume Uni depuis longtemps. La courte biographie qu'elle a offerte avant sa présentation à Budapest nous apprend « qu'elle a reçu le Livre d'Urantia le 1^er^ juillet 1996; qu'elle le lit depuis et sa clairvoyance allant grandissant elle continue de trouver chaque jour des vérités. » Elle est fonctionnaire et vit à Londres.
 
@@ -33,3 +57,27 @@ D'autres témoignages édifiants et similaires montrent que les enseignements du
 Guy Stéphane anime un cours sur le fascicule 83: « La religion primitive » et nous présen- tons avec sa permission et après les témoignages d'Ade, d'Arnaud et de Guy Stépahane sur leur pays respectif quelques questions et réponses qui illustrent encore une fois cette emprise de la peur sur le mental africain mais aussi les superstitions qui ont encore cours dans notre monde occidental.
 
 > « Rares sont les personnes qui vivent à la hauteur de la foi qu'elles possèdent réellement. La peur irraisonnée est une fraude intellectuelle maitresse pratiquée sur l'âme mortelle en évolution. » ([LU 48:7.4](/fr/The_Urantia_Book/48#p7_4))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/L_afrique_Subsaharienne_les_enseignements_du_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'afrique Subsaharienne, terres fertiles pour les enseignements du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 76 — Décembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ade_Awoyinka/La_Religion_Revelee">
+          <span class="pr-2">La Religion Révélée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

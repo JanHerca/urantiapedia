@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Jeanmarie Chaise<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/027">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 27 — Automne 2003 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-27-automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 27 — Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_version_cachee_de_la_quatrieme_partie_du_Livre_dUrantia">
+          <span class="pr-2">La version cachée de la quatrième partie du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## LE TEMPS SPIRITUEL
 
@@ -39,3 +63,27 @@ Que nos progrès dans notre éternité future nous réservent un sort de Finalit
 A partir d'une telle démarche intellectuelle, il est possible de décrire la manifestation expérientielle comme assujettie volontairement par la Déité aux lois numérales, le temps et l'espace se présentant comme une sorte d'abscisses et d'ordonnées d'une construction cosmique qui ne pourra être dépassée que par l'aboutissement de l'absolu. Et toute cette capacité nombrante est inscrite à l'intérieur des dix symboles numériques. Cet ensemble, avec ses fonctions symbolisantes uniques et ainsi symbolisantes, constitue sans doute ce que les révélateurs nomment « ***les prémathématiques de la force, de l'énergie et du pouvoir.*** » [[LU 104:3.2](/fr/The_Urantia_Book/104#p3_2)], bases incontournables de la création expérientielle de temps et d'espace.
 
 Jeanmarie Chaise
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/027">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 27 — Automne 2003 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-27-automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 27 — Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_version_cachee_de_la_quatrieme_partie_du_Livre_dUrantia">
+          <span class="pr-2">La version cachée de la quatrième partie du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

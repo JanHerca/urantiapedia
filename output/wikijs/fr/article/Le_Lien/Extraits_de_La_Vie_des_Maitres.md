@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eileen_Caddy/La_Petite_Voix">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Petite Voix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-54-printemps-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 54 — Printemps 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Moussa_Ndiaye/La_Nature_Feminine">
+          <span class="pr-2">La Nature Féminine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## L’Amour
 
@@ -81,3 +105,27 @@ Choisissons qui nous voulons servir. Division signifie faillite et mort. Unité 
 Pour créer et pour accomplir, il faut être mû par des mobiles sincères et centrer sa pensée sur un point d'absorption, c'est-à-dire sur un idéal. Nous pouvons devenir ce centre. Rien ne prend forme sans que les hommes aient d'abord exprimé un idéal.
 
 Baird T.Spalding
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eileen_Caddy/La_Petite_Voix">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Petite Voix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-54-printemps-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 54 — Printemps 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Moussa_Ndiaye/La_Nature_Feminine">
+          <span class="pr-2">La Nature Féminine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

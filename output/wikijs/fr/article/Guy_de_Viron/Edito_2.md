@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Guy de Viron<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Le_billet_du_President_Resume_rencontre_jura">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le billet du Président Résumé rencontre jura</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-68-automne-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 68 — Automne 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Resurrections_des_mortels_apres_la_mort_physique">
+          <span class="pr-2">Résurrections des mortels après la mort physique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Voici le Lien n68, probablement l'avant-dernier mis en forme par votre serviteur ! En effet, d'aucuns estiment nécessaire de faire un changement de fond et de forme à ce Lien, par trop personnalisé.
 
@@ -30,4 +54,28 @@ Guy de Viron
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_01/196.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Le_billet_du_President_Resume_rencontre_jura">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le billet du Président Résumé rencontre jura</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-68-automne-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 68 — Automne 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Resurrections_des_mortels_apres_la_mort_physique">
+          <span class="pr-2">Résurrections des mortels après la mort physique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Simon Orsini<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Quelques_informations_sur_la_Fondation_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelques informations sur la Fondation Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-88-décembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 88 — Décembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _La manière la plus rapide pour un têtard de devenir une grenouille, est de vivre loyalement chaque instant comme un têtard._ ([LU 100:1.4](/fr/The_Urantia_Book/100#p1_4))
 
@@ -59,3 +80,24 @@ Comment concevoir ou apprécier le temps d'attente pour rejoindre le monde des m
 En observant les luttes incessantes des créatures pour atteindre la perfection, je pense que leurs efforts interminables dénotent, de l'esprit de volonté qui les anime, et les conduit à l'épanouissement spirituel. Si nous proclamons les vérités de l'esprit, l'esprit témoignera dans notre cœur que notre message est authentique. Si nous recevons Dieu en temps que Père, alors, en vérité nous ferons partie de son univers, nous obtiendrons la vie éternelle.
 
 **Simon Orsini**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Quelques_informations_sur_la_Fondation_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelques informations sur la Fondation Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-88-décembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 88 — Décembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Jeanmarie Chaise<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Linda_Buselli/La_nature_duelle_de_la_Suprematie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nature duelle de la Sûprematie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-14-été-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 14 — Été 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Le_mystere_des_Maries">
+          <span class="pr-2">Le mystère des Maries</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dans le nº130 de « Réflectivité » plusieurs réponses ont été apportées à la question posée dans le nº 129. Je remercie personnellement de tout mon cœur leurs auteurs. La question posée faisait état de la prière de Jésus pour sauver Judas, exhortant celui-ci à ne pas se lasser de bien agir, et lui disant :
 
@@ -37,3 +61,27 @@ Lorsque Jésus dit à Judas, ou à un autre humain, qu'il prie pour que son atti
 Ainsi, lorsque Jésus dit à judas qu'il a prié pour qu'il parvienne à aimer ses frères, il ne s'agit manifestement pas d'une prière au sens où nous l'entendons ordinairement, car Jésus nous affirme par ailleurs, que « ***Ce que le vrai fils désire et que le Père Infini veut EST. Une telle prière ne peut rester sans réponse, et nulle autre sorte de requête ne peut être pleinement exaucée*** » [LU 146:2.7](/fr/The_Urantia_Book/146#p2_7)
 
 Jeanmarie Chaise
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Linda_Buselli/La_nature_duelle_de_la_Suprematie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nature duelle de la Sûprematie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-14-été-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 14 — Été 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Le_mystere_des_Maries">
+          <span class="pr-2">Le mystère des Maries</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

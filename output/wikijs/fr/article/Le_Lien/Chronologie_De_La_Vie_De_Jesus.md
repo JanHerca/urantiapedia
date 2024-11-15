@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Vovages_De_Jesus_Avant_Son_Ministere_Public">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vovages De Jésus Avant Son Ministere Public</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-93-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 93 — Mars 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Les_Apparitions_De_Jesus">
+          <span class="pr-2">Les Apparitions De Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/Chronologhy_Jesus.jpg">
@@ -248,3 +272,27 @@ Un coureur de Béthanie arrive à Philadelphie porteur d' un message indiquant q
 
 - Jeudi 7h3o Sur le Mont Olivet, Jésus commence l'ascension à la droite de son Père. Il a fait dix-neuf apparitions en quarante jours et fait partie de l'expérience personnelle de près de mille êtres humains : mais pas un seul parmi ses ennemis.
 - 13h. L'Esprit de Vérité, le Consolateur, est effusé sur le monde à la Pentecôte.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Vovages_De_Jesus_Avant_Son_Ministere_Public">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vovages De Jésus Avant Son Ministere Public</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-93-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 93 — Mars 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Les_Apparitions_De_Jesus">
+          <span class="pr-2">Les Apparitions De Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

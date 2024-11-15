@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Unis_autour_dun_LIVRE">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unis autour d’un LIVRE</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-53-hiver-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 53 — Hiver 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Sommes_nous_des_ambassadeurs">
+          <span class="pr-2">Sommes-nous des ambassadeurs ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le premier but de la Société Théosophique concerne la formation d'un noyau de la Fraternité Universelle de l'Humanité sans distinction de race, religion, sexe, caste ou couleur. Or, le principe de la fraternité est également accepté par d'autres mouvements et associations, et la solidarité humaine est de plus en plus reconnue et pratiquée sur une échelle internationale sous de nombreux aspects, bien que basée le plus souvent sur des intérêts mutuels. Cependant, la notion de la fraternité, comme elle est comprise dans l'enseignement théosophique, a des racines beaucoup plus profondes.
 
@@ -39,3 +63,27 @@ Comme il a été dit au début de cet article, il y a de nombreuses associations
 Nous pouvons rapprocher de cette citation les paroles suivantes d'un Maître : Le but du philanthrope devrait être l'illumination spirituelle de ses frères en humanité...
 
 Extrait d’une  publication théosophique
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Unis_autour_dun_LIVRE">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unis autour d’un LIVRE</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-53-hiver-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 53 — Hiver 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Sommes_nous_des_ambassadeurs">
+          <span class="pr-2">Sommes-nous des ambassadeurs ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

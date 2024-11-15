@@ -9,6 +9,27 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Danielle La Scala<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Groupe d'étude Interactif</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-74-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 74 — Juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Du jeudi 6 au dimanche 9 octobre 2016_
 
@@ -46,4 +67,25 @@ Tél. :+33 4508707 16—Mobile : +33 633843440
 <figure id="Figure_11" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/048.jpg">
 <figcaption>L'hotel Europa en bordure du lac</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Groupe d'étude Interactif</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-74-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 74 — Juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

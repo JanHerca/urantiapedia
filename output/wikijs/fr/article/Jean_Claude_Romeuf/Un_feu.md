@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Jean-Claude Romeuf<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/013">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 13 — Printemps 2000 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-13-printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 13 — Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Davier/Melchizedek_ou_la_2eme_Revelation">
+          <span class="pr-2">Melchizédek ou la 2ème Révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 L'hiver est là, froid, argenté et magique. Rien ne bouge sous le givre. Seules les fées dansent dans la gelée. Pas un bruit n'entre dans la maison. Nous allons changer d'année, de siècle, de millénaire. Qu'importe! C'est un numéro composé d'un deux avec trois zéros. Il faudra s'habituer à l'écrire, c'est tout!....« _Les jours s'en vont, je demeure_ » dit le poète.
 
@@ -27,3 +51,27 @@ Alors, comme des marathoniens faisant le tour du stade d'Olympie, nous porterons
 A cent cinquante années lumière, nous allumerons du feu de notre amour, la cheminée de notre nouvelle maison.
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/013">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 13 — Printemps 2000 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-13-printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 13 — Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Davier/Melchizedek_ou_la_2eme_Revelation">
+          <span class="pr-2">Melchizédek ou la 2ème Révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Chris Ragetly<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Rouanet/Le_mot_du_President_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du Président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-37-automne-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 37 — Automne 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Double_nature">
+          <span class="pr-2">Double nature</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Voici une injonction du Père qui a été relayée par Jésus lorsqu'il enseignait à ses apôtres ce mardi soir 4 avril de l'an 30, sur le mont Olivet. «_...Mon Père demande à tous ses enfants de croître en grâce et dans la connaissance de la vérité..._ » ([LU 176:3.5](/fr/The_Urantia_Book/176#p3_5)). Croître en grâce prend ici une signification particulière, ce mot signifie beauté, charme et harmonie, ceci sur un plan intellectuel et spirituel. Cette grâce du mental et de l'esprit va de pair avec la connaissance de la vérité, l'un ne va pas sans l'autre. On nous apprend que la vérité est une des caractéristiques de la divinité: « _La divinité est intelligible aux créatures en tant que vérité, beauté et bonté..._ » ([LU 0:1.17](/fr/The_Urantia_Book/0#p1_17)) et : « _Les révélations planétaires successives de la vérité divine englobent invariablement les concepts existants les plus élevés des valeurs spirituelles comme une partie de la coordination nouvelle et rehaussée des connaissances planétaires..._ » ([LU 0:12.12](/fr/The_Urantia_Book/0#p12_12)). Encore une fois nous nous apercevons que notre mental est sollicité à 100%. Il se produit le même phénomène avec toutes les acquisitions que nous gagnons par nos propres efforts, que ce soit grâce à la révélation ou à l'évolution. Chaque fois qu'une acquisition est obtenue, elle rehausse toutes les précédentes et ce résultat global nous rapproche d'un cran de Dieu. Considérez la citation suivante : «_...À quiconque possède, il sera donné davantage, et il possèdera abondamment ; mais, à qui n'a rien, on enlèvera même ce qu'il détient..._ » ([LU 176:3.5](/fr/The_Urantia_Book/176#p3_5)). Elle illustre parfaitement notre propos, mais en plus elle possède un avertissement : «_...mais, à qui n'a rien, on en- lèvera même ce qu'il détient..._ » Autrement dit celui qui n'avance pas recule, et là, c'est l'échec assuré, car on lui retirera même ce qui lui a été donné! «_...On ne peut rester stagnant dans les affaires du royaume éternel..._ » ([LU 176:3.5](/fr/The_Urantia_Book/176#p3_5)).
 
@@ -20,3 +44,27 @@ Lorsque nous parlons entre nous de nos expériences, ce n'est pas pour prêcher 
 
 _(Les citations du Livre d'Urantia sont en italiques)_
 C. M. Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Rouanet/Le_mot_du_President_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du Président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-37-automne-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 37 — Automne 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Double_nature">
+          <span class="pr-2">Double nature</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

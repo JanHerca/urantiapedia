@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Ivan Stol<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Questionnement_sur_Dieu_le_Septuple_et_autres_definitions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Questionnement sur Dieu le Septuple et autres définitions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-80-décembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 80 — Décembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Rencontre_Europeenne_en_Espagne">
+          <span class="pr-2">Rencontre Européenne en Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/111.jpg">
@@ -57,3 +81,27 @@ Deux jours et demi, c'est court pour une rencontre nationale. C'est un plaisir d
 Que dire de plus, sinon que je suppose que vous pouvez vous imaginer l'ambiance qui se crée lors de telles réunions.
 
 <br style="clear:both;"/>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Questionnement_sur_Dieu_le_Septuple_et_autres_definitions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Questionnement sur Dieu le Septuple et autres définitions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-80-décembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 80 — Décembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Rencontre_Europeenne_en_Espagne">
+          <span class="pr-2">Rencontre Européenne en Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

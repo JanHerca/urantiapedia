@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Georges Donnadieu<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Benjamin_Boisson/Saint_Philippe_Neri">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Saint Philippe Néri</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-60-automne-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 60 — Automne 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/L_art_de_benir">
+          <span class="pr-2">L’art de bénir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La rencontre nationale 2012 des lecteurs francophones du _Livre d'Urantia_ a eu lieu à Pentecôte au domaine de La Neylière. Certains participants ont pu écouter, lors de la soirée récréative du samedi 26 mai, la chanson Suzanne interprétée par Alain Bashung (album « Bleu Pétrole » 2008). Les paroles du 2ème couplet et refrain sont les suivantes : paroles originales en anglais de Léonard Cohen et adaptation française Graeme Allwright, chanteur folk australien.
 
@@ -57,3 +81,27 @@ Sur les ailes de la poésie, notre imagination devient féconde et nous amène c
 - Nota 3 : Le 2 ème couplet de SUZANNE débute sur la mer de Galilée et se termine sur la colline du Crâne (Golgotha) à Jérusalem. La mer de Galilée (altitude 209 m ) reçoit les pluies du versant occidental du Mont Hermon (altitude 2814 m), moins haut que le Mont Liban, littéralement le Mont Blanc du Moyen-Orient : (altitude 3083 m). Un cours d'eau recevant les pluies du versant oriental du Mont Meron (altitude 1208 m ) se jette aussi dans le lac Tibériade. Le Jourdain relie mer de Galilée et mer Salée ou mer Morte (altitude 396 m) — Le Mont des Oliviers, près de Jérusalem _ ville de moyenne montagne — culmine à 812 m .
 
 Georges Donnadieu
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Benjamin_Boisson/Saint_Philippe_Neri">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Saint Philippe Néri</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-60-automne-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 60 — Automne 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/L_art_de_benir">
+          <span class="pr-2">L’art de bénir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

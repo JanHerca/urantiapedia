@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Georges Michelson-Dupont<br>© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Conscience_de_soi_Conscience_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conscience — Conscience de soi & Conscience de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-72-hiver-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 72 — Hiver 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_2">
+          <span class="pr-2">Groupe d'étude interactif: deuxième série</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 LA toute première rencontre de lecteurs italiens du _Livre d'Urantia_ s'est déroulée à Vérone, la belle et historique cité de Roméo et Juliette du vendredi 28 au dimanche 30 août. Cet évènement fut entrepris et organisé par mon amie de longue date Danielle La Scala, une Italo-Suisse.
 
@@ -49,4 +73,28 @@ _Georges Michelson-Dupont_
 <figure id="Figure_15" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/032.jpg">
 <figcaption><em>Au fond de gauche à droite: Memo Zago, le traducteur italien, Danielle La Scala, Nicol Covaliu, Antonio Shefer représentant de l'IUA, Nirvana Covaliu et Alberto Dujela. De dos de gauche à droite, Guy de Viron, Johana Boekers et Georges Donadieu. On aperçoit les jambes de notre Président à gauche.</em></figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Conscience_de_soi_Conscience_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conscience — Conscience de soi & Conscience de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-72-hiver-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 72 — Hiver 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_2">
+          <span class="pr-2">Groupe d'étude interactif: deuxième série</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

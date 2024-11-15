@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Patrick Baumann<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/La_Neyliere_et_les_cercles_psychiques">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Neylière et les cercles psychiques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-59-été-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 59 — Été 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Estime_de_soi">
+          <span class="pr-2">Estime de soi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ***L'Illustré***, _me 14 décembre 2011 : Témoignage de **Joseph Stutz**, Le millionnaire du bonheur._
 
@@ -49,3 +73,27 @@ Réponse d'un monsieur qui garde cette petite distance zen avec les questions qu
 _«Être bien », Éditions Spirit Way. Le livre n'est plus gratuit à ce jour, mais proposé au prix de 30 francs suisses versés à la fondation Le Cube de verre._
 
 Patrick Baumann
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/La_Neyliere_et_les_cercles_psychiques">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Neylière et les cercles psychiques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-59-été-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 59 — Été 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Estime_de_soi">
+          <span class="pr-2">Estime de soi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

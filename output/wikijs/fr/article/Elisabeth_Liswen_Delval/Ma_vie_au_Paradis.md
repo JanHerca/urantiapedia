@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Elisabeth Liswen Delval<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Recloses">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Recloses</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-52-automne-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 52 — Automne 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Louis_Fournier/Le_CV_de_Dieu">
+          <span class="pr-2">Le CV de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Chers Urantiens, Urantiennes, après notre réunion à Chalès, je voulais attirer votre attention sur un livre sympathique « Ma vie au Paradis » qui relate les témoignages de Mgr Robert Hugh Benson, archevêque de Canterbury mort en 1914, qui dicta en esprit à Anthony Borgia, médium, les premiers jours et les premières impressions de son arrivée dans l'autre vie.
 
@@ -73,3 +97,27 @@ Il leva majestueusement les bras vers nous et nous bénit tous. Nous restions de
 Anthony Borgia : MA VIE AU PARADIS aux Editions de Roseau/ou aux Editions DERVYLIVRES
 
 Elisabeth Liswen Delval
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Recloses">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Recloses</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-52-automne-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 52 — Automne 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Louis_Fournier/Le_CV_de_Dieu">
+          <span class="pr-2">Le CV de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

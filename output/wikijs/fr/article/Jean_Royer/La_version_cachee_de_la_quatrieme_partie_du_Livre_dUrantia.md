@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Jean Royer<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Le_temps_materiel_morontiel_spirituel_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le temps matériel — le temps morontiel — le temps spirituel -« l'importance du temps selon le livre d’Urantia » (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-27-automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 27 — Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Reincarnation_verite_ou_superstition">
+          <span class="pr-2">Réincarnation, vérité ou superstition ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Ya-t-il une version que nous ne connaissons pas du _Livre d'Urantia_ ? Un certain nombre de points nous amène à penser que oui.
 
@@ -36,3 +60,27 @@ D'ailleurs, si l'on interrogeait les Archivistes, ils nous diraient: « Et c'est
 Mais pour ceux d'entre nous qui sont un peu curieux, il est grand temps de se mettre à ces langues, quelques surprises de traduction nous attendent là-haut.
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Le_temps_materiel_morontiel_spirituel_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le temps matériel — le temps morontiel — le temps spirituel -« l'importance du temps selon le livre d’Urantia » (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-27-automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 27 — Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Reincarnation_verite_ou_superstition">
+          <span class="pr-2">Réincarnation, vérité ou superstition ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Simon Orsini<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Elders/La_Verite_personnelLement_decouverte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Vérité personnelLement découverte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-82-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 82 — Juin 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/L_enfant_Jesus_et_les_docteurs_de_la_Loi">
+          <span class="pr-2">L'enfant Jésus et les docteurs de la Loi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Simon Orsini
 
@@ -120,3 +144,27 @@ Quelqu'un qui pense, quelqu'un qui voit, quelqu'un qui entend, qui a conscience 
 </figure>
 
 Dieu ne peut pas grandir en connaissances et en sagesse. Le Père Universel participe à la lutte personnelle de toutes les âmes imparfaites de l'univers, ni mathématiques, ni logique, ni philosophie, ne peuvent saisir la réalité ultime de l'univers. Seule une expérience par la foi peut amener la conception claire, réelle et spirituelle de la personnalité de Dieu.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Elders/La_Verite_personnelLement_decouverte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Vérité personnelLement découverte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-82-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 82 — Juin 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/L_enfant_Jesus_et_les_docteurs_de_la_Loi">
+          <span class="pr-2">L'enfant Jésus et les docteurs de la Loi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

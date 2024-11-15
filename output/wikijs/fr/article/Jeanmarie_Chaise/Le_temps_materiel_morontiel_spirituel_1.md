@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Jeanmarie Chaise<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/026">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 26 — Été 2003 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-26-été-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 26 — Été 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Petite_theorie_personnelle_sur_la_preuve_de_lexistence_de_Dieu">
+          <span class="pr-2">Petite théorie personnelle sur la preuve de l'existence de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 RACCOURCIR LE TEMPS ?
 
@@ -49,3 +73,27 @@ Or la première fracture, si l'on peut dire ainsi, dans nos estimations actuelle
 Le temps est donc relatif aux durées d'existence des personnalités, aux durées passées comme aux durées futures, et il semble qu'il doive donc nous apparaître tel progressivement, au fur et à mesure que nous gravirons les échelons qui nous mènent vers le Père. Le temps n'est pas ce que nous croyons, car il est perpétuellement adapté par les consciences et c'est là le véritable raccourcissement qui nous rapproche d'autant de notre embrassement par la Déité. C'est pourquoi un jour Jésus déclara : « Le temps est le courant du flot des événements temporels perçus consciemment par les créatures. » ([LU 130:1.6](/fr/The_Urantia_Book/130#p1_6)) La perception consciente est, en effet, toujours différente du rythme inexorable de nos horloges, toujours différente du cycle nycthéméral, toujours de plus en plus différente des durées événementielles de l'active matière-énergie ; en effet, la perception consciente du temps tend à toujours plus se rapprocher du concept d'éternité. Car « La conscience du temps n'a pas besoin du mouvement dans l'espace pour exister. » ([LU 12:5.1](/fr/The_Urantia_Book/12#p5_1)) De là à prévoir que notre carrière progressive sur la voie idéale sera ponctuée par notre appréciation progressive du raccourcissement du temps, il n'y a qu'une marge à combler constituant l'élément temporel de notre carrière au travers des mondes de l'espace. Mais pour autant que nous parvenions à réduire nos estimations temporelles et spatiales, nous ne parviendrons pas à l'atemporalité avant d'avoir franchi l'interface entre le temps et l'éternité que constitue le milliard de mondes de Havona, entre expérientialité et existentialité.
 
 Jeanmarie Chaise
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/026">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 26 — Été 2003 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-26-été-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 26 — Été 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Petite_theorie_personnelle_sur_la_preuve_de_lexistence_de_Dieu">
+          <span class="pr-2">Petite théorie personnelle sur la preuve de l'existence de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

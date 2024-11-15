@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Jean-Claude Romeuf<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_resurrection_de_Ganid">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La résurrection de Ganid</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-54-printemps-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 54 — Printemps 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eileen_Caddy/La_Petite_Voix">
+          <span class="pr-2">La Petite Voix</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Il peut sembler que la traduction en français de « Transcendentals, This superfinite level (antecedently) follows finite progression » en « Ce niveau suprafini suit la progression finie (en l'anticipant)», puisse porter à confusion. Il faut comprendre que les plans de la création du Maître Univers sont sous la dépendance des Architectes du Maître Univers. Il y a eu des plans pour la genèse du fini qui ont donc été antérieurs au fini et en ce moment il existe des plans pour la formation des espaces extérieurs qui seront habités après l'Age du Suprême. Le niveau Transcendantal ne suit donc pas la progression du fini en même temps qu'il l'anticipe. Ce niveau a précédé le fini et prépare sa suite. Il prépare l'Age de l'Ultime et en suit la direction spatiale. Dire qu'il suit la progression du fini en même temps qu'ill'anticipe me semble une erreur. Cela contreviendrait à la logique de la création : un carré ne peut être rond!
 
@@ -21,3 +45,27 @@ Seul le Père Universel est Infini, mais l'infinité est hypothétique. Elle pr�
 La Déité rencontrée sur le niveau absolu, étant distributive d'elle-même, il fallait que des niveaux subabsolus existent pour que la création survienne. Il fallait donc que des plans soient élaborés en conséquence. Pouvoir expliquer la nature des Architectes du Maître Univers nécessiterait la possession d'un mental fonctionnant dans l'absonite. Mais, il n'est pas interdit de penser que ces êtres Transcendantaux puissent représenter chacun, un concept vivant de la Trinité du Paradis dans un but créatif. De cette façon, ils ne seraient ni des créateurs, ni des créatures ; ils ne seraient donc pas créés, mais seraient l'extériorisation d'un concept! C'est un peu ce qui se passe avec les fils trinitisés par des créatures. Et comme par hasard, ces fils trinitisés deviennent les pupilles des Architectes du Maître Univers et sont mis en réserve en attendant l'Age de l'Ultime. Le rôle que ces fils auront à jouer sur les niveaux de l'espace extérieur ne fait aucun doute car ils sont des concepts vivants utilisables pour la destinée.
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_resurrection_de_Ganid">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La résurrection de Ganid</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-54-printemps-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 54 — Printemps 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eileen_Caddy/La_Petite_Voix">
+          <span class="pr-2">La Petite Voix</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

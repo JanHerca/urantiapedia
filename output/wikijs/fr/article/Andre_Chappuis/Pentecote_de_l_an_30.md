@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 André Chappuis<br>© 2005 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Dieu_l_absolu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu l'absolu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-34-été-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 34 — Été 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Limpossible_dialogue_avec_des_fondamentalistes">
+          <span class="pr-2">L'impossible dialogue avec des fondamentalistes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Réponse à la question de Jeanmarie Chaise parue dans le Lien Nº 11[^1], et à la deuxième partie de « Jugement hâtif » par Jean Royer du Lien Nº 32.
 
@@ -59,3 +83,27 @@ Moi aussi, je pense avoir bien lu les fascicules 172 à 194 ainsi que les docume
 Concernant la première partie de l'article de Monsieur Royer, 5000 ans est une erreur de la nouvelle traduction de juin 1994; La Cosmogonie D’Urantia, éditions de 1961 et 1971 indiquait 500000 ans. Idem pour le Livre D'URANTIA en un volume, non daté, paru au cours des années 80 .
 
 André Chappuis
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Dieu_l_absolu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu l'absolu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-34-été-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 34 — Été 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Limpossible_dialogue_avec_des_fondamentalistes">
+          <span class="pr-2">L'impossible dialogue avec des fondamentalistes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

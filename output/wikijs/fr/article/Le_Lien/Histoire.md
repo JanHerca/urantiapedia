@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Annet/Reunion_belge_19_aout_2012">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion belge 19 août 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-60-automne-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 60 — Automne 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_11_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°11 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Deux jumeaux discutent dans le ventre de leur mère :
 
@@ -24,3 +48,27 @@ Deux jumeaux discutent dans le ventre de leur mère :
 -Bébé 2 : Je ne suis pas d'accord, ça c'est ton point de vue. Car, parfois lorsque tout devient calme, on peut entendre quand elle chante... On peut sentir quand elle caresse notre monde.... Je suis certain que notre Vraie vie va commencer après l'accouchement...
 
 Auteur anonyme
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Annet/Reunion_belge_19_aout_2012">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion belge 19 août 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-60-automne-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 60 — Automne 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_11_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°11 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

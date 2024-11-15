@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Max Masotti<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/L_equipe_Shamengo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'équipe Shamengo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-69-hiver-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 69 — Hiver 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_26">
+          <span class="pr-2">P’tit Coin de Frère Dom’ Le p'tit dernier !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Jésus**
 
@@ -48,4 +72,28 @@ Max Masotti
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_01/207.jpg">
 <figcaption>«... Ah, le privilège d'être il-LU-minée! »</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/L_equipe_Shamengo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'équipe Shamengo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-69-hiver-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 69 — Hiver 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_26">
+          <span class="pr-2">P’tit Coin de Frère Dom’ Le p'tit dernier !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

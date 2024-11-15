@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jean Royer<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Andre_Chappuis/Les_Yeux_Bleus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Yeux Bleus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-46-printemps-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 46 — Printemps 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Johanna_Beukers/Auto_Guerison">
+          <span class="pr-2">Auto - Guérison</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le Livre d'Urantia fourmille d'indications chiffrées qui peuvent laisser croire au chercheur qu'il va pouvoir calculer toutes sortes de choses, mais en fait ces indications sont fréquemment suivies par d'autres tellement imprécises qu'elles ne permettent qu'un accès à un ordre de grandeur et non pas à des calculs précis. Prenons quelques exemples :
 
@@ -33,3 +57,27 @@ La morale que j'en tire est qu'il va nous falloir beaucoup de temps pour aller d
 _NB: J'aimerais voir d'autres calculs faits par des lecteurs_
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Andre_Chappuis/Les_Yeux_Bleus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Yeux Bleus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-46-printemps-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 46 — Printemps 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Johanna_Beukers/Auto_Guerison">
+          <span class="pr-2">Auto - Guérison</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

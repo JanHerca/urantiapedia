@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Max Masotti<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Les_causes_les_effets_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les causes, les effets V</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-67-été-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 67 — Été 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_24">
+          <span class="pr-2">P’tit Coin de Frère Dom’ La Question !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Urantia**
 1. Adam et Ève arrivèrent sur Urantia 37.848 ans avant l'an 1934 de l'ère chrétienne. Sur Jérusem, ils étaient inscrits conjointement sous le numéro 14 311. [LU 74:0.1](/fr/The_Urantia_Book/74#p0_1)
@@ -79,3 +103,27 @@ dateCreated: 2024-10-19T15:5:2Z
 20. La dernière demande que Jésus, en tant que mortel, adressa à ses semblables fut formulée vers une heure et demie lorsqu'il dit une seconde fois « J'ai soif ». Le capitaine de la garde humecta de nouveau les lèvres du Maître avec la même éponge trempée dans du vin aigre que l'on appelait alors communément vinaigre. [LU 187:5.3](/fr/The_Urantia_Book/187#p5_3)
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Les_causes_les_effets_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les causes, les effets V</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-67-été-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 67 — Été 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_24">
+          <span class="pr-2">P’tit Coin de Frère Dom’ La Question !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

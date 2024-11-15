@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Jacques Dupont<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sylvette_Perrier/Les_facettes_de_la_Verite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les facettes de la Vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-16-hiver-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 16 — Hiver 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/La_contraction_de_lEspace_Temps">
+          <span class="pr-2">La contraction de l'Espace Temps</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Si nous sommes ici tous rassemblés, c'est poussés par l'intérêt que chacun de nous porte au _Livre d'URANTIA_.
 
@@ -63,3 +87,27 @@ Enfin, si notre réunion se déroule à ce niveau spirituel, Jésus sera parmi n
 La haute signification de cette commémoration l'empêche d'être un rituel car elle exige une qualité de fraternité entre les assistants.
 
 Jacques Dupont
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sylvette_Perrier/Les_facettes_de_la_Verite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les facettes de la Vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-16-hiver-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 16 — Hiver 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/La_contraction_de_lEspace_Temps">
+          <span class="pr-2">La contraction de l'Espace Temps</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

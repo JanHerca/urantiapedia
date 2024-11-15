@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Patrick Morelli<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/Dans_Cette_Affaire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dans Cette Affaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-90-juin-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 90 — Juin 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Reflection_Sur_La_Pensee">
+          <span class="pr-2">Réflection Sur La Pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dans cet essai de définition de l'espace, l'lle Centrale du Paradis est à exclure, car elle n'a pas d'emplacement dans cet espace, et de surcroit totalement intemporelle, bien que:
 
@@ -203,3 +227,27 @@ et
 Pour conclure, il ressort du fascicule 118, que l'espace est de toutes les choses non absolues, le plus proche d'être absolu, il est également géographiquement délimité comme l'espace scénique où se déroulent les scénarios de manipulations de l'activation des potentiels statiques, et de l'extériorisation de capacités d'univers, de la création ainsi que de l'évolution des actuels d'univers, tous ces phénomènes étant post-existentiels. L'espace est certainement le support sur lequel se manifestent toutes ces transmutations, c'est un immense circuit fermé qui se régénère en permanence par ce cœur qu'est l'lle Centrale du Paradis. L'espace est déjà imprégné de la présence de l'Ultimité de Déité, tous les éléments nécessaires pour passer des potentiels muris aux actuels expérientiels, circulent dans et au travers de l'espace.
 
 Patrick Morelli.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/Dans_Cette_Affaire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dans Cette Affaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-90-juin-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 90 — Juin 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Reflection_Sur_La_Pensee">
+          <span class="pr-2">Réflection Sur La Pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

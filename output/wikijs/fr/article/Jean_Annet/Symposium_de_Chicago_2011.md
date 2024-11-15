@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Jean Annet<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joseph_Folliet/Les_petites_Beatitudes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les petites Béatitudes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-56-automne-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 56 — Automne 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_07_Les_questions">
+          <span class="pr-2">Quiz Maxien n°7 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En juillet dernier, nous nous sommes rendus, Isabelle et moi, au Symposium sur le leadership à Chicago. Outre le Symposium lui-même, il y a eu un 'avant' et un 'après' que je ne voudrais pas passer sous silence, tant ils ont été riches et féconds.
 
@@ -27,3 +51,27 @@ Que dire encore? Que ces trois jours ont été un fabuleux terrain d'échanges. 
 Je crois que ce premier Symposium fera date dans l'histoire de l'IUA. Il en appellera d'autres, fort des expériences de ce premier. En tout cas, personnellement, il m'a donné envie de participer aux suivants.
 
 Jean Annet
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joseph_Folliet/Les_petites_Beatitudes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les petites Béatitudes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-56-automne-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 56 — Automne 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_07_Les_questions">
+          <span class="pr-2">Quiz Maxien n°7 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

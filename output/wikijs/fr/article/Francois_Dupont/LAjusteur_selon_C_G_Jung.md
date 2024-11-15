@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 François Dupont<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Reflexion_Ils_nous_disent">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexion : Ils nous disent...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-été-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Été 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anne_Marie_Ronfet/Quand_un_peu_de_paix_descend_sur_nous">
+          <span class="pr-2">Quand un peu de paix descend sur nous</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Menées de façon parallèle au L.U., les lecteurs des écrits des grands esprits de notre siècle et des siècles précédents, se révèlent être des sources d’une richesse étonnante, dévoilant des aspects inconnus ou complémentaires de notre Moniteur Divin.
 
@@ -47,3 +71,27 @@ p. 259-260 : « _Dans l'acte du sacrifice, le moi avec ses revendications nature
 p. 291 : « _...C'est seulement au niveau du Soi que l'homme peut se relier au prochain sans arrière-pensée, tandis que les sentiments du moi sont presque toujours obscurcis par des motivations égocentriques conscientes ou inconscientes de toutes sortes. C'est la raison pour laquelle c'est seulement dans l'anthropos supracosmique que la liberté et la dignité de l'homme individuel sont ancrées_ ».
 
 François Dupont
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeanmarie_Chaise/Reflexion_Ils_nous_disent">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexion : Ils nous disent...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-1-été-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 1 — Été 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anne_Marie_Ronfet/Quand_un_peu_de_paix_descend_sur_nous">
+          <span class="pr-2">Quand un peu de paix descend sur nous</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

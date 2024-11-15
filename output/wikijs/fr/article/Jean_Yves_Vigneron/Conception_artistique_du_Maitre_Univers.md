@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Jean Yves Vigneron<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/002">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 2 — Automne 1996 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-2-automne-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 2 — Automne 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francois_Dupont/Compte_rendu_de_la_3eme_Conference_Internationale">
+          <span class="pr-2">Compte rendu de la 3ème Conférence Internationale des Associations Affiliées à l’I.U.A.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dessins réalisés par _Jean Yves Vigneron_ à laide du logiciel « Paint » de Windows&reg; (Textes tirés du _Livre d'URANTIA_)
 
@@ -114,3 +138,27 @@ Voir aussi les autres paragraphes du fascicule 11 traitant de la respiration de 
 ## Liens
 
 - [Prochain article de cette série](/fr/article/Jean_Yves_Vigneron/Conception_artistique_du_Maitre_Univers_2)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/002">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 2 — Automne 1996 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-2-automne-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 2 — Automne 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francois_Dupont/Compte_rendu_de_la_3eme_Conference_Internationale">
+          <span class="pr-2">Compte rendu de la 3ème Conférence Internationale des Associations Affiliées à l’I.U.A.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

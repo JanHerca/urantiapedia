@@ -9,6 +9,27 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/Reunion_AFLLU_Neylieres_2024">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion AFLLU — Neylieres 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-107-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 107 — Septembre 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **L'ASSEMBLÉE GÉNÉRALE** eut lieu à Neylières le 28/06/2024.
 
@@ -128,3 +149,24 @@ Dépense : - 14371.27
 - À reverser à l'AUI : Dons pour l'AUI 2022 : 30.00 + 138.00 € ( 10 \% coti AFLLU)
 - À reverser à l'AUI : Dons pour l'AUI 2023 : 30.00 + 154.00 € (10\% coti AFLLU)
 - Total pour l'AUI: 352.00 €
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/Reunion_AFLLU_Neylieres_2024">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion AFLLU — Neylieres 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-107-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 107 — Septembre 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

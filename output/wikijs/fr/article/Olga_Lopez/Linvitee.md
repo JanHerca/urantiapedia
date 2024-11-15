@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Olga López<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Appellations_du_Moniteur_de_Mystere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appellations du Moniteur de Mystère</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-45-hiver-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 45 — Hiver 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/How_big_is_Paradise">
+          <span class="pr-2">Combien grand le Paradis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Chers amis et lecteurs du Lien,
 
@@ -27,3 +51,27 @@ Actuellement je suis « fidéicommissaire » associée à la Fondation Urantia, 
 Depuis que je lis le livre d'Urantia, il est très clair pour moi que je fera tout mon possible pour faire connaître la révélation, sans tenir compte du lieu dans lequel je suis ou le poste que j'occupe. Je suis convaincue que la démarche que nous faisons maintenant en tant que lecteurs du livre est cruciale pour que, dans un futur proche, les enseignements pénètrent massivement dans la société.
 
 _Info : Il y a six groupes d'étude en Espagne : deux à Seville, deux à Palma de Mallorca, un à Madrid et un autre à Barcelone. Les membres de l'association espagnole sont un peu plus de 50 membres à plein droit et près de 17 membres associés (en croissance lente, stable et qualitative)._
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Appellations_du_Moniteur_de_Mystere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appellations du Moniteur de Mystère</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-45-hiver-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 45 — Hiver 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/How_big_is_Paradise">
+          <span class="pr-2">Combien grand le Paradis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Marc Benoit<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marc_Benoit/Entretien_avec_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Entretien avec Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-56-automne-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 56 — Automne 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michel_Hubaut/L_hymne_a_l_amour">
+          <span class="pr-2">L’hymne à l’amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 J'ai vu une assemblée merveilleuse resplendissante de beauté et de pureté.
 Dans les premières rangées, se trouvaient toutes les sagouines du monde et puis les drogués,
@@ -99,3 +123,27 @@ Mais seulement des hommes des femmes, des enfants
 Qui s'aimaient, s'aimaient, s'aimaient....
 
 Marc Benoit
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marc_Benoit/Entretien_avec_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Entretien avec Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-56-automne-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 56 — Automne 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michel_Hubaut/L_hymne_a_l_amour">
+          <span class="pr-2">L’hymne à l’amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Simon Orsini<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Tom_Allen/The_Intergalactic_Wanderer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« Le Vagabond Intergalactique »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-91-septembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 91 — Septembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Quelle_Est_La_Dimension_Du_Paradis">
+          <span class="pr-2">Quelle Est La Dimension Du Paradis ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Simon Orsini (Corse — L'ile de beauté)
 
@@ -43,3 +67,27 @@ On ne convaincra pas les religions d'aujourd'hui fossilisées dans des prophéti
 Jésus avait formé Pierre à devenir un enseignant, il avait crée une école de prophètes, où chaque apôtre avait sa propre interprétation, et pourtant enseignait la même vérité. Jésus approuvait ces expériences personnelles. Les apôtres confondaient le mal et le malin, je cite Jésus: « le malin est le fils de l'amour de soi, j'ai déjà vaincu ces rebelles impies. Lordre naturel des choses est parfois désorganisé par l'aventure coupable de certains traîtres, je suis venu pour commencer à établir l’ordre mais il faudra des âges pour réorienter cette partie de l'univers. » Des comportements anormaux se sont produits dans le monde, il nest pas étonnant que beaucoup de penseurs soient perplexes.
 
 L'âme est la fonction de l'homme qui reflète son identité, qui discerne la vérité, qui reçoit l'esprit. Elle élève perpétuellement lê̂tre humain au dessus du monde animal. Tout individu moralement conscient connaît l'existence de son âme.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Tom_Allen/The_Intergalactic_Wanderer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« Le Vagabond Intergalactique »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-91-septembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 91 — Septembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Quelle_Est_La_Dimension_Du_Paradis">
+          <span class="pr-2">Quelle Est La Dimension Du Paradis ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Robert Mondange<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Arnaud_and_Jerome_Pingwende_Zoungrana/LU_au_Burkina_Faso">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia au Burkina Faso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 76 — Décembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominic_Ronfet/Comment_Vivre_Avec_l_Esprit_Ouvert">
+          <span class="pr-2">Comment Vivre Avec l'Esprit Ouvert</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Robert Mondange_
 
@@ -53,4 +77,28 @@ Fraternellement.
 <figure id="Figure_17" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_02/081.jpg">
 <figcaption>Chants religieux à l'office</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Arnaud_and_Jerome_Pingwende_Zoungrana/LU_au_Burkina_Faso">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia au Burkina Faso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 76 — Décembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominic_Ronfet/Comment_Vivre_Avec_l_Esprit_Ouvert">
+          <span class="pr-2">Comment Vivre Avec l'Esprit Ouvert</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

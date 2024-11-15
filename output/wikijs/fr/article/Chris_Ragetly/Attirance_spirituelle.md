@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Chris Ragetly<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/036">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 36 — Printemps 2006 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-36-printemps-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 36 — Printemps 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_Trinite">
+          <span class="pr-2">La Trinité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «_...Il existe une attirance directe de nature spirituelle entre des personnes de mentalité spirituelle ayant les mêmes goûts et les mêmes désirs profonds. Le terme affinité d'esprit n'est pas entièrement une figure de rhétorique._ » ([LU 7:1.6](/fr/The_Urantia_Book/7#p1_6))
 
@@ -21,3 +45,27 @@ Je pense que l'on peut considérer ces échanges comme un avant-goût des époqu
 Ainsi, en décrivant nos expériences spirituelles aux personnes ayant les mêmes goûts, les mêmes désirs profonds et les mêmes affinités d'esprit, nous sommes à même de tirer les plus grandes satisfactions, pour notre édification mutuelle.
 
 C. M. Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/036">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 36 — Printemps 2006 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-36-printemps-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 36 — Printemps 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/La_Trinite">
+          <span class="pr-2">La Trinité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

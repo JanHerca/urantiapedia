@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Guy de Viron<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Alain_Coulombe/Presentation_du_Livre_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Présentation du Livre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 41 — Hiver 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Conte_La_Grange">
+          <span class="pr-2">Conte : La Grange</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 L'amour est considéré comme le bien suprême, la somme de toutes les vertus ordinaires (patience, bonté, générosité, humilité, courtoisie, désintéressement, douceur, simplicité, sincérité ...). Il est le don le plus enviable parce qu'il est le seul bien durable. Dieu, l'Eternel est amour. Il nous faut donc désirer ce don éternel. Faisons passer l'amour avant le reste.
 
@@ -37,3 +61,27 @@ L'affaire la plus importante de notre vie est de posséder l'Amour chrétien, d'
 Ne nous plaignons pas de la main qui veut perfectionner en nous l'ébauche encore imparfaite de l'image du Christ. Chaque jour, à notre insu, cette image croît en beauté. Mêlons-nous donc résolument à la vie. Ne nous isolons pas. Vivons au milieu des hommes, des choses, des ennuis, des difficultés, des obstacles. « Le talent grandit dans la solitude et le caractère dans le courant de la vie «. Le talent, les capacités, dans différents domaines, grandissent dans la solitude. Ainsi en est-il de la capacité de la prière, de la foi, de la méditation, de la vue de l'invisible. Mais le caractère, l'essence même de notre être, grandit dans le courant de la vie de ce monde. Il est essentiel et bon que les hommes doivent apprendre à aimer, à s'aimer.
 
 Guy De Viron
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Alain_Coulombe/Presentation_du_Livre_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Présentation du Livre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 41 — Hiver 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Conte_La_Grange">
+          <span class="pr-2">Conte : La Grange</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

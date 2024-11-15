@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 André Desjardins<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/Parfum_De_Femme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Parfum De Femme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-94-juin-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 94 — Juin 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Pour_Les_Geneticiens">
+          <span class="pr-2">Pour Les Généticiens</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Notre naissance n'est pas parfaite du point de vue spirituel, nous sommes nés dans un monde considéré comme expérientiel et imparfait sous certains rapports mais nous avons la capacité et le privilège de développer nos aptitudes mentales et nos capacités physiques quelles soient matérielles ou spirituelles. Chaque humain peut apprendre à développer ses talents ou ses aptitudes afin dratteindre un niveau dıexpérience de perfectionnement matériel ou spirituel selon ses buts visés. De par sa nature lıhomme a toujours cherché à se perfectionner par évolution, par besoin ou en trouvant des moyens techniques pour améliorer la condition humaine en utilisant moins d'effort physique possible. « Ces efforts interminables de toutes les créatures vivantes prouvent chez elles l'existence d'une recherche innée de la perfection. » Réf.. : [[LU 65:6.2](/fr/The_Urantia_Book/65#p6_2)]
 
@@ -77,3 +101,27 @@ St-Alexis-des-Monts (Québec-Canada)
 > LA VIE EST COURTE, CELA VA DE SOI. ON NE PEUT PRÉVOIR LORSQUE L'ON LA QUITTERA, MAIS ON PEUT DÉCIDER DE SE RÉJOUIR QUOTIDIENNEMENT D'ÊTRES VIVANTS, EN PROFITANT PLEINEMENT DE CE QUE L'EXISTENCE NOUS APPORTE. EN RAYONNANT D'INTENSITÉ, EN PROPAGEANT LE BONHEUR AUTOUR DE SOI. CAR SI L'ON DEMEURE AUTHENTIQUE ENVERS AUTRUI, SI L'ON PROPAGE L'AMOUR JOUR APRÈS JOUR, LORSQUE CE JOUR ARRIVERA, NOUS POURRONS PARTIR EN PAIX...
 > 
 > JOËLLE LAURENCIN
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/Parfum_De_Femme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Parfum De Femme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-94-juin-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 94 — Juin 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/Pour_Les_Geneticiens">
+          <span class="pr-2">Pour Les Généticiens</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

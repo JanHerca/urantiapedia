@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Simon Orsini<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jacques_Rogge/Les_Valeurs_Olympiques">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Valeurs Olympiques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-66-printemps-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 66 — Printemps 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_17_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°17 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **LE PARADIS**
 
@@ -77,3 +101,27 @@ Plus la pensée est élevée, plus il est difficile aux types mentaux humains de
 La forme, l'aspect de la personnalité d'un être humain est celle d'un archétype. Elle implique un dispositif d'énergies qui, additionné, de vie et de mouvement, représente le mécanisme de l'existence de l'homme. Sur notre monde matériel nous pensons à un corps comme ayant un esprit. Dans le monde spirituel on considère l' esprit comme étant pourvu d' un corps. L'esprit est l'architecte, la pensée est le constructeur, le corps est le bâtiment matériel. La pensée domine la matière, mais est dominée par l' esprit ,seule la pensée qui se soumet librement à l'esprit peut espérer survivre à l'existence mortelle dans l'espace temps. N'oublions pas les valeurs de notre héritage, le fleuve de vérité coulant à travers les siècles.
 
 (à suivre)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jacques_Rogge/Les_Valeurs_Olympiques">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Valeurs Olympiques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-66-printemps-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 66 — Printemps 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_17_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°17 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Jean Royer<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joel_Goldsmith/Gift_of_Love_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Don de l’Amour (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-50-printemps-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 50 — Printemps 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_01_Les_reponses">
+          <span class="pr-2">Quiz maxien n°1 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Lorsqu'il entreprend son périple autour de la Méditerranée, Joshua sait qu'il a la double mission de faire connaître Dieu aux hommes et de faire connaître l'homme à Dieu, mais il ne sait pas qui il est lui-même. Ce n'est que progressivement qu'il prend conscience de sa double nature avec comme point d'orgue son baptême où il se voit en gloire.
 
@@ -38,3 +62,27 @@ P.S. « _Lève-toi_ » semble être une formule favorite de Jésus puisque on la
 </figure>
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joel_Goldsmith/Gift_of_Love_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Don de l’Amour (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-50-printemps-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 50 — Printemps 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_01_Les_reponses">
+          <span class="pr-2">Quiz maxien n°1 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

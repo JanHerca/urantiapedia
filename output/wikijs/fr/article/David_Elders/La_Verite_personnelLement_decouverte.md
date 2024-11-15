@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 David Elders<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-82-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 82 — Juin 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/A_La_Recherche_De_L_au_Dela">
+          <span class="pr-2">À La Recherche De L'au-Delả</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 David Elders
 
@@ -117,3 +141,27 @@ La révélation est un cadeau du monde spirituel réel qui transforme de manièr
 Dans un tel contexte, l'école UBIS a été conçue pour utiliser une pédagogie et une méthodologie issues des quatrième et cinquième révélations d'époque basées sur la conviction que les techniques évolutionnaire d'éducation et d'autorité religieuse ne sont pas adaptées à l'expérience et aux perceptions de la vérité révélée. Il est intéressant de considérer que dans un effort pour normaliser la quatrième révélation en tant qu'apport évolutionnaire, les disciples de Jésus ont transformé la religion de Jésus en une religion AU SUJET de Jésus. Combien est-il plus facile encore de le faire avec un livre? En revanche, l'engagement sous-jacent de l'école UBIS est de faciliter la découverte de la vérité révélée par chaque étudiant d'une manière unique, directe et personnelle plutôt que présentée comme une éducation religieuse évolutionnaire interprétée par un enseignant.
 
 Au cours de ses 20 années d'existence, plus de 30 TF UBIS formés ont présenté plus de zoo cours en anglais et 70 autres cours plus récemment en français, espagnol et portugais. UBIS utilise Moodle, une plateforme numérique en ligne utilisée par des millions d'étudiants universitaires du monde entier, pour présenter ses cours en trois trimestres.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-82-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 82 — Juin 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/A_La_Recherche_De_L_au_Dela">
+          <span class="pr-2">À La Recherche De L'au-Delả</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

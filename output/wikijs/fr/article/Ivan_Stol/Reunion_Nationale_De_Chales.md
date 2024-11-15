@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Ivan Stol<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Johan_Vanderalle/Au_Revoir_Bernhard">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Au Revoir Bernhard</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 75 — Septembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti_and_Tor_Eriksen/Rapport_de_l_Assemblee_Generale_2016">
+          <span class="pr-2">Rapport de l'Assemblée Générale 2016</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Thème: Les influences spirituelles.**
 _2 au 5 juin 2016_
@@ -31,3 +55,27 @@ La prochaine fois, j'espère que nous aborderons les influences de l'Esprit de V
 
 Au plaisir de se revoir
 **Ivan**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Johan_Vanderalle/Au_Revoir_Bernhard">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Au Revoir Bernhard</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 75 — Septembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti_and_Tor_Eriksen/Rapport_de_l_Assemblee_Generale_2016">
+          <span class="pr-2">Rapport de l'Assemblée Générale 2016</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

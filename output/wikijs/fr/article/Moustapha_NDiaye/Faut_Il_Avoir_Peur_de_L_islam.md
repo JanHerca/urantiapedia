@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Moustapha NDiaye<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 75 — Septembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Breves_Reflexions_Sur_Le_Temps">
+          <span class="pr-2">Brèves Réflexions Sur Le Temps</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Les récents massacres commis en Amérique du Nord, en Europe mais aussi au Proche Orient suscitent une vague d'incompréhension et d'indignation dans le monde entier. Cette violence islamiste liée au Djihadisme est revendiquée et justifiée au nom d'un Islam rigoureux par ceux qui commettent ces massacres de masse.
 
@@ -64,3 +88,27 @@ Mes études supérieures en France ont coïncidé avec un intérêt accru et tr�
 Depuis lors au gré de mes nombreuses opportunités de voyage à l'étranger dans le cadre professionnel, et des opportunités qu'elles offraient, j'ai pu davantage rencontrer des lecteurs de différents pays et continents, et établir avec mes frères en esprit du Sénégal, un cadre d'enseignement et d'éducation spirituelle dans un milieu à forte dominante islamique, mais très tolérant par culture.
 
 Marié et père de deux garçons et d'une fille, qui ont tous été élevés, autant dans la tradition religieuse de leur pays, que dans l'ouverture au village planétaire qu'est devenu Urantia, j'essaie de trouver ce sens jadis recherché en vain dans les livres, dans une relation vivante avec le Père à travers toutes les opportunités de vie familiale, sociale ou internationale, qu'll aura suscité en tant qu'Ajusteur dans mon mental ou en tant que Dieu Suprême dans ma destinée.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 75 — Septembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Breves_Reflexions_Sur_Le_Temps">
+          <span class="pr-2">Brèves Réflexions Sur Le Temps</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

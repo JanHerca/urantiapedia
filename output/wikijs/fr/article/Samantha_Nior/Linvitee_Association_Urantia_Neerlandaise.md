@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Samantha Nior<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_Billet_du_President_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Billet du Président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-46-printemps-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 46 — Printemps 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Niveaux_de_realisation">
+          <span class="pr-2">Niveaux de réalisation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 L'Association Urantia Néerlandaise a été créée aux Pays-Bas en **février 2007** par Karen **Huigsloot**, John **van den Hout** et Samantha **Nior**. Contrairement aux autres associations (nous sommes sous la forme d'une fondation) nous avons choisi la forme d'une organisation sans membres inscrits. Aux Pays-Bas, une organisation ayant des membres est obligée avec leur participation d'organiser beaucoup d'activités. Nous préférons utiliser le temps que cela prendrait à nous consacrer à nos objectifs. En conséquence, nous sommes tributaires de donations et de dons.
 
@@ -32,3 +56,27 @@ _Le 24 février 2009, pour le Comité d'Administration de l'Association des Pays
 _Aimablement traduit par Claire Mylanus_
 
 Samantha Nior
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_Billet_du_President_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Billet du Président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-46-printemps-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 46 — Printemps 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Niveaux_de_realisation">
+          <span class="pr-2">Niveaux de réalisation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

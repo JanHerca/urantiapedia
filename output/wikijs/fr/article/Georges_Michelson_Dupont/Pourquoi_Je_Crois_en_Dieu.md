@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Georges Michelson Dupont<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/La_Sagesse_De_Creer_Des_Races_Inegales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Sagesse De Créer Des Races Inégales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-99-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 99 — Septembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/La_personnalite_humaine_3">
+          <span class="pr-2">La Personnalité Humaine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **L'EXPÉRIENCE D'UNE VIE**
 
@@ -59,3 +83,27 @@ Avec le temps j'ai appris à considérer les difficultés, les « inévitabilit�
 > « Le courage — la force de caractère — est-il désirable ? Alors, il faut que l'homme soit élevé dans un environnement qui l'oblige à s'attaquer à de dures épreuves et à réagir aux désappointements. » ([LU 3:5.6](/fr/The_Urantia_Book/3#p5_6))
 
 Je conclurais par la citation suivante « Il n'y a pas de plus grande affliction que de n'être jamais affligé ».
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sophie_Malicot/La_Sagesse_De_Creer_Des_Races_Inegales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Sagesse De Créer Des Races Inégales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-99-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 99 — Septembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/La_personnalite_humaine_3">
+          <span class="pr-2">La Personnalité Humaine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

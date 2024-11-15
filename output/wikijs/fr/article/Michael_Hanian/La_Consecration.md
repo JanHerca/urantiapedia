@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Michael Hanian<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/George_Michelson_Dupont/Reunion_des_traducteurs_du_Livre_dURANTIA">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion des traducteurs du Livre d’URANTIA organisée par la Fondation URANTIA à PARIS en Avril 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-2-automne-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 2 — Automne 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Discours prononcé par Michael Hanian à la conférence de Nashville 1996_
 
@@ -66,3 +87,24 @@ Nous nous sommes intéressés, les 20 et quelques dernière minutes, à la cons�
 
 
 > « La religion primitive était largement une conscience des valeurs matérielles, mais la civilisation élève les valeurs religieuses, car la vraie religion est la consécration de soi au service des valeurs significatives et suprêmes. À mesure que la religion évolue, l'éthique devient la philosophie de la morale, et la moralité devient la discipline de soi par les critères des significations supérieures et des valeurs suprêmes — des idéaux divins et spirituels. La religion devient ainsi une dévotion spontanée et touchante, l'expérience vivante de la fidélité de l'amour. » [LU 92:7.5](/fr/The_Urantia_Book/92#p7_5)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/George_Michelson_Dupont/Reunion_des_traducteurs_du_Livre_dURANTIA">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion des traducteurs du Livre d’URANTIA organisée par la Fondation URANTIA à PARIS en Avril 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-2-automne-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 2 — Automne 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

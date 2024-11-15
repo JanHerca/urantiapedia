@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Cris Ragetly<br>© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Assemblee_Generale_Extraordinaire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Assemblée Générale Extraordinaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-71-automne-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 71 — Automne 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Groupe_d_etude_interactif_1">
+          <span class="pr-2">Groupe d'étude interactif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > AVERTISSEMENT: Nous reproduisons un texte de Chis Ragetly, un étudiant assidu de la révélation, d'origine anglo-saxonne qui vécut une grande partie de sa vie dans le sud de la France. Il mourut dans les premiers jours de mai 2010. Les citations du _Livre d'Urantia_ sont en italique et les enrichissements du texte sont de l'auteur.
 {.is-warning}
@@ -55,4 +79,28 @@ Cris M. Ragetly
 <figure id="Figure_14" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Le_Lien/images_02/014.jpg">
 <figcaption><b>La Trinité</b><br>Trinité triandrique, Lectionnaire de la Sainte-Chapelle de Bourges, Paris entre 1404 et 1416, BM de Bourges.<br>Chaque Personne divine porte une tiare à triple couronne et les Trois bénissent et tiennent ensemble le globe de l'univers.<br><em>Moyen Âge en lumière</em>, Fayard. 2002.</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Assemblee_Generale_Extraordinaire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Assemblée Générale Extraordinaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-71-automne-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 71 — Automne 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Groupe_d_etude_interactif_1">
+          <span class="pr-2">Groupe d'étude interactif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

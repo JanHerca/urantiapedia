@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Agnès Lazar<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_06_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quiz maxien n°6 Les questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-55-été-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 55 — Été 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_Bourhis/Le_Livre_Bleu">
+          <span class="pr-2">Le Livre Bleu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Depuis le début de ma lecture du livre d'Urantia, un texte a étrangement attiré mon attention : Handicaps Matériels au Séjour des Ajusteurs. J'ai pris intellectuellement connaissance de ce qui pouvait ralentir ma progression spirituelle et voulais trouver le moyen de pénétrer dans l'expérience de la libération graduelle de mon espace mental, offrant à mon Ajusteur plus de liberté d'action. Qu'il soit le Pilote de mon navire était une nécessité à ma vie. Il est dit que les faits éduquent l'homme. J'ai donc analysé ceux qui ont jalonnés mon existence.
 
@@ -27,3 +51,27 @@ Je vis l'immanence de Dieu, ce contact intime par lequel je goûte à Sa Nature 
 Je demande quotidiennement à Dieu qu'Il me montre clairement mes dons et comment je peux les utiliser pour Le servir et servir les hommes...
 
 Agnès Lazar
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_06_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quiz maxien n°6 Les questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-55-été-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 55 — Été 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_Bourhis/Le_Livre_Bleu">
+          <span class="pr-2">Le Livre Bleu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

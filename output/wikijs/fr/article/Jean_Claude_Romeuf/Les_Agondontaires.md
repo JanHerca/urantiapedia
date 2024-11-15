@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Jean-Claude Romeuf<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anatole_France/A_la_lumiere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A la lumière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-62-printemps-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 62 — Printemps 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Amour_Le_Coeur_De_Dieu">
+          <span class="pr-2">Amour : Le Cœur De Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Quelle chance vous avez, vous, les agondontaires car vous vous verrez « _confier très tôt de nombreuses affectations spéciales dans des entreprises cosmiques où une foi incontestée et une confiance sublime sont essentielles pour réussir._ »
 
@@ -37,3 +61,27 @@ Tant pis peut-être pour la carrière de Puissant Messager!Mais en tout cas, c'e
 > « _Vous autres mortels qui lisez ce message, vous pouvez vous-même monter au Paradis, atteindre l'embrassement de la Trinité et, dans des âges lointains du futur, être attachés au service des Anciens des Jours dans l'un des sept superunivers._ » [LU 22:4.7](/fr/The_Urantia_Book/22#p4_7)
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anatole_France/A_la_lumiere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A la lumière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-62-printemps-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 62 — Printemps 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Amour_Le_Coeur_De_Dieu">
+          <span class="pr-2">Amour : Le Cœur De Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

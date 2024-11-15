@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Max Masotti<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le coin de Frère Dominique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-40-automne-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 40 — Automne 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Petites_bulles_morontielles">
+          <span class="pr-2">Petites bulles morontielles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A l'occasion de l'anniversaire de Micaël, Éliane Grivet a eu la gentillesse de nous accueillir, pour la deuxième fois, chez elle au Pontet, près d'Avignon.
 
@@ -25,3 +49,27 @@ Cela nous conforte dans l'idée qu'il serait encourageant de répéter cet exemp
 Encore un grand merci à Éliane qui n'a pas économisé son énergie pour nous offrir ce bon repas qui a permis de nous réunir dans l'amitié et la fraternité.
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le coin de Frère Dominique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-40-automne-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 40 — Automne 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Petites_bulles_morontielles">
+          <span class="pr-2">Petites bulles morontielles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

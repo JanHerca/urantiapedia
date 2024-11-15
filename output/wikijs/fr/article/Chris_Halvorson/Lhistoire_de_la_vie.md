@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Chris Halvorson<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/La_Tulipe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Tulipe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-39-été-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 39 — Été 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Souvenirs_Souvenirs_01">
+          <span class="pr-2">Souvenirs Souvenirs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le _Livre d'Urantia_ offre une vue d'ensemble de l'histoire géologique de notre planète, Urantia (voir les fascicules 57 à 61). Toute présentation systématique de l'histoire géologique est construite dans le cadre d'une échelle de temps géologique, un fractionnement de toute la durée du temps géologique en un ensemble de divisions hiérarchiques lié à une séquence de dates absolues. L'échelle de temps géologique qu'implique la vue d'ensemble du _Livre d'Urantia_ est indiquée dans le tableau de la page qui suit.
 
@@ -60,3 +84,27 @@ Comme conséquence de la clarification dans le Livre d'Urantia des dates absolue
 Chris M. Halvorson
 
 (Traduction : Jean Royer)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/La_Tulipe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Tulipe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-39-été-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 39 — Été 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Souvenirs_Souvenirs_01">
+          <span class="pr-2">Souvenirs Souvenirs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

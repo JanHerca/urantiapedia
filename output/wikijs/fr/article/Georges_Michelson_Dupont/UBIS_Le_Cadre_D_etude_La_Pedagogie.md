@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Georges Michelson-Dupont<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/La_Partie_Fait_Progresser_Le_Tout">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Partie Fait Progresser Le Tout</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-78-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 78 — Juin 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Chappuis/Surpopulation_Planetaire">
+          <span class="pr-2">Surpopulation Planétaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Cette présentation porte sur l'importance d'étudier Le Livre d'Urantia avec d'autres personnes dans un cadre stimulant, avec une méthode dynamique et progressive. Prendre au sérieux le fait que nous sommes exposés aux enseignements du Livre d'Urantia, nous donne l'immense opportunité de devenir une meilleure personne en développant notre conscience cosmique et en améliorant notre perception spirituelle, c'est-à-dire de mieux comprendre et de vivre la volonté du Père céleste.
 
@@ -135,3 +159,27 @@ Directeur de l'école UBIS
 > Si votre réponse à ces interrogations est OUI, alors l'école UBIS est pour vous. Rejoignez-nous et goûtez à la joie de rencontrer des étudiants du monde entier dans un cadre d'étude fraternel à l'adresse suivante:
 > ubis.urantia.org
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/La_Partie_Fait_Progresser_Le_Tout">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Partie Fait Progresser Le Tout</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-78-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 78 — Juin 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Andre_Chappuis/Surpopulation_Planetaire">
+          <span class="pr-2">Surpopulation Planétaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

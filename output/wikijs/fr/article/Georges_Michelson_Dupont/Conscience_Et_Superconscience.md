@@ -9,6 +9,27 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Georges Michelson Dupont<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/La_Terre_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Terre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-97-mars-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 97 — Mars 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Très souvent nous lisons que notre Ajusteur de Pensée travaille à nous spiritualiser sans que nous en ayons conscience.
 
@@ -59,3 +80,24 @@ Sur les mondes éducatifs des superunivers et sur Havona, se manifestent donc un
 **Association Ajusteurs de Pensé et Esprits Inspirés**
 
 > « Cela fait supposer que les Ajusteurs de Pensée sont reliés d'une certaine manière aux Esprits Inspirés de la Trinité du Paradis ou en contact avec eux. Ils sont peut-être associés avec eux dans certaines phases de leur travail, mais nous ne le savons pas vraiment. Ils ont tous deux leur origine près de la source et centre de toutes choses, mais ne sont pas des êtres du même ordre. Les Ajusteurs de Pensée sont issus du Père seul; les Esprits Inspirés descendent de la Trinité du Paradis. [LU 19:5.6](/fr/The_Urantia_Book/19#p5_6)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Simon_Orsini/La_Terre_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Terre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-97-mars-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 97 — Mars 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

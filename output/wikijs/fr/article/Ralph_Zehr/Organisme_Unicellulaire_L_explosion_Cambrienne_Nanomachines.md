@@ -9,6 +9,27 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Ralph Zehr<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Symposium_Scientifique_2016_a_Chicago">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Symposium Scientifique 2016 à Chicago</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 75 — Septembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Ralph D. Zehr
 
@@ -313,3 +334,24 @@ Tant de parties mobiles et qui vont si vite! Cela rappelle une expérience d'ass
 14. Krimm, Samuel; Bandekar, J. (1986). « Vibrational Spectroscopy and Confirmation of Peptides, Polypeptides, and Proteins ». Advances in Protein Chemistry. Advances in Protein Chemistry 38 (C): 181 — 364.
 15. Lodish, H, et.al, <ins>Molecular Cell Biology</ins>, W H Freeman and Company, New York, NY (2013) p. 833 .
 16. Lodish, H, et.al, <ins>Molecular Cell Biology</ins>, W H Freedman and Company, New York, NY (2013) p. 547 .
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Symposium_Scientifique_2016_a_Chicago">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Symposium Scientifique 2016 à Chicago</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 75 — Septembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

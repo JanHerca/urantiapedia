@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Tom Allen<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_20">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-91-septembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 91 — Septembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Les_Prophetes">
+          <span class="pr-2">Les Prophètes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Une Hypothèse Sur La Localisation D'uversa
 
@@ -189,4 +213,28 @@ Merci, Père et Mère. Et merci à tous les ministres et administrateurs qui ont
 <img src="/image/article/Le_Lien/images_03/040.jpg">
 <figcaption>Les amas globulaires comme NGC 2419, visibles sur cette image prise avec le télescope spatial Hubble de la NASA/ESA, sont non seulement magnifiques, mais aussi fascinants. Ce sont des groupes d'étoiles sphériques qui gravitent autour du centre d'une galaxie ; dans le cas de NGC 2419, cette galaxie est la Voie lactée. NGC 2419 se trouve à environ 300000 années-lumière du système solaire, dans la constellation Lynx (le Lynx).<br><a href="https://spacetelescope.org/images/potw1908a/">https://spacetelescope.org/images/potw1908a/</a>
 </figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_20">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-91-septembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 91 — Septembre 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Les_Prophetes">
+          <span class="pr-2">Les Prophètes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

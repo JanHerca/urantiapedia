@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/L_Eternel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Eternel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-54-printemps-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 54 — Printemps 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/La_Deite">
+          <span class="pr-2">La Déité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 L'efficacité est la capacité de produire quelque chose, d'atteindre les résultats désirés tout en maintenant à son plus haut niveau ce qui permet cette production. Pour être efficace il faut deux éléments : ce qui est produit et ce qui a la capacité de produire. Celui qui ne se centre pas sur lobjectif et néglige les moyens n'ira pas bien loin. D’où la nécessité de prendre de bonnes habitudes.
 
@@ -60,3 +84,27 @@ Ne pas se croire un nouvel Atlas, portant le monde sur nos épaules. Nous ne som
 Décidons d'aimer notre métier. Ainsi, il deviendra un plaisir. Peut-être ne sommes-nous pas obligés d'en changer. Quand nous serons changés, notre travail semblera différent. Adoptons une méthode de travail et respectons-la. Le travail désordonné crée l'impression dêtre débordé.
 
 Extraits Marvin Gawryn et Cie
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/L_Eternel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Eternel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-54-printemps-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 54 — Printemps 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/La_Deite">
+          <span class="pr-2">La Déité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

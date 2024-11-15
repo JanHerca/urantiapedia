@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Marvin Gawryn<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/Les_Apotres_Le_Lion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Apôtres – Le Lion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-49-hiver-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 49 — Hiver 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Joel_Goldsmith/Gift_of_Love">
+          <span class="pr-2">Don de l’Amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Les émotions sont des réactions de sentiments vis à vis de la réalité ayant un impact sur toutes les parties vis-à-vis de la personnalité. Certaines émotions initient une réaction psychologique instinctive dans notre corps. Lorsque nous faisons l'expérience d'émotions positives telles que l'amour ou la joie, notre corps en est vivifié, notre mental purifié et notre âme épanouie. Par contre, les émotions négatives telles que la colère ou la peur dégradent notre corps, empoisonnent notre mental, diminuent notre âme et font obstacle à tout apport spirituel. Chez la personnalité mature, la volonté et l'esprit dirigent la marche, tandis que les émotions sont canalisées vers des objectifs plus élevés.
 
@@ -39,3 +63,27 @@ Si la volonté est inactive dans la vie émotionnelle, notre recherche est faibl
 Cependant, si nous nous prenons en charge et ouvrons nos personnalités aux gouvernes de l'esprit, un large éventail d'émotions supérieures peut commencer à régner dans nos vies intérieures. Bien sûr, les émotions « naturelles » continuent à se produire, mais avec le temps, nous pouvons commencer d'une manière plus consciente à guider le cours général de nos émotions. L'esprit peut alors commencer à stabiliser puis à élever nos vies intérieures.
 
 Marvin Gawryn
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/Les_Apotres_Le_Lion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Apôtres – Le Lion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-49-hiver-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 49 — Hiver 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Joel_Goldsmith/Gift_of_Love">
+          <span class="pr-2">Don de l’Amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

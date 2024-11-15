@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Chris Ragetly<br>© 2005 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anne_Marie_Ronfet/La_recherche_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La recherche de Dieu est la recherche de ses trois valeurs : vérité beauté bonté</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-33-printemps-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 33 — Printemps 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Il existe sans doute plusieurs raisons pour que les archanges aient installé un quartier divisionnaire sur Urantia.
 
@@ -24,3 +45,24 @@ Je suis sûr qu'il existe bien d'autres raisons quant à l'existence de ce quart
 Quelles sont ces activités ascensionnelles qui seront liées à l'existence de ce quartier général divisionnaire des archanges sur Urantia? Je crois qu'il faut ici se débarrasser complètement de notre notion mortelle du temps. Ces « autres activités » ne peuvent survenir que dans une fourchette de temps qui ne peut se situer que dans un nombre d'années assez considérable, plusieurs millions, on peut aussi penser que la promesse personnelle du Maître « Je reviendrai » pourrait inaugurer de telles activités. A cette époque lointaine, il n'est pas impossible qu'Urantia soit rétabli dans les circuits cosmiques normaux et que l'affaire de Lucifer \& Co, soit depuis longtemps classée. Il n’est pas impossible aussi que ces « activités ascensionnelles » aient à voir avec le plan d'ascension d'évasion terrestre des mortels des ordres d’ascension secondaires modifiés ([LU 49:6.15-17](/fr/The_Urantia_Book/49#p6_15)) et des mortels de l'ordre d'ascension primaire modifié [LU 49:6.18-22](/fr/The_Urantia_Book/49#p6_18). Comme il peut aussi s’agir d'activités dont nous n’avons aucune idée.
 
 Chris M. Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anne_Marie_Ronfet/La_recherche_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La recherche de Dieu est la recherche de ses trois valeurs : vérité beauté bonté</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-33-printemps-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 33 — Printemps 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

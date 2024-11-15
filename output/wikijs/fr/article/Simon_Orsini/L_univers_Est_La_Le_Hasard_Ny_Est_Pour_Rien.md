@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Simon Orsini<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-80-décembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 80 — Décembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Le_Terme_Tension_Peut_Il_nous_Eclairer_sur_la_Trinite">
+          <span class="pr-2">Le Terme « Tension » Peut-Il nous Éclairer sur la Trinité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le monde nest pas apparu par un coup de baguette magique d'une soi-disant nature, mais par un Créateur dont le dessein a été réalisé par des subordonnés. L'organisation de l'univers est intelligente, il faut donc qu'elle ait la même origine.
 
@@ -120,3 +144,27 @@ Je vous ai fait part, des révélations qui ont eu lieu à toutes les époques.
 La conclusion est simple. Si vous n'êtes toujours pas convaincu, vous ne reverrez jamais vos enfants, vos parents, vos amis, et cela à cause d'une simple décision négative au lieu d'être une décision positive, croire ou ne pas croire.
 
 Simon Orsini
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Editorial_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-80-décembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 80 — Décembre 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Le_Terme_Tension_Peut_Il_nous_Eclairer_sur_la_Trinite">
+          <span class="pr-2">Le Terme « Tension » Peut-Il nous Éclairer sur la Trinité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

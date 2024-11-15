@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Jacques Dupont<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Yves_Vigneron/Conception_artistique_du_Maitre_Univers_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conception artistique du Maitre Univers (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-3-hiver-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 3 — Hiver 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francois_Dupont/Bruno_Bettelheim_et_notre_epoque_angoissee">
+          <span class="pr-2">Bruno Bettelheim et notre époque angoissée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le Livre précise qu'une révélation complète ne serait guère désirable. Il vaut mieux que les hommes ne reçoivent pas une révélation excessive ; cela étouffe l'imagination et priverait les penseurs du prochain millénaire de la spéculation créative. (Voir [UB 0:1.2](/en/The_Urantia_Book/0#p1_2))
 
@@ -147,3 +171,27 @@ _C'est la Personnalité de Dieu, qui contrôle l'univers des univers_
 Je remercie à l'avance, celles et ceux qui voudront bien me faire partager leur point de vue.
 21 Janvier 1996
 Jacques Dupont — Recloses
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Yves_Vigneron/Conception_artistique_du_Maitre_Univers_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conception artistique du Maitre Univers (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-3-hiver-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 3 — Hiver 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francois_Dupont/Bruno_Bettelheim_et_notre_epoque_angoissee">
+          <span class="pr-2">Bruno Bettelheim et notre époque angoissée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Tanja Konnerth<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Christian_Boucher/Pages_Lyriques">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pages Lyriques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_02_Les_reponses">
+          <span class="pr-2">Quiz maxien n°2 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Dépasser les différences d'opinion.** Il est possible que de simples divergences d'opinions soient à la base de la plupart de nos disputes. Ne serait-il pas souhaitable d'entrer moins souvent en conflit avec les autres à tout propos?
 
@@ -39,3 +63,28 @@ dateCreated: 2024-09-29T14:02:03.086Z
 **Nous sommes peut-être du même avis.** Il est, la plupart du temps, tout à fait possible de discuter tranquillement avec son interlocuteur. Nous pouvons simplement demander à l'autre son avis, puis poursuivre la discussion en commentant celui-ci de manière objective. Dans de nombreux cas, les disputes sont inutiles :l'important pour nous est d'échanger vos points de vue, de dialoguer, dans le calme. Et finalement, nous nous rendrons peut-être compte que nous êtes du même avis.
 
 Tanja Konnerth
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Christian_Boucher/Pages_Lyriques">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pages Lyriques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_02_Les_reponses">
+          <span class="pr-2">Quiz maxien n°2 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

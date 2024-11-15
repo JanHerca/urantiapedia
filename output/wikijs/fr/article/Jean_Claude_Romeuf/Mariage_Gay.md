@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Jean-Claude Romeuf<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Regles_pour_etre_humain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Règles pour être humain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-63-été-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 63 — Été 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_14_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°13 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Il y a des soirs où l'on est un peu fatigué, par le travail, par la lassitude de se retrouver seul chez soi et par le sentiment que le monde entier fait du sur place, que les idées ébauchées par les amis ne ressemblent en rien aux idéaux que l'on voudrait voir surgir tout d'un coup de leurs lèvres. Alors, on se prépare un bon repas et l'on s'assied tristement en buvant deux ou trois verres de bon vin.
 
@@ -23,3 +47,27 @@ Ce soir-là, je me mis à écrire sur internet, les quelques phrases que voici :
 Si ce n'était pas le cas, Dieu ne me laisserait pas tout seul pour accomplir cette tâche vers lui car il n'est pas bon de vivre dans la solitude. Un ange peut-être ou une autre créature céleste avec laquelle pour l'instant, je n'ai aucune affinité et qui n'a pas la moindre ressemblance terrestre avec moi, partagera peut-être ma route vers le Paradis. Aussi, loin de juger ceux qui n'expriment pas ici-bas les mêmes attirances sexuelles que moi, je veux être leur porte-parole et les encourager dans leur choix. Ce qui importe c'est l'amour qu'un être peut ressentir pour un autre, car en aimant l'autre il aime aussi son Père Éternel et tant pis pour les usages de la civilisation et les coutumes ancestrales ! Seul importe l'amour! Quand l'amour est présent, il n'y a aucun besoin de se pencher sur une moralité personnelle ou une éthique sociale. Dieu se fiche pas mal de la manière de L'approcher, pourvu que l'amour soit présent ! Je vous embrasse tous, vous qui ne partagez pas forcément ce que je viens de dire, porque a cada uno, su camino.
 
 Jean-Claude  Romeuf 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Regles_pour_etre_humain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Règles pour être humain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-63-été-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 63 — Été 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_14_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°13 Les réponses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

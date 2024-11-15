@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/La_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-65-hiver-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 65 — Hiver 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Medecin_de_guerre">
+          <span class="pr-2">Médecin de guerre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_01/183.jpg">
@@ -29,3 +53,27 @@ Conçue comme fleur de lotus à peine entrouverte, l’ouvre comprend 27 pétale
 ***Visiteurs***
 
 Depuis son ouverture en décembre 1986, le Temple du Lotus reçoit de très nombreux visiteurs, indiens et étrangers, touristes comme pèlerins, hommes et femmes de croyances et religions différentes. Il reçoit en moyenne **quatre millions** de visiteurs par an, surtout durant la saison des festivals hindous.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/La_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-65-hiver-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 65 — Hiver 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Medecin_de_guerre">
+          <span class="pr-2">Médecin de guerre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

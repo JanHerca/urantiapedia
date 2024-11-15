@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Chris Ragetly<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/L_art_de_benir">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’art de bénir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-60-automne-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 60 — Automne 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/Sur_les_pas_de_Jesus_fiction">
+          <span class="pr-2">Sur les pas de Jésus (fiction)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _... Nous constatons que les limites supérieures du développement spirituel, associé au mental humain en évolution, sont déterminées par la fusion avec l'Ajusteur à un niveau où les valeurs morontielles et les significations cosmiques sont réunies. Mais, en ce qui concerne la sagesse, sans pouvoir dire que nous le sachions, nous conjecturons qu'il ne peut jamais y avoir de limites à l'évolution intellectuelle et à l'acquisition de la sagesse. Sur un monde au septième stade, la sagesse peut épuiser les potentiels matériels, aborder la perspicacité de la mota et même avoir finalement un goût de grandeur absonite._ Remarquons qu'il existe une limite au développement spirituel lorsque les valeurs morontielles et les significations cosmiques sont réunies. Lorsque le développement spirituel a atteint ses limites, lorsque nous nous trouverons en présence du Père Éternel au Paradis, juste avant d'être admis dans le Corps de la Finalité, cet état de fait nous permettra de développer notre sagesse et notre mental intellectuel en une progression sans fin sur tous les niveaux futurs (suprêmes, ultimes et coabsolus) où nous aurons à servir. [LU 55:6.5](/fr/The_Urantia_Book/55#p6_5)
 
@@ -33,3 +57,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 > _Quand des Ajusteurs de Pensée habitent le mental humain, ils apportent avec eux les carrières modèles, les vies idéales, telles qu'elles ont été déterminées et préordonnées par eux-mêmes et les Ajusteurs Personnalisés de Divinington, et dont la validité a été confirmée par l'Ajusteur Personnalisé d'Urantia. Ils commencent donc à travailler avec un plan défini et prédéterminé pour le développement intellectuel et spirituel de leur sujet humain, mais nul être humain n'est obligé d'accepter ce plan. Vous êtes tous des sujets prédestinés, mais il n'est pas ordonné d'avance que vous deviez accepter cette prédestination divine. Vous êtes pleinement libres de rejeter tout ou partie du programme des Ajusteurs de Pensée._ Ce qui est intéressant, c'est que nous sommes des êtres dont les potentiels mentaux sont à la disposition des Moniteurs de Mystère, pour que ceux-ci puissent définir un plan divin idéal de l'évolution d'un mental donné. Nous sommes donc des êtres dont un plan d'évolution divin a été mis au point. Au début de notre vie matérielle nous sommes totalement inconscients de ce plan, mais au fur et à mesure de notre progression intellectuelle et spirituelle nous devenons de plus en plus conscients des efforts de notre Moniteur de Mystère pour essayer de mettre en pratique ce plan, avec notre consentement. [LU 110:2.1](/fr/The_Urantia_Book/110#p2_1)
 
 Chris Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/L_art_de_benir">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’art de bénir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-60-automne-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 60 — Automne 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/Sur_les_pas_de_Jesus_fiction">
+          <span class="pr-2">Sur les pas de Jésus (fiction)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

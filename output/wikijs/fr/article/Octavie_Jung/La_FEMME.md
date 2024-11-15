@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Octavie Jung<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_Bourhis/Le_Livre_Bleu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre Bleu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-55-été-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 55 — Été 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/L_annee_1955_le_LU_et_le_poete">
+          <span class="pr-2">L’année 1955, le Livre d’Urantia….et le poète</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Origine, cheminement, aboutissement....
 
@@ -158,3 +182,27 @@ Devoir du couple de montrer leur largesse :
 Les réunir pour son honneur et leur bonheur...
 
 Octavie Jung
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_Bourhis/Le_Livre_Bleu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre Bleu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-55-été-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 55 — Été 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/L_annee_1955_le_LU_et_le_poete">
+          <span class="pr-2">L’année 1955, le Livre d’Urantia….et le poète</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

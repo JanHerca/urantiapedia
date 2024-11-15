@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Jean Royer<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Paroles_sages_Khalil_Gibran">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paroles sages (Khalil Gibran)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-66-printemps-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 66 — Printemps 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Armand_Hourtal/Le_Projet_de_Vie">
+          <span class="pr-2">Le Projet de Vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La version espagnole de **Wikipedia**, à l'article **El Libro de Urantia** donne une douzaine de points scientifiques dont il affirme qu'ils ont été démontrés faux par la science.
 
@@ -43,3 +67,27 @@ Une dernière chose, mais là totalement erronée, l'avant dernière critique de
 J'ajouterais à cette fausse information une autre légende qui continue à fleurir sur le net selon laquelle le LU parlerait de 48 chromosomes alors que l'on sait que l'homme a 46 chromosomes. Là encore, une lecture attentive montre que le LU ne parle nulle part de 48 chromosomes par rapport à l'homme mais de quarante-huit unités de contrôle archétypal, les déterminateurs de caractéristiques en évitant soigneusement d'utiliser le terme chromosome qu'il connaît cependant.
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Paroles_sages_Khalil_Gibran">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paroles sages (Khalil Gibran)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-66-printemps-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 66 — Printemps 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Armand_Hourtal/Le_Projet_de_Vie">
+          <span class="pr-2">Le Projet de Vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

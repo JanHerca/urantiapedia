@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Chris Ragetly<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Edito_Cest_ecrit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edito : C'est écrit !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-45-hiver-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 45 — Hiver 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Linvitee">
+          <span class="pr-2">L'invitée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Citations du _Livre d'Urantia_ en italique; certains passages importants sont en gras.)
 
@@ -48,3 +72,27 @@ Les trois stades de progrès des Moniteurs de Mystère sont :
 > _...***La croissance spirituelle de l'âme*** prend place tout à fait indépendamment de sa conscience intellectuelle de soi._ [LU 5:3.7](/fr/The_Urantia_Book/5#p3_7)
 
 > _Les secrets d'Ascendington comprennent le mystère de la construction graduelle et certaine, dans le mental matériel et mortel, d'une contrepartie spirituelle et potentiellement immortelle du caractère et de l'identité. Ce phénomène est un des plus troublants mystères des univers, à savoir ***l'évolution d'une âme immortelle dans le mental d'une créature mortelle*** et matérielle._ [LU 13:1.22](/fr/The_Urantia_Book/13#p1_22)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Edito_Cest_ecrit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edito : C'est écrit !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-45-hiver-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 45 — Hiver 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Linvitee">
+          <span class="pr-2">L'invitée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

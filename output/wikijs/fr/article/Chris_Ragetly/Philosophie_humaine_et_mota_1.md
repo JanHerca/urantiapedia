@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Chris Ragetly<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rene_Roman/Linvite_Association_Urantia_Chilienne">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'invité : Association Urantia Chilienne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-47-été-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 47 — Été 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Murielle_Duchene/Rencontre_du_21_02_09">
+          <span class="pr-2">Rencontre du 21.02.09</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > La mota est la technique du niveau morontiel... L'approche morontielle aplanit toutes les divergences entre les découvertes des sciences physiques et le fonctionnement de l'esprit de religion... La mota est une sensibilité à la réalité supramatérielle qui commence à compenser une croissance incomplète ; elle a pour substance la connaissance-raison et pour essence la foi-clairvoyance. La mota est une réconciliation superphilosophique des perceptions divergentes de la réalité ([LU 103:6.7](/fr/The_Urantia_Book/103#p6_7))
 
@@ -97,3 +121,27 @@ L'expérience est le maître mot de notre vie, et l'expérience finie est le niv
 (à suivre)
 
 Chris Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rene_Roman/Linvite_Association_Urantia_Chilienne">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'invité : Association Urantia Chilienne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-47-été-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 47 — Été 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Murielle_Duchene/Rencontre_du_21_02_09">
+          <span class="pr-2">Rencontre du 21.02.09</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

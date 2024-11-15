@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Max Masotti<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pasteur_Louis_Pernot/Le_Notre_Pere_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le « Notre Père»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/La_philosophie_qui_sauve">
+          <span class="pr-2">La philosophie qui sauve</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Univers Central**
 
@@ -39,3 +63,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 16. Lorsque Jésus et ses frères reçurent le baptême de Jean, les quatre hommes entendirent un son étrange une apparition se montra quelques instants, immédiatement au-dessus de la tête de Jésus, et ils entendirent une voix qui disait : « Celui-ci est mon fils bien-aimé en qui j'ai trouvé mon plaisir. » Quelles sont les personnes qui ont vue cette apparition ?
 
 Max Masotti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pasteur_Louis_Pernot/Le_Notre_Pere_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le « Notre Père»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/La_philosophie_qui_sauve">
+          <span class="pr-2">La philosophie qui sauve</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

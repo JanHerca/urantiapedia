@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/La_consecration_du_choix">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La consécration du choix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-67-été-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 67 — Été 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/En_Toi">
+          <span class="pr-2">En Toi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 L'amour de soi n'encourage pas au recroquevillement égoïste. C'est un amour destiné à s'épanouir dans un ébrasement à l'autre. C'est l'amour que je me dois au quotidien pour jouir de la vie et aimer les autres.
 
@@ -27,3 +51,27 @@ _1. Morad El Hattab, Chroniques d'un buveur de lune dur le mal et l'amour, Albin
 _Publié aux Presses de la renaissance_
 
 Alexandra Ahouandjinou
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/La_consecration_du_choix">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La consécration du choix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-67-été-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 67 — Été 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/En_Toi">
+          <span class="pr-2">En Toi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Pasteur Louis Pernot<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Leili_Anvar/Malek_Jan_Nemati">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Malek Jân Ne’mati</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-50-printemps-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 50 — Printemps 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_01_Les_questions">
+          <span class="pr-2">Quiz maxien n°1 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La première question est de savoir qu'en faire. Est-ce une prière à réciter, à répéter régulièrement comme un texte figé ? Rien n'est moins certain, et il ne s'agit en tout cas pas de dire le Notre Père comme une récitation. Dans l'Évangile de Matthieu, le Christ condamne justement les païens et leurs vaines redites. Répéter mécaniquement un texte, fût-il le plus beau n'est pas prier. [...]
 
@@ -79,3 +103,27 @@ Là encore, le risque d'une interprétation passive est présent. On peut voir e
 (à suivre)
 
 Pasteur Louis Pernot
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Leili_Anvar/Malek_Jan_Nemati">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Malek Jân Ne’mati</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-50-printemps-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 50 — Printemps 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_01_Les_questions">
+          <span class="pr-2">Quiz maxien n°1 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

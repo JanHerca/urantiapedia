@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Alain Coulombe<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Rouanet/Le_mot_du_President_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du Président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-42-printemps-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 42 — Printemps 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Petite_reflexion_sur_la_puissance_daimer_2">
+          <span class="pr-2">Petite réflexion sur la puissance d'aimer (2ème partie)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Ce n'est qu'au cours de ses années d'innocence ou s'il est parvenu, par décision personnelle, à s'épurer et à se spiritualiser quelque peu, parfois au prix de quelque rude épreuve, que l'être humain peut accorder, partiellement et le plus souvent à son insu, le passage à l'exhortation divine que délivre en son esprit le fragment du Père universel. Si limités et imparfaits soient-ils, ces contacts entre la créature et le créateur enrichissent néanmoins immensément la pensée humaine en lui permettant de forger, jour après jour, ce qui restera d'elle après la mort, son âme, cette entité pré-spirituelle, altruiste et fraternelle, libérée des pesanteurs animales et vivifiée par l'esprit de confiance et par celui de vérité. Mise en sommeil dès l'instant de la mort physique et transportée par les personnalités spirituelles sur les mondes construits à cet effet, l'âme pourra se révéler capable d'y animer un corps supramatériel et d'entreprendre alors, avec l'aide affectueuse et sûre de guides patients et dévoués, le long et fascinant voyage qui la mènera vers l'éternité. Et lorsqu'elle aura finalement vaincu le temps et l'espace, percé les mystères et maîtrisé les mécanismes de la pensée cosmique et connu Dieu dans les trois personnes infinies de sa trinité, d'autres accomplissements, plus prodigieux encore, lui seront proposés.
 
@@ -31,3 +55,27 @@ N'est-il pas étrange que les créatures humaines acceptent de soumettre leurs r
 Les créatures humaines ne doivent pas attendre de Dieu qu'il leur démontre son pouvoir par des miracles ou d'autres manifestations étranges. Dieu n'a rien à démontrer aux créatures matérielles. Ce sont elles, à l'inverse, qui peuvent, si elles le désirent, montrer à Dieu leur ferme volonté de devenir ses partenaires. Certes, l'Univers présentement offert aux créatures évolutionnaires est à peine ébauché, mais il est gouverné par des lois matérielles strictes auxquelles Dieu, qui en est l'auteur, n'a nullement l'intention de contrevenir lui-même pour répondre à quelque caprice enfantin ou à de naïfs calculs. Dieu ne porte atteinte au libre arbitre d'aucune créature en lui imposant Sa preuve écrasante de son existence. Il laisse au contraire régner l'incertitude, qui laisse le champ libre à l'aide désintéressée, à l'envolée vers le spirituel salvateur, seul capable de féconder et de transcender le matériel, ombre de la réalité éternelle.
 
 En dépit de l'extrême discrétion de Dieu, il se trouve parfois que, pour une raison ou une autre et le plus souvent lorsqu'une urgence planétaire l'exige, l'intervention brève et limitée de personnalités supramatérielles influence fortement certaines créatures humaines, créant ainsi quelques rares mais spectaculaires immixtions du spirituel dans le matériel. Il est fréquent d'ailleurs que le message transmis dans ces circonstances soit partiellement incompris et transformé par l'esprit humain qui le reçoit, mais ce n'est cependant pas toujours le cas. De façon générale, tout message contenant des propositions contraires à l'exhortation essentielle de Dieu, qui enjoint que l'on s'élève vers lui en aimant, aidant et respectant les autres créatures humaines, doit être tenu pour altéré. Voici quelques dizaines d'années est apparu sur cette planète un long message écrit qui apporte aux êtres humains une histoire actualisée des rapports de Dieu et de ses créatures et qui fournira sans doute aux générations à venir une abondante source de réflexions.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Rouanet/Le_mot_du_President_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mot du Président</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-42-printemps-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 42 — Printemps 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Petite_reflexion_sur_la_puissance_daimer_2">
+          <span class="pr-2">Petite réflexion sur la puissance d'aimer (2ème partie)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

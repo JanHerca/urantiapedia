@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Ivan Stol<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Duvau/Compte_de_resultat_AFLLU_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compte de résultat AFLLU 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 76 — Décembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/L_afrique_Subsaharienne_les_enseignements_du_LU">
+          <span class="pr-2">L'afrique Subsaharienne, terres fertiles pour les enseignements du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Desenzano del Garda**
 
@@ -42,3 +66,27 @@ Que dire de plus sinon que ces charmantes personnes sont potentiellement capable
 Et merci à tous ceux qui ont permis à cet événement de se réaliser. Ah oui, l'eau du lac était encore bonne, mais je n'ai pu y mettre que les pieds et les doigts. Ivan
 
 <br style="clear:both;"/>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Duvau/Compte_de_resultat_AFLLU_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compte de résultat AFLLU 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 76 — Décembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/L_afrique_Subsaharienne_les_enseignements_du_LU">
+          <span class="pr-2">L'afrique Subsaharienne, terres fertiles pour les enseignements du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

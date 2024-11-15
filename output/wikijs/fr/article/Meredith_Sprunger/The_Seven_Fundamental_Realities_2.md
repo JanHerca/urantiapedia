@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Meredith J. Sprunger<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Scoop_artistique_Interpretation_libre_Adam_Eve">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Scoop artistique Interprétation libre «Adam-Ève»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-58-printemps-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 58 — Printemps 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sam_Real_Brousseau/Je_nai_que_vous_mon_Pere">
+          <span class="pr-2">Je n’ai que vous mon «Père»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## 3. Méthodologie de la réalité : L'évolution
 
@@ -61,3 +85,27 @@ Le fondement de la psychologie spirituelle est de réaliser que nous sommes des 
 (à suivre)
 
 Meredith J. Sprunger
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Scoop_artistique_Interpretation_libre_Adam_Eve">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Scoop artistique Interprétation libre «Adam-Ève»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-58-printemps-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 58 — Printemps 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sam_Real_Brousseau/Je_nai_que_vous_mon_Pere">
+          <span class="pr-2">Je n’ai que vous mon «Père»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

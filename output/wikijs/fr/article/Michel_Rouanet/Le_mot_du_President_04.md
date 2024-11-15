@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Michel Rouanet<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/040">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 40 — Automne 2007 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-40-automne-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 40 — Automne 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Castel/Lamelioration_biologique_de_lhumanite">
+          <span class="pr-2">L'amélioration biologique de l'humanité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Al'occasion du transfert du siège social de Paris à Marseille, je voudrais remercier Georges et Marlène Michelson-Dupont au nom de tous les membres qui ont composé l'AFLLU depuis sa création en 1996. En effet, non seulement Georges et Marlène sont des membres fondateurs de l'AFLLU (voir liste en annexe des nouveaux statuts) qui travaillèrent activement à la transition du CERDH vers l'AFLLU, désormais sous l'égide de l'AUI, mais ils hébergèrent son siège social dans leurs locaux de la Fondation Urantia SA France durant onze ans.
 
@@ -31,3 +55,27 @@ Espérons que nous saurons donner ou conserver une âme fraternelle à notre ass
 Bien fraternellement à tous.
 
 Michel R.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/040">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 40 — Automne 2007 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-40-automne-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 40 — Automne 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Castel/Lamelioration_biologique_de_lhumanite">
+          <span class="pr-2">L'amélioration biologique de l'humanité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

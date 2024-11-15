@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Myriam Delcroix<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rene_Felix/Temoignage_Noces_de_Diamant">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Témoignage : Noces de Diamant ou Philosophie souriante d'octogénaires sereins</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-32-hiver-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 32 — Hiver 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <p style="text-align:center">
 Une étoile passe et s'éteint dans le froid du silence,</p>
@@ -37,3 +58,24 @@ Je rentre, je n'ai plus froid, le silence m'a parlé.</p>
 
 
 Myriam Delcroix
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rene_Felix/Temoignage_Noces_de_Diamant">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Témoignage : Noces de Diamant ou Philosophie souriante d'octogénaires sereins</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-32-hiver-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 32 — Hiver 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

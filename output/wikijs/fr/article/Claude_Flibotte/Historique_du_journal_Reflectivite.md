@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Claude Flibotte<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Volonte_personnalite_choix_moral">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Volonté, personnalité, choix moral</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-104-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 104 — Décembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Conscience_Cosmique_et_Perception_Spirituelle">
+          <span class="pr-2">Conscience Cosmique et Perception Spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le premier numéro du Réflectivité parut en 1982 sous la direction, à ses débuts, de Guy Hévey. Il avait pour mission de relier entre eux les lecteurs québécois du _Livre d'Urantia_. Il comprenait des nouvelles des lecteurs, des activités et des articles sur des sujets divers. Il avait adopté le format papier 8 &half; x 11 po. Il parut sous cette forme jusqu'en 1984 à raison de trois parutions par année.
 
@@ -29,3 +53,27 @@ Pour les lecteurs intéressés à en savoir plus sur le mouvement urantien au Qu
 https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Chronologieurantienne-du-Quebec-1962-2017-Web.pdf
 
 Claude Flibotte, Rédacteur en chef du Réflectivité
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Volonte_personnalite_choix_moral">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Volonté, personnalité, choix moral</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-104-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 104 — Décembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Conscience_Cosmique_et_Perception_Spirituelle">
+          <span class="pr-2">Conscience Cosmique et Perception Spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

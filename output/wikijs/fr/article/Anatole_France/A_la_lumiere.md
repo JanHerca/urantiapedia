@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Anatole France<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/Bulletin_de_notes_de_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bulletin de notes de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-62-printemps-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 62 — Printemps 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Les_Agondontaires">
+          <span class="pr-2">Les Agondontaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Poésie: A la lumière
 
@@ -71,3 +95,27 @@ _Et, lorsque dans son sein la Nature des choses_
 _Formera mes destins futurs,_
 _Reviens baigner, reviens nourrir de tes flots purs_
 _Mes nouvelles métamorphoses. (1844-1924)_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Donnadieu/Bulletin_de_notes_de_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bulletin de notes de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-62-printemps-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 62 — Printemps 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Les_Agondontaires">
+          <span class="pr-2">Les Agondontaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

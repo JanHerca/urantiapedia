@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Chris Ragetly<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Triptyque">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Triptyque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-29-printemps-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 29 — Printemps 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Doit_on_jongler_avec_les_nombres">
+          <span class="pr-2">Doit-on jongler avec les nombres ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _C'est en lisant dans « Mighty Messenger » de l'été 2003, l'article intitulé « l'Incertitude dans la sécurité est l'essence de l'aventure du Paradis... » ([LU 111:7.1](/fr/The_Urantia_Book/111#p7_1)), que me sont venues ces quelques réflexions :_
 
@@ -19,3 +43,27 @@ D'autres sujets furent bien sûr abordés, mais c'est sur cet aspect de l'utilis
 On peut se demander si nous connaissons toutes les raisons pour lesquelles les auteurs du _Livre d'Urantia_ ont adopté de citer des sources humaines. Je ne le pense pas. Mais parmi celles-ci, cette manière de procéder aide sans doute le mental humain à mieux comprendre les enseignements du livre. Et au fil du temps, (n'oublions pas que _Le Livre d'Urantia_ est prévu pour une durée approximative de mille ans avant d'être sans doute suivi par une nouvelle révélation), pendant ces mille ans, des générations de lecteurs vont se succéder, parmi ceux-ci quelques-uns vont laisser des écrits sur leurs conceptions des enseignements du livre, les générations successives vont lire ces écrits, leurs expériences humaines vont bénéficier des expériences et de la perspicacité des générations précédentes. Il y a fort à parier que dans mille ans, les lecteurs du livre auront un point de vue, une compréhension, une manière de vivre les enseignements du livre, qui sera toute différente de nos vues actuelles. Sans doute que les sources humaines insérées dans le livre auront aidé d'une façon significative à la croissance de ce niveau mental avancé. On peut espérer que d'ici mille ans le mental humain aura pour la majorité des lecteurs du livre une capacité à absorber et comprendre les enseignements urantiens, supérieure à celle d'aujourd'hui, il pourra ainsi être capable de s'apprêter à recevoir la révélation suivante, que ce soit sous forme livresque ou des enseignements d'une personnalité.
 
 Chris Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Triptyque">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Triptyque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-29-printemps-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 29 — Printemps 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Doit_on_jongler_avec_les_nombres">
+          <span class="pr-2">Doit-on jongler avec les nombres ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Robert Gallo<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Duvau/Repersonnalisation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Repersonnalisation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-106-juin-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 106 — Juin 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Conference_AFLLU_2025_A_Paris_France_AFLLU">
+          <span class="pr-2">Conférence AFLLU 2025 À Paris (France) AFLLU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Ce qui suit est une tentative tout à fait relative de saisir ce vaste domaine qu'est Le Paradis. Suivra certainement une approche identique et tout aussi relative, grâce aux informations que nous donnent les révélateurs, sur Havona ainsi que sur les personnalités qui résident sur cet univers central Paradis-Havona. Il y a certainement dans les définitions et les informations données par les révélateurs sur ce thème, certaines analogies avec nos vies de mortels sur les planètes d'un système local tel que le nôtre.
 
@@ -138,3 +162,27 @@ Ces deux paragraphes peuvent éventuellement nous laisser penser cela :
 > « La foi a gagné, pour les pèlerins ascendants, une perfection de dessein qui ouvre aux enfants du temps les portes de l'éternité. Maintenant, il faut que les aides des pèlerins entreprennent de développer la perfection d'intelligence et la technique de com- préhension qui sont indispensables à la perfection paradisiaque de la personnalité. »
 
 > « L'aptitude à comprendre est le passeport des mortels pour le Paradis. Le consentement à croire est la clef de Havona. Lacceptation de la filiation, la coopération avec l'Ajusteur intérieur, est le prix de la survie évolutionnaire. » [[LU 26:4.14](/fr/The_Urantia_Book/26#p4_14)]
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Duvau/Repersonnalisation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Repersonnalisation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-106-juin-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 106 — Juin 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Conference_AFLLU_2025_A_Paris_France_AFLLU">
+          <span class="pr-2">Conférence AFLLU 2025 À Paris (France) AFLLU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

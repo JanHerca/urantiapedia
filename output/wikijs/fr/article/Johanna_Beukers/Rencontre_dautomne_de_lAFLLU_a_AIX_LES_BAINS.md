@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Johanna Beukers<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Conte_La_Grange">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conte : La Grange</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 41 — Hiver 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Castel/Reflexion_sur_linfidelite">
+          <span class="pr-2">Réflexion sur l'infidélité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Goûter l'air, un peu de pluie ainsi que des plats typiques Savoyards nous a convivialement amenés dans une nouvelle sphère inconnue jusqu'ici pour la rencontre biannuelle de l'AFLLU qui s'est tenue du 8 au 11 novembre 2007.
 
@@ -47,3 +71,27 @@ En ce qui me concerne j'ai appris diverses choses qui m'ont parues essentielles 
 Percer ce sens profond appartient, c'est évident, à notre Contrôleur de Pensée. Á nous de nous brancher sur cette longueur d'onde en toute humilité pour intégrer ce magnifique défi dans notre vie quotidienne : aimer fraternellement, mais surtout, aimer paternellement, comme le Père nous aime, sans condition et en toute sincérité.
 
 Johanna Beuckers
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Conte_La_Grange">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conte : La Grange</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 41 — Hiver 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claude_Castel/Reflexion_sur_linfidelite">
+          <span class="pr-2">Réflexion sur l'infidélité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

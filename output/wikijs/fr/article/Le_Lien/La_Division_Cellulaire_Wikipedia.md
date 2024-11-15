@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Halvorson/L_histoire_De_La_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'histoire De La Vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-97-mars-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 97 — Mars 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/EON_Wikipedia">
+          <span class="pr-2">EON (Wikipedia)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 https://fr.wikipedia.org/wiki/Division_cellulaire
 
@@ -29,3 +53,27 @@ La division cellulaire est le mode de multiplication de toute cellule. Elle lui 
 Des dérèglements des divisions cellulaires peuvent être à lorigine de tumeurs et de Cancers. La prolifération cellulaire anarchique est à distinguer de la régénération normale des cellules. Afin de comprendre les mécanismes sous-jacents à cette division, de nombreuses espèces modèles ont été étudiées parmi lesquelles les levures Schizosaccharomyces pombe et Saccharomyces cerevisiae, mais aussi le développement embryonnaire du xénope.
 
 <br style="clear:both;"/>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Halvorson/L_histoire_De_La_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'histoire De La Vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-97-mars-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 97 — Mars 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/EON_Wikipedia">
+          <span class="pr-2">EON (Wikipedia)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

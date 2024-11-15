@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Chris Ragetly<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sam_Real_Brousseau/Les_pronoms_indefinis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les pronoms indéfinis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-49-hiver-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 49 — Hiver 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Dieu_le_Consommateur_de_la_Destinee_Universelle">
+          <span class="pr-2">Dieu, le Consommateur de la Destinée Universelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _L'incertitude dans la sécurité est l'essence de l'aventure du Paradis incertitude dans le temps et le mental, incertitude sur les évènements du déroulement de l'ascension au Paradis ; sécurité en esprit et dans l'éternité, sécurité dans la confiance sans réserve du fils créé en la compassion divine et l'amour infini du Père Universel ; incertitude en tant que citoyen inexpérimenté de l'univers ; sécurité en tant que fils ascendant dans les demeures universelles d'un Père infiniment puissant, sage et aimant._ [LU 111:7.1](/fr/The_Urantia_Book/111#p7_1)
 
@@ -79,3 +103,27 @@ Lorsque nous parlons du cœur humain et de ses émotions et de ses sentiments, i
 > _Jésus révéla une religion d'amour et en donna l'exemple : la sécurité dans l'amour du Père, avec la joie et la satisfaction résultant du partage de cet amour au service de la fraternité humaine._ [LU 196:3.19](/fr/The_Urantia_Book/196#p3_19)
 
 CMR
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sam_Real_Brousseau/Les_pronoms_indefinis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les pronoms indéfinis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-49-hiver-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 49 — Hiver 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Dieu_le_Consommateur_de_la_Destinee_Universelle">
+          <span class="pr-2">Dieu, le Consommateur de la Destinée Universelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

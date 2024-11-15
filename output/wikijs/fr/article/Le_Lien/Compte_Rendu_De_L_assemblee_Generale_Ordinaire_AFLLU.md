@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/Etude_Sur_Les_Anges_Gardiens_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Étude Sur Les Anges Gardiens</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-87-septembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 87 — Septembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Danielle_La_Scala/Rencontre_En_Italie_Veme_Congres">
+          <span class="pr-2">Rencontre En Italie Vème Congrès</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Notre Dame Des Lumières
 
@@ -260,3 +284,27 @@ Plus aucune discussion n'est à l'ordre du jour. L'assemblée se termine à 11 h
 </figure>
 
 chacun se reconnaitra.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Andre_Desjardins/Etude_Sur_Les_Anges_Gardiens_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Étude Sur Les Anges Gardiens</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-87-septembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 87 — Septembre 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Danielle_La_Scala/Rencontre_En_Italie_Veme_Congres">
+          <span class="pr-2">Rencontre En Italie Vème Congrès</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

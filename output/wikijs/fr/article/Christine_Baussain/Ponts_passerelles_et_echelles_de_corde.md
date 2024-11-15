@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Christine Baussain<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Discernement_et_libre_arbitre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discernement et libre arbitre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-31-automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 31 — Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Beaupre/Nostalgie">
+          <span class="pr-2">Nostalgie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Une discussion animée lors d'une récente rencontre entre lecteurs m'a encouragée à mettre noir sur blanc ce petit témoignage, et je remercie de tout cœur ceux qui m'ont obligée à clarifier ma pensée.
 
@@ -34,3 +58,27 @@ De plus, l'effet de ces connaissances sur le mental, dans le sens d'une meilleur
 \* Les extraits du Livre d’Urantia ont été volontairement réduits par Christine à leurs références Page/Paragraphe, alors à vos livres !
 
 Christine Baussain
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Discernement_et_libre_arbitre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discernement et libre arbitre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-31-automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 31 — Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Beaupre/Nostalgie">
+          <span class="pr-2">Nostalgie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

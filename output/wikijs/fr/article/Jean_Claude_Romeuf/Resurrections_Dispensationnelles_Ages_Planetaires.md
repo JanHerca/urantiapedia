@@ -9,6 +9,27 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Jean Claude Romeuf<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/De_La_Necessaire_Fecondation_De_Notre_Pensee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De La Nécessaire Fécondation De Notre Pensée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-103-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 103 — Septembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jean Claude Romeuf — 14 juillet 2023
 
@@ -116,3 +137,25 @@ Puis au sein de la famille Sangik qui faisait partie des tribus badonites des ha
 La migration des races de couleur fut possible quand les continents que l'on connait, devinrent de plus en plus différenciés. Avec elle, les guerres tribales commencèrent à se développer à l'échelon planétaire.
 
 Aujourd'hui, les luttes se passent entre nations et groupes de nations. Les guerres ne pourront prendre fin que lorsque les peuples de la terre regrouperont leur force dans un seul gouvernement mondial. C'est ce qu'enseigne le livre d'Urantia.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/De_La_Necessaire_Fecondation_De_Notre_Pensee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De La Nécessaire Fécondation De Notre Pensée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-103-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 103 — Septembre 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

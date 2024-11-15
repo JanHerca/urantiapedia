@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Jean Royer<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Moustapha_NDiaye/Faut_Il_Avoir_Peur_de_L_islam">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faut-Il Avoir Peur de L'islam?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 75 — Septembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Anet/Bilan_et_Demission_de_L_ABFU">
+          <span class="pr-2">Bilan et Démission de L'ABFU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Depuis toujours, l'homme a recherché l'élixir de longue vie; pourtant le _Livre d'Urantia_ nous dit: _les êtres humains naissent, vivent et meurent relativement en un instant_. ([LU 112:5.4](/fr/The_Urantia_Book/112#p5_4))
 
@@ -68,3 +92,27 @@ Conclusion: il faut donc environ 200 milliards d'années pour atteindre le Parad
 Jean Royer — juillet 2016
 
 <br style="clear:both;"/>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Moustapha_NDiaye/Faut_Il_Avoir_Peur_de_L_islam">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faut-Il Avoir Peur de L'islam?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 75 — Septembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Anet/Bilan_et_Demission_de_L_ABFU">
+          <span class="pr-2">Bilan et Démission de L'ABFU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Robert Gallo<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Suite_au_phenomene_Personnalite_Pouvoir">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Suite au phénoméne Personnalité-Pouvoir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 73 — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Pierrot">
+          <span class="pr-2">Pierrot</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dans _Le livre d'Urantia_ nous pouvons lire: « C'est la présence des sept esprits-mentaux adjuvats sur les mondes primitifs qui conditionne le cours de l'évolution organique; cela explique pourquoi l'évolution est **préméditée et non accidentelle** » ( [LU 36:5.1](/fr/The_Urantia_Book/36#p5_1) ).
 
@@ -38,3 +62,27 @@ Mais nous ne sommes pas étonnés parce que nous savons que les esprits-mentaux 
 Cependant, cette expérience révèle une conséquence prodigieuse: Grâce aux circuits des esprits-mentaux adjuvats, les espèces s'adaptent et s'améliorent en continu...De génération en génération, nos enfants amélioreront leurs talents et l'humanité progressera lentement mais surement vers la Lumière.
 
 ***Robert Gallo***
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Suite_au_phenomene_Personnalite_Pouvoir">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Suite au phénoméne Personnalité-Pouvoir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 73 — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Pierrot">
+          <span class="pr-2">Pierrot</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

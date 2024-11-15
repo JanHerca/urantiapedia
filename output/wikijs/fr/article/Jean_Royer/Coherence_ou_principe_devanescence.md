@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Jean Royer<br>© 1997 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Francois_Dupont/Pensees_metaphysiques_dun_agnostique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pensees metaphysiques d’un agnostique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-5-automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 5 — Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/LEsprit_de_Verite_pole_unificateur_des_religions">
+          <span class="pr-2">L’Esprit de Verite : pole unificateur des religions ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Nos amis australiens qui éditent l'excellente revue « Interface International » ont une rubrique qui devrait intéresser nombre de francophones, elle s'appelle « consistency » c'est à dire « cohérence » et examine le Livre d'Urantia sous ses aspects logiques ou de noncontradictions. A première vue, une des choses qui semble avoir le plus impressionné un certain nombre de lecteurs est la logique du livre, mais est-elle aussi solide que nous voulons le croire ? N'y a-t-il pas des contradictions, vraies ou apparentes dans ces 2097 pages ? La version électronique nous permet de vérifier ce qui, autrement, serait presque impossible ou du moins très aléatoire. Pour moi, c'est un test, à condition que l'on se souvienne de deux choses :
 
@@ -24,3 +48,27 @@ En fait, ce qui est recherche de cohérence fait partie d'un concept plus vaste,
 Jean Royer
 
 NB : le soulignement, les caractêres gras et les parenthêses sont de moi.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Francois_Dupont/Pensees_metaphysiques_dun_agnostique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pensees metaphysiques d’un agnostique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-5-automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 5 — Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/LEsprit_de_Verite_pole_unificateur_des_religions">
+          <span class="pr-2">L’Esprit de Verite : pole unificateur des religions ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Johanna Beukers et Max Masotti<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/La_Femme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Femme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-56-automne-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 56 — Automne 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Martin_Buber/Absolument_rien_et_Moi">
+          <span class="pr-2">Absolument rien et Moi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Cette année, nous avions décidé de fêter l'anniversaire de Micaël chez nous à SolliesPont. Les lecteurs de trois départements étaient réunis, Gard, Bouches du Rhône et Var soit un total de 22 personnes. Notre érudit Jean Royer nous informa que le 21 août de l'an 29 était aussi un dimanche. Logiquement, nous aurions du parler de la naissance de Jésus mais, ce sujet avait été évoqué de nombreuses fois et nous avions décidé d'étudier la transfiguration de Jésus sur le mont Hermon qui, comme tout le monde le sait, avait eu lieu le 15 août de l'an 29.
 
@@ -34,4 +58,28 @@ Johanna Beukers et Max Masotti
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_01/129.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/La_Femme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Femme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-56-automne-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 56 — Automne 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Martin_Buber/Absolument_rien_et_Moi">
+          <span class="pr-2">Absolument rien et Moi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

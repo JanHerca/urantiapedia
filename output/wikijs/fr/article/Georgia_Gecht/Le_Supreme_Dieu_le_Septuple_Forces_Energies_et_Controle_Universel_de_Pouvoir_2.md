@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Georgia Gecht<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Andre_Chappuis/Il_y_a_les_annees_urantiennes_et">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Il y a les années urantiennes et...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-20-hiver-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 20 — Hiver 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nicole_Ragetly/Art_et_temoignages">
+          <span class="pr-2">Art et témoignages</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A la suite du Lien 19, voici les 30 questions restantes :
 
@@ -111,3 +135,27 @@ En ce qui concerne le Grand Univers, (Havona et les superunivers) : « _Ce domai
 Par Georgia Gecht
 Santa Monica, Californie, 1968
 Traduction de Chris et Nicole Ragetly août 2001.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Andre_Chappuis/Il_y_a_les_annees_urantiennes_et">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Il y a les années urantiennes et...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-20-hiver-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 20 — Hiver 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nicole_Ragetly/Art_et_temoignages">
+          <span class="pr-2">Art et témoignages</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

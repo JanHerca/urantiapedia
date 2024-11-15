@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Chris Ragetly<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Savoir_et_Conscience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Savoir et Conscience !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-61-hiver-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 61 — Hiver 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lucienne_Leker/Quand_je_pourrai_dire">
+          <span class="pr-2">Quand je pourrai dire...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le libre arbitre est une caractéristique qui est commune aux déités, aux personnalités suprahumaines et aux mortels évolutionnaires. Nul autre être, nulle force, nul créateur ou agent dans le vaste univers des univers ne peuvent interférer à un degré quelconque dans la souveraineté absolue du libre arbitre humain opérant dans les domaines d'option concernant la destinée éternelle de la personnalité du mortel qui choisit. 71.3 . Cette remarque est valable pour toutes les personnalités existantes de l'univers central et des superunivers, il est probable qu'il en sera de même pour les créatures des niveaux futurs ultimes et coabsolus. Il est aussi probable que certaines créatures qui fonctionnent plus ou moins automatiquement sur les niveaux finis ne possèdent pas cet attribut. Certains Maîtres Contrôleurs Physiques, tels que les Frandalanks et les Chronoldeks ne semblent pas avoir de libre arbitre, ils sont des êtres intelligents, mais plus ou moins semblables à des machines vivantes.
 
@@ -38,3 +62,27 @@ Le Suprême est influencé par les choix et les décisions des créatures évolu
 _Ce qui détermine le différentiel de la présence spirituelle existe dans votre propre coeur et votre propre mental, et consiste dans votre propre manière de choisir, dans les décisions de votre mental et dans la détermination de votre propre volonté. Ce différentiel est inhérent aux réactions du libre arbitre d'êtres personnels intelligents, le Père Universel ayant ordonné que ces êtres exerceraient une liberté de choix. Et les Déités tiennent toujours fidèlement compte du flux et du reflux de leurs esprits pour faire face aux conditions et satisfaire aux exigences de ce différentiel dans le choix des créatures. Tantôt elles effusent davantage leur présence pour répondre à ceux qui la désirent sincèrement, tantôt elles se retirent de la scène lorsque leurs créatures prennent des décisions adverses en exerçant la liberté de choix qui leur a été divinement conférée. C'est ainsi que l'esprit de la divinité obéit humblement aux choix des créatures des royaumes._ ([LU 13:4.4](/fr/The_Urantia_Book/13#p4_4))
 
 Chris Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Savoir_et_Conscience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Savoir et Conscience !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-61-hiver-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 61 — Hiver 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lucienne_Leker/Quand_je_pourrai_dire">
+          <span class="pr-2">Quand je pourrai dire...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

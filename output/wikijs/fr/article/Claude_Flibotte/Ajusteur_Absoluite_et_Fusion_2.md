@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Claude Flibotte<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Temoignages">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Témoignages</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-102-juin-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 102 — Juin 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/La_Maison">
+          <span class="pr-2">La Maison</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Claude Flibotte — Sainte-Julie (Québec)
 
@@ -58,3 +82,27 @@ Afin de voir les résultats de cette fusion, nous pouvons relire les citations 1
 Cest l'une des raisons de l'existence des Ajusteurs et de leur fusion avec les créatures évolutionnaires. Finaliser lexpression unifiante des Déités sur les niveaux expérientiels avec l'accord et la collaboration des créatures, leurs enfants.
 
 Ainsi, autant les Déités dérivées que sont l'Être Suprême, Dieu l'Ultime et Dieu l'Absolu ([LU 0:12.3](/fr/The_Urantia_Book/0#p12_3)) que les créatures sont gagnantes par ce processus!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/Temoignages">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Témoignages</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-102-juin-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 102 — Juin 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/La_Maison">
+          <span class="pr-2">La Maison</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Jean Royer<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Johanna_Beukers/Celebrer_la_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Célébrer la vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-58-printemps-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 58 — Printemps 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Annet/Hommage_a_Francois_Dupont">
+          <span class="pr-2">Hommage à François Dupont</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Nous connaissons tous, parmi les lecteurs du Livre d'Urantia, des impatients qui veulent tout de suite aller au-delà du Paradis, savoir comment ce sera après avoir atteint le stade post-finalitaire. À ceux-là nous voudrions rappeler quelques faits et remarques sur les étapes précédentes.
 
@@ -41,3 +65,27 @@ Alors, cela vaut-il de se poser des questions sur l'après-Paradis?
 On sait ce que l'impatience a fait faire à notre mère Ève.
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Johanna_Beukers/Celebrer_la_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Célébrer la vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-58-printemps-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 58 — Printemps 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Annet/Hommage_a_Francois_Dupont">
+          <span class="pr-2">Hommage à François Dupont</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

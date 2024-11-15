@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Michel Bezier<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Coin_detente_Je_nai_plus_peur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coin détente : Je n'ai plus peur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-28-hiver-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 28 — Hiver 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 L'esprit qui nous anime de son amour sans borne, nous pousse à tracer en conscience notre chemin de vie.
 
@@ -51,3 +72,24 @@ La justesse de tes vues trouve écho en chacun de nous et nous révèle l'inépu
 Sagesse éternelle nous te saluons avec déférence et nous nous plaçons avec une absolue confiance sous ton ample protection.
 
 Michel Bezier
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Coin_detente_Je_nai_plus_peur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coin détente : Je n'ai plus peur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-28-hiver-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 28 — Hiver 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jean-Claude Romeuf<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Philosophie_humaine_et_mota_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Philosophie humaine et mota (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-48-automne-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 48 — Automne 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Le_bonheur">
+          <span class="pr-2">Le bonheur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Je ne peux pas me passer de l'ostéoclaste. Je sais cela par expérience. Chaque fois que l'os subit un traumatisme, les ostéoclastes, qui sont de petites cellules, sont mobilisées à l'endroit meurtri. Elles ont pour but de digérer la partie osseuse devenue inutile. Cette destruction, permise par Shiva, fait affluer une multitude de jeunes cellules sécrétrices d'un os nouveau. Dans ce cas et sûrement dans la plupart des cas, la régénération est obligatoirement postérieure à la destruction.
 
@@ -29,3 +53,27 @@ Il est un être expérientiel. Son concept prend nécessairement sa source dans 
 Dire que j'aime ce Dieu qui ne m'a pas été révélé et pour lequel pourtant, j'ai émis quelques hypothèses serait un mensonge impardonnable. Je sais pourtant que ma destinée se consume et se construit en même temps. Je sais qu'il n'y a pas de croissance possible sans affliction, sans renoncement à soi et sans décision constructive, mais n'étant pas maso pour deux sous, je ne vois pas non plus comment je pourrais prier ce Dieu ostéoclaste de m'envoyer des souffrances supplémentaires. Le ciel s'en chargera tout seul, je sais bien que je ne suis pas au bout de mes peines. Is it the question? « To be or not to be. »
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Philosophie_humaine_et_mota_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Philosophie humaine et mota (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-48-automne-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 48 — Automne 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Le_bonheur">
+          <span class="pr-2">Le bonheur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

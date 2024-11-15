@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Max Masotti et Johanna Beukers<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/De_la_matiere_a_lEsprit_en_passant_par_le_mental">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De la matière à l'Esprit en passant par le mental</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-30-été-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 30 — Été 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Forme_et_resurrection">
+          <span class="pr-2">Forme et résurrection</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Je suis lectrice du _Livre d'Urantia_ depuis à peu près 7 ans. Ayant eu l'immense chance d'animer un groupe d'étude du livre à mon domicile durant 5 ans, j'ai dû abandonner suite à un déménagement. Ce qui n'a en rien diminué mon enthousiasme pour l'étude ni l'application dans la vie des enseignements de cette révélation magistrale.
 
@@ -27,3 +51,27 @@ Nous leur avons expliqué qu'ils représentent le futur de notre planète. Qu'il
 Nous souhaitons à d'autres lecteurs/lectrices du L U de goûter un jour la joie d'accompagner des jeunes gens à la recherche de la Vérité. Et pouvoir les aider à entamer une future vie équilibrée et épanouie basée sur les fruits de l'Esprit. En leur permettant ainsi de découvrir à leur tour l'Amour de DIEU et la vie éternelle.
 
 Max Masotti et Johanna Beukers
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/De_la_matiere_a_lEsprit_en_passant_par_le_mental">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De la matière à l'Esprit en passant par le mental</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-30-été-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 30 — Été 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Royer/Forme_et_resurrection">
+          <span class="pr-2">Forme et résurrection</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

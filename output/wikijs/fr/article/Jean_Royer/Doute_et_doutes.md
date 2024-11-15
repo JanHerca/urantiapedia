@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Jean Royer<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Reincarnation_verite_ou_superstition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réincarnation, vérité ou superstition ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-27-automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 27 — Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Doute">
+          <span class="pr-2">Doute</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Nous avons toutes et tous été confrontés au doute. Quelle part tient le doute dans le Livre d’Urantia ? Le mot se trouve 110 fois au singulier et 43 fois au pluriel et, il y a une trentaine d'occurrences de mots dérivés.
 
@@ -86,3 +110,27 @@ La seconde est plus générale :
 > _La croyance peut se révéler incapable de résister au doute et de supporter la peur, mais la foi triomphe toujours du doute, car elle est à la fois positive et vivante. Le positif a toujours l'avantage sur le négatif, la vérité sur l'erreur, l'expérience sur la théorie, les réalités spirituelles sur les faits isolés de l'espace et du temps. La preuve convaincante de cette certitude spirituelle réside dans les fruits sociaux de l'esprit que les croyants, hommes de foi, produisent à la suite de leur expérience spirituelle authentique._ [[LU 102:6.7](/fr/The_Urantia_Book/102#p6_7)]
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Reincarnation_verite_ou_superstition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réincarnation, vérité ou superstition ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-27-automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 27 — Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Doute">
+          <span class="pr-2">Doute</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

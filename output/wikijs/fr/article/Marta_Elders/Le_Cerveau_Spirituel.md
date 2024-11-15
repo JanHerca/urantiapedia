@@ -9,6 +9,27 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Marta Elders<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jaap_Tera/10eme_Conference_Internationnale_De_L_association_UAI">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">10ème Conférence Internationnale De L'association UAI — Amsterdam Pays-Bas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-78-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 78 — Juin 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Par Marta A. Elders
 (Présenté lors du Symposium scientifique de 2016)
@@ -545,3 +566,24 @@ C'est vraiment notre propre choix. Nous pouvons consciemment, dans notre propre 
 **Taylor, J.B. (2006)**. _My Stroke of Insight_: A brain scientist's personal journey. (Mon AVC de perception: Le voyage personnel du cerveau d'un scientifique.) New York: Penguin Group.
 
 **Tomaino, C. A. (2012)**. _Awakening The Brain_: The neuropsychology of grace. (_Réveiller le cerveau_: La neuropsychologie de la grâce.) New York: Atria.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jaap_Tera/10eme_Conference_Internationnale_De_L_association_UAI">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">10ème Conférence Internationnale De L'association UAI — Amsterdam Pays-Bas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-78-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 78 — Juin 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Jean Duvau<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Compte_Rendu_Conference_De_Budapest">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compte Rendu Conférence De Budapest</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 76 — Décembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Compte_Rendu_Rencontre_en_Italie">
+          <span class="pr-2">Compte Rendu Rencontre en Italie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Compte tenu des congés de juillet et août nous n'avions pas pu produire à temps le compte d'exploitation de l'association pour l'année 2015.
 
@@ -44,4 +68,28 @@ COMPTE DE RESULTAT — Année 2015 (En Euros)
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/067.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Compte_Rendu_Conference_De_Budapest">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compte Rendu Conférence De Budapest</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 76 — Décembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Compte_Rendu_Rencontre_en_Italie">
+          <span class="pr-2">Compte Rendu Rencontre en Italie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Deite_Divinite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Déité - Divinité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-63-été-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 63 — Été 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Mariage_Gay">
+          <span class="pr-2">Mariage Gay</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 1. Un corps t'a été donné. Tu peux l'aimer ou le détester, mais ce sera le tien pour toute la durée de cette vie.
 2. Tu vas apprendre des leçons. Tu es inscrit(e) dans une école informelle à plein temps appelée « Vie ». Chaque jour tu auras l'occasion d'apprendre des leçons dans cette école. Tu pourras aimer les leçons, ou penser qu'elles sont idiotes ou sans pertinence.
@@ -22,3 +46,27 @@ dateCreated: 2024-10-17T22:23:59Z
 10. Á mesure que tu t'ouvres à cette confiance, tu te souviendras de plus en plus de tout ceci.
 
 Auteur Inconnu
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ivan_Stol/Deite_Divinite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Déité - Divinité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-63-été-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 63 — Été 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Mariage_Gay">
+          <span class="pr-2">Mariage Gay</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Guy de Viron<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Paul_et_l_Eternel_Feminin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paul et l’Éternel Féminin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-55-été-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 55 — Été 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michel_Hubaut/Sur_les_traces_de_Paul">
+          <span class="pr-2">Sur les traces de Paul</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Le_Lien/images_01/121.jpg">
@@ -35,3 +59,27 @@ Si je me rappelle bien le LU nous dit que les différences entre genres vont s'a
 \* _Les funérailles célestes ou l'extraordinaire aventure d'une chinoise au Tibet de Xin ran P. Picquier / PICQUIER PHILIP. Texte compilé et reformaté par la rédaction._
 
 Guy de Viron
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Paul_et_l_Eternel_Feminin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paul et l’Éternel Féminin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-55-été-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 55 — Été 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michel_Hubaut/Sur_les_traces_de_Paul">
+          <span class="pr-2">Sur les traces de Paul</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

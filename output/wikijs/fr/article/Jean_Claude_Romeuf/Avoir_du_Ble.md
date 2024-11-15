@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jean-Claude Romeuf<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Liswen_Delval/Amour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-47-été-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 47 — Été 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Lamock/Mille_mercis">
+          <span class="pr-2">Mille mercis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Il y a pas mal temps de cela, me raconta-il, un journaliste de renom, spécialiste de musique phonétique, fit admettre à la Télémusicvision, de son pays, qu'il était impensable qu'un mot chargé d'autant de richesse, puisse être aussi laid. Tout le monde acquiesça. Le roi dut céder à l'opinion publique et proclama que désormais, celui qui prononcerait le mot « Foi » serait immédiatement jeté en prison et torturé en cas de récidive, car la peine de mort venait d'être abolie. Pendant des décennies, le mot « Foi » fut mis aux oubliettes ! Ce que le roi et ses ministres n'avaient pas prévu, c'est que la spiritualité allait se dégrader petit à petit, car s'il restait encore possible de partager quelques croyances et quelques dévotions obsolètes, la Foi dépourvue de nom ne put se développer normalement dans le cour de chacun. Il faut toujours un mot pour comprendre un fait ou faire valoir une signification. Le Dieu de ce pays se sentit isolé car plus personne ne conversait avec lui. Il eut le sentiment d'être inutile, on ne lui demandait plus de faire pleuvoir quand l'herbe avait soif, ni d'envoyer le soleil pour que les fruits ou les légumes murissent. Privés de spiritualité, les gens commencèrent à devenir méchants, ils ne se fièrent qu'au hasard ou à la malveillance d'autrui. Autrui étant le seul responsable de leur mauvaise fortune, la vengeance et la rancune allaient bon train !
 
@@ -29,3 +53,27 @@ Le roi envoya ses espions dans tous les coins et recoins de la planète pour sav
 Son remplaçant leva le tabou. Il paraît que sur cette planète, Blé est maintenant synonyme de Richesse et Richesse est synonyme de Foi.
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Liswen_Delval/Amour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-47-été-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 47 — Été 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Lamock/Mille_mercis">
+          <span class="pr-2">Mille mercis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

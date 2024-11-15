@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Jean Duvau<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Gallo/Survivrons_nous">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Survivrons-nous?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-106-juin-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 106 — Juin 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Gallo/A_la_decouverte_du_Paradis_et_de_l_Espace_Temps">
+          <span class="pr-2">À la découverte du Paradis et de l'Espace-Temps</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Le temps supplémentaire ou La prolongation de la période probatoire.
 
@@ -95,3 +119,27 @@ Mais je trouve qu'ils en disent suffisamment surtout en lien avec la repersonnal
 Voir de ([LU 47:3.1](/fr/The_Urantia_Book/47#p3_1)) à ([LU 47:3.9](/fr/The_Urantia_Book/47#p3_9))
 
 Fraternellement votre
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Gallo/Survivrons_nous">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Survivrons-nous?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-106-juin-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 106 — Juin 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Gallo/A_la_decouverte_du_Paradis_et_de_l_Espace_Temps">
+          <span class="pr-2">À la découverte du Paradis et de l'Espace-Temps</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

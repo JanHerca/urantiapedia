@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Claude Flibotte<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Marie_Chaise/La_Symbolique_des_nombres">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Symbolique des nombres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-86-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 86 — Juin 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Le_Temps_l_Energie_et_la_Matiere">
+          <span class="pr-2">Le Temps, l'Énergie et la Matière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/191.jpg">
@@ -83,3 +107,27 @@ Tout au long de notre parcours d'Urantia jusqu'au Paradis, nous expérimenterons
 Bon repos!
 
 **Claude Flibotte; Sainte-Julie, Québec.**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Marie_Chaise/La_Symbolique_des_nombres">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Symbolique des nombres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-86-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 86 — Juin 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Simon_Orsini/Le_Temps_l_Energie_et_la_Matiere">
+          <span class="pr-2">Le Temps, l'Énergie et la Matière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

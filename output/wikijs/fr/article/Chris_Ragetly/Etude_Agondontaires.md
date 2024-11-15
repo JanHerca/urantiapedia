@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Chris Ragetly<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claire_Mylanus/Rencontre_nationale_du_22_mai_au_25_mai">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rencontre nationale du 22 mai au 25 mai</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-43-été-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 43 — Été 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anne_Marie_Ronfet/Sur_le_sentiment_dexister">
+          <span class="pr-2">Sur le sentiment d'exister</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 606 Urantia — Satania 24 Jérusem — Norlatiadek 70 Edentia — Nébadon 84 Salvington U Minor la Troisième 3 Ensa — U Majeur la Cinquième 5 Splandon — Orvonton 7 Uversa
 
@@ -59,3 +83,27 @@ Ce qui donne toute latitude au visiteur estudiantin de donner son point de vue e
 Tout ceci démontre que les possibilités d'agir en conséquence face à une ou plusieurs rébellions au cours de notre ascension à travers notre superunivers, est une possibilité à ne pas écarter.
 
 CMR
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claire_Mylanus/Rencontre_nationale_du_22_mai_au_25_mai">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rencontre nationale du 22 mai au 25 mai</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-43-été-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 43 — Été 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anne_Marie_Ronfet/Sur_le_sentiment_dexister">
+          <span class="pr-2">Sur le sentiment d'exister</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

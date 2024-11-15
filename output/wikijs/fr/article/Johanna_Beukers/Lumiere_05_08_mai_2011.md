@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Johanna Beukers<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Hubaut/Sur_les_traces_de_Paul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur les traces de Paul</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-55-été-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 55 — Été 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_06_Les_questions">
+          <span class="pr-2">Quiz maxien n°6 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Arrivés tôt dans la journée de jeudi à l'abbaye de **Notre Dame de Lumières** à Goult pour profiter pleinement de ce beau site, nous avons donc retrouvé la même patronne sympathique et accueillante comme autrefois. Le soir, deux tiers des participants sont arrivés de diverses régions de France et de Suisse. 22 lecteurs se sont réunis après le repas pour faire connaissance, car quelques nouveaux lecteurs se sont joints à cette rencontre.
 
@@ -41,3 +65,27 @@ Après quatre jours de soleil, un dernier repas était consommé en commun. De n
 Nous remercions les organisateurs qui se sont dévoués pour faire réussir cette rencontre qui fut à nouveau un grand succès.
 
 Johanna Beukers
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michel_Hubaut/Sur_les_traces_de_Paul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur les traces de Paul</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-55-été-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 55 — Été 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_06_Les_questions">
+          <span class="pr-2">Quiz maxien n°6 Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

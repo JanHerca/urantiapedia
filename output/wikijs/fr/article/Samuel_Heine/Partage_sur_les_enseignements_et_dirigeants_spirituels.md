@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Samuel Heine<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Johanna_Beukers/Temoignage_sur_la_rencontre_a_Armeau">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Témoignage sur la rencontre à Armeau</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 38 — Hiver 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti_et_Johanna_Beukers/Rapport_de_la_reunion_dArmeau">
+          <span class="pr-2">Rapport de la réunion d'Armeau</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Un éducateur spirituel partage son vécu individuellement expérimenté dans sa progression vers Dieu et ce par rapport au niveau où il se trouve. Les âmes assoiffées de vérité prennent de par leur propre choix et en conformité avec l'affinité mutuelle ce qu'elles ont besoin pour les faire grandir spirituellement.
 
@@ -37,3 +61,27 @@ En conclusion attendons que l'arbre porte des fruits afin de pouvoir juger ceux 
 Uni dans le service partagé en association avec vous et en partenariat avec la hiérarchie divine dans le sens ascendant.
 
 Samuel Heine
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Johanna_Beukers/Temoignage_sur_la_rencontre_a_Armeau">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Témoignage sur la rencontre à Armeau</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 38 — Hiver 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Max_Masotti_et_Johanna_Beukers/Rapport_de_la_reunion_dArmeau">
+          <span class="pr-2">Rapport de la réunion d'Armeau</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

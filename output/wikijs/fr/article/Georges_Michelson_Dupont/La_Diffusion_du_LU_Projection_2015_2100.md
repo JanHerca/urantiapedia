@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Georges Michelson-Dupont<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/La_traduction_de_TUB_Etat_Des_Lieux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La traduction de The Urantia Book: État Des Lieux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-74-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 74 — Juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_4">
+          <span class="pr-2">Groupe d'étude Interactif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## L'enjeu du Français dans la diffusion des Enseignements du Livre D'urantia dans le Monde.
 
@@ -100,3 +124,27 @@ Tous ces évènements montrent qu'il existe un plan général et une organisatio
 > « Avec Dieu le Père, la grande relation est la filiation. Avec Dieu le Suprême, l'accomplissement est la condition préalable au statut — il faut faire quelque chose aussi bine qu'être quelque chose » ([LU 115:0.1](/fr/The_Urantia_Book/115#p0_1))
 
 Georges Michelson-Dupont
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/La_traduction_de_TUB_Etat_Des_Lieux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La traduction de The Urantia Book: État Des Lieux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-74-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 74 — Juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_4">
+          <span class="pr-2">Groupe d'étude Interactif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

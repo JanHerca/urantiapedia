@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Patrick Morelli<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dolfo_Guzman/Jesus_L_homme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus L'homme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-77-mars-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 77 — Mars 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Cyril_Causette/Parabole_A_la_facon_de_Jesus">
+          <span class="pr-2">Parabole «À la façon de Jésus »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Conditions d'obtention de la Personnalité
 
@@ -291,3 +315,27 @@ Suite à l'affirmation fascicule LU 160:2.2 :
 La personnalité de l'homme ne se développe, ou ne se manifeste, qu'avec l'échange et l'interaction avec d'autres personnalités d'une part, et ensuite son existence en tant que dotation du Père n'est actuelle, que lorsque cette connexion permanente et indispensable est réelle. C'est donc une totalité non fractionnable mise en place par le Père, qui englobe et entoure toute la création, d'une manière latente, et qui se manifeste d'une façon automatique dès que les éléments constituants le réel sont coordonnés et agencés de manière convenable et adéquate, pour être le réceptacle de cette personnalité, qui va se manifester dès lors, que par mobilisation unique pour chaque individualisation, et qui restera d'une manière indélébile comme élément retournant à sa source divine. Cela même lorsque le support réceptacle est lui-même annihilé par suite d'un positionnement volontaire en désaccord avec les normes divines prévues.
 
 **Patrick Morelli**.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dolfo_Guzman/Jesus_L_homme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus L'homme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-77-mars-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 77 — Mars 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Cyril_Causette/Parabole_A_la_facon_de_Jesus">
+          <span class="pr-2">Parabole «À la façon de Jésus »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

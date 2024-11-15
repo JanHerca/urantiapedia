@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Georges Michelson Dupont<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Tradition_perdue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tradition perdue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-107-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 107 — Septembre 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/La_petite_graine">
+          <span class="pr-2">La petite graine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Georges Michelson Dupont
 Août 2024
@@ -148,3 +172,27 @@ Toutes les triunités incluent la présence du Père Universel en tant que membr
 Pour donner un exemple de fonction, reprenons l'exemple de la société. Elle a besoin d'équipes spécialisées pour faire fonctionner la compagnie. Par exemple, dans le département financier, on trouvera un commercial qui informe des ventes, un comptable qui équilibre les comptes, et le compte en banque indispensable. Cest une triunité dans laquelle ce sont les compétences qui sont associées en produire et non la personnalité des membres en tant que telle.
 
 Il était utile de revoir la préparation en éternité du cadre cosmique dans lequel va se matérialiser les univers et s'établir la destinée. Dans le prochain LIEN nous verrons comment la Trinité Paradisiaque, les Absolus de Potentialité, les Déités expérientielles, les triunités ainsi que les agents de l'Esprit Infini et les Architectes du Maitre univers unissent leurs efforts pour amener les univers à l'existence. Encore une fois, gardons à l'esprit que la création matérielle finie, absonite et même absolue, n'est qu'un support matériel pour la manifestation de l'Amour de Dieu.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dominique_Ronfet/Tradition_perdue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tradition perdue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-107-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 107 — Septembre 2024 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/La_petite_graine">
+          <span class="pr-2">La petite graine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

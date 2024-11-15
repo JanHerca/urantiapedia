@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Jean Royer<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/017">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 17 — Printemps 2001 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-17-printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 17 — Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_Bourhis/Vivre_la_volonte_de_notre_Pere_une_experience_au_quotidien">
+          <span class="pr-2">Vivre la volonté de notre Père : une expérience au quotidien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Il n'y a pas un seul point de vue du _Livre d'Urantia_ par rapport à la démocratie.D'une part, on nous dit: _Ni la démocratie ni aucune autre panacée politique ne remplaceront le progrès spirituel._ ([LU 195:6.10](/fr/The_Urantia_Book/195#p6_10)) _Les élections populaires ne décident pas toujours de la chose correcte à faire, mais elles représentent la manière juste de commettre même une erreur._ ([LU 71:2.8](/fr/The_Urantia_Book/71#p2_8))
 
@@ -31,3 +55,27 @@ C'est qu'il savait _que l'évolution ne produit pas instantanément une perfecti
 Question: Dans quelle mesure sommesnous prêts à accepter des décisions démocratiques qui ne vont pas dans notre sens?
 
 Jean Royer
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/017">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 17 — Printemps 2001 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-17-printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 17 — Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Guy_Bourhis/Vivre_la_volonte_de_notre_Pere_une_experience_au_quotidien">
+          <span class="pr-2">Vivre la volonté de notre Père : une expérience au quotidien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

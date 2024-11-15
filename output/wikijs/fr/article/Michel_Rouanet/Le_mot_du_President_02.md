@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Michel Rouanet<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/038">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 38 — Hiver 2006 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 38 — Hiver 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francois_Dupont/Essais_dexplication_du_concept_de_la_verite_vivante">
+          <span class="pr-2">Essais d'explication du concept de la vérité vivante</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Très chers membres de l'Association francophone des lecteurs du livre d'URANTIA, Dans ce numéro, la présence de l'article de François Dupont de l'ABFU et du message au Conseil des représentants de Gaétan Charland, président québécois de l'IUA, nous montre, d'une part, que le rayonnement de la francophonie urantienne dépasse le simple cadre territorial français, en métropole et outre mer, d'autre part que l'AFLLU est totalement intégrée dans un tissu associatif francophone. Outre les relations fraternelles que nous entretenons avec l'association québécoise, l'association belge et l'association sénégalaise, nous accueillons encore en notre sein les adhérents suisses et recevons sporadiquement des demandes en provenance de différents pays francophones d'Afrique (Côte d'Ivoire, Congo, Rwanda, Cameroun, Togo, Bénin, Madagascar, etc..).
 
@@ -36,3 +60,27 @@ Bonne conversion du regard donc, bonne poésie dans la vie et paix à tous en 20
 
 Président de l'A.F.L.L.U.
 Michel R.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/038">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 38 — Hiver 2006 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 38 — Hiver 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francois_Dupont/Essais_dexplication_du_concept_de_la_verite_vivante">
+          <span class="pr-2">Essais d'explication du concept de la vérité vivante</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

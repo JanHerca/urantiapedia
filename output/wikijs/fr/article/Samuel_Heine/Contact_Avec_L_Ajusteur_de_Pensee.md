@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Samuel Heine<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/La_personnalite_humaine_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Personnalité Humaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-90-juin-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 90 — Juin 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Pour_Jesus">
+          <span class="pr-2">Pour Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Me concernant et avec le recul des années, j'ai pu « pour mon cas personnel » déterminer quelques conditions favorables à ce genre d'expériences spontanées, « difficílement explicable » aux autres si ce n'est dans de rares occasions avec des hommes ou des femmes qui ont personnellement vécu ce genre d'expérience.
 
@@ -33,3 +57,27 @@ Je pense qu'il faut être humble et prudent dans ce domaine et je réjoins Domin
 Amitiés.
 
 Samuel. H
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claude_Flibotte/La_personnalite_humaine_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Personnalité Humaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-90-juin-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 90 — Juin 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Myriam_Delcroix/Pour_Jesus">
+          <span class="pr-2">Pour Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

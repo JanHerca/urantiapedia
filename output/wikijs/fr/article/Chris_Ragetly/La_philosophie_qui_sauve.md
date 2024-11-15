@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Chris Ragetly<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_02_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quiz maxien n°2 Les questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francoise_Burniat/L_attitude_de_Jesus_envers_les_femmes">
+          <span class="pr-2">L’attitude de Jésus envers les femmes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _Le Père désire que toutes ses créatures soient en communion personnelle avec lui. Il y a, au Paradis, une place pour recevoir tous ceux qui ont un statut de survie et une nature spirituelle rendant possible un tel accomplissement. C'est pourquoi il faut inscrire une fois pour toute dans votre philosophie les affirmations suivantes : pour chacun de vous et pour nous tous, Dieu est approchable, le Père est accessible, la voie est ouverte. Les forces d'amour divin et les voies et moyens de l'administration divine sont tous imbriqués dans un effort pour aider, dans tous les univers, toute intelligence qui en est digne, à s'avancer jusqu'en présence du Père Universel au Paradis._ [LU 5:1.8](/fr/The_Urantia_Book/5#p1_8)
 
@@ -25,3 +49,27 @@ Lorsque dans un jour prodigieusement éloigné nous nous trouverons face à face
 Avoir la possibilité de pouvoir communier maintenant avec l'esprit effusé du Père, notre Moniteur de Mystère, est une opportunité qu'il faut saisir le plus souvent possible. Regardez comment Jésus s'adonnait quotidiennement à une telle pratique. S'il nous est impossible de vivre la vie de Jésus, nous devons plutôt nous en inspirer pour essayer de mener notre vie telle que chacun de nous pense le faire du mieux possible. Si notre Moniteur de Mystère est si intimement associé à notre âme et à notre moi en cours de spiritualisation, il est tout à fait normal que nous essayions de communiquer avec notre associé divin dès lors que l'occasion se présente.
 
 Chris Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Masotti/Quiz_maxien_02_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quiz maxien n°2 Les questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-51-été-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 51 — Été 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francoise_Burniat/L_attitude_de_Jesus_envers_les_femmes">
+          <span class="pr-2">L’attitude de Jésus envers les femmes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

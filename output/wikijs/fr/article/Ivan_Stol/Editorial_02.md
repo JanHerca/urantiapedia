@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Ivan Stol<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/073">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 73 — Mars 2016 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 73 — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Suite_au_phenomene_Personnalite_Pouvoir">
+          <span class="pr-2">Suite au phénoméne Personnalité-Pouvoir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Chers lectrices et lecteurs du Lien, chers urantiens, l'équipe éditoriale du Lien espère que les fêtes de fin d'année 2015 se sont bien passées et que de bonnes résolutions pour ce début d'année ont été prises, comme participer activement à votre Lien en envoyant vos réflexions et/ou vos articles en rapport avec votre étude du _Livre d'Urantia_.
 
@@ -25,3 +49,27 @@ Chers lectrices et lecteurs du Lien, chers urantiens, l'équipe éditoriale du L
 - La liste des cours qui seront proposés pour le trimestre d'avril: participez nombreux car c'est une belle expérience que de partager les enseignements du livre d'Urantia avec des lecteurs de tous les coins de la francophonie.
 
 N'oubliez pas de nous faire parvenir vos articles et essais à l'adresse suivante: georges.michelson-dupont@wanadoo.fr. **Toute l'équipe vous souhaite une bonne lecture instructive.**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Le_Lien/073">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Numéro 73 — Mars 2016 — Contenu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 73 — Mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Morelli/Suite_au_phenomene_Personnalite_Pouvoir">
+          <span class="pr-2">Suite au phénoméne Personnalité-Pouvoir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

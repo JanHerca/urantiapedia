@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Swami Veetamohananda<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Study_of_Prayers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Étude des prières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-50-printemps-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 50 — Printemps 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Joel_Goldsmith/Gift_of_Love_2">
+          <span class="pr-2">Don de l’Amour (2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Comment pratiquer la présence de Dieu dans la vie de tous les jours**
 
@@ -42,3 +66,27 @@ La pratique de la présence de Dieu a été, depuis des temps très anciens une 
 _(1) Nicolas Herman, né en 1614 en Lorraine. A 18 ans, il s'engage dans l'armée. Sévèrement blessé, il doit quitter l'armée et travaille comme valet de pied à Paris. En 1640, il entre au Monastère des Carmes Déchaussés sous le nom de Frère Laurent de la Résurrection. Il est mort en 1691 ._
 
 Swami Veetamohananda
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Study_of_Prayers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Étude des prières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-50-printemps-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 50 — Printemps 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Joel_Goldsmith/Gift_of_Love_2">
+          <span class="pr-2">Don de l’Amour (2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

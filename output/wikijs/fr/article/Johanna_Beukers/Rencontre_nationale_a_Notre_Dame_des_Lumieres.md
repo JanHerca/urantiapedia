@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Johanna Beukers<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Philippe_Dubath/Jean_Francois_et_l_hippocampe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jean-François et l’hippocampe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-49-hiver-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 49 — Hiver 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sam_Real_Brousseau/Les_pronoms_indefinis">
+          <span class="pr-2">Les pronoms indéfinis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La majorité des participants est arrivée le jeudi soir où un excellent repas nous a directement confirmé l'accueil sérieux et chaleureux que nous avions l'habitude de connaître lors des réunions précédentes.
 
@@ -49,3 +73,27 @@ Enfin, j'aimerais exprimer un grand merci pour l'organisation, parfois compliqu�
 Fraternellement.
 
 Johanna Beukers
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Philippe_Dubath/Jean_Francois_et_l_hippocampe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jean-François et l’hippocampe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-49-hiver-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 49 — Hiver 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sam_Real_Brousseau/Les_pronoms_indefinis">
+          <span class="pr-2">Les pronoms indéfinis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

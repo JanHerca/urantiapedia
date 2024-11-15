@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Chris Ragetly<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Artisans_de_Paix">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Artisans de Paix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-60-automne-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 60 — Automne 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Initiatives_de_Paix">
+          <span class="pr-2">Initiatives de Paix</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Le mal non dilué, l'erreur complète, le péché volontaire et l'iniquité sans mélange conduisent de manière inhérente et automatique au suicide. [LU 2:3.5](/fr/The_Urantia_Book/2#p3_5)
 
@@ -43,3 +67,27 @@ Plusieurs fois la guerre nucléaire a bien failli avoir lieu, et cette épée de
 > _... Chez les hommes, le suicide témoigne qu'ils ont émergé du stade d'existence purement animal et, en outre, que ***les efforts exploratoires de tels êtres humains n'ont pas réussi à atteindre les niveaux où l'expérience humaine devient un art.*** Lorsque l'expérience humaine deviendra un art, alors nous serons attachés à une forme de civilisation où l'art de pratiquer la vie, qui n'aura pour seul but que celui d'améliorer sans cesse la façon de suivre la volonté divine, sera le service. Nous pouvons appeler cet art l'art divin._ [LU 160:1.5](/fr/The_Urantia_Book/160#p1_5)
 
 Chris Ragetly
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Guy_de_Viron/Artisans_de_Paix">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Artisans de Paix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-60-automne-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 60 — Automne 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Le_Lien/Initiatives_de_Paix">
+          <span class="pr-2">Initiatives de Paix</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Anne-Marie Ronfet<br>© 2005 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/L_ami_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'ami de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-33-printemps-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 33 — Printemps 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Pensee">
+          <span class="pr-2">Pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Notre conception de la vérité, de la beauté et la bonté ne cesse jamais de croître, depuis notre vie jusqu'à notre arrivée devant le Père. Dieu se révèle à nous en tant que vérité absolue, beauté absolue, bonté absolue. Nous ne pouvons nous en faire une autre idée. C'est notre meilleur concept de Dieu. On imagine le Paradis comme un lieu d'une beauté époustouflante. On image les êtres qui entourent le Père comme de véritables intelligences vivantes et le Père lui-même comme la bonté sans limite.
 
@@ -55,3 +79,27 @@ Elles sont aussi notre mesure, nos points de repère pour nous situer dans notre
 Enfin, elles se laissent elles-mêmes « oublier » dans une sorte d'appel à l'unité de toute la personnalité, une unité vers laquelle on tend et que l'on désire sans cesse et qui ne sera complète, on le sait bien, que lorsque nous serons arrivés avec ceux que nous aimons, auprès du Père.
 
 Anne-Marie Ronfet
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/L_ami_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'ami de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-33-printemps-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 33 — Printemps 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Pensee">
+          <span class="pr-2">Pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

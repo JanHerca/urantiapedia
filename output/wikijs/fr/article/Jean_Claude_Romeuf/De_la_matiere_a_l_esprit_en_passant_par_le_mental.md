@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jean-Claude Romeuf<br>© 2005 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean Royer/Science_philosophie_religion_et_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science, philosophie, religion et révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-35-automnehiver-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 35 — Automne/Hiver 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Pour_un_ami_2">
+          <span class="pr-2">Pour un ami</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La vie n'est pas le fruit du hasard. Elle est intentionnelle, jamais accidentelle. Le Mental lié à l'Esprit est créatif et produit la vie.
 
@@ -100,3 +124,27 @@ Mais vouloir apprendre à aimer les autres comme nos fils est un choix de suprê
 Avec l'autorisation posthume de Georges Brassens, nous dirons pour finir que celle qui est capable d'actualiser cette sorte d'amour est une mère universelle. Bien que les cigognes ne lui aient pas toujours apporté l'enfant qu'elle désirait pour qu'elle puisse l'aimer, l'accrocher à son corsage et l'arroser avec son lait, elle est la bienheureuse et merveilleuse femme du futur, nouvelle et éternelle, car tous les enfants de la terre, de la mer et du ciel sont maintenant à elle.
 
 Jean-Claude Romeuf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean Royer/Science_philosophie_religion_et_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science, philosophie, religion et révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_le_lien#le-lien-urantien-numéro-35-automnehiver-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Numéro 35 — Automne/Hiver 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Ragetly/Pour_un_ami_2">
+          <span class="pr-2">Pour un ami</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
