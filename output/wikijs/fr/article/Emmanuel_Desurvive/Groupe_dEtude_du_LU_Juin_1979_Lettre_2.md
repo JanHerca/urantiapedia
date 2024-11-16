@@ -68,9 +68,9 @@ _Chaque progrès de la connaissance est une expérience perturbante et douloureu
 
 _Les scientifiques cependant ne sont pas le seul groupe affligé par ce genre de myopie. La croissance de la perspicacité religieuse a été contrariée par une plus grande résistance et davantage de souffrance. Les prophètes ont été lapidés, les sauveurs sont crucifiés par des hommes et des femmes religieux pensant faire la volonté de Dieu._
 
-Pour prouver ceci nous n'avons qu'à considérer l'époque de Jésus. Jean-Baptiste « Le plus grand prophète de l'ancien ordre » ([LU 136:0.1](/fr/The_Urantia_Book/136#p0_1)) fut arrêté, emprisonné et décapité.
+Pour prouver ceci nous n'avons qu'à considérer l'époque de Jésus. Jean-Baptiste « Le plus grand prophète de l'ancien ordre » (<a id="a70_126"></a>[LU 136:0.1](/fr/The_Urantia_Book/136#p0_1)) fut arrêté, emprisonné et décapité.
 
-Jésus de Nazareth, le représentant personnel du Dieu éternel, qui a dit « Qui m'a vu, a vu le Père » ([LU 157:6.13](/fr/The_Urantia_Book/157#p6_13)), et la plus grande de toutes les révélations à toute l'humanité et à la totalité de l'univers local de Nébadon, a été arrêté, ridiculisé vilipendé, fouetté, a été couvert de crachats, a été cruellement traité, puis devant les yeux incrédules d'un univers, a été sommairement cloué à une croix et suspendu entre deux voleurs...
+Jésus de Nazareth, le représentant personnel du Dieu éternel, qui a dit « Qui m'a vu, a vu le Père » (<a id="a72_102"></a>[LU 157:6.13](/fr/The_Urantia_Book/157#p6_13)), et la plus grande de toutes les révélations à toute l'humanité et à la totalité de l'univers local de Nébadon, a été arrêté, ridiculisé vilipendé, fouetté, a été couvert de crachats, a été cruellement traité, puis devant les yeux incrédules d'un univers, a été sommairement cloué à une croix et suspendu entre deux voleurs...
 
 Révoltant? Absolument !
 
@@ -92,11 +92,11 @@ Ils savaient que :
 
 > _... A mesure qu'une religion s'institutionnalise, son pouvoir de faire du biens'amenuise, tandis que ses possibilités de faire du mal s'accroissent considérablement. Les dangers de la religion formaliste sont, entre autres, les suivants: fixation des croyances et cristallisation des sentiments; ... tendance à uniformiser et à fossiliser la vérité; religion détournée du service de Dieu au service de l'église; penchant des chefs à devenir administrateurs au lieu de ministres; tendance à former des sectes et des divisions en concurrence; établissement d'une autorité ecclésiastique oppressive: enchevêtrement avec des fonctions dans les institutions laïques; ... elle devient un juge intolérant de l'orthodoxie, elle ne réussit pas à retenir l'intérêt de lajeunesse aventureuse, et elle perd graduellement le message sauveur de l'Evangile du salut éternel._
 > 
-> _La religion officielle freine les hommes dans leur activité spirituelle personnelle au lieu de les libérer pour un service plus élevé de bâtisseurs du royaume_ ([LU 99:6.3](/fr/The_Urantia_Book/99#p6_3)).
+> _La religion officielle freine les hommes dans leur activité spirituelle personnelle au lieu de les libérer pour un service plus élevé de bâtisseurs du royaume_ (<a id="a94_164"></a>[LU 99:6.3](/fr/The_Urantia_Book/99#p6_3)).
 
 Mais les premiers responsables avaient aussi lu dans le Livre d'Urantia :
 
-> _La religion juive persista aussi à cause de ses institutions, Il est difficile à une religion de survivre en tant que pratique personnelle d'individus isolés. Les chefs religieux ont toujours commis l'erreur suivante : apercevant les maux de la religion institutionnelle ils cherchent à détruire la technique de son fonctionnement collectif_ ([LU 97:10.7](/fr/The_Urantia_Book/97#p10_7)).
+> _La religion juive persista aussi à cause de ses institutions, Il est difficile à une religion de survivre en tant que pratique personnelle d'individus isolés. Les chefs religieux ont toujours commis l'erreur suivante : apercevant les maux de la religion institutionnelle ils cherchent à détruire la technique de son fonctionnement collectif_ (<a id="a98_346"></a>[LU 97:10.7](/fr/The_Urantia_Book/97#p10_7)).
 
 Pourtant il était clair que tandis qu'une organisation sur-formalisée et sur-institutionnalisée était indésirable car elle étouffait les progrès des croyants individuels, sans une organisation, néanmoins, il n'y aurait aucune manière sûre d'assurer la transmission des valeurs morales et des idéaux spirituels de génération en génération. Quelle que soit la valeur et la pureté d'une religion, elle sera submergée par les vieilles croyances évolutionnaires, ou disparaîtra simplement par manque de renouvellement et de support matériel, si elle n'a pas d'organisation formelle.
 
@@ -104,7 +104,7 @@ Les premiers responsables du mouvement urantien conçurent un plan ingénieux. L
 
 Pour protéger le texte contre une édition, une altération une déformation, ils prévoyèrent la nécessité de placer le texte du _Livre d'Urantia_ sous la protection des copyrights des Etats-Unis et internationaux, garantissant ainsi aux générations futures le privilège de disposer de la Cinquième Révélation d'Epoque Majeure originale. La Fondation Urantia fut formée dans ce but et le Livre fut légalement protégé dans son nom par le Copyright.
 
-Pour éviter la sur-organisation et permettre ainsi à chaque individu « _de jouir de la liberté religieuse dans la pleine expression de son interprétation personnelle des vérités de la croyance religieuse et des faits de l'expérience religieuse_ » ([LU 103:5.12](/fr/The_Urantia_Book/103#p5_12)), ils décidèrent d'une organisation sociale simple. Son but était de fournir un support à la socialisation des enseignements d'Urantia et de servir d'échafaudage au développement d'une réelle fraternité qui servirait de transmetteur vivant au Message Urantia.
+Pour éviter la sur-organisation et permettre ainsi à chaque individu « _de jouir de la liberté religieuse dans la pleine expression de son interprétation personnelle des vérités de la croyance religieuse et des faits de l'expérience religieuse_ » (<a id="a106_248"></a>[LU 103:5.12](/fr/The_Urantia_Book/103#p5_12)), ils décidèrent d'une organisation sociale simple. Son but était de fournir un support à la socialisation des enseignements d'Urantia et de servir d'échafaudage au développement d'une réelle fraternité qui servirait de transmetteur vivant au Message Urantia.
 
 En outre, jusqu'au moment où l'Esprit de Vérité régnerait dans les coeurs de la population du monde la simple fraternité sociale fournirait le mécanisme permettant d'écarter les individus gênants et perturbants qui essaieraient inévitablement de s'y attacher dans un but destructeur même peutêtre pour les dénaturer et les supprimer, ou pour supplanter le mouvement urantien. Une organisation sociale simple pourrait constituer une garantie suffisante.
 
@@ -144,7 +144,7 @@ Combien présomptueux combien déloyal pour un individu ou un groupe, que de dé
 
 Le Livre d'Urantia dit :
 
-> _L'ombre d'un cheveu que l'on retourne en préméditant un dessein déloyal, la plus petite déformation ou perversion de ce qui forme un principe — voilà ce qui constitue la fausseté_ ([LU 48:6.33](/fr/The_Urantia_Book/48#p6_33)).
+> _L'ombre d'un cheveu que l'on retourne en préméditant un dessein déloyal, la plus petite déformation ou perversion de ce qui forme un principe — voilà ce qui constitue la fausseté_ (<a id="a146_184"></a>[LU 48:6.33](/fr/The_Urantia_Book/48#p6_33)).
 
 Voilà pourquoi il est nécessaire d'avoir un modèle sur lequel on peut compter et dont l'authenticité est garantie.
 

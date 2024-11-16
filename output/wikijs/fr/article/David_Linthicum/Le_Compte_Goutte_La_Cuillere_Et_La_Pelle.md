@@ -48,7 +48,7 @@ Les enseignements de Jésus ont changé le monde. Ses enseignements ont finaleme
 
 Jésus a pu changer la perception du Dieu de Moïse, qui représentait un Dieu colérique et vengeur, à un Dieu d'Amour, un Père aimant qui adore ses enfants terrestres. Jésus nous a enseigné à propos du Royaume des Cieux et de la Fraternité de l'Homme, que les hommes et les femmes sont « sauvés » par leur seule foi.
 
-> _Quand tout est dit et fait, l'idée de Père reste encore le concept humain le plus élevé de Dieu._ [[LU 196:3.33](/fr/The_Urantia_Book/196#p3_33)]
+> _Quand tout est dit et fait, l'idée de Père reste encore le concept humain le plus élevé de Dieu._ <a id="a50_101"></a>[[LU 196:3.33](/fr/The_Urantia_Book/196#p3_33)]
 
 Ces simples messages d'amour, de foi et de famille ont servi à changer les perceptions des gens envers Dieu et leur relation avec lui. Dieu est devenu une personne plus agréable, plus compréhensive et compatissante à nos luttes terrestres.
 

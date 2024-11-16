@@ -48,7 +48,7 @@ Faut-il le vivre intérieurement et le laisser homéopathiquement transparaître
 
 Quant à Chris, sa question est plus directe : « Sommes-nous des ambassadeurs de cette cinquième révélation?»
 
-Alors, quelle place accordons-nous au Livre d'Urantia dans notre vie quotidienne? Comment faire fructifier cet « talent » hors prix ou comment transmettre son éclairage dans ces temps si troublés ... qui pourraient par ailleurs durer un millénaire, semblet-il ([LU 99:1.1](/fr/The_Urantia_Book/99#p1_1)) ? Or, nous n'en sommes seulement qu'à la troisième génération de lecteurs!
+Alors, quelle place accordons-nous au Livre d'Urantia dans notre vie quotidienne? Comment faire fructifier cet « talent » hors prix ou comment transmettre son éclairage dans ces temps si troublés ... qui pourraient par ailleurs durer un millénaire, semblet-il (<a id="a50_261"></a>[LU 99:1.1](/fr/The_Urantia_Book/99#p1_1)) ? Or, nous n'en sommes seulement qu'à la troisième génération de lecteurs!
 
 A voir les réactions d'urticaire que donnent certains messages sur le forum $A F F L U$, nous en sommes encore à devoir réviser nos gammes de patience et de modestie... et à espérer focaliser l'attention de lecteurs plus jeunes et peut-être plus performants.
 

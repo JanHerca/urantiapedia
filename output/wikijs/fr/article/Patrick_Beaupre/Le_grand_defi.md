@@ -88,7 +88,7 @@ Imaginons un instant notre vie guidée par le seul ressenti de cet intense amour
 
 — Mais l'amour ne se commande pas, c'est l'amour qui vous commande.
 
-Car « l'expérience d'aimer est dans une grande mesure une réponse directe à l'expérience d'être aimé ». ([LU 2:5.8](/fr/The_Urantia_Book/2#p5_8))
+Car « l'expérience d'aimer est dans une grande mesure une réponse directe à l'expérience d'être aimé ». (<a id="a90_105"></a>[LU 2:5.8](/fr/The_Urantia_Book/2#p5_8))
 
 Le Père, par cet exceptionnel don généreux nous montre là que nous ne sommes pas isolés dans un univers hostile, mais bien au contraire que nous appartenons déjà à la grande famille de l'amour Universel. A nous de saisir l'invisible message, cet accent d'intemporalité mesuré.
 
@@ -155,13 +155,13 @@ Existe-t-il plus belle aventure pour l'homme que celle de braver toutes les diff
 Mieux j'affirme aujourd'hui : Il n'y a rien de plus important en ce monde !
 D'ailleurs le livre ne finit-il pas ainsi :
 
-> « _Le grand défi à l'homme moderne consiste à établir de meilleures communi- cations avec le divin Moniteur qui habite le mental humain. La plus grande aventure de l'homme dans la chair est son effort sain et équilibré pour repousser les frontières de la conscience de soi à travers les domaines imprécis de la conscience embryonnaire de l'âme, dans un effort sincère pour atteindre la région frontière de la conscience de l'esprit-le contact avec la divine présence. Une telle expérience constitue la conscience de Dieu, c'est une expérience qui confirme puissamment la vérité préexistante de l'expérience religieuse consistant à connaitre Dieu._ » [LU 196:3.34](/fr/The_Urantia_Book/196#p3_34)
+> « _Le grand défi à l'homme moderne consiste à établir de meilleures communi- cations avec le divin Moniteur qui habite le mental humain. La plus grande aventure de l'homme dans la chair est son effort sain et équilibré pour repousser les frontières de la conscience de soi à travers les domaines imprécis de la conscience embryonnaire de l'âme, dans un effort sincère pour atteindre la région frontière de la conscience de l'esprit-le contact avec la divine présence. Une telle expérience constitue la conscience de Dieu, c'est une expérience qui confirme puissamment la vérité préexistante de l'expérience religieuse consistant à connaitre Dieu._ » <a id="a157_652"></a>[LU 196:3.34](/fr/The_Urantia_Book/196#p3_34)
 
 Que dire de plus !
 
 De méthode secrète, il n'y a point. A nous de jouer désormais.
 
-> « Et même cette foi qui sauve, vous ne l'avez pas par vous-mêmes ; elle aussi est un don de Dieu ». [LU 143:2.7](/fr/The_Urantia_Book/143#p2_7)
+> « Et même cette foi qui sauve, vous ne l'avez pas par vous-mêmes ; elle aussi est un don de Dieu ». <a id="a163_102"></a>[LU 143:2.7](/fr/The_Urantia_Book/143#p2_7)
 
 Patrick Beaupré
 

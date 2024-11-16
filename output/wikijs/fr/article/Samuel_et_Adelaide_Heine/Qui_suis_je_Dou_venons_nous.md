@@ -71,7 +71,7 @@ Le monde va bientôt avoir besoin de solutions concrètes face à ces problèmes
 
 _Le Livre d’Urantia_ ne nous dit-il pas que le meilleur moyen pour un têtard de devenir grenouille est de vivre sa vie de têtard ?
 
-> « En vérité la religion de Jésus domine et transforme ses fidèles elle exige que les hommes consacrent leur vie à rechercher la connaissance de la volonté du Père qui est aux cieux et demande que les énergies de la vie soient affectées au service désintéressé de la fraternité des hommes » ([LU 195:9.6](/fr/The_Urantia_Book/195#p9_6))
+> « En vérité la religion de Jésus domine et transforme ses fidèles elle exige que les hommes consacrent leur vie à rechercher la connaissance de la volonté du Père qui est aux cieux et demande que les énergies de la vie soient affectées au service désintéressé de la fraternité des hommes » (<a id="a73_293"></a>[LU 195:9.6](/fr/The_Urantia_Book/195#p9_6))
 
 Dans l'attente, cher frère et sœur, puisse cette idée germer en vous et se concrétiser de manière créativement évolutive.
 

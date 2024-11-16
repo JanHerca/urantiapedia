@@ -44,7 +44,7 @@ Dominique R.
 
 Concernant ce don de Personnalité, il nous en est proposé plusieurs approches. Je partirai de la définition de la personnalité telle qu'elle nous est présentée dans ce court passage de l'introduction:
 
-> La personnalité est un niveau de réalité déifiée. Elle part du niveau mortel et médian d'activation mentale supérieure d'adoration et de sagesse. ([LU 0:5.1](/fr/The_Urantia_Book/0#p5_1))
+> La personnalité est un niveau de réalité déifiée. Elle part du niveau mortel et médian d'activation mentale supérieure d'adoration et de sagesse. (<a id="a46_149"></a>[LU 0:5.1](/fr/The_Urantia_Book/0#p5_1))
 
 — Mmmmm...et alors? »
 
@@ -80,7 +80,7 @@ Nous sommes comme en sommeil de nous-mêmes, et l'outil mental que nous utilison
 
 Ils sont tout à fait naturels et sont mêmes indispensables. L'humour et le sens du jeu qu'est la vie peuvent nous aider à supporter cette tension entre ce que nous sommes et ce que l'on attend de nous, ce que nous sommes appelés à devenir.
 
-De notre point de vue il me semble que notre Personnalité peut être envisagée comme un moteur qui cherche à nous actualiser (réaliser) à travers son travail d'unification sur les « autres facteurs de notre individualité » ([LU 5:6.6](/fr/The_Urantia_Book/5#p6_6)).
+De notre point de vue il me semble que notre Personnalité peut être envisagée comme un moteur qui cherche à nous actualiser (réaliser) à travers son travail d'unification sur les « autres facteurs de notre individualité » (<a id="a82_223"></a>[LU 5:6.6](/fr/The_Urantia_Book/5#p6_6)).
 
 Et nous sommes alors comme des funambules en devenir... de nous-mêmes.
 
@@ -93,7 +93,7 @@ Rien de nouveau sous le soleil, on retrouve dans les fascicules une explication 
 
 — Nous devons être à l'écoute autant que dans l'action.
 
-Si nous ne développons pas notre capacité d'écoute à ce qui nous est étranger, notre curiosité intellectuelle et artistique et ainsi entretenir notre désir de nous rechercher nous-mêmes, nous ne pourrons pas être ouverts à ce circuit de Personnalité. Et donc à penser... par nous-mêmes. Nous ne ferons que répéter les mêmes phrases « magiques » en boucle, les mêmes modes de pensée, de manière hypnotique, ce qu'adore notre mental primitif. Soyons créatifs de nous-mêmes, apprenons l'auto-conscience! ([LU 16:6.9](/fr/The_Urantia_Book/16#p6_9)).
+Si nous ne développons pas notre capacité d'écoute à ce qui nous est étranger, notre curiosité intellectuelle et artistique et ainsi entretenir notre désir de nous rechercher nous-mêmes, nous ne pourrons pas être ouverts à ce circuit de Personnalité. Et donc à penser... par nous-mêmes. Nous ne ferons que répéter les mêmes phrases « magiques » en boucle, les mêmes modes de pensée, de manière hypnotique, ce qu'adore notre mental primitif. Soyons créatifs de nous-mêmes, apprenons l'auto-conscience! (<a id="a95_502"></a>[LU 16:6.9](/fr/The_Urantia_Book/16#p6_9)).
 
 C'est la seule manière de nous rapprocher de notre Créateur.
 

@@ -91,7 +91,7 @@ La religion de l'esprit, c'est un travail qui nécessite une détermination et u
 
 Pour ma part, après une gestation assez longue où la religion s'est développée consciemment en moi, jaai vécu une crise d'identité religieuse et de remise en question de mes croyances. Ce qui a déclenché les douleurs de l'accouchement et une nouvelle naissance : la naissance de l'esprit, sous l'impulsion de mon moniteur divin qui avec patience et amour, me guidait vers un nouvel état d'éveil religieux.
 
-Jai alors compris, perçu et ressenti que cette naissance était le prélude à des bouleversements et des transformations intérieures que j’ai acceptés avec humilité, confiance et joie. « La perplexité est inévitable en religion ; il ne peut y avoir de croissance sans conflits psychiques et sans agitation spirituelle. Lorganisation d'une norme de vie philosophique entraine des commotions considérables dans le domaine philosophique du mental. Ce n'est pas sans lutte que l'on exerce sa loyauté envers ce qui est grand, bon, vrai et noble. » [[LU 100:4](/fr/The_Urantia_Book/100#p4)]
+Jai alors compris, perçu et ressenti que cette naissance était le prélude à des bouleversements et des transformations intérieures que j’ai acceptés avec humilité, confiance et joie. « La perplexité est inévitable en religion ; il ne peut y avoir de croissance sans conflits psychiques et sans agitation spirituelle. Lorganisation d'une norme de vie philosophique entraine des commotions considérables dans le domaine philosophique du mental. Ce n'est pas sans lutte que l'on exerce sa loyauté envers ce qui est grand, bon, vrai et noble. » <a id="a93_541"></a>[[LU 100:4](/fr/The_Urantia_Book/100#p4)]
 
 ## MOANA
 

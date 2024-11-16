@@ -46,7 +46,7 @@ En lisant l'épopée de la vie de Jésus, on réalise les difficultés matériel
 
 Pour faire la volonté de notre Père ; pour grandir en sagesse et croitre en spiritualité, il nous faut, nous aussi, vivre des expériences éducatives qui exigent que nous trouvions des solutions avec l'aide de notre Ajusteur de Pensée et de bien d'autres assistances spirituelles mises à notre disposition.
 
-> « Il faut faire face aux difficultés de l'univers et aux obstacles rencontrés sur la planète, en les considérant comme une partie de l'éducation expérimentale fournie pour la croissance et le développement (la perfection progressive) des âmes évoluantes des créatures mortelles. La spiritualisation de l'âme humaine exige une expérience intime avec l'acte éducatif de trouver des solutions à un large éventail de problèmes universels réels. La nature animale et les formes inférieures de créatures volitives ne progressent pas bien dans une ambiance trop facile. Les situations problématiques, associées aux impulsions à l'action, font naitre les activités mentales, psychiques et spirituelles qui contribuent puissamment à l'accomplissement des buts valables de la progression humaine et à l'aboutissement à des niveaux supérieurs de destinée spirituelle. » ([LU 154:2.5](/fr/The_Urantia_Book/154#p2_5))
+> « Il faut faire face aux difficultés de l'univers et aux obstacles rencontrés sur la planète, en les considérant comme une partie de l'éducation expérimentale fournie pour la croissance et le développement (la perfection progressive) des âmes évoluantes des créatures mortelles. La spiritualisation de l'âme humaine exige une expérience intime avec l'acte éducatif de trouver des solutions à un large éventail de problèmes universels réels. La nature animale et les formes inférieures de créatures volitives ne progressent pas bien dans une ambiance trop facile. Les situations problématiques, associées aux impulsions à l'action, font naitre les activités mentales, psychiques et spirituelles qui contribuent puissamment à l'accomplissement des buts valables de la progression humaine et à l'aboutissement à des niveaux supérieurs de destinée spirituelle. » (<a id="a48_862"></a>[LU 154:2.5](/fr/The_Urantia_Book/154#p2_5))
 
 Cette dernière période sera consacrée à montrer que l'univers tout entier est une vaste école gérée par des parents aimants et des éducateurs attentifs à notre bienêtre spirituel et ce que nous considérons, nous humains, comme des souffrances, des punitions ou des désastres, sont en réalité des opportunités de progrès. Enfin, nous nous pencherons sur les aides spirituels qui viennent compléter le ministère personnel de notre Ajusteur de Pensée.
 
@@ -62,13 +62,13 @@ Dans la première citation de l'introduction de la dernière période, il est qu
 
 ***Question 3***: Lire les sections suivantes:
 
-Notre Ajusteur de Pensée communique sans cesse avec nous de telle manière que « L'Esprit ne contraint jamais, il ne fait que guider. Si vous êtes un élève de bonne volonté, si vous voulez atteindre les niveaux de l'esprit et les hauteurs divines, si vous désirez sincèrement arriver au but éternel, alors l'Esprit divin vous guidera doucement et amoureusement sur le sentier de la filiation et du progrès spirituel. » ([LU 34:6.11](/fr/The_Urantia_Book/34#p6_11)).
+Notre Ajusteur de Pensée communique sans cesse avec nous de telle manière que « L'Esprit ne contraint jamais, il ne fait que guider. Si vous êtes un élève de bonne volonté, si vous voulez atteindre les niveaux de l'esprit et les hauteurs divines, si vous désirez sincèrement arriver au but éternel, alors l'Esprit divin vous guidera doucement et amoureusement sur le sentier de la filiation et du progrès spirituel. » (<a id="a64_419"></a>[LU 34:6.11](/fr/The_Urantia_Book/34#p6_11)).
 
 **Quelle est la nature de cette communication? Pourquoi l'Esprit ne « contraint » jamais et comment nous « conduit-il ?»**
 
 ***Question 4***: Lire les sections suivantes:
 
-Un Messager Solitaire révèle qu'« Il ne faut pas considérer la coopération avec votre Ajusteur comme un processus particulièrement conscient, car il ne l'est pas. Ce sont vos mobiles et vos décisions, vos fidèles déterminations et vos suprêmes désirs, qui constituent une coopération réelle et efficace. » ([LU 110:3.6](/fr/The_Urantia_Book/110#p3_6))
+Un Messager Solitaire révèle qu'« Il ne faut pas considérer la coopération avec votre Ajusteur comme un processus particulièrement conscient, car il ne l'est pas. Ce sont vos mobiles et vos décisions, vos fidèles déterminations et vos suprêmes désirs, qui constituent une coopération réelle et efficace. » (<a id="a70_307"></a>[LU 110:3.6](/fr/The_Urantia_Book/110#p3_6))
 
 **Pourquoi nos décisions, nos fidèles déterminations et nos suprêmes désirs constituent-ils une réelle et efficace coopération?**
 
@@ -80,7 +80,7 @@ Un Messager Solitaire révèle qu'« Il ne faut pas considérer la coopération 
 
 ***Question 6***: Lire les sections suivantes:
 
-Dans la section 2 du fascicule 194 le Livre d'Urantia révèle qu' « Ensuite, à mesure que l'homme progresse en s'élevant sur l'échelle de l'intelligence et de la perception spirituelle, sept influences supérieures d'esprit viennent en fin de compte planer au-dessus de lui et habiter en lui. » ([LU 194:2.12](/fr/The_Urantia_Book/194#p2_12))
+Dans la section 2 du fascicule 194 le Livre d'Urantia révèle qu' « Ensuite, à mesure que l'homme progresse en s'élevant sur l'échelle de l'intelligence et de la perception spirituelle, sept influences supérieures d'esprit viennent en fin de compte planer au-dessus de lui et habiter en lui. » (<a id="a82_294"></a>[LU 194:2.12](/fr/The_Urantia_Book/194#p2_12))
 
 À l'exception de notre Ajusteur de Pensée et de l'Esprit de Vérité que nous avons vu précédemment, quelles sont les contributions des autres influences spirituelles et comment coopèrent-elles avec nous ?
 

@@ -58,7 +58,7 @@ Par ailleurs pendant le sommeil, alors que le corps est assoupi, que le mental d
 
 Rappelons-nous que :
 
-> « Dans tout concept d'individualité, il faudrait reconnaitre que le fait de la vie vient d'abord, et son évaluation ou son interprétation ensuite. Un enfant commence par vivre, et ultérieurement il réfléchit sur sa vie. Dans l'économie cosmique, la perspicacité précède la prévision » ([LU 112:2.6](/fr/The_Urantia_Book/112#p2_6)).
+> « Dans tout concept d'individualité, il faudrait reconnaitre que le fait de la vie vient d'abord, et son évaluation ou son interprétation ensuite. Un enfant commence par vivre, et ultérieurement il réfléchit sur sa vie. Dans l'économie cosmique, la perspicacité précède la prévision » (<a id="a60_288"></a>[LU 112:2.6](/fr/The_Urantia_Book/112#p2_6)).
 
 Cette identification au corps, et au mental, est intentionnelle et voulue au départ, elle constitue le fait de la vie qui vient d'abord. Lidentification à ce que nous ne sommes pas, est nécessaire au départ. Elle nous permettra de nous identifier plus tard, à qui nous sommes réellement, et objectivement. Ceci adviendra lorsque viendra l'heure de « réfléchir et de procéder à l'évaluation et à l'interprétation du don de la vie », qui seule nous permettra de nous intégrer dans l'économie cosmique. Cela marquera notre naissance d'esprit après notre naissance à la vie matérielle. Tout comme le bébé dans le ventre de sa mère ne « sait » rien de l'après vie bien qu'il soit vivant. Le bébé qui nait au monde quelques secondes après l'accouchement est strictement le même que celui qui était dans le ventre de sa mère, en même temps qu'il n'est déjà plus le même, car il entre dans un nouveau cycle d'évaluation et d'interprétation de la vie, de l'état foetal à celui du bébé.
 
@@ -78,7 +78,7 @@ D'autre part, le simple fait de reconnaitre la réalité de ce « Je » révèle
 
 Pour en revenir au sujet, on peut toujours se demander : Qui est ce « Je » qui perçois le corps et le mental ? Et qui, parce qu'il « Est » en disant « Je suis », est aussi Conscience, et nous confère la conscience. Non seulement la conscience de notre corps, de notre mental, et de notre moi humain, mais aussi la conscience de l'autre, quand il dit « je te connais » et par extension la conscience du monde à travers les organes de perception du corps. Quel est ce « Je » pour qui, en définitive, tout est outil ou objet de perception? Et à quelle fin?
 
-Rappelons à ce niveau, que les enseignements du _Livre d'Urantia_ nous informent que : « dans l'expérience humaine, tout ce qui n'est pas spirituel, sauf la personnalité, est un moyen en vue d'une fin. Toute véritable relation entre un mortel et d'autres personnes humaines ou divines — est une fin en soi. Et une telle association avec la personnalité de la Déité est le but éternel de l'ascension de l'univers. » ([LU 112:2.8](/fr/The_Urantia_Book/112#p2_8)). Le « Je Suis » est la Personnalité Divine en chacun de nous, et grâce à elle, nous sommes conscients, et nous sommes aussi conscients d'être conscient, mais nous n'en possédons pour l'instant, que les niveaux de conscience liés à nos moyens limités de perception de la réalité.
+Rappelons à ce niveau, que les enseignements du _Livre d'Urantia_ nous informent que : « dans l'expérience humaine, tout ce qui n'est pas spirituel, sauf la personnalité, est un moyen en vue d'une fin. Toute véritable relation entre un mortel et d'autres personnes humaines ou divines — est une fin en soi. Et une telle association avec la personnalité de la Déité est le but éternel de l'ascension de l'univers. » (<a id="a80_416"></a>[LU 112:2.8](/fr/The_Urantia_Book/112#p2_8)). Le « Je Suis » est la Personnalité Divine en chacun de nous, et grâce à elle, nous sommes conscients, et nous sommes aussi conscients d'être conscient, mais nous n'en possédons pour l'instant, que les niveaux de conscience liés à nos moyens limités de perception de la réalité.
 
 La finalité véritable du « Je Suis », en chacun de nous, et de la conscience de la réalité qui lui est inhérente est donc établie : il s'agit des relations avec les personnalités humaines et divines et avec la Personnalité de la Déité elle-même. (Retenons qu'il s'agit à ce niveau, d'association avec la Personnalité de la Déité elle-même, et pas d'une association avec la Personnalité du Père). Mais le « Je Suis » en nous, ne peut le faire qu'en expérimentant des niveaux de conscience successifs, et en s'identifiant comme personnalité humaine ou « égo ", face à d'autres personnalités et finalement, face à la Source des Personnalités, le véritable « Je Suis », le Père Universel dont notre « Je Suis » est un attribut et un don.
 
@@ -93,17 +93,17 @@ Cependant, il faut toujours rappeler encore une fois, que cette identification a
 > 1. Que les systèmes physiques sont subordonnés
 > 2. Que les systèmes intellectuels sont coordonnés.
 > 3. Que la personnalité est superordonnée.
-> 4. Que la force spirituelle intérieure est potentiellement directrice. » ([LU 112:1.1](/fr/The_Urantia_Book/112#p1_1))
+> 4. Que la force spirituelle intérieure est potentiellement directrice. » (<a id="a95_76"></a>[LU 112:1.1](/fr/The_Urantia_Book/112#p1_1))
 
-En nous rappelant que : « Et, comme à chacune des étapes précédentes de votre as- cension vers Dieu, votre moi humain inaugurera ici de nouvelles relations avec votre moi divin » ([LU 13:1.22](/fr/The_Urantia_Book/13#p1_22)), posons-nous à nouveau la question suivante : celle de savoir, quelles nouvelles relations le moi divin, le « Je Suis » d'essence divine, devra établir avec la personnalité humaine, cette personnalité superordonnée émergente, bâtie autour de l'individualité et de l'identité mortelle, mais qui ne se prévaut pas toujours de cette super ordination, car elle a tendance à s'identifier au corps et au mental
+En nous rappelant que : « Et, comme à chacune des étapes précédentes de votre as- cension vers Dieu, votre moi humain inaugurera ici de nouvelles relations avec votre moi divin » (<a id="a97_180"></a>[LU 13:1.22](/fr/The_Urantia_Book/13#p1_22)), posons-nous à nouveau la question suivante : celle de savoir, quelles nouvelles relations le moi divin, le « Je Suis » d'essence divine, devra établir avec la personnalité humaine, cette personnalité superordonnée émergente, bâtie autour de l'individualité et de l'identité mortelle, mais qui ne se prévaut pas toujours de cette super ordination, car elle a tendance à s'identifier au corps et au mental
 
-À cette étape, rappelons-nous encore une fois que : « Dans tout concept d'individualité, il faudrait reconnaitre que le fait de la vie vient d'abord, et son évaluation ou son interprétation ensuite. Un enfant commence par vivre, et ultérieurement il réfléchit sur sa vie. Dans l'économie cosmique, la perspicacité précède la prévision ». ([LU 112:2.6](/fr/The_Urantia_Book/112#p2_6)).
+À cette étape, rappelons-nous encore une fois que : « Dans tout concept d'individualité, il faudrait reconnaitre que le fait de la vie vient d'abord, et son évaluation ou son interprétation ensuite. Un enfant commence par vivre, et ultérieurement il réfléchit sur sa vie. Dans l'économie cosmique, la perspicacité précède la prévision ». (<a id="a99_339"></a>[LU 112:2.6](/fr/The_Urantia_Book/112#p2_6)).
 
 Après que le moi humain nous ait en général identifiés au corps, au mental et aux autres perceptions qui leur sont associées, par le fait de la vie, nous en venons à l'heure de l'évaluation et de l'interprétation, l'heure de la recherche de la perspicacité spirituelle, l'heure qui devra permettre à l'Ajusteur et au « Je Suis » de passer de l'ombre à la lumière de la conscience.
 
 Cela conformément à la volonté du Père Universel à travers le plan d'aboutissement progressif
 
-1. Le plan d'aboutissement progressif. C'est le plan du Père Universel pour l'ascension par évolution. Ce programme fut accepté sans réserve par le Fils Eternel lorsqu'il concourut à la proposition du Père, « Faisons les créatures mortelles à notre propre image ». Ce dispositif pour rehausser les créatures du temps, implique que le Père attribue des Ajusteurs de Pensée et dote les créatures matérielles des prérogatives de la personnalité. ([LU 7:4.4](/fr/The_Urantia_Book/7#p4_4))
+1. Le plan d'aboutissement progressif. C'est le plan du Père Universel pour l'ascension par évolution. Ce programme fut accepté sans réserve par le Fils Eternel lorsqu'il concourut à la proposition du Père, « Faisons les créatures mortelles à notre propre image ». Ce dispositif pour rehausser les créatures du temps, implique que le Père attribue des Ajusteurs de Pensée et dote les créatures matérielles des prérogatives de la personnalité. (<a id="a105_444"></a>[LU 7:4.4](/fr/The_Urantia_Book/7#p4_4))
 
 Tout ce qui a été dit jusqu'ici, concerne la relation personnelle de chacun de nous dans ses relations avec les attributs du « Je Suis » cherchant à s'exprimer au travers de son « moi ». Imaginons à présent que ce même processus a cours, à chaque instant, à travers les sept milliards d'individus vivant sur la planète et sur tous les habitants mortels des sept mille milliards de planètes (à terme) du Grand Univers.
 
@@ -115,9 +115,9 @@ La caractérisation et la définition du « Je Suis » en partant du Père Unive
 
 On peut citer quelques-unes de ces caractérisations
 
-> « Le Je Suis est l'Infini ; le Je Suis est aussi l'infinité » ([LU 105:1.3](/fr/The_Urantia_Book/105#p1_3))
+> « Le Je Suis est l'Infini ; le Je Suis est aussi l'infinité » (<a id="a117_65"></a>[LU 105:1.3](/fr/The_Urantia_Book/105#p1_3))
 
-> « En tant que concept existentiel, le JE SUIS n'est ni déifié ni non déifié, ni actuel, ni potentiel, ni personnel ni impersonnel, ni statique ni dynamique » ([LU 105:1.4](/fr/The_Urantia_Book/105#p1_4))
+> « En tant que concept existentiel, le JE SUIS n'est ni déifié ni non déifié, ni actuel, ni potentiel, ni personnel ni impersonnel, ni statique ni dynamique » (<a id="a119_161"></a>[LU 105:1.4](/fr/The_Urantia_Book/105#p1_4))
 
 Cette caractérisation et cette approche, qui transcendent les aptitudes et les points de vue des créatures que nous sommes, trouvent néanmoins des moyens de s'exprimer. Ces moyens d'expression prennent en compte, la totalité des potentialités de croissance de l'ensemble des créatures sensibles au « Je Suis » (douées de la sensibilité au circuit de Personnalité du Père), ainsi que la totalité des expressions divines transmissibles à ces créatures. Ce moyen qui est le creuset vivant de l'actualisation expérientielle des potentiels contenus dans l'existentiel est la réalité même du Suprême.
 
@@ -135,7 +135,7 @@ Il induit une nouvelle donne, différente du concept du Je Suis existentiel et d
 > 
 > Je suis la porte ouverte au salut éternel.
 > 
-> Etc... » ([LU 182:1.9](/fr/The_Urantia_Book/182#p1_9)
+> Etc... » (<a id="a137_12"></a>[LU 182:1.9](/fr/The_Urantia_Book/182#p1_9)
 
 « Je Suis » se réfère au Père Universel et n'a pas besoin d'autre qualificatif, mais n'est compréhensible en tant que tel qu'au Paradis ; et pas dans le cosmos en évolution ou le Père Universel n'est pas personnellement présent.
 
@@ -149,7 +149,7 @@ Enfin ce rappel est inséré en lien avec l'effusion terminale du Maitre Fils qu
 
 Dieu le Père se révèle par les actes en vue de la mission d'aboutissement progressif, pour laquelle Il nous a créé à son image et à sa ressemblance. Notre vie, au-delà de notre incarnation dans la chair, devra osciller entre la méditation et la communion personnelle avec le Père, pour acquérir la Sagesse et ensuite utiliser cette Sa gesse pour l'Action et le Service impersonnels dans le cadre du Suprême.
 
-Ainsi, « Et, comme à chacune des étapes précédentes de votre ascension vers Dieu, votre moi humain inaugurera ici de nouvelles relations avec votre moi divin » ([LU 13:1.21](/fr/The_Urantia_Book/13#p1_21))
+Ainsi, « Et, comme à chacune des étapes précédentes de votre ascension vers Dieu, votre moi humain inaugurera ici de nouvelles relations avec votre moi divin » (<a id="a151_161"></a>[LU 13:1.21](/fr/The_Urantia_Book/13#p1_21))
 
 > Vous qui vous consacrez au service du Livre d'Urantia et de la fraternité, pouvez à peine ré- aliser I 'importance de vos actions. Sans doute que vous vivrez et mourrez sans comprendre pleinement que vous participez à la naissance d' un nouvel age de la religion sur ce monde-ci
 

@@ -39,7 +39,7 @@ Chères lectrices et chers lecteurs,
 Questions:
 - Díu a donné beaucoup à ľhomme : qu'en fait-î?
 - La sagesse et l'adoration sont P'essentiel d'une personnalité : qu'en fait-elle?
-- Toutes nos celfules futtent pour P'évolution ([LU 65:6.2](/fr/The_Urantia_Book/65#p6_2)) : les aidons-nous?
+- Toutes nos celfules futtent pour P'évolution (<a id="a41_48"></a>[LU 65:6.2](/fr/The_Urantia_Book/65#p6_2)) : les aidons-nous?
 
 Les Jeunes cherchent du travail, mais quand ifs en trouvent, il le quittent au bout de quelques moís. Les patrons ne comprennent pas. Nous sommes incapables d'offrír à ces jeunes la nouvelle société dont nous avons fait miroité la venue. Nous avons le potentiel de leur faire prendre conscience de la fin d'un âge, aidons les à ínover!
 

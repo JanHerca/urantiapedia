@@ -346,6 +346,6 @@ Le savant agnostique borgne commet une erreur quand il insiste en disant que le 
 
 [^15]: « Free Will Belief and Reality » (La croyance au libre arbitre et la réalité) R. Baumeister, C. Clark \& J. Luguri, Ch. 4 p 51 in [1] 
 
-[^16]: _The Urantia Book_, (Le Livre d'Urantia) Urantia Foundation, RR Donnelly \& Sons, Chicago 1955, p. 1431. ([LU 130:2.10](/fr/The_Urantia_Book/130#p2_10))
+[^16]: _The Urantia Book_, (Le Livre d'Urantia) Urantia Foundation, RR Donnelly \& Sons, Chicago 1955, p. 1431. (<a id="a348_113"></a>[LU 130:2.10](/fr/The_Urantia_Book/130#p2_10))
 
 [^17]: « Free Will Belief and Reality » (La croyance au libre arbitre et la ) réalité R. Baumeister, C. Clark \& J. Luguri, Ch. 4 p65 in [1]

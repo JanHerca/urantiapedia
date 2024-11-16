@@ -50,11 +50,11 @@ Afin de créer un document reflétant l'approche des révélations précédentes
 
 Voici deux citations qui nous ont guidées dans notre travail :
 
-> « Il serait toutefois stupide de vouloir accélérer trop soudainement la croissance religieuse — une race ou une nation ne peut assimiler dans une religion avancée, que les parties raisonnablement cohérentes et compatibles avec son statut évolutionnaire courant, et compte tenu de son génie d'adaptation — les conditions sociales, climatiques, politiques et économiques exercent toutes une influence pour déterminer le cours et le progrès de l'évolution religieuse. » ([LU 92:2.4](/fr/The_Urantia_Book/92#p2_4)).
+> « Il serait toutefois stupide de vouloir accélérer trop soudainement la croissance religieuse — une race ou une nation ne peut assimiler dans une religion avancée, que les parties raisonnablement cohérentes et compatibles avec son statut évolutionnaire courant, et compte tenu de son génie d'adaptation — les conditions sociales, climatiques, politiques et économiques exercent toutes une influence pour déterminer le cours et le progrès de l'évolution religieuse. » (<a id="a52_470"></a>[LU 92:2.4](/fr/The_Urantia_Book/92#p2_4)).
 
 Et la seconde :
 
-> « Chaque race doit se familiariser avec la pensée de toutes les races ; chaque nation doit connaitre les sentiments de toutes les nations. » [LU 52:6.4](/fr/The_Urantia_Book/52#p6_4)
+> « Chaque race doit se familiariser avec la pensée de toutes les races ; chaque nation doit connaitre les sentiments de toutes les nations. » <a id="a56_143"></a>[LU 52:6.4](/fr/The_Urantia_Book/52#p6_4)
 
 Pour créer notre document, nous avons rassemblé des citations sur :
 

@@ -46,17 +46,17 @@ Un parallèle doit donc être établi entre, d'une part, l'adoration et la sages
 - L'adoration est l'assistant mental sur lequel doit s'appuyer la Personnalité pour s'ouvrir à la voix intérieure de l'Ajusteur qui est Dieu en elle
 - La sagesse est l'assistant mental sur lequel s'appuie l'Ajusteur pour offrir à la Personnalité une ouverture sur l'éternité
 
-Car, « _l'Ajusteur de Pensée est la fenêtre cosmique par laquelle une créature finie peut avoir, grâce à une sincère adoration et une loyale croyance en l'évangile du royaume, un aperçu sur les aspects certains et divins de la Déité illimitée, le Père Universel._ » ([LU 103:0.1](/fr/The_Urantia_Book/103#p0_1))
+Car, « _l'Ajusteur de Pensée est la fenêtre cosmique par laquelle une créature finie peut avoir, grâce à une sincère adoration et une loyale croyance en l'évangile du royaume, un aperçu sur les aspects certains et divins de la Déité illimitée, le Père Universel._ » (<a id="a48_267"></a>[LU 103:0.1](/fr/The_Urantia_Book/103#p0_1))
 
 Réfléchissons donc un instant à la place de l'adoration, donc à sa signification et à sa valeur, selon que nous la considérons avant ou après la fusion avec l'Ajusteur. En effet, un Messager Solitaire d'Orvonton nous décrit ces deux facettes de l'adoration, d'abord en tant que mode d'émergence puis en tant que mode de finalité. Il dit tout d'abord :
 
-> « _Dans le temps, la pensée conduit à la sagesse, et la sagesse mène à l'adoration..._ » ([LU 112:2.13](/fr/The_Urantia_Book/112#p2_13))
+> « _Dans le temps, la pensée conduit à la sagesse, et la sagesse mène à l'adoration..._ » (<a id="a52_92"></a>[LU 112:2.13](/fr/The_Urantia_Book/112#p2_13))
 
 C'est bien là, en effet, le processus que nous utilisons lorsque nous tendons nos efforts de pensée vers l'existence de l'Eternel. Il ne nous semble pas que nous puissions accéder à la Révélation du Père autrement que par une tension persistante vers la sagesse, et nous venons de voir que la sagesse semble être l'apanage de l'Ajusteur en nous. Nous venons de voir aussi qu'une fois entendue la voix de la sagesse, il nous devient beaucoup plus facile de nous livrer entièrement à l'adoration. Cette première proposition est donc bien acquise par la pensée. Dans ces conditions, qu'est-ce que l'adoration, sinon l'expression accomplie de nos mobiles sincères et de nos décisions, de nos déterminations et de nos suprêmes désirs orientés vers la volonté du Père et constituant la coopération réelle et efficace avec l'Ajusteur?
 
 Le Messager Solitaire d'Orvonton dit ensuite :
 
-> « _...Dans l'éternité, l'adoration conduit à la sagesse et la sagesse aboutit à la finalité de la pensée._ » ([LU 112:2.13](/fr/The_Urantia_Book/112#p2_13))
+> « _...Dans l'éternité, l'adoration conduit à la sagesse et la sagesse aboutit à la finalité de la pensée._ » (<a id="a58_112"></a>[LU 112:2.13](/fr/The_Urantia_Book/112#p2_13))
 
 Que signifie cette nouvelle assertion? Ne voit-on pas qu'il ne s'agit que de la première proposition dont les termes sont maintenant inversés? Si! Nous le voyons bien! Et ceci constitue une énigme comme il s'en rencontre ça et là dans le Livre d'Urantia, énigme destinée à aiguiser notre sens du divin en nous, notre sens des réalités futures, notre sens des réalités qui nous attendent dans l'éternité.
 

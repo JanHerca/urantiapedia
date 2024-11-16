@@ -36,7 +36,7 @@ dateCreated: 2024-10-17T22:23:59Z
 - Pourquoi la recherche de liberté semble-t-elle être un désir toujours insatisfait?
 - Il semble que nous ayons du mal à nous identifier dans cet espace de liberté.
 
-Comme il est dit: « La liberté est inexistante en dehors de la réalité cosmique... » [LU 54:1.4](/fr/The_Urantia_Book/54#p1_4)
+Comme il est dit: « La liberté est inexistante en dehors de la réalité cosmique... » <a id="a38_85"></a>[LU 54:1.4](/fr/The_Urantia_Book/54#p1_4)
 
 - Bref, toujours un problème d'intégration d'une « personnalité », le « Qui suis-je ? » dans une « réalité » (espace) dont nous découvrons les règles chaque jour.
 - Un peu comme dans une cour de récréation scolaire?

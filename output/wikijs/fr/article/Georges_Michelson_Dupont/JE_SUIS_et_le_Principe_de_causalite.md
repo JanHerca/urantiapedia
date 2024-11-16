@@ -49,7 +49,7 @@ Ainsi, nous passons du niveau de l'Infinité au niveau absolu puis ultime pour t
 
 ## Le Principe DE CAUSAlité
 
-> « La conscience cosmique implique la reconnaissance d'une Cause Première, la seule et unique réalité sans cause.» [ [LU 0:2.2](/fr/The_Urantia_Book/0#p2_2)]
+> « La conscience cosmique implique la reconnaissance d'une Cause Première, la seule et unique réalité sans cause.» <a id="a51_116"></a>[ [LU 0:2.2](/fr/The_Urantia_Book/0#p2_2)]
 
 > « La causalité est la relation qui s'établit entre une cause et son effet, le lien qui les unit. La cause est ce qui produit quelque chose, ce qui en est à lorigine. Le effet est ce qui est la conséquence.»
 
@@ -61,7 +61,7 @@ Descartes, lui, appuya sa métaphysique sur un principe premier, à savoir Dieu.
 
 En plus de la définition de la Cause Première, le _Livre d'Urantia_ introduit l'idée de plusieurs causes premières et de causes secondaires dont voici la définition :
 
-> « Vous ne devez pas oublier que, bien qu'il existe en effet une vraie Cause Première, il y a aussi une foule de causes coordonnées et subordonnées, à la fois causes associées et causes secondaires. La différence essentielle entre causes premières et causes secondes réside en ce que les causes premières produisent des effets originels dépourvus de facteurs héréditaires dérivés d'une causalité antécédente quelconque. Les causes secondaires produisent des effets comportant invariablement une hérédité provenant d'autres causes antérieures.» [[LU 118:4.2](/fr/The_Urantia_Book/118#p4_2)]
+> « Vous ne devez pas oublier que, bien qu'il existe en effet une vraie Cause Première, il y a aussi une foule de causes coordonnées et subordonnées, à la fois causes associées et causes secondaires. La différence essentielle entre causes premières et causes secondes réside en ce que les causes premières produisent des effets originels dépourvus de facteurs héréditaires dérivés d'une causalité antécédente quelconque. Les causes secondaires produisent des effets comportant invariablement une hérédité provenant d'autres causes antérieures.» <a id="a63_545"></a>[[LU 118:4.2](/fr/The_Urantia_Book/118#p4_2)]
 
 Cette déclaration « une foule de causes premières» interpellent la raison philosophique et la logique scientifique et semble contredire ce que le Conseiller Divin affirme « _la reconnaissance d'une Cause Première, la seule et unique réalité sans cause._»
 
@@ -102,13 +102,13 @@ En séparant le déifié du nondéifié, le potentiel de l'actuel et par combina
 
 Voyons comment le principe de causalité fonctionne depuis le niveau des Absolus jusqu'au niveau des êtres finis, c'est à dire comment les univers et leurs habitants sont créés.
 
-Pour cela revoyons la nature et les attributs de l'Absolu de Déité, l'Absolu Non Qualifié et l'Absolu Universel car ce sont eux qui renferment les potentiels de causalités et de capacités actualisables du JE SUIS et c'est sur eux que la Trinité du Paradis sous la forme de la Trinité de l'Ultimité sur le niveau absonite et la Trinité de Suprématie sur les niveaux finis activent les activent. [[LU 106:8.9](/fr/The_Urantia_Book/106#p8_9)] C'est la raison pour laquelle la révélation de la réalité actualisée doit toujours être partielle et moindre que sa potentialité car les Absolus sont sans limites, éternels et infinis, rien ne saurait les épuiser.
+Pour cela revoyons la nature et les attributs de l'Absolu de Déité, l'Absolu Non Qualifié et l'Absolu Universel car ce sont eux qui renferment les potentiels de causalités et de capacités actualisables du JE SUIS et c'est sur eux que la Trinité du Paradis sous la forme de la Trinité de l'Ultimité sur le niveau absonite et la Trinité de Suprématie sur les niveaux finis activent les activent. <a id="a104_394"></a>[[LU 106:8.9](/fr/The_Urantia_Book/106#p8_9)] C'est la raison pour laquelle la révélation de la réalité actualisée doit toujours être partielle et moindre que sa potentialité car les Absolus sont sans limites, éternels et infinis, rien ne saurait les épuiser.
 
 Mais, avant de continuer, rappelons que : « Dieu est amour», son unique attitude personnelle à l'égard des affaires de l'univers est donc toujours une réaction d'affection divine. » Il découle de cette affirmation que les actes, les causes et les effets sont, en définitive, motivés par son amour, le désir de faire du bien ; la causalité résultante en est imprégnée.
 
 ## Les Absolus de Potentialité
 
-> «Ces potentiels de l'infinité non révélés demeurent cachés dans l'espace chez l'Absolu Non Qualifié et divinement ensevelis dans l'Absolu de Déité, tandis que ces deux derniers deviennent un dans le fonctionnement de l'Absolu Universel, l'unité-infinité non révélée du Père du Paradis. » [[LU 0:11.1](/fr/The_Urantia_Book/0#p11_1) 0:11.1]
+> «Ces potentiels de l'infinité non révélés demeurent cachés dans l'espace chez l'Absolu Non Qualifié et divinement ensevelis dans l'Absolu de Déité, tandis que ces deux derniers deviennent un dans le fonctionnement de l'Absolu Universel, l'unité-infinité non révélée du Père du Paradis. » <a id="a110_290"></a>[[LU 0:11.1](/fr/The_Urantia_Book/0#p11_1) 0:11.1]
 
 Les Absolus de Potentialité sont existentiels en actualité mais expérientiels en manifestation.
 
@@ -121,14 +121,14 @@ Les Absolus de Potentialité sont existentiels en actualité mais expérientiels
 
 **L'Absolu Non Qualifié.**
 
-1. L'Absolu Non Qualifié est la révélation potentielle du JE SUIS énergie, le réservoir renfermant l'infinité non révélée de tous les potentiels de nondeité, non personnel qui ont été séparés du total du JE SUIS par volition de la Cause Première. Il est dépourvu de personnalité, de divinité et de toute prérogative de créateur. [[LU 0:11.7](/fr/The_Urantia_Book/0#p11_7)]
-2. L'Absolu Non Qualifié est statique ; c'est pourquoi la puissance d'espace [[LU 11:7.4](/fr/The_Urantia_Book/11#p7_4)] qu'il renferme nest pas sujette à l'attraction gravitationnelle du Paradis. [[LU 11:8.8](/fr/The_Urantia_Book/11#p8_8)]
+1. L'Absolu Non Qualifié est la révélation potentielle du JE SUIS énergie, le réservoir renfermant l'infinité non révélée de tous les potentiels de nondeité, non personnel qui ont été séparés du total du JE SUIS par volition de la Cause Première. Il est dépourvu de personnalité, de divinité et de toute prérogative de créateur. <a id="a123_329"></a>[[LU 0:11.7](/fr/The_Urantia_Book/0#p11_7)]
+2. L'Absolu Non Qualifié est statique ; c'est pourquoi la puissance d'espace <a id="a124_77"></a>[[LU 11:7.4](/fr/The_Urantia_Book/11#p7_4)] qu'il renferme nest pas sujette à l'attraction gravitationnelle du Paradis. <a id="a124_197"></a>[[LU 11:8.8](/fr/The_Urantia_Book/11#p8_8)]
 3. Il est réactif et en attente : Les causalités émergeantes, finies, absonite et absolues de l'Absolu de Déité déclenchent des effets correspondants dans l'Absolu Non Qualifié qui devient réactif. Il est ainsi conditionné par la Déité.
 4. Lespace limite la fonction du Non Qualifié, mais la présence du Non Qualifié est sans limites, elle est infinie. À mesure que la formation des univers s'effectue, la puissance d'espace manipulée par les agents de l'Esprit Infini laisse place aux énergies sensibles à la gravité du Paradis et la présence de l'Absolu Non Qualifié se retire d'autant.
 
 **L'Absolu Universel.**
 
-> « Dans le cosmos, le fini ne peut coexister avec l'Infini que par suite de la présence associative de l'Absolu Universel qui équilibre si parfaitement les tensions entre le temps et l'éternité, le fini et l'infini, le potentiel de la réalité et l'actualité de la réalité, le Paradis et l'espace, l'homme et Dieu.» [[LU 0:11.23](/fr/The_Urantia_Book/0#p11_23)]
+> « Dans le cosmos, le fini ne peut coexister avec l'Infini que par suite de la présence associative de l'Absolu Universel qui équilibre si parfaitement les tensions entre le temps et l'éternité, le fini et l'infini, le potentiel de la réalité et l'actualité de la réalité, le Paradis et l'espace, l'homme et Dieu.» <a id="a130_316"></a>[[LU 0:11.13](/fr/The_Urantia_Book/0#p11_13)]
 
 1. L'Absolu Universel est l'unificateur du déifié et du non déifié ; le corrélateur de l'absolu et du relatif.
 2. L'Absolu Universel est le mécanisme qui coordonne, unifie et compense la tension entre l'existentiel et l'expérientiel.

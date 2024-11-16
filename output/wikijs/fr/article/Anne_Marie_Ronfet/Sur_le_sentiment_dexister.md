@@ -49,7 +49,7 @@ Qu'est qui fait que nous nous sentons vivre et vivre pleinement?
 - Nous connaissons nos limites et essayons de les dépasser.
 - Nous pouvons faire des expériences et leur donner du sens
 
-_Le Livre d'Urantia nous dit [LU 112:1.13](/fr/The_Urantia_Book/112#p1_13) La vie est en réalité un processus qui prend place entre l'organisme (l'individualité) et son environnement. La personnalité communique des valeurs d'identité et des significations de continuité à cette association d'un organisme et d'un environnement..._
+_Le Livre d'Urantia nous dit <a id="a51_29"></a>[LU 112:1.13](/fr/The_Urantia_Book/112#p1_13) La vie est en réalité un processus qui prend place entre l'organisme (l'individualité) et son environnement. La personnalité communique des valeurs d'identité et des significations de continuité à cette association d'un organisme et d'un environnement..._
 
 Nous avons donc une identité et un environnement, parfois un bon environnement, parfois un environnement plus difficile. Dans les cas que je viens de citer plus haut, l'environnement est extrêmement dur.
 
@@ -59,13 +59,13 @@ La personnalité unifie tous les facteurs de la réalité, le corps, les réacti
 
 La personnalité coordonne, fait des choix et oriente l'individu dans une direction ou dans une autre...Elle fait en sorte que l'individu ne soit pas une machine, un simple outil de réaction aux stimuli mais un facteur de choix tenant compte de l'ensemble d'une situation... Et tout se passe dans le mental. C'est le mental le grand interprète, le terrain où se passent les échanges, ou naissent les significations. Et, le moteur de ces échanges, c'est la personnalité;
 
-> _C'est par l'intermédiaire du mental que le moi et l'environnement établissent un contact significatif. L'aptitude et la bonne disposition de l'organisme à établir des contacts significatifs avec l'environnement (à réagir à des incitations) représentent l'attitude de la personnalité tout entière._ [LU 112:1.15](/fr/The_Urantia_Book/112#p1_15)
+> _C'est par l'intermédiaire du mental que le moi et l'environnement établissent un contact significatif. L'aptitude et la bonne disposition de l'organisme à établir des contacts significatifs avec l'environnement (à réagir à des incitations) représentent l'attitude de la personnalité tout entière._ <a id="a61_301"></a>[LU 112:1.15](/fr/The_Urantia_Book/112#p1_15)
 
 ## I. Approfondir ses expériences
 
 Comprendre ses expériences d'un point de vue psychologique, en tirer des conclusions et ajouter à ses conclusions des éléments spiritualisant permettent d'avancer à grands pas.
 
-> _Dans tout concept de l'individualité, il faudrait reconnaître que le fait de la vie vient d'abord, et son évaluation ou son interprétation ensuite. Un enfant commence par vivre, et réfléchit ultérieurement sur sa vie...._ [LU 112:2.6](/fr/The_Urantia_Book/112#p2_6)
+> _Dans tout concept de l'individualité, il faudrait reconnaître que le fait de la vie vient d'abord, et son évaluation ou son interprétation ensuite. Un enfant commence par vivre, et réfléchit ultérieurement sur sa vie...._ <a id="a67_225"></a>[LU 112:2.6](/fr/The_Urantia_Book/112#p2_6)
 
 On commence par vivre, on tire des conclusions, on réfléchit, on acquière une certaine sagesse et une maîtrise de son environnement. Mais on peut aller plus loin en ajoutant de la valeur spirituelle. Qu'est ce que cela veut dire d'ajouter de la valeur spirituelle à ses expériences ?
 
@@ -85,7 +85,7 @@ D'autre part ces valeurs s'inscrivent dans l'émergence du Suprême. Les valeurs
 
 Si nous revenons aux exemples malheureux des personnes citées plus haut et qui ne sont pas rares, nous trouvons dans chaque cas une grande solitude.
 
-Les fascicules nous disent aussi [LU 112:1.16](/fr/The_Urantia_Book/112#p1_16) _La personnalité agit difficilement dans l'isolement. L'homme est, par naissance, une créature sociable ; il est dominé par un désir ardent d'appartenance. Il est littéralement vrai « qu'aucun homme ne vit pour lui-même »_.
+Les fascicules nous disent aussi <a id="a87_33"></a>[LU 112:1.16](/fr/The_Urantia_Book/112#p1_16) _La personnalité agit difficilement dans l'isolement. L'homme est, par naissance, une créature sociable ; il est dominé par un désir ardent d'appartenance. Il est littéralement vrai « qu'aucun homme ne vit pour lui-même »_.
 
 Nous comprenons mieux le désarroi éprouvé par la femme dont l'histoire est citée plus haut ou l'homme à la dérive...
 

@@ -42,7 +42,7 @@ Je tiens ici à remercier, du fond du cœur, tous les traducteurs et les révise
 
 Nous savons que la révélation vient en avance sur son temps afin de préparer le terrain pour une diffusion beaucoup plus ample quand les temps seront venus, c'est-à-dire quand l'humanité sera plus encline à vivre l'Evangile de Jésus. Les traductions font partie intégrante du plan des révélateurs, elles sont essentielles pour éliminer les confusions idéologiques et théologiques, élever la qualité de penser, chan- ger les mentalités sociales, améliorer la qualité des rapports humains, élargir le niveau de conscience de l'univers dans lequel nous vivons et rehausser la spiritualité de notre humanité. Les traductions participent à la construction des fondations qui vont soutenir efficacement les temps nouveaux à venir, l'époque où l'amour, c'est-à-dire l'envie de faire du bien à l'autre, deviendra le maitre mot du progrès spirituel et de la justice sociale.
 
-> « Si seulement chaque mortel pouvait devenir un foyer d'affection dynamique, le virus bénin de l'amour imprègnerait bientôt le courant émotionnel sentimental de l'humanité au point que toute la civilisation serait enveloppée d'amour, et ce serait la réalisation de la fraternité humaine. » [LU 100:4.6](/fr/The_Urantia_Book/100#p4_6)
+> « Si seulement chaque mortel pouvait devenir un foyer d'affection dynamique, le virus bénin de l'amour imprègnerait bientôt le courant émotionnel sentimental de l'humanité au point que toute la civilisation serait enveloppée d'amour, et ce serait la réalisation de la fraternité humaine. » <a id="a44_292"></a>[LU 100:4.6](/fr/The_Urantia_Book/100#p4_6)
 
 ## Un court historique
 

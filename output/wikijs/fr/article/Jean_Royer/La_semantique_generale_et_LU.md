@@ -58,11 +58,11 @@ Un autre exemple donné par Steven Lewis: notre nom n'indique pas nos différent
 
 Le Livre d'Urantia rappelle souvent le principe de raisonnement par niveaux. Le mot niveau au singulier ou niveaux au pluriel est utilisé plus de 800 fois dans le livre. Nous n'en citerons ici que trois.
 
-> _La Déité fonctionne sur les niveaux personnel, prépersonnel et superpersonnel. La Déité totale est fonctionnelle sur les sept niveaux suivants:_ [LU 0:1.3](/fr/The_Urantia_Book/0#p1_3)
+> _La Déité fonctionne sur les niveaux personnel, prépersonnel et superpersonnel. La Déité totale est fonctionnelle sur les sept niveaux suivants:_ <a id="a60_148"></a>[LU 0:1.3](/fr/The_Urantia_Book/0#p1_3)
 
-> _La conscience cosmique implique la reconnaissance d'une Cause Première. La seule et unique réalité sans cause. Dieu, le Père Universel, fonctionne sur trois niveaux de Déité -personnalité, de valeur subinfinie et d'expression de divinité relative :_ [LU 0:2.2](/fr/The_Urantia_Book/0#p2_2)
+> _La conscience cosmique implique la reconnaissance d'une Cause Première. La seule et unique réalité sans cause. Dieu, le Père Universel, fonctionne sur trois niveaux de Déité -personnalité, de valeur subinfinie et d'expression de divinité relative :_ <a id="a62_253"></a>[LU 0:2.2](/fr/The_Urantia_Book/0#p2_2)
 
-> _DIEU est un symbole verbal désignant toutes les personnalisations de la Déité. Il faut définir différemment ce terme pour chaque niveau personnel de fonction de la Déité et il faut encore le redéfinir plus explicitement à l'intérieur de chacun de ces niveaux. En effet, on peut employer le mot pour désigner les diverses personnalisations coordonnées et subordonnées de la Déité, par exemple les Fils Créateurs Paradisiaques-les pères des univers locaux._ [LU 0:2.6](/fr/The_Urantia_Book/0#p2_6)
+> _DIEU est un symbole verbal désignant toutes les personnalisations de la Déité. Il faut définir différemment ce terme pour chaque niveau personnel de fonction de la Déité et il faut encore le redéfinir plus explicitement à l'intérieur de chacun de ces niveaux. En effet, on peut employer le mot pour désigner les diverses personnalisations coordonnées et subordonnées de la Déité, par exemple les Fils Créateurs Paradisiaques-les pères des univers locaux._ <a id="a64_459"></a>[LU 0:2.6](/fr/The_Urantia_Book/0#p2_6)
 
 Il faudrait une étude sérieuse du « Mental et la santé psychique » (1933) de Korzybski pour se rendre compte que l'évolution des mentalités, au moins chez les chercheurs du 20^ème^ siècle, était une condition sine qua non de la parution du livre. Ceci explique donc peut-être aussi en partie pourquoi il a fallu attendre cette époque pour avoir une révélation préconisée depuis plusieurs siècles par nos amis invisibles.
 

@@ -79,7 +79,7 @@ Au début des années 1900, plusieurs anthropologues s'opposeront à ce concept.
 
 Puisque ce mot était employé depuis le XVIIIe siècle, il était logique pour eux d'utiliser le même terme puisqu'ils avaient pour consigne de prioriser les mots et concepts usuels de l'époque de cette révélation.
 
-« _Dans notre effort pour étendre la conscience cosmique et rehausser la perception spirituelle, il est extrêmement difficile de présenter des concepts élargis et une vérité avancée alors que nous sommes limités par l'emploi d'un langage restreint du royaume. Cependant, notre mandat nous exhorte à faire tous nos efforts pour transmettre nos significations en utilisant les symboles verbaux de la langue anglaise. On nous a recommandé de n'introduire de nouveaux termes que si l'on ne pouvait trouver dans la terminologie anglaise aucune expression propre à illustrer ces nouveaux concepts, fût-ce partiellement ou même en en déformant plus ou moins le sens._ » [LU 0:0.2](/fr/The_Urantia_Book/0#p0_2)
+« _Dans notre effort pour étendre la conscience cosmique et rehausser la perception spirituelle, il est extrêmement difficile de présenter des concepts élargis et une vérité avancée alors que nous sommes limités par l'emploi d'un langage restreint du royaume. Cependant, notre mandat nous exhorte à faire tous nos efforts pour transmettre nos significations en utilisant les symboles verbaux de la langue anglaise. On nous a recommandé de n'introduire de nouveaux termes que si l'on ne pouvait trouver dans la terminologie anglaise aucune expression propre à illustrer ces nouveaux concepts, fût-ce partiellement ou même en en déformant plus ou moins le sens._ » <a id="a81_663"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2)
 
 Si c'était à refaire, il est probable que les révélateurs utiliseraient les termes « population », « ethnie » ou « phratrie » pour désigner ce qui est nommé dans _Le Livre d'Urantia_ comme une « race ». Bref, le mot le plus usuel utilisé mondialement par les humains à notre époque. N'étant pas, Dieu m'en garde, raciste, le mot « race » ne me dérange aucunement.
 
@@ -91,9 +91,9 @@ Un chat est un chat, il n'est pas un chien, car ils ne sont pas de toute éviden
 
 Étant donné que l'homme n'était pas présent avant l'existence du premier homme, nous devons forcément nous en remettre aux révélateurs pour apprendre notre propre histoire de l'humanité. C'est il y a près d'un million d'années qu'apparurent sur Urantia les deux premiers humains.
 
-La naissance des deux premiers êtres humains se situe exactement 993419 ans avant l'année 1934 de l'ère chrétienne [LU 62:5.1](/fr/The_Urantia_Book/62#p5_1).
+La naissance des deux premiers êtres humains se situe exactement 993419 ans avant l'année 1934 de l'ère chrétienne <a id="a93_115"></a>[LU 62:5.1](/fr/The_Urantia_Book/62#p5_1).
 
-En fait, ils ne devinrent de véritables humains que onze années plus tard après que l'adjuvat d'adoration entra en contact avec eux vers dix ans et l'adjuvat de sagesse par la suite ([LU 62:6.5](/fr/The_Urantia_Book/62#p6_5)).
+En fait, ils ne devinrent de véritables humains que onze années plus tard après que l'adjuvat d'adoration entra en contact avec eux vers dix ans et l'adjuvat de sagesse par la suite (<a id="a95_183"></a>[LU 62:6.5](/fr/The_Urantia_Book/62#p6_5)).
 
 URANTIA fut enregistrée en tant que monde habité lorsque les deux premiers êtres humains — les jumeaux — eurent onze ans... 63:0.1 (711,1).
 
@@ -101,7 +101,7 @@ Nous avons ici nos deux premiers êtres humains qui se reproduisirent et se rép
 
 ## L'origine Des « Races » De Couleurs
 
-Il y a 500000 ans, un couple badonite du nord-ouest de l'Inde, descendant forcément des deux premiers humains, donna naissance à dix-neuf enfants différents doués d'une intelligence supérieure et d'une couleur de peau particulière. Cinq étaient rouges, deux étaient orangés, quatre étaient jaunes, deux étaient verts, quatre étaient bleus et deux étaient indigo [LU 64:5.3](/fr/The_Urantia_Book/64#p5_3)
+Il y a 500000 ans, un couple badonite du nord-ouest de l'Inde, descendant forcément des deux premiers humains, donna naissance à dix-neuf enfants différents doués d'une intelligence supérieure et d'une couleur de peau particulière. Cinq étaient rouges, deux étaient orangés, quatre étaient jaunes, deux étaient verts, quatre étaient bleus et deux étaient indigo <a id="a103_362"></a>[LU 64:5.3](/fr/The_Urantia_Book/64#p5_3)
 
 Ces dix-neuf humains procréèrent avec des membres de leur tribu qui prirent tous la couleur de peau caractéristique de leur ascendant coloré, donnant ainsi le départ aux six « races » de couleurs.
 
@@ -113,7 +113,7 @@ Si nous faisons l'inventaire des humains d'il y a 500000 ans, nous avons les hum
 
 ## CONCLUSION
 
-Donc, pour répondre à la question de Pa trice Monsigny, peu importe, le mot utilisé pour désigner les différentes variantes de l'être humain, nous sommes tous issus, et même à deux occasions, de la même famille humaine. La première étant Andon et Fonta, les Andonites, la deuxième étant le couple badonite à l'origine des dix-neuf enfants de couleurs différentes, la famille Sangik [LU 64:5.2](/fr/The_Urantia_Book/64#p5_2). En conclusion, nous sommes tous des humains, des frères et des sours d'une même grande famille. Raison de plus, de s'entraider les uns les autres et de s'aimer comme notre plus grand frère, Jésus, nous l'a démontré par sa vie humaine il y a plus de deux mille ans!
+Donc, pour répondre à la question de Pa trice Monsigny, peu importe, le mot utilisé pour désigner les différentes variantes de l'être humain, nous sommes tous issus, et même à deux occasions, de la même famille humaine. La première étant Andon et Fonta, les Andonites, la deuxième étant le couple badonite à l'origine des dix-neuf enfants de couleurs différentes, la famille Sangik <a id="a115_382"></a>[LU 64:5.2](/fr/The_Urantia_Book/64#p5_2). En conclusion, nous sommes tous des humains, des frères et des sours d'une même grande famille. Raison de plus, de s'entraider les uns les autres et de s'aimer comme notre plus grand frère, Jésus, nous l'a démontré par sa vie humaine il y a plus de deux mille ans!
 
 Pour ce qui est des hommes de science, tant et aussi longtemps qu'ils ne voudront pas considérer autre chose que ce qu'ils peuvent voir et manipuler entre leurs mains, la vérité de la réalité leur échappera toujours. L'univers n'est pas seulement matériel!
 

@@ -36,7 +36,7 @@ dateCreated: 2024-11-1T18:24:19Z
 
 Agnès Lazar-Belgique
 
-> L'amour est la plus grande de toutes les réalités spirituelles. La vérité est une révélation libératrice, mais l'amour est la relation suprême. Le but ultime du progrès ahumain consiste à reconnaitre respectueusement la paternité de Dieu et à matérialiser avec amour la fraternité des hommes. [LU 143:1.4](/fr/The_Urantia_Book/143#p1_4)
+> L'amour est la plus grande de toutes les réalités spirituelles. La vérité est une révélation libératrice, mais l'amour est la relation suprême. Le but ultime du progrès ahumain consiste à reconnaitre respectueusement la paternité de Dieu et à matérialiser avec amour la fraternité des hommes. <a id="a38_295"></a>[LU 143:1.4](/fr/The_Urantia_Book/143#p1_4)
 
 En m'appuyant sur la prière de Saint François, complètement dédiée au service, ainsi que sur des passages du Livre d'Urantia, je vais vous témoigner d'une expérience des plus extra-ordinaires (l'extra étant Dieu: l'acte est à l'homme, les conséquences sont à Dieu) que Notre Père m'est offerte de vivre avec Lui, Guy Perron et Aurore Hennebert, ainsi qu'un groupe de Sénégalais et Canadiens qui accompagne, en prière, ce service hors du commun, dans un lieu déserté par l'amour : la prison.
 
@@ -63,7 +63,7 @@ Là où il y a la tristesse, que je mette la joie.
 
 Le « là où» a son apogée, dans les « oubliettes » de la prison de Leuze. En écoutant le divin Moniteur en nous, en suivant sa guidance, Dieu nous amène là où Il n'est pas encore pour y mettre Qui il est : amour, pardon, union, vérité, foi, espérance, lumière et joie!
 
-Tout véritable amour vient de Dieu, et l'homme reçoit l'affection divine dans la mesure où lui-même effuse cet amour sur ses compagnons. L'amour du Père ne peut devenir réel pour l'homme mortel qu'en passant par sa personnalité, alors qu'à son tour lui-même effuse cet amour sur ses compagnons. ([LU 117:6.10](/fr/The_Urantia_Book/117#p6_10))
+Tout véritable amour vient de Dieu, et l'homme reçoit l'affection divine dans la mesure où lui-même effuse cet amour sur ses compagnons. L'amour du Père ne peut devenir réel pour l'homme mortel qu'en passant par sa personnalité, alors qu'à son tour lui-même effuse cet amour sur ses compagnons. (<a id="a65_296"></a>[LU 117:6.10](/fr/The_Urantia_Book/117#p6_10))
 
 <p style="text-align:center;">
 O Seigneur, que je ne cherche pas tant
@@ -93,7 +93,7 @@ Le monde carcéral est un endroit où vit une énergie lourde de violence et d'a
 
 C'est pourtant dans cet endroit, dans ce condensé de noirceur que, tous les trois, nous avons été touchés par la grâce de Dieu en goûtant profondément à Son Amour pour ces laissés-pour-compte.
 
-> « Vous ne pouvez observer l'esprit divin à l'œuvre dans votre mental, mais il existe une méthode pratique pour découvrir le degré auquel vous avez abandonné le contrôle des pouvoirs de votre âme à l'enseignement et aux directives de l'esprit intérieur du Père qui est aux cieux : c'est le degré de votre amour pour vos semblables. » ([LU 146:3.6](/fr/The_Urantia_Book/146#p3_6))
+> « Vous ne pouvez observer l'esprit divin à l'œuvre dans votre mental, mais il existe une méthode pratique pour découvrir le degré auquel vous avez abandonné le contrôle des pouvoirs de votre âme à l'enseignement et aux directives de l'esprit intérieur du Père qui est aux cieux : c'est le degré de votre amour pour vos semblables. » (<a id="a95_336"></a>[LU 146:3.6](/fr/The_Urantia_Book/146#p3_6))
 
 ## Le basculement
 

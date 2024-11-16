@@ -94,23 +94,23 @@ En tant que secrétaire, il entretenait une base de données de lecteurs impress
 
 **LA MORT.**
 
-> «. . . la mort nest que le commencement d'une carrière d’aventures sans fin, une vie perpétuelle d'anticipations, un éternel voyage de découvertes. » ([LU 14:5.10](/fr/The_Urantia_Book/14#p5_10))
+> «. . . la mort nest que le commencement d'une carrière d’aventures sans fin, une vie perpétuelle d'anticipations, un éternel voyage de découvertes. » (<a id="a96_153"></a>[LU 14:5.10](/fr/The_Urantia_Book/14#p5_10))
 
 **OÙ VA MAX?**
 
-> Tous les mortels ayant le statut de survie et étant sous la garde d'un gardien personnel de la destinée, franchissent le seuil de la mort naturelle et se personnalisent sur le monde des maisons à la troisième période. ... C'est la pratique générale dans tout Nébadon. [LU 30:4.11](/fr/The_Urantia_Book/30#p4_11)
+> Tous les mortels ayant le statut de survie et étant sous la garde d'un gardien personnel de la destinée, franchissent le seuil de la mort naturelle et se personnalisent sur le monde des maisons à la troisième période. ... C'est la pratique générale dans tout Nébadon. <a id="a100_270"></a>[LU 30:4.11](/fr/The_Urantia_Book/30#p4_11)
 
 **QUI VA-T-IL RENCONTRER?**
 
-> Après la mort naturelle, tous les types dascendeurs fraternisent comme une seule famille morontielle sur les mondes des maisons. [LU 30:4.10](/fr/The_Urantia_Book/30#p4_10)
+> Après la mort naturelle, tous les types dascendeurs fraternisent comme une seule famille morontielle sur les mondes des maisons. <a id="a104_131"></a>[LU 30:4.10](/fr/The_Urantia_Book/30#p4_10)
 
 **QUE SE RAPPELLERA MAX DE SON EXPÉRIENCE TERRESTRE?**
 
-> La mémoire mortelle de l'expérience humaine sur les mondes matériels d’origine survit à la mort de la chair, parce que l'Ajusteur intérieur en a acquis une contrepartie spirituelle, la transcription des évènements de la vie humaine qui ont présenté une signification spirituelle. [LU 40:9.4](/fr/The_Urantia_Book/40#p9_4)
+> La mémoire mortelle de l'expérience humaine sur les mondes matériels d’origine survit à la mort de la chair, parce que l'Ajusteur intérieur en a acquis une contrepartie spirituelle, la transcription des évènements de la vie humaine qui ont présenté une signification spirituelle. <a id="a108_282"></a>[LU 40:9.4](/fr/The_Urantia_Book/40#p9_4)
 
 **L'EXPÉRIENCE DE LA MORT AURA-T-ELLE CHANGÉ MAX?**
 
-> « La mort náa rien ajouté aux possessions intellectuelles ni à la dotation spirituelle, mais elle a ajouté au statut expérientiel la conscience de la survie. » « Sur le monde des maisons numéro un (ou sur un autre si votre statut est plus élevé) vous reprendrez votre entrainement intellectuel et votre développement spirituel au niveau exact où il a été interrompu par la mort. [LU 48:7.25](/fr/The_Urantia_Book/48#p7_25)
+> « La mort náa rien ajouté aux possessions intellectuelles ni à la dotation spirituelle, mais elle a ajouté au statut expérientiel la conscience de la survie. » « Sur le monde des maisons numéro un (ou sur un autre si votre statut est plus élevé) vous reprendrez votre entrainement intellectuel et votre développement spirituel au niveau exact où il a été interrompu par la mort. <a id="a112_381"></a>[LU 48:7.25](/fr/The_Urantia_Book/48#p7_25)
 
 <figure class="table chapter-navigator">
   <table>

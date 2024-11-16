@@ -36,7 +36,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 L'adoration est l'impulsion religieuse qui amène une satisfaction adoratrice, toujours selon notre propre ligne de conduite, dirigée par (1) notre intuition, associée avec (2) notre compréhension, soutenue par (3) notre courage, approuvée par (4) notre connaissance, orientée (5) dans le conseil, pour en arriver dans un état d'adoration satisfaisant les besoins de l'intuition.
 
-L'exemple n nº 20 de « Mota morontielle » est : « Seul un poète peut discerner la poésie dans la banale vie courante » ([LU 48:7.22](/fr/The_Urantia_Book/48#p7_22))
+L'exemple n nº 20 de « Mota morontielle » est : « Seul un poète peut discerner la poésie dans la banale vie courante » (<a id="a38_120"></a>[LU 48:7.22](/fr/The_Urantia_Book/48#p7_22))
 
 J'illustrerai cet aphorisme par deux poèmes d'adoration émanant de deux poètes du 19è siècle, nés sur deux continents bordant l'Atlantique. Les deux poèmes s'adressent au Créateur de notre univers local de Nébadon et aux armées célestes, jusque dans notre système local et sur notre planète Urantia.
 

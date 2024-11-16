@@ -34,7 +34,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 </figure>
 
 
-> « _vous êtes dans ce monde mais vous ne devez pas vivre à sa manière....._ » ([LU 180:3.1](/fr/The_Urantia_Book/180#p3_1))
+> « _vous êtes dans ce monde mais vous ne devez pas vivre à sa manière....._ » (<a id="a36_80"></a>[LU 180:3.1](/fr/The_Urantia_Book/180#p3_1))
 
 J'attends la nuit. Je marche dans une ville qui s'étrangle un peu plus chaque jour. Je marche dans les rues, les boulevards. Vous marchez dans les rues, les boulevards. Vous ne me reconnaîtrez pas. Comme vous je marche rapidement. Je sais où aller. Nous savons tous où aller. Pas de questions. Embourbés dans le miroir de notre contemplation vaniteuse nous entassons, toujours plus avides, nos désirs de possession dans un gouffre sans fond. Derrière nos façades de prestige, un néant sans signification nous dévore. Nous sommes terriblement ébranchés et nous le savons bien au creux de nous-mêmes. La fluidité de la vie nous a quittés.
 

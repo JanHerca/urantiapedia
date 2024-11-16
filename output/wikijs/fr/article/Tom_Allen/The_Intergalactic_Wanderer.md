@@ -50,9 +50,9 @@ La « **triade de vérification** » est une technique de recherche que j'utilis
 2. **La science du début du XXe siècle Faits historiques (vers 1880-1935)**
 3. **La science actuelle — Hypothèses et faits**
 
-> « _On ne peut saisir la vraie perspective de quelque problème de réalité — humain ou divin, terrestre ou cosmique — que par l'étude et la corrélation complètes et sans préjugés de trois phases de la réalité universelle : l'origine, l'histoire et la destinée. La bonne compréhension de ces trois réalités expérientielles fournit la base nécessaire à une sage estimation du statut présent._ ». ([LU 19:1.6](/fr/The_Urantia_Book/19#p1_6))
+> « _On ne peut saisir la vraie perspective de quelque problème de réalité — humain ou divin, terrestre ou cosmique — que par l'étude et la corrélation complètes et sans préjugés de trois phases de la réalité universelle : l'origine, l'histoire et la destinée. La bonne compréhension de ces trois réalités expérientielles fournit la base nécessaire à une sage estimation du statut présent._ ». (<a id="a52_395"></a>[LU 19:1.6](/fr/The_Urantia_Book/19#p1_6))
 
-> Votre monde, Urantia; est l'une des nombreuses planetes habitées similaires comprises dans l'univers local de Nébadon. Cet univers, avec d'autres créations similaires, forme le superunivers d'Orvonton dont la capitale est <ins>Uversa</ins>, d'où vient notre commission. Orvonton est des sept superunivers évolutionnaires du temps et de l'espace qui entourent l'univers central de Havona, la créatiom sans commencement ni fin de perfection divine. Au coeur de cet univers éternel et central, se trouve l'Ille du Paradis; immobile, centre géographique de l'infinité et demeure du Dieu éternel. [LU 0:0.5](/fr/The_Urantia_Book/0#p0_5)
+> Votre monde, Urantia; est l'une des nombreuses planetes habitées similaires comprises dans l'univers local de Nébadon. Cet univers, avec d'autres créations similaires, forme le superunivers d'Orvonton dont la capitale est <ins>Uversa</ins>, d'où vient notre commission. Orvonton est des sept superunivers évolutionnaires du temps et de l'espace qui entourent l'univers central de Havona, la créatiom sans commencement ni fin de perfection divine. Au coeur de cet univers éternel et central, se trouve l'Ille du Paradis; immobile, centre géographique de l'infinité et demeure du Dieu éternel. <a id="a54_594"></a>[LU 0:0.5](/fr/The_Urantia_Book/0#p0_5)
 
 Ce n'est que lorsque les trois aspects de l'origine, de l'histoire et de la destinée sont minutieusement analysés, critiqués, synthétisés et unifiés que les cadres de l'univers peuvent se développer avec des degrés d'erreur moindres.
 
@@ -112,21 +112,21 @@ Les faits historiques et la science actuelle concernant NGC 2419 sont ici prése
 
 1\.
 
-> « _Le secteur du Sagittaire et <ins>tous les autres secteurs et divisions d'Orvonton</ins> sont <ins>en rotation autour d'Uversa</ins>, et une partie de la confusion des observateurs urantiens d'étoiles provient des illusions et des distorsions relatives produites par les multiples mouvements révolutionnaires suivants:_ ([LU 15:3.7](/fr/The_Urantia_Book/15#p3_7))
+> « _Le secteur du Sagittaire et <ins>tous les autres secteurs et divisions d'Orvonton</ins> sont <ins>en rotation autour d'Uversa</ins>, et une partie de la confusion des observateurs urantiens d'étoiles provient des illusions et des distorsions relatives produites par les multiples mouvements révolutionnaires suivants:_ (<a id="a114_325"></a>[LU 15:3.7](/fr/The_Urantia_Book/15#p3_7))
 
-> « _Le <ins>tourbillon</ins> des dix secteurs majeurs, communément appelé trainées d'étoiles, autour d'Uversa, le monde-siège d'Orvonton._ » ([LU 15:3.13](/fr/The_Urantia_Book/15#p3_13))
+> « _Le <ins>tourbillon</ins> des dix secteurs majeurs, communément appelé trainées d'étoiles, autour d'Uversa, le monde-siège d'Orvonton._ » (<a id="a116_143"></a>[LU 15:3.13](/fr/The_Urantia_Book/15#p3_13))
 
 Les dix principaux secteurs de la Voie lactée sont en rotation « autour » d'Uversa.
 
 Dans ce cas, « autour » est utilisé comme une préposition fonctionnant comme un adverbe. Cela signifie qu's autour « se traduit par « dans ou quelque peu près de »
 
-Exemple : Je fais du vélo autour de mon quartier. « Autour » signifie « dans ou quelque peu près de « . C'est de la même manière que cette expression est utilisée dans ([LU 15:3.13](/fr/The_Urantia_Book/15#p3_13)) Les dix secteurs principaux » tourbillonnent » autour d'Uversa.
+Exemple : Je fais du vélo autour de mon quartier. « Autour » signifie « dans ou quelque peu près de « . C'est de la même manière que cette expression est utilisée dans (<a id="a122_169"></a>[LU 15:3.13](/fr/The_Urantia_Book/15#p3_13)) Les dix secteurs principaux » tourbillonnent » autour d'Uversa.
 
 Il faut à peu près 250 millions d'années pour que la Voie lactée complète une rotation. NGC 2419 orbite au-dessus du pôle de la Voie lactée tous les 3 milliards d'années. Ainsi, la Voie lactée tourbillonne environ 12 fois pour chaque rotation polaire de NGC 2419. Cela signifie hypothétiquement que ces trainées d'étoiles du grand secteur d'Orvonton tournent et « tourbillonnent » » près de « et » autour » d'Uversa — NGC 2419.
 
 2\.
 
-> « _Alors que chaque gouvernement de superunivers préside <ins>près du centre</ins> des univers évolutionnaires de son <ins>segment d'espace</ins> ... tout en <ins>partageant la lumière des soleils proches</ins>,... Ces mondes-sièges appartiennent à <ins>l'un</ins> des <ins>plus grands systèmes situés près du centre astronomique de leurs superunivers respectifs</ins>._ » ([LU 15:7.1](/fr/The_Urantia_Book/15#p7_1))
+> « _Alors que chaque gouvernement de superunivers préside <ins>près du centre</ins> des univers évolutionnaires de son <ins>segment d'espace</ins> ... tout en <ins>partageant la lumière des soleils proches</ins>,... Ces mondes-sièges appartiennent à <ins>l'un</ins> des <ins>plus grands systèmes situés près du centre astronomique de leurs superunivers respectifs</ins>._ » (<a id="a128_376"></a>[LU 15:7.1](/fr/The_Urantia_Book/15#p7_1))
 
 Uversa dans NGC 2419 est « proche » ou voisin du centre du septième segment spatial superuniversel.
 
@@ -143,7 +143,7 @@ NGC 2419 est "l'un des plus grands systèmes » entourant la Voie lactée.
 
 3\.
 
-> _Uversa estfavorablement situé pour le travail de cette colonie, non seulement en raison de <ins>sa situation centrale</ins>, mais aussi parce qu'il n'y <ins>a pas de gigantesques soleils vivants ou morts à proximité pour perturber les courants énergétiques</ins>._ ([LU 30:3.2](/fr/The_Urantia_Book/30#p3_2))
+> _Uversa estfavorablement situé pour le travail de cette colonie, non seulement en raison de <ins>sa situation centrale</ins>, mais aussi parce qu'il n'y <ins>a pas de gigantesques soleils vivants ou morts à proximité pour perturber les courants énergétiques</ins>._ (<a id="a145_269"></a>[LU 30:3.2](/fr/The_Urantia_Book/30#p3_2))
 
 Uversa est situé au centre et ne se trouve pas à proximité de soleils vivants ou morts.
 
@@ -151,7 +151,7 @@ De grands groupes d'étoiles géantes rouges en rotation se trouvent près du ce
 
 4\.
 
-> Le système de mondes habités de Satania est <ins>très éloigné d'Uversa et de ce grand amas de soleils</ins> qui fonctionne comme <ins>le centre physique ou astronomique</ins> du septième superunivers. De Jérusem, le siège de Satania, il se trouve <ins>à plus de deux cent mille années-lumière</ins> du <ins>centre physique</ins> du superunivers d'Orvonton, très, très loin dans <ins>le diamètre dense de la Voie lactée</ins>. Satania se trouve à la périphérie de l'univers local, et Nébadon est maintenant bien avancé vers le bord d'Orvonton. <ins>Du système le plus éloigné</ins> de mondes habités_au centre du superunivers, il y a <ins>un peu moins de deux cent cinquante mille années-lumière</ins>. ( [LU 32:2.11](/fr/The_Urantia_Book/32#p2_11) )
+> Le système de mondes habités de Satania est <ins>très éloigné d'Uversa et de ce grand amas de soleils</ins> qui fonctionne comme <ins>le centre physique ou astronomique</ins> du septième superunivers. De Jérusem, le siège de Satania, il se trouve <ins>à plus de deux cent mille années-lumière</ins> du <ins>centre physique</ins> du superunivers d'Orvonton, très, très loin dans <ins>le diamètre dense de la Voie lactée</ins>. Satania se trouve à la périphérie de l'univers local, et Nébadon est maintenant bien avancé vers le bord d'Orvonton. <ins>Du système le plus éloigné</ins> de mondes habités_au centre du superunivers, il y a <ins>un peu moins de deux cent cinquante mille années-lumière</ins>. ( <a id="a153_706"></a>[LU 32:2.11](/fr/The_Urantia_Book/32#p2_11) )
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/039.jpg">
@@ -160,7 +160,7 @@ De grands groupes d'étoiles géantes rouges en rotation se trouvent près du ce
 
 II est possible de supposer dès la première phrase que le mot « et " sépare l'identification d'Uversa de « ce grand amas de soleils » qui fonctionne comme centre physique ou astronomique. Les voitures et les camions, les garçons et les filles, sont des exemples de cette séparation. « Et » peut séparer des catégories tout en les regroupant. Une interprétation de cette citation indique qu'Uversa et ce grand amas solaire font tous deux référence à la même chose : plus de 200000 lys de Satania. La seconde interprétation est qu'Uversa et ce grand amas solaire sont séparés et qu'ils sont tous deux éloignés de Satania. Uversa, comme NGC 2419, est proche du centre dans chaque interprétation.
 
-Cependant, la phrase suivante indique que le centre physique est à plus de 200000 lys. Si le renflement central de la Voie lactée est "ce grand amas solaire », alors Uversa, sous le nom de NGC 2419, est considéré comme le centre physique du contrôle de pouvoir pour l'évolution matérielle du superunivers. Un millier de centres de pouvoir du troisième ordre font fonctionner des circuits de gravita depuis Uversa. ([LU 15:8.2](/fr/The_Urantia_Book/15#p8_2)) Cela fait d'Uversa, sous le nom de NGC 2419, le centre physique du contrôle de pouvoir du superunivers près de « ce grand amas de soleils » au centre du renflement de la Voie Lactée qui fonctionne comme le centre astronomique et gravitationnel du septième segment spatial du superunivers. (NDT: _Un barycentre est un terme astronomique qui désigne l'endroit spécifique où se trouve le centre de masse commun autour duquel tournent deux ou plusieurs corps._)
+Cependant, la phrase suivante indique que le centre physique est à plus de 200000 lys. Si le renflement central de la Voie lactée est "ce grand amas solaire », alors Uversa, sous le nom de NGC 2419, est considéré comme le centre physique du contrôle de pouvoir pour l'évolution matérielle du superunivers. Un millier de centres de pouvoir du troisième ordre font fonctionner des circuits de gravita depuis Uversa. (<a id="a162_415"></a>[LU 15:8.2](/fr/The_Urantia_Book/15#p8_2)) Cela fait d'Uversa, sous le nom de NGC 2419, le centre physique du contrôle de pouvoir du superunivers près de « ce grand amas de soleils » au centre du renflement de la Voie Lactée qui fonctionne comme le centre astronomique et gravitationnel du septième segment spatial du superunivers. (NDT: _Un barycentre est un terme astronomique qui désigne l'endroit spécifique où se trouve le centre de masse commun autour duquel tournent deux ou plusieurs corps._)
 
 NGC 2419 comme Uversa est supposée être proche du barycentre de la feuille locale, qui, je le suppose, est l'étendue de la septième section de notre superunivers. Le terrain de jeu du septième superunivers est grand. Uversa, comme NGC 2419, est décrit comme étant « proche du centre », « central » et « centre astronomique ». Uversa est » proche » ou proche de « ce grand amas solaire » qui est le centre physique ou astronomique du superunivers. Ce grand amas solaire peut être conçu comme étant uniquement NGC 2419 ou le renflement central de la Voie lactée.
 
@@ -197,7 +197,7 @@ Il n'aurait pas été possible d'arriver à cette conclusion sans les recherches
 
 En tant que croyants et adeptes de la révélation d'Urantia, nous sommes poussés par un sens de la curiosité donné par Dieu pour clarifier la vérité dans notre tentative sincère d'unifier la réalité. Nous devons déchiffrer et interpréter l'usage et le langage anglais du _Livre d'Urantia_ ; nous devons coupler la révélation d'époque et sa cosmologie révélée démesurée avec l'astronomie du XXe siècle ; nous devons étudier la science actuelle et chercher à la coupler avec la révélation d'époque. Cette triade de vérification et d'étude apportera finalement une grande perspicacité dans la réalité. Nous, les humains, n'avons pas reçu une révélation au-dessus de nos moyens de compréhension. Autrement, nous serions privés d'une pensée vigoureuse et d'un progrès spirituel. Ce serait une tyrannie cosmique pour les êtres célestes de révéler plus que ce que la civilisation actuelle peut comprendre. Nos imaginations seraient étouffées.
 
-Il nous incombe de poursuivre cette passion vigoureuse en étudiant la Causalité, de vivre une vie éthique et morale en tant que Devoir, et de venir adorer Dieu profondément et fructueusement. Nous devons prendre plaisir à cultiver une pensée cosmique courageuse et indépendante. « Mais il est triste de constater que si peu de personnes sur Urantia prennent plaisir à cultiver ces qualités de pensée cosmique courageuse et indépendante. » ([LU 16:6.9](/fr/The_Urantia_Book/16#p6_9)) Prions pour être aussi courageux et pour apporter cette joie de la curiosité et de la pensée profonde aux autres.
+Il nous incombe de poursuivre cette passion vigoureuse en étudiant la Causalité, de vivre une vie éthique et morale en tant que Devoir, et de venir adorer Dieu profondément et fructueusement. Nous devons prendre plaisir à cultiver une pensée cosmique courageuse et indépendante. « Mais il est triste de constater que si peu de personnes sur Urantia prennent plaisir à cultiver ces qualités de pensée cosmique courageuse et indépendante. » (<a id="a199_440"></a>[LU 16:6.9](/fr/The_Urantia_Book/16#p6_9)) Prions pour être aussi courageux et pour apporter cette joie de la curiosité et de la pensée profonde aux autres.
 
 Merci, Père et Mère. Et merci à tous les ministres et administrateurs qui ont entrepris la tâche de fournir une vérité avancée à notre génération.
 

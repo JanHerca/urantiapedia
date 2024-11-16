@@ -74,7 +74,7 @@ Il est difficile pour chacun de déterminer leur nombre d'adeptes. Il y a celles
 
 Je pourrais dire aussi que ce projet de traduire _Le Livre d'Urantia_ en Espéranto va dans le sens de la Lumière et la Vie.
 
-Nul monde évolutionnaire ne peut espérer progresser au-delà du premier stade d'ancrage dans la lumière sans s'être rallié à un seul langage, une seule religion, une seule philosophie. [LU 55:3.22](/fr/The_Urantia_Book/55#p3_22)
+Nul monde évolutionnaire ne peut espérer progresser au-delà du premier stade d'ancrage dans la lumière sans s'être rallié à un seul langage, une seule religion, une seule philosophie. <a id="a76_184"></a>[LU 55:3.22](/fr/The_Urantia_Book/55#p3_22)
 
 _Le Livre d'Urantia_ en Espéranto, c'est la religion universelle dans la langue universelle.
 

@@ -84,7 +84,7 @@ La résurrection est au printemps. Dans le nid, l'oisillon a grandi. Il est temp
 
 Sophie MALICOT
 
-De nombreux termes de ce récit ont été empruntés aux fascicules suivants : [LU 189:4](/fr/The_Urantia_Book/189#p4) // [LU 189:5](/fr/The_Urantia_Book/189#p5) // [LU 190:0](/fr/The_Urantia_Book/190) // [LU 190:2.5](/fr/The_Urantia_Book/190#p2_5) // [LU 193:3.1](/fr/The_Urantia_Book/193#p3_1) // [LU 196:3.34](/fr/The_Urantia_Book/196#p3_34) // [LU 142:2.4](/fr/The_Urantia_Book/142#p2_4)
+De nombreux termes de ce récit ont été empruntés aux fascicules suivants : <a id="a86_75"></a>[LU 189:4](/fr/The_Urantia_Book/189#p4) // <a id="a86_118"></a>[LU 189:5](/fr/The_Urantia_Book/189#p5) // [LU 190:0](/fr/The_Urantia_Book/190) // <a id="a86_201"></a>[LU 190:2.5](/fr/The_Urantia_Book/190#p2_5) // <a id="a86_248"></a>[LU 193:3.1](/fr/The_Urantia_Book/193#p3_1) // <a id="a86_295"></a>[LU 196:3.34](/fr/The_Urantia_Book/196#p3_34) // <a id="a86_344"></a>[LU 142:2.4](/fr/The_Urantia_Book/142#p2_4)
 
 <figure class="table chapter-navigator">
   <table>

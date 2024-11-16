@@ -40,7 +40,7 @@ _Une stratégie pour les décennies à venir_
 
 Le but de cet essai est de proposer l'examen d'un certain nombre d'impératifs d'éducation afin de nous guider, en tant que faisant partie des premiers receveurs des nouvelles vérités révélées dans _Le Livre d'Urantia_, dans la mise en œuvre d'une stratégie éducative conçue pour encourager dans la conscience humaine la transition de la quatrième révélation d'époque à la cinquième. Un des aspects de cette stratégie éducative traite de la façon dont nous choisissons de faire face au risque typiquement associé au défi de l'intégration d'une nouvelle vérité tout en minimisant sa dilution et sa contamination par les croyances religieuses du passé, leurs symboles, pratiques et institutions. Un Melchizédek observe que:
 
-« _Vous qui bénéficiez aujourd'hui des avantages de l'imprimerie, vous comprenez mal combien il était difficile de perpétuer la vérité dans l'antiquité, et combien facilement une nouvelle doctrine était perdue de vue entre une génération et la suivante. La nouvelle doctrine tendait toujours à être résorbée dans l'ancien corps d'enseignement religieux et de pratiques magiques. <ins>Une révélation nouvelle est toujours contaminée par les croyances évolutionnaires plus anciennes</ins>._ » ([LU 93:7.4](/fr/The_Urantia_Book/93#p7_4))
+« _Vous qui bénéficiez aujourd'hui des avantages de l'imprimerie, vous comprenez mal combien il était difficile de perpétuer la vérité dans l'antiquité, et combien facilement une nouvelle doctrine était perdue de vue entre une génération et la suivante. La nouvelle doctrine tendait toujours à être résorbée dans l'ancien corps d'enseignement religieux et de pratiques magiques. <ins>Une révélation nouvelle est toujours contaminée par les croyances évolutionnaires plus anciennes</ins>._ » (<a id="a42_492"></a>[LU 93:7.4](/fr/The_Urantia_Book/93#p7_4))
 
 ## Prémices: Une stratégie pour l'éducation
 
@@ -58,11 +58,11 @@ Il y a 900 milliards d'années, un permis fut donné pour commencer le développ
 
 Il y a approximativement un milliard d'années, Micaël, notre Créateur, entreprit la mise en œuvre de la mission donnée par le Fils Éternel au nom de la Trinité de s'effuser sept fois sur les créatures de l'univers qu'il avait créées aux confins du septième superunivers. Le modèle de ces effusions s'était d'abord manifesté par le Fils Éternel qui s'était effusé sur les sept circuits de l'Univers central de Havona comme le fit ensuite le Fils Micaël originel du Paradis. L'acceptation par le Fils Créateur de cette responsabilité solennelle a un impact sur la réalité de son univers local et des répercussions sur la demeure du grand univers du Suprême et peut-être au-delà. Sur Urantia nous avons fait l'expérience directe et avons bénéficié de cette obligation du fait du choix du Fils Créateur de compléter son service d'effusion sur notre monde dans son incarnation comme le Jésus humain, il y a presque 2000 ans seulement.
 
-> « _Quand le Fils Éternel effuse un Fils Créateur sur un univers local projeté, ce Fils Créateur assume la pleine responsabilité de parachever, de contrôler et de maitriser ce nouvel univers; il fait également, à la Trinité éternelle, le serment solennel de ne pas assumer la pleine souveraineté de la nouvelle création avant que ses sept effusions sous forme de créatures n’aient été achevées avec succès et confirmées par les Anciens des Jours ayant juridiction sur le superunivers intéressé. Cette obligation est assumée par chaque Fils Micaël qui se porte volontaire pour sortir du Paradis et entreprendre la création et l'organisation d'un univers._ » ([LU 119:0.3](/fr/The_Urantia_Book/119#p0_3))
+> « _Quand le Fils Éternel effuse un Fils Créateur sur un univers local projeté, ce Fils Créateur assume la pleine responsabilité de parachever, de contrôler et de maitriser ce nouvel univers; il fait également, à la Trinité éternelle, le serment solennel de ne pas assumer la pleine souveraineté de la nouvelle création avant que ses sept effusions sous forme de créatures n’aient été achevées avec succès et confirmées par les Anciens des Jours ayant juridiction sur le superunivers intéressé. Cette obligation est assumée par chaque Fils Micaël qui se porte volontaire pour sortir du Paradis et entreprendre la création et l'organisation d'un univers._ » (<a id="a60_659"></a>[LU 119:0.3](/fr/The_Urantia_Book/119#p0_3))
 
 Les sept effusions d'un Fils Créateur du Paradis s'achèvent toujours au plus bas niveau d'effusion de mortel dans lequel le souverain de l'univers nait et meurt comme un mortel du royaume.
 
-> « _Une fois seulement dans sa carrière septuple de Fils d'effusion, un Micaël du Paradis nait de femme comme dans votre histoire du nouveau-né de Bethléem. Il ne vit et ne meurt qu'une fois comme membre du plus humble ordre de créatures évolutionnaires douées de volonté._ » ([LU 21:4.3](/fr/The_Urantia_Book/21#p4_3))
+> « _Une fois seulement dans sa carrière septuple de Fils d'effusion, un Micaël du Paradis nait de femme comme dans votre histoire du nouveau-né de Bethléem. Il ne vit et ne meurt qu'une fois comme membre du plus humble ordre de créatures évolutionnaires douées de volonté._ » (<a id="a64_278"></a>[LU 21:4.3](/fr/The_Urantia_Book/21#p4_3))
 
 Les expériences d'effusion d'un Micaël, Fils Créateur du Paradis augmentent sa souveraineté universelle, sa compréhension expérientielle des intentions du Suprême du grand univers et révèlent les diverses volontés des Déités du Paradis telles que ces volontés sont manifestes dans les personnes des Sept Maitres Esprits du grand univers. Il y a 35000 ans, alors que les univers observaient la faute d'Adam et Ève, on annonça que l'effusion d'incarnation, la septième et dernière effusion d'incarnation de Micaël, le Fils Créateur, aurait lieu sur notre monde-quelques 33000 ans plus tard sous la forme d'un enfant humain né d'un couple d'humains.
 
@@ -86,9 +86,9 @@ Septiéme effusion | Mortel humain | Volonté du Pére Universel
 
 </div>
 
-> « _En parachevant ses effusions de créature, non seulement Micaël établissait sa propre souveraineté, mais il augmentait aussi la souveraineté évoluante de Dieu le Suprême. Au cours de ces effusions, non seulement le Fils Créateur se lança dans une exploration descendante des diverses natures de la personnalité des créatures, mais il parvint aussi à révéler les volontés diversifiées des Déités du Paradis dont l'unité synthétique, telle qu'elle est révélée par les Créateurs Suprêmes, dévoile la volonté de l'Être Suprême._ » ([LU 119:8.3](/fr/The_Urantia_Book/119#p8_3))
+> « _En parachevant ses effusions de créature, non seulement Micaël établissait sa propre souveraineté, mais il augmentait aussi la souveraineté évoluante de Dieu le Suprême. Au cours de ces effusions, non seulement le Fils Créateur se lança dans une exploration descendante des diverses natures de la personnalité des créatures, mais il parvint aussi à révéler les volontés diversifiées des Déités du Paradis dont l'unité synthétique, telle qu'elle est révélée par les Créateurs Suprêmes, dévoile la volonté de l'Être Suprême._ » (<a id="a88_532"></a>[LU 119:8.3](/fr/The_Urantia_Book/119#p8_3))
 
-> « _Ces divers aspects volitifs des Déités sont éternellement personnalisés dans les natures différentes des Sept Maitres Esprits, et chacune des effusions de Micaël était particulièrement révélatrice de l'une de ces manifestations de divinité_ » ([LU 119:8.4](/fr/The_Urantia_Book/119#p8_4))
+> « _Ces divers aspects volitifs des Déités sont éternellement personnalisés dans les natures différentes des Sept Maitres Esprits, et chacune des effusions de Micaël était particulièrement révélatrice de l'une de ces manifestations de divinité_ » (<a id="a90_249"></a>[LU 119:8.4](/fr/The_Urantia_Book/119#p8_4))
 
 L'expérience d'effusion requise de Micaël représente un modèle d'expression pour le processus d'éducation universelle conçue pour démontrer que la souveraineté personnelle, du moins pour un Fils du Paradis, est fondée sur la compréhension expérientielle des volontés des Déités du Paradis telles qu'elles impactent et influencent l'expression de la diversité de Dieu dans le domaine fini (le temps et l'espace). Notre souveraineté personnelle, en tant que créatures volitives est-elle aussi dépendante d'une telle expérience de divinité ?
 
@@ -109,7 +109,7 @@ Expression projetée de la volonté selon l'époque planétaire mortelle
 6 — Fils Instructeurs de la Trinité (Daynals) | Volonté du Fils/ Esprit
 7 — Fils Magistral (Avonal) | Volonté du Fils Éternel
 
-\* Si Melchizédek, en mission d'urgence, ne convient pas dans ce modèle, les Daynals pourraient exprimer la volonté unie du Père/ Fils/Esprit et la Lumière et la Vie représenterait la septième époque puisqu'on nous dit qu'il y a...au moins sept époques dans la vie humaine.([LU 52:0.1](/fr/The_Urantia_Book/52#p0_1))
+\* Si Melchizédek, en mission d'urgence, ne convient pas dans ce modèle, les Daynals pourraient exprimer la volonté unie du Père/ Fils/Esprit et la Lumière et la Vie représenterait la septième époque puisqu'on nous dit qu'il y a...au moins sept époques dans la vie humaine.(<a id="a111_274"></a>[LU 52:0.1](/fr/The_Urantia_Book/52#p0_1))
 
 ## Discussion détaillée des impératifs de l'éducation.
 
@@ -137,7 +137,7 @@ _Connaitre l'impératif du but d'effusion de Micaël:_
 
 L'effusion de Micaël en tant que le Jésus humain sur notre planète relie l'achèvement de la promesse d'effusion de notre Fils Créateur au Fils Éternel à la quatrième époque de notre planète, de croissance et de progrès religieux personnel. Comme partie de notre mission éducative pour faciliter la transition de la conscience humaine de la quatrième époque à la cinquième, nous devons développer des initiatives éducatives qui, à la fois, différencient et mêlent les bénéfices de cette progression révélatoire allant de la quatrième à la cinquième. Les dimensions tant de la vérité révélée que des faits peuvent aider à définir notre stratégie éducative. Dans les mots d'un Melchizédek:
 
-> « _On peut connaitre Dieu en tant que vérité, mais pour comprendre Dieu — pour l'expliquer — ilfaut explorer le fait de l'univers des univers. L'immense abime entre l'expérience de la vérité de Dieu et l'ignorance du fait de Dieu ne peut être comblé que par la foi vivante._ » ([LU 102:6.6](/fr/The_Urantia_Book/102#p6_6))
+> « _On peut connaitre Dieu en tant que vérité, mais pour comprendre Dieu — pour l'expliquer — ilfaut explorer le fait de l'univers des univers. L'immense abime entre l'expérience de la vérité de Dieu et l'ignorance du fait de Dieu ne peut être comblé que par la foi vivante._ » (<a id="a139_280"></a>[LU 102:6.6](/fr/The_Urantia_Book/102#p6_6))
 
 ## ...Et aidé par une sage éducation et par l'étude.
 
@@ -147,7 +147,7 @@ _Impératif d'éducation descendant contre ascendant:_
 
 Un Conseiller Divin nous dit que:
 
-> « _Le mental humain chercherait d'ordinaire à aborder la philosophie cosmique décrite dans ces révélations en procédant du simple et du fini au complexe et à l'infini, des origines humaines aux destinées divines. Mais ce chemin ne conduit pas à la sagesse spirituelle. C'est la voie la plus facile vers une certaine forme de connaissance génétique susceptible au mieux de dévoiler simplement l'origine des hommes; elle ne révèle que peu ou rien sur leur destinée divine._ » ([LU 19:1.5](/fr/The_Urantia_Book/19#p1_5))
+> « _Le mental humain chercherait d'ordinaire à aborder la philosophie cosmique décrite dans ces révélations en procédant du simple et du fini au complexe et à l'infini, des origines humaines aux destinées divines. Mais ce chemin ne conduit pas à la sagesse spirituelle. C'est la voie la plus facile vers une certaine forme de connaissance génétique susceptible au mieux de dévoiler simplement l'origine des hommes; elle ne révèle que peu ou rien sur leur destinée divine._ » (<a id="a149_477"></a>[LU 19:1.5](/fr/The_Urantia_Book/19#p1_5))
 
 Le reste de cette section du fascicule 19 vaut la peine d'être étudié.
 
@@ -157,7 +157,7 @@ Informés par cet enseignement et vraiment attentifs à la construction même du
 > 
 > _Il est beaucoup plus facile aux hommes de s'accorder sur des valeurs  religieuses — sur des buts — que sur des croyances — des interprétations. Cela explique comment il se fait que la religion puisse accepter des valeurs et des buts tout en présentant le phénomène troublant de continuer à admettre des centaines de croyances contradictoires — des crédos._
 > 
-> _Cela explique aussi pourquoi une personne donnée peut poursuivre son expérience religieuse tout en abandonnant ou en modifiant beaucoup de ses croyances religieuses. La religion subsiste malgré des changements révolutionnaires dans les croyances religieuses. <ins>Ce n'est pas la théologie qui produit la religion, c'est la religion qui donne naissance à la philosophie théologique</ins>._ » ([LU 103:1.4](/fr/The_Urantia_Book/103#p1_4))
+> _Cela explique aussi pourquoi une personne donnée peut poursuivre son expérience religieuse tout en abandonnant ou en modifiant beaucoup de ses croyances religieuses. La religion subsiste malgré des changements révolutionnaires dans les croyances religieuses. <ins>Ce n'est pas la théologie qui produit la religion, c'est la religion qui donne naissance à la philosophie théologique</ins>._ » (<a id="a159_396"></a>[LU 103:1.4](/fr/The_Urantia_Book/103#p1_4))
 
 Du point de vue de l'éducation, nous avons à la fois une obligation et une opportunité pour construire notre stratégie éducative sur l'enseignement révélatoire selon lequel la vérité spirituelle de la réalité de Dieu est expérimentée d'abord comme une quête des valeurs suivie par les interprétations évolutionnaires et les croyances qui servent temporairement pour définir notre compréhension — jusqu'à ce que nous fassions l'expérience de la croissance.
 
@@ -189,7 +189,7 @@ Notre pédagogie stratégique d'éducation devrait être le reflet de la présen
 
 Nos initiatives éducatives au nom des vérités révélées de la cinquième époque données dans le _Livre d'Urantia_, représentent une occasion d'instiller dans la conscience humaine un haut niveau de courage et d'engagement nécessaire pour remplacer, sans peur et progressivement, les anciennes croyances et doctrines par les vérités de la cinquième époque nouvellement révélées rencontrées dans la séquence universelle appropriée de l'expérience d'esprit et de la perception de l'âme. Si nous ne modélisons pas dans nos initiatives éducatives la réponse audacieuse à ce défi de cinquième époque, quil le fera?
 
-_Cherchez la grande chose, et vous trouverez que les moindres y sont contenues; demandez les choses célestes, et les choses terrestres y seront incluses. L'ombre est certaine de suivre la substance._ ([LU 165:5.3](/fr/The_Urantia_Book/165#p5_3))
+_Cherchez la grande chose, et vous trouverez que les moindres y sont contenues; demandez les choses célestes, et les choses terrestres y seront incluses. L'ombre est certaine de suivre la substance._ (<a id="a191_201"></a>[LU 165:5.3](/fr/The_Urantia_Book/165#p5_3))
 
 
 ## Appendice

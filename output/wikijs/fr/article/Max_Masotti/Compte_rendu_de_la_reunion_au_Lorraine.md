@@ -109,9 +109,9 @@ Je déplore, personnellement, que les Suisses n’aient été représentés que 
 
 Se seraient-ils endormis dans la douceur de l'ombre de leurs montagnes en une méditation éternelle ? Dieu seul le sait et peut-être aussi les Sept Agents Exécutifs Suprêmes.
 
-(Pour ceux qui en doutent, veuillez consulter le LU en [LU 17:1.3](/fr/The_Urantia_Book/17#p1_3)).
+(Pour ceux qui en doutent, veuillez consulter le LU en <a id="a111_55"></a>[LU 17:1.3](/fr/The_Urantia_Book/17#p1_3)).
 
-Tout au long de l'étude, nous avons pu nous rendre compte que l'application de l'Esprit de Vérité dans nos actions quotidiennes était une présence divine et active qui devait être écoutée sérieusement et mise en pratique le plus souvent possible, bien que nous sachions tous que cet Esprit est limité dans ses fonctions et son pouvoir par la réceptivité personnelle des hommes ([LU 34:5.5](/fr/The_Urantia_Book/34#p5_5)).
+Tout au long de l'étude, nous avons pu nous rendre compte que l'application de l'Esprit de Vérité dans nos actions quotidiennes était une présence divine et active qui devait être écoutée sérieusement et mise en pratique le plus souvent possible, bien que nous sachions tous que cet Esprit est limité dans ses fonctions et son pouvoir par la réceptivité personnelle des hommes (<a id="a113_378"></a>[LU 34:5.5](/fr/The_Urantia_Book/34#p5_5)).
 
 Juste est de remarquer que de ces réunions ressortent une osmose et une fraternité qui, j'en suis persuadé, est sûrement due à nos amis célestes angéliques et certainement aussi à cet Esprit de Vérité effusé par notre Fils Créateur.
 
@@ -127,7 +127,7 @@ C’est avec un cœur pleurant que le groupe d'Avignon s'éclipsa le premier, te
 
 Une petite citation du LU pour nous consoler :
 
-> _Après être partis sur la route de la vie éternelle, après avoir accepté votre mission et reçu vos ordres pour progresser, ne craignez pas les dangers du manque de mémoire des hommes et de l'inconstance des mortels, ne vous laissez pas troubler par des craintes d'échecs ou des confusions déroutantes, ne chancelez pas et ne mettez en doute ni votre statut ni votre position, car, à toutes les heures sombres et à tous les carrefours de la lutte pour le progrès, l'Esprit de Vérité parlera toujours et vous dira « Voilà le chemin »_. ([LU 34:7.8](/fr/The_Urantia_Book/34#p7_8)).
+> _Après être partis sur la route de la vie éternelle, après avoir accepté votre mission et reçu vos ordres pour progresser, ne craignez pas les dangers du manque de mémoire des hommes et de l'inconstance des mortels, ne vous laissez pas troubler par des craintes d'échecs ou des confusions déroutantes, ne chancelez pas et ne mettez en doute ni votre statut ni votre position, car, à toutes les heures sombres et à tous les carrefours de la lutte pour le progrès, l'Esprit de Vérité parlera toujours et vous dira « Voilà le chemin »_. (<a id="a129_537"></a>[LU 34:7.8](/fr/The_Urantia_Book/34#p7_8)).
 
 Max Masotti.
 

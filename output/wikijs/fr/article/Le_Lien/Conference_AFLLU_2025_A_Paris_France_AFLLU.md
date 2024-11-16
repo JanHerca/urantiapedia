@@ -49,7 +49,7 @@ Durant la conférence, 4 présentations d'environ 45 minutes seront proposées s
 
 Un effort important sera déployé au niveau des traductions.
 
-> « Dans l'expérience de trouver le Père qui est aux cieux, on découvre que tous les hommes sont nos frères, et n'est-il pas naturel que l'on éprouve de la joie à rencontrer un frère récemment découvert? Lier connaissance avec ses frères et sœurs, connaitre leurs problèmes et apprendre à les aimer, c'est l'expérience suprême de la vie. »[[LU 130:2.6](/fr/The_Urantia_Book/130#p2_6)]
+> « Dans l'expérience de trouver le Père qui est aux cieux, on découvre que tous les hommes sont nos frères, et n'est-il pas naturel que l'on éprouve de la joie à rencontrer un frère récemment découvert? Lier connaissance avec ses frères et sœurs, connaitre leurs problèmes et apprendre à les aimer, c'est l'expérience suprême de la vie. »<a id="a51_339"></a>[[LU 130:2.6](/fr/The_Urantia_Book/130#p2_6)]
 
 Les présentations se feront par PowerPoint projetées sur grand écran en français ou en anglais. En fonction des nécessités linguistiques, elles seront traduites, imprimées et distribuées aux participants avant la projection afin quills puissent suivre dans leur langue le contenu et, éventuellement poser des questions. Nous prévoyons de faire appel à la bonne volonté de lecteurs multilingues pour animer les ateliers.
 

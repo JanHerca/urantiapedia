@@ -53,7 +53,7 @@ Les yeux bleus ont passé l'épreuve du temps et franchi des millénaires. Pourq
 
 _Passages concernés du Livre d'Urantia:_
 
-> _Adam et Ève furent les fondateurs de la race violette, la neuvième race humaine apparue sur Urantia. Adam et sa descendance avaient des yeux bleus, et les hommes de la race violette étaient caractérisés par des teints clairs et des cheveux blonds (jaunes, roux et châtains)._ [LU 76:4.1](/fr/The_Urantia_Book/76#p4_1)
+> _Adam et Ève furent les fondateurs de la race violette, la neuvième race humaine apparue sur Urantia. Adam et sa descendance avaient des yeux bleus, et les hommes de la race violette étaient caractérisés par des teints clairs et des cheveux blonds (jaunes, roux et châtains)._ <a id="a55_279"></a>[LU 76:4.1](/fr/The_Urantia_Book/76#p4_1)
 
 L'association yeux et bleus n'apparaît pas ailleurs dans le Livre d'Urantia. Il semblerait donc qu'Adam et Eve aient été les premiers êtres humains de notre planète à avoir des yeux bleus. Dans ce cas, il ne s'agit pas d'une mutation, comme indiqué ci-dessus, mais d'une caractéristique de la race violette fondée par Adam et Eve.
 

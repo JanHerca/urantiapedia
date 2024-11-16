@@ -53,7 +53,7 @@ Le circuit de gravité matérielle est situé et centré géographiquement dans 
 > 
 > - Les stades de prégravité (force)
 > - Les stades de gravité (Énergie)
-> - Les stades de postgravité (pouvoir d'univers)» [LU 11:8.4-7](/fr/The_Urantia_Book/11#p8_4)
+> - Les stades de postgravité (pouvoir d'univers)» <a id="a55_51"></a>[LU 11:8.4-7](/fr/The_Urantia_Book/11#p8_4)
 
 Le Paradis Éternel est l'absolu des archétypes au même titre que l'archétype de la personnalité conférée au Fils Éternel. De même que ce dernier ne peut conférer la personnalité, le Paradis ne confère également aucun archétype. En contraste avec l'aspect du total, l'archétype révèle l'aspect individuel de l'énergie et de la personnalité.
 
@@ -61,70 +61,70 @@ Au Paradis le temps et l'espace n'existent pas ; le statut espace-temps du Parad
 
 Pour nous donner des repères au sujet de l'origine du Paradis, dans la concession philosophique que nous font les révélateurs du _Livre d'Urantia_ avec le terme du « JE SUIS », nous sommes obligés d'une manière arbitraire d'appliquer une chronologie à des faits d'éternité.
 
-> « L'opération originelle du « JE SUIS » théorique aboutit à la réalisation de la personnalité en devenant le Père Éternel du Fils Originel et devenant simultanément l'Éternelle Source de l'Ile du Paradis. Coexistants avec la différenciation du Fils d'avec le Père et en présence du Paradis, apparurent la personne de l'Esprit Infini et l'univers centre de Havona ». [[LU 0:3.22](/fr/The_Urantia_Book/0#p3_22)]
+> « L'opération originelle du « JE SUIS » théorique aboutit à la réalisation de la personnalité en devenant le Père Éternel du Fils Originel et devenant simultanément l'Éternelle Source de l'Ile du Paradis. Coexistants avec la différenciation du Fils d'avec le Père et en présence du Paradis, apparurent la personne de l'Esprit Infini et l'univers centre de Havona ». <a id="a63_368"></a>[[LU 0:3.22](/fr/The_Urantia_Book/0#p3_22)]
 
-> « le Père Universel et le Fils Éternel s'unirent en présence du Paradis pour se personnaliser [[LU 9:0.1](/fr/The_Urantia_Book/9#p0_1)]
+> « le Père Universel et le Fils Éternel s'unirent en présence du Paradis pour se personnaliser <a id="a65_96"></a>[[LU 9:0.1](/fr/The_Urantia_Book/9#p0_1)]
 
-> « Le Paradis est le siège universel de toutes les activités concernant la personnalité, et la source-centre de toutes les manifestations de force d'espace et d'énergie... Le Paradis est le centre de toute la création, la source de toutes les énergies et le lieu d'origine primitif de toutes les personnalités ». [[LU 11:9.7](/fr/The_Urantia_Book/11#p9_7)]
+> « Le Paradis est le siège universel de toutes les activités concernant la personnalité, et la source-centre de toutes les manifestations de force d'espace et d'énergie... Le Paradis est le centre de toute la création, la source de toutes les énergies et le lieu d'origine primitif de toutes les personnalités ». <a id="a67_314"></a>[[LU 11:9.7](/fr/The_Urantia_Book/11#p9_7)]
 
 Ces chapitres permettent une digression au sujet de la personnalité qui apparemment n'est devenue actuelle que dès lors que la Source-Centre Première assume son statut de Père Éternel du Fils Originel.
 
 Afin de situer la position géographique de la personnalité absolue de la Déité, on nous indique le plan supérieur ou spirituel du Paradis.
 
-Autre citation mystérieuse [LU 0:4.13](/fr/The_Urantia_Book/0#p4_13): « Le Paradis n'est pas un créateur. Le Paradis ne représente rien et rien ne représente le Paradis. e Paradis est une substance physique particulière, une « organisation homogène de puissance d'espace... Cette matière source du Paradis n'est ni morte ni vivante, elle est l'expression originelle non spirituelle de la Source-Centre Première. » [LU 11:2.9](/fr/The_Urantia_Book/11#p2_9).
+Autre citation mystérieuse <a id="a73_27"></a>[LU 0:4.13](/fr/The_Urantia_Book/0#p4_13): « Le Paradis n'est pas un créateur. Le Paradis ne représente rien et rien ne représente le Paradis. e Paradis est une substance physique particulière, une « organisation homogène de puissance d'espace... Cette matière source du Paradis n'est ni morte ni vivante, elle est l'expression originelle non spirituelle de la Source-Centre Première. » <a id="a73_414"></a>[LU 11:2.9](/fr/The_Urantia_Book/11#p2_9).
 
-[LU 0:4.11](/fr/The_Urantia_Book/0#p4_11) : « Le Paradis est un terme qui inclut les Absolus focaux personnels et non personnels de toutes les phases de la réalité de l'univers. Qualifié convenablement, le Paradis peut désigner toutes les formes de réalité, Déité, divinité, personnalité et énergie — spirituelle, mentale ou matérielle ». Les tensions, suivant un terme souvent employé par les révélateurs, présentes entre le Paradis et l'espace, sont équilibrées par la présence associative de l'Absolu Universel.
+<a id="a75_0"></a>[LU 0:4.11](/fr/The_Urantia_Book/0#p4_11) : « Le Paradis est un terme qui inclut les Absolus focaux personnels et non personnels de toutes les phases de la réalité de l'univers. Qualifié convenablement, le Paradis peut désigner toutes les formes de réalité, Déité, divinité, personnalité et énergie — spirituelle, mentale ou matérielle ». Les tensions, suivant un terme souvent employé par les révélateurs, présentes entre le Paradis et l'espace, sont équilibrées par la présence associative de l'Absolu Universel.
 
 
 ## Les Déités du Paradis
 
 ### Le Père Éternel
 
-> « En dehors du Paradis on ne peut contacter le Père Universel que dans les présences de ses entités fragmentées. Le Paradis est le centre éternel de l'univers des univers et le lieu où demeurent le Père Universel, le Fils Éternel et l'Esprit Infini ainsi que leurs coordonnés et associés divins. » [LU 11:0.1](/fr/The_Urantia_Book/11#p0_1)
+> « En dehors du Paradis on ne peut contacter le Père Universel que dans les présences de ses entités fragmentées. Le Paradis est le centre éternel de l'univers des univers et le lieu où demeurent le Père Universel, le Fils Éternel et l'Esprit Infini ainsi que leurs coordonnés et associés divins. » <a id="a82_300"></a>[LU 11:0.1](/fr/The_Urantia_Book/11#p0_1)
 
-> « On peut toujours trouver le Père à cet emplacement central. Sil en bougeait, cela précipiterait un pandémonium universel, car c'est à ce centre résidentiel que les lignes de gravité convergent en lui depuis les confins de la création. » [[LU 11:1.4](/fr/The_Urantia_Book/11#p1_4)]
+> « On peut toujours trouver le Père à cet emplacement central. Sil en bougeait, cela précipiterait un pandémonium universel, car c'est à ce centre résidentiel que les lignes de gravité convergent en lui depuis les confins de la création. » <a id="a84_241"></a>[[LU 11:1.4](/fr/The_Urantia_Book/11#p1_4)]
 
 ### Le Fils Éternel
 
-> « En tant que soutien des réalités spirituelles, la Source-Centre Deuxième est le contrepoids éternel de l'Ile du Paradis qui soutien si magnifiquement toutes les choses matérielles. » [[LU 7:0.3](/fr/The_Urantia_Book/7#p0_3)] 
+> « En tant que soutien des réalités spirituelles, la Source-Centre Deuxième est le contrepoids éternel de l'Ile du Paradis qui soutien si magnifiquement toutes les choses matérielles. » <a id="a88_187"></a>[[LU 7:0.3](/fr/The_Urantia_Book/7#p0_3)] 
 
-> « À l'instar de la gravité matérielle du Paradis, la gravité spirituelle du Fils Éternel est absolue. » [[LU 7:1.7](/fr/The_Urantia_Book/7#p1_7)]
+> « À l'instar de la gravité matérielle du Paradis, la gravité spirituelle du Fils Éternel est absolue. » <a id="a90_106"></a>[[LU 7:1.7](/fr/The_Urantia_Book/7#p1_7)]
 
 Concernant le Fils Éternel nous pouvons constater que relativement peu de chapitres donnent des informations le concernant. Au sein de l'Ille du Paradis le chapitre 0:5.5 peut éventuellement justifier ces propos:
 
-> « Mais l'rle du Paradis est non personnelle et extraspirituelle, étant l'essence du corps universel, la source et le centre de la matière physique et le Maitre archétype absolu de la réalité matérielle universelle. » [LU 0:5.5](/fr/The_Urantia_Book/0#p5_5)
+> « Mais l'rle du Paradis est non personnelle et extraspirituelle, étant l'essence du corps universel, la source et le centre de la matière physique et le Maitre archétype absolu de la réalité matérielle universelle. » <a id="a94_219"></a>[LU 0:5.5](/fr/The_Urantia_Book/0#p5_5)
 
-Dans l'autre Fascicule [LU 9:1.7](/fr/The_Urantia_Book/9#p1_7) qui suit, la dualité qui situe le Fils Éternel et l'Ile du Paradis, nous permet peut-être de convenir de leur statut à la fois individuel et de plus complémentaire, qui trouve leur symbiose au travers de l'existence même de l'Esprit Infini :
+Dans l'autre Fascicule <a id="a96_23"></a>[LU 9:1.7](/fr/The_Urantia_Book/9#p1_7) qui suit, la dualité qui situe le Fils Éternel et l'Ile du Paradis, nous permet peut-être de convenir de leur statut à la fois individuel et de plus complémentaire, qui trouve leur symbiose au travers de l'existence même de l'Esprit Infini :
 
-> « Et en ceci réside un mystère infini : l'Infini révèle simultanément son infinité dans le Fils et sous la forme du Paradis, et jaillit alors à l'existence un être égal à Dieu en divinité, réflecteur de la nature spirituelle du Fils, et capable de rendre actif l'archétype du Paradis » [[LU 9:1.7](/fr/The_Urantia_Book/9#p1_7)]
+> « Et en ceci réside un mystère infini : l'Infini révèle simultanément son infinité dans le Fils et sous la forme du Paradis, et jaillit alors à l'existence un être égal à Dieu en divinité, réflecteur de la nature spirituelle du Fils, et capable de rendre actif l'archétype du Paradis » <a id="a98_288"></a>[[LU 9:1.7](/fr/The_Urantia_Book/9#p1_7)]
 
-Cependant la révélation du _Livre d'Urantia_ contient les innombrables paradoxes tels que celui sur la présence et l'action du Fils Éternel au Paradis. En effet nous venons de lire plus haut [LU 0:5.5](/fr/The_Urantia_Book/0#p5_5), « l'Ille du Paradis est non personnelle et extraspirituelle », et nous pouvons lire au sujet de la gravité d'Esprit [LU 7:1.1](/fr/The_Urantia_Book/7#p1_1) : « Ce circuit exclusivement spirituel ramène directement à la personne de la Source-Centre Deuxième au Paradis ». Également au [LU 7:2.1](/fr/The_Urantia_Book/7#p2_1) : « Au Paradis, la présence et l'activité personnelle du Fils Originel sont profondes et, au sens spirituel, absolues ».
+Cependant la révélation du _Livre d'Urantia_ contient les innombrables paradoxes tels que celui sur la présence et l'action du Fils Éternel au Paradis. En effet nous venons de lire plus haut <a id="a100_191"></a>[LU 0:5.5](/fr/The_Urantia_Book/0#p5_5), « l'Ille du Paradis est non personnelle et extraspirituelle », et nous pouvons lire au sujet de la gravité d'Esprit <a id="a100_348"></a>[LU 7:1.1](/fr/The_Urantia_Book/7#p1_1) : « Ce circuit exclusivement spirituel ramène directement à la personne de la Source-Centre Deuxième au Paradis ». Également au <a id="a100_516"></a>[LU 7:2.1](/fr/The_Urantia_Book/7#p2_1) : « Au Paradis, la présence et l'activité personnelle du Fils Originel sont profondes et, au sens spirituel, absolues ».
 
-À ce stade de nos investigations nous pouvons éventuellement tenter d'évoquer qu'au travers du [LU 0:4.13](/fr/The_Urantia_Book/0#p4_13) : « Le Paradis n'est pas créateur... Il ne représente rien et rien ne le représente »et accepter également le fait quill est la demeure mystérieuse, pour nous mortels, de trois Déités de l'Infinité et des trois Absolus de l'Infinité.
+À ce stade de nos investigations nous pouvons éventuellement tenter d'évoquer qu'au travers du <a id="a102_95"></a>[LU 0:4.13](/fr/The_Urantia_Book/0#p4_13) : « Le Paradis n'est pas créateur... Il ne représente rien et rien ne le représente »et accepter également le fait quill est la demeure mystérieuse, pour nous mortels, de trois Déités de l'Infinité et des trois Absolus de l'Infinité.
 
 Une des manifestations du Fils Éternel se révèle par les Fils Créateurs sortant du Paradis, qui compensent le manque de manifestation personnelle ou résidentielle de Dieu dans les créations locales.
 
 ### L'Esprit Infini
 
-> « L'Esprit Infini, un être provisoirement subordonné en souveraineté, mais par bien des côtés apparemment le plus doué de talents variés dans l'action. Et cette supériorité apparente dans l'action se découvre dans un attribut de la SourceCentre Troisième qui est supérieur même à la gravité physique — la manifestation universelle de l'Ile du Paradis ». [LU 9:1.7](/fr/The_Urantia_Book/9#p1_7)
+> « L'Esprit Infini, un être provisoirement subordonné en souveraineté, mais par bien des côtés apparemment le plus doué de talents variés dans l'action. Et cette supériorité apparente dans l'action se découvre dans un attribut de la SourceCentre Troisième qui est supérieur même à la gravité physique — la manifestation universelle de l'Ile du Paradis ». <a id="a108_356"></a>[LU 9:1.7](/fr/The_Urantia_Book/9#p1_7)
 
-> « Le Paradis est l'archétype de l'infinité ; le Dieu d'Action est l'animateur de cet archétype. Le Paradis est le point d'appui matériel de l'infinité ». [[LU 9:3.8](/fr/The_Urantia_Book/9#p3_8)]
+> « Le Paradis est l'archétype de l'infinité ; le Dieu d'Action est l'animateur de cet archétype. Le Paradis est le point d'appui matériel de l'infinité ». <a id="a110_156"></a>[[LU 9:3.8](/fr/The_Urantia_Book/9#p3_8)]
 
-> « La présence de l'tle du Paradis unifie les domaines de l'énergie physique et du pouvoir matérialisant. LActeur Conjoint opère non seulement comme un esprit infini représentant le Fils, mais aussi comme manipulateur universel des forces et des énergies du Paradis, amenant ainsi à l'existence le mental universel et absolu. » [[LU 9:1.4](/fr/The_Urantia_Book/9#p1_4)]
+> « La présence de l'tle du Paradis unifie les domaines de l'énergie physique et du pouvoir matérialisant. LActeur Conjoint opère non seulement comme un esprit infini représentant le Fils, mais aussi comme manipulateur universel des forces et des énergies du Paradis, amenant ainsi à l'existence le mental universel et absolu. » <a id="a112_329"></a>[[LU 9:1.4](/fr/The_Urantia_Book/9#p1_4)]
 
-> « L'Acteur Conjoint semble trouver ses mobiles dans l'association Père-Fils, mais tous ses actes paraissent reconnaitre la relation Père-Paradis. » [[LU 9:1.6](/fr/The_Urantia_Book/9#p1_6)]
+> « L'Acteur Conjoint semble trouver ses mobiles dans l'association Père-Fils, mais tous ses actes paraissent reconnaitre la relation Père-Paradis. » <a id="a114_150"></a>[[LU 9:1.6](/fr/The_Urantia_Book/9#p1_6)]
 
-> « Mais l'Acteur Conjoint n'agit ni pour le Paradis, ni pour répondre au Paradis... Le Paradis n'est pas une personne. » [[LU 9:3.7](/fr/The_Urantia_Book/9#p3_7)]
+> « Mais l'Acteur Conjoint n'agit ni pour le Paradis, ni pour répondre au Paradis... Le Paradis n'est pas une personne. » <a id="a116_122"></a>[[LU 9:3.7](/fr/The_Urantia_Book/9#p3_7)]
 
 ## Le temps et l'espace
 
-> « Le mouvement n'est pas inhérent au Paradis, il est volitif ». [[LU 11:2.11](/fr/The_Urantia_Book/11#p2_11)]
+> « Le mouvement n'est pas inhérent au Paradis, il est volitif ». <a id="a120_66"></a>[[LU 11:2.11](/fr/The_Urantia_Book/11#p2_11)]
 
-> « L'espace non temporel (espace sans temps) existe théoriquement, mais le seul emplacement vraiment non temporel est l'aire du Paradis. Le temps non spatial (temps sans espace) existe dans le mental au niveau fonctionnel du Paradis. » [[LU 12:5.3](/fr/The_Urantia_Book/12#p5_3)]
+> « L'espace non temporel (espace sans temps) existe théoriquement, mais le seul emplacement vraiment non temporel est l'aire du Paradis. Le temps non spatial (temps sans espace) existe dans le mental au niveau fonctionnel du Paradis. » <a id="a122_237"></a>[[LU 12:5.3](/fr/The_Urantia_Book/12#p5_3)]
 
-> « Comme l'espace, le temps est un don du Paradis, mais pas dans le même sens ; il est seulement donné indirectement. Le temps arrive en vertu du mouvement et parce que le mental est par inhérence conscient des séquences. Du point de vue pratique le mouvement est essentiel pour le temps, mais il n'y a pas d'unité de temps universelle basée sur le mouvement, sauf dans la mesure où le jour standard du Paradis-Havona est reconnu arbitrairement comme tel. » [[LU 12:5.1](/fr/The_Urantia_Book/12#p5_1)]
+> « Comme l'espace, le temps est un don du Paradis, mais pas dans le même sens ; il est seulement donné indirectement. Le temps arrive en vertu du mouvement et parce que le mental est par inhérence conscient des séquences. Du point de vue pratique le mouvement est essentiel pour le temps, mais il n'y a pas d'unité de temps universelle basée sur le mouvement, sauf dans la mesure où le jour standard du Paradis-Havona est reconnu arbitrairement comme tel. » <a id="a124_459"></a>[[LU 12:5.1](/fr/The_Urantia_Book/12#p5_1)]
 
-> « Au Paradis on ne compte pas le temps; la séquence des évènements successifs est inhérente au concept des natifs de l'Ile Centrale. » [[LU 14:1.11](/fr/The_Urantia_Book/14#p1_11)]
+> « Au Paradis on ne compte pas le temps; la séquence des évènements successifs est inhérente au concept des natifs de l'Ile Centrale. » <a id="a126_137"></a>[[LU 14:1.11](/fr/The_Urantia_Book/14#p1_11)]
 
 La lecture du fascicule « l'Ile Éternelle du Paradis » permet d'approfondir le concept assez particulier de l'espace et du temps et ceci sous un angle inhabituel, avec des termes tels que « volitif et indirectement », qui peuvent nous laisser à penser que pour l'espace la position géographique est acquise, car sa périphérie est déjà limitée.
 
@@ -137,7 +137,7 @@ Voici les deux définitions du temps et de l'espace que nous propose le Livre d'
 
 Voici les propos de Sophie Malicot au sujet du temps et de l'espace auxquels j’adhère totalement :
 
-« Le chapitre [LU 22:7.10](/fr/The_Urantia_Book/22#p7_10) nous dit que les Fils Trinitisés étudient les concepts du temps. Ceci implique que le temps n'est sans doute pas homogène et quil se manifeste différemment selon les lieux et étapes de son actualisation.
+« Le chapitre <a id="a139_14"></a>[LU 22:7.10](/fr/The_Urantia_Book/22#p7_10) nous dit que les Fils Trinitisés étudient les concepts du temps. Ceci implique que le temps n'est sans doute pas homogène et quil se manifeste différemment selon les lieux et étapes de son actualisation.
 
 Autrement dit, le temps est utilisé de façons différentes par les Déités selon les buts qu'Elles fixent.
 
@@ -145,7 +145,7 @@ Peut-on comparer le temps aux poupées matriochkas? Ces poupées russes contienn
 
 Ceci représente la ségrégation de potentiels, qui limitent arbitrairement l'étendue de leur manifestation mais non leur conception en tant que plan, ce qui est dit dans la citation :
 
-> « Leurs plans (aux architectes du Maitre univers) paraissent ultimement limités en étendue dans l'espace par le concept de la périphérie du Maitre univers, mais en tant que plans ils ne sont pas autrement conditionnés par le temps ou l'espace. » [[LU 118:4.6](/fr/The_Urantia_Book/118#p4_6)]
+> « Leurs plans (aux architectes du Maitre univers) paraissent ultimement limités en étendue dans l'espace par le concept de la périphérie du Maitre univers, mais en tant que plans ils ne sont pas autrement conditionnés par le temps ou l'espace. » <a id="a147_248"></a>[[LU 118:4.6](/fr/The_Urantia_Book/118#p4_6)]
 
 Notre difficulté est que nous raisonnons en partant de notre conception linéaire du temps — une succession de séquences — pour l'étendre vers l'éternité. Mais la Déité fait le chemin inverse. Imaginer le temps selon leur processus nous permet de conceptualiser le temps de plus en plus selon un mode circulaire.
 
@@ -161,7 +161,7 @@ Ces deux paragraphes peuvent éventuellement nous laisser penser cela :
 
 > « La foi a gagné, pour les pèlerins ascendants, une perfection de dessein qui ouvre aux enfants du temps les portes de l'éternité. Maintenant, il faut que les aides des pèlerins entreprennent de développer la perfection d'intelligence et la technique de com- préhension qui sont indispensables à la perfection paradisiaque de la personnalité. »
 
-> « L'aptitude à comprendre est le passeport des mortels pour le Paradis. Le consentement à croire est la clef de Havona. Lacceptation de la filiation, la coopération avec l'Ajusteur intérieur, est le prix de la survie évolutionnaire. » [[LU 26:4.14](/fr/The_Urantia_Book/26#p4_14)]
+> « L'aptitude à comprendre est le passeport des mortels pour le Paradis. Le consentement à croire est la clef de Havona. Lacceptation de la filiation, la coopération avec l'Ajusteur intérieur, est le prix de la survie évolutionnaire. » <a id="a163_237"></a>[[LU 26:4.14](/fr/The_Urantia_Book/26#p4_14)]
 
 <figure class="table chapter-navigator">
   <table>

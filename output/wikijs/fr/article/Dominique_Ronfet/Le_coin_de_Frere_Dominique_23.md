@@ -39,7 +39,7 @@ dateCreated: 2024-10-19T15:5:2Z
 - Ça y est, nous voilà repartis!
 - ***Ha ha ha... tiens, si nous terminions par un passage de ton bouquin.***
 - OK!
-- ***« La matière — l'énergie — car ce ne sont que des manifestations diverses de la même réalité cosmique, en tant que phénomène universel, est inhérente au Père Universel. »En lui toutes choses subsistent. »*** [LU 42:1.2](/fr/The_Urantia_Book/42#p1_2)
+- ***« La matière — l'énergie — car ce ne sont que des manifestations diverses de la même réalité cosmique, en tant que phénomène universel, est inhérente au Père Universel. »En lui toutes choses subsistent. »*** <a id="a41_213"></a>[LU 42:1.2](/fr/The_Urantia_Book/42#p1_2)
 - Mais cela n'a aucun rapport avec ta question ?!
 - ***En effet ... Ha ha ha ha!***
 - N'importe quoi. Quoique....

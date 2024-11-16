@@ -271,9 +271,9 @@ L'assemblée nomme Gilles Mauroy avec la fonction de suppléant.
 
 Plus aucune discussion n'est à l'ordre du jour. L'assemblée se termine à 11 h 30
 
-> Avec Dieu le Père, la grande relation est la filiation. Avec Dieu le Suprême, l'accomplissement est la condition préalable au statut — il faut faire quelque chose aussi bien qu'être quelque chose. ([LU 115:0.1](/fr/The_Urantia_Book/115#p0_1))
+> Avec Dieu le Père, la grande relation est la filiation. Avec Dieu le Suprême, l'accomplissement est la condition préalable au statut — il faut faire quelque chose aussi bien qu'être quelque chose. (<a id="a273_200"></a>[LU 115:0.1](/fr/The_Urantia_Book/115#p0_1))
 
-> Tout le plan de la création et de l'évolution universelles sur tous les niveaux expérientiels est apparemment une affaire de conversion des potentialités en actualités ; et cette transmutation concerne également les domaines de la puissance d'espace, de la puissance du mental et de la puissance d'esprit. ([LU 115:2.3](/fr/The_Urantia_Book/115#p2_3))
+> Tout le plan de la création et de l'évolution universelles sur tous les niveaux expérientiels est apparemment une affaire de conversion des potentialités en actualités ; et cette transmutation concerne également les domaines de la puissance d'espace, de la puissance du mental et de la puissance d'esprit. (<a id="a275_309"></a>[LU 115:2.3](/fr/The_Urantia_Book/115#p2_3))
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/005.jpg">

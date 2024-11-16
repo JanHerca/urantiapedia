@@ -53,7 +53,7 @@ Le Congrès est ouvert à tout lecteur ou sympathisant du _Livre d'Urantia_.
 
 ## Le thème sera: la volonté du Père
 
-([LU 108:2.10](/fr/The_Urantia_Book/108#p2_10) — [LU 11:5.4](/fr/The_Urantia_Book/11#p5_4) — [LU 141:2.2](/fr/The_Urantia_Book/141#p2_2) —  [LU 153:3.2](/fr/The_Urantia_Book/153#p3_2) — [LU 110](/fr/The_Urantia_Book/110#) — [LU 111](/fr/The_Urantia_Book/111#).)
+(<a id="a55_1"></a>[LU 108:2.10](/fr/The_Urantia_Book/108#p2_10) — <a id="a55_49"></a>[LU 11:5.4](/fr/The_Urantia_Book/11#p5_4) — <a id="a55_93"></a>[LU 141:2.2](/fr/The_Urantia_Book/141#p2_2) —  <a id="a55_140"></a>[LU 153:3.2](/fr/The_Urantia_Book/153#p3_2) — [LU 110](/fr/The_Urantia_Book/110#) — [LU 111](/fr/The_Urantia_Book/111#).)
 
 Nous nous retrouverons à Rimini, charmante ville italienne, décrite ci-après.
 

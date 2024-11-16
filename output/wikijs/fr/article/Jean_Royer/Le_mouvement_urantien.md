@@ -68,7 +68,7 @@ Il existe des dizaines d'actions possibles hors de ce cadre, des actions dans la
 
 Un dernier exemple. Ne serait-il pas bon et facile, en ces temps que l'on dit moroses de présenter certaines des citations du chapitre sur la mota morontielle, ne seraitce que le suivant?
 
-Il faut abandonner l'anxiété. Les déceptions les plus difficiles à supporter sont celles qui n'arrivent jamais ([LU 48:7.21](/fr/The_Urantia_Book/48#p7_21)) Mais il y en a bien d'autres.
+Il faut abandonner l'anxiété. Les déceptions les plus difficiles à supporter sont celles qui n'arrivent jamais (<a id="a70_112"></a>[LU 48:7.21](/fr/The_Urantia_Book/48#p7_21)) Mais il y en a bien d'autres.
 
 Jean Royer
 

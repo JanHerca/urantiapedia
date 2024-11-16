@@ -35,21 +35,21 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 **les Frandalanks** (sous groupe des Directeurs de pouvoir, appelés Maîtres contrôleurs physiques) :
 
-> « PARMI toutes les <ins>personnalités</ins> de l'univers intéressées à la régulation des affaires entre planètes et entre univers, ce sont les directeurs de pouvoir et leurs associés qui ont été les moins bien compris sur Urantia. » [LU 29:0.1](/fr/The_Urantia_Book/29#p0_1)
+> « PARMI toutes les <ins>personnalités</ins> de l'univers intéressées à la régulation des affaires entre planètes et entre univers, ce sont les directeurs de pouvoir et leurs associés qui ont été les moins bien compris sur Urantia. » <a id="a37_235"></a>[LU 29:0.1](/fr/The_Urantia_Book/29#p0_1)
 
 Maîtres contrôleurs physiques :
 
-> « Tous les membres de ces ordres <ins>ne sont pas des personnes</ins> au sens où les personnes possèdent le pouvoir individuel de choisir. En particulier, les quatre derniers ordres paraissent entièrement automatiques et mécaniques » [LU 29:4.12](/fr/The_Urantia_Book/29#p4_12)
+> « Tous les membres de ces ordres <ins>ne sont pas des personnes</ins> au sens où les personnes possèdent le pouvoir individuel de choisir. En particulier, les quatre derniers ordres paraissent entièrement automatiques et mécaniques » <a id="a41_236"></a>[LU 29:4.12](/fr/The_Urantia_Book/29#p4_12)
 
-> « Les quatre groupes restants de Maitres Contrôleurs Physiques <ins>sont à peine des personnes</ins> au sens d'une définition acceptable de ce mot. Ces transmetteurs, associateurs, dissociateurs et frandalanks sont entièrement automatiques dans leurs réactions et cependant, à tous égards, ils sont intelligents. » [LU 29:4.26](/fr/The_Urantia_Book/29#p4_26)
+> « Les quatre groupes restants de Maitres Contrôleurs Physiques <ins>sont à peine des personnes</ins> au sens d'une définition acceptable de ce mot. Ces transmetteurs, associateurs, dissociateurs et frandalanks sont entièrement automatiques dans leurs réactions et cependant, à tous égards, ils sont intelligents. » <a id="a43_317"></a>[LU 29:4.26](/fr/The_Urantia_Book/29#p4_26)
 
 (les soulignements sont de moi)
 
 - **les Ajusteurs** que chacun, après avoir lu le Livre, définirait avec fierté de « prépersonnel: » :
 
-> « ...il y a les Moniteurs impersonnels de Mystère, » [LU 2:1.7](/fr/The_Urantia_Book/2#p1_7)
+> « ...il y a les Moniteurs impersonnels de Mystère, » <a id="a49_55"></a>[LU 2:1.7](/fr/The_Urantia_Book/2#p1_7)
 
-> « ...les esprits impersonnels du Père Universel habitent le mental fini de l'homme mortel » [LU 17:5.5](/fr/The_Urantia_Book/17#p5_5)
+> « ...les esprits impersonnels du Père Universel habitent le mental fini de l'homme mortel » <a id="a51_94"></a>[LU 17:5.5](/fr/The_Urantia_Book/17#p5_5)
 
 (ici nous trouvons aussi un qualificatif qui n'est ni « prépersonnel »ou personnel )
 
@@ -61,15 +61,15 @@ Concernant l'ajusteur à notre niveau le sens de prépersonnel devrait être app
 
 **2) — Faut-il en conclure que ...**
 
-> « Tous les concepts statiques et morts sont potentiellement mauvais. L'ombre finie de la vérité relative et vivante se déplace continuellement. Les concepts statiques retardent invariablement la science, la politique, la société et la religion. Ils peuvent représenter une certaine connaissance, mais ils sont déficients en sagesse et dépourvus de vérité. » [LU 130:4.15](/fr/The_Urantia_Book/130#p4_15)
+> « Tous les concepts statiques et morts sont potentiellement mauvais. L'ombre finie de la vérité relative et vivante se déplace continuellement. Les concepts statiques retardent invariablement la science, la politique, la société et la religion. Ils peuvent représenter une certaine connaissance, mais ils sont déficients en sagesse et dépourvus de vérité. » <a id="a63_360"></a>[LU 130:4.15](/fr/The_Urantia_Book/130#p4_15)
 
-> « La vérité est relative et s'amplifie ; elle vit toujours dans le présent, parvenant à de nouvelles expressions dans chaque génération d'hommes — et même dans chaque vie humaine. » [LU 79:8.8](/fr/The_Urantia_Book/79#p8_8)
+> « La vérité est relative et s'amplifie ; elle vit toujours dans le présent, parvenant à de nouvelles expressions dans chaque génération d'hommes — et même dans chaque vie humaine. » <a id="a65_184"></a>[LU 79:8.8](/fr/The_Urantia_Book/79#p8_8)
 
 Il est remarquable que, malgré tout, nous cherchions toujours à stopper sur un « arrêt-sur-images » la réalité pour en sortir une photographie laquelle nous sommes persuadés aura valeur de Vérité immuable (pourtant depuis la physique des particules nous devrions être plus sage...). Notre relation aux mots et au langage en est un parfait reflet.
 
 Mais il semble que nous ne puissions pas faire autrement :
 
-> « Si le mental ne peut aboutir aux véritables conclusions et pénétrer jusqu'aux véritables origines, il sera infailliblement amené à imaginer des conclusions et à inventer des origines, afin d'avoir un moyen de penser logiquement dans le cadre de ces hypothèses mentalement créées. De tels cadres universels pour la pensée des créatures sont indispensables aux opérations intellectuelles rationnelles, mais, sans aucune exception, ils sont erronés à un plus ou moins haut degré. » [LU 115:1.1](/fr/The_Urantia_Book/115#p1_1)
+> « Si le mental ne peut aboutir aux véritables conclusions et pénétrer jusqu'aux véritables origines, il sera infailliblement amené à imaginer des conclusions et à inventer des origines, afin d'avoir un moyen de penser logiquement dans le cadre de ces hypothèses mentalement créées. De tels cadres universels pour la pensée des créatures sont indispensables aux opérations intellectuelles rationnelles, mais, sans aucune exception, ils sont erronés à un plus ou moins haut degré. » <a id="a71_483"></a>[LU 115:1.1](/fr/The_Urantia_Book/115#p1_1)
 
 Il est donc heureux que tous les auteurs n'aient pas le même point de vue.
 

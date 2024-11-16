@@ -44,7 +44,7 @@ En lecture sur le site de la fondation à l'adresse suivante :
 
 - https://www.urantia.org/fr/le-livre-durantia/telecharger-le-texte-du-livre-durantia
 
-	N.B. Cette nouvelle version a été mise en page sans la contrainte de respecter la pagination de loriginal anglais de 1955. Elle est donc plus longue de 70 pages. Pour localiser un paragraphe dans cette nouvelle version, il faut utiliser la méthode [Fascicule : Section. Paragraphe.] ([LU 42:4.7](/fr/The_Urantia_Book/42#p4_7)) et non [Page :Paragraphe] (1345.7)
+	N.B. Cette nouvelle version a été mise en page sans la contrainte de respecter la pagination de loriginal anglais de 1955. Elle est donc plus longue de 70 pages. Pour localiser un paragraphe dans cette nouvelle version, il faut utiliser la méthode [Fascicule : Section. Paragraphe.] (<a id="a46_285"></a>[LU 42:4.7](/fr/The_Urantia_Book/42#p4_7)) et non [Page :Paragraphe] (1345.7)
 
 	L'ancienne version audio reste disponible en téléchargement de fichiers MP3 (voix humaine et non électronique) à l'adresse :
 

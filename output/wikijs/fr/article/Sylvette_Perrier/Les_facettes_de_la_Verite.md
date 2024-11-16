@@ -48,7 +48,7 @@ La comparaison est saisissante avec les sept mondes des maisons, puis le voyage 
 
 2\. Les « purgatoires » des religions chrétiennes (et para ou péri chrétiennes), sont une image sévère des mondes éducatifs des maisons !
 
-> « Les royaumes morontiels sont les sphères de liaison de l'univers local entre les niveaux matériels et les niveaux spirituels d'existence des créatures. Cette vie morontielle est connue sur Urantia depuis les premiers jours du Prince Planétaire. Cet état de transition a été enseigné de temps en temps aux mortels. Sous une forme dénaturée, le concept a trouvé place dans les religions d'aujourd'hui. » ([LU 48:1.1](/fr/The_Urantia_Book/48#p1_1))
+> « Les royaumes morontiels sont les sphères de liaison de l'univers local entre les niveaux matériels et les niveaux spirituels d'existence des créatures. Cette vie morontielle est connue sur Urantia depuis les premiers jours du Prince Planétaire. Cet état de transition a été enseigné de temps en temps aux mortels. Sous une forme dénaturée, le concept a trouvé place dans les religions d'aujourd'hui. » (<a id="a50_407"></a>[LU 48:1.1](/fr/The_Urantia_Book/48#p1_1))
 
 3\. Selon un dogme celtique : les âmes des morts s'envolent vers l'Ouest (à la naissance elles étaient venues par l'Est). D'où, culte plus ou moins Solaire — Parallèle frappant avec l'orientation géographique des Révélations qui, en principe, dans le Passé, sont venues à l'Est d'Urantia ; mais dont la dernière (la cinquième) vint bien à l'Ouest, à Chicago !
 

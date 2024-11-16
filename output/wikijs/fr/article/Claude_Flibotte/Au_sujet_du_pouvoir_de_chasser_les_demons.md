@@ -75,7 +75,7 @@ C'est précisément ce qui se passa en haut lieu, car il est écrit que Satan, l
 <figcaption>Jésus chassant les démons. Saint-Martin de Zillis.</figcaption>
 </figure>
 
-Deux autres citations relatent cette chute de Satan ainsi que, sans aucun doute, la disgrâce de Caligastia et de Lucifer voir [LU 53:8.3](/fr/The_Urantia_Book/53#p8_3) et [LU 163:6.2](/fr/The_Urantia_Book/163#p6_2)
+Deux autres citations relatent cette chute de Satan ainsi que, sans aucun doute, la disgrâce de Caligastia et de Lucifer voir <a id="a77_126"></a>[LU 53:8.3](/fr/The_Urantia_Book/53#p8_3) et <a id="a77_171"></a>[LU 163:6.2](/fr/The_Urantia_Book/163#p6_2)
 
 ## Alors, comment les messagers ont-ils réussi là où les apôtres ont échoué ?
 

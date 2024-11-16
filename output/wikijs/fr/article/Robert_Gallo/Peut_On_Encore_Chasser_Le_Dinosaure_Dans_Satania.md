@@ -43,13 +43,13 @@ Pour avoir une idée de ce lemps qui reste, il faudrait avoir une indication sur
 
 Pour peu que l'on sache observer el déduire, le Livre d'Urantia donne une réponse...
 
-Nous savons ([LU 62:7.7](/fr/The_Urantia_Book/62#p7_7)) que notre monde est considéré comme « monde habilé» depuis 993408 ans avant 1934 ; el à ce titre Urantia est devenu le bobe monde habité de satania.
+Nous savons (<a id="a45_13"></a>[LU 62:7.7](/fr/The_Urantia_Book/62#p7_7)) que notre monde est considéré comme « monde habilé» depuis 993408 ans avant 1934 ; el à ce titre Urantia est devenu le bobe monde habité de satania.
 
 Nous savons également qu'en 1934 il existait 619 mondes habités dans Satania, soit 13 de plus en l'espace de 993408 années.
 
 Nous pouvons donc en déduire que sur cette séquence de 13 im makriculations, le bemps moyen entre deux numérotations est de 76416 ans ( 993408 / 13); el peut-être moins si la dernière numérotation (619) est fork antérieure à 1934.
 
-Ce délai moyen entre deux émergences planétaires d'êtres humains, est suffisamment important pour que ce soil un évènement rare el pour susciter à chaque fois une grande joie sur Jérusem, sur Edentia el même sur Salvington ([LU 62:7.3](/fr/The_Urantia_Book/62#p7_3)).
+Ce délai moyen entre deux émergences planétaires d'êtres humains, est suffisamment important pour que ce soil un évènement rare el pour susciter à chaque fois une grande joie sur Jérusem, sur Edentia el même sur Salvington (<a id="a51_224"></a>[LU 62:7.3](/fr/The_Urantia_Book/62#p7_3)).
 
 Si celte information sur le temps moyen qu'il convient d'altendre jusqu'à l'émergence du prochain monde habité est le reflet de la moyenne générale dans Satania pour le futur; alors nous pouvons conjecturer que le 1000 e monde de Satania pourrait émerger dans approximalivement 29 millions d'années (76000 x 381).
 
@@ -57,7 +57,7 @@ Par conséquent, le monde le plus en retard de Salania (celui qui sera immalricu
 
 Pour se faire une idée de l'étal de ce monde, voyons ce qu'étail le nôtre il y a 29 millions d'années.
 
-> « Il y a 30 millions d'années, les types modernes de mammifères commencèrent à faire leur apparition... » ([LU 61:2.8](/fr/The_Urantia_Book/61#p2_8))
+> « Il y a 30 millions d'années, les types modernes de mammifères commencèrent à faire leur apparition... » (<a id="a59_109"></a>[LU 61:2.8](/fr/The_Urantia_Book/61#p2_8))
 
 Nous constalons, qu'à celle époque reculée, l'ère des dinosaures étail un lointain passé el notre monde abordait déjà l'ère des animaux supérieurs.
 

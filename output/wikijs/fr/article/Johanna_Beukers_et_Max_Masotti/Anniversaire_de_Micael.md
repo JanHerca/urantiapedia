@@ -38,13 +38,13 @@ Cette année, nous avions décidé de fêter l'anniversaire de Micaël chez nous
 
 Ce sujet de la transfiguration est plus complexe qu'il n'y parait puisque certaines questions restent sans réponses comme par exemple : « Pourquoi donc Jésus et ses apôtres doivent-ils rester deux jours à se préparer spirituellement? » Comment aussi se préparer spirituellement?
 
-Le LU nous informe que les trois apôtres choisis par Jésus ne purent atteindre les niveaux spirituels qui auraient justifié le risque de les mettre pleinement en présence des êtres célestes dont l'apparition sur terre était imminente. [LU 158:0.2](/fr/The_Urantia_Book/158#p0_2)
+Le LU nous informe que les trois apôtres choisis par Jésus ne purent atteindre les niveaux spirituels qui auraient justifié le risque de les mettre pleinement en présence des êtres célestes dont l'apparition sur terre était imminente. <a id="a40_235"></a>[LU 158:0.2](/fr/The_Urantia_Book/158#p0_2)
 
 Quel était aussi ce risque de les mettre pleinement en présence des êtres célestes ? (citation du LU )
 
 Le matin du lundi 15 août, Jésus et les trois apôtres commencèrent l'ascension du mont Hermon et ils atteignirent leur destination, à mi-chemin du sommet, un peu avant midi. Suivant indications de Jean, « A mi-chemin. Le mont Hermon fait 2814 m d'altitude donc vers 1400 m ».
 
-Le LU nous indique aussi « _Jésus avait été prié de monter seul dans la montagne pour régler certaines affaires importantes concernant le déroulement de son effusion incarnée_ ».([LU 158:1.2](/fr/The_Urantia_Book/158#p1_2))
+Le LU nous indique aussi « _Jésus avait été prié de monter seul dans la montagne pour régler certaines affaires importantes concernant le déroulement de son effusion incarnée_ ».(<a id="a46_179"></a>[LU 158:1.2](/fr/The_Urantia_Book/158#p1_2))
 
 Par qui Jésus avait-il été prié de monter seul dans la montagne?
 

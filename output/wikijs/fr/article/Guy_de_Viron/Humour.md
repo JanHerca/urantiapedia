@@ -46,7 +46,7 @@ La religion devrait avoir l'humour pour contrepoids. (P.1616 — §5) Le sens de
 
 L'humour devrait fonctionner comme une soupape de sureté automatique pour empêcher l'accumulation de pressions excessives dues à la monotonie de la contemplation sérieuse et continue de soi associée à la lutte pour se développer progressivement et aboutir noblement.
 
-L'humour agit aussi pour réduire le choc de l'impact inattendu des faits et de la vérité. Les faits sont rigides et inflexibles: la vérité est souple et toujours vivante. La personnalité mortelle n'est jamais sûre de ce qui va lui arriver. Par l'humour, elle saisit rapidement (voit ce dont il s'agit et devient perspicace) la nature inattendue de la situation, qu'il s'agisse de faits ou de vérité. ([LU 48:4.18](/fr/The_Urantia_Book/48#p4_18))
+L'humour agit aussi pour réduire le choc de l'impact inattendu des faits et de la vérité. Les faits sont rigides et inflexibles: la vérité est souple et toujours vivante. La personnalité mortelle n'est jamais sûre de ce qui va lui arriver. Par l'humour, elle saisit rapidement (voit ce dont il s'agit et devient perspicace) la nature inattendue de la situation, qu'il s'agisse de faits ou de vérité. (<a id="a48_401"></a>[LU 48:4.18](/fr/The_Urantia_Book/48#p4_18))
 
 Au travers de ce présent Lien, je n'ai pas la prétention d'éditer un chef d'œuvre d'humour véritable et de qualité supérieure. Juste un petit moment de détente spirituelle avec des textes fort légers et non agressifs.
 

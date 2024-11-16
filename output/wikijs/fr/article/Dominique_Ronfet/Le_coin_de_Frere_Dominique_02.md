@@ -54,7 +54,7 @@ Construction en devenir?
 
 Pourtant :
 
-> « _L'homme fait l'expérience de la matière dans son mental. Il fait l'expérience de la réalité spirituelle dans son âme, mais devient conscient de cette expérience dans son mental._ » [LU 103:6.6](/fr/The_Urantia_Book/103#p6_6)
+> « _L'homme fait l'expérience de la matière dans son mental. Il fait l'expérience de la réalité spirituelle dans son âme, mais devient conscient de cette expérience dans son mental._ » <a id="a56_186"></a>[LU 103:6.6](/fr/The_Urantia_Book/103#p6_6)
 
 Je ne pourrais donc pas 'penser' mon âme, mais au mieux avoir conscience que 'quelque chose' s'est passé.
 

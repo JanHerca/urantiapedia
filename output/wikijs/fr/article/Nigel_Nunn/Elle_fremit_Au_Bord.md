@@ -42,7 +42,7 @@ Selon Le Livre d’Urantia, les époques culturelles de notre monde ont été pa
 
 ## Le Monde Intérieur De L'humanité
 
-> « _Les progrès de la vraie civilisation sont tous nés dans ce monde intérieur de l'humanité._ » ([LU 111:4.3](/fr/The_Urantia_Book/111#p4_3)).
+> « _Les progrès de la vraie civilisation sont tous nés dans ce monde intérieur de l'humanité._ » (<a id="a44_99"></a>[LU 111:4.3](/fr/The_Urantia_Book/111#p4_3)).
 
 Si le vrai progrès en dépend, alors nous devons nous demander: quel est ce « monde intérieur de l'humanité »? Comme ces fascicules le révèlent, ce monde intérieur implique l'orchestration de systèmes multiples de mental et de motivation, sous un tissu intangible de coordination à l'échelle planétaire. Mais regardons de plus près. Faisons un zoom de notre attention pour descendre jusqu'à l'élément constitutif de l'humanité — l'individu doté de libre arbitre. Nous découvrons que toute culture planétaire partagée, tout monde intérieur partagé que l'humanité puisse atteindre implique l'intégration des millions de mondes intérieurs privés d'entre nous.
 
@@ -52,11 +52,11 @@ Il est clair que cette notion de monde intérieur s'applique non seulement à ce
 
 Alors, commençons modestement. Commençons par considérer comment un monde intérieur est créé en chacun de nous par les sept esprits-mentaux adjuvats, puis illuminé par l'Esprit de Vérité de Michaël. Remarquez que notre scène intérieure est construite avec des matériaux quasi-divins. Mais comment meublonsnous ces appartements privés? Comment ouvrons-nous ces chambres invisibles à notre prochain? Par quels processus est-ce que nous, en tant qu'individus, nous nous engageons dans une réalité partagée? En grande partie, nos paysages de rêves fantastiques, tissés à partir de l'expérience, de la réalité, des mythes et des faits, restent privés — des essais évolutionnaires privés. Ils représentent notre tentative pour comprendre, et répondre aux défis de la vie. Bien sûr, nous sommes libres de faire de ce dessein intérieur un gâchis. Mais souvenez-vous de la garantie de l'Ajusteur: nos meilleurs efforts, qu'ils soient nombreux ou pas, sont conservés et organisés dans le tissu de notre âme.
 
-> « _À la fin de sa vingt-neuvième année, Jésus de Nazareth avait virtuellement fini de vivre la vie que l'on exige des mortels quand ils sont dans la chair. Il était venu sur terre étant la plénitude de Dieu telle qu'elle doit se manifester à l'homme. Il était presque devenu maintenant la perfection de l'homme attendant l'occasion de la manifester à Dieu, et il fit tout ceci avant ses trente ans._ » [[LU 129:4.8](/fr/The_Urantia_Book/129#p4_8) Gras ajouté.]
+> « _À la fin de sa vingt-neuvième année, Jésus de Nazareth avait virtuellement fini de vivre la vie que l'on exige des mortels quand ils sont dans la chair. Il était venu sur terre étant la plénitude de Dieu telle qu'elle doit se manifester à l'homme. Il était presque devenu maintenant la perfection de l'homme attendant l'occasion de la manifester à Dieu, et il fit tout ceci avant ses trente ans._ » <a id="a54_404"></a>[[LU 129:4.8](/fr/The_Urantia_Book/129#p4_8) Gras ajouté.]
 
 Tous critères confondus, l'ensemble des données reçues de nos mondes privés intérieurs sont diverses, et leur interaction est complexe. Conserver la stabilité d'un tel système nécessite de la coordination, une intégration continue qui rééquilibre et restaure la dynamique normale. En explorant cette interaction intérieure, nous trouvons qu'il existe au moins 3 systèmes en place — une triade d'influences complémentaires qui contribuent à nous maintenir stables. Le premier est principalement une intégration de stimulations inconscientes; le second est une organisation de nos motivations conscientes, et le troisième est une coordination d'inspirations superconscientes.
 
-Tiré du Fascicule [LU 62:6](/fr/The_Urantia_Book/62#p6)...
+Tiré du Fascicule <a id="a58_18"></a>[LU 62:6](/fr/The_Urantia_Book/62#p6)...
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/149.jpg">
@@ -101,7 +101,7 @@ Lentement, séquentiellement, tous types d'émotions sont tissés expérimentale
 <img src="/image/article/Le_Lien/images_02/156.jpg">
 </figure>
 
-Figure 1, les circuits adjuvats mentaux en tant que sept « impulsions différentielles » [Fascicule [LU 36:4.2](/fr/The_Urantia_Book/36#p4_2)] impliquant les interfaces biologiques qui évoluent par coopération avec les Porteurs de Vie.
+Figure 1, les circuits adjuvats mentaux en tant que sept « impulsions différentielles » <a id="a103_88"></a>[Fascicule [LU 36:4.2](/fr/The_Urantia_Book/36#p4_2)] impliquant les interfaces biologiques qui évoluent par coopération avec les Porteurs de Vie.
 
 Comme premier pas pour comprendre comment tous ces systèmes travaillent ensemble pour constituer notre monde inté- rieur, passons un moment à réfléchir sur la façon dont notre mental, basé sur les adjuvats, a été fait.
 
@@ -109,13 +109,13 @@ Comme premier pas pour comprendre comment tous ces systèmes travaillent ensembl
 
 Comme on peut le lire aux Fascicules 36 et 65 , lorsqu'un monde est choisi pour être peuplé d'humains, la tâche de faire évoluer la vie humaine est confiée à un groupe de Fils de l'Univers Local connu comme Porteurs de Vie. Les détails constituent une histoire captivante, mais ce qui nous intéresse ici, c'est comment ces Porteurs de Vie conspirent avec les sept Esprits adjuvats pour créer une arène pour la pensée humaine consciente.
 
-> « _Les sept esprits-mentaux adjuvats accompagnent toujours les Porteurs de Vie sur une nouvelle planète, mais il ne faudrait pas les considérer comme des entités. Ils ressemblent davantage à des circuits. Les esprits des sept adjuvats de l'univers ne fonctionnent pas comme personnalités distinctes de la présence universelle de la Divine Ministre; ils sont en fait un de ses niveaux de conscience et restent toujours subordonnés à l'action et à la présence de leur Mère Créative._ » [Fascicule [LU 36:5.4](/fr/The_Urantia_Book/36#p5_4)]
+> « _Les sept esprits-mentaux adjuvats accompagnent toujours les Porteurs de Vie sur une nouvelle planète, mais il ne faudrait pas les considérer comme des entités. Ils ressemblent davantage à des circuits. Les esprits des sept adjuvats de l'univers ne fonctionnent pas comme personnalités distinctes de la présence universelle de la Divine Ministre; ils sont en fait un de ses niveaux de conscience et restent toujours subordonnés à l'action et à la présence de leur Mère Créative._ » <a id="a111_486"></a>[Fascicule [LU 36:5.4](/fr/The_Urantia_Book/36#p5_4)]
 
 Le premier problème auquel sont confrontés ces Porteurs de Vie est comment rendre la matière réceptive au mental — comment rendre un agencement physique complexe réceptif à quelque chose d'aussi intangible que le ministère des Adjuvats; comment rendre la chimie biologique réceptive à une impulsion; comment initier une réaction instinctive, puis une émotion délicieuse ou un acte héroïque, dans les fluides salés de l'implantation d'une nouvelle vie planétaire.
 
 Leur approche fut de le faire progressivement. Au début, leurs partenaires de vie devaient être capables de réagir aux contraintes des Maitres Contrôleurs Physiques. Ensuite, ils ont composé la réceptivité à chacun des sept circuits d'adjuvats — les premières cibles de leurs efforts évolutionnaires. Leur complexification intriquée et séquentielle de modèles neuronaux et de recettes hormonales conduisit finalement à l'humanité. (Voir figure 1).
 
-> « Les sept esprits-mentaux adjuvats ont reçu des noms qui équivalent aux désignations suivantes: intuition, compréhension, courage, connaissance, conseil, adoration et sagesse. Ces esprits-mentaux font sentir leur influence sur tous les mondes habités sous forme d'une impulsion différentielle, chacun recherchant la capacité de réception lui permettant de se manifester tout à fait indépendamment du degré de réceptivité et des occasions de fonctionner rencontrées par ses compagnons. » [Fascicule [LU 36:4.2](/fr/The_Urantia_Book/36#p4_2)]
+> « Les sept esprits-mentaux adjuvats ont reçu des noms qui équivalent aux désignations suivantes: intuition, compréhension, courage, connaissance, conseil, adoration et sagesse. Ces esprits-mentaux font sentir leur influence sur tous les mondes habités sous forme d'une impulsion différentielle, chacun recherchant la capacité de réception lui permettant de se manifester tout à fait indépendamment du degré de réceptivité et des occasions de fonctionner rencontrées par ses compagnons. » <a id="a117_490"></a>[Fascicule [LU 36:4.2](/fr/The_Urantia_Book/36#p4_2)]
 
 > « Ces esprits-mentaux envoient leur influence dans tous les mondes habités sous forme d'une impulsion différentielle,... »
 
@@ -125,15 +125,15 @@ Quel genre d'interface organique, quel genre de configuration neurale psycho-bio
 
 ## Utiliser Le Type Humain De Mental.
 
-> « Dans l'expérience humaine, l'intellect mortel réside dans les pulsations rythmiques des esprits-mentaux adjuvats et effectue ses décisions dans l'arène produite par encircuitement dans ce ministère. » [Fascicule [LU 117:5.7](/fr/The_Urantia_Book/117#p5_7)]
+> « Dans l'expérience humaine, l'intellect mortel réside dans les pulsations rythmiques des esprits-mentaux adjuvats et effectue ses décisions dans l'arène produite par encircuitement dans ce ministère. » <a id="a127_205"></a>[Fascicule [LU 117:5.7](/fr/The_Urantia_Book/117#p5_7)]
 
 Alors que se passe-t-il? Comment les impulsions et influences des adjuvats, un niveau de conscience de la Divine Ministre, deviennent-ils pour nous un système mental? Dans quelle mesure sommes-nous influencés par ces pulsations d'adjuvats? Si notre intellect « réside en eux », dans quel sens sommes-nous libres de répondre indépendamment à nos expériences de vie?
 
-> « Les domaines de réaction physique (électrochimiques) et mentale aux stimulus du milieu ambiant devraient toujours être différenciés. Il faut les reconnaitre à leur tour comme des phénomènes autres que les activités spirituelles. » [Fascicule [LU 65:7.8](/fr/The_Urantia_Book/65#p7_8)]
+> « Les domaines de réaction physique (électrochimiques) et mentale aux stimulus du milieu ambiant devraient toujours être différenciés. Il faut les reconnaitre à leur tour comme des phénomènes autres que les activités spirituelles. » <a id="a131_235"></a>[Fascicule [LU 65:7.8](/fr/The_Urantia_Book/65#p7_8)]
 
 Une des avancées de la psychologie des dernières décennies a été de découvrir la relation entre notre biochimie et notre « état d'esprit ». Voyez l'effet des hormones et leur utilisation dans diverses thérapies.
 
-> « Mais beaucoup d'ajustements apparemment mystérieux des organismes vivants sont purement chimiques, totalement physiques. À n'importe quel moment, plus de 15 millions de réactions chimiques entre les sécrétions hormonales d'une douzaine de glandes endocrines sont susceptibles de se produire dans le courant sanguin d'un être humain. » [F. [LU 65:6.6](/fr/The_Urantia_Book/65#p6_6)]
+> « Mais beaucoup d'ajustements apparemment mystérieux des organismes vivants sont purement chimiques, totalement physiques. À n'importe quel moment, plus de 15 millions de réactions chimiques entre les sécrétions hormonales d'une douzaine de glandes endocrines sont susceptibles de se produire dans le courant sanguin d'un être humain. » <a id="a135_339"></a>[F. [LU 65:6.6](/fr/The_Urantia_Book/65#p6_6)]
 
 ## Notre Climat Émotionnel
 
@@ -146,7 +146,7 @@ Une contribution de ces circuits serait de créer, par interactions avec notre s
 <figcaption>Figure 2: quelques facteurs qui affectent l'arène de notre pensée consciente.</figcaption>
 </figure>
 
-> « Jésus devient rapidement un homme, non pas simplement un jeune homme mais un adulte. Il a bien appris à porter des responsabilités. Il sait persévérer en présence des déceptions. Il fait bravement front quand ses plans sont contrecarrés et ses projets temporairement déjoués. Il a appris à être équitable et juste même en face de l'injustice. Il est en voie d'apprendre à ajuster ses idéaux de vie spirituelle aux exigences pratiques de l'existence terrestre, d'apprendre à faire des plans pour atteindre un but idéaliste supérieur et lointain, tout en peinant durement dans le but de satisfaire les nécessités plus proches et plus immédiates. Il acquiert progres- sivement l'art d'adapter ses aspirations aux exigences banales de la vie des humains. Il a presque maitrisé la technique d'utiliser l'énergie de l'impulsion spirituelle pour faire fonctionner le mécanisme des réalisations matérielles. Il apprend lentement à vivre la vie céleste tout en poursuivant son existence terrestre. De plus en plus, il dépend des directives ultimes de son Père céleste, tout en assumant le rôle paternel de guider et d'orienter les enfants de sa famille terrestre. Il devient expert en l'art d'arracher la victoire à l'emprise même de la défaite. Il apprend à transformer les difficultés du temps en triomphes de l'éternité. » [Fascicule [LU 127:6.12](/fr/The_Urantia_Book/127#p6_12)]
+> « Jésus devient rapidement un homme, non pas simplement un jeune homme mais un adulte. Il a bien appris à porter des responsabilités. Il sait persévérer en présence des déceptions. Il fait bravement front quand ses plans sont contrecarrés et ses projets temporairement déjoués. Il a appris à être équitable et juste même en face de l'injustice. Il est en voie d'apprendre à ajuster ses idéaux de vie spirituelle aux exigences pratiques de l'existence terrestre, d'apprendre à faire des plans pour atteindre un but idéaliste supérieur et lointain, tout en peinant durement dans le but de satisfaire les nécessités plus proches et plus immédiates. Il acquiert progres- sivement l'art d'adapter ses aspirations aux exigences banales de la vie des humains. Il a presque maitrisé la technique d'utiliser l'énergie de l'impulsion spirituelle pour faire fonctionner le mécanisme des réalisations matérielles. Il apprend lentement à vivre la vie céleste tout en poursuivant son existence terrestre. De plus en plus, il dépend des directives ultimes de son Père céleste, tout en assumant le rôle paternel de guider et d'orienter les enfants de sa famille terrestre. Il devient expert en l'art d'arracher la victoire à l'emprise même de la défaite. Il apprend à transformer les difficultés du temps en triomphes de l'éternité. » <a id="a148_1321"></a>[Fascicule [LU 127:6.12](/fr/The_Urantia_Book/127#p6_12)]
 
 ## Une Tentative De Symboliser La Condition Humaine
 
@@ -168,36 +168,36 @@ Mais, chez la grande majorité des Urantiens, l'Ajusteur doit patiemment attendr
 
 Notre prédisposition héritée et notre réactivité habituelle acquise, notre sélectivité consciente et inconsciente de réactivité vis-à-vis des différents adjuvants, aident à expliquer le caractère unique de chaque être humain, ainsi que les caprices et la liberté de notre pensée. Nous dirigeons notre pièce et nous devrions donc essayer de comprendre au moins certains acteurs et influences sur la scène
 
-Il a presque maitrisé la technique d'utiliser l'énergie de l'impulsion spirituelle pour faire fonctionner le mécanisme des réalisations matérielles. Il apprend lentement à vivre la vie céleste tout en poursuivant son existence terrestre. [[LU 127:6.12](/fr/The_Urantia_Book/127#p6_12)]
+Il a presque maitrisé la technique d'utiliser l'énergie de l'impulsion spirituelle pour faire fonctionner le mécanisme des réalisations matérielles. Il apprend lentement à vivre la vie céleste tout en poursuivant son existence terrestre. <a id="a170_238"></a>[[LU 127:6.12](/fr/The_Urantia_Book/127#p6_12)]
 
-> _Mais, par son propre choix, la personnalité mortelle possède le pouvoir de transférer son siège d'identité du système éphémère intellect-matière au système supérieur âme-morontia, lequel, en association avec l'Ajusteur de Pensée, est créé comme nouveau véhicule pour la manifestation de la personnalité._ [Fascicule [LU 112:5.4](/fr/The_Urantia_Book/112#p5_4)]
+> _Mais, par son propre choix, la personnalité mortelle possède le pouvoir de transférer son siège d'identité du système éphémère intellect-matière au système supérieur âme-morontia, lequel, en association avec l'Ajusteur de Pensée, est créé comme nouveau véhicule pour la manifestation de la personnalité._ <a id="a172_308"></a>[Fascicule [LU 112:5.4](/fr/The_Urantia_Book/112#p5_4)]
 
-> _La vérité est rendue accessible à l'individu doué de sagesse par l'effusion sur un tel mental des esprits du Père et des Fils, l'Ajusteur de Pensée et l'Esprit de Vérité._ [Paper [LU 101:6.4](/fr/The_Urantia_Book/101#p6_4)]
+> _La vérité est rendue accessible à l'individu doué de sagesse par l'effusion sur un tel mental des esprits du Père et des Fils, l'Ajusteur de Pensée et l'Esprit de Vérité._ <a id="a174_175"></a>[Paper [LU 101:6.4](/fr/The_Urantia_Book/101#p6_4)]
 
 <figure id="Figure_12" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/160.jpg">
 <figcaption>Figure 5: Une tentative pour symboliser la condition humaine</figcaption>
 </figure>
 
-> « _Vous devriez comprendre que la vie morontielle d'un mortel ascendant commence effectivement sur les mondes habités lors de la conception de l'âme, au moment où le mental d'une créature de statut moral est habité par l'Ajusteur spirituel. A partir de ce moment, l'âme mortelle possède la capacité potentielle à des fonctions supramortelles; elle est même susceptible d'être reconnue sur les niveaux supérieurs des sphères morontielles de l'univers local._ » [F. [LU 48:6.2](/fr/The_Urantia_Book/48#p6_2)]
+> « _Vous devriez comprendre que la vie morontielle d'un mortel ascendant commence effectivement sur les mondes habités lors de la conception de l'âme, au moment où le mental d'une créature de statut moral est habité par l'Ajusteur spirituel. A partir de ce moment, l'âme mortelle possède la capacité potentielle à des fonctions supramortelles; elle est même susceptible d'être reconnue sur les niveaux supérieurs des sphères morontielles de l'univers local._ » <a id="a181_462"></a>[F. [LU 48:6.2](/fr/The_Urantia_Book/48#p6_2)]
 
 Notre dotation génétique, avec nos réactions apprises par stimulation des Adjuvats, définit la qualité de notre interface avec le système des adjuvats. Ils conditionnent aussi la capacité des adjuvats à créer pour nous un climat émotionnel plus ou moins idéal à l'intérieur duquel nous luttons ensuite pour nos vies, dans une séquence de décisions sans fin.
 
-> « _Ce transfert effectif d'une association matérielle à une identification morontielle s'effectue par la sincérité, la persistance et la fermeté des décisions de la créature humaine dans sa recherche de Dieu._ » [F. [LU 112:2.20](/fr/The_Urantia_Book/112#p2_20)]
+> « _Ce transfert effectif d'une association matérielle à une identification morontielle s'effectue par la sincérité, la persistance et la fermeté des décisions de la créature humaine dans sa recherche de Dieu._ » <a id="a185_214"></a>[F. [LU 112:2.20](/fr/The_Urantia_Book/112#p2_20)]
 
-À la naissance, nous avons un ensemble de voies biochimiques et nous sommes affectés par une orchestration d'impulsions. L'enfance est l'occasion de nous permettre de développer une aptitude à réagir à ce système d'impulsions, d'élaborer notre premier ensemble d'approches comportementales. Sur ce modèle initial, nous essayons de suspendre le tissu de l'expérience. Malheureusement, certains d'entre nous passent l'entière durée de leur vie mortelle sans jamais s'aligner avec succès au modèle fondamental des adjuvats. Cependant, si assez de travail de fond est effectué, la tâche peut se faire dans les berceaux et les crèches des mondes des maisons. Voir « _les sept mondes de dématérialisation_ », [F. [LU 47:9.5](/fr/The_Urantia_Book/47#p9_5)]
+À la naissance, nous avons un ensemble de voies biochimiques et nous sommes affectés par une orchestration d'impulsions. L'enfance est l'occasion de nous permettre de développer une aptitude à réagir à ce système d'impulsions, d'élaborer notre premier ensemble d'approches comportementales. Sur ce modèle initial, nous essayons de suspendre le tissu de l'expérience. Malheureusement, certains d'entre nous passent l'entière durée de leur vie mortelle sans jamais s'aligner avec succès au modèle fondamental des adjuvats. Cependant, si assez de travail de fond est effectué, la tâche peut se faire dans les berceaux et les crèches des mondes des maisons. Voir « _les sept mondes de dématérialisation_ », <a id="a187_703"></a>[F. [LU 47:9.5](/fr/The_Urantia_Book/47#p9_5)]
 
 Une fois que nous avons stabilisé et dans une certaine mesure maitrisé l'environnement fourni par les adjuvats, notre âme aura fait des progrès significatifs. Même à ce stade de commencement, ce nouveau vaisseau devient disponible pour nous comme base d'opérations. Si nous sommes assez enthousiasmés pour faire le saut, nous serons servis par le « niveau de conscience suivant » de la Divine Ministre de l'Univers Local, en supplément ou à la place de l'ensemble des circuits adjuvats. Tandis que notre vaisseau personnel se développe, nous accédons à des systèmes appropriés et des **niveaux mentaux**.
 
 Si nous transférons réellement le siège de notre identité à notre âme, nous devenons de nouvelles créatures, opérant avec un système mental amélioré. Et,
 
-> « _...de telles âmes divinement arrosées ne dépendent presque plus de l'environnement matériel pour la joie de vivre et les satisfactions de l'existence terrestre._ » [F. [LU 34:6.8](/fr/The_Urantia_Book/34#p6_8)]
+> « _...de telles âmes divinement arrosées ne dépendent presque plus de l'environnement matériel pour la joie de vivre et les satisfactions de l'existence terrestre._ » <a id="a193_169"></a>[F. [LU 34:6.8](/fr/The_Urantia_Book/34#p6_8)]
 
-D'une manière assez inattendue, nous apprenons (fascicule [LU 42:11.4](/fr/The_Urantia_Book/42#p11_4)) qu'en progressant, les systèmes mentaux que nous utilisons deviennent moins réceptifs à la gravité linéaire.
+D'une manière assez inattendue, nous apprenons (fascicule <a id="a195_58"></a>[LU 42:11.4](/fr/The_Urantia_Book/42#p11_4)) qu'en progressant, les systèmes mentaux que nous utilisons deviennent moins réceptifs à la gravité linéaire.
 
 ## L'âme Des Humains Ajustés
 
-> « Ainsi tout est en place dans le mental humain pour recevoir les Ajusteurs, mais, en règle générale, ceux-ci ne viennent pas immédiatement occuper un tel mental, sauf sur les mondes où l'Esprit de Vérité fonctionne comme coordonnateur spirituel des divers ministères d'esprits. Si cet esprit des Fils d'effusion est présent, les Ajusteurs arrivent infailliblement dès que le septième esprit mental adjuvat commence à fonctionner et signale à l'Esprit-Mère de l'univers qu'il a accompli, en puissance, la coordination des six adjuvats associés qui avaient précédemment apporté leur ministère à l'intellect du mortel intéressé. » (Fascicule [LU 108:2.3](/fr/The_Urantia_Book/108#p2_3)).
+> « Ainsi tout est en place dans le mental humain pour recevoir les Ajusteurs, mais, en règle générale, ceux-ci ne viennent pas immédiatement occuper un tel mental, sauf sur les mondes où l'Esprit de Vérité fonctionne comme coordonnateur spirituel des divers ministères d'esprits. Si cet esprit des Fils d'effusion est présent, les Ajusteurs arrivent infailliblement dès que le septième esprit mental adjuvat commence à fonctionner et signale à l'Esprit-Mère de l'univers qu'il a accompli, en puissance, la coordination des six adjuvats associés qui avaient précédemment apporté leur ministère à l'intellect du mortel intéressé. » (Fascicule <a id="a199_642"></a>[LU 108:2.3](/fr/The_Urantia_Book/108#p2_3)).
 
 La présence active d'un Ajusteur, adjacente à notre personnalité et notre libre arbitre, rend possible la création et la gestation de notre âme. Le mécanisme psychologique et spirituel réel de ce fonctionnement reste un mystère, mais comme l'on peut certainement en convenir, les idées de nos mondes intérieurs sont diverses et leurs interactions sont complexes. Heureusement, on nous a fourni des systèmes d'intégration et des facteurs de coordination qui rendent possible de stabiliser cet extraordinaire système.
 
@@ -221,7 +221,7 @@ Chaque adjuvat peut être associé avec les performances variées de l'ego.
 </figure>
 
 
-> « _La clarification de la vision spirituelle et le rehaussement de la perspicacité cosmique s'accompagnent d'efforts, et l'intellect humain proteste quand il est sevré de la nourriture que lui procuraient les énergies non spirituelles de l'existence temporelle. Le mental animal indolent se rebelle devant l'effort exigé par la lutte pour résoudre les problèmes cosmiques._ » [Paper [LU 100:4.2](/fr/The_Urantia_Book/100#p4_2)]
+> « _La clarification de la vision spirituelle et le rehaussement de la perspicacité cosmique s'accompagnent d'efforts, et l'intellect humain proteste quand il est sevré de la nourriture que lui procuraient les énergies non spirituelles de l'existence temporelle. Le mental animal indolent se rebelle devant l'effort exigé par la lutte pour résoudre les problèmes cosmiques._ » <a id="a223_378"></a>[Paper [LU 100:4.2](/fr/The_Urantia_Book/100#p4_2)]
 
 Ce cadre universel, les concepts et croyances s'accumulant dans notre mental, devient l'ensemble de paramètres ajustables ciblés par Le Livre d'Urantia. Donc ceci semble être le lieu où concentrer nos propres efforts. En tant que compagnons mortels dans un monde tordu et blessé, nous pourrions nous aider de bien des manières. Mais, étant parmi les premiers à avoir reçu Le Livre d'Urantia et en tant que volontaires dans ce projet des Très-Hauts, ce que nous pouvons toucher est l'image de la réalité se projetant sur des milliards d'esprits humains. Comme un mythe privé puissant, elle peut être ajustée.
 
@@ -229,7 +229,7 @@ Réfléchissons aux implications. Lorsqu'une culture entière partage un mythe i
 
 Mais les mythes intérieurs et les paradigmes sont semblables, en ce qu'ils sont tous deux des descriptions de la réalité qui ont été adoptées par une personne ou un groupe. Dans les époques passées, les cultures ont engendré des mythes pour servir leur description des choses, comme cadre universel. Aujourd'hui encore, des gens de nombreux horizons explorent l'idée que, pour progresser au-delà de notre fascination matérielle courante, l'humanité a besoin d'un arrière-plan épique, une nouvelle version de la réalité qui soit assez grande pour stimuler les générations futures, et assez consistante pour être descriptible. Et c'est précisément ce qu'on trouve dans Le Livre d'Urantia — un ensemble de vérités et de faits suffisants pour servir de fondation pour le monde intérieur de l'humanité dans la prochaine époque (« des plus passionnantes »).
 
-> « _La révélation est une technique qui permet d'économiser des âges et des âges de temps dans le travail indispensable de triage et de criblage des erreurs de l'évolution_ » (Fascicule [LU 101:5.1](/fr/The_Urantia_Book/101#p5_1)).
+> « _La révélation est une technique qui permet d'économiser des âges et des âges de temps dans le travail indispensable de triage et de criblage des erreurs de l'évolution_ » (Fascicule <a id="a231_187"></a>[LU 101:5.1](/fr/The_Urantia_Book/101#p5_1)).
 
 Étant donné cette fondation de révélation et l'aide incessante des médians, des Très-Hauts, et de l'Esprit de Vérité de Michaël, nous pouvons finalement remplacer les efforts ad hoc précédents de l'humanité.
 
@@ -245,7 +245,7 @@ Et l'âme peut être touchée directement par la présence intérieure de la Dé
 
 Nous, lecteurs, voguons sur la 5ème vague — la 5ème tentative faite par nos bienfaiteurs pour stimuler et enrichir notre comprée hension de la réalité. En tant que bénéficiaires de bonne heure de cette perspective approfondie, nous devrions réparer rapidement et redécorer nos propres mondes intérieurs, puis avancer dans cette affaire de lancer l'âge Urantien suivant. En tant que lecteurs, chacun de nous a bien reçu la graine de cette révélation en lui-même. C'est autour de cette graine, sur ce noyau de vérité fondamentale, que nous avons commencé à construire les premières versions hésitantes, évolutionnaires, de ce prochain cadre pour toute une époque. Le pas suivant et difficile est d'étendre suffisamment notre petite compréhension — notre monde intérieur privé -- pour jouer un certain rôle dans l'établissement de ce « _monde intérieur de l'humanité_ ». Une contribution minusi cule mais nécessaire au progrès de la vraie civilisation.
 
-Les générations futures vivront à l'intérieur d'un certain cadre universel (voir Fascicule [LU 115:1](/fr/The_Urantia_Book/115#p1) et fascicule [LU 118:6.7](/fr/The_Urantia_Book/118#p6_7)). En tant qu'étudiants précurseurs de ces fascicules dédiés à la fois à Michaël et sa propre Source Première, nous sommes puissamment équipés pour aider les Très-Hauts à le construire.
+Les générations futures vivront à l'intérieur d'un certain cadre universel (voir Fascicule <a id="a247_91"></a>[LU 115:1](/fr/The_Urantia_Book/115#p1) et fascicule <a id="a247_144"></a>[LU 118:6.7](/fr/The_Urantia_Book/118#p6_7)). En tant qu'étudiants précurseurs de ces fascicules dédiés à la fois à Michaël et sa propre Source Première, nous sommes puissamment équipés pour aider les Très-Hauts à le construire.
 
 ## Appendice: les six races Sangiks
 
@@ -261,7 +261,7 @@ Cette séparation prévisible signifia que notre monde devint simultanément l'h
 
 Vaste art planétaire, en effet! Mais comme le révèle Le Livre d'Urantia, les Porteurs de Vie se sont vus refuser un résultat exquis par défaut.
 
-> « _Partant du Temple de la Vie Nouvelle s'étendent sept ailes radiales, les salles de résurrection des races mortelles. Chacune de ces structures est consacrée à la reconstitution de ceux qui appartiennent à l'une des sept races du temps. Chacune des sept ailes contient cent-mille chambres personnelles de résurrection et se termine par les salles circulaires d'assemblage en classe qui servent de chambres de réveil pour un nombre d'individus allant jusqu'à un million. Ces salles sont entourées par les chambres où l'on reconstitue les personnalités des races mixtes des mondes postadamiques normaux_ ». [Paper [LU 47:3.5](/fr/The_Urantia_Book/47#p3_5)]
+> « _Partant du Temple de la Vie Nouvelle s'étendent sept ailes radiales, les salles de résurrection des races mortelles. Chacune de ces structures est consacrée à la reconstitution de ceux qui appartiennent à l'une des sept races du temps. Chacune des sept ailes contient cent-mille chambres personnelles de résurrection et se termine par les salles circulaires d'assemblage en classe qui servent de chambres de réveil pour un nombre d'individus allant jusqu'à un million. Ces salles sont entourées par les chambres où l'on reconstitue les personnalités des races mixtes des mondes postadamiques normaux_ ». <a id="a263_609"></a>[Paper [LU 47:3.5](/fr/The_Urantia_Book/47#p3_5)]
 
 _Changer cette ampoule_
 

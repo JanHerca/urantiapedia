@@ -33,7 +33,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 — Qu'est-ce que l'**humilité** ?
 — Peut-être une technique...
-— Que veux-tu dire par là ? Notre Maître « recommandait aux hommes de s'humilier uniquement pour leur permettre d'être vraiment grands ; le but qu'il visait réellement était une vraie humilité envers Dieu. » ([LU 140:8.20](/fr/The_Urantia_Book/140#p8_20)).
+— Que veux-tu dire par là ? Notre Maître « recommandait aux hommes de s'humilier uniquement pour leur permettre d'être vraiment grands ; le but qu'il visait réellement était une vraie humilité envers Dieu. » (<a id="a35_209"></a>[LU 140:8.20](/fr/The_Urantia_Book/140#p8_20)).
 
 — Oui, maintenant il faut le comprendre. Pourquoi « pour être grand faut-il « s'humilier » si ce n'est pour pemettre à notre Personnalité réelle de prendre le pas sur l'idée que nous nous faisons de nousmêmes, et que nous projetons avec tant d'orgueil : notre **individualité**.
 — Comme tu y vas. Ne suis-je pas de nature absolue?

@@ -66,7 +66,7 @@ _« Dans tout ce qui vit vous rencontrerez:_
 2. _la loi qui se manifeste en tout ce qui est vivant dans une poussée vers sa réalisation, sa forme. C'est l'ordre du devenir._
 3. _tout être vivant témoigne d'une unité avec ce qui le dépasse. Tout ce qui vit, vit dans un tout qui l'englobe. » Dürckheim_
 
-> « ***La créature personnelle douée de mental cosmique et habitée par un Ajusteur possède la faculté innée de reconnaître et de réaliser la réalité de l'énergie, la réalité du mental et la réalité de l'Esprit. La créature volitive est équipée pour distinguer <ins>le fait de Dieu, la loi de Dieu et l'amour de Dieu</ins>. A part, ces trois éléments inaliénables de la conscience humaine, toute expérience humaine est vraiment subjective, excepté cette réalisation intuitive de validité attachée à l'unification de ces trois réactions de récognition cosmique de réalité d'univers.*** » [LU 16:9.1](/fr/The_Urantia_Book/16#p9_1)
+> « ***La créature personnelle douée de mental cosmique et habitée par un Ajusteur possède la faculté innée de reconnaître et de réaliser la réalité de l'énergie, la réalité du mental et la réalité de l'Esprit. La créature volitive est équipée pour distinguer <ins>le fait de Dieu, la loi de Dieu et l'amour de Dieu</ins>. A part, ces trois éléments inaliénables de la conscience humaine, toute expérience humaine est vraiment subjective, excepté cette réalisation intuitive de validité attachée à l'unification de ces trois réactions de récognition cosmique de réalité d'univers.*** » <a id="a68_586"></a>[LU 16:9.1](/fr/The_Urantia_Book/16#p9_1)
 
 _Pour finir :_
 

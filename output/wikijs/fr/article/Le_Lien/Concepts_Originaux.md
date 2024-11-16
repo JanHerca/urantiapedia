@@ -109,7 +109,7 @@ Dr. William Sadler
 
 **Le concept de la médiation du mental** : Le mental en tant que médiateur entre l'énergie et l'Esprit sur les niveaux subabsolus.
 
-> « Dans notre effort pour étendre la conscience cosmique et rehausser la perception spirituelle, il est extrêmement difficile de présenter des concepts élargis et une vérité avancée alors que nous sommes limités par l'emploi d'un langage restreint du royaume. Cependant, notre mandat nous exhorte à faire tous nos effortspour transmettre nos significations en utilisant les symboles verbaux de la langue anglaise. On nous a recommandé de n'introduire de nouveaux termes que si l'on ne pouvait trouver dans la terminologie anglaise aucune expression propre à illustrer ces nouveaux concepts, fût-ce partiellement ou même en en déformant plus ou moins le sens. » ( [LU 0:0.2](/fr/The_Urantia_Book/0#p0_2))
+> « Dans notre effort pour étendre la conscience cosmique et rehausser la perception spirituelle, il est extrêmement difficile de présenter des concepts élargis et une vérité avancée alors que nous sommes limités par l'emploi d'un langage restreint du royaume. Cependant, notre mandat nous exhorte à faire tous nos effortspour transmettre nos significations en utilisant les symboles verbaux de la langue anglaise. On nous a recommandé de n'introduire de nouveaux termes que si l'on ne pouvait trouver dans la terminologie anglaise aucune expression propre à illustrer ces nouveaux concepts, fût-ce partiellement ou même en en déformant plus ou moins le sens. » ( <a id="a111_664"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2))
 
 <figure class="table chapter-navigator">
   <table>

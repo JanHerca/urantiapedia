@@ -53,7 +53,7 @@ Après un développement couvrant plusieurs années, la Fondation est fière d'a
 
 **Rappel**: pour ceux qui possèdent un IPhone Apple, il existe une version aussi gratuite en téléchargement sur l'Apple Store présentant les mêmes fonctions.
 
-> _Les Fascicules d'Urantia_. Ces exposés, dont le présent fascicule fait partie, constituent la plus récente présentation de la vérité aux mortels d'Urantia. lls diffèrent de toutes les révélations antérieures, car ils ne sont pas l'œuvre d'une seule personnalité de l'univers, mais une présentation composite par de nombreux êtres. [[LU 92:4.9](/fr/The_Urantia_Book/92#p4_9)]
+> _Les Fascicules d'Urantia_. Ces exposés, dont le présent fascicule fait partie, constituent la plus récente présentation de la vérité aux mortels d'Urantia. lls diffèrent de toutes les révélations antérieures, car ils ne sont pas l'œuvre d'une seule personnalité de l'univers, mais une présentation composite par de nombreux êtres. <a id="a55_334"></a>[[LU 92:4.9](/fr/The_Urantia_Book/92#p4_9)]
 
 
 

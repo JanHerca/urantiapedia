@@ -77,7 +77,7 @@ Mon propos est de nous replacer, individus, en situation d'avoir une philosophie
 
 Une première citation pour placer notre perspective:
 
-> « Jésus savait que tous les hommes étaient différents, et il l'enseigna à ses apôtres. Il les exhortait constamment à s'abstenir de toute tentative pour former les disciples et les croyants selon un modèle préétabli. Il cherchait à permettre à chaque âme de se développer à sa propre manière, à titre individuel, en se perfectionnant au regard de Dieu. En réponse à l'une des nombreuses questions de Pierre, le Maitre dit: « Je veux libérer les hommes de manière qu'ils puissent repartir comme de petits enfants dans une vie nouvelle et meilleure. » Jésus insistait toujours sur le fait que la vraie bonté doit être inconsciente, et qu'en faisant la charité, on ne doit pas permettre à la main gauche de savoir ce que fait la droite. [LU 140:8.26](/fr/The_Urantia_Book/140#p8_26).
+> « Jésus savait que tous les hommes étaient différents, et il l'enseigna à ses apôtres. Il les exhortait constamment à s'abstenir de toute tentative pour former les disciples et les croyants selon un modèle préétabli. Il cherchait à permettre à chaque âme de se développer à sa propre manière, à titre individuel, en se perfectionnant au regard de Dieu. En réponse à l'une des nombreuses questions de Pierre, le Maitre dit: « Je veux libérer les hommes de manière qu'ils puissent repartir comme de petits enfants dans une vie nouvelle et meilleure. » Jésus insistait toujours sur le fait que la vraie bonté doit être inconsciente, et qu'en faisant la charité, on ne doit pas permettre à la main gauche de savoir ce que fait la droite. <a id="a79_736"></a>[LU 140:8.26](/fr/The_Urantia_Book/140#p8_26).
 
 - Je relèverais quatre points dans cet extrait:
 - Avoir de la retenue par rapport à un modèle préétabli d'enseignement,
@@ -119,13 +119,13 @@ Nous devons ressentir, par notre corps, notre capacité à bien penser.
 
 Mais quel est donc cet Esprit qui, sous l'expression d'Esprit de Vérité, cherche à unifier l'humanité?
 
-> « La Pentecôte était destinée à diminuer l'outrecuidance d'individus, de groupes, de nations et de races — cet esprit d'outrecuidance dont la tension croit au point qu'il se déchaine périodiquement en guerres dévastatrices. Seule une approche spirituelle peut unifier l'humanité, et l'Esprit de Vérité est une influence mondiale universelle. »  [LU 194:3.18](/fr/The_Urantia_Book/194#p3_18)
+> « La Pentecôte était destinée à diminuer l'outrecuidance d'individus, de groupes, de nations et de races — cet esprit d'outrecuidance dont la tension croit au point qu'il se déchaine périodiquement en guerres dévastatrices. Seule une approche spirituelle peut unifier l'humanité, et l'Esprit de Vérité est une influence mondiale universelle. »  <a id="a121_347"></a>[LU 194:3.18](/fr/The_Urantia_Book/194#p3_18)
 
 L'outrecuidance est une forme assez répandue d'expression de puissance et de domination d'une population sur une autre, d'un individu sur un autre.
 
 Toute notre histoire est construite autour de ces batailles qui partent finalement d'individus mal construits, et persuadés de comprendre le sens de ce qui leur arrive alors que nous sommes comme des aveugles guidant de force d'autres aveugles.
 
-> « Le jour de la Pentecôte, la religion de Jésus rompit toutes les restrictions nationales et entraves raciales. Il est éternellement vrai que "là où se trouve l'esprit du Seigneur, là est la liberté. ». [LU 194:3.5](/fr/The_Urantia_Book/194#p3_5)
+> « Le jour de la Pentecôte, la religion de Jésus rompit toutes les restrictions nationales et entraves raciales. Il est éternellement vrai que "là où se trouve l'esprit du Seigneur, là est la liberté. ». <a id="a127_205"></a>[LU 194:3.5](/fr/The_Urantia_Book/194#p3_5)
 
 Alors pourquoi sommes-nous si peu à l'écoute de l'autre? Pourquoi avons-nous encore ces réflexes d'outrecuidances, à croire nos certitudes comme étant des vérités d'expériences à imposer, absolument.
 

@@ -31,7 +31,7 @@ dateCreated: 2024-10-19T15:5:2Z
 </figure>
 
 
-> « _Immédiatement après la satisfaction suprême de l'adoration se place la réjouissance de la philosophie. Si haut que l'on s'élève et si loin que l'on avance, il reste mille mystères qui exigent le recours à la philosophie lorsqu'on tente de les résoudre._ » [LU 27:6.1](/fr/The_Urantia_Book/27#p6_1)
+> « _Immédiatement après la satisfaction suprême de l'adoration se place la réjouissance de la philosophie. Si haut que l'on s'élève et si loin que l'on avance, il reste mille mystères qui exigent le recours à la philosophie lorsqu'on tente de les résoudre._ » <a id="a33_261"></a>[LU 27:6.1](/fr/The_Urantia_Book/27#p6_1)
 
 - Ton livre contient des passages étranges.
 - Oui, la recherche de la Vérité semble être une quête éternelle.

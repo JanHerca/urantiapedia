@@ -121,7 +121,7 @@ Les personnels du gouvernement planétaire en charge du projet _The Urantia Book
 
 Tous ces évènements montrent qu'il existe un plan général et une organisation précise mise en place par nos amis invisibles et par le gouvernement planétaire des séraphins pour faire évoluer la spiritualité d'Urantia. Plus particulièrement et en ce qui concerne la francophonie, l'explosion démographique de l'Afrique est un défi à venir majeur et il faut nous y préparer. Les clefs se trouvent certainement dans le « mandat de publication » et les cinq points mentionnés plus haut sont en place: à nous de participer à la hauteur de nos moyens.
 
-> « Avec Dieu le Père, la grande relation est la filiation. Avec Dieu le Suprême, l'accomplissement est la condition préalable au statut — il faut faire quelque chose aussi bine qu'être quelque chose » ([LU 115:0.1](/fr/The_Urantia_Book/115#p0_1))
+> « Avec Dieu le Père, la grande relation est la filiation. Avec Dieu le Suprême, l'accomplissement est la condition préalable au statut — il faut faire quelque chose aussi bine qu'être quelque chose » (<a id="a123_203"></a>[LU 115:0.1](/fr/The_Urantia_Book/115#p0_1))
 
 Georges Michelson-Dupont
 

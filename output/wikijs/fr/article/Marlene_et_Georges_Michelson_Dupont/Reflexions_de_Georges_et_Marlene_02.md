@@ -53,7 +53,7 @@ C'est pourquoi il a doté ses créatures de tout le nécessaire pour pouvoir acc
 
 La notion même de progrès implique l'idée du temps et de l'espace. C'est pourquoi, pour nous, créatures, il nous faut un commencement dans le temps, une naissance dans un endroit de l'espace. C'est le commencement de notre vie.
 
-Le Livre d'Urantia définit la vie comme suit : « _La vie est en réalité un processus qui prend place entre l'organisme (l'individualité) et son environnement. La personnalité communique des valeurs d'identité et des significations de continuité à cette association d'un organisme et d'un environnement._ » ([LU 112:1.13](/fr/The_Urantia_Book/112#p1_13))
+Le Livre d'Urantia définit la vie comme suit : « _La vie est en réalité un processus qui prend place entre l'organisme (l'individualité) et son environnement. La personnalité communique des valeurs d'identité et des significations de continuité à cette association d'un organisme et d'un environnement._ » (<a id="a55_307"></a>[LU 112:1.13](/fr/The_Urantia_Book/112#p1_13))
 
 Depuis sa conception, et tout au long de la vie humaine, l'homme construit, dans son mental et par un procédé conscient et inconscient d'association d'idées, un ensemble de réactions (on pourrait parler de conditionnement) à l'environnement pour former ce que l'on appelle communément le carac- tère. Par exemple, si l'on habitue très jeune un enfant à partager avec son frère, cette association d'idée servira de réponse privilégiée à l'environnement dans des situations analogues. Ainsi le libre arbitre dont notre personnalité est dotée aura tendance à répondre d'une manière récurrente à des situations similaires.
 

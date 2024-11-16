@@ -48,7 +48,7 @@ Et tentons d'appréhender cet espace dans lequel, finalement, nous sommes. Nous 
 
 Alors comment bien nager? Comment bien penser ? Comment nous développer et devenir de vrais penseurs?
 
-> _... Bien peu de mortels sont réellement des penseurs. Vous ne développez pas et ne disciplinez pas votre mental jusqu'au point favorable à une liaison avec les Ajusteurs divins..._ [LU 110:7.6](/fr/The_Urantia_Book/110#p7_6)
+> _... Bien peu de mortels sont réellement des penseurs. Vous ne développez pas et ne disciplinez pas votre mental jusqu'au point favorable à une liaison avec les Ajusteurs divins..._ <a id="a50_184"></a>[LU 110:7.6](/fr/The_Urantia_Book/110#p7_6)
 
 Sans aller jusqu'à parler d'un hypothétique contact avec l'Invité divin (c'est un autre sujet) je m'intéresse au développement de notre pensée.
 

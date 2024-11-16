@@ -75,11 +75,11 @@ La Fondation URANTIA, pour financer les traductions, fonctionne à l'aide de don
 
 La Fondation URANTIA a besoin de l'aide et de l'adhésion de l'ensemble du lectorat urantien pour mener à bien cette mission planétaire historique. Avec la publication imminente des traductions russe, hollandaise et coréenne, nous allons être confrontés à un nouveau challenge, celui de l'internationalisation. Les différentes composantes de notre mouvement ont grand besoin de se réconcilier et non d'exporter leurs divisions tel le cancer dans un organisme sain.
 
-> Jésus disait: « _Si une maison est divisée contre elle-même, elle est bientôt vouée à la ruine. Une ville peut-elle soutenir un siège si elle est désunie ?_ » ([LU 153:4.3](/fr/The_Urantia_Book/153#p4_3))
+> Jésus disait: « _Si une maison est divisée contre elle-même, elle est bientôt vouée à la ruine. Une ville peut-elle soutenir un siège si elle est désunie ?_ » (<a id="a77_162"></a>[LU 153:4.3](/fr/The_Urantia_Book/153#p4_3))
 
 Et, lors du souper d'adieu il donna l'exhortation suivante:
 
-> « _Je voudrais vous voir accomplir des actes d'amour encore plus grands dans le royaume de la fraternité des croyants. Je vous donne donc ce nouveau commandement : Aimez-vous les uns les autres comme je vous ai aimés. Si vous faites cela, si vous vous aimez ainsi les uns les autres, tous les hommes sauront que vous êtes mes disciples._ » ([LU 180:1.1](/fr/The_Urantia_Book/180#p1_1))
+> « _Je voudrais vous voir accomplir des actes d'amour encore plus grands dans le royaume de la fraternité des croyants. Je vous donne donc ce nouveau commandement : Aimez-vous les uns les autres comme je vous ai aimés. Si vous faites cela, si vous vous aimez ainsi les uns les autres, tous les hommes sauront que vous êtes mes disciples._ » (<a id="a81_343"></a>[LU 180:1.1](/fr/The_Urantia_Book/180#p1_1))
 
 Résumé préparé par G. Michelson-Dupont
 

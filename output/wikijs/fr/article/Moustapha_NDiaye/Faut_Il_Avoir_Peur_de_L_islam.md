@@ -63,7 +63,7 @@ Parmi les prémices de ce que pourrait être l'avenir, notons également que l'i
 
 > La force de l'islam a résidé dans sa présentation bien nette et bien précise d'Allah comme la seule et unique Déité.
 > 
-> Sa faiblesse fut d'associer la force militaire à cette promulgation, et aussi de dégrader les femmes. ([LU 95:7.6](/fr/The_Urantia_Book/95#p7_6))
+> Sa faiblesse fut d'associer la force militaire à cette promulgation, et aussi de dégrader les femmes. (<a id="a65_105"></a>[LU 95:7.6](/fr/The_Urantia_Book/95#p7_6))
 
 Constatons enfin le rejet de la violence et surtout de l'idéologie djihadiste qui est en train de perdre toute sympathie dans la quasi-totalité du monde musulman, ce qui nétait pas non plus le cas il y a juste quelques années. Nous sommes certains que l'islam de demain sera différent de ce qu'il est aujourd'hui, comme le monde de demain le sera de celui d'aujourd'hui.
 

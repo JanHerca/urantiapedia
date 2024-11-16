@@ -34,9 +34,9 @@ dateCreated: 2024-09-29T14:02:03.086Z
 </figure>
 
 
-Il est très difficile de se rendre compte du travail qu'opère l'Ajusteur dans notre mental, surtout lorsque l'on sait que, le plus souvent, cette « adhésion » de notre part à sa mission n'est pas un processus <ins>conscient</ins> ([LU 110:3.6](/fr/The_Urantia_Book/110#p3_6)).
+Il est très difficile de se rendre compte du travail qu'opère l'Ajusteur dans notre mental, surtout lorsque l'on sait que, le plus souvent, cette « adhésion » de notre part à sa mission n'est pas un processus <ins>conscient</ins> (<a id="a36_231"></a>[LU 110:3.6](/fr/The_Urantia_Book/110#p3_6)).
 
-Dans le cas rare où il y a synchronisation et harmonisation d'objectifs entre le Don divin et son sujet humain, l'âme intéressée est transférée directement aux mondes des maisons sans passer par l'expérience de la mort (ibid. [LU 110:5.3](/fr/The_Urantia_Book/110#p5_3)).
+Dans le cas rare où il y a synchronisation et harmonisation d'objectifs entre le Don divin et son sujet humain, l'âme intéressée est transférée directement aux mondes des maisons sans passer par l'expérience de la mort (ibid. <a id="a38_226"></a>[LU 110:5.3](/fr/The_Urantia_Book/110#p5_3)).
 
 Il reste que le grand but de l'expérience humaine consiste à se mettre au <ins>diapason</ins> de la divinité de l'Ajusteur intérieur.
 
@@ -49,7 +49,7 @@ Ces attitudes et décisions sont rappelées au fascicule 110, page 1206 :5. Au n
 - <ins>amour</ins> et <ins>service</ins> de tout autre frère humain ;
 - acceptation sereine de la <ins>citoyenneté cosmique</ins> et des <ins>obligations</ins> progressives qui lui sont attachées.
 
-Rappelons enfin que seule la résistance <ins>consciente</ins> à la « direction » que tente de donner l'Ajusteur peut empêcher la survie de l'âme immortelle en évolution (ibid :[LU 110:3.6](/fr/The_Urantia_Book/110#p3_6)).
+Rappelons enfin que seule la résistance <ins>consciente</ins> à la « direction » que tente de donner l'Ajusteur peut empêcher la survie de l'âme immortelle en évolution (ibid :<a id="a51_176"></a>[LU 110:3.6](/fr/The_Urantia_Book/110#p3_6)).
 
 Entre l'harmonie qui vaut sauf-conduit pour le monde des maisons et le refus qui met définitivement hors circuit, il y a donc la juste place pour toutes les approches possibles entre l'homme évolutionnnaire et la Déité évoluante.
 

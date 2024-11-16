@@ -36,7 +36,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 Pourquoi et comment adorer Dieu? Il peut parfois sembler difficile de répondre, simplement, à la question du pourquoi et surtout à celle du comment adorer le Père Universel.
 
-> _Nous adorons Dieu d'abord parce qu'il est, ensuite parce qu'il est en nous, enfin parce que nous sommes en lui._ [[LU 16:9.14](/fr/The_Urantia_Book/16#p9_14)]
+> _Nous adorons Dieu d'abord parce qu'il est, ensuite parce qu'il est en nous, enfin parce que nous sommes en lui._ <a id="a38_116"></a>[[LU 16:9.14](/fr/The_Urantia_Book/16#p9_14)]
 
 En répondant en apparence à la question du pourquoi, cette explication semble nous proposer une technique d'adoration, un comment : celle d'un triple mouvement de l'âme par rapport à Dieu.
 
@@ -70,7 +70,7 @@ L'Être issu de nos êtres, NOUS sommes JE.
 
 Troisième mouvement de l'âme.
 
-> _Nous adorons Dieu d'abord parce qu'il est, ensuite parce qu'il est en nous, enfin parce que nous sommes en lui_ [[LU 16:9.14](/fr/The_Urantia_Book/16#p9_14)]
+> _Nous adorons Dieu d'abord parce qu'il est, ensuite parce qu'il est en nous, enfin parce que nous sommes en lui_ <a id="a72_115"></a>[[LU 16:9.14](/fr/The_Urantia_Book/16#p9_14)]
 
 Une simple phrase-chemin sortie d'une multitude d'autres phrases constituant un corpus de 2097 pages. Une petite phrasefeuille de route.
 

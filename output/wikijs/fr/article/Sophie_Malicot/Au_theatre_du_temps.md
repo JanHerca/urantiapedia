@@ -47,7 +47,7 @@ Le temps est simultanément une réalité quotidienne et un concept difficile à
 > « Il y a trois niveaux différents de connaissance du temps:
 > 1. Le temps perçu par le mental — la conscience de la séquence, du mouvement et le sens de durée.
 > 2. Le temps perçu par l'esprit — la perception du mouvement vers Dieu et la conscience du mouvement ascensionnel vers des niveaux de divinité croissante.
-> 3. La personnalité crée un sens unique du temps par sa pénétration de la Réalité, plus une conscience de la présence et une perception de la durée. » [LU 12:5.6-9](/fr/The_Urantia_Book/12#p5_6)
+> 3. La personnalité crée un sens unique du temps par sa pénétration de la Réalité, plus une conscience de la présence et une perception de la durée. » <a id="a49_152"></a>[LU 12:5.6-9](/fr/The_Urantia_Book/12#p5_6)
 
 **1\. Le temps perçu par le mental** — la conscience de la séquence, du mouvement et le sens de durée.
 

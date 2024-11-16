@@ -42,7 +42,7 @@ Pour ceux qui se posent des questions un peu plus terre à terre si je puis dire
 
 Nous commencerons le récit à son arrivée là haut.
 
-« Dès que j'eus pu regarder autour de moi et apprécier mon nouvel état, je fus rejoint par un de mes anciens collègues, un prêtre qui était mort quelques années auparavant » [LU 47:3.6](/fr/The_Urantia_Book/47#p3_6)
+« Dès que j'eus pu regarder autour de moi et apprécier mon nouvel état, je fus rejoint par un de mes anciens collègues, un prêtre qui était mort quelques années auparavant » <a id="a44_174"></a>[LU 47:3.6](/fr/The_Urantia_Book/47#p3_6)
 
 Vous avez le temps de satisfaire votre désir de consulter le registre des inscriptions et de rendre visite à ceux que vous aimiez et les autres amis terrestres qui vous ont précédé sur ce monde.
 
@@ -76,7 +76,7 @@ La vue était tout simplement magnifique. Jamais je ne me serais attendu à cont
 
 « Les édifices magnifiques offrent l'image d'une permanence éternelle. Les matériaux avec lesquels ils sont construits sont impérissables. Les surfaces sont aussi propres et fraîches qu'à leur premier jour. Rien ne les souille. Les matériaux avec lesquels ils sont construits sont ceux du monde spirituel, aussi leur beauté est divine. 
 
-[LU 48:1.3](/fr/The_Urantia_Book/48#p1_3) Les Maîtres Contrôleurs Physique et les Superviseurs de Pouvoir Morontiel peuvent modifier la rotation des unités primaires de matière, et en même temps transformer ces associations d'énergie de manière à créer cette nouvelles substance.
+<a id="a78_0"></a>[LU 48:1.3](/fr/The_Urantia_Book/48#p1_3) Les Maîtres Contrôleurs Physique et les Superviseurs de Pouvoir Morontiel peuvent modifier la rotation des unités primaires de matière, et en même temps transformer ces associations d'énergie de manière à créer cette nouvelles substance.
 
 « Une maison de repos : Elle servait ceux qui étaient arrivés dans le monde spirituel après une longue maladie, ou qui étaient morts de mort violente ... Immédiatement au-dessus de l'immeuble, un grand dôme de lumière bleue l'enveloppait dans son rayonnement. C'était un fluide revitalisant, un grand rayonnement de guérison envoyé à ceux qui n'étaient pas encore éveillés spirituellement. »
 

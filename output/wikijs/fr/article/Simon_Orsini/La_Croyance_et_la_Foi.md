@@ -58,7 +58,7 @@ La théologie est l'étude des actions et réactions de l'esprit humain. L'obser
 
 Quand la recherche se fait en partant de l'intérieur (le Paradis) elle donne origine à la théologie.
 
-> Si quelque chose est devenu une religion dans votre expérience, il est évident que vous êtes déjà un évangéliste actif de cette religion, puisque vous estimez le concept suprême de votre religion comme digne du culte de toute l'humanité, de toutes les intelligences de l'univers. Si vous n'êtes pas un évangéliste positif et missionnaire de votre religion, vous vous trompez vous-même en ce sens que ce que vous appelez religion est seulement une croyance traditionnelle ou un simple système de philosophie intellectuelle. [LU 160:5.3](/fr/The_Urantia_Book/160#p5_3)
+> Si quelque chose est devenu une religion dans votre expérience, il est évident que vous êtes déjà un évangéliste actif de cette religion, puisque vous estimez le concept suprême de votre religion comme digne du culte de toute l'humanité, de toutes les intelligences de l'univers. Si vous n'êtes pas un évangéliste positif et missionnaire de votre religion, vous vous trompez vous-même en ce sens que ce que vous appelez religion est seulement une croyance traditionnelle ou un simple système de philosophie intellectuelle. <a id="a60_525"></a>[LU 160:5.3](/fr/The_Urantia_Book/160#p5_3)
 
 Au stade humain rien ne peut être prouvé, la science et la religion sont toutes deux fondées sur des hypothèses, la science devient le domaine mental des mathématiques.
 

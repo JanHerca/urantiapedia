@@ -51,7 +51,7 @@ _In retirement, she has returned to a long standing interest in philosophy, espe
 <figcaption>Marjorie Ray devant l'auditoire Fondation Urantia le 1er novembre 2019</figcaption>
 </figure>
 
-La science entière des mathématiques, le domaine total de la philosophie, la physique et la chimie les plus avancées ne pouvaient ni prédire ni savoir que l'union de deux atomes gazeux d'hydrogène avec un atome gazeux d'oxygène produirait une substance nouvelle et qualitativement surajoutée l'eau liquide. À elle seule, la constatation de ce phénomène physicochimique aurait dû empêcher le développement de la philosophie matérialiste et de la cosmologie mécanique. ([LU 12:9.3](/fr/The_Urantia_Book/12#p9_3))
+La science entière des mathématiques, le domaine total de la philosophie, la physique et la chimie les plus avancées ne pouvaient ni prédire ni savoir que l'union de deux atomes gazeux d'hydrogène avec un atome gazeux d'oxygène produirait une substance nouvelle et qualitativement surajoutée l'eau liquide. À elle seule, la constatation de ce phénomène physicochimique aurait dû empêcher le développement de la philosophie matérialiste et de la cosmologie mécanique. (<a id="a53_468"></a>[LU 12:9.3](/fr/The_Urantia_Book/12#p9_3))
 
 Cette citation est intrigante en ce qu'elle souligne la faiblesse de nos systèmes épistémologiques dérivés de l'esprit humain pour comprendre une substance qui est la base de la vie sur cette planète. L'examen des adjectifs utilisés et du phénomène mentionné permettra peut-être de comprendre ce que les auteurs tentaient de transmettre.
 

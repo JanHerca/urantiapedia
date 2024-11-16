@@ -42,25 +42,25 @@ Cet essai-ci se propose de n'étudier la personnalité que dans ses liens avec l
 
 **1) La réalité déifiée**
 
-> « La personnalité est un niveau de réalité déifiée » [LU 0:5.1](/fr/The_Urantia_Book/0#p5_1)
+> « La personnalité est un niveau de réalité déifiée » <a id="a44_55"></a>[LU 0:5.1](/fr/The_Urantia_Book/0#p5_1)
 
-> « La réalité déifiée embrasse tous les potentiels de Déité infinie s'étendant à travers tous les royaumes de la personnalité depuis le fini le plus bas jusqu'à l'infini le plus élevé. » [LU 0:4.4](/fr/The_Urantia_Book/0#p4_4)
+> « La réalité déifiée embrasse tous les potentiels de Déité infinie s'étendant à travers tous les royaumes de la personnalité depuis le fini le plus bas jusqu'à l'infini le plus élevé. » <a id="a46_188"></a>[LU 0:4.4](/fr/The_Urantia_Book/0#p4_4)
 
 La personnalité est donc une réalité invariable dont le contenu potentiel commencera à se manifester dès son attribution à un ascendeur, pour atteindre l'actualisation complète (?) à la fin du périple cosmique. De par ses potentiels, cette réalité en voie de déification est apte à fonctionner sur et à l'intérieur de tous les niveaux de réalités cosmiques, universelles et divines.
 
 **2) La réalité cosmique**
 
-> « En vue de faciliter la compréhension humaine de l'univers des univers, nous avons appelé finis, absonites et absolus les divers niveaux de la réalité cosmique. Parmi eux, seul l'absolu est éternel sans qualification, vraiment existentiel. » [LU 115:1.3](/fr/The_Urantia_Book/115#p1_3)
+> « En vue de faciliter la compréhension humaine de l'univers des univers, nous avons appelé finis, absonites et absolus les divers niveaux de la réalité cosmique. Parmi eux, seul l'absolu est éternel sans qualification, vraiment existentiel. » <a id="a52_245"></a>[LU 115:1.3](/fr/The_Urantia_Book/115#p1_3)
 
 **3) La réalité universelle**
 
-> Il n'y que trois éléments dans la réalité universelle : le fait, l'idée et la relation » et « la conscience religieuse identifie ces réalités en tant que science, philosophie et vérité». [LU 196:3.2](/fr/The_Urantia_Book/196#p3_2)
+> Il n'y que trois éléments dans la réalité universelle : le fait, l'idée et la relation » et « la conscience religieuse identifie ces réalités en tant que science, philosophie et vérité». <a id="a56_189"></a>[LU 196:3.2](/fr/The_Urantia_Book/196#p3_2)
 
 **4) La réalité divine**
 
-> « Les valeurs paradisiaques d'éternité et d'infinité, de vérité, de beauté et de bonté, dissimulée dans les faits des phénomènes des univers du temps et de l'espace ». [LU 195:7.4](/fr/The_Urantia_Book/195#p7_4)
+> « Les valeurs paradisiaques d'éternité et d'infinité, de vérité, de beauté et de bonté, dissimulée dans les faits des phénomènes des univers du temps et de l'espace ». <a id="a60_170"></a>[LU 195:7.4](/fr/The_Urantia_Book/195#p7_4)
 
-### II — La personnalité et son triple statut universel ([LU 112:1.1](/fr/The_Urantia_Book/112#p1_1))
+### II — La personnalité et son triple statut universel (<a id="a62_57"></a>[LU 112:1.1](/fr/The_Urantia_Book/112#p1_1))
 
 La personnalité est identifiée par son triple statut:
 
@@ -80,7 +80,7 @@ Par une autre capacité de notre mental — celle qui critique, évalue, jauge e
 
 Reprenons le fil de notre raisonnement.
 
-**1) Le statut de position ([LU 112:1.1](/fr/The_Urantia_Book/112#p1_1))**
+**1) Le statut de position (<a id="a82_28"></a>[LU 112:1.1](/fr/The_Urantia_Book/112#p1_1))**
 
 Par le statut de position, la personnalité fonctionne avec une égale efficacité dans l'univers local, dans le super-univers et dans l'univers central. Pourquoi pas sur le Paradis, le niveau absolu?
 
@@ -102,7 +102,7 @@ Ici nous ne rencontrons pas la même difficulté que pour le statut de position,
 
 Ce statut permet la personnalité d'expérimenter les valeurs déduites des significations dans les domaines progressifs du matériel, du morontiel et du spirituel.
 
-### III — La personnalité et ses 7 dimensions cosmiques ([LU 112:1.5](/fr/The_Urantia_Book/112#p1_5))
+### III — La personnalité et ses 7 dimensions cosmiques (<a id="a104_57"></a>[LU 112:1.5](/fr/The_Urantia_Book/112#p1_5))
 
 Le champ d'action de la personnalité possède trois dimensions cosmiques dans le fini, trois dans l'absonite et une dans l'absolu. Ceci démontre une fois de plus l'immensité potentielle et la portée d'action incluse dans la personnalité.
 

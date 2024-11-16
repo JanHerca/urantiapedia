@@ -36,11 +36,11 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 **Fascicule 88.2**
 
-> « ***Les paroles devinrent finalement des fétiches, plus spécialement celles que l'on considérait comme les paroles de Dieu; de cette manière, les livres sacrés de bien des religions sont devenues des prisons fétiches où l'imagination spirituelle des hommes est incarnée. L'effort même de Moïse contre les fétiches devint suprême fétiche.*** » [LU 88:2.6](/fr/The_Urantia_Book/88#p2_6)
+> « ***Les paroles devinrent finalement des fétiches, plus spécialement celles que l'on considérait comme les paroles de Dieu; de cette manière, les livres sacrés de bien des religions sont devenues des prisons fétiches où l'imagination spirituelle des hommes est incarnée. L'effort même de Moïse contre les fétiches devint suprême fétiche.*** » <a id="a38_346"></a>[LU 88:2.6](/fr/The_Urantia_Book/88#p2_6)
 
-> « ***En ce qui concerne les accumulations d'écrits fétiches que diverses religions tiennent pour des LIVRES SACRES, non seulement les fidèles croient que tout ce qui est dans le livre est vrai, mais aussi que le livre contient toute la vérité.*** » [LU 88:2.7](/fr/The_Urantia_Book/88#p2_7)
+> « ***En ce qui concerne les accumulations d'écrits fétiches que diverses religions tiennent pour des LIVRES SACRES, non seulement les fidèles croient que tout ce qui est dans le livre est vrai, mais aussi que le livre contient toute la vérité.*** » <a id="a40_251"></a>[LU 88:2.7](/fr/The_Urantia_Book/88#p2_7)
 
-> « **Pour devenir des fétiches, il fallait que les paroles fussent considérées comme inspirées. L'invocation d'écrits que l'on supposait d'inspiration divine conduisit directement à établir L'AURORITE de l'Eglise.** » [LU 88:2.10](/fr/The_Urantia_Book/88#p2_10)
+> « **Pour devenir des fétiches, il fallait que les paroles fussent considérées comme inspirées. L'invocation d'écrits que l'on supposait d'inspiration divine conduisit directement à établir L'AURORITE de l'Eglise.** » <a id="a42_219"></a>[LU 88:2.10](/fr/The_Urantia_Book/88#p2_10)
 
 Je vois souvent :
 Le Livre d'Urantia a dit...
@@ -60,9 +60,9 @@ A) Le sujet des Ajusteurs de Pensée est développé dans 6 fascicules, du 107 a
 
 Cependant, faisons un bond dans la vie de Jésus, qui est une source d'inspiration.
 
-> « ***Jésus mit au point des méthodes de plus en plus efficaces pour communiquer personnellement avec la présence spirituelle intérieure du Père du Paradis.*** » [LU 129:4.3](/fr/The_Urantia_Book/129#p4_3)
+> « ***Jésus mit au point des méthodes de plus en plus efficaces pour communiquer personnellement avec la présence spirituelle intérieure du Père du Paradis.*** » <a id="a62_163"></a>[LU 129:4.3](/fr/The_Urantia_Book/129#p4_3)
 
-Revenons à [LU 109:5.3](/fr/The_Urantia_Book/109#p5_3) : HANDICAPS MATERIELS AU SEJOUR DE L'AJUSTEUR.
+Revenons à <a id="a64_11"></a>[LU 109:5.3](/fr/The_Urantia_Book/109#p5_3) : HANDICAPS MATERIELS AU SEJOUR DE L'AJUSTEUR.
 
 Il est reproché aux humains: « ***mais vos attitudes mentales instables et souvent changeantes ont fréquemment pour effet de contrecarrer les plans des Ajusteurs et d'interrompre leur travail*** »
 
@@ -74,7 +74,7 @@ Nous, nous le savons, mais on ne vous le dira pas, débrouillez-vous.
 
 Alors pour réponse, je vous invite à poursuivre une recherche que j'ai faite :
 
-> « ***Le mental est votre navire, l'Ajusteur est votre Pilote, la volonté humaine est votre capitaine...se fier au divin pilote...rejeter la gouverne d'un pilote aussi aimant...Avec votre consentement, ce fidèle pilote fera traverser en sécurité les obstacles... jusqu'au Père des Ajusteurs au Paradis.*** » Fin du chapitre- [LU 111:1.9](/fr/The_Urantia_Book/111#p1_9)
+> « ***Le mental est votre navire, l'Ajusteur est votre Pilote, la volonté humaine est votre capitaine...se fier au divin pilote...rejeter la gouverne d'un pilote aussi aimant...Avec votre consentement, ce fidèle pilote fera traverser en sécurité les obstacles... jusqu'au Père des Ajusteurs au Paradis.*** » Fin du chapitre- <a id="a76_326"></a>[LU 111:1.9](/fr/The_Urantia_Book/111#p1_9)
 
 Pour ma part j’ai identifié deux autres Livres comme étant l'œuvre d'Ajusteur ou du Père.
 
@@ -90,7 +90,7 @@ LA PETITE VOIX de Eileen CADDY, Méditation quotidienne, à la page du 29 janvie
 
 A la page du 23 juin « _...Me laisser te conduire à travers ces eaux troubles ? Je te piloterai à travers chaque difficulté jusqu'à des eaux calmes et tranquilles..._ »
 
-Jésus [LU 155:5.11](/fr/The_Urantia_Book/155#p5_11), prend le même exemple :
+Jésus <a id="a92_6"></a>[LU 155:5.11](/fr/The_Urantia_Book/155#p5_11), prend le même exemple :
 
 > « ***Des hommes de foi voyageant en haute mer, sur les océans de la vérité inexplorée à la recherche des rivages lointains des vérités spirituelles.*** »
 

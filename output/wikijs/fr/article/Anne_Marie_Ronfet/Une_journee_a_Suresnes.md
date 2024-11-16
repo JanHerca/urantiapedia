@@ -40,7 +40,7 @@ CETTE REUNION PORTAIT SUR LA FAÇON DONT JESUS VIVAIT SA VIE DE TOUS LES JOURS, 
 
 Nous avons pris pour base le chapitre 7 du fascicule 100 « l'apogée de la vie religieuse » et un exposé fait par notre ami Chris concernant « Jésus, l'homme ».
 
-> _La présentation la plus efficace de Jésus consiste à suivre l'exemple de celui qui a dit, en faisant un geste vers le Maitre debout devant ses accusations : « Voici l'homme »._ [LU 100:7.1](/fr/The_Urantia_Book/100#p7_1)
+> _La présentation la plus efficace de Jésus consiste à suivre l'exemple de celui qui a dit, en faisant un geste vers le Maitre debout devant ses accusations : « Voici l'homme »._ <a id="a42_180"></a>[LU 100:7.1](/fr/The_Urantia_Book/100#p7_1)
 
 **Question** : Jésus bénéficiait-t-il de ses effusions antérieures pour vivre? Jésus a eu une vraie vie d'homme. Il fallait qu'il fasse l'expérience véritable de l'humain. Donc, il ne devait pas se souvenir de ses expériences antérieures.
 
@@ -56,7 +56,7 @@ La foi d'un enfant pour Jésus c'est une confiance, une ouverture et non une foi
 
 Un humain adulte malade ou accidenté qui doit réapprendre à marcher de façon normale met très longtemps, des mois ou même des années. Alors qu'un petit enfant se lance avec confiance, naturellement en avant, sans se poser de questions, en étant SINCERE, sans doutes et sans affectation.
 
-**Support de réflexion** : l'apogée de la vie religieuse [LU 100:6.6](/fr/The_Urantia_Book/100#p6_6)
+**Support de réflexion** : l'apogée de la vie religieuse <a id="a58_57"></a>[LU 100:6.6](/fr/The_Urantia_Book/100#p6_6)
 
 Discussion sur les termes **maîtrise et harmonie** :
 
@@ -76,7 +76,7 @@ Rôle de l'**émotion** dans la vie : dans beaucoup de traditions spirituelles o
 
 Nous avons parlé de l'universalité de la musique de BACH qui fasait passer l'émotion sans débordement ...
 
-Concernant l'**unification de Jésus** comme modèle [LU 100:7.2](/fr/The_Urantia_Book/100#p7_2) et [LU 100:7.4](/fr/The_Urantia_Book/100#p7_4) :
+Concernant l'**unification de Jésus** comme modèle <a id="a78_51"></a>[LU 100:7.2](/fr/The_Urantia_Book/100#p7_2) et <a id="a78_98"></a>[LU 100:7.4](/fr/The_Urantia_Book/100#p7_4) :
 
 Les gens équilibrés attirent. Dans l'équilibre, de la sérénité se dégage. Un équilibre manifesté sur les 3 niveaux, physique, mental et spirituel est attirant.
 
@@ -94,7 +94,7 @@ Quand il parle du Père Jésus parle avec une autorité absolue parce qu'il a pr
 
 Jésus est prêt pour l'aventure. Il n'a pas peur. Il est prêt à aller de l'avant. C'est un pionnier. Il permettait aux autres de se débarrasser de concepts erronés, étouffants et ceci sans révolution. Il a balayé les habitudes inutiles.
 
-> _Jésus a confiance dans son Père et nous dit « Faites confiance aussi au Père, Vous pouvez lui faire confiance. »_ [LU 100:7.6-7](/fr/The_Urantia_Book/100#p7_6)
+> _Jésus a confiance dans son Père et nous dit « Faites confiance aussi au Père, Vous pouvez lui faire confiance. »_ <a id="a96_117"></a>[LU 100:7.6-7](/fr/The_Urantia_Book/100#p7_6)
 
 Il était immunisé contre les déceptions, par sa foi libératrice, par sa maîtrise et le dépassement de son ego. Il s'adresse à tous sans préjugés.
 
@@ -110,7 +110,7 @@ Il était **joyeux et optimiste**. Nous avons parlé du sens de la fête : la ga
 
 Sa vie est une **exhortation au courage et à vivre ses convictions**.
 
-> _Donner comme on a reçu avec libéralité, avec générosité._ [LU 100:7.10](/fr/The_Urantia_Book/100#p7_10)
+> _Donner comme on a reçu avec libéralité, avec générosité._ <a id="a112_61"></a>[LU 100:7.10](/fr/The_Urantia_Book/100#p7_10)
 
 Nous avons alors parlé du gaspillage, de l'art de faire beaucoup avec peu. Contrôler le gaspillage concerne la maîtrise et cela nous interroge au plus haut point en tant qu'homme moderne. Le gaspillage planétaire se produit au niveau des énergies, de l'argent et des forces spirituelles. Nous devons apprendre l'ÉCONOMIE COSMIQUE.
 
@@ -122,7 +122,7 @@ Jésus aime le pêcheur et hait le péché. Difficulté pour nous de discerner e
 
 **Retour au texte de Chris**
 
-> _Si grand que soit le fait de la souveraineté de Micaël, il ne faut pas enlever aux hommes le Jésus humain. Le Maître est monté aux cieux aussi bien en tant qu'homme qu'en tant que Dieu ; il appartient aux hommes et les hommes lui appartiennent._ [LU 196:1.1](/fr/The_Urantia_Book/196#p1_1)
+> _Si grand que soit le fait de la souveraineté de Micaël, il ne faut pas enlever aux hommes le Jésus humain. Le Maître est monté aux cieux aussi bien en tant qu'homme qu'en tant que Dieu ; il appartient aux hommes et les hommes lui appartiennent._ <a id="a124_249"></a>[LU 196:1.1](/fr/The_Urantia_Book/196#p1_1)
 
 Nous passerons à Salvington pour nous présenter devant lui. Il validera notre passage. Chris nous pose la question sur la façon dont nous envisageons ce moment. Auronsnous une responsabilité supérieure suite au passage de Michaël sur Urantia et à la 5ème Révélation?
 
@@ -150,7 +150,7 @@ Jésus avait l'habitude de s'isoler pour se ressourcer. Ses décisions ne sont p
 
 Le **choix de l'humain** pour Jésus :
 
-> _Le grand problème suivant dont eut à débattre cet homme-Dieu, et qu'il résolut bientôt conformément à la volonté du Père céleste, concernait la question de savoir s'il devait ou non employer ses pouvoirs suprahumains pour attirer l'attention et gagner l'adhésion de ses contemporains._ [LU 136:8.1](/fr/The_Urantia_Book/136#p8_1)
+> _Le grand problème suivant dont eut à débattre cet homme-Dieu, et qu'il résolut bientôt conformément à la volonté du Père céleste, concernait la question de savoir s'il devait ou non employer ses pouvoirs suprahumains pour attirer l'attention et gagner l'adhésion de ses contemporains._ <a id="a152_289"></a>[LU 136:8.1](/fr/The_Urantia_Book/136#p8_1)
 
 Pour porter sa mission à la connaissance des hommes, Jésus fixa son choix sur une méthode éliminant toutes ces pratiques, et il vécut de façon constante suivant cette grande décision. Jésus voulait rester dans les limites naturelles de l'humanité. Il ne pouvait pas se permettre de transgresser les lois naturelles du mode qu'il avait créé. La leçon de ceci pour nous est de ne pas chercher l'évènement exceptionnel mais l'évolution spirituelle intérieure lente, vraie et profonde.
 
@@ -158,7 +158,7 @@ L'exigence des fascicules redonne à l'homme le sens de sa destinée, sans mirac
 
 La spiritualité guérit par l'énergie d'amour.
 
-> _Ce que le Fils Créateur désire et ce que le Père éternel veut EST._ ([LU 149:1.7](/fr/The_Urantia_Book/149#p1_7))
+> _Ce que le Fils Créateur désire et ce que le Père éternel veut EST._ (<a id="a160_72"></a>[LU 149:1.7](/fr/The_Urantia_Book/149#p1_7))
 
 Rapport de la journée du samedi 22 Novembre 2008 à Suresnes.
 

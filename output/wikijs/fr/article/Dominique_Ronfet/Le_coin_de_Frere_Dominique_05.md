@@ -37,7 +37,7 @@ Faut-il opposer à l'homme moderne, extraverti et conquérant un homme méditati
 
 (Dans quel sens vivre?)
 
-> Je lis : « _Le désir intense qu'à la Personnalité d'être semblable à Dieu, le désir sincère de faire la volonté de Dieu._ » ([LU 1:2.6](/fr/The_Urantia_Book/1#p2_6))
+> Je lis : « _Le désir intense qu'à la Personnalité d'être semblable à Dieu, le désir sincère de faire la volonté de Dieu._ » (<a id="a39_127"></a>[LU 1:2.6](/fr/The_Urantia_Book/1#p2_6))
 
 Le désir précède donc la volonté?
 Qui se connait, connait son désir.

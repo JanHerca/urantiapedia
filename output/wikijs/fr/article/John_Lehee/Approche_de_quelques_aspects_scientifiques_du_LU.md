@@ -44,7 +44,7 @@ Concernant ces développements, les Révélateurs nous disent :
 
 > Parce que votre monde ignore généralement l'origine des choses, même physiques, il a paru sage de lui fournir, de temps en temps, des notions de cosmologie, mais cela a toujours provoqué des troubles pour l'avenir. Les lois gouvernant la révélation nous gênent grandement, parce qu'elles interdisent de transmettre des connaissances imméritées ou prématurées. Toute cosmologie présentée comme partie d'une religion révélée est destinée à être dépassée au bout de très peu de temps. En conséquence, ceux qui étudient, après coup, cette révélation sont tentés de rejeter tout élément de vérité religieuse authentique qu'elle peut contenir, parce qu'ils découvrent des erreurs manifestes dans les cosmologies associées qui y sont présentées.
 >
-> L'humanité devrait comprendre que nous, qui participons à la révélation de la vérité, nous sommes très rigoureusement limités par les instructions de nos supérieurs. Nous ne sommes pas libres d'anticiper sur les découvertes scientifiques d'un millénaire. Les révélateurs doivent agir selon les instructions qui forment une partie du commandement de révéler. Nous ne voyons aucun moyen de surmonter cette difficulté, ni dans le présent ni dans un avenir quelconque. Les faits historiques et les vérités religieuses de cette série d'exposés révélateurs subsisteront dans les annales des âges à venir, mais, en même temps, nous savons parfaitement que, d'ici peu d'années, beaucoup de nos affirmations concernant les sciences physiques auront besoin d'être revues, à la suite de développements scientifiques additionnels et de découvertes nouvelles. Nous prévoyons, dès maintenant, ces nouveaux développements, mais il nous est interdit d'inclure, dans nos exposés révélateurs, ces notions que les hommes n'ont pas encore découvertes. Qu'il soit bien clair que les révélations ne sont pas nécessairement inspirées. La cosmologie révélée ici n'est pas inspirée. Elle est limitée par l'autorisation que nous avons de coordonner et de trier les connaissances d'aujourd'hui. La clairvoyance divine ou spirituelle est un don, mais la sagesse humaine doit évoluer. [LU 101:4.1](/fr/The_Urantia_Book/101#p4_1)
+> L'humanité devrait comprendre que nous, qui participons à la révélation de la vérité, nous sommes très rigoureusement limités par les instructions de nos supérieurs. Nous ne sommes pas libres d'anticiper sur les découvertes scientifiques d'un millénaire. Les révélateurs doivent agir selon les instructions qui forment une partie du commandement de révéler. Nous ne voyons aucun moyen de surmonter cette difficulté, ni dans le présent ni dans un avenir quelconque. Les faits historiques et les vérités religieuses de cette série d'exposés révélateurs subsisteront dans les annales des âges à venir, mais, en même temps, nous savons parfaitement que, d'ici peu d'années, beaucoup de nos affirmations concernant les sciences physiques auront besoin d'être revues, à la suite de développements scientifiques additionnels et de découvertes nouvelles. Nous prévoyons, dès maintenant, ces nouveaux développements, mais il nous est interdit d'inclure, dans nos exposés révélateurs, ces notions que les hommes n'ont pas encore découvertes. Qu'il soit bien clair que les révélations ne sont pas nécessairement inspirées. La cosmologie révélée ici n'est pas inspirée. Elle est limitée par l'autorisation que nous avons de coordonner et de trier les connaissances d'aujourd'hui. La clairvoyance divine ou spirituelle est un don, mais la sagesse humaine doit évoluer. <a id="a46_1358"></a>[LU 101:4.1](/fr/The_Urantia_Book/101#p4_1)
 
 On pourrait penser qu'il ne faille pas prendre au pied de la lettre les explications scientifiques des Auteurs célestes et qu'il faille éviter, par exemple, de faire comme les chrétiens fondamentalistes qui lisent le livre de la Genèse biblique de façon littérale.
 
@@ -54,7 +54,7 @@ Non, sincèrement je ne pense pas.
 
 Les Révélateurs étaient très limités dans leur travail et n'ont donc pas tout révélé car l'Homme doit découvrir par lui-même les mécanismes de l'Univers.
 
-Et j'ai peine à croire que les Révélateurs aient révélé volontairement des erreurs sous prétexte de nous dissuader de faire du livre un fétiche comme certaines personnes le laissent parfois penser, ou de s'en tenir aux acquis de la science du début du siècle. Je pourrais illustrer ce dernier cas de figure en donnant l'exemple des chromosomes (qui feront l'objet d'un paragraphe) où je ne pense pas que les Révélateurs nous aient dit que nos cellules en comportaient 48 sous prétexte que la science de l'époque en voyait 48. A [LU 36:2.11](/fr/The_Urantia_Book/36#p2_11), les auteurs célestes ne nous parlent pas de chromosomes mais d'unités de contrôle archétypal.
+Et j'ai peine à croire que les Révélateurs aient révélé volontairement des erreurs sous prétexte de nous dissuader de faire du livre un fétiche comme certaines personnes le laissent parfois penser, ou de s'en tenir aux acquis de la science du début du siècle. Je pourrais illustrer ce dernier cas de figure en donnant l'exemple des chromosomes (qui feront l'objet d'un paragraphe) où je ne pense pas que les Révélateurs nous aient dit que nos cellules en comportaient 48 sous prétexte que la science de l'époque en voyait 48. A <a id="a56_528"></a>[LU 36:2.11](/fr/The_Urantia_Book/36#p2_11), les auteurs célestes ne nous parlent pas de chromosomes mais d'unités de contrôle archétypal.
 
 D'abord, s'il y a certaines choses qui ne s'accordent pas avec la science, c'est vraisemblablement parce que ladite science n'est pas infaillible.
 
@@ -74,7 +74,7 @@ Dans une première partie, j'aborderai les éléments chimiques artificiels de p
 
 _[Avertissement : Je ne ferai, dans cette partie, qu'une interprétation du texte de 42:7.7 et un rapprochement avec les quelques données que j'ai pu recueillir sur ces phénomènes physiques. Des connaissances pointues d'un spécialiste sur ce sujet sont nécessaires si l'on veut avancer dans la compréhension de ce paragraphe. J'ai abordé ce thème après la lecture de quelques commentaires de lecteurs américains qui y voyaient des contradictions avec la science alors qu'il me semble que ce paragraphe peut tout à fait s'accorder avec les connaissances actuelles.]_
 
-> Dans Orvonton, il n'a jamais été possible d'assembler naturellement plus de cent électrons orbitaux dans un même système atomique. Quand un cent-unième a été introduit artificiellement dans le champ des orbites, il en est toujours résulté une dislocation quasi instantanée du proton central et une folle dispersion des électrons et autres énergies libérées. [LU 42:7.7](/fr/The_Urantia_Book/42#p7_7)
+> Dans Orvonton, il n'a jamais été possible d'assembler naturellement plus de cent électrons orbitaux dans un même système atomique. Quand un cent-unième a été introduit artificiellement dans le champ des orbites, il en est toujours résulté une dislocation quasi instantanée du proton central et une folle dispersion des électrons et autres énergies libérées. <a id="a76_360"></a>[LU 42:7.7](/fr/The_Urantia_Book/42#p7_7)
 
 **A. Une dislocation quasi instantanée.**
 
@@ -83,7 +83,7 @@ Le terme « instantané» signifie « Qui précède ou qui suit sans intermédia
 La version de 1955 parlait d' « une dislocation instantanée » du proton central. Le terme « quasi » a été rajouté à la deuxième édition par l'explication que rien n'est « instantané» dans l'univers physique. Il y aurait toujours un laps de temps quel que soit le processus physique.
 Lors de l'impression, le terme aurait donc pu être oublié.
 
-Et il est vrai qu'à deux autres reprises Le Livre d'Urantia parle de « quasi instantanéité» quand il aborde la dissolution du corps physique de Jésus dont le processus s'est produit quasiment sans intermédiaire (cf. [LU 189:2.4](/fr/The_Urantia_Book/189#p2_4)).
+Et il est vrai qu'à deux autres reprises Le Livre d'Urantia parle de « quasi instantanéité» quand il aborde la dissolution du corps physique de Jésus dont le processus s'est produit quasiment sans intermédiaire (cf. <a id="a85_216"></a>[LU 189:2.4](/fr/The_Urantia_Book/189#p2_4)).
 
 **B. Le proton central et l'instant de sa dislocation.**
 
@@ -94,7 +94,7 @@ Et on peut, en effet, se poser un certain nombre de questions sur ce passage :
 - _Le texte veut-il dire que la dislocation du proton central se produit tout de suite après l'ajout du 101^e^ électron?_ (Il semblerait alors y avoir contradiction avec les expérimentations scientifiques)
 - _Le texte parle-t-il d'une dislocation brusque du proton central après un certain laps de temps suivant l'ajout du 101^e^ électron?_ (Ce qui semblerait en accord avec la science)
 
-Le texte nous parle bien de la dislocation du proton central et non du noyau de l'atome (rappelons que le proton est une des particules du noyau atomique). Le texte utilise en effet distinctement les deux expressions comme la description de deux corps différents (cf. [LU 42:7.2-4](/fr/The_Urantia_Book/42#p7_2)).
+Le texte nous parle bien de la dislocation du proton central et non du noyau de l'atome (rappelons que le proton est une des particules du noyau atomique). Le texte utilise en effet distinctement les deux expressions comme la description de deux corps différents (cf. <a id="a96_268"></a>[LU 42:7.2-4](/fr/The_Urantia_Book/42#p7_2)).
 
 Et qu'il s'agisse de l'un ou de l'autre, cette dislocation entraîne une décomposition de l'atome en entier puisque le texte précise «**... et une folle dispersion des électrons et autres énergies libérées.** ». A moins que cette libération d'énergie se produise, elle-même, après un certain laps de temps.
 
@@ -115,7 +115,7 @@ Un atome peut être, par exemple, dans différents états à la fois.
 
 En utilisant l'analogie suivante, c'est comme si, dans notre monde quotidien, une porte pouvait être à la fois ouverte et fermée. Ce comportement déroutant des atomes est d'ailleurs aussi évoqué à 42:7.10 :
 
-> Les atomes sont donc similaires à des personnes quant aux possibilités de prévoir leur comportement. Les statisticiens peuvent énoncer des lois gouvernant un grand nombre d'atomes ou de personnes, mais deviennent muets quand il s'agit d'un seul atome ou d'une seule personne. [LU 42:7.10](/fr/The_Urantia_Book/42#p7_10)
+> Les atomes sont donc similaires à des personnes quant aux possibilités de prévoir leur comportement. Les statisticiens peuvent énoncer des lois gouvernant un grand nombre d'atomes ou de personnes, mais deviennent muets quand il s'agit d'un seul atome ou d'une seule personne. <a id="a117_278"></a>[LU 42:7.10](/fr/The_Urantia_Book/42#p7_10)
 
 **La science se demande d'ailleurs comment le monde classique dans lequel nous vivons peut coexister avec l'étrange monde microscopique. Et une théorie a été élaborée en 1980 par Wojciech Zurech et Murray Gell-Mann (voir ***Science &Vie*** nº 977, p.39). Il s'agit de la « théorie de la décohérence » qui explique que les atomes interagissent entre eux pour brouiller les phénomènes quantiques et permettre à notre monde d'être ce qu'il est avec les lois que nous connaissons qui contrastent tellement avec celles de l'infiniment petit.**
 
@@ -129,7 +129,7 @@ Un article de la revue « _Sciences et Avenir_ », _nº 666, août 2002, p.78_, 
 
 Rappelons que les chromosomes sont des éléments du noyau de nos cellules, en formes de bâtonnets, qui contiennent les gènes, supports matériels de l'hérédité.
 
-Il faut préciser que _Le Livre d'Urantia_ n'utilise qu'une seule fois le terme chromosome (cf. [LU 77:2.5](/fr/The_Urantia_Book/77#p2_5)). Sinon il parle d'« **unités de contrôle archétypal — les déterminateurs de caractéristiques** » (cf. [LU 36:2.11](/fr/The_Urantia_Book/36#p2_11)). Nos cellules contiennent 48 de ces unités. Or la science parle de 46 chromosomes. Il y aurait donc 2 unités que nous ne connaîtrions pas.
+Il faut préciser que _Le Livre d'Urantia_ n'utilise qu'une seule fois le terme chromosome (cf. <a id="a131_95"></a>[LU 77:2.5](/fr/The_Urantia_Book/77#p2_5)). Sinon il parle d'« **unités de contrôle archétypal — les déterminateurs de caractéristiques** » (cf. <a id="a131_240"></a>[LU 36:2.11](/fr/The_Urantia_Book/36#p2_11)). Nos cellules contiennent 48 de ces unités. Or la science parle de 46 chromosomes. Il y aurait donc 2 unités que nous ne connaîtrions pas.
 
 L'article de la revue précitée explique le rôle d'une molécule appelée « **histone** » qui serait (il s'agit d'une hypothèse) « un second code biologique, contenu dans les protéines qui façonne l'ADN en chromosomes ». « Les histones sont de petites protéines en charge de l'empaquetage de l'ADN. ».
 
@@ -143,7 +143,7 @@ Et nous aurions donc bien 46 chromosomes mais 48 unités de contrôle archétypa
 
 ## Les effets des influences gravitationnelles sur les corps spatiaux.
 
-> Les planètes les plus proches du soleil furent les premières à avoir leur rotation ralentie par les frictions dues aux effets de marée. Ces influences gravitationnelles contribuent également à stabiliser les orbites planétaires en freinant le rythme de rotation des planètes sur elles-mêmes; de ce fait, les planètes tournent de plus en plus lentement jusqu'à ce que leur rotation axiale s'arrête. Cela laisse un hémisphère de la planète constamment tourné du côté du soleil ou du corps le plus grand, comme le montrent les exemples de la planète Mercure et de la Lune, cette dernière présentant toujours la même face à Urantia. [LU 57:6.2](/fr/The_Urantia_Book/57#p6_2)
+> Les planètes les plus proches du soleil furent les premières à avoir leur rotation ralentie par les frictions dues aux effets de marée. Ces influences gravitationnelles contribuent également à stabiliser les orbites planétaires en freinant le rythme de rotation des planètes sur elles-mêmes; de ce fait, les planètes tournent de plus en plus lentement jusqu'à ce que leur rotation axiale s'arrête. Cela laisse un hémisphère de la planète constamment tourné du côté du soleil ou du corps le plus grand, comme le montrent les exemples de la planète Mercure et de la Lune, cette dernière présentant toujours la même face à Urantia. <a id="a145_631"></a>[LU 57:6.2](/fr/The_Urantia_Book/57#p6_2)
 
 **A. La rotation axiale de la Lune et de Mercure.**
 
@@ -181,7 +181,7 @@ Un article dans une revue intitulée « _Ciel et Espace_ », _nº 389, Oct. 2002
 
 De plus les nouvelles cartes cosmologiques sur les inhomogénéités de la lumière froide (cette lumière constituerait 99,9% de toute la lumière existante), publiées en avril 2001 et en mai 2002, confirment la platitude de l'Univers.
 
-Cette platitude, _déjà prédite par Le Livre d'Urantia à [LU 15:1.2](/fr/The_Urantia_Book/15#p1_2)_, a été récemment, et à nouveau, mise en évidence par l'envoi d'un ballon à 30 km d'altitude pour mesurer le fond cosmologique (le rayonnement primordial qui serait émis lors du Big-Bang) de façon à mesurer la densité de l'Univers (cf. _Science & Vie, hors série, nº 221, décembre 2002, p. 158_). Cette mesure confirmerait l'expansion de l'Univers, qui ralentirait mais ne s'arrêterait que dans un temps infini.
+Cette platitude, _déjà prédite par Le Livre d'Urantia à <a id="a183_56"></a>[LU 15:1.2](/fr/The_Urantia_Book/15#p1_2)_, a été récemment, et à nouveau, mise en évidence par l'envoi d'un ballon à 30 km d'altitude pour mesurer le fond cosmologique (le rayonnement primordial qui serait émis lors du Big-Bang) de façon à mesurer la densité de l'Univers (cf. _Science & Vie, hors série, nº 221, décembre 2002, p. 158_). Cette mesure confirmerait l'expansion de l'Univers, qui ralentirait mais ne s'arrêterait que dans un temps infini.
 
 Selon l'article, il faut donc maintenant prendre en compte 3 éléments régissant l'Univers :
 - L'expansion (_Le Livre d'Urantia_ parle lui d'une respiration cyclique de l'Univers).

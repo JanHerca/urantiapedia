@@ -93,9 +93,9 @@ Ce qui est important dans le LU, ce n'est pas tant la découverte des valeurs qu
 
 Et que lisons-nous au sujet de la tolérance ?
 
-[LU 139:6.8](/fr/The_Urantia_Book/139#p6_8) — [LU 100:4.4](/fr/The_Urantia_Book/100#p4_4) — [LU 140:8.13](/fr/The_Urantia_Book/140#p8_13) — [LU 146:2.13](/fr/The_Urantia_Book/146#p2_13) 12 — [LU 156:5.18](/fr/The_Urantia_Book/156#p5_18) — [LU 193:2.2](/fr/The_Urantia_Book/193#p2_2) -
+<a id="a95_0"></a>[LU 139:6.8](/fr/The_Urantia_Book/139#p6_8) — <a id="a95_46"></a>[LU 100:4.4](/fr/The_Urantia_Book/100#p4_4) — <a id="a95_92"></a>[LU 140:8.13](/fr/The_Urantia_Book/140#p8_13) — <a id="a95_140"></a>[LU 146:2.13](/fr/The_Urantia_Book/146#p2_13) 12 — <a id="a95_191"></a>[LU 156:5.18](/fr/The_Urantia_Book/156#p5_18) — <a id="a95_239"></a>[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2) -
 
-> _Que la paix soit sur vous. Et voici les fruits de l'esprit divin produits dans la vie des mortels nés d'esprit et connaissant Dieu : service expression de l'amour, dévouement désintéressé, fidélité courageuse, équité sincère, honnêteté éclairée, espoir vivace, confiance sans soupçons, ministère miséricordieux, bonté inaltérable, tolérance indulgente et paix durable._ [LU 193:2.2](/fr/The_Urantia_Book/193#p2_2)
+> _Que la paix soit sur vous. Et voici les fruits de l'esprit divin produits dans la vie des mortels nés d'esprit et connaissant Dieu : service expression de l'amour, dévouement désintéressé, fidélité courageuse, équité sincère, honnêteté éclairée, espoir vivace, confiance sans soupçons, ministère miséricordieux, bonté inaltérable, tolérance indulgente et paix durable._ <a id="a97_373"></a>[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2)
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/068.jpg">

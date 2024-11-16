@@ -38,7 +38,7 @@ _Patrick Morelli (France)_
 
 L'ile du Paradis est la source de toute la puissance énergétique de l'Univers et toutes les masses gigantesques de la création gravitent autour de ce corps.
 
-Nous savons qu'elle se présente comme un vaste ellipsoïde aplati dont le grand axe est d'un sixième plus long que son petit axe et son «épaisseur » (la distance entre la surface supérieure et la surface inférieure) est le dixième du petit axe. Nous savons également que cette Ile centrale est ([LU 11:0.1](/fr/The_Urantia_Book/11#p0_1)) « **le plus gigantesque corps organisé de réalité cosmique dans tout le maitre univers** ».
+Nous savons qu'elle se présente comme un vaste ellipsoïde aplati dont le grand axe est d'un sixième plus long que son petit axe et son «épaisseur » (la distance entre la surface supérieure et la surface inférieure) est le dixième du petit axe. Nous savons également que cette Ile centrale est (<a id="a40_294"></a>[LU 11:0.1](/fr/The_Urantia_Book/11#p0_1)) « **le plus gigantesque corps organisé de réalité cosmique dans tout le maitre univers** ».
 
 Le plus gigantesque corps organisé certes, mais pourrait-on s'en faire une vague idée?
 
@@ -53,13 +53,13 @@ Toutefois, si nous prenons un peu de recul, le Livre fournit un indice astronomi
 
 Il faut savoir, au préalable, que trois circuits de mondes gravitent autour du Paradis avant les cercles de Havona et ils se situent entre le premier cercle de Havona et l'Ile du Paradis.
 
-C'est le temps que met le premier circuit (le plus proche du Paradis qui est le circuit des mondes du Père) pour faire une révolution complète, qui définit le temps d'une journée standard « Paradis-Havona » qui correspond à 1000 ans de notre temps urantien : ([LU 14:1.12](/fr/The_Urantia_Book/14#p1_12)) « **Un jour du Paradis-Havona correspond juste à mille années du présent calendrier d'Urantia qui comporte des années bissextiles, moins sept minutes, trois secondes et un huitième de seconde.** »
+C'est le temps que met le premier circuit (le plus proche du Paradis qui est le circuit des mondes du Père) pour faire une révolution complète, qui définit le temps d'une journée standard « Paradis-Havona » qui correspond à 1000 ans de notre temps urantien : (<a id="a55_260"></a>[LU 14:1.12](/fr/The_Urantia_Book/14#p1_12)) « **Un jour du Paradis-Havona correspond juste à mille années du présent calendrier d'Urantia qui comporte des années bissextiles, moins sept minutes, trois secondes et un huitième de seconde.** »
 
 Par conséquent, si nous pouvions avoir une idée de la vitesse de déplacement de ces mondes il nous serait aisé de calculer la circonférence du cercle qui englobe l'Ile du Paradis, et aussi, le diamètre de ce cercle ; puisque nous connaissons parfaitement le temps de ce parcours : Mille ans.
 
 À quelle vitesse peuvent bien se déplacer ces mondes?
 
-Le Livre fournit un indice : ([LU 14:1.12](/fr/The_Urantia_Book/14#p1_12)) « **Bien que leur vitesse soit énorme parce qu'elles (les planètes du premier circuit) sont situées entre les corps de gravité obscurs et le gigantesque Paradis** »
+Le Livre fournit un indice : (<a id="a61_30"></a>[LU 14:1.12](/fr/The_Urantia_Book/14#p1_12)) « **Bien que leur vitesse soit énorme parce qu'elles (les planètes du premier circuit) sont situées entre les corps de gravité obscurs et le gigantesque Paradis** »
 
 Alors qu'est-ce qu'une vitesse énorme?
 

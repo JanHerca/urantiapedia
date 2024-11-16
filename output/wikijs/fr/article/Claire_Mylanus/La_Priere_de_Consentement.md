@@ -44,7 +44,7 @@ La Prière de Consentement se compare à l'adoration. Dieu existe au-dessus des 
 
 « _Soyez silencieux et sachez que je suis Dieu_ » [Psaume 46 :10](/fr/Bible/Psalms/46#v10)
 
-« _Jésus enseigna à ses disciples qu'après avoirfait leur prière au Père, ils devaient rester quelque temps dans un état de réceptivité silencieuse pour donner à l'esprit intérieur les meilleures chances de parler à l'âme attentive. C'est au moment où le mental humain est dans une attitude de sincère adoration que l'esprit du Père parle le mieux aux hommes_ ». [LU 146:2.17](/fr/The_Urantia_Book/146#p2_17)
+« _Jésus enseigna à ses disciples qu'après avoirfait leur prière au Père, ils devaient rester quelque temps dans un état de réceptivité silencieuse pour donner à l'esprit intérieur les meilleures chances de parler à l'âme attentive. C'est au moment où le mental humain est dans une attitude de sincère adoration que l'esprit du Père parle le mieux aux hommes_ ». <a id="a46_363"></a>[LU 146:2.17](/fr/The_Urantia_Book/146#p2_17)
 
 Le 1er jour fut consacré à la découverte de la Prière de Consentement et à l'explication de sa pratique par Gard Jameson.
 

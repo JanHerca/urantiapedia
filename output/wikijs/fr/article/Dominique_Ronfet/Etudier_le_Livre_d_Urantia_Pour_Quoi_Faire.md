@@ -24,7 +24,7 @@ dateCreated: 2024-10-31T13:15:44Z
         </a>
         </td>
         <td>
-        <a href="/fr/article/JeanMarie_Chaise/Les_Paraboles">
+        <a href="/fr/article/Jeanmarie_Chaise/Les_Paraboles">
           <span class="pr-2">Les Paraboles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -32,6 +32,7 @@ dateCreated: 2024-10-31T13:15:44Z
     </tbody>
   </table>
 </figure>
+
 
 
 Dominique Ronfet
@@ -144,7 +145,9 @@ Tu viens boire un verre?
 
 \- D'accord. Je terminerai juste par cet étrange passage qui nous rappelle que l'âme doít prendre le témoín, lorsque l'intellect est allé au bout de ses possibílítés.
 
-> « _Le mental connait la quantité, la réalité, les significations. Mais la qualité — les valeurs — est ressentie. Ce qui ressent est la création conjointe du mental qui connait et de l'esprit associé qui confère la réalité._ » [[LU 111:3.6](/fr/The_Urantia_Book/111#p3_6)]
+> « _Le mental connait la quantité, la réalité, les significations. Mais la qualité — les valeurs — est ressentie. Ce qui ressent est la création conjointe du mental qui connait et de l'esprit associé qui confère la réalité._ » <a id="a147_228"></a>[[LU 111:3.6](/fr/The_Urantia_Book/111#p3_6)]
+
+
 
 <figure class="table chapter-navigator">
   <table>
@@ -161,7 +164,7 @@ Tu viens boire un verre?
         </a>
         </td>
         <td>
-        <a href="/fr/article/JeanMarie_Chaise/Les_Paraboles">
+        <a href="/fr/article/Jeanmarie_Chaise/Les_Paraboles">
           <span class="pr-2">Les Paraboles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

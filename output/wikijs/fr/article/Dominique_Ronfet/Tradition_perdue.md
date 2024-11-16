@@ -48,7 +48,7 @@ le Livre d'Urantia nous le souligne, la voie n'est pas dans la peur du passé, n
 
 Mais plutôt d'être le plus juste et exact possible dans notre présent, empreint d'un sentiment de confiance absolu, malgré un état bien réel d'incertitude mental et temporel.
 
-> «L'incertitude dans la sécurité est l'essence de l'aventure du Paradis incertitude dans le temps et le mental, incertitude sur les évènements du déroulement de l'ascension au Paradis ; sécurité en esprit et dans l'éternité, sécurité dans la confiance sans réserve du fils créé en la compassion divine et l'amour infini du Père Universel ; incertitude en tant que citoyen inexpérimenté de l'univers ; sécurité en tant que fils ascendant dans les demeures universelles d'un Père infiniment puissant, sage et aimant.» [LU 111:7.1](/fr/The_Urantia_Book/111#p7_1)
+> «L'incertitude dans la sécurité est l'essence de l'aventure du Paradis incertitude dans le temps et le mental, incertitude sur les évènements du déroulement de l'ascension au Paradis ; sécurité en esprit et dans l'éternité, sécurité dans la confiance sans réserve du fils créé en la compassion divine et l'amour infini du Père Universel ; incertitude en tant que citoyen inexpérimenté de l'univers ; sécurité en tant que fils ascendant dans les demeures universelles d'un Père infiniment puissant, sage et aimant.» <a id="a50_517"></a>[LU 111:7.1](/fr/The_Urantia_Book/111#p7_1)
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_03/168.jpg">
@@ -102,7 +102,7 @@ Ceux qui ont étudié les méthodes de conditionnement et d'endoctrinement, et l
 
 Comm derviches
 
-> «La venue de l'Esprit de Vérité à la Pentecôte rendit possible une religion qui n'est ni radicale ni conservatrice ; elle n'est ni l'ancienne, ni la nouvelle ; elle ne doit être dominée ni par les vieux ni par les jeunes. Le fait de la vie terrestre de Jésus fournit un point d'appui pour l'ancre du temps, tandis que l'effusion de l'Esprit de Vérité assure l'expansion perpétuelle et la croissance indéfinie de la religion que Jésus a vécue et de l'évangile qu'il a proclamé. L'esprit guide dans toute la vérité.» [LU 194:3.8](/fr/The_Urantia_Book/194#p3_8)
+> «La venue de l'Esprit de Vérité à la Pentecôte rendit possible une religion qui n'est ni radicale ni conservatrice ; elle n'est ni l'ancienne, ni la nouvelle ; elle ne doit être dominée ni par les vieux ni par les jeunes. Le fait de la vie terrestre de Jésus fournit un point d'appui pour l'ancre du temps, tandis que l'effusion de l'Esprit de Vérité assure l'expansion perpétuelle et la croissance indéfinie de la religion que Jésus a vécue et de l'évangile qu'il a proclamé. L'esprit guide dans toute la vérité.» <a id="a104_517"></a>[LU 194:3.8](/fr/The_Urantia_Book/194#p3_8)
 
 ## Le Soufisme
 

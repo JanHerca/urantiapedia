@@ -53,7 +53,7 @@ Avec les Fruits de l'Esprit, c'est le respect de l'autre :
 - être effacé et ne jamais s’imposer, ni imposer.
 
 
-Les Fruits de l’Esprit ([LU 193:2.2](/fr/The_Urantia_Book/193#p2_2))
+Les Fruits de l’Esprit (<a id="a55_24"></a>[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2))
 
 | &nbsp; | &nbsp; | &nbsp;
 | --- | --- | ---

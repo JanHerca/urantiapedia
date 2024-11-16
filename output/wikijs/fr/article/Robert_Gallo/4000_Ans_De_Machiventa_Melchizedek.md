@@ -36,7 +36,7 @@ dateCreated: 2024-11-3T19:50:31Z
 
 Jésus est né à midi le 21 aout de l'an 7 avant l'ère chrétienne (l'an -7), et de ce fait le 21 aout 2021 nous fêterons son 2027 ième anniversaire sur Urantia.Par ailleurs, il est écrit au fascicule 93:2.1 :
 
-> « C'est 1973 ans avant la naissance de Jésus que Machiventa Melchizédek s'effusa sur les races humaines d'Urantia ». [LU 93:2.1](/fr/The_Urantia_Book/93#p2_1)
+> « C'est 1973 ans avant la naissance de Jésus que Machiventa Melchizédek s'effusa sur les races humaines d'Urantia ». <a id="a38_119"></a>[LU 93:2.1](/fr/The_Urantia_Book/93#p2_1)
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_03/054.jpg">

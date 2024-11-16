@@ -94,7 +94,7 @@ Rappelons ici que l'AFLLU est une association apolitique et non-confessionnelle 
 - Relater un évènement en rapport avec le _Livre d'Urantia_.
 - Être une poésie ou une œuvre artistique d'inspiration urantienne.
 
-Concernant les références tirées du _Livre d'Urantia_ elles doivent suivre la règle internationalement acceptée soit: Fascicule: Section. Paragraphe encadré par des parenthèses ouvrante et fermante ex: ([LU 110:3.5](/fr/The_Urantia_Book/110#p3_5)) avec deux points après le numéro du fascicule, un point après le numéro de la section. Les études, articles ou œuvres portant sur des ouvrages ou des thèmes sans rapport avec le _Livre d'Urantia_ ne seront pas acceptés. Toutefois dans le cadre d'étude comparative avec des idées ou des concepts du _Livre d'Urantia_ (Par exemple une étude comparée de la nature de Dieu décrite dans la Bible et dans le _Livre d'Urantia_) ils seront acceptés pour autant qu'ils restent strictement dans ce cadre.
+Concernant les références tirées du _Livre d'Urantia_ elles doivent suivre la règle internationalement acceptée soit: Fascicule: Section. Paragraphe encadré par des parenthèses ouvrante et fermante ex: (<a id="a96_203"></a>[LU 110:3.5](/fr/The_Urantia_Book/110#p3_5)) avec deux points après le numéro du fascicule, un point après le numéro de la section. Les études, articles ou œuvres portant sur des ouvrages ou des thèmes sans rapport avec le _Livre d'Urantia_ ne seront pas acceptés. Toutefois dans le cadre d'étude comparative avec des idées ou des concepts du _Livre d'Urantia_ (Par exemple une étude comparée de la nature de Dieu décrite dans la Bible et dans le _Livre d'Urantia_) ils seront acceptés pour autant qu'ils restent strictement dans ce cadre.
 
 ## Le style :
 

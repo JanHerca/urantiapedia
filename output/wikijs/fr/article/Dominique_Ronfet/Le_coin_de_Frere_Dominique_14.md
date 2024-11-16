@@ -49,7 +49,7 @@ Image intéressante. Mais peut on parler d'espace sans aborder le temps?
 - Tu vas me parler de la construction de ton âme, je te vois venir.
 - Je pensais au passage :
 
-> _La patience est pratiquée par les mortels dont les unités de temps sont courtes. La vraie maturité transcende la patience par une longanimité née d'une réelle compréhension._ [LU 118:1.6](/fr/The_Urantia_Book/118#p1_6)
+> _La patience est pratiquée par les mortels dont les unités de temps sont courtes. La vraie maturité transcende la patience par une longanimité née d'une réelle compréhension._ <a id="a51_178"></a>[LU 118:1.6](/fr/The_Urantia_Book/118#p1_6)
 
 - Voir loin et ne partir qu'avec les bagages nécessaires.
 - Bagages, meubles, si on nous écoutait on pourrait passer pour de joyeux déménageurs.

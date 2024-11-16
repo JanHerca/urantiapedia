@@ -156,9 +156,9 @@ Se profile les forces énergétiques telles que, mentales, spirituelles pour l'E
 
 En comparaison avec les questions posées plus haut les réponses données par le L. U. peuvent avoir un écho satisfaisant.
 
-> « Le mental mortel est un système intellectuel temporaire prêté aux humains. La conscience humaine repose doucement sur le mécanisme électrochimique sous-jacent ». [LU 111:1.5](/fr/The_Urantia_Book/111#p1_5)
+> « Le mental mortel est un système intellectuel temporaire prêté aux humains. La conscience humaine repose doucement sur le mécanisme électrochimique sous-jacent ». <a id="a158_166"></a>[LU 111:1.5](/fr/The_Urantia_Book/111#p1_5)
 
-> « Le mental matériel de l'homme mortel est le métier cosmique qui porte le tissu morontiel ». [LU 111:2.2](/fr/The_Urantia_Book/111#p2_2)
+> « Le mental matériel de l'homme mortel est le métier cosmique qui porte le tissu morontiel ». <a id="a160_96"></a>[LU 111:2.2](/fr/The_Urantia_Book/111#p2_2)
 
 Également ces précisions sur les significations suite à l'œuvre du mental :
 
@@ -190,7 +190,7 @@ Ce qui fait que le parallèle de mon propos avec l'onde globale ne peut s'admett
 
 Pour clore ces approximations le fascicule 36:6.7:
 
-> « Certaines choses se rapportant à l'élaboration de la vie sur les planètes évolutionnaires ne sont pas tout à fait claires pour nous » dixit un Fils Vorondadek. [LU 36:6.7](/fr/The_Urantia_Book/36#p6_7)
+> « Certaines choses se rapportant à l'élaboration de la vie sur les planètes évolutionnaires ne sont pas tout à fait claires pour nous » dixit un Fils Vorondadek. <a id="a192_164"></a>[LU 36:6.7](/fr/The_Urantia_Book/36#p6_7)
 
 En ce qui nous concerne, le but d'un chercheur de vérité n'est-il pas de chercher?
 

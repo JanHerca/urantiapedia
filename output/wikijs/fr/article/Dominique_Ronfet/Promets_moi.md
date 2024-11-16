@@ -97,13 +97,13 @@ Promets-moi<br>
 
 **La Verité**
 
-> « La vérité est belle parce qu'elle est à la fois complète et symétrique. Quand l'homme recherche La vérité, il poursuit ce qui est divinement réel. » [LU 2:7.4](/fr/The_Urantia_Book/2#p7_4)
+> « La vérité est belle parce qu'elle est à la fois complète et symétrique. Quand l'homme recherche La vérité, il poursuit ce qui est divinement réel. » <a id="a99_153"></a>[LU 2:7.4](/fr/The_Urantia_Book/2#p7_4)
 
-> « L'amour de la vérité — avec l'acceptation de la suivre où qu'elle vous conduise — est-il désirable ? Alors, il faut que l'homme croisse dans un monde où l'erreur est présente et la fausseté toujours possible. » [LU 3:5.10](/fr/The_Urantia_Book/3#p5_10)
+> « L'amour de la vérité — avec l'acceptation de la suivre où qu'elle vous conduise — est-il désirable ? Alors, il faut que l'homme croisse dans un monde où l'erreur est présente et la fausseté toujours possible. » <a id="a101_215"></a>[LU 3:5.10](/fr/The_Urantia_Book/3#p5_10)
 
 **La Bonté**
 
-> « Nous pouvons voir la beauté divine dans l'univers physique, nous pouvons discerner la vérité éternelle dans le monde intellectuel, mais la bonté de Dieu ne se découvre que dans le monde spirituel de l'expérience religieuse personnelle. » [LU 2:6.1](/fr/The_Urantia_Book/2#p6_1)
+> « Nous pouvons voir la beauté divine dans l'univers physique, nous pouvons discerner la vérité éternelle dans le monde intellectuel, mais la bonté de Dieu ne se découvre que dans le monde spirituel de l'expérience religieuse personnelle. » <a id="a105_242"></a>[LU 2:6.1](/fr/The_Urantia_Book/2#p6_1)
 
 **La Beauté**
 
@@ -111,7 +111,7 @@ Promets-moi<br>
 
 **Vérité, Beauté et Bonté Conjuguées**
 
-> « La vérité est cohérente, la beauté est attrayante, la bonté est stabilisante. Et, quand ces trois valeurs de la réalité sont coordonnées dans l'expérience d'une personnalité, il en résulte une haute qualité d'amour, conditionnée par la sagesse et qualifiée par la loyauté. » [LU 2:7.12](/fr/The_Urantia_Book/2#p7_12)
+> « La vérité est cohérente, la beauté est attrayante, la bonté est stabilisante. Et, quand ces trois valeurs de la réalité sont coordonnées dans l'expérience d'une personnalité, il en résulte une haute qualité d'amour, conditionnée par la sagesse et qualifiée par la loyauté. » <a id="a113_279"></a>[LU 2:7.12](/fr/The_Urantia_Book/2#p7_12)
 
 <figure class="table chapter-navigator">
   <table>

@@ -34,7 +34,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 </figure>
 
 
-> _Le plus ancien monde habité de Satania est le monde numéro un, Anova ... Anova est à un stade avancé de civilisation progressive._ ([LU 49:0.5](/fr/The_Urantia_Book/49#p0_5))
+> _Le plus ancien monde habité de Satania est le monde numéro un, Anova ... Anova est à un stade avancé de civilisation progressive._ (<a id="a36_135"></a>[LU 49:0.5](/fr/The_Urantia_Book/49#p0_5))
 
 Qu'est-ce que cela signifie ?
 
@@ -44,11 +44,11 @@ Pourquoi ?
 
 Il y a deux manières de compter l'âge d'Anova :
 
-1) Nous savons qu'Urantia a été reconnue comme planète habitée il y a environ un million d'années et qu'elle porte le numéro 606 de Satania. (cf. [LU 15:14.5](/fr/The_Urantia_Book/15#p14_5); [LU 49:0.3](/fr/The_Urantia_Book/49#p0_3); [LU 62:7.7](/fr/The_Urantia_Book/62#p7_7))
+1) Nous savons qu'Urantia a été reconnue comme planète habitée il y a environ un million d'années et qu'elle porte le numéro 606 de Satania. (cf. <a id="a46_146"></a>[LU 15:14.5](/fr/The_Urantia_Book/15#p14_5); <a id="a46_191"></a>[LU 49:0.3](/fr/The_Urantia_Book/49#p0_3); <a id="a46_234"></a>[LU 62:7.7](/fr/The_Urantia_Book/62#p7_7))
 
-Nous savons que le dernier recensement\* reconnaît 619 planètes habitées dans Satania. ([LU 15:14.5](/fr/The_Urantia_Book/15#p14_5)) ; par conséquent il y a une planète nouvelle tous les 71428 ans. 1M : 14 = 71 428.
+Nous savons que le dernier recensement\* reconnaît 619 planètes habitées dans Satania. (<a id="a48_88"></a>[LU 15:14.5](/fr/The_Urantia_Book/15#p14_5)) ; par conséquent il y a une planète nouvelle tous les 71428 ans. 1M : 14 = 71 428.
 
-2) Nébadon avait 3 840 101 planètes habitées lors du dernier recensement ([LU 32:2.9](/fr/The_Urantia_Book/32#p2_9)) et les plus anciennes planètes de Nébadon ont 200 milliards d'années. ([LU 57:3.10](/fr/The_Urantia_Book/57#p3_10)) ; par conséquent cela fait une nouvelle planète tous les 52081 ans. 200.000.000.000 : 3 840 101 = 52 081.
+2) Nébadon avait 3 840 101 planètes habitées lors du dernier recensement (<a id="a50_74"></a>[LU 32:2.9](/fr/The_Urantia_Book/32#p2_9)) et les plus anciennes planètes de Nébadon ont 200 milliards d'années. (<a id="a50_188"></a>[LU 57:3.10](/fr/The_Urantia_Book/57#p3_10)) ; par conséquent cela fait une nouvelle planète tous les 52081 ans. 200.000.000.000 : 3 840 101 = 52 081.
 
 \* Nous ne savons pas de quand date le dernier recensement mais il semble raisonnable de le situer dans les années 1930. Quelques années de différence ne changent rien au calcul.
 
@@ -62,19 +62,19 @@ Il y a donc au minimum 32 millions d'années qu'Anova est reconnue comme planèt
 
 Combien faut-il de temps à une planète normale pour atteindre le premier stade de lumière et de vie ? Le Fascicule 52 nous donne une idée.
 
-1. L'homme primitif : de 150000 à 1 million d'années ([LU 52:1.1](/fr/The_Urantia_Book/52#p1_1))
-2. L'homme postérieur au Prince Planétaire : en moyenne 500000 ans ([LU 52:2.2](/fr/The_Urantia_Book/52#p2_2))
-3. L'homme post adamique : d'ordinaire 25000 ans ([LU 52:3.3](/fr/The_Urantia_Book/52#p3_3))
-4. L'homme postérieur au Fils Magistral : de 25000 à 50000 ans ([LU 52:4.10](/fr/The_Urantia_Book/52#p4_10))
-5. L'homme postérieur au Fils d'effusion : de 10000 à 100000 ans ([LU 52:5.8](/fr/The_Urantia_Book/52#p5_8))
-6. L'homme postérieur au Fils Instructeur : pas moins de 1000 ans et souvent beaucoup plus. ([LU 52:7.4](/fr/The_Urantia_Book/52#p7_4)) « Mais tôt ou tard... le Souverain du Système apparaît pour proclamer l'entrée de ce monde dans l'ère de lumière et de vie. » ([LU 52:7.10](/fr/The_Urantia_Book/52#p7_10))
+1. L'homme primitif : de 150000 à 1 million d'années (<a id="a64_54"></a>[LU 52:1.1](/fr/The_Urantia_Book/52#p1_1))
+2. L'homme postérieur au Prince Planétaire : en moyenne 500000 ans (<a id="a65_68"></a>[LU 52:2.2](/fr/The_Urantia_Book/52#p2_2))
+3. L'homme post adamique : d'ordinaire 25000 ans (<a id="a66_50"></a>[LU 52:3.3](/fr/The_Urantia_Book/52#p3_3))
+4. L'homme postérieur au Fils Magistral : de 25000 à 50000 ans (<a id="a67_64"></a>[LU 52:4.10](/fr/The_Urantia_Book/52#p4_10))
+5. L'homme postérieur au Fils d'effusion : de 10000 à 100000 ans (<a id="a68_66"></a>[LU 52:5.8](/fr/The_Urantia_Book/52#p5_8))
+6. L'homme postérieur au Fils Instructeur : pas moins de 1000 ans et souvent beaucoup plus. (<a id="a69_93"></a>[LU 52:7.4](/fr/The_Urantia_Book/52#p7_4)) « Mais tôt ou tard... le Souverain du Système apparaît pour proclamer l'entrée de ce monde dans l'ère de lumière et de vie. » (<a id="a69_263"></a>[LU 52:7.10](/fr/The_Urantia_Book/52#p7_10))
 
 Il semble raisonnable d'estimer le « beaucoup plus » comme pouvant signifier entre 10000 et 25000 ans.
 
 En ajoutant tous ces chiffres cela nous amène à 1690000 ans. Arrondissons à
 2000000 d'années pour avoir de la marge.
 
-Ainsi, Anova aurait atteint le premier stade de lumière et de vie il y a au moins 30 millions d'années. Bien qu'aucun temps ne nous soit précisé pour chacune des étapes, (cf. [LU 55:4.4](/fr/The_Urantia_Book/55#p4_4)) n'est-il pas raisonnable de penser qu'elle doit maintenant avoir atteint le septième stade?
+Ainsi, Anova aurait atteint le premier stade de lumière et de vie il y a au moins 30 millions d'années. Bien qu'aucun temps ne nous soit précisé pour chacune des étapes, (cf. <a id="a76_175"></a>[LU 55:4.4](/fr/The_Urantia_Book/55#p4_4)) n'est-il pas raisonnable de penser qu'elle doit maintenant avoir atteint le septième stade?
 
 Jean Royer
 

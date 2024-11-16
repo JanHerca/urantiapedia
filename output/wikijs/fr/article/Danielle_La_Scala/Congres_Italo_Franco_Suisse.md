@@ -57,7 +57,7 @@ Inscription au Congrès (3 jours) | 30€
 
 L'hôtel est à 2 km de la gare de Desenzano, Le trajet en taxi est à environ 8€, l'aéroport de Verona Catullo est à environ 30 km , l'aéroport de Milano-Orio-al-Serio est à environ 80 km .
 
-Le thème de cette réunion sera « la survie du moi humain » [LU 10:4.2](/fr/The_Urantia_Book/10#p4_2)
+Le thème de cette réunion sera « la survie du moi humain » <a id="a59_59"></a>[LU 10:4.2](/fr/The_Urantia_Book/10#p4_2)
 
 Je vous prie de bien vouloir vous inscrire dès que possible pour effectuer la réservation ferme des chambres à mon adresse mail : danielle.lascala@yahoo.it ou à mon adresse postale : Danielle La Scala, 123 chemin de Bouger, F 74250 Fillinges
 

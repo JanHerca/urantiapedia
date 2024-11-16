@@ -41,7 +41,7 @@ La tradition chrétienne voit donc bien une Marie qui serait la sœur de Marie m
 
 Qu'en est-il du Livre d'Urantia?
 
-En [LU 187:3.2](/fr/The_Urantia_Book/187#p3_2) on peut lire :« _Parmi les personnes qui se tinrent près de la croix à un moment ou à un autre durant la crucifixion, il y eut Marie, Ruth, Jude, Jean, Salomé (la mère de Jean) et un groupe de croyantes sincères et convaincues comprenant Marie (femme de Clopas et sour de la mère de Jésus), Marie-Madeleine et Rébecca, ..._ »
+En <a id="a43_3"></a>[LU 187:3.2](/fr/The_Urantia_Book/187#p3_2) on peut lire :« _Parmi les personnes qui se tinrent près de la croix à un moment ou à un autre durant la crucifixion, il y eut Marie, Ruth, Jude, Jean, Salomé (la mère de Jean) et un groupe de croyantes sincères et convaincues comprenant Marie (femme de Clopas et sour de la mère de Jésus), Marie-Madeleine et Rébecca, ..._ »
 
 Peut-on justifier que deux sæurs portent le même prénom?
 
@@ -49,11 +49,11 @@ Apparemment, on pourrait supprimer cette incongruité en ajoutant une virgule ap
 
 Il faudrait en déduire que cette femme de Clopas s'appelle Salomé,(voir infra) mais demeurerait alors une inconnue, qui est cette Marie?
 
-Une deuxième solution consisterait à ajouter un article devant _sour de Jésus_, nous aurions alors : ...comprenant Marie femme de Clopas (1) et la (ou une) sæur de la mère de Jésus (2), cette sœur pouvant être Marthe ou Salomé. Mais alors, nous nous heurtons à [LU 188:1.7](/fr/The_Urantia_Book/188#p1_7) qui nous dit : « _Voici les noms des femmes qui s'attardèrent ainsi près du tombeau ce vendredi soir : MarieMadeleine, Marie la femme de Clopas, Marthe (une autre soeur de la mère de Jésus) et Rébecca..._ »
+Une deuxième solution consisterait à ajouter un article devant _sour de Jésus_, nous aurions alors : ...comprenant Marie femme de Clopas (1) et la (ou une) sæur de la mère de Jésus (2), cette sœur pouvant être Marthe ou Salomé. Mais alors, nous nous heurtons à <a id="a51_261"></a>[LU 188:1.7](/fr/The_Urantia_Book/188#p1_7) qui nous dit : « _Voici les noms des femmes qui s'attardèrent ainsi près du tombeau ce vendredi soir : MarieMadeleine, Marie la femme de Clopas, Marthe (une autre soeur de la mère de Jésus) et Rébecca..._ »
 
 Cette phrase semble bien, elle aussi, sous-entendre que Marie, femme de Clopas est l'une des sæurs de Marie, Marthe en étant une autre.
 
-Pourtant, nous savons que Marie mère de Jésus n'avait que deux sæurs dont l'une était Salomé cf. [LU 122:3.3](/fr/The_Urantia_Book/122#p3_3), si l'autre s'appelait Marthe, comment Marie, femme de Clopas, peut-elle être sœur de Marie mère de Jésus? Mystère. (à suivre)
+Pourtant, nous savons que Marie mère de Jésus n'avait que deux sæurs dont l'une était Salomé cf. <a id="a55_97"></a>[LU 122:3.3](/fr/The_Urantia_Book/122#p3_3), si l'autre s'appelait Marthe, comment Marie, femme de Clopas, peut-elle être sœur de Marie mère de Jésus? Mystère. (à suivre)
 
 Jean Royer
 

@@ -42,7 +42,7 @@ Il est important de faire progresser le potentiel en positif, en ne donnant au n
 
 Toute réflexion doit être motivée par un sens collectif des valeurs, il n'y a rien de facile dans la lutte pour la vie, ce sont les échecs chaque individu, et le progrès de qui nous font progresser, qui reflètent la ligne conductrice sur laquelle nous nous orientons.
 
-> L'expérience d'une vie religieuse dynamique transforme un individu médiocre en une personnalité douée d'un pouvoir idéaliste. La religion contribue au progrès de tous en encourageant le progrès de chacun est accru par l'accom- plissement de tous. ([LU 100:0.1](/fr/The_Urantia_Book/100#p0_1))
+> L'expérience d'une vie religieuse dynamique transforme un individu médiocre en une personnalité douée d'un pouvoir idéaliste. La religion contribue au progrès de tous en encourageant le progrès de chacun est accru par l'accom- plissement de tous. (<a id="a44_250"></a>[LU 100:0.1](/fr/The_Urantia_Book/100#p0_1))
 
 Les contacts entre humains sont parfois difficiles, il faut donc laisser à ceux qui sont les plus doués, le soin de conduire la nature humaine vers une harmonie supérieure.
 

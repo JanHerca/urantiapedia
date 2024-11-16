@@ -31,7 +31,7 @@ dateCreated: 2024-11-1T18:24:19Z
 </figure>
 
 
-> _La manière la plus rapide pour un têtard de devenir une grenouille, est de vivre loyalement chaque instant comme un têtard._ ([LU 100:1.4](/fr/The_Urantia_Book/100#p1_4))
+> _La manière la plus rapide pour un têtard de devenir une grenouille, est de vivre loyalement chaque instant comme un têtard._ (<a id="a33_129"></a>[LU 100:1.4](/fr/The_Urantia_Book/100#p1_4))
 
 le _Livre d'Urantia_ nous donne par cet exemple, la manière de vivre sa vie dans une expérience personnelle, qui doit grandir, proportionnellement à la recherche croissante des valeurs finales.
 
@@ -55,7 +55,7 @@ Elle est unique dans le temps, dans l'espace, dans l'Éternité.
 
 Il ne peut exister aucune copie de la personnalité. Elle est un super moi. Elle permet à l'homme de coordonner ses idées dans ses pensées dans un cadre universel.
 
-> _Dans la maturité du moi qui se développe, le passé et l'avenir sont réunis pour éclairer la vraie signification du présent. . . Les décisions commencent alors à échapper aux liens du présent en mouvement, tandis qu'elles revêtent progressivement les aspects de la signification du passé et du futur._ ([LU 118:1.5](/fr/The_Urantia_Book/118#p1_5))
+> _Dans la maturité du moi qui se développe, le passé et l'avenir sont réunis pour éclairer la vraie signification du présent. . . Les décisions commencent alors à échapper aux liens du présent en mouvement, tandis qu'elles revêtent progressivement les aspects de la signification du passé et du futur._ (<a id="a57_305"></a>[LU 118:1.5](/fr/The_Urantia_Book/118#p1_5))
 
 La pensée est entièrement soumise à la volonté, mais elle peut être mise en danger quand les règles, les valeurs, ne sont pas respectées.
 

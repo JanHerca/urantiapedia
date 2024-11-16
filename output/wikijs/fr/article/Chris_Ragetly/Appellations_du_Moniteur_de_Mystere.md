@@ -56,7 +56,7 @@ Personnellement, je préfère « Moniteur de Mystère », il donne à notre comp
 
 1)
 
-> _Sur les mondes évolutionnaires, les créatures volitives traversent trois stades d'existence dans leur développement général. Depuis l'arrivée de l'Ajusteur jusqu'à la pleine croissance relative d'environ vingt ans d'âge sur Urantia, les Moniteurs sont parfois appelés ***Changeurs de Pensée***. Depuis cette époque jusqu'à l'âge du discernement, environ quarante ans, les Moniteurs de Mystère s'appellent ***Ajusteurs de Pensée***. Depuis l'acquisition du discernement jusqu'à la délivrance de la chair, on les appelle souvent ***Contrôleurs de Pensée***. Ces trois phases de la vie humaine n'ont pas de rapport avec les trois stades de progrès des Ajusteurs dans la duplication du mental et l'évolution de l'âme._ [LU 107:0.7](/fr/The_Urantia_Book/107#p0_7)
+> _Sur les mondes évolutionnaires, les créatures volitives traversent trois stades d'existence dans leur développement général. Depuis l'arrivée de l'Ajusteur jusqu'à la pleine croissance relative d'environ vingt ans d'âge sur Urantia, les Moniteurs sont parfois appelés ***Changeurs de Pensée***. Depuis cette époque jusqu'à l'âge du discernement, environ quarante ans, les Moniteurs de Mystère s'appellent ***Ajusteurs de Pensée***. Depuis l'acquisition du discernement jusqu'à la délivrance de la chair, on les appelle souvent ***Contrôleurs de Pensée***. Ces trois phases de la vie humaine n'ont pas de rapport avec les trois stades de progrès des Ajusteurs dans la duplication du mental et l'évolution de l'âme._ <a id="a58_718"></a>[LU 107:0.7](/fr/The_Urantia_Book/107#p0_7)
 
 Que veut dire la phrase: « Les trois stades de progrès des Ajusteurs dans la duplication du mental et l'évolution de l'âme »?
 
@@ -69,9 +69,9 @@ Les trois stades de progrès des Moniteurs de Mystère sont :
 
 3) L'évolution de l'âme : c'est le travail conjoint de l'homme évolutionnaire et du Moniteur de Mystère, celui-ci spiritualise certaines pensées du mental humain ayant une valeur spirituelle et les transfert dans l'âme morontielle qui croît ainsi de plus en plus. Cette croissance spirituelle de l'âme se fait tout à fait indépendamment de sa conscience intellectuelle de soi. Cette croissance d'une âme immortelle dans le mental d'une créature mortelle est la première réalité morontielle due au libre choix de cette créature mortelle, et elle est un des secrets d'Ascendington, le mystère de la construction graduelle d'une contrepartie spirituelle et potentiellement immortelle du caractère et de l'identité.
 
-> _...***La croissance spirituelle de l'âme*** prend place tout à fait indépendamment de sa conscience intellectuelle de soi._ [LU 5:3.7](/fr/The_Urantia_Book/5#p3_7)
+> _...***La croissance spirituelle de l'âme*** prend place tout à fait indépendamment de sa conscience intellectuelle de soi._ <a id="a71_127"></a>[LU 5:3.7](/fr/The_Urantia_Book/5#p3_7)
 
-> _Les secrets d'Ascendington comprennent le mystère de la construction graduelle et certaine, dans le mental matériel et mortel, d'une contrepartie spirituelle et potentiellement immortelle du caractère et de l'identité. Ce phénomène est un des plus troublants mystères des univers, à savoir ***l'évolution d'une âme immortelle dans le mental d'une créature mortelle*** et matérielle._ [LU 13:1.22](/fr/The_Urantia_Book/13#p1_22)
+> _Les secrets d'Ascendington comprennent le mystère de la construction graduelle et certaine, dans le mental matériel et mortel, d'une contrepartie spirituelle et potentiellement immortelle du caractère et de l'identité. Ce phénomène est un des plus troublants mystères des univers, à savoir ***l'évolution d'une âme immortelle dans le mental d'une créature mortelle*** et matérielle._ <a id="a73_387"></a>[LU 13:1.22](/fr/The_Urantia_Book/13#p1_22)
 
 <figure class="table chapter-navigator">
   <table>

@@ -34,7 +34,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 </figure>
 
 
-> « Seul un poète peut discerner la poésie dans la prose banale de la vie courante. » [LU 48:7.22](/fr/The_Urantia_Book/48#p7_22).
+> « Seul un poète peut discerner la poésie dans la prose banale de la vie courante. » <a id="a36_86"></a>[LU 48:7.22](/fr/The_Urantia_Book/48#p7_22).
 
 Le 12 octobre 1955 : publication à Chicago du _Livre d'Urantia_. L'année 1955 est un millésime exceptionnel pour les lectures passées, présentes et à venir du _Livre d'Urantia_.
 
@@ -82,7 +82,7 @@ _Nota 1_: Pierre Delanoë a écrit nombre de succès de Gilbert Bécaud — sur 
 
 _Nota 2_: Les Noë... et les déluges: Noë, de l'hébreu nuah (se reposer), nom qui semble être plus ou moins une traduction ou une adaptation du nom du héros du déluge sumérien Ziusudra (vie de longs jours).
 
-Le [LU 78:7.2](/fr/The_Urantia_Book/78#p7_2) « _Les inondations de Mésopotamie_ » parle justement de ce déluge sumérien et de Noë viticulteur d'Aram. Dans les légendes hawaïennes le héros du déluge se nomme Nuu et il se nomme Nuwa dans les légendes chinoises.
+Le <a id="a84_3"></a>[LU 78:7.2](/fr/The_Urantia_Book/78#p7_2) « _Les inondations de Mésopotamie_ » parle justement de ce déluge sumérien et de Noë viticulteur d'Aram. Dans les légendes hawaïennes le héros du déluge se nomme Nuu et il se nomme Nuwa dans les légendes chinoises.
 
 Le poète Pierre Delanoë évoque dans cet article Bertrand Delanoë, actuel maire de Paris, ville dont la devise « _Fluctuat nec mergitur_ » est tout un programme, en cas de déluge.
 

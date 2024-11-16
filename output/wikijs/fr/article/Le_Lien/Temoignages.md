@@ -58,7 +58,7 @@ L'appel est lancé: préparer la rencontre européenne 2025!
 
 <br style="clear:both;"/>
 
-> Les myriades de systemes planétaires ont tous été faits pour étre finalement habités par de nombreux types différents de créatures intelligentes, deetres qui peuvent connaitre Décu, recevoir laffection divine et aimer Dieu en retour. [LU 1:0.2](/fr/The_Urantia_Book/1#p0_2)
+> Les myriades de systemes planétaires ont tous été faits pour étre finalement habités par de nombreux types différents de créatures intelligentes, deetres qui peuvent connaitre Décu, recevoir laffection divine et aimer Dieu en retour. <a id="a60_236"></a>[LU 1:0.2](/fr/The_Urantia_Book/1#p0_2)
 
 ## Comment Je Suis (Re) Devenue « Accro » À La Fraternité Urantienne À La Neylière.
 

@@ -52,7 +52,7 @@ _1. La volonté humaine fonctionne sur le niveau de la personnalité de la réal
 
 c'est à dire :
 
-_le non personnel, le subpersonnel et le prépersonnel — est toujours sensible à la volonté et aux actes de la <ins>personnalité</ins> existante._ [[LU 107:7.4](/fr/The_Urantia_Book/107#p7_4)]
+_le non personnel, le subpersonnel et le prépersonnel — est toujours sensible à la volonté et aux actes de la <ins>personnalité</ins> existante._ <a id="a54_146"></a>[[LU 107:7.4](/fr/The_Urantia_Book/107#p7_4)]
 
 Mais dire que l'impersonnel ne puisse pas jouir ou du moins dépendre d'une volonté particulièrement adaptée à sa nature et fonctionnant sur des échelons différents, serait commettre une erreur regrettable.
 
@@ -64,19 +64,19 @@ Pas besoin d'être savant pour comprendre pourquoi la Terre ainsi que toutes les
 
 Dans _Le Livre d'Urantia_, n' y a-t-il pas des êtres que l'on dit matériels, vivants et intelligents à la fois, mais qui pourtant sont incapables de choisir, donc d'exercer une volonté personnelle? Quelqu'un penserait-il et choisirait-il pour eux?
 
-Souvenons-nous des Maîtres Organisateurs Physiques, ces personnages difficiles à se représenter mentalement. _Les quatre derniers groupes sont à peine des personnes au sens d'une définition acceptable de ce mot_ ([LU 29:4.26](/fr/The_Urantia_Book/29#p4_26)). Le terme de « _personnes_ » s'est échappé de la bouche du Censeur Universel. Il a fallu qu'il réfléchisse en l'écrivant. Restons donc pour l'instant dans le doute.
+Souvenons-nous des Maîtres Organisateurs Physiques, ces personnages difficiles à se représenter mentalement. _Les quatre derniers groupes sont à peine des personnes au sens d'une définition acceptable de ce mot_ (<a id="a66_213"></a>[LU 29:4.26](/fr/The_Urantia_Book/29#p4_26)). Le terme de « _personnes_ » s'est échappé de la bouche du Censeur Universel. Il a fallu qu'il réfléchisse en l'écrivant. Restons donc pour l'instant dans le doute.
 
 Parmi ces quatre groupes, les Frandalanks sont les plus nombreux et on les rencontre dans l'univers central, les superunivers, mais aussi dans les espaces extérieurs où, paraît-il, aucune personnalité n'est présente puisque ces espaces sont inhabités et restent encore un domaine que l'Absolu Non Qualifié ne partage pas avec les deux autres Ab solus de Potentialité. Leur existence au-delà des frontières des sept superunivers est donc la preuve que ces êtres ne possèdent pas en eux-mêmes, une personnalité et pour cette raison ne sont pas des personnes! Les Frandalanks vivent pourtant et agissent intelligemment en restant attachés aux ordres et donc à la volonté des contrôleurs physiques! Ils peuvent recevoir des messages, mais ne peuvent pas y répondre.
 
 Heureusement pour lui, le Censeur Universel se rattrape un peu plus loin, sinon nous aurions été en droit d'en référer aux Anciens des Jours! Devant la menace du Tribunal Impérial, il reconnaît sa faute :
 
-> _Je reconnais que les frandalanks sont intelligents, mais je ne saurais les classifier autrement que comme des machines vivantes. La seule manière dont je puisse vous aider à comprendre ces mécanismes vivants est de les com- parer à vos dispositifs mécaniques qui opèrent avec une précision et une exactitude presque semblables à l'intelligence._ [LU 29:4.38](/fr/The_Urantia_Book/29#p4_38)
+> _Je reconnais que les frandalanks sont intelligents, mais je ne saurais les classifier autrement que comme des machines vivantes. La seule manière dont je puisse vous aider à comprendre ces mécanismes vivants est de les com- parer à vos dispositifs mécaniques qui opèrent avec une précision et une exactitude presque semblables à l'intelligence._ <a id="a72_349"></a>[LU 29:4.38](/fr/The_Urantia_Book/29#p4_38)
 
 Quelle serait aujourd'hui l'explication de l'auteur du fascicule 29, si l'on fait allusion à nos robots modernes et aux ordinateurs ?
 
 Dans ce chapitre, une autre phrase mérite d'être citée, car elle concerne tout ce qui est non-personnel, mais attention, elle ne concerne pas les deux chapitres suivants dans lesquels l'impersonnel est aussi traité !
 
-> _Dans tout l'univers des êtres créés et des énergies <ins>non personnelles</ins>, nous ne constatons aucune manifestation de volonté, de volition, de choix et d'amour en dehors des personnalités._ [LU 107:7.5](/fr/The_Urantia_Book/107#p7_5)
+> _Dans tout l'univers des êtres créés et des énergies <ins>non personnelles</ins>, nous ne constatons aucune manifestation de volonté, de volition, de choix et d'amour en dehors des personnalités._ <a id="a78_199"></a>[LU 107:7.5](/fr/The_Urantia_Book/107#p7_5)
 
 ## II. LE SUBPERSONNEL
 
@@ -98,11 +98,11 @@ Chaque homme ou chaque femme deviendra Un avec lui. Il profitera pendant l'éter
 
 Puisque c'est lui qui nous à choisi, il n'est plus à démontrer que l'Ajusteur possède une volition. Serait-il donc capable de s'opposer à notre volonté? Dire que le libre-arbitre d'une personnalité est souverain et qu'il doit être respecté, est juste mais incomplet. On peut faire confiance à l'opinion du Messager Solitaire de la page 1183, 6 :
 
-> _Si les Ajusteurs de Pensée possèdent une volition, pourquoi sont-ils soumis au vouloir des mortels? Cela tient, croyons-nous, à ce que la volition des Ajusteurs, bien qu'absolue en nature, est prépersonnelle en manifestation._ [[LU 107:7.4](/fr/The_Urantia_Book/107#p7_4)]
+> _Si les Ajusteurs de Pensée possèdent une volition, pourquoi sont-ils soumis au vouloir des mortels? Cela tient, croyons-nous, à ce que la volition des Ajusteurs, bien qu'absolue en nature, est prépersonnelle en manifestation._ <a id="a100_230"></a>[[LU 107:7.4](/fr/The_Urantia_Book/107#p7_4)]
 
 Ce serait donc parce qu'il sont prépersonnels, qu'ils ne peuvent pas s'opposer à une personnalité. Mais le résultat est le même, car les personnalités célestes n'ont pas l'habitude et ne veulent pas s'opposer au libre-arbitre humain.
 
-> _Il ne serait ni correct de qualifier un Ajusteur de subpersonnel, ni juste de mentionner cette entité comme superpersonnelle, mais il est parfaitement admissible d'employer le mot prépersonnel pour le désigner._ [LU 107:7.5](/fr/The_Urantia_Book/107#p7_5)
+> _Il ne serait ni correct de qualifier un Ajusteur de subpersonnel, ni juste de mentionner cette entité comme superpersonnelle, mais il est parfaitement admissible d'employer le mot prépersonnel pour le désigner._ <a id="a104_215"></a>[LU 107:7.5](/fr/The_Urantia_Book/107#p7_5)
 
 D'ailleurs, il n'existe aucune superpersonnalité dans le circuit de personnalité du Père Universel. Pourtant on rencontre ce terme pour désigner les Fils du Paradis qui représentent le Fils Éternel dans les univers locaux.
 
@@ -126,7 +126,7 @@ Je réponds donc par l'affirmative à la question du Smilblick, que Pierre Dac m
 > 4. Coopération intentionnelle, la loyauté de groupe.
 > 5. Perspicacité cosmique, la compréhension des significations universelles.
 > 6. Consécration de la personnalité, la dévotion à faire de tout cœur la volonté du Père.
-> 7. L'adoration, quand on poursuit sincèrement les valeurs divines et que l'on aime de tout son cœur le divin Donateur des Valeurs. [[LU 16:8.7-14](/fr/The_Urantia_Book/16#p8_7)]
+> 7. L'adoration, quand on poursuit sincèrement les valeurs divines et que l'on aime de tout son cœur le divin Donateur des Valeurs. <a id="a128_133"></a>[[LU 16:8.7-14](/fr/The_Urantia_Book/16#p8_7)]
 
 L'esprit d'intuition, puis l'esprit de sagesse vont permettre au mental, de faire son premier choix moral qui déclenchera la venue de l'Ajusteur. Puis, je ne vous apprends rien, les désirs de tendance animale vont entrer en conflit avec les idéaux de tendance divine. Nous sommes devenus des êtres moraux, c'est à dire que nous avons la capacité de faire la différence entre le bien et le mal. Faire le bien nécessite de la force, du courage. C'est peut-être en ce sens que s'exerce l'ajustement et le changement de notre mental par l'esprit.
 

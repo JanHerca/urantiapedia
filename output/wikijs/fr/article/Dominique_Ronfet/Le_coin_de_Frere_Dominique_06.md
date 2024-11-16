@@ -43,7 +43,7 @@ Etre plein serait être complet, fixe, sans aspiration, satisfait, tout simpleme
 Heureusement qu'il y a notre vide.
 Heureusement.
 
-> _On peut donc considérer le caractère incomplet du Suprême comme une vertu, puisqu'il rend possible la croissance évolutionnaire de la création et des créatures des univers du présent âge. Le vide a sa vertu, car il peut être rempli par l'expérience._ [LU 117:2.8](/fr/The_Urantia_Book/117#p2_8)
+> _On peut donc considérer le caractère incomplet du Suprême comme une vertu, puisqu'il rend possible la croissance évolutionnaire de la création et des créatures des univers du présent âge. Le vide a sa vertu, car il peut être rempli par l'expérience._ <a id="a45_254"></a>[LU 117:2.8](/fr/The_Urantia_Book/117#p2_8)
 
 Dominique Ronfet
 

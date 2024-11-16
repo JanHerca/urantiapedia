@@ -38,7 +38,7 @@ Une nouvelle rubrique pour vous inviter à faire partager à chacun une musique,
 
 Je suis tenté de parler ici d'expérience « mentale », dans le sens de la définition de celui-ci dans l'Introduction :
 
-> Le mental. Le mécanisme pensant, percevant et ressentant de l'organisme humain. Le total de l'expérience consciente et inconsciente. L'intelligence associée à la vie émotionnelle s'élevant au niveau de l'esprit par l'adoration et la sagesse. [LU 0:5.8](/fr/The_Urantia_Book/0#p5_8)
+> Le mental. Le mécanisme pensant, percevant et ressentant de l'organisme humain. Le total de l'expérience consciente et inconsciente. L'intelligence associée à la vie émotionnelle s'élevant au niveau de l'esprit par l'adoration et la sagesse. <a id="a40_244"></a>[LU 0:5.8](/fr/The_Urantia_Book/0#p5_8)
 
 Mais quel rapport avec les Fascicules d'Urantia?
 
@@ -68,11 +68,11 @@ Les titres de certains mouvements vous donneront peut-être aussi envie de parco
 
 Elle représente pour moi une merveilleuse tentative pour reproduire 'une musique céleste', même si :
 
-> _La meilleure musique d'Urantia n'est qu'un écho fugitif des magnifiques accords entendus par les associés célestes de vos musiciens qui n'ont conservé que quelques mesures de ces harmonies de forces morontielles enregistrées sous la forme de mélodies musicales d'harmoniques sonores._ [LU 44:1.14](/fr/The_Urantia_Book/44#p1_14)
+> _La meilleure musique d'Urantia n'est qu'un écho fugitif des magnifiques accords entendus par les associés célestes de vos musiciens qui n'ont conservé que quelques mesures de ces harmonies de forces morontielles enregistrées sous la forme de mélodies musicales d'harmoniques sonores._ <a id="a70_288"></a>[LU 44:1.14](/fr/The_Urantia_Book/44#p1_14)
 
 Cet effort de l'art pour exprimer l'indicible n'est-elle pas la plus haute forme d'expression possible ?
 
-> _La musique restera toujours le langage universel des hommes, des anges et des esprits. L'harmonie est la langue de Havona._ [LU 44:1.15](/fr/The_Urantia_Book/44#p1_15)
+> _La musique restera toujours le langage universel des hommes, des anges et des esprits. L'harmonie est la langue de Havona._ <a id="a74_127"></a>[LU 44:1.15](/fr/The_Urantia_Book/44#p1_15)
 
 Mais maintenant, c'est à vous.
 

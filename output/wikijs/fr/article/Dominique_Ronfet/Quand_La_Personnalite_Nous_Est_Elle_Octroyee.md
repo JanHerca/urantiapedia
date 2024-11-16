@@ -118,9 +118,9 @@ Nous ne sommes pas toujours de brillants danseurs.
 
 — Ok, va pour Léonington.
 
-\* [LU 196:3.2](/fr/The_Urantia_Book/196#p3_2)
+\* <a id="a120_3"></a>[LU 196:3.2](/fr/The_Urantia_Book/196#p3_2)
 
-\*\* [LU 111:2.4](/fr/The_Urantia_Book/111#p2_4)
+\*\* <a id="a122_5"></a>[LU 111:2.4](/fr/The_Urantia_Book/111#p2_4)
 
 Dominique
 

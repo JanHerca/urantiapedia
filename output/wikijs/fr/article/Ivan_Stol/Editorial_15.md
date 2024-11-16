@@ -24,7 +24,7 @@ dateCreated: 2024-11-1T18:24:19Z
         </a>
         </td>
         <td>
-        <a href="/fr/article/Jean_Marie_Chaise/La_Symbolique_des_nombres">
+        <a href="/fr/article/Jeanmarie_Chaise/La_Symbolique_des_nombres">
           <span class="pr-2">La Symbolique des nombres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -32,6 +32,7 @@ dateCreated: 2024-11-1T18:24:19Z
     </tbody>
   </table>
 </figure>
+
 
 
 Chers amies et amis lectrices et lecteurs, Le monde URANTIEN continue doucement à évoluer, mais semble-t-il plus rapidement dans certains pays. Il est vrai que les Pays ne disposant ni de structure sociale ni d'avancé technologique sont plus disposés à entendre le grand message d'espoir qu'apporte Le Livre d'Urantia, mais ce ne semble pas être une généralité. Il y a plus de mouvement en Afrique et au nord de l'Amérique du Sud qu'en Inde ou en Chine ou se regroupe la majorité de la population mondiale.
@@ -46,6 +47,8 @@ En attendant, bonne lecture.
 
 Amitiés fraternelles
 Ivan
+
+
 
 <figure class="table chapter-navigator">
   <table>
@@ -62,7 +65,7 @@ Ivan
         </a>
         </td>
         <td>
-        <a href="/fr/article/Jean_Marie_Chaise/La_Symbolique_des_nombres">
+        <a href="/fr/article/Jeanmarie_Chaise/La_Symbolique_des_nombres">
           <span class="pr-2">La Symbolique des nombres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

@@ -38,7 +38,7 @@ Plourquoi employer... _la technique consistant à aborder l'homme et ses problè
 
 Beaucoup de lecteurs ou de futurs lecteurs du _Livre d'Urantia_ préfèrent commencer leur lecture par la vie de Jésus ou par une autre partie du livre, sans commencer par le commencement. _Le Livre d'Urantia_ nous donne quelques très bonnes raisons pour commencer par le début. En voici quelques unes:
 
-> _...le mental humain chercherait d'ordinaire à aborder la philosophie cosmique décrite dans les présentes révélations en procédant du simple et du fini au complexe et à l'infini, des origines humaines aux destinées divines. Mais ce chemin ne conduit pas à la sagesse spirituelle. C'est la voie la plus facile vers une certaine forme de connaissance génétique susceptible au mieux de dévoiler simplement l'origine des hommes ; elle ne révèle que peu ou rien sur leur destinée divine_ ([LU 19:1.5](/fr/The_Urantia_Book/19#p1_5)).
+> _...le mental humain chercherait d'ordinaire à aborder la philosophie cosmique décrite dans les présentes révélations en procédant du simple et du fini au complexe et à l'infini, des origines humaines aux destinées divines. Mais ce chemin ne conduit pas à la sagesse spirituelle. C'est la voie la plus facile vers une certaine forme de connaissance génétique susceptible au mieux de dévoiler simplement l'origine des hommes ; elle ne révèle que peu ou rien sur leur destinée divine_ (<a id="a40_486"></a>[LU 19:1.5](/fr/The_Urantia_Book/19#p1_5)).
 
 En suivant les conseils de l'auteur (un Conseiller Divin), notre mental humain se met inconsciemment au diapason du mental cosmique, ou du moins, il essaye de le faire, ce qui déjà n'est pas si mal, c'est le premier pas vers la sagesse spirituelle.
 

@@ -54,11 +54,11 @@ On peut citer tout particulièrement [Luc 17, 21](/fr/Bible/Luke/17#v21) : « Le
 
 Ce qui m'a frappé à la lecture du _Livre d'Urantia_ c'est qu'à ma connaissance, Jésus n'a pas employé le terme «église »; par contre, le royaume revient dans presque chacun de ses discours.
 
-Pour moi, l'un de ceux qui décrit le mieux ce qu'est le royaume est celui lors de son discours à la synagogue de Capharnaüm tout au début de son ministère ([LU 137:8.13](/fr/The_Urantia_Book/137#p8_13)).
+Pour moi, l'un de ceux qui décrit le mieux ce qu'est le royaume est celui lors de son discours à la synagogue de Capharnaüm tout au début de son ministère (<a id="a56_156"></a>[LU 137:8.13](/fr/The_Urantia_Book/137#p8_13)).
 
 Il est indiscutable que le royaume n'a qu'une signification et elle est spirituelle :
 
-> « Ce royaume est déjà maintenant parmi vous, car là où l'esprit de Dieu enseigne, là où il guide l'âme de l'homme, là est en réalité le royaume des cieux » ([LU 137:8.9](/fr/The_Urantia_Book/137#p8_9))
+> « Ce royaume est déjà maintenant parmi vous, car là où l'esprit de Dieu enseigne, là où il guide l'âme de l'homme, là est en réalité le royaume des cieux » (<a id="a60_159"></a>[LU 137:8.9](/fr/The_Urantia_Book/137#p8_9))
 
 II ne semble pas du tout que Jésus ait voulu créer une Eglise, au même titre que les religions constituées déjà existantes.
 
@@ -70,7 +70,7 @@ Le séjour à Rome est tout à fait significatif :
 
 Il ne s'attaqua pas une seule fois à leurs erreurs et ne mentionna même jamais les défauts de leurs enseignements.
 
-Dans chaque cas, il choisissait la part de vérité dans leurs leçons, et ensuite il entreprenait d'embellir et d'éclairer cette vérité dans leur mental de telle sorte qu'en très peu de temps, ce rehaussement de la vérité chassait efficacement l'erreur antérieure. » ([LU 132:0.4](/fr/The_Urantia_Book/132#p0_4))
+Dans chaque cas, il choisissait la part de vérité dans leurs leçons, et ensuite il entreprenait d'embellir et d'éclairer cette vérité dans leur mental de telle sorte qu'en très peu de temps, ce rehaussement de la vérité chassait efficacement l'erreur antérieure. » (<a id="a72_266"></a>[LU 132:0.4](/fr/The_Urantia_Book/132#p0_4))
 
 II me semble que ce qui était valable il y a deux mille ans l'est tout autant aujourd'hui.
 
@@ -80,7 +80,7 @@ Jésus irait-il tout bousculer en mettant sur pied une nouvelle religion, une Eg
 
 L'aspect le plus important que l'on peut retirer des enseignements de Jésus est que la religion doit dépasser le côté dogmatique pour s'insérer profondément dans la réalité quotidienne de la vie :
 
-> « On peut prêcher une religion à propos de Jésus, mais obligatoirement on doit vivre la religion de Jésus » ([LU 196:2.1](/fr/The_Urantia_Book/196#p2_1))
+> « On peut prêcher une religion à propos de Jésus, mais obligatoirement on doit vivre la religion de Jésus » (<a id="a82_111"></a>[LU 196:2.1](/fr/The_Urantia_Book/196#p2_1))
 
 J'ai aussi beaucoup aimé certains passages d'ouvrages de grande portée spirituelle montrant que la religion doit avant tout se vivre :
 
@@ -123,7 +123,7 @@ que s'il cherche à s'imposer par l'apparition d'un nouveau mouvement spirituel 
 
 Yves Guillot-Goguet
 
-> _La conscience intellectuelle de soi permet de découvrir la beauté de la vérité et sa qualité spirituelle, non seulement par la cohérence philosophique de ses concepts, mais plus certainement et plus sûrement par la réponse infaillible de l'Esprit de Vérité toujours présent. Le bonheur résulte de la récognition de la vérité, parce qu'elle peut être mise en pratique ; elle peut être vécue. La déception et la tristesse accompagnent l'erreur parce qu'elle n'est pas une réalité et ne peut donc être réalisée en expérience. C'est par sa saveur spirituelle que l'on reconnaît le mieux la vérité divine._ ([LU 2:7.6](/fr/The_Urantia_Book/2#p7_6))
+> _La conscience intellectuelle de soi permet de découvrir la beauté de la vérité et sa qualité spirituelle, non seulement par la cohérence philosophique de ses concepts, mais plus certainement et plus sûrement par la réponse infaillible de l'Esprit de Vérité toujours présent. Le bonheur résulte de la récognition de la vérité, parce qu'elle peut être mise en pratique ; elle peut être vécue. La déception et la tristesse accompagnent l'erreur parce qu'elle n'est pas une réalité et ne peut donc être réalisée en expérience. C'est par sa saveur spirituelle que l'on reconnaît le mieux la vérité divine._ (<a id="a125_606"></a>[LU 2:7.6](/fr/The_Urantia_Book/2#p7_6))
 
 <figure class="table chapter-navigator">
   <table>

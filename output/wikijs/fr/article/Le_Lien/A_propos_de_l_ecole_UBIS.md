@@ -59,7 +59,7 @@ Le but de l'UBIS est de répandre les vérités et les enseignements du _Livre d
 
 Son modèle pédagogique est fondé sur la méthode d'enseigner de Jésus par questions et réponses permettant à chacun de pouvoir faire une expérience de première main avec les textes du _Livre d'Urantia_. L'école en ligne fournit les outils pédagogiques et informatiques permettant à l'étudiant de suivre un cours structuré et progressif.
 
-> « Nous savons qu'un fragment de Dieu habite dans le mental humain et que l'Esprit de Vérité séjourne avec l'âme humaine. De plus, nous savons que ces forces spirituelles conspirent pour rendre l'homme matériel apte à saisir la réalité des valeurs spirituelles et à comprendre la philosophie des significations de l'univers. Mais, avec plus de certitude encore, nous savons que ces esprits de la Présence Divine peuvent aider l'homme à s'approprier spirituellement toute la vérité contribuant à rehausser la réalité toujours progressante de l'expérience religieuse personnelle — la conscience de Dieu. » [[LU 0:12.12](/fr/The_Urantia_Book/0#p12_12)]
+> « Nous savons qu'un fragment de Dieu habite dans le mental humain et que l'Esprit de Vérité séjourne avec l'âme humaine. De plus, nous savons que ces forces spirituelles conspirent pour rendre l'homme matériel apte à saisir la réalité des valeurs spirituelles et à comprendre la philosophie des significations de l'univers. Mais, avec plus de certitude encore, nous savons que ces esprits de la Présence Divine peuvent aider l'homme à s'approprier spirituellement toute la vérité contribuant à rehausser la réalité toujours progressante de l'expérience religieuse personnelle — la conscience de Dieu. » <a id="a61_605"></a>[[LU 0:12.12](/fr/The_Urantia_Book/0#p12_12)]
 
 ## Fonctionnement de l'école UBIS
 

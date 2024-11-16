@@ -36,11 +36,11 @@ dateCreated: 2024-10-19T15:5:2Z
 
 Dans le _Livre d'Urantia,_ le terme « Déité » est attribué à des personnalités divines diverses, qu’elles soient seules, associées existentielles ou associées expérientielles, mais ce terme peut aussi se référer à des personnalités non divines. Dans l'introduction, un Conseiller Divin nous indique plusieurs niveaux sur lesquels fonctionne la Déité totale.
 
-> _Le mot Déité peut se référer ou non à des personnalités de divinité._ ([LU 0:2.10](/fr/The_Urantia_Book/0#p2_10))
+> _Le mot Déité peut se référer ou non à des personnalités de divinité._ (<a id="a38_74"></a>[LU 0:2.10](/fr/The_Urantia_Book/0#p2_10))
 
 > _LA DÉITÉ est personnalisable en tant que Dieu, elle est prépersonnelle et superpersonnelle selon des voies non entièrement compréhensibles à l'homme. La Déité est caractérisée par la qualité d'unité-actuelle ou potentielle-sur tous les niveaux supramatériels de réalité. Les créatures comprennent le mieux cette qualité unifiante en tant que divinité._
 > 
-> _La Déité fonctionne sur les niveaux personnel, prépersonnel et superpersonnel. La Déité totale est fonctionnelle sur les sept niveaux suivants :_ [LU 0:1.2-3](/fr/The_Urantia_Book/0#p1_2)
+> _La Déité fonctionne sur les niveaux personnel, prépersonnel et superpersonnel. La Déité totale est fonctionnelle sur les sept niveaux suivants :_ <a id="a42_149"></a>[LU 0:1.2-3](/fr/The_Urantia_Book/0#p1_2)
 
 Le niveau personnel nous est compréhensible, Dieu est une personne. Le niveau prépersonnel est celui des Moniteurs de Mystère. Le niveau superpersonnel est sans doute lié à certaines réalités autres que personnelles et prépersonnelles que notre mental fini a beaucoup de mal à saisir.
 
@@ -52,9 +52,9 @@ Remarquons que l'on nous parle de Déité fonctionnelle totale.
 > 4. _Créatif—Déité distributive d'elle-même et divinement révélée._ Dieu le Père Universel crée ses différents Fils, dont les Fils Créateurs, il fait don de la personnalité à une multitude de créatures, et est capable de se fragmenter en faisant don de ses Moniteurs de Mystère aux créatures mortelles. Il délègue une grande partie de ses fonctions à d'autres déités telles que le Fils Éternel, l'Esprit Infini, les Fils Créateurs etc. Il se révèle par le ministère de son Fils Éternel de celui de l'Esprit Infini et de ses nombreux autres Fils divins.
 > 5. _Évolutionnaire-Déité expansive par elle-même et identifiée à la créature._ Tel que Dieu le Suprême.
 > 6. _Suprême—Déité expérientielle d'elle-même et unifiant la créature avec le Créateur. Déité fonctionnant sur le premier niveau d'identification avec la créature en tant que supercontrôleur de l'espace-temps du grand univers et parfois dénommée la Suprématie de la Déité._ Tel que l'Être Suprême.
-> 7. _Ultime—Déité se projetant d'elle-même et transcendant l'espace-temps. Déité omnipotente, omnisciente et omniprésente. Déité fonctionnant sur le deuxième niveau d'expression de divinité unifiante en tant que supercontrôleur efficace et soutien absonite du maître univers. Comparée au ministère des Déités auprès du grand univers, cette fonction absonite dans le maître univers équivaut au supercontrôle et au supersoutien universels parfois dénommée l'Ultimité de la Déité._ Dieu l'Ultime en est le seul exemple. [LU 0:1.4-10](/fr/The_Urantia_Book/0#p1_2)
+> 7. _Ultime—Déité se projetant d'elle-même et transcendant l'espace-temps. Déité omnipotente, omnisciente et omniprésente. Déité fonctionnant sur le deuxième niveau d'expression de divinité unifiante en tant que supercontrôleur efficace et soutien absonite du maître univers. Comparée au ministère des Déités auprès du grand univers, cette fonction absonite dans le maître univers équivaut au supercontrôle et au supersoutien universels parfois dénommée l'Ultimité de la Déité._ Dieu l'Ultime en est le seul exemple. <a id="a54_518"></a>[LU 0:1.4-10](/fr/The_Urantia_Book/0#p1_2)
 
-Il existe un niveau de personnalisation de la Déité qui s'appelle Dieu le Septuple, cette Déité associative fonctionne sur les niveaux de l'espace-temps. _Cette Déité septuple qui, pour les créatures de l'espace-temps fini, personnalisant en son temps le pouvoir dans l'Être Suprême, est la Déité fonctionnelle des créatures mortelles évolutionnaires de la carrière d'ascension du Paradis._ ([LU 0:8.9](/fr/The_Urantia_Book/0#p8_9)).
+Il existe un niveau de personnalisation de la Déité qui s'appelle Dieu le Septuple, cette Déité associative fonctionne sur les niveaux de l'espace-temps. _Cette Déité septuple qui, pour les créatures de l'espace-temps fini, personnalisant en son temps le pouvoir dans l'Être Suprême, est la Déité fonctionnelle des créatures mortelles évolutionnaires de la carrière d'ascension du Paradis._ (<a id="a56_392"></a>[LU 0:8.9](/fr/The_Urantia_Book/0#p8_9)).
 
 _Pour compenser le caractère fini du statut des créatures et pour pallier leurs limitations de concept, le Père Universel a établi pour les créatures évolutionnaires une septuple approche de la Déité._ Voici la composition de cette Déité :
 

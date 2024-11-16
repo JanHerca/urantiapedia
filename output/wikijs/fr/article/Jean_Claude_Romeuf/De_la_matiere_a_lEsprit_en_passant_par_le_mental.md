@@ -101,7 +101,7 @@ Mais l'homme est à la fois un être personnel et collectif. L'influence de l'Es
 
 **<ins>4. Parler d'Amour</ins>**
 
-Pendant la période embryonnaire qui dure de quelques jours à quelques mois, tout individu, qu'il soit animal ou humain parcours le cycle d'évolution de millions d'années qui a donné les caractéristiques de son espèce. Les feuillets embryonnaires se développent et se spécialisent de plus en plus par multiplications cellulaires. Le livre d'Urantia nous dit à [LU 55:6.4](/fr/The_Urantia_Book/55#p6_4) que pendant la vie intra utérine, les esprits mentaux adjuvats sont opérants.
+Pendant la période embryonnaire qui dure de quelques jours à quelques mois, tout individu, qu'il soit animal ou humain parcours le cycle d'évolution de millions d'années qui a donné les caractéristiques de son espèce. Les feuillets embryonnaires se développent et se spécialisent de plus en plus par multiplications cellulaires. Le livre d'Urantia nous dit à <a id="a103_359"></a>[LU 55:6.4](/fr/The_Urantia_Book/55#p6_4) que pendant la vie intra utérine, les esprits mentaux adjuvats sont opérants.
 
 Le bébé humain arrivant au monde avec le cerveau le plus développé du règne animal , on peut penser que déjà, les cinq premiers adjuvats ont commencé à façonner son mental afin qu'il devienne sensible, pendant son enfance, aux esprits d'adoration et de sagesse caractérisant le mental matériel de l'être humain. Cela fait du jeune homme un être volitif, capable de choix moraux et apte à apprendre à découvrir le Dieu qui l'habite maintenant.
 

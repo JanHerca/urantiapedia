@@ -39,7 +39,7 @@ Pour ne pas perdre le fil de la démonstration, il faudra toujours avoir à l'es
 
 **<ins>Paragraphe dans lequel c'est l'œuf qui fait la poule</ins>**
 
-Les pages 6 et 7 du _Livre d'Urantia_ suggèrent que la Réalité s'actualise à partir des trois Absolus. Ces derniers sont par définition issus de la pensée conjuguée des Déités trinitaires ([LU 0:11.1](/fr/The_Urantia_Book/0#p11_1)) et sont le potentiel de la Réalité. Ils sont en quelque sorte la Pré-réalité absolue.
+Les pages 6 et 7 du _Livre d'Urantia_ suggèrent que la Réalité s'actualise à partir des trois Absolus. Ces derniers sont par définition issus de la pensée conjuguée des Déités trinitaires (<a id="a41_189"></a>[LU 0:11.1](/fr/The_Urantia_Book/0#p11_1)) et sont le potentiel de la Réalité. Ils sont en quelque sorte la Pré-réalité absolue.
 
 1º L'Absolu Non Qualifié va amener à l'existence la _réalité non déifiée_ que l'on pourrait appeler aussi réalité non personnalisable. Jamais et nulle part dans le maître univers, la personnalité et la déité ne seront le fruit de l'Absolu Non Qualifié. Celui-ci ne s'occupe que de ce qui deviendra substance ou forme.
 

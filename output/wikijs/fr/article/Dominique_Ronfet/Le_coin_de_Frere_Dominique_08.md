@@ -39,7 +39,7 @@ Il paraît que « _l'Esprit souffle où il veut et quand il veut_ ». Il paraît
 
 Jésus dit : « _Quand le vent souffle, tu entends le bruissement des feuilles, mais tu ne vois pas le vent — ni d'où il vient ni où il va — et il en est ainsi pour quiconque est né de l'esprit._
 
-_Avec les yeux de la chair, on peut apercevoir les manifestations de l'esprit, mais on ne peut effectivement discerner l'esprit_ ». [LU 142:6.5](/fr/The_Urantia_Book/142#p6_5)
+_Avec les yeux de la chair, on peut apercevoir les manifestations de l'esprit, mais on ne peut effectivement discerner l'esprit_ ». <a id="a41_132"></a>[LU 142:6.5](/fr/The_Urantia_Book/142#p6_5)
 
 Alors ouvrons nos regards, ces fenêtres de l'âme, Et prêtons attention aux courants d'air.
 

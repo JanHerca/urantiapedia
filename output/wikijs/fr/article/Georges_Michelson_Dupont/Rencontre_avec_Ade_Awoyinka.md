@@ -46,7 +46,7 @@ J'ai ressenti pour cette belle personne un puissant sentiment de fraternité dou
 
 Son récit est aussi la preuve que l'expansion de la conscience cosmique et le rehaussement de la perception spirituelle sont à l'œuvre dans les enseignements du _Livre d'Urantia_ et permettent à L'Esprit de Vérité et aux Ajusteurs de Pensées de travailler plus efficacement à la spiritualisation du mental humain.
 
-> « L'anxiété était l'état naturel du mental des sauvages. Quand les hommes et les femmes tombent victimes d'une anxiété excessive, ils reviennent simplement à l'état naturel de leurs lointains ancêtres. Quand l'anxiété devient réellement douloureuse, elle inhibe l'activité et provoque infailliblement des changements évolutionnaires et des adaptations biologiques. La douleur et la souffrance sont essentielles à l'évolution progressive. » [LU 86:2.1](/fr/The_Urantia_Book/86#p2_1)
+> « L'anxiété était l'état naturel du mental des sauvages. Quand les hommes et les femmes tombent victimes d'une anxiété excessive, ils reviennent simplement à l'état naturel de leurs lointains ancêtres. Quand l'anxiété devient réellement douloureuse, elle inhibe l'activité et provoque infailliblement des changements évolutionnaires et des adaptations biologiques. La douleur et la souffrance sont essentielles à l'évolution progressive. » <a id="a48_442"></a>[LU 86:2.1](/fr/The_Urantia_Book/86#p2_1)
 
 Georges Michelson-Dupont
 
@@ -56,7 +56,7 @@ D'autres témoignages édifiants et similaires montrent que les enseignements du
 
 Guy Stéphane anime un cours sur le fascicule 83: « La religion primitive » et nous présen- tons avec sa permission et après les témoignages d'Ade, d'Arnaud et de Guy Stépahane sur leur pays respectif quelques questions et réponses qui illustrent encore une fois cette emprise de la peur sur le mental africain mais aussi les superstitions qui ont encore cours dans notre monde occidental.
 
-> « Rares sont les personnes qui vivent à la hauteur de la foi qu'elles possèdent réellement. La peur irraisonnée est une fraude intellectuelle maitresse pratiquée sur l'âme mortelle en évolution. » ([LU 48:7.4](/fr/The_Urantia_Book/48#p7_4))
+> « Rares sont les personnes qui vivent à la hauteur de la foi qu'elles possèdent réellement. La peur irraisonnée est une fraude intellectuelle maitresse pratiquée sur l'âme mortelle en évolution. » (<a id="a58_200"></a>[LU 48:7.4](/fr/The_Urantia_Book/48#p7_4))
 
 <figure class="table chapter-navigator">
   <table>

@@ -66,7 +66,7 @@ On notera que c'est la troisième fois que l'on trouve le mot expérience et qu'
 
 **Il existe une grande confusion**, se réfère à l'ensemble des civilisations de notre planète, que ce soit dans l'espace ou dans le temps.
 
-**Dieu** : Le chapitre II des [pages 3 et 4](/fr/The_Urantia_Book/0#p2_11) est consacré à l'explicitation de ce que les révélateurs veulent dire par ce mot. Et pour une bonne partie, il s'agit bien de révélation.
+**Dieu** : Le chapitre II des <a id="a68_30"></a>[pages 3 et 4](/fr/The_Urantia_Book/0#p2_11) est consacré à l'explicitation de ce que les révélateurs veulent dire par ce mot. Et pour une bonne partie, il s'agit bien de révélation.
 
 **Divinité et Déité** sont traités dans le chapitre I des pages 2 et 3 .
 

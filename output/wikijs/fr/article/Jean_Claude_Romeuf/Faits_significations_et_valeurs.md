@@ -34,11 +34,11 @@ dateCreated: 2024-09-29T14:02:03.086Z
 </figure>
 
 
-> « _Pour la science, Dieu est une cause, pour la philosophie, il est une idée et, pour la religion, il est une personne,....._ » [LU 1:6.2](/fr/The_Urantia_Book/1#p6_2)
+> « _Pour la science, Dieu est une cause, pour la philosophie, il est une idée et, pour la religion, il est une personne,....._ » <a id="a36_130"></a>[LU 1:6.2](/fr/The_Urantia_Book/1#p6_2)
 
 **A — niveau humain des réalités cosmiques ou domaine des faits.** On peut considérer comme « fait » tout ce qui existe, tout ce qui arrive, tout ce qui est mis en action : les choses, les êtres, les événements sont des faits. Leur analyse subjective par le mental est l'étoffe des significations.
 
-C'est pourquoi les faits sont les pierres de taille rendant possible l'édification de la sagesse ([LU 111:6.6](/fr/The_Urantia_Book/111#p6_6)). Ils sont la matière de base à partir de laquelle le mental construit sa maturité, car, dépourvus de significations ils ne sont qu'un état d'existence statique dans lequel la notion de croissance évolutive fait défaut : le minéral, la plante, l'homme, Jupiter et Mercure sont des faits. En tant que tels, ils font partie du domaine de la science et peuvent être analysés avec méthode. Les faits s'enchaînent selon des lois que la curiosité scientifique se force à découvrir et à utiliser par la technique : le vent qui souffle fait naître les moulins.
+C'est pourquoi les faits sont les pierres de taille rendant possible l'édification de la sagesse (<a id="a40_98"></a>[LU 111:6.6](/fr/The_Urantia_Book/111#p6_6)). Ils sont la matière de base à partir de laquelle le mental construit sa maturité, car, dépourvus de significations ils ne sont qu'un état d'existence statique dans lequel la notion de croissance évolutive fait défaut : le minéral, la plante, l'homme, Jupiter et Mercure sont des faits. En tant que tels, ils font partie du domaine de la science et peuvent être analysés avec méthode. Les faits s'enchaînent selon des lois que la curiosité scientifique se force à découvrir et à utiliser par la technique : le vent qui souffle fait naître les moulins.
 
 Les faits, qu'ils soient soumis ou non à l'appréciation du mental peuvent, de par leur réalité intrinsèque, exprimer la perfection sur le niveau qui leur est conféré : le diamant comme la goutte d'eau naissante satisfont à la pureté minérale théorique et idéale du monde terrestre ; de la même manière, Dieu est l'être parfait absolu du monde paradisiaque. Chaque niveau de réalité cosmique possède un degré de perfection qui lui est propre, impossible à dépasser mais que les citoyens de l'univers, engagés dans la carrière ascendante, cherchent à atteindre.
 

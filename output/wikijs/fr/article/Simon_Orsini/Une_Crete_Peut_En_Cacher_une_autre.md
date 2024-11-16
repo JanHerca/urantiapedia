@@ -24,7 +24,7 @@ dateCreated: 2024-11-1T18:24:19Z
         </a>
         </td>
         <td>
-        <a href="/fr/article/Jean_Marie_Chaise/Les_Paraboles_2">
+        <a href="/fr/article/Jeanmarie_Chaise/Les_Paraboles_2">
           <span class="pr-2">Les Paraboles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -32,6 +32,7 @@ dateCreated: 2024-11-1T18:24:19Z
     </tbody>
   </table>
 </figure>
+
 
 
 1. De l'atome en cellule, de cellule en molécule, chaque cas représente une infinité d'actions et de réactions électrochimiques, parfois magnétiques, avec une possibilité de combinaisons inimaginables grâce à l'organisation maitrisée des électrons et des protons.
@@ -45,7 +46,7 @@ Sur cette terre, la destinée estune transition qui s'interpose entre l'état de
 > 2. Les stades de gravité (Énergie).
 > 3. Les stades de postgravité (pouvoir d'univers).
 > 
-> Se reporter à [LU 11:8.4](/fr/The_Urantia_Book/11#p8_4)
+> Se reporter à <a id="a48_16"></a>[LU 11:8.4](/fr/The_Urantia_Book/11#p8_4)
 
 J'étais plongé dans une rêverie dont seul le super conscient initié a le secret, je découvrais un monde inconnu, aux vertus multiples qui étaient présentes dans la pensée des personnes qui y vivaient, une moralité exemplaire qui aurait pu convertir tout une armée de va t'en guerre.
 
@@ -139,7 +140,7 @@ Jésus bénissait les pauvres quand ils étaient sincères et pieux et condamnai
 
 <br style="clear:both;"/>
 
-> « SI LE mental fini de l'homme est incapable de comprendre comment un Dieu aussi grand et majestueux que le Père Universel peut descendre de sa demeure éternelle de perfection infinie pour fraterniser avec la créature humaine individuelle, il faut donc que l'intellect fini base son assurance de communion divine sur la vérité factuelle qu'un fragment réel du Dieu vivant réside dans l'intellect de tout mortel d'Urantia pourvu d'un mental normal et d'une conscience morale. Les Ajusteurs de Pensée intérieurs sont une fraction de la Déité éternelle du Père Paradisiaque. Lorsque lâme humaine contemple cette présence de réalité spirituelle, l'homme n'a pas besoin d'aller au-delà de sa propre expérience intérieure pour trouver Dieu et s'efforcer de communier avec lui. » ([LU 5:0.1](/fr/The_Urantia_Book/5#p0_1))
+> « SI LE mental fini de l'homme est incapable de comprendre comment un Dieu aussi grand et majestueux que le Père Universel peut descendre de sa demeure éternelle de perfection infinie pour fraterniser avec la créature humaine individuelle, il faut donc que l'intellect fini base son assurance de communion divine sur la vérité factuelle qu'un fragment réel du Dieu vivant réside dans l'intellect de tout mortel d'Urantia pourvu d'un mental normal et d'une conscience morale. Les Ajusteurs de Pensée intérieurs sont une fraction de la Déité éternelle du Père Paradisiaque. Lorsque lâme humaine contemple cette présence de réalité spirituelle, l'homme n'a pas besoin d'aller au-delà de sa propre expérience intérieure pour trouver Dieu et s'efforcer de communier avec lui. » (<a id="a142_776"></a>[LU 5:0.1](/fr/The_Urantia_Book/5#p0_1))
 
 Le Père a tracé un chemin, il passe par le fils, en disant cela, je fais une affirmation circonstancielle.
 
@@ -148,6 +149,8 @@ Ce sont les prochaines générations qui auront soif de justice, de droiture, de
 Notre Père a de la patience, pour nous la patience fonctionne avec le temps, de la tolérance, parce qu'un Père aime ses enfants, mais pour aller vers lui il faut aussi l'aimer.
 
 Simon Orsini
+
+
 
 <figure class="table chapter-navigator">
   <table>
@@ -164,7 +167,7 @@ Simon Orsini
         </a>
         </td>
         <td>
-        <a href="/fr/article/Jean_Marie_Chaise/Les_Paraboles_2">
+        <a href="/fr/article/Jeanmarie_Chaise/Les_Paraboles_2">
           <span class="pr-2">Les Paraboles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

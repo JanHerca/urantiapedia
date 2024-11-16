@@ -48,14 +48,14 @@ Ces cours coïncidaient avec une période difficile, très difficile de ma vie. 
 
 Une des questions nous invitait à répondre au sujet de nos difficultés, et un frère a partagé au sujet de sa difficulté à avoir de l'eau de chauffage pour son bain, parce qu'il habitait le dernier étage de son immeuble. J'avais des difficultés à trouver à manger, et à la lecture de son partage je lui en ai fait part. Beaucoup de frère ont relativisé leur niveau de difficulté. L'un d'entre eux m'a écrit un message personnel avec ce passage:
 
-> _L'expérience religieuse personnelle, spirituelle, résout efficacement la plupart des difficultés des mortels ; elle sélectionne, évalue et ajuste efficacement tous les problèmes humains. La religion n'écarte ni ne supprime les ennuis humains, mais elle les dissout, les absorbe, les illumine et les transcende._ [LU 196:3.1](/fr/The_Urantia_Book/196#p3_1)
+> _L'expérience religieuse personnelle, spirituelle, résout efficacement la plupart des difficultés des mortels ; elle sélectionne, évalue et ajuste efficacement tous les problèmes humains. La religion n'écarte ni ne supprime les ennuis humains, mais elle les dissout, les absorbe, les illumine et les transcende._ <a id="a50_315"></a>[LU 196:3.1](/fr/The_Urantia_Book/196#p3_1)
 
 Je ne vous dirai pas que jusqu'au aujourd'hui j’ai compris tout le sens de ce passage ; ce que je vous dirai c'est que grâce au partage de ce frère, j'ai regardé avec un œil différent la situation que je vivais. Je me suis positionné honnêtement comme un fils de Dieu et j'ai décidé de m’attaquer avec courage à ces difficultés.
 
 Ce même frère m'a fait une invitation sur Skype. On s'est vu on s'est parlé en visioconférence. On a continué nos échanges, et j'ai eu l'opportunité d'approfondir cet autre passage:
 
 > _Les incertitudes de la vie et les vicissitudes de l'existence ne contredisent en aucune manière le concept de la souveraineté universelle de Dieu. Toute vie d'une créature évolutionnaire est assaillie par certaines inévitabilités, dont voici des exemples:_
-> _1. Le courage — la force de caractère — est-il désirable? Alors, il faut que l'homme soit élevé dans un environnement qui l'oblige à s'attaquer à de dures épreuves et à réagir aux désappointements._ ([LU 3:5.5-6](/fr/The_Urantia_Book/3#p5_5))
+> _1. Le courage — la force de caractère — est-il désirable? Alors, il faut que l'homme soit élevé dans un environnement qui l'oblige à s'attaquer à de dures épreuves et à réagir aux désappointements._ (<a id="a57_203"></a>[LU 3:5.5-6](/fr/The_Urantia_Book/3#p5_5))
 
 Je vis désormais une vie religieuse personnelle épanouie. J’avance avec courage vers mes objectifs, je reste honnête et sincère vis-à-vis de Dieu et de moi-même.
 

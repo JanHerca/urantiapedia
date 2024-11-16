@@ -66,7 +66,7 @@ Devons-nous nous perpétuer sans aucun contrôle, quitte à noyer la terre d'êt
 
 Comment admettre que le Christ glorifié n'est pas la 2ème personne de la trinité, mais le Christ Micaël de Nébadon aux sept effusions.
 
-.... Ni la science ni la religion seules ne peuvent jamais espérer parvenir, en ellesmêmes et par elles-mêmes, à une compréhension adéquate des vérités et des relations universelles sans être guidées par la philosophie humaine et éclairées par la révélation divine. [LU 103:6.5](/fr/The_Urantia_Book/103#p6_5)
+.... Ni la science ni la religion seules ne peuvent jamais espérer parvenir, en ellesmêmes et par elles-mêmes, à une compréhension adéquate des vérités et des relations universelles sans être guidées par la philosophie humaine et éclairées par la révélation divine. <a id="a68_266"></a>[LU 103:6.5](/fr/The_Urantia_Book/103#p6_5)
 
 Amitié fraternelle
 

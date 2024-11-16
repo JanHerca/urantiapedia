@@ -34,7 +34,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 </figure>
 
 
-L'idée de cette étude m'est venue suite à une intervention de notre ami Jean Royer sur le forum de discussion électronique. Celui-ci faisait remarquer que certains nombres donnés dans le Livre d'Urantia étaient très étonnants. Par exemple celui approximatif de 187 millions d'ascendeurs présents sur Jérusem ([LU 53:7.12](/fr/The_Urantia_Book/53#p7_12)) au moment de la rébellion. En prenant comme rapport 619 mondes habités et le nombre de personnes décédées sur Terre en 1990, soit 90 millions (source: Quid 1990) се nombre de 187 millions peut paraître en effet insignifiant. Mon propos n'est pas de lever un inutile débat sur le lieu et le pourcentage des survivants lors de leur ascension ainsi que le taux de réussite à la fusion.
+L'idée de cette étude m'est venue suite à une intervention de notre ami Jean Royer sur le forum de discussion électronique. Celui-ci faisait remarquer que certains nombres donnés dans le Livre d'Urantia étaient très étonnants. Par exemple celui approximatif de 187 millions d'ascendeurs présents sur Jérusem (<a id="a36_309"></a>[LU 53:7.12](/fr/The_Urantia_Book/53#p7_12)) au moment de la rébellion. En prenant comme rapport 619 mondes habités et le nombre de personnes décédées sur Terre en 1990, soit 90 millions (source: Quid 1990) се nombre de 187 millions peut paraître en effet insignifiant. Mon propos n'est pas de lever un inutile débat sur le lieu et le pourcentage des survivants lors de leur ascension ainsi que le taux de réussite à la fusion.
 
 Par contre il me parait très intéressant de s'interroger sur le sens profond de cette décision cruciale qu'est le choix de survivre, et cela à quelque niveau dans l'évolution que nous placions cette décision.
 
@@ -46,7 +46,7 @@ Le LU nous révèle qu'il n'y a que 2 voies qui peuvent nous faire rater l'éter
 
 Par exemple :
 
-> _Quand la vie matérielle a terminé son cours, si ces enfants du temps n'ont pas choisi la vie ascendante, ou bien s'ils ont nettement pris position contre l'aventure de Havona, la mort met automatiquement fin à leur carrière probatoire. Il n'y a pas de jugement pour de tels cas ; cette seconde mort ne comporte pas de résurrection. Tout se passe simplement pour ces enfants du temps comme s'ils n'avaient pas existé._ [LU 47:2.7](/fr/The_Urantia_Book/47#p2_7)
+> _Quand la vie matérielle a terminé son cours, si ces enfants du temps n'ont pas choisi la vie ascendante, ou bien s'ils ont nettement pris position contre l'aventure de Havona, la mort met automatiquement fin à leur carrière probatoire. Il n'y a pas de jugement pour de tels cas ; cette seconde mort ne comporte pas de résurrection. Tout se passe simplement pour ces enfants du temps comme s'ils n'avaient pas existé._ <a id="a48_421"></a>[LU 47:2.7](/fr/The_Urantia_Book/47#p2_7)
 
 Si l'on ne tient pas compte de la rébellion cela ne serait simplement qu'une affaire de choix. A priori pas de problèmes, il n'y a pas un jour où nous ne prenions chacun beaucoup de décisions, alors celle concernant un choix aussi vital que la survie...
 
@@ -56,15 +56,15 @@ Et puis comment faire la différence entre la décision d'un chat d'aller vers s
 
 Le LU nous dit que ce pouvoir de choix, notre libre-arbitre, est sacré. Qu'il nous appartient en propre grâce au don de personnalité que n'ont pas les animaux.
 
-> _La vie attribuée aux plantes et aux animaux par les Porteurs de Vie ne retourne pas aux Porteurs de Vie après la mort de la plante ou de l'animal. La vie qui abandonne la créature vivante ne possède ni identité ni personnalité ; elle ne survit pas individuellement à la mort_ [LU 36:6.5](/fr/The_Urantia_Book/36#p6_5)
+> _La vie attribuée aux plantes et aux animaux par les Porteurs de Vie ne retourne pas aux Porteurs de Vie après la mort de la plante ou de l'animal. La vie qui abandonne la créature vivante ne possède ni identité ni personnalité ; elle ne survit pas individuellement à la mort_ <a id="a58_279"></a>[LU 36:6.5](/fr/The_Urantia_Book/36#p6_5)
 
-> _La personnalité de la créature se distingue par deux phénomènes spontanés et caractéristiques des réactions du comportement de mortel : la conscience de soi et le libre arbitre relatif qui lui est associé._ [LU 16:8.5](/fr/The_Urantia_Book/16#p8_5)
+> _La personnalité de la créature se distingue par deux phénomènes spontanés et caractéristiques des réactions du comportement de mortel : la conscience de soi et le libre arbitre relatif qui lui est associé._ <a id="a60_210"></a>[LU 16:8.5](/fr/The_Urantia_Book/16#p8_5)
 
 Comme disait Rumi\* « la vérité c'est le libre-arbitre, le libre-arbitre, le libre arbitre » [^2]
 
 Voilà, mes décisions seraient d'essence absolue puisque qu'elles proviennent d'une source absolue, ma personnalité.
 
-> _1. La personnalité est cette qualité dans la réalité qui est conférée par le Père Universel lui-même, ou par l'Acteur Conjoint agissant pour le Père._ [LU 112:0.3](/fr/The_Urantia_Book/112#p0_3)
+> _1. La personnalité est cette qualité dans la réalité qui est conférée par le Père Universel lui-même, ou par l'Acteur Conjoint agissant pour le Père._ <a id="a66_154"></a>[LU 112:0.3](/fr/The_Urantia_Book/112#p0_3)
 
 Mais alors comment expliquer le doute, les erreurs... ma personnalité pourrait commettre des bêtises ??
 
@@ -84,7 +84,7 @@ Mais relatif à quoi ?
 > 4. _Coopération intentionnelle, la loyauté de groupe._
 > 5. _Perspicacité cosmique, la compréhension des significations universelles._
 > 6. _Consécration de la personnalité, la dévotion à faire de tout cœur la volonté du Père._
-> 7. _L'adoration, quand on poursuit sincèrement les valeurs divines et que l'on aime de tout son cœur le divin Donateur des Valeurs._ [LU 16:8.7](/fr/The_Urantia_Book/16#p8_7)
+> 7. _L'adoration, quand on poursuit sincèrement les valeurs divines et que l'on aime de tout son cœur le divin Donateur des Valeurs._ <a id="a86_135"></a>[LU 16:8.7](/fr/The_Urantia_Book/16#p8_7)
 
 Bigre ! Alors mon libre-arbitre, mon pouvoir de choix serait en fait uniquement engagé dans de telles dimensions ??!
 
@@ -96,7 +96,7 @@ La vérité est sans doute plus nuancée.
 
 P. 112:2.7 nous pouvons lire :
 
-> _Des fractions du moi peuvent fonctionner de nombreuses façons réfléchir, ressentir, souhaiter — mais seuls les attributs coordonnés de la personnalité entière sont focalisés dans une action intelligente_ [LU 112:2.7](/fr/The_Urantia_Book/112#p2_7)
+> _Des fractions du moi peuvent fonctionner de nombreuses façons réfléchir, ressentir, souhaiter — mais seuls les attributs coordonnés de la personnalité entière sont focalisés dans une action intelligente_ <a id="a98_207"></a>[LU 112:2.7](/fr/The_Urantia_Book/112#p2_7)
 
 Nous n'aurions donc pas plusieurs _centres de décision_, mais un centre volatile, si je puis dire, générant des parcelles de notre individu qui cherchent à se cristalliser. A stopper leur remise en question.
 
@@ -116,7 +116,7 @@ Bien. C’est déjà un peu plus clair. Enfin presque...il faut être...sincère
 
 Nous serions rarement au niveau de notre _Personnalité_, plutôt comme endormis à celle-ci.
 
-Cette dernière essaie pourtant d'unifier ce que je définirais de chaos naissant, l'identité évoluante ([LU 112:0.7](/fr/The_Urantia_Book/112#p0_7)) « _Alors qu'elle est dépourvue d'identité, la personnalité peut unifier l'identité de tout système énergétique vivant_ ».
+Cette dernière essaie pourtant d'unifier ce que je définirais de chaos naissant, l'identité évoluante (<a id="a118_103"></a>[LU 112:0.7](/fr/The_Urantia_Book/112#p0_7)) « _Alors qu'elle est dépourvue d'identité, la personnalité peut unifier l'identité de tout système énergétique vivant_ ».
 
 Mais alors dans quelle mesure suis-je tenu comme responsable de mes actes ? Ou alors:
 
@@ -124,9 +124,9 @@ Mais alors dans quelle mesure suis-je tenu comme responsable de mes actes ? Ou a
 
 Mettons ces 2 extraits en parallèle :
 
-> _L'homme mortel peut s'approcher de Dieu tout en renonçant maintes et maintes fois à faire la volonté divine, et cela aussi longtemps qu'il conserve le pouvoir de choisir. Sa perte finale n'est pas décidée avant qu'il ait perdu le pouvoir de choisir la volonté du Père._ [LU 5:1.11](/fr/The_Urantia_Book/5#p1_11)
+> _L'homme mortel peut s'approcher de Dieu tout en renonçant maintes et maintes fois à faire la volonté divine, et cela aussi longtemps qu'il conserve le pouvoir de choisir. Sa perte finale n'est pas décidée avant qu'il ait perdu le pouvoir de choisir la volonté du Père._ <a id="a126_273"></a>[LU 5:1.11](/fr/The_Urantia_Book/5#p1_11)
 
-> _Du fait qu'elle est apparue en réponse à la volonté du Père, la personnalité atteindra une destinée de Déité, mais l'homme doit choisir s'il sera présent ou non à l'aboutissement de cette destinée. A défaut de choix positif, la personnalité atteint directement la Déité expérientielle en devenant une partie de l'Etre Suprême._ [LU 112:5.2](/fr/The_Urantia_Book/112#p5_2)
+> _Du fait qu'elle est apparue en réponse à la volonté du Père, la personnalité atteindra une destinée de Déité, mais l'homme doit choisir s'il sera présent ou non à l'aboutissement de cette destinée. A défaut de choix positif, la personnalité atteint directement la Déité expérientielle en devenant une partie de l'Etre Suprême._ <a id="a128_331"></a>[LU 112:5.2](/fr/The_Urantia_Book/112#p5_2)
 
 1^ère^ remarque : il s'agit donc d'une impossibilité « technique » et définitive à faire le bon choix. Comme si nous étions redescendus à un niveau de réaction purement mécanique. Notre centre de décision est définitivement hors du contrôle de notre personnalité.
 
@@ -136,9 +136,9 @@ Notre destruction deviendrait donc un état de fait. Nous sommes en dehors de la
 
 Il faut tenter de cerner cette différence entre individualité et personnalité pour comprendre notre _problème_.
 
-Si la personnalité n'a pas d'identité ([LU 112:0.7](/fr/The_Urantia_Book/112#p0_7)) il est logique d'en déduire qu'elle ne peut pas se connaître et ne peut pas être connue. Comme nous le rappelle feu M. Henri BEGEMANN (Lien 10) notre personnalité est d'un niveau absolu.
+Si la personnalité n'a pas d'identité (<a id="a138_39"></a>[LU 112:0.7](/fr/The_Urantia_Book/112#p0_7)) il est logique d'en déduire qu'elle ne peut pas se connaître et ne peut pas être connue. Comme nous le rappelle feu M. Henri BEGEMANN (Lien 10) notre personnalité est d'un niveau absolu.
 
-C'est peut-être ainsi que l'altruisme (le vrai, le rarissime, celui de la phrase _que la main gauche ne sache pas ce qu'a fait la main droite_ ([LU 140:8.26](/fr/The_Urantia_Book/140#p8_26))) est possible: comment une personnalité qui ne se connaît pas pourrait-elle connaître l'égoïsme, l'orgueil? Elle n'existe que pour le service.
+C'est peut-être ainsi que l'altruisme (le vrai, le rarissime, celui de la phrase _que la main gauche ne sache pas ce qu'a fait la main droite_ (<a id="a140_144"></a>[LU 140:8.26](/fr/The_Urantia_Book/140#p8_26))) est possible: comment une personnalité qui ne se connaît pas pourrait-elle connaître l'égoïsme, l'orgueil? Elle n'existe que pour le service.
 
 Pour tenter de percevoir ainsi les divers niveaux possibles de réalisation de soi je citerai ce passage extrait de Chercheur de vérité d'Idries SHAH :
 
@@ -158,7 +158,7 @@ L'influence du sage touche au « développement supérieur.... ».
 
 « _Croire que la bonté ou la générosité sont des fins en soi c'est peut-être une preuve de bonté ou de générosité. Ce n'est certainement pas une attitude fondée sur la connaissance des faits et c'est ce que nous pouvons dire de moins méchant et de plus généreux..._ »
 
-Ne sommes-nous pas proches du concept d'amour paternel tel qu'il est exposé Fascicule [LU 140:5](/fr/The_Urantia_Book/140#p5) ?
+Ne sommes-nous pas proches du concept d'amour paternel tel qu'il est exposé Fascicule <a id="a160_86"></a>[LU 140:5](/fr/The_Urantia_Book/140#p5) ?
 
 ## Conclusion courte sous la forme d'un souhait
 

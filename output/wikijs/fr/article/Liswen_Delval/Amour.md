@@ -46,7 +46,7 @@ Cette rencontre au cœur de la nature a été riche d'études et d'idées. La sy
 
 Premier point : apprendre <ins>d'abord</ins> à être loyal, ensuite à aimer...
 
-> ***Qu'est-ce que la loyauté? C'est le fruit d'une appréciation intelligente de la fraternité universelle. On ne saurait beaucoup prendre sans rien donner. A mesure que vous vous élevez sur l'échelle de la personnalité, vous apprenez d'abord à être loyal, ensuite à aimer, ensuite à̀ être filial, et alors vous pouvez être libre; ce n'est pas avant d'être devenu un finalitaire, d'avoir atteint la perfection de la loyauté, que vous pourrez réaliser par vous-même la finalité de la liberté.*** ([LU 39:4.11](/fr/The_Urantia_Book/39#p4_11))
+> ***Qu'est-ce que la loyauté? C'est le fruit d'une appréciation intelligente de la fraternité universelle. On ne saurait beaucoup prendre sans rien donner. A mesure que vous vous élevez sur l'échelle de la personnalité, vous apprenez d'abord à être loyal, ensuite à aimer, ensuite à̀ être filial, et alors vous pouvez être libre; ce n'est pas avant d'être devenu un finalitaire, d'avoir atteint la perfection de la loyauté, que vous pourrez réaliser par vous-même la finalité de la liberté.*** (<a id="a48_496"></a>[LU 39:4.11](/fr/The_Urantia_Book/39#p4_11))
 
 Comme c'est la seule définition ci-dessus que nous ayons du mot loyal dans le LU, je vous fais part de cette autre définition de l'Académie française (8ème édition): « qui montre de la loyauté, qui est sincère, droit, franc, plein d'honneur et de probité».
 
@@ -55,9 +55,9 @@ Le deuxième point relevé dans cette synthèse se résume en 3 points :
 - b) pour être attrayant il nous faut d'abord accéder à la beauté intérieure.
 - c) pour être stable il nous faut d'abord accéder à la bonté.
 
-> ***La vérité est cohérente, la beauté est attrayante, la bonté est stabilisante Et, quand ces trois valeurs de la réalité sont coordonnées dans l'expérience d'une personnalité, il en résulte une haute qualité d'amour, conditionnée par la sagesse et qualifiée par la loyauté...*** ([LU 2:7.12](/fr/The_Urantia_Book/2#p7_12))
+> ***La vérité est cohérente, la beauté est attrayante, la bonté est stabilisante Et, quand ces trois valeurs de la réalité sont coordonnées dans l'expérience d'une personnalité, il en résulte une haute qualité d'amour, conditionnée par la sagesse et qualifiée par la loyauté...*** (<a id="a57_283"></a>[LU 2:7.12](/fr/The_Urantia_Book/2#p7_12))
 
-> Toute vérité-matérielle, philosophique ou spirituelle-est à la fois belle et bonne. Toute _beauté réelle-art matériel ou symétrie spirituelle-est à la fois vraie et bonne_. ***Toute bonté authentique-qu'il s'agisse de moralité personnelle, d'équité sociale ou de ministère divin-est également vraie et belle. Santé physique, santé mentale et bonheur sont des intégrations de vérité, de beauté et de bonté fondues dans l'expérience humaine. Ces niveaux de vie efficace s'atteignent en unifiant les systèmes d'énergie, les systèmes d'idées et les systèmes d'esprit.*** ([LU 2:7.11](/fr/The_Urantia_Book/2#p7_11))
+> Toute vérité-matérielle, philosophique ou spirituelle-est à la fois belle et bonne. Toute _beauté réelle-art matériel ou symétrie spirituelle-est à la fois vraie et bonne_. ***Toute bonté authentique-qu'il s'agisse de moralité personnelle, d'équité sociale ou de ministère divin-est également vraie et belle. Santé physique, santé mentale et bonheur sont des intégrations de vérité, de beauté et de bonté fondues dans l'expérience humaine. Ces niveaux de vie efficace s'atteignent en unifiant les systèmes d'énergie, les systèmes d'idées et les systèmes d'esprit.*** (<a id="a59_570"></a>[LU 2:7.11](/fr/The_Urantia_Book/2#p7_11))
 
 **L'amour est contagieux et éternellement créatif .**
 

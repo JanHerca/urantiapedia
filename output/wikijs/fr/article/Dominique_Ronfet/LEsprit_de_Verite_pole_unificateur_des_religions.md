@@ -40,9 +40,9 @@ Les expériences successives de notre vie permettant de nous découvrir (la Pers
 
 Nous pouvons lire que l’Esprit de Vérité, le nouvel instructeur, fut donné comme soutien à l'âme de tout chercheur sincère depuis le départ de Jésus afin que nous puissions nous libérer des anciennes contraintes
 
-> « La Pentecôte était detinée à diminuer l'outrecuidance d'individus, de groupes, de nations et de races — cet esprit d'outrecuidance dont la tension croit au point qu'il se déchaîne périodiquement en guerres dévastatrices. Seule une approche spirituelle peut unifier l'humanité, et l'Esprit de Vérité est une influence mondiale universelle. » [LU 194:3.18](/fr/The_Urantia_Book/194#p3_18)
+> « La Pentecôte était detinée à diminuer l'outrecuidance d'individus, de groupes, de nations et de races — cet esprit d'outrecuidance dont la tension croit au point qu'il se déchaîne périodiquement en guerres dévastatrices. Seule une approche spirituelle peut unifier l'humanité, et l'Esprit de Vérité est une influence mondiale universelle. » <a id="a42_345"></a>[LU 194:3.18](/fr/The_Urantia_Book/194#p3_18)
 
-> « Ce nouvel instructeur fut effusé sur l'humanité, et chaque âme le reçut selon son propre amour de la vérité et sa propre aptitude à saisir et à comprendre les réalités spirituelles » [LU 194:3.6](/fr/The_Urantia_Book/194#p3_6)
+> « Ce nouvel instructeur fut effusé sur l'humanité, et chaque âme le reçut selon son propre amour de la vérité et sa propre aptitude à saisir et à comprendre les réalités spirituelles » <a id="a44_187"></a>[LU 194:3.6](/fr/The_Urantia_Book/194#p3_6)
 
 Avons-nous pour autant progressé à travers l'histoire dans notre recherche collective? Les religions se sont-elles rapprochées? Non, car ce qui divise a été plus fort que ce qui pouvait nous unifier. N'y-a t-il pourtant jamais eu d'hommes épris de vérité et qui savaient? Si , bien — sûr. Et cela <ins>quelle que soit leur culture et leur religion, n'en doutons pas</ins>.
 
@@ -62,7 +62,7 @@ Mais quelle est donc cette sagesse si exigeante ?
 
 Peut-être la vraie foi en action.
 
-« ***La clairvoyance divine ou spirituelle est un don, mais la sagesse humaine doit évoluer*** » [LU 101:4.2](/fr/The_Urantia_Book/101#p4_2). (cet extrait tiré d'un chapitre sur les limitations de la révélation se rapporte finalement...à nos propres limites).
+« ***La clairvoyance divine ou spirituelle est un don, mais la sagesse humaine doit évoluer*** » <a id="a64_97"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2). (cet extrait tiré d'un chapitre sur les limitations de la révélation se rapporte finalement...à nos propres limites).
 
 Pour finir et illustrer de manière plaisante ce travers humain qui nous amène à prendre une partie pour le tout, et ainsi nous faire passer à coté de la vérité que nous recherchons, je tirerai une petite histoire-enseignement d'un livre d'Idries SHAH « Contes derviches », auteur dont je recommande chaudement la lecture.
 

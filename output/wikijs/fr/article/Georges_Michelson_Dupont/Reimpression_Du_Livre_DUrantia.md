@@ -53,7 +53,7 @@ Le paragraphe en haut de la page 481, commençant par « Vous pouvez essayer d'i
 
 En reprenant l'idée initiale de pouvoir facilement comparer une traduction avec le texte original, nous avons développé sur le site web de la fondation www.urantia.org une application mettant en vis-à-vis n'importe la quelle des traductions avec une autre.
 
-À l'avenir, nous conseillons d'utiliser le système de référence international qui est: Fascicule: section. paragraphe. Exemple: [LU 99:6.3](/fr/The_Urantia_Book/99#p6_3). Notez qu'après le numéro du fascicule on place un «: » et après le numéro du paragraphe un point «. our celles et ceux qui nous font parvenir leurs textes pour publication, veuillez respecter ces codes typographiques qui facilitent la mise en page de votre publication trimestrielle.
+À l'avenir, nous conseillons d'utiliser le système de référence international qui est: Fascicule: section. paragraphe. Exemple: <a id="a55_128"></a>[LU 99:6.3](/fr/The_Urantia_Book/99#p6_3). Notez qu'après le numéro du fascicule on place un «: » et après le numéro du paragraphe un point «. our celles et ceux qui nous font parvenir leurs textes pour publication, veuillez respecter ces codes typographiques qui facilitent la mise en page de votre publication trimestrielle.
 
 Amitiés.
 

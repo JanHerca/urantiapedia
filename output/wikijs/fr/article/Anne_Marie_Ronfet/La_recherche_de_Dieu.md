@@ -40,13 +40,13 @@ Car Dieu se manifeste à nous de cette façon.
 
 Notre mental pense à Dieu en tant que vérité, beauté et bonté.
 
-> _La divinité est intelligible aux créatures en tant que vérité, beauté et bonté._ [LU 0:1.17](/fr/The_Urantia_Book/0#p1_17)
+> _La divinité est intelligible aux créatures en tant que vérité, beauté et bonté._ <a id="a42_84"></a>[LU 0:1.17](/fr/The_Urantia_Book/0#p1_17)
 
 Et on peut même aller plus loin. Nous ne comprenons Dieu que dans la mesure où nous sommes sensibles à ces trois valeurs. Plus notre idée de la vérité est élevée, plus notre idée de la beauté est harmonieuse et éthique, plus notre sens de la bonté prend place dans notre vie et plus nous sommes proches de Dieu. Il est donc primordial d'avoir une idée nette de ces trois valeurs et de leur donner une place prépondérante dans notre vécu quotidien.
 
 Dieu se manifeste à nous dans la mesure où on peut le comprendre et on ne le comprend que par ces trois valeurs.
 
-> Le Dieu d'amour universel se manifeste infailliblement à chacune de ses créatures dans la pleine mesure de la capacité de cette créature à saisir spirituellement les qualités de vérité, de beauté et de bonté divines. [LU 1:4.5](/fr/The_Urantia_Book/1#p4_5)
+> Le Dieu d'amour universel se manifeste infailliblement à chacune de ses créatures dans la pleine mesure de la capacité de cette créature à saisir spirituellement les qualités de vérité, de beauté et de bonté divines. <a id="a48_219"></a>[LU 1:4.5](/fr/The_Urantia_Book/1#p4_5)
 
 C'est dans l'expérience spirituelle que ces trois valeurs s'unifient. Elles ne peuvent fonctionner séparément les unes des autres sans créer des déséquilibres.
 

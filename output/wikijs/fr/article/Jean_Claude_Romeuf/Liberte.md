@@ -34,7 +34,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 </figure>
 
 
-Page [LU 39:4.11](/fr/The_Urantia_Book/39#p4_11) « _On ne saurait beaucoup prendre sans rien donner. A mesure que vous vous élevez sur l'échelle de la personnalité, vous apprenez <ins>d'abord à être loyal, ensuite à aimer, ensuite à être filial</ins>, et alors vous pouvez être libre_ »
+Page <a id="a36_5"></a>[LU 39:4.11](/fr/The_Urantia_Book/39#p4_11) « _On ne saurait beaucoup prendre sans rien donner. A mesure que vous vous élevez sur l'échelle de la personnalité, vous apprenez <ins>d'abord à être loyal, ensuite à aimer, ensuite à être filial</ins>, et alors vous pouvez être libre_ »
 
 1— <ins>d'abord à être loyal</ins>. La loyauté est le fruit d'une appréciation intelligente de la fraternité humaine. Mais être loyal envers ses frères passe d'abord par une phase de loyauté envers soi-même. La loyauté n'est pas concevable sans la sincérité et la droiture. Ces deux caractéristiques personnelles sont les premiers échelons à gravir dans notre quête de « Liberté ».
 
@@ -48,7 +48,7 @@ Oui, vraiment, réclamer sa liberté n'est qu'un leurre car la vraie liberté es
 
 A travers la relation personnelle entretenue entre l'être humain et l'étincelle divine habitant son mental se trouve la « Vraie Liberté ». Cette relation ne peut déboucher que sur l'amour, car Dieu est « Amour ». Nous ne pouvons exercer efficacement notre libre-arbitre que dans la mesure où nos choix sont libres, dépourvus d'idées fausses et de peurs. Toute relation entre personnalités humaines ou divines ne peut se faire qu'avec sincérité, droiture, fidélité, loyauté, confiance et courage. C'est pourquoi il nous est dit:
 
-> _Les clefs du royaume des cieux sont la sincérité, plus de sincérité et encore plus de sincérité. Tous les hommes possèdent ces clefs. Les hommes s'en servent — élèvent leur statut spirituel — par des décisions, plus de décisions et encore plus de décisions._ ([LU 39:4.14](/fr/The_Urantia_Book/39#p4_14))
+> _Les clefs du royaume des cieux sont la sincérité, plus de sincérité et encore plus de sincérité. Tous les hommes possèdent ces clefs. Les hommes s'en servent — élèvent leur statut spirituel — par des décisions, plus de décisions et encore plus de décisions._ (<a id="a50_263"></a>[LU 39:4.14](/fr/The_Urantia_Book/39#p4_14))
 
 2— <ins>ensuite à aimer</ins>. Qui suis-je pour parler d'amour? Moi si petit par ma condition humaine et animale !...Mais si grand par l'amour qui se consume en moi et qui se développe à l'infini! L'amour est mon but, ma destinée, car seul l'amour peut rendre éternel. Je suis sur terre pour apprendre à aimer.
 
@@ -60,7 +60,7 @@ L'amour n'a pas de limite, il est absolu. Il vient de Dieu l'absolu et retourne 
 
 Ce qu'on peut dire de l'amour, on peut le dire aussi de la liberté. L'amour est la porte de la liberté. Seul un mental débarrassé de ses peurs et gouverné par l'amour qui libère, est capable de choix décisifs et éternels. C'est l'amour qui sauve : « si je n'ai pas l'amour je ne suis rien ! ». L'amour commence avec soi, puis avec l'autre, puis devient social, puis devient fraternel et enfin paternel. Seul l'amour permet à notre libre arbitre d'être efficace dans ses décisions, dans sa manière de découvrir en soi la volonté divine et d'accepter de faire cette volonté. Donner notre amour à l'autre, sans peur et sans sacrifice, c'est faire ce que Dieu veut pour nous et pour l'autre. Aimer, c'est servir dans et avec le Suprême ! Aimer, c'est tout donner à l'autre avec bonheur !
 
-3— <ins>ensuite à être filial</ins>. [LU 115:0.1](/fr/The_Urantia_Book/115#p0_1) « Avec Dieu le Père, la grande relation est la filiation ». La paternité de Dieu n'est pas réelle sans la filiation. Pour tenir son rôle de père, Dieu a besoin que nous soyons ses fils!
+3— <ins>ensuite à être filial</ins>. <a id="a62_37"></a>[LU 115:0.1](/fr/The_Urantia_Book/115#p0_1) « Avec Dieu le Père, la grande relation est la filiation ». La paternité de Dieu n'est pas réelle sans la filiation. Pour tenir son rôle de père, Dieu a besoin que nous soyons ses fils!
 
 Nous sommes fils de Dieu par la foi. Comment ne pas être libre lorsqu'on est « fils de Dieu » et qu'on a remis sa destinée dans les mains d'un père bienveillant et tout puissant. « Que ta volonté soit faite » prend un sens nouveau; il s'agit de penser maintenant: « que ma volonté soit unifiée à la tienne » ou bien « que ma volonté soit de faire ta volonté ». Lorsqu'on est capable d'exprimer et de ressentir cela au fond de son âme avec sincérité, c'est qu'on a réalisé le choix suprême. Et, si notre mental nous fait défaut, car il n'est pas toujours clairvoyant avec justesse et justice, nous pouvons alors d'un commun accord avec le Père, se servir du mental de Jésus fils de l'homme. Notre libre arbitre ne nous importe plus car il est confié à la garde de celui qu'on aime déjà dans l'éternité. Il est dévolu à quelqu'un de plus grand qui nous attend et nous libère.
 

@@ -62,7 +62,7 @@ Progressivement je me libérais des entraves matérielles, spirituelles et intel
 
 Je comprenais progressivement que le livre d'urantia élargit et clarifie les nombreux enseignements et concepts difficiles à comprendre de la Bible; que les conflits apparents entre la Bible et les sciences proviennent des diverses doctrines et interprétations théologiques. Je pris conscience de la précieuse contribution de la Bible à l'éveil progressif de l'humanité pour que celle-ci puisse accueillir et apprécier les révélations offertes par les personnalités spirituelles. Et surtout je reçus la conclusion du livre comme une leçon d'humilité en réalisant que le christianisme, religions et sectes confondues, ont lutté et luttent encore pour faire connaitre le message du christ au mieux de leur capacité. Quelle ne fut pas ma joi d'apprendre que les vérités de l'évangile vout persister glorieusement grâce à de nouveaux éducateurs qui oseront dépendre uniquement de Jésus et de ses incomparables enséignements pour se consacrer à la régénération spirituelle de l'humanité!
 
-Depuis cinq ans que je marche sur ce chemin d'expériences consacrées à faire de tout ccur la volonté de Dieu, une nouvelle conscience de force et de joie spirituelle m'accompagne chaque jour, une foi vivante et croissante, dans un monde spirituel bienveilllant et amical qui est une réponse à ma quête exigeante et sincère de Dieu! et j'ai découvert en cherchant et en trouvant mes propres vérités, en nourrissant ma relation personnelle avec l'Esprit de Dieu, « _une paix dynamique et sublime, cette paix qui dépasse toute compréhension humaine, cet équilibre cosmique qui dénote l'absence de tout doute et de toute agitation._ »  [LU 100:6.6](/fr/The_Urantia_Book/100#p6_6)
+Depuis cinq ans que je marche sur ce chemin d'expériences consacrées à faire de tout ccur la volonté de Dieu, une nouvelle conscience de force et de joie spirituelle m'accompagne chaque jour, une foi vivante et croissante, dans un monde spirituel bienveilllant et amical qui est une réponse à ma quête exigeante et sincère de Dieu! et j'ai découvert en cherchant et en trouvant mes propres vérités, en nourrissant ma relation personnelle avec l'Esprit de Dieu, « _une paix dynamique et sublime, cette paix qui dépasse toute compréhension humaine, cet équilibre cosmique qui dénote l'absence de tout doute et de toute agitation._ »  <a id="a64_632"></a>[LU 100:6.6](/fr/The_Urantia_Book/100#p6_6)
 
 Cette force, cette paix, cet équilibre, je les chéris et je les partage avec des pèlerins chercheurs de vérité comme moi, en animant des cours dans le cadre de l'ubis, en participant à des rencontres et discussions spirituelles, en visitant des personnes âgées et isolées. en servant et en aimant!
 
@@ -72,7 +72,7 @@ Cette confiance et cette assurance dans les réalités éternelles et univer- se
 
 Un envol vers la liberté spirituelle et un engagement total à l'amour universel sans frontières ni préjugés, voilà ce que signifie pour moi le livre d'urantia, avec cette injonction de notre Maître christ Jésus imprimée dans mon âme:
 
-«Consacre ta vie à prouver que l'amour est la plus grande chose du monde.» [LU 192:2.1](/fr/The_Urantia_Book/192#p2_1)
+«Consacre ta vie à prouver que l'amour est la plus grande chose du monde.» <a id="a74_75"></a>[LU 192:2.1](/fr/The_Urantia_Book/192#p2_1)
 
 <figure class="table chapter-navigator">
   <table>

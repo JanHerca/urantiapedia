@@ -14,7 +14,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/George_Michelson_Dupont/Reunion_des_traducteurs_du_Livre_dURANTIA">
+        <a href="/fr/article/Georges_Michelson_Dupont/Reunion_des_traducteurs_du_Livre_dURANTIA">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion des traducteurs du Livre d’URANTIA organisée par la Fondation URANTIA à PARIS en Avril 1996</span>
         </a>
         </td>
@@ -31,6 +31,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 </figure>
 
 
+
 _Discours prononcé par Michael Hanian à la conférence de Nashville 1996_
 
 Chers amis, J'ai l'honneur de présenter un des thèmes de cette conférence, mais tout d'abord, j’aimerais vous faire mes excuses: le discours n'est pas vraiment mon point fort. J'espère que cette confession franche sera reçue avec sympathie et pitié. Après tout, une confession sincère adoucit la punition.
@@ -43,7 +44,7 @@ Avec toutes ses compensations et tous ses dangers, c'est par la curiosité — n
 
 Découvrir des choses est une méthode primitive pour faire référence à la connaissance. Tout d'abord, nous sommes curieux d'apprendre, et pour être capable d'extraire le savoir, on apprend à lire. Nous commençons par des contes de fée et progressons à la philosophie; nous débutons par des bandes dessinés et terminons par des volumes de 700 pages. Ou, si nous sommes chanceux, par le livre de 2196 pages.
 
-> <ins>Consécration</ins> : le dictionnaire de l'Académie Française nous indique que ce mot, apparu au XIIe siècle, est emprunté au latin consecratio qui veut dire : « action de consacrer aux dieux » Dans le _Livre d'URANTIA_ nous lisons page. « Elle (la volonté humaine) peut faire un don à Dieu — la consécration du libre arbitre à faire la volonté de Dieu. » [LU 112:0.10](/fr/The_Urantia_Book/112#p0_10)
+> <ins>Consécration</ins> : le dictionnaire de l'Académie Française nous indique que ce mot, apparu au XIIe siècle, est emprunté au latin consecratio qui veut dire : « action de consacrer aux dieux » Dans le _Livre d'URANTIA_ nous lisons page. « Elle (la volonté humaine) peut faire un don à Dieu — la consécration du libre arbitre à faire la volonté de Dieu. » <a id="a46_362"></a>[LU 112:0.10](/fr/The_Urantia_Book/112#p0_10)
 
 Nous comptons être parmi ces chanceux qui ont découvert ce livre de 2196 pages, le Liure d'URANTIA. Nous l'avons trouvé par notre curiosité. Mais la curiosité en elle-même n'est pas suffisante: elle nous a amené au livre, mais elle n'aurait pas pu nous y retenir. En fait, la curiosité est ce petit diable agité qui nous dit toujours: d'accord, vous en avez assez, maintenant il est temps de passer à autre chose. Et nous l'écoutons - comme nous faisons dans la plupart des cas. Mais pas cette fois-ci.
 
@@ -86,14 +87,16 @@ Laissez-moi répéter : une fois que nous plongeons dans le livre, on comprend q
 Nous nous sommes intéressés, les 20 et quelques dernière minutes, à la consécration La consécration est le premier pas vers notre transformation interne. Nous avons essayé de résoudre quelques-uns de ses mystères, ne rencontrant que peu de succès à cet égard, si ce n'est aucun ; nous avons souligné plusieurs liens : entre la consécration et la curiosité, entre le dévouement et la volonté, entre la consécration et la confiance. Tout ce que j'ai à ajouter est que la consécration au Livre d'URANTIA est souhaitable — et inévitable à long terme — pour tout ceux qui s'intéressent sincèrement au message de la Cinquième Révélation d'Époque.
 
 
-> « La religion primitive était largement une conscience des valeurs matérielles, mais la civilisation élève les valeurs religieuses, car la vraie religion est la consécration de soi au service des valeurs significatives et suprêmes. À mesure que la religion évolue, l'éthique devient la philosophie de la morale, et la moralité devient la discipline de soi par les critères des significations supérieures et des valeurs suprêmes — des idéaux divins et spirituels. La religion devient ainsi une dévotion spontanée et touchante, l'expérience vivante de la fidélité de l'amour. » [LU 92:7.5](/fr/The_Urantia_Book/92#p7_5)
+> « La religion primitive était largement une conscience des valeurs matérielles, mais la civilisation élève les valeurs religieuses, car la vraie religion est la consécration de soi au service des valeurs significatives et suprêmes. À mesure que la religion évolue, l'éthique devient la philosophie de la morale, et la moralité devient la discipline de soi par les critères des significations supérieures et des valeurs suprêmes — des idéaux divins et spirituels. La religion devient ainsi une dévotion spontanée et touchante, l'expérience vivante de la fidélité de l'amour. » <a id="a89_578"></a>[LU 92:7.5](/fr/The_Urantia_Book/92#p7_5)
+
+
 
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/George_Michelson_Dupont/Reunion_des_traducteurs_du_Livre_dURANTIA">
+        <a href="/fr/article/Georges_Michelson_Dupont/Reunion_des_traducteurs_du_Livre_dURANTIA">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion des traducteurs du Livre d’URANTIA organisée par la Fondation URANTIA à PARIS en Avril 1996</span>
         </a>
         </td>

@@ -34,7 +34,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 </figure>
 
 
-_C'est en lisant dans « Mighty Messenger » de l'été 2003, l'article intitulé « l'Incertitude dans la sécurité est l'essence de l'aventure du Paradis... » ([LU 111:7.1](/fr/The_Urantia_Book/111#p7_1)), que me sont venues ces quelques réflexions :_
+_C'est en lisant dans « Mighty Messenger » de l'été 2003, l'article intitulé « l'Incertitude dans la sécurité est l'essence de l'aventure du Paradis... » (<a id="a36_155"></a>[LU 111:7.1](/fr/The_Urantia_Book/111#p7_1)), que me sont venues ces quelques réflexions :_
 
 Au cours de la session d'été 2003 de la Fellowship, les participants avaient à étudier le sujet suivant : « La révélation et le croyant » et avaient ainsi l'opportunité d'approfondir le mystère de l'utilisation des sources humaines dans _Le Livre d'Urantia_. Matthew Block le pionnier des recherches à ce propos, a franchement fait part de ses expériences personnelles dans la prospection de douzaines de ces sources humaines. D'autres orateurs ont fait part de leurs conclusions à propos de ces recherches, et cela a été l'occasion de faire une véritable enquête sur toute la gamme des réactions intellectuelles et émotionnelles qu'occasionnèrent les discussions, ateliers et autres conférences, un voyage de l'âme aussi bien qu'une expédition intellectuelle.
 

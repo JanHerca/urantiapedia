@@ -48,7 +48,7 @@ Attention, le nombre de chambres étant limité, les réservations se feront au 
 
 Léquipe organisatrice.
 
-> Dans l'expérience de trouver le Père qui est aux cieux, on découvre que tous les hommes sont nos frères, et n'est-il pas naturel que l'on éprouve de la joie à rencontrer un frère récemment découvert? Lier connaissance avec ses frères et sæurs, connaitre leurs problèmes et apprendre à les aimer, c'est l'expérience suprême de la vie. » [[LU 130:2.6](/fr/The_Urantia_Book/130#p2_6)]
+> Dans l'expérience de trouver le Père qui est aux cieux, on découvre que tous les hommes sont nos frères, et n'est-il pas naturel que l'on éprouve de la joie à rencontrer un frère récemment découvert? Lier connaissance avec ses frères et sæurs, connaitre leurs problèmes et apprendre à les aimer, c'est l'expérience suprême de la vie. » <a id="a50_338"></a>[[LU 130:2.6](/fr/The_Urantia_Book/130#p2_6)]
 
 <figure class="table chapter-navigator">
   <table>

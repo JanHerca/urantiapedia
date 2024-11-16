@@ -50,13 +50,13 @@ Or, les choses ne se passent pas ainsi. La personnalité divine n'est pas « man
 
 La découverte de cette personnalité divine a été une des poursuites majeures de l'enfant puis du jeune homme.
 
-Ce n'est que vers 10 ans que Jésus prend conscience d'une mission spéciale qu'il doit remplir, mais il raisonne alors en tant que Fils de Dieu, habité par un Ajusteur, il ne se sait pas encore Fils Créateur. (cf : [LU 124:2.1](/fr/The_Urantia_Book/124#p2_1))
+Ce n'est que vers 10 ans que Jésus prend conscience d'une mission spéciale qu'il doit remplir, mais il raisonne alors en tant que Fils de Dieu, habité par un Ajusteur, il ne se sait pas encore Fils Créateur. (cf : <a id="a52_214"></a>[LU 124:2.1](/fr/The_Urantia_Book/124#p2_1))
 
-Le seul événement extraordinaire de sa vie d'enfant a lieu à 13 ans quand lui apparaît un messager d'Emmanuel qui lui dit: « L'heure est venue. Il est temps que tu commences à t'occuper des affaires de ton Père. » ([LU 124:6.15](/fr/The_Urantia_Book/124#p6_15))
+Le seul événement extraordinaire de sa vie d'enfant a lieu à 13 ans quand lui apparaît un messager d'Emmanuel qui lui dit: « L'heure est venue. Il est temps que tu commences à t'occuper des affaires de ton Père. » (<a id="a54_215"></a>[LU 124:6.15](/fr/The_Urantia_Book/124#p6_15))
 
 Dans sa quinzième année il ne sait toujours pas sous quelle forme il va devoir accomplir sa mission d'éducateur. Il adopte le titre de Fils de l'Homme. Il ne sait pas encore qu'il est Fils Créateur.
 
-A seize ans il pense entreprendre son ministère de vie publique comme maître de la vérité et révélateur du Père céleste au monde.([LU 127:1.7](/fr/The_Urantia_Book/127#p1_7)) Il ne sait toujours pas qu'il est Fils Créateur.
+A seize ans il pense entreprendre son ministère de vie publique comme maître de la vérité et révélateur du Père céleste au monde.(<a id="a58_130"></a>[LU 127:1.7](/fr/The_Urantia_Book/127#p1_7)) Il ne sait toujours pas qu'il est Fils Créateur.
 
 A dix-neuf ans, il ne parle à Rébecca qui voudrait bien l'avoir pour époux que de l'indécision de sa carrière de fils de la destinée.
 
@@ -64,17 +64,17 @@ Jésus ne connaît pas encore son statut de Fils Créateur.
 
 _Le Livre d'Urantia_ a une phrase qui caractérise la double nature dans l'expérience de Joshua.
 
-«_Il ne douta jamais de sa nature humaine; c'était l'évidence même, et il en avait toujours conscience. Quant à sa nature divine, il y avait toujours place pour le doute et les hypothèses; tout au moins cela resta vrai jusqu'à l'évènement survenu lors de son baptême._ ([LU 128:1.8](/fr/The_Urantia_Book/128#p1_8))
+«_Il ne douta jamais de sa nature humaine; c'était l'évidence même, et il en avait toujours conscience. Quant à sa nature divine, il y avait toujours place pour le doute et les hypothèses; tout au moins cela resta vrai jusqu'à l'évènement survenu lors de son baptême._ (<a id="a66_270"></a>[LU 128:1.8](/fr/The_Urantia_Book/128#p1_8))
 
 Ainsi, on pourrait croire qu'il ne reconnut sa nature de Fils Créateur qu'au moment de son baptême. Il n'en n'est rien.
 
-Il est probable que sa conscience d'être le Père de Nébadon est venue progressivement à travers la perception de ses potentialités. On nous dit qu'à sa vingt-sixième année: _Jésus devint profondément conscient de posséder un pouvoir potentiel très étendu. Il était également tout à fait persuadé que ce pouvoir ne devait pas être employé par sa personnalité en tant que Fils de l'Homme, tout au moins avant que son heure fut venue._ ([LU 128:7.1](/fr/The_Urantia_Book/128#p7_1))
+Il est probable que sa conscience d'être le Père de Nébadon est venue progressivement à travers la perception de ses potentialités. On nous dit qu'à sa vingt-sixième année: _Jésus devint profondément conscient de posséder un pouvoir potentiel très étendu. Il était également tout à fait persuadé que ce pouvoir ne devait pas être employé par sa personnalité en tant que Fils de l'Homme, tout au moins avant que son heure fut venue._ (<a id="a70_434"></a>[LU 128:7.1](/fr/The_Urantia_Book/128#p7_1))
 
-Lors de la vingt-septième année _Jésus fit de grands progrès dans la maîtrise ascendante de son mental humain..._([LU 129:1.14](/fr/The_Urantia_Book/129#p1_14))
+Lors de la vingt-septième année _Jésus fit de grands progrès dans la maîtrise ascendante de son mental humain..._(<a id="a72_114"></a>[LU 129:1.14](/fr/The_Urantia_Book/129#p1_14))
 
-Enfin, nous sommes informés que c'est à la fin de son périple méditerranéen qu'il savait -en toute certitude humaine- qu'_il était un Fils de Dieu, un Fils Créateur du Père Universel._ ([LU 129:3.9](/fr/The_Urantia_Book/129#p3_9))
+Enfin, nous sommes informés que c'est à la fin de son périple méditerranéen qu'il savait -en toute certitude humaine- qu'_il était un Fils de Dieu, un Fils Créateur du Père Universel._ (<a id="a74_186"></a>[LU 129:3.9](/fr/The_Urantia_Book/129#p3_9))
 
-Toutefois la preuve de cette certitude ne nous est donnée que lors du séjour sur le mont Hermon où Jésus s'adresse à Satan et Caligastia, représentant Lucifer, en disant : _Puisse la volonté de Père du Paradis prévaloir et, quant à toi, mon fils rebelle, que les Anciens des Jours te jugent divinement. Je suis ton Créateur-Père..._ ([LU 134:8.7](/fr/The_Urantia_Book/134#p8_7))
+Toutefois la preuve de cette certitude ne nous est donnée que lors du séjour sur le mont Hermon où Jésus s'adresse à Satan et Caligastia, représentant Lucifer, en disant : _Puisse la volonté de Père du Paradis prévaloir et, quant à toi, mon fils rebelle, que les Anciens des Jours te jugent divinement. Je suis ton Créateur-Père..._ (<a id="a76_334"></a>[LU 134:8.7](/fr/The_Urantia_Book/134#p8_7))
 
 A la suite de la vision et de l'audition de son baptème, Jésus, maintenant totalement conscient de ses potentiels doit choisir au plus vite de ne pas utiliser sa nature divine et c'est ce qu'il fait au cours des 40 jours passés dans les collines au nord de Pella. Ce non-usage de sa force divine ira jusqu'à accepter la mort sur la croix.
 

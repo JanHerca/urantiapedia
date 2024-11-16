@@ -63,7 +63,7 @@ Finalement, j'ai trouvé dans le service désintéressé un sens utile à ma vie
 
 ## Par quelle technique cette révélation a-telle été transmise?
 
-Cette légitime question, beaucoup de lecteurs se la posent mais elle ne trouvera peut-être jamais de réponse complète. Néanmoins le Livre d'Urantia lui-même apporte quelques détails sur le modus operandi de la transmission et le lecteur attentif aura remarqué les paragraphes suivants : [LU 110:5.7](/fr/The_Urantia_Book/110#p5_7); [LU 113:2.6](/fr/The_Urantia_Book/113#p2_6); [LU 113:2.7](/fr/The_Urantia_Book/113#p2_7); [LU 114:7.9](/fr/The_Urantia_Book/114#p7_9).
+Cette légitime question, beaucoup de lecteurs se la posent mais elle ne trouvera peut-être jamais de réponse complète. Néanmoins le Livre d'Urantia lui-même apporte quelques détails sur le modus operandi de la transmission et le lecteur attentif aura remarqué les paragraphes suivants : <a id="a65_287"></a>[LU 110:5.7](/fr/The_Urantia_Book/110#p5_7); <a id="a65_332"></a>[LU 113:2.6](/fr/The_Urantia_Book/113#p2_6); <a id="a65_377"></a>[LU 113:2.7](/fr/The_Urantia_Book/113#p2_7); <a id="a65_422"></a>[LU 114:7.9](/fr/The_Urantia_Book/114#p7_9).
 
 Dans son appendice de _The Mind at Mischief_, [Funk \& Wagnalls Company 1929], le Docteur William S. Sadler témoigne de ce qu'il a observé en ces termes :
 
@@ -88,7 +88,7 @@ Depuis 1955, du chemin a été parcouru ; quelque 15 traductions ont été faite
 
 La religion est une expérience personnelle qui se déroule dans notre vie intérieure en présence de Dieu. En effectuant les ajustements de notre volonté et les transformations dans notre mental elle doit nécessairement mener au service de notre prochain et produire les fruits sociaux.
 
-> « Avec Dieu le Père, la grande relation est la filiation. Avec Dieu le Suprême, l'accomplissement est la condition préalable au statut — il faut faire quelque chose aussi bien qu'être quelque chose. » [[LU 115:0.1](/fr/The_Urantia_Book/115#p0_1)]
+> « Avec Dieu le Père, la grande relation est la filiation. Avec Dieu le Suprême, l'accomplissement est la condition préalable au statut — il faut faire quelque chose aussi bien qu'être quelque chose. » <a id="a90_203"></a>[[LU 115:0.1](/fr/The_Urantia_Book/115#p0_1)]
 
 À l'instar de Jésus donnant ses derniers conseils aux apôtres pour la suite de la mission de la quatrième révélation, les révélateurs nous ont donné des conseils que l'on peut retrouver dans le [Mandat de Publication](/fr/article/The_Publication_Mandate) sur le lien suivant :
 
@@ -110,7 +110,7 @@ Les enseignants du _livre d'Urantia_ doivent étudier avec attention l'enseignem
 
 Enfin, l'étude des enseignements du _Livre d'Urantia_ peut s'avérer difficile pour certains, les groupes d'études sont la réponse appropriée. L'ancien ordre religieux se rassemble dans des églises, des mosquées, des temples des synagogues pour écouter la bonne parole. Les lecteurs du _livre d'Urantia_ se rassemblent dans des groupes d'étude animés par un enseignant, une personne-ressource, pour étudier ensemble, partager leur vie spirituelle et créer la dynamique de la vraie fraternité.
 
-> « Au commencement, le Père fait tout ; mais, à mesure que le panorama de l'éternité se déroule en réponse à la volonté et aux commandements de l'Infini, il ressort de plus en plus que les créatures, même les hommes, doivent devenir des partenaires de Dieu pour réaliser la finalité de la destinée. Et ceci est vrai même dans la vie dans la chair ; quand l'homme et Dieu entrent en association, on ne peut assigner aucune limite aux possibilités futures de cette association. Quand l'homme se rend compte que le Père Universel est son partenaire dans la progression éternelle, quand il fusionne avec la présence intérieure du Père, il a rompu, en esprit, les entraves du temps et il est déjà entré dans les progressions de l'éternité, à la recherche du Père Universel. » [[LU 118:5.2](/fr/The_Urantia_Book/118#p5_2)]
+> « Au commencement, le Père fait tout ; mais, à mesure que le panorama de l'éternité se déroule en réponse à la volonté et aux commandements de l'Infini, il ressort de plus en plus que les créatures, même les hommes, doivent devenir des partenaires de Dieu pour réaliser la finalité de la destinée. Et ceci est vrai même dans la vie dans la chair ; quand l'homme et Dieu entrent en association, on ne peut assigner aucune limite aux possibilités futures de cette association. Quand l'homme se rend compte que le Père Universel est son partenaire dans la progression éternelle, quand il fusionne avec la présence intérieure du Père, il a rompu, en esprit, les entraves du temps et il est déjà entré dans les progressions de l'éternité, à la recherche du Père Universel. » <a id="a112_772"></a>[[LU 118:5.2](/fr/The_Urantia_Book/118#p5_2)]
 
 _Georges Michelson-Dupont. Recloses_
 

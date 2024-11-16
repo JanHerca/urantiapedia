@@ -50,7 +50,7 @@ ont abouti à des découvertes étonnantes, en révélant en même temps une dim
 
 Une autre constatation étrange c'est que ce Ministre français de la Culture (1959-1969) prévoyait clairement le déclin du matérialisme et des religions institutionnelles et dogmatiques à partir du XXIº siècle. Et cela, toutefois, non sans avoir prévu une transition regrettable selon lui, c'est à dire la remontée d'intégrismes retardataires religieux.
 
-Mettons cela en corrélation avec cette affirmation du [LU 195:9.3](/fr/The_Urantia_Book/195#p9_3): « _Urantia frémit actuellement au bord même d'une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d'illumination spirituelle._ »
+Mettons cela en corrélation avec cette affirmation du <a id="a52_54"></a>[LU 195:9.3](/fr/The_Urantia_Book/195#p9_3): « _Urantia frémit actuellement au bord même d'une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d'illumination spirituelle._ »
 
 Les deux particularités de la vie mentale de cet homme illustre, nous ont incité à fouiller plus profondément ses idées sur l'Au-delà.
 

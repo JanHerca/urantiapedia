@@ -58,7 +58,7 @@ Je garde l'espoir que le mot « agondontaire » s'applique à tout ceux qui, pri
 
 Tant pis peut-être pour la carrière de Puissant Messager!Mais en tout cas, c'est sûr!Je vais faire ce que je peux pour me faire embrasser par la Trinité du Paradis. Que choisiriez-vous à ma place ? Élevé en Autorité ou Dépourvu de Nom et de Nombre ?
 
-> « _Vous autres mortels qui lisez ce message, vous pouvez vous-même monter au Paradis, atteindre l'embrassement de la Trinité et, dans des âges lointains du futur, être attachés au service des Anciens des Jours dans l'un des sept superunivers._ » [LU 22:4.7](/fr/The_Urantia_Book/22#p4_7)
+> « _Vous autres mortels qui lisez ce message, vous pouvez vous-même monter au Paradis, atteindre l'embrassement de la Trinité et, dans des âges lointains du futur, être attachés au service des Anciens des Jours dans l'un des sept superunivers._ » <a id="a60_248"></a>[LU 22:4.7](/fr/The_Urantia_Book/22#p4_7)
 
 Jean-Claude Romeuf
 

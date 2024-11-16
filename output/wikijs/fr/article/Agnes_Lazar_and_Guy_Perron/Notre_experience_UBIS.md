@@ -54,7 +54,7 @@ En janvier 2023, la deuxième partie de la trilogie a été offerte. Tout au lon
 
 > L'EXPÉRIENCE d'une vie religieuse dynamique transforme un individu médiocre en une personnalité douée d'un pouvoir idéaliste. La religion contribue au progrès de tous en encourageant le progrès de chaque individu, et le progrès de chacun est accru par l'accomplissement de tous.
 > 
-> La croissance spirituelle est mutuellement stimulée par l'association intime avec d'autres religionistes. L'amour fournit le terrain du développement religieux — un attrait objectif au lieu d'une satisfaction subjective — et, cependant, il donne la satisfaction subjective suprême. La religion ennoblit les corvées banales de la vie quotidienne. [LU 100:0.1-2](/fr/The_Urantia_Book/100#p0_1)
+> La croissance spirituelle est mutuellement stimulée par l'association intime avec d'autres religionistes. L'amour fournit le terrain du développement religieux — un attrait objectif au lieu d'une satisfaction subjective — et, cependant, il donne la satisfaction subjective suprême. La religion ennoblit les corvées banales de la vie quotidienne. <a id="a56_348"></a>[LU 100:0.1-2](/fr/The_Urantia_Book/100#p0_1)
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/125.jpg">

@@ -14,7 +14,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/George_Michelson_Dupont/La_justice_americaine_en_faveur_du_copyright">
+        <a href="/fr/article/Georges_Michelson_Dupont/La_justice_americaine_en_faveur_du_copyright">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La justice americaine se prononce en appel en faveur du copyright</span>
         </a>
         </td>
@@ -32,6 +32,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
     </tbody>
   </table>
 </figure>
+
 
 
 Est-ce qu'il y a une survie après la mort ?
@@ -65,12 +66,14 @@ L'esprit qui imprègne les spectateurs entourant l'être cher sur le point de pa
 
 Luc Lachance
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/George_Michelson_Dupont/La_justice_americaine_en_faveur_du_copyright">
+        <a href="/fr/article/Georges_Michelson_Dupont/La_justice_americaine_en_faveur_du_copyright">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La justice americaine se prononce en appel en faveur du copyright</span>
         </a>
         </td>

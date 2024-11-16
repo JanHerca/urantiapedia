@@ -48,7 +48,7 @@ _Les remarques personnelles sont par définition subjectives, nombre de lecteurs
 > _(6) Et ne nous laisse pas errer dans les mauvaises voies détournées de notre imagination._
 > _(7) Car à toi appartiennent la glorieuse présence intérieure, le pouvoir éternel._
 > _(8) Et à nous le don éternel de l'amour infini de ton Fils._
-> _(9) Ainsi soit-il en vérité éternelle._ [LU 144:5.2-10](/fr/The_Urantia_Book/144#p5_2)
+> _(9) Ainsi soit-il en vérité éternelle._ <a id="a50_43"></a>[LU 144:5.2-10](/fr/The_Urantia_Book/144#p5_2)
 
 En (1), « _les royaumes de l'univers_ » indiquent bien qu'il s'agit d'une prière venant d'une planète qui est au courant des multiples sphères évolutionnaires peuplant les univers. Le terme « _Notre Père_ » est une indication commune à la plupart des planètes évolutionnaires de Nébadon.
 
@@ -76,7 +76,7 @@ En (9), «_...la vérité éternelle_ » Que la vérité éternelle soit révél
 > _(8) Sois patient avec nous, De même que nous témoignons une bienveillance affectueuse à notre prochain._
 > _(9) (10)Conduis-nous de ta propre main, pas à pas, dans le dédale incertain de la vie,_
 > _(11) Et, quand viendra notre fin, reçois dans ton sein nos esprits fidèles._
-> _(12) Ainsi soit-il, que ta volonté soit faite, et non nos désirs._ [LU 144:5.12-24](/fr/The_Urantia_Book/144#p5_12)
+> _(12) Ainsi soit-il, que ta volonté soit faite, et non nos désirs._ <a id="a78_70"></a>[LU 144:5.12-24](/fr/The_Urantia_Book/144#p5_12)
 
 En (1), Il y a d'abord une indication de filiation assez inhabituelle dans « Parent créateur », puis une suggestion de position du Père au centre de toutes choses, cela dénote sans doute une connaissance de la « géographie » physique, mentale et spirituelle de l'univers.
 
@@ -101,7 +101,7 @@ En (7), (8), (9), (10), (11) et (12), nous trouvons une ressemblance avec une de
 > _(9) Guide-nous toujours plus haut dans le sentier de lumière ;_
 > _(10 )Justifie-nous pleinement au jour du grand jugement._
 > _(11 )Rends-nous semblables à toi en gloire éternelle_
-> _(12 )Et reçois-nous à perpétuité dans ton service exalté._ [LU 144:5.26-37](/fr/The_Urantia_Book/144#p5_26)
+> _(12 )Et reçois-nous à perpétuité dans ton service exalté._ <a id="a103_62"></a>[LU 144:5.26-37](/fr/The_Urantia_Book/144#p5_26)
 
 En (1), les termes « _parfait_ » et « _juste_ » dénotent une connaissance particulière du Père. En (2), « _notre voyage_ » implique une connaissance cosmique au sens « géographique » physique et spirituel de la carrière ascendante d'un mortel vers le Paradis.
 
@@ -139,13 +139,13 @@ En (12), le service exalté dans l'éternité, est l'activité présente et pote
 > _(12). Sois heureux de nous rendre de plus en plus semblables à toi._
 > _(13). A la fin, pour l'amour du divin Fils,_
 > _(14). Reçois-nous dans les bras éternels._
-> _(15). Ainsi soit-il, que ta volonté soit faite, et non la nôtre._ [LU 144:5.39-53](/fr/The_Urantia_Book/144#p5_39)
+> _(15). Ainsi soit-il, que ta volonté soit faite, et non la nôtre._ <a id="a141_69"></a>[LU 144:5.39-53](/fr/The_Urantia_Book/144#p5_39)
 
-En (1), forme inhabituelle d'appellation, le mot mystère dénote un concept différent du notre, qui implique une connaissance du Père qui révèle une avancée qui ne fait que confirmer le mystère qui entoure le Père et qui est de plus en plus épais à mesure que nous avançons vers Lui. Cette notion est bien expliquée dans _Le Livre d'Urantia_. (Voir [[LU 8:2.5](/fr/The_Urantia_Book/8#p2_5)], [[LU 12:7.12](/fr/The_Urantia_Book/12#p7_12)] et [[LU 1:4.1](/fr/The_Urantia_Book/1#p4_1)])
+En (1), forme inhabituelle d'appellation, le mot mystère dénote un concept différent du notre, qui implique une connaissance du Père qui révèle une avancée qui ne fait que confirmer le mystère qui entoure le Père et qui est de plus en plus épais à mesure que nous avançons vers Lui. Cette notion est bien expliquée dans _Le Livre d'Urantia_. (Voir <a id="a143_348"></a>[[LU 8:2.5](/fr/The_Urantia_Book/8#p2_5)], <a id="a143_391"></a>[[LU 12:7.12](/fr/The_Urantia_Book/12#p7_12)] et <a id="a143_440"></a>[[LU 1:4.1](/fr/The_Urantia_Book/1#p4_1)])
 
 En (2), cette demande de révéler son saint caractère peut nous sembler un peu osée, mais il ne faut pas oublier que c'est Jésus lui-même qui nous offre cette prière, nous livre cet aspect de la filiation avec le Père, et nous donne cet avantage énorme de pouvoir tout lui demander.
 
-En (3 et 4), que le Père nous donne la faculté de discerner le chemin (la voie évolutionnaire qui passe par les Fils Créateurs, Jésus à dit : « _Je suis le chemin_ ».) Rapprocher cette lumière de la phrase suivante du Livre d’Urantia : [[LU 3:1.3](/fr/The_Urantia_Book/3#p1_3)] La présence du Père sillonne sans cesse le maître univers. « _Il sort du bout des cieux et circule jusqu'à leurs extrémités, et il n'y a rien de caché à sa lumière._ »
+En (3 et 4), que le Père nous donne la faculté de discerner le chemin (la voie évolutionnaire qui passe par les Fils Créateurs, Jésus à dit : « _Je suis le chemin_ ».) Rapprocher cette lumière de la phrase suivante du Livre d’Urantia : <a id="a147_236"></a>[[LU 3:1.3](/fr/The_Urantia_Book/3#p1_3)] La présence du Père sillonne sans cesse le maître univers. « _Il sort du bout des cieux et circule jusqu'à leurs extrémités, et il n'y a rien de caché à sa lumière._ »
 
 En (5 et 6), « _le sentier du progrès éternel_ » a sans doute la même signification que celle du « _chemin_ », mais doit ajouter une part de décision et d'attention.
 
@@ -178,7 +178,7 @@ En (15), nous trouvons une formule qui nous est familière et nous montre bien q
 > _15. Et, quand notre carrière sera achevée, fais d'elle un honneur pour ton nom,_
 > _16. Un plaisir pour ton esprit de bonté et une satisfaction pour ceux qui soutiennent notre âme._
 > _17. Que le bien éternel de tes enfants mortels ne soit pas celui que nous souhaitons, Ô notre Père aimant, mais celui que tu désires._
-> _18. Ainsi soit-il._ [LU 144:5.55-72](/fr/The_Urantia_Book/144#p5_55)
+> _18. Ainsi soit-il._ <a id="a180_23"></a>[LU 144:5.55-72](/fr/The_Urantia_Book/144#p5_55)
 
 En (1) et (2), l'association Père Mère fait allusion au Père Universel et à l'Esprit Infini ou à notre Fils Créateur, Micaël de Nébadon, et notre Divine Ministre, unifiés en une seule Déité. Cela ne change pas grand chose pour l'efficacité de la prière, mais démontre que celui qui fait la prière est bien au courant des affaires de l'univers et de sa hiérarchie. Être fidèle à la nature divine de cette Déité unifiée est tout autre chose, je ne suis pas sur sûr que nous comprenions bien sa véritable signification. Cela fait sans doute allusion au Moniteur de Mystère.
 
@@ -212,7 +212,7 @@ En (3 et 4), nous pensons que l'effusion de l'esprit divin fait allusion au Moni
 > _10. Reçois-nous près de toi et envoie-nous dans l'éternité._
 > _11. Cœuronne-nous des diadèmes célestes du service fructueux,_
 > _12. Et nous glorifierons le Père, le Fils et la Sainte Influence._
-> _13. Ainsi soit-il, dans tout un univers sans fin._ [LU 144:5.74-86](/fr/The_Urantia_Book/144#p5_74)
+> _13. Ainsi soit-il, dans tout un univers sans fin._ <a id="a214_54"></a>[LU 144:5.74-86](/fr/The_Urantia_Book/144#p5_74)
 
 (1) et (2) : il s'agit ici de la Source-Centre Première, le Père Universel qui est la source de toutes choses. Le Fils plein de grâce est ici la Source Centre Seconde, la personnalité et la spiritualité absolue. absolues (Manifestement cette prière est faite par une personne connaissant bien les rôles des différentes Sources Centres.)
 
@@ -249,11 +249,11 @@ En (3 et 4), nous pensons que l'effusion de l'esprit divin fait allusion au Moni
 > _17. Rends-nous toujours de plus en plus semblables à toi-même,_
 > _18. Et, lors de notre fin, reçois-nous dans l'embrassement éternel du Paradis._
 > _19. Ainsi soit-il, au nom du Fils d'effusion_
-> _20. Et pour l'honneur et la gloire du Père Suprême._ [LU 144:5.88-107](/fr/The_Urantia_Book/144#p5_88)
+> _20. Et pour l'honneur et la gloire du Père Suprême._ <a id="a251_56"></a>[LU 144:5.88-107](/fr/The_Urantia_Book/144#p5_88)
 
 (1) Les habitations du Père, sont aussi bien tous les univers, que la demeure centrale du Paradis. Nos Nous supposons que c'est une formule figurative.
 
-(2) « Que ton nom soit honoré» est une formule connue sur Urantia. Elle signifie simplement que le nom du Père soit non seulement respecté, mais aimé et adoré. « Ta miséricorde révérée » nous indique une connaissance de la signification de la miséricorde telle qu'elle est révélée dans Le Livre d'Urantia ([LU 2:4.1](/fr/The_Urantia_Book/2#p4_1) La miséricorde est simplement la justice tempérée par ce type de sagesse qui résulte de la parfaite connaissance et de la complète reconnaissance de la faiblesse naturelle des créatures finies et des handicaps dus à leur environnement.) « Ton jugement respecté» est la reconnaissance du jugement divin, sans autre forme de récrimination, car nous reconnaissons au fond de nous-mêmes le ou les jugements tels qu'ils sont décrétés par le Père.
+(2) « Que ton nom soit honoré» est une formule connue sur Urantia. Elle signifie simplement que le nom du Père soit non seulement respecté, mais aimé et adoré. « Ta miséricorde révérée » nous indique une connaissance de la signification de la miséricorde telle qu'elle est révélée dans Le Livre d'Urantia (<a id="a255_306"></a>[LU 2:4.1](/fr/The_Urantia_Book/2#p4_1) La miséricorde est simplement la justice tempérée par ce type de sagesse qui résulte de la parfaite connaissance et de la complète reconnaissance de la faiblesse naturelle des créatures finies et des handicaps dus à leur environnement.) « Ton jugement respecté» est la reconnaissance du jugement divin, sans autre forme de récrimination, car nous reconnaissons au fond de nous-mêmes le ou les jugements tels qu'ils sont décrétés par le Père.
 
 (3) et (4) Nous prions pour que le Père guide nos pas non seulement lorsque nous pensons à Lui, mais aussi lorsque nous ne pensons pas à Lui, c'est-à-dire d'une manière inconsciente. (5) et (6) Que nous ne nous égarions pas dans des voies qui nous semblent plus adéquates et rapides, mais que nous suivions tes conseils sans rechigner. Mais que ta présence en nous se fasse sentir lorsque les épreuves sont difficiles à supporter.
 
@@ -275,7 +275,7 @@ En (3 et 4), nous pensons que l'effusion de l'esprit divin fait allusion au Moni
 
 (20) Cette action de grâce est la reconnaissance de la victoire inévitable du Père sur tous nos défauts.
 
-> Pendant que vous apprenez à penser en hommes, vous devriez aussi apprendre à prier comme des enfants. [LU 48:6.32](/fr/The_Urantia_Book/48#p6_32)
+> Pendant que vous apprenez à penser en hommes, vous devriez aussi apprendre à prier comme des enfants. <a id="a277_104"></a>[LU 48:6.32](/fr/The_Urantia_Book/48#p6_32)
 
 CMR
 

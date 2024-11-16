@@ -155,7 +155,7 @@ Nous faisons partie à part entière de ces univers en mouvement, sans nous, ils
 
 > **DIEU est unité**. La Déité est universellement coordonnée. L'univers des univers est un vaste mécanisme intégré qui est absolument contrôlé par un seul mental infini. Les domaines physiques, intellectuels et spirituels de la création universelle sont divinement reliés. Le parfait et l'imparfait sont vraiment en corrélation, et c'est pourquoi les créatures évolutionnaires finies peuvent s'élever au Paradis en obéissant au commandement du Père Universel :
 > 
-> « **Soyez parfaits comme moi-même je suis parfait**. » ([LU 56:0.1](/fr/The_Urantia_Book/56#p0_1))
+> « **Soyez parfaits comme moi-même je suis parfait**. » (<a id="a157_58"></a>[LU 56:0.1](/fr/The_Urantia_Book/56#p0_1))
 
 Je conclus par des citations: « l'argumentation pour défendre une thèse estinversement proportionnelle à la vérité contenue dans cette thèse ».: « Le temps est le courant du flot des évènements perçus par la conscience humaine, c'est parce que le temps s'écoule qu'on peut les séparer, les comprendre, les vivre (Jésus) ».
 

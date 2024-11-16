@@ -37,7 +37,7 @@ dateCreated: 2024-11-6T12:40:15Z
 > « La création évolutionnaire de cette âme immortelle résulte de trois facteurs, et non de deux. Ces trois antécédents de l'âme morontielle humaine sont les suivants:
 > « 1. Le mental humain et toutes les influences cosmiques qui le précèdent et qui agissent sur lui.
 > « 2. L'esprit divin qui habite ce mental humain et tous les potentiels inhérents à un tel fragment de spiritualité absolue, ainsi que toutes les influences et tous les facteurs spirituels qui lui sont associés dans la vie humaine.
-> « 3. La relation entre le mental matériel et l'esprit divin, qui dénote une valeur et comporte une signification ne se trouvant dans aucun des deux facteurs de cette association. La réalité de cette relation unique n'est ni matérielle ni spirituelle, mais morontielle. C'est l'âme. » [LU 111:2.4-7](/fr/The_Urantia_Book/111#p2_4)
+> « 3. La relation entre le mental matériel et l'esprit divin, qui dénote une valeur et comporte une signification ne se trouvant dans aucun des deux facteurs de cette association. La réalité de cette relation unique n'est ni matérielle ni spirituelle, mais morontielle. C'est l'âme. » <a id="a39_286"></a>[LU 111:2.4-7](/fr/The_Urantia_Book/111#p2_4)
 
 Pour illustrer cette idée que notre développement intérieur dépend d'un apport supérieur à notre mental et de notre relation avec lui, je vous propose ce conte populaire :
 

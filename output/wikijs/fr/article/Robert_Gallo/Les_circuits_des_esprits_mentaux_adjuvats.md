@@ -34,7 +34,7 @@ dateCreated: 2024-10-27T10:7:29Z
 </figure>
 
 
-Dans _Le livre d'Urantia_ nous pouvons lire: « C'est la présence des sept esprits-mentaux adjuvats sur les mondes primitifs qui conditionne le cours de l'évolution organique; cela explique pourquoi l'évolution est **préméditée et non accidentelle** » ( [LU 36:5.1](/fr/The_Urantia_Book/36#p5_1) ).
+Dans _Le livre d'Urantia_ nous pouvons lire: « C'est la présence des sept esprits-mentaux adjuvats sur les mondes primitifs qui conditionne le cours de l'évolution organique; cela explique pourquoi l'évolution est **préméditée et non accidentelle** » ( <a id="a36_253"></a>[LU 36:5.1](/fr/The_Urantia_Book/36#p5_1) ).
 
 Tout est dit, le vivant est connecté à une sorte de « cloud » qui le guide et le conditionne. Des trilobites aux mammifères, le programme était écrit...
 

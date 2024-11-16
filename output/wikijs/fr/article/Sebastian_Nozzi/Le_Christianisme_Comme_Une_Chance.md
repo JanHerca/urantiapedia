@@ -171,7 +171,7 @@ Et les révélateurs rendirent cela clair comme de l’au de roche avec leur der
 
 Le christianisme fut hellénisé, paganisé et ritualisé parce que ces influences (la culture hellénique, les rituels paiens) existaient et étaient fortes. Les gens y répondaient, _avaient besoin_ d'elles, les souhaitaient, même pour les siècles à venir. C'étaient des pas nécessaires dans notre progression religieuse. Les compromis du christianisme avec ces forces existantes étaient nécessaires pour assurer son adoption. (Et nous savons tous ce qu'il advint de l'église « sans compromis » d'Abner à Philadelphie.)
 
-Mais même avec ses nombreux « compromis », le christianisme est décrit par _Le Livre d'Urantia_ comme « la meilleure des religions du vingtième siècle » ([LU 195:9.8](/fr/The_Urantia_Book/195#p9_8)) et celui-ci nous dit que « le christianisme (...) ne doit pas être méprisé » ([LU 195:10.12](/fr/The_Urantia_Book/195#p10_12)).
+Mais même avec ses nombreux « compromis », le christianisme est décrit par _Le Livre d'Urantia_ comme « la meilleure des religions du vingtième siècle » (<a id="a173_154"></a>[LU 195:9.8](/fr/The_Urantia_Book/195#p9_8)) et celui-ci nous dit que « le christianisme (...) ne doit pas être méprisé » (<a id="a173_277"></a>[LU 195:10.12](/fr/The_Urantia_Book/195#p10_12)).
 
 Le christianisme est, n'oublions pas, le contexte dans lequel _Le Livre d'Urantia_ fut révélé. Le christianisme est pour la révélation du _Livre d'Urantia_ ce que le judaïsme fut pour l'effusion, la vie et les enseignements de Jésus. Ses apôtres et disciples étaient des juifs ouverts d'esprit et chercheurs de vérité. De la même manière, _Le Livre d'Urantia_ fut révélé à un groupe de chrétiens ouverts d'esprit cherchant la vérité, approfondissant la théologie chrétienne, dans une nation dite « chrétienne ».
 
@@ -187,7 +187,7 @@ Que s'est-il produit ? Et que devrions-nous faire ?
 
 Le fascicule 195 « Après Pentecôte » est peutêtre mon fascicule préféré. Je le trouve fascinant, parce qu'il fait un pont entre l'époque de Jésus et la nôtre, nous aidant à mieux comprendre notre situation.
 
-_Le Livre d'Urantia_ nous dit que l'homme moderne rejettera une religion qui n'est pas en harmonie avec nos plus hautes conceptions actuelles de la vérité, de la bonté et de la beauté (fascicule [LU 195:7.20](/fr/The_Urantia_Book/195#p7_20) ). Ici, le christianisme ne semble pas à la hauteur pour beaucoup de gens, ceux qui quittent l'église.
+_Le Livre d'Urantia_ nous dit que l'homme moderne rejettera une religion qui n'est pas en harmonie avec nos plus hautes conceptions actuelles de la vérité, de la bonté et de la beauté (fascicule <a id="a189_195"></a>[LU 195:7.20](/fr/The_Urantia_Book/195#p7_20) ). Ici, le christianisme ne semble pas à la hauteur pour beaucoup de gens, ceux qui quittent l'église.
 
 Alors, cela signifie que c'est à notre tour ? Nous sortons dans les rues et commençons à évangéliser tout le monde avec _Le Livre d'Urantia_. Nous faisons de la publicité à la télévision et ainsi de suite ?
 
@@ -229,7 +229,7 @@ En contraste avec la progression de groupe ou de la société (qui est souvent l
 
 Et de nouveau, il nous suffit de regarder Jésus pour savoir comment le faire. Mon exemple favori est la manière avec laquelle il a préparé les enseignants religieux à Rome. Permettez-moi de lire :
 
-> « Il ne s'attaqua pas une seule fois à leurs erreurs et ne mentionna même jamais les défauts de leurs enseignements. Dans chaque cas il choisissait la part de vérité dans leurs leçons, et ensuite, il entreprenait d'embellir et d'éclairer cette vérité dans leur mental de telle sorte qu'en très peu de temps, ce rehaussement de la vérité chassait efficacement l'erreur antérieure. C'est ainsi que ces hommes et ces femmes enseignés par Jésus furent préparés à reconnaitre ultérieurement des vérités additionnelles et similaires dans les enseignements des premiers missionnaires chrétiens. » ([LU 132:0.4](/fr/The_Urantia_Book/132#p0_4))
+> « Il ne s'attaqua pas une seule fois à leurs erreurs et ne mentionna même jamais les défauts de leurs enseignements. Dans chaque cas il choisissait la part de vérité dans leurs leçons, et ensuite, il entreprenait d'embellir et d'éclairer cette vérité dans leur mental de telle sorte qu'en très peu de temps, ce rehaussement de la vérité chassait efficacement l'erreur antérieure. C'est ainsi que ces hommes et ces femmes enseignés par Jésus furent préparés à reconnaitre ultérieurement des vérités additionnelles et similaires dans les enseignements des premiers missionnaires chrétiens. » (<a id="a231_593"></a>[LU 132:0.4](/fr/The_Urantia_Book/132#p0_4))
 
 Un autre beau passage de la vie de Jésus, qui illustre ce point, est son explication à Simon le Zélote après léchec de sa relation avec Téherma, le perse. Il dit à Simon que l'on ne devrait pas « retirer » quelque chose de l'âme des personnes mais y faire « pénétrer » quelque chose. Ce qui est précisément ce qu'il fit avec les dirigeants religieux romains. Il ne leur disait pas ce qu'ils ne devaient PAS croire. **Il mettait en valeur ce qui était déjà là.**
 
@@ -243,7 +243,7 @@ S'entrainer d'abord à devenir des maitres dans la _lecture_ des gens. Découvri
 
 Jésus parle de cela quand il demande :
 
-> « Avez-vous aujourd'hui plus de ressources qu'hier pour révéler la bonté à l'humanité ? Pouvez-vous mieux recommander la droiture cette année que l'an dernier ? Votre technique pour conduire les âmes affamées dans le royaume spirituel devient-elle de plus en plus un art ? » [LU 156:5.15](/fr/The_Urantia_Book/156#p5_15)
+> « Avez-vous aujourd'hui plus de ressources qu'hier pour révéler la bonté à l'humanité ? Pouvez-vous mieux recommander la droiture cette année que l'an dernier ? Votre technique pour conduire les âmes affamées dans le royaume spirituel devient-elle de plus en plus un art ? » <a id="a245_277"></a>[LU 156:5.15](/fr/The_Urantia_Book/156#p5_15)
 
 Et ce travail, ce ministère, peut être fait aussi bien <ins>à l'intérieur qu'à l'extérieur</ins> du christianisme.
 

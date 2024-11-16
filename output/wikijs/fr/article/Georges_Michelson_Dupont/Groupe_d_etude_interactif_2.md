@@ -61,39 +61,39 @@ Bien qu'il ne soit pas possible dans le cadre de cette étude d'envisager en dé
 
 Tous ces dons divins ne peuvent que nous inciter à consacrer de tout cœur notre volonté à faire la volonté de notre Père si généreux et c'est bien là notre premier devoir.
 
-***Question 1***: _Lire les sections suivantes_ : [LU 5:3.7-8](/fr/The_Urantia_Book/5#p3_7); [LU 107:0](/fr/The_Urantia_Book/107#p0); [LU 108:0,1,5](/fr/The_Urantia_Book/108#p0); [LU 111:2](/fr/The_Urantia_Book/111#p2); [LU 112:7](/fr/The_Urantia_Book/112#p7); [LU 0:5.11](/fr/The_Urantia_Book/0#p5_11); [LU 1:7.6](/fr/The_Urantia_Book/1#p7_6); [LU 16:8](/fr/The_Urantia_Book/16#p8); [LU 0:5.8](/fr/The_Urantia_Book/0#p5_8); [LU 16:6](/fr/The_Urantia_Book/16#p6); [LU 16:5](/fr/The_Urantia_Book/16#p5); [LU 42:12](/fr/The_Urantia_Book/42#p12); [LU 115:1](/fr/The_Urantia_Book/115#p1); [LU 36:5](/fr/The_Urantia_Book/36#p5); [LU 5:5](/fr/The_Urantia_Book/5#p5); [LU 16:8.6](/fr/The_Urantia_Book/16#p8_6); [LU 100:2-3](/fr/The_Urantia_Book/100#p2); [LU 117](/fr/The_Urantia_Book/117)
+***Question 1***: _Lire les sections suivantes_ : <a id="a63_50"></a>[LU 5:3.7-8](/fr/The_Urantia_Book/5#p3_7); <a id="a63_93"></a>[LU 107:0](/fr/The_Urantia_Book/107#p0); <a id="a63_134"></a>[LU 108:0,1,5](/fr/The_Urantia_Book/108#p0); <a id="a63_179"></a>[LU 111:2](/fr/The_Urantia_Book/111#p2); <a id="a63_220"></a>[LU 112:7](/fr/The_Urantia_Book/112#p7); <a id="a63_261"></a>[LU 0:5.11](/fr/The_Urantia_Book/0#p5_11); <a id="a63_304"></a>[LU 1:7.6](/fr/The_Urantia_Book/1#p7_6); <a id="a63_345"></a>[LU 16:8](/fr/The_Urantia_Book/16#p8); <a id="a63_384"></a>[LU 0:5.8](/fr/The_Urantia_Book/0#p5_8); <a id="a63_425"></a>[LU 16:6](/fr/The_Urantia_Book/16#p6); <a id="a63_464"></a>[LU 16:5](/fr/The_Urantia_Book/16#p5); <a id="a63_503"></a>[LU 42:12](/fr/The_Urantia_Book/42#p12); <a id="a63_544"></a>[LU 115:1](/fr/The_Urantia_Book/115#p1); <a id="a63_585"></a>[LU 36:5](/fr/The_Urantia_Book/36#p5); <a id="a63_624"></a>[LU 5:5](/fr/The_Urantia_Book/5#p5); <a id="a63_661"></a>[LU 16:8.6](/fr/The_Urantia_Book/16#p8_6); <a id="a63_704"></a>[LU 100:2-3](/fr/The_Urantia_Book/100#p2); [LU 117](/fr/The_Urantia_Book/117)
 
 Notre Père désire partager sa perfection et son amour avec chacun de nous, personnellement, en nous dotant d'un fragment de lui-même, « la volonté de Dieu au loin dans les univers » (1-3-6). Le Livre d'Urantia révèle que non seulement il est la volonté de Dieu en nous mais il a beaucoup d'autres missions à accomplir.
 
 _D'après vous quelles sont-elles ?_
 
-***Question 2:*** _Lire les sections suivantes_: [LU 0:5.11](/fr/The_Urantia_Book/0#p5_11); [LU 1:7.6](/fr/The_Urantia_Book/1#p7_6); [LU 16:8](/fr/The_Urantia_Book/16#p8); Optional:112
+***Question 2:*** _Lire les sections suivantes_: <a id="a69_49"></a>[LU 0:5.11](/fr/The_Urantia_Book/0#p5_11); <a id="a69_92"></a>[LU 1:7.6](/fr/The_Urantia_Book/1#p7_6); <a id="a69_133"></a>[LU 16:8](/fr/The_Urantia_Book/16#p8); Optional:112
 
-La personnalité et le libre arbitre qui lui est associé n'ont jamais été expliqués avec autant de clarté et de profondeur que dans le Livre d'Urantia. Il serait présomptueux d'entreprendre une étude exhaustive de ce que les auteurs ont à dire sur le sujet, néanmoins nous pouvons en explorer les points principaux. Au sujet du libre arbitre Jésus dit à Ganid: « C'est la possession de tels pouvoirs de discrimination spirituelle et de choix de la vérité qui fait de l'homme mortel un être moral, une créature dotée des attributs de la responsabilité spirituelle et du potentiel de survie éternelle. » ([LU 130:2.8](/fr/The_Urantia_Book/130#p2_8))
+La personnalité et le libre arbitre qui lui est associé n'ont jamais été expliqués avec autant de clarté et de profondeur que dans le Livre d'Urantia. Il serait présomptueux d'entreprendre une étude exhaustive de ce que les auteurs ont à dire sur le sujet, néanmoins nous pouvons en explorer les points principaux. Au sujet du libre arbitre Jésus dit à Ganid: « C'est la possession de tels pouvoirs de discrimination spirituelle et de choix de la vérité qui fait de l'homme mortel un être moral, une créature dotée des attributs de la responsabilité spirituelle et du potentiel de survie éternelle. » (<a id="a71_602"></a>[LU 130:2.8](/fr/The_Urantia_Book/130#p2_8))
 
 _Quels sont donc les caractéristiques fondamentales de la personnalité humaine et dans quelles circonstances de la vie notre libre arbitre s'exerce-t-il?_
 
-***Question 3***: _Lire les sections suivantes_: [LU 0:5.8](/fr/The_Urantia_Book/0#p5_8); [LU 16:6](/fr/The_Urantia_Book/16#p6); [LU 36:5](/fr/The_Urantia_Book/36#p5); [LU 42:12](/fr/The_Urantia_Book/42#p12); Optional:[LU 111:1](/fr/The_Urantia_Book/111#p1); [LU 115:1](/fr/The_Urantia_Book/115#p1)
+***Question 3***: _Lire les sections suivantes_: <a id="a75_49"></a>[LU 0:5.8](/fr/The_Urantia_Book/0#p5_8); <a id="a75_90"></a>[LU 16:6](/fr/The_Urantia_Book/16#p6); <a id="a75_129"></a>[LU 36:5](/fr/The_Urantia_Book/36#p5); <a id="a75_168"></a>[LU 42:12](/fr/The_Urantia_Book/42#p12); Optional:<a id="a75_218"></a>[LU 111:1](/fr/The_Urantia_Book/111#p1); <a id="a75_259"></a>[LU 115:1](/fr/The_Urantia_Book/115#p1)
 
-La description du mental dans le Livre d'Urantia est bien différente de celles de la psychologie, de la psychiatrie ou la médecine, trop souvent confondue avec le cerveau. Un Puissant Messager nous déclare: « Le mental domine universellement la matière, de même qu'à son tour il répond au supercontrôle ultime de l'esprit. Et, chez l'homme mortel, seul le mental qui se soumet librement à la directive de l'es- prit peut espérer survivre à l'existence mortelle dans l'espace-temps comme enfant immortel du monde spirituel éternel du Suprême, de l'Ultime et de l'Absolu: de l'Infini. » ([LU 42:12.15](/fr/The_Urantia_Book/42#p12_15))
+La description du mental dans le Livre d'Urantia est bien différente de celles de la psychologie, de la psychiatrie ou la médecine, trop souvent confondue avec le cerveau. Un Puissant Messager nous déclare: « Le mental domine universellement la matière, de même qu'à son tour il répond au supercontrôle ultime de l'esprit. Et, chez l'homme mortel, seul le mental qui se soumet librement à la directive de l'es- prit peut espérer survivre à l'existence mortelle dans l'espace-temps comme enfant immortel du monde spirituel éternel du Suprême, de l'Ultime et de l'Absolu: de l'Infini. » (<a id="a77_586"></a>[LU 42:12.15](/fr/The_Urantia_Book/42#p12_15))
 
 _Décrivez les caractéristiques innées et les fonctions du mental humain._
 
-***Question 4***: _Lire les sections suivantes_: [LU 36:5](/fr/The_Urantia_Book/36#p5); [LU 5:5](/fr/The_Urantia_Book/5#p5); [LU 16:8.6](/fr/The_Urantia_Book/16#p8_6)
+***Question 4***: _Lire les sections suivantes_: <a id="a81_49"></a>[LU 36:5](/fr/The_Urantia_Book/36#p5); <a id="a81_88"></a>[LU 5:5](/fr/The_Urantia_Book/5#p5); <a id="a81_125"></a>[LU 16:8.6](/fr/The_Urantia_Book/16#p8_6)
 
 Le Livre d'Urantia décrit des niveaux différents et progressifs de conscience: la conscience, la conscience de soi et la conscience de Dieu.
 
 _Quels sont les caractéristiques et le rôle de chacune d'elles?_
 
-***Question 5***: _Lire les sections suivantes_: [LU 100:2-3](/fr/The_Urantia_Book/100#p2)
+***Question 5***: _Lire les sections suivantes_: <a id="a87_49"></a>[LU 100:2-3](/fr/The_Urantia_Book/100#p2)
 
-À un Grec érudit qui posait une question à propos de l'âme, Jésus lui répondit: « L'âme est la fraction de l'homme qui reflète son moi, qui discerne la vérité et qui perçoit l'esprit; elle élève à jamais l'être humain au-dessus du niveau du monde animal. » ([LU 133:6.5](/fr/The_Urantia_Book/133#p6_5)). Le Livre d'Urantia explique la naissance et la croissance de l'âme.
+À un Grec érudit qui posait une question à propos de l'âme, Jésus lui répondit: « L'âme est la fraction de l'homme qui reflète son moi, qui discerne la vérité et qui perçoit l'esprit; elle élève à jamais l'être humain au-dessus du niveau du monde animal. » (<a id="a89_258"></a>[LU 133:6.5](/fr/The_Urantia_Book/133#p6_5)). Le Livre d'Urantia explique la naissance et la croissance de l'âme.
 
 _Selon vous, quelles sont les conditions de la croissance de l'âme et qu'est-ce qui détermine sa survie ?_
 
 ***Question 6***: _Lire les sections suivantes_: 117
 
-La première et la deuxième période révèlent finalement que tout ce que nous avons provient du Père Universel et de ses associés. Ce que nous sommes et ce que nous voulons devenir est ce que nous lui offrons en retour. « Quand un homme consacre sa volonté à faire la volonté du Père, quand un homme donne à Dieu tout ce qu'il a, alors Dieu fait de cet homme plus qu'il n'est. » ([LU 117:4.14](/fr/The_Urantia_Book/117#p4_14))
+La première et la deuxième période révèlent finalement que tout ce que nous avons provient du Père Universel et de ses associés. Ce que nous sommes et ce que nous voulons devenir est ce que nous lui offrons en retour. « Quand un homme consacre sa volonté à faire la volonté du Père, quand un homme donne à Dieu tout ce qu'il a, alors Dieu fait de cet homme plus qu'il n'est. » (<a id="a95_378"></a>[LU 117:4.14](/fr/The_Urantia_Book/117#p4_14))
 
 _Pourquoi cette inéluctable injonction est-elle « notre premier devoir et notre plus haute ambition » et quelles sont les répercussions sur le niveau universel._
 

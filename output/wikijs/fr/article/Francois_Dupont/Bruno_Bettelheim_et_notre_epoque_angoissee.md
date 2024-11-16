@@ -41,9 +41,9 @@ Voici ce qu'en pense le célèbre psychologue Bruno Bettelheim :
 
 Bruno Bettelheim, page 128 — « _Une fois de plus, si la société est devenue plus puissante, c'est au détriment du citoyen. La société étant plus puissante que jamais, et l'individu plus angoissé qu'il ne l'a jamais été à aucun moment dans le passé, il doit s'en remettre, pour sa survie, à ceux qui dirigent cette société. La distance physique qui sépare l'individu de ceux qui le dirigent, empêche l'individu de vérifier si sa confiance en leur bonne volonté est justifiée, processus qui risquerait d'être désastreux pour son sentiment de sécurité économique et sociale._»
 
-> L'espoir -la noblesse de la confiance-est-il désirable ? Alors il faut que l'existence humaine soit sans cesse confrontée aux incertitudes renouvelées et aux insécurités. [LU 3:5.6](/fr/The_Urantia_Book/3#p5_6)
+> L'espoir -la noblesse de la confiance-est-il désirable ? Alors il faut que l'existence humaine soit sans cesse confrontée aux incertitudes renouvelées et aux insécurités. <a id="a43_173"></a>[LU 3:5.6](/fr/The_Urantia_Book/3#p5_6)
 
-> Le courage -la force de caractère-est-il désirable ? Alors il faut que l'homme soit élevé dans un environnement qui l'oblige à s'attaquer à de dures épreuves et à réagir aux désappointements. [LU 3:5.8](/fr/The_Urantia_Book/3#p5_8)
+> Le courage -la force de caractère-est-il désirable ? Alors il faut que l'homme soit élevé dans un environnement qui l'oblige à s'attaquer à de dures épreuves et à réagir aux désappointements. <a id="a45_194"></a>[LU 3:5.8](/fr/The_Urantia_Book/3#p5_8)
 
 Ce discours plutôt pessimiste est nuancé par ce qu'il dit un peu plus loin :
 
@@ -51,11 +51,11 @@ Bruno Bettelheim, page 145 — « _Une époque qui incite l'homme à laisser la 
 
 Mais, de son côté, le _Livre d'URANTIA_ nous donne l'assurance que nos tribulations sont un mal nécessaire :
 
-> « _Quand l'anxiété devient réellement douloureuse, elle inhibe l'activité et provoque infailliblement des changements évolutionnaires et des adaptations biologiques. La douleur et la souffrance sont essentielles à l'évolution progressive._» [LU 86:2.1](/fr/The_Urantia_Book/86#p2_1)
+> « _Quand l'anxiété devient réellement douloureuse, elle inhibe l'activité et provoque infailliblement des changements évolutionnaires et des adaptations biologiques. La douleur et la souffrance sont essentielles à l'évolution progressive._» <a id="a53_243"></a>[LU 86:2.1](/fr/The_Urantia_Book/86#p2_1)
 
 Il nous dit même ce qui est à corriger dans notre attitude vis à vis de ces souffrances mentales :
 
-> « _Trop souvent, beaucoup trop souvent, vous gâchez votre mental par défaut de sincérité, et vous le flétrissez par manque de droiture; vous le soumettez à la peur animale et vous le déformez par des anxiétés inutiles._» [LU 9:6.1](/fr/The_Urantia_Book/9#p6_1)
+> « _Trop souvent, beaucoup trop souvent, vous gâchez votre mental par défaut de sincérité, et vous le flétrissez par manque de droiture; vous le soumettez à la peur animale et vous le déformez par des anxiétés inutiles._» <a id="a57_223"></a>[LU 9:6.1](/fr/The_Urantia_Book/9#p6_1)
 
 Personnellement je pense que, parmi les lecteurs assidus et les étudiants persévérants du Livre d'URANTIA, il n'y a pas ou il ne pourrait y avoir de vrais angoissés, ayant peur d'un avenir, en somme, assez proche, tremblant pour leurs enfants, hésitant à s 'engager dans n'importe quoi.
 

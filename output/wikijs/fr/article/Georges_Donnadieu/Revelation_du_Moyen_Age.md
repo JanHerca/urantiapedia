@@ -144,15 +144,15 @@ Au Moyen Âge « les nymphes chantent d'une voix mélodieuse », les poètes nou
 
 En 1955, au vingtième siècle, le LU nest pas en reste:
 
-> « Seul un poète peut discerner la poésie dans la prose banale de la vie courante » ([LU 48:7.20](/fr/The_Urantia_Book/48#p7_20))
+> « Seul un poète peut discerner la poésie dans la prose banale de la vie courante » (<a id="a146_86"></a>[LU 48:7.20](/fr/The_Urantia_Book/48#p7_20))
 
-> « La meilleure musique d'Urantia n'est qu'un écho fugitif des magnifiques accords entendus par les associés célestes de vos musiciens ». [LU 44:1.14](/fr/The_Urantia_Book/44#p1_14)
+> « La meilleure musique d'Urantia n'est qu'un écho fugitif des magnifiques accords entendus par les associés célestes de vos musiciens ». <a id="a148_139"></a>[LU 44:1.14](/fr/The_Urantia_Book/44#p1_14)
 
 Parmi les 36 occurrences au LU des mots « mathématiques » et « mathématiciens » citons la suivante:
 
-> « Le matérialisme réduit l'homme à l'état d'automate sans âme, et fait simplement de lui un symbole arithmétique placé sans pouvoir dans la formule mathématique d'un univers mécaniste et dépourvu de romanesque. Mais d'où vient donc cet immense univers de mathématiques sans Maitre mathématicien?» ([LU 195:2.1](/fr/The_Urantia_Book/195#p2_1))
+> « Le matérialisme réduit l'homme à l'état d'automate sans âme, et fait simplement de lui un symbole arithmétique placé sans pouvoir dans la formule mathématique d'un univers mécaniste et dépourvu de romanesque. Mais d'où vient donc cet immense univers de mathématiques sans Maitre mathématicien?» (<a id="a152_300"></a>[LU 195:2.1](/fr/The_Urantia_Book/195#p2_1))
 
-> « l'Amour est l'ancêtre de toute Bonté spirituelle, il est l'essence du Vrai et du Beau. » ([LU 192:2.1](/fr/The_Urantia_Book/192#p2_1))
+> « l'Amour est l'ancêtre de toute Bonté spirituelle, il est l'essence du Vrai et du Beau. » (<a id="a154_94"></a>[LU 192:2.1](/fr/The_Urantia_Book/192#p2_1))
 
 Amis lecteurs, je vous invite à chercher et trouver « le nom de la jeune fille » ou/et celui du volet de la révélation du Moyen Âge où elle figure. Dépourvu d'internet, j’attends vos échos au:
 
@@ -160,7 +160,7 @@ Amis lecteurs, je vous invite à chercher et trouver « le nom de la jeune fille
 
 Vos noms figureront en prologue à la seconde étape du chemin montrant que le LU est bien un prolongement, citant de façon cachée, cette triple révélation du Moyen-Âge.
 
-> Ni mathématiques, ni logique, ni philosophie ne peuvent saisir la réalité ultime de l'univers, seule peut y parvenir l'expérience personnelle se conformant progressivement à la volonté divine d'un Dieu personnel. Ni science, ni philosophie, ni théologie ne peuvent valider la personnalité de Dieu. Seule l'expérience personnelle des fils du Père céleste par la foi peut amener la réalisation actuelle et spirituelle de la personnalité de Dieu. [[LU 1:7.5](/fr/The_Urantia_Book/1#p7_5)]
+> Ni mathématiques, ni logique, ni philosophie ne peuvent saisir la réalité ultime de l'univers, seule peut y parvenir l'expérience personnelle se conformant progressivement à la volonté divine d'un Dieu personnel. Ni science, ni philosophie, ni théologie ne peuvent valider la personnalité de Dieu. Seule l'expérience personnelle des fils du Père céleste par la foi peut amener la réalisation actuelle et spirituelle de la personnalité de Dieu. <a id="a162_446"></a>[[LU 1:7.5](/fr/The_Urantia_Book/1#p7_5)]
 
 <figure class="table chapter-navigator">
   <table>

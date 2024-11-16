@@ -61,7 +61,7 @@ LA MORT EST SIMPLEMENT LA TECHNIQUE QUE NOUS UTILISONS POUR ÉCHAPPER AUX LIMITA
 
 La mort est en même temps une conclusion et une libération, c'est l'évènement le plus merveilleux de cette tranche de vie.
 
-> « La vie n'est que le commencement d'une vie d'aventures sans fin, une vie de perpétuelle anticipation, un voyage éternel de découverte » ([LU 14:5.10](/fr/The_Urantia_Book/14#p5_10))
+> « La vie n'est que le commencement d'une vie d'aventures sans fin, une vie de perpétuelle anticipation, un voyage éternel de découverte » (<a id="a63_141"></a>[LU 14:5.10](/fr/The_Urantia_Book/14#p5_10))
 
 On se demande vraiment ce que viennent faire dans cette transition vers la lumière ces diables cornus et ces spectres en haillons non plus d'ailleurs que les cérémonies de lamentations. Une compréhension personnelle du sens joyeux de la mort est indispensable pour extirper de notre mental profond ces images absurdes et ces superstitions qui trop souvent nous influencent encore. Quand nous faisons en toute sérénité l'effort voulu pour comprendre le sens de la mort, nous découvrons que notre vie terrestre a acquis une valeur nouvelle et que notre comportement s'harmonise naturellement aux circonstances difficiles.
 

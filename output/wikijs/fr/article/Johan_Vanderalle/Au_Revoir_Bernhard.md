@@ -72,7 +72,7 @@ A u fait, nous sommes tellement complémentaires!
 
 Le Livre d'Urantia nous a toujours inspiré, je termine par un texte du Livre LU 5:1.7:
 
-> « Si une âme humaine désire connaitre Dieu et devenir semblable à Lui, si elle veut faire honnêtement la volonté du Père, alors nulle influence négative de tares humaines (ou des défauts), nul pouvoir réel d'interférence ne sauraient empêcher cette âme divinement motivée de faire l'ascension en toute sécurité jusqu'au portes du Paradis. » [LU 5:1.7](/fr/The_Urantia_Book/5#p1_7)
+> « Si une âme humaine désire connaitre Dieu et devenir semblable à Lui, si elle veut faire honnêtement la volonté du Père, alors nulle influence négative de tares humaines (ou des défauts), nul pouvoir réel d'interférence ne sauraient empêcher cette âme divinement motivée de faire l'ascension en toute sécurité jusqu'au portes du Paradis. » <a id="a74_343"></a>[LU 5:1.7](/fr/The_Urantia_Book/5#p1_7)
 
 <figure class="table chapter-navigator">
   <table>

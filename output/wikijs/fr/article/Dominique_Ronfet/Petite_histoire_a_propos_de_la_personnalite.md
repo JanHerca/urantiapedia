@@ -40,7 +40,7 @@ En fait notre héros n'était pas très satisfait de cette journée.
 
 A présent qu'il se retrouvait seul, le calme lui revenait doucement...ainsi qu'une phrase étonnante qu'il avait lue quelques jours auparavant et l'avait laissé sceptique :
 
-> « La personnalité est un niveau de réalité déifiée. » ([LU 0:5.1](/fr/The_Urantia_Book/0#p5_1))
+> « La personnalité est un niveau de réalité déifiée. » (<a id="a42_57"></a>[LU 0:5.1](/fr/The_Urantia_Book/0#p5_1))
 
 Il se remémorait quelques faits de ces dernières heures et se demandait qui les avait ainsi vécues.
 

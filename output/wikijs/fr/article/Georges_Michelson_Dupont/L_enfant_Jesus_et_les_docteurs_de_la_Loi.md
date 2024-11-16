@@ -44,7 +44,7 @@ De nos jours, ces conditions n'ont pas tellement changé comme nous allons le vo
 
 Moïse enseignait aux Hébreux que, s'ils acceptaient d'obéir à Dieu, « _il vous aimera, vous bénira et vous multipliera; il multipliera le fruit de vos ventres et le fruit de vos terres — blé, vin, huile et vos troupeaux. Vous prospèrerez au-dessus de tous les peuples, et le Seigneur votre Dieu ôtera de vous toutes maladies et ne vous infligera aucune des plaies malignes d'Égypte_ ».
 
-Moïse dit même: « _Rappelez-vous le Seigneur votre Dieu, car c'est lui qui donne le pouvoir d'obtenir la richesse._ » « _Vous prêterez à gages à beaucoup de nations, mais vous n'emprunterez pas. Vous dominerez sur beaucoup de nations, mais elles ne domineront pas sur vous._ » ([LU 96:5.4](/fr/The_Urantia_Book/96#p5_4))
+Moïse dit même: « _Rappelez-vous le Seigneur votre Dieu, car c'est lui qui donne le pouvoir d'obtenir la richesse._ » « _Vous prêterez à gages à beaucoup de nations, mais vous n'emprunterez pas. Vous dominerez sur beaucoup de nations, mais elles ne domineront pas sur vous._ » (<a id="a46_278"></a>[LU 96:5.4](/fr/The_Urantia_Book/96#p5_4))
 
 Pour le peuple Hébreux, Obéir à Dieu et conserver son estime et sa protection consistait à observer scrupuleusement, individuellement et collectivement, la Loi que Moïse avait rapportée du mont Sinaï sous la forme des « Tablettes de la Loi ».
 
@@ -52,7 +52,7 @@ Pour le peuple Hébreux, Obéir à Dieu et conserver son estime et sa protection
 
 Le fascicule 121 décrit les conditions sociales, économiques et religieuses de cette époque comme suit:
 
-> « _Les scribes, les pharisiens et la prêtrise maintenaient les Juifs dans un terrible esclavage de ritualisme et de légalisme, un esclavage bien plus réel que celui de l'autorité politique romaine. Les Juifs de l'époque de Jésus n'étaient pas seulement asservis à la loi, mais aussi liés par les exigences serviles des traditions quiimpliquaient et envahissaient tous les domaines de la vie personnelle et sociale. Ces règles de conduite minutieuses poursuivaient et dominaient tous les Juifs loyaux._ » ( [LU 121:7.3](/fr/The_Urantia_Book/121#p7_3) )
+> « _Les scribes, les pharisiens et la prêtrise maintenaient les Juifs dans un terrible esclavage de ritualisme et de légalisme, un esclavage bien plus réel que celui de l'autorité politique romaine. Les Juifs de l'époque de Jésus n'étaient pas seulement asservis à la loi, mais aussi liés par les exigences serviles des traditions quiimpliquaient et envahissaient tous les domaines de la vie personnelle et sociale. Ces règles de conduite minutieuses poursuivaient et dominaient tous les Juifs loyaux._ » ( <a id="a54_508"></a>[LU 121:7.3](/fr/The_Urantia_Book/121#p7_3) )
 
 La société juive de l'époque de Jésus était profondément inégalitaire. Les notables, la prêtrise et les riches propriétaires fonciers habitaient Jérusalem et les grandes villes dans des palais et des propriétés opulentes, le peuple ordinaire vit misérablement dans les campagnes, ployant sous le fardeau des loyers exorbitants exigés par les propriétaires fonciers, les taxes payées à la prêtrise au service du Temple et les impôts exigés par César.
 
@@ -60,7 +60,7 @@ Dans la société juive, la richesse était considérée comme une faveur divine
 
 ## Le questionnement de Jésus.
 
-([LU 125:5.3](/fr/The_Urantia_Book/125#p5_3))
+(<a id="a62_1"></a>[LU 125:5.3](/fr/The_Urantia_Book/125#p5_3))
 
 **1. Qu'y a-t-il réellement dans le Saint des Saints derrière le voile?**
 
@@ -71,9 +71,9 @@ Seul le grand prêtre pouvait accéder une fois par an, le jour de Yom Kippour, 
 <figcaption>Illustration de l'épais voile derrière lequel les tables de la loi étaient censées se trouver. <a href="https://www.idixa.net/Pixa/pagixa-0909211713.html">https://www.idixa.net/Pixa/pagixa-0909211713.html</a></figcaption>
 </figure>
 
-Les Tables de la Loi représentaient, pour les Hébreux, le grand accord du peuple avec son Dieu, Yahvé. « _Leur culte suivait la lettre de la loi et ils se complaisaient dans une forme de satisfaction de soi basée sur le faux orgueil de leur généalogie._ » ([LU 121:7.1](/fr/The_Urantia_Book/121#p7_1))
+Les Tables de la Loi représentaient, pour les Hébreux, le grand accord du peuple avec son Dieu, Yahvé. « _Leur culte suivait la lettre de la loi et ils se complaisaient dans une forme de satisfaction de soi basée sur le faux orgueil de leur généalogie._ » (<a id="a73_257"></a>[LU 121:7.1](/fr/The_Urantia_Book/121#p7_1))
 
-Les Grand Prêtres successifs tiraient leur légitimité, leur prestige et leur autorité sur le peuple de la prérogative exclusive d'avoir, seul, accès à la Loi. « _Au premier siècle apr. J.-C., l'interprétation orale de la loi par les éducateurs reconnus, les scribes, avait acquis une autorité plus haute que la loi écrite elle-même._ » ([LU 121:7.4](/fr/The_Urantia_Book/121#p7_4))»
+Les Grand Prêtres successifs tiraient leur légitimité, leur prestige et leur autorité sur le peuple de la prérogative exclusive d'avoir, seul, accès à la Loi. « _Au premier siècle apr. J.-C., l'interprétation orale de la loi par les éducateurs reconnus, les scribes, avait acquis une autorité plus haute que la loi écrite elle-même._ » (<a id="a75_337"></a>[LU 121:7.4](/fr/The_Urantia_Book/121#p7_4))»
 
 Pourquoi Jésus posa-t-il cette question? Était-ce une simple curiosité née de ses études de la Loi où voulait-il comprendre pourquoi, avec son jeune mental de treize ans, son Père qui est aux cieux avait besoin de se cacher aux yeux des hommes derrière une tenture, ou bien remettait-il déjà en cause l'autorité de Caïfe et la lettre de la loi qui tenaient en esclavage spirituel le peuple de son père?
 
@@ -109,7 +109,7 @@ Cette révolte intérieure est déjà présente dans son cœur lorsque les homme
 
 **3. Si Dieu est un père qui aime ses enfants, pourquoi tous ces massacres d'animaux pour gagner la faveur divine — l'enseignement de Moïse a-t-il été mal compris?**
 
-> « _Les Hébreux croyaient que « sans versement de sang il ne pouvait y avoir de rémission des péchés. » Ils n'avaient pas pu se délivrer de la vieille idée païenne que seule la vue du sang pouvait apaiser les Dieux, bien que Moïse ê̂t marqué un net progrès lorsqu'il interdit les sacrifices humains et les substituât par des sacrifices cérémoniels d'animaux, appropriés à la mentalité primitive de ses disciples, des Bédouins enfantins._ » ([LU 4:5.5](/fr/The_Urantia_Book/4#p5_5))
+> « _Les Hébreux croyaient que « sans versement de sang il ne pouvait y avoir de rémission des péchés. » Ils n'avaient pas pu se délivrer de la vieille idée païenne que seule la vue du sang pouvait apaiser les Dieux, bien que Moïse ê̂t marqué un net progrès lorsqu'il interdit les sacrifices humains et les substituât par des sacrifices cérémoniels d'animaux, appropriés à la mentalité primitive de ses disciples, des Bédouins enfantins._ » (<a id="a111_442"></a>[LU 4:5.5](/fr/The_Urantia_Book/4#p5_5))
 
 Le questionnement de Jésus remet en cause la servitude de l'homme à la loi de Moïse et à la croyance au courroux de Dieu, obéir servilement à J'avais par peur d'endurer son courroux est inacceptable pour le jeune mental de Jésus. Pour lui, l'amour de son Père céleste primait sur toutes autres considérations; comment était-il possible que ce Dieu d'amour et de miséricorde change ainsi d'avis et entre en courroux contre ses enfants au point d'exiger d'eux le versement de sang pour la rémission de leurs péchés?
 
@@ -119,9 +119,9 @@ Cet argument est développé lors d'une discussion avec son père Joseph:
 
 **4. Puisque le temple est consacré à l'adoration du Père céleste, est-il logique d'y tolérer la présence de ceux qui exercent un métier profane de troc ou de commerce?**
 
-> « _Mais il reçut le plus grand choc de sa jeune vie quand son père l'accompagna dans la cour des Gentils où le bruyant jargon, les éclats de voix et les jurons se mêlaient confusément aux bêlements de moutons et aux babillages bruyants trahissant la présence des changeurs, des marchands d'animaux propitiatoires et des vendeurs de diverses autres marchandises. Par-dessus tout, son sentiment des convenances fut outragé par la vue des frivoles courtisanes paradant dans cette enceinte du temple, exactement comme les femmes fardées qu'il avait vues si récemment lors d'une visite à Sepphoris. Cette profanation du temple mit le comble à son indignation juvénile et il n'hésita pas à l'exprimer franchement à Joseph._ » ([LU 125:1.1](/fr/The_Urantia_Book/125#p1_1))
+> « _Mais il reçut le plus grand choc de sa jeune vie quand son père l'accompagna dans la cour des Gentils où le bruyant jargon, les éclats de voix et les jurons se mêlaient confusément aux bêlements de moutons et aux babillages bruyants trahissant la présence des changeurs, des marchands d'animaux propitiatoires et des vendeurs de diverses autres marchandises. Par-dessus tout, son sentiment des convenances fut outragé par la vue des frivoles courtisanes paradant dans cette enceinte du temple, exactement comme les femmes fardées qu'il avait vues si récemment lors d'une visite à Sepphoris. Cette profanation du temple mit le comble à son indignation juvénile et il n'hésita pas à l'exprimer franchement à Joseph._ » (<a id="a121_723"></a>[LU 125:1.1](/fr/The_Urantia_Book/125#p1_1))
 
-> « _Les taches de sang sur le dallage, les mains ensanglantées des prêtres et les cris des animaux mourants dépassèrent ce que pouvait supporter ce garçon de Nazareth amoureux de la nature. Ce terrible spectacle l'écœura. Il s'accrocha aux bras de son père et le supplia de l'emmener ailleurs._ » ([LU 125:1.4](/fr/The_Urantia_Book/125#p1_4))
+> « _Les taches de sang sur le dallage, les mains ensanglantées des prêtres et les cris des animaux mourants dépassèrent ce que pouvait supporter ce garçon de Nazareth amoureux de la nature. Ce terrible spectacle l'écœura. Il s'accrocha aux bras de son père et le supplia de l'emmener ailleurs._ » (<a id="a123_299"></a>[LU 125:1.4](/fr/The_Urantia_Book/125#p1_4))
 
 Le temple de Jérusalem était le lieu sacré dans lequel le peuple d'Israël, disséminé dans l'Empire Romain, se rassemblait une fois par an pour venir se recueillir et prier Yahvé, son Dieu. Dans le jeune mental de Jésus, pétrit de l'amour de son Père céleste et du respect qu'il lui porte couplée avec l'idée de voyager vers Jérusalem afin de voir ce temple dont il a entendu parler si souvent et dont il a lu de multiples descriptions exalte son imagination. Participer à sa première Pâque, recevoir de ses pères la consécration de la citoyenneté juive et participer à cette cérémonie dans l'enceinte du temple créé une attente spirituelle forte dans son cœur. Hélas, la bassesse mercantile des marchands et l'appât du gain dans ce lieu sacré produit une désillusion à la hauteur de son attente. L'indignation saisit son mental et son cœur est révolté. Il ne comprend pas ce mélange de « commerce mercantile entre les hommes » et le « commerce spirituel sacré avec Dieu. »
 
@@ -136,7 +136,7 @@ Une grande partie de l'argent collecté durant ces cérémonies par la vente des
 
 Cette question, il se la pose dès son plus jeune âge mais, c'est peu avant la visite à Jérusalem que la conviction de sa destinée prend vraiment corps dans son mental:
 
-> « _C'est vers le milieu de février que Jésus acquit humainement la certitude qu'il était destiné à remplir sur terre une mission pour éclairer l'humanité et lui révéler Dieu. Des décisions capitales doublées de plans d'une grande portée prenaient forme dans le mental de ce jeune homme, tandis que son apparence extérieure était celle d'un jeune juif moyen de Nazareth._ » ([LU 124:5.3](/fr/The_Urantia_Book/124#p5_3))
+> « _C'est vers le milieu de février que Jésus acquit humainement la certitude qu'il était destiné à remplir sur terre une mission pour éclairer l'humanité et lui révéler Dieu. Des décisions capitales doublées de plans d'une grande portée prenaient forme dans le mental de ce jeune homme, tandis que son apparence extérieure était celle d'un jeune juif moyen de Nazareth._ » (<a id="a138_376"></a>[LU 124:5.3](/fr/The_Urantia_Book/124#p5_3))
 
 Il vient donc confronter les docteurs de la Loi dans leur plus chère espérance et remettre en question cette confiance en la supériorité raciale réhabilitée et rendue au peuple juif par le Messie attendu comme prince temporel. Cette attente, partagée en grande partie par ses apôtres, est illustrée aux noces de Cana quand la foule se saisit de Jésus et veut le consacrer Roi temporel d'Israël après l'épisode de l'eau transformée en vin et la multiplication des pains.
 

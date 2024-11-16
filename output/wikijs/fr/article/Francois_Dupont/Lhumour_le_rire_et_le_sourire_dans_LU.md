@@ -39,9 +39,9 @@ _Quelques notes sur le séminaire du 21/23 novembre) à Neuville sur Loin (Armea
 ## Remarques préliminaires
 
 1. les quelques notes sont adressées en hommage à notre grand ami et grand humoriste, Jacques Dupont, qui nous a quitté voici déjà quelques mois, c'est un extrait de son livre « LE VOILE SE LEVE » un magistral résumé des principaux thèmes du LU : « Le but des harcèlements de la vie est de nous faire acquérir la maîtrise de soi, et lorsque cette maîtrise est suffisamment atteinte, c'est avec le sourire que nous faisons face à ces harcèlements qui seront devenus source d'humour. »
-2. le LU ne s'attarde évidemment pas aux formes grossières et vulgaires de notre humour terrestre, mais il nous félicite quand même de notre sens relativement aigu de l'humour grâce à notre héritage adamique, qui néanmoins a négligé nos dons musicaux et artistiques ([LU 48:4.14](/fr/The_Urantia_Book/48#p4_14)).
+2. le LU ne s'attarde évidemment pas aux formes grossières et vulgaires de notre humour terrestre, mais il nous félicite quand même de notre sens relativement aigu de l'humour grâce à notre héritage adamique, qui néanmoins a négligé nos dons musicaux et artistiques (<a id="a41_267"></a>[LU 48:4.14](/fr/The_Urantia_Book/48#p4_14)).
 
-Selon les directeurs de la rétrospection ([LU 48:3.16](/fr/The_Urantia_Book/48#p3_16)), notre humour embrasse trois niveaux généraux d'appréciation :
+Selon les directeurs de la rétrospection (<a id="a43_42"></a>[LU 48:3.16](/fr/The_Urantia_Book/48#p3_16)), notre humour embrasse trois niveaux généraux d'appréciation :
 - a) les plaisanteries réminiscentes tournées vers les épisodes passés de notre expérience de combat et de lutte. C’est le passé.
 - b) L'humour courant touche la stupidité et la futilité de la plupart de nos anxiétés et problèmes actuels et essaie de minimiser les inquiétudes du présent au profit des certitudes de l'avenir. C’est le niveau du présent.
 - c) Le troisième niveau concerne la joie prophétique, qui sera peut-être difficile à envisager par les mortels. C'est le futur, mais nous disent les directeurs de la rétrospections, tenons nous a l'assurance que toutes choses travaillent ensemble pour le bien- pour les êtres spirituels et morontiels, aussi bien que pour les mortels...
@@ -67,16 +67,16 @@ L'humour ne naît pas spontanément: certaines attitudes et comportements mobili
 ## Exemples d'humour dans le L.U.
 
 Remarques: Nous avons tous remarqué qu'une simple lecture du L.U. ne suffit pas pour découvrir l'humour dans ce live remarquable. Ceci dit, il est vrai, qu'à chaque relecture, les traits humoristiques sautent aux yeux. A noter aussi que l'allégresse apparaît souvent en relation avec l'humour.
-1. Nathanël était considéré et apprécié comme le plus humoriste des apôtres ([LU 143:3.3](/fr/The_Urantia_Book/143#p3_3)).
-2. L'humour de Norana, la syrienne : grâce à son à propos vis-à-vis de tous les apôtres, essayant de la dissuader d'aller voir Jésus, elle arriva a ses fins, en répliquant aux apôtres d'aller dire à leur maître qu'elle n'était qu'une chienne, mais une chienne croyante ! ([LU 156:1.7](/fr/The_Urantia_Book/156#p1_7))
-3. Jésus regrettait que son peuple n'ait pas plus de disposition pour la joie et l'humour, car la religion ennuyeuse des pharisiens n'aurait jamais pu prendre naissance chez un peuple ayant le sens de l'humour. ([LU 156:1.3](/fr/The_Urantia_Book/156#p1_3))
-4. quand la crise dans la vie de Jésus atteint un sommet, les apôtres, abattus, se laissent aller, mais Jésus au contraire montrait une gaîté inhabituelle et une bonne humeur exceptionnelle. ([LU 172:2.5](/fr/The_Urantia_Book/172#p2_5))
-5. le dessin au fusain que Jésus avait fait du chazan ([LU 124:1.4](/fr/The_Urantia_Book/124#p1_4))
-6. Thomas ne commençait a comprendre la tumultueuse entrée de Jésus dans Jérusalem, qu'au moment ou il fit appel à son sens de l'humour. ([LU 172:5.9](/fr/The_Urantia_Book/172#p5_9))
-7. Jésus en promenade avec les 2 frères d'Emmaüs ? ayant accepté le pain pour rompre... leurs yeux s'ouvrirent et Jésus morontiel disparut de leur vue... Question insidieuse: qu'est-t-il advenu du pain que Jésus avait en main à ce moment là ? ([LU 190:5.3](/fr/The_Urantia_Book/190#p5_3))
-8. Josias, l'aveugle, ni sot, si dépourvu d'humour... ([LU 164:4.9](/fr/The_Urantia_Book/164#p4_9))
-9. la religion ne peut détruire le sens de l'humour.... ([LU 100:6.5](/fr/The_Urantia_Book/100#p6_5))
-10. la pratique des jeux et l'humour des races modernes, ainsi que leur substituts, sous forme de compétitions, peuvent remplacer les batailles physiques. Ces dons proviennent en grande partie de la souche adamique. ([LU 74:6.7](/fr/The_Urantia_Book/74#p6_7))
+1. Nathanël était considéré et apprécié comme le plus humoriste des apôtres (<a id="a69_77"></a>[LU 143:3.3](/fr/The_Urantia_Book/143#p3_3)).
+2. L'humour de Norana, la syrienne : grâce à son à propos vis-à-vis de tous les apôtres, essayant de la dissuader d'aller voir Jésus, elle arriva a ses fins, en répliquant aux apôtres d'aller dire à leur maître qu'elle n'était qu'une chienne, mais une chienne croyante ! (<a id="a70_272"></a>[LU 156:1.7](/fr/The_Urantia_Book/156#p1_7))
+3. Jésus regrettait que son peuple n'ait pas plus de disposition pour la joie et l'humour, car la religion ennuyeuse des pharisiens n'aurait jamais pu prendre naissance chez un peuple ayant le sens de l'humour. (<a id="a71_212"></a>[LU 156:1.3](/fr/The_Urantia_Book/156#p1_3))
+4. quand la crise dans la vie de Jésus atteint un sommet, les apôtres, abattus, se laissent aller, mais Jésus au contraire montrait une gaîté inhabituelle et une bonne humeur exceptionnelle. (<a id="a72_192"></a>[LU 172:2.5](/fr/The_Urantia_Book/172#p2_5))
+5. le dessin au fusain que Jésus avait fait du chazan (<a id="a73_55"></a>[LU 124:1.4](/fr/The_Urantia_Book/124#p1_4))
+6. Thomas ne commençait a comprendre la tumultueuse entrée de Jésus dans Jérusalem, qu'au moment ou il fit appel à son sens de l'humour. (<a id="a74_138"></a>[LU 172:5.9](/fr/The_Urantia_Book/172#p5_9))
+7. Jésus en promenade avec les 2 frères d'Emmaüs ? ayant accepté le pain pour rompre... leurs yeux s'ouvrirent et Jésus morontiel disparut de leur vue... Question insidieuse: qu'est-t-il advenu du pain que Jésus avait en main à ce moment là ? (<a id="a75_244"></a>[LU 190:5.3](/fr/The_Urantia_Book/190#p5_3))
+8. Josias, l'aveugle, ni sot, si dépourvu d'humour... (<a id="a76_55"></a>[LU 164:4.9](/fr/The_Urantia_Book/164#p4_9))
+9. la religion ne peut détruire le sens de l'humour.... (<a id="a77_57"></a>[LU 100:6.5](/fr/The_Urantia_Book/100#p6_5))
+10. la pratique des jeux et l'humour des races modernes, ainsi que leur substituts, sous forme de compétitions, peuvent remplacer les batailles physiques. Ces dons proviennent en grande partie de la souche adamique. (<a id="a78_217"></a>[LU 74:6.7](/fr/The_Urantia_Book/74#p6_7))
 11. sur le plan émotionnel, l’homme transcende ces ancêtres animaux par son aptitude à apprécier l'art, l'humour et la religion.
 
 ## Exemples d'humour d'un auteur américain ayant lu le LU Bob Slagle (" Cosmic Mirth. Humor in the UB »).

@@ -72,7 +72,7 @@ Le bonheur, c'est la joie d'exister pleine et entière, la joie d'être ici et m
 
 Le bonheur n'est pas une destination, il est une trajectoire. Il n'en faut que si peu pour être heureux. Il suffit juste d'apprécier chaque petit moment et de le sacrer comme l'un des meilleurs moments de sa vie. Si le bonheur est l'accord entre nos désirs et l'ordre du monde, alors mieux vaut modifier nos désirs. (Descartes)
 
-Voir le [LU 103:5.5](/fr/The_Urantia_Book/103#p5_5) — [LU 111:4.7](/fr/The_Urantia_Book/111#p4_7) — [LU 131:3.7](/fr/The_Urantia_Book/131#p3_7) — [LU 136:6.10](/fr/The_Urantia_Book/136#p6_10) — [LU 140:4.10](/fr/The_Urantia_Book/140#p4_10) — [LU 140:5.6](/fr/The_Urantia_Book/140#p5_6) — [LU 159:3.10](/fr/The_Urantia_Book/159#p3_10) — [LU 159:3.12](/fr/The_Urantia_Book/159#p3_12) — [LU 171:7.9](/fr/The_Urantia_Book/171#p7_9)
+Voir le <a id="a74_8"></a>[LU 103:5.5](/fr/The_Urantia_Book/103#p5_5) — <a id="a74_54"></a>[LU 111:4.7](/fr/The_Urantia_Book/111#p4_7) — <a id="a74_100"></a>[LU 131:3.7](/fr/The_Urantia_Book/131#p3_7) — <a id="a74_146"></a>[LU 136:6.10](/fr/The_Urantia_Book/136#p6_10) — <a id="a74_194"></a>[LU 140:4.10](/fr/The_Urantia_Book/140#p4_10) — <a id="a74_242"></a>[LU 140:5.6](/fr/The_Urantia_Book/140#p5_6) — <a id="a74_288"></a>[LU 159:3.10](/fr/The_Urantia_Book/159#p3_10) — <a id="a74_336"></a>[LU 159:3.12](/fr/The_Urantia_Book/159#p3_12) — <a id="a74_384"></a>[LU 171:7.9](/fr/The_Urantia_Book/171#p7_9)
 
 Max Masotti
 

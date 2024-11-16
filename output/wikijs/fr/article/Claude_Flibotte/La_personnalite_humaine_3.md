@@ -38,11 +38,11 @@ Claude Flibotte
 
 Beaucoup de discussions sur UBIS tournent autour de la juste compréhension de la personnalité. J'aimerais vous partager ma vision bien personnelle du sujet！
 
-> « La personnalité humaine est l'ombreimage projetée dans l'espace-temps par la personnalité du divin Créateur. Or, nulle actualité ne saurait être comprise convenablement par l'examen de son ombre. Il faudrait interpréter les ombres en fonction de la vraie substance. » [LU 1:6.1](/fr/The_Urantia_Book/1#p6_1)
+> « La personnalité humaine est l'ombreimage projetée dans l'espace-temps par la personnalité du divin Créateur. Or, nulle actualité ne saurait être comprise convenablement par l'examen de son ombre. Il faudrait interpréter les ombres en fonction de la vraie substance. » <a id="a40_272"></a>[LU 1:6.1](/fr/The_Urantia_Book/1#p6_1)
 
 Ceci explique peut-être pourquoi il nous est si difficile de se faire une idée juste de ce qu'est la personnalité. Si, au départ, nous nous demandions ce qui caractérise spécifiquement la personnalité et quelle est sa fonction?
 
-> « La personnalité est un niveau de réalité déifiée. » [LU 0:5.1](/fr/The_Urantia_Book/0#p5_1)
+> « La personnalité est un niveau de réalité déifiée. » <a id="a44_56"></a>[LU 0:5.1](/fr/The_Urantia_Book/0#p5_1)
 
 Ainsi donc, à l'image du Père infini qui rétablit l'unification de la Déité par la Trinité du Paradis à la suite de la trinitisation du Fils Éternel et de l'Esprit Infini, la personnalité humaine, don du Père, crée l'unification des nombreuses constituantes de l'individualité humaine (physiques, héréditaires, mental et comportemental). Pour saisir un peu plus ce phénomène, observons ce qui se passe dans le règne animal.
 
@@ -50,7 +50,7 @@ Nous sommes tous d'accord pour dire que les animaux ne sont pas dotés de la per
 
 Maintenant, comment cela se passe-t-il pour lêtre humain? Les révélateurs nous disent que la personnalité humaine nous est donnée avant l'arrivée de l'Ajusteur de Pensée.
 
-> « La personnalité est un don unique de nature originale dont l'existence est indépendante de l'octroi des Ajusteurs de Pensée et antérieure à cet octroi. Néanmoins, la présence de l'Ajusteur accroit effectivement la manifestation qualitative de la personnalité. » [LU 16:8.3](/fr/The_Urantia_Book/16#p8_3)
+> « La personnalité est un don unique de nature originale dont l'existence est indépendante de l'octroi des Ajusteurs de Pensée et antérieure à cet octroi. Néanmoins, la présence de l'Ajusteur accroit effectivement la manifestation qualitative de la personnalité. » <a id="a52_266"></a>[LU 16:8.3](/fr/The_Urantia_Book/16#p8_3)
 
 Les révélateurs décrivent aussi notre type de personnalité ainsi :
 
@@ -58,7 +58,7 @@ Les révélateurs décrivent aussi notre type de personnalité ainsi :
 > 
 > 1. _La récognition mathématique_ ou logique de l'uniformité de la causalité physique.
 > 2. _La récognition raisonnée_ de l'obligation de se conduire moralement.
-> 3. _La compréhension_, par la foi, de la communion avec la Déité, associée au service, expression de l'amour, de l'humanité. » [LU 16:8.15-18](/fr/The_Urantia_Book/16#p8_15) 
+> 3. _La compréhension_, par la foi, de la communion avec la Déité, associée au service, expression de l'amour, de l'humanité. » <a id="a60_129"></a>[LU 16:8.15-18](/fr/The_Urantia_Book/16#p8_15) 
 
 Je me suis demandé, puisque le Père me donne la personnalité et l'Ajusteur de Pensée pourquoi ne le fait-il pas en même temps. Après mûre réflexion, j'en suis arrivé à la conclusion qu'il métait absolument nécessaire de me connaitre suffisamment et d'unifier les différentes composantes de mon individualité par l'entremise de ma personnalité pour permettre à l'Ajusteur de venir habiter mon mental. Autrement dit, la personnalité me permet non seulement d'être conscient, comme Fido l'est, mais dêtre conscient que je suis conscient. Cet ajout de conscience me donne la possibilité de me connaitre, de reconnaitre les autres personnalités, de choisir moralement le bien, de devenir créatif, de connaitre mon Créateur et de chercher à devenir semblable à Lui.
 
@@ -76,7 +76,7 @@ Je me suis demandé, puisque le Père me donne la personnalité et l'Ajusteur de
 > 4. Coopération intentionnelle, la loyauté de groupe.
 > 5. Perspicacité cosmique, la compréhension des significations universelles.
 > 6. Consécration de la personnalité, la dévotion à faire de tout cœur la volonté du Père.
-> 7. L'adoration, quand on poursuit sincèrement les valeurs divines et que l'on aime de tout son cœur le divin Donateur des Valeurs. [LU 16:8.5-14](/fr/The_Urantia_Book/16#p8_5)
+> 7. L'adoration, quand on poursuit sincèrement les valeurs divines et que l'on aime de tout son cœur le divin Donateur des Valeurs. <a id="a78_133"></a>[LU 16:8.5-14](/fr/The_Urantia_Book/16#p8_5)
 
 Par ce complément d'information, nous réalisons que la conscience de soi aussi nommée l'ego est reliée au mental et à l'ajout qualitatif de la personnalité.
 

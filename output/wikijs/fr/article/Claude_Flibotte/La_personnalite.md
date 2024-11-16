@@ -147,19 +147,19 @@ Le don de la personnalité est inclus dans le circuit mental reçu de la Divine 
 
 Puisqu'il est l'origine et la source de toutes personnalités, il est concevable que ce soit lui le donateur de la personnalité.
 
-> L'attribution de la personnalité est la fonction exclusive du Père Universel, elle consiste en la personnalisation des systèmes énergétiques vivants auxquels il confère les attributs d'une conscience créative relative et le contrôle par libre arbitre de ces attributs. Nulle personnalité n'est séparée de Dieu le Père, et nulle n'existe sinon pour Dieu le Père. Les attributs fondamentaux de l'individualité humaine ainsi que l'Ajusteur absolu, noyau de la personnalité humaine, sont conférés par le Père Universel agissant dans son domaine exclusivement personnel de ministère cosmique. <a id="a149_277"></a>[LU 5:6.4](/fr/The_Urantia_Book/5#p6_4)
+> L'attribution de la personnalité est la fonction exclusive du Père Universel, elle consiste en la personnalisation des systèmes énergétiques vivants auxquels il confère les attributs d'une conscience créative relative et le contrôle par libre arbitre de ces attributs. Nulle personnalité n'est séparée de Dieu le Père, et nulle n'existe sinon pour Dieu le Père. Les attributs fondamentaux de l'individualité humaine ainsi que l'Ajusteur absolu, noyau de la personnalité humaine, sont conférés par le Père Universel agissant dans son domaine exclusivement personnel de ministère cosmique. <a id="a149_590"></a>[LU 5:6.4](/fr/The_Urantia_Book/5#p6_4)
 
 **5. Dieu est le dispensateur et le conservateur de chaque personnalité.**
 
 Puisqu'il est la source de la personnalité, Dieu, le Père Universel est également le but du retour de toutes les personnalités vers leur propre source.
 
-> Le Père Universel est le Dieu des personnalités. Depuis les mortels et les créatures matérielles les plus humbles jouissant d'un statut de personnalité jusqu'aux plus hautes personnes ayant la dignité de créateur et un statut divin, le domaine de la personnalité universelle a son centre et sa circonférence dans le Père Universel. Dieu le Père est le distributeur et le conservateur de toute personnalité. Et le Père du Paradis est également la destinée de toutes les personnalités finies qui choisissent sincèrement de faire la volonté divine, qui aiment Dieu et désirent ardemment être semblables à lui. <a id="a157_609"></a>[LU 5:6.1](/fr/The_Urantia_Book/5#p6_1)
+> Le Père Universel est le Dieu des personnalités. Depuis les mortels et les créatures matérielles les plus humbles jouissant d'un statut de personnalité jusqu'aux plus hautes personnes ayant la dignité de créateur et un statut divin, le domaine de la personnalité universelle a son centre et sa circonférence dans le Père Universel. Dieu le Père est le distributeur et le conservateur de toute personnalité. Et le Père du Paradis est également la destinée de toutes les personnalités finies qui choisissent sincèrement de faire la volonté divine, qui aiment Dieu et désirent ardemment être semblables à lui. <a id="a155_609"></a>[LU 5:6.1](/fr/The_Urantia_Book/5#p6_1)
 
 **6. La personnalité est un mystère universel.**
 
 À l'instar de Dieu qui est un mystère par sa nature infinie et absolue, la personnalité est également un mystère, car nous ne pouvons la comprendre entièrement bien que nous nous en servons quotidiennement.
 
-> La personnalité est l'un des mystères impénétrés des univers. Nous pouvons former des concepts adéquats des facteurs qui entrent dans la composition de divers ordres et niveaux de personnalités, mais nous ne comprenons pas entièrement la nature réelle de la personnalité elle-même. Nous percevons clairement les nombreux facteurs qui, une fois réunis, constituent le véhicule de la personnalité humaine, mais nous ne saisissons pas pleinement la nature et la signification de cette personnalité finie. <a id="a163_504"></a>[LU 5:6.2](/fr/The_Urantia_Book/5#p6_2)
+> La personnalité est l'un des mystères impénétrés des univers. Nous pouvons former des concepts adéquats des facteurs qui entrent dans la composition de divers ordres et niveaux de personnalités, mais nous ne comprenons pas entièrement la nature réelle de la personnalité elle-même. Nous percevons clairement les nombreux facteurs qui, une fois réunis, constituent le véhicule de la personnalité humaine, mais nous ne saisissons pas pleinement la nature et la signification de cette personnalité finie. <a id="a161_504"></a>[LU 5:6.2](/fr/The_Urantia_Book/5#p6_2)
 
 ## IV. LA PERSONNALITÉ HUMAINE
 
@@ -167,19 +167,19 @@ Puisqu'il est la source de la personnalité, Dieu, le Père Universel est égale
 
 Il faut bien distinguer la différence entre la personnalité et l'identité. L'une est déifiée tandis que l'autre est temporaire sans transfert dans l'âme plus permanente.
 
-> Dans l'organisme humain, la somme des parties constitue l'individu — l'individualité — mais ce processus n'a rien de commun avec la personnalité, qui est l'unificateur de tous ces facteurs dans leurs rapports avec les réalités cosmiques. <a id="a171_240"></a>[LU 112:1.18](/fr/The_Urantia_Book/112#p1_18)
+> Dans l'organisme humain, la somme des parties constitue l'individu — l'individualité — mais ce processus n'a rien de commun avec la personnalité, qui est l'unificateur de tous ces facteurs dans leurs rapports avec les réalités cosmiques. <a id="a169_240"></a>[LU 112:1.18](/fr/The_Urantia_Book/112#p1_18)
 
 **2. Les relations de personnalité.**
 
 Le phénomène d'évolution progressive de la pensée se manifeste chez l'homme par le travail d'unification de la personnalité.
 
-> La connaissance fait naitre de l'orgueil dans le fait de la personnalité ; la sagesse est la conscience de la signification de la personnalité ; la religion est l'expérience de la connaissance de la valeur de la personnalité ; la révélation est l'assurance de la survie de la personnalité. <a id="a177_292"></a>[LU 102:3.9](/fr/The_Urantia_Book/102#p3_9)
+> La connaissance fait naitre de l'orgueil dans le fait de la personnalité ; la sagesse est la conscience de la signification de la personnalité ; la religion est l'expérience de la connaissance de la valeur de la personnalité ; la révélation est l'assurance de la survie de la personnalité. <a id="a175_292"></a>[LU 102:3.9](/fr/The_Urantia_Book/102#p3_9)
 
 **3. Les cercles psychiques et la personnalité.**
 
 Le franchissement des cercles psychiques amène l'homme progressivement de l'animalité à la divinité.
 
-> Les cercles psychiques ne sont ni exclusivement intellectuels ni entièrement morontiels ; ils concernent le statut de personnalité, les accomplissements mentaux, la croissance de l'âme et l'accord avec l'Ajusteur. La traversée réussie de ces niveaux exige le fonctionnement harmonieux de la personnalité entière, et non simplement d'une de ses phases. La croissance des parties n'équivaut pas à la vraie maturation du tout ; en réalité, les parties croissent proportionnellement à l'expansion de l'ensemble du moi — du moi tout entier — matériel, intellectuel et spirituel. <a id="a183_576"></a>[LU 110:6.3](/fr/The_Urantia_Book/110#p6_3)
+> Les cercles psychiques ne sont ni exclusivement intellectuels ni entièrement morontiels ; ils concernent le statut de personnalité, les accomplissements mentaux, la croissance de l'âme et l'accord avec l'Ajusteur. La traversée réussie de ces niveaux exige le fonctionnement harmonieux de la personnalité entière, et non simplement d'une de ses phases. La croissance des parties n'équivaut pas à la vraie maturation du tout ; en réalité, les parties croissent proportionnellement à l'expansion de l'ensemble du moi — du moi tout entier — matériel, intellectuel et spirituel. <a id="a181_576"></a>[LU 110:6.3](/fr/The_Urantia_Book/110#p6_3)
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_12/018.jpg">
@@ -202,13 +202,13 @@ Tout homme motivé par la sagesse recherchera la source de la perfection sous le
 
 Voilà une citation qui en dit long sur la nature de notre personnalité en nous faisant prendre conscience du mystère profond qu'elle représente !
 
-> La personnalité humaine est l'ombre-image projetée dans l'espace-temps par la personnalité du divin Créateur. Or, nulle actualité ne saurait être comprise convenablement par l'examen de son ombre. Il faudrait interpréter les ombres en fonction de la vraie substance. <a id="a206_102"></a>[LU 1:6.1](/fr/The_Urantia_Book/1#p6_1)
+> La personnalité humaine est l'ombre-image projetée dans l'espace-temps par la personnalité du divin Créateur. Or, nulle actualité ne saurait être comprise convenablement par l'examen de son ombre. Il faudrait interpréter les ombres en fonction de la vraie substance. <a id="a204_269"></a>[LU 1:6.1](/fr/The_Urantia_Book/1#p6_1)
 
 **6. Reconnaissance de la personnalité par les directeurs de recensement.**
 
 Par la description de la fonction des Directeurs du Recensement, nous pouvons mieux comprendre pourquoi le Père est vraiment au courant de tout ce qui se passe dans sa création!
 
-> Les Directeurs du Recensement s'occupent des êtres humains — et des autres créatures volitives — uniquement pour enregistrer le fait que la volonté fonctionne. Ils ne s'occupent pas de l'histoire de votre vie et de vos agissements ; en aucun sens ils ne sont des personnalités faisant des rapports. Le Directeur du Recensement de Nébadon, numéro 81412 d'Orvonton, stationné présentement sur Salvington, est à cet instant même personnellement conscient de votre présence vivante ici sur Urantia ; il fournira aux archives la confirmation de votre mort au moment où vous cesserez de fonctionner comme créature douée de volonté. <a id="a214_628"></a>[LU 24:2.7](/fr/The_Urantia_Book/24#p2_7)
+> Les Directeurs du Recensement s'occupent des êtres humains — et des autres créatures volitives — uniquement pour enregistrer le fait que la volonté fonctionne. Ils ne s'occupent pas de l'histoire de votre vie et de vos agissements ; en aucun sens ils ne sont des personnalités faisant des rapports. Le Directeur du Recensement de Nébadon, numéro 81412 d'Orvonton, stationné présentement sur Salvington, est à cet instant même personnellement conscient de votre présence vivante ici sur Urantia ; il fournira aux archives la confirmation de votre mort au moment où vous cesserez de fonctionner comme créature douée de volonté. <a id="a210_628"></a>[LU 24:2.7](/fr/The_Urantia_Book/24#p2_7)
 
 ## V. LE FONCTIONNEMENT DE LA PERSONNALITÉ
 
@@ -216,13 +216,13 @@ Par la description de la fonction des Directeurs du Recensement, nous pouvons mi
 
 Le type de personnalité conféré par le Père aux humains ne constitue pas le seul type de personnalité dans l'univers.
 
-> Le Père Universel confère la personnalité à de nombreux ordres d'êtres qui ont leurs activités sur divers niveaux d'actualité de l'univers. Les êtres humains d'Urantia sont dotés d'une personnalité du type mortel-fini fonctionnant au niveau des fils ascendants de Dieu. <a id="a222_272"></a>[LU 16:8.1](/fr/The_Urantia_Book/16#p8_1)
+> Le Père Universel confère la personnalité à de nombreux ordres d'êtres qui ont leurs activités sur divers niveaux d'actualité de l'univers. Les êtres humains d'Urantia sont dotés d'une personnalité du type mortel-fini fonctionnant au niveau des fils ascendants de Dieu. <a id="a218_272"></a>[LU 16:8.1](/fr/The_Urantia_Book/16#p8_1)
 
 **2. La personnalité nous confère une identité humaine.**
 
 Bien que nous soyons une multitude de personnalités, toutes celles-ci sont uniques.
 
-> Les personnalités peuvent être semblables, mais ne sont jamais les mêmes. Des personnes appartenant à une série, un type, un ordre ou un modèle donné peuvent se ressembler, et il y en a qui se ressemblent, mais elles ne sont jamais identiques. La personnalité est cette caractéristique de l'individu que nous connaissons et qui nous permettra de l'identifier dans un avenir indéterminé indépendamment de la nature et de l'étendue des changements qui se sont produits dans sa forme, son mental ou son statut d'esprit. La personnalité est cette part de l'individu qui nous permet de reconnaitre et d'identifier positivement cette personne comme celle que nous avons précédemment connue, même si elle a beaucoup changé par suite de modifications dans le véhicule d'expression et de manifestation de sa personnalité. <a id="a228_815"></a>[LU 16:8.4](/fr/The_Urantia_Book/16#p8_4)
+> Les personnalités peuvent être semblables, mais ne sont jamais les mêmes. Des personnes appartenant à une série, un type, un ordre ou un modèle donné peuvent se ressembler, et il y en a qui se ressemblent, mais elles ne sont jamais identiques. La personnalité est cette caractéristique de l'individu que nous connaissons et qui nous permettra de l'identifier dans un avenir indéterminé indépendamment de la nature et de l'étendue des changements qui se sont produits dans sa forme, son mental ou son statut d'esprit. La personnalité est cette part de l'individu qui nous permet de reconnaitre et d'identifier positivement cette personne comme celle que nous avons précédemment connue, même si elle a beaucoup changé par suite de modifications dans le véhicule d'expression et de manifestation de sa personnalité. <a id="a224_815"></a>[LU 16:8.4](/fr/The_Urantia_Book/16#p8_4)
 
 **3. Deux caractéristiques universelles de la personnalité.**
 
@@ -230,7 +230,7 @@ Voici deux caractéristiques de la personnalité humaine qui nous différencie d
 
 > La personnalité de la créature se distingue par deux phénomènes spontanés et caractéristiques du comportement réactif d'un mortel : la conscience de soi et le libre arbitre relatif qui lui est associé.
 > 
-> La conscience de soi consiste à se rendre compte intellectuellement de l'actualité de la personnalité. Elle inclut l'aptitude à reconnaitre la réalité d'autres personnalités. Elle dénote que l'on est capable d'une expérience individualisée dans et avec les réalités cosmiques, ce qui équivaut à atteindre le statut d'identité dans les relations de personnalité de l'univers. La conscience de soi implique que l'on reconnait l'actualité du ministère du mental et que l'on réalise l'indépendance relative du libre arbitre créatif et déterminant. <a id="a236_546"></a>[LU 16:8.5-6](/fr/The_Urantia_Book/16#p8_6)
+> La conscience de soi consiste à se rendre compte intellectuellement de l'actualité de la personnalité. Elle inclut l'aptitude à reconnaitre la réalité d'autres personnalités. Elle dénote que l'on est capable d'une expérience individualisée dans et avec les réalités cosmiques, ce qui équivaut à atteindre le statut d'identité dans les relations de personnalité de l'univers. La conscience de soi implique que l'on reconnait l'actualité du ministère du mental et que l'on réalise l'indépendance relative du libre arbitre créatif et déterminant. <a id="a232_546"></a>[LU 16:8.5-6](/fr/The_Urantia_Book/16#p8_6)
 
 **4. Le domaine de la personnalité humaine.**
 
@@ -250,7 +250,7 @@ Ces sept énumérations caractérisent le domaine d'action de la personnalité.
 > 
 > 6. Consécration de la personnalité, la dévotion à faire de tout cour la volonté du Père.
 > 
-> 7. L'adoration, quand on poursuit sincèrement les valeurs divines et que l'on aime de tout son cœur le divin Donateur des Valeurs. <a id="a256_133"></a>[LU 16:8.7-14](/fr/The_Urantia_Book/16#p8_14)
+> 7. L'adoration, quand on poursuit sincèrement les valeurs divines et que l'on aime de tout son cœur le divin Donateur des Valeurs. <a id="a252_133"></a>[LU 16:8.7-14](/fr/The_Urantia_Book/16#p8_14)
 
 **5. Les attributs de la personnalité.**
 
@@ -264,7 +264,7 @@ La description suivante de la personnalité représente bien comment les êtres 
 > 
 > 3. La compréhension, par la foi, de la communion avec la Déité, associée au service, expression de l'amour, de l'humanité.
 > 
-> La pleine fonction de cette dotation de personnalité est le commencement de la réalisation de la parenté avec la Déité. Une telle individualité habitée par un fragment prépersonnel de Dieu le Père est, en vérité et en fait, un fils spirituel de Dieu. Non seulement une telle créature révèle la capacité de recevoir le don de la présence divine, mais elle fait aussi ressortir une réaction sensible au circuit de gravité de personnalité du Père Paradisiaque de toutes les personnalités. <a id="a270_488"></a>[LU 16:8.15-19](/fr/The_Urantia_Book/16#p8_18)
+> La pleine fonction de cette dotation de personnalité est le commencement de la réalisation de la parenté avec la Déité. Une telle individualité habitée par un fragment prépersonnel de Dieu le Père est, en vérité et en fait, un fils spirituel de Dieu. Non seulement une telle créature révèle la capacité de recevoir le don de la présence divine, mais elle fait aussi ressortir une réaction sensible au circuit de gravité de personnalité du Père Paradisiaque de toutes les personnalités. <a id="a266_488"></a>[LU 16:8.15-19](/fr/The_Urantia_Book/16#p8_18)
 
 ## VI. LES AJUSTEURS ET LA PERSONNALITÉ
 
@@ -272,7 +272,7 @@ La description suivante de la personnalité représente bien comment les êtres 
 
 Bien avant de recevoir notre Ajusteur, la personnalité a eu la chance de s'exprimer chez l'être humain. Dieu est le créateur absolu. La personnalité, étant doté d'une grande créativité, serait-ce la raison d'une telle qualité étant de la même source que la personnalité du Père, phénomène se produisant avant toutes fragmentations sous forme d'Ajusteur?
 
-> La personnalité est un don unique de nature originale dont l'existence est indépendante de l'octroi des Ajusteurs de Pensée et antérieure à cet octroi. Néanmoins, la présence de l'Ajusteur accroit effectivement la manifestation qualitative de la personnalité. Au moment où les Ajusteurs de Pensée émanent du Père, ils sont identiques en nature, mais la personnalité est variée, originale et exclusive, et la manifestation de la personnalité est en outre conditionnée et qualifiée par la nature et les qualités des énergies associées de nature matérielle, mentale et spirituelle qui constituent le véhicule organique pour la manifestation de la personnalité. <a id="a278_660"></a>[LU 16:8.3](/fr/The_Urantia_Book/16#p8_3)
+> La personnalité est un don unique de nature originale dont l'existence est indépendante de l'octroi des Ajusteurs de Pensée et antérieure à cet octroi. Néanmoins, la présence de l'Ajusteur accroit effectivement la manifestation qualitative de la personnalité. Au moment où les Ajusteurs de Pensée émanent du Père, ils sont identiques en nature, mais la personnalité est variée, originale et exclusive, et la manifestation de la personnalité est en outre conditionnée et qualifiée par la nature et les qualités des énergies associées de nature matérielle, mentale et spirituelle qui constituent le véhicule organique pour la manifestation de la personnalité. <a id="a274_660"></a>[LU 16:8.3](/fr/The_Urantia_Book/16#p8_3)
 
 **2. L'Ajusteur influence les relations interpersonnelles.**
 
@@ -280,13 +280,13 @@ Les deux citations suivantes nous prouvent à quel point les Ajusteurs sont esse
 
 > Les formes supérieures d'intercommunication intelligente entre les êtres humains sont grandement aidées par les Ajusteurs intérieurs. Les animaux éprouvent effectivement des affinités entre eux, mais ne se communiquent pas de concepts les uns aux autres ; ils peuvent exprimer des émotions, mais non des idées ni des idéaux. Avant d'avoir reçu des Ajusteurs de Pensée, les hommes d'origine animale n'ont pas non plus de rapports intellectuels d'un type supérieur ni de communion spirituelle avec leurs compagnons. Toutefois, quand les créatures évolutionnaires développent leur faculté de parole, elles sont sur la bonne voie pour recevoir des Ajusteurs.
 >
-> Les animaux communiquent effectivement entre eux d'une manière grossière, mais il n'y a que peu ou pas de personnalité dans ce contact primitif. Les Ajusteurs ne sont pas la personnalité, mais des êtres prépersonnels. Toutefois, ils viennent de la source de la personnalité, et leur présence accroit la qualité des manifestations de la personnalité humaine ; cela est spécialement vrai si l'Ajusteur a eu des expériences antérieures. <a id="a286_436"></a>[LU 109:4.1-2](/fr/The_Urantia_Book/109#p4_2)
+> Les animaux communiquent effectivement entre eux d'une manière grossière, mais il n'y a que peu ou pas de personnalité dans ce contact primitif. Les Ajusteurs ne sont pas la personnalité, mais des êtres prépersonnels. Toutefois, ils viennent de la source de la personnalité, et leur présence accroit la qualité des manifestations de la personnalité humaine ; cela est spécialement vrai si l'Ajusteur a eu des expériences antérieures. <a id="a282_436"></a>[LU 109:4.1-2](/fr/The_Urantia_Book/109#p4_2)
 
 **3. Ajusteurs et potentiel de personnalité.**
 
 Voici une autre preuve de ce que j'exprimais juste avant !
 
-> Le type d'Ajusteur a beaucoup d'influence sur le potentiel d'expression de la personnalité humaine. Au cours de tous les âges, beaucoup de grands dirigeants intellectuels et spirituels d'Urantia ont principalement dû leur influence à la supériorité et à l'expérience préalable de leur Ajusteur intérieur. <a id="a292_307"></a>[LU 109:4.3](/fr/The_Urantia_Book/109#p4_3)
+> Le type d'Ajusteur a beaucoup d'influence sur le potentiel d'expression de la personnalité humaine. Au cours de tous les âges, beaucoup de grands dirigeants intellectuels et spirituels d'Urantia ont principalement dû leur influence à la supériorité et à l'expérience préalable de leur Ajusteur intérieur. <a id="a288_307"></a>[LU 109:4.3](/fr/The_Urantia_Book/109#p4_3)
 
 ## VII. CARACTÉRISTIQUES DE LA PERSONNALITÉ
 
@@ -294,7 +294,7 @@ Voici une autre preuve de ce que j'exprimais juste avant !
 
 Sachant l'origine réelle de la personnalité, comment s'étonner que sa principale fonction soit d'unifier les différentes composantes de l'individualité !
 
-> La personnalité a l'aptitude innée d'étendre son rayon d'action pour unifier toutes les réalités constituantes. La personnalité infinie de la Source-Centre Première, le Père Universel, unifie les sept Absolus constituant l'Infinité. La personnalité des mortels, étant un don direct et exclusif du Père Universel, possède également le potentiel capable d'unifier les facteurs constituants de la créature mortelle. Cette créativité unifiante de toute personnalité de créature est une marque de naissance de sa haute source exclusive ; elle est une preuve supplémentaire de son contact ininterrompu avec la même source par le circuit de personnalité, grâce auquel la personnalité de la créature maintient un contact direct et vivifiant avec le Père Paradisiaque de toute personnalité. <a id="a300_784"></a>[LU 56:4.2](/fr/The_Urantia_Book/56#p4_2)
+> La personnalité a l'aptitude innée d'étendre son rayon d'action pour unifier toutes les réalités constituantes. La personnalité infinie de la Source-Centre Première, le Père Universel, unifie les sept Absolus constituant l'Infinité. La personnalité des mortels, étant un don direct et exclusif du Père Universel, possède également le potentiel capable d'unifier les facteurs constituants de la créature mortelle. Cette créativité unifiante de toute personnalité de créature est une marque de naissance de sa haute source exclusive ; elle est une preuve supplémentaire de son contact ininterrompu avec la même source par le circuit de personnalité, grâce auquel la personnalité de la créature maintient un contact direct et vivifiant avec le Père Paradisiaque de toute personnalité. <a id="a296_784"></a>[LU 56:4.2](/fr/The_Urantia_Book/56#p4_2)
 
 **2. Faits concernant la personnalité.**
 
@@ -326,7 +326,7 @@ Voilà une description partielle de ce que l'on peut constater de la personnalit
 
 La moralité est évolutionnaire, mais la personnalité lui procure une valeur d'esprit.
 
-> « Vous les connaitrez à leurs fruits. » La personnalité est fondamentalement invariante. Ce qui change — ce qui grandit — c'est le caractère moral. <a id="a332_150"></a>[LU 140:4.7](/fr/The_Urantia_Book/140#p4_7)
+> « Vous les connaitrez à leurs fruits. » La personnalité est fondamentalement invariante. Ce qui change — ce qui grandit — c'est le caractère moral. <a id="a328_150"></a>[LU 140:4.7](/fr/The_Urantia_Book/140#p4_7)
 
 > 11. La personnalité réagit directement à la présence d'une autre personnalité.
 > 
@@ -334,7 +334,7 @@ La moralité est évolutionnaire, mais la personnalité lui procure une valeur d
 > 
 > 13. La personnalité peut survivre au décès physique avec l'identité dans l'âme survivante. L'Ajusteur et la personnalité sont invariants ; la relation entre les deux (dans l'âme) n'est que changement, évolution continue ; et, si ce changement (la croissance) cessait, ce serait la fin de l'âme.
 > 
-> 14. La personnalité a une conscience unique du temps, quelque chose d'autre que la perception du temps par le mental ou l'esprit. <a id="a340_132"></a>[LU 112:0.13-16](/fr/The_Urantia_Book/112#p0_16)
+> 14. La personnalité a une conscience unique du temps, quelque chose d'autre que la perception du temps par le mental ou l'esprit. <a id="a336_132"></a>[LU 112:0.13-16](/fr/The_Urantia_Book/112#p0_16)
 
 ## VIII. RELIGION ET PERSONNALITÉ
 
@@ -342,39 +342,39 @@ La moralité est évolutionnaire, mais la personnalité lui procure une valeur d
 
 Personnalité et vie de l'esprit vont de pair par leur origine.
 
-> Les certitudes de la science proviennent entièrement de l'intellect ; les certitudes de la religion jaillissent des fondements mêmes de la personnalité tout entière. La science fait appel à la compréhension du mental ; la religion fait appel à la fidélité et au dévouement du corps, du mental et de l'esprit, en fait à toute la personnalité. <a id="a348_344"></a>[LU 102:1.4](/fr/The_Urantia_Book/102#p1_4)
+> Les certitudes de la science proviennent entièrement de l'intellect ; les certitudes de la religion jaillissent des fondements mêmes de la personnalité tout entière. La science fait appel à la compréhension du mental ; la religion fait appel à la fidélité et au dévouement du corps, du mental et de l'esprit, en fait à toute la personnalité. <a id="a344_344"></a>[LU 102:1.4](/fr/The_Urantia_Book/102#p1_4)
 
 **2. La religion stabilise la personnalité.**
 
 Plus l'humain se rapproche de la vérité religieuse, plus sa personnalité trouve la paix et la stabilité.
 
-> Il est difficile d'identifier et d'analyser les facteurs d'une expérience religieuse, mais il est facile d'observer que les pratiquants religieux vivent et persévèrent comme s'ils étaient déjà en présence de l'Éternel. Les croyants réagissent à la vie temporelle comme si l'immortalité était déjà à portée de leur main. Dans la vie de ces mortels, on trouve une originalité valable et une spontanéité d'expression qui les classent défmitivement à part de leurs compagnons n'ayant absorbé que la sagesse du monde. Les religionistes paraissent vivre effectivement émancipés du harcélement de la hâte et de la tension douloureuse des vicissitudes inhérentes aux courants séculiers du temps. Ils font montre d'une stabilité de personnalité et d'une sérénité de caractére que les lois de la physiologie, de la psychologie et de la sociologie n'expliquent pas. <a id="a354_857"></a>[LU 102:2.3](/fr/The_Urantia_Book/102#p2_3)
+> Il est difficile d'identifier et d'analyser les facteurs d'une expérience religieuse, mais il est facile d'observer que les pratiquants religieux vivent et persévèrent comme s'ils étaient déjà en présence de l'Éternel. Les croyants réagissent à la vie temporelle comme si l'immortalité était déjà à portée de leur main. Dans la vie de ces mortels, on trouve une originalité valable et une spontanéité d'expression qui les classent défmitivement à part de leurs compagnons n'ayant absorbé que la sagesse du monde. Les religionistes paraissent vivre effectivement émancipés du harcélement de la hâte et de la tension douloureuse des vicissitudes inhérentes aux courants séculiers du temps. Ils font montre d'une stabilité de personnalité et d'une sérénité de caractére que les lois de la physiologie, de la psychologie et de la sociologie n'expliquent pas. <a id="a350_857"></a>[LU 102:2.3](/fr/The_Urantia_Book/102#p2_3)
 
 **3. Personnalité et caractàre moral.**
 
 La moralité est évolutionnaire, mais la personnalité lui procure une valeur d'esprit.
 
-> « Vous les connaitrez à leurs fruits. » La personnalité est fondamentalement invariante. Ce qui change — ce qui grandit — c'est le caractère moral. L'erreur majeure des religions modernes est le négativisme. L'arbre qui ne porte pas de fruits est « abattu et jeté au feu ». La valeur morale ne peut provenir d'une simple répression, de l'obéissance à l'injonction « Tu ne feras pas ». La peur et la honte sont des mobiles sans valeur pour la vie religieuse. La religion n'est valable que si elle révèle la paternité de Dieu et rehausse la fraternité des hommes. <a id="a360_564"></a>[LU 140:4.7](/fr/The_Urantia_Book/140#p4_7)
+> « Vous les connaitrez à leurs fruits. » La personnalité est fondamentalement invariante. Ce qui change — ce qui grandit — c'est le caractère moral. L'erreur majeure des religions modernes est le négativisme. L'arbre qui ne porte pas de fruits est « abattu et jeté au feu ». La valeur morale ne peut provenir d'une simple répression, de l'obéissance à l'injonction « Tu ne feras pas ». La peur et la honte sont des mobiles sans valeur pour la vie religieuse. La religion n'est valable que si elle révèle la paternité de Dieu et rehausse la fraternité des hommes. <a id="a356_564"></a>[LU 140:4.7](/fr/The_Urantia_Book/140#p4_7)
 
 **4. L'amour renforce les associations de personnalités.**
 
 Dieu est amour. La personnalité trouve son origine dans ce Dieu d'amour. Il est donc naturel que l'amour se manifeste dans les relations personnelles.
 
-> L'amour est le secret des associations profitables entre personnalités. Un seul contact ne suffit pas pour connaitre réellement une personne. On ne peut pas apprécier la musique par des déductions mathématiques, bien que la musique soit une forme de rythme mathématique. Le numéro affecté à un abonné au téléphone n'identifie en aucune manière la personnalité de cet abonné et ne donne aucune indication sur son caractère. <a id="a366_425"></a>[LU 12:9.2](/fr/The_Urantia_Book/12#p9_2)
+> L'amour est le secret des associations profitables entre personnalités. Un seul contact ne suffit pas pour connaitre réellement une personne. On ne peut pas apprécier la musique par des déductions mathématiques, bien que la musique soit une forme de rythme mathématique. Le numéro affecté à un abonné au téléphone n'identifie en aucune manière la personnalité de cet abonné et ne donne aucune indication sur son caractère. <a id="a362_425"></a>[LU 12:9.2](/fr/The_Urantia_Book/12#p9_2)
 
 **5. Domination de la personnalité par l'esprit.**
 
 Puisque la personnalité est de nature déifiée, il est naturel qu'elle soit guidée par l'esprit.
 
-> Dans les superunivers évolutionnaires, l'énergie-matière est dominante sauf dans la personnalité, où l'esprit, par la médiation du mental, lutte pour la maitrise. Le but des univers évolutionnaires est l'assujettissement de l'énergie-matière par le mental, la coordination du mental avec l'esprit, et tout ceci, en vertu de la présence créative et unificatrice de la personnalité. Ainsi, par rapport à la personnalité, les systèmes physiques deviennent subordonnés, les systèmes mentaux deviennent coordonnés et les systèmes spirituels deviennent directifs. <a id="a372_560"></a>[LU 116:6.1](/fr/The_Urantia_Book/116#p6_1)
+> Dans les superunivers évolutionnaires, l'énergie-matière est dominante sauf dans la personnalité, où l'esprit, par la médiation du mental, lutte pour la maitrise. Le but des univers évolutionnaires est l'assujettissement de l'énergie-matière par le mental, la coordination du mental avec l'esprit, et tout ceci, en vertu de la présence créative et unificatrice de la personnalité. Ainsi, par rapport à la personnalité, les systèmes physiques deviennent subordonnés, les systèmes mentaux deviennent coordonnés et les systèmes spirituels deviennent directifs. <a id="a368_560"></a>[LU 116:6.1](/fr/The_Urantia_Book/116#p6_1)
 
-> Sur les niveaux de déité, cette union du pouvoir et de la personnalité s'exprime dans le Suprême et sous la forme du Suprême. Mais l'évolution effective de la domination de l'esprit est une croissance basée sur les actes du libre arbitre des Créateurs et des créatures du grand univers. <a id="a374_289"></a>[LU 116:6.2](/fr/The_Urantia_Book/116#p6_2)
+> Sur les niveaux de déité, cette union du pouvoir et de la personnalité s'exprime dans le Suprême et sous la forme du Suprême. Mais l'évolution effective de la domination de l'esprit est une croissance basée sur les actes du libre arbitre des Créateurs et des créatures du grand univers. <a id="a370_289"></a>[LU 116:6.2](/fr/The_Urantia_Book/116#p6_2)
 
 **6. L'ultime conquête de l'esprit.**
 
 Matière, mental, et esprit sont associés dans l'expression personnelle.
 
-> Le Suprême est le canal divin à travers lequel coule l'infinité créative des triodités qui se cristallise dans le panorama galactique de l'espace où a lieu la magnifique épopée des personnalités du temps : la conquête par l'esprit sur l'énergie-matière par l'intermédiaire du mental. <a id="a380_286"></a>[LU 117:3.2](/fr/The_Urantia_Book/117#p3_2)
+> Le Suprême est le canal divin à travers lequel coule l'infinité créative des triodités qui se cristallise dans le panorama galactique de l'espace où a lieu la magnifique épopée des personnalités du temps : la conquête par l'esprit sur l'énergie-matière par l'intermédiaire du mental. <a id="a376_286"></a>[LU 117:3.2](/fr/The_Urantia_Book/117#p3_2)
 
 ## IX. POTENTIELS DE LA PERSONNALITÉ
 
@@ -386,31 +386,31 @@ Utilisons-nous le plein potentiel alloué à la personnalité sur le niveau fini
 > 
 > La réalité est sujette à l'expansion universelle, la personnalité à une diversification infinie et toutes deux sont capables d'une coordination avec la Déité presque illimitée et d'une stabilité éternelle. Alors que le champ métamorphique de la réalité non personnelle est nettement limité, nous ne connaissons aucune limite à l'évolution progressive des réalités de personnalité.
 > 
-> Sur les niveaux expérientiels atteints, tous les ordres ou valeurs de personnalités sont associables et même cocréateurs. Même Dieu et l'homme peuvent coexister dans une personnalité unifiée comme il est démontré d'une manière si exquise dans le présent statut du Christ Micaël — Fils de l'Homme et Fils de Dieu. <a id="a392_315"></a>[LU 0:5.1-3](/fr/The_Urantia_Book/0#p5_3)
+> Sur les niveaux expérientiels atteints, tous les ordres ou valeurs de personnalités sont associables et même cocréateurs. Même Dieu et l'homme peuvent coexister dans une personnalité unifiée comme il est démontré d'une manière si exquise dans le présent statut du Christ Micaël — Fils de l'Homme et Fils de Dieu. <a id="a388_315"></a>[LU 0:5.1-3](/fr/The_Urantia_Book/0#p5_3)
 
 **2. La personnalité au centre de l'existence.**
 
 La personnalité jointe à l'identité humaine fusionnée à son Ajusteur garantit la survie éternelle de cette créature nouvelle.
 
-> Tous les concepts humains de la réalité sont basés sur l'hypothèse que la personnalité humaine est actuelle. Tous les concepts des réalités suprahumaines sont basés sur l'expérience de la personnalité humaine avec les réalités cosmiques et dans ces réalités cosmiques de certaines entités spirituelles et personnalités divines associées. Dans l'expérience humaine, tout ce qui n'est pas spirituel, sauf la personnalité, est un moyen en vue d'une fin. Toute véritable relation entre un mortel et d'autres personnes — humaines ou divines — est une fin en soi. Et une telle association avec la personnalité de la Déité est le but éternel de l'ascension de l'univers. <a id="a398_666"></a>[LU 112:2.8](/fr/The_Urantia_Book/112#p2_8)
+> Tous les concepts humains de la réalité sont basés sur l'hypothèse que la personnalité humaine est actuelle. Tous les concepts des réalités suprahumaines sont basés sur l'expérience de la personnalité humaine avec les réalités cosmiques et dans ces réalités cosmiques de certaines entités spirituelles et personnalités divines associées. Dans l'expérience humaine, tout ce qui n'est pas spirituel, sauf la personnalité, est un moyen en vue d'une fin. Toute véritable relation entre un mortel et d'autres personnes — humaines ou divines — est une fin en soi. Et une telle association avec la personnalité de la Déité est le but éternel de l'ascension de l'univers. <a id="a394_666"></a>[LU 112:2.8](/fr/The_Urantia_Book/112#p2_8)
 
 **3. Unité cosmique de la personnalité.**
 
 C'est dans la personnalité de Jésus que nous pouvons assister à la plus grande unification possible de la personnalité humaine.
 
-> Le dessein de l'évolution cosmique est d'atteindre l'unité de la personnalité par une maitrise croissante de l'esprit, par une réponse volitive aux enseignements et aux directives de l'Ajusteur de Pensée. La personnalité, tant humaine que suprahumaine, est caractérisée par une qualité cosmique inhérente que l'on pourrait appeler «l'évolution de la maitrise », l'expansion du contrôle à la fois de soimême et de son environnement. <a id="a404_434"></a>[LU 112:2.15](/fr/The_Urantia_Book/112#p2_15)
+> Le dessein de l'évolution cosmique est d'atteindre l'unité de la personnalité par une maitrise croissante de l'esprit, par une réponse volitive aux enseignements et aux directives de l'Ajusteur de Pensée. La personnalité, tant humaine que suprahumaine, est caractérisée par une qualité cosmique inhérente que l'on pourrait appeler «l'évolution de la maitrise », l'expansion du contrôle à la fois de soimême et de son environnement. <a id="a400_434"></a>[LU 112:2.15](/fr/The_Urantia_Book/112#p2_15)
 
 **4. La personnalité peut éterniser son but.**
 
 La personnalité est déjà éternelle par sa nature déifiée. Cependant, c'est par la fusion entre l'identité humaine et l'Ajusteur que la personnalité unifiée rendra cette identité éternelle et déifiée.
 
-> La personnalité de la créature mortelle peut devenir éternelle en s'identifiant avec l'esprit intérieur par la technique consistant à choisir de faire la volonté du Père. Cette consécration de la volonté équivaut à la réalisation d'un dessein de réalité éternelle. Cela signifie que le dessein de la créature est devenu invariant par rapport à la succession des instants ; ou, en d'autres termes, que les moments qui se succèdent ne verront aucun changement dans le dessein de la créature. Un million ou un milliard de moments n'y changeront rien. Les nombres ont cessé d'avoir une signification concernant le dessein de la créature. C'est ainsi que le choix de la créature s'ajoutant au choix de Dieu se traduit par les réalités éternelles de l'union sans fin entre l'esprit de Dieu et la nature de l'homme, au service perpétuel des enfants de Dieu et de leur Père du Paradis. <a id="a410_880"></a>[LU 118:1.2](/fr/The_Urantia_Book/118#p1_2)
+> La personnalité de la créature mortelle peut devenir éternelle en s'identifiant avec l'esprit intérieur par la technique consistant à choisir de faire la volonté du Père. Cette consécration de la volonté équivaut à la réalisation d'un dessein de réalité éternelle. Cela signifie que le dessein de la créature est devenu invariant par rapport à la succession des instants ; ou, en d'autres termes, que les moments qui se succèdent ne verront aucun changement dans le dessein de la créature. Un million ou un milliard de moments n'y changeront rien. Les nombres ont cessé d'avoir une signification concernant le dessein de la créature. C'est ainsi que le choix de la créature s'ajoutant au choix de Dieu se traduit par les réalités éternelles de l'union sans fin entre l'esprit de Dieu et la nature de l'homme, au service perpétuel des enfants de Dieu et de leur Père du Paradis. <a id="a406_880"></a>[LU 118:1.2](/fr/The_Urantia_Book/118#p1_2)
 
 **5. Action de la personnalité et réaction suprême.**
 
 Vraiment, l'homme et le Suprême sont intimement reliés dans l'autocréation personnelle.
 
-> La personnalité en progrès laisse une trainée de réalité actualisée lors de son passage par les niveaux ascendants de l'univers. Qu'elles soient mentales, spirituelles ou énergétiques, les créations croissantes du temps et de l'espace sont modifiées par la progression des personnalités à travers leurs domaines. Quand l'homme agit, le Suprême réagit, et cette opération constitue le fait de la progression. <a id="a416_410"></a>[LU 117:5.6](/fr/The_Urantia_Book/117#p5_6)
+> La personnalité en progrès laisse une trainée de réalité actualisée lors de son passage par les niveaux ascendants de l'univers. Qu'elles soient mentales, spirituelles ou énergétiques, les créations croissantes du temps et de l'espace sont modifiées par la progression des personnalités à travers leurs domaines. Quand l'homme agit, le Suprême réagit, et cette opération constitue le fait de la progression. <a id="a412_410"></a>[LU 117:5.6](/fr/The_Urantia_Book/117#p5_6)
 
 ## X. LA PERSONNALITÉ DE JÉSUS
 
@@ -418,13 +418,13 @@ Vraiment, l'homme et le Suprême sont intimement reliés dans l'autocréation pe
 
 Jésus est le modèle humain par excellence pour quiconque cherche l'équilibre en tout et l'unification de sa personnalité.
 
-> Jésus était la personnalité humaine parfaitement unifiée. Et, aujourd'hui, comme autrefois en Galilée, il continue à unifier l'expérience mortelle et à coordonner les efforts humains. Il unifie la vie, ennoblit le caractère et simplifie l'expérience. Il pénètre le mental humain pour l'élever, le transformer et le transfigurer. Il est littéralement vrai que, «si un homme a le Christ Jésus en lui, il est une nouvelle créature ; les anciennes choses sont en train de passer et voici, toutes choses deviennent nouvelles ». <a id="a424_525"></a>[LU 100:7.18](/fr/The_Urantia_Book/100#p7_18)
+> Jésus était la personnalité humaine parfaitement unifiée. Et, aujourd'hui, comme autrefois en Galilée, il continue à unifier l'expérience mortelle et à coordonner les efforts humains. Il unifie la vie, ennoblit le caractère et simplifie l'expérience. Il pénètre le mental humain pour l'élever, le transformer et le transfigurer. Il est littéralement vrai que, «si un homme a le Christ Jésus en lui, il est une nouvelle créature ; les anciennes choses sont en train de passer et voici, toutes choses deviennent nouvelles ». <a id="a420_525"></a>[LU 100:7.18](/fr/The_Urantia_Book/100#p7_18)
 
 **2. Jésus une personnalité bien intégrée.**
 
 Toute personne, maitre d'elle-même et équilibrée, comme l'était Jésus, engendre le respect et l'admiration des autres. Une qualité désirable que nous devrions tous rechercher avidement
 
-> Le Fils de l'Homme fut toujours une personnalité bien équilibrée. Ses ennemis eux-mêmes lui témoignaient un respect salutaire ; ils craignaient même sa présence. Jésus était sans peur. Il débordait d'enthousiasme divin, mais ne devenait jamais fanatique. Il était émotivement actif, mais jamais instable. Il avait de l'imagination, mais était toujours pratique. Il faisait franchement face aux réalités de la vie, mais n'était jamais ennuyeux ni prosaïque. Il était courageux, mais jamais téméraire ; prudent, mais jamais lâche. Il était compatissant, mais non sentimental ; exceptionnel, mais non excentrique. Il était pieux, mais non bigot. Il était si bien équilibré parce qu'il était si parfaitement unifié. <a id="a430_714"></a>[LU 100:7.4](/fr/The_Urantia_Book/100#p7_4)
+> Le Fils de l'Homme fut toujours une personnalité bien équilibrée. Ses ennemis eux-mêmes lui témoignaient un respect salutaire ; ils craignaient même sa présence. Jésus était sans peur. Il débordait d'enthousiasme divin, mais ne devenait jamais fanatique. Il était émotivement actif, mais jamais instable. Il avait de l'imagination, mais était toujours pratique. Il faisait franchement face aux réalités de la vie, mais n'était jamais ennuyeux ni prosaïque. Il était courageux, mais jamais téméraire ; prudent, mais jamais lâche. Il était compatissant, mais non sentimental ; exceptionnel, mais non excentrique. Il était pieux, mais non bigot. Il était si bien équilibré parce qu'il était si parfaitement unifié. <a id="a426_714"></a>[LU 100:7.4](/fr/The_Urantia_Book/100#p7_4)
 
 **3. Jésus avait un grand respect pour la personnalité humaine.**
 
@@ -432,13 +432,13 @@ Connaissant l'origine de la personnalité, comment ne pas être remplie d'un gra
 
 > Respectez toujours la personnalité de l'homme. Une cause juste ne doit jamais être promue par la force ; les victoires spirituelles se gagnent uniquement par le pouvoir spirituel. Cette injonction contre l'emploi d'influences matérielles s'applique aussi bien à la force psychique qu'à la force physique. On ne doit employer ni des arguments accablants ni la supériorité mentale pour contraindre des hommes et des femmes à entrer dans le royaume. Le mental humain ne doit ni être écrasé par le seul poids de la logique ni intimidé par une éloquence astucieuse. Bien que l'émotion, en tant que facteur dans les décisions humaines, ne puisse être entièrement éliminée, quiconque veut faire progresser la cause du royaume ne devrait pas y faire directement appel. Ayez directement recours à l'esprit divin qui habite le mental des hommes, et non à la peur, à la pitié ou au simple sentiment. En faisant appel aux hommes, soyez équitables ; contrôlez-vous et restez dument sur la réserve ; respectez comme il convient la personnalité de vos élèves. Rappelez-vous que j'ai dit : «Voici, je me tiens à la porte et je frappe, et j'entrerai chez quiconque veut ouvrir. »
 > 
-> En initiant les hommes au royaume, ne diminuez ou ne détruisez pas leur respect d'eux-mêmes. Le respect de soi poussé à l'excès peut détruire l'humilité appropriée et se transformer en orgueil, en vanité et en arrogance ; mais la perte du respect de soi aboutit souvent à la paralysie de la volonté. Cet évangile a pour but de rétablir le respect de soi chez ceux qui l'ont perdu et de le réfréner chez ceux qui l'ont. Ne commettez pas l'erreur de simplement condamner ce qu'il y a de mauvais dans la vie de vos élèves ; n'omettez pas de reconnaitre libéralement, dans leur vie, les choses les plus dignes de louanges. N'oubliez pas que rien ne m'arrêtera pour rétablir le respect de soi chez ceux qui l'ont perdu et qui désirent réellement le regagner. <a id="a438_756"></a>[LU 159:3.2-3](/fr/The_Urantia_Book/159#p3_3)
+> En initiant les hommes au royaume, ne diminuez ou ne détruisez pas leur respect d'eux-mêmes. Le respect de soi poussé à l'excès peut détruire l'humilité appropriée et se transformer en orgueil, en vanité et en arrogance ; mais la perte du respect de soi aboutit souvent à la paralysie de la volonté. Cet évangile a pour but de rétablir le respect de soi chez ceux qui l'ont perdu et de le réfréner chez ceux qui l'ont. Ne commettez pas l'erreur de simplement condamner ce qu'il y a de mauvais dans la vie de vos élèves ; n'omettez pas de reconnaitre libéralement, dans leur vie, les choses les plus dignes de louanges. N'oubliez pas que rien ne m'arrêtera pour rétablir le respect de soi chez ceux qui l'ont perdu et qui désirent réellement le regagner. <a id="a434_756"></a>[LU 159:3.2-3](/fr/The_Urantia_Book/159#p3_3)
 
 **4. Nous devons respecter toutes les personnalités.**
 
 L'amour divin devrait motiver toutes les personnalités dans leurs rapports avec les âmes tièdes et fragiles.
 
-> Prenez garde de ne pas blesser le respect de soi des âmes timides et craintives. Ne vous permettez pas d'être sarcastiques aux dépens de mes frères candides, ni cyniques avec mes enfants apeurés. L'oisiveté détruit le respect de soi ; donc, recommandez à vos frères de s'occuper toujours activement des tâches qu'ils ont choisies et ne négligez aucun effort pour procurer du travail à ceux qui se trouvent sans emploi. <a id="a444_421"></a>[LU 159:3.4](/fr/The_Urantia_Book/159#p3_4)
+> Prenez garde de ne pas blesser le respect de soi des âmes timides et craintives. Ne vous permettez pas d'être sarcastiques aux dépens de mes frères candides, ni cyniques avec mes enfants apeurés. L'oisiveté détruit le respect de soi ; donc, recommandez à vos frères de s'occuper toujours activement des tâches qu'ils ont choisies et ne négligez aucun effort pour procurer du travail à ceux qui se trouvent sans emploi. <a id="a440_421"></a>[LU 159:3.4](/fr/The_Urantia_Book/159#p3_4)
 
 ## XI. SURVIE DE LA PERSONNALITÉ
 
@@ -446,25 +446,25 @@ L'amour divin devrait motiver toutes les personnalités dans leurs rapports avec
 
 Dans le cosmos, rien ne se perd, pas même les valeurs d'esprit développées par la personnalité d'un non survivant.
 
-> Si l'homme mortel ne réussit pas à survivre à la mort naturelle, les valeurs spirituelles réelles de son expérience humaine survivent comme partie de l'expérience continue de l'Ajusteur de Pensée. Les valeurs de personnalité d'un tel non-survivant persistent comme facteur dans la personnalité de l'Être Suprême en voie d'actualisation. Ces qualités persistantes de la personnalité sont dépourvues d'identité, mais non de valeurs expérientielles accumulées durant la vie mortelle dans la chair. La survie de l'identité dépend de la survie de l'âme immortelle de statut morontiel et de valeur divine croissante. L'identité de la personnalité survit dans et par la survie de l'âme. <a id="a452_682"></a>[LU 16:9.3](/fr/The_Urantia_Book/16#p9_3)
+> Si l'homme mortel ne réussit pas à survivre à la mort naturelle, les valeurs spirituelles réelles de son expérience humaine survivent comme partie de l'expérience continue de l'Ajusteur de Pensée. Les valeurs de personnalité d'un tel non-survivant persistent comme facteur dans la personnalité de l'Être Suprême en voie d'actualisation. Ces qualités persistantes de la personnalité sont dépourvues d'identité, mais non de valeurs expérientielles accumulées durant la vie mortelle dans la chair. La survie de l'identité dépend de la survie de l'âme immortelle de statut morontiel et de valeur divine croissante. L'identité de la personnalité survit dans et par la survie de l'âme. <a id="a448_682"></a>[LU 16:9.3](/fr/The_Urantia_Book/16#p9_3)
 
 **2. La personnalité en relation avec Dieu.**
 
 Dieu est une personne. L'homme est également une personne. C'est par cette nature de personne à personne que Dieu et l'homme sont en relation.
 
-> L'homme ne réalise pas son union avec Dieu comme une goutte d'eau pourrait trouver son unité avec l'océan. L'homme atteint l'union divine par une communion spirituelle réciproque et progressive, par des rapports de personnalité avec un Dieu personnel, par l'accession toujours croissante à la nature divine en se conformant de tout cœur et intelligemment à la volonté divine. Une relation aussi sublime ne peut exister qu'entre des personnalités. <a id="a458_449"></a>[LU 1:7.2](/fr/The_Urantia_Book/1#p7_2)
+> L'homme ne réalise pas son union avec Dieu comme une goutte d'eau pourrait trouver son unité avec l'océan. L'homme atteint l'union divine par une communion spirituelle réciproque et progressive, par des rapports de personnalité avec un Dieu personnel, par l'accession toujours croissante à la nature divine en se conformant de tout cœur et intelligemment à la volonté divine. Une relation aussi sublime ne peut exister qu'entre des personnalités. <a id="a454_449"></a>[LU 1:7.2](/fr/The_Urantia_Book/1#p7_2)
 
 **3. La révélation favorise la survie de la personnalité.**
 
 La vérité de la révélation donne tout son sens à la personnalité. La science n'aura pour toujours qu'une idée partielle de la personnalité.
 
-> Un être humain se rend compte aussi qu'il est une partie du cosmos idéationnel, mais, bien qu'un concept puisse persister au-delà de la durée de la vie d'un mortel, il n'y a rien d'inhérent au concept qui indique la survivance personnelle de la personnalité qui conçoit. L'épuisement des possibilités de la logique et de la raison ne révèlera jamais non plus au logicien ni au raisonneur la vérité éternelle de la survie de la personnalité. <a id="a464_443"></a>[LU 101:10.2](/fr/The_Urantia_Book/101#p10_2)
+> Un être humain se rend compte aussi qu'il est une partie du cosmos idéationnel, mais, bien qu'un concept puisse persister au-delà de la durée de la vie d'un mortel, il n'y a rien d'inhérent au concept qui indique la survivance personnelle de la personnalité qui conçoit. L'épuisement des possibilités de la logique et de la raison ne révèlera jamais non plus au logicien ni au raisonneur la vérité éternelle de la survie de la personnalité. <a id="a460_443"></a>[LU 101:10.2](/fr/The_Urantia_Book/101#p10_2)
 
 **4. Destin de la personnalité non survivante.**
 
 Face au Suprême, chaque personnalité a une grande responsabilité envers cette déité en plein essor !
 
-> Dans tout le grand univers, le Suprême lutte pour s'exprimer. La mesure de son évolution divine est fondée, en partie, sur l'action de sagesse de chacune des personnalités existantes. Quand un être humain choisit la survie éternelle, il cocrée la destinée ; et, dans la vie de ce mortel ascendant, le Dieu fini trouve une mesure accrue de réalisation de soi au niveau de la personnalité et un agrandissement de sa souveraineté expérientielle. Par contre, si une créature rejette la carrière éternelle, la fraction du Suprême qui dépendait du choix de cette créature subit un retard inévitable, une carence qui doit être compensée par une expérience substitutive ou collatérale. Quant à la personnalité du non-survivant, elle est absorbée dans la surâme de la création et devient une partie de la Déité du Suprême. <a id="a470_816"></a>[LU 117:4.2](/fr/The_Urantia_Book/117#p4_2)
+> Dans tout le grand univers, le Suprême lutte pour s'exprimer. La mesure de son évolution divine est fondée, en partie, sur l'action de sagesse de chacune des personnalités existantes. Quand un être humain choisit la survie éternelle, il cocrée la destinée ; et, dans la vie de ce mortel ascendant, le Dieu fini trouve une mesure accrue de réalisation de soi au niveau de la personnalité et un agrandissement de sa souveraineté expérientielle. Par contre, si une créature rejette la carrière éternelle, la fraction du Suprême qui dépendait du choix de cette créature subit un retard inévitable, une carence qui doit être compensée par une expérience substitutive ou collatérale. Quant à la personnalité du non-survivant, elle est absorbée dans la surâme de la création et devient une partie de la Déité du Suprême. <a id="a466_816"></a>[LU 117:4.2](/fr/The_Urantia_Book/117#p4_2)
 
 Le mot « personnalité » n'apparaît pas dans la Bible.
 

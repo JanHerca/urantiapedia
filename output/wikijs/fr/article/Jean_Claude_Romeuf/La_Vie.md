@@ -69,7 +69,7 @@ La Vie de lhomme prend trois aspects :
 
 Lorsqu'une planète a été choisie par un Fils Créateur et une Mère Divine, le but de la Vie est d'y faire apparaitre par évolution des êtres capables de rechercher et de trouver Dieu. Le seul être qui puisse véritablement changer son enveloppe, se métamorphoser, c'est l'Homme!
 
-À partir de presque rien, à partir de quelques cellules végétales mises dans un bouillon de culture, le jeu qui durera des centaines de millions d'années, consistera dans un premier temps à préparer le jardin qui accueillera dans le futur, un couple d'êtres humains aptes à faire des choix. Les dés sont dans les mains des Porteurs de Vie qui fonctionneront dans un premier temps sur « _le niveau physique de l'électrochimie_ » [LU 65:1.3](/fr/The_Urantia_Book/65#p1_3)
+À partir de presque rien, à partir de quelques cellules végétales mises dans un bouillon de culture, le jeu qui durera des centaines de millions d'années, consistera dans un premier temps à préparer le jardin qui accueillera dans le futur, un couple d'êtres humains aptes à faire des choix. Les dés sont dans les mains des Porteurs de Vie qui fonctionneront dans un premier temps sur « _le niveau physique de l'électrochimie_ » <a id="a71_428"></a>[LU 65:1.3](/fr/The_Urantia_Book/65#p1_3)
 
 La vie matérielle ou physique sest différenciée à l'aurore du temps planétaire :
 
@@ -83,7 +83,7 @@ Ici, sur Urantia, le souffle de vie est divinement redistribué par la Divine Mi
 
 Ce sont les Porteurs de Vie qui ont organisé l'implantation de la Vie et programmé le développement des différents organismes vivants.
 
-Sous la juridiction des Chefs Suprêmes du Paradis qui ont la fâcheuse habitude de nêtre jamais pressés car au Paradis le temps nexiste pas, ils ont choisi le modèle de vie, qui sur Urantia, est un modèle au chlorure de sodium. Avant d'implanter la Vie, il a donc fallu attendre que les eaux soient suffisamment salées, c'est-à-dire qu'il a fallu attendre entre trois et quatre cents millions d'années après le recouvrement de la croute terrestre par locéan primordial, alors qu'avec des conditions physiques favorables, les Porteurs de Vie pourraient parachever l'évolution complète en beaucoup moins d'un million d'années. ([LU 65:8](/fr/The_Urantia_Book/65#p8))
+Sous la juridiction des Chefs Suprêmes du Paradis qui ont la fâcheuse habitude de nêtre jamais pressés car au Paradis le temps nexiste pas, ils ont choisi le modèle de vie, qui sur Urantia, est un modèle au chlorure de sodium. Avant d'implanter la Vie, il a donc fallu attendre que les eaux soient suffisamment salées, c'est-à-dire qu'il a fallu attendre entre trois et quatre cents millions d'années après le recouvrement de la croute terrestre par locéan primordial, alors qu'avec des conditions physiques favorables, les Porteurs de Vie pourraient parachever l'évolution complète en beaucoup moins d'un million d'années. (<a id="a85_625"></a>[LU 65:8](/fr/The_Urantia_Book/65#p8))
 
 Lorsque le degré de salinité fut convenable, ils implantèrent la vie dans trois mers intérieures peu profondes de la planète. La raison est évidente car avant que n'apparaissent les animaux, il fallait que la lumière puisse permettre le développement des végétaux afin d’assurer la photosynthèse et la production d'oxygène.
 
@@ -135,17 +135,17 @@ Faut-il penser que le _mental non machinal enseignable_, soit apparu par une seu
 
 De nombreux êtres vivants intermédiaires dont léponge est le principal survivant ont vu le jour. Ces êtres vivants étaient ni des végétaux, ni des animaux. Sans doute, une quantité incroyable d'individus de ce type a dû subir une modification du génome cellulaire, pour que le mental intelligent apparaisse et se diffuse sur des espaces très étendus.
 
-Je ne crois pas qu'une paramécie qui est une cellule animale, puisse être considérée comme un animal, mais qu'elle ressemble à l'amibe qui est le type même de _l'organisme animal monocellulaire_ sétant perpétué presque sans modification depuis la nuit des temps. ([LU 65:2.4](/fr/The_Urantia_Book/65#p2_4)) En réagissant au tropisme de la lumière, la paramécie ne fait pas preuve d'une perception rapide par le don d'un instinct réflexe primitif qui est le propre de l'adjuvat d'_intuition_.
+Je ne crois pas qu'une paramécie qui est une cellule animale, puisse être considérée comme un animal, mais qu'elle ressemble à l'amibe qui est le type même de _l'organisme animal monocellulaire_ sétant perpétué presque sans modification depuis la nuit des temps. (<a id="a137_264"></a>[LU 65:2.4](/fr/The_Urantia_Book/65#p2_4)) En réagissant au tropisme de la lumière, la paramécie ne fait pas preuve d'une perception rapide par le don d'un instinct réflexe primitif qui est le propre de l'adjuvat d'_intuition_.
 
 Pourtant, ce sont les organismes animaux monocellulaires ressemblant à l'amibe et à ses cousins qui soudainement ont été à l'origine de la venue des sept esprits mentaux adjuvats.
 
 Lorsqu'ils se sont regroupés en colonies, ces organismes animaux primordiaux que sont les premières cellules animales, ont formé des animaux rudimentaires pluricellulaires qui sans les citer tous, étaient comparables à l'hydre et à la méduse. Puis ce fut au tour des huitres, des oursins, des insectes, des crustacés, des lombrics de venir prendre leur fonction.
 
-Ce nest pas parce qu'on arrive en premier qu'on est forcément le plus intelligent. Ce nest pas pour rien que le Livre d'Urantia fait une liste de ces _animaux primitifs et inférieurs, branches de l'arbre de vie qui ne parvinrent pas à progresser_. ([LU 65:2.5](/fr/The_Urantia_Book/65#p2_5))
+Ce nest pas parce qu'on arrive en premier qu'on est forcément le plus intelligent. Ce nest pas pour rien que le Livre d'Urantia fait une liste de ces _animaux primitifs et inférieurs, branches de l'arbre de vie qui ne parvinrent pas à progresser_. (<a id="a143_249"></a>[LU 65:2.5](/fr/The_Urantia_Book/65#p2_5))
 
 On peut dire sans se tromper que l'adjuvat dominant leur mental intelligent est _l'esprit d'intuition_ responsable de la perception rapide et des instincts réflexes primitifs, de la faculté d'orientation et de l'instinct de conservation (un crabe fuit vers la mer et se protège en pinçant l’agresseur).
 
-L'adjuvat d'intuition est le seul pouvant établir un contact avec les niveaux non enseignables du mental non machinal ([LU 36:5.5](/fr/The_Urantia_Book/36#p5_5)). On ne peut savoir si en s'enfonçant sous la terre quand vous essayez de len faire sortir, un lombric obéit à lesprit d'intuition ou au mental machinal.
+L'adjuvat d'intuition est le seul pouvant établir un contact avec les niveaux non enseignables du mental non machinal (<a id="a147_119"></a>[LU 36:5.5](/fr/The_Urantia_Book/36#p5_5)). On ne peut savoir si en s'enfonçant sous la terre quand vous essayez de len faire sortir, un lombric obéit à lesprit d'intuition ou au mental machinal.
 
 Les sept esprits mentaux formant le mental non machinal, arrivent les uns après les autres. Ils peuvent être présents en même temps dans des formes de vie différentes, mais leur intensité qualitative peut varier d'une espèce à l'autre et même d'un individu à l'autre. Tout dépend du degré de réceptivité. Je mexplique par là en prenant pour exemple, que les hommes nont pas tous la même sensibilité aux esprits mentaux adjuvats d'adoration et de sagesse.
 
@@ -159,7 +159,7 @@ Toutes les formes de vie que nous avons vu jusquà présent ont été stationnai
 
 Il en sera de même pour les reptiles chez lesquels a été inauguré sans doute l'esprit de courage.
 
-Puisque le Livre nous dit: « _À la suite de l'apparition des mammifères, nous vîmes <ins>l’esprit de connaissance</ins> se manifester dans une mesure accrue. Puis lévolution des mammifères supérieurs permit le fonctionnement de <ins>l'esprit de conseil</ins>._ ([LU 62:6.4](/fr/The_Urantia_Book/62#p6_4)) », on peut donc déduire que les oiseaux qui ont été engendrés par les dinosaures possédaient comme eux l’adjuvat de courage. Leur mental a sans doute été sensibilisé par l'adjuvat de connaissance, mais dans une mesure très faible.
+Puisque le Livre nous dit: « _À la suite de l'apparition des mammifères, nous vîmes <ins>l’esprit de connaissance</ins> se manifester dans une mesure accrue. Puis lévolution des mammifères supérieurs permit le fonctionnement de <ins>l'esprit de conseil</ins>._ (<a id="a161_262"></a>[LU 62:6.4](/fr/The_Urantia_Book/62#p6_4)) », on peut donc déduire que les oiseaux qui ont été engendrés par les dinosaures possédaient comme eux l’adjuvat de courage. Leur mental a sans doute été sensibilisé par l'adjuvat de connaissance, mais dans une mesure très faible.
 
 Les reptiles nont pas eu de descendance évolutionnaire progressive à l'intérieur de leurs espèces : crocodiles, tortues, serpents et lézards sont pratiquement les mêmes qu'aux temps préhistoriques, ils ne se sont pas perfectionnés.
 

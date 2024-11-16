@@ -34,7 +34,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 </figure>
 
 
-Seul un poète peut discerner la poésie dans la prose banale de la vie... ([LU 48:7.22](/fr/The_Urantia_Book/48#p7_22))
+Seul un poète peut discerner la poésie dans la prose banale de la vie... (<a id="a36_74"></a>[LU 48:7.22](/fr/The_Urantia_Book/48#p7_22))
 
 Silence !...
 Il se fait tard, la nuit vient vite.
