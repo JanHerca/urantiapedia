@@ -1,0 +1,40 @@
+---
+title: "El pequeño rincón del hermano Dom: la parte del sueño"
+description: 
+published: true
+date: 2024-10-17T22:23:59Z
+tags: Le Lien, article
+editor: markdown
+dateCreated: 2024-10-17T22:23:59Z
+---
+
+<p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 Dominique Ronfet<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+
+
+“Mi única libertad es soñar, por eso sueño con la libertad. » (Benoîte Groult)
+
+- ¿Por qué la búsqueda de la libertad parece ser un deseo siempre insatisfecho?
+- Parece que tenemos dificultades para identificarnos en este espacio de libertad.
+
+Como se dice: “La libertad no existe fuera de la realidad cósmica…” [LU 54:1.4](/es/The_Urantia_Book/54#p1_4)
+
+- En definitiva, siempre hay un problema de integración de una “personalidad”, del “¿Quién soy yo?” » en una “realidad” (espacio) cuyas reglas descubrimos todos los días.
+- ¿Un poco como el patio de una escuela?
+
+Recuerdo que cuando era niño este espacio tan pequeño planteaba muchos problemas.
+
+- Tú también has experimentado estas dificultades en este mundo en miniatura:
+
+¿Con quién hablar?
+
+¿Deberías intentar hablar con las chicas?
+
+¿Quién es el grandullón de su pandilla?
+
+¿Debería acercarme a ellos?...?
+
+- Sí, ¿qué hacer, qué hacer con nuestra libertad?
+
+
+Dominique Ronfet
+
