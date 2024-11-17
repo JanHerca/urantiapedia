@@ -230,7 +230,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Mesnevi (Book I) of Rumi, with Acts of the Adepts</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Eflaki; James W. Redhouse (tr.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Islam/The_Mesnevi" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -254,7 +254,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Bird Parliament</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Farid ud-Din Attar; Edward Fitzgerald (tr.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Islam/Bird_Parliament" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -279,7 +279,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Poems from the Divan of Hafiz</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Hafiz; Gertrude Lowthian Bell (tr.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Islam/Poems_from_the_Divan_of_Hafiz" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
