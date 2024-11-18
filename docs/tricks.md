@@ -145,6 +145,7 @@ Search existing old UB refs ||
 `\(\d{1,4}(\.\d{1,2})?\)` | &nbsp;
 Search existing new UB refs ||
 `(\d{1,3}):(\d{1,2})(\.\d{1,3})?(-\d{1,3})?` | &nbsp;
+`p\. (.+)` | `<span id="p$1">[<sup><small>p. $1</small></sup>]</span>`
 
 ## VS Code tricks
 
