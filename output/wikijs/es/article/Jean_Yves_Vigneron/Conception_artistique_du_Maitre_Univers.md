@@ -110,7 +110,7 @@ Véanse también los demás párrafos del folleto 11 que tratan de la respiraci�
 > 
 > “_Los secretos de Ascendington_ incluyen el misterio de la construcción gradual y segura, en la mente material y mortal, de una contraparte espiritual y potencialmente inmortal del carácter y la identidad. Este fenómeno es uno de los misterios más inquietantes de los universos, es decir, la evolución de un alma inmortal en la mente de una criatura mortal y material. » [UB 13:1.21-22](/es/El_Libro_de_Urantia/13#p1_21)
 
-**[Debido a su extensión, el artículo se ha dividido en cuatro partes. El segundo, que trata del universo central, se presentará en el próximo Enlace Urantiano]**
+**[Debido a su extensión, el artículo se ha dividido en cuatro partes. El segundo, que trata del universo central, se presentará en el próximo «Le Lien»]**
 
 ## Enlaces
 

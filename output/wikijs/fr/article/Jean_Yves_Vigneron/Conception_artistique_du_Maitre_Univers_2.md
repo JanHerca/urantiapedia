@@ -136,7 +136,7 @@ _(suite Lien Urantien Nº 4 — les sept superunivers)_
 ## Liens
 
 - [Précédent dans cette série](/fr/article/Jean_Yves_Vigneron/Conception_artistique_du_Maitre_Univers)
-- [Prochain article de cette série](/fr/article/Jean_Yves_Vigneron/Conception_artistique_du_Maitre_Univers_3)
+
 
 <figure class="table chapter-navigator">
   <table>

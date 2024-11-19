@@ -108,10 +108,9 @@ Habiendo alcanzado la realización de la Supremacía, que los prepara para la av
 
 > Sin duda, Havona seguirá funcionando con significado absonito, incluso durante edades futuras del universo que puedan ser testigos de los intentos de los peregrinos espaciales de encontrar a Dios en niveles superfinitos. Havona es capaz de servir como universo educativo para seres absonitos. Esta será probablemente la última escuela cuando los siete superuniversos funcionen como escuela intermedia para los graduados de las escuelas primarias del espacio exterior. Nos inclinamos hacia la opinión de que los potenciales de la eterna Havona son verdaderamente ilimitados, que el universo central tiene la capacidad eterna de servir como un universo educativo experiencial para todo tipo de seres creados pasados, presentes y futuros. [UB 14:6.41](/es/El_Libro_de_Urantia/14#p6_41)
 
-_(continuación Enlace Urantiano No. 4 – los siete superuniversos)_
+_(continuación «Le Lien» No. 4 – los siete superuniversos)_
 
 ## Enlaces
 
 - [Anterior en esta serie](/es/article/Jean_Yves_Vigneron/Conception_artistique_du_Maitre_Univers)
-- [Próximo artículo de esta serie](/es/article/Jean_Yves_Vigneron/Conception_artistique_du_Maitre_Univers_3)
 

@@ -37,7 +37,7 @@ En la primera parte ya se mencionaron las posibilidades que ofrece este tipo de 
 
 Por último, en un momento en el que el formato informático se está generalizando, todos los proyectos relacionados con los libros (diccionarios de conceptos, bases de datos de publicaciones disponibles, etc.) pueden integrarse fácilmente en el sitio.
 
-Pero, sobre todo, o al menos eso espero, espero de este servicio un mayor intercambio entre lectores. Esto será posible gracias a los “grupos de discusión” electrónicos (que se crearán próximamente) mencionados anteriormente (mensajes de preguntas y respuestas), pero también por la posibilidad de enriquecer, por ejemplo, el Enlace Urantiano o todas las demás publicaciones de este tipo con artículos de cualquier hablante de francés dondequiera que esté.
+Pero, sobre todo, o al menos eso espero, espero de este servicio un mayor intercambio entre lectores. Esto será posible gracias a los “grupos de discusión” electrónicos (que se crearán próximamente) mencionados anteriormente (mensajes de preguntas y respuestas), pero también por la posibilidad de enriquecer, por ejemplo, el «Le Lien» o todas las demás publicaciones de este tipo con artículos de cualquier hablante de francés dondequiera que esté.
 
 Su apertura pública
 El sitio francófono no está terminado, pero Georges y yo tenemos previsto abrirlo al público a finales de julio. Su dirección es: http://www.urantia.org//users/F/France/frn_indx.htm.

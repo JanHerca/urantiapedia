@@ -3,7 +3,7 @@ title: "L'intelligence du cœur"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
-tags:Le Lien, article
+tags: Le Lien, article
 editor: markdown
 dateCreated: 2024-09-29T14:02:03.086Z
 ---
