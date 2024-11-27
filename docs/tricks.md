@@ -150,6 +150,7 @@ Search existing new UB refs ||
 `([a-z,;0-9])\n\n<span id=@(.+)@>\[<sup><small>p\. (.+)</small></sup>\]</span>\n\n([a-z0-9])` | `$1 <span id=@$2@>[<sup><small>$3</small></sup>]</span> $4`
 ` ` | ` `
 `\[([^\]]+)\]\(isl\d+\.htm#fr_(\d+)\)` | `[^$2]: $1`
+`\[\d+\]\(#fn_(\d+)\)` | `[^$1]`
 
 ## VS Code tricks
 
