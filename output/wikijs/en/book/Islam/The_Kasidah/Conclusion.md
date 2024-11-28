@@ -19,7 +19,7 @@ dateCreated: 2024-11-15T20:17:27Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Kasidah">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -64,7 +64,7 @@ Vive, valeque!
         </td>
         <td>
         <a href="/en/book/Islam/The_Kasidah">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

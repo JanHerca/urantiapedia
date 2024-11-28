@@ -19,7 +19,7 @@ dateCreated: 2024-11-16T19:16:5Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Mesnevi">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -89,7 +89,7 @@ At the same time that the mysteries were thus being gradually transmitted to Jel
         </td>
         <td>
         <a href="/en/book/Islam/The_Mesnevi">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

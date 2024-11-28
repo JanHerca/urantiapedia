@@ -16,7 +16,7 @@ dateCreated: 2024-11-27T20:32:21Z
         </td>
         <td>
         <a href="/en/book/Islam/Folk_lore_of_the_Holy_Land">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -93,7 +93,7 @@ NOTES<br> | [311](3_Notes#p311)
         </td>
         <td>
         <a href="/en/book/Islam/Folk_lore_of_the_Holy_Land">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

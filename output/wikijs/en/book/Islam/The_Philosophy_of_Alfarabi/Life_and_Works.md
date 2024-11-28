@@ -19,7 +19,7 @@ dateCreated: 2024-11-26T19:16:7Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Philosophy_of_Alfarabi">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -59,7 +59,7 @@ _Political Regime_, which is known as the _Book of Principles_. The reading of t
         </td>
         <td>
         <a href="/en/book/Islam/The_Philosophy_of_Alfarabi">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

@@ -19,7 +19,7 @@ dateCreated: 2024-11-26T10:15:16Z
         </td>
         <td>
         <a href="/en/book/Islam/Islam">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -59,7 +59,7 @@ The Fattiḥa, the “Lord's Prayer” of Islam, is the opening _sūra_ of the Q
         </td>
         <td>
         <a href="/en/book/Islam/Islam">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

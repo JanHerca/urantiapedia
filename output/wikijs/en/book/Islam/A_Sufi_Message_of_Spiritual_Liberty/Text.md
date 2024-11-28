@@ -16,7 +16,7 @@ dateCreated: 2024-11-21T20:38:49Z
         </td>
         <td>
         <a href="/en/book/Islam/A_Sufi_Message_of_Spiritual_Liberty">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -440,7 +440,7 @@ Mankind is born with a worshipful attitude, and as all attitudes demand satisfac
         </td>
         <td>
         <a href="/en/book/Islam/A_Sufi_Message_of_Spiritual_Liberty">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

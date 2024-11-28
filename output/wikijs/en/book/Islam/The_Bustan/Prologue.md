@@ -19,7 +19,7 @@ dateCreated: 2024-11-20T20:11:54Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Bustan">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -100,7 +100,7 @@ Although not desiring to write in praise of kings, I have inscribed this book to
         </td>
         <td>
         <a href="/en/book/Islam/The_Bustan">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

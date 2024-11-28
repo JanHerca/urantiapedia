@@ -19,7 +19,7 @@ dateCreated: 2024-11-20T18:38:5Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Enclosed_Garden_of_the_Truth">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -98,7 +98,7 @@ Though it must he admitted that the author is occasionally obscure, sometimes du
         </td>
         <td>
         <a href="/en/book/Islam/The_Enclosed_Garden_of_the_Truth">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

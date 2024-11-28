@@ -19,7 +19,7 @@ dateCreated: 2024-11-27T9:34:40Z
         </td>
         <td>
         <a href="/en/book/Islam/Bible_Koran_and_Talmud">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -79,7 +79,7 @@ Besides the Koran and the commentaries upon it, the following MSS. have been mad
         </td>
         <td>
         <a href="/en/book/Islam/Bible_Koran_and_Talmud">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

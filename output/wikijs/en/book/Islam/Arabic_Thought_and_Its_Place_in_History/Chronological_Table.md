@@ -19,7 +19,7 @@ dateCreated: 2024-11-24T10:51:55Z
         </td>
         <td>
         <a href="/en/book/Islam/Arabic_Thought_and_Its_Place_in_History">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -828,7 +828,7 @@ A.H. | A.D. | MUSLIM YEAR BEGINS. | LEADING EVENTS.
         </td>
         <td>
         <a href="/en/book/Islam/Arabic_Thought_and_Its_Place_in_History">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

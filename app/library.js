@@ -134,7 +134,8 @@ class Library {
 							nextPath: i === arr.length - 1 
 								? null 
 								: `${indexPath}/${arr[i+1][1].trim()}`,
-							indexPath
+							indexPath,
+							fullIndexTitle: Strings.bookTitlePage[lan]
 						});
 						let md = 
 							getWikijsHeader(cur[0].trim(), [...tags, 'book'],

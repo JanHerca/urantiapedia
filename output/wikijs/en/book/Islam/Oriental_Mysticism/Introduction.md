@@ -19,7 +19,7 @@ dateCreated: 2024-11-10T11:17:18Z
         </td>
         <td>
         <a href="/en/book/Islam/Oriental_Mysticism">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -78,7 +78,7 @@ For the benefit of those who study oriental poetry I have added an Appendix, con
         </td>
         <td>
         <a href="/en/book/Islam/Oriental_Mysticism">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

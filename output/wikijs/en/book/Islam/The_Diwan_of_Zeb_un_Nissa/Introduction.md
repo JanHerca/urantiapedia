@@ -19,7 +19,7 @@ dateCreated: 2024-11-21T10:26:39Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Diwan_of_Zeb_un_Nissa">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -190,7 +190,7 @@ IN THE NAME OF GOD, THE COMPASSIONATE, THE MERCIFUL
         </td>
         <td>
         <a href="/en/book/Islam/The_Diwan_of_Zeb_un_Nissa">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

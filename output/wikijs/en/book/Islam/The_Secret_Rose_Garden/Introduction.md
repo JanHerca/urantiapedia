@@ -19,7 +19,7 @@ dateCreated: 2024-11-22T18:16:44Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Secret_Rose_Garden">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -280,7 +280,7 @@ FLORENCE LEDERER.
         </td>
         <td>
         <a href="/en/book/Islam/The_Secret_Rose_Garden">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

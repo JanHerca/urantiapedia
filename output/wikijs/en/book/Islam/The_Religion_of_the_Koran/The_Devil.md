@@ -19,7 +19,7 @@ dateCreated: 2024-11-23T20:4:56Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Religion_of_the_Koran">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -61,7 +61,7 @@ He said, “O my Lord! for that Thou hast seduced me, I will surely make it seem
         </td>
         <td>
         <a href="/en/book/Islam/The_Religion_of_the_Koran">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

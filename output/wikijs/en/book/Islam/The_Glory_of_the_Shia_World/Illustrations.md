@@ -19,7 +19,7 @@ dateCreated: 2024-11-24T12:47:51Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Glory_of_the_Shia_World">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -166,7 +166,7 @@ _Note_.—The headpieces and other designs are drawn by Miss E. R. SYKES, from o
         </td>
         <td>
         <a href="/en/book/Islam/The_Glory_of_the_Shia_World">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

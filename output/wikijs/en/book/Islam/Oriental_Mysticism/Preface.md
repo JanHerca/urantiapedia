@@ -19,7 +19,7 @@ dateCreated: 2024-11-10T11:17:18Z
         </td>
         <td>
         <a href="/en/book/Islam/Oriental_Mysticism">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -59,7 +59,7 @@ ST JOHN'S COLLEGE, CAMBRIDGE.
         </td>
         <td>
         <a href="/en/book/Islam/Oriental_Mysticism">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

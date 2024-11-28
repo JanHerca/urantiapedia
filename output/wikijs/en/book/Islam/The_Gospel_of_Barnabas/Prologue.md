@@ -16,7 +16,7 @@ dateCreated: 2024-11-27T23:49:26Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Gospel_of_Barnabas">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -45,7 +45,7 @@ The great God be with you and guard you from Satan and from every evil. Amen.
         </td>
         <td>
         <a href="/en/book/Islam/The_Gospel_of_Barnabas">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

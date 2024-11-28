@@ -19,7 +19,7 @@ dateCreated: 2024-11-25T21:24:44Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Maqamat">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -113,7 +113,7 @@ His death, according to the same authority; was a great blow to learning, and he
         </td>
         <td>
         <a href="/en/book/Islam/The_Maqamat">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

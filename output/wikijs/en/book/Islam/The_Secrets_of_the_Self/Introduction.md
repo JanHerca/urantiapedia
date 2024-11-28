@@ -16,7 +16,7 @@ dateCreated: 2024-11-22T18:54:30Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Secrets_of_the_Self">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -107,7 +107,7 @@ How far the influence of his work may ultimately go I will not attempt to prophe
         </td>
         <td>
         <a href="/en/book/Islam/The_Secrets_of_the_Self">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

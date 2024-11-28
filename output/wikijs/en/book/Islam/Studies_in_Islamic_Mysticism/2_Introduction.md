@@ -19,7 +19,7 @@ dateCreated: 2024-11-22T20:3:38Z
         </td>
         <td>
         <a href="/en/book/Islam/Studies_in_Islamic_Mysticism">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -128,7 +128,7 @@ I trust that the following analysis and exposition is full enough to bring out t
         </td>
         <td>
         <a href="/en/book/Islam/Studies_in_Islamic_Mysticism">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

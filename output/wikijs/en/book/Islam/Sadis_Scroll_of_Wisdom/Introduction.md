@@ -19,7 +19,7 @@ dateCreated: 2024-11-19T20:43:59Z
         </td>
         <td>
         <a href="/en/book/Islam/Sadis_Scroll_of_Wisdom">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -119,7 +119,7 @@ Glen Hill, Walmer,
         </td>
         <td>
         <a href="/en/book/Islam/Sadis_Scroll_of_Wisdom">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

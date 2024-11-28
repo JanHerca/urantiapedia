@@ -19,7 +19,7 @@ dateCreated: 2024-11-22T20:3:38Z
         </td>
         <td>
         <a href="/en/book/Islam/Studies_in_Islamic_Mysticism">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -857,7 +857,7 @@ Zhukovski, V., [1](1_Introduction#p1), [2](1_Introduction#p2), [4](1_1#p4)
         </td>
         <td>
         <a href="/en/book/Islam/Studies_in_Islamic_Mysticism">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

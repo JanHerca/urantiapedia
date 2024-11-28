@@ -16,7 +16,7 @@ dateCreated: 2024-11-23T19:18:16Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Diwan_of_Abul_Ala">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -65,7 +65,7 @@ Note—Seeing that the vignette which Dr. Dillon once designed for his notepaper
         </td>
         <td>
         <a href="/en/book/Islam/The_Diwan_of_Abul_Ala">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

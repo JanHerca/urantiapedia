@@ -16,7 +16,7 @@ dateCreated: 2024-11-27T10:38:26Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Hanged_Poems">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -75,7 +75,7 @@ W. A. Clouston, “Arabian Poetry for English Readers” (Edinburgh).
         </td>
         <td>
         <a href="/en/book/Islam/The_Hanged_Poems">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

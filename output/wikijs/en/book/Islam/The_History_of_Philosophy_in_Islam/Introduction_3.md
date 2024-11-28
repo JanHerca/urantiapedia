@@ -19,7 +19,7 @@ dateCreated: 2024-11-25T9:7:31Z
         </td>
         <td>
         <a href="/en/book/Islam/The_History_of_Philosophy_in_Islam">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -123,7 +123,7 @@ We can hardly speak of a Muslim philosophy in the <span id="p30">[<sup><small>30
         </td>
         <td>
         <a href="/en/book/Islam/The_History_of_Philosophy_in_Islam">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

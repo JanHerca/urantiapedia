@@ -16,7 +16,7 @@ dateCreated: 2024-11-21T9:13:38Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Tarjuman_al_Ashwaq">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -61,7 +61,7 @@ I desire gratefully to acknowledge the valuable assistance of Sir Charles Lyall,
         </td>
         <td>
         <a href="/en/book/Islam/The_Tarjuman_al_Ashwaq">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

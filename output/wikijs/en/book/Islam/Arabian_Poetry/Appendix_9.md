@@ -19,7 +19,7 @@ dateCreated: 2024-11-24T18:21:59Z
         </td>
         <td>
         <a href="/en/book/Islam/Arabian_Poetry">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -98,7 +98,7 @@ vv. 47-64. The different order in which these maxims occur in different recensio
         </td>
         <td>
         <a href="/en/book/Islam/Arabian_Poetry">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

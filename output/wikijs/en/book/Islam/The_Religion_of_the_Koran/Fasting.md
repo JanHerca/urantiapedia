@@ -19,7 +19,7 @@ dateCreated: 2024-11-23T20:4:56Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Religion_of_the_Koran">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -49,7 +49,7 @@ The month of Ramazan, wherein was revealed the Koran, for a guidance to men, and
         </td>
         <td>
         <a href="/en/book/Islam/The_Religion_of_the_Koran">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

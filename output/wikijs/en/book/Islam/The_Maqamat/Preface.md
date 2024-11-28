@@ -16,7 +16,7 @@ dateCreated: 2024-11-25T21:24:44Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Maqamat">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -59,7 +59,7 @@ _September_, 1915
         </td>
         <td>
         <a href="/en/book/Islam/The_Maqamat">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

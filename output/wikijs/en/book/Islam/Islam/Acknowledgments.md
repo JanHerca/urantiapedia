@@ -16,7 +16,7 @@ dateCreated: 2024-11-26T10:15:16Z
         </td>
         <td>
         <a href="/en/book/Islam/Islam">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -73,7 +73,7 @@ S. P. C. K. for selections from Constance E. Padwick, _Muslim Devotions_ \[Londo
         </td>
         <td>
         <a href="/en/book/Islam/Islam">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

@@ -19,7 +19,7 @@ dateCreated: 2024-11-26T20:22:12Z
         </td>
         <td>
         <a href="/en/book/Islam/Development_of_Muslim_Theology">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -91,7 +91,7 @@ W. S. BLUNT: _The Future of Islam_. London, 1880.
         </td>
         <td>
         <a href="/en/book/Islam/Development_of_Muslim_Theology">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

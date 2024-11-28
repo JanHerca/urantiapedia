@@ -19,7 +19,7 @@ dateCreated: 2024-11-21T11:58:4Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Mystics_of_Islam">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -481,7 +481,7 @@ Zulaykha, [116](/en/book/Islam/The_Mystics_of_Islam/4#p116).
         </td>
         <td>
         <a href="/en/book/Islam/The_Mystics_of_Islam">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

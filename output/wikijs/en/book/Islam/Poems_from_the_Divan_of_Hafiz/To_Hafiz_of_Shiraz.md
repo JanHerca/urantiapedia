@@ -16,7 +16,7 @@ dateCreated: 2024-11-17T18:51:23Z
         </td>
         <td>
         <a href="/en/book/Islam/Poems_from_the_Divan_of_Hafiz">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -69,7 +69,7 @@ _Master and Poet, all was thine before!_
         </td>
         <td>
         <a href="/en/book/Islam/Poems_from_the_Divan_of_Hafiz">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

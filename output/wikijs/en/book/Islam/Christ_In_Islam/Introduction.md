@@ -16,7 +16,7 @@ dateCreated: 2024-11-27T10:52:36Z
         </td>
         <td>
         <a href="/en/book/Islam/Christ_In_Islam">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -73,7 +73,7 @@ _Note_.—In addition to the passages mentioned on p. 10, it has been found nece
         </td>
         <td>
         <a href="/en/book/Islam/Christ_In_Islam">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

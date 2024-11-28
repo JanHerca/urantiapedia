@@ -696,16 +696,17 @@ exports.getWikijsLinks = (prevLink, indexLink, nextLink) => {
  * @param {?string} options.prevPath Previous path.
  * @param {?string} options.nextTitle Next title.
  * @param {?string} options.nextPath Next path.
- * @param {?string} options.indexTitle Index title.
+ * @param {?string} options.fullIndexTitle Full text of index title.
+ * @param {?string} options.indexTitle Text to prefix index title.
  * @param {string} options.indexPath Index path.
  * @return {string}
  */
 exports.getWikijsNavLinks = (options) => {
 	const { prevTitle, prevPath, nextTitle, nextPath, 
-		indexTitle, indexPath} = options;
+		indexTitle, indexPath, fullIndexTitle } = options;
 	const lan = indexPath.split('/')[1];
-	const indexName = (indexTitle ? indexTitle + ' — ' : '') + 
-		Strings.bookIndexName[lan];
+	const indexName = fullIndexTitle ? fullIndexTitle :
+		(indexTitle ? indexTitle + ' — ' : '') + Strings.bookIndexName[lan];
 	const pl2 = ' class="pl-2"';
 	const pr2 = ' class="pr-2"'
 	const spanPrev = '<span class="mdi mdi-arrow-left-drop-circle"></span>';

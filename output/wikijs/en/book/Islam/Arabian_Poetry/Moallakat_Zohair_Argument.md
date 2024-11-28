@@ -19,7 +19,7 @@ dateCreated: 2024-11-24T18:21:59Z
         </td>
         <td>
         <a href="/en/book/Islam/Arabian_Poetry">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -63,7 +63,7 @@ The measure is the same with that of the first and second Poems.
         </td>
         <td>
         <a href="/en/book/Islam/Arabian_Poetry">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

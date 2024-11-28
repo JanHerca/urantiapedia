@@ -19,7 +19,7 @@ dateCreated: 2024-11-17T18:51:23Z
         </td>
         <td>
         <a href="/en/book/Islam/Poems_from_the_Divan_of_Hafiz">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -152,7 +152,7 @@ Hafiz is rather the forerunner than the founder of this school of poets. It is e
         </td>
         <td>
         <a href="/en/book/Islam/Poems_from_the_Divan_of_Hafiz">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

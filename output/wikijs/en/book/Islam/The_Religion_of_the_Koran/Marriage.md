@@ -19,7 +19,7 @@ dateCreated: 2024-11-23T20:4:56Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Religion_of_the_Koran">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -79,7 +79,7 @@ Chapter LXV., Verse 2.—And when they have reached their appointed time, then r
         </td>
         <td>
         <a href="/en/book/Islam/The_Religion_of_the_Koran">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

@@ -19,7 +19,7 @@ dateCreated: 2024-11-19T21:9:57Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Alchemy_of_Happiness">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -94,7 +94,7 @@ Theologians are the best judges of theologians, and in conclusion we may quote D
         </td>
         <td>
         <a href="/en/book/Islam/The_Alchemy_of_Happiness">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

@@ -19,7 +19,7 @@ dateCreated: 2024-11-24T12:47:51Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Glory_of_the_Shia_World">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -109,7 +109,7 @@ _No human being is free from error_.
         </td>
         <td>
         <a href="/en/book/Islam/The_Glory_of_the_Shia_World">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

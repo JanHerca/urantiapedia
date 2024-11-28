@@ -19,7 +19,7 @@ dateCreated: 2024-11-15T20:17:27Z
         </td>
         <td>
         <a href="/en/book/Islam/The_Kasidah">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -196,7 +196,7 @@ and the Pilgrim's sole consolation is in self-cultivation, and in the pleasures 
         </td>
         <td>
         <a href="/en/book/Islam/The_Kasidah">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>

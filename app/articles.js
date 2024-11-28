@@ -1158,7 +1158,7 @@ class Articles {
 								prevPath: prev ? prev.path : undefined, 
 								nextTitle: next ? next.title : undefined, 
 								nextPath: next ? next.path : undefined, 
-								indexTitle: issue.title, 
+								fullIndexTitle: issue.title, 
 								indexPath: issue.path
 							});
 							const hasNotes = (lines.findIndex(line => {

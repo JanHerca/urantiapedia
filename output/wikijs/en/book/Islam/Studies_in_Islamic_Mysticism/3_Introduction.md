@@ -19,7 +19,7 @@ dateCreated: 2024-11-22T20:3:38Z
         </td>
         <td>
         <a href="/en/book/Islam/Studies_in_Islamic_Mysticism">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
@@ -648,7 +648,7 @@ My translation covers three-fourths of the poem [3](3_Argument#fn616). The omit
         </td>
         <td>
         <a href="/en/book/Islam/Studies_in_Islamic_Mysticism">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
