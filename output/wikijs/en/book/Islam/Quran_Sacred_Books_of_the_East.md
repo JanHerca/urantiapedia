@@ -17,7 +17,7 @@ dateCreated: 2024-11-10T18:38:5Z
 		<text style="font-size:4px" x="61" y="125">1880</text>
 		<text style="font-size:9px" x="61" y="60">The Qur'ân</text>
 		<text style="font-size:8px" x="61" y="70">Sacred Books</text>
-		<text style="font-size:8px" x="61" y="70">of the East</text>
+		<text style="font-size:8px" x="61" y="80">of the East</text>
 	</g>
 </svg>
 </div>
