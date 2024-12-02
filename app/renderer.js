@@ -2211,13 +2211,19 @@ const handle_translateButton = (evt) => {
 	const targetLan = controls.drpTranslateLanguage2.value;
 	const originFolder = controls.fnTranslateOriginFolder.value;
 	const targetFolder = controls.fnTranslateTargetFolder.value;
+	const isLibraryBook = path.basename(originFolder).startsWith('book');
 
-	if (!originFolder || originFolder == '' || !targetFolder || targetFolder == '') {
+	if (!originFolder || originFolder == '' || 
+		!targetFolder || targetFolder == '') {
 		showTranslateError([new Error('Folder missing.')]);
 		return;
 	}
 
-	translator.configure(settings.translateAPIKey, settings.translateProjectID);
+	translator.configure(
+		settings.translateAPIKey, 
+		settings.translateProjectID,
+		isLibraryBook
+	);
 	
 	//Test to translate a text
 	// translator.translateText('¡Hola mundo!', sourceLan, targetLan)
@@ -2237,11 +2243,18 @@ const handle_estimateButton = (evt) => {
 	const sourceLan = controls.drpTranslateLanguage1.value;
 	const targetLan = controls.drpTranslateLanguage2.value;
 	const originFolder = controls.fnTranslateOriginFolder.value;
+	const isLibraryBook = path.basename(originFolder).startsWith('book');
 
 	if (!originFolder || originFolder == '') {
 		showTranslateError([new Error('Origin folder missing.')]);
 		return;
 	}
+
+	translator.configure(
+		settings.translateAPIKey, 
+		settings.translateProjectID,
+		isLibraryBook
+	);
 
 	loadTranslateBooks()
 		.then(() => {

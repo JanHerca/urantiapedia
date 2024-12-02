@@ -154,4 +154,4 @@ The books of the Qur'an (or Surahs, in Arabic) are given standardized names in t
 
 ## External links
 
-- [Sacred texts](/en/book/Islam/Quran/index.htm)
+- [Sacred texts](https://archive.sacred-texts.com/isl/pick/index.htm)

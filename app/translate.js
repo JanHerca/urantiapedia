@@ -12,9 +12,11 @@ const Strings = require('./strings');
 class GoogleTranslate {
 	apiKey = null;
 	projectID = null;
+	isLibraryBook = false;
 	translate = null;
 	sourceBook = null;
 	targetBook = null;
+	objects = {};
 	//location = 'global';
 	// translationClient = new TranslationServiceClient();
 
@@ -36,10 +38,13 @@ class GoogleTranslate {
 	 * Configures client.
 	 * @param {string} apiKey Optional API Key.
 	 * @param {string} projectID Optional Project ID.
+	 * @param {boolean} isLibraryBook If input are library books, not articles.
 	 */
-	configure = (apiKey, projectID) => {
+	configure = (apiKey, projectID, isLibraryBook) => {
+		this.objects = {};
 		this.apiKey = apiKey;
 		this.projectID = projectID;
+		this.isLibraryBook = isLibraryBook;
 		this.translate = new Translate({
 			projectId: projectID,
 			key: apiKey
@@ -167,18 +172,23 @@ class GoogleTranslate {
 		return readFile(sourcePath)
 			.then(lines => {
 				//Process lines and translate
-				const objects = this.processLines(lines, sourceLan, targetLan, 
+				this.objects[sourcePath] = {};
+				const result = this.objects[sourcePath];
+				result.objects = this.processLines(lines, sourceLan, targetLan, 
 					errors);
+				result.errors = errors.slice();
 				//Return any issue
-				const lineCount = objects
+				const lineCount = result.objects
 					.reduce((ac,cur) => {
 						return ac + cur.line.length;
 					}, 0);
-				const trCount = objects
+				result.lineCount = lineCount;
+				const trCount = result.objects
 					.filter(obj => obj.ignore != true)
 					.reduce((ac,cur) => {
 						return ac + (cur.text ? cur.text.length : 0);
 					}, 0);
+				result.trCount = trCount;
 				return [errors[0], lineCount, trCount];
 			})
 	}
@@ -283,6 +293,7 @@ class GoogleTranslate {
 		let headerRead = false;
 		let insideHeader = false;
 		let insideNavigator = false;
+		let insideBookFront = false;
 		let insideImage = false;
 		let insideMath = false;
 		const reAnchor = new RegExp('<a id="[a|s]\\d+_\\d+"><\\/a>', 'g');
@@ -290,6 +301,11 @@ class GoogleTranslate {
 			'The_Urantia_Book\/(\\d+)#p(\\d+)(?:_(\\d+))?\\)', 'g');
 		const reUBMulti = new RegExp('(\\d+):(\\d+).(\\d+)-(\\d+)', 'g');
 		const reUPLink = new RegExp(`\\(?\/${sourceLan}\/[^\\)]+\\)?`, 'g');
+		const reUPLink2 = new RegExp(`"\/${sourceLan}\/[^"]+"`, 'g');
+		const rePageNumber = new RegExp(`<span id="p[^"]+">` +
+			`\\[<sup><small>p[^<]+</small></sup>\\]</span>`, 'g');
+		const reVerseNumber = new RegExp(`<span id="v[^"]+">` + 
+			`<sup><small>[^<]+</small></sup></span>`, 'g')
 		const reLinks = new RegExp(
 			`\\(?(https?:\\/\\/[\\w\\d./?=#\\-\\%\\(\\)]+)\\)?`, 'g');
 		const reMath = new RegExp('\\$([^ ][^$]*)\\$', 'g');
@@ -352,12 +368,20 @@ class GoogleTranslate {
 			const isNavStart = line.startsWith('<figure class=' +
 				'"table chapter-navigator">');
 			const isImgStart = line.indexOf('class="image urantiapedia') != -1;
+			const isBookFrontStart = line.startsWith('<div class="urantiapedia-book-front');
+			const isBookFrontText = line.trim().startsWith('<text style="');
 			const isFigCaption = line.startsWith('<figcaption');
+			const isNavText = line.trim().startsWith('<span class="mdi');
+			const isNavLink = line.trim().startsWith('<a href="/');
 			const isPrevEnd = (prev && prev.startsWith('</figure>'));
-			const isHtml = line.startsWith('<br style="clear:both"') ||
+			const isDivEnd = (prev && prev.startsWith('</div>'));
+			const isHtml = 
+				line.startsWith('<br style="clear:both"') ||
 				line.startsWith('<p style="text-align:center;"') ||
-				line.startsWith('<br>') || line.startsWith('<br/>') ||
-				line.startsWith('</p>') || line.trim() == '<br>' ||
+				line.startsWith('<br>') || 
+				line.startsWith('<br/>') ||
+				line.startsWith('</p>') || 
+				line.trim() == '<br>' ||
 				line.trim() == '<br/>';
 			const isMathSep = line.startsWith('$$');
 			const isMathLine = line.startsWith('$$') && line.endsWith('$$');
@@ -396,37 +420,38 @@ class GoogleTranslate {
 			if (isCopy) {
 				line_type = 'copyright';
 			}
-			//Check if line is inside navigator
-			//Navigator not only must be ignored but also removed from output
+			//Check if line is inside navigator: in articles must be ignored 
+			// and removed, but not in books
 			insideNavigator = (!insideNavigator && isNavStart ? true :
 				(insideNavigator && isPrevEnd ? false : insideNavigator));
 			if (insideNavigator) {
-				ignore = true;
-				remove = true;
+				ignore = !this.isLibraryBook || !(isNavText || isNavLink);
+				remove = !this.isLibraryBook;
 				line_type = 'navigator';
 			}
-			//Check empty line or clear line
+			//Check empty line, break line, or other html to ignore
 			if (line.trim() === '' || isHtml || isQuoteBlank || isBlock) {
 				line_type = 'blank';
 				ignore = true;
 			}
+			//Check book front
+			insideBookFront = (!insideBookFront && isBookFrontStart ? true :
+				(insideBookFront && isDivEnd ? false : insideBookFront));
+			if (insideBookFront) {
+				ignore = !this.isLibraryBook || !isBookFrontText;
+				line_type = 'bookfront';
+			}
 			//Check image (only translate figcaption)
 			insideImage = (!insideImage && isImgStart ? true :
 				(insideImage && isPrevEnd ? false : insideImage));
-			if (insideImage && !isFigCaption) {
-				ignore = true;
-			}
 			if (insideImage) {
+				ignore = !isFigCaption;
 				line_type = 'image';
 			}
 			//Check Math LaTeX block
-			insideMath = (
-				!insideMath && isMathSep && !isMathLine 
-					? true :
-					(insideMath && isMathSep && !isMathLine
-						? false 
-						: insideMath
-					)
+			insideMath = (!insideMath && isMathSep && !isMathLine 
+				? true 
+				: (insideMath && isMathSep && !isMathLine ? false : insideMath)
 			);
 			if (insideMath || (isMathSep && !isMathLine)) {
 				ignore = true;
@@ -436,12 +461,13 @@ class GoogleTranslate {
 				ignore = true;
 				line_type = 'math';
 			}
-			//Check anchors (better remove because they are added automatically)
+			
+			//Update text to be translated
 			if (!ignore) {
-				text = line.replace(reAnchor, '');
-			}
-			//Check Urantiapedia links and external links
-			if (!ignore) {
+				//Anchors: remove, they are added automatically (in articles)
+				if (!this.isLibraryBook) {
+					text = line.replace(reAnchor, '');
+				}
 				//Title
 				if (isTitle) {
 					text = line.replace('title:', '')
@@ -462,7 +488,6 @@ class GoogleTranslate {
 							ubl[2], ubl[3]));
 					});
 				}
-
 				//Urantia Book links
 				text = (text ? text : line).replace(reUBLink, match => {
 					let extract = match;
@@ -476,28 +501,49 @@ class GoogleTranslate {
 					return `%%${extractIndex}%%`;
 				});
 				//Other UP links
-				text = text.replace(reUPLink, match => {
-					let extract = match;
-					extractIndex++;
-					extract = extract.replace(`/${sourceLan}/`, 
-						`/${targetLan}/`);
-					extracts.push(extract);
-					return `%%${extractIndex}%%`;
-				});
+				text = text.replace(
+					insideNavigator ? reUPLink2 : reUPLink, 
+					match => {
+						let extract = match;
+						extractIndex++;
+						extract = extract.replace(`/${sourceLan}/`, 
+							`/${targetLan}/`);
+						extracts.push(extract);
+						return `%%${extractIndex}%%`;
+					}
+				);
+				if (insideNavigator && text.trim() === '<a href=%%0%%>') {
+					ignore = true;
+				}
+				//Page numbers and verse numbers
+				if (this.isLibraryBook) {
+					text = text.replace(rePageNumber, match => {
+						extractIndex++;
+						extracts.push(match);
+						return `%%${extractIndex}%%`;
+					});
+					text = text.replace(reVerseNumber, match => {
+						extractIndex++;
+						extracts.push(match);
+						return `%%${extractIndex}%%`;
+					});
+				}
 				//External links
 				text = text.replace(reLinks, match => {
 					extractIndex++;
 					extracts.push(match);
 					return `%%${extractIndex}%%`;
 				});
-			}
-			//Check Math LaTeX
-			if (!ignore) {
-				text = (text ? text : line).replace(reMath, match => {
+				//Math LaTeX
+				text = text.replace(reMath, match => {
 					extractIndex++;
 					extracts.push(match);
 					return `%%${extractIndex}%%`;
 				});
+
+				if (text.trim() === '%%0%%') {
+					ignore = true;
+				}
 			}
 
 			//Return
@@ -554,8 +600,15 @@ class GoogleTranslate {
 				let qindex = 0;
 				let quotated = false;
 				let italic = false;
-				if (obj.ignore && obj.line_type != 'quote') {
+				//If nothing to translate or replace exit with original text
+				if (obj.ignore && 
+					obj.line_type != 'quote' && 
+					obj.extracts.length === 0) {
 					return obj.line;
+				}
+				//If nothing to translate but yes to replace take text
+				if (obj.ignore && !tr && obj.extracts.length > 0) {
+					tr = obj.text;
 				}
 				//Replace title
 				if (obj.line_type === 'title') {
@@ -631,7 +684,7 @@ class GoogleTranslate {
 					[...tr.matchAll(reDocEN)].length > 0) {
 					tr = tr.replace(reDocEN, (match, p1) => `paper ${p1}`);
 				}
-				//Fix if ends in <br> and it is no more
+				// Do a fix if ends in <br> and it is no more
 				if ([...obj.line.trim().matchAll(reBr)].length > 0 &&
 					[...tr.trim().matchAll(reBr)].length === 0) {
 					tr += '<br>';
