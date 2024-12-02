@@ -116,40 +116,43 @@ class GoogleTranslate {
 			return Promise.reject('Client configuration required.');
 		}
 		errors = (errors || []);
-		const objects = [];
+		this.objects[sourcePath] = {};
+		const result = this.objects[sourcePath];
 		const msg1 = 'Total text in file: {0}';
 		const msg2 = 'Text sent to translate in file: {0}';
 		//Read the file
 		return readFile(sourcePath)
 			.then(lines => {
 				//Process lines and translate
-				this.processLines(lines, sourceLan, targetLan, errors)
-					.forEach(obj => objects.push(obj));
-				const texts = objects
+				result.objects = this.processLines(lines, sourceLan, targetLan, 
+					errors);
+				const texts = result.objects
 					.filter(obj => obj.ignore != true)
 					.map(obj => obj.text);
 				return this.translateText(texts, sourceLan, targetLan);
 			})
 			.then(translations => {
 				//Process translations and write
-				objects
+				result.objects
 					.filter(obj => obj.ignore != true)
 					.forEach((obj, i) => obj.translation = translations[i]);
-				const translatedLines = this.finalizeTranslation(objects,
+				const translatedLines = this.finalizeTranslation(result.objects,
 					sourceLan, targetLan, errors);
 				return writeFile(targetPath, translatedLines.join('\n'));
 			})
 			.then(result => {
 				//Return any issue
-				const lineCount = objects
+				const lineCount = result.objects
 					.reduce((ac,cur) => {
 						return ac + cur.line.length;
 					}, 0);
-				const trCount = objects
+				result.lineCount = lineCount;
+				const trCount = result.objects
 					.filter(obj => obj.ignore != true)
 					.reduce((ac,cur) => {
 						return ac + (cur.text ? cur.text.length : 0);
 					}, 0);
+				result.trCount = trCount;
 				errors.push(strformat(msg1, lineCount));
 				errors.push(strformat(msg2, trCount));
 				return errors;
@@ -371,7 +374,7 @@ class GoogleTranslate {
 			const isBookFrontStart = line.startsWith('<div class="urantiapedia-book-front');
 			const isBookFrontText = line.trim().startsWith('<text style="');
 			const isFigCaption = line.startsWith('<figcaption');
-			const isNavText = line.trim().startsWith('<span class="mdi');
+			const isNavText = line.trim().startsWith('<span class="');
 			const isNavLink = line.trim().startsWith('<a href="/');
 			const isPrevEnd = (prev && prev.startsWith('</figure>'));
 			const isDivEnd = (prev && prev.startsWith('</div>'));
@@ -512,9 +515,6 @@ class GoogleTranslate {
 						return `%%${extractIndex}%%`;
 					}
 				);
-				if (insideNavigator && text.trim() === '<a href=%%0%%>') {
-					ignore = true;
-				}
 				//Page numbers and verse numbers
 				if (this.isLibraryBook) {
 					text = text.replace(rePageNumber, match => {
@@ -540,6 +540,11 @@ class GoogleTranslate {
 					extracts.push(match);
 					return `%%${extractIndex}%%`;
 				});
+
+				//If text has collapsed set to ignore
+				if (insideNavigator && text.trim() === '<a href=%%0%%>') {
+					ignore = true;
+				}
 
 				if (text.trim() === '%%0%%') {
 					ignore = true;

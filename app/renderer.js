@@ -505,6 +505,7 @@ const handle_drpLanguageChange = (evt) => {
 	articles.setLanguage(lan);
 	imageCatalog.setLanguage(lan);
 	mapCatalog.setLanguage(lan);
+	library.setLanguage(lan);
 	updateDefaultPaths();
 };
 

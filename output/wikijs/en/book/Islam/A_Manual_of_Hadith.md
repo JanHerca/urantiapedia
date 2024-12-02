@@ -74,7 +74,7 @@ The Hadith, second only to the Qur'an in importance and authority, are collectio
 - [Chapter XXIV: Matters Relating to Service (Ijārāt)](/en/book/Islam/A_Manual_of_Hadith/24)
 - [Chapter XXV: Debts and Mortgage](/en/book/Islam/A_Manual_of_Hadith/25)
 - [Chapter XXVI: Gifts (Hibah and Waqf)](/en/book/Islam/A_Manual_of_Hadith/26)
-- [Chapter XXVI: Wills and Inheritance](/en/book/Islam/A_Manual_of_Hadith/27)
+- [Chapter XXVII: Wills and Inheritance](/en/book/Islam/A_Manual_of_Hadith/27)
 - [Chapter XXVIII: Foods and Drinks](/en/book/Islam/A_Manual_of_Hadith/28)
 - [Chapter XXIX: Toilet](/en/book/Islam/A_Manual_of_Hadith/29)
 - [Chapter XXX: Ethics (Adab)](/en/book/Islam/A_Manual_of_Hadith/30)

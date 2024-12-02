@@ -431,7 +431,7 @@ Communauté|Fellowship
 
 **ES**
 
-Wrong | ‘Right
+Wrong | Right
 --- | ---
 ^título:|title:
 ^Título:|title:
@@ -472,6 +472,9 @@ Apocalipsis | la revelación (about The Urantia Book itself)
 Bethpage | Betfagé (Bethpage in fact should be Bethphage)
 Capernaúm or Capernaum | Cafarnaúm
 Nazareth | Nazaret
+id=«p(\d+)»|id="p$1"
+id=»p(\d+)«|id="p$1"
+Allah|Alá
 
 &nbsp; 
 
