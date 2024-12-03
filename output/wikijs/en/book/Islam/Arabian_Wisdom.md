@@ -8,7 +8,55 @@ editor: markdown
 dateCreated: 2024-11-25T21:10:31Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">John Wortabet</text>		<text style="font-size:4px" x="61" y="125">1913</text>		<text style="font-size:9px" x="61" y="60">Arabian Wisdom</text>	</g></svg></div>**The Wisdom of the East Series**Edited ByL. CRANMER-BYNGDr. S. A. KAPADIA<p style="text-align:center;"><span class="text-h3">ARABIAN WISDOM</span><br><br>SELECTIONS AND TRANSLATIONS FROM<br>THE ARABIC<br>By JOHN WORTABET, M.D.<br><br>NEW YORK<br><br>E. P. DUTTON AND COMPANY<br><br>[1913]<br>Scanned, proofed and formatted at sacred-texts.com, March, 2009. This text is in the public domain in the US because it was published prior to 1923.<br><br>TO<br><br>MY CHILDREN<br><br>“What doth the Lord require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?”—Micah vi. 8.<br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Islam/Arabian_Wisdom/cairo.jpg"></figure><br style="clear:both;"/>This short collection of Islamic wisdom literature was originally published in the Wisdom of the East Series. It features gems from the Quran, the Hadith, and traditional proverbs and aphorisms. This is principally meant as an enjoyable read; unfortunately the sayings are unattributed, which makes it less useful as a scholarly work.
+<div class="urantiapedia-book-front urantiapedia-book-islam">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">John Wortabet</text>
+		<text style="font-size:4px" x="61" y="125">1913</text>
+		<text style="font-size:9px" x="61" y="60">Arabian Wisdom</text>
+	</g>
+</svg>
+</div>
+
+**The Wisdom of the East Series**
+
+Edited By
+L. CRANMER-BYNG
+Dr. S. A. KAPADIA
+
+<p style="text-align:center;">
+<span class="text-h3">ARABIAN WISDOM</span><br>
+<br>
+SELECTIONS AND TRANSLATIONS FROM<br>
+THE ARABIC<br>
+By JOHN WORTABET, M.D.<br>
+<br>
+NEW YORK<br>
+<br>
+E. P. DUTTON AND COMPANY<br>
+<br>
+[1913]<br>
+Scanned, proofed and formatted at sacred-texts.com, March, 2009. This text is in the public domain in the US because it was published prior to 1923.<br>
+<br>
+TO<br>
+<br>
+MY CHILDREN<br>
+<br>
+“What doth the Lord require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?”—Micah vi. 8.<br>
+<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Islam/Arabian_Wisdom/cairo.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+This short collection of Islamic wisdom literature was originally published in the Wisdom of the East Series. It features gems from the Quran, the Hadith, and traditional proverbs and aphorisms. This is principally meant as an enjoyable read; unfortunately the sayings are unattributed, which makes it less useful as a scholarly work.
+
+
 ## Index
 
 - [Editorial Note](/en/book/Islam/Arabian_Wisdom/Editorial_Note)

@@ -33,6 +33,7 @@ The Arabian Poets were the historians and moralists of the age; and if they symp
 Glasgow: (printed privately) M’Laren and Son, printers<br>
 [1881]<br>
 Scanned, proofed and formatted at sacred-texts.com, October 2007 by John Bruno Hare. This text is in the public domain in the US because it was published prior to 1923.<br>
+<br>
 </p>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">

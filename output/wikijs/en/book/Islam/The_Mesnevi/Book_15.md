@@ -13,7 +13,7 @@ dateCreated: 2024-11-16T19:16:5Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Islam/The_Mesnevi/Book_13">
+        <a href="/en/book/Islam/The_Mesnevi/Book_14">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">XIV. The Chinese and Roman Artists</span>
         </a>
         </td>
@@ -23,7 +23,7 @@ dateCreated: 2024-11-16T19:16:5Z
         </a>
         </td>
         <td>
-        <a href="/en/book/Islam/The_Mesnevi/Book_15">
+        <a href="/en/book/Islam/The_Mesnevi/Book_16">
           <span class="pr-2">XVI. ‘Alī's Forbearance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -576,7 +576,7 @@ You've spent your stuff upon your cherished kindred sole,
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Islam/The_Mesnevi/Book_13">
+        <a href="/en/book/Islam/The_Mesnevi/Book_14">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">XIV. The Chinese and Roman Artists</span>
         </a>
         </td>
@@ -586,7 +586,7 @@ You've spent your stuff upon your cherished kindred sole,
         </a>
         </td>
         <td>
-        <a href="/en/book/Islam/The_Mesnevi/Book_15">
+        <a href="/en/book/Islam/The_Mesnevi/Book_16">
           <span class="pr-2">XVI. ‘Alī's Forbearance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

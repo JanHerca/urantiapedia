@@ -23,7 +23,7 @@ dateCreated: 2024-11-16T19:16:5Z
         </a>
         </td>
         <td>
-        <a href="/en/book/Islam/The_Mesnevi/Book_">
+        <a href="/en/book/Islam/The_Mesnevi/Book_13">
           <span class="pr-2">XIII. The Prophet's First Amanuensis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -238,7 +238,7 @@ O man, whose back is galled, accept his salve with thanks.
         </a>
         </td>
         <td>
-        <a href="/en/book/Islam/The_Mesnevi/Book_">
+        <a href="/en/book/Islam/The_Mesnevi/Book_13">
           <span class="pr-2">XIII. The Prophet's First Amanuensis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

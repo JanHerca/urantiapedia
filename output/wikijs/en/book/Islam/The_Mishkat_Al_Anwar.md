@@ -8,7 +8,36 @@ editor: markdown
 dateCreated: 2024-11-23T12:49:50Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Al-Ghazzali</text>		<text style="font-size:4px" x="61" y="125">1924</text>		<text style="font-size:9px" x="61" y="60">The Mishkât</text>		<text style="font-size:9px" x="61" y="70">Al-Anwar</text>		<text style="font-size:9px" x="61" y="80">(The Niche </text>		<text style="font-size:9px" x="61" y="90">for Lights)</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">Mishkât Al-Anwar</span><br>("THE NICHE FOR LIGHTS")<br><span class="text-h5">by AL-GHAZZALI</span><br><br>[1058-1111 C.E.]<br><br>Translation and Introduction by W. H. T. {William Henry Temple} GAIRDNER<br>[b. 1873, d. 1928]<br><br>First published as Monograph Vol. XIX by the Royal Asiatic Society, London 1924.<br></p>
+<div class="urantiapedia-book-front urantiapedia-book-islam">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Al-Ghazzali</text>
+		<text style="font-size:4px" x="61" y="125">1924</text>
+		<text style="font-size:9px" x="61" y="60">The Mishkât</text>
+		<text style="font-size:9px" x="61" y="70">Al-Anwar</text>
+		<text style="font-size:9px" x="61" y="80">(The Niche </text>
+		<text style="font-size:9px" x="61" y="90">for Lights)</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">Mishkât Al-Anwar</span><br>
+("THE NICHE FOR LIGHTS")<br>
+<span class="text-h5">by AL-GHAZZALI</span><br>
+<br>
+[1058-1111 C.E.]<br>
+<br>
+Translation and Introduction by W. H. T. {William Henry Temple} GAIRDNER<br>
+[b. 1873, d. 1928]<br>
+<br>
+First published as Monograph Vol. XIX by the Royal Asiatic Society, London 1924.<br>
+<br>
+</p>
+
+
 ## Index
 
 - [Acknowledgment](/en/book/Islam/The_Mishkat_Al_Anwar/Acknowledgment)

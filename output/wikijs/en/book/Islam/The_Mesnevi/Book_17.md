@@ -13,7 +13,7 @@ dateCreated: 2024-11-16T19:16:5Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Islam/The_Mesnevi/Book_15">
+        <a href="/en/book/Islam/The_Mesnevi/Book_16">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">XVI. ‘Alī's Forbearance</span>
         </a>
         </td>
@@ -83,7 +83,7 @@ EDINBURGH AND LONDON.
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Islam/The_Mesnevi/Book_15">
+        <a href="/en/book/Islam/The_Mesnevi/Book_16">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">XVI. ‘Alī's Forbearance</span>
         </a>
         </td>

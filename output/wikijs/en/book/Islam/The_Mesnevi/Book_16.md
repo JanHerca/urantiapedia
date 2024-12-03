@@ -13,7 +13,7 @@ dateCreated: 2024-11-16T19:16:5Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Islam/The_Mesnevi/Book_14">
+        <a href="/en/book/Islam/The_Mesnevi/Book_15">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">XV. Zeyd's Inspiration</span>
         </a>
         </td>
@@ -23,7 +23,7 @@ dateCreated: 2024-11-16T19:16:5Z
         </a>
         </td>
         <td>
-        <a href="/en/book/Islam/The_Mesnevi/Book_16">
+        <a href="/en/book/Islam/The_Mesnevi/Book_17">
           <span class="pr-2">XVII. Conclusion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -689,7 +689,7 @@ Its words more efficacious than an army's wheel.
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Islam/The_Mesnevi/Book_14">
+        <a href="/en/book/Islam/The_Mesnevi/Book_15">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">XV. Zeyd's Inspiration</span>
         </a>
         </td>
@@ -699,7 +699,7 @@ Its words more efficacious than an army's wheel.
         </a>
         </td>
         <td>
-        <a href="/en/book/Islam/The_Mesnevi/Book_16">
+        <a href="/en/book/Islam/The_Mesnevi/Book_17">
           <span class="pr-2">XVII. Conclusion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

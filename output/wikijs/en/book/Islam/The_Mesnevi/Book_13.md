@@ -23,7 +23,7 @@ dateCreated: 2024-11-16T19:16:5Z
         </a>
         </td>
         <td>
-        <a href="/en/book/Islam/The_Mesnevi/Book_13">
+        <a href="/en/book/Islam/The_Mesnevi/Book_14">
           <span class="pr-2">XIV. The Chinese and Roman Artists</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -519,7 +519,7 @@ Alas! Such fancy's false! Earth cannot heaven be;
         </a>
         </td>
         <td>
-        <a href="/en/book/Islam/The_Mesnevi/Book_13">
+        <a href="/en/book/Islam/The_Mesnevi/Book_14">
           <span class="pr-2">XIV. The Chinese and Roman Artists</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

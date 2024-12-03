@@ -8,7 +8,46 @@ editor: markdown
 dateCreated: 2024-11-20T20:11:54Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Sadi</text>		<text style="font-size:4px" x="61" y="125">1911</text>		<text style="font-size:9px" x="61" y="60">The Bustan</text>		<text style="font-size:9px" x="61" y="70">of Sadi</text>	</g></svg></div><p style="text-align:center;">WISDOM OF THE EAST<br><span class="text-h3">THE BUSTAN OF SADI</span><br><span class="text-h5">TRANSLATED FROM THE PERSIAN WITH AN INTRODUCTION</span><br><br>BY A. HART EDWARDS<br>London: John Murray<br>[1911]<br>Scanned, proofed and formatted by John Bruno Hare at sacred-texts.com, November 2008. This text is in the public domain in the US because it was published prior to 1923.<br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Islam/The_Bustan/caravan.jpg"><figcaption>Arab Caravan, by Jean-Leon Gerome [19th cent.] (Public Domain Image)</figcaption></figure><br style="clear:both;"/>Be generous to the extent of thy power. If thou hast not dug a well in the desert, at least place a lamp in a shrine.—p. 48This is a prose translation of the _Bustan_ of Sadi, originally published as part of the _Wisdom of the East_ series in the early 20th century, and long out of print. This little book is full of practical spiritual wisdom. Sadi doesn't lean on allegory as much as other Sufi writers of the period; most of the stories in this collection have a pretty obvious moral lesson.Born in Shiraz, Iran, in 1184, Sādi (pseudonym of Muslih-ud-Din Mushrif ibn Abdullah) is considered one of the major medieval Persian poets. He traveled widely, through regions of what is today Syria, Turkey, Egypt and Iraq. Vignettes of gritty caravan and street scenes give life to his tales. In old age he returned to Shiraz, and composed his two best-known works, the poetic _Bustan_, or _Orchard_ (in 1257), and the prose [_Gulistan_](/en/book/Islam/The_Gulistan), the _Rose Garden_ (in 1258). He died in 1283 or possibly 1291.
+<div class="urantiapedia-book-front urantiapedia-book-islam">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Sadi</text>
+		<text style="font-size:4px" x="61" y="125">1911</text>
+		<text style="font-size:9px" x="61" y="60">The Bustan</text>
+		<text style="font-size:9px" x="61" y="70">of Sadi</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+WISDOM OF THE EAST<br>
+<span class="text-h3">THE BUSTAN OF SADI</span><br>
+<span class="text-h5">TRANSLATED FROM THE PERSIAN WITH AN INTRODUCTION</span><br>
+<br>
+BY A. HART EDWARDS<br>
+London: John Murray<br>
+[1911]<br>
+<br>
+Scanned, proofed and formatted by John Bruno Hare at sacred-texts.com, November 2008. This text is in the public domain in the US because it was published prior to 1923.<br>
+<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Islam/The_Bustan/caravan.jpg">
+<figcaption>Arab Caravan, by Jean-Leon Gerome [19th cent.] (Public Domain Image)</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
+Be generous to the extent of thy power. If thou hast not dug a well in the desert, at least place a lamp in a shrine.—p. 48
+
+This is a prose translation of the _Bustan_ of Sadi, originally published as part of the _Wisdom of the East_ series in the early 20th century, and long out of print. This little book is full of practical spiritual wisdom. Sadi doesn't lean on allegory as much as other Sufi writers of the period; most of the stories in this collection have a pretty obvious moral lesson.
+
+Born in Shiraz, Iran, in 1184, Sādi (pseudonym of Muslih-ud-Din Mushrif ibn Abdullah) is considered one of the major medieval Persian poets. He traveled widely, through regions of what is today Syria, Turkey, Egypt and Iraq. Vignettes of gritty caravan and street scenes give life to his tales. In old age he returned to Shiraz, and composed his two best-known works, the poetic _Bustan_, or _Orchard_ (in 1257), and the prose [_Gulistan_](/en/book/Islam/The_Gulistan), the _Rose Garden_ (in 1258). He died in 1283 or possibly 1291.
+
+
 ## Index
 
 - [Editorial Note](/en/book/Islam/The_Bustan/Editorial)

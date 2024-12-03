@@ -8,7 +8,43 @@ editor: markdown
 dateCreated: 2024-11-21T21:56:54Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Rabindranath Tagore (tr.)</text>		<text style="font-size:4px" x="61" y="125">New York, The Macmillan Company, 1915</text>		<text style="font-size:9px" x="61" y="60">Songs of Kabîr</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">SONGS OF KABÎR</span><br><span class="text-h5">Translated by Rabindranath Tagore</span><br><br>Introduction by Evelyn Underhill<br><br>New York, The Macmillan Company<br><br>[1915]<br><br>Scanned, proofed and formatted at sacred-texts.com, March, 2002, by John Bruno Hare. This text is in the public domain in the US because it was published prior to 1923.<br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Islam/Songs_of_Kabir/kabir.jpg"></figure><br style="clear:both;"/>Kabir tried to find common ground between Hindus and Muslims. Kabir's mystical and devotional poetry has been found inspirational by people of many different faiths.--J.B. Hare
+<div class="urantiapedia-book-front urantiapedia-book-islam">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Rabindranath Tagore (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">New York, The Macmillan Company, 1915</text>
+		<text style="font-size:9px" x="61" y="60">Songs of Kabîr</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">SONGS OF KABÎR</span><br>
+<span class="text-h5">Translated by Rabindranath Tagore</span><br>
+<br>
+Introduction by Evelyn Underhill<br>
+<br>
+New York, The Macmillan Company<br>
+<br>
+[1915]<br>
+<br>
+Scanned, proofed and formatted at sacred-texts.com, March, 2002, by John Bruno Hare. This text is in the public domain in the US because it was published prior to 1923.<br>
+<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Islam/Songs_of_Kabir/kabir.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+Kabir tried to find common ground between Hindus and Muslims. Kabir's mystical and devotional poetry has been found inspirational by people of many different faiths.--J.B. Hare
+
+
+
+
 ## Index
 
 - [Introduction](/en/book/Islam/Songs_of_Kabir/Introduction)
