@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2023-12-12T14:02:03.086Z
 ---
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/books">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice de todos los grupos de libros</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Canon
 
 <div class="layout row wrap">
@@ -1087,3 +1105,21 @@ dateCreated: 2023-12-12T14:02:03.086Z
 		</div>
 	</div>
 </div>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/books">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice de todos los grupos de libros</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

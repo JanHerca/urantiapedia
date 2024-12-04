@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2023-12-12T14:02:03.086Z
 ---
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/books">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index de tous les groupes de livres</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Vedas: Rig Veda, Sama Veda, Yajur Veda et Atharva Veda
 
@@ -1825,3 +1843,21 @@ dateCreated: 2023-12-12T14:02:03.086Z
 		</div>
 	</div>
 </div>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/books">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index de tous les groupes de livres</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

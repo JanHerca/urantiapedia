@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2023-12-12T14:02:03.086Z
 ---
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/books">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index de tous les groupes de livres</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Canon de l'Ancien Testament
 
 La liste proposée ici comprend les livres considérés comme canoniques de l'Ancien Testament pour la plupart des confessions.
@@ -2735,3 +2753,22 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 </div>
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/books">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index de tous les groupes de livres</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

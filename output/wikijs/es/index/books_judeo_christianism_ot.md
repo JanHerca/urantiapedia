@@ -8,6 +8,24 @@ editor: markdown
 dateCreated: 2023-12-12T14:02:03.086Z
 ---
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/books">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice de todos los grupos de libros</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Canon del Viejo Testamento
 
 La Lista ofrecida aquí comprende los libros que se consideran canónicos del Antiguo Testamento para la mayor parte de las confesiones.
@@ -2734,3 +2752,20 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 </div>
 
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/books">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice de todos los grupos de libros</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
