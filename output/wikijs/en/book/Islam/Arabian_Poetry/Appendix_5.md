@@ -62,7 +62,7 @@ Another form which is of frequent occurrence in the collection is the _Kitat_ or
 Thou madest fair thy thought of fate, when that the days were fair,
 &nbsp;&nbsp;And fearedst not the coming ills that they to thee should bring;
 The nights were calm and safe to thee; thou wast deceived by them,
-&nbsp;&nbsp;For in the peace of night is born full many a troublous thing. <span id="p368  ">[<sup><small>p. 368  </small></sup>]</span>
+&nbsp;&nbsp;For in the peace of night is born full many a troublous thing. <span id="p368">[<sup><small>p. 368  </small></sup>]</span>
 Lo! in the skies are many stars, no one can tell their tale;
 &nbsp;&nbsp;But to the sun and moon alone eclipse brings darkening.
 The earth bears many a pleasant herb, and many a plant and tree;
@@ -115,7 +115,7 @@ Who has his will, unhindered of despite,
 The _Muweshih_ or Ballad is another form which occurs in the “Thousand and One Nights.” It is, perhaps, the most complicated verse-form in the language, and is said to have been invented by the Muslim poets of Spain, shortly after the conquest, and to have been adopted from them by their brethren of Egypt and Syria. It consists of a succession of three-line stanzas, in the first of which all six hemistichs end with the same rhyme. In the second and succeeding stanzas, the first line and the first hemistich of the second line take a new rhyme; but the second hemistich of the second line resumes the rhyme of the first stanza, and is followed by the third line of the latter, which serves as a refrain to each stanza of the poem, which is often of considerable length. Here is a specimen of this elegant form:
 
 O Censor of Love! thou that art bright as the day,
-Fortunate, clad with delight as the trees in May! <span id="p370  ">[<sup><small>p. 370  </small></sup>]</span>
+Fortunate, clad with delight as the trees in May! <span id="p370">[<sup><small>p. 370  </small></sup>]</span>
 If Fate with its cruel hand should thee assay,
 &nbsp;&nbsp;  Then wilt thou taste of its bitter cup and say,
 &nbsp;&nbsp;  Alas for Love, and out on his whole array!

@@ -92,7 +92,7 @@ Or if you say, “No, it is Three,” you are right, for that is the real nature
 
 Here we have a Trinity consisting of the Essence together with its two complementary aspects, namely, Creator and creature—God and man. Now, all men are perfect potentially, but few are actually so. These few are the prophets and saints. And since their perfection varies in degree according to their capacity for receiving illumination, one of them must stand out above all the rest. Jílí remains a Moslem in spite of his philosophy, and for him this absolutely Perfect Man is the Prophet Mohammed. In the poem from which I have quoted he identifies the Three-in-One with Mohammed and addresses him as follows:
 
-O centre of the compass! O inmost ground of the truth! O pivot of necessity and contingency! <span id="p87  ">[<sup><small>p. 87  </small></sup>]</span>
+O centre of the compass! O inmost ground of the truth! O pivot of necessity and contingency! <span id="87">[<sup><small>p. 87  </small></sup>]</span>
 O eye of the entire circle of existence! O point of the Koran and the _Furqán_! [^240]
 O perfect one, and perfecter of the most perfect, who have been beautified by the majesty of God the Merciful!
 Thou art the Pole (_Quṭb_) of the most wondrous things. The sphere of perfection in its solitude turns on thee.

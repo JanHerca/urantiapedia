@@ -2270,6 +2270,13 @@ const handle_estimateButton = (evt) => {
 				return [i[0], `Text in file / Text to translate: ${i[1]} / ${i[2]}`];
 			});
 			showTranslateLog(msgs);
+			const msgsLog = issues.map(i => {
+				const i0 = Array.isArray(i) 
+					? i[0].replace(originFolder + '\\', '').replace('.md', '')
+					: null;
+				return i0 ? `${i0}\t${i[1]}\t${i[2]}` : 'Errors';
+			}).join('\n');
+			console.log(msgsLog);
 		})
 		.catch(err => showTranslateError([err]));
 };

@@ -54,7 +54,7 @@ vv. 1-4.
 Wake, damsel! wake! and bring yon generous wine,
 The joyous soul of Enderina's vine;
 Fill, fill the crimson goblet to the brim,
-Till the wine totters o’er the circling rim: <span id="p397  ">[<sup><small>p. 397  </small></sup>]</span>
+Till the wine totters o’er the circling rim: <span id="397">[<sup><small>p. 397  </small></sup>]</span>
 Cheered by its smiles, the youth forgets his care,
 His fair one's coldness, and his own despair:
 Cheered by its smiles the doting miser rests

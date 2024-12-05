@@ -117,42 +117,42 @@ class GoogleTranslate {
 		}
 		errors = (errors || []);
 		this.objects[sourcePath] = {};
-		const result = this.objects[sourcePath];
+		const fileObjects = this.objects[sourcePath];
 		const msg1 = 'Total text in file: {0}';
 		const msg2 = 'Text sent to translate in file: {0}';
 		//Read the file
 		return readFile(sourcePath)
 			.then(lines => {
 				//Process lines and translate
-				result.objects = this.processLines(lines, sourceLan, targetLan, 
+				fileObjects.objects = this.processLines(lines, sourceLan, targetLan, 
 					errors);
-				const texts = result.objects
+				const texts = fileObjects.objects
 					.filter(obj => obj.ignore != true)
 					.map(obj => obj.text);
 				return this.translateText(texts, sourceLan, targetLan);
 			})
 			.then(translations => {
 				//Process translations and write
-				result.objects
+				fileObjects.objects
 					.filter(obj => obj.ignore != true)
 					.forEach((obj, i) => obj.translation = translations[i]);
-				const translatedLines = this.finalizeTranslation(result.objects,
-					sourceLan, targetLan, errors);
+				const translatedLines = this.finalizeTranslation(
+					fileObjects.objects, sourceLan, targetLan, errors);
 				return writeFile(targetPath, translatedLines.join('\n'));
 			})
 			.then(result => {
 				//Return any issue
-				const lineCount = result.objects
+				const lineCount = fileObjects.objects
 					.reduce((ac,cur) => {
 						return ac + cur.line.length;
 					}, 0);
-				result.lineCount = lineCount;
-				const trCount = result.objects
+				fileObjects.lineCount = lineCount;
+				const trCount = fileObjects.objects
 					.filter(obj => obj.ignore != true)
 					.reduce((ac,cur) => {
 						return ac + (cur.text ? cur.text.length : 0);
 					}, 0);
-				result.trCount = trCount;
+				fileObjects.trCount = trCount;
 				errors.push(strformat(msg1, lineCount));
 				errors.push(strformat(msg2, trCount));
 				return errors;
@@ -305,10 +305,11 @@ class GoogleTranslate {
 		const reUBMulti = new RegExp('(\\d+):(\\d+).(\\d+)-(\\d+)', 'g');
 		const reUPLink = new RegExp(`\\(?\/${sourceLan}\/[^\\)]+\\)?`, 'g');
 		const reUPLink2 = new RegExp(`"\/${sourceLan}\/[^"]+"`, 'g');
-		const rePageNumber = new RegExp(`<span id="p[^"]+">` +
-			`\\[<sup><small>p[^<]+</small></sup>\\]</span>`, 'g');
+		const rePageNumber = new RegExp(`<span id="[^"]+">` +
+			`\\[<sup><small>[^<]+<\\/small><\\/sup>\\]<\\/span>`, 'g');
 		const reVerseNumber = new RegExp(`<span id="v[^"]+">` + 
-			`<sup><small>[^<]+</small></sup></span>`, 'g')
+			`<sup><small>[^<]+<\\/small><\\/sup><\\/span>`, 'g');
+		const reSVGText = new RegExp('<text [^>]+>|<\\/text>', 'g');
 		const reLinks = new RegExp(
 			`\\(?(https?:\\/\\/[\\w\\d./?=#\\-\\%\\(\\)]+)\\)?`, 'g');
 		const reMath = new RegExp('\\$([^ ][^$]*)\\$', 'g');
@@ -404,6 +405,12 @@ class GoogleTranslate {
 			const quoteGroup = quotesIndexes.find(qi => {
 				return (qi[0] <= i && qi[1] >= i);
 			});
+
+			const genericReplace = match => {
+				extractIndex++;
+				extracts.push(match);
+				return `%%${extractIndex}%%`;
+			};
 
 			//Check if line is inside header or is a separator
 			if (!headerRead && isSep) {
@@ -515,31 +522,18 @@ class GoogleTranslate {
 						return `%%${extractIndex}%%`;
 					}
 				);
-				//Page numbers and verse numbers
+				//Page numbers, verse numbers, frontpage texts
 				if (this.isLibraryBook) {
-					text = text.replace(rePageNumber, match => {
-						extractIndex++;
-						extracts.push(match);
-						return `%%${extractIndex}%%`;
-					});
-					text = text.replace(reVerseNumber, match => {
-						extractIndex++;
-						extracts.push(match);
-						return `%%${extractIndex}%%`;
-					});
+					text = text.replace(rePageNumber, genericReplace);
+					text = text.replace(reVerseNumber, genericReplace);
+					if (isBookFrontText) {
+						text = text.replace(reSVGText, genericReplace);
+					}
 				}
 				//External links
-				text = text.replace(reLinks, match => {
-					extractIndex++;
-					extracts.push(match);
-					return `%%${extractIndex}%%`;
-				});
+				text = text.replace(reLinks, genericReplace);
 				//Math LaTeX
-				text = text.replace(reMath, match => {
-					extractIndex++;
-					extracts.push(match);
-					return `%%${extractIndex}%%`;
-				});
+				text = text.replace(reMath, genericReplace);
 
 				//If text has collapsed set to ignore
 				if (insideNavigator && text.trim() === '<a href=%%0%%>') {
@@ -655,6 +649,15 @@ class GoogleTranslate {
 						(italic ? '_' : '') + (quotated ? qEnd2 : '') +
 						(obj.text.indexOf('%%0%%') != -1 ? ' (%%0%%)' : '');
 				}
+				//Replace quotation marks (before replace extracts, contain ")
+				if (obj.line_type === 'other') {
+					tr = tr.replace(reQuotations, (match, p1) => {
+						return `${qStart2}${p1}${qEnd2}`;
+					});
+					tr = tr.replace(reQuotations2, (match, p1) => {
+						return `${qStart2}${p1}${qEnd2}`;
+					});
+				}
 				//Replace extracts
 				if (obj.extracts.length > 0) {
 					tr = tr.replace(reExtract, (match, p1) => {
@@ -669,15 +672,6 @@ class GoogleTranslate {
 					if (numExtracts != obj.extracts.length) {
 						errors.push(strformat(err2, obj.translation))
 					}
-				}
-				//Replace quotation marks
-				if (obj.line_type === 'other') {
-					tr = tr.replace(reQuotations, (match, p1) => {
-						return `${qStart2}${p1}${qEnd2}`;
-					});
-					tr = tr.replace(reQuotations2, (match, p1) => {
-						return `${qStart2}${p1}${qEnd2}`;
-					});
 				}
 				//Replace wrong UB abbs
 				if ([...obj.line.matchAll(reAbb)].length > 0 &&

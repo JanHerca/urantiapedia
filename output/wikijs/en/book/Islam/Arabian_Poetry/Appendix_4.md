@@ -66,7 +66,7 @@ Then to a handmaid, the youngest, she whispered:
 Cross on his path that he needs may observe us;
 Give him a signal, my sister, demurely.”
 “Signals I gave, but he marked not or heeded,”
-Answered the damsel, and hasted to meet me. <span id="p359  ">[<sup><small>p. 359  </small></sup>]</span>
+Answered the damsel, and hasted to meet me. <span id="p359">[<sup><small>p. 359  </small></sup>]</span>
 Ah for that night by the vale of the sand-hills!
 Ah for the dawn when in silence we parted!
 He who the morn may awake to her kisses
@@ -78,7 +78,7 @@ Drinks from the cup of the blessed in heaven!
 
 Late and early, Love between us idle messenger had gone,
 Till his fatal ambush in the valley of Khedab was laid:
-There we met; nor, sign, nor token, needed but a glance—no more; <span id="p360  ">[<sup><small>p. 360  </small></sup>]</span>
+There we met; nor, sign, nor token, needed but a glance—no more; <span id="p360">[<sup><small>p. 360  </small></sup>]</span>
 All my heart and all its passion mirrored in her heart I saw;
 And I said: "’Tis evening cool; the gardened houses are not far;
 Why unsocial bide we seated weary on the weary beasts?”
@@ -118,7 +118,7 @@ As I stood, that hour of parting: heart to heart in speechless anguish;
 Then she turned her to Thoreyya, to her sister, sadly weeping;
 Coursed the tears down cheek and bosom, till her passion found an utterance:
 “Tell him, sister, tell him; yet be not as one that chides or murmurs—
-'Why so long thy distant tarrying on the unlovely shores of Yemen? <span id="p363  ">[<sup><small>p. 363  </small></sup>]</span>
+'Why so long thy distant tarrying on the unlovely shores of Yemen? <span id="363">[<sup><small>p. 363  </small></sup>]</span>
 Is it sated ease detains thee, or the quest of wealth that lures thee?
 Tell me what the price they paid thee, that from Mecca bought thy absence?'”
 

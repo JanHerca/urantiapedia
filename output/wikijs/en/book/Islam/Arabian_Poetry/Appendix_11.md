@@ -47,7 +47,7 @@ vv. 13-19. There is a charm in Professor Palmer's graceful metrical rendering of
 
 ’Twas then her beauties first enslaved my heart—
 Those glittering pearls and ruby lips, whose kiss
-Was sweeter far than honey to the taste. <span id="p393  ">[<sup><small>p. 393  </small></sup>]</span>
+Was sweeter far than honey to the taste. <span id="393">[<sup><small>p. 393  </small></sup>]</span>
 As when the merchant opes a precious box
 Of perfume, such an odour from her breath
 Came towards thee, harbinger of her approach;
@@ -131,7 +131,7 @@ v.v. 79-81.
 Damdam was slain by Antara on the Day of El-Mureyqib, one of the earliest battles of the War of Dāhis. Herim, a son of Damdam, was afterwards slain by Ward son of Hābis; and Hoseyn, in retaliation for his brother's death, basely violated the laws of hospitality by killing a kinsman of Ward (whose name is given by El-Meydānī as Tījān) who was his guest: see Argument to the Poem of Zohair.
 
 Oh may I live till justice on the heads
-Of Damdam's sons the cup of vengeance sheds! <span id="p396  ">[<sup><small>p. 396  </small></sup>]</span>
+Of Damdam's sons the cup of vengeance sheds! <span id="396">[<sup><small>p. 396  </small></sup>]</span>
 To blight my hard-earned fame they basely sought,
 Who ne’er in word had wronged them, or in thought:
 They sought my blood, who ne’er had wrought them harm,

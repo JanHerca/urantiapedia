@@ -1295,7 +1295,7 @@ And hostile sabres glitter there,
 To guard the tresses of the fair.
 
 &nbsp;&nbsp;Come, Selim, let us pierce the grove,
-While night befriends, to seek my love. <span id="p156  ">[<sup><small>p. 156  </small></sup>]</span>
+While night befriends, to seek my love. <span id="p156">[<sup><small>p. 156  </small></sup>]</span>
 The clouds of fragrance, as they rise,
 Shall mark the place where Abla lies.
 Around her tent my jealous foes,
@@ -1325,7 +1325,7 @@ That lulls each care and heals each wound,
 As the enlivening bowl goes round.
 
 &nbsp;&nbsp;Amidst those vales my eager feet
-Shall trace my Abla's dear retreat; <span id="p157  ">[<sup><small>p. 157  </small></sup>]</span>
+Shall trace my Abla's dear retreat; <span id="p157">[<sup><small>p. 157  </small></sup>]</span>
 A gale of health may hover there,
 To breathe some solace to my care.
 I fear not Love—I bless the dart
@@ -1355,7 +1355,7 @@ The meed of Honour we must gain;
 At Honour's call, the camel hastes
 Through trackless wilds and dreary wastes,
 Till in the glorious race she find
-The fleetest coursers left behind: <span id="p158  ">[<sup><small>p. 158  </small></sup>]</span>
+The fleetest coursers left behind: <span id="p158">[<sup><small>p. 158  </small></sup>]</span>
 By toils like these alone, he cries,
 Th’ adventurous youths to greatness rise:
 If bloated indolence were fame,
@@ -1386,7 +1386,7 @@ I loath it, now the hours retreat,
 And fly me with reverted feet.
 
 &nbsp;&nbsp;My soul, from every tarnish free,
-May boldly vaunt her purity; <span id="p159  ">[<sup><small>p. 159  </small></sup>]</span>
+May boldly vaunt her purity; <span id="p159">[<sup><small>p. 159  </small></sup>]</span>
 But ah, how keen, however bright
 The sabre glitter to the sight,
 Its splendour's lost, its polish vain,
@@ -1417,7 +1417,7 @@ And plant a dagger in the heart.
 He only's fitted for the strife
 Which fills the boist’rous paths of life,
 Who, as he treads the crowded scenes,
-Upon no kindred bosom leans. <span id="p160  ">[<sup><small>p. 160  </small></sup>]</span>
+Upon no kindred bosom leans. <span id="p160">[<sup><small>p. 160  </small></sup>]</span>
 Too long my foolish heart had deemed
 Mankind as virtuous as they seemed;
 The spell is broke, their faults are bare,
@@ -1447,7 +1447,7 @@ When we may swallow from the flask
 Whate’er the wants of mortals ask?
 
 &nbsp;&nbsp;Contentment's realms no fears invade,
-No cares annoy, no sorrows shade; <span id="p161  ">[<sup><small>p. 161  </small></sup>]</span>
+No cares annoy, no sorrows shade; <span id="p161">[<sup><small>p. 161  </small></sup>]</span>
 There, placed secure, in peace we rest,
 Nor aught demand to make us blest.
 While Pleasure's gay fantastic bower,

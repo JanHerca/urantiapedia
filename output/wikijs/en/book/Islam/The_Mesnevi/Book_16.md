@@ -481,7 +481,7 @@ Eternal tears our eyes will blind, and mad discord.
 A way shouldst Thou not open, lost must be our souls.
 Without Thy presence, life is death;—all smiles are scowls.
 
-<span id="p283  ">[<sup><small>p. 283  </small></sup>]</span>
+<span id="283">[<sup><small>p. 283  </small></sup>]</span>
 Shouldst Thou find fault with service rendered unto Thee,
 <sup id="v190"><small>190</small></sup>  Thy chiding's merited, no doubt; as all may see.
 If Thou be discontented with the sun and moon,
