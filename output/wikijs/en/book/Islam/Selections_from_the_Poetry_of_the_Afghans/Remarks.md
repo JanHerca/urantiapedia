@@ -140,7 +140,7 @@ Few orthodox Muḥammadans give a literal construction to the <span id="pxxvi">[
 “The writer of our destiny is a fair and truthful writer,
  And never did he write that which was evil.”
 
- Others, again, admit, that in this world the principle of evil doth exist; but that man is not a free agent; and quote the following couplet, from the Persian poet Ḥāfiz̤—
+Others, again, admit, that in this world the principle of evil doth exist; but that man is not a free agent; and quote the following couplet, from the Persian poet Ḥāfiz̤—
 
 “My destiny hath been allotted to the tavern [^15] by the Almighty:
  Then tell me, O teacher! where lieth my crime.”

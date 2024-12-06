@@ -613,7 +613,7 @@ You've spent your stuff upon your cherished kindred sole,
 
 [^382]: m256:3 “They of the left hand,” Qur’ān lix. 8; xc. 18.
 
-[^383]: m256:4 “ The seven pits of hell” are named respectively: Jahannam, Latzā, Hutama, Sa‘īr, Jahīm, Hāwiya, and Saqar, as above mentioned, p. [254](#page_m254), note [^377].
+[^383]: m256:4 “ The seven pits of hell” are named respectively: Jahannam, Latzā, Hutama, Sa‘īr, Jahīm, Hāwiya, and Saqar, as above mentioned, p. [254](#pm254), note [^377].
 
 [^384]: m256:5 “Al-Kawthar,” Qur’ān cviii. 1, is variously explained, but probably means: _the great multitude_, scil., _of mankind;_ not “a fountain.”
 

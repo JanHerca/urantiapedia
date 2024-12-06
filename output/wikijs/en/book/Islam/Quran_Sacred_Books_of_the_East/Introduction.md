@@ -29,14 +29,7 @@ dateCreated: 2024-11-10T18:38:5Z
   </table>
 </figure>
 
-
-
-
-
 <span id="pix">[<sup><small>p. ix</small></sup>]</span>
-
-INTRODUCTION.
-=============
 
 BEFORE entering upon an intelligent study of the Qur’ân it is necessary to make oneself acquainted with the circumstances of the people in whose midst it was revealed, with the political and religious aspects of the period, and with the personal history of the prophet himself.
 
@@ -1113,7 +1106,7 @@ I am the son of Abd el Mu_t__t_alib.’
 
 [^18]: lxix:4 See Chapter II, ver. 32.
 
-[^19]: lxx:1 See above, [p. xxx](#page_xxx).
+[^19]: lxx:1 See above, [p. xxx](#pxxx).
 
 [^20]: lxx:2 Cf. Chapter XV, ver. 44.
 

@@ -146,7 +146,7 @@ For some assistance in normalizing the transliteration we are indebted to Profes
 
 [^10]: No. XVI.
 
-[^1]1: Nos. XVII, XVIII, XXXIX, XLI, LIV, LXXVI, LXXXIII, LXXXIX, XCVII.
+[^11]: Nos. XVII, XVIII, XXXIX, XLI, LIV, LXXVI, LXXXIII, LXXXIX, XCVII.
 
 [^12]: Nos. L, LIII, LXVIII.
 

@@ -8,7 +8,48 @@ editor: markdown
 dateCreated: 2024-11-21T9:13:38Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">al-Arabi</text>		<text style="font-size:4px" x="61" y="125">1911</text>		<text style="font-size:9px" x="61" y="60">The Tarjuman</text>		<text style="font-size:9px" x="61" y="70">al-Ashwaq</text>	</g></svg></div><p style="text-align:center;">THE<br><span class="text-h3">TARJUMÁN AL-ASHWÁQ</span><br>A COLLECTION OF MYSTICAL ODES<br>BY<br><span class="text-h5">MUḤYI’DDÍN IBN AL-‘ARABÍ</span><br>EDITED FROM THREE MANUSCRIPTS WITH A LITERAL VERSION OF THE TEXT AND AN ABRIDGED TRANSLATION OF THE AUTHOR'S COMMENTARY THEREON<br>BY<br><span class="text-h5">REYNOLD A. NICHOLSON, M.A., Litt.D.</span><br>LECTURER IN PERSIAN IN THE UNIVERSITY OF CAMBRIDGE,<br>AND FORMERLY FELLOW OF TRINITY COLLEGE.<br>LONDON: THEOSOPHICAL PUBLISHING HOUSE LTD<br>[1911]<br>Scanned, proofed and formatted at sacred-texts.com, March 2010, by John Bruno Hare. This text is in the public domain in the US because it was published prior to 1923.<br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Islam/The_Tarjuman_al_Ashwaq/inn.jpg"></figure><br style="clear:both;"/>One of the most prolific of the medieval Sufi writers, al-Arabi wrote over 150 books. Unfortunately, very little of this output was translated, up to the early 20th century. This is Reynold Nicholson's translation of the _Tarjuman al-Ashwaq_, or the ‘Interpreter of Desires,’ the first edition of which was completed in 611 A.H. (1215 A.D.).This text is of great interest, aside from its literary merits as delightful (but highly encoded) Sufi love poetry, because the author supplied extensive commentary for each poem. This is key to disentangling the Sufi narrative from the exterior form of the work. At this level, rather than a series of love poems to a young woman, this book is actually a philosophical treatise with profound insights.PRODUCTION NOTE: The original book contains the original Arabic text following the introduction. That part of the book has been omitted for technical reasons, so there are a number of skipped pages in the etext. Short passages in Arabic in the body of the have been substituted with ###. All other text was transcribed--John Bruno Hare, 3/31/2010.
+<div class="urantiapedia-book-front urantiapedia-book-islam">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">al-Arabi</text>
+		<text style="font-size:4px" x="61" y="125">1911</text>
+		<text style="font-size:9px" x="61" y="60">The Tarjuman</text>
+		<text style="font-size:9px" x="61" y="70">al-Ashwaq</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+THE<br>
+<span class="text-h3">TARJUMÁN AL-ASHWÁQ</span><br>
+A COLLECTION OF MYSTICAL ODES<br>
+BY<br>
+<span class="text-h5">MUḤYI’DDÍN IBN AL-‘ARABÍ</span><br>
+EDITED FROM THREE MANUSCRIPTS WITH A LITERAL VERSION OF THE TEXT AND AN ABRIDGED TRANSLATION OF THE AUTHOR'S COMMENTARY THEREON<br>
+BY<br>
+<span class="text-h5">REYNOLD A. NICHOLSON, M.A., Litt.D.</span><br>
+LECTURER IN PERSIAN IN THE UNIVERSITY OF CAMBRIDGE,<br>
+AND FORMERLY FELLOW OF TRINITY COLLEGE.<br>
+LONDON: THEOSOPHICAL PUBLISHING HOUSE LTD<br>
+[1911]<br>
+Scanned, proofed and formatted at sacred-texts.com, March 2010, by John Bruno Hare. This text is in the public domain in the US because it was published prior to 1923.<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Islam/The_Tarjuman_al_Ashwaq/inn.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+One of the most prolific of the medieval Sufi writers, al-Arabi wrote over 150 books. Unfortunately, very little of this output was translated, up to the early 20th century. This is Reynold Nicholson's translation of the _Tarjuman al-Ashwaq_, or the ‘Interpreter of Desires,’ the first edition of which was completed in 611 A.H. (1215 A.D.).
+
+This text is of great interest, aside from its literary merits as delightful (but highly encoded) Sufi love poetry, because the author supplied extensive commentary for each poem. This is key to disentangling the Sufi narrative from the exterior form of the work. At this level, rather than a series of love poems to a young woman, this book is actually a philosophical treatise with profound insights.
+
+PRODUCTION NOTE: The original book contains the original Arabic text following the introduction. That part of the book has been omitted for technical reasons, so there are a number of skipped pages in the etext. Short passages in Arabic in the body of the have been substituted with ###. All other text was transcribed--John Bruno Hare, 3/31/2010.
+
+
 ## Index
 
 - [Preface](/en/book/Islam/The_Tarjuman_al_Ashwaq/Preface)
@@ -79,66 +120,4 @@ dateCreated: 2024-11-21T9:13:38Z
 
 ## External links
 
-- [Sacred texts website](https://archive.sacred-texts.com/isl/taa/index.htm)
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- [Sacred texts website](https://archive.sacred-texts.com/isl/taa/index.htm)

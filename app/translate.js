@@ -306,10 +306,13 @@ class GoogleTranslate {
 		const reUPLink = new RegExp(`\\(?\/${sourceLan}\/[^\\)]+\\)?`, 'g');
 		const reUPLink2 = new RegExp(`"\/${sourceLan}\/[^"]+"`, 'g');
 		const rePageNumber = new RegExp(`<span id="[^"]+">` +
-			`\\[<sup><small>[^<]+<\\/small><\\/sup>\\]<\\/span>`, 'g');
-		const reVerseNumber = new RegExp(`<span id="v[^"]+">` + 
-			`<sup><small>[^<]+<\\/small><\\/sup><\\/span>`, 'g');
+			`\\[*<sup><small>[^<]+<\\/small><\\/sup>\\]*<\\/span>`, 'g');
+		const reVerseNumber = new RegExp(`<sup id="[^"]+">` + 
+			`<small>[^<]+<\\/small><\\/sup>`, 'g');
+		const reVerseNumber2 = new RegExp(`<span id="[^"]+">` +
+			`<i>[^<]+<\\/i>[^<]*<\\/span>`, 'g');
 		const reSVGText = new RegExp('<text [^>]+>|<\\/text>', 'g');
+		const reTitle = new RegExp('<span class="text-h[3|5]">|<\\/span><br>')
 		const reLinks = new RegExp(
 			`\\(?(https?:\\/\\/[\\w\\d./?=#\\-\\%\\(\\)]+)\\)?`, 'g');
 		const reMath = new RegExp('\\$([^ ][^$]*)\\$', 'g');
@@ -380,8 +383,8 @@ class GoogleTranslate {
 			const isPrevEnd = (prev && prev.startsWith('</figure>'));
 			const isDivEnd = (prev && prev.startsWith('</div>'));
 			const isHtml = 
-				line.startsWith('<br style="clear:both"') ||
-				line.startsWith('<p style="text-align:center;"') ||
+				line.startsWith('<br style="clear:both') ||
+				line.startsWith('<p style="text-align:center') ||
 				line.startsWith('<br>') || 
 				line.startsWith('<br/>') ||
 				line.startsWith('</p>') || 
@@ -524,11 +527,11 @@ class GoogleTranslate {
 				);
 				//Page numbers, verse numbers, frontpage texts
 				if (this.isLibraryBook) {
-					text = text.replace(rePageNumber, genericReplace);
-					text = text.replace(reVerseNumber, genericReplace);
-					if (isBookFrontText) {
-						text = text.replace(reSVGText, genericReplace);
-					}
+					text = text.replace(rePageNumber, genericReplace)
+						.replace(reVerseNumber, genericReplace)
+						.replace(reVerseNumber2, genericReplace)
+						.replace(reTitle, genericReplace)
+						.replace(reSVGText, genericReplace);
 				}
 				//External links
 				text = text.replace(reLinks, genericReplace);

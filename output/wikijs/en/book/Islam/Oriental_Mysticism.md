@@ -55,7 +55,7 @@ Reprint of the First edition 1969 [This etext.]<br>
 
 <br style="clear:both;"/>
 
-"_The Universe is the mirror of God, and the heart of man is the mirror of the Universe._"--[p. 41](https://archive.sacred-texts.com/isl/omy/omy15.htm#page_41)
+"_The Universe is the mirror of God, and the heart of man is the mirror of the Universe._"--[p. 41](https://archive.sacred-texts.com/isl/omy/omy15.htm#p41)
 
 This is a concise study of the key concepts of Sufi philosophy, written by a western scholar in the mid-19th century. Palmer discusses the spiritual journey that Sufis take, the path to oneness with God. A very useful feature of this book is the glossary of poetic symbols used in Persian Sufi literature. Palmer also translated the [Qur'an for the Sacred Books of the East in two volumes](/en/book/Islam/Quran_Sacred_Books_of_the_East).
 
