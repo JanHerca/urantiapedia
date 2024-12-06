@@ -576,13 +576,14 @@ class GoogleTranslate {
 		const qEnd = Strings.quotationEnd[sourceLan];
 		const qStart2 = Strings.quotationStart[targetLan];
 		const qEnd2 = Strings.quotationEnd[targetLan];
-		const reExtract = new RegExp('%%([\\d| ]+)%%', 'g');
+		// const reExtract = new RegExp('%%([\\d| ]+)%%', 'g');
 		const reQuotations = new RegExp(`${qStart}([^${qEnd}]*)${qEnd}`, 'g');
 		const reQuotations2 = new RegExp(`"([^"]*)"`, 'g');
 		const reBlanks = new RegExp('^[\\t| ]+', 'g');
 		const reAbb = new RegExp(`${sourceAbb}([ .;:?!-—])`, 'g');
 		const reDocEN = new RegExp('document (\\d+)', 'g');
 		const reBr = new RegExp('<br[\\/]?>$', 'g');
+		//err1 and err2 now are fixed
 		const err1 = 'Extract mark {0} is not valid in translation: <i>{1}</i>';
 		const err2 = 'Extract marks number fail in translation: <i>{0}</i>';
 		const err3 = 'Paragraph of Urantia Book not found: <i>{0}</i>';
@@ -591,10 +592,9 @@ class GoogleTranslate {
 		return objects
 			.filter(obj => obj.remove != true)
 			.map((obj, j, array) => {
-				let tr = obj.translation;
-				let numExtracts = 0;
+				let { text, translation: tr, quoteGroup: q } = obj;
+				// let numExtracts = 0;
 				let par = null;
-				let q = obj.quoteGroup;
 				let objGroup = null;
 				let qindex = 0;
 				let quotated = false;
@@ -607,7 +607,7 @@ class GoogleTranslate {
 				}
 				//If nothing to translate but yes to replace take text
 				if (obj.ignore && !tr && obj.extracts.length > 0) {
-					tr = obj.text;
+					tr = text;
 				}
 				//Replace title
 				if (obj.line_type === 'title') {
@@ -647,7 +647,7 @@ class GoogleTranslate {
 					tr = '> ' + (quotated ? qStart2 : '') + 
 						(italic ? '_' : '') + par.par_content + 
 						(italic ? '_' : '') + (quotated ? qEnd2 : '') +
-						(obj.text.indexOf('%%0%%') != -1 ? ' (%%0%%)' : '');
+						(text.indexOf('%%0%%') != -1 ? ' (%%0%%)' : '');
 				}
 				//Replace quotation marks (before replace extracts, contain ")
 				if (obj.line_type === 'other') {
@@ -660,18 +660,25 @@ class GoogleTranslate {
 				}
 				//Replace extracts
 				if (obj.extracts.length > 0) {
-					tr = tr.replace(reExtract, (match, p1) => {
-						const i = parseInt(p1);
-						if (isNaN(i) || !obj.extracts[i]) {
-							errors.push(strformat(err1, match, obj.translation));
+					obj.extracts.forEach((extract, i) => {
+						const reExtract = new RegExp(`%%([${i}| ]+)%%`, 'g');
+						const len = text.length;
+						const tlen = tr.length;
+						const { index } = [...text.matchAll(reExtract)][0];
+						const matches = [...tr.matchAll(reExtract)];
+						if (matches.length == 1) {
+							tr = tr.replace(reExtract, extract);
 						} else {
-							numExtracts++;
+							let tindex = tlen > len 
+								? index * (len / tlen) 
+								: index * (tlen / len);
+							tindex = Math.floor(tindex);
+							const j = tr.indexOf(" ", tindex);
+							tindex = j === -1 ? tindex : j;
+							tr = tr.slice(0, tindex) + " " + extract + 
+								tr.slice(tindex);
 						}
-						return (isNaN(i) ? match : obj.extracts[i]);
 					});
-					if (numExtracts != obj.extracts.length) {
-						errors.push(strformat(err2, obj.translation))
-					}
 				}
 				//Replace wrong UB abbs
 				if ([...obj.line.matchAll(reAbb)].length > 0 &&
