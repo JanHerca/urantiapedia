@@ -8,7 +8,48 @@ editor: markdown
 dateCreated: 2024-11-26T20:22:12Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Duncan B. MacDonald</text>		<text style="font-size:4px" x="61" y="125">1903</text>		<text style="font-size:9px" x="61" y="50">Development</text>		<text style="font-size:9px" x="61" y="60">of Muslim Theology,</text>		<text style="font-size:9px" x="61" y="70">Jurisprudence and</text>		<text style="font-size:9px" x="61" y="80">Constitutional</text>		<text style="font-size:9px" x="61" y="90">Theory</text>	</g></svg></div><p style="text-align:center;">THE SEMITIC SERIES<br>DEVELOPMENT OF<br><span class="text-h3">Muslim Theology, Jurisprudence and Constitutional Theory</span><br>BY<br><span class="text-h5">DUNCAN B. MACDONALD, M.A., B.D.</span><br><br>SOMETIME SCHOLAR AND FELLOW OF THE UNIVERSITY OF GLASGOW; PROFESSOR OF SEMITIC LANGUAGES IN HARTFORD THEOLOGICAL SEMINARY<br>New York: Charles Scribner<br>[1903]<br>NOTICE OF ATTRIBUTION<br>Scanned at sacred-texts.com, Aug-Sept. 2005. Proofed and formatted by John Bruno Hare. This text is in the public domain in the United States because it was published prior to 1923. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact in all copies.<br><br><br><br>MEMORIÆ<br>MATRIS SACRVM<br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Islam/Development_of_Muslim_Theology/prayer.jpg"></figure><br style="clear:both;"/>
+<div class="urantiapedia-book-front urantiapedia-book-islam">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Duncan B. MacDonald</text>
+		<text style="font-size:4px" x="61" y="125">1903</text>
+		<text style="font-size:9px" x="61" y="50">Development</text>
+		<text style="font-size:9px" x="61" y="60">of Muslim Theology,</text>
+		<text style="font-size:9px" x="61" y="70">Jurisprudence and</text>
+		<text style="font-size:9px" x="61" y="80">Constitutional</text>
+		<text style="font-size:9px" x="61" y="90">Theory</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+THE SEMITIC SERIES<br>
+DEVELOPMENT OF<br>
+<span class="text-h3">Muslim Theology, Jurisprudence and Constitutional Theory</span><br>
+BY<br>
+<span class="text-h5">DUNCAN B. MACDONALD, M.A., B.D.</span><br>
+<br>
+SOMETIME SCHOLAR AND FELLOW OF THE UNIVERSITY OF GLASGOW; PROFESSOR OF SEMITIC LANGUAGES IN HARTFORD THEOLOGICAL SEMINARY<br>
+New York: Charles Scribner<br>
+[1903]<br>
+NOTICE OF ATTRIBUTION<br>
+Scanned at sacred-texts.com, Aug-Sept. 2005. Proofed and formatted by John Bruno Hare. This text is in the public domain in the United States because it was published prior to 1923. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact in all copies.<br>
+<br>
+<br>
+<br>
+MEMORIÆ<br>
+MATRIS SACRVM<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Islam/Development_of_Muslim_Theology/prayer.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+
 ## Index
 
 - [Preface](/en/book/Islam/Development_of_Muslim_Theology/Preface)

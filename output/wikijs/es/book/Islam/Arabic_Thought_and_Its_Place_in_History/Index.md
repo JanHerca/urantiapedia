@@ -209,7 +209,7 @@ jurisprudencia de los musulmanes, [73](2#p73) ss.
 <br>
 <br>
 
-Kalónimo b. Kalonymos, [312] (ath15.htm#p312)
+Kalónimo b. Kalonymos, [312] (Chronological_Table#p312)
 
 Jalid, [119](4#p119); . . . b. Yazid, [80](2#p80)
 

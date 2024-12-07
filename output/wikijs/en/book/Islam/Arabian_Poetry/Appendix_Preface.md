@@ -87,7 +87,3 @@ But reflections which are merely the echo of the voice of the Preacher may be th
     </tbody>
   </table>
 </figure>
-
-    </tbody>
-  </table>
-</figure>

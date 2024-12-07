@@ -8,7 +8,30 @@ editor: markdown
 dateCreated: 2024-11-9T15:38:6Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:9px" x="61" y="60">Hadith</text>		<text style="font-size:9px" x="61" y="70">of Bukhari</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">Hadith of Bukhari</span><br></p>The Hadith are anecdotes about Muhammad and other founders of Islam. They are considered important source material about religious practice, law, and historical traditions. This is an extensive collection of Hadith as organized by Muhammad Ismâ'îl al-Bukhârî, one of the most respected of the Hadith redactors. For more Hadith, see [A Manual of Hadith](/en/book/Islam/A_Manual_of_Hadith).This hypertext was generated from a text file found at a now defunct Caltech FTP site, dated 1993. This was apparently translated by M. Muhsin Khan. The copyright status of this text is unknown.Production Notes:There are some occasional (and very obvious) minor gaps and errors in this etext, which we haven't attempted to correct.
+<div class="urantiapedia-book-front urantiapedia-book-islam">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:9px" x="61" y="60">Hadith</text>
+		<text style="font-size:9px" x="61" y="70">of Bukhari</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">Hadith of Bukhari</span><br>
+</p>
+
+The Hadith are anecdotes about Muhammad and other founders of Islam. They are considered important source material about religious practice, law, and historical traditions. This is an extensive collection of Hadith as organized by Muhammad Ismâ'îl al-Bukhârî, one of the most respected of the Hadith redactors. For more Hadith, see [A Manual of Hadith](/en/book/Islam/A_Manual_of_Hadith).
+
+This hypertext was generated from a text file found at a now defunct Caltech FTP site, dated 1993. This was apparently translated by M. Muhsin Khan. The copyright status of this text is unknown.
+
+Production Notes:
+
+There are some occasional (and very obvious) minor gaps and errors in this etext, which we haven't attempted to correct.
+
+
 ## Index
 
 - Volume 1

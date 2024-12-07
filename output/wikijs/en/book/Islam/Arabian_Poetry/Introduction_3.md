@@ -78,8 +78,8 @@ That the remains of Ancient Arabic Poetry have been tampered with—altered and 
 
 [^17]: lxiv:\* In verse 57 of his Mu‘allaqa, Imra’u-’l-Qays, according to Sir W. Jones’ translation, alludes to idolatrous rites: “virgins, in black trailing robes, who dance round \[the idol\] Dewaar”; but this rendering seems to be erroneous. The original
 
-_fa ‘anna la nà sirbun, ka-anna ni‘āja hu
-‘adhārà dawārin fi melā‘in mudhayyali_
+_fa ‘anna la nà sirbun, ka-anna ni‘āja hu_
+_‘adhārà dawārin fi melā‘in mudhayyali_
 
 is thus translated by Mr. J. W. Redhouse:
 

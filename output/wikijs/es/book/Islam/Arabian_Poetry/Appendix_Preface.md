@@ -87,7 +87,3 @@ Pero las reflexiones que son simplemente el eco de la voz del Predicador pueden 
     </tbody>
   </table>
 </figure>
-
-    </cuerpo>
-  </tabla>
-</figura>
