@@ -32,14 +32,6 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-
-
-[Next: Chapter III](mes06.htm)
-
-
-
-
-
 <span id="p18">[<sup><small>p. 18</small></sup>]</span>
 
 **CHAPTER III.**

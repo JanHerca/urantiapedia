@@ -32,14 +32,6 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-
-
-[Next: XV. Zeyd's Inspiration](mes30.htm)
-
-
-
-
-
 <span id="p254">[<sup><small>p. 254</small></sup>]</span>
 
 ## XV.

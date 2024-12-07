@@ -59,22 +59,22 @@ _In the name of Allah, the Compassionate, the Merciful._
 
 _Boundless praise and countless expressions of gratitude are due and befitting to that Lord of the Universe, in the understanding of the substance of whose nature the intelligence of the Wise and the deep thoughts of the Philosophers are confounded and stupefied_.
 
-_If dried grass can reach the bottom of the Sea:
-Then human intelligence can comprehend the substance of His nature_.
+_If dried grass can reach the bottom of the Sea:_
+_Then human intelligence can comprehend the substance of His nature_.
 
 _Salutations and praise be a sacrifice to the feet of the Presence of the noblest of the Universe and the Epitome of all that exists: the Sovereign who wears the ring, by which he is ordained to be the last Prophet_, [^0] _and who bears the Seal of Prophecy on his back_.
 
 <span id="pxiii">[<sup><small>p. xiii</small></sup>]</span>
 
-_Thou wert created before all the Mighty Sovereigns:
-Although Thou hast appeared the last,
-O the last of the prophets, I know thy nearness to Allah:
-Thou hast come late, because thou hast come from a great distance_.
+_Thou wert created before all the Mighty Sovereigns:_
+_Although Thou hast appeared the last,_
+_O the last of the prophets, I know thy nearness to Allah:_
+_Thou hast come late, because thou hast come from a great distance_.
 
 _Boundless praise and peace be on his innocent descendants and his crowned Vice-regents, who are the Kings of all the world, and of what it contains: especially on His Cousin, Son-in-law, Vice-regent and incomparable Vizier, the Chief of the Mohamedans, the Leader of the Pious, the Victorious Lion of Allah, Ali, son of Abu Talib, on him be Peace! He whose birth place was the House of Allah_ [^1] _and whose resting-place was the shoulders of the Prophet_. [^2]
 
-_The “Lion of Allah” has been born,
-Whatever there was behind the curtain has appeared_.
+_The “Lion of Allah” has been born,_
+_Whatever there was behind the curtain has appeared_.
 
 _And thousands of praises be on the eleven descendants, who are the Signs of the Zodiac in the heaven of the_ Imamate; _and more especially upon Ali Ibn Musa, Al-Rita, who is the eighth_ _Imam_ [^3] _and the seventh_ Kibla _or point of adoration_. [^4]
 
@@ -82,8 +82,8 @@ _And thousands of praises be on the eleven descendants, who are the Signs of the
 
 _Nurullah Khan, son of Mohamed Husein Khan, of Isfahan by descent, has written these few lines, describing his life and his pilgrimage to the Glory of the Shia World, the Shrine of the holy Imam Riza, on Him be Peace, for the information of the inhabitants of the Seven Climates_.
 
-_In short this is composed
-That our memory may remain_.
+_In short this is composed_
+_That our memory may remain_.
 
 _From my readers, I beseech their prayers and beg that, if they perceive any error or mistake, they will cover it with the eye of forgiveness and overlook it because_,
 
