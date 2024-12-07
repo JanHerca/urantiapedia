@@ -19,7 +19,7 @@ dateCreated: 2024-11-27T10:38:26Z
         </td>
         <td>
         <a href="/es/book/Islam/The_Hanged_Poems">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -157,7 +157,7 @@ EL POEMA DE ZUHAIR[^1]
         </td>
         <td>
         <a href="/es/book/Islam/The_Hanged_Poems">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

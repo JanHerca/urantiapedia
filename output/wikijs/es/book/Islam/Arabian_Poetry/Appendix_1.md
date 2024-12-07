@@ -19,7 +19,7 @@ dateCreated: 2024-11-24T18:21:59Z
         </td>
         <td>
         <a href="/es/book/Islam/Arabian_Poetry">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -105,7 +105,7 @@ El propósito de Dios es un asunto serio, y no un tema para bromas; empléate, p
         </td>
         <td>
         <a href="/es/book/Islam/Arabian_Poetry">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

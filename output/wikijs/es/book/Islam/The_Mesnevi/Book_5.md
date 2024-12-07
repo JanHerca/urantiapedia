@@ -19,7 +19,7 @@ dateCreated: 2024-11-16T19:16:5Z
         </td>
         <td>
         <a href="/es/book/Islam/The_Mesnevi">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -1242,7 +1242,7 @@ Arroja tú el cadáver vil de la pompa terrenal a los perros.
         </td>
         <td>
         <a href="/es/book/Islam/The_Mesnevi">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

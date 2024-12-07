@@ -19,7 +19,7 @@ dateCreated: 2024-11-16T19:16:5Z
         </td>
         <td>
         <a href="/es/book/Islam/The_Mesnevi">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -139,7 +139,7 @@ Fue enterrado el día 25, donde él mismo había indicado, al lado de su abuelo.
         </td>
         <td>
         <a href="/es/book/Islam/The_Mesnevi">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

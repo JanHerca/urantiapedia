@@ -16,7 +16,7 @@ dateCreated: 2024-11-21T20:38:49Z
         </td>
         <td>
         <a href="/es/book/Islam/A_Sufi_Message_of_Spiritual_Liberty">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -440,7 +440,7 @@ La humanidad nace con una actitud de adoración, y como todas las actitudes exig
         </td>
         <td>
         <a href="/es/book/Islam/A_Sufi_Message_of_Spiritual_Liberty">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

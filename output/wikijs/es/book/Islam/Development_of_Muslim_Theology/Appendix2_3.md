@@ -19,7 +19,7 @@ dateCreated: 2024-11-26T20:22:12Z
         </td>
         <td>
         <a href="/es/book/Islam/Development_of_Muslim_Theology">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -83,7 +83,7 @@ D. B. MACDONALD: _La emancipación de los esclavos bajo la ley musulmana_. Ameri
         </td>
         <td>
         <a href="/es/book/Islam/Development_of_Muslim_Theology">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

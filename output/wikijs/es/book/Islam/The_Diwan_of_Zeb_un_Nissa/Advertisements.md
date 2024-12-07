@@ -19,7 +19,7 @@ dateCreated: 2024-11-21T10:26:39Z
         </td>
         <td>
         <a href="/es/book/Islam/The_Diwan_of_Zeb_un_Nissa">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -166,7 +166,7 @@ LONDRES: JOHN MURRAY, ALBEMARLE STREET, W.
         </td>
         <td>
         <a href="/es/book/Islam/The_Diwan_of_Zeb_un_Nissa">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

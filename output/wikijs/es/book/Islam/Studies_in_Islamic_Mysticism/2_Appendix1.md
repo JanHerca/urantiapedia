@@ -19,7 +19,7 @@ dateCreated: 2024-11-22T20:3:38Z
         </td>
         <td>
         <a href="/es/book/Islam/Studies_in_Islamic_Mysticism">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -115,7 +115,7 @@ _v_. ١٢ ss. Cf. [p. 126](2_6#p126) _supra_.
         </td>
         <td>
         <a href="/es/book/Islam/Studies_in_Islamic_Mysticism">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

@@ -19,7 +19,7 @@ dateCreated: 2024-11-26T10:15:16Z
         </td>
         <td>
         <a href="/es/book/Islam/Islam">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -59,7 +59,7 @@ La Fattiḥa, el «Padre Nuestro» del Islam, es la sura inicial del Corán. Se 
         </td>
         <td>
         <a href="/es/book/Islam/Islam">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

@@ -19,7 +19,7 @@ dateCreated: 2024-11-16T19:16:5Z
         </td>
         <td>
         <a href="/es/book/Islam/The_Mesnevi">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -918,7 +918,7 @@ Durante años fuiste una piedra; pon esto bien en tu corazón.
         </td>
         <td>
         <a href="/es/book/Islam/The_Mesnevi">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

@@ -19,7 +19,7 @@ dateCreated: 2024-11-23T12:49:50Z
         </td>
         <td>
         <a href="/es/book/Islam/The_Mishkat_Al_Anwar">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -142,7 +142,7 @@ EL FIN
         </td>
         <td>
         <a href="/es/book/Islam/The_Mishkat_Al_Anwar">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

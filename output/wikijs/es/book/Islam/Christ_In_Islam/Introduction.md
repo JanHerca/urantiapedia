@@ -16,7 +16,7 @@ dateCreated: 2024-11-27T10:52:36Z
         </td>
         <td>
         <a href="/es/book/Islam/Christ_In_Islam">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -73,7 +73,7 @@ _Nota_.—Además de los pasajes mencionados en la pág. 10, se ha considerado n
         </td>
         <td>
         <a href="/es/book/Islam/Christ_In_Islam">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

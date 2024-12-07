@@ -19,12 +19,12 @@ dateCreated: 2024-11-24T18:21:59Z
         </td>
         <td>
         <a href="/es/book/Islam/Arabian_Poetry">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
         <a href="/es/book/Islam/Arabian_Poetry/Antar_Title">
-          <span class="pr-2">Página de título</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Página de portada</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -1635,12 +1635,12 @@ Cuando cada pensamiento está lleno solo de ti y amor,
         </td>
         <td>
         <a href="/es/book/Islam/Arabian_Poetry">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
         <a href="/es/book/Islam/Arabian_Poetry/Antar_Title">
-          <span class="pr-2">Página de título</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Página de portada</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -19,7 +19,7 @@ dateCreated: 2024-11-22T20:3:38Z
         </td>
         <td>
         <a href="/es/book/Islam/Studies_in_Islamic_Mysticism">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -497,7 +497,7 @@ Zoroastrianos, los, [198](3_Argument#p198), [263](3_vv_700_799#p263). _Ver_ Mago
         </td>
         <td>
         <a href="/es/book/Islam/Studies_in_Islamic_Mysticism">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

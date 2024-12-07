@@ -19,7 +19,7 @@ dateCreated: 2024-11-16T19:16:5Z
         </td>
         <td>
         <a href="/es/book/Islam/The_Mesnevi">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -89,7 +89,7 @@ Al mismo tiempo que los misterios se transmitían gradualmente a Jelālu-’d-D�
         </td>
         <td>
         <a href="/es/book/Islam/The_Mesnevi">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

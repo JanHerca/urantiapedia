@@ -19,7 +19,7 @@ dateCreated: 2024-11-24T12:47:51Z
         </td>
         <td>
         <a href="/es/book/Islam/The_Glory_of_the_Shia_World">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -166,7 +166,7 @@ _Nota_.—Los tocados y otros diseños son dibujados por la señorita E. R. SYKE
         </td>
         <td>
         <a href="/es/book/Islam/The_Glory_of_the_Shia_World">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

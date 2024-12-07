@@ -19,7 +19,7 @@ dateCreated: 2024-11-15T20:17:27Z
         </td>
         <td>
         <a href="/es/book/Islam/The_Kasidah">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -194,7 +194,7 @@ Soofísticamente, la palabra significa «la coquetería del amado», la divinæ 
         </td>
         <td>
         <a href="/es/book/Islam/The_Kasidah">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

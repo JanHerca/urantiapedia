@@ -19,7 +19,7 @@ dateCreated: 2024-11-11T11:3:15Z
         </td>
         <td>
         <a href="/es/book/Islam/Selections_from_the_Poetry_of_the_Afghans">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -183,7 +183,7 @@ De la misma manera que con los poemas de Ḥāfiz̤ en persa, muchas de las sigu
         </td>
         <td>
         <a href="/es/book/Islam/Selections_from_the_Poetry_of_the_Afghans">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

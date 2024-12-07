@@ -19,7 +19,7 @@ dateCreated: 2024-11-27T9:34:40Z
         </td>
         <td>
         <a href="/es/book/Islam/Bible_Koran_and_Talmud">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -79,7 +79,7 @@ Además del Corán y los comentarios sobre él, los siguientes manuscritos han s
         </td>
         <td>
         <a href="/es/book/Islam/Bible_Koran_and_Talmud">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

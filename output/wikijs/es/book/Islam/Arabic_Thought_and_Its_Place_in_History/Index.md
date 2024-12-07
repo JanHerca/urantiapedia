@@ -19,7 +19,7 @@ dateCreated: 2024-11-24T10:51:55Z
         </td>
         <td>
         <a href="/es/book/Islam/Arabic_Thought_and_Its_Place_in_History">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -380,7 +380,7 @@ Zindiq, [107](4#p107), [191](7#p191)
         </td>
         <td>
         <a href="/es/book/Islam/Arabic_Thought_and_Its_Place_in_History">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <a href="/es/book/Islam/Arabic_Thought_and_Its_Place_in_History/Errata">

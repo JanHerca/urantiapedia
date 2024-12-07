@@ -14,12 +14,12 @@ dateCreated: 2024-11-24T18:21:59Z
       <tr>
         <td>
         <a href="/es/book/Islam/Arabian_Poetry/Busiri_Title">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
         <a href="/es/book/Islam/Arabian_Poetry">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -64,12 +64,12 @@ LONDRES, _agosto de 1880_.
       <tr>
         <td>
         <a href="/es/book/Islam/Arabian_Poetry/Busiri_Title">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
         <a href="/es/book/Islam/Arabian_Poetry">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

@@ -19,7 +19,7 @@ dateCreated: 2024-11-16T19:16:5Z
         </td>
         <td>
         <a href="/es/book/Islam/The_Mesnevi">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -93,7 +93,7 @@ Sheykh Ferīdūn murió el día de Año Nuevo, 657 a.h. (28 de diciembre, d.C. 1
         </td>
         <td>
         <a href="/es/book/Islam/The_Mesnevi">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

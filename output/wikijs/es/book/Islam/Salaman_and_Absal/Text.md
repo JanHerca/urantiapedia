@@ -19,7 +19,7 @@ dateCreated: 2024-11-18T23:1:26Z
         </td>
         <td>
         <a href="/es/book/Islam/Salaman_and_Absal">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -1630,7 +1630,7 @@ Y pongo mi sello:
         </td>
         <td>
         <a href="/es/book/Islam/Salaman_and_Absal">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

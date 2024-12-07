@@ -16,7 +16,7 @@ dateCreated: 2024-11-18T21:8:11Z
         </td>
         <td>
         <a href="/es/book/Islam/The_Gulistan">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -342,7 +342,7 @@ El autor, después de haber deliberado sobre la disposición del libro y el ador
         </td>
         <td>
         <a href="/es/book/Islam/The_Gulistan">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

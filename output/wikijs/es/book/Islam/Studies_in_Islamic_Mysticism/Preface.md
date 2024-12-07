@@ -16,7 +16,7 @@ dateCreated: 2024-11-22T20:3:38Z
         </td>
         <td>
         <a href="/es/book/Islam/Studies_in_Islamic_Mysticism">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -173,7 +173,7 @@ _Marzo_, 1921.
         </td>
         <td>
         <a href="/es/book/Islam/Studies_in_Islamic_Mysticism">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

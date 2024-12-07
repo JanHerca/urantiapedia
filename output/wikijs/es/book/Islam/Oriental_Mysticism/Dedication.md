@@ -16,7 +16,7 @@ dateCreated: 2024-11-10T11:17:18Z
         </td>
         <td>
         <a href="/es/book/Islam/Oriental_Mysticism">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -64,7 +64,7 @@ Fechado en RAMAZÁN, 1283 A.H.
         </td>
         <td>
         <a href="/es/book/Islam/Oriental_Mysticism">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

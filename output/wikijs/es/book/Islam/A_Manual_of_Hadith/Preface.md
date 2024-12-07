@@ -16,7 +16,7 @@ dateCreated: 2024-11-8T10:39:35Z
         </td>
         <td>
         <a href="/es/book/Islam/A_Manual_of_Hadith">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -71,7 +71,7 @@ La segunda edición del Manual de Hadith se publica sin ningún cambio material.
         </td>
         <td>
         <a href="/es/book/Islam/A_Manual_of_Hadith">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

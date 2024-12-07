@@ -19,7 +19,7 @@ dateCreated: 2024-11-27T20:32:21Z
         </td>
         <td>
         <a href="/es/book/Islam/Folk_lore_of_the_Holy_Land">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -167,7 +167,7 @@ EDIMBURGO
         </td>
         <td>
         <a href="/es/book/Islam/Folk_lore_of_the_Holy_Land">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

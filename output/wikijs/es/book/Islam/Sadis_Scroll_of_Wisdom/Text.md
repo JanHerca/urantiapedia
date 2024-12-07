@@ -19,7 +19,7 @@ dateCreated: 2024-11-19T20:43:59Z
         </td>
         <td>
         <a href="/es/book/Islam/Sadis_Scroll_of_Wisdom">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -583,7 +583,7 @@ _Impreso por Hazell, Watson & Viney, Ld., Londres y Aylesbury_..
         </td>
         <td>
         <a href="/es/book/Islam/Sadis_Scroll_of_Wisdom">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

@@ -16,7 +16,7 @@ dateCreated: 2024-11-21T11:58:4Z
         </td>
         <td>
         <a href="/es/book/Islam/The_Mystics_of_Islam">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -199,7 +199,7 @@ El lector percibirá que el sufismo es una palabra que reúne muchos significado
         </td>
         <td>
         <a href="/es/book/Islam/The_Mystics_of_Islam">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

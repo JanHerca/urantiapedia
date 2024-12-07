@@ -19,7 +19,7 @@ dateCreated: 2024-11-25T21:10:31Z
         </td>
         <td>
         <a href="/es/book/Islam/Arabian_Wisdom">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -1500,7 +1500,7 @@ La muerte cubre todas las faltas.
         </td>
         <td>
         <a href="/es/book/Islam/Arabian_Wisdom">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

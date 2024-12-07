@@ -16,7 +16,7 @@ dateCreated: 2024-11-19T21:9:57Z
         </td>
         <td>
         <a href="/es/book/Islam/The_Alchemy_of_Happiness">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -50,7 +50,7 @@ NORTHBROOK SOCIEDAD,
         </td>
         <td>
         <a href="/es/book/Islam/The_Alchemy_of_Happiness">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

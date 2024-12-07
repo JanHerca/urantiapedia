@@ -19,7 +19,7 @@ dateCreated: 2024-11-20T18:38:5Z
         </td>
         <td>
         <a href="/es/book/Islam/The_Enclosed_Garden_of_the_Truth">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -65,7 +65,7 @@ Alabado sea Dios! Nunca ha habido un comentarista de la _Hadîqa_ como éste, ni
         </td>
         <td>
         <a href="/es/book/Islam/The_Enclosed_Garden_of_the_Truth">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

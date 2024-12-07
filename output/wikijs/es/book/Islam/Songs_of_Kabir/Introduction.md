@@ -16,7 +16,7 @@ dateCreated: 2024-11-21T21:56:54Z
         </td>
         <td>
         <a href="/es/book/Islam/Songs_of_Kabir">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -109,7 +109,7 @@ Por alguna ayuda en la normalización de la transliteración estamos en deuda co
         </td>
         <td>
         <a href="/es/book/Islam/Songs_of_Kabir">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

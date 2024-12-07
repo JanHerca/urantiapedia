@@ -19,7 +19,7 @@ dateCreated: 2024-11-24T18:21:59Z
         </td>
         <td>
         <a href="/es/book/Islam/Arabian_Poetry">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -61,7 +61,7 @@ Una historia popular inglesa de la literatura árabe es un gran desideratum. Los
         </td>
         <td>
         <a href="/es/book/Islam/Arabian_Poetry">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

@@ -19,7 +19,7 @@ dateCreated: 2024-11-26T20:22:12Z
         </td>
         <td>
         <a href="/es/book/Islam/Development_of_Muslim_Theology">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -95,7 +95,7 @@ G. A. HERKLOTS: _Qanoon-e-Islam_, o las costumbres de los musulmanes de la India
         </td>
         <td>
         <a href="/es/book/Islam/Development_of_Muslim_Theology">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

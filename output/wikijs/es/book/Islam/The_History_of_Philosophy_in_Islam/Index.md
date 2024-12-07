@@ -19,7 +19,7 @@ dateCreated: 2024-11-25T9:7:31Z
         </td>
         <td>
         <a href="/es/book/Islam/The_History_of_Philosophy_in_Islam">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -514,7 +514,7 @@ página 216: ‘Stephen’ y ‘Stephen’
         </td>
         <td>
         <a href="/es/book/Islam/The_History_of_Philosophy_in_Islam">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>

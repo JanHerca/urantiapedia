@@ -19,7 +19,7 @@ dateCreated: 2024-11-25T21:24:44Z
         </td>
         <td>
         <a href="/es/book/Islam/The_Maqamat">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
@@ -113,7 +113,7 @@ Su muerte, según la misma autoridad, fue un gran golpe para el saber, y fue uni
         </td>
         <td>
         <a href="/es/book/Islam/The_Maqamat">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de título</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
         <td>
