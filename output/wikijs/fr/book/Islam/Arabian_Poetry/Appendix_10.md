@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-Français Les beaux vers élégiaques avec lesquels s'ouvre ce chef-d'œuvre de la poésie arabe ancienne ont été comparés par le Dr Carlyle au _Village abandonné_ de Goldsmith. <span id="p383">[<sup><small>p. 383</small></sup>]</span> « Mais l'Arabe, remarque Burton, a avec une simplicité et un pathétique équivalents un feu, une force de langage et une profondeur de sentiment que l'Irlandais, si admirable que soit sa poésie, ne pourrait jamais égaler. » ([_Pilgrimage_](errata.htm#2), vol. iii., p. 54.) La traduction de Carlyle, comme suit, de ces vers, si inadéquate qu'elle puisse représenter les beautés de l'original, ne peut manquer de plaire au lecteur anglais, par la grâce et la douceur du rythme :
+Les beaux vers élégiaques avec lesquels s'ouvre ce chef-d'œuvre de la poésie arabe ancienne ont été comparés par le Dr Carlyle au _Village abandonné_ de Goldsmith. <span id="p383">[<sup><small>p. 383</small></sup>]</span> « Mais l'Arabe, remarque Burton, a avec une simplicité et un pathétique équivalents un feu, une force de langage et une profondeur de sentiment que l'Irlandais, si admirable que soit sa poésie, ne pourrait jamais égaler. » ([_Pilgrimage_](errata.htm#2), vol. iii., p. 54.) La traduction de Carlyle, comme suit, de ces vers, si inadéquate qu'elle puisse représenter les beautés de l'original, ne peut manquer de plaire au lecteur anglais, par la grâce et la douceur du rythme :
 
 CES chères demeures qui abritaient autrefois la belle
 &nbsp;&nbsp;Au milieu des étendues sauvages de Mitata, je cherche en vain ;

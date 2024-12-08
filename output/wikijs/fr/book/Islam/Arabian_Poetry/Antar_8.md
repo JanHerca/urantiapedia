@@ -68,7 +68,7 @@ Il est l'asile de tous ceux qui se tournent vers lui pour dissiper leurs chagrin
 
 Que la fortune ne me prive jamais de mon Roi, qu'il vive toujours dans la plus pure joie et la plus pure félicité !
 
-Français Le roi remercia courtoisement Antar pour ses vers et confessa son incapacité à le récompenser convenablement : « même si je te donnais tout ce que je possède ; car ma propriété passera, comme si elle n'avait jamais existé ; mais tes louanges dureront à jamais. » Il offrit à Antar deux esclaves vierges, belles comme des lunes, deux rangées de joyaux rares et quelques parfums ; après quoi Antar se retira et se rendant aux tentes de la famille de Carad, trouva les hommes absents et les femmes assises pour entendre un récit de ses exploits, et la belle Abla la plus inquiète de toutes ; sur quoi il leur adressa ces mots :
+Le roi remercia courtoisement Antar pour ses vers et confessa son incapacité à le récompenser convenablement : « même si je te donnais tout ce que je possède ; car ma propriété passera, comme si elle n'avait jamais existé ; mais tes louanges dureront à jamais. » Il offrit à Antar deux esclaves vierges, belles comme des lunes, deux rangées de joyaux rares et quelques parfums ; après quoi Antar se retira et se rendant aux tentes de la famille de Carad, trouva les hommes absents et les femmes assises pour entendre un récit de ses exploits, et la belle Abla la plus inquiète de toutes ; sur quoi il leur adressa ces mots :
 
 L'obscurité plane au-dessus, et mes larmes coulent en torrents abondants ; je cache mon amour et ne me plains à personne.
 

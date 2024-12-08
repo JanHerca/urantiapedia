@@ -22,7 +22,7 @@ dateCreated: 2024-11-19T20:43:59Z
 </div>
 
 <p style="text-align:center;">
-<span class="text-h3">Oriental Mysticism</span><br>
+<span class="text-h3">Sadi's Scroll of Wisdom</span><br>
 WITH INTRODUCTION BY<br>
 ARTHUR N. WOLLASTON, K.C.I.E.<br>
 NEW YORK<br>

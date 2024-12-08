@@ -1,5 +1,5 @@
 ---
-title: ""Faith""
+title: "Faith"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
