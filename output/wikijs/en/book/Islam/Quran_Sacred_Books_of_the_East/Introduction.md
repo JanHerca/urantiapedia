@@ -117,7 +117,7 @@ There were altogether 365 idols there in Mohammed's time.
 
 Another object of worship then, and of the greatest veneration now, is the celebrated black stone which is inserted in the wall of the Kaabah, and is supposed to have been one of the stones of Paradise, originally white, though since blackened by the kisses of sinful but believing lips.
 
-The worship of stones is a very old form of Semitic cult, and it is curious to note that Jacob ‘took the stone that he had put for his pillow, and set it up for a pillar, and poured oil on the top of it; and he called the name of the place Bethel [^0]:’ and that at Mecca the principal object of sacred interest is a stone, and that the Kaabah has been known, from time immemorial, as Bâit allâh, the house of God.’
+The worship of stones is a very old form of Semitic cult, and it is curious to note that Jacob ‘took the stone that he had put for his pillow, and set it up for a pillar, and poured oil on the top of it; and he called the name of the place Bethel [^0]:’ and that at Mecca the principal object of sacred interest is a stone, and that the Kaabah has been known, from time immemorial, as Bâit allâh, the house of God.’
 
 The _g_inn, like the angels, were held by the ancient Arabs to be the daughters of Allâh; they were supposed to be created out of fire instead of clay, but in all other respects to resemble mankind, and to be subject to the same laws of procreation and decease.
 
@@ -151,7 +151,7 @@ Amongst those who had endeavoured to search for the truth among the mass of conf
 
 These enquirers were known as ‘Hanîfs, a word which originally meant ‘inclining one's steps towards anything,’ and therefore signified either convert or pervert.
 
-They did not constitute a united party, but each for himself investigated the truth. There was, however, another <span id="pxvi">[<sup><small>p. xvi</small></sup>]</span> sect who professed to have found the truth, and who preached the faith of their father Abraham, nothing more nor less, in fact, than the doctrine of the unity of God. These also called themselves ‘Hanîfs, and Mohammed himself at first adopted the title as expressing the faith of Abraham [^1], but subsequently changed it to Muslim.
+They did not constitute a united party, but each for himself investigated the truth. There was, however, another <span id="pxvi">[<sup><small>p. xvi</small></sup>]</span> sect who professed to have found the truth, and who preached the faith of their father Abraham, nothing more nor less, in fact, than the doctrine of the unity of God. These also called themselves ‘Hanîfs, and Mohammed himself at first adopted the title as expressing the faith of Abraham [^1], but subsequently changed it to Muslim.
 
 The chief seat of the cult of the deities of Arabia was Mecca, also called Bekka, both names signifying a place of concourse; another name of the city is Umm el Qurâ, ‘the mother of cities,’ or metropolis. It was built about the middle of the fifth century of our era by the Qurâi_s_ on their obtaining possession of the Kaabah, the most ancient shrine in the country. It is situated in a narrow sandy valley shut in by bare mountains. The soil around the city is stony and unproductive, and the inhabitants are obliged to import their own provisions. To furnish this supply with more regularity Hâshim, Mohammed's grandfather, appointed two caravans, one in winter and the other in summer, to set out yearly; they are mentioned in the Qur’ân, Chapter CVI.
 
@@ -209,7 +209,7 @@ Mohammed had already reached his fortieth year when the first revelations came t
 
 He was also in the habit of passing long periods in solitude and deep thought; and he was profoundly impressed with the falsehood and immorality of the religion of his compatriots and with horror at their vicious and inhuman practices, and had for his best friends men, such as his cousin Waraqah and Zâid ibn Amr, who had, professedly, been long seeking after the truth and who had publicly renounced the popular religion.
 
-At length, during one of his solitary sojournings on Mount Hirâ, a wild and lonely mountain near Mecca, an angel appeared to him and bade him ‘READ [^2]!’ ‘I am no reader!’ Mohammed replied in great trepidation, whereon the angel shook him violently and again bade him read.
+At length, during one of his solitary sojournings on Mount Hirâ, a wild and lonely mountain near Mecca, an angel appeared to him and bade him ‘READ [^2]!’ ‘I am no reader!’ Mohammed replied in great trepidation, whereon the angel shook him violently and again bade him read.
 
 <span id="pxxi">[<sup><small>p. xxi</small></sup>]</span> This was repeated three times, when the angel uttered the five verses which commence the 96th chapter:
 
@@ -235,7 +235,7 @@ Dark thoughts of suicide presented themselves to his mind, and on more than one 
 
 At last the angel again appeared in all his glory, and Mohammed in terror ran to his wife ‘Hadî_g_ah and cried daTHTHirûnî, ‘wrap me up!’ and lay down entirely enwrapped in his cloak as was his custom when attacked by the hysterical fits (which were always accompanied, as we learn from the traditions, with violent hectic fever), partly for medical reasons and partly to screen himself from the gaze of evil spirits.
 
-As he lay there the angel again spake to him: ‘O thou covered! Rise up and warn! and thy Lord magnify! and thy garments purify; and abomination shun! and grant not favours to gain increase; and for thy Lord await [^3]!’
+As he lay there the angel again spake to him: ‘O thou covered! Rise up and warn! and thy Lord magnify! and thy garments purify; and abomination shun! and grant not favours to gain increase; and for thy Lord await [^3]!’
 
 <span id="pxxiii">[<sup><small>p. xxiii</small></sup>]</span>
 
@@ -301,9 +301,9 @@ For two years the Hâ_s_imîs lay under the ban, shut up in their ravine and onl
 
 At length the Qurâi_s_ began themselves to tire of the restriction which they had imposed upon the Hâ_s_imî clan, and were glad of an excuse for removing it. It was found that the deed on which it had been engrossed had become worm-eaten and illegible, and this being taken as an evidence of the divine disapproval of its contents, they listened to the appeal of the venerable Abu Tâlib and allowed the prisoners to come forth and mix once more freely with the rest of the world. The permission came none too soon, for their stores were gone and they were on the <span id="pxxix">[<sup><small>p. xxix</small></sup>]</span> brink of actual starvation. During the two weary years of suffering and distress Mohammed had of course made no converts amongst the people of Mecca, and few, if any, members of his own clan had joined him during their seclusion, so that his prospects were gloomier than ever.
 
-To add to his troubles, he lost his faithful wife ‘Hadî_g_ah not long after this. Shortly afterwards he married a widow named Sâudâ; and later on he was betrothed to ‘Âyeshah, daughter of Abu Bekr, then a mere child, but whom he married in three years time. This woman gained a wonderful ascendancy over the prophet, and exercised considerable influence on Islâm, both during and after his lifetime. On one occasion, when the party were on the move, ‘Âyeshah was left behind with a young Arab under circumstances which gave rise to some very unpleasant rumours affecting her, and a special revelation was necessary to clear her character [^4]. Two other women were presently added to his harîm, ‘Hafza, daughter of ‘Omar, and Zâinab, widow of a Muslim who had been slain at Bedr.
+To add to his troubles, he lost his faithful wife ‘Hadî_g_ah not long after this. Shortly afterwards he married a widow named Sâudâ; and later on he was betrothed to ‘Âyeshah, daughter of Abu Bekr, then a mere child, but whom he married in three years time. This woman gained a wonderful ascendancy over the prophet, and exercised considerable influence on Islâm, both during and after his lifetime. On one occasion, when the party were on the move, ‘Âyeshah was left behind with a young Arab under circumstances which gave rise to some very unpleasant rumours affecting her, and a special revelation was necessary to clear her character [^4]. Two other women were presently added to his harîm, ‘Hafza, daughter of ‘Omar, and Zâinab, widow of a Muslim who had been slain at Bedr.
 
-Another marriage that he contracted gave great scandal to the faithful, namely, that with the wife, also called Zâinab, of his adopted son Zâid, whom her husband divorced and offered to surrender to Mohammed on finding that the latter admired her. This also required a revelation to sanction it [^5].
+Another marriage that he contracted gave great scandal to the faithful, namely, that with the wife, also called Zâinab, of his adopted son Zâid, whom her husband divorced and offered to surrender to Mohammed on finding that the latter admired her. This also required a revelation to sanction it [^5].
 
 His uncle and protector Abu Tâlib died not long after ‘_H_adî_g_ah.
 
@@ -395,13 +395,13 @@ Mohammed had disposed his forces so that his best trained archers covered the on
 
 The Meccans did not pursue their victory, but believing Mohammed, whom they had seen fall, to be dead, returned to their own city.
 
-The defeat placed Mohammed in a very critical position, and he had great difficulty in restoring confidence to his followers [^6].
+The defeat placed Mohammed in a very critical position, and he had great difficulty in restoring confidence to his followers [^6].
 
 About the beginning of the year 627 A.D. the Muslims were in great jeopardy. 4,000 Meccans and 1,000 men, gathered from the neighbouring tribes, marched upon Medînah, being instigated thereto by the Jews who had been expelled from that city.
 
 Mohammed was only apprised of the movement at the last moment, but he at once took measures for the defence. On the advice of Salmân, a Persian captive, he caused a deep trench to be dug round the city, and earthworks to be raised in those parts where it was undefended, and behind the trench he posted his army, numbering 3,000 men.
 
-The invading Meccans were completely checked by this mode of defence, and although the Beni Qurâidhah, a Jewish tribe, deserted to them from Mohammed's side and <span id="pxxxix">[<sup><small>p. xxxix</small></sup>]</span> rendered them every assistance, their attacks were unsuccessful. At length one cold winter's night a violent storm of wind and rain arose, and a complete panic took place in the camp of the Meccans, who broke up and precipitately retired to their homes. This was the siege of the Confederates alluded to in the Qur’ân [^7].
+The invading Meccans were completely checked by this mode of defence, and although the Beni Qurâidhah, a Jewish tribe, deserted to them from Mohammed's side and <span id="pxxxix">[<sup><small>p. xxxix</small></sup>]</span> rendered them every assistance, their attacks were unsuccessful. At length one cold winter's night a violent storm of wind and rain arose, and a complete panic took place in the camp of the Meccans, who broke up and precipitately retired to their homes. This was the siege of the Confederates alluded to in the Qur’ân [^7].
 
 The enemy having disappeared, Mohammed at once marched against the traitorous tribe of Qurâidhah, and besieged them in their fortress, about six miles south-west of Medînah. Being quite unprepared, these were obliged to surrender after fourteen days, which they did on condition that the Benu Aus, their allies in Medînah, should decide their fate. Mohammed chose for arbitrator one of the chiefs of the Aus tribe, named Saad ibn Moâ.dh, a fierce soldier, who was at the time dying of the wounds which he had received in the attack upon the fortress. He ordained that the men should be beheaded one and all, the women and children sold as slaves, and the property divided amongst the soldiers. This terrible sentence was promptly executed, and the men, to the number of 800, were beheaded, and the women and children bartered to the Bedawîn in exchange for arms and horses.
 
@@ -417,7 +417,7 @@ This was, in reality, a great triumph for Mohammed, as it recognised his positio
 
 He now not only endeavoured to reduce the Bedawîn tribes to submission, but wrote letters to the great kings and emperors of the world, to the Persian Khosrou, to the Byzantine Emperor, and to the Abyssinian Na_g__g_â_s_î, peremptorily bidding them embrace the faith and submit to his rule. The replies that he received were not flattering to his pride, but he or his immediate successors were, ere long, to repeat the summons in a form that admitted neither of denial nor of delay.
 
-One potentate only. the governor of Egypt, Maqauqas, returned a favourable answer, and he sent amongst other presents two slave girls, one of whom, a Coptic girl named Mary, Mohammed took to himself, and by so doing estranged his numerous wives, and was only reconciled by a revelation [^8].
+One potentate only. the governor of Egypt, Maqauqas, returned a favourable answer, and he sent amongst other presents two slave girls, one of whom, a Coptic girl named Mary, Mohammed took to himself, and by so doing estranged his numerous wives, and was only reconciled by a revelation [^8].
 
 In 629 A.D., in the month of DHu’l Qa’hdah (February), <span id="pxli">[<sup><small>p. xli</small></sup>]</span> the long-expected pilgrimage took place. With two thousand followers the prophet entered the Holy City, and the Meccans having retired to the neighbouring hills, all passed off quietly.
 
@@ -503,7 +503,7 @@ The doctrine of the unity of God, as preached by Mohammed, was a protest against
 
 As for the angelism and demonology of the Qur’ân, they are a mixture of local superstitions, Persian and Jewish tradition. The system was certainly not due to Mohammed's invention, but was evolved out of what he had heard from Jewish, Christian, and other sources, and regarded as revelation, and coloured by his individual local beliefs.
 
-It is a curious thing that the rite of circumcision is not mentioned in the Qur’ân; but there is no doubt that Mohammed insisted upon it as a compromise for more cruel and dangerous practices [^9].
+It is a curious thing that the rite of circumcision is not mentioned in the Qur’ân; but there is no doubt that Mohammed insisted upon it as a compromise for more cruel and dangerous practices [^9].
 
 The Qur’ân itself is not a formal and consistent code either of morals, laws, or ceremonies.
 
@@ -523,7 +523,7 @@ The Arabic language lends itself very readily to this species of composition, an
 
 That the best of Arab writers has never succeeded in producing anything equal in merit to the Qur’ân itself is not surprising. In the first place, they have agreed before-hand that it is unapproachable, and they have adopted its style as the perfect standard; any deviation from it therefore must of necessity be a defect. Again, with them this style is not spontaneous as with Mohammed and his contemporaries, but is as artificial as though Englishmen should still continue to follow Chaucer as their model, in spite of the changes which their language has undergone. With the prophet the style was natural, and the words were those used in every-day ordinary life, while with the later Arabic authors the style is imitative arid the ancient words are introduced as a literary embellishment. The natural consequence is that their attempts look laboured and unreal by the side of his impromptu and forcible eloquence.
 
-That Mohammed, though, should have been able to challenge even his contemporaries to produce anything like the Qur’ân, ‘And if ye are in doubt of what we have revealed <span id="plvi">[<sup><small>p. lvi</small></sup>]</span> unto our servant, then bring a chapter like it . . . But if ye do it not, and ye surely shall do it not, &c.,’ is at first sight surprising, but, as Nöldeke [^10] has pointed out, this challenge really refers much more to the subject than to the mere style,—to the originality of the conception of the unity of God and of a revelation supposed to be couched in God's own words. Any attempt at such a work must of necessity have had all the weakness and want of prestige which attaches to an imitation. This idea is by no means foreign to the genius of the old Arabs; thus the learned grammarian and rhetorician ‘Harîrî excuses himself in the preface to his celebrated ‘Assemblies’ for any shortcomings, which might possibly be detected in a composition professedly modelled on that of another, by quoting an ancient poem:
+That Mohammed, though, should have been able to challenge even his contemporaries to produce anything like the Qur’ân, ‘And if ye are in doubt of what we have revealed <span id="plvi">[<sup><small>p. lvi</small></sup>]</span> unto our servant, then bring a chapter like it . . . But if ye do it not, and ye surely shall do it not, &c.,’ is at first sight surprising, but, as Nöldeke [^10] has pointed out, this challenge really refers much more to the subject than to the mere style,—to the originality of the conception of the unity of God and of a revelation supposed to be couched in God's own words. Any attempt at such a work must of necessity have had all the weakness and want of prestige which attaches to an imitation. This idea is by no means foreign to the genius of the old Arabs; thus the learned grammarian and rhetorician ‘Harîrî excuses himself in the preface to his celebrated ‘Assemblies’ for any shortcomings, which might possibly be detected in a composition professedly modelled on that of another, by quoting an ancient poem:
 
 ‘’Twas this affected me, that while I lay  
 Snatching a breath of sleep for drowsiness,  
@@ -534,7 +534,7 @@ For Sâudâ's love, my soul had found relief!
 But ‘twas her weeping that excited mine,  
 And he who comes first must be always best!
 
-Amongst a people who believed firmly in witchcraft and soothsaying and who though passionately fond of poetry, believed that every poet had his familiar spirit who inspired his utterances, it was no wonder that the prophet should be taken for ‘a soothsayer,’ for ‘one possessed with an evil spirit,’ or for ‘an infatuated poet [^11].’
+Amongst a people who believed firmly in witchcraft and soothsaying and who though passionately fond of poetry, believed that every poet had his familiar spirit who inspired his utterances, it was no wonder that the prophet should be taken for ‘a soothsayer,’ for ‘one possessed with an evil spirit,’ or for ‘an infatuated poet [^11].’
 
 Each chapter of the Qur’ân is called in Arabic a sûrah, a word which signifies a course of bricks in a wall, and is generally used in the body of the work for any connected or continuous portion complete in itself.
 
@@ -588,7 +588,7 @@ The style is curt, grand, and often almost sublime; the expressions are full of 
 
 In the second period of the Meccan Sûrahs, Mohammed appears to have conceived the idea of still further severing himself from the idolatry of his compatriots, and of giving to the supreme deity Allâh another title, Ar-Ra‘hmân, ‘the merciful one.’
 
-The Meccans, however, seem to have taken these for <span id="plxii">[<sup><small>p. lxii</small></sup>]</span> the names of separate deities [^12], and the name is abandoned in the later chapters.
+The Meccans, however, seem to have taken these for <span id="plxii">[<sup><small>p. lxii</small></sup>]</span> the names of separate deities [^12], and the name is abandoned in the later chapters.
 
 In the Sûrahs of the second Meccan period we first find the long stories of the prophets of olden time, especial stress being laid upon the punishment which fell upon their contemporaries for disbelief; the moral is always the same, namely, that Mohammed came under precisely similar circumstances, and that a denial of the truth of his mission would bring on his fellow-citizens the self-same retribution.
 
@@ -658,7 +658,7 @@ The creed of Mohammed and the Qur’ân is termed Islâm ‘Resignation,’ scil
 
 4\. Qiyâs or ‘Analogy,’ that is, the reasoning of the theological authorities by analogy from the Qur’ân, ‘HadîTH, and I_g_mâ’h, where anything in any one or more is still left undecided.
 
-The first principle of the Muslim faith is a belief in Allâh, who, as we have seen, was known to the Arabs before Mohammed's time, and under the title Allâh ta’hâlâ, ‘Allâh the most high,’ was regarded as the chief god of their pantheon: The epithet ta’hâlâ is, properly speaking, a verb meaning ‘be He exalted,’ but is used, as verbs sometimes are in Arabic [^13], as an epithet. The name Allâh, ‘God,’ is Composed of the article al, ‘the,’ and ilâh, ‘a god,’ and is a very old Semitic word, being connected with the el and elohîm of the Hebrew, and entering into the composition of a large proportion of proper names in Hebrew, Nabathean, and Arabic.
+The first principle of the Muslim faith is a belief in Allâh, who, as we have seen, was known to the Arabs before Mohammed's time, and under the title Allâh ta’hâlâ, ‘Allâh the most high,’ was regarded as the chief god of their pantheon: The epithet ta’hâlâ is, properly speaking, a verb meaning ‘be He exalted,’ but is used, as verbs sometimes are in Arabic [^13], as an epithet. The name Allâh, ‘God,’ is Composed of the article al, ‘the,’ and ilâh, ‘a god,’ and is a very old Semitic word, being connected with the el and elohîm of the Hebrew, and entering into the composition of a large proportion of proper names in Hebrew, Nabathean, and Arabic.
 
 According to Muslim theology, Allâh is eternal and everlasting, one and indivisible, not endued with form, nor circumscribed by limit or measure; comprehending all things, but comprehended of nothing.
 
@@ -666,7 +666,7 @@ According to Muslim theology, Allâh is eternal and everlasting, one and indivis
 
 His attributes are expressed by ninety-nine epithets used in the Qur’ân, which in the Arabic are single words, generally participial forms, but in the translation are some-times rendered by verbs, as, ‘He hears’ for ‘He is the hearer.’
 
-These attributes constitute the Asmâ’ el ‘Husnâ, ‘the good names [^14],’ under which God is invoked by the Muslims; they are ninety-nine in number, and are as follows:
+These attributes constitute the Asmâ’ el ‘Husnâ, ‘the good names [^14],’ under which God is invoked by the Muslims; they are ninety-nine in number, and are as follows:
 
 1\. ar-Ra‘hmân, the Merciful.
 
@@ -876,21 +876,21 @@ Besides a belief in God, the Qur’ân requires belief in the existence of angel
 
 <span id="plxix">[<sup><small>p. lxix</small></sup>]</span>
 
-The archangels are, Gibra’îl, ‘Gabriel’ (also called er Rû‘h el Amîn, ‘the faithful spirit,’ or er Rû‘h el Qudus, ‘the holy spirit’), God's messenger by whom the Qur’ân was revealed to Mohammed; Mikâ’îl, the guardian angel of the Jews [^15]; Isrâfîl, the archangel who will sound the last trumpet at the resurrection; Azrâ’îl, the angel of death.
+The archangels are, Gibra’îl, ‘Gabriel’ (also called er Rû‘h el Amîn, ‘the faithful spirit,’ or er Rû‘h el Qudus, ‘the holy spirit’), God's messenger by whom the Qur’ân was revealed to Mohammed; Mikâ’îl, the guardian angel of the Jews [^15]; Isrâfîl, the archangel who will sound the last trumpet at the resurrection; Azrâ’îl, the angel of death.
 
 Two angels are appointed to each human being, who stand one on his right and one on his left hand, to record his every action.
 
-One angel, called Ra_z_wân, ‘goodwill,’ presides over heaven; and one, named Mâlik, ‘the ruler,’ over hell [^16].
+One angel, called Ra_z_wân, ‘goodwill,’ presides over heaven; and one, named Mâlik, ‘the ruler,’ over hell [^16].
 
 Munkir and Nakîr are the two angels who preside at ‘the examination of the tomb.’ They visit a man in his grave directly after he has been buried, and examine him concerning his faith. If he acknowledge that there is but one God and that Mohammed is his prophet, they suffer him to rest in peace, otherwise they beat him with iron maces till he roars so loud that he is heard by all from east to west except by men and _g_inns. They then press the earth down on the corpse, and leave it to be torn by dragons and serpents till the day of resurrection.
 
 The angelology of Islam is apparently traceable to Jewish sources, though the ancient Arab cult had no doubt borrowed some portion of it from the Persians, whence too it was introduced into Judaism.
 
-The notions of the bridge over hell, Es Sirâ_t_, and of the partition wall, El Aarâf, between paradise and hell [^17], are also common to the Jewish and Magian traditions.
+The notions of the bridge over hell, Es Sirâ_t_, and of the partition wall, El Aarâf, between paradise and hell [^17], are also common to the Jewish and Magian traditions.
 
-Iblîs or _S_aitân, ‘the devil’ or ‘Satan,’ was originally an angel who fell from paradise on account of his proudly refusing to adore Adam [^18].
+Iblîs or _S_aitân, ‘the devil’ or ‘Satan,’ was originally an angel who fell from paradise on account of his proudly refusing to adore Adam [^18].
 
-Besides the angels there are the _g_inn (collectively _g_ânn), of whom I have before spoken. They are created out of <span id="plxx">[<sup><small>p. lxx</small></sup>]</span> fire and are both good and evil, the latter being generally called ‘Ifrît.’ Their abode is Mount Qâf, the mountain chain which encircles the world. These are the creatures over whom Solomon held control, and a tribe of whom were converted to Islâm by Mohammed's preaching on his return from _T_â’if [^19].
+Besides the angels there are the _g_inn (collectively _g_ânn), of whom I have before spoken. They are created out of <span id="plxx">[<sup><small>p. lxx</small></sup>]</span> fire and are both good and evil, the latter being generally called ‘Ifrît.’ Their abode is Mount Qâf, the mountain chain which encircles the world. These are the creatures over whom Solomon held control, and a tribe of whom were converted to Islâm by Mohammed's preaching on his return from _T_â’if [^19].
 
 The two classes of beings, human and superhuman, by which the world is inhabited are called ETH-THagalân, ‘the two weighty matters,’ or el ’Hâlamûn, ‘the worlds,’ as in the expression in the Opening Chapter, ‘Lord of the worlds.’
 
@@ -907,7 +907,7 @@ _G_annat al Firdaus (Chapter XVIII, 107), the Garden of Paradise.
 
 Of the presumed sensual character of the Muslim paradise much has been written. It appears, however, from the Qur’ân, to be little more than an intense realisation of all that a dweller in a hot, parched, and barren land could desire, namely, shade, water, fruit, rest, and pleasant companionship and service.
 
-Hell contains also seven divisions [^20]:
+Hell contains also seven divisions [^20]:
 
 _G_ehennum (Chapter XIX, 44), Gehenna.  
 La_th_â (Chapter LXX, 15), the Flaming Fire.  
@@ -921,7 +921,7 @@ Hâwiyeh (Chapter CL, 8), the Abyss.
 
 As to the condition of the soul between death and the resurrection, Islâm has no authoritative teaching; the general opinion is that there is a limbo somewhere or other in which the spirits of the good repose, while those of the wicked are imprisoned elsewhere in a foul dungeon to await their doom.
 
-A great many wonderful signs are to precede the judgment day, of which we need only notice the coming of Mehdi or ‘guide,’ who shall have the same name as Mohammed himself, and whose father's name shall be the same as his father's name, and who shall govern the Arabians, and fill the earth with righteousness; the appearance of Ed-da_g__g_âl, ‘the antichrist;’ the release of Gog and Magog [^21]; and the convulsions in heaven and earth described in" the Qur’ân itself.
+A great many wonderful signs are to precede the judgment day, of which we need only notice the coming of Mehdi or ‘guide,’ who shall have the same name as Mohammed himself, and whose father's name shall be the same as his father's name, and who shall govern the Arabians, and fill the earth with righteousness; the appearance of Ed-da_g__g_âl, ‘the antichrist;’ the release of Gog and Magog [^21]; and the convulsions in heaven and earth described in" the Qur’ân itself.
 
 The chief prophets recognised by the Qur’ân are the following: each of whom is said to have had a special revelation, and to possess an appropriate title:
 
@@ -941,7 +941,7 @@ The first consists in the repetition of the Kelimah or creed, ‘There is no god
 
 <span id="plxxii">[<sup><small>p. lxxii</small></sup>]</span>
 
-Prayer consists of the recital of a certain prescribed and invariable formula at five stated times of the day, namely: 1. Between dawn and sunrise. 2. After the sun has begun to decline. 3. Midway between this. 4. Which is said shortly after sunset. 5. At nightfall. These are farẓ or ‘incumbent;’ all others are nafl, ‘supererogatory,’ or sunnah, ‘in accordance with the practices of the prophet.’ The prayers are preceded by wuẓû’h, ‘ablution;’ they are commenced in a standing position, qiyâm, the hands being so held that the thumbs touch the lobes of the ears, and the face being turned towards the qiblah, that is, in the direction of Mecca. During the prayers inclinations of the body, rukû’h [^22], are made, of which a certain number only are incumbent.
+Prayer consists of the recital of a certain prescribed and invariable formula at five stated times of the day, namely: 1. Between dawn and sunrise. 2. After the sun has begun to decline. 3. Midway between this. 4. Which is said shortly after sunset. 5. At nightfall. These are farẓ or ‘incumbent;’ all others are nafl, ‘supererogatory,’ or sunnah, ‘in accordance with the practices of the prophet.’ The prayers are preceded by wuẓû’h, ‘ablution;’ they are commenced in a standing position, qiyâm, the hands being so held that the thumbs touch the lobes of the ears, and the face being turned towards the qiblah, that is, in the direction of Mecca. During the prayers inclinations of the body, rukû’h [^22], are made, of which a certain number only are incumbent.
 
 The time for prayer is called from the minarets of the mosques by Mu’eDHDHins or ‘criers,’ in the following words:
 
@@ -955,9 +955,9 @@ The mosques are always open for public prayers, but on Fridays a special service
 
 Another of the duties incumbent on every believer <span id="plxxiii">[<sup><small>p. lxxiii</small></sup>]</span> is that of fasting between dawn and sunset throughout Rama.dhân, the ninth month of the Muslim year. The fast is a most rigorous one, not even a drop of water being allowed to pass the lips even when Rama.dhân occurs in the hot season. Only the sick and infirm are allowed exemption.
 
-One night between the twenty-first and twenty-ninth of Rama.dhân, the exact date being uncertain, is called the Lailat el Qadr or ‘night of power;’ in it the Qur’ân was said to have been revealed [^23].
+One night between the twenty-first and twenty-ninth of Rama.dhân, the exact date being uncertain, is called the Lailat el Qadr or ‘night of power;’ in it the Qur’ân was said to have been revealed [^23].
 
-Zakât, ‘almsgiving [^24]’ or ‘poor rate,’ must be given either in money, stock, or goods, and consists of the bestowal in charity of about one-fortieth of all such property as shall have been a year in the owner's possession. In Mohammed's time the zakât was a contribution by his followers to the expenses of the war against the infidels.
+Zakât, ‘almsgiving [^24]’ or ‘poor rate,’ must be given either in money, stock, or goods, and consists of the bestowal in charity of about one-fortieth of all such property as shall have been a year in the owner's possession. In Mohammed's time the zakât was a contribution by his followers to the expenses of the war against the infidels.
 
 Sadaqah is the name applied to any charitable gifts beyond that prescribed by law, especially to the offerings on the ’hîd al fi_t_r, or ‘feast of breaking fast,’ at the expiration of Rama.dhân.
 
@@ -975,7 +975,7 @@ On reaching Mecca he performs the legal ablutions, proceeds to the Sacred Mosque
 
 He then visits the Maqâm Ibrâhîm or Abraham's station, and afterwards returns and kisses the black stone.
 
-Passing through the gate of the haram leading to Mount Zafâ, he runs seven times between the summit of that hill and that of Merwah [^25].
+Passing through the gate of the haram leading to Mount Zafâ, he runs seven times between the summit of that hill and that of Merwah [^25].
 
 On the eighth day, called tarwî‘h, the pilgrims assemble in the valley of Minâ, where they pass the night.
 
@@ -1007,7 +1007,7 @@ That Mohammed had a due respect for the female sex, as far as was consistent wit
 
 The language of the Qur’ân is universally acknowledged to be the most perfect form of Arab speech. The Qurâi_s_, as the guardians of the national temple and the owners of the territory in which the great fairs and literary festivals of all Arabia were held, would naturally absorb into their own dialect many of the words and locutions of other tribes, and we should consequently expect their language to be more copious and elegant than that of their neighbours. At the same time we must not forget that the acknowledged claims of the Qur’ân to be the direct utterance of the divinity have made it impossible for any Muslim to criticise the work, and it became, on the contrary, the standard by which other literary compositions had to be judged. Grammarians, lexicographers, and rhetoricians started with the presumption that the Qur’ân could not be wrong, and other works therefore only approached excellence in proportion as they, more or less, successfully imitated its style. Regarding it, however, from a perfectly impartial and unbiassed standpoint, we find that it <span id="plxxvii">[<sup><small>p. lxxvii</small></sup>]</span> expresses the thoughts and ideas of a Bedawî Arab in Bedawî language and metaphor. The language is noble and forcible, but it is not elegant in the sense of literary refinement. To Mohammed's hearers it must have been startling, from the manner in which it brought great truths home to them in the language of their every-day life.
 
-There was nothing antiquated in the style or the words, no tricks of speech, pretty conceits, or mere poetical embellishments; the prophet spoke with rude, fierce eloquence in ordinary language. The only rhetorical ornament he allowed himself was that of making his periods more or less rhythmical, and most of his clauses rhyme,—a thing that was and still is natural to an Arab orator, and the necessary outcome of the structure of the Arabic tongue [^26].
+There was nothing antiquated in the style or the words, no tricks of speech, pretty conceits, or mere poetical embellishments; the prophet spoke with rude, fierce eloquence in ordinary language. The only rhetorical ornament he allowed himself was that of making his periods more or less rhythmical, and most of his clauses rhyme,—a thing that was and still is natural to an Arab orator, and the necessary outcome of the structure of the Arabic tongue [^26].
 
 It is often difficult to enter thoroughly into the spirit of the old Arab poets, Mohammed's contemporaries or immediate predecessors, because we cannot completely realise the feelings that actuated them or identify ourselves with the society in which they moved. For this reason they have always something remote and obsolete about them, however clear their language and meaning may be. With the Qur’ân it is not so. Mohammed speaks with a living voice, his vivid word-painting brings at once before the mind the scene he describes or conjures up, we can picture his very attitude when, having finished some marvellously told story of the days of yore, uttered some awful denunciation, or given some glorious promise, he pauses suddenly and says, with bitter disappointment, ‘These are the true stories, and there is no god but God and yet ye turn aside!’
 
@@ -1019,20 +1019,20 @@ An instance of this occurs in the Opening Chapter, where the words ellaDHîna an
 
 I have, as far as possible, rendered an Arabic word by the same English word wherever it occurs; in some cases, however, where the Arabic word has more than one signification, or where it would distort the sense to retain the same expression, I have not scrupled to alter it.
 
-Some of the Arabic words that occur in the Qur’ân are ambiguous, and have given rise to numerous differences of opinion among commentators. Thus the word istawâ is applied to God, and is interpreted in some passages to <span id="plxxix">[<sup><small>p. lxxix</small></sup>]</span> mean ‘he directed himself by his will to the heaven’ (Lane), and in others to mean ‘he stood straight or erect’ (Lane). The expression occurs often in the Qur’ân as descriptive of God's taking up a certain position with regard to the throne or highest heaven, and Muslim theologians have never ceased to debate concerning the exact nature of this position. El _G_hazzâli says that He ‘istawâ’ upon the throne in the manner he has himself described, and in the sense He himself means, but not by actual contact or local situation, while the throne itself is sustained by Him. To render it then by ‘sitting’ or ‘ascending’ would be to adopt a particular view of a very debatable question, and to give to the Arabic word a precision of meaning which it does not possess. The root of the word contains the notions of ‘equality of surface’ or ‘uniformity,’ of ‘making’ or ‘fashioning,’ and of ‘being or going straight.’ I have, therefore, adopted a rendering which has a similar confusion of significations, and translated it ‘made for,’ as in Chapter II, ver. 27, ‘He made for the heavens.’ Where no question can arise concerning its interpretation, as, for instance, when it is used of a rider balancing himself on the back of his camel, I have rendered it simply ‘settled [^27].’
+Some of the Arabic words that occur in the Qur’ân are ambiguous, and have given rise to numerous differences of opinion among commentators. Thus the word istawâ is applied to God, and is interpreted in some passages to <span id="plxxix">[<sup><small>p. lxxix</small></sup>]</span> mean ‘he directed himself by his will to the heaven’ (Lane), and in others to mean ‘he stood straight or erect’ (Lane). The expression occurs often in the Qur’ân as descriptive of God's taking up a certain position with regard to the throne or highest heaven, and Muslim theologians have never ceased to debate concerning the exact nature of this position. El _G_hazzâli says that He ‘istawâ’ upon the throne in the manner he has himself described, and in the sense He himself means, but not by actual contact or local situation, while the throne itself is sustained by Him. To render it then by ‘sitting’ or ‘ascending’ would be to adopt a particular view of a very debatable question, and to give to the Arabic word a precision of meaning which it does not possess. The root of the word contains the notions of ‘equality of surface’ or ‘uniformity,’ of ‘making’ or ‘fashioning,’ and of ‘being or going straight.’ I have, therefore, adopted a rendering which has a similar confusion of significations, and translated it ‘made for,’ as in Chapter II, ver. 27, ‘He made for the heavens.’ Where no question can arise concerning its interpretation, as, for instance, when it is used of a rider balancing himself on the back of his camel, I have rendered it simply ‘settled [^27].’
 
 The notes that I have appended are only such as are absolutely necessary for understanding the text; for a full account of all the historical allusions, Arabic, Jewish, and Magian legends, with which the native commentators illustrate the Qur’ân, the reader is referred to the notes in Sale's translation. The version of that eminent scholar fully deserves the consideration it has so long enjoyed, but from the large amount of exegetical matter which he has incorporated in his text, and from the style of language employed, which differs widely from the nervous energy and rugged simplicity of the original, his work can scarcely be regarded as a fair representation of the Qur’ân.
 
 Rodwell's version approaches nearer to the Arabic, but even in that there is too much assumption of the literary <span id="plxxx">[<sup><small>p. lxxx</small></sup>]</span> style. The arrangement of the Sûrahs in chronological order, too, though a help to the student, destroys the miscellaneous character of the book, as used by the Muslims, and as Mohammed's successors left it.
 
-In my rendering I have, for the most part, kept to the interpretation of the Arabic commentator Bâi.dhâvî, and have only followed my own opinion in certain cases where a word or expression, quite familiar to me from my experience of every-day desert life, appeared to be somewhat strained by these learned schoolmen. Chapter XXII, ver. 64, is an instance in which a more simple rendering would be preferable, though I have only ventured to suggest it in a note [^28].
+In my rendering I have, for the most part, kept to the interpretation of the Arabic commentator Bâi.dhâvî, and have only followed my own opinion in certain cases where a word or expression, quite familiar to me from my experience of every-day desert life, appeared to be somewhat strained by these learned schoolmen. Chapter XXII, ver. 64, is an instance in which a more simple rendering would be preferable, though I have only ventured to suggest it in a note [^28].
 
 I am fully sensible of the shortcomings of my own version, but if I have succeeded in my endeavour to set before the reader plainly what the Qur’ân is, and what it contains, my aim will have been accomplished.
 
-E. H. PALMER.               
+E. H. PALMER.               
 
 ST. JOHN's COLLEGE, CAMBRIDGE,  
-           March, 1880.
+           March, 1880.
 
 
 <br>

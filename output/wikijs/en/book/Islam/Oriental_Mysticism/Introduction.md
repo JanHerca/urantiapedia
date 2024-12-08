@@ -37,10 +37,10 @@ dateCreated: 2024-11-10T11:17:18Z
 ### ORIENTAL MYSTICISM.
 
 Thy prayer-mat stain with wine, if so  
-  The Magian's favour thou canst win,  
+  The Magian's favour thou canst win,  
 For travellers in the land should know  
-  The ways and customs of the inn.  
-                                    HÁFIZ.
+  The ways and customs of the inn.  
+                                    HÁFIZ.
 
 THE verse above quoted, like most Oriental poetic Introduction. writings, is susceptible of a mystical and much higher interpretation than appears from a merely superficial perusal. It is peculiarly illustrative of the allegorical form under which the intellectual life of the Religious Philosopher is treated by the Persians, namely that of a journey, the ultimate object of which is the knowledge of the Infinite Majesty of God; a plan similar to that adopted with reference to the moral life by our own John Bunyan in the Pilgrim's Progress. At the outset of their treatises the term Traveller is applied to the intellectual man only, but the word is afterwards used in a more
 

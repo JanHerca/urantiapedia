@@ -44,7 +44,7 @@ Like the great Pagans, the Hâjî holds that man was born good, while the Christ
 
 <span id="p128">[<sup><small>p. 128</small></sup>]</span>
 
-> &nbsp;Mâyâ mare, na man mare, mar mar gayâ, sarîr.
+> &nbsp;Mâyâ mare, na man mare, mar mar gayâ, sarîr.
 > Illusion dies, the mind dies not though dead and gone the flesh.
 
 Nirwâna, I have said, is partial extinction by being merged in the Supreme, not to be confounded with Pari-nirwâna or absolute annihilation. In the former also, dying gives birth to a new being, the embodiment of _karma_ (deeds), good and evil, done in the countless ages of transmigration.

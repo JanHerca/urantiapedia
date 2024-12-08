@@ -64,7 +64,7 @@ Chapter XLIV., Verse 51.—Verily, the pious shall be in a safe place! in garden
 
 Chapter LVI., Verse (10).
 
-And the foremost foremost!
+And the foremost foremost!
 
 These are they who are brought nigh,
 

@@ -458,7 +458,7 @@ To which the generations have retired?
 ## LVIII
 
 “Great is your soul,”—these are the words they preach,—
-  "It passes from your framework to the frame
+  "It passes from your framework to the frame
 &nbsp;&nbsp;&nbsp;Of others, and upon this road of shame
 Turns purer and more pure."—Oh, let them teach!
 

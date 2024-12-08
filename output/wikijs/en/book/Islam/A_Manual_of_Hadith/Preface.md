@@ -55,7 +55,7 @@ p. vi This head-note will be found useful as it contains a summary of every had�
 
 As an introduction to this work, I would recommend to the reader to go through the chapter on "Sunnah or Hadīth", in my book _The Religion of Islām_.
 
-In conclusion, I must give expression to my thanks to Mr. F. W. Bustin, Editor of the _The Civil & Military Gazette_, Lahore, for having gone through the manuscript, and to Malak Sher Muhammad Khan, B.A. for having gone through a part of the proofs.
+In conclusion, I must give expression to my thanks to Mr. F. W. Bustin, Editor of the _The Civil & Military Gazette_, Lahore, for having gone through the manuscript, and to Malak Sher Muhammad Khan, B.A. for having gone through a part of the proofs.
 
 MUHAMMAD 'ALI
 

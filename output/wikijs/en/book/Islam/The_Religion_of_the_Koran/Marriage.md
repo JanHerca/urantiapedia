@@ -34,7 +34,7 @@ dateCreated: 2024-11-23T20:4:56Z
 
 <span id="p67">[<sup><small>p. 67</small></sup>]</span>
 
-CHAPTER IV., Verse 3.—Marry what seems good to you of women, by twos, or threes, or fours; and if ye fear that ye cannot be equitable, then only one, or what your right hands possess. (\*) [^0] That keeps you nearer to not being partial.
+CHAPTER IV., Verse 3.—Marry what seems good to you of women, by twos, or threes, or fours; and if ye fear that ye cannot be equitable, then only one, or what your right hands possess. (\*) [^0] That keeps you nearer to not being partial.
 
 Chapter XXXIII., Verse 49.—O thou prophet! verily we make lawful for thee thy wives to whom thou hast given their hire (i.e. dowry), and what thy right hand possesses out of the booty that God has granted thee.
 

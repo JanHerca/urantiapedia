@@ -54,7 +54,7 @@ most obedient and humble Servant,<br>
 E. H. PALMER.
 
 Dated RAMAZAN, 1283 A.H.  
-     (_January_, 1867, A.D.)
+     (_January_, 1867, A.D.)
 
 <figure class="table chapter-navigator">
   <table>

@@ -150,7 +150,7 @@ A.P. _khatt i sabz_. Verdure. Down just appearing upon the cheek. The state of l
 
 A. _khalá-ik_. Tempers. Peoples. God's attribute of Power.
 
-P. _kham i zulf_. A twisting curl. Joy of the heart at knowing God [^1].
+P. _kham i zulf_. A twisting curl. Joy of the heart at knowing God [^1].
 
 P. _kh’áhar_. Sister. Revelation.
 
@@ -274,9 +274,9 @@ A. _láhút_. Divinity. Life permeating all things.
 
 A. _lubb_. Pith. Intelligence sanctified and purified from doubts and suspicions.
 
-P. _lab lab_. Brimful. Drinking in the Light of God and having the gaze riveted upon Him,
+P. _lab lab_. Brimful. Drinking in the Light of God and having the gaze riveted upon Him,
 
-P.A. _lab i lá’l_. A ruby lip. The unheard but understood words of God [^1]. Conscience.
+P.A. _lab i lá’l_. A ruby lip. The unheard but understood words of God [^1]. Conscience.
 
 A. _mádar_. Mother. The tablets on which the Corán is said to have been inscribed from all eternity; called by the Arabs ![](/image/book/Islam/Oriental_Mysticism/07900.jpg) _ummu ’l Kitáb_, “The Mother of The Book.”
 

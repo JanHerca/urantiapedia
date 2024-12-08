@@ -51,7 +51,7 @@ Ingratitude is a sign of ignorance,
 For those who know the truth are thankful.
 When you remember me, breathe “Mercy be upon him.”
 I am ending with my own name,
-“O Allah, grant me a ‘Lauded’ end.” [^6]
+“O Allah, grant me a ‘Lauded’ end.” [^6]
 
 <br>
 

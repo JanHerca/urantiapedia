@@ -40,7 +40,7 @@ L. CRANMER-BYNG
 S. A. KAPADIA
 
 Northbrook Society,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 158, Piccadilly, W.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 158, Piccadilly, W.
 
 <figure class="table chapter-navigator">
   <table>

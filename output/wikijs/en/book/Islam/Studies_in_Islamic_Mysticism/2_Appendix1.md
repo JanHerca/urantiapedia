@@ -62,7 +62,7 @@ _v_. ١٣. The MS. and K read ![](/image/book/Islam/Studies_in_Islamic_Mysticism
 
 _v_. ١٦. The MS. reads ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14501.jpg) for ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14502.jpg).
 
-_v_. ٢٠. The rhyme in this poem is _muqayyad_. Even Jílí could not have written ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14503.jpg) here, or ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14504.jpg), (4, _v_. ٢٢). He neglects the rule that in this form of Ṭawíl the third foot of the second hemistich should be   ̆  ̄  ̆ (not   ̆  ̄  ̄).
+_v_. ٢٠. The rhyme in this poem is _muqayyad_. Even Jílí could not have written ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14503.jpg) here, or ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14504.jpg), (4, _v_. ٢٢). He neglects the rule that in this form of Ṭawíl the third foot of the second hemistich should be   ̆  ̄  ̆ (not   ̆  ̄  ̄).
 
 <span id="p146">[<sup><small>p. 146</small></sup>]</span>
 

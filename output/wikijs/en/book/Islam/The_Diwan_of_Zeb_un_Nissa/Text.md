@@ -156,27 +156,27 @@ Itself an archway welcoming the Friend.
 ## IV
 
 My eager heart a pang of rapture stings
-   When the long-wandering wind unto me brings
+   When the long-wandering wind unto me brings
 &nbsp;&nbsp;&nbsp;&nbsp;The perfume of thy presence on its wings.
 
 And so I wait in this my sorrow's night,
-   Until thou givest to my weary sight
+   Until thou givest to my weary sight
 &nbsp;&nbsp;&nbsp;&nbsp;Thy beauty for my longing eyes' delight.
 
 The world through Islam light in darkness saw
-   And walked safe guided by thy Scroll of Law,
+   And walked safe guided by thy Scroll of Law,
 &nbsp;&nbsp;&nbsp;&nbsp;Bowing to God in hope and holy awe—
 
 To God, Who sinners can forgive and lead,
-   Inscrutable Himself, yet Who can read
+   Inscrutable Himself, yet Who can read
 &nbsp;&nbsp;&nbsp;&nbsp;The hidden heart and comprehend its need.
 
 O Prophet, shining like a lonely gem,
-   The fairest of Heaven's highest diadem,
+   The fairest of Heaven's highest diadem,
 &nbsp;&nbsp;&nbsp;&nbsp;Look on men's need and intercede for them.
 
 Thou art the veil through which the light doth shine,
-   Nay, thou thyself the very torch divine—
+   Nay, thou thyself the very torch divine—
 &nbsp;&nbsp;&nbsp;&nbsp;Naught else behold these dazzled eyes of mine.
 
 <span id="p31">[<sup><small>p. 31</small></sup>]</span>
@@ -471,12 +471,12 @@ But, Makhfi, think what secret joy is thine,
 ## XII
 
 Friends had I, many friends, who shared with me
-&nbsp;&nbsp;&nbsp;&nbsp; Days glad and sad,
+&nbsp;&nbsp;&nbsp;&nbsp; Days glad and sad,
 But mine they are no more, I am cut free
 &nbsp;&nbsp;&nbsp;&nbsp;From all I had.
 
 Dust falls within the cup of Kaikobad
-&nbsp;&nbsp;&nbsp;&nbsp; And King Jamshid,
+&nbsp;&nbsp;&nbsp;&nbsp; And King Jamshid,
 Nor reeks the world if they were sad or glad,
 &nbsp;&nbsp;&nbsp;&nbsp;Or what they did.
 
@@ -1157,7 +1157,7 @@ So do I burnish with the oil of love
 I vainly stretch imploring hands that long
 To touch Hope's gleaming garment as she flies;
 Though my desire may fail, yet Hope is strong
-&nbsp;&nbsp;&nbsp; And keen, and never dies.
+&nbsp;&nbsp;&nbsp; And keen, and never dies.
 
 When on the cup that held the drink divine
 Of last night's feast the light of morning falls,

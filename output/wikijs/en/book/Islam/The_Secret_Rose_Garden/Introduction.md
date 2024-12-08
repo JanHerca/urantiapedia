@@ -122,7 +122,7 @@ We thus see that to the Sūfī the love between man and woman is a shadowed pict
 
 The history of mysticism contains many impassioned love songs to the Absolute, but in Sūfī poetry there is a peculiar richness, a depth, a colour which fascinates and charms so many of us.
 
-Sūfī poetry abounds in allegories and love romances, the stories of Laylā and Majnūm, Yūsuf and Zulaikā, Salāmān and Absāl, in which it is easy to read the hidden meaning of passion for the Absolute. Various are the love themes of the Sūfīs; we hear songs of: the nightingale in love with the rose, the moth fluttering round the light of the candle, the moaning dove who has lost her mate, the snow melting in the desert and mounting as vapour to the sky, of a dark night in the desert through which a frenzied <span id="p16">[<sup><small>p. 16</small></sup>]</span> camel madly plunges, of a reed torn from its bed and made into a flute whose plaintive music fills the eyes with tears. [^0]
+Sūfī poetry abounds in allegories and love romances, the stories of Laylā and Majnūm, Yūsuf and Zulaikā, Salāmān and Absāl, in which it is easy to read the hidden meaning of passion for the Absolute. Various are the love themes of the Sūfīs; we hear songs of: the nightingale in love with the rose, the moth fluttering round the light of the candle, the moaning dove who has lost her mate, the snow melting in the desert and mounting as vapour to the sky, of a dark night in the desert through which a frenzied <span id="p16">[<sup><small>p. 16</small></sup>]</span> camel madly plunges, of a reed torn from its bed and made into a flute whose plaintive music fills the eyes with tears. [^0]
 
 ## THE BELOVED
 
@@ -134,14 +134,14 @@ Being pantheists, they probably believed that He was the One Light shining in my
 Every instant the Loved One assumes a new garment, now of old, now of youth.
 Now He plunged into the heart of the substance of the potter's clay--the Spirit plunged like a diver.
 Anon He rose from the depths of mud that is moulded and baked,
-Then he appeared in the world.” [^1]
+Then he appeared in the world.” [^1]
 
 And Jāmī declares:
 
 “In neighbour, friend, companion, Him we see,
 In beggar's rags or robes of royalty,
 In Union's cell or in distraction haunts,
-There's none but He, by God, there's none but He.” [^2]
+There's none but He, by God, there's none but He.” [^2]
 
 <span id="p17">[<sup><small>p. 17</small></sup>]</span>
 
@@ -149,11 +149,11 @@ The Sūfīs realized that it is impossible in spatial terms to describe that whi
 
 Plotinus has told us in a beautiful passage that a
 
-“We must not be surprised that that which excites the keenest of longings is without any form, even spiritual form, since the soul itself, when inflamed with love for it, puts off all the form which it had, even that which belongs to the spiritual world.” [^3]
+“We must not be surprised that that which excites the keenest of longings is without any form, even spiritual form, since the soul itself, when inflamed with love for it, puts off all the form which it had, even that which belongs to the spiritual world.” [^3]
 
 The inability to describe to the uninitiated the secret love of the mystic for the Unknowable is made the subject of an exquisite poem by the Indian poet Tagore:
 
-“I boasted among men that I had known you. They see your picture in all works of mine. They come and ask me who is he? I know not how to answer them. I say, ‘Indeed, I cannot tell.’ They blame me and they go away in scorn. And you sit there smiling. I put my tales of you into lasting songs. The secret gushes out from my heart. They come and ask me, ‘Tell me all your meaning.’ I know not how to answer them. I say, ‘Ah, who knows what they mean.’ They smile and go away in utter scorn. And you sit there smiling.” [^4]
+“I boasted among men that I had known you. They see your picture in all works of mine. They come and ask me who is he? I know not how to answer them. I say, ‘Indeed, I cannot tell.’ They blame me and they go away in scorn. And you sit there smiling. I put my tales of you into lasting songs. The secret gushes out from my heart. They come and ask me, ‘Tell me all your meaning.’ I know not how to answer them. I say, ‘Ah, who knows what they mean.’ They smile and go away in utter scorn. And you sit there smiling.” [^4]
 
 <span id="p18">[<sup><small>p. 18</small></sup>]</span>
 

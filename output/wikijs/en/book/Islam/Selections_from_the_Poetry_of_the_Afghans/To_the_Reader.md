@@ -33,16 +33,16 @@ dateCreated: 2024-11-11T11:3:15Z
 
 <span id="pv">[<sup><small>p. v</small></sup>]</span>
 
-DURING my lengthened researches in, and long study of the Pus’hto language, for so many years past, and particularly when making selections for my work entitled “Gulshan-i-Roh,” [^0] I could not fail being much struck with the beauty of some of the poetry of the Afghāns; so much so, indeed, that I long since determined, and, at length, now venture to submit to the European reader, a literal translation of several poems of the most celebrated of the Afghān poets—together with a brief notice of each author—in an English dress.
+DURING my lengthened researches in, and long study of the Pus’hto language, for so many years past, and particularly when making selections for my work entitled “Gulshan-i-Roh,” [^0] I could not fail being much struck with the beauty of some of the poetry of the Afghāns; so much so, indeed, that I long since determined, and, at length, now venture to submit to the European reader, a literal translation of several poems of the most celebrated of the Afghān poets—together with a brief notice of each author—in an English dress.
 
 It must be remembered, that these poems are the effusions of men who never enjoyed any of what we call the luxuries of life; yet how refined are the generality of their sentiments! Of men who lived in a state, such as our own Borderers lived in, five hundred years ago, in violence and in strife, and whose descendants live so still; yet how exquisitely pathetic are many of their poems, and how high-souled and benevolent their sentiments and ideas! Inhabiting a fine country, with grand and lofty mountains, and green and fertile valleys, but with nought more than the bare necessaries of life attainable, how simple and how perfect are their similes, and how true to nature! What a patriotic ardour; what a true spirit of freedom, and a love of country, much of their poetry displays!
 
 It must also be borne in mind, that the greater number of the <span id="pvi">[<sup><small>p. vi</small></sup>]</span> writers of the following poems, except Aḥmad Shāh, and Khushḥāl Khān, and his sons, were either men, who during their life-time had scarcely left the precincts of their native village, or who had devoted their lives to poverty and religious abstraction. Men, who never wrote for fame; and who never contemplated that the inmost thoughts which had occupied their hearts, would ever meet the eyes of more than a few dear and admiring friends, after they had, themselves, passed from the scene for ever. Never did they imagine that they would appear before any Public, much less a European one, in the Saxon tongue, and translated by a Farangī!
 
 “Far from the maddening world's ignoble strife,
-   Their sober wishes never learn’d to stray;
- Along the cool sequester’d vale of life,
-   They kept the noiseless tenour of their way.”
+   Their sober wishes never learn’d to stray;
+ Along the cool sequester’d vale of life,
+   They kept the noiseless tenour of their way.”
 
 I have been very careful to render the poems as literal as possible; and have, it will be perceived, endeavoured to preserve the rhyming words, as they occur, in the English as well, more particularly when each couplet ends in the same word throughout.
 

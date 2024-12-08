@@ -1617,7 +1617,7 @@ Till all its ancient Secret be enlarged.
 Enough—The written Summary I close,
 And set my Seal:
 
-     The Truth God only Knows.
+     The Truth God only Knows.
 
 <figure class="table chapter-navigator">
   <table>

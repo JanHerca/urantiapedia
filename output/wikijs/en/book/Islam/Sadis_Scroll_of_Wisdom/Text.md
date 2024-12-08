@@ -59,7 +59,7 @@ So long as the tongue is fixed in the mouth,
 May the praise of Muhammad be a source of delight.
 The beloved of God, the most exalted of Prophets,
 Whose pillow is the glorious firmament.
-The earth-conquering horseman with his chestnut Buraq, [^5]
+The earth-conquering horseman with his chestnut Buraq, [^5]
 Which passed beyond the palace of the cerulean portico!
 
 <span id="s3"></span>
@@ -111,7 +111,7 @@ That you may snatch the ball of excellence owing to benevolence.
 
 Were the spheres to fall to the share of the miser,
 Were fortune the slave of the miser,
-Were the wealth of Korah [^6] in his hand,
+Were the wealth of Korah [^6] in his hand,
 Were a quarter of the universe subservient to him
 The miser is not worthy that thou shouldest mention his name.
 And were fortune to become his servant,
@@ -165,7 +165,7 @@ Pride on the part of a wise man is not comely;
 Sad is such demeanour in the case of a prudent person.
 Pride is the habit of the ignorant,
 Pride doth not proceed from men of intelligence.
-Pride caused the fall of Azazil, [^7]
+Pride caused the fall of Azazil, [^7]
 And led to his being ensnared in the prison of the accursed.
 Whoever is by nature arrogant, <span id="p37">[<sup><small>p. 37</small></sup>]</span>
 His head is filled with pride beyond imagination.
@@ -228,7 +228,7 @@ Since justice is the adornment of royalty,
 Why dost thou not fix thine heart upon justice?
 Thy kingdom will be established
 If justice cometh to thine aid.
-Since Nushirwan [^8] made choice of justice <span id="p41">[<sup><small>p. 41</small></sup>]</span>
+Since Nushirwan [^8] made choice of justice <span id="p41">[<sup><small>p. 41</small></sup>]</span>
 His name is now held in remembrance for his goodness.
 Peace befalleth the kingdom from the effects of justice,
 Since from justice the kingdom attaineth its wishes.
@@ -295,7 +295,7 @@ Waste not thy life in the acquisition of wealth, <span id="p45">[<sup><small>p. 
 Since an earthen pot is not of the same value as a pearl.
 Whosoever hath fallen into the snare of greed
 Giveth the harvest of his life to the winds.
-I grant that all the wealth of Korah [^9] is thine—
+I grant that all the wealth of Korah [^9] is thine—
 That all the riches of the habitable globe are with thee
 But in the end thou wilt be enveloped in the earth,
 Like the helpless, with distress of heart.
@@ -378,9 +378,9 @@ The ruby wine in the golden goblet
 Is soul-inspiring, as it were a beautiful pearl.
 Welcome is the fire of desire to those inspired with love!
 Welcome are the delightful pains of the lords of love! <span id="p51">[<sup><small>p. 51</small></sup>]</span>
-Bring this wine as it were the water of immortality, [^10]
+Bring this wine as it were the water of immortality, [^10]
 For from its fragrance the soul findeth deliverance from grief!
-Happy that soul that desires a Friend! [^11]
+Happy that soul that desires a Friend! [^11]
 Happy that person who is ensnared in the bonds of affection for Him!
 Happy that person who is enamoured of the face of the Friend!
 Happy that person whose abode is the Nook of the Friend!
@@ -487,7 +487,7 @@ O son! therefrom ariseth loss of fair name.
 Regard this globe, resplendent like gold,
 The roof of which is firm without pillars!
 Regard the curtain of the revolving sphere!
-Regard its glittering lamps! [^12]
+Regard its glittering lamps! [^12]
 One is a shepherd, and another a sovereign;
 One is a suppliant for justice, another covets a throne;
 One is happy, and another miserable;

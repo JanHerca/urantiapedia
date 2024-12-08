@@ -95,9 +95,9 @@ THE TEACHINGS OF ZOROASTER. Translated with Introduction by Dr, S. A. Kapadia Le
 
 THE PERSIAN MYSTICS.
 
-  I. Jalálu’d-dín Rúmí. By F. Hadland Davis. 2/- net.
+  I. Jalálu’d-dín Rúmí. By F. Hadland Davis. 2/- net.
 
-  II. Jámí. By F. Hadland Davis. 2/- net.
+  II. Jámí. By F. Hadland Davis. 2/- net.
 
 THE WAY OF THE BUDDHA. Selections from the Buddhist texts, together with the original Pali, with Introduction by Herbert Baynes, M.R.A.S. 2/- net.
 
