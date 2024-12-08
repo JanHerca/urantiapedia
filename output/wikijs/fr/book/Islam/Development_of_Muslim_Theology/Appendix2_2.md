@@ -46,7 +46,7 @@ G. VON VLOTEN : _Zur Abbasiden Geschichte_. ZDMG, lii, p. 213 et suiv. Sur les p
 
 R. E. BRÜNNOW : _De Charidschiten unter den ersten Omayyaden_. Leyde, 1884.
 
-EDUARD SACHAU : _Über eine Arabische Chronik aus Zanzibar_. Mitth. annonce. Sem. f. Orient. Sprachen. Berlin, 1898. Sur les Ibadites.
+EDUARD SACHAU : _Über eine Arabische Chronik aus Zanzibar_. Mitth. annonce. Sem. f. Orient. Sprachen. Berlin, 1898. Sur les Ibadites.
 
 GEORGE PERCY BADGER : _Histoire des Imams et Seyyids d'Oman_, par Salîl-ibn-Razîk. Londres : Hakluyt Society, 1871. Précieux pour l'histoire, le droit et la théologie ibadites.
 
@@ -66,7 +66,7 @@ H. L. FLEISCHER : _Briefwechsel zwischen den Anführern der Wahhabiten und dem P
 
 <span id="p362">[<sup><small>p. 362</small></sup>]</span>
 
-E. REHATSEK ; _L'histoire des Wahhabites en Arabie et en Inde_. Journal de la société asiatique du Bengale. N° xxxviii (lire janvier 1880).
+E. REHATSEK ; _L'histoire des Wahhabites en Arabie et en Inde_. Journal de la société asiatique du Bengale. N° xxxviii (lire janvier 1880).
 
 _La Turquie en Europe_, par « Ulysse ». Londres, 1900. La situation actuelle, avec ses antécédents historiques en Turquie européenne et dans les Balkans en général.
 

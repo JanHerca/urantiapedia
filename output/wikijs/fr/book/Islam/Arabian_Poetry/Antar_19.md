@@ -50,7 +50,7 @@ Que tu puisses toujours vivre en souverain dans la gloire, aussi longtemps que l
 
 Chosroé fut rempli d'admiration devant l'éloquence du héros, et fut étonné de voir sa forme prodigieuse : voici enfin, pensa-t-il, le vainqueur destiné à Badhramoot. Le roi donna alors des ordres pour que Monzar et Antar soient traités avec toute la bonté et l'hospitalité. Mais lorsqu'il fut proposé de dresser les tentes, afin qu'ils puissent se reposer jusqu'au lendemain, Antar déclara qu'il ne se reposerait pas avant d'avoir tué le chef grec, et se prépara aussitôt au combat. Badhramoot, ayant été informé du nouveau champion qui était venu lui faire face, entra avec empressement dans la lice, et Antar, en s'avançant vers lui, s'écria :
 
-Ce jour-là, j'aiderai le roi Monzar, et je montrerai mes pouvoirs et mes prouesses devant Chosroe :
+Ce jour-là, j'aiderai le roi Monzar, et je montrerai mes pouvoirs et mes prouesses devant Chosroe :
 
 Je briserai le soutien de la Grèce depuis ses fondations, et je trancherai la tête de Badhramoot avec mon cimeterre.
 

@@ -70,7 +70,7 @@ Leur beauté est la perfection, elles sont la beauté même ;
 
 <span id="p191">[<sup><small>p. 191</small></sup>]</span>
 
-Leurs formes élégantes ressemblent à des lances bien proportionnées ;
+Leurs formes élégantes ressemblent à des lances bien proportionnées ;
 
 Leurs tresses flottent dans leur dos, comme des branches de vigne ;
 

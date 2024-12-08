@@ -112,7 +112,7 @@ Vivez gaiement, car les jours du printemps disparaîtront rapidement, sans atten
 ### VIII.
 
 Alors qu'à chaque aube les nuages répandent des joyaux sur la terre rose,
-Et le souffle du zéphyr du matin, chargé de musc tātār, est doux ; _(d)_
+Et le souffle du zéphyr du matin, chargé de musc tātār, est doux ; _(d)_
 Tandis que le temps du monde est présent, ne reste pas indifférent :
 Vivez gaiement, car les jours du printemps disparaîtront rapidement, sans attendre.
 
@@ -135,7 +135,7 @@ Vivez gaiement, car les jours du printemps disparaîtront rapidement, sans atten
 ### XI.
 
 J'espère sincèrement, Mesīhī, que la renommée de ces quatrains puisse s'accrocher ;
-Que ces beautés aux quatre sourcils dignes de ce nom se rappellent souvent à leur mémoire ;—_(f)_
+Que ces beautés aux quatre sourcils dignes de ce nom se rappellent souvent à leur mémoire ;—_(f)_
 Égare-toi donc parmi les visages roses, toi l'oiseau qui chante doucement :
 Vivez gaiement, car les jours du printemps disparaîtront rapidement, sans attendre.
 
@@ -358,7 +358,7 @@ Je déclare que c'est l'épée à double tranchant d'Ali, et rien d'autre.
 (Zu-’l-fīkār était le nom de la célèbre épée de ‘Ali, gendre de Mahomet.) ‘Abdu-’l-Hamīd, un autre poète afghan :
 
 Protège bien ta vue des regards des yeux noirs ;
-Ne te lève pas, mais protège bien tes yeux des épées tirées :
+Ne te lève pas, mais protège bien tes yeux des épées tirées :
 
 le poète turc Fuzūlī aussi :
 
@@ -375,7 +375,7 @@ L'œil de ce perturbateur effronté dénude son épée.
 La gorge d'Abla était si blanche qu'elle faisait honte à son collier — « Hélas ! » s'exclame le héros épris d'amour — « hélas pour cette gorge et ce collier ! » — sentant évidemment que ses beautés naturelles étaient à elles seules suffisantes pour troubler la paix d'esprit d'Isis ; — comme le dit ou le chante Sir John Suckling :
 
 T'orner avec trop d'art
-&nbsp;&nbsp;Ce n'est qu'une compétence barbare ;
+&nbsp;&nbsp;Ce n'est qu'une compétence barbare ;
 C'est comme l'empoisonnement d'une fléchette—
 &nbsp;&nbsp;Trop apte avant de tuer !
 

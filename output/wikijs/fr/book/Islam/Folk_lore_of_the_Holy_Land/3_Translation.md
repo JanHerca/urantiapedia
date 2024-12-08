@@ -126,13 +126,13 @@ Sois maudit, ô Satan !
 
 Psaume cxxi., « Psaume des degrés », du début à la fin.
 
-Charme contre Lilith garanti comme efficace par plusieurs rabbins célèbres :
+Charme contre Lilith garanti comme efficace par plusieurs rabbins célèbres :
 
 « Au nom de YHVH, le Dieu d'Israël, dont le nom est grand et redoutable. »
 
 « Élie, que sa mémoire soit bénie, sortait un jour lorsqu’il rencontra Lilith. Il lui dit : « Impure ! Où vas-tu ? » Elle lui répondit : « Je vais à la maison d’une telle qui est en couches, pour la faire mourir, pour arracher et dévorer son enfant. » Il lui dit : « Sois frappée de teigne, et emprisonnée au nom du Très Saint, et deviens une pierre silencieuse. » Elle répondit et lui dit : « Mon seigneur, laisse-moi partir, et je jure, au nom de l’Éternel, que je renoncerai à ma voie, et que, chaque fois que je verrai ou entendrai l’un de mes noms, je m’enfuirai aussitôt. Et maintenant, je te ferai connaître mes noms. Et chaque fois que mes noms seront mentionnés, je n’aurai plus le pouvoir de faire du mal ni de nuire. » Je te jure de te révéler mes noms, et s'ils sont écrits et suspendus dans la demeure de l'enfant ou de la femme accouchée, je m'enfuirai aussitôt.
 
-« Voici mes noms : Satrìnah, Lilith, Avìtu, Amìz Raphì, Amìzû, Kakash, Odem, 'ìk, Pods, 'ìls, Petrota, Abro, Kema, Kalee, Bituah, Thiltho, Partashah.
+« Voici mes noms : Satrìnah, Lilith, Avìtu, Amìz Raphì, Amìzû, Kakash, Odem, 'ìk, Pods, 'ìls, Petrota, Abro, Kema, Kalee, Bituah, Thiltho, Partashah.
 
 « Et quiconque invente ces noms, je m’enfuirai aussitôt de l’affiche accrochée dans la maison de la femme enceinte ou de l’enfant. C’est un charme, et l’enfant aussi bien que sa mère ne seront jamais blessés par moi. »
 

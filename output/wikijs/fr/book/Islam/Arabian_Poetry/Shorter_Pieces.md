@@ -83,7 +83,7 @@ En vain je m'efforce de parer le coup.
 &nbsp;&nbsp;Mon bouclier tombe, mon sabre se brise.
 
 Sur ton tombeau herbeux je me suis agenouillé,
-&nbsp;&nbsp;Et cherchait à la douleur un soulagement de courte durée :
+&nbsp;&nbsp;Et cherchait à la douleur un soulagement de courte durée :
 La tentative fut vaine, je me sentais seulement
 &nbsp;&nbsp;Des douleurs plus intenses et un chagrin plus vif.
 
@@ -133,7 +133,7 @@ Là pour rejoindre son argile de Leila.
 
 Comme les richesses et leurs joies sont fragiles !
 Le matin construit le tas qu'Ève détruit ;
-Et pourtant, ils peuvent laisser un plaisir certain —
+Et pourtant, ils peuvent laisser un plaisir certain —
 La pensée que nous les avons employés correctement.
 
 Quel bonheur la richesse peut-elle m'apporter,
@@ -184,11 +184,11 @@ Hatem doit-il paraître pauvre à Hatem ?
 ## SUR LA BATAILLE DE SABLA.PAR JAAFER BEN ALBA.
 
 SABLA, tu as vu l'ennemi exulter
-&nbsp;&nbsp;Couronnés de triomphes imaginaires ;
+&nbsp;&nbsp;Couronnés de triomphes imaginaires ;
 Tu as entendu leurs femelles frénétiques jeter
 &nbsp;&nbsp;Ces railleries agaçantes tout autour :
 
-Faites maintenant votre choix : les conditions que nous vous proposons,
+Faites maintenant votre choix : les conditions que nous vous proposons,
 &nbsp;&nbsp;Victimes désespérées, écoutez :
 Recevez ces chaînes sur vos mains,
 &nbsp;&nbsp;Ou dans vos _cœurs_ la lance. »
@@ -204,7 +204,7 @@ Et la conquête, la paix et la liberté
 &nbsp;&nbsp;Doreront nos heures futures. »
 
 L'ennemi avançait, en ordre ferme
-&nbsp;&nbsp;Nous nous précipitâmes sur les sables de Sabla ;
+&nbsp;&nbsp;Nous nous précipitâmes sur les sables de Sabla ;
 Et le sabre rouge a marqué notre chemin
 &nbsp;&nbsp;Au milieu de leurs bandes souples.
 
@@ -223,7 +223,7 @@ Pourquoi s'efforcer de ramener à la lumière
 &nbsp;&nbsp;La querelle fatale enfouie depuis si longtemps ?
 
 Ne pensez pas, si vous affichez de la fureur,
-&nbsp;&nbsp;Mais nous pouvons faire face à une fureur égale ;
+&nbsp;&nbsp;Mais nous pouvons faire face à une fureur égale ;
 J'espère que non, si on nous a fait du tort, mais nous le rembourserons.
 &nbsp;&nbsp;La vengeance pour chaque tort que nous ressentons.
 
@@ -249,7 +249,7 @@ C'est à nous de vivre, grâce au Ciel bienveillant,
 Avec une fierté consciente, je regarde le groupe
 Des amis fidèles qui m'entourent ;
 Je me réjouis avec fierté d'être le seul
-Peut réunir ces joyaux dispersés en un seul :
+Peut réunir ces joyaux dispersés en un seul :
 &nbsp;&nbsp; Car ils sont une couronne de perles, et je
 &nbsp;&nbsp; Le cordon de soie sur lequel ils reposent.
 
@@ -265,7 +265,7 @@ Et j'ai une place dans chaque sein :
 ## SUR L'HUMEUR. PAR NABEGAT BENI JAID.
 
 OUI, Leila, j'ai juré, par le feu de tes yeux,
-&nbsp;&nbsp;Je n’ai jamais pu supporter une douceur inchangée ;
+&nbsp;&nbsp;Je n’ai jamais pu supporter une douceur inchangée ;
 Les bulles d'esprit qui pétillent surgissent
 &nbsp;&nbsp;Interdis à la vie de stagner, et rends-la pure.
 
@@ -372,7 +372,7 @@ Une tristesse sans joie envahit le monde—
 &nbsp;&nbsp;Mais Haroun est arrivé, et tout était brillant.
 
 De nouveau le soleil lance ses rayons ;
-&nbsp;&nbsp;La nature est parée de la robe de la beauté :
+&nbsp;&nbsp;La nature est parée de la robe de la beauté :
 &nbsp;&nbsp;Car le sceptre du puissant Haroun oscille,
 Et le bras de Yahia soutient le globe.
 
@@ -381,12 +381,12 @@ Et le bras de Yahia soutient le globe.
 ## SUR LA RUINE DES BARMECIDES.
 
 NON, Barmec ! Le temps ne s'est jamais montré
-&nbsp;&nbsp;Quel triste changement de destin capricieux ;
+&nbsp;&nbsp;Quel triste changement de destin capricieux ;
 Ni les mortels en deuil n'ont jamais connu
 &nbsp;&nbsp;Un chagrin si vrai, une perte si grande.
 
 Épouse du monde, ton sein apaisant
-&nbsp;&nbsp;A apporté un baume à chaque malheur ;
+&nbsp;&nbsp;A apporté un baume à chaque malheur ;
 Et maintenant, plus jamais caressé par toi,
 &nbsp;&nbsp;Le monde veuf pleure son seigneur.
 
@@ -419,7 +419,7 @@ Et tandis que la tempête s'abat sur le bosquet,
 &nbsp;&nbsp;Elle était suspendue à ma poitrine.
 
 Mes bras consentants embrassèrent la servante,
-&nbsp;&nbsp;Mon cœur battait avec ravissement ;
+&nbsp;&nbsp;Mon cœur battait avec ravissement ;
 Tandis qu'elle pleurait encore plus et disait :
 &nbsp;&nbsp;« Si seulement nous ne nous étions jamais rencontrés ! »
 
@@ -472,12 +472,12 @@ Après le repas, je me levai et, après avoir invoqué toutes les bénédictions
 ## MASHDUD SUR LES MOINES DE KHABBET.
 
 LOCATAIRES de ce temple sacré !
-&nbsp;&nbsp;Laissez-moi partager vos dévotions :
+&nbsp;&nbsp;Laissez-moi partager vos dévotions :
 Là règnent des ravissements incessants.
 &nbsp;&nbsp;Personne n'est jamais sobre là-bas.
 
 Jardins bondés, tonnelles festives,
-&nbsp;&nbsp;Jamais je ne réclamerai une de mes pensées :
+&nbsp;&nbsp;Jamais je ne réclamerai une de mes pensées :
 Vous pouvez céder dans les tours de Khabbet—
 &nbsp;&nbsp;Des joies plus pures et des vins plus brillants.
 
@@ -503,7 +503,7 @@ Belles, ici sur des roses posées,
 &nbsp;&nbsp;Nous boirons le bol sans y prêter attention.
 
 Que la coupe, couronnée de nectar,
-&nbsp;&nbsp;À travers le bosquet, ses poutres s'affichent ;
+&nbsp;&nbsp;À travers le bosquet, ses poutres s'affichent ;
 Il peut répandre un éclat tout autour,
 &nbsp;&nbsp;Plus brillant que la torche du jour.
 
@@ -543,7 +543,7 @@ Il doit partir, et, à mesure qu'il part,
 &nbsp;&nbsp;Déchire d'un coup mon cœur éclatant.
 
 Le sommeil peut déserter mon lit ;
-&nbsp;&nbsp;Ce ne sont pas les charmes du sommeil que je recherche :
+&nbsp;&nbsp;Ce ne sont pas les charmes du sommeil que je recherche :
 C'est la robe de la beauté déployée
 &nbsp;&nbsp;Sur la joue rose de mon Selim.
 
@@ -589,7 +589,7 @@ Hassan dit, en colère contre sa mule,
 ## A CASSIM OBID ALLAH, SUR LA MORT D'UN DE SES FILS. PAR ALI BEN AHMED BEN MANSOUR.
 
 Pauvre Cassim ! tu es condamné à pleurer,
-&nbsp;&nbsp;Par décret du destin ;
+&nbsp;&nbsp;Par décret du destin ;
 Quoi qu'il arrive, il faut que ça tourne
 &nbsp;&nbsp;Au malheur pour toi.
 
@@ -619,7 +619,7 @@ Ils peuvent déverser le flot de chagrin,
 ## SUR UN CHAT, QUI A ÉTÉ TUÉ ALORS QU'IL TENTAIT DE VOLER UN POLOMBIER. PAR IBN ALALAF ALNAHARWANY.
 
 Le pauvre petit est parti ! C'est le destin qui l'a décidé.
-&nbsp;&nbsp;Je dois pourtant encore déplorer sa perte ;
+&nbsp;&nbsp;Je dois pourtant encore déplorer sa perte ;
 Car elle était plus chère qu'un enfant,
 &nbsp;&nbsp;Et je ne la reverrai plus jamais.
 
@@ -727,7 +727,7 @@ Comme moi, elle se lamente, car, opprimée,
 &nbsp;&nbsp;Comme moi, elle porte un poids de chagrin.
 
 Ses plaintes sont entendues dans chaque bois,
-&nbsp;&nbsp;Alors que je voudrais bien cacher mes malheurs :
+&nbsp;&nbsp;Alors que je voudrais bien cacher mes malheurs :
 Mais mon souhait est vain, le flot salé,
 &nbsp;&nbsp;Plus je m'efforce, plus le flux est rapide.
 
@@ -764,7 +764,7 @@ J'ai vu tes terreurs, et mon âme
 &nbsp;&nbsp;J'ai partagé chaque douleur qui te torturait.
 
 En vain, pour sevrer mon cœur constant,
-&nbsp;&nbsp;Ou éteindre ma flamme rougeoyante, ils se sont efforcés :
+&nbsp;&nbsp;Ou éteindre ma flamme rougeoyante, ils se sont efforcés :
 Chaque plan profond, chaque art envieux,
 &nbsp;&nbsp;Mais mes craintes ont réveillé pour elle que j'aime.
 
@@ -774,7 +774,7 @@ Et ne m'a laissé que de l'amour pour toi,
 &nbsp;&nbsp;Pour égayer mes heures solitaires.
 
 Mais ne laissez pas Abla sombrer dans la dépression,
-&nbsp;&nbsp;Ne déplorez pas les douleurs de la séparation :
+&nbsp;&nbsp;Ne déplorez pas les douleurs de la séparation :
 Nous ne nous rencontrons pas – c’est pour rencontrer plus béni ;
 &nbsp;&nbsp;Nous nous sommes séparés – c’est pour ne plus nous séparer.
 
@@ -798,7 +798,7 @@ Comme dernièrement, en jour de fête,
 &nbsp;&nbsp;Quand ils étaient tendus à répandre tes dons.
 
 Les limites étroites de la Terre ont lutté en vain
-&nbsp;&nbsp;Pour limiter ton esprit aspirant ;
+&nbsp;&nbsp;Pour limiter ton esprit aspirant ;
 Et maintenant nous voyons ton dédain de poussière
 &nbsp;&nbsp;Dans sa poitrine pour être confiné.
 
@@ -817,7 +817,7 @@ Vivre ignoré et inconnu !
 &nbsp;&nbsp;Sombrer dans l'oubli des morts !
 
 Ce ne sont pas les bons, les sages, les braves,
-&nbsp;&nbsp;Cet éclat le plus sûr, ou cette élévation la plus élevée :
+&nbsp;&nbsp;Cet éclat le plus sûr, ou cette élévation la plus élevée :
 La plume se déhanche sur la vague,
 &nbsp;&nbsp;La perle se trouve dans la caverne de l'océan.
 
@@ -855,7 +855,7 @@ Et tandis qu'il boit le breuvage de la mort,
 &nbsp;&nbsp;L'enfant insouciant regarde avec joie.
 
 Ah ! si ses ailes flottantes étaient libres,
-&nbsp;&nbsp;Bientôt, il dirait adieu à ses chaînes ;
+&nbsp;&nbsp;Bientôt, il dirait adieu à ses chaînes ;
 Ou l'enfant a-t-il vu ses souffrances,
 &nbsp;&nbsp;Il les plaindrait et les soulagerait aussi.
 
@@ -890,7 +890,7 @@ Comme l'œil de Carawash, dont le rayon
 ## SUR LA MORT D'UN FILS. PAR ALI BEN MOHAMMED ALTAHMANY.
 
 TYRAN de l'Homme, Destin impérieux !
-&nbsp;&nbsp;Je m'incline devant ton décret redoutable ;
+&nbsp;&nbsp;Je m'incline devant ton décret redoutable ;
 Ni espoir dans cet état incertain
 &nbsp;&nbsp;Pour trouver un siège sûr de toi.
 
@@ -910,7 +910,7 @@ Dès que la tour aérienne se dressera
 &nbsp;&nbsp;Cela s'est construit sur une vague passagère.
 
 La vie est un sommeil de soixante ans ;
-&nbsp;&nbsp;La mort nous invite à nous réveiller et à saluer la lumière ;
+&nbsp;&nbsp;La mort nous invite à nous réveiller et à saluer la lumière ;
 Et l'homme, avec tous ses espoirs et ses craintes,
 &nbsp;&nbsp;Ce n'est qu'un fantôme de la nuit.
 
@@ -924,7 +924,7 @@ Comme le cours irréfléchi de la joie
 &nbsp;&nbsp;Est condamné à se terminer dans la douleur !
 
 Quand la Prudence voudrait retarder tes pas,
-&nbsp;&nbsp;Elle se retient seulement pour te rendre béni ;
+&nbsp;&nbsp;Elle se retient seulement pour te rendre béni ;
 Qu'importe la joie qu'elle perd
 &nbsp;&nbsp;Mais rehausse et sécurise le reste.
 
@@ -981,12 +981,12 @@ Je brandis une épée, pour conquérir et commander.
 ## SUR L'INCOMPATIBILITÉ DE L'ORGUEIL ET DE LA VRAIE GLOIRE. PAR ABU ALOLA.
 
 Ne pense pas, Abdallah, fierté et renommée
-&nbsp;&nbsp;Peut toujours voyager main dans la main ;
+&nbsp;&nbsp;Peut toujours voyager main dans la main ;
 Avec la poitrine opposée et le but adverse,
 &nbsp;&nbsp;Ils se tiennent sur le même chemin étroit.
 
 Ainsi la Jeunesse et l'Age se rencontrent,
-&nbsp;&nbsp;Et les moments divisés de la vie partagent :
+&nbsp;&nbsp;Et les moments divisés de la vie partagent :
 Cela ne peut pas avancer jusqu'à cette retraite ;
 &nbsp;&nbsp;Ce qui est augmenté ici, est diminué là-bas.
 
@@ -1092,7 +1092,7 @@ Aucune idole que ce cœur pourrait partager
 À UNE DAME, SUR SON REFUS D'UN PRÉSENT DE MELONS, ET SON REJET DES ADRESSES D'UN ADMIRATEUR.
 
 Quand je t'ai envoyé mes melons, tu as crié avec mépris,
-&nbsp;&nbsp;« Ils devraient être _lourds_, _frisés_ et _jaunes » :
+&nbsp;&nbsp;« Ils devraient être _lourds_, _frisés_ et _jaunes » :
 Quand je me suis offert, moi que ces grâces ornent,
 &nbsp;&nbsp;Vous m'avez raillé et traité de _vielle vilain_ bonhomme !
 
@@ -1116,7 +1116,7 @@ Un accident comme celui-ci, des alarmes aussi terribles,
 Pourrait briser le sommeil des morts.
 
 Pensez à l'endroit où se trouvent vos chers compagnons.
-Considérez leur sort et écoutez leurs malheurs :
+Considérez leur sort et écoutez leurs malheurs :
 Comment certains volent à travers des déserts sans pistes,
 Certains reposent dans la gueule du vautour ;
 
@@ -1244,7 +1244,7 @@ Ou frère pour partager mon chagrin.
 &nbsp;&nbsp;Pour bien des jours mélancoliques
 À travers les vallées du désert, j'ai tracé mon chemin ;
 La bête fidèle dont j'appuie le dos
-En gémissements, elle se lamente sur la détresse de son seigneur ;
+En gémissements, elle se lamente sur la détresse de son seigneur ;
 À chaque frémissement de ma lance
 J'entends un soupir compatissant ;
 Le chameau, courbé sous sa charge,
@@ -1316,7 +1316,7 @@ Les _flammes_ de l'amour dans chaque cœur ;
 C'est à vous de l'élever avec une joie festive
 Les _flammes_ de l'hospitalité :
 Frappés par _leurs_ regards, les _amants_ mentent,
-Et sombrer sans défense, et mourir sans espoir ;
+Et sombrer sans défense, et mourir sans espoir ;
 Tandis que, _tué_ par _vous_, le _majestueux destrier_
 Couronner le festin est voué à saigner—
 Pour couronner le festin, où coulent abondamment
@@ -1344,7 +1344,7 @@ Chaque pensée généreuse, chaque design audacieux ?
 Alors loin des hommes quelques cellules se préparent,
 Ou construire un manoir dans les airs ;
 Mais cédez à la marée de l'ambition
-Qui peut chevaucher ses vagues sans crainte ;
+Qui peut chevaucher ses vagues sans crainte ;
 Il te suffit, si tu reçois
 Les embruns dispersés laissent des vagues.
 
@@ -1363,7 +1363,7 @@ Et la pompeuse facilité notre plus noble objectif,
 L'orbe qui régule le jour
 Je ne m'éloignerais jamais du manoir d'Aries.
 
-&nbsp;&nbsp;Je me suis penché trop longtemps sur le sanctuaire de Fortune ;
+&nbsp;&nbsp;Je me suis penché trop longtemps sur le sanctuaire de Fortune ;
 Trop souvent elle entendait ma langue suppliante ;
 Trop souvent, il s'est moqué de mes vaines prières,
 Pendant que les fous et les fripons s'occupaient de ses soucis ;
@@ -1567,7 +1567,7 @@ Mais l'homme, par le pouvoir châtiant de l'âge,
 &nbsp;&nbsp;Est dégrisé dans ses pensées.
 
 Alors nous résolvons nos fautes à fuir,
-&nbsp;&nbsp;Et façonner notre parcours à nouveau ;
+&nbsp;&nbsp;Et façonner notre parcours à nouveau ;
 Mais avant que la sage réforme ne commence,
 &nbsp;&nbsp;La vie se referme sur notre vue.
 
@@ -1583,7 +1583,7 @@ Il reste, quand ils devraient arriver chez eux,
 FILS DU KHALIF ALNASSAR LEDIN ALLAH. PAR CAMAL EDDIN BEN ALNABIT.
 
 Bientôt tu as couru la course de la vie,
-&nbsp;&nbsp;Nos larmes ne pouvaient pas non plus contrôler ta vitesse :
+&nbsp;&nbsp;Nos larmes ne pouvaient pas non plus contrôler ta vitesse :
 Toujours dans la lutte généreuse des coursiers
 &nbsp;&nbsp;Les meilleurs atteindront le but le plus tôt possible.
 
@@ -1593,7 +1593,7 @@ Il saisit d'abord, pour gonfler son magasin,
 &nbsp;&nbsp;Le joyau le plus brillant qu'il contemple.
 
 Ton nom, par chaque souffle transmis,
-&nbsp;&nbsp;Étendait sur le globe son vol sans limites ;
+&nbsp;&nbsp;Étendait sur le globe son vol sans limites ;
 Hélas ! dans la soirée l'ombre s'allonge
 &nbsp;&nbsp;Mais s'allonge pour se perdre dans la nuit !
 

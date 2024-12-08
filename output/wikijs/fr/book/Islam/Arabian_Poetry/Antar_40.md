@@ -38,7 +38,7 @@ Tandis que le prince Harith était absent et en difficulté à cause de son hist
 
 Je regarde tout autour, mais la main du ravage les a détruits ; pourtant je n'ai jamais rompu mes protestations antérieures, je ne les ai pas trahis.
 
-Mes vœux ont été faits à quelqu'un comme la pleine lune, ressemblant aux branches et aux rameaux du tamaris ;
+Mes vœux ont été faits à quelqu'un comme la pleine lune, ressemblant aux branches et aux rameaux du tamaris ;
 
 Mais je suis seul et solitaire, même si une fois nous nous sommes rencontrés, et ici, maintenant qu'ils sont partis, il ne reste que le hibou et le corbeau !
 

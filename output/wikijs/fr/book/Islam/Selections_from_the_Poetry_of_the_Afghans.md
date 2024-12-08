@@ -33,11 +33,11 @@ ET REMARQUES<br>
 SUR LA DOCTRINE MYSTIQUE ET LA POÉSIE DES ṢŪFĪS :<br>
 <span class="text-h5">PAR LE MAJEUR H. G. RAVERTY</span><br>
 <br>
-ARMÉE DE BOMBAY, LISTE DES RETRAITÉS ;<br>
+ARMÉE DE BOMBAY, LISTE DES RETRAITÉS ;<br>
 AUTEUR D'UNE GRAMMAIRE ET D'UN DICTIONNAIRE DE LA LANGUE POUSHTOE OU AFGHANE ; LE GULSHAN-I-ROH, OU SÉLECTIONS, EN PROSE ET POÉTIQUE, EN LANGUE POUSHTOE OU AFGHANE ; L'ÉVANGILE POUR LES AFGHANS ; UN THÉSAURUS DE TERMES TECHNIQUES ANGLAIS ET HINDUSTANISLAS,<br>
 ETC. ETC.<br>
-« Rempli de nombreux joyaux du rayon le plus pur et serein <br>
-&nbsp;&nbsp;Les grottes sombres et insondables de l'océan abritent ;<br>
+« Rempli de nombreux joyaux du rayon le plus pur et serein <br>
+&nbsp;&nbsp;Les grottes sombres et insondables de l'océan abritent ;<br>
  Bien des fleurs naissent pour rougir sans être vues,<br>
 &nbsp;&nbsp;Et gaspiller sa douceur dans l’air du désert. »<br>
 <br>

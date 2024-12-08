@@ -126,7 +126,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 41\. Il fit une attaque féroce, et ne craignit pas le nombre de tentes où la Mort, la mère des vautours, avait établi sa demeure ;
 
-42\. Là se tenait le guerrier, armé de toutes parts, féroce comme un lion aux muscles puissants, à la crinière flottante, aux griffes jamais émoussées :
+42\. Là se tenait le guerrier, armé de toutes parts, féroce comme un lion aux muscles puissants, à la crinière flottante, aux griffes jamais émoussées :
 
 43• Un lion audacieux, qui, lorsqu'il est assailli, châtie rapidement l'assaillant ; et, lorsque personne ne l'attaque ouvertement, devient souvent l'agresseur.
 

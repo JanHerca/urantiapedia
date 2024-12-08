@@ -52,7 +52,7 @@ Tu me frappes avec des paroles cruelles, qui pourtant me sont chères ;
 Veux-tu un jour m'accorder à nouveau ta plus douce vue ?
 Je n'avais pas pensé que les voies de l'Amour étaient la langueur et le malheur
 Et le stress de l'âme, avant, hélas, de t'aimer j'aurais voulu.
-Même mes ennemis ont pitié de moi et ont pitié de ma détresse ;
+Même mes ennemis ont pitié de moi et ont pitié de ma détresse ;
 Mais toi, ô cœur d’acier, tu n’auras jamais pitié de ma douleur !
 Par Dieu, même si je meurs, je ne serai jamais réconforté pour toi !
 Même si l'amour lui-même devait échouer, mon amour ne passera ni ne décroîtra jamais !
@@ -65,7 +65,7 @@ Les nuits étaient calmes et sûres pour toi ; tu étais trompé par elles,
 &nbsp;&nbsp;Car dans la paix de la nuit naissent bien des choses troublantes. <span id="p368">[<sup><small>p. 368  </small></sup>]</span>
 Voici, dans le ciel, de nombreuses étoiles, personne ne peut raconter leur histoire ;
 Mais pour le soleil et la lune seuls, une éclipse apporte l'obscurité.
-La terre porte de nombreuses herbes agréables, de nombreuses plantes et de nombreux arbres ;
+La terre porte de nombreuses herbes agréables, de nombreuses plantes et de nombreux arbres ;
 &nbsp;&nbsp;Mais seuls ceux à qui s'accrochent les beaux fruits sont lapidés.
 Regardez la mer, et comment les épaves flottent haut sur l'écume ;
 Mais dans ses profondeurs les plus profondes de bleu, les perles séjournent.
@@ -92,7 +92,7 @@ Assez, le destin aveugle les yeux de ceux qui sont sa proie.
 
 <span id="p369">[<sup><small>p. 369</small></sup>]</span>
 
-Ce qui suit est un échantillon de la deuxième forme des _Mukhemmes :_
+Ce qui suit est un échantillon de la deuxième forme des _Mukhemmes :_
 
 Qui te dit : « Le premier de l'amour est gratuit »,
 Dites-lui : « Non, non, » mais au contraire :
@@ -159,7 +159,7 @@ Et même ses rêves agréables se sont égarés.
 <span id="p371">[<sup><small>p. 371</small></sup>]</span>
 
 Moi aussi, autrefois, j'étais vide de cœur et libre,
-Et je me reposerai en paix jusqu'à ce que je te rencontre :
+Et je me reposerai en paix jusqu'à ce que je te rencontre :
 Le goût des nuits blanches m'était étrange,
 Jusqu'à ce que l'Amour m'appelle, et je dois nécessairement obéir.
 &nbsp;&nbsp; Hélas pour l'Amour, et dans toute sa panoplie !

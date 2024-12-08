@@ -80,7 +80,7 @@ A.H. | &nbsp;
 148 | Ja‘far as-_Sa_diq d.
 150 | Ab_u_ _H_an_i_fa d.; trace d'un monastère _Su_fi à Damas.
 157 | Al-Awz_a_‘_i_ d.
-158-169 | Al-Mahd_i_ Kh. ; Jean de Damas est décédé ?
+158-169 | Al-Mahd_i_ Kh. ; Jean de Damas est décédé ?
 161 | Sufy_a_n ath-Thawr_i_ d.; Ibr_a_h_i_mb. Adham d.
 165 | D_a_’_u_d n. Nu_s_ayr d.
 167 | Bashsh_a_r b. Burd tué.
@@ -103,7 +103,7 @@ A.H. | &nbsp;
 212 | Décrète que le Coran est créé.
 213 | Thum_a_ma n. Ashras d.
 215 | Ab_u_ Sulaym_a_n de Damas d.; 2ème décret.
-218-234 | Le Mi_h_na ; Al-Mu'ta_s_im Kh.
+218-234 | Le Mi_h_na ; Al-Mu'ta_s_im Kh.
 220 | Ma'mar b. 'Abb_a_d.
 223 | F_at_ima de Nays_a_b_u_r d.
 226 | Ab_u_ Hudhayl M. al-‘All_a_f d.

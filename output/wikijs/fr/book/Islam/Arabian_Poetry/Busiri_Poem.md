@@ -96,7 +96,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 28\. Je ne me suis pas approvisionné, avant la mort, d'une \[réserve\] de bonnes œuvres surérogatoires; je n'ai pas adoré, sauf comme il le fallait, et je n'ai pas jeûné \[autrement\].
 
-29\. Je me suis écarté de la pratique de celui qui rendait vivantes les ténèbres \[de la nuit\] \[par ses dévotions\], jusqu'à ce que ses deux pieds se plaignent d'une blessure due à une tuméfaction ;
+29\. Je me suis écarté de la pratique de celui qui rendait vivantes les ténèbres \[de la nuit\] \[par ses dévotions\], jusqu'à ce que ses deux pieds se plaignent d'une blessure due à une tuméfaction ;
 
 30\. Et banda ses entrailles contre la faim, et ceignit sous des pierres une région hypocondriaque à la peau tendre ;
 
@@ -120,7 +120,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 39\. Tous supplient l'« Apôtre de Dieu » pour une poignée de \[sa\] mer \[de connaissance\], ou pour une gorgée de \[sa\] pluie ininterrompue \[d'exposition\] ;
 
-40\. Comparés à qui, dans leur degré, ils ne connaissent qu'un \[simple\] point de la connaissance \[divine\], ou un \[nu\] soupçon des sagesses \[de Dieu\] ;
+40\. Comparés à qui, dans leur degré, ils ne connaissent qu'un \[simple\] point de la connaissance \[divine\], ou un \[nu\] soupçon des sagesses \[de Dieu\] ;
 
 41\. Dont la forme extérieure et la signification intérieure le Créateur de l'âme a perfectionné, et qu'Il a ensuite choisi comme Son « Bien-aimé » ;
 
@@ -160,17 +160,17 @@ dateCreated: 2024-11-24T18:21:59Z
 
 57\. Comme si la perle enfermée dans la coquille était \[composée\] des deux minerais — parole de lui, et sourire !
 
-58\. Il n'y a pas de parfum qui égale la terre qui a enfermé ses os ; — béni soit celui qui la renifle, et celui qui l'embrasse !
+58\. Il n'y a pas de parfum qui égale la terre qui a enfermé ses os ; — béni soit celui qui la renifle, et celui qui l'embrasse !
 
 59\. Sa naissance a rendu manifeste la bonté odorante de sa substance. Combien parfumé en fut le commencement et la conclusion !
 
-60\. \[C'était\] un jour où les Perses estimèrent avec sagacité qu'ils étaient avertis de l'arrivée du mal et de la vengeance ;
+60\. \[C'était\] un jour où les Perses estimèrent avec sagacité qu'ils étaient avertis de l'arrivée du mal et de la vengeance ;
 
 61\ Et le pavillon des Chosroes devint, étant fissuré, comme les courtisans des Chosroes, irrémédiablement désorganisé ;
 
 <span id="p330">[<sup><small>p. 330</small></sup>]</span>
 
-62\. Et le Feu [Sacré], par tristesse, s'éteignit dans ses respirations [de flammes], et le fleuve [du Tigre] s'assécha à sa source, par étouffement ;
+62\. Et le Feu [Sacré], par tristesse, s'éteignit dans ses respirations [de flammes], et le fleuve [du Tigre] s'assécha à sa source, par étouffement ;
 
 63\. Et il affligea \[la ville de \] Sāwa que son lac s'enfonça dans la terre, et que le coin qui y était destiné pour l'eau fut repoussé avec colère quand il eut soif ; —
 
@@ -230,7 +230,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 88\. Laissez-moi, ainsi que ma description de certains de ses miracles, qui étaient aussi manifestes que l'est la visibilité du feu de l'hospitalité. la nuit sur le sommet de la montagne ;—
 
-89\. Car les perles augmentent en beauté lorsqu'elles sont enfilées régulièrement, tandis qu'elles ne perdent aucune valeur lorsqu'elles ne sont pas enfilées ;
+89\. Car les perles augmentent en beauté lorsqu'elles sont enfilées régulièrement, tandis qu'elles ne perdent aucune valeur lorsqu'elles ne sont pas enfilées ;
 
 90\. Et que signifie l'aspiration des désirs du panégyriste vers ce qui est en lui \[Muhammad\] de nobles qualités et habitudes ?
 
@@ -240,7 +240,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 93\. Elle demeure perpétuelle avec nous, c'est pourquoi elle a surpassé tous les miracles des prophètes \[de jadis\], depuis qu'ils sont apparus et n'ont pas persisté ;
 
-94\. \[Ses miracles, c'est-à-dire ses versets, sont\] évidents par eux-mêmes, de sorte qu'ils ne restent pas des sujets de doute pour le chicaneur, ni n'excitent le désir d'un \[autre\] arbitre ;
+94\. \[Ses miracles, c'est-à-dire ses versets, sont\] évidents par eux-mêmes, de sorte qu'ils ne restent pas des sujets de doute pour le chicaneur, ni n'excitent le désir d'un \[autre\] arbitre ;
 
 95\. Elle n'a jamais été contestée, mais que le plus agressif de ses assaillants y est revenu en proposant la paix ;
 
@@ -248,7 +248,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 96\. Son éloquence repousse les prétentions de son disputeur, avec la répulsion du jaloux \[qui repousse\] la main du criminel des choses tenues pour sacrées \[à la vertu\];
 
-97\. Ses miracles \[versets\] ont des significations comme les vagues de l'océan à pleine marée, et au-dessus des perles de celui-ci en beauté et en valeurs ;
+97\. Ses miracles \[versets\] ont des significations comme les vagues de l'océan à pleine marée, et au-dessus des perles de celui-ci en beauté et en valeurs ;
 
 98\. Ses merveilles ne peuvent être racontées ou comptées, et il ne confine pas, par surabondance, à l'ennui ;
 
@@ -268,15 +268,15 @@ dateCreated: 2024-11-24T18:21:59Z
 
 105\. Ô \[Muhammad\] toi le Meilleur de ceux dont les invités recherchent la cour, marchant péniblement à pied, ou \[assis\] sur les reins des chamelles au pas facile ;
 
-106\. Et qui est le plus grand signe pour celui qui prend conseil, et qui est la plus grande bénédiction pour celui qui en profite !
+106\. Et qui est le plus grand signe pour celui qui prend conseil, et qui est la plus grande bénédiction pour celui qui en profite !
 
-107\. Tu as voyagé de nuit d'un site sacré à un autre site sacré, comme la pleine lune voyage dans les ténèbres les plus profondes ;
+107\. Tu as voyagé de nuit d'un site sacré à un autre site sacré, comme la pleine lune voyage dans les ténèbres les plus profondes ;
 
-108\. Et tu continuas à monter, jusqu'à ce que tu atteignes le stade des Deux Coups d'Arc, non atteint \[par un autre\], et non tenté ;
+108\. Et tu continuas à monter, jusqu'à ce que tu atteignes le stade des Deux Coups d'Arc, non atteint \[par un autre\], et non tenté ;
 
 109\. Et tous les prophètes et les messagers t'ont donné la préséance, la préséance de l'esclave sur les serviteurs ;
 
-110\. Et tu parcourus avec eux les sept couches \[des cieux\] dans une procession dont tu étais le porte-étendard ;
+110\. Et tu parcourus avec eux les sept couches \[des cieux\] dans une procession dont tu étais le porte-étendard ;
 
 111\. Jusqu'à ce que tu ne laisses plus de limite à quiconque pour aller au-delà de toi dans la proximité \[du trône de Dieu\], ni de marche d'ascension pour quiconque y monte ;
 
@@ -296,7 +296,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 118\. La nouvelle de sa mission effraya le cœur des ennemis, comme un cri qui met en fuite un troupeau de moutons et de chèvres insouciants ;
 
-119\. Il ne cessa pas de les rencontrer sur tous les champs de bataille, jusqu'à ce que, par ses lances, ils mettent \[des hommes\] en esprit de chair sur un plateau ;
+119\. Il ne cessa pas de les rencontrer sur tous les champs de bataille, jusqu'à ce que, par ses lances, ils mettent \[des hommes\] en esprit de chair sur un plateau ;
 
 120\. Ils préféraient la fuite, et en cela ils avaient presque envié les membres \[déchirés\] s'élevant \[dans l'air\] avec les aigles et les vautours ;
 
@@ -308,7 +308,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 123\. Qui dirigeait une armée déferlante montée sur des chevaux rapides, qui soulevaient des vagues frénétiques de braves guerriers,
 
-124\. \[Composé\] de tous ceux qui répondent immédiatement à son appel, confiants en Dieu, et attaquant avec une arme exterminatrice — extirpateur de blasphème ;
+124\. \[Composé\] de tous ceux qui répondent immédiatement à son appel, confiants en Dieu, et attaquant avec une arme exterminatrice — extirpateur de blasphème ;
 
 125\. Jusqu'à ce que, par leur intermédiaire, la communauté religieuse de l'Islam, après son exil, soit devenue unie à ses parents par le sang ;
 
@@ -318,9 +318,9 @@ dateCreated: 2024-11-24T18:21:59Z
 
 128\. Et interroge Hunayn, et interroge Badr, et interroge ’Uhud : les saisons de la mort sont plus terribles pour eux que la peste !
 
-129\ Ils lancèrent les épées brillantes et rouges, après que celles-ci eurent atteint chaque boucle noire pendante des cheveux de leurs ennemis ;
+129\ Ils lancèrent les épées brillantes et rouges, après que celles-ci eurent atteint chaque boucle noire pendante des cheveux de leurs ennemis ;
 
-130\. Et ils écrivaient avec des lances brunes de Khatt, dont les plumes ne laissaient pas un seul corps de lettre non ponctuée ;
+130\. Et ils écrivaient avec des lances brunes de Khatt, dont les plumes ne laissaient pas un seul corps de lettre non ponctuée ;
 
 131\. Dont les armes sont acérées, qui ont une marque qui les distingue, car la rose se distingue de l'acacia par sa marque.
 
@@ -386,7 +386,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 <span id="p341">[<sup><small>p. 341</small></sup>]</span>
 
-159\. Et accorde que des pluies de bénédictions de Ta part soient perpétuelles sur le Prophète, abondantes et continues ;
+159\. Et accorde que des pluies de bénédictions de Ta part soient perpétuelles sur le Prophète, abondantes et continues ;
 
 160\ Et sur la famille et les compagnons, puis sur leurs successeurs, les hommes de piété, de vertu, de patience et de générosité ;
 

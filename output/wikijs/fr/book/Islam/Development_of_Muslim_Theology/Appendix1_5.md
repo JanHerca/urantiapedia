@@ -14,7 +14,7 @@ dateCreated: 2024-11-26T20:22:12Z
       <tr>
         <td>
         <a href="/fr/book/Islam/Development_of_Muslim_Theology/Appendix1_4">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IV : Un court credo par Al-Ghazzali</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IV : Un court credo par Al-Ghazzali</span>
         </a>
         </td>
         <td>
@@ -42,7 +42,7 @@ Le Cheikh, l'Imam, Najm ad-Din Abu Hafs Omar ibn Muhammad ibn Ahmad an-Nasafi - 
 
 De plus, les sources de la connaissance pour l'homme sont au nombre de trois : les sens auditifs, la narration véridique (_khabar_) et la raison (_aql_). Quant aux sens, ils sont au nombre de cinq : l'ouïe, la vue, l'odorat, le goût et le toucher, et par chaque sens tu es informé de ce pour quoi il est destiné. La narration véridique, elle aussi, est de deux sortes. La première est la narration transmise par un grand nombre de lignes de tradition (_mutawatir_), c'est-à-dire qu'elle est établie par les langues d'un certain nombre de personnes dont nous ne pouvons imaginer qu'elles s'accordent sur un mensonge. Elle impose une connaissance qui est de nécessité (_daruri_), telle que la connaissance des rois défunts dans les temps passés et des pays lointains. Et la seconde est la narration de l'Apôtre (_rasul_) aidée par un miracle \[_c'est-à-dire, Muhammad\] et elle impose une connaissance déduite (_istidlali_), et la connaissance établie par elle ressemble en certitude et en fixité à la connaissance établie par nécessité.
 
-Quant à la Raison, elle est aussi une cause de connaissance ; et tout ce qui est établi par intuition (_badaha_) est de nécessité, comme la connaissance que toute chose est plus grande que ses parties ; et tout ce qui est établi par inférence est une connaissance acquise (_iktisabi_), comme l'existence du feu à partir de l'apparition de <span id="p309">[<sup><small>309</small></sup>]</span> fumée. Et la Lumière Intérieure (_ilham_) avec les Gens de Vérité n'est pas l'une des causes de la connaissance de la solidité de quoi que ce soit.  [^4]
+Quant à la Raison, elle est aussi une cause de connaissance ; et tout ce qui est établi par intuition (_badaha_) est de nécessité, comme la connaissance que toute chose est plus grande que ses parties ; et tout ce qui est établi par inférence est une connaissance acquise (_iktisabi_), comme l'existence du feu à partir de l'apparition de <span id="p309">[<sup><small>309</small></sup>]</span> fumée. Et la Lumière Intérieure (_ilham_) avec les Gens de Vérité n'est pas l'une des causes de la connaissance de la solidité de quoi que ce soit.  [^4]
 
 De plus, le monde dans la totalité de ses parties est une chose originelle (_muhdath_), en ce qu'il est constitué de Substances (_ayns_) et d'Attributs (_arads_). Les Substances sont ce qui existe en soi, et une substance est soit un composé, c'est-à-dire un corps (_jism_), soit non composé comme une essence (_jawhar_), à savoir une division qui n'est pas divisée davantage. Et les attributs sont ce qui n'existe pas en soi mais a une existence dépendante dans des corps ou des essences, tels que les couleurs, les goûts, les conditions (_kawns_), les odeurs.
 
@@ -62,7 +62,7 @@ Et à Ses créatures appartiennent les actions de choix (_ikhtiyar_),\* pour les
 
 Et la capacité d'accomplir l'action (_istita'a_) va de pair avec l'action et est l'essence du pouvoir (_qudra_) par lequel l'action a lieu, et ce mot « capacité » signifie la solidité des causes et des instruments et des membres. Et la validité de l'imposition de la tâche (_taklif_) est basée sur cette capacité,\* et la créature ne se voit pas imposer une tâche qui ne soit pas en son pouvoir.
 
-Et la douleur que l'on trouve chez quelqu'un qui est battu en conséquence d'avoir été battu par un homme, et l'état d'être brisé dans du verre en conséquence de son bris par un homme, et de telles choses, tout cela est créé par Dieu le Très-Haut, et la créature n'a aucune part dans sa création et un homme tué est <span id="p311">[<sup><small>311</small></sup>]</span> mort parce que son temps fixé (_ajal_) est venu ; et la mort existe chez un homme tué et est créée par Dieu le Très-Haut, et le temps fixé est un.  [^5]
+Et la douleur que l'on trouve chez quelqu'un qui est battu en conséquence d'avoir été battu par un homme, et l'état d'être brisé dans du verre en conséquence de son bris par un homme, et de telles choses, tout cela est créé par Dieu le Très-Haut, et la créature n'a aucune part dans sa création et un homme tué est <span id="p311">[<sup><small>311</small></sup>]</span> mort parce que son temps fixé (_ajal_) est venu ; et la mort existe chez un homme tué et est créée par Dieu le Très-Haut, et le temps fixé est un.  [^5]
 
 Et ce qui est interdit (_haram_) reste une nourriture (_rizq_), et chacun reçoit sa propre nourriture, qu'elle soit permise ou interdite, et que personne ne s'imagine qu'un homme ne mangera pas sa nourriture ou qu'un autre que lui mangera sa nourriture.
 
@@ -126,7 +126,7 @@ Et les Mujtahids parfois errent et parfois atteignent le but. Et les Messagers d
       <tr>
         <td>
         <a href="/fr/book/Islam/Development_of_Muslim_Theology/Appendix1_4">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IV : Un court credo par Al-Ghazzali</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IV : Un court credo par Al-Ghazzali</span>
         </a>
         </td>
         <td>

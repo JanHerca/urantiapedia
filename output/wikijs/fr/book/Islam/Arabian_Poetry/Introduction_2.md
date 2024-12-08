@@ -84,10 +84,10 @@ Oui, tout est vain, sauf Dieu seul,
 &nbsp;&nbsp;et toute chose agréable doit un jour disparaître !
 
 Et toute la race des hommes, il viendra certainement parmi eux
-&nbsp;&nbsp;un malheur effrayant, qui fera pâlir leurs doigts :
+&nbsp;&nbsp;un malheur effrayant, qui fera pâlir leurs doigts :
 
 Et le fils de chaque mère, même si sa vie est prolongée,
-&nbsp;&nbsp;jusqu'à l'extrême limite, revient enfin à la tombe :
+&nbsp;&nbsp;jusqu'à l'extrême limite, revient enfin à la tombe :
 
 Et chaque homme connaîtra un jour la valeur de son travail,
 &nbsp;&nbsp;quand sa perte ou son gain sera imputé au Jour du Jugement.
@@ -128,7 +128,7 @@ La mort d'Antara, telle que la racontent certains auteurs, qui se font l'écho d
 
 Mahomet était fasciné par les histoires relatées sur les prouesses et la poésie d'Antara : « Je n'ai jamais entendu décrire un Arabe », a déclaré le Prophète, « que j'aurais aimé voir autant qu'Antara. »
 
-## « AMR
+## « AMR
 
 Le fils de Kulthūm était un prince de la tribu des ‘Arāqim (c’est-à-dire « le serpent tacheté »), une branche des Banū Taglib. Sa mère, Laylà, était la fille de Muhalhil et de Hind ; à sa naissance, selon la coutume barbare des Arabes païens, Muhalhil <span id="pxlix">[<sup><small>xlix</small></sup>]</span> ordonna qu’elle soit immédiatement enterrée vivante. Mais entendant dans son sommeil une voix qui lui disait que sa fille serait la mère de héros, il demanda l’enfant et, constatant qu’elle était encore vivante, permit qu’on l’élève. Au fil du temps, Laylà épousa Kulthūm, et peu avant la naissance de ‘Amr, elle rêva qu’un être surnaturel lui assurait que son fils serait le plus brave des guerriers.
 
@@ -223,6 +223,6 @@ Il faut ajouter que, pour publier sa traduction des _Mu‘allaqāt_, avec les te
 Un imbécile tant qu'il se tait est sage ;
 Car son discours est une plaie qu'il devrait cacher à tous les regards.
 
-[^15]: lix:\* Dans un excellent article sur « La poésie arabe ancienne », publié dans le _Journal_ de la Royal Asiatic Society, 1879.
+[^15]: lix:\* Dans un excellent article sur « La poésie arabe ancienne », publié dans le _Journal_ de la Royal Asiatic Society, 1879.
 
 [^16]: lix:† Et ils arrivèrent à Élim, où il y avait douze puits d’eau et soixante-dix palmiers; et ils campèrent là près des eaux. — Genèse XV. 27.

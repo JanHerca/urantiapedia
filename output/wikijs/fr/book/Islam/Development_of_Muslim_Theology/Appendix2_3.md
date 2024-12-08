@@ -56,7 +56,7 @@ IGNAZ GOLDZIHER; _Uber eine Formel in der judischen Responsen-litteratur_. ZDMG,
 
 IGNAZ GOLDZIHER : _Das Princip des Istishab in muham_. _Gesetzwissenschaft_. WZ, i, p. 228 et suiv.
 
-EDUARD SACHAU : _Muhammedanisches Erbrecht nach, der Lehre der Ibaditischen Araber von Zanzibar und Ostafrika_. Sitzungsberichte der kön. preuss. Akad., 1894.
+EDUARD SACHAU : _Muhammedanisches Erbrecht nach, der Lehre der Ibaditischen Araber von Zanzibar und Ostafrika_. Sitzungsberichte der kön. preuss. Akad., 1894.
 
 EDUARD SACHAU : _Zur ältesten Geschichte des muhammedanischen Rechts_. Vienne. Akad., 1870.
 

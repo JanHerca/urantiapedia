@@ -40,7 +40,7 @@ vv. 8, 9. Lane, dans son « Modern Egyptians », décrivant la composition de la
 
 v. 30. El-Yemen était célèbre pour la production de cuir rouge.
 
-v. 41. Ce verset ressemble à un distique du chant de Beshâmeh fils de Hazn de Nahshal, ainsi rendu par M. Lyall dans ses « Chants du _Hamâseh_ et _Aghânî :_ »
+v. 41. Ce verset ressemble à un distique du chant de Beshâmeh fils de Hazn de Nahshal, ainsi rendu par M. Lyall dans ses « Chants du _Hamâseh_ et _Aghânî :_ »
 
 S'il ne devait y en avoir qu'un parmi mille,
 &nbsp;&nbsp; et les hommes l'appelleraient : « Ho ! un chevalier ! » il penserait qu'ils s'adressent à lui.

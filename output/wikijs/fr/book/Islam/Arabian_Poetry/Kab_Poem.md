@@ -66,7 +66,7 @@ BEATRICE \[Su'ād\] est partie. C'est pourquoi mon cœur était ce jour-là éga
 
 15\. De ceux qui mouillent la racine de leurs oreilles quand ils transpirent, et dont l'énergie inconnue brouille tous les repères routiers ;
 
-16\. Qui regarde les hautes terres avec les yeux d'un addax blanc isolé, quand les plaines rocheuses et les dunes de sable sont \[pour ainsi dire\] en feu ;
+16\. Qui regarde les hautes terres avec les yeux d'un addax blanc isolé, quand les plaines rocheuses et les dunes de sable sont \[pour ainsi dire\] en feu ;
 
 17\. Dont le cou est épais là où repose son collier, dont le paturon est dodu, dont la constitution est supérieure à celle des filles de l'étalon-chameau ;
 
@@ -74,7 +74,7 @@ BEATRICE \[Su'ād\] est partie. C'est pourquoi mon cœur était ce jour-là éga
 
 20\. Une créature gracieuse, dont le frère est son père issu d'une mère pure race, et dont l'oncle paternel est aussi son oncle maternel, qui est longue dans le dos et agile ;
 
-21\. Sur qui rampent les tiques, qui sont ensuite déposées par une poitrine et par des flancs qui sont lisses ;
+21\. Sur qui rampent les tiques, qui sont ensuite déposées par une poitrine et par des flancs qui sont lisses ;
 
 22\. Un âne très sauvage, qui, à cause de son embonpoint, pourrait être accusé d'avoir trop de chair, dont le coude est tordu hors de ses côtes thoraciques ;
 
@@ -146,7 +146,7 @@ BEATRICE \[Su'ād\] est partie. C'est pourquoi mon cœur était ce jour-là éga
 
 53\ Et ils s'en allèrent, mais parmi eux ne s'en allèrent pas les poltrons, les lâches au moment de la rencontre, les chétifs et les sans armes.
 
-54\. Ils marchent avec la démarche des chameaux de couleur claire ; un coup les protège ; tandis que les hommes fauves nains [de Médine] s'enfuient :
+54\. Ils marchent avec la démarche des chameaux de couleur claire ; un coup les protège ; tandis que les hommes fauves nains [de Médine] s'enfuient :
 
 55\. Héros au nez aquilin, dont les vêtements, au combat, sont des chemises du tissu de David —
 
@@ -156,7 +156,7 @@ BEATRICE \[Su'ād\] est partie. C'est pourquoi mon cœur était ce jour-là éga
 
 57\. Qui ne sont pas joyeusement bruyants si leurs lances blessent un ennemi, et qui ne se lamentent pas piteusement lorsqu'ils sont blessés ;
 
-58\. Ceux que les coups de lance n'atteignent pas, sauf sur le devant de leur gorge : pour qui il n'y a pas de recul devant les étangs de la mort !
+58\. Ceux que les coups de lance n'atteignent pas, sauf sur le devant de leur gorge : pour qui il n'y a pas de recul devant les étangs de la mort !
 
 <figure id="Figure_31800" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Arabian_Poetry/31800.jpg">

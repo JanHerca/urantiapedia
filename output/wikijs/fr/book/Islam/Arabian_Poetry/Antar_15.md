@@ -14,7 +14,7 @@ dateCreated: 2024-11-24T18:21:59Z
       <tr>
         <td>
         <a href="/fr/book/Islam/Arabian_Poetry/Antar_14">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La bataille des tribus d'Abs et de Tey — Antar à la rescousse !</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La bataille des tribus d'Abs et de Tey — Antar à la rescousse !</span>
         </a>
         </td>
         <td>
@@ -40,7 +40,7 @@ Enfin, le héros est dûment admis par les guerriers absiens à l'honneur et au 
       <tr>
         <td>
         <a href="/fr/book/Islam/Arabian_Poetry/Antar_14">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La bataille des tribus d'Abs et de Tey — Antar à la rescousse !</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La bataille des tribus d'Abs et de Tey — Antar à la rescousse !</span>
         </a>
         </td>
         <td>

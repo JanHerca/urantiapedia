@@ -38,13 +38,13 @@ dateCreated: 2024-11-24T18:21:59Z
 
 2\. _Elle est résolue à partir_, après nos vœux mutuels, parmi les collines sablonneuses de Shamma, et dans la station la plus proche de Khalsa ;
 
-3\. _Vœux, répétés dans_ Mohayat, Sifah et Aglai, dans Dhu Fitak, Adhib et Wafa ; -
+3\. _Vœux, répétés dans_ Mohayat, Sifah et Aglai, dans Dhu Fitak, Adhib et Wafa ; -
 
 4\. _Vœux renouvelés_ dans les bosquets de Katha, et les vallées de Shoreib, dans les Deux Vallées, et dans les plaines d'Ayla.
 
 5\. Je ne vois aucun vestige de la foi qu'elle a jurée dans ces stations, et je perds la journée en larmes, frénétique de chagrin ; mais oh, quelle part de mon bonheur les larmes me restitueront-elles ?
 
-6\. Pourtant, ô Hareth, _une nouvelle passion t'invite ;_ car Hinda est devant tes yeux, et le feu qu'elle allume la nuit dans les collines te conduira vers sa demeure :
+6\. Pourtant, ô Hareth, _une nouvelle passion t'invite ;_ car Hinda est devant tes yeux, et le feu qu'elle allume la nuit dans les collines te conduira vers sa demeure :
 
 7\. Elle l'allume avec abondance de bois entre les stations montagneuses d'Akeik et de Shakhsein, et il flamboie comme la splendeur du soleil.
 
@@ -66,7 +66,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 15\. Cependant, les malheurs et les mauvaises nouvelles nous ont amené des choses qui nous donnent de l'affliction et de l'angoisse ;
 
-16\. Car nos frères, la famille d'Arakem, _aux yeux de dragon_, ont transgressé les limites de la justice contre nous, et ont été véhéments dans leurs invectives ;
+16\. Car nos frères, la famille d'Arakem, _aux yeux de dragon_, ont transgressé les limites de la justice contre nous, et ont été véhéments dans leurs invectives ;
 
 <span id="p84">[<sup><small>p. 84</small></sup>]</span>
 
@@ -94,7 +94,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 27\.\* Confiez à notre sagesse toute affaire importante dont vous désirez être tirés, et par laquelle les assemblées de chefs sont rendues malheureuses.
 
-28\.\* Si vous vous renseignez sur nos guerres entre Milaha et Dhakib, vous trouverez sur leurs plaines de nombreux cadavres non vengés et de nombreux cadavres vengés :
+28\.\* Si vous vous renseignez sur nos guerres entre Milaha et Dhakib, vous trouverez sur leurs plaines de nombreux cadavres non vengés et de nombreux cadavres vengés :
 
 29\.\* Ou, si vous examinez avec diligence les questions dans lesquelles toutes les tribus sont profondément intéressées, vous verrez la différence entre vos offenses et notre innocence.
 
@@ -166,7 +166,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 60\. Lorsqu'il fixa sa demeure dans les hautes tourelles de Maisuna, et séjourna dans les stations les plus proches de Khaltha,
 
-61\. De chaque tribu se rassemblait autour de lui une troupe de brigands, impétueux comme des aigles :
+61\. De chaque tribu se rassemblait autour de lui une troupe de brigands, impétueux comme des aigles :
 
 62\ Il les conduisit et leur fournit des dattes et de l'eau, ainsi la volonté de Dieu fut accomplie, et les hommes affligés furent voués à l'affliction.
 
@@ -184,7 +184,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 68\. Un prince descendant d'Irem ! Un guerrier comme lui doit toujours être entouré de troupes de génies, car il protège son domaine et refuse de punir même ses adversaires :
 
-69\. Un monarque qui nous connaît par trois signes infaillibles, par chacun desquels notre excellence est décidée :
+69\. Un monarque qui nous connaît par trois signes infaillibles, par chacun desquels notre excellence est décidée :
 
 70\. _Le premier est_, le signe évident de notre valeur, lorsque toute l'Arabie sortit dans les vallées rocheuses, chaque tribu de Maad sous sa bannière,
 
@@ -192,7 +192,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 <span id="p90">[<sup><small>p. 90</small></sup>]</span>
 
-72\. Puis vint une légion de jeunes gens de haute naissance, que rien ne pouvait retenir sauf nos lances longues et étincelantes ;
+72\. Puis vint une légion de jeunes gens de haute naissance, que rien ne pouvait retenir sauf nos lances longues et étincelantes ;
 
 73\. Mais nous les repoussâmes par des coups _qui firent jaillir leur sang de leurs flancs_, comme l'eau coule du goulot d'une bouteille qui la contient.
 
@@ -200,7 +200,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 75\. Nous avons commis avec eux un acte dont Dieu seul connaît le nom, et aucune vengeance ne peut être prise pour le sang d'hommes qui ont cherché leur propre destin.
 
-76\. Ensuite, Hojar, fils d'Ommi Kathaam, avança avec une armée de Perses, vêtus de laiton décoloré :
+76\. Ensuite, Hojar, fils d'Ommi Kathaam, avança avec une armée de Perses, vêtus de laiton décoloré :
 
 77\. Un lion en conflit, d'une teinte rougeâtre, piétinant sa proie ; mais une saison printanière de bienfaisance dans chaque année stérile.
 

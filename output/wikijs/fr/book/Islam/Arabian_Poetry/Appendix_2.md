@@ -42,7 +42,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 132\. Après les nuages de leur prospérité, pleuvaient sur eux les nuages du malheur en pluies torrentielles.
 
-133\. Les accidents du temps n'avaient aucun égard pour eux, et ils ne pouvaient s'en défendre avec des épées ou des lances ;
+133\. Les accidents du temps n'avaient aucun égard pour eux, et ils ne pouvaient s'en défendre avec des épées ou des lances ;
 
 134\. Non, pas avec des troupes et des palais, ni avec des armées, ni avec des forteresses, ni avec des armes.
 

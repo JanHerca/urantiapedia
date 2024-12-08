@@ -37,7 +37,7 @@ dateCreated: 2024-11-24T18:21:59Z
 <p style="text-align:center;">
 LE<br>
 <br>
-<span class="text-h3">ROMANCE D'ANTAR :</span><br>
+<span class="text-h3">ROMANCE D'ANTAR :</span><br>
 <br>
 <i>UN ÉPITOME</i><br>
 <br>

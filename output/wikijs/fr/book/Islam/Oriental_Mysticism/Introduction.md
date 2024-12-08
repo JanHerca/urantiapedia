@@ -40,7 +40,7 @@ Ton tapis de prière est taché de vin, si c'est le cas
 Tu peux gagner la faveur du mage,
 Les voyageurs dans le pays doivent savoir
 Les us et coutumes de l'auberge.
-                                    HAFIZ.
+                                    HAFIZ.
 
 Le vers cité ci-dessus, comme la plupart des écrits poétiques orientaux, est susceptible d'une interprétation mystique et beaucoup plus élevée que ne le laisse paraître une lecture purement superficielle. Il illustre particulièrement la forme allégorique sous laquelle la vie intellectuelle du philosophe religieux est traitée par les Perses, à savoir celle d'un voyage dont l'objet ultime est la connaissance de la Majesté infinie de Dieu ; un plan semblable à celui adopté à propos de la vie morale par notre propre John Bunyan dans le Voyage du pèlerin. Au début de leurs traités, le terme de voyageur est appliqué uniquement à l'homme intellectuel, mais le mot est ensuite utilisé d'une manière plus générale.
 

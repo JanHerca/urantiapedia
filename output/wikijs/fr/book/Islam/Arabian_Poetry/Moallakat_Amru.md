@@ -62,11 +62,11 @@ dateCreated: 2024-11-24T18:21:59Z
 
 13\. O Amru, quand tu visites ta belle en secret, et quand les yeux des ennemis qui rôdent sont fermés en repos,
 
-14\. Elle montre deux beaux bras, beaux et pleins comme les membres d'un jeune chameau blanc comme neige au long cou, qui gambade pendant la saison printanière sur les bancs de sable et les collines verdoyantes ;
+14\. Elle montre deux beaux bras, beaux et pleins comme les membres d'un jeune chameau blanc comme neige au long cou, qui gambade pendant la saison printanière sur les bancs de sable et les collines verdoyantes ;
 
 15\. Et deux seins doux, lisses et blancs comme des vases d'ivoire, modestement défendus de la main de ceux qui osent les toucher :
 
-16\. Elle découvre sa silhouette élancée, grande et bien proportionnée, et ses flancs s'élevant gracieusement avec tous les charmes qui les accompagnent ;
+16\. Elle découvre sa silhouette élancée, grande et bien proportionnée, et ses flancs s'élevant gracieusement avec tous les charmes qui les accompagnent ;
 
 17\.\* Ses hanches élégamment gonflées, que l'entrée de la tente est à peine assez large pour admettre, et sa taille, dont la beauté me rend fou ;
 
@@ -86,7 +86,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 24\. Ô fils de Hinda, ne sois pas précipité dans ton jugement contre nous : écoute-nous avec patience, et nous te donnerons des informations certaines ;
 
-25\. Que nous menions nos étendards au combat, _comme des chameaux à l'étang_, d'une teinte blanche, et que nous les ramenions tachés du sang dans lequel ils ont étanché leur soif ;
+25\. Que nous menions nos étendards au combat, _comme des chameaux à l'étang_, d'une teinte blanche, et que nous les ramenions tachés du sang dans lequel ils ont étanché leur soif ;
 
 26\. Que nos jours de prospérité, pendant lesquels nous avons refusé d'obéir aux ordres des rois, ont été longs et brillants.
 
@@ -206,7 +206,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 78\. Nous sommes armés de sabres brillants et vêtus de habergeons fabriqués au Yémen ; nos cimeterres sont en partie droits, en partie courbés.
 
-79\. Nous avons des cottes de mailles qui scintillent comme des éclairs, et dont les plis se voient en plis au-dessus de nos ceintures :
+79\. Nous avons des cottes de mailles qui scintillent comme des éclairs, et dont les plis se voient en plis au-dessus de nos ceintures :
 
 80\. Quand à tout moment nos héros les repoussent, vous pouvez voir leur peau noircie par la pression de l'acier.
 
@@ -222,7 +222,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 85\. Toutes les tribus de Maad savent parfaitement, lorsque leurs tentes sont dressées dans les vallées bien arrosées,
 
-86\. Que nous soutenions les affligés dans chaque année de disette, et que nous soyons généreux envers ceux qui sollicitent notre générosité ;
+86\. Que nous soutenions les affligés dans chaque année de disette, et que nous soyons généreux envers ceux qui sollicitent notre générosité ;
 
 87\.\* Que nous défendions les opprimés, lorsque nous le pensons juste, et que nous fixions notre résidence en Arabie, où nous le trouvons commode ;
 
@@ -250,7 +250,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 98\. Ils nourrissent de leurs belles mains nos coureuses de noble naissance, et nous disent : « Vous n'êtes pas nos maris, à moins que vous ne nous protégiez de l'ennemi. »
 
-99\. Oui, si nous ne les défendons pas, nous ne conservons aucun bien de valeur après leur perte, et nous ne pensons même pas que la vie soit désirable :
+99\. Oui, si nous ne les défendons pas, nous ne conservons aucun bien de valeur après leur perte, et nous ne pensons même pas que la vie soit désirable :
 
 100\. Mais rien ne peut offrir à nos douces jeunes filles une protection aussi sûre que les coups de nos sabres, qui font voler les bras des hommes comme les baguettes entrechoquées de garçons enjoués.
 

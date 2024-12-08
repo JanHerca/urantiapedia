@@ -53,7 +53,7 @@ La mesure est de la cinquième classe, appelée _vers parfait_, qui consiste ré
 « Tria grata soleil | animo meo, ut | Melius Nihil,
 Oculi nigri, | cyathus nitens, | calice de roseus.
 
-Mais quand le distique admet la troisième épitrite, _pastoribus_, et le double iambe, _amantium_, il peut être considéré comme appartenant à la septième classe, ou classe des _tremblements_, entre lesquels et le _parfait_ la seule distinction semble être que le _tremblement_ n'admet jamais le pied _anapestique_. Ils sont tous deux, dans la langue de la prosodie européenne, des _iambiques_, dans lesquels les places paires sont invariablement pures, et les places impaires excluent toujours le dactyle : quand les pieds impairs sont _trochées_ ou _pyrrhiques_, les vers deviennent _choriambiques_ ou _péoniques ; mais nous n'avons aucun exemple de ce changement dans le poème qui nous occupe.
+Mais quand le distique admet la troisième épitrite, _pastoribus_, et le double iambe, _amantium_, il peut être considéré comme appartenant à la septième classe, ou classe des _tremblements_, entre lesquels et le _parfait_ la seule distinction semble être que le _tremblement_ n'admet jamais le pied _anapestique_. Ils sont tous deux, dans la langue de la prosodie européenne, des _iambiques_, dans lesquels les places paires sont invariablement pures, et les places impaires excluent toujours le dactyle : quand les pieds impairs sont _trochées_ ou _pyrrhiques_, les vers deviennent _choriambiques_ ou _péoniques ; mais nous n'avons aucun exemple de ce changement dans le poème qui nous occupe.
 
 <figure class="table chapter-navigator">
   <table>

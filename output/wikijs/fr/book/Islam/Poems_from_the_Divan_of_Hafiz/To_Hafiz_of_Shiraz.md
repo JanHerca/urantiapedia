@@ -40,7 +40,7 @@ _Les chansons que tu as chantées, tous les hommes peuvent encore les entendre._
 _Chansons de rires morts, chansons d'amour autrefois chaud,_
 _Chants d'une coupe autrefois teintée de rose rouge de vin,_
 _Chants d'une rose dont la beauté est oubliée,_
-_Un rossignol qui chantait doucement chante divinement :_
+_Un rossignol qui chantait doucement chante divinement :_
 _Et une musique encore plus grave court en dessous_
 _Les tendres notes d'amour de tes chansons,_
 _Oh, Chercheur des clés de la Vie et de la Mort !_
@@ -50,12 +50,12 @@ _Ce courant soufflait sur le jardin de Mosalla_
 _De Ruknabad coulant où les roses s'entrelacent,_
 _Ta voix a porté plus loin que tu n'aurais pu rêver._
 _A la horde tartare d'Ispahan et de Bagdad,_
-_Sur le désert et la mer jusqu'à Yezd et la lointaine Inde ;_
+_Sur le désert et la mer jusqu'à Yezd et la lointaine Inde ;_
 _Oui, jusqu'au coucher du soleil, ils ont porté ta parole._
 
 _Voici que nous rions, nous nous réchauffons au feu de l'Amour,_
 _Nous avons soif et osons à peine dire de quel vin nous avons envie,_
-_Nous élevons nos voix dans le chœur en robe sombre du chagrin ;_
+_Nous élevons nos voix dans le chœur en robe sombre du chagrin ;_
 _Chante la sagesse que la joie et la tristesse ont donné !_
 _Si mes pauvres rimes contenaient quelque chose de la connaissance du cœur,_
 _Ils devaient déposer de nouvelles couronnes sur ta tombe—_

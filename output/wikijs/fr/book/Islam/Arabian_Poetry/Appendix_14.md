@@ -118,7 +118,7 @@ Et un plat de miettes sur le sol de ma maison
 Et le bruissement de la brise à travers chaque crevasse
 &nbsp;&nbsp;M'est plus cher que le battement des tambours;
 Et un _abāh_ en laine de chameau qui réjouit mon œil
-&nbsp;&nbsp;M'est plus chère que les robes vaporeuses ;
+&nbsp;&nbsp;M'est plus chère que les robes vaporeuses ;
 Et un chien qui aboie sur mon chemin
 &nbsp;&nbsp;M'est plus cher qu'un chat câlin ;
 Et un jeune chameau agité, suivant la litière,
@@ -182,12 +182,12 @@ Taher Ben Hosein semble avoir été le général le plus célèbre de son époqu
 Cette épigramme sur Taher nous rappelle les vers bien connus suivants, sur un frère et une sœur, tous deux extrêmement beaux, mais qui avaient chacun perdu un œil ; et il est curieux d'observer avec quelle facilité la même idée est modifiée par un poète différent en une satire ou un panégyrique :
 
 Lumine dextro Acon, capta est Leonilla sinistro,
-&nbsp;&nbsp;Sed potis est forma vincere uterque deos :
+&nbsp;&nbsp;Sed potis est forma vincere uterque deos :
 Alme puer, lumen quod habes concède sorrori,
 &nbsp;&nbsp;Sic tu cæcus Amor, sic erit illa Vénus.
 
 Un œil que Lycidas et Julia veulent tous les deux,
-&nbsp;&nbsp;Pourtant, chacun est plus beau que les dieux d'en haut ;
+&nbsp;&nbsp;Pourtant, chacun est plus beau que les dieux d'en haut ;
 Pourrais-tu, doux jeune homme, accorder ton regard à Julia,
 &nbsp;&nbsp;Tu voudrais être Cupidon, elle la Reine de l'Amour.
 
@@ -221,7 +221,7 @@ Similis erat flos illi (puellæ) cœruleos habenti oculos,
 Le professeur John W. Hales, du King's College de Londres, a attiré l'attention de l'éditeur sur la ressemblance étroite qu'un vers d'une des « Mélodies hébraïques » de Lord Byron présente avec la première strophe de la paraphrase de Carlyle de l'épigramme d'Ibnu 'r-Rūmī :
 
 Je t'ai vu pleurer, la grande larme brillante
-&nbsp;&nbsp;Je suis venu sur cet œil bleu ;
+&nbsp;&nbsp;Je suis venu sur cet œil bleu ;
 Et puis j'ai pensé que cela apparaissait
 &nbsp;&nbsp;Une rosée violette.—_Byron_.
 
@@ -365,7 +365,7 @@ Le poète persan Hafiz emploie la même comparaison :
 
 Et le poète afghan, Khushhāl Khān, Khattāk (« Sélections de la poésie des Afghans », par le major Raverty, page 188) :
 
-Je suis enivré par ce visage qui a des yeux endormis et languissants ;
+Je suis enivré par ce visage qui a des yeux endormis et languissants ;
 Par eux je deviens tout coupé et entaillé – tu dirais que ces yeux contiennent des épées acérées.
 
 D'autres illustrations de cette similitude sont données dans Notes sur la poésie du roman d'Antar.

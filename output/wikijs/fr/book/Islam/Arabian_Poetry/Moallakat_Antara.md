@@ -56,7 +56,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 10\. Certes, tu as fermement résolu de t'éloigner de moi, puisque les chameaux de ta tribu sont bridés même dans une nuit aussi sombre.
 
-11\. Rien ne m'alarme autant _avec un signal de son départ destiné_ que de voir les chameaux de charge, qui appartiennent à sa tribu, brouter des baies de khimkhim au milieu de leurs tentes :
+11\. Rien ne m'alarme autant _avec un signal de son départ destiné_ que de voir les chameaux de charge, qui appartiennent à sa tribu, brouter des baies de khimkhim au milieu de leurs tentes :
 
 12\. Parmi eux se trouvent quarante-deux chamelles laitières, sombres comme les plumes d'un corbeau noir de charbon.
 
@@ -68,7 +68,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 <span id="p56">[<sup><small>p. 56</small></sup>]</span>
 
-16\. Chaque nuage du matin, exempt de grêle, l'a trempé d'une abondante pluie, et a laissé toutes les petites cavités de la terre à la fois rondes et brillantes comme des pièces d'argent :
+16\. Chaque nuage du matin, exempt de grêle, l'a trempé d'une abondante pluie, et a laissé toutes les petites cavités de la terre à la fois rondes et brillantes comme des pièces d'argent :
 
 17\. Elle descend abondamment et copieusement, et chaque soir le ruisseau, que rien n'intercepte, s'y jette rapidement.
 
@@ -118,9 +118,9 @@ dateCreated: 2024-11-24T18:21:59Z
 
 38\. Je bois, quand la chaleur de midi est apaisée, du vieux vin, acheté avec des pièces brillantes et bien frappées ;
 
-39\. Je le bois dans un gobelet de verre jaune bariolé de veines blanches, dont le compagnon est un flacon scintillant, bien protégé par son couvercle des rafales du nord :
+39\. Je le bois dans un gobelet de verre jaune bariolé de veines blanches, dont le compagnon est un flacon scintillant, bien protégé par son couvercle des rafales du nord :
 
-40\. Quand j'en bois, ma richesse est dissipée, mais ma renommée reste abondante et intacte ;
+40\. Quand j'en bois, ma richesse est dissipée, mais ma renommée reste abondante et intacte ;
 
 41\ Et quand je reviens à la sobriété, la rosée de ma libéralité continue aussi fraîche qu'auparavant : rends donc honneur aux qualités que tu sais que je possède.
 
@@ -134,7 +134,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 45\. _Demandez-moi comment_ j'agis, quand je suis constamment attaché à la selle d'un cheval élégant, nageant dans sa course, que mes audacieux adversaires blessent alternativement ;
 
-46\. Pourtant, parfois il avance seul au combat, et parfois il se tient rassemblé dans une foule nombreuse de héros avec des arcs puissants :
+46\. Pourtant, parfois il avance seul au combat, et parfois il se tient rassemblé dans une foule nombreuse de héros avec des arcs puissants :
 
 47\. _Demande_, et quiconque a été témoin du combat t'informera que je suis impétueux dans la bataille, mais sans égard au butin.
 
@@ -188,7 +188,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 69\. Quand même la plus douce des tribus vit l'escarmouche sous leurs étendards (et la Mort _répand le chaos_ sous l'étendard de la nation la plus douce),
 
-70\. Alors je sus avec certitude que, dans une lutte aussi acharnée avec eux, bien des coups violents feraient fuir rapidement de chaque crâne les oiseaux perchés du cerveau :
+70\. Alors je sus avec certitude que, dans une lutte aussi acharnée avec eux, bien des coups violents feraient fuir rapidement de chaque crâne les oiseaux perchés du cerveau :
 
 71\. Dès que je vis les légions de nos ennemis s'avancer et s'animer les unes les autres au combat, je m'élançai aussi en avant et agis sans reproche.
 
@@ -208,7 +208,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 78\. Mes chameaux aussi sont obéissants à ma volonté, aussi souvent que je désire allumer l'ardeur de mon cœur et le pousser vers une entreprise ardue.
 
-79\. Je crains cependant que la mort ne m'atteigne avant que la tournure adverse de la guerre n'ait atteint les deux fils de Demdem :
+79\. Je crains cependant que la mort ne m'atteigne avant que la tournure adverse de la guerre n'ait atteint les deux fils de Demdem :
 
 80\. Des hommes qui ont attaqué ma réputation, alors que je ne leur avais causé aucune offense, et qui ont juré, alors que je ne les avais jamais attaqués, de verser mon sang ;
 

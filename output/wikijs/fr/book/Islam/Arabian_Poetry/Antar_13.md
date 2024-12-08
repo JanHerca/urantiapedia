@@ -24,7 +24,7 @@ dateCreated: 2024-11-24T18:21:59Z
         </td>
         <td>
         <a href="/fr/book/Islam/Arabian_Poetry/Antar_14">
-          <span class="pr-2">Bataille des tribus d'Abs et de Tey — Antar à la rescousse !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Bataille des tribus d'Abs et de Tey — Antar à la rescousse !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -58,7 +58,7 @@ Bien que le fat Amarah ait mérité amplement la punition qu'il reçut d'Antar, 
         </td>
         <td>
         <a href="/fr/book/Islam/Arabian_Poetry/Antar_14">
-          <span class="pr-2">Bataille des tribus d'Abs et de Tey — Antar à la rescousse !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Bataille des tribus d'Abs et de Tey — Antar à la rescousse !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

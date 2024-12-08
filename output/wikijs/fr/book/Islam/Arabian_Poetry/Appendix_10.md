@@ -74,12 +74,12 @@ Ici veille sur ses petits, jusqu'à ce que l'âge fournisse
 Sauf là où le courant grossissant a balayé ces murs
 &nbsp;&nbsp;Et ont donné leurs fondements profonds à la lumière
 (Comme le crayon de retouche qui rappelle
-&nbsp;&nbsp;Une image perdue depuis longtemps pour la vue ravie) ;—
+&nbsp;&nbsp;Une image perdue depuis longtemps pour la vue ravie) ;—
 
 Sauf là où les pluies ont lavé le sable accumulé,
 &nbsp;&nbsp;Et dévoila les rares fragments à notre vue
 (Comme la poussière saupoudrée sur une main perforée
-&nbsp;&nbsp;Ordonne aux teintes pâles de reprendre leur teinte azur) ;—
+&nbsp;&nbsp;Ordonne aux teintes pâles de reprendre leur teinte azur) ;—
 
 Aucune trace de mousse de ces sièges autrefois aimés
 &nbsp;&nbsp;Montre le manoir aux yeux curieux :
@@ -87,7 +87,7 @@ Aucun mur chancelant, dans les sons résonnants, ne se répète
 &nbsp;&nbsp;Nos questions lugubres et nos soupirs éclatants.
 
 Pourtant, au milieu de ces tas de ruines, de cette plaine nue,
-&nbsp;&nbsp;La mémoire fidèle des scènes passées peut-elle restaurer ?
+&nbsp;&nbsp;La mémoire fidèle des scènes passées peut-elle restaurer ?
 Rappelez-vous la foule animée, le train joyeux,
 Et imaginez tout ce qui nous a charmé là-bas auparavant.
 
@@ -196,7 +196,7 @@ Ils sont usés : tu croirais que leurs lignes
 
 Il ressort de cela que l'écriture et les livres n'étaient pas aussi étrangers aux Arabes de l'époque immédiatement antérieure à l'Islam qu'on l'a parfois affirmé.
 
-v. 9. Il s’agit ici du _weshm_ ou tracé piqué dans la peau des mains et des bras d’une femme. Le motif est piqué avec une aiguille, puis on répand sur la peau et on y frotte une préparation appelée _na’ûr_, qui peut signifier soit de l’indigo en poudre, soit du noir de fumée en poudre. De même que les pluies qui approfondissaient et élargissaient les traces des tentes sont comparées au v. 8 à un écrivain qui repasse les lignes d’écriture avec une plume, de même au v. 9 elles sont comparées à une femme qui renouvelle le tatouage en saupoudrant de nouveaux pigments sur les anciennes lignes ; une fois frottés, les lignes apparaissent à nouveau. \[Lane (« Modern Egyptians ») déclare que les femmes des ordres inférieurs du Caire tatouent sur le visage, le devant du menton, le dos de la main droite et les bras. L’opération est généralement effectuée à l’âge d’environ cinq ou six ans, par des femmes bohémiennes.\]
+v. 9. Il s’agit ici du _weshm_ ou tracé piqué dans la peau des mains et des bras d’une femme. Le motif est piqué avec une aiguille, puis on répand sur la peau et on y frotte une préparation appelée _na’ûr_, qui peut signifier soit de l’indigo en poudre, soit du noir de fumée en poudre. De même que les pluies qui approfondissaient et élargissaient les traces des tentes sont comparées au v. 8 à un écrivain qui repasse les lignes d’écriture avec une plume, de même au v. 9 elles sont comparées à une femme qui renouvelle le tatouage en saupoudrant de nouveaux pigments sur les anciennes lignes ; une fois frottés, les lignes apparaissent à nouveau. \[Lane (« Modern Egyptians ») déclare que les femmes des ordres inférieurs du Caire tatouent sur le visage, le devant du menton, le dos de la main droite et les bras. L’opération est généralement effectuée à l’âge d’environ cinq ou six ans, par des femmes bohémiennes.\]
 
 v. 11. \[« Canaux » voir rite v. 5, Mo'all de Zuheyr.\] « Thumâm », c'est-à-dire herbe de panique. Forskal (p. 20) dit que le nom est utilisé pour _Panicum Dichotomum_ ;_ mais il est appliqué par les <span id="p389">[<sup><small>p. 389</small></sup>]</span> Arabes à de nombreuses espèces de _panicum_. L'herbe est utilisée pour couvrir les toits et pour boucher les trous dans les tentes afin de les protéger des intempéries.
 

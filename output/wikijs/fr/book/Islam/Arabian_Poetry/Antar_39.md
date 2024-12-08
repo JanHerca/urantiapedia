@@ -14,7 +14,7 @@ dateCreated: 2024-11-24T18:21:59Z
       <tr>
         <td>
         <a href="/fr/book/Islam/Arabian_Poetry/Antar_38">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Numan, roi de Hirah, fait la guerre au roi Zoheir — Le héros sauve son pays</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Numan, roi de Hirah, fait la guerre au roi Zoheir — Le héros sauve son pays</span>
         </a>
         </td>
         <td>
@@ -60,7 +60,7 @@ Je délire d'amour pour elle ; mais que mes moqueurs voient les torrents de mes 
       <tr>
         <td>
         <a href="/fr/book/Islam/Arabian_Poetry/Antar_38">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Numan, roi de Hirah, fait la guerre au roi Zoheir — Le héros sauve son pays</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Numan, roi de Hirah, fait la guerre au roi Zoheir — Le héros sauve son pays</span>
         </a>
         </td>
         <td>

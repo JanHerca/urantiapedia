@@ -116,7 +116,7 @@ _Strophe 4_.—C'est ce vers qui a décidé du droit de Hafiz à recevoir une s�
 
 _Strophe 3_. — Quand Dieu eut créé l'homme et l'eut rendu plus sage que les anges, il le lia à lui par un traité solennel. « Ne suis-je pas ton Seigneur qui t'a créé ? » demanda-t-il, et l'homme répondit : « Oui. » Mais le mot arabe _bala_, qui signifie assentiment, signifie aussi tristesse, et on dit que le premier de nos pères savait très bien quel don terrible était la vie qu'il avait reçue de son Seigneur, et il scella le traité du sceau de la douleur. C'est pourquoi depuis les premiers jours, la vie et la tristesse vont de pair, liées par le premier grand pacte entre Dieu et l'homme.
 
-_Strophe 4_.—Comparez le traitement brutal et puissant du même thème par François Villon :—
+_Strophe 4_.—Comparez le traitement brutal et puissant du même thème par François Villon :—
 
 «Où sont de Vienne et de Grenoble
 Le Dauphin, les preux, les senés ?

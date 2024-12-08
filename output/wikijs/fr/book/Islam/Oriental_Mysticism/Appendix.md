@@ -150,7 +150,7 @@ A.P. _khatt i sabz_. Verdure. Du duvet apparaissant sur la joue. L'état des lim
 
 A. _khalá-ik_. Tempéraments. Peuples. Attribut de puissance de Dieu.
 
-P. _kham i zulf_. Une boucle torsadée. La joie du cœur à connaître Dieu [^1].
+P. _kham i zulf_. Une boucle torsadée. La joie du cœur à connaître Dieu [^1].
 
 P. _kh’áhar_. Sœur. Révélation.
 
@@ -274,9 +274,9 @@ A. _láhút_. Divinité. Vie imprégnant toutes choses.
 
 A. _lubb_. Moelle. Intelligence sanctifiée et purifiée des doutes et des soupçons.
 
-P. _lab lab_. Plein à ras bord. Buvant la Lumière de Dieu et ayant le regard rivé sur Lui,
+P. _lab lab_. Plein à ras bord. Buvant la Lumière de Dieu et ayant le regard rivé sur Lui,
 
-P.A. _lab i lá’l_. Une lèvre rubis. Les paroles inouïes mais comprises de Dieu [^1]. Conscience.
+P.A. _lab i lá’l_. Une lèvre rubis. Les paroles inouïes mais comprises de Dieu [^1]. Conscience.
 
 A. _mádar_. Mère. Les tablettes sur lesquelles le Coran est censé avoir été inscrit de toute éternité ; appelé par les Arabes ![](/image/book/Islam/Oriental_Mysticism/07900.jpg) _ummu ’l Kitáb_, « La Mère du Livre ».
 
@@ -367,7 +367,7 @@ A. _hawá_. Désir. Un désir ardent de la vie future allumé par Dieu dans le c
 
 ## Notes de bas de page
 
-[^1] : 74 : 1 Tholuck dans son SUFISMUS (Berolini, MDCCCXXI), p. 105, explique cela comme suit : « _Cincinnorum circuli_, Sic divina dicunt mysteria, nemini præter Deum ipsum nota. » Ceci, cependant, est l'interprétation de _zulf_ (tresses), et non de _khan i zulf_. Le verset cité ci-dessus, à la page [41](omy15.htm#p41),
+[^1] : 74 : 1 Tholuck dans son SUFISMUS (Berolini, MDCCCXXI), p. 105, explique cela comme suit : « _Cincinnorum circuli_, Sic divina dicunt mysteria, nemini præter Deum ipsum nota. » Ceci, cependant, est l'interprétation de _zulf_ (tresses), et non de _khan i zulf_. Le verset cité ci-dessus, à la page [41](omy15.htm#p41),
 
 « Je leur ai donné un aperçu de mon visage glorieux, »
 

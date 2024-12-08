@@ -50,7 +50,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 <span id="p18">[<sup><small>p. 18</small></sup>]</span>
 
-8\. Elle sourit et montre ses dents brillantes, s'élevant de leurs bases de couleur sombre, comme une plante de troène en pleine floraison, qui perce un banc de sable pur humecté de rosée :
+8\. Elle sourit et montre ses dents brillantes, s'élevant de leurs bases de couleur sombre, comme une plante de troène en pleine floraison, qui perce un banc de sable pur humecté de rosée :
 
 9\. Le soleil a donné à ses dents son eau brillante, mais pas à la partie où elles poussent, qui est saupoudrée de minerai de plomb, tandis que l'ivoire reste intact.
 
@@ -68,7 +68,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 <span id="p19">[<sup><small>19</small></sup>]</span>
 
-16\. Ce qui apparaît comme si les deux ailes d'un grand aigle blanc étaient transpercées par un poinçon jusqu'à l'os, et suspendues en ondulant autour de ses deux côtés :
+16\. Ce qui apparaît comme si les deux ailes d'un grand aigle blanc étaient transpercées par un poinçon jusqu'à l'os, et suspendues en ondulant autour de ses deux côtés :
 
 17\. Tantôt il fouette la place de celui qui la monte le plus en arrière, tantôt il joue autour de ses mamelles qui sont devenues ridées et flasques comme un sac de cuir, leur lait ne les dilatant plus.
 
@@ -84,7 +84,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 23\. Les poils sous son menton sont d'une teinte rougeâtre : son dos est musclé : elle fait de longs pas rapides avec ses pattes arrière, et déplace ses pattes avant avec agilité ;
 
-24\. Elle les lance de sa poitrine _avec la force_ et la rapidité de câbles fermement tirés par _un bras nerveux_ ; et ses épaules sont courbées comme les chevrons d'un dôme élevé :
+24\. Elle les lance de sa poitrine _avec la force_ et la rapidité de câbles fermement tirés par _un bras nerveux_ ; et ses épaules sont courbées comme les chevrons d'un dôme élevé :
 
 <span id="p20">[<sup><small>p. 20</small></sup>]</span>
 
@@ -104,7 +104,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 32\. Tu les vois sans défaut ni tache, et ressemblant en beauté à ceux d'une vache sauvage, la mère de jeunes joueurs, lorsque la voix du chasseur l'a remplie de peur.
 
-33\. Ses oreilles distinguent vraiment chaque son, qu'elle écoute attentivement dans ses voyages nocturnes, que ce soit un doux murmure ou un bruit fort ;
+33\. Ses oreilles distinguent vraiment chaque son, qu'elle écoute attentivement dans ses voyages nocturnes, que ce soit un doux murmure ou un bruit fort ;
 
 <span id="p21">[<sup><small>21</small></sup>]</span>
 
@@ -138,7 +138,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 47\. Quand tous les clans seront réunis pour déclarer leurs prétentions à la noblesse, vous me verrez élevé au sommet d'une maison illustre, le refuge des affligés.
 
-48\. Mes compagnons de fête sont des jeunes gens, brillants comme des étoiles, et des chanteuses, qui s'avancent vers nous, vêtus de robes rayées et de manteaux couleur safran :
+48\. Mes compagnons de fête sont des jeunes gens, brillants comme des étoiles, et des chanteuses, qui s'avancent vers nous, vêtus de robes rayées et de manteaux couleur safran :
 
 49\. Large est l'ouverture de leurs gilets au-dessus de leurs seins délicats, à travers lesquels la jeunesse enflammée touche leurs seins découverts d'une douceur exquise.
 
@@ -150,7 +150,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 52\ Ainsi je bois du vieux vin sans cesse et je jouis des délices de la vie, vendant et dissipant mes biens, tant nouvellement acquis qu'hérités ;
 
-53\. Jusqu'à ce que tout le clan me rejette et me laisse solitaire, comme un chameau malade enduit de poix :
+53\. Jusqu'à ce que tout le clan me rejette et me laisse solitaire, comme un chameau malade enduit de poix :
 
 54\. Pourtant, même maintenant, je perçois que les fils de la terre (_les hommes les plus indigents_) reconnaissent ma générosité, et les riches habitants de ce camp étendu confessent ma gloire.
 
@@ -158,7 +158,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 56, Si tu ne peux repousser le coup de la mort, permets-moi, avant qu'il vienne, de jouir du bien que je possède.
 
-57\. Si ce n'était pour trois plaisirs que la jeunesse procure, je jure par ta prospérité, que je ne me soucierais pas de la rapidité avec laquelle mes amis m'ont rendu visite sur mon lit de mort :
+57\. Si ce n'était pour trois plaisirs que la jeunesse procure, je jure par ta prospérité, que je ne me soucierais pas de la rapidité avec laquelle mes amis m'ont rendu visite sur mon lit de mort :
 
 58\. D'abord, se lever avant que les censeurs ne se réveillent, et boire du vin fauve, qui pétille et mousse quand on y verse le clair jet.
 
@@ -218,7 +218,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 83\. Je suis léger, comme vous me connaissez tous, et je suis agile, suivant mes propres inclinations et me déplaçant vivement comme la tête d'un serpent aux yeux flamboyants.
 
-84\. J'ai juré que mon côté ne cesserait jamais de garnir une lame indienne brillante avec deux bords bien polis et bien aiguisés :
+84\. J'ai juré que mon côté ne cesserait jamais de garnir une lame indienne brillante avec deux bords bien polis et bien aiguisés :
 
 85\ Un cimeterre pénétrant ! Quand je m'avance avec lui pour me défendre contre une attaque féroce, le premier coup rend le second inutile : ce n'est pas une simple faucille à émonder,
 
@@ -228,7 +228,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 87\. Quand tout le clan se prépare à enfiler son armure avec empressement, tu pourras me trouver victorieux dans le conflit, dès que ma main pourra toucher la poignée de ce cimeterre.
 
-88\. J'ai approché de nombreux troupeaux de chameaux endormis avec mon sabre dégainé, lorsque les premiers d'entre eux, se _réveillant_, ont fui par peur de moi :
+88\. J'ai approché de nombreux troupeaux de chameaux endormis avec mon sabre dégainé, lorsque les premiers d'entre eux, se _réveillant_, ont fui par peur de moi :
 
 89\. Mais l'un d'eux est passé avant moi, aux membres vigoureux, à la poitrine généreuse et bien nourri, propriété hautement estimée d'un vieux rustre morose, sec et maigre comme une massue de foulon.
 

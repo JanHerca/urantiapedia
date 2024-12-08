@@ -116,7 +116,7 @@ versets 72-77.
 « En avant ! Antar, en avant ! » crient les guerriers exultants.
 Contre mon destrier noir volent mille lances.
 En avant pour endiguer la marée montante, je prie,
-Jusqu'à ce que des flots de sang débordent de la poitrine de mon coursier ;
+Jusqu'à ce que des flots de sang débordent de la poitrine de mon coursier ;
 Il se tourna silencieux et triste, son cavalier le regarda,
 Et bien que les paroles prononcées aient été niées,
 Des regards de reproche parlaient de ses sentiments intérieurs,

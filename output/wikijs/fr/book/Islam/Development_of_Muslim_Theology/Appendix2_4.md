@@ -46,13 +46,13 @@ G. VON VLOTEN : _Les Hachwia et Nabita_, Onzième Congrès des Orientalistes, tr
 
 G. VON VLOTEN : _Irdja_. ZDMG, XIV, p. 181 et suiv. Sur les Murji’ites.
 
-EDUARD SACHAU : _Uber de religiosen Anschauungen der ibaditischen Muhammedaner in Oman and Ostafrica_. Mitth. un. d. Sem. f. Orient. Sprachen. Berlin, 1899.
+EDUARD SACHAU : _Uber de religiosen Anschauungen der ibaditischen Muhammedaner in Oman and Ostafrica_. Mitth. un. d. Sem. f. Orient. Sprachen. Berlin, 1899.
 
 H. STEINER : _Die Mu'taziliten oder die Freidenker im Islam_. Leipzig, 1865.
 
 WILHELM SPITTA : _Sur l'histoire d'Abu l-Hasan al-Ash'ari_, Leipzig, 1876. Le meilleur ouvrage jusqu'à présent sur al-Ash'ari, mais à utiliser avec prudence, surtout dans les traductions de textes théologiques.
 
-MARTIN SCHREINER : _Zur Geschichte des Ash‘aritenthums_. Dans Actes du huitième Congrès International des Orientalistes, I, i, pp. 77 et suiv. Leyde, 1891.
+MARTIN SCHREINER : _Zur Geschichte des Ash‘aritenthums_. Dans Actes du huitième Congrès International des Orientalistes, I, i, pp. 77 et suiv. Leyde, 1891.
 
 M. A. F. MEHREN : _Exposé de la réforme de l’Islamisme commencée au troisième siècle de l’Hégire par Abou-l-Hasan Ali el-Ash‘ari et continuée par son école_. Troisième Congrès international des orientalistes, vol. ii.
 
@@ -70,7 +70,7 @@ FRIEDRICH DIETERICI : _Le phitosophische Abhandlungen herausgegeben_ d'Alfarabi.
 
 <span id="p365">[<sup><small>p. 365</small></sup>]</span>
 
-AL-FARABI : _Der Musterstaat. Herausgegeben et Übersetzt von Frdr. Dieterici_. Leyde, 1900.
+AL-FARABI : _Der Musterstaat. Herausgegeben et Übersetzt von Frdr. Dieterici_. Leyde, 1900.
 
 G. FLÜGEL : _Ueber Inhalt und Verfasser der arabisehen Encyclopädie der Ikhwan as-Safa_. ZDMG, XIII, p. 1 et suiv. Voir aussi un excellent article d'August Müller dans _Ersch und Gruber_, ii, 42, pp. 272 ff., et de Stanley Lane-Poole dans ses _Studies in a Mosque_.
 
@@ -94,7 +94,7 @@ CARRA DE VAUX : _Avicenne_. Paris, 1900. Contient un aperçu préliminaire de la
 
 A. VON KREMER : _Uber die philosophischen Gedichte des Abul Ala Ma'arry_. Vienne, 1888.
 
-A. VON KREMER : _Gedichte des Abu-i-Ala Ma'arri_. ZDMG, XXIX, 304 ; xxx, 40 ; xxxi, p. 471 et suiv.; xxxviii, 499 et suiv.
+A. VON KREMER : _Gedichte des Abu-i-Ala Ma'arri_. ZDMG, XXIX, 304 ; xxx, 40 ; xxxi, p. 471 et suiv.; xxxviii, 499 et suiv.
 
 ABU-L-ALA AL-MA'ARRI : _Lettres arabes et anglaises, avec notes, etc., éditées par DS Margoliouth_, Oxford, 1898. Voir aussi les articles de RA Nicholson dans JRAS, octobre 1900, et suivants, et de Margoliouth, pour avril 1902.
 
@@ -146,7 +146,7 @@ IGNAZ GOLDZIHER : _Beiträge zur Litteraturgeschichte der Shi'a_. Vienne, 1874.
 
 JAMES L. MERRICK : _La vie et la religion de Mahomet, telles qu'elles sont contenues dans les traditions Sheeah de l'Ifyat-ul-Kuloob_. Boston, 1850.
 
-J. B. RÈGLE : _Beiträge zur Eschatologie des Islam_. Leipzig, 1895.
+J. B. RÈGLE : _Beiträge zur Eschatologie des Islam_. Leipzig, 1895.
 
 L. GAUTHIER : _Ad-dourra al-fakhira ; la perle précieuse de Ghazali_. Genève, 1878. En arabe et en français ; un récit précieux de l’eschatologie musulmane.
 

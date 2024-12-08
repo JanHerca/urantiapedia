@@ -72,7 +72,7 @@ Surplombe la tempête et défie toute sa rage. — _Ret. Rev._
 vv. 25, 26. Le « rocher sombre » est la gloire et le grand nom de la tribu, dit M. Lyall, dans une note sur les vers parallèles suivants, tirés du chant fougueux de ‘Abd-el-Melik, fils de ‘Abd-er-Rahīm, des Benu-d-Dayyān (« Chants du _Hamāseh_, » etc.) :
 
 Une montagne que nous avons où habite celui que nous y abritons,
-&nbsp;&nbsp;élevé, devant la hauteur duquel l'œil retombe émoussé :
+&nbsp;&nbsp;élevé, devant la hauteur duquel l'œil retombe émoussé :
 Ses racines sont profondes sous terre, et au-dessus s'élèvent
 &nbsp;&nbsp;son sommet jusqu'aux étoiles du ciel où aucun homme n'atteint.
 

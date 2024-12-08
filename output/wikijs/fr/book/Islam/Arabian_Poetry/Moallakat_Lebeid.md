@@ -60,7 +60,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 12\. Comme tes tendres affections furent soulevées, quand les demoiselles de la tribu s'en allèrent, quand elles se cachèrent dans des chariots de coton, comme des antilopes dans leur tanière, et que les tentes, lorsqu'elles furent frappées, firent un bruit perçant !
 
-13\. Ils étaient cachés dans des véhicules dont les flancs étaient bien couverts de tentes et de tapis, de rideaux fins et de voiles peints :
+13\. Ils étaient cachés dans des véhicules dont les flancs étaient bien couverts de tentes et de tapis, de rideaux fins et de voiles peints :
 
 14\. Une troupe de jeunes filles y étaient assises, _avec des yeux noirs et des mouvements gracieux_, comme les génisses sauvages de Tudah, ou les chevreuils de Wegera regardant tendrement leurs petits.
 
@@ -132,7 +132,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 44\ Enfin, lorsque les nuages se sont dissipés et que l'aube apparaît, elle se lève tôt et ses sabots glissent sur le sol glissant.
 
-45\. Elle devient impatiente et folle de chagrin : elle reste frénétique dans la piscine de Soayid pendant sept jours entiers avec leurs sœurs jumelles, sept nuits ;
+45\. Elle devient impatiente et folle de chagrin : elle reste frénétique dans la piscine de Soayid pendant sept jours entiers avec leurs sœurs jumelles, sept nuits ;
 
 46\ Et maintenant elle est dans un désespoir total : ses mamelles, qui étaient pleines de lait, sont devenues flasques et sèches, bien qu'elles ne soient pas usées par l'allaitement et le sevrage de ses petits.
 
@@ -188,13 +188,13 @@ dateCreated: 2024-11-24T18:21:59Z
 
 69\ Il lève la tête, il vole en liberté, les rênes lâches, et se hâte vers son but, comme une colombe se précipite vers le ruisseau quand sa soif fiévreuse fait rage.
 
-70\. Il y a un manoir (_le palais de Nomaan_) rempli d'invités, inconnus les uns aux autres, espérant des cadeaux et craignant des reproches :
+70\. Il y a un manoir (_le palais de Nomaan_) rempli d'invités, inconnus les uns aux autres, espérant des cadeaux et craignant des reproches :
 
 71\. Elle est habitée par des hommes, semblables à des lions au cou fort, qui se menacent les uns les autres avec une haine maligne, comme les démons de Badiya, les pieds fermement rivés dans le conflit.
 
 72\. J'ai contesté leurs fausses prétentions, mais j'ai admis leur mérite réel, selon mon jugement ; et le plus noble d'entre eux ne pouvait me surpasser en renommée.
 
-73\. J'ai souvent invité _une nombreuse compagnie_ à la mort d'un chameau acheté pour l'abattage, pour être divisé par tirage au sort avec des flèches de dimensions égales :
+73\. J'ai souvent invité _une nombreuse compagnie_ à la mort d'un chameau acheté pour l'abattage, pour être divisé par tirage au sort avec des flèches de dimensions égales :
 
 74\. Je les invite à tirer au sort une chamelle sans poulain, et une chamelle avec son petit, dont je distribuerai la chair à tous les voisins.
 

@@ -36,11 +36,11 @@ dateCreated: 2024-11-26T10:15:16Z
 
 Le système de translittération utilisé dans ce volume pour traduire les mots arabes et persans en lettres latines suit de près la pratique internationale moderne standard.
 
-Les sons ainsi représentés peuvent être approximés comme suit en anglais standard :
+Les sons ainsi représentés peuvent être approximés comme suit en anglais standard :
 
 _Voyelles_
 
-_« a » court_ : entre les voyelles « chapeau » et « fourrure ».
+_« a » court_ : entre les voyelles « chapeau » et « fourrure ».
 
 _Long « a »_ : (_ā_) : comme le a dans « dur ».
 

@@ -158,7 +158,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 56\. Le sang du gibier rapide, qui reste sur son cou, est comme le jus cramoisi du hinna sur des cheveux gris flottants.
 
-57\. Il nous emmène rapidement vers un troupeau de bétail sauvage, dans lequel les génisses sont belles comme les vierges en robes noires traînantes, qui dansent autour de l'_idole_ Dewaar :
+57\. Il nous emmène rapidement vers un troupeau de bétail sauvage, dans lequel les génisses sont belles comme les vierges en robes noires traînantes, qui dansent autour de l'_idole_ Dewaar :
 
 58\ Ils tournent le dos et apparaissent comme les coquillages bigarrés du Yémen sur le cou d'un jeune homme distingué dans sa tribu par une multitude de nobles parents.
 

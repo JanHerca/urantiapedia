@@ -36,15 +36,15 @@ v. 1. « Notre boisson matinale » : voir note sur v. 74, Amriolkais – « Une 
 
 &nbsp;&nbsp; Tandis que résonnent la douce lyre et les cymbales,
 &nbsp;&nbsp; Versez une mélodie joyeuse autour;
-Bois ta gorgée _vivifiante de vin du matin_ ;
+Bois ta gorgée _vivifiante de vin du matin_ ;
 &nbsp;&nbsp; Et comme les notes fondantes inspirent
 &nbsp;&nbsp; Ton âme avec un désir amoureux,
 Embrasse ta belle servante, embrasse son cou divin.
 
 v. 2. « Vin dilué avec de l'eau » : voir note sur le v. 58, Mo'all de Tarafa. — Dans le Roman d'Antar, le héros est représenté s'exclamant :
 
-Donnez-moi du vin _pur_ à boire, ou qu'il soit _mélangé _;
-Donnez-le-moi _vieux_, afin que je puisse imaginer qu'il a été fait avant le monde :
+Donnez-moi du vin _pur_ à boire, ou qu'il soit _mélangé _;
+Donnez-le-moi _vieux_, afin que je puisse imaginer qu'il a été fait avant le monde :
 Donne-moi à boire, et fais-moi entendre le chant qui me ravit !
 
 Amru, au v. 1, et Lebīd, au v. 59, font également référence à la coutume arabe de thésauriser les meilleurs vins. — Hafiz, dans une de ses odes, demande un verre de vin pur ou non mélangé : _mi nab_, vin non dilué avec de l'eau.

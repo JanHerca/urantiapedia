@@ -13,7 +13,7 @@ dateCreated: 2024-11-17T14:27:30Z
 	<g transform="translate(-7,-5)">
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px" x="61" y="22">Farid ud-Din Attar ; E. Fitzgerald (tr.)</text>
+		<text style="font-size:5px" x="61" y="22">Farid ud-Din Attar ; E. Fitzgerald (tr.)</text>
 		<text style="font-size:4px" x="61" y="125">1889</text>
 		<text style="font-size:9px" x="61" y="60">Parlement</text>
 		<text style="font-size:9px" x="61" y="70">des oiseaux</text>
