@@ -243,7 +243,7 @@ Asaritas, [191](3_3#p191), [201](3_3#p201), [207](3_3#p207)\-[213](3_3#p213), [2
 
 ‘Ash_u_r_a_, día de, [28](1_1#p28)
 
-A_s_l, [107](2_2#p107)  [109](2_2#p109)
+A_s_l, [107](2_2#p107)  [109](2_2#p109)
 
 A_s_la_h_, [190](3_3#p190), [292](Appendix1_1#p292), [311](Appendix1_5#p311); véase también sal_ah_
 
@@ -572,7 +572,7 @@ Al-_H_akam ibn ab_i_\-l-‘_As_, [17](1_1#p17)
 
 _Ha_l, [160](3_2#p160), [176](3_2#p176), [227](3_4#p227), [310](Appendix1_5#p310), [319](Appendix1_6#p319), [322](Appendix1_6#p322), [337](Appendix1_6#p337)
 
-_Ha_l nafsi, [319](Appendix 1_6#p319)
+_Ha_l nafsi, [319](Appendix 1_6#p319)
 
 _H_al_a_l [298](Appendix1_3#p298)
 
@@ -947,7 +947,7 @@ Kal_a_m All_a_h, [146](3_1#p146)
 
 Kal_a_m nafs_i_, _h_ad_i_th fi-n-nafs, [273](3_6#p273), [336](Appendix1_6#p336)
 
-Kalimat_a_\-sh-shah_a_da, [300](Appendix1_4#p300)  Al-kalimat_a_n, [30](1_1#p30)
+Kalimat_a_\-sh-shah_a_da, [300](Appendix1_4#p300)  Al-kalimat_a_n, [30](1_1#p30)
 
 Kallima-ll_a_hu M_u_s_a_ takl_i_m_a_, [149](3_1#p149)
 

@@ -54,7 +54,7 @@ muy obediente y humilde Siervo,<br>
 E. H. PALMER.
 
 Fechado en RAMAZÁN, 1283 A.H.
-     (_Enero_ de 1867, d.C.)
+     (_Enero_ de 1867, d.C.)
 
 <figure class="table chapter-navigator">
   <table>

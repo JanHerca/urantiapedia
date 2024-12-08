@@ -59,7 +59,7 @@ Mientras la lengua esté fija en la boca,
 Que la alabanza de Muhammad sea una fuente de deleite.
 El amado de Dios, el más exaltado de los Profetas,
 Cuya almohada es el glorioso firmamento.
-El jinete conquistador de la tierra con su Buraq castaño, [^5]
+El jinete conquistador de la tierra con su Buraq castaño, [^5]
 Que pasó más allá del palacio del pórtico cerúleo!
 
 <span id="s3"></span>
@@ -165,7 +165,7 @@ Orgullo por parte de un hombre sabio no es agradable;
 Triste es tal comportamiento en el caso de una persona prudente.
 El orgullo es el hábito de los ignorantes,
 El orgullo no procede de los hombres de inteligencia.
-El orgullo provocó la caída de Azazil, [^7]
+El orgullo provocó la caída de Azazil, [^7]
 Y lo llevó a quedar atrapado en la prisión de los malditos.
 Quien sea por naturaleza arrogante, <span id="p37">[<sup><small>p. 37</small></sup>]</span>
 Su cabeza está llena de orgullo más allá de la imaginación.
@@ -378,7 +378,7 @@ El vino rubí en la copa de oro
 Es inspirador para el alma, como si fuera una hermosa perla.
 Bienvenido es el fuego del deseo para aquellos inspirados con amor!
 Bienvenidos sean los deliciosos dolores de los señores del amor! <span id="p51">[<sup><small>p. 51</small></sup>]</span>
-Traed este vino como si fuera el agua de la inmortalidad, [^10]
+Traed este vino como si fuera el agua de la inmortalidad, [^10]
 Porque de su fragancia el alma encuentra liberación del dolor!
 Feliz aquella alma que desea un Amigo! [^11]
 Feliz esa persona que está atrapada en los lazos del afecto por Él!

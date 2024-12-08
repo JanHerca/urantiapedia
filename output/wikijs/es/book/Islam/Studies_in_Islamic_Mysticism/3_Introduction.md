@@ -34,7 +34,7 @@ dateCreated: 2024-11-22T20:3:38Z
 
 <span id="p162">[<sup><small>p. 162</small></sup>]</span>
 
-## CAPITULO III. LAS ODAS DE IBNU ’L-FÁRIḌ [^521]
+## CAPITULO III. LAS ODAS DE IBNU ’L-FÁRIḌ [^521]
 
 _Pensando al bel ch’ età non cangia o verno_.
 &nbsp;&nbsp;&nbsp;&nbsp;Miguel Ángel.
@@ -48,13 +48,13 @@ Por favor, deténgase junto a las colinas de Ṭayyi’!
 
 Aquí N. detecta una alusión a Ibnu ’l-‘Arabí, que pertenecía a la tribu Ṭayyi’ [^527].
 
-Rara vez ocurre que la vida exterior de los místicos esté llena de acontecimientos. El principal biógrafo del poeta, su nieto, ‘Alí, tiene mucho que decir sobre su belleza personal, su temperamento extático, su generosidad y altruismo, su aislamiento del mundo y la veneración que todos le profesaban [^528]. Como su nombre lo indica, era hijo de un notario (_fáriḍ_). En su juventud practicó austeridades religiosas en el monte Muqaṭṭam, cerca de El Cairo, y regresó a intervalos para asistir a los tribunales con su padre y estudiar teología. Un día se encontró con un santo disfrazado de viejo verdulero, que le dijo que la hora de su iluminación estaba próxima, pero que debía ir al Ḥijáz para recibirla. En consecuencia, Ibnu ’l-Fáriḍ partió hacia La Meca, donde se cumplió la promesa. Muchas de sus odas celebran las colinas y valles de los alrededores <span id="p165">[<sup><small>p. 165</small></sup>]</span> de la Ciudad Santa, escenas que le traen a la mente visiones y éxtasis. Después de quince años de ausencia de Egipto, oyó la voz del santo, que estaba en su lecho de muerte, pidiéndole que regresara a El Cairo para rezar por él y enterrarlo. Ibnu ’l-Fáriḍ obedeció y, habiendo cumplido con este piadoso deber, se estableció en El Cairo para el resto de su vida, alojándose (se dice) en la mezquita al-Azhar, como lo había hecho su padre. El biógrafo ‘Alí, cuya madre era hija de Ibnu ’l-Fáriḍ, menciona a dos hijos del poeta, Kamálu’ddín Muḥammad y ‘Abdu ’l-Raḥmán, quienes fueron investidos con la _khirqa_ [^529] por el famoso Ṣúfí, Shihábu’ddín Abú Ḥafṣ ‘Umar al-Suhrawardí en ocasión de su encuentro con Ibnu ’l-Fáriḍ en La Meca en el año 1231 d.C.
+Rara vez ocurre que la vida exterior de los místicos esté llena de acontecimientos. El principal biógrafo del poeta, su nieto, ‘Alí, tiene mucho que decir sobre su belleza personal, su temperamento extático, su generosidad y altruismo, su aislamiento del mundo y la veneración que todos le profesaban [^528]. Como su nombre lo indica, era hijo de un notario (_fáriḍ_). En su juventud practicó austeridades religiosas en el monte Muqaṭṭam, cerca de El Cairo, y regresó a intervalos para asistir a los tribunales con su padre y estudiar teología. Un día se encontró con un santo disfrazado de viejo verdulero, que le dijo que la hora de su iluminación estaba próxima, pero que debía ir al Ḥijáz para recibirla. En consecuencia, Ibnu ’l-Fáriḍ partió hacia La Meca, donde se cumplió la promesa. Muchas de sus odas celebran las colinas y valles de los alrededores <span id="p165">[<sup><small>p. 165</small></sup>]</span> de la Ciudad Santa, escenas que le traen a la mente visiones y éxtasis. Después de quince años de ausencia de Egipto, oyó la voz del santo, que estaba en su lecho de muerte, pidiéndole que regresara a El Cairo para rezar por él y enterrarlo. Ibnu ’l-Fáriḍ obedeció y, habiendo cumplido con este piadoso deber, se estableció en El Cairo para el resto de su vida, alojándose (se dice) en la mezquita al-Azhar, como lo había hecho su padre. El biógrafo ‘Alí, cuya madre era hija de Ibnu ’l-Fáriḍ, menciona a dos hijos del poeta, Kamálu’ddín Muḥammad y ‘Abdu ’l-Raḥmán, quienes fueron investidos con la _khirqa_ [^529] por el famoso Ṣúfí, Shihábu’ddín Abú Ḥafṣ ‘Umar al-Suhrawardí en ocasión de su encuentro con Ibnu ’l-Fáriḍ en La Meca en el año 1231 d.C.
 
 El Díwán, editado por primera vez por el susodicho ‘Alí a partir de un manuscrito de su puño y letra, es un delgado volumen que comprende unas veinte qaṣídas y _qiṭ‘as_ junto con algunas cuartetas (_rubá‘íyyát_) y enigmas (_algház_). La oda más larga, la _Naẓmu ’l-sulúk_ o «El progreso del místico», generalmente conocida como _Tá’iyyatu ’l-kubrá_ [^530], ha sido omitida de la edición de Marsella, que por lo demás está completa. Debido a su carácter expositivo y descriptivo, este poema se distingue de las odas puramente líricas, y lo he tratado como una obra independiente. La Oda del vino (_Khamriyya_) y varias otras piezas han sido publicadas con una traducción en prosa francesa en la _Anthologie arabe_ de Grangeret de Lagrange (París, 1828), y algunas más se encontrarán en _Chrestomathie arabe_ de De Sacy. Italia posee una versión en prosa de los poemas menores de P. Valerga (Florencia, 1874). No hay nada en inglés excepto algunos fragmentos que apenas suman cien líneas en total [^531]. Espero persuadir a mis lectores de que el _Díwán_ de Ibnu ’l-Fáriḍ, aunque <span id="p166">[<sup><small>p. 166</small></sup>]</span> no agradará a todos los gustos, es demasiado curioso y exquisito para que lo dejen de lado quienes se interesan por la poesía oriental.
 
 En cuanto a la sutil calidad de su pensamiento no menos que de su estilo, sería difícil superar lo que escribió un crítico francés hace noventa años:
 
-L'intelligence parfaite de ses Productions ne peut être que le fruit d'une étude longue et approfondie de la poésie arabe. Dos causas principales les rendent d'un difícil acceso. La première, c'est qu'il seek souvent à ce poëte de quintasencier le sentiment; et alors ses idées sont si subtiles, si déliées, et, pour ainsi dire, si impalpables, qu'elles échappent presque aux poursuites du lecteur le plus attentif: souvent même elles disparoissent dès qu'on les touche pour les transporter dans une autre langue . On voit qu'il a pris plaisir, par un choix de pensées extraordinaires, et par la singularité des tours, à mettre à l'épreuve la sagacité de ceux qui étudient ses ouvrages. En resto, las letras de Oriente piensan que un poeta es sans génie et sans invent, o bien qu'il cuenta peu sur su inteligencia, cuando n'a pas soin de su ménager des ocasiones frecuentes de hacer brillante esta penetración qui sait descubrir les sens les plus cachés. Il faut donc que le poëte arabe, si'l veut obtenir les suffrages et l'admiration des connoisseurs, n'oublie pas de porter quelquefois à l'excès le reffinement et la sutilité dans ses compositions, d'aiguiser ses pensées, et de les envelopper de telle sorte dans les expresiones, qu'elles se presenten au lecteur comme des énigmes, qu’elles réveillent son listening, piquent sa curiosité, et mettent en jeu toutes les facultés de son esprit. O, il faut convenir qu' Omar ben-Fâredh n'a point manqué à ce devoir prescrit aux poëtes arabes, et qu'il n'a point voulu que ses lecteurs lui reprochassent de leur avoir enlevé les ocasiones de montrer leur sagacité [^ 532].
+L'intelligence parfaite de ses Productions ne peut être que le fruit d'une étude longue et approfondie de la poésie arabe. Dos causas principales les rendent d'un difícil acceso. La première, c'est qu'il seek souvent à ce poëte de quintasencier le sentiment; et alors ses idées sont si subtiles, si déliées, et, pour ainsi dire, si impalpables, qu'elles échappent presque aux poursuites du lecteur le plus attentif: souvent même elles disparoissent dès qu'on les touche pour les transporter dans une autre langue . On voit qu'il a pris plaisir, par un choix de pensées extraordinaires, et par la singularité des tours, à mettre à l'épreuve la sagacité de ceux qui étudient ses ouvrages. En resto, las letras de Oriente piensan que un poeta es sans génie et sans invent, o bien qu'il cuenta peu sur su inteligencia, cuando n'a pas soin de su ménager des ocasiones frecuentes de hacer brillante esta penetración qui sait descubrir les sens les plus cachés. Il faut donc que le poëte arabe, si'l veut obtenir les suffrages et l'admiration des connoisseurs, n'oublie pas de porter quelquefois à l'excès le reffinement et la sutilité dans ses compositions, d'aiguiser ses pensées, et de les envelopper de telle sorte dans les expresiones, qu'elles se presenten au lecteur comme des énigmes, qu’elles réveillent son listening, piquent sa curiosité, et mettent en jeu toutes les facultés de son esprit. O, il faut convenir qu' Omar ben-Fâredh n'a point manqué à ce devoir prescrit aux poëtes arabes, et qu'il n'a point voulu que ses lecteurs lui reprochassent de leur avoir enlevé les ocasiones de montrer leur sagacité [^ 532].
 
 Esto describe muy bien una característica general y obvia del estilo de Ibnu ’l-Fáriḍ, una característica que está completamente ausente tanto de la poesía preislámica como de la temprana islámica, aunque desde la época de Mutanabbí, quien la llevó por primera vez a la prominencia, se ha mantenido, no meramente como una moda local o temporal sino con toda la fuerza de una tradición fija y casi universalmente aceptada. Si bien Ibnu ’l-Fáriḍ no tiene nada en común <span id="p167">[<sup><small>p. 167</small></sup>]</span> con el _imitatorum seruum pecus_, no intentó ni quiso nadar contra la corriente; y es probable que solo su misticismo lo salvara de los peores excesos del ingenio metafísico. En él, como en Meleagro y Petrarca, «la religión del amor se reduce a una teología; ninguna sutileza, ninguna fluctuación de la fantasía o la pasión queda sin registrar [^533]». Si sus versos abundan en fantásticos conceptos, si muchos de ellos son enigmáticos hasta el último grado, los conceptos y enigmas no son, por regla general, adornos retóricos o trucos de magia intelectual, sino que, como zarcillos que brotan de una raíz oculta, están vitalmente conectados con los estados de ánimo que delinean. Puede resultar difícil de creer lo que se relata en el testimonio de sus amigos más íntimos, que solía dictar sus poemas en el momento en que salía de un profundo trance extático, durante el cual «a veces estaba de pie, ahora sentado, ahora reposaba de lado, ahora yacía sobre su lomo, envuelto como un muerto; y así pasaba diez días consecutivos, más o menos, sin comer ni beber ni hablar ni moverse». Su estilo y su dicción se parecen más a la más selecta y fina obra de joyería de un artista fastidioso que a las primicias de la inspiración divina. Sin embargo, no me inclino a dudar de la afirmación de que su poesía estaba compuesta de manera anormal [^534]. La historia del misticismo registra numerosos ejemplos de este tipo. Blake dijo que se embriagaba de visión intelectual cada vez que cogía un lápiz o un buril en la mano. «Santa Catalina de Siena», se nos dice, «dictaba su gran Diálogo a sus secretarios mientras estaba en estado de éxtasis [^535]». «Cuando Jalálu’ddín Rúmí se ahogó en el océano del Amor, solía agarrar una columna de su casa y se ponía a dar vueltas alrededor de ella. Mientras tanto, versificaba y dictaba, y la gente escribía los versos [^536]». Dado que la forma de esa composición automática dependerá <span id="p168">[<sup><small>p. 168</small></sup>]</span> en gran medida de los materiales almacenados en el cerebro del místico y de los modelos literarios con los que está familiarizado, no debemos sorprendernos si sus visiones y revelaciones a veces encuentran una expresión espontánea en un estilo elaboradamente artificial. La pasión intensa y el éxtasis resplandeciente de la poesía de Ibnu ’l-Fáriḍ están en consonancia con este relato de la forma en que fue producida [^537]. Puedo concebir que la haya escrito sin estar bajo la influencia del éxtasis [^538]; pero que la haya escrito a sangre fría, para aquellos que podrían disfrutar agudizando su ingenio con ella, me parece increíble.
 
@@ -65,7 +65,7 @@ Sin embargo, no podemos prescindir de los comentaristas, y nos ayudarán mucho s
 Cualquiera que haya leído el _Díwán_ de Ibnu ’l-Fáriḍ en árabe <span id="p170">[<sup><small>p. 170</small></sup>]</span> admitirá que, si bien una traducción completa en verso inglés sería una empresa quijotesca, algunas odas enteras y no pocos pasajes de otras son adecuados para esa forma de traducción. Por lo tanto, en lugar de limitarme a la prosa, he tratado aquí y allá de capturar al menos las sombras de cosas que ninguna versión en prosa puede reproducir.
 
 &nbsp;&nbsp;_Má bayna ḍáli ’l-munḥaná wa-ẓilálihi_
-_ḍalla ’l-mutayyamu wa-’htadá bi-ḍalálihi_ [^541].
+_ḍalla ’l-mutayyamu wa-’htadá bi-ḍalálihi_ [^541].
 
 Donde los árboles de loto sobre el valle proyectan su sombra
 El amante frenético se extravió.
@@ -75,7 +75,7 @@ Perdió y en su pérdida
 Encontré el camino de nuevo:
 He aquí, en la ladera sur de aquella garganta
 La visión largamente deseada, que lejos parecía de su esperanza.
-Este es ‘Aqíq [^542], mi amigo!
+Este es ‘Aqíq [^542], mi amigo!
 ¡Alto! Aquí pasar eran extraños.
 Finge éxtasis, si tú ser
 No te dejes arrebatar, en verdad, y deja que tu mirada alcance libre:
@@ -108,7 +108,7 @@ Por su espejismo resplandeciente!
 La siguiente oda, aunque característicamente sutil, no presenta dificultades especiales:
 
 &nbsp;&nbsp;_Tih dalálan fa-anta ahlun li-dháká_
-_wa-taḥakkam fa-’l-ḥusnu qad a‘tákdá_ [^544].
+_wa-taḥakkam fa-’l-ḥusnu qad a‘tákdá_ [^544].
 
 Finge tímido desdén, porque bien tienes derecho;
 Y domina, porque la Belleza te ha dado poder.
@@ -182,7 +182,7 @@ Yo no amé con _sus_ corazones, para que yo siempre debería
 Olvídate de ti, ¡Dios no lo quiera! ¡Así que déjalos balbucear!
 ¿Cómo podría olvidarte? A cada relámpago
 Eso destella, he aquí, mi ojo se levanta para encontrarte.
-Si bajo la luz de tu _lithám_ [^547] sonríes
+Si bajo la luz de tu _lithám_ [^547] sonríes
 O respiras suavemente—y en el viento tu noticia llega—
 Contenta está mi alma cuando el claro amanecer de tus dientes laterales
 Irrumpe en mi vista, y sopla intensamente tu fragancia.
@@ -202,7 +202,7 @@ Enseñado por el Deseo de despertar durante las largas horas de la noche,
 Mi ojo ha ganado para verte mientras no duerme.
 Oh feliz, feliz noche en la que tu visión ¡Cacé con mi red de vigilia!
 La luna llena, siendo tu copia, representó
-Para mis ojos que no duermen la imagen de tu rostro [^549];
+Para mis ojos que no duermen la imagen de tu rostro [^549];
 Y en tal forma extraña tu aparición
 Enfrió la fiebre de mis ojos: te vi a ti, a nadie más.
 Así Abraham de antaño, el Amigo de Allah,
@@ -269,7 +269,7 @@ Y toda lengua que el amor hizo voluble,
 Y todo oído sordo se detuvo ante la reprensión,
 Y cada tapa no se deja caer en un sueño aburrido.
 Fuera en un amor que no tiene ojos derretidos!
-Afuera en una llama de la que no vuela ningún éxtasis [^555]!
+Afuera en una llama de la que no vuela ningún éxtasis [^555]!
 
 En exquisito contraste con este elaborado preludio hay otro pasaje de la misma oda, que describe la visión mística de la belleza divina que se revela en todas las cosas bellas.
 
@@ -291,7 +291,7 @@ Aquí el comentarista musulmán, sorprendido por un momento de sus elucubracione
 _Amá laki ‘an ṣaddin amálaki ‘an ṣadin_
 _li-ẓalmiki ẓulman minki maylun li-‘aṭfati_
 
-¿No tienes deseos de retirarte de una resistencia que te ha hecho alejarte, con agravio de tu parte, de alguien que tiene sed del agua de tus dientes [^557]?
+¿No tienes deseos de retirarte de una resistencia que te ha hecho alejarte, con agravio de tu parte, de alguien que tiene sed del agua de tus dientes [^557]?
 
 Sus extravagantes vuelos de fantasía suelen ir acompañados de una exaltación igual de sentimiento y sostenidos por el elemento ardiente en el que se mueven; a veces, sin embargo, se hunden en algo muy parecido al «humo dulce de la retórica», por ejemplo,
 
@@ -331,7 +331,7 @@ Además de los dos protagonistas, la poesía amorosa árabe presenta varias figu
 Y al hacer callar a quien me culpaba por tu causa, cuando no era momento de disputar por ti [^567], mi argumento fue tu rostro;
 Por lo cual, después de haber sido mi reprendidor, se convirtió en mi excusador; más aún, se convirtió en uno de mis ayudadores.
 Y, como vivo, mi victoria en la discusión sobre un guía cuyos reproches me habrían llevado por mal camino es como mis peregrinaciones mayores y menores [^568].
-Él percibió que mi oído desdeñoso era Rajab (sordo) a la bajeza y al falso consejo, y que la culpa hacia mí era al-Muḥarram (prohibida) [^569].
+Él percibió que mi oído desdeñoso era Rajab (sordo) a la bajeza y al falso consejo, y que la culpa hacia mí era al-Muḥarram (prohibida) [^569].
 Muchas veces me había pedido que olvidara tu amor y buscara a otro que no fuera tú, pero ¿cómo podría cambiar mi propósito fijo?
 Dijo: «Repara lo que queda en ti (de vida)». Respondí: «Me parece que mi mente no se dirige a ninguna parte sino hacia la muerte».
 Mi negativa lo rechazó todo, excepto frustrar a un consejero que me engañaría para mostrar una cualidad que nunca fue mía [^570],
@@ -368,7 +368,7 @@ Cuando la angustia del dolor se asienta en mi alma, el aroma de las hierbas fres
 Y sus moradas son mi deseo, sí, y su primavera es mi alegría y aleja de mí la más amarga angustia,
 Y sus montañas son para mí una morada primaveral, y sus arenas un pasto, y sus sombras diurnas son mis (frescas) sombras de la tarde,
 Y su tierra es mi especia fragante, y sus aguas un pozo lleno para mi sed, y en su suelo están mis riquezas,
-Y sus barrancos son para mí un jardín, y sus tiendas un escudo, y sobre sus peñascos está tranquilo mi corazón [^577]?
+Y sus barrancos son para mí un jardín, y sus tiendas un escudo, y sobre sus peñascos está tranquilo mi corazón [^577]?
 Que la lluvia bendiga esos lugares y colinas, y que las lluvias que se suceden unas a otras humedezcan esos hogares de abundancia,
 Y derramad abundancia sobre los santuarios de peregrinación y los guijarros de al-Miná, y rociad abundantemente los lugares de descanso de los cansados camellos!
 Y que Dios guarde a mis queridos compañeros allí con quienes pasé la noche con historias de encuentros de amantes!
@@ -389,7 +389,7 @@ De entre muchos pasajes de este tipo selecciono uno que es característico, porq
 ¿Han caído truenos y aguaceros en La‘la‘, y la lluvia que brota de las nubes la ha inundado?
 ¿Y descenderé a las aguas de al-‘Udhayb y Ḥájir abiertamente, cuando el misterio de la noche es declarado por el amanecer?
 ¿Y hay dunas verdes en el lugar de acampada de al-Wa‘sá? ¿Y volverá alguna vez la alegría que pasó allí?
-Y, oh vosotros, queridos habitantes de al-Naqá, ¿hay en las colinas de Najd alguien que relata de mí, para mostrar lo que encierran mis costillas [^581]?
+Y, oh vosotros, queridos habitantes de al-Naqá, ¿hay en las colinas de Najd alguien que relata de mí, para mostrar lo que encierran mis costillas [^581]?
 Y en la ladera de arena de Sal' preguntan noticias de un amante extasiado en Káẓima y dicen: «¿Cómo le está tratando la Pasión?»
 ¿Y se están recolectando las flores de las ramas de mirto? ¿Y en el Ḥijáz hay mimosas con bayas maduras?
 Y los tamariscos en el recodo del valle, ¿son fructíferos? ¿Y están dormidos los ojos del Tiempo despreciable?
@@ -401,7 +401,7 @@ Y los tamariscos en el recodo del valle, ¿son fructíferos? ¿Y están dormidos
 ¿Y las muchachas de al-Ghuwayr me mostrarán dónde habita mi Nu‘m en primavera? ¡Qué agradables son esas moradas!
 ¿Y la sombra de aquel sauce al este de Ḍárij todavía se extiende ampliamente? —porque mis lágrimas lo han regado.
 ¿Y Shi‘b ‘Amír está prosperando desde que nos fuimos? ¿Un día reunirá a los amantes?
-&nbsp;&nbsp;&nbsp;\*&nbsp;&nbsp;&nbsp;  \*&nbsp;&nbsp;&nbsp;  \*&nbsp;&nbsp;&nbsp;  \*&nbsp;&nbsp;&nbsp;  \*&nbsp;&nbsp;&nbsp;  \*&nbsp;&nbsp;&nbsp;  \*&nbsp;&nbsp;&nbsp;  \*
+&nbsp;&nbsp;&nbsp;\*&nbsp;&nbsp;&nbsp;  \*&nbsp;&nbsp;&nbsp;  \*&nbsp;&nbsp;&nbsp;  \*&nbsp;&nbsp;&nbsp;  \*&nbsp;&nbsp;&nbsp;  \*&nbsp;&nbsp;&nbsp;  \*&nbsp;&nbsp;&nbsp;  \*
 Tal vez cuando mis queridos camaradas en La Meca piensan en Sulaymá,
 ellos sentirán la llama enfriada de lo que sus pechos esconden,
 Y tal vez las dulces noches que se han desvanecido volverán a nosotros, para que un hombre esperanzado pueda ganar su deseo,
@@ -422,7 +422,7 @@ Cualquiera de las Odas proporcionará ejemplos de esta elocuencia árabe que tie
 En su famosa Oda del vino (Khamriyya), Ibnu ’l-Fáriḍ desarrolla un simbolismo que en otros lugares sólo utiliza de manera incidental. Su uso moderado del simbolismo <span id="p184">[<sup><small>p. 184</small></sup>]</span> puede atribuirse quizá a su respeto por la ley religiosa musulmana, del mismo modo que el sesgo antinómico de algunos místicos persas parece expresarse en la libertad de su imaginería bacanal. Según la costumbre de Ibnu ’l-Fáriḍ, el simbolismo es preciso y circunstancial, de modo que su interpretación es mucho más desconcertante que en las odas persas del mismo tipo, donde las ideas amplias y sencillas atraen fácilmente al lector. Espero que la traducción literal que se ofrece a continuación, junto con las notas que la acompañan, aclare bastante el significado, aunque podemos dudar de que el poeta hubiera aceptado siempre la interpretación dada por su comentarista, ‘Abdu ’l-Ghaní al-Nábulusí, que no sólo explica demasiado sino que introduce teorías filosóficas que pertenecen a Ibnu ’l-‘Arabí más que a Ibnu ’l-Fáriḍ. Sin embargo, no es necesario que entre ahora en esta cuestión.
 
 Sharibná 'alá dhikhri 'l-ḥabíbi mudámatan
-sakirná bihá min qabli an yukhlaqa ’l-karmu [^586].
+sakirná bihá min qabli an yukhlaqa ’l-karmu [^586].
 
 (1) En memoria del Amado bebimos un vino que nos embriagó antes de la creación de la vid [^587].
 
@@ -482,7 +482,7 @@ sakirná bihá min qabli an yukhlaqa ’l-karmu [^586].
 
 <span id="p187">[<sup><small>p. 187</small></sup>]</span>
 
-(27) La sutileza (esencial) de los vasos (formas) depende en verdad de la sutileza de las realidades; y por medio de los vasos las realidades aumentan [^598]
+(27) La sutileza (esencial) de los vasos (formas) depende en verdad de la sutileza de las realidades; y por medio de los vasos las realidades aumentan [^598]
 
 (28) Después de que se ha producido la división, de modo que, mientras el todo es uno, nuestros espíritus son un vino y nuestros cuerpos una vid.
 
@@ -602,7 +602,7 @@ tramittunt ualido quatientes impete campos.
 “La verdad y la plenitud de la vida en este pasaje se perciben inmediatamente, pero el elemento de sublimidad se agrega mediante el pensamiento en las dos líneas con las que concluye el pasaje, que reduce todo este espectáculo conmovedor y sonoro a la quietud y al silencio—
 
 et tamen est quidam locus altis montibus unde
-stare uidentur et in campis consistentere fulgor [^610].”
+stare uidentur et in campis consistentere fulgor [^610].”
 
 Un efecto similar y quizás aún más sorprendente se produce cuando Ibnu 'l-Fáriḍ, después de haber presentado ante sus lectores el espectáculo de vida agitada y lucha que llena el mundo, lo transforma de inmediato en una visión de orden y armonía eternos—
 

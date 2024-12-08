@@ -274,7 +274,7 @@ A. _láhút_. Divinidad. Vida que impregna todas las cosas.
 
 A. _lubb_. Médula. Inteligencia santificada y purificada de dudas y sospechas.
 
-P. _lab lab_. Rebosante. Bebiendo la Luz de Dios y teniendo la mirada fija en Él,
+P. _lab lab_. Rebosante. Bebiendo la Luz de Dios y teniendo la mirada fija en Él,
 
 P.A. _lab i lá’l_. Un labio de rubí. Las palabras no escuchadas pero entendidas de Dios [^1]. Conciencia.
 

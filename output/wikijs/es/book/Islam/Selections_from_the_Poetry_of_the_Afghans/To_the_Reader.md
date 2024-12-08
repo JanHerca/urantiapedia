@@ -33,14 +33,14 @@ dateCreated: 2024-11-11T11:3:15Z
 
 <span id="pv">[<sup><small>p. v</small></sup>]</span>
 
-Durante mis prolongadas investigaciones y mi largo estudio del idioma pashto, durante tantos años, y particularmente al hacer selecciones para mi obra titulada «Gulshan-i-Roh», [^0] no pude dejar de quedar muy impresionado por la belleza de algunos de los poemas de los afganos; tanto, de hecho, que hace mucho tiempo decidí, y finalmente ahora me atrevo a presentar al lector europeo, una traducción literal de varios poemas de los más célebres poetas afganos, junto con una breve mención de cada autor, en un estilo inglés.
+Durante mis prolongadas investigaciones y mi largo estudio del idioma pashto, durante tantos años, y particularmente al hacer selecciones para mi obra titulada «Gulshan-i-Roh», [^0] no pude dejar de quedar muy impresionado por la belleza de algunos de los poemas de los afganos; tanto, de hecho, que hace mucho tiempo decidí, y finalmente ahora me atrevo a presentar al lector europeo, una traducción literal de varios poemas de los más célebres poetas afganos, junto con una breve mención de cada autor, en un estilo inglés.
 
 Hay que recordar que estos poemas son efusiones de hombres que nunca disfrutaron de lo que llamamos los lujos de la vida; sin embargo, ¡cuán refinados son los sentimientos generales de sus hombres! De hombres que vivieron en un estado, como el de nuestros propios habitantes de la frontera, hace quinientos años, en violencia y en conflicto, y cuyos descendientes viven todavía así; sin embargo, ¡cuán exquisitamente patéticos son muchos de sus poemas, y cuán altruistas y benévolos son sus sentimientos e ideas! Habitando un hermoso país, con grandes y altas montañas, y valles verdes y fértiles, pero sin nada más que lo estrictamente necesario para la vida, ¡cuán simples y perfectos son sus símiles, y cuán fieles a la naturaleza! ¡Qué ardor patriótico, qué verdadero espíritu de libertad y amor a la patria exhibe gran parte de su poesía!
 
 También debe tenerse en cuenta que la mayor parte de los <span id="pvi">[<sup><small>p. vi</small></sup>]</span> escritores de los siguientes poemas, excepto Ahmad Shāh, Khushḥāl Khān y sus hijos, eran hombres que durante su vida apenas habían salido de los límites de su aldea natal o que habían consagrado su vida a la pobreza y la abstracción religiosa. Hombres que nunca escribieron para la fama y que nunca pensaron que los pensamientos más íntimos que habían ocupado sus corazones llegarían a encontrarse con los ojos de más de unos pocos amigos queridos y admiradores, después de que ellos mismos hubieran desaparecido de la escena para siempre. ¡Nunca imaginaron que aparecerían ante ningún público, y mucho menos europeo, en lengua sajona y traducidos por un farangī!
 
 “Lejos de la enloquecedora lucha innoble del mundo,
-   Sus sobrios deseos nunca aprendieron a desviarse;
+   Sus sobrios deseos nunca aprendieron a desviarse;
 A lo largo del fresco valle aislado de la vida,
 Mantuvieron el tenor silencioso de su camino.”
 

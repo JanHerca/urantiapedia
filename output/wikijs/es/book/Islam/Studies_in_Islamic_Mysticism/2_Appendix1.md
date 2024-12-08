@@ -62,7 +62,7 @@ _v_. ١٣. El MS. y K leen ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14
 
 _v_. ١٦. El manuscrito dice ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14501.jpg) en lugar de ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14502.jpg).
 
-_v_. ٢٠. La rima en este poema es _muqayyad_. Ni siquiera Jílí podría haber escrito ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14503.jpg) aquí, o ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14504.jpg), (4, _v_. ٢٢). Él ignora la regla de que en esta forma de Ṭawíl el tercer pie del segundo hemistiquio debe ser   ̆  ̄  ̆ (no   ̆  ̄  ̄).
+_v_. ٢٠. La rima en este poema es _muqayyad_. Ni siquiera Jílí podría haber escrito ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14503.jpg) aquí, o ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14504.jpg), (4, _v_. ٢٢). Él ignora la regla de que en esta forma de Ṭawíl el tercer pie del segundo hemistiquio debe ser   ̆  ̄  ̆ (no   ̆  ̄  ̄).
 
 <span id="p146">[<sup><small>p. 146</small></sup>]</span>
 

@@ -44,7 +44,7 @@ Al igual que los grandes paganos, el Hâjî sostiene que el hombre nació bueno,
 
 <span id="p128">[<sup><small>p. 128</small></sup>]</span>
 
-> &nbsp;Mâyâ mare, na man mare, mar mar gayâ, sarîr.
+> &nbsp;Mâyâ mare, na man mare, mar mar gayâ, sarîr.
 > La ilusión muere, la mente no muere aunque muerta y desaparecida la carne.
 
 He dicho que el Nirwâna es la extinción parcial por fusión con el Supremo, que no debe confundirse con el Pari-nirwâna o la aniquilación absoluta. En el primero también, la muerte da nacimiento a un nuevo ser, la encarnación del karma (las acciones), el bien y el mal, realizados en las incontables eras de la transmigración.

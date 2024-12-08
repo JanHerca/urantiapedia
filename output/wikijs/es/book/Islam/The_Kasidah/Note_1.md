@@ -146,7 +146,7 @@ El Hâjî, además, distingue cuidadosamente entre el funcionamiento del destino
 
 Así también, la creencia en una Ley fija, frente a una voluntad arbitraria, modifica las opiniones de los Hâjî sobre la búsqueda de la felicidad. La humanidad, _das rastlose Ursachenthier_, nace para ser en general igualmente feliz y miserable. Los organismos más elevados, la fina porcelana de nuestra familia, son los que más disfrutan y los que más sufren: tienen la capacidad de elevarse al empíreo del placer y de sumergirse profundamente en el río de rápida corriente del dolor y la pena. Así Dante (Inf. vi. 106):
 
-> &nbsp;  —tua scienza
+> &nbsp;  —tua scienza
 > Che vuol, quanto la cosa à più perfetta
 > Più senta 'l bene, e cosi la doglienza.
 

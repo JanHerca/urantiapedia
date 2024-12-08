@@ -32,7 +32,7 @@ dateCreated: 2024-11-26T20:22:12Z
   </table>
 </figure>
 
-ANÁLISIS DEL _Taqrib_ DE ABU SHUJA AL-ISPAHANI [^6]
+ANÁLISIS DEL _Taqrib_ DE ABU SHUJA AL-ISPAHANI [^6]
 
 _Libro I_. _De la Pureza Ceremonial_ (_Tahara_)
 

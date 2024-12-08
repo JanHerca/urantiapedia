@@ -95,9 +95,9 @@ LAS ENSEÑANZAS DE ZOROASTRO. Traducido con introducción del Dr. S. A. Kapadia,
 
 LOS MÍSTICOS PERSAS.
 
-  I. Jalálu’d-dín Rúmí. Por F. Hadland Davis. 2/- neto.
+  I. Jalálu’d-dín Rúmí. Por F. Hadland Davis. 2/- neto.
 
-  II. Jamí. Por F. Hadland Davis. 2/- neto.
+  II. Jamí. Por F. Hadland Davis. 2/- neto.
 
 EL CAMINO DEL BUDA. Selecciones de los textos budistas, junto con el Pali original, con Introducción de Herbert Baynes, M.R.A.S. 2/- neto.
 

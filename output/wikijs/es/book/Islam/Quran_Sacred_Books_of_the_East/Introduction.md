@@ -209,7 +209,7 @@ Mahoma había cumplido ya los cuarenta años cuando recibió las primeras revela
 
 También tenía la costumbre de pasar largos períodos en soledad y en profunda reflexión; y estaba profundamente impresionado por la falsedad e inmoralidad de la religión de sus compatriotas y con horror ante sus prácticas viciosas e inhumanas, y tenía como mejores amigos a hombres, como su primo Waraqah y Zâid ibn Amr, que, según se decía, habían estado buscando la verdad durante mucho tiempo y que habían renunciado públicamente a la religión popular.
 
-Por fin, durante una de sus estancias solitarias en el monte Hirâ, una montaña salvaje y solitaria cerca de La Meca, un ángel se le apareció y le ordenó: «¡LEE [^2]!» «¡No soy lector!», respondió Mahoma con gran inquietud, ante lo cual el ángel lo sacudió violentamente y nuevamente le ordenó que leyera.
+Por fin, durante una de sus estancias solitarias en el monte Hirâ, una montaña salvaje y solitaria cerca de La Meca, un ángel se le apareció y le ordenó: «¡LEE [^2]!» «¡No soy lector!», respondió Mahoma con gran inquietud, ante lo cual el ángel lo sacudió violentamente y nuevamente le ordenó que leyera.
 
 <span id="pxxi">[<sup><small>p. xxi</small></sup>]</span> Esto se repitió tres veces, cuando el ángel pronunció los cinco versículos que comienzan el capítulo 96:
 
@@ -666,7 +666,7 @@ Según la teología musulmana, Alá es eterno y perdurable, uno e indivisible, n
 
 Sus atributos se expresan mediante noventa y nueve epítetos utilizados en el Corán, que en árabe son palabras simples, generalmente formas participiales, pero en la traducción a veces se traducen mediante verbos, como, 'Él oye' en lugar de 'Él es el oyente'.
 
-Estos atributos constituyen los Asmâ’ el ‘Husnâ, ‘los buenos nombres [^14]’, bajo los cuales los musulmanes invocan a Dios; son noventa y nueve en número, y son los siguientes:
+Estos atributos constituyen los Asmâ’ el ‘Husnâ, ‘los buenos nombres [^14]’, bajo los cuales los musulmanes invocan a Dios; son noventa y nueve en número, y son los siguientes:
 
 1\. ar-Ra'hmân, el Misericordioso.
 
@@ -890,7 +890,7 @@ Las nociones del puente sobre el infierno, Es Sirâ_t_, y del muro divisorio, El
 
 Iblîs o _S_aitân, ‘el diablo’ o ‘Satanás’, fue originalmente un ángel que cayó del paraíso debido a su orgullosa negativa a adorar a Adán [^18].
 
-Además de los ángeles, están los _g_inn (colectivamente _g_ânn), de los que he hablado antes. Son creados a partir del fuego <span id="plxx">[<sup><small>p. lxx</small></sup>]</span> y son tanto buenos como malos, siendo estos últimos generalmente llamados 'Ifrît'. Su morada es el Monte Qâf, la cadena montañosa que rodea el mundo. Estas son las criaturas sobre las que Salomón tenía control, y una tribu de las cuales se convirtió al Islam por la predicación de Mahoma a su regreso de _T_â’if [^19].
+Además de los ángeles, están los _g_inn (colectivamente _g_ânn), de los que he hablado antes. Son creados a partir del fuego <span id="plxx">[<sup><small>p. lxx</small></sup>]</span> y son tanto buenos como malos, siendo estos últimos generalmente llamados 'Ifrît'. Su morada es el Monte Qâf, la cadena montañosa que rodea el mundo. Estas son las criaturas sobre las que Salomón tenía control, y una tribu de las cuales se convirtió al Islam por la predicación de Mahoma a su regreso de _T_â’if [^19].
 
 Las dos clases de seres, humanos y sobrehumanos, por los que el mundo está habitado se llaman ETH-THagalân, ‘las dos materias de peso’, o el ’Hâlamûn, ‘los mundos’, como en la expresión del Capítulo Inicial, ‘Señor de los mundos’.
 
@@ -957,7 +957,7 @@ Otro de los deberes que incumbe a todo creyente <span id="plxxiii">[<sup><small>
 
 Una noche entre el veintiuno y el veintinueve de Ramadán, cuya fecha exacta es incierta, se llama Lailat el Qadr o «noche del poder»; en ella se dice que el Corán fue revelado [^23].
 
-El zakât, ‘limosna [^24]’ o ‘impuesto a los pobres’, debe entregarse en dinero, acciones o bienes, y consiste en la donación en caridad de aproximadamente una cuarentava parte de todos los bienes que hayan estado en posesión del propietario durante un año. En la época de Mahoma, el zakât era una contribución de sus seguidores para los gastos de la guerra contra los infieles.
+El zakât, ‘limosna [^24]’ o ‘impuesto a los pobres’, debe entregarse en dinero, acciones o bienes, y consiste en la donación en caridad de aproximadamente una cuarentava parte de todos los bienes que hayan estado en posesión del propietario durante un año. En la época de Mahoma, el zakât era una contribución de sus seguidores para los gastos de la guerra contra los infieles.
 
 Sadaqah es el nombre que se aplica a cualquier donación caritativa más allá de lo prescrito por la ley, especialmente a las ofrendas en el 'hîd al fi_t_r, o 'fiesta de romper el ayuno', al expirar el Ramadán.
 
@@ -1029,10 +1029,10 @@ En mi versión me he ceñido, en su mayor parte, a la interpretación del coment
 
 Soy plenamente consciente de las deficiencias de mi propia versión, pero si he tenido éxito en mi esfuerzo de exponer ante el lector claramente qué es el Corán y qué contiene, mi objetivo se habrá cumplido.
 
-EH PALMER.               
+EH PALMER.               
 
 COLEGIO DE SAN JUAN, CAMBRIDGE,
-           Marzo de 1880.
+           Marzo de 1880.
 
 
 <br>

@@ -156,27 +156,27 @@ En sí mismo un arco que da la bienvenida al Amigo.
 ## IV
 
 Mi corazón ansioso una punzada de éxtasis pica
-   Cuando el viento que vaga por largo tiempo me trae
+   Cuando el viento que vaga por largo tiempo me trae
 &nbsp;&nbsp;&nbsp;&nbsp;El perfume de tu presencia en sus alas.
 
 Y así espero en esta noche de mi dolor,
-   Hasta que des a mi vista cansada
+   Hasta que des a mi vista cansada
 &nbsp;&nbsp;&nbsp;&nbsp;Tu belleza para el deleite de mis ojos anhelantes.
 
 El mundo a través del Islam vio la luz en la oscuridad
-   Y caminó seguro guiado por tu Pergamino de la Ley,
+   Y caminó seguro guiado por tu Pergamino de la Ley,
 &nbsp;&nbsp;&nbsp;&nbsp;Inclinándose ante Dios con esperanza y santo temor—
 
 A Dios, Quien los pecadores pueden perdonar y guiar,
-   Inescrutable Él mismo, pero ¿quién puede leer?
+   Inescrutable Él mismo, pero ¿quién puede leer?
 &nbsp;&nbsp;&nbsp;&nbsp;El corazón oculto y comprender su necesidad.
 
 Oh Profeta, brillando como una gema solitaria,
-   La más bella de las diademas más altas del Cielo,
+   La más bella de las diademas más altas del Cielo,
 &nbsp;&nbsp;&nbsp;&nbsp;Mira la necesidad de los hombres e intercede por ellos.
 
 Tú eres el velo a través del cual brilla la luz,
-   No, tú mismo eres la antorcha divina—
+   No, tú mismo eres la antorcha divina—
 &nbsp;&nbsp;&nbsp;&nbsp;Nada más contempla estos ojos deslumbrados míos.
 
 <span id="p31">[<sup><small>p. 31</small></sup>]</span>
@@ -471,12 +471,12 @@ Pero, Makhfi, piensa qué secreto gozo es tuyo,
 ## XII
 
 Amigos tenia yo, muchos amigos, que compartieron conmigo
-&nbsp;&nbsp;&nbsp;&nbsp;  Días alegres y tristes,
+&nbsp;&nbsp;&nbsp;&nbsp;  Días alegres y tristes,
 Pero los míos ya no están, soy libre
 &nbsp;&nbsp;&nbsp;&nbsp;De todo lo que tenia.
 
 El polvo cae dentro de la taza de Kaikobad
-&nbsp;&nbsp;&nbsp;&nbsp;  Y el rey Jamshid,
+&nbsp;&nbsp;&nbsp;&nbsp;  Y el rey Jamshid,
 Ni apesta el mundo si estaban tristes o contentos,
 &nbsp;&nbsp;&nbsp;&nbsp;O lo que hicieron.
 
@@ -1157,7 +1157,7 @@ Así que yo me pulo con el aceite del amor
 Estiro en vano las manos implorantes que tanto tiempo
 Para tocar la reluciente prenda de la Esperanza mientras vuela;
 Aunque mi deseo puede fallar, pero la esperanza es fuerte
-&nbsp;&nbsp;&nbsp;  Y entusiasta, y nunca muere.
+&nbsp;&nbsp;&nbsp;  Y entusiasta, y nunca muere.
 
 Cuando en la copa que contenía la bebida divina
 De la fiesta de anoche la luz de la mañana cae,

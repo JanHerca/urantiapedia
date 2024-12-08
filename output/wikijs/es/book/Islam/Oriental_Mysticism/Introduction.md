@@ -39,8 +39,8 @@ dateCreated: 2024-11-10T11:17:18Z
 Tu alfombra de oración se mancha con vino, si es así
 Puedes ganar el favor del mago,
 Para los viajeros en la tierra debe saber
-  Los usos y costumbres de la posada.
-                                    HÁFIZ.
+  Los usos y costumbres de la posada.
+                                    HÁFIZ.
 
 El verso citado arriba, como la mayoría de los escritos poéticos orientales, es susceptible de una interpretación mística y mucho más elevada de la que parece a partir de una lectura meramente superficial. Es peculiarmente ilustrativo de la forma alegórica bajo la cual la vida intelectual del filósofo religioso es tratada por los persas, a saber, la de un viaje, cuyo objetivo último es el conocimiento de la Majestad Infinita de Dios; un plan similar al adoptado con referencia a la vida moral por nuestro propio John Bunyan en El progreso del peregrino. Al comienzo de sus tratados, el término Viajero se aplica sólo al hombre intelectual, pero la palabra se usa después en un sentido más amplio.
 

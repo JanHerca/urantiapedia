@@ -122,7 +122,7 @@ Vemos así que para los sufíes el amor entre el hombre y la mujer es una imagen
 
 La historia del misticismo contiene muchas canciones de amor apasionadas al Absoluto, pero en la poesía sufí hay una riqueza peculiar, una profundidad, un color que fascina y encanta a muchos de nosotros.
 
-La poesía sufí abunda en alegorías y romances amorosos, las historias de Laylā y Majnūm, Yūsuf y Zulaikā, Salāmān y Absāl, en las que es fácil leer el significado oculto de la pasión por el Absoluto. Varios son los temas de amor de los sufíes; escuchamos canciones sobre: el ruiseñor enamorado de la rosa, la polilla revoloteando alrededor de la luz de la vela, la paloma gimiente que ha perdido a su pareja, la nieve que se derrite en el desierto y se eleva como vapor hacia el cielo, de una noche oscura en el desierto a través de la cual un camello frenético <span id="p16">[<sup><small>p. 16</small></sup>]</span> se sumerge locamente, de una caña arrancada de su lecho y convertida en flauta cuya música quejumbrosa llena los ojos de lágrimas.  [^0]
+La poesía sufí abunda en alegorías y romances amorosos, las historias de Laylā y Majnūm, Yūsuf y Zulaikā, Salāmān y Absāl, en las que es fácil leer el significado oculto de la pasión por el Absoluto. Varios son los temas de amor de los sufíes; escuchamos canciones sobre: el ruiseñor enamorado de la rosa, la polilla revoloteando alrededor de la luz de la vela, la paloma gimiente que ha perdido a su pareja, la nieve que se derrite en el desierto y se eleva como vapor hacia el cielo, de una noche oscura en el desierto a través de la cual un camello frenético <span id="p16">[<sup><small>p. 16</small></sup>]</span> se sumerge locamente, de una caña arrancada de su lecho y convertida en flauta cuya música quejumbrosa llena los ojos de lágrimas.  [^0]
 
 ## EL AMADO
 
@@ -134,14 +134,14 @@ Siendo panteístas, probablemente creían que Él era la Luz Única que brillaba
 Cada instante el Amado asume una nueva vestimenta, ahora de viejo, ahora de juventud.
 Ahora se sumergió en el corazón de la sustancia del barro del alfarero: el Espíritu se sumergió como un buzo.
 Anónimo Se levantó de las profundidades del barro que está moldeado y horneado,
-Entonces él apareció en el mundo.”  [^1]
+Entonces él apareció en el mundo.”  [^1]
 
 Y Jāmī declara:
 
 “En el vecino, amigo, compañero, a Él vemos,
 En harapos de mendigo o túnicas de realeza,
 En la celda de la Unión o en lugares de distracción,
-No hay nadie más que Él, por Dios, no hay nadie más que Él.”  [^2]
+No hay nadie más que Él, por Dios, no hay nadie más que Él.”  [^2]
 
 <span id="p17">[<sup><small>p. 17</small></sup>]</span>
 
