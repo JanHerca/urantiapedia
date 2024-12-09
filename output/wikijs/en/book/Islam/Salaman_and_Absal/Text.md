@@ -13,7 +13,7 @@ dateCreated: 2024-11-18T23:1:26Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Islam/Salaman_and_Absal/Life_of_Jami">
+        <a href="Life_of_Jami">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Life of Jámi</span>
         </a>
         </td>
@@ -23,7 +23,7 @@ dateCreated: 2024-11-18T23:1:26Z
         </a>
         </td>
         <td>
-        <a href="/en/book/Islam/Salaman_and_Absal/Appendix">
+        <a href="Appendix">
           <span class="pr-2">Appendix</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -1624,7 +1624,7 @@ And set my Seal:
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Islam/Salaman_and_Absal/Life_of_Jami">
+        <a href="Life_of_Jami">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Life of Jámi</span>
         </a>
         </td>
@@ -1634,7 +1634,7 @@ And set my Seal:
         </a>
         </td>
         <td>
-        <a href="/en/book/Islam/Salaman_and_Absal/Appendix">
+        <a href="Appendix">
           <span class="pr-2">Appendix</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

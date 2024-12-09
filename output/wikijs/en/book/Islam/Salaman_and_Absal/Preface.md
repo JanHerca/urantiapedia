@@ -20,7 +20,7 @@ dateCreated: 2024-11-18T23:1:26Z
         </a>
         </td>
         <td>
-        <a href="/en/book/Islam/Salaman_and_Absal/Life_of_Jami">
+        <a href="Life_of_Jami">
           <span class="pr-2">Life of Jámi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -84,7 +84,7 @@ Little wants Man here below, nor little long.”
         </a>
         </td>
         <td>
-        <a href="/en/book/Islam/Salaman_and_Absal/Life_of_Jami">
+        <a href="Life_of_Jami">
           <span class="pr-2">Life of Jámi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

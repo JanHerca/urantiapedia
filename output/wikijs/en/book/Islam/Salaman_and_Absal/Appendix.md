@@ -13,7 +13,7 @@ dateCreated: 2024-11-18T23:1:26Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Islam/Salaman_and_Absal/Text">
+        <a href="Text">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salámán and Absál</span>
         </a>
         </td>
@@ -23,7 +23,7 @@ dateCreated: 2024-11-18T23:1:26Z
         </a>
         </td>
         <td>
-        <a href="/en/book/Islam/Salaman_and_Absal/Notes">
+        <a href="Notes">
           <span class="pr-2">Notes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -109,7 +109,7 @@ Bondman-Jámi from Night Ringlet you.
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Islam/Salaman_and_Absal/Text">
+        <a href="Text">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salámán and Absál</span>
         </a>
         </td>
@@ -119,7 +119,7 @@ Bondman-Jámi from Night Ringlet you.
         </a>
         </td>
         <td>
-        <a href="/en/book/Islam/Salaman_and_Absal/Notes">
+        <a href="Notes">
           <span class="pr-2">Notes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

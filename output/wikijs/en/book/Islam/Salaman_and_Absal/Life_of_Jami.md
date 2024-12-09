@@ -13,7 +13,7 @@ dateCreated: 2024-11-18T23:1:26Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Islam/Salaman_and_Absal/Preface">
+        <a href="Preface">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Preface</span>
         </a>
         </td>
@@ -23,7 +23,7 @@ dateCreated: 2024-11-18T23:1:26Z
         </a>
         </td>
         <td>
-        <a href="/en/book/Islam/Salaman_and_Absal/Text">
+        <a href="Text">
           <span class="pr-2">Salámán and Absál</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -97,7 +97,7 @@ and Abdallah went on to write that and four other Poems which Persia continues a
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Islam/Salaman_and_Absal/Preface">
+        <a href="Preface">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Preface</span>
         </a>
         </td>
@@ -107,7 +107,7 @@ and Abdallah went on to write that and four other Poems which Persia continues a
         </a>
         </td>
         <td>
-        <a href="/en/book/Islam/Salaman_and_Absal/Text">
+        <a href="Text">
           <span class="pr-2">Salámán and Absál</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
