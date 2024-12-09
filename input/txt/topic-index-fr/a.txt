@@ -213,7 +213,7 @@ Esprit absolu (personne) | | Esprit infini | PERSON | OK
 
 Personne absolue | | Fils Éternel | PERSON | OK
 
-Absolus | | Absolu | COMMANDE | OK
+Absolus | | Absolu | ORDER | OK
 de l'actualité
 	il est composé du Fils, de l'Esprit et du Paradis (104:5.2) (115:3.14)
 	Les existants du cosmos ont leur centre dans les Absolus d'actualité (115:3.14)
@@ -591,11 +591,11 @@ Le jugement est la fonction la plus élevée de tout gouvernement, et ceux qui s
 
 Expression de l'Ajusteur | | Ajusteurs de Pensée | | OK
 
-Mortels fusionnés avec les Ajusteurs | | Mortels ascendants | ORDRE | OK
+Mortels fusionnés avec les Ajusteurs | | Mortels ascendants | ORDER | OK
 
 Fusion de l'ajusteur | | fusion:Fusion de l'ajusteur | | OK
 
-esprits mentaux adjuvats; esprits adjuvats; esprit d'intuition; esprit de compréhension; esprit de courage; esprit de connaissance; esprit de conseil; esprit d'adoration; esprit de sagesse; adjuvat d'intuition; adjuvat d'adoration; adjuvats des univers locaux | (34:4.10) (36:5) (42:10.4) (65:7) | | ORDRE | OK
+esprits mentaux adjuvats; esprits adjuvats; esprit d'intuition; esprit de compréhension; esprit de courage; esprit de connaissance; esprit de conseil; esprit d'adoration; esprit de sagesse; adjuvat d'intuition; adjuvat d'adoration; adjuvats des univers locaux | (34:4.10) (36:5) (42:10.4) (65:7) | | ORDER | OK
 défini comme
 	ils ressemblent davantage à des circuits qu'à des entités (36:5.4) (65:7.3)
 	ils ne fonctionnent pas comme des personnalités en dehors du Ministre Divin, ils sont un niveau de conscience de l'Esprit Mère (36:5.3-4) (117:5.10) (194:2.12,18)
@@ -680,7 +680,7 @@ fonction
 	ils sont unifiés sous la direction de l'esprit de sagesse (112:6.9)
 	L’octroi de l’esprit aux adjuvats, bien qu’il ne s’agisse pas d’une évolution physique, dépend entièrement de la capacité cérébrale conférée par des développements purement physiques et évolutifs. (58:6.7)
 
-adjuvants des circuits de Havona; douze adjuvants; Douze adjuvants des circuits de Havona | | | ORDRE | OK
+adjuvants des circuits de Havona; douze adjuvants; Douze adjuvants des circuits de Havona | | | ORDER | OK
 Chaque Esprit de Circuit a douze de ces aides. Nous, mortels d'Urantia, serons un jour amenés devant le septième Esprit de Circuit, celui d'Orvonton, et devant lui ses douze adjuvants de circuits. Là, nous devrons prouver notre conformité aux exigences pour avancer vers Havona (26:5.5).
 Dans la classification des êtres, on les retrouve parmi les soi-disant Esprits Suprêmes qui font partie des êtres d'une seule origine, descendants d'une seule Déité (30:1.59)
 
@@ -690,7 +690,7 @@ Ils font partie du quatrième ordre de Séraphins, les Séraphins administrateur
 les législateurs administratifs | | | ORDER | OK
 Ils font partie des sept groupes d'êtres appelés les Reproducteurs Célestes, qui se consacrent à la reproduction des choses de valeur suprême au niveau morontiel. Les acteurs administratifs sont ceux qui décrivent l'importance de la philosophie gouvernementale et de la technique administrative, les dramaturges célestes de la souveraineté. (44:2.9)
 
-séraphins administrateurs; administrateurs séraphiques; quatrième ordre de séraphins; anges administrateurs | (39:4) | séraphins | ORDRE | OK
+séraphins administrateurs; administrateurs séraphiques; quatrième ordre de séraphins; anges administrateurs | (39:4) | séraphins | ORDER | OK
 le dirigeant actuel d'Urantia est assisté par un millier d'entre eux (39:4.3)
 ils forment le quatrième ordre des Séraphins et sont affectés aux tâches administratives des systèmes locaux. Ils sont originaires des capitales des systèmes mais on les trouve aussi dans les sphères architecturales et les mondes habités (39:4.1)
 Beaucoup de membres de cet ordre furent perdus dans la rébellion de Lucifer. C'était l'ordre le plus endommagé. Manotia était un ange loyal qui réussit à sauver les deux tiers d'entre eux, mais un tiers fut perdu. Sur Urantia, la situation fut plus désastreuse car environ la moitié des administrateurs Séraphins soutenaient la cause de Lucifer. (53:6.2,4) (53:7.6) (67:3.2)
@@ -1162,7 +1162,7 @@ en Chine, au Japon et en Inde (79:8,3) (94:5,7)
 	Le bouddhisme s’est rapidement amalgamé aux pratiques rituelles persistantes du culte des ancêtres. (94:11.1)
 	Le culte des ancêtres a constitué autrefois une avancée décisive dans l’évolution religieuse, mais il est à la fois étonnant et regrettable que ce concept primitif persiste en Chine, au Japon et en Inde au milieu de tant de choses relativement plus avancées, comme le bouddhisme et l’hindouisme. (92:6.20)
 
-Anciens des Jours; Ancien des Jours | (15:0.2) (15:2.8) (15:10.3) (18:3) | Anciens des Jours d'Uversa | ORDRE | OK
+Anciens des Jours; Ancien des Jours | (15:0.2) (15:2.8) (15:10.3) (18:3) | Anciens des Jours d'Uversa | ORDER | OK
 qui ils sont
 	ils sont annotés dans des registres de personnalité (30:1.10) (30:2.25)
 	ils sont comptés parmi les Créateurs suprêmes (56:5.3) (116:2.4-12)
@@ -1461,7 +1461,7 @@ Monde angélique; troisième sphère de transition | | Jérusalem: mondes cultur
 ce monde est le troisième monde culturel de transition de Jérusalem, la capitale de Satania (45:1.5)
 en atteignant la troisième maisonnia, le troisième satellite du monde de transition numéro un, la permission est accordée de visiter le monde des anges (47:5.2)
 
-anges | (26:1) | Esprit infini : famille de | ORDRE | OK
+anges | (26:1) | Esprit infini : famille de | ORDER | OK
 tous les groupes d'anges ont leur propre corps de transport (39:2.8)
 Dans Le Livre d'Urantia, le terme ange est limité aux séraphins au service des mortels (38:3.1)
 le chef supernaphin est l'ange modèle original (27:2.1)
@@ -1927,7 +1927,7 @@ Ararat | | Mont Ararat | PLACE | OK
 Arbela | | | PLACE | OK
 L'une des villes visitées par Jésus, les douze et les soixante-dix, lors de la mission de Pérée entre le 3 janvier 30 jusqu'à la mort de Jésus (165:0.1)
 
-archanges; Archanges | (37:3) | circuit des archanges; chef des archanges de Nébadon | ORDRE | OK
+archanges; Archanges | (37:3) | circuit des archanges; chef des archanges de Nébadon | ORDER | OK
 ce sont les anges de la résurrection (47:3.2) (74:2.8) (189:2.1)
 Les archanges sont l’un des rares groupes de personnalités de l’univers local qui ne sont normalement pas sous la juridiction de Gabriel. (37:3.2)
 Le corps des archanges de Nébadon est dirigé par le premier-né de cet ordre. (37:3.3)
@@ -2181,7 +2181,7 @@ En Inde
 
 fils trinitisés par l'ascendeur | | fils trinitisés par la créature; trinitisation | | OK
 
-mortels ascendants; ascendeurs; mortel ascendant; carrière ascendante | | fusion:Fusion Ajusteur; mortels | ORDRE | OK
+mortels ascendants; ascendeurs; mortel ascendant; carrière ascendante | | fusion:Fusion Ajusteur; mortels | ORDER | OK
 le chemin de l'ascension
 	six stades d'existence spirituelle sont prévus pour les mortels ascendants ; et l'existence d'un septième stade est postulée (31:3.3-6) (106:2.8) (117:5.3)
 	les sept étapes de la carrière ascendante de l'univers sont : (30:4) (31:3.4)
@@ -2258,10 +2258,10 @@ Jésus en tant que mortel ascendant
 	Le cinquième don de Michael fut de s'incarner en Eventod, un pèlerin ascendant d'origine mortelle sur Uversa, pendant onze années Orvonton (119:5).
 	En une seule vie courte, Jésus a-t-il traversé cette expérience de progression spirituelle religieuse que l'homme commence sur terre et qu'il n'atteint généralement qu'à la fin de son long séjour dans les écoles de formation spirituelle des niveaux successifs de la carrière pré-paradisiaque (196:2.2) ?
 
-pèlerins ascendants; pèlerins du temps | | mortels ascendants | ORDRE | OK
+pèlerins ascendants; pèlerins du temps | | mortels ascendants | ORDER | OK
 les pèlerins ascendants ou pèlerins du temps sont les mortels ascendants accrédités pour l'ascension au Paradis (7:5.5,8) (8:3.8) (13:1.21) (14:3.4) (14:5.4-5) (15:7.10) (15:11.2) (16:3.14) (19:6.2) (22:2.2,4) (24:6.1) (25:3.13) (26:2.2) (26:3.1-2,8) (26:4.2) (26:5.1,3) (26:6.2) (26:7.1) (26:8.1) (26:10.7) (26:11.1,3,6) (27:0.11) (27:3.2-3) (28:6.20) (30:2,156) (30:3,13) (30:4,1) (31:5,1) (35:7,3) (35:10,1) (35:10,3) (39:1,11) (39:4,18) (48:6,29) (113:7,5) (115:6,5) (117:3,4) (117:6.14)
 
-fils ascendants de Dieu | | Fils de Dieu : ordres | ORDRE | OK
+fils ascendants de Dieu | | Fils de Dieu : ordres | ORDER | OK
 
 Ascendington | (13:1.21-23) | sphères sacrées du Paradis | PLACE | OK
 Ascendington est le septième monde des sept qui constituent le circuit du Père entourant immédiatement le Paradis (13:1.1)
@@ -2382,7 +2382,7 @@ Sentinelle assignée de Satania | | Sentinelles assignées | PERSON | OK
 la Sentinelle Désignée de Satania est le chef ex officio du conseil des 24 conseillers, le représentant direct et personnel de l'Inspecteur Associé de Salvington et de l'Exécutif Suprême d'Orvonton. (24:5.3) (114:2.3)
 il a conseillé Gabriel dans la rébellion de Lucifer (54:5.10)
 
-Sentinelles assignées; Sentinelle assignée | (24:5) | Sentinelle assignée de Satania | ORDRE | OK
+Sentinelles assignées; Sentinelle assignée | (24:5) | Sentinelle assignée de Satania | ORDER | OK
 Les Sentinelles assignées sont des personnalités de coordination et des représentants de liaison des Sept Exécutifs suprêmes. Elles ont été personnalisées au Paradis par l'Esprit Infini et ont été créées pour les besoins spécifiques de leur mission. Elles sont en nombre stationnaire et il y en a exactement sept milliards en existence. (24:5.1)
 ils sont les représentants des dirigeants suprêmes des superunivers auprès des systèmes locaux (24:0.10) (24:5.1-2) (37:8.5) (55:8.2)
 sirven en rotation (24:5.3)
@@ -2393,14 +2393,14 @@ ils apparaissent dans les registres de personnalité (30:1.76) (30:2.72)
 les omniaphins sont les représentants personnels des Sentinelles assignées aux planètes de lumière et de vie (55:4.16)
 Les inspecteurs associés reçoivent des rapports et des recommandations uniquement de leurs subordonnés, les sentinelles assignées (24:4.3) (24:5.2)
 
-professeurs assistants | | séraphins | ORDRE |vOK
+professeurs assistants | | séraphins | ORDER |vOK
 Les assistants enseignants sont les aides et les associés de leurs collègues séraphins, les conseillers enseignants. (39:2.7)
 Un corps merveilleux de cet ordre de séraphins fonctionne sur Urantia dans le but de favoriser et de faire progresser la cause de la vérité et de la droiture. (39:2.7)
 
 Superviseurs de circuit associés | | | ORDER | OK
 ils font partie de l'ordre des Superviseurs des Circuits de l'Univers ; ils dirigent les circuits des superunivers (24:1.2-8)
 
-Inspecteurs associés | (24:4) | | COMMANDE | OK
+Inspecteurs associés | (24:4) | | ORDER | OK
 Les Inspecteurs Associés sont l'incarnation personnelle de l'autorité des Exécutifs Suprêmes dans les univers locaux du temps et de l'espace. Ces hauts observateurs des affaires des créations locales sont les rejetons conjoints de l'Esprit Infini et des Sept Esprits Maîtres du Paradis. Dans les temps proches de l'éternité, sept cent mille furent personnalisés, et leur corps de réserve demeure au Paradis. (24:4.1)
 ils dirigent les Sentinelles assignées dans la lumière et la vie de l'univers local (55:10.3)
 l'un d'eux incarne l'autorité des Exécutifs suprêmes de chaque univers local (24:0.10) (24:4.1-2) (24:5.2) (37:8.5)
@@ -2644,7 +2644,7 @@ Dans la culture populaire d'Urantia, Avalon est le nom d'une île mythologique l
 l'évitement a eu une place dans l'évolution des pratiques religieuses (90:0.1)
 rituels d'évitement fusionnés avec l'exorcisme, la coercition et la propitiation (89:0.2)
 
-Avonals, ordre des | | Fils Magistraux | ORDRE | OK
+Avonals, ordre des | | Fils Magistraux | ORDER | OK
 
 axes; hache | | | | OK
 Les Néandertaliens fabriquaient des haches avec du silex (64:4.3)

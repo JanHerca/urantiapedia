@@ -19,7 +19,7 @@ lapins | (61:2.7) | | |
 
 ratons laveurs | (61:3.13) | | |
 
-commissaires de course | | | ORDRE |
+commissaires de course | | | ORDER |
 Les Hauts Commissaires commencent leur service en tant que (37:5.5-6)
 interpréter le point de vue de races entières (37:5.5) (48:6.22)
 très actif sur Urantia (114:4.2)
@@ -103,7 +103,7 @@ Marie Madeleine convertie (150:2.2)
 membre du corps des femmes (150:1.1)
 question de (150:5.1)
 
-interprètes raciaux | (48:6.22-23) | séraphins | ORDRE |
+interprètes raciaux | (48:6.22-23) | séraphins | ORDER |
 2e ordre de ministres de transition séraphins (39:6.1)
 séraphins qui harmonisent les différents points de vue des races (48:6.22)
 
@@ -350,7 +350,7 @@ Les superviseurs du circuit tertiaire isolent les mondes dans (24:1.12)
 les gouvernements de l'univers préféreraient risquer la rébellion plutôt que de priver un mortel d'une carrière ascendante (112:5.7-8)
 mondes isolés par | quarantaine : mondes soumis à
 
-Récents des jours | (18:5) | | ORDRE |
+Récents des jours | (18:5) | | ORDER |
 3 président chaque secteur mineur (15:10.15) (15:13.4) (18:5.1)
 21 000 créés simultanément par Trinity (18:5.1)
 apprenti sous les Éternels des Jours (18:4.6) (18:5.1)
@@ -377,11 +377,11 @@ Jésus
 	reconnu la vérité dans les enseignements des autres (100:7.5)
 ne recherchez aucune reconnaissance imméritée (156:5.19)
 
-enregistreurs-enseignants | (48:6.30-33) | séraphins | ORDRE |
+enregistreurs-enseignants | (48:6.30-33) | séraphins | ORDER |
 Ministres de transition du 6ème ordre, séraphins (39:6.1)
 séraphins qui enregistrent les transactions morontielles (48:6.30)
 
-flûtes à bec | | disques | COMMANDE |
+flûtes à bec | | disques | ORDER |
 communication constante entre plusieurs ordres (39:2.16)
 créateurs et gardiens de registres
 	administrateur séraphin (39:4.16)
@@ -519,9 +519,9 @@ Onamonalonton a maintenu son siège social parmi (64:6.7)
 réflexions | | | |
 craint et vénéré par les premiers hommes (86:5.14)
 
-Liaisons réflectivatrices de Majeston | (30:1.110) | | COMMANDE |
+Liaisons réflectivatrices de Majeston | (30:1.110) | | ORDER |
 
-Aides à l'image réflexive | (17:4) | | COMMANDE |
+Aides à l'image réflexive | (17:4) | | ORDER |
 7 résident sur chaque capitale de superunivers (15:10.2) (17:4.1)
 49 créé par des esprits réfléchissants (17:3.4) (17:4.1)
 canal de communication entre les Esprits Réfléchissants et les superunivers (15:10.6-21) (17:0.11) (17:3.4) (17:4.1-2)
@@ -535,7 +535,7 @@ Les conciliateurs universels servent sous (25:3.14)
 
 Esprits maternels réfléchissants | | Esprits réfléchissants | ORDER |
 
-Esprits Réfléchissants | (17:3) | Majeston | COMMANDE |
+Esprits Réfléchissants | (17:3) | Majeston | ORDER |
 7 sur le siège de chaque superunivers (15:10.2) (17:3.1) (17:4.1) (25:2.2) (28:4.5)
 49, plus Majeston, créé par les Maîtres Esprits et Trinity (17:2.1) (17:3.1) (116:4.3-4)
 tous les 49 agissent à l'unisson lors d'occasions spéciales (17:3.11)
@@ -1103,7 +1103,7 @@ avertissements
 	les croyants seront haïs par tous les hommes à cause de Jésus (176:1.1) (180:3)
 	seront tués par ceux qui pensent servir Dieu (180:6.1)
 
-gardiens religieux | | maîtres séraphins de supervision planétaire | ORDRE |
+gardiens religieux | | maîtres séraphins de supervision planétaire | ORDER |
 
 chefs religieux à Rome | | | |
 Jésus a préparé les missionnaires chrétiens suivants (132:0.4-9)
@@ -1178,14 +1178,14 @@ ordres possédant
 	Fils embrassés par la Trinité (22:3.2) (22:6.3)
 	Fils enseignants de la Trinité (19:1.3)
 
-corps de réserve du destin | (114:7) | réservistes | ORDRE |
+corps de réserve du destin | (114:7) | réservistes | ORDER |
 12 corps, un pour chaque groupe de supervision séraphique (114:7.7)
 la fonction principale est d'assurer contre la rupture des progrès (114:6.20)
 était composé de 962 personnes en 1934 (114:7,8,13)
 Corps de réserve cosmique des citoyens conscients de l'univers (114:7.13)
 conseils permanents (114:7.11)
 
-réservistes | (114:7) | personnalités de contact; corps de réserve du destin | ORDRE |
+réservistes | (114:7) | personnalités de contact; corps de réserve du destin | ORDER |
 accomplir une tâche spécifique, généralement en quelques heures (114:7.11)
 Ajusteurs de réservistes
 	sont d’une polyvalence et d’une expérience extraordinaires (114:7.6)
@@ -1429,7 +1429,7 @@ Quand l'ennemi te frappe, tends l'autre joue (159:5.9-15)
 
 retour | | récréation | |
 
-directeurs de réversion | (48:4) | | COMMANDE |
+directeurs de réversion | (48:4) | | ORDER |
 tous les êtres célestes jouissent (84:8.5)
 collaborer avec les reproducteurs célestes (44:2.10)
 collaborer avec Joys of Existence (28:5.16)

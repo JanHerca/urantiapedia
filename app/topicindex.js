@@ -107,7 +107,7 @@ class TopicIndex {
 	 * @param {string} category Category of topics from Topic Index that must
 	 * be read. Those out the category are ignored. To read all use `ALL`.
 	 * @param {string} letter Letter of topics from Topic Index that must be
-	 * read. Those out of the letter are ignored. To read all use `ALL`.
+	 * read. Those out of the letter are ignored. To read all use `ALL` or null.
 	 * @return {Promise}
 	 */
 	readFromTXT = (dirPath, category, letter) => {
@@ -125,11 +125,11 @@ class TopicIndex {
 	/**
 	 * Reads a TXT file from Topic Index.
 	 * @param {string} category Category of topics from Topic Index that must
-	 * be read. Those out the category are ignored. To read all use 'ALL' and 
-	 * to read none 'NONE'.
+	 * be read. Those out the category are ignored. To read all use 'ALL' or
+	 * null and to read none 'NONE'.
 	 * @param {string} letter Letter in lowercase of topics from Topic Index
 	 * that must be read. Those out of the letter are ignored. To read all 
-	 * use `ALL`.
+	 * use `ALL` or unll.
 	 * @param {string} filePath TXT file path from Topic Index.
 	 * @return {Promise}
 	 */
@@ -432,7 +432,7 @@ class TopicIndex {
 					if (a.sorting > b.sorting) return 1;
 					if (a.sorting < b.sorting) return -1;
 					return 0;
-				});;
+				});
 			if (topics.length === 0) {
 				reject(this.getError('topic_err_writing', 
 					'No topics with letter ' + letter));
@@ -709,6 +709,74 @@ class TopicIndex {
 				//TODO: check if seeAlso anchors point to topic 1st level headers
 			});
 		}
+	};
+
+	/**
+	 * Compares this topic index with another one to check if they are equals.
+	 * Write errors inside topics of this topic index.
+	 * @param {TopicIndex} topicIndex2 Other topic index.
+	 */
+	compare = (topicIndex2) => {
+		const lan2 = topicIndex2.language;
+		const ok = `({0}) '{1}': OK`;
+		const err1 = `({0}) '{1}': topic not found`;
+		const err2 = `({0}) '{1}': {2} not equal: {3} != {4}`;
+		const err3 = `({0}) '{1}': {2} not same length: {3} != {4}`;
+		const sorting = (a, b) => {
+			if (a.sorting > b.sorting) return 1;
+			if (a.sorting < b.sorting) return -1;
+			return 0;
+		};
+		
+		return new Promise((resolve, reject) => {
+			const sortedTopics = this.topics.sort(sorting);
+			const sortedTopics2 = topicIndex2.topics.sort(sorting);
+			sortedTopics.forEach((topic, i) => {
+				if (!Array.isArray(topic.errors)) {
+					topic.errors = [];
+				}
+				const { fileline, errors } = topic;
+				const topic2 = sortedTopics2[i];
+				const name = topic2 ? topic2.name : 'undefined';
+				const data = ['filename', 'fileline', 'type', 'revised', 
+					'sorting'];
+				const nums = ['lines', 'seeAlso', 'externalLinks', 'refs', ];
+				let desc = null;
+				//Check topic
+				if (!topic2) {
+					desc = strformat(err1, lan2, name, filename);
+					errors.push({desc, fileline});
+					return;
+				}
+				//Check filename, fileline, type, revised, sorting
+				data.forEach(d => {
+					if (topic[d] != topic2[d]) {
+						desc = strformat(err2, lan2, name, d, topic[d], 
+							topic2[d]);
+						errors.push({desc, fileline});
+					}
+				});
+				//Checks arrays has same number
+				nums.forEach(d => {
+					const len = 
+						Array.isArray(topic[d]) ? topic[d].length : 0;
+					const len2 = 
+						Array.isArray(topic2[d]) ? topic2[d].length : 0;
+					if (len != len2) {
+						desc = strformat(err3, lan2, name, d, topic[d], 
+							topic2[d]);
+						errors.push({desc, fileline});
+					}
+				});
+				//Checks TODO : 
+				//check name exists in any ref, 
+				//altnames exists, 
+				//levels/seeAlso/refs of lines
+				//refs must be same length and equal
+				//seeAlso must point to an existing location
+			});
+			resolve(null);
+		});
 	};
 
 	/**

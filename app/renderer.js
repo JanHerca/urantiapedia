@@ -41,6 +41,7 @@ const paralells = new Paralells();
 const bible = new Bible();
 const bibleref = new BibleRef();
 const topicindex = new TopicIndex();
+const topicindex2 = new TopicIndex();
 const topicindexEN = new TopicIndex();
 const articles = new Articles();
 const library = new Library();
@@ -945,6 +946,28 @@ const handle_exeButtonClick = () => {
 				onSuccess(okMsgs);
 				showTopic(topicindex.topics[0].name);
 			}).catch(onFail);
+	} else if (process === 'REVIEW_TOPIC_THREE_LANS') {
+		//Reads TopicIndex (*.txt) in EN/ES/FR
+		//Checks by each pair that same topics exits in each language
+		const folderEN = path.join(txtDir, `topic-index-en`);
+		const folderES = path.join(txtDir, `topic-index-es`);
+		const folderFR = path.join(txtDir, `topic-index-fr`);
+		topicindex.setLanguage('es');
+		topicindex2.setLanguage('fr');
+		topicindex.readFromTXT(folderES)
+			.then(() => topicindex2.readFromTXT(folderFR))
+			.then(() => topicindexEN.readFromTXT(folderEN))
+			.then(() => topicindex.compare(topicindex2))
+			.then(() => topicindex.compare(topicindexEN))
+			.then(() => topicindex2.compare(topicindex))
+			.then(() => topicindex2.compare(topicindexEN))
+			.then(() => topicindexEN.compare(topicindex))
+			.then(() => topicindexEN.compare(topicindex2))
+			.then(() => topicindex.writeErrors(folderES))
+			.then(() => topicindex2.writeErrors(folderFR))
+			.then(() => topicindexEN.writeErrors(folderEN))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
 	} else if (process === 'SUM_TOPIC_TXT') {
 		// Reads TopicIndex (*.txt) => 
 		// Summary

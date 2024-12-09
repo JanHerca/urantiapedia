@@ -347,6 +347,15 @@ const Processes = {
 		paths: [['input', 'txt', 'topic-index-{0}'], 
 			['input', 'json', 'book-{0}-footnotes']]
 	},
+	"REVIEW_TOPIC_THREE_LANS": {
+		active: true,
+		desc: {
+			en: "TOPICS: Review Topic Index (TXT) in EN/ES/FR languages",
+			es: "TOPICS: Revisar Topic Index (TXT) en los idiomas EN/ES/FR"
+		},
+		controls: ['dirTTextbox'],
+		paths: [['input', 'txt']]
+	},
 	"SUM_TOPIC_TXT": {
 		active: true,
 		desc: {

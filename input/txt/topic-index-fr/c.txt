@@ -565,7 +565,7 @@ types
 destin
 	les séraphins peuvent atteindre le Paradis en servant comme artisans célestes (39:8.3)
 
-êtres célestes | | créatures | ORDRE | OK
+êtres célestes | | créatures | ORDER | OK
 
 Gardiens Célestes | | | ORDER | OK
 Ils sont touchants d’affection, superbement loyaux, exquisément intelligents, suprêmement sages quant au concept qu’ils personnifient (22:10.8)
@@ -590,7 +590,7 @@ influences célestes | | influences spirituelles | | OK
 musiciens célestes | (44:1.1-15) | artisans célestes | ORDER | OK
 les musiciens célestes sont un sous-type d'artisans célestes (44:1)
 
-Surveillants célestes | (37:6) | | ORDRE | OK
+Surveillants célestes | (37:6) | | ORDER | OK
 Les Surveillants Célestes font partie du groupe Universe Aids (37:1.7)
 ils apparaissent nommés dans le registre de personnalité d'Uversa (30:2.146)
 Avant de quitter l’univers de Nébadon, la plupart des mortels d’Urantia auront l’occasion de servir pendant une période plus ou moins longue en tant que membres du corps des Surveillants Célestes de Nébadon. (37:6.7)
@@ -902,7 +902,7 @@ au-delà de la chimie
 Chemosh | | | PERSON | OK
 Quemos était le dieu des Amorites ou Amorites, semblable au Yahweh hébreu (96:1.14)
 
-chérubins et sanobins; chérubins; sanobins; chérubins | (38:7-8) | anges; quatrième créature (chérubins) | ORDRE | OK
+chérubins et sanobins; chérubins; sanobins; chérubins | (38:7-8) | anges; quatrième créature (chérubins) | ORDER | OK
 Les chérubins et les sanobins sont les aides fidèles et efficaces des ministres séraphiques (38:7.3)
 Les artisans célestes enseignent aux chérubins et aux sanobins une consommation d'énergie efficace (44:5.10)
 le chef des chérubins et des sanobins participa au conseil des receveurs de Melchisédek après la rébellion (67:6.5)
@@ -974,7 +974,7 @@ Jésus dit : « Mes frères, lorsque vous êtes invités à un festin de noces, 
 chef supernaphin | | | PERSON | OK
 ce chef est l'ange modèle originel du Paradis (27:2.1)
 
-chefs de mission | (27:2) | supernaphin | ORDRE | OK
+chefs de mission | (27:2) | supernaphin | ORDER | OK
 les chefs de mission sont ceux qui dispersent périodiquement les adorateurs au Paradis, afin que, grâce à son enchantement, ils puissent rester dans l'attitude d'adoration pour toujours (27:7.3)
 ce sont des supernaphins primaires (26:8,5) (27:0,2-9) (27:2,1)
 ils sont chargés de renvoyer les candidats défaits pour l'aventure de la Déité en tant que pèlerins vers les superunivers (26:8.5) (26:10.4)
@@ -1388,7 +1388,7 @@ Sur des planètes comme la nôtre, la forme de vie la plus élevée est reprodui
 le personnel du Prince Planétaire avait des chromosomes réorganisés par les circuits de vie du système Satania (77:2.2,5)
 > https://en.wikipedia.org/wiki/Chromosome
 
-chronoldeks; Chronoldeks | | frandalanks; Contrôleurs physiques principaux | COMMANDE | OK
+chronoldeks; Chronoldeks | | frandalanks; Contrôleurs physiques principaux | ORDER | OK
 les chronoldeks sont des frandalanks qui mesurent également le temps en plus de l'énergie quantitative et qualitative (29:4.37)
 Le temps des systèmes est diffusé par les maîtres chronoldeks. (46:1.2)
 ils sont répertoriés entre les contrôleurs physiques principaux (29:4.11)
@@ -1432,7 +1432,7 @@ Les régulateurs de circuit sont des êtres uniques qui coordonnent l'énergie p
 Ces superviseurs du pouvoir morontiel sont comme des dynamos qui transforment partout les énergies de l'espace (48:2.13-14)
 ils apparaissent dans le registre de personnalité d'Uversa (30:2.109)
 
-Superviseurs de circuits | | Superviseurs de circuits de l'univers | COMMANDE | OK
+Superviseurs de circuits | | Superviseurs de circuits de l'univers | ORDER | OK
 
 circuits; Circuits; circuit | (34:4) | énergie:circuits; Havona:circuits; univers locaux:circuits; superunivers:circuits; gravité:types; personnalité:circuit de personnalité | | OK
 En suivant n’importe quel circuit, qu’il s’agisse de la personnalité, de la gravité matérielle, de la force cosmique, de la gravité spirituelle ou des circuits mentaux, tout cela ramène à la présence du Père au Paradis, sa demeure centrale. (11:1.4)
@@ -1794,7 +1794,7 @@ Coordonner les Fils Créateurs | | Fils Créateurs | ORDER | OK
 
 Filles du ministère de coordination | | Esprits-mères de l'univers local | ORDER | OK
 
-Êtres d'origine trinitaire coordonnés | | Êtres d'origine trinitaire | ORDRE | OK
+Êtres d'origine trinitaire coordonnés | | Êtres d'origine trinitaire | ORDER | OK
 
 coordonnateurs et directeurs de liaison | | | ORDER | OK
 Les coordinateurs et les directeurs de liaison sont des compagnons morontiels. Ils sont les instructeurs de la conduite sociale et du progrès morontiel, parrainant des cours et d'autres activités de groupe parmi les mortels ascendants. (48:3.11)
@@ -2436,7 +2436,7 @@ consuls (univers); Consuls | | | ORDER | OK
 Les ambassadeurs sont nommés par décret judiciaire et représentent les univers auprès des autres univers. Les consuls sont les représentants des constellations les unes auprès des autres et auprès du siège de l'univers (33:6.4)
 Les Vorondadeks servent d’ambassadeurs auprès d’autres univers et de consuls représentant des constellations dans leur univers d’origine. (35:5.5)
 
-Consommateur de la destinée de l'univers | (30:1.105) | | ORDRE | OK
+Consommateur de la destinée de l'univers | (30:1.105) | | ORDER | OK
 la destinée est probablement consommée par l'acte du Consommateur de la Destinée de l'Univers, et cet acte est probablement impliqué avec le Suprême et l'Ultime dans la Trinité Absolue. (106:7.3)
 la deuxième Trinité expérientielle est la Trinité Absolue, l'union de Dieu le Suprême, de Dieu l'Ultime et du Consommateur non révélé de la Destinée de l'Univers. (106:5.1) (0:12.7)
 
@@ -2545,7 +2545,7 @@ Corneille est le centurion romain de Césarée qui fut converti par Pierre, et d
 pierre angulaire | | | | OK
 Il existe un dicton juif qui dit : la pierre que les bâtisseurs ont rejetée est devenue la pierre angulaire lorsque le peuple l'a découverte. (173:4.4)
 
-bâtons corporels des Princes Planétaires; corps de cent; bâton de Caligastia; bâton corporel du prince; assistants du Prince Planétaire; bâton corporel; bâton visible | (50:3-4) (66:2-7) | Caligastia cent; Princes Planétaires | ORDRE | OK
+bâtons corporels des Princes Planétaires; corps de cent; bâton de Caligastia; bâton corporel du prince; assistants du Prince Planétaire; bâton corporel; bâton visible | (50:3-4) (66:2-7) | Caligastia cent; Princes Planétaires | ORDER | OK
 Lorsqu'il se rend sur un monde jeune, un Prince Planétaire emmène généralement avec lui un groupe d'êtres ascendants volontaires du siège du système local. Ce corps d'assistants matériels constitue le lien entre le prince et les races mondiales, appelé le corps des cent ou état-major du Prince (50:3.1).
 Les Porteurs de Vie ont fourni à ces volontaires de nouveaux corps physiques, qu'ils ont occupés pendant la durée de leur séjour planétaire. (50:3.3)
 Les cent, bien qu’exempts des maladies ordinaires, sont, comme les corps morontiels primitifs, sujets à certains accidents. (50:3.3)
@@ -2565,12 +2565,12 @@ travailler sur les planètes
 erreur de corporéité | | | | OK
 L'erreur de la corporéité se manifeste dans les deux extrêmes de la philosophie humaine. Dans le matérialisme, l'homme perd son corps à sa mort et cesse d'exister en tant que personnalité ; dans le panthéisme, Dieu n'a pas de corps et n'est donc pas une personne (1:5.12).
 
-Corps des Finalitaires Trinitisés Conjoints | | Corps Paradisiaque de la Finalité; Fils Trinitisés de Dieu | ORDRE | OK
+Corps des Finalitaires Trinitisés Conjoints | | Corps Paradisiaque de la Finalité; Fils Trinitisés de Dieu | ORDER | OK
 Le Corps des Finalitaires Trinitisés Conjoints est l'un des sept corps finalitaires. Son siège est situé à Vicegerington (31:1.5) (31:10.5)
 Les natifs de Havona sont reçus, dans la même proportion, dans le Corps des Finalitaires Trinitisés Conjoints de Vicegerington et dans le Corps des Finalitaires Transcendantaux du Paradis. Les citoyens de Havona considèrent ces trois destinées comme constituant les buts suprêmes de leur carrière céleste, ainsi que leur admission éventuelle dans le Corps des Finalitaires de Havona. (31:1.5)
 ils apparaissent dans le registre de personnalité d'Uversa (30:2.135)
 
-Corps des finalitaires de Havona | | Natifs de Havona; Corps du Paradis de la Finalité | ORDRE | OK
+Corps des finalitaires de Havona | | Natifs de Havona; Corps du Paradis de la Finalité | ORDER | OK
 Le Corps des Finalitaires d'Havona est l'un des sept corps finalitaires (31:1.5) (31:10.6)
 il apparaît dans le registre de personnalité d'Uversa (30:2.136)
 
@@ -2619,7 +2619,7 @@ admission mortelle au corps finalitaire
 	Après avoir atteint la satisfaction suprême de la plénitude de l’adoration, les ascendeurs sont qualifiés pour être admis au Corps de la Finalité. (27:0.1) (27:7.3,8-9)
 	Lorsque les ascendeurs mortels sont admis au corps finalitaire du Paradis, ils prêtent serment à la Trinité du Paradis, et aussi à Dieu le Suprême, qui est la Trinité telle que comprise par toutes les personnalités créatures finies. (27:7.9) (30:4.31) (31:0.12) (31:1.3) (31:3.4) (117:7.7)
 
-Corps des finalitaires du Paradis; Corps du Paradis de la Finalité; Corps finalitaire | (17:1.7) | Citoyens du Paradis; Corps du Paradis de la Finalité | ORDRE | OK
+Corps des finalitaires du Paradis; Corps du Paradis de la Finalité; Corps finalitaire | (17:1.7) | Citoyens du Paradis; Corps du Paradis de la Finalité | ORDER | OK
 le Corps des Finalitaires du Paradis est l'un des sept corps finalitaires (31:10.3)
 il apparaît dans le registre de personnalité d'Uversa (30:2.133)
 Depuis des siècles et des siècles, il y a eu au Paradis une mobilisation d'êtres associés au corps finalitaire (31:10.17)
@@ -2627,7 +2627,7 @@ Depuis des siècles et des siècles, il y a eu au Paradis une mobilisation d'êt
 Corps de Perfection | | | ORDER | OK
 Le Corps de Perfection est un corps d'univers local. C'est la destinée des ascendeurs fusionnés avec l'Esprit (37:5.3-4)
 
-corps des citoyens permanents | (30:2.116-128) | | ORDRE | OK
+corps des citoyens permanents | (30:2.116-128) | | ORDER | OK
 toutes les divisions de l'organisation administrative des univers locaux et des superunivers ont leurs populations plus ou moins permanentes, habitants ayant le statut de citoyens. (37:9.12)
 membres
 	# les médians des planètes évolutionnaires (77)(37:9.11)(48:2)
@@ -2643,25 +2643,25 @@ membres
 	# Citoyens du Paradis (19:7)
 	# Citoyens mortels du Paradis fusionnés avec les Ajusteurs (47:2.8)
 
-Corps de l'achèvement séraphique; Corps séraphique d'achèvement | (39:8.10) (39:9) | achèvement séraphin; séraphin; Seraphington | ORDRE | OK
+Corps de l'achèvement séraphique; Corps séraphique d'achèvement | (39:8.10) (39:9) | achèvement séraphin; séraphin; Seraphington | ORDER | OK
 Grimper aux hauteurs célestes de la filiation finalitaire avec Dieu est un accomplissement magistral pour un ange, un accomplissement qui transcende de loin votre accomplissement de la survie éternelle grâce au plan du Fils Éternel et à l’aide toujours présente de l’Ajusteur intérieur ; mais les séraphins gardiens, et parfois d’autres, effectuent effectivement de telles ascensions. (40:1.2)
 Les assistants à l'effusion sont des séraphins de l'accomplissement ; ils ont tous traversé les cercles de Séraphington et ont atteint le Corps Séraphique de l'Accomplissement. Ces séraphins ont tous atteint le Paradis et l'étreinte personnelle de la Seconde Source-Centre, le Fils Éternel. (39:1.5)
 De nombreux diplômés de Séraphington, membres du Corps Séraphique de Complément qui sont associés à ces séraphins, s'engagent dans l'enseignement dans les écoles de Salvington qui s'occupent de la préparation des créatures de Nébadon pour le prochain âge de l'univers. (39:1.12) (113:7.5)
 
 Corps de la Finalité | | Corps de la Finalité du Paradis | ORDER | OK
 
-Corps des Finalitaires Transcendantaux | | Corps du Paradis de la Finalité; Transcendantaux | ORDRE | OK
+Corps des Finalitaires Transcendantaux | | Corps du Paradis de la Finalité; Transcendantaux | ORDER | OK
 Le Corps des Finalitaires Transcendantaux est l'un des sept corps finalitaires (31:10.7)
 un natif de Havona peut rejoindre chaque compagnie du Corps des Finalitaires Transcendantaux du Paradis, l'un des trois objectifs suprêmes des citoyens de Havona (31:1.5)
 ils sont basés sur le Paradis (31:1.5)
 ils apparaissent dans le registre de personnalité d'Uversa (30:2.133)
 
-Corps des Finalitaires Trinitisés | | fils trinitisés par des créatures ; Corps du Paradis de la Finalité | ORDRE | OK
+Corps des Finalitaires Trinitisés | | fils trinitisés par des créatures ; Corps du Paradis de la Finalité | ORDER | OK
 Le Corps des Finalitaires Trinitisés est l'un des sept corps finalitaires (31:10.4)
 À l’exception des Fils de Perfection Trinitisés et de ceux qui se rassemblent sur Vicegerington, la destinée suprême de tous les fils trinitisés par des créatures et de certains Citoyens du Paradis semble être l’entrée dans le Corps des Finalitaires Trinitisés. (22:8.6) (26:11.2)
 ils apparaissent dans le registre de personnalité d'Uversa (30:2.134)
 
-Corps des Fils Non Révélés du Destin | | Corps Paradisiaque de la Finalité | COMMANDE | OK
+Corps des Fils Non Révélés du Destin | | Corps Paradisiaque de la Finalité | ORDER | OK
 Le Corps des Fils Non Révélés de la Destinée est l'un des corps finalitaires (31:10.8)
 ils apparaissent dans le registre de personnalité d'Uversa (30:2.138)
 
@@ -2738,7 +2738,7 @@ ils sont capables d'interpréter les enregistrements des maîtres frandalanks (2
 conseil de perfection | | | ORDER | OK
 Les Conciliateurs Universels sont transférés au conseil de perfection au Paradis, d'où ils émergent ensuite comme le corps de coordination évolué par l'Esprit Infini pour l'univers des univers (25:3.16)
 
-Conseil des Princes Planétaires; Conseil des dirigeants mondiaux | | | ORDRE | OK
+Conseil des Princes Planétaires; Conseil des dirigeants mondiaux | | | ORDER | OK
 Le Souverain du Système préside le conseil du système des dirigeants du monde, des Princes Planétaires et des gouverneurs généraux résidents des mondes isolés. Ce conseil planétaire se réunit de temps à autre au siège du système (45:2.4)
 
 conseil des sept | | | PERSON | OK
@@ -2783,7 +2783,7 @@ Le courage de Jésus
 	Jésus avait un courage magnifique, mais il n’était jamais téméraire. Son mot d’ordre était : « Ne crains pas. » Sa bravoure était noble et son courage souvent héroïque. Mais son courage était lié à la discrétion et contrôlé par la raison. C’était un courage né de la foi, et non de l’insouciance d’une présomption aveugle. Il était vraiment courageux, mais jamais audacieux. (100:7.15)
 	Il est facile de mourir au combat lorsque votre courage est renforcé par la présence de vos camarades de combat, mais il faut une forme plus élevée et plus profonde de courage et de dévotion humaine pour donner votre vie calmement et tout seul pour l'amour d'une vérité enchâssée dans votre cœur mortel. (143:1.6-7)
 
-conseillers judiciaires; conseillers judiciaires | | | ORDRE | OK
+conseillers judiciaires; conseillers judiciaires | | | ORDER | OK
 Les conseillers judiciaires sont des séraphins suprêmes qui veillent à ce que toutes les accusations portées contre des créatures mortelles soient formulées avec justice et jugées avec miséricorde. (39:1.7-9)
 
 cour des gentils; cour des gentils | | | | OK
@@ -2899,7 +2899,7 @@ Tous les phénomènes créateurs sont le reflet des activités antérieures de l
 Les Esprits Réfléchissants ont été créés lorsque les Esprits Maîtres ont atteint la parfaite synchronie avec la Trinité (17:2.2)
 « La volonté est cette manifestation de l’esprit humain qui permet à la conscience subjective de s’exprimer objectivement et d’expérimenter le phénomène de l’aspiration à être semblable à Dieu. » Et c’est dans ce même sens que tout être humain réfléchi et spirituel peut devenir créatif. (130:2.10)
 
-Fils Créateurs; Fils Créateur; Père-Fils Créateur; Michaëls du Paradis; Fils du Paradis; Fils du Paradis primaires; Fils de l'Univers; Michaël Créateur | (21) (7:6) | Jésus; Maître Michaëls; Michaël de Nébadon; Michaël (l'original); Fils du Paradis de Dieu | ORDRE | OK
+Fils Créateurs; Fils Créateur; Père-Fils Créateur; Michaëls du Paradis; Fils du Paradis; Fils du Paradis primaires; Fils de l'Univers; Michaël Créateur | (21) (7:6) | Jésus; Maître Michaëls; Michaël de Nébadon; Michaël (l'original); Fils du Paradis de Dieu | ORDER | OK
 ils sont répertoriés parmi les Créateurs suprêmes (56:5.3) (116:2.4-12)
 une variété presque infinie caractérise les plans des Fils Créateurs pour organiser, faire évoluer, discipliner et coloniser leurs univers locaux respectifs. (21:2.10) (32:3.3)
 Les Fils Créateurs s’approchent des créatures de leurs mondes habités et « attirent tous les hommes à eux » (1:4.2)
@@ -3055,7 +3055,7 @@ Père Universel
 création | | | | OK
 La création n’est guère un attribut de Dieu ; c’est plutôt l’agrégat de sa nature agissante. (3:0.3)
 
-fils trinitisés par la créature; êtres trinitisés par la créature; fils trinitisés par la créature; assistants trinitisés par la créature | (22:8) | trinitisation; Fils de Dieu trinitisés | ORDRE | OK
+fils trinitisés par la créature; êtres trinitisés par la créature; fils trinitisés par la créature; assistants trinitisés par la créature | (22:8) | trinitisation; Fils de Dieu trinitisés | ORDER | OK
 les fils trinitisés par les créatures sont la progéniture des finalitaires et des habitants du Paradis-Havon (17:1.7) (22:7.4-14) (22:8.1) (23:4.3) (30:2.63)
 les fils résultant de l'union trinitisante entre un finalitaire et une personnalité du Paradis-Havona deviennent pupilles des Architectes du Maître Univers ; alors cette créature va à Vicegerington en compagnie des Messagers Solitaires et ne repart jamais (22:7.10) (22:8.6) (23:4.3) (31:9.13)
 Les messagers solitaires accompagnent la progéniture des finalitaires et les citoyens du Paradis (23:4.3)
@@ -3346,7 +3346,7 @@ Ces supernaphins primaires qui possèdent intrinsèquement la connaissance de l�
 au Paradis, les chercheurs de connaissance sont confrontés à des êtres qui sont exactement ce qu'ils recherchent (27:5.2-3)
 Les Voix de la Sagesse en liaison perpétuelle avec les Gardiens de la Connaissance (28:5.7)
 
-Gardiens des archives | (25:5) | | COMMANDE | OK
+Gardiens des archives | (25:5) | | ORDER | OK
 Les chefs enregistreurs des supernaphins tertiaires transmettent aux gardiens de la connaissance les transactions d'importation de la vraie connaissance (26:3.5)
 Les gardiens des archives sont choisis parmi les supernaphins tertiaires de Havona (25:5.1,3)
 conserver les archives officielles du Paradis, ces archives qui contrastent avec les registres vivants de l’enregistrement dans l’esprit des gardiens de la connaissance, parfois désignées comme la « bibliothèque vivante du Paradis » (25:5.1)
