@@ -1,0 +1,45 @@
+<_____________________________________________________________________________
+<
+<                     NUMBER
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github_topicindex
+<_____________________________________________________________________________
+
+1-2-3 le Premier | (77:8.2) | | PERSON | OK
+il est le médian de l'ordre primaire qui était le plus ancien de tous les ordres médians d'Urantia depuis la trahison de Caligastia (77:9.4-5)
+il est resté fidèle à Gabriel à l'époque de Van et d'Amadon et a réussi à réduire les pertes rebelles dans son ordre
+il est maintenant membre des vingt-quatre conseillers de Jérusem et a été gouverneur général sur Urantia une fois (45:4.18) (77:9.5)
+
+3; trois | | | | OK
+Le domaine de la vie est caractérisé par le nombre trois. Il existe trois plans de vie primordiaux selon l'ordre des trois Sources et Centres du Paradis et dans Nébadon il y a trois types de planètes (36:2.11)
+> https://en.wikipedia.org/wiki/3
+
+7; sept | | | | OK
+la personnalisation triple de la Déité a sept possibilités associatives (16:0.1) (16:1.1) (17:3.1)(18:1.3)
+le numéro sept est fondamental dans l'univers pour la transmission du caractère (42:9.2)
+il y a sept couleurs dans le spectre naturel (42:9.3)
+Le domaine de la vie est caractérisé par le nombre sept. Il existe sept types architecturaux de conception de la vie (36:2.11)
+Le chiffre sept est fondamental pour l'organisation de l'univers. L'univers fonctionne en sept grandes divisions (10:2.8) (16:0.1) (42:9.2)
+En philosophie naturelle, le nombre sept était considéré comme fondamental pour la nature (42:9.1)
+Dans le tableau périodique, les propriétés physiques et chimiques se répètent par périodes de sept (42:9.2-3)
+les types sécoraphiques se répètent en série par sept (28:4.3-4) (28:5.6)
+la prématière a une organisation électronique septuple (42:9.1,3)
+> https://en.wikipedia.org/wiki/7
+> https://en.wikipedia.org/wiki/Periodic_table
+
+10; dix | | | | OK
+le nombre dix, le système décimal, est inhérent à l'énergie et à la matière mais pas à l'esprit (36:2.11) (42:9.2)
+> https://en.wikipedia.org/wiki/Decimal
+
+12; douze | | | | OK
+Le domaine de la vie est caractérisé par le nombre douze. Il y avait, à l'origine, douze concepts divins de la vie et le nombre douze est présent dans tous les modèles de vie de base de l'univers (36:2.11)
+
+13; treize | | | | OK
+Dans l'Antiquité, le nombre treize était considéré comme mauvais (88:1.6)
+
+606 de Satania ; 606 | | Urantie | PLACE | OK
+606 est le numéro de notre planète dans le groupe planétaire de Satania, qui contient 619 mondes habités. C'est une autre façon de se référer à Urantia, notre monde (15:14.5) (31:10.22) (43:0.1) (49:0.3) (58:1.1) (62:7.7) (63:0.1) (74:1.5) (74:2.8) (93:1.2) (93:10.1)

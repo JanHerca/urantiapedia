@@ -1,0 +1,25 @@
+<_____________________________________________________________________________
+<
+<                     X
+< Urantia Book Uversa Press Topical index converted to text file
+< Each entry has a previous blank line
+< Entry = Name | Refs | See also | Category | OK (= revised)
+< An entry can have one or several sub-entries (= the lines after entry)
+< A sub-entry can have sub-sub-entries with tabs and so on
+< Help: https://urantiapedia.org/en/help/github_topicindex
+<_____________________________________________________________________________
+
+Rayons X | (41:5.1-5) | radioactivité | |
+15 pieds de surface de densité Urantia empêcheraient l'évasion solaire de
+Rayons X, provoquant une explosion (41:5.1)
+permettre à la lumière de s'échapper des soleils (41:9.1)
+dynamiser les électrons à l'intérieur des soleils (41:5.3-5)
+niveau d'existence atomique (41:7.1)
+modifier le plasma vital des plantes et des animaux (77:2.5)
+matière préatomique légèrement sensible à la gravité lorsqu'elle est activée par (42:6.2)
+la pression des rayons X soutient les couches externes du soleil (41:9.4)
+produit par l'agitation provoquée par l'arrêt soudain d'un électron (42:5.8)
+catégorie énergie des vagues (42:5.1)
+
+Xénophane | | | PERSON |
+Grec; concept de divinité panthéiste (98:2.6)
