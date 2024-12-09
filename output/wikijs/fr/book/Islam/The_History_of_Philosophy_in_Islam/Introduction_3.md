@@ -142,4 +142,4 @@ On ne peut guère parler d'une philosophie musulmane <span id="p30">[<sup><small
 
 [^6]: 24:1 Le dialogue a reçu ce nom à cause du fait que pendant la conversation Aristote tient dans sa main une pomme dont l'odeur maintient éveillé ce qui lui reste de forces vitales. A la fin, sa main retombe impuissante et la pomme tombe à terre.
 
-[^7] : 27 : 1 De plus, un résumé du στοιχείωσις θεολογική de Proclus, fut considéré, même plus tard, comme une véritable œuvre d'Aristote.
+[^7]: 27 : 1 De plus, un résumé du στοιχείωσις θεολογική de Proclus, fut considéré, même plus tard, comme une véritable œuvre d'Aristote.

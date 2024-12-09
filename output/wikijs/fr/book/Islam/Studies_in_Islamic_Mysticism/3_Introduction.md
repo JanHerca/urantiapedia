@@ -699,7 +699,7 @@ Les abréviations Díwán, K. et N. se réfèrent respectivement à (_a_), (_b_)
 
 [^533]: 165:3 Voir l'Histoire littéraire de la Perse du professeur Browne, vol. 11, p. 504, mon Histoire littéraire des Arabes, p. 397 fol., et Le Don et le Derviche, pp. 105-9. Une version latine d'une ode entière (Díwán, p. 306 fol.) est donnée par Sir William Jones dans ses Poeseos Asiaticae commentarii (Œuvres, éd. par Lord Teignmouth, vol. VI, p. 74).
 
-[^534] : 166:1 Grangeret de Lagrange, _Anthologie arabe_, p. 128.
+[^534]: 166:1 Grangeret de Lagrange, _Anthologie arabe_, p. 128.
 
 [^535]: 167:1 J. W. Mackail, _Épigrammes choisis de l'anthologie grecque_, p. 34.
 
@@ -707,7 +707,7 @@ Les abréviations Díwán, K. et N. se réfèrent respectivement à (_a_), (_b_)
 
 [^537]: 167:3 Evelyn Underhill, _Mysticisme_, p. 352.
 
-[^538] : 167 : 4 Introd. à _Poèmes sélectionnés du Dīvāni Shamsi Tabriz_, p. XL.
+[^538]: 167 : 4 Introd. à _Poèmes sélectionnés du Dīvāni Shamsi Tabriz_, p. XL.
 
 [^539]: 168:1 Bien entendu, ces remarques ne s’appliquent pas à de nombreux passages du _Tá’iyyatu ’l-kubrá_, qui, en ce qui concerne son but didactique, a le même rapport aux odes mineures que le _Masnaví_ de Jalálu’ddín Rúmí à son _Díwán_.
 
@@ -767,7 +767,7 @@ Les abréviations Díwán, K. et N. se réfèrent respectivement à (_a_), (_b_)
 
 [^563]: 177:5 _Ibid_. p. 278.
 
-[^564] : 178 : 1 _Díwán_, p. 410.
+[^564]: 178 : 1 _Díwán_, p. 410.
 
 [^565]: 178:2 _Ibid_. p. 384.
 
@@ -775,7 +775,7 @@ Les abréviations Díwán, K. et N. se réfèrent respectivement à (_a_), (_b_)
 
 [^567]: 178:4 « Patience sans toi », c'est-à-dire en supportant ta séparation d'avec moi ; « patience avec toi », c'est-à-dire en supportant la douleur que tu me fais souffrir, en tant qu'objet de mon amour.
 
-[^568] : 178 : 5 _Díwán_, p. 402.
+[^568]: 178 : 5 _Díwán_, p. 402.
 
 [^569]: 179:1 Le poète était absorbé dans la contemplation du Bien-Aimé et ne pouvait échanger quelques mots avec son critique.
 
@@ -793,7 +793,7 @@ Les abréviations Díwán, K. et N. se réfèrent respectivement à (_a_), (_b_)
 
 [^576]: 180:3 Comme les chameaux amènent l'aimé aux yeux de l'amant, ainsi la réprimande l'amène à l'oreille de l'amant.
 
-[^577] : 180 : 4 _Díwán_, p. 275 suiv. Cf. p. 346, ch. 5, et p. 429, l. 27—p. 420, l. 6.
+[^577]: 180 : 4 _Díwán_, p. 275 suiv. Cf. p. 346, ch. 5, et p. 429, l. 27—p. 420, l. 6.
 
 [^578]: 181:1 _Ibid_. p. 370, 1. 22.
 
@@ -807,7 +807,7 @@ Les abréviations Díwán, K. et N. se réfèrent respectivement à (_a_), (_b_)
 
 [^583]: 182:4 Lecture ![](/image/book/Islam/Studies_in_Islamic_Mysticism/18200.jpg).
 
-[^584] : 183 : 1 _Díwán_, pp.
+[^584]: 183 : 1 _Díwán_, pp.
 
 [^585]: 183:2 _Ibid_. p. 6.
 
@@ -865,7 +865,7 @@ Les abréviations Díwán, K. et N. se réfèrent respectivement à (_a_), (_b_)
 
 [^612]: 192:1 W. Y. Sellar, _The Roman poets of the Republic_, p. 403. Je donne la traduction de Munro: « De nouveau, lorsque de puissantes légions remplissent de leurs mouvements toutes les parties des plaines, faisant semblant de faire la guerre, l'éclat s'élève alors vers le ciel, et toute la terre autour brille d'airain, et sous un bruit est élevé par le puissant piétinement des hommes, et les montagnes frappées par les cris font écho aux voix des étoiles du ciel, et les cavaliers volent de tous côtés et soudain, en tournant, parcourent le milieu des plaines, les secouant avec la véhémence de leur charge. Et pourtant il y a un endroit sur les hautes collines, d'où ils semblent s'arrêter et se reposer sur les plaines comme un point lumineux. »
 
-[^613] : 192 : 2 _Tá’iyya_, _v_. 489.
+[^613]: 192 : 2 _Tá’iyya_, _v_. 489.
 
 [^614]: 193:1 _Tá’iyya_, _vv_. 395-6.
 

@@ -394,11 +394,11 @@ On ne peut pas exiger plus de Ghazzâlî en tant que philosophe-théologien. Il 
 
 [^4]: L'Averroès des Scolaires.
 
-[^5] : _Le monde musulman_, année 1912, pp. 171 suiv., 245 suiv.; comme separatum, Otto Harrassowitz, pp. 9, 10.
+[^5]: _Le monde musulman_, année 1912, pp. 171 suiv., 245 suiv.; comme separatum, Otto Harrassowitz, pp. 9, 10.
 
 [^6]: _Der Islam_, année 1914, dans les numéros 2 et 3: par le présent écrivain.
 
-[^7] : _Faisal al-Tafriqa_, p. 10.
+[^7]: _Faisal al-Tafriqa_, p. 10.
 
 [^8]: Averroès ajoute à ceux-ci (avec justesse) le Coran, Mahomet lui-même, les « Premiers Pères », al-Ash'ari, et les premiers Ash'arites — avant l'époque d'Abul Ma'âli », dit Averroès, loc. cit. c'est-à-dire d'al-Juwainî, l'Imâm al-Haramain, le Cheikh de notre auteur, mort en 478 (voir son _al-Kashf 'an manâhij al-adillâ'_, éd. Müller, p. 65, éd. du Caire, p. 54.)
 
@@ -406,31 +406,31 @@ On ne peut pas exiger plus de Ghazzâlî en tant que philosophe-théologien. Il 
 
 [^10]: Ceci est d'autant plus marqué que les mots sont la glose de Ghazzâlî lui-même sur une citation du Coran ; voir ci-dessous.
 
-[^11] : par ex. _Tahâfut_, pp. 57, 60.
+[^11]: par ex. _Tahâfut_, pp. 57, 60.
 
 [^12]: Op. cit., éd. Müller, p. 21, édition du Caire, p. 59. Le traité a été écrit avant 575 H.; date de _Mishkât_ c. 500.
 
-[^13] : _Mîzân al \`Amal_, p. 214.
+[^13]: _Mîzân al \`Amal_, p. 214.
 
 [^14]: Le néoplatonisme incontestable d'une grande partie des formes et expressions de la pensée de Ghazzâlî, sinon de la pensée elle-même (voir notamment pp. 15, 16, 29, 47 et suivantes), l'exposait d'une manière toute particulière à cette accusation de panthéisme émanationnel, et ne pouvait lui faciliter la tâche pour éviter de tels dangers.
 
-[^15] : Massignon, _Hallâj_, p. 661.
+[^15]: Massignon, _Hallâj_, p. 661.
 
-[^16] : Ed. Gautier, pp. 14-15, trad. 12-14.
+[^16]: Ed. Gautier, pp. 14-15, trad. 12-14.
 
 [^17]: Ou « un écrivain ultérieur » probablement Ibn Rushd lui-même, dans le passage déjà cité et discuté.
 
 [^18]: Bien que son schéma de « miroir » dans Mishkât, p. [15](#p15), soit proche de la signification d'Ibn Tufâil.
 
-[^19] : Massignon, _Passion d'al-Hallâj_, p. 754.
+[^19]: Massignon, _Passion d'al-Hallâj_, p. 754.
 
 [^20]: p. 214 de la traduction.
 
-[^21] : Massignon, op. cit., p. 791 ; ib., p. 472.
+[^21]: Massignon, op. cit., p. 791 ; ib., p. 472.
 
 [^22]: Le sens dans lequel il a employé l'expression, et la preuve qu'elle ne signifiait pas dans sa pensée l'auto-déification, est donné très clairement dans Massignon, op. cit., 519-521.
 
-[^23] : Op. cit., p. 472.
+[^23]: Op. cit., p. 472.
 
 [^24]: _Al-Avnî sur al-Istakhrî_., cité dans une lettre de M. Massignon à l'auteur.
 
@@ -438,20 +438,20 @@ On ne peut pas exiger plus de Ghazzâlî en tant que philosophe-théologien. Il 
 
 [^26]: Voir Nicholson, L'idée de personnalité dans le soufisme, p. 46
 
-[^27] : Nicholson, L'idée de personnalité dans le soufisme, pp. 44, 45. Cette identification s'est produite indépendamment chez l'auteur de la présente étude avant la parution de l'ouvrage du professeur Nicholson, ainsi que chez le professeur DB Macdonald.
+[^27]: Nicholson, L'idée de personnalité dans le soufisme, pp. 44, 45. Cette identification s'est produite indépendamment chez l'auteur de la présente étude avant la parution de l'ouvrage du professeur Nicholson, ainsi que chez le professeur DB Macdonald.
 
 
 [^28]: Le mot _min_ est lui-même terriblement ambigu. Il peut signifier « (dérivé) de » ou « (partie) de » ou « relatif à ». Dans de telles circonstances, on cherche la phrase la plus vague possible pour rendre la préposition.
 
 [^29]: C'est le mot arabe pour le chrétien « Le Saint-Esprit ». Mais en arabe comme dans l'hébreu primitif, le mot mettait l'accent sur l'idée de séparation ou de transcendance plutôt que sur la justice ou la sainteté.
 
-[^30] : Massignon, op. cit., p. 519-21.
+[^30]: Massignon, op. cit., p. 519-21.
 
 [^31]: Cette médiation de la fonction créatrice entraînerait avec elle la médiation de la fonction administrative. Dans ce contexte, on utiliserait sans aucun doute la S. 7, 53, « le soleil, la lune et les étoiles sont contraints de travailler par Son amr — Son Mot de Commandement — Son Esprit — exactement la fonction d'al-Mutâ\`_.
 
-[^32] : Massignon, op. cit., p. 664.
+[^32]: Massignon, op. cit., p. 664.
 
-[^33] : Ibid., p. 661.
+[^33]: Ibid., p. 661.
 
 [^34]: Pp. 46, 47, et Leçon III.
 
@@ -459,7 +459,7 @@ On ne peut pas exiger plus de Ghazzâlî en tant que philosophe-théologien. Il 
 
 [^36]: Il a décrit Mahomet comme _al-rûh al-qudus_ et _rûh jasad al-wajûd_ « l'Esprit Transcendant, l'Esprit du corps de l'Univers. »
 
-[^37] : Nicholson, op. cit., p. 59.
+[^37]: Nicholson, op. cit., p. 59.
 
 
 [^38]: M., p. [34](#p34).
@@ -470,13 +470,13 @@ On ne peut pas exiger plus de Ghazzâlî en tant que philosophe-théologien. Il 
 
 [^41]: Voir la _Vision d'Er dans la République_, livre X.
 
-[^42] : Voir _Ki tab al Kashf an manâhij al adillâ_ d'Averroès, cité ci-dessus p. 11, note 2.
+[^42]: Voir _Ki tab al Kashf an manâhij al adillâ_ d'Averroès, cité ci-dessus p. 11, note 2.
 
-[^43] : Art. 14, 48.
+[^43]: Art. 14, 48.
 
 [^44]: Tah., p. 60. Cité dans l'article de l'auteur dans _Der Islâm_, voir pp. 134-6, 151, 152, où certaines parties du sujet sont traitées plus en détail.
 
-[^45] : Chez Ghazzâlî, l’agnosticisme le plus extrême et le gnosticisme le plus extrême se rencontrent, et se rencontrent à ce point ; car, comme il le dit (p [25](#p25)), ce qui dépasse un extrême passe à l’extrême opposé. Pour lui, « Credo parce qu’Incroyable » devient « Gnose parce qu’Agnoston ». Ce qui a sauvé l’Univers pour lui de sa théologie nihiliste, c’est son ontologie (voir ci-dessous, pp. 108 et suivantes). Ce qui a sauvé Dieu pour lui de son agnosticisme oblitérant, c’est l’expérience du saut mystique, son propre mi\`râj_ personnel. Cela n’était peut-être pas rationnel, mais c’était pour lui une expérience. Même ceux qui considèrent l'expérience sensationnelle du soufisme comme ayant été un pur auto-hypnotisme ne peuvent les condamner, ni le sens de la réalité qu'ils ont apporté, par rapport à l'homme qui avait pensé à sortir à la fois de l'athéisme et du panthéisme, et qui pourtant aurait été laissé à la fin de la quête, par sa seule pensée, avec un Absolu Inconnu et Inconnaissable.
+[^45]: Chez Ghazzâlî, l’agnosticisme le plus extrême et le gnosticisme le plus extrême se rencontrent, et se rencontrent à ce point ; car, comme il le dit (p [25](#p25)), ce qui dépasse un extrême passe à l’extrême opposé. Pour lui, « Credo parce qu’Incroyable » devient « Gnose parce qu’Agnoston ». Ce qui a sauvé l’Univers pour lui de sa théologie nihiliste, c’est son ontologie (voir ci-dessous, pp. 108 et suivantes). Ce qui a sauvé Dieu pour lui de son agnosticisme oblitérant, c’est l’expérience du saut mystique, son propre mi\`râj_ personnel. Cela n’était peut-être pas rationnel, mais c’était pour lui une expérience. Même ceux qui considèrent l'expérience sensationnelle du soufisme comme ayant été un pur auto-hypnotisme ne peuvent les condamner, ni le sens de la réalité qu'ils ont apporté, par rapport à l'homme qui avait pensé à sortir à la fois de l'athéisme et du panthéisme, et qui pourtant aurait été laissé à la fin de la quête, par sa seule pensée, avec un Absolu Inconnu et Inconnaissable.
 
 [^46]: M., p. [14](#p14).
 
@@ -492,17 +492,17 @@ On ne peut pas exiger plus de Ghazzâlî en tant que philosophe-théologien. Il 
 
 [^52]: M., p. [29](#p29).
 
-[^53] : Ib., p. [10](#p10).
+[^53]: Ib., p. [10](#p10).
 
 [^54]: Ib., p. [24](#p24)
 
-[^55] : Ib., [^40].
+[^55]: Ib., [^40].
 
 [^56]: Comment traduire ce « _Ana-l-Haqq_ » ? Pas par Jésus, « Je suis la Vérité », aussi tentant soit-il. « Je suis l'Absolu » serait une traduction parallèle dans le langage philosophique moderne. Le « Je suis Dieu » du professeur Nicholson est surprenant, mais éclairant car parfaitement justifiable : car _al-Haqq_ et Allâh sont mutuellement et exclusivement convertibles.
 
 [^57]: Massignon, op. cit., p, 519, décrivant la doctrine de Hallâj sur le _rûh_ divin, et reprenant exactement la pensée difficile de Ghazzâlî à la p. \[24, ll. 2, 3\], (cf. p, \[22, l. 2\]). Mais de ce point de vue, _rûh_ et _sûra_ se confondent, comme le montre une comparaison attentive des deux passages de Mishkât que nous venons de citer.
 
-[^58] : Pages 485, 599-602. Dans une note, Massignon se hasarde à suggérer que ce Dieu épiphanisé (appelé par al-Hallâj al-Nâsût) par opposition à l'inconnaissable al-Lâhût) est analogue ou suggère le Vice-gérant de Ghazzâlî (p. 601, n. 5). La suggestion est passionnante, comme on le voit. Il faut répéter qu'il n'y a aucune trace explicite de la doctrine chez M.
+[^58]: Pages 485, 599-602. Dans une note, Massignon se hasarde à suggérer que ce Dieu épiphanisé (appelé par al-Hallâj al-Nâsût) par opposition à l'inconnaissable al-Lâhût) est analogue ou suggère le Vice-gérant de Ghazzâlî (p. 601, n. 5). La suggestion est passionnante, comme on le voit. Il faut répéter qu'il n'y a aucune trace explicite de la doctrine chez M.
 
 [^59]: Ce qui, il faut s'en souvenir, ne peut pas être traduit injustement par -Je suis Dieu—; voir note ci-dessus.
 

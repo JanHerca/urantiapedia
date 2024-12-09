@@ -74,7 +74,7 @@ Et sépare son blé céleste de la paille.  (\*) [^7]
 
 <span id="p22">[<sup><small>p. 22</small></sup>]</span>
 
-Une obéissance aussi absolue peut être récompensée (_quatrain_ 40). On se souvient de ce que dit Fra Giovanni dans la prison de Viterbe (\*) [^8] : « Endurez, souffrez, acceptez, veuillez ce que Dieu veut, et votre volonté sera faite sur la terre comme au ciel. » Et peut-être l’aube pour vous, peut-être l’aube de votre chameau (_quatrain_ 41) ; il était d’usage pour les Arabes sur le point de mourir de dire à leurs fils : « Enterrez mon coursier avec moi, afin que, lorsque je me lèverai du tombeau, je n’aie pas à marcher à pied. » Le chameau était attaché la tête vers les pattes de derrière, une couverture de selle était enroulée autour de son cou, et on le laissait près du tombeau jusqu’à sa mort. En attendant, si le maître est un vrai croyant, dit Mahomet, son âme a été séparée du corps par Azraël, l’ange de la mort. Ensuite, le corps est placé dans la tombe, debout, pour y être examiné par les deux anges noirs, Monkar et Nakyr (_quatrain_ 42), au sujet de sa foi, de l’unité de Dieu et de la mission de Mahomet. Si les réponses sont correctes, le corps reste en paix et est rafraîchi par l’air du paradis ; si les réponses sont incorrectes, ces anges frappent le cadavre sur les tempes avec des masses de fer, jusqu’à ce qu’il pousse des rugissements d’angoisse si forts que tous, de l’est à l’ouest, l’entendent, <span id="p23">[<sup><small>p. 23</small></sup>]</span> sauf les hommes et les djinns. Abu’l-Ala n’avait guère confiance en ces deux anges ; il rappelle sainte Catherine de Sienne, une visionnaire au sens peu commun, qui, à l’âge de huit ans, s’enfuit un après-midi pour se faire ermite. Elle avait soin de se procurer du pain et de l’eau, de peur que les anges n’oublient de lui apporter de la nourriture, et à la tombée de la nuit, elle courut à nouveau chez elle de peur que ses parents ne soient inquiets. Avicenne a raconté que l'âme, comme un oiseau, échappe avec beaucoup de peine aux embûches de la terre (_quatrain_ 43), jusqu'à ce que cet ange la délivre de la dernière de ses chaînes. On pense à la déesse Rân avec son filet. La mort est imaginée (_quatrain_ 44) comme un oiseleur ou un pêcheur d'hommes, ainsi : « Dô kam der Tôt als ein diep, und stal dem reinen wîbe daz leben ûz it lîbe. » (\*) [^9]
+Une obéissance aussi absolue peut être récompensée (_quatrain_ 40). On se souvient de ce que dit Fra Giovanni dans la prison de Viterbe (\*) [^8]: « Endurez, souffrez, acceptez, veuillez ce que Dieu veut, et votre volonté sera faite sur la terre comme au ciel. » Et peut-être l’aube pour vous, peut-être l’aube de votre chameau (_quatrain_ 41) ; il était d’usage pour les Arabes sur le point de mourir de dire à leurs fils : « Enterrez mon coursier avec moi, afin que, lorsque je me lèverai du tombeau, je n’aie pas à marcher à pied. » Le chameau était attaché la tête vers les pattes de derrière, une couverture de selle était enroulée autour de son cou, et on le laissait près du tombeau jusqu’à sa mort. En attendant, si le maître est un vrai croyant, dit Mahomet, son âme a été séparée du corps par Azraël, l’ange de la mort. Ensuite, le corps est placé dans la tombe, debout, pour y être examiné par les deux anges noirs, Monkar et Nakyr (_quatrain_ 42), au sujet de sa foi, de l’unité de Dieu et de la mission de Mahomet. Si les réponses sont correctes, le corps reste en paix et est rafraîchi par l’air du paradis ; si les réponses sont incorrectes, ces anges frappent le cadavre sur les tempes avec des masses de fer, jusqu’à ce qu’il pousse des rugissements d’angoisse si forts que tous, de l’est à l’ouest, l’entendent, <span id="p23">[<sup><small>p. 23</small></sup>]</span> sauf les hommes et les djinns. Abu’l-Ala n’avait guère confiance en ces deux anges ; il rappelle sainte Catherine de Sienne, une visionnaire au sens peu commun, qui, à l’âge de huit ans, s’enfuit un après-midi pour se faire ermite. Elle avait soin de se procurer du pain et de l’eau, de peur que les anges n’oublient de lui apporter de la nourriture, et à la tombée de la nuit, elle courut à nouveau chez elle de peur que ses parents ne soient inquiets. Avicenne a raconté que l'âme, comme un oiseau, échappe avec beaucoup de peine aux embûches de la terre (_quatrain_ 43), jusqu'à ce que cet ange la délivre de la dernière de ses chaînes. On pense à la déesse Rân avec son filet. La mort est imaginée (_quatrain_ 44) comme un oiseleur ou un pêcheur d'hommes, ainsi : « Dô kam der Tôt als ein diep, und stal dem reinen wîbe daz leben ûz it lîbe. » (\*) [^9]
 
 En raison de son éclat, le tranchant d’une arme (_quatrain_ 46) a été comparé dans la poésie arabe au verre éclairé par le soleil, à la torche d’un moine, aux étoiles et à la flamme d’une nuit noire. Un Arabe ne se livrerait pas non plus à des comparaisons pittoresques dans la poésie seule. Parlant d’une certaine lettre, Abu’l-Ala assure à celui qui l’a écrite qu’elle « provient de la résidence du grand docteur qui tient les rênes de la prose et des vers » (_quatrain_ 50). Or, en ce qui concerne le verre, c’était une industrie très ancienne chez les Arabes. Au deuxième siècle de l’Hégire, elle était si avancée qu’ils pouvaient fabriquer du verre émaillé <span id="p24">[<sup><small>p. 24</small></sup>]</span> et réunir en un seul verre différentes couleurs. Un certain chimiste habile de l’époque était non seulement expert en ces procédés (_quatrain_ 52), mais essaya même de fabriquer avec du verre des fausses perles, sur lesquelles il publia une brochure.
 
@@ -178,9 +178,9 @@ J’abandonnais au vent mes cheveux tout entiers….
 
 [^2]: 16:† Bien sûr, j’utilise la superbe édition des lettres du professeur Margoliouth.
 
-[^3] : 17:\* _Cf_. Thielmann, _Streifzüge_ _im Kaukasus, etc._
+[^3]: 17:\* _Cf_. Thielmann, _Streifzüge_ _im Kaukasus, etc._
 
-[^4] : 18 :\* _Cf._ Ambros, _Geschichte der Musik_, 1862.
+[^4]: 18 :\* _Cf._ Ambros, _Geschichte der Musik_, 1862.
 
 [^5]: 19:\* _Cf._ Pline, _Histoire naturelle_,_ vii. 174.
 
@@ -188,11 +188,11 @@ J’abandonnais au vent mes cheveux tout entiers….
 
 [^7]: 21:\* Meredith, _Le rasage de Shagpat._
 
-[^8] : 22 :\* Anatole France, _Le Puits de Sainte Claire._
+[^8]: 22 :\* Anatole France, _Le Puits de Sainte Claire._
 
 [^9]: 23:\* Cité par Grimm, _Mythologie teutonique_, vol. 2, p. 845.
 
-[^10] : 24 :\* Stoufenb., 1126.
+[^10]: 24 :\* Stoufenb., 1126.
 
 [^11]: 24:† _Cf._ en Scandinavie la déesse de la mort Hel.
 
@@ -200,6 +200,6 @@ J’abandonnais au vent mes cheveux tout entiers….
 
 [^13]: 25:\* Ella d'Arcy, _Instances modernes._
 
-[^14] : 25 : † Dr Friedrich Wilhelm Schwarzlose, _Die Waffen der alten Araber, aus ihren Dichtern dargestellt._
+[^14]: 25 : † Dr Friedrich Wilhelm Schwarzlose, _Die Waffen der alten Araber, aus ihren Dichtern dargestellt._
 
 [^15]: 29:\* Pape, _Iliade_, xx. 577.

@@ -44,7 +44,7 @@ L’Essence divine, qui est tout ce qui existe, peut être considérée sous deu
 
 Les mystiques voient que Dieu est Un et Tout, et Un en Tout.
 
-La Sublimité (_‘uluww_) appartient à Dieu seul. Les essences (_a‘yán_) des choses sont en elles-mêmes inexistantes, tirant leur existence de Dieu, qui est la substance réelle (_‘ayn_) de tout ce qui existe. La Pluralité consiste en relations (_nisab_), qui sont des choses inexistantes. Il n’y a réellement rien que l’Essence, et celle-ci est sublime (transcendante) pour elle-même, non par rapport à quoi que ce soit, mais nous attribuons à la Substance Une une sublimité (transcendance) relative par rapport aux modes d’être qui lui sont attribués : c’est pourquoi nous disons que Dieu est (_huwa_) et n’est pas (_lá huwa_). Kharráz [^473], qui est un mode de Dieu et une de Ses langues, a déclaré que Dieu n’est connu que par le fait qu’Il réunit tous les opposés en les lui attribuant (Kharráz) [^474] : Il est le Premier, le Dernier, l’Extérieur, l’Intérieur ; Il est la substance de ce qui est manifesté et la substance de ce qui reste latent au moment de la manifestation ; nul ne Le voit sauf Lui-même, et nul ne Lui est caché, puisqu'Il est manifesté à Lui-même et caché à Lui-même ; et Il est la personne nommée Abú Sa'íd al-Kharráz et tous les autres noms des choses créées. L'intérieur dit « Non » quand l'extérieur dit « Je », et l'extérieur dit « Non » quand l'intérieur dit « Je », et ainsi dans le cas de tout contraire, mais le locuteur est Un, et Il est substantiellement identique à l'auditeur.… La Substance est Une, bien que ses modes soient différents. Nul ne peut l'ignorer, car chaque homme le sait de lui-même [^475], et l'Homme est l'image de Dieu.
+La Sublimité (_‘uluww_) appartient à Dieu seul. Les essences (_a‘yán_) des choses sont en elles-mêmes inexistantes, tirant leur existence de Dieu, qui est la substance réelle (_‘ayn_) de tout ce qui existe. La Pluralité consiste en relations (_nisab_), qui sont des choses inexistantes. Il n’y a réellement rien que l’Essence, et celle-ci est sublime (transcendante) pour elle-même, non par rapport à quoi que ce soit, mais nous attribuons à la Substance Une une sublimité (transcendance) relative par rapport aux modes d’être qui lui sont attribués : c’est pourquoi nous disons que Dieu est (_huwa_) et n’est pas (_lá huwa_). Kharráz [^473], qui est un mode de Dieu et une de Ses langues, a déclaré que Dieu n’est connu que par le fait qu’Il réunit tous les opposés en les lui attribuant (Kharráz) [^474]: Il est le Premier, le Dernier, l’Extérieur, l’Intérieur ; Il est la substance de ce qui est manifesté et la substance de ce qui reste latent au moment de la manifestation ; nul ne Le voit sauf Lui-même, et nul ne Lui est caché, puisqu'Il est manifesté à Lui-même et caché à Lui-même ; et Il est la personne nommée Abú Sa'íd al-Kharráz et tous les autres noms des choses créées. L'intérieur dit « Non » quand l'extérieur dit « Je », et l'extérieur dit « Non » quand l'intérieur dit « Je », et ainsi dans le cas de tout contraire, mais le locuteur est Un, et Il est substantiellement identique à l'auditeur.… La Substance est Une, bien que ses modes soient différents. Nul ne peut l'ignorer, car chaque homme le sait de lui-même [^475], et l'Homme est l'image de Dieu.
 
 Ainsi les choses se sont embrouillées et les nombres sont apparus, par le moyen de l’Un, à certains degrés [^476]. L’Un a fait naître le nombre, et le nombre a analysé l’Un, et la relation du nombre a été produite par l’objet de la numération… Celui qui sait cela sait que le Créateur qui est déclaré incomparable (_munazzah_) est les créatures qui sont comparées (_mushabbah_) à Lui – en raison de Sa manifestation dans leurs formes – bien que les créatures aient été distinguées du Créateur. Le <span id="p153">[<sup><small>p. 153</small></sup>]</span> Créateur est la créature, et la créature est le Créateur : tout cela procède d’une Essence Unique ; bien plus, Il est l’Essence Unique et les multiples essences (individualisées)… Qui est la Nature et qui est tout ce qui est manifesté par elle [^477] ? Nous ne l’avons pas vue diminuée par ce qui était manifesté par elle, ou augmentée par la non-existence de quoi que ce soit de manifesté qui était autre qu’elle. Ce qui a été manifesté n'est pas autre qu'elle, et elle n'est pas identique à ce qui a été manifesté, car les formes diffèrent quant à la prédication les concernant : celle-ci est froide et sèche, et celle-ci est chaude et sèche : elles sont unies par la sécheresse mais séparées par le froid et la chaleur. Bien plus, l'Essence est (en réalité) la Nature. Le monde de la Nature est de nombreuses formes dans un Seul Miroir ; bien plus, une Seule Forme dans divers miroirs [^478]. La confusion naît de la différence de vue, mais ceux qui perçoivent la vérité de ce que j'ai dit ne sont pas confus [^479].
 
@@ -82,7 +82,7 @@ Il convient de noter que si Ibnu ’l-‘Arabí admet l’immutabilité de la r�
 
 Comme Jílí, il est convaincu que toutes les âmes seront finalement sauvées, et il le soutient à sa manière scolastique :
 
-Quiconque se souvient de la Miséricorde est béni, et <span id="p160">[<sup><small>p. 160</small></sup>]</span> il n’y a rien dont la Miséricorde ne se soit souvenue. Le souvenir (_dhikr_) des choses par la Miséricorde est identique à sa création [^512] : donc toute chose existante est un objet de miséricorde. Que ta compréhension de ce que je dis ne soit pas entravée par la doctrine du châtiment éternel. Sache, d’abord, que la création de la Miséricorde comprend tout, de sorte que les peines de l’Enfer ont été créées par la Miséricorde. Deuxièmement, la miséricorde agit de deux manières : 1) elle agit essentiellement en faisant exister chaque idée individuelle sans tenir compte de son but ou de son absence, de ce qui est cohérent ou non, car elle voyait chaque idée telle qu’elle existait dans la connaissance de Dieu avant son existence réelle, et elle voyait donc la réalité (_ḥaqq_), créée dans les croyances des hommes, comme une idée potentiellement existante, et elle lui faisait miséricorde en la faisant exister (dans leurs croyances). C’est pourquoi nous avons dit que la réalité créée dans les croyances des hommes était le premier objet de miséricorde, après que la miséricorde ait été manifestée en faisant exister les croyants individuels. (2) Un effet produit par la demande (_su’ál_) : ceux qui sont voilés de la vérité demandent à Dieu [^513] d’avoir pitié d’eux dans leur croyance, mais les mystiques demandent à Dieu que la Miséricorde puisse subsister en eux [^514], et ils demandent miséricorde au nom de Dieu, en disant : « Ô Dieu, aie pitié de nous ! » Ce qui a pitié d’eux est la subsistance de la Miséricorde en eux [^515].
+Quiconque se souvient de la Miséricorde est béni, et <span id="p160">[<sup><small>p. 160</small></sup>]</span> il n’y a rien dont la Miséricorde ne se soit souvenue. Le souvenir (_dhikr_) des choses par la Miséricorde est identique à sa création [^512]: donc toute chose existante est un objet de miséricorde. Que ta compréhension de ce que je dis ne soit pas entravée par la doctrine du châtiment éternel. Sache, d’abord, que la création de la Miséricorde comprend tout, de sorte que les peines de l’Enfer ont été créées par la Miséricorde. Deuxièmement, la miséricorde agit de deux manières : 1) elle agit essentiellement en faisant exister chaque idée individuelle sans tenir compte de son but ou de son absence, de ce qui est cohérent ou non, car elle voyait chaque idée telle qu’elle existait dans la connaissance de Dieu avant son existence réelle, et elle voyait donc la réalité (_ḥaqq_), créée dans les croyances des hommes, comme une idée potentiellement existante, et elle lui faisait miséricorde en la faisant exister (dans leurs croyances). C’est pourquoi nous avons dit que la réalité créée dans les croyances des hommes était le premier objet de miséricorde, après que la miséricorde ait été manifestée en faisant exister les croyants individuels. (2) Un effet produit par la demande (_su’ál_) : ceux qui sont voilés de la vérité demandent à Dieu [^513] d’avoir pitié d’eux dans leur croyance, mais les mystiques demandent à Dieu que la Miséricorde puisse subsister en eux [^514], et ils demandent miséricorde au nom de Dieu, en disant : « Ô Dieu, aie pitié de nous ! » Ce qui a pitié d’eux est la subsistance de la Miséricorde en eux [^515].
 
 Le reste de ce passage, bien qu’on puisse facilement en voir le sens, est trop abscons et technique pour supporter une traduction. Ibnu ’l-‘Arabí est d’accord avec Jílí que les damnés, même s’ils restent dans le feu de l’Enfer, cessent finalement de souffrir [^516]. L’intolérance religieuse plaît aussi peu au panthéiste qui dit « Tout est Dieu » qu’au pessimiste libre-penseur qui crie que tout est vanité ; mais ici Ibnu ’l-‘Arabí ressent plus profondément <span id="p161">[<sup><small>p. 161</small></sup>]</span> et plaide plus sérieusement que Ma‘arrí. Ce que Dieu a créé à sa propre image, personne ne doit prendre sur lui de le détruire, sauf sur ordre de Dieu. Les hommes ne sont pas blâmables dans leur vraie nature : leurs actions sont louées ou blâmées, mais toute action appartient à Dieu. Quant à ceux qui méritent légalement la mort – les infidèles et les idolâtres – Dieu réprimanda David pour les avoir tués, et quand il dit : « Pour l’amour de toi, ô Seigneur », Dieu répondit et dit : « Oui, mais ne sont-ils pas mes serviteurs ? » Il est juste de s’indigner au nom de Dieu, mais « la compassion envers Ses serviteurs a le plus grand droit [^517] ». L’amour est la plus haute forme d’adoration de Dieu [^518]. Ibnu ’l-‘Arabí anticipe Wordsworth [^519] dans un hommage raisonné à l’influence céleste des enfants.
 
@@ -122,19 +122,19 @@ L'enfant affecte la disposition du père, de sorte qu'il descend de son autorit�
 
 [^464]: 149:2 Voir p. 88.
 
-[^465] : 150 : 1 _Fusúṣ_, 74.
+[^465]: 150 : 1 _Fusúṣ_, 74.
 
 [^466]: 150:2 Ce mode de pensée conduit Ibnu 'l-'Arabí à se livrer à des paradoxes audacieux, par exemple, « Il me loue (en manifestant mes perfections et en me créant sous Sa forme), et je Le loue (en manifestant Ses perfections et en Lui obéissant). Comment peut-Il être indépendant lorsque je L'aide et L'assiste ? (parce que les attributs divins dérivent la possibilité de manifestation de leurs corrélats). C'est pour cette raison que Dieu m'a fait exister, et je Le connais et Le fais exister (dans ma connaissance et ma contemplation de Lui). » _Fuṣúṣ_, 78.
 
 [^467]: 150:3 Dieu est l'identité des attributs, en ce sens qu'ils ne se surajoutent pas à Son Essence mais sont des relations de l'Essence en tant que sujet à elle-même en tant qu'objet (_Fuṣúṣ_, 226). L'univers est la somme objectivée de ces relations.
 
-[^468] : 151 : 1 _Fuṣúṣ_, 16 fol.
+[^468]: 151 : 1 _Fuṣúṣ_, 16 fol.
 
 [^469]: 151:2 _Ibid_. 142.
 
 [^470]: 151:3 _Mújad_ (la chose amenée à l'existence) implique _mújid_ (celui qui l'amène à l'existence).
 
-[^471] : 151 : 4 _Fuṣúṣ_, 139 suiv.
+[^471]: 151 : 4 _Fuṣúṣ_, 139 suiv.
 
 [^472]: 151:5 _Ibid_. 76.
 
@@ -142,7 +142,7 @@ L'enfant affecte la disposition du père, de sorte qu'il descend de son autorit�
 
 [^474]: 151:7 _Ibid_. 75-6.
 
-[^475] : 152 : 1 Abú Sa'íd al-Kharráz (_ob_. a.d. 890) était un Ṣúfí bien connu de Bagdád. Voir _Kashf al-Maḥjúb_, traduction, [p. 241](3_vv_400_499#p241) suit.
+[^475]: 152 : 1 Abú Sa'íd al-Kharráz (_ob_. a.d. 890) était un Ṣúfí bien connu de Bagdád. Voir _Kashf al-Maḥjúb_, traduction, [p. 241](3_vv_400_499#p241) suit.
 
 [^476]: 152:2 Le mystique ne peut connaître Dieu que s'il est illuminé par tous les attributs divins, de sorte qu'il devienne un _ḥaqq_. Voir [p. 128](2_6#p128).
 
@@ -154,11 +154,11 @@ L'enfant affecte la disposition du père, de sorte qu'il descend de son autorit�
 
 [^480]: 153:2 La nature peut être considérée soit comme l'ensemble des formes particulières dans lesquelles la Réalité se révèle, soit comme la forme universelle de la Réalité se révélant dans toutes les formes particulières.
 
-[^481] : 153 : 3 _Fuṣúṣ_, 63 suiv.
+[^481]: 153 : 3 _Fuṣúṣ_, 63 suiv.
 
 [^482]: 153:4 Voir p. 94.
 
-[^483] : 153 : 5 _Fuṣúṣ_, 72 fol.
+[^483]: 153 : 5 _Fuṣúṣ_, 72 fol.
 
 [^484]: 153:6 _Ibid_. 230 fol.
 
@@ -186,37 +186,37 @@ L'enfant affecte la disposition du père, de sorte qu'il descend de son autorit�
 
 [^496]: 156:3 Le cœur de l'homme (_qalb_) porte l'empreinte du Plus Grand Nom de Dieu (_c'est-à-dire_, l'Essence) avec tous les autres Noms Divins.
 
-[^497] : 156 :4 _Fuṣúṣ_, 8 suiv.
+[^497]: 156 :4 _Fuṣúṣ_, 8 suiv.
 
 [^498]: 157:1 L'homme est un être absolu limité par l'individualisation (_ta'ayyun_). Cette limitation est cependant négative et irréelle : elle consiste à ne pas recevoir toutes les individualisations, à être doté de tous les attributs, à être nommé de tous les noms. Dans la mesure où l'homme est une réalité (_ḥaqq_), il n'est pas une créature humaine (_khalq_).
 
-[^499] : 157 :2 _Fuṣúṣ_, 39 fol.
+[^499]: 157 :2 _Fuṣúṣ_, 39 fol.
 
 [^500]: 157:3 « Unique » équivaut à « triple ». Cf. [p. 151](#p151) _supra_.
 
-[^501] : 157 : 4 _Fusúṣ_, 267.
+[^501]: 157 : 4 _Fusúṣ_, 267.
 
 [^502]: 157:5 P. 130 suiv.
 
 [^503]: 157:6 Voir [p. 151](#p151) _supra_.
 
-[^504] : 157 : 7 _Fusúṣ_, 161.
+[^504]: 157 : 7 _Fusúṣ_, 161.
 
 [^505]: 157:8 Jílí nie cela. Voir [p. 102](2_3#p102).
 
-[^506] : 158 : 1 _Fusúṣ_, 159.
+[^506]: 158 : 1 _Fusúṣ_, 159.
 
 [^507]: 158:2 _Ibid_. 77.
 
 [^508]: 158:3 Voir [p. 54](1_2#p54), note [5](1_2#fn159).
 
-[^509] : 158 : 4 _Fuṣúṣ_, 206 fol. Cf. 108-9.
+[^509]: 158 : 4 _Fuṣúṣ_, 206 fol. Cf. 108-9.
 
-[^510] : 158:5 _Ibid_. 105-6. La prière de Job pour que Dieu soulage sa douleur est justifiée par le fait qu'en priant Dieu de l'enlever, il l'a en réalité enlevée à Dieu, dans la mesure où l'homme est la forme extérieure de Dieu. Une telle prière ne manifeste pas un manque de soumission au décret divin (_qaḍá_), mais une insatisfaction à l'égard de la chose décrétée (_al-maqdí bihi_), qui — comme expliqué ci-dessus — est décrété au moyen de l'âme individuelle, c'est-à-dire un mode particulier de Dieu, non le Dieu absolu (_ibid_. 218-9). Tous les modes particuliers, ainsi que les effets qui leur sont attachés, sont (en tant que tels) des relations dépourvues de réalité. « L'effet (_athar_) appartient à l'inexistant » (_ibid_. 224). Cette distinction apparaît à la p. 159 un vers de Jalálu’ddin Rúmi, qui a intrigué M. Whinfield : ![](/image/book/Islam/Studies_in_Islamic_Mysticism/15900.jpg) « Je lui ai dit : « L’infidélité est la chose décrétée, pas le décret » » (_Masnavi-i Ma‘naví_, tr. et abrégé par E. H. Whinfield, 2e éd., p. 125).
+[^510]: 158:5 _Ibid_. 105-6. La prière de Job pour que Dieu soulage sa douleur est justifiée par le fait qu'en priant Dieu de l'enlever, il l'a en réalité enlevée à Dieu, dans la mesure où l'homme est la forme extérieure de Dieu. Une telle prière ne manifeste pas un manque de soumission au décret divin (_qaḍá_), mais une insatisfaction à l'égard de la chose décrétée (_al-maqdí bihi_), qui — comme expliqué ci-dessus — est décrété au moyen de l'âme individuelle, c'est-à-dire un mode particulier de Dieu, non le Dieu absolu (_ibid_. 218-9). Tous les modes particuliers, ainsi que les effets qui leur sont attachés, sont (en tant que tels) des relations dépourvues de réalité. « L'effet (_athar_) appartient à l'inexistant » (_ibid_. 224). Cette distinction apparaît à la p. 159 un vers de Jalálu’ddin Rúmi, qui a intrigué M. Whinfield : ![](/image/book/Islam/Studies_in_Islamic_Mysticism/15900.jpg) « Je lui ai dit : « L’infidélité est la chose décrétée, pas le décret » » (_Masnavi-i Ma‘naví_, tr. et abrégé par E. H. Whinfield, 2e éd., p. 125).
 
 [^511]: 159:1 _C'est-à-dire_, Dieu est révélé sous différentes formes de croyance selon la capacité du croyant. Seul le mystique voit qu'Il est Un dans toutes les formes, car le cœur du mystique (_qalb_) est tout-réceptif : il assume toute forme dans laquelle Dieu se révèle, comme la cire prend l'empreinte du sceau (_Fuṣúṣ_, 145).
 
-[^512] : 159:2 _Fuṣúṣ_, 282. Cf. 135.
+[^512]: 159:2 _Fuṣúṣ_, 282. Cf. 135.
 
 [^513]: 159:3 _Ibid_. 205.
 
@@ -226,7 +226,7 @@ L'enfant affecte la disposition du père, de sorte qu'il descend de son autorit�
 
 [^516]: 160:3 _C'est-à-dire_, le vrai mystique prie pour qu'il soit « illuminé » par l'attribut divin de Miséricorde afin de devenir un _ráḥim_ (ἐλεῶν), ce qui implique nécessairement un _marḥúm_ (ἐλεούμενος), et de se connaître comme un mode du Dieu absolu qui est en réalité à la fois le _ráḥim_ et le _marḥúm_.
 
-[^517] : 160 : 4 _Fusúṣ_, 225.
+[^517]: 160 : 4 _Fusúṣ_, 225.
 
 [^518]: 160:5 _Ibid_. 212. Cf. 100. Ils peuvent éprouver un plaisir positif comme celui des habitants du Paradis (_ibid_. 137).
 
@@ -236,4 +236,4 @@ L'enfant affecte la disposition du père, de sorte qu'il descend de son autorit�
 
 [^521]: 161:3 « Le ciel se trouve autour de nous dans notre enfance. »
 
-[^522] : 161 : 4 _Fusúṣ_, 250.
+[^522]: 161 : 4 _Fusúṣ_, 250.

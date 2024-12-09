@@ -171,7 +171,7 @@ Hafiz est plutôt le précurseur que le fondateur de cette école de poètes. Il
 
 [^1]: Pour l'histoire de l'époque de Hafiz, voir Defrémery dans le _Journal Asiatique_ de 1844 et 1845, « Histoire de la Perse » de Malcolm, « Histoire musulmane » de Price, « Histoire de la Perse » de Markham. Pour la vie du poète, voir V. Hammer, Defrémery dans le _Journal Asiatique_ de 1858, Sir Gore Ouseley et Daulat Shah, dont l'ouvrage est principalement une suite d'anecdotes — on m'a dit que celui de Lutfallah n'est guère meilleur.
 
-[^2] : Les « Voyages d'Ibn Batuta », édités par Defrémery et Sanguinetti.
+[^2]: Les « Voyages d'Ibn Batuta », édités par Defrémery et Sanguinetti.
 
 [^3]: _Journal des Savants_ pour 1821 et 1822.
 
@@ -179,21 +179,21 @@ Hafiz est plutôt le précurseur que le fondateur de cette école de poètes. Il
 
 [^5]: La contribution du Dr Johnson à cette question controversée est peut-être aussi bonne que n'importe quelle autre : « Monsieur, dit-il à Boswell, nous savons que la volonté est libre, il y a une fin à cela. »
 
-[^6] : _Les Religions de l'Asie Centrale_.
+[^6]: _Les Religions de l'Asie Centrale_.
 
 [^7]: Cf. saint Paul, qui n'est guère plus explicite : « Travaillez à votre salut, car c'est Dieu qui produit en vous le vouloir et le faire, selon son bon plaisir » (Phil. ii. 12).
 
-[^8] : Dabistan.
+[^8]: Dabistan.
 
 [^9]: Hallaj vécut au IXe siècle. Certains le considéraient comme un sorcier, d'autres comme un saint faiseur de miracles. Il fut condamné à mort par le calife de Bagdad à des tortures atroces et ses cendres furent jetées dans le Tigre. On raconte qu'un soufi demanda un jour à Dieu pourquoi il avait permis que son serviteur Hallaj tombe entre les mains du calife, et il lui fut répondu : « Ainsi sont punis les révélateurs de secrets. »
 
-[^10] : Gulshen-i-Raz.
+[^10]: Gulshen-i-Raz.
 
 [^11]: Yusuf et Zuleikha.
 
-[^12] : « Une année parmi les Perses. » Browne.
+[^12]: « Une année parmi les Perses. » Browne.
 
-[^13] : Sayyed Ahmed d'Ispahan.
+[^13]: Sayyed Ahmed d'Ispahan.
 
 [^14]: Écoutez le conseil d'un chanteur afghan qui a écrit son _Ars Poetica_ dans les montagnes au sud de Peshawar vers le milieu du XVIIe siècle :
 
@@ -207,4 +207,4 @@ Hafiz est plutôt le précurseur que le fondateur de cette école de poètes. Il
 
   Je crains que le résultat de ces instructions ne soit trop souvent « amphora coepit institui, currente rota cur urceus exit », et peut-être que le conseil d’Horace soit le meilleur des deux « denique sit quod vis, simplex dumtaxat et unum ».
 
-[^15] : _Cantique des Cantiques_.
+[^15]: _Cantique des Cantiques_.

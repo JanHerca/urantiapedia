@@ -191,6 +191,6 @@ LE POÈME DE ZUHAIR[^1]
 
 [^10]: Par le bassin profond on entend la guerre, et la signification des lignes est que les tribus se sont abstenues de la guerre pendant un certain temps, après quoi elles ont eu de nouveau recours aux armes.
 
-[^11] : Un terme courant d'imprécation.
+[^11]: Un terme courant d'imprécation.
 
 [^12]: Les Arabes errants du désert, lorsqu'ils se rencontraient, avaient l'habitude de présenter les extrémités de leurs lances les uns vers les autres si leurs intentions étaient pacifiques, les pointes s'ils avaient l'intention de se battre.

@@ -141,62 +141,62 @@ Vous connaissez maintenant les cinq esprits humains. Nous poursuivons donc : ils
 
 [^2]: (Par Ghazzâlî.) Dans ce verset lumineux, dans la lecture d'Ibn Mas'ûd, les mots « dans le cœur du croyant » suivent les mots « de Sa lumière ». Et Ubayy b. Ka\`b au lieu de « la similitude de Sa lumière » a « la similitude de la lumière du cœur de celui qui croit est semblable ». etc.
 
-[^3] : article 67, 22.
+[^3]: article 67, 22.
 
-[^4] : Art. 20, 12.
+[^4]: Art. 20, 12.
 
 [^5]: Voir S. 1, 4.
 
 [^6]: Voir pour tout ce passage S. 6, 75-8.
 
-[^7] : article 112.
+[^7]: article 112.
 
 [^8]: Pour ce passage, voir S. 26, 24-7, et pour la pensée entière, comparer pp. \[54, 55\]. 9
 
 [^9]: Car après l'_idhân_, juste avant le matin, la nourriture et les rapports sexuels sont jeûnés jusqu'au coucher du soleil suivant.
 
-[^10] : Art. 28, 29. 46.
+[^10]: Art. 28, 29. 46.
 
-[^11] : Art. 13, 18.
+[^11]: Art. 13, 18.
 
 [^12]: S. 28, 30. Voir S. 19, 53 et 10, 82.
 
 [^13]: Ghazzâlî joue ici sur le mot _ayman_, dont la racine signifie _dextre_ ou _felix_.
 
-[^14] : Art. 28, 30.
+[^14]: Art. 28, 30.
 
-[^15] : Art. 42, 52.
+[^15]: Art. 42, 52.
 
-[^16] : S. 20, et 79, 16.
+[^16]: S. 20, et 79, 16.
 
-[^17] : Art. 20, 12.
+[^17]: Art. 20, 12.
 
-[^18] : article 68.
+[^18]: article 68.
 
 [^19]: S. 85, 22 et 7, 44.
 
-[^20] : Art. 2, 1.
+[^20]: Art. 2, 1.
 
 [^21]: Article 25, 3,
 
-[^22] : Art. 48, 36.
+[^22]: Art. 48, 36.
 
-[^23] : S. 82, 8 ; cf. 64, 3.
+[^23]: S. 82, 8 ; cf. 64, 3.
 
 [^24]: Il doit, je pense, y avoir une certaine corruption dans le texte ici. Je suggère de lire ### pour ###.
 
-[^25] : article 114.
+[^25]: article 114.
 
 [^26]: Et donc ils sont cités à la p. [^7].
 
-[^27] : Art. 13, 19.
+[^27]: Art. 13, 19.
 
-[^28] : Art. 20, 12.
+[^28]: Art. 20, 12.
 
-[^29] : Art. 7, 21.
+[^29]: Art. 7, 21.
 
 [^30]: (_Note de Ghazzâlî_.) La proportion des rêves par rapport aux autres caractéristiques de la prophétie est de 1 à 46. Celle de la vision éveillée a un rapport plus grand, de 1 à 3, je crois, car il nous a été révélé que les caractéristiques prophétiques se répartissent nettement en trois catégories, et de ces trois, l'une est la vision éveillée.
 
-[^31] : Art. 42, 52.
+[^31]: Art. 42, 52.
 
 [^32]: S. 58, 11.

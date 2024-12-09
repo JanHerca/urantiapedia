@@ -126,34 +126,34 @@ Pour une certaine aide dans la normalisation de la translittération, nous somme
 
 ## Notes de bas de page
 
-[^1] : Cf. Poèmes nos XXI, XL, XLIII, LXVI, LXXVI.
+[^1]: Cf. Poèmes nos XXI, XL, XLIII, LXVI, LXXVI.
 
 [^2]: Poèmes I, II, XLI.
 
-[^3] : Poèmes XLII, LXV, LXVII.
+[^3]: Poèmes XLII, LXV, LXVII.
 
 [^4]: Nos. VII et XLIX.
 
-[^5] : N° VII.
+[^5]: N° VII.
 
-[^6] : n° VII, XXVI, LXXVI, XC.
+[^6]: n° VII, XXVI, LXXVI, XC.
 
 [^7]: Nos. VII et IX.
 
-[^8] : Cf. notamment les n° LIX, LXVII, LXXV, XC, XCI.
+[^8]: Cf. notamment les n° LIX, LXVII, LXXV, XC, XCI.
 
-[^9] : n° XVII, XXVI, LXXVI, LXXXII.
+[^9]: n° XVII, XXVI, LXXVI, LXXXII.
 
 [^10]: N° XVI.
 
-[^11] : n° XVII, XVIII, XXXIX, XLI, LIV, LXXVI, LXXXIII, LXXXIX, XCVII.
+[^11]: n° XVII, XVIII, XXXIX, XLI, LIV, LXXVI, LXXXIII, LXXXIX, XCVII.
 
-[^12] : N° L, LIII, LXVIII.
+[^12]: N° L, LIII, LXVIII.
 
-[^13] : n° XXVI, XXXII, LXXVI.
+[^13]: n° XXVI, XXXII, LXXVI.
 
-[^14] : nos LXXV, LXXVIII, LXXX, XC.
+[^14]: nos LXXV, LXXVIII, LXXX, XC.
 
-[^15] : Non. LXXX.
+[^15]: Non. LXXX.
 
-[^16] : n° XV, XXIII, LXVII, LXXXVII, XCVII.
+[^16]: n° XV, XXIII, LXVII, LXXXVII, XCVII.

@@ -156,23 +156,23 @@ LA FIN
 
 ## Notes de bas de page
 
-[^1] : Art. 24, 40.
+[^1]: Art. 24, 40.
 
 [^2]: La division tripartite suivante de l'âme, avec ses analogues, est platonicienne (voir _République_, livre iv).
 
-[^3] : article 12, 47.
+[^3]: article 12, 47.
 
-[^4] : Art. 24, 40.
+[^4]: Art. 24, 40.
 
-[^5] : Art. 24, 40.
+[^5]: Art. 24, 40.
 
-[^6] : S.4, 37.
+[^6]: S.4, 37.
 
-[^7] : article 14, 3.
+[^7]: article 14, 3.
 
-[^8] : Art. 25, 43.
+[^8]: Art. 25, 43.
 
-[^9] : Voir Averroès, opusc. cit., p. 61, Le Caire éd., p. 51.
+[^9]: Voir Averroès, opusc. cit., p. 61, Le Caire éd., p. 51.
 
 [^10]: Il semble inévitable de lire ###. Le pronom féminin ne peut se référer qu'à ###, ce qui est absurde. Le référer à un _masdar_ fourni ne semble pas être dans la manière de notre auteur.
 

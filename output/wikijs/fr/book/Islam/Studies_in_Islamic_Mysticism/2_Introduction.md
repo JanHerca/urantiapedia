@@ -151,13 +151,13 @@ J'espère que l'analyse et l'exposé qui suivent sont suffisamment complets pour
 
 [^220]: 79:1 Prof. DB Macdonald, _L'attitude religieuse et la vie en Islam_, p. 163.
 
-[^221] : 79 : 2 Hujwírí, _Kashf al-Maḥjúb_, p. 228 de ma traduction.
+[^221]: 79 : 2 Hujwírí, _Kashf al-Maḥjúb_, p. 228 de ma traduction.
 
 [^222]: 79:3 Massignon traduit par « Je suis la Vérité Créatrice » (_Kitáb al-Ṭawásín_, p. 175). _Al-Ḥaqq_ est le Créateur par opposition aux créatures (_al-khalq_) et cela semble être le sens dans lequel Ḥalláj a compris le terme, mais il est également appliqué à Dieu conçu panthéistiquement comme la seule réalité permanente. Cf. l'article « Ḥaḳḳ » du Prof. D. B. Macdonald dans _Encycl. of Islam_.
 
-[^223] : 80 : 1 _Iḥyá_ (Búláq, a.h. 1289), vol. IV, p. 294.
+[^223]: 80 : 1 _Iḥyá_ (Búláq, a.h. 1289), vol. IV, p. 294.
 
-[^224] : 80 : 2 Massignon, _Kitáb al-Ṭawásín_, p. 129.
+[^224]: 80 : 2 Massignon, _Kitáb al-Ṭawásín_, p. 129.
 
 [^225]: 80:3 Comparez ceci avec l’expression moniste de la même pensée par Jílí (K I. 51, 1) : « Nous sommes l’esprit de l’Un, bien que nous habitions tour à tour dans deux corps. » De même, Jalálu’ddín Rúmí (Divāni Shamsi Tabriz, p. 153) :
 
@@ -188,16 +188,16 @@ Cf. K II. 121, 11 ss. : « L'amour essentiel est l'amour dans l'Unité, de sorte
 
 [^236]: 83:1 K I. 20, 23 suiv.
 
-[^237] : 83 : 2 _Fuṣúṣ_ (Le Caire, AH 1312), 29, 78, 181, etc.
+[^237]: 83 : 2 _Fuṣúṣ_ (Le Caire, AH 1312), 29, 78, 181, etc.
 
-[^238] : 86 : 1 Voir Bousset, _Hauptprobleme der Gnosis_, p. 160 francs.
+[^238]: 86 : 1 Voir Bousset, _Hauptprobleme der Gnosis_, p. 160 francs.
 
 [^239]: 86:2 K I. 10, 21 fol.
 
 [^240]: 87:1 Voir
 [^241]: 87:2 K I. ii, je suiv.
 
-[^242] : 87 : 3 Ainsi, dans les écrits pseudo-clémentins, Adam ou Christ, le véritable prophète et incarnation parfaite de l'esprit divin, est représenté comme se manifestant personnellement dans toute une série de porteurs ultérieurs de la Révélation. Bousset, _op. cit._p. 172, cite les passages suivants : « nam et ipse verus Propheta ab initio mundi per saeculum currens festinat ad requiem » et « Christus, qui ab initio et semper erat, per singulas quasque Generationes piis latenter licet semper tamen aderat ». Sur la transmission de la Lumière de Mahomet, voir l'article de Goldziher cité dans la note suivante.
+[^242]: 87 : 3 Ainsi, dans les écrits pseudo-clémentins, Adam ou Christ, le véritable prophète et incarnation parfaite de l'esprit divin, est représenté comme se manifestant personnellement dans toute une série de porteurs ultérieurs de la Révélation. Bousset, _op. cit._p. 172, cite les passages suivants : « nam et ipse verus Propheta ab initio mundi per saeculum currens festinat ad requiem » et « Christus, qui ab initio et semper erat, per singulas quasque Generationes piis latenter licet semper tamen aderat ». Sur la transmission de la Lumière de Mahomet, voir l'article de Goldziher cité dans la note suivante.
 
 [^243]: 87:4 On trouvera un excellent aperçu de la doctrine concernant la préexistence de Mahomet, des conséquences qu'on en tire et des sources d'où elle dérive, dans les _Éléments Neuplatonische und gnostische im Hadīṯ_ de Goldziher (_Zeitschrift für Assyriologie_, vol. 22, p. 317 et suiv.).
 

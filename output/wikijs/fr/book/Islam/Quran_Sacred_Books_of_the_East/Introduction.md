@@ -1062,27 +1062,27 @@ Mars 1880.
 
 ## Notes de bas de page
 
-[^0] : xiii:1 Genèse xxviii. 13-19.
+[^0]: xiii:1 Genèse xxviii. 13-19.
 
-[^1] : xvi:1 Voir Coran II, 129.
+[^1]: xvi:1 Voir Coran II, 129.
 
 [^2]: xx:1 En arabe iqra’; une grande divergence d’opinion existe même parmi les musulmans sur le sens exact de ce mot. J’ai suivi la tradition la plus généralement acceptée selon laquelle il a sa signification ordinaire de « lecture », et cela est confirmé par la référence immédiatement après à l’écriture ; d’autres le prennent pour « réciter ! » Sprenger imagine qu’il signifie « lire les écritures juives et chrétiennes », ce qui, si ingénieux soit-il, est, comme dirait un Arabe, bârid, singulièrement froid et étranger à l’esprit de la langue.
 
-[^3] : xxii:1 Sourate LXXIV, 1-7.
+[^3]: xxii:1 Sourate LXXIV, 1-7.
 
 [^4]: xxix:1 Voir Partie I, p. 74, note 2.
 
 [^5]: xxix:2 Voir Chapitre XXXIII, ver. 36, note.
 
-[^6] : xxxviii : 1 Voir Chapitre III, vers. 115-168.
+[^6]: xxxviii : 1 Voir Chapitre III, vers. 115-168.
 
-[^7] : xxxix : 1 Chapitre XXXIII.
+[^7]: xxxix : 1 Chapitre XXXIII.
 
 [^8]: xl:1 Voir Chapitre LXVI.
 
 [^9]: lii:1 Voir note au vol. ii, p. 110, de Burton's 'Pèlerinage à El Medina et à La Mecque.
 
-[^10] : lvi:1 Geschichte des Qorâns, p. 43.
+[^10]: lvi:1 Geschichte des Qorâns, p. 43.
 
 [^11]: lvi:2 Mahomet a peut-être bien répudié l'accusation d'être un poète, car on ne lui attribue qu'un seul vers, et celui-ci est involontaire :
 
@@ -1092,11 +1092,11 @@ Ana 'bnu 'Abd el Mu_t__t_alib.
 Je suis le prophète qui ne ment pas;
 Je suis le fils d’Abd el Mu_t__t_alib.’
 
-[^12] : lxii:1 Voir Partie II, p. 13, note 1.
+[^12]: lxii:1 Voir Partie II, p. 13, note 1.
 
 [^13]: lxvi:1 Voir ma Grammaire arabe, p. 256.
 
-[^14] : lxvii:1 Voir Chapitre VII, ver. 179.
+[^14]: lxvii:1 Voir Chapitre VII, ver. 179.
 
 [^15]: lxix:1 Voir Partie I, p. 13, note 2.
 
@@ -1110,18 +1110,18 @@ Je suis le fils d’Abd el Mu_t__t_alib.’
 
 [^20]: lxx:2 Cf. Chapitre XV, ver. 44.
 
-[^21] : lxxi:1 Voir Partie II, p. 25.
+[^21]: lxxi:1 Voir Partie II, p. 25.
 
 [^22]: lxxii:1 « L'abaissement de la tête, par une personne priant \[ou en prière\], après l'acte de se tenir debout, dans lequel la récitation \[de parties du Ḳur-án\] est effectuée, de sorte que les paumes des mains atteignent les genoux, ou de sorte que le dos s'affaisse », Lane's Arabic-English Lexicon.
 
-[^23] : lxxiii:1 Cf. Chapitre XCVII, ver. 1.
+[^23]: lxxiii:1 Cf. Chapitre XCVII, ver. 1.
 
 [^24]: lxxiii:2 Le mot signifiait à l’origine « pureté ».
 
-[^25] : lxxiv:1 Voir p. xiii et chapitre II, ver. 153.
+[^25]: lxxiv:1 Voir p. xiii et chapitre II, ver. 153.
 
 [^26]: lxxvii:1 On peut déduire à quel point cela était naturel pour un Arabe d'après l'anecdote relatée dans la première partie, note 2, p. 126 ; voir aussi p. lv.
 
-[^27] : lxxix:1 Voir Chapitre XLIII, ver. 12.
+[^27]: lxxix:1 Voir Chapitre XLIII, ver. 12.
 
 [^28]: lxxx:1 Voir Partie II, p. 63, note.

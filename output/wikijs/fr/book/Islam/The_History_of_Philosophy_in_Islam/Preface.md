@@ -78,8 +78,8 @@ T. J. DE BOER.
 
 ## Notes de bas de page
 
-[^0] : vii:1 S. MUNK, « _Mélanges de Philosophie juive et arabe_ », Paris 1859.
+[^0]: vii:1 S. MUNK, « _Mélanges de Philosophie juive et arabe_ », Paris 1859.
 
-[^1] : vii:2 CARRA DE VAUX, « Avicenne », Paris 1900.
+[^1]: vii:2 CARRA DE VAUX, « Avicenne », Paris 1900.
 
 [^2]: viii:1 \[Note du traducteur : Dans cette version, la translittération a été adaptée autant que possible aux sons anglais\].

@@ -93,7 +93,7 @@ Page [20](Text#p20). Un Shah étranger. — le héros de l'histoire étant origi
 
 Page [21](Text#p21). Décoration des arcs : avec de la peinture indigo foncée, comme l'arc de tir à l'arc avec une fine écorce semblable à du papyrus.
 
-Page [21](/en/book/Islam/Salaman_an_Absal/Text#p21). Un grain de musc.—un 'Patch', sc.—«Noir comme le Musc.»—De Sacy.
+Page [21](/fr/book/Islam/Salaman_an_Absal/Text#p21). Un grain de musc.—un 'Patch', sc.—«Noir comme le Musc.»—De Sacy.
 
 Page [23](Text#p23). L'ombre de la fortune. — allusion au Phénix, dont l'ombre des ailes prédisait une couronne sur la tête qu'elle survolait.
 
@@ -129,7 +129,7 @@ Page [34](Text#p34). Wámik.—Un autre amant typique d'Azra, une vierge.
 
 Page 35. Un miroir – attribué mythiquement par l’Orient – ​​et dans quelque avatar occidental sauvage – au prédécesseur de ce Shah, Alexandre le Grand. <span id="p68">[<sup><small>p. 68</small></sup>]</span> Peut-être (pense V. Hammer) le miroir concave du phare d’Alexandrie, qui, la nuit, projetait un œil si ardent sur les profondeurs que non seulement la légende disait qu’il échangeait des regards avec celui du colosse de Rhode et, dans l’imagination et le langage orientaux, qu’il pénétrait « le monde », mais qu’il le reflétait le jour à celui qui y regardait avec des yeux pour voir. La coupe de leur propre Jamshíd avait, qu’elle fût pleine ou vide, la même propriété. Et cette coupe d’argent trouvée dans le sac de Benjamin – « N’est-ce pas celle dans laquelle boit mon Seigneur, et par laquelle en effet il devine ? » – Gen. XLIV. 5. Notre télescope à réflexion va dans une certaine mesure réaliser la fable d’Alexandrie.
 
-Page [35](/en/book/Islam/Salaman_an_Absal/Text#p35). La Coupe du Bonheur et des Larmes. κρατηρα μακρον ἡδονης καὶ δακρυων κιρνωντες εξεπινον αχρις ες μεθην.
+Page [35](/fr/book/Islam/Salaman_an_Absal/Text#p35). La Coupe du Bonheur et des Larmes. κρατηρα μακρον ἡδονης καὶ δακρυων κιρνωντες εξεπινον αχρις ες μεθην.
 
 Page [36](Text#p36). Il le jeta, etc. — Une histoire raconte que Khusrau avait promis que si Firhád coupait une montagne et y faisait passer un ruisseau, Shírín serait à lui. Firhád était sur le point d'achever son travail, lorsque Khusrau envoya une vieille femme (peut-être ici, à dessein, confondue avec le destin) pour lui dire que Shírín était morte ; sur quoi Firhád se jeta la tête la première du haut du rocher. La sculpture de Beysitún (ou Besitún), où Rawlinson a déchiffré Darius et Xerxès, était traditionnellement appelée celle de Firhád.
 

@@ -79,4 +79,4 @@ Pour plus de clarté, j'ai divisé l'étude suivante en trois sections, dont la 
 
 ## Notes de bas de page
 
-[^2] : 2 : 1 _Asrár_, 4, 16-6, 5.
+[^2]: 2 : 1 _Asrár_, 4, 16-6, 5.

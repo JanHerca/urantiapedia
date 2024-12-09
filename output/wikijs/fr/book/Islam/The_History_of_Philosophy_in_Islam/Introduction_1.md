@@ -88,4 +88,4 @@ Puis, au XIIIe siècle, les Mongols envahirent les régions orientales de l'Isla
 
 ## Notes de bas de page
 
-[^3] : 6:1 Cf. Snouck Hurgronje, « La Mecque », II, p. 228 _m²_.
+[^3]: 6:1 Cf. Snouck Hurgronje, « La Mecque », II, p. 228 _m²_.

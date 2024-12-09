@@ -190,6 +190,6 @@ _Mars_ 1921.
 
 ## Notes de bas de page
 
-[^0] : vii:1 Publié dans _Rivista degli studi orientali_ (1919), vol. VIII. 1-106.
+[^0]: vii:1 Publié dans _Rivista degli studi orientali_ (1919), vol. VIII. 1-106.
 
 [^1]: viii:1 Il n’existe aucune base fiable (cf. [p. 164](3_Introduction#p164) _infra_) pour affirmer qu’Ibnu ’l-Fáriḍ connaissait Ibnu ’l-‘Arabí. Ce dernier aurait demandé au poète la permission d’écrire un commentaire sur sa _Tá’iyya_, et aurait reçu comme réponse que le _Futúḥátu ’l-Makkiyya_ en était un commentaire (Maqqarí, éd. de Leyde, 1. 570, 16-18) ; c’est pourtant le genre d’histoire qui ne pouvait manquer d’être inventée. Le _Futúḥát_ fut achevé en 629 a.H., trois ans seulement avant la mort d’Ibnu ’l-Fáriḍ.

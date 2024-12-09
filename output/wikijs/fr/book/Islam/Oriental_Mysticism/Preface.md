@@ -78,4 +78,4 @@ COLLÈGE ST JEAN, CAMBRIDGE.
 
 [^1]: ix:1 Le _Maksad i Aksá_ ou « Le but le plus éloigné ». Voir _Hajji Khalfa_, éd. Flügel, vol. VI, p. 90. Cet ouvrage fut écrit à l'origine en turc et traduit en persan par Khwárazím Shah. Certains fragments en furent édités en turc et en latin par A. Müller, Brandebourg, 1663. L'exemplaire dont j'ai fait usage fait partie d'un volume contenant divers traités persans et turcs sur des sujets philosophiques et religieux, présenté par Adam Bowen à la bibliothèque du Trinity College, Cambridge. Il est marqué R. 13. 32. dans le catalogue.
 
-[^2] : x:1 Cf. _La Poésie philosophique et religieuse chez les Persans_, par M. Garcin de Tassy, p. 3.
+[^2]: x:1 Cf. _La Poésie philosophique et religieuse chez les Persans_, par M. Garcin de Tassy, p. 3.

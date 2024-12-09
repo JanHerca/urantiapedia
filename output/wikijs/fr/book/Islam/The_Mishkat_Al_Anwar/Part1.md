@@ -171,51 +171,51 @@ Et chaque homme trouve facilement ce pour quoi il a été créé apte.
 
 [^1]: Lecture ### que le sens et la rime exigent.
 
-[^2] : article 50, 18.
+[^2]: article 50, 18.
 
-[^3] : Art. 22, 50.
+[^3]: Art. 22, 50.
 
-[^4] : Art. 12, 32.
+[^4]: Art. 12, 32.
 
-[^5] : Article 64,8.
+[^5]: Article 64,8.
 
-[^6] : S.4, 174.
+[^6]: S.4, 174.
 
-[^7] : S.7, 178.
+[^7]: S.7, 178.
 
-[^8] : Art. 14, 48.
+[^8]: Art. 14, 48.
 
-[^9] : Art. 33, 46.
+[^9]: Art. 33, 46.
 
-[^10] : Art. 46, 33.
+[^10]: Art. 46, 33.
 
-[^11] : S. 24, 35 ; voir p. 45 de la traduction.
+[^11]: S. 24, 35 ; voir p. 45 de la traduction.
 
-[^12] : Art. 28, 78.
+[^12]: Art. 28, 78.
 
-[^13] : Art. 28, 29.
+[^13]: Art. 28, 29.
 
 [^14]: S. 28, 29: également 19, 53.
 
-[^15] : S. 37, 164-7.
+[^15]: S. 37, 164-7.
 
 [^16]: Lecture de ### pour ###.
 
-[^17] : Art. 88, 28.
+[^17]: Art. 88, 28.
 
 [^18]: Lecture ###.
 
-[^19] : Art. 16, 40.
+[^19]: Art. 16, 40.
 
-[^20] : Al-Hallâj.
+[^20]: Al-Hallâj.
 
-[^21] : Abû Yazîd al-Bistâmî. Voir _Hallâj_ de Massignon, p. 513.
+[^21]: Abû Yazîd al-Bistâmî. Voir _Hallâj_ de Massignon, p. 513.
 
 [^22]: Par al-Hallâj.
 
-[^23] : S. 61, 11 ; 55, 24 ; 62, 27 ; 30, 2. Cf. _Mishkât_, p.34.
+[^23]: S. 61, 11 ; 55, 24 ; 62, 27 ; 30, 2. Cf. _Mishkât_, p.34.
 
-[^24] : S. 2. 115, voir 144, 149, 150.
+[^24]: S. 2. 115, voir 144, 149, 150.
 
 [^25]: Le morceau d'étymologie amateur de Gh. ici, par lequel il semble dériver la racine _'lh_ (« dieu ») de la racine _wty_ (« tour »), est à peu près aussi absurde que ma tentative de le suggérer en anglais.
 
@@ -227,12 +227,12 @@ Et chaque homme trouve facilement ce pour quoi il a été créé apte.
 
 [^29]: Voir St, Matt. xxv.
 
-[^30] : Ar. _al amr_. Voir p. 55, Introduction, pp. 32-40. Ou, « contrôle les choses ». Et voir S, 32, 5.
+[^30]: Ar. _al amr_. Voir p. 55, Introduction, pp. 32-40. Ou, « contrôle les choses ». Et voir S, 32, 5.
 
-[^31] : M, p. 19.
+[^31]: M, p. 19.
 
-[^32] : Art. 41, 53.
+[^32]: Art. 41, 53.
 
-[^33] : Art. 3, 6.
+[^33]: Art. 3, 6.
 
 [^34]: Voir S. 17, 44.

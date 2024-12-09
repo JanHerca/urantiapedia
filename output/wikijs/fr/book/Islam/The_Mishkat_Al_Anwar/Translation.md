@@ -118,6 +118,6 @@ Il faut cependant se contenter d'une explication très sommaire du sujet, car la
 
 [^1]: Le Verset de Lumière dans S. 24, 35. Le Verset d'Obscurité, qui suit presque immédiatement et est mentionné dans l'exposition, a été ajouté.
 
-[^2] : Ou Contenance ; voir Introduction, p. 66.
+[^2]: Ou Contenance ; voir Introduction, p. 66.
 
 [^3]: Cf. S. 3, 6.

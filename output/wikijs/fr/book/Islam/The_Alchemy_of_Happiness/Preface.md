@@ -111,6 +111,6 @@ Les théologiens sont les meilleurs juges des théologiens, et nous pouvons cite
 
 ## Notes de bas de page
 
-[^1] : Renan : _Averroès et Averroisme_.
+[^1]: Renan : _Averroès et Averroisme_.
 
 [^2]: Il convient de noter qu'il existait une secte contemporaine appelée « La-adria » — les agnostiques.
