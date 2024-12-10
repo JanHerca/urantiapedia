@@ -927,7 +927,7 @@ poder de misterio conferido a los miembros (70:7.2-7)
 pruebas de inicio de la pubertad (70:7.7-15)
 tipos sociopolíticos y religioso-místicos (70:7.1)
 
-secretos | | misterios | | 
+secretos | | misterios; secreto | | 
 
 Secretos de la Grandeza; Secreto de la Grandeza | | Seconafines | ORDER | 
 asignado a Mensajeros Poderosos, Los Elevados en Autoridad y Los que no tienen Nombre ni Número (28:6.1)
@@ -935,7 +935,7 @@ Seconafines terciarios; asociado con las Almas de la Bondad (28:6.20-22)
 
 Secretos de la Supremacía | | Secretos Trinitizados de la Supremacía | ORDER | 
 
-sectas | | cristianismo | | 
+sectas | | cristianismo; cultos | | 
 
 laicismo | | materialismo; mecanicismo (teoría) | RELIGION | 
 atribuye el impulso de ser desinteresado a la mente material (103:5.3)
@@ -1059,7 +1059,7 @@ El Espíritu de la Verdad da (194:0.1)
 
 autoconciencia | | conciencia | | 
 
-autocontemplación | | autoanálisis | | 
+autocontemplación | | autoanálisis; importancia personal | | 
 
 autocontrol | | abnegación | | 
 lograr el autocontrol
@@ -1145,7 +1145,7 @@ deja de pensar en ti mismo y en tus problemas (191:1.2)
 El Padre se manifiesta en los que exhiben (196:0.8-9)
 en lugar de autosacrificio (180:5.12)
 
-autogobierno | | gobierno | | 
+autogobierno | | gobierno; autocontrol | | 
 
 autogratificación | | carne; placeres; sexo:urgencia | | 
 alcanzado por la satisfacción con la comida, el juego, el humor, la indulgencia sexual (84:0.2-3) (84:8.2-3)
@@ -1239,7 +1239,7 @@ la cooperación con el Ajustador no implica (110:3.4)
 en antiguas ceremonias de iniciación (70:7.10)
 Adopción de ideas más antiguas de autodisciplina (89:3.4)
 
-individualidad | | | | 
+individualidad | | el yo | | 
 
 egoísmo | | altruismo; importancia personal | | 
 actos del egoísmo resultado de sentimientos materiales, emociones humanas (102:3.3)
@@ -2130,7 +2130,7 @@ tumba en la colina en Nazaret (126:1.2) (150:7.1) (158:1.4)
 Simeón (cantante) | | | PERSON | 
 en la presentación de Jesús (122:9.2-27)
 
-simios | (88:1.5) | simios; chimpancés; gorilas; monos | RACE | 
+simios | (88:1.5) | chimpancés; gorilas; monos | RACE | 
 descendientes de lémures (62:1.3)
 los mamíferos intermedios retrasados eran antepasados; hombre no descendiente de (61:6.1) (62:1.1) (62:3.11-13)
 algunos andonitas se aparearon con (63:1.4)
@@ -2618,7 +2618,7 @@ radiación solar | (41:5) | soles | |
 
 supergases solares | | soles | | 
 
-sistemas solares | | soles | PLACE | 
+sistemas solares | | Monmatia; planetas; Sol (de Urantia); soles | PLACE | 
 
 Solemnidades de la Confianza; Solemnidad de la Confianza | | Seconafines | ORDER | 
 reflejar la confiabilidad exacta de los individuos (28:6.13-15)
@@ -4960,7 +4960,7 @@ nada de valor de supervivencia alguna vez perdido (109:3.2) (109:6.1)
 la individualidad de valor de supervivencia evolucionó transfiriendo la identidad mortal al alma (112:2.20)
 el alma tiene valor de supervivencia (16:9.2) (108:1.6) (133:6.5-6)
 
-supervivientes | | mortales ascendentes | | 
+supervivientes | | mortales ascendentes; Estudiantes de los Mundos de las Mansiones; supervivientes dormidos | | 
 
 Susa | (130:0.3) | | PLACE | 
 Jesús y Ganid en (133:9.2)

@@ -373,7 +373,7 @@ Los elamitas fueron una tribu nodita de Elam. Enoc, hijo de Caín, fue su jefe. 
 Eleale | | | PLACE | OK
 Una de las poblaciones visitadas por Jesús, los doce y los setenta, durante la misión en Perea entre el 3 de enero de 30 hasta la muerte de Jesús (165:0.1)
 
-elecciones | | gobierno | | OK
+elecciones | | gobierno; sufragio | | OK
 
 electricidad | | | | OK
 La carga electrónica crea un campo eléctrico; el movimiento da nacimiento a una corriente eléctrica; la corriente produce un campo magnético. (42:5.8)
@@ -793,7 +793,7 @@ Los Manipuladores de la Energía son el quinto grupo de Artesanos Celestiales. E
 # Los Expertos en las comunicaciones
 # Los Profesores del descanso
 
-energía-materia | | energía | | OK
+energía-materia | | energía; energía material; energía física | | OK
 
 escudos de energía | | escudos de fricción | | OK
 
@@ -1649,7 +1649,7 @@ Los Compañeros Morontiales son simplemente amables anfitriones para aquellos qu
 
 ejecutores de los Ancianos de los Días | | Ejecutores Divinos | ORDER | OK
 
-agotamiento | | fatiga | | OK
+agotamiento | | fatiga; descanso | | OK
 
 realidad existencial | | realidad:niveles de realidad:realidad existencial | | OK
 

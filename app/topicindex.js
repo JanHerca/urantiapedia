@@ -763,8 +763,9 @@ class TopicIndex {
 					const len2 = 
 						Array.isArray(topic2[d]) ? topic2[d].length : 0;
 					if (len != len2) {
-						desc = strformat(err3, lan2, name, d, topic[d], 
-							topic2[d]);
+						const t1 = d === 'lines' ? topic[d].length : topic[d];
+						const t2 = d === 'lines' ? topic2[d].length : topic2[d];
+						desc = strformat(err3, lan2, name, d, t1, t2);
 						errors.push({desc, fileline});
 					}
 				});

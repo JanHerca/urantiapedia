@@ -1134,8 +1134,8 @@ nature of goodness
 
 gophers | (61:2.7) | | | OK
 
-Gophna | (143:0.1) | | PLACE | OK
-Jesus preached to the people of this place at the end of June 27
+Gophna | | | PLACE | OK
+Jesus preached to the people of this place at the end of June 27 (143:0.1)
 > https://en.wikipedia.org/wiki/Jifna
 
 gorillas | (61:3.12) (62:5.2) | simians | | OK
