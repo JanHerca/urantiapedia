@@ -640,7 +640,7 @@ class TopicIndex {
 			});
 			if (invalid.length > 0) {
 				topic.errors.push({
-					desc: this.tr('topic_invalid_refs') + invalid.join(' | '),
+					desc: this.tr('topic_invalid_refs') + invalid.join('; '),
 					fileline: fileline
 				});
 			}
@@ -675,13 +675,13 @@ class TopicIndex {
 		if (notfounded.length === validArRefs.length) {
 			topic.errors.push({
 				desc: strformat(this.tr('topic_not_in_ref'), 
-					topic.name, notfounded.join(' | ')),
+					topic.name, notfounded.join('; ')),
 				fileline: topic.fileline
 			});
 		} else if (notfounded.length / validArRefs.length > 0.8) {
 			topic.errors.push({
 				desc: strformat(this.tr('topic_in_less_20%'), 
-					topic.name, notfounded.join(' | ')),
+					topic.name, notfounded.join('; ')),
 				fileline: topic.fileline
 			});
 		}

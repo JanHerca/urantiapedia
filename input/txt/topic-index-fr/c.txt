@@ -12,7 +12,7 @@
 Césarée | (128:3,2) (130:0,2) (134:7,4) (140:7,2) (152:7,3) | | PLACE | OK
 Hérode l'Iduméen construisit le port de Césarée, ce qui contribua encore davantage à faire de la Palestine le carrefour du monde civilisé. (121:2.11)
 C'était la capitale romaine de la Judée (130:2.1) (184:3.17)
-Jésus s'arrêta à Césarée en route vers Rome pendant quelques jours, aidant à réparer l'une des rames du navire et rencontrant et influençant plusieurs personnes, en particulier Anaxandus, un membre éminent de l'Église chrétienne ultérieure. (130:2)
+Jésus s'arrêta à Césarée en route vers Rome pendant quelques jours, aidant à réparer l'une des rames du navire et rencontrant et influençant plusieurs personnes, en particulier Anaxandeus, un membre éminent de l'Église chrétienne ultérieure. (130:2)
 Césarée était la maison de Nathan, auteur de l'Évangile de Jean (121:8.10)
 Paul fut emprisonné à Césarée (130:2.5)
 20 000 Juifs ont été massacrés (130:2.5)
@@ -65,11 +65,11 @@ Caleb | | | PERSON | OK
 Caleb est l'un des éclaireurs de Moïse qui a vécu pour entrer dans la terre promise (166:3.2)
 > https://en.wikipedia.org/wiki/Caleb
 
-Calebites | | | RACE | OK
+Calébites | | | RACE | OK
 Les Calébites étaient une tribu nomade palestinienne non hébraïque. Ils rejoignirent David et sa coalition de tribus non hébraïques (97:9.7)
 > https://en.wikipedia.org/wiki/Twelve_Tribes_of_Israel
 
-Montagnes calédoniennes; Montagnes calédoniennes | (59:3.3) | | PLACE | OK
+Montagnes calédoniennes; montagnes calédoniennes | (59:3.3) | | PLACE | OK
 
 calendrier | | | | OK
 Lorsque les Égyptiens entreprirent de réformer le calendrier, il y a environ 7 000 ans, ils le firent avec une grande précision, en introduisant l'année de 365 jours. (77:2.11-12)
@@ -144,7 +144,7 @@ Arrivée de Jésus
 	Caligastia est toujours libre sur Urantia (53:8.6-7)
 > https://en.wikipedia.org/wiki/Devil
 
-Caligastia cent | | bâtons corporels des Princes Planétaires | PERSON | OK
+Cent de Caligastia; cent de Caligastia; Les cent; les cent | | bâtons corporels des Princes Planétaires | PERSON | OK
 ils étaient un groupe de 100 ex-mortels choisis par Caligastia parmi 785 000 citoyens de Jérusalem pour l'accompagner et l'assister dans sa mission de prince
 tous se sont portés volontaires (66:2.4)
 50 étaient des hommes et 50 des femmes ; ils servaient par paires et les paires vivaient ensemble (66:7.4-5) (77:1.3,5)
@@ -206,7 +206,7 @@ Caligula | | | PERSON | OK
 Empereur romain après la mort de Jésus. Selta, l'auteur d'une apocalypse juive, était attaché à la cour de Caligula (176:2.8)
 > https://en.wikipedia.org/wiki/Caligula
 
-Callirhoé | | | PLACE | OK
+Callirrhoé | | | PLACE | OK
 L'une des villes visitées par Jésus, les douze et les soixante-dix, lors de la mission de Pérée entre le 3 janvier 30 jusqu'à la mort de Jésus (165:0.1)
 > https://en.wikipedia.org/wiki/Callirrhoe_(Jordanie)
 
@@ -279,7 +279,7 @@ a assuré à Eve que les personnes ayant de bonnes intentions ne pouvaient pas f
 influencé Eve par la flatterie, l'enthousiasme, la persuasion personnelle (75:3.9)
 tué par les habitants du jardin (75:5.3)
 
-Cap Horn | (60:3.2) (60:3.12) | | PLACE | OK
+Cap Horn; cap Horn | (60:3.2) (60:3.12) | | PLACE | OK
 
 Capharnaüm | (145) (152) (153) (154) (134:7,5) (137:3,5) (138:1,1) (138:9,3) (147:7) | Bethsaïda | PLACE | OK
 Capharnaüm était une ville de pêcheurs située au nord de la mer de Galilée
@@ -308,7 +308,7 @@ Habitants connus
 	* L'apôtre Simon le Zélote était également de Capharnaüm (139:11.1)
 > https://en.wikipedia.org/wiki/Capharnaüm
 
-Le Cap | (66:5.30) | | PLACE | OK
+Cap | (66:5.30) | | PLACE | OK
 
 capital; Capital | | concurrence; propriété privée; profit | | OK
 La vie pastorale offrait un soulagement supplémentaire à l'esclavage alimentaire ; l'homme apprit à vivre des intérêts de son capital, de l'augmentation de ses troupeaux ; et cela lui procurait plus de loisirs pour la culture et le progrès. (68:5.7)
@@ -396,7 +396,7 @@ Un effort dévoué et déterminé pour réaliser la destinée éternelle est ent
 Jésus a déploré toute tendance à la surspécialisation, à l'étroitesse d'esprit et à la limitation des activités de la vie (149:4.3,6) (155:1.4)
 la vie n'est pas réelle pour celui qui ne sait pas faire une chose avec brio (160:4.11)
 
-Région des Caraïbes | (59:1.5) (59:2.2) | | PLACE | OK
+Région des Caraïbes; région des Caraïbes | (59:1.5) (59:2.2) | | PLACE | OK
 > https://en.wikipedia.org/wiki/Caribbean
 
 Carpates | (61:1.12) | | PLACE | OK
@@ -409,7 +409,7 @@ Jésus a utilisé sa première et unique parabole concernant son propre métier,
 atelier de menuiserie | | | | OK
 Joseph ajouta un atelier de menuiserie à la maison de Nazareth (122:6.3)
 
-Marbre de Carrare | (60:1.4) | | | OK
+Marbre de Carrare; marbre de Carrare | (60:1.4) | | | OK
 
 transport de vie | | | | OK
 Le transport de la vie est un état métamorphique dans lequel un séraphin transporteur peut devenir capable de transporter des corps immatériels. Le séraphin adopte une forme allongée entourée d'une étrange lumière ambrée, et lorsqu'il décolle, il le fait à la vitesse de l'éclair. (39:5.14)
@@ -424,7 +424,7 @@ Les Carthaginois faisaient partie d'une race plus ancienne qui comprenait les Ju
 Jésus a prononcé un discours sur le temps et l'espace à Carthage (130:7)
 > https://en.wikipedia.org/wiki/Carthage
 
-Mer Caspienne | | | PLACE | OK
+Mer Caspienne; mer Caspienne | | | PLACE | OK
 La mer Caspienne a été élargie dans l'Antiquité (80:2.5)
 Jésus a conduit une caravane vers la mer Caspienne, du 1er avril 24 jusqu'à un an plus tard (134:2)
 civilisations
@@ -484,7 +484,7 @@ chats | | panthères; tigres à dents de sabre | | OK
 superstition
 	les chats noirs étaient considérés comme magiques (88:5.4)
 
-Montagnes Catskill | (59:4.15) | | PLACE | OK
+Monts Catskill; monts Catskill | (59:4.15) | | PLACE | OK
 > https://en.wikipedia.org/wiki/Catskill_Mountains
 
 bétail; vaches; vache | | | | OK
@@ -534,7 +534,7 @@ la race blanche du nord a construit des habitations ; ils n'ont jamais vécu dan
 Dans les grottes de l'Europe occidentale, on peut trouver des ossements humains mêlés aux restes d'animaux des tropiques et de l'Arctique, témoignant que l'homme a vécu dans ces régions tout au long des dernières époques de l'avancée et du retrait des glaciers. (61:6.4)
 Les Cro-Magnons du Sud vivaient généralement dans des cavernes et des grottes. (80:3.6) (80:9.4)
 
-Cède | | | PERSON | OK
+Cédès | | | PERSON | OK
 Cédes a fait un récit de la vie de Jésus en 78 après J.-C. (121:8.9)
 
 artisans célestes | (44) (30:3.6) | | ORDER | OK
@@ -590,22 +590,22 @@ influences célestes | | influences spirituelles | | OK
 musiciens célestes | (44:1.1-15) | artisans célestes | ORDER | OK
 les musiciens célestes sont un sous-type d'artisans célestes (44:1)
 
-Surveillants célestes | (37:6) | | ORDER | OK
+Surveillants Célestes | (37:6) | | ORDER | OK
 Les Surveillants Célestes font partie du groupe Universe Aids (37:1.7)
 ils apparaissent nommés dans le registre de personnalité d'Uversa (30:2.146)
 Avant de quitter l'univers de Nébadon, la plupart des mortels d'Urantia auront l'occasion de servir pendant une période plus ou moins longue en tant que membres du corps des Surveillants Célestes de Nébadon. (37:6.7)
 Il y en a plus de trois millions dans Nébadon, et ce sont tous des volontaires qui se sont qualifiés par expérience pour servir de conseillers pédagogiques dans tout le royaume. (37:6.1)
 
-Enregistreurs célestes | (25:6) | | ORDER | OK
-Les enregistreurs célestes sont les enregistreurs qui exécutent tous les enregistrements en double, créant un enregistrement spirituel original et une contrepartie semi-matérielle (25:6.1)
-Les Enregistreurs Célestes ne sont pas créés comme tels ; ce sont des séraphins ascendants des univers locaux. (25:6.1) (37:8.8)
+Archivistes Célestes | (25:6) | | ORDER | OK
+Les Archivistes Célestes sont les enregistreurs qui exécutent tous les enregistrements en double, créant un enregistrement spirituel original et une contrepartie semi-matérielle (25:6.1)
+Les Archivistes Célestes ne sont pas créés comme tels ; ce sont des séraphins ascendants des univers locaux. (25:6.1) (37:8.8)
 Les gardiens des archives servent de chefs (25:5.4) (25:6.1)
-le corps des Enregistreurs Célestes est d'affectation permanente, ils sont enrôlés dans ces services pour un avenir lointain (25:6.5)
+le corps des Archivistes Célestes est d'affectation permanente, ils sont enrôlés dans ces services pour un avenir lointain (25:6.5)
 jamais aucune falsification n'a été découverte dans leurs archives, car elles sont examinées par leurs éminents compagnons d'Uversa et par les Puissants Messagers, qui certifient l'exactitude des copies. (25:6.3)
 personne ne s'est jamais égaré (25:6.3) (53:7.5)
 dans Nébadon, il y a 75 archivistes supérieurs ou superviseurs ; sur Uversa, il y en a 8 millions (25:6.4) (37:8.8)
 les séraphins peuvent atteindre le Paradis en servant comme archivistes célestes (39:8.3)
-Les enregistreurs célestes soutiennent la tenue des registres séraphiques du superunivers (27:5.4)
+Les Archivistes Célestes soutiennent la tenue des registres séraphiques du superunivers (27:5.4)
 ils sont formés par des Conseillers Divins et des Perfecteurs de Sagesse (25:6.1)
 ils apparaissent dans le registre de personnalité d'Uversa (30:2.79)
 
@@ -647,7 +647,7 @@ Les anciens s'opposaient toujours à la tenue d'un recensement, « au dénombrem
 César Auguste a décrété le recensement en 8 av. J.-C. Les Juifs avaient toujours été très opposés à toute tentative de « dénombrer le peuple » (122:7.1).
 Joseph se rendit à Bethléem, la cité de David, pour être enregistré au recensement romain, car l'ancêtre paternel de Joseph, étant orphelin, fut adopté par un descendant direct de David (122:4.3).
 
-Directeurs du recensement; Directeur du recensement | (24:2) | | ORDER | OK
+Directeurs du Recensement; Directeur du Recensement | (24:2) | | ORDER | OK
 Un directeur du recensement est en poste dans la capitale de chaque univers local (24:2.4)
 Un autre est stationné sur chaque circuit de Havona (24:2.3)
 ce sont des personnes avec une forme spirituelle reconnaissable (24:2.9)
@@ -875,8 +875,8 @@ a inauguré un club de jeunes hommes (127:3.9)
 il était déjà décédé au moment du rejet de Jésus à Nazareth (150:7.4)
 Susana, la chef des douze femmes évangélistes, était la fille de ce chazan (150:1.1)
 
-Chedorlaomer | | | PERSON | OK
-Chedorlaomer est un chef de tribu contre lequel Abraham a remporté une victoire (93:4.14)
+Kedorlaomer | | | PERSON | OK
+Kedorlaomer est un chef de tribu contre lequel Abraham a remporté une victoire (93:4.14)
 
 joue | | | | OK
 Jésus a dit : « Quand un ennemi te frappe sur une joue, ne reste pas là, muet et passif, mais tends l'autre joue dans une attitude positive ; c'est-à-dire fais de ton mieux pour éloigner ton frère des sentiers mauvais et l'amener vers les meilleures voies de la vie juste. » (140:3.14) (159:5.9)
@@ -899,8 +899,8 @@ au-delà de la chimie
 	Les concepts de vérité, de beauté et de bonté ne sont inhérents ni à la physique ni à la chimie. (195:6.11)
 	Nous ne pouvons pas prier une formule chimique, implorer une équation mathématique, adorer une hypothèse, nous fier à un postulat, communier avec un processus, servir une abstraction ou entretenir une relation d'amour avec une loi. C'est pour cela que Dieu est une Déité personnelle (102:7.3).
 
-Chemosh | | | PERSON | OK
-Quemos était le dieu des Amorites ou Amorites, semblable au Yahweh hébreu (96:1.14)
+Kemoch | | | PERSON | OK
+Kemoch était le dieu des Amorites ou Amorites, semblable au Yahweh hébreu (96:1.14)
 
 chérubins et sanobins; chérubins; sanobins; chérubins | (38:7-8) | anges; quatrième créature (chérubins) | ORDER | OK
 Les chérubins et les sanobins sont les aides fidèles et efficaces des ministres séraphiques (38:7.3)
@@ -1107,7 +1107,7 @@ Le travail de la femme découlait de la présence sélective de l'enfant ; les f
 chimpanzés; chimpanzé | (62:5.2) | simiens | | OK
 Les chimpanzés, ainsi que les singes, les babouins et les gorilles, descendent d'un ancêtre commun avec les humains, les mammifères moyens ; mais tandis que la paire de jumeaux qui a donné naissance aux chimpanzés était d'une espèce inférieure, la paire humaine était d'un type supérieur. (62:3.12)
 
-Ch'in Shih Huang Ti | | | PERSON | OK
+Chin Shi Huang Ti | | | PERSON | OK
 il fut l'un des maîtres chinois qui combattirent sans succès le confucianisme, proclamant une fraternité fondée sur l'amour et non sur le devoir éthique (94:6.11)
 
 Chine | | Chinois; Honan; Kansu; Shensi; Ti Tao; fleuve Yangtze; race jaune; fleuve Jaune | PLACE | OK
@@ -1145,7 +1145,7 @@ géologie
 	Il y a 180 000 000 d'années, la période carbonifère s'est terminée, au cours de laquelle du charbon s'est formé partout dans le monde, y compris en Chine (59:5.20)
 	Il y a 120 000 000 d'années, la majeure partie de la Chine et de la Russie fut inondée (60:2.6)
 
-Mers de Chine | | | PLACE | OK
+Mers de Chine; mers de Chine | | | PLACE | OK
 Les missionnaires bouddhistes ont bravé les dangers des mers de Chine (94:9.2)
 
 Chinois | (79:5) | Chine; course jaune | RACE | OK
@@ -1317,7 +1317,7 @@ points forts
 	* Les enseignements chrétiens étaient largement supérieurs aux religions existantes (121:5.6)
 	* le facteur décisif du christianisme fut l'admission des femmes dans la pleine communion de la foi chrétienne. (98:6.4) (150:1.3)
 
-Christianisme | | Église chrétienne primitive; églises; communauté de croyants; religion; Église catholique romaine; missionnaires | RELIGION | OK
+Christianisme; christianisme | | Église chrétienne primitive; églises; communauté de croyants; religion; Église catholique romaine; missionnaires | RELIGION | OK
 évolution
 	l'église n'est que le stade larvaire du royaume spirituel contrarié (170:5.21)
 	Beaucoup des grandes vérités enseignées par Jésus furent presque perdues dans ces premiers compromis, mais elles sommeillent encore dans cette religion du christianisme paganisé, qui était à son tour la version paulinienne de la vie et des enseignements du Fils de l'homme. (149:2.2) (195:0.18)
@@ -1414,7 +1414,7 @@ Cicéron | | | PERSON | OK
 Le célèbre écrivain et orateur romain est présenté comme un exemple de maturité pour recevoir le christianisme (195:2.6)
 > https://en.wikipedia.org/wiki/Cicéron
 
-Île de Cincinnati | (59:4.8) | | PLACE | OK
+Île de Cincinnati; l’ile de Cincinnati | (59:4.8) | | PLACE | OK
 
 cercles | | cercles psychiques; cercles concentriques, trois; Jérusalem | | OK
 A Jérusalem, les zones résidentielles des non-indigènes sont appelées les cercles. Chacune d'elles est constituée de sept cercles concentriques et successivement surélevés. Ces cercles sont les suivants : (46:4.2)
@@ -1517,8 +1517,8 @@ Les Juifs considéraient la pomme du paradis, le cédrat, comme le « fruit déf
 
 Cité de David | | Bethléem (Judée) | PLACE | OK
 
-Ville de Juda | | | PLACE | OK
-La ville de Juda était un petit village situé à 6,5 kilomètres à l'ouest de Jérusalem. C'était la maison d'Élisabeth et de Zacharie, les parents de Jean-Baptiste (122:2.6-7) (135:0.2)
+Cité de Juda; cité de Juda | | | PLACE | OK
+La cité de Juda était un petit village situé à 6,5 kilomètres à l'ouest de Jérusalem. C'était la maison d'Élisabeth et de Zacharie, les parents de Jean-Baptiste (122:2.6-7) (135:0.2)
 
 fonctionnaires | | | | OK
 Si l'incroyant peut être qualifié de fonctionnaire supérieur, nous devrions sérieusement nous demander si la conscience de la filiation avec Dieu anime vraiment notre vie de service. (178:1.13)
@@ -1839,10 +1839,10 @@ La gravité et l'absence de chaleur (froid) organisent et maintiennent la matiè
 effondrement | | | | OK
 Si Dieu devait se retirer comme le soutien actuel de toute la création, il se produirait immédiatement un effondrement universel. (4:1.6)
 
-Collège d'éthique, de droit et de suprématie | | | | OK
+Collège d'éthique, de droit et de Suprématie; collèges de l’éthique de la loi et de la technique de Suprématie | | | | OK
 l'une des étapes de la formation des Conseillers Techniques est l'entrée dans le « collège de l'éthique du droit et de la technique de la Suprématie », l'école de formation du Paradis pour le perfectionnement des Conseillers Techniques. (25:4.14)
 
-Collège de haute éthique | | | | OK
+Collège d’Éthique Supérieure | | | | OK
 Le cours le plus élevé de formation en administration de l'univers est donné par les Melchizédeks sur leur planète natale. Ce Collège de Haute Éthique est présidé par le Père originel Melchizédek. (35:3.22)
 
 collège de planification de la vie | | | | OK
@@ -1869,7 +1869,7 @@ les ouvriers de la couleur sont les artistes parmi les reproducteurs célestes, 
 
 Colorado | (60:2.5) (60:4.4) (61:2.4) | | PLACE | OK
 
-Rivière Colorado | (58:7.5) | | PLACE | OK
+Rivière Colorado; Colorado | (58:7.5) | | PLACE | OK
 
 races colorées | | races | RACE | OK
 
@@ -2159,7 +2159,7 @@ les trois cercles symbolisent l'infinité, l'éternité et l'universalité de la
 Melchisédek le portait sur sa poitrine comme emblème (93:2.5) (104:1.3)
 les triades qui se sont développées dans de nombreuses religions rappelaient toutes les enseignements de la trinité des Andites et des Sumériens et étaient basées sur la croyance des Salémites dans l'insigne des trois cercles de Melchisédek. (95:1.4)
 
-Enregistreurs de concept | | | | OK
+Enregistreurs de concept; enregistreurs de concept. | | | | OK
 Les enregistreurs de concepts font partie des artisans célestes et s'occupent de la préservation des images conceptuelles et des modèles d'idées. (44:4.5)
 
 concepts; conceptions | | doctrines; idées; théories | | OK
@@ -2248,13 +2248,13 @@ De nouvelles significations n'émergent qu'au milieu d'un conflit, et le conflit
 Pour Jésus, la prière est une prévention des conflits (100:6.4) (196:0.10)
 Les conflits non résolus détruisent l'unité et peuvent aboutir à une perturbation mentale. (133:7.12)
 
-Confucianisme | (92:6.6) | Confucius | RELIGION | OK
+Confucianisme; confucianisme | (92:6.6) | Confucius | RELIGION | OK
 La prédication confucéenne de la morale, comme chez Platon, était fondée sur la théorie selon laquelle la voie terrestre est l'ombre déformée de la voie céleste ; que le véritable modèle de la civilisation temporelle est le reflet miroir de l'ordre éternel du ciel. (94:6.10)
 Ganid a élaboré avec Jésus un résumé sur le confucianisme lorsqu'ils étaient à Alexandrie (131:9)
 Les préceptes confucéens, tout en perpétuant le meilleur du passé, étaient quelque peu hostiles à l'esprit de recherche chinois qui avait produit ces réalisations si vénérées. (94:6.11)
 Les zoroastriens avaient une religion de morale ; les hindous une religion de métaphysique ; les confucianistes une religion d'éthique. (5:4.7)
 
-Confucius; Confucianisme | (94:6.9-11) | Confucianisme | PERSON | OK
+Confucius | (94:6.9-11) | Confucianisme | PERSON | OK
 Confucius (Kung Fu-tze) était un jeune contemporain de Lao, qui vécut au VIe siècle en Chine. Son œuvre principale consista à compiler les paroles sages des anciens philosophes. Il fut un enseignant rejeté de son vivant, mais ses écrits et ses enseignements ont exercé depuis lors une grande influence en Chine et au Japon. (94:6.9)
 il a été déifié par ses disciples dans ces âges spirituellement sombres de la Chine qui intervinrent entre le déclin et la perversion de la foi taoïste (94:6.12)
 il avait une conception de Dieu qui était presque entièrement subordonnée à l'accent mis sur la Voie du Ciel, le modèle du cosmos. (94:6.10)
@@ -2577,7 +2577,7 @@ il apparaît dans le registre de personnalité d'Uversa (30:2.136)
 Corps de Lumière et de Vie | | | ORDER | OK
 Sur Uversa, on ne connaît pas la « destinée finale » des mortels ascendants du temps. Actuellement, ils résident au Paradis et servent temporairement dans le Corps de Lumière et de Vie, bien qu'on attende d'eux de plus grandes épreuves de confiance et des services de responsabilité plus sublimes. (31:3.2)
 
-Corps des finalitaires mortels; Corps mortel de la finalité; Corps mortel de la finalité; Corps de la finalité mortelle | (31) | finalitaires; Corps paradisiaque de la finalité | ORDER | OK
+Corps de Mortels Finalitaires; Corps Mortel de la Finalité; Corps des Mortels de la Finalité; Corps de la Finalité des Mortels | (31) | finalitaires; Corps paradisiaque de la finalité | ORDER | OK
 Le Corps des Finalitaires Mortels est l'un des sept corps finalitaires (31:10.2)
 les agondontaires, les ascendants qui ont vécu dans un monde isolé en raison de la rébellion, sont fonctionnellement regroupés à l'intérieur des finalitaires (50:7.2)
 ils sont un corps entièrement autonome et leur serment d'allégeance est uniquement envers la Trinité du Paradis (31:0.12)
@@ -2619,7 +2619,7 @@ admission mortelle au corps finalitaire
 	Après avoir atteint la satisfaction suprême de la plénitude de l'adoration, les ascendeurs sont qualifiés pour être admis au Corps de la Finalité. (27:0.1) (27:7.3,8-9)
 	Lorsque les ascendeurs mortels sont admis au corps finalitaire du Paradis, ils prêtent serment à la Trinité du Paradis, et aussi à Dieu le Suprême, qui est la Trinité telle que comprise par toutes les personnalités créatures finies. (27:7.9) (30:4.31) (31:0.12) (31:1.3) (31:3.4) (117:7.7)
 
-Corps des finalitaires du Paradis; Corps du Paradis de la Finalité; Corps finalitaire | (17:1.7) | Citoyens du Paradis; Corps du Paradis de la Finalité | ORDER | OK
+Corps des Finalitaires du Paradis; Corps Paradisiaque de la Finalité; corps finalitaires | (17:1.7) | Citoyens du Paradis; Corps du Paradis de la Finalité | ORDER | OK
 le Corps des Finalitaires du Paradis est l'un des sept corps finalitaires (31:10.3)
 il apparaît dans le registre de personnalité d'Uversa (30:2.133)
 Depuis des siècles et des siècles, il y a eu au Paradis une mobilisation d'êtres associés au corps finalitaire (31:10.17)
@@ -2643,7 +2643,7 @@ membres
 	# Citoyens du Paradis (19:7)
 	# Citoyens mortels du Paradis fusionnés avec les Ajusteurs (47:2.8)
 
-Corps de l'achèvement séraphique; Corps séraphique d'achèvement | (39:8.10) (39:9) | achèvement séraphin; séraphin; Seraphington | ORDER | OK
+Corps Séraphique de Parachèvement; Corps Séraphique du Parachèvement | (39:8.10) (39:9) | achèvement séraphin; séraphin; Seraphington | ORDER | OK
 Grimper aux hauteurs célestes de la filiation finalitaire avec Dieu est un accomplissement magistral pour un ange, un accomplissement qui transcende de loin votre accomplissement de la survie éternelle grâce au plan du Fils Éternel et à l'aide toujours présente de l'Ajusteur intérieur ; mais les séraphins gardiens, et parfois d'autres, effectuent effectivement de telles ascensions. (40:1.2)
 Les assistants à l'effusion sont des séraphins de l'accomplissement ; ils ont tous traversé les cercles de Séraphington et ont atteint le Corps Séraphique de l'Accomplissement. Ces séraphins ont tous atteint le Paradis et l'étreinte personnelle de la Seconde Source-Centre, le Fils Éternel. (39:1.5)
 De nombreux diplômés de Séraphington, membres du Corps Séraphique de Complément qui sont associés à ces séraphins, s'engagent dans l'enseignement dans les écoles de Salvington qui s'occupent de la préparation des créatures de Nébadon pour le prochain âge de l'univers. (39:1.12) (113:7.5)
@@ -2661,7 +2661,7 @@ Le Corps des Finalitaires Trinitisés est l'un des sept corps finalitaires (31:1
 À l'exception des Fils de Perfection Trinitisés et de ceux qui se rassemblent sur Vicegerington, la destinée suprême de tous les fils trinitisés par des créatures et de certains Citoyens du Paradis semble être l'entrée dans le Corps des Finalitaires Trinitisés. (22:8.6) (26:11.2)
 ils apparaissent dans le registre de personnalité d'Uversa (30:2.134)
 
-Corps des Fils Non Révélés du Destin | | Corps Paradisiaque de la Finalité | ORDER | OK
+Corps des Fils Non Révélés de la Destinée | | Corps Paradisiaque de la Finalité | ORDER | OK
 Le Corps des Fils Non Révélés de la Destinée est l'un des corps finalitaires (31:10.8)
 ils apparaissent dans le registre de personnalité d'Uversa (30:2.138)
 
