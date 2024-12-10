@@ -36,6 +36,8 @@ const createBookParsFn = pug.compileFile(
 const store = new Store();
 //Instances for Processes
 const book = new Book();
+const book2 = new Book();
+const bookEN = new Book();
 const paramony = new Paramony();
 const paralells = new Paralells();
 const bible = new Bible();
@@ -948,24 +950,37 @@ const handle_exeButtonClick = () => {
 			}).catch(onFail);
 	} else if (process === 'REVIEW_TOPIC_THREE_LANS') {
 		//Reads TopicIndex (*.txt) in EN/ES/FR
+		//Reads UB (*.json) in EN/ES/FR
+		//check each topic index
 		//Checks by each pair that same topics exits in each language
-		const folderEN = path.join(txtDir, `topic-index-en`);
-		const folderES = path.join(txtDir, `topic-index-es`);
-		const folderFR = path.join(txtDir, `topic-index-fr`);
+		const folderTopicEN = path.join(txtDir, `topic-index-en`);
+		const folderTopicES = path.join(txtDir, `topic-index-es`);
+		const folderTopicFR = path.join(txtDir, `topic-index-fr`);
+		const folderUBEN = path.join(jsonDir, `book-en-footnotes`);
+		const folderUBES = path.join(jsonDir, `book-es-footnotes`);
+		const folderUBFR = path.join(jsonDir, `book-fr-footnotes`);
 		topicindex.setLanguage('es');
 		topicindex2.setLanguage('fr');
-		topicindex.readFromTXT(folderES)
-			.then(() => topicindex2.readFromTXT(folderFR))
-			.then(() => topicindexEN.readFromTXT(folderEN))
+		book.setLanguage('es');
+		book2.setLanguage('fr');
+		topicindex.readFromTXT(folderTopicES)
+			.then(() => topicindex2.readFromTXT(folderTopicFR))
+			.then(() => topicindexEN.readFromTXT(folderTopicEN))
+			.then(() => book.readFromJSON(folderUBES))
+			.then(() => book2.readFromJSON(folderUBFR))
+			.then(() => bookEN.readFromJSON(folderUBEN))
+			.then(() => topicindex.check(book))
+			.then(() => topicindex2.check(book2))
+			.then(() => topicindexEN.check(bookEN))
 			.then(() => topicindex.compare(topicindex2))
 			.then(() => topicindex.compare(topicindexEN))
 			.then(() => topicindex2.compare(topicindex))
 			.then(() => topicindex2.compare(topicindexEN))
 			.then(() => topicindexEN.compare(topicindex))
 			.then(() => topicindexEN.compare(topicindex2))
-			.then(() => topicindex.writeErrors(folderES))
-			.then(() => topicindex2.writeErrors(folderFR))
-			.then(() => topicindexEN.writeErrors(folderEN))
+			.then(() => topicindex.writeErrors(folderTopicES))
+			.then(() => topicindex2.writeErrors(folderTopicFR))
+			.then(() => topicindexEN.writeErrors(folderTopicEN))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'SUM_TOPIC_TXT') {

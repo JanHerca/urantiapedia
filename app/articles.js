@@ -388,7 +388,7 @@ class Articles {
 							this.index.link = path;
 							this.index.tags = ['Index', 'Article', tags];
 							this.index.sourceText = 
-								Strings.articlesSource[lan] + ': ';
+								this.tr('articlesSource') + ': ';
 						} else if (this.index.title && author === 'is-volume') {
 							currentVolume = {
 								title: title,
@@ -1527,6 +1527,16 @@ class Articles {
 	 */
 	getError = (...params) => {
 		return getError(this.language, ...params);
+	};
+
+	/** 
+	 * Translates a text.
+	 * @param {string} code Code of text to translate.
+	 */
+	tr = (code) => {
+		const t = Strings[code][this.language];
+		const t2 = Strings[code]['en'];
+		return t ? t : t2;
 	};
 
 };

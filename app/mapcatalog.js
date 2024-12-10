@@ -137,12 +137,22 @@ class MapCatalog {
 		const quote2 = this.translations.find(t => t.text === map.quote);
 		const quote = (this.language === 'en' ? map.quote :
 			(quote2 ? quote2.translation : map.quote));
-		const ref2 = Strings['bookAbb'][this.language] + ' ' + ref;
+		const ref2 = this.tr('bookAbb') + ' ' + ref;
 		const path = `/${this.language}${map.path}`;
-		const label = Strings['lblOpenMap'][this.language];
+		const label = this.tr('lblOpenMap');
 		const html = strformat(this.template, title, quote, ref2, path, label,
 			map.thumbnail);
 		return html;
+	};
+
+	/** 
+	 * Translates a text.
+	 * @param {string} code Code of text to translate.
+	 */
+	tr = (code) => {
+		const t = Strings[code][this.language];
+		const t2 = Strings[code]['en'];
+		return t ? t : t2;
 	};
 
 };

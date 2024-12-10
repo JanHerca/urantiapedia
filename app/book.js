@@ -1636,7 +1636,7 @@ class Book {
 		return new Promise((resolve, reject) => {
 			const multi = Array.isArray(papers);
 			const years = (multi ? papers.map(p=>p.year) : 
-				[Strings.bookMasterYear[this.language]]);
+				[this.tr('bookMasterYear')]);
 			const topicIndexes = (multi ? papers.map((p, i) => {
 				return (i === 0 ? topicIndexEN : topicIndex);
 			}) : [topicIndex]);
@@ -1663,16 +1663,16 @@ class Book {
 			const study_aidsFn = aParalells.filter(p => p.suffix === 's');
 
 			const footnoteDef = [
-				{section: Strings['articles'][this.language], 
+				{section: this.tr('articles'), 
 					footnotes: articlesFn, index: 0, 
 					suffix: 'a', twemoji: '1f4c3', alt: '📃'},
-				{section: Strings['study_aids'][this.language],
+				{section: this.tr('study_aids'),
 					footnotes: study_aidsFn, index: 0,
 					suffix: 's', twemoji: '1f4d3', alt: '📓'},
-				{section: Strings['bibleName'][this.language], 
+				{section: this.tr('bibleName'), 
 					footnotes: paramonyFn, index: 0, 
 					suffix: 'b', twemoji: '1f4d5', alt: '📕'},
-				{section: Strings['booksOther'][this.language], 
+				{section: this.tr('booksOther'), 
 					footnotes: paralellsFn, index: 0, 
 					suffix: 'o', twemoji: '1f4da', alt: '📚'}
 			];
@@ -2057,7 +2057,7 @@ class Book {
 			`{4}</small></a>{3}</li>\r\n`;
 		const cite2 = `  <li{0}>{1}</li>\r\n`;
 		let html = '';
-		html += `<h2>${Strings['topic_references'][this.language]}</h2>\r\n`;
+		html += `<h2>${this.tr('topic_references')}</h2>\r\n`;
 		footnoteDef.forEach(fnsection => {
 			if (fnsection.footnotes.length === 0) {
 				return;
@@ -2126,11 +2126,11 @@ class Book {
 				const isExtra = (book.language != 'en' && !isMaster);
 				const key = book.language + (isExtra ? `${book.year}` : '');
 				const tparts = iparts.map(i => {
-					return Strings[`bookPart${i}`][key].toUpperCase();
+					return this.tr(`bookPart${i}`, key).toUpperCase();
 				});
 				const dparts = iparts.map(i => {
 					if (i === 0) return null;
-					return Strings[`bookPart${i}Desc`][key]
+					return this.tr(`bookPart${i}Desc`, key)
 						.split('|').map(d=>d.trim());
 				});
 				const tpapers = book.papers
@@ -2159,8 +2159,8 @@ class Book {
 			const years = data.map(d => d.year);
 			const filePath1 = path.join(dirPath, 'Index.html');
 			const filePath2 = path.join(dirPath, 'Index_Extended.html');
-			const title1 = `${Strings.bookName[lan]} — ${Strings.bookIndexName[lan]}`;
-			const title2 = `${Strings.bookName[lan]} — ${Strings.bookExtIndexName[lan]}`;
+			const title1 = `${this.tr('bookName', lan)} — ${this.tr('bookIndexName', lan)}`;
+			const title2 = `${this.tr('bookName', lan)} — ${this.tr('bookExtIndexName', lan)}`;
 			const copyright = getWikijsBookCopyright(years, lan);
 			const indexLink1 = getWikijsBookIndexLink(lan, multi, false);
 			const indexLink2 = getWikijsBookIndexLink(lan, multi, true);
@@ -2268,15 +2268,15 @@ class Book {
 	 */
 	writeParalells = (dirPath) => {
 		return new Promise((resolve, reject) => {
-			const ub = Strings['bookName'].en.replace(/\s/g, '_');
-			const part0 = Strings['bookPart0'][this.language];
-			const part1 = Strings['bookPart1'][this.language];
-			const part2 = Strings['bookPart2'][this.language];
-			const part3 = Strings['bookPart3'][this.language];
-			const part4 = Strings['bookPart4'][this.language];
-			const ot = Strings['bibleOldTestament'][this.language];
-			const nt = Strings['bibleNewTestament'][this.language];
-			const ap = Strings['bibleApocrypha'][this.language];
+			const ub = this.tr('bookName', 'en').replace(/\s/g, '_');
+			const part0 = this.tr('bookPart0');
+			const part1 = this.tr('bookPart1');
+			const part2 = this.tr('bookPart2');
+			const part3 = this.tr('bookPart3');
+			const part4 = this.tr('bookPart4');
+			const ot = this.tr('bibleOldTestament');
+			const nt = this.tr('bibleNewTestament');
+			const ap = this.tr('bibleApocrypha');
 			const filePath = path.join(dirPath, 'paralells_.md');
 			const abbs = BibleAbbs[this.language];
 			const getBooks = c => {
@@ -2427,10 +2427,10 @@ class Book {
 			//Header
 			let wiki = '', ptitle, error_par_ref;
 			const end = '\r\n\r\n';
-			const eldu = Strings['bookName'][this.language];
-			const abb = Strings['bookAbb'][this.language];
-			const docAbb = Strings['bookPaperAbb'][this.language];
-			const indexName = Strings['bookIndexName'][this.language];
+			const eldu = this.tr('bookName');
+			const abb = this.tr('bookAbb');
+			const docAbb = this.tr('bookPaperAbb');
+			const indexName = this.tr('bookIndexName');
 			const prev = paper.paper_index - 1;
 			const next = paper.paper_index + 1;
 			let docPrev = (paper.paper_index === 0 ? null :
@@ -2530,7 +2530,7 @@ class Book {
 
 			//References section
 			if (wfootnotes.length > 0) {
-				wiki += `== ${Strings['topic_references'][this.language]} ==` +
+				wiki += `== ${this.tr('topic_references')} ==` +
 					`${end}<references>\r\n`;
 				wfootnotes.forEach(f => wiki += f);
 				wiki += '</references>';
@@ -2559,16 +2559,16 @@ class Book {
 	 */
 	writeIndexToWikiText = (dirPath) => {
 		return new Promise((resolve, reject) => {
-			const lu = Strings['bookName'][this.language].replace(/\s/g, '_');
-			const abb = Strings['bookAbb'][this.language];
-			const pabb = Strings['bookPaperAbb'][this.language];
-			const ind = Strings['bookIndexName'][this.language].replace(/\s/g, '_');
-			const eind = Strings['bookExtIndexName'][this.language].replace(/\s/g, '_');
-			const part0 = Strings['bookPart0'][this.language].toUpperCase();
-			const part1 = Strings['bookPart1'][this.language].toUpperCase();
-			const part2 = Strings['bookPart2'][this.language].toUpperCase();
-			const part3 = Strings['bookPart3'][this.language].toUpperCase();
-			const part4 = Strings['bookPart4'][this.language].toUpperCase();
+			const lu = this.tr('bookName').replace(/\s/g, '_');
+			const abb = this.tr('bookAbb');
+			const pabb = this.tr('bookPaperAbb');
+			const ind = this.tr('bookIndexName').replace(/\s/g, '_');
+			const eind = this.tr('bookExtIndexName').replace(/\s/g, '_');
+			const part0 = this.tr('bookPart0').toUpperCase();
+			const part1 = this.tr('bookPart1').toUpperCase();
+			const part2 = this.tr('bookPart2').toUpperCase();
+			const part3 = this.tr('bookPart3').toUpperCase();
+			const part4 = this.tr('bookPart4').toUpperCase();
 			const filePath1 = path.join(dirPath, `${lu}_${ind}.wiki`);
 			const filePath2 = path.join(dirPath, `${lu}_${eind}.wiki`);
 			let wiki1 = '__NOTOC__\r\n\r\n';
@@ -2783,9 +2783,9 @@ class Book {
 	 */
 	writeFileToWikiXML = (filePath, papers) => {
 		return new Promise((resolve, reject) => {
-			const abb = Strings['bookAbb'][this.language];
-			const lu = Strings['bookName'][this.language].replace(/\s/g, '_');
-			const pabb = Strings['bookPaperAbb'][this.language];
+			const abb = this.tr('bookAbb');
+			const lu = this.tr('bookName').replace(/\s/g, '_');
+			const pabb = this.tr('bookPaperAbb');
 
 			let xml = '<Pages>\r\n';
 			let error;
@@ -2872,7 +2872,7 @@ class Book {
 				});
 				if (wfootnotes.length > 0) {
 					xml += `<Free_Text>== ` +
-						`${Strings['topic_references'][this.language]} ` +
+						`${this.tr('topic_references')} ` +
 						`==</Free_Text>\r\n`;
 					xml += `<Free_Text>&lt;references&gt;</Free_Text>\r\n`;
 					wfootnotes.forEach(f => xml += f);
@@ -2997,10 +2997,7 @@ class Book {
 	 */
 	addWarning = (...params) => {
 		const msg = params[0];
-		let text = Strings[msg][this.language];
-		if (!text) {
-			text = Strings[msg]['en'];
-		}
+		const text = this.tr(msg);
 		this.warnings.push(strformat(text, ...params.slice(1)));
 	};
 
@@ -3032,9 +3029,9 @@ class Book {
 				const promises = this.papers
 				/*.filter(paper => paper.paper_index === 0)*/
 				.map(paper => {
-					const bookName = Strings['bookName'][this.language]
+					const bookName = this.tr('bookName')
 						.replace(/\s/g, '_');
-					const paperAbb = Strings['bookPaperAbb'][this.language];
+					const paperAbb = this.tr('bookPaperAbb');
 					const i = paper.paper_index;
 					const stri = (i > 99 ? `${i}` : (i > 9 ? `0${i}` : `00${i}`));
 					let filePath = path.join(dirPath, `Doc${stri}.${format}`);
@@ -3073,6 +3070,18 @@ class Book {
 					});
 			});
 		});
+	};
+
+	/** 
+	 * Translates a text.
+	 * @param {string} code Code of text to translate.
+	 * @param {?string} lan Optional language instead of current.
+	 */
+	tr = (code, lan) => {
+		const language = lan ? lan : this.language;
+		const t = Strings[code][language];
+		const t2 = Strings[code]['en'];
+		return t ? t : t2;
 	};
 }
 

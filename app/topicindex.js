@@ -604,7 +604,7 @@ class TopicIndex {
 			const errors = other.map(tt => 
 				`${tt.name}|${tt.filename}:${tt.fileline}`).join(' ');
 			topic.errors.push({
-				desc: Strings['topic_duplicated'][this.language] + errors,
+				desc: this.tr('topic_duplicated') + ' ' + errors,
 				fileline: topic.fileline
 			});
 		}
@@ -640,8 +640,7 @@ class TopicIndex {
 			});
 			if (invalid.length > 0) {
 				topic.errors.push({
-					desc: Strings['topic_invalid_refs'][this.language] + 
-						invalid.join(' | '),
+					desc: this.tr('topic_invalid_refs') + invalid.join(' | '),
 					fileline: fileline
 				});
 			}
@@ -675,13 +674,13 @@ class TopicIndex {
 
 		if (notfounded.length === validArRefs.length) {
 			topic.errors.push({
-				desc: strformat(Strings['topic_not_in_ref'][this.language], 
+				desc: strformat(this.tr('topic_not_in_ref'), 
 					topic.name, notfounded.join(' | ')),
 				fileline: topic.fileline
 			});
 		} else if (notfounded.length / validArRefs.length > 0.8) {
 			topic.errors.push({
-				desc: strformat(Strings['topic_in_less_20%'][this.language], 
+				desc: strformat(this.tr('topic_in_less_20%'), 
 					topic.name, notfounded.join(' | ')),
 				fileline: topic.fileline
 			});
@@ -702,7 +701,7 @@ class TopicIndex {
 				if (!this.topics.find(t => t.name === term)) {
 					errors.push({
 						desc: strformat(
-							Strings['topic_seealso_not_found'][this.language], sa),
+							this.tr('topic_seealso_not_found'), sa),
 						fileline: fileline
 					});
 				}
@@ -983,7 +982,7 @@ class TopicIndex {
 				`/${this.language}/topic`);
 			const title = topic.name.substring(0, 1).toUpperCase() +
 						topic.name.substring(1);
-			const seeAlsoTxt = Strings['topic_see_also'][this.language];
+			const seeAlsoTxt = this.tr('topic_see_also');
 			const tags = ['topic', ...(topic.type && topic.type != 'OTHER' ? 
 				[topic.type.toLowerCase()] : [])];
 			const lineRefs = [];
@@ -1148,7 +1147,7 @@ class TopicIndex {
 
 			//Add Links
 			if (seeAlsoObjs && seeAlsoObjs.length > 0) {
-				html += `<h2>${Strings['topic_links'][this.language]}</h2>\r\n`;
+				html += `<h2>${this.tr('topic_links')}</h2>\r\n`;
 				html += '<div>\r\n<ul>\r\n';
 				seeAlsoObjs.forEach(alsoObj => {
 					const alsoName = alsoObj.seeAlso;
@@ -1163,7 +1162,7 @@ class TopicIndex {
 			
 			//Add External Links
 			if (topic.externalLinks && topic.externalLinks.length > 0) {
-				html+= `<h2>${Strings['topic_external_links'][this.language]}</h2>\r\n`;
+				html+= `<h2>${this.tr('topic_external_links')}</h2>\r\n`;
 				html += '<div>\r\n<ul>\r\n';
 				topic.externalLinks.forEach(link => {
 					if (link.indexOf('wikipedia') != -1) {
@@ -1181,7 +1180,7 @@ class TopicIndex {
 			if (lineRefs.length > 0) {
 				const fnStyle = (lineRefs.length > 10 ? 
 					' style="column-width: 30em;"' : '');
-				html += `<h2>${Strings['topic_references'][this.language]}</h2>\r\n`;
+				html += `<h2>${this.tr('topic_references')}</h2>\r\n`;
 				html += `<div${fnStyle}>\r\n<ol>\r\n`;
 				lineRefs.forEach(f => html += '  ' + f);
 				html += '</ol>\r\n</div>\r\n';
@@ -1243,7 +1242,7 @@ class TopicIndex {
 		}
 		return new Promise((resolve, reject) => {
 			const filePath = path.join(dirPath, filename);
-			const title = Strings[`topicIndexTitle_${category}`][this.language];
+			const title = this.tr(`topicIndexTitle_${category}`);
 			let html = '';
 			let curLetter = null;
 
@@ -1447,7 +1446,7 @@ class TopicIndex {
 
 			//Add references at Topic level on top
 			if (topic.refs && topic.refs.length > 0) {
-				wiki += Strings['topic_see_also'][this.languge] + ': ' + 
+				wiki += this.tr('topic_see_also') + ': ' + 
 					refsToTags(topic.refs) + end;
 			}
 
@@ -1465,7 +1464,7 @@ class TopicIndex {
 					heading += '='.repeat(line.level + 1);
 					wiki += `${end}${heading} ${anchor} ${content} ${heading}${end}`;
 					if (line.refs && line.refs.length > 0) {
-						wiki += Strings['topic_see_also'][this.languge] + ': ' + 
+						wiki += this.tr('topic_see_also') + ': ' + 
 							refsToTags(line.refs) + end;
 					}
 				} else {
@@ -1497,7 +1496,7 @@ class TopicIndex {
 
 			//Add Links
 			if (seeAlso && seeAlso.length > 0) {
-				wiki += `${end}== ${Strings['topic_links'][this.language]} ==${end}`;
+				wiki += `${end}== ${this.tr('topic_links')} ==${end}`;
 				seeAlso.forEach(also => {
 					let alsoLink = also.replace(/ /g, '_').replace(/:/, '#');
 					let alsoText = also.substring(0, 1).toUpperCase() + 
@@ -1508,7 +1507,7 @@ class TopicIndex {
 			
 			//Add External Links
 			if (topic.externalLinks && topic.externalLinks.length > 0) {
-				wiki+= `${end}== ${Strings['topic_external_links'][this.language]} ==${end}`;
+				wiki+= `${end}== ${this.tr('topic_external_links')} ==${end}`;
 				topic.externalLinks.forEach(link => {
 					if (link.indexOf('wikipedia') != -1) {
 						let linkname = link.substring(link.lastIndexOf('/') + 1)
@@ -1522,7 +1521,7 @@ class TopicIndex {
 
 			//Add references
 			if (refs.length > 0) {
-				wiki += `${end}== ${Strings['topic_references'][this.language]} ==` +
+				wiki += `${end}== ${this.tr('topic_references')} ==` +
 					`${end}<references/>\r\n`;
 			}
 
@@ -1846,6 +1845,16 @@ class TopicIndex {
 			}
 			return (index != -1);
 		});
+	};
+
+	/** 
+	 * Translates a text.
+	 * @param {string} code Code of text to translate.
+	 */
+	tr = (code) => {
+		const t = Strings[code][this.language];
+		const t2 = Strings[code]['en'];
+		return t ? t : t2;
 	};
 };
 

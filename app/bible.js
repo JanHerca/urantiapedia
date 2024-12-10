@@ -239,7 +239,7 @@ class Bible {
 			//Header
 			let body = '';
 			let header = '';
-			const chapterText = Strings['bookChapter'][this.language];
+			const chapterText = this.tr('bookChapter');
 			const navText = `${book.title} - ${chapterText}`;
 			// const prevChapter = book.chapters
 			// 	.find(c=>c.title === (chIndex - 1).toString());
@@ -263,7 +263,7 @@ class Bible {
 					`${navText} ${nextChapter.title}` : null, 
 				nextPath: nextChapter ? 
 					`${book.path}/${nextChapter.title}` : null, 
-				indexPath: `${bookPath}/${Strings['bookIndexName'].en}`
+				indexPath: `${bookPath}/${this.tr('bookIndexName', 'en')}`
 			});
 			body += navigation;
 			// body += `<h1>${title}</h1>\r\n`;
@@ -315,7 +315,7 @@ class Bible {
 
 			//References section
 			if (wfootnotes.length > 0) {
-				body += `<h2>${Strings['topic_references'][this.language]}</h2>\r\n`;
+				body += `<h2>${this.tr('topic_references')}</h2>\r\n`;
 				body += `<div${fnStyle}>\r\n<ol>\r\n`;
 				wfootnotes.forEach(f => body += '  ' + f.html);
 				body += '</ol>\r\n</div>\r\n';
@@ -374,7 +374,7 @@ class Bible {
 			const booknames = Object.values(BibleAbbs[this.language])
 				.map(e => e[0]);
 			const filePath = path.join(dirPath, `bible.html`);
-			const bibleIndex = Strings['bibleFullIndex'][this.language];
+			const bibleIndex = this.tr('bibleFullIndex');
 
 			//Header
 			let body = '';
@@ -413,11 +413,10 @@ class Bible {
 		return new Promise((resolve, reject) => {
 			const booknames = Object.values(BibleAbbs[this.language])
 				.map(e => e[0]);
-			const indexName = Strings['bookIndexName'][this.language];
-			const chapterName = Strings['bookChapter'][this.language];
-			const bibleIndex = Strings['bibleFullIndex'][this.language];
-			const frontPage = 
-				(Strings['frontpage'][this.language]).toUpperCase();
+			const indexName = this.tr('bookIndexName');
+			const chapterName = this.tr('bookChapter');
+			const bibleIndex = this.tr('bibleFullIndex');
+			const frontPage = this.tr('frontpage').toUpperCase();
 			const bibleIndexPath = `/${this.language}/index/bible`;
 			const indexPath = dirPath.replace('Bible', 'index');
 
@@ -826,6 +825,18 @@ class Bible {
 					});
 			});
 		});
+	};
+
+	/** 
+	 * Translates a text.
+	 * @param {string} code Code of text to translate.
+	 * @param {?string} lan Optional language instead of current.
+	 */
+	tr = (code, lan) => {
+		const language = lan ? lan : this.language;
+		const t = Strings[code][language];
+		const t2 = Strings[code]['en'];
+		return t ? t : t2;
 	};
 }
 

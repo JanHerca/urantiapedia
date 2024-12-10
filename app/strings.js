@@ -1293,371 +1293,385 @@ const Strings = {
 	},
 	"lblLanguage": {
 		en: "Urantiapedia Language:",
-		es: "Idioma de la Urantiapedia:"
+		es: "Idioma de la Urantiapedia:",
+		fr: "Langue Urantiapédia :",
 	},
 	"lblUILanguage": {
 		en: "UI Language:",
-		es: "Idioma interfaz:"
+		es: "Idioma interfaz:",
+		fr: "Langue de l'interface :",
 	},
 	"lblSettings": {
 		en: "Settings",
-		es: "Configuración"
+		es: "Configuración",
+		fr: "Configuration",
 	},
 	"lblSearch": {
 		en: "Search",
-		es: "Buscar"
+		es: "Buscar",
+		fr: "Rechercher",
 	},
 	"lblTheme": {
 		en: "Theme:",
-		es: "Tema:"
+		es: "Tema:",
+		fr: "Thème:",
 	},
 	"lblProcess": {
 		en: "Process:",
-		es: "Proceso:"
+		es: "Proceso:",
+		fr: "Processus:",
 	},
 	"exeButton": {
 		en: "Execute",
-		es: "Ejecutar"
+		es: "Ejecutar",
+		fr: "Exécuter",
 	},
 	"lblTTextbox": {
 		en: "TXT/TSV files:",
-		es: "Ficheros TXT/TSV:"
+		es: "Ficheros TXT/TSV:",
+		fr: "Fichiers TXT/TSV :",
 	},
 	"dirTTextbox": {
 		en: "Browse path",
-		es: "Selecciona la ruta"
+		es: "Selecciona la ruta",
+		fr: "Chemin de navigation,"
 	},
 	"dirTButton": {
 		en: "Browse",
-		es: "Seleccionar"
+		es: "Seleccionar",
+		fr: "Parcourir",
 	},
 	"lblHTextbox": {
 		en: "HTML/MD files:",
-		es: "Ficheros HTML/MD:"
+		es: "Ficheros HTML/MD:",
+		fr: "Fichiers HTML/MD :",
 	},
 	"dirHTextbox": {
 		en: "Browse path",
-		es: "Selecciona la ruta"
+		es: "Selecciona la ruta",
+		fr: "Chemin de navigation",
 	},
 	"dirHButton": {
 		en: "Browse",
-		es: "Seleccionar"
+		es: "Seleccionar",
+		fr: "Parcourir",
 	},
 	"lblLTextbox": {
 		en: "LaTeX files:",
-		es: "Ficheros LaTeX:"
+		es: "Ficheros LaTeX:",
+		fr: "Fichiers LaTeX :",
 	},
 	"dirLTextbox": {
 		en: "Browse path",
-		es: "Selecciona la ruta"
+		es: "Selecciona la ruta",
+		fr: "Chemin de navigation",
 	},
 	"dirLButton": {
 		en: "Browse",
-		es: "Seleccionar"
+		es: "Seleccionar",
+		fr: "Parcourir",
 	},
 	"lblJTextbox": {
 		en: "JSON files:",
-		es: "Ficheros JSON:"
+		es: "Ficheros JSON:",
+		fr: "Fichiers JSON:",
 	},
 	"dirJTextbox": {
 		en: "Browse path",
-		es: "Selecciona la ruta"
+		es: "Selecciona la ruta",
+		fr: "Chemin de navigation",
 	},
 	"dirJButton": {
 		en: "Browse",
-		es: "Seleccionar"
+		es: "Seleccionar",
+		fr: "Parcourir",
 	},
 	"lblWTextbox": {
 		en: "Wiki files:",
-		es: "Ficheros Wiki:"
+		es: "Ficheros Wiki:",
+		fr: "Fichiers Wiki:",
 	},
 	"dirWTextbox": {
 		en: "Browse path",
-		es: "Selecciona la ruta"
+		es: "Selecciona la ruta",
+		fr: "Chemin de navigation",
 	},
 	"dirWButton": {
 		en: "Browse",
-		es: "Seleccionar"
+		es: "Seleccionar",
+		fr: "Parcourir",
 	},
 	"chkMergeLabel": {
 		en: "Join output files in one",
-		es: "Unir los ficheros de salida en uno"
+		es: "Unir los ficheros de salida en uno",
+		fr: "Joindre les fichiers de sortie en un seul",
 	},
 	"lblCategories": {
 		en: "Topic categories",
-		es: "Categorías de términos"
+		es: "Categorías de términos",
+		fr: "Catégories de sujets",
 	},
 	"lblTICategories": {
 		en: "Topic categories",
-		es: "Categorías de términos"
+		es: "Categorías de términos",
+		fr: "Catégories de sujets",
 	},
 	"lblTopics": {
 		en: "Topic (execute to fill)",
-		es: "Término (ejecuta para rellenar)"
+		es: "Término (ejecuta para rellenar)",
+		fr: "Sujet (exécuter pour remplir)",
 	},
 	"collapseButton": {
 		en: "Show/hide controls",
-		es: "Mostrar/ocultar controles"
+		es: "Mostrar/ocultar controles",
+		fr: "Afficher/masquer les commandes",
 	},
 	"lblProccesses": {
 		en: "Proccesses",
-		es: "Procesos"
+		es: "Procesos",
+		fr: "Processus",
 	},
 	"lblTopicIndex": {
 		en: "Edit Topic Index",
-		es: "Editar Términos"
+		es: "Editar Términos",
+		fr: "Modifier l'index des sujets",
 	},
 	"lblTopicName": {
 		en: "Name",
-		es: "Nombre"
+		es: "Nombre",
+		fr: "Nom",
 	},
 	"lblTILanguage1": {
 		en: "Main Language (to modify)",
-		es: "Idioma Principal (a modificar)"
+		es: "Idioma Principal (a modificar)",
+		fr: "Langue principale (à modifier)"
 	},
 	"lblTILanguage2": {
 		en: "Secondary Language",
-		es: "Idioma Secundario"
+		es: "Idioma Secundario",
+		fr: "Langue secondaire"
 	},
 	"lblTIName": {
 		en: "Name",
-		es: "Nombre"
+		es: "Nombre",
+		fr: "Nom"
 	},
 	"lblTIAliases": {
 		en: "Aliases",
-		es: "Aliases"
+		es: "Aliases",
+		fr: "Aliases"
 	},
 	"lblTIRevised": {
 		en: "Revised",
-		es: "Revisado"
+		es: "Revisado",
+		fr: "Révisé"
 	},
 	"lblTIRefs": {
 		en: "Refs",
-		es: "Refs"
+		es: "Refs",
+		fr: "Refs"
 	},
 	"lblTISeeAlso": {
 		en: "See Also",
-		es: "Ver También"
+		es: "Ver También",
+		fr: "Voir aussi"
 	},
 	"lblTILinks": {
 		en: "Links",
-		es: "Enlaces"
+		es: "Enlaces",
+		fr: "Liens"
 	},
 	"lblTICategory": {
 		en: "Category",
-		es: "Categoría"
+		es: "Categoría",
+		fr: "Catégorie"
 	},
 	"lblTILines": {
 		en: "Topic content & errors",
-		es: "Contenido de los términos & errores"
+		es: "Contenido de los términos & errores",
+		fr: "Contenu du sujet et erreurs"
 	},
 	"lblTIUBLines": {
 		en: "The Urantia Book content",
-		es: "Contenido de El Libro de Urantia"
+		es: "Contenido de El Libro de Urantia",
+		fr: "Le contenu du Livre d'Urantia"
 	},
 	"lblTILetters": {
 		en: "Topic letters",
-		es: "Letras de términos"
+		es: "Letras de términos",
+		fr: "Lettres thématiques"
 	},
 	"btnTILoadTopics": {
 		en: "Load topics",
-		es: "Cargar términos"
+		es: "Cargar términos",
+		fr: "Charger les sujets"
 	},
 	"btnTILoadTopics_loading": {
 		en: "Loading...",
-		es: "Cargando..."
+		es: "Cargando...",
+		fr: "Chargement..."
 	},
 	"lblTIFilterRevised": {
 		en: "Non-Revised",
-		es: "No-Revisados"
+		es: "No-Revisados",
+		fr: "Non révisé"
 	},
 	"lblTIFilterErrors": {
 		en: "With errors",
-		es: "Con errores"
+		es: "Con errores",
+		fr: "Avec des erreurs"
 	},
 	"btnSearch": {
 		en: "Search",
-		es: "Buscar"
+		es: "Buscar",
+		fr: "Recherche"
 	},
 	"btnSearch_searching": {
 		en: "Searching...",
-		es: "Buscando..."
+		es: "Buscando...",
+		fr: "Recherche..."
 	},
 	"btnAddQuotes": {
 		en: "Add Quotes to Files",
-		es: "Añadir Citas a Ficheros"
+		es: "Añadir Citas a Ficheros",
+		fr: "Ajouter des citations aux fichiers"
 	},
 	"btnAddQuotes_adding": {
 		en: "Adding...",
-		es: "Añadiendo..."
+		es: "Añadiendo...",
+		fr: "Ajout..."
 	},
 	"strSelectFile": {
 		en: "Select file",
-		es: "Selecciona fichero"
+		es: "Selecciona fichero",
+		fr: "Sélectionner le fichier"
 	},
 	"strSelectFolder": {
 		en: "Select folder",
-		es: "Selecciona carpeta"
+		es: "Selecciona carpeta",
+		fr: "Sélection de tapis"
 	},
 	"book_wrong_reference": {
 		en: "UB reference {0} is wrong or not exists",
-		es: "La referencia LU {0} está mal o no existe"
 	},
 	"book_wrong_footnotes": {
 		en: "Error extracting subfootnotes",
-		es: "Error extrayendo subfootnotes"
 	},
 	"book_no_sections": {
 		en: "{0}: The paper has no sections",
-		es: "{0}: El documento no tiene secciones"
 	},
 	"book_section_no_reference": {
 		en: "{0}: A section has no reference",
-		es: "{0}: Una sección no tiene referencia"
 	},
 	"book_section_no_pars": {
 		en: "{0}: A section has no paragraphs",
-		es: "{0}: Una sección no tiene párrafos"
 	},
 	"book_paper_no_title": {
 		en: "{0}: Paper has no title",
-		es: "{0}: El documento no tiene título"
 	},
 	"book_par_no_refcontent": {
 		en: "{0}: A paragraph has no reference or content",
-		es: "{0}: Un párafo no tiene referencia o contenido"
 	},
 	"book_tag_no_closing": {
 		en: "{0}, line {1}: No correct closing string exists",
-		es: "{0}, línea {1}: No existe cadena de cierre correcto"
 	},
 	"book_no_paper_index": {
 		en: "{0}, line {1}: Filename do not contains paper index",
-		es: "{0}, línea {1}: El nombre de archivo no contiene el número de documento"
 	},
 	"book_no_paper_start": {
 		en: "{0}, line {1}: Cannot extract start tag of paper",
-		es: "{0}, línea {1}: No se pudo extraer etiqueta de inicio del documento"
 	},
 	"book_no_section_start": {
 		en: "{0}, line {1}: Cannot extract start tag of section",
-		es: "{0}, línea {1}: No se pudo extraer etiqueta de inicio de sección"
 	},
 	"book_no_pageref": {
 		en: "{0}, line {1}: Cannot extract reference of type page",
-		es: "{0}, línea {1}: No se pudo extraer la referencia tipo página"
 	},
 	"book_no_parref": {
 		en: "{0}, line {1}: Cannota extract paragraph reference",
-		es: "{0}, línea {1}: No se pudo extraer la referencia de párrafo"
 	},
 	"book_no_add_par": {
 		en: "{0}, line {1}: Cannot add paragraph without a previous section",
-		es: "{0}, línea {1}: No se pudo añadir párrafo sin una sección previa"
 	},
 	"book_no_ref_previous": {
 		en: "{0}, line {1}: Reference of type page do not exist in previous line",
-		es: "{0}, línea {1}: No existe en línea previa la referencia tipo página"
 	},
 	"book_no_closing_footnote": {
 		en: "{0}, line {1}: Closing footnote tag not found",
-		es: "{0}, línea {1}: No existe cierre de nota al pie correcto"
 	},
 	"book_paper_not_found": {
 		en: "Paper {0} not found",
-		es: "Documento {0} no encontrado."
 	},
 	"book_section_not_found": {
 		en: "Section {0} not found",
-		es: "Sección {0} no encontrada."
 	},
 	"book_invalid_number": {
 		en: "Invalid number of items in paper {0}",
-		es: "Número de items no válido en doc {0}"
 	},
 	"book_par_not_found": {
 		en: "Paragraph not found {0} in paper {1}",
-		es: "Párrafo no encontrado {0} en doc {1}"
 	},
 	"book_error_footnotes": {
 		en: "{0}: Error in footnotes: {1}",
-		es: "{0}: Error en notas al pie: {1}"
 	},
 	"book_item_no_found": {
 		en: "{0} not found in {1}",
-		es: "{0} no encontrado en {1}"
 	},
 	"book_no_valid_reference": {
 		en: "{0}: Reference is not valid in {1}",
-		es: "{0}: La referencia no es válida en {1}"
 	},
 	"bible_no_title": {
 		en: "{0}, line {1}: Cannot extract book title",
-		es: "{0}, línea {1}: No se pudo extraer el título del libro"
 	},
 	"bible_title_invalid": {
 		en: "{0}, line {1}: Book title is not valid",
-		es: "{0}, línea {1}: El título del libro no es válido"
 	},
 	"bible_no_chapter": {
 		en: "{0}, line {1}: Cannot extract chapter",
-		es: "{0}, línea {1}: No se pudo extraer el capítulo"
 	},
 	"bible_no_section": {
 		en: "{0}, line {1}: Cannot extract section",
-		es: "{0}, línea {1}: No se pudo extraer la sección"
 	},
 	"bible_section_order": {
 		en: "{0}, line {1}: Section before chapter?",
-		es: "{0}, línea {1}: Sección antes de capítulo?"
 	},
 	"bible_chapter_not_found": {
 		en: "{0}, chapter {1}: Chapter title is not found",
-		es: "{0}, capítulo {1}: El capítulo no se encuentra"
 	},
 	"bible_chapter_missing_verses": {
 		en: "{0}, chapter {1}: Chapter has some missing verses: {2}",
-		es: "{0}, capítulo {1}: El capítulo no tiene algunos versículos: {2}"
 	},
 	"bible_chapter_wrong_italics": {
 		en: "{0}, chapter {1}: Chapter has some wrong italics: {2}",
-		es: "{0}, capítulo {1}: El capítulo tiene cursivas erróneas: {2}"
 	},
 	"dir_no_access": {
 		en: "{0}, line {1}: Folder {0} not accessible",
-		es: "{0}, línea {1}: El directorio {0} no está accesible"
 	},
 	"bibleref_bookname_invalid": {
 		en: "{0}, line {1}: Book name is no valid",
-		es: "{0}, línea {1}: Nombre del libro no es válido"
 	},
 	"bibleref_no_data": {
 		en: "{0}, line {1}: There is no enough data in reference",
-		es: "{0}, línea {1}: No hay suficientes datos en la referencia"
 	},
 	"bibleref_bad_ref": {
 		en: "{0}, line {1}: Bad Bible reference",
-		es: "{0}, línea {1}: La referencia de la Biblia está mal"
 	},
 	"bibleref_bad_ub_ref": {
 		en: "{0}, line {1}: Bad Urantia Book reference",
-		es: "{0}, línea {1}: La referencia de El Libro de Urantia está mal"
 	},
 	"bibleref_bad_number": {
 		en: "{0}, line {1}: Chapter or verse number is bad",
-		es: "{0}, línea {1}: El número de capítulo o versículo está mal"
 	},
 	"topic_en_required": {
 		en: "{0}: Topic Index in english must be provided",
-		es: "{0}: El Índide de Términos en inglés debe proporcionarse"
 	},
 	"topic_err": {
 		en: "{0}, line {1}: {2}",
 		es: "{0}, línea {1}: {2}"
 	},
 	"topic_duplicated": {
-		en: "topic duplicated in ",
-		es: "término duplicado en "
+		en: "duplicated",
+		es: "duplicado"
 	},
 	"topic_invalid_refs": {
 		en: "invalid references: ",
@@ -1669,23 +1683,18 @@ const Strings = {
 	},
 	"topic_in_less_20%": {
 		en: "'{0}' is not in these refs (less than 20%): {1}",
-		es: "'{0}' no está en estas refs (menos del 20%): {1}"
 	},
 	"topic_invalid_see": {
 		en: "'{0}': topic has different seeAlso in english",
-		es: "'{0}': el término tiene diferentes seeAlso en inglés"
 	},
 	"topic_en_not_found": {
 		en: "'{0}' not found in english",
-		es: "'{0}' no encontrado en inglés"
 	},
 	"topic_seealso_not_found": {
 		en: "seeAlso '{0}' not found",
-		es: "seeAlso '{0}' no encontrado"
 	},
 	"topic_err_writing": {
 		en: "Error writing topic index: {0}",
-		es: "Error guardando el índice de términos: {0}"
 	},
 	"topic_see_also": {
 		bg: "Вижте също",
@@ -1801,63 +1810,48 @@ const Strings = {
 	},
 	"article_bad_title": {
 		en: "Article title is not correct",
-		es: "El título del artículo no es correcto"
 	},
 	"article_index_no_lines": {
 		en: "Article index has no lines",
-		es: "Índice de artículos sin líneas"
 	},
 	"article_index_missing_data": {
 		en: "Article index missing data in line {0}",
-		es: "Índice de artículos requiere datos en línea {0}"
 	},
 	"article_index_no_issues": {
 		en: "Article index has no issues",
-		es: "Índice de artículos no tiene números de revista"
 	},
 	"article_has_no_copyright_card": {
 		en: "Article has no copyright card: {0}",
-		es: "El artículo no tiene nota de copyright: {0}"
 	},
 	"folder_no_access": {
 		en: "Folder {0} is not accessible",
-		es: "El directorio {0} no está accesible"
 	},
 	"folder_name_invalid": {
 		en: "Folder {0} contains blank spaces or invalid chars",
-		es: "El directorio {0} contiene espacios en blanco o caracteres no válidos",
 	},
 	"folder_not_exists": {
 		en: "Folder {0} not exists",
-		es: "El directorio {0} no existe"
 	},
 	"file_not_exists": {
 		en: "File {0} not exists",
-		es: "El fichero {0} no existe"
 	},
 	"files_not_with_format": {
 		en: "Files with format {0} not found",
-		es: "No se han encontrado archivos {0}"
 	},
 	"proccessing": {
 		en: "Proccessing file {0}",
-		es: "Procesando fichero {0}"
 	},
 	"footnotes_folder_required": {
 		en: "It is required create folder {0}-footnotes",
-		es: "Es necesario crear la carpeta {0}-footnotes"
 	},
 	"folder_required": {
 		en: "One input folder do not exists",
-		es: "Falta uno de los directorios de entrada"
 	},
 	"success": {
 		en: "Conversion executed successfully",
-		es: "Conversión realizada con éxito"
 	},
 	"library_book_no_lines": {
 		en: "Library book file without lines",
-		es: "Fichero de libro de la Biblioteca sin líneas"
 	},
 }
 

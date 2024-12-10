@@ -209,7 +209,7 @@ class Paralells {
 				const blan = (tr ? lan : 'en');
 				const chapter = vals[1];
 				const ch = (isNaN(parseInt(chapter)) ? '' :
-					Strings['bookChapter'][lan].toLowerCase() + ' ');
+					this.tr('bookChapter').toLowerCase() + ' ');
 				const page = vals[2];
 				const path = `/${blan}/book/${book.path}/${chapter}#p${page}`;
 				const html = ` ${f.ub_ref}: <i>${title}</i>, ${book.author}, ` +
@@ -224,6 +224,16 @@ class Paralells {
 			});
 		result.sort((a, b) => a.sorting - b.sorting);
 		return result;
+	};
+
+	/** 
+	 * Translates a text.
+	 * @param {string} code Code of text to translate.
+	 */
+	tr = (code) => {
+		const t = Strings[code][this.language];
+		const t2 = Strings[code]['en'];
+		return t ? t : t2;
 	};
 	
 };

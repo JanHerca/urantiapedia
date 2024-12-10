@@ -99,8 +99,8 @@ class Library {
 				const lan = this.language;
 				const {title, folder_name, shelf_name, tag, cover, index, links} = this.book;
 				const folder = path.join(dirPath, folder_name);
-				const indexTitle = Strings.bookIndexName[lan];
-				const linksText = Strings.topic_external_links[lan];
+				const indexTitle = this.tr('bookIndexName');
+				const linksText = this.tr('topic_external_links');
 				
 				try {
 					if (!fs.existsSync(folder)) {
@@ -135,7 +135,7 @@ class Library {
 								? null 
 								: `${indexPath}/${arr[i+1][1].trim()}`,
 							indexPath,
-							fullIndexTitle: Strings.bookTitlePage[lan]
+							fullIndexTitle: this.tr('bookTitlePage')
 						});
 						let md = 
 							getWikijsHeader(cur[0].trim(), [...tags, 'book'],
@@ -216,6 +216,16 @@ class Library {
 	 */
 	getError = (...params) => {
 		return getError(this.language, ...params);
+	};
+
+	/** 
+	 * Translates a text.
+	 * @param {string} code Code of text to translate.
+	 */
+	tr = (code) => {
+		const t = Strings[code][this.language];
+		const t2 = Strings[code]['en'];
+		return t ? t : t2;
 	};
 }
 

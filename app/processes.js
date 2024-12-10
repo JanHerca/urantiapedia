@@ -353,8 +353,8 @@ const Processes = {
 			en: "TOPICS: Review Topic Index (TXT) in EN/ES/FR languages",
 			es: "TOPICS: Revisar Topic Index (TXT) en los idiomas EN/ES/FR"
 		},
-		controls: ['dirTTextbox'],
-		paths: [['input', 'txt']]
+		controls: ['dirTTextbox', 'dirJTextbox'],
+		paths: [['input', 'txt'], ['input', 'json']]
 	},
 	"SUM_TOPIC_TXT": {
 		active: true,
